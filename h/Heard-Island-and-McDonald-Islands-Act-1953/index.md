@@ -1,684 +1,1019 @@
-![](http://www.comlaw.gov.au/Details/C2008C00326/Html/HeardIslMcDonaldIsl53_image001.gif)
+**
 
-# Heard Island and McDonald Islands Act 1953
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953 
+**
 
-**Act No. 7 of 1953 as amended**
 
-This compilation was prepared on 11 July 2008
- taking into account amendments up to Act No. 73 of 2008
+**
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated 
- may be affected by application provisions that are set out in 
- the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note  1]
 
-[2](#2).            Interpretation
 
-[3](#3).            Territory of Heard Island and McDonald Islands
 
-[4](#4).            Existing laws to cease to be in force
+**
 
-[5](#5).            Laws of Australian Capital Territory to be in force
+###  Long Title 
+**
+**
 
-[6](#6).            Powers and functions under applied laws
+###  Preamble  
+**
 
-[7](#7).            Application of Commonwealth Acts
 
-[8](#8).            Ordinance may amend or repeal adopted laws
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 1  Short title [_see_ Note  1] 
+This Act may be cited as the _Heard Island and McDonald Islands Act 1953_.
 
-[9](#9).            A C T  courts to have jurisdiction in the Territory
+ 
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 2  Interpretation 
+In this Act, unless the contrary intention appears:
 
-[10](#10).          Ordinances
+ 
+<dl compact=""><dl compact="">
 
-[11](#11).          Laying of Ordinances before the Parliament
+_Act_ does not include an enactment. _criminal laws_ means any laws (whether written, unwritten, substantive or procedural) relating to offences, whether indictable or not, including laws about:  </dl></dl>
 
-[11A](#11A).       Ordinance not to be re-made while required to be tabled
+<dl compact=""><dl compact=""><dl compact="">
 
-[11B](#11B).       Ordinance not to be re-made while subject to disallowance
+<dt>(a)</dt><dd>the investigation of offences; and</dd>
 
-[11C](#11C).       Disallowed Ordinance not to be re-made unless resolution rescinded or House approves
+<dt>(b)</dt><dd>the punishment of offenders, including the penalties or loss of benefits
 
-[11D](#11D).       Regulations, rules and by-laws
+to which offenders are liable; and</dd>
 
-[12](#12).          Grant of pardon, remission etc 
+<dt>(c)</dt><dd>the forfeiture and confiscation of the proceeds of crime;
 
-**The Schedule—Heard Island and McDonald Islands** 
+</dd>
 
-**Notes** 
-
-## An Act to provide for the Government of Heard Island and McDonald  Islands
-
-Preamble 
-
-WHEREAS Heard  Island and McDonald Islands (being the islands described in the Schedule to this Act) are territories acquired by the Commonwealth:
-
-AND WHEREAS it is desirable to make provision for the government of those territories as one Territory of the Commonwealth:
-
-BE it therefore enacted by the Queen’s Most Excellent Majesty, the Senate, and the House of Representatives of the Commonwealth of Australia, as follows:
-
-##### <a id="1"></a>1  Short title [_see_ Note  1]
-
-                   This Act may be cited as the _Heard  Island__and__McDonald__Islands__Act 1953_.
-
-##### <a id="2"></a>2  Interpretation
-
-                   In this Act, unless the contrary intention appears:
-
-                    <a name="act"></a>**_Act_** does not include an enactment.
-
-                    <a name="crimin-law"></a>**_criminal laws_** means any laws (whether written, unwritten, substantive or procedural) relating to offences, whether indictable or not, including laws about:
-
-                     (a)  the investigation of offences; and
-
-                     (b)  the punishment of offenders, including the penalties or loss of benefits to which offenders are liable; and
-
-                     (c)  the forfeiture and confiscation of the proceeds of crime;
+</dl></dl></dl>
 
 and any laws providing for the interpretation of such laws.
 
-                    <a name="enact"></a>**_Enactment_** has the same meaning as in the _Australian   Capital Territory__(Self-Government) Act 1988_.
+<def><dl compact=""><dl compact="">
 
-                    <a name="ordin"></a>**_Ordinance_** means an Ordinance made under this Act.
+_Enactment_ has the same meaning as in the _Australian Capital Territory (Self-Government) Act 1988_. _Ordinance_ means an Ordinance made under this Act. _the Territory_ means the Territory of Heard Island and McDonald Islands.  </dl></dl>
 
-                    <a name="territori"></a>**_the Territory_** means the Territory of Heard   Island and McDonald Islands.
+**
 
-##### <a id="3"></a>3  Territory  of Heard Island and McDonald Islands
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 3  Territory of Heard Island and McDonald Islands 
+**
 
-                   Heard Island and McDonald Islands (being the islands described in the Schedule to this Act) are declared to be a Territory of the Commonwealth by the name of the Territory of Heard Island and McDonald  Islands.
+ <dl compact="">
 
-##### <a id="4"></a>4  Existing laws to cease to be in force
+		Heard Island and McDonald Islands (being the islands described in the
 
-                   The laws in force in the Territory immediately before the commencement of this Act (not being laws of the Commonwealth in force in the Territory) shall, upon the commencement of this Act, cease to be in force.
+Schedule to this Act) are declared to be a Territory of the Commonwealth by the
 
-##### <a id="5"></a>5  Laws of Australian Capital Territory to be in force
+name of the Territory of Heard Island and McDonald Islands.
 
-             (1)  Subject to this Act, the laws (other than the criminal laws) in force from time to time in the Australian Capital Territory (including the principles and rules of common law and equity so in force) are, by virtue of this section, so far as applicable to the Territory and not inconsistent with an Ordinance, in force in the Territory as if the Territory formed part of the Australian Capital Territory.
+ </dl>
 
-             (2)  Subject to this Act, the criminal laws in force from time to time in the Jervis Bay Territory are, by virtue of this section (so far as they are applicable to the Territory and are not inconsistent with an Ordinance) in force in the Territory as if the Territory formed part of the Jervis Bay Territory.
+**
 
-          (2A)  Chapter 2 of the _Criminal Code_ does not apply in relation to, or in relation to matters arising under, a law in force in the Territory under subsection (1) or (2).
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 4  Existing laws to cease to be in force 
+**
 
-             (3)  Subsection (1) does not extend to a law in force in the Australian Capital Territory, if that law is an Act or a provision of an Act other than:
+ <dl compact="">
 
-                     (a)  section 6 of the _Seat of Government Acceptance Act 1909_; and
+		The laws in force in the Territory immediately before the commencement of
 
-                     (b)  sections 3, 4 and 12C of the _Seat of Government (Administration) Act 1910_ and the Schedule to that Act.
+this Act (not being laws of the Commonwealth in force in the Territory) shall,
 
-             (4)  Subsection (2) does not extend to a criminal law in force in the Jervis Bay Territory if that law is an Act or a provision of an Act.
+upon the commencement of this Act, cease to be in force.
 
-##### <a id="6"></a>6  Powers and functions under applied laws
+ </dl>
 
-             (1)  Subject to subsection (2), where a power or function is vested in a person or authority (other than a court) by a law in force in the Territory under section 5, the power or function is, in relation to the Territory, vested in, and may be exercised or performed by, that person or authority.
+**
 
-             (2)  The Governor-General may direct that a power or function of the kind mentioned in subsection (1) be vested in a different specified person or authority and, where such a direction is in force:
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 5  Laws of Australian Capital Territory to be in force 
+**
 
-                     (a)  subsection (1) does not apply to the relevant power or function; and
+ <dl compact="">
 
-                     (b)  the power or function is vested in, and may be exercised or performed by, the specified person or authority.
+<dt>(1)</dt><dd>Subject to this Act, the laws (other than the criminal laws) in force from
 
-##### <a id="7"></a>7  Application of Commonwealth Acts
+time to time in the Australian Capital Territory (including the principles and
 
-             (1)  An Act or a provision of an Act (whether passed before or after the commencement of this Act) is not, except as otherwise provided by that Act or by another Act, in force as such in the Territory, unless expressed to extend to the Territory.
+rules of common law and equity so in force) are, by virtue of this section, so
 
-             (2)  An Ordinance shall not be made so as to affect the application of its own force in, or in relation to, the Territory of an Act or a provision of an Act.
+far as applicable to the Territory and not inconsistent with an Ordinance, in
 
-##### <a id="8"></a>8  Ordinance may amend or repeal adopted laws
+force in the Territory as if the Territory formed part of the Australian
 
-                   A law in force in the Territory by virtue of section five of this Act may be amended or repealed by an Ordinance or by a law made under an Ordinance.
+Capital Territory.</dd> <dt>(2)</dt><dd>Subject to this Act, the criminal laws in force from time to time in the Jervis Bay Territory are, by virtue of this section (so far as they are applicable to the Territory and are not inconsistent with an Ordinance) in force in the Territory as if the Territory formed part of the Jervis Bay Territory.</dd> <dt>(2A)</dt><dd>Chapter&#160;2 of the _Criminal Code_ does not apply in relation to, or in relation to matters arising under, a law in force in the Territory under subsection&#160;(1) or (2).</dd> <dt>(3)</dt><dd>Subsection&#160;(1) does not extend to a law in force in the Australian Capital Territory, if that law is an Act or a provision of an Act other than: </dd> </dl>
 
-##### <a id="9"></a>9  A.C.T. courts to have jurisdiction in the Territory
+<center>Back to Top</center>
 
-             (1)  The courts of the Australian Capital   Territory have jurisdiction in and in relation to the Territory.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The _Australian Capital Territory Supreme Court Act 1933_ and the practice and procedure of each court of the Australian Capital Territory in force from time to time apply in the Territory as if:
+<dt>(a)</dt><dd>section&#160;6 of the _Seat of Government Acceptance Act 1909_; and</dd>
 
-                     (a)  where the relevant court is exercising its jurisdiction in relation to criminal laws in force in the Territory under section 5—the Territory formed part of the Jervis Bay Territory; and
+<dt>(b)</dt><dd>sections&#160;3, 4 and 12C of the _Seat of Government (Administration) Act 1910_ and the Schedule to that Act.
 
-                     (b)  in any other case—the Territory formed part of the Australian Capital Territory.
+</dd>
 
-             (3)  For the purposes of subsection (2), a reference in the _Australian Capital Territory__Supreme Court Act 1933_ to an Ordinance or enactment is a reference to an Ordinance or enactment, as the case may be, in force under this Act.
+</dl></dl></dl>
 
-##### <a id="10"></a>10  Ordinances
+<dl compact="">
 
-             (1)  The Governor-General may make Ordinances for the peace, order and good government of the Territory.
+<dt>(4)</dt><dd>Subsection&#160;(2) does not extend to a criminal law in force in the
 
-             (2)  Notice of the making of an Ordinance shall be published in the _Gazette_, and an Ordinance shall, unless the contrary intention appears in the Ordinance, come into operation on the date of publication of the notice.
+Jervis Bay Territory if that law is an Act or a provision of an Act.
 
-##### <a id="11"></a>11  Laying of Ordinances before the Parliament
+</dd> </dl>
 
-             (1)  An Ordinance shall be laid before each House of the Parliament within fifteen sitting days of that House after the making of the Ordinance, and, if it is not so laid before each House of the Parliament, ceases to have effect.
+**
 
-             (2)  If either House of the Parliament, in pursuance of a motion of which notice has been given within fifteen sitting days after an Ordinance has been laid before that House, passes a resolution disallowing the Ordinance or a part of the Ordinance, the Ordinance or part so disallowed thereupon ceases to have effect.
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 6  Powers and functions under applied laws 
+**
 
-             (3)  If, at the expiration of fifteen sitting days after notice of a motion to disallow an Ordinance or part of an Ordinance has been given in a House of the Parliament, being notice given within fifteen sitting days after the Ordinance has been laid before that House:
+ <dl compact="">
 
-                     (a)  the notice has not been withdrawn and the motion has not been called on; or
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), where a power or function is vested in a
 
-                     (b)  the motion has been called on, moved and seconded and has not been withdrawn or otherwise disposed of;
+person or authority (other than a court) by a law in force in the Territory
+
+under section&#160;5, the power or function is, in relation to the Territory,
+
+vested in, and may be exercised or performed by, that person or authority.</dd> <dt>(2)</dt><dd>The Governor-General may direct that a power or function of the kind mentioned in subsection&#160;(1) be vested in a different specified person or authority and, where such a direction is in force: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>subsection&#160;(1) does not apply to the relevant power or function;
+
+and</dd>
+
+<dt>(b)</dt><dd>the power or function is vested in, and may be exercised or performed by,
+
+the specified person or authority.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 7  Application of Commonwealth Acts 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>An Act or a provision of an Act (whether passed before or after the
+
+commencement of this Act) is not, except as otherwise provided by that Act or
+
+by another Act, in force as such in the Territory, unless expressed to extend
+
+to the Territory.</dd> <dt>(2)</dt><dd>An Ordinance shall not be made so as to affect the application of its own force in, or in relation to, the Territory of an Act or a provision of an Act. </dd> </dl>
+
+**
+
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 8  Ordinance may amend or repeal adopted laws 
+**
+
+ <dl compact="">
+
+		A law in force in the Territory by virtue of section five of this Act may be
+
+amended or repealed by an Ordinance or by a law made under an Ordinance.
+
+ </dl>
+
+**
+
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 9  A.C.T. courts to have jurisdiction in the Territory 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The courts of the Australian Capital Territory have jurisdiction in and in
+
+relation to the Territory.</dd> <dt>(2)</dt><dd>The _Australian Capital Territory Supreme Court Act 1933_ and the practice and procedure of each court of the Australian Capital Territory in force from time to time apply in the Territory as if: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>where the relevant court is exercising its jurisdiction in relation to
+
+criminal laws in force in the Territory under section&#160;5&#151;the Territory
+
+formed part of the Jervis Bay Territory; and</dd>
+
+<dt>(b)</dt><dd>in any other case&#151;the Territory formed part of the Australian Capital
+
+Territory.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>For the purposes of subsection&#160;(2), a reference in the _Australian Capital Territory Supreme Court Act 1933_ to an Ordinance or enactment is a
+
+reference to an Ordinance or enactment, as the case may be, in force under this
+
+Act.
+
+</dd> </dl>
+
+**
+
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 10  Ordinances 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Governor-General may make Ordinances for the peace, order and good
+
+government of the Territory.</dd> <dt>(2)</dt><dd>Notice of the making of an Ordinance shall be published in the _Gazette_, and an Ordinance shall, unless the contrary intention appears in the Ordinance, come into operation on the date of publication of the notice. </dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 11  Laying of Ordinances before the Parliament 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>An Ordinance shall be laid before each House of the Parliament within
+
+fifteen sitting days of that House after the making of the Ordinance, and, if
+
+it is not so laid before each House of the Parliament, ceases to have effect.</dd> <dt>(2)</dt><dd>If either House of the Parliament, in pursuance of a motion of which notice has been given within fifteen sitting days after an Ordinance has been laid before that House, passes a resolution disallowing the Ordinance or a part of the Ordinance, the Ordinance or part so disallowed thereupon ceases to have effect.</dd> <dt>(3)</dt><dd>If, at the expiration of fifteen sitting days after notice of a motion to disallow an Ordinance or part of an Ordinance has been given in a House of the Parliament, being notice given within fifteen sitting days after the Ordinance has been laid before that House: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the notice has not been withdrawn and the motion has not been called on;
+
+or</dd>
+
+<dt>(b)</dt><dd>the motion has been called on, moved and seconded and has not been
+
+withdrawn or otherwise disposed of;
+
+</dd>
+
+</dl></dl></dl>
 
 the Ordinance or part, as the case may be, specified in the motion shall thereupon be deemed to have been disallowed.
 
-          (3A)  If, before the expiration of fifteen sitting days after notice of a motion to disallow an Ordinance or part of an Ordinance has been given in a House of the Parliament:
+<dl compact="">
 
-                     (a)  the House of Representatives is dissolved or expires, or the Parliament is prorogued; and
+<dt>(3A)</dt><dd>If, before the expiration of fifteen sitting days after notice of a
 
-                     (b)  at the time of the dissolution, expiry or prorogation, as the case may be:
+motion to disallow an Ordinance or part of an Ordinance has been given in a
 
-                              (i)  the notice has not been withdrawn and the motion has not been called on; or
+House of the Parliament:
 
-                             (ii)  the motion has been called on, moved and seconded and has not been withdrawn or otherwise disposed of;
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the House of Representatives is dissolved or expires, or the Parliament
+
+is prorogued; and</dd>
+
+<dt>(b)</dt><dd>at the time of the dissolution, expiry or prorogation, as the case may be:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the notice has not been withdrawn and the motion has not been called on;
+
+or</dd>
+
+<dt>(ii)</dt><dd>the motion has been called on, moved and seconded and has not been
+
+withdrawn or otherwise disposed of;
+
+</dd>
+
+</dl></dl></dl></dl>
 
 the Ordinance shall, for the purposes of the last two preceding subsections, be deemed to have been laid before that first-mentioned House on the first sitting day of that first-mentioned House after the dissolution, expiry or prorogation, as the case may be.
 
-             (4)  Where an Ordinance is disallowed, or is deemed to have been disallowed, under this section or ceases to have effect by virtue of the operation of subsection (1), the disallowance of the Ordinance or the operation of subsection (1) in relation to the Ordinance, as the case may be, has the same effect as a repeal of the Ordinance.
+<dl compact="">
 
-          (4A)  Where:
+<dt>(4)</dt><dd>Where an Ordinance is disallowed, or is deemed to have been disallowed,
 
-                     (a)  an Ordinance (in this subsection referred to as the **_relevant Ordinance_**) is disallowed, or is deemed to have been disallowed, under this section or ceases to have effect by virtue of the operation of subsection (1); and
+under this section or ceases to have effect by virtue of the operation of
 
-                     (b)  the relevant Ordinance repealed, in whole or in part, another Ordinance or any other law that was in force immediately before the relevant Ordinance came into operation;
+subsection&#160;(1), the disallowance of the Ordinance or the operation of
 
-the disallowance of the relevant Ordinance or the operation of subsection (1) in relation to the relevant Ordinance, as the case may be, has the effect of reviving that other Ordinance or law as the case may be, from and including the date of the disallowance or the date on which the relevant Ordinance ceased to have effect by virtue of that operation of subsection (1), as the case may be, as if the relevant Ordinance had not been made.
+subsection&#160;(1) in relation to the Ordinance, as the case may be, has the
 
-          (4B)  A reference in subsection (4) or (4A) to an Ordinance shall be read as including a reference to a part of an Ordinance, and a reference in subsection (4A) to a law has a corresponding meaning.
+same effect as a repeal of the Ordinance.</dd> <dt>(4A)</dt><dd>Where: </dd> </dl>
 
-##### <a id="11A"></a>11A  Ordinance not to be re-made while required to be tabled
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  Where an Ordinance (in this section called the **_original Ordinance_**_)_ has been made, no Ordinance containing a provision being the same in substance as a provision of the original Ordinance shall be made during the period defined by subsection (2) unless both Houses of the Parliament by resolution approve the making of an Ordinance containing a provision the same in substance as that provision of the original Ordinance.
+<dt>(a)</dt><dd>an Ordinance (in this subsection referred to as the _relevant Ordinance_) is disallowed, or is deemed to have been disallowed, under
 
-             (2)  The period referred to in subsection (1) is the period starting on the day on which the original Ordinance was made and ending at the end of 7 days after:
+this section or ceases to have effect by virtue of the operation of
 
-                     (a)  if the original Ordinance has been laid, in accordance with subsection 11(1), before both Houses of the Parliament on the same day—that day;
+subsection&#160;(1); and</dd>
 
-                     (b)  if the original Ordinance has been so laid before both Houses on different days—the later of those days; or
+<dt>(b)</dt><dd>the relevant Ordinance repealed, in whole or in part, another Ordinance or
 
-                     (c)  if the original Ordinance has not been so laid before both Houses—the last day on which subsection 11(1) could have been complied with.
+any other law that was in force immediately before the relevant Ordinance came
 
-             (3)  If a provision of an Ordinance is made in contravention of this section, the provision has no effect.
+into operation;
 
-##### <a id="11B"></a>11B  Ordinance not to be re-made while subject to disallowance
+</dd>
 
-             (1)  Where notice of a motion to disallow an Ordinance has been given in a House of the Parliament within 15 sitting days after the Ordinance has been laid before that House, no Ordinance containing a provision being the same in substance as a provision of the first-mentioned Ordinance shall be made unless:
+</dl></dl></dl>
 
-                     (a)  the notice has been withdrawn;
+the disallowance of the relevant Ordinance or the operation of subsection&#160;(1) in relation to the relevant Ordinance, as the case may be, has the effect of reviving that other Ordinance or law as the case may be, from and including the date of the disallowance or the date on which the relevant Ordinance ceased to have effect by virtue of that operation of subsection&#160;(1), as the case may be, as if the relevant Ordinance had not been made.
 
-                     (b)  the Ordinance is deemed to have been disallowed under subsection 11(3);
+<dl compact="">
 
-                     (c)  the motion has been withdrawn or otherwise disposed of; or
+<dt>(4B)</dt><dd>A reference in subsection&#160;(4) or (4A) to an Ordinance shall be read
 
-                     (d)  subsection 11(3A) has applied in relation to the Ordinance.
+as including a reference to a part of an Ordinance, and a reference in
 
-             (2)  Where:
+subsection&#160;(4A) to a law has a corresponding meaning.
 
-                     (a)  because of subsection 11(3A), an Ordinance is deemed to have been laid before a House of the Parliament on a particular day; and
+</dd> </dl>
 
-                     (b)  notice of a motion to disallow the Ordinance has been given in that House within 15 sitting days after that day;
+<center>Back to Top</center>
+
+**
+
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 11A  Ordinance not to be re-made while required to be tabled 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where an Ordinance (in this section called the _original Ordinance__)_ has been made, no Ordinance containing a provision
+
+being the same in substance as a provision of the original Ordinance shall be
+
+made during the period defined by subsection&#160;(2) unless both Houses of the
+
+Parliament by resolution approve the making of an Ordinance containing a
+
+provision the same in substance as that provision of the original Ordinance.</dd> <dt>(2)</dt><dd>The period referred to in subsection&#160;(1) is the period starting on the day on which the original Ordinance was made and ending at the end of 7 days after: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the original Ordinance has been laid, in accordance with subsection
+
+11(1), before both Houses of the Parliament on the same day&#151;that day;</dd>
+
+<dt>(b)</dt><dd>if the original Ordinance has been so laid before both Houses on different
+
+days&#151;the later of those days; or</dd>
+
+<dt>(c)</dt><dd>if the original Ordinance has not been so laid before both Houses&#151;the
+
+last day on which subsection 11(1) could have been complied with.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>If a provision of an Ordinance is made in contravention of this section,
+
+the provision has no effect.
+
+</dd> </dl>
+
+**
+
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 11B  Ordinance not to be re-made while subject to disallowance 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Where notice of a motion to disallow an Ordinance has been given in a
+
+House of the Parliament within 15 sitting days after the Ordinance has been
+
+laid before that House, no Ordinance containing a provision being the same in
+
+substance as a provision of the first-mentioned Ordinance shall be made unless:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the notice has been withdrawn;</dd>
+
+<dt>(b)</dt><dd>the Ordinance is deemed to have been disallowed under subsection 11(3);</dd>
+
+<dt>(c)</dt><dd>the motion has been withdrawn or otherwise disposed of; or</dd>
+
+<dt>(d)</dt><dd>subsection 11(3A) has applied in relation to the Ordinance.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>because of subsection 11(3A), an Ordinance is deemed to have been laid
+
+before a House of the Parliament on a particular day; and</dd>
+
+<dt>(b)</dt><dd>notice of a motion to disallow the Ordinance has been given in that House
+
+within 15 sitting days after that day;
+
+</dd>
+
+</dl></dl></dl>
 
 no Ordinance containing a provision being the same in substance as a provision of the first-mentioned Ordinance shall be made unless:
 
-                     (c)  the notice has been withdrawn;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  the Ordinance is deemed to have been disallowed under subsection 11(3);
+<dt>(c)</dt><dd>the notice has been withdrawn;</dd>
 
-                     (e)  the motion has been withdrawn or otherwise disposed of; or
+<dt>(d)</dt><dd>the Ordinance is deemed to have been disallowed under subsection 11(3);</dd>
 
-                      (f)  subsection 11(3A) has applied again in relation to the Ordinance.
+<dt>(e)</dt><dd>the motion has been withdrawn or otherwise disposed of; or</dd>
 
-             (3)  If a provision of an Ordinance is made in contravention of this section, the provision has no effect.
+<dt>(f)</dt><dd>subsection 11(3A) has applied again in relation to the Ordinance.
 
-             (4)  This section does not limit the operation of section 11A or 11C.
+</dd>
 
-             (5)  In this section:
+</dl></dl></dl>
 
-                    <a name="ordin"></a>**_Ordinance_** includes a part of an Ordinance.
+<dl compact="">
 
-##### <a id="11C"></a>11C  Disallowed Ordinance not to be re-made unless resolution rescinded or House approves
+<dt>(3)</dt><dd>If a provision of an Ordinance is made in contravention of this section,
 
-                   If an Ordinance or a part of an Ordinance is disallowed, or is deemed to have been disallowed, under section 11, and an Ordinance containing a provision being the same in substance as a provision so disallowed, or deemed to have been disallowed, is made within 6 months after the date of the disallowance, that provision has no effect, unless:
+the provision has no effect.</dd> <dt>(4)</dt><dd>This section does not limit the operation of section&#160;11A or 11C.</dd> <dt>(5)</dt><dd>In this section: </dd> </dl>
 
-                     (a)  in the case of an Ordinance, or a part of an Ordinance, disallowed by resolution—the resolution has been rescinded by the House of the Parliament by which it was passed; or
+<def><dl compact=""><dl compact="">
 
-                     (b)  in the case of an Ordinance, or a part of an Ordinance, deemed to have been disallowed—the House of the Parliament in which notice of the motion to disallow the Ordinance or part was given has approved, by resolution, the making of a provision the same in substance as the provision deemed to have been disallowed.
+_Ordinance_ includes a part of an Ordinance.
 
-##### <a id="11D"></a>11D  Regulations, rules and by-laws
+ </dl></dl>
 
-             (1)  All regulations made under an Ordinance shall be laid before each House of the Parliament within 15 sitting days of that House after the day on which the regulations are made and, if they are not so laid before each House of the Parliament, have no effect.
+**
 
-             (2)  Subsections 11(2) to (4B), inclusive, and sections 11A, 11B and 11C apply in relation to regulations laid before a House of the Parliament as if, in those provisions, references to an Ordinance were references to regulations and references to a provision of an Ordinance were references to a regulation.
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 11C  Disallowed Ordinance not to be re-made unless resolution rescinded or House approves 
+**
 
-             (3)  In this section, **_regulations_** includes rules and by-laws.
+<dl compact="">
 
-##### <a id="12"></a>12  Grant of pardon, remission etc.
+		If an Ordinance or a part of an Ordinance is disallowed, or is deemed to have
 
-             (1)  The Governor-General, acting with the advice of the Minister, by warrant under the Governor-General’s hand, may grant to a person convicted by a court exercising criminal jurisdiction in the Territory a pardon, either free or conditional, or a remission or commutation of sentence, or a respite, for such period as the Governor-General thinks fit, of the execution of sentence, and may remit any fine, penalty or forfeiture imposed or incurred under a law in force in the Territory.
+been disallowed, under section&#160;11, and an Ordinance containing a provision
 
-             (2)  Where an offence has been committed in the Territory, or where an offence has been committed outside the Territory for which the offender may be tried in the Territory, the Governor-General, acting with the advice of the Minister, by warrant under the Governor-General’s hand, may grant a pardon to any accomplice who gives evidence that leads to the conviction of the principal offender or any of the principal offenders. 
+being the same in substance as a provision so disallowed, or deemed to have
 
-# The Schedule—Heard Island and McDonald Islands 
+been disallowed, is made within 6 months after the date of the disallowance,
 
-_Section 3_
+that provision has no effect, unless:
 
-                   The islands known as Heard Island and McDonald Islands, comprising all the islands and rocks lying within the area bounded by the parallels 52 degrees 30 minutes and 53 degrees 30 minutes south latitude and the meridians 72 degrees and 74 degrees 30 minutes east longitude. 
+ </dl>
 
-# Notes to the _Heard Island and McDonald Islands Act 1953_
+<center>Back to Top</center>
 
-### Note 1
+<dl compact=""><dl compact=""><dl compact="">
 
-The _Heard Island and McDonald Islands Act 1953_ as shown in this compilation comprises Act No. 7, 1953 amended as indicated in the Tables below.
+<dt>(a)</dt><dd>in the case of an Ordinance, or a part of an Ordinance, disallowed by
 
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+resolution&#151;the resolution has been rescinded by the House of the Parliament by
 
-### Table of Acts
+which it was passed; or</dd>
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="17%">
-  <col width="23%">
-  <col width="14%">
-</colgroup>
+<dt>(b)</dt><dd>in the case of an Ordinance, or a part of an Ordinance, deemed to have
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+been disallowed&#151;the House of the Parliament in which notice of the motion to
+
+disallow the Ordinance or part was given has approved, by resolution, the
+
+making of a provision the same in substance as the provision deemed to have
+
+been disallowed.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 11D  Regulations, rules and by-laws 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>All regulations made under an Ordinance shall be laid before each House of
+
+the Parliament within 15 sitting days of that House after the day on which the
+
+regulations are made and, if they are not so laid before each House of the
+
+Parliament, have no effect.</dd> <dt>(2)</dt><dd>Subsections 11(2) to (4B), inclusive, and sections&#160;11A, 11B and 11C apply in relation to regulations laid before a House of the Parliament as if, in those provisions, references to an Ordinance were references to regulations and references to a provision of an Ordinance were references to a regulation.</dd> <dt>(3)</dt><dd>In this section, _regulations_ includes rules and by-laws. </dd> </dl>
+
+**
+
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953- SECT 12  Grant of pardon, remission etc. 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Governor-General, acting with the advice of the Minister, by warrant
+
+under his hand, may grant to a person convicted by a court exercising criminal
+
+jurisdiction in the Territory a pardon, either free or conditional, or a
+
+remission or commutation of sentence, or a respite, for such period as he
+
+thinks fit, of the execution of sentence, and may remit any fine, penalty or
+
+forfeiture imposed or incurred under a law in force in the Territory.</dd> <dt>(2)</dt><dd>Where an offence has been committed in the Territory, or where an offence has been committed outside the Territory for which the offender may be tried in the Territory, the Governor-General, acting with the advice of the Minister, by warrant under his hand, may grant a pardon to any accomplice who gives evidence that leads to the conviction of the principal offender or any of the principal offenders. </dd> </dl>
+
+<center>**
+
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953The Schedule&#151;Heard Island and McDonald Islands 
+**</center>
+
+Section&#160;3	
+
+The islands known as Heard Island and McDonald Islands, comprising all the islands and rocks lying within the area bounded by the parallels 52 degrees 30 minutes and 53 degrees 30 minutes south latitude and the meridians 72 degrees and 74 degrees 30 minutes east longitude. 
+
+<center>**
+
+###  HEARD ISLAND AND MCDONALD ISLANDS ACT 1953<centreit>Notes to the _Heard Island and McDonald Islands Act 1953_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Heard Island and McDonald Islands Act 1953_ as shown in this compilation comprises Act No.&#160;7, 1953 amended as indicated in the Tables below.
+ All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Heard Island and McDonald Islands Act 1953</div>
-  </td>
-  <td>
-    <div>7, 1953</div>
-  </td>
-  <td>
-    <div>27 Mar 1953</div>
-  </td>
-  <td>
-    <div>24 Apr 1953</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heard Island and McDonald Islands Act 1957</div>
-  </td>
-  <td>
-    <div>36, 1957</div>
-  </td>
-  <td>
-    <div>7 June 1957</div>
-  </td>
-  <td>
-    <div>5 July 1957</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heard Island and McDonald Islands Act 1963</div>
-  </td>
-  <td>
-    <div>23, 1963</div>
-  </td>
-  <td>
-    <div>28 May 1963</div>
-  </td>
-  <td>
-    <div>25 June 1963</div>
-  </td>
-  <td>
-    <div>S. 3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No.1) 1982</div>
-  </td>
-  <td>
-    <div>26, 1982</div>
-  </td>
-  <td>
-    <div>7 May 1982</div>
-  </td>
-  <td>
-    <div>Part XXIV (ss. 156, 157): 4 June 1982 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments Act (No.2) 1982</div>
-  </td>
-  <td>
-    <div>80, 1982</div>
-  </td>
-  <td>
-    <div>22 Sept 1982</div>
-  </td>
-  <td>
-    <div>Part LXXI (ss. 262, 263): 4 June 1982 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
-  </td>
-  <td>
-    <div>39, 1983</div>
-  </td>
-  <td>
-    <div>20 June 1983</div>
-  </td>
-  <td>
-    <div>S. 3: 18 July 1983 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 7(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1986</div>
-  </td>
-  <td>
-    <div>168, 1986</div>
-  </td>
-  <td>
-    <div>18 Dec 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>99, 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>2 Dec 1988</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>109, 1988</div>
-  </td>
-  <td>
-    <div>6 Dec 1988</div>
-  </td>
-  <td>
-    <div>S. 32 (in part): 11 May 1989 ( <i>see Gazette</i>1989 No. S164) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>S. 26</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>28, 1991</div>
-  </td>
-  <td>
-    <div>4 Mar 1991</div>
-  </td>
-  <td>
-    <div>74(1): Royal Assent <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<thead>
-  <tr>
-    <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-    </td>
-    <td>
-      <div>143, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>2 Oct 2001</div>
-    </td>
-    <td>
-      <div>S. 4 \[see Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2008</div>
-    </td>
-    <td>
-      <div>73, 2008</div>
-    </td>
-    <td>
-      <div>3 July 2008</div>
-    </td>
-    <td>
-      <div>Schedule 4 (items 330–332): 4 July 2008</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</thead></table>
 
-_(a)_     The _Heard Island and McDonald Islands Act 1953_ was amended by Part XXIV (sections 156 and 157) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
 
-               (12)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
 
-_(b)_    The _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_ was amended by Part LXXI (sections 262 and 263) only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1982_, subsection 2(11) of which provides as follows:
-
-               (11)   Part XLIX and LXXI shall be deemed to have come into operation on 4 June 1982.
-
-_(c)_     The _Heard Island and McDonald Islands Act 1953_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
-
-_(d)_     The _Heard Island and McDonald Islands Act 1953_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives Royal Assent.
-
-_(e)_     The _Heard Island__and__McDonald__Islands__Act 1953_ was amended by section 32 only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
-
-                 (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
-
-_(f_)      The _Heard Island__and__McDonald__Islands__Act 1953_ was amended by subsection 74(1) only of the _Crimes Legislation Amendment Act 1991_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-## Table of Amendments
-
-ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 2</div>
-    </td>
-    <td>
-      <div>am. No. 109, 1988; No. 28, 1991</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1991; No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rs. No. 28, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 36, 1957; No. 109, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 28, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 23, 1963; No. 26, 1982 (as am. by No. 80, 1982); No. 39, 1983; No. 168, 1986; No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 11A–11D</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 1957</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 73, 2008</div>
-  </td>
+  </th>
 </tr></table>
 
-## Table A
+<center>Back to Top</center>
 
-### Application, saving or transitional provisions
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Heard Island and McDonald Islands Act 1953</i></div>
 
-_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
+  </td>
+  <td colspan="1" align="left">
+    <div>7, 1953</div>
 
-##### <a id="4"></a>4  Application of Amendments
+  </td>
+  <td colspan="1" align="left">
+    <div>27 Mar 1953</div>
 
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+  </td>
+  <td colspan="1" align="left">
+    <div>24 Apr 1953</div>
 
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+  </td>
+  <td colspan="1" align="left">
 
- 
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Heard Island and McDonald Islands Act 1957</i></div>
 
- 
+  </td>
+  <td colspan="1" align="left">
+    <div>36, 1957</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>7&#160;June 1957</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>5&#160;July 1957</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Heard Island and McDonald Islands Act 1963</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>23, 1963</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>28&#160;May 1963</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>25&#160;June 1963</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 3</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 1973</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>216, 1973</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>19 Dec 1973</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>31 Dec 1973</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 9(1) and 10</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law (Miscellaneous Amendments) Act (No.1) 1982</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>26, 1982</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>7&#160;May 1982</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Part&#160;XXIV (ss. 156, 157): 4&#160;June 1982 <i>(a)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>as amended by</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law (Miscellaneous Amendments Act (No.2) 1982</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>80, 1982</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>22 Sept 1982</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Part&#160;LXXI (ss. 262, 263): 4&#160;June 1982 <i>(b)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law (Miscellaneous Provisions) Act (No.&#160;1) 1983</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>39, 1983</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>20&#160;June 1983</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 3: 18&#160;July 1983 <i>(c)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 7(1)</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law (Miscellaneous Provisions) Act (No.&#160;2) 1986</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>168, 1986</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>18 Dec 1986</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 3: Royal Assent <i>(d)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 5</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>99, 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>2 Dec 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>2 Dec 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>A.C.T. Self-Government (Consequential Provisions) Act 1988</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>109, 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>6 Dec 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 32 (in part): 11&#160;May 1989 ( <i>see Gazette</i>1989 No.&#160;S164) <i>(e)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 26</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Crimes Legislation Amendment Act 1991</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>28, 1991</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>4 Mar 1991</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>74(1): Royal Assent <i>(f)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>143, 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>1 Oct 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>2 Oct 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>S. 4 \[see Table A]</div>
+
+  </th>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _Heard Island and McDonald Islands Act 1953_ was amended by Part&#160;XXIV (sections&#160;156 and 157) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
+
+	(12)	The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
+
+_(b)_	The _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_ was amended by Part&#160;LXXI (sections&#160;262 and 263) only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1982_, subsection 2(11) of which provides as follows:
+
+	(11)	Part&#160;XLIX and LXXI shall be deemed to have come into operation on 4&#160;June 1982.
+
+_(c)_	The _Heard Island and McDonald Islands Act 1953_ was amended by section&#160;3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+
+_(d)_	The _Heard Island and McDonald Islands Act 1953_ was amended by section&#160;3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act shall come into operation on the day on which it receives Royal Assent.
+
+_(e)_	The _Heard Island and McDonald Islands Act 1953_ was amended by section&#160;32 only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
+
+	(3)	The remaining provisions of this Act (including the amendments made by Schedule&#160;5) commence on a day or days to be fixed by Proclamation.
+
+_(f_)	The _Heard Island and McDonald Islands Act 1953_ was amended by subsection 74(1) only of the _Crimes Legislation Amendment Act 1991_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+**Table of Amendments**
+
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted 
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 2</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;109, 1988; No.&#160;28, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 5</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;28, 1991; No. 143, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 6</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;28, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 9</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;36, 1957; No.&#160;109, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;28, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 11</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;23, 1963; No.&#160;26, 1982 (as am. by No.&#160;80, 1982); No. 39, 1983; No.&#160;168, 1986; No.&#160;99, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 11A-11D</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;99, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 12</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;36, 1957</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;216, 1973</div>
+
+  </td>
+</tr></table>**Table A**
+
+**Application, saving or transitional provisions**
+
+_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001_(No. 143, 2001)
+
+**4  Application of Amendments**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Each amendment made by this Act applies to acts and omissions that take
+
+place after the amendment commences.</dd> <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd> </dl>
+
+</def>
+
+</def>
+
+
