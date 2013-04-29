@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image001.gif)
 
 # Defence Service Homes Act 1918
 
 **Act No. 43 of 1918 as amended**
 
-This compilation was prepared on 1 July 2009
+This compilation was prepared on 9 January 2009
  taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force
@@ -34,7 +34,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4AB](#4AB).      Joint ownership
 
-[4A](#4A).         Eligible person and spouse or de facto partner may be treated together as eligible person
+[4A](#4A).         Eligible person and spouse may be treated together as eligible person
 
 [4BA](#4BA).      Election to surrender eligible status
 
@@ -346,21 +346,19 @@ in an operational area described in items 4, 5, 6, 7 or 8 in Schedule 2 to t
 
                      (b)  any other credit provider (within the meaning of the _Privacy Act 1988_) that is the party to an agreement (within the meaning of this Act).
 
-                    <a name=""></a><a name="de-facto-partner"></a>**_de facto partner_** of a person  has the meaning given by the _Acts Interpretation Act 1901_.
-
                     <a name="elig-person"></a><a name="depend-parent"></a>**_dependent parent_** means a parent of a person mentioned in paragraphs (a) to (g) of the definition of **_Eligible person_** if:
 
                      (a)  the person so mentioned:
 
                               (i)  is dead; and
 
-                             (ii)  at the time of death, was not legally married and did not have a de facto partner; and
+                             (ii)  at the time of death, was not legally married; and
 
                      (b)  one of the following subparagraphs applies:
 
                               (i)  the parent is a widow or widower and was dependent on the person before the person became an eligible person;
 
-                             (ii)  the parent’s spouse or de facto partner is so incapacitated as to be unable to contribute materially to that parent’s support.
+                             (ii)  the parent’s husband or wife is so incapacitated as to be unable to contribute materially to that parent’s support.
 
                     <a name="dwell-hous"></a>**_Dwelling-house_** includes:
 
@@ -410,7 +408,7 @@ and includes a widow, widower or dependent parent of a person specified in any o
 
                               (i)  merely because the person is or was the personal representative of a deceased purchaser or borrower as so defined; or
 
-                             (ii)  merely because the person is or was a joint purchaser or borrower as so defined with the person’s spouse or de facto partner and became such a purchaser or borrower on the basis that the person’s spouse or de facto partner was an eligible person; and
+                             (ii)  merely because the person is or was a joint purchaser or borrower as so defined with the person’s spouse and became such a purchaser or borrower on the basis that the person’s spouse was an eligible person; and
 
                      (b)  is not such a purchaser or borrower immediately before the advance is made.
 
@@ -464,7 +462,7 @@ Note:          An interest in a holding may be a joint interes
 
                      (a)  merely because the person is or was the personal representative of a deceased purchaser or borrower as so defined; or
 
-                     (b)  merely because the person is or was a joint purchaser or borrower as so defined with the person’s spouse or de facto partner and became such a purchaser or borrower on the basis that the person’s spouse or de facto partner was an eligible person.
+                     (b)  merely because the person is or was a joint purchaser or borrower as so defined with the person’s spouse and became such a purchaser or borrower on the basis that the person’s spouse was an eligible person.
 
                     <a name="instal-relief"></a>**_instalment relief_** has the same meaning as in the agreement.
 
@@ -499,8 +497,6 @@ Note:          An interest in a holding may be a joint interes
                     <a name="portfolio-agreem"></a>**_other portfolio agreement_** has the same meaning as in the Bank agreement.
 
                     <a name="owner"></a>**_Owner_** in relation to land includes every person who has purchased land on credit or deferred payment, and has obtained possession of the land, and, in relation to a dwelling-house, includes any person who has purchased or contracted to purchase a dwelling-house together with the land on which it is erected.
-
-                    <a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of anyone for the purposes of this Act, a person is the **_parent_** of another person if the other person is a child of the person within the meaning of the _Family Law Act 1975_.
 
                     <a name="portfolio-asset"></a>**_portfolio asset_** has the same meaning as in the Bank agreement.
 
@@ -592,9 +588,9 @@ Note:          An interest in a holding may be a joint interes
 
                     <a name="war-worker"></a>**_War worker_** means a person, who, during the First World War, entered into an agreement with the Commonwealth to proceed to Great Britain for the purpose of engaging in work as a labourer, fettler or navvy for the Imperial Government or otherwise and engaged in such work, and whose agreement with the Commonwealth or the Minister of State for Defence was not determined by reason of his failure to observe and perform any term or condition contained in the agreement, or by reason of his dismissal from any work in Great Britain during the continuance of the agreement because of any conduct of the worker which, in the opinion of the Minister, was such as to justify the determination of the agreement.
 
-                    <a name="widow"></a>**_widow_** of a person who has died includes a woman who was a de facto partner of the person immediately before the person died.
+                    <a name="widow"></a>**_Widow_**, in relation to an eligible person who died after the commencement of section 3 of the _Defence Service Homes Amendment Act 1978_, includes a woman who lived with the eligible person as his wife on a permanent and _bona fide_ domestic basis, although not legally married to him.
 
-                    <a name="widow"></a>**_widower_** of a person who has died includes a man who was a de facto partner of the person immediately before the person died.
+                    <a name="widow"></a>**_widower_**, in relation to an eligible person who died after the commencement of paragraph 4(d) of the amending Act, includes a man who lived with the eligible person as her husband on a permanent and _bona fide_ domestic basis, although not legally married to her.
 
                     <a name="widow-widow-advanc"></a>**_widow or widower advance_** means a subsidised advance to a person referred to in section 20 for a purpose referred to in that section.
 
@@ -628,9 +624,9 @@ shall not, by reason only of being or having been such a member, be taken to hav
 
         (2AB)  For the purposes of the definitions of **_further advance_** and **_initial advance_** in subsection 4(1), a person of a kind referred to in subsection (2AA) is not taken to have been a purchaser or borrower, merely because the person previously became a purchaser or borrower on the basis that:
 
-                     (a)  the person’s spouse or de facto partner is or was an eligible person, and as a result they were, under subsection 4A(1), treated together as an eligible person for the purposes of this Act; or
+                     (a)  the person’s husband is or was an eligible person, and as a result they were, under subsection 4A(1), treated together as an eligible person for the purposes of this Act; or
 
-                     (b)  the person’s spouse or de facto partner was an eligible person, and the person became an eligible person because her spouse or de facto partner died; or
+                     (b)  the person’s husband was an eligible person, and the person became an eligible person because her husband died; or
 
                      (c)  the person is an eligible person because she is a dependent parent.
 
@@ -644,9 +640,9 @@ is not taken to have been a purchaser or borrower, merely because he previously 
 
                      (c)  he was an eligible person in his own right; or
 
-                     (d)  his spouse or de facto partner was an eligible person and they were, under subsection 4A(1), together treated as an eligible person for the purposes of this Act; or
+                     (d)  his wife was an eligible person and he and she were, under subsection 4A(1), together treated as an eligible person for the purposes of this Act; or
 
-                     (e)  his spouse or de facto partner was an eligible person and he became an eligible person because his spouse or de facto partner died; or
+                     (e)  his wife was an eligible person and he became an eligible person because his wife died; or
 
                       (f)  he was an eligible person because he was a dependent parent.
 
@@ -674,6 +670,12 @@ shall not be treated as an eligible person for the purposes of this Act, but thi
 
 the whole or any part of the service by reason of which she is such a member or such a regular serviceman, as the case may be, was service as a member of a nursing service, she shall, for the purposes of paragraph 18(1)(f), be deemed to be a person included in paragraph (b) of the definition of **_Australian Soldier_** in subsection (1) of section 4.
 
+          (3A)  A reference in this Act to the wife of a man shall, in relation to any time when a woman is living with him as his wife on a permanent and _bona fide_ domestic basis, although not legally married to him, be read as including a reference to that woman.
+
+          (3B)  A reference in this Act to the husband of a woman shall, in relation to any time when a man is living with her as her husband on a permanent and _bona fide_ domestic basis, although not legally married to her, be read as including a reference to that man.
+
+          (3C)  Where the Secretary is of the opinion that a person would, but for a temporary absence or an absence resulting from illness or infirmity, have been living with another person at any time on a permanent and _bona fide_ domestic basis, the first mentioned person shall, for the purposes of this Act, be deemed to have been living with the other person on a permanent and _bona fide_ domestic basis at that time.
+
              (4)  Where:
 
                      (a)  an applicant is the lessee of land under a lease for a term of years from the Commonwealth, the Administration of a Territory or a State, being a lease under which he is entitled, on the fulfilment of the terms, conditions and covenants of the lease, to a grant in fee simple of the land; and
@@ -694,7 +696,7 @@ the land shall be deemed to be a holding for the purposes of this Act in relatio
 
              (7)  For the purposes of this Act a person is not taken to have a right of residence in a retirement village if the person’s right of residence is derived from the person’s interest in a holding of the person.
 
-             (8)  In this Act, a reference to a person’s **_retirement village accommodation_** means that part of a retirement village in which the person has, or the person and the person’s spouse or de facto partner have, obtained a right of residence.
+             (8)  In this Act, a reference to a person’s **_retirement village accommodation_** means that part of a retirement village in which the person has, or the person and the person’s spouse have, obtained a right of residence.
 
              (9)  A reference in this Act to an advance that a person may seek from a credit provider, includes a reference to such an advance that a person may seek from a credit provider on behalf of an assignee, or a proposed assignee, of the person.
 
@@ -712,7 +714,7 @@ the land shall be deemed to be a holding for the purposes of this Act in relatio
 
                      (a)  was an assignor merely because the person is or was the personal representative of a deceased assignor; or
 
-                     (b)  was an assignor merely because the person is or was an assignor together with the person’s spouse or de facto partner, and became such an assignor on the basis that the person’s spouse or de facto partner was an eligible person.
+                     (b)  was an assignor merely because the person is or was an assignor together with the person’s spouse, and became such an assignor on the basis that the person’s spouse was an eligible person.
 
 ##### <a id="4AAA"></a>4AAA  Regular Serviceman
 
@@ -834,11 +836,11 @@ includes a reference to such property held by a person as a joint tenant or tena
 
 Note:          Section 17A deals with the issue of certificates of entitlement in relation to joint tenancies and tenancies in common.
 
-##### <a id="4A"></a>4A  Eligible person and spouse or de facto partner may be treated together as eligible person
+##### <a id="4A"></a>4A  Eligible person and spouse may be treated together as eligible person
 
-             (1)  The Secretary may, in his or her discretion, treat an eligible person and the spouse or de facto partner of that eligible person together as an eligible person for the purposes of this Act, and any reference in this Act to an eligible person shall be read as including a reference to a spouse or de facto partner of that eligible person who is so treated.
+             (1)  The Secretary may, in his or her discretion, treat an eligible person and the wife or husband of that eligible person together as an eligible person for the purposes of this Act, and any reference in this Act to an eligible person shall be read as including a reference to a wife or husband of that eligible person who is so treated.
 
-             (3)  The Secretary shall not apply this section in relation to any land, or land and dwelling-house, if the land, or land and dwelling-house, is or are owned or proposed to be owned by the eligible person and his or her spouse or de facto partner otherwise than as joint tenants.
+             (3)  The Secretary shall not apply this section in relation to any land, or land and dwelling-house, if the land, or land and dwelling-house, is or are owned or proposed to be owned by the eligible person and his or her wife or husband otherwise than as joint tenants.
 
              (6)  The application of this section in relation to land or land and a dwelling-house does not, except as provided by this section, affect the application of the other provisions of this Act in relation to the land or land and dwelling-house.
 
@@ -1092,9 +1094,9 @@ whichever happens first.
 
              (1)  The Secretary must not issue a certificate of entitlement under this Part to an applicant if the applicant’s interest or right is in the form of a joint tenancy, unless the Secretary is satisfied that:
 
-                     (a)  the application was made by a person and his or her spouse or de facto partner who, under subsection 4A(1), are treated together as an eligible person for the purposes of this Act; or
+                     (a)  the application was made by a person and his or her wife or husband who, under subsection 4A(1), are treated together as an eligible person for the purposes of this Act; or
 
-                     (b)  the only other joint tenant is the applicant’s spouse or de facto partner, who is also an eligible person.
+                     (b)  the only other joint tenant is the applicant’s wife or husband, who is also an eligible person.
 
              (2)  The Secretary must not issue a certificate of entitlement under this Part to an applicant if the applicant’s interest or right is in the form of a tenancy in common, unless the Secretary is satisfied that the interest or right, at the time when the application was lodged, would have had a value, if it were unencumbered, of not less than the sum of:
 
@@ -1110,7 +1112,7 @@ whichever happens first.
 
              (1)  Subject to this section, the Secretary shall not issue a certificate of entitlement in relation to subsidy on an advance that a person may seek from a credit provider unless satisfied that:
 
-                     (a)  the person is an eligible person, or the spouse or de facto partner of an eligible person who is temporarily or permanently insane; and
+                     (a)  the person is an eligible person, or the husband or wife of an eligible person who is temporarily or permanently insane; and
 
                      (b)  the person:
 
@@ -1130,7 +1132,7 @@ whichever happens first.
 
                              (ii)  a payment instead of such a cash grant; and
 
-                     (e)  if the person has a spouse or de facto partner (other than a spouse or de facto partner from whom he or she is permanently separated)—the spouse or de facto partner:
+                     (e)  if the person has a husband or wife (other than a husband or wife from whom he or she is permanently separated)—the husband or wife:
 
                               (i)  is not the owner of a dwelling-house; and
 
@@ -1202,9 +1204,9 @@ whichever happens first.
 
                      (a)  the person is:
 
-                              (i)  the widow, widower or a widowed parent of an eligible person; or
+                              (i)  the widow, widower, widowed mother or widowed father of an eligible person; or
 
-                             (ii)  a spouse or de facto partner of an eligible person who is temporarily or permanently insane; and
+                             (ii)  the wife or husband of an eligible person who is temporarily or permanently insane; and
 
                      (b)  the person is a purchaser or a borrower in relation to:
 
@@ -1350,9 +1352,9 @@ a transfer of the person’s right of residence, while the person’s liability 
 
                               (i)  the widow or widower of an eligible person; or
 
-                             (ii)  a widowed parent of an eligible person; or
+                             (ii)  the widowed mother or widowed father of an eligible person; or
 
-                            (iii)  a spouse or de facto partner of an eligible person who is temporarily or permanently insane; or
+                            (iii)  the wife or husband of an eligible person who is temporarily or permanently insane; or
 
                      (b)  the applicant is not a person referred to in paragraph (a) but is a purchaser or a borrower who is an eligible person or is an eligible veteran and the amounts of the instalments payable under the relevant contract of sale, mortgage or other security include an amount of interest calculated at a rate of more than 3.75% per year;
 
@@ -1374,7 +1376,7 @@ and that it would cause financial hardship to the applicant if the applicant wer
 
              (7)  Guidelines approved by the Minister in accordance with this section are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="23A"></a>23A  Certificates of assignment
+##### <a id="23A"></a>23A  Certificates of assignment
 
              (1)  Subject to this Act, the Secretary may, on application by an eligible person (the**_assignor_**) for a certificate of assignment, issue the assignor with such a certificate certifying that subsidy is payable by the Commonwealth to a credit provider if, in accordance with the certificate, the credit provider makes an advance to another person (the **_assignee_**).
 
@@ -1702,7 +1704,7 @@ the Secretary may, by notice of cancellation given to the assignor, cancel the s
 
 but does not, within 3 months after starting that action, recover the outstanding balance secured under the asset, or the outstanding balance of the advance, as the case may be, the Secretary may, by notice of cancellation given to the relevant borrower, purchaser or transferee, cancel the subsidy on the date specified in the notice, being a date not earlier than the date of the notice.
 
-             (4)  Where the Commonwealth is paying subsidy in respect of 2 persons and one of those persons becomes a spouse or de facto partner of the other person, the Secretary may, by notice of cancellation given to one of those persons, cancel the subsidy in respect of that person on the date specified in the notice, being a date not earlier than the date of the notice.
+             (4)  Where the Commonwealth is paying subsidy in respect of 2 persons and one of those persons becomes the husband or wife of the other person, the Secretary may, by notice of cancellation given to one of those persons, cancel the subsidy in respect of that person on the date specified in the notice, being a date not earlier than the date of the notice.
 
              (5)  The Secretary shall cause a copy of a notice of cancellation to be given:
 
@@ -1762,7 +1764,7 @@ and the Secretary decides that the subsidy should be cancelled, the Secretary sh
 
                      (b)  3 months has elapsed from the date on which the person died; and
 
-                     (c)  the Secretary is satisfied that there is no surviving spouse or de facto partner of the person, to whom a certificate of entitlement could be issued under section 22, in relation to the land or land and dwelling-house concerned, or in relation to the right of residence in the retirement village concerned (as the case requires); and
+                     (c)  the Secretary is satisfied that there is no surviving wife or husband of the person, to whom a certificate of entitlement could be issued under section 22, in relation to the land or land and dwelling-house concerned, or in relation to the right of residence in the retirement village concerned (as the case requires); and
 
                      (d)  the Secretary considers it appropriate to cancel the subsidy.
 
@@ -1772,15 +1774,15 @@ and the Secretary decides that the subsidy should be cancelled, the Secretary sh
 
                      (b)  3 months has elapsed from the date on which the person died; and
 
-                     (c)  the Secretary is satisfied that there is no surviving spouse or de facto partner of the person, to whom a certificate of entitlement could be issued under section 22, in relation to the land or land and dwelling-house concerned, or in relation to the right of residence in the retirement village concerned (as the case requires); and
+                     (c)  the Secretary is satisfied that there is no surviving wife or husband of the person, to whom a certificate of entitlement could be issued under section 22, in relation to the land or land and dwelling-house concerned, or in relation to the right of residence in the retirement village concerned (as the case requires); and
 
                      (d)  the Secretary considers it appropriate to cancel the subsidy.
 
-             (3)  If subsidy is being paid in respect of 2 persons who are spouses or de facto partners of each other who, under subsection 4A(1), are treated together as an eligible person for the purposes of this Act, the Secretary may only cancel subsidy under subsection (1) or (2) if:
+             (3)  If subsidy is being paid in respect of a wife and husband who, under subsection 4A(1), are treated together as an eligible person for the purposes of this Act, the Secretary may only cancel subsidy under subsection (1) or (2) if:
 
-                     (a)  both spouses or de facto partners have died; and
+                     (a)  both the wife and husband have died; and
 
-                     (b)  3 months has elapsed from the death of the spouse or de facto partner who died last.
+                     (b)  3 months has elapsed from the death of the wife or the death of the husband, whichever is the later.
 
              (4)  If the Secretary cancels subsidy under subsection (1) or (2), the Secretary must:
 
@@ -1994,7 +1996,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                    The Step 1 calculations are:
 
-![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image002.gif)
 
                    Under Step 2, the $310 is divided by the total limit of $4,000, giving a result of 0.0775.
 
@@ -2180,7 +2182,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                     (ga)  a dwelling-house wholly or partially owned by an eligible person or an eligible veteran; 
 
-                    (gb)  a dwelling-house wholly owned by a person and his or her spouse or de facto partner who, under subsection 4A(1), are treated together as an eligible person for the purposes of this Act;
+                    (gb)  a dwelling-house wholly owned by a person and his or her wife or husband who, under subsection 4A(1), are treated together as an eligible person for the purposes of this Act;
 
                      (h)  building materials on the site of a dwelling-house:
 
@@ -2374,7 +2376,7 @@ Note:          The Account was established by subsection 5(3) 
 
 ##### <a id="41"></a>41  Appropriation
 
-                   The following payments by the Commonwealth to a credit provider shall be made out of the Consolidated Revenue Fund, which is appropriated accordingly:
+                   The following payments by the Commonwealth to a credit provider shall be made out of the Consolidated Revenue Fund, which is appropriated accordingly:
 
                      (a)  payments of subsidy;
 
@@ -2440,7 +2442,7 @@ Note:          The Account was established by subsection 5(3) 
 
                      (b)  shall not be sold in satisfaction of a judgment debt, otherwise than by a credit provider or another mortgagee in the exercise of powers under a contract of sale, or a mortgage or other security.
 
-             (2)  Where 2 persons who are spouses or de facto partners of each other are joint purchasers or borrowers in relation to land, land and a dwelling-house or a right of residence in a retirement village, the Secretary may give an approval under subsection (1) in relation to the estate or interest of both of them if either of them becomes bankrupt or incurs a judgment debt.
+             (2)  Where a husband and wife are joint purchasers or borrowers in relation to land, land and a dwelling-house or a right of residence in a retirement village, the Secretary may give an approval under subsection (1) in relation to the estate or interest of both of them if either of them becomes bankrupt or incurs a judgment debt.
 
 ##### <a id="45B"></a>45B  Exchange of information
 
@@ -2516,7 +2518,7 @@ Note:          The authorisation under this subsection is only
 
 ##### <a id="47"></a>47  Dwelling-houses for incapacitated soldiers
 
-                   The Secretary may provide a dwelling-house for the use of a person who is receiving, or is eligible to receive, a pension under Part II of the _Veterans’ Entitlements Act 1986_ and to whom section 24 of that Act applies.
+                   The Secretary may provide a dwelling-house for the use of a person who is receiving, or is eligible to receive, a pension under Part II of the _Veterans’ Entitlements Act 1986_ and to whom section 24 of that Act applies.
 
 ##### <a id="50A"></a>50A  Improper use of certain words
 
@@ -4037,7 +4039,7 @@ The amount of Subsidy payable by the Commonwealth shall be calculated as set out
 
 (b)   in the event that the total amount of Portfolio Arrears exceeds 0.035 per cent of the aggregate of the Limits on all Subsidised Advance Loan Accounts, the total Subsidy payable pursuant to this Clause shall be reduced by an amount calculated by application of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image003.gif)
 
 where
 
@@ -4524,9 +4526,11 @@ The Commonwealth undertakes to procure the due and proper performance by the Cor
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image004.gif)
 
-![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image005.gif)
+
+* * *
 
 **SCHEDULE “A”**
 
@@ -4685,7 +4689,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number (includes Bank State Branch number)
 
-![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image006.gif)
 
 B.    MONTHLY SUBSIDY REPORT—VARIATIONS IN INTEREST ON SPECIFIED PORTFOLIO ASSETS AND BANK ADVANCES (TO BE SUPPLIED ON COMPUTER TAPE)
 
@@ -4697,7 +4701,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number
 
-![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image007.gif)
 
 Open/Closed dates
 
@@ -5152,9 +5156,7 @@ This Supplementary Agreement may not be assigned in whole or in part by either p
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image008.gif)
-
-![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image008.gif)![](http://www.comlaw.gov.au/Details/C2009C00069/Html/DefServiceHomes1918WD02_image009.gif)
 
 **SCHEDULE OF AMENDMENTS TO AGREEMENT**
 
@@ -7619,7 +7621,7 @@ Schedule 1 (item 5): 1 Nov 1996 <i>(r)</i></div>
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 15 (items 1–32): 1 July 2009</div>
+    <div>Schedule 15 (items 1–32): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 15 (items 9, 11) \[ <i>see</i>Table A]</div>
@@ -7811,7 +7813,7 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 1, 1941; No. 8, 1946; Nos. 38 and 71, 1947; No. 74, 1951; No. 69, 1954; No. 100, 1956; No. 93, 1962; No. 99, 1968; No. 120, 1971; Nos. 31 and 216, 1973; No. 125, 1974; No. 25, 1975; No. 185, 1976; No. 79, 1977; No. 137, 1978; No. 80, 1982; No. 72, 1984; Nos. 28, 1986; No. 29, 1986 (as am. by No. 78, 1987); No. 124, 1988; Nos. 86 and 93, 1989; Nos. 2, 14, 73, 74 and 208, 1991; No. 70, 1992; No. 128, 1995; No. 55, 1996; Nos. 7 and 157, 1997; No. 171, 1999; No. 141, 2000; No. 144, 2008</div>
+    <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 1, 1941; No. 8, 1946; Nos. 38 and 71, 1947; No. 74, 1951; No. 69, 1954; No. 100, 1956; No. 93, 1962; No. 99, 1968; No. 120, 1971; Nos. 31 and 216, 1973; No. 125, 1974; No. 25, 1975; No. 185, 1976; No. 79, 1977; No. 137, 1978; No. 80, 1982; No. 72, 1984; Nos. 28, 1986; No. 29, 1986 (as am. by No. 78, 1987); No. 124, 1988; Nos. 86 and 93, 1989; Nos. 2, 14, 73, 74 and 208, 1991; No. 70, 1992; No. 128, 1995; No. 55, 1996; Nos. 7 and 157, 1997; No. 171, 1999; No. 141, 2000</div>
   </td>
 </tr>
 <tr>
@@ -7872,14 +7874,6 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 4A</div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4A</div>
   </td>
   <td>
@@ -7891,7 +7885,7 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
     <div></div>
   </td>
   <td>
-    <div>am. No. 99, 1968; No. 31, 1973; No. 25, 1975; No. 124, 1988; No. 144, 2008</div>
+    <div>am. No. 99, 1968; No. 31, 1973; No. 25, 1975; No. 124, 1988</div>
   </td>
 </tr>
 <tr>
@@ -8128,14 +8122,6 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 18</div>
   </td>
   <td>
@@ -8155,7 +8141,7 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 2 and 74, 1991; Nos. 70 and 228, 1992; No. 128, 1995; No. 171, 1999; No. 141, 2000; No. 144, 2008</div>
+    <div>am. Nos. 2 and 74, 1991; Nos. 70 and 228, 1992; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
   </td>
 </tr>
 <tr>
@@ -8195,7 +8181,7 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 2 and 74, 1991; No. 128, 1995; No. 141, 2000; No. 144, 2008</div>
+    <div>am. Nos. 2 and 74, 1991; No. 128, 1995; No. 141, 2000</div>
   </td>
 </tr>
 <tr>
@@ -8259,7 +8245,7 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 2 and 74, 1991; No. 171, 1999; No. 141, 2000; No. 144, 2008</div>
+    <div>am. Nos. 2 and 74, 1991; No. 171, 1999; No. 141, 2000</div>
   </td>
 </tr>
 <tr>
@@ -8483,7 +8469,7 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
     <div></div>
   </td>
   <td>
-    <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000; No. 144, 2008</div>
+    <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000</div>
   </td>
 </tr>
 <tr>
@@ -8523,7 +8509,7 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
     <div></div>
   </td>
   <td>
-    <div>am. No. 141, 2000; No. 144, 2008</div>
+    <div>am. No. 141, 2000</div>
   </td>
 </tr>
 <tr>
@@ -8835,7 +8821,7 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 2 and 14, 1991; No. 128, 1995; No. 171, 1999; No. 144, 2008</div>
+    <div>am. Nos. 2 and 14, 1991; No. 128, 1995; No. 171, 1999</div>
   </td>
 </tr>
 <tr>
@@ -9155,7 +9141,7 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
     <div></div>
   </td>
   <td>
-    <div>am. No. 2, 1991; No. 141, 2000; No. 144, 2008</div>
+    <div>am. No. 2, 1991; No. 141, 2000</div>
   </td>
 </tr>
 <tr>
@@ -11213,6 +11199,146 @@ The amendment history of the repealed provisions of the _Defence Service Homes A
   </td>
 </tr></table>
 
+### Note 2
+
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+
+The following amendments commence on 1 July 2009:
+
+## Schedule 15
+
+## 1  Subsection 4(1)
+
+Insert:
+
+                    <a name=""></a><a name="de-facto-partner"></a>**_de facto partner_** of a person  has the meaning given by the _Acts Interpretation Act 1901_.
+
+## 2  Subsection 4(1) (subparagraph (a)(ii) of the definition of _dependent parent_)
+
+After “married”, insert “and did not have a de facto partner”.
+
+## 3  Subsection 4(1) (subparagraph (b)(ii) of the definition of _dependent parent_)
+
+Omit “husband or wife”, substitute “spouse or de facto partner”.
+
+## 4  Subsection 4(1) (subparagraph (a)(ii) of the definition of _further advance_)
+
+After “spouse” (wherever occurring), insert “or de facto partner”.
+
+## 5  Subsection 4(1) (paragraph (b) of the definition of _initial advance_)
+
+After “spouse” (wherever occurring), insert “or de facto partner”.
+
+## 6  Subsection 4(1)
+
+Insert:
+
+                    <a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of anyone for the purposes of this Act, a person is the **_parent_** of another person if the other person is a child of the person within the meaning of the _Family Law Act 1975_.
+
+## 7  Subsection 4(1) (definition of _Widow_)
+
+Repeal the definition.
+
+## 8  Subsection 4(1)
+
+Insert:
+
+                    <a name="widow"></a>**_widow_** of a person who has died includes a woman who was a de facto partner of the person immediately before the person died.
+
+## 10  Subsection 4(1) (definition of _widower_)
+
+Repeal the definition, substitute:
+
+                    <a name="widow"></a>**_widower_** of a person who has died includes a man who was a de facto partner of the person immediately before the person died.
+
+## 12  Paragraphs 4(2AB)(a) and (b)
+
+Omit “husband” (wherever occurring), substitute “spouse or de facto partner”.
+
+## 13  Paragraph 4(2AC)(d)
+
+Omit “wife”, substitute “spouse or de facto partner”.
+
+## 14  Paragraph 4(2AC)(d)
+
+Omit “he and she”, substitute “they”.
+
+## 15  Paragraph 4(2AC)(e)
+
+Omit “wife” (wherever occurring), substitute “spouse or de facto partner”.
+
+## 16  Subsections 4(3A), (3B) and (3C)
+
+Repeal the subsections.
+
+## 17  Subsection 4(8)
+
+After “spouse”, insert “or de facto partner”.
+
+## 18  Paragraph 4(13)(b)
+
+After “spouse” (wherever occurring), insert “or de facto partner”.
+
+## 19  Subsections 4A(1) and (3)
+
+Omit “wife or husband” (wherever occurring), substitute “spouse or de facto partner”.
+
+_Note:       The heading to section 4A is altered by inserting “or de facto partner” after “spouse”._
+
+## 20  Paragraphs 17A(1)(a) and (b)
+
+Omit “wife or husband”, substitute “spouse or de facto partner”.
+
+## 21  Paragraphs 18(1)(a) and (e)
+
+Omit “husband or wife” (wherever occurring), substitute “spouse or de facto partner”.
+
+## 22  Subparagraph 20(1)(a)(i)
+
+Omit “, widowed mother or widowed father”, substitute “ or a widowed parent”.
+
+## 23  Subparagraph 20(1)(a)(ii)
+
+Omit “the wife or husband”, substitute “a spouse or de facto partner”.
+
+## 24  Subparagraph 23(1)(a)(ii)
+
+Omit “the widowed mother or widowed father”, substitute “a widowed parent”.
+
+## 25  Subparagraph 23(1)(a)(iii)
+
+Omit “the wife or husband”, substitute “a spouse or de facto partner”.
+
+## 26  Subsection 26(4)
+
+Omit “the husband or wife”, substitute “a spouse or de facto partner”.
+
+## 27  Paragraphs 27A(1)(c) and (2)(c)
+
+Omit “wife or husband”, substitute “spouse or de facto partner”.
+
+## 28  Subsection 27A(3)
+
+Omit “a wife and husband”, substitute “2 persons who are spouses or de facto partners of each other”.
+
+## 29  Paragraph 27A(3)(a)
+
+Omit “the wife and husband”, substitute “spouses or de facto partners”.
+
+## 30  Paragraph 27A(3)(b)
+
+Omit “wife or the death of the husband, whichever is the later”, substitute “spouse or de facto partner who died last”.
+
+## 31  Paragraph 38C(1)(gb)
+
+Omit “wife or husband”, substitute “spouse or de facto partner”.
+
+## 32  Subsection 45A(2)
+
+Omit “a husband and wife”, substitute “2 persons who are spouses or de facto partners of each other”.
+
+As at 9 January 2009 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, Saving or Transitional Provisions
@@ -11286,6 +11412,8 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 * * *
 
 _Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+
+The following provisions commence on 1 July 2009:
 
 ## Schedule 15
 
