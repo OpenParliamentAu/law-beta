@@ -1,7 +1,7 @@
 
 Tobacco Advertising Prohibition Act 1992
 Act No. 218 of 1992 as amended
-This compilation was prepared on 27 September 2001 taking into account amendments up to Act No. 111 of 2001
+This compilation was prepared on 20 July 2001 taking into account amendments up to Act No. 55 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -15,7 +15,6 @@ Part 1—Preliminary	1
 4	Act extends to external Territories	1
 4A	Act not to apply so as to exceed Commonwealth power	1
 5	Act binds the Crown	3
-5A	Application of the Criminal Code	3
 6	Operation of State and Territory laws	3
 7	Permission provisions only have effect for the purposes of this Act	4
 Part 2—Interpretation	5
@@ -90,9 +89,6 @@ valid application, in relation to a provision, means an application which, if it
 5  Act binds the Crown
 	(1)	This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
 	(2)	The Crown in a capacity covered by subsection (1) is not liable to be prosecuted for an offence against, or arising out of, this Act.
-5A  Application of the Criminal Code
-		Chapter 2 (other than Part 2.5) of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 6  Operation of State and Territory laws
 	(1)	This Act does not exclude or limit the operation of a tobacco advertising law of a State or Territory that is capable of operating concurrently with this Act.
 	(2)	If:
@@ -285,7 +281,7 @@ Exception—acknowledgments of assistance or support
 Part 3—Prohibition of tobacco advertisements
 Division 1—Broadcasting of tobacco advertisements
 13  Tobacco advertisements not to be broadcast
-	(1)	A person must not broadcast a tobacco advertisement in Australia or Norfolk Island on or after 1 July 1993 otherwise than as permitted by section 14.
+	(1)	A person must not, knowingly or recklessly, broadcast a tobacco advertisement in Australia or Norfolk Island on or after 1 July 1993 otherwise than as permitted by section 14.
 Penalty:	120 penalty units.
 	(2)	This section has effect subject to section 26A.
 14  Accidental or incidental broadcast permitted
@@ -295,11 +291,11 @@ Penalty:	120 penalty units.
 
 Division 2—Publication of tobacco advertisements
 15  Tobacco advertisements not to be published
-	(1)	A regulated corporation must not:
+	(1)	A regulated corporation must not, knowingly or recklessly:
 	(a)	publish a tobacco advertisement in Australia on or after 1 July 1993, otherwise than as permitted by section 16, 17, 18, 19 or 20; or
 	(b)	authorise or cause a tobacco advertisement to be so published.
-	(2)	A person must not publish a tobacco advertisement in Australia on or after 1 July 1993 in the course of, or for the purposes of, regulated trade or commerce otherwise than as permitted by section 16, 17, 18, 19 or 20.
-	(3)	A person must not publish a tobacco advertisement in a Territory, other than the Australian Capital Territory, the Northern Territory or Norfolk Island, on or after 1 July 1993 otherwise than as permitted by section 16, 17, 18, 19 or 20.
+	(2)	A person must not, knowingly or recklessly, publish a tobacco advertisement in Australia on or after 1 July 1993 in the course of, or for the purposes of, regulated trade or commerce otherwise than as permitted by section 16, 17, 18, 19 or 20.
+	(3)	A person must not, knowingly or recklessly, publish a tobacco advertisement in a Territory, other than the Australian Capital Territory, the Northern Territory or Norfolk Island, on or after 1 July 1993 otherwise than as permitted by section 16, 17, 18, 19 or 20.
 	(4)	This section has effect subject to section 26A.
 Penalty:	120 penalty units.
 16  Point of sale advertising permitted
@@ -426,10 +422,9 @@ prescribed number of days means:
 31  Offences by partnerships and unincorporated bodies
 	(1)	If a partnership that is a regulated corporation commits an offence against this Act, that offence is taken to have been committed by each of the partners.
 	(2)	If an unincorporated body that is a regulated corporation commits an offence against this Act, that offence is taken to have been committed by the controlling officer or controlling officers of the body.
-	(3)	In a prosecution for an offence a partner or controlling officer is so taken to have committed, it is a defence if the partner or controlling officer:
+	(3)	In a prosecution for an offence a partner or controlling officer is so taken to have committed, it is a defence if the partner or controlling officer proves that the partner or controlling officer:
 	(a)	did not aid, abet, counsel or procure the act or omission constituting the offence; and
 	(b)	was not in any way (whether directly or indirectly or by act or omission) knowingly concerned in, or party to, the act or omission constituting the offence.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (3). See subsection 13.3(3) of the Criminal Code.
 	(4)	In this section:
 controlling officer, in relation to an unincorporated body, means a person who has authority to determine, or who has control over:
 	(a)	the general conduct of the affairs of the body; or
@@ -510,11 +505,6 @@ Corporations (Repeals, Consequentials and Transitionals) Act 2001
 28 June 2001
 Ss. 4‑14 and Schedule 3 (item 549): 15 July 2001 (see Gazette 2001, No. S285) (b)
 Ss. 4‑14
-Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001
-111, 2001
-17 Sept 2001
-17 Sept 2001
-S. 4
 (a)	The Tobacco Advertising Prohibition Act 1992 was amended by Schedule 3 (item 7) only of the Broadcasting Services Amendment (Digital Television and Datacasting) Act 2000, subsection 2(2) of which provides as follows:
 	(2)	Subject to subsection (3), the remaining provisions of this Act commence on a day to be fixed by Proclamation.
 (b)	The Tobacco Advertising Prohibition Act 1992 was amended by Schedule 3 (item 549) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
@@ -526,8 +516,6 @@ Provision affected
 How affected
 S. 4A	
 ad. No. 17, 1995
-S. 5A	
-ad. No. 111, 2001
 S. 8	
 am. No. 17, 1995; No. 108, 2000
 Ss. 9, 10	
@@ -537,19 +525,15 @@ rs. No. 17, 1995
 
 am. No. 55, 2001
 S. 13	
-am. No. 17, 1995; No. 111, 2001
+am. No. 17, 1995
 S. 15	
-am. No. 17, 1995; No. 111, 2001
+am. No. 17, 1995
 S. 18	
 am. No. 135, 2000
 S. 26A	
 ad. No. 17, 1995
 S. 29	
 am. No. 17, 1995
-S. 31	
-am. No. 111, 2001
-Note to s. 31(3)	
-ad. No. 111, 2001
 S. 34A	
 ad. No. 135, 2000
 Note 2
@@ -576,7 +560,7 @@ Penalty:	$12,000.
 		It is a defence to a prosecution of a person for an offence against section 23 in respect of the importation of a periodical if the person proves that the periodical was imported for the purpose of its inclusion in the collection of an exempt library.
 Subsection 2(2) of the Tobacco Advertising Prohibition Act 1992 provides as follows:
 	(2)	Subsections 17(2) to (5) (inclusive) and Division 3 of Part 3 commence on a day to be fixed by Proclamation.
-As at 27 September 2001 no date had been fixed for the commencement of subsections 17(2)‑(5) and Division 3 of Part 3.
+As at 20 July 2001 no date had been fixed for the commencement of subsections 17(2)‑(5) and Division 3 of Part 3.
 [NOTE] The Tobacco Advertising Prohibition Act 1992 was amended by Schedule 1 (item 11) of the Tobacco Advertising Prohibition Amendment Act 1995. The applicable provision provides as follows:
 11  Section 23
 Omit the penalty, substitute:
@@ -587,10 +571,5 @@ Application, saving or transitional provisions
 Tobacco Advertising Prohibition Amendment Act 1995 (No. 17, 1995)
 4  Saving of notices
 		A notice published under subsection 9(5) of the Principal Act that was in force after that commencement as if it had been published under subsection 9(5) of the Principal Act as amended by this Act.
-
-Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001 (No. 111, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
 
