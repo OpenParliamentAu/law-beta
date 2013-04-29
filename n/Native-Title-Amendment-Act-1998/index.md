@@ -1,34 +1,23 @@
-![](http://www.comlaw.gov.au/Details/C2007C00499/Html/NativeTitleAmend1998_image001.jpg)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="5847A3A74D989073CA256FC40014B2EC/$FILE/image001.png"></v:imagedata></v:shape>
 
 # Native Title Amendment Act 1998
 
-**Act No. 97 of 1998 as amended**
+**Act No. 97 of 1998 as amended<o:p></o:p>**
 
-This compilation was prepared on 27 July 2007
+This compilation was prepared on 2 August 2002<o:p></o:p>
 
-**\[This Act was amended by Act No. 63 of 2002]**
+**\[This Act was amended by Act No. 63 of 2002]** 
 
-**Amendments from Act No. 63 of 2002**
+**Amendments from Act No. 63 of 2002<o:p></o:p>**
 
 \[Schedule 2 (item 16) amended Item 43 of Schedule 2
-
 Schedule 2 (item 16) commenced on 30 September 1998]
 
-**\[This Act is to be amended by Act No. 125 of 2007]**
+Prepared by the Office of Legislative Drafting,
+Attorney-General’s Department, Canberra<o:p></o:p>
 
-**Amendments from Act No. 125 of 2007**
 
-\[Schedule 4 (items 34 and 35) amend subclause 14(3) of Schedule 5
- Schedule 4 (item 36) amends clause 26 of Schedule 5 (note)
-
-Schedule 4 (items 34–36) commence on 20 January 2008 unless proclaimed earlier
-
-The amendments made by Schedule 4 (items 34–36) have not been incorporated]
-
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
-
-Contents
+# Contents
 
 [1](#1).            Short title                                                                                             
 
@@ -36,59 +25,62 @@ Contents
 
 [3](#3).            Schedule(s)                                                                                           
 
-**Schedule 1—Amendments relating to acts affecting native title etc.** 
+**Schedule 1—Amendments relating to acts affecting native title etc.<span style="mso-tab-count: 1">        </span>**
 
-Native Title Act 1993                                                                                                  
+Native Title Act 1993<span style="mso-tab-count: 1">                                                                                                  </span>3<o:p></o:p>
 
-**Schedule 2—Amendments relating to applications, registration of claims etc.** 
+Division 2AA—Validation of transfers under New South Wales land rights legislation<span style="mso-tab-count: 1">      </span>12<o:p></o:p>
 
-Part 1—Native Title Act 1993                                                                                 
+**Schedule 2—Amendments relating to applications, registration of claims etc.<span style="mso-tab-count: 1">         </span>**
 
-Part 2—Federal Court of Australia Act 1976                                                   
+Part 1—Native Title Act 1993<span style="mso-tab-count: 1">                                                                                 </span>168<o:p></o:p>
 
-**Schedule 3—Amendments relating to representative Aboriginal/Torres Strait Islander bodies** 
+Part 2—Federal Court of Australia Act 1976<span style="mso-tab-count: 1">                                                   </span>249<o:p></o:p>
 
-Part 1—Initial amendments                                                                                        
+**Schedule 3—Amendments relating to representative Aboriginal/Torres Strait Islander bodies<span style="mso-tab-count: 1">                      </span>**
 
-Part 2—Later amendments                                                                                        
+Part 1—Initial amendments<span style="mso-tab-count: 1">                                                                                        </span>251<o:p></o:p>
 
-**Schedule 4—Addition of Schedule** 
+Part 2—Later amendments<span style="mso-tab-count: 1">                                                                                        </span>269<o:p></o:p>
 
-Native Title Act 1993                                                                                              
+**Schedule 4—Addition of Schedule<span style="mso-tab-count: 1">                                                                             </span>**
 
-**Schedule 5—Application and transitional** 
+Native Title Act 1993<span style="mso-tab-count: 1">                                                                                              </span>309<o:p></o:p>
 
-Part 1—Contents of this Schedule                                                                          
+**Schedule 5—Application and transitional<span style="mso-tab-count: 1">                                                              </span>**
 
-Part 2—Application of future act amendments                                                  
+Part 1—Contents of this Schedule<span style="mso-tab-count: 1">                                                                          </span>366<o:p></o:p>
 
-Part 3—Application of amendments relating to section 61 applications: proceedings relating to determinations                                                                                                                            
+Part 2—Application of future act amendments<span style="mso-tab-count: 1">                                                  </span>367<o:p></o:p>
 
-Part 4—Application of amendments relating to section 61 applications: registration of claims          
+Part 3—Application of amendments relating to section 61 applications: proceedings relating to determinations<span style="mso-tab-count: 1">                                                                                                                            </span>370<o:p></o:p>
 
-Part 5—Various application and transitional provisions                                 
+Part 4—Application of amendments relating to section 61 applications: registration of claims<span style="mso-tab-count: 1">          </span>373<o:p></o:p>
 
-Part 6—Validation of certain acts                                                                           
+Part 5—Various application and transitional provisions<span style="mso-tab-count: 1">                                 </span>379<o:p></o:p>
 
-Part 7—Compensation etc.                                                                                       
+Part 6—Validation of certain acts<span style="mso-tab-count: 1">                                                                           </span>384<o:p></o:p>
 
-Part 8—Regulations                                                                                                      
+Part 7—Compensation etc.<span style="mso-tab-count: 1">                                                                                       </span>385<o:p></o:p>
 
-Part 9—Interpretation                                                                         
+Part 8—Regulations<span style="mso-tab-count: 1">                                                                                                      </span>386<o:p></o:p>
+
+Part 9—Interpretation<span style="mso-tab-count: 1">                                                                                                  </span>387<o:p></o:p>
+
 
 ## An Act to amend the _Native Title Act 1993_, and for related purposes
 
-[_Assented to__27 July 1998_]
+[_Assented to 27 July 1998_]<o:p></o:p>
 
-The Parliament of Australia enacts:
+The Parliament of Australia enacts:<o:p></o:p>
 
 ##### <a id="1"></a>1  Short title
 
                    This Act may be cited as the _Native Title Amendment Act 1998_.
 
-##### <a id="2"></a>2  Commencement
+##### <a id="2"></a>2<span style="mso-spacerun: yes">  </span>Commencement
 
-             (1)  Sections 1, 2 and 3 commence on the day on which this Act receives the Royal Assent.
+             (1)  Section<?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>, 2 and 3 commence on the day on which this Act receives the Royal Assent.
 
              (2)  Subject to subsection (3), Part 1 of Schedule 3 commences on a day to be fixed by Proclamation.
 
@@ -108,9 +100,11 @@ The Parliament of Australia enacts:
 
                    Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
+<o:p> </o:p>
+
 ###### Schedule 1—Amendments relating to acts affecting native title etc.
 
-<h9 class="ActHead9">Native Title Act 1993</h9>
+Native Title Act 1993
 
 ## 1  Paragraph 3(d)
 
@@ -216,7 +210,7 @@ Insert:
 
              (1)  In summary, this Division validates, or allows States and Territories to validate, certain acts that:
 
-                     (a)  took place before 1 January 1994; and
+                     (a)  took place before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="1" month="1">1 January 1994</st1:date>; and
 
                      (b)  would otherwise be invalid because of native title.
 
@@ -244,7 +238,7 @@ Repeal the Division, substitute:
 
              (1)  In summary, this Division validates, or allows States and Territories to validate, certain acts that:
 
-                     (a)  took place on or after 1 January 1994 but on or before 23 December 1996; and
+                     (a)  took place on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="1" month="1">1 January 1994</st1:date> but on or before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="23" month="12">23 December 1996</st1:date>; and
 
                      (b)  would otherwise be invalid to any extent because they fail to pass any of the future act tests in Division 3 of Part 2 or for any other reason because of native title.
 
@@ -412,11 +406,11 @@ Details
 
                      (d)  information about the way in which further details about the act may be obtained.
 
-<h8 class="ActHead8">Division 2AA—Validation of transfers under New   South Wales land rights legislation</h8>
+Division 2AA—Validation of transfers under New South Wales land rights legislation<o:p></o:p>
 
 ##### <a id="22I"></a>22I  Overview of Division
 
-                   In summary, this Division allows New   South Wales to validate certain transfers under the _Aboriginal__Land__Rights Act 1983_ of that State.
+                   In summary, this Division allows New South Wales to validate certain transfers under the _Aboriginal Land Rights Act 1983_ of that State.
 
 ##### <a id="22J"></a>22J  Validation of transfers
 
@@ -454,7 +448,7 @@ Compensation to take into account rights etc. conferred by transferee
 
 NSW may create compensation entitlement
 
-             (4)  This section does not prevent a law of New   South Wales from creating an entitlement to compensation for the acts or for their validation.
+             (4)  This section does not prevent a law of New South Wales from creating an entitlement to compensation for the acts or for their validation.
 
 Note:          Paragraph 49(b) deals with the situation where there are multiple rights to compensation under Commonwealth and State legislation.
 
@@ -520,7 +514,7 @@ Construction of public works commencing on or before 23.12.1996
 
                      (b)  it consists of the construction or establishment of any public work that commenced to be constructed or established on or before 23 December 1996.
 
-Exclusion of acts benefiting Aboriginal peoples or Torres  Strait Islanders
+Exclusion of acts benefiting Aboriginal peoples or Torres Strait Islanders
 
              (9)  An act is not a **_previous exclusive possession act_** if it is:
 
@@ -576,7 +570,7 @@ Public works
 
 Other extinguishment provisions do not apply
 
-             (3)  If this section applies to the act, sections 15 and 22B do not apply to the act.
+             (3)  If this section applies to the act, section<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>5 and 22B do not apply to the act.
 
 ##### <a id="23D"></a>23D  Preservation of beneficial reservations and conditions
 
@@ -648,9 +642,9 @@ Exclusion of certain acts
 
              (2)  If the act is the grant of a pastoral lease or an agricultural lease to which paragraph 15(1)(a) applies, this section does not apply to the act.
 
-Effect on sections 15 and 22B
+Effect on section<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>5 and 22B
 
-             (3)  If this section applies to the act, sections 15 and 22B do not apply to the act.
+             (3)  If this section applies to the act, section<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>5 and 22B do not apply to the act.
 
 ##### <a id="23H"></a>23H  Preservation of beneficial reservations and conditions
 
@@ -688,7 +682,7 @@ State and Territory acts
 
              (3)  If the act is attributable to a State or Territory, the compensation is payable by the State or Territory.
 
-##### <a id="                   23JA"></a>                   23JA  Attribution of certain acts
+##### <a id="                   23JA"></a>                   23JA<span style="mso-spacerun: yes">  </span>Attribution of certain acts
 
                    If:
 
@@ -700,9 +694,9 @@ then, for the purposes of this Division, the act is taken to be attributable to:
 
                      (c)  the State; or
 
-                     (d)  if the Territory is the Jervis Bay  Territory—the Commonwealth; or
+                     (d)  if the Territory is the Jervis Bay Territory—the Commonwealth; or
 
-                     (e)  if the Territory is the Australian   Capital Territory or the Northern Territory—that Territory.
+                     (e)  if the Territory is the Australian Capital Territory or the Northern Territory—that Territory.
 
 Note:          The meaning given to the expression **_attributable_** by section 239 will apply for the purposes of this Division to all other previous exclusive and non-exclusive possession acts.
 
@@ -872,7 +866,7 @@ Things accompanying application
 
              (1)  The Registrar must:
 
-                     (a)   give notice of the agreement, in accordance with subsection (2), to any of the following who are not parties to the agreement:
+                     (a)  give notice of the agreement, in accordance with subsection (2), to any of the following who are not parties to the agreement:
 
                               (i)  the Commonwealth Minister;
 
@@ -1150,11 +1144,11 @@ First condition
 
                      (b)  any person who, after the end of the notice period, becomes a registered native title claimant in relation to any of the land or waters in the area covered by the agreement, where the application containing the claim was made before the end of the notice period and:
 
-                              (i)  the claim is accepted by the Registrar for registration under subsection 190A(6) or is (otherwise than on appeal or review) found to satisfy conditions equivalent to those set out in sections 190B and 190C under a law of a State or Territory; or
+                              (i)  the claim is accepted by the Registrar for registration under subsection 190A(6) or is (otherwise than on appeal or review) found to satisfy conditions equivalent to those set out in section<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>90B and 190C under a law of a State or Territory; or
 
                              (ii)  the claim is accepted by the Registrar for registration as a result of an application under subsection 190D(2), where the application was made not more than 28 days after the notice under subsection 190D(1) was given; or
 
-                            (iii)  the claim is found to satisfy conditions equivalent to those set out in sections 190B and 190C under a provision of a law of a State or Territory to similar effect as section 190D, and the application under that provision was made within a time period corresponding to that set out in subparagraph (ii) of this paragraph.
+                            (iii)  the claim is found to satisfy conditions equivalent to those set out in section<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>90B and 190C under a provision of a law of a State or Territory to similar effect as section 190D, and the application under that provision was made within a time period corresponding to that set out in subparagraph (ii) of this paragraph.
 
 Second condition
 
@@ -1588,11 +1582,11 @@ Who pays compensation
 
                      (b)  after that time, an entry covering that area is included on the Register of Native Title Claims, provided the application containing the claim was made before that time and:
 
-                              (i)  the claim is accepted by the Registrar for registration under subsection 190A(6) or is (otherwise than on appeal or review) found to satisfy conditions equivalent to those set out in sections 190B and 190C under a law of a State or Territory; or
+                              (i)  the claim is accepted by the Registrar for registration under subsection 190A(6) or is (otherwise than on appeal or review) found to satisfy conditions equivalent to those set out in section<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>90B and 190C under a law of a State or Territory; or
 
                              (ii)  the claim is accepted by the Registrar for registration as a result of an application under subsection 190D(2) and the application was made not more than 28 days after the notice under subsection 190D(1) was given; or
 
-                            (iii)  the claim is found to satisfy conditions equivalent to those set out in sections 190B and 190C under a provision of a law of a State or Territory to similar effect as section 190D, and the application under that provision was made within a time period corresponding to that set out in subparagraph (ii).
+                            (iii)  the claim is found to satisfy conditions equivalent to those set out in section<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>90B and 190C under a provision of a law of a State or Territory to similar effect as section 190D, and the application under that provision was made within a time period corresponding to that set out in subparagraph (ii).
 
 #### Subdivision G—Future acts and primary production
 
@@ -3020,7 +3014,7 @@ Renewal of valid mining lease etc.
 
              (1)  This Subdivision does not apply to an act consisting of the creation of a right to mine if:
 
-                     (a)   the creation of the right is done by:
+                     (a)  the creation of the right is done by:
 
                               (i)  the renewal; or
 
@@ -3384,7 +3378,7 @@ Relevant Minister may give arbitral body notice as to urgency
 
 the relevant Minister may give a written notice to the arbitral body requesting the arbitral body to make such a determination within the period specified in the notice. The period must end at a time later than 6 months after the application under section 35 was made.
 
-##### <a id="36A"></a>36A  Ministerial determination if arbitral body determination delayed
+##### <a id="36A"></a>36A  Ministerial determination if arbitral body determination delayed
 
 Relevant Minister may make determination
 
@@ -3828,7 +3822,7 @@ Determination about alternative provisions
 
 then, subject to subsection (10), while the determination is in force, the alternative provisions have effect instead of this Subdivision.
 
-Meaning of **alternative provision** **area**
+Meaning of **alternative provision** **area<o:p></o:p>**
 
              (2)  An **_alternative provision area_** is:
 
@@ -3996,7 +3990,7 @@ Note:          In effect, this section splits the act in 2 (fo
 
 Person in claim group in respect of registered claim over non-exclusive agricultural or pastoral lease
 
-             (2)  A person must be included in the native title claim group (see section 253) in relation to a claim:
+             (2)  A person must be included in the native title claim group (see section 253) in relation to a claim:<o:p></o:p>
 
                      (a)  for which there is an entry on the Register of Native Title Claims; and
 
@@ -4056,7 +4050,7 @@ Assistance in making agreements
 
              (4)  Any persons wishing to make such an agreement may request assistance from the NNTT or a recognised State/Territory body in negotiating the agreement.
 
-Statutory access rights do not amount to native title
+Statutory access rights do not amount to native title<o:p></o:p>
 
              (5)  To avoid doubt, the fact that the person satisfies the conditions in section 44A does not mean that the person has native title rights and interests in relation to the traditional access area.
 
@@ -4072,7 +4066,7 @@ Note:          The “right to negotiate” provisions in Subd
 
 ##### <a id="44D"></a>44D  Certain other laws not affected
 
-Laws etc. of benefit to Aboriginal peoples or Torres  Strait Islanders
+Laws etc. of benefit to Aboriginal peoples or Torres Strait Islanders
 
              (1)  This Subdivision does not affect:
 
@@ -4238,756 +4232,4 @@ Defined expressions
 
                      (b)  an area is **_subject to a resumption process_** at a particular time (the **_test time_**) if:
 
-                              (i)  all interests last existing in relation to the area before the test time were acquired, resumed or revoked by, or surrendered to, the Crown in any capacity; and
-
-                             (ii)  when that happened, the Crown had a bona fide intention of using the area for public purposes or for a particular purpose; and
-
-                            (iii)  the Crown still had a bona fide intention of that kind in relation to the area at the test time.
-
-## 14  Sections 48 and 49 and subsection 51(1)
-
-After “Division 2,”, insert “2A, 2B,”.
-
-## 15  Subsection 50(1)
-
-Omit “section”, substitute “Division”.
-
-_Note:       The heading to subsection 50(1) is altered by omitting “Section” and substituting “Division”._
-
-## 16  At the end of subsection 50(1)
-
-Add:
-
-Note:          Such compensation is generally for acts that are validated or valid. Native title holders would ordinarily be entitled to compensation or damages for invalid acts under the general law. The Federal Court may be able to award such compensation or damages in proceedings in relation to the invalidity of the act: see subsection 213(2).
-
-## 17  Subsection 51(2)
-
-Omit “acquisition under a Compulsory Acquisition Act”, substitute “compulsory acquisition”.
-
-## 18  Subsection 51(2)
-
-Omit “set out in that Act for determining compensation”, substitute “for determining compensation set out in the law under which the compulsory acquisition takes place”.
-
-_Note:       The heading to subsection 51(2) is altered by omitting “Compulsory Acquisition Act” and substituting “compulsory acquisition law”._
-
-## 19  Paragraph 51(3)(a)
-
-Omit “acquisition under a Compulsory Acquisition Act”, substitute “compulsory acquisition”.
-
-## 20  Paragraph 51(4)(b)
-
-Omit “Compulsory Acquisition Act”, substitute “compulsory acquisition law”.
-
-## 21  Subsection 51(4)
-
-Omit “that Act”, substitute “that law”.
-
-## 22  After section 51
-
-Insert:
-
-##### <a id="51A"></a>51A  Limit on compensation
-
-Compensation limited by reference to freehold estate
-
-             (1)  The total compensation payable under this Division for an act that extinguishes all native title in relation to particular land or waters must not exceed the amount that would be payable if the act were instead a compulsory acquisition of a freehold estate in the land or waters.
-
-This section is subject to section 53
-
-             (2)  This section has effect subject to section 53 (which deals with the requirement to provide “just terms” compensation).
-
-## 23  Subsection 52(1)
-
-Omit “compensation (the **_negotiated compensation_**) in respect of a proposed act is being held in trust in accordance with”, substitute “an amount (the **_trust amount_**) in respect of an act is being held in trust in accordance with paragraph 36C(5)(b),”.
-
-_Note:       The heading to section 52 is altered by omitting “Compensation” and substituting “Payment”._
-
-## 24  Paragraph 52(1)(b)
-
-Omit “no longer proposes”, substitute “is not going”.
-
-## 25  Subparagraph 52(1)(c)(ii)
-
-Repeal the subparagraph, substitute:
-
-                             (ii)  the registered native title body corporate advises the trustee that it wishes to accept the trust amount instead of any compensation to which the native title holders may be entitled under Division 3 for the act; and
-
-                            (iii)  the person who paid the trust amount advises the trustee that the person agrees to the registered native title body corporate accepting the trust amount instead of any compensation to which the native title holders may be entitled under Division 3 for the act;
-
-## 26  Subparagraph 52(1)(d)(ii)
-
-Omit “Compulsory Acquisition Act”, substitute “compulsory acquisition law”.
-
-## 27  Paragraph 52(1)(e)
-
-Omit “negotiated compensation”, substitute “trust amount”.
-
-## 28  Subsections 52(2) to (7)
-
-Omit “negotiated compensation” (wherever occurring), substitute “trust amount”.
-
-## 29  Paragraph 52(3)(b)
-
-Omit “2, 3 or 4”, substitute “3”.
-
-## 30  Paragraph 53(1)(a)
-
-Omit “by the Commonwealth”.
-
-## 31  Subsection 53(1)
-
-Omit “from the Commonwealth as is necessary to ensure that the acquisition is made on paragraph 51(xxxi) just terms.”, substitute:
-
-from:
-
-                     (c)  if the compensation is in respect of a future act attributable to a State or a Territory—the State or Territory; or
-
-                     (d)  in any other case—the Commonwealth;
-
-as is necessary to ensure that the acquisition is made on paragraph 51(xxxi) just terms.
-
-## 32  Paragraph 137(2)(a)
-
-After “past acts”, insert “or intermediate period acts”.
-
-## 33  Section 142
-
-After “Subject to”, insert “subsection 151(2) and”.
-
-## 34  After Part 8
-
-Insert:
-
-## Part 8A—Register of Indigenous Land Use Agreements
-
-##### <a id="199A"></a>199A  Register of Indigenous Land Use Agreements
-
-Establishment
-
-             (1)  There is to be a Register known as the Register of Indigenous Land Use Agreements.
-
-Registrar to establish and keep
-
-             (2)  The Register must be established and kept by the Registrar.
-
-Register may be kept by computer
-
-             (3)  The Register may be kept by use of a computer.
-
-##### <a id="199B"></a>199B  Contents of the Register etc.
-
-Information to be included
-
-             (1)  If the Registrar is required by Subdivision B, C or D of Division 3 of Part 2 to register an agreement, the Registrar must enter in the Register the following details of the agreement:
-
-                     (a)  a description of the area covered by the agreement; and
-
-                     (b)  the name of each party to the agreement and the address at which the party can be contacted; and
-
-                     (c)  if the agreement specifies the period during which it will operate—that period; and
-
-                     (d)  if the agreement includes any of the statements mentioned in subsection 24EB(1) or 24EBA(1) or (4)—a reference to the fact, setting out any such statement.
-
-Other information
-
-             (2)  The Registrar may also enter in the Register any other details of the agreement that the Registrar considers appropriate.
-
-Notification of Commonwealth, State or Territory
-
-             (3)  If the agreement relates to any future act, as soon as reasonably practicable after entering the details, the Registrar must give notice in writing:
-
-                     (a)  advising that the details have been entered; and
-
-                     (b)  setting out the details;
-
-to any person or body to which the Registrar gave notice of the agreement under paragraph 24BH(1)(a), 24CH(1)(a) or 24DI(1)(a).
-
-##### <a id="199C"></a>199C  Removal of details of agreement from Register
-
-Cases requiring removal
-
-             (1)  Subject to subsection (1A), the Registrar must remove the details of an agreement from the Register if:
-
-                     (a)  in the case of an agreement under Subdivision B of Division 3 of Part 2—an approved determination of native title is made in relation to any of the area covered by the agreement, and the persons who, under the determination, hold native title in relation to the area are not the same as those who had previously been determined to hold it; or
-
-                     (b)  in the case of an agreement under Subdivision C of Division 3 of Part 2—an approved determination of native title is made in relation to any of the area covered by the agreement, and any of the persons who, under the determination, hold native title in relation to the area is not a person who authorised the making of the agreement as mentioned in:
-
-                              (i)  if the application relating to the agreement was certified by representative Aboriginal/Torres Strait Islander bodies as mentioned in paragraph 24CG(3)(a)—paragraph 202(8)(b); or
-
-                             (ii)  if the application relating to the agreement included a statement as mentioned in paragraph 24CG(3)(b) to the effect that certain requirements have been met—that paragraph; or
-
-                     (c)  in any case:
-
-                              (i)  the agreement expires; or
-
-                             (ii)  all the parties advise the Registrar in writing that they wish to terminate the agreement; or
-
-                            (iii)  the Federal Court, under subsection (2), orders the details to be removed.
-
-Note:          If the details of an agreement are removed from the Register, the agreement will cease to have effect under this Act from the time the details are removed: see subsection 24EA(1) and paragraph 24EB(1)(b).
-
-Federal Court order not to remove details
-
-          (1A)  If:
-
-                     (a)  the Registrar is or will be required to remove the details of an agreement from the Register in a case covered by paragraph (1)(a) or (b); and
-
-                     (b)  the persons who, under the approved determination of native title mentioned in that paragraph, hold native title apply to the Federal Court for an order under this subsection; and
-
-                     (c)  the Federal Court is satisfied that those persons accept the terms of the agreement, in accordance with the process by which they would authorise the making of such an agreement;
-
-the Federal Court may order the Registrar not to remove the details of the agreement from the Register.
-
-Federal Court order to remove details
-
-             (2)  The Federal Court may, if it is satisfied on application by a party to the agreement, or by a representative Aboriginal/Torres Strait Islander body for the area covered by the agreement, that the ground in subsection (3) has been made out, order the Registrar to remove the details of the agreement from the Register.
-
-Ground for order
-
-             (3)  The ground is that a party would not have entered into the agreement but for fraud, undue influence or duress by any person (whether or not a party to the agreement).
-
-Compensation order
-
-             (4)  If the Court orders the Registrar to remove the details, the Court may also order the person who committed the fraud, exerted the influence or applied the duress to pay compensation to any party to the agreement who will suffer loss or damage as a result of the removal of the details.
-
-##### <a id="199D"></a>199D  Inspection of the Register
-
-Register to be available during business hours
-
-             (1)  Subject to section 199E, the Registrar must ensure that the Register is available for inspection by any member of the public during normal business hours.
-
-Prescribed fee
-
-             (2)  Subject to section 199E, when the Register is available for inspection, any member of the public may inspect the Register if the member pays the prescribed fee.
-
-If register kept on computer
-
-             (3)  If the Register is kept wholly or partly by use of a computer, subsection (1) is taken to be complied with, so far as the Register is kept in that way, by giving members of the public access to a computer terminal that they can use to inspect the Register, either by viewing a screen display or by obtaining a computer print-out.
-
-##### <a id="199E"></a>199E  Parts of the Register to be kept confidential
-
-             (1)  If the parties to an agreement whose details are entered on the Register advise the Registrar in writing that they do not wish some or all of the details to be available for inspection by the public, section 199D does not apply to the part of the Register containing the details concerned.
-
-Exception for basic information
-
-             (2)  Subsection (1) does not apply to details required to be entered in the Register under subsection 199B(1).
-
-##### <a id="199F"></a>199F  Delegation by Registrar
-
-                   The Registrar may, by signed instrument, delegate all or any of his or her powers under:
-
-                     (a)  this Part; or
-
-                     (b)  Subdivision B, C or D of Division 3 of Part 2 (which also deals with indigenous land use agreements);
-
-to the holder of an office, or to a body, established by or under a law of a State or Territory, if the State or Territory agrees to the delegation.
-
-## 35  After paragraph 211(1)(b)
-
-Insert:
-
-                    (ba)  the law does not provide that such a licence, permit or other instrument is only to be granted or issued for research, environmental protection, public health or public safety purposes; and
-
-## 36  After paragraph 212(2)(d)
-
-Insert:
-
-                    (da)  stock-routes; or
-
-## 37  At the end of subsection 211(2)
-
-Add:
-
-Note:          In carrying on the class of activity, or gaining the access, the native title holders are subject to laws of general application.
-
-## 38  Subsection 212(3)
-
-Omit “or impair”.
-
-_Note:       The heading to subsection 212(3) is altered by omitting “under subsection (2)”._
-
-## 39  Section 214
-
-Repeal the section, substitute:
-
-##### <a id="214"></a>214  Disallowable instruments
-
-                   The following are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_:
-
-                     (a)  a determination under paragraph 23HA(a), 24GB(9)(c) or 24GD(6)(a), subparagraph 24GE(1)(f)(i), paragraph 24HA(7)(a), 24ID(3)(a) or 24JB(6)(a) or (7)(a), subsection 24KA(8), 24MD(7), 24NA(9), 26A(1), 26B(1) or 26C(2), paragraph 43(1)(b), subparagraph 43(3)(c)(ii), paragraph 43A(1)(b), subparagraph 43A(9)(c)(ii), subsection 202(1), 207A(1), 207B(3), 245(4), 251C(4) or (5) or 252(1) or paragraph (i) of the definition of **_infrastructure facility_** in section 253;
-
-                     (b)  an instrument under section 203AD;
-
-                     (c)  an approval under subparagraph 26(1)(c)(iv);
-
-                     (d)  a revocation of a determination under subsection 26A(8), 26B(9), 26C(6), 43(3) or 43A(9) or paragraph 207A(4)(b) or 207B(7)(d).
-
-## 40  Subparagraph 215(2)(a)(i)
-
-After “Register of Native Title Claims”, insert “, the Register of Indigenous Land Use Agreements”.
-
-## 41  At the end of section 215
-
-Add:
-
-Registers
-
-             (3)  Without limiting subsection (1), the regulations may make provision, not inconsistent with this Act, relating to the way in which:
-
-                     (a)  the Register of Native Title Claims; or
-
-                     (b)  the Register of Indigenous Land Use Agreements; or
-
-                     (c)  the National Native Title Register;
-
-is to be established and kept, or relating to any other matter concerning such a register.
-
-## 42  Subsection 223(3)
-
-Omit “subsection (4)”, substitute “subsections (3A) and (4)”.
-
-## 43  After subsection 223(3)
-
-Insert:
-
-Subsection (3) does not apply to statutory access rights
-
-          (3A)  Subsection (3) does not apply to rights and interests conferred by Subdivision Q of Division 3 of Part 2 of this Act (which deals with statutory access rights for native title claimants).
-
-## 44  After section 232
-
-Insert:
-
-##### <a id="232A"></a>232A  Intermediate period act
-
-             (1)  This section defines **_intermediate period act_**.
-
-Note:          Intermediate period acts may be validated under Division 2A of Part 2.
-
-Acts between 1.1.94 and 23.12.96
-
-             (2)  Subject to subsection (3), an act is an **_intermediate period act_** if:
-
-                     (a)  the act took place at any time during the period from the beginning of 1 January 1994 until the end of 23 December 1996 when native title existed in relation to particular land or waters; and
-
-                     (b)  the act did not consist of the making, amendment or repeal of legislation, other than legislation that affects the native title by:
-
-                              (i)  creating a freehold estate, lease or licence over the land or waters; or
-
-                             (ii)  containing, making or conferring a reservation, proclamation or dedication under which the whole or part of the land or waters is to be used for a particular purpose; and
-
-Note:       An intermediate period act, such as the grant of a lease, may be validated under Division 2A of Part 2 even if the legislation under which the act was done is not so validated.
-
-                     (c)  the act was invalid to any extent because of Division 3 of Part 2 (disregarding section 24EBA) or for any other reason, but it would have been valid to that extent if the native title did not exist; and
-
-                     (d)  the act was not a past act (see section 228); and
-
-                     (e)  at any time before the act was done, either:
-
-                              (i)  a grant of a freehold estate or a lease (other than a mining lease) was made covering any of the land or waters affected by the act; or
-
-                             (ii)  a public work was constructed or established on any of the land or waters affected by the act; and
-
-                      (f)  the grant, or the construction or establishment, mentioned in paragraph (e) was valid (including because of any provision of this Act).
-
-Exclusion by regulation
-
-             (3)  The regulations may provide that an act is not an **_intermediate period act_**.
-
-##### <a id="232B"></a>232B  Category A intermediate period act
-
-             (1)  This section defines the expression **_category A intermediate period act_**.
-
-Grant of freehold estates
-
-             (2)  An intermediate period act consisting of the grant or vesting of a freehold estate is a **_category A intermediate period act_**.
-
-Grant of certain leases etc.
-
-             (3)  An intermediate period act consisting of the grant or vesting of:
-
-                     (a)  a Scheduled interest (see section 249C); or
-
-                     (b)  a commercial lease that is neither an agricultural lease nor a pastoral lease; or
-
-                     (c)  an exclusive agricultural lease (see section 247A) or an exclusive pastoral lease (see section 248A); or
-
-                     (d)  a residential lease; or
-
-                     (e)  a community purposes lease (see section 249A); or
-
-                      (f)  what is taken by subsection 245(3) (which deals with the dissection of mining leases into certain other leases) to be a separate lease in respect of land or waters mentioned in paragraph (a) of that subsection, assuming that the reference in subsection 245(2) to “1 January 1994” were instead a reference to “24 December 1996”; or
-
-                     (g)  any lease (other than a mining lease) that confers a right of exclusive possession over particular land or waters;
-
-is a **_category A intermediate period act_**.
-
-Vesting of certain land or waters 
-
-             (4)  If:
-
-                     (a)  an intermediate period act is done by or under legislation of a State or a Territory; and
-
-                     (b)  the intermediate period act consists of the vesting of particular land or waters in any person; and
-
-                     (c)  a right of exclusive possession of the land or waters is expressly or impliedly conferred on the person by or under the legislation;
-
-the intermediate period act is a **_category A intermediate period act_**.
-
-Construction of public works
-
-             (7)  An intermediate period act consisting of the construction or establishment of any public work is a **_category A intermediate period act_**.
-
-             (8)  An intermediate period act is not a **_category A intermediate period act_** if it is:
-
-                     (a)  the grant or vesting of any thing that is made or done by or under legislation that makes provision for the grant or vesting of such things only to, in or for the benefit of, Aboriginal peoples or Torres Strait Islanders; or
-
-                     (b)  the grant or vesting of any thing expressly for the benefit of, or to or in a person to hold on trust expressly for the benefit of, Aboriginal peoples or Torres Strait Islanders; or
-
-                     (c)  the grant or vesting of any thing over particular land or waters, if at the time a thing covered by paragraph (a) or (b) is in effect in relation to the land or waters.
-
-Exclusion by regulation
-
-             (9)  The regulations may provide that an act is not a **_category A intermediate period act_**.
-
-##### <a id="232C"></a>232C  Category B intermediate period act
-
-                   A **_category B intermediate period act_** is an intermediate period act consisting of the grant of a lease if:
-
-                     (a)  the grant is not a category A intermediate period act; and
-
-                     (b)  the lease is not:
-
-                              (i)  a mining lease; or
-
-                             (ii)  a lease granted by or under legislation that grants leases only to or for the benefit of Aboriginal peoples or Torres Strait Islanders; or
-
-                            (iii)  a lease granted expressly for the benefit of, or to a person to hold on trust expressly for the benefit of, Aboriginal peoples or Torres Strait Islanders; or
-
-                            (iv)  any other lease granted over particular land or waters, if at the time a lease covered by subparagraph (ii) or (iii) is in force over the land or waters.
-
-##### <a id="232D"></a>232D  Category C intermediate period act
-
-                   A **_category C intermediate period act_** is an intermediate period act consisting of the grant of a mining lease.
-
-##### <a id="232E"></a>232E  Category D intermediate period act
-
-                   A **_category D intermediate period act_** is any intermediate period act that is not a category A intermediate period act, a category B intermediate period act or a category C intermediate period act.
-
-## 45  Subsection 233(2)
-
-Repeal the subsection, substitute:
-
-Validation and extinguishment legislation excluded
-
-             (2)  If:
-
-                     (a)  the act consists of the making, amendment or repeal of legislation; and
-
-                     (b)  the act purports to:
-
-                              (i)  validate any past act or intermediate period act; or
-
-                             (ii)  extinguish native title, or extinguish native title rights and interests to an extent; and
-
-                     (c)  the act is done or permitted to be done by Division 2, 2A or 2B of Part 2;
-
-subsection (1) does not apply to the extent that the act purports to validate the act, or to extinguish the native title or the native title rights and interests.
-
-## 46  Sections 234, 235 and 236
-
-Repeal the sections.
-
-## 47  Paragraph 237(a)
-
-Repeal the paragraph, substitute:
-
-                     (a)  the act is not likely to interfere directly with the carrying on of the community or social activities of the persons who are the holders (disregarding any trust created under Division 6 of Part 2) of native title in relation to the land or waters concerned; and
-
-## 48  Paragraphs 237(b) and (c)
-
-Omit “does not”, substitute “is not likely to”.
-
-## 49  Paragraph 237(c)
-
-Omit “will”, substitute “is likely to”.
-
-## 50  After section 237
-
-Insert:
-
-##### <a id="237A"></a>237A  Extinguish
-
-                   The word **_extinguish_**, in relation to native title, means permanently extinguish the native title. To avoid any doubt, this means that after the extinguishment the native title rights and interests cannot revive, even if the act that caused the extinguishment ceases to have effect.
-
-## 51  Section 240 (definition of _similar compensable interest test_)
-
-After “past act”, insert “, an intermediate period act”.
-
-## 52  At the end of section 247
-
-Add:
-
-Aquaculture
-
-             (2)  Except in so far as the expression is used in or in relation to Division 2 of Part 2, **_agricultural lease_** also includes a lease that permits the lessee to use the land or waters covered by the lease solely or primarily for aquacultural purposes.
-
-## 53   After section 247
-
-Insert:
-
-##### <a id="247A"></a>247A  Exclusive agricultural lease
-
-                   An **_exclusive agricultural lease_** is an agricultural lease that:
-
-                     (a)  confers a right of exclusive possession over the land or waters covered by the lease; or
-
-                     (b)  is a Scheduled interest.
-
-##### <a id="247B"></a>247B  Non-exclusive agricultural lease
-
- A **_non-exclusive agricultural lease_** is an agricultural lease that is not an exclusive agricultural lease.
-
-Note:          In practice, there might be few, or no, non-exclusive agricultural leases.
-
-## 54  After section 248
-
-Insert:
-
-##### <a id="248A"></a>248A  Exclusive pastoral lease
-
-                   An **_exclusive pastoral lease_** is a pastoral lease that:
-
-                     (a)  confers a right of exclusive possession over the land or waters covered by the lease; or
-
-                     (b)  is a Scheduled interest.
-
-##### <a id="248B"></a>248B  Non-exclusive pastoral lease
-
- A **_non-exclusive_** **_pastoral lease_** is a pastoral lease that is not an exclusive pastoral lease.
-
-## 55   After section 249
-
-Insert:
-
-##### <a id="249A"></a>249A  Community purposes lease
-
-                   A **_community purposes lease_** is a lease that:
-
-                     (a)  permits the lessee to use the land or waters covered by the lease solely or primarily for community, religious, educational, charitable or sporting purposes; or
-
-                     (b)  contains a statement to the effect that it is solely or primarily a community purposes lease or that it is granted solely or primarily for community, religious, educational, charitable or sporting purposes.
-
-##### <a id="249B"></a>249B  Perpetual lease
-
-                   A **_perpetual lease_** is a lease with the following features:
-
-                     (a)  the lease is in perpetuity;
-
-                     (b)  the lease may be forfeited, cancelled or otherwise cease to have effect for failure to pay rent or for contravention of a condition or conditions.
-
-##### <a id="249C"></a>249C  Scheduled interest
-
-             (1)  A **_Scheduled interest_** is:
-
-                     (a)  anything set out in Schedule 1, other than a mining lease or anything whose grant or vesting is covered by subsection 23B(9), (9A), (9B), (9C) or (10) (which provide that certain acts are not previous exclusive possession acts); or
-
-                     (b)  an interest, in relation to land or waters, of a type declared by a regulation for the purposes of this paragraph to be a Scheduled interest.
-
-Regulations to cover single type of interest only
-
-             (2)  A particular regulation only has effect for the purposes of paragraph (1)(b) if it covers a single type of interest.
-
-Regulations to cover exclusive possession interests only
-
-             (3)  Before the Governor-General makes a regulation for the purposes of paragraph (1)(b) declaring a particular interest to be a Scheduled interest, the Minister must be satisfied that the interest confers a right of exclusive possession that extinguishes all native title rights and interests over the land or waters concerned.
-
-## 56  Before section 252
-
-Insert:
-
-##### <a id="251A"></a>251A  Authorising the making of indigenous land use agreements
-
-                   For the purposes of this Act, persons holding native title in relation to land or waters in the area covered by an indigenous land use agreement **_authorise_** the making of the agreement if:
-
-                     (a)  where there is a process of decision-making that, under the traditional laws and customs of the persons who hold or may hold the common or group rights comprising the native title, must be complied with in relation to authorising things of that kind—the persons authorise the making of the agreement in accordance with that process; or
-
-                     (b)  where there is no such process—the persons authorise the making of the agreement in accordance with a process of decision-making agreed to and adopted, by the persons who hold or may hold the common or group rights comprising the native title, in relation to authorising the making of the agreement or of things of that kind.
-
-##### <a id="251B"></a>251B  Authorising the making of applications
-
-                   For the purposes of this Act, all the persons in a native title claim group or compensation claim group **_authorise_** a person or persons to make a native title determination application or a compensation application, and to deal with matters arising in relation to it, if:
-
-                     (a)  where there is a process of decision-making that, under the traditional laws and customs of the persons in the native title claim group or compensation claim group, must be complied with in relation to authorising things of that kind—the persons in the native title claim group or compensation claim group authorise the person or persons to make the application and to deal with the matters in accordance with that process; or
-
-                     (b)  where there is no such process—the persons in the native title claim group or compensation claim group authorise the other person or persons to make the application and to deal with the matters in accordance with a process of decision-making agreed to and adopted, by the persons in the native title claim group or compensation claim group, in relation to authorising the making of the application and dealing with the matters, or in relation to doing things of that kind.
-
-##### <a id="251C"></a>251C   Towns and cities
-
-Areas in Western Australia
-
-             (1)  Subject to subsection (4), a particular area in Western Australia is a **_town or city_** if, as at 23 December 1996, it was gazetted as a townsite or as suburban lands under section 10 of the _Land Act 1933_ of Western Australia.
-
-Areas in South Australia
-
-             (2)  Subject to subsection (4), a particular area in South Australia is a **_town or city_** if, as at 23 December 1996, it was:
-
-                     (a)  within the boundaries of a town constituted under section 5(g) of the _Crown Lands Act 1929_ of South   Australia; or
-
-                     (b)  set apart as town lands, or suburban lands, by notice under section 5(h) of that Act; or
-
-                     (c)  town lands, park lands, or suburban lands, within the meaning of section 4 of that Act; or
-
-                     (d)  gazetted in the South Australian Government Gazette, or proclaimed by the Governor of South Australia, as suburban lands, where the gazettal took place, or the proclamation was made, before the enactment of the _Crown Lands Act 1929_ of South Australia; or
-
-                     (e)  a township within the meaning of section 5(1) of the _Local Government Act, 1934_ of South Australia; or
-
-                      (f)  park land, within the meaning of section 5(1) of that Act, that was within or adjacent to a township within the meaning of that section; or
-
-                     (g)  the area in relation to which a municipal council was constituted under section 6 of that Act; or
-
-                     (h)  a township within the meaning of section 319 of that Act; or
-
-                      (i)  a township allotment within the meaning of section 5 of the _Renmark Irrigation Trust Act 1936_ of South   Australia; or
-
-                      (j)  town lands within the meaning of section 5 of the _Water Conservation Act 1936_ of South Australia.
-
-Areas in the Northern Territory
-
-             (3)  Subject to subsection (4), a particular area in the Northern Territory is a **_town or city_** if, as at 23 December 1996, it was:
-
-                     (a)  gazetted as a town (other than the town of Darwin, Hatches Creek, Brocks Creek, Burrundie or Urapunga) under subsection 95(1) of the _Crown Lands Act_ of the Northern Territory; or
-
-                     (b)  the area in the Schedule to the _Darwin Lands Acquisition Act 1945_ of the Commonwealth; or
-
-                     (c)  within a municipality constituted under section 29 of the _Local Government Act_ of the Northern Territory.
-
-Exclusion of areas in Western Australia, South   Australia or Northern Territory
-
-             (4)  A particular area is not a **_town or city_** under subsection (1), (2) or (3) if the Commonwealth Minister makes a written determination to that effect.
-
-Other areas
-
-             (5)  A particular area in any State or Territory is a **_town or city_** if the Commonwealth Minister makes a written determination stating that, in his or her opinion, the area was a town or a city as at 23 December 1996.
-
-Exclusion of ordinary meaning
-
-             (6)  Except as mentioned in this section, an area is not a **_town or city_**.
-
-##### <a id="251D"></a>251D  Land or waters on which a public work is constructed, established or situated
-
-                   In this Act, a reference to land or waters on which a public work is constructed, established or situated includes a reference to any adjacent land or waters the use of which is or was necessary for, or incidental to, the construction, establishment or operation of the work.
-
-## 57  Section 253
-
-Insert:
-
-                    <a name="authoris"></a>**_authorise_**:
-
-                     (a)  in relation to the making of indigenous land area agreements—has the meaning given by section 251A; and
-
-                     (b)  in relation to the making of native title determination applications or compensation applications, and dealing with matters arising in relation to such applications—has the meaning given by section 251B.
-
-## 58  Section 253 (definition of _Compulsory Acquisition Act_)
-
-Repeal the definition.
-
-## 59  Section 253
-
-Insert:
-
-                    <a name="forest-oper"></a>**_forest operations_** means:
-
-                     (a)  the planting or tending, in a plantation or forest, of trees intended for felling; or
-
-                     (b)  the felling of such trees.
-
-## 60  Section 253 (definition of _grantee party_)
-
-Omit “paragraph 29(2)(d)”, substitute “paragraph 29(2)(c)”.
-
-## 61  Section 253
-
-Insert:
-
-                    <a name="horticultur"></a>**_horticulture_** includes:
-
-                     (a)  propagation or maintenance, as well as cultivation; or
-
-                     (b)  propagation, maintenance or cultivation of seeds, bulbs, spores or similar things; or
-
-                     (c)  propagation, maintenance or cultivation of fungi; or
-
-                     (d)  propagation, maintenance or cultivation in environments other than soil, whether natural or artificial.
-
-## 62  Section 253
-
-Insert:
-
-                    <a name="indigen-land-us-agreem"></a>**_indigenous land use agreement_** has the meaning given by sections 24BA, 24CA and 24DA.
-
-## 63  Section 253
-
-Insert:
-
-                    <a name="infrastructur-facil"></a>**_infrastructure facility_** includes any of the following:
-
-                     (a)  a road, railway, bridge or other transport facility;
-
-                     (b)  a jetty or port;
-
-                     (c)  an airport or landing strip;
-
-                     (d)  an electricity generation, transmission or distribution facility;
-
-                     (e)  a storage, distribution or gathering or other transmission facility for:
-
-                              (i)  oil or gas; or
-
-                             (ii)  derivatives of oil or gas;
-
-                      (f)  a storage or transportation facility for coal, any other mineral or any mineral concentrate;
-
-                     (g)  a dam, pipeline, channel or other water management, distribution or reticulation facility;
-
-                     (h)  a cable, antenna, tower or other communication facility;
-
-                      (i)  any other thing that is similar to any or all of the things mentioned in paragraphs (a) to (h) and that the Commonwealth Minister determines in writing to be an infrastructure facility for the purposes of this paragraph.
-
-## 64  Section 253 (paragraph (c) of the definition of _mine_)
-
-Repeal the paragraph, substitute:
-
-                     (c)  quarry;
-
-but does not include extract, obtain or remove sand, gravel, rocks or soil from the natural surface of land, or of the bed beneath waters, for a purpose other than:
-
-                     (d)  extracting, producing or refining minerals from the sand, gravel, rocks or soil; or
-
-                     (e)  processing the sand, gravel, rocks or soil by non-mechanical means.
-
-## 65  Section 253 (definition of _negotiation party_)
-
-Repeal the definition, substitute:
-
-                    <a name="negoti-parti"></a>**_negotiation party_** has the meaning given by section 30A.
-
-## 66  Section 253 (definition of _public work_)
-
-Repeal the definition, substitute:
-
-                    <a name="public-work"></a>**_public work_** means:
-
-                     (a)  any of the following that is constructed or established by or on behalf of the Crown, or a local government body or other statutory authority of the Crown, in any of its capacities:
-
-                              (i)  a building, or other structure (including a memorial), that is a fixture; or
-
-                             (ii)  a road, railway or bridge; or
-
-                           (iia)  where the expression is used in or for the purposes of Division 2 or 2A of Part 2—a stock-route; or
-
-                            (iii)  a well, or bore, for obtaining water; or
-
-                            (iv)  any major earthworks; or
-
-           �
+                              (i)�
