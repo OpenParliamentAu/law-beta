@@ -1,320 +1,322 @@
-![](http://www.comlaw.gov.au/Details/C2007C00108/Html/SmallSuperAccounts1995_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00417/Html/61724258CD381999CA2570350018CC53/$FILE/image001.gif)
 
 # Small Superannuation Accounts Act 1995
 
 **Act No. 52 of 1995 as amended**
 
-This compilation was prepared on 22 March 2007 
- taking into account amendments up to Act No. 15 of 2007
+This compilation was prepared on 5 July 2005
+taking into account amendments up to Act No. 82 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-**Part 1—Introduction**
+**Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Simplified explanation
+[3](#3).            Simplified explanation                                                                         1
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           2
 
-[5](#5).            Crown to be bound
+[5](#5).            Crown to be bound                                                                              4
 
-[6](#6).            Act to be administered by the Commissioner of Taxation
+[6](#6).            Act to be administered by the Commissioner of Taxation                  4
 
 **Part 2—Superannuation Holding Accounts Special Account**
 
-[7](#7).            Simplified outline
+[7](#7).            Simplified outline                                                                                 5
 
-[8](#8).            Superannuation Holding Accounts Special Account
+[8](#8).            Superannuation Holding Accounts Special Account                           5
 
-[9](#9).            Special Account is not a superannuation fund
+[9](#9).            Special Account is not a superannuation fund                                    5
 
 **Part 3—Accounts** 
 
     **Division 1—Simplified outline**
 
-[11](#11).          Simplified outline
+[11](#11).          Simplified outline                                                                                 7
 
     **Division 2—Keeping of accounts**
 
-[12](#12).          Accounts
+[12](#12).          Accounts                                                                                              8
 
     **Division 3—Outline of credits and debits to accounts**
 
-[13](#13).          Outline of credits to accounts
+[13](#13).          Outline of credits to accounts                                                              9
 
-[14](#14).          Outline of debits to accounts
+[14](#14).          Outline of debits to accounts                                                               9
 
     **Division 4—Opening and closing of accounts**
 
-[15](#15).          Opening of accounts
+[15](#15).          Opening of accounts                                                                          12
 
-[16](#16).          Closing of accounts
+[16](#16).          Closing of accounts                                                                            13
 
     **Division 5—Rules about accounts**
 
-[17](#17).          Accounts may have a nil balance
+[17](#17).          Accounts may have a nil balance                                                       14
 
-[18](#18).          One account per individual
+[18](#18).          One account per individual                                                                14
 
-[19](#19).          Account balances not held on trust etc 
+[19](#19).          Account balances not held on trust etc                                              14
 
     **Division 6—Notification of account balances**
 
-[20](#20).          Notification of opening balance
+[20](#20).          Notification of opening balance                                                         16
 
-[21](#21).          Individual may request details of account balance
+[21](#21).          Individual may request details of account balance                             16
 
-[22](#22).          Annual notification of account balance
+[22](#22).          Annual notification of account balance                                              16
 
-[23](#23).          Notification when account balance reaches $1,200
+[23](#23).          Notification when account balance reaches $1,200                           17
 
 **Part 4—Deposits**
 
-[24](#24).          Simplified outline
+[24](#24).          Simplified outline                                                                               18
 
-[25](#25).          Deposits
+[25](#25).          Deposits                                                                                            18
 
-[26](#26).          Deposit to be accompanied by deposit form
+[26](#26).          Deposit to be accompanied by deposit form                                    19
 
-[27](#27).          Deposit to be made by employer or former employer
+[27](#27).          Deposit to be made by employer or former employer                      19
 
-[28](#28).          Deposit to be instead of superannuation contributions
+[28](#28).          Deposit to be instead of superannuation contributions                    19
 
-[29](#29).          Deposit to be consistent with other laws etc 
+[29](#29).          Deposit to be consistent with other laws etc                                    19
 
-[30](#30).          Age limit
+[30](#30).          Age limit                                                                                            20
 
-[31](#31).          Consequences of false declarations etc 
+[31](#31).          Consequences of false declarations etc                                              20
 
-[32](#32).          Deposit form may deal with multiple payments
+[32](#32).          Deposit form may deal with multiple payments                              20
 
-[33](#33).          Deposit not held on trust etc 
+[33](#33).          Deposit not held on trust etc                                                             21
 
 **Part 5—Crediting of deposits**
 
-[34](#34).          Simplified outline
+[34](#34).          Simplified outline                                                                               22
 
-[35](#35).          Crediting of deposits
+[35](#35).          Crediting of deposits                                                                         22
 
 **Part 6—Crediting of interest** 
 
     **Division 1—Simplified outline**
 
-[36](#36).          Simplified outline
+[36](#36).          Simplified outline                                                                               23
 
     **Division 2—Gross interest amount and net interest amount**
 
-[37](#37).          Simplified outline
+[37](#37).          Simplified outline                                                                               24
 
-[38](#38).          Gross interest amount
+[38](#38).          Gross interest amount                                                                       24
 
-[39](#39).          Net interest amount
+[39](#39).          Net interest amount                                                                           24
 
     **Division 3—Funding of interest**
 
-[40](#40).          Simplified outline
+[40](#40).          Simplified outline                                                                               26
 
-[41](#41).          Crediting of net interest amount to the Special Account
+[41](#41).          Crediting of net interest amount to the Special Account                   26
 
-[42](#42).          Unallocated Interest Pool
+[42](#42).          Unallocated Interest Pool                                                                  26
 
-[43](#43).          Supplementation of Unallocated Interest Pool
+[43](#43).          Supplementation of Unallocated Interest Pool                                  27
 
-[44](#44).          Debiting of unallocated interest
+[44](#44).          Debiting of unallocated interest                                                         27
 
     **Division 4—Allocation day and allocation rate**
 
-[45](#45).          Simplified outline
+[45](#45).          Simplified outline                                                                               29
 
-[46](#46).          Gazettal of allocation day and allocation rate
+[46](#46).          Gazettal of allocation day and allocation rate                                    29
 
-[47](#47).          Calculation of the allocation rate
+[47](#47).          Calculation of the allocation rate                                                       29
 
     **Division 5—Crediting of interest**
 
-[48](#48).          Simplified outline
+[48](#48).          Simplified outline                                                                               32
 
-[49](#49).          Accrual of interest on first $1,200 of daily balance
+[49](#49).          Accrual of interest on first $1,200 of daily balance                           32
 
-[50](#50).          Rate of accrual, and crediting, of interest
+[50](#50).          Rate of accrual, and crediting, of interest                                           32
 
-[51](#51).          Rounding up
+[51](#51).          Rounding up                                                                                      34
 
     **Division 6—Interest not to accrue in certain cases**
 
-[52](#52).          Simplified outline
+[52](#52).          Simplified outline                                                                               35
 
-[53](#53).          Interest does not accrue on refunded deposits
+[53](#53).          Interest does not accrue on refunded deposits                                  35
 
-[54](#54).          Interest does not accrue on shortfall components incorrectly credited to accounts
+[54](#54).          Interest does not accrue on shortfall components incorrectly credited to accounts                36
 
-[55](#55).          Amalgamated accounts—no interest if $1,200 limit avoided
+[55](#55).          Amalgamated accounts—no interest if $1,200 limit avoided            36
 
 **Part 7—Withdrawal of account balances** 
 
     **Division 1—Simplified outline**
 
-[56](#56).          Simplified outline
+[56](#56).          Simplified outline                                                                               38
 
     **Division 2—No withdrawals for 14 days after deposit credited to account etc.**
 
-[57](#57).          Simplified outline
+[57](#57).          Simplified outline                                                                               39
 
-[58](#58).          No withdrawals for 14 days after deposit credited to account etc 
+[58](#58).          No withdrawals for 14 days after deposit credited to account etc    39
 
-[59](#59).          No withdrawals for 14 days after shortfall component credited to account
+[59](#59).          No withdrawals for 14 days after shortfall component credited to account           40
 
     **Division 3—Timing of withdrawals**
 
-[60](#60).          Timing of withdrawals
+[60](#60).          Timing of withdrawals                                                                       42
 
     **Division 4—Transfer of account balances to RSAs and superannuation funds**
 
-[61](#61).          Transfer to RSA or superannuation fund
+[61](#61).          Transfer to RSA or superannuation fund                                          43
 
-[61A](#61A).       Commissioner may transfer account balance to RSA or superannuation fund
+[61A](#61A).       Commissioner may transfer account balance to RSA or superannuation fund        45
 
     **Division 5—Direct withdrawals of account balances by individuals**
 
-[62](#62).          Simplified outline
+[62](#62).          Simplified outline                                                                               46
 
-[63](#63).          Withdrawal of account balance of less than $200, where individual has ceased to be employed by depositor etc 
+[63](#63).          Withdrawal of account balance of less than $200, where individual has ceased to be employed by depositor etc                                                                                                            47
 
-[64](#64).          Withdrawal of account balance—receipt of Commonwealth income support payments
+[64](#64).          Withdrawal of account balance—receipt of Commonwealth income support payments       48
 
-[65](#65).          Withdrawal of account balance—retirement on grounds of disability
+[65](#65).          Withdrawal of account balance—retirement on grounds of disability 50
 
-[66](#66).          Withdrawal of account balance—individual turns 65
+[66](#66).          Withdrawal of account balance—individual turns 65                        51
 
-[67](#67).          Withdrawal of account balance—individual not an Australian resident
+[67](#67).          Withdrawal of account balance—individual not an Australian resident  52
 
-[67A](#67A).       Withdrawal of account balance—permanent departure from Australia
+[67A](#67A).       Withdrawal of account balance—permanent departure from Australia   53
 
     **Division 6—Withdrawals of account balances after death**
 
-[68](#68).          Withdrawal of account balance—death of individual
+[68](#68).          Withdrawal of account balance—death of individual                        55
 
     **Division 7—Notification of refusal of requests**
 
-[69](#69).          Notification of refusal of requests
+[69](#69).          Notification of refusal of requests                                                     56
 
     **Division 8—Recovery of account balances**
 
-[70](#70).          Recovery of account balances
+[70](#70).          Recovery of account balances                                                            57
 
 **Part 8—Refunds of deposits**
 
-[71](#71).          Simplified outline
+[71](#71).          Simplified outline                                                                               58
 
-[72](#72).          Refunds—false or defective deposit forms etc 
+[72](#72).          Refunds—false or defective deposit forms etc                                  58
 
-[73](#73).          Refunds—deposit made by mistake
+[73](#73).          Refunds—deposit made by mistake                                                  59
 
-[74](#74).          Recovery of refunds
+[74](#74).          Recovery of refunds                                                                          60
 
 **Part 9—Inactive accounts**
 
-[75](#75).          Simplified outline
+[75](#75).          Simplified outline                                                                               61
 
-[76](#76).          No activity for 10 years
+[76](#76).          No activity for 10 years                                                                    61
 
-[77](#77).          Register
+[77](#77).          Register                                                                                              62
 
 **Part 10—Tax file numbers**
 
-[78](#78).          Simplified outline
+[78](#78).          Simplified outline                                                                               64
 
-[79](#79).          Individual may quote his or her tax file number
+[79](#79).          Individual may quote his or her tax file number                                64
 
 **Part 11—Review of decisions**
 
-[80](#80).          Simplified outline
+[80](#80).          Simplified outline                                                                               65
 
-[81](#81).          Reviewable decisions
+[81](#81).          Reviewable decisions                                                                         65
 
-[82](#82).          Reconsideration of reviewable decisions
+[82](#82).          Reconsideration of reviewable decisions                                           65
 
-[83](#83).          AAT review of Commissioner of Taxation’s decisions
+[83](#83).          AAT review of Commissioner of Taxation’s decisions                    66
 
-[84](#84).          Modification of the _Administrative Appeals Tribunal Act 1975_
+[84](#84).          Modification of the _Administrative Appeals Tribunal Act 1975_        67
 
-[85](#85).          Statements to accompany notification of decisions
+[85](#85).          Statements to accompany notification of decisions                          67
 
 **Part 12—Partnerships and unincorporated associations** 
 
     **Division 1—Partnerships**
 
-[86](#86).          Simplified outline
+[86](#86).          Simplified outline                                                                               69
 
-[87](#87).          Treatment of partnerships
+[87](#87).          Treatment of partnerships                                                                 69
 
-[88](#88).          Giving of documents to partnerships
+[88](#88).          Giving of documents to partnerships                                                69
 
     **Division 2—Unincorporated associations**
 
-[89](#89).          Simplified outline
+[89](#89).          Simplified outline                                                                               70
 
-[90](#90).          Treatment of unincorporated associations
+[90](#90).          Treatment of unincorporated associations                                        70
 
-[91](#91).          Giving of documents to unincorporated associations
+[91](#91).          Giving of documents to unincorporated associations                        70
 
 **Part 12A—Government co-contributions for low income earners**
 
-[91A](#91A).       Commissioner of Taxation may deposit Government co-contributions for low income earners into individual’s account
+[91A](#91A).       Commissioner of Taxation may deposit Government co-contributions for low income earners into individual’s account                                                                                                           72
 
-[91B](#91B).       Act generally applies to deposits under this Part in the same way as it applies to deposits under Part 4
+[91B](#91B).       Act generally applies to deposits under this Part in the same way as it applies to deposits under Part 4             72
 
-[91C](#91C).       Deposit not held on trust etc 
+[91C](#91C).       Deposit not held on trust etc                                                             72
 
-[91D](#91D).       Crediting of deposits
+[91D](#91D).       Crediting of deposits                                                                         72
 
-[91E](#91E).        Debiting account with overpayment of Government co-contribution
+[91E](#91E).        Debiting account with overpayment of Government co-contribution 73
 
-[91F](#91F).        Withdrawal of account balances
+[91F](#91F).        Withdrawal of account balances                                                        73
 
-[91G](#91G).       Refunds of deposits
+[91G](#91G).       Refunds of deposits                                                                           74
 
 **Part 13—Miscellaneous**
 
-[92](#92).          Delegation
+[92](#92).          Delegation                                                                                          75
 
-[93](#93).          Annual report
+[93](#93).          Annual report                                                                                    75
 
-[94](#94).          Regulations
+[94](#94).          Regulations                                                                                        75
 
 **Schedule—Employees and employers**
 
-[1](#1).            Basic definition
+[1](#1).            Basic definition                                                                                  76
 
-[2](#2).            Company directors
+[2](#2).            Company directors                                                                            76
 
-[3](#3).            Contract workers
+[3](#3).            Contract workers                                                                               76
 
-[4](#4).            Members of the Parliament of the Commonwealth
+[4](#4).            Members of the Parliament of the Commonwealth                           76
 
-[5](#5).            Members of the Parliament of a State
+[5](#5).            Members of the Parliament of a State                                               76
 
-[6](#6).            Members of the ACT Legislative Assembly
+[6](#6).            Members of the ACT Legislative Assembly                                     76
 
-[7](#7).            Members of the Northern Territory Legislative Assembly
+[7](#7).            Members of the Northern Territory Legislative Assembly              79
 
-[8](#8).            Performers and sportspersons etc 
+[8](#8).            Performers and sportspersons etc                                                     79
 
-[9](#9).            Office holders etc 
+[9](#9).            Office holders etc                                                                               79
 
 **Notes** 
+
 
 ## An Act relating to the small superannuation accounts scheme
 
@@ -332,65 +334,27 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The following is a simplified explanation of this Act:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Australian Taxation
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The Australian Taxation Office administers a Special Account. Notional **accounts** are kept within the Special Account. **Employers** may **deposit** money for their **employees** instead of making superannuation contributions. These deposits are credited to the notional accounts.</li>
 
-Office administers a Special Account. Notional **accounts** are kept within
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The account offers employees with small balances an opportunity to avoid the erosion of those balances by fees. </li>
 
-the Special Account. **Employers** may **deposit** money for their **employees**
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Employees may request that account balances be **transferred** to a nominated **superannuation fund**or **RSA**. </li>
 
-instead of making superannuation contributions. These deposits are credited to
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Except in special cases, employees will not have direct access to their account balances. </li>
 
-the notional accounts.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">**•      Interest** will be calculated on the daily balance of the account and credited to the account on a quarterly basis. </li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The account offers
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Interest is **exempt from income tax**. </li>
 
-employees with small balances an opportunity to avoid the erosion of those
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      If an account balance exceeds $1,200, interest will **only** be credited on the **first $1,200** of the balance. This is an incentive for employees to request that balances of more than $1,200 be transferred to a superannuation fund. </li>
 
-balances by fees. </li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under the _Income Tax Assessment Act 1936_, employers may get **income tax deductions** for deposits. There is an annual deduction limit of $1,200 per employee. </li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Employees may request that
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under the _Superannuation Guarantee (Administration) Act 1992_, deposits made by an employer will be **treated as superannuation contributions**. </li>
 
-account balances be **transferred** to a nominated **superannuation fund**or
-
-**RSA**. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Except in special cases,
-
-employees will not have direct access to their account balances. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">**•      Interest** will be
-
-calculated on the daily balance of the account and credited to the account on a
-
-quarterly basis. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Interest is **exempt from income tax**. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      If an account balance
-
-exceeds $1,200, interest will **only** be credited on the **first $1,200**
-
-of the balance. This is an incentive for employees to request that balances of
-
-more than $1,200 be transferred to a superannuation fund. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Under the _Income Tax Assessment Act 1936_, employers may get **income tax deductions** for
-
-deposits. There is an annual deduction limit of $1,200 per employee. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Under the _Superannuation Guarantee (Administration) Act 1992_, deposits made by an employer will be **treated as superannuation contributions**. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The accounts may also be
-
-credited with Government co-contributions payable under the _Superannuation (Government Co-contribution for Low Income Earners) Act 2003_. The
-
-rules for these deposits differ in some respects from those that apply to other
-
-deposits.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The accounts may also be credited with Government co-contributions payable under the _Superannuation (Government Co-contribution for Low Income Earners) Act 2003_. The rules for these deposits differ in some respects from those that apply to other deposits.</li></div>
 
 ##### <a id="4"></a>4  Definitions
 
@@ -398,9 +362,9 @@ deposits.</li>
 
                     <a name="account"></a>**_account_** means a notional account kept in accordance with section 12.
 
-                    <a name="compli-superannu-fund"></a>**_complying superannuation fund_** has the same meaning as in the _Income Tax Assessment Act 1997_.
+                    <a name="compli-superannu-fund"></a>**_complying superannuation fund_** has the same meaning as in Part IX of the _Income Tax Assessment Act 1936_.
 
-Note:          The _Income Tax Assessment Act 1997_ defines **_complying superannuation fund_** by reference to section 45 of the _Superannuation Industry (Supervision) Act 1993_.
+Note:          Section 267 of the _Income Tax Assessment Act 1936_ defines **_complying superannuation fund_** by reference to the provisions of Division 3 of Part 5 of the _Superannuation Industry (Supervision) Act 1993_.
 
                     <a name="depend"></a>**_dependant_**, in relation to an individual, includes the spouse and any child of the person.
 
@@ -476,21 +440,15 @@ Note:          This expression is only used in the definition 
 
 ## Part 2—Superannuation Holding Accounts Special Account
 
-##### <a id="7"></a>7  Simplified outline
+##### <a id="7"></a>7  Simplified outline
 
                    The following is a simplified outline of this Part: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Superannuation Holding
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The Superannuation Holding Accounts Special Account is continued in existence.</li>
 
-Accounts Special Account is continued in existence.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The Special Account is not
-
-a superannuation fund.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The Special Account is not a superannuation fund.</li></div>
 
 ##### <a id="8"></a>8  Superannuation Holding Accounts Special Account
 
@@ -524,41 +482,23 @@ Avoidance of doubt
 
                    The following is a simplified outline of this Part: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      Notional accounts are to be
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Notional accounts are to be kept within the Special Account in the names of particular individuals.</li>
 
-kept within the Special Account in the names of particular individuals.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Section 13 outlines credits to accounts.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Section 13 outlines
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Section 14 outlines debits to accounts.</li>
 
-credits to accounts.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The Commissioner of Taxation may open or close an account.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Section 14 outlines
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Accounts may have a nil balance.</li>
 
-debits to accounts.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      An individual may only have one account.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Commissioner of
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Account balances are not held on trust.</li>
 
-Taxation may open or close an account.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Accounts may have a nil
-
-balance.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      An individual may only have
-
-one account.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Account balances are not
-
-held on trust.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      An individual’s account
-
-balance will be notified to the individual in certain circumstances.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      An individual’s account balance will be notified to the individual in certain circumstances.</li></div>
 
 ### Division 2—Keeping of accounts
 
@@ -580,63 +520,33 @@ Note:          Section 4 provides that **_account_** means a
 
                    The following is a simplified outline of the types of credits that may be made to an individual’s account. 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 _Deposits by employers_
 
-<li class="BoxList" style="margin-left:21.25pt">•      Under section 25, the
-
-individual’s employer or former employer may make a deposit in respect of the
-
-individual. The employer or former employer will make the deposit instead of
-
-making a superannuation contribution in respect of the individual. The deposit
-
-will result in a credit to the individual’s account. </li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under section 25, the individual’s employer or former employer may make a deposit in respect of the individual. The employer or former employer will make the deposit instead of making a superannuation contribution in respect of the individual. The deposit will result in a credit to the individual’s account. </li>
 
 _Superannuation guarantee shortfalls_
 
-<li class="BoxList" style="margin-left:21.25pt">•      Under section 65 of
-
-the _Superannuation Guarantee (Administration) Act 1992_, if there is a
-
-shortfall component of a payment of superannuation guarantee charge in relation
-
-to the individual, the Commissioner of Taxation may credit the shortfall
-
-component to the individual’s account. </li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under section 65 of the _Superannuation Guarantee (Administration) Act 1992_, if there is a shortfall component of a payment of superannuation guarantee charge in relation to the individual, the Commissioner of Taxation may credit the shortfall component to the individual’s account. </li>
 
 _Interest_
 
-<li class="BoxList" style="margin-left:21.25pt">•      Under Part 6, interest
-
-may be credited to the individual’s account. </li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under Part 6, interest may be credited to the individual’s account. </li></div>
 
 ##### <a id="14"></a>14  Outline of debits to accounts
 
                    The following is a simplified outline of the types of debits that may be made to an individual’s account. These debits also involve debiting the Special Account.
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 _Transfer to superannuation fund or RSA_
 
-<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      Under
-
-section 61, the balance of the amount standing to the credit of the
-
-account may be debited from the Special Account and paid by the Commonwealth to
-
-a superannuation fund or RSA.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under section 61, the balance of the amount standing to the credit of the account may be debited from the Special Account and paid by the Commonwealth to a superannuation fund or RSA.</li>
 
 _Balance of less than $200—individual has ceased to be employed by all depositors_
 
-<li class="BoxList" style="margin-left:21.25pt">•      Under section 63, the
-
-balance of the amount standing to the credit of the account may be debited from
-
-the Special Account and paid by the Commonwealth to the individual if:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under section 63, the balance of the amount standing to the credit of the account may be debited from the Special Account and paid by the Commonwealth to the individual if:</li>
 
                (a)     the balance is less than $200; and
 
@@ -644,47 +554,19 @@ the Special Account and paid by the Commonwealth to the individual if:</li>
 
 _Receipt of Commonwealth income support payments_
 
-<li class="BoxList" style="margin-left:21.25pt">•      Under section 64, the
-
-balance of the amount standing to the credit of the account may be debited from
-
-the Special Account and paid by the Commonwealth to the individual if the
-
-individual is in receipt of Commonwealth income support payments for a
-
-sufficient period.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under section 64, the balance of the amount standing to the credit of the account may be debited from the Special Account and paid by the Commonwealth to the individual if the individual is in receipt of Commonwealth income support payments for a sufficient period.</li>
 
 _Disability_
 
-<li class="BoxList" style="margin-left:21.25pt">•      Under section 65, the
-
-balance of the amount standing to the credit of the account may be debited from
-
-the Special Account and paid by the Commonwealth to the individual if the
-
-individual has retired because of permanent disability.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under section 65, the balance of the amount standing to the credit of the account may be debited from the Special Account and paid by the Commonwealth to the individual if the individual has retired because of permanent disability.</li>
 
 _Individual turns 65_
 
-<li class="BoxList" style="margin-left:21.25pt">•      Under section 66, the
-
-balance of the amount standing to the credit of the account may be debited from
-
-the Special Account and paid by the Commonwealth to the individual if the
-
-individual has turned 65.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under section 66, the balance of the amount standing to the credit of the account may be debited from the Special Account and paid by the Commonwealth to the individual if the individual has turned 65.</li>
 
 _Individual at least 55 years old and not an Australian resident_
 
-<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      Under
-
-section 67, the balance of the amount standing to the credit of the
-
-account may be debited from the Special Account and paid by the Commonwealth to
-
-the individual if the individual is at least 55 years old and is  not an
-
-Australian resident for income tax purposes and:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under section 67, the balance of the amount standing to the credit of the account may be debited from the Special Account and paid by the Commonwealth to the individual if the individual is at least 55 years old and is  not an Australian resident for income tax purposes and:</li>
 
                (a)     the individual is not in employment; or
 
@@ -692,11 +574,7 @@ Australian resident for income tax purposes and:</li>
 
 _Permanent departure from Australia_
 
-<li class="BoxList" style="margin-left:21.25pt">•      The balance of the amount
-
-standing to the credit of an individual’s account may be debited from the
-
-Special Account if:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The balance of the amount standing to the credit of an individual’s account may be debited from the Special Account if:</li>
 
                (a)     the individual was the holder of an eligible temporary residents visa that has expired or been cancelled; and
 
@@ -704,29 +582,15 @@ Special Account if:</li>
 
 _Death of individual_
 
-<li class="BoxList" style="margin-left:21.25pt">•      Under section 68, if
-
-the individual dies, the balance of the amount standing to the credit of the
-
-account may be debited from the Special Account and paid by the Commonwealth to
-
-the individual’s legal personal representative.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under section 68, if the individual dies, the balance of the amount standing to the credit of the account may be debited from the Special Account and paid by the Commonwealth to the individual’s legal personal representative.</li>
 
 _Refunds of deposits_
 
-<li class="BoxList" style="margin-left:21.25pt">•      Under Part 8, an
-
-amount standing to the credit of the account may be debited from the Special
-
-Account and paid by the Commonwealth for the purposes of refunding deposits
-
-that were:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under Part 8, an amount standing to the credit of the account may be debited from the Special Account and paid by the Commonwealth for the purposes of refunding deposits that were:</li>
 
                (a)     accompanied by false or defective deposit forms; or
 
-               (b)     made by mistake.
-
-* * *
+               (b)     made by mistake.</div>
 
 ### Division 4—Opening and closing of accounts
 
@@ -898,43 +762,25 @@ Note 2:       Section 61 provides for the transfer of the balance 
 
                    The following is a simplified outline of this Part: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      A person may make a payment
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      A person may make a payment to the Commissioner of Taxation under section 25 in respect of an individual. The payment is called a **deposit**.</li>
 
-to the Commissioner of Taxation under section 25 in respect of an
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The deposit must be accompanied by a deposit form. </li>
 
-individual. The payment is called a **deposit**.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The deposit form must include certain declarations. </li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The deposit must be
-
-accompanied by a deposit form. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The deposit form must
-
-include certain declarations. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The 2 key declarations are:
-
-</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The 2 key declarations are: </li>
 
                (a)     that the depositor is the employer, or former employer, of the individual; and 
 
                (b)     that the depositor is making the deposit instead of making a superannuation contribution in respect of the individual. 
 
-<li class="BoxList" style="margin-left:21.25pt">•      A defect in the deposit
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      A defect in the deposit form will not result in the invalidity of the deposit. </li>
 
-form will not result in the invalidity of the deposit. </li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      A deposit form may deal with multiple payments. </li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      A deposit form may deal with
-
-multiple payments. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Deposits are not held on
-
-trust. </li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Deposits are not held on trust. </li></div>
 
 ##### <a id="25"></a>25  Deposits
 
@@ -1038,19 +884,13 @@ If the person does so, this Act has effect as if the person had given the Commis
 
                    The following is a simplified outline of this Part: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 Deposits are to be credited to accounts by following these steps:
 
-<li class="BoxList" style="margin-left:21.25pt">•      credit the deposit to the
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      credit the deposit to the Special Account;</li>
 
-Special Account;</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      credit the deposit to the
-
-individual’s account.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      credit the deposit to the individual’s account.</li></div>
 
 ##### <a id="35"></a>35  Crediting of deposits
 
@@ -1070,45 +910,27 @@ Step 2—Credit to individual’s account
 
                    The following is a simplified outline of this Part: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      Interest is funded by
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Interest is funded by crediting amounts to the Special Account.</li>
 
-crediting amounts to the Special Account.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Interest accrues to an account on the daily balance of the account. Interest only accrues on the first $1,200 of the balance of the account.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Interest accrues to an
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Interest is credited each quarter on the allocation day.</li>
 
-account on the daily balance of the account. Interest only accrues on the first
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The allocation day is published in the _Gazette_.</li>
 
-$1,200 of the balance of the account.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The rate at which interest accrues is called the allocation rate.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Interest is credited each
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The allocation rate is published in the _Gazette_.</li>
 
-quarter on the allocation day.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The allocation day is
-
-published in the _Gazette_.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The rate at which interest
-
-accrues is called the allocation rate.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The allocation rate is
-
-published in the _Gazette_.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Interest will not accrue to
-
-an account in the following cases:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Interest will not accrue to an account in the following cases:</li>
 
                           (a)       a deposit is refunded;
 
                           (b)       a shortfall component is incorrectly credited to the account;
 
-                          (c)       the $1,200 limit has been avoided by the use of multiple accounts.
-
-* * *
+                          (c)       the $1,200 limit has been avoided by the use of multiple accounts.</div>
 
 ### Division 2—Gross interest amount and net interest amount
 
@@ -1116,19 +938,15 @@ an account in the following cases:</li>
 
                    The following is a simplified outline of this Division: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      The expressions **gross interest amount** and **net interest amount** are defined. </li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The expressions **gross interest amount** and **net interest amount** are defined. </li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Those expressions are used
-
-to work out: </li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Those expressions are used to work out: </li>
 
                (a)     how interest is funded; and 
 
-               (b)     the rate at which interest accrues to an account. 
-
-* * *
+               (b)     the rate at which interest accrues to an account. </div>
 
 ##### <a id="38"></a>38  Gross interest amount
 
@@ -1186,35 +1004,17 @@ Investment costs
 
                    The following is a simplified outline of this Division: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      Interest is funded by
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Interest is funded by crediting the net interest amount to the Special Account.</li>
 
-crediting the net interest amount to the Special Account.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      An Unallocated Interest Pool is to be kept within the Special Account.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      An Unallocated Interest
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Unallocated interest is represented by the balance of the Unallocated Interest Pool.</li>
 
-Pool is to be kept within the Special Account.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      In special cases, the Unallocated Interest Pool may be supplemented by crediting an amount to the Special Account.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Unallocated interest is
-
-represented by the balance of the Unallocated Interest Pool.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      In special cases, the
-
-Unallocated Interest Pool may be supplemented by crediting an amount to the
-
-Special Account.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Since interest only accrues
-
-on the first $1,200 of an account balance, it is possible for a surplus to
-
-build up in the Unallocated Interest Pool. The surplus can be debited from the
-
-Special Account.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Since interest only accrues on the first $1,200 of an account balance, it is possible for a surplus to build up in the Unallocated Interest Pool. The surplus can be debited from the Special Account.</li></div>
 
 ##### <a id="41"></a>41  Crediting of net interest amount to the Special Account
 
@@ -1272,25 +1072,13 @@ Credit to Unallocated Interest Pool
 
                    The following is a simplified outline of this Division:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      The allocation day for a
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The allocation day for a quarter is published in the _Gazette_. The allocation day is the day on which interest is credited to accounts. </li>
 
-quarter is published in the _Gazette_. The allocation day is the day on
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The allocation rate for a quarter is published in the _Gazette_. The allocation rate is the rate at which interest accrues to an account. </li>
 
-which interest is credited to accounts. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The allocation rate for a
-
-quarter is published in the _Gazette_. The allocation rate is the rate at
-
-which interest accrues to an account. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The allocation rate is
-
-worked out under section 47\. </li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The allocation rate is worked out under section 47\. </li></div>
 
 ##### <a id="46"></a>46  Gazettal of allocation day and allocation rate
 
@@ -1326,7 +1114,7 @@ Provisional rate
 
              (3)  Calculate the **_provisional rate_** for the quarter as a percentage (to 4 decimal places) using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2007C00108/Html/SmallSuperAccounts1995_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00417/Html/61724258CD381999CA2570350018CC53/$FILE/image002.gif)
 
 where:
 
@@ -1350,7 +1138,7 @@ Capped rate
 
              (5)  Calculate the **_capped rate_** as a percentage (to 4 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00108/Html/SmallSuperAccounts1995_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00417/Html/61724258CD381999CA2570350018CC53/$FILE/image003.gif)
 
 where:
 
@@ -1374,19 +1162,11 @@ Allocation rate—comparison between provisional rate and capped rate
 
                    The following is a simplified outline of this Division: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      Interest accrues to an
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Interest accrues to an account on the daily balance of the account. Interest only accrues on the first $1,200 of the balance of the account. </li>
 
-account on the daily balance of the account. Interest only accrues on the first
-
-$1,200 of the balance of the account. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Interest is credited each
-
-quarter on the allocation day. </li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Interest is credited each quarter on the allocation day. </li></div>
 
 ##### <a id="49"></a>49  Accrual of interest on first $1,200 of daily balance
 
@@ -1422,7 +1202,7 @@ Allocation day event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00108/Html/SmallSuperAccounts1995_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00417/Html/61724258CD381999CA2570350018CC53/$FILE/image004.gif)
 
                             where:
 
@@ -1436,7 +1216,7 @@ Withdrawal event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00108/Html/SmallSuperAccounts1995_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00417/Html/61724258CD381999CA2570350018CC53/$FILE/image005.gif)
 
                             where:
 
@@ -1450,7 +1230,7 @@ Inactive account debit event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00108/Html/SmallSuperAccounts1995_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00417/Html/61724258CD381999CA2570350018CC53/$FILE/image005.gif)
 
                             where:
 
@@ -1472,19 +1252,15 @@ Transitional—withdrawal event before first allocation day
 
                    The following is a simplified outline of this Division: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      Interest will not accrue to
-
-an account in the following cases: </li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Interest will not accrue to an account in the following cases: </li>
 
                (a)     a deposit is refunded; 
 
                (b)     a shortfall component is incorrectly credited to the account; 
 
-               (c)     the $1,200 limit has been avoided by the use of multiple accounts.
-
-* * *
+               (c)     the $1,200 limit has been avoided by the use of multiple accounts.</div>
 
 ##### <a id="53"></a>53  Interest does not accrue on refunded deposits
 
@@ -1564,11 +1340,9 @@ Credit to Unallocated Interest Pool
 
                    The following is a simplified outline of this Part: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      There are 3 types of
-
-withdrawals of account balances: </li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      There are 3 types of withdrawals of account balances: </li>
 
                (a)     transfers of account balances to superannuation funds or RSAs; 
 
@@ -1576,15 +1350,7 @@ withdrawals of account balances: </li>
 
                (c)     withdrawals of account balances after death. 
 
-<li class="BoxList" style="margin-left:21.25pt">•      Under Part 8, a
-
-depositor has 14 days to apply for a refund of a deposit on the grounds that
-
-the deposit was made by mistake. During the 14-day period, the
-
-individual’s account will be frozen. </li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Under Part 8, a depositor has 14 days to apply for a refund of a deposit on the grounds that the deposit was made by mistake. During the 14-day period, the individual’s account will be frozen. </li></div>
 
 ### Division 2—No withdrawals for 14 days after deposit credited to account etc.
 
@@ -1592,31 +1358,17 @@ individual’s account will be frozen. </li>
 
                    The following is a simplified outline of this Division: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      An individual’s account
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      An individual’s account will be frozen for 14 days after a deposit is credited to the account. </li>
 
-will be frozen for 14 days after a deposit is credited to the account. </li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The delay gives the depositor a chance to apply for a refund of the deposit. </li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The delay gives the
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      If the depositor applies for a refund of the deposit, the 14-day period will be extended until the application is finalised. </li>
 
-depositor a chance to apply for a refund of the deposit. </li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Accounts will be frozen for 14 days after a shortfall component is credited to the account. </li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      If the depositor applies
-
-for a refund of the deposit, the 14-day period will be extended until the
-
-application is finalised. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      Accounts will be frozen for
-
-14 days after a shortfall component is credited to the account. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The delay gives the
-
-Commissioner of Taxation a chance to correct mistakes. </li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The delay gives the Commissioner of Taxation a chance to correct mistakes. </li></div>
 
 ##### <a id="58"></a>58  No withdrawals for 14 days after deposit credited to account etc.
 
@@ -1788,51 +1540,31 @@ Definitions
 
                    The following is a simplified outline of this Division: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      The balance of an
-
-individual’s account may be withdrawn if: </li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The balance of an individual’s account may be withdrawn if: </li>
 
                (a)     the balance is less than $200; and 
 
                (b)     the individual has ceased to be employed by all depositors. 
 
-<li class="BoxList" style="margin-left:21.25pt">•      The balance of an
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The balance of an individual’s account may be withdrawn if the individual is in receipt of Commonwealth income support payments for a sufficient period.</li>
 
-individual’s account may be withdrawn if the individual is in receipt of
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The balance of an individual’s account may be withdrawn if the individual has retired because of permanent disability. </li>
 
-Commonwealth income support payments for a sufficient period.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The balance of an individual’s account may be withdrawn if the individual has turned 65\. </li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The balance of an individual’s
-
-account may be withdrawn if the individual has retired because of permanent
-
-disability. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The balance of an
-
-individual’s account may be withdrawn if the individual has turned 65\. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The balance of an
-
-individual’s account may be withdrawn if the individual is at least 55 years
-
-old and is not an Australian resident for income tax purposes and: </li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The balance of an individual’s account may be withdrawn if the individual is at least 55 years old and is not an Australian resident for income tax purposes and: </li>
 
                (a)     the individual is not in employment; or 
 
                (b)     the individual is in employment, but the duties of the individual’s employment are performed wholly or principally outside Australia. 
 
-<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      The
-
-balance of an individual’s account may be withdrawn if:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The balance of an individual’s account may be withdrawn if:</li>
 
                (a)     the individual was the holder of an eligible temporary residents visa that has expired or been cancelled; and
 
-               (b)     the individual has permanently departed from Australia.
-
-* * *
+               (b)     the individual has permanently departed from Australia.</div>
 
 ##### <a id="63"></a>63  Withdrawal of account balance of less than $200, where individual has ceased to be employed by depositor etc.
 
@@ -1872,7 +1604,7 @@ Individual’s account to be debited
 
              (5)  When the payment is made, the individual’s account is debited by the amount of the payment.
 
-##### <a id="64"></a>64  Withdrawal of account balance—receipt of Commonwealth income support payments
+##### <a id="64"></a>64  Withdrawal of account balance—receipt of Commonwealth income support payments
 
 Withdrawal request
 
@@ -2146,19 +1878,11 @@ Individual’s account to be debited
 
                    The following is a simplified outline of this Part: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Commissioner of
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The Commissioner of Taxation may refund a deposit if the deposit form was false or defective. </li>
 
-Taxation may refund a deposit if the deposit form was false or defective. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      A depositor may apply for
-
-the refund of a deposit if it was made by mistake. The refund application must
-
-be made within 14 days after the deposit was credited to the account. </li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      A depositor may apply for the refund of a deposit if it was made by mistake. The refund application must be made within 14 days after the deposit was credited to the account. </li></div>
 
 ##### <a id="72"></a>72  Refunds—false or defective deposit forms etc.
 
@@ -2262,23 +1986,13 @@ Notification of refusal of application
 
                    The following is a simplified outline of this Part: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      If an individual’s account
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      If an individual’s account is inactive for 10 years, the account balance is to be debited from the Special Account.</li>
 
-is inactive for 10 years, the account balance is to be debited from the Special
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The individual may claim the account balance from the Commissioner of Taxation.</li>
 
-Account.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The individual may claim
-
-the account balance from the Commissioner of Taxation.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The Commissioner of
-
-Taxation must keep a register of individuals’ account balances debited.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The Commissioner of Taxation must keep a register of individuals’ account balances debited.</li></div>
 
 ##### <a id="76"></a>76  No activity for 10 years
 
@@ -2348,13 +2062,9 @@ Appropriation
 
                    The following is a simplified outline of this Part: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      An individual may quote his
-
-or her tax file number to the Commissioner of Taxation. </li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      An individual may quote his or her tax file number to the Commissioner of Taxation. </li></div>
 
 ##### <a id="79"></a>79  Individual may quote his or her tax file number
 
@@ -2374,27 +2084,13 @@ Note:          This means that an individual’s tax file number
 
                    The following is a simplified outline of this Part: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      A person who is
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      A person who is dissatisfied with a reviewable decision of the Commissioner of Taxation may seek a reconsideration of the decision. </li>
 
-dissatisfied with a reviewable decision of the Commissioner of Taxation may
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      A person who is dissatisfied with a reconsidered decision may have the reconsidered decision reviewed by the Administrative Appeals Tribunal. </li>
 
-seek a reconsideration of the decision. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      A person who is
-
-dissatisfied with a reconsidered decision may have the reconsidered decision
-
-reviewed by the Administrative Appeals Tribunal. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      The Commissioner of
-
-Taxation must tell people about their rights to have decisions reconsidered and
-
-reviewed. </li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      The Commissioner of Taxation must tell people about their rights to have decisions reconsidered and reviewed. </li></div>
 
 ##### <a id="81"></a>81  Reviewable decisions
 
@@ -2484,17 +2180,11 @@ Validity of decision
 
                    The following is a simplified outline of this Division: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      Partnerships are treated as
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Partnerships are treated as if they were persons. </li>
 
-if they were persons. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      A document given to a
-
-partner of a partnership is treated as if it had been given to the partnership.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      A document given to a partner of a partnership is treated as if it had been given to the partnership.</li></div>
 
 ##### <a id="87"></a>87  Treatment of partnerships
 
@@ -2520,19 +2210,11 @@ Note:          **_Superannuation accounts law_** is defined by s
 
                    The following is a simplified outline of this Division: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•      Unincorporated associations
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      Unincorporated associations are treated as if they were persons. </li>
 
-are treated as if they were persons. </li>
-
-<li class="BoxList" style="margin-left:21.25pt">•      A document given to a
-
-member of the committee of management of an unincorporated association is treated
-
-as if it had been given to the unincorporated association. </li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•      A document given to a member of the committee of management of an unincorporated association is treated as if it had been given to the unincorporated association. </li></div>
 
 ##### <a id="90"></a>90  Treatment of unincorporated associations
 
@@ -2626,7 +2308,8 @@ Interpretation
 
                      (a)  required or permitted by this Act to be prescribed; or
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+            (b)        necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
 
 # Schedule—Employees and employers
 
@@ -2658,7 +2341,7 @@ _Section 4_
 
 ##### <a id="6"></a>6  Members of the ACT Legislative Assembly 
 
-                   A member of the Legislative Assembly for the Australian Capital Territory is an employee of the Australian Capital   Territory. 
+                   A member of the Legislative Assembly for the Australian Capital Territory is an employee of the Australian Capital Territory. 
 
 ##### <a id="7"></a>7  Members of the Northern Territory Legislative Assembly 
 
@@ -2690,6 +2373,7 @@ _Section 4_
 
 is an employee of the Commonwealth, the State or the Territory, as the case requires. However, this rule does not apply to a person in the capacity of a member of a local government council.
 
+
 # Notes to the _Small Superannuation Accounts Act 1995_
 
 ### Note 1
@@ -2704,9 +2388,9 @@ For all relevant information pertaining to application, saving or transitional p
 <colgroup>
   <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -2716,11 +2400,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -2730,245 +2416,230 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Small Superannuation Accounts Act 1995</div>
-  </td>
-  <td>
-    <div>52, 1995</div>
-  </td>
-  <td>
-    <div>23 June 1995</div>
-  </td>
-  <td>
-    <div>1 July 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 97): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Retirement Savings Accounts (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>62, 1997</div>
-  </td>
-  <td>
-    <div>28 May 1997</div>
-  </td>
-  <td>
-    <div>2 June 1997 ( <i>see</i>s. 2 and <i>Gazette</i>1997, No. S202)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 3) 1997</div>
-  </td>
-  <td>
-    <div>147, 1997</div>
-  </td>
-  <td>
-    <div>14 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 9 (items 3, 4): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>Sch. 9 (item 4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 19-28): 1 Jan 1997( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
-  </td>
-  <td>
-    <div>48, 1998</div>
-  </td>
-  <td>
-    <div>29 June 1998</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 163–166): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment Act (No. 2) 1999</div>
-  </td>
-  <td>
-    <div>96, 1999</div>
-  </td>
-  <td>
-    <div>16 July 1999</div>
-  </td>
-  <td>
-    <div>16 July 1999</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 12)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation (Unclaimed Money and Lost Members) Consequential and Transitional Act 1999</div>
-  </td>
-  <td>
-    <div>128, 1999</div>
-  </td>
-  <td>
-    <div>13 Oct 1999</div>
-  </td>
-  <td>
-    <div>S. 8 and Schedule 1 (items 36–39): 13 Oct 1999 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>S. 8</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2001</div>
-  </td>
-  <td>
-    <div>114, 2001</div>
-  </td>
-  <td>
-    <div>18 Sept 2001</div>
-  </td>
-  <td>
-    <div><i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment (Superannuation) Act (No. 1) 2002</div>
-  </td>
-  <td>
-    <div>15, 2002</div>
-  </td>
-  <td>
-    <div>4 Apr 2002</div>
-  </td>
-  <td>
-    <div>4 Apr 2002</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 21)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003</div>
-  </td>
-  <td>
-    <div>111, 2003</div>
-  </td>
-  <td>
-    <div>12 Nov 2003</div>
-  </td>
-  <td>
-    <div>12 Nov 2003</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 25)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 318–363, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Choice of Superannuation Funds) Act 2005</div>
-  </td>
-  <td>
-    <div>82, 2005</div>
-  </td>
-  <td>
-    <div>29 June 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1): 1 July 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Simplification) Act 2007</div>
-  </td>
-  <td>
-    <div>15, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 287, 288, 
-406(1)–(3)): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 406(1)–(3))</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Small Superannuation Accounts Act 1995</div>
+    </td>
+    <td>
+      <div>52, 1995</div>
+    </td>
+    <td>
+      <div>23 June 1995</div>
+    </td>
+    <td>
+      <div>1 July 1995</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 97): <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Retirement Savings Accounts (Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>62, 1997</div>
+    </td>
+    <td>
+      <div>28 May 1997</div>
+    </td>
+    <td>
+      <div>2 June 1997 ( <i>see</i>s. 2 and <i>Gazette</i>1997, No. S202)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 3) 1997</div>
+    </td>
+    <td>
+      <div>147, 1997</div>
+    </td>
+    <td>
+      <div>14 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 9 (items 3, 4): Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>Sch. 9 (item 4)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 19-28): 1 Jan 1997( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Consequential Amendments) Act 1998</div>
+    </td>
+    <td>
+      <div>48, 1998</div>
+    </td>
+    <td>
+      <div>29 June 1998</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 163–166): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation Amendment Act (No. 2) 1999</div>
+    </td>
+    <td>
+      <div>96, 1999</div>
+    </td>
+    <td>
+      <div>16 July 1999</div>
+    </td>
+    <td>
+      <div>16 July 1999</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 12)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation (Unclaimed Money and Lost Members) Consequential and Transitional Act 1999</div>
+    </td>
+    <td>
+      <div>128, 1999</div>
+    </td>
+    <td>
+      <div>13 Oct 1999</div>
+    </td>
+    <td>
+      <div>S. 8 and Schedule 1 (items 36–39): 13 Oct 1999 <i>(e)</i></div>
+    </td>
+    <td>
+      <div>S. 8</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2001</div>
+    </td>
+    <td>
+      <div>114, 2001</div>
+    </td>
+    <td>
+      <div>18 Sept 2001</div>
+    </td>
+    <td>
+      <div><i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment (Superannuation) Act (No. 1) 2002</div>
+    </td>
+    <td>
+      <div>15, 2002</div>
+    </td>
+    <td>
+      <div>4 Apr 2002</div>
+    </td>
+    <td>
+      <div>4 Apr 2002</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 21)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003</div>
+    </td>
+    <td>
+      <div>111, 2003</div>
+    </td>
+    <td>
+      <div>12 Nov 2003</div>
+    </td>
+    <td>
+      <div>12 Nov 2003</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 25)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 318–363, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation Amendment (Choice of Superannuation Funds) Act 2005</div>
+    </td>
+    <td>
+      <div>82, 2005</div>
+    </td>
+    <td>
+      <div>29 June 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 1): 1 July 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Small Superannuation Accounts Act 1995_ was amended by Schedule 2 (item 97) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
 
@@ -3004,92 +2675,6 @@ _(f)_ Section 2 of the _Family Law Legislation Amendment (Superannuation) (Con
 
          The _Family Law Legislation Amendment (Superannuation) Act 2001_ came into operation on 28 December 2002\. 
 
-_(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation Amendment (Simplification) Act 2007_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to the
-        <i>Tax Laws Amendment (Simplified Superannuation) Act 2007</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      15 March 2007
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -3114,886 +2699,881 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 62, 1997; No. 111, 2003; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 62, 1997; No. 111, 2003; No. 8, 2005; No. 15, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 8(2)</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 3 to s. 8(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 9</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 62, 1997; No. 96, 1999; No. 15, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 114, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 15, 2002; No. 111, 2003; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 1, 2, 3 to s. 16</div>
-  </td>
-  <td>
-    <div>rs. No. 111, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 4 to s. 16</div>
-  </td>
-  <td>
-    <div>ad. No. 15, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 111, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes 5, 6 to s. 16</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 82, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 147, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38, 39</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 41, 42</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 44</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 50(2)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 50(5)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4 of Part 7</div>
-  </td>
-  <td>
-    <div>rs. No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 61</div>
-  </td>
-  <td>
-    <div>rs. No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 61(6)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 62, 1997; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61A</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2003; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1999; No. 15, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 63</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 63(5)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1999; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 64</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 64(5)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 48, 1998; No. 96, 1999; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 65(5)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 66(7)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 67(5)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>am. No. 96, 1999; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 67A(5)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67A</div>
-  </td>
-  <td>
-    <div>ad. No. 15, 2002; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 68(5)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 72(4)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 73(5)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 75</div>
-  </td>
-  <td>
-    <div>am. No. 48, 1998; No. 128, 1999; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 76(2)</div>
-  </td>
-  <td>
-    <div>am. No. 48, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 76</div>
-  </td>
-  <td>
-    <div>am. No. 48, 1998; No. 128, 1999; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>am. No. 128, 1999; No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 12A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 12A</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 91A</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 91B, –91C</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 91D</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 91E–91G</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 13</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 95</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 3, 4</div>
+    </td>
+    <td>
+      <div>am. No. 62, 1997; No. 111, 2003; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 2</div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 1 to s. 8(2)</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 3 to s. 8(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 9</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 62, 1997; No. 96, 1999; No. 15, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. No. 114, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>am. No. 15, 2002; No. 111, 2003; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 1, 2, 3 to s. 16</div>
+    </td>
+    <td>
+      <div>rs. No. 111, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 4 to s. 16</div>
+    </td>
+    <td>
+      <div>ad. No. 15, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 111, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Notes 5, 6 to s. 16</div>
+    </td>
+    <td>
+      <div>ad. No. 111, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>am. No. 82, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>am. No. 147, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 38, 39</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 41, 42</div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 44</div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 50(2)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 50(5)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 53</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56</div>
+    </td>
+    <td>
+      <div>am. No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 4 of Part 7</div>
+    </td>
+    <td>
+      <div>rs. No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 61</div>
+    </td>
+    <td>
+      <div>rs. No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 61(6)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61</div>
+    </td>
+    <td>
+      <div>am. No. 62, 1997; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61A</div>
+    </td>
+    <td>
+      <div>ad. No. 111, 2003; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 62</div>
+    </td>
+    <td>
+      <div>am. No. 96, 1999; No. 15, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 63</div>
+    </td>
+    <td>
+      <div>am. No. 96, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 63(5)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 63</div>
+    </td>
+    <td>
+      <div>am. No. 96, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 64</div>
+    </td>
+    <td>
+      <div>am. No. 96, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 64(5)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64</div>
+    </td>
+    <td>
+      <div>am. No. 48, 1998; No. 96, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 65(5)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 65</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 66(7)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 67(5)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 67</div>
+    </td>
+    <td>
+      <div>am. No. 96, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 67A(5)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 67A</div>
+    </td>
+    <td>
+      <div>ad. No. 15, 2002; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 68(5)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 68</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 8</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 72(4)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 72</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subhead. to s. 73(5)</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 73</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 9</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 75</div>
+    </td>
+    <td>
+      <div>am. No. 48, 1998; No. 128, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 76(2)</div>
+    </td>
+    <td>
+      <div>am. No. 48, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 76</div>
+    </td>
+    <td>
+      <div>am. No. 48, 1998; No. 128, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 77</div>
+    </td>
+    <td>
+      <div>am. No. 128, 1999; No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 11</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 85</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 12A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 12A</div>
+    </td>
+    <td>
+      <div>ad. No. 111, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 91A</div>
+    </td>
+    <td>
+      <div>ad. No. 111, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 91B, –91C</div>
+    </td>
+    <td>
+      <div>ad. No. 111, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 91D</div>
+    </td>
+    <td>
+      <div>ad. No. 111, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 91E–91G</div>
+    </td>
+    <td>
+      <div>ad. No. 111, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 13</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 95</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -4011,7 +3591,9 @@ _Taxation Laws Amendment Act (No. 3) 1997 (No. 147, 1997)_
 
                      (b)  the period of employment to which the deposit relates starts on or after 1 July 1997.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Superannuation Legislation Amendment Act (No. 2) 1999_ (No. 96, 1999)
 
@@ -4021,7 +3603,9 @@ _Superannuation Legislation Amendment Act (No. 2) 1999_ (No. 96, 1999)
 
 The amendments made by this Schedule apply in relation to requests given to the Commissioner of Taxation on or after the commencement of this Act.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Superannuation (Unclaimed Money and Lost Members) Consequential and Transitional Act 1999 (No. 128, 1999)_
 
@@ -4029,7 +3613,9 @@ _Superannuation (Unclaimed Money and Lost Members) Consequential and Transitiona
 
                    Items 8, 10, 12, 13, 14, 34, 35, 39, 44, 45, 46, 47, 48, 49 and 73 of Schedule 1 do not apply in respect of the half-year in which the New Act receives the Royal Assent.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Taxation Laws Amendment (Superannuation) Act (No. 1) 2002 (No. 15, 2002)_
 
@@ -4039,7 +3625,9 @@ _Taxation Laws Amendment (Superannuation) Act (No. 1) 2002 (No. 15, 2002)_
 
 The amendments made by this Schedule apply to payments made on or after 1 July 2002.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003 (No. 111, 2003)_
 
@@ -4049,7 +3637,9 @@ _Superannuation (Government Co-contribution for Low Income Earners) (Consequenti
 
 The amendments made by Part 1 of this Schedule apply in relation to contributions made to complying superannuation funds and RSAs on or after 1 July 2003.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
@@ -4073,23 +3663,5 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
-* * *
-
-_Superannuation Legislation Amendment (Simplification) Act 2007
- (No. 15, 2007)_
-
-## Schedule 1
-
-## 406  Application
-
-(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
-
-(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
-
-(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
-
-                     (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
-
-                     (b)  Divisions 301 to 307 of that Act.
 
  
