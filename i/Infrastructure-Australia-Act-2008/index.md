@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00321/Html/949e3706-1d34-4535-a85d-116fdadedb83_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00825/Html/333ce5f1-9f06-496c-b7f4-6d56791be0e0_files/image001.gif)
 
 # Infrastructure Australia Act 2008
 
 **Act No. 17<span style="color:black"> of 2008 as amended</span>**
 
-This compilation was prepared on 22 March 2012
+This compilation was prepared on 13 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -282,7 +282,7 @@ Note:          Section 18B of the _Acts Interpretation Act 1
 
                    A member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
-Note:          A member is eligible for reappointment: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          A member is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="10"></a>10  Acting appointments
 
@@ -292,15 +292,23 @@ Note:          A member is eligible for reappointment: see sec
 
                      (b)  during any period, or during all periods, when the Chair is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person to act as a member:
 
                      (a)  during a vacancy in the office of a member (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when a member is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          Section 33A of the _Acts Interpretation Act 1901_ has rules that apply to acting appointments.
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="11"></a>11  Remuneration
 
@@ -514,17 +522,27 @@ Note:          See also section 34C of the _Acts Interpretat
 
                    The Infrastructure Coordinator holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
 
-Note:          The Infrastructure Coordinator is eligible for reappointment: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          The Infrastructure Coordinator is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="31"></a>31  Acting Infrastructure Coordinator
 
-                   The Minister may appoint a person to act as the Infrastructure Coordinator:
+             (1)  The Minister may appoint a person to act as the Infrastructure Coordinator:
 
                      (a)  during a vacancy in the office of the Infrastructure Coordinator (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the Infrastructure Coordinator is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          Section 33A of the _Acts Interpretation Act 1901_ has rules that apply to acting appointments.
+
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="32"></a>32  Remuneration
 
@@ -550,7 +568,7 @@ Note:          For rules that apply to acting appointments, se
 
 ##### <a id="36"></a>36  Other terms and conditions
 
-                   The Infrastructure Coordinator holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Minister.
+                   The Infrastructure Coordinator holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Minister.
 
 ##### <a id="37"></a>37  Resignation
 
@@ -674,130 +692,68 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 711–718) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 711–718) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 9</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 10(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 10(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 30</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 31</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr></table>
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 711  Section 9 (note)
+
+Omit “subsection 33(4A)”, substitute “section 33AA”.
+
+## 712  At the end of subsection 10(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 713  Subsection 10(2) (note)
+
+Repeal the note, substitute:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 714  Subsection 10(3)
+
+Repeal the subsection.
+
+## 715  Section 30 (note)
+
+Omit “subsection 33(4A)”, substitute “section 33AA”.
+
+## 716  Subsection 31(1)
+
+Omit “(1)”.
+
+## 717  Subsection 31(1) (note)
+
+Repeal the note, substitute:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 718  Subsection 31(2)
+
+Repeal the subsection.
+
+As at 13 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
