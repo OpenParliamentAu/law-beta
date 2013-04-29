@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00674/Html/f223f18d-d91b-4dfa-a621-7e4d8b36e0ff_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00238/Html/32ae77f4-2781-4c26-be10-509a3e48b40f_files/image001.gif)
 
 # Protection of Movable Cultural Heritage Act 1986
 
 **Act No. 11 of 1986 as amended**
 
-This compilation was prepared on 24 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -20,125 +20,125 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                        1
 
-[4](#4).            Act to bind Crown
+[4](#4).            Act to bind Crown [_see_ Note 2]                                                           4
 
-[5](#5).            Application
+[5](#5).            Application                                                                                           4
 
-[6](#6).            Extension to Territories
+[6](#6).            Extension to Territories                                                                        4
 
-[6A](#6A).         Application of the _Criminal Code_
+[6A](#6A).         Application of the _Criminal Code_                                                        4
 
 **Part II—Control of Exports and Imports** 
 
     **Division 1—Exports**
 
-[7](#7).            Movable cultural heritage of Australia
+[7](#7).            Movable cultural heritage of Australia                                                 5
 
-[8](#8).            National Cultural Heritage Control List
+[8](#8).            National Cultural Heritage Control List                                                5
 
-[9](#9).            Unlawful exports
+[9](#9).            Unlawful exports                                                                                 6
 
-[10](#10).          Grant of permits in respect of particular objects
+[10](#10).          Grant of permits in respect of particular objects                                   8
 
-[10A](#10A).       Grant of general permits for certain institutions
+[10A](#10A).       Grant of general permits for certain institutions                                   9
 
-[11](#11).          Permits
+[11](#11).          Permits                                                                                                 9
 
-[12](#12).          Certificates of exemption
+[12](#12).          Certificates of exemption                                                                    10
 
-[13](#13).          Variation etc  of conditions and period of permit or certificate
+[13](#13).          Variation etc  of conditions and period of permit or certificate           10
 
-[13A](#13A).       Address for service of notices
+[13A](#13A).       Address for service of notices                                                            11
 
     **Division 2—Imports**
 
-[14](#14).          Unlawful imports
+[14](#14).          Unlawful imports                                                                               12
 
 **Part III—Administration**
 
-[15](#15).          National Cultural Heritage Committee
+[15](#15).          National Cultural Heritage Committee                                                14
 
-[16](#16).          Functions of Committee
+[16](#16).          Functions of Committee                                                                     14
 
-[17](#17).          Constitution of Committee
+[17](#17).          Constitution of Committee                                                                 14
 
-[18](#18).          Removal and resignation
+[18](#18).          Removal and resignation                                                                    15
 
-[19](#19).          Remuneration and allowances
+[19](#19).          Remuneration and allowances                                                            16
 
-[20](#20).          Disclosure of interests
+[20](#20).          Disclosure of interests                                                                        16
 
-[21](#21).          Meetings
+[21](#21).          Meetings                                                                                            17
 
-[21A](#21A).       Conduct of meetings
+[21A](#21A).       Conduct of meetings                                                                          17
 
-[21B](#21B).       Certain resolutions may be made without meetings
+[21B](#21B).       Certain resolutions may be made without meetings                            18
 
-[22](#22).          Register of expert examiners
+[22](#22).          Register of expert examiners                                                              18
 
-[23](#23).          Expert examiners
+[23](#23).          Expert examiners                                                                                18
 
-[24](#24).          Delegation
+[24](#24).          Delegation                                                                                          19
 
 **Part IV—National Cultural Heritage Account**
 
-[25](#25).          Establishment of National Cultural Heritage Account
+[25](#25).          Establishment of National Cultural Heritage Account                        20
 
-[25A](#25A).       Credits to Account
+[25A](#25A).       Credits to Account                                                                             20
 
-[25B](#25B).       Purpose of Account
+[25B](#25B).       Purpose of Account                                                                           20
 
-[26](#26).          Taxation
+[26](#26).          Taxation                                                                                             20
 
 **Part V—Enforcement of Act**
 
-[27](#27).          Interpretation
+[27](#27).          Interpretation                                                                                      21
 
-[28](#28).          Inspectors
+[28](#28).          Inspectors                                                                                           21
 
-[29](#29).          Identity cards
+[29](#29).          Identity cards                                                                                      22
 
-[30](#30).          Search warrants
+[30](#30).          Search warrants                                                                                  22
 
-[31](#31).          Search warrants granted by telephone
+[31](#31).          Search warrants granted by telephone                                                24
 
-[32](#32).          Searches in emergencies
+[32](#32).          Searches in emergencies                                                                     25
 
-[33](#33).          Powers of arrest
+[33](#33).          Powers of arrest                                                                                 26
 
-[34](#34).          Seizure of protected objects
+[34](#34).          Seizure of protected objects                                                                27
 
-[35](#35).          Power of retention
+[35](#35).          Power of retention                                                                              27
 
-[36](#36).          Notice of seizure
+[36](#36).          Notice of seizure                                                                                27
 
-[37](#37).          Court proceedings
+[37](#37).          Court proceedings                                                                              29
 
-[38](#38).          Result of forfeiture
+[38](#38).          Result of forfeiture                                                                             30
 
-[39](#39).          Production of permit
+[39](#39).          Production of permit                                                                          30
 
-[40](#40).          Proof of authority
+[40](#40).          Proof of authority                                                                               30
 
-[41](#41).          Foreign country to request return of objects
+[41](#41).          Foreign country to request return of objects                                       31
 
-[43](#43).          Assistance of inspectors
+[43](#43).          Assistance of inspectors                                                                     31
 
-[46](#46).          Indictable offences
+[46](#46).          Indictable offences                                                                             31
 
 **Part VI—Miscellaneous**
 
-[47](#47).          Annual report
+[47](#47).          Annual report                                                                                     33
 
-[48](#48).          Administrative Appeals Tribunal
+[48](#48).          Administrative Appeals Tribunal                                                       33
 
-[49](#49).          Regulations
+[49](#49).          Regulations                                                                                        33
 
 **Notes** 
 
@@ -252,7 +252,7 @@ being an offence that relates to an offence against that provision of this Act, 
 
              (6)  The provisions of this Act relating to the exportation or importation of an object apply notwithstanding that the object may have been brought into Australia from a country for the purpose of transportation to another country or as part of the stores or equipment of a vessel or aircraft.
 
-##### <a id="4"></a>4  Act to bind Crown
+##### <a id="4"></a>4  Act to bind Crown [_see_ Note 2]
 
                    This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
 
@@ -1133,7 +1133,7 @@ of Assent</div>
     <div>14 Dec 1988</div>
   </td>
   <td>
-    <div>Ss. 4, 5, 9–11, 21(2) and 22(1): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S402) 
+    <div>Ss. 4, 5, 9–11, 21(2) and 22(1): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S402) 
 Ss. 12, 21(3) and 22(2): 30 June 1989 ( <i>see Gazette</i>1989, No. S216) 
 Remainder: Royal Assent</div>
   </td>
@@ -1254,8 +1254,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td colspan="2">
-    <div>Ss. 1–3, Schedule 1 (items 1, 4, 6, 7, 
-9–11, 32): Royal Assent 
+    <div>Ss. 1–3, Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -1311,23 +1310,6 @@ Remainder: 24 May 2001</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 937, 938) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr height="0">
@@ -1682,24 +1664,6 @@ _(e)_     The _Protection of Movable Cultural Heritage Act 1986_ was ame
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 937  Subsection 3(1) (definition of _continental shelf_)
-
-Repeal the definition.
-
-## 938  Subsection 3(1) (definition of _territorial sea_)
-
-Repeal the definition.
-
-As at 24 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1778,22 +1742,6 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
 ## Table B
 
