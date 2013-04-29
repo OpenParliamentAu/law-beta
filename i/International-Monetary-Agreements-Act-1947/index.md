@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00828/Html/78a83983-eef7-4a94-9b13-35a83f83b168_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00163/Html/eb5498f0-a5fb-475f-8de9-4148ab8a9387_files/image001.gif)
 
 # International Monetary Agreements Act 1947
 
 **Act No. 5 of 1947 as amended**
 
-This compilation was prepared on 17 November 2012
- taking into account amendments up to Act No. 139 of 2012
+This compilation was prepared on 30 March 2011
+ taking into account amendments up to Act No. 133 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -65,7 +66,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 **Schedule 3—Resolution of the Board of Governors of the International Bank for Reconstruction and Development** 
 
-**Schedule 4—New Arrangements to Borrow** 
+**Schedule 4—Decision No. 11428‑(97/6), dated 27 January 1997, of the Executive Board of the Fund, as amended by Decision No  14577‑(10/35), dated 12 April 2010, of the Executive Board of the Fund** 
 
 **Notes** 
 
@@ -81,7 +82,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ##### <a id="3"></a>3  Interpretation
 
-                   In this Act, unless the contrary intention appears:
+             (1)  In this Act, unless the contrary intention appears:
 
                     <a name="asian-develop-bank"></a>**_Asian Development Bank_** means the Bank referred to in the _Asian Development Bank Act 1966_.
 
@@ -93,13 +94,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="fund-agreem"></a>**_Fund Agreement_** means the Articles of Agreement of the International Monetary Fund set out in Schedule 1, as amended by any amendment of the Articles of Agreement that has entered into force for Australia.
 
-                    <a name="new-arrang-borrow"></a>**_New Arrangements to Borrow_** means Decision No. 11428‑(97/6), dated 27 January 1997, of the Executive Board of the Fund, as amended and renewed by the following decisions of the Executive Board of the Fund:
-
-                     (a)  Decision No. 14577‑(10/35), dated 12 April 2010;
-
-                     (b)  Decision No. 15014‑(11/110), dated 16 November 2011.
-
-A copy of Decision No. 11428‑(97/6) as so amended is set out in Schedule 4.
+                    <a name="new-arrang-borrow"></a>**_New Arrangements to Borrow_** means Decision No. 11428‑(97/6), dated 27 January 1997, of the Executive Board of the Fund, a copy of which, as amended by Decision No. 14577‑(10/35), dated 12 April 2010, of the Executive Board of the Fund, is set out in Schedule 4.
 
                     <a name="reserv-bank"></a>**_Reserve Bank_** means the Reserve Bank of Australia.
 
@@ -121,7 +116,7 @@ A copy of Decision No. 11428‑(97/6) as so amended is set out in Schedule 4
 
                      (e)  the International Centre for Settlement of Investment Disputes (referred to in the _International Centre for Settlement of Investment Disputes (Privileges and Immunities) Regulations 1991_).
 
-##### <a id="4"></a>4  Membership of Australia of the Fund and of the Bank
+##### <a id="4"></a>4  Membership of Australia of the Fund and of the Bank
 
                    The membership of Australia of the Fund and of the Bank is approved.
 
@@ -3609,6 +3604,8 @@ SCHEDULE B
 
        6.  If, after the second ballot, seven persons have not been elected, further ballots shall be held on the same principles until seven persons have been elected, provided that after six persons are elected, the seventh may be elected by a simple majority of the remaining votes and shall be deemed to have been elected by all such votes.
 
+ 
+
 # Schedule 3—Resolution of the Board of Governors of the International Bank for Reconstruction and Development
 
 _Section 3_
@@ -3629,9 +3626,11 @@ Resolution No. 221
 
      (b)  The provisions of Article III, Sections 4 and 5(c) and of Article IV, Section 3 shall not apply to loans, participations and guarantees authorized by this Section.”
 
-# Schedule 4—New Arrangements to Borrow
+ 
 
-_Note:       See the definition of New Arrangements to Borrow in section 3._
+# Schedule 4—Decision No. 11428‑(97/6), dated 27 January 1997, of the Executive Board of the Fund, as amended by Decision No. 14577‑(10/35), dated 12 April 2010, of the Executive Board of the Fund
+
+_Note:       See subsection 3(1)._
 
 **New Arrangements to Borrow**
 
@@ -3747,7 +3746,7 @@ The Fund’s policies and practices under Article V, Sections 3 and 7 of the A
 
 Paragraph 11\. _Repayment by the Fund_
 
-(a)        Subject to the other provisions of this paragraph 11, the Fund, ten years after a transfer by a participant in response to a call under this decision, shall repay the participant an amount equivalent to the transfer calculated in accordance with paragraph 12\. If a drawer for whose purchase resources were made available under this decision repurchases on a date earlier than ten years after its purchase, the Fund shall repay participants an equivalent amount during the quarterly period in which the repurchase is made in accordance with paragraph 11(d). Repayment under this paragraph 11(a) or under paragraph 11(c) shall be, as determined by the Fund, in the currency borrowed whenever feasible, in the currency of the participant, in special drawing rights in an amount that does not increase the participant’s holdings of special drawing rights above the limit under Article XIX, Section 4 of the Articles unless the participant agrees to accept special drawing rights above that limit in such repayment, in freely usable currencies, or, with the agreement of the participant, in other currencies that are actually convertible.
+(a)        Subject to the other provisions of this paragraph 11, the Fund, five years after a transfer by a participant in response to a call under this decision, shall repay the participant an amount equivalent to the transfer calculated in accordance with paragraph 12\. If a drawer for whose purchase resources were made available under this decision repurchases on a date earlier than five years after its purchase, the Fund shall repay participants an equivalent amount during the quarterly period in which the repurchase is made in accordance with paragraph 11(d). Repayment under this paragraph 11(a) or under paragraph 11(c) shall be, as determined by the Fund, in the currency borrowed whenever feasible, in the currency of the participant, in special drawing rights in an amount that does not increase the participant’s holdings of special drawing rights above the limit under Article XIX, Section 4 of the Articles unless the participant agrees to accept special drawing rights above that limit in such repayment, in freely usable currencies, or, with the agreement of the participant, in other currencies that are actually convertible.
 
 (b)        Before the date prescribed in paragraph 1l(a), the Fund, after consultation with participants, may make repayment in part or in full to one or several participants in accordance with paragraph 11(d). The Fund shall have the option to make repayment under this paragraph 11(b) in the participant’s currency, in the currency borrowed, in special drawing rights in an amount that does not increase the participant’s holdings of special drawing rights above the limit under Article XIX, Section 4 of the Articles unless the participant agrees to accept special drawing rights above that limit in such repayment, in freely usable currencies, or, with the agreement of the participant, in other currencies that are actually convertible.
 
@@ -4539,7 +4538,7 @@ Paragraph 3\. _Interest._
 
 Paragraph 4\. _Maturity; Repayment by the Fund._
 
-(a)        Notes shall have a maturity of ten years, provided that a Note issued pursuant to paragraph 13(k) of the NAB Decision shall have the maturity of the loan claim for which it was exchanged. Repayment of the Note principal to a holder is made in accordance with paragraph 11 of the NAB Decision.
+(a)        Notes have a maturity of five years, provided that a Note issued pursuant to paragraph 13(k) of the NAB Decision shall have the maturity of the loan claim for which it was exchanged. Repayment of the Note principal to a holder is made in accordance with paragraph 11 of the NAB Decision.
 
 (b)        Unless otherwise agreed between the Fund and a holder that is either a participating institution or the central bank or other fiscal agency designated by a member for purposes of Article V, Section 1 of the Articles, the Fund shall be deemed to have discharged its obligations to such holder to make repayment in special drawing rights in accordance with paragraph 11 of the NAB Decision or to pay interest in special drawing rights in accordance with paragraph 3 of these General Terms and Conditions, if the Fund transfers an equivalent amount in special drawing rights to the account of the member in which the institution is established.
 
@@ -4623,11 +4622,13 @@ The Fund shall pay interest on this Note at a rate equal to the combined market 
 
 \[Signatures]
 
+ 
+
 # Notes to the _International Monetary Agreements Act 1947_
 
 ### Note 1
 
-The _International Monetary Agreements Act 1947_ as shown in this compilation comprises Act No. 5, 1947 amended as indicated in the Tables below.
+The _International Monetary Agreements Act 1947_ as shown in this compilation comprises Act No. 5, 1947 amended as indicated in the Tables below.
 
 For Acts relating to matters connected with the Agreements referred to in the _International Monetary Agreements Act 1947_ see the following: _International Monetary Agreements Act 1959_, _International Monetary Agreements Act 1960_,_International Monetary Agreements Act 1965_, _International Monetary Agreements Act 1970_ and the _International Monetary Agreements Act 1974_.
 
@@ -4728,7 +4729,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1–5 and 10: Royal Assent 
-Remainder: 4 Sept 1969 ( <i>see Gazette</i>1969, p. 5199)</div>
+Remainder: 4 Sept 1969 ( <i>see Gazette</i>1969, p. 5199)</div>
   </td>
   <td>
     <div>Ss. 3(2), 4 and 5</div>
@@ -4779,7 +4780,7 @@ Remainder: 4 Sept 1969 ( <i>see Gazette</i>1969, p. 5199)</div>
     <div>6 Dec 1991</div>
   </td>
   <td>
-    <div>Part 3 (s. 8): 16 Dec 1992 ( <i>see Gazette</i>1993, No. GN50) 
+    <div>Part 3 (s. 8): 16 Dec 1992 ( <i>see Gazette</i>1993, No. GN50) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4917,7 +4918,7 @@ Remainder: Royal Assent</div>
     <div>24 June 2010</div>
   </td>
   <td>
-    <div>Schedule 1: 11 Mar 2011 ( <i>see Gazette</i>2011, No. S43) 
+    <div>Schedule 1: 11 Mar 2011 ( <i>see Gazette</i>2011, No. S43) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4940,25 +4941,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Agreements Amendment (Loans) Act 2012</div>
-  </td>
-  <td>
-    <div>139, 2012</div>
-  </td>
-  <td>
-    <div>25 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–7): 17 Nov 2012 
-Schedule 1 (items 8–11): \[ <i>see</i>Note 2] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _International Monetary Agreements Act 1963_ was repealed by section 3 of the _International Monetary Agreements Act 1968_ without a date for its commencement having been fixed. Section 3 commenced on 9 December 1968.
@@ -4967,8 +4949,8 @@ _(a)_     The _International Monetary Agreements Act 1963_ was repealed 
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -5015,7 +4997,7 @@ _(a)_     The _International Monetary Agreements Act 1963_ was repealed 
     <div></div>
   </td>
   <td>
-    <div>am. No. 97, 1978; No. 127, 1997; Nos. 57 and 82, 2009; No. 58, 2010; No. 139, 2012</div>
+    <div>am. No. 97, 1978; No. 127, 1997; Nos. 57 and 82, 2009; No. 58, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5341,22 +5323,6 @@ Schedule</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Schedule 4</div>
-  </td>
-  <td>
-    <div>rs. No. 139, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to Schedule 4 heading</div>
-  </td>
-  <td>
-    <div>rs. No. 139, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Schedule 4</div>
   </td>
   <td>
@@ -5370,572 +5336,7 @@ Schedule</div>
   <td>
     <div>rs. No. 58, 2010</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 139, 2012</div>
-  </td>
 </tr></table>
-
-### Note 2
-
-_International Monetary Agreements Amendment (Loans) Act 2012 
- (No. 139, 2012)_
-
-The following amendments commence on the start of the day the changes in credit arrangements made by paragraph 1 of Decision No. 15073‑(12/1), dated 21 December 2011, of the Executive Board of the International Monetary Fund become effective for Australia. However, the amendments may not commence, _see_ subsection 2(1) (item 3):
-
-## Schedule 1
-
-## 8  Section 3 (paragraph (b) of the definition of _New Arrangements to Borrow_)
-
-Omit “2011.”, substitute “2011;”.
-
-## 9  Section 3 (after paragraph (b) of the definition of _New Arrangements to Borrow_)
-
-Insert:
-
-                     (c)  Decision No. 15073‑(12/1), dated 21 December 2011.
-
-## 10  Schedule 4 (at the end of paragraph 11(b) of New Arrangements to Borrow)
-
-Add “At the request of a participant, the Fund shall repay, in accordance with this subparagraph (b), any claims resulting from calls under the participant’s credit arrangement that exceed the amount of the participant’s credit arrangement as changed in accordance with Executive Board Decision No. 15073 adopted December 21, 2011, provided that no such repayment shall be made until the quota increase for the relevant member under the Fourteenth General Review of Quotas has become effective.”.
-
-## 11  Schedule 4 (Annex I to New Arrangements to Borrow)
-
-Repeal the Annex, substitute:
-
-**Annex I**
-
-<table>
-<colgroup>
-  <col width="NaN%">
-  <col width="NaN%">
-  <col width="NaN%">
-</colgroup>
-
-<tr>
-  <td colspan="3">
-    <div><b>Participants and Amounts of Credit Arrangements</b> 
-(in Millions of SDRs) <sup>1</sup></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div><b>Current</b></div>
-  </td>
-  <td>
-    <div><b>New</b> <sup>2</sup></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Current Participants</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australia</div>
-  </td>
-  <td>
-    <div>4,370.41</div>
-  </td>
-  <td>
-    <div>2,220.45</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Austria</div>
-  </td>
-  <td>
-    <div>3,579.24</div>
-  </td>
-  <td>
-    <div>1,818.49</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Banco Central de Chile</div>
-  </td>
-  <td>
-    <div>1,360.00</div>
-  </td>
-  <td>
-    <div>690.97</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Banco de Portugal</div>
-  </td>
-  <td>
-    <div>1,542.13</div>
-  </td>
-  <td>
-    <div>783.50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Bank of Israel</div>
-  </td>
-  <td>
-    <div>500.00</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Belgium</div>
-  </td>
-  <td>
-    <div>7,861.85</div>
-  </td>
-  <td>
-    <div>3,994.33</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Brazil</div>
-  </td>
-  <td>
-    <div>8,740.82</div>
-  </td>
-  <td>
-    <div>4,440.91</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Canada</div>
-  </td>
-  <td>
-    <div>7,624.43</div>
-  </td>
-  <td>
-    <div>3,873.71</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>China</div>
-  </td>
-  <td>
-    <div>31,217.22</div>
-  </td>
-  <td>
-    <div>15,860.38</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cyprus</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Danmarks Nationalbank</div>
-  </td>
-  <td>
-    <div>3,207.78</div>
-  </td>
-  <td>
-    <div>1,629.76</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Deutsche Bundesbank</div>
-  </td>
-  <td>
-    <div>25,370.81</div>
-  </td>
-  <td>
-    <div>12,890.02</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Finland</div>
-  </td>
-  <td>
-    <div>2,231.76</div>
-  </td>
-  <td>
-    <div>1,133.88</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>France</div>
-  </td>
-  <td>
-    <div>18,657.38</div>
-  </td>
-  <td>
-    <div>9,479.16</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Hong Kong Monetary Authority</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>India</div>
-  </td>
-  <td>
-    <div>8,740.82</div>
-  </td>
-  <td>
-    <div>4,440.91</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Italy</div>
-  </td>
-  <td>
-    <div>13,578.03</div>
-  </td>
-  <td>
-    <div>6,898.52</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Japan</div>
-  </td>
-  <td>
-    <div>65,953.20</div>
-  </td>
-  <td>
-    <div>33,508.50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Korea</div>
-  </td>
-  <td>
-    <div>6,583.44</div>
-  </td>
-  <td>
-    <div>3,344.82</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Kuwait</div>
-  </td>
-  <td>
-    <div>341.29</div>
-  </td>
-  <td>
-    <div>341.29</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Luxembourg</div>
-  </td>
-  <td>
-    <div>970.59</div>
-  </td>
-  <td>
-    <div>493.12</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Malaysia</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Mexico</div>
-  </td>
-  <td>
-    <div>4,994.76</div>
-  </td>
-  <td>
-    <div>2,537.66</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Bank of Poland</div>
-  </td>
-  <td>
-    <div>2,530.00</div>
-  </td>
-  <td>
-    <div>1,285.40</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Netherlands</div>
-  </td>
-  <td>
-    <div>9,043.72</div>
-  </td>
-  <td>
-    <div>4,594.80</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>New Zealand</div>
-  </td>
-  <td>
-    <div>624.34</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Norway</div>
-  </td>
-  <td>
-    <div>3,870.94</div>
-  </td>
-  <td>
-    <div>1,966.69</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Russian Federation</div>
-  </td>
-  <td>
-    <div>8,740.82</div>
-  </td>
-  <td>
-    <div>4,440.91</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Saudi Arabia</div>
-  </td>
-  <td>
-    <div>11,126.03</div>
-  </td>
-  <td>
-    <div>5,652.74</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Singapore</div>
-  </td>
-  <td>
-    <div>1,276.52</div>
-  </td>
-  <td>
-    <div>648.55</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>South Africa</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Spain</div>
-  </td>
-  <td>
-    <div>6,702.18</div>
-  </td>
-  <td>
-    <div>3,405.14</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sveriges Riksbank</div>
-  </td>
-  <td>
-    <div>4,439.74</div>
-  </td>
-  <td>
-    <div>2,255.68</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Swiss National Bank</div>
-  </td>
-  <td>
-    <div>10,905.42</div>
-  </td>
-  <td>
-    <div>5,540.66</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Thailand</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>United Kingdom</div>
-  </td>
-  <td>
-    <div>18,657.38</div>
-  </td>
-  <td>
-    <div>9,479.16</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>United States</div>
-  </td>
-  <td>
-    <div>69,074.27</div>
-  </td>
-  <td>
-    <div>28,202.47</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="3">
-    <div></div>
-    <div><b>Prospective Participants</b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Greece <sup>3</sup></div>
-  </td>
-  <td>
-    <div>1,654.51</div>
-  </td>
-  <td>
-    <div>840.60</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ireland <sup>3</sup></div>
-  </td>
-  <td>
-    <div>1,885.52</div>
-  </td>
-  <td>
-    <div>957.97</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Philippines <sup>4</sup></div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Total</div>
-  </td>
-  <td>
-    <div>369,997.36</div>
-  </td>
-  <td>
-    <div>182,371.14</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td colspan="3">
-    <div>1/ Credit arrangements are subject to a minimum of SDR 340 million.</div>
-    <div> </div>
-    <div>2/ If requested by a participant, the Fund may confirm the new credit arrangement to the participant effective the morning of the business day of the scheduled payment of the quota increase under the Fourteenth General Review of Quotas, on the condition that the quota payment of the relevant member is received later that day. The rollback would be reversed if the quota payment is not received.</div>
-    <div> </div>
-    <div>3/ Greece and Ireland may continue to adhere to the NAB with the credit arrangements approved in April 2010 (for purposes of this table “current amount”) until the effectiveness of their respective quota increases under the Fourteenth General Review, after which they may adhere with the proposed new amount set forth in this table (“new amount”). If these members adhere with their current amount, the credit arrangements would be changed to the new amount on the day their respective quota increases under the Fourteenth General Review of Quotas become effective.</div>
-    <div> </div>
-    <div>4/ The Philippine authorities have requested a name change in Annex I of the NAB Decision from “Philippines” to “Bangko Sentral ng Pilipinas”. Following Executive Board approval of the change and consent of NAB participants (on a non‑objection basis), Annex I of the NAB Decision would be revised accordingly.</div>
-  </td>
-</tr></table>
-
-As at 17 November 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
