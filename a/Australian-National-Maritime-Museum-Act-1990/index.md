@@ -1,31 +1,159 @@
-# ![](http://www.comlaw.gov.au/Details/C2004C02203/Html/AustNatMartMus90_image001.gif)
+# ![](http://www.comlaw.gov.au/Details/C2004C02202/Html/AustNatMaritMus_image001.gif)
 
 # Australian National Maritime Museum Act 1990
 
-**Act No. 90 of 1990 as amended**
+Act No. 90 of 1990 as amended
 
-This compilation was prepared on 22 March 2000 
- taking into account amendments up to Act No. 156 of 1999
+Consolidated as in force on 5 January 1998
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+(includes amendements up to Act No. 152 of 1997)
 
-Prepared by the Office of Legislative Drafting,
+Prepared by the Office of Legislative Drafting, 
  Attorney-General’s Department, Canberra
 
 # Contents
 
+**Part 1—Preliminary**
+
+[1](#1).               Short title [_see_ Note 1]                                                                           
+
+[2](#2).               Commencement [_see_ Note 1]                                                                 
+
+[3](#3).               Interpretation                                                                                         
+
+[4](#4).               Extension to external Territories                                                            
+
+**Part 2—The Australian National Maritime Museum**
+
+[5](#5).               Establishment of Museum                                                                     
+
+[6](#6).               Functions of Museum                                                                            
+
+[7](#7).               Powers of Museum                                                                                
+
+[8](#8).               Land etc  for Museum                                                                            
+
+[9](#9).               National maritime collection                                                                  
+
+[10](#10).             Disposal of material in national maritime collection                              
+
+**Part 3—The Council of the Museum** 
+
+    **Division 1—Establishment, functions etc. of Council**
+
+[11](#11).             Establishment of Council                                                                       
+
+[12](#12).             Functions of Council                                                                              
+
+[13](#13).             Council may give directions to Director                                                
+
+[14](#14).             Directions to Council                                                                             
+
+[15](#15).             Committees of Council                                                                          
+
+[16](#16).             Delegation by Council                                                                          
+
+    **Division 2—Membership and meetings of Council**
+
+[17](#17).             Membership of Council                                                                       
+
+[18](#18).             Acting members                                                                                   
+
+[19](#19).             Leave of absence                                                                                  
+
+[20](#20).             Resignation                                                                                           
+
+[21](#21).             Termination of appointment                                                                
+
+[23](#23).             Meetings of Council                                                                             
+
+[24](#24).             Remuneration and allowances                                                              
+
+    **Division 3—Strategic plans and annual operational plans**
+
+[25](#25).             Strategic plans                                                                                      
+
+[26](#26).             Approval and commencement of strategic plans                                 
+
+[27](#27).             Variation of strategic plans                                                                  
+
+[28](#28).             Annual operational plans                                                                     
+
+[29](#29).             Compliance with plans                                                                        
+
+**Part 4—The Director of the Museum**
+
+[30](#30).             Director                                                                                                
+
+[31](#31).             Duties of Director                                                                                
+
+[32](#32).             Director not to engage in other work                                                   
+
+[33](#33).             Remuneration and allowances                                                              
+
+[34](#34).             Leave of absence                                                                                  
+
+[35](#35).             Resignation                                                                                           
+
+[36](#36).             Termination of appointment                                                                
+
+[37](#37).             Disclosure of interests                                                                         
+
+[38](#38).             Acting Director                                                                                    
+
+[39](#39).             Delegation by Director                                                                         
+
+**Part 5—Staff and Consultants**
+
+[40](#40).             Staff                                                                                                      
+
+[41](#41).             Arrangements relating to staff                                                              
+
+[42](#42).             Engagement of consultants                                                                   
+
+**Part 6—Finance**
+
+[43](#43).             Appropriation of money                                                                     
+
+[44](#44).             Australian National Maritime Museum Fund                                     
+
+[45](#45).             Application of money                                                                          
+
+[47](#47).             Contracts                                                                                              
+
+[48](#48).             Extra matters to be included in annual report                                      
+
+[49](#49).             Exemption from taxation                                                                      
+
+**Part 7—Miscellaneous**
+
+[50](#50).             Trust money etc                                                                                   
+
+[51](#51).             Limits on charges                                                                                 
+
+[52](#52).             Operation of certain other laws not affected                                       
+
+[53](#53).             Supply of liquor                                                                                   
+
+[54](#54).             Regulations                                                                                           
+
+#  
+
 ## An Act to establish the Australian National Maritime Museum
+
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
-                   This Act may be cited as the _Australian National Maritime Museum Act 1990_.
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
+This Act may be cited as the _Australian National Maritime Museum Act 1990_.
 
-                   This Act commences:
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+
+This Act commences:
 
                      (a)  if this Act receives the Royal Assent before 1 July 1989—on 1 July 1989; or
 
@@ -85,9 +213,11 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="4"></a>4  Extension to external Territories
 
-                   This Act extends to all the external Territories.
+This Act extends to all the external Territories.
 
 ## Part 2—The Australian National Maritime Museum
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="5"></a>5  Establishment of Museum
 
@@ -95,7 +225,7 @@ Prepared by the Office of Legislative Drafting,
 
              (2)  The Museum:
 
-                     (a)  is a body corporate;
+                     (a)  is a body corporate;
 
                      (b)  shall have a seal; and
 
@@ -109,7 +239,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="6"></a>6  Functions of Museum
 
-                   The functions of the Museum are:
+The functions of the Museum are:
 
                      (a)  to exhibit, or to make available for exhibition by others, in Australia or elsewhere, material included in the national maritime collection or maritime historical material that is otherwise in the possession of the Museum;
 
@@ -253,11 +383,11 @@ the Museum may dispose of the material accordingly.
 
 ##### <a id="11"></a>11  Establishment of Council
 
-                   There is established by this section a council by the name of the Council of the Australian National Maritime Museum.
+There is established by this section a council by the name of the Council of the Australian National Maritime Museum.
 
 ##### <a id="12"></a>12  Functions of Council
 
-                   The functions of the Council are to ensure the proper and efficient performance of the functions of the Museum and, subject to section 14, to determine the policy of the Museum with respect to any matter.
+The functions of the Council are to ensure the proper and efficient performance of the functions of the Museum and, subject to section 14, to determine the policy of the Museum with respect to any matter.
 
 ##### <a id="13"></a>13  Council may give directions to Director
 
@@ -353,7 +483,7 @@ the Museum may dispose of the material accordingly.
 
 ##### <a id="19"></a>19  Leave of absence
 
-                   The Council may, in accordance with guidelines approved by the Minister, grant to an appointed member, or the naval member, leave of absence from a meeting of the Council upon such terms and conditions as to remuneration or otherwise as the Council determines.
+The Council may, in accordance with guidelines approved by the Minister, grant to an appointed member, or the naval member, leave of absence from a meeting of the Council upon such terms and conditions as to remuneration or otherwise as the Council determines.
 
 ##### <a id="20"></a>20  Resignation
 
@@ -371,7 +501,7 @@ the Museum may dispose of the material accordingly.
 
                      (b)  is absent, except on leave granted by the Council in accordance with section 19, from 3 consecutive meetings of the Council otherwise than on business of the Council undertaken with the approval of the Council; or
 
-                     (c)  contravenes section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_ without reasonable excuse;
+                     (c)  contravenes section 21 of the _Commonwealth Authorities and Companies Act 1997_ without reasonable excuse;
 
 the Governor-General shall terminate the appointment of that member.
 
@@ -391,7 +521,7 @@ the Governor-General shall terminate the appointment of that member.
 
              (5)  At a meeting of the Council, a quorum is constituted by a majority of the members.
 
-             (6)  Where, because of section 27J of the _Commonwealth Authorities and Companies Act 1997_, a member is not present at a meeting of the Council during a deliberation of the Council with respect to a matter, but there would be a quorum if that member were present, the remaining members present constitute a quorum for the purpose of any deliberation or decision of the Council at the meeting with respect to that matter.
+             (6)  Where, because of subsection 21(3) of the _Commonwealth Authorities and Companies Act 1997_, a member is not present at a meeting of the Council during a deliberation of the Council with respect to a matter, but there would be a quorum if that member were present, the remaining members present constitute a quorum for the purpose of any deliberation or decision of the Council at the meeting with respect to that matter.
 
              (7)  Subject to subsection (8), all questions arising at a meeting of the Council shall be decided by a majority of the votes of the members present and voting, including the member presiding.
 
@@ -441,7 +571,7 @@ the Governor-General shall terminate the appointment of that member.
 
 ##### <a id="26"></a>26  Approval and commencement of strategic plans
 
-                   A strategic plan prepared under section 25:
+A strategic plan prepared under section 25:
 
                      (a)  shall be submitted to the Minister for approval not less than 3 months, or such lesser period as the Minister, in special circumstances, allows, before the day of commencement of the period to which the strategic plan relates; and
 
@@ -487,9 +617,11 @@ during the year in giving effect to the strategic plan that relates, or the inte
 
 ##### <a id="29"></a>29  Compliance with plans
 
-                   To the extent that it is practicable to do so and subject to this Act, the Museum shall perform its functions and exercise its powers in a manner that is consistent with, and is designed to give effect to, any strategic plan and any operational plans that are in force.
+To the extent that it is practicable to do so and subject to this Act, the Museum shall perform its functions and exercise its powers in a manner that is consistent with, and is designed to give effect to, any strategic plan and any operational plans that are in force.
 
 ## Part 4—The Director of the Museum
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="30"></a>30  Director
 
@@ -509,7 +641,7 @@ during the year in giving effect to the strategic plan that relates, or the inte
 
 ##### <a id="32"></a>32  Director not to engage in other work
 
-                   The Director shall not engage in paid employment outside the duties of his or her office except with the approval of the Minister.
+The Director shall not engage in paid employment outside the duties of his or her office except with the approval of the Minister.
 
 ##### <a id="33"></a>33  Remuneration and allowances
 
@@ -521,7 +653,7 @@ during the year in giving effect to the strategic plan that relates, or the inte
 
 ##### <a id="34"></a>34  Leave of absence
 
-             (1)  The Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  Subject to section 87E of the _Public Service Act 1922_, the Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
              (2)  Subject to subsection (3), the Minister may grant leave of absence to the Director, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
@@ -529,7 +661,7 @@ during the year in giving effect to the strategic plan that relates, or the inte
 
 ##### <a id="35"></a>35  Resignation
 
-                   The Director may resign the office of Director by writing signed by the Director and delivered to the Governor-General.
+The Director may resign the office of Director by writing signed by the Director and delivered to the Governor-General.
 
 ##### <a id="36"></a>36  Termination of appointment
 
@@ -545,13 +677,13 @@ during the year in giving effect to the strategic plan that relates, or the inte
 
                      (d)  engages in paid employment outside the duties of his or her office without the approval of the Minister; or
 
-                     (e)  contravenes section 37 of this Act, or section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_, without reasonable excuse;
+                     (e)  contravenes section 37 of this Act, or section 21 of the _Commonwealth Authorities and Companies Act 1997_, without reasonable excuse;
 
 the Governor-General shall terminate the appointment of the Director.
 
 ##### <a id="37"></a>37  Disclosure of interests
 
-                   The Director shall give a written notice to the Minister of all direct or indirect pecuniary interests that the Director has or acquires in any business or in any body corporate carrying on any business.
+The Director shall give a written notice to the Minister of all direct or indirect pecuniary interests that the Director has or acquires in any business or in any body corporate carrying on any business.
 
 ##### <a id="38"></a>38  Acting Director
 
@@ -575,23 +707,21 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="39"></a>39  Delegation by Director
 
-                   The Director may, with the approval of the Council, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Director, delegate to a member of the staff of the Museum all or any of the Director’s powers under this Act.
+The Director may, with the approval of the Council, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Director, delegate to a member of the staff of the Museum all or any of the Director’s powers under this Act.
 
 ## Part 5—Staff and Consultants
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="40"></a>40  Staff
 
-             (1)  Subject to section 41, the staff of the Museum shall be persons engaged under the _Public Service Act 1999_.
+             (1)  Subject to section 41, the staff of the Museum shall be persons appointed or employed under the _Public Service Act 1922_.
 
-             (2)  For the purposes of the _Public Service Act 1999_:
-
-                     (a)  the Director and the APS employees assisting the Director together constitute a Statutory Agency; and
-
-                     (b)  the Director is the Head of that Statutory Agency.
+             (2)  The Director has all the powers of, or exercisable by, a Secretary of a Department of the Australian Public Service under the _Public Service Act 1922_, so far as those powers relate to the branch of the Australian Public Service comprising the staff referred to in subsection (1), as if that branch were a separate Department of the Australian Public Service.
 
 ##### <a id="41"></a>41  Arrangements relating to staff
 
-             (1)  The Director may, on behalf of the Museum, arrange with an Agency Head (within the meaning of the _Public Service Act 1999_), or with a body established for a public purpose by or under a law of the Commonwealth, for the services of officers or employees of the Agency or body to be made available to the Museum.
+             (1)  The Director may, on behalf of the Museum, arrange with the Secretary of a Department of the Australian Public Service, or with a body established for a public purpose by or under a law of the Commonwealth, for the services of officers or employees of the Department or body to be made available to the Museum.
 
              (2)  The Director may, on behalf of the Museum, enter into an arrangement with the appropriate authority of a State or Territory for the services of officers or employees of the Public Service of the State or Territory, or of a body established for a public purpose by or under a law of the State or Territory, to be made available to the Museum.
 
@@ -602,6 +732,8 @@ but a person appointed to act during a vacancy shall not continue so to act for 
              (2)  The terms and conditions of the engagement of a person under subsection (1) are such as are determined by the Director.
 
 ## Part 6—Finance
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="43"></a>43  Appropriation of money
 
@@ -663,6 +795,8 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ## Part 7—Miscellaneous
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="50"></a>50  Trust money etc.
 
              (1)  The Museum shall ensure that any money received or held by the Museum on trust is paid into an account maintained under subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_ that does not contain any money of the Museum not held on trust.
@@ -681,11 +815,11 @@ but not otherwise.
 
 ##### <a id="51"></a>51  Limits on charges
 
-                   The amount or rate of a charge fixed under this Act shall not be such as to amount to taxation.
+The amount or rate of a charge fixed under this Act shall not be such as to amount to taxation.
 
 ##### <a id="52"></a>52  Operation of certain other laws not affected
 
-                   Nothing in this Act affects the operation of any law (whether passed before or after the commencement of this Act) relating to copyright, to the preservation and use of archival resources or to the rights of members of the public to access to official documents of the Government of the Commonwealth and of its agencies.
+Nothing in this Act affects the operation of any law (whether passed before or after the commencement of this Act) relating to copyright, to the preservation and use of archival resources or to the rights of members of the public to access to official documents of the Government of the Commonwealth and of its agencies.
 
 ##### <a id="53"></a>53  Supply of liquor
 
@@ -717,13 +851,17 @@ and, in particular, may make regulations:
 
                     <a name="museum-premis"></a>**_Museum premises_** means an area of land or water, or a building, structure or vessel, being an area, or a building, structure or vessel, as the case may be, that is owned by, or under the control of, the Museum. 
 
-# Notes to the _Australian National Maritime Museum Act 1990_
+* * *
 
-### Note 1
+                     
 
-The _Australian National Maritime Museum Act 1990_ as shown in this compilation comprises Act No. 90, 1990 amended as indicated in the Tables below.
+# NOTE
+
+1**.**  The _Australian National Maritime Museum Act 1990_ as shown in this reprint comprises Act No. 90, 1990 amended as indicated in the Tables below.
 
 ### Table of Acts
+
+* * *
 
 <table>
 <colgroup>
@@ -734,25 +872,39 @@ The _Australian National Maritime Museum Act 1990_ as shown in this compilation 
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-  </td>
-  <td>
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead></table>
+
+* * *
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
 <tr>
   <td>
     <div>Australian National Maritime Museum Act 1990</div>
@@ -871,73 +1023,40 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 211-215): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td>
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (items 42-44): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
 
 _(a)_     The _Sales Tax Amendment (Transitional) Act 1992_ was amended by Part 4 (sections 60 and 61) only of the _Taxation Laws Amendment Act 1993_, subsection 2(2) of which provides as follows: 
 
-                  (2)   Part 4 is taken to have commenced immediately after the commencement of the _Sales Tax Amendment (Transitional) Act 1992_.
+                 “(2)   Part 4 is taken to have commenced immediately after the commencement of the _Sales Tax Amendment (Transitional) Act 1992_.” 
 
          The _Sales Tax Amendment (Transitional) Act 1992_ came into operation on 28 October 1992.
 
 _(b)_    The _Australian National Maritime Museum Act 1990_ was amended by Schedule 2 (items 6-8) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 “(1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.”
 
 _(c)_     The _Australian National Maritime Museum Act 1990_ was amended by Schedule 2 (items 375-388) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
-
-_(d)_     The _Australian National Maritime Museum Act 1990_ was amended by Schedule 2 (items 211-215) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                  (2)   Subject to this section, this Act commences at the commencing time.
-
-_(e)_     The _Australian National Maritime Museum Act 1990_ was amended by Schedule 2 (items 42-44) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
-
-                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
-
-                             (c)   the items in Schedules 10, 11 and 12.
-
- 
+                 “(2)   Schedules 1,2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.”
 
 ## Table of Amendments
+
+##  
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+</thead></table>
 
 <table>
 <colgroup>
@@ -945,11 +1064,6 @@ _(e)_     The _Australian National Maritime Museum Act 1990_ was amended
   <col width="66%">
 </colgroup>
 
-<tr>
-  <td colspan="2">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div>Provision affected</div>
@@ -1011,7 +1125,7 @@ _(e)_     The _Australian National Maritime Museum Act 1990_ was amended
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 156, 1999</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1027,7 +1141,7 @@ _(e)_     The _Australian National Maritime Museum Act 1990_ was amended
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 156, 1999</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1040,34 +1154,10 @@ _(e)_     The _Australian National Maritime Museum Act 1990_ was amended
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 179, 1991; No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
+    <div>am. No. 179, 1991; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1142,7 +1232,5 @@ _(e)_     The _Australian National Maritime Museum Act 1990_ was amended
     <div>am. No. 152, 1997</div>
   </td>
 </tr></table>
-
- 
 
  
