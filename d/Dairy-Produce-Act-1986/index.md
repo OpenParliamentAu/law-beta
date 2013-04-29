@@ -1,7 +1,7 @@
 
 Dairy Produce Act 1986
 Act No. 54 of 1986 as amended
-This compilation was prepared on 8 August 2001  taking into account amendments up to Act No. 94 of 2001
+This compilation was prepared on 26 July 2001  taking into account amendments up to Act No. 55 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -159,189 +159,161 @@ Part 1—Introduction	105
 2	Definitions	106
 3	DSAP payment start day	109
 4	DSAP claim period	109
-5	Entity	110
+5	Entity	109
 6	Dairy farm enterprise	110
-7	Eligible interest in a dairy farm enterprise	111
-8	Application to things happening before commencement	112
-Part 2—DSAP payments and SDA payments	113
-Division 1—DSAP scheme	113
-9	Simplified outline	113
-10	DSAP scheme	114
-11	General policy objectives for the DSAP scheme	114
-12	Types of payment rights	114
-13	Standard payment right	115
-14	Exceptional events supplementary payment right	118
-15	Anomalous circumstances payment right	119
-16	$350,000 cap	120
-17	Farm business assessment	122
-18	Units in payment rights	123
-19	Cancellation of units	124
-20	Duration of scheme	124
-21	Register of units etc.	125
-22	Invitations to make claims for payment rights etc.	127
-23	Making of DSAP payments	128
-24	Scheme may confer administrative powers on the DAA	130
-25	Reconsideration and review of decisions	130
-26	Statement to accompany notification of decisions	131
-27	Fees	132
-28	Statutory declarations	132
-29	Methods by which DSAP payments may be made	132
-30	Adjustment of eligibility for payment rights—transfer of milk delivery rights	132
-31	Adjustment of eligibility for payment rights—abnormal market milk pool distributions	133
-32	Adjustment of eligibility for payment rights—death	133
-33	Ancillary or incidental provisions	134
-34	Scheme‑making power not limited	134
-35	Variation of scheme	134
-36	Scheme to be a disallowable instrument	134
-37	Application to things happening before commencement	134
-Division 1A—Supplementary Dairy Assistance (SDA) scheme	135
-37A	Simplified outline	135
-37B	Formulation of scheme	135
-37C	General policy objectives for the SDA scheme	136
-37D	Types of payment rights	136
-37DA	Basic market milk payment rights—eligibility etc.	136
-37E	Additional market milk payment rights—eligibility etc.	137
-37F	Market milk payment rights—offsetting	139
-37G	Discretionary payment rights—eligibility	140
-37H	Discretionary payment rights—entity affected by significant event, crisis or anomalous circumstances etc.	140
-37J	Discretionary payment rights—entity suffered a fall in lease income etc.	140
-37K	Units in payment rights	142
-37L	Cancellation of units	142
-37M	Duration of scheme	142
-37N	Register of units etc.	143
-37P	Making of SDA payments	144
-37Q	Conferral of administrative powers etc.	144
-37R	Review of decisions	145
-37S	Fees	145
-37T	Statutory declarations	145
-37U	Methods by which SDA payments may be made	145
-37V	Adjustment of eligibility for payment rights etc.—death	145
-37W	Ancillary or incidental provisions	146
-37X	Scheme‑making power not limited	146
-37Y	Variation of scheme	146
-37Z	Scheme to be a disallowable instrument	146
-37ZA	Application to things happening before commencement	146
-37ZB	Use and disclosure of information obtained under the DSAP scheme	146
-Division 2—Information‑gathering powers	148
-38	DAA may obtain information and documents	148
-39	Copying documents—reasonable compensation	149
-40	Self‑incrimination	149
-41	Copies of documents	150
-42	DAA may retain documents	150
-Division 3—Protection of confidentiality of information	151
-43	Protection of confidentiality of information	151
-Division 4—Recovery of scheme debts	153
-44	Scheme debt	153
-45	Scheme debts are debts due to the Corporation	153
-46	Recovery by legal proceedings	153
-47	Recovery by set‑off	153
-48	Corporation may collect money from a person who owes money to an entity	153
-49	Penalty for unpaid scheme debts	155
-Division 5—Cancellation of units	157
-50	Cancellation of units because of the making of a false statement	157
-51	Cancellation of units because of an error made by the DAA	158
-52	Cancellation of unit because of a breach of an undertaking to assign the unit	159
-53	Cancellation of units when a dairy exit payment becomes payable	160
-54	Limit on cancellation or variation	160
-Division 6—Dairy Adjustment Authority	161
-55	Dairy Adjustment Authority	161
-56	Functions	161
-57	Powers	161
-58	Phasing‑down of the DAA	161
-59	Membership of the DAA	162
-60	Qualifications of DAA members	163
-61	Appointment of DAA members	163
-62	Procedures	164
-63	Disclosure of interests before the second DAA phase‑down time	164
-64	Disclosure of interests after the second DAA phase‑down time	165
-65	Remuneration and allowances	167
-66	Leave of absence	167
-67	Resignation	167
-68	Termination of appointment	167
-69	Other terms and conditions	168
-70	Corporation must provide assistance to DAA	168
-71	Consultants etc.	169
-72	Delegation by DAA—before second DAA phase‑down time	169
-73	Delegation by DAA—after second DAA phase‑down time	170
-74	Annual report	170
-Division 7—Miscellaneous	171
-75	DSAP and SDA payments taken to be subsidies for the purposes of section 15‑10 of the Income Tax Assessment Act 1997	171
-76	Review in 2002‑2003	171
-Part 3—Dairy Structural Adjustment Fund	172
-77	Establishment of the Dairy Structural Adjustment Fund	172
-78	Money to be paid into the Dairy Structural Adjustment Fund	172
-79	Application of the Dairy Structural Adjustment Fund	173
-80	Solvency of the Dairy Structural Adjustment Fund	175
-81	Borrowing for the purposes of the Dairy Structural Adjustment Fund	175
-82	Investment of money standing to credit of the Dairy Structural Adjustment Fund	175
-83	Payment of dairy adjustment levy to the Corporation	175
-84	Payment of DSAP and SDA scheme fees to the Corporation	176
-85	Payment of penalties under the DSAP scheme and SDA scheme to the Corporation	176
-86	Dairy Regional Assistance Programme	176
-Part 4—Collection of dairy adjustment levy	178
-Division 1—Introduction	178
-87	Simplified outline	178
-88	Definitions	178
-Division 2—Liability for levy	181
-89	When levy is payable	181
-90	Commencement of levy	181
-91	No double levy	181
-92	Exemptions from levy	181
-93	Who pays the levy	182
-94	Termination of levy when core funding obligations are met	182
-95	Termination of levy if DSAP payment start day does not occur within 6 months after the Dairy Industry Adjustment Act 2000 receives Royal Assent	183
-Division 3—When levy due for payment	184
-96	When levy due for payment	184
-Division 4—Collection agents, collection sub‑agents and collecting organisations	185
-97	Collection agents	185
-98	Collection sub‑agents—simple supply chain	186
-99	Collection sub‑agents—complex supply chain	188
-100	Collection agents and collection sub‑agents to notify unpaid levy	191
-101	Collection agents and collection sub‑agents to notify unremitted levy	192
-102	Collection agents and collection sub‑agents to issue receipts for levy	192
-103	Collecting organisations	193
-104	Application of the Financial Management and Accountability Act 1997	195
-Division 5—Record‑keeping requirements	196
-105	Record‑keeping requirements for levy payers	196
-106	Record‑keeping requirements for collection agents and collection sub‑agents	197
-Division 6—Late payment penalty	198
-107	Late payment penalty	198
-Division 7—Recovery of levy debts	200
-108	Levy debts	200
-109	Levy debts are debts due to the Commonwealth	200
-110	Recovery of levy debts	200
-111	Commonwealth may collect money from a person who owes money to a person	201
-Division 8—Information‑gathering powers	203
-112	Power to call for returns or information	203
-113	Regulations may require the giving of returns or information	204
-114	Self‑incrimination	204
-Division 9—Access to premises	206
-115	Powers of authorised person in relation to premises	206
-116	Obstruction of authorised person acting under a warrant	206
-117	Persons to assist authorised persons acting under a warrant	206
-118	Warrant to enter premises	207
-119	Identity cards	207
-Division 10—Evidentiary certificates	209
-120	Evidentiary certificates	209
-121	Evidentiary effect of certificate	209
-Division 11—Miscellaneous	211
-122	Designated small remitters	211
-123	Designated small levy‑payers	211
-124	Refund of overpayments	212
-125	Refund of levy	212
-126	Methods by which levy may be paid or remitted	212
-127	Authorised persons	212
-128	Publication of information about levy	213
-129	Delegation by Secretary	213
-130	Reconsideration and review of decisions	214
-131	Commonwealth not liable to levy	215
-Part 5—Offences	217
-132	Application of Criminal Code	217
-133	False or misleading evidence	217
-134	False or misleading statements in claims	217
-135	False or misleading information	219
-136	False or misleading documents	219
-Notes		221
+7	Eligible interest in a dairy farm enterprise	110
+8	Application to things happening before commencement	111
+Part 2—DSAP payments	112
+Division 1—DSAP scheme	112
+9	Simplified outline	112
+10	DSAP scheme	113
+11	General policy objectives for the DSAP scheme	113
+12	Types of payment rights	113
+13	Standard payment right	114
+14	Exceptional events supplementary payment right	117
+15	Anomalous circumstances payment right	118
+16	$350,000 cap	119
+17	Farm business assessment	121
+18	Units in payment rights	122
+19	Cancellation of units	123
+20	Duration of scheme	123
+21	Register of units etc.	124
+22	Invitations to make claims for payment rights etc.	126
+23	Making of DSAP payments	127
+24	Scheme may confer administrative powers on the DAA	129
+25	Reconsideration and review of decisions	129
+26	Statement to accompany notification of decisions	130
+27	Fees	131
+28	Statutory declarations	131
+29	Methods by which DSAP payments may be made	131
+30	Adjustment of eligibility for payment rights—transfer of milk delivery rights	131
+31	Adjustment of eligibility for payment rights—abnormal market milk pool distributions	132
+32	Adjustment of eligibility for payment rights—death	132
+33	Ancillary or incidental provisions	133
+34	Scheme‑making power not limited	133
+35	Variation of scheme	133
+36	Scheme to be a disallowable instrument	133
+37	Application to things happening before commencement	133
+Division 2—Information‑gathering powers	134
+38	DAA may obtain information and documents	134
+39	Copying documents—reasonable compensation	135
+40	Self‑incrimination	135
+41	Copies of documents	136
+42	DAA may retain documents	136
+Division 3—Protection of confidentiality of information	137
+43	Protection of confidentiality of information	137
+Division 4—Recovery of scheme debts	139
+44	Scheme debt	139
+45	Scheme debts are debts due to the Corporation	139
+46	Recovery by legal proceedings	139
+47	Recovery by set‑off	139
+48	Corporation may collect money from a person who owes money to an entity	139
+49	Penalty for unpaid scheme debts	141
+Division 5—Cancellation of units	143
+50	Cancellation of units because of the making of a false statement	143
+51	Cancellation of units because of an error made by the DAA	144
+52	Cancellation of unit because of a breach of an undertaking to assign the unit	145
+53	Cancellation of units when a dairy exit payment becomes payable	145
+54	Limit on cancellation or variation	146
+Division 6—Dairy Adjustment Authority	147
+55	Dairy Adjustment Authority	147
+56	Functions	147
+57	Powers	147
+58	Phasing‑down of the DAA	147
+59	Membership of the DAA	148
+60	Qualifications of DAA members	149
+61	Appointment of DAA members	149
+62	Procedures	150
+63	Disclosure of interests before the second DAA phase‑down time	150
+64	Disclosure of interests after the second DAA phase‑down time	151
+65	Remuneration and allowances	153
+66	Leave of absence	153
+67	Resignation	153
+68	Termination of appointment	153
+69	Other terms and conditions	154
+70	Corporation must provide assistance to DAA	154
+71	Consultants etc.	155
+72	Delegation by DAA—before second DAA phase‑down time	155
+73	Delegation by DAA—after second DAA phase‑down time	156
+74	Annual report	156
+Division 7—Miscellaneous	157
+75	DSAP payments taken to be subsidies for the purposes of section 15‑10 of the Income Tax Assessment Act 1997	157
+76	Review in 2002‑2003	157
+Part 3—Dairy Structural Adjustment Fund	158
+77	Establishment of the Dairy Structural Adjustment Fund	158
+78	Money to be paid into the Dairy Structural Adjustment Fund	158
+79	Application of the Dairy Structural Adjustment Fund	159
+80	Solvency of the Dairy Structural Adjustment Fund	161
+81	Borrowing for the purposes of the Dairy Structural Adjustment Fund	161
+82	Investment of money standing to credit of the Dairy Structural Adjustment Fund	161
+83	Payment of dairy adjustment levy to the Corporation	161
+84	Payment of DSAP scheme fees to the Corporation	162
+85	Payment of penalties under the DSAP scheme to the Corporation	162
+86	Dairy Regional Assistance Programme	162
+Part 4—Collection of dairy adjustment levy	164
+Division 1—Introduction	164
+87	Simplified outline	164
+88	Definitions	164
+Division 2—Liability for levy	167
+89	When levy is payable	167
+90	Commencement of levy	167
+91	No double levy	167
+92	Exemptions from levy	167
+93	Who pays the levy	168
+94	Termination of levy when core funding obligations are met	168
+95	Termination of levy if DSAP payment start day does not occur within 6 months after the Dairy Industry Adjustment Act 2000 receives Royal Assent	169
+Division 3—When levy due for payment	170
+96	When levy due for payment	170
+Division 4—Collection agents, collection sub‑agents and collecting organisations	171
+97	Collection agents	171
+98	Collection sub‑agents—simple supply chain	172
+99	Collection sub‑agents—complex supply chain	174
+100	Collection agents and collection sub‑agents to notify unpaid levy	177
+101	Collection agents and collection sub‑agents to notify unremitted levy	178
+102	Collection agents and collection sub‑agents to issue receipts for levy	178
+103	Collecting organisations	179
+104	Application of the Financial Management and Accountability Act 1997	181
+Division 5—Record‑keeping requirements	182
+105	Record‑keeping requirements for levy payers	182
+106	Record‑keeping requirements for collection agents and collection sub‑agents	183
+Division 6—Late payment penalty	184
+107	Late payment penalty	184
+Division 7—Recovery of levy debts	186
+108	Levy debts	186
+109	Levy debts are debts due to the Commonwealth	186
+110	Recovery of levy debts	186
+111	Commonwealth may collect money from a person who owes money to a person	187
+Division 8—Information‑gathering powers	189
+112	Power to call for returns or information	189
+113	Regulations may require the giving of returns or information	190
+114	Self‑incrimination	190
+Division 9—Access to premises	192
+115	Powers of authorised person in relation to premises	192
+116	Obstruction of authorised person acting under a warrant	192
+117	Persons to assist authorised persons acting under a warrant	192
+118	Warrant to enter premises	193
+119	Identity cards	193
+Division 10—Evidentiary certificates	195
+120	Evidentiary certificates	195
+121	Evidentiary effect of certificate	195
+Division 11—Miscellaneous	197
+122	Designated small remitters	197
+123	Designated small levy‑payers	197
+124	Refund of overpayments	198
+125	Refund of levy	198
+126	Methods by which levy may be paid or remitted	198
+127	Authorised persons	198
+128	Publication of information about levy	199
+129	Delegation by Secretary	199
+130	Reconsideration and review of decisions	200
+131	Commonwealth not liable to levy	201
+Part 5—Offences	203
+132	Application of Criminal Code	203
+133	False or misleading evidence	203
+134	False or misleading statements in claims	203
+135	False or misleading information	205
+136	False or misleading documents	205
+Notes		207
 An Act relating to the Australian Dairy Corporation, the marketing and export of dairy produce and the collection of certain levies imposed in connection with the dairy industry, and for other purposes
 Part I—Preliminary
   
@@ -1637,7 +1609,6 @@ Penalty:	$2,000 or imprisonment for 12 months, or both.
 	(2A)	Paragraph (2)(a) does not apply to protected information within the meaning of clause 42 of Schedule 2.
 	(2B)	Subsection (2) does not apply to the recording or disclosure of information, or the production of a document, for a purpose in connection with the administration of:
 	(a)	the DSAP scheme (within the meaning of Schedule 2); or
-	(aa)	the SDA scheme (within the meaning of Schedule 2); or
 	(b)	Schedule 2, or
 	(c)	the DEP scheme (within the meaning of the Farm Household Support Act 1992); or
 	(d)	a provision of the Farm Household Support Act 1992 in so far as that provision relates to the DEP scheme (within the meaning of that Act).
@@ -1738,17 +1709,14 @@ Part 1—Introduction
 1  Simplified outline
 		The following is a simplified outline of this Schedule and Part 9C of the Farm Household Support Act 1992:
 •	This Schedule and Part 9C of the Farm Household Support Act 1992 provide a framework for the implementation of the Dairy Industry Adjustment Program.
-•	The main object of the Dairy Industry Adjustment Program is to help the dairy industry or dairy communities adjust to deregulation by providing for 4 types of grants, as follows:
-	(a)	DSAP payments (made under this Schedule);
-	(b)	SDA payments (made under this Schedule);
-	(c)	dairy exit payments (made under Part 9C of the Farm Household Support Act 1992);
-	(d)	payments under the Dairy Regional Assistance Programme (see clause 86).
+•	The main object of the Dairy Industry Adjustment Program is to help the dairy industry adjust to deregulation by providing for 2 types of grants, as follows:
+	(a)	DSAP payments (made under this Schedule); 
+	(b)	dairy exit payments (made under Part 9C of the Farm Household Support Act 1992).
 •	Generally, DSAP payments are calculated by reference to 1998‑1999 milk deliveries at a rate of 46.23 cents per litre for market milk and a national average rate of 8.96 cents per litre for manufacturing milk.
-•	There are 3 types of SDA payment rights: basic market milk payment rights, additional market milk payment rights and discretionary payment rights.
 •	Dairy exit payments are available for farmers who choose to leave agriculture.
-•	The Dairy Adjustment Authority will administer DSAP and SDA payment rights.
+•	The Dairy Adjustment Authority will administer DSAP payment rights.
 •	The Dairy Industry Adjustment Program will be funded by a dairy adjustment levy on milk products.
-•	The levy will be paid into a Dairy Structural Adjustment Fund, and DSAP payments, SDA payments, dairy exit payments and payments under the Dairy Regional Assistance Programme will be paid out of that Fund.
+•	The levy will be paid into a Dairy Structural Adjustment Fund, and DSAP payments and dairy exit payments will be paid out of that Fund.
 2  Definitions
 		In this Schedule, unless the contrary intention appears:
 annual means per financial year.
@@ -1794,13 +1762,11 @@ overall enterprise amount, in relation to a dairy farm enterprise, means the sum
 Note 1:	It is expected that the result of applying the rates mentioned in paragraphs (b) and (c) will be a national average rate of 8.96 cents per litre of manufacturing milk.
 Note 2:	See also clause 30 (which deals with the transfer of the whole or part of market milk delivery rights).
 Note 3:	See also clause 31 (which deals with abnormal market milk pool distributions).
-payment right means a payment right under the DSAP scheme or the SDA scheme.
+payment right means a payment right under the DSAP scheme.
 premium component, in relation to the overall enterprise amount of a dairy farm enterprise, means so much of the overall enterprise amount as is attributable to 37.27 cents per litre of market milk delivered by the enterprise in the 1998‑1999 financial year.
 Note 1:	See also clause 30 (which deals with the transfer of the whole or part of market milk delivery rights).
 Note 2:	See also clause 31 (which deals with abnormal market milk pool distributions).
 quarter means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October of any year.
-SDA payment means a payment under the SDA scheme.
-SDA scheme means the scheme referred to in clause 37B.
 Secretary means the Secretary of the Department.
 trustee includes an executor and an administrator.
 unit means a unit in a payment right.
@@ -1857,7 +1823,7 @@ this Schedule has effect as if the trustee of the deceased individual’s estate
 8  Application to things happening before commencement
 		The use of the present tense in a provision of this Part does not imply that the provision does not apply to things happening before the commencement of this Schedule.
 
-Part 2—DSAP payments and SDA payments
+Part 2—DSAP payments
 Division 1—DSAP scheme
 9  Simplified outline
 		The following is a simplified outline of this Division:
@@ -2215,195 +2181,11 @@ this Part includes:
 37  Application to things happening before commencement
 		The use of the present tense in a provision of this Division does not imply that the provision does not apply to things happening before the commencement of this Schedule.
 
-Division 1A—Supplementary Dairy Assistance (SDA) scheme
-37A  Simplified outline
-		The following is a simplified outline of this Division:
-•	This Division provides a framework for the making of SDA payments.
-•	The Minister is required to formulate a scheme (the SDA scheme) for the grant of the following types of payment rights to entities:
-	(aa)	basic market milk payment rights;
-	(a)	additional market milk payment rights;
-	(b)	discretionary payment rights.
-•	Additional market milk payment rights will be based on market milk deliveries in 1998‑1999, and will range from 0.12 cents per litre to 12 cents per litre depending on the percentage of market milk deliveries in that year.
-•	Discretionary payment rights may be granted to entities in the circumstances set out in clause 37G.
-•	Payment rights will be divided into units, where each unit has a face value of $32.
-•	Payments will be made to registered owners of units in accordance with the SDA scheme.
-37B  Formulation of scheme
-		The Minister must, by writing, formulate a scheme (the SDA scheme) for:
-	(a)	the grant of payment rights to entities who satisfy the conditions set out in the scheme; and
-	(b)	the division of payment rights into units; and
-	(c)	the registration of units; and
-	(d)	the making of payments by the Corporation to registered owners of units.
-37C  General policy objectives for the SDA scheme
-		The SDA scheme must be directed towards ensuring the achievement of the policy objectives set out in clauses 37D to 37P.
-37D  Types of payment rights
-	(1)	It is a policy objective that there are to be 3 types of payment rights, as follows:
-	(aa)	a type called basic market milk payment rights;
-	(a)	a type called additional market milk payment rights;
-	(b)	a type called discretionary payment rights.
-	(2)	It is a policy objective that, if an entity is eligible to be granted a basic market milk payment right and an additional market milk payment right, the entity is eligible to be granted the payment right with the higher face value and is not eligible to be granted the other payment right.
-37DA  Basic market milk payment rights—eligibility etc.
-Basic eligibility criteria
-	(1)	It is a policy objective that an entity is not eligible to be granted a basic market milk payment right unless:
-	(a)	the entity has been granted a payment right under the DSAP scheme in respect of a dairy farm enterprise (the qualifying enterprise); and
-	(b)	the entity held an interest (of a kind referred to in the SDA scheme) in that enterprise, or in any other dairy farm enterprise, at a time referred to in the SDA scheme; and
-	(c)	the number (the market milk number) worked out in accordance with the following formula is at least 25.1 (rounding to 1 decimal place and rounding up if the second decimal place is 5 or more):
-
-Note:	See also subclause (4) for how those delivery numbers are worked out.
-Calculation of face value
-	(2)	It is a policy objective that the face value of an entity’s basic market milk payment right is to be a share (worked out in accordance with the SDA scheme) of the overall market milk amount for the qualifying enterprise.
-Interpretation
-	(3)	For the purposes of this clause, the overall market milk amount for the qualifying enterprise is:
-	(a)	if the market milk number is at least 25.1 and less than 30.1—$10,000; or
-	(b)	if the market milk number is at least 30.1—$15,000.
-	(4)	A reference in this clause to the total number of litres of market milk, or the total number of litres of manufacturing milk, delivered by the qualifying enterprise in the 1998‑1999 financial year is a reference to that number as determined by the DAA to have taken to have been delivered by that enterprise in that year.
-	(5)	This clause is subject to clause 37V (about the effect of death on eligibility etc. for the grant of payment rights).
-37E  Additional market milk payment rights—eligibility etc.
-Basic eligibility criteria
-	(1)	It is a policy objective that an entity is not eligible to be granted an additional market milk payment right unless:
-	(a)	the entity has been granted a payment right under the DSAP scheme in respect of a dairy farm enterprise (the qualifying enterprise); and
-	(b)	the entity held an interest (of a kind referred to in the SDA scheme) in that enterprise, or in any other dairy farm enterprise, at a time referred to in the SDA scheme; and
-	(c)	the number (the market milk number) worked out in accordance with the following formula is at least 35.1 (rounding to 1 decimal place and rounding up if the second decimal place is 5 or more):
-
-Note:	See also subclause (5) for how those delivery numbers are worked out.
-Calculation of face value
-	(2)	It is a policy objective that the face value of an entity’s additional market milk payment right is to be a share (worked out in accordance with the SDA scheme) of the overall market milk amount for the qualifying enterprise.
-Interpretation
-	(3)	For the purposes of this clause, the overall market milk amount for the qualifying enterprise is the amount worked out in accordance with the following formula:
-
-where:
-relevant cents means:
-	(a)	if the market milk number is at least 45—12 cents; or
-	(b)	if the market milk number is at least 35.1 and less than 45—the number of cents worked out in accordance with the following formula:
-
-	(4)	However, if the amount calculated under subclause (3) is more than $60,000, then the overall market milk amount for the qualifying enterprise is taken to be $60,000.
-	(5)	A reference in this clause to the total number of litres of market milk, or the total number of litres of manufacturing milk, delivered by the qualifying enterprise in the 1998‑1999 financial year is a reference to that number as determined by the DAA to have taken to have been delivered by that enterprise in that year.
-	(6)	This clause is subject to clause 37V (about the effect of death on eligibility etc. for the grant of payment rights).
-37F  Market milk payment rights—offsetting
-	(1)	It is a policy objective that the face value of an entity’s basic market milk payment right or additional market milk payment right is to be reduced if:
-	(a)	the entity has been granted a payment right (the DSAP payment right) under the DSAP scheme; and
-	(b)	the conditions in paragraphs 51(1)(a), (b) and (c) of this Schedule are satisfied (about the DAA having made an error); and
-	(c)	the DAA has been unable to cancel a number of units (the protected units) in the DSAP payment right because of the operation of subclause 51(2).
-	(2)	It is a policy objective that the amount of the reduction is to be equal to the total face value of the protected units.
-	(3)	If the amount of the reduction would exceed the face value of the entity’s basic market milk payment right or additional market milk payment right, then it is a policy objective that the face value of that payment right is to be reduced to zero.
-37G  Discretionary payment rights—eligibility
-	(1)	It is a policy objective that an entity is not eligible to be granted a discretionary payment right unless the entity satisfies clause 37H or 37J.
-	(2)	This clause is subject to clause 37V (about the effect of death on eligibility etc. for the grant of payment rights).
-37H  Discretionary payment rights—entity affected by significant event, crisis or anomalous circumstances etc.
-	(1)	An entity satisfies this clause if:
-	(a)	the entity held an interest (of a kind referred to in the SDA scheme) in a dairy farm enterprise at any time during the period (the qualifying period) beginning on 1 July 1998 and ending at 6.30 pm on 28 September 1999; and
-	(b)	the entity is taken, under the SDA scheme, to have been affected by a significant event, a significant crisis or significant anomalous circumstances.
-	(2)	For the purposes of this clause, dairy farm enterprise includes a business in Australia that is carried on with a view to delivering market milk and/or manufacturing milk during the qualifying period, but that did not deliver such milk during that period.
-37J  Discretionary payment rights—entity suffered a fall in lease income etc.
-	(1)	An entity satisfies this clause if:
-	(a)	the entity was granted a payment right under the DSAP scheme in respect of a lessor interest the entity held in a dairy farm enterprise; and
-	(b)	the entity is not taken, under the SDA scheme, to have been affected by a significant event, a significant crisis or significant anomalous circumstances; and
-	(c)	the entity passes the lease income test.
-Cap
-	(2)	It is a policy objective that the total face value of discretionary payment rights, granted in respect of a dairy farm enterprise to entities who satisfy this clause in relation to that enterprise, must not exceed an amount specified in the SDA scheme.
-Interpretation
-	(3)	For the purposes of this clause, an entity held a lessor interest in a dairy farm enterprise if:
-	(a)	under the DSAP scheme, the enterprise was taken to be subject to an eligible dairy leasing arrangement; and
-	(b)	under the DSAP scheme, the entity was taken to be a party to that arrangement as the lessor of land.
-	(4)	For the purposes of this clause, an entity passes the lease income test if:
-	(a)	both:
-	(i)	more than 50% of the total gross income derived by the entity in the 1999‑2000 financial year consisted of eligible lease income; and
-	(ii)	the eligible lease income derived by the entity in the 2000‑2001 financial year is at least 20% less than the eligible lease income derived by the entity in the 1999‑2000 financial year; or
-	(b)	both:
-	(i)	more than 50% of the total gross income derived by the entity in the 1999‑2000, 1998‑1999 and 1997‑1998 financial years consisted of eligible lease income; and
-	(ii)	the eligible lease income derived by the entity in the 2000‑2001 financial year is at least 20% less than the average of the eligible lease income derived by the entity in the 1999‑2000, 1998‑1999 and 1997‑1998 financial years.
-	(5)	For the purposes of this clause, the gross income derived by an entity is to be worked out in accordance with:
-	(a)	generally accepted accounting principles; or
-	(b)	if, under the SDA scheme, the generally accepted accounting principles are taken to be modified for the purposes of the scheme—those principles as so modified.
-	(6)	For the purposes of this clause, eligible lease income has the same meaning as in the SDA scheme.
-37K  Units in payment rights
-	(1)	It is a policy objective that each payment right under the SDA scheme is to be divided into units, where each unit has a face value of $32.
-	(2)	It is a policy objective that the number of units into which a payment right is divided is to be worked out as follows:
-	(a)	divide the number of dollars in the face value of the payment right by 32;
-	(b)	if the result of the division is a whole number—that number is the number of units in the payment right;
-	(c)	if the result of the division is less than 1—there is 1 unit in the payment right;
-	(d)	if the result of the division is greater than 1, but is not a whole number:
-	(i)	round the result of the division up or down to the nearest whole number (rounding up in the case exactly half‑way between 2 whole numbers); and
-	(ii)	the rounded number is the number of units in the payment right.
-37L  Cancellation of units
-		It is a policy objective that a payment right under the SDA scheme is to be granted subject to the powers of cancellation conferred on the DAA under the authority of clauses 50, 51, 52 and 53.
-Note 1:	Clause 50 deals with cancellation of units because of the making of a false statement.
-Note 2:	Clause 51 deals with cancellation of units because of an error made by the DAA.
-Note 3:	Clause 52 deals with cancellation of units because of a breach of an undertaking to dispose of the units.
-Note 4:	Clause 53 deals with cancellation of units when a dairy exit payment becomes payable.
-37M  Duration of scheme
-		It is a policy objective that SDA payments are not to be made in respect of a quarter that is later than the quarter ending on 30 June 2008.
-37N  Register of units etc.
-Register
-	(1)	It is a policy objective that the DAA is to include particulars of units in payment rights under the SDA scheme on the register referred to in clause 21.
-Registration of ownership
-	(2)	It is a policy objective that an entity’s ownership of a unit is not to be counted for the purposes of the SDA scheme unless that ownership is entered on the register.
-	(3)	It is a policy objective that the transfer of the ownership of a unit is not to be registered unless:
-	(a)	the transferee is an eligible entity; or
-	(b)	the transferee gives the DAA a written undertaking to assign the unit to an eligible entity within 60 days after the transfer is registered.
-Note:	For enforcement of the undertaking, see clause 52.
-Registration of charges
-	(4)	It is a policy objective that the SDA scheme may provide for the registration of charges over units.
-Inspection of register
-	(5)	It is a policy objective that an entry on the register relating to a unit is to be open for inspection in the following circumstances:
-	(a)	the owner of the unit consents to the entry being open for inspection;
-	(b)	such circumstances as are set out in the SDA scheme.
-No declaration of trust in respect of unit
-	(6)	It is a policy objective that:
-	(a)	the owner of a unit must not dispose of a unit by way of declaration of trust; and
-	(b)	if a purported disposal contravenes the rule in paragraph (a), it is of no effect.
-Beneficial interest in unit must not be transferred independently of legal interest
-	(7)	It is a policy objective that:
-	(a)	a beneficial interest in a unit must not be transferred independently of the legal interest in the unit; and
-	(b)	if a purported transfer contravenes the rule in paragraph (a), it is of no effect.
-Definition
-	(8)	In this clause:
-eligible entity means an entity included in a class of entities declared by the SDA scheme to be entities who are eligible to become transferees of units.
-37P  Making of SDA payments
-	(1)	It is a policy objective that, in accordance with the SDA scheme, lump sum payments or quarterly payments will be paid to registered owners of units in payment rights under the scheme.
-	(2)	It is a policy objective that, if an SDA payment is due to be paid to an entity, the payment may be recovered, as a debt due to the entity, by action in a court of competent jurisdiction.
-	(3)	It is a policy objective that, if an individual is entitled to receive an SDA payment and the payment has not been made at the date of the death of the individual, the amount of that payment is payable to the legal personal representative of the individual.
-37Q  Conferral of administrative powers etc.
-	(1)	The SDA scheme may make provision with respect to a matter by conferring on the DAA, or the Minister, a power to make a decision of an administrative character.
-	(2)	If the SDA scheme confers on the Minister a power to make a decision of an administrative character, the scheme may also make provision for and in relation to the Minister delegating that power to the DAA.
-37R  Review of decisions
-	(1)	The SDA scheme must contain provisions for and in relation to the review of decisions of the DAA, or the Minister, under the scheme that affect an entity.
-	(2)	Those provisions must provide for review by the Administrative Appeals Tribunal or the Administrative Review Tribunal (as the case may be).
-	(3)	Subclause (2) does not limit subclause (1).
-37S  Fees
-	(1)	The SDA scheme may provide for fees.
-	(2)	The amount of a fee under the SDA scheme must not be such as to amount to taxation.
-37T  Statutory declarations
-		The SDA scheme may provide for statements in claims to be verified by statutory declaration.
-37U  Methods by which SDA payments may be made
-	(1)	The SDA scheme may make provision for the methods by which SDA payments may be made.
-	(2)	The SDA scheme may require that SDA payments be made using an electronic funds transfer system.
-	(3)	Subclause (2) does not limit subclause (1).
-37V  Adjustment of eligibility for payment rights etc.—death
-		The SDA scheme may make provision for and in relation to the adjustment of:
-	(a)	eligibility for the grant of payment rights under the scheme; and
-	(b)	the calculation of the face value of payment rights under the scheme;
-in relation to the death of an individual who would have otherwise been eligible to be granted a payment right under the SDA scheme.
-Note:	For example, the SDA scheme may contain provisions setting out the eligibility of the trustee of the deceased estate, or of one or more beneficiaries in the estate, to be granted a payment right under the scheme and setting out the calculation of the face value of that right.
-37W  Ancillary or incidental provisions
-		The SDA scheme may contain such ancillary or incidental provisions as the Minister considers appropriate.
-37X  Scheme‑making power not limited
-		Clauses 37C to 37W do not, by implication, limit clause 37B.
-37Y  Variation of scheme
-	(1)	The SDA scheme may be varied, but not revoked, in accordance with subsection 33(3) of the Acts Interpretation Act 1901.
-	(2)	Subclause (1) does not limit the application of subsection 33(3) of the Acts Interpretation Act 1901 to other instruments under this Act.
-37Z  Scheme to be a disallowable instrument
-		An instrument under clause 37B is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
-37ZA  Application to things happening before commencement
-		The use of the present tense in a provision of this Division does not imply that the provision does not apply to things happening before the commencement of this Division.
-37ZB  Use and disclosure of information obtained under the DSAP scheme
-	(1)	A record keeper who has possession or control of a record that contains personal information that was obtained for the purposes of the administration of the DSAP scheme may use the information, or disclose the information to a person, body or agency, for the purposes of the administration of the SDA scheme.
-	(2)	Unless the contrary intention appears, an expression used in this clause has the same meaning as in the Privacy Act 1988.
-
 Division 2—Information‑gathering powers
 38  DAA may obtain information and documents 
 	(1)	This clause applies to a person if the DAA has reason to believe that the entity:
-	(a)	has information or a document that is relevant to the operation of the DSAP scheme or the SDA scheme; or
-	(b)	is capable of giving evidence which the DAA has reason to believe is relevant to the operation of the DSAP scheme or the SDA scheme.
+	(a)	has information or a document that is relevant to the operation of the DSAP scheme; or
+	(b)	is capable of giving evidence which the DAA has reason to believe is relevant to the operation of the DSAP scheme.
 	(2)	The DAA may, by written notice given to the person, require the person:
 	(a)	to give to the DAA, within the period and in the manner and form specified in the notice, any such information; or
 	(b)	to produce to the DAA, within the period and in the manner specified in the notice, any such documents; or
@@ -2453,7 +2235,7 @@ if the recording or disclosure is not in accordance with subclause (3).
 Penalty:	Imprisonment for 2 years.
 Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 	(3)	It is not an offence against subclause (2) if any of the following apply to the recording or disclosure:
-	(a)	the recording or disclosure is for the purposes of this Part, the DSAP scheme or the SDA scheme;
+	(a)	the recording or disclosure is for the purposes of this Part or the DSAP scheme;
 	(b)	the recording or disclosure happens in the course of the performance of the duties of the entrusted person’s official employment;
 	(c)	the disclosure is not likely to enable the identification of a particular entity;
 	(d)	both:
@@ -2464,7 +2246,7 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal
 	(ii)	a provision of the Farm Household Support Act 1992 in so far as that provision relates to the DEP scheme.
 Note:	A defendant bears an evidential burden in relation to a matter in paragraph (3)(a), (b) or (e)—see subsection 13.3(3) of the Criminal Code.
 	(4) 	Despite subsection 13.3(3) of the Criminal Code, the defendant does not bear an evidential burden in relation to a matter in paragraph (3)(c) or (d) of this clause.
-	(5) 	Unless it is necessary for the purposes of this Part, the DSAP scheme or the SDA scheme, the entrusted person is not to be required:
+	(5) 	Unless it is necessary for the purposes of this Part or the DSAP scheme, the entrusted person is not to be required:
 	(a)	to produce any protected document to a court; or
 	(b)	to disclose protected information to a court.
 	(6)	In this clause:
@@ -2473,23 +2255,23 @@ official employment means:
 	(a)	service as a DAA member; or
 	(b)	the performance of services for the DAA; or
 	(c)	the exercise of powers or performance of functions under a delegation by the DAA.
-protected document means any document made or given under, or for the purposes of, this Part, the DSAP scheme or the SDA scheme.
+protected document means any document made or given under, or for the purposes of, this Part or the DSAP scheme.
 protected information means information that meets all the following conditions:
 	(a)	it relates to the affairs of a person other than the entrusted person;
 	(b)	it was obtained by the entrusted person, or by any other person, in the course of official employment;
-	(c)	it was disclosed or obtained for the purposes of this Part, the DSAP scheme or the SDA scheme.
+	(c)	it was disclosed or obtained for the purposes of this Part or the DSAP scheme.
 this Part includes any other provision of this Schedule in so far as that other provision relates to this Part.
 
 Division 4—Recovery of scheme debts
 44  Scheme debt
-		For the purposes of this Division, a scheme debt is so much of an amount paid, or purportedly paid, to an entity by way of a DSAP payment or an SDA payment as represents an overpayment.
+		For the purposes of this Division, a scheme debt is so much of an amount paid, or purportedly paid, to an entity by way of a DSAP payment as represents an overpayment.
 45  Scheme debts are debts due to the Corporation
 		A scheme debt is a debt due to the Corporation.
 46  Recovery by legal proceedings
 	(1)	A scheme debt may be recovered by the DAA, on behalf of the Corporation, by action in a court of competent jurisdiction.
 	(2)	An action under subclause (1) may be instituted by the DAA in its official name.
 47  Recovery by set‑off
-		If an entity is liable to pay a scheme debt, the scheme debt may be deducted from one or more DSAP payments or SDA payments that are payable to the entity, and if the scheme debt is so deducted, the DSAP payment or SDA payment (as the case may be) is taken to have been paid in full to the entity.
+		If an entity is liable to pay a scheme debt, the scheme debt may be deducted from one or more DSAP payments that are payable to the entity, and if the scheme debt is so deducted, the DSAP payment is taken to have been paid in full to the entity.
 48  Corporation may collect money from a person who owes money to an entity
 What this clause does
 	(1)	This clause allows the Corporation to collect money from a person who owes money to an entity that has a scheme debt.
@@ -2528,25 +2310,25 @@ whether or not the payment of the money to the entity is dependent on a pre‑co
 
 where:
 scheme debt component means so much of the judgment debt as consists of a scheme debt.
-	(5)	For the purposes of this clause, the day on which a scheme debt is due to be paid is the day on which the DSAP payment or SDA payment concerned was paid.
-	(6)	This clause does not apply to a scheme debt that is attributable (in whole or in part) to an error made by the DAA or the Corporation, where the DSAP payment or SDA payment concerned was received in good faith.
-	(7)	The DSAP scheme or the SDA scheme (as the case may be) must empower the DAA to remit the whole or a part of an amount of penalty payable under this clause.
+	(5)	For the purposes of this clause, the day on which a scheme debt is due to be paid is the day on which the DSAP payment concerned was paid.
+	(6)	This clause does not apply to a scheme debt that is attributable (in whole or in part) to an error made by the DAA or the Corporation, where the DSAP payment concerned was received in good faith.
+	(7)	The DSAP scheme must empower the DAA to remit the whole or a part of an amount of penalty payable under this clause.
 	(8)	A penalty payable under this clause may be recovered by the Commonwealth as a debt to the Commonwealth.
 	(9)	This clause has no effect to the extent (if any) to which it imposes taxation (within the meaning of section 55 of the Constitution).
 
 Division 5—Cancellation of units
 50  Cancellation of units because of the making of a false statement
 	(1)	If:
-	(a)	before a payment right was granted, an entity made a false statement to a person who was exercising powers, or performing functions, under or in connection with this Part, the DSAP scheme or the SDA scheme; and
+	(a)	before a payment right was granted, an entity made a false statement to a person who was exercising powers, or performing functions, under or in connection with this Part or the DSAP scheme; and
 	(b)	either:
 	(i)	the payment right was granted because of the making of the false statement; or
 	(ii)	as a result of the making of the false statement, the face value of the payment right exceeds the proper amount of the face value;
-the DSAP scheme or the SDA scheme (as the case may be) must authorise the DAA to:
+the DSAP scheme must authorise the DAA to:
 	(c)	if subparagraph (b)(i) applies—cancel all of the units in the payment right; or
 	(d)	if subparagraph (b)(ii) applies—cancel the number of units in the payment right worked out by:
 	(i)	dividing the number of whole dollars in the amount of the excess by 32; and
 	(ii)	if the result of the division is not a whole number—rounding down the result to the nearest whole number (treating zero as a whole number).
-	(2)	If a unit is cancelled as authorised under this clause, this Schedule and the DSAP scheme or the SDA scheme (as the case may be) have, and are taken always to have had, effect as if the unit was never in existence.
+	(2)	If a unit is cancelled as authorised under this clause, this Schedule and the DSAP scheme have, and are taken always to have had, effect as if the unit was never in existence.
 Note:	This may result in an overpayment. For recovery of overpayments, see Division 4.
 	(3)	In this clause:
 false statement means a statement (whether made orally, in a document or in any other way) that:
@@ -2559,39 +2341,30 @@ false statement means a statement (whether made orally, in a document or in any 
 	(c)	either:
 	(i)	the payment right would not have been granted if the DAA had not made that error; or
 	(ii)	the face value of the payment right exceeds the amount that would have been the amount of the face value if the DAA had not made that error;
-the DSAP scheme or the SDA scheme (as the case may be) must authorise the DAA to:
+the DSAP scheme must authorise the DAA to:
 	(d)	if subparagraph (c)(i) applies—cancel all of the units in the payment right; or
 	(e)	if subparagraph (c)(ii) applies—cancel the number of units in the payment right worked out by:
 	(i)	dividing the number of whole dollars in the amount of the excess by 32; and
 	(ii)	if the result of the division is not a whole number—rounding down the result to the nearest whole number (treating zero as a whole number).
-	(2)	The DSAP scheme or the SDA scheme (as the case may be) may provide that the DAA is not to cancel a unit as authorised under this clause if the DAA is satisfied that the entity, or each of the entities, who received a DSAP payment or an SDA payment in respect of the unit acted in good faith.
-	(3)	If a unit is cancelled as authorised under this clause, this Schedule and the DSAP scheme or the SDA scheme (as the case may be) have, and are taken always to have had, effect as if the unit was never in existence.
+	(2)	The DSAP scheme may provide that the DAA is not to cancel a unit as authorised under this clause if the DAA is satisfied that the entity, or each of the entities, who received a DSAP payment in respect of the unit acted in good faith.
+	(3)	If a unit is cancelled as authorised under this clause, this Schedule and the DSAP scheme have, and are taken always to have had, effect as if the unit was never in existence.
 Note:	This may result in an overpayment. For recovery of overpayments, see Division 4.
 52  Cancellation of unit because of a breach of an undertaking to assign the unit
-DSAP scheme
 	(1)	If:
-	(a)	an entity (the first entity) has given the DAA an undertaking to assign a unit in a payment right under the DSAP scheme to an eligible entity as mentioned in paragraph 21(4)(b); and
+	(a)	an entity (the first entity) has given the DAA an undertaking to assign a unit to an eligible entity as mentioned in paragraph 21(4)(b); and
 	(b)	the first entity breaches the undertaking; and
 	(c)	the DAA gives the first entity a written notice directing the first entity to comply with the undertaking before the end of the period of 60 days beginning when the direction is given; and
 	(d)	the first entity contravenes the direction;
 the DSAP scheme must authorise the DAA to cancel the unit.
-	(1A)	For the purposes of subclause (1), eligible entity has the same meaning as in clause 21.
-SDA scheme
-	(1B)	If:
-	(a)	an entity (the first entity) has given the DAA an undertaking to assign a unit in a payment right under the SDA scheme to an eligible entity as mentioned in paragraph 37N(3)(b); and
-	(b)	the first entity breaches the undertaking; and
-	(c)	the DAA gives the first entity a written notice directing the first entity to comply with the undertaking before the end of the period of 60 days beginning when the direction is given; and
-	(d)	the first entity contravenes the direction;
-the SDA scheme must authorise the DAA to cancel the unit.
-	(1C)	For the purposes of subclause (1B), eligible entity has the same meaning as in clause 37N.
-When cancellation takes effect
 	(2)	The cancellation of a unit as authorised under this clause takes effect at the end of that 60‑day period.
+	(3)	In this clause:
+eligible entity has the same meaning as in clause 21.
 53  Cancellation of units when a dairy exit payment becomes payable
 	(1)	If:
 	(a)	an entity has been granted a payment right in relation to a dairy farm enterprise; and
 	(b)	a decision is made under the DEP scheme that the entity is qualified for a dairy exit payment in relation to the enterprise; and
 	(c)	immediately before the decision is made, the entity is the registered owner of one or more unencumbered units in the payment right;
-the DSAP scheme or the SDA scheme (as the case may be) must authorise the DAA to cancel those units.
+the DSAP scheme must authorise the DAA to cancel those units.
 	(2)	The cancellation of a unit as authorised under this clause takes effect from the time when the decision is made under the DEP scheme.
 	(3)	A reference in this clause to an unencumbered unit is a reference to a unit in respect of which no charge is registered.
 54  Limit on cancellation or variation
@@ -2603,7 +2376,7 @@ Division 6—Dairy Adjustment Authority
 56  Functions
 		The DAA has the following functions:
 	(a)	such functions as are conferred on the DAA by or under:
-	(i)	the DSAP scheme or the SDA scheme; or
+	(i)	the DSAP scheme; or
 	(ii)	this Schedule; or
 	(iii)	any other law of the Commonwealth;
 	(b)	to do anything incidental to or conducive to the performance of any of the above functions.
@@ -2772,11 +2545,11 @@ all or any of the DAA’s functions and powers.
 	(b)	the Secretary was the sole member of the DAA throughout the financial year.
 
 Division 7—Miscellaneous
-75  DSAP and SDA payments taken to be subsidies for the purposes of section 15‑10 of the Income Tax Assessment Act 1997
-		To avoid doubt, for the purposes of section 15‑10 of the Income Tax Assessment Act 1997, a DSAP payment or an SDA payment received by an entity is taken to be a subsidy received by the entity in relation to carrying on a business.
+75  DSAP payments taken to be subsidies for the purposes of section 15‑10 of the Income Tax Assessment Act 1997
+		To avoid doubt, for the purposes of section 15‑10 of the Income Tax Assessment Act 1997, a DSAP payment received by an entity is taken to be a subsidy received by the entity in relation to carrying on a business.
 Note:	Section 15‑10 of the Income Tax Assessment Act 1997 provides that an entity’s assessable income includes a subsidy received in relation to carrying on a business.
 76  Review in 2002‑2003
-	(1)	During the 2002‑2003 financial year, the DAA must conduct a review of, and make recommendations to the Minister about, the adequacy of collections of dairy adjustment levy to fund DSAP payments, SDA payments and dairy exit payments.
+	(1)	During the 2002‑2003 financial year, the DAA must conduct a review of, and make recommendations to the Minister about, the adequacy of collections of dairy adjustment levy to fund DSAP payments and dairy exit payments.
 	(2)	The DAA must prepare a report of a review and recommendations under subclause (1), and give the report to the Minister.
 	(3)	The Minister must cause copies of a report to be laid before each House of the Parliament within 15 sittings days of that House after the completion of the preparation of the report.
 	(4)	In this clause:
@@ -2791,8 +2564,8 @@ Part 3—Dairy Structural Adjustment Fund
 78  Money to be paid into the Dairy Structural Adjustment Fund
 		The following money is to be credited to the Dairy Structural Adjustment Fund:
 	(a)	money paid to the Corporation under clause 83 (which deals with dairy adjustment levy);
-	(b)	money paid to the Corporation under clause 84 (which deals with fees under the DSAP scheme or the SDA scheme);
-	(c)	money paid to the Corporation under clause 85 (which deals with civil penalties relating to the DSAP scheme or the SDA scheme);
+	(b)	money paid to the Corporation under clause 84 (which deals with fees under the DSAP scheme);
+	(c)	money paid to the Corporation under clause 85 (which deals with civil penalties relating to the DSAP scheme);
 	(d)	money paid to the Corporation by way of the recovery of a scheme debt (within the meaning of clause 44);
 	(e)	money paid to the Corporation under clause 48 (which deals with the collection of money from a person who owes money to an entity that has a scheme debt);
 	(f)	money paid to the Corporation under subsection 56(3) of the Farm Household Support Act 1992 (which deals with the recovery of overpaid dairy exit payments);
@@ -2802,9 +2575,8 @@ Part 3—Dairy Structural Adjustment Fund
 79  Application of the Dairy Structural Adjustment Fund
 		Money standing to the credit of the Dairy Structural Adjustment Fund is to be expended:
 	(a)	in making DSAP payments; and
-	(aa)	in making SDA payments; and
 	(b)	in making dairy exit payments; and
-	(c)	in reimbursing or meeting the expenses of the Commonwealth or the Corporation incurred (whether before or after the commencement of this clause) in relation to the development and implementation of the measures that from time to time form part of the Dairy Industry Adjustment Package; and
+	(c)	in reimbursing or meeting the expenses of the Commonwealth or the Corporation incurred (whether before or after the commencement of this clause) in relation to the development and implementation of the measures known as the Dairy Industry Adjustment Package (including expenses in relation to the Dairy Adjustment Panel); and
 	(d)	in reimbursing an expense incurred by the Council (whether before or after the commencement of this clause) in relation to consultation connected with the development and implementation of the measures known as the Dairy Industry Adjustment Package, where the Minister consents to the reimbursement; and
 	(e)	in meeting the expenses of the Commonwealth incurred in relation to:
 	(i)	the collection and recovery of amounts referred to in clause 83 (which deals with dairy adjustment levy); or
@@ -2813,7 +2585,7 @@ Part 3—Dairy Structural Adjustment Fund
 	(g)	in meeting the expenses of the Corporation incurred in making available to the DAA resources and facilities as mentioned in subclause 70(1); and
 	(h)	in meeting the expenses incurred by the Commonwealth in relation to the engagement of persons under clause 71 (which deals with consultants to the DAA); and
 	(i)	in meeting any other expenses incurred by the Commonwealth in relation to:
-	(i)	the administration of this Schedule, the DSAP scheme or the SDA scheme; or
+	(i)	the administration of this Schedule or the DSAP scheme; or
 	(ii)	the performance of the functions, or the exercise of the powers, of the DAA; and
 	(j)	in meeting the expenses incurred by the Commonwealth in relation to:
 	(i)	the administration of the DEP scheme; or
@@ -2831,7 +2603,7 @@ Part 3—Dairy Structural Adjustment Fund
 Note:	For the Dairy Regional Assistance Programme, see clause 86.
 80  Solvency of the Dairy Structural Adjustment Fund
 		The Corporation and the Minister must take all reasonable steps to ensure that there is sufficient money in the Dairy Structural Adjustment Fund to:
-	(a)	make DSAP payments, SDA payments and dairy exit payments as those payments fall due; and
+	(a)	make DSAP payments and dairy exit payments as those payments fall due; and
 	(b)	meet any other calls on that Fund as those calls fall due.
 81  Borrowing for the purposes of the Dairy Structural Adjustment Fund
 	(1)	To avoid doubt, the Corporation may borrow money under section 75 for the purpose of making payments for which money of the Dairy Structural Adjustment Fund may be expended.
@@ -2846,10 +2618,10 @@ Note:	For the Dairy Regional Assistance Programme, see clause 86.
 	(3)	The Consolidated Revenue Fund is appropriated for the purposes of subclauses (1) and (2).
 	(4)	In this clause:
 dairy adjustment levy means levy within the meaning of Part 4.
-84  Payment of DSAP and SDA scheme fees to the Corporation
-	(1)	The Commonwealth must pay to the Corporation an amount equal to each amount received by the Commonwealth by way of a fee under the DSAP scheme or the SDA scheme.
+84  Payment of DSAP scheme fees to the Corporation
+	(1)	The Commonwealth must pay to the Corporation an amount equal to each amount received by the Commonwealth by way of a fee under the DSAP scheme.
 	(2)	The Consolidated Revenue Fund is appropriated for the purposes of subclause (1).
-85  Payment of penalties under the DSAP scheme and SDA scheme to the Corporation
+85  Payment of penalties under the DSAP scheme to the Corporation
 	(1)	The Commonwealth must pay to the Corporation an amount equal to each amount received by the Commonwealth by way of a penalty under clause 49.
 	(2)	The Consolidated Revenue Fund is appropriated for the purposes of subclause (1).
 86  Dairy Regional Assistance Programme
@@ -2859,10 +2631,15 @@ dairy adjustment levy means levy within the meaning of Part 4.
 	(b)	the amounts of payments; and
 	(c)	the timing of payments; and
 	(d)	the terms and conditions of payments.
+	(3)	Payments under the Dairy Regional Assistance Programme may only be made during the 3‑year period beginning on 1 July 2000.
 	(4)	The total amount paid out of the Dairy Structural Adjustment Fund:
 	(a)	in making payments under the Dairy Regional Assistance Programme; and
 	(b)	in meeting the expenses of the Commonwealth incurred in relation to the administration of the Dairy Regional Assistance Programme;
-must not exceed $65 million.
+must not exceed $45 million.
+	(5)	The total amount paid out of the Dairy Structural Adjustment Fund in a particular financial year:
+	(a)	in making payments under the Dairy Regional Assistance Programme; and
+	(b)	in meeting the expenses of the Commonwealth incurred in relation to the administration of the Dairy Regional Assistance Programme;
+must not exceed $15 million.
 	(6)	In this clause:
 Regional Assistance Programme means the Programme administered by the Commonwealth and known as the Regional Assistance Programme.
 
@@ -2944,7 +2721,6 @@ Division 2—Liability for levy
 	(1)	The Minister may, by notice published in the Gazette, declare that the 28th day after the day of the publication of the notice is the levy termination day for the purposes of this clause.
 	(2)	The Minister must not make a declaration under subclause (1) unless the Minister is satisfied that there is no reasonable likelihood of money being paid out of the Dairy Structural Adjustment Fund, at any time after that 28th day, for any of the following purposes:
 	(a)	making DSAP payments;
-	(aa)	making SDA payments;
 	(b)	making dairy exit payments;
 	(c)	repaying money borrowed by the Corporation for the purpose of making payments for which money in the Dairy Structural Adjustment Fund may be expanded;
 	(d)	meeting the expenses of the Corporation incurred in borrowing money for the purposes of making payments for which money in the Dairy Structural Adjustment Fund may be expanded.
@@ -3501,8 +3277,8 @@ Alternative verdicts
 	(i)	is false or misleading; or
 	(ii)	omits any matter or thing without which the information is misleading; and
 	(c)	either of the following subparagraphs applies:
-	(i)	the information is given to a person who is exercising powers or performing functions under, or in connection with, the DSAP scheme, the SDA scheme or this Schedule;
-	(ii)	the information is given in compliance or purported compliance with the DSAP scheme, the SDA scheme or this Schedule.
+	(i)	the information is given to a person who is exercising powers or performing functions under, or in connection with, the DSAP scheme or this Schedule;
+	(ii)	the information is given in compliance or purported compliance with the DSAP scheme or this Schedule.
 Penalty:	Imprisonment for 12 months.
 Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 	(2)	Subclause (1) does not apply as a result of subparagraph (1)(b)(i) if the information is not false or misleading in a material particular.
@@ -3513,7 +3289,7 @@ Note:	A defendant bears an evidential burden in relation to the matter in subcla
 	(1)	A person is guilty of an offence if:
 	(a)	the person produces a document to another person; and
 	(b)	the person does so knowing that the document is false or misleading; and
-	(c)	the document is produced in compliance or purported compliance with the DSAP scheme, the SDA scheme or this Schedule.
+	(c)	the document is produced in compliance or purported compliance with the DSAP scheme or this Schedule.
 Penalty:	Imprisonment for 12 months.
 Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 	(2)	Subclause (1) does not apply if the document is not false or misleading in a material particular.
@@ -3680,11 +3456,6 @@ Corporations (Repeals, Consequentials and Transitionals) Act 2001
 28 June 2001
 Ss. 4‑14 and Schedule 3 (item 166): 15 July 2001 (see Gazette 2001, No. S285) (m)
 Ss. 4‑14
-Dairy Produce Legislation Amendment (Supplementary Assistance) Act 2001
-94, 2001
-20 July 2001
-20 July 2001
-—
 (a)	The Dairy Produce Act 1986 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986, subsection 2(4) of which provides as follows:
 	(4)	The amendment of paragraph 36(3)(d) of the Dairy Produce Act 1986 made by this Act shall be deemed to have come into operation on 1 July 1986.
 (b)	The Dairy Produce Act 1986 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1987, subsection 2(1) of which provides as follows:
@@ -3941,7 +3712,7 @@ am. No. 137, 2000
 S. 118	
 am. No. 162, 1987; No. 26, 1991; No. 94, 1993; No. 45, 1995; No. 4, 1999
 S. 119	
-am. No. 16, 1993; Nos. 22 and 94, 2000
+am. No. 16, 1993; No. 22, 2000
 S. 120	
 am. No. 22, 2000
 S. 122	
@@ -3956,128 +3727,15 @@ S. 125A
 ad. No. 22, 2000
 S. 126	
 am. No. 26, 1991
-Schedule 1
-
 Heading to Schedule	
 rep. No. 22, 2000
 Heading to Schedule 1	
 ad. No. 22, 2000
 Schedule	
-ad. No. 39, 1991
-C. 1	
-ad. No. 39, 1991
-
-am. No. 146, 1999
-Schedule 2
-
+ad. No. 39, 1991; No. 146, 1999
 Schedule 2	
 ad. No. 22, 2000
-Part 1
 
-Cc. 1, 2	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-Part 2
-
-Heading to Part 2	
-rs. No. 94, 2001
-Division 1A
-
-Div. 1A of Part 2	 (cc. 37A‑37D, 37DA, 37E‑37Z, 37ZA, 37ZB)
-ad. No. 94, 2001
-Cc. 37A‑37D	
-ad. No. 94, 2001
-C. 37DA	
-ad. No. 94, 2001
-Cc. 37E‑37Z	
-ad. No. 94, 2001
-Cc. 37ZA, 37ZB	
-ad. No. 94, 2001
-Division 2
-
-C. 38	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-Division 3
-
-C. 43	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-Division 4
-
-C. 44	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-C. 47	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-C. 49	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-Division 5
-
-Cc. 50, 51	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-Subhead to c. 52(1)	
-ad. No. 94, 2001
-Cc. 52, 53	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-Division 6
-
-C. 56	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-Division 7
-
-Heading to c. 75	
-am. No. 94, 2001
-Cc. 75, 76	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-Part 3
-
-Cc. 78‑80	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-Heading to c. 84	
-am. No. 94, 2001
-C. 84	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-Heading to c. 85	
-am. No. 94, 2001
-C. 86	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-Part 4
-
-Division 2
-
-C. 94	
-ad. No. 22, 2000
-
-am. No. 94, 2001
-Part 5
-
-Cc. 135, 136	
-am. No. 22, 2000
-
-am. No. 94, 2001
 Table A
 Application, saving or transitional provisions
 Dairy Industry Adjustment Act 2000 (No. 22, 2000)
