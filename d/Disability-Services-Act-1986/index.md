@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00015/Html/5d3a23b0-be54-4432-a6a5-967a1140f2be_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00953/Html/f5b1c8a5-7015-479c-a663-18f9d6456424_files/image001.gif)
 
 # Disability Services Act 1986
 
 **Act No. 129 of 1986 as amended**
 
-This compilation was prepared on 8 January 2013
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 14 December 2011
+ taking into account amendments up to Act No. 145 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -441,8 +442,6 @@ whichever first occurs.
 
                     <a name="accommod-support-servic"></a>**_accommodation support services_** means services to assist persons with disabilities to develop or maintain suitable residential arrangements in the community and, without limiting the generality of the foregoing, includes attendant care services, namely, services to persons with disabilities to assist them with personal administration, transport, mobility, transfers, personal hygiene, bathing, grooming, dressing, eating and drinking, and similar personal activities.
 
-                    <a name="acnc-type-entiti"></a>**_ACNC type of entity_** means an entity that meets the description of a type of entity in column 1 of the table in subsection 25‑5(5) of the _Australian Charities and Not‑for‑profits Commission Act 2012_.
-
                     <a name="advocaci-servic"></a>**_advocacy service_** means:
 
                      (a)  a service that seeks to support persons with disabilities to exercise their rights and freedoms, being rights and freedoms recognised or declared by the Disabilities Convention, through:
@@ -481,11 +480,7 @@ Note:          The text of the Convention is set out in Austra
 
                     <a name="elig-organis"></a>**_eligible organisation_** means:
 
-                     (a)  a body corporate that is:
-
-                              (i)  registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_; or
-
-                             (ii)  a not‑for‑profit entity that is not an ACNC type of entity;
+                     (a)  a body corporate (other than a body corporate that is carried on for the purpose of profit or gain to its individual members);
 
                      (b)  a local governing body established by or under a law of a State or Territory;
 
@@ -929,7 +924,7 @@ whether or not the grant is still being received at the relevant time.
 
 ### Division 3—Grants for advocacy services
 
-##### <a id="13"></a>13  Financial assistance for advocacy services
+##### <a id="13"></a>13  Financial assistance for advocacy services
 
              (1)  The Minister may approve:
 
@@ -1627,7 +1622,7 @@ a person may be required:
 
 ##### <a id="30"></a>30  Time limit for institution of prosecutions
 
-                   Proceedings for an offence against subsection 28(2) may not be commenced more than 3 years after the commission of the offence.
+                   Proceedings for an offence against subsection 28(2) may not be commenced more than 3 years after the commission of the offence.
 
 ## Part IV—Miscellaneous
 
@@ -1701,11 +1696,11 @@ The _Disability Services Act 1986_ was modified by the A.C.T. Self‑Government 
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -2178,24 +2173,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 4 (items 
 24–26) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 177, 178): 3 Dec 2012 ( <i>see</i>s. 2(1)) 
-Schedule 4 (item 15): \[ <i>see (q)</i>and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Disability Services Act 1986_ was amended by Part 3 (sections 11 and 12) only of the _Community Services and Health Legislation Amendment Act (No. 2) 1990_, subsection 2(1) of which provides as follows:
@@ -2422,83 +2399,12 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
   </td>
 </tr></table>
 
-_(q)_     Subsection 2(1) (item 14) of the _Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      14\. Schedule 4, Part 2, Division 2
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) immediately after the commencement of the provision(s) covered by
-        table item 3; and
-    </div>
-    <div>
-      (b) immediately after the commencement of Schedule 1 to the
-        <i>Tax Laws Amendment (Special Conditions for Not‑for‑profit Concessions)
-          Act 2012</i>.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all unless both of the events
-        mentioned in paragraphs (a) and (b) occur.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 2]
-    </div>
-    <div>
-      (paragraph (b) applies)
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -2673,7 +2579,7 @@ _(q)_     Subsection 2(1) (item 14) of the _Australian Charities and N
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 80, 1988; No. 141, 1990; No. 88, 1992; No. 28, 2002; No. 108, 2006; No. 145, 2011; No. 169, 2012</div>
+    <div>am. No. 80, 1988; No. 141, 1990; No. 88, 1992; No. 28, 2002; No. 108, 2006; No. 145, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3399,20 +3305,6 @@ Part II</div>
     <div>rs. No. 65, 2007</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012 (No. 169, 2012)_
-
-The following amendment commences immediately after the commencement of Schedule 1 to the _Tax Laws Amendment (Special Conditions for Not-for-profit Concessions) Act 2012_ (still a Bill). However, the amendment may not commence, _see_ subsection 2(1) (item 14):
-
-## Schedule 4
-
-## 15  Section 7 (subparagraph (a)(ii) of the definition of _eligible organisation_)
-
-After “not‑for‑profit entity”, insert “(within the meaning of the _Income Tax Assessment Act 1997_)”.
-
-As at 8 January 2013 the amendment is not incorporated in this compilation.
 
 ## Table A
 
