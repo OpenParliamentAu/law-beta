@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00799/Html/f90e3c5f-482e-4e1f-8490-12f084fd9abe_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00246/Html/700fe0a6-761e-4ab9-abe4-290faf12cf4f_files/image001.gif)
 
 # Port Statistics Act 1977
 
 **Act No. 125 of 1977 as amended**
 
-This compilation was prepared on 28 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -239,7 +239,7 @@ of Assent</div>
     <div>5 Dec 1977 ( <i>see</i>s. 2 and <i>Gazette</i>1977, No. S273)</div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -273,7 +273,7 @@ of Assent</div>
     <div></div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -344,74 +344,59 @@ of Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>143, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>2 Oct 2001</div>
-  </td>
-  <td colspan="2">
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 413–418): 4 July 2008</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 110): 19 Apr 2011</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 911) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
+<thead>
+  <tr>
+    <td>
+      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>143, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>2 Oct 2001</div>
+    </td>
+    <td colspan="2">
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2008</div>
+    </td>
+    <td>
+      <div>73, 2008</div>
+    </td>
+    <td>
+      <div>3 July 2008</div>
+    </td>
+    <td>
+      <div>Schedule 4 (items 413–418): 4 July 2008</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2011</div>
+    </td>
+    <td>
+      <div>5, 2011</div>
+    </td>
+    <td>
+      <div>22 Mar 2011</div>
+    </td>
+    <td>
+      <div>Schedule 7 (item 110): 19 Apr 2011</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+</thead>
 <tr height="0">
   <td></td>
   <td></td>
@@ -441,8 +426,8 @@ _(d)_     The _Port Statistics Act 1977_ was amended by section 3 only
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -509,20 +494,6 @@ _(d)_     The _Port Statistics Act 1977_ was amended by section 3 only
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 911  Section 3 (definition of _document_)
-
-Repeal the definition.
-
-As at 28 September 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -534,21 +505,5 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
