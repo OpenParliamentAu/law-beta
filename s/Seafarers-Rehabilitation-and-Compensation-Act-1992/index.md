@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image001.gif)
 
 # Seafarers Rehabilitation and Compensation Act 1992
 
 **Act No. 234 of 1992 as amended**
 
-This compilation was prepared on 22 March 2007
- taking into account amendments up to Act No. 15 of 2007
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 38 of 2005 and SLI 2006 No. 50
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -358,17 +360,18 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act relating to rehabilitation and workers’ compensation for seafarers and certain other persons, and for related purposes
 
 ## Part 1—Preliminary
 
 ### Division 1—Short title and commencement
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span> 
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt">[_see_ Note 1]</span> 
 
                    This Act may be cited as the _Seafarers Rehabilitation and Compensation Act 1992_.
 
-##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span> 
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt">[_see_ Note 1]</span> 
 
              (1)  Sections 1, 2 and 3 and Part 8 commence on the day on which this Act receives the Royal Assent.
 
@@ -1078,7 +1081,7 @@ compensation is payable for the cost of the medical treatment, of such amount as
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image002.gif)
 
 where:
 
@@ -1192,7 +1195,7 @@ from the date of the employee’s death or the date of the birth of the child, w
 
              (2)  Subject to subsection (3) and this Part (other than this section), compensation for the injury is payable to the employee, for each of the first 45 weeks (whether consecutive or otherwise) during which the employee is incapacitated, of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image003.gif)
 
 where:
 
@@ -1300,7 +1303,7 @@ subsection (10) applies to one of those children and subsection (11) applies
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image004.gif)
 
 here:
 
@@ -1330,7 +1333,7 @@ here:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image005.gif)
 
 where:
 
@@ -1346,11 +1349,11 @@ where:
 
              (4)  In this section:
 
-                    <a name="approved-deposit-fund"></a>**_approved deposit fund_** has the same meaning as in the _Income Tax Assessment Act 1997_.
+                    <a name="approved-deposit-fund"></a>**_approved deposit fund_** has the same meaning as in Subdivision AA of Division 2 of Part III of the _Income Tax Assessment Act 1936_.
 
-                    <a name="roll"></a>**_rolled-over_** means paid as a roll-over superannuation benefit (within the meaning of the _Income Tax Assessment Act 1997_).
+                    <a name="roll"></a>**_rolled-over_** has the same meaning as in Subdivision AA of Division 2 of Part III of the _Income Tax Assessment Act 1936_.
 
-                    <a name="superannu-fund"></a>**_superannuation fund_** has the same meaning as in Subdivision AA of Division 2 of Part III of the _Income Tax Assessment Act 1936_ (as in force just before the commencement of Schedule 1 to the _Superannuation Legislation Amendment (Simplification) Act 2007_).
+                    <a name="superannu-fund"></a>**_superannuation fund_** has the same meaning as in Subdivision AA of Division 2 of Part III of the _Income Tax Assessment Act 1936_.
 
 ##### <a id="35"></a>35  Compensation for injuries resulting in incapacity where employee rolled-over part of a lump sum benefit
 
@@ -1368,7 +1371,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image006.gif)
 
 where:
 
@@ -1408,7 +1411,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image007.gif)
 
 where:
 
@@ -1514,7 +1517,7 @@ the employer must, on the written request of the employee made at any time befor
 
              (2)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image008.gif)
 
 where:
 
@@ -1622,7 +1625,7 @@ the employer must make a determination that any liability to make further paymen
 
              (2)  The amount of the lump sum is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image009.gif)
 
 where:
 
@@ -1710,7 +1713,7 @@ compensation is payable to the employee under this section during the period of 
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image002.gif)
 
 where:
 
@@ -1762,7 +1765,7 @@ make arrangements with an approved program provider for the provision of an appr
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image002.gif)
 
 where:
 
@@ -2206,7 +2209,7 @@ the employer to whom the notice of claim is given may require the employee to un
 
           (4B)  If the journey referred to in paragraph (4)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image002.gif)
 
 where:
 
@@ -2280,7 +2283,7 @@ Note:          A defendant bears an evidential burden in relat
 
                    Legal professional privilege does not apply in relation to a medical report in respect of an injury in relation to which an employee is claiming compensation under this Act.
 
-##### <a id="71"></a>71  Bankruptcy etc. of actual employer
+##### <a id="71"></a>71  Bankruptcy etc. of actual employer
 
              (1)  If:
 
@@ -2524,7 +2527,7 @@ the employer may, by written notice given to the claimant, ask the claimant to g
 
              (5)  If the journey referred to in paragraph (3)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image002.gif)
 
 where:
 
@@ -3022,7 +3025,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  during a vacancy in the office of Chairperson or Deputy Chairperson, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period or during all periods when the Chairperson or the Deputy Chairperson is absent from duty or from   Australia or is, for any other reason, unable to perform the duties of the office.
+                     (b)  during any period or during all periods when the Chairperson or the Deputy Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
 
              (2)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
 
@@ -3320,7 +3323,7 @@ the recoverable amount may be deducted from the amount so payable.
 
 the compensation payable under this Act to, or for the benefit of, that person for the injury, loss or damage is the amount (if any) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00109/Html/SeafarRehabComp92_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00070/Html/0E6A76A2055A68D9CA25713E001C41D9/$FILE/image010.gif)
 
 where:
 
@@ -3430,6 +3433,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the_ Seafarers Rehabilitation and Compensation Act 1992_
 
 ### Note 1
@@ -3445,11 +3449,11 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="0%">
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -3462,11 +3466,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -3476,378 +3482,368 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Seafarers Rehabilitation and Compensation Act 1992</div>
-  </td>
-  <td>
-    <div>234, 1992</div>
-  </td>
-  <td>
-    <div>24 Dec 1992</div>
-  </td>
-  <td>
-    <div>Ss. 1–3 and Part 8 (ss. 103–125): Royal Assent 
-Remainder: 24 June 1993</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act (No. 2) 1993</div>
-  </td>
-  <td>
-    <div>5, 1994</div>
-  </td>
-  <td>
-    <div>18 Jan 1994</div>
-  </td>
-  <td>
-    <div>Schedule (items 72–110, 113): Royal Assent <i>(a)</i> 
-Schedule (items 111, 112): 24 June 1993 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>Ss. 7–9 
-S. 2(4) (am. by 43, 1996, Sch. 3 \[item 123])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 123): 18 Jan 1994 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Occupational Health and Safety (Maritime Industry) Consequential Amendments Act 1993</div>
-  </td>
-  <td>
-    <div>11, 1994</div>
-  </td>
-  <td>
-    <div>18 Jan 1994</div>
-  </td>
-  <td>
-    <div>21 Feb 1994 ( <i>see</i>s. 2 and <i>Gazette</i>1994, No. S48)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Transport Legislation Amendment Act (No. 3) 1995</div>
-  </td>
-  <td>
-    <div>174, 1995</div>
-  </td>
-  <td>
-    <div>16 Dec 1995</div>
-  </td>
-  <td>
-    <div>S. 4: 1 July 1995 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
-  </td>
-  <td>
-    <div>60, 1996</div>
-  </td>
-  <td>
-    <div>25 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 19 (items 43, 44): Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 2(2), (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
-  </td>
-  <td>
-    <div>77, 1996</div>
-  </td>
-  <td>
-    <div>19 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 2): <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Marine Personnel Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>10, 1997</div>
-  </td>
-  <td>
-    <div>8 Mar 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–74, 
+<tbody>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>Seafarers Rehabilitation and Compensation Act 1992</div>
+    </td>
+    <td>
+      <div>234, 1992</div>
+    </td>
+    <td>
+      <div>24 Dec 1992</div>
+    </td>
+    <td>
+      <div>Ss. 1–3 and Part 8 (ss. 103–125): Royal Assent 
+Remainder: 24 June 1993 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>Transport and Communications Legislation Amendment Act (No. 2) 1993</div>
+    </td>
+    <td>
+      <div>5, 1994</div>
+    </td>
+    <td>
+      <div>18 Jan 1994</div>
+    </td>
+    <td>
+      <div>Schedule (items 72–110, 113): Royal Assent <i>(a)</i> 
+Schedule (items 111, 112): 24 June 1993 <i>(a)</i> 
+</div>
+    </td>
+    <td>
+      <div>Ss. 7–9 
+S. 2(4) (am. by 43, 1996, Sch. 3 \[item 123]) 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 3 (item 123): 18 Jan 1994 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>Occupational Health and Safety (Maritime Industry) Consequential Amendments Act 1993</div>
+    </td>
+    <td>
+      <div>11, 1994</div>
+    </td>
+    <td>
+      <div>18 Jan 1994</div>
+    </td>
+    <td>
+      <div>21 Feb 1994 ( <i>see</i>s. 2 and <i>Gazette</i>1994, No. S48)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>Transport Legislation Amendment Act (No. 3) 1995</div>
+    </td>
+    <td>
+      <div>174, 1995</div>
+    </td>
+    <td>
+      <div>16 Dec 1995</div>
+    </td>
+    <td>
+      <div>S. 4: 1 July 1995 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
+    </td>
+    <td>
+      <div>60, 1996</div>
+    </td>
+    <td>
+      <div>25 Nov 1996</div>
+    </td>
+    <td>
+      <div>Schedule 19 (items 43, 44): Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>S. 2(2), (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act (No. 2) 1996</div>
+    </td>
+    <td>
+      <div>77, 1996</div>
+    </td>
+    <td>
+      <div>19 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 1, 2): <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>Marine Personnel Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>10, 1997</div>
+    </td>
+    <td>
+      <div>8 Mar 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–74, 
 76–98): Royal Assent <i>(e)</i> 
-Schedule 1 (item 75): 24 June 1993 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 42, 47, 49, 53, 56, 58, 92, 95) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Assistance for Carers Legislation Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>13, 1999</div>
-  </td>
-  <td>
-    <div>9 Apr 1999</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 72, 73): <i>(f)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 73) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999</div>
-  </td>
-  <td>
-    <div>83, 1999</div>
-  </td>
-  <td>
-    <div>8 July 1999</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 5): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 808): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div>General Insurance Reform Act 2001</div>
-  </td>
-  <td>
-    <div>119, 2001</div>
-  </td>
-  <td>
-    <div>19 Sept 2001</div>
-  </td>
-  <td>
-    <div>Schedules 1–3: 1 July 2002 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>142, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 119–132): 2 Oct 2001 <i>(i)</i></div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Workplace Relations Legislation Amendment Act 2002</div>
-  </td>
-  <td>
-    <div>127, 2002</div>
-  </td>
-  <td>
-    <div>11 Dec 2002</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 4–8, 17): 11 June 2003</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 17) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Administrative Appeals Tribunal Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>38, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 232): 16 May 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Superannuation Legislation Amendment (Simplification) Act 2007</div>
-  </td>
-  <td>
-    <div>15, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 284–286, 406(1)–(3)): <i>(j)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+Schedule 1 (item 75): 24 June 1993 <i>(e)</i> 
+
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 42, 47, 49, 53, 56, 58, 92, 95) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>Assistance for Carers Legislation Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>13, 1999</div>
+    </td>
+    <td>
+      <div>9 Apr 1999</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 72, 73): <i>(f)</i></div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 73) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999</div>
+    </td>
+    <td>
+      <div>83, 1999</div>
+    </td>
+    <td>
+      <div>8 July 1999</div>
+    </td>
+    <td>
+      <div>Schedule 11 (item 5): <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 808): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div>General Insurance Reform Act 2001</div>
+    </td>
+    <td>
+      <div>119, 2001</div>
+    </td>
+    <td>
+      <div>19 Sept 2001</div>
+    </td>
+    <td>
+      <div>Schedules 1–3: 1 July 2002 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>142, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 119–132): 2 Oct 2001 <i>(i)</i></div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>Workplace Relations Legislation Amendment Act 2002</div>
+    </td>
+    <td>
+      <div>127, 2002</div>
+    </td>
+    <td>
+      <div>11 Dec 2002</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 4–8, 17): 11 June 2003</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 17) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>Administrative Appeals Tribunal Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>38, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 232): 16 May 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Seafarers Rehabilitation and Compensation Act 1992_ was amended by the Schedule (items 72–113) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1993_, subsections 2(1) and (10) of which provide as follows:
 
@@ -3905,92 +3901,6 @@ _(i)_ The _Seafarers Rehabilitation and Compensation Act 1992_ was amended by Sc
 
                  (1)   Subject to this section, this Act commences on the day after the day on which it receives the Royal Assent.
 
-_(j)_      Subsection 2(1) (item 2) of the _Superannuation Legislation Amendment (Simplification) Act 2007_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Schedule 1 to the
-        <i>Tax Laws Amendment (Simplified Superannuation) Act 2007</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      15 March 2007
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -4015,808 +3925,805 @@ _(j)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. Nos. 5 and 11, 1994; No. 60, 1996; No. 10, 1997; No. 119, 2001; SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. Nos. 13 and 83, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 20</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20A</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21A</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 29, 30</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997; SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 15, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 48–50</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 56–58</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>rs. No. 5, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 72, 73</div>
-  </td>
-  <td>
-    <div>rs. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73A</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 74</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 76</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>am. No. 60, 1996; SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79</div>
-  </td>
-  <td>
-    <div>rs. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 80</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83A</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 86</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 89</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 90–92</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; No. 10, 1997; No. 142, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 94</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997; No. 142, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 95</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 97</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 102</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 8</div>
-  </td>
-  <td>
-    <div>am. No. 174, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 8</div>
-  </td>
-  <td>
-    <div>am. No. 11, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103</div>
-  </td>
-  <td>
-    <div>am. No. 11, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 104</div>
-  </td>
-  <td>
-    <div>am. No. 11, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 104 
-Renumbered Note 1</div>
-  </td>
-  <td>
-    <div>
-No. 127, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 104</div>
-  </td>
-  <td>
-    <div>ad. No. 127, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 106</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 108</div>
-  </td>
-  <td>
-    <div>rep. No. 174, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 109</div>
-  </td>
-  <td>
-    <div>am. No. 11, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 110, 111</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112</div>
-  </td>
-  <td>
-    <div>am. No. 11, 1994; No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 115</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 117, 118</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 119</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part 8</div>
-  </td>
-  <td>
-    <div>rep. No. 174, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 120–124</div>
-  </td>
-  <td>
-    <div>rep. No. 174, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 125</div>
-  </td>
-  <td>
-    <div>am. No. 127, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 125</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999; No. 127, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 125A</div>
-  </td>
-  <td>
-    <div>ad. No. 174, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 126</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 129</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 130</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; No. 142, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 131</div>
-  </td>
-  <td>
-    <div>am. No. 142, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 137</div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 138</div>
-  </td>
-  <td>
-    <div>rep. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 139A</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 140</div>
-  </td>
-  <td>
-    <div>am. No. 10, 1997; No. 142, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 142</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; No. 10, 1997</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. Nos. 5 and 11, 1994; No. 60, 1996; No. 10, 1997; No. 119, 2001; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994; No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994; No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. Nos. 13 and 83, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994; No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 20</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994; No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994; No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20A</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21A</div>
+    </td>
+    <td>
+      <div>ad. No. 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994; No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 29, 30</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 48–50</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994; No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 53</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 56–58</div>
+    </td>
+    <td>
+      <div>am. No. 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 59</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61</div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 65</div>
+    </td>
+    <td>
+      <div>rs. No. 5, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994; No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 67</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 68</div>
+    </td>
+    <td>
+      <div>am. No. 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 71</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 72, 73</div>
+    </td>
+    <td>
+      <div>rs. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 73A</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 74</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 76</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 78</div>
+    </td>
+    <td>
+      <div>am. No. 60, 1996; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 79</div>
+    </td>
+    <td>
+      <div>rs. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 80</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 83</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 83A</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 86</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 89</div>
+    </td>
+    <td>
+      <div>am. No. 38, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 90–92</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 93</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994; No. 10, 1997; No. 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 94</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997; No. 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 95</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 97</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 98</div>
+    </td>
+    <td>
+      <div>am. No. 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 102</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 8</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 8</div>
+    </td>
+    <td>
+      <div>am. No. 174, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 1 of Part 8</div>
+    </td>
+    <td>
+      <div>am. No. 11, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 103</div>
+    </td>
+    <td>
+      <div>am. No. 11, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 104</div>
+    </td>
+    <td>
+      <div>am. No. 11, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 104 
+Renumbered Note 1 
+</div>
+    </td>
+    <td>
+      <div>
+No. 127, 2002 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 2 to s. 104</div>
+    </td>
+    <td>
+      <div>ad. No. 127, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 106</div>
+    </td>
+    <td>
+      <div>am. No. 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 108</div>
+    </td>
+    <td>
+      <div>rep. No. 174, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 109</div>
+    </td>
+    <td>
+      <div>am. No. 11, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 110, 111</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 112</div>
+    </td>
+    <td>
+      <div>am. No. 11, 1994; No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 115</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 117, 118</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 119</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 3 of Part 8</div>
+    </td>
+    <td>
+      <div>rep. No. 174, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 120–124</div>
+    </td>
+    <td>
+      <div>rep. No. 174, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 125</div>
+    </td>
+    <td>
+      <div>am. No. 127, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 125</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999; No. 127, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 125A</div>
+    </td>
+    <td>
+      <div>ad. No. 174, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 9</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 126</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 129</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 130</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994; No. 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 131</div>
+    </td>
+    <td>
+      <div>am. No. 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 137</div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 138</div>
+    </td>
+    <td>
+      <div>rep. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 139A</div>
+    </td>
+    <td>
+      <div>ad. No. 10, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 140</div>
+    </td>
+    <td>
+      <div>am. No. 10, 1997; No. 142, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 142</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1994; No. 10, 1997</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -4846,7 +4753,7 @@ The amendment made by item 52 applies only to decisions of the Authority given
 
 Despite the repeal and substitution effected by item 55, the repealed section continues to apply in respect of a reconsideration requested before the commencement of that item.
 
-## 58  Application
+## 58  Application
 
 The amendment made by item 57 applies to decisions of the Authority given in respect of claims made after the commencement of that item.
 
@@ -4858,7 +4765,9 @@ A notice duly given before the commencement of item 91 under subsection 126(1)
 
 Despite the repeal effected by item 94, the repealed section continues to apply in respect of an injury suffered by an employee, or in respect of loss of, or damage to, property used by an employee, if the injury, or the loss or damage, happened before the commencement of that item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Assistance for Carers Legislation Amendment Act 1999 (No. 13, 1999)_
 
@@ -4868,7 +4777,9 @@ _Assistance for Carers Legislation Amendment Act 1999 (No. 13, 1999)_
 
 The _Seafarers Rehabilitation and Compensation Act 1992_ has effect on and after 1 July 1999 as if a reference to carer allowance in paragraph 15(4)(b) of that Act included a reference to child disability allowance (within the meaning of the _Social Security Act 1991_).
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 (No. 142, 2001)_
 
@@ -4878,7 +4789,9 @@ _Employment, Workplace Relations and Small Business Legislation Amendment (Appli
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Workplace Relations Legislation Amendment Act 2002 (No. 127, 2002)_
 
@@ -4888,24 +4801,6 @@ _Workplace Relations Legislation Amendment Act 2002 (No. 127, 2002)_
 
 The Governor-General may make regulations providing for matters of a transitional or savings nature arising out of the amendments made by item 2 and items 4 to 16.
 
-* * *
-
-_Superannuation Legislation Amendment (Simplification) Act 2007
- (No. 15, 2007)_
-
-## Schedule 1
-
-## 406  Application
-
-(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
-
-(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
-
-(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
-
-                     (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
-
-                     (b)  Divisions 301 to 307 of that Act.
 
  
 
