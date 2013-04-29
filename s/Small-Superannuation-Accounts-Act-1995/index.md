@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00639/Html/SmallSuperAccounts1995_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00108/Html/SmallSuperAccounts1995_WD02_image001.gif)
 
 # Small Superannuation Accounts Act 1995
 
 **Act No. 52 of 1995 as amended**
 
-This compilation was prepared on 10 December 2008
- taking into account amendments up to Act No. 134 of 2008
+This compilation was prepared on 22 March 2007 
+ taking into account amendments up to Act No. 15 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -398,8 +398,6 @@ deposits.</li>
 
                     <a name="account"></a>**_account_** means a notional account kept in accordance with section 12.
 
-                    <a name="child"></a>**_child_**, of a person, means a child of the person within the meaning of the _Superannuation Industry (Supervision) Act 1993_.
-
                     <a name="compli-superannu-fund"></a>**_complying superannuation fund_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
 Note:          The _Income Tax Assessment Act 1997_ defines **_complying superannuation fund_** by reference to section 45 of the _Superannuation Industry (Supervision) Act 1993_.
@@ -446,11 +444,7 @@ Note 2:       Under section 90, unincorporated associations are tr
 
                     <a name="special-account"></a>**_Special Account_** means the Superannuation Holding Accounts Special Account continued in existence by section 8.
 
-                    <a name="spous"></a>**_spouse_** of a person includes:
-
-                     (a)  another person (whether of the same sex or a different sex) with whom the person is in a relationship that is registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section; and
-
-                     (b)  another person who, although not legally married to the person, lives with the person on a genuine domestic basis in a relationship as a couple.
+                    <a name="spous"></a>**_spouse_**, in relation to a person, includes another person who, although not legally married to the person, lives with the person on a genuine domestic basis as the husband or wife of the person.
 
 Note:          This expression is only used in the definition of **_dependant_**.
 
@@ -720,13 +714,13 @@ the individual’s legal personal representative.</li>
 
 _Refunds of deposits_
 
-<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      Under
+<li class="BoxList" style="margin-left:21.25pt">•      Under Part 8, an
 
-Part 8, an amount standing to the credit of the account may be debited
+amount standing to the credit of the account may be debited from the Special
 
-from the Special Account and paid by the Commonwealth for the purposes of
+Account and paid by the Commonwealth for the purposes of refunding deposits
 
-refunding deposits that were:</li>
+that were:</li>
 
                (a)     accompanied by false or defective deposit forms; or
 
@@ -932,9 +926,9 @@ include certain declarations. </li>
 
 form will not result in the invalidity of the deposit. </li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      A deposit form may deal
+<li class="BoxList" style="margin-left:21.25pt">•      A deposit form may deal with
 
-with multiple payments. </li>
+multiple payments. </li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Deposits are not held on
 
@@ -1332,7 +1326,7 @@ Provisional rate
 
              (3)  Calculate the **_provisional rate_** for the quarter as a percentage (to 4 decimal places) using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2008C00639/Html/SmallSuperAccounts1995_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00108/Html/SmallSuperAccounts1995_WD02_image002.gif)
 
 where:
 
@@ -1356,7 +1350,7 @@ Capped rate
 
              (5)  Calculate the **_capped rate_** as a percentage (to 4 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00639/Html/SmallSuperAccounts1995_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00108/Html/SmallSuperAccounts1995_WD02_image003.gif)
 
 where:
 
@@ -1428,9 +1422,9 @@ Allocation day event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00639/Html/SmallSuperAccounts1995_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00108/Html/SmallSuperAccounts1995_WD02_image004.gif)
 
-                            where:
+                            where:
 
                     <a name="alloc-rate"></a>**_Allocation rate_** means the allocation rate for the quarter; and
 
@@ -1442,7 +1436,7 @@ Withdrawal event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00639/Html/SmallSuperAccounts1995_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00108/Html/SmallSuperAccounts1995_WD02_image005.gif)
 
                             where:
 
@@ -1456,7 +1450,7 @@ Inactive account debit event
 
                      (a)  the rate of accrual is the percentage worked out (to 6 decimal places) using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00639/Html/SmallSuperAccounts1995_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00108/Html/SmallSuperAccounts1995_WD02_image005.gif)
 
                             where:
 
@@ -1572,9 +1566,9 @@ Credit to Unallocated Interest Pool
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      There are 3 types of withdrawals
+<li class="BoxList" style="margin-left:21.25pt">•      There are 3 types of
 
-of account balances: </li>
+withdrawals of account balances: </li>
 
                (a)     transfers of account balances to superannuation funds or RSAs; 
 
@@ -1790,7 +1784,7 @@ Definitions
 
 ### Division 5—Direct withdrawals of account balances by individuals
 
-##### <a id="62"></a>62  Simplified outline
+##### <a id="62"></a>62  Simplified outline
 
                    The following is a simplified outline of this Division: 
 
@@ -1810,11 +1804,11 @@ individual’s account may be withdrawn if the individual is in receipt of
 
 Commonwealth income support payments for a sufficient period.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The balance of an
+<li class="BoxList" style="margin-left:21.25pt">•      The balance of an individual’s
 
-individual’s account may be withdrawn if the individual has retired because of
+account may be withdrawn if the individual has retired because of permanent
 
-permanent disability. </li>
+disability. </li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The balance of an
 
@@ -1878,7 +1872,7 @@ Individual’s account to be debited
 
              (5)  When the payment is made, the individual’s account is debited by the amount of the payment.
 
-##### <a id="64"></a>64  Withdrawal of account balance—receipt of Commonwealth income support payments
+##### <a id="64"></a>64  Withdrawal of account balance—receipt of Commonwealth income support payments
 
 Withdrawal request
 
@@ -2534,9 +2528,9 @@ are treated as if they were persons. </li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      A document given to a
 
-member of the committee of management of an unincorporated association is
+member of the committee of management of an unincorporated association is treated
 
-treated as if it had been given to the unincorporated association. </li>
+as if it had been given to the unincorporated association. </li>
 
 * * *
 
@@ -2974,23 +2968,6 @@ of Assent</div>
   <td>
     <div>Sch. 1 (item 406(1)–(3))</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
-  </td>
-  <td>
-    <div>134, 2008</div>
-  </td>
-  <td>
-    <div>4 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 3–5): 1 July 2008</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 5)</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Small Superannuation Accounts Act 1995_ was amended by Schedule 2 (item 97) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
@@ -3158,7 +3135,7 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 62, 1997; No. 111, 2003; No. 8, 2005; No. 15, 2007; No. 134, 2008</div>
+    <div>am. No. 62, 1997; No. 111, 2003; No. 8, 2005; No. 15, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4114,15 +4091,5 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
                      (b)  Divisions 301 to 307 of that Act.
-
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
-
-## Schedule 4
-
-## 5  Application of amendments of the _Small Superannuation Accounts Act 1995_
-
-The amendments of the _Small Superannuation Accounts Act 1995_ made by this Schedule apply to the 2008-2009 year of income and later years.
 
  
