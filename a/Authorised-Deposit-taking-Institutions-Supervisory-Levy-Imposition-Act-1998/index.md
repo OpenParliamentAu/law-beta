@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00546/Html/AuthDepTakInstSupLevyImpos98_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00571/Html/AuthDepTakInstSupLevyImpos98_WD02_image001.gif)
 
 # Authorised Deposit-taking Institutions Supervisory Levy Imposition Act 1998
 
 **Act No. 51 of 1998 as amended**
 
-This compilation was prepared on 17 October 2008
- taking into account amendments up to Act No. 92 of 2008
+This compilation was prepared on 27 September 2007
+ taking into account amendments up to Act No. 154 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -110,7 +110,7 @@ Note:          The unrestricted percentage is as determined un
 
              (2)  If the levy imposition day for the ADI for the financial year is later than 1 July in the financial year, the amount of levy payable by the ADI for the financial year is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00546/Html/AuthDepTakInstSupLevyImpos98_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00571/Html/AuthDepTakInstSupLevyImpos98_WD02_image002.gif)
 
              (3)  The Treasurer is, by legislative instrument, to determine:
 
@@ -261,23 +261,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>First Home Saver Accounts (Further Provisions) Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>92, 2008</div>
-  </td>
-  <td>
-    <div>30 Sept 2008</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 1): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -326,24 +309,15 @@ of Assent</div>
   <td>
     <div>am. No. 44, 1999; No. 12, 2005</div>
   </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
 </tr></table>
-
-### Note 2
-
-_First Home Saver Accounts (Further Provisions) Amendment Act 2008
- (No. 92, 2008)_
-
-The following amendment commences on 1 July 2009:
-
-## Schedule 3
-
-## 1  After subsection 7(4)
-
-Insert:
-
-          (4A)  An amount determined under paragraph (3)(d) as an ADI’s asset value must exclude an amount equal to the total balances of all FHSAs (within the meaning of the _First Home Saver Accounts Act 2008_) provided by the ADI.
-
-As at 17 October 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
