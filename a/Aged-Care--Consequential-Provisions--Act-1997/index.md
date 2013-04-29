@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2006C00283/Html/3acf389b-42a2-4493-81fa-4ad5a8c62344_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00221/Html/D3E28BCD969ABBE3CA2571630004A789/$FILE/image001.gif)
 
 # Aged Care (Consequential Provisions) Act 1997
 
 **Act No. 114 of 1997 as amended**
 
-This compilation was prepared on 31 May 2006
+This compilation was prepared on 18 April 2006
 
 **\[This Act was amended by Act No. 132 of 1999; Nos. 57 and 73 of 2002; No. 100 of 2005; No. 28 of 2006]**
 
@@ -26,7 +26,7 @@ The amendments made by items 3 and 4 commenced on 1 October 1997]
 
 \[Schedule 12 (item 38) amended item 30 of Schedule 5
 
-Schedule 12 (item 38) commenced immediately after 1 October 1997]
+Schedule 12 (item 38) commenced on 1 October 1997]
 
 **Amendments from Act No. 73 of 2002**
 
@@ -34,34 +34,33 @@ Schedule 12 (item 38) commenced immediately after 1 October 1997]
 
 Schedule 3 (item 2) repealed and substituted item 75 of Schedule 4
 
-Schedule 3 (items 1 and 2) commenced immediately after 1 October 1997]
+Schedule 3 (items 1 and 2) commenced on 1 October 1997]
 
 **Amendments from Act No. 100 of 2005**
 
 \[Schedule 2 (item 1) repealed and substituted heading to item 42 of Schedule 3
 
-Schedule 2 (item 2) added item 42A to Schedule 3
+\[Schedule 2 (item 2) added item 42A to Schedule 3
 
 Schedule 2 (items 1 and 2) commenced immediately after 1 October 1997]
 
 **Amendments from Act No. 28 of 2006**
 
-\[Schedule 2 (items 10–12) amended section 71
+\[Schedule 2 (items 10–12) amends section 71
 
-Schedule 2 (items 10–12) commenced on 31 May 2006]
+\[Schedule 2 (items 10–12) commence on 6 October 2006 unless proclaimed earlier, the amendments have not been incorporated]
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, Canberra
 
-* * *
+
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; BORDER-LEFT: windowtext 1pt solid; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Arrangement of this Act**
 
 This Act has been arranged to reflect the arrangement of the _Aged Care Act 1997_. Both Acts are divided into Chapters which are further divided into Parts. Each Chapter (except for Chapter 1) and Part of this Act contains transitional provisions arising from the corresponding Chapter and Part of the _Aged Care Act 1997_. If there are no transitional provisions for a particular Chapter or Part, a note to this effect is set out below the Chapter or Part heading.
 
-Some Parts in this Act are further divided into Divisions. These Divisions do not correspond to the Divisions in the _Aged Care Act 1997_.
-
-* * *
+Some Parts in this Act are further divided into Divisions. These Divisions do not correspond to the Divisions in the _Aged Care Act 1997_.</div>
 
 # Contents
 
@@ -339,27 +338,41 @@ Some Parts in this Act are further divided into Divisions. These Divisions do no
 
 **Chapter 7—Miscellaneous** 
 
-**Schedule 1—Amendment of the National Health Act 1953** 
+**Schedule 1—Amendment of the National Health Act 1953**
+
+[65GAA](#65GAA). Effect on investigation periods of commencement of the _Aged Care Act 1997_
 
 **Schedule 2—Amendment of the Aged or Disabled Persons Care Act 1954** 
 
-**Schedule 3—Amendment of the Social Security Act 1991** 
+**Schedule 3—Amendment of the Social Security Act 1991**
 
-Part 1—Abolition of residential care allowance                                          103
+Part 1—Abolition of residential care allowance                                                103
 
-Part 2—Rent assistance and related matters                                                 108
+Part 2—Rent assistance and related matters                                                      108
 
-Part 3—Review provisions                                                                                     112
+[102E](#102E).      Application provision—abolition of residential care allowance and amendments relating to rent assistance
 
-Part 4—Other amendments                                                                                    115
+Part 3—Review provisions                                                                                        112
 
-**Schedule 4—Amendment of the Veterans’ Entitlements Act 1986** 
+[102AA](#102AA).  Review of decisions under section 5 of the _Aged Care Income Testing Act 1997_
 
-Part 1—Abolition of residential care allowance                                          117
+[102B](#102B).     Applications for review of decisions made under section 5 of the _Aged Care Income Testing Act 1997_
 
-Part 2—Rent assistance and related matters                                                 122
+[102C](#102C).     Review by SSAT of decisions relating to determinations under section 5 of the _Aged Care Income Testing Act 1997_
 
-Part 3—Other amendments                                                                                    129
+[102D](#102D).     Review by AAT of decisions relating to determinations under section 5 of the _Aged Care Income Testing Act 1997_
+
+Part 4—Other amendments                                                                                       115
+
+**Schedule 4—Amendment of the Veterans’ Entitlements Act 1986**
+
+Part 1—Abolition of residential care allowance                                                117
+
+Part 2—Rent assistance and related matters                                                      122
+
+[5NC](#5NC).      _In care_ definitions
+
+Part 3—Other amendments                                                                                       129
 
 **Schedule 5—Amendment and repeal of other Acts** 
 
@@ -367,9 +380,11 @@ Aboriginal and Torres Strait Islander Commission Act 1989       �
 
 Aged Care Income Testing Act 1997                                                                    130
 
-Freedom of Information Act 1982                                                                        130
+Freedom of Information Act 1982                                                                         130
 
-Health and Other Services (Compensation) Act 1995                                      130
+Health and Other Services (Compensation) Act 1995                                     130
+
+    **Division 2—Nursing home benefit and residential care subsidy** 
 
 Home and Community Care Act 1985                                                                 133
 
@@ -381,9 +396,10 @@ Student and Youth Assistance Act 1973              �
 
  
 
+
 ## An Act to enact transitional provisions, and make consequential amendments, in connection with the enactment of the _Aged Care Act 1997,_ and for other purposes
 
-[_Assented to 7 July 1997_]
+[_Assented to__7 July 1997_]
 
 The Parliament of Australia enacts:
 
@@ -431,7 +447,7 @@ The Parliament of Australia enacts:
 
              (1)  Many of the terms in this Act are defined in the Dictionary in Schedule 1 to the new Act.
 
-             (2)  Most of these terms are identified by an asterisk appearing at the start of the term: as in “* approved provider”. The footnote that goes with the asterisk contains a signpost to the Dictionary.
+             (2)  Most of these terms are identified by an asterisk appearing at the start of the term: as in “<sup>* </sup>approved provider”. The footnote that goes with the asterisk contains a signpost to the Dictionary.
 
              (3)  An asterisk usually identifies the first occurrence of a term in a section, subsection, note or definition. Later occurrences of the term in the same subsection, note or definition are not asterisked.
 
@@ -459,25 +475,25 @@ the application is taken, for the purposes of the new Act, to be an application 
 
 ##### <a id="7"></a>7  Approved operators and proprietors
 
-             (1)  A person who was an approved operator (within the meaning of Part V of the 1953 Act), or the proprietor (within the meaning of the 1953 Act) of an approved nursing home, immediately before the commencement day is taken, for the purposes of the new Act, to be an * approved provider if either of the following applies:
+             (1)  A person who was an approved operator (within the meaning of Part V of the 1953 Act), or the proprietor (within the meaning of the 1953 Act) of an approved nursing home, immediately before the commencement day is taken, for the purposes of the new Act, to be an <sup>* </sup>approved provider if either of the following applies:
 
                      (a)  a Commonwealth benefit (within the meaning of Part V of the 1953 Act) is or was payable to the person in respect of an approved nursing home patient, within the meaning of section 4 of the 1953 Act, for nursing home care received by the patient on the day before the commencement day;
 
                      (b)  the person had been granted a certificate under section 39A of the 1953 Act, and the certificate was in force immediately before the commencement day.
 
-Note:          A person who does not satisfy either paragraph (1)(a) or (b) will need to apply under section 8-2 of the new Act in order to be approved as a * provider of * aged care under that Act.
+Note:          A person who does not satisfy either paragraph (1)(a) or (b) will need to apply under section 8-2 of the new Act in order to be approved as a <sup>* </sup>provider of <sup>* </sup>aged care under that Act.
 
-             (2)  If a person is taken to be an * approved provider under subsection (1):
+             (2)  If a person is taken to be an <sup>* </sup>approved provider under subsection (1):
 
                      (a)  the approval is taken, for the purposes of the new Act, to be limited under paragraph 8-1(2)(c) of the new Act:
 
-                              (i)  to <sup>* </sup>residential care provided through *aged care services that the person was conducting on the day before the commencement day; or
+                              (i)  to <sup>* </sup>residential care provided through<sup> *</sup>aged care services that the person was conducting on the day before the commencement day; or
 
                              (ii)  if paragraph (1)(b) applies—to residential care provided through aged care services proposed to be conducted at premises specified in the certificate granted to the person under section 39A of the 1953 Act; and
 
-                     (b)  the information provided in the application under section 39BA of the 1953 Act is taken, for the purposes of section 9‑1 of the new Act, to have been provided in an application under section 8-2 of the new Act; and
+                     (b)  the information provided in the application under section 39BA of the 1953 Act is taken, for the purposes of section 9-1 of the new Act, to have been provided in an application under section 8-2 of the new Act; and
 
-                     (c)  if the person is not a * corporation on the commencement day—paragraph 10-3(1)(a) of the new Act does not apply to the approval.
+                     (c)  if the person is not a <sup>* </sup>corporation on the commencement day—paragraph 10-3(1)(a) of the new Act does not apply to the approval.
 
 ##### <a id="8"></a>8  Continuation of notice under section 39BB
 
@@ -491,7 +507,7 @@ the original notice is taken to be a notice under subsection 10-3(3) of the new 
 
              (2)  If the person had, as at the commencement day, made a submission under subsection 39BB(2) of the 1953 Act:
 
-                     (a)  the submission is taken to be a submission given to the Secretary within the period referred to in paragraph 10‑3(3)(b) of the new Act; and
+                     (a)  the submission is taken to be a submission given to the Secretary within the period referred to in paragraph 10-3(3)(b) of the new Act; and
 
                      (b)  the notice required by subsection 10-3(5) of the new Act must be given to the approved provider within 28 days after the commencement day.
 
@@ -503,9 +519,9 @@ the original notice is taken to be a notice under subsection 10-3(3) of the new 
 
 then:
 
-                     (c)  the person is taken not to have given a submission to the Secretary within the period referred to in paragraph 10‑3(3)(b) of the new Act; and
+                     (c)  the person is taken not to have given a submission to the Secretary within the period referred to in paragraph 10-3(3)(b) of the new Act; and
 
-                     (d)  the Secretary must give the notice required by subsection 10‑3(5) of the new Act to the person within 28 days of the commencement day.
+                     (d)  the Secretary must give the notice required by subsection 10-3(5) of the new Act to the person within 28 days of the commencement day.
 
              (4)  If:
 
@@ -513,7 +529,7 @@ then:
 
                      (b)  the commencement day occurred not more than 14 days after the original notice was given;
 
-the person is taken to have been invited under paragraph 10‑3(3)(b) of the new Act to make the submission referred to in that paragraph within 28 days of the commencement day.
+the person is taken to have been invited under paragraph 10-3(3)(b) of the new Act to make the submission referred to in that paragraph within 28 days of the commencement day.
 
 ### Division 2—Hostels
 
@@ -529,25 +545,25 @@ the application is taken, for the purposes of the new Act, to be an application 
 
 ##### <a id="10"></a>10  Approved operators
 
-             (1)  An organisation that was an approved operator (within the meaning of section 10AB of the 1954 Act) immediately before the commencement day is taken, for the purposes of the new Act, to be an * approved provider if either of the following applies:
+             (1)  An organisation that was an approved operator (within the meaning of section 10AB of the 1954 Act) immediately before the commencement day is taken, for the purposes of the new Act, to be an <sup>* </sup>approved provider if either of the following applies:
 
                      (a)  financial assistance by way of recurrent subsidy is or was payable to the organisation in respect of the provision by the organisation, on the day before the commencement day, of hostel care services (within the meaning of the 1954 Act) or personal care services (within the meaning of the 1954 Act);
 
                      (b)  the organisation was, immediately before the commencement day, the holder of a certificate under section 9AB of the 1954 Act for financial assistance by way of recurrent subsidy in respect of a hostel (within the meaning of the 1954 Act).
 
-Note:          An organisation that does not satisfy either paragraph (1)(a) or (b) will need to apply under section 8-2 of the new Act in order to be approved as a * provider of * aged care under that Act.
+Note:          An organisation that does not satisfy either paragraph (1)(a) or (b) will need to apply under section 8-2 of the new Act in order to be approved as a <sup>* </sup>provider of <sup>* </sup>aged care under that Act.
 
-             (2)  If an organisation is taken to be an * approved provider under subsection (1):
+             (2)  If an organisation is taken to be an <sup>* </sup>approved provider under subsection (1):
 
                      (a)  the approval is taken, for the purposes of the new Act, to be limited under paragraph 8-1(2)(c) of the new Act:
 
-                              (i)  to <sup>*</sup>residential care provided through *aged care services that the organisation was conducting, or proposed to conduct, on the day before the commencement day; or
+                              (i)  to <sup>*</sup>residential care provided through<sup> *</sup>aged care services that the organisation was conducting, or proposed to conduct, on the day before the commencement day; or
 
                              (ii)  if paragraph (1)(b) applies—to residential care provided through aged care services proposed to be conducted at the hostel specified in the certificate granted to the organisation under section 9AB of the 1954 Act; and
 
-                     (b)  the information provided in the application under section 10AB of the 1954 Act is taken, for the purposes of section 9‑1 of the new Act, to have been provided in an application under section 8-2 of the new Act; and
+                     (b)  the information provided in the application under section 10AB of the 1954 Act is taken, for the purposes of section 9-1 of the new Act, to have been provided in an application under section 8-2 of the new Act; and
 
-                     (c)  if the organisation is not a * corporation on the commencement day _—_ paragraph 10-3(1)(a) of the new Act does not apply to the approval.
+                     (c)  if the organisation is not a <sup>* </sup>corporation on the commencement day _—_ paragraph 10-3(1)(a) of the new Act does not apply to the approval.
 
              (3)  A reference in this section to a certificate under section 9AB of the 1954 Act includes a reference to such a certificate issued by virtue of subsection 9AC(1) of the 1954 Act in connection with an application under that subsection.
 
@@ -563,7 +579,7 @@ the original notice is taken to be a notice under subsection 10-3(3) of the new 
 
              (2)  If the person had, as at the commencement day, made a submission under subsection 10AC(2) of the 1954 Act:
 
-                     (a)  the submission is taken to be a submission given to the Secretary within the period referred to in paragraph 10‑3(3)(b) of the new Act; and
+                     (a)  the submission is taken to be a submission given to the Secretary within the period referred to in paragraph 10-3(3)(b) of the new Act; and
 
                      (b)  the notice required by subsection 10-3(5) of the new Act must be given to the approved provider within 28 days after the commencement day.
 
@@ -575,9 +591,9 @@ the original notice is taken to be a notice under subsection 10-3(3) of the new 
 
 then:
 
-                     (c)  the person is taken not to have given a submission to the Secretary within the period referred to in paragraph 10‑3(3)(b) of the new Act; and
+                     (c)  the person is taken not to have given a submission to the Secretary within the period referred to in paragraph 10-3(3)(b) of the new Act; and
 
-                     (d)  the Secretary must give the notice required by subsection 10‑3(5) of the new Act to the person within 28 days of the commencement day.
+                     (d)  the Secretary must give the notice required by subsection 10-3(5) of the new Act to the person within 28 days of the commencement day.
 
              (4)  If:
 
@@ -585,7 +601,7 @@ then:
 
                      (b)  the commencement day occurred not more than 14 days after the original notice was given;
 
-the person is taken to have been invited under paragraph 10‑3(3)(b) of the new Act to make the submission referred to in that paragraph within 28 days of the commencement day.
+the person is taken to have been invited under paragraph 10-3(3)(b) of the new Act to make the submission referred to in that paragraph within 28 days of the commencement day.
 
 ### Division 3—Community aged care services
 
@@ -607,17 +623,17 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (b)  financial assistance by way of recurrent subsidy is or was payable to the organisation in respect of the provision by the organisation, on the day before the commencement day, of community aged care services packages (within the meaning of the 1954 Act);
 
-the organisation is taken, for the purposes of the new Act, to be an * approved provider.
+the organisation is taken, for the purposes of the new Act, to be an <sup>* </sup>approved provider.
 
-Note:          An organisation that does not satisfy either paragraph (1)(a) or (b) will need to apply under section 8-2 of the new Act in order to be approved as a provider of * aged care under that Act.
+Note:          An organisation that does not satisfy either paragraph (1)(a) or (b) will need to apply under section 8-2 of the new Act in order to be approved as a provider of <sup>* </sup>aged care under that Act.
 
-             (2)  If a person is taken to be an * approved provider under subsection (1):
+             (2)  If a person is taken to be an <sup>* </sup>approved provider under subsection (1):
 
-                     (a)  the approval is taken, for the purposes of the new Act, to be limited under paragraph 8-1(2)(c) of the new Act to community care provided through * aged care services that the person was conducting, or proposed to conduct, on the day before the commencement day; and
+                     (a)  the approval is taken, for the purposes of the new Act, to be limited under paragraph 8-1(2)(c) of the new Act to community care provided through <sup>* </sup>aged care services that the person was conducting, or proposed to conduct, on the day before the commencement day; and
 
-                     (b)  the information provided in the application under section 10GC of the 1954 Act is taken, for the purposes of section 9‑1 of the new Act, to have been provided in an application under section 8-2 of the new Act; and
+                     (b)  the information provided in the application under section 10GC of the 1954 Act is taken, for the purposes of section 9-1 of the new Act, to have been provided in an application under section 8-2 of the new Act; and
 
-                     (c)  if the organisation is not a * corporation on the commencement day—paragraph 10-3(1)(a) of the new Act does not apply to the approval.
+                     (c)  if the organisation is not a <sup>* </sup>corporation on the commencement day—paragraph 10-3(1)(a) of the new Act does not apply to the approval.
 
 ##### <a id="14"></a>14  Continuation of notice under section 10GD
 
@@ -631,7 +647,7 @@ the original notice is taken to be a notice under subsection 10-3(3) of the new 
 
              (2)  If the organisation had, as at the commencement day, made a submission under subsection 10GD(2) of the 1954 Act:
 
-                     (a)  the submission is taken to be a submission given to the Secretary within the period referred to in paragraph 10‑3(3)(b) of the new Act; and
+                     (a)  the submission is taken to be a submission given to the Secretary within the period referred to in paragraph 10-3(3)(b) of the new Act; and
 
                      (b)  the notice required by subsection 10-3(5) of the new Act must be given to the organisation within 28 days after the commencement day.
 
@@ -643,9 +659,9 @@ the original notice is taken to be a notice under subsection 10-3(3) of the new 
 
 then:
 
-                     (c)  the organisation is taken not to have given a submission to the Secretary within the period referred to in paragraph 10‑3(3)(b) of the new Act; and
+                     (c)  the organisation is taken not to have given a submission to the Secretary within the period referred to in paragraph 10-3(3)(b) of the new Act; and
 
-                     (d)  the Secretary must give the notice required by subsection 10‑3(5) of the new Act to the organisation within 28 days of the commencement day.
+                     (d)  the Secretary must give the notice required by subsection 10-3(5) of the new Act to the organisation within 28 days of the commencement day.
 
              (4)  If:
 
@@ -653,7 +669,7 @@ then:
 
                      (b)  the commencement day occurred not more than 14 days after the original notice was given;
 
-the organisation is taken to have been invited under paragraph 10‑3(3)(b) of the new Act to make the submission referred to in that paragraph within 28 days of the commencement day.
+the organisation is taken to have been invited under paragraph 10-3(3)(b) of the new Act to make the submission referred to in that paragraph within 28 days of the commencement day.
 
 ## Part 2.2—Allocation of places
 
@@ -667,7 +683,7 @@ the organisation is taken to have been invited under paragraph 10‑3(3)(b) of t
 
                      (b)  as at the commencement day, the Minister had not yet made a decision on the application;
 
-the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of * places in respect of * residential care subsidy.
+the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of <sup>* </sup>places in respect of <sup>* </sup>residential care subsidy.
 
              (2)  For the purposes of the new Act, the application is taken to be a valid application that meets all the requirements of section 13-1 of the new Act.
 
@@ -675,19 +691,19 @@ the application is taken, for the purposes of the new Act, to be an application 
 
              (1)  Subject to subsection (5), if a certificate under section 39A of the 1953 Act was in force in relation to premises immediately before the commencement day, for the purposes of the new Act:
 
-                     (a)  the Secretary is taken, on that day, to have allocated under section 14-1 of the new Act, to the holder of the certificate, a number of * places equal to the number of beds to which the certificate related immediately before that day; and
+                     (a)  the Secretary is taken, on that day, to have allocated under section 14-1 of the new Act, to the holder of the certificate, a number of <sup>* </sup>places equal to the number of beds to which the certificate related immediately before that day; and
 
                      (b)  the specifications, and any other conditions, set out in the certificate are taken, on that day, to be conditions:
 
                               (i)  to which the allocation is subject under section 14-5 of the new Act; and
 
-                             (ii)  that the Secretary has specified, under subsection 14‑5(2) of the new Act, to be conditions that must be met before a determination can be made under section 15-1 of the new Act; and
+                             (ii)  that the Secretary has specified, under subsection 14-5(2) of the new Act, to be conditions that must be met before a determination can be made under section 15-1 of the new Act; and
 
-                     (c)  the allocation is taken to be a * provisional allocation; and
+                     (c)  the allocation is taken to be a <sup>* </sup>provisional allocation; and
 
-                     (d)  the * provisional allocation period is a period equal to the amount of time that, immediately before that day, remained of the period for which the certificate was in force.
+                     (d)  the <sup>* </sup>provisional allocation period is a period equal to the amount of time that, immediately before that day, remained of the period for which the certificate was in force.
 
-             (2)  The allocation of places referred to in paragraph (1)(a) is taken to be in respect of * residential care subsidy.
+             (2)  The allocation of places referred to in paragraph (1)(a) is taken to be in respect of <sup>* </sup>residential care subsidy.
 
              (3)  For the purposes of paragraph (1)(a), the holder of the certificate is the person who was, immediately before that day, the holder of the certificate.
 
@@ -709,7 +725,7 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (c)  as at the commencement day, the Minister had not yet made a decision on the application;
 
-the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 15-5 of the new Act for a variation of the * provisional allocation that, under section 16 of this Act, is taken to have been made in respect of the certificate.
+the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 15-5 of the new Act for a variation of the <sup>* </sup>provisional allocation that, under section 16 of this Act, is taken to have been made in respect of the certificate.
 
              (2)  If:
 
@@ -721,7 +737,7 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (d)  as at the commencement day, the Minister had not yet made a decision on the application;
 
-the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of * places, of a number equal to the increase in the number of beds that was sought, in respect of * residential care subsidy.
+the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of <sup>* </sup>places, of a number equal to the increase in the number of beds that was sought, in respect of <sup>* </sup>residential care subsidy.
 
              (3)  For the purposes of the new Act, the application referred to in subsection (2) is taken to be a valid application that meets all the requirements of section 13-1 of the new Act.
 
@@ -733,7 +749,7 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (c)  as at the commencement day, the Minister had not revoked the certificate;
 
-the application is taken, for the purposes of the new Act, to be a notice in writing under section 15-6 of the new Act, given to the Secretary on the commencement day, surrendering the * provisional allocation that, under section 16 of this Act, is taken to have been made in respect of the certificate.
+the application is taken, for the purposes of the new Act, to be a notice in writing under section 15-6 of the new Act, given to the Secretary on the commencement day, surrendering the <sup>* </sup>provisional allocation that, under section 16 of this Act, is taken to have been made in respect of the certificate.
 
 ##### <a id="18"></a>18  Applications for approval of nursing homes without section 39A or 39B certificates
 
@@ -741,11 +757,11 @@ the application is taken, for the purposes of the new Act, to be a notice in wri
 
                      (a)  a person had, before the commencement day, applied under section 40AA of the 1953 Act for the approval of premises as an approved nursing home; and
 
-                     (b)   immediately before the commencement day, the premises were not the subject of a certificate under section 39A or 39B of the 1953 Act; and
+                     (b)  immediately before the commencement day, the premises were not the subject of a certificate under section 39A or 39B of the 1953 Act; and
 
                      (c)  as at the commencement day, the Minister had not yet made a decision on the application;
 
-the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of * places in respect of * residential care subsidy.
+the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of <sup>* </sup>places in respect of <sup>* </sup>residential care subsidy.
 
              (2)  For the purposes of the new Act, the application is taken to be a valid application that meets all of the requirements of section 13-1 of the new Act.
 
@@ -763,11 +779,11 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (c)  as at the commencement day, the Minister had not yet made a decision on the application;
 
-the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 15-1 of the new Act for a determination by the Secretary in respect of the * places referred to in paragraph 16(1)(a) of this Act in relation to that certificate.
+the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 15-1 of the new Act for a determination by the Secretary in respect of the <sup>* </sup>places referred to in paragraph 16(1)(a) of this Act in relation to that certificate.
 
-             (2)  The Secretary may specify, in a determination under section 15‑1 of the new Act in respect of those * places, conditions to which the allocation of those places is to be subject.
+             (2)  The Secretary may specify, in a determination under section 15-1 of the new Act in respect of those <sup>* </sup>places, conditions to which the allocation of those places is to be subject.
 
-             (3)  For the purposes of the new Act, any conditions specified under subsection (2) of this section are taken to be conditions to which the allocation of those * places is subject under section 14‑5 of the new Act.
+             (3)  For the purposes of the new Act, any conditions specified under subsection (2) of this section are taken to be conditions to which the allocation of those <sup>* </sup>places is subject under section 14-5 of the new Act.
 
              (4)  The Secretary must not refuse an application that, under subsection (1) of this section, is taken to be an application made under section 15-1 of the new Act unless the Secretary is not satisfied that the specifications set out in the certificate in question have been complied with.
 
@@ -775,7 +791,7 @@ the application is taken, for the purposes of the new Act, to be an application 
 
              (1)  Subject to subsection (5), if an approval of premises as an approved nursing home under section 40AA of the 1953 Act was in force immediately before the commencement day, for the purposes of the new Act:
 
-                     (a)  the Secretary is taken, on that day, to have allocated under section 14-1 of the new Act, to the proprietor (within the meaning of the 1953 Act) of the nursing home, a number of * places equal to the number of beds to which the approval related immediately before that day; and
+                     (a)  the Secretary is taken, on that day, to have allocated under section 14-1 of the new Act, to the proprietor (within the meaning of the 1953 Act) of the nursing home, a number of <sup>* </sup>places equal to the number of beds to which the approval related immediately before that day; and
 
                      (b)  subject to subsection (4), the conditions to which the approval was, immediately before that day, subject under subsections 40AA(5A) and (6) of the 1953 Act are taken, on that day, to be conditions to which the allocation is subject under section 14-5 of the new Act; and
 
@@ -783,11 +799,11 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                               (i)  the places are allocated in respect of the location at which the premises are situated; and
 
-                             (ii)  any * care provided, in respect of the places, must be provided at that location; and
+                             (ii)  any <sup>* </sup>care provided, in respect of the places, must be provided at that location; and
 
                      (d)  the Secretary is taken, on that day, to have determined under section 15-1 of the new Act that the proprietor is in a position to provide care, in respect of those places, for which subsidy under Chapter 3 of the new Act may be paid.
 
-             (2)  The allocation of places referred to in paragraph (1)(a) is taken to be in respect of * residential care subsidy.
+             (2)  The allocation of places referred to in paragraph (1)(a) is taken to be in respect of <sup>* </sup>residential care subsidy.
 
              (3)  The reference in paragraph (1)(b) to the conditions to which the approval was subject under subsections 40AA(5A) and (6) of the 1953 Act includes a reference to:
 
@@ -809,7 +825,7 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (b)  as at the commencement day, the Minister had not yet made a decision on the application; and
 
-                     (c)  on the commencement day, an allocation of * places is taken, under section 16 of this Act, to have been made in respect of a certificate under section 39A of the 1953 Act relating to those premises;
+                     (c)  on the commencement day, an allocation of <sup>* </sup>places is taken, under section 16 of this Act, to have been made in respect of a certificate under section 39A of the 1953 Act relating to those premises;
 
 the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 15-5 of the new Act for a variation of the conditions to which the allocation of places is subject.
 
@@ -819,11 +835,11 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (b)  as at the commencement day, the Minister had not yet made a decision on the application; and
 
-                     (c)  on the commencement day, an allocation of * places is taken, under section 20 of this Act, to have been made in respect of an approval under section 40AA of the 1953 Act relating to those premises;
+                     (c)  on the commencement day, an allocation of <sup>* </sup>places is taken, under section 20 of this Act, to have been made in respect of an approval under section 40AA of the 1953 Act relating to those premises;
 
 the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 17-2 of the new Act for a variation of the conditions to which the allocation of places is subject.
 
-             (3)  The variation that, under subsection (1) or (2) of this section, is taken to have been applied for is a variation to the effect that the location in respect of which the * places are allocated is the location of the different premises specified in the application under section 39B of the 1953 Act.
+             (3)  The variation that, under subsection (1) or (2) of this section, is taken to have been applied for is a variation to the effect that the location in respect of which the <sup>* </sup>places are allocated is the location of the different premises specified in the application under section 39B of the 1953 Act.
 
              (4)  For the purposes of the new Act:
 
@@ -839,7 +855,7 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (a)  a certificate under section 39B of the 1953 Act was in force in relation to premises immediately before the commencement day; and
 
-                     (b)  on the commencement day, an allocation of * places is taken to have been made, under section 16 of this Act, in respect of a certificate under section 39A of the 1953 Act relating to those premises;
+                     (b)  on the commencement day, an allocation of <sup>* </sup>places is taken to have been made, under section 16 of this Act, in respect of a certificate under section 39A of the 1953 Act relating to those premises;
 
 the Secretary is taken, on the commencement day, to have approved a variation, under section 15-5 of the new Act, to the conditions to which the allocation of places is subject.
 
@@ -847,11 +863,11 @@ the Secretary is taken, on the commencement day, to have approved a variation, u
 
                      (a)  a certificate under section 39B of the 1953 Act was in force in relation to premises immediately before the commencement day; and
 
-                     (b)  on the commencement day, an allocation of * places is taken to have been made, under section 20 of this Act, in respect of an approval under section 40AA of the 1953 Act relating to those premises;
+                     (b)  on the commencement day, an allocation of <sup>* </sup>places is taken to have been made, under section 20 of this Act, in respect of an approval under section 40AA of the 1953 Act relating to those premises;
 
 the Secretary is taken, on the commencement day, to have approved a variation, under section 17-1 of the new Act, to the conditions to which the allocation of places is subject.
 
-             (3)  The variation that, under this section, is taken to have been approved is a variation to the effect that the location in respect of which the * places are allocated is the location of the different premises specified in the certificate under section 39B of the 1953 Act.
+             (3)  The variation that, under this section, is taken to have been approved is a variation to the effect that the location in respect of which the <sup>* </sup>places are allocated is the location of the different premises specified in the certificate under section 39B of the 1953 Act.
 
 ##### <a id="23"></a>23  Applications to alter conditions of approval of nursing homes
 
@@ -867,15 +883,15 @@ the Secretary is taken, on the commencement day, to have approved a variation, u
 
 the application is taken, for the purposes of the new Act, to be:
 
-                     (e)  if the application is made in connection with an application under section 39A of the 1953 Act by another person—an application made on the commencement day, under section 16-2 of the new Act, for the transfer to that other person of * places of a number equal to the reduction in the number of beds referred to in paragraph (b); or
+                     (e)  if the application is made in connection with an application under section 39A of the 1953 Act by another person—an application made on the commencement day, under section 16-2 of the new Act, for the transfer to that other person of <sup>* </sup>places of a number equal to the reduction in the number of beds referred to in paragraph (b); or
 
-                      (f)  in any other case—a notice in writing under section 18-2 of the new Act, given to the Secretary on the commencement day, * relinquishing * places of a number equal to the reduction in the number of beds referred to in paragraph (b).
+                      (f)  in any other case—a notice in writing under section 18-2 of the new Act, given to the Secretary on the commencement day, <sup>* </sup>relinquishing <sup>* </sup>places of a number equal to the reduction in the number of beds referred to in paragraph (b).
 
              (2)  If paragraph (1)(e) applies, in considering the application under Division 16 of the new Act, the Secretary is subject to the same requirements that would have applied, under subsection 40AD(1CA) or (1CB) of the 1953 Act, to the Minister if the application were being considered under subsection 40AD(1) of the 1953 Act.
 
-             (3)  If paragraph (1)(f) applies, subsections 18-2(2), (3) and (4) and sections 18-3 and 18-4 of the new Act do not apply to the notice or the * relinquishment.
+             (3)  If paragraph (1)(f) applies, subsections 18-2(2), (3) and (4) and sections 18-3 and 18-4 of the new Act do not apply to the notice or the <sup>* </sup>relinquishment.
 
-             (4)  This section does not apply if, immediately before the commencement day, some or all of the beds in the nursing home that correspond to the * places that are the subject of the application referred to in paragraph (1)(e) or (f) are occupied.
+             (4)  This section does not apply if, immediately before the commencement day, some or all of the beds in the nursing home that correspond to the <sup>* </sup>places that are the subject of the application referred to in paragraph (1)(e) or (f) are occupied.
 
 ### Division 2—Hostels
 
@@ -887,7 +903,7 @@ the application is taken, for the purposes of the new Act, to be:
 
                      (b)  as at the commencement day, the Minister had not yet made a decision on the application;
 
-the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of * places in respect of * residential care subsidy.
+the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of <sup>* </sup>places in respect of <sup>* </sup>residential care subsidy.
 
              (2)  For the purposes of the new Act, the application is taken to be a valid application that meets all the requirements of section 13-1 of the new Act.
 
@@ -895,19 +911,19 @@ the application is taken, for the purposes of the new Act, to be an application 
 
              (1)  If, immediately before the commencement day, a certificate under subsection 9AB(1), (4), (7) or (9) of the 1954 Act was in force for financial assistance by way of recurrent subsidy in respect of a hostel:
 
-                     (a)  the Secretary is taken, on that day, to have allocated under section 14-1 of the new Act, to the holder of the certificate, a number of * places equal to the number of hostel places (within the meaning of the 1954 Act) to which the certificate related immediately before that day; and
+                     (a)  the Secretary is taken, on that day, to have allocated under section 14-1 of the new Act, to the holder of the certificate, a number of <sup>* </sup>places equal to the number of hostel places (within the meaning of the 1954 Act) to which the certificate related immediately before that day; and
 
                      (b)  the terms in the certificate are taken, on that day, to be conditions:
 
                               (i)  to which the allocation is subject under section 14-5 of the new Act; and
 
-                             (ii)  that the Secretary has specified, under subsection 14‑5(3) of the new Act, to be conditions that must be met before a determination can be made under section 15-1 of the new Act; and
+                             (ii)  that the Secretary has specified, under subsection 14-5(3) of the new Act, to be conditions that must be met before a determination can be made under section 15-1 of the new Act; and
 
-                     (c)  the allocation is taken to be a * provisional allocation; and
+                     (c)  the allocation is taken to be a <sup>* </sup>provisional allocation; and
 
-                     (d)  the * provisional allocation period is a period equal to the amount of time that, immediately before that day, remained of the period for which the certificate was in force.
+                     (d)  the <sup>* </sup>provisional allocation period is a period equal to the amount of time that, immediately before that day, remained of the period for which the certificate was in force.
 
-             (2)  The allocation of places referred to in paragraph (1)(a) is taken to be in respect of * residential care subsidy.
+             (2)  The allocation of places referred to in paragraph (1)(a) is taken to be in respect of <sup>* </sup>residential care subsidy.
 
              (3)  For the purposes of paragraph (1)(a), the holder of the certificate is the organisation that was, immediately before that day, the holder of the certificate.
 
@@ -925,7 +941,7 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (c)  as at the commencement day, the Minister had not yet made a decision on the application;
 
-the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 15-5 of the new Act for a variation of the * provisional allocation that, under section 25 of this Act, is taken to have been made in respect of the certificate.
+the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 15-5 of the new Act for a variation of the <sup>* </sup>provisional allocation that, under section 25 of this Act, is taken to have been made in respect of the certificate.
 
              (2)  If:
 
@@ -937,7 +953,7 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (d)  as at the commencement day, the Minister had not yet made a decision on the application;
 
-the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of * places, of a number equal to the increase in the number of hostel places or respite care places that was sought, in respect of * residential care subsidy.
+the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of <sup>* </sup>places, of a number equal to the increase in the number of hostel places or respite care places that was sought, in respect of <sup>* </sup>residential care subsidy.
 
              (3)  For the purposes of the new Act, the application referred to in subsection (2) is taken to be a valid application that meets all the requirements of section 13-1 of the new Act.
 
@@ -949,7 +965,7 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (c)  as at the commencement day, the Minister had not revoked the certificate;
 
-the application is taken, for the purposes of the new Act, to be a notice in writing under section 15-6 of the new Act, given to the Secretary on the commencement day, surrendering the * provisional allocation that, under section 25 of this Act, is taken to have been made in respect of the certificate.
+the application is taken, for the purposes of the new Act, to be a notice in writing under section 15-6 of the new Act, given to the Secretary on the commencement day, surrendering the <sup>* </sup>provisional allocation that, under section 25 of this Act, is taken to have been made in respect of the certificate.
 
              (5)  A reference in this section to a certificate under section 9AB of the 1954 Act includes a reference to such a certificate issued by virtue of subsection 9AC(1) of the 1954 Act in connection with an application under that subsection.
 
@@ -963,7 +979,7 @@ the application is taken, for the purposes of the new Act, to be a notice in wri
 
                      (c)  as at the commencement day, the Minister had not yet made a decision on the application;
 
-the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of * places in respect of * residential care subsidy.
+the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of <sup>* </sup>places in respect of <sup>* </sup>residential care subsidy.
 
              (2)  Subject to paragraph 13-1(d) of the new Act, the application is taken to be a valid application for the purposes of the new Act.
 
@@ -979,11 +995,11 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (c)  as at the commencement day, the Minister had not yet made a decision on the application;
 
-the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 15-1 of the new Act, for a determination by the Secretary in respect of the * places referred to in paragraph 25(1)(a) of this Act in relation to that certificate.
+the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 15-1 of the new Act, for a determination by the Secretary in respect of the <sup>* </sup>places referred to in paragraph 25(1)(a) of this Act in relation to that certificate.
 
-             (2)  The Secretary may specify, in a determination under section 15‑1 of the new Act in respect of those * places, conditions to which the allocation of those places is to be subject.
+             (2)  The Secretary may specify, in a determination under section 15-1 of the new Act in respect of those <sup>* </sup>places, conditions to which the allocation of those places is to be subject.
 
-             (3)  For the purposes of the new Act, any conditions specified under subsection (2) of this section are taken to be conditions to which the allocation of those * places is subject under section 14‑5 of the new Act.
+             (3)  For the purposes of the new Act, any conditions specified under subsection (2) of this section are taken to be conditions to which the allocation of those <sup>* </sup>places is subject under section 14-5 of the new Act.
 
              (4)  A reference in this section to a certificate under section 9AB of the 1954 Act includes a reference to such a certificate issued by virtue of subsection 9AC(1) of the 1954 Act in connection with an application under that subsection.
 
@@ -993,7 +1009,7 @@ the application is taken, for the purposes of the new Act, to be an application 
 
              (1)  If, immediately before the commencement day, an approval of a hostel for financial assistance by way of recurrent subsidy was in force under section 10B of the 1954 Act, for the purposes of the new Act:
 
-                     (a)  the Secretary is taken, on that day, to have allocated under section 14-1 of the new Act, to the holder of the approval, a number of * places equal to the number of hostel places (within the meaning of the 1954 Act) to which the approval related immediately before that day; and
+                     (a)  the Secretary is taken, on that day, to have allocated under section 14-1 of the new Act, to the holder of the approval, a number of <sup>* </sup>places equal to the number of hostel places (within the meaning of the 1954 Act) to which the approval related immediately before that day; and
 
                      (b)  the General Conditions formulated under section 10F of the 1954 Act, as in force immediately before that day, are taken, on that day, to be conditions to which the allocation is subject under section 14-5 of the new Act; and
 
@@ -1001,13 +1017,13 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                               (i)  the places are allocated in respect of the location at which the hostel is situated; and
 
-                             (ii)  any * care provided, in respect of the places, must be provided at that location; and
+                             (ii)  any <sup>* </sup>care provided, in respect of the places, must be provided at that location; and
 
                      (d)  the Secretary is taken, on that day, to have determined under section 15-1 of the new Act that the holder of the approval is in a position to provide care, in respect of those places, for which subsidy under Chapter 3 of the new Act may be paid.
 
-             (2)  Subject to subsection (3), the allocation of * places referred to in paragraph (1)(a) is taken to be in respect of * residential care subsidy.
+             (2)  Subject to subsection (3), the allocation of <sup>* </sup>places referred to in paragraph (1)(a) is taken to be in respect of <sup>* </sup>residential care subsidy.
 
-             (3)  If, on the commencement day, * community care is being * provided in respect of the * places, the allocation of places referred to in paragraph (1)(a) is taken to be in respect of * community care subsidy.
+             (3)  If, on the commencement day, <sup>* </sup>community care is being <sup>* </sup>provided in respect of the <sup>* </sup>places, the allocation of places referred to in paragraph (1)(a) is taken to be in respect of <sup>* </sup>community care subsidy.
 
              (4)  For the purposes of subsection (1), the holder of the approval is the organisation that applied under section 10B of the 1954 Act for approval of the premises.
 
@@ -1019,7 +1035,7 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (b)  as at the commencement day, the Minister had not yet made a decision on the request; and
 
-                     (c)  on the commencement day, an allocation of * places is taken, under section 25 of this Act, to have been made in respect of a certificate under section 9AB of the 1954 Act relating to those premises;
+                     (c)  on the commencement day, an allocation of <sup>* </sup>places is taken, under section 25 of this Act, to have been made in respect of a certificate under section 9AB of the 1954 Act relating to those premises;
 
 the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 15-5 of the new Act for a variation of the conditions to which the allocation of places is subject.
 
@@ -1029,11 +1045,11 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (b)  as at the commencement day, the Minister had not yet made a decision on the request; and
 
-                     (c)  on the commencement day, an allocation of * places is taken, under section 29 of this Act, to have been made in respect of an approval under section 10B of the 1954 Act relating to those premises;
+                     (c)  on the commencement day, an allocation of <sup>* </sup>places is taken, under section 29 of this Act, to have been made in respect of an approval under section 10B of the 1954 Act relating to those premises;
 
 the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 17-2 of the new Act for a variation of the conditions to which the allocation of places is subject.
 
-             (3)  The variation that, under subsection (1) or (2) of this section, is taken to have been applied for is a variation to the effect that the location in respect of which the * places are allocated is the location of the different premises specified in the application under section 9AC of the 1954 Act.
+             (3)  The variation that, under subsection (1) or (2) of this section, is taken to have been applied for is a variation to the effect that the location in respect of which the <sup>* </sup>places are allocated is the location of the different premises specified in the application under section 9AC of the 1954 Act.
 
              (4)  For the purposes of the new Act:
 
@@ -1055,17 +1071,17 @@ the application is taken, for the purposes of the new Act, to be an application 
 
 the application is taken, for the purposes of the new Act, to be:
 
-                     (d)  if the application is made in connection with an application under section 9AB of the 1954 Act by another person—an application made on the commencement day, under section 16-2 of the new Act, for the transfer to that other person of * places of a number equal to the number of hostel places (within the meaning of the 1954 Act) in the hostel; or
+                     (d)  if the application is made in connection with an application under section 9AB of the 1954 Act by another person—an application made on the commencement day, under section 16-2 of the new Act, for the transfer to that other person of <sup>* </sup>places of a number equal to the number of hostel places (within the meaning of the 1954 Act) in the hostel; or
 
-                     (e)  in any other case—a notice in writing under section 18-2 of the new Act, given to the Secretary on the commencement day, * relinquishing * places of a number equal to that number of hostel places.
+                     (e)  in any other case—a notice in writing under section 18-2 of the new Act, given to the Secretary on the commencement day, <sup>* </sup>relinquishing <sup>* </sup>places of a number equal to that number of hostel places.
 
-             (2)  If paragraph (1)(e) applies, subsections 18-2(2), (3) and (4) and sections 18-3 and 18-4 of the new Act do not apply to the notice or the * relinquishment.
+             (2)  If paragraph (1)(e) applies, subsections 18-2(2), (3) and (4) and sections 18-3 and 18-4 of the new Act do not apply to the notice or the <sup>* </sup>relinquishment.
 
              (3)  This section does not apply if, immediately before the commencement day, some or all of the hostel places (within the meaning of the 1954 Act) in the hostel were occupied.
 
 ### Division 3—Community aged care services
 
-##### <a id="32"></a>32  Applications for financial assistance for community aged care services packages
+##### <a id="32"></a>32  Applications for financial assistance for community aged care services packages
 
              (1)  If:
 
@@ -1073,7 +1089,7 @@ the application is taken, for the purposes of the new Act, to be:
 
                      (b)  as at the commencement day, the Minister had not yet made a decision on the application;
 
-the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of * places in respect of * community care subsidy.
+the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 13-1 of the new Act for an allocation of <sup>* </sup>places in respect of <sup>* </sup>community care subsidy.
 
              (2)  For the purposes of the new Act, the application is taken to be a valid application that meets all the requirements of section 13-1 of the new Act.
 
@@ -1081,7 +1097,7 @@ the application is taken, for the purposes of the new Act, to be an application 
 
              (1)  If, immediately before the commencement day, an approval for financial assistance for community aged care services packages (within the meaning of the 1954 Act) was in force under section 10GF of the 1954 Act, for the purposes of the new Act:
 
-                     (a)  the Secretary is taken, on that day, to have allocated under section 14-1 of the new Act, to the approved provider, a number of * places equal to the number of community aged care services packages (within the meaning of the 1954 Act) to which the approval related immediately before that day; and
+                     (a)  the Secretary is taken, on that day, to have allocated under section 14-1 of the new Act, to the approved provider, a number of <sup>* </sup>places equal to the number of community aged care services packages (within the meaning of the 1954 Act) to which the approval related immediately before that day; and
 
                      (b)  both:
 
@@ -1095,11 +1111,11 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                               (i)  the places are allocated in respect of specified locations within regions in which the community aged care services packages are, immediately before that day, provided; and
 
-                             (ii)  any * care provided, in respect of the places, must be provided at those locations; and
+                             (ii)  any <sup>* </sup>care provided, in respect of the places, must be provided at those locations; and
 
                      (d)  the Secretary is taken, on that day, to have determined under section 15-1 of the new Act that the approved provider is in a position to provide care, in respect of those places, for which subsidy under Chapter 3 of the new Act may be paid.
 
-             (2)  The allocation of places referred to in paragraph (1)(a) is taken to be in respect of * community care subsidy.
+             (2)  The allocation of places referred to in paragraph (1)(a) is taken to be in respect of <sup>* </sup>community care subsidy.
 
              (3)  For the purposes of subsection (1), the approved provider is the organisation that was the approved provider (within the meaning of section 10GC of the 1954 Act) that, immediately before the commencement day, was providing, or proposing to provide, the community aged care services packages in question.
 
@@ -1113,9 +1129,9 @@ the application is taken, for the purposes of the new Act, to be an application 
 
                      (c)  as at the commencement day, the Minister had not revoked the approval;
 
-the application is taken, for the purposes of the new Act, to be a notice in writing under section 18-2 of the new Act, given to the Secretary on the commencement day, * relinquishing the allocation that, under section 33 of this Act, is taken to have been made in respect of the approval.
+the application is taken, for the purposes of the new Act, to be a notice in writing under section 18-2 of the new Act, given to the Secretary on the commencement day, <sup>* </sup>relinquishing the allocation that, under section 33 of this Act, is taken to have been made in respect of the approval.
 
-             (2)  Subsections 18-2(2), (3) and (4) and sections 18-3 and 18-4 of the new Act do not apply to the notice or the * relinquishment.
+             (2)  Subsections 18-2(2), (3) and (4) and sections 18-3 and 18-4 of the new Act do not apply to the notice or the <sup>* </sup>relinquishment.
 
 ## Part 2.3—Approval of care recipients
 
@@ -1129,25 +1145,25 @@ the application is taken, for the purposes of the new Act, to be a notice in wri
 
                      (b)  as at the commencement day, the Minister had not yet made a decision on the application;
 
-the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 22-3 of the new Act for approval of the person, or the other person, as a recipient of * residential care.
+the application is taken, for the purposes of the new Act, to be an application made, on the commencement day, under section 22-3 of the new Act for approval of the person, or the other person, as a recipient of <sup>* </sup>residential care.
 
 ##### <a id="36"></a>36  Approvals for admission to a nursing home
 
-             (1)  A person is taken, for the purposes of the new Act, to be approved under Part 2.3 of the new Act as a recipient of * residential care if, immediately before the commencement day, an approval was in force under subsection 40AA(8) or section 40AB of the 1953 Act in respect of the person.
+             (1)  A person is taken, for the purposes of the new Act, to be approved under Part 2.3 of the new Act as a recipient of <sup>* </sup>residential care if, immediately before the commencement day, an approval was in force under subsection 40AA(8) or section 40AB of the 1953 Act in respect of the person.
 
              (2)  For the purposes of the new Act, if, under subsection (1), a person is taken to be so approved:
 
-                     (a)  the approval lapses if the person is not, or has not been, provided with * residential care within the period specified in the instrument of approval relating to the person’s approval under subsection 40AA(8) or section 40AB of the 1953 Act; and
+                     (a)  the approval lapses if the person is not, or has not been, provided with <sup>* </sup>residential care within the period specified in the instrument of approval relating to the person’s approval under subsection 40AA(8) or section 40AB of the 1953 Act; and
 
                      (b)  the reference in paragraph 23-1(b) of the new Act to section 23-3 of the new Act is taken, in relation to the person, to be a reference to paragraph (a) of this subsection; and
 
                      (c)  section 23-3 of the new Act does not apply in relation to the person.
 
-             (3)  The Approval of Care Recipient Principles made for the purposes of Part 2.3 of the new Act may specify a * classification level that applies to each approval referred to in subsection (1).
+             (3)  The Approval of Care Recipient Principles made for the purposes of Part 2.3 of the new Act may specify a <sup>* </sup>classification level that applies to each approval referred to in subsection (1).
 
 Note:          The approval of Care Recipients are made by the Minister under section 96-1 of the new Act.
 
-             (4)  If those Principles specify a * classification level, each of the approvals is taken to be limited, under subsection 22-2(3) of the new Act, to a level of care corresponding to that classification level.
+             (4)  If those Principles specify a <sup>* </sup>classification level, each of the approvals is taken to be limited, under subsection 22-2(3) of the new Act, to a level of care corresponding to that classification level.
 
              (5)  If the approval in force under subsection 40AA(8) or section 40AB of the 1953 Act in respect of the person contained a limitation that the Secretary could have imposed under subsection 22-2(1) of the new Act, the approval is taken, for the purposes of the new Act, to be so limited.
 
@@ -1157,7 +1173,7 @@ Note:          The approval of Care Recipients are made by the
 
                      (a)  before the commencement day, a person is admitted to an approved nursing home without the admission being approved under subsection 40AA(8) or section 40AB of the 1953 Act; and
 
-                     (b)  on or after the commencement day, the person is approved under Part 2.3 of the new Act as a recipient of * residential care; and
+                     (b)  on or after the commencement day, the person is approved under Part 2.3 of the new Act as a recipient of <sup>* </sup>residential care; and
 
                      (c)  under subsection 22-5(2) of the new Act, the approval is taken to have had effect from the day on which the residential care started;
 
@@ -1167,29 +1183,29 @@ the person is to be taken, for the purposes of the 1953 Act, to have been approv
 
 ##### <a id="38"></a>38  Eligible persons
 
-             (1)  A person is taken, for the purposes of the new Act, to be approved under Part 2.3 of the new Act as a recipient of * residential care if, immediately before the commencement day, the person is a person to whom paragraph (a) or (c) of the definition of **_eligible person_** in subsection 2(1) of the 1954 Act applies.
+             (1)  A person is taken, for the purposes of the new Act, to be approved under Part 2.3 of the new Act as a recipient of <sup>* </sup>residential care if, immediately before the commencement day, the person is a person to whom paragraph (a) or (c) of the definition of **_eligible person_** in subsection 2(1) of the 1954 Act applies.
 
              (2)  For the purposes of the new Act, if:
 
                      (a)  the person is a person to whom subparagraph (c)(i) of that definition applies; and
 
-                     (b)  immediately before the commencement day, the person is being * provided with * respite care through a * residential care service;
+                     (b)  immediately before the commencement day, the person is being <sup>* </sup>provided with <sup>* </sup>respite care through a <sup>* </sup>residential care service;
 
 the person’s approval is taken to have been limited by the Secretary under paragraph 22-2(1)(c). For the purposes of that paragraph, the period, on and after the commencement day, for which that respite care is provided is taken to be the period specified in the limitation.
 
              (3)  For the purposes of the new Act, if, under subsection (1), a person is taken to be so approved:
 
-                     (a)  the approval lapses if the person is not, or has not been, provided with * residential care within the period specified in the instrument of approval relating to the person’s approval made under the General Conditions under section 10F of the 1954 Act; and
+                     (a)  the approval lapses if the person is not, or has not been, provided with <sup>* </sup>residential care within the period specified in the instrument of approval relating to the person’s approval made under the General Conditions under section 10F of the 1954 Act; and
 
                      (b)  the reference in paragraph 23-1(b) of the new Act to section 23-3 of the new Act is taken, in relation to the person, to be a reference to paragraph (a) of this subsection; and
 
                      (c)  section 23-3 of the new Act does not apply in relation to the person.
 
-             (4)  The Approval of Care Recipient Principles made for the purposes of Part 2.3 of the new Act may specify a * classification level that applies to each approval referred to in subsection (1).
+             (4)  The Approval of Care Recipient Principles made for the purposes of Part 2.3 of the new Act may specify a <sup>* </sup>classification level that applies to each approval referred to in subsection (1).
 
 Note:          The approval of Care Recipients are made by the Minister under section 96-1 of the new Act.
 
-             (5)  If those Principles specify a * classification level, each of the approvals is taken to be limited, under subsection 22-2(3) of the new Act, to a level of care corresponding to that classification level.
+             (5)  If those Principles specify a <sup>* </sup>classification level, each of the approvals is taken to be limited, under subsection 22-2(3) of the new Act, to a level of care corresponding to that classification level.
 
              (6)  If the approval in force under the 1954 Act in respect of the person contained a limitation that the Secretary could have imposed under subsection 22-2(1) of the new Act, the approval is taken, for the purposes of the new Act, to be so limited.
 
@@ -1197,11 +1213,11 @@ Note:          The approval of Care Recipients are made by the
 
 ##### <a id="39"></a>39  Eligible persons
 
-             (1)  A person is taken, for the purposes of the new Act, to be approved under Part 2.3 of the new Act as a recipient of * community care if, immediately before the commencement day, the person is a person to whom paragraph (d) of the definition of **_eligible person_** in subsection 2(1) of the 1954 Act applies.
+             (1)  A person is taken, for the purposes of the new Act, to be approved under Part 2.3 of the new Act as a recipient of <sup>* </sup>community care if, immediately before the commencement day, the person is a person to whom paragraph (d) of the definition of **_eligible person_** in subsection 2(1) of the 1954 Act applies.
 
              (2)  For the purposes of the new Act, if, under subsection (1), a person is taken to be so approved:
 
-                     (a)  the approval lapses if the person is not, or has not been, provided with * community care within the period specified in the instrument of approval relating to the person’s approval made under the General Conditions under section 10GI of the 1954 Act; and
+                     (a)  the approval lapses if the person is not, or has not been, provided with <sup>* </sup>community care within the period specified in the instrument of approval relating to the person’s approval made under the General Conditions under section 10GI of the 1954 Act; and
 
                      (b)  the reference in paragraph 23-1(b) of the new Act to section 23-3 of the new Act is taken, in relation to the person, to be a reference to paragraph (a) of this subsection; and
 
@@ -1375,9 +1391,9 @@ for the purposes of such a classification, section 10F of the 1954 Act (includin
 
 the application is taken, for the purposes of the new Act:
 
-                     (c)  to be an application made, on that day, under section 32-3 of the new Act for * extra service status in respect of the * residential care service corresponding to that nursing home; and
+                     (c)  to be an application made, on that day, under section 32-3 of the new Act for <sup>* </sup>extra service status in respect of the <sup>* </sup>residential care service corresponding to that nursing home; and
 
-                     (d)  to be an application made, on that day, under section 35-1 of the new Act for extra service fees to be approved for the * places corresponding to the beds included in the nursing home.
+                     (d)  to be an application made, on that day, under section 35-1 of the new Act for extra service fees to be approved for the <sup>* </sup>places corresponding to the beds included in the nursing home.
 
              (2)  For the purposes of the new Act, the amounts specified under paragraph 39AB(3)(a) of the 1953 Act in the application under section 39AB of the 1953 Act are taken to be the extra service fees proposed in the application under section 35-1 of the new Act.
 
@@ -1387,7 +1403,7 @@ the application is taken, for the purposes of the new Act:
 
              (1)  If a certificate under section 39AB of the 1953 Act stating that the beds included in an approved nursing home are exempt beds was in force immediately before the commencement day, for the purposes of the new Act:
 
-                     (a)  the Secretary is taken, on that day, to have granted under section 32‑1 of the new Act * extra service status in respect of the * residential care service corresponding to that nursing home; and
+                     (a)  the Secretary is taken, on that day, to have granted under section 32-1 of the new Act <sup>* </sup>extra service status in respect of the <sup>* </sup>residential care service corresponding to that nursing home; and
 
                      (b)  the conditions to which the extra service status is subject under subsection 32-8(1) of the new Act are:
 
@@ -1399,7 +1415,7 @@ the application is taken, for the purposes of the new Act:
 
                      (c)  these terms and conditions are taken to have been set out in a notice given in accordance with subsection 32-9(1) of the new Act.
 
-             (2)  Despite subsection 33‑2(2) of the new Act, if, under subsection (1), * extra service status is taken to have been so granted, its * expiry date is taken, for the purposes of the new Act, to be the day occurring after the end of the exempt status period.
+             (2)  Despite subsection 33-2(2) of the new Act, if, under subsection (1), <sup>* </sup>extra service status is taken to have been so granted, its <sup>* </sup>expiry date is taken, for the purposes of the new Act, to be the day occurring after the end of the exempt status period.
 
 Note:          See also section 56 of this Act in relation to additional exempt bed fees, section 64 of this Act in relation to the effect on extra service reductions under the new Act and section 68 of this Act in relation to the effect on extra service amounts under the new Act.
 
@@ -1415,11 +1431,11 @@ Note:          See also section 56 of this Act in relation to 
 
                      (a)  the certificate specified more than one such period; and
 
-                     (b)  the * approved provider concerned has entered into an agreement with the Secretary under this subsection in relation to the * places corresponding to the beds in the nursing home to which one of those periods (other than the period that would have expired first) relates;
+                     (b)  the <sup>* </sup>approved provider concerned has entered into an agreement with the Secretary under this subsection in relation to the <sup>* </sup>places corresponding to the beds in the nursing home to which one of those periods (other than the period that would have expired first) relates;
 
 the **_exempt status period_** in relation to those places is the period, starting on the commencement day, equal to the amount of time that, immediately before that day, remained of the period specified in the certificate under subsection (1) in respect of the beds in question.
 
-             (5)  Despite section 30-3 of the new Act, the * places referred to in subsection (4) are taken, for the purposes of the new Act, to form a * distinct part of the * residential care service.
+             (5)  Despite section 30-3 of the new Act, the <sup>* </sup>places referred to in subsection (4) are taken, for the purposes of the new Act, to form a <sup>* </sup>distinct part of the <sup>* </sup>residential care service.
 
              (6)  A reference in subsection (1) to a certificate under section 39AB of the 1953 Act being in force immediately before the commencement day includes a reference to a certificate that, as at that day:
 
@@ -1437,7 +1453,7 @@ the **_exempt status period_** in relation to those places is the period, starti
 
                      (c)  as at the commencement day, the Minister had not yet revoked the certificate;
 
-the application is taken, for the purposes of the new Act, to be a written request under section 33‑4 of the new Act, given to the Secretary on the commencement day, for the revocation of the * extra service status that, under section 52 of this Act, is taken to have been granted in respect of the certificate.
+the application is taken, for the purposes of the new Act, to be a written request under section 33-4 of the new Act, given to the Secretary on the commencement day, for the revocation of the <sup>* </sup>extra service status that, under section 52 of this Act, is taken to have been granted in respect of the certificate.
 
              (2)  Subsection 33-4(3) of the new Act applies in relation to the revocation as if the reference in that subsection to the day on which the request was received by the Secretary were a reference to the day on which the application made under subsection 39AB(10) of the 1953 Act was received by the Minister.
 
@@ -1449,19 +1465,19 @@ the application is taken, for the purposes of the new Act, to be a written reque
 
                      (b)  as at the commencement day, the Minister had not yet granted the exempt bed status;
 
-the request is taken, for the purposes of the new Act, to be an application under section 31-2 of the new Act for determinations under that section in respect of each * place that corresponds to a bed in the approved nursing home to which the certificate related. The application is taken to have been received on the commencement day.
+the request is taken, for the purposes of the new Act, to be an application under section 31-2 of the new Act for determinations under that section in respect of each <sup>* </sup>place that corresponds to a bed in the approved nursing home to which the certificate related. The application is taken to have been received on the commencement day.
 
 ##### <a id="55"></a>55  Extensions of exempt bed status
 
-                   If a grant of exempt status under subsection 39AD(4) of the 1953 Act in respect of a bed in an approved nursing home was in force immediately before the commencement day, the Secretary is taken to have determined, under subsection 31‑2(1), that the * place corresponding to that bed is an extra service place during the period:
+                   If a grant of exempt status under subsection 39AD(4) of the 1953 Act in respect of a bed in an approved nursing home was in force immediately before the commencement day, the Secretary is taken to have determined, under subsection 31-2(1), that the <sup>* </sup>place corresponding to that bed is an extra service place during the period:
 
                      (a)  starting on the commencement day; and
 
-                     (b)  finishing at the end of the last day on which the person, who was occupying that bed immediately before the commencement day, is provided with * residential care in respect of the place.
+                     (b)  finishing at the end of the last day on which the person, who was occupying that bed immediately before the commencement day, is provided with <sup>* </sup>residential care in respect of the place.
 
 ##### <a id="56"></a>56  Additional exempt bed fees
 
-             (1)  If a certificate under section 39AB of the 1953 Act stating that the beds included in an approved nursing home are exempt beds was in force immediately before the commencement day, for the purposes of the new Act, the Secretary is taken, on that day, to have approved under section 35-1 of the new Act extra service fees for the * places corresponding to those beds.
+             (1)  If a certificate under section 39AB of the 1953 Act stating that the beds included in an approved nursing home are exempt beds was in force immediately before the commencement day, for the purposes of the new Act, the Secretary is taken, on that day, to have approved under section 35-1 of the new Act extra service fees for the <sup>* </sup>places corresponding to those beds.
 
 Note:          See also section 52 of this Act in relation to exempt bed status, section 64 of this Act in relation to the effect on extra service reductions under the new Act and section 70 of this Act in relation to the effect on extra service amounts under the new Act.
 
@@ -1469,7 +1485,7 @@ Note:          See also section 52 of this Act in relation to 
 
              (3)  If:
 
-                     (a)  an application is subsequently made under section 35-1 of the new Act for approval of extra service fees for any of those * places; and
+                     (a)  an application is subsequently made under section 35-1 of the new Act for approval of extra service fees for any of those <sup>* </sup>places; and
 
                      (b)  apart from subsection (1) of this section, the Secretary has not previously approved under section 35-1 of the new Act extra service fees for any of the places that are the subject of the application;
 
@@ -1487,19 +1503,19 @@ the reference in paragraph 35-3(3)(c) of the new Act to the last approval is a r
 
                      (b)  as at the commencement day, the Secretary had not yet made a decision on the request;
 
-the application is taken, for the purposes of the new Act, to be an application made, on that day, under section 35-1 of the new Act, for the approval of an extra service fee for the * places corresponding to the beds to which the request related.
+the application is taken, for the purposes of the new Act, to be an application made, on that day, under section 35-1 of the new Act, for the approval of an extra service fee for the <sup>* </sup>places corresponding to the beds to which the request related.
 
              (2)  For the purposes of the new Act, the proposed redetermination of the fee specified in the request under subsection 40AD(1BC) of the 1953 Act is taken to be the extra service fee proposed in the application under section 35-1 of the new Act.
 
 ##### <a id="58"></a>58  Patients occupying exempt beds
 
-             (1)  Subject to subsection (2), paragraph 36-1(1)(b) of the new Act does not apply in relation to * residential care that is * provided in respect of a * place included in a * residential care facility if:
+             (1)  Subject to subsection (2), paragraph 36-1(1)(b) of the new Act does not apply in relation to <sup>* </sup>residential care that is <sup>* </sup>provided in respect of a <sup>* </sup>place included in a <sup>* </sup>residential care facility if:
 
                      (a)  the place corresponds to a bed in a nursing home (within the meaning of the 1953 Act) that was, immediately before the commencement day, an exempt bed (within the meaning of Part V of the 1953 Act); and
 
                      (b)  the person to whom the residential care is provided has been continuously provided with residential care in respect of that place since the commencement day.
 
-             (2)  However, if * residential care is * provided to a person in respect of a * place included in a * residential care facility, and:
+             (2)  However, if <sup>* </sup>residential care is <sup>* </sup>provided to a person in respect of a <sup>* </sup>place included in a <sup>* </sup>residential care facility, and:
 
                      (a)  the place corresponds to a bed in a nursing home (within the meaning of the 1953 Act) that was, immediately before the commencement day, an exempt bed (within the meaning of Part V of the 1953 Act); and
 
@@ -1513,15 +1529,17 @@ then:
 
                      (e)  the person is taken to have been an exempt patient (within the meaning of section 39AD of the 1954 Act) immediately before the commencement day; and
 
-                      (f)  paragraph 36-1(1)(b) of the new Act applies to * residential care that is * provided to the person in respect of the * place.
+                      (f)  paragraph 36-1(1)(b) of the new Act applies to <sup>* </sup>residential care that is <sup>* </sup>provided to the person in respect of the <sup>* </sup>place.
 
 Note:          The effect of paragraph 36-1(1)(b) of the new Act applying is that an extra service agreement between the approved provider concerned and the person is necessary in order for residential care to be provided on an extra service basis. A person cannot be forced to enter such an agreement and, under section 36-4 of the new Act, an agreement with a person taken to be an exempt patient under paragraph 58(2)(e) will have to provide that the person can terminate the agreement within 3 months of the date of effect of the agreement.
 
              (3)  This section does not affect any agreement between the person and the proprietor (within the meaning of the 1953 Act) of the nursing home, relating to exempt bed status in respect of the bed.
 
+
 ## Part 2.6—Certification of residential care services
 
 _Note:       There are no transitional provisions relating to Part 2.6 of the Aged Care Act 1997._
+
 
  
 
@@ -1531,7 +1549,7 @@ _Note:       There are no transitional provisions relating to Part 2
 
 ##### <a id="59"></a>59  Eligibility for residential care subsidy for the day provision of residential care stops
 
-                   For the purposes of the new Act, paragraph 42-1(2)(b) of the new Act does not apply in relation to a care recipient in respect of * residential care that is * provided to the care recipient through a * residential care service if:
+                   For the purposes of the new Act, paragraph 42-1(2)(b) of the new Act does not apply in relation to a care recipient in respect of <sup>* </sup>residential care that is <sup>* </sup>provided to the care recipient through a <sup>* </sup>residential care service if:
 
                      (a)  the care recipient has been provided with residential care through that residential care service on a continuous basis since immediately before the commencement day; and
 
@@ -1541,7 +1559,7 @@ _Note:       There are no transitional provisions relating to Part 2
 
 ##### <a id="60"></a>60  Additional amounts in respect of staffing and related costs
 
-             (1)  The Minister may, by instrument in writing, specify circumstances in which additional amounts are payable in respect of * residential care services in respect of which * residential care subsidy is payable under section 43-1 of the new Act.
+             (1)  The Minister may, by instrument in writing, specify circumstances in which additional amounts are payable in respect of <sup>* </sup>residential care services in respect of which <sup>* </sup>residential care subsidy is payable under section 43-1 of the new Act.
 
              (2)  The additional amounts are to be:
 
@@ -1553,13 +1571,13 @@ _Note:       There are no transitional provisions relating to Part 2
 
              (4)  The periods in respect of which the additional amounts are payable are the periods specified in the instrument.
 
-             (5)  Any additional amount payable in respect of a * residential care service is to be included in a payment of * residential care subsidy under section 43-1 in respect of the service.
+             (5)  Any additional amount payable in respect of a <sup>* </sup>residential care service is to be included in a payment of <sup>* </sup>residential care subsidy under section 43-1 in respect of the service.
 
              (6)  Additional amounts payable under this section are payable out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
 ##### <a id="61"></a>61  Overpayments and underpayments of Commonwealth benefit
 
-             (1)  Adjustment made to an amount of an advance paid under subsection 43-3(3) of the new Act in respect of a * residential care service may take account of:
+             (1)  Adjustment made to an amount of an advance paid under subsection 43-3(3) of the new Act in respect of a <sup>* </sup>residential care service may take account of:
 
                      (a)  the amount of any likely overpayment or underpayment of Commonwealth benefit determined under section 46E of the 1953 Act in respect of an approved nursing home that corresponds to the residential care service; and
 
@@ -1609,7 +1627,7 @@ for the purposes of the new Act, a determination is taken to be in force under s
 
                              (ii)  is taken to be such a patient under paragraph 58(2)(e); and
 
-                     (b)  on the commencement day, or on a day occurring after the commencement day, the person is * provided with * residential care through a * residential care service corresponding to that nursing home; and
+                     (b)  on the commencement day, or on a day occurring after the commencement day, the person is <sup>* </sup>provided with <sup>* </sup>residential care through a <sup>* </sup>residential care service corresponding to that nursing home; and
 
                      (c)  under section 44-18 of the new Act, there is an extra service reduction for the day on which that residential care is provided;
 
@@ -1621,13 +1639,13 @@ the amount of the extra service reduction for that day is:
 
              (2)  If, after the commencement day:
 
-                     (a)  the person ceases to be * provided with * residential care through the * residential care service (other than because the person is on * leave); or
+                     (a)  the person ceases to be <sup>* </sup>provided with <sup>* </sup>residential care through the <sup>* </sup>residential care service (other than because the person is on <sup>* </sup>leave); or
 
                      (b)  the person is provided with residential care through the residential care service, but not on an extra service basis within the meaning of Division 36 of the new Act;
 
 this section does not apply in respect of any subsequent day on which the person is provided with residential care through that residential care service.
 
-Note:          Under section 52 of this Act, the exempt bed status of nursing homes can be taken to be * extra service status for the purposes of the new Act. See also section 68 of this Act relating to extra service amounts for exempt residents.
+Note:          Under section 52 of this Act, the exempt bed status of nursing homes can be taken to be <sup>* </sup>extra service status for the purposes of the new Act. See also section 68 of this Act relating to extra service amounts for exempt residents.
 
                  (3)  In this section:
 
@@ -1639,9 +1657,9 @@ Note:          Under section 52 of this Act, the exempt bed st
 
              (1)  If, immediately before the commencement day, a determination under subsection 59(1) of the 1953 Act was in force in respect of a qualified nursing home patient (within the meaning of the 1953 Act), for the purposes of the new Act, paragraphs 44-20(2)(a) and (b) of that Act are taken to be satisfied in respect of a day if:
 
-                     (a)  on that day the patient is provided with * residential care; and
+                     (a)  on that day the patient is provided with <sup>* </sup>residential care; and
 
-                     (b)  that * residential care corresponds to the nursing home care to which the determination relates.
+                     (b)  that <sup>* </sup>residential care corresponds to the nursing home care to which the determination relates.
 
              (2)  If there are or have been reductions, under subsection 59(2) or (3) of the 1953 Act, in Commonwealth benefit (within the meaning of Part VC of the 1953 Act) as a result of the determination, those reductions in benefit are taken, for the purposes of the new Act:
 
@@ -1655,13 +1673,13 @@ Note:          Under section 52 of this Act, the exempt bed st
 
                      (a)  a person was, or is taken under paragraph 58(2)(e) to be, an exempt patient (within the meaning of section 39AD of the 1953 Act) in an approved nursing home immediately before the commencement day; and
 
-                     (b)  on the commencement day, or on a day occurring after the commencement day, the person is * provided with * residential care through a * residential care service corresponding to that nursing home;
+                     (b)  on the commencement day, or on a day occurring after the commencement day, the person is <sup>* </sup>provided with <sup>* </sup>residential care through a <sup>* </sup>residential care service corresponding to that nursing home;
 
-the * daily income tested reduction in respect of the person for the day on which the residential care is provided is taken to be zero.
+the <sup>* </sup>daily income tested reduction in respect of the person for the day on which the residential care is provided is taken to be zero.
 
              (2)  If, after the commencement day:
 
-                     (a)  the person ceases to be * provided with * residential care through the * residential care service (other than because the person is on * leave); or
+                     (a)  the person ceases to be <sup>* </sup>provided with <sup>* </sup>residential care through the <sup>* </sup>residential care service (other than because the person is on <sup>* </sup>leave); or
 
                      (b)  the person is provided with residential care through the residential care service, but not on an extra service basis within the meaning of Division 36 of the new Act;
 
@@ -1670,6 +1688,7 @@ this section does not apply in respect of any subsequent day on which the person
 ##### <a id="67"></a>67  Determinations under section 5 of the _Aged Care Income Testing Act 1997_
 
                    If, immediately before the commencement day, a determination under section 5 of the _Aged Care Income Testing Act 1997_ was in force, for the purposes of the new Act, the determination has effect as if it were a determination made on that day under section 44-24 of that Act.
+
 
  
 
@@ -1687,6 +1706,7 @@ _Note:       There are no transitional provisions in relation to Par
 
 _Note:       There are no transitional provisions in relation to Part 4.1 of the Aged Care Act 1997._
 
+
  
 
 ## Part 4.2—User rights
@@ -1703,7 +1723,7 @@ _Note:       There are no transitional provisions in relation to Par
 
                              (ii)  is taken to be such a patient under paragraph 58(2)(e); and
 
-                     (b)  on the commencement day, or on a day occurring after the commencement day, the person is * provided with * residential care through a * residential care service corresponding to that nursing home;
+                     (b)  on the commencement day, or on a day occurring after the commencement day, the person is <sup>* </sup>provided with <sup>* </sup>residential care through a <sup>* </sup>residential care service corresponding to that nursing home;
 
 section 58-5 of the new Act has effect, in relation to the day on which the residential care is provided, as if:
 
@@ -1717,13 +1737,13 @@ section 58-5 of the new Act has effect, in relation to the day on which the resi
 
              (2)  If, after the commencement day:
 
-                     (a)  the person ceases to be * provided with * residential care through the * residential care service (other than because the person is on * leave); or
+                     (a)  the person ceases to be <sup>* </sup>provided with <sup>* </sup>residential care through the <sup>* </sup>residential care service (other than because the person is on <sup>* </sup>leave); or
 
                      (b)  the person is provided with residential care through the residential care service, but not on an extra service basis within the meaning of Division 36 of the new Act;
 
 this section does not apply in respect of any subsequent day on which the person is provided with residential care through that residential care service.
 
-Note:          Under section 52 of this Act, the exempt bed status of nursing homes can be taken to be * extra service status for the purposes of the new Act. See also section 68 of this Act relating to extra service amounts for exempt residents.
+Note:          Under section 52 of this Act, the exempt bed status of nursing homes can be taken to be <sup>* </sup>extra service status for the purposes of the new Act. See also section 68 of this Act relating to extra service amounts for exempt residents.
 
              (3)  In this section:
 
@@ -1739,9 +1759,9 @@ Note:          Under section 52 of this Act, the exempt bed st
 
                      (b)  the agreement was entered into between a person in relation to whom an approval under subsection 40AB(3) of the 1953 Act had been given and the proprietor (within the meaning of that Act) of an approved nursing home;
 
-for the purposes of paragraph 56-1(g) of the new Act, the agreement is taken to be a * resident agreement that:
+for the purposes of paragraph 56-1(g) of the new Act, the agreement is taken to be a <sup>* </sup>resident agreement that:
 
-                     (c)  the * approved provider conducting the * residential care service that corresponds to the nursing home had, on the commencement day, offered to enter into with the person to whom the approval was given; and
+                     (c)  the <sup>* </sup>approved provider conducting the <sup>* </sup>residential care service that corresponds to the nursing home had, on the commencement day, offered to enter into with the person to whom the approval was given; and
 
                      (d)  the approved provider and that person had entered into on the commencement day.
 
@@ -1759,7 +1779,7 @@ for the purposes of paragraph 56-1(g) of the new Act, the agreement is taken to 
 
                              (ii)  a day occurring after the commencement day;
 
-                            the person is * provided with * residential care through a * residential care service corresponding to that hostel; and
+                            the person is <sup>* </sup>provided with <sup>* </sup>residential care through a <sup>* </sup>residential care service corresponding to that hostel; and
 
                      (c)  the person’s interim hostel fee (see subsection (2)) exceeds the maximum daily amount of resident fees payable by the care recipient, as worked out under section 58-2 of the new Act, in respect of the day in question; and
 
@@ -1777,11 +1797,11 @@ paragraph 58(1)(a) of the new Act has effect as if the reference in subparagraph
 
                             in respect of the hostel place that the person occupied, minus any residential care allowance amount for the person;
 
-                     (b)  if the person’s income on the day in question, as reviewed at the person’s request by the * approved provider conducting the * residential care service, is less than the person’s income on the day before the commencement day (minus any residential care allowance amount for the person)—the amount of the fee referred to in paragraph (a), reduced by the difference between the 2 amounts of income.
+                     (b)  if the person’s income on the day in question, as reviewed at the person’s request by the <sup>* </sup>approved provider conducting the <sup>* </sup>residential care service, is less than the person’s income on the day before the commencement day (minus any residential care allowance amount for the person)—the amount of the fee referred to in paragraph (a), reduced by the difference between the 2 amounts of income.
 
              (3)  For the purposes of subsection (2), if, on the day before the commencement of Part 1 of Schedule 3 to this Act:
 
-                     (a)  the person is receiving an * income support payment; and
+                     (a)  the person is receiving an <sup>* </sup>income support payment; and
 
                      (b)  an amount of residential care allowance, worked out under Part 3.12B of the _Social Security Act 1991_, is included in the person’s rate of payment;
 
@@ -1797,9 +1817,9 @@ the **_residential care allowance amount_** for the person is the amount of resi
 
                      (b)  the Formal Agreement was entered into between an eligible person (within the meaning of the 1954 Act) and an approved operator (within the meaning of the 1954 Act) of a hostel;
 
-for the purposes of paragraph 56-1(g) of the new Act, the Formal Agreement is taken to be a * resident agreement that:
+for the purposes of paragraph 56-1(g) of the new Act, the Formal Agreement is taken to be a <sup>* </sup>resident agreement that:
 
-                     (c)  the * approved provider conducting the * residential care service that corresponds to the hostel had, on the commencement day, offered to enter into with the eligible person; and
+                     (c)  the <sup>* </sup>approved provider conducting the <sup>* </sup>residential care service that corresponds to the hostel had, on the commencement day, offered to enter into with the eligible person; and
 
                      (d)  the approved provider and the eligible person had entered into on the commencement day.
 
@@ -1817,33 +1837,25 @@ the amount of the resident fee that may be charged under that paragraph in respe
 
                      (b)  immediately before the commencement day, the person was an existing resident (within the meaning of section 10F of the 1954 Act), or a new resident (within the meaning of that section), of the hostel;
 
-then:
+on and after the commencement day:
 
-                     (c)  on and after the commencement day, paragraph 56-1(a) of the new Act applies as if the requirements referred to in that paragraph were the requirements of the General Conditions formulated under section 10F of the 1954 Act, as they relate to entry contributions; and
+                     (c)  paragraph 56-1(a) of the new Act applies as if the requirements referred to in that paragraph were the requirements of the General Conditions formulated under section 10F of the 1954 Act, as they relate to entry contributions; and
 
-                     (d)  subject to paragraph (e), on and after the commencement day, Division 57 of the new Act does not apply in relation to the entry contribution; and
-
-                     (e)  on and after the day that Schedule 2 to the _Aged Care Amendment (2005 Measures No. 1) Act 2006_ commenced:
-
-                              (i)  the Prudential Standards made under section 57‑4 of the new Act; and
-
-                             (ii)  section 57‑21B of the new Act;
-
-                            apply in relation to the entry contribution.
+                     (d)  Division 57 of the new Act does not apply in relation to the entry contribution.
 
              (4)  If:
 
                      (a)  before the commencement day, the person had, under the Formal Agreement, paid, or agreed to pay, an entry contribution (within the meaning of the General Conditions formulated under section 10F of the 1954 Act) to the approved operator; and
 
-                     (b)  on or after the commencement day, the person ceases being provided with * residential care through the * residential care service (the **_original service)_** that corresponds to the hostel (other than because the care recipient is on * leave); and
+                     (b)  on or after the commencement day, the person ceases being provided with <sup>* </sup>residential care through the <sup>* </sup>residential care service (the **_original service)_** that corresponds to the hostel (other than because the care recipient is on <sup>* </sup>leave); and
 
                      (c)  the person enters another residential care service within 28 days after the day on which the person ceased being provided with care by the original service;
 
 for the purposes of the new Act:
 
-                     (d)  the amount of the entry contribution that is refundable to the person under the Formal Agreement is taken to be the maximum amount of the * accommodation bond for the entry of the person to the other service; and
+                     (d)  the amount of the entry contribution that is refundable to the person under the Formal Agreement is taken to be the maximum amount of the <sup>* </sup>accommodation bond for the entry of the person to the other service; and
 
-                     (e)  the amount of the entry contribution that is so refundable is to be refunded to the person in accordance with subsection 57-21(3) as if that amount were an * accommodation bond balance.
+                     (e)  the amount of the entry contribution that is so refundable is to be refunded to the person in accordance with subsection 57-21(3) as if that amount were an <sup>* </sup>accommodation bond balance.
 
              (5)  For the purposes of subsection 57-20(5) of the new Act, if:
 
@@ -1851,7 +1863,7 @@ for the purposes of the new Act:
 
                      (b)  before, on or after the commencement day, the approved operator has retained an amount from the entry contribution in respect of a period;
 
-each month included in that period is taken to be a month in respect of which a retention amount was deducted from an * accommodation bond balance in respect of an * accommodation bond previously paid by the person.
+each month included in that period is taken to be a month in respect of which a retention amount was deducted from an <sup>* </sup>accommodation bond balance in respect of an <sup>* </sup>accommodation bond previously paid by the person.
 
 ### Division 3—Community aged care services
 
@@ -1863,11 +1875,11 @@ each month included in that period is taken to be a month in respect of which a 
 
                      (b)  the formal agreement was entered into between an eligible person (within the meaning of the 1954 Act) and an approved provider (within the meaning of the 1954 Act) of a community aged care service;
 
-for the purposes of paragraph 56-2(e) of the new Act, the formal agreement is taken to be a * community care agreement that:
+for the purposes of paragraph 56-2(e) of the new Act, the formal agreement is taken to be a <sup>* </sup>community care agreement that:
 
-                     (c)  the * approved provider conducting the * community care service that corresponds to the community aged care service had, on the commencement day, offered to enter into with the eligible person; and
+                     (c)  the <sup>* </sup>approved provider conducting the <sup>* </sup>community care service that corresponds to the community aged care service had, on the commencement day, offered to enter into with the eligible person; and
 
-                     (d)  the * approved provider and the eligible person had entered into on the commencement day.
+                     (d)  the <sup>* </sup>approved provider and the eligible person had entered into on the commencement day.
 
              (2)  If:
 
@@ -1887,7 +1899,7 @@ the amount of the community care fee that may be charged under that paragraph in
 
                      (b)  the direction was to the proprietor (within the meaning of the 1953 Act) of an approved nursing home to appoint a nursing home adviser in respect of the home;
 
-for the purposes of the new Act, the direction continues to apply as if the direction were a direction to the * approved provider conducting the * residential care service that corresponds to the nursing home to appoint an adviser in respect of that service.
+for the purposes of the new Act, the direction continues to apply as if the direction were a direction to the <sup>* </sup>approved provider conducting the <sup>* </sup>residential care service that corresponds to the nursing home to appoint an adviser in respect of that service.
 
              (2)  For the purposes of the new Act, the responsibilities of an approved provider under section 63-1 of the new Act are taken to include complying with a direction referred to in subsection (1).
 
@@ -1905,7 +1917,7 @@ for the purposes of the new Act, the direction continues to apply as if the dire
 
 for the purposes of the new Act:
 
-                     (c)  the declaration is taken to be a notice of non-compliance under section 67-2 of the new Act given to the * approved provider conducting the * residential care service that corresponds to the nursing home; and
+                     (c)  the declaration is taken to be a notice of non-compliance under section 67-2 of the new Act given to the <sup>* </sup>approved provider conducting the <sup>* </sup>residential care service that corresponds to the nursing home; and
 
                      (d)  the approved provider is taken not to have made any submissions in response to the notice of non-compliance.
 
@@ -1919,9 +1931,9 @@ for the purposes of the new Act:
 
 for the purposes of the new Act, the determination is taken to be a sanction that:
 
-                     (c)  is imposed under subparagraph 66‑1(c)(ii) of the new Act, on the commencement day, on the * approved provider conducting the * residential care service that corresponds to the nursing home; and
+                     (c)  is imposed under subparagraph 66-1(c)(ii) of the new Act, on the commencement day, on the <sup>* </sup>approved provider conducting the <sup>* </sup>residential care service that corresponds to the nursing home; and
 
-                     (d)  restricts that approved provider’s approval as a provider of * aged care services to care recipients to whom the approved provider * provided care before the making of the determination.
+                     (d)  restricts that approved provider’s approval as a provider of <sup>* </sup>aged care services to care recipients to whom the approved provider <sup>* </sup>provided care before the making of the determination.
 
              (2)  The sanction period for that sanction under section 68-2 of the new Act:
 
@@ -1939,13 +1951,13 @@ for the purposes of the new Act, the determination is taken to be a sanction tha
 
 for the purposes of the new Act, the suspension is taken to be a sanction that:
 
-                     (c)  is imposed, under paragraph 66‑1(g) of the new Act, on the commencement day; and
+                     (c)  is imposed, under paragraph 66-1(g) of the new Act, on the commencement day; and
 
                      (d)  constitutes a suspension:
 
-                              (i)  if the suspension was a suspension of exempt bed status in respect of all of the beds in the nursing home—of the * extra service status of the * residential care service that corresponds to the nursing home; or 
+                              (i)  if the suspension was a suspension of exempt bed status in respect of all of the beds in the nursing home—of the <sup>* </sup>extra service status of the <sup>* </sup>residential care service that corresponds to the nursing home; or 
 
-                             (ii)  if the suspension was a suspension of exempt bed status in respect of some only of the beds in the nursing home—of the extra service status of a * distinct part of the residential care service that includes the * places corresponding to those beds.
+                             (ii)  if the suspension was a suspension of exempt bed status in respect of some only of the beds in the nursing home—of the extra service status of a <sup>* </sup>distinct part of the residential care service that includes the <sup>* </sup>places corresponding to those beds.
 
              (2)  The sanction period for that sanction under section 68-2 of the new Act:
 
@@ -1963,7 +1975,7 @@ for the purposes of the new Act, the suspension is taken to be a sanction that:
 
 for the purposes of the new Act:
 
-                     (c)  the declaration is taken to be a notice of non-compliance under section 67-2 of the new Act given to the * approved provider conducting the * residential care service that corresponds to the nursing home; and
+                     (c)  the declaration is taken to be a notice of non-compliance under section 67-2 of the new Act given to the <sup>* </sup>approved provider conducting the <sup>* </sup>residential care service that corresponds to the nursing home; and
 
                      (d)  the approved provider is taken not to have made any submissions in response to the notice of non-compliance.
 
@@ -1977,9 +1989,9 @@ for the purposes of the new Act:
 
 for the purposes of the new Act, the determination is taken to be a sanction that:
 
-                     (c)  is imposed, under subparagraph 66‑1(c)(ii) of the new Act, on the commencement day, on the * approved provider conducting the * residential care service that corresponds to the nursing home; and
+                     (c)  is imposed, under subparagraph 66-1(c)(ii) of the new Act, on the commencement day, on the <sup>* </sup>approved provider conducting the <sup>* </sup>residential care service that corresponds to the nursing home; and
 
-                     (d)  restricts that approved provider’s approval as a provider of * aged care services to care recipients to whom the approved provider * provided care before the making of the determination.
+                     (d)  restricts that approved provider’s approval as a provider of <sup>* </sup>aged care services to care recipients to whom the approved provider <sup>* </sup>provided care before the making of the determination.
 
              (2)  The sanction period for that sanction under section 68-2 of the new Act:
 
@@ -2011,7 +2023,7 @@ Part 4.4 of the new Act applies to the failure as if the failure had happened af
 
 for the purposes of the new Act:
 
-                     (c)  the declaration is taken to be a notice of non-compliance under section 67-2 of the new Act given to the * approved provider conducting the * residential care service that corresponds to the hostel; and
+                     (c)  the declaration is taken to be a notice of non-compliance under section 67-2 of the new Act given to the <sup>* </sup>approved provider conducting the <sup>* </sup>residential care service that corresponds to the hostel; and
 
                      (d)  the approved provider is taken not to have made any submissions in response to the notice of non-compliance.
 
@@ -2025,9 +2037,9 @@ for the purposes of the new Act:
 
 for the purposes of the new Act, the determination is taken to be a sanction that:
 
-                     (c)  is imposed, under paragraph 66‑1(d) of the new Act, on the commencement day, on the * approved provider conducting the * residential care service that corresponds to the hostel; and
+                     (c)  is imposed, under paragraph 66-1(d) of the new Act, on the commencement day, on the <sup>* </sup>approved provider conducting the <sup>* </sup>residential care service that corresponds to the hostel; and
 
-                     (d)  suspends the allocation of the * places taken, under section 29 of this Act, to have been allocated under section 14-1 of the new Act to the approved provider in respect of the hostel.
+                     (d)  suspends the allocation of the <sup>* </sup>places taken, under section 29 of this Act, to have been allocated under section 14-1 of the new Act to the approved provider in respect of the hostel.
 
              (2)  The sanction period for that sanction under section 68-2 of the new Act:
 
@@ -2043,17 +2055,17 @@ for the purposes of the new Act, the determination is taken to be a sanction tha
 
                      (b)  the determination was a determination varying an agreement entered into under section 10FA of the 1954 Act in respect of a hostel;
 
-for the purposes of the new Act, the determination is taken to be a sanction imposed, under paragraph 66‑1(e) of the new Act, on the commencement day, on the * approved provider conducting the * residential care service that corresponds to the hostel.
+for the purposes of the new Act, the determination is taken to be a sanction imposed, under paragraph 66-1(e) of the new Act, on the commencement day, on the <sup>* </sup>approved provider conducting the <sup>* </sup>residential care service that corresponds to the hostel.
 
-             (2)  For the purposes of subsection (1), if the variation of the agreement reduced the number of approved hostel places specified in the agreement, the number of * places taken, under section 29 of this Act, to have been allocated to the * approved provider under section 14-1 of the new Act is taken to be reduced by the same number.
+             (2)  For the purposes of subsection (1), if the variation of the agreement reduced the number of approved hostel places specified in the agreement, the number of <sup>* </sup>places taken, under section 29 of this Act, to have been allocated to the <sup>* </sup>approved provider under section 14-1 of the new Act is taken to be reduced by the same number.
 
-             (3)  For the purposes of subsection (1), if the variation of the agreement reduced the number of approved respite care places specified in the agreement, the proportion of * care to be * provided by the * approved provider as * respite care is taken to be reduced by a corresponding amount.
+             (3)  For the purposes of subsection (1), if the variation of the agreement reduced the number of approved respite care places specified in the agreement, the proportion of <sup>* </sup>care to be <sup>* </sup>provided by the <sup>* </sup>approved provider as <sup>* </sup>respite care is taken to be reduced by a corresponding amount.
 
              (4)  For the purposes of subsection (1), if:
 
-                     (a)  there was a variation of the classes of eligible persons (within the meaning of the 1954 Act) specified in the agreement to be accommodated in approved places—a corresponding variation is taken to have been made to the conditions to which the * approved provider’s allocation of * places is taken to be subject under section 14-5 of the new Act; or
+                     (a)  there was a variation of the classes of eligible persons (within the meaning of the 1954 Act) specified in the agreement to be accommodated in approved places—a corresponding variation is taken to have been made to the conditions to which the <sup>* </sup>approved provider’s allocation of <sup>* </sup>places is taken to be subject under section 14-5 of the new Act; or
 
-                     (b)  there was a variation to the proportion or number of places specified in relation to each such class—a variation corresponding to that variation is taken to have been made to the conditions to which the approved provider’s allocation of * places is taken to be subject under section 14-5 of the new Act.
+                     (b)  there was a variation to the proportion or number of places specified in relation to each such class—a variation corresponding to that variation is taken to have been made to the conditions to which the approved provider’s allocation of <sup>* </sup>places is taken to be subject under section 14-5 of the new Act.
 
              (5)  In this section:
 
@@ -2087,9 +2099,9 @@ Part 4.4 of the new Act applies to the failure as if the failure had happened af
 
                      (b)  as at the commencement day, the Minister had not yet made a decision on the application;
 
-the application is taken, for the purposes of the new Act, to be a valid application made, on the commencement day, under section 71-1 of the new Act for the allocation of a * residential care grant.
+the application is taken, for the purposes of the new Act, to be a valid application made, on the commencement day, under section 71-1 of the new Act for the allocation of a <sup>* </sup>residential care grant.
 
-             (2)  The Secretary is taken to have waived under section 72-5 of the new Act the requirements referred to in paragraph (b) of that section so far as they relate to that application and any allocation of a * residential care grant made in connection with that application.
+             (2)  The Secretary is taken to have waived under section 72-5 of the new Act the requirements referred to in paragraph (b) of that section so far as they relate to that application and any allocation of a <sup>* </sup>residential care grant made in connection with that application.
 
              (3)  If:
 
@@ -2097,7 +2109,7 @@ the application is taken, for the purposes of the new Act, to be a valid applica
 
                      (b)  at the time of the application, a certificate was in force under section 9AB of the 1954 Act for financial assistance by way of a grant in respect of that hostel;
 
-the Secretary must allocate a * residential care grant in connection with the application if the Secretary is satisfied:
+the Secretary must allocate a <sup>* </sup>residential care grant in connection with the application if the Secretary is satisfied:
 
                      (c)  the applicant has met the conditions, and provided the information and documents, referred to in subparagraph 9AB(3)(a)(i) as in force immediately before the commencement of the _Aged Care Act 1997_ (other than Division 1 of that Act), in relation to that certificate; and
 
@@ -2114,6 +2126,7 @@ the Secretary must allocate a * residential care grant in connection with the ap
                      (a)  the repeal of section 9AB of the 1954 Act had not happened; and
 
                      (b)  the principles formulated under section 9AB(13) of the 1954 Act that were in force immediately before the commencement day continued in force.
+
 
 ## Part 5.2—Community care grants
 
@@ -2138,6 +2151,7 @@ _Note:       There are no transitional provisions in relation to Par
 ## Part 5.7—Other grants
 
 _Note:       There are no transitional provisions in relation to Part 5.7 of the Aged Care Act 1997._
+
 
  
 
@@ -2205,6 +2219,7 @@ for the purposes of the new Act:
 
                      (d)  the information is taken to have been acquired by the person in the course of exercising powers or functions or performing duties under the new Act.
 
+
 ## Part 6.3—Record keeping
 
 _Note:       There are no transitional provisions in relation to Part 6.3 of the Aged Care Act 1997._
@@ -2217,13 +2232,15 @@ _Note:       There are no transitional provisions in relation to Par
 
 _Note:       There are no transitional provisions in relation to Part 6.5 of the Aged Care Act 1997._
 
+
  
 
 # Chapter 7—Miscellaneous
 
 _Note:       There are no transitional provisions in relation to Chapter 7 of the Aged Care Act 1997._
 
-###### Schedule 1—Amendment of the National Health Act 1953
+
+# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 1</span>—<span class="CharChapText">Amendment of the National Health Act 1953</span>
 
 ## 1  Subsection 4(1) (definition of _approved_)
 
@@ -2233,7 +2250,7 @@ Omit “means approved, or deemed to be approved, under Part V”, substitute �
 
 Insert:
 
-    (1AAA)  A reference in this Act to a nursing home being approved is a reference to an approval having been in force, or having been deemed to be in force, under Part V, in respect of the nursing home, immediately before the commencement of the _Aged Care Act 1997_ (other than Division 1 of that Act).
+     (1AAA)  A reference in this Act to a nursing home being approved is a reference to an approval having been in force, or having been deemed to be in force, under Part V, in respect of the nursing home, immediately before the commencement of the _Aged Care Act 1997_ (other than Division 1 of that Act).
 
 ## 3  Section 4AAAA
 
@@ -2475,11 +2492,11 @@ the amount of the Commonwealth benefit that would, apart from this section, be p
 
              (4)  The amount of the Commonwealth benefit is to be reduced by an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00283/Html/3acf389b-42a2-4493-81fa-4ad5a8c62344_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00221/Html/D3E28BCD969ABBE3CA2571630004A789/$FILE/image002.gif)
 
 Example:    Assume the amount of the Commonwealth benefit is $10,000 per month, and that the distinct part of the residential care service that is granted extra service status contains 20 places and the total number of places in the service is 40\. The amount of the Commonwealth benefit is to be reduced by:
 
-![](http://www.comlaw.gov.au/Details/C2006C00283/Html/3acf389b-42a2-4493-81fa-4ad5a8c62344_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00221/Html/D3E28BCD969ABBE3CA2571630004A789/$FILE/image003.gif)
 
              (5)  In this section:
 
@@ -2533,11 +2550,11 @@ the amount of the Commonwealth benefit that would, apart from this section, be p
 
              (4)  The amount of the Commonwealth benefit is to be reduced by an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00283/Html/3acf389b-42a2-4493-81fa-4ad5a8c62344_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00221/Html/D3E28BCD969ABBE3CA2571630004A789/$FILE/image002.gif)
 
 Example:    Assume the amount of the Commonwealth benefit is $10,000 per month, and that the distinct part of the residential care service that is granted extra service status contains 20 places and the total number of places in the service is 40\. The amount of the Commonwealth benefit is to be reduced by:
 
-![](http://www.comlaw.gov.au/Details/C2006C00283/Html/3acf389b-42a2-4493-81fa-4ad5a8c62344_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00221/Html/D3E28BCD969ABBE3CA2571630004A789/$FILE/image004.gif)
 
              (5)  In this section:
 
@@ -2631,7 +2648,7 @@ Add:
 
 Repeal the Schedules.
 
-###### Schedule 2—Amendment of the Aged or Disabled Persons Care Act 1954
+# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 2</span>—<span class="CharChapText">Amendment of the Aged or Disabled Persons Care Act 1954</span>
 
 ## 1  Subsection 2(1) (definition of _approved_)
 
@@ -2703,11 +2720,11 @@ the remaining amount is to be reduced in accordance with subsection (6).
 
              (6)  The remaining amount is to be reduced by an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00283/Html/3acf389b-42a2-4493-81fa-4ad5a8c62344_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00221/Html/D3E28BCD969ABBE3CA2571630004A789/$FILE/image005.gif)
 
 Example:    Assume the amount of the grant is $500,000, and the remaining amount is $200,000\. Assume the distinct part of the residential care service that is granted extra service status contains 20 places, and the total number of places in the service is 40\. The remaining amount is to be reduced by:
 
-![](http://www.comlaw.gov.au/Details/C2006C00283/Html/3acf389b-42a2-4493-81fa-4ad5a8c62344_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00221/Html/D3E28BCD969ABBE3CA2571630004A789/$FILE/image006.gif)
 
              (7)  In this section:
 
@@ -2745,11 +2762,11 @@ the remaining amount is to be reduced in accordance with subsection (8).
 
              (8)  The remaining amount is to be reduced by an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00283/Html/3acf389b-42a2-4493-81fa-4ad5a8c62344_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00221/Html/D3E28BCD969ABBE3CA2571630004A789/$FILE/image005.gif)
 
 Example:    Assume the amount of the grant is $500,000, and the remaining amount is $200,000\. Assume the distinct part of the residential care service that is granted extra service status contains 20 places, and the total number of places in the service is 40\. The remaining amount is to be reduced by:
 
-![](http://www.comlaw.gov.au/Details/C2006C00283/Html/3acf389b-42a2-4493-81fa-4ad5a8c62344_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00221/Html/D3E28BCD969ABBE3CA2571630004A789/$FILE/image006.gif)
 
              (9)  In this section:
 
@@ -2847,7 +2864,7 @@ Repeal the section.
 
 Repeal the Schedule.
 
-###### Schedule 3—Amendment of the Social Security Act 1991
+# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 3</span>—<span class="CharChapText">Amendment of the Social Security Act 1991</span>
 
 <h7 class="ActHead7">Part 1—Abolition of residential care allowance</h7>
 
@@ -2861,38 +2878,40 @@ Repeal:
   <col width="21%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>excluded home owner</div>
-  </td>
-  <td>
-    <div>13A(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>nursing home</div>
-  </td>
-  <td>
-    <div>23(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>residential care charge</div>
-  </td>
-  <td>
-    <div>13A(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>residential care charge paid or payable</div>
-  </td>
-  <td>
-    <div>13A(4)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>excluded home owner</div>
+    </td>
+    <td>
+      <div>13A(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>nursing home</div>
+    </td>
+    <td>
+      <div>23(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>residential care charge</div>
+    </td>
+    <td>
+      <div>13A(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>residential care charge paid or payable</div>
+    </td>
+    <td>
+      <div>13A(4)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 2  Section 3 (index of definitions, entry relating to _in residential care_)
 
@@ -2910,7 +2929,7 @@ Repeal the section.
 
 Insert:
 
-       (4CA)  For the purposes of this Act, a person is **_in residential care_** if the person is being provided with residential care through an aged care service conducted by an approved provider.
+        (4CA)  For the purposes of this Act, a person is **_in residential care_** if the person is being provided with residential care through an aged care service conducted by an approved provider.
 
         (4CB)  In subsection (4CA), the following terms have the same meanings as in the _Aged Care Act 1997_:
 
@@ -2919,26 +2938,28 @@ Insert:
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b> <i>aged care service</i> </b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b> <i>approved provider</i> </b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b> <i>provide</i> </b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b> <i>residential care</i> </b></div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b> <i>aged care service</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b> <i>approved provider</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b> <i>provide</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b> <i>residential care</i> </b></div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 6  Paragraph 664A(4)(b)
 
@@ -3136,22 +3157,24 @@ Insert the following entries in their appropriate alphabetical positions (determ
   <col width="20%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>aged care resident</div>
-  </td>
-  <td>
-    <div>13(8A)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>in residential care on a long-term basis</div>
-  </td>
-  <td>
-    <div>997(2)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>aged care resident</div>
+    </td>
+    <td>
+      <div>13(8A)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>in residential care on a long-term basis</div>
+    </td>
+    <td>
+      <div>997(2)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 50  Subsection 13(4)
 
@@ -3237,7 +3260,7 @@ Insert:
 
 Insert:
 
-                   (da)  the person is not, or is taken not to be, an aged care resident; and
+                    (da)  the person is not, or is taken not to be, an aged care resident; and
 
 ## 61  After paragraph 1066A-EB2(e)
 
@@ -3265,13 +3288,13 @@ Insert:
 
 Insert:
 
-                   (ab)  the person is not an aged care resident; and
+                    (ab)  the person is not an aged care resident; and
 
 ## 66  After paragraph 1068A-F1(b)
 
 Insert:
 
-                   (ba)  the person is not an aged care resident; and
+                    (ba)  the person is not an aged care resident; and
 
 ## 67  After paragraph 1069-E2(1)(a)
 
@@ -3297,19 +3320,19 @@ Insert:
 
 Repeal the paragraph, substitute:
 
-                     (e)  a decision under section 44-24 of the _Aged Care Act 1997_ by the Secretary, or by a person to whom the Secretary has sub‑delegated power under subsection 96-2(7) of that Act;
+                     (e)  a decision under section 44-24 of the _Aged Care Act 1997_ by the Secretary, or by a person to whom the Secretary has sub-delegated power under subsection 96-2(7) of that Act;
 
 ## 70  Paragraph 1240(1)(e)
 
 Repeal the paragraph, substitute:
 
-                     (e)  a decision under section 44-24 of the _Aged Care Act 1997_ by the Secretary, or by a person to whom the Secretary has sub‑delegated power under subsection 96-2(7) of that Act;
+                     (e)  a decision under section 44-24 of the _Aged Care Act 1997_ by the Secretary, or by a person to whom the Secretary has sub-delegated power under subsection 96-2(7) of that Act;
 
 ## 71  Paragraph 1245(1)(d)
 
 Repeal the paragraph, substitute:
 
-                     (d)  all decisions under section 44-24 of the _Aged Care Act 1997_ by the Secretary, or by a person to whom the Secretary has sub‑delegated power under subsection 96-2(7) of that Act.
+                     (d)  all decisions under section 44-24 of the _Aged Care Act 1997_ by the Secretary, or by a person to whom the Secretary has sub-delegated power under subsection 96-2(7) of that Act.
 
 ## 72  Paragraph 1282(1)(b)
 
@@ -3405,22 +3428,24 @@ Insert the following entries in their appropriate alphabetical positions (determ
   <col width="20%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>accommodation bond</div>
-  </td>
-  <td>
-    <div>11(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>accommodation bond balance</div>
-  </td>
-  <td>
-    <div>11(1)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>accommodation bond</div>
+    </td>
+    <td>
+      <div>11(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>accommodation bond balance</div>
+    </td>
+    <td>
+      <div>11(1)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 75  Subsection 4(9)
 
@@ -3452,7 +3477,7 @@ Insert:
 
           (3B)  For the purposes of this Act, an accommodation bond balance in respect of an accommodation bond paid by a person is taken to be an asset of the person.
 
-###### Schedule 4—Amendment of the Veterans’ Entitlements Act 1986
+# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 4</span>—<span class="CharChapText">Amendment of the Veterans’ Entitlements Act 1986</span>
 
 <h7 class="ActHead7">Part 1—Abolition of residential care allowance</h7>
 
@@ -3676,54 +3701,56 @@ Insert the following entries in their appropriate alphabetical positions (determ
   <col width="20%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>aged care resident</div>
-  </td>
-  <td>
-    <div>5NC(5)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>in a care situation</div>
-  </td>
-  <td>
-    <div>5NC(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>in respite care</div>
-  </td>
-  <td>
-    <div>5NC(8)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>personally providing community-based care</div>
-  </td>
-  <td>
-    <div>5NC(4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>receiving community-based care</div>
-  </td>
-  <td>
-    <div>5NC(3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>residential care charge</div>
-  </td>
-  <td>
-    <div>5N(1)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>aged care resident</div>
+    </td>
+    <td>
+      <div>5NC(5)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>in a care situation</div>
+    </td>
+    <td>
+      <div>5NC(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>in respite care</div>
+    </td>
+    <td>
+      <div>5NC(8)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>personally providing community-based care</div>
+    </td>
+    <td>
+      <div>5NC(4)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>receiving community-based care</div>
+    </td>
+    <td>
+      <div>5NC(3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>residential care charge</div>
+    </td>
+    <td>
+      <div>5N(1)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 53  Section 5 (index of definitions)
 
@@ -3735,78 +3762,80 @@ Repeal:
   <col width="20%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>approved respite care</div>
-  </td>
-  <td>
-    <div>5R(8)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>excluded property owner</div>
-  </td>
-  <td>
-    <div>5NAA(1)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>in a care situation</div>
-  </td>
-  <td>
-    <div>5N(9)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>in residential care</div>
-  </td>
-  <td>
-    <div>5NAA(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>personally providing community-based care</div>
-  </td>
-  <td>
-    <div>5N(9)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>receiving community-based care</div>
-  </td>
-  <td>
-    <div>5N(9)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>residential care charge</div>
-  </td>
-  <td>
-    <div>5NAA(3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>residing in a nursing home</div>
-  </td>
-  <td>
-    <div>5N(8)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>respite period</div>
-  </td>
-  <td>
-    <div>5Q(1)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>approved respite care</div>
+    </td>
+    <td>
+      <div>5R(8)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>excluded property owner</div>
+    </td>
+    <td>
+      <div>5NAA(1)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>in a care situation</div>
+    </td>
+    <td>
+      <div>5N(9)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>in residential care</div>
+    </td>
+    <td>
+      <div>5NAA(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>personally providing community-based care</div>
+    </td>
+    <td>
+      <div>5N(9)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>receiving community-based care</div>
+    </td>
+    <td>
+      <div>5N(9)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>residential care charge</div>
+    </td>
+    <td>
+      <div>5NAA(3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>residing in a nursing home</div>
+    </td>
+    <td>
+      <div>5N(8)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>respite period</div>
+    </td>
+    <td>
+      <div>5Q(1)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 54  Paragraph 5L(7)(b)
 
@@ -3942,7 +3971,7 @@ Insert:
 
 if the Commission is satisfied that, immediately before the day, the person was liable to pay rent.
 
-             (8)  A person is **_in respite care_** on a particular day if the person is eligible for a respite care supplement in respect of that day under section 44‑12 of the _Aged Care Act 1997_.
+             (8)  A person is **_in respite care_** on a particular day if the person is eligible for a respite care supplement in respect of that day under section 44-12 of the _Aged Care Act 1997_.
 
              (9)  In this section, the following terms have the same meanings as in the _Aged Care Act 1997_:
 
@@ -3951,31 +3980,33 @@ if the Commission is satisfied that, immediately before the day, the person was 
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b> <i>aged care service</i> </b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b> <i>approved provider</i> </b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b> <i>flexible care</i> </b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b> <i>provide</i> </b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b> <i>residential care</i> </b></div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b> <i>aged care service</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b> <i>approved provider</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b> <i>flexible care</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b> <i>provide</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b> <i>residential care</i> </b></div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 72  Subsection 5Q(1) (definition of _respite period_)
 
@@ -4083,9 +4114,9 @@ After “income” (first occurring), insert “in relation to a person”.
 
 Insert:
 
-                   (na)  a payment of subsidy under Part 3.1 of the _Aged Care Act 1997_ made to an approved provider (within the meaning of that Act) in respect of care provided to the person;
+                    (na)  a payment of subsidy under Part 3.1 of the _Aged Care Act 1997_ made to an approved provider (within the meaning of that Act) in respect of care provided to the person;
 
-                   (nb)  an accommodation bond balance (within the meaning of the _Aged Care Act 1997_) refunded to the person under that Act;
+                    (nb)  an accommodation bond balance (within the meaning of the _Aged Care Act 1997_) refunded to the person under that Act;
 
 ## 92  After subsection 5J(2B)
 
@@ -4103,7 +4134,7 @@ Insert:
 
 The amendments of the _Veterans’ Entitlements Act 1986_ made by this Part apply in relation to an instalment of pension paid after the day on which the _Aged Care Act 1997_ commences.
 
-###### Schedule 5—Amendment and repeal of other Acts
+# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 5</span>—<span class="CharChapText">Amendment and repeal of other Acts</span>
 
 <h9 class="ActHead9">Aboriginal and Torres Strait Islander Commission Act 1989</h9>
 
@@ -4128,11 +4159,13 @@ Insert in the appropriate alphabetical position:
   <col width="100%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><i>Aged Care Act 1997</i>, subsection 86-2(1) and sections 86-5, 86-6 and 86-7.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><i>Aged Care Act 1997</i>, subsection 86-2(1) and sections 86-5, 86-6 and 86-7.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 <h9 class="ActHead9">Health and Other Services (Compensation) Act 1995</h9>
 
@@ -4198,7 +4231,7 @@ Repeal the paragraph, substitute:
 
                      (b)  nursing home care or residential care has been provided to that person in the course of treatment of, or as a result of, the injury; and
 
-                   (ba)  nursing home benefit or a residential care subsidy has already been paid in respect of that nursing home care or residential care; and
+                    (ba)  nursing home benefit or a residential care subsidy has already been paid in respect of that nursing home care or residential care; and
 
 _Note:       The heading to section 10 is altered by inserting “or residential care subsidy” after “benefit”._
 
@@ -4258,7 +4291,7 @@ After “care”, insert “or residential care”.
 
 Add:
 
-               ; or (f)  whether the Secretary should make a determination under subsection 44-16(5) of the _Aged Care Act 1997._
+                ; or (f)  whether the Secretary should make a determination under subsection 44-16(5) of the _Aged Care Act 1997._
 
 <h9 class="ActHead9">Home and Community Care Act 1985</h9>
 
@@ -4291,6 +4324,9 @@ Repeal the paragraph, substitute:
 ## 1  Paragraph 58G(1)(b)
 
 Omit “42 such days”, substitute “63 such days”.
+
+ 
+
 
  
 
