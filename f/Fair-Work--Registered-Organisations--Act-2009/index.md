@@ -1,12 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00479/Html/d59b58ba-2964-4260-9462-3bd6f5451a81_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00244/Html/9646223f-d994-48da-9e43-6d03725e3a94_files/image001.gif)
 
 # Fair Work (Registered Organisations) Act 2009
 
 **Act No. 86 of 1988 as amended**
 
-This compilation was prepared on 1 June 2012
+This compilation was prepared on 24 January 2012
  taking into account amendments up to Act No. 46 of 2011
- and SLI 2012 No. 80
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1115,6 +1114,10 @@ as in force, or applicable, from time to time, as modified by regulations made f
 
                     <a name="australian-auditing-standard"></a>**_Australian Auditing Standards_** means the auditing and assurance standards issued by CPA Australia and The Institute of Chartered Accountants in Australia as in force, or applicable, from time to time.
 
+                    <a name="australian-build-construct-commission"></a>**_Australian Building and Construction Commissioner_** has the same meaning as in the _Building and Construction Industry Improvement Act 2005_.
+
+                    <a name="australian-build-construct-inspector"></a>**_Australian Building and Construction Inspector_** has the same meaning as in the _Building and Construction Industry Improvement Act 2005_.
+
                     <a name="breach"></a>**_breach_** includes non‑observance.
 
                     <a name="civil-penalti-provision"></a>**_civil penalty provision_** has the meaning given by subsection 305(2).
@@ -1513,7 +1516,7 @@ then:
 
 ## Part 1—Simplified outline of Chapter
 
-##### <a id="17"></a>17  Simplified outline
+##### <a id="17"></a>17  Simplified outline
 
 * * *
 
@@ -4321,7 +4324,7 @@ the company must take all steps necessary to register or record the matter in th
 
                             (iii)  states that the asset has, under this Division, become an asset of the newly registered organisation;
 
-                            is given to the person or authority who has, under Commonwealth, State or Territory law, responsibility for keeping a register in relation to assets of that kind;
+                            is given to the person or authority who has, under Commonwealth, State or Territory law, responsibility for keeping a register in relation to assets of that kind;
 
 the person or authority may:
 
@@ -5665,7 +5668,7 @@ Note:          This section is a civil penalty provision (see 
 
                    The Federal Court may, on the application of an organisation, order that a person’s membership of that organisation or another organisation is to cease from a day, and for a period, specified in the order.
 
-##### <a id="171A"></a>171A  Cessation of membership if member is not an employee etc.
+##### <a id="171A"></a>171A  Cessation of membership if member is not an employee etc.
 
              (1)  If a person is a member of an organisation and the person is not, or is no longer:
 
@@ -6055,7 +6058,7 @@ the Electoral Commissioner must arrange for the completion of the conduct of the
 
 ##### <a id="194"></a>194  Hindering or obstructing electoral official or other person
 
-                   A person commits an offence if the person hinders or obstructs:
+                   A person commits an offence if the person hinders or obstructs:
 
                      (a)  an electoral official in the performance of functions in relation to an election for an office or other position in an organisation or branch of an organisation; or
 
@@ -7019,9 +7022,9 @@ who, under the rules of the reporting unit, is responsible (whether alone or wit
 
 Note:          Examples of the alterations that may be required are:
 
-(a)    alterations to designate officers from the branches to be the committee of management for the reporting unit for the purpose of complying with this Part; and
+(a)           alterations to designate officers from the branches to be the committee of management for the reporting unit for the purpose of complying with this Part; and
 
-(b)    alterations to designate officers from the branches to undertake such duties as are necessary for the purpose of enabling the reporting unit to comply with this Part.
+(b)           alterations to designate officers from the branches to undertake such duties as are necessary for the purpose of enabling the reporting unit to comply with this Part.
 
              (2)  Where an organisation applies for a certificate, the General Manager must issue the certificate and certify the rule alterations if the General Manager is satisfied that:
 
@@ -7751,7 +7754,7 @@ Note:          Where a matter is referred, it will be investig
 
 ##### <a id="279"></a>279  Constitution of FWA
 
-                   For the purposes of this Division, FWA must be constituted by the President or a Deputy President.
+                   For the purposes of this Division, FWA must be constituted by the President or a Deputy President.
 
 ## Part 4—Access to organisations’ books
 
@@ -8951,9 +8954,9 @@ is not admissible in evidence against the person in criminal proceedings or proc
 
                              (ii)  an FWA Member or a member of the staff of FWA;
 
-                            (iii)  the Director, within the meaning of subsection 4(1) of the _Fair Work (Building Industry) Act 2012_;
+                            (iii)  the Australian Building and Construction Commissioner;
 
-                            (iv)  a Fair Work Building Industry Inspector, within the meaning of subsection 4(1) of the _Fair Work (Building Industry) Act 2012_;
+                            (iv)  an Australian Building and Construction Inspector;
 
                              (v)  a member of the staff of the Office of the Fair Work Ombudsman (within the meaning of the Fair Work Act); and
 
@@ -10123,7 +10126,7 @@ Cancellation if subclause 1(2) no longer applies
 
 The _Fair Work (Registered Organisations) Act 2009_ as shown in this compilation comprises Act No. 86, 1988 amended as indicated in the Tables below.
 
-The _Fair Work (Registered Organisations) Act 2009_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50), the _Workplace Relations Regulations 2006_ (SLI 2006 No. 52 as amended by SLI 2006 No. 68 and SLI 2008 No. 38) and the _Building and Construction Industry Improvement Amendment (Transition to Fair Work) Regulation 2012_(SLI 2012 No. 80). The amendments are incorporated in this compilation.
+The _Fair Work (Registered Organisations) Act 2009_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50) and the _Workplace Relations Regulations 2006_ (SLI 2006 No. 52 as amended by SLI 2006 No. 68 and SLI 2008 No. 38). The amendments are incorporated in this compilation.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -10141,11 +10144,11 @@ The _Fair Work (Registered Organisations) Act 2009_ was modified by the Industri
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="15%">
   <col width="17%">
   <col width="22%">
-  <col width="17%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -11971,7 +11974,7 @@ Schedule 22 (item 91): <i>(v)</i></div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 3, 4): Royal Assent</div>
+    <div>Schedule 2 (items 3, 4): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -12026,7 +12029,7 @@ Schedule 22 (item 91): <i>(v)</i></div>
     <div>Schedule 2 (item 583) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -27721,7 +27724,7 @@ Schedule 1</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 153, 2005; No. 107, 2007; No. 8, 2008; No. 55, 2009; SLI 2012 No. 80</div>
+    <div>am. No. 153, 2005; No. 107, 2007; No. 8, 2008; No. 55, 2009</div>
   </td>
 </tr>
 <tr>
@@ -31722,7 +31725,7 @@ Part 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 153, 2005; No. 107, 2007; No. 55, 2009; SLI 2012 No. 80</div>
+    <div>am. No. 153, 2005; No. 107, 2007; No. 55, 2009</div>
   </td>
 </tr>
 <tr>
