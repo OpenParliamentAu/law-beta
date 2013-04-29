@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2008C00567/Html/FinanSectBusTransGrpResAct99WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00574/Html/08A897A6A9B70E78CA257368000D4BB7/$FILE/FinanSectBusTransGrpResAct99WD02_image001.gif)
 
 # Financial Sector (Business Transfer and Group Restructure) Act 1999
 
 **Act No. 45 of 1999 as amended**
 
-This compilation was prepared on 27 October 2008
- taking into account amendments up to Act No. 105 of 2008
+This compilation was prepared on 27 September 2007
+taking into account amendments up to Act No. 154 of 2007
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -88,8 +89,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Compulsory transfer determinations
 
-[25A](#25A).       Ministerial declaration that transfer should occur from ADI
-
 [26](#26).          Consultation about making the determination
 
 [27](#27).          When consent of receiving body is in force
@@ -113,10 +112,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [35](#35).          Time and effect of compulsory  transfer
 
 [36](#36).          Employment unaffected
-
-    **Division 4—Effect of compulsory transfer on contracts**
-
-[36AA](#36AA).    Compulsory transfer not ground for denying obligation
 
 **Part 4A—Restructures** 
 
@@ -191,6 +186,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [47](#47).          Regulations
 
 **Notes** 
+
 
 ## An Act to provide for transfers of business between some kinds of financial institutions, and to make provision in relation to internal restructures within some groups of financial institutions
 
@@ -296,6 +292,12 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  for a body that is a life insurance company—the body’s life insurance business (within the meaning of the _Life Insurance Act 1995_).
 
+                    <a name="regulatori-legisl"></a>**_regulatory legislation_**, in relation to a regulated body, means:
+
+                     (a)  for a body that is an ADI—the _Banking Act 1959_, including any regulations or other instruments made under that Act, or conditions imposed under that Act; or
+
+                     (b)  for a body that is a life insurance company—the _Life Insurance Act 1995_, including any regulations or other instruments made under that Act, or conditions imposed under that Act.
+
                     <a name="relat"></a><a name="relat"></a>**_related_**—a body corporate is **_related_** to another body corporate if:
 
                      (a)  the first body is a holding company of the other body; or
@@ -338,7 +340,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  This Act does not make the Crown liable to be prosecuted for an offence.
 
-##### <a id="6"></a>6  External  Territories
+##### <a id="6"></a>6  External Territories
 
                    This Act extends to every external Territory.
 
@@ -354,7 +356,7 @@ To avoid doubt, sections 8 and 8A of the _Australian Prudential Regulation Aut
 
 ##### <a id="8"></a>8  Overview of Act
 
-             (1)  This Act provides for 2 kinds of transfers of business of regulated bodies or bodies corporate related to regulated bodies:
+             (1)  This Act provides for 2 kinds of transfers of business of regulated bodies:
 
                      (a)  **_voluntary transfers_** (these are transfers under Part 3); and
 
@@ -362,9 +364,9 @@ To avoid doubt, sections 8 and 8A of the _Australian Prudential Regulation Aut
 
 Either kind of transfer may be a partial transfer or a total transfer.
 
-             (2)  A transfer of business of a regulated body, or of a body corporate related to a regulated body, is a **_partial transfer_** if it relates to some, but not all, of the transferring body’s business (including any business that is not regulated business).
+             (2)  A transfer of business of a regulated body is a **_partial transfer_** if it relates to some, but not all, of the transferring body’s business (including any business that is not regulated business). It cannot however relate only to business that is not regulated business.
 
-             (3)  A transfer of business of a regulated body, or of a body corporate related to a regulated body, is a **_total transfer_** if it relates to all of the transferring body’s business (including any business that is not regulated business).
+             (3)  A transfer of business of a regulated body is a **_total transfer_** if it relates to all of the transferring body’s business (including any business that is not regulated business).
 
              (4)  For a voluntary transfer of business to take effect, APRA must:
 
@@ -378,7 +380,7 @@ The transfer of business takes effect when the certificate of transfer comes int
 
              (5)  For a compulsory transfer of business to take effect, APRA must:
 
-                     (a)  make a determination (the **_compulsory transfer determination_**) that there is to be a transfer of business between the bodies concerned (the **_transferring body_** and the **_receiving body_**); and
+                     (a)  make a determination (the **_compulsory transfer determination_**) that there is to be a transfer of business between the regulated bodies concerned (the **_transferring body_** and the **_receiving body_**); and
 
                      (b)  issue a certificate (the **_certificate of transfer_**) stating that the transfer is to take effect.
 
@@ -698,7 +700,7 @@ Note:          An alternative way of dealing with places of bu
 
              (1)  For a compulsory transfer of business to take effect, APRA must:
 
-                     (a)  make a determination (the **_compulsory transfer determination_**) that there is to be a transfer of business between the bodies concerned (the **_transferring body_** and the **_receiving body_**) (see section 25); and
+                     (a)  make a determination (the **_compulsory transfer determination_**) that there is to be a transfer of business between the regulated bodies concerned (the **_transferring body_** and the **_receiving body_**) (see section 25); and
 
                      (b)  issue a certificate (the **_certificate of transfer_**) stating that the transfer is to take effect (see section 33).
 
@@ -714,75 +716,35 @@ Note:          An alternative way of dealing with places of bu
 
 ##### <a id="25"></a>25  Compulsory transfer determinations
 
-Transfer from one ADI to another
+             (1)  APRA may, in writing, make a determination (the **_compulsory transfer determination_**) that there is to be a transfer of business from one regulated body to another regulated body. The transfer cannot relate only to business of the transferring body that is not regulated business.
 
-             (1)  APRA may make a written determination that there is to be a total transfer or partial transfer of business from one ADI to another ADI. APRA may make the determination only if:
-
-                     (a)  either the Minister has declared under section 25A that a transfer of business should occur from the transferring body to the receiving body or APRA is satisfied that:
-
-                              (i)  the transferring body has contravened a provision of the _Banking Act 1959_, any regulations or other instruments made under that Act or conditions imposed under that Act; or
-
-                             (ii)  the transferring body has informed APRA under subsection 13(3) of the _Banking Act 1959_ that it considers that it is likely to become unable to meet its obligations, or that it is about to suspend payment; or
-
-                            (iii)  APRA has appointed a person, under subsection 13A(1) of the _Banking Act 1959_, to investigate the affairs of the transferring body, or to take control of the body’s business; or
-
-                            (iv)  APRA has appointed an administrator, under subsection 13A(1) of the _Banking Act 1959_, to take control of the transferring body’s business; or
-
-                             (v)  APRA has appointed a person to investigate and report on prudential matters in relation to the transferring body under subsection 61(1) of the _Banking Act 1959_; and
-
-                     (b)  APRA has considered the interests of depositors of the transferring body (when viewed as a group) and considers that, having regard to their interests, it would be appropriate for the transfer to be made; and
-
-                     (c)  APRA is satisfied that the transfer is appropriate, having regard to the interests of depositors of the receiving body when viewed as a group; and
-
-                     (d)  the conditions in subsection (2) exist.
-
-Transfer from an ADI to a body corporate that is not an ADI
-
-          (1A)  APRA may make a written determination that there is to be a partial transfer of business from an ADI to a body corporate that is not an ADI. APRA may make the determination only if:
-
-                     (a)  at least one of the following applies:
-
-                              (i)  the condition in paragraph (1)(a) is met (for the ADI as the transferring body and the body corporate that is not an ADI as the receiving body);
-
-                             (ii)  APRA has made a determination relating to the transferring body under subsection (1) for the partial transfer of some or all of its regulated business to another ADI (whether or not the transfer provided for in that determination has occurred); and
-
-                     (b)  APRA has considered the interests of depositors of the transferring body (when viewed as a group) and considers that, having regard to their interests, it would be appropriate for the transfer to be made; and
-
-                     (c)  the conditions in subsection (2) exist.
-
-Transfer from a body corporate related to an ADI to another body
-
-          (1B)  APRA may make a written determination that there is to be a total transfer or partial transfer of business from a body corporate that is related to an ADI and is not an ADI, general insurer or life insurance company to another body corporate (the **_transferee_**). APRA may make the determination only if:
-
-                     (a)  APRA is making, or has made within a reasonable period, a determination under subsection (1) or (1A) relating to the ADI for the total transfer or partial transfer of its business to a body corporate (the **_original receiving body_**) (whether or not the transfer provided for in that determination has occurred); and
-
-                     (b)  the transferee is the original receiving body or is related to the original receiving body.
-
-Transfer from one life insurance company to another
-
-          (1C)  APRA may make a written determination that there is to be a transfer of business from one life insurance company to another life insurance company, other than a transfer only of business of the transferring body that is not regulated business. APRA may make the determination only if:
+             (2)  APRA may only make the determination if:
 
                      (a)  APRA is satisfied that:
 
-                              (i)  the transferring body has contravened the _Life Insurance Act 1995_, any regulations or other instruments made under that Act or conditions imposed under that Act; or
+                              (i)  the transferring body has contravened a provision of its regulatory legislation; or
 
-                             (ii)  APRA has given the transferring body a written notice under subsection 139(1) of the _Life Insurance Act 1995_ stating that APRA proposes to investigate life insurance business of the body; or
+                             (ii)  if the transferring body is an ADI—the body has informed APRA under subsection 13(3) of the _Banking Act 1959_ that it considers that it is likely to become unable to meet its obligations, or that it is about to suspend payment; or
 
-                            (iii)  a judicial manager of the transferring body has recommended, in accordance with subsection 175(2) of the _Life Insurance Act 1995_, that a compulsory transfer determination be made in relation to the body; and
+                            (iii)  if the transferring body is an ADI—APRA has appointed a person, under subsection 13A(1) of the _Banking Act 1959_, to investigate the affairs of the body, or to take control of the body’s business; or
 
-                     (b)  APRA has considered the interests of policy owners of the transferring body (when viewed as a group) and considers that, having regard to their interests, it would be appropriate for the transfer to be made; and
+                            (iv)  if the transferring body is an ADI—APRA has appointed an administrator, under subsection 13A(1) of the _Banking Act 1959_, to take control of the body’s business; or
 
-                     (c)  APRA is satisfied that the transfer is appropriate, having regard to the interests of policy owners of the receiving body when viewed as a group; and
+                             (v)  if the transferring body is an ADI—APRA has appointed a person to investigate and report on prudential matters in relation to the body under subsection 61(1) of the _Banking Act 1959_; or
 
-                     (d)  the conditions in subsection (2) exist.
+                            (vi)  if the transferring body is a life insurance company—APRA has given the body a written notice under subsection 139(1) of the _Life Insurance Act 1995_ stating that APRA proposes to investigate life insurance business of the body; or
 
-Common conditions for making a determination under this section
+                           (vii)  if the transferring body is a life insurance company—a judicial manager of the body has recommended, in accordance with subsection 175(2) of the _Life Insurance Act 1995_, that a compulsory transfer determination be made in relation to the body; and
 
-             (2)  APRA may make a determination under this section only if:
+                     (b)  APRA has considered the interests of depositors or policy owners of the transferring body (when viewed as a group) and considers that, having regard to their interests, it would be appropriate for the transfer to be made; and
+
+                     (c)  APRA is satisfied that the transferring body and the receiving body are regulated bodies of the same kind; and
 
                      (d)  APRA is satisfied that the board of directors of the receiving body has consented to the transfer; and
 
                      (e)  APRA is satisfied that the transfer is appropriate, having regard to:
+
+                              (i)  the interests of depositors or policy owners of the receiving body when viewed as a group; and
 
                              (ii)  the interests of the financial sector as a whole; and
 
@@ -796,9 +758,7 @@ Common conditions for making a determination under this section
 
                              (ii)  the Minister’s consent to the transfer is not required (see section 29).
 
-Formal requirements for determinations under this section
-
-             (3)  A determination under this section must include particulars of the transfer, including:
+             (3)  The determination must include particulars of the transfer, including:
 
                      (a)  the names of the transferring body and the receiving body; and
 
@@ -806,19 +766,15 @@ Formal requirements for determinations under this section
 
                      (c)  if it will be a partial transfer—an identification of the part of the transferring body’s business that is to be transferred.
 
-             (4)  A determination under this section must include a statement of the reasons why the determination has been made.
+             (4)  The determination must include a statement of the reasons why the determination has been made.
 
-             (5)  A determination under this section must be signed by an authorised APRA officer.
+             (5)  The determination must be signed by an authorised APRA officer.
 
-Determinations under this section are not legislative instruments
+             (6)  For the purposes of this section, 2 regulated bodies are of the same kind if:
 
-             (6)  A determination made under this section is not a legislative instrument.
+                     (a)  they are both ADIs; or
 
-##### <a id="25A"></a>25A  Ministerial declaration that transfer should occur from ADI
-
-             (1)  The Minister may declare in writing given to APRA that a transfer of business should occur from a specified ADI to another specified body corporate.
-
-             (2)  A declaration made under subsection (1) is not a legislative instrument.
+                     (b)  they are both life insurance companies.
 
 ##### <a id="26"></a>26  Consultation about making the determination
 
@@ -1049,20 +1005,6 @@ Note:          Alternative ways of dealing with places of busi
              (1)  This section applies to every person who, immediately before the day when the certificate of transfer comes into force, was performing duty in the transferring body.
 
              (2)  The terms and conditions of employment (including any accrued entitlement to employment benefits) of each person to whom this section applies are not affected by the operation or effect of this Part or of any State or Territory legislation referred to in paragraph 25(2)(f).
-
-### Division 4—Effect of compulsory transfer on contracts
-
-##### <a id="36AA"></a>36AA  Compulsory transfer not ground for denying obligation
-
-             (1)  This section applies if a body corporate that is, or is proposed to become, a transferring body is or was party to a contract, whether the proper law of the contract is Australian law (including the law of a State or Territory) or law of a foreign country (including the law of part of a foreign country).
-
-             (2)  The fact that an act is done for the purposes of Division 2 or 3, or that a certificate of transfer comes into force under Division 3, in connection with the body does not allow the contract, or any other party to the contract, to do any of the following:
-
-                     (a)  deny any obligations under that contract;
-
-                     (b)  accelerate any debt under that contract;
-
-                     (c)  close out any transaction relating to that contract.
 
 ## Part 4A—Restructures
 
@@ -1522,11 +1464,11 @@ Note:          Subsection 56(9) of the _Australian Prudential 
 
 ##### <a id="43"></a>43  Relationship of Act with other laws etc.
 
-             (1)  Subject to subsections (4), (5), (6), (7), (8), (9), (9A) and (10), this Act has effect in spite of anything in any law of the Commonwealth or of a State or Territory, or in any contract, deed, undertaking, agreement or other instrument.
+             (1)  Subject to subsections (4), (5), (6), (7), (8), (9) and (10), this Act has effect in spite of anything in any law of the Commonwealth or of a State or Territory, or in any contract, deed, undertaking, agreement or other instrument.
 
 Note:          For the effect of a certificate of transfer, see sections 22 and 35.
 
-             (2)  Subject to subsections (4), (5), (6), (7), (8), (9), (9A) and (10), nothing done by or under this Act:
+             (2)  Subject to subsections (4), (5), (6), (7), (8), (9) and (10), nothing done by or under this Act:
 
                      (a)  places a receiving body, a transferring body or another person in breach of contract or confidence or otherwise makes any of them guilty of a civil wrong; or
 
@@ -1538,13 +1480,13 @@ Note:          For the effect of a certificate of transfer, se
 
                      (c)  releases any surety, wholly or partly, from all or any of the surety’s obligations.
 
-             (3)  Without limiting subsection (1), but subject to subsections (4), (5), (6), (7), (8), (9), (9A) and (10), if, apart from this Act, the advice or consent of a person would be necessary in a particular respect, the advice is taken to have been obtained or the consent is taken to have been given, as the case requires.
+             (3)  Without limiting subsection (1), but subject to subsections (4), (5), (6), (7), (8), (9) and (10), if, apart from this Act, the advice or consent of a person would be necessary in a particular respect, the advice is taken to have been obtained or the consent is taken to have been given, as the case requires.
 
              (4)  The regulations may provide that some or all of the provisions of another Act (not being provisions referred to in subsection (5), (6), (7) or (8)) apply in relation to a transfer of business that takes effect or may take effect under this Act, or in relation to a restructure that takes effect or may take effect under this Act, with the modifications (if any) specified in the regulations. The regulations have effect accordingly. Nothing in this section limits the operation of those provisions (as they have effect subject to any modifications specified in the regulations).
 
              (5)  Nothing in this Act limits the operation of any of the provisions of the _Privacy Act 1988_.
 
-             (6)  Subject to subsection (9A), nothing in this Act limits the operation of any of the provisions of the _Trade Practices Act 1974_.
+             (6)  Nothing in this Act limits the operation of any of the provisions of the _Trade Practices Act 1974_.
 
              (7)  Nothing in this Act limits the operation of any of the provisions of the _Workplace Relations Act 1996_.
 
@@ -1556,12 +1498,6 @@ Note:          For the effect of a certificate of transfer, se
 
                      (b)  to the extent that the transfer is of other assets—an acquisition of those assets by the receiving body.
 
-          (9A)  For the purposes of subsection 51(1) of the _Trade Practices Act 1974_, the following things are specified and specifically authorised:
-
-                     (a)  a transfer of business under Part 4;
-
-                     (b)  anything done to enable or facilitate a transfer of business under Part 4 (including an agreement referred to in section 30).
-
            (10)  The provisions of this Act and the provisions:
 
                      (a)  prescribed for the purposes of subsection (4); or
@@ -1572,13 +1508,13 @@ operate independently of each other. In particular, a decision under one of thos
 
 ##### <a id="44"></a>44  Compensation for acquisition of property
 
-             (1)  If the operation of this Act, except Parts 3 and 4A, would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+             (1)  If:
 
-          (1A)  If the Commonwealth and the person do not agree on the amount of the compensation under subsection (1), the person may institute proceedings in the Federal Court of Australia for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+                     (a)  apart from this section, the operation of this Act in relation to a particular receiving body would result in the acquisition of property from a person otherwise than on just terms; and 
 
-          (1B)  If the operation of Part 3 or 4A would result in an acquisition of property from a person otherwise than on just terms, the receiving body is liable to pay a reasonable amount of compensation to the person.
+                     (b)  the acquisition would be invalid because of paragraph 51(xxxi) of the Constitution;
 
-          (1C)  If the receiving body and the person do not agree on the amount of the compensation under subsection (1B), the person may institute proceedings in the Federal Court of Australia for the recovery from the receiving body of such reasonable amount of compensation as the court determines.
+the receiving body is liable to pay to the person compensation of a reasonable amount as agreed on between the receiving body and the person. If the receiving body and the person do not agree on the amount of the compensation, the person may institute proceedings in the Federal Court of Australia for the recovery from the receiving body of such reasonable amount of compensation as the Court determines.
 
              (2)  Any damages or compensation recovered or other remedy given in a proceeding that is commenced otherwise than under this section is to be taken into account in assessing compensation payable in a proceeding that is commenced under this section and that arises out of the same event or transaction.
 
@@ -1628,6 +1564,7 @@ operate independently of each other. In particular, a decision under one of thos
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _Financial Sector (Business Transfer and Group Restructure) Act 1999_
 
 ### Note 1
@@ -1636,7 +1573,7 @@ The _Financial Sector (Business Transfer and Group Restructure) Act 1999_ as sho
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -1656,11 +1593,13 @@ For all other relevant information pertaining to application, saving or transiti
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1670,164 +1609,155 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Financial Sector (Transfers of Business) Act 1999</div>
-  </td>
-  <td>
-    <div>45, 1999</div>
-  </td>
-  <td>
-    <div>17 June 1999</div>
-  </td>
-  <td>
-    <div>1 July 1999 
-( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (items 192–194): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14 
-\[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment Act (No. 1) 2002</div>
-  </td>
-  <td>
-    <div>37, 2002</div>
-  </td>
-  <td>
-    <div>26 June 2002</div>
-  </td>
-  <td>
-    <div>Schedule 3: 27 June 2002 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Prudential Regulation Authority Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>42, 2003</div>
-  </td>
-  <td>
-    <div>24 June 2003</div>
-  </td>
-  <td>
-    <div>Schedules 1–3: 1 July 2003 ( <i>see Gazette</i>2003, No. S230) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td>
-    <div>14 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 80) and Schedule 6 (items 1, 6–11): 
-Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 
-(items 1, 6–11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Trans-Tasman Banking Supervision) Act 2006</div>
-  </td>
-  <td>
-    <div>147, 2006</div>
-  </td>
-  <td>
-    <div>6 Dec 2006</div>
-  </td>
-  <td>
-    <div>6 Dec 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Restructures) Act 2007</div>
-  </td>
-  <td>
-    <div>117, 2007</div>
-  </td>
-  <td>
-    <div>28 June 2007</div>
-  </td>
-  <td>
-    <div>28 June 2007</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007</div>
-  </td>
-  <td>
-    <div>154, 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 35, 36): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008</div>
-  </td>
-  <td>
-    <div>105, 2008</div>
-  </td>
-  <td>
-    <div>17 Oct 2008</div>
-  </td>
-  <td>
-    <div>Schedule 5: 18 Oct 2008</div>
-  </td>
-  <td>
-    <div>Sch. 5 (item 19)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Financial Sector (Transfers of Business) Act 1999</div>
+    </td>
+    <td>
+      <div>45, 1999</div>
+    </td>
+    <td>
+      <div>17 June 1999</div>
+    </td>
+    <td>
+      <div>1 July 1999 
+( <i>see</i>s. 2) 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>Ss. 4–14 and Schedule 3 (items 192–194): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4–14 
+\[ <i>see</i>Note 1] 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Legislation Amendment Act (No. 1) 2002</div>
+    </td>
+    <td>
+      <div>37, 2002</div>
+    </td>
+    <td>
+      <div>26 June 2002</div>
+    </td>
+    <td>
+      <div>Schedule 3: 27 June 2002 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Prudential Regulation Authority Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>42, 2003</div>
+    </td>
+    <td>
+      <div>24 June 2003</div>
+    </td>
+    <td>
+      <div>Schedules 1–3: 1 July 2003 ( <i>see Gazette</i>2003, No. S230) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 3</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
+    </td>
+    <td>
+      <div>101, 2006</div>
+    </td>
+    <td>
+      <div>14 Sept 2006</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 80) and Schedule 6 (items 1, 6–11): 
+Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 6 
+(items 1, 6–11) 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Legislation Amendment (Trans-Tasman Banking Supervision) Act 2006</div>
+    </td>
+    <td>
+      <div>147, 2006</div>
+    </td>
+    <td>
+      <div>6 Dec 2006</div>
+    </td>
+    <td>
+      <div>6 Dec 2006</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Legislation Amendment (Restructures) Act 2007</div>
+    </td>
+    <td>
+      <div>117, 2007</div>
+    </td>
+    <td>
+      <div>28 June 2007</div>
+    </td>
+    <td>
+      <div>28 June 2007</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007</div>
+    </td>
+    <td>
+      <div>154, 2007</div>
+    </td>
+    <td>
+      <div>24 Sept 2007</div>
+    </td>
+    <td>
+      <div>Schedule 4 (items 35, 36): Royal Assent</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_ The _Financial Sector (Business Transfer and Group Restructure) Act 1999_ was amended by Schedule 3 (items 192–194) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
@@ -1901,23 +1831,26 @@ _(b)_ The _Financial Sector (Business Transfer and Group Restructure) Act 1999_ 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 to 3
-    </div>
-  </td>
-  <td>
-    <div>
-      The day after the day on which this Act receives the Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      27 June 2002
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2\. Schedules 1 to 3
+      </div>
+    </td>
+    <td>
+      <div>
+        The day after the day on which this Act receives the Royal Assent
+      </div>
+    </td>
+    <td>
+      <div>
+        27 June 2002
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -1942,357 +1875,265 @@ _(b)_ The _Financial Sector (Business Transfer and Group Restructure) Act 1999_ 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>rs. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001; No. 42, 2003; No. 101, 2006; No. 117, 2007; No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 117, 2007; No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 25(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 25(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25A</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36AA</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36A</div>
-  </td>
-  <td>
-    <div>ad. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 36B–36F</div>
-  </td>
-  <td>
-    <div>ad. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 36G, 36H</div>
-  </td>
-  <td>
-    <div>ad. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 36J, 36K</div>
-  </td>
-  <td>
-    <div>ad. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 36L–36N</div>
-  </td>
-  <td>
-    <div>ad. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 36P–36R</div>
-  </td>
-  <td>
-    <div>ad. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36S</div>
-  </td>
-  <td>
-    <div>ad. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 117, 2007; No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 105, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 117, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 154, 2007</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1</div>
+    </td>
+    <td>
+      <div>rs. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001; No. 42, 2003; No. 101, 2006; No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7A</div>
+    </td>
+    <td>
+      <div>ad. No. 147, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36A</div>
+    </td>
+    <td>
+      <div>ad. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 36B–36F</div>
+    </td>
+    <td>
+      <div>ad. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 36G, 36H</div>
+    </td>
+    <td>
+      <div>ad. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 36J, 36K</div>
+    </td>
+    <td>
+      <div>ad. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 36L–36N</div>
+    </td>
+    <td>
+      <div>ad. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 36P–36R</div>
+    </td>
+    <td>
+      <div>ad. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36S</div>
+    </td>
+    <td>
+      <div>ad. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>am. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>am. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 117, 2007</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>am. No. 154, 2007</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Australian Prudential Regulation Authority Amendment Act 2003
- (No. 42, 2003)_
+(No. 42, 2003)
+_
 
 ## Schedule 3
 
@@ -2352,10 +2193,13 @@ An approval in force, immediately before the commencement of the amendments, und
 
 (2)        For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
+(No. 101, 2006)
+_
 
 ## Schedule 6
 
@@ -2431,20 +2275,7 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-* * *
 
-_Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008 (No. 105, 2008)_
-
-## Schedule 5
-
-## 19  Application
-
-(1)        The amendments of sections 8, 24 and 25 of the _Financial Sector (Business Transfer and Group Restructure) Act 1999_ made by this Schedule apply to the making of determinations on or after the commencement of this Schedule.
-
-(2)        Section 36AA of that Act applies in relation to contracts made after the commencement of this Schedule.
-
-(3)        The amendments of section 43 of that Act made by this Schedule apply in relation to transfers occurring on or after the commencement of this Schedule.
-
-(4)        The amendment of section 44 of that Act made by this Schedule applies to acquisitions of property occurring on or after the commencement of this Schedule.
+ 
 
  
