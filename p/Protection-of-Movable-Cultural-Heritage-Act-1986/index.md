@@ -1,12 +1,9 @@
 
-
 Protection of Movable Cultural Heritage Act 1986
 Act No. 11 of 1986 as amended 
-This compilation was prepared on 1 February 2000  taking into account amendments up to Act No. 146, 1999
+Consolidated as in force on 16 August 1999
+(includes amendments up to Act No. 101 of 1999)
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-  
-  
-  
 Contents
 Part I—Preliminary	1
 1	Short title [see Note 1]	1
@@ -45,37 +42,39 @@ Part IV—National Cultural Heritage Account	20
 25	Establishment of National Cultural Heritage Account	20
 25A	Credits to Account	20
 25B	Purpose of Account	20
-26	Taxation	21
-Part V—Enforcement of Act	22
-27	Interpretation	22
-28	Inspectors	22
-29	Identity cards	23
-30	Search warrants	23
-31	Search warrants granted by telephone	25
-32	Searches in emergencies	26
-33	Powers of arrest	27
-34	Seizure of protected objects	28
-35	Power of retention	28
+26	Taxation	20
+Part V—Enforcement of Act	21
+27	Interpretation	21
+28	Inspectors	21
+29	Identity cards	22
+30	Search warrants	22
+31	Search warrants granted by telephone	24
+32	Searches in emergencies	25
+33	Powers of arrest	26
+34	Seizure of protected objects	27
+35	Power of retention	27
 36	Notice of seizure	28
-37	Court proceedings	30
-38	Result of forfeiture	31
-39	Production of permit	31
-40	Proof of authority	32
-41	Foreign country to request return of objects	32
-42	False statements	32
-43	Assistance of inspectors	33
-44	Obstruction of inspectors	33
-45	Personation of inspectors	33
-46	Indictable offences	34
-Part VI—Miscellaneous	35
-47	Annual report	35
-48	Administrative Appeals Tribunal	35
-49	Regulations	35
-Notes		37
+37	Court proceedings	29
+38	Result of forfeiture	30
+39	Production of permit	30
+40	Proof of authority	31
+41	Foreign country to request return of objects	31
+42	False statements	31
+43	Assistance of inspectors	32
+44	Obstruction of inspectors	32
+45	Personation of inspectors	32
+46	Indictable offences	33
+Part VI—Miscellaneous	34
+47	Annual report	34
+48	Administrative Appeals Tribunal	34
+49	Regulations	34
+Notes 		37
 
 An Act to protect Australia’s heritage of movable cultural objects, to support the protection by foreign countries of their heritage of movable cultural objects, and for related purposes
+Do not delete : Chapter placeholder
+Do not delete : Part placeholder
 Part I—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the Protection of Movable Cultural Heritage Act 1986.
 2  Commencement [see Note 1]
@@ -134,7 +133,6 @@ being an offence that relates to an offence against that provision of this Act, 
 		This Act applies both within and outside Australia.
 6  Extension to Territories
 		This Act extends to every external Territory other than Norfolk Island.
-
 Part II—Control of Exports and Imports
 Division 1—Exports
 7  Movable cultural heritage of Australia
@@ -227,7 +225,6 @@ the person may apply to the Minister for a certificate authorising the exportati
 	(1)	A person applying for a permit under section 10 or 10A or a certificate under section 12 must specify, as the person’s address for the purposes of this Part, an address in Australia.
 	(2)	A person who has specified an address, under subsection (1) or through a previous application of this subsection, may, at any time, give to the Minister a written notice specifying, as the person’s address for the purposes of this Part, an address in Australia that is different from the address last specified.
 	(3)	The last address specified by a person under this section is taken to be the person’s place of residence or business for the purpose of serving notices on the person under this Part.
-
 Division 2—Imports
 14  Unlawful imports
 	(1)	Where:
@@ -250,9 +247,8 @@ the person is guilty of an offence punishable, on conviction, by:
 exhibition co-ordinator means a body that arranges for the conducting in Australia of public exhibitions of objects from collections outside Australia, and that achieves this by, from time to time:
 	(a)	entering into an agreement with a person or body (including a government) for the importation of such objects on loan; and
 	(b)	entering into an agreement with the Commonwealth, a State or a Territory under which the Commonwealth, State or Territory agrees to compensate the person or body referred to in paragraph (a) for any loss of or damage to the objects arising from, or connected with, the carrying out of the agreement referred to in that paragraph or the public exhibition of the objects in Australia.
-
 Part III—Administration
-  
+Do not delete : Division placeholder
 15  National Cultural Heritage Committee
 		There shall be a committee, to be known as the National Cultural Heritage Committee.
 16  Functions of Committee
@@ -337,13 +333,12 @@ Part III—Administration
 24  Delegation
 	(1)	The Minister may, either generally or as otherwise provided by the instrument of delegation, by instrument in writing, delegate to:
 	(a)	the person holding or performing the duties of the office of Secretary to the Department; or
-	(b)	an SES employee, or acting SES employee, in the Department;
+	(b)	a person holding or performing the duties of a Senior Executive Service office within the meaning of the Public Service Act 1922, being an office in the Department;
 all or any of the Minister’s powers under this Act, other than this power of delegation or a power conferred by section 17 or 18, subsection 28(3), (4) or (5) or section 38 or 47.
 	(2)	A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Minister.
 	(3)	A delegation under this section does not prevent the exercise of a power by the Minister.
-
 Part IV—National Cultural Heritage Account
-  
+Do not delete : Division placeholder
 25  Establishment of National Cultural Heritage Account
 	(1)	There is hereby established the National Cultural Heritage Account.
 	(2)	The Account is a Special Account for the purposes of the Financial Management and Accountability Act 1997.
@@ -357,9 +352,8 @@ Part IV—National Cultural Heritage Account
 		Amounts standing to the credit of the National Cultural Heritage Account may be expended for the purpose of facilitating the acquisition of Australian protected objects for display or safe‑keeping.
 26  Taxation
 		The income and transactions of the National Cultural Heritage Account are not subject to taxation under any law of the Commonwealth or of a State or Territory.
-
 Part V—Enforcement of Act
-  
+Do not delete : Division placeholder
 27  Interpretation
 	(1)	In this Part (except sections 35, 36, 37 and 38), forfeited includes liable to forfeiture.
 	(2)	Where, at a particular time, an object is delivered by a Customs officer to an inspector under section 203A of the Customs Act 1901 or voluntarily surrendered to an inspector by the owner or person having possession, custody or control of the object, the object shall, for the purposes of this Part, be taken to be seized under this Act by the inspector at that time.
@@ -518,14 +512,13 @@ Penalty:	$2,000 or imprisonment for 12 months, or both.
 	(3)	Notwithstanding that an offence referred to in subsection (1) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of the offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
 	(4)	Where, in accordance with subsection (3), a court of summary jurisdiction convicts a person of an offence referred to in subsection (1), the penalty that the court may impose is:
 	(a)	in the case of an offence against subsection 9(3) or 14(2):
-	(i)	if the person is a natural person—a fine not exceeding $5,000 or imprisonment for a period not exceeding 2 years, or both; or
+	(i)	if the person is a natural person—a fine not exceeding $5,000 or imprisonment for a period not exceeding 2 years, or both; or
 	(ii)	if the person is a body corporate—a fine not exceeding $20,000; or
-	(b)	in the case of an offence against subsection 42(1) or section 45:
-	(i)	if the person is a natural person—a fine not exceeding $2,000 or imprisonment for a period not exceeding 12 months, or both; or
+	(b)	in the case of an offence against subsection 42(1) or section 45:
+	(i)	if the person is a natural person—a fine not exceeding $2,000 or imprisonment for a period not exceeding 12 months, or both; or
 	(ii)	if the person is a body corporate—a fine not exceeding $10,000.
-
 Part VI—Miscellaneous
-  
+Do not delete : Division placeholder
 47  Annual report
 	(1)	The Minister shall, as soon as practicable after 30 June in each year, cause to be prepared a report on the working of this Act during the year that ended on that 30 June.
 	(2)	The Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives it.
@@ -542,9 +535,9 @@ Part VI—Miscellaneous
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 Notes to the Protection of Movable Cultural Heritage Act 1986
 Note 1
-The Protection of Movable Cultural Heritage Act 1986 as shown in this compilation comprises Act No. 11, 1986 amended as indicated in the Tables below.
+The Protection of Movable Cultural Heritage Act 1986 as shown in this consolidation comprises Act No. 11, 1986 amended as indicated in the Tables below.
+The Protection of Movable Cultural Heritage Act 1986 was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations as amended. [see Note 2]
 For all relevant information pertaining to application, saving or transitional provisions see Table A.
-The Protection of Movable Cultural Heritage Act 1986 was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (as amended). see Table B
 Table of Acts
 Act
 Number  and year
@@ -586,11 +579,6 @@ Protection of Movable Cultural Heritage Amendment Act 1999
 16 July 1999
 16 July 1999 (c)
 Sch. 1 (item 9)
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (item 752): 5 Dec 1999 (see Gazette 1999, No. S584) (d)
-—
 
 (a)	The Protection of Movable Cultural Heritage Act 1986 was amended by Part 7 (sections 14-23) only of the Arts, Environment, Tourism and Territories Legislation Amendment Act 1990, subsection 2(1) of which provides as follows:
 	(1)	Parts 1, 4, 5, 6, 7 and 8 commence on the day on which this Act receives the Royal Assent.
@@ -598,9 +586,6 @@ Schedule 1 (item 752): 5 Dec 1999 (see Gazette 1999, No. S584) (d)
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 (c)	The Protection of Movable Cultural Heritage Act 1986 was amended by the Protection of Movable Cultural Heritage Amendment Act 1999, section 2 of which provides as follows:
 	2	This Act commences on the day on which it receives the Royal Assent or on 1 July 1999, whichever last occurs.
-(d)	The Protection of Movable Cultural Heritage Act 1986 was amended by Schedule 1 (item 752) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -630,8 +615,6 @@ S. 21A
 ad. No. 179, 1991
 S. 21B 	
 ad. No. 21, 1992
-S. 24 	
-am. No. 146, 1999
 Heading to Part IV	
 rs. No. 101, 1999
 S. 25	
@@ -645,16 +628,14 @@ am. No. 101, 1999
 S. 48 	
 am. No. 88, 1990
 
+Note 2
+Section 4—The Protection of Movable Cultural Heritage Act 1986 was modified by regulation 2 and Schedule 1 of the A.C.T. Self-Government (Consequential Provisions) Regulations as amended. The modification of Schedule 1 is set out below and is not incorporated in this consolidation.
+Section 4:
+		After “States,” insert “of the Australian Capital Territory,”. 
 Table A
 Application, saving or transitional provisions
 Protection of Movable Cultural Heritage Amendment Act 1999 (No. 101, 1999)
 Schedule 1
 9  Application of items 7 and 8
 Whether this Act commences on 1 July 1999 or on a later date, the amendments of the Protection of Movable Cultural Heritage Act 1986 made by items 7 and 8 apply in relation to the financial year commencing on 1 July 1999 and each subsequent financial year.
-Table B
-Modifications
-A.C.T. Self-Government (Consequential Provisions) Regulations
-Section 4—The Protection of Movable Cultural Heritage Act 1986 was modified by regulation 2 and Schedule 1 of the A.C.T. Self-Government (Consequential Provisions) Regulations as amended. The modification of Schedule 1 is set out below and is not incorporated in this compilation.
-Section 4:
-		After “States,” insert “of the Australian Capital Territory,”. 
 
