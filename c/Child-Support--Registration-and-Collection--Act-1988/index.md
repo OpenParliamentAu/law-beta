@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00262/Html/3adfdcdf-ba73-4a3b-a7ee-509e53aec8a3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00777/Html/5b484cf1-1293-4ede-9fd1-486a9ece95ca_files/image001.gif)
 
 # Child Support (Registration and Collection) Act 1988
 
 **Act No. 3 of 1988 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 23 September 2011
  taking into account amendments up to Act No. 88 of 2011
 
 The text of any of those amendments not in force 
@@ -838,7 +838,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="child-support-regist"></a>**_Child Support Register_** means the Child Support Register established by this Act.
 
-                    <a name="close-dai"></a>**_closing day_**, in relation to a calendar month, means the day 9 days, or such lesser number of days as is prescribed for the purposes of this definition, before the first Wednesday in the following calendar month.
+                    <a name="close-dai"></a>**_closing day_**, in relation to a month, means the day 9 days, or such lesser number of days as is prescribed for the purposes of this definition, before the first Wednesday in the following month.
 
                     <a name="collect-agenc-mainten-liabil"></a>**_collection agency maintenance liability_**, in relation to a State or Territory, means a liability:
 
@@ -947,6 +947,8 @@ Note:          A parenting plan under the _Family Law Act 1975
                     <a name="micar-program"></a>**_medicare program_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
 
                     <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
+
+                    <a name="month"></a>**_month_** means one of the 12 months of the year.
 
                     <a name="non-parent-carer"></a>**_non‑parent carer_** has the meaning given by section 5 of the Assessment Act.
 
@@ -2118,7 +2120,7 @@ Period that must be registered where liability to be collected by deduction from
 
              (3)  If the Registrar is going to collect amounts due to the Commonwealth under a liability, or in relation to the liability, by deduction from the salary or wages of the payer, the period that the Registrar must enter in the Register is the payment period that reflects the payer’s pay cycle.
 
-Example:    If a payer is paid weekly, the payment period the Registrar must enter in the Child Support Register will be a week. Similarly, if the payer is paid monthly, the payment period the Registrar must enter in the Register will be a calendar month or a month.
+Example:    If a payer is paid weekly, the payment period the Registrar must enter in the Child Support Register will be a week. Similarly, if the payer is paid monthly, the payment period the Registrar must enter in the Register will be a month.
 
 Note:          Part IV deals with collection by deduction from salary or wages.
 
@@ -2160,7 +2162,7 @@ Day from which elected period starts
 
 Example 1: The payer elects a 4 week period as the payment period. The payer elects that the start day of the period will be 8 July which is a Wednesday. Therefore the period will end 4 weeks later on a Tuesday.
 
-Example 2: The payer elects a period of a month as the payment period. The payer elects that the start day will be 16 October. Therefore the period will end on 15 November. If the payer elects that the start day will be 31 January the period will end on 28 February.
+Example 2: The payer elects a period of a calendar month as the payment period. The payer elects that the start day will be 16 October. Therefore the period will end on 15 November. If the payer elects that the start day will be 31 January the period will end on 28 February.
 
 Period that must be registered when liability to be paid voluntarily and no election is made or election is rejected
 
@@ -3041,7 +3043,7 @@ the Registrar shall vary those particulars so that they contain a statement that
 
              (9)  In determining for the purposes of subsections (5) to (8) (inclusive) whether the collection of payments due under an enforceable maintenance liability by deduction from the salary or wages of the payer under this Part would be an efficient method of collecting those payments, the Registrar shall have regard in particular to the need to ensure that the payments are received by the Registrar on a timely basis.
 
-           (10)  If the period at which amounts are payable under an enforceable maintenance liability exceeds one calendar month or one month, the Registrar shall include in the particulars of the entry in the Child Support Registrar in relation to the liability a statement that employer withholding does not apply in relation to the liability.
+           (10)  If the period at which amounts are payable under an enforceable maintenance liability exceeds one month, the Registrar shall include in the particulars of the entry in the Child Support Registrar in relation to the liability a statement that employer withholding does not apply in relation to the liability.
 
 ##### <a id="45"></a>45  Notification to be given to employer and employee
 
@@ -3117,7 +3119,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="47"></a>47  Additional duties of employers
 
-             (1)  An employer who has during any calendar month made deductions under this Part shall, not later than the seventh day of the following calendar month:
+             (1)  An employer who has during any month made deductions under this Part shall, not later than the seventh day of the following month:
 
                      (a)  pay to the Registrar the amounts so deducted; and
 
@@ -3127,11 +3129,11 @@ Note:          Section 16A provides for the Registrar to spe
 
           (1A)  Where:
 
-                     (a)  a notice given to an employer under subsection 45(1) in relation to an employee is in force at any time during a calendar month; and
+                     (a)  a notice given to an employer under subsection 45(1) in relation to an employee is in force at any time during a month; and
 
-                     (b)  the employer does not during the calendar month make deductions under this Part in relation to the employee;
+                     (b)  the employer does not during the month make deductions under this Part in relation to the employee;
 
-the employer must, not later than the seventh day of the following calendar month, give to the Registrar notice in the manner specified by the Registrar.
+the employer must, not later than the seventh day of the following month, give to the Registrar notice in the manner specified by the Registrar.
 
              (2)  When an employer makes a payment of salary or wages to an employee in relation to whom a notice given to the employer under subsection 45(1) is in force, the employer shall notify the employee, in writing:
 
@@ -3141,7 +3143,7 @@ the employer must, not later than the seventh day of the following calendar mont
 
 as the case requires.
 
-             (3)  Where, in any calendar month, an employee in relation to whom a notice given to an employer under subsection 45(1) is in force ceases to be an employee of the employer, the employer shall, not later than the seventh day of the following calendar month, notify the Registrar in the manner specified by the Registrar.
+             (3)  Where, in any month, an employee in relation to whom a notice given to an employer under subsection 45(1) is in force ceases to be an employee of the employer, the employer shall, not later than the seventh day of the following month, notify the Registrar in the manner specified by the Registrar.
 
           (3A)  An employer commits an offence if:
 
@@ -3239,11 +3241,11 @@ Note:          The subsection of the _Income Tax Assessment Ac
 
                    Where:
 
-                     (a)  the Registrar receives an amount under paragraph 47(1)(a) from an employer other than the Commonwealth in relation to a calendar month;
+                     (a)  the Registrar receives an amount under paragraph 47(1)(a) from an employer other than the Commonwealth in relation to a month;
 
-                     (b)  the employer contravenes paragraph 47(1)(b) in relation to the calendar month; and
+                     (b)  the employer contravenes paragraph 47(1)(b) in relation to the month; and
 
-                     (c)  an amount (in this section called the **_appropriated amount_**) is required to be credited to the Account under paragraph 78(3)(d) in relation to the employer in relation to the calendar month;
+                     (c)  an amount (in this section called the **_appropriated amount_**) is required to be credited to the Account under paragraph 78(3)(d) in relation to the employer in relation to the month;
 
 the employer is liable to pay to the Registrar, by way of penalty, an amount equal to the appropriated amount.
 
@@ -3547,7 +3549,7 @@ without allocating the amount, or the sum of the amounts, towards the discharge 
 
 Example 1: The payer elects a 4 week period as the payment period. The payer elects that the start day of the period will be 8 July which is a Wednesday. Therefore the period will end 4 weeks later on a Tuesday.
 
-Example 2: The payer elects a period of a month as the payment period. The payer elects that the start day will be 16 October. Therefore the period will end on 15 November. If the payer elects that the start day will be 31 January, the period will end on 28 February.
+Example 2: The payer elects a period of a calendar month as the payment period. The payer elects that the start day will be 16 October. Therefore the period will end on 15 November. If the payer elects that the start day will be 31 January, the period will end on 28 February.
 
 Note:          Section 16A provides for the Registrar to specify the manner in which an election may be made.
 
@@ -3569,7 +3571,7 @@ the Registrar must, within 28 days of receiving the election, vary the particula
 
 ##### <a id="66"></a>66  When child support debts become payable
 
-             (1)  An amount that becomes a child support debt in respect of a day in an initial period is due and payable on the seventh day of the calendar month following that day.
+             (1)  An amount that becomes a child support debt in respect of a day in an initial period is due and payable on the seventh day of the month following that day.
 
              (2)  An amount that becomes a child support debt in respect of a payment period is due and payable on the seventh day after the end of the period.
 
@@ -3589,7 +3591,7 @@ Note:          For **_initial period_** and **_payment period_
 
                      (d)  if the payment period is a month or a calendar month—an amount calculated on the balance outstanding each month or calendar month at a monthly rate equal to 1/12 of the relevant annual rate.
 
-       (1AA)  If a child support debt in respect of a day in an initial period remains unpaid after the time when it became due and payable, the person liable to pay the debt is liable to pay to the Registrar, by way of penalty, an amount calculated on the balance outstanding each calendar month at a monthly rate equal to 1/12 of the relevant annual rate.
+       (1AA)  If a child support debt in respect of a day in an initial period remains unpaid after the time when it became due and payable, the person liable to pay the debt is liable to pay to the Registrar, by way of penalty, an amount calculated on the balance outstanding each month at a monthly rate equal to 1/12 of the relevant annual rate.
 
           (1A)  For the purposes of subsections (1) and (1AA), the balance outstanding is the total amount of one or more child support debts remaining unpaid.
 
@@ -3703,7 +3705,7 @@ then:
 
              (5)  The remaining lump sum payment, for 1 July in a year of income, is indexed as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00262/Html/3adfdcdf-ba73-4a3b-a7ee-509e53aec8a3_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00777/Html/5b484cf1-1293-4ede-9fd1-486a9ece95ca_files/image002.gif)
 
 where:
 
@@ -3711,7 +3713,7 @@ where:
 
                     <a name="index-factor"></a>**_indexation factor_** means:
 
-![](http://www.comlaw.gov.au/Details/C2012C00262/Html/3adfdcdf-ba73-4a3b-a7ee-509e53aec8a3_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00777/Html/5b484cf1-1293-4ede-9fd1-486a9ece95ca_files/image003.gif)
 
                     <a name="index-number"></a>**_index number_** for a quarter is the All Groups Consumer Price Index number that is the weighted average of the 8 capital cities and is published by the Australian Statistician in respect of that quarter.
 
@@ -3785,9 +3787,9 @@ Example:    Offset of part of a debt
 
                    Helena was previously the payer of a registrable maintenance liability. Helena’s children have now come to live with her. Helena has the greater debt of $3,000 from the period when she was a child support payer. Even though the children are no longer living with Theo, he is entitled to $3,000 in child support when Helena pays it.
 
-                   Theo has now been assessed as having a child support liability. Under that liability, Theo has a debt of $150 in respect of a calendar month.
+                   Theo has now been assessed as having a child support liability. Under that liability, Theo has a debt of $150 in respect of a month.
 
-                   The Registrar offsets $100 of the debt (part of it only) that became due and payable by Theo against the amount owed by Helena. The effect of the offset is that Helena is taken to have paid $100 per calendar month. Theo is taken to have paid $100 of his liability to pay $150\. Under the liability, Theo must pay $50 for that calendar month.
+                   The Registrar offsets $100 of the debt (part of it only) that became due and payable by Theo against the amount owed by Helena. The effect of the offset is that Helena is taken to have paid $100 per month. Theo is taken to have paid $100 of his liability to pay $150\. Under the liability, Theo must pay $50 for that month.
 
                    Each time a debt incurred by Theo under the liability becomes due and payable it may be offset against the remainder of   Helena’s debt.
 
@@ -4657,9 +4659,9 @@ Note:          The Account was established by subsection 5(3) 
 
 ##### <a id="76"></a>76  Entitlement of payees to be paid collected amounts
 
-             (1)  Subject to subsection (2) of this section, subsection 79(2) and sections 79A and 79B, every payee of a registered maintenance liability is entitled to be paid, on or before the first Wednesday following the end of each calendar month (in this section called the **_current month_**), an amount equal to the aggregate of:
+             (1)  Subject to subsection (2) of this section, subsection 79(2) and sections 79A and 79B, every payee of a registered maintenance liability is entitled to be paid, on or before the first Wednesday following the end of each month (in this section called the **_current month_**), an amount equal to the aggregate of:
 
-                     (a)  amounts deducted by an employer under Part IV in relation to the liability during the calendar month (in this section called the **_previous month_**) preceding the current month;
+                     (a)  amounts deducted by an employer under Part IV in relation to the liability during the month (in this section called the **_previous month_**) preceding the current month;
 
                      (b)  amounts received by the Registrar (otherwise than under Part IV) in payment of a child support debt in relation to the liability during the period (in this section called the **_payment period_**) beginning on the day following the closing day of the previous month and ending on the closing day of the current month; and
 
@@ -4677,9 +4679,9 @@ but excluding (in the case of each of the amounts mentioned in paragraphs (a),
 
                    Where:
 
-                     (a)  the Registrar is satisfied that a deduction has been made under subsection 46(1) in a calendar month by an employer from the salary or wages of an employee; and
+                     (a)  the Registrar is satisfied that a deduction has been made under subsection 46(1) in a month by an employer from the salary or wages of an employee; and
 
-                     (b)  the amount of the deduction is not paid to the Registrar under paragraph 47(1)(a) on or before the closing day of the following calendar month;
+                     (b)  the amount of the deduction is not paid to the Registrar under paragraph 47(1)(a) on or before the closing day of the following month;
 
 an amount equal to the amount of the deduction unpaid on that closing day must be credited to the Account.
 
@@ -4687,21 +4689,21 @@ an amount equal to the amount of the deduction unpaid on that closing day must b
 
              (1)  This section applies where:
 
-                     (a)  on or before the closing day of a calendar month, the Registrar receives under paragraph 47(1)(a) an amount (in this section called the **_received amount_**) from an employer in relation to the amounts deducted by the employer under Part IV from the salary or wages of employees during the preceding calendar month;
+                     (a)  on or before the closing day of a month, the Registrar receives under paragraph 47(1)(a) an amount (in this section called the **_received amount_**) from an employer in relation to the amounts deducted by the employer under Part IV from the salary or wages of employees during the preceding month;
 
-                     (b)  the employer contravenes paragraph 47(1)(b) in relation to the preceding calendar month; and
+                     (b)  the employer contravenes paragraph 47(1)(b) in relation to the preceding month; and
 
-                     (c)  the Registrar is unable to ascertain to the Registrar’s satisfaction, on or before the closing day, the portion of the received amount attributable to each of the employees (in this section called the **_relevant employees_**) in relation to whom a notice given to the employer under subsection 45(1) was in force during the preceding calendar month.
+                     (c)  the Registrar is unable to ascertain to the Registrar’s satisfaction, on or before the closing day, the portion of the received amount attributable to each of the employees (in this section called the **_relevant employees_**) in relation to whom a notice given to the employer under subsection 45(1) was in force during the preceding month.
 
              (2)  The Registrar may, for the purposes of subsection 76(1):
 
-                     (a)  subject to subsection (3), treat the received amount as the total of the amounts deducted by the employer under Part IV from the salary or wages of all the relevant employees during the preceding calendar month; and
+                     (a)  subject to subsection (3), treat the received amount as the total of the amounts deducted by the employer under Part IV from the salary or wages of all the relevant employees during the preceding month; and
 
                      (b)  apportion the amount between the relevant employees on the basis that appears to the Registrar to be the most appropriate in the circumstances.
 
              (3)  Where:
 
-                     (a)  the received amount is less than the amount (in this subsection called the **_expected amount_**) that, according to the records held by the Registrar, should have been received from the employer under paragraph 47(1)(a) in relation to the preceding calendar month; and
+                     (a)  the received amount is less than the amount (in this subsection called the **_expected amount_**) that, according to the records held by the Registrar, should have been received from the employer under paragraph 47(1)(a) in relation to the preceding month; and
 
                      (b)  the expected amount does not exceed the sum of the received amount and the product of the amount prescribed for the purposes of this subsection and the number of relevant employees;
 
@@ -5325,7 +5327,7 @@ Section does not apply to care percentage decisions
 
              (3)  Subsection (1) does not apply to an objection to a care percentage decision.
 
-##### <a id="85A"></a>85A  Notification of objections to care percentage decisions
+##### <a id="85A"></a>85A  Notification of objections to care percentage decisions
 
                    If:
 
@@ -5463,11 +5465,11 @@ the Registrar must give written notice of the decision to each person affected b
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      If a person objects to a
+<li class="BoxList" style="margin-left:21.25pt">•      If a person objects to a decision
 
-decision of the Registrar under Part VII, the Registrar is required to
+of the Registrar under Part VII, the Registrar is required to reconsider
 
-reconsider the decision under that Part.</li>
+the decision under that Part.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      If a person is dissatisfied
 
@@ -6976,11 +6978,11 @@ refer a question of law arising in a proceeding before the SSAT under Part VII
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      The reconsideration of a
+<li class="BoxList" style="margin-left:21.25pt">•      The reconsideration of a decision
 
-decision by the Registrar, the SSAT or a court does not affect the operation of
+by the Registrar, the SSAT or a court does not affect the operation of the
 
-the decision or prevent the taking of any action to implement the decision.</li>
+decision or prevent the taking of any action to implement the decision.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Once a decision becomes
 
@@ -6996,9 +6998,9 @@ identifies a witness or party.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Division 5 modifies
 
-the application of the _Administrative Appeals Tribunal Act 1975_ to
+the application of the _Administrative Appeals Tribunal Act 1975_ to applications
 
-applications for review under subsection 103VA(1) of this Act.</li>
+for review under subsection 103VA(1) of this Act.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The date of effect of
 
@@ -7646,7 +7648,7 @@ Registrar to keep payee informed of action taken to recover debt
 
              (2)  The Registrar may take such steps as the Registrar considers appropriate to keep the payee of a registered maintenance liability informed of action taken by the Registrar to recover debts due to the Commonwealth under this Act in relation to the liability.
 
-##### <a id="113A"></a>113A  Recovery of debts by payees
+##### <a id="113A"></a>113A  Recovery of debts by payees
 
 Payee to notify Registrar of intention to institute a proceeding to recover debt
 
@@ -9015,7 +9017,7 @@ Schedule 4 (items 2, 3): <i>(v)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 334–348) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 334–348) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -9672,7 +9674,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 124, 1989; No. 216, 1991; Nos. 151 and 210, 1992; Nos. 39 and 140, 1995; Nos. 29 and 152, 1997; No. 120, 1998; Nos. 194 and 179, 1999; Nos. 86 and 143, 2000; Nos. 55 and 75, 2001; No. 8, 2005; Nos. 22, 46 and 146, 2006; Nos. 8, 15 and 82, 2007; Nos. 115 and 144, 2008; Nos. 38, 56, 65 and 105, 2010; Nos. 5, 32 and 46, 2011</div>
+    <div>am. No. 124, 1989; No. 216, 1991; Nos. 151 and 210, 1992; Nos. 39 and 140, 1995; Nos. 29 and 152, 1997; No. 120, 1998; Nos. 194 and 179, 1999; Nos. 86 and 143, 2000; Nos. 55 and 75, 2001; No. 8, 2005; Nos. 22, 46 and 146, 2006; Nos. 8, 15 and 82, 2007; Nos. 115 and 144, 2008; Nos. 38, 56, 65 and 105, 2010; Nos. 5 and 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -10061,14 +10063,6 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Subhead. to s. 26B(5)</div>
   </td>
   <td>
@@ -10088,7 +10082,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div></div>
   </td>
   <td>
-    <div>am. No. 82, 2007; No. 46, 2011</div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
@@ -10553,7 +10547,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. No. 163, 1989; No. 84, 1997; No. 120, 1998; No. 46, 2011</div>
+    <div>am. No. 163, 1989; No. 84, 1997; No. 120, 1998</div>
   </td>
 </tr>
 <tr>
@@ -10585,7 +10579,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 163, 1989; No. 120, 1998; No. 137, 2001; Nos. 46 and 88, 2011</div>
+    <div>am. No. 163, 1989; No. 120, 1998; No. 137, 2001; No. 88, 2011</div>
   </td>
 </tr>
 <tr>
@@ -10633,7 +10627,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>S. 53</div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 8, 2005; No. 46, 2011</div>
+    <div>am. No. 152, 1997; No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -10726,23 +10720,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
 </tr>
 <tr>
   <td>
-    <div>S. 65A</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65B</div>
+    <div>Ss. 65A, 65B</div>
   </td>
   <td>
     <div>ad. No. 120, 1998</div>
@@ -10769,7 +10747,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div></div>
   </td>
   <td>
-    <div>am. No. 146, 2006; No. 82, 2007; No. 46, 2011</div>
+    <div>am. No. 146, 2006; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
@@ -10777,7 +10755,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>S. 67</div>
   </td>
   <td>
-    <div>am. No. 151, 1992; No. 75, 2001; No. 82, 2007; No. 46, 2011</div>
+    <div>am. No. 151, 1992; No. 75, 2001; No. 82, 2007</div>
   </td>
 </tr>
 <tr>
@@ -10841,7 +10819,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div></div>
   </td>
   <td>
-    <div>am. No. 146, 2006; No. 46, 2011</div>
+    <div>am. No. 146, 2006</div>
   </td>
 </tr>
 <tr>
@@ -11393,7 +11371,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>S. 76</div>
   </td>
   <td>
-    <div>am. No. 120, 1998; No. 146, 2006; No. 46, 2011</div>
+    <div>am. No. 120, 1998; No. 146, 2006</div>
   </td>
 </tr>
 <tr>
@@ -11401,7 +11379,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div>Ss. 77, 78</div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 8, 2005; No. 46, 2011</div>
+    <div>am. No. 152, 1997; No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -13309,6 +13287,76 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 334  Subsection 4(1) (definition of _closing day_)
+
+Omit “month” (wherever occurring), substitute “calendar month”.
+
+## 335  Subsection 4(1) (definition of _month_)
+
+Repeal the definition.
+
+## 336  Subsection 26A(3) (example)
+
+Omit “month”, substitute “calendar month or a month”.
+
+## 337  Subsection 26B(4) (example 2)
+
+Omit “calendar”.
+
+## 338  Subsection 44(10)
+
+Omit “one month”, substitute “one calendar month or one month”.
+
+## 339  Section 47
+
+Omit “month” (wherever occurring), substitute “calendar month”.
+
+## 340  Paragraphs 53(a), (b) and (c)
+
+Omit “month”, substitute “calendar month”.
+
+## 341  Subsection 65A(3) (example 2)
+
+Omit “calendar”.
+
+## 342  Subsection 66(1)
+
+Omit “month”, substitute “calendar month”.
+
+## 343  Subsection 67(1AA)
+
+Omit “month”, substitute “calendar month”.
+
+## 344  Subsection 71AA(4) (example)
+
+Omit “month” (wherever occurring), substitute “calendar month”.
+
+## 345  Subsection 76(1)
+
+Omit “each month”, substitute “each calendar month”.
+
+## 346  Paragraph 76(1)(a)
+
+Omit “the month”, substitute “the calendar month”.
+
+## 347  Paragraphs 77(a) and (b)
+
+Omit “month”, substitute “calendar month”.
+
+## 348  Section 78
+
+Omit “month” (wherever occurring), substitute “calendar month”.
+
+As at 23 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -14464,6 +14512,8 @@ that existed immediately before the commencement of this item in the same way th
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
