@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00794/Html/f1a9899f-5263-4c0e-aea1-47c22f91fce8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00462/Html/d0db5a30-d154-4de8-b4c2-352bb6462c3c_files/image001.gif)
 
 # Human Services (Medicare) Act 1973
 
 **Act No. 41 of 1974 as amended**
 
-This compilation was prepared on 27 September 2011
+This compilation was prepared on 1 July 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -20,146 +20,145 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           1
 
-[3A](#3A).         Definitions of relevant offence
+[3A](#3A).         Definitions of relevant offence                                                             3
 
 **Part IIA—Chief Executive Medicare**
 
-[4](#4).            Chief Executive Medicare
+[4](#4).            Chief Executive Medicare                                                                    6
 
-[4A](#4A).         Acting Chief Executive Medicare
+[4A](#4A).         Acting Chief Executive Medicare                                                         6
 
-[5](#5).            Functions of Chief Executive Medicare
+[5](#5).            Functions of Chief Executive Medicare                                               7
 
-[6](#6).            Chief Executive Medicare’s medicare functions
+[6](#6).            Chief Executive Medicare’s medicare functions                                   8
 
-[7](#7).            Chief Executive Medicare’s service delivery functions
+[7](#7).            Chief Executive Medicare’s service delivery functions                        8
 
-[7A](#7A).         Agreements about performance of Chief Executive Medicare’s functions
+[7A](#7A).         Agreements about performance of Chief Executive Medicare’s functions               9
 
-[8AC](#8AC).      Delegation
+[8AC](#8AC).      Delegation                                                                                            9
 
-[8AD](#8AD).      Commonwealth consent to conferral of functions etc  on Chief Executive Medicare by State and Territory laws
+[8AD](#8AD).      Commonwealth consent to conferral of functions etc  on Chief Executive Medicare by State and Territory laws    10
 
-[8AE](#8AE).       How duty is imposed on Chief Executive Medicare by State and Territory laws
+[8AE](#8AE).       How duty is imposed on Chief Executive Medicare by State and Territory laws     10
 
-[8AF](#8AF).       When State and Territory laws impose a duty on Chief Executive Medicare
+[8AF](#8AF).       When State and Territory laws impose a duty on Chief Executive Medicare            11
 
-[8B](#8B).         Chief Executive Medicare may be assisted by Departmental employees
+[8B](#8B).         Chief Executive Medicare may be assisted by Departmental employees  11
 
 **Part IID—Investigative powers of Chief Executive Medicare** 
 
     **Division 1—Preliminary**
 
-[8K](#8K).         Crown to be bound
+[8K](#8K).         Crown to be bound                                                                            12
 
-[8L](#8L).          Authorisation to exercise powers under this Part
+[8L](#8L).          Authorisation to exercise powers under this Part                               12
 
-[8M](#8M).        Authorised officers
+[8M](#8M).        Authorised officers                                                                            12
 
-[8N](#8N).         Identity cards
+[8N](#8N).         Identity cards                                                                                      12
 
     **Division 2—General power to obtain information**
 
-[8P](#8P).          Chief Executive Medicare may obtain information etc 
+[8P](#8P).          Chief Executive Medicare may obtain information etc                       14
 
-[8Q](#8Q).         Content of notices
+[8Q](#8Q).         Content of notices                                                                              15
 
-[8R](#8R).         Offences
+[8R](#8R).         Offences                                                                                             15
 
-[8RA](#8RA).      Use of information
+[8RA](#8RA).      Use of information                                                                             16
 
-[8S](#8S).          Self‑incrimination
+[8S](#8S).          Self‑incrimination                                                                               16
 
-[8T](#8T).          Exemption
+[8T](#8T).          Exemption                                                                                          17
 
     **Division 3—Searches in relation to possible relevant offences and relevant civil contraventions**
 
-[8U](#8U).         Authorised officers may conduct searches for the purpose of monitoring compliance
+[8U](#8U).         Authorised officers may conduct searches for the purpose of monitoring compliance             18
 
-[8V](#8V).         Powers on entering premises
+[8V](#8V).         Powers on entering premises                                                             19
 
-[8W](#8W).        Authorised officers to produce evidence of identity
+[8W](#8W).        Authorised officers to produce evidence of identity                           20
 
     **Division 4—Warrants for searches and seizures**
 
-[8X](#8X).         Relevant offence and relevant civil contravention related searches and seizures
+[8X](#8X).         Relevant offence and relevant civil contravention related searches and seizures       21
 
-[8Y](#8Y).         Search warrants
+[8Y](#8Y).         Search warrants                                                                                  21
 
-[8Z](#8Z).          Warrants may be issued by telephone or other electronic means
+[8Z](#8Z).          Warrants may be issued by telephone or other electronic means        22
 
-[8ZA](#8ZA).       Formalities relating to warrants issued by telephone or other electronic means
+[8ZA](#8ZA).       Formalities relating to warrants issued by telephone or other electronic means        23
 
     **Division 5—Provisions relating to execution of search warrants**
 
-[8ZB](#8ZB).       Announcement before entry
+[8ZB](#8ZB).       Announcement before entry                                                               25
 
-[8ZC](#8ZC).       Availability of assistance and use of force in executing a warrant
+[8ZC](#8ZC).       Availability of assistance and use of force in executing a warrant      25
 
-[8ZD](#8ZD).       Details of warrant to be given to occupier etc 
+[8ZD](#8ZD).       Details of warrant to be given to occupier etc                                     25
 
-[8ZE](#8ZE).       Specific powers available to officers executing warrants
+[8ZE](#8ZE).       Specific powers available to officers executing warrants                   26
 
-[8ZF](#8ZF).       Use of equipment to examine or process things
+[8ZF](#8ZF).       Use of equipment to examine or process things                                 26
 
-[8ZG](#8ZG).       Use of electronic equipment at premises
+[8ZG](#8ZG).       Use of electronic equipment at premises                                            28
 
-[8ZGA](#8ZGA).    Use of electronic equipment at other place
+[8ZGA](#8ZGA).    Use of electronic equipment at other place                                         30
 
-[8ZGB](#8ZGB).    Person with knowledge of a computer or a computer system to assist access etc 
+[8ZGB](#8ZGB).    Person with knowledge of a computer or a computer system to assist access etc     31
 
-[8ZGC](#8ZGC).    Accessing data held on other premises—notification to occupier of that premises
+[8ZGC](#8ZGC).    Accessing data held on other premises—notification to occupier of that premises   33
 
-[8ZH](#8ZH).       Compensation for damage to electronic equipment
+[8ZH](#8ZH).       Compensation for damage to electronic equipment                            33
 
-[8ZI](#8ZI).        Seizure of things not covered by warrants
+[8ZI](#8ZI).        Seizure of things not covered by warrants                                         34
 
-[8ZJ](#8ZJ).        Occupier entitled to observe search
+[8ZJ](#8ZJ).        Occupier entitled to observe search                                                    34
 
-[8ZK](#8ZK).       Receipts for things seized under warrant
+[8ZK](#8ZK).       Receipts for things seized under warrant                                            35
 
-[8ZL](#8ZL).       Copies of seized things to be provided
+[8ZL](#8ZL).       Copies of seized things to be provided                                               35
 
-[8ZM](#8ZM).      Retention of things seized
+[8ZM](#8ZM).      Retention of things seized                                                                  35
 
     **Division 6—Miscellaneous**
 
-[8ZN](#8ZN).       Patients to be advised of search, seizure etc  of clinical 
- records
+[8ZN](#8ZN).       Patients to be advised of search, seizure etc  of clinical records         37
 
-[8ZO](#8ZO).       Offence for making false statements in warrants
+[8ZO](#8ZO).       Offence for making false statements in warrants                                37
 
-[8ZP](#8ZP).       Offences relating to telephone warrants
+[8ZP](#8ZP).       Offences relating to telephone warrants                                             37
 
-[8ZQ](#8ZQ).       Actions under this Part taken to be in performance of certain functions
+[8ZQ](#8ZQ).       Actions under this Part taken to be in performance of certain functions 38
 
-[8ZR](#8ZR).       Powers of magistrates
+[8ZR](#8ZR).       Powers of magistrates                                                                        39
 
 **Part VI—Miscellaneous**
 
-[41C](#41C).       Protection of names and symbols
+[41C](#41C).       Protection of names and symbols                                                       40
 
-[41D](#41D).       Forfeiture of articles etc 
+[41D](#41D).       Forfeiture of articles etc                                                                      43
 
-[41E](#41E).        Sections 41C and 41D not to limit other laws
+[41E](#41E).        Sections 41C and 41D not to limit other laws                                    43
 
-[41F](#41F).        Chief Executive Medicare may charge for services
+[41F](#41F).        Chief Executive Medicare may charge for services                            43
 
-[41G](#41G).       Medicare programs
+[41G](#41G).       Medicare programs                                                                            43
 
-[42](#42).          Chief Executive Officer’s annual report
+[42](#42).          Chief Executive Officer’s annual report                                             44
 
-[43](#43).          Arrangements with States and Territories—magistrates
+[43](#43).          Arrangements with States and Territories—magistrates                     44
 
-[43A](#43A).       Multiple secrecy provisions
+[43A](#43A).       Multiple secrecy provisions                                                               45
 
-[44](#44).          Regulations
+[44](#44).          Regulations                                                                                        47
 
 **Notes** 
 
@@ -2360,7 +2359,7 @@ Schedule 1 (item 81): 11 Nov 2002 <i>(m)</i></div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Schedule 3 (items 7–10): 15 Dec 1998 ( <i>see</i>s. 2(2)) 
+    <div>Schedule 3 (items 7–10): 15 Dec 1998 ( <i>see</i>s. 2(2)) 
 Schedule 3 (item 12): 1 Jan 1999 
 Remainder: Royal Assent</div>
   </td>
@@ -2561,42 +2560,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 2 (items 
-714–719, 721–727, 730, 731) 
-Sch. 2 (item 720) (rep. by 100, 2011, Sch. 1 \[item 6]) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Stocktake Act (No. 1) 2011</div>
-  </td>
-  <td>
-    <div>100, 2011</div>
-  </td>
-  <td>
-    <div>15 Sept 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 6): 16 Sept 2011</div>
-  </td>
-  <td>
-    <div>—</div>
+714–727, 730, 731) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2627,7 +2591,7 @@ Sch. 2 (item 720) (rep. by 100, 2011, Sch. 1 \[item 6]) \[ <i>see</i>Table
     <div>21 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Mar 2008 
+    <div>Schedule 1: 1 Mar 2008 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -5787,7 +5751,7 @@ The amendments of subsections 36(6A) and (6C) of the _Health Insurance Commissio
 
 The insertion of subsection 36(6BA) of the _Health Insurance Commission Act 1973 by the Audit (Transitional and Miscellaneous) Amendment Act 1997_ has no effect if subsection 36(6A) of the _Health Insurance Commission Act 1973_ is repealed by this Schedule before the commencement of Schedule 2 to the _Audit (Transitional and Miscellaneous) Amendment Act 1997_
 
-## 76  Transitional—annual report of Commission
+## 76  Transitional—annual report of Commission
 
 If the date of commencement of the repeals of paragraphs 42(a), (b) and (c) of the _Health Insurance Commission Act 1973_ by this Schedule is not a 1 July, then, despite those repeals, section 42 of that Act continues to apply, in relation to a report for the financial year in which the fund‑transfer day occurred, as if those repeals had not been made.
 
@@ -6076,6 +6040,26 @@ were pending in any court or tribunal, then, from the commencement time, the Com
                      (b)  is taken to have been properly given;
 
 unless the contrary is established.
+
+## 720  Appropriations
+
+Transfer of appropriations
+
+(1)       If:
+
+                     (a)  a provision of an Act or regulations provides for, or relates to, the appropriation of money out of the Consolidated Revenue Fund; and
+
+                     (b)  the provision refers to HIC (however described);
+
+the reference to HIC is to be read from the commencement time as a reference to Medicare Australia.
+
+(2)       The Minister may, by writing, determine that a particular reference to HIC covered by subitem (1) is to be read as a reference to the CEO. A determination under this subitem has effect accordingly.
+
+(3)       A determination made under subitem (2) is not a legislative instrument.
+
+Re‑appropriation of money
+
+(4)       If an amount of money (the **_original amount_**) becomes an asset of the Commonwealth under item 718, an amount equal to the original amount may be paid out of the Consolidated Revenue Fund, which is appropriated accordingly, for the purposes of Medicare Australia.
 
 ## 721  Transfer of staff
 
