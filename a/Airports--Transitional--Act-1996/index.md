@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00347/Html/AirportsTransAct_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00095/Html/AirportsTransAct_image001.gif)
 
 # Airports (Transitional) Act 1996
 
 **Act No. 36 of 1996 as amended**
 
-This compilation was prepared on 16 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 28 March 2008 
+ taking into account amendments up to Act No. 8 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1420,19 +1420,15 @@ provision is made for:</li>
 
                      (a)  a written contract of employment; or
 
-                     (b)  any of the following (within the meaning of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_):
+                     (b)  an award (as defined by section 4 of the _Industrial Relations Act 1988_); or
 
-                              (i)  an award;
+                     (c)  a certified agreement (as defined by section 4 of the _Workplace Relations Act 1996_); or
 
-                             (ii)  a pre-reform certified agreement;
+                     (d)  an individual transitional employment agreement (as defined by section 4 of the _Workplace Relations Act 1996_); or
 
-                            (iii)  an individual transitional employment agreement;
-
-                            (iv)  an AWA; or
+                    (da)  an AWA (as defined by clause 1 of Schedule 7A to the _Workplace Relations Act 1996_); or
 
                      (e)  an enterprise flexibility agreement (as defined by section 4 of the _Workplace Relations Act 1996_ as in force immediately before the commencement of Schedule 9 to the _Workplace Relations and Other Legislation Amendment Act 1996_) that continues to have effect because of Part 2 of that Schedule.
-
-Note:          For an instrument referred to in paragraph (b), see item 4 of Schedule 2 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
              (5)  This section has effect subject to this Part.
 
@@ -2567,23 +2563,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 10 (items 1, 2): <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Airports (Transitional) Act 1996_ was amended by Schedule 11 (item 60) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(2) of which provides as follows:
@@ -2698,61 +2677,6 @@ _(h)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (2006 Me
   <td>
     <div>
       14 September 2006
-    </div>
-  </td>
-</tr></table>
-
-_(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      32\. Schedule 10
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009
     </div>
   </td>
 </tr></table>
@@ -3059,15 +2983,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
     <div>S. 59</div>
   </td>
   <td>
-    <div>am. No. 60, 1996; No. 8, 2008; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 59(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 2009</div>
+    <div>am. No. 60, 1996; No. 8, 2008</div>
   </td>
 </tr></table>
 
