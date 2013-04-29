@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00538/Html/PrimIndExciseLevies1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00464/Html/PrimIndExciseLevies1999_WD02_image001.gif)
 
 # Primary Industries (Excise) Levies Act 1999
 
 **Act No. 31 of 1999 as amended**
 
-This compilation was prepared on 3 September 2007
+This compilation was prepared on 10 July 2007
  taking into account amendments up to Act No. 123 of 2007
 
 The text of any of those amendments not in force
@@ -1828,11 +1828,7 @@ Note:          A determination by the Secretary of the declare
 
                    In this Schedule:
 
-                    <a name="industri-bodi"></a>**_industry body_** means a body for which both of the following conditions are met:
-
-                     (a)  members of the body are operators of mills;
-
-                     (b)  the body is prescribed by the regulations for the purposes of this paragraph.
+                    <a name="industri-bodi"></a>**_industry body_** means an industry body declared under section 7 of the _Primary Industries and Energy Research and Development Act 1989_ to be a representative organisation in relation to an R&amp;D Corporation established under section 8 of that Act in respect of forest industries.
 
                     <a name="log"></a>**_logs_** means logs that have not undergone any form of processing other than:
 
@@ -1888,7 +1884,7 @@ Note:          A determination by the Secretary of the declare
 
 ##### <a id="5"></a>5  Regulations
 
-                   Before the Governor-General makes regulations for the purposes of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by an industry body.
+                   Before the Governor-General makes regulations for the purposes of this Schedule, the Minister must take into consideration any relevant recommendation made to the Minister by an industry body.
 
 ##### <a id="6"></a>6  Transitional—regulations
 
@@ -2640,7 +2636,7 @@ Note 2:       Paragraph (b) identifies amounts that, under the _Aust
 
 ##### <a id="1"></a>1  Definitions
 
-                   In this Schedule:
+                   In this Schedule:
 
                     <a name="industri-market-bodi"></a>**_industry marketing body_** has the same meaning as in Part 3 of the _Australian Meat and Live-stock Industry Act 1997_.
 
@@ -3487,7 +3483,7 @@ Note 3:       Paragraph (c) identifies amounts that, under the _Aust
 
              (2)  The regulations have effect, after the commencement of this clause, as if they had been made for the purposes of the corresponding provision of this Schedule.
 
-##### <a id="7"></a>7  Transitional—declarations
+##### <a id="7"></a>7  Transitional—declarations
 
              (1)  This clause applies to a declaration if:
 
@@ -3641,7 +3637,7 @@ the rate of levy imposed by this Schedule for rice of that variety harvested in 
 
 ##### <a id="6"></a>6  Regulations
 
-                   Before the Governor-General makes regulations for the purposes of:
+                   Before the Governor-General makes regulations for the purposes of:
 
                      (a)  clause 4; or
 
@@ -4307,9 +4303,7 @@ Remainder: Royal Assent</div>
     <div>28 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 29 June 2007 
-Schedule 2: 3 Sept 2007 ( <i>see</i>F2007L02639) 
-Remainder: Royal Assent</div>
+    <div>Schedule 2 (item 6): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -4634,22 +4628,6 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>am. No. 123, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Schedule 11</b></div>
   </td>
   <td>
@@ -4968,6 +4946,26 @@ _(e)_     Subsection 2(1) (item 2) of the _Egg Industry Service Provisio
     <div>am. No. 163, 2000</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Forestry Marketing and Research and Development Services (Transitional and Consequential Provisions) Act 2007 (No. 123, 2007)_
+
+The following amendment commences on 28 December 2007 unless proclaimed earlier:
+
+## Schedule 2
+
+## 6  Clause 1 of Schedule 10 (definition of _industry body_)
+
+Repeal the definition, substitute:
+
+                    <a name="industri-bodi"></a>**_industry body_** means a body for which both of the following conditions are met:
+
+                     (a)  members of the body are operators of mills;
+
+                     (b)  the body is prescribed by the regulations for the purposes of this paragraph.
+
+As at 10 July 2007 the amendment is not incorporated in this compilation.
 
 ## Table A
 
