@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00199/Html/7802BE835D0CBC3DCA257157000B5427/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00130/Html/EC9C7F8B2496A298CA25714D0083D058/$FILE/image001.gif)
 
 # Public Accounts and Audit Committee Act 1951
 
 **Act No. 60 of 1951 as amended**
 
-This compilation was prepared on 12 April 2006
-taking into account amendments up to Act No. 30 of 2006
+This compilation was prepared on 31 March 2006 
+taking into account amendments up to Act No. 9 of 2006
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -25,11 +25,11 @@ Attorney-General’s Department, Canberra
 
 [4](#4).            Interpretation                                                                                       1
 
-[4A](#4A).         Application of the _Criminal Code_                                                       2
+[4A](#4A).         Application of the _Criminal Code_                                                       1
 
-[5](#5).            Joint Committee of Public Accounts and Audit                                  2
+[5](#5).            Joint Committee of Public Accounts                                                   2
 
-[6](#6).            Chair and Deputy Chair                                                                      3
+[6](#6).            Chair and Deputy Chair                                                                      2
 
 [6A](#6A).         Meetings of Committee                                                                       3
 
@@ -47,8 +47,6 @@ Attorney-General’s Department, Canberra
 
 [11](#11).          Sittings to be public except in certain cases                                         9
 
-[11A](#11A).       Disclosure and publishing of evidence taken in private                       9
-
 [12](#12).          Continuance of evidence                                                                    10
 
 [13](#13).          Power to summon witnesses                                                             10
@@ -63,7 +61,7 @@ Attorney-General’s Department, Canberra
 
 [18](#18).          False evidence                                                                                    11
 
-[19](#19).          Privileges and protection of witnesses                                              12
+[19](#19).          Privileges and protection of witnesses                                              11
 
 [20](#20).          Witnesses’ expenses                                                                          12
 
@@ -106,8 +104,6 @@ Attorney-General’s Department, Canberra
 
                     <a name="auditor-gener"></a>**_Auditor-General_** means the Auditor-General for the Commonwealth referred to in section 7 of the _Auditor-General Act 1997_.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
-
                     <a name="independ-auditor"></a>**_Independent Auditor_** means the Independent Auditor referred to in section 41 of the _Auditor-General Act 1997_.
 
                     <a name="member"></a>**_member_** means a member of the Committee.
@@ -126,13 +122,13 @@ Note:          For the manner in which the Chair and Deputy Ch
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-##### <a id="5"></a>5  Joint Committee of Public Accounts and Audit
+##### <a id="5"></a>5  Joint Committee of Public Accounts 
 
              (1)  As soon as practicable after the commencement of this subsection and the first session of each Parliament, a joint committee of members of the Parliament, to be known as the Joint Committee of Public Accounts and Audit, is to be appointed.
 
              (2)  The Committee is to consist of 16 members of the Parliament. 6 members must be members of, and be appointed by, the Senate. 10 members must be members of, and be appointed by, the House of Representatives. The members must be appointed according to the practice of the Parliament for the appointment of members to serve on joint select committees of both Houses of the Parliament.
 
-             (3)  Each member shall hold office during the pleasure of the House by which he or she was appointed.
+             (3)  Each member shall hold office during the pleasure of the House by which he was appointed.
 
              (4)  Either House of the Parliament may appoint one of its members to fill a vacancy amongst the members of the Committee appointed by that House.
 
@@ -144,15 +140,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  the Chair of that Committee is not a member of the Joint Committee of Public Accounts and Audit by virtue of an appointment under subsection (2);
 
-that Chair shall, by virtue of his or her office as Chair of the Expenditure Committee, be a member of the Joint Committee of Public Accounts and Audit in addition to the members referred to in subsection (2), but is not eligible to be elected as Chair of the last-mentioned Committee.
+that Chair shall, by virtue of his office as Chair of the Expenditure Committee, be a member of the Joint Committee of Public Accounts and Audit in addition to the members referred to in subsection (2), but is not eligible to be elected as Chair of the last-mentioned Committee.
 
 ##### <a id="6"></a>6  Chair and Deputy Chair
 
              (1)  There shall be a Chair and a Deputy Chair of the Committee, who shall be elected by the members from time to time and shall hold office as Chair and Deputy Chair during the pleasure of the Committee.
 
-             (2)  The Chair shall preside at all meetings of the Committee at which he or she is present.
+             (2)  The Chair shall preside at all meetings of the Committee at which he is present.
 
-          (2A)  In the event of the absence of the Chair from a meeting of the Committee, the Deputy Chair shall, if he or she is present at that meeting, preside at that meeting.
+          (2A)  In the event of the absence of the Chair from a meeting of the Committee, the Deputy Chair shall, if he is present at that meeting, preside at that meeting.
 
              (3)  In the event of the absence of both the Chair and the Deputy Chair from a meeting of the Committee, the members present may appoint one of their number to preside at the meeting, and the member so presiding shall, in relation to the meeting, have all the powers and functions of the Chair.
 
@@ -160,7 +156,7 @@ that Chair shall, by virtue of his or her office as Chair of the Expenditure Com
 
              (1)  The Committee may meet at such times and at such places within Australia as the Committee, by resolution, determines or, subject to any resolution of the Committee, as the Chair determines, but shall not meet at any place outside Australia.
 
-             (2)  At any time when the Chair is absent from Australia or is, for any reason, unable to perform the duties of his or her office or there is a vacancy in the office of Chair, the Deputy Chair may exercise the powers of the Chair under subsection (1).
+             (2)  At any time when the Chair is absent from Australia or is, for any reason, unable to perform the duties of his office or there is a vacancy in the office of Chair, the Deputy Chair may exercise the powers of the Chair under subsection (1).
 
              (3)  The Committee may meet and transact business notwithstanding any prorogation of the Parliament.
 
@@ -294,9 +290,7 @@ Note:          Clauses 2 of Schedule 1 and 2 of Schedule�
 
              (1)  The Committee may appoint a Sectional Committee or Sectional Committees of three or more of its members to inquire into and report to the Committee upon such matters with which the Committee is concerned as the Committee directs.
 
-             (3)  The provisions of this Act (other than this section and section 5, subsection 7(1) and sections 8, 8A, 8B and 12) apply in relation to a Sectional Committee in the same way as they apply in relation to the Committee.
-
-       (3AA)  In applying any of the provisions, a reference to the Chair or the Deputy Chair of the Committee (except a reference in section 22) is instead a reference to the Chair or the Deputy Chair of the Sectional Committee.
+             (3)  The provisions of this Act (other than this section and section 5, subsection 7(1) and sections 8, 8A, 8B and 12) apply in relation to a Sectional Committee in like manner as they apply in relation to the Committee and, for the purposes of those provisions as so applying, a reference to the Chair or the Deputy Chair of the Committee (except the references in section 22) shall be read as a reference to the Chair or the Deputy Chair of the Sectional Committee.
 
           (3A)  At a meeting of a Sectional Committee, a quorum is constituted by:
 
@@ -304,7 +298,7 @@ Note:          Clauses 2 of Schedule 1 and 2 of Schedule�
 
                      (b)  in the case of a Sectional Committee of 6 or 7 members—3 members; and
 
-                     (c)  in the case of a Sectional Committee of 8 or more members—4 members.
+                     (c)  in the case of a Sectional Committee of 8 or 9 members—4 members.
 
              (4)  A Sectional Committee shall report in writing to the Committee as soon as practicable on each matter referred to that Sectional Committee by the Committee.
 
@@ -318,29 +312,23 @@ Note:          Clauses 2 of Schedule 1 and 2 of Schedule�
 
 ##### <a id="11"></a>11  Sittings to be public except in certain cases
 
-             (1)  Subject to subsection (2), the Committee must take all evidence in public.
+             (1)  Subject to this section, the Committee shall take all evidence in public.
 
-             (2)  If, in the Committee’s opinion, evidence relates to a secret or confidential matter:
+             (2)  The Committee may, and at the request of the witness giving the evidence shall, take in private evidence, whether oral or documentary, which, in the opinion of the Committee, relates to a secret or confidential matter.
 
-                     (a)  if the witness giving the evidence requests the Committee to do so—the Committee must take the evidence in private; or
+             (3)  Where, at the request of a witness, evidence is taken by the Committee in private:
 
-                     (b)  in any other case—the Committee may take the evidence in private.
+                     (a)  the Committee or a member shall not, without the consent in writing of the witness; and
 
-##### <a id="11A"></a>11A  Disclosure and publishing of evidence taken in private
+                     (b)  a person other than a member shall not, without the consent in writing of the witness and the authority of the Committee under subsection (5);
 
-             (1)  Subject to subsections (2) and (3), the Committee may publish or disclose any evidence taken in private.
+disclose or publish the whole or a part of the evidence (other than evidence which has already been lawfully published).
 
-             (2)  If evidence is taken in private at the request of a witness and has not already been published:
+             (4)  Where evidence is taken by the Committee in private otherwise than at the request of a witness, a person (including a member of the Committee) shall not, without the authority (in writing signed by the Chair) of the Committee under the next succeeding subsection, disclose or publish the whole or a part of that evidence (other than evidence which has already been lawfully published).
 
-                     (a)  the Committee or a member of the Committee must not disclose or publish any of the evidence without the consent of the witness who gave it; and
+             (5)  The Committee may, in its discretion, disclose or publish, or authorize the disclosure or publication of, evidence taken in private, but this subsection does not operate so as to affect the necessity for the consent of a witness under subsection (3).
 
-                     (b)  any other person must not disclose or publish any of the evidence without the consent of the witness who gave it and without the authorisation of the Committee.
-
-             (3)  If evidence is taken in private other than at the request of a witness and has not already been published, a member of the Committee or any other person must not disclose or publish any of the evidence without the authorisation of the Committee.
-
-             (4)  The Committee may, in writing signed by the Chair, give an authorisation for the purposes of paragraph (2)(b) or subsection (3).
-
-             (5)  This section has effect in spite of section 2 of the _Parliamentary Papers Act 1908_.
+             (6)  This section has effect notwithstanding the provisions of section 2 of the _Parliamentary Papers Act 1908-1946_.
 
 ##### <a id="12"></a>12  Continuance of evidence
 
@@ -352,11 +340,11 @@ Note:          Clauses 2 of Schedule 1 and 2 of Schedule�
 
              (2)  A summons to a witness may be in accordance with Form C in the Schedule and shall be signed by the Chair or the Deputy Chair.
 
-             (3)  A summons to a witness may be served upon the witness either personally or by being left at, or sent by post to, his or her usual place of business or of abode.
+             (3)  A summons to a witness may be served upon the witness either personally or by being left at, or sent by post to, his usual place of business or of abode.
 
 ##### <a id="14"></a>14  Warrant in case of disobedience of summons
 
-             (1)  If a person upon whom a summons under the last preceding section has been served and to whom reasonable expenses of conveyance have been tendered fails to appear, or, having appeared, fails to continue in attendance, in obedience to the summons, the Chair or the Deputy Chair may issue a warrant for his or her apprehension.
+             (1)  If a person upon whom a summons under the last preceding section has been served and to whom reasonable expenses of conveyance have been tendered fails to appear, or, having appeared, fails to continue in attendance, in obedience to the summons, the Chair or the Deputy Chair may issue a warrant for his apprehension.
 
              (2)  The warrant may be in accordance with Form D in the Schedule.
 
@@ -366,9 +354,9 @@ Note:          Clauses 2 of Schedule 1 and 2 of Schedule�
 
                      (b)  bring that person before the Committee; and
 
-                     (c)  detain that person in custody until he or she is released by order of the Chair or the Deputy Chair.
+                     (c)  detain that person in custody until he is released by order of the Chair or the Deputy Chair.
 
-             (4)  The warrant may be executed by the person to whom it is addressed or by a person appointed by him or her to assist him or her in its execution, and the person executing the warrant may break and enter a building, place or ship for the purpose of executing the warrant.
+             (4)  The warrant may be executed by the person to whom it is addressed or by a person appointed by him to assist him in its execution, and the person executing the warrant may break and enter a building, place or ship for the purpose of executing the warrant.
 
 ##### <a id="15"></a>15  Witness to obey summons
 
@@ -388,9 +376,9 @@ Note:          A defendant bears a legal burden in relation to
 
                      (a)  to be sworn or make an affirmation;
 
-                     (b)  to answer a question put to him or her by the Committee or by any member thereof; or
+                     (b)  to answer a question put to him by the Committee or by any member thereof; or
 
-                     (c)  to produce a document which he or she is required by the Committee or by a member thereof to produce.
+                     (c)  to produce a document which he is required by the Committee or by a member thereof to produce.
 
              (2)  Paragraph (1)(a), (b) or (c) does not apply if the person proves that he or she has just cause for the refusal.
 
@@ -406,7 +394,7 @@ Note:          A defendant bears a legal burden in relation to
 
              (1)  A person summoned to appear or appearing before the Committee as a witness shall have the same protection and privileges as a witness in proceedings in the High Court.
 
-             (2)  A person shall not use, cause or inflict any violence, punishment, damage, loss or disadvantage on or to a person for or on account of his or her having appeared as a witness before the Committee, or for or on account of any evidence lawfully given by him or her before the Committee.
+             (2)  A person shall not use, cause or inflict any violence, punishment, damage, loss or disadvantage on or to a person for or on account of his having appeared as a witness before the Committee, or for or on account of any evidence lawfully given by him before the Committee.
 
 ##### <a id="20"></a>20  Witnesses’ expenses
 
@@ -424,19 +412,17 @@ Note:          A defendant bears a legal burden in relation to
 
                      (b)  if the offence is prosecuted upon indictment—a fine not exceeding Four hundred dollars or imprisonment for a term not exceeding one year.
 
-##### <a id="22"></a>22  Allowances
+##### <a id="22"></a>22  Allowances
 
              (1)  The Chair and other members of the Committee shall be paid such allowances as are prescribed.
 
-             (2)  However, the prescribed allowances are not payable unless the Chair or Deputy Chair certifies in writing that they are payable.
-
-             (3)  Prescribed allowances in respect of which such certification has been given are payable out of the Consolidated Revenue Fund, which is appropriated accordingly.
+             (2)  The prescribed allowances are payable, upon the certificate of the Chair or of the Deputy Chair, out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
 ##### <a id="23"></a>23  Limitation of annual expenditure
 
-             (1)  The total amount paid out of the Consolidated Revenue Fund in respect of allowances payable under the last preceding section shall not exceed $20,000 in any financial year.
+             (1)  The total amount paid out of the Consolidated Revenue Fund in respect of allowances payable under the last preceding section shall not exceed Twenty thousand dollars in any financial year.
 
-             (2)  Where, in any financial year, the amount of $20,000 would, but for subsection (1), be exceeded, a proportionate abatement, to be determined by the Finance Minister, shall be made in the sums payable, so as to reduce the amount so payable to the sum of $20,000.
+             (2)  Where, in any financial year, the amount of Twenty thousand dollars would, but for subsection (1), be exceeded, a proportionate abatement, to be determined by the Minister for Finance, shall be made in the sums payable, so as to reduce the amount so payable to the sum of Twenty thousand dollars.
 
 ##### <a id="24"></a>24  Regulations
 
@@ -473,9 +459,9 @@ SUMMONS TO A WITNESS
 
 To (_here insert name, address and occupation of witness_) 
 
-You are hereby summoned to appear before the Joint Committee of Public Accounts and Audit (or a Sectional Committee of the Joint Committee of Public Accounts and Audit) on                                     the        day of   , 20 , at             o’clock in the                                           noon, at            , then and there to give evidence and then and there to produce     ; and you are required to continue in attendance as directed by the said Committee (or Sectional Committee) or the Chair thereof, until your attendance is no longer required. 
+You are hereby summoned to appear before the Joint Committee of Public Accounts and Audit (or a Sectional Committee of the Joint Committee of Public Accounts and Audit) on                                     the        day of   , 19 , at             o’clock in the                                           noon, at            , then and there to give evidence and then and there to produce     ; and you are required to continue in attendance as directed by the said Committee (or Sectional Committee) or the Chair thereof, until your attendance is no longer required. 
 
-     Dated the                                         day of                                      , 20    . 
+     Dated the                                         day of                                      , 19    . 
 
 (Chair or Deputy Chair of the 
 Committee or Sectional Committee) 
@@ -490,11 +476,11 @@ _Public Accounts and Audit Committee Act 1951_
 
 WARRANT FOR THE APPREHENSION OF A WITNESS WHO HAS DISOBEYED A SUMMONS 
 
-Whereas (_name, address and occupation of witness_) has been summoned to appear as a witness before the Joint Committee of Public Accounts and Audit (or a Sectional Committee of the Joint Committee of Public Accounts and Audit), but has failed to appear in obedience to the summons; these are therefore to command and authorize you forthwith to apprehend the said (_name of witness_) and to bring him or her before the said Committee (or Sectional Committee), and to detain him or her in custody for that purpose until he or she is released by order of the Chair. 
+Whereas (_name, address and occupation of witness_) has been summoned to appear as a witness before the Joint Committee of Public Accounts and Audit (or a Sectional Committee of the Joint Committee of Public Accounts and Audit), but has failed to appear in obedience to the summons; these are therefore to command and authorize you forthwith to apprehend the said (_name of witness_) and to bring him before the said Committee (or Sectional Committee), and to detain him in custody for that purpose until he is released by order of the Chair. 
 
 Given at                               the
 
-day of                             , 20      .
+day of                             , 19      .
 
 (Chair or Deputy Chair of the 
 Committee or Sectional Committee) 
@@ -910,23 +896,6 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(d)</i>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
-    </td>
-    <td>
-      <div>30, 2006</div>
-    </td>
-    <td>
-      <div>6 Apr 2006</div>
-    </td>
-    <td>
-      <div>Schedule 3 (items 12–34): 7 Apr 2006</div>
-    </td>
-    <td>
-      <div>Sch. 3 (item 34) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
 </tbody></table>
 
 
@@ -1185,7 +1154,7 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
       <div>S. 4</div>
     </td>
     <td>
-      <div>am. No. 152, 1997; No. 30, 2006</div>
+      <div>am. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -1198,18 +1167,10 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
   </tr>
   <tr>
     <td>
-      <div>Heading to s. 5</div>
-    </td>
-    <td>
-      <div>am. No. 30, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 5</div>
     </td>
     <td>
-      <div>am. No. 216, 1973; No. 70, 1976; No. 111, 1983; No. 152, 1997; Nos. 9 and 30, 2006</div>
+      <div>am. No. 216, 1973; No. 70, 1976; No. 111, 1983; No. 152, 1997; No. 9, 2006</div>
     </td>
   </tr>
   <tr>
@@ -1217,7 +1178,7 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
       <div>S. 6</div>
     </td>
     <td>
-      <div>am. No. 216, 1973; No. 152, 1997; No. 30, 2006</div>
+      <div>am. No. 216, 1973; No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -1233,7 +1194,7 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
       <div></div>
     </td>
     <td>
-      <div>am. No. 152, 1997; No. 30, 2006</div>
+      <div>am. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -1265,39 +1226,15 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
       <div>S. 9</div>
     </td>
     <td>
-      <div>am. No. 70, 1976; No. 187, 1979; No. 80, 1982; No. 152, 1997; No. 30, 2006</div>
+      <div>am. No. 70, 1976; No. 187, 1979; No. 80, 1982; No. 152, 1997</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 10</div>
+      <div>Ss. 10, 11</div>
     </td>
     <td>
       <div>am. No. 70, 1976; No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 11</div>
-    </td>
-    <td>
-      <div>am. No. 70, 1976; No. 152, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rs. No. 30, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 11A</div>
-    </td>
-    <td>
-      <div>ad. No. 30, 2006</div>
     </td>
   </tr>
   <tr>
@@ -1305,7 +1242,7 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
       <div>Ss. 13, 14</div>
     </td>
     <td>
-      <div>am. No. 70, 1976; No. 152, 1997; No. 30, 2006</div>
+      <div>am. No. 70, 1976; No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -1318,26 +1255,10 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
   </tr>
   <tr>
     <td>
-      <div>S. 17</div>
-    </td>
-    <td>
-      <div>am. No. 109, 2001; No. 30, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 18</div>
+      <div>Ss. 17–19</div>
     </td>
     <td>
       <div>am. No. 109, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19</div>
-    </td>
-    <td>
-      <div>am. No. 109, 2001; No. 30, 2006</div>
     </td>
   </tr>
   <tr>
@@ -1361,7 +1282,7 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
       <div>S. 22</div>
     </td>
     <td>
-      <div>am. No. 152, 1997; No. 30, 2006</div>
+      <div>am. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -1369,7 +1290,7 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
       <div>S. 23</div>
     </td>
     <td>
-      <div>am. No. 79, 1965; No. 93, 1966; No. 70, 1976; No. 36, 1978; No. 30, 2006</div>
+      <div>am. No. 79, 1965; No. 93, 1966; No. 70, 1976; No. 36, 1978</div>
     </td>
   </tr>
   <tr>
@@ -1377,7 +1298,7 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
       <div>The Schedule</div>
     </td>
     <td>
-      <div>am. No. 152, 1997; No. 30, 2006</div>
+      <div>am. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -1385,7 +1306,7 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
       <div>Form C</div>
     </td>
     <td>
-      <div>am. No. 152, 1997 (as am. by No. 9, 2006); No. 30, 2006</div>
+      <div>am. No. 152, 1997 (as am. by No. 9, 2006)</div>
     </td>
   </tr>
   <tr>
@@ -1393,7 +1314,7 @@ _(h)_     Subsection 2(1) (items 14 and 20–23) of the _Statute Law R
       <div>Form D</div>
     </td>
     <td>
-      <div>am. No. 152, 1997; No. 30, 2006</div>
+      <div>am. No. 152, 1997</div>
     </td>
   </tr>
 </tbody></table>
@@ -1422,20 +1343,6 @@ _Finance and Administration Legislation Amendment (Application of Criminal Code)
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
-
- </div>
-
-_Financial Framework Legislation Amendment Act (No. 1) 2006 (No. 30, 2006)_
-
-## Schedule 3
-
-## 34  Application
-
-(1)        The amendment made by item 30 applies to summonses issued after the commencement of this Part.
-
-(2)        The amendments made by items 31 to 33  apply to warrants issued after the commencement of this Part.
 
 
 ## Table B
