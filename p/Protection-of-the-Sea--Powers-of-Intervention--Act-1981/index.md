@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00274/Html/ProtSeaPowersIntervention1981_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00447/Html/ProtSeaPowersIntervention1981_image001.gif)
 
 # Protection of the Sea (Powers of Intervention) Act 1981
 
 **Act No. 33 of 1981 as amended**
 
-This compilation was prepared on 30 June 2009
+This compilation was prepared on 25 July 2008
  taking into account amendments up to Act No. 77 of 2008
 
 The text of any of those amendments not in force 
@@ -801,12 +801,6 @@ Persons subject to directions under this Act
              (4)  If a direction under this Act is or was issued to a person, criminal or civil proceedings do not lie against the person because of an act done or omitted to be done in compliance with the direction.
 
              (5)  Subsection (4) does not apply to a proceeding under the _Protection of the Sea (Civil Liability) Act 1981_.
-
-          (5A)  Subsection (4) does not apply to:
-
-                     (a)  a proceeding under the _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_; or
-
-                     (b)  a proceeding on a maritime claim referred to in paragraph 4(3)(ba) of the _Admiralty Act 1988_(about claims relating to bunker oil pollution damage).
 
              (6)  Subsection (4) does not apply to the extent to which it is inconsistent with an international agreement to which Australia is a party.
 
@@ -3588,7 +3582,7 @@ of Assent</div>
     <div>14 Apr 1981</div>
   </td>
   <td>
-    <div>5 Feb 1984 ( <i>see Gazette</i>1984, No. S31)</div>
+    <div>5 Feb 1984 ( <i>see Gazette</i>1984, No. S31)</div>
   </td>
   <td>
     <div></div>
@@ -3657,80 +3651,82 @@ Remainder: Royal Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 5 (items 121, 122): Royal Assent <i>(b)</i></div>
+    <div>Schedule 5 (items 121, 122): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>143, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>2 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Maritime Conventions Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>149, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>Schedule 2: Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Protection of the Sea (Powers of Intervention) Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>44, 2006</div>
-  </td>
-  <td>
-    <div>22 May 2006</div>
-  </td>
-  <td>
-    <div>23 May 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>77, 2008</div>
-  </td>
-  <td>
-    <div>12 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 6): 16 June 2009 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<thead>
+  <tr>
+    <td>
+      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>143, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>2 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>International Maritime Conventions Legislation Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>149, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>Schedule 2: Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Protection of the Sea (Powers of Intervention) Amendment Act 2006</div>
+    </td>
+    <td>
+      <div>44, 2006</div>
+    </td>
+    <td>
+      <div>22 May 2006</div>
+    </td>
+    <td>
+      <div>23 May 2006</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008</div>
+    </td>
+    <td>
+      <div>77, 2008</div>
+    </td>
+    <td>
+      <div>12 July 2008</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 6): \[ <i>see</i>s. 2(1) and Note 2]</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</thead></table>
 
 _(a)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ was amended by Part 8 (sections 26–28) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1992_, subsection 2(1) of which provides as follows:
 
@@ -3921,23 +3917,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
 </tr>
 <tr>
   <td>
-    <div>S. 17A</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 77, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17B</div>
+    <div>Ss. 17A, 17B</div>
   </td>
   <td>
     <div>ad. No. 44, 2006</div>
@@ -4039,6 +4019,26 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
     <div>ad. No. 149, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) (Consequential Amendments) Act 2008 (No. 77, 2008)_
+
+The following amendment commences on the day on which the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001, done at London on 23 March 2001, enters into force for Australia. However, the amendment may not commence at all, _see_ section 2(1) (item 2):
+
+## Schedule 1
+
+## 6  After subsection 17A(5)
+
+Insert:
+
+          (5A)  Subsection (4) does not apply to:
+
+                     (a)  a proceeding under the _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_; or
+
+                     (b)  a proceeding on a maritime claim referred to in paragraph 4(3)(ba) of the _Admiralty Act 1988_(about claims relating to bunker oil pollution damage).
+
+As at 25 July 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
