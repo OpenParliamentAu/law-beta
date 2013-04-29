@@ -1,104 +1,106 @@
-![](http://www.comlaw.gov.au/Details/C2006C00377/Html/9b8a1c13-3e55-49cb-bd9f-639db4a9506f_files/image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="36FAAF27712A96DDCA256FB800156D04/$FILE/image001.png"></v:imagedata></v:shape>
 
 # Commonwealth Places (Mirror Taxes) Act 1998
 
 **Act No. 24 of 1998 as amended**
 
-This compilation was prepared on 30 June 2006
- taking into account amendments up to Act No. 58 of 2006
+This compilation was prepared on 1 March 2005
+taking into account amendments up to Act No. 8 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Definitions
+[3](#3).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[4](#4).            Scope of this Act
+[4](#4).            Scope of this Act<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[5](#5).            This Act binds the Crown
+[5](#5).            This Act binds the Crown<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-**Part 2—Application of State taxing laws as applied laws in relation to Commonwealth places**
+**Part 2—Application of State taxing laws as applied laws in relation to Commonwealth places<span style="mso-tab-count: 1">     </span>**
 
-[6](#6).            State taxing laws to have effect as applied laws
+[6](#6).            State taxing laws to have effect as applied laws<span style="mso-tab-count: 1 dotted">                                  </span>
 
-[7](#7).            Operative date for applied laws
+[7](#7).            Operative date for applied laws<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[8](#8).            Modification of applied laws
+[8](#8).            Modification of applied laws<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[9](#9).            Arrangements with States
+[9](#9).            Arrangements with States<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[10](#10).          Jurisdiction of courts
+[10](#10).          Jurisdiction of courts<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[11](#11).          Procedure in proceedings under applied law
+[11](#11).          Procedure in proceedings under applied law<span style="mso-tab-count: 1 dotted">                                       </span>
 
-[12](#12).          Continuation of proceedings where place found to be a Commonwealth place
+[12](#12).          Continuation of proceedings where place found to be a Commonwealth place<span style="mso-tab-count: 1">      </span>
 
-[13](#13).          Objection not allowable on ground of duplicate proceedings
+[13](#13).          Objection not allowable on ground of duplicate proceedings<span style="mso-tab-count: 1 dotted">              </span>
 
-[14](#14).          Proceedings on certain appeals
+[14](#14).          Proceedings on certain appeals<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[15](#15).          Grant of pardon, remission etc 
+[15](#15).          Grant of pardon, remission etc <span style="mso-tab-count: 1 dotted">                                                           </span>
 
-[16](#16).          Certificates about ownership of land
+[16](#16).          Certificates about ownership of land<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[17](#17).          Extinguishment of causes of action
+[17](#17).          Extinguishment of causes of action<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[18](#18).          Validation of things purportedly done under a State taxing law
+[18](#18).          Validation of things purportedly done under a State taxing law<span style="mso-tab-count: 1 dotted">        </span>
 
-[19](#19).          Instruments referring to State taxing laws
+[19](#19).          Instruments referring to State taxing laws<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[20](#20).          Other Commonwealth laws not to apply in relation to applied laws
+[20](#20).          Other Commonwealth laws not to apply in relation to applied laws<span style="mso-tab-count: 1 dotted"> </span>
 
-[21](#21).          Commonwealth laws providing exemptions from Commonwealth taxes
+[21](#21).          Commonwealth laws providing exemptions from Commonwealth taxes<span style="mso-tab-count: 1">                </span>
 
-[22](#22).          Saving provision for applied law where place ceases to be a Commonwealth place
+[22](#22).          Saving provision for applied law where place ceases to be a Commonwealth place<span style="mso-tab-count: 1">               </span>
 
-[23](#23).          Money paid or received under applied law
+[23](#23).          Money paid or received under applied law<span style="mso-tab-count: 1 dotted">                                       </span>
 
-**Part 3—Miscellaneous**
+**Part 3—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[24](#24).          Saving provision for State taxing law where place becomes a Commonwealth place
+[24](#24).          Saving provision for State taxing law where place becomes a Commonwealth place<span style="mso-tab-count: 1">              </span>
 
-[25](#25).          Regulations
+[25](#25).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Schedule 1—Scheduled State taxing laws**
+**Schedule 1—Scheduled State taxing laws<span style="mso-tab-count: 1">                                                               </span>**
 
-[1](#1).            New South Wales
+[1](#1).            New South Wales<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[2](#2).            Victoria
+[2](#2).            Victoria<span style="mso-tab-count: 1 dotted">                                                                                              </span>
 
-[3](#3).            Queensland
+[3](#3).            Queensland<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[4](#4).            Western Australia
+[4](#4).            Western Australia<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[5](#5).            South Australia
+[5](#5).            South Australia<span style="mso-tab-count: 1 dotted">                                                                                  </span>
 
-[6](#6).            Tasmania
+[6](#6).            Tasmania<span style="mso-tab-count: 1 dotted">                                                                                            </span>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
+
 
 ## An Act to provide for the application of State taxing laws in relation to Commonwealth places, and for related purposes
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Commonwealth Places (Mirror Taxes) Act 1998_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
                    This Act commences on the day on which it receives the Royal Assent.
 
@@ -168,6 +170,8 @@ but does not include a law of the Commonwealth, whether written or unwritten, or
 
                    This Act binds the Crown in each of its capacities, but does not make the Crown liable to be prosecuted for an offence.
 
+<o:p> </o:p>
+
 ## Part 2—Application of State taxing laws as applied laws in relation to Commonwealth places
 
 ##### <a id="6"></a>6  State taxing laws to have effect as applied laws
@@ -204,7 +208,9 @@ but does not include a law of the Commonwealth, whether written or unwritten, or
 
              (1)  The regulations may prescribe modifications of any applied law.
 
-             (2)  The Treasurer of a State may, by legislative instrument, prescribe modifications of the applied laws of the State, other than modifications for the purpose of overcoming a difficulty that arises from the requirements of the Constitution.
+             (2)  The Treasurer of a State may, by notice in writing, prescribe modifications of the applied laws of the State, other than modifications for the purpose of overcoming a difficulty that arises from the requirements of the Constitution.
+
+             (3)  A notice under subsection (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
              (4)  Modifications may be made under this section only to the extent that they are necessary or convenient:
 
@@ -228,11 +234,11 @@ but does not include a law of the Commonwealth, whether written or unwritten, or
 
 ##### <a id="9"></a>9  Arrangements with States
 
-             (1)  The Governor‑General may make an arrangement with the Governor of a State in relation to the exercise or performance of a power, duty or function (not being a power, duty or function involving the exercise of judicial power) by an authority of the State under the applied laws of the State.
+             (1)  The Governor-General may make an arrangement with the Governor of a State in relation to the exercise or performance of a power, duty or function (not being a power, duty or function involving the exercise of judicial power) by an authority of the State under the applied laws of the State.
 
              (2)  Where such an arrangement is in force, the power, duty or function may or must, as the case may be, be exercised or performed accordingly.
 
-             (3)  The Governor‑General may arrange with the Governor of a State for the variation or revocation of an arrangement made under this section in relation to the State.
+             (3)  The Governor-General may arrange with the Governor of a State for the variation or revocation of an arrangement made under this section in relation to the State.
 
              (4)  An arrangement, variation or revocation under this section must be made by instrument in writing, a copy of which must be published in the _Gazette_.
 
@@ -304,7 +310,7 @@ then the court must deal with the appeal as though:
 
              (1)  If a person is convicted under an applied law of a State, then an authority of the State may exercise or perform the same powers and functions in relation to the convicted person as the authority would have been empowered to exercise or perform under the State laws of the State if the offence had been committed in the State but not in relation to a Commonwealth place.
 
-             (2)  Nothing in this section affects any power or function of the Governor‑General.
+             (2)  Nothing in this section affects any power or function of the Governor-General.
 
 ##### <a id="16"></a>16  Certificates about ownership of land
 
@@ -364,7 +370,7 @@ the reference has effect as if it were a reference to the applied law.
 
                      (b)  anything done under an applied law.
 
-          (1A)  To avoid doubt, Chapter 2 of the _Criminal Code_ does not apply in relation to, or in relation to anything done under, an applied law.
+<span style="mso-tab-count: 1">          </span>(1A)<span style="mso-tab-count: 1">  </span>To avoid doubt, Chapter 2 of the _Criminal Code_ does not apply in relation to, or in relation to anything done under, an applied law.<o:p></o:p>
 
              (2)  Subsection (1) has effect subject to any modifications prescribed by the regulations.
 
@@ -424,6 +430,8 @@ then the reference is taken to include a reference to the applied law.
 
              (5)  The _Financial Management and Accountability Act 1997_ does not apply to amounts received under an applied law.
 
+<o:p> </o:p>
+
 ## Part 3—Miscellaneous
 
 ##### <a id="24"></a>24  Saving provision for State taxing law where place becomes a Commonwealth place
@@ -448,13 +456,14 @@ then the reference is taken to include a reference to the applied law.
 
 ##### <a id="25"></a>25  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-             (2)  Subsection 12(2) of the _Legislative Instruments Act 2003_ does not apply to regulations made under this Act.
+             (2)  Subsection 48(2) of the _Acts Interpretation Act 1901_ does not apply to regulations made under this Act.
+
 
 # Schedule 1—Scheduled State taxing laws
 
@@ -468,7 +477,7 @@ _Note:       See section 3._
 
                      (b)  _Duties Act 1997_;
 
-                     (c)  _Pay‑roll Tax Act 1971_;
+                     (c)  _Pay-roll Tax Act 1971_;
 
                      (d)  _Stamp Duties Act 1920_.
 
@@ -480,47 +489,66 @@ _Note:       See section 3._
 
                      (b)  _Financial Institutions Duty Act 1982_;
 
-                     (c)  _Pay‑roll Tax Act 1971_;
+                     (c)  _Pay-roll Tax Act 1971_;
 
                      (d)  _Stamps Act 1958_.
 
 ##### <a id="3"></a>3  Queensland
 
-                   Each of the following laws of Queensland is a **_scheduled law_**:
+                   Each of the following laws of <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Queensland</st1:place></st1:state> is a **_scheduled law_**:
 
                      (a)  _Debits Tax Act 1990_;
 
-                     (b)  _Pay‑roll Tax Act 1971_;
+                     (b)  _Pay-roll Tax Act 1971_;
 
                      (c)  _Stamp Act 1894_.
 
-##### <a id="4"></a>4  Western Australia
+##### <a id="4"></a>4  <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Western Australia</st1:place></st1:state>
 
-                   The _Stamp Act 1921_ of Western Australia is a **_scheduled law_**.
+                   Each of the following laws of <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Western Australia</st1:place></st1:state> is a **_scheduled law_**:
 
-##### <a id="5"></a>5  South Australia
+                     (a)  _Debits Tax Act 1990_;
 
-                   Each of the following laws of South Australia is a **_scheduled law_**:
+                     (b)  _Debits Tax Assessment Act 1990_;
+
+                     (c)  _Financial Institutions Duty Act 1983_;
+
+                     (d)  _Pay-roll Tax Act 1971_;
+
+                     (e)  _Pay-roll Tax Assessment Act 1971_;
+
+                      (f)  _Stamp Act 1921_.
+
+##### <a id="5"></a>5  <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">South Australia</st1:place></st1:state>
+
+                   Each of the following laws of <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">South Australia</st1:place></st1:state> is a **_scheduled law_**:
 
                      (a)  _Debits Tax Act 1994_;
 
                      (b)  _Financial Institutions Duty Act 1983_;
 
-                     (c)  _Pay‑roll Tax Act 1971_;
+                     (c)  _Pay-roll Tax Act 1971_;
 
                      (d)  _Stamp Duties Act 1923_.
 
-##### <a id="6"></a>6  Tasmania
+##### <a id="6"></a>6  <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Tasmania</st1:place></st1:state>
 
-                   The _Pay‑roll Tax Act 1971_ of Tasmania is a **_scheduled law_**.
+                   Each of the following laws of <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Tasmania</st1:place></st1:state> is a **_scheduled law_**:
 
-# Notes to the _Commonwealth Places (Mirror Taxes) Act 1998_
+                     (a)  _Financial Institutions Duty Act 1986_;
+
+                     (b)  _Pay-roll Tax Act 1971_;
+
+                     (c)  _Stamp Duties Act 1931_.
+
+
+# Notes to the _<span style="mso-no-proof: yes">Commonwealth Places (Mirror Taxes) Act 1998</span>_
 
 ### Note 1
 
-The _Commonwealth Places (Mirror Taxes) Act 1998_ as shown in this compilation comprises Act No. 24, 1998 amended as indicated in the Tables below.
+The _Commonwealth Places (Mirror Taxes) Act 1998_ as shown in this compilation comprises Act No. 24, 1998 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
 ### Table of Acts
 
@@ -531,7 +559,7 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="17%">
   <col width="20%">
   <col width="0%">
-  <col width="16%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -541,11 +569,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+</div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+</div>
     </td>
     <td colspan="2">
       <div>Date of commencement</div>
@@ -555,86 +585,73 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Commonwealth Places (Mirror Taxes) Act 1998</div>
-  </td>
-  <td>
-    <div>24, 1998</div>
-  </td>
-  <td>
-    <div>17 Apr 1998</div>
-  </td>
-  <td>
-    <div>17 Apr 1998</div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001</div>
-  </td>
-  <td>
-    <div>117, 2001</div>
-  </td>
-  <td>
-    <div>18 Sept 2001</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 3 (item 15): 15 Dec 2001 <i>(a)</i></div>
-  </td>
-  <td colspan="2">
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 118, 119, 496): Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2006 Measures No. 2) Act 2006</div>
-  </td>
-  <td>
-    <div>58, 2006</div>
-  </td>
-  <td>
-    <div>22 June 2006</div>
-  </td>
-  <td>
-    <div>Schedule 7 (items 30, 31, 227–229): Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Commonwealth Places (Mirror Taxes) Act 1998</div>
+    </td>
+    <td>
+      <div>24, 1998</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="17" month="4">17 Apr 1998</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="17" month="4">17 Apr 1998</st1:date></div>
+    </td>
+    <td colspan="2">
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001</div>
+    </td>
+    <td>
+      <div>117, 2001</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="18" month="9">18 Sept 2001</st1:date></div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 3 (item 15): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="15" month="12">15 Dec 2001</st1:date> <i style="mso-bidi-font-style: normal">(a)</i></div>
+    </td>
+    <td colspan="2">
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 118, 119, 496): Royal Assent</div>
+    </td>
+    <td colspan="2">
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
 
-_(a)_ The _Commonwealth Places (Mirror Taxes) Act 1998_ was amended by Schedule 3 (item 15) only of the _Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences on the day mentioned in subsection 2.2(2) of the _Criminal Code_.
+_(a)_ The _Commonwealth Places (Mirror Taxes) Act 1998_ was amended by Schedule 3 (item 15) only of the _Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001_, subsection 2(1) of which provides as follows:
+
+<span style="mso-tab-count: 1">                 </span>(1)<span style="mso-tab-count: 1">   </span>Subject to this section, this Act commences on the day mentioned in subsection 2.2(2) of the _Criminal Code_.
+
 
 ## Table of Amendments
 
@@ -647,106 +664,53 @@ _(a)_ The _Commonwealth Places (Mirror Taxes) Act 1998_ was amended by Schedule�
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 117, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 4</div>
-  </td>
-  <td>
-    <div>rs. No. 58, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 6</div>
-  </td>
-  <td>
-    <div>rs. No. 58, 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 20 </div>
+    </td>
+    <td>
+      <div>am. No. 117, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001 (No. 117, 2001)_
+_Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001 (No. 117, 2001)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Application of amendments
 
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+<span style="mso-tab-count: 1">             </span>(1)<span style="mso-tab-count: 1">  </span>Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.<o:p></o:p>
 
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+<span style="mso-tab-count: 1">             </span>(2)<span style="mso-tab-count: 1">  </span>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.<o:p></o:p>
 
 * * *
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
@@ -762,12 +726,11 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
- 
 
- 
+<o:p> </o:p>
