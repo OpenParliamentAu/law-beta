@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00047/Html/0a5c191b-6c9e-4b35-bbf4-c767fe3ca4ba_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00679/Html/5672b755-de3e-4f21-833b-2b084e6d1597_files/image001.gif)
 
 # Australian Maritime Safety Authority Act 1990
 
 **Act No. 78 of 1990 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 25 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -466,15 +466,11 @@ Note:          Subsection 18(3) of the _Commonwealth Authoriti
 
                      (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a member (other than the Chief Executive Officer) to act as the Deputy Chairperson:
 
                      (a)  during a vacancy in the office of Deputy Chairperson, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Deputy Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
              (3)  The Minister may appoint a person to act as a member referred to in paragraph 13(1)(e) (in this section called an **_ordinary member_**):
 
@@ -482,9 +478,19 @@ Note:          For rules that apply to acting appointments, se
 
                      (b)  during any period, or during all periods, when an ordinary member is absent from Australia or is, for any other reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (4)  Where the Chairperson is a part‑time member, a person appointed under paragraph (1)(b) to act as the Chairperson must be appointed on a part‑time basis.
+
+             (5)  A person appointed to act during a vacancy must not continue so to act for more than 12 months.
+
+             (6)  Anything done by a person purporting to act under an appointment under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in or in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="20"></a>20  Resignation
 
@@ -982,9 +988,9 @@ the Authority must inform the Minister in writing of the notice and its contents
 
                      (a)  during a vacancy in the office of Chief Executive Officer, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Chief Executive Officer is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Chief Executive Officer is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy must not continue so to act for more than 12 months.
 
              (2)  A person, other than a member of the staff, who is acting as Chief Executive Officer is to be paid the same remuneration and allowances as are payable to the Chief Executive Officer.
 
@@ -995,6 +1001,16 @@ Note:          For rules that apply to acting appointments, se
                      (b)  so much of any allowance payable to the Chief Executive Officer as exceeds the corresponding allowance payable to the person; and
 
                      (c)  if an allowance is payable to the Chief Executive Officer but is not payable to the person—that allowance.
+
+             (4)  Anything done by a person purporting to act under an appointment under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in or in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="55"></a>55  Staff of Authority
 
@@ -1537,7 +1553,7 @@ Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 189–194) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 189–194) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1865,22 +1881,6 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
 </tr>
 <tr>
   <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 18(1)–(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 19</div>
   </td>
   <td>
@@ -2105,22 +2105,6 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
 </tr>
 <tr>
   <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 54(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 55</div>
   </td>
   <td>
@@ -2152,6 +2136,44 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 189  At the end of subsections 18(1), (2) and (3)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 190  Subsections 18(5) and (6)
+
+Repeal the subsections.
+
+## 191  Paragraph 54(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 192  Subsection 54(1)
+
+Omit “but a person appointed to act during a vacancy must not continue so to act for more than 12 months.”.
+
+## 193  At the end of subsection 54(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 194  Subsection 54(4)
+
+Repeal the subsection.
+
+As at 25 August 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2181,6 +2203,8 @@ continues to have effect after the commencing time as if it had been done by the
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
