@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00062/Html/d9ca9633-1d20-484b-8a45-da5404e85bd4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00352/Html/BuildingandConstructIndustImprove2005_image001.gif)
 
 # Building and Construction Industry Improvement Act 2005
 
 **Act No. 113 of 2005 as amended**
 
-This compilation was prepared on 8 February 2010
+This compilation was prepared on 14 July 2009
  taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
@@ -18,205 +18,205 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Chapter 1—Preliminary**
+**Chapter 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement                                                                                    1
+[2](#2).            Commencement
 
-[3](#3).            Main object of Act                                                                               2
+[3](#3).            Main object of Act
 
-[4](#4).            Definitions                                                                                           3
+[4](#4).            Definitions
 
-[5](#5).            Definition of _building work_                                                                  9
+[5](#5).            Definition of _building work_
 
-[6](#6).            Definition of _office_                                                                             10
+[6](#6).            Definition of _office_
 
-[7](#7).            Extension to Christmas Island                                                            11
+[7](#7).            Extension to Christmas Island
 
-[8](#8).            Act to bind Crown                                                                             11
+[8](#8).            Act to bind Crown
 
 **Chapter 2—Australian Building and Construction Commissioner** 
 
 **Part 1—Australian Building and Construction Commissioner**
 
-[9](#9).            ABC Commissioner and Deputy ABC Commissioners                    12
+[9](#9).            ABC Commissioner and Deputy ABC Commissioners
 
-[10](#10).          Functions of ABC Commissioner                                                      12
+[10](#10).          Functions of ABC Commissioner
 
-[11](#11).          Minister’s directions to ABC Commissioner                                     13
+[11](#11).          Minister’s directions to ABC Commissioner
 
-[12](#12).          Minister may require reports                                                              14
+[12](#12).          Minister may require reports
 
-[13](#13).          Delegation by ABC Commissioner                                                    14
+[13](#13).          Delegation by ABC Commissioner
 
-[14](#14).          Annual report                                                                                     14
+[14](#14).          Annual report
 
 **Part 2—Administrative provisions**
 
-[15](#15).          Appointment                                                                                      16
+[15](#15).          Appointment
 
-[16](#16).          Acting ABC Commissioner                                                               16
+[16](#16).          Acting ABC Commissioner
 
-[17](#17).          Remuneration                                                                                     17
+[17](#17).          Remuneration
 
-[18](#18).          Application of the Judges’ Pensions Act to a former Judge of the Federal Court who becomes the ABC Commissioner                                                                                                           17
+[18](#18).          Application of the Judges’ Pensions Act to a former Judge of the Federal Court who becomes the ABC Commissioner
 
-[19](#19).          Application of the Judges’ Pensions Act to a former member of the AIRC who becomes the ABC Commissioner                                                                                                           17
+[19](#19).          Application of the Judges’ Pensions Act to a former member of the AIRC who becomes the ABC Commissioner
 
-[20](#20).          Leave                                                                                                  18
+[20](#20).          Leave
 
-[21](#21).          Engaging in other paid employment etc                                              18
+[21](#21).          Engaging in other paid employment etc 
 
-[22](#22).          Disclosure of interests                                                                        19
+[22](#22).          Disclosure of interests
 
-[23](#23).          Resignation                                                                                        19
+[23](#23).          Resignation
 
-[24](#24).          Termination of appointment                                                               19
+[24](#24).          Termination of appointment
 
-[25](#25).          Staff and consultants                                                                          20
+[25](#25).          Staff and consultants
 
-[26](#26).          Office of the Australian Building and Construction Commissioner   21
+[26](#26).          Office of the Australian Building and Construction Commissioner
 
 **Chapter 3—The Building Code**
 
-[27](#27).          Minister to issue Building Code                                                         22
+[27](#27).          Minister to issue Building Code
 
-[28](#28).          Building industry participants to report on compliance with Code     22
+[28](#28).          Building industry participants to report on compliance with Code
 
 **Chapter 4—Occupational health and safety** 
 
 **Part 1—Federal Safety Commissioner**
 
-[29](#29).          Federal Safety Commissioner                                                            24
+[29](#29).          Federal Safety Commissioner
 
-[30](#30).          Functions of Federal Safety Commissioner                                       24
+[30](#30).          Functions of Federal Safety Commissioner
 
-[31](#31).          Minister’s directions to Federal Safety Commissioner                       25
+[31](#31).          Minister’s directions to Federal Safety Commissioner
 
-[32](#32).          Delegation by Federal Safety Commissioner                                     25
+[32](#32).          Delegation by Federal Safety Commissioner
 
-[33](#33).          Acting Federal Safety Commissioner                                                 25
+[33](#33).          Acting Federal Safety Commissioner
 
-[34](#34).          Consultants                                                                                        26
+[34](#34).          Consultants
 
 **Part 2—Accreditation scheme for Commonwealth building work**
 
-[35](#35).          Accreditation scheme                                                                         27
+[35](#35).          Accreditation scheme
 
 **Chapter 5—Industrial action etc.** 
 
 **Part 1—Preliminary**
 
-[36](#36).          Definitions                                                                                         29
+[36](#36).          Definitions
 
 **Part 2—Unlawful industrial action**
 
-[37](#37).          Definition of _unlawful industrial action_                                             32
+[37](#37).          Definition of _unlawful industrial action_
 
-[38](#38).          Unlawful industrial action prohibited                                                 32
+[38](#38).          Unlawful industrial action prohibited
 
-[39](#39).          Injunction against unlawful industrial action                                      32
+[39](#39).          Injunction against unlawful industrial action
 
 **Part 3—Protected industrial action**
 
-[40](#40).          Action involving extraneous participants                                           34
+[40](#40).          Action involving extraneous participants
 
 **Part 4—Miscellaneous**
 
-[42](#42).          Payments in relation to periods of building industrial action              35
+[42](#42).          Payments in relation to periods of building industrial action
 
 **Chapter 6—Discrimination, coercion and unfair contracts**
 
-[43](#43).          Coercion in relation to engagement etc  of building employees and building contractors         36
+[43](#43).          Coercion in relation to engagement etc  of building employees and building contractors
 
-[44](#44).          Coercion of persons to make, vary, terminate etc  enterprise etc            36
+[44](#44).          Coercion of persons to make, vary, terminate etc  enterprise agreements etc 
 
-[45](#45).          Discrimination against employer in relation to industrial instruments 37
+[45](#45).          Discrimination against employer in relation to industrial instruments
 
-[46](#46).          Coercion in relation to superannuation                                               38
+[46](#46).          Coercion in relation to superannuation
 
 **Chapter 7—Enforcement** 
 
 **Part 1—Contravention of civil penalty provisions**
 
-[48](#48).          Definitions                                                                                         40
+[48](#48).          Definitions
 
-[49](#49).          Penalties etc  for contravention of civil penalty provision                  40
+[49](#49).          Penalties etc  for contravention of civil penalty provision
 
-[50](#50).          Multiple proceedings for same conduct                                              42
+[50](#50).          Multiple proceedings for same conduct
 
-[51](#51).          Evidence given in proceedings for penalty not admissible in criminal proceedings  42
+[51](#51).          Evidence given in proceedings for penalty not admissible in criminal proceedings
 
 **Part 2—Compliance etc. powers** 
 
     **Division 1—ABC Commissioner’s powers to obtain information etc.**
 
-[52](#52).          ABC Commissioner’s powers to obtain information etc                    43
+[52](#52).          ABC Commissioner’s powers to obtain information etc 
 
-[53](#53).          Certain excuses not available in relation to section 52 requirements   45
+[53](#53).          Certain excuses not available in relation to section 52 requirements
 
-[54](#54).          Protection from liability                                                                      45
+[54](#54).          Protection from liability
 
-[55](#55).          Retention and copying etc  of documents                                           46
+[55](#55).          Retention and copying etc  of documents
 
-[56](#56).          ABC Commissioner may make and keep copies of documents         47
+[56](#56).          ABC Commissioner may make and keep copies of documents
 
     **Division 2—Powers of ABC Inspectors**
 
-[57](#57).          Australian Building and Construction Inspectors                               48
+[57](#57).          Australian Building and Construction Inspectors
 
-[58](#58).          Identity cards for ABC Inspectors                                                     48
+[58](#58).          Identity cards for ABC Inspectors
 
-[59](#59).          Power to enter premises etc                                                                49
+[59](#59).          Power to enter premises etc 
 
     **Division 3—Powers of Federal Safety Officers**
 
-[60](#60).          Federal Safety Officers                                                                      53
+[60](#60).          Federal Safety Officers
 
-[61](#61).          Identity cards for Federal Safety Officers                                          53
+[61](#61).          Identity cards for Federal Safety Officers
 
-[62](#62).          Powers to enter premises etc  to ascertain compliance with Building Code              54
+[62](#62).          Powers to enter premises etc  to ascertain compliance with Building Code
 
-[63](#63).          Powers to enter premises etc  to ascertain compliance with accreditation scheme     56
+[63](#63).          Powers to enter premises etc  to ascertain compliance with accreditation scheme
 
 **Chapter 8—Miscellaneous**
 
-[64](#64).          Project agreements not enforceable                                                    60
+[64](#64).          Project agreements not enforceable
 
-[65](#65).          Protection of confidentiality of information                                        60
+[65](#65).          Protection of confidentiality of information
 
-[66](#66).          Reports not to include information relating to an individual’s affairs 63
+[66](#66).          Reports not to include information relating to an individual’s affairs
 
-[67](#67).          ABC Commissioner to publicise non-compliance                              64
+[67](#67).          ABC Commissioner to publicise non-compliance
 
-[68](#68).          Delegation by Minister                                                                       64
+[68](#68).          Delegation by Minister
 
-[69](#69).          Building association responsible for conduct of members etc            65
+[69](#69).          Building association responsible for conduct of members etc 
 
-[70](#70).          Capacity, state of mind etc  of person being coerced etc                     65
+[70](#70).          Capacity, state of mind etc  of person being coerced etc 
 
-[71](#71).          ABC Commissioner intervention in court proceedings                      66
+[71](#71).          ABC Commissioner intervention in court proceedings
 
-[72](#72).          ABC Commissioner may make submissions in FWA proceedings   66
+[72](#72).          ABC Commissioner may make submissions in FWA proceedings
 
-[73](#73).          ABC Commissioner or ABC Inspector may institute proceedings under the FW Act, etc       66
+[73](#73).          ABC Commissioner or ABC Inspector may institute proceedings under the FW Act, etc 
 
-[73A](#73A).       ABC Commissioner or ABC Inspector may institute proceedings under the _Independent Contractors Act 2006_   67
+[73A](#73A).       ABC Commissioner or ABC Inspector may institute proceedings under the _Independent Contractors Act 2006_
 
-[74](#74).          General Manager of FWA must keep ABC Commissioner informed 68
+[74](#74).          General Manager of FWA must keep ABC Commissioner informed
 
-[75](#75).          Jurisdiction of courts                                                                          68
+[75](#75).          Jurisdiction of courts
 
-[75A](#75A).       Exercising jurisdiction in the Fair Work Division of the Federal Court 70
+[75A](#75A).       Exercising jurisdiction in the Fair Work Division of the Federal Court
 
-[75B](#75B).       Exercising jurisdiction in the Fair Work Division of the Federal Magistrates Court                71
+[75B](#75B).       Exercising jurisdiction in the Fair Work Division of the Federal Magistrates Court
 
-[76](#76).          Court not to require undertaking as to damages                                 71
+[76](#76).          Court not to require undertaking as to damages
 
-[77](#77).          ABC Commissioner etc  not liable for conduct in good faith             71
+[77](#77).          ABC Commissioner etc  not liable for conduct in good faith
 
-[78](#78).          Regulations                                                                                        72
+[78](#78).          Regulations
 
 **Notes** 
 
@@ -1824,7 +1824,7 @@ Note:          The _Criminal Code_ contains offences for obstr
 
 ### Division 3—Powers of Federal Safety Officers
 
-##### <a id="60"></a>60  Federal Safety Officers
+##### <a id="60"></a>60  Federal Safety Officers
 
              (1)  The Federal Safety Commissioner may, by written instrument, appoint any of the following persons as a Federal Safety Officer:
 
@@ -2010,7 +2010,7 @@ Note:          The _Criminal Code_ contains offences for obstr
 
                              (ii)  a party to the agreement is a constitutional corporation and at least some of the employees are employees of that corporation; and
 
-                     (d)  the agreement has not been approved by FWA (within the meaning of the FW Act);
+                     (d)  the agreement has not been not approved by FWA (within the meaning of the FW Act);
 
 then the agreement is unenforceable to the extent to which it relates to building employees.
 
@@ -2496,8 +2496,6 @@ The _Building and Construction Industry Improvement Act 2005_ as shown in this c
 
 The _Building and Construction Industry Improvement Act 2005_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50 as amended by SLI 2006 No. 119) and the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 2)_ (SLI 2006 No. 99). The amendments are incorporated in this compilation.
 
-The _Building and Construction Industry Improvement Act 2005_ was amended by the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ (No. 54, 2009) as amended by the _Fair Work (State Referral and Consequential and Other Amendments) Regulations 2009_ (SLI 2009 No. 165 as amended by SLI 2009 No. 364). The amendment is incorporated in this compilation.
-
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
@@ -2596,7 +2594,7 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2008</div>
   </td>
   <td>
-    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
+    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2611,10 +2609,10 @@ Remainder: Royal Assent</div>
     <div>26, 2008</div>
   </td>
   <td>
-    <div>23 June 2008</div>
+    <div>23 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 43–46): Royal Assent</div>
+    <div>Schedule 1 (items 43–46): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -2628,7 +2626,7 @@ Remainder: Royal Assent</div>
     <div>54, 2009</div>
   </td>
   <td>
-    <div>25 June 2009</div>
+    <div>25 June 2009</div>
   </td>
   <td>
     <div>S. 4: Royal Assent 
@@ -2636,8 +2634,7 @@ Schedule 8 (items 2–84,
 155–158): <i>(a)</i></div>
   </td>
   <td>
-    <div>S. 4 and Sch. 8 (items 
-155–158)</div>
+    <div>S. 4 and Sch. 8 (items 155–158)</div>
   </td>
 </tr></table>
 
@@ -2723,7 +2720,7 @@ _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
   </td>
   <td>
     <div>
-      1 July 2009 (
+      1 July 2009 (
         <i>see</i>F2009L02563)
     </div>
   </td>
@@ -2742,7 +2739,7 @@ _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
   </td>
   <td>
     <div>
-      1 July 2009 (
+      1 July 2009 (
         <i>see</i>F2009L02563)
     </div>
   </td>
@@ -2784,7 +2781,7 @@ _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. SLI 2006 Nos. 50 and 99; No. 163, 2006; No. 8, 2008; No. 54, 2009</div>
+    <div>am. SLI 2006 Nos. 50 and 99; No. 163, 2006; No. 8, 2008; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2813,7 +2810,7 @@ _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
 </tr>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
+    <div><b>Part 2</b></div>
   </td>
   <td>
     <div></div>
@@ -2824,7 +2821,7 @@ _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 26, 2008</div>
+    <div>am. No. 26, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3057,7 +3054,7 @@ of Chapt. 5</div>
     <div>S. 64</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009 (as am. by SLI 2009 No. 165)</div>
+    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3209,16 +3206,16 @@ of Chapt. 5</div>
 
 ### Application, saving or transitional provisions
 
-_Building and Construction Industry Improvement Amendment (OHS) Act 
- 2007 (No. 153, 2007)_
+_Building and Construction Industry Improvement Amendment (OHS) Act 2007 
+ (No. 153, 2007)_
 
 ## Schedule 1
 
 ## 5  Transitional—consultants
 
-(1)       This item applies if, immediately before the commencement of item 1 of this Schedule, a person is engaged as a consultant under section 34 of the _Building and Construction Industry Improvement Act 2005_.
+(1)        This item applies if, immediately before the commencement of item 1 of this Schedule, a person is engaged as a consultant under section 34 of the _Building and Construction Industry Improvement Act 2005_.
 
-(2)       The person’s engagement has effect from the commencement of item 1 as if the person were engaged under section 34 of the _Building and Construction Industry Improvement Act 2005_ as amended by that item.
+(2)        The person’s engagement has effect from the commencement of item 1 as if the person were engaged under section 34 of the _Building and Construction Industry Improvement Act 2005_ as amended by that item.
 
 * * *
 
@@ -3250,10 +3247,10 @@ Despite the repeal of paragraph 64(1)(d) of the _Building and Construction Indus
 
 ## 158  Transitional provisions relating to the Industrial Registrar
 
-(1)       Section 65 of the _Building and Construction Industry Improvement Act 2005_ applies, on and after the WR Act repeal day, in relation to the Industrial Registrar as if the Industrial Registrar were a designated person.
+(1)        Section 65 of the _Building and Construction Industry Improvement Act 2005_ applies, on and after the WR Act repeal day, in relation to the Industrial Registrar as if the Industrial Registrar were a designated person.
 
-(2)       Section 74 of the _Building and Construction Industry Improvement Act 2005_, as in force immediately before the WR Act repeal day, continues to apply in relation to an application lodged before that day.
+(2)        Section 74 of the _Building and Construction Industry Improvement Act 2005_, as in force immediately before the WR Act repeal day, continues to apply in relation to an application lodged before that day.
 
-(3)       Subsection 77(2) of the _Building and Construction Industry Improvement Act 2005_ applies, on and after the WR Act repeal day, in relation to the Industrial Registrar as if the Industrial Registrar were a protected person.
+(3)        Subsection 77(2) of the _Building and Construction Industry Improvement Act 2005_ applies, on and after the WR Act repeal day, in relation to the Industrial Registrar as if the Industrial Registrar were a protected person.
 
  
