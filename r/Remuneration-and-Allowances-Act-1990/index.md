@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2005C00567/Html/7E7E91F0685AACB8CA25707A000C0017/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00381/Html/DB3EC778A41D356ECA25702600138E59/$FILE/image001.gif)
 
 # Remuneration and Allowances Act 1990
 
 **Act No. 71 of 1990 as amended**
 
-This compilation was prepared on 12 September 2005
-taking into account amendments up to Act No. 111 of 2005
+This compilation was prepared on 1 July 2005
+taking into account amendments up to Act No. 45 of 2005
 
 The text of any of those amendments not in force 
 on that date is appended in the Notes section
@@ -22,7 +22,7 @@ Canberra
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title _see_ Note 1]                                                                        1
 
 [2](#2).            Commencement [_see_ Note 1]                                                               1
 
@@ -74,33 +74,33 @@ Canberra
 
     **Division 1—Amount of annual salary**
 
-[1](#1).            Salaries                                                                                               11
+[1](#1).            Salaries                                                                                               15
 
     **Division 2—Salary sacrifice**
 
-[1A](#1A).         Definitions                                                                                         12
+[1A](#1A).         Definitions                                                                                         16
 
-[1B](#1B).         Meaning of _complying superannuation fund_                                     13
+[1B](#1B).         Meaning of _complying superannuation fund_                                     17
 
-[1C](#1C).         When may a person elect to salary sacrifice?                                    13
+[1C](#1C).         When may a person elect to salary sacrifice?                                    17
 
-[1D](#1D).         The nature of the salary sacrifice election                                         14
+[1D](#1D).         The nature of the salary sacrifice election                                         18
 
-[1E](#1E).          How to make an election                                                                   14
+[1E](#1E).          How to make an election                                                                   18
 
-[1F](#1F).          Duration of an election                                                                      15
+[1F](#1F).          Duration of an election                                                                      19
 
-[1G](#1G).         Effect of an election                                                                           15
+[1G](#1G).         Effect of an election                                                                           19
 
-[1H](#1H).         Variation of an election                                                                      16
+[1H](#1H).         Variation of an election                                                                      20
 
-[1I](#1I).           Revocation of an election                                                                   17
+[1I](#1I).           Revocation of an election                                                                   21
 
 **Part 2—Electorate and other allowances**
 
-[2](#2).            Electorate allowance                                                                          19
+[2](#2).            Electorate allowance                                                                          23
 
-[3](#3).            Other allowances                                                                               19
+[3](#3).            Other allowances                                                                               23
 
 **Schedule 4—Ministers and office holders of the Parliament** 
 
@@ -190,7 +190,7 @@ Canberra
 
 The amendments made by this Part are incorporated in the compilation on SCALEplus and ComLaw.
 
-_Workplace Relations Act 1996._
+ _Workplace Relations Act 1996._
 
 For access to the wording of the amendments made by this Part, _see_ Act No. 71, 1990.</div>
 
@@ -2467,23 +2467,6 @@ Remainder: Royal Assent
       <div>Sch. 4</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Human Services Legislation Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>111, 2005</div>
-    </td>
-    <td>
-      <div>6 Sept 2005</div>
-    </td>
-    <td>
-      <div>Schedule 2 (item 710): \[ <i>see</i>Note 2]</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </tbody></table>
 
 
@@ -2613,21 +2596,6 @@ _(g)_     The _Remuneration and Allowances Act 1990_ was amended by Sche
     </td>
   </tr>
 </tbody></table>
-
-
-### Note 2
-
-_Human Services Legislation Amendment Act 2005 (No. 111, 2005)_
-
-The following amendment commences on 6 March 2006 unless proclaimed earlier:
-
-## Schedule 2
-
-## 710  Clause 3 of Schedule 2 (Part 3 of the table, table item dealing with the General Manager, Health Insurance Commission)
-
-Repeal the item.
-
-As at 12 September 2005 the amendment is not incorporated in this compilation.
 
 
 ## Table A
