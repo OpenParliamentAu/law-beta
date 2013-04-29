@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00566/Html/ReserveBank1959_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00513/Html/ReserveBank1959_WD02_image001.gif)
 
 # Reserve Bank Act 1959
 
 **Act No. 4 of 1959 as amended**
 
-This compilation was prepared on 28 October 2008
- taking into account amendments up to Act No. 105 of 2008
+This compilation was prepared on 3 October 2008
+ taking into account amendments up to Act No. 90 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1083,7 +1083,7 @@ It also includes information disclosed or obtained in the course of, or for the 
 
                     <a name="statistician"></a>**_Statistician_** means the Australian Statistician referred to in subsection 5(2) of the _Australian Bureau of Statistics Act 1975_.
 
-             (2)  Subject to this section, a person who is or has been an officer must not, except for the purposes of this Act, the _Banking Act 1959_, Part 7.3 of the _Corporations Act 2001_, section 62ZZD of the _Insurance Act 1973_, the _Payment Systems (Regulation) Act 1998_, the _Payment Systems and Netting Act 1998_ or the repealed _Banks (Shareholdings) Act 1972_, directly or indirectly:
+             (2)  Subject to this section, a person who is or has been an officer must not, except for the purposes of this Act, the _Banking Act 1959_, Part 7.3 of the _Corporations Act 2001_, the _Payment Systems (Regulation) Act 1998_, the _Payment Systems and Netting Act 1998_ or the repealed _Banks (Shareholdings) Act 1972_, directly or indirectly:
 
                      (a)  disclose to any person, or to a court, any protected information acquired by the first-mentioned person in the course of his or her duties as an officer; or
 
@@ -2000,7 +2000,7 @@ Remainder: 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42)</div>
     <div>26 June 2002</div>
   </td>
   <td colspan="2">
-    <div>Schedule 7: 27 June 2002</div>
+    <div>Schedule 7: 27 June 2002 <i>(s)</i></div>
   </td>
   <td colspan="2">
     <div>Sch. 7 (item 21) \[ <i>see</i>Table A]</div>
@@ -2056,23 +2056,6 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
   </td>
   <td colspan="2">
     <div>Sch. 1 (item 75) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008</div>
-  </td>
-  <td>
-    <div>105, 2008</div>
-  </td>
-  <td>
-    <div>17 Oct 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (item 59): <i>(s)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -2185,9 +2168,9 @@ _(r)_ The _Reserve Bank Act 1959_ was amended by Schedule 3 (item 458) only 
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008_ provides as follows:
+_(s)_ The _Reserve Bank Act 1959_ was amended by Schedule 7 only of the _Financial Sector Legislation Amendment Act (No. 1) 2002_, subsection 2(1) (item 5) of which provides as follows:
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 <table>
 <colgroup>
@@ -2256,35 +2239,18 @@ _(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
 <tr>
   <td>
     <div>
-      2\. Schedule 1
+      5\. Schedules 
+      5 to 9
     </div>
   </td>
   <td>
     <div>
-      Immediately after the provision(s) covered by table item 3.
+      The day after the day on which this Act receives the Royal Assent
     </div>
   </td>
   <td>
     <div>
-      18 October 2008
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedules 
-      2 to 5
-    </div>
-  </td>
-  <td>
-    <div>
-      The day after this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      18 October 2008
+      27 June 2002
     </div>
   </td>
 </tr></table>
@@ -3493,7 +3459,7 @@ _(s)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
     <div></div>
   </td>
   <td>
-    <div>am. No. 4, 1959; No. 54, 1998; No. 160, 2000; Nos. 55, 121 and 122, 2001; No. 105, 2008</div>
+    <div>am. No. 4, 1959; No. 54, 1998; No. 160, 2000; Nos. 55, 121 and 122, 2001</div>
   </td>
 </tr>
 <tr>
@@ -3713,7 +3679,7 @@ Before “fails”, insert “the member”.
 
 Omit “21”, substitute “27F or 27J”.
 
-As at 28 October 2008 the amendments are not incorporated in this compilation.
+As at 3 October 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
