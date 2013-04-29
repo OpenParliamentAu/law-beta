@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00669/Html/28afd3cc-6fa5-4108-ac36-78b4482ea037_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00358/Html/JudicialStatOffiRemuAllow84_image001.gif)
 
 # Judicial and Statutory Officers (Remuneration and Allowances) Act 1984
 
 **Act No. 104 of 1984 as amended**
 
-This compilation was prepared on 17 December 2008 
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 10 July 2008 
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -32,11 +32,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Travelling allowances payable to holders of certain offices
 
-[6A](#6A).         Travelling allowances payable to members of the Inter‑State Commission
+[6A](#6A).         Travelling allowances payable to members of the Inter-State Commission
 
-[7](#7).            Allowance payable to Solicitor‑General
+[7](#7).            Allowance payable to Solicitor-General
 
-[8](#8).            Remuneration of office‑holder who is appointed to another office
+[8](#8).            Remuneration of office-holder who is appointed to another office
 
 [9](#9).            Repeal and saving
 
@@ -74,13 +74,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  President of the Trade Practices Tribunal.
 
-             (3)  Subject to subsection (4) a person being a Judge of the Federal Court of Australia who holds office by virtue of an appointment that took effect while the person was a Judge (including the Chief Judge) of any other court or courts created by the Parliament or while the person was a member of the Inter‑State Commission shall, while the person continues to hold office both as a Judge of the Federal Court of Australia and as a Judge (including the Chief Judge) of that other court or of any of those other courts, or as a member of the Inter‑State Commission, as the case may be, be remunerated with the salary, or salary and expenses of office allowance, to which the person is from time to time entitled as a Judge of the other court or courts or as a member of the Inter‑State Commission, as the case may be, and, if the person continues to be a Judge of the Federal Court of Australia after the person no longer holds any other office referred to in this subsection, other than an office as an additional Judge of the Supreme Court of a Territory or as a Judge of the Supreme Court of an external Territory, the person shall receive such salary as is applicable to the office held by the person as a Judge of the Federal Court of Australia.
+             (3)  Subject to subsection (4) a person being a Judge of the Federal Court of Australia who holds office by virtue of an appointment that took effect while the person was a Judge (including the Chief Judge) of any other court or courts created by the Parliament or while the person was a member of the Inter-State Commission shall, while the person continues to hold office both as a Judge of the Federal Court of Australia and as a Judge (including the Chief Judge) of that other court or of any of those other courts, or as a member of the Inter-State Commission, as the case may be, be remunerated with the salary, or salary and expenses of office allowance, to which the person is from time to time entitled as a Judge of the other court or courts or as a member of the Inter-State Commission, as the case may be, and, if the person continues to be a Judge of the Federal Court of Australia after the person no longer holds any other office referred to in this subsection, other than an office as an additional Judge of the Supreme Court of a Territory or as a Judge of the Supreme Court of an external Territory, the person shall receive such salary as is applicable to the office held by the person as a Judge of the Federal Court of Australia.
 
              (4)  In the case of a person who is a Judge of the Federal Court of Australia to whom subsection (3) applies, if the salary to which the person would be entitled as a Judge of that Court if that subsection were not applicable exceeds the salary, or salary and expenses of office allowance, as the case may be, by which the person is remunerated in accordance with that subsection, the person shall receive, in respect of the person’s office as a Judge of that Court, an additional amount by way of salary equal to the excess.
 
              (7)  Subsection (1) does not apply in respect of the office of Chairperson of the Commonwealth Grants Commission unless subsection 8(6A) of the _Commonwealth Grants Commission Act 1973_ applies to the holder of the office.
 
-             (8)  A member of the Inter‑State Commission other than the President of that Commission:
+             (8)  A member of the Inter-State Commission other than the President of that Commission:
 
                      (a)  shall be paid salary at the rate from time to time payable to the holder of an office in the Senior Executive Service of the Australian Public Service that has a classification of Senior Executive Level 6; and
 
@@ -110,7 +110,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (4)  The allowance in respect of the expenses of travel payable under subsection (3) to a person who holds a judicial office to which this section applies is:
 
-                     (a)  if the travel involves an absence from the person’s sole or principal place of residence and from the Australian Capital Territory that includes an overnight stay or overnight stays:
+                     (a)  if the travel involves an absence from the person’s sole or principal place of residence and from the Australian   Capital Territory that includes an overnight stay or overnight stays:
 
                               (i)  if subparagraphs (ii) and (iii) do not apply:
 
@@ -118,7 +118,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                                         (B)  for any other overnight stay—$130;
 
-                             (ii)  if the number of hours of the absence is not less than the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00669/Html/28afd3cc-6fa5-4108-ac36-78b4482ea037_files/image002.gif), where **A** is the number of overnight stays included in the absence—the sum of the amount that would be ascertained under subparagraph (i) if that subparagraph were applicable and $30; or
+                             (ii)  if the number of hours of the absence is not less than the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00358/Html/JudicialStatOffiRemuAllow84_image002.gif), where **A** is the number of overnight stays included in the absence—the sum of the amount that would be ascertained under subparagraph (i) if that subparagraph were applicable and $30; or
 
                             (iii)  if the cost of accommodation and meals of the person in respect of an overnight stay is borne by the Commonwealth—$30 for the overnight stay; or
 
@@ -137,8 +137,6 @@ the allowance otherwise payable to the person for the overnight stay is increase
                      (d)  in a case to which paragraph (e) does not apply—$10; or
 
                      (e)  if the person establishes that the cost of accommodation (excluding the cost of meals) of the person and the spouse in respect of the overnight stay exceeded the amount that would have been the cost of accommodation (excluding the cost of meals) of the person alone in respect of the overnight stay at the same hotel, motel or other accommodation establishment and at the same standard of accommodation—the amount of the excess.
-
-          (4B)  For the purposes of subsection (4A), **_spouse_** includes a de facto partner of a person within the meaning of the _Acts Interpretation Act 1901_.
 
              (5)  There is payable to a person who holds a judicial office to which this section applies, in respect of travel outside Australia and the external Territories in connection with the performance of the person’s duties, an allowance by way of reimbursement of the reasonable expenses of that travel.
 
@@ -168,7 +166,7 @@ an allowance, on account of expenses that will be incurred by the person by reas
 
                     <a name="offic-section-appli"></a>**_office to which this section applies_** means:
 
-                     (a)  an office specified in column 1 of Part 2 of the Schedule (other than the office of President of the Inter‑State Commission); or
+                     (a)  an office specified in column 1 of Part 2 of the Schedule (other than the office of President of the Inter-State Commission); or
 
                      (b)  President or Deputy President of the Australian Industrial Relations Commission.
 
@@ -180,7 +178,7 @@ an allowance, on account of expenses that will be incurred by the person by reas
 
                      (c)  each other city or town shall be deemed to constitute a single locality.
 
-             (3)  There is payable to a person who holds an office to which this section applies an allowance ascertained in accordance with subsections (4) and (4A) in respect of the person’s expenses of travel within Australia and the external Territories in connection with the performance of the person’s duties (including duties of any other office held by the person) other than the office of President of the Inter‑State Commission otherwise than at:
+             (3)  There is payable to a person who holds an office to which this section applies an allowance ascertained in accordance with subsections (4) and (4A) in respect of the person’s expenses of travel within Australia and the external Territories in connection with the performance of the person’s duties (including duties of any other office held by the person) other than the office of President of the Inter-State Commission otherwise than at:
 
                      (a)  the person’s headquarters; and
 
@@ -196,7 +194,7 @@ an allowance, on account of expenses that will be incurred by the person by reas
 
                                         (B)  for any other overnight stay—$125; or
 
-                             (ii)  if the number of hours of the absence is not less than the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00669/Html/28afd3cc-6fa5-4108-ac36-78b4482ea037_files/image002.gif), where **A** is the number of overnight stays included in the absence—the sum of the amount that would be ascertained under subparagraph (i) if that subparagraph were applicable and $30; or
+                             (ii)  if the number of hours of the absence is not less than the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00358/Html/JudicialStatOffiRemuAllow84_image002.gif), where **A** is the number of overnight stays included in the absence—the sum of the amount that would be ascertained under subparagraph (i) if that subparagraph were applicable and $30; or
 
                             (iii)  if the cost of accommodation and meals of the person in respect of an overnight stay is borne by the Commonwealth—$30 for the overnight stay; or
 
@@ -216,17 +214,15 @@ the allowance otherwise payable to the person for the overnight stay is increase
 
                      (e)  if the person establishes that the cost of accommodation (excluding the cost of meals) of the person and the spouse in respect of the overnight stay exceeded the amount that would have been the cost of accommodation (excluding the cost of meals) of the person alone in respect of the overnight stay at the same hotel, motel or other accommodation establishment and at the same standard of accommodation—the amount of the excess.
 
-          (4B)  For the purposes of subsection (4A), **_spouse_** includes a de facto partner of a person within the meaning of the _Acts Interpretation Act 1901_.
-
-             (5)  There is payable to a person who holds an office to which this section applies, in respect of the person’s expenses of travel outside Australia and the external Territories in connection with the performance of the person’s duties (including duties of any other office held by the person) other than the office of President of the Inter‑State Commission the same allowance as would be applicable to the holders of offices referred to in paragraph (a) of the definition of **_office of Secretary_** in subsection 7(1) of the _Public Service Act 1922_ in respect of the expenses of similar travel in the performance of their duties.
+             (5)  There is payable to a person who holds an office to which this section applies, in respect of the person’s expenses of travel outside Australia and the external Territories in connection with the performance of the person’s duties (including duties of any other office held by the person) other than the office of President of the Inter-State Commission the same allowance as would be applicable to the holders of offices referred to in paragraph (a) of the definition of **_office of Secretary_** in subsection 7(1) of the _Public Service Act 1922_ in respect of the expenses of similar travel in the performance of their duties.
 
              (6)  Where a person who holds 2 or more offices to which this section applies travels in connection with the performance of the person’s duties as the holder of any one or more of those offices, nothing in this Act or in any other Act entitles the person to be paid in respect of the expenses of that travel an amount exceeding the amount that the person would be entitled to be paid if the person held only the office, or one of the offices, to the duties of which the travel relates.
 
              (7)  Notwithstanding subsection (1), the office of Chairperson of the Commonwealth Grants Commission shall not be taken to be an office to which this section applies unless subsection 8(6A) of the _Commonwealth Grants Commission Act 1973_ applies to the holder of the office.
 
-##### <a id="6A"></a>6A  Travelling allowances payable to members of the Inter‑State Commission
+##### <a id="6A"></a>6A  Travelling allowances payable to members of the Inter-State Commission
 
-             (1)  There is payable to a member of the Inter‑State Commission, in respect of the member’s expenses of travel in the course of the performance of the member’s duties, an allowance at the rates ascertained in accordance with this section.
+             (1)  There is payable to a member of the Inter-State Commission, in respect of the member’s expenses of travel in the course of the performance of the member’s duties, an allowance at the rates ascertained in accordance with this section.
 
              (2)  In respect of travel within Australia and the external Territories, where the member is absent overnight from the member’s ordinary place of residence, the rates of the allowance are:
 
@@ -252,13 +248,13 @@ the allowance otherwise payable to the person for the overnight stay is increase
 
                      (b)  in respect of a member other than the President—the same rates as would be applicable to the holders of offices in the Senior Executive Service of the Australian Public Service in respect of the expenses of similar travel in the performance of their duties.
 
-             (4)  This section has effect notwithstanding subsection 19(2) of the _Inter‑State Commission Act 1975_.
+             (4)  This section has effect notwithstanding subsection 19(2) of the _Inter-State Commission Act 1975_.
 
-##### <a id="7"></a>7  Allowance payable to Solicitor‑General
+##### <a id="7"></a>7  Allowance payable to Solicitor-General
 
              (1)  There is payable to a person:
 
-                     (a)  who holds the office of Solicitor‑General of the Commonwealth;
+                     (a)  who holds the office of Solicitor-General of the Commonwealth;
 
                      (b)  whose principal place of residence was, at the time when the person’s appointment, or first appointment, as the case may be, to that office took effect, at a place outside, but not in a part of New South Wales that is adjacent to or in the vicinity of, the Australian Capital Territory; and
 
@@ -268,9 +264,9 @@ an allowance at such rate as is determined by the Remuneration Tribunal for the 
 
              (2)  An allowance payable by virtue of subsection (1) shall be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
-##### <a id="8"></a>8  Remuneration of office‑holder who is appointed to another office
+##### <a id="8"></a>8  Remuneration of office-holder who is appointed to another office
 
-             (1)  Where a person appointed to hold a statutory office in a full‑time capacity was, immediately before the appointment, the holder in a full‑time capacity of another statutory office or an officer (including an unattached officer) of the Australian Public Service or an officer in the service of a body corporate established for a public purpose by or under an Act, the person shall, if the regulations so provide, be paid, during the period of the appointment (including any period of re‑appointment) to the first‑mentioned statutory office, in lieu of the remuneration and expenses of office allowance (if any) payable in respect of that office, remuneration at such rate and an expenses of office allowance at such rate (if any) as are specified in, or ascertained in accordance with, the regulations.
+             (1)  Where a person appointed to hold a statutory office in a full-time capacity was, immediately before the appointment, the holder in a full-time capacity of another statutory office or an officer (including an unattached officer) of the Australian Public Service or an officer in the service of a body corporate established for a public purpose by or under an Act, the person shall, if the regulations so provide, be paid, during the period of the appointment (including any period of re-appointment) to the first-mentioned statutory office, in lieu of the remuneration and expenses of office allowance (if any) payable in respect of that office, remuneration at such rate and an expenses of office allowance at such rate (if any) as are specified in, or ascertained in accordance with, the regulations.
 
              (2)  Where a regulation made for the purposes of subsection (1) provides for the payment to the holder of a statutory office in respect of that office:
 
@@ -292,7 +288,7 @@ the regulation has effect only if, and so long as:
 
                              (ii)  if both remuneration and an expenses of office allowance would, but for this section, be payable in respect of the office—the sum of the rate of that remuneration and the rate of that expenses of office allowance.
 
-             (3)  The Governor‑General may make regulations prescribing all matters permitted to be prescribed by this section.
+             (3)  The Governor-General may make regulations prescribing all matters permitted to be prescribed by this section.
 
 ##### <a id="9"></a>9  Repeal and saving
 
@@ -335,7 +331,7 @@ _ _
 </tr>
 <tr>
   <td>
-    <div>Chief Justice of the High Court ............................................................................</div>
+    <div>Chief Justice of the High Court .............................................................................</div>
   </td>
   <td>
     <div>160,852</div>
@@ -343,7 +339,7 @@ _ _
 </tr>
 <tr>
   <td>
-    <div>Justice (other than Chief Justice) of the High Court .........................................</div>
+    <div>Justice (other than Chief Justice) of the High Court ..........................................</div>
   </td>
   <td>
     <div>146,218</div>
@@ -356,7 +352,7 @@ _ _
 </tr>
 <tr>
   <td>
-    <div>Chief Justice of the Federal Court of Australia .................................................</div>
+    <div>Chief Justice of the Federal Court of Australia ...................................................</div>
   </td>
   <td>
     <div>135,650</div>
@@ -364,7 +360,7 @@ _ _
 </tr>
 <tr>
   <td>
-    <div>Chief Justice of the Family Court of Australia ..................................................</div>
+    <div>Chief Justice of the Family Court of Australia ....................................................</div>
   </td>
   <td>
     <div>135,650</div>
@@ -373,7 +369,7 @@ _ _
 <tr>
   <td>
     <div>Chief Justice of the Supreme Court of the Australian Capital Territory
-      .......</div>
+      ..........</div>
   </td>
   <td>
     <div>128,331</div>
@@ -381,7 +377,7 @@ _ _
 </tr>
 <tr>
   <td>
-    <div>Deputy Chief Justice of the Family Court of Australia ....................................</div>
+    <div>Deputy Chief Justice of the Family Court of Australia ......................................</div>
   </td>
   <td>
     <div>127,542</div>
@@ -389,7 +385,7 @@ _ _
 </tr>
 <tr>
   <td>
-    <div>Judge (other than Chief Justice) of the Federal Court of Australia ................</div>
+    <div>Judge (other than Chief Justice) of the Federal Court of Australia .................</div>
   </td>
   <td>
     <div>124,277</div>
@@ -397,7 +393,7 @@ _ _
 </tr>
 <tr>
   <td>
-    <div>Judge Administrator of the Family Court of Australia .....................................</div>
+    <div>Judge Administrator of the Family Court of Australia .......................................</div>
   </td>
   <td>
     <div>124,277</div>
@@ -406,7 +402,7 @@ _ _
 <tr>
   <td>
     <div>Judge assigned to the Appeal Division of the Family Court of Australia
-      (other than the Chief Justice or the Deputy Chief Justice) ...........................</div>
+      (other than the Chief Justice or the Deputy Chief Justice) ............................</div>
   </td>
   <td>
     <div>
@@ -416,7 +412,7 @@ _ _
 </tr>
 <tr>
   <td>
-    <div>Senior Judge of the Family Court of Australia ..................................................</div>
+    <div>Senior Judge of the Family Court of Australia ....................................................</div>
   </td>
   <td>
     <div>124,277</div>
@@ -424,7 +420,7 @@ _ _
 </tr>
 <tr>
   <td>
-    <div>Any other Judge of the Family Court of Australia ............................................</div>
+    <div>Any other Judge of the Family Court of Australia .............................................</div>
   </td>
   <td>
     <div>124,277</div>
@@ -433,7 +429,7 @@ _ _
 <tr>
   <td>
     <div>Judge (other than Chief Justice) of the Supreme Court of the Australian
-      Capital Territory ..................................................................................................</div>
+      Capital Territory ...................................................................................................</div>
   </td>
   <td>
     <div>
@@ -443,7 +439,7 @@ _ _
 </tr>
 <tr>
   <td>
-    <div>Chairman of the Commonwealth Grants Commission ...................................</div>
+    <div>Chairman of the Commonwealth Grants Commission ........................................</div>
   </td>
   <td>
     <div>125,023</div>
@@ -451,7 +447,7 @@ _ _
 </tr>
 <tr>
   <td>
-    <div>President of the Inter‑State Commission ............................................................</div>
+    <div>President of the Inter-State Commission ..............................................................</div>
   </td>
   <td>
     <div>124,277</div>
@@ -459,7 +455,7 @@ _ _
 </tr>
 <tr>
   <td>
-    <div>Master of the Supreme Court of the Australian Capital Territory .................</div>
+    <div>Master of the Supreme Court of the Australian Capital Territory ....................</div>
   </td>
   <td>
     <div>91,206</div>
@@ -467,7 +463,7 @@ _ _
 </tr>
 <tr>
   <td>
-    <div>Judicial Registrar of the Family Court of Australia ..........................................</div>
+    <div>Judicial Registrar of the Family Court of Australia .............................................</div>
   </td>
   <td>
     <div>82,092</div>
@@ -651,28 +647,11 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 10): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Judicial and Statutory Officers (Remuneration and Allowances) Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 ## Table of Amendments
 
@@ -715,15 +694,7 @@ _(a)_     The _Judicial and Statutory Officers (Remuneration and Allowan
 </tr>
 <tr>
   <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 199, 1985; No. 105, 1986; No. 96, 1988; No. 152, 1989; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
+    <div>Ss. 4, 5</div>
   </td>
   <td>
     <div>am. No. 199, 1985; No. 105, 1986; No. 96, 1988; No. 152, 1989</div>
@@ -734,7 +705,7 @@ _(a)_     The _Judicial and Statutory Officers (Remuneration and Allowan
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. Nos. 65 and 199, 1985; No. 105, 1986; Nos. 87 and 96, 1988; No. 152, 1989; No. 73, 2008; No. 144, 2008</div>
+    <div>am. Nos. 65 and 199, 1985; No. 105, 1986; Nos. 87 and 96, 1988; No. 152, 1989; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
