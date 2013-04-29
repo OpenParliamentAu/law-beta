@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00554/Html/e8257b3d-a84a-44f8-aa9a-ec156d29220e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00046/Html/ActsInterp1901_WD02_image001.gif)
 
 # Acts Interpretation Act 1901
 
 **Act No. 2 of 1901 as amended**
 
-This compilation was prepared on 4 December 2009
+This compilation was prepared on 6 January 2009
  taking into account amendments up to Act No. 135 of 2008
 
 The text of any of those amendments not in force 
@@ -548,11 +548,11 @@ Definition
 
 ##### <a id="16"></a>16  References to the Sovereign
 
-                   In any Act references to the Sovereign reigning at the time of the passing of such Act, or to the Crown, shall unless the contrary intention appears be construed as references to the Sovereign for the time being.
+                   In any Act references to the Sovereign reigning at the time of the passing of such Act, or to the Crown, shall unless the contrary intention appears be construed as references to the Sovereign for the time being.
 
 ##### <a id="16A"></a>16A  References to the Governor-General
 
-                   Where, in an Act, the Governor-General is referred to, the reference shall, unless the contrary intention appears, be deemed to include:
+                   Where, in an Act, the Governor-General is referred to, the reference shall, unless the contrary intention appears, be deemed to include:
 
                      (a)  the person for the time being administering the Government of the Commonwealth; or
 
@@ -606,13 +606,13 @@ and shall, unless the contrary intention appears, be read as referring to the Go
 
                      (p)  **_Territory_**, **_Territory of the Commonwealth_**, **_Territory under the authority of the Commonwealth_** or **_Territory of Australia_** means a Territory referred to in section 122 of the Constitution, and includes a Territory administered by the Commonwealth under a Trusteeship Agreement;
 
-                   (pb)  **_The Jervis Bay Territory_** means the Territory referred to in the _Jervis__Bay Territory__Acceptance Act 1915_;
+                    (pb)  **_The Jervis Bay Territory_** means the Territory referred to in the _Jervis__Bay__Territory__Acceptance Act 1915_;
 
-                   (pc)  **_The Northern Territory_** means the Northern Territory of Australia;
+                    (pc)  **_The Northern Territory_** means the Northern Territory of Australia;
 
-                   (pd)  **_External_****_Territory_** means a Territory, not being an internal Territory, for the government of which as a Territory provision is made by any Act;
+                    (pd)  **_External_****_Territory_** means a Territory, not being an internal Territory, for the government of which as a Territory provision is made by any Act;
 
-                   (pe)  **_Internal_****_Territory_** means the Australian Capital Territory, the Jervis Bay Territory or the Northern Territory;
+                    (pe)  **_Internal_****_Territory_** means the Australian Capital Territory, the Jervis Bay Territory or the Northern   Territory;
 
                      (q)  **_Prescribed_** means prescribed by the Act, or by Regulations under the Act;
 
@@ -636,7 +636,7 @@ and shall, unless the contrary intention appears, be read as referring to the Go
 
                    In any Act, unless the contrary intention appears:
 
-                     (a)  **_The United Kingdom_** shall mean the United Kingdom of Great Britain and Northern Ireland;
+                     (a)  **_The_****_United   Kingdom_** shall mean the United Kingdom of Great Britain and Northern Ireland;
 
                      (b)  **_British possession_** shall mean any part of the King’s dominions exclusive of the United Kingdom, and where parts of such dominions are under both a central and a local Legislature all parts under the central Legislature shall for the purposes of this definition be deemed to be one British possession.
 
@@ -708,7 +708,7 @@ to act on behalf of the authorising Minister in the performance of functions, or
 
                     (aa)  refers to a Minister by using the expression “the Minister” without specifying which Minister is referred to; or
 
-                   (ab)  refers to a particular Minister;
+                    (ab)  refers to a particular Minister;
 
 then, unless the contrary intention appears, the reference is a reference to:
 
@@ -1040,7 +1040,7 @@ For this purpose, disregard whether an adoption is declared void or has ceased t
 
 ##### <a id="25E"></a>25E  Attainment of particular age
 
-                   For the purposes of any Act, unless the contrary intention appears, the time at which a person attains a particular age expressed in years is the commencement of the relevant anniversary of the date of the birth of that person.
+                   For the purposes of any Act, unless the contrary intention appears, the time at which a person attains a particular age expressed in years is the commencement of the relevant anniversary of the date of the birth of that person.
 
 ## Part VI—Judicial expressions
 
@@ -1082,7 +1082,7 @@ For this purpose, disregard whether an adoption is declared void or has ceased t
 
 is taken to include a reference to any document through which proceedings may be instituted in a court.
 
-Note:          An example of such a document is a court attendance notice under the _Criminal Procedure Act 1986_ of New South Wales.
+Note:          An example of such a document is a court attendance notice under the _Criminal Procedure Act 1986_ of New South   Wales.
 
 ##### <a id="28"></a>28  Rules of Court
 
@@ -1160,7 +1160,7 @@ whichever first happens, and as also including a power to remove or suspend any 
 
                              (ii)  terminate the appointment at any time;
 
-                   (ba)  where the appointment is to act in a vacant office, the appointee must not continue to act in the office for more than 12 months;
+                    (ba)  where the appointment is to act in a vacant office, the appointee must not continue to act in the office for more than 12 months;
 
                      (c)  where the appointee is acting in an office other than a vacant office and the office becomes vacant while the appointee is acting, then, subject to paragraph (a), the appointee may continue so to act until:
 
@@ -1310,7 +1310,7 @@ shall be deemed to have been presentation of the paper to that House, as describ
 
              (1)  An Act passed by the Parliament of the Commonwealth may be referred to by the word “Act” alone.
 
-             (2)  An Act passed by the Parliament of the United Kingdom may be referred to by the term “Imperial Act”.
+             (2)  An Act passed by the Parliament of the United   Kingdom may be referred to by the term “Imperial Act”.
 
              (3)  An Act passed by the Parliament of a State may be referred to by the term “State Act”.
 
@@ -1331,8 +1331,6 @@ shall be deemed to have been presentation of the paper to that House, as describ
              (2)  Any enactment may be cited by reference to the part, section, subsection, or other division of the Act, Imperial Act or State Act, in which the enactment is contained.
 
              (3)  Every such reference shall be made according to the copy of such Act printed by the Government Printer of the Commonwealth or of the State, or of the King’s Printer in London (as the case may be), or purporting to be so printed.
-
-             (4)  For the purposes of subsection (3), a reference in relation to a Commonwealth Act may also be made according to a copy of the Act, or a compilation of the Act, as it appears in an Acts database declared under section 4  of the _Acts Publication Act 1905_.
 
 ##### <a id="40A"></a>40A  References to the new corporations and ASIC legislation
 
@@ -1477,7 +1475,7 @@ Note:         This provision has a parallel, in relation to legi
 
                     (ca)  references to registered were references to made; and
 
-                   (cb)  references to subsection 38(1) of the _Legislative Instruments Act 2003_ were references to subsection (9) of this section; and
+                    (cb)  references to subsection 38(1) of the _Legislative Instruments Act 2003_ were references to subsection (9) of this section; and
 
                     (cc)  references to subsection 38(3) of the _Legislative Instruments Act 2003_ were references to subsection (10) of this section; and
 
@@ -2670,7 +2668,7 @@ Remainder: Royal Assent</div>
     <div>4 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 3 (item 6): 4 Dec 2009</div>
+    <div>Schedule 3 (item 6): \[ <i>see</i>Note 4]</div>
   </td>
   <td>
     <div>—</div>
@@ -2683,7 +2681,7 @@ _(a)_     Subsection 8(5) of the _Acts Interpretation Amendment Act 1976
 
          The Department of Finance was established on 7 December 1976 (_see Gazette_ 1976, No. S221).
 
-_(b)_     The _Acts Interpretation Amendment Act 1976_ was amended by Schedule 2 (item 138) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(b)_    The _Acts Interpretation Amendment Act 1976_ was amended by Schedule 2 (item 138) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
@@ -2807,7 +2805,7 @@ _(za)_   The _Acts Interpretation Act 1901_ was amended by Schedule 3 (ite
 
          The other Schedules to this Act commenced on 10 December 1999.
 
-_(zb)_   The _Acts Interpretation Act 1901_ was amended by Schedule 2 (items 1 and 2) only of the _Federal Magistrates (Consequential Amendments) Act 1999_, subsection 2(1) of which provides as follows:
+_(zb)_  The _Acts Interpretation Act 1901_ was amended by Schedule 2 (items 1 and 2) only of the _Federal Magistrates (Consequential Amendments) Act 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the commencement of the _Federal Magistrates Act 1999_.
 
@@ -4244,7 +4242,7 @@ _(zh)_   Subsection 2(1) (items 3) of the _Statute Law Revision Act 2008_ 
     <div>S. 40</div>
   </td>
   <td>
-    <div>am. No. 19, 1963; No. 135, 2008</div>
+    <div>am. No. 19, 1963</div>
   </td>
 </tr>
 <tr>
@@ -4681,7 +4679,7 @@ Section 17—Subsection 70(1) of the _Archives Act 1983_ provides as follows:
 
 Section 5 of the _Australian Federal Police Act 1979_ provides as follows:
 
-             (1)  In a law of the Commonwealth or of the Australian Capital Territory:
+             (1)  In a law of the Commonwealth or of the Australian   Capital Territory:
 
                      (a)  a reference to a Commonwealth Police Officer shall be read as a reference to a member of the Australian Federal Police;
 
@@ -4695,15 +4693,7 @@ Section 5 of the _Australian Federal Police Act 1979_ provides as follows:
 
           (1A)  Where a reference in a law of the Commonwealth that does not specify the Australian Capital Territory is, in effect, a reference to, or a reference that includes, that Territory, that reference shall, for the purposes of subsection (1), be taken to be a reference to that Territory.
 
-             (2)  If:
-
-                     (a)  a provision of a law is, by virtue of subsection (1), to be read as referring to a member of the Australian Federal Police holding a particular rank; and
-
-                     (b)  a declaration is in force under subsection (3) that a member is of that rank for the purposes of this paragraph;
-
-the provision of the law is to be read as referring to the member to whom the declaration applies.
-
-             (3)  The Commissioner may, by writing, declare that a member is of a particular rank for the purposes of paragraph (2)(b).
+             (2)  Where a provision of a law is, by virtue of subsection (1), to be read as referring to a member of the Australian Federal Police holding a particular rank, but that rank does not exist as a rank in the Australian Federal Police, the provision shall be read as referring to a member of the Australian Federal Police holding the rank that is declared by the regulations to be the equivalent of that particular rank.
 
 Subsections 18(11) and (12) of the _Bankruptcy Act 1966_ provide as follows:
 
@@ -4725,7 +4715,7 @@ Section 18 of the _Law Officers Act 1964_ provides as follows:
 
                    A reference in a law of the Commonwealth other than this Act, or in a law of a Territory, as in force at the commencement of this Act, to the Solicitor-General of the Commonwealth or to the Solicitor-General shall be read as a reference to the Secretary to the Attorney-General’s Department.
 
-Section 67 of the _Northern Territory__(Self-Government) Act 1978_ provides as follows:
+Section 67 of the _Northern   Territory__(Self-Government) Act 1978_ provides as follows:
 
                    In any law of the Commonwealth or of the Territory or any instrument having effect under such a law (including a law or instrument that came into operation before the commencing date), except so far as the context otherwise requires:
 
@@ -4742,6 +4732,22 @@ Section 67 of the _Northern Territory__(Self-Government) Act 1978_ provides as
 Section 27—Section 7 of the _Statutory Declarations Act 1959_ provides as follows:
 
                    Where, in a law of the Commonwealth or of a Territory (whether passed or made before or after the commencement of this Act), a reference is made to a statutory declaration, the reference includes a reference to a statutory declaration made under this Act, unless the contrary intention appears in that law.
+
+### Note 4
+
+_Evidence Amendment Act 2008 (No. 135, 2008)_
+
+The following amendment commences on 4 December 2009 unless proclaimed earlier:
+
+## Schedule 3
+
+## 6  At the end of section 40
+
+Add:
+
+             (4)  For the purposes of subsection (3), a reference in relation to a Commonwealth Act may also be made according to a copy of the Act, or a compilation of the Act, as it appears in an Acts database declared under section 4  of the _Acts Publication Act 1905_.
+
+As at 6 January 2009 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -4769,9 +4775,9 @@ Any act that a Minister purported to do before the commencement of this Act on b
 
 ## 7  Validation of past orders
 
-(1)       Any order that the Governor-General purported to make before the commencement of item 6 under paragraph 19BA(1)(c) of the _Acts Interpretation Act 1901_ is taken to have been, at all times before that commencement when the order purported to be in force, as valid as it would have been if the amendment made by that item had been in force when the purported order was made.
+(1)        Any order that the Governor-General purported to make before the commencement of item 6 under paragraph 19BA(1)(c) of the _Acts Interpretation Act 1901_ is taken to have been, at all times before that commencement when the order purported to be in force, as valid as it would have been if the amendment made by that item had been in force when the purported order was made.
 
-(2)       If an order that the Governor-General purported to make before the commencement of item 6 under paragraph 19BA(1)(c) of the _Acts Interpretation Act 1901_ purported to be in force immediately before that commencement, the purported order has the effect after that commencement that it would have if the amendment made by that item had been in force when the purported order was made.
+(2)        If an order that the Governor-General purported to make before the commencement of item 6 under paragraph 19BA(1)(c) of the _Acts Interpretation Act 1901_ purported to be in force immediately before that commencement, the purported order has the effect after that commencement that it would have if the amendment made by that item had been in force when the purported order was made.
 
 * * *
 
@@ -4803,7 +4809,7 @@ _Acts Interpretation Amendment (Court Procedures) Act 2003 (No. 46, 2003)_
 
 ## Schedule 1
 
-## 2  Application
+## 2  Application
 
 The amendment made by this Schedule applies in relation to proceedings instituted on or after 7 July 2003.
 
