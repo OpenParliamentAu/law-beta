@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00742/Html/ad971524-b128-4bb3-a413-74521ebded2e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00284/Html/91d4810a-dbfc-42b3-93f3-ed007b967263_files/image001.gif)
 
 # Crimes (Hostages) Act 1989
 
 **Act No. 26 of 1989 as amended**
 
-This compilation was prepared on 12 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -75,7 +76,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="australian-aircraft"></a>**_Australian aircraft_** means:
 
-                     (a)  an aircraft registered under regulations made under the _Civil Aviation Act 1988_;
+                     (a)  an aircraft registered in accordance with the Civil Aviation Regulations as an Australian aircraft;
 
                      (b)  an aircraft that is owned by, or is in the possession or control of, the Commonwealth or an authority of the Commonwealth; or
 
@@ -520,7 +521,7 @@ of Assent</div>
     <div>15 May 1989</div>
   </td>
   <td>
-    <div>20 June 1990 ( <i>see Gazette</i>1990, No. S145)</div>
+    <div>20 June 1990 ( <i>see Gazette</i>1990, No. S145)</div>
   </td>
   <td>
     <div></div>
@@ -537,7 +538,7 @@ of Assent</div>
     <div>21 Dec 1992</div>
   </td>
   <td>
-    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(a)</i></div>
+    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -554,7 +555,7 @@ of Assent</div>
     <div>19 Dec 1994</div>
   </td>
   <td>
-    <div>S. 31: 16 Jan 1995 <i>(b)</i></div>
+    <div>S. 31: 16 Jan 1995 <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -605,24 +606,7 @@ of Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 67, 68): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 1): Royal Assent</div>
+    <div>Schedule 5 (items 67, 68): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -659,8 +643,8 @@ _(d)_     The _Crimes (Hostages) Act 1989_ was amended by Schedule 15 
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -683,7 +667,7 @@ _(d)_     The _Crimes (Hostages) Act 1989_ was amended by Schedule 15 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 196, 1992; No. 24, 2001; No. 5, 2011; No. 136, 2012</div>
+    <div>am. No. 196, 1992; No. 24, 2001; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
