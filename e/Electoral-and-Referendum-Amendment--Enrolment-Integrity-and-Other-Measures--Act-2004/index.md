@@ -1,23 +1,39 @@
-![](http://www.comlaw.gov.au/Details/C2012C00917/Html/639cecef-06b3-47d5-b64f-274d4659fbaf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00388/Html/4A5EE3C212C89DC8CA2571A100215A4B/$FILE/image001.gif)
 
 # Electoral and Referendum Amendment (Enrolment Integrity and Other Measures) Act 2004
 
-**Act No. 115 of 2004 as amended**
+**Act No. 115 of 2004 as amended**
 
-This compilation was prepared on 18 December 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 30 June 2006
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+**\[This Act was amended by Act No. 123 of 2004; Act No. 65 of 2006]**
 
-The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
+**Amendments from Act No. 123 of 2004**
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+\[Schedule 2 (item 1) amended section 2(1) (item 28)
+Schedule 2 (item 2) repealed Schedule 1 (items 107 and 108)
+Schedule 3 (item 1) amended section 2(1) (item 14)
+Schedule 3 (item 2) repealed and substituted Schedule 1 (item 132A)
+and added item 132B to Schedule 1
+
+Schedule 2 (items 1 and 2) commenced on 13 July 2004
+Schedule 3 (items 1 and 2) commenced on 10 August 2004]
+
+**Amendments from Act No. 65 of 2006**
+
+\[Schedule 1 (item 100) repealed section 2(1) (table items 3, 5, 8, 11, 14, 18, 24 and 30)
+Schedule 1 (item 101) repealed Schedule 1 (items 5, 18A, 19, 42, 132A and 132B)
+
+Schedule 1 (items 100 and 101) commenced on 22 June 2006]
+
+Prepared by the Office of Legislative Drafting and Publishing,
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title
 
 [2](#2).            Commencement
 
@@ -25,23 +41,26 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 **Schedule 1—Amendments** 
 
-Part 1—Amendments                                                                                                    4
+Part 1—Amendments                                                                                                      6
 
-Commonwealth Electoral Act 1918                                                                         4
+Commonwealth Electoral Act 1918                                                                         6
 
-Electoral and Referendum Amendment Act (No. 1) 1999                                  17
+Electoral and Referendum Amendment Act (No. 1) 1999                                  19
 
-Public Employment (Consequential and Transitional) Amendment Act 1999 17
+Public Employment (Consequential and Transitional) Amendment Act 1999 19
 
-Referendum (Machinery Provisions) Act 1984                                                    17
+Referendum (Machinery Provisions) Act 1984                                                    19
 
-Part 2—Application of amendments                                                                   22
+Part 2—Application of amendments                                                                        24
 
-**Notes** 
 
 ## An Act to make further amendments of the law relating to elections and referendums, and for related purposes
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+[_Assented to__13 July 2004_]
+
+The Parliament of Australia enacts:
+
+##### <a id="1"></a>1  Short title
 
                    This Act may be cited as the _Electoral and Referendum Amendment (Enrolment Integrity and Other Measures) Act 2004_.
 
@@ -51,8 +70,8 @@ Part 2—Application of amendments              �
 
 <table>
 <colgroup>
-  <col width="25%">
-  <col width="54%">
+  <col width="24%">
+  <col width="55%">
   <col width="21%">
 </colgroup>
 
@@ -99,191 +118,259 @@ Part 2—Application of amendments              �
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
-      table</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>13 July 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2\. Schedule 1, items 1 to 4</div>
-  </td>
-  <td>
-    <div>The later of:</div>
-    <div>(a) the 28th day after the day on which this Act receives the Royal Assent;
-      and</div>
-    <div>(b) the commencement of item 3 of Schedule 1 to the
-      <i>Electoral and Referendum Amendment (Access to Electoral Roll and Other
-        Measures) Act 2004</i>.</div>
-  </td>
-  <td>
-    <div>10 August 2004</div>
-    <div>(paragraph (a) applies)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4\. Schedule 1, items 6, 7 and 8</div>
-  </td>
-  <td>
-    <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 August 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7\. Schedule 1, item 11</div>
-  </td>
-  <td>
-    <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 August 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10\. Schedule 1, items 14 and 15</div>
-  </td>
-  <td>
-    <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 August 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13\. Schedule 1, item 18</div>
-  </td>
-  <td>
-    <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 August 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15\. Schedule 1, items 20 to 36</div>
-  </td>
-  <td>
-    <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 August 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>17\. Schedule 1, items 38 to 41</div>
-  </td>
-  <td>
-    <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 August 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>19\. Schedule 1, items 43 and 44</div>
-  </td>
-  <td>
-    <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 August 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>21\. Schedule 1, items 46 to 61</div>
-  </td>
-  <td>
-    <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 August 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>23\. Schedule 1, items 64 to 77</div>
-  </td>
-  <td>
-    <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 August 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>25\. Schedule 1, items 79 to 102</div>
-  </td>
-  <td>
-    <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 August 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>26\. Schedule 1, item 103</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>13 July 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>27\. Schedule 1, items 104 and 105</div>
-  </td>
-  <td>
-    <div>Immediately after the commencement of items 764 and 765 of Schedule 1
-      to the
-      <i>Public Employment (Consequential and Transitional) Amendment Act 1999</i>.</div>
-  </td>
-  <td>
-    <div>5 December 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>29\. Schedule 1 items 110 to 115</div>
-  </td>
-  <td>
-    <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 August 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>31\. Schedule 1, items 117 to 138</div>
-  </td>
-  <td>
-    <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>10 August 2004</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
+        table</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>13 July 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2\. Schedule 1, items 1 to 4</div>
+    </td>
+    <td>
+      <div>The later of:</div>
+      <div>(a) the 28th day after the day on which this Act receives the Royal Assent;
+        and</div>
+      <div>(b) the commencement of item 3 of Schedule 1 to the
+        <i>Electoral and Referendum Amendment (Access to Electoral Roll and Other
+          Measures) Act 2004</i>.</div>
+    </td>
+    <td>
+      <div>10 August 2004</div>
+      <div>(paragraph (a) applies)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4\. Schedule 1, items 6, 7 and 8</div>
+    </td>
+    <td>
+      <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 August 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6\. Schedule 1, item 10</div>
+    </td>
+    <td>
+      <div>A single day to be fixed by Proclamation.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7\. Schedule 1, item 11</div>
+    </td>
+    <td>
+      <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 August 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9\. Schedule 1, item 13</div>
+    </td>
+    <td>
+      <div>At the same time as the provision covered by table item 6.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10\. Schedule 1, items 14 and 15</div>
+    </td>
+    <td>
+      <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 August 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12\. Schedule 1, item 17</div>
+    </td>
+    <td>
+      <div>At the same time as the provision covered by table item 6.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13\. Schedule 1, item 18</div>
+    </td>
+    <td>
+      <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 August 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15\. Schedule 1, items 20 to 36</div>
+    </td>
+    <td>
+      <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 August 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>16\. Schedule 1, item 37</div>
+    </td>
+    <td>
+      <div>At the same time as the provision covered by table item 6.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>17\. Schedule 1, items 38 to 41</div>
+    </td>
+    <td>
+      <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 August 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>19\. Schedule 1, items 43 and 44</div>
+    </td>
+    <td>
+      <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 August 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>20\. Schedule 1, item 45</div>
+    </td>
+    <td>
+      <div>At the same time as the provision covered by table item 6.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>21\. Schedule 1, items 46 to 61</div>
+    </td>
+    <td>
+      <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 August 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>22\. Schedule 1, items 62 and 63</div>
+    </td>
+    <td>
+      <div>At the same time as the provision covered by table item 6.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>23\. Schedule 1, items 64 to 77</div>
+    </td>
+    <td>
+      <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 August 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>25\. Schedule 1, items 79 to 102</div>
+    </td>
+    <td>
+      <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 August 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>26\. Schedule 1, item 103</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>13 July 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>27\. Schedule 1, items 104 and 105</div>
+    </td>
+    <td>
+      <div>Immediately after the commencement of items 764 and 765 of Schedule 1
+        to the
+        <i>Public Employment (Consequential and Transitional) Amendment Act 1999</i>.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>29\. Schedule 1 items 110 to 115</div>
+    </td>
+    <td>
+      <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 August 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>31\. Schedule 1, items 117 to 138</div>
+    </td>
+    <td>
+      <div>The 28th day after the day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>10 August 2004</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
@@ -311,23 +398,25 @@ Insert:
   <col width="30%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>4A</div>
-  </td>
-  <td>
-    <div>a registered political party</div>
-  </td>
-  <td>
-    <div>voting information (as defined in subsection (10)) in relation to the
-      election</div>
-  </td>
-  <td>
-    <div>(a) on request by the party; and</div>
-    <div>(b) without charge; and</div>
-    <div>(c) subject to subsection (3).</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>4A</div>
+    </td>
+    <td>
+      <div>a registered political party</div>
+    </td>
+    <td>
+      <div>voting information (as defined in subsection (10)) in relation to the
+        election</div>
+    </td>
+    <td>
+      <div>(a) on request by the party; and</div>
+      <div>(b) without charge; and</div>
+      <div>(c) subject to subsection (3).</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 2  Subsection 90B(1) (after table item 10)
 
@@ -341,23 +430,25 @@ Insert:
   <col width="30%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>10A</div>
-  </td>
-  <td>
-    <div>a Senator for a State or Territory (other than a member of a registered
-      political party)</div>
-  </td>
-  <td>
-    <div>voting information (as defined in subsection (10)) in relation to the
-      election in which the Senator was elected</div>
-  </td>
-  <td>
-    <div>(a) on request by the Senator; and</div>
-    <div>(b) without charge.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>10A</div>
+    </td>
+    <td>
+      <div>a Senator for a State or Territory (other than a member of a registered
+        political party)</div>
+    </td>
+    <td>
+      <div>voting information (as defined in subsection (10)) in relation to the
+        election in which the Senator was elected</div>
+    </td>
+    <td>
+      <div>(a) on request by the Senator; and</div>
+      <div>(b) without charge.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 3  Subsection 90B(1) (after table item 14)
 
@@ -371,23 +462,25 @@ Insert:
   <col width="30%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>14A</div>
-  </td>
-  <td>
-    <div>a member of the House of Representatives for a Division (other than a
-      member of a registered political party)</div>
-  </td>
-  <td>
-    <div>voting information (as defined in subsection (10)) in relation to the
-      election in which the member was elected</div>
-  </td>
-  <td>
-    <div>(a) on request by the member; and</div>
-    <div>(b) without charge.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>14A</div>
+    </td>
+    <td>
+      <div>a member of the House of Representatives for a Division (other than a
+        member of a registered political party)</div>
+    </td>
+    <td>
+      <div>voting information (as defined in subsection (10)) in relation to the
+        election in which the member was elected</div>
+    </td>
+    <td>
+      <div>(a) on request by the member; and</div>
+      <div>(b) without charge.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 4  Subsection 90B(10)
 
@@ -429,11 +522,11 @@ After “he or she resided”, insert “at an address”.
 
 After “he or she resided”, insert “at an address”.
 
-## 14  Subsection 95AA(1) (paragraph (b) of the definition of _qualified Norfolk Islander_)
+## 14  Subsection 95AA(1) (paragraph (b) of the definition of _qualified__Norfolk__Islander_)
 
 After “he or she lived”, insert “at an address”.
 
-## 15  Subsection 95AA(1) (paragraph (b) of the definition of _qualified Norfolk Islander_)
+## 15  Subsection 95AA(1) (paragraph (b) of the definition of _qualified__Norfolk__Islander_)
 
 Omit “so lived”, substitute “lived at that address”.
 
@@ -527,7 +620,7 @@ Omit “or address”.
 
 Insert:
 
-                   (ba)  altering, in response to a written notice given by an elector, the original address of the elector on the same Subdivision Roll;
+                    (ba)  altering, in response to a written notice given by an elector, the original address of the elector on the same Subdivision Roll;
 
 ## 41  After subsection 105(1)
 
@@ -611,7 +704,7 @@ After “114(1)”, insert “or (1B)”.
 
 Repeal the subsection.
 
-## 54  Subsection 118(3)
+## 54  Subsection 118(3)
 
 Omit “If it appears”, substitute “In the case of an objection under subsection 114(1), (1A) or (2), if it appears”.
 
@@ -641,7 +734,7 @@ After “114(1)”, insert “or (1B)”.
 
 Insert:
 
-                   (da)  is one that a reasonable person would think suggests that a connection or relationship exists between the party and a registered party if that connection or relationship does not in fact exist; or
+                    (da)  is one that a reasonable person would think suggests that a connection or relationship exists between the party and a registered party if that connection or relationship does not in fact exist; or
 
 ## 59  Paragraph 134A(1)(a)
 
@@ -761,7 +854,7 @@ Repeal the penalty, substitute:
 
 Add:
 
-_Note:        The Criminal Code Act 1995 contains defences for offences involving mistake or ignorance._
+_Note:       The Criminal Code Act 1995 contains defences for offences involving mistake or ignorance._
 
 ## 93  After subsection 339(1B)
 
@@ -799,7 +892,7 @@ Omit “11A or 12”, substitute “12 or 13A”.
 
 Insert:
 
-                   (ba)  in another group, the envelopes to which paragraph 13C applies;
+                    (ba)  in another group, the envelopes to which paragraph 13C applies;
 
 ## 98  Subparagraph 11(b) of Schedule 3
 
@@ -813,7 +906,7 @@ Repeal the paragraphs.
 
 Insert:
 
-         13A.  This paragraph applies to an envelope if the DRO is satisfied:
+          13A.  This paragraph applies to an envelope if the DRO is satisfied:
 
                      (a)  that the elector who signed the certificate or declaration on the envelope is not enrolled for the Division; and
 
@@ -849,7 +942,7 @@ Insert:
 
                              (v)  that the omission of the elector’s name from the Roll for the Division was attributable to subsection 118(4A).
 
-         13D.  Subparagraph 13C(b) does not apply if:
+          13D.  Subparagraph 13C(b) does not apply if:
 
                      (a)  an election (excluding the election to which the scrutiny relates) has been held since the omission from the Roll; or
 
@@ -967,7 +1060,7 @@ Omit “10A or 11”, substitute “11 or 12A”.
 
 Insert:
 
-                   (ba)  in another group, the envelopes to which paragraph 12C applies;
+                    (ba)  in another group, the envelopes to which paragraph 12C applies;
 
 ## 129  Paragraphs 10A and 10B of Schedule 4
 
@@ -977,7 +1070,7 @@ Repeal the paragraphs.
 
 Insert:
 
-         12A.  This paragraph applies to an envelope if the DRO is satisfied:
+          12A.  This paragraph applies to an envelope if the DRO is satisfied:
 
                      (a)  that the elector who signed the certificate or declaration on the envelope is not enrolled for the Division; and
 
@@ -1013,7 +1106,7 @@ Insert:
 
                              (v)  that the omission of the elector’s name from the Roll for the Division was attributable to subsection 118(4A) of the _Commonwealth Electoral Act 1918_.
 
-         12D.  Subparagraph 12C(b) does not apply if:
+          12D.  Subparagraph 12C(b) does not apply if:
 
                      (a)  an election (excluding the election to which the scrutiny relates) has been held since the omission from the Roll; or
 
@@ -1031,7 +1124,7 @@ Omit “or (b)”, substitute “, (b) or (ba)”.
 
 ## 133  Transitional—enrolment in respect of an address
 
-(1)       If, immediately before the commencement of this item:
+(1)        If, immediately before the commencement of this item:
 
                      (a)  a person’s name was on the Roll for a Subdivision; and
 
@@ -1039,7 +1132,7 @@ Omit “or (b)”, substitute “, (b) or (ba)”.
 
 the _Commonwealth Electoral Act 1918_ has effect, after that commencement, as if the person’s name had been placed on the Roll in respect of that address.
 
-(2)       If, immediately before the commencement of this item:
+(2)        If, immediately before the commencement of this item:
 
                      (a)  a person’s name was on the Roll for a Subdivision; and
 
@@ -1051,13 +1144,13 @@ the _Commonwealth Electoral Act 1918_ has effect, after that commencement, as if
 
                      (d)  if the person gives notice of a change of address under subsection 101(5) of that Act—in respect of the new address.
 
-(3)       Subitems (1) and (2) do not prevent:
+(3)        Subitems (1) and (2) do not prevent:
 
                      (a)  the removal or deletion of the person’s name from the Roll in accordance with the _Commonwealth Electoral Act 1918_ as amended by this Schedule; or
 
                      (b)  the alteration of the Roll in accordance with the _Commonwealth Electoral Act 1918_ as amended by this Schedule.
 
-(4)       This item is enacted for the avoidance of doubt.
+(4)        This item is enacted for the avoidance of doubt.
 
 ## 134  Application of subparagraph 134A(1)(a)(ii) of the _Commonwealth Electoral Act 1918_
 
@@ -1067,355 +1160,7 @@ Subparagraph 134A(1)(a)(ii) of the _Commonwealth Electoral Act 1918_ applies onl
 
 Despite the amendments of Part IX of the _Commonwealth Electoral Act 1918_ made by this Schedule, Parts IX and X of that Act continue to apply, in relation to an objection made under Part IX of that Act before the commencement of this item, as if those amendments had not been made.
 
-# Notes to the _Electoral and Referendum Amendment (Enrolment Integrity and Other Measures) Act 2004_
+ 
 
-### Note 1
-
-The _Electoral and Referendum Amendment (Enrolment Integrity and Other Measures) Act 2004_ as shown in this compilation comprises Act No. 115, 2004 amended as indicated in the Tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="15%">
-  <col width="19%">
-  <col width="21%">
-  <col width="15%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Electoral and Referendum Amendment (Enrolment Integrity and Other Measures) Act 2004</div>
-  </td>
-  <td>
-    <div>115, 2004</div>
-  </td>
-  <td>
-    <div>13 July 2004</div>
-  </td>
-  <td>
-    <div><i>See</i>s. 2(1)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Electoral and Referendum Amendment (Prisoner Voting and Other Measures) Act 2004</div>
-  </td>
-  <td>
-    <div>123, 2004</div>
-  </td>
-  <td>
-    <div>16 Aug 2004</div>
-  </td>
-  <td>
-    <div>Schedule 2: <i>(a) 
- </i>Schedule 3: <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006</div>
-  </td>
-  <td>
-    <div>65, 2006</div>
-  </td>
-  <td>
-    <div>22 June 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 100, 101): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 13): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_ Subsection 2(1) (items 8 and 9) of the _Electoral and Referendum Amendment (Prisoner Voting and Other Measures) Act 2004_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      8\. Schedule 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the
-        <i>Electoral and Referendum Amendment (Enrolment Integrity and Other Measures)
-          Act 2004</i>received the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      13 July 2004
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      9\. Schedule 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 132A of the
-        <i>Electoral and Referendum Amendment (Enrolment Integrity and Other Measures)
-          Act 2004</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      10 August 2004
-    </div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 123, 2004; No. 65, 2006; No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 5</div>
-  </td>
-  <td>
-    <div>rep. No. 65, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 18A</div>
-  </td>
-  <td>
-    <div>rep. No. 65, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 19</div>
-  </td>
-  <td>
-    <div>rep. No. 65, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 42</div>
-  </td>
-  <td>
-    <div>rep. No. 65, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 107</div>
-  </td>
-  <td>
-    <div>rep. No. 123, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 108</div>
-  </td>
-  <td>
-    <div>rep. No. 123, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 132A</div>
-  </td>
-  <td>
-    <div>rs. No. 123, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 132B</div>
-  </td>
-  <td>
-    <div>ad. No. 123, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 65, 2006</div>
-  </td>
-</tr></table>
 
  
