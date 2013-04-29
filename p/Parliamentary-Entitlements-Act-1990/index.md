@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00448/Html/cdae7ea7-fb8c-4d48-80a2-fc842dbbd897_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00422/Html/999aa2c2-ee0f-40d8-bf87-a9925593826c_files/image001.gif)
 
 # Parliamentary Entitlements Act 1990
 
 **Act No. 28 of 1990 as amended**
 
-This compilation was prepared on 1 July 2012
+This compilation was prepared on 3 June 2011
  taking into account amendments up to Act No. 5 of 2011
 
 [**Note**: The Scheduled benefits are varied or omitted in accordance with 
@@ -160,7 +160,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 then, during that year, the person is entitled only to a proportionate amount of that benefit worked out by the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00448/Html/cdae7ea7-fb8c-4d48-80a2-fc842dbbd897_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00422/Html/999aa2c2-ee0f-40d8-bf87-a9925593826c_files/image002.gif)
 
              (2)  An amount so worked out must be rounded to the nearest whole number that is greater than zero.
 
@@ -210,7 +210,7 @@ then, during that year, the person is entitled only to a proportionate amount of
 
              (1)  In its application to the financial year 1989‑90, an amount (in this section called **_whole amount_**) referred to in Schedule 1 (other than item 3 in Part 1) is to be reduced to an amount worked out by the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00448/Html/cdae7ea7-fb8c-4d48-80a2-fc842dbbd897_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00422/Html/999aa2c2-ee0f-40d8-bf87-a9925593826c_files/image003.gif)
 
                     <a name="remain-number-dai"></a>where **_remaining number of days_** means the number of days in that financial year from and including the day on which this Act commences.
 
@@ -648,7 +648,7 @@ of Assent</div>
 
 ## Table A
 
-_Parliamentary Entitlements Regulations 1997 (SR 1997 No. 318 as amended by SR 2003 No. 149; SLI 2005 No. 235; 2006 No. 211; 2008 No. 228; 2009 No. 219 (as amended by SLI 2009 No. 250); 2011 No. 55 (as amended by SLI 2011 No. 97); 2011 No. 72; 2012 No. 104)_
+_Parliamentary Entitlements Regulations 1997 (SR 1997 No. 318 as amended by SR 2003 No. 149; SLI 2005 No. 235; 2006 No. 211; 2008 No. 228; 2009 No. 219 (as amended by SLI 2009 No. 250); 2011 Nos. 55 and 72)_
 
 Schedule 1        Variation or omission of Scheduled benefits in Schedule 1 to the _Parliamentary Entitlements Act 1990_
 
@@ -742,10 +742,9 @@ substitute
   </td>
   <td>
     <div>
-      Subject to subitem 7 (5), if, in the previous financial year, a member
-        received a supplement under regulation 3EA — the amount in paragraph 7
-        (2) (b) is reduced by the amount of the supplement spent by the member
-        on office requisites and stationery.
+      If, in the previous financial year, a member received a benefit under
+        regulation 3EA — the amount in paragraph 7 (2) (b) is reduced by the amount
+        of the benefit spent by the member on office requisites and stationery.
     </div>
   </td>
 </tr>
@@ -759,37 +758,6 @@ substitute
     <div>
       However, the Minister may, having regard to the particular circumstances
         of a member, waive the requirement in subitem 7 (3) in relation to the
-        member.
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      (5)
-    </div>
-  </td>
-  <td>
-    <div>
-      If the Minister has approved, under subregulation 3EA (7A), the expenditure,
-        in the 2011–2012 financial year, of a supplement, under regulation 3EA,
-        for the 2010–2011 financial year, the amount in paragraph 7 (2) (b), for
-        the 2012–2013 financial year, is reduced by the amount of the supplement
-        spent by the member on office requisites and stationery in the 2010–2011
-        and 2011–2012 financial years.
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      (6)
-    </div>
-  </td>
-  <td>
-    <div>
-      However, the Minister may, having regard to the particular circumstances
-        of a member, waive the requirement in subitem 7 (5) in relation to the
         member.
     </div>
   </td>
@@ -908,11 +876,15 @@ substitute
 
              (da)    the cost of baggage insurance to the standard applying to an employee in the Senior Executive Service in the Department of Foreign Affairs and Trade; and
 
-\[110]       Paragraphs 9 (1) (e) and (f)
+\[110]       Paragraph 9 (1) (f)
 
-substitute
+omit
 
-                (e)    use of special purpose aircraft as approved by the Prime Minister.
+travel, at the appropriate Australian Public Service standard, 
+
+insert
+
+business class travel 
 
 \[111]       Subitem 9 (2)
 
@@ -1014,135 +986,47 @@ insert
 
                (b)    for each subsequent financial year — $18,300 indexed annually, in accordance with the Consumer Price Index, rounded up or down to the nearest multiple of $100 (rounding up an amount of $50).
 
-\[206]       Item 2
+<a id="\[206]"></a>\[206]       Paragraph 2 (1) (d)
 
 substitute
 
-2.    (1)    For travel overseas on official business by a Presiding Officer travelling on an itinerary approved by the Prime Minister:
+               (d)    the cost of business class travel of 1 member of staff accompanying the Leader, Deputy Leader or Presiding Officer; and
 
-                (a)    the cost of first-class fares; and
+\[207]       Paragraph 2 (1) (e)
 
-               (b)    the cost of accommodation, meals and incidentals; and
+omit
 
-                (c)    the cost of travel, at business class, of one staff member accompanying the Presiding Officer; and
+travel, at the appropriate Australian Public Service standard,
 
-               (d)    if there is no accompanying spouse, and the Prime Minister so approves, the cost of travel, at business class, of a second staff member accompanying the Presiding Officer; and
+insert
 
-                (e)    the following costs relating to medical and hospital services received by the Presiding Officer:
+travel at business class
 
-                          (i)    the cost of vaccinations and medical supplies essential for travel overseas;
+\[208]       Paragraph 2 (1) (f)
 
-                         (ii)    the cost of insurance for medical and hospital treatment when travelling overseas;
+substitute
 
-                        (iii)    the cost of medical services (including emergency dental services) and hospital services received overseas if the cost is not covered by insurance; and
+                (f)    the following costs relating to medical and hospital services received by the Leader, Deputy Leader or Presiding Officer:
 
-                (f)    the cost of baggage insurance to the standard applying to an SES employee in the Department of Foreign Affairs and Trade; and
+                          (i)    the cost of vaccinations and medical supplies essential for travel overseas; 
 
-               (g)    equipment and clothing allowances equivalent to the standard applying to an SES employee in the Department of Foreign Affairs and Trade.
+                         (ii)    the cost of insurance for medical and hospital treatment for the Leader, Deputy Leader or Presiding Officer when travelling overseas; 
 
-       (2)    If, with the approval of the Prime Minister, a member is representing the Presiding Officer, the member is entitled to the same benefits under subitem (1) as the Presiding Officer.
+                        (iii)    the cost of medical services (including emergency dental services) and hospital services received overseas by the Leader, Deputy Leader or Presiding Officer if the cost is not covered by insurance; and
 
-       (3)    In this item:
+               (g)    the cost of baggage insurance to the standard applying to an employee in the Senior Executive Service in the Department of Foreign Affairs and Trade; and
 
-**_staff member_** means a person employed under the _Members of Parliament (Staff) Act 1984_.
-
-2A. (1)    For travel overseas on official business in a financial year by the Leader of the Opposition in the House of Representatives, and by other members of the Opposition as approved by the Leader of the Opposition, an amount equal to the cost of 4 scheduled first class around-the-world airfares as calculated:
-
-                (a)    on 1 July in that financial year; and
-
-               (b)    on the basis of a Sydney to London to Sydney via Eastern hemisphere route and Atlantic-Pacific route.
-
-       (2)    If, during a financial year, a person becomes the Leader of the Opposition in the House of Representatives because the person’s party has become the Opposition party or has joined one or more parties to become the Opposition:
-
-                (a)    during that year, the amount of the benefit mentioned in subitem (1) is taken to be an amount worked out by the formula:
-
-![](http://www.comlaw.gov.au/Details/C2011C00448/Html/cdae7ea7-fb8c-4d48-80a2-fc842dbbd897_files/image002.gif); and
-
-               (b)    the amount so worked out must be rounded to the nearest whole number that is greater than zero.
-
-_Note_   The number of days in the remainder of the financial year includes the day the party becomes the Opposition party or joins one or more parties to become the Opposition.
-
-       (3)    If, during a financial year, a person becomes the Leader of the Opposition in the House of Representatives in circumstances to which subitem (2) does not apply, the amount of the benefit mentioned in subitem (1) is taken to be the amount that was available to be used immediately before the person became the Leader.
-
-       (4)    The amount of the benefit mentioned in subitem (1) is to be used for:
-
-                (a)    the cost of travel of the Leader of the Opposition in the House of Representatives and other members of the Opposition; and
-
-               (b)    for the Leader and Deputy Leader of the Opposition in the House of Representatives, if the cost of his or her fares is being met by the amount of the benefit mentioned in subitem (1)—if a staff member is accompanying the Leader or Deputy Leader, as described in subitem (5), the cost of travel of a second staff member accompanying the Leader or Deputy Leader and travelling overseas at business class or a lower class; and
-
-                (c)    for any other Opposition member, if the cost of his or her fares is being met by the amount of the benefit mentioned in subitem (1)—the cost of travel of up to 2 staff members accompanying the member and travelling overseas at business class or a lower class, as approved by the Leader of the Opposition; and
-
-               (d)    for the Leader of the Opposition or other member—equipment and clothing allowances equivalent to the standard applying to an SES employee in the Department of Foreign Affairs and Trade.
-
-       (5)    In addition to the benefit mentioned in subitem (1), for travel overseas on official business in a financial year by the Leader or Deputy Leader of the Opposition in the House of Representatives, if the cost of his or her fares is being met by the amount of the benefit mentioned in subitem (1), the cost of travel of one staff member accompanying the Leader or Deputy Leader and travelling overseas at business class or a lower class.
-
-       (6)    In addition to the benefit mentioned in subitem (1), for travel overseas on official business in a financial year by the Leader of the Opposition in the House of Representatives and other members of the Opposition:
-
-                (a)    the following costs relating to medical and hospital services received by the Leader or member:
-
-                          (i)    the cost of vaccinations and medical supplies essential for travel overseas;
-
-                         (ii)    the cost of insurance for medical and hospital treatment when travelling overseas;
-
-                        (iii)    the cost of medical services (including emergency dental services) and hospital services received overseas if the cost is not covered by insurance; and
-
-               (b)    the cost of baggage insurance to the standard applying to an SES employee in the Department of Foreign Affairs and Trade.
-
-       (7)    In this item:
-
-**_staff member_** means a person employed under the _Members of Parliament (Staff) Act 1984_.
-
-2B.  (1)    For travel overseas on official business in a financial year by the leader of a minority party, and by other members of the minority party as approved by the leader of the minority party, an amount equal to the cost of one scheduled first class around‑the‑world airfare as calculated:
-
-                (a)    on 1 July in that financial year; and
-
-               (b)    on the basis of a Sydney to London to Sydney via Eastern hemisphere route and Atlantic-Pacific route.
-
-       (2)    If, during a financial year, a person becomes the leader of a minority party because the person’s party becomes a minority party:
-
-                (a)    during that year, the amount of the benefit mentioned in subitem (1) is taken to be an amount worked out by the formula:
-
-![](http://www.comlaw.gov.au/Details/C2011C00448/Html/cdae7ea7-fb8c-4d48-80a2-fc842dbbd897_files/image002.gif); and
-
-               (b)    the amount so worked out must be rounded to the nearest whole number that is greater than zero.
-
-_Note_   The number of days in the remainder of the financial year includes the day the party becomes a minority party.
-
-       (3)    If, during a financial year, a person becomes the leader of a minority party in circumstances to which subitem (2) does not apply, the amount of the benefit mentioned in subitem (1) is taken to be the amount that was available to be used immediately before the person became the leader.
-
-       (4)    The amount of the benefit mentioned in subitem (1) is to be used for:
-
-                (a)    the cost of travel of the leader of the minority party and other members of the minority party; and
-
-               (b)    for the leader of the minority party, if the cost of his or her fares is being met by the amount of the benefit mentioned in subitem (1)—if a staff member is accompanying the leader as described in subitem (5), the cost of travel of a second staff member accompanying the leader and travelling overseas at business class or a lower class; and
-
-                (c)    for any other member of the minority party, if the cost of his or her fares is being met by the amount of the benefit mentioned in subitem (1)—the cost of travel of up to 2 staff members accompanying the member and travelling overseas at business class or a lower class, as approved by the leader of the minority party; and
-
-               (d)    for the leader of the minority party or other member—equipment and clothing allowances equivalent to the standard applying to an SES employee in the Department of Foreign Affairs and Trade.
-
-       (5)    In addition to the benefit mentioned in subitem (1), for travel overseas on official business in a financial year by the leader of the minority party, if the cost of his or her fares is being met by the amount of the benefit mentioned in subitem (1), the cost of travel of one staff member accompanying the leader and travelling overseas at business class or a lower class.
-
-       (6)    In addition to the benefit mentioned in subitem (1), for travel overseas on official business in a financial year by the leader of the minority party and other members of the minority party:
-
-                (a)    the following costs relating to medical and hospital services received by the leader and other members of the minority party:
-
-                          (i)    the cost of vaccinations and medical supplies essential for travel overseas;
-
-                         (ii)    the cost of insurance for medical and hospital treatment when travelling overseas;
-
-                        (iii)    the cost of medical services (including emergency dental services) and hospital services received overseas if the cost is not covered by insurance; and
-
-               (b)    the cost of baggage insurance to the standard applying to an SES employee in the Department of Foreign Affairs and Trade.
-
-       (7)    In this item:
-
-**_staff member_** means a person employed under the _Members of Parliament (Staff) Act 1984_.
+               (h)    equipment and clothing allowances equivalent to the standard applying to an employee in the Senior Executive Service in the Department of Foreign Affairs and Trade.
 
 \[208A]    Subitem 3 (1)
 
-substitute
+after
 
-3.    (1)    The cost of travel overseas, and the cost of emergency medical and hospital treatment overseas (if required), by a spouse when accompanying a Minister or Presiding Officer travelling on official business.
+overseas
+
+insert
+
+, and the cost of emergency medical and hospital treatment overseas (if required),
 
 <a id="\[210]"></a>\[210]       Item 4
 
