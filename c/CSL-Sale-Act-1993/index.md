@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00788/Html/fa07235b-faa6-4309-b208-9570c7e5400f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00329/Html/ce79108c-68a8-4dc0-b787-70cbd0d84cc7_files/image001.gif)
 
 # CSL Sale Act 1993
 
 **Act No. 88 of 1993 as amended**
 
-This compilation was prepared on 6 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -30,6 +31,24 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [3](#3).            Interpretation
 
 [4](#4).            The sale day
+
+**Part 2—Amendment of the Commonwealth Serum Laboratories Act 1961**
+
+Sections 5‑7
+
+[8](#8).            Other amendments
+
+**Part 3—Amendment of the Long Service Leave (Commonwealth Employees) Regulations** 
+
+Sections 9, 10
+
+**Part 4—Amendment of the Maternity Leave (Commonwealth Employees) Regulations** 
+
+Sections 11, 12
+
+**Part 5—Amendment of the Proceeds of Crime Regulations** 
+
+Sections 13, 14
 
 **Part 6—Transitional and saving provisions** 
 
@@ -119,6 +138,12 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [52](#52).          Ending CSL’s liability under the _Commonwealth Borrowing Levy Act 1987_
 
+[53](#53).          Amendments of other Acts
+
+**Schedule 1—Other amendments of the Commonwealth Serum Laboratories Act 1961** 
+
+**Schedule 2—Amendments of other Acts** 
+
 **Notes** 
 
 ## An Act relating to the sale of CSL Limited, and for related purposes
@@ -184,6 +209,66 @@ Prepared by the Office of Parliamentary Counsel, Canberra
              (2)  The day to be specified in the notice is the day that, in the opinion of the Finance Minister, is the first day after the commencement of this Part on which a majority of the voting shares in CSL are acquired by a person, or persons, other than the Commonwealth or a nominee of the Commonwealth.
 
              (3)  The notice must be published within 14 days after the specified day.
+
+## Part 2—Amendment of the Commonwealth Serum Laboratories Act 1961
+
+##### Sections <a id="5‑7"></a>5‑7
+
+* * *
+
+**Note:**
+
+The amendments made by this Part are incorporated in the current compilation on ComLaw.
+
+For access to the wording of the amendments made by this Part, _see_ Act No. 88, 1993.
+
+* * *
+
+##### <a id="8"></a>8  Other amendments
+
+                   The Principal Act is further amended as set out in Schedule 1.
+
+## Part 3—Amendment of the Long Service Leave (Commonwealth Employees) Regulations
+
+##### Sections<a id=" 9, 10"></a> 9, 10
+
+* * *
+
+**Note:**
+
+The amendments made by this Part are incorporated in the current compilation on ComLaw.
+
+For access to the wording of the amendments made by this Part, _see_ Act No. 88, 1993.
+
+* * *
+
+## Part 4—Amendment of the Maternity Leave (Commonwealth Employees) Regulations
+
+##### Sections<a id=" 11, 12"></a> 11, 12
+
+* * *
+
+**Note:**
+
+The amendments made by this Part are incorporated in the current compilation on ComLaw.
+
+For access to the wording of the amendments made by this Part, _see_ Act No. 88, 1993.
+
+* * *
+
+## Part 5—Amendment of the Proceeds of Crime Regulations
+
+##### Sections<a id=" 13, 14"></a> 13, 14
+
+* * *
+
+**Note:**
+
+The amendments made by this Part are incorporated in the current compilation on ComLaw.
+
+For access to the wording of the amendments made by this Part, _see_ Act No. 88, 1993.
+
+* * *
 
 ## Part 6—Transitional and saving provisions
 
@@ -281,7 +366,7 @@ the CSL body must pay him or her an amount equal to full salary in respect of hi
 
                      (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “section 17 of the _CSL Sale Act 1993_”.
 
-##### <a id="18"></a>18  Payments on the death of an employee
+##### <a id="18"></a>18  Payments on the death of an employee
 
              (1)  This section applies in relation to a person who was an employee of CSL immediately before the sale day if, at that time, the employee’s period of service for the purposes of the Long Service Leave Act was less than 10 years.
 
@@ -434,7 +519,7 @@ including employees who have stopped being employees of a CSL body before the sa
 
              (1)  If a CSL body has paid a licence fee in respect of the licence fee year in which the sale day occurs under section 107R of the SRC Act, the CSL body is entitled to be paid an amount equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00788/Html/fa07235b-faa6-4309-b208-9570c7e5400f_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00329/Html/ce79108c-68a8-4dc0-b787-70cbd0d84cc7_files/image002.gif)
 
 where:
 
@@ -686,7 +771,7 @@ stop applying to the employee on the sale day.
 
              (1)  If a CSL body has paid a contribution to the cost of the administration of the _Occupational Health and Safety (Commonwealth Employment) Act 1991_ under section 67H of that Act in respect of the financial year in which the sale day occurs, then the CSL body is entitled to be paid the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00788/Html/fa07235b-faa6-4309-b208-9570c7e5400f_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00329/Html/ce79108c-68a8-4dc0-b787-70cbd0d84cc7_files/image003.gif)
 
 where:
 
@@ -711,6 +796,50 @@ where:
              (1)  Subject to subsection (2), CSL is not liable on or after the sale day to pay an amount of levy imposed by the _Commonwealth Borrowing Levy Act 1987_ on a borrowing undertaken before the sale day.
 
              (2)  Subsection (1) does not apply in relation to an amount of levy that was paid or payable before the sale day.
+
+##### <a id="53"></a>53  Amendments of other Acts
+
+                   The Acts specified in Schedule 2 are amended as set out in that Schedule.
+
+# Schedule 1—Other amendments of the Commonwealth Serum Laboratories Act 1961
+
+_Section 8_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the current compilation on ComLaw.
+
+Commonwealth Serum Laboratories Act 1961
+
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 88, 1993.
+
+* * *
+
+# Schedule 2—Amendments of other Acts
+
+_Section 53_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the current compilation on ComLaw.
+
+Administrative Decisions (Judicial Review) Act 1977
+
+Commonwealth Borrowing Levy Act 1987
+
+Insurance Act 1973
+
+National Crime Authority Act 1984<span style="font-size: 9.0pt;font-style:normal"> \[now cited as</span><span style="font-size:9.0pt"> </span>Australian Crime Commission Act 2002<span style="font-size:9.0pt;font-style:normal">]</span>
+
+Occupational Health and Safety (Commonwealth Employment) Act 1991<span style="font-size:9.0pt;font-style:normal"> \[now cited as </span><span style="font-size: 9.0pt">Occupational Health and Safety Act 1991</span><span style="font-size:9.0pt;font-style:normal">]</span>
+
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 88, 1993.
+
+* * *
 
 # Notes to the _CSL Sale Act 1993_
 
@@ -763,9 +892,9 @@ of Assent</div>
     <div>30 Nov 1993</div>
   </td>
   <td>
-    <div>Part 1, ss. 7 and 47: Royal Assent 
-Ss. 5 and 6: 22 Feb 1991 
-Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
+    <div>Part 1, ss. 7 and 47: Royal Assent 
+Ss. 5 and 6: 22 Feb 1991 
+Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
   </td>
   <td>
     <div></div>
@@ -782,7 +911,7 @@ Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 353, 354): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
+    <div>Schedule 1 (items 353, 354): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -802,7 +931,7 @@ Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
     <div>S. 4 and Schedule 1 (items 126, 496): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
+    <div>S. 4 and Sch. 1 (item 496)</div>
   </td>
 </tr>
 <tr>
@@ -816,7 +945,7 @@ Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
     <div>17 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 11 (item 12): 18 Dec 2010</div>
+    <div>Schedule 11 (item 12): 18 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -838,23 +967,6 @@ Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 34–36): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _CSL Sale Act 1993_ was amended by Schedule 1 (items 353 and 354) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
@@ -867,8 +979,8 @@ _(a)_     The _CSL Sale Act 1993_ was amended by Schedule 1 (items 3
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -903,130 +1015,10 @@ _(a)_     The _CSL Sale Act 1993_ was amended by Schedule 1 (items 3
   </tr>
   <tr>
     <td>
-      <div>S. 3</div>
+      <div>Ss. 3, 4</div>
     </td>
     <td>
       <div>am. No. 5, 2011</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4</div>
-    </td>
-    <td>
-      <div>am. No. 5, 2011</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part 2</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 8</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part 3</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 9</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 10</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part 4</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 11</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 12</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part 5</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 13</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14</div>
-    </td>
-    <td>
-      <div>rep. No. 136, 2012</div>
     </td>
   </tr>
   <tr>
@@ -1100,30 +1092,6 @@ _(a)_     The _CSL Sale Act 1993_ was amended by Schedule 1 (items 3
   </td>
   <td>
     <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
   </td>
 </tr></table>
 
