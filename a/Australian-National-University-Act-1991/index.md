@@ -1,24 +1,25 @@
-![](http://www.comlaw.gov.au/Details/C2008C00150/Html/AusNatUni91WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00716/Html/D22AA47DA78A3D74CA2570DD001315D5/$FILE/image001.gif)
 
 # Australian National University Act 1991
 
-**Act No. 131 of 1991 as amended**
+**Act No. 131 of 1991 as amended**
 
-This compilation was prepared on 3 June 2008
- taking into account amendments up to Act No. 20 of 2008
+This compilation was prepared on 20 December 2005
+taking into account amendments up to Act No. 143 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
 [1](#1).            Short title [_see_ Note 1]
 
@@ -26,15 +27,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Interpretation
 
-**Part 2—The Australian National University** 
+**Part 2—The Australian National University** 
 
-    **Division 1—Establishment of the University**
+    **Division 1—Establishment of the University**
 
 [4](#4).            Establishment of the University
 
 [4A](#4A).         Modification of the _Commonwealth Authorities and Companies Act 1997_
 
-[4B](#4B).         University’s financial year starts on 1 January
+[4B](#4B).         University’s financial year starts on 1 January
 
 [5](#5).            Functions of the University
 
@@ -42,7 +43,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Organisation of the University
 
-    **Division 2—The Council**
+    **Division 2—The Council**
 
 [8](#8).            The Council
 
@@ -78,17 +79,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18G](#18G).       Application of _Commonwealth Authorities and Companies Act 1997_
 
-    **Division 3—The Institute of Advanced Studies**
+    **Division 3—The Institute of Advanced Studies**
 
 [19](#19).          Constitution of the Institute
 
-    **Division 5—Convocation**
+    **Division 5—Convocation**
 
 [30](#30).          Constitution of Convocation
 
 [31](#31).          Quorum at meetings of Convocation
 
-    **Division 6—Senior officers of the University**
+    **Division 6—Senior officers of the University**
 
 [32](#32).          Chancellor
 
@@ -100,7 +101,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [37](#37).          Acting appointments
 
-    **Division 7—Miscellaneous**
+    **Division 7—Miscellaneous**
 
 [38](#38).          Execution of contracts
 
@@ -108,13 +109,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40](#40).          Religious test not to be administered
 
-**Part 3—Financial matters** 
+**Part 3—Financial matters** 
 
-    **Division 1—Fees**
+    **Division 1—Fees**
 
 [41](#41).          Fees
 
-    **Division 2—Finances of the University**
+    **Division 2—Finances of the University**
 
 [43](#43).          Application of fees and other money
 
@@ -122,7 +123,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [48](#48).          Taxation
 
-**Part 4—Statutes**
+**Part 4—Statutes**
 
 [50](#50).          Statutes
 
@@ -130,17 +131,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [52](#52).          Statutes to be published
 
-**Part 5—Consequential and transitional provisions** 
+**Part 5—Consequential and transitional provisions** 
 
-    **Division 1—Preliminary**
+    **Division 1—Preliminary**
 
 [53](#53).          Interpretation
 
-    **Division 2—Repeal**
+    **Division 2—Repeal**
 
 [54](#54).          Repeal
 
-    **Division 3—General**
+    **Division 3—General**
 
 [55](#55).          Senior officers to continue in office
 
@@ -168,17 +169,20 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+ 
+
+
 ## An Act to amend the constitution of the Australian National University and create within it a new institute to replace the Canberra Institute of the Arts, and for related purposes
 
-## Part 1—Preliminary
+## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Australian__National__University__Act 1991_.
+                   This Act may be cited as the _Australian__National__University__Act 1991_.
 
 ##### <a id="2"></a>2  Commencement
 
-                   This Act commences on 1 January 1992.
+                   This Act commences on 1 January 1992.
 
 ##### <a id="3"></a>3  Interpretation
 
@@ -194,15 +198,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="certif-holder"></a>**_certificate holder_**, in relation to an institution, means a person who has been awarded a certificate by the institution.
 
-                    <a name="chancellor"></a>**_Chancellor_** means the Chancellor of the University appointed under section 32.
+                    <a name="chancellor"></a>**_Chancellor_** means the Chancellor of the University appointed under section 32.
 
                     <a name="commenc"></a>**_commencement_** means the commencement of this Act.
 
-                    <a name="council"></a>**_Council_** means the Council referred to in section 8.
+                    <a name="council"></a>**_Council_** means the Council referred to in section 8.
 
                     <a name="dean"></a>**_dean_** means the head, by whatever name called, of any faculty.
 
-                    <a name="deputi-vice-chancellor"></a>**_Deputy Vice-Chancellor_** means a Deputy Vice-Chancellor of the University appointed under section 35.
+                    <a name="deputi-vice-chancellor"></a>**_Deputy Vice-Chancellor_** means a Deputy Vice-Chancellor of the University appointed under section 35.
 
                     <a name="elect"></a>**_elect_** includes re-elect.
 
@@ -226,17 +230,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  the academic staff of The Faculties.
 
-                    <a name="institut"></a>**_Institute_** means the Institute of Advanced   Studies referred to in paragraph 7(1)(a).
+                    <a name="institut"></a>**_Institute_** means the Institute of Advanced Studies referred to in paragraph 7(1)(a).
 
                     <a name="nomin-committe-council"></a>**_Nominations Committee of Council_** means the persons referred to in subsection 10(2).
 
                     <a name="origin-act"></a>**_original Act_** means the _Australian__National__University__Act 1946_.
 
-                    <a name="pro-chancellor"></a>**_Pro-Chancellor_** means the Pro-Chancellor of the University appointed under section 33.
+                    <a name="pro-chancellor"></a>**_Pro-Chancellor_** means the Pro-Chancellor of the University appointed under section 33.
 
                     <a name="professor"></a>**_professor_** does not include an assistant professor or an associate professor.
 
-                    <a name="statut"></a>**_Statute_** means a Statute of the University made by the Council under Part 4.
+                    <a name="statut"></a>**_Statute_** means a Statute of the University made by the Council under Part 4.
 
                     <a name="faculti"></a>**_The Faculties_** means the group of faculties and other bodies referred to in paragraph 7(1)(b).
 
@@ -248,11 +252,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  Convocation.
 
-                    <a name="vice-chancellor"></a>**_Vice-Chancellor_** means the Vice-Chancellor of the University appointed under section 34.
+                    <a name="vice-chancellor"></a>**_Vice-Chancellor_** means the Vice-Chancellor of the University appointed under section 34.
 
-## Part 2—The Australian National University
+## Part 2—The Australian National University
 
-### Division 1—Establishment of the University
+### Division 1—Establishment of the University
 
 ##### <a id="4"></a>4  Establishment of the University
 
@@ -266,7 +270,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  may acquire, hold and dispose of real and personal property.
 
-Note:         Subject to section 4A, the _Commonwealth Authorities and Companies Act 1997_ applies to the University. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking, and conduct of officers.
+Note:         Subject to section 4A, the _Commonwealth Authorities and Companies Act 1997_ applies to the University. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking, and conduct of officers.
 
              (3)  The seal of the University must be kept in such custody as the Council directs and may be used only as authorised by the Council.
 
@@ -274,13 +278,13 @@ Note:         Subject to section 4A, the _Commonwealth Authori
 
 ##### <a id="4A"></a>4A  Modification of the _Commonwealth Authorities and Companies Act 1997_
 
-             (1)  Section 14, subsection 18(3), and sections 28 and 29, of the _Commonwealth Authorities and Companies Act 1997_ do not apply in relation to the University.
+             (1)  Section 14, subsection 18(3), and sections 28 and 29, of the _Commonwealth Authorities and Companies Act 1997_ do not apply in relation to the University.
 
-             (2)  Nothing in section 16 of the _Commonwealth Authorities and Companies Act 1997_ requires the members of the Council to do anything that will or might affect the academic independence or integrity of the University.
+             (2)  Nothing in section 16 of the _Commonwealth Authorities and Companies Act 1997_ requires the members of the Council to do anything that will or might affect the academic independence or integrity of the University.
 
-##### <a id="4B"></a>4B  University’s financial year starts on 1 January
+##### <a id="4B"></a>4B  University’s financial year starts on 1 January
 
-                   For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the University’s financial year is a period of 12 months starting on 1 January.
+                   For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the University’s financial year is a period of 12 months starting on 1 January.
 
 ##### <a id="5"></a>5  Functions of the University
 
@@ -304,9 +308,9 @@ Note:         Subject to section 4A, the _Commonwealth Authori
 
 ##### <a id="6"></a>6  Powers of the University
 
-             (1)  Subject to Division 2 of Part 3, the University has power to do all things that are necessary or convenient to be done for, or in connection with, the performance of its functions.
+             (1)  Subject to Division 2 of Part 3, the University has power to do all things that are necessary or convenient to be done for, or in connection with, the performance of its functions.
 
-             (2)  The powers of the University under subsection (1) include, but are not limited to, the following powers:
+             (2)  The powers of the University under subsection (1) include, but are not limited to, the following powers:
 
                      (a)  to buy, take on lease or otherwise acquire real and personal property, and to sell, grant leases of, or otherwise dispose of, such property;
 
@@ -352,7 +356,7 @@ Note:         Subject to section 4A, the _Commonwealth Authori
 
              (1)  There are, within the University:
 
-                     (a)  an Institute of Advanced Studies constituted in accordance with section 19; and
+                     (a)  an Institute of Advanced Studies constituted in accordance with section 19; and
 
                      (b)  a group of faculties and other bodies determined by the Council, to be known as the “The Faculties”.
 
@@ -362,7 +366,7 @@ Note:         Subject to section 4A, the _Commonwealth Authori
 
                      (b)  in any other way draws its resources from the Institute and The Faculties.
 
-### Division 2—The Council
+### Division 2—The Council
 
 ##### <a id="8"></a>8  The Council
 
@@ -404,7 +408,7 @@ Note:         Subject to section 4A, the _Commonwealth Authori
 
                      (b)  6 other persons appointed by the Chancellor in accordance with guidelines determined by the Council.
 
-             (3)  In making recommendations to the Minister under paragraph (1)(q), the Nominations Committee of Council must have regard to the desirability of ensuring that there is a balance of skills, expertise and gender among members of the Council.
+             (3)  In making recommendations to the Minister under paragraph (1)(q), the Nominations Committee of Council must have regard to the desirability of ensuring that there is a balance of skills, expertise and gender among members of the Council.
 
              (4)  At least 2 of the members appointed under paragraph 10(1)(q) must have a high level of relevant financial expertise.
 
@@ -432,15 +436,15 @@ Note:         Subject to section 4A, the _Commonwealth Authori
 
                      (b)  decide not to appoint the person specified if, in the Minister’s opinion, the appointment is not in the best interests of the University.
 
-             (8)  If the Minister decides under paragraph (7)(b) not to appoint a person, the Minister must:
+             (8)  If the Minister decides under paragraph (7)(b) not to appoint a person, the Minister must:
 
                      (a)  notify the Council, in writing, of the refusal; and
 
                      (b)  give reasons for the refusal.
 
-             (9)  In deciding under paragraph (7)(b) not to appoint a person, the Minister must only consider the balance of skills, expertise and gender, and the periods of appointment (or proposed periods of appointment) of proposed and continuing members of the Council.
+             (9)  In deciding under paragraph (7)(b) not to appoint a person, the Minister must only consider the balance of skills, expertise and gender, and the periods of appointment (or proposed periods of appointment) of proposed and continuing members of the Council.
 
-           (10)  Subject to this Act, the members of the Council referred to in paragraphs (1)(k), (l), (m), (n), (o) and (p) hold office for such periods as the Statutes provide.
+           (10)  Subject to this Act, the members of the Council referred to in paragraphs (1)(k), (l), (m), (n), (o) and (p) hold office for such periods as the Statutes provide.
 
 ##### <a id="11"></a>11  Qualifications for membership of Council
 
@@ -476,9 +480,9 @@ the Pro-Chancellor is to preside at the meeting.
 
              (2)  A copy of the request and the text of the proposed resolution, must be sent to each member of the Council.
 
-             (3)  Subject to subsection (4), the resolution is passed if each of a majority of the members of the Council eligible to vote on that resolution signs a document containing the text of the resolution and returns it to the Chancellor or Pro-Chancellor (if he or she is a member of the Council).
+             (3)  Subject to subsection (4), the resolution is passed if each of a majority of the members of the Council eligible to vote on that resolution signs a document containing the text of the resolution and returns it to the Chancellor or Pro-Chancellor (if he or she is a member of the Council).
 
-             (4)  If the proposed resolution deals with whether a member of the Council has breached his or her duties under section 18A, 18B, 18C, 18D, 18E or 18F as a member of the Council, the resolution is passed if each of at least a two-thirds majority of the members of the Council eligible to vote on that resolution:
+             (4)  If the proposed resolution deals with whether a member of the Council has breached his or her duties under section 18A, 18B, 18C, 18D, 18E or 18F as a member of the Council, the resolution is passed if each of at least a two-thirds majority of the members of the Council eligible to vote on that resolution:
 
                      (a)  signs a document containing the text of the resolution; and
 
@@ -488,13 +492,13 @@ the Pro-Chancellor is to preside at the meeting.
 
                      (a)  the resolution relates to a matter in which the member has a direct or indirect pecuniary interest; or
 
-                     (b)  if the resolution deals with whether a member of the Council has breached his or her duties under section 18A, 18B, 18C, 18D, 18E or 18F as a member of the Council—he or she is the member to whom the resolution relates.
+                     (b)  if the resolution deals with whether a member of the Council has breached his or her duties under section 18A, 18B, 18C, 18D, 18E or 18F as a member of the Council—he or she is the member to whom the resolution relates.
 
 ##### <a id="15"></a>15  Vacation of office
 
              (1)  If a member of the Council (other than an _ex officio_ member):
 
-                     (a)  becomes disqualified under section 11 from remaining a member of the Council; or
+                     (a)  becomes disqualified under section 11 from remaining a member of the Council; or
 
                      (b)  dies; or
 
@@ -504,19 +508,19 @@ the Pro-Chancellor is to preside at the meeting.
 
                      (g)  in the case of a member referred to in paragraph 10(1)(k), (l), (m), (n), (o) or (p)—ceases to be qualified to be elected as mentioned in the paragraph concerned; or
 
-                      (i)  becomes a Deputy Vice-Chancellor of the University under section 35; or
+                      (i)  becomes a Deputy Vice-Chancellor of the University under section 35; or
 
-                      (j)  is or becomes disqualified from managing corporations under Part 2D.6 of the _Corporations Act 2001_; or
+                      (j)  is or becomes disqualified from managing corporations under Part 2D.6 of the _Corporations Act 2001_; or
 
-                     (k)  has, in the Council’s opinion formed by resolution passed as mentioned in subsection (1A) or subsection 13(4), breached his or her duties under section 18A, 18B, 18C, 18D, 18E or 18F  as a member of the Council; or
+                     (k)  has, in the Council’s opinion formed by resolution passed as mentioned in subsection (1A) or subsection 13(4), breached his or her duties under section 18A, 18B, 18C, 18D, 18E or 18F  as a member of the Council; or
 
                       (l)  is, in the Council’s opinion, incapable (other than on a temporary basis) of performing his or her duties;
 
 the member’s office becomes vacant.
 
-          (1A)  For the purposes of paragraph (1)(k), the Council forms its opinion by resolution passed at a meeting of the Council if the resolution is passed at the meeting by at least a two-thirds majority of the members of the Council.
+          (1A)  For the purposes of paragraph (1)(k), the Council forms its opinion by resolution passed at a meeting of the Council if the resolution is passed at the meeting by at least a two-thirds majority of the members of the Council.
 
-             (2)  If a person holding office as a member of the Council referred to in one of the paragraphs of subsection 10(1), other than paragraph (a) or (c), is, before otherwise ceasing to hold that office, appointed to the office of:
+             (2)  If a person holding office as a member of the Council referred to in one of the paragraphs of subsection 10(1), other than paragraph (a) or (c), is, before otherwise ceasing to hold that office, appointed to the office of:
 
                      (a)  Chancellor; or
 
@@ -526,7 +530,7 @@ that person ceases, upon being so appointed, to hold that first-mentioned office
 
 ##### <a id="16"></a>16  Casual vacancies
 
-             (1)  Where a vacancy in the membership of the Council occurs under section 15, that vacancy must be filled:
+             (1)  Where a vacancy in the membership of the Council occurs under section 15, that vacancy must be filled:
 
                      (a)  where the Statutes make provision for the filling of that casual vacancy—in the manner provided by the Statutes; or
 
@@ -534,7 +538,7 @@ that person ceases, upon being so appointed, to hold that first-mentioned office
 
              (2)  A person appointed to fill such a vacancy holds office for the remainder of the term of office of the person’s predecessor.
 
-             (3)  Subsection (2) does not apply, and does not prevent paragraph 10(7)(a) applying, to the filling of a vacancy in the membership of the Council if the vacancy is one to which paragraph 10(1)(q) relates.
+             (3)  Subsection (2) does not apply, and does not prevent paragraph 10(7)(a) applying, to the filling of a vacancy in the membership of the Council if the vacancy is one to which paragraph 10(1)(q) relates.
 
 ##### <a id="17"></a>17  Delegation to member of Council etc.
 
@@ -594,7 +598,7 @@ that person ceases, upon being so appointed, to hold that first-mentioned office
 
                      (b)  occupied the office held by, and had the same responsibilities within the Council as, the member.
 
-             (2)  A member of the Council who makes a business judgment is taken to meet the requirements of subsection (1), and their equivalent duties at common law and in equity, in respect of the judgment if he or she:
+             (2)  A member of the Council who makes a business judgment is taken to meet the requirements of subsection (1), and their equivalent duties at common law and in equity, in respect of the judgment if he or she:
 
                      (a)  makes the judgment in good faith for a proper purpose; and
 
@@ -636,9 +640,9 @@ Note:          This subsection only operates in relation to du
 
              (1)  A member of the Council who has a material personal interest in a matter that relates to the affairs of the University must give the other members of the Council notice of the interest.
 
-             (2)  Subsection (1) does not apply if the member of the Council is not, because of subsection 27F(2) of the _Commonwealth Authorities and Companies Act 1997_, required to give such a notice under subsection 27F(1) of that Act.
+             (2)  Subsection (1) does not apply if the member of the Council is not, because of subsection 27F(2) of the _Commonwealth Authorities and Companies Act 1997_, required to give such a notice under subsection 27F(1) of that Act.
 
-             (3)  A member of the Council who has an interest in a matter may give the other members of the Council standing notice of the nature and extent of the interest in the matter in accordance with section 27G of the _Commonwealth Authorities and Companies Act 1997_.
+             (3)  A member of the Council who has an interest in a matter may give the other members of the Council standing notice of the nature and extent of the interest in the matter in accordance with section 27G of the _Commonwealth Authorities and Companies Act 1997_.
 
              (4)  A member of the Council who has a material personal interest in a matter that is being considered at a meeting of the Council must not:
 
@@ -646,13 +650,13 @@ Note:          This subsection only operates in relation to du
 
                      (b)  vote on the matter;
 
-except as allowed under section 27J of the _Commonwealth Authorities and Companies Act 1997_.
+except as allowed under section 27J of the _Commonwealth Authorities and Companies Act 1997_.
 
 ##### <a id="18G"></a>18G  Application of _Commonwealth Authorities and Companies Act 1997_
 
-                   Nothing in sections 18A to 18F affects the application of the _Commonwealth Authorities and Companies Act 1997_ to members of the Council.
+                   Nothing in sections 18A to 18F affects the application of the _Commonwealth Authorities and Companies Act 1997_ to members of the Council.
 
-### Division 3—The Institute of Advanced Studies
+### Division 3—The Institute of Advanced Studies
 
 ##### <a id="19"></a>19  Constitution of the Institute
 
@@ -674,7 +678,7 @@ except as allowed under section 27J of the _Commonwealth Authorities and Compani
 
              (5)  The names of the other research schools and other bodies are as determined by the Council.
 
-### Division 5—Convocation
+### Division 5—Convocation
 
 ##### <a id="30"></a>30  Constitution of Convocation
 
@@ -698,7 +702,7 @@ except as allowed under section 27J of the _Commonwealth Authorities and Compani
 
                    At a meeting of Convocation a quorum is constituted by 50 members of Convocation.
 
-### Division 6—Senior officers of the University
+### Division 6—Senior officers of the University
 
 ##### <a id="32"></a>32  Chancellor
 
@@ -706,7 +710,7 @@ except as allowed under section 27J of the _Commonwealth Authorities and Compani
 
           (1A)  The Chancellor ceases to hold office as Chancellor if he or she becomes a student or an employee of the University.
 
-             (2)  Subject to subsection (1A) and the Statutes, the Chancellor holds office for such period, and on such conditions, as the Council determines.
+             (2)  Subject to subsection (1A) and the Statutes, the Chancellor holds office for such period, and on such conditions, as the Council determines.
 
 ##### <a id="33"></a>33  Pro-Chancellor
 
@@ -716,11 +720,11 @@ except as allowed under section 27J of the _Commonwealth Authorities and Compani
 
                      (a)  the period of his or her office as a member of the Council ends at a particular time; or
 
-                     (b)  his or her office as a member of the Council becomes vacant under section 15 at a particular time;
+                     (b)  his or her office as a member of the Council becomes vacant under section 15 at a particular time;
 
 he or she also ceases to hold office as Pro-Chancellor at that time.
 
-             (2)  Subject to subsection (1A) and the Statutes, the Pro-Chancellor holds office for such period, and on such conditions, as the Council determines.
+             (2)  Subject to subsection (1A) and the Statutes, the Pro-Chancellor holds office for such period, and on such conditions, as the Council determines.
 
 ##### <a id="34"></a>34  Vice-Chancellor
 
@@ -762,13 +766,13 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
                      (d)  the occasion to act had not arisen or had ceased.
 
-### Division 7—Miscellaneous
+### Division 7—Miscellaneous
 
 ##### <a id="38"></a>38  Execution of contracts
 
              (1)  Any contract that, if made between private persons, would be by law required to be in writing under seal may be made on behalf of the University in writing under the seal of the University.
 
-             (2)  Any contract to which subsection (1) does not apply may be made on behalf of the University by any person acting with the authority of the Council, express or implied, and, where such a contract is made in writing, it may be executed on behalf of the University by that person.
+             (2)  Any contract to which subsection (1) does not apply may be made on behalf of the University by any person acting with the authority of the Council, express or implied, and, where such a contract is made in writing, it may be executed on behalf of the University by that person.
 
 ##### <a id="39"></a>39  Validity of acts and proceedings
 
@@ -804,15 +808,15 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
                      (c)  the holding of any office.
 
-## Part 3—Financial matters
+## Part 3—Financial matters
 
-### Division 1—Fees
+### Division 1—Fees
 
 ##### <a id="41"></a>41  Fees
 
              (2)  Fees that are payable to the University, including student contribution amounts and tuition fees within the meaning of the _Higher Education Support Act 2003_, are payable in accordance with the Statutes.
 
-### Division 2—Finances of the University
+### Division 2—Finances of the University
 
 ##### <a id="43"></a>43  Application of fees and other money
 
@@ -828,7 +832,7 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
 ##### <a id="44"></a>44  Borrowing
 
-             (1)  Subject to subsection (2), the University may borrow money.
+             (1)  Subject to subsection (2), the University may borrow money.
 
              (2)  The University’s power to borrow is subject to such limits as the Finance Minister determines as to:
 
@@ -844,11 +848,11 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
 ##### <a id="48"></a>48  Taxation
 
-             (1)  Subject to subsection (2), the University is not subject to taxation under the laws of the Commonwealth or of a State or Territory.
+             (1)  Subject to subsection (2), the University is not subject to taxation under the laws of the Commonwealth or of a State or Territory.
 
              (2)  The University is subject to payroll tax under the law of a State or Territory.
 
-## Part 4—Statutes
+## Part 4—Statutes
 
 ##### <a id="50"></a>50  Statutes
 
@@ -858,7 +862,7 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
                      (b)  necessary or convenient to be prescribed by the Statutes for carrying out or giving effect to this Act.
 
-             (2)  The powers of the Council under subsection (1) include, but are not limited to, the power to make Statutes with respect to the following matters:
+             (2)  The powers of the Council under subsection (1) include, but are not limited to, the power to make Statutes with respect to the following matters:
 
                      (a)  the management, good government and discipline of the University;
 
@@ -868,7 +872,7 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
                              (ii)  persons employed by the University;
 
-                            for contravention of, or failure to comply with, a Statute made under paragraph (a);
+                            for contravention of, or failure to comply with, a Statute made under paragraph (a);
 
                      (c)  the method of any election provided for by this Act, and the determination of questions raised in relation to the conduct or result of any such election;
 
@@ -890,7 +894,7 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
                             (vi)  the appointment of committees of the University body; and
 
-                           (vii)  the quorums for meetings of committees mentioned in subparagraph (paragraph (vi), and the powers and duties of such committees;
+                           (vii)  the quorums for meetings of committees mentioned in subparagraph (vi), and the powers and duties of such committees;
 
                      (g)  the resignation of the following persons:
 
@@ -950,7 +954,7 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
              (4)  A rule or order so made has the same force as a Statute.
 
-             (5)  Subsection (3) does not permit the making of rules or orders:
+             (5)  Subsection (3) does not permit the making of rules or orders:
 
                      (a)  regulating, or providing for the regulation of, a matter referred to in subsection 51(1); or
 
@@ -964,7 +968,7 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
                      (b)  providing for the punishment, upon summary conviction, by a fine, of offences against such a Statute.
 
-             (2)  A Statute made under this section is not to be inconsistent with a law of the Australian Capital Territory (including an enactment as defined in section 3 of the _Australian Capital Territory (Self-Government) Act 1988_), but a Statute is not to be treated as inconsistent with such a law merely because it makes provisions with respect to a matter dealt with by that law, if the provisions can be obeyed without contravening that law.
+             (2)  A Statute made under this section is not to be inconsistent with a law of the Australian Capital Territory (including an enactment as defined in section 3 of the _Australian Capital Territory (Self-Government) Act 1988_), but a Statute is not to be treated as inconsistent with such a law merely because it makes provisions with respect to a matter dealt with by that law, if the provisions can be obeyed without contravening that law.
 
 ##### <a id="52"></a>52  Statutes to be published
 
@@ -988,11 +992,11 @@ is, in all proceedings, sufficient evidence of the Statute.
 
              (6)  The Statutes are to be numbered consecutively in the order in which they are notified in the _Gazette_.
 
-             (7)  A notice in the _Gazette_ of the fact that a Statute has been made that specifies the number of the Statute is sufficient compliance with the requirement of subsection (2) that the Statute be notified in the _Gazette_.
+             (7)  A notice in the _Gazette_ of the fact that a Statute has been made that specifies the number of the Statute is sufficient compliance with the requirement of subsection (2) that the Statute be notified in the _Gazette_.
 
-## Part 5—Consequential and transitional provisions
+## Part 5—Consequential and transitional provisions
 
-### Division 1—Preliminary
+### Division 1—Preliminary
 
 ##### <a id="53"></a>53  Interpretation
 
@@ -1020,9 +1024,9 @@ being an instrument or document subsisting immediately before the commencement.
 
                     <a name="liabil"></a>**_liabilities_** means liabilities of every kind, and includes, but is not limited to, obligations of every kind, whether arising under or by virtue of an instrument or otherwise, and whether liquidated or unliquidated, certain or contingent, accrued or accruing.
 
-                    <a name="repeal-enact"></a>**_repealed enactment_** means an enactment repealed by section 54.
+                    <a name="repeal-enact"></a>**_repealed enactment_** means an enactment repealed by section 54.
 
-### Division 2—Repeal
+### Division 2—Repeal
 
 ##### <a id="54"></a>54  Repeal
 
@@ -1030,11 +1034,11 @@ being an instrument or document subsisting immediately before the commencement.
 
              (2)  The Arts Institute Ordinance is repealed.
 
-### Division 3—General
+### Division 3—General
 
 ##### <a id="55"></a>55  Senior officers to continue in office
 
-             (1)  A person who, immediately before the commencement, held under the original Act the office of Chancellor, Pro-Chancellor, Vice-Chancellor or Deputy Vice-Chancellor (in this section called the **_previous office_**) is taken to have been, on the commencement, duly appointed under Part 2 to:
+             (1)  A person who, immediately before the commencement, held under the original Act the office of Chancellor, Pro-Chancellor, Vice-Chancellor or Deputy Vice-Chancellor (in this section called the **_previous office_**) is taken to have been, on the commencement, duly appointed under Part 2 to:
 
                      (a)  the office of Chancellor; or
 
@@ -1060,17 +1064,17 @@ being an instrument or document subsisting immediately before the commencement.
 
              (1)  This section applies to:
 
-                     (a)  a Statute made by the Council of the University under section 27 or 27A of the original Act; and
+                     (a)  a Statute made by the Council of the University under section 27 or 27A of the original Act; and
 
-                     (b)  a Statute made by the Board of the Arts Institute under section 16 of the Arts Institute Ordinance;
+                     (b)  a Statute made by the Board of the Arts Institute under section 16 of the Arts Institute Ordinance;
 
 that was in force immediately before the commencement (in this section called a **_continued statute_**).
 
              (2)  A continued statute has effect after the commencement as if:
 
-                     (a)  it were a Statute of the University duly made by the Council under Part 4; and
+                     (a)  it were a Statute of the University duly made by the Council under Part 4; and
 
-                     (b)  the requirements of section 52 had been complied with in relation to it;
+                     (b)  the requirements of section 52 had been complied with in relation to it;
 
 and may accordingly be amended or repealed by the Council.
 
@@ -1080,19 +1084,19 @@ and may accordingly be amended or repealed by the Council.
 
                      (a)  a continued statute; or
 
-                     (b)  any rules or orders referred to in subsection (3);
+                     (b)  any rules or orders referred to in subsection (3);
 
 the Council may make such decision as it thinks proper to resolve the difficulty.
 
-             (5)  A reference in subsection (4) to a difficulty arising includes a reference to a difficulty arising because of a conflict or inconsistency between 2 or more continued statutes or between rules or orders made under 2 or more continued statutes.
+             (5)  A reference in subsection (4) to a difficulty arising includes a reference to a difficulty arising because of a conflict or inconsistency between 2 or more continued statutes or between rules or orders made under 2 or more continued statutes.
 
-             (6)  A decision made under subsection (4) has effect in spite of anything contained in a continued statute or in any rules or orders referred to in subsection (3).
+             (6)  A decision made under subsection (4) has effect in spite of anything contained in a continued statute or in any rules or orders referred to in subsection (3).
 
 ##### <a id="58"></a>58  Transfer of assets and liabilities of the Arts Institute
 
              (1)  At the commencement, the assets and liabilities of the Arts Institute become assets and liabilities of the University.
 
-             (2)  The following provisions apply to assets and liabilities that have become assets and liabilities of the University because of subsection (1):
+             (2)  The following provisions apply to assets and liabilities that have become assets and liabilities of the University because of subsection (1):
 
                      (a)  an asset that was, immediately before the commencement, held by the Arts Institute on trust must, after the commencement, be held by the University on trust and subject to the terms of the trust on which the asset was so held by the Arts Institute; 
 
@@ -1134,11 +1138,11 @@ the officer with whom the certificate is lodged may deal with and give effect to
 
                      (c)  is taken to have accrued an entitlement to benefits in connection with that employment that is equivalent to the entitlement that the person had accrued in connection with employment as a member of the staff of the Arts Institute immediately before the commencement.
 
-             (2)  Where, because of subsection (1), a person is taken to have been employed as a member of the staff of the University with effect from the commencement, that employment is taken for all purposes to have been continuous with the employment of the person immediately before the commencement as a member of the staff of the Arts Institute.
+             (2)  Where, because of subsection (1), a person is taken to have been employed as a member of the staff of the University with effect from the commencement, that employment is taken for all purposes to have been continuous with the employment of the person immediately before the commencement as a member of the staff of the Arts Institute.
 
 ##### <a id="63"></a>63  Students of the Arts Institute
 
-             (1)  A person who, immediately before the commencement, was enrolled, or entitled to be enrolled, as a student in a course of study offered by the Arts Institute is entitled to enrol, not later than 31 December 1992, as a student of the University in a course of study that is the same as, or substantially similar to, the first-mentioned course of study.
+             (1)  A person who, immediately before the commencement, was enrolled, or entitled to be enrolled, as a student in a course of study offered by the Arts Institute is entitled to enrol, not later than 31 December 1992, as a student of the University in a course of study that is the same as, or substantially similar to, the first-mentioned course of study.
 
              (2)  Where:
 
@@ -1168,19 +1172,20 @@ the person is, in the academic year in which the person would, by the terms of t
 
 ##### <a id="66"></a>66  Annual report and financial statements
 
-                   Sections 47 and 49 apply in relation to the year ending on 31 December 1992, subject to the following qualifications:
+                   Sections 47 and 49 apply in relation to the year ending on 31 December 1992, subject to the following qualifications:
 
-                     (a)  the accounts and records to which section 47 applies are the accounts and records of the University and such of the accounts and records of the Arts Institute as are in the possession of the University;
+                     (a)  the accounts and records to which section 47 applies are the accounts and records of the University and such of the accounts and records of the Arts Institute as are in the possession of the University;
 
-                     (b)  the Council and the Auditor-General may, in discharging their obligations under section 49, rely on accounts and records of the Arts Institute that are in the possession of the University or to which the Council is allowed access and on any other information provided to the Council by any person who held an office established by a repealed enactment or who was a member of the staff of the Arts Institute;
+                     (b)  the Council and the Auditor-General may, in discharging their obligations under section 49, rely on accounts and records of the Arts Institute that are in the possession of the University or to which the Council is allowed access and on any other information provided to the Council by any person who held an office established by a repealed enactment or who was a member of the staff of the Arts Institute;
 
                      (c)  for the purposes of paragraph 49(2)(c), **_this Act_** includes the original Act and the Arts Institute Ordinance.
+
 
 # Notes to the _Australian National University Act 1991_
 
 ### Note 1
 
-The _Australian__National__University__Act 1991_ as shown in this compilation comprises Act No. 131, 1991 amended as indicated in the Tables below. 
+The _Australian__National__University__Act 1991_ as shown in this compilation comprises Act No. 131, 1991 amended as indicated in the Tables below. 
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -1202,11 +1207,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1216,265 +1223,258 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Australian National University Act 1991</div>
-  </td>
-  <td>
-    <div>131, 1991</div>
-  </td>
-  <td>
-    <div>2 Sept 1991</div>
-  </td>
-  <td>
-    <div>1 Jan 1992</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Higher Education Funding Amendment Act (No. 2) 1992</div>
-  </td>
-  <td>
-    <div>158, 1992</div>
-  </td>
-  <td>
-    <div>11 Dec 1992</div>
-  </td>
-  <td>
-    <div>Part 1 (ss. 1, 2): Royal Assent 
-Parts 2, 3 (ss. 
-3–46) and Part 5 (ss. 60-70): 1 Jan 1993 
-Remainder: 1 Jan 1994</div>
-  </td>
-  <td>
-    <div>S. 38(3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations and other Legislation Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>168, 1995</div>
-  </td>
-  <td>
-    <div>16 Dec 1995</div>
-  </td>
-  <td>
-    <div>Ss. 1–12, Schedules 5 and 7–10: Royal Assent 
+<tbody>
+  <tr>
+    <td>
+      <div>Australian National University Act 1991</div>
+    </td>
+    <td>
+      <div>131, 1991</div>
+    </td>
+    <td>
+      <div>2 Sept 1991</div>
+    </td>
+    <td>
+      <div>1 Jan 1992</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Higher Education Funding Amendment Act (No. 2) 1992</div>
+    </td>
+    <td>
+      <div>158, 1992</div>
+    </td>
+    <td>
+      <div>11 Dec 1992</div>
+    </td>
+    <td>
+      <div>Part 1 (ss. 1, 2): Royal Assent 
+Parts 2, 3 (ss. 
+3–46) and Part 5 (ss. 60-70): 1 Jan 1993 
+Remainder: 1 Jan 1994 
+
+</div>
+    </td>
+    <td>
+      <div>S. 38(3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations and other Legislation Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>168, 1995</div>
+    </td>
+    <td>
+      <div>16 Dec 1995</div>
+    </td>
+    <td>
+      <div>Ss. 1–12, Schedules 5 and 7–10: Royal Assent 
 S. 13: 13 Jan 1996 
-Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 5): 2 Sept 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 415–422): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td>
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 45): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Higher Education Funding Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>86, 2001</div>
-  </td>
-  <td>
-    <div>18 July 2001</div>
-  </td>
-  <td>
-    <div>Schedule 3: Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003</div>
-  </td>
-  <td>
-    <div>150, 2003</div>
-  </td>
-  <td>
-    <div>19 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 20–63): 1 July 2004</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 37)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Bankruptcy Legislation Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>80, 2004</div>
-  </td>
-  <td>
-    <div>23 June 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 191, 212, 213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 212, 213, 215)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Higher Education Legislation Amendment Act (No. 2) 2004</div>
-  </td>
-  <td>
-    <div>114, 2004</div>
-  </td>
-  <td>
-    <div>13 July 2004</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 39–45, 80): 14 July 2004 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (items 
-20–22)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Higher Education Legislation Amendment Act (No. 3) 2004</div>
-  </td>
-  <td>
-    <div>157, 2004</div>
-  </td>
-  <td>
-    <div>17 Dec 2004</div>
-  </td>
-  <td>
-    <div>Schedule 3: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 56, 57, 174): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 174)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005</div>
-  </td>
-  <td>
-    <div>143, 2005</div>
-  </td>
-  <td>
-    <div>14 Dec 2005</div>
-  </td>
-  <td>
-    <div>Schedule 8 (item 1): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Authorities and Companies Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>20, 2008</div>
-  </td>
-  <td>
-    <div>26 May 2008</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 3): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: 15 Jan 1996 ( <i>see Gazette</i>1996, No. S16) 
 
-_(a)_     The _Australian__National__University__Act 1991_ was amended by Schedule 2 (items 415–422) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 3 (item 5): 2 Sept 1991</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 415–422): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporate Law Economic Reform Program Act 1999</div>
+    </td>
+    <td>
+      <div>156, 1999</div>
+    </td>
+    <td>
+      <div>24 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 10 (item 45): 13 Mar 2000 ( <i>see</i> <i>Gaz ette</i>2000,No. S114) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Higher Education Funding Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>86, 2001</div>
+    </td>
+    <td>
+      <div>18 July 2001</div>
+    </td>
+    <td>
+      <div>Schedule 3: Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003</div>
+    </td>
+    <td>
+      <div>150, 2003</div>
+    </td>
+    <td>
+      <div>19 Dec 2003</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 20–63): 1 July 2004</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 37)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Bankruptcy Legislation Amendment Act 2004</div>
+    </td>
+    <td>
+      <div>80, 2004</div>
+    </td>
+    <td>
+      <div>23 June 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 191, 212, 213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 212, 213, 215)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Higher Education Legislation Amendment Act (No. 2) 2004</div>
+    </td>
+    <td>
+      <div>114, 2004</div>
+    </td>
+    <td>
+      <div>13 July 2004</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 39–45, 80): 14 July 2004 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 4 (items 
+20–22) 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Higher Education Legislation Amendment Act (No. 3) 2004</div>
+    </td>
+    <td>
+      <div>157, 2004</div>
+    </td>
+    <td>
+      <div>17 Dec 2004</div>
+    </td>
+    <td>
+      <div>Schedule 3: Royal Assent</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 56, 57, 174): Royal Assent</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 174)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Higher Education Legislation Amendment (2005 Measures No. 3) Act 2005</div>
+    </td>
+    <td>
+      <div>143, 2005</div>
+    </td>
+    <td>
+      <div>14 Dec 2005</div>
+    </td>
+    <td>
+      <div>Schedule 8 (item 1): Royal Assent</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(b)_    The _Australian__National__University__Act 1991_ was amended by Schedule 10 (item 45) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(a)_     The _Australian__National__University__Act 1991_ was amended by Schedule 2 (items 415–422) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+_(b)_    The _Australian__National__University__Act 1991_ was amended by Schedule 10 (item 45) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
-                              (c)   the items in Schedules 10, 11 and 12\. 
+                              (c)   the items in Schedules 10, 11 and 12\. 
 
-_(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3 only of the _Higher Education Funding Amendment Act 2001_, subsection 2(1) of which provides as follows:
+_(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3 only of the _Higher Education Funding Amendment Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
 
 ## Table of Amendments
 
@@ -1499,455 +1499,445 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule�
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 86, 2001; No. 150, 2003; No. 114, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 4(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 4A, 4B</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 86, 2001; No. 150, 2003; Nos. 114 and 157, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12, 13</div>
-  </td>
-  <td>
-    <div>am. No. 114, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 156, 1999; No. 86, 2001; No. 150, 2003; No. 114, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 16–18</div>
-  </td>
-  <td>
-    <div>am. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18A–18G</div>
-  </td>
-  <td>
-    <div>ad. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 86, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 21–24</div>
-  </td>
-  <td>
-    <div>rep. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4</div>
-  </td>
-  <td>
-    <div>rep. No. 143, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 86, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 26–29</div>
-  </td>
-  <td>
-    <div>rep. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 32, 33</div>
-  </td>
-  <td>
-    <div>am. No. 114, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>rep. No. 168, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>rs. No. 158, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>rep. No. 158, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 158, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 45–47</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 158, 1992; No. 152, 1997; No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 52</div>
-  </td>
-  <td>
-    <div>am. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part 5</div>
-  </td>
-  <td>
-    <div>rep. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 67–75</div>
-  </td>
-  <td>
-    <div>rep. No. 150, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 5 of Part 5</div>
-  </td>
-  <td>
-    <div>rep. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 76, 77</div>
-  </td>
-  <td>
-    <div>rep. No. 43, 1996</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 86, 2001; No. 150, 2003; No. 114, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 4(2)</div>
+    </td>
+    <td>
+      <div>ad. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 4A, 4B</div>
+    </td>
+    <td>
+      <div>ad. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 86, 2001; No. 150, 2003; Nos. 114 and 157, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 80, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 12, 13</div>
+    </td>
+    <td>
+      <div>am. No. 114, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 156, 1999; No. 86, 2001; No. 150, 2003; No. 114, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 16–18</div>
+    </td>
+    <td>
+      <div>am. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 18A–18G</div>
+    </td>
+    <td>
+      <div>ad. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 86, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 21–24</div>
+    </td>
+    <td>
+      <div>rep. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 4</div>
+    </td>
+    <td>
+      <div>rep. No. 143, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>am. No. 86, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 26–29</div>
+    </td>
+    <td>
+      <div>rep. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 32, 33</div>
+    </td>
+    <td>
+      <div>am. No. 114, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>rep. No. 168, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>am. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>rs. No. 158, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>rep. No. 158, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>am. No. 158, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 45–47</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 158, 1992; No. 152, 1997; No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>am. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 52</div>
+    </td>
+    <td>
+      <div>am. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52</div>
+    </td>
+    <td>
+      <div>am. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 4 of Part 5</div>
+    </td>
+    <td>
+      <div>rep. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 67–75</div>
+    </td>
+    <td>
+      <div>rep. No. 150, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 5 of Part 5</div>
+    </td>
+    <td>
+      <div>rep. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 76, 77</div>
+    </td>
+    <td>
+      <div>rep. No. 43, 1996</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Commonwealth Authorities and Companies Amendment Act 2008 
- (No. 20, 2008)_
-
-The following amendment commences on 1 July 2008:
-
-## Schedule 2
-
-## 3  Subsection 4A(1)
-
-Omit “and 29”, substitute “, 29 and 48A”.
-
-As at 3 June 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003 (No. 150, 2003)_
+_Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003 (No. 150, 2003)_
 
-## Schedule 2
+## Schedule 2
 
 ## 37  Operation of Nominations Committee prior to commencement
 
-If, because of section 4 of the _Acts Interpretation Act 1901_, persons are appointed to the Nominations Committee of the Council prior to the commencement of this item:
+If, because of section 4 of the _Acts Interpretation Act 1901_, persons are appointed to the Nominations Committee of the Council prior to the commencement of this item:
 
                      (a)  the Nominations Committee may make recommendations to the Minister for appointment of persons to the Council as if this item had commenced; and
 
                      (b)  despite subsection 4(2) of that Act, the appointment of persons to the Nominations Committee of the Council is taken to have taken effect before the making of any such recommendation.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
+ </div>
 
-## Schedule 1
+_Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
+
+## Schedule 1
 
 ## 212  Transitional—pre-commencement deeds and compositions
 
-(1)        For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
+(1)        For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
 
-(2)        For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
+(2)        For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
 
-(3)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(3)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
-                     (b)  the Acts amended by Part 2 of this Schedule;
+                     (b)  the Acts amended by Part 2 of this Schedule;
 
 continue to apply, in relation to:
 
@@ -1967,23 +1957,23 @@ as if those repeals had not happened and those amendments had not been made.
 
 (1)        For the purposes of this item, if:
 
-                     (a)  an authority given by a debtor under section 188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and
+                     (a)  an authority given by a debtor under section 188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and
 
                      (b)  as at the commencement of this item, none of the following had happened:
 
-                              (i)  the execution by the debtor and the trustee of a deed of assignment under Part X of the _Bankruptcy Act 1966_;
+                              (i)  the execution by the debtor and the trustee of a deed of assignment under Part X of the _Bankruptcy Act 1966_;
 
-                             (ii)  the execution by the debtor and the trustee of a deed of arrangement under Part X of the _Bankruptcy Act 1966_;
+                             (ii)  the execution by the debtor and the trustee of a deed of arrangement under Part X of the _Bankruptcy Act 1966_;
 
-                            (iii)  the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the _Bankruptcy Act 1966_;
+                            (iii)  the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the _Bankruptcy Act 1966_;
 
 the authority is a **_pre-commencement authority_**.
 
-(2)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(2)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
-                     (b)  the Acts amended by Part 2 of this Schedule;
+                     (b)  the Acts amended by Part 2 of this Schedule;
 
 continue to apply, in relation to:
 
@@ -1995,9 +1985,9 @@ continue to apply, in relation to:
 
                       (f)  whichever of the following is applicable:
 
-                              (i)  a deed of assignment executed after the commencement of this item by the debtor and the trustee under Part X of the _Bankruptcy Act 1966_ in accordance with a special resolution of such a meeting;
+                              (i)  a deed of assignment executed after the commencement of this item by the debtor and the trustee under Part X of the _Bankruptcy Act 1966_ in accordance with a special resolution of such a meeting;
 
-                             (ii)  a deed of arrangement executed after the commencement of this item by the debtor and the trustee under Part X of the _Bankruptcy Act 1966_ in accordance with a special resolution of such a meeting;
+                             (ii)  a deed of arrangement executed after the commencement of this item by the debtor and the trustee under Part X of the _Bankruptcy Act 1966_ in accordance with a special resolution of such a meeting;
 
                             (iii)  a composition accepted after the commencement of this item by a special resolution of such a meeting; and
 
@@ -2005,25 +1995,27 @@ continue to apply, in relation to:
 
                               (i)  a pre-commencement authority; or
 
-                             (ii)  a deed of assignment mentioned in subparagraph (f)(i); or
+                             (ii)  a deed of assignment mentioned in subparagraph (f)(i); or
 
-                            (iii)  a deed of arrangement mentioned in subparagraph (f)(ii); or
+                            (iii)  a deed of arrangement mentioned in subparagraph (f)(ii); or
 
-                            (iv)  a composition mentioned in subparagraph (f)(iii);
+                            (iv)  a composition mentioned in subparagraph (f)(iii);
 
 as if those repeals had not happened and those amendments had not been made.
 
 ## 215  Transitional—regulations
 
-(1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
+(1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
-(2)        The Governor-General may make regulations for the purposes of subitem (1).
+(2)        The Governor-General may make regulations for the purposes of subitem (1).
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Higher Education Legislation Amendment Act (No. 2) 2004 (No. 114, 2004)_
+ </div>
 
-## Schedule 4
+_Higher Education Legislation Amendment Act (No. 2) 2004 (No. 114, 2004)_
+
+## Schedule 4
 
 ## 20  Definition
 
@@ -2033,25 +2025,27 @@ In this Part:
 
 ## 21  Amendments relating to the Chancellor
 
-The amendments of section 32 of the Principal Act made by this Act apply to each person holding office as Chancellor under that section on or after the commencement of this item, whether that person was appointed to that office before, on or after that commencement.
+The amendments of section 32 of the Principal Act made by this Act apply to each person holding office as Chancellor under that section on or after the commencement of this item, whether that person was appointed to that office before, on or after that commencement.
 
 ## 22  Amendments relating to the Pro-Chancellor
 
 (1)        This item applies to a person who holds office as Pro-Chancellor immediately before the commencement of this item.
 
-(2)        The appointment of the person as Pro-Chancellor continues in force after the commencement of this item as if it had been made under section 33 of the Principal Act as amended by this Act.
+(2)        The appointment of the person as Pro-Chancellor continues in force after the commencement of this item as if it had been made under section 33 of the Principal Act as amended by this Act.
 
 (3)        For the purposes of the Principal Act as amended by this Act, the person is taken, on the commencement of this item:
 
                      (a)  to have been appointed to the Council by the Minister under paragraph 10(1)(q) of the Principal Act on the recommendation of the Nominations Committee of Council; and
 
-                     (b)  to have been so appointed for a period equal to the remainder of the period of his or her office as Pro-Chancellor if no amendment of section 33 of the Principal Act had been made by this Act.
+                     (b)  to have been so appointed for a period equal to the remainder of the period of his or her office as Pro-Chancellor if no amendment of section 33 of the Principal Act had been made by this Act.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+ </div>
 
-## Schedule 2
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+
+## Schedule 2
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
@@ -2070,6 +2064,7 @@ continues to have effect after the commencing time as if it had been done by the
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
+
 
  
 
