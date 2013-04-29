@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00446/Html/73CEAC6BD98471A5CA2571AE000CF97D/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00314/Html/AEBE4F039EC549B6CA25719200813CFA/$FILE/image001.gif)
 
 # Royal Commissions Act 1902
 
 **Act No. 12 of 1902 as amended**
 
-This compilation was prepared on 13 July 2006
-taking into account amendments up to Act No. 86 of 2006
+This compilation was prepared on 19 June 2006
+taking into account amendments up to Act No. 52 of 2006
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -91,11 +91,11 @@ Attorney-General’s Department, Canberra
 
     **LEGAL PROCEEDINGS**
 
-[10](#10).          Institution of proceedings in respect of other offences                     23
+[10](#10).          Institution of proceedings in respect of other offences                     24
 
-[15](#15).          Costs                                                                                                  23
+[15](#15).          Costs                                                                                                  24
 
-[16](#16).          Evidence of issue of Commission etc                                                23
+[16](#16).          Evidence of issue of Commission etc                                                24
 
 [17](#17).          Regulations                                                                                        25
 
@@ -1149,23 +1149,6 @@ Remainder: Royal Assent
       <div>Sch. 1 (item 9) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006</div>
-    </td>
-    <td>
-      <div>86, 2006</div>
-    </td>
-    <td>
-      <div>30 June 2006</div>
-    </td>
-    <td colspan="2">
-      <div>Schedule 1 (items 57–59): \[ <i>see</i>Note 2]</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
   <tr height="0">
     <td></td>
     <td></td>
@@ -1891,39 +1874,6 @@ _(f)_      The _Royal Commissions Act 1902_ was amended by sections 
     </td>
   </tr>
 </tbody></table>
-
-
-### Note 2
-
-_Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006 (No. 86, 2006)_
-
-The following amendments commence on 30 December 2006 unless proclaimed earlier:
-
-## Schedule 1
-
-## 57  Subsection 6F(2)
-
-Omit “or (2A)”, substitute “, (2A) or (2B)”.
-
-## 58  After subsection 6P(2A)
-
-Insert:
-
-          (2B)  If, in the course of inquiry into a matter, a Commission:
-
-                     (a)  obtains information; or
-
-                     (b)  takes evidence; or
-
-                     (c)  receives a document or thing;
-
-that, in the opinion of the Commission, relates or may relate to the performance of the functions of the Integrity Commissioner (within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_), the Commission may, if in its opinion it is appropriate so to do, communicate the information or furnish the evidence, document or thing, as the case may be, to the Integrity Commissioner.
-
-## 59  Subsection 6P(3)
-
-Omit “or (2A)”, substitute “, (2A) or (2B)”.
-
-As at 13 July 2006 the amendments are not incorporated in this compilation.
 
 
 ## Table A
