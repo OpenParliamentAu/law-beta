@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00477/Html/6e7ad3bc-7aaa-442e-a9a9-7e14c66c0cca_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00415/Html/e823574b-b356-47e9-a509-744cab3d68a5_files/image001.gif)
 
 # Data‑matching Program (Assistance and Tax) Act 1990
 
 **Act No. 20 of 1991 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 3 June 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -98,7 +98,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  the Department of Veterans’ Affairs; or
 
-                     (e)  the Human Services Department.
+                     (e)  the Services Delivery Agency.
 
                     <a name="assisted-person"></a>**_assisted person_** means a person:
 
@@ -114,7 +114,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  the person’s TFN data.
 
-                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
+                    <a name="ceo"></a>**_CEO_** means the Chief Executive Officer of the Services Delivery Agency.
 
                     <a name="child"></a>**_child_**, in relation to a person, includes anyone who is the person’s child for the purposes of any personal assistance or any tax law.
 
@@ -125,6 +125,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="declar-incom"></a>**_declared income_**, in relation to a person, means any income, or income of a particular kind, of the person for the purposes of any personal assistance or tax law.
 
                     <a name="depend"></a>**_dependant_**, in relation to a person, includes anyone who is the person’s dependant for the purposes of any personal assistance or tax law.
+
+                    <a name="employe"></a>**_employee_**, in relation to the Services Delivery Agency, has the same meaning as in the _Commonwealth Services Delivery Agency Act 1997_.
 
                     <a name="famili-ident-data"></a>**_family identity data_**, in relation to a person, means any of the following data about the person:
 
@@ -172,10 +174,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (w)  kind of personal assistance of the person.
 
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
-
-                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Centrelink) Act 1997_.
-
                     <a name="identif-number-purpos-person-assist"></a>**_identification number for the purpose of personal assistance_** has the meaning given by subsection (2).
 
                     <a name="incom-data"></a>**_income data_**, in relation to a person, means:
@@ -194,7 +192,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  unless a direction under section 3A is in force—the officers of the Department of Social Security referred to in subsection 4(1); or
 
-                     (b)  if a direction under section 3A is in force—the Departmental employees (within the meaning of the _Human Services (Centrelink) Act 1997_) referred to in subsection 4(2).
+                     (b)  if a direction under section 3A is in force—the employees of the Services Delivery Agency referred to in subsection 4(2).
 
                     <a name="offic"></a>**_officer_**, in relation to a source agency, means a person with duties, powers or functions in relation to an Act matters under which are dealt with by the agency.
 
@@ -204,7 +202,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="person-assist"></a>**_personal assistance_** means:
 
-                     (b)  any assistance dealt with by the Department of Employment, Education and Training or by the Human Services Department and known as any of the following:
+                     (b)  any assistance dealt with by the Department of Employment, Education and Training or by the Services Delivery Agency and known as any of the following:
 
                               (i)  assistance under the AUSTUDY Scheme;
 
@@ -224,7 +222,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                   (caa)  a seniors health card referred to in subsection 1061ZG(1) of the _Social Security Act 1991_; or
 
-                    (ca)  formal training allowance dealt with by the Department of Social Security or by the Human Services Department; or
+                    (ca)  formal training allowance dealt with by the Department of Social Security or by the Services Delivery Agency; or
 
                    (cb)  a payment of financial supplement under:
 
@@ -244,7 +242,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    (dd)  family assistance within the meaning of the _A New Tax System (Family Assistance) Act 1999_; or
 
-                   (de)  a payment of fee relief under the _Child Care Act 1972_ or any other payment known as Childcare assistance (fee relief) dealt with by the Department of Social Security or by the Human Services Department; or
+                   (de)  a payment of fee relief under the _Child Care Act 1972_ or any other payment known as Childcare assistance (fee relief) dealt with by the Department of Social Security or by the Services Delivery Agency; or
 
                     (df)  child care assistance or child care rebate under the _Child Care Payments Act 1997_; or
 
@@ -273,6 +271,8 @@ and, in relation to a person, means personal assistance given to, or claimed by,
                      (e)  sex;
 
                       (f)  date of birth.
+
+                    <a name="servic-deliveri-agenc"></a>**_Services Delivery Agency_** means the Commonwealth Services Delivery Agency established by the _Commonwealth Services Delivery Agency Act 1997_.
 
                     <a name="sourc-agenc"></a>**_source agency_** means:
 
@@ -332,13 +332,7 @@ and marital status has a corresponding meaning.
 
              (1)  If:
 
-                     (a)  the Secretary of the Department of Social Security delegates to:
-
-                              (i)  the Chief Executive Centrelink; or
-
-                             (ii)  a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_);
-
-                            all or any of the Secretary’s powers under an Act; and
+                     (a)  the Secretary to the Department of Social Security delegates to the CEO or an employee of the Services Delivery Agency all or any of the Secretary’s powers under an Act; and
 
                      (b)  as a result of the delegation it is not appropriate for the Department to be an assistance agency within the meaning of this Act;
 
@@ -354,7 +348,7 @@ the Secretary may, by legislative instrument, direct that despite subsection 3(1
 
              (1)  The Secretary to the Department of Social Security is to ensure that there are officers of that Department who are responsible for the matching of data under this Act.
 
-             (2)  While a direction under section 3A is in force, the Chief Executive Centrelink is to ensure that there are Departmental employees (within the meaning of the _Human Services (Centrelink) Act 1997_) who are responsible for the matching of data under this Act.
+             (2)  While a direction under section 3A is in force, the CEO is to ensure that there are employees of the Services Delivery Agency who are responsible for the matching of data under this Act.
 
 ##### <a id="5"></a>5  Effect of other Acts
 
@@ -544,7 +538,7 @@ to find out if there are any inconsistencies in the income data of the person.
 
              (3)  Subject to subsection (3A), a source agency must commence any action in relation to information it receives under subsection (1) within 12 months from the date that it receives the information from the matching agency.
 
-          (3A)  The Secretary of an assistance agency (other than the Human Services Department), the Chief Executive Centrelink, the Commissioner of Taxation or a Deputy Commissioner of Taxation may grant an extension or extensions of time for up to 12 months each of the 12 month period referred to in subsection (3).
+          (3A)  The Secretary of an assistance agency that is a Department, the CEO, the Commissioner of Taxation or a Deputy Commissioner of Taxation may grant an extension or extensions of time for up to 12 months each of the 12 month period referred to in subsection (3).
 
           (3B)  The power to grant an extension or extensions of time referred to in subsection (3A) must not, despite any other law, be delegated.
 
@@ -1587,7 +1581,7 @@ Schedule 3 (items 1, 2): 1 Sept 2008</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 56–67): 1 July 2011</div>
+    <div>Schedule 4 (items 56–67): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1888,7 +1882,7 @@ _(zb)_   Subsection 2(1) (item 7) of the _Freedom of Information Amendment
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 115, 175 and 194, 1991; Nos. 81, 138 and 229, 1992; No. 121, 1993; Nos. 55, 109, 164, 174 and 184, 1994; Nos. 104, 105, 106 and 143, 1995; Nos. 43 and 84, 1996; Nos. 29, 39, 109, 197 and 202, 1997; No. 45, 1998; No. 83, 1999; No. 106, 2000; No. 52, 2004; Nos. 63 and 73, 2008; No. 105, 2010; No. 32, 2011</div>
+    <div>am. Nos. 115, 175 and 194, 1991; Nos. 81, 138 and 229, 1992; No. 121, 1993; Nos. 55, 109, 164, 174 and 184, 1994; Nos. 104, 105, 106 and 143, 1995; Nos. 43 and 84, 1996; Nos. 29, 39, 109, 197 and 202, 1997; No. 45, 1998; No. 83, 1999; No. 106, 2000; No. 52, 2004; Nos. 63 and 73, 2008; No. 105, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1904,7 +1898,7 @@ _(zb)_   Subsection 2(1) (item 7) of the _Freedom of Information Amendment
     <div></div>
   </td>
   <td>
-    <div>am. No. 108, 2006; No. 32, 2011</div>
+    <div>am. No. 108, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1920,7 +1914,7 @@ _(zb)_   Subsection 2(1) (item 7) of the _Freedom of Information Amendment
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 29, 1997; No. 32, 2011</div>
+    <div>am. No. 29, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1952,7 +1946,7 @@ _(zb)_   Subsection 2(1) (item 7) of the _Freedom of Information Amendment
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 81, 1992; No. 121, 1993; No. 29, 1997; No. 51, 2010; Nos. 5 and 32, 2011</div>
+    <div>am. No. 81, 1992; No. 121, 1993; No. 29, 1997; No. 51, 2010; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2036,6 +2030,82 @@ _(zb)_   Subsection 2(1) (item 7) of the _Freedom of Information Amendment
   </td>
 </tr></table>
 
+### Note 2
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 56  Subsection 3(1) (paragraph (e) of the definition of _assistance agency_)
+
+Repeal the paragraph, substitute:
+
+                     (e)  the Human Services Department.
+
+## 57  Subsection 3(1) (definition of _CEO_)
+
+Repeal the definition.
+
+## 58  Subsection 3(1)
+
+Insert:
+
+                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
+
+## 59  Subsection 3(1) (definition of _employee_)
+
+Repeal the definition.
+
+## 60  Subsection 3(1)
+
+Insert:
+
+                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
+
+## 61  Subsection 3(1)
+
+Insert:
+
+                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Centrelink) Act 1997_.
+
+## 62  Subsection 3(1) (paragraph (b) of the definition of _matching agency_)
+
+Omit “the employees of the Services Delivery Agency”, substitute “the Departmental employees (within the meaning of the _Human Services (Centrelink) Act 1997_)”.
+
+## 63  Subsection 3(1) (paragraphs (b), (ca) and (de) of the definition of _personal assistance_)
+
+Omit “Services Delivery Agency”, substitute “Human Services Department”.
+
+## 64  Subsection 3(1) (definition of _Services Delivery Agency_)
+
+Repeal the definition.
+
+## 65  Paragraph 3A(1)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  the Secretary of the Department of Social Security delegates to:
+
+                              (i)  the Chief Executive Centrelink; or
+
+                             (ii)  a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_);
+
+                            all or any of the Secretary’s powers under an Act; and
+
+## 66  Subsection 4(2)
+
+Repeal the subsection, substitute:
+
+             (2)  While a direction under section 3A is in force, the Chief Executive Centrelink is to ensure that there are Departmental employees (within the meaning of the _Human Services (Centrelink) Act 1997_) who are responsible for the matching of data under this Act.
+
+## 67  Subsection 10(3A)
+
+Omit “that is a Department, the CEO”, substitute “(other than the Human Services Department), the Chief Executive Centrelink”.
+
+As at 3 June 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2082,8 +2152,7 @@ The amendment made by item 1 applies in relation to seniors health cards grant
 
 * * *
 
-_Paid Parental Leave (Consequential Amendments) Act 2010 
- (No. 105, 2010)_
+_Paid Parental Leave (Consequential Amendments) Act 2010 (No. 105, 2010)_
 
 ## Schedule 2
 
