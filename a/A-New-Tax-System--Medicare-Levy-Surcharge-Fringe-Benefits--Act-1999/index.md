@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00652/Html/842b2c63-b78b-4c71-8892-4588709aabcb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image001.gif)
 
 # A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999
 
 **Act No. 18 of 1999 as amended**
 
-This compilation was prepared on 3 September 2012
+This compilation was prepared on 28 June 2012
  taking into account amendments up to Act No. 86 of 2012
 
 The text of any of those amendments not in force 
@@ -30,7 +30,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Who is a _dependant_ of a person?
 
-[6](#6).            What is a _tier 2 earner_ and _tier 3 earner_
+[5A](#5A).         What is the _singles surcharge threshold_?
+
+[6](#6).            What is the _family surcharge threshold_?
 
 [7](#7).            When are people _married_?
 
@@ -88,7 +90,7 @@ Note:          For limited purposes, sections 12, 13 and 14 
 
                     <a name="depend"></a>**_dependant_** of a person has the meaning given by section 5.
 
-                    <a name="famili-tier-threshold"></a>**_family tier 1 threshold_**, of a person for a year of income, means the family tier 1 threshold (within the meaning of the _Private Health Insurance Act 2007_) of the person for the financial year corresponding to the year of income.
+                    <a name="famili-surcharg-threshold"></a>**_family surcharge threshold_** for a person for a year of income has the meaning given by section 6.
 
                     <a name="incom-surcharg-purpos"></a>**_income for surcharge purposes_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
@@ -100,13 +102,9 @@ Note:          For limited purposes, sections 12, 13 and 14 
 
                     <a name="resid-australia"></a>**_resident of Australia_** has the meaning given by section 10.
 
-                    <a name="singl-tier-threshold"></a>**_singles tier 1 threshold_**, of a person for a year of income, means the singles tier 1 threshold (within the meaning of the _Private Health Insurance Act 2007_) of the person for the financial year corresponding to the year of income.
+                    <a name="singl-surcharg-threshold"></a>**_singles surcharge threshold_** for a person for a year of income has the meaning given by section 5A.
 
                     <a name="surcharg"></a>**_surcharge_** means Medicare levy surcharge imposed by section 10.
-
-                    <a name="tier-earner"></a>**_tier 2 earner_** has the meaning given by section 6.
-
-                    <a name="tier-earner"></a>**_tier 3 earner_** has the meaning given by section 6.
 
              (2)  Subject to subsection (1) and any other contrary intention, an expression used in both this Act and Part VIIB of the Assessment Act has the same meaning in this Act as it has in that Part.
 
@@ -144,19 +142,43 @@ Note:          For limited purposes, sections 12, 13 and 14 
 
                    A person is a **_dependant_** of another person for a period if the person would be a dependant of the other person for the period for the purposes of Part VIIB of the Assessment Act, disregarding subsections 251R(4), (5), (6B), (6C) and (6D) of that Act.
 
-##### <a id="6"></a>6  What is a _tier 2 earner_ and _tier 3 earner_
+##### <a id="5A"></a>5A  What is the _singles surcharge threshold_?
 
-(1)  Subject to this section, for the purposes of this Act:
+             (1)  The **_singles surcharge threshold_** for a person for the 2008‑09 year of income is $70,000\. This amount is indexed annually.
 
-(a)  **_tier 2 earner_**, for a year of income, means a tier 2 earner (within the meaning of the _Private Health Insurance Act 2007_) for the financial year corresponding to the year of income; and
+Indexation of singles surcharge threshold
 
-(b)  **_tier 3 earner_**, for a year of income, means a tier 3 earner (within the meaning of that Act) for the financial year corresponding to the year of income.
+             (2)  The amount of the singles surcharge threshold is indexed annually by:
 
-             (2)  In determining whether a person is a **_tier 2 earner_** or **_tier 3 earner_** for a year of income for the purposes of this Act, section 22‑30 of the _Private Health Insurance Act 2007_ operates with the modification set out in subsection (3).
+                     (a)  multiplying the singles surcharge threshold for the 2008‑09 year of income by its indexation factor; and
 
-             (3)  Replace paragraph 22‑30(1)(b) of the _Private Health Insurance Act 2007_ with the following paragraph:
+                     (b)  rounding the result in paragraph (a) down to the nearest multiple of $1,000.
 
-                     (b)  on any day in the year, the person has one or more dependants (within the meaning of the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_), other than a dependant to whom the person is married (within the meaning of that Act):
+             (3)  The singles surcharge threshold is not indexed if its indexation factor is 1 or less.
+
+             (4)  The **_indexation factor_** is:
+
+![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image002.gif)
+
+             (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
+
+             (6)  The **_index number_** for a quarter is the estimate of full‑time adult average weekly ordinary time earnings for the middle month of the quarter first published by the Australian Statistician for that month.
+
+##### <a id="6"></a>6  What is the _family surcharge threshold_?
+
+             (1)  The **_family surcharge threshold_** for a person for a year of income is an amount equal to double the singles surcharge threshold for the year of income.
+
+             (2)  However, if the person has 2 or more dependants who are children, the **_family surcharge threshold_** for the person for the year of income is the sum of:
+
+                     (a)  an amount equal to double the singles surcharge threshold for the year of income; and
+
+                     (b)  the result of the following formula:
+
+![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image003.gif)
+
+Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008‑09 year of income is:
+
+![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image004.gif)
 
 ##### <a id="7"></a>7  When are people _married_?
 
@@ -226,7 +248,7 @@ General rule
 
              (1)  This Division applies to a person for a period in a year of income if:
 
-                     (a)  the person’s income for surcharge purposes for the year of income exceeds the person’s singles tier 1 threshold for the year of income; and
+                     (a)  the person’s income for surcharge purposes for the year of income exceeds the singles surcharge threshold for the year of income; and
 
                      (b)  during the whole of the period:
 
@@ -242,11 +264,7 @@ General rule
 
              (3)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00652/Html/842b2c63-b78b-4c71-8892-4588709aabcb_files/image002.gif)
-
-             (4)  Increase the amount of each percentage mentioned in subsections (2) and (3) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
-
-             (5)  Increase the amount of each percentage mentioned in subsections (2) and (3) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
+![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image005.gif)
 
 ### Division 3—Amount of surcharge for single person with dependants
 
@@ -256,7 +274,7 @@ Application
 
              (1)  This Division applies to a person for a period in a year of income if:
 
-                     (a)  the person’s income for surcharge purposes for the year of income exceeds the person’s family tier 1 threshold for the year of income; and
+                     (a)  the person’s income for surcharge purposes for the year of income exceeds the person’s family surcharge threshold for the year of income; and
 
                      (b)  during the whole of the period:
 
@@ -298,11 +316,7 @@ Amount of surcharge payable for part of year
 
              (4)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00652/Html/842b2c63-b78b-4c71-8892-4588709aabcb_files/image003.gif)
-
-             (5)  Increase the amount of each percentage mentioned in subsections (3) and (4) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
-
-             (6)  Increase the amount of each percentage mentioned in subsections (3) and (4) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
+![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image006.gif)
 
 ### Division 4—Amount of surcharge for married person
 
@@ -348,9 +362,9 @@ When this section applies
 
                      (a)  this Division applies to the person for the whole of the year of income; and
 
-                     (b)  the sum of the person’s income for surcharge purposes, and the person’s spouse’s income for surcharge purposes, for the year of income exceeds the person’s family tier 1 threshold for the year of income; and
+                     (b)  the sum of the person’s income for surcharge purposes, and the person’s spouse’s income for surcharge purposes, for the year of income exceeds the person’s family surcharge threshold for the year of income; and
 
-                     (c)  the person’s income for surcharge purposes for the year of income exceeds 20,542.
+                     (c)  the person’s income for surcharge purposes for the year of income exceeds $19,404.
 
 Special rule if person’s spouse is a presently entitled beneficiary in a trust estate
 
@@ -359,10 +373,6 @@ Special rule if person’s spouse is a presently entitled beneficiary in a trust
                      (a)  the spouse’s income for surcharge purposes included that share; and
 
                      (b)  subsection 271‑105(1) in Schedule 2F to that Act did not apply in working out the net income of the trust estate.
-
-             (3)  Increase the amount of the percentage mentioned in subsection (1) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
-
-             (4)  Increase the amount of the percentage mentioned in subsection (1) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
 
 ##### <a id="16"></a>16  Amount of surcharge if this Division applies for part of the year
 
@@ -380,9 +390,9 @@ Person married for whole year of income
 
                      (a)  the person is married for the whole of the year of income; and
 
-                     (b)  the sum of the person’s income for surcharge purposes, and the person’s spouse’s income for surcharge purposes, for the year of income exceeds the person’s family tier 1 threshold for the year of income; and
+                     (b)  the sum of the person’s income for surcharge purposes, and the person’s spouse’s income for surcharge purposes, for the year of income exceeds the person’s family surcharge threshold for the year of income; and
 
-                     (c)  the person’s income for surcharge purposes for the year of income exceeds 20,542.
+                     (c)  the person’s income for surcharge purposes for the year of income exceeds $19,404.
 
 Person married for part of the year of income
 
@@ -390,21 +400,17 @@ Person married for part of the year of income
 
                      (a)  the person is married for only part of the year of income; and
 
-                     (b)  the person’s income for surcharge purposes for the year of income exceeds the person’s family tier 1 threshold for the year of income.
+                     (b)  the person’s income for surcharge purposes for the year of income exceeds the person’s family surcharge threshold for the year of income.
 
 Amount of surcharge
 
              (4)  The amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00652/Html/842b2c63-b78b-4c71-8892-4588709aabcb_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image007.gif)
 
 where:
 
                     <a name="number-applic-dai"></a>**_number of applicable days_** is the number of days in the year of income for which this Division applies to the person.
-
-          (4A)  Increase the amount of the percentage mentioned in subsection (4) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
-
-          (4B)  Increase the amount of the percentage mentioned in subsection (4) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
 
 Special rule if person’s spouse is a presently entitled beneficiary in a trust estate
 
@@ -927,7 +933,7 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>4 Dec 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1, 11): 1 July 2012</div>
+    <div>Schedule 2 (items 1, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (item 11)</div>
@@ -995,7 +1001,7 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
     <div>4 Apr 2012</div>
   </td>
   <td>
-    <div>Schedule 1: 1 July 2012 ( <i>see</i>s. 2(1)) 
+    <div>Schedule 1: \[ <i>see</i>s. 2(1), Note 3 and Table A] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1143,7 +1149,7 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 76, 2000; No. 110, 2008; No. 27, 2009; No. 28, 2012</div>
+    <div>am. No. 76, 2000; No. 110, 2008; No. 27, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1172,26 +1178,10 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 28, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 6</div>
   </td>
   <td>
     <div>am. No. 110, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 28, 2012</div>
   </td>
 </tr>
 <tr>
@@ -1271,7 +1261,7 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 110, 2008; No. 27, 2009; No. 28, 2012</div>
+    <div>am. No. 110, 2008; No. 27, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1287,7 +1277,7 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 27, 2009; No. 28, 2012</div>
+    <div>am. No. 27, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1327,7 +1317,7 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. Nos. 53 and 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010; No. 44, 2011; No. 159, 2011 (as am. by No. 86, 2012); Nos. 28 and 86, 2012</div>
+    <div>am. Nos. 53 and 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010; No. 44, 2011; No. 86, 2012</div>
   </td>
 </tr>
 <tr>
@@ -1335,9 +1325,137 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. Nos. 53 and 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010; No. 44, 2011; No. 159, 2011 (as am. by No. 86, 2012); Nos. 28 and 86, 2012</div>
+    <div>am. Nos. 53 and 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010; No. 44, 2011; No. 86, 2012</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Clean Energy (Tax Laws Amendments) Act 2011 (No. 159, 2011) (as amended by the Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2012 (No. 86, 2012))_
+
+The amendment made by the _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2012_ (No. 86, 2012) commenced on 28 June 2012 and has been incorporated into this Note.
+
+The following amendment commences on 1 July 2012:
+
+## Schedule 2
+
+## 1  Paragraphs 15(1)(c) and 16(2)(c)
+
+Omit “$19,404”, substitute “20,542”.
+
+As at 28 June 2012 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Act 2012 (No. 28, 2012)_
+
+The following amendments commence on 1 July 2012:
+
+## Schedule 1
+
+## 1  Subsection 3(1) (definition of _family surcharge threshold_)
+
+Repeal the definition.
+
+## 2  Subsection 3(1)
+
+Insert:
+
+                    <a name="famili-tier-threshold"></a>**_family tier 1 threshold_**, of a person for a year of income, means the family tier 1 threshold (within the meaning of the _Private Health Insurance Act 2007_) of the person for the financial year corresponding to the year of income.
+
+## 3  Subsection 3(1) (definition of _singles surcharge threshold_)
+
+Repeal the definition.
+
+## 4  Subsection 3(1)
+
+Insert:
+
+                    <a name="singl-tier-threshold"></a>**_singles tier 1 threshold_**, of a person for a year of income, means the singles tier 1 threshold (within the meaning of the _Private Health Insurance Act 2007_) of the person for the financial year corresponding to the year of income.
+
+## 5  Subsection 3(1)
+
+Insert:
+
+                    <a name="tier-earner"></a>**_tier 2 earner_** has the meaning given by section 6.
+
+## 6  Subsection 3(1)
+
+Insert:
+
+                    <a name="tier-earner"></a>**_tier 3 earner_** has the meaning given by section 6.
+
+## 7  Sections 5A and 6
+
+Repeal the sections, substitute:
+
+##### <a id="6"></a>6  What is a _tier 2 earner_ and _tier 3 earner_
+
+(1)  Subject to this section, for the purposes of this Act:
+
+(a)  **_tier 2 earner_**, for a year of income, means a tier 2 earner (within the meaning of the _Private Health Insurance Act 2007_) for the financial year corresponding to the year of income; and
+
+(b)  **_tier 3 earner_**, for a year of income, means a tier 3 earner (within the meaning of that Act) for the financial year corresponding to the year of income.
+
+             (2)  In determining whether a person is a **_tier 2 earner_** or **_tier 3 earner_** for a year of income for the purposes of this Act, section 22‑30 of the _Private Health Insurance Act 2007_ operates with the modification set out in subsection (3).
+
+             (3)  Replace paragraph 22‑30(1)(b) of the _Private Health Insurance Act 2007_ with the following paragraph:
+
+                     (b)  on any day in the year, the person has one or more dependants (within the meaning of the _A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999_), other than a dependant to whom the person is married (within the meaning of that Act):
+
+## 8  Paragraph 12(1)(a)
+
+Omit “the singles surcharge threshold”, substitute “the person’s singles tier 1 threshold”.
+
+## 9  At the end of section 12
+
+Add:
+
+             (4)  Increase the amount of each percentage mentioned in subsections (2) and (3) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
+
+             (5)  Increase the amount of each percentage mentioned in subsections (2) and (3) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
+
+## 10  Paragraph 13(1)(a)
+
+Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
+
+## 11  At the end of section 13
+
+Add:
+
+             (5)  Increase the amount of each percentage mentioned in subsections (3) and (4) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
+
+             (6)  Increase the amount of each percentage mentioned in subsections (3) and (4) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
+
+## 12  Paragraph 15(1)(b)
+
+Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
+
+## 13  At the end of section 15
+
+Add:
+
+             (3)  Increase the amount of the percentage mentioned in subsection (1) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
+
+             (4)  Increase the amount of the percentage mentioned in subsection (1) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
+
+## 14  Paragraph 16(2)(b)
+
+Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
+
+## 15  Paragraph 16(3)(b)
+
+Omit “family surcharge threshold”, substitute “family tier 1 threshold”.
+
+## 16  After subsection 16(4)
+
+Insert:
+
+          (4A)  Increase the amount of the percentage mentioned in subsection (4) by 0.25 of a percentage point if the person is a tier 2 earner for the year of income.
+
+          (4B)  Increase the amount of the percentage mentioned in subsection (4) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
+
+As at 28 June 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1455,7 +1573,7 @@ _Tax Laws Amendment (2007 Budget Measures) Act 2007 (No. 75, 2007)_
 
 ## Schedule 1
 
-## 26  Application of amendments
+## 26  Application of amendments
 
 The amendments made by this Part apply to assessments for the 2006‑2007 year of income and later years of income.
 
@@ -1575,6 +1693,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 
 _Clean Energy (Tax Laws Amendments) Act 2011 (No. 159, 2011)_
 
+The following provision commences on 1 July 2012:
+
 ## Schedule 2
 
 ## 11  Application provision
@@ -1584,6 +1704,8 @@ The amendments made by this Schedule apply to the 2012‑13 year of income and l
 * * *
 
 _Fairer Private Health Insurance Incentives (Medicare Levy Surcharge—Fringe Benefits) Act 2012 (No. 28, 2012)_
+
+The following provision commences on 1 July 2012:
 
 ## Schedule 1
 
