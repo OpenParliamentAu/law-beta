@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2011C00796/Html/18594f94-73ac-4800-b05e-86e5c646e08c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00326/Html/01f70c4b-c51c-4fad-9829-765cc0a0b92c_files/image001.gif)
 
 # Federal Magistrates Act 1999
 
 **Act No. 193 of 1999 as amended**
 
-This compilation was prepared on 28 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2010
+ taking into account amendments up to Act No. 36 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated 
+ may be affected by application provisions that are set out in 
+ the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -480,11 +481,11 @@ to use streamlined procedures and operate without undue formality.</li>
 
 Magistrate is to manage the Federal Magistrates Court’s administrative affairs.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      There is to be a Chief Executive
+<li class="BoxList" style="margin-left:21.25pt">•      There is to be a Chief
 
-Officer, who is to assist the Chief Federal Magistrate in managing the Federal
+Executive Officer, who is to assist the Chief Federal Magistrate in managing
 
-Magistrates Court’s administrative affairs.</li>
+the Federal Magistrates Court’s administrative affairs.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      In addition to the Chief
 
@@ -558,7 +559,7 @@ for the Federal Magistrates Court to share facilities with other courts.</li>
 
                      (b)  when used in the expression **_the Federal Magistrates Court or a Federal Magistrate_**, means a Federal Magistrate sitting in Chambers.
 
-                    <a name="judgment"></a>**_judgment_** means a judgment, decree or order, whether final or interlocutory, or a sentence, and includes a decree within the meaning of the _Family Law Act 1975_.
+                    <a name="judgment"></a>**_Judgment_** means a judgment, decree or order, whether final or interlocutory, or a sentence, and includes a decree within the meaning of the _Family Law Act 1975_.
 
                     <a name="live"></a>**_living with_** a person has the meaning given by subclause 9E(8) of Schedule 1.
 
@@ -592,7 +593,7 @@ Note:          If the Magistrate was appointed as a Federal Ma
 
                     <a name="rule-court"></a>**_Rules of Court_** means Rules of Court made under this Act.
 
-                    <a name="video-link"></a>**_video link_** means facilities (for example, closed‑circuit television facilities) that enable audio and visual communication between persons in different places.
+                    <a name="video-link"></a>**_video link_** means facilities (for example, closed-circuit television facilities) that enable audio and visual communication between persons in different places.
 
 ##### <a id="5A"></a>5A  Prior judicial service
 
@@ -704,13 +705,13 @@ Responsibility of Chief Federal Magistrate
 
                              (ii)  without limiting the generality of subparagraph (i)—assign particular caseloads, classes of cases or functions to particular Federal Magistrates;
 
-                            (iii)  temporarily restrict a Federal Magistrate to non‑sitting duties; and
+                            (iii)  temporarily restrict a Federal Magistrate to non-sitting duties; and
 
                      (b)  must ensure that arrangements are in place to provide Federal Magistrates with appropriate access to (or reimbursement for the cost of):
 
                               (i)  annual health assessments; and
 
-                             (ii)  short‑term  counselling services; and
+                             (ii)  short-term  counselling services; and
 
                             (iii)  judicial education.
 
@@ -742,7 +743,7 @@ Functions and powers of the Chief Federal Magistrate
 
              (7)  In addition to the powers and functions conferred on the Chief Federal Magistrate by this Act, the Chief Federal Magistrate has such other functions and powers in relation to the Federal Magistrates Court as are specified in the regulations.
 
-##### <a id="13"></a>13  Exercise of jurisdiction in open court and in Chambers
+##### <a id="13"></a>13  Exercise of jurisdiction in open court and in Chambers
 
              (1)  This section does not apply to family law or child support proceedings.
 
@@ -1228,7 +1229,7 @@ the following provisions have effect.
 
 ### Division 1—General
 
-##### <a id="42"></a>42  Federal Magistrates Court to operate informally
+##### <a id="42"></a>42  Federal Magistrates Court to operate informally
 
                    In proceedings before it, the Federal Magistrates Court must proceed without undue formality and must endeavour to ensure that the proceedings are not protracted.
 
@@ -1548,7 +1549,7 @@ Note:          See also section 121 of the _Family Law Act 1
 
                      (c)  any other law of the Commonwealth.
 
-Cross‑examination of person who makes an affidavit 
+Cross-examination of person who makes an affidavit 
 
              (4)  If:
 
@@ -1556,7 +1557,7 @@ Cross‑examination of person who makes an affidavit
 
                      (b)  a party to a proceeding in the Federal Magistrates Court adduces, or proposes to adduce, evidence by the affidavit;
 
-a party to the proceeding may request the person to appear as a witness to be cross‑examined with respect to the matters in the affidavit.
+a party to the proceeding may request the person to appear as a witness to be cross-examined with respect to the matters in the affidavit.
 
              (5)  Subsection (4) has effect subject to the Rules of Court.
 
@@ -1564,7 +1565,7 @@ a party to the proceeding may request the person to appear as a witness to be cr
 
                      (a)  a request under subsection (4) is given to a person who has made an affidavit; and
 
-                     (b)  the person does not appear as a witness to be cross‑examined with respect to the matters in the affidavit;
+                     (b)  the person does not appear as a witness to be cross-examined with respect to the matters in the affidavit;
 
 the Federal Magistrates Court is to give the matters in the affidavit such weight as the Federal Magistrates Court thinks fit in the circumstances.
 
@@ -1940,7 +1941,7 @@ Note:          See section 117 of the _Family Law Act 1975_ 
 
                      (a)  dismissed; or
 
-                     (b)  stayed until security or further security is given in accordance with the first‑mentioned order.
+                     (b)  stayed until security or further security is given in accordance with the first-mentioned order.
 
              (6)  This section does not affect the operation of any provision made by or under any other Act or by the Rules of Court for or in relation to the giving of security.
 
@@ -1968,7 +1969,7 @@ Note:          See section 117 of the _Family Law Act 1975_ 
 
                      (a)  as if a reference to a legislative instrument were a reference to a rule of court; and
 
-                     (b)  as if a reference to a rule‑maker were a reference to the Chief Federal Magistrate acting on behalf of the Federal Magistrates; and
+                     (b)  as if a reference to a rule-maker were a reference to the Chief Federal Magistrate acting on behalf of the Federal Magistrates; and
 
                      (c)  subject to such further modifications or adaptations as are provided for in regulations made under section 120 of this Act.
 
@@ -2176,9 +2177,9 @@ except with the approval of the Minister.
 
                      (d)  the administration of oaths and affirmations, and the witnessing of affidavits, for the purposes of any proceedings in the Federal Magistrates Court;
 
-                     (e)  such other non‑judicial functions as are permitted by the Rules of Court to be performed under such an arrangement;
+                     (e)  such other non-judicial functions as are permitted by the Rules of Court to be performed under such an arrangement;
 
-                      (f)  such other non‑judicial  functions as the Federal Magistrates Court considers appropriate.
+                      (f)  such other non-judicial  functions as the Federal Magistrates Court considers appropriate.
 
              (2)  If an arrangement under subsection (1) is in force in relation to the performance by an officer of an Australian court of a function on behalf of the Federal Magistrates Court, the officer may perform that function despite any other provision of this Act or any other law of the Commonwealth.
 
@@ -2200,7 +2201,7 @@ for an employee or employees of the agency or organisation to:
 
                      (c)  receive, on behalf of the Federal Magistrates Court, documents to be lodged with or filed in the Federal Magistrates Court; or
 
-                     (d)  perform, on behalf of the Federal Magistrates Court, other non‑judicial  functions of the Federal Magistrates Court.
+                     (d)  perform, on behalf of the Federal Magistrates Court, other non-judicial  functions of the Federal Magistrates Court.
 
              (2)  If an arrangement under subsection (1) is in force in relation to the performance by an employee of an agency or organisation of a function on behalf of the Federal Magistrates Court, the employee may perform that function despite any other provision of this Act or any other law of the Commonwealth.
 
@@ -2464,7 +2465,7 @@ Referral to Court by Registrars
 
                      (a)  the Registrar considers that it is not appropriate for the application to be determined by a Registrar acting under section 102 or under a delegation under subsection 103(1); or
 
-                     (b)  an application is made to the Registrar to arrange for the first‑mentioned application to be determined by a Federal Magistrate;
+                     (b)  an application is made to the Registrar to arrange for the first-mentioned application to be determined by a Federal Magistrate;
 
 he or she must not hear, or continue to hear, the application and must make appropriate arrangements for the application to be heard by a Federal Magistrate.
 
@@ -2476,13 +2477,13 @@ Oath
 
              (2)  This is the form of oath for the purposes of subsection (1):
 
-                   I,               , do swear that I will well and truly serve in the office of Registrar of the Federal Magistrates Court and that I will do right to all manner of people according to law without fear or favour, affection or ill‑will. So help me God!
+                   I,               , do swear that I will well and truly serve in the office of Registrar of the Federal Magistrates Court and that I will do right to all manner of people according to law without fear or favour, affection or ill-will. So help me God!
 
 Affirmation
 
              (3)  This is the form of affirmation for the purposes of subsection (1):
 
-                   I,               , do solemnly and sincerely promise and declare that I will well and truly serve in the office of Registrar of the Federal Magistrates Court and that I will do right to all manner of people according to law without fear or favour, affection or ill‑will.
+                   I,               , do solemnly and sincerely promise and declare that I will well and truly serve in the office of Registrar of the Federal Magistrates Court and that I will do right to all manner of people according to law without fear or favour, affection or ill-will.
 
 ##### <a id="106"></a>106  The Sheriff of the Federal Magistrates Court
 
@@ -2624,7 +2625,7 @@ Note:          For the interpretation of this Act, see section
 
 ##### <a id="120"></a>120  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2654,7 +2655,7 @@ _Note:       See section 9._
 
 ##### <a id="1"></a>1  Appointment of Federal Magistrates
 
-             (1)  A Federal Magistrate is to be appointed by the Governor‑General by commission.
+             (1)  A Federal Magistrate is to be appointed by the Governor-General by commission.
 
              (2)  A person is not to be appointed as a Federal Magistrate unless he or she has been enrolled as a legal practitioner (however described) of:
 
@@ -2668,9 +2669,9 @@ for at least 5 years.
 
              (4)  The appointment of a Federal Magistrate is to be for a term expiring upon his or her attaining the age of 70 years.
 
-             (5)  The Chief Federal Magistrate holds office on a full‑time basis.
+             (5)  The Chief Federal Magistrate holds office on a full-time basis.
 
-             (6)  A Federal Magistrate (other than the Chief Federal Magistrate) holds office on a full‑time basis unless the Federal Magistrate’s commission of appointment specifies that the Federal Magistrate holds office on a part‑time basis.
+             (6)  A Federal Magistrate (other than the Chief Federal Magistrate) holds office on a full-time basis unless the Federal Magistrate’s commission of appointment specifies that the Federal Magistrate holds office on a part-time basis.
 
              (7)  A reference in this clause to the **_appointment_** of a Federal Magistrate is to be read as including:
 
@@ -2678,15 +2679,15 @@ for at least 5 years.
 
                      (b)  a reference to the appointment of a person who holds office as Chief Federal Magistrate to an office of Federal Magistrate (other than the Chief Federal Magistrate); and
 
-                     (c)  a reference to the appointment of a person who holds office as a Federal Magistrate on a part‑time basis to another office of Federal Magistrate on a full‑time basis; and
+                     (c)  a reference to the appointment of a person who holds office as a Federal Magistrate on a part-time basis to another office of Federal Magistrate on a full-time basis; and
 
-                     (d)  a reference to the appointment of a person who holds office as a Federal Magistrate on a full‑time basis to another office of Federal Magistrate on a part‑time basis.
+                     (d)  a reference to the appointment of a person who holds office as a Federal Magistrate on a full-time basis to another office of Federal Magistrate on a part-time basis.
 
 Note:          Section 72 of the Constitution sets out requirements relating to the appointment and tenure of Federal Magistrates.
 
 ##### <a id="1A"></a>1A  Assignment of Federal Magistrates to Divisions
 
-                   The Governor‑General may:
+                   The Governor-General may:
 
                      (a)  assign a Federal Magistrate (other than the Chief Federal Magistrate) to one of the Divisions either:
 
@@ -2714,7 +2715,7 @@ Other Federal Magistrates
 
              (2)  The oath or affirmation must be taken before:
 
-                     (a)  the Governor‑General; or
+                     (a)  the Governor-General; or
 
                      (b)  a Justice of the High Court; or
 
@@ -2728,13 +2729,13 @@ Oath
 
              (3)  This is the form of oath for the purposes of subclause (1):
 
-                   I,               , do swear that I will well and truly serve in the office of (_Chief Federal Magistrate or Federal Magistrate, as the case requires_) and that I will do right to all manner of people according to law without fear or favour, affection or ill‑will. So help me God!
+                   I,               , do swear that I will well and truly serve in the office of (_Chief Federal Magistrate or Federal Magistrate, as the case requires_) and that I will do right to all manner of people according to law without fear or favour, affection or ill-will. So help me God!
 
 Affirmation
 
              (4)  This is the form of affirmation for the purposes of subclause (1):
 
-                   I,               , do solemnly and sincerely promise and declare that I will well and truly serve in the office of (_Chief Federal Magistrate or Federal Magistrate, as the case requires_) and that I will do right to all manner of people according to law without fear or favour, affection or ill‑will.
+                   I,               , do solemnly and sincerely promise and declare that I will well and truly serve in the office of (_Chief Federal Magistrate or Federal Magistrate, as the case requires_) and that I will do right to all manner of people according to law without fear or favour, affection or ill-will.
 
 ## Part 2—Terms and conditions of Federal Magistrates
 
@@ -2754,7 +2755,7 @@ Affirmation
 
              (4)  In this clause:
 
-                    <a name="paid-work"></a>**_paid work_** means work for financial gain or reward (whether as an employee, a self‑employed person or otherwise).
+                    <a name="paid-work"></a>**_paid work_** means work for financial gain or reward (whether as an employee, a self-employed person or otherwise).
 
 ##### <a id="5"></a>5  Remuneration
 
@@ -2772,19 +2773,19 @@ Note 1:       Subsection 3(2) of the _Remuneration Tribunal Act 1973
 
 Note 2:       Under subsection 7(4) of the _Remuneration Tribunal Act 1973_, the Remuneration Tribunal may determine any matter significantly related to the remuneration of Federal Magistrates.
 
-##### <a id="6"></a>6  Leave
+##### <a id="6"></a>6  Leave
 
                    A Federal Magistrate has the recreation leave entitlements that are determined by the Remuneration Tribunal.
 
 ##### <a id="7"></a>7  Resignation from office
 
-             (1)  A Federal Magistrate may resign his or her office by writing under his or her hand delivered to the Governor‑General.
+             (1)  A Federal Magistrate may resign his or her office by writing under his or her hand delivered to the Governor-General.
 
-             (2)  The resignation takes effect on the day it is received by the Governor‑General or, if a later day is specified in the resignation, on that later day.
+             (2)  The resignation takes effect on the day it is received by the Governor-General or, if a later day is specified in the resignation, on that later day.
 
 ##### <a id="8"></a>8  Other terms and conditions
 
-             (1)  A Federal Magistrate holds office on such terms and conditions (if any) in relation to matters not covered by this Act as are specified in a written determination made by the Governor‑General for the purposes of this subclause.
+             (1)  A Federal Magistrate holds office on such terms and conditions (if any) in relation to matters not covered by this Act as are specified in a written determination made by the Governor-General for the purposes of this subclause.
 
              (2)  The Minister must cause a copy of a determination under subclause (1) to be tabled in each House of the Parliament.
 
@@ -2794,7 +2795,7 @@ Note 2:       Under subsection 7(4) of the _Remuneration Tribunal Ac
 
 ##### <a id="9"></a>9  Removal from office
 
-                   A Federal Magistrate must not be removed from office except by the Governor‑General, on an address from both Houses of the Parliament in the same session, praying for his or her removal on the ground of proved misbehaviour or incapacity.
+                   A Federal Magistrate must not be removed from office except by the Governor-General, on an address from both Houses of the Parliament in the same session, praying for his or her removal on the ground of proved misbehaviour or incapacity.
 
 ### Division 2—Disability and death benefits
 
@@ -3020,7 +3021,7 @@ Applications for review
 
                               (i)  has not attained the age of 16 years; or
 
-                             (ii)  has not attained the age of 25 years and is receiving full‑time education at a school, college or university; and
+                             (ii)  has not attained the age of 25 years and is receiving full-time education at a school, college or university; and
 
                      (b)  one of the following applies:
 
@@ -3088,7 +3089,7 @@ _Note:       See section 95._
 
 ##### <a id="1"></a>1  Appointment of Chief Executive Officer
 
-             (1)  The Chief Executive Officer is to be appointed by the Governor‑General.
+             (1)  The Chief Executive Officer is to be appointed by the Governor-General.
 
              (2)  The Chief Executive Officer holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
 
@@ -3124,15 +3125,15 @@ Note 2:       Under subsection 7(4) of the _Remuneration Tribunal Ac
 
 ##### <a id="6"></a>6  Resignation
 
-             (1)  A Chief Executive Officer may resign his or her appointment by giving the Governor‑General a written resignation.
+             (1)  A Chief Executive Officer may resign his or her appointment by giving the Governor-General a written resignation.
 
-             (2)  The resignation takes effect on the day it is received by the Governor‑General or, if a later day is specified in the resignation, on that later day.
+             (2)  The resignation takes effect on the day it is received by the Governor-General or, if a later day is specified in the resignation, on that later day.
 
 ##### <a id="7"></a>7  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Chief Executive Officer for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Chief Executive Officer for misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General may terminate the appointment of the Chief Executive Officer if:
+             (2)  The Governor-General may terminate the appointment of the Chief Executive Officer if:
 
                      (a)  the Chief Executive Officer:
 
@@ -3180,9 +3181,9 @@ Note:          See also section 33A of the _Acts Interpretat
 
 The _Federal Magistrates Act 1999_ as shown in this compilation comprises Act No. 193, 1999 amended as indicated in the Tables below.
 
-The _Federal Magistrates Act 1999_ was amended by the _Public Employment (Consequential and Transitional) Regulations 1999_ (Statutory Rules 1999 No. 301 as amended by Statutory Rules 2000 No. 332). The amendments are incorporated in this compilation.
-
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
+
+The _Federal Magistrates Act 1999_ was amended by the _Public Employment (Consequential and Transitional) Regulations 1999_ (Statutory Rules 1999 No. 301 as amended by Statutory Rules 2000 No. 332). The amendments are incorporated in this compilation.
 
 ### Table of Acts
 
@@ -3245,7 +3246,7 @@ of Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 472–479): <i>(a)</i></div>
+    <div>Schedule 1 (items 472–479): <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3279,7 +3280,7 @@ of Assent</div>
     <div>3 July 2002</div>
   </td>
   <td>
-    <div>S. 4: Royal Assent Schedule 2 (item 23): <i>(aa)</i></div>
+    <div>Schedule 2 (item 23): <i>(aa)</i></div>
   </td>
   <td>
     <div>S. 4</div>
@@ -3297,7 +3298,7 @@ of Assent</div>
   </td>
   <td>
     <div>Schedule 3 (item 117): Royal Assent <i>(b)</i> 
-Schedule 3 (items 118, 119): 27 Dec 2000 <i>(b)</i></div>
+Schedule 3 (items 118, 119): 27 Dec 2000 <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3314,7 +3315,7 @@ Schedule 3 (items 118, 119): 27 Dec 2000 <i>(b)</i></div>
     <div>17 Dec 2003</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 25, 26): <i>(c)</i></div>
+    <div>S. 4 and Schedule 1 (items 25, 26): <i>(c)</i></div>
   </td>
   <td>
     <div>S. 4</div>
@@ -3331,8 +3332,8 @@ Schedule 3 (items 118, 119): 27 Dec 2000 <i>(b)</i></div>
     <div>15 Nov 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (items 8, 40, 42, 44): 1 Dec 2005 ( <i>see</i>F2005L03684) 
-Schedule 2 (items 1–21): Royal Assent</div>
+    <div>Schedule 1: 1 Dec 2005 ( <i>see</i>F2005L03684) 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 40, 42, 44) and Sch. 2 (item 21)</div>
@@ -3349,7 +3350,7 @@ Schedule 2 (items 1–21): Royal Assent</div>
     <div>22 May 2006</div>
   </td>
   <td>
-    <div>Schedule 4 (items 87–113): 1 July 2006</div>
+    <div>Schedule 4 (items 87–113): 1 July 2006</div>
   </td>
   <td>
     <div>—</div>
@@ -3408,7 +3409,7 @@ Schedule 2 (items 1–21): Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
   </td>
   <td>
     <div>134, 2008</div>
@@ -3461,7 +3462,7 @@ Schedule 2 (items
 </tr>
 <tr>
   <td>
-    <div>Trans‑Tasman Proceedings (Transitional and Consequential Provisions) Act 2010</div>
+    <div>Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010</div>
   </td>
   <td>
     <div>36, 2010</div>
@@ -3476,23 +3477,6 @@ Schedule 2 (items
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 598–603) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -3502,7 +3486,7 @@ Schedule 2 (items
   <td></td>
 </tr></table>
 
-_(a)_     The _Federal Magistrates Act 1999_ was amended by Schedule 1 (items 472–479) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsection 2(3) of which provides as follows:
+_(a)_     The _Federal Magistrates Act 1999_ was amended by Schedule 1 (items 472-479) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsection 2(3) of which provides as follows:
 
                  (3)   If:
 
@@ -3606,7 +3590,7 @@ _(aa)_   Subsection 2(1) (item 52) of the _Statute Law Revision Act 2002_ 
   </td>
 </tr></table>
 
-_(b)_ The _Federal Magistrates Act 1999_ was amended by Schedule 3 (items 117–119) only of the _Family Law Amendment Act 2000_, subsections 2(1) and (1A) of which provide as follows:
+_(b)_ The _Federal Magistrates Act 1999_ was amended by Schedule 3 (items 117-119) only of the _Family Law Amendment Act 2000_, subsections 2(1) and (1A) of which provide as follows:
 
                  (1)   Subject to subsections (1A) and (2), this Act commences 28 days after the day on which it receives the Royal Assent.
 
@@ -4516,9 +4500,9 @@ of Sch. 1</div>
 
 ### Note 2
 
-_Trans‑Tasman Proceedings (Transitional and Consequential Provisions) Act 2010 (No. 36, 2010)_
+_Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010 (No. 36, 2010)_
 
-The following amendments commence at the same time as section 3 of the _Trans‑Tasman Proceedings Act 2010_:
+The following amendments commence at the same time as section 3 of the _Trans-Tasman Proceedings Act 2010_:
 
 ## Schedule 2
 
@@ -4526,63 +4510,25 @@ The following amendments commence at the same time as section 3 of the _Trans�
 
 Repeal the note, substitute:
 
-Note:          See Part 6 of the _Trans‑Tasman Proceedings Act 2010_.
+Note:          See Part 6 of the _Trans-Tasman Proceedings Act 2010_.
 
 ## 18  Subsection 67(3) (note)
 
 Repeal the note, substitute:
 
-Note:          See Part 6 of the _Trans‑Tasman Proceedings Act 2010_.
+Note:          See Part 6 of the _Trans-Tasman Proceedings Act 2010_.
 
 ## 19  Subsection 68(3) (note)
 
 Repeal the note, substitute:
 
-Note:          See Part 6 of the _Trans‑Tasman Proceedings Act 2010_.
+Note:          See Part 6 of the _Trans-Tasman Proceedings Act 2010_.
 
 ## 20  Section 73
 
-Omit “the _Evidence and Procedure (New Zealand) Act 1994_”, substitute “the _Trans‑Tasman Proceedings Act 2010_”.
+Omit “the _Evidence and Procedure (New Zealand) Act 1994_”, substitute “the _Trans-Tasman Proceedings Act 2010_”.
 
-As at 28 September 2011 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 598  Paragraph 9E(7)(ba) of Schedule 1
-
-Omit “section 22B”, substitute “section 2E”.
-
-## 599  Subclause 10(1) of Schedule 1 (note)
-
-Repeal the note, substitute:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 600  Subclause 10(2) of Schedule 1
-
-Repeal the subclause.
-
-## 601  Subclause 9(1) of Schedule 2
-
-Omit “(1)”.
-
-## 602  Subclause 9(1) of Schedule 2 (note)
-
-Repeal the note, substitute:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 603  Subclause 9(2) of Schedule 2
-
-Repeal the subclause.
-
-As at 28 September 2011 the amendments are not incorporated in this compilation.
+As at 19 April 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4693,13 +4639,13 @@ _Federal Magistrates Amendment (Disability and Death Benefits) Act 2007
 
 ## Schedule 1
 
-## 16  Application
+## 16  Application
 
 The amendments made by this Schedule apply in relation to persons who are Federal Magistrates at or after the commencement of this item.
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
 
 ##### <a id="4"></a>4  Entitlements from 1 July 2008
 
@@ -4793,21 +4739,5 @@ _Access to Justice (Civil Litigation Reforms) Amendment Act 2009
 ## 14  Application of amendments
 
 (1)       The amendments made by this Part, other than items 6 and 7, apply in relation to Judges and Federal Magistrates whether appointed before or after the commencement of the amendments.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
