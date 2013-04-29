@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00155/Html/ac1eb838-4091-45ab-a112-3bfbd649f005_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00107/Html/b07a1f07-15a1-4b47-8e76-b03d3c8fb15a_files/image001.gif)
 
 # Designs Act 2003
 
 **Act No. 147 of 2003 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 13 January 2012
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -652,18 +652,6 @@ has been granted, whether in Australia or elsewhere.
 
                     <a name="minimum-file-requir"></a>**_minimum filing requirements_** has the meaning given by section 21.
 
-                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
-
-Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
-
-(a)    section 8 (interests to which the Act does not apply);
-
-(b)    section 12 (meaning of **_security interest_**);
-
-(c)    Chapter 9 (transitional provisions).
-
-Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
-
                     <a name="prescrib-court"></a>**_prescribed court_** means the following:
 
                      (a)  the Federal Court of Australia;
@@ -832,19 +820,7 @@ Note:          Section 114 deals with amendments to the Regi
 
              (2)  However, subsection (1) does not protect a person who deals with the registered owner of a registered design otherwise than as a purchaser in good faith for value and without notice of any fraud on the part of the registered owner.
 
-          (2A)  Despite subsection (1), the recording in the Register of a right that is a PPSA security interest does not affect a dealing with an interest in a registered design.
-
              (3)  Equities in relation to a registered design may be enforced against the registered owner, except to the prejudice of a purchaser in good faith for value.
-
-             (4)  Subsection (3) does not apply in relation to an equity that is a PPSA security interest.
-
-Note:          The _Personal Property Securities Act 2009_ deals with the rights of purchasers of personal property (including intellectual property such as designs) that is subject to PPSA security interests. That Act also provides for the priority and enforcement of PPSA security interests. See the following provisions of that Act:
-
-(a)    Part 2.5 (taking personal property free of security interests);
-
-(b)    Part 2.6 (priority between security interests);
-
-(c)    Chapter 4 (enforcement of security interests).
 
 ## Part 3—Ownership of designs
 
@@ -968,7 +944,7 @@ but only if a design application in respect of the design is made within the pre
 
 ### Division 2—Substantial similarity in overall impression
 
-##### <a id="19"></a>19  Factors to be considered in assessing substantial similarity in overall impression
+##### <a id="19"></a>19  Factors to be considered in assessing substantial similarity in overall impression
 
              (1)  If a person is required by this Act to decide whether a design is substantially similar in overall impression to another design, the person making the decision is to give more weight to similarities between the designs than to differences between them.
 
@@ -2212,7 +2188,7 @@ and may direct that the licence is to be granted on any other terms specified in
 
 ##### <a id="94"></a>94  Simplified outline
 
-                   The following is a simplified outline of this Chapter:
+                   The following is a simplified outline of this Chapter:
 
 * * *
 
@@ -2510,25 +2486,17 @@ the Registrar must make an entry in the Register stating that the registration o
 
              (3)  A signed copy of, or signed extract from, the Register is admissible in any proceedings as if it were the original.
 
-          (3A)  This section does not apply in relation to any particulars recorded in the Register in relation to a PPSA security interest.
-
-Note:          Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
-
              (4)  In this section:
 
                     <a name="sign"></a>**_signed_** means signed by or on behalf of the Registrar.
 
 ##### <a id="119"></a>119  Admissibility of unregistered interests
 
-             (1)  A document or instrument in respect of which an entry has not been made in the Register is not admissible in evidence in a court as proof of title to a design, or an interest in a design, except as follows:
+                   A document or instrument in respect of which an entry has not been made in the Register is not admissible in evidence in a court as proof of title to a design, or an interest in a design, except as follows:
 
                      (a)  in the case of an application under section 120;
 
                      (b)  if the court concerned directs that the document or instrument is admissible.
-
-             (2)  However, subsection (1) does not restrict the admissibility in evidence in a court of a document or instrument in relation to a PPSA security interest.
-
-Note:          Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
 
 ##### <a id="120"></a>120  Rectification of Register
 
@@ -3299,7 +3267,7 @@ Schedule 15 (item 1): 28 Sept 2006</div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1–7): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+    <div>Schedule 2 (items 1–7): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (item 7)</div>
@@ -3316,7 +3284,7 @@ Schedule 15 (item 1): 28 Sept 2006</div>
     <div>6 July 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (item 1): <i>(a)</i></div>
+    <div>Schedule 3 (item 1): \[ <i>see (a)</i>and Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -3422,7 +3390,8 @@ _(a)_ Subsection 2(1) (item 8) of the _Personal Property Securities (Corporati
   </td>
   <td>
     <div>
-      30 January 2012
+      \[
+        <i>see</i>Note 3]
     </div>
   </td>
 </tr></table>
@@ -3451,50 +3420,10 @@ _(a)_ Subsection 2(1) (item 8) of the _Personal Property Securities (Corporati
   </tr>
   <tr>
     <td>
-      <div><b>Chapter 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>am. No. 131, 2009; No. 96, 2010</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div><b>Chapter 2</b></div>
     </td>
     <td>
       <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 12</div>
-    </td>
-    <td>
-      <div>am. No. 131, 2009</div>
     </td>
   </tr>
   <tr>
@@ -3519,22 +3448,6 @@ _(a)_ Subsection 2(1) (item 8) of the _Personal Property Securities (Corporati
     </td>
     <td>
       <div>am. No. 46, 2011</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Chapter 9</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 118, 119</div>
-    </td>
-    <td>
-      <div>am. No. 131, 2009</div>
     </td>
   </tr>
 </thead>
@@ -3603,12 +3516,113 @@ _(a)_ Subsection 2(1) (item 8) of the _Personal Property Securities (Corporati
   </td>
 </tr></table>
 
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+
+## Schedule 2
+
+## 1  Section 5
+
+Insert:
+
+                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means:
+
+                     (a)  a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies (other than a transitional security interest within the meaning of that Act); or
+
+                     (b)  a transitional security interest within the meaning of that Act, and to which Division 4 of Part 9.4 of that Act applies.
+
+Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
+
+(a)    section 8 (interests to which the Act does not apply);
+
+(b)    section 12 (meaning of **_security interest_**);
+
+(c)    Chapter 9 (transitional provisions).
+
+Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_. Division 4 of Part 9.4 of that Act applies to transitional security interests in situations including the bankruptcy or insolvency of a secured party, grantor or debtor.
+
+## 2  After subsection 12(2)
+
+Insert:
+
+          (2A)  Despite subsection (1), the recording in the Register of a right that is a PPSA security interest does not affect a dealing with an interest in a registered design.
+
+## 3  At the end of section 12
+
+Add:
+
+             (4)  Subsection (3) does not apply in relation to an equity that is a PPSA security interest.
+
+Note:          The _Personal Property Securities Act 2009_ deals with the rights of purchasers of personal property (including intellectual property such as designs) that is subject to PPSA security interests. That Act also provides for the priority and enforcement of PPSA security interests. See the following provisions of that Act:
+
+(a)    Part 2.5 (taking personal property free of security interests);
+
+(b)    Part 2.6 (priority between security interests);
+
+(c)    Chapter 4 (enforcement of security interests).
+
+## 4  After subsection 118(3)
+
+Insert:
+
+          (3A)  This section does not apply in relation to any particulars recorded in the Register in relation to a PPSA security interest.
+
+Note:          Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
+
+## 5  Section 119
+
+Before “A document”, insert “(1)”.
+
+## 6  At the end of section 119
+
+Add:
+
+             (2)  However, subsection (1) does not restrict the admissibility in evidence in a court of a document or instrument in relation to a PPSA security interest.
+
+Note:          Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
+
+As at 13 January 2012 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
+
+The following amendment commences immediately after 30 January 2012:
+
+## Schedule 3
+
+## 1  Section 5 (definition of _PPSA security interest_)
+
+Repeal the definition, substitute:
+
+                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
+
+Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
+
+(a)    section 8 (interests to which the Act does not apply);
+
+(b)    section 12 (meaning of **_security interest_**);
+
+(c)    Chapter 9 (transitional provisions).
+
+Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
+
+_Note:       This amendment replaces the definition inserted by item 1 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
+
+As at 13 January 2012 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
+
+The following provision commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
 
 ## Schedule 2
 
