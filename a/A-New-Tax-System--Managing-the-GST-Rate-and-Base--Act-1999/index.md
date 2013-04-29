@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00370/Html/B66BDB7A02AB1D21CA25719D0022B62A/$FILE/image001.gif)
 
 # A New Tax System (Commonwealth-State Financial Arrangements) Act 1999
 
 **Act No. 110 of 1999 as amended**
 
-This compilation was prepared on 7 July 2006
+This compilation was prepared on 30 June 2006
 taking into account amendments up to Act No.
- 73 of 2006
+ 58 of 2006
 
 The text of any of those amendments not in force 
 on that date is appended in the Notes section
@@ -21,83 +21,83 @@ Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Outline of Act                                                                                      1
+[3](#3).            Outline of Act
 
-[4](#4).            Definitions                                                                                           2
+[4](#4).            Definitions
 
-[5](#5).            GST revenue                                                                                        4
+[5](#5).            GST revenue
 
-[6](#6).            Hospital grants                                                                                    6
+[6](#6).            Hospital grants
 
-[7](#7).            Determination of population of a State                                               8
+[7](#7).            Determination of population of a State
 
-[8](#8).            Index factor                                                                                          8
+[8](#8).            Index factor
 
-[9](#9).            Relativities factor                                                                                 9
+[9](#9).            Relativities factor
 
 **Part 2—Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations**
 
-[10](#10).          Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations   10
+[10](#10).          Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations
 
 **Part 3—Changing the rate and base of GST**
 
-[11](#11).          Changing the rate and base of GST                                                    11
+[11](#11).          Changing the rate and base of GST
 
-[12](#12).          Definitions                                                                                         11
+[12](#12).          Definitions
 
 **Part 4—Grants to the States** 
 
     **Division 1—GST revenue grants**
 
-[13](#13).          GST revenue grants                                                                           12
+[13](#13).          GST revenue grants
 
     **Division 2—Other grants**
 
-[14](#14).          Franchise fees windfall tax reimbursement payments                       13
+[14](#14).          Franchise fees windfall tax reimbursement payments
 
-[15](#15).          Competition Agreement payments                                                   13
+[15](#15).          Competition Agreement payments
 
-[16](#16).          Revenue replacement payments—2000-01                                       15
+[16](#16).          Revenue replacement payments—2000-01
 
     **Division 3—Payment of grants**
 
-[17](#17).          Overpayment or underpayment of grant                                           23
+[17](#17).          Overpayment or underpayment of grant
 
-[18](#18).          Advance payments for GST year                                                      23
+[18](#18).          Advance payments for GST year
 
-[19](#19).          Treasurer may fix amounts, and times of payments, of financial assistance           23
+[19](#19).          Treasurer may fix amounts, and times of payments, of financial assistance
 
 **Part 5—Miscellaneous**
 
-[20](#20).          Appropriation                                                                                   24
+[20](#20).          Appropriation
 
-[21](#21).          Delegation by Treasurer                                                                    24
+[21](#21).          Delegation by Treasurer
 
-[22](#22).          Determinations                                                                                  24
+[22](#22).          Determinations
 
-[23](#23).          Regulations                                                                                        24
+[23](#23).          Regulations
 
 **Schedule 1—Transitional arrangements**
 
-[1](#1).            Overview                                                                                           25
+[1](#1).            Overview
 
-[2](#2).            Guaranteed minimum amount                                                            25
+[2](#2).            Guaranteed minimum amount
 
-[3](#3).            First GST year—GST revenue does not exceed guaranteed minimum amounts     25
+[3](#3).            First GST year—GST revenue does not exceed guaranteed minimum amounts
 
-[4](#4).            Second GST year—GST revenue does not exceed guaranteed minimum amounts  26
+[4](#4).            Second GST year—GST revenue does not exceed guaranteed minimum amounts
 
-[5](#5).            First 2 transitional GST years—GST revenue exceeds guaranteed minimum amounts           27
+[5](#5).            First 2 transitional GST years—GST revenue exceeds guaranteed minimum amounts
 
-[6](#6).            Third or prescribed transitional GST years—guaranteed minimum amount           28
+[6](#6).            Third or prescribed transitional GST years—guaranteed minimum amount
 
-[7](#7).            Residual adjustment amounts for grants under clause 6                    29
+[7](#7).            Residual adjustment amounts for grants under clause 6
 
 **Schedule 2—Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations** 
 
@@ -126,7 +126,7 @@ Canberra
 
              (2)  To avoid doubt, this Act does not commence unless all of the Acts mentioned in subsection (1) have received the Royal Assent
 
-##### <a id="3"></a>3  Outline of Act
+##### <a id="3"></a>3  Outline of Act
 
 <div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
@@ -284,7 +284,7 @@ Note:          The capacity for new GST refund provisions to b
 
              (1)  A **_hospital grant_** for a State for a GST year is the amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00370/Html/B66BDB7A02AB1D21CA25719D0022B62A/$FILE/image002.gif)
 
 where:
 
@@ -334,7 +334,7 @@ where:
 
              (1)  The index factor for a GST year is the factor worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00370/Html/B66BDB7A02AB1D21CA25719D0022B62A/$FILE/image003.gif)
 
 where:
 
@@ -355,8 +355,6 @@ where:
 ##### <a id="10"></a>10  Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations
 
              (1)  A copy of the Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations is set out in Schedule 2.
-
-Note:          Paragraph B3(ii) of Appendix B to the agreement, as set out in Schedule 2, refers to section 39 of the _Taxation Administration Act 1953_. That section has been remade as section 105-65 in Schedule 1 to that Act.
 
              (2)  It is the intention of the Commonwealth to comply with, and give effect to, the agreement.
 
@@ -404,7 +402,7 @@ Note:          Paragraph B3(ii) of Appendix B to the agreement
 
                    Subject to this Act, each State is entitled to the payment, by way of financial assistance, for a GST year, of a grant worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00370/Html/B66BDB7A02AB1D21CA25719D0022B62A/$FILE/image004.gif)
 
 where:
 
@@ -442,7 +440,7 @@ the maximum competition payment amount worked out under whichever of subsection�
 
              (2)  The **_maximum competition payment amount_** for a State for the 2000-01 GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00370/Html/B66BDB7A02AB1D21CA25719D0022B62A/$FILE/image005.gif)
 
 where:
 
@@ -456,7 +454,7 @@ where:
 
              (3)  The **_maximum competition payment amount_** for a State for the 2001-02 GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00370/Html/B66BDB7A02AB1D21CA25719D0022B62A/$FILE/image006.gif)
 
 where:
 
@@ -470,7 +468,7 @@ where:
 
              (4)  The **_maximum competition payment amount_** for a State for a later GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00370/Html/B66BDB7A02AB1D21CA25719D0022B62A/$FILE/image005.gif)
 
 where:
 
@@ -488,7 +486,7 @@ where:
 
              (2)  The **_revenue replacement payment_** for a State for the 2000-01 GST year is:
 
-![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00370/Html/B66BDB7A02AB1D21CA25719D0022B62A/$FILE/image007.gif)
 
 where:
 
@@ -988,7 +986,7 @@ Note:          These Acts increase the rates of tax that apply
 
                             (iii)  the rate of sales tax applicable to any of the taxable dealings to which the Sales Tax (Surcharge) Acts relate;
 
-                            and is prescribed for the purposes of this definition.
+                            and is prescribed for the purposes of this definition.
 
 Note 1:       The _Customs Tariff Amendment Act (No. 3) 1997_ increases the rate of the duty of customs payable on goods falling to certain subheadings of Chapters 24 and 27 of Schedule 3 to the _Customs Tariff Act 1995_. The relevant subheadings of Chapter 24 deal with tobacco and manufactured tobacco substitutes. The relevant subheadings of Chapter 27 deal with petroleum products.
 
@@ -1073,7 +1071,7 @@ _Note:       See section 13_
 
              (4)  The amount of the increase for the GST year is:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image008.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2006C00370/Html/B66BDB7A02AB1D21CA25719D0022B62A/$FILE/image008.gif)</sub>
 
 where:
 
@@ -1103,7 +1101,7 @@ where:
 
              (4)  The amount of the increase for the GST year is:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image008.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2006C00370/Html/B66BDB7A02AB1D21CA25719D0022B62A/$FILE/image008.gif)</sub>
 
 where:
 
@@ -1121,7 +1119,7 @@ where:
 
              (2)  If, apart from this subclause, the amount to which a State would be entitled under section 13 is more than the guaranteed minimum amount for that State for the GST year, the amount to which the State is entitled under that section is instead worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2006C00406/Html/E2937174FDA3D106CA2571A700195E95/$FILE/image009.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2006C00370/Html/B66BDB7A02AB1D21CA25719D0022B62A/$FILE/image009.gif)</sub>
 
 where:
 
@@ -2284,35 +2282,16 @@ of Assent
   </tr>
   <tr>
     <td>
-      <div>Tax Laws Amendment (2006 Measures No. 2) Act 2006</div>
+      <div>Tax Laws Amendment (2006 Measures No. 2) Act 2006</div>
     </td>
     <td>
       <div>58, 2006</div>
     </td>
     <td>
-      <div>22 June 2006</div>
+      <div>22 June 2006</div>
     </td>
     <td>
-      <div>Schedule 7 (item 1): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Fuel Tax (Consequential and Transitional Provisions) Act 2006</div>
-    </td>
-    <td>
-      <div>73, 2006</div>
-    </td>
-    <td>
-      <div>26 June 2006</div>
-    </td>
-    <td>
-      <div>Schedule 5 
-(item 64): 1 July 2006 ( <i>see</i>s. 2(1)) 
-</div>
+      <div>Schedule 7 (item 1): Royal Assent</div>
     </td>
     <td>
       <div>—</div>
@@ -2443,7 +2422,7 @@ _Schedule 3—Commonwealth-State financial arrangements_
       <div>S. 5</div>
     </td>
     <td>
-      <div>am. No. 177, 1999; No. 21, 2004; No. 58, 2006</div>
+      <div>am. No. 177, 1999; No. 21, 2004; No. 58, 2006</div>
     </td>
   </tr>
   <tr>
@@ -2452,14 +2431,6 @@ _Schedule 3—Commonwealth-State financial arrangements_
     </td>
     <td>
       <div>am. No. 21, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Note to s. 10(1)</div>
-    </td>
-    <td>
-      <div>ad. No. 73, 2006</div>
     </td>
   </tr>
   <tr>
