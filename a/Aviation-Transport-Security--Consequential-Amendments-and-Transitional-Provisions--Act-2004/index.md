@@ -1,18 +1,17 @@
-![](http://www.comlaw.gov.au/Details/C2004C02403/Html/AviatTransSecConsAmTransProv2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00207/Html/AviationTransSecurityConseqAmendsTransProvAct2004_image001.gif)
 
 # Aviation Transport Security (Consequential Amendments and Transitional Provisions) Act 2004
 
 **Act No. 9 of 2004 as amended** 
 
-This compilation was prepared on 17 December 2004
+This compilation was prepared on 10 March 2005
 
 **\[This Act was amended by Act No. 149 of 2004]** 
 
 **Amendments from Act No. 149 of 2004**
 
 \[Schedule 2 (item 2) amended Schedule 3 (item 1)
- Schedule 2 (item 2) will commence on 10 March 2005 
- unless proclaimed earlier]
+ Schedule 2 (item 2) commenced on 10 March 2005]
 
 **Transitional Provision from Act No. 149 of 2004**
 
@@ -45,7 +44,7 @@ Sea Installations Act 1987                  
 
 ## An Act to deal with consequential and transitional matters arising from the enactment of the _Aviation Transport Security Act 2004_, and for other purposes
 
-[_Assented to 10 March 2004_]
+[_Assented to__10  March 2004_]
 
 The Parliament of Australia enacts:
 
@@ -129,7 +128,7 @@ The Parliament of Australia enacts:
     </div>
   </td>
   <td>
-    <div> </div>
+    <div>10 March 2005</div>
   </td>
 </tr></table>
 
@@ -287,13 +286,13 @@ Repeal the section.
 
 ###### Schedule 2—Amendment of other Acts
 
-Air Services Act 1995
+<h9 class="ActHead9">Air Services Act 1995</h9>
 
 ## 1  Paragraph 8(1)(f)
 
 After “the _Air Navigation Act 1920_”, insert “or the _Aviation Transport Security Act 2004_”.
 
-Australian Protective Service Act 1987
+<h9 class="ActHead9">Australian Protective Service Act 1987</h9>
 
 ## 2  After subparagraph 13(2)(a)(v)
 
@@ -301,13 +300,13 @@ Insert:
 
                            (va)  the _Aviation Transport Security Act 2004_ or regulations made under that Act; or
 
-Crimes (Aviation) Act 1991
+<h9 class="ActHead9">Crimes (Aviation) Act 1991</h9>
 
 ## 3  Paragraph 23(2)(b)
 
 After “_Air Navigation Act 1920_ or regulations made under that Act,”, insert “, the _Aviation Transport Security Act 2004_ or regulations made under that Act, or”.
 
-Sea Installations Act 1987
+<h9 class="ActHead9">Sea Installations Act 1987</h9>
 
 ## 4  The Schedule
 
@@ -342,11 +341,11 @@ Insert in its appropriate alphabetical position, determined on a letter-by-lette
 
                      (b)  providing for aviation security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
 
-                     (c)  for other transitional measures in relation to the transition from the old Act to the new Act.
-
                     (ba)  providing for airport security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
 
                     (bb)  providing for ASIC programs and international cargo security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act, or as such other programs under the new Act as are prescribed by the regulations; and
+
+                     (c)  for other transitional measures in relation to the transition from the old Act to the new Act.
 
 (3)        In this item:
 
@@ -360,10 +359,12 @@ Subsection 15(2) (which deals with the obligation for aviation industry particip
 
 [_Minister’s second reading speech made in—_
 
-_House of Representatives on 27 March 2003_
+_House of Representatives on__27 March 2003_
 
-_Senate on 10 February 2004_]
+_Senate on__10 February 2004_]
 
 (48/03)
+
+ 
 
  
