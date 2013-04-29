@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00552/Html/1cb11c8d-56c6-4f5e-8137-5ebaef2131d4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00396/Html/b55d066d-d78e-40ca-b90a-023063aa3363_files/image001.gif)
 
 # Taxation Administration Act 1953
 
 **Act No. 1 of 1953 as amended**
 
-This compilation was prepared on 15 July 2011
- taking into account amendments up to Act No. 68 of 2011
+This compilation was prepared on 30 May 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1–18
@@ -18,11 +18,11 @@ The operation of amendments that have been incorporated may be
 
 **Volume 2** includes:      First and Second Schedules
                                      Schedule 1
-                                     Note 1
+                                     Note 1
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2–7
+                                     Notes 2–5
                                      Tables A and B
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -120,34 +120,31 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8AAZL](#8AAZL). Amounts covered by this Division
 
-8AAZLAMethod 1—allocating the amount first to an RBA
+8AAZLA  Method 1—allocating the amount first to an RBA
 
-8AAZLBMethod 2—applying the amount first against a non‑RBA tax 
- debt
+8AAZLB  Method 2—applying the amount first against a non‑RBA tax debt
 
-8AAZLCRBA surplus and related credits must remain equivalent if one 
- or the other is applied
+8AAZLC  RBA surplus and related credits must remain equivalent if one or the other is applied
 
-8AAZLDSpecial priority credits: FS assessment debts and compulsory 
- repayment amounts
+8AAZLD  Special priority credits: FS assessment debts and compulsory repayment amounts
 
-8AAZLEInstructions to Commissioner not binding
+[8AAZLE](#8AAZLE).                                            Instructions to Commissioner not binding
 
-    **Division 3A—Refunds of RBA surpluses and credits** 
+    **Division 3A—Refunds of RBA surpluses and credits**
 
-8AAZLFCommissioner must refund RBA surpluses and credits
+[8AAZLF](#8AAZLF).                        Commissioner must refund RBA surpluses and credits
 
-8AAZLGRetaining refunds until information or notification given
+8AAZLG  Retaining refunds until information or notification given
 
-8AAZLHHow refunds are made
+8AAZLH  How refunds are made
 
     **Division 4—Miscellaneous provisions about tax debts**
 
 8AAZM When payments are treated as received
 
-8AAZMAElectronic payment of tax debts
+8AAZMA  Electronic payment of tax debts
 
-8AAZMBSaturdays, Sundays and public holidays
+8AAZMB  Saturdays, Sundays and public holidays
 
 [8AAZN](#8AAZN). Overpayments made by the Commissioner under taxation laws
 
@@ -431,7 +428,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight: normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Taxation Administration Act 1953_.
 
@@ -471,8 +468,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="indirect-tax-law"></a>**_indirect tax law_** has the meaning given by the _Income Tax Assessment Act 1997_.
 
-                    <a name="inelig-incom-tax-remiss-decision"></a>**_ineligible income tax remission decision_** has the meaning given by section 14ZS.
-
                     <a name="late-reconcili-statem-penalti"></a>**_late reconciliation statement penalty_** means the penalty worked out under Division 3 of Part IIA.
 
                     <a name="migrat-offic"></a>**_migration officer_** means:
@@ -497,13 +492,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="taxat-law"></a>**_taxation law_** has the meaning given by the _Income Tax Assessment Act 1997_.
 
-Note:          See also subsection (2).
-
                     <a name="tax-liabil"></a>**_tax liability_** means a liability to the Commonwealth arising under, or by virtue of, a taxation law.
 
                     <a name="tribun"></a>**_Tribunal_** means the Administrative Appeals Tribunal or, in appropriate circumstances, the Small Taxation Claims Tribunal.
 
-             (2)  Despite the definition of **_taxation law_** in subsection (1), an Excise Act (as defined in subsection 4(1) of the _Excise Act 1901_) is not a taxation law for the purposes of Part III of this Act.
+             (2)  Despite the definition of **_taxation law_** in subsection (1), an Excise Act (as defined in subsection 4(1) of the _Excise Act 1901_) is not a taxation law for the purposes of Part III of, and Subdivision 284‑B in Schedule 1 to, this Act.
 
 ##### <a id="2A"></a>2A  Application of the _Criminal Code_
 
@@ -727,27 +720,28 @@ A person is only liable to pay the charge if a provision of an Act makes the per
 
 ##### <a id="8AAB"></a>8AAB  When the general interest charge applies
 
-             (1)  There are certain provisions of this Act and other Acts that make persons liable to pay the general interest charge. Subsection (4) lists the provisions.
+             (1)  There are certain provisions of this Act and other Acts that make persons liable to pay the general interest charge. Subsections (4) and (5) list the provisions.
 
              (2)  A person is only liable to pay the charge on an amount if a provision specifies that the person is liable to pay the charge on the amount.
 
              (3)  The charge does not apply to the Commonwealth or an authority of the Commonwealth.
 
-             (4)  The following table is an index of the laws that deal with liability to the charge.
+             (4)  The following table is an index of the provisions of the _Income Tax Assessment Act 1936_ that deal with liability to the charge.
 
 <table>
 <colgroup>
-  <col width="11%">
-  <col width="20%">
-  <col width="39%">
-  <col width="30%">
+  <col width="12%">
+  <col width="21%">
+  <col width="67%">
 </colgroup>
 
 <thead>
   <tr>
-    <td colspan="4">
+    <td colspan="3">
       <div>
-        <b>Liability to general interest charge</b>
+        <b>Liability to the charge under the
+          <i>Income Tax Assessment Act 1936</i>
+        </b>
       </div>
     </td>
   </tr>
@@ -759,24 +753,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     </td>
     <td>
       <div>
-        <b>Column 1</b>
-      </div>
-      <div>
         <b>Section</b>
       </div>
     </td>
     <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-      <div>
-        <b>Act</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 3</b>
-      </div>
       <div>
         <b>Topic</b>
       </div>
@@ -785,7 +765,109 @@ A person is only liable to pay the charge if a provision of an Act makes the per
 </thead>
 <tr>
   <td>
+    <div>1AA</div>
+  </td>
+  <td>
+    <div>102UP</div>
+  </td>
+  <td>
+    <div>payment of trustee beneficiary non‑disclosure tax</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>1</div>
+  </td>
+  <td>
+    <div>128C</div>
+  </td>
+  <td>
+    <div>payment of withholding tax</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>163AA</div>
+  </td>
+  <td>
+    <div>returns by instalment taxpayers</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7</div>
+  </td>
+  <td>
+    <div>163B</div>
+  </td>
+  <td>
+    <div>returns by persons other than instalment taxpayers</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8</div>
+  </td>
+  <td>
+    <div>170AA</div>
+  </td>
+  <td>
+    <div>amended assessments</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>31</div>
+  </td>
+  <td>
+    <div>271‑80 of Schedule 2F</div>
+  </td>
+  <td>
+    <div>payment of family trust distribution tax</div>
+  </td>
+</tr></table>
+
+             (5)  The following table is an index of the provisions of Acts other than the _Income Tax Assessment Act 1936_ that deal with liability to the charge.
+
+<table>
+<colgroup>
+  <col width="14%">
+  <col width="20%">
+  <col width="65%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Liability to the charge under other Acts</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Section</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Act</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1AA</div>
   </td>
   <td>
     <div>162‑100</div>
@@ -795,13 +877,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>A New Tax System (Goods and Services Tax) Act 1999</i>
     </div>
   </td>
-  <td>
-    <div>payment of GST instalments</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>2</div>
+    <div>1AB</div>
   </td>
   <td>
     <div>168‑10</div>
@@ -811,13 +890,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>A New Tax System (Goods and Services Tax) Act 1999</i>
     </div>
   </td>
-  <td>
-    <div>supplies later found to be GST‑free supplies</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>3</div>
+    <div>1AD</div>
   </td>
   <td>
     <div>25‑10</div>
@@ -827,13 +903,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>A New Tax System (Wine Equalisation Tax) Act 1999</i>
     </div>
   </td>
-  <td>
-    <div>purchases later found to be GST free supplies</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>4</div>
+    <div>1A</div>
   </td>
   <td>
     <div>52</div>
@@ -843,13 +916,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>First Home Saver Accounts Act 2008</i>
     </div>
   </td>
-  <td>
-    <div>repayment of FHSA contributions</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>5</div>
+    <div>1</div>
   </td>
   <td>
     <div>93</div>
@@ -859,13 +929,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Fringe Benefits Tax Assessment Act 1986</i>
     </div>
   </td>
-  <td>
-    <div>payment of fringe benefits tax or penalty tax</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>6</div>
+    <div>2</div>
   </td>
   <td>
     <div>112B</div>
@@ -875,93 +942,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Fringe Benefits Tax Assessment Act 1986</i>
     </div>
   </td>
-  <td>
-    <div>payment of fringe benefits tax instalments</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>102UP</div>
-  </td>
-  <td>
-    <div>
-      <i>Income Tax Assessment Act 1936</i>
-    </div>
-  </td>
-  <td>
-    <div>payment of trustee beneficiary non‑disclosure tax</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>128C</div>
-  </td>
-  <td>
-    <div>
-      <i>Income Tax Assessment Act 1936</i>
-    </div>
-  </td>
-  <td>
-    <div>payment of withholding tax</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>163AA</div>
-  </td>
-  <td>
-    <div>
-      <i>Income Tax Assessment Act 1936</i>
-    </div>
-  </td>
-  <td>
-    <div>returns by instalment taxpayers</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>163B</div>
-  </td>
-  <td>
-    <div>
-      <i>Income Tax Assessment Act 1936</i>
-    </div>
-  </td>
-  <td>
-    <div>returns by persons other than instalment taxpayers</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>271‑80 in Schedule 2F</div>
-  </td>
-  <td>
-    <div>
-      <i>Income Tax Assessment Act 1936</i>
-    </div>
-  </td>
-  <td>
-    <div>payment of family trust distribution tax</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
+    <div>2AAA</div>
   </td>
   <td>
     <div>5‑15</div>
@@ -971,13 +955,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Income Tax Assessment Act 1997</i>
     </div>
   </td>
-  <td>
-    <div>unpaid income tax or shortfall interest charge</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>13</div>
+    <div>2AA</div>
   </td>
   <td>
     <div>197‑75</div>
@@ -987,13 +968,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Income Tax Assessment Act 1997</i>
     </div>
   </td>
-  <td>
-    <div>payment of untainting tax</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>14</div>
+    <div>2A</div>
   </td>
   <td>
     <div>214‑155</div>
@@ -1003,13 +981,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Income Tax Assessment Act 1997</i>
     </div>
   </td>
-  <td>
-    <div>payment of franking tax by a corporate tax entity</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>15</div>
+    <div>2B</div>
   </td>
   <td>
     <div>292‑390</div>
@@ -1019,13 +994,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Income Tax Assessment Act 1997</i>
     </div>
   </td>
-  <td>
-    <div>payment of excess contributions tax or shortfall interest charge</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>16</div>
+    <div>2C</div>
   </td>
   <td>
     <div>345‑115</div>
@@ -1035,29 +1007,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Income Tax Assessment Act 1997</i>
     </div>
   </td>
-  <td>
-    <div>payment of FHSA misuse tax</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>17</div>
-  </td>
-  <td>
-    <div>721‑30</div>
-  </td>
-  <td>
-    <div>
-      <i>Income Tax Assessment Act 1997</i>
-    </div>
-  </td>
-  <td>
-    <div>liability of members of consolidated groups</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>18</div>
+    <div>2D</div>
   </td>
   <td>
     <div>840‑810</div>
@@ -1067,29 +1020,23 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Income Tax Assessment Act 1997</i>
     </div>
   </td>
-  <td>
-    <div>payment of managed investment trust withholding tax</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>19</div>
+    <div>3</div>
   </td>
   <td>
-    <div>214‑105</div>
+    <div>65</div>
   </td>
   <td>
     <div>
-      <i>Income Tax (Transitional Provisions) Act 1997</i>
+      <i>Petroleum Resource Rent Tax Assessment Act 1987</i>
     </div>
-  </td>
-  <td>
-    <div>payment of franking deficit tax</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>20</div>
+    <div>4</div>
   </td>
   <td>
     <div>85</div>
@@ -1099,14 +1046,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Petroleum Resource Rent Tax Assessment Act 1987</i>
     </div>
   </td>
-  <td>
-    <div>payment of petroleum resource rent tax, shortfall interest charge or instalment
-      transfer interest charge</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>21</div>
+    <div>4A</div>
   </td>
   <td>
     <div>35</div>
@@ -1116,13 +1059,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Product Grants and Benefits Administration Act 2000</i>
     </div>
   </td>
-  <td>
-    <div>payment of a designated scheme debt</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>22</div>
+    <div>8</div>
   </td>
   <td>
     <div>21</div>
@@ -1132,14 +1072,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Superannuation Contributions Tax (Assessment and Collection) Act 1997</i>
     </div>
   </td>
-  <td>
-    <div>increase in liability to pay superannuation contributions surcharge because
-      of amendment of assessment</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>23</div>
+    <div>9</div>
   </td>
   <td>
     <div>22</div>
@@ -1149,14 +1085,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Superannuation Contributions Tax (Assessment and Collection) Act 1997</i>
     </div>
   </td>
-  <td>
-    <div>liability to pay superannuation contributions surcharge because of new
-      assessment</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>24</div>
+    <div>10</div>
   </td>
   <td>
     <div>25</div>
@@ -1166,13 +1098,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Superannuation Contributions Tax (Assessment and Collection) Act 1997</i>
     </div>
   </td>
-  <td>
-    <div>payment of superannuation contributions surcharge or advance instalment</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>25</div>
+    <div>11</div>
   </td>
   <td>
     <div>18</div>
@@ -1183,14 +1112,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
         Superannuation Funds) Assessment and Collection Act 1997</i>
     </div>
   </td>
-  <td>
-    <div>increase in liability to pay superannuation contributions surcharge because
-      of amendment of assessment</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>26</div>
+    <div>12</div>
   </td>
   <td>
     <div>21</div>
@@ -1201,13 +1126,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
         Superannuation Funds) Assessment and Collection Act 1997</i>
     </div>
   </td>
-  <td>
-    <div>payment of superannuation contributions surcharge</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>27</div>
+    <div>12A</div>
   </td>
   <td>
     <div>25</div>
@@ -1218,14 +1140,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
         2003</i>
     </div>
   </td>
-  <td>
-    <div>repayments or underpayments of Government co‑contributions that cannot
-      be credited to an account</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>28</div>
+    <div>13</div>
   </td>
   <td>
     <div>49</div>
@@ -1235,13 +1153,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Superannuation Guarantee (Administration) Act 1992</i>
     </div>
   </td>
-  <td>
-    <div>payment of superannuation guarantee charge</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>29</div>
+    <div>13A</div>
   </td>
   <td>
     <div>15DC</div>
@@ -1251,14 +1166,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Superannuation (Self Managed Superannuation Funds) Taxation Act 1987</i>
     </div>
   </td>
-  <td>
-    <div>payment of superannuation (self managed superannuation funds) supervisory
-      levy</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>30</div>
+    <div>13AA</div>
   </td>
   <td>
     <div>17A</div>
@@ -1268,13 +1179,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Superannuation (Unclaimed Money and Lost Members) Act 1999</i>
     </div>
   </td>
-  <td>
-    <div>payment of unclaimed money</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>31</div>
+    <div>13AB</div>
   </td>
   <td>
     <div>18C</div>
@@ -1284,13 +1192,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Superannuation (Unclaimed Money and Lost Members) Act 1999</i>
     </div>
   </td>
-  <td>
-    <div>repayment of Commissioner’s payment that cannot be credited to an account</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>32</div>
+    <div>13B</div>
   </td>
   <td>
     <div>20F</div>
@@ -1300,13 +1205,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Superannuation (Unclaimed Money and Lost Members) Act 1999</i>
     </div>
   </td>
-  <td>
-    <div>payment of unclaimed superannuation of former temporary residents</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>33</div>
+    <div>13C</div>
   </td>
   <td>
     <div>20M</div>
@@ -1316,14 +1218,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Superannuation (Unclaimed Money and Lost Members) Act 1999</i>
     </div>
   </td>
-  <td>
-    <div>repayment of Commissioner’s payment for former temporary resident that
-      cannot be credited to an account</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>34</div>
+    <div>13D</div>
   </td>
   <td>
     <div>24F</div>
@@ -1333,13 +1231,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Superannuation (Unclaimed Money and Lost Members) Act 1999</i>
     </div>
   </td>
-  <td>
-    <div>payment in respect of lost member accounts</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>35</div>
+    <div>13E</div>
   </td>
   <td>
     <div>24L</div>
@@ -1349,14 +1244,36 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Superannuation (Unclaimed Money and Lost Members) Act 1999</i>
     </div>
   </td>
+</tr>
+<tr>
   <td>
-    <div>repayment of Commissioner’s payment for former lost member that cannot
-      be credited to an account</div>
+    <div>14</div>
+  </td>
+  <td>
+    <div>8AAN</div>
+  </td>
+  <td>
+    <div>
+      <i>Taxation Administration Act 1953</i>
+    </div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>36</div>
+    <div>15</div>
+  </td>
+  <td>
+    <div>8AAT</div>
+  </td>
+  <td>
+    <div>
+      <i>Taxation Administration Act 1953</i>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>16</div>
   </td>
   <td>
     <div>8AAZF</div>
@@ -1366,13 +1283,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
-  <td>
-    <div>RBA deficit debts</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>37</div>
+    <div>17</div>
   </td>
   <td>
     <div>8AAZN</div>
@@ -1382,13 +1296,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
-  <td>
-    <div>overpayments made by the Commissioner</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>38</div>
+    <div>17B</div>
   </td>
   <td>
     <div>16‑80 in Schedule 1</div>
@@ -1398,13 +1309,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
-  <td>
-    <div>payment of PAYG withholding amounts</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>39</div>
+    <div>17E</div>
   </td>
   <td>
     <div>45‑80 in Schedule 1</div>
@@ -1414,13 +1322,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
-  <td>
-    <div>payment of PAYG instalments</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>40</div>
+    <div>17F</div>
   </td>
   <td>
     <div>45‑230 in Schedule 1</div>
@@ -1430,14 +1335,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
-  <td>
-    <div>shortfall in quarterly PAYG instalments worked out on the basis of a varied
-      rate</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>41</div>
+    <div>17GA</div>
   </td>
   <td>
     <div>45‑232 in Schedule 1</div>
@@ -1447,14 +1348,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
-  <td>
-    <div>shortfall in quarterly PAYG instalments worked out on the basis of estimated
-      benchmark tax</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>42</div>
+    <div>17G</div>
   </td>
   <td>
     <div>45‑235 in Schedule 1</div>
@@ -1464,13 +1361,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
-  <td>
-    <div>shortfall in annual PAYG instalments</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>43</div>
+    <div>17H</div>
   </td>
   <td>
     <div>45‑600 and 45‑620 in Schedule 1</div>
@@ -1480,13 +1374,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
-  <td>
-    <div>tax benefits relating to PAYG instalments</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>44</div>
+    <div>17J</div>
   </td>
   <td>
     <div>45‑870 and 45‑875 in Schedule 1</div>
@@ -1496,13 +1387,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
-  <td>
-    <div>head company’s liability on shortfall in quarterly PAYG instalments</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>45</div>
+    <div>17K</div>
   </td>
   <td>
     <div>105‑80 in Schedule 1</div>
@@ -1512,13 +1400,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
-  <td>
-    <div>payment of a net fuel amount or an amount of indirect tax</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>46</div>
+    <div>17L</div>
   </td>
   <td>
     <div>263‑30 in Schedule 1</div>
@@ -1528,13 +1413,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
-  <td>
-    <div>payment of a foreign revenue claim</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>47</div>
+    <div>17M</div>
   </td>
   <td>
     <div>268‑75 in Schedule 1</div>
@@ -1544,13 +1426,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
-  <td>
-    <div>late payment of estimate</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>48</div>
+    <div>18</div>
   </td>
   <td>
     <div>298‑25 in Schedule 1</div>
@@ -1560,13 +1439,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Taxation Administration Act 1953</i>
     </div>
   </td>
-  <td>
-    <div>payment of administrative penalty</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>49</div>
+    <div>18A</div>
   </td>
   <td>
     <div>9</div>
@@ -1576,13 +1452,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Tax Bonus for Working Australians Act (No. 2) 2009</i>
     </div>
   </td>
-  <td>
-    <div>repayment of overpayment of tax bonus</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>50</div>
+    <div>19</div>
   </td>
   <td>
     <div>13</div>
@@ -1592,14 +1465,10 @@ A person is only liable to pay the charge if a provision of an Act makes the per
       <i>Termination Payments Tax (Assessment and Collection) Act 1997</i>
     </div>
   </td>
-  <td>
-    <div>increase in liability to pay termination payments surcharge because of
-      amendment of assessment</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>51</div>
+    <div>20</div>
   </td>
   <td>
     <div>16</div>
@@ -1608,9 +1477,6 @@ A person is only liable to pay the charge if a provision of an Act makes the per
     <div>
       <i>Termination Payments Tax (Assessment and Collection) Act 1997</i>
     </div>
-  </td>
-  <td>
-    <div>payment of termination payments surcharge</div>
   </td>
 </tr></table>
 
@@ -1783,7 +1649,7 @@ Note:          For provisions about collection and recovery of
 
                              (ii)  in a case to which paragraph (1)(b) applies—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00552/Html/1cb11c8d-56c6-4f5e-8137-5ebaef2131d4_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00396/Html/b55d066d-d78e-40ca-b90a-023063aa3363_files/image002.gif)
 
 ## Part IIB—Running balance accounts, application of payments and credits, and related matters
 
@@ -1979,7 +1845,11 @@ Note:          In either case, section 8AAZLC has some addit
 
              (3)  However, the Commissioner does not have to treat an amount using either of those methods if doing so would require the Commissioner to apply the amount against a tax debt:
 
-                     (a)  that is due but not yet payable; or
+                     (a)  that is:
+
+                              (i)  not a BAS amount (as defined in subsection 995‑1(1) of the _Income Tax Assessment Act 1997_); and
+
+                             (ii)  due but not yet payable; or
 
                      (b)  in respect of which the taxpayer has complied with an arrangement under section 255‑15 to pay the debt by instalments; or
 
@@ -2091,7 +1961,7 @@ Effect of refunding credit that relates to an RBA
 
 Note:          Interest is payable under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_ if the Commissioner is late in making the payment under subsection (2).
 
-##### <a id="8AAZLH"></a>8AAZLH  How refunds are made
+##### <a id="8AAZLH"></a>8AAZLH  How refunds are made
 
              (1)  This section applies to refunds payable to an entity of RBA surpluses, or excess non‑RBA credits that relate to an RBA, if primary tax debts arising under any of the BAS provisions (as defined in subsection 995‑1(1) of the _Income Tax Assessment Act 1997_) have been allocated to that RBA.
 
@@ -2807,7 +2677,7 @@ the court may, in addition to imposing a penalty on the convicted person, order 
 
           (1C)  If the conditions in section 705‑315 of the _Income Tax Assessment Act 1997_ are satisfied, then for the purposes of any application of subsection (1) of this section in relation to the errors mentioned in that section that were made in a statement that was made before the Commissioner became aware of the errors, the references in paragraphs (1)(c) and (d) of this section to the excess are taken instead to be references to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00552/Html/1cb11c8d-56c6-4f5e-8137-5ebaef2131d4_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00396/Html/b55d066d-d78e-40ca-b90a-023063aa3363_files/image003.gif)
 
 where:
 
@@ -3021,7 +2891,7 @@ Note 2:       Subsection (2) does not apply in relation to a prose
 
                              (ii)  section 11.1, 11.4 or 11.5 of the _Criminal Code_;
 
-                            being an offence that relates to an offence of a kind referred to in paragraph (a) or (b) of this subsection; or
+                            being an offence that relates to an offence of a kind referred to in paragraph (a) or (b) of this subsection; or
 
                      (d)  the conviction of a person of an offence against section 134.1, 134.2, 135.1, 135.2 or 135.4 of the _Criminal Code_, being an offence that relates to a tax liability; or
 
@@ -3625,7 +3495,7 @@ relating to the taxation of debits made to accounts kept with financial institut
 
 ### Division 1—Interpretation
 
-##### <a id="14Q"></a>14Q  Interpretation
+##### <a id="14Q"></a>14Q  Interpretation
 
              (1)  In this Part, unless the contrary intention appears:
 
@@ -3905,6 +3775,8 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     <a name="frank-assess"></a>**_franking assessment_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
+                    <a name="inelig-incom-tax-remiss-decision"></a>**_ineligible income tax remission decision_** has the meaning given by section 14ZS.
+
                     <a name="object-decision"></a>**_objection decision_** has the meaning given by subsection 14ZY(2).
 
                     <a name="review-object-decision"></a>**_reviewable objection decision_** means an objection decision that is not an ineligible income tax remission decision.
@@ -3935,7 +3807,9 @@ then, this Part has effect, in relation to any review or appeal, as if so much o
 
 ##### <a id="14ZS"></a>14ZS  Ineligible income tax remission decisions
 
-             (1)  An objection decision is an **_ineligible income tax remission decision_** if it relates to the remission of additional tax payable by a taxpayer under the _Income Tax Assessment Act 1936_(other than Division 11 of former Part IIIAA), except where the additional tax is payable under former section 163B, 224, 225, 226, 226G, 226H, 226J, 226K, 226L or 226M of that Act, whatever its amount, or is payable under a provision of former Part VII of that Act other than any of the preceding sections and its amount, after the decision is made, exceeds:
+             (1)  For the purposes of this Part, an objection decision is an ineligible income tax remission decision if subsection (2) or (4) applies.
+
+             (2)  An objection decision is an ineligible income tax remission decision if it relates to the remission of additional tax payable by a taxpayer under the _Income Tax Assessment Act 1936_(other than Division 11 of former Part IIIAA), except where the additional tax is payable under former section 163B, 224, 225, 226, 226G, 226H, 226J, 226K, 226L or 226M of that Act, whatever its amount, or is payable under a provision of former Part VII of that Act other than any of the preceding sections and its amount, after the decision is made, exceeds:
 
                      (a)  in the case of additional tax payable under former section 222 of that Act because of the refusal or failure to furnish a return, or any information, relating to a year of income—the amount calculated, in respect of the period commencing on the last day allowed for furnishing the return or information and ending on:
 
@@ -3947,7 +3821,7 @@ then, this Part has effect, in relation to any review or appeal, as if so much o
 
                      (d)  if the amount calculated in accordance with paragraph (a) is less than $20—$20.
 
-             (2)  A reference in this section to a provision of the _Income Tax Assessment Act 1936_ includes a reference to that provision as applied by any other Act.
+             (5)  A reference in this section to a provision of the _Income Tax Assessment Act 1936_ includes a reference to that provision as applied by any other Act.
 
 ### Division 3—Taxation objections
 
