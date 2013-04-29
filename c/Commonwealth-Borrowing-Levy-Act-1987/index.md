@@ -1,42 +1,37 @@
-![](http://www.comlaw.gov.au/Details/C2004C02861/Html/CwlthBorrowLevy87_image001.jpg)
+# ![](http://www.comlaw.gov.au/Details/C2004C02860/Html/CWealthBorrowingLevy87_image001.gif)
 
 # Commonwealth Borrowing Levy Act 1987
 
-Act No. 114 of 1987 as amended 
+Act No. 115 of 1987
 
-Consolidated as in force on 25 August 1999
+Consolidated as in force on 8 March 1998
 
-(includes amendments up to Act No. 53, of 1999)
+(includes amendments up to Act No. 177 of 1997)
 
-This Act has uncommenced amendments
- For uncommenced amendments, see the endnotes
-
-Prepared by the Office of Legislative Drafting,
+ Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
 # Contents
 
-1             Short title [_see_ Note 1]                                                                        1
+[1](#1).               Short title [_see_ Note 1]                                                                           
 
-2             Commencement [_see_ Note 1]                                                               1
+[2](#2).               Commencement [_see_ Note 1]                                                                 
 
-3             Interpretation                                                                                       1
+[3](#3).               Interpretation                                                                                         
 
-4             Application of Act                                                                              1
+[4](#4).               Application of Act                                                                                 
 
-5             Imposition of levy                                                                               2
+[5](#5).               Imposition of levy                                                                                 
 
-6             Rate of levy                                                                                         2
+[6](#6).               Rate of levy                                                                                            
 
-7             By whom levy payable                                                                       2
+[7](#7).               By whom levy payable                                                                          
 
-8             Regulations                                                                                          2
+[8](#8).               Regulations                                                                                             
 
-**Schedule—Bodies Liable to Pay Levy** 
+**Schedule—Bodies Liable to Pay Levy**
 
-**Notes** 
-
- 
+#  
 
 ## An Act to impose a levy in respect of borrowings of money by certain bodies
 
@@ -48,11 +43,11 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Commonwealth Borrowing Levy Act 1987_.
+This Act may be cited as the _Commonwealth Borrowing Levy Act 1987_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent. 
+This Act shall come into operation on the day on which it receives the Royal Assent. 
 
 ##### <a id="3"></a>3  Interpretation
 
@@ -70,64 +65,67 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="4"></a>4  Application of Act
 
-                   This Act applies to borrowings of money, otherwise than from the Commonwealth, undertaken on or after 1 July 1987 by a body, including, without limiting the generality of the foregoing, such a borrowing made wholly or partly in a currency other than Australian currency.
+This Act applies to borrowings of money, otherwise than from the Commonwealth, undertaken on or after 1 July 1987 by a body, including, without limiting the generality of the foregoing, such a borrowing made wholly or partly in a currency other than Australian currency.
 
 ##### <a id="5"></a>5  Imposition of levy
 
-                   A levy is imposed on all borrowings to which this Act applies, other than such of those borrowings, or such parts of those borrowings, as are exempted from the levy by the regulations.
+A levy is imposed on all borrowings to which this Act applies, other than such of those borrowings, or such parts of those borrowings, as are exempted from the levy by the regulations.
 
 ##### <a id="6"></a>6  Rate of levy
 
-                   The rate of the levy is such annual rate as is prescribed, being an annual rate not exceeding 0.5% of the amount in respect of which the levy is payable.
+The rate of the levy is such annual rate as is prescribed, being an annual rate not exceeding 0.5% of the amount in respect of which the levy is payable.
 
 ##### <a id="7"></a>7  By whom levy payable
 
-                   The levy is payable by the body which undertakes the borrowing.
+The levy is payable by the body which undertakes the borrowing.
 
 ##### <a id="8"></a>8  Regulations 
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed. 
+The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed. 
 
-# Schedule—Bodies Liable to Pay Levy
- <span style="font-size:9.0pt; font-weight:normal">[_see_ Notes 2 and 3]</span>
+* * *
 
-_Section 3_
+<span style="font-size:16.0pt">Schedule</span><span style="font-size:16.0pt">—Bodies Liable to Pay Levy </span><span style="font-weight:normal">\[see Notes 2 and 3]</span>
 
-1.          Airservices Australia 
+Section 3
 
-1A.      ANL Limited. 
+1.                Airservices Australia 
 
-2A.      A body corporate that is a group company for the purposes of the _Australian Airlines (Conversion to Public Company) Act 1988_ 
+1A.              ANL Limited. 
 
-7.          Australian Nuclear Science and Technology Organisation 
+2A.              A body corporate that is a group company for the purposes of the _Australian Airlines (Conversion to Public Company) Act 1988_ 
 
-8.          Australian Postal Corporation 
+7.                Australian Nuclear Science and Technology Organisation 
 
-11.        Australian Trade Commission 
+8.                Australian Postal Corporation 
 
-13.        Federal Airports Corporation 
+11.               Australian Trade Commission 
 
-15.        Health Insurance Commission 
+13.               Federal Airports Corporation 
 
-16.        Housing Loans Insurance Corporation Limited.
+15.               Health Insurance Commission 
 
-18.        Pipeline Authority 
+16.               Housing Loans Insurance Corporation Limited.
 
-19.        Qantas Airways Limited 
+18.               Pipeline Authority 
 
-21.        Snowy Mountains Hydro-electric Authority 
+19.               Qantas Airways Limited 
 
-# Notes to the _Commonwealth Borrowing Levy Act 1987_
+21.               Snowy Mountains Hydro-electric Authority 
 
-### Note 1
+22.               Telstra Corporation Limited 
 
-The _Commonwealth Borrowing Levy Act 1987_ as shown in this consolidation comprises Act No. 114, 1987 amended as indicated in the Tables below.
+* * *
 
-The _Commonwealth Borrowing Levy Act 1987_ was affected by section 52 of the _CSL Sale Act 1993_.
+# NOTES
 
-All relevant information pertaining to application, saving or transitional provisions prior to 21 November 1997 is not included in this consolidation. For subsequent information _see_ Table A.
+1\.   The _Commonwealth Borrowing Levy Act 1987_ as shown in this reprint comprises Act No. 114, 1987 amended as indicated in the Tables below.
 
-### Table of Acts
+      The _Commonwealth Borrowing Levy Act 1987_ was affected by section 52 of the _CSL Sale Act 1993_.
+
+Table of Acts
+
+* * *
 
 <table>
 <colgroup>
@@ -138,25 +136,39 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-  </td>
-  <td>
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead></table>
+
+* * *
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
 <tr>
   <td>
     <div>Commonwealth Borrowing Levy Act 1987</div>
@@ -469,7 +481,7 @@ Remainder: <i>(h)</i></div>
     <div>24 June 1996</div>
   </td>
   <td>
-    <div>S. 36: Royal Assent <i>(k)</i></div>
+    <div>S. 36: Royal Assent <i> (k)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -525,82 +537,65 @@ Remainder: <i>(h)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Telstra (Further Dilution of Public Ownership) Act 1999</div>
-  </td>
-  <td>
-    <div>53, 1999</div>
-  </td>
-  <td>
-    <div>5 July 1999</div>
-  </td>
-  <td>
-    <div>5 July 1999</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 11 only of the _ANL (Conversion into Public Company) Act 1988_, subsection 2(3) of which provides as follows:
 
-                  (3)   Section 6, subsection 7(2) and sections 9 and 11 commence on a day to be fixed by Proclamation.
+                 “(3)   Section 6, subsection 7(2) and sections 9 and 11 commence on a day to be fixed by Proclamation.”
 
 _(b)_    Subsection 2(4) of the _OTC (Conversion into Public Company) Act 1988_ provides as follows:
 
-                  (4)   Subsection 8(3) commences immediately after the commencement of section 11.
+                 “(4)   Subsection 8(3) commences immediately after the commencement of section 11.”
 
          Section 11 commenced on 1 April 1989 (_see Gazette_ 1989, No. S92).
 
 _(c)_     Subsection 2(6) of the _Snowy Mountains Engineering Corporation (Conversion into Public Company) Act 1989_ provides as follows:
 
-                  (6)   Subsection 7(2) commences immediately after section 12.
+                 “(6)   Subsection 7(2) commences immediately after section 12.”
 
          Section 12 commenced on 1 July 1989 (_see Gazette_ 1989, No. S223).
 
-_(d)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 17 only of the _Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990_, subsection 2(5) of which provides as follows:
+_(d)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 17 only of the _Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990_ , subsection 2(5) of which provides as follows:
 
-                  (5)   Subject to subsection (6), sections 6, 10, 13 and 17 commence on a day to be fixed by Proclamation for the purposes of this subsection.
+                 “(5)   Subject to subsection (6), sections 6, 10, 13 and 17 commence on a day to be fixed by Proclamation for the purposes of this subsection.”
 
 _(e)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 44 only of the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_, subsection 2(2) of which provides as follows:
 
-                  (2)   Sections 5 to 36 (inclusive) and 39 to 44 (inclusive) commence on the sale day.
+                 “(2)   Sections 5 to 36 (inclusive) and 39 to 44 (inclusive) commence on the sale day.”
 
          The sale day was 9 November 1993 (_see Gazette_ 1994, No. S334).
 
 _(f)_      Subsection 2(2) of the _CSL Sale Act 1993_ provides as follows:
 
-                  (2)   Sections 8 to 46 (inclusive) and sections 48 to 53 (inclusive) commence on the sale day.
+                 “(2)   Sections 8 to 46 (inclusive) and sections 48 to 53 (inclusive) commence on the sale day.”
 
          The sale day was 3 June 1994 (_see Gazette_ 1994, No. S209).
 
 _(g)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by subsection 3(3) only of the _Transport and Communications Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 “(1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.”
 
 _(h)_     Subsection 2(2) of the _AeroSpace Technologies of Australia Limited Sale Act 1994_ provides as follows:
 
-                  (2)   The remaining provisions of this Act commence on the ASTA sale day.
+                 “(2)   The remaining provisions of this Act commence on the ASTA sale day.”
 
          The ASTA sale day was 27 June 1995 (_see Gazette_ 1995, No. S271).
 
 _(i)_      The _Commonwealth Borrowing Levy Act 1987_ was amended by section 5 only of the _Civil Aviation Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to this section, this Act commences on:
+                 “(1)   Subject to this section, this Act commences on:
 
                              (a)   a day to be fixed by Proclamation; or
 
                              (b)   the first day after the end of the period of 6 months beginning on the day on which this Act receives the Royal Assent;
 
-   whichever is earlier.
+   whichever is earlier.”
 
 _(j)_      The _ANL Sale Act 1995_ was repealed by section 79 of that Act before coming into operation.
 
 _(k)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 36 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_, subsection 2(1) of which provides as follows:
 
-                  (1)   Parts 1 to 5 commence on the day on which this Act receives the Royal Assent.
+                 “(1)   Parts 1 to 5 commence on the day on which this Act receives the Royal Assent.” 
 
          Section 36 provides that on the transfer day the schedule to the _Commonwealth Borrowing Levy Act_ is amended. 
 
@@ -608,17 +603,30 @@ _(k)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by sect
 
 _(l)_      The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 4 (item 2) only of the _Australian National Railways Commission Sale Act 1997_, subsection 2(4) of which provides as follows:
 
-                  (4)   Item 2 of Schedule 4 commences on the day on which it receives the Royal Assent.
+                 “(4)   Item 2 of Schedule 4 commences on the day on which it receives the Royal Assent.”
 
-_(m)_    The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 1 (item 38) only of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_, subsection 2(2) of which provides as follows:
+_(m)_    The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 1 (item 38) only ofthe _Health Insurance Commission (Reform and Separation of Functions) Act 1997_, subsection 2(2) of which provides as follows:
 
-                  (2)   Subject to subsection (3), Part 2 of Schedule 1 to this Act commences on the fund-transfer day. [_see_ Note 2]
+                 “(2)   Subject to subsection (3), Part 2 of Schedule 1 to this Act commences on the fund-transfer day.” [_see_ Note 2]
 
 _(n)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 3 only of the _Snowy Hydro Corporatisation (Consequential Amendments) Act 1997_, section 2 of which provides as follows:
 
-                     2   This Act commences on the same day as section 59 of the _Snowy Hydro Corporatisation Act 1997_. [_see_ Note 3]
+                   “2   This Act  commences on the same day as section 59 of the _Snowy Hydro Corporatisation Act 1997_.” [_see_ Note 3]
 
 ## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+</thead></table>
 
 <table>
 <colgroup>
@@ -626,11 +634,6 @@ _(n)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by Sche
   <col width="67%">
 </colgroup>
 
-<tr>
-  <td colspan="2">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div>Provision affected</div>
@@ -652,17 +655,15 @@ _(n)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by Sche
     <div>Schedule</div>
   </td>
   <td>
-    <div>am. Nos. 22, 121, 126, 127 and 129, 1988; Nos. 66 and 128, 1989; No. 77, 1990; No. 145, 1991; Nos. 54 and 88, 1993; Nos. 64 and 144, 1994; No. 82, 1995; No. 14, 1996; No. 96, 1997; No. 53, 1999</div>
+    <div>am. Nos. 22, 121, 126, 127 and 129, 1988; Nos. 66 and 128, 1989; No. 77, 1990; No. 145, 1991; Nos. 54 and 88, 1993; Nos. 64 and 144, 1994; No. 82, 1995; No. 14, 1996; No. 96, 1997</div>
   </td>
 </tr></table>
 
-### Note 2
+2.   The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 1 (item 38) only of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_. The applicable provision provides as follows:
 
-The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 1 (item 38) only of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_. The applicable provision provides as follows:
+38  Item 15 of the Schedule
 
-## 38  Item 15 of the Schedule
-
-                   Repeal the item, substitute:
+Repeal the item, substitute:
 
 <table>
 <colgroup>
@@ -679,38 +680,22 @@ The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 1 (item 38) o
   </td>
 </tr></table>
 
-Subsection 2(2) of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_ provides as follows:
+      Subsection 2(2) of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_ provides as follows:
 
-             (2)  Subject to subsection (3), Part 2 of Schedule 1 to this Act commences on the fund-transfer day.
+                 “(2)   Subject to subsection (3), Part 2 of Schedule 1 to this Act commences on the fund-transfer day.”
 
-As at 25 August 1999 no date had been fixed for the transfer day and the amendment is not incorporated in this consolidation.
+      As at 10 February 1997 no date had been fixed for the transfer day and the amendment is not incorporated in this reprint.
 
-### Note 3
+3.   The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 3 only of the _Snowy Hydro Corporatisation (Consequential Amendments) Act 1997_. The applicable provision provides as follows:
 
-The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 3 only of the _Snowy Hydro Corporatisation (Consequential Amendments) Act 1997_. The applicable provision provides as follows:
+1  Schedule, item 21
 
-## 1  Schedule, item 21
+Repeal the item.
 
-                   Repeal the item.
+      Section 2 of the _Snowy Hydro Corporatisation (Consequential Amendments) Act 1997_ provides as follows:
 
-Section 2 of the _Snowy Hydro Corporatisation (Consequential Amendments) Act 1997_ provides as follows:
+                 “(2)   This Act commences on the same day as section 59 of the _Snowy Hydro Corporatisation Act 1997_.”
 
-             (2)  This Act commences on the same day as section 59 of the _Snowy Hydro Corporatisation Act 1997_.
+      As at 10 February 1998 no date had been fixed and the amendment is not incorporated in this reprint.
 
-As at 25 August 1999 no date had been fixed and the amendment is not incorporated in this consolidation.
-
-Table A
-
-### Application, saving or transitional provisions
-
-_Telstra (Further Dilution of Public Ownership) Act 1999 (No. 53, 1999)_
-
-## Schedule 1
-
-## 2  Transitional
-
-(1)        Subject to subitem (2), Telstra is not liable after the commencement of this item to pay an amount of levy imposed by the _Commonwealth Borrowing Levy Act 1987_ on a borrowing undertaken before that commencement.
-
-(2)        Subitem (1) does not apply in relation to an amount of levy that was paid or payable before the commencement of this item.
-
-_ _
+ 
