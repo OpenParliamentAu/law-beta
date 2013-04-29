@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00148/Html/3582952c-43e7-4d17-a6fa-b2f523598c6b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00733/Html/cb216a24-4a7b-4124-a1ab-7a0d4972b3c2_files/image001.gif)
 
 # Healthcare Identifiers Act 2010
 
 **Act No. 72 of 2010 as amended**
 
-This compilation was prepared on 29 March 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 November 2010
+ taking into account amendments up to Act No. 73 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -134,11 +134,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Healthcare Identifiers Act 2010_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act commences on the day after this Act receives the Royal Assent.
 
@@ -244,7 +244,7 @@ Note:          In 2010, the text of the Statement was accessib
 
                     <a name="ministeri-council"></a>**_Ministerial Council_** has the meaning given by:
 
-                     (a)  the National Partnership Agreement on E‑Health made on 7 December 2009 between the Commonwealth, the States, the Australian Capital Territory and the Northern Territory; or
+                     (a)  the National Partnership Agreement on E-Health made on 7 December 2009 between the Commonwealth, the States, the Australian Capital Territory and the Northern Territory; or
 
                      (b)  if that Agreement is amended—that Agreement as amended.
 
@@ -278,9 +278,9 @@ Note:          In 2010, the text of the Agreement was accessib
 
                              (v)  it aims to maintain the standing of the healthcare profession practised by its members;
 
-                            (vi)  it has written rules, articles of association, by‑laws or codes of conduct for its members;
+                            (vi)  it has written rules, articles of association, by-laws or codes of conduct for its members;
 
-                           (vii)  it has the ability to impose sanctions on members who contravene the association’s written rules, articles of association, by‑laws or codes of conduct;
+                           (vii)  it has the ability to impose sanctions on members who contravene the association’s written rules, articles of association, by-laws or codes of conduct;
 
                           (viii)  it sets requirements to maintain its members’ professional skills and knowledge by continuing professional development; and
 
@@ -540,7 +540,7 @@ Example:    A healthcare provider may be asked for original documentation,
 
              (4)  If the service operator is not satisfied by the information given, it does not have to assign a healthcare identifier to the healthcare provider.
 
-##### <a id="9C"></a>9C  Review of decision not to assign a healthcare identifier
+##### <a id="9C"></a>9C  Review of decision not to assign a healthcare identifier
 
              (1)  This section applies to a decision by the service operator not to assign a healthcare identifier to a healthcare provider under paragraph 9(1)(a).
 
@@ -932,7 +932,7 @@ Note 2:       Part 6 (sunsetting) of the _Legislative Instruments 
 
 ##### <a id="33"></a>33  Consultation with Ministerial Council about regulations
 
-                   Before the Governor‑General makes a regulation for the purpose of this Act, the Minister must consult with the Ministerial Council.
+                   Before the Governor-General makes a regulation for the purpose of this Act, the Minister must consult with the Ministerial Council.
 
 ##### <a id="34"></a>34  Annual reports by service operator
 
@@ -972,9 +972,9 @@ no later than on 30 September after the end of the financial year to which the
 
                    An authorisation under this Act to an entity (the **_first entity_**) for a particular purpose is an authorisation to:
 
-                     (a)  an individual:
+                     (a)  an individual who:
 
-                              (i)  who is an employee of the first entity; and
+                              (i)  is an employee of the first entity; and
 
                              (ii)  whose duties involve implementing that purpose; or
 
@@ -984,9 +984,9 @@ no later than on 30 September after the end of the financial year to which the
 
                              (ii)  the duties of the contracted service provider under a contract with the healthcare provider involve implementing that purpose by providing information technology services relating to the communication of health information, or health information management services, to the healthcare provider; or
 
-                     (c)  an individual:
+                     (c)  an individual who:
 
-                              (i)  who is an employee of a contracted service provider to which paragraph (b) applies; and
+                              (i)  is an employee of a contracted service provider to which paragraph (b) applies; and
 
                              (ii)  whose duties involve implementing that purpose as mentioned in that paragraph.
 
@@ -1062,9 +1062,9 @@ Declarations that Act does not apply
 
 Note:       The text of the Covenant is set out in Australian Treaty Series 1980 No. 23 (\[1980] ATS 23). In 2010, a text of a Covenant in the Australian Treaties Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
 
-                     (b)  that is of international concern, including the international concern reflected by the Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, recommended by the Council of the Organisation for Economic Co‑operation and Development on 23 September 1980.
+                     (b)  that is of international concern, including the international concern reflected by the Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, recommended by the Council of the Organisation for Economic Co-operation and Development on 23 September 1980.
 
-Note:       In 2010, the text of the Guidelines was accessible through the Organisation for Economic Co‑operation and Development website (www.oecd.org).
+Note:       In 2010, the text of the Guidelines was accessible through the Organisation for Economic Co-operation and Development website (www.oecd.org).
 
              (9)  Parts 3 and 4 also have the effect they would have if their operation in relation to a collection, use or disclosure of information were expressly confined to a collection, use or disclosure by, or to, the Commonwealth or a Commonwealth authority.
 
@@ -1072,13 +1072,13 @@ Note:       In 2010, the text of the Guidelines was accessible throu
 
 ##### <a id="39"></a>39  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted to be prescribed by this Act; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-Note:          Before the Governor‑General makes a regulation for the purpose of this Act, the Minister must consult with the Ministerial Council: see section 33.
+Note:          Before the Governor-General makes a regulation for the purpose of this Act, the Minister must consult with the Ministerial Council: see section 33.
 
              (2)  Without limiting subsection (1), the regulations may provide for the imposition of a penalty of not more than 50 penalty units for contravention of a regulation.
 
@@ -1153,23 +1153,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 60–63): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1197,14 +1180,6 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 29</div>
   </td>
   <td>
@@ -1225,22 +1200,6 @@ of Assent</div>
   </td>
   <td>
     <div>am. No. 73, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr></table>
 
