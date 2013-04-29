@@ -1,17 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2004C02425/Html/BankruptEstateCharg1997_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02424/Html/BankruptEstateChrg97_image001.gif)
 
 # Bankruptcy (Estate Charges) Act 1997
 
 **Act No. 12 of 1997 as amended**
 
-This compilation was prepared on 29 June 2004
- taking into account amendments up to Act No. 81 of 2004
+This compilation was prepared on 23 July 2002
+ taking into account amendments up to Act No. 61 of 2002
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
-
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -20,33 +17,33 @@ Prepared by the Office of Legislative Drafting,
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement                                                               1
 
-[3](#3).            Act to bind the Commonwealth Crown
+[3](#3).            Act to bind the Commonwealth Crown                                              1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       1
 
 **Part 2—Interest charge**
 
-[5](#5).            Interest charge
+[5](#5).            Interest charge                                                                                      2
 
 **Part 3—Realisations charge**
 
-[6](#6).            Realisations charge
+[6](#6).            Realisations charge                                                                               3
 
-[6A](#6A).         Charge not payable on estate surplus
+[6A](#6A).         Charge not payable on estate surplus                                                  3
 
-[7](#7).            Amount of charge payable
+[7](#7).            Amount of charge payable                                                                   4
 
-[7A](#7A).         Certain amounts treated as being received by person
+[7A](#7A).         Certain amounts treated as being received by person                          4
 
-[8](#8).            Working out the amount on which charge is payable
+[8](#8).            Working out the amount on which charge is payable                          4
 
 **Part 4—Miscellaneous**
 
-[9](#9).            Regulations
+[9](#9).            Regulations                                                                                          6
 
 **Notes** 
 
@@ -197,8 +194,8 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="30%">
   <col width="16%">
   <col width="17%">
-  <col width="22%">
-  <col width="15%">
+  <col width="23%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -221,7 +218,18 @@ of Assent</div>
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
-</thead>
+</thead></table>
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="23%">
+  <col width="13%">
+  <col width="0%">
+</colgroup>
+
 <tr>
   <td>
     <div>Bankruptcy (Estate Charges) Act 1997</div>
@@ -234,6 +242,9 @@ of Assent</div>
   </td>
   <td>
     <div>14 Apr 1997 ( <i>see</i> <i>Gazette</i>1997, No. S136)</div>
+  </td>
+  <td>
+    <div></div>
   </td>
   <td>
     <div></div>
@@ -253,9 +264,11 @@ of Assent</div>
     <div><i>(a)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (items 
-10–16) 
+    <div>Sch. 1 (items 10-16) 
 S. 2 (as am. by 61, 2002 Sch. 1 (item 11))</div>
+  </td>
+  <td>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -271,7 +284,7 @@ S. 2 (as am. by 61, 2002 Sch. 1 (item 11))</div>
   <td>
     <div> </div>
   </td>
-  <td>
+  <td colspan="2">
     <div> </div>
   </td>
 </tr>
@@ -288,7 +301,7 @@ S. 2 (as am. by 61, 2002 Sch. 1 (item 11))</div>
   <td>
     <div>( <i>see</i>61, 2002 below)</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>—</div>
   </td>
 </tr>
@@ -303,29 +316,14 @@ S. 2 (as am. by 61, 2002 Sch. 1 (item 11))</div>
     <div>3 July 2002</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–10, 12, 13): <i>(b)</i> 
+    <div>Schedule 1 (items 1-10, 12, 13): <i>(b)</i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 12, 13)</div>
   </td>
-</tr>
-<tr>
   <td>
-    <div>Bankruptcy (Estate Charges) Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>81, 2004</div>
-  </td>
-  <td>
-    <div>23 June 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i> <i>(c)</i>, Note 2 and Table A] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 4)</div>
+    <div></div>
   </td>
 </tr></table>
 
@@ -335,7 +333,7 @@ _(a)_ Section 2 of the _Bankruptcy (Estate Charges) Amendment Act 2001_ provides
 
 Section 1 commenced on 3 July 2002.
 
-_(b)_ Subsection 2(1) (items 2 and 4) of the _Bankruptcy (Estate Charges) Amendment Act 2002_ provides as follows:
+_(b)_ Section 2(1) (items 2 and 4) of the _Bankruptcy (Estate Charges) Amendment Act 2002_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -398,43 +396,9 @@ _(b)_ Subsection 2(1) (items 2 and 4) of the _Bankruptcy (Estate Charges) Amendm
   </td>
 </tr></table>
 
-_(c)_ Subsection 2(1) (item 2) of the _Bankruptcy (Estate Charges) Amendment Act 2004_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div><b> Provision(s) </b></div>
-    </td>
-    <td>
-      <div><b> Commencement </b></div>
-    </td>
-    <td>
-      <div><b> Date/Details </b></div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>2\. Schedule 1</div>
-  </td>
-  <td>
-    <div>At the same time as Schedule 1 to the <i>Bankruptcy Legislation Amendment Act 2004</i>commences.</div>
-  </td>
-  <td>
-    <div>\[ <i>see</i>Note 2]</div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
+
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 
 <table>
 <colgroup>
@@ -442,27 +406,12 @@ _(c)_ Subsection 2(1) (item 2) of the _Bankruptcy (Estate Charges) Amendment Act
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div>Provision affected</div>
   </td>
   <td>
-    <div></div>
+    <div>How affected</div>
   </td>
 </tr>
 <tr>
@@ -475,31 +424,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Bankruptcy (Estate Charges) Amendment Act
 </tr>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 158, 2001; No. 61, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
+    <div>Ss. 5, 6</div>
   </td>
   <td>
     <div>am. No. 158, 2001; No. 61, 2002</div>
@@ -555,15 +480,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Bankruptcy (Estate Charges) Amendment Act
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4</div>
+    <div>Part 4 (s. 9)</div>
   </td>
   <td>
     <div>ad. No. 158, 2001</div>
@@ -585,32 +502,6 @@ _(c)_ Subsection 2(1) (item 2) of the _Bankruptcy (Estate Charges) Amendment Act
     <div></div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Bankruptcy (Estate Charges) Amendment Act 2004 (No. 81, 2004)_
-
-The following amendments commence on 23 December 2004 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  Paragraphs 5(2)(b), (c) and (d)
-
-Repeal the paragraphs, substitute:
-
-                     (b)  subsection 231(5) (which applies section 169 to a personal insolvency agreement);
-
-## 2  Paragraph 6(1)(c)
-
-Repeal the paragraph, substitute:
-
-                     (c)  is the trustee of a personal insolvency agreement executed in relation to a debtor under Part X of the _Bankruptcy Act 1966_; or
-
-## 3  Subsection 6(1A)
-
-Omit “deed”, substitute “personal insolvency agreement”.
-
-As at 29 June 2004 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -679,49 +570,5 @@ The amendments made by items 1, 2 and 3 apply to interest paid, after the comm
 ## 13  Items 4 to 10
 
 The amendments made by items 4, 5, 6, 7, 8, 9 and 10 apply to amounts received after the commencement of those items.
-
-* * *
-
-_Bankruptcy (Estate Charges) Amendment Act 2004 (No. 81, 2004)_
-
-The following provision commences on 23 December 2004 unless proclaimed earlier:
-
-## Schedule 1
-
-## 4  Transitional
-
-(1)        In this item:
-
-**_post-commencement composition_** means a composition that was accepted after the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_ as that section continues to apply because of item 213 of Schedule 1 to the _Bankruptcy Legislation Amendment Act 2004_.
-
-**_post-commencement deed_** means a deed of assignment or a deed of arrangement that was executed after the commencement of this item by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ as that Part continues to apply because of item 213 of Schedule 1 to the _Bankruptcy Legislation Amendment Act 2004_.
-
-**_pre-commencement composition_** has the same meaning as in item 212 of Schedule 1 to the _Bankruptcy Legislation Amendment Act 2004_.
-
-**_pre-commencement deed_** has the same meaning as in item 212 of Schedule 1 to the _Bankruptcy Legislation Amendment Act 2004_.
-
-(2)        Despite the amendment made by item 1 of this Schedule, section 5 of the _Bankruptcy (Estate Charges) Act 1997_ continues to apply, in relation to an amount to which a person is entitled because the person is:
-
-                     (a)  the trustee of a pre-commencement deed; or
-
-                     (b)  the trustee of a pre-commencement composition; or
-
-                     (c)  the trustee of a post-commencement deed; or
-
-                     (d)  the trustee of a post-commencement composition;
-
-as if that amendment had not been made.
-
-(3)        Despite the amendments made by items 2 and 3 of this Schedule, Part 3 of the _Bankruptcy (Estate Charges) Act 1997_ continues to apply, in relation to an amount received by a person because the person is:
-
-                     (a)  the trustee of a pre-commencement deed; or
-
-                     (b)  the trustee of a pre-commencement composition; or
-
-                     (c)  the trustee of a post-commencement deed; or
-
-                     (d)  the trustee of a post-commencement composition;
-
-as if those amendments had not been made.
 
  
