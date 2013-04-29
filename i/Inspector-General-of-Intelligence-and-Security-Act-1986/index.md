@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00723/Html/InsGenIntSec1986_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00392/Html/InsGenIntSec1986_WD02_image001.gif)
 
 # Inspector-General of Intelligence and Security Act 1986
 
 **Act No. 101 of 1986 as amended**
 
-This compilation was prepared on 1 November 2010
+This compilation was prepared on 7 June 2010
  taking into account amendments up to Act No. 51 of 2010
 
 The text of any of those amendments not in force 
@@ -118,7 +118,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [33](#33).          Protection from civil actions
 
-[34](#34).          Secrecy [_see_ Note 2]
+[34](#34).          Secrecy
 
 [34A](#34A).       Information and documents may be given to Royal Commissioners
 
@@ -821,7 +821,7 @@ the head need not give a copy of the report to the Inspector-General until the h
 
 a person is not liable to an action, suit or proceeding in respect of loss, damage or injury of any kind suffered by another person by reason only that the complaint was made, the document was produced or the information or evidence was given.
 
-##### <a id="34"></a>34  Secrecy [_see_ Note 2]
+##### <a id="34"></a>34  Secrecy
 
              (1)  Subject to subsection (1A), a person who is, or has at any time been, the Inspector-General or a member of the staff of the Inspector-General or who is acting, or has at any time acted, as the Inspector-General or as a member of the staff of the Inspector-General shall not, either directly or indirectly, except in the performance of his or her functions or duties or in the exercise of his or her powers under this Act:
 
@@ -831,9 +831,9 @@ a person is not liable to an action, suit or proceeding in respect of loss, dama
 
                     Penalty:  $5,000 or imprisonment for 2 years, or both.
 
-       (1AA)  Subject to subsection (1A), a person who is, or has at any time been, the Inspector-General or a member of the staff of the Inspector-General or who is acting, or has at any time acted, as the Inspector-General or as a member of the staff of the Inspector-General must not, either directly or indirectly, except in the performance of his or her functions or duties or in the exercise of his or her powers under Division 9 of Part VII or section 60A of the _Freedom of Information Act 1982_:
+       (1AA)  Subject to subsection (1A), a person who is, or has at any time been, the Inspector-General or a member of the staff of the Inspector-General or who is acting, or has at any time acted, as the Inspector-General or as a member of the staff of the Inspector-General must not, either directly or indirectly, except in the performance of his or her functions or duties or in the exercise of his or her powers under section 60A of the _Freedom of Information Act 1982_:
 
-                     (a)  make a record of, or divulge or communicate to any person, any information acquired under that Division or section by reason of the person holding, or acting in, that office; or
+                     (a)  make a record of, or divulge or communicate to any person, any information acquired under that section by reason of the person holding, or acting in, that office; or
 
                      (b)  make use of any such information.
 
@@ -868,8 +868,6 @@ a person is not liable to an action, suit or proceeding in respect of loss, dama
 except where it is necessary to do so:
 
                      (c)  if the information is obtained by the person because the person is performing functions or duties or exercising powers under this Act—for the purposes of this Act; and
-
-                    (ca)  if the information is obtained by the person because the person is performing functions or duties or exercising powers under Division 9 of Part VII of the _Freedom of Information Act 1982_—for the purposes of that Division; and
 
                      (d)  if the information is obtained by the person because the person is performing functions or duties or exercising powers under section 60A of the _Freedom of Information Act 1982_—for the purposes of that section; and
 
@@ -1350,10 +1348,11 @@ Remainder: Royal Assent</div>
     <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 49–52) and Schedule 7: <i>(g)</i></div>
+    <div>Schedule 6 (items 49–52): \[ <i>see (g)</i>and Note 2] 
+Schedule 7: <i>(g)</i></div>
   </td>
   <td>
-    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
+    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
   </td>
 </tr></table>
 
@@ -1472,7 +1471,8 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
   </td>
   <td>
     <div>
-      1 November 2010
+      \[
+        <i>see</i>Note 2]
     </div>
   </td>
 </tr></table>
@@ -1833,7 +1833,7 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
     <div>S. 34</div>
   </td>
   <td>
-    <div>am. No. 161, 1999; No. 99, 2009; No. 51, 2010</div>
+    <div>am. No. 161, 1999; No. 99, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1855,15 +1855,31 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
 
 ### Note 2
 
-Subsection 34(5)—Schedule 6 (item 51) of the _Freedom of Information Amendment (Reform) Act 2010_ (No. 51, 2010) provides as follows:
+_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
+
+The following amendments commence immediately after 1 November 2010:
 
 ## Schedule 6
+
+## 49  Subsection 34(1AA)
+
+Before “section 60A”, insert “Division 9 of Part VII or”.
+
+## 50  Paragraph 34(1AA)(a)
+
+Before “section”, insert “Division or”.
 
 ## 51  Subsection 34(5)
 
 Before “section 60A”, insert “Division 9 of Part VII or”.
 
-The proposed amendment was misdescribed and is not incorporated in this compilation.
+## 52  After paragraph 34(5)(c)
+
+Insert:
+
+                    (ca)  if the information is obtained by the person because the person is performing functions or duties or exercising powers under Division 9 of Part VII of the _Freedom of Information Act 1982_—for the purposes of that Division; and
+
+As at 7 June 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
