@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00793/Html/f442159f-453b-45c9-a0ad-fe45a358bcfd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00130/Html/AustAirliConverPublComp88_WD02_image001.gif)
 
 # Australian Airlines (Conversion to Public Company) Act 1988
 
 **Act No. 6 of 1988 as amended**
 
-This compilation was prepared on 7 November 2012 
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 31 October 2000 
+ taking into account amendments up to Act No. 168 of 1994
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,131 +13,146 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Extension to Territories                                                                        1
+[3](#3).            Extension to Territories
 
-[4](#4).            This Act has effect despite Airlines Act                                               1
+[4](#4).            This Act has effect despite Airlines Act
 
 **Part II—Interpretation**
 
-[5](#5).            Interpretation                                                                                        2
+[5](#5).            Interpretation
 
-[6](#6).            Minister may nominate holding company                                            4
+[6](#6).            Minister may nominate holding company
 
-[7](#7).            New group companies                                                                         4
+[7](#7).            New group companies
 
-[9](#9).            Subsidiaries                                                                                          4
+[9](#9).            Subsidiaries
 
 **Part III—Capital structure of the Australian Airlines group**
 
-[10](#10).          Share capital of transferring body                                                        5
+[10](#10).          Share capital of transferring body
 
-[11](#11).          Issue of shares in transferring body                                                     5
+[11](#11).          Issue of shares in transferring body
 
 **Part IV—Conversion of Australian Airlines to public company**
 
-[15](#15).          Deemed registration under Companies Act                                          7
+[15](#15).          Deemed registration under Companies Act
 
-[16](#16).          New name of transferring body                                                           8
+[16](#16).          New name of transferring body
 
-[17](#17).          Memorandum and articles of transferring body                                   8
+[17](#17).          Memorandum and articles of transferring body
 
-[18](#18).          Membership of transferring body                                                        9
+[18](#18).          Membership of transferring body
 
-[19](#19).          Application of certain provisions of Companies Act                            9
+[19](#19).          Application of certain provisions of Companies Act
 
-[20](#20).          Accounting records                                                                              9
+[20](#20).          Accounting records
 
-[21](#21).          Accounts                                                                                              9
+[21](#21).          Accounts
 
-[22](#22).          Operation of section 25B of Acts Interpretation Act                          10
+[22](#22).          Operation of section 25B of Acts Interpretation Act
 
 **Part VI—Staff matters**
 
-[29](#29).          Employment of staff members continues after transition                    11
+[29](#29).          Employment of staff members continues after transition
 
-[30](#30).          This Act not to affect certain matters relating to staff members          11
+[30](#30).          This Act not to affect certain matters relating to staff members
 
-[31](#31).          Effect of sections 29 and 30                                                               12
+[31](#31).          Effect of sections 29 and 30
 
-[32](#32).          Variation of terms and conditions                                                      12
+[32](#32).          Variation of terms and conditions
 
 **Part VII—Taxation matters** 
 
     **Division 1—Exemption from certain taxes**
 
-[34](#34).          Interpretation                                                                                      13
+[34](#34).          Interpretation
 
-[35](#35).          Exemptions relating to exempt matters                                               13
+[35](#35).          Exemptions relating to exempt matters
 
-[36](#36).          Authorised person may certify in relation to exemptions                   14
+[36](#36).          Authorised person may certify in relation to exemptions
 
     **Division 2—Application of various Tax Act provisions**
 
-[37](#37).          Deemed share capital of transferring body                                         15
+[37](#37).          Deemed share capital of transferring body
 
-[38](#38).          Holding company deemed non‑existent before issue of shares in transferring body                15
+[38](#38).          Holding company deemed non-existent before issue of shares in transferring body
 
-[39](#39).          Application of section 25A of the Tax Act                                         15
+[39](#39).          Application of section 25A of the Tax Act
 
-[40](#40).          Application of section 26AAA of the Tax Act                                   16
+[40](#40).          Application of section 26AAA of the Tax Act
 
     **Division 3—Investment allowance not affected by certain transactions**
 
-[41](#41).          Interpretation                                                                                      17
+[41](#41).          Interpretation
 
-[42](#42).          Disposal of property to new group company                                     17
+[42](#42).          Disposal of property to new group company
 
-[43](#43).          Substitution of new group company as lessee of property                 17
+[43](#43).          Substitution of new group company as lessee of property
 
-[44](#44).          Lease assigned to new group company                                              18
+[44](#44).          Lease assigned to new group company
 
     **Division 4—Application of capital gains tax provisions**
 
-[45](#45).          Interpretation                                                                                      19
+[45](#45).          Interpretation
 
-[46](#46).          Consideration                                                                                     19
+[46](#46).          Consideration
 
-[47](#47).          Relevant market value in relation to disposal                                      19
+[47](#47).          Relevant market value in relation to disposal
 
-[48](#48).          Notional assumed liability in relation to disposal                               19
+[48](#48).          Notional assumed liability in relation to disposal
 
-[49](#49).          Disposal of asset by transferring body to new group company         20
+[49](#49).          Disposal of asset by transferring body to new group company
 
-[50](#50).          Cancellation of shares under section 14                                             22
+[50](#50).          Cancellation of shares under section 14
 
-[51](#51).          Treatment of shares in transferring body as at transition                    22
+[51](#51).          Treatment of shares in transferring body as at transition
 
 **Part VIII—Amendments of the Airlines Act**
 
-[52](#52).          Repeal of certain provisions                                                               25
+[52](#52).          Repeal of certain provisions
 
-[53](#53).          Reference of powers by States: transferring body                              25
+[53](#53).          Reference of powers by States: transferring body
 
-[54](#54).          Reference of powers by States: group companies                              25
+[54](#54).          Reference of powers by States: group companies
 
-[55](#55).          Interpretation of continuing provisions                                              26
+[55](#55).          Interpretation of continuing provisions
 
-[56](#56).          Judicial notice of Commission’s seal                                                 26
+[56](#56).          Judicial notice of Commission’s seal
 
-[57](#57).           Limitation of certain actions                                                              26
+[57](#57).           Limitation of certain actions
 
-[58](#58).          Repeal of Australian National Airlines Regulations                           27
+[58](#58).          Repeal of Australian National Airlines Regulations
 
 **Part IX—Miscellaneous**
 
-[60](#60).          Application of Superannuation Acts                                                  28
+[60](#60).          Application of Superannuation Acts
 
-[62](#62).          Compensation for acquisition of property                                          28
+[62](#62).          Compensation for acquisition of property
+
+**Part X—Amendments of the Compensation (Commonwealth Government Employees) Act 1971** 
+
+**Part XI—Amendment of the Long Service Leave (Commonwealth Employees) Act 1976** 
+
+**Part XII—Amendments, and repeals, of other Acts**
+
+[69](#69).          Consequential amendments of other Acts
+
+[70](#70).          Repeal of certain Acts
+
+**Schedule 1—Consequential amendments of other Acts** 
+
+**Schedule 2—Consequential amendments of other Acts** 
 
 **Notes** 
 
@@ -179,7 +194,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="articl"></a>**_articles_** means articles of association.
 
-                    <a name="australian-capit-territori"></a>**_Australian Capital Territory_** includes the Jervis Bay Territory.
+                    <a name="australian-capit-territori"></a>**_Australian Capital Territory_** includes the Jervis  Bay Territory.
 
                     <a name="authorised-person"></a>**_authorised person_** means:
 
@@ -199,7 +214,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                      (a)  the transferring body; or
 
-                     (b)  a wholly‑owned subsidiary of the transferring body.
+                     (b)  a wholly-owned subsidiary of the transferring body.
 
                     <a name="hold-compani"></a>**_holding company_** means the body corporate (if any) nominated under section 6.
 
@@ -233,7 +248,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="transition"></a>**_transition_** means the commencement of section 15.
 
-                    <a name="hold-bodi"></a><a name="wholli-owned-subsidiari"></a>**_wholly‑owned subsidiary_**, in relation to a body corporate (in this definition called the **_holding body_**), means a body corporate:
+                    <a name="hold-bodi"></a><a name="wholli-owned-subsidiari"></a>**_wholly-owned subsidiary_**, in relation to a body corporate (in this definition called the **_holding body_**), means a body corporate:
 
                      (a)  that is a subsidiary of the holding body;
 
@@ -241,7 +256,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                               (i)  the holding body;
 
-                             (ii)  a body corporate that is, by virtue of any other application or applications of this definition, a wholly‑owned subsidiary of the holding body; or
+                             (ii)  a body corporate that is, by virtue of any other application or applications of this definition, a wholly-owned subsidiary of the holding body; or
 
                             (iii)  a nominee of the holding body or of a body of a kind referred to in subparagraph (ii); and
 
@@ -357,7 +372,7 @@ except so far as express provision is made by a law of the Commonwealth, or of t
 
 ##### <a id="17"></a>17  Memorandum and articles of transferring body
 
-             (1)  The transferring body shall, before the transition, lodge with the Corporate Affairs Commission for the Australian Capital Territory a proposed memorandum, and proposed articles, of Australian Airlines Limited.
+             (1)  The transferring body shall, before the transition, lodge with the Corporate Affairs Commission for the Australian   Capital Territory a proposed memorandum, and proposed articles, of Australian Airlines Limited.
 
              (2)  As from the transition, the proposed memorandum, and the proposed articles, lodged under subsection (1):
 
@@ -423,7 +438,7 @@ except so far as express provision is made by a law of the Commonwealth, or of t
 
                      (b)  but for this subsection, some or all of that period would not have to be taken into account as a period during which he or she was employed by the body;
 
-the body shall treat the whole of the first‑mentioned period as a period during which he or she was employed by it.
+the body shall treat the whole of the first-mentioned period as a period during which he or she was employed by it.
 
 ##### <a id="31"></a>31  Effect of sections 29 and 30
 
@@ -449,7 +464,7 @@ the body shall treat the whole of the first‑mentioned period as a period durin
 
                      (b)  adding to those terms and conditions; or
 
-                     (c)  substituting new terms or conditions for any of the first‑mentioned terms and conditions.
+                     (c)  substituting new terms or conditions for any of the first-mentioned terms and conditions.
 
 ## Part VII—Taxation matters
 
@@ -513,7 +528,7 @@ but does not include income tax imposed as such by a law of the Commonwealth.
 
                    For the purposes of the Tax Act, the transferring body shall be deemed to have had, at all times before it complies with subsection 11(3) of this Act, a share capital all the issued shares in which were, at all such times, beneficially owned by the Commonwealth.
 
-##### <a id="38"></a>38  Holding company deemed non‑existent before issue of shares in transferring body
+##### <a id="38"></a>38  Holding company deemed non-existent before issue of shares in transferring body
 
              (1)  This section has effect for the purposes of the Tax Act if:
 
@@ -561,7 +576,7 @@ but does not include income tax imposed as such by a law of the Commonwealth.
 
                      (d)  at no time during that period did a person who owned the property:
 
-                              (i)  lease it, let it on hire under a hire‑purchase agreement or otherwise grant to another person a right to use it; or
+                              (i)  lease it, let it on hire under a hire-purchase agreement or otherwise grant to another person a right to use it; or
 
                              (ii)  use it outside Australia or for a purpose other than the purpose of producing assessable income.
 
@@ -613,7 +628,7 @@ this section has effect for the purposes of subsection 82AG(3) of the Tax Act.
 
 ##### <a id="47"></a>47  Relevant market value in relation to disposal
 
-                   For the purposes of this Division, the relevant market value in relation to a disposal of an asset is the market value of the asset at the time of the disposal.
+                   For the purposes of this Division, the relevant market value in relation to a disposal of an asset is the market value of the asset at the time of the disposal.
 
 ##### <a id="48"></a>48  Notional assumed liability in relation to disposal
 
@@ -631,7 +646,7 @@ as the case may be.
 
              (4)  For the purposes of subsection (2), to the extent that, apart from this subsection, a liability is attributable to no asset disposed of by the transferring body to the body corporate before the transition, the liability shall be deemed to be attributable to the relevant asset to the extent of the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00793/Html/f442159f-453b-45c9-a0ad-fe45a358bcfd_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00130/Html/AustAirliConverPublComp88_WD02_image002.gif)
 
 where:
 
@@ -705,25 +720,25 @@ in the event of a later disposal of the shares by the body, the body shall be de
 
                      (a)  at the transition, the holding company holds all the issued shares;
 
-                     (b)  assets (in this section called the **_pre‑CGT assets_**) were acquired by the transferring body before 20 September 1985;
+                     (b)  assets (in this section called the **_pre-CGT assets_**) were acquired by the transferring body before 20 September 1985;
 
-                     (c)  the holding company, by written notice given to the Commissioner on or before the day on which the holding company lodges its return of income for the year of income in which the transition occurs, or within such further period as the Commissioner allows, nominates as pre‑CGT shares such of the issued shares as are specified in the notice; and
+                     (c)  the holding company, by written notice given to the Commissioner on or before the day on which the holding company lodges its return of income for the year of income in which the transition occurs, or within such further period as the Commissioner allows, nominates as pre-CGT shares such of the issued shares as are specified in the notice; and
 
                      (d)  the number of shares nominated does not exceed the number calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00793/Html/f442159f-453b-45c9-a0ad-fe45a358bcfd_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00130/Html/AustAirliConverPublComp88_WD02_image003.gif)
 
                             where:
 
                             **_Shares_** is the number of issued shares.
 
-                            **_Net Value of Pre‑CGT Assets_** is the number of dollars in the market value of the pre‑CGT assets reduced by the number of dollars in the liabilities, to the extent that the liabilities are attributable to the pre‑CGT assets; and
+                            **_Net Value of Pre-CGT Assets_** is the number of dollars in the market value of the pre-CGT assets reduced by the number of dollars in the liabilities, to the extent that the liabilities are attributable to the pre-CGT assets; and
 
                             **_Net Value of Total Assets_** is the number of dollars in the market value of the assets reduced by the number of dollars in the liabilities.
 
              (3)  The holding company shall be deemed to have acquired before 20 September 1985 the shares nominated under paragraph (2)(c).
 
-             (4)  The rest of the issued shares are post‑CGT shares for the purposes of subsection (5).
+             (4)  The rest of the issued shares are post-CGT shares for the purposes of subsection (5).
 
              (5)  For the purpose of:
 
@@ -731,9 +746,9 @@ in the event of a later disposal of the shares by the body, the body shall be de
 
                      (b)  ascertaining whether the holding company incurred a capital loss;
 
-in the event of a later disposal of a post‑CGT share by the holding company, the holding company shall be deemed to have acquired the share for a consideration equal to the amount calculated in accordance with the formula:
+in the event of a later disposal of a post-CGT share by the holding company, the holding company shall be deemed to have acquired the share for a consideration equal to the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00793/Html/f442159f-453b-45c9-a0ad-fe45a358bcfd_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00130/Html/AustAirliConverPublComp88_WD02_image004.gif)
 
 where:
 
@@ -743,15 +758,15 @@ where:
 
                      (b)  in any other case—the indexed cost bases, or the reduced cost bases, as the case may be;
 
-to the transferring body of the assets (other than the pre‑CGT assets) if the body had disposed of those assets at the transition.
+to the transferring body of the assets (other than the pre-CGT assets) if the body had disposed of those assets at the transition.
 
-                    <a name="attribut-liabil"></a>**_Attributable Liabilities_** is the amount of the liabilities, to the extent that they are attributable to the assets (other than the pre‑CGT assets); and
+                    <a name="attribut-liabil"></a>**_Attributable Liabilities_** is the amount of the liabilities, to the extent that they are attributable to the assets (other than the pre-CGT assets); and
 
-                    <a name="post-cgt-share"></a>**_Post‑CGT Shares_** is the number of post‑CGT shares.
+                    <a name="post-cgt-share"></a>**_Post-CGT Shares_** is the number of post-CGT shares.
 
              (6)  For the purposes of this section, to the extent that, apart from this subsection, they are not attributable to the assets, the liabilities shall be deemed to be attributable to a particular asset to the extent of the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00793/Html/f442159f-453b-45c9-a0ad-fe45a358bcfd_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00130/Html/AustAirliConverPublComp88_WD02_image005.gif)
 
 where:
 
@@ -825,13 +840,13 @@ where:
 
              (3)  Subsection 159(1) or (1A) of the _Superannuation Act 1976_ does not apply to the transferring body so as to render it liable to pay to the Commonwealth, in respect of an amount paid out of the Consolidated Revenue Fund on or after 1 July 1987, an amount exceeding the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00793/Html/f442159f-453b-45c9-a0ad-fe45a358bcfd_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00130/Html/AustAirliConverPublComp88_WD02_image006.gif)
 
 where:
 
                     <a name=""></a>**_P_** is the amount paid out of the Consolidated Revenue Fund; and
 
-                    <a name="c"></a>**_CS_** is the fraction that represents the part of the period of contributory service of the eligible employee within the meaning of that Act to whom the last‑mentioned amount relates that is after 30 June 1987.
+                    <a name="c"></a>**_CS_** is the fraction that represents the part of the period of contributory service of the eligible employee within the meaning of that Act to whom the last-mentioned amount relates that is after 30 June 1987.
 
 ##### <a id="62"></a>62  Compensation for acquisition of property
 
@@ -840,6 +855,100 @@ where:
              (2)  Any damages or compensation recovered or other remedy given in proceedings that are instituted otherwise than by virtue of this section shall be taken into account in assessing compensation payable in proceedings that are instituted under this section and that arise out of the same event or transaction.
 
              (3)  In this section, **_acquisition of property_** and **_just terms_** have the same respective meanings as in paragraph 51(31) of the Constitution.
+
+## Part X—Amendments of the Compensation (Commonwealth Government Employees) Act 1971
+
+_Sections 64, 65 and 66_
+
+* * *
+
+**Note:**
+
+The amendments made by this Part are incorporated in the compilation on SCALEplus of the _Compensation (Commonwealth Government Employees) Act 1971_.
+
+For access to the wording of the amendments made by this Part, click here [_Australian Airlines (Conversion to Public Company) Act 1988_ No. 6, 1998]
+
+* * *
+
+## Part XI—Amendment of the Long Service Leave (Commonwealth Employees) Act 1976
+
+_Sections 67 and 68_
+
+* * *
+
+**Note:**
+
+The amendments made by this Part are incorporated in the compilation on SCALEplus of the Long Service Leave (Commonwealth Employees) Act 1976.
+
+For access to the wording of the amendments made by this Part, click here [_Australian Airlines (Conversion to Public Company) Act 1988_ No. 6, 1998]
+
+* * *
+
+## Part XII—Amendments, and repeals, of other Acts
+
+##### <a id="69"></a>69  Consequential amendments of other Acts
+
+             (1)  The Acts specified in Schedule 1 are amended as set out in that Schedule.
+
+             (2)  The Acts specified in Schedule 2 are amended as set out in that Schedule.
+
+##### <a id="70"></a>70  Repeal of certain Acts
+
+                   The following Acts are repealed:
+
+_Loans (Australian National Airlines Commission) Act 1972_
+
+_Loans (Australian National Airlines Commission) Act 1976_
+
+_Australian National Airlines Commission Retention Act 1984._
+
+# Schedule 1—Consequential amendments of other Acts
+
+_Subsection 69(1)_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
+
+_Airlines Equipment Act 1958_
+
+_Civil Aviation (Carriers’ Liability) Act 1959_
+
+_Fringe Benefits Tax Assessment Act 1986_
+
+_Independent Air Fares Committee Act 1981_
+
+For access to the wording of the amendments made by this Schedule, click here [_Australian Airlines (Conversion to Public Company) Act 1988_ No. 6, 1998]
+
+* * *
+
+# Schedule 2—Consequential amendments of other Acts
+
+_Subsection 69(2)_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
+
+_Airlines Agreement Act 1981_
+
+_Australian National Airlines Amendment Act 1988_
+
+_Conciliation and Arbitration Act 1904_
+
+_Freedom of Information Act 1982_
+
+_Sales Tax Assessment Act (No. 1) 1930_
+
+For access to the wording of the amendments made by this Schedule, click here [_Australian Airlines (Conversion to Public Company) Act 1988_ No. 6, 1998]
+
+* * *
+
+ 
 
 # Notes to the _Australian Airlines (Conversion to Public Company) Act 1988_
 
@@ -851,12 +960,12 @@ The _Australian Airlines (Conversion to Public Company) Act 1988_ as shown in th
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
+  <col width="18%">
   <col width="21%">
   <col width="0%">
-  <col width="15%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -891,7 +1000,7 @@ of Assent</div>
     <div>9 March 1988</div>
   </td>
   <td colspan="2">
-    <div>Ss. 15, 16, 52(2), 55, 57, 60 and 69(2): 30 Apr 1988 ( <i>see Gazette</i>1988, No. S117) 
+    <div>Ss. 15, 16, 52(2), 55, 57, 60 and 69(2): 30 April 1988 ( <i>see Gazette</i>1988, No. S117) 
 S. 52(1): 29 June 1988 <i>(a)</i> 
 S. 52(3): <i>(a)</i> 
 Remainder: Royal Assent</div>
@@ -902,7 +1011,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Transport and Communications Legislation Amendment Act (No. 2) 1989</div>
+    <div>Transport and Communications Legislation Amendment Act (No. 2) 1989</div>
   </td>
   <td>
     <div>23, 1990</div>
@@ -914,7 +1023,7 @@ Remainder: Royal Assent</div>
     <div>17 Jan 1990 <i>(b)</i></div>
   </td>
   <td>
-    <div>S. 2(3)–(9)</div>
+    <div>S. 2(3)-(9)</div>
   </td>
 </tr>
 <tr>
@@ -962,13 +1071,13 @@ Remainder: Royal Assent</div>
     <div>21 Dec 1992</div>
   </td>
   <td colspan="2">
-    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(d)</i> 
-Schedule (Part 4): 30 July 1995 ( <i>see Gazette</i>1995, No. S324) <i>(d)</i> 
+    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN 17) <i>(d)</i> 
+Schedule (Part 4): 30 July 1995 ( <i>see Gazette</i>1995, No. S324) <i>(d)</i> 
 Schedule (Part 7): <i>(d)</i></div>
   </td>
   <td>
     <div>S. 39 
-S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
+S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
   </td>
 </tr>
 <tr>
@@ -1022,23 +1131,6 @@ S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 6 (items 6, 7): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1056,7 +1148,7 @@ _(a)_(3)   Subsection 52(1) shall come into operation on the day after subse
 
          Section 15 commenced on 30 April 1988.
 
-_(b)_      (2)      The amendment of the _Australian Airlines (Conversion to Public Company) Act 1988_ made by this Act is to be taken to have commenced on the day on which that first‑mentioned Act received the Royal Assent.
+_(b)_      (2)      The amendment of the _Australian Airlines (Conversion to Public Company) Act 1988_ made by this Act is to be taken to have commenced on the day on which that first-mentioned Act received the Royal Assent.
 
          The _Australian Airlines (Conversion to Public Company) Act 1988_ came into operation on 9 March 1988.
 
@@ -1068,7 +1160,7 @@ _(c)_     The _Australian Airlines (Conversion to Public Company) Act 19
 
          Subsection 69(2) commenced on 30 April 1988.
 
-_(d)_     The _Australian Airlines (Conversion to Public Company) Act 1988_ was amended by the _Qantas Sale Act 1992_, subsections 2(2), (3)(a)–(c) and (6) of which provide as follows:
+_(d)_     The _Australian Airlines (Conversion to Public Company) Act 1988_ was amended by the _Qantas Sale Act 1992_, subsections 2(2), (3)(a)-(c) and (6) of which provide as follows:
 
                  (2)   Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
 
@@ -1092,8 +1184,8 @@ _(e)_     The _Qantas Sale Act 1992_ was amended by section 3 (item 
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1108,14 +1200,6 @@ _(e)_     The _Qantas Sale Act 1992_ was amended by section 3 (item 
     </td>
     <td>
       <div>How affected</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part II</b></div>
-    </td>
-    <td>
-      <div></div>
     </td>
   </tr>
 </thead>
@@ -1137,42 +1221,10 @@ _(e)_     The _Qantas Sale Act 1992_ was amended by section 3 (item 
 </tr>
 <tr>
   <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
+    <div>Ss. 12-14</div>
   </td>
   <td>
     <div>rep. No. 196, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>rep. No. 196, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>rep. No. 196, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1185,7 +1237,8 @@ _(e)_     The _Qantas Sale Act 1992_ was amended by section 3 (item 
 </tr>
 <tr>
   <td>
-    <div>Part V</div>
+    <div>Part V 
+(ss. 23-28)</div>
   </td>
   <td>
     <div>rep. No. 196, 1992</div>
@@ -1193,58 +1246,10 @@ _(e)_     The _Qantas Sale Act 1992_ was amended by section 3 (item 
 </tr>
 <tr>
   <td>
-    <div>S. 23</div>
+    <div>Ss. 23-28</div>
   </td>
   <td>
     <div>rep. No. 196, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>rep. No. 196, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rep. No. 196, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>rep. No. 196, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>rep. No. 196, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>rep. No. 196, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1253,14 +1258,6 @@ _(e)_     The _Qantas Sale Act 1992_ was amended by section 3 (item 
   </td>
   <td>
     <div>rep. No. 196, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IX</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1289,107 +1286,13 @@ _(e)_     The _Qantas Sale Act 1992_ was amended by section 3 (item 
 </tr>
 <tr>
   <td>
-    <div>Part X</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part XI</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part XII</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Schedule 2</div>
   </td>
   <td>
     <div>am. No. 23, 1990</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
 </tr></table>
+
+ 
 
  
