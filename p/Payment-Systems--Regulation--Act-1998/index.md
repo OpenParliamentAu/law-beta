@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00182/Html/c0d82f56-83d1-4991-8041-973fc1515938_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00022/Html/PaymSystReg1998_WD02_image001.gif)
 
 # Payment Systems (Regulation) Act 1998
 
 **Act No. 58 of 1998 as amended**
 
-This compilation was prepared on 15 April 2011
- taking into account amendments up to Act No. 24 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -61,8 +61,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [14](#14).          Variation of access regime
 
 [15](#15).          When access regimes cease to be in force
-
-[15A](#15A).       Authorisation of conduct under access regime for the purposes of the _Competition and Consumer Act 2010_
 
         **Subdivision B—Enforcement of access regimes**
 
@@ -376,16 +374,6 @@ The Reserve Bank may have regard to other matters that it considers are relevant
 
                      (b)  if that decision specifies a later day as the day on which the revocation takes effect—on the day so specified.
 
-##### <a id="15A"></a>15A  Authorisation of conduct under access regime for the purposes of the _Competition and Consumer Act 2010_
-
-                   For the purposes of subparagraph 51(1)(a)(i) of the _Competition and Consumer Act 2010_, anything that is done:
-
-                     (a)  by a participant in a designated payment system under an access regime; and
-
-                     (b)  in accordance with that access regime;
-
-is taken to be specified in, and specifically authorised by, this Act.
-
 #### Subdivision B—Enforcement of access regimes
 
 ##### <a id="16"></a>16  Right to ask Reserve Bank to give a direction
@@ -558,7 +546,7 @@ Note:          This subsection is not intended to imply that s
 
                      (a)  it is the holder of the stored value of a purchased payment facility; and
 
-                     (b)  it is not an authorised deposit‑taking institution, within the meaning of the _Banking Act 1959_; and
+                     (b)  it is not an authorised deposit-taking institution, within the meaning of the _Banking Act 1959_; and
 
                      (c)  there is no authority or exemption in force under section 23 or 25 that applies to the corporation and the purchased payment facility.
 
@@ -676,7 +664,7 @@ Note:          This subsection is not intended to imply that s
 
 ##### <a id="25"></a>25  Exemptions
 
-             (1)  The Reserve Bank may grant a corporation, or corporations included in a class of corporations, an exemption allowing the corporation, or each corporation in the class, to be the holder of the stored value in respect of purchased payment facilities in a particular class even though the corporation is not an authorised deposit‑taking institution, within the meaning of the _Banking Act 1959_, and does not have an authority under section 23 of this Act that covers those facilities.
+             (1)  The Reserve Bank may grant a corporation, or corporations included in a class of corporations, an exemption allowing the corporation, or each corporation in the class, to be the holder of the stored value in respect of purchased payment facilities in a particular class even though the corporation is not an authorised deposit-taking institution, within the meaning of the _Banking Act 1959_, and does not have an authority under section 23 of this Act that covers those facilities.
 
              (2)  The Reserve Bank may be acting on its own initiative or pursuant to an application in granting the exemption. An application for an exemption must comply with the applicable requirements determined under section 27.
 
@@ -842,7 +830,7 @@ Note:          For further information about delegations, see 
 
 ##### <a id="32"></a>32  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -938,23 +926,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations and Other Legislation Amendment (Trustee Companies and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>24, 2011</div>
-  </td>
-  <td>
-    <div>12 Apr 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2: 13 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -986,30 +957,6 @@ of Assent</div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15A</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2011</div>
   </td>
 </tr>
 <tr>
