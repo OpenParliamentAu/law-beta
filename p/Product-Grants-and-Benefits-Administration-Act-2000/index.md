@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00416/Html/ProdGrantBenAdmin2000_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00371/Html/ProdGrantBenAdmin2000_WD02_image001.gif)
 
 # Product Grants and Benefits Administration Act 2000
 
 **Act No. 61 of 2000 as amended**
 
-This compilation was prepared on 1 July 2010
+This compilation was prepared on 8 June 2010
  taking into account amendments up to Act No. 56 of 2010
 
 The text of any of those amendments not in force 
@@ -532,27 +532,9 @@ you are liable to repay the amount of the advance to the Commonwealth.
 
                      (d)  must be signed by you, unless it is transmitted to the Commissioner in an electronic format approved by the Commissioner and contains your electronic signature; and
 
-                    (da)  if the claim is for payment of an energy grant in respect of an on-road credit for on-road alternative fuel—must be given to the Commissioner before the earlier of:
-
-                              (i)  1 July 2011; and
-
-                             (ii)  the end of 3 years after the start of the claim period; and
-
-                     (e)  otherwise—must be given to the Commissioner before the end of 3 years after the start of the claim period.
-
-          (2A)  Despite the provisions of Part 3 and the _Energy Grants (Credits) Scheme Act 2003_, you are not entitled to an energy grant for an on-road credit for on-road alternative fuel if you have already given the Commissioner a return under the _Fuel Tax Act 2006_ that includes a net fuel amount that takes into account a decreasing fuel tax adjustment that relates to the fuel.
+                     (e)  must be given to the Commissioner before the end of 3 years after the start of the claim period.
 
              (3)  Section 9 does not, by implication, limit subsection (2) of this section.
-
-             (4)  In this section:
-
-                    <a name="decreas-fuel-tax-adjust"></a>**_decreasing fuel tax adjustment_** has the meaning given by section 110-5 of the _Fuel Tax Act 2006._
-
-                    <a name="net-fuel-amount"></a>**_net fuel amount_** has the meaning given by section 110-5 of the _Fuel Tax Act 2006._
-
-                    <a name="road-altern-fuel"></a>**_on-road alternative fuel_** has the meaning given by section 4 of the _Energy Grants (Credits) Scheme Act 2003_.
-
-                    <a name="road-crite"></a>**_on-road credit_** means an on-road credit under Part 3 of the _Energy Grants (Credits) Scheme Act 2003_.
 
 ##### <a id="15A"></a>15A  Authority for third party to make claim under section 15
 
@@ -1645,7 +1627,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 1 (items 2, 3) and Schedule 3 (items 6–8): 1 July 2006 
 Schedule 1 (items 4–6): 1 Jan 2007 
 Schedule 1 (item 7): 1 July 2009 
-Schedule 3 (items 13–16): 1 July 2010 
+Schedule 3 (items 13–16): \[ <i>see</i>Note 2] 
 Schedule 3 (items 18–22): \[ <i>see</i>Note 2] 
 Schedule 3 (items 24–34): 1 July 2007 
 Schedule 3 (items 42–44): \[ <i>see</i>Note 2] 
@@ -2279,6 +2261,44 @@ _(d)_ Subparagraphs 47(3)(c)(ia) and (d)(ia) were repealed by Schedule 1 (item 7
 
 _Fuel Tax (Consequential and Transitional Provisions) Act 2006 (No. 73, 2006)_
 
+The following amendments commence on 1 July 2010:
+
+## Schedule 3
+
+## 13  After paragraph 15(2)(d)
+
+Insert:
+
+                    (da)  if the claim is for payment of an energy grant in respect of an on-road credit for on-road alternative fuel—must be given to the Commissioner before the earlier of:
+
+                              (i)  1 July 2011; and
+
+                             (ii)  the end of 3 years after the start of the claim period; and
+
+## 14  Paragraph 15(2)(e)
+
+Before “must be”, insert “otherwise—”.
+
+## 15  After subsection 15(2)
+
+Insert:
+
+          (2A)  Despite the provisions of Part 3 and the _Energy Grants (Credits) Scheme Act 2003_, you are not entitled to an energy grant for an on-road credit for on-road alternative fuel if you have already given the Commissioner a return under the _Fuel Tax Act 2006_ that includes a net fuel amount that takes into account a decreasing fuel tax adjustment that relates to the fuel.
+
+## 16  At the end of section 15
+
+Add:
+
+             (4)  In this section:
+
+                    <a name="decreas-fuel-tax-adjust"></a>**_decreasing fuel tax adjustment_** has the meaning given by section 110-5 of the _Fuel Tax Act 2006._
+
+                    <a name="net-fuel-amount"></a>**_net fuel amount_** has the meaning given by section 110-5 of the _Fuel Tax Act 2006._
+
+                    <a name="road-altern-fuel"></a>**_on-road alternative fuel_** has the meaning given by section 4 of the _Energy Grants (Credits) Scheme Act 2003_.
+
+                    <a name="road-crite"></a>**_on-road credit_** means an on-road credit under Part 3 of the _Energy Grants (Credits) Scheme Act 2003_.
+
 The following amendments commence on 1 July 2012:
 
 ## Schedule 3
@@ -2319,7 +2339,7 @@ Omit “otherwise—”.
 
 Repeal the subsections.
 
-As at 1 July 2010 the amendments are not incorporated in this compilation.
+As at 8 June 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
