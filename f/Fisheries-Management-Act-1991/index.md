@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00179/Html/c437a352-6c46-4ca0-81e8-047515a2bca6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00125/Html/0a6e8001-2616-4a64-bfd7-4dc04f4b9d93_files/image001.gif)
 
 # Fisheries Management Act 1991
 
 **Act No. 162 of 1991 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 27 December 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -124,9 +124,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [31E](#31E).        The Register of Statutory Fishing Rights Options
 
-[31F](#31F).        Registration of dealings in statutory fishing rights options
-
-[31FA](#31FA).     Interests in statutory fishing rights options—priority between section 31F interests and PPSA security interests
+[31F](#31F).        Creation etc  of interests in statutory fishing rights options
 
 [31G](#31G).       Claims of interests in statutory fishing rights options
 
@@ -188,9 +186,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [45](#45).          Information to be included in Register
 
-[46](#46).          Registration of dealings in fishing rights
-
-[46A](#46A).       Interests in fishing rights—priority between section 46 interests and PPSA security interests
+[46](#46).          Creation etc  of interests in fishing rights
 
 [47](#47).          Trusts not registrable
 
@@ -508,9 +504,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [108](#108).        Obstruction of officers etc 
 
-        **Subdivision F—Enforcement action under this Act prevails over other action**
+        **Subdivision F—Enforcement action prevails over admiralty action**
 
-[108A](#108A).     Seizure or forfeiture has effect despite other proceedings
+[108A](#108A).     Seizure or forfeiture has effect despite admiralty proceedings
 
         **Subdivision G—Disclosures relating to illegal fishing activities**
 
@@ -1240,18 +1236,6 @@ Note:          The English text of the United Nations Conventi
 
                     <a name="port-permit"></a>**_port permit_** means a port permit granted under section 94.
 
-                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
-
-Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
-
-(a)    section 8 (interests to which the Act does not apply);
-
-(b)    section 12 (meaning of **_security interest_**);
-
-(c)    Chapter 9 (transitional provisions).
-
-Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
-
                     <a name="precautari-principl"></a>**_precautionary principle_** has the same meaning as in clause 3.5.1 of the Intergovernmental Agreement on the Environment, a copy of which is set out in the Schedule to the _National Environment Protection Council Act 1994_.
 
                     <a name="premis"></a>**_premises_** includes a place and a conveyance.
@@ -1281,8 +1265,6 @@ Note 2:       For the meaning of **_transitional security interest_*
                     <a name="select-committe"></a>**_Selection Committee_** means an Australian Fisheries Management Authority Selection Committee established under section 141A.
 
                     <a name="statutori-fish-right"></a>**_statutory fishing right_** has the meaning given by section 21.
-
-                    <a name="statutori-fish-right-option"></a>**_statutory fishing rights option_** has the meaning given by section 31A.
 
                     <a name="straddl-fish-stock"></a>**_straddling fish stock_** has the same meaning as in the Fish Stocks Agreement.
 
@@ -2191,7 +2173,7 @@ the following provisions of this section apply.
 
 ##### <a id="31A"></a>31A  Options arising when plan of management for fishery is revoked
 
-             (1)  Subject to subsection (2), if a plan of management for a fishery (the **_former plan_**) is revoked, each person (a **_former holder of fishing rights_**) who held statutory fishing rights of a particular class of fishing rights (the **_relevant class_**) in respect of the fishery under the former plan immediately before it was revoked holds a **_statutory fishing rights option_** in respect of fishing rights of the relevant class.
+             (1)  Subject to subsection (2), if a plan of management for a fishery (the **_former plan_**) is revoked, each person (a **_former holder of fishing rights_**) who held statutory fishing rights of a particular class of fishing rights (the **_relevant class_**) in respect of the fishery under the former plan immediately before it was revoked holds a statutory fishing rights option in respect of fishing rights of the relevant class.
 
              (2)  Subsection (1) does not apply if:
 
@@ -2203,7 +2185,7 @@ the following provisions of this section apply.
 
              (3)  Subsection 21(1B) applies in determining the kinds of statutory fishing rights that together constitute a class of fishing rights in respect of a fishery for the purposes of this Division, except that fishing rights that, in AFMA’s opinion, are substantially the same are taken to be identical for the purposes of that subsection.
 
-             (4)  A statutory fishing rights option entitles the holder of the option to be granted statutory fishing rights of the relevant class under any plan of management (the **_new plan_**) determined for a fishery after the revocation of the former plan if section 31B or 31C applies to the new plan. The nature and extent of the entitlements are set out in subsection 31B(2) or 31C(2), as the case may be.
+             (4)  A **_statutory fishing rights option_** entitles the holder of the option to be granted statutory fishing rights of the relevant class under any plan of management (the **_new plan_**) determined for a fishery after the revocation of the former plan if section 31B or 31C applies to the new plan. The nature and extent of the entitlements are set out in subsection 31B(2) or 31C(2), as the case may be.
 
 ##### <a id="31B"></a>31B  Rights of option holder where the new plan of management is the same or substantially the same as the former plan of management
 
@@ -2219,7 +2201,7 @@ the following provisions of this section apply.
 
              (2)  If a person holds a statutory fishing rights option in respect of statutory fishing rights under the new plan, the option entitles the person, subject to subsections (3) and (4), to be granted under the new plan, to the extent to which the person exercises the option in accordance with subsection 31D(1), the number of statutory fishing rights of the relevant class worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00179/Html/c437a352-6c46-4ca0-81e8-047515a2bca6_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00125/Html/0a6e8001-2616-4a64-bfd7-4dc04f4b9d93_files/image002.gif)
 
 where:
 
@@ -2303,13 +2285,9 @@ under the former plan immediately before it was revoked.
 
                      (e)  if the option has lapsed in respect of any statutory fishing rights—state the date of the lapse and the number and class of rights in respect of which the option has lapsed.
 
-##### <a id="31F"></a>31F  Registration of dealings in statutory fishing rights options
+##### <a id="31F"></a>31F  Creation etc. of interests in statutory fishing rights options
 
-Scope
-
-             (1)  This section applies to a dealing that would, apart from subsection (2), have the effect of creating, assigning, transmitting or extinguishing an interest in a statutory fishing rights option, other than an interest that is a PPSA security interest.
-
-Registration of dealings
+             (1)  This section applies to a dealing that would, apart from subsection (2), have the effect of creating, assigning, transmitting or extinguishing an interest in a statutory fishing rights option.
 
              (2)  The dealing has no effect of a kind mentioned in subsection (1) until it is registered under this section.
 
@@ -2335,19 +2313,13 @@ Registration of dealings
 
                      (b)  endorse on the instrument evidencing the dealing and the copy of that instrument the fact of the entry having been made together with the date and time of the making of the entry.
 
-Partial assignment of statutory fishing rights options
-
              (6)  For the purposes of this Division, if a statutory fishing rights option is assigned to a person in respect of some only of the statutory fishing rights to which the option relates:
 
                      (a)  the assignee is taken to hold a new statutory fishing rights option in respect of the statutory fishing rights assigned to the assignee; and
 
                      (b)  the assignor continues to hold the first‑mentioned option in respect of such of the statutory fishing rights as have not been assigned.
 
-Refusal to register dealings
-
              (7)  AFMA may only refuse to register a dealing if the registration of the dealing would be contrary to the requirements of the new plan or a condition of statutory fishing rights in respect of which the option is held.
-
-Documentation of registration of dealings
 
              (8)  If a dealing is registered:
 
@@ -2359,111 +2331,9 @@ Documentation of registration of dealings
 
                      (d)  the original instrument is to be returned to the person who made the application for registration.
 
+             (9)  If a dealing creates a charge over some or all of a body corporate’s assets, the party to the dealing who lodged the application for registration of the dealing is taken to have complied with paragraph (3)(b), and with paragraph (3)(d) in so far as that paragraph requires a copy of the instrument evidencing the dealing to be lodged with AFMA, if the party has lodged with AFMA 2 copies of each document required to be lodged with the Australian Securities Commission relating to the creation of that charge under section 263 of the _Corporations Act 2001_.
+
            (10)  AFMA is not concerned with the effect in law of any instrument lodged under this section.
-
-##### <a id="31FA"></a>31FA  Interests in statutory fishing rights options—priority between section 31F interests and PPSA security interests
-
-Scope
-
-             (1)  This section sets out the priority between the following interests in a statutory fishing rights option:
-
-                     (a)  an interest (the **_section 31F interest_**) that is the subject of a dealing (the **_section 31F dealing_**), if the dealing has effect under section 31F (by registration);
-
-                     (b)  a PPSA security interest.
-
-Priority rules
-
-             (2)  The priority is as set out in the following table:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="45%">
-  <col width="45%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Priority between PPSA security interests and section 31F interests</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>If …</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>then …</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>the PPSA security interest is not perfected (whether by registration or
-      otherwise) within the meaning of the
-      <i>Personal Property Securities Act 2009</i>
-    </div>
-  </td>
-  <td>
-    <div>the section 31F interest has priority.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>(a) the PPSA security interest is perfected (whether by registration or
-      otherwise) within the meaning of the
-      <i>Personal Property Securities Act 2009</i>; and</div>
-    <div>(b) the section 31F dealing is registered under section 31F of this Act
-      before the priority time for the PPSA security interest under section 55
-      of the
-      <i>Personal Property Securities Act 2009</i>
-    </div>
-  </td>
-  <td>
-    <div>the section 31F interest has priority.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>(a) the PPSA security interest is perfected (whether by registration or
-      otherwise) within the meaning of the
-      <i>Personal Property Securities Act 2009</i>; and</div>
-    <div>(b) the section 31F dealing is registered under section 31F of this Act
-      at or after the priority time for the PPSA security interest under section 55
-      of the
-      <i>Personal Property Securities Act 2009</i>
-    </div>
-  </td>
-  <td>
-    <div>the PPSA security interest has priority.</div>
-  </td>
-</tr></table>
-
-             (3)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to the section 31F interest.
-
-Note 1:       The effect of subsection (3) is that the priority between a section 31F interest and a PPSA security interest in a statutory fishing rights option is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
-
-Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to section 31F interests that arise after the commencement of subsection (3) of this section (which commences at the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
 ##### <a id="31G"></a>31G  Claims of interests in statutory fishing rights options
 
@@ -2503,13 +2373,7 @@ AFMA must not register the dealing unless:
 
 ##### <a id="31J"></a>31J  Power of holder of statutory fishing rights option to deal with option
 
-             (1)  The holder of a statutory fishing rights option may, subject to this section, deal with the option, in respect of all or any of the statutory fishing rights to which the option relates, as absolute owner and give good discharges for any consideration for any such dealing.
-
-          (1A)  A dealing mentioned in subsection (1) is subject to:
-
-                     (a)  any rights appearing in the Register to be vested in another person, other than any such rights that are PPSA security interests; and
-
-                     (b)  any rights or interests in the statutory fishing rights option that are PPSA security interests, to the extent provided by the _Personal Property Securities Act 2009_.
+             (1)  The holder of a statutory fishing rights option may, subject only to any rights appearing in the Register to be vested in another person, deal with the option, in respect of all or any of the statutory fishing rights to which the option relates, as absolute owner and give good discharges for any consideration for any such dealing.
 
              (2)  Subsection (1) only protects a person who deals with a holder of a statutory fishing rights option as a purchaser in good faith for value and without notice of any fraud on the part of the holder.
 
@@ -3141,13 +3005,9 @@ the order overrides the provision and, to that extent, the provision has no effe
 
              (2)  Where a Joint Authority grants a fishing right, it must give to AFMA such information in relation to the grant as will enable AFMA to comply with subsection (1).
 
-##### <a id="46"></a>46  Registration of dealings in fishing rights
+##### <a id="46"></a>46  Creation etc. of interests in fishing rights
 
-Scope
-
-             (1)  This section applies to a dealing that would, but for subsection (2), have the effect of creating, assigning, transferring, transmitting or extinguishing an interest in a fishing right, other than an interest that is a PPSA security interest.
-
-Registration of dealing
+             (1)  This section applies to a dealing that would, but for subsection (2), have the effect of creating, assigning, transferring, transmitting or extinguishing an interest in a fishing right.
 
              (2)  The dealing has no effect of a kind mentioned in subsection (1) until it is registered under this section.
 
@@ -3219,8 +3079,6 @@ AFMA must not register the dealing unless:
 
           (4E)  Subsection (4D) applies despite the fact that any requirement in a plan of management relating to the lease, or transfer, has not been satisfied.
 
-Documentation of registration of dealings
-
              (5)  If a dealing is registered:
 
                      (a)  the copies referred to in paragraph (3)(d) and the summary (if any) lodged under subsection (3A) are to be kept by AFMA; and
@@ -3231,109 +3089,7 @@ Documentation of registration of dealings
 
                      (d)  the original instrument is to be returned to the person who made the application for registration.
 
-##### <a id="46A"></a>46A  Interests in fishing rights—priority between section 46 interests and PPSA security interests
-
-Scope
-
-             (1)  This section sets out the priority between the following interests in a fishing right:
-
-                     (a)  an interest (the **_section 46 interest_**) that is the subject of a dealing (the **_section 46 dealing_**), if the dealing has effect under section 46 (by registration);
-
-                     (b)  a PPSA security interest.
-
-Priority rules
-
-             (2)  The priority is as set out in the following table:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="45%">
-  <col width="45%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Priority between PPSA security interests and section 46 interests</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>If …</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>then …</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>the PPSA security interest is not perfected (whether by registration or
-      otherwise) within the meaning of the
-      <i>Personal Property Securities Act 2009</i>
-    </div>
-  </td>
-  <td>
-    <div>the section 46 interest has priority.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>(a) the PPSA security interest is perfected (whether by registration or
-      otherwise) within the meaning of the
-      <i>Personal Property Securities Act 2009</i>; and</div>
-    <div>(b) the section 46 dealing is registered under section 46 of this Act
-      before the priority time for the PPSA security interest under section 55
-      of the
-      <i>Personal Property Securities Act 2009</i>
-    </div>
-  </td>
-  <td>
-    <div>the section 46 interest has priority.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>(a) the PPSA security interest is perfected (whether by registration or
-      otherwise) within the meaning of the
-      <i>Personal Property Securities Act 2009</i>; and</div>
-    <div>(b) the section 46 dealing is registered under section 46 of this Act
-      at or after the priority time for the PPSA security interest under section 55
-      of the
-      <i>Personal Property Securities Act 2009</i>
-    </div>
-  </td>
-  <td>
-    <div>the PPSA security interest has priority.</div>
-  </td>
-</tr></table>
-
-             (3)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to the section 46 interest.
-
-Note 1:       The effect of subsection (3) is that the priority between a section 46 interest and a PPSA security interest in a fishing right is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
-
-Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to section 46 interests that arise after the commencement of subsection (3) of this section (which commences at the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
+             (6)  If a dealing creates a charge over some or all of a body corporate’s assets, the party to the dealing who lodged the application for registration of the dealing is taken to have complied with paragraph (3)(b), and with paragraph (3)(d) in so far as that paragraph requires a copy of the instrument evidencing the dealing to be lodged with AFMA, if the party has lodged with AFMA 2 copies of each document required to be lodged with the Australian Securities Commission relating to the creation of that charge under section 263 of the _Corporations Act 2001_.
 
 ##### <a id="47"></a>47  Trusts not registrable
 
@@ -3341,15 +3097,7 @@ Note 2:       Subsection 73(2) of the _Personal Property Securities 
 
 ##### <a id="48"></a>48  Power of holder of fishing right to deal with fishing right
 
-             (1)  Except where a condition of a fishing right provides otherwise, a holder of a fishing right may, subject to this section, deal with the fishing right as its absolute owner and give good discharges for any consideration for any such dealing.
-
-          (1A)  A dealing mentioned in subsection (1) is subject to:
-
-                     (a)  section 49; and
-
-                     (b)  any rights appearing in the Register to be vested in another person, other than any such rights that are PPSA security interests; and
-
-                     (c)  any rights or interests in the fishing right that are PPSA security interests, to the extent provided by the _Personal Property Securities Act 2009_.
+             (1)  Except where a condition of a fishing right provides otherwise, a holder of a fishing right may, subject only to any rights appearing in the Register to be vested in another person and to section 49, deal with the fishing right as its absolute owner and give good discharges for any consideration for any such dealing.
 
              (2)  Subsection (1) only protects a person who deals with such a holder as a purchaser in good faith for value and without notice of any fraud on the part of the holder.
 
@@ -3364,6 +3112,14 @@ Note 2:       Subsection 73(2) of the _Personal Property Securities 
                      (b)  if the fishing right is cancelled or ceases to have effect—AFMA must make a notation in the Register to that effect and cancel the registration of the fishing right.
 
              (2)  Where, because of a decision made by AFMA, a Joint Authority, the Administrative Appeals Tribunal or a court, a notation made by AFMA under subsection (1) is no longer correct, AFMA must rectify the Register accordingly.
+
+             (3)  Where:
+
+                     (a)  AFMA does anything under subsection (1) or (2) in relation to a fishing right; and
+
+                     (b)  a person other than the holder of the fishing right has an interest in the fishing right, being an interest in relation to which a dealing has been registered under section 46;
+
+AFMA must give the person written notification of what it has done.
 
              (4)  Where, because of subsection 43(9), a provision of a fishing right registered under this Part has no effect, AFMA must make a notation in the Register to that effect.
 
@@ -5688,7 +5444,7 @@ Revocation of authorisation by Attorney‑General
 
 #### Subdivision B—Using foreign boat to contravene international fisheries management measure
 
-##### <a id="105E"></a>105E  Contravention on high seas—strict liability
+##### <a id="105E"></a>105E  Contravention on high seas—strict liability
 
              (1)  A person commits an offence if:
 
@@ -6528,23 +6284,19 @@ Note:          The defendant bears an evidential burden in rel
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-#### Subdivision F—Enforcement action under this Act prevails over other action
+#### Subdivision F—Enforcement action prevails over admiralty action
 
-##### <a id="108A"></a>108A  Seizure or forfeiture has effect despite other proceedings
+##### <a id="108A"></a>108A  Seizure or forfeiture has effect despite admiralty proceedings
 
-             (1)  The seizure, detention or forfeiture of a boat or any other property (including fish) under this Act has effect despite:
+             (1)  The seizure, detention or forfeiture of a boat under this Act has effect despite any or all of the following events:
 
-                     (a)  any or all of the following events (each of which is an **_admiralty event_**):
+                     (a)  the arrest of the boat under the _Admiralty Act 1988_;
 
-                              (i)  the arrest of the boat under the _Admiralty Act 1988_;
+                     (b)  the making of an order for the sale of the boat by a court in proceedings brought under the _Admiralty Act 1988_;
 
-                             (ii)  the making of an order for the sale of the boat by a court in proceedings brought under the _Admiralty Act 1988_;
+                     (c)  the sale of the boat under an order made by a court in proceedings brought under the _Admiralty Act 1988_.
 
-                            (iii)  the sale of the boat under an order made by a court in proceedings brought under the _Admiralty Act 1988_; or
-
-                     (b)  any action (a **_PPSA event_**) taken in relation to the enforcement under Part 4.3 of the _Personal Property Securities Act 2009_ of a PPSA security interest in the boat or other property.
-
-             (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the admiralty event or the PPSA event.
+             (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the arrest, making of the order or sale (as appropriate).
 
 #### Subdivision G—Disclosures relating to illegal fishing activities
 
@@ -6600,7 +6352,7 @@ the whole of the amount of levy unpaid becomes due and payable at that time.
 
                    If an amount of levy remains unpaid after the day on which it becomes due for payment, there is payable to the Commonwealth by way of penalty, in addition to that amount of levy, an amount calculated at the rate of 20% per annum upon the amount of levy from time to time remaining unpaid, to be calculated from the time when the amount of levy became payable.
 
-##### <a id="113"></a>113  Recovery of levy and other amounts
+##### <a id="113"></a>113  Recovery of levy and other amounts
 
              (1)  The following amounts may be recovered by the Commonwealth as debts due to the Commonwealth:
 
@@ -11929,7 +11681,7 @@ Other</div>
   </td>
 </tr></table>
 
-................................................................. .............................................. 
+................................................................................................................. 
 
 Vessel Master                                             Receiving Agent
 
@@ -14139,7 +13891,7 @@ Schedule 3 (items 1–66): 24 June 2009</div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–18): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+    <div>Schedule 1 (items 1–18): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 18) 
@@ -14191,7 +13943,7 @@ Sch. 1 (item 17) (rep. by 96, 2010, Sch. 3 \[item 17])</div>
     <div>13 Apr 2010</div>
   </td>
   <td>
-    <div>Schedule 1: 11 May 2010</div>
+    <div>Schedule 1: 11 May 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -14225,8 +13977,8 @@ Sch. 1 (item 17) (rep. by 96, 2010, Sch. 3 \[item 17])</div>
     <div>6 July 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (item 2): <i>(o)</i> 
-Schedule 3 (item 17): <i>(o)</i></div>
+    <div>Schedule 3 (item 2): \[ <i>see (o)</i>and Note 3] 
+Schedule 3 (item 17): \[ <i>see</i> <i>(o)</i>and Table A]</div>
   </td>
   <td>
     <div>—</div>
@@ -14834,7 +14586,8 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
   </td>
   <td>
     <div>
-      30 January 2012
+      \[
+        <i>see</i>Note 3]
     </div>
   </td>
 </tr>
@@ -14853,7 +14606,8 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
   </td>
   <td>
     <div>
-      30 January 2012
+      \[
+        <i>see</i>Table A]
     </div>
   </td>
 </tr></table>
@@ -14910,7 +14664,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 20, 1994; No. 120, 1997; Nos. 143 and 160, 1999; No. 137, 2000; No. 29, 2004; No. 99, 2005; No. 8, 2006; No. 104, 2007; No. 36, 2008; No. 131, 2009; Nos. 39, 96 and 137, 2010; No. 46, 2011</div>
+    <div>am. No. 20, 1994; No. 120, 1997; Nos. 143 and 160, 1999; No. 137, 2000; No. 29, 2004; No. 99, 2005; No. 8, 2006; No. 104, 2007; No. 36, 2008; Nos. 39 and 137, 2010; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -15110,7 +14864,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 94, 1993; No. 120, 1997; No. 143, 1999; No. 50, 2000; No. 99, 2005; No. 36, 2008; No. 137, 2010</div>
+    <div>am. No. 94, 1993; No. 120, 1997; No. 143, 1999; No. 50, 2000; No. 99, 2005; 36, 2008; No. 137, 2010</div>
   </td>
 </tr>
 <tr>
@@ -15235,50 +14989,10 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
 </tr>
 <tr>
   <td>
-    <div>S. 31A</div>
+    <div>Ss. 31A–31E</div>
   </td>
   <td>
     <div>ad. No. 120, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 31B–31E</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 31F</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 31F(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 31F(6)–(8)</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -15294,15 +15008,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
     <div></div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31FA</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2009</div>
+    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -15315,23 +15021,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
 </tr>
 <tr>
   <td>
-    <div>S. 31J</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 31K, 31L</div>
+    <div>Ss. 31J–31L</div>
   </td>
   <td>
     <div>ad. No. 120, 1997</div>
@@ -15563,50 +15253,10 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 46</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 46(1), (2).</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 46(5)</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 46</div>
   </td>
   <td>
-    <div>am. No. 120, 1997; No. 55, 2001; No. 131, 2009; No. 39, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46A</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
+    <div>am. No. 120, 1997; No. 55, 2001; No. 39, 2010</div>
   </td>
 </tr>
 <tr>
@@ -15623,14 +15273,6 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
   </td>
   <td>
     <div>rep. No. 39, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -16988,39 +16630,7 @@ of Div. 6 of Part 6</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 106E, 106F</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 106F(1)</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 106F(1)</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 106G</div>
+    <div>Ss. 106E–106G</div>
   </td>
   <td>
     <div>ad. No. 143, 1999</div>
@@ -17176,26 +16786,10 @@ of Div. 6 of Part 6</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 108A</div>
   </td>
   <td>
     <div>ad. No. 143, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -18271,6 +17865,387 @@ of Div. 6 of Part 6</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+
+## Schedule 1
+
+## 1  Subsection 4(1)
+
+Insert:
+
+                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means:
+
+                     (a)  a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies (other than a transitional security interest within the meaning of that Act); or
+
+                     (b)  a transitional security interest within the meaning of that Act, and to which Division 4 of Part 9.4 of that Act applies.
+
+Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
+
+(a)    section 8 (interests to which the Act does not apply);
+
+(b)    section 12 (meaning of **_security interest_**);
+
+(c)    Chapter 9 (transitional provisions).
+
+Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_. Division 4 of Part 9.4 of that Act applies to transitional security interests in situations including the bankruptcy or insolvency of a secured party, grantor or debtor.
+
+## 2  Subsection 4(1)
+
+Insert:
+
+                    <a name="statutori-fish-right-option"></a>**_statutory fishing rights option_** has the meaning given by section 31A.
+
+## 3  Subsection 31A(1)
+
+Omit “statutory fishing rights option”, substitute “**_statutory fishing rights option_**”.
+
+## 4  Subsection 31A(4)
+
+Omit “**_statutory fishing rights option_**”, substitute “statutory fishing rights option”.
+
+## 5  At the end of subsection 31F(1)
+
+Add “, other than an interest that is a PPSA security interest”.
+
+_Note 1:    The heading to section 31F is altered by omitting “Creation etc. of interests” and substituting “Registration of dealings”._
+
+_Note 2:    The following heading to subsection 31F(1) is inserted “Scope”._
+
+_Note 3:    The following heading to subsection 31F(2) is inserted “Registration of dealings”._
+
+_Note 4:    The following heading to subsection 31F(6) is inserted “Partial assignment of statutory fishing rights options”._
+
+_Note 5:    The following heading to subsection 31F(7) is inserted “Refusal to register dealings”._
+
+_Note 6:    The following heading to subsection 31F(8) is inserted “Documentation of registration of dealings”._
+
+## 6  Subsection 31F(9)
+
+Repeal the subsection.
+
+## 7  After section 31F
+
+Insert:
+
+##### <a id="31FA"></a>31FA  Interests in statutory fishing rights options—priority between section 31F interests and PPSA security interests
+
+Scope
+
+             (1)  This section sets out the priority between the following interests in a statutory fishing rights option:
+
+                     (a)  an interest (the **_section 31F interest_**) that is the subject of a dealing (the **_section 31F dealing_**), if the dealing has effect under section 31F (by registration);
+
+                     (b)  a PPSA security interest.
+
+Priority rules
+
+             (2)  The priority is as set out in the following table:
+
+<table>
+<colgroup>
+  <col width="10%">
+  <col width="45%">
+  <col width="45%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Priority between PPSA security interests and section 31F interests</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>If …</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>then …</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>the PPSA security interest is not perfected (whether by registration or
+      otherwise) within the meaning of the
+      <i>Personal Property Securities Act 2009</i>
+    </div>
+  </td>
+  <td>
+    <div>the section 31F interest has priority.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>(a) the PPSA security interest is perfected (whether by registration or
+      otherwise) within the meaning of the
+      <i>Personal Property Securities Act 2009</i>; and</div>
+    <div>(b) the section 31F dealing is registered under section 31F of this Act
+      before the priority time for the PPSA security interest under section 55
+      of the
+      <i>Personal Property Securities Act 2009</i>
+    </div>
+  </td>
+  <td>
+    <div>the section 31F interest has priority.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>(a) the PPSA security interest is perfected (whether by registration or
+      otherwise) within the meaning of the
+      <i>Personal Property Securities Act 2009</i>; and</div>
+    <div>(b) the section 31F dealing is registered under section 31F of this Act
+      at or after the priority time for the PPSA security interest under section 55
+      of the
+      <i>Personal Property Securities Act 2009</i>
+    </div>
+  </td>
+  <td>
+    <div>the PPSA security interest has priority.</div>
+  </td>
+</tr></table>
+
+             (3)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to the section 31F interest.
+
+Note 1:       The effect of subsection (3) is that the priority between a section 31F interest and a PPSA security interest in a statutory fishing rights option is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
+
+Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to section 31F interests that arise after the commencement of subsection (3) of this section (which commences at the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
+
+## 8  Subsection 31J(1)
+
+Omit “, subject only to any rights appearing in the Register to be vested in another person,”, substitute “, subject to this section,”.
+
+## 9  After subsection 31J(1)
+
+Insert:
+
+          (1A)  A dealing mentioned in subsection (1) is subject to:
+
+                     (a)  any rights appearing in the Register to be vested in another person, other than any such rights that are PPSA security interests; and
+
+                     (b)  any rights or interests in the statutory fishing rights option that are PPSA security interests, to the extent provided by the _Personal Property Securities Act 2009_.
+
+## 10  At the end of subsection 46(1)
+
+Add “, other than an interest that is a PPSA security interest”.
+
+_Note 1:    The heading to section 46 is altered by omitting “Creation etc. of interests” and substituting “Registration of dealings”._
+
+_Note 2:    The following heading to subsection 46(1) is inserted “Scope”._
+
+_Note 3:    The following heading to subsection 46(2) is inserted “Registration of dealing”._
+
+_Note 4:    The following heading to subsection 46(5) is inserted “Documentation of registration of dealings”._
+
+## 11  Subsection 46(6)
+
+Repeal the subsection.
+
+## 12  After section 46
+
+Insert:
+
+##### <a id="46A"></a>46A  Interests in fishing rights—priority between section 46 interests and PPSA security interests
+
+Scope
+
+             (1)  This section sets out the priority between the following interests in a fishing right:
+
+                     (a)  an interest (the **_section 46 interest_**) that is the subject of a dealing (the **_section 46 dealing_**), if the dealing has effect under section 46 (by registration);
+
+                     (b)  a PPSA security interest.
+
+Priority rules
+
+             (2)  The priority is as set out in the following table:
+
+<table>
+<colgroup>
+  <col width="10%">
+  <col width="45%">
+  <col width="45%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Priority between PPSA security interests and section 46 interests</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>If …</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>then …</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>the PPSA security interest is not perfected (whether by registration or
+      otherwise) within the meaning of the
+      <i>Personal Property Securities Act 2009</i>
+    </div>
+  </td>
+  <td>
+    <div>the section 46 interest has priority.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>(a) the PPSA security interest is perfected (whether by registration or
+      otherwise) within the meaning of the
+      <i>Personal Property Securities Act 2009</i>; and</div>
+    <div>(b) the section 46 dealing is registered under section 46 of this Act
+      before the priority time for the PPSA security interest under section 55
+      of the
+      <i>Personal Property Securities Act 2009</i>
+    </div>
+  </td>
+  <td>
+    <div>the section 46 interest has priority.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>(a) the PPSA security interest is perfected (whether by registration or
+      otherwise) within the meaning of the
+      <i>Personal Property Securities Act 2009</i>; and</div>
+    <div>(b) the section 46 dealing is registered under section 46 of this Act
+      at or after the priority time for the PPSA security interest under section 55
+      of the
+      <i>Personal Property Securities Act 2009</i>
+    </div>
+  </td>
+  <td>
+    <div>the PPSA security interest has priority.</div>
+  </td>
+</tr></table>
+
+             (3)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to the section 46 interest.
+
+Note 1:       The effect of subsection (3) is that the priority between a section 46 interest and a PPSA security interest in a fishing right is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
+
+Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to section 46 interests that arise after the commencement of subsection (3) of this section (which commences at the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
+
+## 13  Subsection 48(1)
+
+Omit “, subject only to any rights appearing in the Register to be vested in another person and to section 49,”, substitute “, subject to this section,”.
+
+## 14  After subsection 48(1)
+
+Insert:
+
+          (1A)  A dealing mentioned in subsection (1) is subject to:
+
+                     (a)  section 49; and
+
+                     (b)  any rights appearing in the Register to be vested in another person, other than any such rights that are PPSA security interests; and
+
+                     (c)  any rights or interests in the fishing right that are PPSA security interests, to the extent provided by the _Personal Property Securities Act 2009_.
+
+## 15  Subsection 50(3)
+
+Repeal the subsection.
+
+## 16  Subdivision F of Division 6 of Part 6
+
+Repeal the Subdivision, substitute:
+
+#### Subdivision F—Enforcement action under this Act prevails over other action
+
+##### <a id="108A"></a>108A  Seizure or forfeiture has effect despite other proceedings
+
+             (1)  The seizure, detention or forfeiture of a boat or any other property (including fish) under this Act has effect despite:
+
+                     (a)  any or all of the following events (each of which is an **_admiralty event_**):
+
+                              (i)  the arrest of the boat under the _Admiralty Act 1988_;
+
+                             (ii)  the making of an order for the sale of the boat by a court in proceedings brought under the _Admiralty Act 1988_;
+
+                            (iii)  the sale of the boat under an order made by a court in proceedings brought under the _Admiralty Act 1988_; or
+
+                     (b)  any action (a **_PPSA event_**) taken in relation to the enforcement under Part 4.3 of the _Personal Property Securities Act 2009_ of a PPSA security interest in the boat or other property.
+
+             (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the admiralty event or the PPSA event.
+
+As at 27 December 2011 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
+
+The following amendment commences immediately after 30 January 2012:
+
+## Schedule 3
+
+## 2  Subsection 4(1) (definition of _PPSA security interest_)
+
+Repeal the definition, substitute:
+
+                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
+
+Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
+
+(a)    section 8 (interests to which the Act does not apply);
+
+(b)    section 12 (meaning of **_security interest_**);
+
+(c)    Chapter 9 (transitional provisions).
+
+Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
+
+_Note:       This amendment replaces the definition inserted by item 1 of Schedule 1 to the Personal Property Securities (Consequential Amendments) Act 2009._
+
+As at 27 December 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -18476,7 +18451,15 @@ The amendments made by items 1 to 59 of this Schedule apply to access to, or d
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
+The following provisions commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+
 ## Schedule 1
+
+## \[NOTE]  17  Application of amendments of the _Fisheries Management Act 1991_
+
+The requirements in sections 31F and 46 of the _Fisheries Management Act 1991_ in relation to the registration of dealings in respect of interests that are PPSA security interests stop applying at the time item 5 of this Schedule commences.
+
+_Note:       Item 5 commences at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
 ## 18  Transitional—item 15
 
@@ -18489,6 +18472,20 @@ _Personal Property Securities (Consequential Amendments) Act 2009
 _Note:       Item 15 commences at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
 (2)       The Australian Fisheries Management Authority must comply with the requirement as if the repeal of subsection 50(3) of the _Fisheries Management Act 1991_ by item 15 of this Schedule had not happened.
+
+_\[NOTE]:  Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
+
+The following amendment commences immediately after 30 January 2012 and amends the _Personal Property Securities (Consequential Amendments) Act 2009_(No. 131, 2009) as follows:
+
+## Schedule 3
+
+## 17  Item 17 of Schedule 1
+
+Repeal the item.
+
+_Note:       The repealed item is redundant because of the amendment in item 2 of this Schedule._
+
+As at 27 December 2011 the amendment is not incorporated in this compilation.
 
 * * *
 
