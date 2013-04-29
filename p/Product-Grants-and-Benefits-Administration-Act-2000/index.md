@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00802/Html/7de7d909-c096-48fb-ba24-9d415b055908_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00541/Html/235e31c6-1353-4d02-b9c3-0ad42ec3eaa3_files/image001.gif)
 
 # Product Grants and Benefits Administration Act 2000
 
 **Act No. 61 of 2000 as amended**
 
-This compilation was prepared on 9 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 1 July 2012
+ taking into account amendments up to Act No. 39 of 2012
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -206,6 +207,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
                     <a name="cleaner-fuel"></a>**_cleaner fuel_** has the same meaning as in the _Energy Grants (Cleaner Fuels) Scheme Act 2004_.
 
                     <a name="commission"></a>**_Commissioner_** means the Commissioner of Taxation.
+
+                    <a name="deputi-commission"></a>**_Deputy Commissioner_** means a Deputy Commissioner of Taxation.
 
                     <a name="electron-signatur"></a>**_electronic signature_** means an entity’s unique identification in an electronic form that is approved by the Commissioner.
 
@@ -1147,9 +1150,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 <table>
 <colgroup>
-  <col width="10%">
-  <col width="60%">
-  <col width="29%">
+  <col width="12%">
+  <col width="61%">
+  <col width="27%">
 </colgroup>
 
 <thead>
@@ -1566,7 +1569,7 @@ Schedule 4 (item 4): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 6 (items 1, 
-6–11)</div>
+ 6–11)</div>
   </td>
 </tr>
 <tr>
@@ -1686,23 +1689,6 @@ Schedule 4 (item 4): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 239)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (item 106): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -1878,8 +1864,8 @@ _(e)_     Subsection 2(1) (item 4) of the _Human Services Legislation 
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1918,7 +1904,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Human Services Legislation 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 54, 2003; No. 42, 2004; Nos. 73 and 101, 2006; No. 136, 2012</div>
+    <div>am. No. 54, 2003; No. 42, 2004; Nos. 73 and 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2350,7 +2336,7 @@ Omit “otherwise—”.
 
 Repeal the subsections.
 
-As at 9 November 2012 the amendments are not incorporated in this compilation.
+As at 1 July 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
