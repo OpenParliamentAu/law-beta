@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00800/Html/9261ce0d-ed38-45f5-9ff8-ff92b684192d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00635/Html/e319c5a7-46b5-47eb-8802-ce2881afb8c9_files/image001.gif)
 
 # Fair Work (Registered Organisations) Act 2009
 
 **Act No. 86 of 1988 as amended**
 
-This compilation was prepared on 8 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 10 August 2012
+ taking into account amendments up to Act No. 93 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -1429,7 +1430,7 @@ Note:          Organisations registered under the _Workplace R
 
                      (b)  if paragraph (a) does not apply—an organisation of which the association has purported to function as a branch (including a division of a branch or a constituent part of a branch).
 
-##### <a id="10"></a>10  Forging and uttering
+##### <a id="10"></a>10  Forging and uttering
 
 Forging
 
@@ -3773,7 +3774,7 @@ in a way that is fair to the members of the organisations concerned and the cred
 
                      (b)  be filed within such later time as FWA allows.
 
-             (3)  FWA may order that the statement be amended, in accordance with the order, to correct factual errors or otherwise to ensure that it complies with this Act.
+             (3)  FWA may order that the statement be amended, in accordance with the order, to correct factual errors or otherwise to ensure that it complies with this Schedule.
 
 ##### <a id="97"></a>97  Filing the “no” case
 
@@ -4645,7 +4646,7 @@ Note:          Section 151 deals with agreements between org
 
 ##### <a id="135"></a>135  Factors to be taken into account by FWA
 
-                   In considering whether to make an order under section 133, FWA must have regard to the wishes of the employees who are affected by the dispute and, where FWA considers it appropriate, is also to have regard to:
+                   In considering whether to make an order under section 133, FWA must have regard to the wishes of the employees who are affected by the dispute and, where FWA considers it appropriate, is also to have regard to:
 
                      (a)  the effect of any order on the operations (including operating costs, work practices, efficiency and productivity) of an employer who is a party to the dispute or who is a member of an organisation that is a party to the dispute; and
 
@@ -5079,7 +5080,7 @@ Note:          Part 4 of Chapter 8 deals with the conduct 
 
 #### Subdivision B—Agreements between organisations and State unions
 
-##### <a id="150"></a>150  Definitions
+##### <a id="150"></a>150  Definitions
 
                    In this Subdivision:
 
@@ -6501,7 +6502,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (6)  Without limiting the power of the Court to terminate a proceeding before it, the Court may, at any time after it begins an inquiry into an election, terminate the inquiry or the inquiry to the extent that it relates to specified matters.
 
-##### <a id="207"></a>207  General Manager to make arrangements for conduct of elections etc.
+##### <a id="207"></a>207  General Manager to make arrangements for conduct of elections etc.
 
                    Where the Federal Court makes an order under paragraph 206(4)(c) in relation to an election, the General Manager must arrange for the taking of the necessary steps in relation to the election, or for the conduct of the new election, as the case requires, by the AEC.
 
@@ -8463,7 +8464,7 @@ Part 3 provides that if a person is a party to certain kinds of proceedings un
 
 Part 4 provides for the General Manager to make inquiries as to compliance with financial accountability requirements and civil penalty provisions. The General Manager may also conduct investigations.
 
-Part 4A provides protection for officers, employees and members of organisations who disclose information about contraventions of this Act or the Fair Work Act.
+Part 4A provides protection for officers, employees and members of organisations who disclose information about contraventions of this Act or this Act.
 
 Part 4B confers functions and powers on FWA in relation to matters arising under this Act, in addition to those conferred by Division 3 of Part 5‑1 of the Fair Work Act.
 
@@ -10751,7 +10752,7 @@ Remainder: Royal Assent</div>
 Schedule (Part 4): 30 July 1995 ( <i>see Gazette</i>1995, No. S324) <i>(c)</i></div>
   </td>
   <td>
-    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
+    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
   </td>
 </tr>
 <tr>
@@ -11066,17 +11067,17 @@ Schedule 17: 17 Jan 1997 ( <i>see</i> <i>Gazette</i>1997, No. S18)Remainde
     <div>Sch. 4 (items 
 11–13), 
 Sch. 5 (items 
-46–49, 50(1), (2), (4), 51(1)–(6), (8), 52, 53, 54(1), 55), Sch. 6 (item 17), 
+46–49, 50(1), (2), (4), 51(1)–(6), (8), 52, 53, 54(1), 55), Sch. 6 (item 17), 
 Sch. 7 (items 12, 13), Sch. 8 (item 23), 
 Sch. 9 (item 2(1)–(8), (10)), 
 Sch. 11 (items 88, 89), Sch. 13 (item 16), 
 Sch. 14 (item 41) and Sch. 17 (items 
 29–37) 
 S. 2(2) and (6) (am. by 77, 1996, Sch. 3 \[items 1, 2]) 
-Sch. 5 (item 50(3)) (am. by 198, 1997, Sch. 1 \[item 4]) 
-Sch. 5 (item 51(7)) (am. by 119, 1999, Sch. 2 \[item 1]) 
-Sch. 5 (item 54(2)) (rep. by 119, 1999, Sch. 2 \[item 2]) 
-Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125]) \[ <i>see</i>Table A]</div>
+Sch. 5 (item 50(3)) (am. by 198, 1997, Sch. 1 \[item 4]) 
+Sch. 5 (item 51(7)) (am. by 119, 1999, Sch. 2 \[item 1]) 
+Sch. 5 (item 54(2)) (rep. by 119, 1999, Sch. 2 \[item 2]) 
+Sch. 9 (item 2(9)) (am. by 133, 1999, Sch. 1 \[item 125]) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -11821,7 +11822,7 @@ Remainder: Royal Assent</div>
 7–10) and Sch. 4 (items 1–5, 6–20, 20A, 21–23) 
 Sch. 4 (item 5A) (am. by 163, 2006, Sch. 6 \[items 49, 50]) 
 Sch. 4 (item 24) (am. by 8, 2007, Sch. 2 \[item 18]) 
-\[ <i>see</i>Note 1]</div>
+\[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -11892,7 +11893,7 @@ Schedules 3–6: 12 Dec 2006
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 2 (item 5), Sch. 3 (item 31), Sch. 5 (items 35, 36) and Sch. 6 (items 
+    <div>Sch. 2 (item 5), Sch. 3 (item 31), Sch. 5 (items 35, 36) and Sch. 6 (items 
 51–61) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
@@ -11968,7 +11969,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 2 (items 
 32–36), Sch. 3 (items 
-18–20), Sch. 4 (item 3), Sch. 6 (item 3) and Sch. 7 (items 11, 18) \[ <i>see</i>Table A]</div>
+18–20), Sch. 4 (item 3), Sch. 6 (item 3) and Sch. 7 (items 11, 18) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -11986,7 +11987,7 @@ Remainder: Royal Assent</div>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 15A) and Sch. 3 (item 53) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 15A) and Sch. 3 (item 53) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -12073,7 +12074,7 @@ Remainder: Royal Assent</div>
 Schedule 22 (item 91): <i>(v)</i></div>
   </td>
   <td>
-    <div>\[ <i>see</i>Note 1]</div>
+    <div>\[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -12190,7 +12191,7 @@ Schedule 22 (item 91): <i>(v)</i></div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (item 58): Royal Assent</div>
+    <div>Schedule 1 (item 58): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -12228,23 +12229,6 @@ Schedule 22 (item 91): <i>(v)</i></div>
   </td>
   <td>
     <div>Sch. 1 (items 4, 10, 16–18, 24, 28, 37–39, 58, 60) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 51, 52): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -29136,103 +29120,7 @@ Schedule 1</div>
 </tr>
 <tr>
   <td>
-    <div>S. 94</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 153, 2005; No. 55, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 95</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 153, 2005; No. 55, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 96</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 153, 2005; No. 55, 2009; No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 97</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 153, 2005; No. 55, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 153, 2005; No. 55, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 99</div>
-  </td>
-  <td>
-    <div>ad. No. 104, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 153, 2005; No. 55, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 100</div>
+    <div>Ss. 94–100</div>
   </td>
   <td>
     <div>ad. No. 104, 2002</div>
@@ -31837,7 +31725,7 @@ Part 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 112, 2004; No. 153, 2005; No. 55, 2009; No. 136, 2012</div>
+    <div>am. No. 112, 2004; No. 153, 2005; No. 55, 2009</div>
   </td>
 </tr>
 <tr>
@@ -43470,7 +43358,7 @@ Insert:
 
                     <a name="control"></a>**_control_** has the same meaning as in the _Corporations Act 2001._
 
-## 42  Section 6
+## 42  Section 6
 
 Insert:
 
@@ -43908,7 +43796,7 @@ Add:
 
 After “144(1)”, insert “or section 148D”.
 
-As at 8 November 2012 the amendments are not incorporated in this compilation.
+As at 10 August 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -44490,7 +44378,7 @@ Section 253ZW of the _Workplace Relations Act 1996_ applies to acts or omissio
 
 _Human Rights Legislation Amendment Act (No. 1) 1999 (No. 133, 1999)_
 
-##### <a id="18"></a>18  Referrals under the old SDA
+##### <a id="18"></a>18  Referrals under the old SDA
 
                    The amendments made by items 1, 2, 85, 86, 97, 100, 122, 123, 124 and 125 of Schedule 1 do not apply to a complaint lodged before the starting day under section 50A, 50C or 50E of the old SDA.
 
@@ -44788,7 +44676,7 @@ The amendment of the Principal Act made by item 13 applies to:
 
                      (b)  proceedings referred to the Full Bench under that section on or after that commencement.
 
-## 32  Application of item 15
+## 32  Application of item 15
 
 The amendment of the Principal Act made by item 15 applies only in relation to a breach of a minimum term or condition of employment applicable to an employee under subsection 500(1) of that Act if that breach occurs on or after the commencement of that item.
 
