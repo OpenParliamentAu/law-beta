@@ -1,18 +1,17 @@
-![](http://www.comlaw.gov.au/Details/C2004C03310/Html/CusLegAmRITMod2001_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03309/Html/CustLegAmRepInternTradeModern2001_image001.gif)
 
 # Customs Legislation Amendment and Repeal (International Trade Modernisation) Act 2001
 
 **Act No. 95 of 2001 as amended** 
 
-This compilation was prepared on 8 January 2003
+This compilation was prepared on 18 October 2002
 
-**\[This Act was amended by Act Nos. 63, 64 and 82 of 2002;  No. 136 of 2003]**
+**\[This Act was amended by Act Nos. 63, 64 and 82 of 2002]**
 
-**Amendment from Act No. 63 of 2002**
+**Amendments from Act No. 63 of 2002**
 
 \[Schedule 2 (item 8) amended heading to Item 158 of Schedule 3
-
-Schedule 2 (item 8) commenced on 20 July 2001]
+ Schedule 2 (item 8) commenced on 20 July 2001]
 
 **Amendments from Act No. 64 of 2002**
 
@@ -24,8 +23,7 @@ Schedule 2 (item 8) commenced on 20 July 2001]
  and added Item 122A to Schedule 3
  Schedule 6 (item 15) repealed and substituted Items 124 and 125 
  of Schedule 3
-
-Schedule 6 (items 10-15) commence on 20 July 2005 
+ Schedule 6 (items 10-15) commence on 20 July 2003 
  unless proclaimed earlier]
 
 **Amendments from Act No. 82 of 2002**
@@ -40,20 +38,10 @@ Schedule 6 (items 10-15) commence on 20 July 2005
  Schedule 3 (item 72) repealed and substituted Item 111 of Schedule 3
  Schedule 3 (item 73) repealed and substituted Item 116 of Schedule 3
  and added Items 116A-116C to Schedule 3
-
-Schedule 3 (items 70 and 71) commenced on 20 July 2001
+ Schedule 3 (items 70 and 71) commenced on 20 July 2001
  Schedule 3 (items 56-65) commence on Royal Assent
- Schedule 3 (items 66-69, 72, 73) commence on 20 July 2005 
+ Schedule 3 (items 66-69, 72, 73) commence on 20 July 2004 
  unless proclaimed earlier]
-
-**Amendments from Act No. 136 of 2003**
-
-\[Schedule 1 (item 33A) amended subsection 2(7)
- Schedule 1 (item 34) added Item 8 to Schedule 2
- Schedule 1 (item 35) added note to Item 62 to Schedule 3
- Schedule 1 (item 36) repealed Item 84 of Schedule 3
-
-Schedule 1 (items 33A, 34–36) commenced on 17 December 2003]
 
 **The amendments have been incorporated in this compilation.**
 
@@ -62,13 +50,13 @@ Prepared by the Office of Legislative Drafting,
 
 # Contents
 
-[1](#1).            Short title
+[1](#1).            Short title                                                                                             1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Schedule(s)
+[3](#3).            Schedule(s)                                                                                           2
 
-[4](#4).            Transitional—liability for cargo report processing charge during moratorium period
+[4](#4).            Transitional—liability for cargo report processing charge during moratorium period             2
 
 **Schedule 1—Provisions for improving customs compliance** 
 
@@ -102,35 +90,35 @@ Customs Act 1901                     �
 
 **Schedule 3—Communicating import and export information to Customs** 
 
-Part 1—Maintenance of electronic communications systems by Customs 41
+Part 1—Maintenance of electronic communications systems by Customs 39
 
-Customs Act 1901                                                                                                      41
+Customs Act 1901                                                                                                      39
 
-Part 2—Importation of goods                                                                                    44
+Part 2—Importation of goods                                                                                    42
 
-Customs Act 1901                                                                                                      44
+Customs Act 1901                                                                                                      42
 
-Part 3—Exportation of goods                                                                                    81
+Part 3—Exportation of goods                                                                                    78
 
-Customs Act 1901                                                                                                      81
+Customs Act 1901                                                                                                      78
 
-Part 4—Abolition of existing computer systems                                                102
+Part 4—Abolition of existing computer systems                                                  99
 
-Customs Act 1901                                                                                                    102
+Customs Act 1901                                                                                                      99
 
-Part 5—Matters relating to importation and exportation of goods            105
+Part 5—Matters relating to importation and exportation of goods            103
 
-Customs Act 1901                                                                                                    105
+Customs Act 1901                                                                                                    103
 
-Part 6—Reports and other compliance measures                                            108
+Part 6—Reports and other compliance measures                                            106
 
-Customs Act 1901                                                                                                    108
+Customs Act 1901                                                                                                    106
 
-Customs Administration Act 1985                                                                        131
+Customs Administration Act 1985                                                                        129
 
 **Schedule 4—Repeal of the Import Processing Charges Act 1997** 
 
-Import Processing Charges Act 1997                                                                  136
+Import Processing Charges Act 1997                                                                  134
 
 ## An Act to amend and repeal certain legislation relating to Customs, and for related purposes
 
@@ -164,7 +152,7 @@ The Parliament of Australia enacts:
 
              (6)  If an item in Schedule 4 does not commence under subsection (5) within the period of 2 years beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
 
-             (7)  If an item in a Schedule (other than Schedule 4) does not commence under subsection (2), (3), (4) or (5) within the period of 4 years beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+             (7)  If an item in a Schedule (other than Schedule 4) does not commence under subsection (2), (3), (4) or (5) within the period of 3 years beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
 
 ##### <a id="3"></a>3  Schedule(s)
 
@@ -192,7 +180,7 @@ Part 1—Goods subject to Customs control
 
 Customs Act 1901
 
-## 1  Paragraph 30(1)(d)
+1  Paragraph 30(1)(d)
 
 Omit “, being protected objects, or being goods the exportation of which is subject to compliance with any condition or restriction under any Act or regulation”.
 
@@ -204,7 +192,7 @@ To avoid doubt, the amendment of paragraph 30(1)(d) of the _Customs Act 1901_ ma
 
 Repeal the section, substitute:
 
-##### <a id="33"></a>33  Persons not to move goods subject to the control of Customs
+33  Persons not to move goods subject to the control of Customs
 
              (1)  If:
 
@@ -278,9 +266,9 @@ Customs Act 1901
 
 Insert:
 
-### Division 3A—Examining goods for export that are not yet subject to Customs control
+Division 3A—Examining goods for export that are not yet subject to Customs control
 
-<a id="122F"></a>122F  Object of Division
+122F  Object of Division
 
              (1)  The object of this Division is to confer powers on authorised officers to enter premises and examine goods that are reasonably believed to be intended for export.
 
@@ -290,13 +278,13 @@ Insert:
 
              (4)  The CEO must not authorise an officer to exercise powers under this Division unless the CEO is satisfied that the officer is suitably qualified, because of the officer’s abilities and experience, to exercise those powers.
 
-<a id="122G"></a>122G  Occupier of premises
+122G  Occupier of premises
 
                    In this Part:
 
                     <a name="occupi"></a>**_occupier_** of premises includes a person who is apparently in charge of the premises.
 
-<a id="122H"></a>122H  Consent required to enter premises and examine goods for export
+122H  Consent required to enter premises and examine goods for export
 
              (1)  Subject to section 122J, an authorised officer may enter premises, and exercise the powers conferred by the other sections of this Division in or on the premises, in accordance with this section.
 
@@ -312,27 +300,27 @@ Note:          Paragraph 30(1)(d) subjects to the control of C
 
              (6)  Before the authorised officer enters the premises or exercises any of the powers, he or she must produce his or her identity card to the occupier.
 
-<a id="122J"></a>122J  Officer must leave premises if consent withdrawn
+122J  Officer must leave premises if consent withdrawn
 
              (1)  An authorised officer who has entered premises under section 122H must leave the premises if the occupier withdraws his or her consent.
 
              (2)  A withdrawal of a consent does not have any effect unless it is in writing.
 
-<a id="122K"></a>122K  Power to search premises for export goods
+122K  Power to search premises for export goods
 
                    The authorised officer may search the premises for the export goods and documents relating to them.
 
-<a id="122L"></a>122L  Power to examine export goods
+122L  Power to examine export goods
 
              (1)  While the authorised officer is in or on the premises, he or she may inspect, examine, count, measure, weigh, gauge, test or analyse, and take samples of, the export goods.
 
              (2)  The authorised officer may remove from the premises any samples taken, and arrange for tests or analyses to be conducted on them elsewhere.
 
-<a id="122M"></a>122M  Power to examine documents relating to export goods
+122M  Power to examine documents relating to export goods
 
                    The authorised officer may examine and take extracts from, or make copies of, documents that are in or on the premises and relate to the export goods.
 
-<a id="122N"></a>122N  Power to question occupier about export goods
+122N  Power to question occupier about export goods
 
                    If the authorised officer is in or on the premises because the occupier consented to the officer’s entry, the officer may request the occupier:
 
@@ -342,11 +330,11 @@ Note:          Paragraph 30(1)(d) subjects to the control of C
 
 but the occupier is not obliged to comply with the request.
 
-<a id="122P"></a>122P  Power to bring equipment to the premises
+122P  Power to bring equipment to the premises
 
                    The authorised officer may bring into or onto the premises equipment and materials for exercising a power described in section 122K, 122L or 122M.
 
-<a id="122Q"></a>122Q  Compensation
+122Q  Compensation
 
              (1)  If a person’s property is damaged as a result of an exercise of a power under this Division, the person is entitled to compensation of a reasonable amount payable by Customs for the damage.
 
@@ -354,7 +342,7 @@ but the occupier is not obliged to comply with the request.
 
              (3)  In determining the amount of compensation payable, regard is to be had to whether the occupier of the premises and the employees or agents of the occupier, if they were available at the time, had provided any warning or guidance that was appropriate in the circumstances.
 
-<a id="122R"></a>122R  Powers in this Division are additional to other powers
+122R  Powers in this Division are additional to other powers
 
                    The powers of an authorised officer under this Division do not limit powers under other provisions of this Act or under provisions of other Acts.
 
@@ -400,7 +388,7 @@ Insert:
 
 Insert:
 
-<a id="4B"></a>4B  What is a Customs-related law
+4B  What is a Customs-related law
 
                    In this Act:
 
@@ -412,7 +400,7 @@ Insert:
 
                      (c)  any other Act, or any regulations made under any other Act, in so far as the Act or regulations relate to the importation or exportation of goods, where the importation or exportation is subject to compliance with any condition or restriction or is subject to any tax, duty, levy or charge (however described).
 
-<a id="4C"></a>4C  Identity cards
+4C  Identity cards
 
              (1)  The CEO must cause an identity card to be issued to an officer who is an authorised officer for the purposes of Division 3A of Part VI or is a monitoring officer for the purposes of Subdivision J of Division 1 of Part XII.
 
@@ -434,19 +422,19 @@ Insert:
 
 Repeal the heading, substitute:
 
-#### Subdivision J—Powers to monitor and audit
+Subdivision J—Powers to monitor and audit
 
 13  Sections 214AA, 214AB and 214AC
 
 Repeal the sections, substitute:
 
-<a id="214AA"></a>214AA  Occupier of premises
+214AA  Occupier of premises
 
                    In this Subdivision:
 
                     <a name="occupi"></a>**_occupier_** of premises includes a person who is apparently in charge of the premises.
 
-<a id="214AB"></a>214AB  What are _monitoring powers_?
+214AB  What are monitoring powers?
 
 Monitoring powers
 
@@ -510,7 +498,7 @@ Power to copy information found by operating equipment
 
                      (c)  the power to remove from the premises a disk, tape or other storage device to which the information has been transferred in exercise of the power under paragraph (b).
 
-<a id="214AC"></a>214AC  Monitoring officers
+214AC  Monitoring officers
 
 Who is a **monitoring officer**?
 
@@ -550,17 +538,17 @@ Monitoring powers to be used only as authorised
 
                      (b)  an officer who is authorised to enter, and exercise monitoring powers in or on, specified premises to enter, or to exercise the powers in or on, other premises.
 
-<a id="214ACA"></a>214ACA  Monitoring officer to notify occupier of premises of the occupier’s rights and obligations
+214ACA  Monitoring officer to notify occupier of premises of the occupier’s rights and obligations
 
                    Before exercising monitoring powers in respect of premises, a monitoring officer must give to the occupier of the premises a written notice setting out the occupier’s rights and obligations under this Subdivision.
 
-<a id="214AD"></a>214AD  Notice of proposal to exercise monitoring powers
+214AD  Notice of proposal to exercise monitoring powers
 
                    Before seeking consent under section 214AE to enter premises and exercise monitoring powers there, a monitoring officer may give to the occupier of the premises written notice stating that the officer wishes to enter the premises and exercise monitoring powers and specifying the period from the giving of the notice during which the officer wishes to exercise the powers.
 
 Note:          If the occupier had, before a notice is given under section 214AD, made to Customs a statement that was false or misleading, a voluntary notification made by the occupier after the notice is given is not a defence to a prosecution for an offence against section 243T or 243U in respect of the statement.
 
-<a id="214AE"></a>214AE  Exercise of monitoring powers with consent
+214AE  Exercise of monitoring powers with consent
 
              (1)  A monitoring officer may enter, and exercise monitoring powers in or on, premises to the extent that it is reasonably necessary for the purpose of assessing:
 
@@ -584,7 +572,7 @@ Note:          If the occupier had, before a notice is given u
 
              (8)  A consent, or a withdrawal of consent, does not have effect unless the consent or withdrawal is in writing.
 
-<a id="214AF"></a>214AF  Exercise of monitoring powers under a warrant
+214AF  Exercise of monitoring powers under a warrant
 
              (1)  A monitoring officer may apply to a magistrate for a warrant under this section in relation to particular premises.
 
@@ -614,7 +602,7 @@ Note:          If the occupier had, before a notice is given u
 
              (5)  A magistrate in a particular State or Territory may issue a warrant in respect of premises in another State or Territory.
 
-<a id="214AG"></a>214AG  Warrants may be granted by telephone or other electronic means
+214AG  Warrants may be granted by telephone or other electronic means
 
              (1)  A monitoring officer may apply to a magistrate for a warrant in relation to premises by telephone, telex, fax or other electronic means (of any kind):
 
@@ -656,7 +644,7 @@ Note:          If the occupier had, before a notice is given u
 
 the court is to assume, unless the contrary is proved, that the exercise of the power was not duly authorised.
 
-<a id="214AH"></a>214AH  Monitoring officer may ask questions
+214AH  Monitoring officer may ask questions
 
              (1)  If a monitoring officer is in or on premises that he or she entered with the consent of the occupier of the premises, the officer may request the occupier to answer any questions put by the monitoring officer, but the occupier is not obliged to comply with the request.
 
@@ -664,7 +652,7 @@ the court is to assume, unless the contrary is proved, that the exercise of the 
 
 Note:          Failure to answer a question put under this subsection is an offence. See section 243SA.
 
-<a id="214AI"></a>214AI  Monitoring officer may ask for assistance
+214AI  Monitoring officer may ask for assistance
 
              (1)  If a monitoring officer is in or on premises that he or she entered with the consent of the occupier of the premises under section 214AE, the officer may request the occupier to provide reasonable assistance to the officer at any time while the officer is entitled to remain in or on the premises, but the occupier is not obliged to comply with the request.
 
@@ -678,7 +666,7 @@ Note:          Failure to answer a question put under this sub
 
              (5)  An offence against subsection (4) is an offence of strict liability.
 
-<a id="214AJ"></a>214AJ  Compensation for damage to electronic equipment
+214AJ  Compensation for damage to electronic equipment
 
              (1)  This section applies if:
 
@@ -792,7 +780,7 @@ the person commits an offence punishable, on conviction, by a penalty not exceed
 
 Insert:
 
-<a id="240AA"></a>240AA  Authorised officer may require person to produce commercial documents
+240AA  Authorised officer may require person to produce commercial documents
 
              (1)  An authorised officer may, by written notice given to a person who is required under section 240 to keep a commercial document, require the person to produce, either at the business premises in Australia of the person or at a place in Australia specified in the notice, and within a period specified in the notice, for inspection by an authorised officer:
 
@@ -806,7 +794,7 @@ Note 2:       Failure to produce a commercial document following a r
 
              (2)  The period that may be specified in a notice given under subsection (1) must not be less than 14 days after the notice is given.
 
-<a id="240AB"></a>240AB  Verifying communications to Customs
+240AB  Verifying communications to Customs
 
              (1)  This section applies to a person who makes a communication (however described) to Customs under this Act.
 
@@ -834,7 +822,7 @@ Note 2:       Failure to produce a commercial document following a r
 
 the person commits an offence punishable, on conviction, by a penalty not exceeding 30 penalty units.
 
-<a id="240AC"></a>240AC  Authorised officer may require person to produce record
+240AC  Authorised officer may require person to produce record
 
              (1)  An authorised officer may, by written notice given to a person who is required under section 240AB to keep a record, require the person to produce, either at the business premises in Australia of the person or at a place in Australia specified in the notice, and within a period specified in the notice, for inspection by an authorised officer:
 
@@ -892,19 +880,19 @@ Division 4—Provisions relating to certain strict liability offences
 
 Repeal the sections, substitute:
 
-<a id="243SA"></a>243SA  Failure to answer questions
+243SA  Failure to answer questions
 
                    A person must not fail to answer a question that an officer, pursuant to a power conferred on the officer by this Act, requires the person to answer.
 
                     Penalty:  30 penalty units.
 
-<a id="243SB"></a>243SB  Failure to produce documents or records
+243SB  Failure to produce documents or records
 
                    A person must not fail to produce a document or record that an officer, pursuant to a power conferred on the officer by this Act other than a power conferred by section 71DA, 71DL, 114A or 118, requires the person to produce.
 
                     Penalty:  30 penalty units.
 
-<a id="243SC"></a>243SC  Preservation of the privilege against self-incrimination
+243SC  Preservation of the privilege against self-incrimination
 
              (1)  Subject to subsection (2), a person who would, apart from this subsection, be required to:
 
@@ -920,7 +908,7 @@ need not comply with the requirement if so complying would:
 
              (2)  Subsection (1) does not apply, and the person must comply with the requirement, if the person has waived his or her rights under that subsection.
 
-<a id="243T"></a>243T  False or misleading statements resulting in loss of duty
+243T  False or misleading statements resulting in loss of duty
 
              (1)  If:
 
@@ -972,7 +960,7 @@ the owner of the goods (not being a person who is to be treated as the owner of 
 
                      (c)  the statement sets out the reasons for the person’s uncertainty about the effect of omitting the information.
 
-<a id="243U"></a>243U  False or misleading statements not resulting in loss of duty
+243U  False or misleading statements not resulting in loss of duty
 
              (1)  A person commits an offence if:
 
@@ -1008,7 +996,7 @@ the owner of the goods (not being a person who is to be treated as the owner of 
 
                      (b)  a statement that a person who is or was a passenger on, or a member of the crew of, a ship or aircraft made in relation to his or her accompanied personal or household effects that were carried on the ship or aircraft.
 
-<a id="243V"></a>243V  False or misleading statements in cargo reports or outturn reports
+243V  False or misleading statements in cargo reports or outturn reports
 
              (1)  A person commits an offence if the person:
 
@@ -1020,7 +1008,7 @@ the owner of the goods (not being a person who is to be treated as the owner of 
 
              (3)  The penalty for a conviction for an offence against subsection (1) is an amount not exceeding 50 penalty units.
 
-<a id="243W"></a>243W  Electronic communications to Customs to be treated as statements to CEO
+243W  Electronic communications to Customs to be treated as statements to CEO
 
                    For the purposes of this Division, any electronic communication to Customs is taken to be a statement made to the CEO.
 
@@ -1034,7 +1022,7 @@ Add:
 
 Division 5—Penalties in lieu of prosecution for certain offences
 
-<a id="243X"></a>243X  Application of Division
+243X  Application of Division
 
              (1)  This Division applies to an offence against, or an offence for a contravention of, subsection 33(2), (3) or (6), 64(13), 64AA(10), 64AAB(7), 64AAC(6), 64AB(10), 64ABAA(9), 71G(1), 74(6), 99(3), 102A(4), 113(1), 114B(7), 114E(1), 114F(2), 115(1), 116(2), 117AA(1), (2), (3) or (4), 117A(1), 118(1), 119(3), 243T(1), 243U(1) or 243V(1).
 
@@ -1044,13 +1032,13 @@ Division 5—Penalties in lieu of prosecution for certain offences
 
                      (b)  if the subsection so inserted or substituted is amended or replaced by a later Act—the subsection as so amended or replaced.
 
-<a id="243XA"></a>243XA  Guidelines for serving infringement notices
+243XA  Guidelines for serving infringement notices
 
              (1)  The CEO must develop written guidelines in respect of the administration of this Division to which he or she must have regard when exercising powers under this Division.
 
              (2)  The guidelines are a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-<a id="243Y"></a>243Y  When an infringement notice can be served
+243Y  When an infringement notice can be served
 
              (1)  If the CEO has reasonable grounds to believe that a person has committed an offence, the CEO may cause an infringement notice to be served on the person in accordance with this Division.
 
@@ -1064,7 +1052,7 @@ Division 5—Penalties in lieu of prosecution for certain offences
 
 whichever period ends first.
 
-<a id="243Z"></a>243Z  Matters to be included in an infringement notice
+243Z  Matters to be included in an infringement notice
 
              (1)  An infringement notice must:
 
@@ -1116,7 +1104,7 @@ the period beginning on the making of the application and ending on the final de
 
                      (b)  otherwise—one-fifth of the maximum amount of the penalty that a court could impose for the offence.
 
-<a id="243ZA"></a>243ZA  Withdrawal of infringement notice
+243ZA  Withdrawal of infringement notice
 
              (1)  A person on whom an infringement notice has been served may make written representations to the CEO seeking the withdrawal of the notice.
 
@@ -1140,7 +1128,7 @@ the period beginning on the making of the application and ending on the final de
 
 the CEO must refund to the person, out of money appropriated by the Parliament, an amount equal to the amount paid.
 
-<a id="243ZB"></a>243ZB  What happens if unpaid duty or unrepaid refund or drawback and penalty are paid
+243ZB  What happens if unpaid duty or unrepaid refund or drawback and penalty are paid
 
              (1)  This section applies if:
 
@@ -1158,11 +1146,11 @@ the CEO must refund to the person, out of money appropriated by the Parliament, 
 
              (4)  The person is not regarded as having been convicted of the offence.
 
-<a id="243ZC"></a>243ZC  More than one infringement notice may not be served for the same offence
+243ZC  More than one infringement notice may not be served for the same offence
 
                    This Division does not permit the service of more than one infringement notice on a person for the same offence.
 
-<a id="243ZD"></a>243ZD  Infringement notice not required to be served
+243ZD  Infringement notice not required to be served
 
                    This Division does not:
 
@@ -1178,7 +1166,7 @@ the CEO must refund to the person, out of money appropriated by the Parliament, 
 
                      (d)  limit the amount of the penalty that may be imposed by a court on a person convicted of an offence.
 
-<a id="243ZE"></a>243ZE  CEO may extend period for payment of penalty
+243ZE  CEO may extend period for payment of penalty
 
              (1)  The CEO may, by writing, extend, in relation to a particular person, the period referred to in paragraph 243Z(1)(f).
 
@@ -1190,42 +1178,6 @@ the CEO must refund to the person, out of money appropriated by the Parliament, 
 
 Repeal the paragraph.
 
-8  Saving
-
-(1)        This item is about making an application to the Administrative Appeals Tribunal for review of a decision of the CEO under old section 243U of the _Customs Act 1901_:
-
-                     (a)  not to remit a penalty payable under old section 243T of that Act in respect of duty payable on goods; or
-
-                     (b)  to remit part only of such a penalty.
-
-_Note:       This item applies if the decision was made on or after 1 July 2002._
-
-Decisions made before Royal Assent to Customs Legislation Amendment Act (No. 2) 2003
-
-(2)        The application may be made at any time before the end of 28 days after the day on which the _Customs Legislation Amendment Act (No. 2) 2003_ receives the Royal Assent, if:
-
-                     (a)  the person who applied for remission of the penalty was informed of the decision before that day; or
-
-                     (b)  the CEO is taken under old subsection 243U(3) of the _Customs Act 1901_ to have made the decision before that day.
-
-This subitem has effect despite paragraph 29(1)(d) and subsections 29(2), (3), (4), (5) and (6) of the _Administrative Appeals Tribunal Act 1975_.
-
-Later decisions
-
-(3)        If subitem (2) does not apply, the application may be made in accordance with section 29 of the _Administrative Appeals Tribunal Act 1975_.
-
-This item has effect despite item 7
-
-(4)        This item has effect despite the repeal of paragraph 273GA(1)(ka) of the _Customs Act 1901_ by item 7 of this Schedule.
-
-Definitions
-
-(5)        In this item, a reference to an old provision of the _Customs Act 1901_ is a reference to that provision as it continues to apply because of item 5A of this Schedule.
-
-(6)        In this item:
-
-**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
-
 ###### Schedule 3—Communicating import and export information to Customs
 
 Part 1—Maintenance of electronic communications systems by Customs
@@ -1236,9 +1188,9 @@ Customs Act 1901
 
 Insert:
 
-## Part VIA—Maintenance of electronic communications systems by Customs
+Part VIA—Maintenance of electronic communications systems by Customs
 
-<a id="126D"></a>126D  CEO to maintain information systems
+126D  CEO to maintain information systems
 
                    The CEO must establish and maintain such information systems as are necessary to enable persons to communicate electronically with Customs.
 
@@ -1260,7 +1212,7 @@ Insert:
 
                      (b)  without limiting paragraph (a), determine different information technology requirements that may be used in different circumstances or by different classes of persons.
 
-<a id="126E"></a>126E  Communication to Customs when information system is temporarily inoperative
+126E  Communication to Customs when information system is temporarily inoperative
 
              (1)  If:
 
@@ -1290,7 +1242,7 @@ the person must communicate the information electronically to Customs within 24 
 
                     Penalty:  50 penalty units.
 
-<a id="126F"></a>126F  Payment to Customs when information system is temporarily inoperative
+126F  Payment to Customs when information system is temporarily inoperative
 
              (1)  This section applies when a person who is liable to make a payment to Customs and would ordinarily make the payment electronically is unable to do so because an information system is temporarily inoperative.
 
@@ -1304,7 +1256,7 @@ the person must communicate the information electronically to Customs within 24 
 
                     Penalty:  50 penalty units.
 
-<a id="126G"></a>126G  Meaning of _temporarily inoperative_
+126G  Meaning of temporarily inoperative
 
                    An information system that has become inoperative is not taken to be **_temporarily inoperative_** for the purposes of this Part unless the CEO is satisfied that the period for which it has been, or is likely to be, inoperative is significant.
 
@@ -1312,7 +1264,7 @@ Part 2—Importation of goods
 
 Customs Act 1901
 
-2  Subsection 4(1) (paragraph (b) of the definition of _authority to deal_)
+2  Subsection 4(1) (paragraph (b) of the definition of authority to deal)
 
 Repeal the paragraph, substitute:
 
@@ -1334,7 +1286,7 @@ Insert:
 
                     <a name="custom-broker"></a>**_customs broker_** means a customs broker within the meaning of Part XI.
 
-6  Subsection 4(1) (definition of _entry processing charge_)
+6  Subsection 4(1) (definition of entry processing charge)
 
 Repeal the definition.
 
@@ -1356,13 +1308,13 @@ Insert:
 
                     <a name="import-declar-process-charg"></a>**_import declaration processing charge_** means import declaration processing charge payable as set out in section 71B.
 
-10  Subsection 4(1) (definition of _import entry_)
+10  Subsection 4(1) (definition of import entry)
 
 Repeal the definition, substitute:
 
                     <a name="import-entri"></a>**_import entry_** means an entry of goods for home consumption made as mentioned in subsection 68(3A) or an entry of goods for warehousing made as mentioned in subsection 68(3B).
 
-11  Subsection 4(1) (definition of _import entry advice_)
+11  Subsection 4(1) (definition of import entry advice)
 
 Repeal the definition, substitute:
 
@@ -1398,7 +1350,7 @@ Insert:
 
                     <a name="rcr-process-charg"></a>**_RCR processing charge_** means an RCR processing charge payable as set out in section 71DC.
 
-17  Subsection 4(1) (definition of _screening charge_)
+17  Subsection 4(1) (definition of screening charge)
 
 Repeal the definition, substitute:
 
@@ -1416,7 +1368,7 @@ Insert:
 
                     <a name="self-assessed-clearanc-declar-charg"></a>**_self-assessed clearance declaration charge_** means a self-assessed clearance declaration charge payable as set out in section 71AAA.
 
-20  Subsection 4(1) (definition of _visual examination application_)
+20  Subsection 4(1) (definition of visual examination application)
 
 Omit “71C”, substitute “71D or 71DK”.
 
@@ -1444,7 +1396,7 @@ Insert:
 
                     <a name="wareh-good-declar-fee"></a>**_warehoused goods declaration fee_** means a fee payable under section 71BA for the processing of an import declaration in respect of warehoused goods.
 
-25  Subsection 4(1) (definition of _warehoused goods entry fee_)
+25  Subsection 4(1) (definition of warehoused goods entry fee)
 
 Repeal the definition.
 
@@ -1518,7 +1470,7 @@ Insert:
 
 Insert:
 
-<a id="68A"></a>68A  Goods imported for transhipment
+68A  Goods imported for transhipment
 
                    If a cargo report in relation to goods states that the destination of the goods is a place outside Australia, an officer may direct a person who has possession of the goods:
 
@@ -1536,7 +1488,7 @@ Repeal the subsection, substitute:
 
 Repeal the section, substitute:
 
-<a id="71"></a>71  Report and clearance of goods not requiring import entry
+71  Report and clearance of goods not requiring import entry
 
              (1)  The owner of goods of a kind referred to in paragraph 68(1)(d) must, in any circumstances specified in the regulations, provide such information:
 
@@ -1598,7 +1550,7 @@ as the regulations specify.
 
            (10)  A suspension of an authority, or the revocation of a suspension of an authority, has effect from the time when the relevant notice was given or the relevant message was sent, as the case may be.
 
-<a id="71AAA"></a>71AAA  Liability for self-assessed clearance declaration charge
+71AAA  Liability for self-assessed clearance declaration charge
 
              (1)  Subject to this section, when a self-assessed clearance declaration is communicated to Customs in accordance with subsection 71(2), the person who sent the communication becomes liable to pay self-assessed clearance declaration charge in respect of the declaration.
 
@@ -1610,7 +1562,7 @@ as the regulations specify.
 
                      (b)  the owner of the goods is a person, or is a person included in a class of persons, declared by the regulations to be exempt from payment of self-assessed clearance declaration charge.
 
-<a id="71AAB"></a>71AAB  Payment of self-assessed clearance declaration charge
+71AAB  Payment of self-assessed clearance declaration charge
 
              (1)  If:
 
@@ -1644,7 +1596,7 @@ Repeal the sections, substitute:
 
 Subdivision B—Import declarations
 
-<a id="71A"></a>71A  Making an import declaration
+71A  Making an import declaration
 
              (1)  An import declaration is a communication to Customs in accordance with this section of information about:
 
@@ -1690,7 +1642,7 @@ the goods are taken to have been entered for home consumption.
 
 the goods are taken to be entered for home consumption only when they are brought to that port or airport.
 
-<a id="71B"></a>71B  Liability for import declaration processing charge
+71B  Liability for import declaration processing charge
 
              (1)  When an import declaration (including an altered import declaration) in respect of goods to which section 68 applies (other than warehoused goods) is, or is taken to have been, communicated to Customs under section 71A, the owner of the goods becomes liable to pay import declaration processing charge in respect of the declaration.
 
@@ -1698,7 +1650,7 @@ the goods are taken to be entered for home consumption only when they are brough
 
              (3)  If an import declaration is withdrawn under subsection 71F(1), or is taken, under subsection 71F(2) or (7), to have been withdrawn, before the issue of an authority to deal in respect of goods covered by the declaration, then, despite subsection (1), the owner of the goods is not liable to pay import declaration processing charge in respect of the declaration.
 
-<a id="71BA"></a>71BA  Warehoused goods declaration fee
+71BA  Warehoused goods declaration fee
 
              (1)  An owner of warehoused goods who makes an import declaration in respect of the goods is liable to pay a fee (the **_warehoused goods declaration fee_**) for the processing by Customs of the declaration.
 
@@ -1714,7 +1666,7 @@ the goods are taken to be entered for home consumption only when they are brough
 
                     <a name="wareh-good"></a>**_warehoused goods_** includes goods that, under section 100, may be dealt with as warehoused goods.
 
-<a id="71C"></a>71C  Authority to deal with goods in respect of which an import declaration has been made
+71C  Authority to deal with goods in respect of which an import declaration has been made
 
              (1)  If an import declaration in respect of goods has been communicated to Customs, Customs must give an import declaration advice, by document or electronically, in accordance with this section.
 
@@ -1820,7 +1772,7 @@ Note:          Subsection 132AA(1) provides that import duty o
 
            (14)  A cancellation or suspension of an authority, or a revocation of a suspension of an authority, has effect from the time when the relevant notice is served or the relevant message is sent, as the case may be.
 
-<a id="71D"></a>71D  Visual examination in presence of officer
+71D  Visual examination in presence of officer
 
              (1)  If a person who is permitted or required to make an import declaration in respect of goods to which section 68 applies does not have the information to complete the declaration, the person may apply to Customs, by document or electronically, for permission to examine the goods in the presence of an officer.
 
@@ -1830,7 +1782,7 @@ Note:          Subsection 132AA(1) provides that import duty o
 
              (4)  A person who has received a permission may examine the goods in accordance with the permission in the presence of an officer.
 
-<a id="71DA"></a>71DA  An officer may seek additional information
+71DA  An officer may seek additional information
 
              (1)  Without limiting the information that may be required to be included in an import declaration, if an import declaration has been made in respect of goods, authority to deal with the goods may be refused until an officer doing duty in relation to import declarations:
 
@@ -1888,7 +1840,7 @@ as the case requires.
 
 Subdivision C—Requests for cargo release
 
-<a id="71DB"></a>71DB  Making a request for cargo release
+71DB  Making a request for cargo release
 
              (1)  A request for cargo release (an **_RCR_**) in respect of goods is a communication to Customs in accordance with this section of a request for the release of goods to which section 68 applies that are intended to be entered for home consumption.
 
@@ -1922,7 +1874,7 @@ the goods are taken to have been entered for home consumption.
 
 the goods are taken to be entered for home consumption only when they are brought to that port or airport.
 
-<a id="71DC"></a>71DC  Liability for an RCR processing charge
+71DC  Liability for an RCR processing charge
 
              (1)  When a person who has entered into an import information contract sends an RCR to Customs, the person becomes liable to pay an RCR processing charge in respect of the RCR.
 
@@ -1930,7 +1882,7 @@ the goods are taken to be entered for home consumption only when they are brough
 
              (3)  If an RCR is withdrawn under subsection 71F(1), or is taken to be withdrawn under subsection 71F(2) or (7), before the issue of an authority to deal in respect of goods covered by the RCR, then, despite subsection (1), the person is not liable to pay an RCR processing charge in respect of the RCR.
 
-<a id="71DD"></a>71DD  Making of import information contracts
+71DD  Making of import information contracts
 
              (1)  Subject to subsection (2), the CEO may enter into a contract (an **_import information contract_**) with a person for the purpose of enabling the person to make RCRs in respect of goods.
 
@@ -1978,7 +1930,7 @@ the goods are taken to be entered for home consumption only when they are brough
 
              (5)  The existence of an import information contract does not affect the exercise by the CEO of any powers conferred on him or her by or under this Act.
 
-<a id="71DE"></a>71DE  Authority to deal with goods in respect of which an RCR has been made
+71DE  Authority to deal with goods in respect of which an RCR has been made
 
              (1)  If an RCR in respect of goods has been communicated to Customs, Customs must give a cargo release advice electronically in accordance with this section.
 
@@ -2018,7 +1970,7 @@ the goods are taken to be entered for home consumption only when they are brough
 
            (11)  A cancellation or suspension of an authority, or a revocation of a suspension of an authority, has effect from the time when the relevant notice is served or the relevant message is sent, as the case may be.
 
-<a id="71DF"></a>71DF  Periodic declarations by persons who are parties to import information contracts
+71DF  Periodic declarations by persons who are parties to import information contracts
 
                    If a person who is a party to an import information contract makes, during a particular month, one or more RCRs in respect of goods, the person:
 
@@ -2026,13 +1978,13 @@ the goods are taken to be entered for home consumption only when they are brough
 
                      (b)  must send electronically to Customs at least one periodic declaration not later than the first day of the following month or such other day of that month as is prescribed.
 
-<a id="71DG"></a>71DG  Liability for periodic declaration processing charge
+71DG  Liability for periodic declaration processing charge
 
                    When a person sends to Customs a periodic declaration under section 71DF, the person becomes liable to pay periodic declaration processing charge in respect of the declaration.
 
 Subdivision D—Warehouse declarations
 
-<a id="71DH"></a>71DH  Making a warehouse declaration
+71DH  Making a warehouse declaration
 
              (1)  A warehouse declaration is a communication to Customs in accordance with this section of information about goods to which section 68 applies that are intended to be entered for warehousing.
 
@@ -2072,7 +2024,7 @@ the goods are taken to have been entered for warehousing.
 
 the goods are taken to be entered for warehousing only when they are brought to that port or airport.
 
-<a id="71DI"></a>71DI  Liability for warehouse declaration processing charge
+71DI  Liability for warehouse declaration processing charge
 
              (1)  When a warehouse declaration (including an altered warehouse declaration) in respect of goods is, or is taken to have been, communicated to Customs under section 71DH, the owner of the goods becomes liable to pay warehouse declaration processing charge in respect of the declaration.
 
@@ -2080,7 +2032,7 @@ the goods are taken to be entered for warehousing only when they are brought to 
 
              (3)  If a warehouse declaration is withdrawn under subsection 71F(1), or is taken, under subsection 71F(2) or (7), to have been withdrawn, before the issue of an authority to deal in respect of goods covered by the declaration, then, despite subsection (1), the owner of the goods is not liable to pay warehouse declaration processing charge in respect of the declaration.
 
-<a id="71DJ"></a>71DJ  Authority to deal with goods in respect of which a warehouse declaration has been made
+71DJ  Authority to deal with goods in respect of which a warehouse declaration has been made
 
              (1)  If a warehouse declaration in respect of goods has been communicated to Customs, Customs must give a warehouse declaration advice, by document or electronically, in accordance with this section.
 
@@ -2164,7 +2116,7 @@ Customs must:
 
            (12)  A cancellation or suspension of an authority, or a revocation of a suspension of an authority, has effect from the time when the relevant notice is served or the relevant message is sent, as the case may be.
 
-<a id="71DK"></a>71DK  Visual examination in presence of officer
+71DK  Visual examination in presence of officer
 
              (1)  If a person who is permitted or required to make a warehouse declaration in respect of goods to which section 68 applies does not have the information to complete the declaration, the person may apply to Customs, by document or electronically, for permission to examine the goods in the presence of an officer.
 
@@ -2174,7 +2126,7 @@ Customs must:
 
              (4)  A person who has received a permission may examine the goods in accordance with the permission in the presence of an officer.
 
-<a id="71DL"></a>71DL  An officer may seek additional information
+71DL  An officer may seek additional information
 
              (1)  Without limiting the information that may be required to be included in a warehouse declaration, if a warehouse declaration has been made in respect of goods, authority to deal with the goods may be refused until an officer doing duty in relation to warehouse declarations:
 
@@ -2236,7 +2188,7 @@ Subdivision E—General
 
 Repeal the sections, substitute:
 
-<a id="71F"></a>71F  Withdrawal of import entries
+71F  Withdrawal of import entries
 
              (1)  At any time after an import entry is communicated to Customs and before the goods to which it relates are dealt with in accordance with the entry, a withdrawal of the entry may be communicated to Customs by document or electronically.
 
@@ -2270,7 +2222,7 @@ Repeal the sections, substitute:
 
 the import entry is taken to have been withdrawn under subsection (1).
 
-<a id="71G"></a>71G  Goods not to be entered while an entry is outstanding
+71G  Goods not to be entered while an entry is outstanding
 
              (1)  If goods have been entered for home consumption under subsection 68(2) or (3), a person must not communicate a further import declaration, a further RCR or a warehouse declaration in respect of the goods or any part of the goods unless the import declaration or RCR that resulted in the goods being entered for home consumption is withdrawn.
 
@@ -2278,7 +2230,7 @@ the import entry is taken to have been withdrawn under subsection (1).
 
              (2)  An offence for a contravention of subsection (1) is an offence of strict liability.
 
-<a id="71H"></a>71H  Effect of withdrawal
+71H  Effect of withdrawal
 
              (1)  When a withdrawal of an import entry in respect of goods takes effect, any authority to deal with the goods is revoked.
 
@@ -2292,11 +2244,11 @@ as if it had not been withdrawn.
 
              (3)  The withdrawal of a documentary import declaration or of a documentary warehouse declaration does not entitle the person who communicated it to have it returned.
 
-<a id="71J"></a>71J  Annotation of import entry by Customs for certain purposes not to constitute withdrawal
+71J  Annotation of import entry by Customs for certain purposes not to constitute withdrawal
 
                    Any annotation of an import entry that is made by Customs as a result of the acceptance by Customs of an application for a refund or rebate of all or a part of the duty paid, or for a remission of all or part of the duty payable, on goods covered by the entry, is not to be taken to constitute a withdrawal of the entry for the purposes of this Act.
 
-<a id="71K"></a>71K  Manner of communicating with Customs by document
+71K  Manner of communicating with Customs by document
 
              (1)  An import entry, a withdrawal of an import entry, a visual examination application, a movement application, or a return for the purposes of subsection 69(5) or 70(7), that is communicated to Customs by document:
 
@@ -2308,7 +2260,7 @@ as if it had not been withdrawn.
 
              (2)  The CEO may approve different forms for documentary communications to be made in different circumstances or by different classes of persons.
 
-<a id="71L"></a>71L  Manner and effect of communicating with Customs electronically
+71L  Manner and effect of communicating with Customs electronically
 
              (1)  An import entry, a withdrawal of an import entry, a visual examination application, a movement application, or a return for the purposes of subsection 69(5) or 70(7) that is communicated to Customs electronically must communicate such information as is set out in an approved statement.
 
@@ -2364,7 +2316,7 @@ Repeal the subsection, substitute:
 
                      (c)  a description of the goods to which the protest relates (where the protest does not relate to all the goods covered by the import declaration or periodic declaration) and a statement of the grounds on which the protest is made.
 
-45  Saving
+45  Saving
 
 Subsection 167(3A) of the _Customs Act 1901_ as in force immediately before the commencement of this Part continues to apply in respect of computer import entries made by a registered COMPILE user before the repeal of Division 4A of Part IV of the _Customs Act 1901_ by item 81 of this Schedule.
 
@@ -2390,7 +2342,7 @@ Insert:
 
                     <a name="acean"></a>**_ACEAN_** means an accredited client export approval number allocated by the CEO to a person under an export information contract.
 
-48A  Subsection 4(1) (paragraph (a) of the definition of _authority to deal_)
+48A  Subsection 4(1) (paragraph (a) of the definition of authority to deal)
 
 Repeal the paragraph, substitute:
 
@@ -2410,7 +2362,7 @@ Insert:
 
                     <a name="export-declar"></a>**_export declaration_** means an export declaration communicated to Customs by document or electronically as mentioned in section 114.
 
-51  Subsection 4(1) (definition of _export entry_)
+51  Subsection 4(1) (definition of export entry)
 
 Repeal the definition, substitute:
 
@@ -2472,7 +2424,7 @@ Repeal the paragraphs, substitute:
 
 Repeal the sections, substitute:
 
-<a id="113AA"></a>113AA  How an entry of goods for export is made
+113AA  How an entry of goods for export is made
 
                    An entry of goods for export is made by:
 
@@ -2482,7 +2434,7 @@ Repeal the sections, substitute:
 
 Subdivision B—Export declarations
 
-<a id="114"></a>114  Making an export declaration
+114  Making an export declaration
 
              (1)  An export declaration is a communication to Customs in accordance with this section of information about goods that are intended for export.
 
@@ -2516,7 +2468,7 @@ Subdivision B—Export declarations
 
              (9)  Customs must communicate a refusal to accept or deal with an export declaration by notice given by document or electronically to the person who made the declaration.
 
-<a id="114A"></a>114A  An officer may seek additional information
+114A  An officer may seek additional information
 
              (1)  Without limiting the information that may be required to be included in an export declaration, if an export declaration has been made in respect of goods, authority to deal with the goods in accordance with the declaration may be refused until an officer doing duty in relation to export declarations has verified particulars of the goods shown in the declaration:
 
@@ -2600,7 +2552,7 @@ Repeal the sections, substitute:
 
 Subdivision C—ACEANS
 
-<a id="114BA"></a>114BA  Using ACEANS in respect of goods
+114BA  Using ACEANS in respect of goods
 
              (1)  The **_use of an ACEAN_** by a person in respect of goods is the communication in accordance with this section to the CEO of the ACEAN in respect of goods that are intended for export.
 
@@ -2618,7 +2570,7 @@ Subdivision C—ACEANS
 
              (7)  An offence against paragraph (6)(b) is an offence of strict liability.
 
-<a id="114BB"></a>114BB  Making of export information contracts
+114BB  Making of export information contracts
 
              (1)  Subject to subsection (2), the CEO may enter into a contract (an **_export information contract_**) with a person for the purpose of enabling the use of accredited client export approved numbers (**_ACEANS_**) in connection with the export of the person’s goods.
 
@@ -2668,7 +2620,7 @@ Subdivision C—ACEANS
 
              (5)  The existence of an export information contract does not affect the exercise by the CEO of any powers conferred on him or her by or under this Act.
 
-<a id="114BC"></a>114BC  Declarations by persons who use ACEANS
+114BC  Declarations by persons who use ACEANS
 
                    If a person, during a particular month, enters goods for export by using one or more ACEANS, the person:
 
@@ -2678,7 +2630,7 @@ Subdivision C—ACEANS
 
 Subdivision D—General
 
-<a id="114C"></a>114C  Authority to deal with goods entered for export
+114C  Authority to deal with goods entered for export
 
              (1)  If goods have been entered for export by the making of an export declaration in respect of the goods, Customs must give an export entry advice, in a manner and form specified in the regulations, that constitutes either:
 
@@ -2730,7 +2682,7 @@ Subdivision D—General
 
              (8)  A cancellation or suspension of an authority, or a revocation of a suspension of an authority, has effect from the time when the relevant notice is served or the relevant message is sent, as the case may be.
 
-<a id="114D"></a>114D  Goods to be dealt with in accordance with export entry
+114D  Goods to be dealt with in accordance with export entry
 
              (1)  The owner of goods in respect of which an export entry has been communicated to Customs:
 
@@ -2752,7 +2704,7 @@ Subdivision D—General
 
                      (b)  the withdrawal constitutes a permission, under section 71E, to move the goods back to the place from which they were first moved in accordance with the entry.
 
-<a id="114E"></a>114E  Sending goods to a wharf or airport for export
+114E  Sending goods to a wharf or airport for export
 
              (1)  A person (the **_deliverer_**) commits an offence if the deliverer delivers goods to a person (the **_deliveree_**) at a wharf or airport for export and:
 
@@ -2772,7 +2724,7 @@ Subdivision D—General
 
              (4)  An offence against subsection (1) is an offence of strict liability.
 
-<a id="114F"></a>114F  Notices to Customs by person who receives goods at a wharf or airport for export
+114F  Notices to Customs by person who receives goods at a wharf or airport for export
 
              (1)  This section applies to a person who takes delivery of goods for export at a wharf or airport other than a wharf or airport that is, or is included in a class of wharves or airports that is, excluded by the regulations from the application of this section.
 
@@ -2784,7 +2736,7 @@ Subdivision D—General
 
              (3)  An offence against subsection (2) is an offence of strict liability.
 
-<a id="115"></a>115  Goods not to be taken on board without authority to deal
+115  Goods not to be taken on board without authority to deal
 
              (1)  The owner of a ship or aircraft must not permit goods required to be entered for export to be taken on board the ship or aircraft for the purpose of export unless:
 
@@ -2796,7 +2748,7 @@ Subdivision D—General
 
              (2)  An offence against subsection (1) is an offence of strict liability.
 
-<a id="116"></a>116  What happens when goods entered for export by an export declaration are not dealt with in accordance with the export entry
+116  What happens when goods entered for export by an export declaration are not dealt with in accordance with the export entry
 
              (1)  If:
 
@@ -2824,7 +2776,7 @@ the authority to deal with the goods in accordance with the entry, so far as it 
 
 on the day, or the respective days, on which the original entry was communicated and the original authority to deal was granted.
 
-<a id="116A"></a>116A  What happens when goods entered for export by the use of an ACEAN are not exported within 30 days
+116A  What happens when goods entered for export by the use of an ACEAN are not exported within 30 days
 
                    If:
 
@@ -2834,11 +2786,11 @@ on the day, or the respective days, on which the original entry was communicated
 
 the entry is taken to have been withdrawn and the ACEAN concerned cannot again be used to enter those goods or any other goods for export.
 
-<a id="117"></a>117  Security
+117  Security
 
                    The Collector may require the owner of any goods entered for export and subject to the control of the Customs to give security that the goods will be landed at the place for which they are entered or will be otherwise accounted for to the satisfaction of the Collector.
 
-<a id="117AA"></a>117AA  Consolidation of certain goods for export can only occur at a prescribed place
+117AA  Consolidation of certain goods for export can only occur at a prescribed place
 
              (1)  A person must not consolidate, or take part in the consolidation of, prescribed goods for export unless the consolidation is to be carried out at a place prescribed by the regulations for the purposes of this section.
 
@@ -2862,7 +2814,7 @@ the entry is taken to have been withdrawn and the ACEAN concerned cannot again b
 
              (5)  An offence for a contravention of this section is an offence of strict liability.
 
-<a id="117A"></a>117A  Submanifests to be communicated to Customs
+117A  Submanifests to be communicated to Customs
 
              (1)  The person in charge of the place at which the consolidation of goods for exportation by a ship or aircraft is to be carried out must, so as to enable the exportation, prepare and communicate electronically to Customs a submanifest in respect of the goods.
 
@@ -2874,7 +2826,7 @@ the entry is taken to have been withdrawn and the ACEAN concerned cannot again b
 
              (3)  When a submanifest is sent to Customs, Customs must send to the compiler of the submanifest a notice acknowledging its receipt and giving the compiler a submanifest number for inclusion in any outward manifest purportedly relating to the goods concerned.
 
-<a id="118"></a>118  Certificate of Clearance
+118  Certificate of Clearance
 
              (1)  The master of a ship or the pilot of an aircraft must not depart with the ship or aircraft from any port, airport or other place in Australia without receiving from the Collector a Certificate of Clearance in respect of the ship or aircraft.
 
@@ -2900,7 +2852,7 @@ the entry is taken to have been withdrawn and the ACEAN concerned cannot again b
 
              (7)  Except as provided in subsection (6), an action or other proceeding cannot be brought against the Commonwealth, or an officer of the Commonwealth, because of the failure to grant, or because of a delay in granting, a Certificate of Clearance.
 
-<a id="119"></a>119  Communication of outward manifest to Customs
+119  Communication of outward manifest to Customs
 
              (1)  The master or the owner of a ship, or the pilot or the owner of an aircraft that departs from a port, airport or other place in Australia, must communicate electronically to Customs, not later than 3 days after the day of departure, an outward manifest:
 
@@ -2914,7 +2866,7 @@ the entry is taken to have been withdrawn and the ACEAN concerned cannot again b
 
              (4)  An offence against subsection (3) is an offence of strict liability.
 
-<a id="119A"></a>119A  Withdrawal of entries, submanifests and manifests
+119A  Withdrawal of entries, submanifests and manifests
 
              (1)  At any time after an export entry, a submanifest or an outward manifest is communicated to Customs and before the goods to which it relates are exported, a withdrawal of the entry, submanifest or manifest may be communicated to Customs:
 
@@ -2938,7 +2890,7 @@ the entry is taken to have been withdrawn and the ACEAN concerned cannot again b
 
              (4)  A withdrawal of an entry, submanifest or manifest has effect when, in accordance with section 119D, it is communicated to Customs.
 
-<a id="119B"></a>119B  Effect of withdrawal
+119B  Effect of withdrawal
 
              (1)  When a withdrawal of an export entry takes effect, any authority to deal with the goods to which the entry relates is revoked.
 
@@ -2952,19 +2904,17 @@ as if it had not been withdrawn.
 
              (3)  The withdrawal of a documentary entry the original of which was sent or given to an officer does not entitle the person who communicated it to have it returned.
 
-<a id="119C"></a>119C  Change of electronic entries and change of submanifests and manifests treated as withdrawals
+119C  Change of electronic entries and change of submanifests and manifests treated as withdrawals
 
              (1)  If a person who has communicated an electronic export entry changes information included in that entry, the person is taken, at the time when an export entry advice is communicated in respect of the altered entry, to have withdrawn the entry as it previously stood.
 
              (2)  If a person who has communicated a submanifest or an outward manifest changes information included in the submanifest or manifest, the person is taken, at the time when an acknowledgment of the altered submanifest or altered manifest, as the case requires, is communicated, to have withdrawn the submanifest or manifest as it previously stood.
 
-<a id="119D"></a>119D  Notification of export entries, submanifests, manifests and withdrawals
+119D  Notification of export entries, submanifests, manifests and withdrawals
 
              (1)  For the purposes of this Act, a documentary export entry, or a documentary withdrawal of such an entry, may be sent to an officer referred to in subsection 114(3) or 119A(2) in any manner prescribed and, when so sent, is taken to have been communicated to Customs at such time, and in such circumstances, as are prescribed.
 
              (2)  For the purposes of this Act, an electronic export entry, or an electronic withdrawal of such an entry, or a submanifest, an outward manifest, or a withdrawal of such a submanifest or manifest, that is sent to Customs is taken to have been communicated to Customs when an export entry advice or an acknowledgment of receipt of the submanifest, manifest or withdrawal is sent to the person who sent the entry, submanifest, manifest or withdrawal.
-
-_Note:       Part 7 of Schedule 1 to the Customs Legislation Amendment Act (No. 2) 2003 explains the application of the amendments made by this item and other items that commence at the same time._
 
 63  Section 120 (penalty)
 
@@ -2990,55 +2940,55 @@ Part 4—Abolition of existing computer systems
 
 Customs Act 1901
 
-67  Subsection 4(1) (definition of _Air Cargo Automation System_)
+67  Subsection 4(1) (definition of Air Cargo Automation System)
 
 Repeal the definition.
 
-68  Subsection 4(1) (definition of _Applicable EXIT agreement_)
+68  Subsection 4(1) (definition of Applicable EXIT agreement)
 
 Repeal the definition.
 
-69  Subsection 4(1) (definition of _cargo automation system_)
+69  Subsection 4(1) (definition of cargo automation system)
 
 Repeal the definition.
 
-70  Subsection 4(1) (definition of _COMPILE computer system_)
+70  Subsection 4(1) (definition of COMPILE computer system)
 
 Repeal the definition.
 
-71  Subsection 4(1) (definition of _COMPILE user agreement_)
+71  Subsection 4(1) (definition of COMPILE user agreement)
 
 Repeal the definition.
 
-72  Subsection 4(1) (definition of _EXIT agreement_)
+72  Subsection 4(1) (definition of EXIT agreement)
 
 Repeal the definition.
 
-73  Subsection 4(1) (definition of _EXIT computer system_)
+73  Subsection 4(1) (definition of EXIT computer system)
 
 Repeal the definition.
 
-74  Subsection 4(1) (definition of _Identifying code_)
+74  Subsection 4(1) (definition of Identifying code)
 
 Repeal the definition.
 
-75  Subsection 4(1) (definition of _PIN number_)
+75  Subsection 4(1) (definition of PIN number)
 
 Repeal the definition.
 
-76  Subsection 4(1) (definition of _Registered COMPILE user_)
+76  Subsection 4(1) (definition of Registered COMPILE user)
 
 Repeal the definition.
 
-77  Subsection 4(1) (definition of _Registered EXIT user_)
+77  Subsection 4(1) (definition of Registered EXIT user)
 
 Repeal the definition.
 
-78  Subsection 4(1) (definition of _Sea Cargo Automation System_)
+78  Subsection 4(1) (definition of Sea Cargo Automation System)
 
 Repeal the definition.
 
-79  Section 63A (definition of _registered user_)
+79  Section 63A (definition of registered user)
 
 Repeal the definition.
 
@@ -3073,6 +3023,18 @@ Repeal the Division.
 83  Division 3 of Part VI
 
 Repeal the Division.
+
+84  Saving—EXIT computer system
+
+(1)        A communication to Customs of information about goods intended for export that is effected by means of the EXIT computer system, after the commencement of this item and before the repeal of Division 3 of Part VI of the _Customs Act 1901_ by item 83 of this Schedule takes effect, is an export declaration for the purposes of that Act as that Act applies after the commencement of Part 3 of this Schedule.
+
+(2)        A communication to which subitem (1) applies may be sent only by a registered EXIT user.
+
+(3)        The following documents are not commercial documents for the purposes of the _Customs Act 1901_:
+
+                     (a)  a record of the transmission to or from Customs, after the commencement of this item and before the repeal of Division 3 of Part VI of that Act by item 83 of this Schedule takes effect, under the EXIT computer system in respect of an export declaration, a submanifest, or an outward manifest, relating to goods;
+
+                     (b)  a record of the withdrawal of such a declaration, submanifest or manifest.
 
 85  Subsection 234(2B)
 
@@ -3112,7 +3074,7 @@ Insert:
 
                     <a name="busi-rule"></a>**_business rules_** means business rules made under section 273EB.
 
-94  Subsection 4(1) (definition of _commercial document_)
+94  Subsection 4(1) (definition of commercial document)
 
 Repeal the definition, substitute:
 
@@ -3156,7 +3118,7 @@ Repeal the subsections, substitute:
 
 Add:
 
-<a id="102A"></a>102A  Notices to Customs by holder of warehouse licence
+102A  Notices to Customs by holder of warehouse licence
 
              (1)  This section applies only to goods that are, or are included in a class of goods that are, prescribed by the regulations.
 
@@ -3186,7 +3148,7 @@ Part XVI—Regulations, by-laws and business rules
 
 Insert:
 
-<a id="273EB"></a>273EB  Business rules
+273EB  Business rules
 
              (1)  The CEO may, in writing, make business rules that are to be complied with by persons who wish to enter into, or are parties to, import information contracts or export information contracts.
 
@@ -3208,7 +3170,7 @@ Insert:
 
                     <a name="cargo-report"></a>**_cargo report_** means a report under section 64AB that is made in respect of the cargo to be unloaded from a ship at a port or from an aircraft at an airport.
 
-104  Subsection 4(1) (definition of _cargo report processing charge_)
+104  Subsection 4(1) (definition of cargo report processing charge)
 
 Repeal the definition.
 
@@ -3238,7 +3200,7 @@ Insert:
 
                     <a name="outturn-report"></a>**_outturn report_** means a report under section 64ABAA.
 
-109  Subsection 4(1) (definition of _port authority_)
+109  Subsection 4(1) (definition of port authority)
 
 Repeal the definition, substitute:
 
@@ -3264,7 +3226,7 @@ Omit “unlading”, substitute “to the proper wharf appointed under subsectio
 
 Omit “unlading”, substitute “at the proper wharf appointed under subsection 15(2)”.
 
-115  Section 63A (definition of _abbreviated cargo report_)
+115  Section 63A (definition of abbreviated cargo report)
 
 Omit “a computer”, substitute “an electronic”.
 
@@ -3284,7 +3246,7 @@ Add “or”.
 
 Repeal the paragraph.
 
-117  Section 63A (definition of _reportable document_)
+117  Section 63A (definition of reportable document)
 
 Repeal the definition.
 
@@ -3292,7 +3254,7 @@ Repeal the definition.
 
 Repeal the sections, substitute:
 
-<a id="64"></a>64  Impending arrival report
+64  Impending arrival report
 
              (1)  This section applies to a ship or aircraft in respect of a voyage or flight to Australia from a place outside Australia.
 
@@ -3356,7 +3318,7 @@ Repeal the sections, substitute:
 
            (14)  An offence against subsection (13) is an offence of strict liability.
 
-<a id="64AA"></a>64AA  Arrival report
+64AA  Arrival report
 
              (1)  This section applies to a ship or aircraft in respect of a voyage or flight to Australia from a place outside Australia.
 
@@ -3406,7 +3368,7 @@ Repeal the sections, substitute:
 
            (11)  An offence against subsection (10) is an offence of strict liability.
 
-<a id="64AAA"></a>64AAA  Report of stores and prohibited goods
+64AAA  Report of stores and prohibited goods
 
              (1)  This section applies to a ship or aircraft in respect of a voyage or flight to Australia from a place outside Australia.
 
@@ -3454,7 +3416,7 @@ Repeal the sections, substitute:
 
                     <a name="ship-store"></a><a name="aircraft-store"></a>**_aircraft’s stores_** and **_ship’s stores_**have the meanings given by section 130C.
 
-<a id="64AAB"></a>64AAB  Notifying Customs of particulars of cargo reporters
+64AAB  Notifying Customs of particulars of cargo reporters
 
              (1)  This section applies to a ship or aircraft in respect of a voyage or flight to Australia from a place outside Australia.
 
@@ -3472,7 +3434,7 @@ Repeal the sections, substitute:
 
              (8)  An offence against subsection (7) is an offence of strict liability.
 
-<a id="64AAC"></a>64AAC  Report to Customs of persons engaged to unload cargo
+64AAC  Report to Customs of persons engaged to unload cargo
 
              (1)  This section applies to a ship or aircraft in respect of a voyage or flight to Australia from a place outside Australia.
 
@@ -3492,7 +3454,7 @@ Repeal the sections, substitute:
 
              (7)  An offence against subsection (6) is an offence of strict liability.
 
-<a id="64AB"></a>64AB  Cargo reports
+64AB  Cargo reports
 
              (1)  This section applies to a ship or aircraft in respect of a voyage or flight to Australia from a place outside Australia.
 
@@ -3572,7 +3534,7 @@ the CEO may grant to the cargo reporter a **_further moratorium period_** of not
 
                     <a name="ship-store"></a><a name="aircraft-store"></a>**_aircraft’s stores_** and **_ship’s stores_**have the meanings given by section 130C.
 
-<a id="64ABAA"></a>64ABAA  Outturn reports
+64ABAA  Outturn reports
 
              (1)  When cargo is unloaded from an aircraft at an airport, the depot operator whose particulars have been communicated to Customs by the operator of the aircraft under section 64AAC must communicate electronically to Customs an outturn report in respect of the cargo.
 
@@ -3614,7 +3576,7 @@ the CEO may grant to the cargo reporter a **_further moratorium period_** of not
 
                     <a name="custom-place"></a>**_Customs place_** has the meaning given by subsection 183UA(1).
 
-<a id="64ABAB"></a>64ABAB  When outturn report is to be communicated to Customs
+64ABAB  When outturn report is to be communicated to Customs
 
              (1)  In the case of cargo unloaded from an aircraft at an airport and received into a depot, the depot operator must communicate the outturn report to Customs within 24 hours, or such other period as is prescribed by the regulations, after the time of arrival of the aircraft as stated in the report under section 64AA.
 
@@ -3644,7 +3606,7 @@ The first outturn report must state the time when the first container was unload
 
 If the cargo is in a container that is unpacked at the Customs place, the outturn report must state the time when the unpacking of the cargo was completed.
 
-<a id="64ABAC"></a>64ABAC  Explanation of shortlanded or surplus cargo
+64ABAC  Explanation of shortlanded or surplus cargo
 
              (1)  If an outturn report specifies:
 
@@ -3660,7 +3622,7 @@ the officer may require the cargo reporter who made the cargo report in relation
 
 Repeal the section, substitute:
 
-<a id="64ABC"></a>64ABC  Liability for screening charge
+64ABC  Liability for screening charge
 
                    A special reporter who communicates an abbreviated cargo report to Customs is liable to pay screening charge in respect of the report.
 
@@ -3684,7 +3646,7 @@ Omit “to Customs under section 64, 64AA, 64AB,”, substitute “to Customs 
 
 Insert:
 
-<a id="64ADA"></a>64ADA  Disclosure of cargo reports to port authorities
+64ADA  Disclosure of cargo reports to port authorities
 
              (1)  The CEO or an officer may disclose a cargo report to a port authority for the purpose of enabling the authority to collect statistics or compute liability for wharfage charges.
 
@@ -3804,7 +3766,7 @@ Insert:
 
 Repeal the sections, substitute:
 
-<a id="74"></a>74  Officer may give directions as to storage or movement of certain goods
+74  Officer may give directions as to storage or movement of certain goods
 
              (1)  If an officer has reasonable grounds to suspect that a report of the cargo made in respect of a ship or aircraft:
 
@@ -3842,7 +3804,7 @@ _Note:       The heading to section 76 is altered by omitting “o
 
 Add:
 
-<a id="77AA"></a>77AA  Disclosure of information to cargo reporter or owner of goods
+77AA  Disclosure of information to cargo reporter or owner of goods
 
              (1)  If a cargo reporter in relation to goods that are on a ship or aircraft on a voyage or flight to a place in Australia requests Customs to inform the cargo reporter:
 
@@ -3874,7 +3836,7 @@ Omit all the words and paragraphs after “CEO”, substitute “must not grant 
 
 Insert:
 
-<a id="77LA"></a>77LA  Variation of places covered by depot licence
+77LA  Variation of places covered by depot licence
 
              (1)  The CEO may, on application by the holder of a depot licence, vary the licence by:
 
@@ -3988,39 +3950,39 @@ Persons to whom section applies
 
 _Note:       The heading to section 16 is omitted and replaced by the heading “Prohibition of disclosure of certain information”._
 
-153  Subsection 16(1A) (definition of _AQIS_)
+153  Subsection 16(1A) (definition of AQIS)
 
 Repeal the definition.
 
-154  Subsection 16(1A) (definition of _authorised officer of AQIS_)
+154  Subsection 16(1A) (definition of authorised officer of AQIS)
 
 Repeal the definition.
 
-155  Subsection 16(1A) (definition of _authorised person_)
+155  Subsection 16(1A) (definition of authorised person)
 
 Repeal the definition.
 
-156  Subsection 16(1A) (definition of _duties_)
+156  Subsection 16(1A) (definition of duties)
 
 Omit “an authorised person” (first occurring), substitute “a person”.
 
-157  Subsection 16(1A) (definition of _duties_)
+157  Subsection 16(1A) (definition of duties)
 
 Omit “an authorised person” (second occurring), substitute “a person to whom this section applies”.
 
-158  Subsection 16(1A) (definition of _duties_, example)
+158  Subsection 16(1A) (definition of duties, example)
 
 Omit “an authorised person”, substitute “a person”.
 
-159  Subsection 16(1A) (definition of _food_)
+159  Subsection 16(1A) (definition of food)
 
 Repeal the definition.
 
-160  Subsection 16(1A) (definition of _protected information_)
+160  Subsection 16(1A) (definition of protected information)
 
 Omit “an authorised person while the authorised person”, substitute “a person while he or she”.
 
-161  Subsection 16(1A) (definition of _State_)
+161  Subsection 16(1A) (definition of State)
 
 Repeal the definition, substitute:
 
@@ -4115,7 +4077,5 @@ Repeal the Act.
 <div style="border:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0cm 0cm 0cm">
 
 </div>
-
- 
 
  
