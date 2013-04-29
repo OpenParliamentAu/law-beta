@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00392/Html/ASIO1979_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00235/Html/ASIO1979_WD02_image001.gif)
 
 # Australian Security Intelligence Organisation Act 1979
 
 **Act No. 113 of 1979 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 2 April 2007
  taking into account amendments up to Act No. 21 of 2007
 
 **\[Note: Division 3 of Part III ceases to be in force on****22 July  2016****,  _see_ section 34ZZ]**
@@ -577,7 +577,7 @@ except by a direction contained in an instrument in writing that sets out the Mi
 
 the Governor-General shall terminate his or her appointment.
 
-##### <a id="14"></a>14  Acting Director-General
+##### <a id="14"></a>14  Acting Director-General
 
              (1)  The Minister may appoint a person to act as Director-General:
 
@@ -2785,7 +2785,7 @@ Note:          The prescribed authority may set the breaks bet
 
                      (b)  omit to perform an act.
 
-##### <a id="34ZG"></a>34ZG  Complaints and information about contravention of procedural statement
+##### <a id="34ZG"></a>34ZG  Complaints and information about contravention of procedural statement
 
              (1)  Contravention of the written statement of procedures in force under section 34C may be the subject of:
 
@@ -3275,7 +3275,7 @@ Limit on assistance
 
                      (b)  the exercise of any power, or the performance of any function, in relation to a person under the _Migration Act 1958_ or the regulations under that Act; or
 
-                     (c)  the exercise of any power, or the performance of any function, in relation to a person under the _Australian Citizenship Act 2007_, the _Australian Passports Act 2005_ or the regulations under either of those Acts; or
+                     (c)  the exercise of any power, or the performance of any function, in relation to a person under the _Australian Citizenship Act 1948_, the _Australian Passports Act 2005_ or the regulations under either of those Acts; or
 
                      (d)  the exercise of a power under section 58A, or subsection 581(3), of the _Telecommunications Act 1997_.
 
@@ -3511,7 +3511,7 @@ and a reference in this section to information or a document shall be read as a 
 
 ## Part VI—Miscellaneous
 
-##### <a id="93"></a>93  Offences
+##### <a id="93"></a>93  Offences
 
              (5)  Where, in proceedings for an offence against this Act in respect of any conduct engaged in by a body corporate, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, servant or agent of the body corporate, being a director, servant or agent by whom the conduct was engaged in within the scope of his or her actual or apparent authority, had that state of mind.
 
@@ -4653,8 +4653,7 @@ Schedule 3A (items 10–22): <i>(s)</i></div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (item 5): \[ <i>see</i>s. 2(1) and Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -6711,7 +6710,7 @@ _(t)_ Subsection 2(1) (item 2) of the _Law and Justice Legislation Amendment (
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 122, 1986; No. 175, 1995; No. 161, 1999; No. 77, 2003; Nos. 35 and 141, 2004; Nos. 7 and 144, 2005; No. 21, 2007</div>
+    <div>am. No. 122, 1986; No. 175, 1995; No. 161, 1999; No. 77, 2003; Nos. 35 and 141, 2004; Nos. 7 and 144, 2005</div>
   </td>
 </tr>
 <tr>
@@ -7775,7 +7774,22 @@ Repeal the definition, substitute:
 
 Note:          A person can commit a terrorism offence against Part 5.3 of the _Criminal Code_ even if no terrorist act (as defined in that Part) occurs.
 
-As at 1 July 2007 the amendment is not incorporated in this compilation.
+As at 2 April 2007 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Australian Citizenship (Transitionals and Consequentials) Act 2007
+ (No. 21, 2007)_
+
+The following amendment commences on 15 September 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 5  Subsection 35(1) (paragraph (c) of the definition of _prescribed administrative action_)
+
+Omit “_Australian Citizenship Act 1948_”, substitute “_Australian Citizenship Act 2007_”.
+
+As at 2 April 2007 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -8075,7 +8089,7 @@ Despite the amendments made by Part 1 of this Schedule, Division 3 of Part�
 
                      (b)  as if a reference in it to a provision of that Act (as in force immediately before the commencement of this item) were a reference to the corresponding provision of that Act (as in force after that commencement).
 
-(2)        The Protocol ceases to be in force once a legislative instrument made by the Minister under section 34C of the _Australian Security Intelligence Organisation Act 1979_ takes effect.
+(2)        The Protocol ceases to be in force once a legislative instrument made by the Minister under section 34C of the _Australian Security Intelligence Organisation Act 1979_ takes effect.   
 
 (3)        In this item:
 
