@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00502/Html/8e8cae5e-bbf6-484c-993a-a268ec020469_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00265/Html/05ff4769-f8be-48ef-98eb-17ea9063f5cf_files/image001.gif)
 
 # Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994
 
 **Act No. 41 of 1994 as amended**
 
-This compilation was prepared on 6 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 7 April 2005
+ taking into account amendments up to Act No. 42 of 2005
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,115 +14,115 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation                                                                                        1
+[3](#3).            Interpretation
 
-[4](#4).            Extension to certain external Territories                                               7
+[4](#4).            Extension to certain external Territories
 
-[5](#5).            Act to bind Crown                                                                               7
+[5](#5).            Act to bind Crown
 
-[5A](#5A).         Application of the _Criminal Code_                                                        7
+[5A](#5A).         Application of the _Criminal Code_
 
-[6](#6).            Power of APVMA to make certain determinations                              7
+[6](#6).            Power of APVMA to make certain determinations
 
 **Part 2—Liability for levy and penalties** 
 
     **Division 1—Liability for levy from 1 January 1994 to 30 June 2005**
 
-[8](#8).            Liability for levy in respect of disposals during any calendar year from 1994 to 2003             9
+[8](#8).            Liability for levy in respect of disposals during any calendar year from 1994 to 2003
 
-[9](#9).            Liability for levy in respect of disposals during the first 6 months of any calendar year from 1995 to 2004            9
+[9](#9).            Liability for levy in respect of disposals during the first 6 months of any calendar year from 1995 to 2004
 
-[10](#10).          Liability for levy in respect of disposals during the 2004‑2005 financial year          11
+[10](#10).          Liability for levy in respect of disposals during the 2004-2005 financial year
 
-[11](#11).          Amount of levy imposed in respect of disposals during any calendar year from 1994 to 2003                11
+[11](#11).          Amount of levy imposed in respect of disposals during any calendar year from 1994 to 2003
 
-[12](#12).          Amount of levy imposed in respect of disposals during the first 6 months of any calendar year from 1995 to 2004                                                                                                           12
+[12](#12).          Amount of levy imposed in respect of disposals during the first 6 months of any calendar year from 1995 to 2004
 
-[12A](#12A).       Amount of levy imposed in respect of disposals during the 2004‑2005 financial year             13
+[12A](#12A).       Amount of levy imposed in respect of disposals during the 2004-2005 financial year
 
     **Division 2—Liability for levy for financial years from 1 July 2005**
 
-[12B](#12B).       Liability for levy in respect of disposals during the 2005‑2006 and later financial years          14
+[12B](#12B).       Liability for levy in respect of disposals during the 2005-2006 and later financial years
 
-[12C](#12C).       Amount of levy imposed in respect of disposals during the 2005‑2006 and later financial years             14
+[12C](#12C).       Amount of levy imposed in respect of disposals during the 2005-2006 and later financial years
 
     **Division 3—Other rules relating to the levy**
 
-[13](#13).          Payment of levy                                                                                 16
+[13](#13).          Payment of levy
 
-[14](#14).          Late payment penalty                                                                          16
+[14](#14).          Late payment penalty
 
-[14A](#14A).       Understatement penalty                                                                      16
+[14A](#14A).       Understatement penalty
 
 **Part 3—Calculation or assessment of levy**
 
-[15](#15).          Calculation of levy by person liable                                                   18
+[15](#15).          Calculation of levy by person liable
 
-[16](#16).          Assessment of levy by APVMA                                                       19
+[16](#16).          Assessment of levy by APVMA
 
-[17](#17).          Fresh assessments                                                                              21
+[17](#17).          Fresh assessments
 
-[18](#18).          Reconsideration and review of assessments                                       21
+[18](#18).          Reconsideration and review of assessments
 
 **Part 4—Enforcement**
 
-[19](#19).          Levy, late payment penalty and understatement penalty recovered as debts              23
+[19](#19).          Levy, late payment penalty and understatement penalty recovered as debts
 
-[20](#20).          APVMA may require information about disposals of chemical products                23
+[20](#20).          APVMA may require information about disposals of chemical products
 
-[21](#21).          Searches to monitor compliance with Act                                          25
+[21](#21).          Searches to monitor compliance with Act
 
-[22](#22).          Offence‑related searches and seizures                                                25
+[22](#22).          Offence-related searches and seizures
 
-[23](#23).          Power of inspector to require information or documents                   26
+[23](#23).          Power of inspector to require information or documents
 
-[24](#24).          Offence‑related warrants                                                                    26
+[24](#24).          Offence-related warrants
 
-[25](#25).          Announcement before entry                                                               27
+[25](#25).          Announcement before entry
 
-[26](#26).          Details of warrant to be given to occupier                                          28
+[26](#26).          Details of warrant to be given to occupier
 
-[27](#27).          Use of equipment to examine or process things                                 28
+[27](#27).          Use of equipment to examine or process things
 
-[28](#28).          Use of electronic equipment at premises                                            29
+[28](#28).          Use of electronic equipment at premises
 
-[29](#29).          Compensation for damage to electronic equipment                            30
+[29](#29).          Compensation for damage to electronic equipment
 
-[30](#30).          Copies of seized things to be provided                                               31
+[30](#30).          Copies of seized things to be provided
 
-[31](#31).          Return of things that are seized                                                          31
+[31](#31).          Return of things that are seized
 
-[32](#32).          Court of summary jurisdiction may permit a thing to be kept             32
+[32](#32).          Court of summary jurisdiction may permit a thing to be kept
 
 **Part 5—Miscellaneous**
 
-[33](#33).          Administrative Appeals Tribunal may review certain decisions by APVMA          33
+[33](#33).          Administrative Appeals Tribunal may review certain decisions by APVMA
 
-[34](#34).          Self‑incrimination                                                                               33
+[34](#34).          Self-incrimination
 
-[35](#35).          Copying of documents                                                                       34
+[35](#35).          Copying of documents
 
-[36](#36).          Applicant for registration of chemical product to keep records          34
+[36](#36).          Applicant for registration of chemical product to keep records
 
-[38](#38).          Exemptions from liability for damages                                               34
+[38](#38).          Exemptions from liability for damages
 
-[38A](#38A).       Refund of overpayments                                                                    34
+[38A](#38A).       Refund of overpayments
 
-[38B](#38B).       Waiver of amounts                                                                             35
+[38B](#38B).       Waiver of amounts
 
-[38C](#38C).       Rounding of amounts                                                                         35
+[38C](#38C).       Rounding of amounts
 
-[39](#39).          Regulations                                                                                        35
+[39](#39).          Regulations
 
 **Notes** 
 
@@ -370,7 +370,7 @@ Disposals during the first 6 months of 2004
 
 Total leviable value must be at least $50,000
 
-             (2)  Levy is not payable under subsection (1) or (1A) in respect of leviable disposals of a particular chemical product during the first 6 months of a calendar year if the total leviable value in respect of the product for those 6 months is less than $50,000.
+             (2)  Levy is not payable under subsection (1) or (1A) in respect of leviable disposals of a particular chemical product during the first 6 months of a calendar year if the total leviable value in respect of the product for those 6 months is less than $50,000.
 
 Who is liable to pay the levy
 
@@ -378,7 +378,7 @@ Who is liable to pay the levy
 
              (4)  If the chemical product was registered as mentioned in subsection (1) or (1A) in more than one jurisdiction and different persons are the interested persons in relation to the product in different jurisdictions, those persons are jointly and severally liable to pay the levy.
 
-##### <a id="10"></a>10  Liability for levy in respect of disposals during the 2004‑2005 financial year
+##### <a id="10"></a>10  Liability for levy in respect of disposals during the 2004-2005 financial year
 
              (1)  If a chemical product was registered in any jurisdiction during the whole or any part of the financial year beginning on 1 July 2004, then, subject to subsection (2), levy is payable in respect of leviable disposals of the product that took place anywhere in Australia at any time during that year.
 
@@ -392,9 +392,7 @@ Who is liable to pay the levy
 
              (1)  Subject to subsection (2), the amount of the levy that is payable under section 8 in respect of leviable disposals of a particular chemical product during a particular calendar year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00502/Html/8e8cae5e-bbf6-484c-993a-a268ec020469_files/image002.gif)
-
-where:
+![](http://www.comlaw.gov.au/Details/C2005C00265/Html/05ff4769-f8be-48ef-98eb-17ea9063f5cf_files/image002.gif)where:
 
                     <a name="rate-levi"></a>**_rate of levy_** means the percentage prescribed by the regulations for the purposes of this section in respect of that year.
 
@@ -406,13 +404,13 @@ where:
 
                      (b)  if another amount is prescribed by the regulations for the purposes of this paragraph in respect of that year—that other amount.
 
-##### <a id="12"></a>12  Amount of levy imposed in respect of disposals during the first 6 months of any calendar year from 1995 to 2004
+##### <a id="12"></a>12  Amount of levy imposed in respect of disposals during the first 6 months of any calendar year from 1995 to 2004
 
 Disposals during the first 6 months of any calendar year from 1995 to 2003
 
              (1)  Subject to subsection (2), the amount of the levy that is payable under subsection 9(1) in respect of leviable disposals of a particular chemical product during the first 6 months of a particular calendar year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00502/Html/8e8cae5e-bbf6-484c-993a-a268ec020469_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00265/Html/05ff4769-f8be-48ef-98eb-17ea9063f5cf_files/image003.gif)
 
 where:
 
@@ -430,21 +428,21 @@ Disposals during the first 6 months of 2004
 
              (3)  Subject to subsection (4), the amount of the levy that is payable under subsection 9(1A) in respect of leviable disposals of a particular chemical product during the first 6 months of the calendar year beginning on 1 January 2004 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00502/Html/8e8cae5e-bbf6-484c-993a-a268ec020469_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00265/Html/05ff4769-f8be-48ef-98eb-17ea9063f5cf_files/image004.gif)
 
              (4)  The total of the amounts of the levy that are payable under subsection 9(1A) in respect of leviable disposals of a particular chemical product during those 6 months is not to exceed $12,500.
 
-##### <a id="12A"></a>12A  Amount of levy imposed in respect of disposals during the 2004‑2005 financial year
+##### <a id="12A"></a>12A  Amount of levy imposed in respect of disposals during the 2004-2005 financial year
 
              (1)  Subject to subsection (2), the amount of the levy that is payable under section 10 in respect of leviable disposals of a particular chemical product during the financial year beginning on 1 July 2004 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00502/Html/8e8cae5e-bbf6-484c-993a-a268ec020469_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00265/Html/05ff4769-f8be-48ef-98eb-17ea9063f5cf_files/image005.gif)
 
              (2)  The total of the amounts of the levy that are payable under section 10 in respect of leviable disposals of a particular chemical product during that year is not to exceed $25,000.
 
 ### Division 2—Liability for levy for financial years from 1 July 2005
 
-##### <a id="12B"></a>12B  Liability for levy in respect of disposals during the 2005‑2006 and later financial years
+##### <a id="12B"></a>12B  Liability for levy in respect of disposals during the 2005-2006 and later financial years
 
              (1)  If a chemical product was registered in any jurisdiction during the whole or any part of the financial year beginning on 1 July 2005 or a later financial year, then levy is payable in respect of leviable disposals of the product that took place anywhere in Australia at any time during that year.
 
@@ -452,11 +450,11 @@ Disposals during the first 6 months of 2004
 
              (3)  If the chemical product was registered as mentioned in subsection (1) in more than one jurisdiction and different persons are the interested persons in relation to the product in different jurisdictions, those persons are jointly and severally liable to pay the levy.
 
-##### <a id="12C"></a>12C  Amount of levy imposed in respect of disposals during the 2005‑2006 and later financial years
+##### <a id="12C"></a>12C  Amount of levy imposed in respect of disposals during the 2005-2006 and later financial years
 
              (1)  The amount of the levy that is payable under section 12B in respect of leviable disposals of a particular chemical product during a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00502/Html/8e8cae5e-bbf6-484c-993a-a268ec020469_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00265/Html/05ff4769-f8be-48ef-98eb-17ea9063f5cf_files/image006.gif)
 
 where:
 
@@ -706,7 +704,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (b)  the inspector fails to comply with the requirement.
 
-##### <a id="22"></a>22  Offence‑related searches and seizures
+##### <a id="22"></a>22  Offence-related searches and seizures
 
              (1)  If an inspector has reasonable grounds for suspecting that there may be at any premises a particular thing that may be evidence of the commission of an offence against this Act, the inspector may:
 
@@ -746,7 +744,7 @@ Note:          The defendant bears an evidential burden in rel
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-##### <a id="24"></a>24  Offence‑related warrants
+##### <a id="24"></a>24  Offence-related warrants
 
              (1)  An inspector may apply to a magistrate for a warrant under this section in relation to particular premises.
 
@@ -928,9 +926,9 @@ the court may order that the inspector may keep the thing for a period stated in
 
                      (c)  a decision of the APVMA under subsection 14(2) or 14A(3) remitting, or refusing to remit, the whole or part of an amount of late payment penalty or understatement penalty; or
 
-                     (d)  a decision of the APVMA allowing, or refusing to allow, a further period for the making of a request under subsection 18(1).
+                     (d)  a decision of the APVMA allowing, or refusing to allow, a further period for the making of a request under subsection 18(1).
 
-##### <a id="34"></a>34  Self‑incrimination
+##### <a id="34"></a>34  Self-incrimination
 
              (1)  A person is not excused from giving information or producing a document under this Act on the ground that the information or the production of the document might tend to incriminate the person or expose the person to a penalty.
 
@@ -982,7 +980,7 @@ Note:          If the APVMA waives the whole or a part of the 
 
 ##### <a id="39"></a>39  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1119,60 +1117,62 @@ Remainder: 24 May 2001</div>
     <div>Sch. 2 (items 418, 419)</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>115, 2001</div>
-  </td>
-  <td>
-    <div>18 Sept 2001</div>
-  </td>
-  <td>
-    <div>16 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>13, 2003</div>
-  </td>
-  <td>
-    <div>8 Apr 2003</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedules 1–3: 8 Oct 2003 
+<thead>
+  <tr>
+    <td>
+      <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>115, 2001</div>
+    </td>
+    <td>
+      <div>18 Sept 2001</div>
+    </td>
+    <td>
+      <div>16 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agricultural and Veterinary Chemicals Legislation Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>13, 2003</div>
+    </td>
+    <td>
+      <div>8 Apr 2003</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedules 1–3: 8 Oct 2003 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004</div>
-  </td>
-  <td>
-    <div>79, 2004</div>
-  </td>
-  <td>
-    <div>23 June 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 470–483, 485, 
-487–491): 30 July 2004 
-Schedule 1 (items 484, 486): <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 2(1) (am. by 42, 2005, Sch. 1 \[item 49])</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004</div>
+    </td>
+    <td>
+      <div>79, 2004</div>
+    </td>
+    <td>
+      <div>23 June 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 470–483, 485, 
+487–491): 30 July 2004 
+Schedule 1 (items 484, 486): <i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 2(1) (am. by 42, 2005, Sch. 1 \[item 49])</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div>as amended by</div>
@@ -1201,81 +1201,66 @@ Schedule 1 (items 484, 486): <i>(d)</i></div>
     <div>1 Apr 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (item 49): <i>(da)</i> 
-Schedule 1 (items 51, 53): <i>(da)</i></div>
+    <div>Schedule 1 (item 49): <i>(da)</i> 
+Schedule 1 (items 51, 53): <i>(da)</i></div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 75, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005</div>
-  </td>
-  <td>
-    <div>42, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–27, 29, 31–40): Royal Assent 
-Schedule 1 (items 28, 30): <i>(e)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 22)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 44) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr></table>
+<thead>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 75, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005</div>
+    </td>
+    <td>
+      <div>42, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–27, 29, 31–40): Royal Assent 
+Schedule 1 (items 28, 30): <i>(e)</i></div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 22)</div>
+    </td>
+  </tr>
+</thead></table>
 
 _(a)_     (1)     If the commencement of the _Agricultural and Veterinary Chemical Products (Collection of Interim Levy) Act 1994_ is fixed by a Proclamation published in the _Gazette_, this Act commences on the same day as the _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_, immediately after the commencement of that last mentioned Act.
 
          The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ came into operation on 15 March 1995.
 
-_(b)_     The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ was amended by section 11 only of the _Primary Industries and Energy Legislation Amendment Act 1994_, subsection 2(4) of which provides as follows:
+_(b)_     The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ was amended by section 11 only of the _Primary Industries and Energy Legislation Amendment Act 1994_, subsection 2(4) of which provides as follows:
 
                  (4)   The amendment of the _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ made by the Schedule commences or is taken to have commenced immediately after the commencement of the _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_.
 
          The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ came into operation on 15 March 1995.
 
-_(c)_     The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1995_, subsection 2(1) of which provides as follows:
+_(c)_     The _Agricultural and Veterinary Chemical Products (Collection of Levy) Act 1994_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 1) 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(d)_     Subsection 2(1) (items 9 and 11) of the _Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004_ provides as follows:
+_(d)_     Subsection 2(1) (items 9 and 11) of the _Agricultural and Veterinary Chemicals Legislation Amendment (Name Change) Act 2004_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -1367,7 +1352,8 @@ _(d)_     Subsection 2(1) (items 9 and 11) of the _Agricultural and Ve
   </td>
   <td>
     <div>
-      22 February 2005 (paragraph (b) applies)
+      22 February 2005
+      (paragraph (b) applies)
     </div>
   </td>
 </tr>
@@ -1395,12 +1381,13 @@ _(d)_     Subsection 2(1) (items 9 and 11) of the _Agricultural and Ve
   </td>
   <td>
     <div>
-      22 February 2005 (paragraph (b) applies)
+      22 February 2005
+      (paragraph (b) applies)
     </div>
   </td>
 </tr></table>
 
-_(da)_   Subsection 2(1) (items 7, 9 and 11) of the _Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005_ provides as follows:
+_(da)_   Subsection 2(1) (items 7, 9 and 11) of the _Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -1474,7 +1461,7 @@ _(da)_   Subsection 2(1) (items 7, 9 and 11) of the _Agricultural and Vete
   </td>
   <td>
     <div>
-      22 February 2005
+      22 February 2005
     </div>
   </td>
 </tr>
@@ -1497,12 +1484,12 @@ _(da)_   Subsection 2(1) (items 7, 9 and 11) of the _Agricultural and Vete
   </td>
   <td>
     <div>
-      22 February 2005
+      22 February 2005
     </div>
   </td>
 </tr></table>
 
-_(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005_ provides as follows:
+_(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -1619,7 +1606,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 72 and 94, 1994; No. 36, 1995; No. 115, 2001; No. 13, 2003; No. 79, 2004; No. 42, 2005</div>
+    <div>am. Nos. 72 and 94, 1994; No. 36, 1995; No. 115, 2001; No. 13, 2003; No. 79, 2004; No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1635,7 +1622,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Heading to s. 6</div>
   </td>
   <td>
-    <div>am. No. 79, 2004</div>
+    <div>am. No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1643,7 +1630,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 36, 1995; No. 79, 2004; No. 42, 2005</div>
+    <div>am. No. 36, 1995; No. 79, 2004; No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1664,15 +1651,15 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 2</div>
+    <div>Heading to Part 2</div>
   </td>
   <td>
-    <div>rs. No. 42, 2005</div>
+    <div>rs. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -1680,10 +1667,10 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part 2</div>
+    <div>Heading to Div. 1 of Part 2</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1691,7 +1678,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Heading to s. 8</div>
   </td>
   <td>
-    <div>am. No. 42, 2005</div>
+    <div>am. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1699,7 +1686,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 42, 2005</div>
+    <div>am. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1707,7 +1694,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Heading to s. 9</div>
   </td>
   <td>
-    <div>am. No. 42, 2005</div>
+    <div>am. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1715,7 +1702,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Subhead. to s. 9(1)</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1723,7 +1710,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Subhead. to s. 9(2)</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1731,7 +1718,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Subhead. to s. 9(3)</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1739,7 +1726,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 42, 2005</div>
+    <div>am. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1755,7 +1742,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div></div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1763,7 +1750,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Heading to s. 11</div>
   </td>
   <td>
-    <div>am. No. 42, 2005</div>
+    <div>am. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1779,7 +1766,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Heading to s. 12</div>
   </td>
   <td>
-    <div>am. No. 42, 2005</div>
+    <div>am. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1787,7 +1774,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Subhead. to s. 12(1)</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1795,7 +1782,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 13, 2003; No. 42, 2005</div>
+    <div>am. No. 13, 2003; No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1803,12 +1790,12 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 12A</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -1816,10 +1803,10 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
 </tr>
 <tr>
   <td>
-    <div>Div. 2 of Part 2</div>
+    <div>Div. 2 of Part 2</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1827,12 +1814,12 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Ss. 12B, 12C</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -1840,10 +1827,10 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of Part 2</div>
+    <div>Heading to Div. 3 of Part 2</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1851,7 +1838,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Note to s. 13</div>
   </td>
   <td>
-    <div>am. No. 79, 2004</div>
+    <div>am. No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1859,7 +1846,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 14</div>
   </td>
   <td>
-    <div>am. No. 72, 1994; No. 36, 1995; No. 79, 2004; No. 42, 2005</div>
+    <div>am. No. 72, 1994; No. 36, 1995; No. 79, 2004; No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1867,7 +1854,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Note to s. 14(2)</div>
   </td>
   <td>
-    <div>am. No. 79, 2004</div>
+    <div>am. No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1875,7 +1862,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div></div>
   </td>
   <td>
-    <div>rep. No. 42, 2005</div>
+    <div>rep. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1883,7 +1870,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 14A</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1899,7 +1886,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. No. 115, 2001; No. 79, 2004</div>
+    <div>am. No. 115, 2001; No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1907,7 +1894,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Heading to s. 16</div>
   </td>
   <td>
-    <div>am. No. 79, 2004</div>
+    <div>am. No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1915,7 +1902,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Subhead. to s. 16(1)</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1923,7 +1910,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Subhead. to s. 16(9)</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1931,7 +1918,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Subhead. to s. 16(12)</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1939,7 +1926,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 79, 2004; No. 42, 2005</div>
+    <div>am. No. 79, 2004; No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1947,7 +1934,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 79, 2004</div>
+    <div>am. No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1955,7 +1942,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div></div>
   </td>
   <td>
-    <div>rs. No. 42, 2005</div>
+    <div>rs. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1963,7 +1950,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 79, 2004; No. 42, 2005</div>
+    <div>am. No. 79, 2004; No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1979,7 +1966,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Heading to s. 19</div>
   </td>
   <td>
-    <div>am. No. 42, 2005</div>
+    <div>am. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1987,7 +1974,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 79, 2004</div>
+    <div>am. No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -1995,7 +1982,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div></div>
   </td>
   <td>
-    <div>rs. No. 8, 2005</div>
+    <div>rs. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2003,7 +1990,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div></div>
   </td>
   <td>
-    <div>am. No. 79, 2004; No. 42, 2005</div>
+    <div>am. No. 79, 2004; No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2011,7 +1998,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Heading to s. 20</div>
   </td>
   <td>
-    <div>am. No. 79, 2004</div>
+    <div>am. No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -2019,7 +2006,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 72, 1994; No. 36, 1995; No. 115, 2001; No. 79, 2004; No. 42, 2005</div>
+    <div>am. No. 72, 1994; No. 36, 1995; No. 115, 2001; No. 79, 2004; No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2027,7 +2014,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Note to s. 20(1)</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2035,7 +2022,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Note to s. 20(2)</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2051,7 +2038,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 29</div>
   </td>
   <td>
-    <div>am. No. 79, 2004</div>
+    <div>am. No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -2067,7 +2054,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Heading to s. 33</div>
   </td>
   <td>
-    <div>am. No. 79, 2004</div>
+    <div>am. No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -2075,7 +2062,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 79, 2004; No. 42, 2005</div>
+    <div>am. No. 79, 2004; No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2083,7 +2070,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 34</div>
   </td>
   <td>
-    <div>rs. No. 42, 2005</div>
+    <div>rs. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2107,7 +2094,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 38</div>
   </td>
   <td>
-    <div>am. No. 79, 2004</div>
+    <div>am. No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -2115,7 +2102,7 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>Ss. 38A–38C</div>
   </td>
   <td>
-    <div>ad. No. 42, 2005</div>
+    <div>ad. No. 42, 2005</div>
   </td>
 </tr>
 <tr>
@@ -2123,23 +2110,9 @@ _(e)_     Subsection 2(1) (items 3 and 5) of the _Agricultural and Vet
     <div>S. 39</div>
   </td>
   <td>
-    <div>am. No. 72, 1994; No. 79, 2004; No. 42, 2005</div>
+    <div>am. No. 72, 1994; No. 79, 2004; No. 42, 2005</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 44  Subsection 3(1) (definition of _document_)
-
-Repeal the definition.
-
-As at 6 July 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -2149,7 +2122,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
 (1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
@@ -2163,7 +2136,7 @@ as if the amendment or repeal had not been made.
 
 (2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -2171,9 +2144,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -2203,7 +2176,7 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1
 
 ## 496  Saving provision—Finance Minister’s determinations
 
@@ -2213,7 +2186,7 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 
 _Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act 2005 (No. 42, 2005)_
 
-## Schedule 1
+## Schedule 1
 
 ## 22  Application of items 20 and 21
 
@@ -2221,20 +2194,6 @@ _Agricultural and Veterinary Chemicals Legislation Amendment (Levy and Fees) Act
 
 (2)       The amendment made by item 21 applies to notices given under section 20 after the commencement of the item.
 
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+ 
 
  
