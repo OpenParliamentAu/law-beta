@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00441/Html/8563e811-dc01-4662-a358-e3e4ae4f0b6c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00365/Html/8f6ebbc7-ca8e-42f1-9c6b-1aa4e9fa7fd6_files/image001.gif)
 
 # Australian Human Rights Commission Act 1986
 
 **Act No. 125 of 1986 as amended**
 
-This compilation was prepared on 21 June 2011
- taking into account amendments up to Act No. 40 of 2011
+This compilation was prepared on 9 May 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -730,7 +730,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                             (iv)  has made or proposes to make a submission;
 
-                            to the Commission or to a person acting for or on behalf of the Commission;
+                            to the Commission or to a person acting for or on behalf of the Commission;
 
 is necessary to protect the security of employment, the privacy or any human right of the person, the Commission may give directions prohibiting the disclosure of the identity of the person.
 
@@ -2342,6 +2342,8 @@ _Article 14_
 
 The English and French versions of the text of this Convention are equally authoritative. 
 
+ 
+
 # Schedule 2—International Covenant on Civil and Political Rights 
 
 _Section 3_
@@ -2904,6 +2906,8 @@ _Principle 10_
 
 The child shall be protected from practices which may foster racial, religious and any other form of discrimination. He shall be brought up in a spirit of understanding, tolerance, friendship among peoples, peace and universal brotherhood, and in full consciousness that his energy and talents should be devoted to the service of his fellow men. 
 
+ 
+
 # Schedule 4—Declaration on the Rights of Mentally Retarded Persons
 
 _Section 3_
@@ -2937,6 +2941,8 @@ _Proclaims_ this Declaration on the Rights of Mentally Retarded Persons and call
 6.    The mentally retarded person has a right to protection from exploitation, abuse and degrading treatment. If prosecuted for any offence, he shall have a right to due process of law with full recognition being given to his degree of mental responsibility. 
 
 7.    Whenever mentally retarded persons are unable, because of the severity of their handicap, to exercise all their rights in a meaningful way or it should become necessary to restrict or deny some or all of these rights, the procedure used for that restriction or denial of rights must contain proper legal safeguards against every form of abuse. This procedure must be based on an evaluation of the social capability of the mentally retarded person by qualified experts and must be subject to periodic review and to the right of appeal to higher authorities. 
+
+ 
 
 # Schedule 5—Declaration on the Rights of Disabled Persons
 
@@ -3771,26 +3777,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Sex and Age Discrimination Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>40, 2011</div>
-  </td>
-  <td>
-    <div>20 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 7–10, 14): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 14) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -4075,7 +4061,8 @@ _(l)_ Subsection 2(1) (items 13 and 17) of the _Fair Work (State Referral and 
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr>
@@ -4093,7 +4080,8 @@ _(l)_ Subsection 2(1) (items 13 and 17) of the _Fair Work (State Referral and 
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -5182,41 +5170,6 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
   </td>
 </tr></table>
 
-### Note 2
-
-_Sex and Age Discrimination Legislation Amendment Act 2011
- (No. 40, 2011)_
-
-The following amendments commence on 20 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 7  Subsection 3(1)
-
-Insert:
-
-                    <a name="ag-discrimin-commission"></a>**_Age Discrimination Commissioner_** means the Age Discrimination Commissioner appointed under the _Age Discrimination Act 2004_.
-
-## 8  Paragraph 8(1)(d)
-
-Repeal the paragraph, substitute:
-
-                     (d)  the Sex Discrimination Commissioner; and
-
-                     (e)  the Age Discrimination Commissioner; and
-
-## 9  Subsection 8(7)
-
-After “Sex Discrimination Commissioner”, insert “, Age Discrimination Commissioner”.
-
-## 10  At the end of subsection 46PV(3)
-
-Add:
-
-             ; and (f)  the Age Discrimination Commissioner.
-
-As at 21 June 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -5225,7 +5178,7 @@ _Human Rights Legislation Amendment Act (No. 1) 1999 (No. 133, 1999)_
 
 ### Division 1—Interpretation
 
-##### <a id="4"></a>4  Interpretation
+##### <a id="4"></a>4  Interpretation
 
                    In this Part:
 
@@ -5427,7 +5380,7 @@ Note:          The President is required to give a notice of t
 
              (4)  The President is not required to notify any person under section 46PH of the new HREOCA.
 
-##### <a id="15"></a>15  Work done by Commissioner is taken to have been done by President
+##### <a id="15"></a>15  Work done by Commissioner is taken to have been done by President
 
                    Any thing done, or information obtained, by the appropriate Commissioner in relation to a complaint that is referred to the President under section 8 is taken to have been done or obtained by the President.
 
@@ -5570,22 +5523,5 @@ Any real or personal property that was held by the Commission immediately before
 ## 3  Right to sue
 
 To avoid doubt, the Commission’s right to sue is not affected by the amendment of the _Australian Human Rights Commission Act 1986_ in accordance with this Schedule.
-
-* * *
-
-_Sex and Age Discrimination Legislation Amendment Act 2011 
- (No. 40, 2011)_
-
-The following provision commences on 20 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 14  Amendment made by item 10
-
-The amendment made by item 10 applies in relation to proceedings:
-
-                     (a)  that commence on or after the commencement of that item; or
-
-                     (b)  that commenced before the commencement of that item, and that had not been completed by that commencement.
 
  
