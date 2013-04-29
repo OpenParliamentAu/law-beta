@@ -1,966 +1,204 @@
-**
+**<b>
 
-###  HOUSING ASSISTANCE ACT 1978 
-**
+### <center><name>HOUSING ASSISTANCE ACT 1978 - Updated as at 14 July 1994 (HISTACT CHAP 1669 #DATE 14:07:1994) </name></center>
+</b>** *1* The Housing Assistance Act 1978 as shown in this reprint comprises Act No. 79, 1978 amended as indicated in the Tables below.<lf>                                  Table of Acts<lf>     Act             Date              Date of                    Application,<lf>     Number and      of Assent         commencement               saving or<lf>     year                                                         transitional<lf>                                                                  provisions<lf>     Housing Assistance Act 1978<lf>     79, 1978        22 June 1978      Parts I and II<lf>                                       (ss. 1-10): Royal Assent<lf>                                       Remainder:1 July 1978<lf>     National Debt Sinking Fund Repeal Act 1994<lf>     107, 1994       5 July 1994       S. 9: (see Note 2)         -<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
+### <name>HOUSING ASSISTANCE ACT 1978 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                           TABLE OF PROVISIONS<lf> Section<lf>                            PART I - PRELIMINARY<lf>     1\.    Short title<lf>     2\.    Commencement<lf>     3\.    Interpretation<lf>                PART II - HOUSING AGREEMENTS WITH THE STATES<lf>     4\.    Execution of agreements authorized<lf>     5\.    Variation of agreement to be laid before each House<lf>     6\.    Advances in accordance with an agreement<lf>     7\.    Payments to States to be made out of Consolidated Revenue Fund<lf>     8\.    Authority to borrow<lf>     9\.    Application of moneys borrowed<lf>    10\.    Reimbursement of Consolidated Revenue Fund from Loan Fund<lf>            PART III - GRANTS TO STATES FOR RENTAL ASSISTANCE TO<lf>                    PENSIONERS AND OTHER PERSONS IN NEED<lf>    11\.    Interpretation<lf>    12\.    Grants of financial assistance to States<lf>    13\.    Conditions of grant<lf>    14\.    Payments to be made out of moneys appropriated from time to time<lf>                     PART IV - ANNUAL REPORT BY MINISTER<lf>    15\.    Annual Report by Minister<lf>        PART V - AMENDMENT TO THE STATES GRANTS (HOUSING) ACT 1971<lf>                            (sections 16, 17)<lf>          PART VI - AMENDMENTS TO THE HOUSING ASSISTANCE ACT 1973<lf>                             (sections 18-20)<lf>                                 SCHEDULE<lf>                                 Agreement<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-###  Compilation Information 
-**
+### <name>HOUSING ASSISTANCE ACT 1978 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect>           An Act relating to financial assistance to the States<lf>                        for the purpose of housing.<lf> </lf></lf></sect>
+**<b>
 
+### <name>HOUSING ASSISTANCE ACT 1978 - PART I  PART I - PRELIMINARY </name>
+</b>** 
+**<b>
 
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 1 Short title </name>
+</b>** 
 
+## SECT
+<sect>   1\. This Act may be cited as the Housing Assistance Act 1978.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 2 Commencement </name>
+</b>** 
 
+## SECT
+<sect>   2.*1* (1) This Part and Part II shall come into operation on the day on which this Act receives the Royal Assent. 
 
-**
+<lf>   (2) The remaining Parts of this Act shall come into operation on 1 July 1978\. SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </lf>
+</sect>
+**<b>
 
-###  Long Title 
-**
-**
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 3 Interpretation </name>
+</b>** 
 
-###  HOUSING ASSISTANCE ACT 1978<part>Part&#160;I&#151;Preliminary </part>
-**
-###  HOUSING ASSISTANCE ACT 1978- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Housing Assistance Act 1978_.
+## SECT
+<sect>   3\. In this Act, "period to which this Act applies" means the period commencing on 1 July 1978 and ending on 30 June 1981\. </sect>
+**<b>
 
- 
-###  HOUSING ASSISTANCE ACT 1978- SECT 2  Commencement [_see_ Note 1] 
-<dt>(1)</dt><dd>This Part and Part&#160;II shall come into operation on the day on which
+### <name>HOUSING ASSISTANCE ACT 1978 - PART II  PART II - HOUSING AGREEMENTS WITH THE STATES </name>
+</b>** 
+**<b>
 
-this Act receives the Royal Assent.</dd> <dt>(2)</dt><dd>The remaining Parts of this Act shall come into operation on 1&#160;July 1978\. </dd> 
-###  HOUSING ASSISTANCE ACT 1978- SECT 3  Interpretation 
-In this Act, _period to which this Act applies_ means the period
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 4 Execution of agreements authorized </name>
+</b>** 
 
-commencing on 1&#160;July 1978 and ending on 30&#160;June 1981.
+## SECT
+<sect>   4\. The execution, by or on behalf of the Commonwealth, of an agreement between the Commonwealth and any State or States substantially in accordance with the form contained in the Schedule (including any agreement to be entered into, from time to time, in accordance with the provisions of that first-mentioned agreement that relate to the variation of that agreement) is authorized. </sect>
+**<b>
 
- 
-**
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 5 Variation of agreement to be laid before each House </name>
+</b>** 
 
-###  HOUSING ASSISTANCE ACT 1978<part>Part&#160;II&#151;Housing Agreements with the States </part>
-**
-###  HOUSING ASSISTANCE ACT 1978- SECT 4  Execution of agreements authorized 
-The execution, by or on behalf of the Commonwealth, of an agreement between
+## SECT
+<sect>   5\. Where an agreement (in this section referred to as "the variation agreement") is entered into in accordance with the provisions of an agreement (in this section referred to as "the principal agreement") between the Commonwealth and a State that relate to the variation of the principal agreement, the Minister shall cause a copy of the variation agreement to be laid before each House of the Parliament within 15 sitting days of that House after the entering into of the variation agreement. </sect>
+**<b>
 
-the Commonwealth and any State or States substantially in accordance with the
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 6 Advances in accordance with an agreement </name>
+</b>** 
 
-form contained in the Schedule (including any agreement to be entered into,
+## SECT
+<sect>   6\. (1) The Minister for Finance may make advances to a State in accordance with an agreement executed in pursuance of this Part by or on behalf of the Commonwealth and that State. 
 
-from time to time, in accordance with the provisions of that first-mentioned
+<lf>   (2) The power to make an advance conferred by section 8 of the States Grants (Housing Assistance) Act 1977 may be used to make an advance in accordance with an agreement referred to in subsection (1). </lf>
+</sect>
+**<b>
 
-agreement that relate to the variation of that agreement) is authorized.
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 7 Payments to States to be made out of Consolidated Revenue Fund </name>
+</b>** 
 
- 
-###  HOUSING ASSISTANCE ACT 1978- SECT 5  Variation of agreement to be laid before each House 
-Where an agreement (in this section referred to as _the variation agreement_) is entered into in accordance with the provisions of an
+## SECT
+<sect>   7\. Subject to this Part, payments to a State for the purposes of this Part shall be made out of appropriations of the Consolidated Revenue Fund made, from time to time, by the Parliament for the purpose (including the appropriation of the Consolidated Revenue Fund made by the States Grants (Housing Assistance) Act 1977 in so far as that appropriation relates to advances to be made under section 8 of that Act). </sect>
+**<b>
 
-agreement (in this section referred to as _the principal agreement_) between the Commonwealth and a State that relate to the
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 8 Authority to borrow </name>
+</b>** 
 
-variation of the principal agreement, the Minister shall cause a copy of the
+## SECT
+<sect>   8\. The Treasurer may, from time to time, in accordance with the provisions of the Commonwealth Inscribed Stock Act 1911, or in accordance with the provisions of an Act authorizing the issue of Treasury Bills, borrow moneys for the purpose of making payments to the Consolidated Revenue Fund in accordance with section 10 (including moneys to meet the expenses of any such borrowing). </sect>
+**<b>
 
-variation agreement to be laid before each House of the Parliament within 15
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 9 Application of moneys borrowed </name>
+</b>** 
 
-sitting days of that House after the entering into of the variation agreement.
+## SECT
+<sect>   9\. Moneys borrowed under section 8 shall be issued and applied only for the expenses of borrowing and for the purpose of making payments to the Consolidated Revenue Fund in accordance with section 10, and the Loan Fund is appropriated, as necessary, for those purposes. </sect>
+**<b>
 
- 
-###  HOUSING ASSISTANCE ACT 1978- SECT 6  Advances in accordance with an agreement 
-<dt>(1)</dt><dd>The Minister for Finance may make advances to a State in accordance with
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 10 Reimbursement of Consolidated Revenue Fund from Loan Fund </name>
+</b>** 
 
-an agreement executed in pursuance of this Part by or on behalf of the
+## SECT
+<sect>   10.*2* (1) Where an amount has been paid out of the Consolidated Revenue Fund for the purposes of this Part, the Minister for Finance may authorize the payment to that Fund, out of the Loan Fund, of an amount not exceeding the amount so paid. 
 
-Commonwealth and that State.</dd> <dt>(2)</dt><dd>The power to make an advance conferred by section&#160;8 of the _States Grants (Housing Assistance) Act 1977_ may be used to make an advance in accordance with an agreement referred to in subsection&#160;(1). </dd> 
+<lf>   (2) In any statement prepared by the Minister for Finance under section 49 or 50 of the Audit Act 1901, amounts paid to the Consolidated Revenue Fund under subsection (1) of this section shall not be shown as receipts of that Fund but shall be shown as having reduced the total of the amounts expended from that Fund for the purposes of this Part. <p><lf>   (3) Where there has been a payment from the Loan Fund to the Consolidated Revenue Fund under subsection (1) in respect of an amount paid out of the Consolidated Revenue Fund for the purposes of this Part, the amount so paid out of the Consolidated Revenue Fund, shall, for the purposes of sections 9 and 10 of the National Debt Sinking Fund Act 1966, be deemed to have been paid out of the Loan Fund. *2* Section 10 is amended by section 9 and the Schedule only of the National Debt Sinking Fund Repeal Act 1994\. The applicable provision provides as follows:<lf>   Subsection 10 (3):<lf> Omit the subsection.<lf>   Section 2 of the National Debt Sinking Fund Repeal Act 1994 provides as follows:<lf>   "2\. This Act commences immediately after the Financial Agreement Act 1994 commences."<lf>   As at 14 July 1994 no date had been fixed and the amendment is not incorporated in this reprint. </lf></lf></lf></lf></lf></lf></p></lf>
+</sect>
+**<b>
 
-Back to Top
+### <name>HOUSING ASSISTANCE ACT 1978 - PART III  PART III - GRANTS TO STATES FOR RENTAL ASSISTANCE TO  PENSIONERS AND OTHER PERSONS IN NEED </name>
+</b>** 
+**<b>
 
-###  HOUSING ASSISTANCE ACT 1978- SECT 7  Payments to States to be made out of Consolidated Revenue Fund 
-Subject to this Part, payments to a State for the purposes of this Part shall
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 11 Interpretation </name>
+</b>** 
 
-be made out of appropriations of the Consolidated Revenue Fund made, from time
+## SECT
+<sect>   11\. In this Part, unless the contrary intention appears, "person to whom this Part applies" means a person who:<lf>   (a) is in receipt of any of the following pensions, benefits or allowances under the Social Services Act 1947:<lf>     (i) age or invalid pension under Part III;<lf>     (ii) widow's pension under Part IV;<lf>     (iii) supporting parent's benefit under Part IVAAA;<lf>     (iv) special benefit under Division 6 of Part VII;<lf>     (v) sheltered employment allowance under Part VIIA;<lf>     (vi) training allowance under section 135D payable in respect of a<lf> period during which any pension, benefit or allowance referred to in a preceding subparagraph payable to the person is suspended in accordance with that section; or<lf>   (b) is in receipt of a service pension under section 84 or 85 of the Repatriation Act 1920 and, in the case of a person who is in receipt of a pension under section 85 of that Act, is qualified under subsection 85 (2) of that Act to receive that pension,<lf> and includes any person included in a class of persons declared by the Minister, by writing signed by him, to be persons in need of assistance under this Part. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-to time, by the Parliament for the purpose (including the appropriation of the
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 12 Grants of financial assistance to States </name>
+</b>** 
 
-Consolidated Revenue Fund made by the _States Grants (Housing Assistance) Act 1977_ in so far as that appropriation relates to advances to be made under
+## SECT
+<sect>   12\. (1) The Minister may, during the period to which this Act applies, authorize the payment to a State under this Part, by way of financial assistance, of such amounts as he determines for expenditure by the State for any purpose relating to the provision of rental housing for persons to whom this Part applies. 
 
-section&#160;8 of that Act).
+<lf>   (2) In this section, "purpose" includes any of the following purposes:<lf>   (a) meeting costs of, or associated with, the acquisition, planning, and development of land primarily for residential development;<lf>   (b) making payments for the construction or acquisition of housing;<lf>   (c) providing funds to such voluntary, non-profit, charitable or other housing management bodies or groups as are approved by the appropriate Minister of the State concerned;<lf>   (d) enabling housing to be let to such charitable bodies and other organizations as are approved by the appropriate Minister of the State concerned for the provision of assistance to disadvantaged persons;<lf>   (e) engaging in urban renewal activities related to public housing;<lf>   (f) allocating funds to local government bodies for the provision of rental housing where the appropriate Minister of the State concerned considers that it would be more appropriate for such rental housing assistance to be carried out by those bodies;<lf>   (g) making payments, or providing bridging finance, for the provision of open space, landscaping or community facilities or for costs associated with land development, including contributions to headworks or reticulation of services;<lf>   (h) undertaking, or participating in, joint ventures, co-operative enterprises or similar arrangements in order that public housing developments may be integrated with private housing to achieve a desirable socio-economic mixture of housing;<lf>   (i) leasing housing from the private housing sector. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</sect>
+**<b>
 
- 
-###  HOUSING ASSISTANCE ACT 1978- SECT 8  Authority to borrow 
-The Treasurer may, from time to time, in accordance with the provisions of
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 13 Conditions of grant </name>
+</b>** 
 
-the _Commonwealth Inscribed Stock Act 1911_, or in accordance with the
+## SECT
+<sect>   13\. Payment of an amount to a State in pursuance of an authorization under section 12 is subject to the following conditions:<lf>   (a) that the State will ensure that the amount of the payment is expended for a purpose referred to in section 12;<lf>   (b) that the State will furnish to the Minister, as soon as practicable after the end of each financial year in the period to which this Act applies:<lf>     (i) a statement setting out the amounts expended by the State during<lf> that financial year for a purpose referred to in section 12 and accompanied by a certificate of the Auditor-General of the State certifying that the amounts specified in the statement were expended as shown in the statement; and<lf>     (ii) such further information (if any) as the Minister requires<lf> relating to the operation of this Part in relation to the State during that financial year;<lf>   (c) that, if the Minister informs the Treasurer of the State that he is satisfied the State has failed to fulfil a condition applicable to the amount so paid, the State will repay that amount, or such part of that amount as the Minister thinks reasonable, to the Commonwealth. </lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-provisions of an Act authorizing the issue of Treasury Bills, borrow moneys for
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 14 Payments to be made out of moneys appropriated from time to time </name>
+</b>** 
 
-the purpose of making payments to the Consolidated Revenue Fund in accordance
+## SECT
+<sect>   14\. Payments under this Part shall be made out of moneys from time to time appropriated by the Parliament for the purpose. </sect>
+**<b>
 
-with section&#160;10 (including moneys to meet the expenses of any such
+### <name>HOUSING ASSISTANCE ACT 1978 - PART IV  PART IV - ANNUAL REPORT BY MINISTER </name>
+</b>** 
+**<b>
 
-borrowing).
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 15 Annual Report by Minister </name>
+</b>** 
 
- 
-###  HOUSING ASSISTANCE ACT 1978- SECT 9  Application of moneys borrowed 
-Moneys borrowed under section&#160;8 shall be issued and applied only for the
+## SECT
+<sect>   15\. The Minister shall, as soon as practicable after the end of each financial year in the period to which this Act applies, cause to be laid before each House of the Parliament a report relating to:<lf>   (a) the operation of the agreements executed in pursuance of Part II;<lf>   (b) the operation of Part III; and<lf>   (c) any other matter that the Minister considers relevant. </lf></lf></lf></sect>
+**<b>
 
-expenses of borrowing and for the purpose of making payments to the
+### <name>HOUSING ASSISTANCE ACT 1978 - PART V  PART V - AMENDMENT TO THE STATES GRANTS (HOUSING) ACT 1971 </name>
+</b>** 
+**<b>
 
-Consolidated Revenue Fund in accordance with section&#160;10, and the Loan Fund
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 16 Principal Act </name>
+</b>** 
 
-is appropriated, as necessary, for those purposes.
+## SECT
+<sect>   16\. The States Grants (Housing) Act 1971 is in this Part referred to as the Principal Act. </sect>
+**<b>
 
- 
-###  HOUSING ASSISTANCE ACT 1978- SECT 10  Reimbursement of Consolidated Revenue Fund from Loan Fund 
-<dt>(1)</dt><dd>Where an amount has been paid out of the Consolidated Revenue Fund for the
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 17 Amendment of the States Grants (Housing) Act 1971 </name>
+</b>** 
 
-purposes of this Part, the Minister for Finance may authorize the payment to
+## SECT
+<sect>   17.*3*  *        *        *        *        *<lf> *3* Sections 17 - The amendment made by section 17 has been incorporated in the reprint of the States Grants (Housing) Act 1971 which is published separately. </lf></sect>
+**<b>
 
-that Fund, out of the Loan Fund, of an amount not exceeding the amount so
+### <name>HOUSING ASSISTANCE ACT 1978 - PART VI  PART VI - AMENDMENTS TO THE HOUSING ASSISTANCE ACT 1973 </name>
+</b>** 
+**<b>
 
-paid.</dd> <dt>(2)</dt><dd>In any statement prepared by the Minister for Finance under section&#160;49 or 50 of the _Audit Act 1901_, amounts paid to the Consolidated Revenue Fund under subsection&#160;(1) of this section shall not be shown as receipts of that Fund but shall be shown as having reduced the total of the amounts expended from that Fund for the purposes of this Part. </dd> 
-**
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 18 Principal Act </name>
+</b>** 
 
-###  HOUSING ASSISTANCE ACT 1978<part>Part&#160;III&#151;Grants to States for Rental Assistance to Pensioners and other persons in need </part>
-**
-###  HOUSING ASSISTANCE ACT 1978- SECT 11  Interpretation 
-In this Part, unless the contrary intention appears, _person to whom this Part applies_ means a person who:
+## SECT
+<sect>   18\. The Housing Assistance Act 1973 is in this Part referred to as the Principal Act. </sect>
+**<b>
 
- 
-<dl compact=""><dl compact="">
+### <name>HOUSING ASSISTANCE ACT 1978 - SECT 19 Amendments of the Housing Assistance Act 1973 </name>
+</b>** 
 
-<dt>(a)</dt><dd>is in receipt of any of the following pensions, benefits or allowances
+## SECT
+<sect>   19, 20.*4*  *        *        *        *        *<lf> *4* Sections 19, 20 - The amendments made by sections 19 and 20 have been incorporated in the reprint of the Housing Assistance Act 1973 which is published separately. </lf></sect>
+**<b>
 
-under the _Social Services Act 1947_:
+### <name>HOUSING ASSISTANCE ACT 1978 - SCHEDULE 1 </name>
+</b>** 
 
-</dd>
+## SCH
+<sch>                                 SCHEDULE                         Section 4<lf> AN AGREEMENT made the          day of<lf> One thousand nine hundred and seventy-<lf>   Between<lf> THE COMMONWEALTH OF AUSTRALIA (in this Agreement called "the<lf> Commonwealth") of the first part,<lf> THE STATE OF NEW SOUTH WALES of the second part,<lf> THE STATE OF VICTORIA of the third part,<lf> THE STATE OF QUEENSLAND of the fourth part,<lf> THE STATE OF SOUTH AUSTRALIA of the fifth part,<lf> THE STATE OF WESTERN AUSTRALIA of the sixth part, and<lf> THE STATE OF TASMANIA of the seventh part.<lf>   WHEREAS -<lf>       (A) the Commonwealth and the States of Australia have from time to<lf> time entered into agreements for the purpose of the provision by the<lf> States with financial assistance from the Commonwealth of housing for<lf> persons who are in need of governmental assistance if their housing<lf> requirements are to be met;<lf>       (B) the Ministers of the respective governments who are responsible<lf> for housing have agreed upon the provision of rental housing assistance<lf> and home purchase assistance in the States during the three financial<lf> years commencing on the first day of July 1978;<lf>       (C) the Ministers have also established principles that are to apply<lf> to the provision of housing assistance under this Agreement, namely -<lf>   (a) housing assistance will -<lf>     (i) facilitate home ownership for those able to afford it but not able<lf> to gain it through the private market;<lf>     (ii) provide adequate rental housing for those of the community who<lf> are deemed to be in need of governmental assistance at a price that is<lf> within their capacity to pay;<lf>     (iii) provide assistance for home ownership and assistance with rental<lf> accommodation in the most efficient way and thus to exclude from<lf> eligibility those not in need, to minimise continued availability of<lf> assistance to those no longer in need and to accord benefits which are<lf> designed so that assistance being provided is related to the particular<lf> family's or individual's current economic and social circumstances;<lf>   (b) benefits which are available are offset to the minimum extent<lf> practicable by poor location of dwellings, an inadequate range of choice<lf> of dwellings and stigmatisation of those who are to receive benefits;<lf>   (c) there will be clear recognition of the separate but complementary<lf> roles of -<lf>     (i) construction and acquisition of dwellings;<lf>     (ii) management of the rental operation; and<lf>     (iii) sales of dwellings;<lf>   (d) maximum social benefit will be sought from previous investment in<lf> housing; and<lf>   (e) the States will be able to exercise maximum autonomy and flexibility<lf> in the administrative arrangements necessary to achieve these principles;<lf>       (D) it is proposed that in order to implement the agreement of the<lf> Ministers the Commonwealth will grant to the States financial assistance<lf> under section 96 of the Commonwealth of Australia Constitution and that<lf> the terms and conditions on which the grant of financial assistance should<lf> be made are those set out in this Agreement;<lf>       (E) the Commonwealth and the States wish to vary in certain respects<lf> the agreements which have been entered into as aforesaid; and<lf>       (F) the Parliament of the Commonwealth has authorised the execution<lf> by and on behalf of the Commonwealth of this Agreement and the making of<lf> advances to the States in accordance with its provisions:<lf>   NOW IT IS HEREBY AGREED as follows:<lf>                     PART I - OPERATION OF AGREEMENT<lf>   1\. (1) This Agreement shall come into force in respect of the<lf> Commonwealth and of a State when it has been signed on behalf of the<lf> Commonwealth and has been signed on behalf of the State with the authority<lf> of the Parliament of the State or, having been signed on behalf of the<lf> State without that authority, is approved by the Parliament of the State.<lf>   (2) Notwithstanding that in this Agreement all the States of New South<lf> Wales, Victoria, Queensland, South Australia, Western Australia and<lf> Tasmania are named as parties, this Agreement shall operate as an<lf> agreement between the Commonwealth and the State or States in respect of<lf> which it comes into force as fully and effectually as if the State or<lf> States in respect of which it comes into force were the only State or<lf> States named as parties.<lf>   2\. Acts and things provided for by this Agreement which have been done<lf> or carried out by or with respect to a State in accordance with and in<lf> anticipation of its coming into force in respect of that State shall be<lf> deemed to have been done or carried out under this Agreement as if it were<lf> in force at the relevant time or times in respect of that State.<lf>                       PART II - INTERPRETATION<lf>   3\. (1) Subject to subclause (2), in this Agreement each State named as a<lf> party in respect of which the Agreement comes into force is referred to as<lf> a 'State' and, except where the context otherwise indicates, the<lf> expression 'the States' means all of those States.<lf>   (2) Where in an existing Housing Agreement included in the Schedule,<lf> including any amendment of that Agreement made by this Agreement, the word<lf> 'State' or the expression 'the States' means a State or the States in<lf> respect of which that Agreement is in force, that word and that expression<lf> shall, for the purposes of the operation of that Agreement, as amended by<lf> this Agreement, mean respectively a State or the States in respect of<lf> which this Agreement has come into force.<lf>   4\. (1) In this Agreement -<lf>   'the Minister' means the Minister of State of the Commonwealth for the<lf> time being responsible for the administration of this Agreement for the<lf> Commonwealth; and<lf>   'the State Minister' means the Minister of State of a State for the time<lf> being responsible for the administration of this Agreement for the<lf> relevant State.<lf>   (2) A reference in this Agreement to a Minister includes a Minister or<lf> other member of the Federal Executive Council or Minister of the relevant<lf> State, as the case may require, acting on behalf of or for the time being<lf> acting for the Minister referred to.<lf>   5\. In this Agreement, unless the contrary intention appears or the<lf> context otherwise requires -<lf>   'dwelling' means a dwelling-house or flat and includes such fences,<lf> outbuildings and other improvements and such connexions for sewerage,<lf> drainage, water, electricity, gas and other services as are provided or<lf> are reasonably required to be provided for the dwelling-house or flat;<lf>   'financial year' means a period of twelve months commencing on the first<lf> day of July;<lf>   'housing' means residential housing including dwellings and other forms<lf> of residential accommodation;<lf>   'previous housing arrangements' means the provisions in relation to<lf> housing that were made by the existing Housing Agreements and by the<lf> States Grants (Housing) Act 1971 and the Housing Assistance Act 1973 of<lf> the Commonwealth Parliament; and<lf>   'the existing Housing Agreements' means the Agreements set out in the<lf> Schedule and where the singular is used means such one or other of those<lf> Agreements as the context requires.<lf>   6\. In this Agreement, unless the contrary intention appears -<lf>   (a) a reference to a Part or to a clause is to a Part or to a clause of<lf> this Agreement, as the case may be;<lf>   (b) a reference to a sub-clause is, unless otherwise indicated, to the<lf> relevant sub-clause of the clause in which the reference appears;<lf>   (c) the Schedule referred to is the Schedule to this Agreement;<lf>   (d) words importing the masculine gender also import the feminine and,<lf> where appropriate, the neuter; and<lf>   (e) words in the singular number include the plural and vice versa.<lf>                     PART III - OBJECTIVE OF AGREEMENT<lf>   7\. The objective of this Agreement is the provision by the States with<lf> financial assistance from the Commonwealth of housing assistance for<lf> rental housing and for home purchase in accordance with, and in fulfilment<lf> of, the principles set out in recital (C).<lf>                      PART IV - FINANCIAL ASSISTANCE<lf>   8\. (1) During the financial years of this Agreement the Commonwealth<lf> will provide financial assistance to the States for housing purposes by<lf> way of advances upon and subject to the terms of this Agreement in order<lf> to assist the States in the achievement of the objective of this<lf> Agreement.<lf>   (2) The financial years of this Agreement shall be the three financial<lf> years commencing on the first day of July in the years 1978, 1979 and<lf> 1980.<lf>   9\. Of the total amount of the advances by the Commonwealth to the State<lf> under this Agreement in respect of a financial year, portion (referred to<lf> as advances for rental housing assistance) shall be for allotment by the<lf> State for the provision of rental housing in accordance with Part V and<lf> the other portion (referred to as advances for home purchase assistance)<lf> shall be for payment into the Home Purchase Assistance Account established<lf> by the State for application in accordance with Part VI.<lf>   10\. (1) Each State shall, not later than the thirtieth day of November<lf> preceding the beginning of a financial year of this Agreement, inform the<lf> Minister of the amounts that the State wishes the Commonwealth to advance<lf> it under this Agreement in respect of the financial year for rental<lf> housing assistance and home purchase assistance programs of the State and<lf> at the same time shall provide estimates of financial performance and<lf> planned programs for that year.<lf>   (2) After consultation with the State Ministers of the States and after<lf> considering State requirements and practices but without regard to any<lf> operating surpluses on rental housing assistance operations under previous<lf> housing arrangements and under this Agreement or on the operations of the<lf> Home Builders' Accounts or the Home Purchase Assistance Account under<lf> those arrangements or under this Agreement, the Minister shall determine<lf> the total amount to be advanced to the State under this Agreement in<lf> respect of the financial year.<lf>   (3) In consultation with the State Minister the Minister shall<lf> determine, and may in like manner at any time vary, the allocation between<lf> rental housing assistance and home purchase assistance of the total amount<lf> of the advances to be made by the Commonwealth to a State under this<lf> Agreement in each financial year of this Agreement but the amount of home<lf> purchase assistance to be made to a State in respect of the financial year<lf> commencing on the 1st day of July 1980 shall not be less than 40 per<lf> centum of the total amount of the advances to be made by the Commonwealth<lf> to the State under this Agreement in respect of that financial year.<lf>   11\. The advances to be made by the Commonwealth to a State under this<lf> Agreement in respect of a financial year shall be made available by the<lf> Commonwealth during that financial year by equal monthly instalments<lf> unless otherwise agreed between the Minister for Finance of the<lf> Commonwealth and the Treasurer of the State.<lf>   12\. (1) Each advance made by the Commonwealth to a State under this<lf> Agreement or so much of each advance as for the time being remains<lf> unrepaid by the State shall until repayment as provided in clause 13 bear<lf> interest computed from the date upon which the advance is made.<lf>   (2) The rate of interest shall be -<lf>   (a) in respect of rental housing assistance - 5 per centum per annum;<lf> and<lf>   (b) in respect of home purchase assistance - 4 per centum per annum.<lf>   (3) A State will on the thirty-first day of December and the thirtieth<lf> day of June of a financial year during which advances are made to the<lf> State by the Commonwealth under this Agreement pay to the Commonwealth the<lf> interest that has accrued on those advances up to the date of the payment<lf> of the interest.<lf>   13\. (1) Each State will repay to the Commonwealth the amount of each<lf> advance made to the State under this Agreement and will pay the interest<lf> thereon as provided in clause 12, other than that payable under sub-clause<lf> (3) of that clause, by equal annual instalments of principal and interest<lf> so that the amount of the advance, together with the interest, will be<lf> repaid in 53 years from the beginning of the financial year next<lf> succeeding the financial year in respect of which the advance was made,<lf> the first such instalment being payable on or before the end of the<lf> financial year next succeeding the financial year in respect of which the<lf> advance was made.<lf>   (2) Accounting procedures in respect of the repayment of advances will<lf> be as agreed upon between the Minister for Finance of the Commonwealth and<lf> the Treasurer of each State, or in default of agreement, as determined by<lf> the Minister for Finance of the Commonwealth, but nothing in this<lf> sub-clause shall affect the other provisions of this Agreement.<lf> 
 
-</dl></dl>
-<dl compact=""><dl compact=""><dl compact="">
+                   PART V - RENTAL HOUSING ASSISTANCE<lf>   14\. In this Part 'rental housing' means housing for rental which has<lf> been provided under the previous housing arrangements or is provided under<lf> this Agreement and 'rental dwelling' means a dwelling that is included in<lf> rental housing.<lf>   15\. Funds available to a State during a financial year for rental<lf> housing assistance programs (in this Part referred to as 'rental housing<lf> assistance funds') shall consist of -<lf>   (a) in respect of a financial year of this Agreement, advances for<lf> rental housing assistance made under this Agreement during the financial<lf> year;<lf>   (b) in respect of any financial year, any surplus during the financial<lf> year of revenue after allowing for rental rebates over outgoings incurred<lf> or provided for arising from -<lf>     (i) the rental housing operations of the State in respect of dwellings<lf> provided under previous housing arrangements and under this Agreement; and<lf>     (ii) any other rental operations of the State which arise out of this<lf> Agreement and to which this Agreement applies; and<lf>   (c) subject to sub-clause 20 (3), net proceeds from the sale of rental<lf> dwellings in accordance with the provisions of this Part.<lf>   16\. (1) Rental housing assistance funds shall be used by the State for<lf> the provision of rental housing in such manner subject to and in<lf> accordance with the provisions of this Agreement as is appropriate for and<lf> conducive to the achievement of the objective of this Agreement with<lf> respect to the principles set out in recital (C) which relate to rental<lf> housing.<lf>   (2) Without prejudice to the generality of sub-clause (1) or conveying<lf> any implication that funds are or are to be made available by the<lf> Commonwealth for, or are to be applied by the State for, any particular<lf> purpose or purposes or in any order of priority, the particular purposes<lf> for which rental housing funds may be used by the State to give effect to<lf> sub-clause (1) include the following purposes -<lf>   (a) to meet the costs of and associated with the acquisition, planning<lf> and development of land primarily for residential development;<lf>   (b) to pay for the construction or acquisition of housing;<lf>   (c) to repay the principal of and pay interest on loans made to the<lf> State for rental housing assistance;<lf>   (d) to provide funds to such voluntary, non-profit, charitable or other<lf> housing management bodies or groups as are approved by the State Minister;<lf>   (e) to enable housing to be let to such charitable bodies and other<lf> organisations as are approved by the State Minister for the provision of<lf> assistance to disadvantaged persons;<lf>   (f) to engage in urban renewal activities related to public housing;<lf>   (g) to allocate funds to local government bodies for the provision of<lf> rental housing where the State Minister considers that it would be more<lf> appropriate for such rental housing assistance to be carried out by those<lf> bodies;<lf>   (h) to make payments for, or provide bridging finance for, the provision<lf> of open space, landscaping, community facilities and for costs associated<lf> with land development, including contributions to headworks and<lf> reticulation of services;<lf>   (i) to undertake research and policy development in relation to matters<lf> not funded by the Australian Housing Research Council;<lf>   (j) to undertake and participate in joint ventures, co-operative<lf> enterprises or similar arrangements in order that public housing<lf> developments may be integrated with private housing and to achieve a<lf> desirable socio-economic mixture of housing;<lf>   (k) to lease housing from the private housing sector;<lf>   (l) to provide housing advisory services related to public housing; and<lf>   (m) any other purposes, including special housing needs or innovative<lf> practices, agreed upon between the Minister and the State Minister.<lf>   17\. The conditions of eligibility of persons for rental housing<lf> assistance shall be determined by the State and shall ensure that<lf> assistance is directed to those applicants most in need of such<lf> assistance.<lf>   18\. (1) The rates at which rents are payable by tenants of rental<lf> housing shall be determined by the State which when making any such<lf> determination shall have regard to a policy of generally relating rents to<lf> rates of rental on the open market.<lf>   (2) Rental rebates are to be granted to tenants who are not able to<lf> afford the rent determined in accordance with sub-clause (1) and the<lf> Commonwealth and the States will jointly seek ways of establishing a<lf> uniform approach to the calculation of such rental rebates.<lf>   (3) The rates of rental shall, as far as practicable, be -<lf>     (i) reviewed annually; and<lf>     (ii) adjusted according to the movement of rates of rental on the open<lf> market.<lf>   19\. (1) Where in respect of any financial year the rental housing<lf> operations of the State result in a surplus of revenue after allowing for<lf> rental rebates over outgoings, that surplus shall be separately identified<lf> to the Commonwealth and shall be included in rental housing assistance<lf> funds as provided in paragraph (b) of clause 15 for application in<lf> accordance with clause 16.<lf>   (2) Outgoings for the purposes of this clause shall consist of those<lf> normally incurred or provided for in rental housing operations and shall<lf> include repayments of principal and interest, maintenance, dwelling<lf> improvements, municipal rates and administrative expenses.<lf>   20\. (1) Subject to this clause, the policy of a State with respect to<lf> sales of rental housing shall be as determined by the State but will be<lf> consistent with the objective of facilitating home ownership included in<lf> the principles set out in recital (C).<lf>   (2) In the determination and implementation of that policy the State<lf> shall ensure that -<lf>   (a) sales of dwellings are at market value or replacement cost;<lf>   (b) sales of dwellings are on the basis of a cash transaction;<lf>   (c) home purchase assistance funds may be used to finance the purchase<lf> of a dwelling; and<lf>   (d) proceeds from sales of dwellings are separately identified to the<lf> Commonwealth.<lf>   (3) The net proceeds of sales of dwellings are generally to be applied<lf> towards the construction or purchase of a replacement dwelling which will<lf> be included in rental housing or which may be sold in accordance with this<lf> clause, but any part of them may be applied to other housing purposes<lf> provided for in this Agreement.<lf>   21\. Each State shall in respect of each financial year furnish to the<lf> Commonwealth by the 30th November next occurring after that year a<lf> statement which shows the origin of rental housing assistance funds<lf> available during the year and the manner in which they were applied and<lf> which is certified as to its correctness by a person appointed by the<lf> State Minister for that purpose.<lf>                     PART VI - HOME PURCHASE ASSISTANCE<lf>   22\. (1) Each State will establish an account in the public accounts of<lf> the State which will be known as 'the Home Purchase Assistance Account'<lf> (in this Part called 'the Account') and moneys in which shall be available<lf> for home purchase assistance in accordance with this Part.<lf>   (2) The State shall pay into the Account the advances that are made to<lf> it for home purchase assistance.<lf>   (3) The Account shall be credited also with moneys received in the<lf> course of the home purchase assistance operations provided for by this<lf> Part and shall be debited with management costs and other outgoings in<lf> respect of those operations.<lf>   (4) The excess of amounts that are received into the Account over<lf> payments that are made from the Account in accordance with sub-clause (3)<lf> shall be separately identified by the State to the Commonwealth.<lf>   23\. (1) A State may but shall not be obliged to arrange for payment into<lf> the Account of revolving funds which result from the operation of Home<lf> Builders' Accounts or other home purchase assistance accounts that were<lf> established under previous housing arrangements and may combine accounts<lf> established under those arrangements and under this Agreement into one<lf> account, being the Account.<lf>   (2) It is acknowledged and agreed by the parties that, when regard is<lf> had to income and other circumstances, all persons who receive home<lf> purchase assistance under this Agreement or from revolving funds under<lf> previous housing arrangements shall have available to them the borrowing<lf> options provided in this Part and that this situation will be achieved by<lf> the last financial year of this Agreement.<lf>   24\. (1) Moneys standing to the credit of the Account shall be made<lf> available for the achievement of the objective of this Agreement with<lf> respect to the principles set out in recital (C) which relate to home<lf> purchase and to that end may be used for -<lf>   (a) making repayments of principal and payments of interest in respect<lf> of advances by the Commonwealth to the State under this Agreement or,<lf> where accounts under previous housing arrangements have been combined into<lf> the Account, the repayment of principal and payment of interest in respect<lf> of advances by the Commonwealth to the State which have been allocated for<lf> home purchase assistance under those arrangements;<lf>   (b) meeting expenditure by the State in providing and administering<lf> loans to approved lending authorities;<lf>   (c) making loans to<lf>     (i) terminating building societies or co-operative housing societies;<lf>     (ii) a lending authority of the State approved by the State Minister;<lf>     (iii) registered co-operative organizations approved by the State<lf> Minister, not including permanent building societies;<lf>     (iv) such other bodies or organizations, including permanent building<lf> societies, as are from time to time agreed upon between the Minister and<lf> the State Minister,<lf> for on-lending to home purchasers;<lf>   (d) providing a subsidy to eligible home purchasers or such lending<lf> institutions as are from time to time agreed upon by the Minister and the<lf> State Minister to reduce the interest cost of loans to the end borrowers<lf> of the loans;<lf>   (e) financing the construction or purchase of dwellings for sale to<lf> persons who are eligible for home purchase assistance under this<lf> Agreement; and<lf>   (f) such other purposes as are from time to time agreed upon between the<lf> Minister and the State Minister.<lf>   (2) In this clause -<lf>   (a) 'home purchaser' includes a purchaser of a dwelling under clause 20;<lf> and<lf>   (b) references to societies are to societies registered as societies<lf> referred to under the relevant legislation of the State.<lf>   25\. (1) The rate of interest that is charged by the State in respect of<lf> so much as is for the time being outstanding on a loan to an agency of the<lf> State for the purposes of paragraphs (c), (e) or (f) of clause 24 shall -<lf>   (a) be not less than 5 per centum per annum until the end of the first<lf> financial year that wholly occurs after the loan is made;<lf>   (b) be increased by half per centum per annum at the end of the first<lf> financial year that wholly occurs after the loan is made and by half per<lf> centum per annum at the end of each subsequent financial year of the loan<lf> until a rate equivalent to 1 per centum per annum below the long term bond<lf> rate for a financial year is reached;<lf>   (c) thereafter be varied for any financial year of the loan according to<lf> any variation in the long term bond rate for that financial year.<lf>   (2) For the purposes of this Clause the long term bond rate for a year<lf> shall be the coupon rate on the longest term security of the last<lf> Commonwealth public loan issued prior to the first day of May that last<lf> occurred prior to that year.<lf>   26\. (1) Subject to this clause, it shall be a matter for the State, as<lf> it sees fit, to determine the conditions of eligibility and the amounts<lf> and conditions that are to apply in respect of loans to persons who are to<lf> receive home purchase assistance under this Agreement and under previous<lf> housing arrangements.<lf>   (2) The conditions of eligibility shall be such that loans are made only<lf> to those persons who are not able to obtain mortgage finance assistance in<lf> the open market or from other sources.<lf>   (3) In determining the amount of a loan and of the repayments, regard<lf> shall be had to family income, assets of the borrower and size and<lf> standard of dwelling.<lf>   27\. The State shall adopt policies and practices with regard to persons<lf> who receive home purchase assistance which are best suited to the<lf> achievement of the objective of this Agreement with respect of the<lf> principles set out in recital (C) which relate to home purchase assistance<lf> and may, where practicable, have regard to flexible lending practices,<lf> including those known as -<lf>   (a) escalating interest loans with income geared starts;<lf>   (b) deferred interest repayment loans;<lf>   (c) income geared repayment loans;<lf>   (d) high start loans;<lf>   (e) second mortgage lending,<lf> and provision for variation in repayment in the event of hardship.<lf>   28\. Each State shall in respect of each financial year furnish to the<lf> Commonwealth by the 30th November next occurring after that year a<lf> financial statement in respect of operations of the Account which shows<lf> the origin of funds received and the manner in which funds were applied<lf> and which is certified as to its correctness by a person appointed by the<lf> State Minister for that purpose.<lf>         PART VII - SUPERSESSION OF PREVIOUS HOUSING ARRANGEMENTS<lf>   29\. (1) The provisions of this Agreement with respect to rental housing<lf> and home purchase assistance shall, except as provided herein, supersede<lf> the provisions of the existing Housing Agreements to the intent that this<lf> Agreement will provide the arrangements between the Commonwealth and each<lf> State in relation to the provision of rental housing, including the sale<lf> of housing so provided, and to the provision of assistance for home<lf> purchasers under the previous housing arrangements and this Agreement.<lf>   (2) Notwithstanding sub-clause (1), a State which is at the date of this<lf> Agreement a party to the 1945 Agreement referred to in paragraph 1 of the<lf> Schedule shall, subject to the State observing the provisions of this<lf> Agreement on its part to be observed, continue to be entitled to a<lf> contribution by the Commonwealth towards rental losses under sub-clauses<lf> (1) and (2) of clause 15 of that Agreement as if the provisions of those<lf> sub-clauses remained in force and, subject to sub-clause (2), the<lf> provisions of the Second Schedule continue to apply by virtue of<lf> sub-clause (1) thereof.<lf> <p>            PART VIII - GOVERNMENT AUTHORITIES AND AGENCIES<lf>   30\. The Commonwealth shall provide for or secure the performance by it<lf> and its authorities of the obligations of the Commonwealth under this<lf> Agreement and each of the States shall provide for or secure the<lf> performance by the State and its authorities of the obligations of the<lf> State under this Agreement.<lf>   31\. A State shall determine an agency or agencies (including bodies or<lf> organizations that are not authorities of the State) for the performance<lf> of this Agreement on behalf of the State and acts and things that are done<lf> by or with respect to the agency or agencies so determined shall, for the<lf> purposes of this Agreement, be deemed to have been done by or with respect<lf> to the State.<lf>                      PART IX - SUPPLY OF INFORMATION<lf>   32\. A State Minister will, upon request by the Minister, supply to the<lf> Minister such information relevant to the operation of this Agreement in<lf> respect of the State as is reasonably so requested.<lf>                      PART X - VARIATION OF AGREEMENT<lf>   33\. (1) The provisions of Parts V and VI of this Agreement may be varied<lf> as between the Commonwealth and a State by agreement in writing between<lf> the Minister and the State Minister.<lf>   (2) A copy of an agreement or copies of the document which constitute an<lf> agreement under sub-clause (1) shall be tabled in the Parliaments of the<lf> Commonwealth and of the State within 15 sitting days of respective<lf> Parliaments from the date upon which the agreement is made.<lf>   (3) An agreement under sub-clause (1) shall not affect the operation of<lf> this Agreement as between the Commonwealth and the States other than that<lf> with which the agreement has been made.<lf>              PART XI - REPRESENTATIVES AND COMMUNICATIONS<lf>   34\. (1) The Commonwealth shall, subject to sub-clause (2), be<lf> represented for the purposes of this Agreement by the Department of<lf> Environment, Housing and Community Development, the address of which for<lf> notices and other communications is -<lf>   Secretary,<lf>   Department of Environment, Housing and Community Development,<lf>   CANBERRA, A.C.T. 2600<lf>   (2) In the event that the administration of this Agreement for the<lf> Commonwealth is allocated to a Minister other than the Minister for<lf> Environment, Housing and Community Development, the Commonwealth shall be<lf> represented by the Department administered by that other Minister and that<lf> Minister shall notify the State Minister of the address of that<lf> Department.<lf>   35\. The State shall, be represented for the purposes of this Agreement<lf> by the Department administered by the State Minister and the State<lf> Minister shall notify the Minister of the address of that Department and<lf> of any change at any time of the Department or of the address.<lf>   36\. (1) A notice or other communication under or in connexion with this<lf> Agreement shall be duly given if it is in writing signed by or on behalf<lf> of, or attributed to, the head of the Department by which it is given and<lf> addressed to or delivered at the address of the Department to which it is<lf> directed.<lf>   (2) For the purposes of this clause writing includes a teleprinter<lf> message the address for such a message shall be the teleprinter address of<lf> the receiving Department.<lf>   (3) A notice or other communication shall be given under this clause<lf> when it is received in the appropriate form by the Department to which it<lf> is directed.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
+**<b>
 
-<dt>(i)</dt><dd>age or invalid pension under Part&#160;III;</dd>
+### <name>HOUSING ASSISTANCE ACT 1978 - SCHEDULE 2 </name>
+</b>** 
 
-<dt>(ii)</dt><dd>widow's pension under Part&#160;IV;</dd>
-
-<dt>(iii)</dt><dd>supporting parent's benefit under Part&#160;IVAAA;</dd>
-
-<dt>(iv)</dt><dd>special benefit under Division&#160;6 of Part&#160;VII;</dd>
-
-<dt>(v)</dt><dd>sheltered employment allowance under Part&#160;VIIA;</dd>
-
-<dt>(vi)</dt><dd>training allowance under section&#160;135D payable in respect of a
-
-period during which any pension, benefit or allowance referred to in a
-
-preceding subparagraph payable to the person is suspended in accordance with
-
-that section; or
-
-</dd>
-
-</dl></dl></dl>
-<dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>is in receipt of a service pension under section&#160;84 or 85 of the
-
-_Repatriation Act 1920_ and, in the case of a person who is in receipt of
-
-a pension under section&#160;85 of that Act, is qualified under subsection
-
-85(2) of that Act to receive that pension,
-
-</dd>
-
-</dl></dl>
-
-Back to Top
-
-###  HOUSING ASSISTANCE ACT 1978- SECT 12  Grants of financial assistance to States 
-<dt>(1)</dt><dd>The Minister may, during the period to which this Act applies, authorize
-
-the payment to a State under this Part, by way of financial assistance, of such
-
-amounts as he determines for expenditure by the State for any purpose relating
-
-to the provision of rental housing for persons to whom this Part applies.</dd> <dt>(2)</dt><dd>In this section, _purpose_ includes any of the following purposes: </dd> 
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>meeting costs of, or associated with, the acquisition, planning, and
-
-development of land primarily for residential development;</dd>
-
-<dt>(b)</dt><dd>making payments for the construction or acquisition of housing;</dd>
-
-<dt>(c)</dt><dd>providing funds to such voluntary, non-profit, charitable or other housing
-
-management bodies or groups as are approved by the appropriate Minister of the
-
-State concerned;</dd>
-
-<dt>(d)</dt><dd>enabling housing to be let to such charitable bodies and other
-
-organizations as are approved by the appropriate Minister of the State
-
-concerned for the provision of assistance to disadvantaged persons;</dd>
-
-<dt>(e)</dt><dd>engaging in urban renewal activities related to public housing;</dd>
-
-<dt>(f)</dt><dd>allocating funds to local government bodies for the provision of rental
-
-housing where the appropriate Minister of the State concerned considers that it
-
-would be more appropriate for such rental housing assistance to be carried out
-
-by those bodies;</dd>
-
-<dt>(g)</dt><dd>making payments, or providing bridging finance, for the provision of open
-
-space, landscaping or community facilities or for costs associated with land
-
-development, including contributions to headworks or reticulation of
-
-services;</dd>
-
-<dt>(h)</dt><dd>undertaking, or participating in, joint ventures, co-operative enterprises
-
-or similar arrangements in order that public housing developments may be
-
-integrated with private housing to achieve a desirable socio-economic mixture
-
-of housing;</dd>
-
-<dt>(i)</dt><dd>leasing housing from the private housing sector.
-
-</dd>
-
-</dl></dl>
-###  HOUSING ASSISTANCE ACT 1978- SECT 13  Conditions of grant 
-Payment of an amount to a State in pursuance of an authorization under
-
-section&#160;12 is subject to the following conditions:
-
- 
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>that the State will ensure that the amount of the payment is expended for
-
-a purpose referred to in section&#160;12;</dd>
-
-<dt>(b)</dt><dd>that the State will furnish to the Minister, as soon as practicable after
-
-the end of each financial year in the period to which this Act applies:
-
-</dd>
-
-</dl></dl>
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>a statement setting out the amounts expended by the State during that
-
-financial year for a purpose referred to in section&#160;12 and accompanied by
-
-a certificate of the Auditor-General of the State certifying that the amounts
-
-specified in the statement were expended as shown in the statement; and</dd>
-
-<dt>(ii)</dt><dd>such further information (if any) as the Minister requires relating to
-
-the operation of this Part in relation to the State during that financial year;
-
-</dd>
-
-</dl></dl></dl>
-<dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>that, if the Minister informs the Treasurer of the State that he is
-
-satisfied the State has failed to fulfil a condition applicable to the amount
-
-so paid, the State will repay that amount, or such part of that amount as the
-
-Minister thinks reasonable, to the Commonwealth.
-
-</dd>
-
-</dl></dl>
-###  HOUSING ASSISTANCE ACT 1978- SECT 14  Payments to be made out of moneys appropriated from time to time 
-Payments under this Part shall be made out of moneys from time to time
-
-appropriated by the Parliament for the purpose.
-
- 
-
-Back to Top
-
-
-
-**
-
-###  HOUSING ASSISTANCE ACT 1978<part>Part&#160;IV&#151;Annual Report by Minister </part>
-**
-###  HOUSING ASSISTANCE ACT 1978- SECT 15  Annual Report by Minister 
-The Minister shall, as soon as practicable after the end of each financial
-
-year in the period to which this Act applies, cause to be laid before each
-
-House of the Parliament a report relating to:
-
- 
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the operation of the agreements executed in pursuance of Part&#160;II;</dd>
-
-<dt>(b)</dt><dd>the operation of Part&#160;III; and</dd>
-
-<dt>(c)</dt><dd>any other matter that the Minister considers relevant.
-
-</dd>
-
-</dl></dl>
-**
-
-###  HOUSING ASSISTANCE ACT 1978<part>Part&#160;V&#151;Amendment to the States Grants (Housing) Act 1971 </part>
-**
-###  HOUSING ASSISTANCE ACT 1978- SECT 16  Principal Act 
-The _States Grants (Housing) Act 1971_ is in this Part referred to as
-
-the Principal Act.
-
- 
-###  HOUSING ASSISTANCE ACT 1978- SECT 17  Amendment of the _States Grants (Housing) Act 1971_ [_see_ Note 2] 
-Published separately
-
- 
-**
-
-###  HOUSING ASSISTANCE ACT 1978<part>Part&#160;VI&#151;Amendments to the Housing Assistance Act 1973 </part>
-**
-###  HOUSING ASSISTANCE ACT 1978- SECT 18  Principal Act 
-The _Housing Assistance Act 1973_ is in this Part referred to as the
-
-Principal Act.
-
- 
-###  HOUSING ASSISTANCE ACT 1978- SECT 19, 20  Amendments of the _Housing Assistance Act 1973_ [_see_ Note3] 
-Published separately.
-
- 
-**
-
-###  HOUSING ASSISTANCE ACT 1978Schedule 
-**
-
-
-
-
-
-
-
-
-
-
-
-
-Back to Top
-
-
-
-
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>housing assistance will&#151;
-
-</dd>
-
-</dl></dl>
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>facilitate home ownership for those able to afford it but not able to gain
-
-it through the private market;</dd>
-
-<dt>(ii)</dt><dd>provide adequate rental housing for those of the community who are deemed
-
-to be in need of governmental assistance at a price that is within their
-
-capacity to pay;</dd>
-
-<dt>(iii)</dt><dd>provide assistance for home ownership and assistance with rental
-
-accommodation in the most efficient way and thus to exclude from eligibility
-
-those not in need, to minimise continued availability of assistance to those no
-
-longer in need and to accord benefits which are designed so that assistance
-
-being provided is related to the particular family's or individual's current
-
-economic and social circumstances;
-
-</dd>
-
-</dl></dl></dl>
-<dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>benefits which are available are offset to the minimum extent practicable
-
-by poor location of dwellings, an inadequate range of choice of dwellings and
-
-stigmatisation of those who are to receive benefits;</dd>
-
-<dt>(c)</dt><dd>there will be clear recognition of the separate but complementary roles
-
-of&#151;
-
-</dd>
-
-</dl></dl>
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>construction and acquisition of dwellings;</dd>
-
-<dt>(ii)</dt><dd>management of the rental operation; and</dd>
-
-<dt>(iii)</dt><dd>sales of dwellings;
-
-</dd>
-
-</dl></dl></dl>
-<dl compact=""><dl compact="">
-
-<dt>(d)</dt><dd>maximum social benefit will be sought from previous investment in housing;
-
-and</dd>
-
-<dt>(e)</dt><dd>the States will be able to exercise maximum autonomy and flexibility in
-
-the administrative arrangements necessary to achieve these principles;
-
-</dd>
-
-</dl></dl>
-
-
-<dl compact=""><dl compact="">
-
-NOW IT IS HEREBY AGREED as follows:
-
-</dl></dl>
-PART I&#151;OPERATION OF AGREEMENT
-
-
-
-
-PART II&#151;INTERPRETATION
-
-
-
-Back to Top
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a reference to a Part or to a clause is to a Part or to a clause of this
-
-Agreement, as the case may be;</dd>
-
-<dt>(b)</dt><dd>a reference to a sub-clause is, unless otherwise indicated, to the
-
-relevant sub-clause of the clause in which the reference appears;</dd>
-
-<dt>(c)</dt><dd>the Schedule referred to is the Schedule to this Agreement;</dd>
-
-<dt>(d)</dt><dd>words importing the masculine gender also import the feminine and, where
-
-appropriate, the neuter; and</dd>
-
-<dt>(e)</dt><dd>words in the singular number include the plural and vice versa.
-
-</dd>
-
-</dl></dl>
-PART III&#151;OBJECTIVE OF AGREEMENT
-
-
-PART IV&#151;FINANCIAL ASSISTANCE
-
-
-
-
-
-
-
-Back to Top
-
-
-
-
-
-
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in respect of rental housing assistance&#151;5 per centum per annum; and</dd>
-
-<dt>(b)</dt><dd>in respect of home purchase assistance&#151;4<sub>
-
-![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00511/Html/528A7B065B283FDACA256F71004F6125/$FILE/1202.gif)</sub>
-
-per centum per annum.
-
-</dd>
-
-</dl></dl>
-
-
-
-PART V&#151;RENTAL HOUSING ASSISTANCE
-
-
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in respect of a financial year of this Agreement, advances for rental
-
-housing assistance made under this Agreement during the financial year;</dd>
-
-<dt>(b)</dt><dd>in respect of any financial year, any surplus during the financial year of
-
-revenue after allowing for rental rebates over outgoings incurred or provided
-
-for arising from&#151;</dd>
-
-<dt>(i)</dt><dd>the rental housing operations of the State in respect of dwellings
-
-provided under previous housing arrangements and under this Agreement; and</dd>
-
-<dt>(ii)</dt><dd>any other rental operations of the State which arise out of this
-
-Agreement and to which this Agreement applies; and</dd>
-
-<dt>(c)</dt><dd>subject to sub-clause&#160;20 (3), net proceeds from the sale of rental
-
-dwellings in accordance with the provisions of this Part.
-
-</dd>
-
-</dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>to meet the costs of and associated with the acquisition, planning and
-
-development of land primarily for residential development;</dd>
-
-<dt>(b)</dt><dd>to pay for the construction or acquisition of housing;</dd>
-
-<dt>(c)</dt><dd>to repay the principal of and pay interest on loans made to the State for
-
-rental housing assistance;</dd>
-
-<dt>(d)</dt><dd>to provide funds to such voluntary, non-profit, charitable or other
-
-housing management bodies or groups as are approved by the State Minister;</dd>
-
-<dt>(e)</dt><dd>to enable housing to be let to such charitable bodies and other
-
-organisations as are approved by the State Minister for the provision of
-
-assistance to disadvantaged persons;</dd>
-
-<dt>(f)</dt><dd>to engage in urban renewal activities related to public housing;</dd>
-
-<dt>(g)</dt><dd>to allocate funds to local government bodies for the provision of rental
-
-housing where the State Minister considers that it would be more appropriate
-
-for such rental housing assistance to be carried out by those bodies;</dd>
-
-<dt>(h)</dt><dd>to make payments for, or provide bridging finance for, the provision of
-
-open space, landscaping, community facilities and for costs associated with
-
-land development, including contributions to headworks and reticulation of
-
-services;</dd>
-
-<dt>(i)</dt><dd>to undertake research and policy development in relation to matters not
-
-funded by the Australian Housing Research Council;</dd>
-
-<dt>(j)</dt><dd>to undertake and participate in joint ventures, co-operative enterprises
-
-or similar arrangements in order that public housing developments may be
-
-integrated with private housing and to achieve a desirable socio-economic
-
-mixture of housing;</dd>
-
-<dt>(k)</dt><dd>to lease housing from the private housing sector;</dd>
-
-<dt>(l)</dt><dd>to provide housing advisory services related to public housing; and</dd>
-
-<dt>(m)</dt><dd>any other purposes, including special housing needs or innovative
-
-practices, agreed upon between the Minister and the State Minister.
-
-</dd>
-
-</dl></dl>
-
-Back to Top
-
-
-
-
-<dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>reviewed annually; and</dd>
-
-<dt>(ii)</dt><dd>adjusted according to the movement of rates of rental on the open market.
-
-</dd>
-
-</dl></dl>
-
-
-
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>sales of dwellings are at market value or replacement cost;</dd>
-
-<dt>(b)</dt><dd>sales of dwellings are on the basis of a cash transaction;</dd>
-
-<dt>(c)</dt><dd>home purchase assistance funds may be used to finance the purchase of a
-
-dwelling; and</dd>
-
-<dt>(d)</dt><dd>proceeds from sales of dwellings are separately identified to the
-
-Commonwealth.
-
-</dd>
-
-</dl></dl>
-
-
-PART VI&#151;HOME PURCHASE ASSISTANCE
-
-
-
-
-
-
-
-
-Back to Top
-
-
-
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>making repayments of principal and payments of interest in respect of
-
-advances by the Commonwealth to the State under this Agreement or, where
-
-accounts under previous housing arrangements have been combined into the
-
-Account, the repayment of principal and payment of interest in respect of
-
-advances by the Commonwealth to the State which have been allocated for home
-
-purchase assistance under those arrangements;</dd>
-
-<dt>(b)</dt><dd>meeting expenditure by the State in providing and administering loans to
-
-approved lending authorities;</dd>
-
-<dt>(c)</dt><dd>making loans to&#151;</dd>
-
-<dt>(i)</dt><dd>terminating building societies or co-operative housing societies;</dd>
-
-<dt>(ii)</dt><dd>a lending authority of the State approved by the State Minister;</dd>
-
-<dt>(iii)</dt><dd>registered co-operative organizations approved by the State Minister,
-
-not including permanent building societies;</dd>
-
-<dt>(iv)</dt><dd>such other bodies or organizations, including permanent building
-
-societies, as are from time to time agreed upon between the Minister and the
-
-State Minister,
-
-</dd>
-
-</dl></dl>
-<dl compact=""><dl compact="">
-
-<dt>(d)</dt><dd>providing a subsidy to eligible home purchasers or such lending
-
-institutions as are from time to time agreed upon by the Minister and the State
-
-Minister to reduce the interest cost of loans to the end borrowers of the
-
-loans;</dd>
-
-<dt>(e)</dt><dd>financing the construction or purchase of dwellings for sale to persons
-
-who are eligible for home purchase assistance under this Agreement; and</dd>
-
-<dt>(f)</dt><dd>such other purposes as are from time to time agreed upon between the
-
-Minister and the State Minister.
-
-</dd>
-
-</dl></dl>
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>`home purchaser' includes a purchaser of a dwelling under clause&#160;20;
-
-and</dd>
-
-<dt>(b)</dt><dd>references to societies are to societies registered as societies referred
-
-to under the relevant legislation of the State.
-
-</dd>
-
-</dl></dl>
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>be not less than 5 per centum per annum until the end of the first
-
-financial year that wholly occurs after the loan is made;</dd>
-
-<dt>(b)</dt><dd>be increased by <sub>
-
-![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00511/Html/528A7B065B283FDACA256F71004F6125/$FILE/1203.gif)</sub>
-
-per centum per annum at the end of the first financial year that wholly occurs
-
-after the loan is made and by <sub>
-
-![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00511/Html/528A7B065B283FDACA256F71004F6125/$FILE/1204.gif)</sub>per
-
-centum per annum at the end of each subsequent financial year of the loan until
-
-a rate equivalent to 1 per centum per annum below the long term bond rate for a
-
-financial year is reached;</dd>
-
-<dt>(c)</dt><dd>thereafter be varied for any financial year of the loan according to any
-
-variation in the long term bond rate for that financial year.
-
-</dd>
-
-</dl></dl>
-
-
-
-
-
-Back to Top
-
-<dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>escalating interest loans with income geared starts;</dd>
-
-<dt>(b)</dt><dd>deferred interest repayment loans;</dd>
-
-<dt>(c)</dt><dd>income geared repayment loans;</dd>
-
-<dt>(d)</dt><dd>high start loans;</dd>
-
-<dt>(e)</dt><dd>second mortgage lending,
-
-</dd>
-
-</dl></dl>
-
-PART VII&#151;SUPERSESSION OF PREVIOUS HOUSING ARRANGEMENTS
-
-
-
-PART VIII&#151;GOVERNMENT AUTHORITIES AND AGENCIES
-
-
-
-PART IX&#151;SUPPLY OF INFORMATION
-
-
-PART X&#151;VARIATION OF AGREEMENT
-
-
-
-
-PART XI&#151;REPRESENTATIVES AND COMMUNICATIONS
-
-
-
-
-
-
-
-
-
-
-Back to Top
-
-
-Schedule
-
-Existing Housing Agreements
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**
-
-###  HOUSING ASSISTANCE ACT 1978<centreit>Notes to the _Housing Assistance Act 1978_ </centreit>
-**
-Note 1
-Housing Assistance Act 1978
-Table of Acts
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Act</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Number 
-and year</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Housing Assistance Act 1978_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>79, 1978</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>22&#160;June 1978</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Parts I and II (ss. 1-10): Royal Assent 
-Remainder:1&#160;July 1978</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_National Debt Sinking Fund Repeal Act 1994_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>107, 1994</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>5&#160;July 1994</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>_(a)_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-(a)
-Financial Agreement Act 1994
-
-Financial Agreement Act 1994
-see Gazette
-Table of Amendments
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Provision affected</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>How affected</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 10</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;107, 1994</div>
-
-  </td>
-</tr>
-**
-
-###  <b>Note2</b>
-**
-States Grants (Housing) Act 1971
-Note 3
-Housing Assistance Act 1973
-
-
-
-
-
-
-
-
-
-
-
-
+## SCH
+<sch>                                  SCHEDULE                         Clause 5<lf>                         Existing Housing Agreements<lf>   1\. The 1945 Agreement<lf>         Agreement made 19 November 1945 between the Commonwealth and the<lf> States to which Tasmania is not now a party - Act No. 44 of 1945.<lf>   2\. The 1955 Agreement<lf>         Supplemental Agreement made 16 April 1955 between the Commonwealth<lf> and the States other than Tasmania - Act No. 12 of 1955.<lf>   3\. The 1956 Agreement<lf>         Agreement made 13 February 1957 between the Commonwealth and the<lf> States - Act No. 43 of 1956.<lf>   4\. The 1961 Agreement<lf>         Agreement made 4 October 1961 between the Commonwealth and the<lf> States - Act No. 31 of 1961.<lf>   5\. The 1966 Agreement<lf>         Agreement made 21 December 1966 between the Commonwealth and the<lf> States - Act No. 24 of 1966.<lf>   6\. The 1973 Agreement<lf>         Agreement made 17 October 1973 between the Commonwealth and the<lf> States - Act No. 43 of 1973.<lf>   7\. The 1974 Agreement<lf>         Supplemental Agreement made 20 December 1974 between the<lf> Commonwealth and the States - Act No. 102 of 1974.<lf>   IN WITNESS WHEREOF etc.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
