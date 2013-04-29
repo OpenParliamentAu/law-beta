@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00018/Html/ForAcqTakeOve1975WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00414/Html/ForAcqTakeOve1975WD02_image001.gif)
 
 # Foreign Acquisitions and Takeovers Act 1975
 
 **Act No. 92 of 1975 as amended**
 
-This compilation was prepared on 22 December 2008
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 14 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -20,121 +20,121 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Transitional provisions                                                                        1
+[3](#3).            Transitional provisions
 
-[4](#4).            Additional operation of Act                                                                2
+[4](#4).            Additional operation of Act
 
-[5](#5).            Interpretation                                                                                       5
+[5](#5).            Interpretation
 
-[5A](#5A).         Ordinarily resident non-citizens                                                          9
+[5A](#5A).         Ordinarily resident non-citizens
 
-[6](#6).            Associates                                                                                          10
+[6](#6).            Associates
 
-[7](#7).            Australian business                                                                            11
+[7](#7).            Australian business
 
-[8](#8).            Control of voting power                                                                    12
+[8](#8).            Control of voting power
 
-[9](#9).            Substantial and controlling interests in corporations                         12
+[9](#9).            Substantial and controlling interests in corporations
 
-[9A](#9A).         Substantial interests in trust estates                                                  13
+[9A](#9A).         Substantial interests in trust estates
 
-[10](#10).          Holding corporations and subsidiaries                                               13
+[10](#10).          Holding corporations and subsidiaries
 
-[11](#11).          Interests in shares                                                                              15
+[11](#11).          Interests in shares
 
-[12](#12).          Interests in assets                                                                              16
+[12](#12).          Interests in assets
 
-[12A](#12A).       Interests in Australian urban land                                                      16
+[12A](#12A).       Interests in Australian urban land
 
-[12B](#12B).       Interests in trust estates                                                                    18
+[12B](#12B).       Interests in trust estates
 
-[12C](#12C).       Tracing of substantial interests in corporations and trust estates     19
+[12C](#12C).       Tracing of substantial interests in corporations and trust estates
 
-[13](#13).          Prescribed corporations                                                                     19
+[13](#13).          Prescribed corporations
 
-[13A](#13A).       Exempt dealings                                                                                 21
+[13A](#13A).       Exempt dealings
 
-[13B](#13B).       Valuation of assets for purposes of section 13A                              22
+[13B](#13B).       Valuation of assets for purposes of section 13A
 
-[13C](#13C).       Australian urban land corporations                                                   24
+[13C](#13C).       Australian urban land corporations
 
-[13D](#13D).       Australian urban land trust estates                                                    25
+[13D](#13D).       Australian urban land trust estates
 
-[14](#14).          Voting power                                                                                     25
+[14](#14).          Voting power
 
-[15](#15).          Application of Act                                                                            25
+[15](#15).          Application of Act
 
-[16](#16).          Extra-territorial operation of Act                                                       26
+[16](#16).          Extra-territorial operation of Act
 
-[17](#17).          Persons obliged to comply with Act                                                 26
+[17](#17).          Persons obliged to comply with Act
 
 **Part IA—Exempt foreign investments**
 
-[17A](#17A).       Exempt foreign investments in prescribed corporations etc              27
+[17A](#17A).       Exempt foreign investments in prescribed corporations etc 
 
-[17B](#17B).       Asset thresholds for exempt foreign investments in prescribed corporations etc —prescribed foreign investors  28
+[17B](#17B).       Asset thresholds for exempt foreign investments in prescribed corporations etc —prescribed foreign investors
 
-[17C](#17C).       Asset thresholds for exempt foreign investments in prescribed corporations etc —prescribed foreign government investors                                                                                            30
+[17C](#17C).       Asset thresholds for exempt foreign investments in prescribed corporations etc —prescribed foreign government investors
 
-[17D](#17D).       Exempt foreign investments in financial sector companies etc          31
+[17D](#17D).       Exempt foreign investments in financial sector companies etc 
 
-[17E](#17E).        Prescribed foreign investor                                                                32
+[17E](#17E).        Prescribed foreign investor
 
-[17F](#17F).        Foreign government investor                                                             32
+[17F](#17F).        Foreign government investor
 
-[17G](#17G).       Prescribed foreign government investor                                             33
+[17G](#17G).       Prescribed foreign government investor
 
-[17H](#17H).       Prescribed sensitive sector                                                                 33
+[17H](#17H).       Prescribed sensitive sector
 
 **Part II—Control of takeovers and other transactions**
 
-[18](#18).          Acquisitions of shares                                                                       34
+[18](#18).          Acquisitions of shares
 
-[19](#19).          Acquisitions of assets                                                                        37
+[19](#19).          Acquisitions of assets
 
-[20](#20).          Arrangements relating to directorate of corporations                        39
+[20](#20).          Arrangements relating to directorate of corporations
 
-[21](#21).          Arrangements relating to control of Australian businesses               41
+[21](#21).          Arrangements relating to control of Australian businesses
 
-[21A](#21A).       Acquisitions of interests in Australian urban land                            43
+[21A](#21A).       Acquisitions of interests in Australian urban land
 
-[22](#22).          Interim orders                                                                                    45
+[22](#22).          Interim orders
 
-[23](#23).          Revocation of orders                                                                          45
+[23](#23).          Revocation of orders
 
-[24](#24).          Publication of orders                                                                          45
+[24](#24).          Publication of orders
 
-[25](#25).          Effect of notification of transactions                                                 45
+[25](#25).          Effect of notification of transactions
 
-[26](#26).          Compulsory notification of certain section 18 transactions              48
+[26](#26).          Compulsory notification of certain section 18 transactions
 
-[26A](#26A).       Compulsory notification of certain section 21A transactions           51
+[26A](#26A).       Compulsory notification of certain section 21A transactions
 
-[27](#27).          Form of notification                                                                           52
+[27](#27).          Form of notification
 
-[28](#28).          Notification of options                                                                      53
+[28](#28).          Notification of options
 
 **Part III—Miscellaneous**
 
-[30](#30).          Offences                                                                                             54
+[30](#30).          Offences
 
-[31](#31).          Offences by officers of corporations                                                 54
+[31](#31).          Offences by officers of corporations
 
-[35](#35).          Powers of court to enforce Treasurer’s orders                                  54
+[35](#35).          Powers of court to enforce Treasurer’s orders
 
-[36](#36).          Treasurer may require information                                                    57
+[36](#36).          Treasurer may require information
 
-[37](#37).          Effect of Act on other laws                                                               58
+[37](#37).          Effect of Act on other laws
 
-[38](#38).          Validity of acts done in contravention of Act                                   58
+[38](#38).          Validity of acts done in contravention of Act
 
-[38A](#38A).       Anti-avoidance                                                                                   58
+[38A](#38A).       Anti-avoidance
 
-[39](#39).          Regulations                                                                                        59
+[39](#39).          Regulations
 
 **Notes** 
 
@@ -266,8 +266,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="balanc-sheet"></a>**_balance-sheet_** includes a statement of assets and liabilities or any similar document.
 
-                    <a name="child"></a>**_child_** has the meaning given by subsection 6(2).
-
                     <a name="constitu-docum"></a>**_constituent document_**, in relation to a corporation, means the constitution of the corporation or any rules or other document constituting the corporation or governing its activities.
 
                     <a name="debentur"></a>**_debenture_** includes debenture stock, bonds, notes and any other document evidencing or acknowledging indebtedness of a corporation, whether constituting a charge on the assets of the corporation or not.
@@ -315,8 +313,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (b)  a receiver and manager of any part of the undertaking of the corporation appointed under a power contained in any instrument; or
 
                      (c)  a liquidator of the corporation appointed in a voluntary winding up.
-
-                    <a name="parent"></a>**_parent_** has the meaning given by subsection 6(2).
 
                     <a name="prescrib-foreign-govern-investor"></a>**_prescribed foreign government investor_** has the meaning given by section 17G.
 
@@ -396,9 +392,9 @@ and references to an arrangement shall be construed accordingly.
 
 ##### <a id="6"></a>6  Associates
 
-             (1)  For the purposes of this Act, the following persons are associates of a person:
+                   For the purposes of this Act, the following persons are associates of a person:
 
-                     (a)  the person’s spouse or de facto partner (within the meaning of the _Acts Interpretation Act 1901_), or a parent or remoter lineal ancestor, child or remoter issue, brother or sister of the person;
+                     (a)  the person’s spouse or a parent or remoter lineal ancestor, son, daughter or remoter issue, brother or sister of the person;
 
                      (b)  any partner of the person;
 
@@ -425,14 +421,6 @@ and references to an arrangement shall be construed accordingly.
                     (kb)  where the person is the trustee of a trust estate—a person who holds a substantial interest in the trust estate;
 
                       (l)  any person who is, by virtue of this section, an associate of any other person who is an associate of the person (including a person who is an associate of the person by another application or other applications of this paragraph).
-
-             (2)  In this Act:
-
-                    <a name="child"></a><a name="child"></a>**_child_**: without limiting who is a child of a person for the purposes of this Act, someone is the **_child_** of a person if he or she is a child of the person within the meaning of the _Family Law Act 1975_.
-
-                    <a name="child"></a><a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of a person for the purposes of this Act, someone is the **_parent_** of a person if the person is his or her child because of the definition of **_child_** in this section.
-
-             (3)  For the purposes of paragraph (1)(a), if one person is the child of another person because of the definition of **_child_** in this section, relationships traced to or through that person are to be determined on the basis that the person is the child of the other person.
 
 ##### <a id="7"></a>7  Australian business
 
@@ -732,7 +720,7 @@ the following provisions have effect for the purposes of this Act:
 
              (2)  For the purposes of subparagraphs (1)(a)(ii) and (b)(ii) in relation to the application of section 18, the value of the issued shares of a corporation, or the aggregate value of the issued shares of a group of corporations, is the value ascertained under the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00018/Html/ForAcqTakeOve1975WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00414/Html/ForAcqTakeOve1975WD02_image002.gif)
 
 where:
 
@@ -748,7 +736,7 @@ where:
 
              (3)  For the purposes of subparagraphs (1)(a)(ii) and (b)(ii) in relation to the application of section 26, the value of the issued shares of a corporation, or the aggregate value of the issued shares of a group of corporations, is the value ascertained under the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00018/Html/ForAcqTakeOve1975WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00414/Html/ForAcqTakeOve1975WD02_image002.gif)
 
 where:
 
@@ -1000,7 +988,7 @@ Note:          For specification by class, see subsection 13(3
 
                      (c)  an entity mentioned in paragraph (a) holds an interest in the entity that satisfies the conditions specified in the regulations.
 
-##### <a id="17G"></a>17G  Prescribed foreign government investor
+##### <a id="17G"></a>17G  Prescribed foreign government investor
 
                    An entity is a **_prescribed foreign government investor_** if:
 
@@ -1649,7 +1637,7 @@ of Assent</div>
     <div>28 Aug 1975</div>
   </td>
   <td>
-    <div>1 Jan 1976 ( <i>see Gazette</i>1975, No. S267)</div>
+    <div>1 Jan 1976 ( <i>see Gazette</i>1975, No. S267)</div>
   </td>
   <td>
     <div></div>
@@ -1684,7 +1672,7 @@ Remainder: 1 Jan 1976</div>
     <div>28 Mar 1979</div>
   </td>
   <td>
-    <div>Parts II–XVII (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
+    <div>Parts II–XVII (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1720,7 +1708,7 @@ Remainder: Royal Assent</div>
     <div>13 Apr 1989</div>
   </td>
   <td>
-    <div>1 Aug 1989 ( <i>see Gazette</i>1989, No. S240)</div>
+    <div>1 Aug 1989 ( <i>see Gazette</i>1989, No. S240)</div>
   </td>
   <td>
     <div>S. 32</div>
@@ -1771,7 +1759,7 @@ Remainder: Royal Assent</div>
     <div>29 June 1998</div>
   </td>
   <td>
-    <div>Schedule 4 (item 10): 1 July 1998 ( <i>see Gazette</i>1998, No. S317) <i>(d)</i></div>
+    <div>Schedule 4 (item 10): 1 July 1998 ( <i>see Gazette</i>1998, No. S317) <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1788,7 +1776,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -1806,9 +1794,9 @@ Remainder: 24 May 2001</div>
     <div>28 Apr 2001</div>
   </td>
   <td>
-    <div>Ss. 1–3, Schedule 1 (items 1–4) and Schedule 2: Royal Assent 
-Schedule 1 (items 171, 172): 18 Jan 2001 ( <i>see</i>s. 2(2)) 
-Remainder: 15 Dec 2001 ( <i>see</i>s. 2(4))</div>
+    <div>Ss. 1–3, Schedule 1 (items 1–4) and Schedule 2: Royal Assent 
+Schedule 1 (items 171, 172): 18 Jan 2001 ( <i>see</i>s. 2(2)) 
+Remainder: 15 Dec 2001 ( <i>see</i>s. 2(4))</div>
   </td>
   <td>
     <div>—</div>
@@ -1825,7 +1813,7 @@ Remainder: 15 Dec 2001 ( <i>see</i>s. 2(4))</div>
     <div>16 Aug 2004</div>
   </td>
   <td>
-    <div>Schedule 5: 1 Jan 2005</div>
+    <div>Schedule 5: 1 Jan 2005</div>
   </td>
   <td>
     <div>—</div>
@@ -1839,34 +1827,17 @@ Remainder: 15 Dec 2001 ( <i>see</i>s. 2(4))</div>
     <div>73, 2008</div>
   </td>
   <td>
-    <div>3 July 2008</div>
+    <div>3 July 2008</div>
   </td>
   <td>
-    <div>Schedule 4 (items 295–298): 4 July 2008</div>
+    <div>Schedule 4 (items 295–298): 4 July 2008</div>
   </td>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 14 (items 105–111): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>Sch. 14 (item 111) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Part XII (sections 
+_(a)_     The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Part XII (sections 
  185–187) only of the _Commonwealth Functions (Statutes Review) Act 1981_, subsection 2(1) of which provides as follows:
 
                  (1)   Parts I, IV, IX, X, XI, XII, XIII, XVII (other than sections 220, 221, 222, 223, 225, 226, 227, 228, and 230), XX, XXI, XXII and XXIII shall come into operation on the day on which this Act receives the Royal Assent.
@@ -1918,7 +1889,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div><b>Part I</b></div>
+    <div><b>Part I</b></div>
   </td>
   <td>
     <div></div>
@@ -1953,7 +1924,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 93, 1976; No. 74, 1981; No. 14, 1989; No. 61, 1998; No. 120, 2004; Nos. 73 and 144, 2008</div>
+    <div>am. No. 93, 1976; No. 74, 1981; No. 14, 1989; No. 61, 1998; No. 120, 2004; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1977,7 +1948,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 14, 1989; No. 144, 2008</div>
+    <div>am. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
@@ -1985,7 +1956,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 14, 1989; No. 73, 2008</div>
+    <div>am. No. 14, 1989; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2017,7 +1988,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 73, 2008</div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2057,7 +2028,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div></div>
   </td>
   <td>
-    <div>am. No. 120, 2004</div>
+    <div>am. No. 120, 2004</div>
   </td>
 </tr>
 <tr>
@@ -2086,10 +2057,10 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>Part IA</div>
+    <div>Part IA</div>
   </td>
   <td>
-    <div>ad. No. 120, 2004</div>
+    <div>ad. No. 120, 2004</div>
   </td>
 </tr>
 <tr>
@@ -2097,12 +2068,12 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div>Ss. 17A–17H</div>
   </td>
   <td>
-    <div>ad. No. 120, 2004</div>
+    <div>ad. No. 120, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part II</b></div>
+    <div><b>Part II</b></div>
   </td>
   <td>
     <div></div>
@@ -2121,7 +2092,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div>Ss. 18–21</div>
   </td>
   <td>
-    <div>am. No. 73, 2008</div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2137,7 +2108,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 14, 1989; No. 73, 2008</div>
+    <div>am. No. 14, 1989; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2145,7 +2116,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 14, 1989</div>
+    <div>am. No. 14, 1989</div>
   </td>
 </tr>
 <tr>
@@ -2153,7 +2124,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 14, 1989; No. 73, 2008</div>
+    <div>am. No. 14, 1989; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2161,7 +2132,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div>S. 25</div>
   </td>
   <td>
-    <div>am. No. 14, 1989; No. 31, 2001</div>
+    <div>am. No. 14, 1989; No. 31, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2177,7 +2148,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div></div>
   </td>
   <td>
-    <div>am. No. 74, 1981; No. 14, 1989; No. 31, 2001; No. 73, 2008</div>
+    <div>am. No. 74, 1981; No. 14, 1989; No. 31, 2001; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2193,7 +2164,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div></div>
   </td>
   <td>
-    <div>am. No. 31, 2001</div>
+    <div>am. No. 31, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2222,7 +2193,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div><b>Part III</b></div>
+    <div><b>Part III</b></div>
   </td>
   <td>
     <div></div>
@@ -2233,7 +2204,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div>S. 30</div>
   </td>
   <td>
-    <div>am. No. 14, 1989; No. 31, 2001; No. 73, 2008</div>
+    <div>am. No. 14, 1989; No. 31, 2001; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2249,7 +2220,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div></div>
   </td>
   <td>
-    <div>rep. No. 31, 2001</div>
+    <div>rep. No. 31, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2281,7 +2252,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 14, 1989; No. 31, 2001; No. 73, 2008</div>
+    <div>am. No. 14, 1989; No. 31, 2001; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2297,7 +2268,7 @@ _(d)_ The _Foreign Acquisitions and Takeovers Act 1975_ was amended by Schedule�
     <div></div>
   </td>
   <td>
-    <div>rep. No. 137, 2000</div>
+    <div>rep. No. 137, 2000</div>
   </td>
 </tr>
 <tr>
@@ -2352,32 +2323,6 @@ If:
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
-
-## Schedule 14
-
-## 111  Transitional provisions
-
-(1)        If:
-
-                     (a)  apart from this subitem, a person would be an associate of another person for the purposes of paragraph 9(1)(a) or (b) or paragraph 9A(1)(a) or (b) of the _Foreign Acquisitions and Takeovers Act 1975_ on the commencement day; and
-
-                     (b)  the persons would be associates only because of the amendments of that Act made by this Part;
-
-then, during the period of 6 months starting on the commencement day, the provision does not apply to them as associates of each other for so long as the persons would otherwise have been associates of each other.
-
-(2)        If:
-
-                     (a)  apart from this subitem, a person would be an associate of another person on the commencement day; and
-
-                     (b)  the persons would be associates only because of the amendments of the _Foreign Acquisitions and Takeovers Act 1975_ made by this Part;
-
-then, the Treasurer may not make an order under Part II of that Act in relation to them as associates of each other during the period of 6 months starting on the commencement day.
-
-(3)        In this item:
-
-**_commencement day_** means the day on which the amendments of the Foreign Acquisitions and Takeovers Act 1975 made by this Part commence.
+ 
 
  
