@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00687/Html/24a986b3-58f7-458f-9768-8968f5f40a2e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00256/Html/aee865ae-cc04-45ba-b4ae-0eac1e0e68f4_files/image001.gif)
 
 # Australian Sports Commission Act 1989
 
 **Act No. 12 of 1989 as amended**
 
-This compilation was prepared on 29 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -282,7 +282,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (6)  In this section, **_Australian Olympic Federation_** means the Australian Olympic Federation Incorporated, being an association incorporated on 24 April 1985 under the _Associations Incorporation Act 1985_ of Victoria.
 
-##### <a id="8"></a>8  Powers
+##### <a id="8"></a>8  Powers
 
              (1)  The Commission has power to do all things necessary or convenient to be done for or in connection with the performance of its functions and, in particular, may:
 
@@ -716,7 +716,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (2)  The Finance Minister may give directions as to the amounts in which, and the times at which, money referred to in subsection (1) is to be paid to the Commission.
 
-##### <a id="45"></a>45  Application of money
+##### <a id="45"></a>45  Application of money
 
              (1)  The money of the Commission shall be applied only:
 
@@ -1217,23 +1217,6 @@ Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 259–276) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -1815,96 +1798,6 @@ _(f)_      The _Australian Sports Commission Act 1989_ was amended by 
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 259  Paragraph 20(1)(b)
-
-Omit “Chairperson;”, substitute “Chairperson.”.
-
-## 260  Subsection 20(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 261  At the end of subsection 20(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 262  Paragraph 20(2)(b)
-
-Omit “Deputy Chairperson;”, substitute “Deputy Chairperson.”.
-
-## 263  Subsection 20(2)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 264  At the end of subsection 20(2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 265  Paragraph 20(3)(b)
-
-Omit “member;”, substitute “member.”.
-
-## 266  Subsection 20(3)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 267  At the end of subsection 20(3)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 268  Subsection 20(4)
-
-Repeal the subsection.
-
-## 269  Subsection 39(1)
-
-Omit “(1)”.
-
-## 270  Paragraph 39(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 271  Subsection 39(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 272  At the end of subsection 39(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 273  Subsection 39(2)
-
-Repeal the subsection.
-
-## 274  Subsection 54(1)
-
-Omit “and 26”, substitute “, 26 and 39”.
-
-## 275  Subsection 54(1)
-
-Omit “, 30(1) and 39(1)”, substitute “and 30(1)”.
-
-## 276  Subsection 54(1)
-
-Omit “subsection 39(1) as that subsection”, substitute “section 39 as that section”.
-
-As at 29 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2033,21 +1926,5 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
