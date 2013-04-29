@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00402/Html/1b2f88b3-a981-485c-b460-685f31dabd41_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00905/Html/be9f3a88-d8d7-4736-bc86-0e1961ec264a_files/image001.gif)
 
 # Financial Transaction Reports Act 1988
 
 **Act No. 64 of 1988 as amended**
 
-This compilation was prepared on 20 April 2012
+This compilation was prepared on 11 November 2011
  taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
@@ -189,8 +189,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [40N](#40N).       Transferor ADI may give documents to transferee ADI
 
-[40P](#40P).        Compliant transferor ADIs released from retention 
- obligations
+[40P](#40P).        Compliant transferor ADIs released from retention obligations
 
 [40Q](#40Q).       Retention obligations of transferee ADIs
 
@@ -282,9 +281,7 @@ Note:          Section 40C defines **_account_** for the pur
 
                             (iii)  if the account is held in the name of a body corporate (other than as a trustee)—that fact and a copy of the certificate of incorporation (if any) of the body corporate;
 
-                            (iv)  if the account is held in a business name registered on the Business Names Register—that fact and a copy of the entry in the Business Names Register obtained under section 60 of the _Business Names Registration Act 2011_ relating to the business name and containing the details referred to in paragraphs 33(1)(a), (b), (d) and (e) of that Act (identification details, business name, address for service and period of registration);
-
-                          (iva)  if the account is held in a business name of which registration on the Business Names Register has been applied for but not yet obtained—that fact and a copy of the application;
+                            (iv)  if the account is held in a business name—that fact and a copy of the certificate of registration of the business name or, if registration was applied for but not yet obtained, a copy of the application;
 
                              (v)  if the account is held in trust—that fact and the prescribed details of the trustees and beneficiaries of the trust.
 
@@ -323,8 +320,6 @@ Note:          Section 40C defines **_account_** for the pur
                      (b)  a Sunday; or 
 
                      (c)  a day that is a public holiday in that place.
-
-                    <a name="busi-name-regist"></a>**_Business Names Register_** means the Register established and maintained under section 22 of the _Business Names Registration Act 2011._
 
                     <a name="busi-premis"></a>**_business premises_**, in relation to a person, means premises, or a part of premises, of the person used, wholly or partly, for the purposes of business operations of the person, but does not include premises, or a part of premises, used as a place of residence.
 
@@ -1522,7 +1517,7 @@ the court may make such orders as it thinks fit in relation to that amount, incl
 
              (6)  An expression used in this section has the same meaning as in section 18.
 
-##### <a id="20"></a>20  Cash dealers to hold information
+##### <a id="20"></a>20  Cash dealers to hold information
 
              (1)  A cash dealer must maintain, in relation to each account, in a way that can be audited:
 
@@ -1854,7 +1849,7 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
 ## Part IIIA—Bullion sellers
 
-##### <a id="24A"></a>24A  Definitions
+##### <a id="24A"></a>24A  Definitions
 
                     <a name="bullion-transact"></a>**_bullion transaction_** means a transaction (other than an exempt transaction) in relation to bullion.
 
@@ -2566,7 +2561,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="40S"></a>40S  This Part does not limit any other retention obligations
+##### <a id="40S"></a>40S  This Part does not limit any other retention obligations
 
                    This Part does not limit any other obligation of a financial institution to retain documents.
 
@@ -3037,8 +3032,6 @@ The _Financial Transaction Reports Act 1988_ as shown in this compilation compri
 The _Financial Transaction Reports Act 1988_ was amended by the _Financial Transaction Reports Regulations 1990_(1990 No. 36 as amended by 1990 No. 162; 1992 No. 423; 1997 No. 63; 2001 No. 64). The amendments are incorporated in this compilation.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
-
-For application, saving or transitional provisions made by Schedule 1 (item 5) of the _Business Names Registration (Application of Consequential Amendments) Act 2011_, _see_ Act No. 172, 2011.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 17 April 1997 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -4256,7 +4249,7 @@ Schedule 1 (items 59–61): 13 Dec 2006</div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 22, 23): 20 Apr 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (items 22, 23): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -5225,7 +5218,7 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti‑Money Laundering and C
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 4 and 110, 1990; No. 188, 1991; No. 164, 1992; No. 170, 1994; Nos. 33, 62 and 160, 1997; No. 48, 1998; Nos. 44, 146 and 156, 1999; Nos. 55, 119, 123, 136 and 166, 2001; Nos. 86, 125 and 141, 2002; No. 122, 2003; No. 144, 2005; Nos. 86 and 170, 2006; Nos. 21, 32 and 52, 2007; No. 127, 2011</div>
+    <div>am. Nos. 4 and 110, 1990; No. 188, 1991; No. 164, 1992; No. 170, 1994; Nos. 33, 62 and 160, 1997; No. 48, 1998; Nos. 44, 146 and 156, 1999; Nos. 55, 119, 123, 136 and 166, 2001; Nos. 86, 125 and 141, 2002; No. 122, 2003; No. 144, 2005; Nos. 86 and 170, 2006; Nos. 21, 32 and 52, 2007</div>
   </td>
 </tr>
 <tr>
@@ -6652,6 +6645,30 @@ _(w)_    Subsection 2(1) (item 6A) of the _Anti‑Money Laundering and C
     <div>am. Statutory Rules 1990 No. 36; Statutory Rules 1992 No. 423; Statutory Rules 2001 No. 64</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
+
+The following amendments commence at the same time as section 3 of the _Business Names Registration Act 2011_:
+
+## Schedule 2
+
+## 22  Subsection 3(1) (subparagraph (c)(iv) of the definition of _account information_)
+
+Repeal the subparagraph, substitute:
+
+                    (iv)  if the account is held in a business name registered on the Business Names Register—that fact and a copy of the entry in the Business Names Register obtained under section 60 of the _Business Names Registration Act 2011_ relating to the business name and containing the details referred to in paragraphs 33(1)(a), (b), (d) and (e) of that Act (identification details, business name, address for service and period of registration);
+
+                  (iva)  if the account is held in a business name of which registration on the Business Names Register has been applied for but not yet obtained—that fact and a copy of the application;
+
+## 23  Subsection 3(1)
+
+Insert:
+
+                    <a name="busi-name-regist"></a>**_Business Names Register_** means the Register established and maintained under section 22 of the _Business Names Registration Act 2011._
+
+As at 11 November 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
