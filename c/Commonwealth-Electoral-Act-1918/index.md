@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image001.gif)
 
 # Commonwealth Electoral Act 1918
 
 **Act No. 27 of 1918 as amended**
 
-This compilation was prepared on 25 July 2012
- taking into account amendments up to Act No. 111 of 2012
+This compilation was prepared on 19 March 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -307,10 +307,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [102](#102).        Action on receipt of claim [_see_ Note 7]
 
 [103](#103).        Penalty on officer neglecting to enrol claimants
-
-[103A](#103A).     Updating or transferring a person’s enrolment without claim or notice from the person
-
-[103B](#103B).     Enrolling unenrolled person without claim or notice from the person
 
 [104](#104).        Request for address not to be shown on Roll
 
@@ -1866,7 +1862,7 @@ Note:          The definition of **_officer_** covers Australi
 
                     <a name="enrol-power-function"></a>**_enrolment powers and functions_** means the powers and functions of the Electoral Commissioner under the following provisions:
 
-                     (a)  sections 86, 87 and 92;
+                     (a)  sections 86 and 87;
 
                      (b)  the provisions of Parts VII, VIII, IX and X;
 
@@ -3166,7 +3162,7 @@ new Rolls shall be prepared in respect of each Division or Subdivision created o
 
                      (b)  remove names therefrom;
 
-pursuant to claims or notifications received, and action taken under section 103A or 103B, between the date of the proclamation directing the preparation of new Rolls pursuant to section 85, or the date upon which there occurs a circumstance necessitating the preparation of new Rolls pursuant to section 86, as the case may be, and the date of the notification that the Rolls have been prepared, where the additions, alterations or corrections have not already been made in, or the removals have not been made from, the Rolls.
+pursuant to claims or notifications received between the date of the proclamation directing the preparation of new Rolls pursuant to section 85, or the date upon which there occurs a circumstance necessitating the preparation of new Rolls pursuant to section 86, as the case may be, and the date of the notification that the Rolls have been prepared, where the additions, alterations or corrections have not already been made in, or the removals have not been made from, the Rolls.
 
 ##### <a id="88"></a>88  Objections and notices to have effect in relation to new Rolls
 
@@ -3980,17 +3976,17 @@ Definitions
 
 ##### <a id="92"></a>92  Roll reviews
 
-             (1)  All officers in the service of the Commonwealth, a State or a Territory, officers in the service of any local governing body, and all occupiers of habitations shall upon application furnish to the Electoral Commissioner or to any officer acting under the Electoral Commissioner’s direction all such information as the Electoral Commissioner requires in connexion with the preparation, maintenance or revision of the Rolls.
+             (1)  All officers in the service of the Commonwealth, a State or a Territory, officers in the service of any local governing body, and all occupiers of habitations shall upon application furnish to the Electoral Commission or to any officer acting under its direction all such information as the Electoral Commission requires in connexion with the preparation, maintenance or revision of the Rolls.
 
-             (2)  The Electoral Commissioner must cause reviews to be conducted of the Rolls, with a view to ascertaining such information as is required for the preparation, maintenance and revision of the Rolls.
+             (2)  The Electoral Commission must cause reviews to be conducted of the Rolls, with a view to ascertaining such information as is required for the preparation, maintenance and revision of the Rolls.
 
-             (3)  There must be paid to the Electoral Commissioner, out of the Consolidated Revenue Fund, amounts equal to the sum of the expenses reasonably incurred by him or her in respect of reviews conducted under subsection (2).
+             (3)  There must be paid to the Electoral Commission, out of the Consolidated Revenue Fund, amounts equal to the sum of the expenses reasonably incurred by it in respect of reviews conducted under subsection (2).
 
              (6)  The Consolidated Revenue Fund is appropriated as necessary for the purposes of subsection (3).
 
-             (7)  The Finance Minister may make advances to the Electoral Commissioner on account of the amount that is expected to become payable under this section to the Electoral Commissioner.
+             (7)  The Finance Minister may make advances to the Electoral Commission on account of the amount that is expected to become payable under this section to the Commission.
 
-             (8)  Amounts payable to the Electoral Commissioner under this section shall be paid in such amounts, and at such times, as the Finance Minister determines.
+             (8)  Amounts payable to the Electoral Commission under this section shall be paid in such amounts, and at such times, as the Finance Minister determines.
 
 ## Part VII—Qualifications and disqualifications for enrolment and for voting
 
@@ -4612,8 +4608,6 @@ the person ceases to be eligible to be treated as an itinerant elector under thi
 
              (1)  Names may be added to Rolls pursuant to claims for enrolment or transfer of enrolment or claims for age 16 enrolment.
 
-Note:          Names may also be added to Rolls in some circumstances without making a claim or giving notice (see sections 103A and 103B).
-
              (2)  A claim:
 
                      (a)  must be in the approved form; and
@@ -4856,8 +4850,6 @@ Note:          A defendant bears an evidential burden in relat
 
              (7)  Where a person sends or delivers a claim for enrolment, or for transfer of enrolment, to the Electoral Commissioner, proceedings shall not be instituted against that person for any offence against subsection (1) or (4) committed before the claim was so sent or delivered.
 
-             (8)  If the Electoral Commissioner enters a person’s name or address in a Roll under section 103A or 103B, proceedings must not be instituted against the person for an offence against subsection (1), (4), (5) or (6) of this section constituted by an omission occurring before that entry.
-
 ##### <a id="102"></a>102  Action on receipt of claim [_see_ Note 7]
 
              (1)  Subject to subsection (4), if, pursuant to section 101, the Electoral Commissioner receives a claim for enrolment, or transfer of enrolment, the Electoral Commissioner must:
@@ -4926,122 +4918,6 @@ then, despite subsection (4):
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
 
-##### <a id="103A"></a>103A  Updating or transferring a person’s enrolment without claim or notice from the person
-
-Application
-
-             (1)  This section applies if the Electoral Commissioner:
-
-                     (a)  is satisfied that a person’s address is entered on a Roll (the **_old Roll_**); and
-
-                     (b)  is satisfied, for reasons other than a claim under section 98 and a notice under subsection 101(5), that the person lives at another address (the **_new address_**).
-
-Notice of proposed action to update or transfer enrolment
-
-             (2)  The Electoral Commissioner may give the person a notice in writing setting out the date of the notice, the new address and the fact that the Electoral Commissioner is satisfied that the person lives at the new address and stating:
-
-                     (a)  if the person’s residence at the new address entitles the person to have his or her name placed on the old Roll—that the Electoral Commissioner proposes to enter the new address for the person on the old Roll; and
-
-                     (b)  if the person’s residence at the new address entitles the person to have his or her name transferred to another Roll (the **_new Roll_**)—that the Electoral Commissioner proposes:
-
-                              (i)  to delete the person’s name from the old Roll; and
-
-                             (ii)  to enter on the new Roll the person’s name and other particulars required by section 83; and
-
-                     (c)  in any case—that the Electoral Commissioner will not take the proposed action if satisfied by information given by the person to the Electoral Commissioner within 28 days after the date of the notice that the person does not live at the new address.
-
-Taking action to update or transfer enrolment
-
-             (3)  The Electoral Commissioner may take the proposed action described in paragraph (2)(a) or (b) unless satisfied by information given by the person to the Electoral Commissioner within 28 days after the date of the notice that the person does not live at the new address.
-
-             (4)  The Electoral Commissioner may take the action before the end of the 28 days if the person indicates to the Electoral Commissioner within that period that the person does live at the new address.
-
-             (5)  Despite subsections (3) and (4), the Electoral Commissioner must not take the proposed action described in paragraph (2)(b) within a period:
-
-                     (a)  starting at 8 pm on the day of the close of the Rolls for an election to be held in a Division to which the new Roll relates; and
-
-                     (b)  ending on the close of the poll for the election.
-
-Notice of decision or decision not to take action
-
-             (6)  If the Electoral Commissioner takes the proposed action described in paragraph (2)(a) or (b) or decides not to take that action, the Electoral Commissioner must give the person notice in writing of the action or the decision.
-
-             (7)  If:
-
-                     (a)  under subsection (6) the Electoral Commissioner gives the person notice in writing of the action; and
-
-                     (b)  the Electoral Commissioner has received a claim for transfer of the person’s enrolment to the new address;
-
-the Electoral Commissioner need not give the person notice under subparagraph 102(1)(b)(ii).
-
-Electronic notification
-
-             (8)  A notice may be given under this section by an electronic communication as defined in the _Electronic Transactions Act 1999_, whether or not the person consents as described in paragraph 9(2)(d) of that Act. This does not limit the ways in which the notice may be given.
-
-##### <a id="103B"></a>103B  Enrolling unenrolled person without claim or notice from the person
-
-Application
-
-             (1)  This section applies if the Electoral Commissioner is satisfied that a person:
-
-                     (a)  is entitled to enrolment; and
-
-                     (b)  has lived at an address (the **_proposed enrolment_** **_address_**) in a Subdivision (the **_relevant Subdivision_**) for at least one month; and
-
-                     (c)  the person is not enrolled.
-
-Notice of proposed action to enrol a person
-
-             (2)  The Electoral Commissioner may give the person a notice in writing setting out the date of the notice, the proposed enrolment address and the fact that the Electoral Commissioner is satisfied that the person lives at that address and stating:
-
-                     (a)  that the Electoral Commissioner proposes to enter the person’s name and other particulars required by section 83 on the Roll for the relevant Subdivision (the **_proposed action_**); and
-
-                     (b)  that the Electoral Commissioner will not take the proposed action if satisfied by information given by the person to the Electoral Commissioner within 28 days after the date of the notice that the person:
-
-                              (i)  does not live at the proposed enrolment address; or
-
-                             (ii)  is not entitled to enrolment.
-
-Taking action to enrol a person
-
-             (3)  The Electoral Commissioner may take the proposed action unless satisfied by information given by the person to the Electoral Commissioner within 28 days after the notice that the person:
-
-                     (a)  does not live at the proposed enrolment address; or
-
-                     (b)  is not entitled to enrolment.
-
-             (4)  The Electoral Commissioner may take the proposed action before the end of the 28 days if the person indicates to the Electoral Commissioner within that period that the person:
-
-                     (a)  does live at the proposed enrolment address; and
-
-                     (b)  is entitled to enrolment.
-
-             (5)  Despite subsections (3) and (4), the Electoral Commissioner must not take the proposed action within a period:
-
-                     (a)  starting at 8 pm on the day of the close of the Rolls for an election to be held in a Division to which the Roll for the relevant Subdivision relates; and
-
-                     (b)  ending on the close of the poll for the election.
-
-Notice that action has or has not been taken
-
-             (6)  If the Electoral Commissioner takes the proposed action, or decides not to take that action, the Electoral Commissioner must give the person notice in writing of:
-
-                     (a)  the action or the decision; and
-
-                     (b)  the person’s full name and address as entered on the Roll for the person (if applicable).
-
-             (7)  If:
-
-                     (a)  under subsection (6) the Electoral Commissioner gives the person notice in writing of the action; and
-
-                     (b)  the Electoral Commissioner has received a claim for enrolment in respect of the relevant address;
-
-the Electoral Commissioner need not give the person notice under subparagraph 102(1)(b)(ii).
-
-Electronic notification
-
-             (8)  A notice may be given under this section by an electronic communication as defined in the _Electronic Transactions Act 1999_, whether or not the person consents as described in paragraph 9(2)(d) of that Act. This does not limit the ways the notice may be given.
-
 ##### <a id="104"></a>104  Request for address not to be shown on Roll
 
              (1)  Where a person considers that having his or her address shown on the Roll for a Subdivision would place the personal safety of the person or of members of the person’s family at risk, he or she may lodge with the claim for enrolment (including a provisional claim for enrolment) or transfer of enrolment a request, in the approved form, that his or her address not be entered on the Roll for the Subdivision for which enrolment is claimed.
@@ -5078,7 +4954,7 @@ the Electoral Commissioner:
 
              (9)  If:
 
-                     (a)  the decision that the elector’s address should be entered on the Roll has not been set aside under subsection 120(5), or by the Administrative Appeals Tribunal or a court; and
+                     (a)  the decision that the elector’s address should be entered on the Roll has not been set aside under subsection 120(3), or by the Administrative Appeals Tribunal or a court; and
 
                      (b)  it is no longer possible for the decision to be so set aside;
 
@@ -5128,19 +5004,13 @@ the Electoral Commissioner may remove the name of the elector from the Roll on w
 
              (3)  An alteration to a Roll in pursuance of subsection (1) or (2) may be made at any time.
 
-             (4)  The Electoral Commissioner may enter the name of an elector who is not enrolled, and who has made a declaration vote, on the Roll for the Subdivision in which the elector was living at the time of voting if:
+             (4)  If a vote is:
 
-                     (a)  at a preliminary scrutiny of declaration votes conducted in accordance with Schedule 3:
+                     (a)  admitted to further scrutiny at a preliminary scrutiny of declaration votes because of paragraph 12 of Schedule 3; or
 
-                              (i)  the envelope containing the elector’s ballot paper meets the requirements of paragraph 6 of that Schedule (about ballot papers being properly issued); and
+                     (b)  admitted to further scrutiny at a preliminary scrutiny conducted under section 89A of the _Referendum (Machinery Provisions) Act 1984_ because of paragraph 11 of Schedule 4 to that Act;
 
-                             (ii)  paragraph 12 of that Schedule (about omissions from a Roll due to error or a mistake of fact) applies to the envelope; or
-
-                     (b)  at a preliminary scrutiny of declaration votes conducted in accordance with Schedule 4 to the _Referendum (Machinery Provisions) Act 1984_:
-
-                              (i)  the envelope containing the elector’s ballot paper meets the requirements of paragraph 6 of that Schedule (about ballot papers being properly issued); and
-
-                             (ii)  paragraph 11 of that Schedule (about omissions from a Roll due to error or a mistake of fact) applies to the envelope.
+the Electoral Commissioner must enter the elector’s name on the Roll for the Subdivision for which, but for the error or mistake, the name would have appeared.
 
 ##### <a id="106"></a>106  Incorrect enrolment
 
@@ -5248,8 +5118,6 @@ Note 2:       In this section, a reference to a State includes a ref
 
              (5)  The Electoral Commissioner must not object under subsection (2) to the enrolment of a person if the Electoral Commissioner could object under subsection (4) to the enrolment of the person.
 
-             (6)  The Electoral Commissioner must not object under subsection (2) or (4) of this section to the enrolment of a person if the Electoral Commissioner has given the person a notice under subsection 103A(2) after becoming aware of the grounds mentioned in subsection (2) or (4) of this section.
-
 ##### <a id="115"></a>115  Form and manner of objection
 
              (1)  An objection shall be in writing in the approved form.
@@ -5292,25 +5160,15 @@ Note 2:       In this section, a reference to a State includes a ref
 
 the Electoral Commissioner shall dismiss the objection without giving notice to the challenged elector.
 
-             (5)  The Electoral Commissioner must dismiss an objection under subsection 114(1) or (1B) without giving notice to the challenged elector, and repay the objector the amount of $2 lodged with the objection, if:
-
-                     (a)  the Electoral Commissioner gave the challenged elector a notice under subsection 103A(2) before the objection was made; and
-
-                     (b)  the Electoral Commissioner is satisfied that the objection does not provide any information inconsistent with the information the Electoral Commissioner considered in deciding to give the notice.
-
-             (6)  The Electoral Commissioner must dismiss an objection, except one under subsection 114(1A), without giving notice to the challenged elector if the Electoral Commissioner gives the challenged elector a notice under subsection 103A(2) after the objection was made but before giving notice of the objection.
-
 ##### <a id="118"></a>118  Determination of objection
 
              (1)  The Electoral Commissioner shall determine an objection as soon as practicable after:
 
                      (a)  the receipt by the Electoral Commissioner of the answer of the challenged elector; or
 
-                     (b)  the end of 20 days after the giving of the notice of the objection;
+                     (b)  the end of 20 days after the giving of the notice;
 
 whichever is the earlier.
-
-          (1A)  However, the Electoral Commissioner must not determine an objection other than one under subsection 114(1A) if, after giving notice of the objection, the Electoral Commissioner gives the challenged elector a notice under subsection 103A(2).
 
              (2)  Before determining an objection, the Electoral Commissioner may make any inquiries the Electoral Commissioner considers necessary to ascertain the facts in relation to the objection.
 
@@ -5342,20 +5200,6 @@ the Electoral Commissioner must not remove an elector’s name from the Roll for
 
              (8)  Where, as a result of a private objection under subsection 114(1) or (1B), an elector’s name is removed from the Roll, the amount of $2 lodged with the objection shall be repaid to the objector.
 
-If objection is not determined because of notice under subsection 103A(2)
-
-             (9)  If the Electoral Commissioner does not determine an objection because, after giving notice of the objection, the Electoral Commissioner gives the challenged elector a notice under subsection 103A(2), the Electoral Commissioner:
-
-                     (a)  must, if the objection is a private objection:
-
-                              (i)  give the objector written notice in the approved form that the Electoral Commissioner will not determine the objection; and
-
-                             (ii)  repay the objector the amount of $2 lodged with the objection; and
-
-                     (b)  must give the challenged elector notice that the Electoral Commissioner will not determine the objection; and
-
-                     (c)  may give the notice to the challenged elector in the same way as the Electoral Commissioner gives the notice under subsection 103A(2).
-
 ## Part X—Review of decisions
 
 ##### <a id="120"></a>120  Internal review
@@ -5366,162 +5210,53 @@ If objection is not determined because of notice under subsection 103A(2)
 
                      (b)  an Australian Electoral Officer.
 
-             (1)  A person notified of a reviewable decision made in relation to the person may apply, in writing, to the Electoral Commissioner for a review of the decision.
+             (1)  Where:
 
-             (2)  For the purposes of this section, a decision by the Electoral Commissioner mentioned in an item in the following table is a **_reviewable decision_** in relation to the person mentioned in that item:
+                     (a)  a person is notified under section 102 that a claim by the person for enrolment, for transfer of enrolment or for age 16 enrolment has been rejected; or
 
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="90%">
-</colgroup>
+                     (b)  a person is notified under section 118 that the person’s name has been removed from a Roll in pursuance of an objection;
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>
-        <b>Reviewable decisions</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Reviewable decision</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>A decision under section 93A to refuse to include a person’s name in a
-      Roll.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>A decision under section 95 to refuse an application under subsection
-      95(1) by a person to have his or her name placed on a Roll and be treated
-      as an eligible overseas elector.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>A decision under section 98A to refuse to include in a Roll, or transfer
-      to a Roll, a person’s name.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>A decision under subsection 102(1) to reject a person’s claim for enrolment,
-      for transfer of enrolment, or for age 16 enrolment.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>A decision under subsection 103A(3) or (4) to take action to update or
-      transfer a person’s enrolment.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>A decision under subsection 103B(3) or (4) to take action to enrol a person.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>A decision under subsection 104(4) to refuse a request under subsection
-      104(1) or (2) that a person’s address not be entered on a Roll or that
-      it be deleted from a Roll.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>A decision under subsection 104(8) that a person’s address should be entered
-      on the Roll.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>A decision under section 105 to alter an entry on the Roll for a person
-      (including a decision to add or remove a person’s name from a Roll).</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>A decision under section 116 or 118 to dismiss an objection made by a
-      person or, because of subsection 118(1A), not to determine an objection
-      made by a person.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>A decision under section 118, on an objection, to remove a person’s name
-      from the Roll.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>A decision under section 185 to refuse to register a person as a general
-      postal voter.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>A decision under subsection 185C(1) to cancel a person’s registration
-      as a general postal voter.</div>
-  </td>
-</tr></table>
+the person may, before the expiration of the period of 28 days commencing on the day on which the notification is given, apply, in writing, to the Electoral Commissioner for review of the claim or objection, as the case may be.
 
-             (3)  An application under subsection (1) may only be made before the end of the period of 28 days starting on the day on which notice is given as mentioned in that subsection.
+             (2)  Where a person who has objected to an enrolment is notified, under section 114, that the objection has been dismissed, the person objecting may, before the expiration of the period of 28 days commencing on the day on which the notification is given, apply, in writing, to the Electoral Commissioner for review of the objection.
 
-             (4)  After receiving an application under subsection (1), the Electoral Commissioner must:
+             (3)  Where:
 
-                     (a)  personally review the reviewable decision; or
+                    (aa)  a person is notified under subsection 93A(4) or 98A(4) of a decision to refuse to include in a Roll, or to transfer to a Roll, the person’s name; or
+
+                     (a)  a person is notified under subsection 95(5) that an application made by the person under subsection 95(1) has been refused; or
+
+                     (b)  a person is notified under subsection 104(5) that a request made by the person under subsection 104(1) or (2) has been refused; or
+
+                   (ba)  a person is notified under subsection 104(8) of a decision that the person’s address should be entered on a Roll; or
+
+                   (bb)  a person is notified of a decision made under section 105 to alter any entry in relation to the person on a Roll (including a decision to add or remove a person’s name from the Roll); or
+
+                     (c)  a person is notified under subsection 185(6) that the person has not been registered as a general postal voter; or
+
+                    (ca)  a person is notified under subsection 185C(2) that the registration of the person as a general postal voter has been cancelled;
+
+the person may, before the expiration of the period of 28 days commencing on the day on which the notification is given, apply, in writing, to the Electoral Commissioner for review of:
+
+                     (d)  the decision under section 93A or 98A to refuse to include in a Roll, or transfer to a Roll, the person’s name; or
+
+                     (e)  the application made by the person under subsection 95(1); or
+
+                      (f)  the request made by the person under subsection 104(1) or (2); or
+
+                    (fa)  the decision under subsection 104(8) that the person’s address should be entered on the Roll; or
+
+                    (fb)  the decision under section 105 to alter the entry on the Roll; or
+
+                     (g)  the application made by the person under subsection 184A(1); or
+
+                     (h)  the cancellation of the person’s registration as a general postal voter;
+
+as the case may be.
+
+             (4)  After receiving an application under subsection (1), (2) or (3), the Electoral Commissioner must:
+
+                     (a)  personally review the decision (the **_reviewable decision_**) to which the request relates; or
 
                      (b)  cause the reviewable decision to be reviewed by a person to whom the Commissioner’s powers and functions under this section are delegated and who was not involved in making the reviewable decision.
 
@@ -5563,7 +5298,7 @@ Note:          An internal review decision is reviewable by th
 
                       (f)  a decision under section 105 to alter a Roll (including a decision to add or remove a person’s name from the Roll); or
 
-                     (g)  a decision under section 116 or 118 to dismiss an objection or not to determine an objection because of subsection 118(1A); or
+                     (g)  a decision under section 118 to dismiss an objection; or
 
                      (h)  a decision under section 118 to remove a person’s name from a Roll pursuant to an objection; or
 
@@ -7695,7 +7430,7 @@ before the ballot‑box is so used again, a voting officer, in the presence of a
 
 ### Division 4—Voting by pre‑poll declaration vote
 
-##### <a id="200DS"></a>200DS  Persons to whom this Division applies
+##### <a id="200DS"></a>200DS  Persons to whom this Division applies
 
                    This Division applies to a person who has, in accordance with Division 2, applied for a pre‑poll vote but who is not, under Division 3, entitled to vote by pre‑poll ordinary vote.
 
@@ -11635,13 +11370,13 @@ until February in the calendar year after the return is furnished.
 
              (2)  The dollar amount mentioned in the provision, for an indexation year whose indexation factor is greater than 1, is replaced by the amount worked out using the following formula (rounded to the nearest $100):
 
-![](http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image002.gif)
 
              (3)  The dollar amount mentioned in the provision for an indexation year is not replaced in respect of a disclosure period in relation to an election if the indexation year begins between the issue of the writ for the election and the polling day for the election.
 
              (4)  The **_indexation factor_** for an indexation year is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image003.gif)
 
              (5)  The indexation factor is to be calculated to 3 decimal places, but increased by .001 if the fourth decimal place is more than 4.
 
@@ -12589,7 +12324,7 @@ a copy of the order of the Court.
 
 Note:          Section 86 of the _Judiciary Act 1903_ provides that certain provisions of the _Legislative Instruments Act 2003_ apply, with modifications, to rules of court made by the Court. Section 88 of the _Judiciary Act 1903_ provides that regulations may be made modifying and adapting certain provisions of the _Legislative Instruments Act 2003_ in their application to the Court.
 
-##### <a id="375A"></a>375A  Right of Electoral Commission to have access to documents
+##### <a id="375A"></a>375A  Right of Electoral Commission to have access to documents
 
                    Unless the Court orders otherwise, the filing of a petition does not deprive the Electoral Commission of any right to have access to a document for the purposes of the performance of its functions.
 
@@ -12809,23 +12544,15 @@ shall, during a period of 2 years from the date of the conviction or finding, be
 
              (1)  A person who is, or has been, an officer shall not, except for the purposes of this Act, be required:
 
-                     (a)  to produce in court a claim for enrolment (including a provisional claim for enrolment) or transfer of enrolment under this Act, a copy of a notice given under section 103A or 103B or anything received in response to a notice given under subsection 103A(2) or 103B(2); or
+                     (a)  to produce in court a claim for enrolment (including a provisional claim for enrolment) or transfer of enrolment under this Act; or
 
-                     (b)  to disclose or communicate to a court any matter or thing that has come under the person’s notice in the performance of duties or functions under this Act in relation to:
-
-                              (i)  a claim for enrolment (including a provisional claim for enrolment) or transfer of enrolment under this Act; or
-
-                             (ii)  anything done under subsection 103A(2), (3), (4) or (6), or subsection 103B(2), (3), (4) or (6).
-
-Note:          Section 103A deals with updating or transferring a person’s enrolment, and section 103B deals with enrolling an unenrolled person, without a claim or notice from the person.
+                     (b)  to divulge or communicate to a court any matter or thing in relation to a claim for enrolment (including a provisional claim for enrolment) or transfer of enrolment under this Act, being a matter or thing that has come under the person’s notice in the performance of duties or functions under this Act.
 
              (2)  In this section, **_officer_** includes any person performing duties, or exercising powers or functions, under or in relation to this Act.
 
 ##### <a id="390A"></a>390A  Claims for enrolment etc. not to be subject to warrants
 
-             (1)  A warrant issued under section 3E of the _Crimes Act 1914_ does not authorise the seizure of a claim for enrolment or transfer of enrolment, a copy of a notice given under section 103A or 103B, or anything received in response to a notice given under subsection 103A(2) or 103B(2), in the possession of the Electoral Commission or of an officer.
-
-Note:          Section 103A deals with updating or transferring a person’s enrolment, and section 103B deals with enrolling an unenrolled person, without a claim or notice from the person.
+             (1)  A warrant issued under section 3E of the _Crimes Act 1914_ does not authorise the seizure of a claim for enrolment or transfer of enrolment in the possession of the Electoral Commission or of an officer.
 
              (2)  In this section:
 
@@ -13113,7 +12840,7 @@ I, the candidate named above, state that:
 
 ·<span style="font:7.0pt " new="">         </span>I am at least 18 years of age                                                  Yes \[  ]               No \[  ]
 
-·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                       Yes \[  ]               No \[  ]
+·<span style="font:7.0pt " new="">         </span>I am an elector or qualified to be an elector                       Yes \[  ]               No \[  ]
 
 ·<span style="font:7.0pt " new="">         </span>I am not, by virtue of section 44 of the Constitution,       Yes \[  ]               No \[  ]
  incapable of being chosen or of sitting as a Senator
@@ -13752,7 +13479,7 @@ FORM E
 
 <tr>
   <td>
-    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image005.gif"> </div>
+    <div> <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image004.gif">   <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image005.gif"> </div>
   </td>
   <td colspan="8">
     <div>SENATE BALLOT PAPER 
@@ -13788,8 +13515,8 @@ FORM E
 </tr>
 <tr>
   <td colspan="2">
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251629056"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251681280"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:251680256"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251679232"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251635200"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251632128"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251636224"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251633152"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:251631104"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251630080"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251634176"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
-    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251627008"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251629056"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251681280"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" style="margin-right:-1.2pt"> <span style="font-size: 8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="26"> <span style="position:absolute;z-index:251680256"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251679232"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:1.5pt 1.5pt 1.5pt 1.5pt"> <p class="MsoNormal" align="center" style="text-align:center"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251635200"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251632128"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image006.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="25"> <span style="position:absolute;z-index:251636224"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image007.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251633152"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="23"> <span style="position:absolute;z-index:251631104"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal" style="line-height:9.0pt"> <span style="font-size:8.0pt">or</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251630080"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image006.gif">   <img width="12" height="14" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image008.gif">   <img width="12" height="13" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image009.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="22"> <span style="position:absolute;z-index:251634176"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:.25pt .25pt .25pt .25pt"> <p class="MsoNormal"> <span style="font-size:8.0pt">(2)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
+    <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251627008"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">either</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image010.gif">  By placing the single figure 1 in one and only one of these squares to indicate the voting ticket you wish to adopt as your vote</div>
   </td>
   <td>
     <div>A</div>
@@ -13873,7 +13600,7 @@ FORM E
 <tr>
   <td colspan="2">
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251659776"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251628032"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251678208"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="12" height="11" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image011.gif">   <img width="14" height="14" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image012.gif">   <table cellpadding="0" cellspacing="0"> <tr> <td height="28" bgcolor="white"> <span style="position:absolute; z-index:251628032"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.5pt 2.5pt 2.5pt 2.5pt"> <p class="MsoNormal"> <b> <i> <span style="font-size:12.0pt">or</span> </i> </b> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251678208"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251677184"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (4)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251676160"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251675136"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
@@ -13890,7 +13617,7 @@ FORM E
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251663872"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251662848"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
 (3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251661824"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal" style="line-height:8.0pt"> <span style="font-size:8.0pt">(1) 
-(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
+(3)</span> </p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image013.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image014.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image015.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image016.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image017.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image018.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image017.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image019.gif">   <img width="21" height="22" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image020.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image019.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image016.gif">   <img width="22" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image021.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image022.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image023.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image025.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image024.gif">   <img width="21" height="21" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image023.gif">  By placing the numbers 1 to (7) in the order of your preference</div>
   </td>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="35"> <span style="position:absolute;z-index:251660800"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal"> </p> </div> </td> </tr> </table> </span> </td> </tr> </table> </div>
@@ -13954,7 +13681,7 @@ FORM F
 
 <tr>
   <td colspan="2">
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image026.gif">  BALLOT PAPER</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image005.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image026.gif">  BALLOT PAPER</div>
     <div>HOUSE OF REPRESENTATIVES</div>
     <div>\[ <i>here insert name of State or Territory as appropriate</i>]</div>
     <div>Electoral Division of \[ <i>here insert name of Division</i>].</div>
@@ -13965,7 +13692,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251688448"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image027.gif"> </div>
   </td>
   <td>
     <div>\[1 <i> Here insert name of a candidate</i> </div>
@@ -13975,7 +13702,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251689472"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image028.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image028.gif"> </div>
   </td>
   <td>
     <div><i> party, composite name of registered political parties </i></div>
@@ -13985,7 +13712,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251690496"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -13994,7 +13721,7 @@ FORM F
 <tr>
   <td>
     <div> <table cellpadding="0" cellspacing="0"> <tr> <td height="44"> <span style="position:absolute;z-index:251684352"> <table cellpadding="0" cellspacing="0" width="100%"> <tr> <td> <div style="padding:2.25pt 2.25pt 2.25pt 2.25pt"> <p class="MsoNormal">1 
-2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2012C00581/Html/f6d3e228-be75-4198-9576-870b279f82c5_files/image027.gif"> </div>
+2</p> </div> </td> </tr> </table> </span> </td> </tr> </table>   <img width="11" height="12" src="http://www.comlaw.gov.au/Details/C2012C00305/Html/25c273cb-6d7d-4f3b-807a-6229abe4192b_files/image027.gif"> </div>
   </td>
   <td>
     <div></div>
@@ -14126,83 +13853,77 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
               9.  The DRO shall seal up in a parcel the envelopes that do not meet the requirements of paragraph 6 and shall write on the parcel a description of its contents, the name of the Division and the date of commencement of the preliminary scrutiny.
 
-            10.  If the preliminary scrutiny relates to a Senate election held concurrently with a House of Representatives election or a Senate election held alone, the DRO must divide the envelopes that meet the requirements of paragraph 6 into groups as follows:
+            10.  If the preliminary scrutiny relates to a Senate election held concurrently with a House of Representatives election or a Senate election held alone, the DRO shall divide the envelopes that meet the requirements of paragraph 6 into groups as follows:
 
-                     (a)  in one group:
+                     (a)  in one group, the envelopes bearing certificates or declarations by persons who are enrolled for the Division or whose claims for enrolment are claims to which subsection 102(5) of the Act applies;
 
-                              (i)  the envelopes bearing certificates or declarations by persons who are enrolled for the Division or whose claims for enrolment are claims to which subsection 102(5) of the Act applies; and
+                     (b)  in another group the envelopes to which paragraph 12 applies;
 
-                             (ii)  the envelopes to which paragraph 12 applies and that bear certificates or declarations by persons who, at the time of the omission referred to in that paragraph, were living at an address in the Division;
+                     (c)  in another group, the envelopes bearing certificates or declarations by persons who are not enrolled for the Division but are enrolled for the State or Territory in which the Division is situated;
 
-                     (b)  in another group:
+                     (d)  in another group, the envelopes bearing certificates or declarations by persons who are not enrolled for the Division or for the State or Territory in which the Division is situated.
 
-                              (i)  the envelopes bearing certificates or declarations by persons who are not enrolled for the Division but are enrolled for the State or Territory in which the Division is situated; and
+            11.  If the preliminary scrutiny relates to a House of Representatives election not held concurrently with a Senate election, the DRO shall divide the envelopes that meet the requirements of paragraph 6 into groups as follows: 
 
-                             (ii)  the envelopes to which paragraph 12 applies and that bear certificates or declarations by persons who, at the time of the omission referred to in that paragraph, were not living at an address in the Division but were living at an address in the State or Territory in which the Division is situated;
+                     (a)  in one group, the envelopes bearing certificates or declarations by persons who are enrolled for the Division or whose claims for enrolment are claims to which subsection 102(5) of the Act applies; 
 
-                     (c)  in another group, all the other envelopes.
+                     (b)  in another group, the envelopes to which paragraph 12 applies; 
 
-            11.  If the preliminary scrutiny relates to a House of Representatives election not held concurrently with a Senate election, the DRO must divide the envelopes that meet the requirements of paragraph 6 into groups as follows:
+                     (c)  in another group, the envelopes bearing certificates or declarations by persons who are not enrolled for the Division. 
 
-                     (a)  in one group:
+            12.  This paragraph applies to an envelope if the DRO is satisfied: 
 
-                              (i)  the envelopes bearing certificates or declarations by persons who are enrolled for the Division or whose claims for enrolment are claims to which subsection 102(5) of the Act applies; and
+                     (a)  that the elector who signed a certificate or declaration on the envelope is not enrolled for the Division; and 
 
-                             (ii)  the envelopes to which paragraph 12 applies and that bear certificates or declarations by persons who, at the time of the omission referred to in that paragraph, were living at an address in the Division;
+                     (b)  after making enquiry: 
 
-                     (b)  in another group, all the other envelopes.
+                              (i)  that the elector was, at the time of voting, entitled to be enrolled for the Division; and 
 
-            12.  This paragraph applies to an envelope if the DRO is satisfied:
+                             (ii)  that the omission of the elector’s name from the Roll for the Division was due to an error made by an officer or to a mistake of fact; and
 
-                     (a)  that the elector who signed a certificate or declaration on the envelope is not enrolled for the Division; and
+                            (iii)  that the omission was not attributable to subsection 118(4A).
 
-                     (b)  after making enquiry:
+            13.  Subparagraph 12(b) does not apply if: 
 
-                              (i)  that the elector was, at the time of voting, entitled to be enrolled for the Division; and
+                     (a)  more than one election (excluding the election to which the scrutiny relates) has been held since the error or mistake was made; or 
 
-                             (ii)  that the omission of the elector’s name from the Roll for the Division was due to an error made by an officer or to a mistake of fact.
+                     (b)  where there has been a redistribution of the State or Territory that includes the Division since the last election but one before the election to which the scrutiny relates, the error or mistake was made before the last such redistribution. 
 
-            13.  Subparagraph 12(b) does not apply if:
+            14.  In paragraph 13, **_election_** means: 
 
-                     (a)  more than one election (excluding the election to which the scrutiny relates) has been held since the error or mistake was made; or
+                     (a)  a general election for the House of Representatives; 
 
-                     (b)  where there has been a redistribution of the State or Territory that includes the Division since the last election but one before the election to which the scrutiny relates, the error or mistake was made before the last such redistribution.
+                     (b)  a Senate election not held concurrently with a general election for the House of Representatives; or 
 
-            14.  In paragraph 13, **_election_** means:
+                     (c)  a referendum not held concurrently with a general election. 
 
-                     (a)  a general election for the House of Representatives;
+            15.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 23 and 25, exclude from further scrutiny the ballot papers contained in envelopes referred to in subparagraphs 10(d) and 11(c). 
 
-                     (b)  a Senate election not held concurrently with a general election for the House of Representatives; or
+            16.  The DRO shall seal up in a parcel the envelopes referred to in subparagraphs 10(d) and 11(c) and shall write on the parcel a description of the contents, the name of the Division and the date.
 
-                     (c)  a referendum not held concurrently with a general election.
+            17.  The DRO shall, after the close of the poll for the Division, without unfolding or inspecting them or allowing any other person to do so, withdraw the ballot papers from the envelopes referred to in paragraph 10 or 11 that still remain in the preliminary scrutiny. 
 
-            15.  The DRO shall, without opening the envelopes, subject to the operation of paragraphs 23 and 25, exclude from further scrutiny the ballot papers contained in envelopes referred to in subparagraphs 10(c) and 11(b).
+            18.  Ballot papers withdrawn from envelopes referred to in subparagraph 10(a) or (b) or 11(a) or (b) shall be placed in a ballot‑box by themselves for further scrutiny. 
 
-            16.  The DRO shall seal up in a parcel the envelopes referred to in subparagraphs 10(c) and 11(b) and shall write on the parcel a description of the contents, the name of the Division and the date.
+            19.  A ballot paper for a Senate election withdrawn from an envelope referred to in subparagraph 10(c) shall be placed in the ballot‑box referred to in paragraph 18 for further scrutiny. A ballot paper for a House of Representatives election withdrawn from such an envelope shall be excluded from further scrutiny. 
 
-            17.  The DRO shall, after the close of the poll for the Division, without unfolding or inspecting them or allowing any other person to do so, withdraw the ballot papers from the envelopes referred to in paragraph 10 or 11 that still remain in the preliminary scrutiny.
+            20.  The DRO shall seal up in a parcel ballot papers excluded under paragraph 19 and shall write on the parcel a description of its contents, the name of the Division and the date. 
 
-            18.  Ballot papers withdrawn from envelopes referred to in subparagraph 10(a) or 11(a) shall be placed in a ballot‑box by themselves for further scrutiny.
+            21.  Where a ballot paper has been finally excluded from further scrutiny, other than because of subparagraph 6A(b), the DRO shall send to the voter a written statement of the reason for the rejection. 
 
-            19.  A ballot paper for a Senate election withdrawn from an envelope referred to in subparagraph 10(b) shall be placed in the ballot‑box referred to in paragraph 18 for further scrutiny. A ballot paper for a House of Representatives election withdrawn from such an envelope shall be excluded from further scrutiny.
+            22.  For the purposes of paragraph 17, an envelope that contains a ballot paper for a referendum shall be dealt with as if it did not contain that ballot paper. 
 
-            20.  The DRO shall seal up in a parcel ballot papers excluded under paragraph 19 and shall write on the parcel a description of its contents, the name of the Division and the date.
+            23.  In the course of a preliminary scrutiny of declaration votes, the DRO, as soon as practicable after the ballot papers that are required, under that scrutiny, to be placed in a ballot‑box under paragraph 18 or 19 are so placed, but not before the close of the poll for the Division, must: 
 
-            21.  Where a ballot paper has been finally excluded from further scrutiny, other than because of subparagraph 6A(b), the DRO shall send to the voter a written statement of the reason for the rejection.
+                     (a)  open the parcel of envelopes that contains the ballot papers that are, under paragraph 5 and subject to the operation of this paragraph and paragraph 24, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 24; and 
 
-            22.  For the purposes of paragraph 17, an envelope that contains a ballot paper for a referendum shall be dealt with as if it did not contain that ballot paper.
+                     (b)  open the parcel of envelopes that contains the ballot papers that are, under paragraph 15 and subject to the operation of this paragraph and paragraph 25, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 25\. 
 
-            23.  In the course of a preliminary scrutiny of declaration votes, the DRO, as soon as practicable after the ballot papers that are required, under that scrutiny, to be placed in a ballot‑box under paragraph 18 or 19 are so placed, but not before the close of the poll for the Division, must:
+            24.  For the purpose of dealing further with declaration votes referred to in subparagraph 23(a), paragraphs 3 to 22, inclusive, reapply in relation to those votes as if: 
 
-                     (a)  open the parcel of envelopes that contains the ballot papers that are, under paragraph 5 and subject to the operation of this paragraph and paragraph 24, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 24; and
+                     (a)  the words “subject to the operation of paragraphs 23 and 24,” were omitted from paragraph 5; and 
 
-                     (b)  open the parcel of envelopes that contains the ballot papers that are, under paragraph 15 and subject to the operation of this paragraph and paragraph 25, excluded from scrutiny, and deal further with those declaration votes in accordance with paragraph 25.
-
-            24.  For the purpose of dealing further with declaration votes referred to in subparagraph 23(a), paragraphs 3 to 22, inclusive, reapply in relation to those votes as if:
-
-                     (a)  the words “subject to the operation of paragraphs 23 and 24,” were omitted from paragraph 5; and
-
-                     (b)  the words “subject to the operation of paragraphs 23 and 25,” were omitted from paragraph 15.
+                     (b)  the words “subject to the operation of paragraphs 23 and 25,” were omitted from paragraph 15\. 
 
             25.  For the purpose of dealing further with declaration votes referred to in subparagraph 23(b), paragraphs 10 to 22, inclusive, reapply in relation to those votes as if the words “subject to the operation of paragraphs 23 and 25,” were omitted from paragraph 15.
 
@@ -14210,7 +13931,7 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
 ### Note 1
 
-The _Commonwealth Electoral Act 1918_ as shown in this compilation comprises Act No. 27, 1918 amended as indicated in the Tables below.
+The _Commonwealth Electoral Act 1918_ as shown in this compilation comprises Act No. 27, 1918 amended as indicated in the Tables below. 
 
 The _Commonwealth Electoral Act 1918_ was amended by the _Electoral and Referendum Regulations 1940_ (as amended). The amendments are incorporated in this compilation. For application, saving or transitional provisions relating to these amendments _see_ subregulation 3.1 of Statutory Rules 1995 No. 21.
 
@@ -16346,41 +16067,6 @@ Schedule 6 (items 1, 3–10, 21, 22): 14 Jan 2011</div>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Electoral and Referendum Amendment (Maintaining Address) Act 2012</div>
-  </td>
-  <td>
-    <div>110, 2012</div>
-  </td>
-  <td>
-    <div>24 July 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 and Schedule 2 (items 1–15): 25 July 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Electoral and Referendum Amendment (Protecting Elector Participation) Act 2012</div>
-  </td>
-  <td>
-    <div>111, 2012</div>
-  </td>
-  <td>
-    <div>24 July 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–16): <i>(zb) 
- </i>Schedule 2 (items 1–6): 25 July 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Section 3 of the _Commonwealth Electoral Act 1946_ provides as follows:
@@ -17038,74 +16724,6 @@ _(za)_ Subsection 2(1) (item 4) of the _Electoral and Referendum Amendment (Mode
   </td>
 </tr></table>
 
-_(zb)_ Subsection 2(1) (item 2) of the _Electoral and Referendum Amendment (Protecting Elector Participation) Act 2012_ provides as follows:
-
-(1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) the day after this Act receives the Royal Assent; and
-    </div>
-    <div>
-      (b) immediately after the commencement of Schedule 2 to the E
-        <i>lectoral and Referendum Amendment (Maintaining Address) Act 2012</i>.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all if the event mentioned
-        in paragraph (b) does not occur.
-    </div>
-  </td>
-  <td>
-    <div>
-      25 July 2012
-    </div>
-    <div>
-      (paragraph (b) applies)
-    </div>
-  </td>
-</tr></table>
-
 The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering by the _Commonwealth Electoral Legislation Amendment Act 1984_ (No. 45, 1984) appears in the Table below. For repealed provisions up to and including Act No. 45, 1984 _see_ the Repeal Table.
 
 ## Table of Amendments
@@ -17744,7 +17362,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 2010; No. 110, 2012</div>
+    <div>am. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -18792,7 +18410,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div>S. 87</div>
   </td>
   <td>
-    <div>am. No. 144, 1983; No. 109, 2010; Nos. 110 and 111, 2012</div>
+    <div>am. No. 144, 1983; No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -18992,7 +18610,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div>S. 92</div>
   </td>
   <td>
-    <div>am. No. 144, 1983 (as am. by No. 45, 1984); No. 166, 1995; No. 78, 2004; No. 65, 2006; No. 5, 2011; No. 110, 2012</div>
+    <div>am. No. 144, 1983 (as am. by No. 45, 1984); No. 166, 1995; No. 78, 2004; No. 65, 2006; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -19237,14 +18855,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div>Note to s. 98(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 98A</div>
   </td>
   <td>
@@ -19344,7 +18954,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div>S. 101</div>
   </td>
   <td>
-    <div>am. No. 26, 1961; No. 31, 1962; No. 48, 1965; No. 93, 1966; No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 121, 1992; No. 94, 1998; No. 109, 2001; No. 115, 2004; No. 109, 2010; Nos. 110 and 111, 2012</div>
+    <div>am. No. 26, 1961; No. 31, 1962; No. 48, 1965; No. 93, 1966; No. 144, 1983; No. 45, 1984; No. 35, 1987; No. 24, 1990; No. 121, 1992; No. 94, 1998; No. 109, 2001; No. 115, 2004; No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19413,22 +19023,6 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
 </tr>
 <tr>
   <td>
-    <div>S. 103A</div>
-  </td>
-  <td>
-    <div>ad. No. 110, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103B</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 104</div>
   </td>
   <td>
@@ -19440,7 +19034,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 115, 2004; No. 144, 2008; No. 109, 2010; No. 111, 2012</div>
+    <div>am. No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 115, 2004; No. 144, 2008; No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19448,7 +19042,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div>S. 105</div>
   </td>
   <td>
-    <div>am. No. 9, 1934; No. 19, 1940; No. 144, 1983; No. 24, 1990; No. 115, 2004; No. 65, 2006; No. 109, 2010; No. 111, 2012</div>
+    <div>am. No. 9, 1934; No. 19, 1940; No. 144, 1983; No. 24, 1990; No. 115, 2004; No. 65, 2006; No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19648,7 +19242,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1998; No. 115, 2004; No. 109, 2010; No. 110, 2012</div>
+    <div>am. No. 94, 1998; No. 115, 2004; No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19696,7 +19290,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 2010; No. 110, 2012</div>
+    <div>am. No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19736,7 +19330,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 94, 1998; No. 115, 2004; No. 65, 2006; No. 109, 2010; No. 29, 2011; No. 110, 2012</div>
+    <div>am. No. 167, 1991; No. 94, 1998; No. 115, 2004; No. 65, 2006; No. 109, 2010; No. 29, 2011</div>
   </td>
 </tr>
 <tr>
@@ -19792,7 +19386,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 34, 2001; No. 78, 2004; No. 109, 2010 (as am. by No. 5, 2011); No. 110, 2010; Nos. 110 and 111, 2012</div>
+    <div>am. No. 24, 1990; No. 167, 1991; No. 219, 1992; No. 34, 2001; No. 78, 2004; No. 109, 2010 (as am. by No. 5, 2011); No. 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19808,7 +19402,7 @@ The amendment history of the _Commonwealth Electoral Act 1918_ after renumbering
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1998; No. 34, 2001; No. 78, 2004; Nos. 109 and 110, 2010; Nos. 110 and 111, 2012</div>
+    <div>am. No. 94, 1998; No. 34, 2001; No. 78, 2004; Nos. 109 and 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -26127,15 +25721,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 219, 1992; Nos. 110 and 111, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 390(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2012</div>
+    <div>am. No. 24, 1990; No. 219, 1992</div>
   </td>
 </tr>
 <tr>
@@ -26151,15 +25737,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 8, 2010; Nos. 110 and 111, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 390A(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2012</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -26327,7 +25905,7 @@ rs. No. 65, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; No. 115, 2004; No. 65, 2006 (as am. by No. 73, 2008); Nos. 8 and 110, 2010; Nos. 29 and 37, 2011; No. 111, 2012</div>
+    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; No. 115, 2004; No. 65, 2006 (as am. by No. 73, 2008); Nos. 8 and 110, 2010; Nos. 29 and 37, 2011</div>
   </td>
 </tr></table>
 
@@ -26791,7 +26369,7 @@ http://www.austlii.edu.au/au/cases/cth/high_ct/2007/43.html
 
              (1)  The High Court of Australia has declared some provisions relating to electoral rolls and voting to be invalid, namely items 20, 24, 28, 41, 42, 43, 44, 45 and 52 of Schedule 1 to the _Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006_. Those provisions affected paragraph 94A(4)(a), subsections 95(4), 96(4) and 102(4), paragraph 102(4A)(a), subparagraph 102(4A)(b)(ii), subsection 102(4B), paragraphs 102(4B)(a) and (b) and section 155 of the _Commonwealth Electoral Act 1918_. For more information, see the High Court press release of 6 August 2010 as available online at:
 
-http://www.hcourt.gov.au/media/rowe.pdf 
+http://www.hcourt.gov.au/media/rowe.pdf
 
              (2)  Sections 94A, 95, 96, 102 and 155 of the _Commonwealth Electoral Act 1918_ were subsequently amended by the _Electoral and Referendum Amendment (Enrolment and Prisoner Voting) Act 2011_, which commenced on 25 May 2011.
 
@@ -26849,7 +26427,7 @@ the political party is taken not to be an eligible political party.
 
 * * *
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
 ## Schedule 2
 
@@ -27346,7 +26924,7 @@ The amendments made by this Schedule apply in relation to claims and application
 
 The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
 
-## 108  Transitional
+## 108  Transitional
 
 (1)       Despite the amendment made by item 1, the definition of **_officer_** in subsection 4(1) of the _Commonwealth Electoral Act 1918_, as in force immediately before the commencement of that item, continues to apply on and after that commencement for the purposes of section 323 of that Act.
 
@@ -27386,7 +26964,7 @@ The amendments made by items 1 and 2 apply in relation to financial years endi
 
 * * *
 
-_Electoral and Referendum Amendment (Enrolment and Prisoner Voting) Act 2011 (No. 29, 2011)_
+_Electoral and Referendum Amendment (Enrolment and Prisoner Voting) Act 2011 (No. 29, 2011)_
 
 ## Schedule 1
 
