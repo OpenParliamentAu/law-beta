@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00245/Html/AlburyWodongaDevAct1973WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00516/Html/AlburyWodongaDevAct1973WD02_image001.gif)
 
 # Albury-Wodonga Development Act 1973
 
 **Act No. 189 of 1973 as amended**
 
-This compilation was prepared on 1 July 2009
+This compilation was prepared on 3 October 2008
  taking into account amendments up to Act No. 90 of 2008
 
 The text of any of those amendments not in force
@@ -52,6 +52,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Nature of Corporation
 
+[9A](#9A).         _Commonwealth Authorities and Companies Act 1997_ does not apply to Corporation
+
 [10](#10).          Composition of Corporation
 
 [10A](#10A).       Appointment of chief executive officer
@@ -63,6 +65,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [14](#14).          Resignation of members
 
 [15](#15).          Dismissal of appointed members
+
+[16](#16).          Disclosure of interest by members
 
 [17](#17).          Condition of service—appointed member
 
@@ -104,7 +108,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [26](#26).          Borrowing by Corporation
 
+[27](#27).          Bank accounts
+
 [28](#28).          Application of moneys
+
+[30](#30).          Audit
 
 [31](#31).          Liability to taxation
 
@@ -113,6 +121,10 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [31A](#31A).       Delegation by Minister
 
 [31B](#31B).       Delegation by Finance Minister
+
+[32](#32).          Annual Report
+
+[33](#33).          Annual financial statement
 
 [34](#34).          Regulations
 
@@ -150,7 +162,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Corporation.
 
-                    <a name="chief-execut-offic"></a>**_chief executive officer_** means the person appointed under section 10A.
+                    <a name="chief-execut-offic"></a>**_chief executive officer_** means the highest ranked member of the staff of the Corporation, however designated.
 
                     <a name="corpor"></a>**_Corporation_** means the Corporation established by this Act.
 
@@ -202,7 +214,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  the _Acts Interpretation Act 1901_; or
 
-                     (b)  the _Legislative Instruments Act 2003_.
+                     (b)  the _Legislative Instruments Act 2000_.
 
 ##### <a id="5B"></a>5B  Approval of winding-up agreement
 
@@ -294,7 +306,7 @@ does not, by implication:
 
 ##### <a id="8A"></a>8A  Chief executive officer’s function
 
-                   The chief executive officer is responsible for the day-to-day management of the Corporation’s affairs.
+                   The chief executive officer is responsible for the day-to-day management of the Corporation’s affairs.
 
 ## Part IV—Constitution and meetings of the Corporation
 
@@ -310,9 +322,11 @@ does not, by implication:
 
                      (d)  may sue and be sued in its corporate name.
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and the conduct of officers.
-
              (2)  All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Corporation affixed to a document and shall presume that it was duly affixed.
+
+##### <a id="9A"></a>9A  _Commonwealth Authorities and Companies Act 1997_ does not apply to Corporation
+
+                   The Corporation is not a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
 
 ##### <a id="10"></a>10  Composition of Corporation
 
@@ -376,9 +390,33 @@ unless he or she appears to the Minister to be qualified for appointment because
 
                              (ii)  participates or claims to participate in the profits of any such contract or in any benefit arising from any such contract; or
 
-                     (g)  fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
+                     (g)  fails to comply with section 16;
 
 the Governor-General shall terminate the appointment of the member.
+
+##### <a id="16"></a>16  Disclosure of interest by members
+
+             (1)  Without limiting paragraph 15(2)(f), a member who is directly or indirectly interested in:
+
+                     (a)  a contract made or proposed to be made by the Corporation;
+
+                     (b)  land in the Albury-Wodonga region; or
+
+                     (c)  an existing or proposed project of the Corporation;
+
+shall, as soon as possible after the relevant facts have come to his or her knowledge, disclose the nature of his or her interest at a meeting of the Corporation.
+
+             (2)  Without limiting paragraph 15(2)(f), a disclosure under subsection (1) shall be recorded in the minutes of the Corporation, and, unless the Minister otherwise directs, the member:
+
+                     (a)  shall not take part after the disclosure in any deliberation or decision of the Corporation relating to the contract, land or project, as the case requires; and
+
+                     (b)  shall be disregarded for the purpose of constituting the quorum for any such deliberation or decision.
+
+             (3)  A member who fails to comply with subsection (1) or paragraph (2)(a) is guilty of an offence and is punishable, upon conviction, by a fine not exceeding $500.
+
+             (4)  An offence under subsection (3) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
 ##### <a id="17"></a>17  Condition of service—appointed member
 
@@ -646,7 +684,7 @@ the Commonwealth is liable to pay compensation of a reasonable amount to the per
 
              (2)  The terms and conditions of service or employment (in respect of matters not provided for by this Act) of persons so appointed or engaged are such as are determined by the Corporation.
 
-             (3)  The Corporation may arrange with an Agency Head (within the meaning of the _Public Service Act 1999_), or with a body established by an Act, for the services of officers or employees of the Agency or of the body to be made available to the Corporation.
+             (3)  The Corporation may arrange with an Agency Head (within the meaning of the _Public Service Act 1999_, or with a body established by an Act, for the services of officers or employees of the Agency or of the body to be made available to the Corporation.
 
              (4)  The Governor-General may enter into an arrangement with the Governor of a State for the services of officers or employees of the Public Service of the State or of an authority of the State to be made available to the Corporation.
 
@@ -678,15 +716,51 @@ the Commonwealth is liable to pay compensation of a reasonable amount to the per
 
              (3)  The Finance Minister may, on behalf of the Commonwealth, guarantee the repayment of amounts borrowed in accordance with paragraph (1)(b) and the payment of interest on amounts so borrowed.
 
+##### <a id="27"></a>27  Bank accounts
+
+             (1)  The Corporation may open and maintain an account or accounts with an approved bank or approved banks and shall maintain at all times at least one such account.
+
+             (2)  The Corporation shall pay all moneys of the Corporation, including moneys borrowed by the Corporation, into an account referred to in subsection (1).
+
 ##### <a id="28"></a>28  Application of moneys
 
-                   The moneys of the Corporation may be applied by the Corporation:
+             (1)  The moneys of the Corporation may be applied by the Corporation:
 
                      (a)  in payment or discharge of the costs, expenses and other obligations of the Corporation under this Act (including the Winding-up Agreement); or
 
                      (b)  in payment of any remuneration or allowances payable to any person under this Act (including the Winding-up Agreement);
 
 but not otherwise.
+
+             (2)  Moneys of the Corporation not immediately required for the purposes of the Corporation may be invested:
+
+                     (a)  on fixed deposit with an approved bank;
+
+                     (b)  in securities of the Commonwealth; or
+
+                     (c)  in any other manner approved by the Finance Minister;
+
+but not otherwise.
+
+##### <a id="30"></a>30  Audit
+
+             (1)  The Auditor-General shall inspect and audit the accounts and records of financial transactions of the Corporation and records relating to assets of, or in the custody of, the Corporation and shall forthwith draw the attention of the Minister to any irregularity disclosed by the inspection and audit that is, in the opinion of the Auditor-General, of sufficient importance to justify his or her so doing.
+
+             (2)  The Auditor-General may dispense with all or any part of the detailed inspection and audit of any accounts or records referred to in subsection (1).
+
+             (3)  The Auditor-General shall, at least once in each year, report to the Minister the results of the inspection and audit carried out under subsection (1).
+
+             (5)  The Auditor-General or a person authorized by the Auditor-General is entitled at all reasonable times to full and free access to all accounts, records, documents and papers of the Corporation relating directly or indirectly to the receipt or payment of moneys by the Corporation or to the acquisition, receipt, custody or disposal of assets by the Corporation.
+
+             (6)  The Auditor-General or a person authorized by the Auditor-General may make copies of, or take extracts from, any such accounts, records, documents or papers.
+
+             (7)  The Auditor-General or a person authorized by the Auditor-General may require any person to provide such information in the possession of the person or to which the person has access as the Auditor-General or authorized person considers necessary for the purposes of the functions of the Auditor-General under this Act, and the person shall comply with the requirement.
+
+             (8)  A person who contravenes subsection (7) is guilty of an offence punishable, upon conviction, by a fine not exceeding $200.
+
+             (9)  An offence under subsection (8) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
 ##### <a id="31"></a>31  Liability to taxation
 
@@ -702,6 +776,8 @@ but not otherwise.
 
                      (a)  the Secretary to the Department; or
 
+                     (b)  a person holding or performing the duties of a Senior Executive Service office (within the meaning of the _Public Service Act 1922_); or
+
                      (c)  an SES employee or acting SES employee;
 
 all or any of the Minister’s powers under this Act (other than section 5A).
@@ -710,9 +786,29 @@ all or any of the Minister’s powers under this Act (other than section 5A).
 
 ##### <a id="31B"></a>31B  Delegation by Finance Minister
 
-             (1)  The Finance Minister may, by written instrument, delegate any of the Finance Minister’s powers or functions under section 3 (definition of **_approved bank_**) or 26 to an official (within the meaning of the _Financial Management and Accountability Act 1997_).
+             (1)  The Finance Minister may, by written instrument, delegate any of the Finance Minister’s powers or functions under section 3 (definition of **_approved bank_**), 26 or 28 to an official (within the meaning of the _Financial Management and Accountability Act 1997_).
 
              (2)  In exercising powers or functions under a delegation, the official must comply with any directions of the Finance Minister.
+
+##### <a id="32"></a>32  Annual Report
+
+                   The Corporation shall, as soon as practicable after each financial year:
+
+                     (a)  prepare a report, in the form approved by the Finance Minister, of the Corporation’s operations during that year together with financial statements in respect of that year; and
+
+                     (b)  submit a copy of the report and the financial statements to the Minister, for presentation to the Parliament.
+
+##### <a id="33"></a>33  Annual financial statement
+
+                   Before furnishing the Corporation’s financial statements to the Minister, the Corporation shall submit them to the Auditor-General, who shall report to the Minister:
+
+                     (a)  whether the statements are based on proper accounts and records;
+
+                     (b)  whether the statements are in agreement with the accounts and records;
+
+                     (c)  whether the receipt, expenditure and investment of moneys, and the acquisition and disposal of assets, by the Corporation during the relevant year have been in accordance with this Act; and
+
+                     (d)  such other matters arising out of the statements as the Auditor-General considers should be reported to the Minister.
 
 ##### <a id="34"></a>34  Regulations
 
@@ -987,7 +1083,7 @@ Remainder: 17 Feb 1992 ( <i>see Gazette</i>1992, No. S48)</div>
     <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
   </td>
   <td>
-    <div>152, 1997</div>
+    <div>152, 19971</div>
   </td>
   <td>
     <div>24 Oct 1997</div>
@@ -1098,7 +1194,7 @@ Remainder: Royal Assent</div>
       <div>20 Sept 2008</div>
     </td>
     <td>
-      <div>Schedule 1 (items 1–14, 67): 1 July 2009</div>
+      <div>Schedule 1 (items 1–14, 67): \[ <i>see</i>Note 2 and Table A]</div>
     </td>
     <td>
       <div>Sch. 1 (item 67) \[ <i>see</i>Table A]</div>
@@ -1178,7 +1274,7 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 96, 1979; No. 60, 1991; No. 146, 1999; No. 46, 2000; No. 8, 2005; No. 90, 2008</div>
+    <div>am. No. 96, 1979; No. 60, 1991; No. 146, 1999; No. 46, 2000; No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1231,23 +1327,7 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
 </tr>
 <tr>
   <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 5B–5D</div>
+    <div>Ss. 5A–5D</div>
   </td>
   <td>
     <div>ad. No. 46, 2000</div>
@@ -1343,26 +1423,10 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
 </tr>
 <tr>
   <td>
-    <div>Note to s. 9(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 9A</div>
   </td>
   <td>
     <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 90, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1434,7 +1498,7 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. No. 96, 1979; No. 60, 1991 (as am. by No. 43, 1996); No. 46, 2000; No. 90, 2008</div>
+    <div>am. No. 96, 1979; No. 60, 1991 (as am. by No. 43, 1996); No. 46, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1443,14 +1507,6 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
   </td>
   <td>
     <div>am. No. 96, 1979; No. 60, 1991 (as am. by No. 43, 1996); No. 46, 2000; No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 90, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1546,7 +1602,7 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 63, 1984; No. 199, 1991; No. 146, 1999; No. 46, 2000; No. 90, 2008</div>
+    <div>am. No. 63, 1984; No. 199, 1991; No. 146, 1999; No. 46, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1607,18 +1663,10 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
 </tr>
 <tr>
   <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>rep. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 96, 1979; No. 46, 2000; No. 8, 2005; No. 90, 2008</div>
+    <div>am. No. 96, 1979; No. 46, 2000; No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1635,14 +1683,6 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
   </td>
   <td>
     <div>am. No. 60, 1991; No. 46, 2000; No. 143, 2001; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 90, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1671,26 +1711,10 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 31B</div>
   </td>
   <td>
     <div>ad. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1703,26 +1727,10 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 33</div>
   </td>
   <td>
     <div>am. No. 60, 1991; No. 46, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 90, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1798,6 +1806,76 @@ _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Sched
   </td>
 </tr></table>
 
+### Note 2
+
+_Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
+
+The following amendments commence on 1 July 2009:
+
+## Schedule 1
+
+## 1  Subsection 3(1) (definition of _chief executive officer_)
+
+Omit “highest ranked member of the staff of the Corporation, however designated”, substitute “person appointed under section 10A”.
+
+## 2  Paragraph 5A(5)(b)
+
+Omit “_Legislative Instruments Act 2000_”, substitute “_Legislative Instruments Act 2003_”.
+
+## 3  At the end of subsection 9(1)
+
+Add:
+
+Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and the conduct of officers.
+
+## 4  Section 9A
+
+Repeal the section.
+
+## 5  Paragraph 15(2)(g)
+
+Repeal the paragraph, substitute:
+
+                     (g)  fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
+
+## 6  Section 16
+
+Repeal the section.
+
+## 7  Subsection 21(3)
+
+After “_Public Service Act 1999_”, insert “)”.
+
+## 8  Section 27
+
+Repeal the section.
+
+## 9  Subsection 28(1)
+
+Omit “(1)”.
+
+## 10  Subsection 28(2)
+
+Repeal the subsection.
+
+## 11  Section 30
+
+Repeal the section.
+
+## 12  Paragraph 31A(1)(b)
+
+Repeal the paragraph.
+
+## 13  Subsection 31B(1)
+
+Omit “, 26 or 28”, substitute “or 26”.
+
+## 14  Sections 32 and 33
+
+Repeal the sections.
+
+As at 3 October 2008 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1818,7 +1896,7 @@ Despite the repeal of subsection 10(7) of the _Albury-Wodonga Development Act 19
 
 To avoid doubt, the amendments of the _Albury-Wodonga Development Act 1973_ made by this Schedule do not affect the continuity of anything done under section 10A of that Act before the commencement of this item.
 
-## 68  Transitional—section 17 of the _Albury-Wodonga Development Act 1973_
+## 68  Transitional—section 17 of the _Albury-Wodonga Development Act 1973_
 
 (1)        This item applies to a determination that was in force under section 17 of the _Albury-Wodonga Development Act 1973_ immediately before the commencement of this item.
 
@@ -1875,6 +1953,8 @@ continues to have effect after the commencing time as if it had been done by the
 * * *
 
 _Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
+
+The following provision commences on 1 July 2009:
 
 ## Schedule 1
 
