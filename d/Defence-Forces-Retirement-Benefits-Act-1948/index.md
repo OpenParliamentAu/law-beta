@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00611/Html/DefenceForRetBen1948_WD02_image001.gif)
 
 # Defence Forces Retirement Benefits Act 1948
 
 **Act No. 31 of 1948 as amended**
 
-This compilation was prepared on 1 January 2009
- taking into account amendments up to Act No. 134 of 2008
+This compilation was prepared on 4 October 2007
+ taking into account amendments up to Act No. 165 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -91,12 +91,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [63](#63).          Payment of pensions etc  otherwise than to person entitled
 
 [64](#64).          Special grant of pension
-
-[64AA](#64AA).    Special grant of pension where spouse pension would be payable
-
-[64AB](#64AB).    Special grant of pension where child’s pension would be payable to eligible child
-
-[64AC](#64AC).    Special grant of pension where child’s pension would be payable to eligible orphan
 
 [64A](#64A).       Restoration of pensions for remarried widows and widowers
 
@@ -410,9 +404,9 @@ and any such period shall be deemed to be a period of service.
 
              (2)  The category number of a member is:
 
-                     (a)  if the annual pay of the member is less than the prescribed amount—the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image002.gif), where A is the number of dollars in his annual pay or, if the number of dollars in his annual pay is not a multiple of 130, the next lower number that is such a multiple; and
+                     (a)  if the annual pay of the member is less than the prescribed amount—the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2007C00611/Html/DefenceForRetBen1948_WD02_image002.gif), where A is the number of dollars in his annual pay or, if the number of dollars in his annual pay is not a multiple of 130, the next lower number that is such a multiple; and
 
-                     (b)  in any other case—the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image003.gif), where:
+                     (b)  in any other case—the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2007C00611/Html/DefenceForRetBen1948_WD02_image003.gif), where:
 
                                **_B_**  is the number of dollars in the prescribed amount; and
 
@@ -524,7 +518,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                              (ii)  retires with the approval of the Service Board before, but within 3 years of, attaining the retiring age for the rank held by him, being a rank the retiring age for which is an age not greater than 55 years;
 
-                            and the Board is satisfied that the purpose of the retirement is to enable him to establish himself in civil employment and approves payment of pension under this section to him;
+                            and the Board is satisfied that the purpose of the retirement is to enable him to establish himself in civil employment and approves payment of pension under this section to him;
 
 the officer is entitled, on his retirement, to a pension in accordance with the succeeding provisions of this section.
 
@@ -918,7 +912,7 @@ the retiring age for the rank held by him on his retirement shall, for the purpo
 
              (2)  Subject to subsection (3), on the death of the widow, there shall be payable in respect of each child of the widow who is an eligible child (other than a child born after the death of the member unless the child is also the child of the member), and in respect of each child of the member who is an eligible child, a pension at the rate $5,000 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one-eighth of the rate at which pension payable under paragraph (1)(a) would, but for her death, have been payable to the widow.
 
-             (3)  Where the number of children in respect of whom pensions are payable under subsection (2) because of the widow’s death is such that the sum of the rates of all the pensions so payable exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image004.gif) of the rate at which pension payable under paragraph (1)(a) would, but for her death, have been payable to her, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (2), a pension at the rate calculated by dividing the number of children into the rate exceeded.
+             (3)  Where the number of children in respect of whom pensions are payable under subsection (2) because of the widow’s death is such that the sum of the rates of all the pensions so payable exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2007C00611/Html/DefenceForRetBen1948_WD02_image004.gif) of the rate at which pension payable under paragraph (1)(a) would, but for her death, have been payable to her, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (2), a pension at the rate calculated by dividing the number of children into the rate exceeded.
 
              (4)  Pension is not payable under this section in respect of a member who, at the time of his death, was an employee for the purposes of the _Superannuation Act 1922-1968_ whose liability to make contributions to the Superannuation Fund was deferred by virtue of section 35A of that Act or was a person whose entitlement to a pension under that Act was suspended by force of subsection 48C(1) of that Act.
 
@@ -970,7 +964,7 @@ pension is payable to his widow at the rate or rates at which, under section 5
 
              (4)  Subject to subsection (5), on the death of a widow to whom this section applies, there shall be payable in respect of each child of the widow who is an eligible child (other than a child born after the death of the pensioner unless the child is also the child of the pensioner), and in respect of each child of the male pensioner who is an eligible child, a pension at the rate of $5,000 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one-eighth of the rate at which pension payable under paragraph (1)(a), or under subsection (3), as the case may be would, but for her death, have been payable to the widow.
 
-             (5)  Where the number of children in respect of whom pensions are payable under subsection (4) because of the widow’s death is such that the sum of the rates of all the pensions exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image004.gif) of the rate at which pension payable under paragraph (1)(a) or subsection (3), as the case requires, would, but for her death, have been payable to her, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (4), a pension calculated by dividing the number of children into the rate exceeded.
+             (5)  Where the number of children in respect of whom pensions are payable under subsection (4) because of the widow’s death is such that the sum of the rates of all the pensions exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2007C00611/Html/DefenceForRetBen1948_WD02_image004.gif) of the rate at which pension payable under paragraph (1)(a) or subsection (3), as the case requires, would, but for her death, have been payable to her, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (4), a pension calculated by dividing the number of children into the rate exceeded.
 
 ##### <a id="57A"></a>57A  Set off against widow’s pension in certain circumstances
 
@@ -992,7 +986,7 @@ then, in spite of any other law:
 
              (1)  Subject to subsection (1A), where the wife of a member who is a contributor or of a male pensioner is dead or divorced and the member or pensioner dies leaving children of himself or of his wife who are eligible children and who were dependent upon him at the time of his death, pension payable under this Act in respect of each child shall be a pension at the rate of $5,000 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one-eighth of the rate at which pension payable under paragraph 55(1)(a), or pension payable under paragraph 57(1)(a), or under subsection 57(3), as the case may be, would, but for her death or divorce, have been payable to the widow.
 
-          (1A)  Where the number of children in respect of whom pensions are payable under subsection (1) because of the death of the member or pensioner is such that the sum of the rates of all the pensions so payable exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image004.gif) of the rate at which pension payable under paragraph 55(1)(a) or 57(1)(a), or subsection 57(3), as the case requires, would, but for her death or divorce, have been payable to the widow, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (1), a pension at the rate calculated by dividing the number of children into the rate exceeded.
+          (1A)  Where the number of children in respect of whom pensions are payable under subsection (1) because of the death of the member or pensioner is such that the sum of the rates of all the pensions so payable exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2007C00611/Html/DefenceForRetBen1948_WD02_image004.gif) of the rate at which pension payable under paragraph 55(1)(a) or 57(1)(a), or subsection 57(3), as the case requires, would, but for her death or divorce, have been payable to the widow, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (1), a pension at the rate calculated by dividing the number of children into the rate exceeded.
 
           (1B)  In the application of subsection (1) in relation to a deceased male pensioner who remarried after he became a pensioner, the reference in that subsection to the wife of a pensioner shall be read as not including a reference to the person who became the wife of the pensioner on that remarriage.
 
@@ -1071,110 +1065,6 @@ his service before his retirement and his service after he again becomes a contr
            (12)  Where a pensioner dies on or after the commencing date and a pension is paid to a person, under section 57, as a widow of the pensioner, then, during the period that the pension continues to be paid, for the purpose of calculating the maximum rate of pension payable under subsection (1) to another person but not for the purpose of calculating the maximum rate of pension payable under subsection (2) or (3) to another person, this Act has effect as if the reference in paragraph 57(1)(a) to five-eighths were a reference to three-eighths.
 
            (13)  The grant by the Authority, under this section, of a pension to a person does not effect the entitlement of any other person under this Act to a pension that is payable otherwise than by virtue of a grant of a pension under this section or the rate of such a pension.
-
-##### <a id="64AA"></a>64AA  Special grant of pension where spouse pension would be payable
-
-             (1)  If, at any time after the day on which Schedule 3 to the _Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008_ commenced (the **_start day_**):
-
-                     (a)  a pension is not payable to a person under section 57 or 64 of this Act; and
-
-                     (b)  a pension benefit:
-
-                              (i)  is not payable to the person under Division 1 of Part VI of the _Defence Force Retirement and Death Benefits Act 1973_, as in force on the start day; but
-
-                             (ii)  would have been payable to the person under that Division if a deceased pensioner had been, at the time of his or her death, a recipient member under that Act;
-
-the Authority may grant, from a specified date, a pension to the person at a rate and on conditions that the Authority determines in writing, having regard to any matters prescribed and any other matters it considers relevant.
-
-             (2)  The Authority must not grant a pension to the person unless the Authority, having regard to any matters prescribed and any other matters it considers relevant, is satisfied that:
-
-                     (a)  the person is in necessitous circumstances; or
-
-                     (b)  the grant of the pension is otherwise warranted.
-
-             (3)  The specified date from which the pension is granted:
-
-                     (a)  must not be earlier than the start day; and
-
-                     (b)  unless the Authority is satisfied that special circumstances exist that justify an earlier date being specified, must not be earlier than the date the grant is made.
-
-             (4)  The rate of the pension must not exceed the rate at which pension would have been payable under this Act to the person from the specified date had the person been, at the date of death of the deceased pensioner, the widow of the deceased pensioner for the purposes of this Act.
-
-             (5)  If:
-
-                     (a)  a pension is paid to a person under section 57 of this Act as a widow of a pensioner; and
-
-                     (b)  the Authority grants a pension under this section to another person in respect of the pensioner;
-
-then, for the purpose of calculating the rate of pension payable to the other person under this section, this Act has effect as if the reference in paragraph 57(1)(a) to five-eighths were a reference to three-eighths.
-
-             (6)  A determination made under subsection (1) is not a legislative instrument.
-
-             (7)  The grant of a pension to a person under this section does not affect any other person’s entitlement to a pension, or the rate of that pension, under another section of this Act.
-
-##### <a id="64AB"></a>64AB  Special grant of pension where child’s pension would be payable to eligible child
-
-             (1)  If, at any time after the day on which Schedule 3 to the _Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008_ commenced (the **_start day_**):
-
-                     (a)  a pension is not payable in respect of a person under section 55, 57 or 64 of this Act; and
-
-                     (b)  a pension benefit:
-
-                              (i)  is not payable to the person under section 42 of the _Defence Force Retirement and Death Benefits Act 1973_, as in force on the start day; but
-
-                             (ii)  would have been payable to the person under that section if a deceased pensioner had been, at the time of his or her death, a recipient member under that Act;
-
-the Authority may grant, from a specified date, a pension to the person at a rate and on conditions that the Authority determines in writing, having regard to any matters prescribed and any other matters it considers relevant.
-
-             (2)  The specified date from which the pension is granted:
-
-                     (a)  must not be earlier than the start day; and
-
-                     (b)  unless the Authority is satisfied that special circumstances exist that justify an earlier date being specified, must not be earlier than the date the grant is made.
-
-             (3)  The rate of the pension must not exceed the rate at which pension would have been payable under this Act to the person from the specified date had the person been, at the date of death of the deceased pensioner and at all times after that:
-
-                     (a)  the child of the deceased pensioner for the purposes of this Act; and
-
-                     (b)  an eligible child for the purposes of this Act.
-
-             (4)  A determination made under subsection (1) is not a legislative instrument.
-
-             (5)  The grant of a pension to a person under this section does not affect any other person’s entitlement to a pension, or the rate of that pension, under another section of this Act.
-
-##### <a id="64AC"></a>64AC  Special grant of pension where child’s pension would be payable to eligible orphan
-
-             (1)  If, at any time after the day on which Schedule 3 to the _Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008_ commenced (the **_start day_**):
-
-                     (a)  a pension is not payable in respect of a person under section 55, 57, 58 or 64 of this Act; and
-
-                     (b)  a pension benefit:
-
-                              (i)  is not payable to the person under section 43 of the _Defence Force Retirement and Death Benefits Act 1973_, as in force on the start day (the **_amended Act_**); but
-
-                             (ii)  would have been payable to the person under that section if a deceased pensioner had been, at the time of his or her death, a recipient member under that Act;
-
-the Authority may grant, from a specified date, a pension to the person at a rate and on conditions that the Authority determines in writing, having regard to any matters prescribed and any other matters it considers relevant.
-
-             (2)  The specified date from which the pension is granted:
-
-                     (a)  must not be earlier than the start day; and
-
-                     (b)  unless the Authority is satisfied that special circumstances exist that justify an earlier date being specified, must not be earlier than the date the grant is made.
-
-             (3)  The rate of the pension must not exceed the rate at which pension would have been payable under this Act to the person from the specified date:
-
-                     (a)  had the person been, at the date of death of the deceased pensioner and at all times after that:
-
-                              (i)  the child of the deceased pensioner for the purposes of this Act; and
-
-                             (ii)  an eligible child for the purposes of this Act; and
-
-                     (b)  had the person become entitled to a pension under subsection 55(2), 57(4) or 58(1) of this Act at the time when he or she would have first become entitled, in the circumstances set out in subsection (1), to pension benefit under section 43 of the amended Act.
-
-             (4)  A determination made under subsection (1) is not a legislative instrument.
-
-             (5)  The grant of a pension to a person under this section does not affect any other person’s entitlement to a pension, or the rate of that pension, under another section of this Act.
 
 ##### <a id="64A"></a>64A  Restoration of pensions for remarried widows and widowers
 
@@ -1438,7 +1328,7 @@ Note:          This amount is determined by applying those reg
 
                      (c)  if a base amount applies and the scheme value is more than the family law value—the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00611/Html/DefenceForRetBen1948_WD02_image005.gif)
 
 ### Division 2—Benefits for non-member spouse
 
@@ -2324,7 +2214,7 @@ by notice in writing to the Board revoke the election and, in that case, paragra
 
            (13)  A superannuation scheme shall be taken, for the purposes of this section, to have been an approved superannuation scheme at a particular time if a declaration by the Minister for Finance under subsection (11) in respect of that scheme was, or is to be deemed to have been, in force at that time.
 
-           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image006.gif), where:
+           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2007C00611/Html/DefenceForRetBen1948_WD02_image006.gif), where:
 
 _a_   is amount of the annual premium, or the sum of the amounts of the annual premiums, applicable at that time under the life policy or life policies assigned by him to the Board in accordance with subsection (3) or issued in relation to him in accordance with subsection (4);
 
@@ -4848,24 +4738,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 4 (item 8) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
-  </td>
-  <td>
-    <div>134, 2008</div>
-  </td>
-  <td>
-    <div>4 Dec 2008</div>
-  </td>
-  <td>
-    <div>S. 4: Royal Assent 
-Schedule 3 (items 25, 26): 1 Jan 2009</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 3 (item 26) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Defence Forces Retirement Benefits Act 1948_ comprises the _Defence Forces Retirement Benefits Act 1948_(which was proclaimed to commence on 2 July 1948: _see Gazette_ 1948, p. 2583) as amended by the other Acts specified in the Table of Acts. Many of the amending Acts specified in that table made express provision in relation to the commencement and application of the amendments. By reason that the _Defence Force Retirement and Death Benefits Act 1973_ has, in the main, superseded the _Defence Forces Retirement Benefits Act 1948_, references are not made in the table to those provisions. If required, particulars relating to those provisions and to the saving and transitional provisions made by the amending Acts are to be found in the annual volumes of Acts for the respective years in which the amending Acts were enacted. 
@@ -6713,14 +6585,6 @@ No. 10, 2001</div>
   </td>
   <td>
     <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 64AA–64AC</div>
-  </td>
-  <td>
-    <div>ad. No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8643,74 +8507,6 @@ _Superannuation Legislation Amendment Act 2007 (No. 165, 2007)_
                      (b)  subsection 64A(3) of the _Defence Forces Retirement Benefits Act 1948_ (as inserted by item 6  of this Schedule);
 
                      (c)  subsection 48AA(3) of the _Superannuation Act 1922_(as inserted by item 7  of this Schedule)).
-
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
-
-##### <a id="4"></a>4  Entitlements from 1 July 2008
-
-             (1)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under an Act that is amended by Schedule 1, 2, 3 or 5 to this Act if the relevant Schedule had commenced on 1 July 2008; and
-
-                     (b)  because the Schedule did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (2)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under the _Military Superannuation and Benefits Act 1991_ if the first amendment of the Trust Deed under that Act that is made after the commencement of this section had commenced on 1 July 2008; and
-
-                     (b)  because that amendment did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (3)  If:
-
-                     (a)  a person would have been entitled to one or more payments (the **_lost payments_**) under the _Superannuation Act 1990_ if the first amendment of the Trust Deed under that Act that is made after the commencement of this section had commenced on 1 July 2008; and
-
-                     (b)  because that amendment did not commence until after 1 July 2008, the person is not entitled to the payment or payments; and
-
-                     (c)  the person makes an application to the Finance Minister for one or more payments (the **_replacement payments_**) to compensate the person for the lost payments;
-
-the Finance Minister must make a determination, in accordance with subsection (4), to fully compensate the person.
-
-             (4)  A determination by the Finance Minister under this subsection must:
-
-                     (a)  be in writing; and
-
-                     (b)  set out:
-
-                              (i)  the amount and timing of the replacement payments; or 
-
-                             (ii)  the method of determining the amount and timing of the replacement payments.
-
-             (5)  An application must be in writing in the form approved by the Finance Minister.
-
-             (6)  To avoid doubt, a determination of the Finance Minister that a person is entitled to one or more replacement payments does not affect the entitlements of any other person under an Act amended by Schedule 1, 2, 3 or 5 to this Act, the _Military Superannuation and Benefits Act 1991_ or the _Superannuation Act 1990_.
-
-             (7)  Replacement payments are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
-
-             (8)  A determination made under this section  is not a legislative instrument.
-
-             (9)  In this section:
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
-
-## Schedule 3
-
-## 26  Application of amendment of the _Defence Forces Retirement Benefits Act 1948_
-
-The amendment of the _Defence Forces Retirement Benefits Act 1948_ made by this Schedule applies in relation to a pension or benefit payable under that Act in respect of a person who dies on or after the commencement of this Schedule, if, at the time of his or her death, the deceased person was:
-
-                     (a)  receiving a pension under section 38, 39 or 41 of that Act; or
-
-                     (b)  receiving a benefit under subsection 51(1) of that Act.
 
  
 
