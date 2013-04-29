@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00125/Html/0a6e8001-2616-4a64-bfd7-4dc04f4b9d93_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00764/Html/3e1d0f8b-2441-454f-90cb-cc3dbdda5074_files/image001.gif)
 
 # Fisheries Management Act 1991
 
 **Act No. 162 of 1991 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 21 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -1052,6 +1052,8 @@ but does not include:
 
                     <a name="conserv-fish-stock"></a>**_conserved fish stock_** means a fish stock covered by an international fisheries management measure.
 
+                    <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+
                     <a name="convey"></a>**_conveyance_** includes an aircraft, vehicle or vessel.
 
                     <a name="cooper-enforc"></a>**_cooperative enforcement_** has the meaning given by section 84B.
@@ -1067,6 +1069,8 @@ but does not include:
                     <a name="evidenti-materi"></a>**_evidential material_** means a thing relevant to an indictable offence, or a thing relevant to a summary offence, against this Act or the regulations, including such a thing in electronic form.
 
                     <a name="excepted-water"></a>**_excepted waters_** means waters specified by Proclamation under section 11.
+
+                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_** means the exclusive economic zone, within the meaning of the _Seas and Submerged Lands Act 1973_.
 
                     <a name="executing-offic"></a>**_executing officer_**, in relation to a warrant, means:
 
@@ -1271,6 +1275,8 @@ Note:          The English text of the United Nations Conventi
                     <a name=""></a>**_take_**, in relation to fish, means catch, capture, take or harvest.
 
                     <a name="temporari-order"></a>**_temporary order_** means an order made under section 43.
+
+                    <a name="territori-sea"></a>**_territorial sea_** has the meaning given by subsection 3(1) of the _Seas and Submerged Lands Act 1973_.
 
                     <a name="treati"></a>**_Treaty_** means the Treaty on Fisheries between the Governments of Certain Pacific Island States and the Government of the United States of America that was signed at Port Moresby on 2 April 1987, a copy of which is set out in Schedule 1, and, subject to subsection (7), includes that Treaty as amended from time to time.
 
@@ -2201,7 +2207,7 @@ the following provisions of this section apply.
 
              (2)  If a person holds a statutory fishing rights option in respect of statutory fishing rights under the new plan, the option entitles the person, subject to subsections (3) and (4), to be granted under the new plan, to the extent to which the person exercises the option in accordance with subsection 31D(1), the number of statutory fishing rights of the relevant class worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00125/Html/0a6e8001-2616-4a64-bfd7-4dc04f4b9d93_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00764/Html/3e1d0f8b-2441-454f-90cb-cc3dbdda5074_files/image002.gif)
 
 where:
 
@@ -2397,7 +2403,7 @@ AFMA must not register the dealing unless:
 
 ##### <a id="31L"></a>31L  Administrative provisions
 
-                   Sections 52 to 57 apply to the Register of Statutory Fishing Rights Options and documents subject to inspection under this Division in the same way as those sections apply to the Register of Statutory Fishing Rights and documents subject to inspection under Part 4.
+                   Sections 52 to 57 apply to the Register of Statutory Fishing Rights Options and documents subject to inspection under this Division in the same way as those sections apply to the Register of Statutory Fishing Rights and documents subject to inspection under Part 4.
 
 ### Division 5—Fishing permits
 
@@ -6486,13 +6492,21 @@ the whole of the amount of the charge unpaid becomes due and payable at that tim
 
 ##### <a id="128"></a>128  Acting Principal Member
 
-                   The Minister may appoint a person to act in the office of Principal Member:
+             (1)  The Minister may appoint a person to act in the office of Principal Member:
 
                      (a)  during a vacancy in that office, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Principal Member is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office of Principal Member.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the person’s appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the person’s appointment; or
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="129"></a>129  Constitution of Panel for exercise of powers
 
@@ -6634,13 +6648,23 @@ it is a condition of the person’s holding office under this Act that the perso
 
 ##### <a id="140"></a>140  Acting Presiding Member
 
-                   The Minister may appoint a person to act as Presiding Member:
+             (1)  The Minister may appoint a person to act as Presiding Member:
 
                      (a)  during a vacancy in the office of Presiding Member (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the Presiding Member is absent from Australia or is, for any other reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the person’s appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the person’s appointment; or
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
+
+Note:          See section 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="141"></a>141  Request for nominations
 
@@ -14013,7 +14037,7 @@ Schedule 3 (items 15–20): 7 Jan 2011</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 619–627) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 619–627) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 4 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -14664,7 +14688,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 20, 1994; No. 120, 1997; Nos. 143 and 160, 1999; No. 137, 2000; No. 29, 2004; No. 99, 2005; No. 8, 2006; No. 104, 2007; No. 36, 2008; Nos. 39 and 137, 2010; No. 46, 2011</div>
+    <div>am. No. 20, 1994; No. 120, 1997; Nos. 143 and 160, 1999; No. 137, 2000; No. 29, 2004; No. 99, 2005; No. 8, 2006; No. 104, 2007; No. 36, 2008; Nos. 39 and 137, 2010</div>
   </td>
 </tr>
 <tr>
@@ -16858,22 +16882,6 @@ of Div. 6 of Part 6</div>
 </tr>
 <tr>
   <td>
-    <div>S. 128</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 128</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 137, 138</div>
   </td>
   <td>
@@ -16898,39 +16906,7 @@ of Div. 6 of Part 6</div>
 </tr>
 <tr>
   <td>
-    <div>S. 139</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 140</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 140</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 141</div>
+    <div>Ss. 139–141</div>
   </td>
   <td>
     <div>rs. No. 36, 2008</div>
@@ -17870,7 +17846,7 @@ of Div. 6 of Part 6</div>
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 1
 
@@ -17932,7 +17908,7 @@ Repeal the subsection.
 
 Insert:
 
-##### <a id="31FA"></a>31FA  Interests in statutory fishing rights options—priority between section 31F interests and PPSA security interests
+##### <a id="31FA"></a>31FA  Interests in statutory fishing rights options—priority between section 31F interests and PPSA security interests
 
 Scope
 
@@ -18216,13 +18192,13 @@ Repeal the Subdivision, substitute:
 
              (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the admiralty event or the PPSA event.
 
-As at 27 December 2011 the amendments are not incorporated in this compilation.
+As at 21 September 2011 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
 _Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
 
-The following amendment commences immediately after 30 January 2012:
+The following amendment commences immediately after the commencement of item 1 of Schedule 1 to the _Personal Property Securities (Consequential Amendments) Act 2009_:
 
 ## Schedule 3
 
@@ -18244,7 +18220,57 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 1 of Schedule 1 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 27 December 2011 the amendment is not incorporated in this compilation.
+As at 21 September 2011 the amendment is not incorporated in this compilation.
+
+### Note 4
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 619  Subsection 4(1) (definition of _continental shelf_)
+
+Repeal the definition.
+
+## 620  Subsection 4(1) (definition of _exclusive economic zone_)
+
+Repeal the definition.
+
+## 621  Subsection 4(1) (definition of _territorial sea_)
+
+Repeal the definition.
+
+## 622  Subsection 128(1)
+
+Omit “(1)”.
+
+## 623  At the end of subsection 128(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 624  Subsection 128(2)
+
+Repeal the subsection.
+
+## 625  Subsection 140(1)
+
+Omit “(1)”.
+
+## 626  At the end of subsection 140(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 627  Subsection 140(2)
+
+Repeal the subsection.
+
+As at 21 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -18422,7 +18448,8 @@ _Fisheries Legislation Amendment (Cooperative Fisheries Arrangements and Other M
 
 * * *
 
-_Migration Legislation Amendment (Information and Other Measures) Act 2007 (No. 63, 2007)_
+_Migration Legislation Amendment (Information and Other Measures) Act 2007 
+ (No. 63, 2007)_
 
 ## Schedule 1
 
@@ -18451,7 +18478,7 @@ The amendments made by items 1 to 59 of this Schedule apply to access to, or d
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following provisions commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following provisions commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 1
 
@@ -18475,7 +18502,7 @@ _Note:       Item 15 commences at the registration commencement ti
 
 _\[NOTE]:  Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
 
-The following amendment commences immediately after 30 January 2012 and amends the _Personal Property Securities (Consequential Amendments) Act 2009_(No. 131, 2009) as follows:
+The following amendment commences immediately after the commencement of item 17 of Schedule 1 to the _Personal Property Securities (Consequential Amendments) Act 2009_(No. 131, 2009) and amends the _Personal Property Securities (Consequential Amendments) Act 2009_(No. 131, 2009) as follows:
 
 ## Schedule 3
 
@@ -18485,11 +18512,13 @@ Repeal the item.
 
 _Note:       The repealed item is redundant because of the amendment in item 2 of this Schedule._
 
-As at 27 December 2011 the amendment is not incorporated in this compilation.
+As at 21 September 2011 the amendment is not incorporated in this compilation.
 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
