@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00255/Html/CwlthAuthCompanies1997_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00191/Html/CwlthAuthCompanies1997_WD02_image001.gif)
 
 # Commonwealth Authorities and Companies Act 1997
 
 **Act No. 153 of 1997 as amended**
 
-This compilation was prepared on 1 July 2009
+This compilation was prepared on 20 May 2009
  taking into account amendments up to Act No. 20 of 2008
 
 The text of any of those amendments not in force
@@ -163,8 +163,6 @@ Related legislation
 [28](#28).          Compliance with General Policy Orders
 
 [28A](#28A).       Credit cards and credit vouchers
-
-[28B](#28B).       Misuse of credit cards or credit vouchers—criminal offence
 
 [29](#29).          Activities of subsidiaries
 
@@ -1320,30 +1318,6 @@ Note:          For strict liability, see section 6.1 of the 
 
              (3)  This section, and regulations made under this section, do not apply to a Commonwealth authority if, under the authority’s enabling legislation, the authority has an express power to borrow money (whether or not that power is subject to conditions).
 
-##### <a id="28B"></a>28B  Misuse of credit cards or credit vouchers—criminal offence
-
-             (1)  A person must not use a Commonwealth authority credit card, Commonwealth authority credit card number or Commonwealth authority credit voucher to obtain cash, goods or services otherwise than for the authority.
-
-                    Penalty:  Imprisonment for 7 years.
-
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
-
-             (2)  Subsection (1) does not apply to a particular use of a Commonwealth authority credit card, Commonwealth authority credit card number or Commonwealth authority credit voucher if:
-
-                     (a)  the use is authorised by the regulations; and
-
-                     (b)  the authority is reimbursed in accordance with the regulations.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2), see subsection 13.3(3) of the _Criminal Code_.
-
-             (3)  For the purposes of paragraph (2)(b), an amount that is to be reimbursed to the authority is a debt due to the authority and is recoverable by the authority in a court of competent jurisdiction.
-
-             (4)  In this section:
-
-                    <a name="commonwealth-author-crite-card"></a>**_Commonwealth authority credit card_** means a credit card issued to the Commonwealth authority to enable the authority to obtain cash, goods or services on credit.
-
-                    <a name="commonwealth-author-crite-voucher"></a>**_Commonwealth authority credit voucher_** means a credit voucher issued to the Commonwealth authority to enable the authority to obtain goods or services on credit.
-
 ##### <a id="29"></a>29  Activities of subsidiaries
 
                    A Commonwealth authority must ensure that none of its subsidiaries does anything that the authority does not itself have power to do.
@@ -1964,7 +1938,7 @@ No one else may apply
 
 ##### <a id="8"></a>8  Civil evidence and procedure rules for declarations of contravention and civil penalty orders
 
-                   The Court must apply the rules of evidence and procedure for civil matters when hearing proceedings for:
+                   The Court must apply the rules of evidence and procedure for civil matters when hearing proceedings for:
 
                      (a)  a declaration of contravention; or
 
@@ -2524,7 +2498,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 1 (items 1–41, 
 43–50, 53–74): 1 July 2008 
-Schedule 1 (item 42): 1 July 2009 ( <i>see</i>F2009L01781 and <i>Gazette</i>2009, No. GN19) 
+Schedule 1 (item 42): \[ <i>see</i>Note 2] 
 Schedule 1 (items 51, 52): <i>(f)</i></div>
   </td>
   <td>
@@ -3240,14 +3214,6 @@ _(f)_ Subsection 2(1) (item 5) of the _Commonwealth Authorities and Companies Am
 </tr>
 <tr>
   <td>
-    <div>S. 28B</div>
-  </td>
-  <td>
-    <div>ad. No. 20, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 30</div>
   </td>
   <td>
@@ -3670,6 +3636,45 @@ _(f)_ Subsection 2(1) (item 5) of the _Commonwealth Authorities and Companies Am
     <div>ad. No. 156, 1999</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Commonwealth Authorities and Companies Amendment Act 2008
+ (No. 20, 2008)_
+
+The following amendment commences on 1 July 2009 (_see_ F2009L01781 and _Gazette_ 2009, No. GN19):
+
+## Schedule 1
+
+## 42  Before section 29
+
+Insert:
+
+##### <a id="28B"></a>28B  Misuse of credit cards or credit vouchers—criminal offence
+
+             (1)  A person must not use a Commonwealth authority credit card, Commonwealth authority credit card number or Commonwealth authority credit voucher to obtain cash, goods or services otherwise than for the authority.
+
+                    Penalty:  Imprisonment for 7 years.
+
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+             (2)  Subsection (1) does not apply to a particular use of a Commonwealth authority credit card, Commonwealth authority credit card number or Commonwealth authority credit voucher if:
+
+                     (a)  the use is authorised by the regulations; and
+
+                     (b)  the authority is reimbursed in accordance with the regulations.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2), see subsection 13.3(3) of the _Criminal Code_.
+
+             (3)  For the purposes of paragraph (2)(b), an amount that is to be reimbursed to the authority is a debt due to the authority and is recoverable by the authority in a court of competent jurisdiction.
+
+             (4)  In this section:
+
+                    <a name="commonwealth-author-crite-card"></a>**_Commonwealth authority credit card_** means a credit card issued to the Commonwealth authority to enable the authority to obtain cash, goods or services on credit.
+
+                    <a name="commonwealth-author-crite-voucher"></a>**_Commonwealth authority credit voucher_** means a credit voucher issued to the Commonwealth authority to enable the authority to obtain goods or services on credit.
+
+As at 20 May 2009 the amendment is not incorporated in this compilation.
 
 ## Table A
 
