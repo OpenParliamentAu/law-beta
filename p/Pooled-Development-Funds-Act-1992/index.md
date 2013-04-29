@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00826/Html/PooledDevelFund1992_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00091/Html/PooledDevelFund1992_WD02_image001.gif)
 
 # Pooled Development Funds Act 1992
 
 **Act No. 100 of 1992 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 27 February 2010
+ taking into account amendments up to Act No. 75 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -376,7 +376,7 @@ Non-resident funds
 
                      (d)  it complies with the applicable laws of a foreign country that regulate funds established for that purpose.
 
-##### <a id="4B"></a>4B  Application of the _Criminal Code_
+##### <a id="4B"></a>4B  Application of the _Criminal Code_
 
                    Chapter 2 of the _Criminal Code_ applies to all offences created by this Act.
 
@@ -1700,7 +1700,7 @@ unless the record or copy is made, the information is communicated, or the docum
 
                      (b)  a court or tribunal in connection with proceedings under this Act or a tax law.
 
-             (3)  If protected information is communicated, or a protected document is produced, under paragraph (2)(a) to the Commissioner of Taxation, the information, or the information contained in the document, is taken, for the purposes of Division 355 in Schedule 1 to the _Taxation Administration Act 1953_, to be protected information within the meaning of that Act.
+             (3)  If protected information is communicated, or a protected document is produced, under paragraph (2)(a) to the Commissioner of Taxation, the information, or the information contained in the document, is taken, for the purposes of section 16 of the _Income Tax Assessment Act 1936_, to be information acquired by the Commissioner as mentioned in the definition of **_officer_** in subsection (1) of that section.
 
              (4)  A person to whom this section applies is not required:
 
@@ -2200,23 +2200,6 @@ Remainder: 24 May 2001</div>
   </td>
   <td>
     <div>Schedule 1 (item 218): 27 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 61): 17 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -2847,7 +2830,7 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
     <div>S. 71</div>
   </td>
   <td>
-    <div>am. No. 136, 2002; No. 164, 2007; No. 145, 2010</div>
+    <div>am. No. 136, 2002; No. 164, 2007</div>
   </td>
 </tr>
 <tr>
