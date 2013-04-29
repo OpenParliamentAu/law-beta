@@ -1,246 +1,249 @@
-![](http://www.comlaw.gov.au/Details/C2006C00602/Html/SydAirDemdMgmt1997WD02_image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock v:ext="edit" aspectratio="t"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="D20F5D9340E0D66FCA256FB9007CECCD/$FILE/image001.png"></v:imagedata></v:shape>
 
-# Sydney Airport Demand Management Act 1997
+# <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place> Demand Management Act 1997<o:p></o:p>
 
-**Act No. 173 of 1997 as amended**
+**Act No. 173 of 1997 as amended<o:p></o:p>**
 
-This compilation was prepared on 10 October 2006
- taking into account amendments up to Act No. 109 of 2006
+This compilation was prepared on 3 March 2005
+taking into account amendments up to Act No. 8 of 2005<o:p></o:p>
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section<o:p></o:p>
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title _see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Identifying defined terms
+[3](#3).            Identifying defined terms<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-[4](#4).            Overview
+[4](#4).            Overview<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-[5](#5).            Consequential amendment of the _Airports Act 1996_
+[5](#5).            Consequential amendment of the _Airports Act 1996_<span style="mso-tab-count: 1 dotted">                           </span>
 
-[5A](#5A).         Part IIIA of the _Trade Practices Act 1974_ to be subject to this Act
+[5A](#5A).         Part IIIA of the _Trade Practices Act 1974_ to be subject to this Act<span style="mso-tab-count: 1 dotted">   </span>
 
-**Part 2—The maximum aircraft movement limit at Sydney Airport**
+**Part 2—The maximum aircraft movement limit at Sydney Airport<span style="mso-tab-count: 1">            </span>**
 
-[6](#6).            Maximum movement limit
+[6](#6).            Maximum movement limit<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[7](#7).            Minister’s power to determine a lower maximum movement limit
+[7](#7).            Minister’s power to determine a lower maximum movement limit<span style="mso-tab-count: 1 dotted">     </span>
 
-[8](#8).            Consultation about determination of lower maximum movement limit
+[8](#8).            Consultation about determination of lower maximum movement limit<span style="mso-tab-count: 1 dotted"> </span>
 
-[9](#9).            Airservices Australia to monitor compliance with maximum movement limit and to report to Minister
+[9](#9).            Airservices Australia to monitor compliance with maximum movement limit and to report to Minister<span style="mso-tab-count: 1">               </span>
 
-**Part 3—Penalties for unauthorised aircraft movements** 
+**Part 3—Penalties for unauthorised aircraft movements<span style="mso-tab-count: 1">                                   </span>** 
 
-    **Division 1—Situations in which penalties apply**
+    **Division 1—Situations in which penalties apply<span style="mso-tab-count: 1">                                             </span>**
 
-[10](#10).          Aircraft movements to which this Part applies
+[10](#10).          Aircraft movements to which this Part applies<span style="mso-tab-count: 1 dotted">                                   </span>
 
-[11](#11).          Meaning of _no-slot movement_ and _off-slot movement_
+[11](#11).          Meaning of _no-slot movement_ and _off-slot movement_<span style="mso-tab-count: 1 dotted">                         </span>
 
-[12](#12).          Prohibition on no-slot movements
+[12](#12).          Prohibition on no-slot movements<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[13](#13).          Prohibition on off-slot movements
+[13](#13).          Prohibition on off-slot movements<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-    **Division 2—Civil penalties**
+    **Division 2—Civil penalties<span style="mso-tab-count: 1">                                                                                      </span>**
 
-[14](#14).          Pecuniary penalties for contravention of civil penalty provisions
+[14](#14).          Pecuniary penalties for contravention of civil penalty provisions<span style="mso-tab-count: 1 dotted">    </span>
 
-[15](#15).          Procedural matters
+[15](#15).          Procedural matters<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[16](#16).          No criminal proceedings for contravention of civil penalty provision
+[16](#16).          No criminal proceedings for contravention of civil penalty provision<span style="mso-tab-count: 1 dotted"> </span>
 
-    **Division 3—Infringement notices (alternative to proceedings for civil penalty)**
+    **Division 3—Infringement notices (alternative to proceedings for civil penalty)<span style="mso-tab-count: 1">              </span>**
 
-[17](#17).          Interpretation
+[17](#17).          Interpretation<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-[18](#18).          Purpose and effect of this Division
+[18](#18).          Purpose and effect of this Division<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[19](#19).          Issue of infringement notices
+[19](#19).          Issue of infringement notices<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[20](#20).          Infringement notice penalty
+[20](#20).          Infringement notice penalty<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[21](#21).          Infringement notice penalty is payable to the Slot Manager on behalf of Commonwealth
+[21](#21).          Infringement notice penalty is payable to the Slot Manager on behalf of Commonwealth<span style="mso-tab-count: 1">     </span>
 
-[22](#22).          Time for payment
+[22](#22).          Time for payment<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[23](#23).          Contents of infringement notice
+[23](#23).          Contents of infringement notice<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[24](#24).          Person issued with infringement notice may initiate proceedings in the Federal Court for a determination of whether there has been a contravention
+[24](#24).          Person issued with infringement notice may initiate proceedings in the Federal Court for a determination of whether there has been a contravention<span style="mso-tab-count: 1 dotted">                                                           </span>
 
-[25](#25).          Withdrawal of infringement notice
+[25](#25).          Withdrawal of infringement notice<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-[26](#26).          Effect of payment of infringement notice penalty
+[26](#26).          Effect of payment of infringement notice penalty<span style="mso-tab-count: 1 dotted">                            </span>
 
-    **Division 4—Obligations in relation to money received under this Part**
+    **Division 4—Obligations in relation to money received under this Part<span style="mso-tab-count: 1">                </span>**
 
-[27](#27).          Civil penalties and infringement notice penalties to be paid to the Commonwealth
+[27](#27).          Civil penalties and infringement notice penalties to be paid to the Commonwealth<span style="mso-tab-count: 1">               </span>
 
-[28](#28).          Slot Manager to apply money for purposes of functions under this Act
+[28](#28).          Slot Manager to apply money for purposes of functions under this Act<span style="mso-tab-count: 1">               </span>
 
-    **Division 5—Exemptions**
+    **Division 5—Exemptions<span style="mso-tab-count: 1">                                                                                           </span>**
 
-[29](#29).          Aircraft may take off or land in emergencies or if Slot Manager grants dispensation
+[29](#29).          Aircraft may take off or land in emergencies or if Slot Manager grants dispensation<span style="mso-tab-count: 1">             </span>
 
-[30](#30).          Emergencies
+[30](#30).          Emergencies<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[31](#31).          Dispensations in exceptional circumstances
+[31](#31).          Dispensations in exceptional circumstances<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[32](#32).          State aircraft
+[32](#32).          State aircraft<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-**Part 4—The Slot Management Scheme** 
+**Part 4—The Slot Management Scheme<span style="mso-tab-count: 1">                                                                   </span>** 
 
-    **Division 1—Framework within which Scheme to be developed and to operate**
+    **Division 1—Framework within which Scheme to be developed and to operate<span style="mso-tab-count: 1">               </span>**
 
-[33](#33).          The Scheme and its basic purpose
+[33](#33).          The Scheme and its basic purpose<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[34](#34).          The concept of a slot
+[34](#34).          The concept of a slot<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[35](#35).          Contents of Scheme
+[35](#35).          Contents of Scheme<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[36](#36).          Minister’s power to determine additional requirements
+[36](#36).          Minister’s power to determine additional requirements<span style="mso-tab-count: 1 dotted">                   </span>
 
-[37](#37).          Consequence of Scheme not being consistent with section 35
+[37](#37).          Consequence of Scheme not being consistent with section 35<span style="mso-tab-count: 1 dotted">          </span>
 
-    **Division 2—Development and amendment of Scheme** 
+    **Division 2—Development and amendment of Scheme<span style="mso-tab-count: 1">                             </span>** 
 
-        **Subdivision A—Development**
+        **Subdivision A—Development<span style="mso-tab-count: 1">                                                                                  </span>**
 
-[38](#38).          Slot Manager to develop slot management scheme and submit it for approval
+[38](#38).          Slot Manager to develop slot management scheme and submit it for approval<span style="mso-tab-count: 1">       </span>
 
-[39](#39).          Minister’s power to request or make amendments
+[39](#39).          Minister’s power to request or make amendments<span style="mso-tab-count: 1 dotted">                           </span>
 
-[40](#40).          Approval of scheme
+[40](#40).          Approval of scheme<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[41](#41).          When Slot Management Scheme comes into force
+[41](#41).          When Slot Management Scheme comes into force<span style="mso-tab-count: 1 dotted">                            </span>
 
-        **Subdivision B—Amendment**
+        **Subdivision B—Amendment<span style="mso-tab-count: 1">                                                                                    </span>**
 
-[42](#42).          Slot Manager may develop amendments of Slot Management Scheme and submit them for approval
+[42](#42).          Slot Manager may develop amendments of Slot Management Scheme and submit them for approval<span style="mso-tab-count: 1">  </span>
 
-[43](#43).          Minister’s power to request or develop amendments
+[43](#43).          Minister’s power to request or develop amendments<span style="mso-tab-count: 1 dotted">                       </span>
 
-[44](#44).          Approval of amendments
+[44](#44).          Approval of amendments<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[45](#45).          When an amendment comes into force
+[45](#45).          When an amendment comes into force<span style="mso-tab-count: 1 dotted">                                              </span>
 
-    **Division 3—Powers of Minister and Compliance Committee in relation to slot allocation**
+    **Division 3—Powers of Minister and Compliance Committee in relation to slot allocation<span style="mso-tab-count: 1">        </span>**
 
-[46](#46).          Minister’s powers
+[46](#46).          Minister’s powers<span style="mso-tab-count: 1 dotted">                                                                             </span>
 
-[47](#47).          Compliance Committee’s powers
+[47](#47).          Compliance Committee’s powers<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-**Part 5—The Compliance Scheme** 
+**Part 5—The Compliance Scheme<span style="mso-tab-count: 1">                                                                                </span>** 
 
-    **Division 1—Framework within which Scheme to be developed and to operate**
+    **Division 1—Framework within which Scheme to be developed and to operate<span style="mso-tab-count: 1">               </span>**
 
-[48](#48).          The Scheme and its basic purpose
+[48](#48).          The Scheme and its basic purpose<span style="mso-tab-count: 1 dotted">                                                     </span>
 
-[49](#49).          Contents of Scheme
+[49](#49).          Contents of Scheme<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[50](#50).          Minister’s power to determine additional requirements
+[50](#50).          Minister’s power to determine additional requirements<span style="mso-tab-count: 1 dotted">                   </span>
 
-[51](#51).          Consequence of Scheme not being consistent with section 49
+[51](#51).          Consequence of Scheme not being consistent with section 49<span style="mso-tab-count: 1 dotted">          </span>
 
-    **Division 2—Development and amendment of Scheme** 
+    **Division 2—Development and amendment of Scheme<span style="mso-tab-count: 1">                             </span>** 
 
-        **Subdivision A—Development**
+        **Subdivision A—Development<span style="mso-tab-count: 1">                                                                                  </span>**
 
-[52](#52).          Compliance Committee to develop compliance scheme and submit it for approval
+[52](#52).          Compliance Committee to develop compliance scheme and submit it for approval<span style="mso-tab-count: 1">               </span>
 
-[53](#53).          Minister’s power to request or make amendments
+[53](#53).          Minister’s power to request or make amendments<span style="mso-tab-count: 1 dotted">                           </span>
 
-[54](#54).          Approval of scheme
+[54](#54).          Approval of scheme<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[55](#55).          When Compliance Scheme comes into force
+[55](#55).          When Compliance Scheme comes into force<span style="mso-tab-count: 1 dotted">                                     </span>
 
-        **Subdivision B—Amendment**
+        **Subdivision B—Amendment<span style="mso-tab-count: 1">                                                                                    </span>**
 
-[56](#56).          Compliance Committee may develop amendments of Compliance Scheme and submit them for approval
+[56](#56).          Compliance Committee may develop amendments of Compliance Scheme and submit them for approval<span style="mso-tab-count: 1">           </span>
 
-[57](#57).          Minister’s power to request or develop amendments
+[57](#57).          Minister’s power to request or develop amendments<span style="mso-tab-count: 1 dotted">                       </span>
 
-[58](#58).          Approval of amendments
+[58](#58).          Approval of amendments<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[59](#59).          When an amendment comes into force
+[59](#59).          When an amendment comes into force<span style="mso-tab-count: 1 dotted">                                              </span>
 
-**Part 6—The Slot Manager**
+**Part 6—The Slot Manager<span style="mso-tab-count: 1">                                                                                              </span>**
 
-[60](#60).          The Slot Manager
+[60](#60).          The Slot Manager<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[61](#61).          Appointment of Slot Manager
+[61](#61).          Appointment of Slot Manager<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[62](#62).          The legal position of the Slot Manager
+[62](#62).          The legal position of the Slot Manager<span style="mso-tab-count: 1 dotted">                                              </span>
 
-[63](#63).          Termination of appointment
+[63](#63).          Termination of appointment<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[64](#64).          Protection of Slot Manager etc  from legal actions
+[64](#64).          Protection of Slot Manager etc  from legal actions<span style="mso-tab-count: 1 dotted">                            </span>
 
-[65](#65).          Change of Slot Manager
+[65](#65).          Change of Slot Manager<span style="mso-tab-count: 1 dotted">                                                                     </span>
 
-**Part 7—The Compliance Committee**
+**Part 7—The Compliance Committee<span style="mso-tab-count: 1">                                                                         </span>**
 
-[66](#66).          The Compliance Committee
+[66](#66).          The Compliance Committee<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[67](#67).          Regulations may deal with appointment and other matters
+[67](#67).          Regulations may deal with appointment and other matters<span style="mso-tab-count: 1 dotted">              </span>
 
-[68](#68).          The legal position of the Compliance Committee
+[68](#68).          The legal position of the Compliance Committee<span style="mso-tab-count: 1 dotted">                             </span>
 
-[69](#69).          Protection of Compliance Committee from legal actions
+[69](#69).          Protection of Compliance Committee from legal actions<span style="mso-tab-count: 1 dotted">                  </span>
 
-**Part 8—Miscellaneous**
+**Part 8—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[70](#70).          Evidentiary certificates
+[70](#70).          Evidentiary certificates<span style="mso-tab-count: 1 dotted">                                                                      </span>
 
-[71](#71).          Delegation
+[71](#71).          Delegation<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-[72](#72).          Crown to be bound
+[72](#72).          Crown to be bound<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[73](#73).          Extra-territorial operation
+[73](#73).          Extra-territorial operation<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[74](#74).          Regulations
+[74](#74).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Schedule 1—Definitions**
+**Schedule 1—Definitions<span style="mso-tab-count: 1">                                                                                                    </span>**
 
-[1](#1).            Definitions
+[1](#1).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-**Schedule 2—Amendment of the Airports Act 1996** 
+**Schedule 2—Amendment of the Airports Act 1996<span style="mso-tab-count: 1">                                           </span>** 
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
 
-## An Act to limit aircraft movements at Sydney Airport, and for related purposes
 
-## Part 1—Preliminary
+## An Act to limit aircraft movements at <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place>, and for related purposes
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+## Part 1—Preliminary
 
-                   This Act may be cited as the _Sydney__Airport__Demand Management Act 1997_.
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span>
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+                   This Act may be cited as the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Sydney_</st1:placename><st1:placename>_Airport_</st1:placename></st1:place>_Demand Management Act 1997_.
 
-             (1)  This Act, other than Parts 2 and 3, commence on the day on which this Act receives the Royal Assent.
+##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span>
 
-             (2)  Subject to subsection (3), Parts 2 and 3 commence on a day to be fixed by Proclamation.
+             (1)  This Act, other than Parts 2 and 3, commence on the day on which this Act receives the Royal Assent.
 
-             (3)  If Parts 2 and 3 do not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.
+             (2)  Subject to subsection (3), Parts 2 and 3 commence on a day to be fixed by Proclamation.
+
+             (3)  If Parts 2 and 3 do not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.
 
 ##### <a id="3"></a>3  Identifying defined terms
 
-             (1)  Many of the terms in this Act are defined in Schedule 1\. Some definitions that are relevant only to limited areas of this Act are defined in those areas.
+             (1)  Many of the terms in this Act are defined in Schedule 1\. Some definitions that are relevant only to limited areas of this Act are defined in those areas.
 
-             (2)  Most of the terms that are defined in Schedule 1 are identified by an asterisk at the start of the term: as in “* aircraft movement”. The footnote with the asterisk contains a signpost to Schedule 1.
+             (2)  Most of the terms that are defined in Schedule 1 are identified by an asterisk at the start of the term: as in “* aircraft movement”. The footnote with the asterisk contains a signpost to Schedule 1.
 
              (3)  An asterisk usually identifies the first occurrence of a term in a section (if not divided into subsections), subsection, note or definition. Later occurrences of the term in the same provision are not usually asterisked.
 
@@ -256,96 +259,92 @@ Prepared by the Office of Legislative Drafting and Publishing,
 <thead>
   <tr>
     <td colspan="3">
-      <div>
-        <b>Terms that are not identified with an asterisk</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">Terms that are not identified with an asterisk <o:p></o:p> </b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Item</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">Item <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>
-        <b>This term</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">This term <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>
-        <b>Is defined in</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">Is defined in <o:p></o:p> </b></div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>aircraft</div>
-  </td>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>slot</div>
-  </td>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Sydney Airport</div>
-  </td>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>aircraft</div>
+    </td>
+    <td>
+      <div>Schedule 1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>slot</div>
+    </td>
+    <td>
+      <div>Schedule 1</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename> </st1:place></div>
+    </td>
+    <td>
+      <div>Schedule 1</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="4"></a>4  Overview
 
-             (1)  This Act provides for the limitation of * aircraft movements at Sydney Airport (otherwise than during * curfew periods).
+             (1)  This Act provides for the limitation of * aircraft movements at <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place> (otherwise than during * curfew periods).
 
-             (2)  Part 2 sets the * maximum movement limit, and provides for monitoring of compliance with that limit. The * Slot Management Scheme, which provides for the allocation of slots permitting aircraft movements, is required to be consistent with this limit.
+             (2)  Part 2 sets the * maximum movement limit, and provides for monitoring of compliance with that limit. The * Slot Management Scheme, which provides for the allocation of slots permitting aircraft movements, is required to be consistent with this limit.
 
-             (3)  Part 3 prohibits, and sets out penalties for, unauthorised * aircraft movements. These are movements that are not authorised by a slot allocated under the * Slot Management Scheme and are not otherwise exempt.
+             (3)  Part 3 prohibits, and sets out penalties for, unauthorised * aircraft movements. These are movements that are not authorised by a slot allocated under the * Slot Management Scheme and are not otherwise exempt.
 
-             (4)  Part 4 deals with the contents, development and amendment of the * Slot Management Scheme. It also deals with the powers of the Minister and the * Compliance Committee to give directions or make recommendations in relation to slot allocations.
+             (4)  Part 4 deals with the contents, development and amendment of the * Slot Management Scheme. It also deals with the powers of the Minister and the * Compliance Committee to give directions or make recommendations in relation to slot allocations.
 
-             (5)  Part 5 deals with the contents, development and amendment of the * Compliance Scheme.
+             (5)  Part 5 deals with the contents, development and amendment of the * Compliance Scheme.
 
-             (6)  Parts 6 and 7 deal, respectively, with the appointment etc. of the * Slot Manager and the * Compliance Committee.
+             (6)  Parts 6 and 7 deal, respectively, with the appointment etc. of the * Slot Manager and the * Compliance Committee.
 
-             (7)  Part 8 deals with miscellaneous matters.
+             (7)  Part 8 deals with miscellaneous matters.
 
-             (8)  Schedule 1 contains definitions (see also section 3).
+             (8)  Schedule 1 contains definitions (see also section 3).
 
 ##### <a id="5"></a>5  Consequential amendment of the _Airports Act 1996_
 
-                   The _Airports Act 1996_ is amended as set out in Schedule 2.
+                   The _Airports Act 1996_ is amended as set out in Schedule 2.
 
-##### <a id="5A"></a>5A  Part IIIA of the _Trade Practices Act 1974_ to be subject to this Act
+##### <a id="5A"></a>5A  Part IIIA of the _Trade Practices Act 1974_ to be subject to this Act
 
-                   Part IIIA of the _Trade Practices Act 1974_ has effect subject to this Act.
+                   Part IIIA of the _Trade Practices Act 1974_ has effect subject to this Act.
 
-## Part 2—The maximum aircraft movement limit at Sydney Airport
+<o:p> </o:p>
+
+## Part 2—The maximum aircraft movement limit at <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename><span class="CharPartText">Sydney</span></st1:placename><span class="CharPartText"> </span><st1:placename><span class="CharPartText">Airport</span></st1:placename></st1:place>
 
 ##### <a id="6"></a>6  Maximum movement limit
 
-             (1)  There are to be no more than 80 * aircraft movements at Sydney Airport in any regulated hour. This limit is known as the **_maximum movement limit_**.
+             (1)  There are to be no more than 80 * aircraft movements at <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place> in any regulated hour. This limit is known as the **_maximum movement limit_**.
 
-Note:          The Minister may determine a lower limit—see section 7.
+Note:          The Minister may determine a lower limit—see section 7.
 
              (2)  A **_regulated hour_** is a period of 60 minutes starting:
 
@@ -359,21 +358,23 @@ Note:          The Minister may determine a lower limit—see 
 
              (3)  However, a period is not a **_regulated hour_** if it starts during, or less than 60 minutes before, a * curfew period.
 
-Note:          * Aircraft movements during * curfew periods are regulated under the _Sydney__Airport__Curfew Act 1995_.
+Note:          * Aircraft movements during * curfew periods are regulated under the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Sydney_</st1:placename><st1:placename>_Airport_</st1:placename></st1:place>_Curfew Act 1995_.
 
-             (4)  In applying the limit imposed by this section, * aircraft movements that are permitted by Division 5 of Part 3 are not to be counted.
+             (4)  In applying the limit imposed by this section, * aircraft movements that are permitted by Division 5 of Part 3 are not to be counted.
 
              (5)  The purpose of this section is to set the maximum movement limit for the purposes of the * Slot Management Scheme and other provisions of this Act. It does not operate to create rights or obligations except as provided in other provisions of this Act.
 
 ##### <a id="7"></a>7  Minister’s power to determine a lower maximum movement limit
 
-             (1)  The Minister may, by legislative instrument, determine that subsection 6(1) is to have effect as if a lower number of * aircraft movements were specified in it.
+             (1)  The Minister may, in writing, determine that subsection 6(1) is to have effect as if a lower number of * aircraft movements were specified in it.
 
-Note:          See section 8 for consultation requirements.
+Note:          See section 8 for consultation requirements.
 
-             (3)  While a determination under subsection (1) is in force, subsection 6(1) has effect as if the lower number of * aircraft movements were specified in it.
+             (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-             (4)  A determination under subsection (1):
+             (3)  While a determination under subsection (1) is in force, subsection 6(1) has effect as if the lower number of * aircraft movements were specified in it.
+
+             (4)  A determination under subsection (1):
 
                      (a)  comes into force on the first day after the end of the period during which it can be disallowed by a House of the Parliament, or on a later day specified in the determination; and
 
@@ -389,39 +390,39 @@ If the determination is disallowed, it does not come into force.
 
                      (b)  inviting persons covered by any of the following subparagraphs to give the Minister a written submission about the proposed determination within 30 days after the publication of the notice:
 
-                              (i)  the operator of Sydney  Airport;
+                              (i)  the operator of <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place>;
 
                              (ii)  a person specified in the regulations for the purposes of this subparagraph, being a person who represents the interests of all of the aircraft operators who use Sydney Airport to operate scheduled air services;
 
-                            (iii)  * Airservices Australia;
+                            (iii)  * Airservices <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;
 
                             (iv)  the Civil Aviation Safety Authority.
 
              (2)  If a person gives the Minister a written submission in accordance with the notice, the Minister must have due regard to the submission in making the determination.
 
-             (3)  Subsection (2) does not, by implication, limit the matters to which the Minister may have regard.
+             (3)  Subsection (2) does not, by implication, limit the matters to which the Minister may have regard.
 
-             (4)  This section does not apply to a determination that the Minister proposes to make if the consultation requirements in Part 3 of the _Legislative Instruments Act 1997_ apply to the making of the determination.
+             (4)  This section does not apply to a determination that the Minister proposes to make if the consultation requirements in Part 3 of the _Legislative Instruments Act 1997_ apply to the making of the determination.
 
 ##### <a id="9"></a>9  Airservices Australia to monitor compliance with maximum movement limit and to report to Minister
 
-Airservices Australia’s monitoring role
+Airservices <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s monitoring role
 
-             (1)  * Airservices Australia is to monitor compliance with the * maximum movement limit, and (subject to subsection (5)) is to give the Minister a written report, within 28 days of the end of each quarter, on the extent of infringements (if any) of the limit in the quarter.
+             (1)  * Airservices Australia is to monitor compliance with the * maximum movement limit, and (subject to subsection (5)) is to give the Minister a written report, within 28 days of the end of each quarter, on the extent of infringements (if any) of the limit in the quarter.
 
              (2)  A **_quarter_** is a period of 3 months starting on any of the following dates in a year:
 
-                     (a)  1 January;
+                     (a)  1 January;
 
-                     (b)  1 April;
+                     (b)  1 April;
 
-                     (c)  1 July;
+                     (c)  1 July;
 
-                     (d)  1 October.
+                     (d)  1 October.
 
-             (3)  The Minister must cause a copy of each report under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
+             (3)  The Minister must cause a copy of each report under subsection (1) to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
-             (4)  * Airservices Australia’s obligations under this section are limited to monitoring compliance with the * maximum movement limit and reporting to the Minister on the extent of infringements. This monitoring and reporting role does not authorise or require Airservices Australia to take any action to enforce compliance with the limit.
+             (4)  * Airservices <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>’s obligations under this section are limited to monitoring compliance with the * maximum movement limit and reporting to the Minister on the extent of infringements. This monitoring and reporting role does not authorise or require Airservices <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> to take any action to enforce compliance with the limit.
 
 What happens if this section commences during a quarter
 
@@ -431,25 +432,27 @@ What happens if this section commences during a quarter
 
                      (b)  the report made at the end of the next quarter is also to include the information about infringements that occurred in the previous quarter.
 
-What happens if Airservices Australia ceases to provide air traffic services at Sydney Airport
+What happens if Airservices <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> ceases to provide air traffic services at <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place>
 
-             (6)  If * Airservices Australia ceases to provide air traffic services at Sydney Airport, this section ceases to apply to Airservices Australia.
+             (6)  If * Airservices <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> ceases to provide air traffic services at <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place>, this section ceases to apply to Airservices <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
-             (7)  The Minister may enter into an arrangement with another person who does, or is to, provide air traffic services at Sydney Airport under which the person will perform a monitoring role similar to the role that * Airservices Australia performed under this section. Reports received by the Minister under the arrangement are to be tabled in accordance with the requirements of subsection (3).
+             (7)  The Minister may enter into an arrangement with another person who does, or is to, provide air traffic services at Sydney Airport under which the person will perform a monitoring role similar to the role that * Airservices Australia performed under this section. Reports received by the Minister under the arrangement are to be tabled in accordance with the requirements of subsection (3).
 
-## Part 3—Penalties for unauthorised aircraft movements
+<o:p> </o:p>
 
-### Division 1—Situations in which penalties apply
+## Part 3—Penalties for unauthorised aircraft movements
+
+### Division 1—Situations in which penalties apply
 
 ##### <a id="10"></a>10  Aircraft movements to which this Part applies
 
-                   This Part applies to all * aircraft movements at Sydney Airport, other than:
+                   This Part applies to all * aircraft movements at <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place>, other than:
 
-                     (a)  aircraft movements that are permitted by Division 5; and
+                     (a)  aircraft movements that are permitted by Division 5; and
 
                      (b)  aircraft movements during * curfew periods.
 
-Note:          * Aircraft movements during * curfew periods are regulated under the _Sydney__Airport__Curfew Act 1995_.
+Note:          * Aircraft movements during * curfew periods are regulated under the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Sydney_</st1:placename><st1:placename>_Airport_</st1:placename></st1:place>_Curfew Act 1995_.
 
 ##### <a id="11"></a>11  Meaning of _no-slot movement_ and _off-slot movement_
 
@@ -459,7 +462,7 @@ Meaning of **no-slot movement**
 
 Meaning of **off-slot movement**
 
-             (2)  An * aircraft movement is an **_off-slot movement_** (subject to subsection (6)) if:
+             (2)  An * aircraft movement is an **_off-slot movement_** (subject to subsection (6)) if:
 
                      (a)  a slot permitting the movement on the day on which it occurs has been allocated under the * Slot Management Scheme; and
 
@@ -487,15 +490,17 @@ Note:          The declaration has no effect on the question w
 
                    The * operator of an aircraft must not, knowingly or recklessly, allow the aircraft to engage in an * aircraft movement to which this Part applies that is a no-slot movement.
 
-Note:          This is a civil penalty provision—see Divisions 2 and 3 for the consequences of a contravention.
+Note:          This is a civil penalty provision—see Divisions 2 and 3 for the consequences of a contravention.
 
 ##### <a id="13"></a>13  Prohibition on off-slot movements
 
                    The * operator of an aircraft must not, knowingly or recklessly, allow the aircraft to engage in an * aircraft movement to which this Part applies that is an off-slot movement.
 
-Note:          This is a civil penalty provision—see Divisions 2 and 3 for the consequences of a contravention.
+Note:          This is a civil penalty provision—see Divisions 2 and 3 for the consequences of a contravention.
 
-### Division 2—Civil penalties
+<o:p> </o:p>
+
+### Division 2—Civil penalties
 
 ##### <a id="14"></a>14  Pecuniary penalties for contravention of civil penalty provisions
 
@@ -513,21 +518,21 @@ Note:          This is a civil penalty provision—see Divisio
 
 The Court may also have regard to any other matters it considers relevant.
 
-             (3)  The pecuniary penalty payable under subsection (1) is not to exceed:
+             (3)  The pecuniary penalty payable under subsection (1) is not to exceed:
 
-                     (a)  for a contravention of section 12:
+                     (a)  for a contravention of section 12:
 
                               (i)  if the contravention is by a body corporate—2,000 penalty units; and
 
                              (ii)  if the contravention is by an individual—400 penalty units; and
 
-                     (b)  for a contravention of section 13:
+                     (b)  for a contravention of section 13:
 
                               (i)  if the contravention is by a body corporate—1,000 penalty units; and
 
                              (ii)  if the contravention is by an individual—200 penalty units.
 
-Note:          See section 4AA of the _Crimes Act 1914_ for the current value of a penalty unit.
+Note:          See section 4AA of the _Crimes Act 1914_ for the current value of a penalty unit.
 
              (4)  The * Federal Court may make such declarations or orders as it considers appropriate in relation to, or as a result of, the proceedings, including (but not limited to):
 
@@ -539,7 +544,7 @@ Note:          See section 4AA of the _Crimes Act 1914_ for 
 
 ##### <a id="15"></a>15  Procedural matters
 
-             (1)  The * Slot Manager may, by application, institute proceedings in the * Federal Court for the payment of a pecuniary penalty referred to in section 14.
+             (1)  The * Slot Manager may, by application, institute proceedings in the * Federal Court for the payment of a pecuniary penalty referred to in section 14.
 
 Note:          An application by the operator under subsection 24(1) has effect as if it were an application by the * Slot Manager under this subsection.
 
@@ -551,7 +556,9 @@ Note:          An application by the operator under subsection
 
                    Criminal proceedings do not lie against a person only because the person has contravened a * civil penalty provision.
 
-### Division 3—Infringement notices (alternative to proceedings for civil penalty)
+<o:p> </o:p>
+
+### Division 3—Infringement notices (alternative to proceedings for civil penalty)
 
 ##### <a id="17"></a>17  Interpretation
 
@@ -559,7 +566,7 @@ Note:          An application by the operator under subsection
 
                     <a name="civil-contravent"></a>**_civil contravention_** means a contravention of a * civil penalty provision.
 
-                    <a name="civil-prosecut"></a>**_civil prosecution_** means proceedings under Division 2 for the payment of a pecuniary penalty in respect of a civil contravention.
+                    <a name="civil-prosecut"></a>**_civil prosecution_** means proceedings under Division 2 for the payment of a pecuniary penalty in respect of a civil contravention.
 
 ##### <a id="18"></a>18  Purpose and effect of this Division
 
@@ -589,7 +596,7 @@ the Compliance Committee may direct the * Slot Manager to issue an infringement 
 
              (2)  The * Slot Manager must issue an infringement notice in accordance with the direction.
 
-Note:          The person may apply to the * Federal Court for a determination of the question whether there has been a civil contravention—see section 24.
+Note:          The person may apply to the * Federal Court for a determination of the question whether there has been a civil contravention—see section 24.
 
 ##### <a id="20"></a>20  Infringement notice penalty
 
@@ -599,7 +606,7 @@ Note:          The person may apply to the * Federal Court for
 
              (3)  The * Compliance Scheme may specify different rates of fine to be payable according to the number of civil contraventions a person has committed, or has committed in a specified period, and according to whether a person is a body corporate or an individual. These are the only grounds on which the Compliance Scheme may specify different rates of fine as being appropriate.
 
-             (4)  A rate of fine specified in the * Compliance Scheme as being appropriate for a civil contravention by a person must not be more than one-fifth of the maximum pecuniary penalty that the * Federal Court could order the person to pay under Division 2 in respect of that contravention (see subsection 14(3)).
+             (4)  A rate of fine specified in the * Compliance Scheme as being appropriate for a civil contravention by a person must not be more than one-fifth of the maximum pecuniary penalty that the * Federal Court could order the person to pay under Division 2 in respect of that contravention (see subsection 14(3)).
 
 ##### <a id="21"></a>21  Infringement notice penalty is payable to the Slot Manager on behalf of Commonwealth
 
@@ -639,7 +646,7 @@ Note:          The person may apply to the * Federal Court for
 
                       (f)  state the penalty payable under the notice for the civil contravention; and
 
-                     (g)  contain the additional information required by subsection (2).
+                     (g)  contain the additional information required by subsection (2).
 
              (2)  The * infringement notice must tell the person to whom it is issued that:
 
@@ -653,7 +660,7 @@ Note:          The person may apply to the * Federal Court for
 
                      (c)  if a civil prosecution is brought against the person for the civil contravention, the person may be ordered to pay a civil penalty up to the appropriate limit specified in subsection 14(3) and may be ordered to pay the costs of the civil prosecution proceedings; and
 
-                     (d)  the person may, under section 24, apply to the * Federal Court for a determination of the question whether the person committed the civil contravention.
+                     (d)  the person may, under section 24, apply to the * Federal Court for a determination of the question whether the person committed the civil contravention.
 
              (3)  The * infringement notice may also contain any other information that the * Slot Manager considers is appropriate.
 
@@ -661,11 +668,11 @@ Note:          The person may apply to the * Federal Court for
 
              (1)  A person (the **_operator_**) who has been issued with an * infringement notice may apply to the * Federal Court for a determination of the question whether the person committed the civil contravention identified in the infringement notice.
 
-             (2)  If the operator makes an application under subsection (1):
+             (2)  If the operator makes an application under subsection (1):
 
-                     (a)  the application has effect as if it were instead an application made by the * Slot Manager, in accordance with section 15, for the payment of a pecuniary penalty referred to in section 14 in respect of the contravention; and
+                     (a)  the application has effect as if it were instead an application made by the * Slot Manager, in accordance with section 15, for the payment of a pecuniary penalty referred to in section 14 in respect of the contravention; and
 
-                     (b)  for the purposes of the resulting proceedings in the * Federal Court under section 14, the Slot Manager is the applicant and the operator is the respondent.
+                     (b)  for the purposes of the resulting proceedings in the * Federal Court under section 14, the Slot Manager is the applicant and the operator is the respondent.
 
 ##### <a id="25"></a>25  Withdrawal of infringement notice
 
@@ -697,57 +704,61 @@ Note:          The person may apply to the * Federal Court for
 
                      (b)  a civil prosecution may not be brought against the person for the civil contravention.
 
-             (2)  Subsection (1) does not apply if the * infringement notice has been withdrawn and the penalty paid has been refunded.
+             (2)  Subsection (1) does not apply if the * infringement notice has been withdrawn and the penalty paid has been refunded.
 
-### Division 4—Obligations in relation to money received under this Part
+<o:p> </o:p>
+
+### Division 4—Obligations in relation to money received under this Part
 
 ##### <a id="27"></a>27  Civil penalties and infringement notice penalties to be paid to the Commonwealth
 
              (1)  Amounts received by the * Slot Manager by way of:
 
-                     (a)  civil penalties under Division 2; and
+                     (a)  civil penalties under Division 2; and
 
-                     (b)  * infringement notice penalties under Division 3;
+                     (b)  * infringement notice penalties under Division 3;
 
 must be paid to the Commonwealth.
 
-             (2)  If an amount is paid to the Commonwealth as a civil penalty (Division 2) or an infringement notice penalty (Division 3) the Commonwealth must pay to the Slot Manager an amount equal to that amount.
+             (2)  If an amount is paid to the Commonwealth as a civil penalty (Division 2) or an infringement notice penalty (Division 3) the Commonwealth must pay to the Slot Manager an amount equal to that amount.
 
-             (3)  A payment of an amount to the Slot Manager under subsection (2) is subject to the condition that, if the Commonwealth becomes liable to refund the whole or part of that amount, the Slot Manager must pay to the Commonwealth an amount equivalent to the amount that the Commonwealth is liable to refund.
+             (3)  A payment of an amount to the Slot Manager under subsection (2) is subject to the condition that, if the Commonwealth becomes liable to refund the whole or part of that amount, the Slot Manager must pay to the Commonwealth an amount equivalent to the amount that the Commonwealth is liable to refund.
 
-             (4)  The Consolidated Revenue Fund is appropriated for the purposes of subsection (2).
+             (4)  The Consolidated Revenue Fund is appropriated for the purposes of subsection (2).
 
-             (5)  An amount payable by the Slot Manager under subsection (1) may be set off against an amount payable to the Slot Manager under subsection (2).
+             (5)  An amount payable by the Slot Manager under subsection (1) may be set off against an amount payable to the Slot Manager under subsection (2).
 
 ##### <a id="28"></a>28  Slot Manager to apply money for purposes of functions under this Act
 
-             (1)  The * Slot Manager is to apply the money paid to it under section 27 for the purposes of, or for purposes related to, the performance of the functions of the Slot Manager under this Act.
+             (1)  The * Slot Manager is to apply the money paid to it under section 27 for the purposes of, or for purposes related to, the performance of the functions of the Slot Manager under this Act.
 
-             (2)  If the * Slot Manager applies money to which subsection (1) applies otherwise than as required by that subsection, the amount so applied is a debt due by the Slot Manager to the Commonwealth, and is recoverable by action in a court of competent jurisdiction.
+             (2)  If the * Slot Manager applies money to which subsection (1) applies otherwise than as required by that subsection, the amount so applied is a debt due by the Slot Manager to the Commonwealth, and is recoverable by action in a court of competent jurisdiction.
 
-             (3)  The * Slot Manager must, within 6 months of the end of each financial year, prepare accounts showing how it has applied money referred to in subsection (1) that was paid to the Slot Manager during the year.
+             (3)  The * Slot Manager must, within 6 months of the end of each financial year, prepare accounts showing how it has applied money referred to in subsection (1) that was paid to the Slot Manager during the year.
 
              (4)  The regulations may:
 
-                     (a)  impose requirements relating to how the accounts referred to in subsection (3) are to be prepared; and
+                     (a)  impose requirements relating to how the accounts referred to in subsection (3) are to be prepared; and
 
                      (b)  impose requirements for the audit of those accounts; and
 
-                     (c)  deal with how this section applies to money referred to in subsection (1) if the * Slot Manager also receives other money; and
+                     (c)  deal with how this section applies to money referred to in subsection (1) if the * Slot Manager also receives other money; and
 
-                     (d)  deal with the obligations of a body corporate that has ceased to be the Slot Manager in relation to money referred to in subsection (1) that it received while it was the Slot Manager.
+                     (d)  deal with the obligations of a body corporate that has ceased to be the Slot Manager in relation to money referred to in subsection (1) that it received while it was the Slot Manager.
 
-### Division 5—Exemptions
+<o:p> </o:p>
+
+### Division 5—Exemptions
 
 ##### <a id="29"></a>29  Aircraft may take off or land in emergencies or if Slot Manager grants dispensation
 
-                   An aircraft may * take off from, or * land at, Sydney Airport in circumstances that would otherwise result in the * operator contravening a * civil penalty provision if:
+                   An aircraft may * take off from, or * land at, <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place> in circumstances that would otherwise result in the * operator contravening a * civil penalty provision if:
 
-                     (a)  the aircraft is involved in an emergency as described in section 30; or
+                     (a)  the aircraft is involved in an emergency as described in section 30; or
 
-                     (b)  a dispensation granted by the Slot Manager under section 31 authorises the take-off or landing, and the take-off or landing is in accordance with any conditions of the dispensation; or
+                     (b)  a dispensation granted by the Slot Manager under section 31 authorises the take-off or landing, and the take-off or landing is in accordance with any conditions of the dispensation; or
 
-                     (c)  the aircraft is a state aircraft as described in section 32.
+                     (c)  the aircraft is a state aircraft as described in section 32.
 
 ##### <a id="30"></a>30  Emergencies
 
@@ -765,7 +776,7 @@ must be paid to the Commonwealth.
 
 ##### <a id="31"></a>31  Dispensations in exceptional circumstances
 
-             (1)  The * Slot Manager may grant a dispensation authorising an aircraft to * take off from, or * land at, Sydney Airport in circumstances that would otherwise result in the * operator contravening a * civil penalty provision if the Slot Manager is satisfied that there are exceptional circumstances justifying the take-off or landing.
+             (1)  The * Slot Manager may grant a dispensation authorising an aircraft to * take off from, or * land at, <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place> in circumstances that would otherwise result in the * operator contravening a * civil penalty provision if the Slot Manager is satisfied that there are exceptional circumstances justifying the take-off or landing.
 
              (2)  A dispensation may be granted subject to conditions including, for example, conditions relating to when the * take-off or * landing must occur and the runway to be used.
 
@@ -783,19 +794,21 @@ must be paid to the Commonwealth.
 
                              (ii)  that is commanded by a member of that Force in the course of his or her duties as such a member;
 
-                            other than any such aircraft that is registered in Australia in accordance with the Civil Aviation Regulations; or
+                            other than any such aircraft that is registered in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> in accordance with the Civil Aviation Regulations; or
 
-                     (b)  an aircraft used in the military, customs or police services of a country other than Australia.
+                     (b)  an aircraft used in the military, customs or police services of a country other than <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
-## Part 4—The Slot Management Scheme
+<o:p> </o:p>
 
-### Division 1—Framework within which Scheme to be developed and to operate
+## Part 4—The Slot Management Scheme
+
+### Division 1—Framework within which Scheme to be developed and to operate
 
 ##### <a id="33"></a>33  The Scheme and its basic purpose
 
-             (1)  There is to be a scheme, known as the Slot Management Scheme, for Sydney Airport.
+             (1)  There is to be a scheme, known as the Slot Management Scheme, for <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place>.
 
-             (2)  The basic purpose of the Scheme is to provide a system for the allocation of permissions for * aircraft movements at Sydney Airport, within the * maximum movement limit.
+             (2)  The basic purpose of the Scheme is to provide a system for the allocation of permissions for * aircraft movements at <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place>, within the * maximum movement limit.
 
 ##### <a id="34"></a>34  The concept of a slot
 
@@ -807,7 +820,7 @@ must be paid to the Commonwealth.
 
 ##### <a id="35"></a>35  Contents of Scheme
 
-             (1)  The Slot Management Scheme must provide a system for the allocation of slots for aircraft movements at Sydney Airport (other than movements during * curfew periods). In addition to allocation, the Scheme may deal with associated matters such as the variation, suspension, cancellation, surrender or swapping of allocated slots, and the conditions that may be imposed on slots.
+             (1)  The Slot Management Scheme must provide a system for the allocation of slots for aircraft movements at <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place> (other than movements during * curfew periods). In addition to allocation, the Scheme may deal with associated matters such as the variation, suspension, cancellation, surrender or swapping of allocated slots, and the conditions that may be imposed on slots.
 
           (1A)  The Scheme may deal with the allocation of slots for specified categories of aircraft movements.
 
@@ -817,7 +830,7 @@ must be paid to the Commonwealth.
 
              (4)  The Scheme must set out guidelines relating to the exercise of the * Slot Manager’s power under subsection 11(4) to make declarations that * aircraft movements are not required to take place in accordance with their allocated slots.
 
-             (5)  The Scheme must set out guidelines relating to the exercise of the * Slot Manager’s power under section 31 to grant dispensations including, in particular:
+             (5)  The Scheme must set out guidelines relating to the exercise of the * Slot Manager’s power under section 31 to grant dispensations including, in particular:
 
                      (a)  what constitutes exceptional circumstances for the purposes of that section; and
 
@@ -829,27 +842,31 @@ must be paid to the Commonwealth.
 
              (8)  The Scheme must be consistent with the additional requirements (if any) specified in the regulations. Any such requirements must be consistent with the * maximum movement limit.
 
-             (9)  The Scheme must be consistent with the additional requirements (if any) specified in determinations in force under section 36.
+             (9)  The Scheme must be consistent with the additional requirements (if any) specified in determinations in force under section 36.
 
-           (10)  The Scheme must be consistent with any requirements of the _Sydney__Airport__Curfew Act 1995_ that relate to * aircraft movements before or after * curfew periods.
+           (10)  The Scheme must be consistent with any requirements of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Sydney_</st1:placename><st1:placename>_Airport_</st1:placename></st1:place>_Curfew Act 1995_ that relate to * aircraft movements before or after * curfew periods.
 
 ##### <a id="36"></a>36  Minister’s power to determine additional requirements
 
-             (1)  The Minister may, by legislative instrument, determine additional requirements with which the Slot Management Scheme must be consistent. Any such requirements must be consistent with the * maximum movement limit.
+             (1)  The Minister may, in writing, determine additional requirements with which the Slot Management Scheme must be consistent. Any such requirements must be consistent with the * maximum movement limit.
 
-             (2)  Before making a determination under subsection (1), the Minister must consult the * Slot Manager about the proposed determination. This requirement does not apply to the Minister making a determination before the Slot Manager has been appointed.
+             (2)  Before making a determination under subsection (1), the Minister must consult the * Slot Manager about the proposed determination. This requirement does not apply to the Minister making a determination before the Slot Manager has been appointed.
 
-##### <a id="37"></a>37  Consequence of Scheme not being consistent with section 35
+             (3)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-                   Inconsistency with section 35 does not affect the validity of the Slot Management Scheme. However, if the Minister becomes aware that the Scheme is inconsistent with that section, the Minister is to take action under Division 2 to have the Scheme amended, as soon as possible, so that it is consistent with that section.
+##### <a id="37"></a>37  Consequence of Scheme not being consistent with section 35
 
-### Division 2—Development and amendment of Scheme
+                   Inconsistency with section 35 does not affect the validity of the Slot Management Scheme. However, if the Minister becomes aware that the Scheme is inconsistent with that section, the Minister is to take action under Division 2 to have the Scheme amended, as soon as possible, so that it is consistent with that section.
+
+<o:p> </o:p>
+
+### Division 2—Development and amendment of Scheme
 
 #### Subdivision A—Development
 
 ##### <a id="38"></a>38  Slot Manager to develop slot management scheme and submit it for approval
 
-             (1)  The * Slot Manager is to develop a slot management scheme (the **_draft scheme_**) for Sydney Airport that is consistent with section 35.
+             (1)  The * Slot Manager is to develop a slot management scheme (the **_draft scheme_**) for <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place> that is consistent with section 35.
 
              (2)  The draft scheme is to be submitted to the Minister for approval.
 
@@ -861,19 +878,21 @@ must be paid to the Commonwealth.
 
              (2)  If the * Slot Manager refuses or fails to comply with the request to the satisfaction of the Minister within 14 days of the request being made, or within such longer period as the Minister determines, the Minister may amend the draft scheme to address the issue identified in the request. Before doing so, the Minister must first consider any reasons given by the Slot Manager for its refusal or failure.
 
-             (3)  The Minister’s power under this section to request an amendment of the draft scheme, or to amend the draft scheme, may be exercised even if the scheme is already consistent with section 35.
+             (3)  The Minister’s power under this section to request an amendment of the draft scheme, or to amend the draft scheme, may be exercised even if the scheme is already consistent with section 35.
 
-Note:          For example, the Minister may request or make an amendment of the draft scheme because he or she considers that a matter could be dealt with in a more appropriate way and still be consistent with section 35.
+Note:          For example, the Minister may request or make an amendment of the draft scheme because he or she considers that a matter could be dealt with in a more appropriate way and still be consistent with section 35.
 
 ##### <a id="40"></a>40  Approval of scheme
 
-             (1)  The Minister may, in writing, approve the draft scheme (as originally developed or as amended by the * Slot Manager or the Minister) if, and only if, the Minister is satisfied that the scheme is consistent with section 35.
+             (1)  The Minister may, in writing, approve the draft scheme (as originally developed or as amended by the * Slot Manager or the Minister) if, and only if, the Minister is satisfied that the scheme is consistent with section 35.
 
-             (2)  If the Minister approves the draft scheme, the Minister must, by legislative instrument, determine that the Slot Management Scheme for Sydney Airport is the scheme that has been approved. The determination must:
+             (2)  If the Minister approves the draft scheme, the Minister must, in writing, determine that the Slot Management Scheme for <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place> is the scheme that has been approved. The determination must:
 
                      (a)  set out the scheme in full; and
 
                      (b)  specify the day on which the scheme is to come into force as the Slot Management Scheme.
+
+             (3)  A determination under subsection (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="41"></a>41  When Slot Management Scheme comes into force
 
@@ -891,25 +910,29 @@ Note:          For example, the Minister may request or make a
 
              (2)  If the * Slot Manager refuses or fails to comply with the request to the satisfaction of the Minister within 14 days of the request being made, or within such longer period as the Minister determines, the Minister may develop an amendment of the Scheme to address the issue identified in the request. Before doing so, the Minister must first consider any reasons given by the Slot Manager for its refusal or failure.
 
-             (3)  The Minister’s power under this section to request an amendment of the Scheme, or to develop an amendment of the Scheme, may be exercised even if the Scheme already complies with section 35.
+             (3)  The Minister’s power under this section to request an amendment of the Scheme, or to develop an amendment of the Scheme, may be exercised even if the Scheme already complies with section 35.
 
-Note:          For example, the Minister may request or develop an amendment of the Scheme because he or she considers that a matter could be dealt with in a more appropriate way and still be consistent with section 35.
+Note:          For example, the Minister may request or develop an amendment of the Scheme because he or she considers that a matter could be dealt with in a more appropriate way and still be consistent with section 35.
 
 ##### <a id="44"></a>44  Approval of amendments
 
-             (1)  The Minister may, in writing, approve an amendment of the * Slot Management Scheme (being an amendment developed by the * Slot Manager or the Minister) if, and only if, the Minister is satisfied that the Scheme as proposed to be amended would be consistent with section 35.
+             (1)  The Minister may, in writing, approve an amendment of the * Slot Management Scheme (being an amendment developed by the * Slot Manager or the Minister) if, and only if, the Minister is satisfied that the Scheme as proposed to be amended would be consistent with section 35.
 
-             (2)  If the Minister approves an amendment of the * Slot Management Scheme, the Minister must, by legislative instrument, determine that the * Slot Management Scheme is amended by the amendment that has been approved. The determination must:
+             (2)  If the Minister approves an amendment of the * Slot Management Scheme, the Minister must, in writing, determine that the * Slot Management Scheme is amended by the amendment that has been approved. The determination must:
 
                      (a)  set out the amendment in full; and
 
                      (b)  specify the day on which the amendment is to come into force.
 
+             (3)  A determination under subsection (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
 ##### <a id="45"></a>45  When an amendment comes into force
 
                    The amendment set out in a determination under subsection 44(2) comes into force on the day specified in accordance with paragraph 44(2)(b).
 
-### Division 3—Powers of Minister and Compliance Committee in relation to slot allocation
+<o:p> </o:p>
+
+### Division 3—Powers of Minister and Compliance Committee in relation to slot allocation
 
 ##### <a id="46"></a>46  Minister’s powers
 
@@ -941,13 +964,15 @@ The direction does not have to be consistent with the Slot Management Scheme.
 
              (2)  The * Slot Manager is to have regard to the recommendation, but is not required to comply with it. Any actions the Slot Manager takes in complying with the recommendation must be in accordance with the * Slot Management Scheme.
 
-## Part 5—The Compliance Scheme
+<o:p> </o:p>
 
-### Division 1—Framework within which Scheme to be developed and to operate
+## Part 5—The Compliance Scheme
+
+### Division 1—Framework within which Scheme to be developed and to operate
 
 ##### <a id="48"></a>48  The Scheme and its basic purpose
 
-             (1)  There is to be a scheme, known as the **_Compliance Scheme_**, for Sydney Airport.
+             (1)  There is to be a scheme, known as the **_Compliance Scheme_**, for <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place>.
 
              (2)  The basic purpose of the Scheme is to provide for various matters relating to compliance with the requirements of this Act.
 
@@ -975,25 +1000,29 @@ The direction does not have to be consistent with the Slot Management Scheme.
 
              (7)  The Scheme must be consistent with the additional requirements (if any) specified in the regulations.
 
-             (8)  The Scheme must be consistent with the additional requirements (if any) specified in determinations in force under section 50.
+             (8)  The Scheme must be consistent with the additional requirements (if any) specified in determinations in force under section 50.
 
 ##### <a id="50"></a>50  Minister’s power to determine additional requirements
 
-             (1)  The Minister may, by legislative instrument, determine additional requirements with which the Compliance Scheme must be consistent.
+             (1)  The Minister may, in writing, determine additional requirements with which the Compliance Scheme must be consistent.
 
-             (2)  Before making a determination under subsection (1), the Minister must consult the * Compliance Committee about the proposed determination. This requirement does not apply to the Minister making a determination before the Compliance Committee has been appointed.
+             (2)  Before making a determination under subsection (1), the Minister must consult the * Compliance Committee about the proposed determination. This requirement does not apply to the Minister making a determination before the Compliance Committee has been appointed.
 
-##### <a id="51"></a>51  Consequence of Scheme not being consistent with section 49
+             (3)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-                   Inconsistency with section 49 does not affect the validity of the Compliance Scheme. However, if the Minister becomes aware that the Scheme is inconsistent with that section, the Minister is to take action under Division 2 to have the Scheme amended, as soon as possible, so that it is consistent with that section.
+##### <a id="51"></a>51  Consequence of Scheme not being consistent with section 49
 
-### Division 2—Development and amendment of Scheme
+                   Inconsistency with section 49 does not affect the validity of the Compliance Scheme. However, if the Minister becomes aware that the Scheme is inconsistent with that section, the Minister is to take action under Division 2 to have the Scheme amended, as soon as possible, so that it is consistent with that section.
+
+<o:p> </o:p>
+
+### Division 2—Development and amendment of Scheme
 
 #### Subdivision A—Development
 
 ##### <a id="52"></a>52  Compliance Committee to develop compliance scheme and submit it for approval
 
-             (1)  The * Compliance Committee is to develop a compliance scheme (the **_draft scheme_**) for Sydney Airport that is consistent with section 49.
+             (1)  The * Compliance Committee is to develop a compliance scheme (the **_draft scheme_**) for <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place> that is consistent with section 49.
 
              (2)  The draft scheme is to be submitted to the Minister for approval.
 
@@ -1005,19 +1034,21 @@ The direction does not have to be consistent with the Slot Management Scheme.
 
              (2)  If the * Compliance Committee refuses or fails to comply with the request to the satisfaction of the Minister within 14 days of the request being made, or within such longer period as the Minister determines, the Minister may amend the draft scheme to address the issue identified in the request. Before doing so, the Minister must first consider any reasons given by the Compliance Committee for its refusal or failure.
 
-             (3)  The Minister’s power under this section to request an amendment of the draft scheme, or to amend the draft scheme, may be exercised even if the scheme is already consistent with section 49.
+             (3)  The Minister’s power under this section to request an amendment of the draft scheme, or to amend the draft scheme, may be exercised even if the scheme is already consistent with section 49.
 
-Note:          For example, the Minister may request or make an amendment of the draft scheme because he or she considers that a matter could be dealt with in a more appropriate way and still be consistent with section 49.
+Note:          For example, the Minister may request or make an amendment of the draft scheme because he or she considers that a matter could be dealt with in a more appropriate way and still be consistent with section 49.
 
 ##### <a id="54"></a>54  Approval of scheme
 
-             (1)  The Minister may, in writing, approve the draft scheme (as originally developed or as amended by the * Compliance Committee or the Minister) if, and only if, the Minister is satisfied that the scheme is consistent with section 49.
+             (1)  The Minister may, in writing, approve the draft scheme (as originally developed or as amended by the * Compliance Committee or the Minister) if, and only if, the Minister is satisfied that the scheme is consistent with section 49.
 
-             (2)  If the Minister approves the draft scheme, the Minister must, by legislative instrument, determine that the Compliance Scheme for Sydney Airport is the scheme that has been approved. The determination must:
+             (2)  If the Minister approves the draft scheme, the Minister must, in writing, determine that the Compliance Scheme for <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place> is the scheme that has been approved. The determination must:
 
                      (a)  set out the scheme in full; and
 
                      (b)  specify the day on which the scheme is to come into force as the Compliance Scheme.
+
+             (3)  A determination under subsection (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="55"></a>55  When Compliance Scheme comes into force
 
@@ -1035,29 +1066,33 @@ Note:          For example, the Minister may request or make a
 
              (2)  If the * Compliance Committee refuses or fails to comply with the request to the satisfaction of the Minister within 14 days of the request being made, or within such longer period as the Minister determines, the Minister may develop an amendment of the Scheme to address the issue identified in the request. Before doing so, the Minister must first consider any reasons given by the Compliance Committee for its refusal or failure.
 
-             (3)  The Minister’s power under this section to request an amendment of the Scheme, or to develop an amendment of the Scheme, may be exercised even if the Scheme already complies with section 49.
+             (3)  The Minister’s power under this section to request an amendment of the Scheme, or to develop an amendment of the Scheme, may be exercised even if the Scheme already complies with section 49.
 
-Note:          For example, the Minister may request or develop an amendment of the Scheme because he or she considers that a matter could be dealt with in a more appropriate way and still be consistent with section 49.
+Note:          For example, the Minister may request or develop an amendment of the Scheme because he or she considers that a matter could be dealt with in a more appropriate way and still be consistent with section 49.
 
 ##### <a id="58"></a>58  Approval of amendments
 
-             (1)  The Minister may, in writing, approve an amendment of the * Compliance Scheme (being an amendment developed by the * Compliance Committee or the Minister) if, and only if, the Minister is satisfied that the Scheme as proposed to be amended would be consistent with section 49.
+             (1)  The Minister may, in writing, approve an amendment of the * Compliance Scheme (being an amendment developed by the * Compliance Committee or the Minister) if, and only if, the Minister is satisfied that the Scheme as proposed to be amended would be consistent with section 49.
 
-             (2)  If the Minister approves an amendment of the * Compliance Scheme, the Minister must, by legislative instrument, determine that the Compliance Scheme is amended by the amendment that has been approved. The determination must:
+             (2)  If the Minister approves an amendment of the * Compliance Scheme, the Minister must, in writing, determine that the Compliance Scheme is amended by the amendment that has been approved. The determination must:
 
                      (a)  set out the amendment in full; and
 
                      (b)  specify the day on which the amendment is to come into force.
 
+             (3)  A determination under subsection (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
 ##### <a id="59"></a>59  When an amendment comes into force
 
                    The amendment set out in a determination under subsection 58(2) comes into force on the day specified in accordance with paragraph 58(2)(b).
 
-## Part 6—The Slot Manager
+<o:p> </o:p>
+
+## Part 6—The Slot Manager
 
 ##### <a id="60"></a>60  The Slot Manager
 
-             (1)  There is to be a Slot Manager for Sydney Airport.
+             (1)  There is to be a Slot Manager for <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place>.
 
              (2)  The functions of the Slot Manager are:
 
@@ -1085,7 +1120,7 @@ How legal proceedings taken by or against Slot Manager
 
 Slot Manager not a Commonwealth authority etc.
 
-             (3)  Subject to subsections (4) and (5), the body corporate that is the * Slot Manager is not to be taken, merely because it holds that office:
+             (3)  Subject to subsections (4) and (5), the body corporate that is the * Slot Manager is not to be taken, merely because it holds that office:
 
                      (a)  to be the Commonwealth or a Commonwealth authority; or
 
@@ -1097,9 +1132,9 @@ Slot Manager not a Commonwealth authority etc.
 
 (within the ordinary meaning of the expression concerned) for the purposes of a law unless a law, or regulations for the purposes of this section, expressly provide otherwise.
 
-             (4)  For the purposes of sections 134.1, 134.2, 135.1 and 135.2 of the _Criminal Code_, the * Slot Manager is to be taken to be a Commonwealth entity.
+             (4)  For the purposes of sections 134.1, 134.2, 135.1 and 135.2 of the _Criminal Code_, the * Slot Manager is to be taken to be a Commonwealth entity.
 
-             (5)  For the purposes of sections 141.1, 142.1, 142.2, 148.1 and 148.2 of the _Criminal Code_, the following persons are to be taken to be Commonwealth public officials:
+             (5)  For the purposes of sections 141.1, 142.1, 142.2, 148.1 and 148.2 of the _Criminal Code_, the following persons are to be taken to be Commonwealth public officials:
 
                      (a)  the * Slot Manager; and
 
@@ -1125,7 +1160,7 @@ Interpretation
 
              (1)  No action lies against the * Slot Manager, or against an employee or agent of the Slot Manager acting in the course of that person’s employment or agency, for or in respect of any loss or damage caused by the Slot Manager, or the employee or agent, doing something that is within the Slot Manager’s functions.
 
-             (2)  Subsection (1) does not cover loss or damage that is wilfully or negligently caused by the * Slot Manager or by the employee or agent.
+             (2)  Subsection (1) does not cover loss or damage that is wilfully or negligently caused by the * Slot Manager or by the employee or agent.
 
              (3)  In this section:
 
@@ -1143,11 +1178,13 @@ Interpretation
 
                      (c)  the transfer of rights and liabilities to the new Slot Manager.
 
-## Part 7—The Compliance Committee
+<o:p> </o:p>
+
+## Part 7—The Compliance Committee
 
 ##### <a id="66"></a>66  The Compliance Committee
 
-             (1)  There is to be a Compliance Committee for   Sydney Airport.
+             (1)  There is to be a Compliance Committee for <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename></st1:place>.
 
              (2)  The functions of the Committee are:
 
@@ -1199,11 +1236,13 @@ Interpretation
 
              (1)  No action lies against the * Compliance Committee for or in respect of any loss or damage caused by the Compliance Committee doing something that is within the Compliance Committee’s functions.
 
-             (2)  Subsection (1) does not cover loss or damage that is wilfully or negligently caused by the Compliance Committee.
+             (2)  Subsection (1) does not cover loss or damage that is wilfully or negligently caused by the Compliance Committee.
 
              (3)  In this section, a reference to the Compliance Committee includes a reference to a member of the Compliance Committee acting as such a member.
 
-## Part 8—Miscellaneous
+<o:p> </o:p>
+
+## Part 8—Miscellaneous
 
 ##### <a id="70"></a>70  Evidentiary certificates
 
@@ -1235,17 +1274,17 @@ is, for the purposes of proceedings under this Act, prima facie evidence of the 
 
                      (b)  an SES employee in the Department;
 
-the Minister’s powers to give approvals and make determinations under sections 44 and 58 in relation to amendments of the * Slot Management Scheme and the * Compliance Scheme.
+the Minister’s powers to give approvals and make determinations under sections 44 and 58 in relation to amendments of the * Slot Management Scheme and the * Compliance Scheme.
 
 ##### <a id="72"></a>72  Crown to be bound
 
              (1)  This Act binds the Crown in each of its capacities.
 
-             (2)  This Act does not make the Crown liable to be prosecuted for an offence, or for a civil penalty under Division 2 of Part 3.
+             (2)  This Act does not make the Crown liable to be prosecuted for an offence, or for a civil penalty under Division 2 of Part 3.
 
 ##### <a id="73"></a>73  Extra-territorial operation
 
-                   This Act extends to acts, omissions, matters and things outside Australia, whether or not in a foreign country.
+                   This Act extends to acts, omissions, matters and things outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, whether or not in a foreign country.
 
 ##### <a id="74"></a>74  Regulations
 
@@ -1255,7 +1294,7 @@ the Minister’s powers to give approvals and make determinations under sections
 
                      (b)  necessary or convenient for carrying out or giving effect to this Act.
 
-             (2)  Without limiting subsection (1), the regulations may:
+             (2)  Without limiting subsection (1), the regulations may:
 
                      (a)  provide for the * Slot Manager and the * Compliance Committee to report on specified matters; and
 
@@ -1265,13 +1304,14 @@ the Minister’s powers to give approvals and make determinations under sections
 
                               (i)  between the Slot Manager and the Compliance Committee; and
 
-                             (ii)  to the Slot Manager or the Compliance Committee by * Airservices Australia or by other persons; and
+                             (ii)  to the Slot Manager or the Compliance Committee by * Airservices <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or by other persons; and
 
                      (d)  prescribe penalties, not exceeding 10 penalty units, for offences against the regulations.
 
-# Schedule 1—Definitions
 
-_Note:       Section 3 describes how asterisks are used to identify terms that are defined in this Schedule._
+# Schedule 1—Definitions
+
+_Note:       Section 3 describes how asterisks are used to identify terms that are defined in this Schedule._
 
 ##### <a id="1"></a>1  Definitions
 
@@ -1285,238 +1325,238 @@ _Note:       Section 3 describes how asterisks are used to identif
 
                      (b)  the * taking off of an aircraft from a runway.
 
-                    <a name="airservic-australia"></a>**_Airservices Australia_** means the body called Airservices Australia that is established by the _Air Services Act 1995_.
+                    <a name="airservic-australia"></a>**_Airservices Australia_** means the body called Airservices <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> that is established by the _Air Services Act 1995_.
 
-                    <a name="civil-penalti-provision"></a>**_civil penalty provision_** means section 12 or 13.
+                    <a name="civil-penalti-provision"></a>**_civil penalty provision_** means section 12 or 13.
 
-                    <a name="complianc-committe"></a>**_Compliance Committee_** means the Committee appointed in accordance with regulations for the purposes of section 67.
+                    <a name="complianc-committe"></a>**_Compliance Committee_** means the Committee appointed in accordance with regulations for the purposes of section 67.
 
-                    <a name="complianc-scheme"></a>**_Compliance Scheme_** means the scheme set out in a determination under subsection 54(2), as that scheme is amended from time to time.
+                    <a name=""></a><a name="complianc-scheme"></a>**_Compliance Scheme_** means the scheme set out in a determination under subsection 54(2), as that scheme is amended from time to time.
 
-                    <a name="curfew-period"></a>**_curfew period_** has the same meaning as in the _Sydney__Airport__Curfew Act 1995_.
+                    <a name="curfew-period"></a>**_curfew period_** has the same meaning as in the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Sydney_</st1:placename><st1:placename>_Airport_</st1:placename></st1:place>_Curfew Act 1995_.
 
-                    <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
+                    <a name=""></a><a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
-                    <a name="infring-notic"></a>**_infringement notice_** means an infringement notice issued under section 19.
+                    <a name=""></a><a name="infring-notic"></a>**_infringement notice_** means an infringement notice issued under section 19.
 
                     <a name="land"></a>**_land_** has the meaning given by the * Compliance Scheme.
 
-                    <a name="maximum-movem-limit"></a>**_maximum movement limit_** has the meaning given by subsection 6(1).
+                    <a name=""></a><a name="maximum-movem-limit"></a>**_maximum movement limit_** has the meaning given by subsection 6(1).
 
                     <a name="oper"></a>**_operator_** of an aircraft means the person who, when an * aircraft movement using the aircraft occurs, is:
 
-                     (a)  unless paragraph (b) applies—the owner of the aircraft; or
+                     (a)  unless paragraph (b) applies—the owner of the aircraft; or
 
                      (b)  if the aircraft is under a lease at the time of the movement—the lessee of the aircraft.
 
                     <a name="slot"></a>**_slot_** has the meaning given by subsection 34(1).
 
-                    <a name="slot-manag-scheme"></a>**_Slot Management Scheme_** means the scheme set out in a determination under subsection 40(2), as that scheme is amended from time to time.
+                    <a name=""></a><a name="slot-manag-scheme"></a>**_Slot Management Scheme_** means the scheme set out in a determination under subsection 40(2), as that scheme is amended from time to time.
 
-                    <a name="slot-manag"></a>**_Slot Manager_** means the body corporate appointed under section 61 to hold the office of Slot Manager.
+                    <a name=""></a><a name="slot-manag"></a>**_Slot Manager_** means the body corporate appointed under section 61 to hold the office of Slot Manager.
 
-                    <a name="airport"></a><a name=""></a><a name="sydnei"></a>**_Sydney_****_Airport_** means the airport known as Sydney (Kingsford-Smith) Airport.
+                    <a name="airport"></a><a name=""></a><a name="sydnei"></a><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>**_Sydney_**</st1:placename><st1:placename>**_Airport_**</st1:placename></st1:place> means the airport known as Sydney (Kingsford-Smith) Airport.
 
                     <a name="off"></a>**_take off_** has the meaning given by the * Compliance Scheme.
 
-# Schedule 2—Amendment of the Airports Act 1996
 
-* * *
+# <span style="mso-bookmark: CurrentFind"><span class="CharChapNo">Schedule 2</span>—<span class="CharChapText">Amendment of the Airports Act 1996</span></span><span style="mso-bookmark: CurrentFind"></span>
 
-**Note:**
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 1pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-The amendments made by this Schedule are incorporated in the compilation on ComLaw..
+**Note:<o:p></o:p>**
 
-_Airports Act 1996_
+The amendments made by this Schedule are incorporated in the compilation on SCALEplus of the _Airports Act 1996_.
 
-For access to the wording of the amendments made by this Schedule _see_ Act No. 173, 1997.
+For access to the wording of the amendments made by this Schedule, click here [<st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Sydney_</st1:placename><st1:placename>_Airport_</st1:placename></st1:place>_Demand Management Act 1997_ No. 173, 1997].</div>
 
-* * *
 
-# Notes to the _Sydney Airport Demand Management Act 1997_
+# Notes to the _<span style="mso-no-proof: yes">Sydney Airport Demand Management Act 1997</span>_
 
 ### Note 1
 
-The _Sydney Airport Demand Management Act 1997_ as shown in this compilation comprises Act No. 173, 1997 amended as indicated in the Tables below.
+The _Sydney Airport Demand Management Act 1997_ as shown in this compilation comprises Act No. 173, 1997 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
+For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
+For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
 ### Table of Acts
 
 <table>
 <colgroup>
-  <col width="31%">
+  <col width="30%">
   <col width="16%">
   <col width="18%">
   <col width="22%">
   <col width="0%">
   <col width="14%">
+  <col width="0%">
 </colgroup>
 
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year</div>
+and year <o:p></o:p> 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent <o:p></o:p> 
+ </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td colspan="2">
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
+    </td>
+    <td>
+      <div></div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Sydney Airport Demand Management Act 1997</div>
-  </td>
-  <td>
-    <div>173, 1997</div>
-  </td>
-  <td>
-    <div>17 Nov 1997</div>
-  </td>
-  <td>
-    <div>Parts 2, 3: 17 May 1998 ( <i>see</i>s. 2(3)) 
-Remainder: Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 910): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 418, 419)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sydney Airport Demand Management Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>45, 2001</div>
-  </td>
-  <td>
-    <div>5 June 2001</div>
-  </td>
-  <td colspan="2">
-    <div>5 June 2001</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 4–14 and Schedule 3 (items 507, 508): 15 July 2001 ( <i>see</i> <i>Gazette</i>2001, No. S285 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td colspan="2">
-    <div>S. 4 and Schedule 1 (items 424, 425, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Maritime Transport and Offshore Facilities Security Amendment (Security Plans and Other Measures) Act 2006</div>
-  </td>
-  <td>
-    <div>109, 2006</div>
-  </td>
-  <td>
-    <div>27 Sept 2006</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 83–96): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename> </st1:place>Demand Management Act 1997</div>
+    </td>
+    <td>
+      <div>173, 1997</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" month="11" day="17" year="1997">17 Nov 1997</st1:date></div>
+    </td>
+    <td>
+      <div>Parts 2, <st1:time hour="3" minute="17">3: 17</st1:time>May 1998 ( <i style="mso-bidi-font-style: normal">see</i>s. 2(3)) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td colspan="2">
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" month="11" day="11" year="1999">11 Nov 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 910): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" month="12" day="5" year="1999">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style: normal">(a) <o:p></o:p> </i></div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td>
+      <div>137, 2000</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" month="11" day="24" year="2000">24 Nov 2000</st1:date></div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" month="5" day="24" year="2001">24 May 2001</st1:date> 
+</div>
+    </td>
+    <td colspan="2">
+      <div>Sch. 2 (items 418, 419)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placename>Sydney</st1:placename> <st1:placename>Airport</st1:placename> </st1:place>Demand Management Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>45, 2001</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" month="6" day="5" year="2001">5 June 2001</st1:date></div>
+    </td>
+    <td colspan="2">
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" month="6" day="5" year="2001">5 June 2001</st1:date></div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" month="6" day="28" year="2001">28 June 2001</st1:date></div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 4–14 and Schedule 3 (items 507, 508): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" month="7" day="15" year="2001">15 July 2001</st1:date>( <i style="mso-bidi-font-style: normal">see</i> <i style="mso-bidi-font-style: normal">Gazette</i>2001, No. S285 <i style="mso-bidi-font-style: normal">(b)</i></div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 4–14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td colspan="2">
+      <div>S. 4 and Schedule 1 (items 424, 425, 496): Royal Assent</div>
+    </td>
+    <td colspan="2">
+      <div>S. 4 and Sch. 1 (item 496)</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
 
- 
+<o:p> </o:p>
 
-_(a)_     The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule 1 (item 910) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+_(a)_     The <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Sydney_</st1:placename><st1:placename>_Airport_</st1:placename></st1:place>_Demand Management Act 1997_ was amended by Schedule 1 (item 910) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule 3 (items 507 and 508) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(b)_ The <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>_Sydney_</st1:placename><st1:placename>_Airport_</st1:placename></st1:place>_Demand Management Act 1997_ was amended by Schedule 3 (items 507 and 508) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+                 (3)   Subject to subsections <st1:time hour="9" minute="56">(4) to (10)</st1:time>, Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
 
 ## Table of Amendments
 
@@ -1529,260 +1569,167 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 45, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 27</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5A </div>
+    </td>
+    <td>
+      <div>ad. No. 45, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 3 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 4 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 27 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 4 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35 </div>
+    </td>
+    <td>
+      <div>am. No. 45, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 3 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46 </div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 6 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61 </div>
+    </td>
+    <td>
+      <div>am. No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 62 </div>
+    </td>
+    <td>
+      <div>am. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 8 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 71 </div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+</tbody></table>
 
- 
+<o:p> </o:p>
+
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
-## Schedule 2
+## Schedule 2
 
 ## 418  Transitional—pre-commencement offences
 
@@ -1796,7 +1743,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
 ## 419  Transitional—pre-commencement notices
 
@@ -1812,28 +1759,27 @@ the amendment of the first-mentioned provision by this Schedule does not affect 
 
 * * *
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
 
-##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
+##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
              (1)  If:
 
                      (a)  a decision or action is taken or another thing is made, given or done; and
 
-                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
+                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
 
-then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
+then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
 
              (2)  In this section:
 
-                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
+                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
- 
 
- 
+<o:p> </o:p>
