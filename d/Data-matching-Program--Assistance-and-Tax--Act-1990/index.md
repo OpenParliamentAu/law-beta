@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00339/Html/349fe48c-4230-42fb-bf81-717e9497081b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00725/Html/DataMatchPrAT1990WD02_image001.gif)
 
-# Data‑matching Program (Assistance and Tax) Act 1990
+# Data-matching Program (Assistance and Tax) Act 1990
 
 **Act No. 20 of 1991 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 November 2010
+ taking into account amendments up to Act No. 105 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -30,7 +30,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3A](#3A).         Directions by Secretary to the Department of Social Security
 
-**Part 2—Data‑matching**
+**Part 2—Data-matching**
 
 [4](#4).            Matching agency
 
@@ -40,7 +40,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Steps in data matching cycle
 
-[8](#8).            Data may be sent on‑line
+[8](#8).            Data may be sent on-line
 
 [9](#9).            Length of data matching cycle
 
@@ -68,7 +68,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
-                   This Act may be cited as the _Data‑matching Program (Assistance and Tax) Act 1990_.
+                   This Act may be cited as the _Data-matching Program (Assistance and Tax) Act 1990_.
 
 ##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
@@ -216,7 +216,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (v)  assistance under the Scheme providing living allowances for English as a Second Language;
 
-                            (vi)  assistance under the Commonwealth rebate for apprentice full‑time training scheme; or 
+                            (vi)  assistance under the Commonwealth rebate for apprentice full-time training scheme; or 
 
                      (c)  a social security payment within the meaning of the _Social Security Act 1991_; or
 
@@ -224,7 +224,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (ca)  formal training allowance dealt with by the Department of Social Security or by the Services Delivery Agency; or
 
-                   (cb)  a payment of financial supplement under:
+                    (cb)  a payment of financial supplement under:
 
                               (i)  Chapter 2B of the _Social Security Act 1991_; or
 
@@ -234,15 +234,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                   (daa)  any compensation or other benefit given under the _Military Rehabilitation and Compensation Act 2004_; or
 
-                   (da)  any youth training allowance given under Part 8 of the _Student and Youth Assistance Act 1973_ as in force before 1 July 1998; or
+                    (da)  any youth training allowance given under Part 8 of the _Student and Youth Assistance Act 1973_ as in force before 1 July 1998; or
 
-                   (db)  a payment of fee relief under the _Child Care Act 1972_ as in force immediately before the commencement of Schedule 3 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_; or
+                    (db)  a payment of fee relief under the _Child Care Act 1972_ as in force immediately before the commencement of Schedule 3 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_; or
 
-                   (dc)  childcare rebate under the _Childcare Rebate Act 1993_ as in force immediately before its repeal; or
+                    (dc)  childcare rebate under the _Childcare Rebate Act 1993_ as in force immediately before its repeal; or
 
-                   (dd)  family assistance within the meaning of the _A New Tax System (Family Assistance) Act 1999_; or
+                    (dd)  family assistance within the meaning of the _A New Tax System (Family Assistance) Act 1999_; or
 
-                   (de)  a payment of fee relief under the _Child Care Act 1972_ or any other payment known as Childcare assistance (fee relief) dealt with by the Department of Social Security or by the Services Delivery Agency; or
+                    (de)  a payment of fee relief under the _Child Care Act 1972_ or any other payment known as Childcare assistance (fee relief) dealt with by the Department of Social Security or by the Services Delivery Agency; or
 
                     (df)  child care assistance or child care rebate under the _Child Care Payments Act 1997_; or
 
@@ -326,7 +326,7 @@ and marital status has a corresponding meaning.
 
                      (b)  for any other purpose—a number referred to in paragraph (a) as modified by the matching agency.
 
-             (3)  The reference in paragraph 5 in Step 2 of the data‑matching cycle in section 7 to the matching agency extracting numbers from data includes a reference to the matching agency extracting numbers and modifying them as mentioned in paragraph (2)(b), and numbers so modified are taken to have been extracted from that data.
+             (3)  The reference in paragraph 5 in Step 2 of the data-matching cycle in section 7 to the matching agency extracting numbers from data includes a reference to the matching agency extracting numbers and modifying them as mentioned in paragraph (2)(b), and numbers so modified are taken to have been extracted from that data.
 
 ##### <a id="3A"></a>3A  Directions by Secretary to the Department of Social Security
 
@@ -342,7 +342,7 @@ the Secretary may, by legislative instrument, direct that despite subsection 3(1
 
              (3)  A direction comes into force on the first moment of the day next following the day when it is registered in the Federal Register of Legislative Instruments under the _Legislative Instruments Act 2003_, or on such later day as is specified in it, and remains in force until it is revoked.
 
-## Part 2—Data‑matching
+## Part 2—Data-matching
 
 ##### <a id="4"></a>4  Matching agency 
 
@@ -354,7 +354,7 @@ the Secretary may, by legislative instrument, direct that despite subsection 3(1
 
              (1)  This Act does not limit the application of other laws of the Commonwealth except to the extent (if any) that they are inconsistent with this Act.
 
-             (2)  Guidelines in force under section 17 of the _Privacy Act 1988_, in relation to TFN data or tax‑file number information are not breached where an agency has complied with the provisions of this Act.
+             (2)  Guidelines in force under section 17 of the _Privacy Act 1988_, in relation to TFN data or tax-file number information are not breached where an agency has complied with the provisions of this Act.
 
              (3)  Any oath or declaration made by an officer of a source agency in relation to the recording or disclosure of information is not broken by the officer doing anything for the purposes of, and in the course of, carrying out functions or duties under this Act.
 
@@ -404,7 +404,7 @@ in accordance with the data matching program made up of data matching cycles the
 
                     (ca)  the date of the most recent assessment under the _Income Tax Assessment Act 1936_ of the person’s declared income;
 
-                   (cb)  the amount of spouse rebate;
+                    (cb)  the amount of spouse rebate;
 
                      (d)  surname and any other name or initial of any other name of a spouse in respect of whom spouse rebate is claimed;
 
@@ -412,17 +412,17 @@ in accordance with the data matching program made up of data matching cycles the
 
               8.  The tax agency gives the matching agency the data found out under paragraph 7 and any identification numbers for the purposes of personal assistance of the person.
 
-           8A.  If the tax agency gives the matching agency tax file numbers under paragraph 8, the tax agency may indicate to the matching agency which, if any, of those tax file numbers, according to the tax agency’s records, may have become known to, or used by, a person not authorised to know or use that tax file number.
+            8A.  If the tax agency gives the matching agency tax file numbers under paragraph 8, the tax agency may indicate to the matching agency which, if any, of those tax file numbers, according to the tax agency’s records, may have become known to, or used by, a person not authorised to know or use that tax file number.
 
 **STEP 4**
 
               9.  The matching agency carries out identity matching by matching the personal identity data given under paragraph 8 with the family identity data given to it.
 
-            11.  Where there is an unresolved discrepancy in data given to the matching agency by a source agency, the matching agency gives the source agency particulars of the discrepancy.
+             11.  Where there is an unresolved discrepancy in data given to the matching agency by a source agency, the matching agency gives the source agency particulars of the discrepancy.
 
 **STEP 5**
 
-            12.  The matching agency carries out payment matching by matching the following data given by assistance agencies in Step 1:
+             12.  The matching agency carries out payment matching by matching the following data given by assistance agencies in Step 1:
 
                      (a)  family identity data; and
 
@@ -434,9 +434,9 @@ to find out:
 
                      (d)  if personal assistance is not being, or has not been, given to, or claimed by, persons who might be, or might have been, entitled to it.
 
-            13.  Where the matching of family identity data given by assistance agencies in Step 1 cannot identify a person for the purposes of paragraph 12, the matching agency matches TFN data given to it in Step 1 with the data being matched under that paragraph.
+             13.  Where the matching of family identity data given by assistance agencies in Step 1 cannot identify a person for the purposes of paragraph 12, the matching agency matches TFN data given to it in Step 1 with the data being matched under that paragraph.
 
-            14.  The matching agency carries out income matching of persons by using any identification number for the purposes of personal assistance of a person to match:
+             14.  The matching agency carries out income matching of persons by using any identification number for the purposes of personal assistance of a person to match:
 
                      (a)  income data of the person given to it by assistance agencies; and
 
@@ -444,7 +444,7 @@ to find out:
 
 to find out if there are any inconsistencies in the income data of the person.
 
-         14A.  If the source agency and the matching agency have agreed that this paragraph applies, the following subparagraphs apply:
+          14A.  If the source agency and the matching agency have agreed that this paragraph applies, the following subparagraphs apply:
 
                      (a)  if the matching agency thinks that any results of a payment or income matching appear to be results to which paragraph 15 applies, the matching agency gives a sample to the source agency;
 
@@ -462,7 +462,7 @@ to find out if there are any inconsistencies in the income data of the person.
 
 **STEP 6**
 
-            15.  The matching agency gives to each source agency the results of matching under earlier steps that are of concern to that other agency and have not been given to the other agency in an earlier step, being results that indicate:
+             15.  The matching agency gives to each source agency the results of matching under earlier steps that are of concern to that other agency and have not been given to the other agency in an earlier step, being results that indicate:
 
                      (a)  in the case of an assistance agency:
 
@@ -472,11 +472,11 @@ to find out if there are any inconsistencies in the income data of the person.
 
                      (b)  in the case of the tax agency—that a person might be evading, or might have evaded, tax.
 
-            16.  Information exchanged in paragraph 15 may include the return of TFN data from the matching agency to an assistance agency.
+             16.  Information exchanged in paragraph 15 may include the return of TFN data from the matching agency to an assistance agency.
 
-##### <a id="8"></a>8  Data may be sent on‑line
+##### <a id="8"></a>8  Data may be sent on-line
 
-                   Data may be transferred between agencies in the data matching program by on‑line computer connections.
+                   Data may be transferred between agencies in the data matching program by on-line computer connections.
 
 ##### <a id="9"></a>9  Length of data matching cycle
 
@@ -538,7 +538,7 @@ to find out if there are any inconsistencies in the income data of the person.
 
              (3)  Subject to subsection (3A), a source agency must commence any action in relation to information it receives under subsection (1) within 12 months from the date that it receives the information from the matching agency.
 
-          (3A)  The Secretary of an assistance agency that is a Department, the CEO, the Commissioner of Taxation or a Deputy Commissioner of Taxation may grant an extension or extensions of time for up to 12 months each of the 12 month period referred to in subsection (3).
+          (3A)  The Secretary to an assistance agency that is a Department, the CEO, the Commissioner of Taxation or a Deputy Commissioner of Taxation may grant an extension or extensions of time for up to 12 months each of the 12 month period referred to in subsection (3).
 
           (3B)  The power to grant an extension or extensions of time referred to in subsection (3A) must not, despite any other law, be delegated.
 
@@ -612,9 +612,9 @@ any personal assistance of that kind given, or any personal assistance of that k
 
              (3)  The function conferred by subsection (2) is a privacy function for the purposes of the _Australian Information Commissioner Act 2010_.
 
-             (4)  After the end of each financial year, each agency must give the Information Commissioner, and cause to be laid before each House of the Parliament, a report including the matters relating to the data‑matching program carried out during the financial year that are specified for the purposes of this subsection in guidelines issued under this section.
+             (4)  After the end of each financial year, each agency must give the Information Commissioner, and cause to be laid before each House of the Parliament, a report including the matters relating to the data-matching program carried out during the financial year that are specified for the purposes of this subsection in guidelines issued under this section.
 
-             (5)  After the 3‑year period ending on 30 June 1998, and after each successive 3‑year period, each agency must give the Minister responsible for the agency a report for presentation to the Parliament including all the details relating to the data‑matching program carried out during the period that are specified for the purposes of this subsection in guidelines issued under this section.
+             (5)  After the 3-year period ending on 30 June 1998, and after each successive 3-year period, each agency must give the Minister responsible for the agency a report for presentation to the Parliament including all the details relating to the data-matching program carried out during the period that are specified for the purposes of this subsection in guidelines issued under this section.
 
 Note:          Section 34C of the _Acts Interpretation Act 1901_ sets time limits for giving reports to Ministers and for presentation of reports to the Parliament.
 
@@ -706,7 +706,7 @@ that law applies to the information referred to in paragraph (a).
 
 ## Part 3—Amendments of the Privacy Act 1988
 
-_Sections 16‑20_
+_Sections 16-20_
 
 * * *
 
@@ -722,7 +722,7 @@ For access to the wording of the amendments made by this Part, _see_ Act No. 2
 
 ### Note 1
 
-The _Data‑matching Program (Assistance and Tax) Act 1990_ as shown in this compilation comprises Act No. 20, 1991 amended as indicated in the Tables below.
+The _Data-matching Program (Assistance and Tax) Act 1990_ as shown in this compilation comprises Act No. 20, 1991 amended as indicated in the Tables below.
 
 For application, saving or transitional provisions made by the _Freedom of Information Amendment (Reform) Act 2010, see_ Act No. 51, 2010.
 
@@ -762,7 +762,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Data‑matching Program (Assistance and Tax) Act 1990</div>
+    <div>Data-matching Program (Assistance and Tax) Act 1990</div>
   </td>
   <td>
     <div>20, 1991</div>
@@ -874,7 +874,7 @@ Schedule 2 (Part 6): 1 July 1992 <i>(d)</i></div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 3 (item 53): 30 June 1992 <i>(e)</i></div>
+    <div>Schedule 3 (item 53): 30 June 1992 <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -891,7 +891,7 @@ Schedule 2 (Part 6): 1 July 1992 <i>(d)</i></div>
     <div>19 Nov 1992</div>
   </td>
   <td>
-    <div>Ss. 31–43: 1 Jan 1993 
+    <div>Ss. 31-43: 1 Jan 1993 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -900,7 +900,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Data‑matching Program (Assistance and Tax) Amendment Act 1992</div>
+    <div>Data-matching Program (Assistance and Tax) Amendment Act 1992</div>
   </td>
   <td>
     <div>205, 1992</div>
@@ -945,7 +945,8 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 6 (Schedule 1 \[Part 2]): 20 Mar 1994 <i>(g)</i> 
-Part 3 (ss. 90–96): Royal Assent <i>(g)</i></div>
+Part 3 (ss. 
+90–-96): Royal Assent <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -989,7 +990,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
+    <div>Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
   </td>
   <td>
     <div>164, 1994</div>
@@ -1058,7 +1059,7 @@ S. 6(2) (items 37, 43): 1 Jan 1995 <i>(j)</i></div>
 </tr>
 <tr>
   <td>
-    <div>Social Security (Non‑Budget Measures) Legislation Amendment Act 1995</div>
+    <div>Social Security (Non-Budget Measures) Legislation Amendment Act 1995</div>
   </td>
   <td>
     <div>105, 1995</div>
@@ -1067,8 +1068,7 @@ S. 6(2) (items 37, 43): 1 Jan 1995 <i>(j)</i></div>
     <div>29 Sept 1995</div>
   </td>
   <td>
-    <div>Part 4 (ss. 
-54–58): Royal Assent <i>(m)</i></div>
+    <div>Part 4 (ss. 54-58): Royal Assent <i>(m)</i></div>
   </td>
   <td>
     <div>Ss. 55 and 58</div>
@@ -1103,7 +1103,7 @@ S. 6(2) (items 37, 43): 1 Jan 1995 <i>(j)</i></div>
   </td>
   <td>
     <div>Schedule 2 (items 3–10): Royal Assent <i>(o)</i> 
-Schedule 2 (items 11–13): 1 Jan 1996 <i>(o)</i></div>
+Schedule 2 (items 11-13): 1 Jan 1996 <i>(o)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1154,7 +1154,7 @@ Schedule 2 (items 11–13): 1 Jan 1996 <i>(o)</i></div>
     <div>4 Mar 1997</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1, 2): 30 June 1996 <i>(r)</i></div>
+    <div>Schedule 3 (items 1, 2): 30 June 1996 <i>(r)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1171,7 +1171,7 @@ Schedule 2 (items 11–13): 1 Jan 1996 <i>(o)</i></div>
     <div>17 Apr 1997</div>
   </td>
   <td>
-    <div>1 July 1997 ( <i>see</i>s. 2)</div>
+    <div>1 July 1997 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -1222,7 +1222,7 @@ Schedule 2 (items 11–13): 1 Jan 1996 <i>(o)</i></div>
     <div>8 Dec 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 9, 10): <i>(s)</i></div>
+    <div>Schedule 1 (items 9, 10): <i>(s)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1307,7 +1307,7 @@ Schedule 2 (items 11–13): 1 Jan 1996 <i>(o)</i></div>
     <div>17 June 1998</div>
   </td>
   <td>
-    <div>Schedule 5 (items 28, 29): 1 July 1998 <i>(v)</i>Schedule 13 (item 9): 1 July 1998 <i>(v)</i></div>
+    <div>Schedule 5 (items 28, 29): 1 July 1998 <i>(v)</i>Schedule 13 (item 9): 1 July 1998 <i>(v)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1332,7 +1332,7 @@ Schedule 2 (items 11–13): 1 Jan 1996 <i>(o)</i></div>
 </tr>
 <tr>
   <td>
-    <div>Data‑matching Program (Assistance and Tax) Amendment Act 1998</div>
+    <div>Data-matching Program (Assistance and Tax) Amendment Act 1998</div>
   </td>
   <td>
     <div>111, 1998</div>
@@ -1478,7 +1478,7 @@ Schedule 2 (items 11–13): 1 Jan 1996 <i>(o)</i></div>
     <div>27 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 8 (items 82–86): Royal Assent</div>
+    <div>Schedule 8 (items 82–86): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -1530,7 +1530,7 @@ Schedule 3 (items 1, 2): 1 Sept 2008</div>
     <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (items 27–31) and Schedule 7: <i>(zb)</i></div>
+    <div>Schedule 5 (items 27–31) and Schedule 7: <i>(zb)</i></div>
   </td>
   <td>
     <div>Sch. 7 \[ <i>see</i>Note 1]</div>
@@ -1552,42 +1552,25 @@ Schedule 3 (items 1, 2): 1 Sept 2008</div>
   <td>
     <div>Sch. 2 (items 1, 2) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 46): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by section 39 only of the _Social Security Legislation Amendment Act (No. 2) 1991_, subsection 2(4) of which provides as follows:
+_(a)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by section 39 only of the _Social Security Legislation Amendment Act (No. 2) 1991_, subsection 2(4) of which provides as follows:
 
                  (4)   Part 4 commences immediately after the commencement of Part 3.
 
          Part 3 commenced on 1 July 1991\. 
 
-_(b)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by section 106 (Schedule \[Part 1]) only of the _Social Security Legislation Amendment Act (No. 3) 1991_, subsection 2(3) of which provides as follows:
+_(b)_    The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by section 106 (Schedule \[Part 1]) only of the _Social Security Legislation Amendment Act (No. 3) 1991_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (2), (4), (5) and (6), Part 5 commences, or is taken to have commenced, on 12 November 1991.
 
-_(c)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by section 74 (Schedule 5 \[Part 1]) only of the _Social Security Legislation Amendment Act (No. 4) 1991_, paragraph 2(1)(h) of which provides as follows:
+_(c)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by section 74 (Schedule 5 \[Part 1]) only of the _Social Security Legislation Amendment Act (No. 4) 1991_, paragraph 2(1)(h) of which provides as follows:
 
                  (1)   The following provisions commence on the day on which this Act receives the Royal Assent:
 
                               (h)   Part 1 of Schedule 5;
 
-_(d)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by section 117 (Schedule 2 \[Parts 1 and 6]) only of the _Social Security Legislation Amendment Act 1992_, paragraphs 2(1)(g) and (14)(c) of which provide as follows:
+_(d)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by section 117 (Schedule 2 \[Parts 1 and 6]) only of the _Social Security Legislation Amendment Act 1992_, paragraphs 2(1)(g) and (14)(c) of which provide as follows:
 
                  (1)   The following provisions commence on the day on which this Act receives the Royal Assent:
 
@@ -1601,13 +1584,13 @@ _(e)_     The _Social Security Legislation Amendment Act 1992_ was amend
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the item received the Royal Assent.
 
-_(f)_ The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 2 (Part 2) only of the _Social Security Legislation Amendment Act (No. 2) 1992_, subsection 2(21)(d) of which provides as follows:
+_(f)_ The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 2 (Part 2) only of the _Social Security Legislation Amendment Act (No. 2) 1992_, subsection 2(21)(d) of which provides as follows:
 
                (21)   The following provisions commence, or are taken to have commenced, on 1 January 1993, immediately after the commencement of the _Social Security (Family Payment) Amendment Act 1992_:
 
                               (d)   Parts 2 and 3 of Schedule 2;
 
-_(g)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by section 6 (Schedule 1 \[Part 2]) and Part 3 (sections 90–96) only of the _Social Security (Budget and Other Measures) Legislation Amendment Act 1993_, subsections 2(1)(d), (2) and (8)(a) of which provide as follows:
+_(g)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by section 6 (Schedule 1 \[Part 2]) and Part 3 (sections 90–96) only of the _Social Security (Budget and Other Measures) Legislation Amendment Act 1993_, subsections 2(1)(d), (2) and (8)(a) of which provide as follows:
 
                  (1)   The following provisions commence on the day on which this Act receives the Royal Assent:
 
@@ -1619,15 +1602,15 @@ _(g)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ wa
 
                               (a)   Division 2 of Part 2 and Schedule 1.
 
-_(h)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Part 3 (sections 54 and 55) only of the _Social Security Legislation Amendment Act (No. 2) 1994_, subsection 2(3) of which provides as follows:
+_(h)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Part 3 (sections 54 and 55) only of the _Social Security Legislation Amendment Act (No. 2) 1994_, subsection 2(3) of which provides as follows:
 
                  (3)   Divisions 2, 8 and 11 of Part 2, Part 3, Part 4 (other than paragraph 57(a)) commence on 1 July 1994.
 
-_(i)_      The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Part 4 (section 60) only of the _Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
+_(i)_      The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Part 4 (section 60) only of the _Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
 
                  (1)   Part 1, Divisions 1 and 11 of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent.
 
-_(j)_      The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by sections 3(2) (item 158) and 6(2) (items 37 and 43) only of the _Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994_, subsections 2(1) and (5) of which provide as follows:
+_(j)_      The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by sections 3(2) (item 158) and 6(2) (items 37 and 43) only of the _Social Security (Parenting Allowance and Other Measures) Legislation Amendment Act 1994_, subsections 2(1) and (5) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on 1 July 1995.
 
@@ -1637,19 +1620,19 @@ _(k)_     Section 2 of the _Student Assistance (Youth Training Allowan
 
                    2.   This Act commences on 1 January 1995 immediately after the commencement of the _Student Assistance (Youth Training Allowance) Amendment Act 1994._
 
-_(l)_ The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 18 (items 1–3) only of the _Social Security Legislation Amendment Act (No. 1) 1995_, subsection 2(1) of which provides as follows:
+_(l)_ The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 18 (items 1-3) only of the _Social Security Legislation Amendment Act (No. 1) 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(m)_    The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Part 4 (sections 54–58) only of the _Social Security (Non‑Budget Measures) Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows:
+_(m)_    The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Part 4 (sections 54–58) only of the _Social Security (Non-Budget Measures) Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(n)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by subsection 3(2) only of the _Social Security Legislation Amendment (Family Measures) Act 1995_, subsection 2(2) of which provides as follows:
+_(n)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by subsection 3(2) only of the _Social Security Legislation Amendment (Family Measures) Act 1995_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 5 and 6 commence on  1 February 1996.
 
-_(o)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 2 (items 3–13) only of the _Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995_, subsections 2(1) and (3)(a) of which provide as follows:
+_(o)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 2 (items 3-13) only of the _Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995_, subsections 2(1) and (3)(a) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1657,7 +1640,7 @@ _(o)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ wa
 
                               (a)   Parts 1 and 3 of Schedule 2.
 
-_(p)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 2 (item 48) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
+_(p)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 2 (item 48) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
 
                  (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
 
@@ -1669,17 +1652,17 @@ _(p)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ wa
 
          The _Social Security (Rewrite) Amendment Act 1991_ and the _Social Security Act 1991_ came into operation on 1 July 1991.
 
-_(q)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 2 (item 11) only of the _Social Security Legislation Amendment (Budget and Other Measures) Act 1996_, subsection 2(4) of which provides as follows:
+_(q)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 2 (item 11) only of the _Social Security Legislation Amendment (Budget and Other Measures) Act 1996_, subsection 2(4) of which provides as follows:
 
                  (4)   Schedules 1, 2, 14, 15 and 16 commence on 1 July 1997.
 
-_(r)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 3 (items 1 and 2) only of the _Social Security Legislation Amendment (Newly Arrived Resident’s Waiting Periods and Other Measures) Act 1997_, subsection 2(2) of which provides as follows:
+_(r)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 3 (items 1 and 2) only of the _Social Security Legislation Amendment (Newly Arrived Resident’s Waiting Periods and Other Measures) Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedule 3 is taken to have commenced on 30 June 1996.
 
-_(s)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 1 (items 9 and 10) only of the _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_, subsection 2(3) of which provides as follows:
+_(s)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 1 (items 9 and 10) only of the _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_, subsection 2(3) of which provides as follows:
 
-                 (3)   Items 9 and 10 of Schedule 1 commence on the payment commencement day only if, before that day, subparagraphs (c)(xxivd) and (xxive) of the definition of **_personal assistance_** in subsection 3(1) of the _Data‑matching Program (Assistance and Tax) Act 1990_, as in force on 25 August 1997, have not been repealed by another Act.
+                 (3)   Items 9 and 10 of Schedule 1 commence on the payment commencement day only if, before that day, subparagraphs (c)(xxivd) and (xxive) of the definition of **_personal assistance_** in subsection 3(1) of the _Data-matching Program (Assistance and Tax) Act 1990_, as in force on 25 August 1997, have not been repealed by another Act.
 
          Subparagraphs (c) (xxivd) and (xxive) of the definition of **_personal assistance_** in subsection 3(1) were repealed by the _Social Security Legislation Amendment (Parenting and Other Measures) Act 1997_ before a date was fixed for the commencement of Schedule 1 (items 9 and 10).
 
@@ -1689,25 +1672,25 @@ _(sa)_ The _Child Care Payments (Consequential Amendments and Transitional Provi
 
          The payment commencement day was 19 June 2000.
 
-_(t)_      The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 6 only of the _Social Security Legislation Amendment (Parenting and Other Measures) Act 1997_, subsections 2(1) and (8) of which provide as follows:
+_(t)_      The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 6 only of the _Social Security Legislation Amendment (Parenting and Other Measures) Act 1997_, subsections 2(1) and (8) of which provide as follows:
 
                  (1)   Subject to subsections (2) to (8), this Act commences on the day on which it receives the Royal Assent.
 
-                 (8)   Item 3 of Schedule 6 commences only if subparagraphs (c)(xxivd) and (xxive) of the definition of **_personal assistance_** in subsection 3(1) of the _Data‑matching Program (Assistance and Tax) Act 1990_, as in force on 25 August 1997, have not already been repealed by another Act.
+                 (8)   Item 3 of Schedule 6 commences only if subparagraphs (c)(xxivd) and (xxive) of the definition of **_personal assistance_** in subsection 3(1) of the _Data-matching Program (Assistance and Tax) Act 1990_, as in force on 25 August 1997, have not already been repealed by another Act.
 
-_(u)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 23 only of the _Social Security and Veterans’ Affairs Legislation Amendment (Family and Other Measures) Act 1997_, subsection 2(1) of which provides as follows:
+_(u)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 23 only of the _Social Security and Veterans’ Affairs Legislation Amendment (Family and Other Measures) Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(v)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 5 (items 28 and 29) and Schedule 13 (item 9) only of the _Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998_, subsection 2(1) of which provides as follows:
+_(v)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 5 (items 28 and 29) and Schedule 13 (item 9) only of the _Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) to (10), this Act commences on 1 July 1998.
 
-_(w)_ The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 7 (item 11) only of the _Social Security and Veterans’ Affairs Legislation Amendment (Budget and Other Measures) Act 1998_, subsection 2(9) of which provides as follows:
+_(w)_ The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 7 (item 11) only of the _Social Security and Veterans’ Affairs Legislation Amendment (Budget and Other Measures) Act 1998_, subsection 2(9) of which provides as follows:
 
                  (9)   Schedule 7 commences, or is taken to have commenced, on 1 April 1998.
 
-_(x)_ The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 5 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsection 2(2) of which provides as follows:
+_(x)_ The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 5 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedule 1 (Parts 1 to 5), Schedules 3 to 6, Schedule 7 (other than item 14), Schedules 8 and 9, Schedule 10 (other than items 22, 63, 66 and 67) and Schedule 11 (items 3 and 4 only) commence, or are taken to have commenced, on the commencement of Schedule 1 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_. 
 
@@ -1717,11 +1700,11 @@ _(y)_     The _A New Tax System (Family Assistance) (Consequential and R
 
          Section 2 commenced on 8 July 1999.
 
-_(z)_     The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 5 (item 1) only of the _Youth Allowance Consolidation Act 2000_, subsection 2(1) of which provides as follows:
+_(z)_     The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 5 (item 1) only of the _Youth Allowance Consolidation Act 2000_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(za)_   The _Data‑matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 4 (item 1) only of the _Family and Community Services (2000 Budget and Related Measures) Act 2000_, subsection 2(2)(c) of which provides as follows:
+_(za)_   The _Data-matching Program (Assistance and Tax) Act 1990_ was amended by Schedule 4 (item 1) only of the _Family and Community Services (2000 Budget and Related Measures) Act 2000_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions:
 
@@ -1729,7 +1712,7 @@ _(za)_   The _Data‑matching Program (Assistance and Tax) Act 1990_ was ame
 
                          commence on 1 January 2001.
 
-_(zb)_   Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
+_(zb)_  Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -1929,7 +1912,7 @@ _(zb)_   Subsection 2(1) (item 7) of the _Freedom of Information Amendment
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 81, 1992; No. 121, 1993; No. 29, 1997; No. 51, 2010; No. 5, 2011</div>
+    <div>am. No. 81, 1992; No. 121, 1993; No. 29, 1997; No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2017,7 +2000,8 @@ _(zb)_   Subsection 2(1) (item 7) of the _Freedom of Information Amendment
 
 ### Application, saving or transitional provisions
 
-_Data‑matching Program (Assistance and Tax) Amendment Act 1998 (No. 111, 1998)_
+_Data-matching Program (Assistance and Tax) Amendment Act 1998
+ (No. 111, 1998)_
 
 ## 2  Application of repeal
 
@@ -2027,7 +2011,7 @@ The repeal made by this Schedule applies in relation to all data matching cycles
 
 _Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 137, 2001)_
 
-##### <a id="4"></a>4  Application of amendments
+##### <a id="4"></a>4  Application of amendments
 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
@@ -2059,13 +2043,14 @@ The amendment made by item 1 applies in relation to seniors health cards grant
 
 * * *
 
-_Paid Parental Leave (Consequential Amendments) Act 2010 (No. 105, 2010)_
+_Paid Parental Leave (Consequential Amendments) Act 2010 
+ (No. 105, 2010)_
 
 ## Schedule 2
 
 ## 1  Employer determination made where expected or actual date of birth is before 1 July 2011
 
-(1)       The _Paid Parental Leave Act 2010_ applies, with the modifications set out in this item, in relation to a person who has made a claim for parental leave pay for a child, if:
+(1)        The _Paid Parental Leave Act 2010_ applies, with the modifications set out in this item, in relation to a person who has made a claim for parental leave pay for a child, if:
 
                      (a)  for a claim made before the day the child is born—the expected date of birth of the child is before 1 July 2011; or
 
@@ -2073,7 +2058,7 @@ _Paid Parental Leave (Consequential Amendments) Act 2010 (No. 105, 2010)_
 
 _Note:       For a claim made before the day the child is born, see subitem (9) if the expected date of birth of the child is before 1 July 2011, but the child is born on or after that date._
 
-(2)       Section 101 of that Act (and the other provisions of that Act so far as they relate to that section) applies in relation to the person as if subsections (1) and (2) of that section were omitted and the following subsection substituted:
+(2)        Section 101 of that Act (and the other provisions of that Act so far as they relate to that section) applies in relation to the person as if subsections (1) and (2) of that section were omitted and the following subsection substituted:
 
              (1)  The Secretary must make a determination under this section (the **_employer determination_**) that a person’s employer is to pay the person instalments if the Secretary is satisfied, when making the determination, that:
 
@@ -2083,7 +2068,7 @@ _Note:       For a claim made before the day the child is born, see 
 
                      (c)  the person has consented in the claim to the employer paying instalments to the person; and
 
-                     (d)  the person is likely to be an Australian‑based employee of the employer during whichever of the following periods applies:
+                     (d)  the person is likely to be an Australian-based employee of the employer during whichever of the following periods applies:
 
                               (i)  if the Secretary has made a payability determination that parental leave pay is payable to the person—the person’s PPL period;
 
@@ -2093,9 +2078,9 @@ _Note:       For a claim made before the day the child is born, see 
 
                       (f)  if paragraphs (b) to (e) are satisfied in relation to more than one employer of the person—the person nominated the employer in the claim as the employer who would be required to pay instalments to the person.
 
-(3)       For the purposes of this item, an employer determination made under subsection 101(1), as that subsection applies because of subitem (2) of this item, is a **_transitional employer determination_**.
+(3)        For the purposes of this item, an employer determination made under subsection 101(1), as that subsection applies because of subitem (2) of this item, is a **_transitional employer determination_**.
 
-(4)       The following provisions of that Act do not apply in relation to a transitional employer determination:
+(4)        The following provisions of that Act do not apply in relation to a transitional employer determination:
 
                      (a)  section 103 (which deals with responding to a notice of an employer determination);
 
@@ -2103,11 +2088,11 @@ _Note:       For a claim made before the day the child is born, see 
 
                      (c)  subsections 207(3) and 224(1) (which deal with applying for review of employer determination decisions).
 
-(5)       Within 14 days after the date of the notice given under section 102 of that Act in relation to the transitional employer determination, the employer may give the Secretary a written notice (the **_acceptance notice_**) that complies with section 104 of that Act.
+(5)        Within 14 days after the date of the notice given under section 102 of that Act in relation to the transitional employer determination, the employer may give the Secretary a written notice (the **_acceptance notice_**) that complies with section 104 of that Act.
 
-(6)       If the employer gives the acceptance notice to the Secretary within that 14 day period, the transitional employer determination comes into force on the day the Secretary receives the acceptance notice.
+(6)        If the employer gives the acceptance notice to the Secretary within that 14 day period, the transitional employer determination comes into force on the day the Secretary receives the acceptance notice.
 
-(7)       If the employer does not give the acceptance notice to the Secretary within that 14 day period, the following paragraphs have effect:
+(7)        If the employer does not give the acceptance notice to the Secretary within that 14 day period, the following paragraphs have effect:
 
                      (a)  the Secretary must revoke the transitional employer determination;
 
@@ -2115,15 +2100,15 @@ _Note:       For a claim made before the day the child is born, see 
 
                      (c)  to avoid doubt, subsection 108(5) of that Act (which deals with giving notice of the revocation) applies in relation to the revocation.
 
-(8)       The Secretary may extend the 14 day period referred to in subitem (5) in relation to an employer. If the Secretary does so, subitems (6) and (7) have effect accordingly.
+(8)        The Secretary may extend the 14 day period referred to in subitem (5) in relation to an employer. If the Secretary does so, subitems (6) and (7) have effect accordingly.
 
-(9)       Despite paragraph (1)(a) and subitem (2) of this item, if the person’s child is born on or after 1 July 2011, then the following paragraphs have effect:
+(9)        Despite paragraph (1)(a) and subitem (2) of this item, if the person’s child is born on or after 1 July 2011, then the following paragraphs have effect:
 
                      (a)  the Secretary may make an employer determination for the person and the person’s employer under section 101 of the _Paid Parental Leave Act 2010_, as that section applies apart from this item;
 
                      (b)  if the Secretary does so and has previously made a transitional employer determination for the person and the employer, the Secretary is taken never to have made the transitional employer determination.
 
-(10)     The following provisions of the _Paid Parental Leave Act 2010_, apply in relation to this item as if it were a provision of that Act:
+(10)      The following provisions of the _Paid Parental Leave Act 2010_, apply in relation to this item as if it were a provision of that Act:
 
                      (a)  section 275 (which deals with how that Act applies to an adopted child);
 
@@ -2131,7 +2116,7 @@ _Note:       For a claim made before the day the child is born, see 
 
 ## 2  Employer determination made where expected date of birth is on or after 1 July 2011 but child born before that date
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  the Secretary makes an employer determination for an employer and a person under the _Paid Parental Leave Act 2010_; and
 
@@ -2143,7 +2128,7 @@ _Note:       For a claim made before the day the child is born, see 
 
                      (e)  the person’s employer has not made an election under section 109 of that Act that applies to the person.
 
-(2)       If, after the employer determination is made, the Secretary makes a payability determination that parental leave pay is payable to the person for the child, the notice given to the employer under section 113 of that Act must:
+(2)        If, after the employer determination is made, the Secretary makes a payability determination that parental leave pay is payable to the person for the child, the notice given to the employer under section 113 of that Act must:
 
                      (a)  state the day the child was born; and
 
@@ -2155,7 +2140,7 @@ _Note:       For a claim made before the day the child is born, see 
 
                              (ii)  gives the Secretary a written notice indicating that agreement within 14 days of the date referred to in paragraph (b).
 
-(3)       If the employer does not give the notice referred to in subparagraph (2)(c)(ii) to the Secretary within that 14 day period, the following paragraphs have effect:
+(3)        If the employer does not give the notice referred to in subparagraph (2)(c)(ii) to the Secretary within that 14 day period, the following paragraphs have effect:
 
                      (a)  the Secretary must revoke the employer determination;
 
@@ -2165,7 +2150,7 @@ _Note:       For a claim made before the day the child is born, see 
 
                      (d)  section 103 of that Act (which deals with responding to a notice of an employer determination) is taken to have never applied in relation to the employer determination.
 
-(4)       The following provisions of that Act  apply in relation to this item as if it were a provision of that Act:
+(4)        The following provisions of that Act  apply in relation to this item as if it were a provision of that Act:
 
                      (a)  section 275 (which deals with how that Act applies to an adopted child);
 
