@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00853/Html/ANTSAustBusNum1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00251/Html/ANTSAustBusNum1999_WD02_image001.gif)
 
 # A New Tax System (Australian Business Number) Act 1999
 
 **Act No. 84 of 1999 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 5 April 2010
+ taking into account amendments up to Act No. 88 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1204,7 +1204,7 @@ Note:          The Registrar may delegate powers and functions
 
                      (b)  it was obtained by the entrusted person, or by any other person, in the course of * official employment;
 
-                     (c)  it was disclosed or obtained under, or in relation to, this Act.
+                     (c)  it was disclosed or obtained under this Act.
 
                     <a name="registrar"></a>**_Registrar_** means the Registrar of the * Australian Business Register.
 
@@ -1630,23 +1630,6 @@ Schedule 5 (items 283–287): Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 2): 17 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 1 (items 92–94) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
@@ -1663,11 +1646,11 @@ _(b)_    The _A New Tax System (Australian Business Number) Act 1999_ was 
 
          Part 1 of Schedule 1 commences immediately after 1 July 2000.
 
-_(c)_     The _A New Tax System (Pay As You Go) Act 1999_ was amended by Schedule 10 (item 19) only of the _A New Tax System (Tax Administration) Act 1999_, subsection 2(11) of which provides as follows:
+(c)     The _A New Tax System (Pay As You Go) Act 1999_ was amended by Schedule 10 (item 19) only of the _A New Tax System (Tax Administration) Act 1999_, subsection 2(11) of which provides as follows:
 
                (11)   Subsection 2(1A) of the _A New Tax System (Pay As You Go) Act 1999_ (inserted by item 19 of Schedule 10 to this Act) commences, or is taken to have commenced, at the commencement of section 1 of that Act.
 
-_(d)_     The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 9 only of the _A New Tax System (Tax Administration) Act 1999_, subsection 2(7) of which provides as follows:
+(d)     The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 9 only of the _A New Tax System (Tax Administration) Act 1999_, subsection 2(7) of which provides as follows:
 
                  (7)   The following provisions commence on the day on which this Act receives the Royal Assent:
 
@@ -1685,7 +1668,7 @@ _(e)_     The _A New Tax System (Australian Business Number) Act 1999_ w
 
                  (3)   The remaining provisions of this Act commence on the day after the day on which this Act receives the Royal Assent.
 
-_(f)_      The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 2 (item 1) and Schedule 4C only of the _A New Tax System (Tax Administration) Act (No. 2) 2000_, subsections 3(1) and (5B) of which provide as follows:
+(f)     The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 2 (item 1) and Schedule 4C only of the _A New Tax System (Tax Administration) Act (No. 2) 2000_, subsections 3(1) and (5B) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1-1 of the _A New Tax System (Goods and Services Tax) Act 1999_.
 
@@ -2420,7 +2403,7 @@ No. 95, 2004</div>
     <div>S. 41</div>
   </td>
   <td colspan="2">
-    <div>am. Nos. 146, 177, 178 and 179, 1999; Nos. 91 and 92, 2000; Nos. 55 and 168, 2001; No. 101, 2006; Nos. 143 and 154, 2007; Nos. 42 and 88, 2009; No. 145, 2010</div>
+    <div>am. Nos. 146, 177, 178 and 179, 1999; Nos. 91 and 92, 2000; Nos. 55 and 168, 2001; No. 101, 2006; Nos. 143 and 154, 2007; Nos. 42 and 88, 2009</div>
   </td>
 </tr>
 <tr height="0">
