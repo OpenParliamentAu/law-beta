@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00446/Html/a5d402d0-2a1a-45cf-89b9-3f721c3a139a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00412/Html/93a54edd-bd8d-4da5-a6b4-b6882d62cb58_files/image001.gif)
 
 # Age Discrimination Act 2004
 
 **Act No. 68 of 2004 as amended**
 
-This compilation was prepared on 21 June 2011
- taking into account amendments up to Act No. 40 of 2011
+This compilation was prepared on 3 June 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1702,6 +1702,8 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+ 
+
 # Schedule 1—Laws for which an exemption is provided by subsection 39(1)
 
 <table>
@@ -2665,7 +2667,7 @@ of Assent</div>
     <div>4 Nov 2006</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2683,7 +2685,7 @@ Remainder: Royal Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2877,23 +2879,6 @@ Schedule 2 (item 2): 1 July 2008</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Sex and Age Discrimination Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>40, 2011</div>
-  </td>
-  <td>
-    <div>20 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–6): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 5) of the _Age Discrimination (Consequential Provisions) Act 2004_ provides as follows:
@@ -3043,7 +3028,8 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr>
@@ -3061,7 +3047,8 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -3458,152 +3445,7 @@ Omit “Chief Executive Officer of Medicare Australia”, substitute “Chief Ex
 
 Omit “Chief Executive Officer of Medicare Australia”, substitute “Chief Executive Medicare”.
 
-As at 21 June 2011 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Sex and Age Discrimination Legislation Amendment Act 2011 
- (No. 40, 2011)_
-
-The following amendments commence on 20 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1  Section 4
-
-After:
-
-* * *
-
-<li class="BoxList" style="margin-left:21.25pt">•      Functions are given to the
-
-Commission (see Part 6).</li>
-
-* * *
-
-insert:
-
-* * *
-
-<li class="BoxList" style="margin-left:21.25pt">•      The Age Discrimination
-
-Commissioner is established (see Part 6A).</li>
-
-* * *
-
-## 2  Section 5
-
-Insert:
-
-                    <a name="commission"></a>**_Commissioner_** means the Age Discrimination Commissioner appointed under section 53A.
-
-## 3  After Part 6
-
-Insert:
-
-## Part 6A—Age Discrimination Commissioner
-
-##### <a id="53A"></a>53A  Age Discrimination Commissioner
-
-             (1)  There is to be an Age Discrimination Commissioner, who is to be appointed by the Governor‑General by written instrument.
-
-Note:          The Age Discrimination Commissioner is eligible for reappointment: see the _Acts Interpretation Act 1901_.
-
-             (2)  A person may only be appointed as the Age Discrimination Commissioner if the Minister is satisfied that the person has appropriate qualifications, knowledge or experience.
-
-##### <a id="53B"></a>53B  Terms and conditions of appointment
-
-             (1)  The Commissioner holds office for the period specified in the instrument of appointment. The period must not exceed 7 years.
-
-             (2)  The Commissioner holds office on a full‑time basis.
-
-             (3)  The Commissioner holds office on the terms and conditions (if any), in relation to matters not covered by this Act, that are determined by the Governor‑General.
-
-##### <a id="53C"></a>53C  Remuneration of Commissioner
-
-             (1)  The Commissioner is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Commissioner is to be paid the remuneration that is prescribed by the regulations.
-
-             (2)  The Commissioner is to be paid the allowances that are prescribed by the regulations.
-
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
-
-##### <a id="53D"></a>53D  Leave of absence
-
-             (1)  The Commissioner has the recreation leave entitlements that are determined by the Remuneration Tribunal.
-
-             (2)  The Minister may grant the Commissioner leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
-
-##### <a id="53E"></a>53E  Outside employment
-
-                   The Commissioner must not engage in paid employment outside the duties of his or her office without the Minister’s approval.
-
-##### <a id="53F"></a>53F  Resignation
-
-             (1)  The Commissioner may resign his or her appointment by giving the Governor‑General a written resignation.
-
-             (2)  The resignation takes effect on the day it is received by the Governor‑General or, if a later day is specified in the resignation, on that later day.
-
-##### <a id="53G"></a>53G  Termination of appointment
-
-             (1)  The Governor‑General may terminate the appointment of the Commissioner for misbehaviour or physical or mental incapacity.
-
-             (2)  The Governor‑General must terminate the appointment of the Commissioner if:
-
-                     (a)  the Commissioner:
-
-                              (i)  becomes bankrupt; or
-
-                             (ii)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
-
-                            (iii)  compounds with his or her creditors; or
-
-                            (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
-
-                     (b)  the Commissioner is absent, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
-
-                     (c)  the Commissioner engages, except with the Minister’s approval, in paid employment outside the duties of his or her office (see section 53E).
-
-##### <a id="53H"></a>53H  Acting Commissioner
-
-             (1)  The Minister may, by written instrument, appoint a person to act as Commissioner:
-
-                     (a)  during a vacancy in the office of Commissioner (whether or not an appointment has previously been made to the office); or
-
-                     (b)  during any period, or during all periods, when the Commissioner:
-
-                              (i)   is absent from duty or from Australia; or
-
-                             (ii)  is, for any reason, unable to perform the functions of the office.
-
-             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
-
-                     (a)  the occasion for the appointment had not arisen; or
-
-                     (b)  there was a defect or irregularity in connection with the appointment; or
-
-                     (c)  the appointment had ceased to have effect; or
-
-                     (d)  the occasion to act had not arisen or had ceased.
-
-Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
-
-## 4  Paragraph 55(a)
-
-Repeal the paragraph, substitute:
-
-                     (a)  the Commissioner or another member of the Commission; or
-
-## 5  Subsection 58(1)
-
-Omit “a member of the Commission” (wherever occurring), substitute “the Commissioner or another member of the Commission,”.
-
-## 6  Subsection 60(6) (paragraph (a) of the definition of _person bound by this section because of office, employment or authorisation_)
-
-Repeal the paragraph, substitute:
-
-                     (a)  the Commissioner or another member of the Commission; or
-
-As at 21 June 2011 the amendments are not incorporated in this compilation.
+As at 3 June 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
