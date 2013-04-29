@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00037/Html/9530bfb6-8bfa-41a5-a890-5a07ad612516_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00276/Html/AdmiraltyAct88WD02_image001.gif)
 
 # Admiralty Act 1988
 
 **Act No. 34 of 1988 as amended**
 
-This compilation was prepared on 2 February 2010
- taking into account amendments up to Act No. 131 of 2009
+This compilation was prepared on 30 June 2009
+ taking into account amendments up to Act No. 77 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -64,7 +64,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20](#20).          Service on and arrest of only one ship
 
-[21](#21).          Re‑arrest
+[21](#21).          Re-arrest
 
 [22](#22).          Service and arrest out of jurisdiction
 
@@ -94,7 +94,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32](#32).          Powers of Federal Court in relation to register
 
-[33](#33).          Co‑ownership disputes
+[33](#33).          Co-ownership disputes
 
 [34](#34).          Damages for unjustified arrest etc 
 
@@ -130,31 +130,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [48](#48).          Validation
 
-**Part VIII—Amendments of the Navigation Act 1912**
+**Part VIII—Amendments of the Navigation Act 1912** 
 
-[49](#49).          Principal Act
+Sections 49–57
 
-[50](#50).          Crown bound
+**Part IX—Amendment of the Shipping Registration Act 1981** 
 
-[51](#51).          Abolition of defence of common employment
-
-[52](#52).          Jurisdiction as to wages
-
-[53](#53).          Compensation for loss occasioned by improper use of signals
-
-[54](#54).          Forfeiture of dangerous goods
-
-[55](#55).          Repeals
-
-[56](#56).          Limitation of actions
-
-[57](#57).          Proceedings against the Crown
-
-**Part IX—Amendment of the Shipping Registration Act 1981**
-
-[58](#58).          Principal Act
-
-[59](#59).          Repeal
+Sections 58, 59
 
 **Notes** 
 
@@ -192,7 +174,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="good"></a>**_goods_**, in relation to a ship, has the meaning given by subsection (3).
 
-                    <a name="hovercraft"></a>**_hovercraft_** means an air‑cushion vehicle, or a similar vehicle, used wholly or principally in navigation by water.
+                    <a name="hovercraft"></a>**_hovercraft_** means an air-cushion vehicle, or a similar vehicle, used wholly or principally in navigation by water.
 
                     <a name="initiating-process"></a>**_initiating process_** includes a third party notice.
 
@@ -242,7 +224,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  a hovercraft;
 
-                     (c)  an off‑shore industry mobile unit within the meaning of the _Navigation Act 1912_; and
+                     (c)  an off-shore industry mobile unit within the meaning of the _Navigation Act 1912_; and
 
                      (d)  a vessel that has sunk or is stranded and the remains of such a vessel;
 
@@ -290,7 +272,7 @@ the other ship is, in relation to the claim, a surrogate ship.
 
                             (iv)  a mortgage of a ship’s freight;
 
-                     (b)  a claim between co‑owners of a ship relating to the possession, ownership, operation or earnings of the ship;
+                     (b)  a claim between co-owners of a ship relating to the possession, ownership, operation or earnings of the ship;
 
                      (c)  a claim for the satisfaction or enforcement of a judgment given by a court (including a court of a foreign country) against a ship or other property in a proceeding _in rem_ in the nature of a proceeding in Admiralty; or
 
@@ -302,7 +284,7 @@ the other ship is, in relation to the claim, a surrogate ship.
 
                      (b)  a claim in respect of the liability of the owner of a ship arising under Part II or IV of the _Protection of the Sea (Civil Liability) Act 1981_ or under a law of a State or Territory that makes provision as mentioned in subsection 7(1) of that Act; or
 
-                   (ba)  a claim under:
+                    (ba)  a claim under:
 
                               (i)  the applied provisions (within the meaning of the _Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008_); or
 
@@ -388,7 +370,7 @@ the other ship is, in relation to the claim, a surrogate ship.
 
                      (b)  a cause of action that would not have existed if this Act had not been passed.
 
-##### <a id="7"></a>7  External Territories
+##### <a id="7"></a>7  External  Territories
 
                    This Act extends to each external Territory.
 
@@ -414,7 +396,7 @@ the other ship is, in relation to the claim, a surrogate ship.
 
                     <a name="govern-properti"></a>**_government property_** means cargo or other property that belongs to a government, but does not include cargo or other property that belongs to a trading corporation that is an agency of a government;
 
-                    <a name="govern-ship"></a>**_government ship_** means a ship that belongs, or is for the time being demised or sub‑demised, to a government (including such a ship used by or in connection with a part of the Defence Force), but does not include a ship that belongs, or is for the time being demised or sub‑demised, to a trading corporation that is an agency of a government.
+                    <a name="govern-ship"></a>**_government ship_** means a ship that belongs, or is for the time being demised or sub-demised, to a government (including such a ship used by or in connection with a part of the Defence Force), but does not include a ship that belongs, or is for the time being demised or sub-demised, to a trading corporation that is an agency of a government.
 
 ## Part II—Jurisdiction in Admiralty
 
@@ -434,9 +416,9 @@ the other ship is, in relation to the claim, a surrogate ship.
 
 ##### <a id="11"></a>11  Jurisdiction of other courts in respect of Admiralty actions _in rem_
 
-             (1)  The Governor‑General may by Proclamation declare a court of a State or of a Territory to be a court to which this section applies.
+             (1)  The Governor-General may by Proclamation declare a court of a State or of a Territory to be a court to which this section applies.
 
-             (2)  Subject to any condition or limitation (whether as to locality, subject‑matter or otherwise) specified in the Proclamation, a court of a State to which this section applies is invested with federal jurisdiction, and jurisdiction is conferred on a court of a Territory to which this section applies, in respect of proceedings that may, under this Act, be commenced as actions _in rem_.
+             (2)  Subject to any condition or limitation (whether as to locality, subject-matter or otherwise) specified in the Proclamation, a court of a State to which this section applies is invested with federal jurisdiction, and jurisdiction is conferred on a court of a Territory to which this section applies, in respect of proceedings that may, under this Act, be commenced as actions _in rem_.
 
              (3)  Where a Proclamation has been varied or rescinded, the variation or rescission does not deprive a court of jurisdiction to hear and determine a proceeding that was pending in the court at the time of the variation or rescission.
 
@@ -496,17 +478,17 @@ a proceeding on the claim may be commenced as an action _in rem_ against the shi
 
                    A proceeding on a general maritime claim concerning a ship may be commenced as an action _in rem_ against some other ship if:
 
-                     (a)  a relevant person in relation to the claim was, when the cause of action arose, the owner or charterer of, or in possession or control of, the first‑mentioned ship; and
+                     (a)  a relevant person in relation to the claim was, when the cause of action arose, the owner or charterer of, or in possession or control of, the first-mentioned ship; and
 
-                     (b)  that person is, when the proceeding is commenced, the owner of the second‑mentioned ship.
+                     (b)  that person is, when the proceeding is commenced, the owner of the second-mentioned ship.
 
 ##### <a id="20"></a>20  Service on and arrest of only one ship
 
-             (1)  Where service of initiating process in a proceeding commenced as mentioned in section 15, 17, 18 or 19 has been effected on a ship, service of initiating process in the proceeding shall not be effected on any other ship unless the service on the first‑mentioned ship has been set aside or the proceeding, so far as it relates to that ship, has been discontinued, dismissed or struck out.
+             (1)  Where service of initiating process in a proceeding commenced as mentioned in section 15, 17, 18 or 19 has been effected on a ship, service of initiating process in the proceeding shall not be effected on any other ship unless the service on the first-mentioned ship has been set aside or the proceeding, so far as it relates to that ship, has been discontinued, dismissed or struck out.
 
-             (2)  Where service of initiating process in a proceeding commenced as mentioned in section 15, 17, 18 or 19 has been effected on a ship, service of initiating process in some other proceeding on the same claim commenced as mentioned in any of those sections shall not be effected on any other ship unless the first‑mentioned proceeding has been discontinued, dismissed or struck out.
+             (2)  Where service of initiating process in a proceeding commenced as mentioned in section 15, 17, 18 or 19 has been effected on a ship, service of initiating process in some other proceeding on the same claim commenced as mentioned in any of those sections shall not be effected on any other ship unless the first-mentioned proceeding has been discontinued, dismissed or struck out.
 
-             (3)  Where a ship has been arrested in a proceeding commenced as mentioned in section 15, 17, 18 or 19, no other ship shall be arrested in the proceeding unless the first‑mentioned ship:
+             (3)  Where a ship has been arrested in a proceeding commenced as mentioned in section 15, 17, 18 or 19, no other ship shall be arrested in the proceeding unless the first-mentioned ship:
 
                      (a)  was invalidly arrested and has been released from arrest; or
 
@@ -524,11 +506,11 @@ a proceeding on the claim may be commenced as an action _in rem_ against the shi
 
                      (b)  the person has commenced a proceeding under section 19 against a surrogate ship;
 
-subsection (3) does not prevent the arrest of the first‑mentioned ship in a proceeding on the maritime lien or other charge if the amount recovered by the person in the proceeding commenced under section 19 is less than the amount of the claim on the maritime lien or other charge.
+subsection (3) does not prevent the arrest of the first-mentioned ship in a proceeding on the maritime lien or other charge if the amount recovered by the person in the proceeding commenced under section 19 is less than the amount of the claim on the maritime lien or other charge.
 
-##### <a id="21"></a>21  Re‑arrest
+##### <a id="21"></a>21  Re-arrest
 
-             (1)  A ship or other property arrested in a proceeding on a maritime claim may not be re‑arrested in the proceeding in relation to the claim unless the court so orders, whether because default has been made in the performance of a guarantee or undertaking given to procure the release of the ship or property from the earlier arrest or for some other sufficient reason.
+             (1)  A ship or other property arrested in a proceeding on a maritime claim may not be re-arrested in the proceeding in relation to the claim unless the court so orders, whether because default has been made in the performance of a guarantee or undertaking given to procure the release of the ship or property from the earlier arrest or for some other sufficient reason.
 
              (2)  An order under subsection (1) may be made subject to such conditions as are just.
 
@@ -568,7 +550,7 @@ Note:          For the Convention on the Law of the Sea see the 
 
 ##### <a id="25"></a>25  Limitation of liability under Liability Conventions
 
-             (1)  A person who apprehends that a claim for compensation under a law (including a law of a State or a Territory) that gives effect to provisions of a Liability Convention may be made against the person by some other person may apply to the Federal Court to determine the question whether the liability of the first‑mentioned person in respect of the claim may be limited under that law.
+             (1)  A person who apprehends that a claim for compensation under a law (including a law of a State or a Territory) that gives effect to provisions of a Liability Convention may be made against the person by some other person may apply to the Federal Court to determine the question whether the liability of the first-mentioned person in respect of the claim may be limited under that law.
 
              (2)  Subsection (1) does not affect the jurisdiction of any other court.
 
@@ -598,7 +580,7 @@ Note:          For the Convention on the Law of the Sea see the 
 
 ##### <a id="27"></a>27  Transfer
 
-             (1)  Where a proceeding commenced under this Act is pending in the Federal Court, in the Federal Magistrates Court, in the Supreme Court of a State or Territory or in a court of a State or Territory exercising jurisdiction under section 11, the court (in this section called the **_first court_**) may, at any stage of the proceeding, upon application or on its own motion, by order, transfer the proceeding to some other court that has jurisdiction under this Act with respect to the subject‑matter of the claim (in this section called the **_second court_**).
+             (1)  Where a proceeding commenced under this Act is pending in the Federal Court, in the Federal Magistrates Court, in the Supreme Court of a State or Territory or in a court of a State or Territory exercising jurisdiction under section 11, the court (in this section called the **_first court_**) may, at any stage of the proceeding, upon application or on its own motion, by order, transfer the proceeding to some other court that has jurisdiction under this Act with respect to the subject-matter of the claim (in this section called the **_second court_**).
 
              (2)  Subsection (1) does not authorise the transfer of a proceeding commenced as an action _in rem_ to a court that does not, apart from the operation of subsection 28(7), have jurisdiction in respect of proceedings so commenced.
 
@@ -718,9 +700,9 @@ then, in addition to any other proceeding that may be taken by the party to enfo
 
                    In a proceeding in the Federal Court on a proprietary maritime claim, the orders that the court may make include orders of the kind that a court may make under section 59 of the _Shipping Registration Act 1981_.
 
-##### <a id="33"></a>33  Co‑ownership disputes
+##### <a id="33"></a>33  Co-ownership disputes
 
-                   In a proceeding on a maritime claim between co‑owners of a ship relating to the possession, ownership, operation or earnings of the ship, the orders that the court may make include:
+                   In a proceeding on a maritime claim between co-owners of a ship relating to the possession, ownership, operation or earnings of the ship, the orders that the court may make include:
 
                      (a)  orders for the settlement of accounts outstanding and unsettled; and
 
@@ -814,7 +796,7 @@ then, by force of this subsection, the court has power, exercisable in the same 
 
 ##### <a id="41"></a>41  Rules
 
-             (1)  The Governor‑General may make Rules, not inconsistent with this Act, making provision in relation to the practice and procedure to be followed in courts exercising jurisdiction under this Act and matters incidental to such practice and procedure.
+             (1)  The Governor-General may make Rules, not inconsistent with this Act, making provision in relation to the practice and procedure to be followed in courts exercising jurisdiction under this Act and matters incidental to such practice and procedure.
 
              (2)  In particular, the Rules may make provision in relation to:
 
@@ -860,15 +842,15 @@ then, by force of this subsection, the court has power, exercisable in the same 
 
 ##### <a id="42"></a>42  Rules Committee
 
-             (1)  The Attorney‑General shall constitute a committee consisting of not more than 7 persons to advise the Attorney‑General with respect to the Rules and shall appoint a member of the committee to preside at meetings of the committee.
+             (1)  The Attorney-General shall constitute a committee consisting of not more than 7 persons to advise the Attorney-General with respect to the Rules and shall appoint a member of the committee to preside at meetings of the committee.
 
              (2)  The members of the committee shall include a Judge of the Supreme Court of a State or Territory and a Judge of the Federal Court.
 
-             (3)  Subject to the directions, if any, of the Attorney‑General, the procedure of the committee shall be as the committee determines.
+             (3)  Subject to the directions, if any, of the Attorney-General, the procedure of the committee shall be as the committee determines.
 
 ##### <a id="43"></a>43  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -936,7 +918,7 @@ then, by force of this subsection, the court has power, exercisable in the same 
     </div>
   </td>
   <td>
-    <div>The paragraph commencing “Also the King shall have Wreck”</div>
+    <div>The paragraph commencing Also the King shall have Wreck”</div>
   </td>
 </tr>
 <tr>
@@ -985,59 +967,31 @@ then, by force of this subsection, the court has power, exercisable in the same 
 
 ## Part VIII—Amendments of the Navigation Act 1912
 
-##### <a id="49"></a>49  Principal Act
+##### Sections 49–57
 
-                   In this Part, **_Principal Act_** means the _Navigation Act 1912_.
+* * *
 
-##### <a id="50"></a>50  Crown bound
+**Note:**
 
-                   This Part binds the Crown in the same capacities as the Principal Act binds the Crown.
+The amendments made by this Part are incorporated in the compilation on ComLaw.
 
-##### <a id="51"></a>51  Abolition of defence of common employment
+For access to the wording of the amendments made by this Part, _see_ Act No. 34, 1988.
 
-                   Section 59A of the Principal Act is amended by inserting after subsection (2) the following subsection:
-
-          (2A)  Notwithstanding sections 2 and 10, this section applies in relation to all ships.
-
-##### <a id="52"></a>52  Jurisdiction as to wages
-
-             (1)  Section 91 of the Principal Act is amended by omitting “, and any court having Admiralty jurisdiction,”.
-
-             (2)  The amendment effected by subsection (1) does not affect a proceeding under section 91 of the Principal Act commenced but not finally determined before the commencement of this Act.
-
-##### <a id="53"></a>53  Compensation for loss occasioned by improper use of signals
-
-                   Section 230 of the Principal Act is amended by omitting subsection (2).
-
-##### <a id="54"></a>54  Forfeiture of dangerous goods
-
-             (1)  Section 252 of the Principal Act is amended by omitting “any Court having Admiralty jurisdiction” and substituting “the Supreme Court of a State or Territory”.
-
-             (2)  The amendment effected by subsection (1) does not affect a proceeding under section 252 of the Principal Act commenced but not finally determined before the commencement of this Act.
-
-##### <a id="55"></a>55  Repeals
-
-             (1)  Sections 262, 318 to 320 (inclusive) and 322 and 326, Division 5 of Part VII and sections 383 and 385 of the Principal Act are repealed.
-
-             (2)  The repeal effected by subsection (1) does not affect an order issued under section 383 of the Principal Act and in force immediately before the commencement of this Act and proceedings on such an order may be instituted, continued and completed as though this section had not been enacted.
-
-##### <a id="56"></a>56  Limitation of actions
-
-                   Section 396 of the Principal Act is amended by omitting from subsection (3) all words after “as it thinks fit”.
-
-##### <a id="57"></a>57  Proceedings against the Crown
-
-                   Section 405A of the Principal Act is amended by omitting subsection (2).
+* * *
 
 ## Part IX—Amendment of the Shipping Registration Act 1981
 
-##### <a id="58"></a>58  Principal Act
+##### Sections 58, 59
 
-                   The _Shipping Registration Act 1981_ is in this Part referred to as the Principal Act.
+* * *
 
-##### <a id="59"></a>59  Repeal
+**Note:**
 
-                   Section 94A of the Principal Act is repealed.
+The amendments made by this Part are incorporated in the compilation on ComLaw.
+
+For access to the wording of the amendments made by this Part, _see_ Act No. 34, 1988.
+
+* * *
 
 # Notes to the _Admiralty Act 1988_
 
@@ -1231,23 +1185,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>131, 2009</div>
-  </td>
-  <td>
-    <div>14 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 1): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1294,7 +1231,7 @@ of Assent</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 73 and 77, 2008</div>
+    <div>am. No. 73, 2008; No. 77, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1342,7 +1279,7 @@ of Assent</div>
     <div>S. 26A</div>
   </td>
   <td>
-    <div>ad. No. 77, 2008</div>
+    <div>ad. No. 77, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1378,27 +1315,12 @@ of Assent</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Personal Property Securities (Consequential Amendments) Act 2009
- (No. 131, 2009)_
-
-The following amendment commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 3
-
-## 1  Section 32
-
-After “59”, insert “or 59A”.
-
-As at 2 February 2010 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Jurisdiction of the Federal Magistrates Court Legislation Amendment Act
- 2006 (No. 23, 2006)_
+_Jurisdiction of the Federal Magistrates   Court Legislation Amendment Act 2006
+ (No. 23, 2006)_
 
 ## Schedule 3
 
@@ -1413,5 +1335,7 @@ The amendments of sections 27 and 28 of the _Admiralty Act 1988_ made by this 
 ## 8  Application of amendment of section 41
 
 The amendment of section 41 of the _Admiralty Act 1988_ made by this Schedule applies in relation to matters arising before, on or after the commencement of this Schedule.
+
+ 
 
  
