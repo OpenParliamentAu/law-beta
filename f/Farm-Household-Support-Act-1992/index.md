@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00480/Html/fc8837d3-3efd-4bf6-a892-c5158ecbf6b8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image001.gif)
 
 # Farm Household Support Act 1992
 
 **Act No. 241 of 1992 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 3 June 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -320,11 +320,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="advic-financi-outlook"></a>**_advice on financial outlook_** has the meaning given by subsection 8B(2).
 
+                    <a name="agenc"></a>**_Agency_** means the Commonwealth Services Delivery Agency established by the _Commonwealth Services Delivery Agency Act 1997_.
+
                     <a name="applic-rate"></a>**_applicable rate_** has the meaning given by section 24.
 
-                    <a name="certif-inabl-obtain-financ"></a>**_certificate of inability to obtain finance_** has the meaning given by section 4.
+                    <a name="ceo"></a>**_CEO_** means the Chief Executive Officer of the Agency.
 
-                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
+                    <a name="certif-inabl-obtain-financ"></a>**_certificate of inability to obtain finance_** has the meaning given by section 4.
 
                     <a name="dairi-exit-payment"></a>**_dairy exit payment_** means a payment under the DEP scheme.
 
@@ -335,6 +337,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="depart"></a>**_Department_** means the Department of Social Security.
 
                     <a name="dep-scheme"></a>**_DEP scheme_** means the scheme referred to in section 52C.
+
+                    <a name="employe"></a>**_employee_**, in relation to the Agency, has the same meaning as in the _Commonwealth Services Delivery Agency Act 1997_.
 
                     <a name="exempt-asset"></a>**_exempt assets_** means:
 
@@ -392,10 +396,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  is, and has continuously been from the commencement of this Act, receiving farm household support.
 
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
-
-                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Centrelink) Act 1997_.
-
                     <a name="industri-servic-bodi"></a>**_industry services body_** has the same meaning as in the _Dairy Produce Act 1986_.
 
                     <a name="liquid-asset"></a>**_liquid assets_**, in relation to a person, has the same meaning as in section 198N of the _Social Security Act 1991_.
@@ -419,6 +419,8 @@ Note:          The expression is defined for the purposes of t
 are transferred to another person.
 
                     <a name="secretari"></a>**_Secretary_** means the Secretary to the Department of Social Security.
+
+                    <a name="servic-arrang"></a>**_service arrangements_** has the same meaning as in the _Commonwealth Services Delivery Agency Act 1997_.
 
                     <a name="sever-financi-hardship"></a>**_severe financial hardship_** has the meaning given in section 5.
 
@@ -1194,7 +1196,7 @@ disregard the off‑farm salary and wages of the person, or if the person is a m
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00480/Html/fc8837d3-3efd-4bf6-a892-c5158ecbf6b8_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image002.gif)
 
                             where:
 
@@ -1208,7 +1210,7 @@ disregard the off‑farm salary and wages of the person, or if the person is a m
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00480/Html/fc8837d3-3efd-4bf6-a892-c5158ecbf6b8_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image003.gif)
 
                             where:
 
@@ -1292,7 +1294,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00480/Html/fc8837d3-3efd-4bf6-a892-c5158ecbf6b8_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image002.gif)
 
                             where:
 
@@ -1316,7 +1318,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00480/Html/fc8837d3-3efd-4bf6-a892-c5158ecbf6b8_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image003.gif)
 
                             where:
 
@@ -1406,7 +1408,7 @@ Certain superannuation contributions disregarded
 
                    The instalment of farm household support payable for a period to a person is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00480/Html/fc8837d3-3efd-4bf6-a892-c5158ecbf6b8_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image004.gif)
 
 Note:          for the person’s applicable rate see section 24.
 
@@ -1414,7 +1416,7 @@ Note:          for the person’s applicable rate see section�
 
                    The instalment of exceptional circumstances relief payment payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00480/Html/fc8837d3-3efd-4bf6-a892-c5158ecbf6b8_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image005.gif)
 
 Note 1:       For the person’s rate, see section 24A.
 
@@ -1424,7 +1426,7 @@ Note 2:       An instalment of exceptional circumstances relief paym
 
                    The instalment of farm help income support payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00480/Html/fc8837d3-3efd-4bf6-a892-c5158ecbf6b8_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image006.gif)
 
 Note 1:       For the person’s rate, see section 24B.
 
@@ -1512,7 +1514,7 @@ the amount is to be increased by 0.5 cent.
 
              (1)  The instalment of farm household support payable to a former RAS (Part C) beneficiary for a period determined under section 28 is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00480/Html/fc8837d3-3efd-4bf6-a892-c5158ecbf6b8_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image007.gif)
 
              (2)  For the purposes of subsection (1), the applicable RAS rate in relation to a former RAS (Part C) beneficiary is the fortnightly rate that applied for the last payment of Part C assistance made by way of loan to him or her before the commencement of this Act under the RAS scheme applicable to him or her.
 
@@ -2034,11 +2036,7 @@ Example:    Paragraph (g)—sections 84, 84A, 92 and 92A of the _A New
 
              (2)  The Secretary of the Department of Primary Industries and Energy may, by signed writing, delegate to an officer of that Department all or any of his or her powers under this Act.
 
-             (3)  The Secretary may, in writing, delegate all or any of his or her powers under this Act to:
-
-                     (a)  the Chief Executive Centrelink; or
-
-                     (b)  a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_).
+             (3)  The Secretary may, in accordance with service arrangements, delegate in writing all or any of his or her powers under this Act to the CEO or an employee of the Agency.
 
              (4)  In this section:
 
@@ -2046,29 +2044,23 @@ Example:    Paragraph (g)—sections 84, 84A, 92 and 92A of the _A New
 
 ##### <a id="53A"></a>53A  Delegation by Secretary: references to the Secretary and the Department
 
-             (1)  If the Secretary delegates to:
+             (1)  If the Secretary delegates to the CEO or an employee of the Agency a power under this Act to require a person to produce or give to the Department any document or information, the delegate may, in exercising the power, require the person to produce or give the document or information to the Agency instead of the Department.
 
-                     (a)  the Chief Executive Centrelink; or
+             (2)  A person who produces or gives a document or information to the Agency in compliance with a requirement by a delegate of the Secretary is to be treated for all purposes as if the person had produced or given the document to the Department in compliance with a requirement by the Secretary.
 
-                     (b)  a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_);
-
-a power under this Act to require a person to produce or give to the Department any document or information, the delegate may, in exercising the power, require the person to produce or give the document or information to the Human Services Department instead of the Department.
-
-             (2)  A person who produces or gives a document or information to the Human Services Department in compliance with a requirement by a delegate of the Secretary is to be treated for all purposes as if the person had produced or given the document to the Department in compliance with a requirement by the Secretary.
-
-             (3)  A person who does not produce or give a document or information to the Human Services Department in compliance with a requirement by a delegate of the Secretary is to be treated for all purposes as if the person had not produced or given the document or information to the Department in compliance with a requirement by the Secretary.
+             (3)  A person who does not produce or give a document or information to the Agency in compliance with a requirement by a delegate of the Secretary is to be treated for all purposes as if the person had not produced or given the document or information to the Department in compliance with a requirement by the Secretary.
 
              (4)  If:
 
-                     (a)  the Secretary delegates to the Chief Executive Centrelink or a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_) all or any of the Secretary’s powers under this Act; and
+                     (a)  the Secretary delegates to the CEO or an employee of the Agency all or any of the Secretary’s powers under this Act; and
 
                      (b)  the delegation makes a reference to the Secretary or the Department in another provision of this Act inappropriate, whether for administrative reasons or any other reason;
 
 the Secretary may direct that the provision is to have effect as if:
 
-                     (c)  the reference to the Secretary were a reference to the Chief Executive Centrelink; or
+                     (c)  the reference to the Secretary were a reference to the CEO; or
 
-                     (d)  a reference to the Department were a reference to the Human Services Department;
+                     (d)  a reference to the Department were a reference to the Agency;
 
 as the case requires.
 
@@ -3204,7 +3196,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 7 (items 59, 60): 19 Apr 2011</div>
+    <div>Schedule 7 (items 59, 60): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -3221,7 +3213,7 @@ Remainder: Royal Assent</div>
     <div>25 May 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 4 (items 95–107): 1 July 2011</div>
+    <div>Schedule 4 (items 95–107): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -3440,7 +3432,7 @@ _(s)_ Subsection 2(1) (item 5) of the _Farm Household Support Amendment Act 20
     <div></div>
   </td>
   <td>
-    <div>am. No. 179, 1997; No. 60, 2007</div>
+    <div>am. No, 179, 1997; No. 60, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3456,7 +3448,7 @@ _(s)_ Subsection 2(1) (item 5) of the _Farm Household Support Amendment Act 20
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 109, 125 and 184, 1994; No. 36, 1995; No. 59, 1996; Nos. 22, 29, 179 and 197, 1997; Nos. 45, 48, 85, 93 and 102, 1998; Nos. 44 and 83, 1999; Nos. 22 and 144, 2000; No. 84, 2002; Nos. 32 and 115, 2003; No. 70, 2004; Nos. 30 and 69, 2005; No. 60, 2007; No. 144, 2008; No. 79, 2010; No. 32, 2011</div>
+    <div>am. Nos. 109, 125 and 184, 1994; No. 36, 1995; No. 59, 1996; Nos. 22, 29, 179 and 197, 1997; Nos. 45, 48, 85, 93 and 102, 1998; Nos. 44 and 83, 1999; Nos. 22 and 144, 2000; No. 84, 2002; Nos. 32 and 115, 2003; No. 70, 2004; Nos. 30 and 69, 2005; No. 60, 2007; No. 144, 2008; No. 79, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5370,7 +5362,7 @@ Div. 1 of Part 4</div>
     <div>S. 53</div>
   </td>
   <td>
-    <div>am. No. 129, 1994; No. 29, 1997; Nos. 22 and 144, 2000; No. 115, 2003; Nos. 5 and 32, 2011</div>
+    <div>am. No. 129, 1994; No. 29, 1997; Nos. 22 and 144, 2000; No. 115, 2003; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5386,7 +5378,7 @@ Div. 1 of Part 4</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 22 and 144, 2000; No. 115, 2003; No. 32, 2011</div>
+    <div>am. Nos. 22 and 144, 2000; No. 115, 2003</div>
   </td>
 </tr>
 <tr>
@@ -5501,6 +5493,88 @@ Div. 1 of Part 4</div>
     <div>rep. No. 179, 1997</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 95  Subsection 3(2) (definition of _Agency_)
+
+Repeal the definition.
+
+## 96  Subsection 3(2) (definition of _CEO_)
+
+Repeal the definition.
+
+## 97  Subsection 3(2)
+
+Insert:
+
+                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
+
+## 98  Subsection 3(2) (definition of _employee_)
+
+Repeal the definition.
+
+## 99  Subsection 3(2)
+
+Insert:
+
+                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
+
+## 100  Subsection 3(2)
+
+Insert:
+
+                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Centrelink) Act 1997_.
+
+## 101  Subsection 3(2) (definition of _service arrangements_)
+
+Repeal the definition.
+
+## 102  Subsection 53(3)
+
+Repeal the subsection, substitute:
+
+             (3)  The Secretary may, in writing, delegate all or any of his or her powers under this Act to:
+
+                     (a)  the Chief Executive Centrelink; or
+
+                     (b)  a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_).
+
+## 103  Subsection 53A(1)
+
+Repeal the subsection, substitute:
+
+             (1)  If the Secretary delegates to:
+
+                     (a)  the Chief Executive Centrelink; or
+
+                     (b)  a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_);
+
+a power under this Act to require a person to produce or give to the Department any document or information, the delegate may, in exercising the power, require the person to produce or give the document or information to the Human Services Department instead of the Department.
+
+## 104  Subsections 53A(2) and (3)
+
+Omit “Agency”, substitute “Human Services Department”.
+
+## 105  Paragraph 53A(4)(a)
+
+Omit “CEO or an employee of the Agency”, substitute “Chief Executive Centrelink or a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_)”.
+
+## 106  Paragraph 53A(4)(c)
+
+Omit “CEO”, substitute “Chief Executive Centrelink”.
+
+## 107  Paragraph 53A(4)(d)
+
+Omit “Agency”, substitute “Human Services Department”.
+
+As at 3 June 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
