@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00342/Html/259c2617-c4de-4c23-bbc9-cca741768aa0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00470/Html/InternationalArbit1974_WD02_image001.gif)
 
 # International Arbitration Act 1974
 
 **Act No. 136 of 1974 as amended**
 
-This compilation was prepared on 5 May 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 7 July 2010
+ taking into account amendments up to Act No. 97 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -44,7 +44,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Evidence relating to Convention
 
-[10A](#10A).       Delegation by Secretary of the Foreign Affairs Department
+[10A](#10A).       Delegation by Secretary to the Department of Foreign Affairs and Trade
 
 [12](#12).          Effect of this Part on other laws
 
@@ -182,13 +182,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="2B"></a>2B  Crown to be bound
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island.
 
 ##### <a id="2C"></a>2C  Carriage of goods by sea
 
                    Nothing in this Act affects:
 
-                     (a)  the continued operation of section 9 of the _Sea‑Carriage of Goods Act 1924_ under subsection 20(2) of the _Carriage of Goods by Sea Act 1991_; or
+                     (a)  the continued operation of section 9 of the _Sea-Carriage of Goods Act 1924_ under subsection 20(2) of the _Carriage of Goods by Sea Act 1991_; or
 
                      (b)  the operation of section 11 or 16 of the _Carriage of Goods by Sea Act 1991_.
 
@@ -202,7 +202,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  to facilitate the recognition and enforcement of arbitral awards made in relation to international trade and commerce; and
 
-                     (d)  to give effect to Australia’s obligations under the Convention on the Recognition and Enforcement of Foreign Arbitral Awards adopted in 1958 by the United Nations Conference on International Commercial Arbitration at its twenty‑fourth meeting; and
+                     (d)  to give effect to Australia’s obligations under the Convention on the Recognition and Enforcement of Foreign Arbitral Awards adopted in 1958 by the United Nations Conference on International Commercial Arbitration at its twenty-fourth meeting; and
 
                      (e)  to give effect to the UNCITRAL Model Law on International Commercial Arbitration adopted by the United Nations Commission on International Trade Law on 21 June 1985 and amended by the United Nations Commission on International Trade Law on 7 July 2006; and
 
@@ -218,11 +218,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="arbitr-award"></a>**_arbitral award_** has the same meaning as in the Convention.
 
-                    <a name="arbitr-agreem"></a>**_arbitration agreement_** means an agreement in writing of the kind referred to in sub‑article 1 of Article II of the Convention.
+                    <a name="arbitr-agreem"></a>**_arbitration agreement_** means an agreement in writing of the kind referred to in sub-article 1 of Article II of the Convention.
 
                     <a name="australia"></a>**_Australia_** includes the Territories.
 
-                    <a name="convent"></a>**_Convention_** means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards adopted in 1958 by the United Nations Conference on International Commercial Arbitration at its twenty‑fourth meeting, a copy of the English text of which is set out in Schedule 1.
+                    <a name="convent"></a>**_Convention_** means the Convention on the Recognition and Enforcement of Foreign Arbitral Awards adopted in 1958 by the United Nations Conference on International Commercial Arbitration at its twenty-fourth meeting, a copy of the English text of which is set out in Schedule 1.
 
                     <a name="convent-countri"></a>**_Convention country_** means a country (other than Australia) that is a Contracting State within the meaning of the Convention.
 
@@ -231,8 +231,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="data-messag"></a>**_data message_** means information generated, sent, received or stored by electronic, magnetic, optical or similar means, including, but not limited to, electronic data interchange (EDI), email, telegram, telex or telecopy.
 
                     <a name="electron-commun"></a>**_electronic communication_** means any communication made by means of data messages.
-
-                    <a name="foreign-affair-depart"></a>**_Foreign Affairs Department_** means the Department administered by the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
 
                     <a name="foreign-award"></a>**_foreign award_** means an arbitral award made, in pursuance of an arbitration agreement, in a country other than Australia, being an arbitral award in relation to which the Convention applies.
 
@@ -272,7 +270,7 @@ this section applies to the agreement.
 
 on the application of a party to the agreement, the court shall, by order, upon such conditions (if any) as it thinks fit, stay the proceedings or so much of the proceedings as involves the determination of that matter, as the case may be, and refer the parties to arbitration in respect of that matter.
 
-             (3)  Where a court makes an order under subsection (2), it may, for the purpose of preserving the rights of the parties, make such interim or supplementary orders as it thinks fit in relation to any property that is the subject of the matter to which the first‑mentioned order relates.
+             (3)  Where a court makes an order under subsection (2), it may, for the purpose of preserving the rights of the parties, make such interim or supplementary orders as it thinks fit in relation to any property that is the subject of the matter to which the first-mentioned order relates.
 
              (4)  For the purposes of subsections (2) and (3), a reference to a party includes a reference to a person claiming through or under a party.
 
@@ -368,7 +366,7 @@ this section does not have effect in relation to the award unless that person is
 
 ##### <a id="10"></a>10  Evidence relating to Convention
 
-             (1)  For the purposes of this Part, a certificate purporting to be signed by the Secretary of the Foreign Affairs Department and stating that a country specified in the certificate is, or was at a time so specified, a Convention country is, upon mere production, receivable in any proceedings as _prima facie_ evidence of that fact.
+             (1)  For the purposes of this Part, a certificate purporting to be signed by the Secretary to the Department of Foreign Affairs and stating that a country specified in the certificate is, or was at a time so specified, a Convention country is, upon mere production, receivable in any proceedings as _prima facie_ evidence of that fact.
 
              (2)  For the purposes of this Part, a copy of the _Gazette_ containing a Proclamation fixing a date under subsection 2(2) is, upon mere production, receivable in any proceedings as _prima facie_ evidence of:
 
@@ -376,9 +374,9 @@ this section does not have effect in relation to the award unless that person is
 
                      (b)  the fact that the Convention entered into force for Australia on or before the date so fixed.
 
-##### <a id="10A"></a>10A  Delegation by Secretary of the Foreign Affairs Department
+##### <a id="10A"></a>10A  Delegation by Secretary to the Department of Foreign Affairs and Trade
 
-             (1)  The Secretary may, either generally or as otherwise provided by the instrument of delegation, in writing, delegate to the person occupying a specified office in the Foreign Affairs Department and Trade all or any of the Secretary’s powers under subsection 10(1).
+             (1)  The Secretary may, either generally or as otherwise provided by the instrument of delegation, in writing, delegate to the person occupying a specified office in the Department of Foreign Affairs and Trade all or any of the Secretary’s powers under subsection 10(1).
 
              (2)  A power delegated under subsection (1) shall, when exercised by the delegate, be deemed to have been exercised by the Secretary.
 
@@ -386,7 +384,7 @@ this section does not have effect in relation to the award unless that person is
 
              (4)  The delegation of a power under subsection (1) does not prevent the exercise of the power by the Secretary.
 
-             (5)  In this section, **_Secretary_** means the Secretary of the Foreign Affairs Department and Trade.
+             (5)  In this section, **_Secretary_** means the Secretary to the Department of Foreign Affairs and Trade.
 
 ##### <a id="12"></a>12  Effect of this Part on other laws
 
@@ -396,7 +394,7 @@ this section does not have effect in relation to the award unless that person is
 
 ##### <a id="13"></a>13  Judiciary Act
 
-                   A matter arising under this Part, including a question of interpretation of the Convention for the purposes of this Act, shall, for the purposes of section 38 of the _Judiciary Act 1903‑1973_, be deemed not to be a matter arising directly under a treaty.
+                   A matter arising under this Part, including a question of interpretation of the Convention for the purposes of this Act, shall, for the purposes of section 38 of the _Judiciary Act 1903-1973_, be deemed not to be a matter arising directly under a treaty.
 
 ##### <a id="14"></a>14  Application of Part
 
@@ -950,7 +948,7 @@ Application of section 24
 
                     <a name="invest-convent"></a>**_Investment Convention_** means the Convention on the Settlement of Investment Disputes between States and Nationals of Other States signed by Australia on 24 March 1975, the English text of which is set out in Schedule 3.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
              (2)  Except so far as the contrary intention appears, a word or expression used in this Part and in the Investment Convention (whether or not a particular meaning is given to it in the Investment Convention) has, in this Part, the same meaning as it has in the Investment Convention.
 
@@ -1060,7 +1058,7 @@ Application of section 24
 
 ##### <a id="40"></a>40  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1134,31 +1132,31 @@ ARTICLE VIII
 
 1.  This Convention shall be open until 31 December 1958 for signature on behalf of any Member of the United Nations and also on behalf of any other State which is or hereafter becomes a member of any specialized agency of the United Nations, or which is or hereafter becomes a party to the Statute of the International Court of Justice, or any other State to which an invitation has been addressed by the General Assembly of the United Nations.
 
-2.  This Convention shall be ratified and the instrument of ratification shall be deposited with the Secretary‑General of the United Nations.
+2.  This Convention shall be ratified and the instrument of ratification shall be deposited with the Secretary-General of the United Nations.
 
 ARTICLE IX
 
 1.  This Convention shall be open for accession to all States referred to in article VIII.
 
-2.  Accession shall be effected by the deposit of an instrument of accession with the Secretary‑General of the United Nations.
+2.  Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
 ARTICLE X
 
 1.  Any State may, at the time of signature, ratification or accession, declare that this Convention shall extend to all or any of the territories for the international relations of which it is responsible. Such a declaration shall take effect when the Convention enters into force for the State concerned.
 
-2.  At any time thereafter any such extensions shall be made by notification addressed to the Secretary‑General of the United Nations and shall take effect as from the ninetieth day after the day of receipt by the Secretary‑General of the United Nations of this notification, or as from the date of entry into force of the Convention for the State concerned, whichever is the later. 
+2.  At any time thereafter any such extensions shall be made by notification addressed to the Secretary-General of the United Nations and shall take effect as from the ninetieth day after the day of receipt by the Secretary-General of the United Nations of this notification, or as from the date of entry into force of the Convention for the State concerned, whichever is the later. 
 
 3.  With respect to those territories to which this Convention is not extended at the time of signature, ratification or accession, each State concerned shall consider the possibility of taking the necessary steps in order to extend the application of this Convention to such territories, subject, where necessary for constitutional reasons, to the consent of the Governments of such territories.
 
 ARTICLE XI
 
-In the case of a federal or non‑unitary State, the following provisions shall apply:
+In the case of a federal or non-unitary State, the following provisions shall apply:
 
 (a)   With respect to those articles of this Convention that come within the legislative jurisdiction of the federal authority, the obligations of the federal Government shall to this extent be the same as those of Contracting States which are not federal States; 
 
 (b)   With respect to those articles of this Convention that come within the legislative jurisdiction of constituent states or provinces which are not, under the constitutional system of the federation, bound to take legislative action, the federal Government shall bring such articles with a favourable recommendation to the notice of the appropriate authorities of constituent states or provinces at the earliest possible moment;
 
-(c)   A federal State party to this Convention shall, at the request of any other Contracting State transmitted through the Secretary‑General of the United Nations, supply a statement of the law and practice of the federation and its constituent units in regard to any particular provision of this Convention, showing the extent to which effect has been given to that provision by legislative or other action.
+(c)   A federal State party to this Convention shall, at the request of any other Contracting State transmitted through the Secretary-General of the United Nations, supply a statement of the law and practice of the federation and its constituent units in regard to any particular provision of this Convention, showing the extent to which effect has been given to that provision by legislative or other action.
 
 ARTICLE XII
 
@@ -1168,9 +1166,9 @@ ARTICLE XII
 
 ARTICLE XIII
 
-1.  Any Contracting State may denounce this Convention by a written notification to the Secretary‑General of the United Nations. Denunciation shall take effect one year after the date of receipt of the notification by the Secretary‑General.
+1.  Any Contracting State may denounce this Convention by a written notification to the Secretary-General of the United Nations. Denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General.
 
-2.  Any State which has made a declaration or notification under article X may, at any time thereafter, by notification to the Secretary‑General of the United Nations, declare that this Convention shall cease to extend to the territory concerned one year after the date of the receipt of the notification by the Secretary‑General.
+2.  Any State which has made a declaration or notification under article X may, at any time thereafter, by notification to the Secretary-General of the United Nations, declare that this Convention shall cease to extend to the territory concerned one year after the date of the receipt of the notification by the Secretary-General.
 
 3.  This Convention shall continue to be applicable to arbitral awards in respect of which recognition or enforcement proceedings have been instituted before the denunciation takes effect.
 
@@ -1180,7 +1178,7 @@ A   Contracting State shall not be entitled to avail itself of the present Conve
 
 ARTICLE XV
 
-The Secretary‑General of the United Nations shall notify the States contemplated in article VIII of the following: 
+The Secretary-General of the United Nations shall notify the States contemplated in article VIII of the following: 
 
 (a)   Signatures and ratifications in accordance with article VIII; 
 
@@ -1196,13 +1194,13 @@ ARTICLE XVI
 
 1.  This Convention, of which the Chinese, English, French, Russian and Spanish texts shall be equally authentic, shall be deposited in the archives of the United Nations. 
 
-2.  The Secretary‑General of the United Nations shall transmit a certified copy of this Convention to the States contemplated in article VIII. 
+2.  The Secretary-General of the United Nations shall transmit a certified copy of this Convention to the States contemplated in article VIII. 
 
 # Schedule 2—UNCITRAL Model Law on International Commercial Arbitration (As adopted by the United Nations Commission on International Trade Law on 21 June 1985, and as amended by the United Nations Commission on International Trade Law on 7 July 2006)
 
 _Note:       See subsection 15(1)._
 
-CHAPTER I.        GENERAL PROVISIONS
+CHAPTER I.         GENERAL PROVISIONS
 
 _Article 1_._Scope of application_<sup>1</sup>
 
@@ -1210,7 +1208,7 @@ _Article 1_._Scope of application_<sup>1</sup>
 
 (2)        The provisions of this Law, except articles 8, 9, 17 H, 17 I, 17 J, 35 and 36, apply only if the place of arbitration is in the territory of this State.
 
-_(Article 1(2) has been amended by the Commission at its thirty‑ninth session, in 2006)_
+_(Article 1(2) has been amended by the Commission at its thirty-ninth session, in 2006)_
 
 (3)        An arbitration is international if:
 
@@ -1218,9 +1216,9 @@ _(a)_ the parties to an arbitration agreement have, at the time of the conclusio
 
 _(b)_        one of the following places is situated outside the State in which the parties have their places of business:
 
-(i)        the place of arbitration if determined in, or pursuant to, the arbitration agreement;
+(i)         the place of arbitration if determined in, or pursuant to, the arbitration agreement;
 
-(ii)       any place where a substantial part of the obligations of the commercial relationship is to be performed or the place with which the subject‑matter of the dispute is most closely connected; or
+(ii)        any place where a substantial part of the obligations of the commercial relationship is to be performed or the place with which the subject-matter of the dispute is most closely connected; or
 
 _(c)_ the parties have expressly agreed that the subject matter of the arbitration agreement relates to more than one country.
 
@@ -1246,11 +1244,11 @@ _(d)_ where a provision of this Law, except article 28, leaves the parties free 
 
 _(e)_ where a provision of this Law refers to the fact that the parties have agreed or that they may agree or in any other way refers to an agreement of the parties, such agreement includes any arbitration rules referred to in that agreement;
 
-_(f)_ where a provision of this Law, other than in articles 25 _(a)_ and 32(2) _(a)_, refers to a claim, it also applies to a counter‑claim, and where it refers to a defence, it also applies to a defence to such counter‑claim.
+_(f)_ where a provision of this Law, other than in articles 25 _(a)_ and 32(2) _(a)_, refers to a claim, it also applies to a counter-claim, and where it refers to a defence, it also applies to a defence to such counter-claim.
 
 _Article 2 A.      International origin and general principles_
 
-_(As adopted by the Commission at its thirty‑ninth session, in 2006)_
+_(As adopted by the Commission at its thirty-ninth session, in 2006)_
 
 (1)        In the interpretation of this Law, regard is to be had to its international origin and to the need to promote uniformity in its application and the observance of good faith.
 
@@ -1260,7 +1258,7 @@ _Article 3_._Receipt of written communications_
 
 (1)        Unless otherwise agreed by the parties:
 
-_(a)_ any written communication is deemed to have been received if it is delivered to the addressee personally or if it is delivered at his place of business, habitual residence or mailing address; if none of these can be found after making a reasonable inquiry, a written communication is deemed to have been received if it is sent to the addressee’s last‑known place of business, habitual residence or mailing address by registered letter or any other means which provides a record of the attempt to deliver it;
+_(a)_ any written communication is deemed to have been received if it is delivered to the addressee personally or if it is delivered at his place of business, habitual residence or mailing address; if none of these can be found after making a reasonable inquiry, a written communication is deemed to have been received if it is sent to the addressee’s last-known place of business, habitual residence or mailing address by registered letter or any other means which provides a record of the attempt to deliver it;
 
 _(b)_ the communication is deemed to have been received on the day it is so delivered.
 
@@ -1268,7 +1266,7 @@ _(b)_ the communication is deemed to have been received on the day it is so deli
 
 _Article 4_._Waiver of right to object_
 
-A party who knows that any provision of this Law from which the parties may derogate or any requirement under the arbitration agreement has not been complied with and yet proceeds with the arbitration without stating his objection to such non‑compliance without undue delay or, if a time‑limit is provided therefor, within such period of time, shall be deemed to have waived his right to object.
+A party who knows that any provision of this Law from which the parties may derogate or any requirement under the arbitration agreement has not been complied with and yet proceeds with the arbitration without stating his objection to such non-compliance without undue delay or, if a time-limit is provided therefor, within such period of time, shall be deemed to have waived his right to object.
 
 _Article 5_._Extent of court intervention_
 
@@ -1286,7 +1284,7 @@ _Option I_
 
 _Article 7_._Definition and form of arbitration agreement_
 
-_(As adopted by the Commission at its thirty‑ninth session, in 2006)_
+_(As adopted by the Commission at its thirty-ninth session, in 2006)_
 
 (1)        “Arbitration agreement” is an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not. An arbitration agreement may be in the form of an arbitration clause in a contract or in the form of a separate agreement.
 
@@ -1304,7 +1302,7 @@ _Option II_
 
 _Article 7_._Definition of arbitration agreement_
 
-_(As adopted by the Commission at its thirty‑ninth session, in 2006)_
+_(As adopted by the Commission at its thirty-ninth session, in 2006)_
 
 “Arbitration agreement” is an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not.
 
@@ -1388,7 +1386,7 @@ CHAPTER IV A.      INTERIM MEASURES
 
 AND PRELIMINARY ORDERS
 
-_(As adopted by the Commission at its thirty‑ninth session, in 2006)_
+_(As adopted by the Commission at its thirty-ninth session, in 2006)_
 
 **_Section 1_****._Interim measures_**
 
@@ -1480,23 +1478,23 @@ _Article 17 I.      Grounds for refusing recognition or enforcement_<s
 
 _(a)_ At the request of the party against whom it is invoked if the court is satisfied that:
 
-(i)        Such refusal is warranted on the grounds set forth in article 36(1)_(a)_(i), (ii), (iii) or (iv); or
+(i)         Such refusal is warranted on the grounds set forth in article 36(1)_(a)_(i), (ii), (iii) or (iv); or
 
-(ii)       The arbitral tribunal’s decision with respect to the provision of security in connection with the interim measure issued by the arbitral tribunal has not been complied with; or
+(ii)        The arbitral tribunal’s decision with respect to the provision of security in connection with the interim measure issued by the arbitral tribunal has not been complied with; or
 
-(iii)      The interim measure has been terminated or suspended by the arbitral tribunal or, where so empowered, by the court of the State in which the arbitration takes place or under the law of which that interim measure was granted; or
+(iii)       The interim measure has been terminated or suspended by the arbitral tribunal or, where so empowered, by the court of the State in which the arbitration takes place or under the law of which that interim measure was granted; or
 
 _(b)_ If the court finds that:
 
-(i)        The interim measure is incompatible with the powers conferred upon the court unless the court decides to reformulate the interim measure to the extent necessary to adapt it to its own powers and procedures for the purposes of enforcing that interim measure and without modifying its substance; or
+(i)         The interim measure is incompatible with the powers conferred upon the court unless the court decides to reformulate the interim measure to the extent necessary to adapt it to its own powers and procedures for the purposes of enforcing that interim measure and without modifying its substance; or
 
-(ii)       Any of the grounds set forth in article 36(1)_(b)_(i) or (ii), apply to the recognition and enforcement of the interim measure.
+(ii)        Any of the grounds set forth in article 36(1)_(b)_(i) or (ii), apply to the recognition and enforcement of the interim measure.
 
 (2)        Any determination made by the court on any ground in paragraph (1) of this article shall be effective only for the purposes of the application to recognize and enforce the interim measure. The court where recognition or enforcement is sought shall not, in making that determination, undertake a review of the substance of the interim measure.
 
-**_Section 5_****._Court‑ordered interim measures_**
+**_Section 5_****._Court-ordered interim measures_**
 
-_Article 17 J.      Court‑ordered interim measures_
+_Article 17 J.      Court-ordered interim measures_
 
 A court shall have the same power of issuing an interim measure in relation to arbitration proceedings, irrespective of whether their place is in the territory of this State, as it has in relation to proceedings in courts. The court shall exercise such power in accordance with its own procedures in consideration of the specific features of international arbitration.
 
@@ -1580,7 +1578,7 @@ _Article 28_._Rules applicable to substance of dispute_
 
 (4)        In all cases, the arbitral tribunal shall decide in accordance with the terms of the contract and shall take into account the usages of the trade applicable to the transaction.
 
-_Article 29_._Decision‑making by panel of arbitrators_
+_Article 29_._Decision-making by panel of arbitrators_
 
 In arbitral proceedings with more than one arbitrator, any decision of the arbitral tribunal shall be made, unless otherwise agreed by the parties, by a majority of all its members. However, questions of procedure may be decided by a presiding arbitrator, if so authorized by the parties or all members of the arbitral tribunal.
 
@@ -1632,7 +1630,7 @@ If the arbitral tribunal considers the request to be justified, it shall make th
 
 (5)        The provisions of article 31 shall apply to a correction or interpretation of the award or to an additional award.
 
-CHAPTER VII.      RECOURSE AGAINST AWARD
+CHAPTER VII.      RECOURSE AGAINST AWARD
 
 _Article 34_._Application for setting aside as exclusive_
 
@@ -1644,19 +1642,19 @@ _recourse against arbitral award_
 
 _(a)_ the party making the application furnishes proof that:
 
-(i)        a party to the arbitration agreement referred to in article 7 was under some incapacity; or the said agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of this State; or
+(i)         a party to the arbitration agreement referred to in article 7 was under some incapacity; or the said agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of this State; or
 
-(ii)       the party making the application was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case; or
+(ii)        the party making the application was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case; or
 
-(iii)      the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the award which contains decisions on matters not submitted to arbitration may be set aside; or
+(iii)       the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the award which contains decisions on matters not submitted to arbitration may be set aside; or
 
-(iv)      the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this Law from which the parties cannot derogate, or, failing such agreement, was not in accordance with this Law; or
+(iv)       the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this Law from which the parties cannot derogate, or, failing such agreement, was not in accordance with this Law; or
 
 _(b)_ the court finds that:
 
-(i)        the subject‑matter of the dispute is not capable of settlement by arbitration under the law of this State; or
+(i)         the subject-matter of the dispute is not capable of settlement by arbitration under the law of this State; or
 
-(ii)       the award is in conflict with the public policy of this State.
+(ii)        the award is in conflict with the public policy of this State.
 
 (3)        An application for setting aside may not be made after three months have elapsed from the date on which the party making that application had received the award or, if a request had been made under article 33, from the date on which that request had been disposed of by the arbitral tribunal.
 
@@ -1670,7 +1668,7 @@ _Article 35_._Recognition and enforcement_
 
 (2)        The party relying on an award or applying for its enforcement shall supply the original award or a copy thereof. If the award is not made in an official language of this State, the court may request the party to supply a translation thereof into such language.<sup>4</sup>
 
-_(Article 35(2) has been amended by the Commission at its thirty‑ninth session, in 2006)_
+_(Article 35(2) has been amended by the Commission at its thirty-ninth session, in 2006)_
 
 _Article 36_._Grounds for refusing recognition or enforcement_
 
@@ -1678,21 +1676,21 @@ _Article 36_._Grounds for refusing recognition or enforcement_
 
 _(a)_ at the request of the party against whom it is invoked, if that party furnishes to the competent court where recognition or enforcement is sought proof that:
 
-(i)        a party to the arbitration agreement referred to in article 7 was under some incapacity; or the said agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of the country where the award was made; or
+(i)         a party to the arbitration agreement referred to in article 7 was under some incapacity; or the said agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of the country where the award was made; or
 
-(ii)       the party against whom the award is invoked was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case; or
+(ii)        the party against whom the award is invoked was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present his case; or
 
-(iii)      the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the award which contains decisions on matters submitted to arbitration may be recognized and enforced; or
+(iii)       the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the award which contains decisions on matters submitted to arbitration may be recognized and enforced; or
 
-(iv)      the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties or, failing such agreement, was not in accordance with the law of the country where the arbitration took place; or
+(iv)       the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties or, failing such agreement, was not in accordance with the law of the country where the arbitration took place; or
 
-(v)       the award has not yet become binding on the parties or has been set aside or suspended by a court of the country in which, or under the law of which, that award was made; or
+(v)        the award has not yet become binding on the parties or has been set aside or suspended by a court of the country in which, or under the law of which, that award was made; or
 
 _(b)_ if the court finds that:
 
-(i)        the subject‑matter of the dispute is not capable of settlement by arbitration under the law of this State; or
+(i)         the subject-matter of the dispute is not capable of settlement by arbitration under the law of this State; or
 
-(ii)       the recognition or enforcement of the award would be contrary to the public policy of this State.
+(ii)        the recognition or enforcement of the award would be contrary to the public policy of this State.
 
 (2)        If an application for setting aside or suspension of an award has been made to a court referred to in paragraph (1)_(a)_(v) of this article, the court where recognition or enforcement is sought may, if it considers it proper, adjourn its decision and may also, on the application of the party claiming recognition or enforcement of the award, order the other party to provide appropriate security.
 
@@ -1744,7 +1742,7 @@ _Article 1_
 
 _Article 2_
 
-The seat of the Centre shall be at the principal office of the International Bank for Reconstruction and Development (hereinafter called the Bank). The seat may be moved to another place by decision of the Administrative Council adopted by a majority of two‑thirds of its members. 
+The seat of the Centre shall be at the principal office of the International Bank for Reconstruction and Development (hereinafter called the Bank). The seat may be moved to another place by decision of the Administrative Council adopted by a majority of two-thirds of its members. 
 
 _Article 3_
 
@@ -1756,7 +1754,7 @@ SECTION 2
 
 _Article 4_ 
 
-(1)   The Administrative Council shall be composed of one representative of each Contracting   State. An alternate may act as representative in case of his principalîs absence from a meeting or inability to act.
+(1)   The Administrative Council shall be composed of one representative of each Contracting  State. An alternate may act as representative in case of his principalîs absence from a meeting or inability to act.
 
 (2)   In the absence of a contrary designation, each governor and alternate governor of the Bank appointed by a Contracting State shall be _ex officio_ its representative and its alternate respectively.
 
@@ -1776,13 +1774,13 @@ _Article 6_
 
 (d)   approve arrangements with the Bank for the use of the Bank’s administrative facilities and services;
 
-(e)   determine the conditions of service of the Secretary‑General and of any Deputy Secretary‑General;
+(e)   determine the conditions of service of the Secretary-General and of any Deputy Secretary-General;
 
-(f)   adopt the annual budget of revenues and expenditures of the Centre;
+(f)    adopt the annual budget of revenues and expenditures of the Centre;
 
 (g)   approve the annual report on the operation of the Centre.
 
-The decisions referred to in sub‑paragraphs (a), (b), (c) and (f) above shall be adopted by a majority of two‑thirds of the members of the Administrative Council.
+The decisions referred to in sub-paragraphs (a), (b), (c) and (f) above shall be adopted by a majority of two-thirds of the members of the Administrative Council.
 
 (2)   The Administrative Council may appoint such committees as it considers necessary.
 
@@ -1790,13 +1788,13 @@ The decisions referred to in sub‑paragraphs (a), (b), (c) and (f) above shal
 
 _Article 7_ 
 
-(1)   The Administrative Council shall hold an annual meeting and such other meetings as may be determined by the Council, or convened by the Chairman, or convened by the Secretary‑General at the request of not less than five members of the Council.
+(1)   The Administrative Council shall hold an annual meeting and such other meetings as may be determined by the Council, or convened by the Chairman, or convened by the Secretary-General at the request of not less than five members of the Council.
 
 (2)   Each member of the Administrative Council shall have one vote and, except as otherwise herein provided, all matters before the Council shall be decided by a majority of the votes cast.
 
 (3)   A quorum for any meeting of the Administrative Council shall be a majority of its members.
 
-(4)   The Administrative Council may establish, by a majority of two‑thirds of its members, a procedure whereby the Chairman may seek a vote of the Council without convening a meeting of the Council. The vote shall be considered valid only if the majority of the members of the Council cast their votes within the time limit fixed by the said procedure. 
+(4)   The Administrative Council may establish, by a majority of two-thirds of its members, a procedure whereby the Chairman may seek a vote of the Council without convening a meeting of the Council. The vote shall be considered valid only if the majority of the members of the Council cast their votes within the time limit fixed by the said procedure. 
 
 _Article 8_
 
@@ -1808,19 +1806,19 @@ SECTION 3
 
 _Article 9_ 
 
-The Secretariat shall consist of a Secretary‑General, one or more Deputy Secretaries‑General and staff. 
+The Secretariat shall consist of a Secretary-General, one or more Deputy Secretaries-General and staff. 
 
 _Article 10_ 
 
-(1)   The Secretary‑General and any Deputy Secretary‑General shall be elected by the Administrative Council by a majority of two‑thirds of its members upon the nomination of the Chairman for a term of service not exceeding six years and shall be eligible for re‑election. After consulting the members of the Administrative Council, the Chairman shall propose one or more candidates for each such office.
+(1)   The Secretary-General and any Deputy Secretary-General shall be elected by the Administrative Council by a majority of two-thirds of its members upon the nomination of the Chairman for a term of service not exceeding six years and shall be eligible for re-election. After consulting the members of the Administrative Council, the Chairman shall propose one or more candidates for each such office.
 
-(2)   The offices of Secretary‑General and Deputy Secretary‑General shall be incompatible with the exercise of any political function. Neither the Secretary‑General nor any Deputy Secretary‑General may hold any other employment or engage in any other occupation except with the approval of the Administrative Council.
+(2)   The offices of Secretary-General and Deputy Secretary-General shall be incompatible with the exercise of any political function. Neither the Secretary-General nor any Deputy Secretary-General may hold any other employment or engage in any other occupation except with the approval of the Administrative Council.
 
-(3)   During the Secretary‑General’s absence or inability to act, and during any vacancy of the office of Secretary‑General, the Deputy Secretary‑General shall act as Secretary‑General. If there shall be more than one Deputy Secretary‑General, the Administrative Council shall determine in advance the order in which they shall act as Secretary‑General.
+(3)   During the Secretary-General’s absence or inability to act, and during any vacancy of the office of Secretary-General, the Deputy Secretary-General shall act as Secretary-General. If there shall be more than one Deputy Secretary-General, the Administrative Council shall determine in advance the order in which they shall act as Secretary-General.
 
 _Article 11_
 
-The Secretary‑General shall be the legal representative and the principal officer of the Centre and shall be responsible for its administration, including the appointment of staff, in accordance with the provisions of this Convention and the rules adopted by the Administrative Council. He shall perform the function of registrar and shall have the power to authenticate arbitral awards rendered pursuant to this Convention, and to certify copies thereof.
+The Secretary-General shall be the legal representative and the principal officer of the Centre and shall be responsible for its administration, including the appointment of staff, in accordance with the provisions of this Convention and the rules adopted by the Administrative Council. He shall perform the function of registrar and shall have the power to authenticate arbitral awards rendered pursuant to this Convention, and to certify copies thereof.
 
 SECTION 4
 
@@ -1856,7 +1854,7 @@ _Article 16_
 
 (2)   If a person shall have been designated to serve on the same Panel by more than one Contracting State, or by one or more Contracting States and the Chairman, he shall be deemed to have been designated by the authority which first designated him or, if one such authority is the State of which he is a national, by that State.
 
-(3)   All designations shall be notified to the Secretary‑General and shall take effect from the date on which the notification is received. 
+(3)   All designations shall be notified to the Secretary-General and shall take effect from the date on which the notification is received. 
 
 SECTION 5
 
@@ -1898,13 +1896,13 @@ The Chairman, the members of the Administrative Council, persons acting as conci
 
 _Article 22_ 
 
-The provisions of Article 21 shall apply to persons appearing in proceedings under this Convention as parties, agents, counsel, advocates, witnesses or experts; provided, however, that sub‑paragraph (b) thereof shall apply only in connection with their travel to and from, and their stay at, the place where the proceedings are held.
+The provisions of Article 21 shall apply to persons appearing in proceedings under this Convention as parties, agents, counsel, advocates, witnesses or experts; provided, however, that sub-paragraph (b) thereof shall apply only in connection with their travel to and from, and their stay at, the place where the proceedings are held.
 
 _Article 23_ 
 
 (1)   The archives of the Centre shall be inviolable, wherever they may be. 
 
-(2)   With regard to its official communications, the Centre shall be accorded by each Contracting   State treatment not less favourable than that accorded to other international organizations.
+(2)   With regard to its official communications, the Centre shall be accorded by each Contracting  State treatment not less favourable than that accorded to other international organizations.
 
 _Article 24_ 
 
@@ -1930,7 +1928,7 @@ _Article 25_
 
 (3)   Consent by a constituent subdivision or agency of a Contracting State shall require the approval of that State unless that State notifies the Centre that no such approval is required.
 
-(4)   Any   Contracting State may, at the time of ratification, acceptance or approval of this Convention or at any time thereafter, notify the Centre of the class or classes of disputes which it would or would not consider submitting to the jurisdiction of the Centre. The Secretary‑General shall forthwith transmit such notification to all Contracting States. Such notification shall not constitute the consent required by paragraph (1).
+(4)   Any   Contracting State may, at the time of ratification, acceptance or approval of this Convention or at any time thereafter, notify the Centre of the class or classes of disputes which it would or would not consider submitting to the jurisdiction of the Centre. The Secretary-General shall forthwith transmit such notification to all Contracting States. Such notification shall not constitute the consent required by paragraph (1).
 
 _Article 26_ 
 
@@ -1952,11 +1950,11 @@ SECTION 1
 
 _Article 28_
 
-(1)   Any Contracting State or any national of a Contracting   State wishing to institute conciliation proceedings shall address a request to that effect in writing to the Secretary‑General who shall send a copy of the request to the other party.
+(1)   Any Contracting State or any national of a Contracting  State wishing to institute conciliation proceedings shall address a request to that effect in writing to the Secretary-General who shall send a copy of the request to the other party.
 
 (2)   The request shall contain information concerning the issues in dispute, the identity of the parties and their consent to conciliation in accordance with the rules of procedure for the institution of conciliation and arbitration proceedings.
 
-(3)   The Secretary‑General shall register the request unless he finds, on the basis of the information contained in the request, that the dispute is manifestly outside the jurisdiction of the Centre. He shall forthwith notify the parties of registration or refusal to register. 
+(3)   The Secretary-General shall register the request unless he finds, on the basis of the information contained in the request, that the dispute is manifestly outside the jurisdiction of the Centre. He shall forthwith notify the parties of registration or refusal to register. 
 
 SECTION 2
 
@@ -1972,7 +1970,7 @@ _Article 29_
 
 _Article 30_ 
 
-If the Commission shall not have been constituted within 90 days after notice of registration of the request has been dispatched by the Secretary‑General in accordance with paragraph (3) of Article 28, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the conciliator or conciliators not yet appointed.
+If the Commission shall not have been constituted within 90 days after notice of registration of the request has been dispatched by the Secretary-General in accordance with paragraph (3) of Article 28, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the conciliator or conciliators not yet appointed.
 
 _Article 31_
 
@@ -2014,11 +2012,11 @@ SECTION 1
 
 _Article 36_
 
-(1)   Any   Contracting State or any national of a Contracting State wishing to institute arbitration proceedings shall address a request to that effect in writing to the Secretary‑General who shall send a copy of the request to the other party.
+(1)   Any   Contracting State or any national of a Contracting State wishing to institute arbitration proceedings shall address a request to that effect in writing to the Secretary-General who shall send a copy of the request to the other party.
 
 (2)   The request shall contain information concerning the issues in dispute, the identity of the parties and their consent to arbitration in accordance with the rules of procedure for the institution of conciliation and arbitration proceedings.
 
-(3)   The Secretary‑General shall register the request unless he finds, on the basis of the information contained in the request, that the dispute is manifestly outside the jurisdiction of the Centre. He shall forthwith notify the parties of registration or refusal to register. 
+(3)   The Secretary-General shall register the request unless he finds, on the basis of the information contained in the request, that the dispute is manifestly outside the jurisdiction of the Centre. He shall forthwith notify the parties of registration or refusal to register. 
 
 SECTION 2
 
@@ -2034,7 +2032,7 @@ _Article 37_
 
 _Article 38_ 
 
-If the Tribunal shall not have been constituted within 90 days after notice of registration of the request has been dispatched by the Secretary‑General in accordance with paragraph (3) of Article 36, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the arbitrator or arbitrators not yet appointed. Arbitrators appointed by the Chairman pursuant to this Article shall not be nationals of the Contracting State party to the dispute or of the Contracting State whose national is a party to the dispute.
+If the Tribunal shall not have been constituted within 90 days after notice of registration of the request has been dispatched by the Secretary-General in accordance with paragraph (3) of Article 36, or such other period as the parties may agree, the Chairman shall, at the request of either party and after consulting both parties as far as possible, appoint the arbitrator or arbitrators not yet appointed. Arbitrators appointed by the Chairman pursuant to this Article shall not be nationals of the Contracting State party to the dispute or of the Contracting State whose national is a party to the dispute.
 
 _Article 39_
 
@@ -2084,7 +2082,7 @@ _Article 45_
 
 _Article 46_
 
-Except as the parties otherwise agree, the Tribunal shall, if requested by a party, determine any incidental or additional claims or counter‑claims arising directly out of the subject‑matter of the dispute provided that they are within the scope of the consent of the parties and are otherwise within the jurisdiction of the Centre.
+Except as the parties otherwise agree, the Tribunal shall, if requested by a party, determine any incidental or additional claims or counter-claims arising directly out of the subject-matter of the dispute provided that they are within the scope of the consent of the parties and are otherwise within the jurisdiction of the Centre.
 
 _Article 47_
 
@@ -2108,7 +2106,7 @@ _Article 48_
 
 _Article 49_
 
-(1)   The Secretary‑General shall promptly dispatch certified copies of the award to the parties. The award shall be deemed to have been rendered on the date on which the certified copies were dispatched.
+(1)   The Secretary-General shall promptly dispatch certified copies of the award to the parties. The award shall be deemed to have been rendered on the date on which the certified copies were dispatched.
 
 (2)   The Tribunal upon the request of a party made within 45 days after the date on which the award was rendered may after notice to the other party decide any question which it had omitted to decide in the award, and shall rectify any clerical, arithmetical or similar error in the award. Its decision shall become part of the award and shall be notified to the parties in the same manner as the award. The periods of time provided for under paragraph (2) of Article 51 and paragraph (2) of Article 52 shall run from the date on which the decision was rendered.
 
@@ -2118,13 +2116,13 @@ SECTION 5
 
 _Article 50_
 
-(1)   If any dispute shall arise between the parties as to the meaning or scope of an award, either party may request interpretation of the award by an application in writing addressed to the Secretary‑General.
+(1)   If any dispute shall arise between the parties as to the meaning or scope of an award, either party may request interpretation of the award by an application in writing addressed to the Secretary-General.
 
 (2)   The request shall, if possible, be submitted to the Tribunal which rendered the award. If this shall not be possible, a new Tribunal shall be constituted in accordance with Section 2 of this Chapter. The Tribunal may, if it considers that the circumstances so require, stay enforcement of the award pending its decision.
 
 _Article 51_ 
 
-(1)   Either party may request revision of the award by an application in writing addressed to the Secretary‑General on the ground of discovery of some fact of such a nature as decisively to affect the award, provided that when the award was rendered that fact was unknown to the Tribunal and to the applicant and that the applicant’s ignorance of that fact was not due to negligence.
+(1)   Either party may request revision of the award by an application in writing addressed to the Secretary-General on the ground of discovery of some fact of such a nature as decisively to affect the award, provided that when the award was rendered that fact was unknown to the Tribunal and to the applicant and that the applicant’s ignorance of that fact was not due to negligence.
 
 (2)   The application shall be made within 90 days after the discovery of such fact and in any event within three years after the date on which the award was rendered.
 
@@ -2134,7 +2132,7 @@ _Article 51_
 
 _Article 52_
 
-(1)   Either party may request annulment of the award by an application in writing addressed to the Secretary‑General on one or more of the following grounds:
+(1)   Either party may request annulment of the award by an application in writing addressed to the Secretary-General on one or more of the following grounds:
 
 (a)   that the Tribunal was not properly constituted;
 
@@ -2150,7 +2148,7 @@ _Article 52_
 
 (3)   On receipt of the request the Chairman shall forthwith appoint from the Panel of Arbitrators an _ad hoc_ Committee of three persons. None of the members of the Committee shall have been a member of the Tribunal which rendered the award, shall be of the same nationality as any such member, shall be a national of the State party to the dispute or of the State whose national is a party to the dispute, shall have been designated to the Panel of Arbitrators by either of those States, or shall have acted as a conciliator in the same dispute. The Committee shall have the authority to annul the award or any part thereof on any of the grounds set forth in paragraph (1).
 
-(4)   The provisions of Articles 41‑45, 48, 49, 53 and 54, and of Chapters VI and VII shall apply _mutatis mutandis_ to proceedings before the Committee.
+(4)   The provisions of Articles 41-45, 48, 49, 53 and 54, and of Chapters VI and VII shall apply _mutatis mutandis_ to proceedings before the Committee.
 
 (5)   The Committee may, if it considers that the circumstances so require, stay enforcement of the award pending its decision. If the applicant requests a stay of enforcement of the award in his application, enforcement shall be stayed provisionally until the Committee rules on such request.
 
@@ -2170,13 +2168,13 @@ _Article 54_
 
 (1)   Each   Contracting State shall recognize an award rendered pursuant to this Convention as binding and enforce the pecuniary obligations imposed by that award within its territories as if it were a final judgment of a court in that State. A Contracting State with a federal constitution may enforce such an award in or through its federal courts and may provide that such courts shall treat the award as if it were a final judgment of the courts of a constituent state.
 
-(2)   A party seeking recognition or enforcement in the territories of a Contracting   State shall furnish to a competent court or other authority which such State shall have designated for this purpose a copy of the award certified by the Secretary‑General. Each Contracting State shall notify the Secretary‑General of the designation of the competent court or other authority for this purpose and of any subsequent change in such designation.
+(2)   A party seeking recognition or enforcement in the territories of a Contracting State shall furnish to a competent court or other authority which such State shall have designated for this purpose a copy of the award certified by the Secretary-General. Each Contracting State shall notify the Secretary-General of the designation of the competent court or other authority for this purpose and of any subsequent change in such designation.
 
 (3)   Execution of the award shall be governed by the laws concerning the execution of judgments in force in the State in whose territories such execution is sought.
 
 _Article 55_ 
 
-Nothing in Article 54 shall be construed as derogating from the law in force in any Contracting   State relating to immunity of that State or of any foreign State from execution. 
+Nothing in Article 54 shall be construed as derogating from the law in force in any Contracting  State relating to immunity of that State or of any foreign State from execution. 
 
 CHAPTER V
 
@@ -2196,7 +2194,7 @@ A party may propose to a Commission or Tribunal the disqualification of any of i
 
 _Article 58_
 
-The decision on any proposal to disqualify a conciliator or arbitrator shall be taken by the other members of the Commission or Tribunal as the case may be, provided that where those members are equally divided, or in the case of a proposal to disqualify a sole conciliator or arbitrator, or a majority of the conciliators or arbitrators, the Chairman shall take that decision. If it is decided that the proposal is well‑founded the conciliator or arbitrator to whom the decision relates shall be replaced in accordance with the provisions of Section 2 of Chapter III or Section 2 of Chapter IV.
+The decision on any proposal to disqualify a conciliator or arbitrator shall be taken by the other members of the Commission or Tribunal as the case may be, provided that where those members are equally divided, or in the case of a proposal to disqualify a sole conciliator or arbitrator, or a majority of the conciliators or arbitrators, the Chairman shall take that decision. If it is decided that the proposal is well-founded the conciliator or arbitrator to whom the decision relates shall be replaced in accordance with the provisions of Section 2 of Chapter III or Section 2 of Chapter IV.
 
 CHAPTER VI
 
@@ -2204,11 +2202,11 @@ CHAPTER VI
 
 _Article 59_
 
-The charges payable by the parties for the use of the facilities of the Centre shall be determined by the Secretary‑General in accordance with the regulations adopted by the Administrative Council.
+The charges payable by the parties for the use of the facilities of the Centre shall be determined by the Secretary-General in accordance with the regulations adopted by the Administrative Council.
 
 _Article 60_
 
-(1)   Each Commission and each Tribunal shall determine the fees and expenses of its members within limits established from time to time by the Administrative Council and after consultation with the Secretary‑General.
+(1)   Each Commission and each Tribunal shall determine the fees and expenses of its members within limits established from time to time by the Administrative Council and after consultation with the Secretary-General.
 
 (2)   Nothing in paragraph (1) of this Article shall preclude the parties from agreeing in advance with the Commission or Tribunal concerned upon the fees and expenses of its members.
 
@@ -2232,7 +2230,7 @@ Conciliation and arbitration proceedings may be held, if the parties so agree,
 
 (a)    at the seat of the Permanent Court of Arbitration or of any other appropriate institution, whether private or public, with which the Centre may make arrangements for that purpose; or
 
-(b)    at any other place approved by the Commission or Tribunal after consultation with the Secretary‑General.
+(b)    at any other place approved by the Commission or Tribunal after consultation with the Secretary-General.
 
 CHAPTER VIII
 
@@ -2248,13 +2246,13 @@ CHAPTER IX
 
 _Article 65_
 
-Any   Contracting State may propose amendment of this Convention. The text of a proposed amendment shall be communicated to the Secretary‑General not less than 90 days prior to the meeting of the Administrative Council at which such amendment is to be considered and shall forthwith be transmitted by him to all the members of the Administrative Council.
+Any   Contracting State may propose amendment of this Convention. The text of a proposed amendment shall be communicated to the Secretary-General not less than 90 days prior to the meeting of the Administrative Council at which such amendment is to be considered and shall forthwith be transmitted by him to all the members of the Administrative Council.
 
 _Article 66_
 
-(1)   If the Administrative Council shall so decide by a majority of two‑thirds of its members, the proposed amendment shall be circulated to all Contracting States for ratification, acceptance or approval. Each amendment shall enter into force 30 days after dispatch by the depositary of this Convention of a notification to Contracting States that all Contracting States have ratified, accepted or approved the amendment.
+(1)   If the Administrative Council shall so decide by a majority of two-thirds of its members, the proposed amendment shall be circulated to all Contracting States for ratification, acceptance or approval. Each amendment shall enter into force 30 days after dispatch by the depositary of this Convention of a notification to Contracting States that all Contracting States have ratified, accepted or approved the amendment.
 
-(2)   No amendment shall affect the rights and obligations under this Convention of any Contracting   State or of any of its constituent subdivisions or agencies, or of any national of such State arising out of consent to the jurisdiction of the Centre given before the date of entry into force of the amendment.
+(2)   No amendment shall affect the rights and obligations under this Convention of any Contracting  State or of any of its constituent subdivisions or agencies, or of any national of such State arising out of consent to the jurisdiction of the Centre given before the date of entry into force of the amendment.
 
 CHAPTER X
 
@@ -2262,7 +2260,7 @@ CHAPTER X
 
 _Article 67_
 
-This Convention shall be open for signature on behalf of States members of the Bank. It shall also be open for signature on behalf of any other State which is a party to the Statute of the International Court of Justice and which the Administrative Council, by a vote of two‑thirds of its members, shall have invited to sign the Convention.
+This Convention shall be open for signature on behalf of States members of the Bank. It shall also be open for signature on behalf of any other State which is a party to the Statute of the International Court of Justice and which the Administrative Council, by a vote of two-thirds of its members, shall have invited to sign the Convention.
 
 _Article 68_
 
@@ -2280,7 +2278,7 @@ This Convention shall apply to all territories for whose international relations
 
 _Article 71_
 
-Any Contracting   State may denounce this Convention by written notice to the depositary of this Convention. The denunciation shall take effect six months after receipt of such notice. 
+Any Contracting State may denounce this Convention by written notice to the depositary of this Convention. The denunciation shall take effect six months after receipt of such notice. 
 
 _Article 72_
 
@@ -2308,7 +2306,7 @@ The depositary shall notify all signatory States of the following:
 
 (e)   the date on which any amendment of this Convention enters into force in accordance with Article 66; and
 
-(f)   denunciations in accordance with Article 71.
+(f)    denunciations in accordance with Article 71.
 
 DONE at Washington in the English, French and Spanish languages, all three texts being equally authentic, in a single copy which shall remain deposited in the archives of the International Bank for Reconstruction and Development, which has indicated by its signature below its agreement to fulfil the functions with which it is charged under this Convention.
 
@@ -2529,23 +2527,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 
 28–35) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 67, 68) and Schedule 7 (items 77–79): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -2778,7 +2759,7 @@ _(c)_Subsection 2(1) (items 3 and 9) of the _International Arbitration Amendment
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 25, 1989; No. 122, 2009; No. 97, 2010; No. 5, 2011</div>
+    <div>am. No. 25, 1989; No. 122, 2009; No. 97, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2826,15 +2807,7 @@ _(c)_Subsection 2(1) (items 3 and 9) of the _International Arbitration Amendment
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 25, 1989; No. 62, 2004; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 10A</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+    <div>am. No. 25, 1989; No. 62, 2004</div>
   </td>
 </tr>
 <tr>
@@ -2843,14 +2816,6 @@ _(c)_Subsection 2(1) (items 3 and 9) of the _International Arbitration Amendment
   </td>
   <td>
     <div>ad. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3215,14 +3180,6 @@ _(c)_Subsection 2(1) (items 3 and 9) of the _International Arbitration Amendment
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -3356,11 +3313,11 @@ The amendments made by items 2 to 4 of this Schedule apply in relation to agre
 
 ## 29  Application of items 5 to 9
 
-(1)       The amendments made by items 5, 7 and 9 of this Schedule apply in relation to proceedings to enforce a foreign award brought on or after the commencement of those items.
+(1)        The amendments made by items 5, 7 and 9 of this Schedule apply in relation to proceedings to enforce a foreign award brought on or after the commencement of those items.
 
-(2)       The amendment made by item 6 of this Schedule applies in relation to proceedings to enforce a foreign award brought on or after the commencement of that item.
+(2)        The amendment made by item 6 of this Schedule applies in relation to proceedings to enforce a foreign award brought on or after the commencement of that item.
 
-(3)       The amendment made by item 8 of this Schedule applies in relation to proceedings to enforce a foreign award brought on or after the commencement of that item.
+(3)        The amendment made by item 8 of this Schedule applies in relation to proceedings to enforce a foreign award brought on or after the commencement of that item.
 
 ## 30  Application of item 10
 
@@ -3368,21 +3325,21 @@ The amendment made by item 10 of this Schedule applies whether the proceedings
 
 ## 31  Application of item 14
 
-(1)       The amendment made by item 14 of this Schedule, to the extent that it relates to Article 12(1) of the Model Law, applies in relation to an approach on or after the commencement of that item in connection with a possible appointment of a person as arbitrator.
+(1)        The amendment made by item 14 of this Schedule, to the extent that it relates to Article 12(1) of the Model Law, applies in relation to an approach on or after the commencement of that item in connection with a possible appointment of a person as arbitrator.
 
-(2)       The amendment made by item 14 of this Schedule, to the extent that it relates to Article 12(2) of the Model Law, applies in relation to a person acting as arbitrator on or after the commencement of that item.
+(2)        The amendment made by item 14 of this Schedule, to the extent that it relates to Article 12(2) of the Model Law, applies in relation to a person acting as arbitrator on or after the commencement of that item.
 
 ## 32  Application of items 18 to 23
 
-(1)       The amendments made by items 18 to 23 of this Schedule apply in relation to arbitration agreements entered into on or after the commencement of those items.
+(1)        The amendments made by items 18 to 23 of this Schedule apply in relation to arbitration agreements entered into on or after the commencement of those items.
 
-(2)       To avoid doubt, subitem (1) does not prevent the parties to an arbitration agreement entered into before the commencement of those items from making an agreement, after that commencement, in accordance with section 22 of the _International Arbitration Act 1974_, in relation to any provision inserted or amended by items 18 to 23 of this Schedule.
+(2)        To avoid doubt, subitem (1) does not prevent the parties to an arbitration agreement entered into before the commencement of those items from making an agreement, after that commencement, in accordance with section 22 of the _International Arbitration Act 1974_, in relation to any provision inserted or amended by items 18 to 23 of this Schedule.
 
 ## 33  Application of items 24 and 25
 
-(1)       The amendment made by item 24 of this Schedule applies in relation to proceedings to enforce an award brought on or after the commencement of that item.
+(1)        The amendment made by item 24 of this Schedule applies in relation to proceedings to enforce an award brought on or after the commencement of that item.
 
-(2)       The amendment made by item 25 of this Schedule applies in relation to proceedings to enforce an award brought on or after the commencement of that item.
+(2)        The amendment made by item 25 of this Schedule applies in relation to proceedings to enforce an award brought on or after the commencement of that item.
 
 ## 34  Application of item 26
 
