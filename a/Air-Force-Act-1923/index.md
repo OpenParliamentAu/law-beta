@@ -1,17 +1,8 @@
-# ![](http://www.comlaw.gov.au/Details/C2004C01746/Html/AirForceAct23_image001.gif)
-
-#  
-
 # Air Force Act 1923
 
-Act No. 33 of 1923 as amended
+REPRINT No. 3
 
-Consolidated as in force on 5 January 1998
-
-(includes amendments up to Act No. 1 of 1997)
-
-Prepared by the Office of Legislative Drafting,
- Attorney-General’s Department, Canberra
+Consolidated to 11 April 1997
 
 # Contents
 
@@ -23,11 +14,11 @@ Prepared by the Office of Legislative Drafting,
 
 [4A](#4A).            Australian Air Force                                                                              
 
-[4B](#4B).            Permanent Air Force                                                                              
+[4B](#4B).            Permanent Air Force [_see_ Note 2]                                                         
 
-[4C](#4C).            Air Force Emergency Force                                                                   
+[4C](#4C).            Air Force Emergency Force [_see_ Note 2]                                               
 
-[4D](#4D).            Australian Air Force Reserve                                                                 
+[4D](#4D).            Australian Air Force Reserve [_see_ Note 2]                                            
 
 [4E](#4E).             Voluntary entry                                                                                     
 
@@ -47,7 +38,7 @@ Prepared by the Office of Legislative Drafting,
 
 [9](#9).               Regulations                                                                                             
 
-#  
+ 
 
 ## An Act relating to Air Defence
 
@@ -57,7 +48,7 @@ Prepared by the Office of Legislative Drafting,
 
 **Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
 
 This Act may be cited as the _Air Force Act 1923._
 
@@ -79,7 +70,7 @@ This Act extends to every Territory.
 
 The Australian Air Force consists of 3 parts, namely, the Permanent Air Force, the Air Force Emergency Force and the Australian Air Force Reserve. 
 
-##### <a id="4B"></a>4B  Permanent Air Force
+##### <a id="4B"></a>4B  Permanent Air Force<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 2]</span>
 
 The Permanent Air Force consists of:
 
@@ -89,13 +80,9 @@ The Permanent Air Force consists of:
 
                               (i)  the Air Force Emergency Force; or
 
-                             (ii)  the Australian Air Force Reserve; or
+                             (ii)  the Australian Air Force Reserve.
 
-                            (iii)  the Australian Army; or
-
-                            (iv)  the Australian Navy.
-
-##### <a id="4C"></a>4C  Air Force Emergency Force<span style="font-size:9.0pt;font-weight:normal"> </span>
+##### <a id="4C"></a>4C  Air Force Emergency Force<span style="font-size:9.0pt;font-weight: normal"> [_see_ Note 2]</span>
 
 The Air Force Emergency Force consists of:
 
@@ -105,13 +92,9 @@ The Air Force Emergency Force consists of:
 
                               (i)  the Permanent Air Force; or
 
-                             (ii)  the Australian Air Force Reserve; or
+                             (ii)  the Australian Air Force Reserve.
 
-                            (iii)  the Australian Army; or
-
-                            (iv)  the Australian Navy.
-
-##### <a id="4D"></a>4D  Australian Air Force Reserve<span style="font-size:9.0pt;font-weight:normal"> </span>
+##### <a id="4D"></a>4D  Australian Air Force Reserve<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 2]</span>
 
              (1)  The Australian Air Force Reserve consists of the Air Force Active Reserve, the Air Force General Reserve and the Air Force Specialist Reserve. 
 
@@ -129,11 +112,7 @@ The Air Force Emergency Force consists of:
 
                              (ii)  the Air Force Emergency Force; or
 
-                            (iii)  another part of the Australian Air Force Reserve; or
-
-                            (iv)  the Australian Army; or
-
-                             (v)  the Australian Navy.
+                            (iii)  another part of the Australian Air Force Reserve.
 
 ##### <a id="4E"></a>4E  Voluntary entry
 
@@ -261,7 +240,7 @@ The Governor-General may make regulations, not inconsistent with this Act, presc
 
 * * *
 
-# NOTE
+# NOTES
 
 1.   The _Air Force Act 1923_ as shown in this reprint comprises Act No. 33, 1923 amended as indicated in the Tables below.
 
@@ -651,8 +630,8 @@ Ss. 4-8: 1 July 1988 ( <i>see Gazette</i>1988, No. S173) <i>(e)</i></div>
     <div>19 Feb 1997</div>
   </td>
   <td>
-    <div>Schedules 1 and 3: 30 Apr 1997 ( <i>see Gazette</i>1997, No. S91) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (items 1-3: ( <i>see</i> <i>(g)</i>and Note 2) 
+Schedule 2 (items 90-94): Royal Assent <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -684,6 +663,16 @@ _(e)_     The _Air Force Act 1923_ was amended by sections 3-9 only of t
 _(f)_      The _Air Force Act 1923_ was amended by Part II (sections 3, 4) only of the _Defence Legislation Amendment Act (No. 2) 1988_, subsection 2(1) of which provides as follows:
 
                  “(1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.”
+
+_(g)_     The _Air Force Act 1923_ was amended by Schedule 1 (items 1-3) and Schedule 2 (items 90-94) only of the _Defence Legislation Amendment Act (No. 1) 1997_, section 2 of which provides as follows:
+
+                 “(1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+                 “(2)   Subject to subsection (3), Schedules 1 and 3 commence on a day or days to be fixed by Proclamation. [_see_ Note 2]
+
+                 “(3)   If a provision of this Act does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.”
+
+ 
 
 ## Table of Amendments
 
@@ -852,14 +841,6 @@ _(f)_      The _Air Force Act 1923_ was amended by Part II (sections 3
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4D</div>
   </td>
   <td>
@@ -879,7 +860,7 @@ _(f)_      The _Air Force Act 1923_ was amended by Part II (sections 3
     <div></div>
   </td>
   <td>
-    <div>am. No. 65, 1987; No. 1, 1997</div>
+    <div>am. No. 65, 1987</div>
   </td>
 </tr>
 <tr>
@@ -1132,5 +1113,39 @@ _(f)_      The _Air Force Act 1923_ was amended by Part II (sections 3
 </tr></table>
 
  
+
+2.   The _Air Force Act 1923_ was amended by Schedule 1 (items 1-3) of the _Defence Legislation Amendment Act (No. 1) 1997_. The applicable provisions provide as follows:
+
+1  At the end of paragraph 4B(b)
+
+Add:
+
+                            ; or (iii)  the Australian Army; or
+
+                                  (iv)  the Australian Navy.
+
+2  At the end of paragraph 4C(b)
+
+Add:
+
+                            ; or (iii)  the Australian Army; or
+
+                                  (iv)  the Australian Navy.
+
+3  At the end of paragraph 4D(4)(b)
+
+Add:
+
+                           ; or (iv)  the Australian Army; or
+
+                                  (v)  the Australian Navy.
+
+      Subsections (2) and (3) of the _Defence Legislation Amendment Act (No. 1) 1997_ provide as follows:
+
+(2)     Subject to subsection (3), Schedules 1 and 3 commence on a day or days to be fixed by Proclamation.
+
+(3)     If a provision of this Act does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+
+      As at 11 April 1997 no date had been fixed and the amendments are not incorporated in this reprint.
 
  
