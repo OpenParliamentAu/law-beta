@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00422/Html/PooledDevelFund1992_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00688/Html/PooledDevelFund1992_WD02_image001.gif)
 
 # Pooled Development Funds Act 1992
 
 **Act No. 100 of 1992 as amended**
 
-This compilation was prepared on 4 September 2009
- taking into account amendments up to Act No. 75 of 2009
+This compilation was prepared on 22 December 2008
+ taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -2185,24 +2185,7 @@ Remainder: 24 May 2001</div>
     <div>Schedule 12 (items 1–8): 10 Dec 2008</div>
   </td>
   <td>
-    <div>Sch. 12 (item 8) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009</div>
-  </td>
-  <td>
-    <div>75, 2009</div>
-  </td>
-  <td>
-    <div>27 Aug 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 218): \[ <i>see</i> Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 12 (item 8) \[ <i>see</i> Table A]</div>
   </td>
 </tr></table>
 
@@ -2866,20 +2849,6 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
   </td>
 </tr></table>
 
-### Note 2
-
-_Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009 (No. 75, 2009)_
-
-The following amendment commences on 27 February 2010 unless proclaimed earlier:
-
-## Schedule 1
-
-## 218  Subsection 4(1) (paragraph (a) of the definition of _life office_)
-
-After “under”, insert “section 21 of”.
-
-As at 4 September 2009 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, Saving or Transitional Provisions
@@ -3056,7 +3025,7 @@ In this Part:
 
                      (d)  the giving of directions by the Minister to the former Board.
 
-## 281  Things done to the Chairperson or acting Chairperson of a former Board before commencement
+## 281  Things done to the Chairperson or acting Chairperson of a former Board before commencement
 
 (1)        Any thing done to the Chairperson, or acting Chairperson, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done to the Chairperson of the new Board.
 
