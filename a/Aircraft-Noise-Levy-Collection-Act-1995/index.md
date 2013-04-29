@@ -1,12 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2004C01791/Html/AiNoiseLC95_image001.jpg)
+# ![](http://www.comlaw.gov.au/Details/C2004C01789/Html/AirNoiseLevCol95_image001.gif)
+
+#  
 
 # Aircraft Noise Levy Collection Act 1995 
 
 **Act No. 98 of 1995 as amended**
 
-Consolidated as in force on 5 December 1999
+Consolidated as in force on 9 February 1999
 
-(includes amendments up to Act No. 146 of 1999)
+(includes amendments up to Act No. 152 of 1997)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -17,61 +19,65 @@ Prepared by the Office of Legislative Drafting,
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+1             Short title [_see_ Note 1]                                                                        
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+2             Commencement [_see_ Note 1]                                                              
 
-[3](#3).            Definitions                                                                                           1
+3             Definitions                                                                                           
 
-[4](#4).            Operator of a jet aircraft                                                                      2
+4             Operator of a jet aircraft                                                                      
 
-[5](#5).            Act binds Crown                                                                                 3
+5             Act binds Crown                                                                                 
 
-**Part 2—Leviable airports**
+**Part 2—Leviable airports** 
 
-[6](#6).            Identification of qualifying airports                                                     4
+6             Identification of qualifying airports                                                    
 
-[7](#7).            Declaration of leviable airports                                                            5
+7             Declaration of leviable airports                                                           
 
-**Part 3—Payment of levy and penalty for late payment of levy**
+**Part 3—Payment of levy and penalty for late payment of levy** 
 
-[8](#8).            When levy becomes due for payment                                                 7
+8             When levy becomes due for payment                                                 
 
-[9](#9).            Penalty for late payment of levy                                                         7
+9             Penalty for late payment of levy                                                        
 
-[10](#10).          Remission of late-payment penalty                                                    7
+10           Remission of late-payment penalty                                                    
 
-[11](#11).          Manner of payment                                                                             8
+11           Manner of payment                                                                            
 
-[12](#12).          Recovery of unpaid levy and late-payment penalty                           8
+12           Recovery of unpaid levy and late-payment penalty                           
 
-[13](#13).          Refund of overpayment of levy or late-payment penalty                  9
+13           Refund of overpayment of levy or late-payment penalty                  
 
 **Part 4—Powers to gather information relevant to collecting levy**
 
-[14](#14).          Authorised officers’ powers to seek information                              10
+14           Authorised officers’ powers to seek information                               
 
-[15](#15).          Offences in relation to returns etc                                                     10
+[15           Offences in relation to returns etc](#15           Offences in relation to returns etc).                                                      
 
-[16](#16).          Conduct by directors, servants and agents                                        11
+16           Conduct by directors, servants and agents                                        
 
 **Part 5—Miscellaneous**
 
-[17](#17).          Agreement for collecting levy and late-payment penalty                  14
+17           Agreement for collecting levy and late-payment penalty                 
 
-[18](#18).          Evidentiary certificates                                                                      14
+18           Evidentiary certificates                                                                      
 
-[19](#19).          Agreements etc  by Commonwealth authorities                                15
+[19           Agreements etc](#19           Agreements etc). by Commonwealth authorities                               
 
-[20](#20).          Annual report                                                                                    15
+20           Annual report                                                                                    
 
-[21](#21).          Regulations                                                                                        15
+21           Regulations                                                                                        
 
-**Notes** 
+#  
 
 ## An Act relating to levy imposed by the _Aircraft Noise Levy Act 1995_
 
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+
 ## Part 1—Preliminary
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -235,6 +241,8 @@ Prepared by the Office of Legislative Drafting,
 
 ## Part 2—Leviable airports
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="6"></a>6  Identification of qualifying airports
 
              (1)  If an airport is a qualifying airport at the commencement of this Act, the Minister must publish a notice in the _Gazette_ as soon as possible after the commencement, identifying the airport as a qualifying airport.
@@ -289,6 +297,8 @@ Prepared by the Office of Legislative Drafting,
 
 ## Part 3—Payment of levy and penalty for late payment of levy
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="8"></a>8  When levy becomes due for payment
 
                    Levy becomes due for payment in accordance with the regulations.
@@ -305,7 +315,7 @@ Prepared by the Office of Legislative Drafting,
 
              (5)  If the judgment debt bears interest, the penalty payable under subsection (1) is reduced by the following amount: 
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01791/Html/AiNoiseLC95_image002.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01789/Html/AirNoiseLevCol95_image002.gif)</sub>
 
 ##### <a id="10"></a>10  Remission of late-payment penalty
 
@@ -325,7 +335,7 @@ Prepared by the Office of Legislative Drafting,
 
              (3)  The Secretary may delegate his or her power under subsection (1) to:
 
-                     (a)  an SES employee, or acting SES employee, in the Department; or
+                     (a)  a Senior Executive Service officer in the Department; or
 
                      (b)  an officer, member or employee of a Commonwealth authority.
 
@@ -351,6 +361,8 @@ The delegation must be in writing.
 
 ## Part 4—Powers to gather information relevant to collecting levy
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="14"></a>14  Authorised officers’ powers to seek information
 
              (1)  An authorised officer may give a person a written notice requiring the person:
@@ -361,7 +373,7 @@ The delegation must be in writing.
 
              (2)  The Secretary may authorise an officer in writing for the purposes of this section.
 
-             (3)  The Secretary may delegate to an SES employee or acting SES employee in the Department the Secretary’s power under subsection (2). The delegation must be in writing.
+             (3)  The Secretary may delegate to the holder of a Senior Executive Service office in the Department the Secretary’s power under subsection (2). The delegation must be in writing.
 
              (4)  In exercising the delegated power, the delegate is subject to any directions given by the Secretary.
 
@@ -441,11 +453,13 @@ that relates to an offence against this Act.
 
 ## Part 5—Miscellaneous
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="17"></a>17  Agreement for collecting levy and late-payment penalty
 
              (1)  On behalf of the Commonwealth, the Minister for Finance may enter into an agreement with a Commonwealth authority for the receipt or custody of levy or late-payment penalty on behalf of the Commonwealth.
 
-             (2)  The Minister for Finance may delegate his or her power under subsection (1) to an SES employee or acting SES employee. The delegation must be in writing.
+             (2)  The Minister for Finance may delegate his or her power under subsection (1) to the holder of a Senior Executive Service office. The delegation must be in writing.
 
              (3)  In exercising the delegated power, the delegate is subject to any directions given by the Minister for Finance.
 
@@ -465,7 +479,7 @@ that relates to an offence against this Act.
 
              (3)  The Secretary may delegate his or her power under subsection (1) to:
 
-                     (a)  an SES employee, or acting SES employee, in the Department; or
+                     (a)  a Senior Executive Service officer in the Department; or
 
                      (b)  an officer, member or employee of a Commonwealth authority.
 
@@ -511,11 +525,9 @@ whether or not the authority’s powers and functions (apart from this section) 
 
  
 
-# Notes to the _Aircraft Noise Levy Collection Act 1995_
+# NOTE
 
-### Note 1
-
-The _Aircraft Noise Levy Collection Act 1995_ as shown in this consolidation comprises Act No. 98, 1995 amended as indicated in the Tables below.
+1**.**  The _Aircraft Noise Levy Collection Act 1995_ as shown in this reprint comprises Act No. 98, 1995 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -582,36 +594,13 @@ of Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-    </td>
-    <td>
-      <div>146, 1999</div>
-    </td>
-    <td>
-      <div>11 Nov 1999</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 63-66): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(b)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
 
  
 
 _(a)_     The _Aircraft Noise Levy Collection Act 1995_ was amended by Schedule 2 (item 152) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
-
-_(b)_    The _Aircraft Noise Levy Collection Act 1995_ was amended by Schedule 1 (items 63-66) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                  (2)   Subject to this section, this Act commences at the commencing time.
+                 “(2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.”.
 
  
 
@@ -639,34 +628,10 @@ _(b)_    The _Aircraft Noise Levy Collection Act 1995_ was amended by Sche
   </tr>
   <tr>
     <td>
-      <div>S. 10</div>
+      <div>S. 17 ........................................</div>
     </td>
     <td>
-      <div>am. No. 146, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14</div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 17</div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997; No. 146, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 18</div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999</div>
+      <div>am. No. 152, 1997</div>
     </td>
   </tr>
 </thead></table>
