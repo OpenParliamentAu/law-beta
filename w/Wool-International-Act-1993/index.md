@@ -1,10 +1,10 @@
 
 
 Wool International Act 1993
-Act No. 64 of 1993 as amended
-Consolidated as in force on 26 February 1999
-(includes amendments up to Act No. 124 of 1998)
-Prepared by the Office of Legislative Drafting Attorney-General’s Department, Canberra
+Act No. 64 of 1993 as amended 
+Consolidated as in force on 30 June 1997
+(includes amendments up to Act No. 152 of 1997)
+Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
 Part 1—Preliminary	
 1	Short title [see Note 1]	
@@ -30,7 +30,6 @@ Part 3—Corporate plans
 Part 4—Schedule of Disposal of Stockpile Wool	
 18	Definitions	
 20	Disposal schedule from 1 January 1997	
-20A	Restriction on disposal during excluded period	
 21	Wool purchases to meet disposal requirements	
 22	Publication of notices regarding progress of disposal of stockpile	
 Part 4A—Entitlement to share in money of Wool International	
@@ -70,16 +69,15 @@ Part 4E—Other functions of Wool International
 22ZD	Wool International to bear costs relating to establishment of unit trust etc.	
 22ZE	Limit on expenses etc. of Wool International	
 22ZF	Wool International to provide certain services	
-22ZG	Wool International to provide assistance in respect of its demutualisation	
 Part 5—Constitution and meetings of Wool International	
 Division 1—General	
-23	Membership	
+23	Membership [see Note 2]	
 24	Deputy of Chairperson	
-25	Situations that do not amount to interests requiring disclosure	
+25	Disclosure of interests	
 26	Leave of absence of appointed members	
 27	Resignation	
 28	Ending of appointments for misbehaviour etc.	
-29	Meetings	
+29	Meetings [see Note 2]	
 30	Conduct of meetings	
 Division 2—Nominations of persons for appointment to Wool International	
 31	Constitution of selection committee	
@@ -87,7 +85,7 @@ Division 2—Nominations of persons for appointment to Wool International
 33	Proceedings of the committee	
 34	Nominations by committee	
 35	Abolition of selection committee	
-Part 6—Staff	
+Part 6—Staff		
 Division 1—The Chief Executive	
 36	Appointment etc. of Chief Executive	
 37	Acting Chief Executive	
@@ -98,7 +96,7 @@ Division 3—Equal employment opportunity program
 40	Development of equal employment opportunity program	
 41	Implementation of program	
 42	Preservation of merit principle	
-Part 7—Finance	
+Part 7—Finance		
 43	Payments to Wool International	
 44	Payments representing pre-commencement tax	
 46	Appropriation	
@@ -110,6 +108,9 @@ Part 7—Finance
 53	Borrowing etc.	
 54	Hedging through currency contracts etc.	
 55	Bank accounts	
+56	Investment of Wool International money	
+Part 8—Audit		
+57	Audit	
 Part 9—Miscellaneous	
 58	Ministerial directions	
 59	Delegation	
@@ -121,11 +122,10 @@ Part 9—Miscellaneous
 65	Meetings of wool-tax payers	
 66	Register of wool-tax payers	
 66A	Carpet wool-tax payers	
-67	Extra matters to be included in annual report	
+67	Annual report	
 72	Regulations	
 73	Final acts of Wool International	
 74	Repeal of Act	
-4	Some amendments in Schedule 2 may not take effect or may take effect in a modified way	
 
 An Act to make provision for continuing the existence of the Australian Wool Realisation Commission under a new name and with new functions relating to the disposal of the wool stockpile, and for related purposes 
 Do not delete : Chapter placeholder
@@ -147,10 +147,9 @@ This Act may be cited as the Wool International Act 1993.
 	(b)	to make it easier for wool‑tax payers to obtain loans on the security of that right;
 	(c)	to encourage investment by wool‑tax payers in an enterprise whose objects include the carrying on of activities relating to trading in wool by:
 	(i)	conducting a feasibility study of such an enterprise; and
-	(ii)	facilitating the establishment of an appropriate investment vehicle;
-	(d)	to enable Wool International, as required by the Minister, to assist in the planning and implementation of measures directed at the registration of a company under the Corporations Law to take over its assets and liabilities.
+	(ii)	facilitating the establishment of an appropriate investment vehicle.
 4  Definitions
-		In this Act, unless the contrary intention appears:
+In this Act, unless the contrary intention appears:
 Administration Act means the Wool Tax (Administration) Act 1964.
 appointed member means the Chairperson or a member referred to in paragraph 23(1)(d).
 articles means articles of association.
@@ -270,7 +269,6 @@ Do not delete : Division placeholder
 	(b)	has a common seal; and
 	(c)	may acquire, hold and dispose of real and personal property; and
 	(d)	may sue and be sued in its corporate name.
-Note:	The Commonwealth Authorities and Companies Act 1997 applies to Wool International. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
 	(3)	All courts, judges and persons acting judicially must take judicial notice of the imprint of the seal of Wool International appearing on a document and must presume that the document was duly sealed.
 8  Functions
 	(1)	Wool International has the following functions:
@@ -298,7 +296,7 @@ Note:	The Commonwealth Authorities and Companies Act 1997 applies to Wool Intern
 	(a)	form, or participate with other persons in the formation of, a company; or
 	(b)	acquire, hold or dispose of shares or stock in the capital of, or debentures or other securities of, a company; or
 	(c)	enter into a partnership, or arrange for the sharing of profits, with a company.
-	(7)	The Minister’s approval mentioned in subsection (2) may be subject to any condition that the Minister thinks appropriate.
+		(7)	The Minister’s approval mentioned in subsection (2) may be subject to any condition that the Minister thinks appropriate.
 10  Commercial obligation
 	(1)	Wool International is to perform its functions, and exercise its powers, in the manner most likely to further the object of this Act.
 	(2)	Subject to subsection (1) and to the requirements of the disposal schedule, Wool International must, as far as possible, perform its functions, and exercise its powers, in such a way as would, if the performance of those functions constituted a business conducted by Wool International, best advance that business, having regard to the requirements of sound commercial practice.
@@ -319,7 +317,7 @@ Do not delete : Division placeholder
 	(1)	Wool International may review and revise a corporate plan at any time.
 	(2)	If a corporate plan is revised, Wool International must give a copy of the revised plan to the Minister as soon as practicable.
 15  Content of plans
-		Each corporate plan must:
+Each corporate plan must:
 	(a)	define Wool International’s principal objectives during the plan period; and
 	(b)	outline the strategies Wool International will pursue to achieve those objectives; and
 	(c)	specify performance indicators by reference to which an assessment may be made of the extent to which Wool International is achieving its objectives; and
@@ -334,7 +332,7 @@ Do not delete : Division placeholder
 	(b)	must be made within 60 days after the Minister receives a copy of the plan; and
 	(c)	may only be made if the Minister has consulted Wool International in relation to the proposed variation.
 17  Notification of significant events etc.
-		If Wool International forms the opinion that matters have arisen that may:
+If Wool International forms the opinion that matters have arisen that may:
 	(a)	prevent, or significantly affect, the achievement of the objectives defined in the current corporate plan; or
 	(b)	significantly affect the strategies outlined in the plan; or
 	(c)	prevent, or significantly affect, the achievement of a financial target under the plan;
@@ -343,13 +341,11 @@ Part 4—Schedule of Disposal of Stockpile Wool
 Do not delete : Division placeholder
 18  Definitions
 In this Part:
-excluded period means the period beginning on 1 October 1998 and ending on 30 June 1999.
-freeze commencement day means the date of commencement of the Wool International Amendment Act 1998.
 month means one of the 12 months of the year.
 quarter means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October.
 20  Disposal schedule from 1 January 1997
 	(1)	Wool International must dispose of all stockpile wool, in accordance with this section, by 31 December 2000.
-	(2)	Subject to subsection (4), Wool International's power to dispose of stockpile wool is to be exercised so that in each quarter, other than a quarter falling within the excluded period, the wool stockpile must be reduced by not less than the minimum quantity for the quarter but not more than 350,000 bales.
+	(2)	Subject to subsection (4), Wool International's power to dispose of stockpile wool is to be exercised so that in each quarter the wool stockpile must be reduced by not less than the minimum quantity for the quarter but not more than 350,000 bales.
 	(3)	For the purposes of subsection (2), the minimum quantity is:
 	(a)	for the quarters beginning on 1 January and 1 April 1997—135,000 bales; and
 	(b)	for a quarter beginning on or after 1 July 1997—90,000 bales.
@@ -358,14 +354,11 @@ quarter means a period of 3 months beginning on 1 January, 1 April, 1 July or 1
 	(a)	sales made during the quarter under contracts requiring immediate delivery;
 	(b)	sales made under forward contracts requiring delivery to be made during the quarter;
 	(c)	transactions of a kind prescribed by the regulations for the purposes of this subsection.
-20A  Restriction on disposal during excluded period
-	(1)	Wool International’s power to enter into a contract, on or after the freeze commencement day but before the end of the excluded period, for the sale of stockpile wool, is prohibited.
-	(2)	Nothing in subsection (1) affects a contract entered into by Wool International before the freeze commencement day that requires delivery of stockpile wool on or after that day and during the excluded period.
 21  Wool purchases to meet disposal requirements
 	(3)	If, during a quarter, it becomes apparent that the wool stockpile will be reduced, during the quarter, by a quantity that exceeds the maximum quantity for the quarter, Wool International must buy a quantity of wool equal to the excess before the end of the quarter.
 	(4)	Wool bought under this section becomes part of the wool stockpile.
 22  Publication of notices regarding progress of disposal of stockpile
-	(2)	In each quarter beginning on or after 1 April 1995 (including a quarter falling within the excluded period), Wool International must cause to be published a notice reporting on Wool International’s compliance, at the end of the preceding quarter, with the disposal schedule.
+	(2)	In each quarter beginning on or after 1 April 1995, Wool International must cause to be published a notice reporting on Wool International’s compliance, at the end of the preceding quarter, with the disposal schedule.
 	(3)	Wool International may include in a notice under this section any additional information it thinks appropriate.
 Part 4A—Entitlement to share in money of Wool International
 Do not delete : Division placeholder
@@ -538,13 +531,11 @@ Do not delete : Division placeholder
 22X  Money to be held on trust
 		The Chief Executive holds any money (trust money) paid to him or her under Part 4B on trust in accordance with, and for the purposes of, this Part.
 22Y  Money to be invested
-	(1)	The Chief Executive may invest any trust money not immediately required for the purposes of this section:
+		The Chief Executive may invest any trust money not immediately required for the purposes of this section:
 	(a)	in securities of, or guaranteed by, the Commonwealth or a State; or
 	(b)	on deposit with a bank; or
 	(c)	in any other way that is consistent with sound commercial practice.
 Any income derived from the investments is to be paid to Wool International.
-	(2)	In this section:
-bank includes, but is not limited to, a body corporate that is an ADI (authorised deposit‑taking institution) within the meaning of the Banking Act 1959.
 22Z  To whom money may be paid
 		If:
 	(a)	money has been paid to the Chief Executive under Part 4B in respect of the units of equity in Wool International allocated to him or her in respect of a putative equity holder; and
@@ -586,34 +577,23 @@ Do not delete : Division placeholder
 	(a)	a market reporting service;
 	(b)	an education program in forward marketing.
 	(2)	This section ceases to have effect at the end of 30 June 1998.
-22ZG  Wool International to provide assistance in respect of its demutualisation
-	(1)	Despite any other provisions of this Act, Wool International must, after the commencement of this section:
-	(a)	at the written direction of a relevant Minister—assist:
-	(i)	the Commonwealth; and
-	(ii)	any officer or agent of, or consultant engaged by, the Commonwealth, who is specified by the relevant Minister;
-		in connection with activities related to planning for, and effecting, the registration of a company under the Corporations Law to take over the assets and liabilities of Wool International and with the subsequent transfer of those assets and liabilities to such a company; and
-	(b)	to the extent that the Commonwealth incurs expense in connection with the activities referred to in paragraph (a)—apply the money of Wool International to reimburse the Commonwealth; and
-	(c)	to the extent that Wool International incurs expense in providing the assistance referred to in paragraph (a)—apply the money of Wool International in meeting that expense.
-	(2)	Without limiting the generality of paragraph (1)(a)—a direction given by a relevant Minister under that paragraph may require that Wool International provide:
-	(a)	to the relevant Minister; or
-	(b)	to any officer or agent of, or consultant engaged by, the Commonwealth, who is specified by the relevant Minister;
-for purposes related to the activities specified in paragraph (1)(a), such information concerning the affairs of Wool International and of its assets and liabilities as the relevant Minister, or that officer, agent or consultant, directs; and
-	(3)	For the avoidance of doubt, a direction given by the Minister administering this Act to Wool International for the purposes of subsection (1) is not a direction to which section 58 applies.
-	(4)	Nothing in subsection (1) is to be taken to permit the Minister or any other person or body to require Wool International to disclose any information relating to the personal affairs of an individual other than information relating to the number of units of equity in Wool International held by that individual.
-	(5)	In this section:
-relevant Minister means the Minister responsible for the administration of this Act or the Minister responsible for the administration of the Financial Management and Accountability Act 1997.
 Part 5—Constitution and meetings of Wool International
 Division 1—General
-23  Membership 
+23  Membership [see Note 2]
 	(1)	Wool International consists of the following members:
 	(a)	the Chairperson of Wool International;
 	(b)	the Chief Executive;
 	(c)	a member to represent the Commonwealth;
-	(d)	2 other members.
-	(2)	The members referred to in paragraph (1)(d) must be persons who have qualifications relevant to, or experience in, at least one of the following fields:
+	(d)	8 other members.
+	(2)	The members referred to in paragraph (1)(d) must be persons who have qualifications relevant to, or experience in, one or more of the following fields:
 	(a)	wool production;
-	(b)	administration and disposal of assets;
-	(c)	business management.
+	(b)	wool processing, including the manufacture of wool products;
+	(c)	business management;
+	(d)	financial services;
+	(e)	marketing;
+	(f)	international commodity trading;
+	(g)	wool testing and specification;
+	(h)	law and industrial relations.
 	(3)	The members of Wool International, except the Chief Executive, are to be appointed by the Minister in writing.
 	(4)	Before making an appointment of a member referred to in paragraph (1) (d), the Minister must take into consideration a nomination made by a selection committee constituted under this Act.
 	(5)	In making appointments, the Minister must ensure that the members collectively possess qualifications and experience in all the fields referred to in subsection (2).
@@ -637,24 +617,26 @@ Division 1—General
 	(b)	there is a defect or irregularity in connection with the person’s appointment; or
 	(c)	the person’s appointment had ceased to have effect; or
 	(d)	the occasion for the person to act had not arisen or had ceased.
-25  Situations that do not amount to interests requiring disclosure
-		For the purposes of section 21 of the Commonwealth Authorities and Companies Act 1997, a member is not taken to have a material personal interest in a matter being considered or about to be considered by Wool International merely because the member is a wool producer, a wool processor or a manufacturer of wool products.
+25  Disclosure of interests
+	(1)	A member who has a direct or indirect pecuniary interest in a matter being considered or about to be considered at a meeting of Wool International must, as soon as possible after the relevant facts have come to his or her knowledge, disclose the nature of the interest at a meeting of Wool International.
+	(2)	The disclosure must be recorded in the minutes of the meeting.
+	(3)	A member who is a wool producer, a wool processor or a manufacturer of wool products is not taken to have a pecuniary interest in a matter being considered or about to be considered by Wool International merely because the person is a wool producer, a wool processor or a manufacturer of wool products, as the case may be.
 26  Leave of absence of appointed members
 	(1)	The Minister may grant leave of absence to the Chairperson on such terms and conditions as the Minister determines.
 	(2)	The Chairperson may grant leave of absence to any other appointed member on such terms and conditions as the Chairperson determines.
 27  Resignation
-		An appointed member may resign his or her appointment by giving the Minister a signed notice of resignation, but the resignation is not effective until it is accepted by the Minister.
+An appointed member may resign his or her appointment by giving the Minister a signed notice of resignation, but the resignation is not effective until it is accepted by the Minister.
 28  Ending of appointments for misbehaviour etc.
 	(1)	The Minister may end the appointment of an appointed member for misbehaviour or for physical or mental incapacity.
 	(2)	If an appointed member:
 	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 	(b)	is absent, except on leave of absence granted under section 26, from 3 consecutive meetings of Wool International; or
-	(c)	fails, without reasonable excuse, to comply with an obligation imposed on him or her by section 21 of the Commonwealth Authorities and Companies Act 1997;
+	(c)	fails, without reasonable excuse, to comply with an obligation imposed on him or her by section 25;
 the Minister must end the member’s appointment.
-29  Meetings 
+29  Meetings [see Note 2]
 	(1)	Subject to this section, meetings of Wool International are to be held at such times and at such places within Australia as Wool International determines.
-	(2)	The Chairperson may, and at the request of 2 or more members must, convene a meeting of Wool International.
-	(3)	At a meeting of Wool International 3 members constitute a quorum.
+	(2)	The Chairperson may, and at the request of 3 or more members must, convene a meeting of Wool International.
+	(3)	At a meeting of Wool International 6 members constitute a quorum.
 	(4)	The Chairperson is to preside at all meetings of Wool International at which he or she is present.
 	(5)	If the Chairperson is absent from a meeting of Wool International, the deputy of the Chairperson, if present, is to preside at the meeting.
 	(6)	If neither the Chairperson nor the deputy of the Chairperson is present at a meeting, the members present must appoint one of their number to preside at the meeting.
@@ -677,7 +659,7 @@ Division 2—Nominations of persons for appointment to Wool International
 appointed by the Minister in writing.
 	(3)	The members of a selection committee are to hold their appointments on such terms and conditions as the Minister determines.
 32  Request for nominations
-		When the Minister constitutes a selection committee, the Minister must give the presiding member a written notice:
+When the Minister constitutes a selection committee, the Minister must give the presiding member a written notice:
 	(a)	specifying the number of appointments that are to be made; and
 	(b)	requesting the committee to give the Minister, within the period specified in the notice, the name of a person, or the names of persons, the committee considers suitable for appointment.
 33  Proceedings of the committee
@@ -703,7 +685,7 @@ appointed by the Minister in writing.
 	(5)	If the Minister is not satisfied as to the suitability of a person nominated for appointment, the Minister may, by written notice given to the selection committee, reject the nomination and may, in the notice, request the committee to make a further nomination within the period specified in the notice.
 	(6)	Where a selection committee receives a request under subsection (5), subsections (1) to (3) again apply but, in their application because of this subsection, have effect as if the reference in subsection (1) to the notice under section 32 were a reference to the notice under subsection (5) of this section.
 35  Abolition of selection committee
-		When:
+When:
 	(a)	a selection committee has made a nomination or nominations in accordance with a notice under section 32; and
 	(b)	either:
 	(i)	there are no outstanding matters in a notice given by the Minister under subsection 34(4) or (5) still to be dealt with by the committee; or
@@ -719,7 +701,7 @@ Division 1—The Chief Executive
 	(3)	If the Chief Executive:
 	(a)	engages in paid employment outside the duties of his or her office without the approval of Wool International; or
 	(b)	is absent from duty, except on leave of absence granted by Wool International, for 14 consecutive days, or for 28 days in any period of 12 months or is absent from 3 consecutive meetings of Wool International; or
-	(c)	fails, without reasonable excuse, to comply with his or her obligations under section 21 of the Commonwealth Authorities and Companies Act 1997; or
+	(c)	fails, without reasonable excuse, to comply with his or her obligations under section 25; or
 	(d)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 Wool International must terminate his or her appointment.
 	(4)	The office of Chief Executive is not a public office for the purposes of the Remuneration Tribunal Act 1973.
@@ -742,11 +724,11 @@ Division 2—Other staff of Wool International
 	(3)	In exercising its power to employ persons, Wool International must comply with any applicable guidelines determined in writing by the Minister for Industrial Relations.
 Division 3—Equal employment opportunity program
 40  Development of equal employment opportunity program
-		Wool International must develop an equal employment opportunity program for Wool International.
+Wool International must develop an equal employment opportunity program for Wool International.
 41  Implementation of program
-		Wool International must take whatever action is necessary to give effect to its equal employment opportunity program, and any person who exercises powers in relation to employment matters in Wool International must have regard to the program in exercising those powers.
+Wool International must take whatever action is necessary to give effect to its equal employment opportunity program, and any person who exercises powers in relation to employment matters in Wool International must have regard to the program in exercising those powers.
 42  Preservation of merit principle
-		Nothing in this Act is to be taken to require action that is incompatible with the principle that employment matters should be dealt with on the basis of merit.
+Nothing in this Act is to be taken to require action that is incompatible with the principle that employment matters should be dealt with on the basis of merit.
 Part 7—Finance
 Do not delete : Division placeholder
 43  Payments to Wool International
@@ -764,17 +746,17 @@ prescribed percentage, in relation to an amount of wool tax, means:
 there is payable to Wool International the amount that would have been payable to the former Commission in relation to the wool if the repealed Act had not been repealed.
 	(2)	If, after the commencement of this Part, an amount is received by the Commonwealth in respect of wool tax imposed by the Wool Tax Acts in a financial year that commenced before 1 July 1993 on particular shorn wool (other than carpet wool), there is payable to Wool International, out of the amount received, the amount that would have been payable to the former Commission if the repealed Act had not been repealed.
 46  Appropriation
-		Money payable to Wool International under section 43 or 44 is payable out of the Consolidated Revenue Fund which is appropriated accordingly.
+Money payable to Wool International under section 43 or 44 is payable out of the Consolidated Revenue Fund which is appropriated accordingly.
 47  Money of Wool International
-		The money of Wool International consists of:
+The money of Wool International consists of:
 	(a)	money held by the Australian Wool Realisation Commission immediately before the commencement of this Part; and
 	(b)	money paid to Wool International by the Commonwealth under this Act; and
 	(c)	money received by Wool International from the sale of wool or other assets of Wool International or from the provision of services; and
 	(d)	any other amounts received by Wool International.
 48  Charges for services
-		Wool International may charge fair and proper fees for services provided by it.
+Wool International may charge fair and proper fees for services provided by it.
 49  Expenditure of Wool International money
-	(1)	Money of Wool International may only be expended:
+Money of Wool International may only be expended:
 	(a)	in payment or discharge of expenses and liabilities incurred by Wool International in the performance of its functions or the exercise of its powers; and
 	(b)	in payments relating to the accumulated debt; and
 	(ba)	in making payments under Part 4B; and
@@ -783,11 +765,15 @@ there is payable to Wool International the amount that would have been payable t
 	(d)	in payment to the Commonwealth of amounts equal to expenses incurred by the Commonwealth in relation to appointments of members referred to in paragraphs 23(1)(a) and (d) including expenses incurred in connection with the appointment and operations of selection committees under Division 2 of Part 5; and
 	(e)	in making payments under section 52; and
 	(f)	in making any other payments that Wool International is authorised or required to make under this or any other Act.
-	(2)	Subsection (1) does not prevent investment of surplus money of Wool International under section 19 of the Commonwealth Authorities and Companies Act 1997.
 50  Accounts and records
+	(1)	Wool International must:
+	(a)	keep proper accounts and records of the transactions and affairs of Wool International in accordance with the accounting principles generally applied in commercial practice; and
+	(b)	do all things necessary to ensure that:
+	(i)	all payments by Wool International are correctly made and properly authorised; and
+	(ii)	adequate control is maintained over the assets of, or in the custody of, Wool International and over the incurring of liabilities by Wool International.
 	(2)	The accounts and records kept by the former Commission immediately before the commencement of this Part continue as accounts and records of the body corporate continued in existence by this Act.
 52  Payment of expenses of collection etc. of amounts paid under sections 43 and 44
-		Wool International is required to pay to the Commonwealth, in respect of each financial year, an amount equal to the amount determined by the Minister to be the expenses incurred by the Commonwealth in connection with the collection and recovery of amounts paid to Wool International under sections 43 and 44.
+Wool International is required to pay to the Commonwealth, in respect of each financial year, an amount equal to the amount determined by the Minister to be the expenses incurred by the Commonwealth in connection with the collection and recovery of amounts paid to Wool International under sections 43 and 44.
 53  Borrowing etc.
 	(1)	Wool International may, with the written approval of the Minister, borrow money.
 	(2)	An approval may be given in relation to a particular transaction or a class of transactions.
@@ -843,7 +829,27 @@ futures contract means:
 	(v)	a payment to or by Wool International in relation to a transaction in foreign currency; or
 	(b)	maintaining the value of investments made by Wool International.
 55  Bank accounts
-	(1)	Wool International must always have at least 2 accounts maintained under subsection 19(2) of the Commonwealth Authorities and Companies Act 1997.
+	(1)	Wool International must always have at least 2 accounts with a bank or banks.
+	(2)	Wool International must pay all money received by it into an account maintained under subsection (1).
+56  Investment of Wool International money
+Money of Wool International not immediately required for the purposes of Wool International must be invested:
+	(a)	in securities of, or guaranteed by, the Commonwealth or a State; or
+	(b)	on deposit with a bank; or
+	(c)	in any other way that is consistent with sound commercial practice.
+Part 8—Audit
+Do not delete : Division placeholder
+57  Audit
+	(1)	The Auditor-General must inspect and audit:
+	(a)	the accounts and records of financial transactions of Wool International; and
+	(b)	the records relating to assets of, or in the custody of, Wool International;
+and must immediately draw the attention of the Minister to any irregularity disclosed by the inspection and audit that, in the opinion of the Auditor-General, is of sufficient importance to justify such action.
+	(2)	The Auditor-General may dispense with all or a part of the detailed inspection and audit of any accounts or records referred to in subsection (1).
+	(3)	The Auditor-General must, at least once in each financial year, report to the Minister the results of the inspection and audit carried out under subsection (1).
+	(4)	The Auditor-General or a person authorised by the Auditor-General is entitled, at all reasonable times, to full and free access to all accounts, records and other documents of Wool International relating directly or indirectly to the receipt or payment of money, or to the acquisition, receipt, custody or disposal of assets, by Wool International.
+	(5)	The Auditor-General or a person authorised by the Auditor-General may make copies of, or take extracts from, such accounts, records or other documents.
+	(6)	The Auditor-General or a person authorised by the Auditor-General may require another person to furnish such information in the possession of the other person, or to which the other person has access, as the Auditor-General or authorised person considers necessary for the performance of the functions of the Auditor-General under this Act.
+	(7)	A person must comply with a requirement under subsection (6).
+Penalty: 10 penalty units.
 Part 9—Miscellaneous
 Do not delete : Division placeholder
 58  Ministerial directions
@@ -871,7 +877,7 @@ Do not delete : Division placeholder
 	(2)	An appointed member is to be paid such allowances as are prescribed.
 	(3)	This section has effect subject to the Remuneration Tribunal Act 1973.
 63  Provision to Wool International of information given to Commissioner of Taxation
-		The Commissioner of Taxation is required, as soon as practicable, to transmit to Wool International information given to the Commissioner under subsection 28(2), 29(2), 30(2), 31(2) or 32(2) of the Administration Act.
+The Commissioner of Taxation is required, as soon as practicable, to transmit to Wool International information given to the Commissioner under subsection 28(2), 29(2), 30(2), 31(2) or 32(2) of the Administration Act.
 64  Provision of wool tax records to wool-tax payers
 	(1)	Wool International must, at such times, or as often, as the regulations require, send a wool tax record to each person whose name is in the section 66 register at the time when the regulations require the record to be sent.
 	(2)	The purpose of a wool tax record is to inform the recipient of the amounts paid to the Australian Wool Realisation Commission or Wool International that represent wool tax referred to in subsection (1) and paid by the person.
@@ -910,8 +916,15 @@ the payment is to be ignored. However, this rule does not apply if the person gi
 	(a)	allow the Organisation access to that information; or
 	(b)	provide the Organisation with a copy of, or an extract from, that information.
 	(3)	Wool International must comply with the request.
-67  Extra matters to be included in annual report
-		The annual report on Wool International under section 9 of the Commonwealth Authorities and Companies Act 1997 must also include such particulars (if any) as are prescribed.
+67  Annual report
+	(1)	Wool International must, as soon as practicable after the end of each financial year, give the Minister a written report of the operations of Wool International during that financial year, together with financial statements for that year in a form approved by the Minister for Finance.
+	(2)	Without limiting the matters to be included in an annual report in respect of a financial year, an annual report must include such particulars (if any) as are prescribed.
+	(3)	Before submitting financial statements to the Minister under subsection (1), Wool International must submit them to the Auditor-General, who must report to the Minister:
+	(a)	whether, in the Auditor-General’s opinion, the statements are based on proper accounts and records; and
+	(b)	whether the statements are in agreement with the accounts and records and, in the Auditor-General’s opinion, show fairly the financial transactions and state of affairs of Wool International; and
+	(c)	whether, in the Auditor-General’s opinion, the receipt, expenditure and investment of money, and the acquisition and disposal of assets, by Wool International during the year have been in accordance with this Act; and
+	(d)	as to such other matters arising out of the statements as the Auditor-General considers should be reported to the Minister.
+	(4)	The Minister must cause the annual report and financial statements, together with the report of the Auditor-General, to be laid before each House of the Parliament within 15 sitting days of that House after their receipt by the Minister.
 72  Regulations
 	(1)	The Governor-General may make regulations prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
 	(2)	Without limiting subsection (1), the provisions that may be made by the regulations include provisions imposing penalties not exceeding 20 penalty units for offences against the regulations.
@@ -935,7 +948,8 @@ Wool International is satisfied that all its obligations and liabilities have be
 	(ii)	that any money standing to its credit after all its obligations and liabilities had been discharged has been distributed in the manner approved by the Minister;
 the Minister must, by notice published in the Gazette, give a certificate to that effect.
 	(2)	This Act is repealed on the day on which the notice is published in the Gazette.
-Notes
+
+NOTES
 1. 	The Wool International Act 1993 as shown in this reprint comprises Act No. 64, 1993 amended as indicated in the Tables below. 
 	All relevant information pertaining to application, saving or transitional provisions prior to 30 June 1997 is not included in this reprint. For subsequent information see Table A.
 Table of Acts
@@ -949,18 +963,18 @@ Application, saving or transitional provisions
 Wool International Act 1993 
 64, 1993 
 12 Nov 1993 
-Ss. 1 and 2: Royal Assent  Ss. 3-6 and Parts 2–9 (ss. 7–72): 1 Dec 1993 (see  Gazette 1993,  No. GN46)  Remainder: (a)
+Ss. 1 and 2: Royal Assent  Ss. 3-6 and Parts 2-9 (ss. 7-72): 1 Dec 1993 (see  Gazette 1993, No. GN46)  Remainder: (a)
 
 Primary Industries and Energy Legislation Amendment Act (No. 2) 1995 
 133, 1995 
 14 Nov 1995 
 Schedule 2: Royal Assent (b) 
-—
+— 
 Primary Industries and Energy Legislation Amendment Act (No. 1) 1996 
 18, 1996 
 28 June 1996 
 Schedule 6: Royal Assent (c) 
-Sch. 6 (items 10–14)  
+Sch. 6 (items 10-14)  
 Wool International Amendment Act 1996
 62, 1996
 27 Nov 1996
@@ -974,32 +988,16 @@ Income Tax (Consequential Amendments) Act 1997
 Wool International Amendment Act 1997
 108, 1997
 30 June 1997
-Schedule 1 (Part 2): 1 Jan 1998 Remainder: 1 July 1997
+Schedule 1 (Part 2): [see (d), Note 2 and Table A] Remainder: 1 July 1997
 Sch. 1 (item 19) [see Table A]
-Audit (Transitional and Miscellaneous) Amendment Act 1997
-152, 1997
-24 Oct 1997
-Schedule 2 (items 1295–1306): 1 Jan 1998 (see Gazette 1997, No. GN49) (d) Schedule 2 (items 1307–1310): [see Table A]
-S.4 (2) [see Table A]
-Financial Sector Reform (Consequential Amendments) Act 1998
-48, 1998
-29 June 1998
-Schedule 1 (item 197): 1 July 1998 (see Gazette 1998, No. S316) (e)
-—
-Wool International Amendment Act 1998
-124, 1998
-21 Dec 1998
-21 Dec 1998
-—
+
 (a)	Parts 10-12 (ss. 73-87) of the Wool International Act 1993 were repealed by Schedule 1 (item 26) of the Wool International Amendment Act 1997 before a date was fixed for the commencement.
-(b)	The Wool International Act 1993 was amended by Schedule 2 only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1995, subsection 2(1) of which provides as follows: 
-	“(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.”. 
-(c)	The Wool International Act 1993 was amended by Schedule 6 only of the Primary Industries and Energy Legislation Amendment Act (No. 1) 1996, subsection 2(1) of which provides as follows: 
-	“(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.”. 
-(d)	The Wool International Act 1993 was amended by Schedule 2 (items 1295-1310) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
-	“(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.”.
-(e)	The Wool International Act 1993 was amended by Schedule 1 (item 197) only of the Financial Sector Reform (Consequential Amendments) Act 1998, subsection 2(2) of which provides as follows:
-	“(2)	Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the Australian Prudential Regulation Authority Act 1998.”.
+(b)	The Wool International Act 1993 was amended by the Primary Industries and Energy Legislation Amendment Act (No. 2) 1995, subsection 2(1) of which provides as follows: 
+	“(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.” 
+(c)	The Wool International Act 1993 was amended by the Primary Industries and Energy Legislation Amendment Act (No. 1) 1996, subsection 2(1) of which provides as follows: 
+	“(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.” 
+(d)	The Wool International Act 1993 was amended by Schedule 1 (Part 2) of the Wool International Amendment Act 1997, subsection 2(2) of which provides as follows:
+	“(2)	Part 2 of Schedule 1 commences on 1 January 1998.” [see Note 2 and Table A]
 Table of Amendments
 
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -1011,67 +1009,45 @@ am. No. 108, 1997
 Heading to s. 3	
 am. No. 108, 1997
 S. 3	
-am. No. 62, 1996; No. 108, 1997; No. 124, 1998
+am. No. 62, 1996; No. 108, 1997
 S. 4	
 am. No. 108, 1997
 S. 5A	
 ad. No. 108, 1997
-Note to s. 7(2)	
-ad. No. 152, 1997
 S. 8	
 am. No. 62, 1996; No. 108, 1997
 S. 9	
 am. No. 18, 1996; No. 108, 1997 
 S. 18	
-am. No. 62, 1996; No. 124, 1998
+am. No. 62, 1996
 S. 19	
 rep. No. 62, 1996
 S. 20	
 rs. No. 62, 1996
-
-am. No. 124, 1998
-S. 20A
-ad. No. 124, 1998
-S. 21	
+Ss. 21, 22	
 am. No. 62, 1996
-S. 22	
-am. No. 62, 1996; No. 124, 1998
-Part 4A (ss. 22A–22M)	
+Part 4A (ss. 22A-22M)	
 ad. No. 108, 1997
-Ss. 22A–22M	
+Ss. 22A-22M	
 ad. No. 108, 1997
-Part 4B (ss. 22N–22S)	
+Part 4B (ss. 22N-22S)	
 ad. No. 108, 1997
-Ss. 22N–22S	
+Ss. 22N-22S	
 ad. No. 108, 1997
-Part 4C (ss. 22T–22V)	
+Part 4C (ss. 22T-22V)	
 ad. No. 108, 1997
-Ss. 22T–22V	
+Ss. 22T-22V	
 ad. No. 108, 1997
-Part 4D (ss. 22W–22Z, 22ZA)	
+Part 4D (ss. 22W-22Z, 22ZA)	
 ad. No. 108, 1997
-Ss. 22W, 22X	
+Ss. 22W-22Z	
 ad. No. 108, 1997
-S. 22Y	
+S. 22ZA	
 ad. No. 108, 1997
-Ss. 22Z, 22ZA	
+Part 4E (ss. 22ZB-22ZF)	
 ad. No. 108, 1997
-Part 4E (ss. 22ZB–22ZF)	
+Ss. 22ZB-22ZF	
 ad. No. 108, 1997
-Ss. 22ZB–22ZF	
-ad. No. 108, 1997
-S. 22ZG
-ad. No. 124, 1998
-S. 23	
-am. No. 108, 1997
-S. 25	
-rs. No. 152, 1997
-S. 28	
-am. No. 152, 1997
-S. 29	
-am. No. 108, 1997
-S. 36	
-am. No. 152, 1997
 S. 43	
 am. No. 18, 1996 
 S. 45	
@@ -1079,68 +1055,70 @@ rep. No. 18, 1996
 S. 46	
 am. No. 18, 1996 
 S. 49	
-am. No. 18, 1996; Nos. 108 and 152, 1997
+am. No. 18, 1996; No. 108, 1997 
 S. 49A	
 ad. No. 18, 1996
-
 rep. No. 108, 1997 
-S. 50	
-am. No. 152, 1997
 S. 51	
 rep. No. 108, 1997
 Heading to s. 52 	
 am. No. 18, 1996 
 S. 52	
 am. No. 18, 1996 
-S. 55	
-am. No. 152, 1997
-S. 56	
-rep. No. 152, 1997
-Part 8 (s. 57)	
-rep. No. 152, 1997
-S. 57	
-rep. No. 152, 1997
 S. 64	
 am. No. 133, 1995; No. 18, 1996 
 S. 66	
 am. No. 133, 1995 
 S. 66A	
 ad. No. 133, 1995 
-S. 67	
-rs. No. 152, 1997
 S. 68	
 rep. No. 108, 1997
 S. 69	
 am. No. 18, 1996
-
 rep. No. 108, 1997 
 Ss. 70, 71	
 rep. No. 108, 1997
 Ss. 73, 74	
 ad. No. 108, 1997
-Part 10 (ss. 73–76)	
+Part 10 (ss. 73-76)	
 rep. No. 108, 1997
-Ss. 73–76	
+Ss. 73-76	
 rep. No. 108, 1997
 Part 11 (ss. 77, 78)	
 rep. No.108, 1997
 Ss. 77, 78	
 rep. No. 108, 1997
-Part 12 (ss. 79–87)	
+Part 12 (ss. 79-87)	
 rep. No. 108, 1997
-Ss. 79–87)	
+Ss. 79-87)	
 rep. No. 108, 1997
-Table A
-Application, saving or transitional provisions
+
+2.	The Wool International Act 1993 was amended by Schedule 1 (Part 2) of the Wool International Amendment Act 1997. The applicable provisions provide as follows:
+Schedule 1
+Part 2—Amendments relating to the members of Wool International
+15  Paragraph 23(1)(d)
+Omit “8”, substitute “2”.
+16  Subsection 23(2)
+Repeal the subsection, substitute:
+	(2)	The members referred to in paragraph (1)(d) must be persons who have qualifications relevant to, or experience in, at least one of the following fields:
+	(a)	wool production;
+	(b)	administration and disposal of assets;
+	(c)	business management.
+17  Subsection 29(2)
+Omit “3”, substitute “2”.
+18  Subsection 29(3)
+Omit “6”, substitute “3”.
+	Subsection 2(2) of the Wool International Amendment Act 1997 provides as follows:
+	“(2)	Part 2 of Schedule 1 commences on 1 January 1998.”
+	As at 28 October 1997 the amendments are not incorporated in this reprint.
+
+TABLE A
+Application, Saving or Transitional Provisions
 Wool International Amendment Act 1997 (No. 108, 1997)
 Schedule 1
 19  Transitional
-(1)	A person who, immediately before the commencement of this Part, was a member of Wool International referred to in paragraph 23(1)(d) of the Wool International Act 1993 as then in force:
+	(1)	A person who, immediately before the commencement of this Part, was a member of Wool International referred to in paragraph 23(1)(d) of the Wool International Act 1993 as then in force:
 	(a)	ceases, on the commencement of this Part, to be a member of Wool International; but
 	(b)	is eligible for re-appointment.
-(2)	Despite subsection 23(4) of the Wool International Act 1993, the 2 members referred to in paragraph 23(1)(d) of that Act who are first appointed after the commencement of this Part are not to be persons nominated by a selection committee constituted under that Act. In appointing them, the Minister must, however, consult with the members of Wool International referred to in paragraphs 23(1)(a), (b) and (c) of that Act.
-
-Audit (Transitional and Miscellaneous) Amendment Act 1997 (No. 152, 1997)
-4  Some amendments in Schedule 2 may not take effect or may take effect in a modified way
-(2)	If, on or before the commencement of Schedule 2, Part 12 of the Wool International Act 1993 commences or has commenced, the amendments of that Act set out in Schedule 2 to this Act do not take effect.
+	(2)	Despite subsection 23(4) of the Wool International Act 1993, the 2 members referred to in paragraph 23(1)(d) of that Act who are first appointed after the commencement of this Part are not to be persons nominated by a selection committee constituted under that Act. In appointing them, the Minister must, however, consult with the members of Wool International referred to in paragraphs 23(1)(a), (b) and (c) of that Act.
 
