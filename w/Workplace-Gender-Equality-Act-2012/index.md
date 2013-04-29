@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C01670/Html/EqualOppWomWkpl99_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01669/Html/EqualOppWomWkpl99_image001.gif)
 
 # Equal Opportunity for Women in the Workplace Act 1999
 
 **Act No. 91 of 1986 as amended**
 
-This compilation was prepared on 31 October 2001
- taking into account amendments up to Act No. 159 of 2001
+This compilation was prepared on 26 July 2001
+ taking into account amendments up to Act No. 55 of 2001
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -28,8 +28,6 @@ Prepared by the Office of Legislative Drafting,
 [4](#4).            Extension to Norfolk Island                                                                 5
 
 [5](#5).            Application of Act                                                                              5
-
-[5A](#5A).         Application of _Criminal Code_                                                             7
 
 **Part II—Equal opportunity for women in the workplace programs**
 
@@ -81,7 +79,7 @@ Prepared by the Office of Legislative Drafting,
 
 [23](#23).          Leave of absence                                                                                17
 
-[24](#24).          Outside employment                                                                         17
+[24](#24).          Outside employment                                                                         18
 
 [25](#25).          Resignation                                                                                        18
 
@@ -106,8 +104,6 @@ Prepared by the Office of Legislative Drafting,
 [34](#34).          Regulations                                                                                        24
 
 **Notes** 
-
- 
 
 ## An Act to require certain employers to promote equal opportunity for women in employment, to establish the Equal Opportunity for Women in the Workplace Agency and the office of the Director of Equal Opportunity for Women in the Workplace, and for related purposes
 
@@ -272,12 +268,6 @@ the trainee is taken to be employed by the Scheme and not by the host employer.
            (11)  By virtue of this subsection, this Act has the effect it would have if each reference in this Act to a relevant employer were, by express provision, confined to a relevant employer that is a corporation incorporated in a Territory.
 
            (12)  In this section, **_foreign corporation_** and **_trading or financial corporation_** have the same meanings as in paragraph 51(xx) of the Constitution.
-
-##### <a id="5A"></a>5A  Application of _Criminal Code_
-
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
-
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
 ## Part II—Equal opportunity for women in the workplace programs
 
@@ -447,7 +437,7 @@ subject to such conditions as the relevant employer specifies in the consent.
 
 ##### <a id="17"></a>17  Agency may grant extensions
 
-             (1)  A relevant employer may, before the end of the 2 months within which the relevant employer is required to lodge with the Agency a public report under section 13B, apply to the Agency to extend the period for a further period to enable the employer to lodge the public report or a confidential report.
+             (1)  A relevant employer may, before the end of the 3 months within which the relevant employer is required to lodge with the Agency a public report under section 13B, apply to the Agency to extend the period for a further period to enable the employer to lodge the public report or a confidential report.
 
              (2)  Where the Agency:
 
@@ -484,6 +474,8 @@ the Agency may, subject to subsection (2), name the relevant employer in a repor
 ##### <a id="20"></a>20  Appointment of Director
 
              (1)  The Director shall be appointed by the Governor-General.
+
+             (2)  A person who has attained the age of 65 years shall not be appointed as the Director, and a person shall not be appointed as the Director for a period that extends beyond the day on which the person will attain the age of 65 years.
 
 ##### <a id="21"></a>21  Tenure of Director
 
@@ -609,27 +601,17 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="32"></a>32  Non-disclosure of confidential information
 
-             (1)  A person who is, or has at any time been, the Director or a member of the staff referred to in section 29 or a consultant engaged under section 30 or is, or has at any time been, authorised to perform or exercise any function or power under an arrangement in force under section 33, shall not, either directly or indirectly:
+             (1)  A person who is, or has at any time been, the Director or a member of the staff referred to in section 29 or a consultant engaged under section 30 or is, or has at any time been, authorised to perform or exercise any function or power under an arrangement in force under section 33, shall not, either directly or indirectly, except in the performance of a duty under or in connection with this Act or in the performance or exercise of such a function or power:
 
                      (a)  make a record of, or divulge or communicate to any person, any information relating to a confidential report or confidential information acquired by the first-mentioned person by reason of that person’s office, employment or engagement under or for the purposes of this Act or by reason of that person being or having been so authorised;
 
                      (b)  make use of any such report or information as is mentioned in paragraph (a); or
 
-                     (c)  produce to any person a confidential report or a document relating to confidential information of another person furnished for the purposes of this Act.
+                     (c)  produce to any person a confidential report or a document relating to confidential information of another person furnished for the purposes of this Act;
 
-                    Penalty:  25 penalty units or imprisonment for 3 months, or both.
+except to the extent that the report or information is the subject of a consent under subsection 16(2).
 
-          (1A)  Subsection (1) does not apply to a person’s conduct:
-
-                     (a)  if the person is:
-
-                              (i)  performing a duty under, or in connection with, this Act; or
-
-                             (ii)  performing a function, or exercising a power, under an arrangement in force under section 33; or
-
-                     (b)  to the extent that the conduct relates to a report, or to information, that is the subject of a consent under subsection 16(2).
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (1A) (see subsection 13.3(3) of the _Criminal Code_).
+                    Penalty:  $2,500 or imprisonment for 3 months, or both.
 
              (2)  A person who is, or has at any time been, the Director or a member of the staff referred to in section 29 or a consultant engaged under section 30 or is, or has at any time been, authorised to perform or exercise any function or power under an arrangement in force under section 33, shall not be required:
 
@@ -985,58 +967,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Ss. 4-14</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>142, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 10-14): 2 Oct 2001 <i>(g)</i></div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>144\. 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 1): Royal Assent <i>(h)</i> 
-Schedule 3 (item 2): 29 Oct 2001 <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by the _Qantas Sale Act 1992_, subsections 2(2), (5) and (6) of which provide as follows:
@@ -1070,16 +1000,6 @@ _(e)_     The _Equal Opportunity for Women in the Workplace Act 1999_ wa
 _(f)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 3 (item 173) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
-
-_(g)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 1 (items 10-14) only of the _Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences on the day after the day on which it receives the Royal Assent.
-
-_(h)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by Schedule 3 (items 1 and 2) only of the _Safety, Rehabilitation and Compensation and Other Legislation Amendment Act 2001_, subsections 2(1) and (3) of which provide as follows:
-
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-                 (3)   Items 12, 13, 14, 24, 27, 28, 29, 30, 34, 44, 46, 47, 48, 55 and 57 of Schedule 1, items 90, 91 and 101 of Schedule 2, and items 2 and 6 to 11 of Schedule 3 commence 28 days after the day on which this Act receives the Royal Assent.
 
 ## Table of Amendments
 
@@ -1148,14 +1068,6 @@ _(h)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
   </td>
   <td>
     <div>am. No. 105, 1992; No. 183, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 142, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1315,7 +1227,7 @@ _(h)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 181, 1992; No. 183, 1999; No. 144, 2001</div>
+    <div>am. No. 181, 1992; No. 183, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1348,14 +1260,6 @@ _(h)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
   </td>
   <td>
     <div>rs. No. 183, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1395,7 +1299,7 @@ _(h)_ The _Equal Opportunity for Women in the Workplace Act 1999_ was amended by
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. No. 181, 1992; Nos. 142 and 144, 2001</div>
+    <div>am. No. 181, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1439,25 +1343,5 @@ is not affected by the change to the Agency’s name or Director’s title, or b
 ## 3  Waiver of reporting obligations
 
 A waiver given under section 13A of the old Equal Opportunity for Women in the Workplace Act continues in force according to its terms as if it were issued under section 13C of the amended Equal Opportunity for Women in the Workplace Act.
-
-* * *
-
-_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 (No. 142, 2001)_
-
-##### <a id="4"></a>4  Application of amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
-
-## Schedule 1
-
-## 97  Application of amendments
-
-The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
  
