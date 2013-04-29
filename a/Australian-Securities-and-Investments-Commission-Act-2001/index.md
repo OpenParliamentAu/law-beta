@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00105/Html/51dd204d-220a-42da-9e8b-2c70557a2493_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00942/Html/e0d6f18e-7492-44b0-bb52-ca436869e905_files/image001.gif)
 
 # Australian Securities and Investments Commission Act 2001
 
 **Act No. 51 of 2001 as amended**
 
-This compilation was prepared on 12 January 2012
- taking into account amendments up to Act No. 184 of 2011
+This compilation was prepared on 8 December 2011
+ taking into account amendments up to Act No. 132 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -112,9 +112,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12CA](#12CA).    Unconscionable conduct within the meaning of the unwritten law of the States and Territories
 
-[12CB](#12CB).     Unconscionable conduct in connection with financial services
+[12CB](#12CB).     Unconscionable conduct
 
-[12CC](#12CC).     Matters the court may have regard to for the purposes of section 12CB
+[12CC](#12CC).     Unconscionable conduct in business transactions
 
         **Subdivision D—Consumer protection**
 
@@ -142,13 +142,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12DL](#12DL).     Unsolicited credit cards and debit cards
 
-[12DM](#12DM).   Assertion of right to payment for unsolicited financial 
- services etc 
+[12DM](#12DM).   Assertion of right to payment for unsolicited financial services etc 
 
 [12DMA Liability of recipient for unsolicited financial services etc](#12DMA Liability of recipient for unsolicited financial services etc).
 
-[12DMB](#12DMB). Assertion of right to payment for unauthorised 
- advertisements
+[12DMB](#12DMB). Assertion of right to payment for unauthorised advertisements
 
 [12DN](#12DN).    Application of provisions of this Division to information providers
 
@@ -2559,49 +2557,47 @@ but does not include any other consideration that is contingent on the occurrenc
 
              (2)  This section does not apply to conduct that is prohibited by section 12CB.
 
-##### <a id="12CB"></a>12CB  Unconscionable conduct in connection with financial services
+##### <a id="12CB"></a>12CB  Unconscionable conduct
 
-             (1)  A person must not, in trade or commerce, in connection with:
+             (1)  A person must not, in trade or commerce, in connection with the supply or possible supply of financial services to a person, engage in conduct that is, in all the circumstances, unconscionable.
 
-                     (a)  the supply or possible supply of financial services to a person (other than a listed public company); or
+             (2)  Without limiting the matters to which the court may have regard for the purpose of determining whether a person (the **_supplier_**) has contravened subsection (1) in connection with the supply or possible supply of services to a person (the **_consumer_**), the court may have regard to:
 
-                     (b)  the acquisition or possible acquisition of financial services from a person (other than a listed public company);
+                     (a)  the relative strengths of the bargaining positions of the supplier and the consumer; and
 
-engage in conduct that is, in all the circumstances, unconscionable.
+                     (b)  whether, as a result of conduct engaged in by the supplier, the consumer was required to comply with conditions that were not reasonably necessary for the protection of the legitimate interests of the supplier; and
 
-             (2)  This section does not apply to conduct that is engaged in only because the person engaging in the conduct:
+                     (c)  whether the consumer was able to understand any documents relating to the supply or possible supply of the services; and
 
-                     (a)  institutes legal proceedings in relation to the supply or possible supply, or in relation to the acquisition or possible acquisition; or
+                     (d)  whether any undue influence or pressure was exerted on, or any unfair tactics were used against, the consumer or a person acting on behalf of the consumer by the supplier or a person acting on behalf of the supplier in relation to the supply or possible supply of the services; and
 
-                     (b)  refers to arbitration a dispute or claim in relation to the supply or possible supply, or in relation to the acquisition or possible acquisition.
+                     (e)  the amount for which, and the circumstances under which, the consumer could have acquired identical or equivalent services from a person other than the supplier.
 
-             (3)  For the purpose of determining whether a person has contravened subsection (1):
+             (3)  A person is not taken for the purposes of this section to engage in unconscionable conduct in connection with the supply or possible supply of financial services to another person merely because the person:
+
+                     (a)  institutes legal proceedings in relation to that supply or possible supply; or
+
+                     (b)  refers a dispute or claim in relation to that supply or possible supply to arbitration.
+
+             (4)  For the purpose of determining whether a person has contravened subsection (1) in connection with the supply or possible supply of financial services to another person:
 
                      (a)  the court must not have regard to any circumstances that were not reasonably foreseeable at the time of the alleged contravention; and
 
                      (b)  the court may have regard to conduct engaged in, or circumstances existing, before the commencement of this section.
 
-             (4)  It is the intention of the Parliament that:
+             (5)  A reference in this section to financial services is a reference to financial services of a kind ordinarily acquired for personal, domestic or household use.
 
-                     (a)  this section is not limited by the unwritten law of the States and Territories relating to unconscionable conduct; and
+##### <a id="12CC"></a>12CC  Unconscionable conduct in business transactions
 
-                     (b)  this section is capable of applying to a system of conduct or pattern of behaviour, whether or not a particular individual is identified as having been disadvantaged by the conduct or behaviour; and
+             (1)  A person must not, in trade or commerce, in connection with:
 
-                     (c)  in considering whether conduct to which a contract relates is unconscionable, a court’s consideration of the contract may include consideration of:
+                     (a)  the supply or possible supply of financial services (see subsection (6)) to another person (other than a listed public company); or
 
-                              (i)  the terms of the contract; and
+                     (b)  the acquisition or possible acquisition of financial services (see subsection (7)) from another person (other than a listed public company);
 
-                             (ii)  the manner in which and the extent to which the contract is carried out;
+engage in conduct that is, in all the circumstances, unconscionable.
 
-                            and is not limited to consideration of the circumstances relating to formation of the contract.
-
-             (5)  In this section:
-
-                    <a name="list-public-compani"></a>**_listed public company_** has the same meaning as it has in the _Income Tax Assessment Act 1997_.
-
-##### <a id="12CC"></a>12CC  Matters the court may have regard to for the purposes of section 12CB
-
-             (1)  Without limiting the matters to which the court may have regard for the purpose of determining whether a person (the **_supplier_**) has contravened section 12CB in connection with the supply or possible supply of financial services to a person (the **_service recipient_**), the court may have regard to:
+             (2)  Without in any way limiting the matters to which the court may have regard for the purpose of determining whether a person (the **_supplier_**) has contravened subsection (1) in connection with the supply or possible supply of financial services to another person (the **_service recipient_**), the court may have regard to:
 
                      (a)  the relative strengths of the bargaining positions of the supplier and the service recipient; and
 
@@ -2615,9 +2611,9 @@ engage in conduct that is, in all the circumstances, unconscionable.
 
                       (f)  the extent to which the supplier’s conduct towards the service recipient was consistent with the supplier’s conduct in similar transactions between the supplier and other like service recipients; and
 
-                     (g)  if the supplier is a corporation—the requirements of any applicable industry code (see subsection (3)); and
+                     (g)  if the person is a corporation—the requirements of any applicable industry code (see subsection (11)); and
 
-                     (h)  the requirements of any other industry code (see subsection (3)), if the service recipient acted on the reasonable belief that the supplier would comply with that code; and
+                     (h)  the requirements of any other industry code (see subsection (11)), if the service recipient acted on the reasonable belief that the supplier would comply with that code; and
 
                       (i)  the extent to which the supplier unreasonably failed to disclose to the service recipient:
 
@@ -2635,53 +2631,73 @@ engage in conduct that is, in all the circumstances, unconscionable.
 
                             (iv)  any conduct that the supplier or the service recipient engaged in, in connection with their commercial relationship, after they entered into the contract; and
 
-                     (k)  without limiting paragraph (j), whether the supplier has a contractual right to vary unilaterally a term or condition of a contract between the supplier and the service recipient for the supply of the financial services; and
+                    (ja)  without limiting paragraph (j), whether the supplier has a contractual right to vary unilaterally a term or condition of a contract between the supplier and the service recipient for the supply of the financial services; and
 
-                      (l)  the extent to which the supplier and the service recipient acted in good faith.
+                     (k)  the extent to which the supplier and the service recipient acted in good faith.
 
-             (2)  Without limiting the matters to which the court may have regard for the purpose of determining whether a person (the **_acquirer_**) has contravened section 12CB in connection with the acquisition or possible acquisition of financial services from a person (the **_supplier_**), the court may have regard to:
+             (3)  Without in any way limiting the matters to which the court may have regard for the purpose of determining whether a person (the **_acquirer_**) has contravened subsection (1) in connection with the acquisition or possible acquisition of financial services from a person (the **_business supplier_**), the court may have regard to:
 
-                     (a)  the relative strengths of the bargaining positions of the acquirer and the supplier; and
+                     (a)  the relative strengths of the bargaining positions of the acquirer and the business supplier; and
 
-                     (b)  whether, as a result of conduct engaged in by the acquirer, the supplier was required to comply with conditions that were not reasonably necessary for the protection of the legitimate interests of the acquirer; and
+                     (b)  whether, as a result of conduct engaged in by the acquirer, the business supplier was required to comply with conditions that were not reasonably necessary for the protection of the legitimate interests of the acquirer; and
 
-                     (c)  whether the supplier was able to understand any documents relating to the acquisition or possible acquisition of the financial services; and
+                     (c)  whether the business supplier was able to understand any documents relating to the acquisition or possible acquisition of the financial services; and
 
-                     (d)  whether any undue influence or pressure was exerted on, or any unfair tactics were used against, the supplier or a person acting on behalf of the supplier by the acquirer or a person acting on behalf of the acquirer in relation to the acquisition or possible acquisition of the financial services; and
+                     (d)  whether any undue influence or pressure was exerted on, or any unfair tactics were used against, the business supplier or a person acting on behalf of the business supplier by the acquirer or a person acting on behalf of the acquirer in relation to the acquisition or possible acquisition of the financial services; and
 
-                     (e)  the amount for which, and the circumstances in which, the supplier could have supplied identical or equivalent financial services to a person other than the acquirer; and
+                     (e)  the amount for which, and the circumstances in which, the business supplier could have supplied identical or equivalent financial services to a person other than the acquirer; and
 
-                      (f)  the extent to which the acquirer’s conduct towards the supplier was consistent with the acquirer’s conduct in similar transactions between the acquirer and other like suppliers; and
+                      (f)  the extent to which the acquirer’s conduct towards the business supplier was consistent with the acquirer’s conduct in similar transactions between the acquirer and other like business suppliers; and
 
-                     (g)  the requirements of any applicable industry code (see subsection (3)); and
+                     (g)  if the person is a corporation—the requirements of any applicable industry code (see subsection (11)); and
 
-                     (h)  the requirements of any other industry code (see subsection (3)), if the supplier acted on the reasonable belief that the acquirer would comply with that code; and
+                     (h)  the requirements of any other industry code (see subsection (11)), if the business supplier acted on the reasonable belief that the acquirer would comply with that code; and
 
-                      (i)  the extent to which the acquirer unreasonably failed to disclose to the supplier:
+                      (i)  the extent to which the acquirer unreasonably failed to disclose to the business supplier:
 
-                              (i)  any intended conduct of the acquirer that might affect the interests of the supplier; and
+                              (i)  any intended conduct of the acquirer that might affect the interests of the business supplier; and
 
-                             (ii)  any risks to the supplier arising from the acquirer’s intended conduct (being risks that the acquirer should have foreseen would not be apparent to the supplier); and
+                             (ii)  any risks to the business supplier arising from the acquirer’s intended conduct (being risks that the acquirer should have foreseen would not be apparent to the business supplier); and
 
-                      (j)  if there is a contract between the acquirer and the supplier for the acquisition of the financial services:
+                      (j)  if there is a contract between the acquirer and the business supplier for the acquisition of the financial services:
 
-                              (i)  the extent to which the acquirer was willing to negotiate the terms and conditions of the contract with the supplier; and
+                              (i)  the extent to which the acquirer was willing to negotiate the terms and conditions of the contract with the business supplier; and
 
                              (ii)  the terms and conditions of the contract; and
 
-                            (iii)  the conduct of the acquirer and the supplier in complying with the terms and conditions of the contract; and
+                            (iii)  the conduct of the acquirer and the business supplier in complying with the terms and conditions of the contract; and
 
-                            (iv)  any conduct that the acquirer or the supplier engaged in, in connection with their commercial relationship, after they entered into the contract; and
+                            (iv)  any conduct that the acquirer or the business supplier engaged in, in connection with their commercial relationship, after they entered into the contract; and
 
-                     (k)  without limiting paragraph (j), whether the acquirer has a contractual right to vary unilaterally a term or condition of a contract between the acquirer and the supplier for the acquisition of the financial services; and
+                    (ja)  without limiting paragraph (j), whether the acquirer has a contractual right to vary unilaterally a term or condition of a contract between the acquirer and the business supplier for the acquisition of the financial services; and
 
-                      (l)  the extent to which the acquirer and the supplier acted in good faith.
+                     (k)  the extent to which the acquirer and the business supplier acted in good faith.
 
-             (3)  In this section:
+             (4)  A person is not taken for the purposes of this section to engage in unconscionable conduct in connection with:
+
+                     (a)  the supply or possible supply of financial services to another person; or
+
+                     (b)  the acquisition or possible acquisition of financial services from another person;
+
+merely because the person institutes legal proceedings in relation to that supply, possible supply, acquisition or possible acquisition or refers a dispute or claim in relation to that supply, possible supply, acquisition or possible acquisition to arbitration.
+
+             (5)  For the purpose of determining whether a person has contravened subsection (1) in connection with the supply, possible supply, acquisition, or possible acquisition of financial products or financial services:
+
+                     (a)  the court must not have regard to any circumstances that were not reasonably foreseeable at the time of the alleged contravention; and
+
+                     (b)  the court may have regard to circumstances existing before the commencement of this section but not to conduct engaged in before that commencement.
+
+             (6)  Subject to subsection (8), a reference in this section to the **_supply or possible supply of financial services_** is a reference to the supply or possible supply of financial services to a person whose acquisition or possible acquisition of the financial services is or would be for the purpose of trade or commerce.
+
+             (7)  Subject to subsection (9), a reference in this section to the **_acquisition or possible acquisition of financial services_** is a reference to the acquisition or possible acquisition of financial services by a person whose acquisition or possible acquisition of the financial services is or would be for the purpose of trade or commerce.
+
+           (11)  In this section:
 
                     <a name="applic-industri-code"></a>**_applicable industry code_**, in relation to a corporation, has the same meaning as it has in subsection 51ACA(1) of the _Competition and Consumer Act 2010_.
 
                     <a name="industri-code"></a>**_industry code_** has the same meaning as it has in subsection 51ACA(1) of the _Competition and Consumer Act 2010_.
+
+                    <a name="list-public-compani"></a>**_listed public company_** has the same meaning as it has in the _Income Tax Assessment Act 1997_.
 
 #### Subdivision D—Consumer protection
 
@@ -6369,7 +6385,7 @@ the court or tribunal must refuse so to admit the copy, or must treat the copy a
 
                      (b)  if it is reasonable in all the circumstances for the person to require the books to be produced forthwith—to empower the person to require the books to be produced forthwith.
 
-##### <a id="88"></a>88  Application of Crimes Act and Evidence Act
+##### <a id="88"></a>88  Application of Crimes Act and Evidence Act
 
              (1)  For the purposes of Part III of the _Crimes Act 1914_, an examination or a hearing is a judicial proceeding.
 
@@ -9945,7 +9961,7 @@ the person is guilty of that offence.
 
              (5)  The fact that a person has not been given notice of the decision because of a determination under subsection (3) constitutes special circumstances for the purposes of subsection 29(6) of the _Administrative Appeals Tribunal Act 1975_.
 
-##### <a id="245"></a>245  Validity of certain actions
+##### <a id="245"></a>245  Validity of certain actions
 
                    Nothing done by or in relation to a person who has been appointed to, or appointed to act in, an office under this Act  is invalid on the ground that:
 
@@ -10335,7 +10351,7 @@ the transitional provision is taken to operate so that:
 
                             (iii)  an order protecting or otherwise dealing with property that is the subject matter of that proceeding;
 
-                            but not including an order making a final determination of existing rights or liabilities.
+                            but not including an order making a final determination of existing rights or liabilities.
 
                     <a name="interlocutori-order"></a>**_interlocutory order_** means:
 
@@ -10675,7 +10691,7 @@ Note:          If a time limit applied in relation to the pre�
 
 Note:          For pre‑commencement proceedings in respect of substituted rights and liabilities, see sections 267 and 268.
 
-##### <a id="277"></a>277  Creation of equivalent rights and liabilities to those that existed before the commencement under repealed provisions of the old ASIC legislation
+##### <a id="277"></a>277  Creation of equivalent rights and liabilities to those that existed before the commencement under repealed provisions of the old ASIC legislation
 
              (1)  This section applies to a right or liability (the **_pre‑commencement right or liability_**), whether civil or criminal, that:
 
@@ -10941,7 +10957,7 @@ Note:          Instead, an equivalent right or liability will 
 
              (5)  The amendments made by items 148 and 156 to 175 of Schedule 1 to the amending Act apply to applications made to the Companies Auditors and Liquidators Disciplinary Board on or after the Schedule 1 commencement (regardless of when the circumstances to which the application relates occurred).
 
-##### <a id="288"></a>288  Application of Schedule 3 to the amending Act
+##### <a id="288"></a>288  Application of Schedule 3 to the amending Act
 
                    The amendments made to this Act by Schedule 3 to the amending Act apply to causes of action that arise on or after the day on which that Schedule commences.
 
@@ -11801,23 +11817,6 @@ Schedule 1 (item 256A): \[ <i>see</i>Note 3]</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Competition and Consumer Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>184, 2011</div>
-  </td>
-  <td>
-    <div>6 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 1): 1 Jan 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Australian Securities and Investments Commission Act 2001_ was amended by Schedule 2 (items 1–11) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(2) of which provides as follows:
@@ -12555,14 +12554,6 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 184, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 12CC</div>
   </td>
   <td>
@@ -12575,14 +12566,6 @@ Part 2</div>
   </td>
   <td>
     <div>am. No. 159, 2007; No. 116, 2008; No. 108, 2009; No. 103, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 184, 2011</div>
   </td>
 </tr>
 <tr>
@@ -15766,13 +15749,13 @@ Annual report to be sent to the Attorney‑General of each State and Territory
 
              (4)  The Minister must cause a copy of each annual report to be sent to the Attorney‑General of each State and Territory as soon as practical after the Minister receives the report.
 
-As at 12 January 2012 the amendments are not incorporated in this compilation.
+As at 8 December 2011 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
 _Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
 
-The following amendments commence on 2 April 2012:
+The following amendments commence at the same time as section 3 of the _Clean Energy Act 2011_:
 
 ## Schedule 1
 
@@ -15800,7 +15783,7 @@ Add:
 
                     ; (f)  the Climate Change Authority.
 
-As at 12 January 2012 the amendments are not incorporated in this compilation.
+As at 8 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
