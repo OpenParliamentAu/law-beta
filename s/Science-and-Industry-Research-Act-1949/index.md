@@ -1,7 +1,7 @@
 
-Science and Industry Research Act 1949
-Act No. 13 of 1949 as amended
-This compilation was prepared on 8 November 2001  taking into account amendments up to Act No. 159 of 2001
+Science and Industry Research Act 1949 
+Act No. 13 of 1949 as amended 
+This compilation was prepared on 27 March 2000  taking into account amendments up to Act No. 156 of 1999
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -21,10 +21,10 @@ Part II—The Commonwealth Scientific and Industrial Research Organisation	3
 Part IIA—The Chief Executive of the Organisation	7
 10A	Chief Executive of the Organisation	7
 10B	Appointment of Chief Executive etc.	7
-10C	Leave of absence	7
+10C	Leave of absence	8
 10D	Resignation	8
 10E	Termination of appointment	8
-10F	Disclosure of interests	8
+10F	Disclosure of interests	9
 10G	Acting Chief Executive	9
 10H	Remuneration of Chief Executive	10
 10J	Delegation	10
@@ -43,22 +43,22 @@ Part IV—Advisory Committees	16
 24	Advisory committees	16
 Part VI—Staff	17
 32	Staff	17
-Part VII—Strategic plans and annual operational plans	18
+Part VII—Strategic Plans and Annual Operational Plans	18
 33	Planning periods	18
 34	Strategic plans	18
 35	Annual operational plans	19
 36	Compliance with plans	19
-Part VIII—Finance	21
-46	Moneys payable to Organisation	21
-48	Application of moneys	21
-50	Contracts	21
-51	Extra matters to be included in annual report	21
-53	Liability to taxation	22
-Part IX—Miscellaneous	23
-54	Inventions etc. by officers	23
-56	Consultative Council	23
-58	Regulations	23
-Notes		25
+Part VIII—Finance	20
+46	Moneys payable to Organisation	20
+48	Application of moneys	20
+50	Contracts	20
+51	Extra matters to be included in annual report	20
+53	Liability to taxation	21
+Part IX—Miscellaneous	22
+54	Inventions etc. by officers	22
+56	Consultative Council	22
+58	Regulations	22
+Notes		23
 An Act relating to the Commonwealth Scientific and Industrial Research Organisation
 Part I—Preliminary
   
@@ -141,6 +141,7 @@ Part IIA—The Chief Executive of the Organisation
 10B  Appointment of Chief Executive etc.
 	(1)	The Chief Executive shall be appointed by the Governor‑General and, subject to this Act, holds office on a full‑time basis for such period, not exceeding 5 years, as is specified in the instrument of appointment.
 	(2)	The Minister shall, before an appointment is made to the office of Chief Executive, consult with the Board in relation to the appointment.
+	(3)	A person who has attained the age of 65 years shall not be appointed as the Chief Executive and a person shall not be appointed as the Chief Executive for a period that extends beyond the day on which the person will attain the age of 65 years.
 	(4)	The Chief Executive holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Minister.
 10C  Leave of absence
 	(1)	The Chief Executive has such recreation leave entitlements as are determined by the Remuneration Tribunal.
@@ -354,7 +355,6 @@ Part IX—Miscellaneous
 Notes to the Science and Industry Research Act 1949
 Note 1
 The Science and Industry Research Act 1949 as shown in this compilation comprises Act No. 13, 1949 amended as indicated in the Tables below. 
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -466,11 +466,6 @@ Corporate Law Economic Reform Program Act 1999
 24 Nov 1999
 Schedule 10 (items 116, 117): 13 Mar 2000 (see Gazette 2000, No. S114) (h)
 —
-Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
-159, 2001
-1 Oct 2001
-29 Oct 2001
-Sch 1 (item 97) [see Table A]
 
 (a)	By virtue of subsection 2(7) of the Administrative Changes (Consequential Provisions) Act 1976 the amendment made by that Act to the Science and Industry Research Act 1949 is deemed to have come into operation on 22 December 1975.
 (b)	The Science and Industry Research Act 1949 was amended by Part LXVI (sections 248‑252) only of the Statute Law (Miscellaneous Amendments) Act (No. 2) 1982, subsection 2(16) of which provides as follows:
@@ -546,7 +541,7 @@ ad. No. 121, 1986
 S. 10B 	
 ad. No. 121, 1986
 
-am. No. 168, 1992; No. 159, 2001
+am. No. 168, 1992
 S. 10C 	
 ad. No. 121, 1986
 
@@ -825,10 +820,4 @@ Schedule 1
 rep. No. 121, 1986
 Second Schedule 	
 rep. No. 143, 1978 
-Table A
-Application, saving or transitional provisions
-Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)
-Schedule 1
-97  Application of amendments
-The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
