@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00469/Html/42234df0-9294-4ef1-943d-69e87db7544d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00289/Html/245b02de-353d-4fe1-a635-6daa79995520_files/image001.gif)
 
 # Customs Act 1901
 
 **Act No. 6 of 1901 as amended**
 
-This compilation was prepared on 28 May 2012
- taking into account amendments up to Act No. 39 of 2012
+This compilation was prepared on 8 March 2012
+ taking into account amendments up to Act No. 1 of 2012
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1 – 183U
@@ -27,7 +27,7 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2 and 3
+                                     Note 2
                                      Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -277,7 +277,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [68A](#68A).       Goods imported for transhipment
 
-[69](#69).          Like customable goods and excise‑equivalent goods
+[69](#69).          Like customable goods
 
 [70](#70).          Special clearance goods
 
@@ -289,7 +289,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 71AAAB  Report and grant of authority to deal with Subdivision AA goods
 
-71AAAC  Suspension of authority to deal with Subdivision AA goods
+71AAAC  uspension of authority to deal with Subdivision AA goods
 
         **Subdivision AB—Information and grant of authority to deal with specified low value goods**
 
@@ -301,7 +301,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 71AAAG  Customs’ response if a self‑assessed clearance declaration is communicated separately from a cargo report
 
-71AAAH Customs’ response if a self‑assessed clearance declaration is communicated together with a cargo report
+71AAAH  Customs’ response if a self‑assessed clearance declaration is communicated together with a cargo report
 
 71AAAI Authority to deal with goods covered by a self‑assessed clearance declaration
 
@@ -1401,8 +1401,6 @@ For the purposes of this definition, **_Australian national_** and **_resident o
 
                     <a name="border-control-plant"></a>**_border controlled plant_** has the same meaning as in Part 9.1 of the _Criminal Code_.
 
-                    <a name="border-control-precursor"></a>**_border controlled precursor_** has the same meaning as in Part 9.1 of the _Criminal Code_.
-
                     <a name="brought-physical-contact"></a>**_Brought into physical contact_** has the same meaning as in the Sea Installations Act.
 
                     <a name="busi-rule"></a>**_business rules_** means business rules made under section 273EB.
@@ -1597,8 +1595,6 @@ but does not include an internal examination of the person’s body.
 
                     <a name="fuel"></a>**_fuel_** means goods of a kind that fall within a classification in subheading 2707, 2709 or 2710 of Schedule 3 to the Customs Tariff.
 
-                    <a name="gaseou-fuel"></a>**_gaseous fuel_** means compressed natural gas, liquefied natural gas or liquefied petroleum gas.
-
                     <a name="gazett-notic"></a>**_Gazette notice_** means a notice signed by the Minister and published in the _Gazette_.
 
                     <a name="good"></a>**_goods_** means movable personal property of any kind and, without limiting the generality of the expression, includes documents, vessels and aircraft.
@@ -1650,8 +1646,6 @@ but does not include an internal examination of the person’s body.
                     <a name="lawyer"></a>**_Lawyer_** means a person who has been admitted in a State or Territory to practise as a barrister, as a solicitor or as a barrister and solicitor and whose right so to practise is not suspended or has not been cancelled.
 
                     <a name="lighter"></a>**_Lighter_** includes a craft of every description used for the carriage of goods in a port.
-
-                    <a name="custom-good"></a>**_like customable goods_** means goods that are prescribed by the regulations for the purposes of this definition.
 
                     <a name="low-valu-cargo"></a>**_low value cargo_** has the same meaning as in section 63A.
 
@@ -1844,8 +1838,6 @@ but does not include:
                      (a)  an off‑shore industry mobile unit; and
 
                      (b)  a barge, lighter or any other floating vessel.
-
-                    <a name="small-busi-entiti"></a>**_small business entity_** has the meaning given by section 328‑110 (other than subsection 328‑110(4)) of the _Income Tax Assessment Act 1997_.
 
                     <a name="smuggl"></a>**_Smuggling_** means any importation, introduction or exportation or attempted importation, introduction or exportation of goods with intent to defraud the revenue.
 
@@ -2521,7 +2513,7 @@ the officer may:
 
 ##### <a id="26"></a>26  Declaration by youths
 
-                   No person shall knowingly receive a declaration under this Act by any person under the age of eighteen years.
+                   No person shall knowingly receive a declaration under this Act by any person under the age of eighteen years.
 
 ##### <a id="27"></a>27  State inspection laws
 
@@ -4995,107 +4987,59 @@ are not included in the personal or household effects of a passenger or crew mem
 
                      (b)  to move them to a place specified in the direction.
 
-##### <a id="69"></a>69  Like customable goods and excise‑equivalent goods
+##### <a id="69"></a>69  Like customable goods
 
-             (1)  A person may apply to the Collector for permission to deliver into home consumption like customable goods or excise equivalent goods:
+             (1)  In this section:
 
-                     (a)  of a kind specified in the application; and
+                    <a name="custom-good"></a>**_like customable goods_** means:
 
-                     (b)  to which section 68 applies;
+                     (a)  goods to which section 68 applies that are classified under a subheading specified in column 1 of the Table to section 19 of the _Customs Tariff Act 1995_; and
 
-without entering them for that purpose:
+                     (b)  any other goods that are prescribed for the purposes of this section.
 
-                     (c)  in respect of a recurring 7 day period; or
+             (2)  A person who has imported or who proposes to import particular like customable goods, or like customable goods of a particular kind, may apply to Customs, in writing, for permission to deliver those goods, or goods of that kind into home consumption without entering them for that purpose.
 
-                     (d)  in respect of a calendar month if:
+             (3)  An officer of Customs may, on receipt of an application under subsection (2), by notice in writing:
 
-                              (i)  the person is a small business entity or included in a class prescribed by the regulations; or
+                     (a)  grant permission for the particular like customable goods, or like customable goods of the particular kind, to which the application relates to be delivered into home consumption without entering them for that purpose; or
 
-                             (ii)  the like customable goods or excise‑equivalent goods to be delivered into home consumption are of a kind prescribed by the regulations for the purposes of this subparagraph.
+                     (b)  refuse to grant such a permission and set out in the notice the reasons for so refusing.
 
-             (2)  If a person applies in respect of a recurring 7 day period, the person may specify in the application the 7 day period that the person wishes to use.
+             (4)  A permission granted in respect of particular goods, or goods of a particular kind, is subject:
 
-             (3)  Despite the definition of **_days_** in section 4, Sundays and public holidays are counted as days for the purpose of determining a recurring 7 day period. This subsection does not affect the operation of section 36 of the _Acts Interpretation Act 1901_.
+                     (a)  to the condition that, on or after their importation and before they are delivered into home consumption, goods to which the permission relates must have been, or must be, entered for warehousing; and
 
-             (4)  An application must be made in writing in an approved form.
+                     (b)  to any other condition, specified in the permission, that Customs considers appropriate.
 
-             (5)  The Collector may, on receiving an application under subsection (1) or advice under subsection (13) or (14), by notice in writing:
+             (5)  Where:
 
-                     (a)  give permission to the person to deliver into home consumption, from a place specified in the permission:
+                     (a)  permission is granted in respect of particular goods or goods of a particular kind; and
 
-                              (i)  like customable goods to which section 68 applies; or
+                     (b)  those goods or goods of that kind are delivered into home consumption under that permission;
 
-                             (ii)  excise‑equivalent goods to which section 68 applies;
+the person to whom the permission is granted must:
 
-                            to which the application relates without entering them for that purpose; or
+                     (c)  give Customs returns at such intervals, not exceeding 2 months, as are specified in the permission, providing particulars in accordance with section 71K or 71L in relation to those goods or to goods of that kind that have, during the periods to which the returns relate, been delivered into home consumption; and
 
-                     (b)  refuse to give such a permission and set out in the notice the reasons for so refusing.
+                     (d)  at the time when each return is given to Customs, pay any duty owing at the rate applicable when the goods were delivered into home consumption; and
 
-             (6)  If a permission is to apply in respect of a 7 day period, the notice must specify:
-
-                     (a)  the 7 day period for which permission is given; and
-
-                     (b)  the first day of the 7 day period from which permission is given.
-
-             (7)  If a permission is to apply in respect of a calendar month, the notice must specify the calendar month from which permission is given.
-
-             (8)  A permission given under subsection (4) in respect of like customable goods or excise‑equivalent goods is subject to the following conditions:
-
-                     (a)  if a person’s permission applies in respect of a 7 day period and specifies goods other than gaseous fuel—the condition that, to the extent that the permission relates to goods other than gaseous fuel, the person give the Collector a return, by way of a document or electronically, on the first day following the end of each 7 day period, providing particulars in accordance with section 71K or 71L in relation to the goods that have, during the period to which the return relates, been delivered into home consumption under the permission;
-
-                     (b)  if a person’s permission applies in respect of a 7 day period and specifies gaseous fuel—the condition that, to the extent that the permission relates to gaseous fuel, the person give the Collector a return, by way of a document or electronically, on or before the seventh day following the end of each 7 day period, providing particulars in accordance with section 71K or 71L in relation to the gaseous fuel that has, during the period to which the return relates, been delivered into home consumption under the permission;
-
-                     (c)  if a person is a small business entity and the person’s permission applies in respect of a calendar month—the condition that the person give the Collector a return, by way of a document or electronically, on or before the 21st day of each calendar month, providing particulars in accordance with section 71K or 71L in relation to the goods that have, during the previous calendar month, been delivered into home consumption under the permission;
-
-                     (d)  if a person’s permission applies in respect of a calendar month and the person is included in a class mentioned in subparagraph (1)(d)(i) or has permission to enter like customable goods or excise‑equivalent goods of a kind prescribed by the regulations for the purposes of subparagraph (1)(d)(ii)—any condition prescribed by the regulations;
-
-                     (e)  if a person ceases to be a small business entity—the condition that the person advise the Collector, in writing, of that fact as soon as practicable after ceasing to be a small business entity;
-
-                      (f)  if a person ceases to be included in a class mentioned in subparagraph (1)(d)(i)—the condition that the person advise the Collector, in writing, of that fact as soon as practicable after ceasing to be included in that class;
-
-                     (g)  in any case—the condition that on or after the goods are imported and before they are delivered into home consumption, the goods to which the permission relates must have been or must be entered for warehousing;
-
-                     (h)  the condition that, at the time when each return is given to the Collector, the person pay any duty owing at the rate applicable when the goods were delivered into home consumption;
-
-                      (i)  any other condition, specified in the permission, that the Collector considers appropriate.
-
-Note:          Paragraphs (8)(a), (b), (c) and (d)—see also subsection (9).
-
-             (9)  Despite paragraphs (8)(a), (b), (c) and (d), the Collector may determine different conditions for giving the Collector a return if subsection (13) or (14) applies.
-
-           (10)  A person to whom a permission is given under subsection (5) must comply with any conditions to which the permission is subject.
+                     (e)  comply with any conditions to which the permission is subject.
 
                     Penalty:  50 penalty units.
 
-           (11)  Subsection (10) is an offence of strict liability.
+          (5A)  Subsection (5) is an offence of strict liability.
 
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-           (12)  If the Collector is satisfied that a person to whom a permission has been given under subsection (5) has failed to comply with any condition to which the permission is subject, the officer may, at any time while the permission remains in force, by notice in writing, revoke the permission. The notice must set out the reasons for the revocation.
+             (6)  Where an officer of Customs is satisfied that a person to whom a permission has been granted under this section has failed to comply with any condition to which the permission is subject, the officer may:
 
-           (13)  If:
+                     (a)  if the permission related to particular goods—at any time before those goods are delivered into home consumption; and
 
-                     (a)  a person is a small business entity or included in a class mentioned in subparagraph (1)(d)(i); and
+                     (b)  if the permission related to goods of a particular kind—at any time while the permission remains in force;
 
-                     (b)  the person’s permission applies in respect of a calendar month; and
+by notice in writing, revoke the permission and set out in the notice the reasons for that revocation.
 
-                     (c)  the person advises the Collector, in writing, that the person ceases to be a small business entity or included in a class mentioned in subparagraph (1)(d)(i);
-
-the Collector must, by notice in writing:
-
-                     (d)  revoke the permission with effect from a specified day; and
-
-                     (e)  give another permission under subsection (5) in respect of a 7 day period.
-
-           (14)  If a person advises the Collector, in writing, that the person wishes to change the 7 day period in respect of which their permission applies, the Collector may, by notice in writing:
-
-                     (a)  revoke the permission with effect from a specified day; and
-
-                     (b)  give another permission under subsection (5) in respect of another period.
-
-           (15)  Subsections (12) to (14) do not, by implication, limit the application of subsections 33(3) and (3AA) of the _Acts Interpretation Act 1901_.
-
-##### <a id="70"></a>70  Special clearance goods
+##### <a id="70"></a>70  Special clearance goods
 
              (1)  In this section, **_special clearance goods_** means goods to which section 68 applies comprising:
 
@@ -6283,7 +6227,7 @@ as if it had not been withdrawn.
 
 ##### <a id="71K"></a>71K  Manner of communicating with Customs by document
 
-             (1)  An import entry, a withdrawal of an import entry, a visual examination application, a movement application, or a return for the purposes of subsection 69(8) or 70(7) or section 105C, that is communicated to Customs by document:
+             (1)  An import entry, a withdrawal of an import entry, a visual examination application, a movement application, or a return for the purposes of subsection 69(5) or 70(7) or section 105C, that is communicated to Customs by document:
 
                      (a)  must be in an approved form; and
 
@@ -6295,11 +6239,11 @@ as if it had not been withdrawn.
 
 ##### <a id="71L"></a>71L  Manner and effect of communicating with Customs electronically
 
-             (1)  An import entry, a withdrawal of an import entry, a visual examination application, a movement application, or a return for the purposes of subsection 69(8) or 70(7) or section 105C that is communicated to Customs electronically must communicate such information as is set out in an approved statement.
+             (1)  An import entry, a withdrawal of an import entry, a visual examination application, a movement application, or a return for the purposes of subsection 69(5) or 70(7) or section 105C that is communicated to Customs electronically must communicate such information as is set out in an approved statement.
 
              (2)  The CEO may approve different statements for electronic communications to be made in different circumstances or by different classes of persons.
 
-             (3)  For the purposes of this Act, an import entry, a withdrawal of an import entry, a return for the purposes of subsection 69(8) or 70(7) or section 105C or a periodic declaration, is taken to have been communicated to Customs electronically when an import entry advice, or an acknowledgment of the withdrawal, the return or the declaration, is communicated by Customs electronically to the person identified in the import entry, withdrawal, return or declaration as the person sending it.
+             (3)  For the purposes of this Act, an import entry, a withdrawal of an import entry, a return for the purposes of subsection 69(5) or 70(7) or section 105C or a periodic declaration, is taken to have been communicated to Customs electronically when an import entry advice, or an acknowledgment of the withdrawal, the return or the declaration, is communicated by Customs electronically to the person identified in the import entry, withdrawal, return or declaration as the person sending it.
 
              (4)  A movement application that is communicated to Customs electronically must communicate such information as is set out in an approved statement.
 
@@ -7025,7 +6969,7 @@ the former holder is entitled to a refund of an amount worked out using the form
 
           (1A)  For the purposes of subsection (1), the formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00469/Html/42234df0-9294-4ef1-943d-69e87db7544d_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00289/Html/245b02de-353d-4fe1-a635-6daa79995520_files/image002.gif)
 
 where:
 
@@ -7635,7 +7579,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                    For the purpose of the application of section 29 of the _Acts Interpretation Act 1901_ to the service by post of a notice under this Part on a person who holds or held a warehouse licence, such a notice posted as a letter addressed to the person at the address of the place that is or was the warehouse shall be deemed to be properly addressed.
 
-##### <a id="89"></a>89  Death of licence holder
+##### <a id="89"></a>89  Death of licence holder
 
                    If the holder of a warehouse licence, being a natural person, dies, the licence shall be deemed to be transferred to his or her legal personal representative.
 
@@ -7955,11 +7899,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     <a name="contain"></a>**_container_** means any article capable of holding liquids.
 
-                    <a name="custom-beverag"></a>**_customable beverage_** means like customable goods:
+                    <a name="custom-beverag"></a>**_customable beverage_** means like customable goods (within the meaning of section 69):
 
                      (a)  that are described in Chapter 22 of Schedule 3 to the Customs Tariff; and
 
-                     (b)  that are prescribed by the regulations for the purposes of this definition.
+                     (b)  that are prescribed.
 
 ##### <a id="104"></a>104  Customable beverage imported in bulk must be entered for warehousing or transhipment
 
@@ -8437,7 +8381,7 @@ makes the exportation of such goods from Australia contrary to the national inte
 
 ### Division 1A—Directions in relation to goods for export etc. that are subject to Customs control
 
-##### <a id="112C"></a>112C  Collector may give directions in relation to goods for export etc. that are subject to Customs control
+##### <a id="112C"></a>112C  Collector may give directions in relation to goods for export etc. that are subject to Customs control
 
              (1)  A Collector may give a written direction to move or not move, or about the storage of, goods that are subject to the control of Customs under paragraph 30(1)(b), (c), (d) or (e) if the direction is:
 
@@ -10159,7 +10103,7 @@ Exceptions to this section
     <div>1</div>
   </td>
   <td>
-    <div>paragraphs 69(8)(h) and 70(7)(b)</div>
+    <div>paragraphs 69(5)(d) and 70(7)(b)</div>
   </td>
   <td>
     <div>payment of duty on certain goods delivered into home consumption without
@@ -10997,7 +10941,7 @@ Goods claimed to be manufacture of Singapore
 
                      (b)  waste and scrap produced in Singapore or Australia;
 
-                     (c)  materials wholly manufactured within   Singapore or Australia;
+                     (c)  materials wholly manufactured within Singapore or Australia;
 
                      (d)  materials imported into Singapore that the CEO has determined, by _Gazette_ notice, to be manufactured raw materials of Singapore.
 
@@ -11807,11 +11751,9 @@ how the packaging materials or containers in which goods are packaged affects
 
 whether the goods are Thai originating goods.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Subdivision F deals with
+<li class="BoxList" style="margin-left:21.25pt">•      Subdivision F deals with how
 
-how the consignment of goods affects whether the goods are Thai originating
-
-goods.</li>
+the consignment of goods affects whether the goods are Thai originating goods.</li>
 
 * * *
 
@@ -12087,9 +12029,9 @@ materials only.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Subdivision D sets out when
 
-goods are New Zealand originating goods because they are produced entirely in New Zealand, or in New Zealand and Australia, from non‑originating materials only or from non‑originating
+goods are New Zealand originating goods because they are produced entirely in New Zealand, or in New Zealand and Australia, from non‑originating materials only or from
 
-materials and originating materials.</li>
+non‑originating materials and originating materials.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Subdivision E sets out when
 
@@ -13859,7 +13801,7 @@ their customs value is their fall‑back value.
 
                      (b)  divided by the number of units of the comparable identical goods.
 
-##### <a id="161B"></a>161B  Similar goods value
+##### <a id="161B"></a>161B  Similar goods value
 
              (1)  The similar goods value of imported goods is their value calculated as if the value of each of their units were:
 
