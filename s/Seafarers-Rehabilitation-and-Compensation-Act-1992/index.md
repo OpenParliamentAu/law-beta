@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image001.gif)
 
 # Seafarers Rehabilitation and Compensation Act 1992
 
 **Act No. 234 of 1992 as amended**
 
-This compilation was prepared on 20 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 8 February 2010
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,349 +14,349 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary** 
+**Part 1—Preliminary** 
 
     **Division 1—Short title and commencement**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
     **Division 2—Definitions**
 
-[3](#3).            General definitions
+[3](#3).            General definitions                                                                               2
 
-[4](#4).            Employees
+[4](#4).            Employees                                                                                         11
 
-[5](#5).            Employees lost at sea
+[5](#5).            Employees lost at sea                                                                        12
 
-[6](#6).            Injuries suffered by employees
+[6](#6).            Injuries suffered by employees                                                         12
 
-[7](#7).            Injuries etc  resulting from medical treatment
+[7](#7).            Injuries etc  resulting from medical treatment                                    12
 
-[8](#8).            Incapacity for work
+[8](#8).            Incapacity for work                                                                           12
 
-[9](#9).            Injury arising out of, or in the course of, employment
+[9](#9).            Injury arising out of, or in the course of, employment                      13
 
-[10](#10).          Provisions relating to diseases
+[10](#10).          Provisions relating to diseases                                                           15
 
-[11](#11).          Hearing impairment—time when suffered
+[11](#11).          Hearing impairment—time when suffered                                         17
 
-[12](#12).          Serious and wilful misconduct
+[12](#12).          Serious and wilful misconduct                                                           17
 
-[13](#13).          Normal weekly earnings
+[13](#13).          Normal weekly earnings                                                                    17
 
-[14](#14).          Recovery of damages
+[14](#14).          Recovery of damages                                                                         19
 
-[15](#15).          Persons who are wholly or partly dependent
+[15](#15).          Persons who are wholly or partly dependent                                   19
 
-[16](#16).          Certain family relationships
+[16](#16).          Certain family relationships                                                              20
 
-[17](#17).          Persons caring for prescribed children
+[17](#17).          Persons caring for prescribed children                                               20
 
     **Division 3—Miscellaneous preliminary provisions**
 
-[18](#18).          Extent of Act
+[18](#18).          Extent of Act                                                                                     21
 
-[19](#19).          Application of Act
+[19](#19).          Application of Act                                                                            21
 
-[20](#20).          Act not to apply to employees within the meaning of the _Safety, Rehabilitation and Compensation Act 1988_
+[20](#20).          Act not to apply to employees within the meaning of the _Safety, Rehabilitation and Compensation Act 1988_     22
 
-[20A](#20A).       Act not to apply to exempt employment
+[20A](#20A).       Act not to apply to exempt employment                                         22
 
-[21](#21).          Act binds Crown etc 
+[21](#21).          Act binds Crown etc                                                                          22
 
-[21A](#21A).       Application of _Criminal Code_
+[21A](#21A).       Application of _Criminal Code_                                                           23
 
-[22](#22).          Amounts of compensation
+[22](#22).          Amounts of compensation                                                                23
 
-[23](#23).          Indexation—Consumer Price Index
+[23](#23).          Indexation—Consumer Price Index                                                   23
 
-[23A](#23A).       Indexation—Wage Price Index
+[23A](#23A).       Indexation—Wage Price Index                                                           24
 
-[24](#24).          Liability to pay compensation
+[24](#24).          Liability to pay compensation                                                          26
 
-[25](#25).          Compensation to be paid in full
+[25](#25).          Compensation to be paid in full                                                        26
 
 **Part 2—Compensation** 
 
     **Division 1—Injuries, property loss or damage, medical expenses**
 
-[26](#26).          Compensation for injuries
+[26](#26).          Compensation for injuries                                                                 27
 
-[27](#27).          Compensation for property loss or damage
+[27](#27).          Compensation for property loss or damage                                      27
 
-[28](#28).          Compensation for medical and related expenses
+[28](#28).          Compensation for medical and related expenses                               28
 
     **Division 2—Injuries resulting in death**
 
-[29](#29).          Compensation for injuries resulting in death
+[29](#29).          Compensation for injuries resulting in death                                     31
 
-[30](#30).          Compensation in respect of funeral expenses
+[30](#30).          Compensation in respect of funeral expenses                                   33
 
     **Division 3—Injuries resulting in incapacity for work**
 
-[31](#31).          Compensation for injuries resulting in incapacity
+[31](#31).          Compensation for injuries resulting in incapacity                             34
 
-[32](#32).          Determination of suitable employment
+[32](#32).          Determination of suitable employment                                             37
 
-[33](#33).          Compensation for injuries resulting in incapacity where employee is in receipt of a superannuation pension
+[33](#33).          Compensation for injuries resulting in incapacity where employee is in receipt of a superannuation pension      38
 
-[34](#34).          Compensation for injuries resulting in incapacity where employee is in receipt of a lump sum benefit
+[34](#34).          Compensation for injuries resulting in incapacity where employee is in receipt of a lump sum benefit                39
 
-[35](#35).          Compensation for injuries resulting in incapacity where employee rolled‑over part of a lump sum benefit
+[35](#35).          Compensation for injuries resulting in incapacity where employee rolled-over part of a lump sum benefit          40
 
-[36](#36).          Compensation for injuries resulting in incapacity where the employee rolled‑over the whole of a lump sum benefit
+[36](#36).          Compensation for injuries resulting in incapacity where the employee rolled-over the whole of a lump sum benefit                                                                                                           41
 
-[37](#37).          Compensation where employee is maintained in a hospital
+[37](#37).          Compensation where employee is maintained in a hospital              42
 
-[38](#38).          Compensation for incapacity not payable in certain cases
+[38](#38).          Compensation for incapacity not payable in certain cases               43
 
     **Division 4—Injuries resulting in permanent impairment**
 
-[39](#39).          Compensation for injuries resulting in permanent impairment
+[39](#39).          Compensation for injuries resulting in permanent impairment         44
 
-[40](#40).          Interim payment of compensation
+[40](#40).          Interim payment of compensation                                                    45
 
-[41](#41).          Compensation for non‑economic loss
+[41](#41).          Compensation for non-economic loss                                               46
 
-[42](#42).          Approved Guide
+[42](#42).          Approved Guide                                                                                46
 
     **Division 5—Household and attendant care services**
 
-[43](#43).          Compensation for household services and attendant care services
+[43](#43).          Compensation for household services and attendant care services   49
 
     **Division 6—Miscellaneous**
 
-[44](#44).          Redemption of compensation
+[44](#44).          Redemption of compensation                                                            52
 
-[45](#45).          Recurrent payments after payment of lump sum
+[45](#45).          Recurrent payments after payment of lump sum                             53
 
-[46](#46).          Cancelled determinations not to affect certain payments of compensation
+[46](#46).          Cancelled determinations not to affect certain payments of compensation            53
 
-[47](#47).          Reduction of compensation in certain cases
+[47](#47).          Reduction of compensation in certain cases                                      54
 
 **Part 3—Rehabilitation**
 
-[48](#48).          Approved rehabilitation program providers
+[48](#48).          Approved rehabilitation program providers                                      55
 
-[49](#49).          Assessment of capability of undertaking rehabilitation program
+[49](#49).          Assessment of capability of undertaking rehabilitation program      55
 
-[50](#50).          Provision of rehabilitation programs
+[50](#50).          Provision of rehabilitation programs                                                 57
 
-[51](#51).          Compensation payable in respect of certain alterations etc 
+[51](#51).          Compensation payable in respect of certain alterations etc              60
 
-[52](#52).          Duty to provide suitable employment
+[52](#52).          Duty to provide suitable employment                                              61
 
 **Part 4—Liabilities arising apart from this Act**
 
-[53](#53).          Interpretation
+[53](#53).          Interpretation                                                                                     62
 
-[54](#54).          Employee not to have right to bring action for damages against employer etc  in certain cases
+[54](#54).          Employee not to have right to bring action for damages against employer etc  in certain cases              62
 
-[55](#55).          Actions for damages—election by employees
+[55](#55).          Actions for damages—election by employees                                  63
 
-[56](#56).          Notice of proceedings against third party
+[56](#56).          Notice of proceedings against third party                                         63
 
-[57](#57).          Notice of proceedings against employer
+[57](#57).          Notice of proceedings against employer                                            64
 
-[58](#58).          Compensation not payable if damages recovered
+[58](#58).          Compensation not payable if damages recovered                              65
 
-[59](#59).          Proceedings against third parties
+[59](#59).          Proceedings against third parties                                                       66
 
-[60](#60).          Payment of damages by persons to employer
+[60](#60).          Payment of damages by persons to employer                                  69
 
-[61](#61).          Compensation not payable both under Act and under award
+[61](#61).          Compensation not payable both under Act and under award           71
 
 **Part 5—Notices and claims**
 
-[62](#62).          Notice of injury or loss of, or damage to, property
+[62](#62).          Notice of injury or loss of, or damage to, property                          73
 
-[63](#63).          Claims for compensation
+[63](#63).          Claims for compensation                                                                   74
 
-[64](#64).          Survival of claims
+[64](#64).          Survival of claims                                                                               74
 
-[65](#65).          Claims may not be made in certain cases
+[65](#65).          Claims may not be made in certain cases                                           75
 
-[66](#66).          Power to require medical examination
+[66](#66).          Power to require medical examination                                               75
 
-[67](#67).          Power to request the provision of information relevant to claim
+[67](#67).          Power to request the provision of information relevant to claim      77
 
-[68](#68).          Certain documents to be supplied on request
+[68](#68).          Certain documents to be supplied on request                                   78
 
-[69](#69).          Neither section 67 nor 68 to affect legal professional privilege
+[69](#69).          Neither section 67 nor 68 to affect legal professional privilege         78
 
-[70](#70).          Legal professional privilege not to apply to medical reports
+[70](#70).          Legal professional privilege not to apply to medical reports            78
 
-[71](#71).          Bankruptcy etc  of actual employer
+[71](#71).          Bankruptcy etc  of actual employer                                                  78
 
-[72](#72).          Time limit for determining claims relating to death
+[72](#72).          Time limit for determining claims relating to death                           79
 
-[73](#73).          Time limit for determining claims relating to incapacity for work, loss of or damage to property or cost of medical treatment
+[73](#73).          Time limit for determining claims relating to incapacity for work, loss of or damage to property or cost of medical treatment                                                                                            80
 
-[73A](#73A).       Time limit for determining claims relating to permanent impairment
+[73A](#73A).       Time limit for determining claims relating to permanent impairment 81
 
-[74](#74).          Employer may seek review of Authority’s decision
+[74](#74).          Employer may seek review of Authority’s decision                         82
 
-[75](#75).          Sections 72 to 74 (inclusive) not to apply to Authority if declaration made under section 100
+[75](#75).          Sections 72 to 74 (inclusive) not to apply to Authority if declaration made under section 100             82
 
 **Part 6—Reconsideration of determinations and review of decisions by the Administrative Appeals Tribunal** 
 
     **Division 1—Definitions**
 
-[76](#76).          Interpretation
+[76](#76).          Interpretation                                                                                     83
 
     **Division 2—Reconsideration of determinations by employers**
 
-[77](#77).          Determinations to be notified in writing
+[77](#77).          Determinations to be notified in writing                                            84
 
-[78](#78).          Reconsiderations of determinations
+[78](#78).          Reconsiderations of determinations                                                   84
 
-[79](#79).          Time limit for reconsideration of determinations
+[79](#79).          Time limit for reconsideration of determinations                              85
 
-[80](#80).          Employer may seek review of Authority’s decision
+[80](#80).          Employer may seek review of Authority’s decision                         86
 
-[81](#81).          Sections 79 and 80 not to apply to Authority if declaration made under section 100
+[81](#81).          Sections 79 and 80 not to apply to Authority if declaration made under section 100            87
 
-[82](#82).          Industry panel or Comcare to give copy of report to employer to claimant
+[82](#82).          Industry panel or Comcare to give copy of report to employer to claimant           87
 
-[83](#83).          Power to request the provision of information relevant to reconsideration
+[83](#83).          Power to request the provision of information relevant to reconsideration            87
 
-[83A](#83A).       Power to request employee to undergo medical examination
+[83A](#83A).       Power to request employee to undergo medical examination            88
 
-[84](#84).          Section 83 not to affect legal professional privilege
+[84](#84).          Section 83 not to affect legal professional privilege                          90
 
-[85](#85).          Legal professional privilege not to apply to medical reports
+[85](#85).          Legal professional privilege not to apply to medical reports            90
 
-[86](#86).          Bankruptcy etc  of employer
+[86](#86).          Bankruptcy etc  of employer                                                            90
 
-[87](#87).          Reviewable decision to be notified in writing
+[87](#87).          Reviewable decision to be notified in writing                                    91
 
-[88](#88).          Applications to the AAT
+[88](#88).          Applications to the AAT                                                                  91
 
     **Division 3—AAT review of reviewable decisions and extension of time decisions**
 
-[89](#89).          Modified AAT Act to apply
+[89](#89).          Modified AAT Act to apply                                                            92
 
-[90](#90).          Evidence in proceedings before AAT
+[90](#90).          Evidence in proceedings before AAT                                                93
 
-[91](#91).          Costs of proceedings before AAT—general
+[91](#91).          Costs of proceedings before AAT—general                                      94
 
-[92](#92).          Costs of proceedings before AAT—when costs payable by employer
+[92](#92).          Costs of proceedings before AAT—when costs payable by employer  96
 
 **Part 7—Compulsory insurance and the Fund** 
 
     **Division 1—Compulsory insurance**
 
-[93](#93).          Compulsory insurance
+[93](#93).          Compulsory insurance                                                                       98
 
-[94](#94).          Employer to give details of insurance or indemnity arrangements to Authority
+[94](#94).          Employer to give details of insurance or indemnity arrangements to Authority     99
 
-[95](#95).          Authority may require evidence from employer
+[95](#95).          Authority may require evidence from employer                               99
 
     **Division 2—The Fund**
 
-[96](#96).          The Fund
+[96](#96).          The Fund                                                                                         100
 
-[97](#97).          Fund to insure
+[97](#97).          Fund to insure                                                                                  100
 
-[98](#98).          Fund to provide Authority with financial information
+[98](#98).          Fund to provide Authority with financial information                   100
 
-[99](#99).          Minister may revoke approval under section 96
+[99](#99).          Minister may revoke approval under section 96                             101
 
     **Division 3—Reserve function of Authority**
 
-[100](#100).        Ministerial declaration
+[100](#100).        Ministerial declaration                                                                     102
 
-[101](#101).        Effect of Ministerial declaration
+[101](#101).        Effect of Ministerial declaration                                                      102
 
-[102](#102).        Authority to insure if declaration made under section 100
+[102](#102).        Authority to insure if declaration made under section 100             102
 
 **Part 8—Administration** 
 
     **Division 1—Seafarers Safety, Rehabilitation and Compensation Authority**
 
-[103](#103).        Establishment
+[103](#103).        Establishment                                                                                  103
 
-[104](#104).        Functions
+[104](#104).        Functions                                                                                         103
 
-[105](#105).        Powers
+[105](#105).        Powers                                                                                             104
 
-[106](#106).        Power to obtain information
+[106](#106).        Power to obtain information                                                            104
 
-[107](#107).        Directions by Minister
+[107](#107).        Directions by Minister                                                                    104
 
     **Division 2—Constitution and meetings of Authority**
 
-[109](#109).        Constitution
+[109](#109).        Constitution                                                                                     106
 
-[110](#110).        Appointment of members
+[110](#110).        Appointment of members                                                               106
 
-[111](#111).        Term of office
+[111](#111).        Term of office                                                                                  106
 
-[112](#112).        Deputies of members
+[112](#112).        Deputies of members                                                                       107
 
-[113](#113).        Persons acting as Chairperson or Deputy Chairperson
+[113](#113).        Persons acting as Chairperson or Deputy Chairperson                  107
 
-[114](#114).        Remuneration and allowances
+[114](#114).        Remuneration and allowances                                                          108
 
-[115](#115).        Leave of absence
+[115](#115).        Leave of absence                                                                              108
 
-[116](#116).        Disclosure of interests
+[116](#116).        Disclosure of interests                                                                     108
 
-[117](#117).        Resignation
+[117](#117).        Resignation                                                                                      109
 
-[118](#118).        Termination of appointment
+[118](#118).        Termination of appointment                                                           109
 
-[119](#119).        Meetings
+[119](#119).        Meetings                                                                                          110
 
     **Division 4—Miscellaneous**
 
-[125](#125).        Delegation by Authority and sub‑delegation
+[125](#125).        Delegation by Authority and sub-delegation                                   111
 
-[125A](#125A).     Annual Report
+[125A](#125A).     Annual Report                                                                                 111
 
 **Part 9—Miscellaneous**
 
-[126](#126).        Employee to give information about prior employers
+[126](#126).        Employee to give information about prior employers                    113
 
-[127](#127).        Determinations to be in writing
+[127](#127).        Determinations to be in writing                                                       113
 
-[128](#128).        Shared liability
+[128](#128).        Shared liability                                                                                 113
 
-[129](#129).        Subrogation of rights of actual employer to Fund
+[129](#129).        Subrogation of rights of actual employer to Fund                           114
 
-[130](#130).        Payment of compensation
+[130](#130).        Payment of compensation                                                               114
 
-[131](#131).        Employee to notify other employers that compensation has been paid
+[131](#131).        Employee to notify other employers that compensation has been paid 115
 
-[132](#132).        Recovery of compensation payments
+[132](#132).        Recovery of compensation payments                                             115
 
-[133](#133).        Money paid for benefit of person
+[133](#133).        Money paid for benefit of person                                                   115
 
-[134](#134).        Provisions applicable on death of beneficiary
+[134](#134).        Provisions applicable on death of beneficiary                                 116
 
-[135](#135).        Assignment, set‑off or attachment of compensation
+[135](#135).        Assignment, set-off or attachment of compensation                       117
 
-[136](#136).        Recovery of overpayments
+[136](#136).        Recovery of overpayments                                                             117
 
-[137](#137).        Employees on compensation leave
+[137](#137).        Employees on compensation leave                                                  118
 
-[139](#139).        Compensation where State compensation payable
+[139](#139).        Compensation where State compensation payable                         118
 
-[139A](#139A).     Exclusion of State laws relating to workers’ compensation
+[139A](#139A).     Exclusion of State laws relating to workers’ compensation            120
 
-[140](#140).        Notice of departure from Australia etc 
+[140](#140).        Notice of departure from Australia etc                                            120
 
-[141](#141).        Comcare may charge for officer’s services provided to employer
+[141](#141).        Comcare may charge for officer’s services provided to employer  121
 
-[142](#142).        Disallowable instruments
+[142](#142).        Disallowable instruments                                                                121
 
-[143](#143).        Regulations
+[143](#143).        Regulations                                                                                      121
 
 **Notes** 
 
@@ -446,7 +446,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             (iii)  compounds with the employer’s creditors for their benefit; or
 
-                            (iv)  if the employer is a body corporate—is being wound‑up; or
+                            (iv)  if the employer is a body corporate—is being wound-up; or
 
                              (v)  if the employer is a body corporate—ceases to exist; or
 
@@ -458,7 +458,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  who is the spouse of the employee; or
 
-                     (b)  who is the parent, step‑parent, father‑in‑law, mother‑in‑law, grandparent, child, stepchild, grandchild, sibling or half‑sibling of the employee; or
+                     (b)  who is the parent, step-parent, father-in-law, mother-in-law, grandparent, child, stepchild, grandchild, sibling or half-sibling of the employee; or
 
                      (c)  in relation to whom the employee stood in the position of a parent or who stood in the position of a parent to the employee;
 
@@ -490,7 +490,7 @@ being an ailment or an aggravation that was contributed to in a material degree 
 
                      (b)  the beneficial interest in which is vested in the Commonwealth or a State or Territory; or
 
-                     (c)  that is for the time being demised or sub‑demised to, or in the exclusive possession of, the Commonwealth or a State or Territory;
+                     (c)  that is for the time being demised or sub-demised to, or in the exclusive possession of, the Commonwealth or a State or Territory;
 
 and includes a ship that belongs to an arm of the Defence Force, but does not include a ship:
 
@@ -498,7 +498,7 @@ and includes a ship that belongs to an arm of the Defence Force, but does not in
 
                      (e)  the beneficial interest in which is vested in such a trading corporation; or
 
-                      (f)  that is for the time being demised or sub‑demised to, or in the exclusive possession of, such a trading corporation; or
+                      (f)  that is for the time being demised or sub-demised to, or in the exclusive possession of, such a trading corporation; or
 
                      (g)  that is operated by seafarers supplied (directly or indirectly) by a corporation under a contract with the Commonwealth or a State or Territory.
 
@@ -558,7 +558,7 @@ but does not include anything suffered by an employee as a result of reasonable 
 
                     <a name="navig-act"></a>**_Navigation Act_** means the _Navigation Act 1912_.
 
-                    <a name="non-econom-loss"></a>**_non‑economic loss_**, in relation to an employee who has suffered an injury resulting in a permanent impairment, means loss or damage of a non‑economic kind suffered by the employee (including pain and suffering, a loss of expectation of life or a loss of the amenities or enjoyment of life) as a result of that injury or impairment and of which the employee is aware.
+                    <a name="non-econom-loss"></a>**_non-economic loss_**, in relation to an employee who has suffered an injury resulting in a permanent impairment, means loss or damage of a non-economic kind suffered by the employee (including pain and suffering, a loss of expectation of life or a loss of the amenities or enjoyment of life) as a result of that injury or impairment and of which the employee is aware.
 
                     <a name="normal-weekli-earning"></a>**_normal weekly earnings_** means the normal weekly earnings of an employee worked out under section 13.
 
@@ -588,7 +588,7 @@ but does not include anything suffered by an employee as a result of reasonable 
 
                               (i)  is 16 or over but under 25; and
 
-                             (ii)  is receiving full‑time education at a school, college, university or other educational institution; and
+                             (ii)  is receiving full-time education at a school, college, university or other educational institution; and
 
                             (iii)  is not ordinarily in employment or engaged in work on his or her own account.
 
@@ -598,7 +598,7 @@ but does not include anything suffered by an employee as a result of reasonable 
 
                      (b)  any of the following who is 16 or over:
 
-                              (i)  the parent, step‑parent, father‑in‑law, mother‑in‑law, grandparent, child, stepchild, grandchild, sibling or half‑sibling of the employee;
+                              (i)  the parent, step-parent, father-in-law, mother-in-law, grandparent, child, stepchild, grandchild, sibling or half-sibling of the employee;
 
                              (ii)  a person in relation to whom the employee stands in the position of a parent or who stands in the position of a parent to the employee;
 
@@ -610,7 +610,7 @@ Note:          see also sections 16 and 17.
 
                     <a name="properti-used-employe"></a>**_property used by an employee_** means an artificial limb or other artificial substitute, or a medical, surgical or other similar aid or appliance, used by the employee.
 
-                    <a name="rehabilit-program"></a>**_rehabilitation program_** includes medical, dental, psychiatric and hospital services (whether on an in‑patient or out‑patient basis), physical training and exercise, physiotherapy, occupational therapy and vocational training.
+                    <a name="rehabilit-program"></a>**_rehabilitation program_** includes medical, dental, psychiatric and hospital services (whether on an in-patient or out-patient basis), physical training and exercise, physiotherapy, occupational therapy and vocational training.
 
                     <a name="seafar"></a>**_seafarer_** means a person employed in any capacity on a prescribed ship, on the business of the ship, other than:
 
@@ -630,9 +630,9 @@ Note:          see also sections 16 and 17.
 
                     <a name="stepchild"></a><a name="stepchild"></a>**_stepchild_**: without limiting who is a stepchild of a person for the purposes of this Act, someone who is a child of a de facto partner of the person is the **_stepchild_** of the person if he or she would be the person’s stepchild except that the person is not legally married to the partner.
 
-                    <a name="step-parent"></a><a name="step-parent"></a>**_step‑parent_**: without limiting who is a step‑parent of a person for the purposes of this Act, someone who is a de facto partner of a parent of the person is the **_step‑parent_** of the person if he or she would be the person’s step‑parent except that he or she is not legally married to the person’s parent.
+                    <a name="step-parent"></a><a name="step-parent"></a>**_step-parent_**: without limiting who is a step-parent of a person for the purposes of this Act, someone who is a de facto partner of a parent of the person is the **_step-parent_** of the person if he or she would be the person’s step-parent except that he or she is not legally married to the person’s parent.
 
-                    <a name="suitabl-employ"></a>**_suitable employment_**, in relation to an employee who has suffered an injury in respect of which compensation is payable under this Act, means any employment (including self‑employment) for which the employee is suited having regard to:
+                    <a name="suitabl-employ"></a>**_suitable employment_**, in relation to an employee who has suffered an injury in respect of which compensation is payable under this Act, means any employment (including self-employment) for which the employee is suited having regard to:
 
                      (a)  the employee’s age, experience, training, language and other skills; and
 
@@ -938,7 +938,7 @@ is taken to be a person who was wholly dependent on the employee at that date.
 
           (1A)  In addition, this Act applies to the employment of employees on any prescribed ship that is:
 
-                     (a)  an off‑shore industry vessel in relation to which a declaration under subsection 8A(2) of the Navigation Act is in force; or
+                     (a)  an off-shore industry vessel in relation to which a declaration under subsection 8A(2) of the Navigation Act is in force; or
 
                      (b)  a trading ship in relation to which a declaration under subsection 8AA(2) of that Act is in force.
 
@@ -1018,7 +1018,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  in any other case—the relevant amount.
 
-             (5)  The factor worked out in relation to a relevant year is the number (calculated to 3 decimal places) worked out by dividing the index number of the December quarter immediately before the relevant year by the index number for the December quarter immediately before that first‑mentioned December quarter.
+             (5)  The factor worked out in relation to a relevant year is the number (calculated to 3 decimal places) worked out by dividing the index number of the December quarter immediately before the relevant year by the index number for the December quarter immediately before that first-mentioned December quarter.
 
              (6)  If the factor worked out in relation to a relevant year would, if it were calculated to 4 decimal places, end with a number greater than 4, the factor in relation to that relevant year is taken to be the factor calculated to 3 decimal places in accordance with subsection (5) and increased by 0.001.
 
@@ -1062,7 +1062,7 @@ Indexation factor
 
              (3)  For the purposes of this section, the **_indexation factor_** for a relevant year is the number calculated, to 3 decimal places, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image002.gif)
 
 where:
 
@@ -1100,9 +1100,9 @@ then, for the purposes of the application of this section after the change took 
 
              (1)  If an employee suffers an injury that results in his or her death, incapacity for work, or impairment, compensation is payable for the injury.
 
-             (2)  Compensation is not payable for an intentionally self‑inflicted injury.
+             (2)  Compensation is not payable for an intentionally self-inflicted injury.
 
-             (3)  Compensation is not payable for an injury that is not intentionally self‑inflicted but is caused by the serious and wilful misconduct of the employee, unless the injury results in death, or serious and permanent impairment.
+             (3)  Compensation is not payable for an injury that is not intentionally self-inflicted but is caused by the serious and wilful misconduct of the employee, unless the injury results in death, or serious and permanent impairment.
 
 ##### <a id="27"></a>27  Compensation for property loss or damage
 
@@ -1154,7 +1154,7 @@ compensation is payable for the cost of the medical treatment, of such amount as
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -1268,7 +1268,7 @@ from the date of the employee’s death or the date of the birth of the child, w
 
              (2)  Subject to subsection (3) and this Part (other than this section), compensation for the injury is payable to the employee, for each of the first 45 weeks (whether consecutive or otherwise) during which the employee is incapacitated, of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image004.gif)
 
 where:
 
@@ -1356,7 +1356,7 @@ subsection (10) applies to one of those children and subsection (11) applies
 
                      (d)  if, after becoming incapacitated for work, the employee received an offer of suitable employment on condition that the employee completed a reasonable rehabilitation or vocational retraining program and the employee did not fulfil that condition—the amount per week that the employee would be earning in that employment if he or she were engaged in that employment;
 
-                     (e)  if, after becoming incapacitated for work, the employee has not sought suitable employment—the amount per week that, having regard to the state of the labour‑market at the relevant time, the employee could reasonably be expected to earn in such employment if he or she were engaged in such employment;
+                     (e)  if, after becoming incapacitated for work, the employee has not sought suitable employment—the amount per week that, having regard to the state of the labour-market at the relevant time, the employee could reasonably be expected to earn in such employment if he or she were engaged in such employment;
 
                       (f)  if paragraph (b), (c), (d) or (e) applies to the employee—whether the employee’s failure to accept an offer of employment, to engage, or to continue to engage, in employment, to undertake, or to complete, a rehabilitation or vocational retraining program or to seek employment, as the case may be, was, in the opinion of the employer, reasonable in all the circumstances;
 
@@ -1376,7 +1376,7 @@ subsection (10) applies to one of those children and subsection (11) applies
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image005.gif)
 
 where:
 
@@ -1400,13 +1400,13 @@ where:
 
                      (c)  as a result of the retirement, receives a lump sum benefit under a superannuation scheme; and
 
-                     (d)  has not rolled‑over the lump sum benefit into another superannuation fund or an approved deposit fund.
+                     (d)  has not rolled-over the lump sum benefit into another superannuation fund or an approved deposit fund.
 
              (2)  Compensation is payable to the employee for the injury under this section for each week after the date of the retirement during which the employee is incapacitated.
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image006.gif)
 
 where:
 
@@ -1424,11 +1424,11 @@ where:
 
                     <a name="approved-deposit-fund"></a>**_approved deposit fund_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
-                    <a name="roll"></a>**_rolled‑over_** means paid as a roll‑over superannuation benefit (within the meaning of the _Income Tax Assessment Act 1997_).
+                    <a name="roll"></a>**_rolled-over_** means paid as a roll-over superannuation benefit (within the meaning of the _Income Tax Assessment Act 1997_).
 
                     <a name="superannu-fund"></a>**_superannuation fund_** has the same meaning as in Subdivision AA of Division 2 of Part III of the _Income Tax Assessment Act 1936_ (as in force just before the commencement of Schedule 1 to the _Superannuation Legislation Amendment (Simplification) Act 2007_).
 
-##### <a id="35"></a>35  Compensation for injuries resulting in incapacity where employee rolled‑over part of a lump sum benefit
+##### <a id="35"></a>35  Compensation for injuries resulting in incapacity where employee rolled-over part of a lump sum benefit
 
              (1)  This section applies to an employee who:
 
@@ -1438,13 +1438,13 @@ where:
 
                      (c)  as a result of the retirement, receives a lump sum benefit under a superannuation scheme; and
 
-                     (d)  rolled‑over part of the lump sum benefit into a superannuation fund or an approved deposit fund.
+                     (d)  rolled-over part of the lump sum benefit into a superannuation fund or an approved deposit fund.
 
              (2)  Compensation is payable to the employee for the injury under this section for each week after the date of the retirement during which the employee is incapacitated.
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image007.gif)
 
 where:
 
@@ -1454,7 +1454,7 @@ where:
 
                      (b)  the week were a week referred to in subsection 31(4).
 
-                    <a name="amount-not-roll"></a>**_Amount not rolled‑over_** means the amount not rolled‑over or withdrawn from the superannuation fund or approved deposit fund to which the lump sum benefit was rolled‑over.
+                    <a name="amount-not-roll"></a>**_Amount not rolled-over_** means the amount not rolled-over or withdrawn from the superannuation fund or approved deposit fund to which the lump sum benefit was rolled-over.
 
                     <a name="lump-sum-benefit"></a>**_Lump sum benefit_** means the amount of the lump sum benefit received by the employee.
 
@@ -1464,11 +1464,11 @@ where:
 
                     <a name="approved-deposit-fund"></a>**_approved deposit fund_** has the same meaning as in section 34.
 
-                    <a name="roll"></a>**_rolled‑over_** has the same meaning as in section 34.
+                    <a name="roll"></a>**_rolled-over_** has the same meaning as in section 34.
 
                     <a name="superannu-fund"></a>**_superannuation fund_** has the same meaning as in section 34.
 
-##### <a id="36"></a>36  Compensation for injuries resulting in incapacity where the employee rolled‑over the whole of a lump sum benefit
+##### <a id="36"></a>36  Compensation for injuries resulting in incapacity where the employee rolled-over the whole of a lump sum benefit
 
              (1)  This section applies to an employee who:
 
@@ -1478,13 +1478,13 @@ where:
 
                      (c)  as a result of the retirement, receives a lump sum benefit under a superannuation scheme; and
 
-                     (d)  rolled‑over the lump sum benefit into a superannuation fund or an approved deposit fund.
+                     (d)  rolled-over the lump sum benefit into a superannuation fund or an approved deposit fund.
 
              (2)  Compensation is payable to the employee for the injury under this section for each week after the date of the retirement during which the employee is incapacitated.
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image008.gif)
 
 where:
 
@@ -1500,7 +1500,7 @@ where:
 
                     <a name="approved-deposit-fund"></a>**_approved deposit fund_** has the same meaning as in section 34.
 
-                    <a name="roll"></a>**_rolled‑over_** has the same meaning as in section 34.
+                    <a name="roll"></a>**_rolled-over_** has the same meaning as in section 34.
 
                     <a name="superannu-fund"></a>**_superannuation fund_** has the same meaning as in section 34.
 
@@ -1518,7 +1518,7 @@ compensation is payable to the employee for the injury of the amount, for each w
 
                      (d)  the period during which the employee is likely to be such a patient.
 
-             (2)  An amount determined under subsection (1) must not be less than one‑half of, nor more than, the amount per week of compensation that would have been payable to the employee under section 31 had that section applied to the employee.
+             (2)  An amount determined under subsection (1) must not be less than one-half of, nor more than, the amount per week of compensation that would have been payable to the employee under section 31 had that section applied to the employee.
 
 ##### <a id="38"></a>38  Compensation for incapacity not payable in certain cases
 
@@ -1584,19 +1584,19 @@ the employer must, on the written request of the employee made at any time befor
 
              (4)  If a final assessment is made of the degree of permanent impairment of an employee, no further amounts of compensation are payable to the employee in respect of a subsequent increase in the degree of impairment, unless the increase is 10% or more.
 
-##### <a id="41"></a>41  Compensation for non‑economic loss
+##### <a id="41"></a>41  Compensation for non-economic loss
 
-             (1)  If an injury to an employee results in a permanent impairment and compensation is payable for the injury under section 39, the employer is liable to pay additional compensation in accordance with this section to the employee for any non‑economic loss suffered by the employee as a result of the injury or impairment.
+             (1)  If an injury to an employee results in a permanent impairment and compensation is payable for the injury under section 39, the employer is liable to pay additional compensation in accordance with this section to the employee for any non-economic loss suffered by the employee as a result of the injury or impairment.
 
              (2)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image009.gif)
 
 where:
 
                     <a name="degre-perman-impair"></a>**_Degree of permanent impairment_** means the percentage finally determined under section 39 to be the degree of permanent impairment of the employee.
 
-                    <a name="degre-non-econom-loss"></a>**_Degree of non‑economic loss_** means the percentage determined under the approved Guide, by the employer, to be the degree of non‑economic loss suffered by the employee.
+                    <a name="degre-non-econom-loss"></a>**_Degree of non-economic loss_** means the percentage determined under the approved Guide, by the employer, to be the degree of non-economic loss suffered by the employee.
 
 ##### <a id="42"></a>42  Approved Guide
 
@@ -1604,19 +1604,19 @@ where:
 
                      (a)  criteria by reference to which the degree of the permanent impairment of an employee resulting from an injury must be determined; and
 
-                     (b)  criteria by reference to which the degree of non‑economic loss suffered by an employee as a result of an injury or impairment must be determined; and
+                     (b)  criteria by reference to which the degree of non-economic loss suffered by an employee as a result of an injury or impairment must be determined; and
 
-                     (c)  methods by which the degree of permanent impairment and the degree of non‑economic loss, as determined under those criteria, must be expressed as a percentage.
+                     (c)  methods by which the degree of permanent impairment and the degree of non-economic loss, as determined under those criteria, must be expressed as a percentage.
 
              (2)  The Authority may, from time to time, by instrument in writing, vary or revoke the approved Guide.
 
              (3)  A document prepared by the Authority under subsection (1), and an instrument under subsection (2), have no force or effect unless and until approved by the Minister.
 
-             (4)  If an employer or the Administrative Appeals Tribunal is required to assess or reassess, or review the assessment or reassessment of, the degree of permanent impairment of an employee resulting from an injury, or the degree of non‑economic loss suffered by an employee, the assessment, reassessment or review must be made in accordance with the approved Guide.
+             (4)  If an employer or the Administrative Appeals Tribunal is required to assess or reassess, or review the assessment or reassessment of, the degree of permanent impairment of an employee resulting from an injury, or the degree of non-economic loss suffered by an employee, the assessment, reassessment or review must be made in accordance with the approved Guide.
 
-             (5)  The percentage of permanent impairment or non‑economic loss suffered by an employee as a result of an injury ascertained under the methods referred to in paragraph (1)(c) may be 0%.
+             (5)  The percentage of permanent impairment or non-economic loss suffered by an employee as a result of an injury ascertained under the methods referred to in paragraph (1)(c) may be 0%.
 
-             (6)  In preparing criteria for the purposes of paragraphs (1)(a) and (b), or in varying those criteria, the Authority must have regard to medical opinion concerning the nature and effect (including possible effect) of the injury and the extent (if any) to which impairment resulting from the injury, or non‑economic loss resulting from the injury or impairment, may reasonably be capable of being reduced or removed.
+             (6)  In preparing criteria for the purposes of paragraphs (1)(a) and (b), or in varying those criteria, the Authority must have regard to medical opinion concerning the nature and effect (including possible effect) of the injury and the extent (if any) to which impairment resulting from the injury, or non-economic loss resulting from the injury or impairment, may reasonably be capable of being reduced or removed.
 
              (7)  When a document prepared by the Authority in accordance with subsection (1), or an instrument under subsection (2), has been approved by the Minister, the Authority must cause copies of the document or instrument, as the case may be, to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives those copies.
 
@@ -1702,7 +1702,7 @@ the employer must make a determination that any liability to make further paymen
 
              (2)  The amount of the lump sum is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image010.gif)
 
 where:
 
@@ -1790,7 +1790,7 @@ compensation is payable to the employee under this section during the period of 
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -1798,7 +1798,7 @@ where:
 
                     <a name="number-kilometr-travel"></a>**_Number of kilometres travelled_** means the number of whole kilometres that the employer determines to have been the reasonable length of such a journey (including the return part of the journey).
 
-       (6BA)  If the place where the employee is residing is not the place where the employee normally resides, the amount payable in respect of the journey is not to exceed the amount that would be payable if the journey were made from the place where the employee normally resides.
+        (6BA)  If the place where the employee is residing is not the place where the employee normally resides, the amount payable in respect of the journey is not to exceed the amount that would be payable if the journey were made from the place where the employee normally resides.
 
           (6C)  The amount of compensation that the employer is liable to pay in respect of the employee remaining at a place for the purpose of undergoing the examination is an amount equal to the expenditure so reasonably incurred in remaining for that purpose.
 
@@ -1842,7 +1842,7 @@ make arrangements with an approved program provider for the provision of an appr
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -1850,7 +1850,7 @@ where:
 
                     <a name="number-kilometr-travel"></a>**_Number of kilometres travelled_** means the number of whole kilometres that the employer determines to have been the reasonable length of such a journey (including the return part of the journey).
 
-       (2BA)  If the place where the employee is residing is not the place where the employee normally resides, the amount payable in respect of the journey is not to exceed the amount that would be payable if the journey were made from the place where the employee normally resides.
+        (2BA)  If the place where the employee is residing is not the place where the employee normally resides, the amount payable in respect of the journey is not to exceed the amount that would be payable if the journey were made from the place where the employee normally resides.
 
           (2C)  The amount of compensation that the employer is liable to pay in respect of the employee remaining at a place for the purpose of undertaking the rehabilitation program is an amount equal to the expenditure so reasonably incurred in remaining for that purpose.
 
@@ -1860,7 +1860,7 @@ where:
 
                      (b)  in relation to a journey to which paragraph (2B)(b) applies—the reasonable length of such a journey exceeded 50 kilometres.
 
-          (2E)  In deciding questions arising under subsections (2A), (2B), (2BA), (2C) and (2D), the employer must have regard to the following matters:
+           (2E)  In deciding questions arising under subsections (2A), (2B), (2BA), (2C) and (2D), the employer must have regard to the following matters:
 
                      (a)  the means of transport available to the employee for the journey;
 
@@ -1870,9 +1870,9 @@ where:
 
              (3)  If an employee is undertaking a rehabilitation program under this section, compensation is not payable to the employee under section 31, 33, 34, 35, 36 or 45 but:
 
-                     (a)  if the employee is undertaking a full‑time program—compensation is payable to the employee of an amount per week equal to the amount per week of the compensation that would, but for this subsection, have been payable under section 31, 33, 34, 35, 36 or 45 if the incapacity referred to in that section had continued throughout the period of the program; or
+                     (a)  if the employee is undertaking a full-time program—compensation is payable to the employee of an amount per week equal to the amount per week of the compensation that would, but for this subsection, have been payable under section 31, 33, 34, 35, 36 or 45 if the incapacity referred to in that section had continued throughout the period of the program; or
 
-                     (b)  if the employee is undertaking a part‑time program—compensation is payable to the employee of such amount per week as the employer determines, being an amount not less than the amount per week of the compensation that, apart from this subsection, would have been payable to the employee under this Act and not greater than the amount per week of the compensation that would have been payable under paragraph (a) if the employee had been undertaking a full‑time program.
+                     (b)  if the employee is undertaking a part-time program—compensation is payable to the employee of such amount per week as the employer determines, being an amount not less than the amount per week of the compensation that, apart from this subsection, would have been payable to the employee under this Act and not greater than the amount per week of the compensation that would have been payable under paragraph (a) if the employee had been undertaking a full-time program.
 
              (5)  If an employee, without reasonable excuse, does not undertake a rehabilitation program provided for the employee under this section, the employee’s rights to compensation under this Act, and to institute or continue any proceedings under this Act in relation to compensation, are suspended until the employee starts to undertake the program.
 
@@ -1964,9 +1964,9 @@ being alterations, modifications or aids or appliances reasonably required by th
 
                      (a)  compensation is payable under section 39, 40 or 41 in respect of an injury to an employee; and
 
-                     (b)  the employee’s employer or another employee would, apart from subsection 54(1), be liable for damages for any non‑economic loss suffered by the employee because of the injury;
+                     (b)  the employee’s employer or another employee would, apart from subsection 54(1), be liable for damages for any non-economic loss suffered by the employee because of the injury;
 
-the employee may make an election in accordance with subsection (2) to institute an action or proceeding against the employer or other employee for damages for that non‑economic loss.
+the employee may make an election in accordance with subsection (2) to institute an action or proceeding against the employer or other employee for damages for that non-economic loss.
 
              (2)  An election:
 
@@ -1980,11 +1980,11 @@ the employee may make an election in accordance with subsection (2) to institu
 
              (4)  If an employee makes an election:
 
-                     (a)  subsection 54(1) does not apply in relation to an action or other proceeding subsequently instituted by the employee against the employer or another employee for damages for the non‑economic loss to which the election relates; and
+                     (a)  subsection 54(1) does not apply in relation to an action or other proceeding subsequently instituted by the employee against the employer or another employee for damages for the non-economic loss to which the election relates; and
 
                      (b)  compensation is not payable after the date of the election under section 39, 40 or 41 in respect of the injury.
 
-             (5)  In any action or proceeding instituted because of an election made by an employee, the court is not to award the employee damages of an amount exceeding $138,570.52 for any non‑economic loss suffered by the employee.
+             (5)  In any action or proceeding instituted because of an election made by an employee, the court is not to award the employee damages of an amount exceeding $138,570.52 for any non-economic loss suffered by the employee.
 
 ##### <a id="56"></a>56  Notice of proceedings against third party
 
@@ -2224,7 +2224,7 @@ the notice is taken to have been given under this section if:
 
                      (c)  the employer to whom it was given would not thereby be prejudiced; or
 
-                     (d)  the non‑compliance resulted from the death, or absence from Australia, of a person, or from ignorance, or mistake, or any other reasonable cause.
+                     (d)  the non-compliance resulted from the death, or absence from Australia, of a person, or from ignorance, or mistake, or any other reasonable cause.
 
 ##### <a id="63"></a>63  Claims for compensation
 
@@ -2286,7 +2286,7 @@ the employer to whom the notice of claim is given may require the employee to un
 
           (4B)  If the journey referred to in paragraph (4)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -2518,7 +2518,7 @@ then the claimant must give the information to the Fund.
 
              (4)  On receipt of a request, the employer must for the purposes of this section:
 
-                     (a)  if the employer is a party to a collective agreement or a pre‑reform certified agreement that relates to industry panels—arrange for an industry panel; or
+                     (a)  if the employer is a party to a collective agreement or a pre-reform certified agreement that relates to industry panels—arrange for an industry panel; or
 
                      (b)  in any other case—arrange with Comcare for a Comcare officer;
 
@@ -2604,7 +2604,7 @@ the employer may, by written notice given to the claimant, ask the claimant to g
 
              (5)  If the journey referred to in paragraph (3)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -2706,7 +2706,7 @@ subject to the modifications set out in this section.
 
              (2)  Section 20A of the AAT Act has effect as if the reference to any place in Australia or an external Territory were a reference to any place, whether within or outside Australia.
 
-             (3)  Subsection 29(2) of the AAT Act has effect as if the reference to “the twenty‑eighth day” (first occurring) were a reference to “the sixtieth day”.
+             (3)  Subsection 29(2) of the AAT Act has effect as if the reference to “the twenty-eighth day” (first occurring) were a reference to “the sixtieth day”.
 
              (4)  If:
 
@@ -2818,7 +2818,7 @@ the employer may make a declaration, in writing, that subsection (2) does not 
 
 the AAT may, subject to this section, order that the costs of those proceedings incurred by the claimant, or a part of those costs, are to be paid by the employer.
 
-             (2)  If the AAT gives a decision setting aside a reviewable decision and remitting the case for re‑determination by the employer, the AAT must, subject to this section, order that costs of the proceedings before it incurred by the claimant are to be paid by the employer.
+             (2)  If the AAT gives a decision setting aside a reviewable decision and remitting the case for re-determination by the employer, the AAT must, subject to this section, order that costs of the proceedings before it incurred by the claimant are to be paid by the employer.
 
              (3)  Neither subsection (1) nor (2) authorises the AAT to order an employer to pay any costs incurred by a claimant in relation to an application for an extension of time for applying to the AAT for a review of a reviewable decision.
 
@@ -2930,7 +2930,7 @@ referred to in section 93.
 
              (1)  The Fund must on each day have a policy of insurance or indemnity from an authorised insurer for any amount of the Fund’s liability under this Act that exceeds the prescribed amount for a single event which results in an injury to one or more employees.
 
-             (2)  Before advising the Governor‑General about the making of a regulation prescribing an amount for this section, the Minister must consult the Fund and such organisations which represent employers or employees as the Minister thinks appropriate.
+             (2)  Before advising the Governor-General about the making of a regulation prescribing an amount for this section, the Minister must consult the Fund and such organisations which represent employers or employees as the Minister thinks appropriate.
 
              (3)  A failure to consult as required by subsection (2) does not affect the validity of a regulation prescribing an amount for the purposes of this section.
 
@@ -2996,7 +2996,7 @@ the Minister may, by notice published in the _Gazette_, declare that the Authori
 
                      (b)  to promote high operational standards of claims management and effective rehabilitation procedures by employers;
 
-                     (c)  to co‑operate with other bodies or persons with the aim of reducing the incidence of injuries to employees;
+                     (c)  to co-operate with other bodies or persons with the aim of reducing the incidence of injuries to employees;
 
                      (d)  to publish material relating to the functions referred to in paragraphs (a), (b) and (c);
 
@@ -3066,13 +3066,13 @@ Note:          A defendant bears an evidential burden in relat
 
              (3)  The members referred to in paragraph 109(d) are to be appointed on the nomination of an organisation or organisations that the Minister is satisfied represents the interests of employees.
 
-             (4)  A member is to hold office on a part‑time basis.
+             (4)  A member is to hold office on a part-time basis.
 
 ##### <a id="111"></a>111  Term of office
 
-             (1)  The Chairperson and Deputy Chairperson are to hold office, subject to this Act, for such term, not exceeding 5 years, as is specified in the instrument of appointment, but are eligible for re‑appointment.
+             (1)  The Chairperson and Deputy Chairperson are to hold office, subject to this Act, for such term, not exceeding 5 years, as is specified in the instrument of appointment, but are eligible for re-appointment.
 
-             (2)  An appointed member other than the Chairperson or Deputy Chairperson is to hold office, subject to this Act, for such term, not exceeding 3 years, as is specified in the instrument of appointment, but is eligible for re‑appointment.
+             (2)  An appointed member other than the Chairperson or Deputy Chairperson is to hold office, subject to this Act, for such term, not exceeding 3 years, as is specified in the instrument of appointment, but is eligible for re-appointment.
 
 ##### <a id="112"></a>112  Deputies of members
 
@@ -3200,7 +3200,7 @@ the Minister may terminate the member’s appointment.
 
 ### Division 4—Miscellaneous
 
-##### <a id="125"></a>125  Delegation by Authority and sub‑delegation
+##### <a id="125"></a>125  Delegation by Authority and sub-delegation
 
 Delegation by Authority
 
@@ -3358,11 +3358,11 @@ the amount forms part of the person’s estate.
 
              (5)  Any provision of this section may be made inoperative, in a particular case, as a result of a decision made on a review of a determination under this Act.
 
-##### <a id="135"></a>135  Assignment, set‑off or attachment of compensation
+##### <a id="135"></a>135  Assignment, set-off or attachment of compensation
 
              (1)  An assignment of any compensation payable under this Act is void as against the employer or the Authority.
 
-             (2)  Except as provided by this Act, an amount payable by an employee or a dependant of a deceased employee to an employer or the Fund must not be set‑off against the amount of any compensation payable under this Act to the employee or for the benefit of the dependant.
+             (2)  Except as provided by this Act, an amount payable by an employee or a dependant of a deceased employee to an employer or the Fund must not be set-off against the amount of any compensation payable under this Act to the employee or for the benefit of the dependant.
 
              (3)  Except as provided by the _Child Support Act 1988_ or by regulations under the _Family Law Act 1975_, compensation payable under this Act is not subject to attachment.
 
@@ -3400,7 +3400,7 @@ the recoverable amount may be deducted from the amount so payable.
 
 the compensation payable under this Act to, or for the benefit of, that person for the injury, loss or damage is the amount (if any) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00847/Html/8ac0eeb1-6dd8-43b8-a896-fff697920bf0_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image011.gif)
 
 where:
 
@@ -3504,13 +3504,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="143"></a>143  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Notes to the _Seafarers Rehabilitation and Compensation Act 1992_
+# Notes to the_ Seafarers Rehabilitation and Compensation Act 1992_
 
 ### Note 1
 
@@ -3528,9 +3528,9 @@ All relevant information pertaining to application, saving or transitional provi
 <colgroup>
   <col width="0%">
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
-  <col width="23%">
+  <col width="21%">
   <col width="15%">
 </colgroup>
 
@@ -3593,7 +3593,7 @@ Remainder: 24 June 1993</div>
     <div>18 Jan 1994</div>
   </td>
   <td>
-    <div>Schedule (items 72–110, 113): Royal Assent <i>(a)</i> 
+    <div>Schedule (items 72–110, 113): Royal Assent <i>(a)</i> 
 Schedule (items 111, 112): 24 June 1993 <i>(a)</i></div>
   </td>
   <td>
@@ -3655,7 +3655,7 @@ S. 2(4) (am. by 43, 1996, Sch. 3 \[item 123])</div>
     <div>18 Jan 1994</div>
   </td>
   <td>
-    <div>21 Feb 1994 ( <i>see</i>s. 2 and <i>Gazette</i>1994, No. S48)</div>
+    <div>21 Feb 1994 ( <i>see</i>s. 2 and <i>Gazette</i>1994, No. S48)</div>
   </td>
   <td>
     <div>—</div>
@@ -3756,8 +3756,7 @@ Remainder: Royal Assent</div>
     <div>8 Mar 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–74, 
-76–98): Royal Assent <i>(e)</i> 
+    <div>Schedule 1 (items 1–74, 76–98): Royal Assent <i>(e)</i> 
 Schedule 1 (item 75): 24 June 1993 <i>(e)</i></div>
   </td>
   <td>
@@ -3856,7 +3855,7 @@ Remainder: Royal Assent</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 119–132): 2 Oct 2001 <i>(i)</i></div>
+    <div>S. 4 and Schedule 1 (items 119–132): 2 Oct 2001 <i>(i)</i></div>
   </td>
   <td>
     <div>S. 4 \[ <i>see</i>Table A]</div>
@@ -3920,7 +3919,7 @@ Remainder: Royal Assent</div>
 406(1)–(3)): <i>(j)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -3928,7 +3927,7 @@ Remainder: Royal Assent</div>
     <div></div>
   </td>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -3937,7 +3936,7 @@ Remainder: Royal Assent</div>
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 5 (items 27–39): 10 Dec 2008</div>
+    <div>Schedule 5 (items 27–39): 10 Dec 2008</div>
   </td>
   <td>
     <div>Sch. 5 (item 39) \[ <i>see</i>Table A]</div>
@@ -3983,26 +3982,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 8 (item 162) (ad. by SLI 2009 No. 165, Sch. 2 \[item 7]) \[ <i>see</i>Note 1 and Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1030–1033) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -4018,7 +3997,7 @@ _(a)_     The _Seafarers Rehabilitation and Compensation Act 1992_ was a
 
                (10)   The amendments contained in items 111 and 112 of the Schedule are taken to have commenced on 24 June 1993.
 
-_(b)_     The _Transport and Communications Legislation Amendment Act (No. 2) 1993_ was amended by Schedule 3 (item 123) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+_(b)_    The _Transport and Communications Legislation Amendment Act (No. 2) 1993_ was amended by Schedule 3 (item 123) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
@@ -4199,13 +4178,14 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -5092,34 +5072,6 @@ No. 127, 2002</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1030  Subsection 113(1)
-
-Omit “(1)”.
-
-## 1031  At the end of subsection 113(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1032  Subsection 113(2)
-
-Repeal the subsection.
-
-## 1033  Subsection 125(5)
-
-Omit “paragraph 34AB(b)”, substitute “paragraph 34AB(1)(b)”.
-
-As at 20 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -5172,8 +5124,7 @@ The _Seafarers Rehabilitation and Compensation Act 1992_ has effect on and after
 
 * * *
 
-_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 
- (No. 142, 2001)_
+_Employment, Workplace Relations and Small Business Legislation Amendment (Application of Criminal Code) Act 2001 (No. 142, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -5189,7 +5140,7 @@ _Workplace Relations Legislation Amendment Act 2002 (No. 127, 2002)_
 
 ## 17  Transitional regulations
 
-The Governor‑General may make regulations providing for matters of a transitional or savings nature arising out of the amendments made by item 2 and items 4 to 16.
+The Governor-General may make regulations providing for matters of a transitional or savings nature arising out of the amendments made by item 2 and items 4 to 16.
 
 * * *
 
@@ -5200,11 +5151,11 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
 
 ## 406  Application
 
-(1)       The amendments made by this Schedule apply to the 2007‑2008 income year and later years.
+(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
 
-(2)       Despite subitem (1), those amendments apply to the 2007‑2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
+(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
 
-(3)       Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
+(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
 
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
@@ -5212,15 +5163,15 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
 
 ## Schedule 5
 
 ## 39  Application of amendments of the _Seafarers Rehabilitation and Compensation Act 1992_
 
-(1)       The amendments of the _Seafarers Rehabilitation and Compensation Act 1992_ made by this Schedule apply in relation to a payment made under that Act on or after the commencement of the amendments, other than a payment of a lump sum benefit to which subitem (2) applies.
+(1)        The amendments of the _Seafarers Rehabilitation and Compensation Act 1992_ made by this Schedule apply in relation to a payment made under that Act on or after the commencement of the amendments, other than a payment of a lump sum benefit to which subitem (2) applies.
 
-(2)       The amendments of the _Seafarers Rehabilitation and Compensation Act 1992_ made by this Schedule apply in relation to a lump sum benefit payable in respect of the death of a person if the death occurs on or after the commencement of the amendments.
+(2)        The amendments of the _Seafarers Rehabilitation and Compensation Act 1992_ made by this Schedule apply in relation to a lump sum benefit payable in respect of the death of a person if the death occurs on or after the commencement of the amendments.
 
 * * *
 
@@ -5230,15 +5181,15 @@ _Employment and Workplace Relations Amendment Act 2009 (No. 37, 2009)_
 
 ## 12  Application—compensation for the benefit of dependants
 
-(1)       The amendments made by items 8 and 9, to the extent that they relate to subsections 29(3) and (4) of the _Seafarers Rehabilitation and Compensation Act 1992_, apply in relation to the death of an employee that occurs on or after 1 July 2009.
+(1)        The amendments made by items 8 and 9, to the extent that they relate to subsections 29(3) and (4) of the _Seafarers Rehabilitation and Compensation Act 1992_, apply in relation to the death of an employee that occurs on or after 1 July 2009.
 
-(2)       The amendment made by item 10 applies in relation to the death of an employee that occurs at or after the commencement of this item.
+(2)        The amendment made by item 10 applies in relation to the death of an employee that occurs at or after the commencement of this item.
 
 ## 13  Application—compensation for the benefit of children
 
-(1)       The amendments made by items 8 and 9, to the extent that they relate to subsection 29(5) of the _Seafarers Rehabilitation and Compensation Act 1992_, apply in relation to a payment for a week that begins on or after 1 July 2009.
+(1)        The amendments made by items 8 and 9, to the extent that they relate to subsection 29(5) of the _Seafarers Rehabilitation and Compensation Act 1992_, apply in relation to a payment for a week that begins on or after 1 July 2009.
 
-(2)       The amendment made by item 11 applies in relation to a payment for a week that begins at or after the commencement of this item.
+(2)        The amendment made by item 11 applies in relation to a payment for a week that begins at or after the commencement of this item.
 
 * * *
 
@@ -5257,21 +5208,5 @@ The following provisions of the _Seafarers Rehabilitation and Compensation Act 1
                      (c)  paragraph 13(6)(b); 
 
                      (d)  paragraph 31(14)(a).
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
