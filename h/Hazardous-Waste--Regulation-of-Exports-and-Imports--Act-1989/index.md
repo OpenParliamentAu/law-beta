@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00203/Html/aa1c3d70-5737-4963-a27a-bc8062c08246_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image001.gif)
 
 # Hazardous Waste (Regulation of Exports and Imports) Act 1989
 
 **Act No. 6 of 1990 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 14 December 2010
+ taking into account amendments up to Act No. 139 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -382,7 +382,7 @@ Note:          The operation of this definition is modified in
 
                      (b)  a territory outside Australia, where a foreign country is to any extent responsible for the international relations of the territory; and
 
-                     (c)  a territory outside Australia that is to some extent self‑governing, but that is not recognised as an independent sovereign state by Australia.
+                     (c)  a territory outside Australia that is to some extent self-governing, but that is not recognised as an independent sovereign state by Australia.
 
                     <a name="hazard-wast"></a>**_hazardous waste_** means:
 
@@ -510,7 +510,7 @@ Note 4:       Before regulations are made for the purposes of paragr
 
                     <a name="vari-transit-propos"></a>**_varied transit proposal_**, in relation to a variation application relating to a Basel transit permit, means the original transit proposal, as proposed to be affected by the proposed variation.
 
-                    <a name="vessel"></a>**_vessel_** means anything capable of carrying persons or goods through or on water, and includes an air‑cushion vehicle or similar craft.
+                    <a name="vessel"></a>**_vessel_** means anything capable of carrying persons or goods through or on water, and includes an air-cushion vehicle or similar craft.
 
                     <a name="wast"></a>**_waste_** means a substance or object that:
 
@@ -684,7 +684,7 @@ Competent authority of colony etc.
 
                      (b)  a territory outside Australia, where a foreign country is to any extent responsible for the international relations of the territory; or
 
-                     (c)  a territory outside Australia that is to some extent self‑governing, but that is not recognised as an independent sovereign state by Australia;
+                     (c)  a territory outside Australia that is to some extent self-governing, but that is not recognised as an independent sovereign state by Australia;
 
 a person or organisation that officially represents the territory is taken to be a competent authority of the territory.
 
@@ -1026,7 +1026,7 @@ the Minister must not grant the permit unless the Minister is satisfied that the
 
                      (b)  the application, as varied, is to be taken to have been received by the Minister on the day on which the Minister received the notice.
 
-##### <a id="15"></a>15  Further information may be requested
+##### <a id="15"></a>15  Further information may be requested
 
              (1)  If the Minister needs further information to deal with a permit application, the Minister may ask the applicant to provide the information in writing.
 
@@ -1120,7 +1120,7 @@ Note:          Under Subdivision A of Division 4 of Part 11 of
 
                              (ii)  that the consent was given in accordance with Article 6 of the Basel Convention; and
 
-                   (ba)  if the permit sought is a Basel export permit—that the hazardous waste will be allowed to be transported through any foreign country through which the waste is proposed to be transported; and
+                    (ba)  if the permit sought is a Basel export permit—that the hazardous waste will be allowed to be transported through any foreign country through which the waste is proposed to be transported; and
 
                      (c)  that, having regard to:
 
@@ -1590,7 +1590,7 @@ Note:          Under Subdivision A of Division 4 of Part 11 of
 
 ##### <a id="30"></a>30  Making of variations
 
-                   The Minister must make the variation sought by a variation application if the Minister is satisfied that if the Minister were asked to grant the Basel permit, as proposed to be varied, the Minister would decide to grant the permit.
+                   The Minister must make the variation sought by a variation application if the Minister is satisfied that if the Minister were asked to grant the Basel permit, as proposed to be varied, the Minister would decide to grant the permit.
 
 ##### <a id="31"></a>31  Applicants to be notified of decisions
 
@@ -2590,9 +2590,9 @@ Achievement of object or aims of this Act
 
              (2)  An arrangement may only be made under subsection (1) to the extent necessary to achieve the object or aims of this Act.
 
-Co‑operation by the Commonwealth
+Co-operation by the Commonwealth
 
-             (3)  Arrangements under subsection (1) may include, but are not limited to, arrangements involving co‑operation by the Commonwealth with any or all of the following:
+             (3)  Arrangements under subsection (1) may include, but are not limited to, arrangements involving co-operation by the Commonwealth with any or all of the following:
 
                      (a)  the government of a foreign country, of a State or of a Territory;
 
@@ -2682,7 +2682,7 @@ Constitutional limitations
 
                      (a)  the individual is an Australian citizen or ordinarily resident in Australia; and
 
-                     (b)  at any time during the 2‑year period ending immediately before the decision was made, the individual has engaged in a series of activities relating to any of the following:
+                     (b)  at any time during the 2-year period ending immediately before the decision was made, the individual has engaged in a series of activities relating to any of the following:
 
                               (i)  research into hazardous waste;
 
@@ -2696,7 +2696,7 @@ Constitutional limitations
 
                      (a)  the organisation or association is incorporated, or was otherwise established, in Australia; and
 
-                     (b)  at any time during the 2‑year period ending immediately before the decision was made, the organisation or association has engaged in a series of activities relating to any of the following:
+                     (b)  at any time during the 2-year period ending immediately before the decision was made, the organisation or association has engaged in a series of activities relating to any of the following:
 
                               (i)  research into hazardous waste;
 
@@ -2854,7 +2854,7 @@ Remuneration
 
                      (b)  that the servant or agent had the state of mind.
 
-             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, in proceedings for an offence against this Act, to have been engaged in also by the first‑mentioned person unless the person establishes that the person took reasonable precautions and exercised due diligence to avoid the conduct.
+             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, in proceedings for an offence against this Act, to have been engaged in also by the first-mentioned person unless the person establishes that the person took reasonable precautions and exercised due diligence to avoid the conduct.
 
              (5)  Where:
 
@@ -2882,7 +2882,7 @@ the person is not liable to be punished by imprisonment for the offence.
 
                      (b)  any other document given by the person to, or to a delegate of, the Minister.
 
-             (2)  For the purposes of this Act, a document may be given to the person by leaving it at, or by sending it by pre‑paid post to, the nominated address for service.
+             (2)  For the purposes of this Act, a document may be given to the person by leaving it at, or by sending it by pre-paid post to, the nominated address for service.
 
              (3)  Subsection (2) has effect in addition to section 28A of the _Acts Interpretation Act 1901_.
 
@@ -2910,7 +2910,7 @@ Note:          Section 28A of the _Acts Interpretation Act 190
 
                    The Minister may, by signed writing, delegate any or all of the Minister’s functions and powers under this Act to:
 
-                     (a)  the Secretary of the Department; or
+                     (a)  the Secretary to the Department; or
 
                      (b)  an SES employee, or acting SES employee, in the Department.
 
@@ -2930,7 +2930,7 @@ Note:          Section 28A of the _Acts Interpretation Act 190
 
 ##### <a id="62"></a>62  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2974,13 +2974,13 @@ The Parties to this Convention,
 
 <u>Taking into account</u> the Declaration of the United Nations Conference on the Human Environment (Stockholm, 1972), the Cairo Guidelines and Principles for the Environmentally Sound Management of Hazardous Wastes adopted by the Governing Council of the United Nations Environment Programme (UNEP) by decision 14/30 of 17 June 1987, the Recommendations of the United Nations Committee of Experts on the Transport of Dangerous Goods (formulated in 1957 and updated biennially), relevant recommendations, declarations, instruments and regulations adopted within the United Nations system and the work and studies done within other international and regional organizations,
 
-<u>Mindful</u> of the spirit, principles, aims and functions of the World Charter for Nature adopted by the General Assembly of the United Nations at its thirty‑seventh session (1982) as the rule of ethics in respect of the protection of the human environment and the conservation of natural resources,
+<u>Mindful</u> of the spirit, principles, aims and functions of the World Charter for Nature adopted by the General Assembly of the United Nations at its thirty-seventh session (1982) as the rule of ethics in respect of the protection of the human environment and the conservation of natural resources,
 
 <u>Affirming</u> that States are responsible for the fulfilment of their international obligations concerning the protection of human health and protection and preservation of the environment, and are liable in accordance with international law,
 
 <u>Recognizing</u> that in the case of a material breach of the provisions of this Convention or any protocol thereto the relevant international law of treaties shall apply,
 
-<u>Aware</u> of the need to continue the development and implementation of environmentally sound low‑waste technologies, recycling options, good house‑keeping and management systems with a view to reducing to a minimum the generation of hazardous wastes and other wastes,
+<u>Aware</u> of the need to continue the development and implementation of environmentally sound low-waste technologies, recycling options, good house-keeping and management systems with a view to reducing to a minimum the generation of hazardous wastes and other wastes,
 
 <u>Aware also</u> of the growing international concern about the need for stringent control of transboundary movement of hazardous wastes and other wastes, and of the need as far as possible to reduce such movement to a minimum,
 
@@ -3022,7 +3022,7 @@ HAVE AGREED AS FOLLOWS:
 
                    1.  “Wastes” are substances or objects which are disposed of or are intended to be disposed of or are required to be disposed of by the provisions of national law;
 
-                   2.  “Management” means the collection, transport and disposal of hazardous wastes or other wastes, including after‑care of disposal sites;
+                   2.  “Management” means the collection, transport and disposal of hazardous wastes or other wastes, including after-care of disposal sites;
 
                    3.  “Transboundary movement” means any movement of hazardous wastes or other wastes from an area under the national jurisdiction of one State to or through an area under the national jurisdiction of another State or to or through an area not under the national jurisdiction of any State, provided at least two States are involved in the movement;
 
@@ -3038,29 +3038,29 @@ HAVE AGREED AS FOLLOWS:
 
                    9.  “Area under the national jurisdiction of a State” means any land, marine area or airspace within which a State exercises administrative and regulatory responsibility in accordance with international law in regard to the protection of human health or the environment;
 
-                   10.        “State of export” means a Party from which a transboundary movement of hazardous wastes or other wastes is planned to be initiated or is initiated;
+                   10.         “State of export” means a Party from which a transboundary movement of hazardous wastes or other wastes is planned to be initiated or is initiated;
 
-                   11.        “State of import” means a Party to which a transboundary movement of hazardous wastes or other wastes is planned or takes place for the purpose of disposal therein or for the purpose of loading prior to disposal in an area not under the national jurisdiction of any State;
+                   11.         “State of import” means a Party to which a transboundary movement of hazardous wastes or other wastes is planned or takes place for the purpose of disposal therein or for the purpose of loading prior to disposal in an area not under the national jurisdiction of any State;
 
-                   12.        “State of transit” means any State, other than the State of export or import, through which a movement of hazardous wastes or other wastes is planned or takes place;
+                   12.         “State of transit” means any State, other than the State of export or import, through which a movement of hazardous wastes or other wastes is planned or takes place;
 
-                   13.        “States concerned” means Parties which are States of export or import, or transit States, whether or not Parties;
+                   13.         “States concerned” means Parties which are States of export or import, or transit States, whether or not Parties;
 
-                   14.        “Person” means any natural or legal person;
+                   14.         “Person” means any natural or legal person;
 
-                   15.        “Exporter” means any person under the jurisdiction of the State of export who arranges for hazardous wastes or other wastes to be exported;
+                   15.         “Exporter” means any person under the jurisdiction of the State of export who arranges for hazardous wastes or other wastes to be exported;
 
-                   16.        “Importer” means any person under the jurisdiction of the State of import who arranges for hazardous wastes or other wastes to be imported;
+                   16.         “Importer” means any person under the jurisdiction of the State of import who arranges for hazardous wastes or other wastes to be imported;
 
-                   17.        “Carrier” means any person who carries out the transport of hazardous wastes or other wastes;
+                   17.         “Carrier” means any person who carries out the transport of hazardous wastes or other wastes;
 
-                   18.        “Generator” means any person whose activity produces hazardous wastes or other wastes or, if that person is not known, the person who is in possession and/or control of those wastes;
+                   18.         “Generator” means any person whose activity produces hazardous wastes or other wastes or, if that person is not known, the person who is in possession and/or control of those wastes;
 
-                   19.        “Disposer” means any person to whom hazardous wastes or other wastes are shipped and who carries out the disposal of such wastes;
+                   19.         “Disposer” means any person to whom hazardous wastes or other wastes are shipped and who carries out the disposal of such wastes;
 
-                   20.        “Political and/or economic integration organization” means an organization constituted by sovereign States to which its member States have transferred competence in respect of matters governed by this Convention and which has been duly authorized, in accordance with its internal procedures, to sign, ratify, accept, approve, formally confirm or accede to it;
+                   20.         “Political and/or economic integration organization” means an organization constituted by sovereign States to which its member States have transferred competence in respect of matters governed by this Convention and which has been duly authorized, in accordance with its internal procedures, to sign, ratify, accept, approve, formally confirm or accede to it;
 
-                   21.        “Illegal traffic” means any transboundary movement of hazardous wastes or other wastes as specified in Article 9.
+                   21.         “Illegal traffic” means any transboundary movement of hazardous wastes or other wastes as specified in Article 9.
 
 <u>Article 3</u>
 
@@ -3078,7 +3078,7 @@ HAVE AGREED AS FOLLOWS:
 
 <u>General Obligations</u>
 
-1.  (a)  Parties exercising their right to prohibit the import of hazardous wastes or other wastes for disposal shall inform the other Parties of their decision pursuant to Article 13.
+1.   (a)  Parties exercising their right to prohibit the import of hazardous wastes or other wastes for disposal shall inform the other Parties of their decision pursuant to Article 13.
 
      (b)  Parties shall prohibit or shall not permit the export of hazardous wastes and other wastes to the Parties which have prohibited the import of such wastes, when notified pursuant to subparagraph (a) above.
 
@@ -3100,13 +3100,13 @@ HAVE AGREED AS FOLLOWS:
 
      (g)  Prevent the import of hazardous wastes and other wastes if it has reason to believe that the wastes in question will not be managed in an environmentally sound manner;
 
-     (h)  Co‑operate in activities with other Parties and interested organizations, directly and through the Secretariat, including the dissemination of information on the transboundary movement of hazardous wastes and other wastes, in order to improve the environmentally sound management of such wastes and to achieve the prevention of illegal traffic.
+     (h)  Co-operate in activities with other Parties and interested organizations, directly and through the Secretariat, including the dissemination of information on the transboundary movement of hazardous wastes and other wastes, in order to improve the environmentally sound management of such wastes and to achieve the prevention of illegal traffic.
 
                    3.  The Parties consider that illegal traffic in hazardous wastes or other wastes is criminal.
 
                    4.  Each Party shall take appropriate legal, administrative and other measures to implement and enforce the provisions of this Convention, including measures to prevent and punish conduct in contravention of the Convention.
 
-                   5.  A Party shall not permit hazardous wastes or other wastes to be exported to a non‑Party or to be imported from a non‑Party.
+                   5.  A Party shall not permit hazardous wastes or other wastes to be exported to a non-Party or to be imported from a non-Party.
 
                    6.  The Parties agree not to allow the export of hazardous wastes or other wastes for disposal within the area south of 60° South latitude, whether or not such wastes are subject to transboundary movement.
 
@@ -3128,13 +3128,13 @@ HAVE AGREED AS FOLLOWS:
 
      (c)  The transboundary movement in question is in accordance with other criteria to be decided by the Parties, provided those criteria do not differ from the objectives of this Convention.
 
-                   10.        The obligation under this Convention of States in which hazardous wastes and other wastes are generated to require that those wastes are managed in an environmentally sound manner may not under any circumstances be transferred to the States of import or transit.
+                   10.         The obligation under this Convention of States in which hazardous wastes and other wastes are generated to require that those wastes are managed in an environmentally sound manner may not under any circumstances be transferred to the States of import or transit.
 
-                   11.        Nothing in this Convention shall prevent a Party from imposing additional requirements that are consistent with the provisions of this Convention, and are in accordance with the rules of international law, in order better to protect human health and the environment.
+                   11.         Nothing in this Convention shall prevent a Party from imposing additional requirements that are consistent with the provisions of this Convention, and are in accordance with the rules of international law, in order better to protect human health and the environment.
 
-                   12.        Nothing in this Convention shall affect in any way the sovereignty of States over their territorial sea established in accordance with international law, and the sovereign rights and the jurisdiction which States have in their exclusive economic zones and their continental shelves in accordance with international law, and the exercise by ships and aircraft of all States of navigational rights and freedoms as provided for in international law and as reflected in relevant international instruments.
+                   12.         Nothing in this Convention shall affect in any way the sovereignty of States over their territorial sea established in accordance with international law, and the sovereign rights and the jurisdiction which States have in their exclusive economic zones and their continental shelves in accordance with international law, and the exercise by ships and aircraft of all States of navigational rights and freedoms as provided for in international law and as reflected in relevant international instruments.
 
-                   13.        Parties shall undertake to review periodically the possibilities for the reduction of the amount and/or the pollution potential of hazardous wastes and other wastes which are exported to other States, in particular to developing countries.
+                   13.         Parties shall undertake to review periodically the possibilities for the reduction of the amount and/or the pollution potential of hazardous wastes and other wastes which are exported to other States, in particular to developing countries.
 
 <u>Article 5</u>
 
@@ -3180,7 +3180,7 @@ To facilitate the implementation of this Convention, the Parties shall:
 
                    9.  The Parties shall require that each person who takes charge of a transboundary movement of hazardous wastes or other wastes sign the movement document either upon delivery or receipt of the wastes in question. They shall also require that the disposer inform both the exporter and the competent authority of the State of export of receipt by the disposer of the wastes in question and, in due course, of the completion of disposal as specified in the notification. If no such information is received within the State of export, the competent authority of the State of export or the exporter shall so notify the State of import.
 
-                   10\. The notification and response required by this Article shall be transmitted to the competent authority of the Parties concerned or to such governmental authority as may be appropriate in the case of non‑Parties.
+                   10\. The notification and response required by this Article shall be transmitted to the competent authority of the Parties concerned or to such governmental authority as may be appropriate in the case of non-Parties.
 
                    11\. Any transboundary movement of hazardous wastes or other wastes shall be covered by insurance, bond or other guarantee as may be required by the State of import or any State of transit which is a Party.
 
@@ -3192,7 +3192,7 @@ To facilitate the implementation of this Convention, the Parties shall:
 
 <u>Article 8</u>
 
-<u>Duty to Re‑import</u>
+<u>Duty to Re-import</u>
 
                         When a transboundary movement of hazardous wastes or other wastes to which the consent of the States concerned has been given, subject to the provisions of this Convention, cannot be completed in accordance with the terms of the contract, the State of export shall ensure that the wastes in question are taken back into the State of export, by the exporter, if alternative arrangements cannot be made for their disposal in an environmentally sound manner, within 90 days from the time that the importing State informed the State of export and the Secretariat, or such other period of time as the States concerned agree. To this end, the State of export and any Party of transit shall not oppose, hinder or prevent the return of those wastes to the State of export.
 
@@ -3222,39 +3222,39 @@ shall be deemed to be illegal traffic.
 
 within 30 days from the time the State of export has been informed about the illegal traffic or such other period of time as States concerned may agree. To this end the Parties concerned shall not oppose, hinder or prevent the return of those wastes to the State of export.
 
-                   3.  In the case of a transboundary movement of hazardous wastes or other wastes deemed to be illegal traffic as the result of conduct on the part of the importer or disposer, the State of import shall ensure that the wastes in question are disposed of in an environmentally sound manner by the importer or disposer or, if necessary, by itself within 30 days from the time the illegal traffic has come to the attention of the State of import or such other period of time as the States concerned may agree. To this end, the Parties concerned shall co‑operate, as necessary, in the disposal of the wastes in an environmentally sound manner.
+                   3.  In the case of a transboundary movement of hazardous wastes or other wastes deemed to be illegal traffic as the result of conduct on the part of the importer or disposer, the State of import shall ensure that the wastes in question are disposed of in an environmentally sound manner by the importer or disposer or, if necessary, by itself within 30 days from the time the illegal traffic has come to the attention of the State of import or such other period of time as the States concerned may agree. To this end, the Parties concerned shall co-operate, as necessary, in the disposal of the wastes in an environmentally sound manner.
 
-                   4.  In cases where the responsibility for the illegal traffic cannot be assigned either to the exporter or generator or to the importer or disposer, the Parties concerned or other Parties, as appropriate, shall ensure, through co‑operation, that the wastes in question are disposed of as soon as possible in an environmentally sound manner either in the State of export or the State of import or elsewhere as appropriate.
+                   4.  In cases where the responsibility for the illegal traffic cannot be assigned either to the exporter or generator or to the importer or disposer, the Parties concerned or other Parties, as appropriate, shall ensure, through co-operation, that the wastes in question are disposed of as soon as possible in an environmentally sound manner either in the State of export or the State of import or elsewhere as appropriate.
 
-                   5.  Each Party shall introduce appropriate national/domestic legislation to prevent and punish illegal traffic. The Parties shall co‑operate with a view to achieving the objects of this Article.
+                   5.  Each Party shall introduce appropriate national/domestic legislation to prevent and punish illegal traffic. The Parties shall co-operate with a view to achieving the objects of this Article.
 
 <u>Article 10</u>
 
-<u>International Co‑operation</u>
+<u>International Co-operation</u>
 
-                   1.  The Parties shall co‑operate with each other in order to improve and achieve environmentally sound management of hazardous wastes and other wastes.
+                   1.  The Parties shall co-operate with each other in order to improve and achieve environmentally sound management of hazardous wastes and other wastes.
 
                    2.  To this end, the Parties shall:
 
      (a)  Upon request, make available information, whether on a bilateral or multilateral basis, with a view to promoting the environmentally sound management of hazardous wastes and other wastes, including harmonization of technical standards and practices for the adequate management of hazardous wastes and other wastes;
 
-     (b)  Co‑operate in monitoring the effects of the management of hazardous wastes on human health and the environment;
+     (b)  Co-operate in monitoring the effects of the management of hazardous wastes on human health and the environment;
 
-     (c)  Co‑operate, subject to their national laws, regulations and policies, in the development and implementation of new environmentally sound low‑waste technologies and the improvement of existing technologies with a view to eliminating, as far as practicable, the generation of hazardous wastes and other wastes and achieving more effective and efficient methods of ensuring their management in an environmentally sound manner, including the study of the economic, social and environmental effects of the adoption of such new or improved technologies;
+     (c)  Co-operate, subject to their national laws, regulations and policies, in the development and implementation of new environmentally sound low-waste technologies and the improvement of existing technologies with a view to eliminating, as far as practicable, the generation of hazardous wastes and other wastes and achieving more effective and efficient methods of ensuring their management in an environmentally sound manner, including the study of the economic, social and environmental effects of the adoption of such new or improved technologies;
 
-     (d)  Co‑operate actively, subject to their national laws, regulations and policies, in the transfer of technology and management systems related to the environmentally sound management of hazardous wastes and other wastes. They shall also co‑operate in developing the technical capacity among Parties, especially those which may need and request technical assistance in this field;
+     (d)  Co-operate actively, subject to their national laws, regulations and policies, in the transfer of technology and management systems related to the environmentally sound management of hazardous wastes and other wastes. They shall also co-operate in developing the technical capacity among Parties, especially those which may need and request technical assistance in this field;
 
-     (e)  Co‑operate in developing appropriate technical guidelines and/or codes of practice.
+     (e)  Co-operate in developing appropriate technical guidelines and/or codes of practice.
 
-                   3.  The Parties shall employ appropriate means to co‑operate in order to assist developing countries in the implementation of subparagraphs a, b, c and d of paragraph 2 of Article 4.
+                   3.  The Parties shall employ appropriate means to co-operate in order to assist developing countries in the implementation of subparagraphs a, b, c and d of paragraph 2 of Article 4.
 
-                   4.  Taking into account the needs of developing countries, co‑operation between Parties and the competent international organizations is encouraged to promote, <u>inter alia</u>, public awareness, the development of sound management of hazardous wastes and other wastes and the adoption of new low‑waste technologies.
+                   4.  Taking into account the needs of developing countries, co-operation between Parties and the competent international organizations is encouraged to promote, <u>inter alia</u>, public awareness, the development of sound management of hazardous wastes and other wastes and the adoption of new low-waste technologies.
 
 <u>Article 11</u>
 
 <u>Bilateral Multilateral and Regional Agreements</u>
 
-                   1.  Notwithstanding the provisions of Article 4 paragraph 5, Parties may enter into bilateral, multilateral, or regional agreements or arrangements regarding transboundary movement of hazardous wastes or other wastes with Parties or non‑Parties provided that such agreements or arrangements do not derogate from the environmentally sound management of hazardous wastes and other wastes as required by this Convention. These agreements or arrangements shall stipulate provisions which are not less environmentally sound than those provided for by this Convention in particular taking into account the interests of developing countries.
+                   1.  Notwithstanding the provisions of Article 4 paragraph 5, Parties may enter into bilateral, multilateral, or regional agreements or arrangements regarding transboundary movement of hazardous wastes or other wastes with Parties or non-Parties provided that such agreements or arrangements do not derogate from the environmentally sound management of hazardous wastes and other wastes as required by this Convention. These agreements or arrangements shall stipulate provisions which are not less environmentally sound than those provided for by this Convention in particular taking into account the interests of developing countries.
 
                    2.  Parties shall notify the Secretariat of any bilateral, multilateral or regional agreements or arrangements referred to in paragraph 1 and those which they have entered into prior to the entry into force of this Convention for them, for the purpose of controlling transboundary movements of hazardous wastes and other wastes which take place entirely among the Parties to such agreements. The provisions of this Convention shall not affect transboundary movements which take place pursuant to such agreements provided that such agreements are compatible with the environmentally sound management of hazardous wastes and other wastes as required by this Convention.
 
@@ -3262,7 +3262,7 @@ within 30 days from the time the State of export has been informed about the ill
 
 <u>Consultations on Liability</u>
 
-The Parties shall co‑operate with a view to adopting, as soon as practicable, a protocol setting out appropriate rules and procedures in the field of liability and compensation for damage resulting from the transboundary movement and disposal of hazardous wastes and other wastes.
+The Parties shall co-operate with a view to adopting, as soon as practicable, a protocol setting out appropriate rules and procedures in the field of liability and compensation for damage resulting from the transboundary movement and disposal of hazardous wastes and other wastes.
 
 <u>Article 13</u>
 
@@ -3292,11 +3292,11 @@ and, as soon as possible,
 
       (i)  The amount of hazardous wastes and other wastes exported, their category, characteristics, destination, any transit country and disposal method as stated on the response to notification;
 
-     (ii)  The amount of hazardous wastes and other wastes imported, their category, characteristics, origin, and disposal methods;
+      (ii)  The amount of hazardous wastes and other wastes imported, their category, characteristics, origin, and disposal methods;
 
-    (iii)  Disposals which did not proceed as intended;
+     (iii)  Disposals which did not proceed as intended;
 
-    (iv)  Efforts to achieve a reduction of the amount of hazardous wastes or other wastes subject to transboundary movement;
+     (iv)  Efforts to achieve a reduction of the amount of hazardous wastes or other wastes subject to transboundary movement;
 
      (c)  Information on the measures adopted by them in implementation of this Convention;
 
@@ -3318,7 +3318,7 @@ and, as soon as possible,
 
 <u>Financial Aspects</u>
 
-                   1.  The Parties agree that, according to the specific needs of different regions and subregions, regional or sub‑regional centres for training and technology transfers regarding the management of hazardous wastes and other wastes and the minimization of their generation should be established. The Parties shall decide on the establishment of appropriate funding mechanisms of a voluntary nature.
+                   1.  The Parties agree that, according to the specific needs of different regions and subregions, regional or sub-regional centres for training and technology transfers regarding the management of hazardous wastes and other wastes and the minimization of their generation should be established. The Parties shall decide on the establishment of appropriate funding mechanisms of a voluntary nature.
 
                    2.  The Parties shall consider the establishment of a revolving fund to assist on an interim basis in case of emergency situations to minimize damage from accidents arising from transboundary movements of hazardous wastes and other wastes or during the disposal of those wastes.
 
@@ -3346,7 +3346,7 @@ and, as soon as possible,
 
      (e)  Establish such subsidiary bodies as are deemed necessary for the implementation of this Convention.
 
-                   6.  The United Nations, its specialized agencies, as well as any State not party to this Convention, may be represented as observers at meetings of the Conference of the Parties. Any other body or agency, whether national or international, governmental or non‑governmental, qualified in fields relating to hazardous wastes or other wastes which has informed the Secretariat of its wish to be represented as an observer at a meeting of the Conference of the Parties, may be admitted unless at least one third of the Parties present object. The admission and participation of observers shall be subject to the rules of procedure adopted by the Conference of the Parties.
+                   6.  The United Nations, its specialized agencies, as well as any State not party to this Convention, may be represented as observers at meetings of the Conference of the Parties. Any other body or agency, whether national or international, governmental or non-governmental, qualified in fields relating to hazardous wastes or other wastes which has informed the Secretariat of its wish to be represented as an observer at a meeting of the Conference of the Parties, may be admitted unless at least one third of the Parties present object. The admission and participation of observers shall be subject to the rules of procedure adopted by the Conference of the Parties.
 
                    7.  The Conference of the Parties shall undertake three years after the entry into force of this Convention, and at least every six years thereafter, an evaluation of its effectiveness and, if deemed necessary, to consider the adoption of a complete or partial ban of transboundary movements of hazardous wastes and other wastes in light of the latest scientific, environmental, technical and economic information.
 
@@ -3358,7 +3358,7 @@ and, as soon as possible,
 
      (a)  To arrange for and service meetings provided for in Article 15 and 17;
 
-     (b)  To prepare and transmit reports based upon information received in accordance with Articles 3, 4, 6, 11 and 13 as well as upon information derived from meetings of subsidiary bodies established under Article 15 as well as upon, as appropriate, information provided by relevant intergovernmental and non‑governmental entities;
+     (b)  To prepare and transmit reports based upon information received in accordance with Articles 3, 4, 6, 11 and 13 as well as upon information derived from meetings of subsidiary bodies established under Article 15 as well as upon, as appropriate, information provided by relevant intergovernmental and non-governmental entities;
 
      (c)  To prepare reports on its activities carried out in implementation of its functions under this Convention and present them to the Conference of the Parties;
 
@@ -3372,7 +3372,7 @@ and, as soon as possible,
 
 –     sources of technical assistance and training;
 
-–     available technical and scientific know‑how;
+–     available technical and scientific know-how;
 
 –     sources of advice and expertise; and
 
@@ -3384,7 +3384,7 @@ with a view to assisting them, upon request, in such areas as:
 
 –     the management of hazardous wastes and other wastes;
 
-–     environmentally sound technologies relating to hazardous wastes and other wastes, such as low‑ and non‑waste technology;
+–     environmentally sound technologies relating to hazardous wastes and other wastes, such as low- and non-waste technology;
 
 –     the assessment of disposal capabilities and sites;
 
@@ -3396,7 +3396,7 @@ with a view to assisting them, upon request, in such areas as:
 
       (i)  To assist Parties upon request in their identification of cases of illegal traffic and to circulate immediately to the Parties concerned any information it has received regarding illegal traffic;
 
-      (j)  To co‑operate with Parties and with relevant and competent international organizations and agencies in the provision of experts and equipment for the purpose of rapid assistance to States in the event of an emergency situation; and
+      (j)  To co-operate with Parties and with relevant and competent international organizations and agencies in the provision of experts and equipment for the purpose of rapid assistance to States in the event of an emergency situation; and
 
      (k)  To perform such other functions relevant to the purposes of this Convention as may be determined by the Conference of the Parties.
 
@@ -3412,11 +3412,11 @@ with a view to assisting them, upon request, in such areas as:
 
                    2.  Amendments to this Convention shall be adopted at a meeting of the Conference of the Parties. Amendments to any protocol shall be adopted at a meeting of the Parties to the protocol in question. The text of any proposed amendment to this Convention or to any protocol, except as may otherwise be provided in such protocol, shall be communicated to the Parties by the Secretariat at least six months before the meeting at which it is proposed for adoption. The Secretariat shall also communicate proposed amendments to the Signatories to this Convention for information.
 
-                   3.  The Parties shall make every effort to reach agreement on any proposed amendment to this Convention by consensus. If all efforts at consensus have been exhausted, and no agreement reached, the amendment shall as a last resort be adopted by a three‑fourths majority vote of the Parties present and voting at the meeting, and shall be submitted by the Depositary to all Parties for ratification, approval, formal confirmation or acceptance.
+                   3.  The Parties shall make every effort to reach agreement on any proposed amendment to this Convention by consensus. If all efforts at consensus have been exhausted, and no agreement reached, the amendment shall as a last resort be adopted by a three-fourths majority vote of the Parties present and voting at the meeting, and shall be submitted by the Depositary to all Parties for ratification, approval, formal confirmation or acceptance.
 
-                   4.  The procedure mentioned in paragraph 3 above shall apply to amendments to any protocol, except that a two‑thirds majority of the Parties to that protocol present and voting at the meeting shall suffice for their adoption.
+                   4.  The procedure mentioned in paragraph 3 above shall apply to amendments to any protocol, except that a two-thirds majority of the Parties to that protocol present and voting at the meeting shall suffice for their adoption.
 
-                   5.  Instruments of ratification, approval, formal confirmation or acceptance of amendments shall be deposited with the Depositary. Amendments adopted in accordance with paragraphs 3 or 4 above shall enter into force between Parties having accepted them on the ninetieth day after the receipt by the Depositary of their instrument of ratification, approval, formal confirmation or acceptance by at least three‑fourths of the Parties who accepted them or by at least two thirds of the Parties to the protocol concerned who accepted them, except as may otherwise be provided in such protocol. The amendments shall enter into force for any other Party on the ninetieth day after that Party deposits its instrument of ratification, approval, formal confirmation or acceptance of the amendments.
+                   5.  Instruments of ratification, approval, formal confirmation or acceptance of amendments shall be deposited with the Depositary. Amendments adopted in accordance with paragraphs 3 or 4 above shall enter into force between Parties having accepted them on the ninetieth day after the receipt by the Depositary of their instrument of ratification, approval, formal confirmation or acceptance by at least three-fourths of the Parties who accepted them or by at least two thirds of the Parties to the protocol concerned who accepted them, except as may otherwise be provided in such protocol. The amendments shall enter into force for any other Party on the ninetieth day after that Party deposits its instrument of ratification, approval, formal confirmation or acceptance of the amendments.
 
                    6.  For the purpose of this Article, “Parties present and voting” means Parties present and casting an affirmative or negative vote.
 
@@ -3524,7 +3524,7 @@ Such declaration shall be notified in writing to the Secretariat which shall com
 
 <u>Depository</u>
 
-                        The Secretary‑General of the United Nations shall be the Depository of this Convention and of any protocol thereto.
+                        The Secretary-General of the United Nations shall be the Depository of this Convention and of any protocol thereto.
 
 <u>Article 29</u>
 
@@ -3898,7 +3898,7 @@ Wastes having as constituents:
     <div>Y43</div>
   </td>
   <td>
-    <div>Any congenor of polychlorinated dibenzo‑furan</div>
+    <div>Any congenor of polychlorinated dibenzo-furan</div>
   </td>
 </tr>
 <tr>
@@ -3906,7 +3906,7 @@ Wastes having as constituents:
     <div>Y44</div>
   </td>
   <td>
-    <div>Any congenor of polychlorinated dibenzo‑p‑dioxin</div>
+    <div>Any congenor of polychlorinated dibenzo-p-dioxin</div>
   </td>
 </tr>
 <tr>
@@ -3996,7 +3996,7 @@ LIST OF HAZARDOUS CHARACTERISTICS
   </td>
   <td>
     <div>Flammable liquids</div>
-    <div>The word “flammable” has the same meaning as “inflammable”. Flammable liquids are liquids, or mixtures of liquids, or liquids containing solids in solution or suspension (for example, paints, varnishes, lacquers, etc., but not including substances or wastes otherwise classified on account of their dangerous characteristics) which give off a flammable vapour at temperatures of not more than 60.5 °C, closed‑cup test, or not more than 65.6 °C, open‑cup test. (Since the results of open‑cup tests and of closed‑cup tests are not strictly comparable and even individual results by the same test are often variable, regulations varying from the above figures to make allowance for such differences would be within the spirit of this definition.)</div>
+    <div>The word “flammable” has the same meaning as “inflammable”. Flammable liquids are liquids, or mixtures of liquids, or liquids containing solids in solution or suspension (for example, paints, varnishes, lacquers, etc., but not including substances or wastes otherwise classified on account of their dangerous characteristics) which give off a flammable vapour at temperatures of not more than 60.5 °C, closed-cup test, or not more than 65.6 °C, open-cup test. (Since the results of open-cup tests and of closed-cup tests are not strictly comparable and even individual results by the same test are often variable, regulations varying from the above figures to make allowance for such differences would be within the spirit of this definition.)</div>
   </td>
 </tr>
 <tr>
@@ -4056,7 +4056,7 @@ LIST OF HAZARDOUS CHARACTERISTICS
   </td>
   <td>
     <div>Organic Peroxides</div>
-    <div>Organic substances or wastes which contain the bivalent‑O‑O‑structure are thermally unstable substances which may undergo exothermic self‑accelerating decomposition.</div>
+    <div>Organic substances or wastes which contain the bivalent-O-O-structure are thermally unstable substances which may undergo exothermic self-accelerating decomposition.</div>
   </td>
 </tr>
 <tr>
@@ -4151,7 +4151,7 @@ Annex IV
 
 DISPOSAL OPERATIONS
 
-A.  OPERATIONS WHICH DO NOT LEAD TO THE POSSIBILITY OF RESOURCE RECOVERY, RECYCLING, RECLAMATION, DIRECT RE‑USE OR ALTERNATIVE USES
+A.  OPERATIONS WHICH DO NOT LEAD TO THE POSSIBILITY OF RESOURCE RECOVERY, RECYCLING, RECLAMATION, DIRECT RE-USE OR ALTERNATIVE USES
 
 <table>
 <colgroup>
@@ -4220,7 +4220,7 @@ A.  OPERATIONS WHICH DO NOT LEAD TO THE POSSIBILITY OF RESOURCE RECOVERY, RECY
     <div>D7</div>
   </td>
   <td>
-    <div>Release into seas/oceans including sea‑bed insertion</div>
+    <div>Release into seas/oceans including sea-bed insertion</div>
   </td>
 </tr>
 <tr>
@@ -4288,7 +4288,7 @@ A.  OPERATIONS WHICH DO NOT LEAD TO THE POSSIBILITY OF RESOURCE RECOVERY, RECY
   </td>
 </tr></table>
 
-B.  OPERATIONS WHICH MAY LEAD TO RESOURCE RECOVERY, RECYCLING, RECLAMATION, DIRECT RE‑USE OR ALTERNATIVE USES
+B.  OPERATIONS WHICH MAY LEAD TO RESOURCE RECOVERY, RECYCLING, RECLAMATION, DIRECT RE-USE OR ALTERNATIVE USES
 
 <table>
 <colgroup>
@@ -4373,7 +4373,7 @@ B.  OPERATIONS WHICH MAY LEAD TO RESOURCE RECOVERY, RECYCLING, RECLAMATION, DI
     <div>R9</div>
   </td>
   <td>
-    <div>Used oil re‑refining or other reuses of previously used oil</div>
+    <div>Used oil re-refining or other reuses of previously used oil</div>
   </td>
 </tr>
 <tr>
@@ -4389,7 +4389,7 @@ B.  OPERATIONS WHICH MAY LEAD TO RESOURCE RECOVERY, RECYCLING, RECLAMATION, DI
     <div>R11</div>
   </td>
   <td>
-    <div>Uses of residual materials obtained from any of the operations numbered R1‑R10</div>
+    <div>Uses of residual materials obtained from any of the operations numbered R1-R10</div>
   </td>
 </tr>
 <tr>
@@ -4397,7 +4397,7 @@ B.  OPERATIONS WHICH MAY LEAD TO RESOURCE RECOVERY, RECYCLING, RECLAMATION, DI
     <div>R12</div>
   </td>
   <td>
-    <div>Exchange of wastes for submission to any of the operations numbered R1‑R11</div>
+    <div>Exchange of wastes for submission to any of the operations numbered R1-R11</div>
   </td>
 </tr>
 <tr>
@@ -4509,7 +4509,7 @@ INFORMATION TO BE PROVIDED ON THE MOVEMENT DOCUMENT
 
 <u>Notes</u>
 
-     The information required on the movement document shall where possible be integrated in one document with that required under transport rules. Where this is not possible the information should complement rather than duplicate that required under the transport rules. The movement document shall carry instructions as to who is to provide information and fill‑out any form.
+     The information required on the movement document shall where possible be integrated in one document with that required under transport rules. Where this is not possible the information should complement rather than duplicate that required under the transport rules. The movement document shall carry instructions as to who is to provide information and fill-out any form.
 
 1   Full name and address, telephone, telex or telefax number and the name, address, telephone, telex or telefax number of the person to be contacted in case of emergency.
 
@@ -4531,9 +4531,9 @@ ARBITRATION
 
 <u>Article 4</u>
 
-1.  If the chairman of the arbitral tribunal has not been designated within two months of the appointment of the second arbitrator, the Secretary‑General of the United Nations shall, at the request of either party, designate him within a further two months period.
+1.  If the chairman of the arbitral tribunal has not been designated within two months of the appointment of the second arbitrator, the Secretary-General of the United Nations shall, at the request of either party, designate him within a further two months period.
 
-2.  If one of the parties to the dispute does not appoint an arbitrator within two months of the receipt of the request, the other party may inform the Secretary‑General of the United Nations who shall designate the chairman of the arbitral tribunal within a further two months’ period. Upon designation, the chairman of the arbitral tribunal shall request the party which has not appointed an arbitrator to do so within two months. After such period, he shall inform the Secretary‑General of the United Nations, who shall make this appointment within a further two months’ period.
+2.  If one of the parties to the dispute does not appoint an arbitrator within two months of the receipt of the request, the other party may inform the Secretary-General of the United Nations who shall designate the chairman of the arbitral tribunal within a further two months’ period. Upon designation, the chairman of the arbitral tribunal shall request the party which has not appointed an arbitrator to do so within two months. After such period, he shall inform the Secretary-General of the United Nations, who shall make this appointment within a further two months’ period.
 
 <u>Article 5</u>
 
@@ -4553,7 +4553,7 @@ ARBITRATION
 
 <u>Article 7</u>
 
-     The tribunal may hear and determine counter‑claims arising directly out of the subject‑matter of the dispute.
+     The tribunal may hear and determine counter-claims arising directly out of the subject-matter of the dispute.
 
 <u>Article 8</u>
 
@@ -4561,11 +4561,11 @@ ARBITRATION
 
 <u>Article 9</u>
 
-     Any Party that has an interest of a legal nature in the subject‑matter of the dispute which may be affected by the decision in the case, may intervene in the proceedings with the consent of the tribunal.
+     Any Party that has an interest of a legal nature in the subject-matter of the dispute which may be affected by the decision in the case, may intervene in the proceedings with the consent of the tribunal.
 
 <u>Article 10</u>
 
-1.  The tribunal shall render its award within five months of the date on which it is established unless it finds it necessary to extend the time‑limit for a period which should not exceed five months.
+1.  The tribunal shall render its award within five months of the date on which it is established unless it finds it necessary to extend the time-limit for a period which should not exceed five months.
 
 2.  The award of the arbitral tribunal shall be accompanied by a statement of reasons. It shall be final and binding upon the parties to the dispute.
 
@@ -4579,7 +4579,7 @@ ARBITRATION
 
            Wastes contained in this Annex are characterized as hazardous under Article 1, paragraph 1 (a), of this Convention, and their designation on this Annex does not preclude the use of Annex III to demonstrate that a waste is not hazardous.
 
-A1     <u>Metal and metal‑bearing wastes</u>
+A1     <u>Metal and metal-bearing wastes</u>
 
 A1010        Metal wastes and waste consisting of alloys of any of the following:
 
@@ -4651,17 +4651,17 @@ A1130        Spent etching solutions containing dissolved copper
 
 A1140        Waste cupric chloride and copper cyanide catalysts
 
-A1150        Precious metal ash from incineration of printed circuit boards not included on list B<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[1]</span></span></span>
+A1150        Precious metal ash from incineration of printed circuit boards not included on list B<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[1]</span></span></span>
 
-A1160        Waste lead‑acid batteries, whole or crushed
+A1160        Waste lead-acid batteries, whole or crushed
 
 A1170        Unsorted waste batteries excluding mixtures of only list B batteries. Waste batteries not specified on list B containing Annex I constituents to an extent to render them hazardous
 
-A1180        Waste electrical and electronic assemblies or scrap<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[2]</span></span></span> containing components such as accumulators and other batteries included on list A, mercury‑switches, glass from cathode‑ray tubes and other activated glass and PCB‑capacitors, or contaminated with Annex I constituents (e.g. cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B B1110)<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[3]</span></span></span>.
+A1180        Waste electrical and electronic assemblies or scrap<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[2]</span></span></span> containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCB-capacitors, or contaminated with Annex I constituents (e.g. cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B B1110)<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[3]</span></span></span>.
 
 A2     <u>Wastes containing principally inorganic constituents, which may contain metals and organic materials</u>
 
-A2010        Glass waste from cathode‑ray tubes and other activated glasses
+A2010        Glass waste from cathode-ray tubes and other activated glasses
 
 A2020        Waste inorganic fluorine compounds in the form of liquids or sludges but excluding such wastes specified on list B
 
@@ -4671,7 +4671,7 @@ A2040        Waste gypsum arising from chemical industry processes
 
 A2050        Waste asbestos (dusts and fibres)
 
-A2060        Coal‑fired power plant fly‑ash containing Annex I substances in concentrations sufficient to exhibit Annex III characteristics (Note the related entry on list B B2050)
+A2060        Coal-fired power plant fly-ash containing Annex I substances in concentrations sufficient to exhibit Annex III characteristics (Note the related entry on list B B2050)
 
 A3     <u>Wastes containing principally organic constituents, which may contain metals and inorganic materials</u>
 
@@ -4679,7 +4679,7 @@ A3010        Waste from the production or processing of petroleum 
 
 A3020        Waste mineral oils unfit for their originally intended use
 
-A3030        Wastes that contain, consist of or are contaminated with leaded anti‑knock compound sludges
+A3030        Wastes that contain, consist of or are contaminated with leaded anti-knock compound sludges
 
 A3040        Waste thermal (heat transfer) fluids
 
@@ -4701,15 +4701,15 @@ A3120        Fluff — light fraction from shredding
 
 A3130        Waste organic phosphorous compounds
 
-A3140        Waste non‑halogenated organic solvents but excluding such wastes specified on list B
+A3140        Waste non-halogenated organic solvents but excluding such wastes specified on list B
 
 A3150        Waste halogenated organic solvents
 
-A3160        Waste halogenated or unhalogenated non‑aqueous distillation residues arising from organic solvent recovery operations
+A3160        Waste halogenated or unhalogenated non-aqueous distillation residues arising from organic solvent recovery operations
 
-A3170        Wastes arising from the production of aliphatic halogenated hydrocarbons (such as chloromethane, dichloro‑ethane, vinyl chloride, vinylidene chloride, allyl chloride and epichlorhydrin)
+A3170        Wastes arising from the production of aliphatic halogenated hydrocarbons (such as chloromethane, dichloro-ethane, vinyl chloride, vinylidene chloride, allyl chloride and epichlorhydrin)
 
-A3180        Wastes, substances and articles containing, consisting of or contaminated with polychlorinated biphenyl (PCB), polychlorinated terphenyl (PCT), polychlorinated napthalene (PCN) or polybrominated biphenyl (PBB), or any other polybrominated analogues of these compounds, at a concentration level of 50 mg/kg or more<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[4]</span></span></span>
+A3180        Wastes, substances and articles containing, consisting of or contaminated with polychlorinated biphenyl (PCB), polychlorinated terphenyl (PCT), polychlorinated napthalene (PCN) or polybrominated biphenyl (PBB), or any other polybrominated analogues of these compounds, at a concentration level of 50 mg/kg or more<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[4]</span></span></span>
 
 A3190        Waste tarry residues (excluding asphalt cements) arising from refining, distillation and any pyrolitic treatment of organic materials
 
@@ -4719,13 +4719,13 @@ A4010        Wastes from the production, preparation and use of ph
 
 A4020        Clinical and related wastes; that is wastes arising from medical, nursing, dental, veterinary or similar practices, and wastes generated in hospitals or other facilities during the investigation or treatment of patients, or research projects
 
-A4030        Wastes from the production, formulation and use of biocides and phytopharmaceuticals, including waste pesticides and herbicides which are off‑specification, out‑dated,<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[5]</span></span></span> or unfit for their originally intended use
+A4030        Wastes from the production, formulation and use of biocides and phytopharmaceuticals, including waste pesticides and herbicides which are off-specification, out-dated,<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[5]</span></span></span> or unfit for their originally intended use
 
-A4040        Wastes from the manufacture, formulation and use of wood‑preserving chemicals<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[6]</span></span></span>
+A4040        Wastes from the manufacture, formulation and use of wood-preserving chemicals<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[6]</span></span></span>
 
 A4050        Wastes that contain, consist of or are contaminated with any of the following:
 
-·<span style="font:7.0pt " new="">      </span>Inorganic cyanides, excepting precious‑metal‑bearing residues in solid form containing traces of inorganic cyanides
+·<span style="font:7.0pt " new="">      </span>Inorganic cyanides, excepting precious-metal-bearing residues in solid form containing traces of inorganic cyanides
 
 ·<span style="font:7.0pt " new="">      </span>Organic cyanides
 
@@ -4737,19 +4737,19 @@ A4080        Wastes of an explosive nature (but excluding such was
 
 A4090        Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B B2120)
 
-A4100        Wastes from industrial pollution control devices for cleaning of industrial off‑gases but excluding such wastes specified on list B
+A4100        Wastes from industrial pollution control devices for cleaning of industrial off-gases but excluding such wastes specified on list B
 
 A4110        Wastes that contain, consist of or are contaminated with any of the following:
 
-·<span style="font:7.0pt " new="">      </span>Any congenor of polychlorinated dibenzo‑furan
+·<span style="font:7.0pt " new="">      </span>Any congenor of polychlorinated dibenzo-furan
 
-·<span style="font:7.0pt " new="">      </span>Any congenor of polychlorinated dibenzo‑dioxin
+·<span style="font:7.0pt " new="">      </span>Any congenor of polychlorinated dibenzo-dioxin
 
 A4120        Wastes that contain, consist of or are contaminated with peroxides
 
 A4130        Waste packages and containers containing Annex I substances in concentrations sufficient to exhibit Annex III hazard characteristics
 
-A4140        Waste consisting of or containing off specification or out‑dated<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[7]</span></span></span> chemicals corresponding to Annex I categories and exhibiting Annex III hazard characteristics
+A4140        Waste consisting of or containing off specification or out-dated<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[7]</span></span></span> chemicals corresponding to Annex I categories and exhibiting Annex III hazard characteristics
 
 A4150        Waste chemical substances arising from research and development or teaching activities which are not identified and/or are new and whose effects on human health and/or the environment are not known
 
@@ -4763,9 +4763,9 @@ LIST B
 
            Wastes contained in the Annex will not be wastes covered by Article 1, paragraph 1 (a), of this Convention unless they contain Annex I material to an extent causing them to exhibit an Annex III characteristic.
 
-B1     <u>Metal and metal‑bearing wastes</u>
+B1     <u>Metal and metal-bearing wastes</u>
 
-B1010        Metal and metal‑alloy wastes in metallic, non‑dispersible form:
+B1010         Metal and metal-alloy wastes in metallic, non-dispersible form:
 
 ·<span style="font:7.0pt " new="">      </span>Precious metals (gold, silver, the platinum group, but not mercury)
 
@@ -4809,7 +4809,7 @@ B1010        Metal and metal‑alloy wastes in metallic, non‑dis
 
 ·<span style="font:7.0pt " new="">      </span>Rare earths scrap
 
-B1020        Clean, uncontaminated metal scrap, including alloys, in bulk finished form (sheet, plate, beams, rods, etc), of:
+B1020         Clean, uncontaminated metal scrap, including alloys, in bulk finished form (sheet, plate, beams, rods, etc), of:
 
 ·<span style="font:7.0pt " new="">      </span>Antimony scrap
 
@@ -4817,31 +4817,31 @@ B1020        Clean, uncontaminated metal scrap, including alloys, 
 
 ·<span style="font:7.0pt " new="">      </span>Cadmium scrap
 
-·<span style="font:7.0pt " new="">      </span>Lead scrap (but excluding lead‑acid batteries)
+·<span style="font:7.0pt " new="">      </span>Lead scrap (but excluding lead-acid batteries)
 
 ·<span style="font:7.0pt " new="">      </span>Selenium scrap
 
 ·<span style="font:7.0pt " new="">      </span>Tellurium scrap
 
-B1030        Refractory metals containing residues
+B1030         Refractory metals containing residues
 
-B1040        Scrap assemblies from electrical power generation not contaminated with lubricating oil, PCB or PCT to an extent to render them hazardous
+B1040         Scrap assemblies from electrical power generation not contaminated with lubricating oil, PCB or PCT to an extent to render them hazardous
 
-B1050        Mixed non‑ferrous metal, heavy fraction scrap, not containing Annex I materials in concentrations sufficient to exhibit Annex III characteristics<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[8]</span></span></span>
+B1050         Mixed non-ferrous metal, heavy fraction scrap, not containing Annex I materials in concentrations sufficient to exhibit Annex III characteristics<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[8]</span></span></span>
 
-B1060        Waste selenium and tellurium in metallic elemental form including powder
+B1060         Waste selenium and tellurium in metallic elemental form including powder
 
-B1070        Waste of copper and copper alloys in dispersible form, unless they contain Annex I constituents to an extent that they exhibit Annex III characteristics
+B1070         Waste of copper and copper alloys in dispersible form, unless they contain Annex I constituents to an extent that they exhibit Annex III characteristics
 
-B1080        Zinc ash and residues including zinc alloys residues in dispersible form unless containing Annex I constituents in concentration such as to exhibit Annex III characteristics or exhibiting hazard characteristics H4.3<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[9]</span></span></span>
+B1080         Zinc ash and residues including zinc alloys residues in dispersible form unless containing Annex I constituents in concentration such as to exhibit Annex III characteristics or exhibiting hazard characteristics H4.3<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[9]</span></span></span>
 
-B1090        Waste batteries conforming to a specification, excluding those made with lead, cadmium or mercury
+B1090         Waste batteries conforming to a specification, excluding those made with lead, cadmium or mercury
 
-B1100        Metal‑bearing wastes arising from melting, smelting and refining of metals:
+B1100         Metal-bearing wastes arising from melting, smelting and refining of metals:
 
 ·<span style="font:7.0pt " new="">      </span>Hard zinc spelter
 
-·<span style="font:7.0pt " new="">      </span>Zinc‑containing drosses:
+·<span style="font:7.0pt " new="">      </span>Zinc-containing drosses:
 
 -<span style="font:7.0pt " new="">     </span>Galvanizing slab zinc top dross (&gt;90% Zn)
 
@@ -4861,81 +4861,81 @@ B1100        Metal‑bearing wastes arising from melting, smelting
 
 ·<span style="font:7.0pt " new="">      </span>Slags from precious metals processing for further refining
 
-·<span style="font:7.0pt " new="">      </span>Tantalum‑bearing tin slags with less than 0.5% tin
+·<span style="font:7.0pt " new="">      </span>Tantalum-bearing tin slags with less than 0.5% tin
 
-B1110        Electrical and electronic assemblies:
+B1110         Electrical and electronic assemblies:
 
 ·<span style="font:7.0pt " new="">      </span>Electronic assemblies consisting only of metals or alloys
 
-·<span style="font:7.0pt " new="">      </span>Waste electrical and electronic assemblies or scrap<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[10]</span></span></span> (including printed circuit boards) not containing components such as accumulators and other batteries included on list A, mercury‑switches, glass from cathode‑ray tubes and other activated glass and PCB‑capacitors, or not contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) or from which these have been removed, to an extent that they do not possess any of the characteristics contained in Annex III (note the related entry on list A A1180)
+·<span style="font:7.0pt " new="">      </span>Waste electrical and electronic assemblies or scrap<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[10]</span></span></span> (including printed circuit boards) not containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCB-capacitors, or not contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) or from which these have been removed, to an extent that they do not possess any of the characteristics contained in Annex III (note the related entry on list A A1180)
 
-·<span style="font:7.0pt " new="">      </span>Electrical and electronic assemblies (including printed circuit boards, electronic components and wires) destined for direct re‑use,<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[11]</span></span></span> and not for recycling or final disposal<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[12]</span></span></span>
+·<span style="font:7.0pt " new="">      </span>Electrical and electronic assemblies (including printed circuit boards, electronic components and wires) destined for direct re-use,<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[11]</span></span></span> and not for recycling or final disposal<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[12]</span></span></span>
 
-B1120        Spent catalysts excluding liquids used as catalysts, containing any of:
+B1120         Spent catalysts excluding liquids used as catalysts, containing any of:
 
 ·<span style="font:7.0pt " new="">      </span>Transition metals, excluding waste catalysts (spent catalysts, liquid used catalysts or other catalysts) on list A:
 
-                                                         Scandium                      Titanium
+                                                         Scandium                        Titanium
 
-                                                         Vanadium                      Chromium
+                                                         Vanadium                       Chromium
 
-                                                         Manganese                    Iron
+                                                         Manganese                     Iron
 
                                                          Cobalt                            Nickel
 
-                                                         Copper                          Zinc
+                                                         Copper                           Zinc
 
-                                                         Yttrium                          Zirconium
+                                                         Yttrium                           Zirconium
 
-                                                         Niobium                        Molybdenum
+                                                         Niobium                          Molybdenum
 
-                                                         Hafnium                        Tantalum
+                                                         Hafnium                         Tantalum
 
                                                          Tungsten                        Rhenium
 
 ·<span style="font:7.0pt " new="">      </span>Lanthanides (rare earth metals):
 
-                                                         Lanthanum                    Cerium
+                                                         Lanthanum                     Cerium
 
-                                                         Praseodymium               Neodymium
+                                                         Praseodymium                Neodymium
 
-                                                         Samarium                      Europium
+                                                         Samarium                       Europium
 
-                                                         Gadolinium                   Terbium
+                                                         Gadolinium                      Terbium
 
-                                                         Dysprosium                   Holmium
+                                                         Dysprosium                    Holmium
 
-                                                         Erbium                          Thulium
+                                                         Erbium                           Thulium
 
-                                                         Ytterbium                      Lutetium
+                                                         Ytterbium                       Lutetium
 
-B1130        Clean spent precious‑metal‑bearing catalysts
+B1130         Clean spent precious-metal-bearing catalysts
 
-B1140        Precious‑metal‑bearing residues in solid form which contain traces of inorganic cyanides
+B1140         Precious-metal-bearing residues in solid form which contain traces of inorganic cyanides
 
-B1150        Precious metals and alloy wastes (gold, silver, the platinum group, but not mercury) in a dispersible, non‑liquid form with appropriate packaging and labelling
+B1150         Precious metals and alloy wastes (gold, silver, the platinum group, but not mercury) in a dispersible, non-liquid form with appropriate packaging and labelling
 
-B1160        Precious‑metal ash from the incineration of printed circuit boards (note the related entry on list A A1150)
+B1160         Precious-metal ash from the incineration of printed circuit boards (note the related entry on list A A1150)
 
-B1170        Precious‑metal ash from the incineration of photographic film
+B1170         Precious-metal ash from the incineration of photographic film
 
-B1180        Waste photographic film containing silver halides and metallic silver
+B1180         Waste photographic film containing silver halides and metallic silver
 
-B1190        Waste photographic paper containing silver halides and metallic silver
+B1190         Waste photographic paper containing silver halides and metallic silver
 
-B1200        Granulated slag arising from the manufacture of iron and steel
+B1200         Granulated slag arising from the manufacture of iron and steel
 
-B1210        Slag arising from the manufacture of iron and steel including slags as a source of TiO<sub>2</sub> and vanadium
+B1210         Slag arising from the manufacture of iron and steel including slags as a source of TiO<sub>2</sub> and vanadium
 
-B1220        Slag from zinc production, chemically stabilized, having a high iron content (above 20%) and processed according to industrial specifications (e.g., DIN 4301) mainly for construction
+B1220         Slag from zinc production, chemically stabilized, having a high iron content (above 20%) and processed according to industrial specifications (e.g., DIN 4301) mainly for construction
 
-B1230        Mill scaling arising from the manufacture of iron and steel
+B1230         Mill scaling arising from the manufacture of iron and steel
 
-B1240        Copper oxide mill‑scale
+B1240         Copper oxide mill-scale
 
 B2     <u>Wastes containing principally inorganic constituents, which may contain metals and organic materials</u>
 
-B2010        Wastes from mining operations in non‑dispersible form:
+B2010         Wastes from mining operations in non-dispersible form:
 
 ·<span style="font:7.0pt " new="">      </span>Natural graphite waste
 
@@ -4951,19 +4951,19 @@ B2010        Wastes from mining operations in non‑dispersible fo
 
 ·<span style="font:7.0pt " new="">      </span>Silica wastes in solid form excluding those used in foundry operations
 
-B2020        Glass waste in non‑dispersible form:
+B2020         Glass waste in non-dispersible form:
 
-·<span style="font:7.0pt " new="">      </span>Cullet and other waste and scrap of glass except for glass from cathode‑ray tubes and other activated glasses
+·<span style="font:7.0pt " new="">      </span>Cullet and other waste and scrap of glass except for glass from cathode-ray tubes and other activated glasses
 
-B2030        Ceramic wastes in non‑dispersible form:
+B2030         Ceramic wastes in non-dispersible form:
 
 ·<span style="font:7.0pt " new="">      </span>Cermet wastes and scrap (metal ceramic composites)
 
 ·<span style="font:7.0pt " new="">      </span>Ceramic based fibres not elsewhere specified or included
 
-B2040        Other wastes containing principally inorganic constituents:
+B2040         Other wastes containing principally inorganic constituents:
 
-·<span style="font:7.0pt " new="">      </span>Partially refined calcium sulphate produced from flue‑gas desulphurization (FDG)
+·<span style="font:7.0pt " new="">      </span>Partially refined calcium sulphate produced from flue-gas desulphurization (FDG)
 
 ·<span style="font:7.0pt " new="">      </span>Waste gypsum wallboard or plasterboard arising from the demolition of buildings
 
@@ -4979,31 +4979,31 @@ B2040        Other wastes containing principally inorganic constit
 
 ·<span style="font:7.0pt " new="">      </span>Broken concrete
 
-·<span style="font:7.0pt " new="">      </span>Lithium‑tantalum and lithium‑niobium containing glass scraps
+·<span style="font:7.0pt " new="">      </span>Lithium-tantalum and lithium-niobium containing glass scraps
 
-B2050        Coal‑fired power plant fly‑ash, not included on list A (note the related entry on list A A2060)
+B2050         Coal-fired power plant fly-ash, not included on list A (note the related entry on list A A2060)
 
-B2060        Spent activated carbon resulting from the treatment of potable water and processes of the food industry and vitamin production (note the related entry on List A A4160)
+B2060         Spent activated carbon resulting from the treatment of potable water and processes of the food industry and vitamin production (note the related entry on List A A4160)
 
-B2070        Calcium fluoride sludge
+B2070         Calcium fluoride sludge
 
-B2080        Waste gypsum arising from chemical industry processes not included on list A (note the related entry on list A A2040)
+B2080         Waste gypsum arising from chemical industry processes not included on list A (note the related entry on list A A2040)
 
-B2090        Waste anode butts from steel or aluminium production made of petroleum coke or bitumen and cleaned to normal industry specifications (excluding anode butts from chlor alkali electrolyses and from metallurgical industry)
+B2090         Waste anode butts from steel or aluminium production made of petroleum coke or bitumen and cleaned to normal industry specifications (excluding anode butts from chlor alkali electrolyses and from metallurgical industry)
 
-B2100        Waste hydrates of aluminium and waste alumina and residues from alumina production excluding such materials used for gas cleaning, flocculation or filtration processes
+B2100         Waste hydrates of aluminium and waste alumina and residues from alumina production excluding such materials used for gas cleaning, flocculation or filtration processes
 
-B2110        Bauxite residue (“red mud”) (pH moderated to less than 11.5)
+B2110         Bauxite residue (“red mud”) (pH moderated to less than 11.5)
 
-B2120        Waste acidic or basic solutions with a pH greater than 2 and less than 11.5, which are not corrosive or otherwise hazardous (note the related entry on list A A4090)
+B2120         Waste acidic or basic solutions with a pH greater than 2 and less than 11.5, which are not corrosive or otherwise hazardous (note the related entry on list A A4090)
 
 B3     <u>Wastes containing principally organic constituents, which may contain metals and inorganic materials</u>
 
-B3010        Solid plastic waste:
+B3010         Solid plastic waste:
 
                    The following plastic or mixed plastic materials, provided they are not mixed with other wastes and are prepared to a specification:
 
-·<span style="font:7.0pt " new="">      </span>Scrap plastic on non‑halogenated polymers and co‑polymers, including but not limited to the following<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[13]</span></span></span>:
+·<span style="font:7.0pt " new="">      </span>Scrap plastic on non-halogenated polymers and co-polymers, including but not limited to the following<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[13]</span></span></span>:
 
 -<span style="font:7.0pt " new="">     </span>ethylene
 
@@ -5031,7 +5031,7 @@ B3010        Solid plastic waste:
 
 -<span style="font:7.0pt " new="">     </span>acrylic polymers
 
--<span style="font:7.0pt " new="">     </span>alkanes C10‑C13 (plasticiser)
+-<span style="font:7.0pt " new="">     </span>alkanes C10-C13 (plasticiser)
 
 -<span style="font:7.0pt " new="">     </span>polyurethane (not containing CFC’s)
 
@@ -5059,7 +5059,7 @@ B3010        Solid plastic waste:
 
 -<span style="font:7.0pt " new="">     </span>polyamides
 
-·<span style="font:7.0pt " new="">      </span>The following fluorinated polymer wastes<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:">\[14]</span></span></span>
+·<span style="font:7.0pt " new="">      </span>The following fluorinated polymer wastes<span class="MsoFootnoteReference"><span class="MsoFootnoteReference"><span style="font-size:12.0pt;font-family:Times">\[14]</span></span></span>
 
 -<span style="font:7.0pt " new="">     </span>perfluoroethylene/propylene (FEP)
 
@@ -5071,7 +5071,7 @@ B3010        Solid plastic waste:
 
 -<span style="font:7.0pt " new="">     </span>polyvinylidenefluoride (PVDF)
 
-B3020        Paper, paperboard and paper product wastes
+B3020         Paper, paperboard and paper product wastes
 
                    The following materials, provided they are not mixed with hazardous wastes:
 
@@ -5085,7 +5085,7 @@ B3020        Paper, paperboard and paper product wastes
 
 ·<span style="font:7.0pt " new="">      </span>other, including but not limited to 1) laminated paperboard 2) unsorted scrap
 
-B3030        Textile wastes
+B3030         Textile wastes
 
                    The following materials, provided they are not mixed with other wastes and are prepared to a specification:
 
@@ -5097,7 +5097,7 @@ B3030        Textile wastes
 
 -<span style="font:7.0pt " new="">     </span>Wastes shall not be mixed
 
--<span style="font:7.0pt " new="">     </span>Problems arising from open‑burning practices to be considered
+-<span style="font:7.0pt " new="">     </span>Problems arising from open-burning practices to be considered
 
 ·<span style="font:7.0pt " new="">      </span>Waste of wool or of fine or coarse animal hair, including yarn waste but excluding garnetted stock
 
@@ -5129,7 +5129,7 @@ B3030        Textile wastes
 
 ·<span style="font:7.0pt " new="">      </span>Tow, noils and waste (including yarn waste and garnetted stock) or ramie and other vegetable textile fibres, not elsewhere specified or included
 
-·<span style="font:7.0pt " new="">      </span>Waste (including noils, yarn waste and garnetted stock) of man‑made fibres
+·<span style="font:7.0pt " new="">      </span>Waste (including noils, yarn waste and garnetted stock) of man-made fibres
 
 -<span style="font:7.0pt " new="">     </span>of synthetic fibres
 
@@ -5143,7 +5143,7 @@ B3030        Textile wastes
 
 -<span style="font:7.0pt " new="">     </span>other
 
-B3040        Rubber wastes
+B3040         Rubber wastes
 
                    The following materials, provided they are not mixed with other wastes:
 
@@ -5151,29 +5151,29 @@ B3040        Rubber wastes
 
 ·<span style="font:7.0pt " new="">      </span>Other rubber wastes (excluding such wastes specified elsewhere)
 
-B3050        Untreated cork and wood waste:
+B3050         Untreated cork and wood waste:
 
 ·<span style="font:7.0pt " new="">      </span>Wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms
 
 ·<span style="font:7.0pt " new="">      </span>Cork waste: crushed, granulated or ground cork
 
-B3060        Wastes arising from agro‑food industries provided it is not infectious:
+B3060         Wastes arising from agro-food industries provided it is not infectious:
 
 ·<span style="font:7.0pt " new="">      </span>Wine lees
 
-·<span style="font:7.0pt " new="">      </span>Dried and sterilized vegetable waste, residues and by‑products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included
+·<span style="font:7.0pt " new="">      </span>Dried and sterilized vegetable waste, residues and by-products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included
 
 ·<span style="font:7.0pt " new="">      </span>Degras: residues resulting from the treatment of fatty substances or animal or vegetable waxes
 
-·<span style="font:7.0pt " new="">      </span>Waste of bones and horn‑cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or degelatinised
+·<span style="font:7.0pt " new="">      </span>Waste of bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or degelatinised
 
 ·<span style="font:7.0pt " new="">      </span>Fish waste
 
 ·<span style="font:7.0pt " new="">      </span>Cocoa shells, husks, skins and other cocoa waste
 
-·<span style="font:7.0pt " new="">      </span>Other wastes from the agro‑food industry excluding by‑products which meet national and international requirements and standards for human or animal consumption
+·<span style="font:7.0pt " new="">      </span>Other wastes from the agro-food industry excluding by-products which meet national and international requirements and standards for human or animal consumption
 
-B3070        The following wastes:
+B3070         The following wastes:
 
 ·<span style="font:7.0pt " new="">      </span>Waste of human hair
 
@@ -5181,27 +5181,27 @@ B3070        The following wastes:
 
 ·<span style="font:7.0pt " new="">      </span>Deactivated fungus mycelium from penicillin production to be used as animal feed
 
-B3080        Waste parings and scrap of rubber
+B3080         Waste parings and scrap of rubber
 
-B3090        Paring and other wastes of leather or of composition leather not suitable for the manufacture of leather articles, excluding leather sludges, not containing hexavalent chromium compounds and biocides (note the related entry on list A A3100)
+B3090         Paring and other wastes of leather or of composition leather not suitable for the manufacture of leather articles, excluding leather sludges, not containing hexavalent chromium compounds and biocides (note the related entry on list A A3100)
 
-B3100        Leather dust, ash, sludges or flours not containing hexavalent chromium compounds or biocides (note the related entry on list A A3090)
+B3100         Leather dust, ash, sludges or flours not containing hexavalent chromium compounds or biocides (note the related entry on list A A3090)
 
-B3110        Fellmongery wastes not containing hexavalent chromium compounds or biocides or infectious substances (note the related entry on list A A3110)
+B3110         Fellmongery wastes not containing hexavalent chromium compounds or biocides or infectious substances (note the related entry on list A A3110)
 
-B3120        Wastes consisting of food dyes
+B3120         Wastes consisting of food dyes
 
-B3130        Waste polymer ethers and waste non‑hazardous monomer ethers incapable of forming peroxides
+B3130         Waste polymer ethers and waste non-hazardous monomer ethers incapable of forming peroxides
 
-B3140        Waste pneumatic tyres, excluding those destined for Annex IVA operations
+B3140         Waste pneumatic tyres, excluding those destined for Annex IVA operations
 
 B4     <u>Wastes which may contain either inorganic or organic constituents</u>
 
-B4010        Wastes consisting mainly of water‑based/latex paints, inks and hardened varnishes not containing organic solvents, heavy metals or biocides to an extent to render them hazardous (note the related entry on list A A4070)
+B4010         Wastes consisting mainly of water-based/latex paints, inks and hardened varnishes not containing organic solvents, heavy metals or biocides to an extent to render them hazardous (note the related entry on list A A4070)
 
-B4020        Wastes from production, formulation and use of resins, latex, plasticizers, glues/adhesives, not listed on list A, free of solvents and other contaminants to an extent that they do not exhibit Annex III characteristics, e.g., water based, or glues based on casein starch, dextrin, cellulose ethers, polyvinyl alcohols (note the related entry on list A A3050)
+B4020         Wastes from production, formulation and use of resins, latex, plasticizers, glues/adhesives, not listed on list A, free of solvents and other contaminants to an extent that they do not exhibit Annex III characteristics, e.g., water based, or glues based on casein starch, dextrin, cellulose ethers, polyvinyl alcohols (note the related entry on list A A3050)
 
-B4030        Used single use cameras, with batteries not included on list A
+B4030         Used single use cameras, with batteries not included on list A
 
 # Notes to the _Hazardous Waste (Regulation of Exports and Imports) Act 1989_
 
@@ -5293,7 +5293,7 @@ of Assent</div>
     <div>11 Dec 1996</div>
   </td>
   <td>
-    <div>Sch. 1 (items 126‑129) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 126-129) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5375,7 +5375,7 @@ of Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -5449,30 +5449,13 @@ Remainder: 24 May 2001</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 62): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Hazardous Waste (Regulation of Exports and Imports) Amendment Act 1996_ was amended by Schedule 7 (item 16) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(3) of which provides as follows:
 
                  (3)   The amendment of the _Hazardous Waste (Regulation of Exports and Imports) Amendment Act 1996_ in Schedule 7 to this Act is taken to have commenced immediately after that Act received the Royal Assent.
 
-_(b)_     The _Hazardous Waste (Regulation of Exports and Imports) Act 1989_ was amended by Schedule 3 only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
+_(b)_    The _Hazardous Waste (Regulation of Exports and Imports) Act 1989_ was amended by Schedules 3 and 4 only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences.
 
@@ -5488,7 +5471,7 @@ _(d)_     The _Hazardous Waste (Regulation of Exports and Imports) Act 1
 
                               (c)   the day on which item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_ commences.
 
-_(e)_     The _Hazardous Waste (Regulation of Exports and Imports) Act 1989_ was amended by Schedule 1 only of the _Environmental Legislation Amendment Act 2001_, subsection 2(2) of which provides as follows:
+_(e)_     The _Hazardous Waste (Regulation of Exports and Imports) Act 1989_ was amended by Schedule 1 only of the _Environmental Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
 
                  (2)   Section 4 and Schedule 1 commence on the 28th day after the day on which this Act receives the Royal Assent.
 
@@ -5585,14 +5568,6 @@ _(e)_     The _Hazardous Waste (Regulation of Exports and Imports) Act 1
   </td>
   <td>
     <div>am. No. 7, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 92, 1999</div>
   </td>
 </tr>
 <tr>
@@ -6045,7 +6020,7 @@ _(e)_     The _Hazardous Waste (Regulation of Exports and Imports) Act 1
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 5 of Part 2</div>
+    <div>Heading to Div. 5 of Part 2 .</div>
   </td>
   <td>
     <div>ad. No. 7, 1996</div>
@@ -6336,20 +6311,12 @@ _(e)_     The _Hazardous Waste (Regulation of Exports and Imports) Act 1
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. No. 139, 2010</div>
+    <div>am. No. 7, 1996; No. 139, 2010</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Note to s. 42(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
   </td>
   <td>
     <div>am. No. 33, 2009</div>
@@ -6493,7 +6460,7 @@ _(e)_     The _Hazardous Waste (Regulation of Exports and Imports) Act 1
 </tr>
 <tr>
   <td>
-    <div>Ss. 58A‑58E</div>
+    <div>Ss. 58A-58E</div>
   </td>
   <td>
     <div>ad. No. 7, 1996</div>
@@ -6512,7 +6479,7 @@ _(e)_     The _Hazardous Waste (Regulation of Exports and Imports) Act 1
     <div>S. 60</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 5, 2011</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -6564,7 +6531,7 @@ _Hazardous Waste (Regulation of Exports and Imports) Amendment Act 1996 (No. 7
 
 ## Schedule 1
 
-## 126  Transitional—continued application of old law to pre‑ commencement applications and permits etc.
+## 126  Transitional—continued application of old law to pre- commencement applications and permits etc.
 
              (1)  This item applies to:
 
@@ -6584,7 +6551,7 @@ _Hazardous Waste (Regulation of Exports and Imports) Amendment Act 1996 (No. 7
 
                    that Act continues to apply, in relation to such an application or permit, as if those amendments had not been made.
 
-## 127  Transitional—pre‑commencement permits etc. to lapse after 12 months
+## 127  Transitional—pre-commencement permits etc. to lapse after 12 months
 
              (1)  This item applies to a statutory permit if the permit was:
 
@@ -6618,9 +6585,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -6630,9 +6597,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -6640,9 +6607,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -6667,6 +6634,8 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn1">
 
+![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image002.gif)
+
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[1]</span></span> Note that mirror entry on list B (B1160) does not specify exceptions.
 
 </div>
@@ -6679,17 +6648,23 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn3">
 
+![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image003.gif)
+
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[3]</span></span> PCBs are at a concentration level of 50 mg/kg or more.
 
 </div>
 
 <div id="ftn4">
 
+![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image003.gif)
+
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[4]</span></span> The 50 mg/kg level is considered to be an internationally practical level for all wastes. However, many individual countries have established lower regulatory levels (eg., 20 mg/kg) for specific wastes.
 
 </div>
 
 <div id="ftn5">
+
+![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image003.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[5]</span></span> “Out-dated” means unused within the period recommended by the manufacturer.
 
@@ -6703,11 +6678,15 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn7">
 
+![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image004.gif)
+
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[7]</span></span> “Out-dated” means unused within the period recommended by the manufacturer.
 
 </div>
 
 <div id="ftn8">
+
+![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image004.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[8]</span></span> Note that even where low level contamination with Annex I materials initially exists, subsequent processes, including recycling processes, may result in separated fractions containing significantly enhanced concentrations of those Annex I materials.
 
@@ -6721,11 +6700,15 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn10">
 
+![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image004.gif)
+
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[10]</span></span> This entry does not include scrap from electrical power generation.
 
 </div>
 
 <div id="ftn11">
+
+![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image004.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[11]</span></span> Reuse can include repair, refurbishment or upgrading, but not major reassembly.
 
@@ -6733,11 +6716,13 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn12">
 
-<span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[12]</span></span> In some countries these materials destined for direct re‑use are not considered wastes.
+<span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[12]</span></span> In some countries these materials destined for direct re-use are not considered wastes.
 
 </div>
 
 <div id="ftn13">
+
+![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image004.gif)
 
 <span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[13]</span></span> It is understood that such scraps are completely polymerized.
 
@@ -6745,6 +6730,8 @@ _Environmental Legislation Amendment Act 2001 (No. 118, 2001)_
 
 <div id="ftn14">
 
-<span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[14]</span></span> Post‑consumer wastes are excluded from this entry
+![---](http://www.comlaw.gov.au/Details/C2010C00809/Html/HazWasteRegExImp89_image004.gif)
+
+<span class="MsoFootnoteReference"><span style="font-size:10.0pt;font-family:" new="">\[14]</span></span> Post-consumer wastes are excluded from this entry
 
 </div>
