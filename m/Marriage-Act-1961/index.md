@@ -1,7 +1,7 @@
 
 Marriage Act 1961
 Act No. 12 of 1961 as amended
-This compilation was prepared on 8 April 2003  taking into account amendments up to Act No. 77 of 2002
+This compilation was prepared on 5 November 2002  taking into account amendments up to Act No. 77 of 2002
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -16,7 +16,7 @@ Part I—Preliminary	1
 5A	Application of the Criminal Code	4
 6	Act not to exclude operation of certain State and Territory laws	4
 7	Validity of certain marriages not affected	4
-8	Extension of Act to Territories etc.	5
+8	Extension of Act to Territories etc.	4
 9	Arrangements with State	5
 9A	Persons who may exercise certain powers may be restricted by Proclamation	6
 Part IA—Marriage education	7
@@ -31,7 +31,7 @@ Part II—Marriageable age and marriages of minors	9
 13	Marriage of minor not to be solemnized without consent of parents etc.	10
 14	Persons whose consent is required	12
 15	Prescribed authority may dispense with consent in certain cases	13
-16	Consent by magistrate where parent etc. refuses consent etc.	14
+16	Consent by magistrate where parent etc. refuses consent etc.	13
 17	Re‑hearing of applications by a Judge	15
 18	Provisions applicable to inquiries by Judge or magistrate	16
 19	Restriction on applications under sections 12, 15 and 16	16
@@ -61,94 +61,95 @@ Division 1—Authorization of Ministers of Religion and other persons as celebr
 37	Furnishing of information by recognised denominations	27
 38	Registrars to furnish information to Attorney‑General	28
 39	Authorisation of other celebrants	28
-Division 2—Marriages by authorised celebrants	29
-40	Application of Division	29
-41	Marriages to be solemnized by authorised celebrant	29
-42	Notice to be given and declaration made	29
-42A	Commissioner of Australian Federal Police or approved authority may issue special notice	32
-43	Marriage may be solemnized on any day etc.	33
-44	Witnesses	33
-45	Form of ceremony	33
-46	Certain authorised celebrants to explain nature of marriage relationship	34
-47	Ministers of religion not bound to solemnize marriage etc.	34
-48	Certain marriages not solemnized in accordance with this Division to be invalid	35
-49	Authorised celebrant to retain consents, statutory declarations etc.	35
-50	Marriage certificates	36
-51	Incorrect marriage certificates	37
-Division 3—Marriages by foreign diplomatic or consular officers	39
-52	Interpretation	39
-53	Application of Division	39
-54	Governor‑General may declare countries to be proclaimed overseas countries	39
-55	Solemnization of marriages in Australia by foreign diplomatic or consular officer	39
-56	Recognition of marriages	40
-57	Registrar and Deputy Registrar of Foreign Marriages	40
-58	Register of Foreign Marriages Solemnized in Australia	41
-59	Searches and certified copies	41
-Part V—Marriages of members of the Defence Force overseas	42
-Division 3—Marriages of members of the Defence Force overseas	42
-71	Marriages of members of the Defence Force overseas	42
-72	Form and ceremony of marriage	42
-Division 4—General	43
-73	Validity of marriages	43
-74	Declaration to be made before chaplain	43
-75	Chaplain to be satisfied of parties’ identity	43
-76	Additional consent to marriage of minor domiciled outside Australia	43
-77	Restriction on solemnization of marriages under this Part	44
-78	Solemnization of marriages where a party to the marriage is not an Australian citizen etc.	45
-79	Chaplain to retain consents etc.	45
-80	Marriage certificate and registration of marriages	45
-81	Power to refuse to solemnize marriage	47
-82	Marriages may be solemnized on any day and at any time	47
-83	Validity of marriages under this Part	47
-84	Registration of overseas marriages attended by a chaplain	48
-85	Certificates of marriages solemnized in accordance with local law in an overseas country	48
-86	Evidence	49
-87	Validity of marriages otherwise than under this Part not affected	49
-88	Imperial Foreign Marriage Acts	50
-Part VA—Recognition of foreign marriages	51
-88A	Object of Part	51
-88B	Interpretation	51
-88C	Application of Part	51
-88D	Validity of marriages	52
-88E	Validity of certain marriages not affected by this Part	53
-88F	Incidental determination of recognition of certain foreign marriages	54
-88G	Evidence	54
-Part VI—Legitimation	56
-89	Legitimation by virtue of marriage of parents	56
-90	Legitimacy of children of certain foreign marriages	57
-91	Legitimacy of children of certain void marriages	58
-92	Declarations of legitimacy etc.	59
-93	Operation of certain State and Territory laws	60
-Part VII—Offences	61
-94	Bigamy	61
-95	Marrying person not of marriageable age etc.	62
-98	Contravention of subsection 13(3)	64
-99	Solemnizing marriage where notice or declaration not given or made etc.	64
-100	 Solemnizing marriage where reason to believe there is a legal impediment	64
-101	Solemnization of marriage by unauthorised person	65
-103	Going through ceremony of marriage before person not authorised to solemnize it	65
-104	Giving defective notice etc.	65
-105	Failure to comply with notice under section 51	65
-106	Failure by interpreter to furnish certificate etc.	66
-Part VIII—Transitional provisions	67
-107	Exercise of powers etc. before commencement of Act	67
-108	Application of offence provisions to notices etc. given before commencement of this Act	67
-109	Consents etc. given under State or Territory laws	68
-Part IX—Miscellaneous	69
-111	Certain marriages and legitimations to be valid in all the Territories	69
-111A	Abolition of action for breach of promise	69
-112	Interpreters at marriage ceremonies	69
-113	Second marriage ceremonies	70
-114	Correction of errors in marriage registries	72
-115	Publication of lists of authorised celebrants	73
-116	Judicial notice of signatures of Registrars, celebrants etc.	74
-117	Evidence of registration etc.	75
-118	Right of ministers of religion to receive fees	75
-120	Regulations	75
-The Schedule—Persons whose consent is required to the marriage of a minor	77
-Part I		77
-Part III		79
-Notes	81
+Division 2—Marriages by authorised celebrants	30
+40	Application of Division	30
+41	Marriages to be solemnized by authorised celebrant	30
+42	Notice to be given and declaration made	30
+42A	Commissioner of Australian Federal Police or approved authority may issue special notice	33
+43	Marriage may be solemnized on any day etc.	34
+44	Witnesses	34
+45	Form of ceremony	34
+46	Certain authorised celebrants to explain nature of marriage relationship	35
+47	Ministers of religion not bound to solemnize marriage etc.	35
+48	Certain marriages not solemnized in accordance with this Division to be invalid	36
+49	Authorised celebrant to retain consents, statutory declarations etc.	36
+50	Marriage certificates	37
+51	Incorrect marriage certificates	38
+Division 3—Marriages by foreign diplomatic or consular officers	40
+52	Interpretation	40
+53	Application of Division	40
+54	Governor‑General may declare countries to be proclaimed overseas countries	40
+55	Solemnization of marriages in Australia by foreign diplomatic or consular officer	40
+56	Recognition of marriages	41
+57	Registrar and Deputy Registrar of Foreign Marriages	41
+58	Register of Foreign Marriages Solemnized in Australia	42
+59	Searches and certified copies	42
+Part V—Marriages of members of the Defence Force overseas	43
+Division 3—Marriages of members of the Defence Force overseas	43
+71	Marriages of members of the Defence Force overseas	43
+72	Form and ceremony of marriage	43
+Division 4—General	44
+73	Validity of marriages	44
+74	Declaration to be made before chaplain	44
+75	Chaplain to be satisfied of parties’ identity	44
+76	Additional consent to marriage of minor domiciled outside Australia	44
+77	Restriction on solemnization of marriages under this Part	45
+78	Solemnization of marriages where a party to the marriage is not an Australian citizen etc.	46
+79	Chaplain to retain consents etc.	46
+80	Marriage certificate and registration of marriages	46
+81	Power to refuse to solemnize marriage	48
+82	Marriages may be solemnized on any day and at any time	48
+83	Validity of marriages under this Part	48
+84	Registration of overseas marriages attended by a chaplain	49
+85	Certificates of marriages solemnized in accordance with local law in an overseas country	49
+86	Evidence	50
+87	Validity of marriages otherwise than under this Part not affected	50
+88	Imperial Foreign Marriage Acts	51
+Part VA—Recognition of foreign marriages	52
+88A	Object of Part	52
+88B	Interpretation	52
+88C	Application of Part	52
+88D	Validity of marriages	53
+88E	Validity of certain marriages not affected by this Part	54
+88F	Incidental determination of recognition of certain foreign marriages	55
+88G	Evidence	55
+Part VI—Legitimation	57
+89	Legitimation by virtue of marriage of parents	57
+90	Legitimacy of children of certain foreign marriages	58
+91	Legitimacy of children of certain void marriages	59
+92	Declarations of legitimacy etc.	60
+93	Operation of certain State and Territory laws	61
+Part VII—Offences	62
+94	Bigamy	62
+95	Marrying person not of marriageable age etc.	63
+98	Contravention of subsection 13(3)	65
+99	Solemnizing marriage where notice or declaration not given or made etc.	65
+100	 Solemnizing marriage where reason to believe there is a legal impediment	65
+101	Solemnization of marriage by unauthorised person	66
+103	Going through ceremony of marriage before person not authorised to solemnize it	66
+104	Giving defective notice etc.	66
+105	Failure to comply with notice under section 51	66
+106	Failure by interpreter to furnish certificate etc.	67
+Part VIII—Transitional provisions	68
+107	Exercise of powers etc. before commencement of Act	68
+108	Application of offence provisions to notices etc. given before commencement of this Act	68
+109	Consents etc. given under State or Territory laws	69
+Part IX—Miscellaneous	70
+111	Certain marriages and legitimations to be valid in all the Territories	70
+111A	Abolition of action for breach of promise	70
+112	Interpreters at marriage ceremonies	70
+113	Second marriage ceremonies	71
+114	Correction of errors in marriage registries	73
+115	Publication of lists of authorised celebrants	74
+116	Judicial notice of signatures of Registrars, celebrants etc.	75
+117	Evidence of registration etc.	76
+118	Right of ministers of religion to receive fees	76
+120	Regulations	77
+The Schedule—Persons whose consent is required to the marriage of a minor	79
+Part I	79
+Part III	81
+Notes		83
+
 An Act relating to Marriage
 Part I—Preliminary
   
@@ -549,7 +550,10 @@ Division 2—Marriages by authorised celebrants
 	(v)	an employee of the Australian Trade Commission authorised under paragraph 3(d) of the Consular Fees Act 1955.
 	(3)	However, if the signature of a party to an intended marriage cannot conveniently be obtained at the time when it is desired to give notice under this section, a notice duly signed by the other party and otherwise complying with the provisions of this section shall, if it is signed by the first‑mentioned party in the presence of an authorized celebrant before the marriage is solemnized, be deemed to have been a sufficient notice.
 	(4)	Where a party to an intended marriage is unable, after reasonable inquiry, to ascertain all of the particulars in relation to that party required to be contained in a notice under this section, the failure to include in the notice such of those particulars as the party is unable to ascertain does not make the notice ineffective for the purposes of this section if, at any time before the marriage is solemnized, that party furnishes to the authorized celebrant solemnizing the marriage a statutory declaration as to that party’s inability to ascertain the particulars not included in the notice and the reason for that inability.
-	(5)	Despite a notice required by subsection (1) having been received later than 1 month before the date of the marriage, a prescribed authority may authorise an authorized celebrant to solemnize a marriage if the authority is satisfied that one or more of the circumstances prescribed in the regulations have been met.
+	(5)	A prescribed authority may, if satisfied that the circumstances of the particular case justify so doing:
+	(a)	authorize an authorized celebrant to solemnize a marriage; or
+	(b)	where the prescribed authority is also an authorized celebrant and there is no other authorized celebrant suitable to the parties conveniently available, solemnize a marriage himself or herself;
+notwithstanding that the notice required by subsection (1) has been received later than 1 month before the date of the marriage.
 	(5A)	An authorized celebrant shall, as soon as practicable after receiving the notice referred to in subsection (1), give to the parties a document in the prescribed form outlining the obligations and consequences of marriage and indicating the availability of marriage education and counselling.
 	(6)	Where, by reason of the death, absence or illness of an authorized celebrant to whom a notice of intention to marry has been given, or for any other reason, it is impracticable for that person to solemnize the marriage, the marriage may be solemnized by any authorized celebrant who has possession of the notice.
 	(7)	The declarations of the parties required by subsection (1) shall both be written on the one paper and on the same side of that paper.
@@ -557,7 +561,7 @@ Division 2—Marriages by authorised celebrants
 	(a)	unless the authorized celebrant has satisfied himself or herself that the parties are the parties referred to in the notice given under this section in relation to the marriage; or
 	(b)	if the authorized celebrant has reason to believe that:
 	(i)	a notice given under this section; or
-	(ii)	a declaration made and subscribed under this section, or a statutory declaration made for the purposes of this section;
+	 (ii)	a declaration made and subscribed under this section, or a statutory declaration made for the purposes of this section;
 in relation to the marriage, contains a false statement or an error or is defective.
 	(9)	An authorized celebrant may permit an error in a notice under this section to be corrected in his or her presence by either of the parties at any time before the marriage to which it relates has been solemnized and may treat the corrected notice as having been originally given in its corrected form.
 	(10)	Where the declaration made by a party under subsection (1) states that that party is a divorced person or a widow or widower, an authorized celebrant shall not solemnize the marriage unless there is produced to him or her evidence of that party’s divorce, or of the death of that party’s spouse, as the case requires.
@@ -1135,7 +1139,7 @@ Application, saving or transitional provisions
 Marriage Act 1961
 12, 1961
 6 May 1961
-Ss. 1–3, 5(1) and 9, Part III (ss. 22–24), Part VIII (ss. 107–110) and s. 120: 6 May 1961 Remainder: 1 Sept 1963 (see Gazette 1963, p. 1977) 
+Ss. 1‑3, 5(1) and 9, Part III (ss. 22‑24), Part VIII (ss. 107‑110) and s. 120: 6 May 1961 Remainder: 1 Sept 1963 (see Gazette 1963, p. 1977) 
 
 Statute Law Revision (Decimal Currency) Act 1966
 93, 1966
@@ -1155,17 +1159,17 @@ Ss. 9(1) and 10
 Marriage Amendment Act 1976
 209, 1976
 20 Dec 1976
-Ss. 1, 2 and 30: Royal Assent Ss. 14 and 31: 1 July 1976 Remainder: 20 June 1977 (see Gazette 1977, No. S93)
+Ss. 1, 2 and 30: Royal Assent Ss. 14 and 31: 1 July 1976 Remainder: 20 June 1977 (see Gazette 1977, No. S93)
 Ss. 2(4), 14(2), 15(2), 23(2) and 30 
 Domicile (Consequential Amendments) Act 1982
 2, 1982
 4 Mar 1982
-1 July 1982 (see  s. 2 and Gazette  1982, No. G26, p. 2)
+1 July 1982 (see s. 2 and Gazette  1982, No. G26, p. 2)
 — 
 Marriage Amendment Act 1985
 7, 1985
 29 Mar 1985
-Ss. 4, 10–13 and 23: 7 Apr 1986 (see Gazette 1986, No. S153) Remainder: 26 Apr 1985
+Ss. 4, 10‑13 and 23: 7 Apr 1986 (see Gazette 1986, No. S153) Remainder: 26 Apr 1985
 Ss. 8(2), (3) and 25(2) 
 Statute Law (Miscellaneous Provisions) Act 1988
 38, 1988
@@ -1180,7 +1184,7 @@ S. 49: Royal Assent (b)
 Sex Discrimination Amendment Act 1991
 71, 1991
 25 June 1991
-Part 3 (ss. 11–17): 1 Aug 1991 (c)
+Part 3 (ss. 11‑17): 1 Aug 1991 (c)
 Ss. 3 and 17
 Territories Law Reform Act 1992
 104, 1992
@@ -1210,37 +1214,37 @@ Schedule 13: Royal Assent (g)
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 137, 2000
 24 Nov 2000
-Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent Remainder: 24 May 2001
+Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
 Sch. 2 (items 418, 419) [see Table A]
 Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
 24, 2001
 6 Apr 2001
-S. 4(1), (2) and Schedule 34: (h)
-S. 4(1) and (2) [see Table A]
+S. 4(1), (2) and Schedule 34: (h)
+S. 4(1), (2) [see Table A]
 Marriage Amendment Act 2002
 77, 2002
 8 Oct 2002
-Ss. 1‑3: Royal Assent Schedule 2 (items 1‑14, 16‑56): 5 Nov 2002 Schedule 2 (item 15): 8 Apr 2003 Remainder: [see (i), Note 2 and Table A]
-Sch. 1 (item 27), Sch. 2 (items 5, 10 and 17) [see Table A]
+Ss. 1‑3: Royal Assent Schedule 2 (items 1‑14, 16‑56): 5 Nov 2002 Remainder: [see (i), Note 2 and Table A]
+Sch. 1 (item 27), Sch. 2 (items 5, 10 and 17) [see Table A]
 (a)	The Marriage Act 1961 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1988, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (b)	The Marriage Act 1961 was amended by section 49 only of the Law and Justice Legislation Amendment Act 1990, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-(c)	The Marriage Act 1961 was amended by Part 3 (sections 11–17) only of the Sex Discrimination Act 1991, subsection 2(1) of which provides as follows:
+(c)	The Marriage Act 1961 was amended by Part 3 (sections 11‑17) only of the Sex Discrimination Act 1991, subsection 2(1) of which provides as follows:
 	(1)	Part 1, sections 4, 7 and 8, Parts 3 and 4 and the Schedule commence on 1 August 1991.
 (d)	The Marriage Act 1961 was amended by section 24 only of the Territories Law Reform Act 1992, subsection 2(3) of which provides as follows:
 	(3)	The remaining provisions of this Act commence on 1 July 1992.
-(e)	The Marriage Act 1961 was amended Schedule 1 (Part 7) by the Family Law Reform (Consequential Amendments) Act 1995, subsection 2(4) of which provides as follows:
+(e)	The Marriage Act 1961 was amended by the Family Law Reform (Consequential Amendments) Act 1995, subsection 2(4) of which provides as follows:
 	(4)	The amendments made by Part 7 of Schedule 1 commence on the commencement of section 5 of the Family Law Reform Act 1995.
 (f)	The Marriage Act 1961 was amended by Schedule 5 (item 79) only of the Statute Law Revision Act 1996, subsection 2(1) of which provides as follows:
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 (g)	The Marriage Act 1961 was amended by Schedule 13 only of the Law and Justice Legislation Amendment Act 1999, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-(h)	The Marriage Act 1961 was amended by Schedule 34 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(a) of which provides as follows:
+(h)	The Marriage Act 1961 was amended by Schedule 34 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(a) of which provides as follows:
 	(1)	Subject to this section, this Act commences at the later of the following times:
 	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
-	Item 15 commenced on 24 May 2001.
-(i)	The Marriage Act 1961 was amended by the Marriage Amendment Act 2002, subsections 2(1) (item 2) and (3) of which provide as follows:
+	Item 15 commenced on 24 May 2001.
+(i)	The Marriage Act 1961 was amended by the Marriage Amendment Act 2002, subsections 2(1) (items 2 and 4), (3) and (4) of which provide as follows:
 
 Commencement information
 Column 1
@@ -1251,10 +1255,14 @@ Commencement
 Date/Details
 2.  Schedule 1
 A day or days to be fixed by Proclamation, subject to subsection (3)
-[see Note 2]
+TBP or 8 October 2003 [see Note 2]
+4.  Schedule 2, item 15
+A single day to be fixed by Proclamation, subject to subsection (4)
+TBP or 8 April 2003 [see Note 2]
 	(3)	If a provision covered by item 2 of the table does not commence within the period of 12 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+	(4)	If a provision covered by item 4 of the table does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
 Table of Amendments
-ad. = added or inserted     am. = amended      rep. = repealed      rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 2	
@@ -1266,9 +1274,9 @@ am. No. 209, 1976
 
 rep. No. 38, 1988 
 S. 5	
-am. No. 35, 1973; No. 209, 1976; No. 2, 1982; No. 7, 1985; No. 38, 1988; No. 104, 1992; No. 77, 2002 
+am. No. 35, 1973; No. 209, 1976; No. 2, 1982; No. 7, 1985; No. 38, 1988; No. 104, 1992; No. 77, 2002 
 S. 5A	
-ad. No. 24, 2001
+ad. No. 24, 2001
 S. 6	
 rs. No. 209, 1976 
 S. 7	
@@ -1280,10 +1288,10 @@ am. No. 209, 1976
 S. 9A	
 ad. No. 209, 1976 
 
-am. No. 77, 2002
+am. No. 77, 2002
 Heading to Part IA	
 am. No. 7, 1985 
-Part IA	 (ss. 9B–9E)
+Part IA	 (ss. 9B‑9E)
 ad. No. 209, 1976 
 S. 9B	
 ad. No. 209, 1976
@@ -1312,7 +1320,7 @@ rs. No. 71, 1991
 S. 12	
 am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 71, 1991
 S. 13	
-am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 77, 2002 
+am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 77, 2002 
 S. 14	
 am. No. 209, 1976; No. 7, 1985 
 S. 15	
@@ -1327,7 +1335,7 @@ S. 20
 am. No. 7, 1985 
 S. 21	
 am. No. 209, 1976; No. 7, 1985 
-Part III	 (ss. 22–24)
+Part III	 (ss. 22‑24)
 rep. No. 209, 1976 
 Part III	 (ss. 22, 23)
 ad. No. 209, 1976 
@@ -1372,7 +1380,7 @@ am. No. 7, 1985; No. 38, 1988
 S. 40	
 am. No. 7, 1985 
 S. 42	
-am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002
+am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002
 S. 42A	
 ad. No. 124, 1994 
 S. 44	
@@ -1396,7 +1404,7 @@ am. No. 209, 1976
 S. 54	
 am. No. 209, 1976 
 
-rs. No. 77, 2002
+rs. No. 77, 2002
 S. 55	
 am. No. 216, 1973; No. 209, 1976
 
@@ -1409,91 +1417,91 @@ S. 58
 am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
 S. 59	
 am. No. 7, 1985 
-Heading to Part V	
-rs. No. 77, 2002
-Div. 1 to Part V	 (ss. 60–64)
-rep. No. 77, 2002
+Heading to Part V	
+rs. No. 77, 2002
+Div. 1 to Part V	 (ss. 60‑64)
+rep. No. 77, 2002
 S. 60	
-rep. No. 77, 2002
+rep. No. 77, 2002
 S. 61	
 am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
 
-rep. No. 77, 2002
+rep. No. 77, 2002
 S. 62	
 am. No. 7, 1985; No. 38, 1988 
 
-rep. No. 77, 2002
+rep. No. 77, 2002
 S. 63	
 am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
 
-rep. No. 77, 2002
+rep. No. 77, 2002
 S. 64	
 am. No. 7, 1985 
 
-rep. No. 77, 2002
-Div. 2 to Part V	 (ss. 65–70)
-rep. No. 77, 2002
+rep. No. 77, 2002
+Div. 2 to Part V	 (ss. 65‑70)
+rep. No. 77, 2002
 S. 66	
 am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
 
-rep. No. 77, 2002
+rep. No. 77, 2002
 S. 67	
 am. No. 209, 1976; No. 7, 1985 
 
-rep. No. 77, 2002
+rep. No. 77, 2002
 S. 68	
 am. No. 209, 1976; No. 7, 1985; No. 38, 1988 
 
-rep. No. 77, 2002
+rep. No. 77, 2002
 S. 69	
 am. No. 209, 1976 
 
-rep. No. 77, 2002
+rep. No. 77, 2002
 S. 70	
-rep. No. 77, 2002
-Heading to Div. 3 to Part V	
-rs. No. 77, 2002
+rep. No. 77, 2002
+Heading Div. 3 to Part V	
+rs. No. 77, 2002
 S. 72	
 am. No. 209, 1976 
 S. 73	
 am. No. 209, 1976; No. 7, 1985 
 Heading to s. 74	
-am. No. 77, 2002
+am. No. 77, 2002
 S. 74	
-am. No. 7, 1985; No. 77, 2002 
+am. No. 7, 1985; No. 77, 2002 
 Heading to s. 75	
-am. No. 77, 2002
+am. No. 77, 2002
 S. 75	
-am. No. 7, 1985; No. 77, 2002 
+am. No. 7, 1985; No. 77, 2002 
 S. 76	
-am. No. 209, 1976; No. 7, 1985; No. 77, 2002
+am. No. 209, 1976; No. 7, 1985; No. 77, 2002
 S. 77	
-am. No. 209, 1976; No. 7, 1985; No. 71, 1991; No. 77, 2002
+am. No. 209, 1976; No. 7, 1985; No. 71, 1991; No. 77, 2002
 S. 78	
-am. No. 7, 1985; No. 38, 1988; No. 71, 1991; No. 77, 2002 
+am. No. 7, 1985; No. 38, 1988; No. 71, 1991; No. 77, 2002 
 Heading to s. 79	
-am. No. 77, 2002
+am. No. 77, 2002
 S. 79	
-am. No. 7, 1985; No. 77, 2002 
+am. No. 7, 1985; No. 77, 2002 
 S. 80	
-am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
+am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
 S. 81	
-am. No. 77, 2002
+am. No. 77, 2002
 S. 83	
-am. No. 209, 1976; No. 77, 2002 
+am. No. 209, 1976; No. 77, 2002 
 Heading to s. 84	
-am. No. 77, 2002
+am. No. 77, 2002
 S. 84	
-am. No. 7, 1985; No. 77, 2002 
+am. No. 7, 1985; No. 77, 2002 
 S. 85	
-am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
+am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
 S. 86	
 am. No. 38, 1988 
-Part VA	 (ss. 88A–88G)
+Part VA	 (ss. 88A‑88G)
 ad. No. 7, 1985 
-Ss. 88A–88C	
+Ss. 88A‑88C	
 ad. No. 7, 1985
-Ss. 88D–88G	
+Ss. 88D‑88G	
 ad. No. 7, 1985
 
 am. No. 71, 1991 
@@ -1504,47 +1512,47 @@ rs. No. 7, 1985
 S. 91	
 am. No. 209, 1976; No. 7, 1985 
 S. 92	
-am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
+am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
 S. 93	
 am. No. 7, 1985; No. 38, 1988 
 S. 94	
-am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 24, 2001 
+am. No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 24, 2001 
 S. 95	
-am. No. 93, 1966; No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 24, 2001 
+am. No. 93, 1966; No. 35, 1973; No. 209, 1976; No. 7, 1985; No. 24, 2001 
 Ss. 96, 97	
 am. No. 93, 1966; No. 209, 1976; No. 7, 1985 
 
-rep. No. 137, 2000
+rep. No. 137, 2000
 Heading to s. 98	
-rs. No. 137, 2000
+rs. No. 137, 2000
 S. 98	
-am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 137, 2000 
+am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 137, 2000 
 S. 99	
-am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 77, 2002 
+am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 77, 2002 
 Ss. 100, 101	
 am. No. 93, 1966; No. 209, 1976; No. 7, 1985 
 S. 102	
 am. No. 93, 1966; No. 209, 1976; No. 7, 1985 
 
-rep. No. 137, 2000
+rep. No. 137, 2000
 S. 103	
 am. No. 93, 1966; No. 209, 1976 
 S. 104	
-am. No. 93, 1966; No. 209, 1976; No. 77, 2002 
+am. No. 93, 1966; No. 209, 1976; No. 77, 2002 
 S. 105	
-am. No. 93, 1966; No. 209, 1976; No. 24, 2001 
+am. No. 93, 1966; No. 209, 1976; No. 24, 2001 
 S. 106	
-am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 24, 2001 
+am. No. 93, 1966; No. 209, 1976; No. 7, 1985; No. 24, 2001 
 S. 107	
 am. No. 209, 1976; No. 7, 1985 
 S. 108	
-am. No. 209, 1976; No. 7, 1985; No. 137, 2000 
+am. No. 209, 1976; No. 7, 1985; No. 137, 2000 
 S. 109	
 am. No. 209, 1976; No. 7, 1985 
 S. 110	
 am. No. 209, 1976; No. 7, 1985 
 
-rep. No. 77, 2002
+rep. No. 77, 2002
 S. 111	
 am. No. 209, 1976; No. 7, 1985 
 S. 111A	
@@ -1554,11 +1562,11 @@ am. No. 209, 1976; No. 7, 1985
 S. 114	
 am. No. 7, 1985 
 S. 115	
-am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
+am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
 S. 116	
-am. No. 209, 1976; No. 7, 1985; No. 77, 2002 
+am. No. 209, 1976; No. 7, 1985; No. 77, 2002 
 S. 117	
-am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
+am. No. 209, 1976; No. 7, 1985; No. 38, 1988; No. 77, 2002 
 S. 119	
 am. No. 209, 1976
 
@@ -1567,10 +1575,11 @@ S. 120
 am. No. 93, 1966; No. 209, 1976; No. 38, 1988 
 The Schedule	
 am. No. 35, 1973; No. 38, 1988
+
 Note 2
-Marriage Amendment Act 2002 (No. 77, 2002)
-The following amendments commence on 8 October 2003 unless proclaimed earlier:
-Schedule 1
+Marriage Amendment Act 2002 (No. 77, 2002)
+The following amendments commence on 8 October 2003 unless proclaimed earlier:
+Schedule 1
 1  Subsection 5(1) (definition of authorized celebrant)
 Repeal the definition, substitute:
 authorized celebrant means:
@@ -1756,7 +1765,12 @@ Omit “Division 1 of Part IV”, substitute “a Subdivision of Division 1 o
 Omit “Division at”, substitute “Subdivision at”.
 26  Paragraph 120(d)
 Repeal the paragraph.
-As at 8 April 2003 the amendments are not incorporated in this compilation.
+The following amendment commences on 8 April 2003 unless proclaimed earlier:
+Schedule 2
+15  Subsection 42(5)
+Repeal the subsection, substitute:
+	(5)	Despite a notice required by subsection (1) having been received later than 1 month before the date of the marriage, a prescribed authority may authorise an authorized celebrant to solemnize a marriage if the authority is satisfied that one or more of the circumstances prescribed in the regulations have been met.
+As at 5 November 2002 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
@@ -1775,21 +1789,21 @@ If:
 	(c)	the first‑mentioned provision is amended by this Schedule;
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
+Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
 4  Application of amendments
 	(1)	Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-Marriage Amendment Act 2002 (No. 77, 2002)
-Schedule 2
+Marriage Amendment Act 2002 (No. 77, 2002)
+Schedule 2
 5  Application of items 4 and 56
 The amendments made by items 4 and 56 apply in relation to appointments of prescribed authorities made after those items commence.
 10  Application of item 9
 The amendment made by item 9 applies in relation to notices of intention to marry given after the item commences.
 17  Application of item 16
 The amendment made by item 16 applies in relation to Proclamations declared after the item commences.
-The following provision commences on 8 October 2003 unless proclaimed earlier:
-Schedule 1
+The following provision commences on 8 October 2003 unless proclaimed earlier:
+Schedule 1
 27  Registration of existing marriage celebrants
 (1)	In this item:
 existing marriage celebrant means a person:
