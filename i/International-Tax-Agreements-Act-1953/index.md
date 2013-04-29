@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00615/Html/IntTaxAgrAct53Vol1_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00594/Html/IntTaxAgrAct53Vol1_WD02_image001.gif)
 
 # International Tax Agreements Act 1953
 
 **Act No. 82 of 1953 as amended**
 
-This compilation was prepared on 27 November 2008
- taking into account amendments up to Act No. 117 of 2008
+This compilation was prepared on 11 November 2008
+ taking into account amendments up to Act No. 111 of 2008
 
 **Volume 1** includes:       Sections 1–24
                                      Schedules 1–24
@@ -468,7 +468,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  words in the plural included the singular.
 
-          (7A)  For the purposes of this Act, a reference in the 1969 Japanese Agreement to an area adjacent to Australia as specified in the Second Schedule to the _Petroleum (Submerged Lands) Act 1967-1968_ is to be read as including a reference to an area adjacent to Australia as specified in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+          (7A)  For the purposes of this Act, a reference in the 1969 Japanese Agreement to an area adjacent to Australia as specified in the Second Schedule to the _Petroleum (Submerged Lands) Act 1967-1968_ is to be read as including a reference to an area adjacent to Australia as specified in Schedule 1 to the _Offshore Petroleum Act 2006_.
 
              (8)  Where, by virtue of a provision of an agreement, the expression **_royalties_** as used in, or in a particular provision of, that agreement has the meaning that that expression has under the law of Australia relating to income tax, that expression has, for the purposes of that agreement or of that particular provision, as the case may be, the meaning that that expression has by virtue of subsection 6 (1) of the Assessment Act.
 
@@ -636,7 +636,7 @@ Note 2:       Article 16 of the 1967 United Kingdom agreement is aff
 
              (3)  The provisions of the previous United   States convention, so far as those provisions affect Australian tax, continue to have the force of law in relation to tax in respect of income in relation to which the convention remains effective.
 
-             (4)  The provisions of the convention with the   United States of America do not have the effect of subjecting to Australian tax any interest paid by a resident of Australia to a resident of the United States   of America that, apart from that convention, would not be subject to Australian tax.
+             (4)  The provisions of the convention with the   United States of America do not have the effect of subjecting to Australian tax any interest paid by a resident of Australia to a resident of the United   States of America that, apart from that convention, would not be subject to Australian tax.
 
 ##### <a id="6AA"></a>6AA  Protocol with the United States of America
 
@@ -1781,7 +1781,7 @@ Entry into force
 
          (iii)    in respect of corporation tax, for any financial year beginning on or after 1 April next following the date on which this Convention enters into force.
 
-2       The Agreement between the Government of the Commonwealth of Australia and the Government of the United Kingdom of Great Britain and Northern Ireland signed at Canberra on 7 December 1967 (as amended by the Protocol signed at Canberra on 29 January 1980) (“the Agreement”) shall be terminated and shall cease to have effect in respect of the taxes to which this Convention applies in accordance with the provisions of paragraph 1 of this Article.  In relation to tax credits in respect of dividends paid by companies which are residents of the United   Kingdom, the Agreement shall be terminated and shall cease to have effect in respect of dividends paid on or after 1 July next following the date on which this Convention enters into force.
+2       The Agreement between the Government of the Commonwealth of Australia and the Government of the United Kingdom of Great Britain and Northern Ireland signed at Canberra on 7 December 1967 (as amended by the Protocol signed at Canberra on 29 January 1980) (“the Agreement”) shall be terminated and shall cease to have effect in respect of the taxes to which this Convention applies in accordance with the provisions of paragraph 1 of this Article.  In relation to tax credits in respect of dividends paid by companies which are residents of the United Kingdom, the Agreement shall be terminated and shall cease to have effect in respect of dividends paid on or after 1 July next following the date on which this Convention enters into force.
 
 3       Notwithstanding the entry into force of this Convention, an individual who is entitled to the benefits of Article 16 of the Agreement at the time of the entry into force of this Convention shall continue to be entitled to such benefits until such time as the individual would have ceased to be entitled to such benefits if the Agreement had remained in force.
 
@@ -2359,7 +2359,7 @@ ARTICLE 11
 
 (4)   Where, owing to a special relationship between the payer and the person beneficially entitled to the interest, or between both of them and some other person, the amount of the interest paid, having regard to the indebtedness for which it is paid, exceeds the amount which might have been expected to have been agreed upon by the payer and the person so entitled in the absence of such relationship, the provisions of this Article shall apply only to the last--mentioned amount. In that case, the excess part of the amount of the interest paid shall remain taxable according to the law of each Contracting State, but subject to the other provisions of this Convention.
 
-(5)   The term “interest” as used in this Convention includes income which, under the taxation law of the   Contracting State in which the income has its source, is assimilated to income from money lent.
+(5)   The term “interest” as used in this Convention includes income which, under the taxation law of the Contracting State in which the income has its source, is assimilated to income from money lent.
 
 (6)   A Contracting  State may not impose any tax on interest paid by a resident of the other Contracting  State, except insofar as:
 
@@ -4036,7 +4036,7 @@ Business profits
 
 2.    Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated in that other State, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment or with other enterprises with which it deals.
 
-3.    In the determination of the profits of a permanent establishment, there shall be allowed as deductions expenses of the enterprise which are incurred for the purposes of the permanent establishment (including executive and general administrative expenses so incurred), whether incurred in the Contracting State in which the permanent establishment is situated or elsewhere. However, no deduction is allowable in respect of expenses which are not deductible under the law of the Contracting State in which the permanent establishment is situated.
+3.    In the determination of the profits of a permanent establishment, there shall be allowed as deductions expenses of the enterprise which are incurred for the purposes of the permanent establishment (including executive and general administrative expenses so incurred), whether incurred in the Contracting State in which the permanent establishment is situated or elsewhere. However, no deduction is allowable in respect of expenses which are not deductible under the law of the Contracting  State in which the permanent establishment is situated.
 
 4.    No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
@@ -4118,7 +4118,7 @@ Article 12
 
 Royalties
 
-1.    Royalties arising in a Contracting State, being royalties to which a resident of the other Contracting State is beneficially entitled, may be taxed in that other State.
+1.    Royalties arising in a Contracting State, being royalties to which a resident of the other   Contracting State is beneficially entitled, may be taxed in that other State.
 
 2.    Those royalties may be taxed in the Contracting State in which they arise, and according to the law of that State, but the tax so charged shall not exceed 10 per cent of the gross amount of the royalties.
 
@@ -5221,7 +5221,7 @@ The following Article is inserted after Article 10 of the Agreement:
 
 (2)   Income or gains from the alienation of property, other than real property referred to in Article 4A, that forms part of the business property of a permanent establishment which an enterprise of one of the Contracting States has in the other Contracting State or pertains to a fixed base available to a resident of the first--mentioned State in that other State for the purpose of performing independent personal services, including income or gains from the alienation of such a permanent establishment (alone or with the whole enterprise) or of such a fixed base, may be taxed in that other State.
 
-(3)   Income or gains from the alienation of ships or aircraft operated in international traffic, or of property (other than real property referred to in Article 4A) pertaining to the operation of those ships or aircraft, shall be taxable only in the Contracting State of which the enterprise which operated those ships or aircraft is a resident.
+(3)   Income or gains from the alienation of ships or aircraft operated in international traffic, or of property (other than real property referred to in Article 4A) pertaining to the operation of those ships or aircraft, shall be taxable only in the Contracting  State of which the enterprise which operated those ships or aircraft is a resident.
 
 (4)   Income or gains derived by a resident of one of the Contracting States from the alienation of shares or comparable interests in a company, the assets of which consist wholly or principally of real property in the other Contracting State of a kind referred to in Article 4A and, as provided in that Article, situated in that other State, may be taxed in that other State.
 
@@ -5524,7 +5524,7 @@ _e)_                a workshop;
 
 _f)_ a mine, an oil or gas well, a quarry or any other place of extraction of natural resources; and
 
-_g)_                an agricultural, pastoral or forestry property.
+_g)_                an agricultural, pastoral or forestry property.
 
 3.           A building site or construction or installation project constitutes a permanent establishment only if it lasts more than 12 months.
 
@@ -5614,7 +5614,7 @@ Ships and aircraft shall not be regarded as real property.
 
 3.           In determining the profits of a permanent establishment, there shall be allowed as deductions expenses of the enterprise, being expenses which are incurred for the purposes of the permanent establishment, including executive and general administrative expenses so incurred, and which would be deductible if the permanent establishment were an independent enterprise which paid those expenses, whether incurred in the Contracting State in which the permanent establishment is situated or elsewhere.
 
-4.           Nothing in this Article shall affect the application of any law of a Contracting State relating to the determination of the tax liability of a person in cases where the information available to the competent authority of that Contracting State is inadequate to determine the profits to be attributed to a permanent establishment, provided that, on the basis of the available information, the determination of the profits of the permanent establishment is consistent with the principles stated in this Article.
+4.           Nothing in this Article shall affect the application of any law of a Contracting State relating to the determination of the tax liability of a person in cases where the information available to the competent authority of that Contracting State is inadequate to determine the profits to be attributed to a permanent establishment, provided that, on the basis of the available information, the determination of the profits of the permanent establishment is consistent with the principles stated in this Article.
 
 5.           No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
@@ -5658,7 +5658,7 @@ the business carried on by the trustee shall be deemed to be a business carried 
 
 1.           Where:
 
-_a)_                an enterprise of a Contracting State participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting State; or
+_a)_                an enterprise of a Contracting State participates directly or indirectly in the management, control or capital of an enterprise of the other Contracting State; or
 
 _b)_                the same persons participate directly or indirectly in the management, control or capital of an enterprise of a Contracting State and an enterprise of the other Contracting State,
 
@@ -5768,7 +5768,7 @@ _(iii)_       any similar institution as may be agreed upon from tim
 
 7.           Interest shall be deemed to arise in a Contracting State when the payer is a resident of that Contracting State for the purposes of its tax.  Where, however, the person paying interest, whether such person is a resident of a Contracting State or not, has in a Contracting State or a state other than the Contracting States a permanent establishment in connection with which the indebtedness on which the interest is paid were incurred, and such interest is borne by such permanent establishment, then:
 
-_a)_                if the permanent establishment is situated in a Contracting State, such interest shall be deemed to arise in that Contracting  State; and
+_a)_                if the permanent establishment is situated in a Contracting State, such interest shall be deemed to arise in that   Contracting State; and
 
 _b)_                if the permanent establishment is situated in a state other than the Contracting States, such interest shall not be deemed to arise in either Contracting State.
 
@@ -6368,7 +6368,7 @@ _i)_ Division 820 of Part 4-5 of Chapter 4 of the ITAA 1997, which address
 
 _j)_ any provision adopted after the date of signature of the Convention which is substantially similar in purpose or intent to a provision covered by this paragraph, or is otherwise agreed between the Governments of the Contracting States through an exchange of diplomatic notes.
 
-22.          With reference to paragraph 1 of Article 28 (Exchange of Information) of the Convention:
+22.          With reference to paragraph 1 of Article 28 (Exchange of Information) of the Convention:
 
 In the case of Australia, the term “taxes of every kind and description imposed on behalf of the Contracting States” means taxes of every kind and description imposed under the federal tax laws administered by the Commissioner of Taxation.
 
@@ -6420,7 +6420,7 @@ of Australia
 
             I avail myself of this opportunity to extend to Your Excellency the assurance of my highest consideration.
 
-                                                                Masahiko Koumura
+                                                                Masahiko Koumura
 
                                                         Minister for Foreign Affairs
 
@@ -9997,7 +9997,7 @@ _Royalties_
 
 (4)   The provisions of paragraphs (1) and (2) shall not apply if the person beneficially entitled to the royalties, being a resident of one of the Contracting States, carries on business in the other Contracting State, being the State in which the royalties arise, through a permanent establishment situated therein or performs in that other State independent personal services from a fixed base situated therein and the asset giving rise to the royalties is effectively connected with that permanent establishment or fixed base. In any such case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
-(5)   Royalties shall be deemed to arise in one of the Contracting States when the payer is that   Contracting State itself or a political sub--division of that State or a local authority of that State or a person who is a resident of that State for the purposes of its tax. Where, however, the person paying the royalties, whether he is a resident of one of the Contracting States or not, has in one of the Contracting States a permanent establishment or a fixed base in connection with which the obligation to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
+(5)   Royalties shall be deemed to arise in one of the Contracting States when the payer is that Contracting State itself or a political sub--division of that State or a local authority of that State or a person who is a resident of that State for the purposes of its tax. Where, however, the person paying the royalties, whether he is a resident of one of the Contracting States or not, has in one of the Contracting States a permanent establishment or a fixed base in connection with which the obligation to pay the royalties was incurred, and such royalties are borne by such permanent establishment or fixed base, then such royalties shall be deemed to arise in the State in which the permanent establishment or fixed base is situated.
 
 (6)   Where, owing to a special relationship between the payer and the person beneficially entitled to the royalties or between both of them and some other person, the amount of the royalties paid, having regard to what they are paid for, exceeds the amount which might have been expected to have been agreed upon by the payer and the person so entitled in the absence of such relationship, the provisions of this Article shall apply only to the last--mentioned amount. In that case, the excess part of the amount of the royalties paid shall remain taxable according to the law of each Contracting State, but subject to the other provisions of this Agreement.
 
@@ -11594,7 +11594,7 @@ ARTICLE 22
 
 (2)   Subject to the provisions of paragraph (3), income derived by a person who is a resident of one of the Contracting States from sources in that Contracting State or from sources outside both Contracting States shall be taxable only in the Contracting  State of which that person is a resident.
 
-(3)   The provisions of paragraph (2) shall not apply to income derived by a resident of one of the Contracting States where that income is effectively connected with a permanent establishment or fixed base situated in the other Contracting State. In such a case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
+(3)   The provisions of paragraph (2) shall not apply to income derived by a resident of one of the Contracting States where that income is effectively connected with a permanent establishment or fixed base situated in the other Contracting  State. In such a case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 ARTICLE 23
 
@@ -12490,7 +12490,7 @@ ARTICLE 11
 
      (c)  Except as aforesaid, dividends paid by a company which is a resident ofIreland for the purposes of Irish tax, being dividends to which a resident of Australia is beneficially entitled, shall be exempt from any tax in Ireland which is chargeable on dividends.
 
-(3)   A resident of Australia who receives dividends from a company which is a resident of Ireland shall, subject to the provisions of paragraph (4) of this Article and provided he is the beneficial owner of the dividends, be entitled to the tax credit in respect thereof to which an individual resident in Ireland would have been entitled had he received those dividends, and to the payment of any excess of that tax credit over his liability to Irish tax. Any such credit shall be treated for the purposes of Australian tax as assessable income from sources in Ireland.
+(3)   A resident of Australia who receives dividends from a company which is a resident of Ireland shall, subject to the provisions of paragraph (4) of this Article and provided he is the beneficial owner of the dividends, be entitled to the tax credit in respect thereof to which an individual resident in Ireland would have been entitled had he received those dividends, and to the payment of any excess of that tax credit over his liability to Irish tax. Any such credit shall be treated for the purposes of Australian tax as assessable income from sources in   Ireland.
 
 (4)   The provisions of paragraph (3) of this Article shall not apply where the beneficial owner of the dividends (being a company) is, or is associated with, a company which either alone or together with one or more associated companies controls directly or indirectly 10 per cent or more of the voting power in the company paying the dividends. For the purposes of this paragraph two companies shall be deemed to be associated if one controls directly or indirectly more than 50 per cent of the voting power in the other company, or a third company controls more than 50 per cent of the voting power in both of them.
 
@@ -12636,7 +12636,7 @@ ARTICLE 19
 
 (2)   The term annuity means a stated sum payable periodically at stated times during life or during a specified or ascertainable period of time under an obligation to make the payments in return for adequate and full consideration in money or money’s worth.
 
-(3)   Any alimony or other maintenance payment arising in one of the Contracting States and paid to a resident of the other Contracting State shall be taxable only in the first--mentioned State.
+(3)   Any alimony or other maintenance payment arising in one of the Contracting States and paid to a resident of the other Contracting State shall be taxable only in the first--mentioned  State.
 
 ARTICLE 20
 
@@ -13011,7 +13011,7 @@ ARTICLE 8
 
 (5)   If the place of effective management of a shipping enterprise is aboard a ship, then it shall be deemed to be situated in the Contracting State in which the home harbour of the ship is situated, or, if there is no such home harbour, in the Contracting State of which the operator of the ship is a resident.
 
-(6)   Nothing in this Convention shall affect the operation of the Agreement between the Governments of the Contracting States for the avoidance of double taxation of income derived from international air transport signed at Canberra on 13 April 1972.
+(6)   Nothing in this Convention shall affect the operation of the Agreement between the Governments of the Contracting States for the avoidance of double taxation of income derived from international air transport signed at Canberra on 13 Apr il 1972.
 
 ARTICLE 9
 
@@ -13364,7 +13364,7 @@ The term ‘payments’ includes credits or any amount credited and a reference 
 
 (5)   With reference to Article 24—
 
-The tax paid in respect of income by way of dividend in one of the Contracting States that is to be allowed as a credit against tax payable in respect of that income in the other Contracting State shall not include tax paid in respect of the profits out of which the dividend is paid.
+The tax paid in respect of income by way of dividend in one of the Contracting States that is to be allowed as a credit against tax payable in respect of that income in the other   Contracting State shall not include tax paid in respect of the profits out of which the dividend is paid.
 
 (6)   With reference to paragraph (1) of Article 25—
 
@@ -14097,7 +14097,7 @@ General Definitions
 
 (i)         the Territory of Norfolk   Island;
 
-(ii)        the Territory of Christmas Island;
+(ii)        the Territory of Christmas   Island;
 
 (iii)       the Territory of Cocos (Keeling) Islands;
 
