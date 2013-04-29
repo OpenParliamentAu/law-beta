@@ -1,662 +1,981 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="897BCFDD1D814126CA256FC6001732F7/$FILE/image001.png"></v:imagedata></v:shape>
+**
 
-# A New Tax System (Indirect Tax Administration) Act 1999
+###  A NEW TAX SYSTEM (INDIRECT TAX ADMINISTRATION) ACT 1999 
+**
 
-**Act No. 59 of 1999 as amended**
 
-This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="15" month="3">15 March 2005</st1:date><o:p></o:p>
+see
 
-**\[This Act was amended by Act No. 176 of 1999and Act No. 44 of 2000]** 
 
-**Amendments from Act No. 176 of 1999<o:p></o:p>**
 
-\[Schedule 5 (item 1) repealed item 66 of Schedule 1
-Schedule 5 (item 1) commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>]
 
-**Amendments from Act No. 44 of 2000<o:p></o:p>**
 
-\[Schedule 4 (item 1) repealed and substituted item 1
-of Schedule 1
 
-Schedule 4 (item 1) commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>]
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, <st1:city><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
+**
 
+###  Long Title 
+**
+###  A NEW TAX SYSTEM (INDIRECT TAX ADMINISTRATION) ACT 1999- SECT 1  Short title 
+<dl compact="">
 
-# Contents
+		This Act may be cited as the _A New Tax System (Indirect Tax Administration) Act 1999_.
 
-[1](#1).            Short title                                                                                             
+ </dl>
+###  A NEW TAX SYSTEM (INDIRECT TAX ADMINISTRATION) ACT 1999- SECT 2  Commencement 
+<dl compact="">
 
-[2](#2).            Commencement                                                                                   
+		This Act commences immediately after the commencement of the _A New Tax System (Goods and Services Tax Administration) Act 1999_.
 
-[3](#3).            Schedule(s)                                                                                           
+ </dl>
+###  A NEW TAX SYSTEM (INDIRECT TAX ADMINISTRATION) ACT 1999- SECT 3  Schedule(s) 
+<dl compact="">
 
-**Schedule 1—Taxation Administration Act 1953<span style="mso-tab-count: 1">                                                    </span><span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 18 0pt; mso-bidi-font-weight: bold; mso-no-proof: yes">2</span>** 
+		Each Act that is specified in a Schedule to this Act is amended or repealed
 
+as set out in the applicable items in the Schedule concerned, and any other
 
-## An Act to implement A New Tax System by providing for the administration of indirect taxes, and for related purposes
+item in a Schedule to this Act has effect according to its terms.
 
-##### <a id="1"></a>1  Short title
+ </dl>
+**
 
-                   This Act may be cited as the _A New Tax System (Indirect Tax Administration) Act 1999_.
+###  A NEW TAX SYSTEM (INDIRECT TAX ADMINISTRATION) ACT 1999Schedule 1&#151;Taxation Administration Act 1953 
+**
 
-##### <a id="2"></a>2  Commencement
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>17AA</div>
 
-                   This Act commences immediately after the commencement of the _A New Tax System (Goods and Services Tax Administration) Act 1999_.
+  </td>
+  <td colspan="1" align="left">
+    <div>40</div>
 
-##### <a id="3"></a>3  Schedule(s)
+  </td>
+  <td colspan="1" align="left">
+    <div>_Taxation Administration Act 1953_</div>
 
-                   Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+  </td>
+</tr>
 
-###### <span style="mso-bookmark: CurrentFind"><span class="CharAmSchNo">Schedule 1</span>—<span class="CharAmSchText">Taxation Administration Act 1953</span></span><span style="mso-bookmark: CurrentFind"></span>
 
-**1<span style="mso-spacerun: yes">  </span>Subsection 8AAB(5) (after table item 17)<o:p></o:p>**
 
-Insert:
 
-<o:p> </o:p>
+Back to Top
 
-<table>
-<colgroup>
-  <col width="12%">
-  <col width="14%">
-  <col width="74%">
-</colgroup>
+A New Tax System (Goods and Services Tax) Act 1999
 
-<tbody>
-  <tr>
-    <td>
-      <div>17AA</div>
-    </td>
-    <td>
-      <div>40</div>
-    </td>
-    <td>
-      <div><i style="mso-bidi-font-style: normal">Taxation Administration Act 1953 <o:p></o:p> </i></div>
-    </td>
-  </tr>
-</tbody></table>
+A New Tax System (Wine Equalisation Tax) Act 1999
 
-## 2  Part VI (heading)
+A New Tax System (Luxury Car Tax) Act 1999
 
-Repeal the heading, substitute:
+<dl compact=""><dl compact="">
 
-<o:p> </o:p>
+_indirect tax_ means any of these:
 
-## Part VI—Administration of the GST, wine equalisation tax and luxury car tax
+ </dl></dl>
 
-## 3  Section 19
+<dl compact=""><dl compact=""><dl compact="">
 
-Repeal the section, substitute:
+<dt>(a)</dt><dd>GST;</dd>
 
-##### <a id="19"></a>19  Overview
+<dt>(b)</dt><dd>wine tax;</dd>
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
+<dt>(c)</dt><dd>luxury car tax.
 
-This Part sets out administrative provisions for the GST, the wine equalisation tax and the luxury car tax and should be read in conjunction with these Acts:
+</dd>
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">_A New Tax System (Goods and Services Tax) Act 1999_;</li>
+</dl></dl></dl>
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">_A New Tax System (Wine Equalisation Tax) Act 1999_;</li>
+5  Subsection 20(1)
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">_A New Tax System (Luxury Car Tax) Act 1999_.</li>
+ Insert:
 
-Other provisions of this Act can also affect the way these taxes are administered.
+<def><dl compact=""><dl compact="">
 
-                   Example:       It is an offence under section 8C to fail to notify the Commissioner of a change of address as required by subsection 67(2).</div>
+_indirect tax law_ means any of these:
 
-## 4  Subsection 20(1)
+ </dl></dl>
 
-Insert:
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="indirect-tax"></a>**_indirect tax_** means any of these:
+<dt>(a)</dt><dd>the GST law;</dd>
 
-                     (a)  GST;
+<dt>(b)</dt><dd>the wine tax law;</dd>
 
-                     (b)  wine tax;
+<dt>(c)</dt><dd>the luxury car tax law.
 
-                     (c)  luxury car tax.
+</dd>
 
-## 5  Subsection 20(1)
+</dl></dl></dl>
 
-Insert:
+6  Subsection 20(1)
 
-                    <a name="indirect-tax-law"></a>**_indirect tax law_** means any of these:
+ Insert:
 
-                     (a)  the GST law;
+<def><dl compact=""><dl compact="">
 
-                     (b)  the wine tax law;
+_luxury car tax_ has the meaning given by section 27-1 of the  Luxury Car Tax Act.
 
-                     (c)  the luxury car tax law.
+ </dl></dl>
 
-## 6  Subsection 20(1)
+7  Subsection 20(1)
 
-Insert:
+ Insert:
 
-                    <a name="luxuri-car-tax"></a>**_luxury car tax_** has the meaning given by section 27-1 of the  Luxury Car Tax Act.
+<def><dl compact=""><dl compact="">
 
-## 7  Subsection 20(1)
+_Luxury Car Tax Act_ means the _A New Tax System (Luxury Car Tax) Act 1999_.
 
-Insert:
+ </dl></dl>
 
-                    <a name="luxuri-car-tax-act"></a>**_Luxury Car Tax Act_** means the _A New Tax System (Luxury Car Tax) Act 1999_.
+8  Subsection 20(1)
 
-## 8  Subsection 20(1)
+ Insert:
 
-Insert:
+<def><dl compact=""><dl compact="">
 
-                    <a name="luxuri-car-tax-law"></a>**_luxury car tax law_** has the meaning given by section 27-1 of the Luxury Car Tax Act.
+_luxury car tax law_ has the meaning given by section 27-1 of the
 
-## 9  Subsection 20(1)
+Luxury Car Tax Act.
 
-Insert:
+ </dl></dl>
 
-                    <a name="wine-tax"></a>**_wine tax_** has the meaning given by section 33-1 of the  Wine Tax Act.
+9  Subsection 20(1)
 
-## 10  Subsection 20(1)
+ Insert:
 
-Insert:
+<def><dl compact=""><dl compact="">
 
-                    <a name="wine-tax-act"></a>**_Wine Tax Act_** means the _A New Tax System (Wine Equalisation_ _Tax) Act 1999_.
+_wine tax_ has the meaning given by section 33-1 of the  Wine
 
-## 11  Subsection 20(1)
+Tax Act.
 
-Insert:
+ </dl></dl>
 
-                    <a name="wine-tax-law"></a>**_wine tax law_** has the meaning given by section 33-1 of the  Wine Tax Act.
+10  Subsection 20(1)
 
-## 12  Subsection 22(2)
+ Insert:
 
-Omit “GST”, substitute “indirect tax”.
+<def><dl compact=""><dl compact="">
 
-_Note:       The heading to section 22 is altered by omitting “GST” and substituting “indirect tax”._
+_Wine Tax Act_ means the _A New Tax System (Wine Equalisation_
 
-## 13  Subsection 22(3) (note)
+_Tax) Act 1999_.
 
-Omit “GST”, substitute “indirect tax”.
+ </dl></dl>
 
-## 14  Subsection 23(1)
+11  Subsection 20(1)
 
-Omit “GST”, substitute “indirect tax”.
+ Insert:
 
-## 15  Subsection 24(1)
+<def><dl compact=""><dl compact="">
 
-Omit “GST” (wherever occurring), substitute “indirect tax”.
+_wine tax law_ has the meaning given by section 33-1 of the  Wine Tax Act.
 
-_Note:       The heading to section 24 is altered by omitting “GST” and substituting “Indirect tax”._
+ </dl></dl>
 
-## 16  Section 26
+12  Subsection 22(2)
 
-Omit “the GST law”, substitute “any indirect tax law”.
+ Omit "GST", substitute "indirect tax".
 
-## 17  Section 26 (note)
+Note:	The heading to section 22 is altered by omitting "GST" and substituting "indirect tax".
 
-Omit “GST”, substitute “indirect tax”.
+13  Subsection 22(3) (note)
 
-## 18  Subsection 28(1)
+ Omit "GST", substitute "indirect tax".
 
-Omit “GST”, substitute “indirect tax”.
+14  Subsection 23(1)
 
-_Note:       The heading to section 28 is altered by omitting “GST” and substituting “indirect tax”._
+<center>Back to Top</center>
 
-## 19  Paragraph 29(1)(b)
+ Omit "GST", substitute "indirect tax".
 
-Omit “GST”, substitute “indirect tax”.
+15  Subsection 24(1)
 
-## 20  Section 30
+ Omit "GST" (wherever occurring), substitute "indirect tax".
 
-Omit “GST”, substitute “indirect tax”.
+Note:	The heading to section 24 is altered by omitting "GST" and substituting "Indirect tax".
 
-_Note:       The heading to section 30 is altered by omitting “GST” and substituting “indirect tax”._
+16  Section 26
 
-## 21  Subsection 31(1)
+ Omit "the GST law", substitute "any indirect tax law".
 
-Omit “GST”, substitute “indirect tax”.
+17  Section 26 (note)
 
-_Note:       The heading to section 31 is altered by omitting “GST” and substituting “indirect tax”._
+ Omit "GST", substitute "indirect tax".
 
-## 22  Subsection 31(2) (paragraph (a) of the definition of _interest_)
+18  Subsection 28(1)
+
+ Omit "GST", substitute "indirect tax".
+
+Note:	The heading to section 28 is altered by omitting "GST" and substituting "indirect tax".
+
+19  Paragraph 29(1)(b)
+
+ Omit "GST", substitute "indirect tax".
+
+20  Section 30
+
+ Omit "GST", substitute "indirect tax".
+
+Note:	The heading to section 30 is altered by omitting "GST" and substituting "indirect tax".
+
+21  Subsection 31(1)
+
+ Omit "GST", substitute "indirect tax".
+
+Note:	The heading to section 31 is altered by omitting "GST" and substituting "indirect tax".
+
+22  Subsection 31(2) (paragraph (a) of the definition of 
+_interest_)
 
 Repeal the paragraph, substitute:
 
-                     (a)  if the amount is a net amount—interest in:
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  the taxable supplies, creditable acquisitions, creditable importations; and
+<dt>(a)</dt><dd>if the amount is a net amount&#151;interest in:
 
-                             (ii)  the taxable dealings and wine tax credits; and
+</dd>
 
-                            (iii)  the taxable supplies of luxury cars;
+</dl></dl></dl>
 
-                            from which that amount is worked out; and
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-## 23  Subsection 31(2) (paragraph (b) of the definition of _interest_)
+<dt>(i)</dt><dd>the taxable supplies, creditable acquisitions, creditable importations;
 
-Omit “GST”, substitute “indirect tax”.
+and</dd>
 
-## 24  Subsection 31(2) (paragraph (b) of the definition of _interest_)
+<dt>(ii)</dt><dd>the taxable dealings and wine tax credits; and</dd>
 
-After “taxable importation”, insert “, customs dealing or taxable importation of a luxury car”.
+<dt>(iii)</dt><dd>the taxable supplies of luxury cars;
 
-## 25  At the end of section 31
+</dd>
 
-Add:
+</dl></dl></dl></dl>
 
-             (4)  In this section:
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="custom-deal"></a>**_customs dealing_** has the meaning given by section 33-1 of the  Wine Tax Act.
+		from which that amount is worked out; and
 
-                    <a name="taxabl-deal"></a>**_taxable dealing_** has the meaning given by section 33-1 of the  Wine Tax Act.
+</dl></dl></dl>
 
-                    <a name="taxabl-import-luxuri-car"></a>**_taxable importation of a luxury car_** has the meaning given by section 27-1 of the Luxury Car Tax Act.
+23  Subsection 31(2) (paragraph (b) of the definition of 
+_interest_)
 
-                    <a name="taxabl-suppli-luxuri-car"></a>**_taxable supply of a luxury car_** has the meaning given by section 27-1 of the Luxury Car Tax Act.
+Omit "GST", substitute "indirect tax".
 
-                    <a name="wine-tax-crite"></a>**_wine tax credit_** has the meaning given by section 33-1 of the  Wine Tax Act.
+24  Subsection 31(2) (paragraph (b) of the definition of 
+_interest_)
 
-## 26  Subsection 32(1)
+After "taxable importation", insert ", customs dealing or taxable importation of a luxury car".
 
-Omit “GST”, substitute “indirect tax”.
+25  At the end of section 31
 
-_Note:       The heading to section 32 is altered by omitting “GST” and substituting “indirect tax”._
+ Add:
 
-## 27  Subsection 32(4)
+<dl compact=""><dl compact="">
 
-Omit “GST” (second occurring), substitute “indirect tax”.
+<dt>(4)</dt><dd>In this section:
 
-## 28  Subsection 32(4) (note)
+</dd> </dl></dl>
 
-Omit “GST”, substitute “indirect tax”.
+<def><dl compact=""><dl compact="">
 
-## 29  Subsections 32(5) and 33(2)
+_customs dealing_ has the meaning given by section 33-1 of the  Wine Tax Act. _taxable dealing_ has the meaning given by section 33-1 of the  Wine Tax Act. _taxable importation of a luxury car_ has the meaning given by section 27-1 of the Luxury Car Tax Act. _taxable supply of a luxury car_ has the meaning given by section 27-1 of the Luxury Car Tax Act. _wine tax credit_ has the meaning given by section 33-1 of the  Wine Tax Act.  </dl></dl>
 
-Omit “GST”, substitute “indirect tax”.
+26  Subsection 32(1)
 
-_Note:       The heading to section 33 is altered by omitting “GST” and substituting “indirect tax”._
+ Omit "GST", substitute "indirect tax".
 
-## 30  Subsection 34(1)
+Note:	The heading to section 32 is altered by omitting "GST" and substituting "indirect tax".
 
-Omit “a GST debt (the **_GST debtor_**)”, substitute “an indirect tax debt (the **_tax debtor_**)”.
+27  Subsection 32(4)
 
-## 31  Subsections 34(2), (3) and (6)
+ Omit "GST" (second occurring), substitute "indirect tax".
 
-Omit “GST”, substitute “tax”.
+28  Subsection 32(4) (note)
 
-## 32  Subsection 34(7)
+ Omit "GST", substitute "indirect tax".
 
-Omit “GST debt of the GST debtor”, substitute “indirect tax debt of the tax debtor”.
+29  Subsections 32(5) and 33(2)
 
-## 33  Subsection 34(8)
+ Omit "GST", substitute "indirect tax".
 
-Omit “GST” (wherever occurring), substitute “tax”.
+Note:	The heading to section 33 is altered by omitting "GST" and substituting "indirect tax".
 
-## 34  Subsection 34(10) (definition of _GST debt_)
+30  Subsection 34(1)
 
-Repeal the definition.
+ Omit "a GST debt (the _GST debtor_)", substitute "an indirect tax debt (the _tax debtor_)".
 
-## 35  Subsection 34(10)
+31  Subsections 34(2), (3) and (6)
 
-Insert:
+<center>Back to Top</center>
 
-                    <a name="indirect-tax-debt"></a>**_indirect tax debt_** means any of the following amounts payable by an entity (whether or not the amount has become due for payment):
+ Omit "GST", substitute "tax".
 
-                     (a)  a net amount or amount of indirect tax;
+32  Subsection 34(7)
 
-                     (b)  penalty under this Part;
+ Omit "GST debt of the GST debtor", substitute "indirect tax debt of the tax debtor".
 
-                     (c)  a judgment debt, or costs, for indirect tax or penalty under this Part;
+33  Subsection 34(8)
 
-                     (d)  a fine, or costs, that a court has imposed for an offence against an indirect tax law;
+ Omit "GST" (wherever occurring), substitute "tax".
 
-                     (e)  an amount that a court has ordered the entity to pay to the Commissioner, following conviction of the entity for an offence against an indirect tax law.
+34  Subsection 34(10) (definition of _GST debt_)
 
-## 36  Section 35
+ Repeal the definition.
 
-Omit “GST” (wherever occurring), substitute “indirect tax”.
+35  Subsection 34(10)
 
-_Note:       The heading to section 35 is altered by omitting “GST” and substituting “indirect tax”._
+ Insert:
 
-## 37  Section 36
+<def><dl compact=""><dl compact="">
 
-Repeal the section, substitute:
+_indirect tax debt_ means any of the following amounts payable by
 
-##### <a id="36"></a>36  Time limit on credits and refunds
+an entity (whether or not the amount has become due for payment):
 
-             (1)  You are not entitled to:
+ </dl></dl>
 
-                     (a)  a refund under section 35-5 of the GST Act in respect of a particular tax period; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  an input tax credit that is attributable to a particular tax period; or
+<dt>(a)</dt><dd>a net amount or amount of indirect tax;</dd>
 
-                     (c)  a wine tax credit the amount of which could have been included in a reduction of your net amount for a tax period under section 21-15 of the Wine Tax Act; or
+<dt>(b)</dt><dd>penalty under this Part;</dd>
 
-                     (d)  a refund, under subsection 39(1) of this Act, of an amount of indirect tax relating to an importation;
+<dt>(c)</dt><dd>a judgment debt, or costs, for indirect tax or penalty under this Part;</dd>
+
+<dt>(d)</dt><dd>a fine, or costs, that a court has imposed for an offence against an
+
+indirect tax law;</dd>
+
+<dt>(e)</dt><dd>an amount that a court has ordered the entity to pay to the Commissioner,
+
+following conviction of the entity for an offence against an indirect tax law.
+
+</dd>
+
+</dl></dl></dl>
+
+36  Section 35
+
+ Omit "GST" (wherever occurring), substitute "indirect tax".
+
+Note:	The heading to section 35 is altered by omitting "GST" and substituting "indirect tax".
+
+37  Section 36
+
+ Repeal the section, substitute: 
+
+36  Time limit on credits and refunds
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>You are not entitled to:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a refund under section 35-5 of the GST Act in respect of a particular tax
+
+period; or</dd>
+
+<dt>(b)</dt><dd>an input tax credit that is attributable to a particular tax period; or</dd>
+
+<dt>(c)</dt><dd>a wine tax credit the amount of which could have been included in a
+
+reduction of your net amount for a tax period under section 21-15 of the Wine
+
+Tax Act; or</dd>
+
+<dt>(d)</dt><dd>a refund, under subsection 39(1) of this Act, of an amount of indirect
+
+tax relating to an importation;
+
+</dd>
+
+</dl></dl></dl>
 
 unless:
 
-                     (e)  within 4 years after the end of the tax period, or after the making of the importation (as the case requires), you notify the Commissioner (in a GST return or otherwise) that you are entitled to the refund or credit; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                      (f)  within that period the Commissioner notifies you (in a notice of assessment or otherwise) that you are entitled to the refund or credit; or
+<dt>(e)</dt><dd>within 4 years after the end of the tax period, or after the making of the
 
-                     (g)  in the case of a credit—the credit is taken into account in working out a net amount that the Commissioner may recover from you only because of paragraph 35(b) of this Act.
+importation (as the case requires), you notify the Commissioner (in a GST
 
-             (2)  In this section:
+return or otherwise) that you are entitled to the refund or credit; or</dd>
 
-                    <a name="wine-tax-crite"></a>**_wine tax credit_** has the meaning given by section 33-1 of the Wine Tax Act.
+<dt>(f)</dt><dd>within that period the Commissioner notifies you (in a notice of
 
-## 38  Paragraph 37(1)(b)
+assessment or otherwise) that you are entitled to the refund or credit; or</dd>
 
-Repeal the paragraph, substitute:
+<dt>(g)</dt><dd>in the case of a credit&#151;the credit is taken into account in working out a
 
-                     (b)  relying on the previous ruling, you have underpaid a net amount or an amount of indirect tax, or the Commissioner has overpaid an amount under section 35-5 of the GST Act, in respect of one or more:
+net amount that the Commissioner may recover from you only because of paragraph
 
-                              (i)  taxable supplies or taxable importations; or
+35(b) of this Act.
 
-                             (ii)  taxable dealings; or
+</dd>
 
-                            (iii)  taxable supplies of luxury cars or taxable importations of luxury cars;
+</dl></dl></dl>
 
-                            that happened before the alteration.
+<dl compact=""><dl compact="">
 
-_Note:       The heading to section 37 is altered by omitting “GST” and substituting “an indirect tax”._
+<dt>(2)</dt><dd>In this section:
 
-## 39  Paragraph 37(2)(a)
+</dd> </dl></dl>
 
-Omit “GST”, substitute “indirect tax”.
+<def><dl compact=""><dl compact="">
 
-## 40  Subsection 37(4)
+_wine tax credit_ has the meaning given by section 33-1 of the Wine
 
-Insert:
+Tax Act.
 
-                    <a name="taxabl-deal"></a>**_taxable dealing_** has the meaning given by section 33-1 of the  Wine Tax Act.
+ </dl></dl>
 
-## 41  Subsection 37(4)
+38  Paragraph 37(1)(b)
 
-Insert:
+ Repeal the paragraph, substitute:
 
-                    <a name="taxabl-import-luxuri-car"></a>**_taxable importation of a luxury car_** has the meaning given by section 27-1 of the Luxury Car Tax Act.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 42  Subsection 37(4)
+<dt>(b)</dt><dd>relying on the previous ruling, you have underpaid a net amount or an
 
-Insert:
+amount of indirect tax, or the Commissioner has overpaid an amount under
 
-                    <a name="taxabl-suppli-luxuri-car"></a>**_taxable supply of a luxury car_** has the meaning given by section 27-1 of the Luxury Car Tax Act.
+section 35-5 of the GST Act, in respect of one or more:
 
-## 43  Paragraph 39(1)(a)
+</dd>
 
-Omit “GST”, substitute “indirect tax”.
+</dl></dl></dl>
 
-## 44  Section 40
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-Repeal the section, substitute:
+<dt>(i)</dt><dd>taxable supplies or taxable importations; or</dd>
 
-##### <a id="40"></a>40  Unpaid tax
+<dt>(ii)</dt><dd>taxable dealings; or</dd>
 
-             (1)  If any of the indirect tax which a person is liable to pay remains unpaid after the time by which the tax is due to be paid, the person is liable to pay the general interest charge on the unpaid amount for each day in the period that:
+<dt>(iii)</dt><dd>taxable supplies of luxury cars or taxable importations of luxury cars;
 
-                     (a)  started at the beginning of the day by which the tax was due to be paid; and
+</dd>
 
-                     (b)  finishes at the end of the last day on which, at the end of the day, any of the following remains unpaid:
+</dl></dl></dl></dl>
 
-                              (i)  the tax;
+<center>Back to Top</center>
 
-                             (ii)  general interest charge on any of the tax.
+<dl compact=""><dl compact=""><dl compact="">
 
-Note:          The general interest charge is worked out under Division 1 of Part IIA of the _Taxation Administration Act 1953_.
+		that happened before the alteration.
 
-             (2)  In this section:
+</dl></dl></dl>
 
-                    <a name="tax"></a>**_tax_** includes penalty under this Division.
+Note:	The heading to section 37 is altered by omitting "GST" and substituting "an indirect tax".
 
-## 45  After subsection 43(2)
+39  Paragraph 37(2)(a)
 
-Insert:
+ Omit "GST", substitute "indirect tax".
 
-          (2A)  You are liable to a penalty if you fail to give the Commissioner on time any information (other than information you are required to give in a GST return) on a dealing that you are required to give under the wine tax law. The penalty is equal to double the amount of wine tax payable on the dealing.
+40  Subsection 37(4)
 
-          (2B)  You are liable to a penalty if you fail to give the Commissioner on time any information (other than information you are required to give in a GST return) on a supply or importation that you are required to give under the luxury car tax law. The penalty is equal to double the amount of luxury car tax payable on the supply or importation.
+ Insert:
 
-## 46  Paragraph 46(1)(b)
+<def><dl compact=""><dl compact="">
 
-Omit “the GST law”, substitute “an indirect tax law”.
+_taxable dealing_ has the meaning given by section 33-1 of the  Wine Tax Act.
 
-## 47  Paragraphs 46(1)(c) and (d)
+ </dl></dl>
 
-Omit “GST” (wherever occurring), substitute “indirect tax”.
+41  Subsection 37(4)
 
-## 48  Subsection 46(3) (definition of _tax officer_)
+ Insert:
 
-Omit “the GST law”, substitute “an indirect tax law”.
+<def><dl compact=""><dl compact="">
 
-## 49  After section 46
+_taxable importation of a luxury car_ has the meaning given by
 
-Insert:
+section 27-1 of the Luxury Car Tax Act.
 
-##### <a id="46A"></a>46A  Indirect tax amending Acts cannot impose penalties etc. earlier than 28 days after Royal Assent
+ </dl></dl>
 
-             (1)  An indirect tax amending Act does not have the effect of making a person liable to an indirect tax penalty for any act or omission that happens before the postponed day.
+42  Subsection 37(4)
 
-             (2)  If an indirect tax amending Act would (apart from this section) have the effect of making a person liable to an indirect tax penalty because the person contravened a requirement to do something:
+ Insert:
 
-                     (a)  within a specified period ending before the postponed day; or
+<def><dl compact=""><dl compact="">
 
-                     (b)  before a specified time happening before the postponed day;
+_taxable supply of a luxury car_ has the meaning given by section
+
+27-1 of the Luxury Car Tax Act.
+
+ </dl></dl>
+
+43  Paragraph 39(1)(a)
+
+ Omit "GST", substitute "indirect tax".
+
+44  Section 40
+
+ Repeal the section, substitute: 
+
+40 Unpaid tax
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If any of the indirect tax which a person is liable to pay remains unpaid
+
+after the time by which the tax is due to be paid, the person is liable to pay
+
+the general interest charge on the unpaid amount for each day in the period
+
+that:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>started at the beginning of the day by which the tax was due to be paid;
+
+and</dd>
+
+<dt>(b)</dt><dd>finishes at the end of the last day on which, at the end of the day, any
+
+of the following remains unpaid:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the tax;</dd>
+
+<dt>(ii)</dt><dd>general interest charge on any of the tax.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	The general interest charge is worked out under Division 1
+
+of Part IIA of the _Taxation Administration Act 1953_.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_tax_ includes penalty under this Division.
+
+ </dl></dl>
+
+45  After subsection 43(2)
+
+ Insert:
+
+<dl compact=""><dl compact="">
+
+<dt>(2A)</dt><dd>You are liable to a penalty if you fail to give the Commissioner on time
+
+any information (other than information you are required to give in a GST
+
+return) on a dealing that you are required to give under the wine tax law. The
+
+penalty is equal to double the amount of wine tax payable on the dealing.</dd> <dt>(2B)</dt><dd>You are liable to a penalty if you fail to give the Commissioner on time any information (other than information you are required to give in a GST return) on a supply or importation that you are required to give under the luxury car tax law. The penalty is equal to double the amount of luxury car tax payable on the supply or importation. </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+46  Paragraph 46(1)(b)
+
+ Omit "the GST law", substitute "an indirect tax law".
+
+47  Paragraphs 46(1)(c) and (d)
+
+ Omit "GST" (wherever occurring), substitute "indirect tax".
+
+48  Subsection 46(3) (definition of _tax officer_)
+
+ Omit "the GST law", substitute "an indirect tax law".
+
+49  After section 46
+
+ Insert: 
+
+46A  Indirect tax amending Acts cannot impose penalties etc. earlier 
+than 28 days after Royal Assent
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>An indirect tax amending Act does not have the effect of making a person
+
+liable to an indirect tax penalty for any act or omission that happens before
+
+the postponed day.</dd> <dt>(2)</dt><dd>If an indirect tax amending Act would (apart from this section) have the effect of making a person liable to an indirect tax penalty because the person contravened a requirement to do something: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>within a specified period ending before the postponed day; or</dd>
+
+<dt>(b)</dt><dd>before a specified time happening before the postponed day;
+
+</dd>
+
+</dl></dl></dl>
 
 the requirement has effect instead by reference to a period ending at the start of the postponed day, or by reference to the start of the postponed day, as the case requires.
 
-             (3)  This section does not relieve a person from liability to an indirect tax penalty to the extent to which the liability would have existed if the indirect tax amending Act had not been enacted.
+<dl compact=""><dl compact="">
 
-             (4)  In this section:
+<dt>(3)</dt><dd>This section does not relieve a person from liability to an indirect tax
 
-                    <a name="postpon-dai"></a>**_postponed day_** means the 28th day after the day on which the indirect tax amending Act receives the Royal Assent.
+penalty to the extent to which the liability would have existed if the indirect
 
-                    <a name="indirect-tax-amending-act"></a>**_indirect tax amending Act_** means an Act that amends an indirect tax law.
+tax amending Act had not been enacted.</dd> <dt>(4)</dt><dd>In this section: </dd> </dl></dl>
 
-                    <a name="indirect-tax-penalti"></a>**_indirect tax penalty_** means:
+<def><dl compact=""><dl compact="">
 
-                     (a)  an offence against an indirect tax law; or
+_postponed day_ means the 28th day after the day on which the
 
-                     (b)  a penalty under Division 4 of this Part.
+indirect tax amending Act receives the Royal Assent. _indirect tax amending Act_ means an Act that amends an indirect tax law. _indirect tax penalty_ means:  </dl></dl>
 
-## 50  Subsection 47(1)
+<dl compact=""><dl compact=""><dl compact="">
 
-Omit “GST”, substitute “indirect tax”.
+<dt>(a)</dt><dd>an offence against an indirect tax law; or</dd>
 
-## 51  Subsection 48(1) (note)
+<dt>(b)</dt><dd>a penalty under Division 4 of this Part.
 
-Omit “GST”, substitute “indirect tax”.
+</dd>
 
-## 52  At the end of section 48
+</dl></dl></dl>
 
-Add:
+50  Subsection 47(1)
 
-             (4)  This section does not apply to any amount of general interest charge.
+ Omit "GST", substitute "indirect tax".
 
-## 53  Subsections 50(1), (2) and (3), 51(1) and (2), 52(1) and (2), 53(1) and (2), and 54(1) and (2)
+51  Subsection 48(1) (note)
 
-Omit “the GST law”, substitute “an indirect tax law”.
+ Omit "GST", substitute "indirect tax".
 
-## 54  Subsection 55(3)
+52  At the end of section 48
 
-Omit “**_notified GST amount_**”, substitute “**_notified indirect tax amount_**”.
+ Add:
 
-## 55  Subsection 55(3)
+<dl compact=""><dl compact="">
 
-Omit “GST” (last occurring), substitute “indirect tax”.
+<dt>(4)</dt><dd>This section does not apply to any amount of general interest charge.
 
-## 56  Subsection 55(5)
+</dd> </dl></dl>
 
-Omit “Notified GST amount” (wherever occurring), substitute “Notified indirect tax amount”.
+53  Subsections 50(1), (2) and (3), 51(1) and (2), 52(1) and (2), 
+53(1) and (2), and 54(1) and (2)
 
-## 57  Subsections 55(6) and (7)
+Omit "the GST law", substitute "an indirect tax law".
 
-Omit “GST”, substitute “indirect tax”.
+54  Subsection 55(3)
 
-## 58  Paragraph 55(7)(a)
+ Omit "_notified GST amount_", substitute "_notified indirect tax amount_".
 
-Omit “GST”, substitute “indirect tax”.
+55  Subsection 55(3)
 
-## 59  Subsections 56(1), (2), (3) and (5), 57(1) and 58(1)
+ Omit "GST" (last occurring), substitute "indirect tax".
 
-Omit “the GST law”, substitute “an indirect tax law”.
+56  Subsection 55(5)
 
-## 60  Subsections 58(3), (5) and (6)
+ Omit "Notified GST amount" (wherever occurring), substitute "Notified indirect tax amount".
 
-Omit “GST”, substitute “indirect tax”.
+57  Subsections 55(6) and (7)
 
-## 61  Subsection 58(7)
+ Omit "GST", substitute "indirect tax".
 
-Omit “GST” (first occurring), substitute “indirect tax”.
+58  Paragraph 55(7)(a)
 
-## 62  Paragraph 58(7)(a)
+ Omit "GST", substitute "indirect tax".
 
-Omit “GST”, substitute “indirect tax”.
+59  Subsections 56(1), (2), (3) and (5), 57(1) and 58(1)
 
-## 63  Section 60
+ Omit "the GST law", substitute "an indirect tax law".
 
-Omit “the GST law”, substitute “an indirect tax law”.
+60 Subsections 58(3), (5) and (6)
 
-## 64  Subsection 61(1)
+ Omit "GST", substitute "indirect tax".
 
-Omit “the GST law”, substitute “an indirect tax law”.
+61  Subsection 58(7)
 
-## 65  Subsection 62(1)
+ Omit "GST" (first occurring), substitute "indirect tax".
 
-Repeal the subsection, substitute:
+62  Paragraph 58(7)(a)
 
-             (1)  If you are dissatisfied with:
+ Omit "GST", substitute "indirect tax".
 
-                     (a)  a reviewable GST decision relating to you; or
+63  Section 60
 
-                     (b)  a reviewable wine tax decision relating to you; or
+<center>Back to Top</center>
 
-                     (c)  a reviewable indirect tax decision relating to you;
+ Omit "the GST law", substitute "an indirect tax law".
+
+64  Subsection 61(1)
+
+ Omit "the GST law", substitute "an indirect tax law".
+
+65  Subsection 62(1)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If you are dissatisfied with:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a reviewable GST decision relating to you; or</dd>
+
+<dt>(b)</dt><dd>a reviewable wine tax decision relating to you; or</dd>
+
+<dt>(c)</dt><dd>a reviewable indirect tax decision relating to you;
+
+</dd>
+
+</dl></dl></dl>
 
 you may object against the decision in the manner set out in Part IVC.
 
-Note:          Subsection (2) lists reviewable GST decisions under the GST Act, subsection (2A) lists reviewable wine tax decisions under the Wine Tax Act and subsection (3) lists reviewable indirect tax decisions under this Part.
+<dl compact=""><dl compact="">
 
-_Note:       The heading to section 62 is altered by adding at the end “, reviewable wine tax decisions and reviewable indirect tax decisions”._
+Note:	Subsection (2) lists reviewable GST decisions under the GST
 
-## 67  Subsection 62(3)
+Act, subsection (2A) lists reviewable wine tax decisions under the Wine Tax Act
 
-Omit “**_reviewable GST decision_**”, substitute “**_reviewable indirect tax decision_**”.
+and subsection (3) lists reviewable indirect tax decisions under this Part.
 
-## 68  Subsection 62(3) (table heading)
+ </dl></dl>
 
-Omit “**Reviewable GST decisions**”, substitute “**Reviewable indirect tax decisions**”.
+Note:	The heading to section 62 is altered by adding at the end ", reviewable wine tax decisions and reviewable indirect tax decisions".
 
-## 69  Subsection 62(3) (table item 3, 2nd column)
+67  Subsection 62(3)
 
-Omit “GST”, substitute “indirect tax”.
+ Omit "_reviewable GST decision_", substitute "_reviewable indirect tax decision_".
 
-## 70  At the end of section 62
+68  Subsection 62(3) (table heading)
 
-Add:
+ Omit "Reviewable GST decisions", substitute "Reviewable indirect tax decisions".
 
-             (4)  In this section:
+69  Subsection 62(3) (table item 3, 2nd column)
 
-                    <a name="wine-tax-crite"></a>**_wine tax credit_** has the meaning given by section 33-1 of the  Wine Tax Act.
+ Omit "GST", substitute "indirect tax".
 
-## 71  After Division 7 of Part VI
+70  At the end of section 62
 
-Insert:
+ Add:
 
-<o:p> </o:p>
+<dl compact=""><dl compact="">
 
-### Division 7A—Effect of alterations to wine tax or luxury car tax laws
+<dt>(4)</dt><dd>In this section:
 
-##### <a id="62A"></a>62A  Alteration of contracts if cost of supplies etc. is affected by later alteration to wine tax or luxury car tax laws
+</dd> </dl></dl>
 
-             (1)  If, after a contract involving a supply or a taxable dealing has been made, an alteration to the wine tax law or the luxury car tax law happens and the alteration directly causes an increase or decrease in the cost to a party to the agreement of complying with the agreement, then the contract is altered as follows:
+<def><dl compact=""><dl compact="">
 
-                     (a)  if the cost is increased—by allowing the party to add the increase to the contract price;
+_wine tax credit_ has the meaning given by section 33-1 of the  Wine Tax Act.
 
-                     (b)  if the cost is decreased—by allowing the other party to deduct the decrease from the contract price.
+ </dl></dl>
 
-             (2)  The contract is not altered if:
+71  After Division 7 of Part VI
 
-                     (a)  the contract has express written provision to the contrary; or
+ Insert:
 
-                     (b)  it is clear from the terms of the contract that the alteration of the wine tax law or the luxury car tax law has been taken into account in the agreed contract price.
+Division 7A&#151;Effect of alterations to wine tax or luxury car tax
 
-             (3)  In this section:
+laws
 
-                    <a name="taxabl-deal"></a>**_taxable dealing_** has the meaning given by section 33-1 of the  Wine Tax Act.
+62A Alteration of contracts if cost of supplies etc. is affected by later alteration to wine tax or luxury car tax laws
 
-## 72  Section 63
+<dl compact=""><dl compact="">
 
-Omit “the GST law”, substitute “each indirect tax law”.
+<dt>(1)</dt><dd>If, after a contract involving a supply or a taxable dealing has been
 
-_Note:       The heading to section 63 is altered by omitting “GST law” and substituting “indirect tax laws”._
+made, an alteration to the wine tax law or the luxury car tax law happens and
 
-## 73  Subsections 64(1) and (2)
+the alteration directly causes an increase or decrease in the cost to a party
 
-Omit “the GST law”, substitute “the indirect tax laws”.
+to the agreement of complying with the agreement, then the contract is altered
 
-## 74  Subsections 65(1), 66(1) and 67(1)
+as follows:
 
-Omit “the GST law”, substitute “an indirect tax law”.
+</dd> </dl></dl>
 
-## 75  Paragraphs 67(1)(b) and (c)
+<dl compact=""><dl compact=""><dl compact="">
 
-Omit “the GST law”, substitute “an indirect tax law”.
+<dt>(a)</dt><dd>if the cost is increased&#151;by allowing the party to add the increase to the
 
-## 76  Subsection 67(2)
+contract price;</dd>
 
-Omit “GST”, substitute “indirect tax”.
+<dt>(b)</dt><dd>if the cost is decreased&#151;by allowing the other party to deduct the
 
-## 77  Subsection 67(3)
+decrease from the contract price.
 
-Omit “the GST law”, substitute “an indirect tax law”.
+</dd>
 
-## 78  Subsection 67(3)
+</dl></dl></dl>
 
-Omit “GST” (last occurring), substitute “indirect tax”.
+<dl compact=""><dl compact="">
 
-## 79  Paragraph 68(3)(a)
+<dt>(2)</dt><dd>The contract is not altered if:
 
-Omit “the GST law”, substitute “an indirect tax law”.
+</dd> </dl></dl>
 
-## 80  Subsection 68(5)
+<dl compact=""><dl compact=""><dl compact="">
 
-Omit “the GST law”, substitute “an indirect tax law”.
+<dt>(a)</dt><dd>the contract has express written provision to the contrary; or</dd>
 
-## 81  Subsection 68(6) (definition of _protected document_)
+<dt>(b)</dt><dd>it is clear from the terms of the contract that the alteration of the wine
 
-Omit “the GST law”, substitute “an indirect tax law”.
+tax law or the luxury car tax law has been taken into account in the agreed
 
-## 82  Subsection 68(6) (paragraph (c) of the definition of _protected information_)
+contract price.
 
-Omit “the GST law”, substitute “an indirect tax law”.
+</dd>
 
-## 83  Subsections 69(1) and (2)
+</dl></dl></dl>
 
-Omit “the GST law”, substitute “an indirect tax law”.
+<dl compact=""><dl compact="">
 
-## 84  Subsection 70(1)
+<dt>(3)</dt><dd>In this section:
 
-Repeal the subsection, substitute:
+</dd> </dl></dl>
 
-             (1)  If you:
+<def><dl compact=""><dl compact="">
 
-                     (a)  make a taxable supply, taxable importation, creditable acquisition or creditable importation; or
+_taxable dealing_ has the meaning given by section 33-1 of the  Wine Tax Act.
 
-                     (b)  are liable for wine tax on a taxable dealing within the meaning of the Wine Tax Act, or are entitled to a wine tax credit within the meaning of that Act; or
+ </dl></dl>
 
-                     (c)  make a taxable supply of a luxury car, or a taxable importation of a luxury car, within the meaning of the Luxury Car Tax Act;
+72  Section 63
+
+ Omit "the GST law", substitute "each indirect tax law".
+
+Note:	The heading to section 63 is altered by omitting "GST law" and substituting "indirect tax laws".
+
+73  Subsections 64(1) and (2)
+
+ Omit "the GST law", substitute "the indirect tax laws".
+
+74 Subsections 65(1), 66(1) and 67(1)
+
+ Omit "the GST law", substitute "an indirect tax law".
+
+75  Paragraphs 67(1)(b) and (c)
+
+ Omit "the GST law", substitute "an indirect tax law".
+
+76  Subsection 67(2)
+
+ Omit "GST", substitute "indirect tax".
+
+77  Subsection 67(3)
+
+ Omit "the GST law", substitute "an indirect tax law".
+
+78  Subsection 67(3)
+
+ Omit "GST" (last occurring), substitute "indirect tax".
+
+79  Paragraph 68(3)(a)
+
+ Omit "the GST law", substitute "an indirect tax law".
+
+80  Subsection 68(5)
+
+ Omit "the GST law", substitute "an indirect tax law".
+
+81  Subsection 68(6) (definition of _protected document_)
+
+Omit "the GST law", substitute "an indirect tax law".
+
+82  Subsection 68(6) (paragraph (c) of the definition of _protected information_)
+
+Omit "the GST law", substitute "an indirect tax law".
+
+83  Subsections 69(1) and (2)
+
+ Omit "the GST law", substitute "an indirect tax law".
+
+84  Subsection 70(1)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If you:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>make a taxable supply, taxable importation, creditable acquisition or
+
+creditable importation; or</dd>
+
+<dt>(b)</dt><dd>are liable for wine tax on a taxable dealing within the meaning of the
+
+Wine Tax Act, or are entitled to a wine tax credit within the meaning of that
+
+Act; or</dd>
+
+<dt>(c)</dt><dd>make a taxable supply of a luxury car, or a taxable importation of a
+
+luxury car, within the meaning of the Luxury Car Tax Act;
+
+</dd>
+
+</dl></dl></dl>
 
 you must:
 
-                     (d)  keep records that record and explain all transactions and other acts you engage in that are relevant to that supply, importation, acquisition or dealing; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  retain those records for at least 5 years after the completion of the transactions or acts to which they relate.
+<dt>(d)</dt><dd>keep records that record and explain all transactions and other acts you
 
-_Note:       The heading to section 70 is altered by omitting “GST” and substituting “indirect tax”._
+engage in that are relevant to that supply, importation, acquisition or
 
-## 85  Paragraph 70(2)(b)
+dealing; and</dd>
 
-Omit “the GST law”, substitute “an indirect tax law”.
+<dt>(e)</dt><dd>retain those records for at least 5 years after the completion of the
+
+transactions or acts to which they relate.
+
+</dd>
+
+</dl></dl></dl>
+
+Note:	The heading to section 70 is altered by omitting "GST" and substituting "indirect tax".
+
+85  Paragraph 70(2)(b)
+
+ Omit "the GST law", substitute "an indirect tax law".
+
+</def></def>
+
+</def>
+
+</def></def></def></def>
+
+</def></def>
+
+</def>
+
+</def></def></def></def></def></def></def>
 
 
-<o:p> </o:p>
+
+
