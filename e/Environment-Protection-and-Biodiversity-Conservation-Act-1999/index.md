@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00248/Html/deca6703-10d6-4094-b8e6-9faaf85704af_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00210/Html/1d044cd4-2732-44a9-b8cd-f8aa53267b14_files/image001.gif)
 
 # Environment Protection and Biodiversity Conservation Act 1999
 
 **Act No. 91 of 1999 as amended**
 
-This compilation was prepared on 19 February 2012
+This compilation was prepared on 27 December 2011
  taking into account amendments up to Act No. 46 of 2011
 
 **Volume 1** includes:     Table of Contents
@@ -649,7 +649,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [145C](#145C).     Application to Minister to extend period of effect of approval
 
-[145D](#145D).     Minister must decide whether or not to extend approval period
+[145D](#145D).     Minister must decide whether or not to extend approval 
+ period
 
 [145E](#145E).      Minister may request further information for making decision
 
@@ -935,7 +936,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [207B](#207B).     Offence of knowingly damaging critical habitat
 
-[207C](#207C).     Sale or lease of Commonwealth land containing critical habitat
+[207C](#207C).     Sale or lease of Commonwealth land containing critical 
+ habitat
 
         **Subdivision C—Miscellaneous**
 
@@ -2547,7 +2549,7 @@ Exception—fishing outside Commonwealth marine areas
 
 ##### <a id="24"></a>24  What is a _Commonwealth marine area_?
 
-                   Each of the following is a **_Commonwealth marine area_**:
+                   Each of the following is a **_Commonwealth marine area_**:
 
                      (a)  any waters of the sea inside the seaward boundary of the exclusive economic zone, except:
 
@@ -5006,7 +5008,7 @@ Auditing
 
                      (b)  the Minister is satisfied that the management arrangement or authorisation process will promote the survival and/or enhance the conservation status of each species to which the provision relates.
 
-##### <a id="55"></a>55  Agreements relating to nuclear actions
+##### <a id="55"></a>55  Agreements relating to nuclear actions
 
                    The Minister must not enter into a bilateral agreement, or accredit for the purposes of a bilateral agreement a management arrangement or an authorisation process, containing a provision that:
 
@@ -5264,7 +5266,7 @@ Note:          A bilateral agreement may also provide for revi
 
              (3)  The Minister must publish the report on each subsection (2) review in accordance with the regulations.
 
-##### <a id="65A"></a>65A  Expiry of bilateral agreement does not affect certain actions
+##### <a id="65A"></a>65A  Expiry of bilateral agreement does not affect certain actions
 
 Application of subsection (2)
 
@@ -7686,7 +7688,7 @@ Definition
 
                              (ii)  the recommendation report relating to the action given to the Minister under section 105.
 
-##### <a id="134"></a>134  Conditions of approval
+##### <a id="134"></a>134  Conditions of approval
 
 Condition to inform persons taking action of conditions attached to approval
 
@@ -11420,7 +11422,7 @@ Note 2:       If a plan, regime or policy that is accredited under t
 
 #### Subdivision B—Australian Whale Sanctuary and important cetacean habitat areas
 
-##### <a id="225"></a>225  Australian Whale Sanctuary
+##### <a id="225"></a>225  Australian Whale Sanctuary
 
              (1)  The Australian Whale Sanctuary is established in order to give formal recognition of the high level of protection and management afforded to cetaceans in Commonwealth marine areas and prescribed waters.
 
@@ -12224,7 +12226,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="255"></a>255  Certain actions are not offences
 
-                   Sections 254, 254A, 254B, 254C, 254D and 254E do not apply to:
+                   Sections 254, 254A, 254B, 254C, 254D and 254E do not apply to:
 
                      (a)  an action authorised by a permit that was issued under section 258 and is in force; or
 
