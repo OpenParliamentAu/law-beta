@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image001.gif)
 
 # A New Tax System (Family Assistance) (Administration) Act 1999
 
 **Act No. 81 of 1999 as amended**
 
-This compilation was prepared on 26 May 2012
- taking into account amendments up to Act No. 50 of 2012
+This compilation was prepared on 14 May 2012
+ taking into account amendments up to Act No. 141 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -576,27 +576,31 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4AA—Child care rebate** 
 
-        **Subdivision AAA—Election to have child care rebate paid in various ways** 
+        **Subdivision AAA—Election to have child care rebate paid in various ways**
 
-65EAAAA  Individual may elect to have child care rebate paid in various ways
+65EAAAAIndividual may elect to have child care rebate paid in various 
+ ways
 
-65EAAAB  Period in which election has effect
+65EAAABPeriod in which election has effect
 
-65EAAAC  Where no election made for an income year
+65EAAACWhere no election made for an income year
 
-        **Subdivision AAB—Weekly payments of child care rebate** 
+        **Subdivision AAB—Weekly payments of child care rebate**
 
-65EAAA  Weekly payments of child care rebate
+65EAAAWeekly payments of child care rebate
 
-65EAAB  Where individual elects to have child care rebate paid weekly to approved child care service
+65EAABWhere individual elects to have child care rebate paid weekly 
+ to approved child care service
 
-65EAAC  Where individual elects to have child care rebate paid weekly into own bank account
+65EAACWhere individual elects to have child care rebate paid weekly 
+ into own bank account
 
-65EAAD  Revising a calculation of weekly child care rebate
+65EAADRevising a calculation of weekly child care rebate
 
-65EAAE  If weekly payment is to an approved child care service, notice of revised calculation must be given to the service
+65EAAEIf weekly payment is to an approved child care service, notice 
+ of revised calculation must be given to the service
 
-65EAAF  Effect of revised calculation—payment to the individual
+65EAAFEffect of revised calculation—payment to the individual
 
         **Subdivision AA—Quarterly payments of child care rebate**
 
@@ -1362,18 +1366,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 219TSG Civil evidence and procedure rules for civil penalty orders
 
-219TSGA  Conduct contravening more than one civil penalty 
- provision
+219TSGAConduct contravening more than one civil penalty provision
 
-219TSGB  Civil proceedings after criminal proceedings
+219TSGBCivil proceedings after criminal proceedings
 
-219TSGC  Criminal proceedings during civil proceedings
+219TSGCCriminal proceedings during civil proceedings
 
-219TSGD  Criminal proceedings after civil proceedings
+219TSGDCriminal proceedings after civil proceedings
 
-219TSGE  Evidence given in proceedings for penalty not admissible in criminal proceedings
+219TSGEEvidence given in proceedings for penalty not admissible in 
+ criminal proceedings
 
-219TSGF  Minister requiring person to assist in applications for civil penalty orders
+219TSGFMinister requiring person to assist in applications for civil 
+ penalty orders
 
     **Division 2—Infringement notices**
 
@@ -2295,7 +2300,7 @@ the Secretary must determine that the claimant is entitled to be paid family tax
 
 the Secretary must determine that the claimant is entitled to be paid the family tax benefit.
 
-##### <a id="19"></a>19  Determination that no entitlement
+##### <a id="19"></a>19  Determination that no entitlement
 
                    If the Secretary is not satisfied as mentioned in section 16, 17 or 18, the Secretary must determine:
 
@@ -2377,7 +2382,7 @@ Note:          Section 20C affects the meaning of paragraph�
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image002.gif)
 
 where:
 
@@ -2431,7 +2436,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image002.gif)
 
 where:
 
@@ -2498,8 +2503,6 @@ under subsection 20A(2) or 20B(2) with a start day that has arrived or passed (o
 ##### <a id="21"></a>21  When determination is in force
 
              (1)  Subject to this section, a determination under this Division comes into force when it is made and remains in force at all times afterwards.
-
-          (1A)  A determination under paragraph 19(a) may be expressed to come into force on a day before it is made (but not earlier than the day the claim concerned is made).
 
 Effect of later determination on certain instalment determinations
 
@@ -4753,13 +4756,11 @@ Upfront part
 
           (2A)  The **_upfront part_** is the following amount:
 
-                     (a)  if the claimant becomes eligible for baby bonus between 1 July 2011 and 31 August 2012—$879.77;
+                     (a)  if the claimant becomes eligible for baby bonus in the 2011‑2012 financial year—$879.77;
 
-                     (b)  if the claimant becomes eligible for baby bonus between 1 September 2012 and 30 June 2015—$846.15;
+                     (b)  if the claimant becomes eligible for baby bonus in the 2012‑2013 financial year or a later financial year—the amount worked out as follows:
 
-                     (c)  if the claimant becomes eligible for baby bonus on or after 1 July 2015—the amount worked out as follows:
-
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image003.gif)
 
 Alternative payment arrangements in certain cases
 
@@ -6269,7 +6270,7 @@ Note:          Section 55AC affects the meaning of paragraph
 
              (5)  Calculate an indexed estimate (which may be nil) for the individual by multiplying the individual’s current ATI number (see subsection (6)) by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image002.gif)
 
 where:
 
@@ -6323,7 +6324,7 @@ the Secretary may give the claimant a notice:
 
              (4)  Calculate an indexed actual income (which may be nil) for the individual by multiplying the actual income of the individual which became known to the Secretary by the indexation factor, rounding the result to the nearest dollar and rounding 50 cents upwards. The indexation factor is the greater of 1 and the factor worked out to 3 decimal places as follows (increasing the factor by 0.001 if it would, if worked out to 4 decimal places, end in a number greater than 4):
 
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image002.gif)
 
 where:
 
@@ -7921,7 +7922,7 @@ Variation by Secretary to 24 hour limit
 
              (3)  If the claimant is an individual, the Secretary may make a notice of variation of a determination of weekly limit of hours available to the approved child care service providing care to the child, including by making the notice available to the service using an electronic interface.
 
-##### <a id="64EA"></a>64EA  When variations take effect
+##### <a id="64EA"></a>64EA  When variations take effect
 
              (1)  If a determination of a weekly limit of hours is varied by the Secretary under this Subdivision, the variation has effect from the start of the week in which the circumstance:
 
@@ -8785,7 +8786,7 @@ Note:          The individual does not have to make a claim fo
 
              (2)  If:
 
-                     (a)  the decision day (see subsection 105(1) of the Family Assistance Act) or the trigger day (see subsection 108(1), (1A) or (2) of that Act), as the case may be, is on or after 1 July 2012 and before 1 July 2013; and
+                     (a)  the decision day (see subsection 105(1) of the Family Assistance Act) or the trigger day (see subsection 108(1) or (2) of that Act), as the case may be, is on or after 1 July 2012 and before 1 July 2013; and
 
                      (b)  on that day, section 32AA or 32AD of this Act prevents the Secretary from making a payment of family tax benefit to the individual, or the individual’s partner, worked out on the basis referred to in subsection 20(1), (2A) or (3) of this Act;
 
@@ -11059,7 +11060,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00491/Html/442692c2-b366-4bf5-a136-eb8533e35d39_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00438/Html/16d957a8-2fd7-460d-a01a-5043675de461_files/image004.gif)
 
 where:
 
@@ -11109,7 +11110,7 @@ The Secretary must exercise the power to waive in accordance with any conditions
 
 ##### <a id="104"></a>104  Decisions that may be reviewed by the Secretary on own initiative
 
-                   Under section 105, the Secretary may review a decision of any officer under the family assistance law except:
+                   Under section 105, the Secretary may review a decision of any officer under the family assistance law except:
 
                      (a)  a determination of entitlement under section 51B in respect of an individual in so far as it relates to:
 
@@ -11873,7 +11874,7 @@ the Secretary may declare:
 
                    In carrying out its functions under this Act, the SSAT must pursue the objective of providing a mechanism of review that is fair, just, economical, informal and quick.
 
-##### <a id="111"></a>111  Application for review by SSAT
+##### <a id="111"></a>111  Application for review by SSAT
 
              (1)  If the decision reviewer has affirmed, varied or set aside a decision under Division 1, a person affected by the decision may apply to the Social Security Appeals Tribunal for review of the decision as affirmed or varied or, if it has been set aside and another decision substituted, the decision so substituted.
 
@@ -12891,7 +12892,7 @@ application may also be made to the AAT for the review of the decision.
 
                              (ii)  refuse to allocate the number of child care places an approved child care service has applied for under that section;
 
-                            unless the decision is based on guidelines of the Minister of the kind mentioned in paragraph 206(c);
+                            unless the decision is based on guidelines of the Minister of the kind mentioned in paragraph 206(c);
 
                     (ia)  a decision under section 207A to reduce the number of child care places allocated to an approved child care service;
 
@@ -15319,7 +15320,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                     <a name="cessat-dai"></a>**_cessation day_** means the day the service ceased to be an approved child care service.
 
-##### <a id="219GA"></a>219GA  Secretary may require financial information relating to large long day care centre operators
+##### <a id="219GA"></a>219GA  Secretary may require financial information relating to large long day care centre operators
 
              (1)  For the purposes of determining whether a large long day care centre operator is financially viable, and likely to remain so, the Secretary may, by notice in writing, require a person mentioned in subsection (2) to provide financial information in relation to a financial year if the Secretary has reason to believe that the person is capable of giving the information.
 
@@ -16475,7 +16476,7 @@ section 219TI does not have effect in relation to the nominee notice.
 
 ##### <a id="219TP"></a>219TP  Saving of Secretary’s powers to give notices to principal
 
-                   Nothing in this Part is intended in any way to limit or affect the Secretary’s powers under other provisions of the family assistance law to give notices to, or make requirements of, a person who has a nominee.
+                   Nothing in this Part is intended in any way to limit or affect the Secretary’s powers under other provisions of the family assistance law to give notices to, or make requirements of, a person who has a nominee.
 
 ##### <a id="219TQ"></a>219TQ  Notification of nominee where notice given to principal
 
@@ -16617,4 +16618,11851 @@ Note:          This subsection does not prevent other complian
 
 ##### <a id="219TSGE"></a>219TSGE  Evidence given in proceedings for penalty not admissible in criminal proceedings
 
-                   Evidence of information given or evidence of production of documents by an individual is not admissible in criminal proceedings
+                   Evidence of information given or evidence of production of documents by an individual is not admissible in criminal proceedings against the individual if:
+
+                     (a)  the individual previously gave the evidence or produced the documents in proceedings for a civil penalty order against the individual for a contravention of a civil penalty provision (whether or not the order was made); and
+
+                     (b)  the conduct alleged to constitute the offence is the same, or substantially the same, as the conduct alleged to constitute the contravention.
+
+However, this does not apply to criminal proceedings in respect of the falsity of the evidence given by the individual in the proceedings for the civil penalty order.
+
+##### <a id="219TSGF"></a>219TSGF  Minister requiring person to assist in applications for civil penalty orders
+
+             (1)  A person commits an offence if:
+
+                     (a)  the Minister requests, in writing, the person to give all reasonable assistance in connection with an application for a civil penalty order; and
+
+                     (b)  the person fails to comply with the request.
+
+                    Penalty:  10 penalty units.
+
+Note:          This section does not abrogate or affect the law relating to legal professional privilege, or any other immunity, privilege or restriction that applies to the disclosure of information, document or other things.
+
+             (2)  A request under subsection (1) is not a legislative instrument.
+
+             (3)  The Minister can request a person to assist under subsection (1) if, and only if:
+
+                     (a)  it appears to the Minister that the person is unlikely to have:
+
+                              (i)  contravened the civil penalty provision to which the application relates; or
+
+                             (ii)  committed an offence constituted by the same, or substantially the same, conduct as the conduct to which the application relates; and
+
+                     (b)  the Minister suspects or believes that the person can give information relevant to the application.
+
+             (4)  The Minister cannot request a person to assist under subsection (1) if the person is or has been a lawyer for the person suspected of contravening the civil penalty provision to which the application relates.
+
+             (5)  The Federal Court of Australia or the Federal Magistrates Court may order a person to comply with a request under subsection (1) in a specified way. Only the Minister may apply to the court for an order under this subsection _._
+
+             (6)  For the purposes of this section, it does not matter whether the application for the civil penalty order has actually been made.
+
+### Division 2—Infringement notices
+
+##### <a id="219TSH"></a>219TSH  Definitions
+
+                   In this Division:
+
+                    <a name="authorised-person"></a>**_authorised person_** means:
+
+                     (a)  the Secretary; or
+
+                     (b)  an officer appointed under section 219TSO.
+
+                    <a name="civil-contravent"></a>**_civil contravention_** means a contravention of a civil penalty provision.
+
+                    <a name="infring-notic"></a>**_infringement notice_** means an infringement notice under section 219TSI.
+
+##### <a id="219TSI"></a>219TSI  When an infringement notice can be given
+
+             (1)  If an authorised person has reasonable grounds to believe that a person has, on a particular day, committed one or more contraventions of a particular civil penalty provision, the authorised person may give to the person an infringement notice relating to those contraventions.
+
+             (2)  An infringement notice must be given within 12 months after the day on which the civil contraventions are alleged to have taken place.
+
+##### <a id="219TSJ"></a>219TSJ  Matters to be included in an infringement notice
+
+             (1)  An infringement notice must:
+
+                     (a)  set out the name of the person to whom the notice is given; and
+
+                     (b)  set out the name of the approved child care service concerned; and
+
+                     (c)  set out the name of the authorised person who gave the notice; and
+
+                     (d)  set out brief details of each of the alleged civil contraventions; and
+
+                     (e)  contain a statement to the effect that the matter or matters will not be dealt with by the Federal Court of Australia or the Federal Magistrates Court if the penalty specified in the notice is paid to the Commonwealth, within:
+
+                              (i)  28 days after the notice is given; or
+
+                             (ii)  if the Secretary allows a longer period—that longer period; and
+
+                      (f)  give an explanation of how payment of the penalty is to be made; and
+
+                     (g)  set out such other matters (if any) as are specified by the regulations.
+
+             (2)  For the purposes of paragraph (1)(d), the brief details must include the following information in relation to each alleged civil contravention:
+
+                     (a)  the date of the alleged contravention;
+
+                     (b)  the civil penalty provision that was allegedly contravened.
+
+##### <a id="219TSK"></a>219TSK  Amount of penalty
+
+Infringement notice given to a body corporate
+
+             (1)  The penalty to be specified in an infringement notice given to a body corporate must be a pecuniary penalty equal to the number of penalty units worked out using the table:
+
+<table>
+<colgroup>
+  <col width="9%">
+  <col width="45%">
+  <col width="46%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Number of penalty units</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>In this case ...</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>the number of penalty units is ...</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of a civil penalty
+      provision (other than a provision mentioned in item 3, 5 or 7)</div>
+  </td>
+  <td>
+    <div>30.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of a civil penalty
+      provision (other than a provision mentioned in item 3, 5 or 7)</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 30 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of subsection 219L(3)</div>
+  </td>
+  <td>
+    <div>4.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of subsection
+      219L(3)</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 4 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of subsection 219M(1)
+      or (4)</div>
+  </td>
+  <td>
+    <div>80.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of subsection
+      219M(1) or (4)</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 80 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of a civil penalty
+      provision that is a provision of the regulations</div>
+  </td>
+  <td>
+    <div>
+      24.
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of a civil penalty
+      provision that is a provision of the regulations</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 24 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr></table>
+
+Infringement notice given to a person other than a body corporate
+
+             (2)  The penalty to be specified in an infringement notice given to a person other than a body corporate must be a pecuniary penalty equal to the number of penalty units worked out using the table:
+
+<table>
+<colgroup>
+  <col width="9%">
+  <col width="45%">
+  <col width="46%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Number of penalty units</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>In this case ...</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>the number of penalty units is ...</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of a civil penalty
+      provision (other than a provision mentioned in item 3, 5 or 7)</div>
+  </td>
+  <td>
+    <div>15.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of a civil penalty
+      provision (other than a provision mentioned in item 3, 5 or 7)</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 15 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of subsection 219L(3)</div>
+  </td>
+  <td>
+    <div>2.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of subsection
+      219L(3)</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 2 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of subsection 219M(1)
+      or (4)</div>
+  </td>
+  <td>
+    <div>40.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of subsection
+      219M(1) or (4)</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 40 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7</div>
+  </td>
+  <td>
+    <div>The notice relates to a single alleged contravention of a civil penalty
+      provision that is a provision of the regulations</div>
+  </td>
+  <td>
+    <div>
+      12.
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8</div>
+  </td>
+  <td>
+    <div>The notice relates to more than 1 alleged contravention of a civil penalty
+      provision that is a provision of the regulations</div>
+  </td>
+  <td>
+    <div>the number obtained by multiplying 12 by:</div>
+    <div>(a) if the number of alleged contraventions is less than 8—that number;
+      or</div>
+    <div>(b) otherwise—8.</div>
+  </td>
+</tr></table>
+
+##### <a id="219TSL"></a>219TSL  Withdrawal of an infringement notice
+
+             (1)  This section applies if an infringement notice is given to a person.
+
+             (2)  An authorised person may, by written notice (the **_withdrawal notice_**) given to the person, withdraw the infringement notice.
+
+             (3)  To be effective, the withdrawal notice must be given to the person within 28 days after the infringement notice was given.
+
+Refund of penalty if infringement notice withdrawn
+
+             (4)  If:
+
+                     (a)  the penalty specified in the infringement notice is paid; and
+
+                     (b)  the infringement notice is withdrawn after the penalty is paid;
+
+the Commonwealth is liable to refund the penalty.
+
+##### <a id="219TSM"></a>219TSM  What happens if the penalty is paid
+
+             (1)  This section applies if:
+
+                     (a)  an infringement notice relating to one or more alleged civil contraventions is given to a person; and
+
+                     (b)  the penalty is paid in accordance with the infringement notice; and
+
+                     (c)  the infringement notice is not withdrawn.
+
+             (2)  Any liability of the person for the alleged civil contraventions is discharged.
+
+             (3)  Proceedings under Division 1 must not be brought against the person for the alleged civil contraventions.
+
+##### <a id="219TSN"></a>219TSN  Effect of this Division on civil proceedings
+
+                   This Division does not:
+
+                     (a)  require an infringement notice to be given in relation to an alleged civil contravention; or
+
+                     (b)  affect the liability of a person to have proceedings under Division 1 brought against the person for an alleged civil contravention if:
+
+                              (i)  the person does not comply with an infringement notice relating to the contravention; or
+
+                             (ii)  an infringement notice relating to the contravention is not given to the person; or
+
+                            (iii)  an infringement notice relating to the contravention is given to the person and subsequently withdrawn; or
+
+                     (c)  limit the discretion of the Federal Court of Australia or the Federal Magistrates Court to determine the amount of a penalty to be imposed on a person who is found in proceedings under Division 1 to have contravened a civil penalty provision.
+
+Note:          This Division also does not limit, nor is it affected by, other compliance measures in this Act (for example, sanctions under section 200).
+
+##### <a id="219TSO"></a>219TSO  Appointment of authorised person
+
+                   The Secretary may, by writing, appoint an officer of the Department as an authorised person for the purposes of this Division.
+
+##### <a id="219TSP"></a>219TSP  Regulations
+
+                   The regulations may make further provision in relation to infringement notices.
+
+### Division 3—Suspension of approved child care service’s approval
+
+##### <a id="219TSQ"></a>219TSQ  Suspension of approved child care service’s approval
+
+             (1)  The Secretary may, by notice given to a person who operates an approved child care service, suspend the service’s approval if:
+
+                     (a)  10 infringement notices under section 219TSI are given to the person in relation to the service within a period (the **_infringement period_**) of 12 months; and
+
+                     (b)  in relation to each notice, the time for paying the penalty specified in the notice has ended before the end of the infringement period.
+
+             (2)  The notice must:
+
+                     (a)  specify a day, not earlier than the day on which the notice is given, on which the suspension takes effect; and
+
+                     (b)  specify the grounds upon which the Secretary has suspended the service’s approval.
+
+             (3)  The Secretary may, by notice given to a person who operates the service, revoke the suspension with effect from the day specified in the notice.
+
+## Part 9—Other matters
+
+##### <a id="220"></a>220  General administration of family assistance law
+
+                   The Secretary is, subject to any direction of the Minister, to have the general administration of the family assistance law.
+
+##### <a id="220A"></a>220A  Minister requiring person to assist in criminal proceedings
+
+             (1)  A person commits an offence if:
+
+                     (a)  the Minister requests, in writing, the person to give all reasonable assistance in connection with criminal proceedings for an offence against this Act; and
+
+                     (b)  the person fails to comply with the request.
+
+                    Penalty:  10 penalty units.
+
+Note:          This section does not abrogate or affect the law relating to legal professional privilege, or any other immunity, privilege or restriction that applies to the disclosure of information, document or other things.
+
+             (2)  A request under subsection (1) is not a legislative instrument.
+
+             (3)  The Minister can request a person to assist under subsection (1) if, and only if:
+
+                     (a)  it appears to the Minister that the person is unlikely:
+
+                              (i)  to be a defendant in the proceedings; or
+
+                             (ii)  to have contravened a civil penalty provision constituted by the same, or substantially the same, conduct as the conduct to which the proceedings relates; and
+
+                     (b)  the Minister suspects or believes that the person can give information relevant to the proceedings.
+
+             (4)  The Minister cannot request a person to assist under subsection (1) if the person is or has been a lawyer for a defendant or likely defendant in the proceedings.
+
+             (5)  A court may order a person to comply with a request under subsection (1) in a specified way. Only the Minister may apply to the court for an order under this subsection _._
+
+             (6)  For the purposes of this section, it does not matter whether criminal proceedings for the offence have actually begun.
+
+             (7)  In this section:
+
+                    <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against Chapter 7 of the _Criminal Code_ that relates to this Act.
+
+##### <a id="221"></a>221  Delegation
+
+             (1)  Subject to this section, the Secretary may delegate to an officer all or any of the powers of the Secretary under the family assistance law, other than the power to engage an expert to carry out an independent audit as mentioned in section 219GB.
+
+             (2)  The Secretary must not delegate such a power to an officer of the Human Services Department, unless the Secretary of the Human Services Department has agreed to the delegation.
+
+             (3)  The Secretary must not delegate the Secretary’s power under subparagraph 168(1)(b)(i) (disclosure of information) except to the Secretary of the Human Services Department, the Chief Executive Centrelink or the Chief Executive Medicare.
+
+             (4)  The Secretary must not delegate to an officer, other than an SES employee or acting SES employee, the Secretary’s powers under either of the following:
+
+                     (a)  section 219GA (Secretary requiring information from person);
+
+                     (b)  Division 2 of Part 8C (infringement notices).
+
+##### <a id="221A"></a>221A  Committees
+
+             (1)  The Minister may in writing establish committees for the purposes of the family assistance law.
+
+Functions
+
+             (2)  A committee has the functions determined in writing by the Minister.
+
+             (3)  A committee must, in performing its functions, comply with any directions given to the committee by the Minister.
+
+Appointments
+
+             (4)  A committee consists of the members appointed in writing by the Minister.
+
+             (5)  A member of a committee holds office on a part‑time basis.
+
+Chair
+
+             (6)  The Minister may designate a member of a committee as the Chair of the committee.
+
+Remuneration and allowances
+
+             (7)  A member of a committee is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the member is to be paid the remuneration that is prescribed by the regulations.
+
+             (8)  A member of a committee is to be paid the allowances that are prescribed by the regulations.
+
+             (9)  Subsections (7) and (8) have effect subject to the _Remuneration Tribunal Act 1973_.
+
+Disclosure of interests
+
+           (10)  A member of a committee must give written notice to the Minister of any direct or indirect pecuniary interest that the member has or acquires and that conflicts or could conflict with the proper performance of the member’s functions.
+
+Resignation
+
+           (11)  A member of a committee may resign his or her appointment by giving the Minister a written resignation.
+
+Termination
+
+           (12)  The Minister may at any time terminate the appointment of a member of a committee.
+
+##### <a id="222"></a>222  Decisions to be in writing
+
+             (1)  A decision of the Minister or of an officer under the family assistance law must be in writing.
+
+             (2)  Such a decision is taken to be in writing if it is made, or recorded, by means of a computer.
+
+##### <a id="223"></a>223  Secretary may arrange for use of computer programs to make decisions
+
+             (1)  The Secretary may arrange for the use, under the Secretary’s control, of computer programs for any purposes for which the Secretary may make decisions under the family assistance law.
+
+             (2)  A decision made by the operation of a computer program under an arrangement made under subsection (1) is taken to be a decision made by the Secretary.
+
+##### <a id="224"></a>224  Notice of decisions
+
+             (1)  If a notice of a decision of an officer:
+
+                     (a)  affecting a person’s entitlement to be paid family assistance under the family assistance law; or
+
+                     (b)  affecting a person’s conditional eligibility for child care benefit by fee reduction; or
+
+                     (c)  affecting a weekly limit of hours, a CCB %, a schooling %, eligibility for the special grandparent rate or a rate under section 81 of the Family Assistance Act applicable to a person; or
+
+                  (caa)  about the amount of child care rebate applicable in respect of a person and a child for a week under Subdivision AAB of Division 4AA of Part 3; or
+
+                    (ca)  about the amount of child care rebate applicable in respect of a person and a child for a quarter under Subdivision AA of Division 4AA of Part 3;
+
+is:
+
+                     (d)  delivered to a person personally; or
+
+                     (e)  left at the address of the place of residence or business of the person last known to the Secretary; or
+
+                      (f)  sent by prepaid post to the address of the person last know to the Secretary;
+
+notice of the decision is taken, for the purposes of the family assistance law, to have been given to the person.
+
+             (2)  Notice of a decision of an officer affecting or about a matter referred to in paragraph (1)(a), (b), (c) or (ca) may be given to a person by properly addressing, prepaying and posting the document as a letter.
+
+             (3)  If notice of a decision is given in accordance with subsection (2), notice of the decision is taken to have been given to the person at the time at which the notice would be delivered in the ordinary course of the post, unless the contrary is proved.
+
+##### <a id="224A"></a>224A  Notice of decisions under Part 8 or 8C
+
+             (1)  If a notice of a decision of an officer under Part 8 or 8C  is:
+
+                     (a)  left at the address of the place of business of a child care service last known to the Secretary; or
+
+                     (b)  sent by prepaid post to the address of a child care service last known to the Secretary; or
+
+                     (c)  sent by email to the last known email address of the child care service;
+
+notice of the decision is taken, for the purposes of the family assistance law, to have been given to the service.
+
+             (2)  Notice of a decision of an officer under Part 8 or 8C may be given to a service by properly addressing, prepaying and posting the document as a letter.
+
+             (3)  If notice of a decision is given in accordance with subsection (2), notice of the decision is taken to have been given to the service at the time at which the notice would be delivered in the ordinary course of the post, unless the contrary is proved.
+
+             (4)  For the purposes of this section, a notice of a decision of an officer under Part 8C is:
+
+                     (a)  an infringement notice under section 219TSI; or
+
+                     (b)  a notice of suspension under section 219TSQ.
+
+##### <a id="225"></a>225  Payment of deductions to Commissioner of Taxation
+
+                   The Secretary must, in accordance with section 218 of the _Income Tax Assessment Act 1936,_ or Subdivision 260‑A in Schedule 1 to the _Taxation Administration Act 1953_, for the purpose of enabling the collection of an amount that is, or may become, payable by a recipient of a payment under this Act:
+
+                     (a)  make deductions from the instalments of, or make a deduction from, the payment; and
+
+                     (b)  pay the amount deducted to the Commissioner of Taxation.
+
+This section does not apply to a payment of child care benefit.
+
+##### <a id="226"></a>226  Setting off family assistance entitlement against tax liability
+
+             (1)  If:
+
+                     (a)  a person is entitled to an amount of family assistance (other than child care benefit); and
+
+                     (b)  the person is liable for an amount of primary tax;
+
+the Commissioner of Taxation may determine that the whole or a part of the entitlement is to be set off against the liability.
+
+             (2)  If the Commissioner of Taxation does so:
+
+                     (a)  the amount of the entitlement and the amount of the liability are reduced accordingly; and
+
+                     (b)  the person is taken to have paid so much of the amount of the tax as is equal to the amount set off against the tax liability at the time when the Commissioner sets off the amount or at any earlier time that the Commissioner determines.
+
+             (3)  This section has effect in spite of anything in any other Act or any other law of the Commonwealth.
+
+##### <a id="227"></a>227  Payment of deductions to Child Support Registrar
+
+             (1)  The Secretary must, in accordance with a notice given to the Secretary under subsection 72AB(3) of the _Child Support (Registration and Collection) Act 1988_ in relation to a person:
+
+                     (a)  make deductions from instalment amounts of family tax benefit that the person is entitled to be paid under section 23; or
+
+                     (b)  make a deduction from an amount of family tax benefit that the person is entitled to be paid under section 24;
+
+and pay amounts so deducted to the Child Support Registrar.
+
+             (2)  However, the Secretary must not deduct an amount under subsection (1) in contravention of section 228.
+
+             (3)  If the Secretary deducts an amount under subsection (1), then:
+
+                     (a)  on the day the amount is deducted, the total amount of the child support debts of the person (being debts referred to in subsection 72AB(2) of the _Child Support (Registration and Collection) Act 1988_) is taken to be reduced by an amount equal to the amount deducted; and
+
+                     (b)  on the day the amount is deducted, the person is taken to have been paid an amount of family tax benefit equal to the amount deducted.
+
+             (4)  A deduction under subsection (1) may result in the family tax benefit that the person is entitled to be paid being reduced to nil.
+
+##### <a id="228"></a>228  Maximum deduction
+
+             (1)  This section applies if a notice is given under subsection 72AB(3) of the _Child Support (Registration and Collection) Act 1988_ to a person that specifies:
+
+                     (a)  an amount to be deducted from family tax benefit that the person is entitled to be paid on a day or days specified in the notice; or
+
+                     (b)  a method of working out such an amount.
+
+             (2)  The amount deducted on a particular day must not exceed the total amount of the child support debts of the person on that day, being debts referred to in subsection 72AB(2) of the _Child Support (Registration and Collection) Act 1988_.
+
+             (3)  If, on a day specified in the notice, the person has at least one FTB child, or one regular care child who is also a rent assistance child, for whom the person is eligible for family tax benefit who is not a designated child support child of the person, the amount deducted on that day must not exceed the difference between:
+
+                     (a)  the amount of family tax benefit that the person is entitled to be paid on that day; and
+
+                     (b)  the amount of family tax benefit that the person would be entitled to be paid on that day, assuming that each designated child support child of the person was neither an FTB child, nor a regular care child, of the person on that day.
+
+             (4)  If, on a day specified in the notice:
+
+                     (a)  each FTB child, and each regular care child who is also a rent assistance child, for whom the person is eligible for family tax benefit is a designated child support child of the person; and
+
+                     (b)  an income support payment or an income support supplement is payable to the person;
+
+the amount deducted on that day must not exceed the difference between:
+
+                     (c)  the amount of family tax benefit that the person is entitled to be paid on that day; and
+
+                     (d)  the forgone amount in respect of the person’s income support payment or income support supplement.
+
+             (5)  For the purposes of subsection (4), the **_forgone amount_**, in respect of a person’s income support payment or income support supplement, is the amount that represents the difference between:
+
+                     (a)  the amount of the income support payment or the income support supplement that would have been payable to the person if the person had not been entitled to be paid family tax benefit on that day; and
+
+                     (b)  the amount of the income support payment or the income support supplement payable to the person on that day.
+
+             (6)  In this section:
+
+                    <a name="person"></a><a name="design-child-support-child"></a>**_designated child support child_** **_of a person_** has the same meaning as in section 72AB of the _Child Support (Registration and Collection) Act 1988._
+
+                    <a name="incom-support-payment"></a>**_income support payment_** has the same meaning as in the _Social Security Act 1991_.
+
+                    <a name="incom-support-supplem"></a>**_income support supplement_** has the same meaning as in Part IIIA of the _Veterans’ Entitlements Act 1986_.
+
+##### <a id="229"></a>229  Judicial notice of certain matters
+
+             (1)  All courts are to take judicial notice of a signature that purports to be attached or appended to any official document produced under the family assistance law, if the signature is of a person who is or has been an officer.
+
+             (2)  If the signature of a person referred to in subsection (1) purports to be attached or appended to any official document produced under the family assistance law, all courts are to take judicial notice of the fact that the person is, or has been, an officer.
+
+##### <a id="230"></a>230  Documentary evidence
+
+             (1)  If the signature of any person who is or has been an officer purports to be attached or appended to any official document, the document is to be received in all courts as prima facie evidence of the facts and statements contained in it.
+
+             (2)  A statement in writing signed by a person referred to in subsection (1) that another person is or was entitled to, or had received, a payment under this Act on a certain date and of a certain amount is to be received in all courts as prima facie evidence that the person is or was entitled to, or had received, the payment on the date, and of the amount, stated.
+
+##### <a id="231"></a>231  Application of family assistance law to unincorporated bodies
+
+             (1)  The family assistance law applies to an unincorporated body or association (the **_body_**) as if it were a person other than an individual, but it applies with the following 3 changes.
+
+Imposition of obligations
+
+             (2)  Subject to subsection (2A), the first change is that obligations that would be imposed on the body are imposed instead on:
+
+                     (a)  if the body is a partnership—each partner; or
+
+                     (b)  in any other case—each member of the committee of management of the body;
+
+but they may be discharged by any of the partners or any of those members.
+
+          (2A)  If:
+
+                     (a)  an unincorporated body or association is operating an approved child care service; and
+
+                     (b)  a debt becomes due to the Commonwealth by the service under Part 4;
+
+then subsection (2) does not apply in relation to the debt and the debt is taken to be a debt owed by the service.
+
+Note:          One of the effects of this subsection is that subsection 82(2) rather than subsection 82(1) will apply to the debt. Subsection 82(2) provides more ways of recovering debts than subsection 82(1) (for example, setting off debts against advances is permissible).
+
+Commission of offences
+
+             (3)  The second change is that any offence against this Act that would otherwise be committed by the body is taken instead to have been committed by:
+
+                     (a)  if the body is a partnership—any partner:
+
+                              (i)  who was knowingly concerned in, or party to, the relevant act or omission; or
+
+                             (ii)  who aided, abetted, counselled or procured the relevant act or omission; or
+
+                     (b)  in any other case—any member of the committee of management of the body:
+
+                              (i)  who was knowingly concerned in, or party to, the relevant act or omission; or
+
+                             (ii)  who aided, abetted, counselled or procured the relevant act or omission.
+
+Contravention of civil penalty provisions
+
+             (4)  The third change is that any contravention of a civil penalty provision that would otherwise be committed by the body is taken instead to have been committed by:
+
+                     (a)  if the body is a partnership—any partner:
+
+                              (i)  who was knowingly concerned in, or party to, the relevant contravention; or
+
+                             (ii)  who aided, abetted, counselled or procured the relevant contravention; or
+
+                     (b)  in any other case—any member of the committee of management of the body:
+
+                              (i)  who was knowingly concerned in, or party to, the relevant contravention; or
+
+                             (ii)  who aided, abetted, counselled or procured the relevant contravention.
+
+##### <a id="232"></a>232  Annual report
+
+             (1)  As soon as practicable after 30 June in each year, the Secretary must give the Minister a written report on the administrative operation of the family assistance law during the financial year that ended on that 30 June.
+
+             (2)  The Minister is to cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the report.
+
+##### <a id="233"></a>233  Appropriation
+
+                   Payments under this Act are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.
+
+##### <a id="234"></a>234  Agreements on administrative arrangements
+
+             (1)  The Secretary and the Principal Member may agree on administrative arrangements to further the objectives of Division 2 of Part 5.
+
+             (2)  The Secretary and the Commissioner of Taxation may agree on administrative arrangements to further the objectives of this Act.
+
+##### <a id="235"></a>235  Regulations
+
+             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+
+                     (a)  required or permitted by this Act to be prescribed; or
+
+                     (b)  necessary or convenient for carrying out or giving effect to this Act.
+
+Offences and civil penalties
+
+          (1A)  Without limiting subsection (1), the regulations may:
+
+                     (a)  prescribe penalties for offences against the regulations that do not exceed a fine of 10 penalty units; and
+
+                     (b)  declare that specified provisions of the regulations are civil penalty provisions for the purposes of this Act, and prescribe penalties for contraventions of such provisions that do not exceed:
+
+                              (i)  for a body corporate—250 penalty units; or
+
+                             (ii)  in any other case—50 penalty units.
+
+Fees
+
+             (2)  Without limiting subsection (1), the regulations may prescribe fees for the making of applications under section 194 or 207\. Any such fees must not be such as to amount to taxation.
+
+Proof of making of claims etc.
+
+             (3)  Without limiting subsection (1), if a provision of the family assistance law provides that the Secretary or another officer may approve:
+
+                     (a)  the form or manner of making or withdrawing any application or claim; or
+
+                     (b)  the way of doing any other thing that is required or permitted to be done for the purposes of that law;
+
+the regulations may make provision for the proof of the making or withdrawing of the application or claim, or the doing of the other thing, for the purposes of any legal proceedings.
+
+Date of effect of review decisions
+
+             (4)  Without limiting subsection (1), the regulations may provide that specified decisions by:
+
+                     (a)  the Secretary under any provision of this Act; or
+
+                     (b)  an authorised review officer, the Social Security Appeals Tribunal, or the Administrative Appeals Tribunal, under Part 5;
+
+that have the effect of creating or increasing an entitlement to be paid family tax benefit by instalment, only have effect from a specified day before the making of the decisions.
+
+# Notes to the _A New Tax System (Family Assistance) (Administration) Act 1999_
+
+### Note 1
+
+The _A New Tax System (Family Assistance) (Administration) Act 1999_ as shown in this compilation comprises Act No. 81, 1999 amended as indicated in the Tables below.
+
+For application, saving or transitional provisions made by the _Child Support and Family Assistance Legislation Amendment (Budget and Other Measures)_ _Act 2010_, _see_ Act No. 65, 2010.
+
+For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="21%">
+  <col width="15%">
+  <col width="0%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>A New Tax System (Family Assistance) (Administration) Act 1999</div>
+  </td>
+  <td>
+    <div>81, 1999</div>
+  </td>
+  <td>
+    <div>8 July 1999</div>
+  </td>
+  <td>
+    <div>Ss. 1, 2 and 235(5): Royal Assent Remainder: ( <i>see</i>s. 2(2))</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A New Tax System (Tax Administration) Act 1999</div>
+  </td>
+  <td>
+    <div>179, 1999</div>
+  </td>
+  <td>
+    <div>22 Dec 1999</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 5, 6): <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security (Administration and International Agreements) (Consequential Amendments) Act 1999</div>
+  </td>
+  <td>
+    <div>192, 1999</div>
+  </td>
+  <td>
+    <div>23 Dec 1999</div>
+  </td>
+  <td>
+    <div>Schedule 4: 1 July 2000 <i>(b)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A New Tax System (Tax Administration) Act (No. 1) 2000</div>
+  </td>
+  <td>
+    <div>44, 2000</div>
+  </td>
+  <td>
+    <div>3 May 2000</div>
+  </td>
+  <td>
+    <div>Schedule 3 (item 1): <i>(c)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>A New Tax System (Family Assistance and Related Measures) Act 2000</div>
+  </td>
+  <td>
+    <div>45, 2000</div>
+  </td>
+  <td>
+    <div>3 May 2000</div>
+  </td>
+  <td>
+    <div>Schedules 2, 5 and 6: <i>(d)</i></div>
+  </td>
+  <td>
+    <div>Schs. 5 and 6</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services (2000 Budget and Related Measures) Act 2000</div>
+  </td>
+  <td>
+    <div>138, 2000</div>
+  </td>
+  <td>
+    <div>24 Nov 2000</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 7–10): 1 Jan 2001 <i>(e)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (Debt Recovery) Act 2001</div>
+  </td>
+  <td>
+    <div>47, 2001</div>
+  </td>
+  <td>
+    <div>12 June 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 3–27, 29, 32, 33), Schedule 3 (items 1–15) and Schedule 4 (items 1–8A): 1 July 2001 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 17)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Child Support Legislation Amendment Act 2001</div>
+  </td>
+  <td>
+    <div>75, 2001</div>
+  </td>
+  <td>
+    <div>30 June 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1A (items 22–24): 1 July 2002 <i>(f)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+  </td>
+  <td>
+    <div>137, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>2 Oct 2001</div>
+  </td>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Estimate Tolerance (Transition) Act 2001</div>
+  </td>
+  <td>
+    <div>138, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Budget Initiatives and Other Measures) Act 2002</div>
+  </td>
+  <td>
+    <div>95, 2002</div>
+  </td>
+  <td>
+    <div>10 Nov 2002</div>
+  </td>
+  <td>
+    <div>Schedules 1 and 2: 1 July 2003 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 14)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment Act 2003</div>
+  </td>
+  <td>
+    <div>30, 2003</div>
+  </td>
+  <td>
+    <div>15 Apr 2003</div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 2 (items 14–51): Royal Assent 
+Schedule 2 (item 72): <i>(g)</i> 
+Schedule 2 (item 83): 1 July 2000 
+Schedule 2 (items 84–86): <i>(g)</i></div>
+  </td>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Australians Working Together and other 2001 Budget Measures) Act 2003</div>
+  </td>
+  <td>
+    <div>35, 2003</div>
+  </td>
+  <td>
+    <div>24 Apr 2003</div>
+  </td>
+  <td>
+    <div>Schedule 7 (items 4–6): 24 Apr 2003</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (2003 Budget and Other Measures) Act 2003</div>
+  </td>
+  <td>
+    <div>122, 2003</div>
+  </td>
+  <td>
+    <div>5 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 1–4): 1 July 2004</div>
+  </td>
+  <td>
+    <div>Sch. 4 (item 1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003</div>
+  </td>
+  <td>
+    <div>150, 2003</div>
+  </td>
+  <td>
+    <div>19 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 95): <i>(h)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Extension of Time Limits) Act 2004</div>
+  </td>
+  <td>
+    <div>33, 2004</div>
+  </td>
+  <td>
+    <div>20 Apr 2004</div>
+  </td>
+  <td>
+    <div>20 Apr 2004</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 6)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004</div>
+  </td>
+  <td>
+    <div>52, 2004</div>
+  </td>
+  <td>
+    <div>27 Apr 2004</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 9, 10): 1 July 2004 ( <i>see</i>s. 2)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (More Help for Families—Increased Payments) Act 2004</div>
+  </td>
+  <td>
+    <div>59, 2004</div>
+  </td>
+  <td>
+    <div>26 May 2004</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 9, 10, 11(1)) and Schedule 2 (items 12–33): 1 July 2004</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 11(1)) and Sch. 2 (items 14, 25, 27, 29, 31, 33)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (More Help for Families—One‑off Payments) Act 2004</div>
+  </td>
+  <td>
+    <div>60, 2004</div>
+  </td>
+  <td>
+    <div>26 May 2004</div>
+  </td>
+  <td>
+    <div>26 May 2004</div>
+  </td>
+  <td>
+    <div>Sch. 3 (item 1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (2004 Election Commitments) Act 2004</div>
+  </td>
+  <td>
+    <div>132, 2004</div>
+  </td>
+  <td>
+    <div>8 Dec 2004</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 14–44): 1 Jan 2005</div>
+  </td>
+  <td>
+    <div>Sch. 4 (item 44)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services and Veterans’ Affairs Legislation Amendment (Further 2004 Election Commitments and Other Measures) Act 2005</div>
+  </td>
+  <td>
+    <div>29, 2005</div>
+  </td>
+  <td>
+    <div>21 Mar 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 8, 9, 10(1)): 1 Jan 2005</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 10(1))</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Family Assistance and Related Measures) Act 2005</div>
+  </td>
+  <td>
+    <div>61, 2005</div>
+  </td>
+  <td>
+    <div>26 June 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1, Schedule 2 (items 1–6), Schedule 3 (items 2, 3) and Schedule 4 (items 1–30): 1 July 2005 
+Schedule 3 (item 4): 1 Jan 2005 
+Schedule 3 (items 5–10, 
+14–17): 1 Jan 2006 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 12), Sch. 2 (items 
+4–7) and Sch. 3 (items 9, 17)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Human Services Legislation Amendment Act 2005</div>
+  </td>
+  <td>
+    <div>111, 2005</div>
+  </td>
+  <td>
+    <div>6 Sept 2005</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 84–89): 1 Oct 2005</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Welfare to Work) Act 2005</div>
+  </td>
+  <td>
+    <div>150, 2005</div>
+  </td>
+  <td>
+    <div>14 Dec 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 9–17) and Schedule 2 (items 15–35): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 16, 17) and 
+Sch. 2 (item 35)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (2005 Measures No. 4) Act 2005</div>
+  </td>
+  <td>
+    <div>160, 2005</div>
+  </td>
+  <td>
+    <div>19 Dec 2005</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 11): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance, Social Security and Veterans’ Affairs Legislation Amendment (2005 Budget and Other Measures) Act 2006</div>
+  </td>
+  <td>
+    <div>36, 2006</div>
+  </td>
+  <td>
+    <div>3 May 2006</div>
+  </td>
+  <td>
+    <div>Schedules 2 and 5: 4 May 2006 
+Schedule 4: 1 July 2006</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 20), Sch. 4 (item 2) and Sch. 5 (items 6, 7)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006</div>
+  </td>
+  <td>
+    <div>82, 2006</div>
+  </td>
+  <td>
+    <div>30 June 2006</div>
+  </td>
+  <td>
+    <div>Schedule 10: 1 July 2006 
+Schedule 11: 1 July 2002</div>
+  </td>
+  <td>
+    <div>Sch. 11 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Family Assistance Legislation Amendment (Miscellaneous Measures) Act 2006</div>
+  </td>
+  <td>
+    <div>108, 2006</div>
+  </td>
+  <td>
+    <div>27 Sept 2006</div>
+  </td>
+  <td>
+    <div>Schedule 2: (items 1, 2) and Schedule 8: (items 40–75): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006</div>
+  </td>
+  <td>
+    <div>146, 2006</div>
+  </td>
+  <td>
+    <div>6 Dec 2006</div>
+  </td>
+  <td>
+    <div>Schedule 5 (item 73): Royal Assent 
+Schedule 5 (items 78–89) and Schedule 8 (items 92–109, 145(1)): 1 July 2008</div>
+  </td>
+  <td>
+    <div>Sch. 8 (item 145(1)) Sch. 5 (item 73) (rs. by 63, 2008, Sch. 6 \[item 16]) 
+Sch. 5 (item 73A) (ad. by 63, 2008, Sch. 6 \[item 16])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairsand Other Legislation Amendment(2008 Budget and Other Measures) Act 2008</div>
+  </td>
+  <td>
+    <div>63, 2008</div>
+  </td>
+  <td>
+    <div>30 June 2008</div>
+  </td>
+  <td>
+    <div>Schedule 6 (item 16): <i>(i)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007</div>
+  </td>
+  <td>
+    <div>82, 2007</div>
+  </td>
+  <td>
+    <div>21 June 2007</div>
+  </td>
+  <td>
+    <div>Schedule 6 (items 2–7, 25–37): 1 July 2007</div>
+  </td>
+  <td>
+    <div>Sch. 6 (items 7, 37)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Community Services and Indigenous Affairs Legislation Amendment (Child Care and Other 2007 Budget Measures) Act 2007</div>
+  </td>
+  <td>
+    <div>113, 2007</div>
+  </td>
+  <td>
+    <div>28 June 2007</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 12–18, 23): 1 July 2007</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 23)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007</div>
+  </td>
+  <td>
+    <div>118, 2007</div>
+  </td>
+  <td>
+    <div>28 June 2007</div>
+  </td>
+  <td>
+    <div>Schedule 1: <i>(j)</i> 
+Schedule 2: 1 July 2007 
+Schedule 3: 29 June 2007 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 91, 92, 94–96, 97, 98, 99, 101), Sch. 2 (item 9) and Sch. 3 (items 
+39–47) 
+Sch. 1 (item 93) (am. by 34, 2010, Sch. 5 \[item 1]) 
+Sch. 1 (item 96A) (ad. by 34, 2010, Sch. 5 \[item 2]; am. by 34, 2010, Sch. 5 \[item 4]) 
+Sch. 1 (item 97B) (ad. by 34, 2010, Sch. 5 \[item 3]; am. by 34, 2010, Sch. 5 \[item 5] \[as am. by 79, 2011, Sch. 1 \[item 35]]; am. by 34, 2010, Sch. 5 \[items 6, 7]) 
+Sch. 1 (item 97C) (ad. by 34, 2010, Sch. 1 \[item 29]; am. by 25, 2011, Sch. 2 \[item 15]; am. by 79, 2011, Sch. 1 \[item 33])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007— continued</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 102) (ad. by 34, 2010, Sch. 6 \[item 1])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care) Act 2010</div>
+  </td>
+  <td>
+    <div>34, 2010</div>
+  </td>
+  <td>
+    <div>13 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 29), Schedules 5 and 6: ( <i>see</i>34, 2010 below)</div>
+  </td>
+  <td>
+    <div>Sch. 5 (item 8) and Sch. 6 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>79, 2011</div>
+  </td>
+  <td>
+    <div>25 July 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 35): <i>(k)</i></div>
+  </td>
+  <td colspan="2">
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</div>
+  </td>
+  <td>
+    <div>25, 2011</div>
+  </td>
+  <td>
+    <div>21 Apr 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 15): <i>(n)</i> 
+Schedule 3 (item 9): <i>(n)</i></div>
+  </td>
+  <td>
+    <div>S. 2(1) (item 28) (rs. by 91, 2011, Sch. 2 \[item 2]) 
+S. 2(1) (items 
+29–32) (ad. by 91, 2011, Sch. 2 \[item 2])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>91, 2011</div>
+  </td>
+  <td>
+    <div>4 Aug 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 2): <i>(q)</i></div>
+  </td>
+  <td colspan="2">
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>79, 2011</div>
+  </td>
+  <td>
+    <div>25 July 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (item 33): 26 July 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Welfare Payment Reform) Act 2007</div>
+  </td>
+  <td>
+    <div>130, 2007</div>
+  </td>
+  <td>
+    <div>17 Aug 2007</div>
+  </td>
+  <td>
+    <div>18 Aug 2007</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 7) 
+Ss. 4–7 (rep. by 93, 2010, Sch. 1 \[item 3])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010</div>
+  </td>
+  <td>
+    <div>93, 2010</div>
+  </td>
+  <td>
+    <div>29 June 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 3, 4): 31 Dec 2010</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 4)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Dental Benefits (Consequential Amendments) Act 2008</div>
+  </td>
+  <td>
+    <div>42, 2008</div>
+  </td>
+  <td>
+    <div>25 June 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 2, 3): 26 June 2008 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Budget and Other Measures) Act 2008</div>
+  </td>
+  <td>
+    <div>53, 2008</div>
+  </td>
+  <td>
+    <div>25 June 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 14–63): 7 July 2008 
+Schedule 1 (item 64), Schedule 3 and Schedule 5 (items 6–22, 
+24–27, 29–31): Royal Assent Schedule 2 
+(items 13–40): 1 July 2008 
+Schedule 4: 26 June 2008 Schedule 5 (item 23): 1 Jan 2009</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 63, 64), Sch. 2 (items 
+32–35, 36(1), 
+37–40), Sch. 3 (items 26, 27), Sch. 4 (items 86, 87) and Sch. 5 (items 
+27, 29–31) 
+Sch. 2 (item 36(2)) (am. by 50, 2009, Sch. 1 \[items 15, 39])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care) Act 2009</div>
+  </td>
+  <td>
+    <div>50, 2009</div>
+  </td>
+  <td>
+    <div>24 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 15, 39): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairsand Other Legislation Amendment(2008 Budget and Other Measures) Act 2008</div>
+  </td>
+  <td>
+    <div>63, 2008</div>
+  </td>
+  <td>
+    <div>30 June 2008</div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 6 (items 10, 11, 13, 15): Royal Assent 
+Schedule 2 (items 16–21, 22(1), 24–34, 43, 44): 1 Jan 2009</div>
+  </td>
+  <td>
+    <div>S. 4, Sch. 2 (items 22(1), 34, 44) and Sch. 6 (item 15)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Economic Security Strategy) Act 2008</div>
+  </td>
+  <td>
+    <div>131, 2008</div>
+  </td>
+  <td>
+    <div>1 Dec 2008</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 5–15): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Tax Laws Amendment (Education Refund) Act 2008</div>
+  </td>
+  <td>
+    <div>141, 2008</div>
+  </td>
+  <td>
+    <div>9 Dec 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1, 10): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 10)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further 2008 Budget and Other Measures) Act 2008</div>
+  </td>
+  <td>
+    <div>143, 2008</div>
+  </td>
+  <td>
+    <div>9 Dec 2008</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 10–14): 1 Jan 2009</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 
+12–14)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+  </td>
+  <td>
+    <div>144, 2008</div>
+  </td>
+  <td>
+    <div>9 Dec 2008</div>
+  </td>
+  <td>
+    <div>Schedule 6 (items 21, 22): 1 July 2009</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Household Stimulus Package Act (No. 2) 2009</div>
+  </td>
+  <td>
+    <div>4, 2009</div>
+  </td>
+  <td>
+    <div>18 Feb 2009</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 4–14): Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (2008 Budget and Other Measures) Act 2009</div>
+  </td>
+  <td>
+    <div>48, 2009</div>
+  </td>
+  <td>
+    <div>24 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 2–6, 8–12, 14, 15): 1 July 2009 
+Schedule 1 (items 7, 16): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 12, 14–16)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Amendment (Further 2008 Budget Measures) Act 2009</div>
+  </td>
+  <td>
+    <div>49, 2009</div>
+  </td>
+  <td>
+    <div>24 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1, Schedule 2 (items 1–3, 7) and Schedule 3: 1 July 2009 
+Schedule 2 (items 4–6, 8): 1 July 2010 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 2), Sch. 2 (items 7, 8) and Sch. 3 (items 3, 4)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care) Act 2009</div>
+  </td>
+  <td>
+    <div>50, 2009</div>
+  </td>
+  <td>
+    <div>24 June 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 11–15, 
+23–38, 42, 43), Schedule 2 (items 11–22), Schedule 3 and Schedule 5 (items 2–12): Royal Assent 
+Schedule 4 (items 1–9): 25 June 2009 
+Schedule 4 (items 10–14): 24 Dec 2009 
+Schedule 5 (items 13–19): 22 July 2009</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 42, 43), Sch. 2 (items 
+20–22), Sch. 3 (items 2, 5) and Sch. 5 (items 3, 8, 10, 19)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Participation Requirement) Act 2009</div>
+  </td>
+  <td>
+    <div>129, 2009</div>
+  </td>
+  <td>
+    <div>10 Dec 2009</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 11–14): 1 Jan 2010</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 13, 14) (am. by 45, 2010, Sch. 3)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Family Assistance Legislation Amendment (Weekly Payments) Act 2010</div>
+  </td>
+  <td>
+    <div>45, 2010</div>
+  </td>
+  <td>
+    <div>14 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 3: ( <i>see</i>45, 2010 below)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
+  </td>
+  <td>
+    <div>4, 2010</div>
+  </td>
+  <td>
+    <div>19 Feb 2010</div>
+  </td>
+  <td>
+    <div>Schedule 10 (items 2, 3): 20 Feb 2010</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010</div>
+  </td>
+  <td>
+    <div>33, 2010</div>
+  </td>
+  <td>
+    <div>13 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–14): 14 Apr 2010</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 14)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care) Act 2010</div>
+  </td>
+  <td>
+    <div>34, 2010</div>
+  </td>
+  <td>
+    <div>13 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedules 2 and 4: 11 May 2010 
+Schedules 3 and 6: 14 Apr 2010 
+Schedule 5 (items 1–3): 29 June 2007 
+Schedule 5 (items 4–7): 16 May 2009 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 28), Sch. 2 (item 6), Sch. 3 (item 2), Sch. 4 (item 5), Sch. 5 (item 8) and Sch. 6 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2009 Measures) Act 2010</div>
+  </td>
+  <td>
+    <div>38, 2010</div>
+  </td>
+  <td>
+    <div>13 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 3 (items 1–5, 16(1), (2), 18–50, 
+157–163): 11 May 2010 
+Schedule 6 and Schedule 7 (item 8): 1 July 2010</div>
+  </td>
+  <td>
+    <div>Sch. 3 (items 
+16(1), (2), 157–163) and Sch. 6 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Family Assistance Legislation Amendment (Weekly Payments) Act 2010</div>
+  </td>
+  <td>
+    <div>45, 2010</div>
+  </td>
+  <td>
+    <div>14 Apr 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–5, 7, 8): Royal Assent 
+Schedule 3: <i>(l)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 7, 8)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Child Support and Family Assistance Legislation Amendment (Budget and Other Measures) Act 2010</div>
+  </td>
+  <td>
+    <div>65, 2010</div>
+  </td>
+  <td>
+    <div>28 June 2010</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 22–38, 100–112) and Schedule 3 (items 1–12): 1 July 2010 
+Schedule 3 (items 13–15): <i>(m)</i></div>
+  </td>
+  <td>
+    <div>Sch. 2 (items 
+100–112) and Sch. 3 (item 15) \[ <i>see</i>Note 1]</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Paid Parental Leave (Consequential Amendments) Act 2010</div>
+  </td>
+  <td>
+    <div>105, 2010</div>
+  </td>
+  <td>
+    <div>14 July 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 19–28, 30, 31) and Schedule 2 (items 1, 2, 5): 1 Oct 2010 ( <i>see</i>s. 2(1)) 
+Schedule 1 (item 29): 1 Jan 2011</div>
+  </td>
+  <td>
+    <div>Sch. 2 (items 1, 2, 5)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2011</div>
+  </td>
+  <td>
+    <div>5, 2011</div>
+  </td>
+  <td>
+    <div>22 Mar 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 6–8): Royal Assent 
+Schedule 7 (item 16): 19 Apr 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</div>
+  </td>
+  <td>
+    <div>25, 2011</div>
+  </td>
+  <td>
+    <div>21 Apr 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 9–81): 22 Apr 2011 
+Schedule 2 (items 1–13): <i>(n)</i> 
+Schedule 3 (items 1–8): <i>(n)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 
+77–81) and Sch. 2 (item 13) 
+S. 2(1) (item 28) (rs. by 91, 2011, Sch. 2 \[item 2]) 
+S. 2(1) (items 
+29–32) (ad. by 91, 2011, Sch. 2 \[item 2])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>91, 2011</div>
+  </td>
+  <td>
+    <div>4 Aug 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 2): <i>(q)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Human Services Legislation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>32, 2011</div>
+  </td>
+  <td>
+    <div>25 May 2011</div>
+  </td>
+  <td>
+    <div>Schedule 4 (items 19–45, 655): 1 July 2011</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Budget and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>34, 2011</div>
+  </td>
+  <td>
+    <div>26 May 2011</div>
+  </td>
+  <td>
+    <div>Schedule 5 (items 16, 17(1)): Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 5 (item 17(1))</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Election Commitments and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>50, 2011</div>
+  </td>
+  <td>
+    <div>27 June 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 13, 17(5)): 1 Jan 2012 
+Schedule 3: 1 July 2011 
+Schedule 5 (item 1): 28 June 2011</div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 17(5)) and Sch. 3 (item 2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (Further Election Commitments and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>53, 2011</div>
+  </td>
+  <td>
+    <div>28 June 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 9–20), Schedule 2 (items 5–8) and Schedule 5 (items 19–31): 1 July 2011</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 
+17–20)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>79, 2011</div>
+  </td>
+  <td>
+    <div>25 July 2011</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 1–4, 7–32, 34), Schedule 4 (items 3, 5–7) and Schedule 5: 26 July 2011 
+Schedule 2 (item 4) and Schedule 3 (items 1–6): 22 Aug 2011 
+Schedule 4 (item 4): <i>(o)</i></div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 34), Sch. 3 (item 6), Sch. 4 (item 7) and Sch. 5 (item 21) 
+S. 2(1) (item 5) (rs. by 32, 2011, Sch. 4 \[item 658]) 
+S. 2(1) (items 
+6–12) (ad. by 32, 2011, Sch. 4 \[item 658])</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</div>
+  </td>
+  <td>
+    <div>25, 2011</div>
+  </td>
+  <td>
+    <div>21 Apr 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 14): 26 July 2011 ( <i>see</i>s. 2(1))</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Human Services Legislation Amendment Act 2011</div>
+  </td>
+  <td>
+    <div>32, 2011</div>
+  </td>
+  <td>
+    <div>25 May 2011</div>
+  </td>
+  <td>
+    <div>Schedule 4 (item 658): <i>(p)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011</div>
+  </td>
+  <td>
+    <div>91, 2011</div>
+  </td>
+  <td>
+    <div>4 Aug 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 1): <i>(q)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family Assistance Legislation Amendment (Child Care Financial Viability) Act 2011</div>
+  </td>
+  <td>
+    <div>120, 2011</div>
+  </td>
+  <td>
+    <div>14 Oct 2011</div>
+  </td>
+  <td>
+    <div>15 Oct 2011</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 26)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Clean Energy (Household Assistance Amendments) Act 2011</div>
+  </td>
+  <td>
+    <div>141, 2011</div>
+  </td>
+  <td>
+    <div>29 Nov 2011</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 4–14, 33, 34(1), 47): 14 May 2012 
+Schedule 8 (items 6–17): <i>(r)</i></div>
+  </td>
+  <td>
+    <div>Sch. 2 (item 34(1)) and Sch. 8 (item 17)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr></table>
+
+_(a)_     The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 1 (items 5 and 6) only of the _A New Tax System (Tax Administration) Act 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the _A New Tax System (Pay As You Go) Act 1999_.
+
+         Section 1 commenced on 22 December 1999.
+
+_(b)_     The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 4 only of the _Social Security (Administration and International Agreements) (Consequential Amendments) Act 1999_, subsection 2(3) of which provides as follows:
+
+                 (3)   Schedules 3 and 4 commenced on 1 July 2000.
+
+_(c)_ The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 3 (item 1) only of the _A New Tax System (Tax Administration) Act (No. 1) 2000_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the _A New Tax System (Tax Administration) Act 1999_.
+
+         Section 1 commenced on 22 December 1999.
+
+_(d)_     The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 2 only of the _A New Tax System (Family Assistance and Related Measures) Act 2000_, subsection 2(4) of which provides as follows:
+
+                 (4)   Schedule 2, items 3 to 5 and 15 to 57 of Schedule 3 and Schedules 5 and 6 commence immediately after the commencement of the provisions referred to in subsection 2(2) of the _A New Tax System (Family Assistance) (Administration) Act 1999_.
+
+         The provisions referred to in subsection 2(2) commenced on 1 July 2000.
+
+_(e)_     The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 2 (items 7–10) only of the _Family and Community Services (2000 Budget and Related Measures) Act 2000_, subsection 2(2)(b) of which provides as follows:
+
+                 (2)   The following provisions:
+
+                              (b)   Schedules 2 and 3;
+
+                         commence on 1 January 2001.
+
+_(f)_      The _A New Tax System (Family Assistance) (Administration) Act 1999_ was amended by Schedule 1A (items 22–24) only of the _Child Support Legislation Amendment Act 2001_, subsection 2(1A)(a) of which provides as follows:
+
+               (1A)   Items 22, 23, 24, 25 and 26 of Schedule 1A commence on whichever of the following days applies:
+
+                              (a)   if this Act receives the Royal Assent on or before 1 July 2002—on 1 July 2002;
+
+_(g)_     Subsection 2(1) (items 8 and 10) of the _Family and Community Services Legislation Amendment Act 2003_ provide as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 2, items 52 to 72
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provisions of the
+        <i>A New Tax System (Family Assistance and Related Measures) Act 2000</i>referred
+        to in subsection 2(2) of that Act
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2000
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      10\. Schedule 2, items 84 to 86
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 2 to the
+        <i>A New Tax System (Family Assistance and Related Measures) Act 2000</i>
+
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2000
+    </div>
+  </td>
+</tr></table>
+
+_(h)_     Subsection 2(1) (item 8) of the _Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 2, items 95 to 103
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) 1 January 2004; and
+    </div>
+    <div>
+      (b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+        <i>Higher Education Support Act 2003</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2004
+    </div>
+  </td>
+</tr></table>
+
+_(i)_      Subsection 2(1) (item 21) of the _Families, Housing, Community Services and Indigenous Affairs and Other Legislation__Amendment (2008 Budget and Other Measures)__Act 2008_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      21\. Schedule 6, items 16 and 17
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of items 73 and 74 of Schedule 5 to
+        the
+        <i>Child Support Legislation Amendment (Reform of the Child Support Scheme—New
+          Formula and Other Measures) Act 2006</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      6 December 2006
+    </div>
+  </td>
+</tr></table>
+
+_(j)_      Subsection 2(1) (items 2 and 4) of the _Family Assistance Legislation Amendment (Child Care Management System and Other Measures) Act 2007_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedule 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provision(s) covered by table
+        item 4.
+    </div>
+  </td>
+  <td>
+    <div>
+      29 June 2007
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+  </td>
+  <td>
+    <div>
+      29 June 2007
+    </div>
+  </td>
+</tr></table>
+
+_(k)_     Subsection 2(1) (item 3) of the _Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 1, Part 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the time specified in the
+        <i>Family Assistance Legislation Amendment (Child Care) Act 2010</i>for the
+        commencement of item 5 of Schedule 5 to that Act.
+    </div>
+  </td>
+  <td>
+    <div>
+      16 May 2009
+    </div>
+  </td>
+</tr></table>
+
+_(l)_      Subsection 2(1) (item 3) of the _Social Security and Family Assistance Legislation Amendment (Weekly Payments) Act 2010_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 3
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Schedule 1 to the
+        <i>Family Assistance Legislation Amendment (Participation Requirement) Act
+          2009</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2010
+    </div>
+  </td>
+</tr></table>
+
+_(m)_ Subsection 2(1) (item 4) of the _Child Support and Family Assistance Legislation Amendment (Budget and Other Measures)_ _Act 2010_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 3, items 13 to 15
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 6 of Schedule 2 to the
+        <i>Family Assistance Amendment (Further 2008 Budget Measures) Act 2009</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2010
+    </div>
+  </td>
+</tr></table>
+
+_(n)_ Subsection 2(1) (items 25 and 27–32) of the _Family Assistance Legislation Amendment (Child Care Rebate) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      25\. Schedule 2, Part 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 July 2011
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      27\. Schedule 2, Part 3
+    </div>
+  </td>
+  <td>
+    <div>
+      At the same time as the provision(s) covered by table item 25.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 July 2011
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      28\. Schedule 3, item 1
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      29\. Schedule 3, item 2
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Schedule 5 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      30\. Schedule 3, item 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      31\. Schedule 3, items 4 and 5
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Schedule 5 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Do not commence
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      32\. Schedule 3, items 6 to 10
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if Part 1 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences after that day, the provision(s) do not
+        commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Do not commence
+    </div>
+  </td>
+</tr></table>
+
+_(o)_     Subsection 2(1) (item 6) of the _Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 4, item 4
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after this Act receives the Royal Assent.
+    </div>
+    <div>
+      However, if item 655 of Schedule 4 to the
+        <i>Human Services Legislation Amendment Act 2011</i>commences before the
+        day after this Act receives the Royal Assent, the provision(s) do not commence
+        at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      Does not commence
+    </div>
+  </td>
+</tr></table>
+
+_(p)_ Subsection 2(1) (item 7B) of the _Human Services Legislation Amendment Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      7B. Schedule 4, Part 6
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 2 of the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>.
+    </div>
+    <div>
+      However, if section 2 of the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>commences before the day this Act receives the Royal
+        Assent, the provision(s) do not commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      25 July 2011
+    </div>
+  </td>
+</tr></table>
+
+_(q)_     Subsection 2(1) (items 3 and 4) of the _Social Security and Other Legislation Amendment (Miscellaneous Measures) Act 2011_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 2, item 1
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 8 of Schedule 1 to the
+        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
+          Measures) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      26 July 2011
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      4\. Schedule 2, item 2
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 2 of the
+        <i>Family Assistance Legislation Amendment (Child Care Rebate) Act 2011</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      21 April 2011
+    </div>
+  </td>
+</tr></table>
+
+_(r)_     Subsection 2(1) (items 6 and 16) of the **_Clean Energy (Household Assistance Amendments) Act 2011_** provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 2
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+        <i>.</i>
+
+    </div>
+    <div>
+      However, if section 3 of the
+        <i>Clean Energy Act 2011</i>does not commence before 14 May 2012, the provision(s)
+        do not commence at all.
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      16\. Schedule 8
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of the provision(s) covered by table
+        item 6.
+    </div>
+  </td>
+  <td>
+    <div>
+      14 May 2012
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Part 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. Nos. 45 and 138, 2000; No. 47, 2001; Nos. 30 and 150, 2003; No. 59, 2004; No. 111, 2005; Nos. 36 and 82, 2006; Nos. 82 and 118, 2007; No. 53, 2008; Nos. 48 and 50, 2009; Nos. 34, 38, 65 and 105, 2010; Nos. 5, 25, 32, 53, 79, 120 and 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3A</div>
+  </td>
+  <td>
+    <div>ad. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4A</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 8</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>am. No. 179, 1999; No. 45, 2000; No. 122, 2003; No. 33, 2004; No. 63, 2008; No. 48, 2009; No. 38, 2010; No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 48, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15B</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 16(4)</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 16(5), (6)</div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 20</div>
+  </td>
+  <td>
+    <div>am. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 30, 2003; No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 20A, 20B</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20C</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 82, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21</div>
+  </td>
+  <td>
+    <div>am. No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 75, 2001; No. 95, 2002; No. 49, 2009; No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 75, 2001; No. 95, 2002; No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 137, 2001; No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 27(3)</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 27(4)</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28</div>
+  </td>
+  <td>
+    <div>am. No. 33, 2004; No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 28B(2), (3)</div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 29(2)</div>
+  </td>
+  <td>
+    <div>am. No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29</div>
+  </td>
+  <td>
+    <div>am. No. 61, 2005; No. 129, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30A</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 30B</div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30B</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 31(3)</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 122, 2003; No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 122, 2003; No. 61, 2005; No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 31A(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 122, 2003; No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 31C, 31D</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 31E</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31E</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision CA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. CA of Div. 1 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AA</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32AB, 32AC</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AD</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 32AE</div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32AE</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. D of Div. 1 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 32A</div>
+  </td>
+  <td>
+    <div>am. No. 29, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32A</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 29, 2005; No. 61, 2005; No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32B, 32C</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32D</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32E–32H</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32J</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32K</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006; No. 34, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32L</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 32M, 32N</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32P</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32Q</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32R</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2 of Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 30, 2003; No. 61, 2005; No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 95, 2002; No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35A</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35B</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 35C, 35D</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35E</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3 of 
+Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 59, 2004; No. 82, 2007; No. 63, 2008; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 38A</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38A</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 38B</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38B</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 39(2)</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 39(3)</div>
+  </td>
+  <td>
+    <div>am. No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 59, 2004; No. 61, 2005; No. 82, 2007; Nos. 63 and 143, 2008; No. 105, 2010; No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 41(3)</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 41(7)</div>
+  </td>
+  <td>
+    <div>ad. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007; Nos. 63 and 143, 2008; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41A</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44</div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 47</div>
+  </td>
+  <td>
+    <div>am. No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010; No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(2)</div>
+  </td>
+  <td>
+    <div>am. No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 130, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 47(5)</div>
+  </td>
+  <td>
+    <div>am. No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 95, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 82 and 130, 2007; No. 63, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 47AA, 47AB</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47A</div>
+  </td>
+  <td>
+    <div>ad. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 59, 2004; No. 82, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47B</div>
+  </td>
+  <td>
+    <div>ad. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47C</div>
+  </td>
+  <td>
+    <div>ad. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 49A, 49B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 132, 2004; No. 53, 2008; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 49E, 49F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 49G, 49H</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49J</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 33, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 49K–49N</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 50C</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 50D–50G</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50H</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50J</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50K</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 50L, 50M</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50N</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50P</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision CA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. CA of Div. 4 of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50Q</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50R</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 50S–50U</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50V</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 50W–50Y</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision CB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. CB of Div. 4 of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50Z</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 50Z(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50ZA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 50ZA(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50ZB</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50ZC</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 52A–52C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 52D, 52E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52G</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52H</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 52H(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52J</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision F</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 53A–53C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 53D, 53E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 53F(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53G</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision G</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 54A, 54B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision H</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 55</div>
+  </td>
+  <td>
+    <div>am. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 36, 2006; No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 55AA, 55AB</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55AC</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 82, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 55B, 55C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision J</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 95, 2002; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 95, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision K</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 132, 2004; No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision L</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 57B, 57C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 57D, 57E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57G</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision M</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 58</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 58A, 58B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision N</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 59A–59C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59G</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision P</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 60</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 60A</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 60B</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008; No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 61, 2005; No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 36, 2006; No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision Q</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 61</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 61A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision R</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 62</div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 62</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 62A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 62B, 62C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 62CA</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision S</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 62D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 132, 2004; No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision T</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 63</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 132, 2004; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision U</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 64A(5)</div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 64B(6)</div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 64C(5)</div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 64D</div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 64D(2)</div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64DA</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007; No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64EA</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision V</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 65B(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65BA, 65BB</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65D(4)</div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65DA</div>
+  </td>
+  <td>
+    <div>ad. No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4AA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 4AA of 
+Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4AA of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision AAA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. AAA of Div. 4AA  
+of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65EAAAA–65EAAAC</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision AAB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. AAB of Div. 4AA  
+of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65EAAA–65EAAD</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EAAE</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EAAF</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision AA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. AA of 
+Div. 4AA of Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. AA of Div. 4AA  
+of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EAA</div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EAA(1)</div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EAA</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EAB</div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EAB</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EAC</div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EAC</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. A of 
+Div. 4AA of Part 3</div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EA</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008; No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EA(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EA(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EA</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EB</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008; No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EB(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EB(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EB</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EC</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008; No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EC</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65ECA</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65ED</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EE</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 65EF</div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EF(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EF(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 65EF(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65EF</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008; No. 50, 2009; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4A of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65F</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4B of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65G</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4C of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 4, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65H</div>
+  </td>
+  <td>
+    <div>ad. No. 4, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4D of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65J</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4E of Part 3</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65K</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65KA–65KF</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 65KG–65KT</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 75, 2001; Nos. 59 and 60, 2004; No. 108, 2006; Nos. 82, 118 and 130, 2007; Nos. 53, 63 and 131, 2008; Nos. 4 and 50, 2009; No. 34, 2010; Nos. 25, 53, 79 and 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 68</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 118, 2007; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 68A </div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70</div>
+  </td>
+  <td>
+    <div>am. No. 60, 2004; No. 131, 2008; No. 4, 2009; No. 34, 2010; Nos. 25 and 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 71</div>
+  </td>
+  <td>
+    <div>am. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 71(1)</div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001; No. 59, 2004; No. 82, 2007; No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 71B</div>
+  </td>
+  <td>
+    <div>rs. No. 30, 2003; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71CAA</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 71CAB(1)</div>
+  </td>
+  <td>
+    <div>rs. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71CAB</div>
+  </td>
+  <td>
+    <div>ad. No. 113, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71CAC</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71CA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71CB</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 71G</div>
+  </td>
+  <td>
+    <div>rs. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 71G(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 71G(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71G</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008; No. 34, 2010; Nos. 25 and 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71GA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71GB</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71H</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71I</div>
+  </td>
+  <td>
+    <div>ad. No. 60, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71J</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71K</div>
+  </td>
+  <td>
+    <div>ad. No. 4, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71L</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 72</div>
+  </td>
+  <td>
+    <div>rep. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 60, 2004; No. 131, 2008; No. 4, 2009; No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 75</div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 4, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 77, 78</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 78A, 78B</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79</div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001; No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79A</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 82</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001; No. 30, 2003; No. 60, 2004; No. 36, 2006; Nos. 113 and 118, 2007; Nos. 53 and 131, 2008; Nos. 4 and 50, 2009; No. 34, 2010; Nos. 25, 79 and 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 83</div>
+  </td>
+  <td>
+    <div>rep. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 84</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001; No. 30, 2003; No. 52, 2004; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 84A</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 84A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 52, 2004; No. 53, 2008; No. 50, 2009; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 85</div>
+  </td>
+  <td>
+    <div>rep. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 86</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 118, 2007; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 47, 2001; No. 118, 2007; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 87</div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 87A</div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 87A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007; No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 87B</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 88</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 47, 2001; No. 118, 2007; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 90</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 47, 2001; No. 118, 2007; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 91</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 91</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 92</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 52, 2004; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 92A</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 92A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 52, 2004; No. 113, 2007; No. 53, 2008; No. 50, 2009; No. 105, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 93</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 93A</div>
+  </td>
+  <td>
+    <div>ad. No. 47, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 60, 2004; Nos. 113 and 118, 2007; Nos. 53 and 131, 2008; Nos. 4 and 50, 2009; No. 34, 2010; Nos. 25 and 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 95(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 95(5)</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead to s. 95(6)</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 95</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 47, 2001; No. 61, 2005; No. 118, 2007; No. 53, 2008; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 99</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 118, 2007; No. 53, 2008; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 100</div>
+  </td>
+  <td>
+    <div>am. No. 47, 2001; No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 102</div>
+  </td>
+  <td>
+    <div>am. No. 138, 2001; No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 103</div>
+  </td>
+  <td>
+    <div>rep. No. 5, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 1 of Part 5</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 104(1)</div>
+  </td>
+  <td>
+    <div>rep. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 104</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006; No. 118, 2007; No. 53, 2008; No. 50, 2009; No. 34, 2010; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 105A</div>
+  </td>
+  <td>
+    <div>am. No. 29, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105A</div>
+  </td>
+  <td>
+    <div>ad. No. 59, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 29 and 61, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105B</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 106</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; Nos. 60 and 132, 2004; No. 146, 2006; No. 118, 2007; No. 131, 2008; No. 4, 2009; No. 38, 2010; No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 107</div>
+  </td>
+  <td>
+    <div>am. No. 192, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 107</div>
+  </td>
+  <td>
+    <div>am. No. 192, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 132, 2004; No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 108</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 146, 2006; No. 118, 2007; No. 53, 2008; No. 50, 2009; No. 34, 2010; Nos. 25, 32 and 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 109A(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009; No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 132, 2004; No. 146, 2006; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 60 and 132, 2004; No. 118, 2007; No. 131, 2008; No. 4, 2009; No. 65, 2010; Nos. 53 and 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109DA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 65, 2010; No. 53, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109G</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 132, 2004; No. 108, 2006; No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109H</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 111</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 132, 2004; Nos. 36 and 146, 2006; No. 118, 2007; No. 65, 2010; Nos. 25, 32, 53, 79, 120 and 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 111(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 111A, 111B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 112</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 112</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 132, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 113</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115</div>
+  </td>
+  <td>
+    <div>rep. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 118</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 111, 2005; No. 146, 2006; No. 48, 2009; No. 38, 2010; No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 119–121</div>
+  </td>
+  <td>
+    <div>am. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 122</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 146, 2006; No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. B of 
+Div. 3 of Part 5</div>
+  </td>
+  <td>
+    <div>rs. No. 33, 2010; No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 122A</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 122A</div>
+  </td>
+  <td>
+    <div>ad. No. 33, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 123</div>
+  </td>
+  <td>
+    <div>am. No. 33, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 123</div>
+  </td>
+  <td>
+    <div>am. Nos. 33 and 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 124</div>
+  </td>
+  <td>
+    <div>rep. No. 33, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 125, 126</div>
+  </td>
+  <td>
+    <div>am. Nos. 33 and 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision BA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. BA of . 
+Div. 3 of Part 5</div>
+  </td>
+  <td>
+    <div>rs. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. BA of Div. 3 of 
+Part 5</div>
+  </td>
+  <td>
+    <div>ad. No. 33, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 126A</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 126A(2)</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 126A(4)</div>
+  </td>
+  <td>
+    <div>am. No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 126A</div>
+  </td>
+  <td>
+    <div>ad. No. 33, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 38, 2010; No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision BB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. BB of . 
+Div. 3 of Part 5</div>
+  </td>
+  <td>
+    <div>ad. No. 33, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 128</div>
+  </td>
+  <td>
+    <div>am. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 128A–128C</div>
+  </td>
+  <td>
+    <div>ad. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 129</div>
+  </td>
+  <td>
+    <div>am. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision BC</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. BC of Div. 3 of 
+Part 5</div>
+  </td>
+  <td>
+    <div>ad. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 129A, 129B</div>
+  </td>
+  <td>
+    <div>ad. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 131</div>
+  </td>
+  <td>
+    <div>am. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 132</div>
+  </td>
+  <td>
+    <div>rep. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 133</div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 135, 136</div>
+  </td>
+  <td>
+    <div>am. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 137</div>
+  </td>
+  <td>
+    <div>rs. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 138</div>
+  </td>
+  <td>
+    <div>am. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 146, 2006; No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to s. 141(1), (2)</div>
+  </td>
+  <td>
+    <div>ad. No. 33, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 141</div>
+  </td>
+  <td>
+    <div>am. Nos. 33 and 38, 2010; No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 141A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 132, 2004; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision F</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. F of Div. 3 of 
+Part 5</div>
+  </td>
+  <td>
+    <div>ad. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 141B</div>
+  </td>
+  <td>
+    <div>ad. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 142</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 146, 2006; No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 142(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 144</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 30, 2003; No. 36, 2006; No. 118, 2007; No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 150</div>
+  </td>
+  <td>
+    <div>am. No. 38, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 5 of Part 5</div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 5 of Part 5</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 152A</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 152B</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 6 of Part 5</div>
+  </td>
+  <td>
+    <div>ad. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 152C, 152D</div>
+  </td>
+  <td>
+    <div>ad. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 153</div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 154</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 30, 2003; No. 132, 2004; Nos. 113 and 118, 2007; No. 53, 2008; No. 50, 2009; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 154A</div>
+  </td>
+  <td>
+    <div>rs. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 154A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 33, 2004; No. 49, 2009; No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 154B</div>
+  </td>
+  <td>
+    <div>ad. No. 49, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 155, 156</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 157</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 30, 2003; No. 150, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 158</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 159</div>
+  </td>
+  <td>
+    <div>rs. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 159A</div>
+  </td>
+  <td>
+    <div>ad. No. 65, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 160</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 161(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 161(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 161</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 162</div>
+  </td>
+  <td>
+    <div>am. No. 35, 2003; No. 108, 2006; No. 118, 2007; No. 42, 2008; No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 163, 164</div>
+  </td>
+  <td>
+    <div>rs. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 165</div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 168</div>
+  </td>
+  <td>
+    <div>am. No. 95, 2002; Nos. 32 and 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 169</div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 169A</div>
+  </td>
+  <td>
+    <div>ad. No. 160, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 169B</div>
+  </td>
+  <td>
+    <div>ad. No. 141, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 171</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 172</div>
+  </td>
+  <td>
+    <div>rs. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 173</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 132, 2004; No. 118, 2007; No. 53, 2008; No. 50, 2009; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 174</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 175</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008; No. 50, 2009; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 175AA</div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 175AA</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 175A</div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 175A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 176</div>
+  </td>
+  <td>
+    <div>rs. No. 45, 2000; No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007; No. 34, 2010; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 178</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 118, 2007; No. 34, 2010; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part 7</div>
+  </td>
+  <td>
+    <div>rs. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186, 187</div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188</div>
+  </td>
+  <td>
+    <div>rs. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 4, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div 2 of Part 7</div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 189, 190</div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 8</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 194</div>
+  </td>
+  <td>
+    <div>am. No. 138, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 195</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 30, 2003; No. 118, 2007; No. 53, 2008; Nos. 25, 79 and 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 195A</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 196</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 53, 2008; Nos. 79 and 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 196(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 196A</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 197</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 198</div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 200</div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006; No. 118, 2007; No. 53, 2008; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 201</div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 201A</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 201B</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 202</div>
+  </td>
+  <td>
+    <div>am. No. 30, 2003; No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 204</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 204A</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 205</div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 206</div>
+  </td>
+  <td>
+    <div>am. Nos. 36 and 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 206</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 207</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 207A, 207B</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 208</div>
+  </td>
+  <td>
+    <div>rep. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 209</div>
+  </td>
+  <td>
+    <div>am. No. 138, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 210</div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 213</div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 214</div>
+  </td>
+  <td>
+    <div>am. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219</div>
+  </td>
+  <td>
+    <div>rep. No. 108, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 8A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part 8A</div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of 
+Part 8A</div>
+  </td>
+  <td>
+    <div>rs. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. A of 
+Div. 1 of Part 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 219A</div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219A</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 132, 2004; No. 150, 2005; No. 36, 2006; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219AA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219AB</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 219AC</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 219AC(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219AC</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219AD, 219AE</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219AF</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 219AG</div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 219AG(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219AG</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. B of 
+Div. 1 of Part 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219B</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 150, 2005; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008; No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219B(2)</div>
+  </td>
+  <td>
+    <div>rep. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Notes 1, 2 to s. 219B(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219BA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219BB</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219BB(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219BC</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219BC(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219BD</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219BD(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219C</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219D</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219E</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 108, 2006; No. 118, 2007; No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219E(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. C of Div. 1 of 
+Part 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219EA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219EA(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219EB</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. D of 
+Div. 1 of Part 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 219F(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219F</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 108, 2006; No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219F(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 219G(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219G</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 118, 2007; No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219G(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219G(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219G(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219GA, 219GB</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219H</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219J</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 219K(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 219K(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219K</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007; No. 53, 2008; No. 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219KA–219KC...............</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 219L(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 219L(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 219L(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219L</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001; No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219L(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219L(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219L(3)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219LA</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. E of 
+Div. 1 of Part 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011 
+rs. No. 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 219M</div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009; No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 219M(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219M</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008; No. 50, 2009; No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219M(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219N</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008; No. 34, 2010; Nos. 25 and 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219NA</div>
+  </td>
+  <td>
+    <div>ad. No. 36, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219NA(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219NB</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219P</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision F</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. F of Div. 1 of 
+Part 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219PA</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2 of Part 8A</div>
+  </td>
+  <td>
+    <div>rs. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219Q</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2010; Nos. 25 and 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219QA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 25 and 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219QB</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008; No. 34, 2010; Nos. 25 and 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219QB(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2A of Part 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219QC, 219QD</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219QE</div>
+  </td>
+  <td>
+    <div>ad. No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3 of Part 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219R</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 219RA</div>
+  </td>
+  <td>
+    <div>rs. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subheads. to 
+s. 219RA(2), (3)</div>
+  </td>
+  <td>
+    <div>ad. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219RA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2010; Nos. 25 and 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219RB</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 219RC</div>
+  </td>
+  <td>
+    <div>am. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 219RC(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219RC</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2010; Nos. 25 and 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219RD</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219RE</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 25 and 79, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219S, 219T</div>
+  </td>
+  <td>
+    <div>ad. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 8B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 8B</div>
+  </td>
+  <td>
+    <div>ad. No. 95, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219TA</div>
+  </td>
+  <td>
+    <div>ad. No. 95, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 59 and 60, 2004; Nos. 82 and 113, 2007; No. 131, 2008; Nos. 4 and 50, 2009; No. 141, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219TB–219TD</div>
+  </td>
+  <td>
+    <div>ad. No. 95, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219TE</div>
+  </td>
+  <td>
+    <div>ad. No. 95, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 130, 2007; No. 50, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219TF</div>
+  </td>
+  <td>
+    <div>ad. No. 95, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219TG–219TK</div>
+  </td>
+  <td>
+    <div>ad. No. 95, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219TL–219TR</div>
+  </td>
+  <td>
+    <div>ad. No. 95, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 8C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part 8C</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219TSA</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219TSB</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219TSB(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219TSC</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219TSC(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219TSD</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219TSE–219TSG</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219TSGA–219TSGF</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219TSH</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219TSI, 219TSJ</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219TSK</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008; No. 50, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219TSL–219TSN</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 219TSN</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 219TSO, 219TSP</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219TSQ</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part 9</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 220A</div>
+  </td>
+  <td>
+    <div>ad. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 221</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 118, 2007; No. 53, 2008; Nos. 32 and 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 221A</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 223</div>
+  </td>
+  <td>
+    <div>rs. No. 38, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 224</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 132, 2004; No. 53, 2008; No. 50, 2009; No. 25, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 224A</div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 224A</div>
+  </td>
+  <td>
+    <div>ad. No. 118, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 53, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 225</div>
+  </td>
+  <td>
+    <div>am. No. 44, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 226</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 227</div>
+  </td>
+  <td>
+    <div>rep. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 75, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 228</div>
+  </td>
+  <td>
+    <div>rep. No. 45, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 75, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 146, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 231</div>
+  </td>
+  <td>
+    <div>am. No. 118, 2007; No. 120, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 234</div>
+  </td>
+  <td>
+    <div>am. No. 111, 2005; No. 38, 2010; No. 32, 2011</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 235</div>
+  </td>
+  <td>
+    <div>am. No. 45, 2000; No. 50, 2009</div>
+  </td>
+</tr></table>
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_A New Tax System (Family Assistance and Related Measures) Act 2000
+ (No. 45, 2000)_
+
+## Schedule 5
+
+## 1  Definitions
+
+(1)       In this Schedule, unless the contrary intention appears:
+
+**_approved care organisation_** means an organisation that is taken, by virtue of the operation of subitem (2), to be an approved care organisation for the purposes of the Family Assistance Act.
+
+**_Family Assistance Act_** means the _A New Tax System (Family Assistance) Act 1999_.
+
+**_Family Assistance Administration Act_** means the _A New Tax System (Family Assistance) (Administration) Act 1999_.
+
+**_family assistance law_** has the same meaning as in subsection 3(1) of the Family Assistance Administration Act.
+
+**_family benefit_** means payments of:
+
+                     (a)  family allowance; or
+
+                     (b)  family tax payment; or
+
+                     (c)  parenting payment in the nature of non‑benefit PP (partnered);
+
+payable under the social security law.
+
+**_MAT_** means maternity allowance within the meaning of subsection 3(1) of the Family Assistance Administration Act.
+
+**_MIA_** means maternity immunisation allowance within the meaning of subsection 3(1) of the Family Assistance Administration Act.
+
+**_receiving_**, in relation to family benefit, has the meaning given under subitem (3).
+
+**_Secretary_**, in relation to an act or thing done, or a decision or determination made, under particular legislation, means the Secretary of the Department administered by the Minister administering that legislation.
+
+**_social security law_** means the _Social Security Act 1991_ and the _Social Security (Administration) Act 1999_.
+
+(2)       Any organisation that, immediately before 1 July 2000, was an approved care organisation for the purposes of the _Social Security Act 1991_ is taken to have been approved under section 20 of the Family Assistance Act, with effect from that date _,_ as  an approved care organisation, for the purposes of the latter Act.
+
+(3)       For the purposes of this Part, an individual or an approved care organisation is taken to be receiving payments of family benefit under the _Social Security Act 1991_ from the earliest date on which such payments are payable to the individual or to the organisation, as the case requires, even if the first instalment of that benefit is not paid until a later day.
+
+## 2  Individuals receiving family benefit treated as having lodged effective claim for family tax benefit by instalment
+
+(1)       If, immediately before 1 July 2000, an individual was receiving family benefit, then, with effect from that date, that individual is taken, subject to items 4 and 5, to have made an effective claim for family tax benefit by instalment under subsection 7(2) of the Family Assistance Administration Act as amended by this Act.
+
+(2)       If, before 1 July 2000, an individual receiving family benefit had provided bank account details for the purposes of making the claim for, or receiving, such benefits, those details are taken to have been provided in the context of the effective claim that is taken to have been made under subitem (1).
+
+## 3  Approved care organisations receiving family allowance treated as having lodged effective claim for family tax benefit by instalment
+
+(1)       If, immediately before 1 July 2000, an approved care organisation was receiving family allowance, then, with effect from that date, that organisation is taken, subject to item 5, to have made an effective claim for family tax benefit by instalment under subsection 7(2) of the Family Assistance Administration Act as amended by this Act.
+
+(2)       If, before 1 July 2000, the organisation had provided bank account details for the purposes of making the claim for, or receiving, such family allowance payments, those details are taken to have been provided in the context of the effective claim that is taken to have been made under subitem (1).
+
+## 4  Special rules relating to outstanding TFN requirements
+
+            If:
+
+                     (a)  an individual has been requested, before 1 July 2000, under section 75 of the _Social Security (Administration) Act 1999_, to provide a tax file number in relation to a claim for, or the receipt of, family benefit; and
+
+                     (b)  the individual has not, before that date, provided that tax file number; and
+
+                     (c)  as at 1 July 2000, less than 28 days have elapsed since the request to provide that number;
+
+then, for the purposes of section 27 of the Family Assistance Administration Act as amended by this Act:
+
+                     (d)  the Family Assistance Administration Act as so amended is treated as having been in force when the requirement to provide that tax file number was made; and
+
+                     (e)  the requirement to provide that tax file number is taken to have been made, at the time when it was made, under section 26 of the Family Assistance Administration Act as so amended and as so in force.
+
+## 5  Special rules relating to outstanding bank account requirements
+
+            If:
+
+                     (a)  an individual or an approved care organisation has been requested, before 1 July 2000, under section 55 of the _Social Security (Administration) Act 1999_ to nominate a bank account into which family benefit can be paid; and
+
+                     (b)  the individual or organisation has not, before that date, nominated a bank account; and
+
+                     (c)  as at 1 July 2000, less than 28 days have elapsed since the request to nominate an account;
+
+then, for the purposes of section 27A of the Family Assistance Administration Act as amended by this Act:
+
+                     (d)  the Family Assistance Administration Act as so amended is treated as having been in force when the requirement to nominate a bank account was made; and
+
+                     (e)  the requirement to nominate a bank account is taken to have been made, at the time when it was made, under section 26A of the Family Assistance Administration Act as so amended and as so in force.
+
+## 6  The making of determinations
+
+(1)       On, or as soon as practicable after, 1 July 2000, the Secretary will assess the eligibility for family tax benefit by instalment of each individual, and each approved care organisation, that is taken to have lodged an effective claim.
+
+(2)       If, for the purposes of making a determination under section 16 of the Family Assistance Administration Act as amended by this Act in relation to an individual or approved care organisation to which subitem (1) refers:
+
+                     (a)  the Secretary has, before 1 July 2000, sought from an individual or an approved care organisation any information necessary for the purposes of making such a determination; and
+
+                     (b)  that information has not been provided;
+
+the Secretary may make a determination under section 19 of the Family Assistance Administration Act as so amended to the effect that the individual or organisation is not entitled to be paid family tax benefit by instalment for each day while the determination is in force.
+
+(3)       For the avoidance of doubt, such a determination does not prevent an individual or organisation that later provides information as required by the Secretary from claiming under the Family Assistance Administration Act as so amended:
+
+                     (a)  family tax benefit by instalment when that information is so provided; and
+
+                     (b)  family tax benefit for the past period between 1 July 2000 and the time when a determination of entitlement to family tax benefit by instalment is made.
+
+## 7  Directions concerning payments to third parties
+
+If, immediately before 1 July 2000, there was in force a direction by the Secretary under subsection 44(3) of the _Social Security (Administration) Act 1999_ to the effect that the whole or a part of a person’s family benefit payment be paid to someone else on behalf of the person, that direction has effect, on and after that date, as if it were a direction to the same effect given by the Secretary under subsection 23(4) of the Family Assistance Administration Act as amended by this Act in relation to the payment of family tax benefit in respect of that person.
+
+## 8  Instalment periods
+
+(1)       If:
+
+                     (a)  an individual or an approved care organisation was receiving family benefit by way of family allowance or family tax payment immediately before 1 July 2000; and
+
+                     (b)  that individual or organisation received, or last received, a payment of that family allowance or family tax payment in respect of a period commencing less than 14 days before 1 July 2000; and
+
+                     (c)  the Secretary makes a determination under section 16 of the Family Assistance Administration Act as amended by this Act in respect of the entitlement of that individual or organisation to family tax benefit with effect from that day;
+
+then:
+
+                     (d)  the first instalment of family tax benefit is to be for a period starting on 1 July 2000 and ending 14 days after the beginning of the last instalment of family benefit; and
+
+                     (e)  instalments of family tax benefit thereafter, subject to any change that the Secretary may make under subsection 23(3) of the Family Assistance Administration Act as so amended, are to be for successive periods of 14 days.
+
+(2)       If:
+
+                     (a)  an individual was not receiving family benefit by way of family allowance immediately before 1 July 2000 but was receiving family benefit by way of non‑benefit PP (partnered) immediately before that date; and
+
+                     (b)  that individual received, or last received, a payment of that non‑benefit PP (partnered) in respect of a period commencing less than 14 days before 1 July 2000; and
+
+                     (c)  the Secretary makes a determination under section 16 of the Family Assistance Administration Act as amended by this Act in respect of the entitlement of that individual to family tax benefit with effect from that day;
+
+then:
+
+                     (d)  the first instalment of family tax benefit is to be for a period starting on 1 July 2000 and ending 14 days after the beginning of the last instalment of non‑benefit PP (partnered); and
+
+                     (e)  instalments of family tax benefit thereafter, subject to any change that the Secretary may make under subsection 23(3) of the Family Assistance Administration Act as so amended, are to be for successive periods of 14 days.
+
+## 9  Claims for family benefit that are undetermined as at 1 July 2000
+
+(1)       If:
+
+                     (a)  before 1 July 2000, a person lodged a claim for family benefit by way of family allowance or family tax payment; and
+
+                     (b)  that claim was not determined before that date; and
+
+                     (c)  the person was, at the time of the claim, or becomes, before 1 July 2000, qualified for family benefit of that kind;
+
+the claim is to be determined under the social security law as in force before 1 July 2000, as if:
+
+                     (d)  the social security law as so in force had continued in force; and
+
+                     (e)  the claim related only to the period preceding 1 July 2000.
+
+(2)       If:
+
+                     (a)  before 1 July 2000, a person lodged a claim for family benefit by way of family allowance or family tax payment in anticipation of becoming qualified for that benefit; and
+
+                     (b)  the claim was not determined by that date; and
+
+                     (c)  the person does not become qualified for the relevant family benefit before 1 July 2000;
+
+the claim is to be taken to have lapsed on that date.
+
+(3)       If:
+
+                     (a)  before 1 July 2000, a person has lodged a claim for parenting payment; and
+
+                     (b)  the claim has not been determined before that date; and
+
+                     (c)  the person was, at the time of the claim, or becomes, before 1 July 2000, qualified for family benefit of that kind;
+
+then:
+
+                     (d)  the claim is to be determined under the social security law as in force before 1 July 2000 as if the law as so in force had continued: and
+
+                     (e)  if parenting payment would be paid under the law as so in force at the rate applicable for non‑benefit PP (partnered)—the claim is to be determined as if it related only to the period preceding 1 July 2000.
+
+(4)       If:
+
+                     (a)  before 1 July 2000, a person lodged a claim for parenting payment in anticipation of becoming qualified for that payment; and
+
+                     (b)  the claim was not determined by that date; and
+
+                     (c)  the person does not become qualified for parenting payment before 1 July 2000; and
+
+                     (d)  if the person were to become qualified for parenting payment on or after that date—it would be parenting payment in the nature of non‑benefit PP (partnered) and not some other form of parenting payment;
+
+the claim is to be taken to have lapsed on that date.
+
+## 10  Certain claims for family benefit will be admitted on or after 1 July 2000
+
+(1)       In this item:
+
+**_backdated claim period_** means a period after the occurrence of a particular event during which a claim for family benefit with effect from that event will be allowed.
+
+(2)       If:
+
+                     (a)  a person did not make a claim for family benefit before 1 July 2000; and
+
+                     (b)  but for the amendment of the social security law with effect from 1 July 2000, if the person had made such a claim after that date, the backdated claim period would have extended back to the occurrence of a particular event before that date;
+
+then:
+
+                     (c)  the person may make such a claim on or after 1 July 2000 as if those amendments had not been made; and
+
+                     (d)  the claim can be dealt with in so far as the backdated claim period would permit a claim in respect of a period before 1 July 2000.
+
+## 11  Transfer of claims for maternity allowance or maternity immunisation allowance from social security law to family assistance law
+
+(1)       If:
+
+                     (a)  a person claims maternity allowance or maternity immunisation allowance under the social security law before 1 July 2000; and
+
+                     (b)  the claim has not been determined as at that date;
+
+the claim is to be treated as if it were a claim for MAT or MIA under Division 3 of Part 3 of the Family Assistance Administration Act as amended by this Act and not as such a claim for the corresponding allowance under the _Social Security Act 1991_.
+
+(2)       If a person purports to claim maternity allowance or maternity immunisation allowance under the social security law on or after 1 July 2000, that claim is to be treated as if it were a claim for MAT or MIA, as the case requires, under Division 3 of Part 3 of the Family Assistance Administration Act as amended by this Act and not as such a claim for the corresponding allowance under the social security law.
+
+(3)       A person who has been paid maternity allowance or maternity immunisation allowance under the social security law  in respect of a particular child cannot claim MAT or MIA for the same child under Division 3 of Part 3 of the Family Assistance Administration Act as amended by this Act.
+
+## 12  Applications for family benefit, maternity allowance or maternity immunisation allowance made after 1 July 2000 on behalf of another person
+
+(1)       If:
+
+                     (a)  an amount of family benefit is payable to a person; and
+
+                     (b)  the person dies before receiving that amount; and
+
+                     (c)  another person applies, on or after 1 July 2000, to receive the amount; and
+
+                     (d)  the application is made:
+
+                              (i)  within 26 weeks after the first person’s death; or
+
+                             (ii)  within such further period as is allowed by the Secretary in the special circumstances of the case;
+
+the Secretary may pay the amount to the person who, in the Secretary’s opinion, is best entitled to it.
+
+(2)       If:
+
+                     (a)  an amount of maternity allowance or maternity immunisation allowance claimed under the social security law is payable to a person in respect of a particular child; and
+
+                     (b)  the person dies before receiving that amount; and
+
+                     (c)  another person applies, on or after 1 July 2000, to receive the amount; and
+
+                     (d)  the application is made:
+
+                              (i)  within 26 weeks after the first person’s death; or
+
+                             (ii)  within such further period as is allowed by the Secretary in the special circumstances of the case;
+
+the Secretary may pay the amount to the person who, in the Secretary’s opinion, is best entitled to it.
+
+(3)       If the Secretary pays an amount under subitem (1) in respect of family benefit of a particular kind claimed under the social security law, the Commonwealth has no further liability to any person in respect of family benefit of that kind under the social security law or in respect of any family benefit of a like kind under the family assistance law.
+
+(4)       If the Secretary pays an amount under subitem (2) in respect of a particular child, the Commonwealth has no further liability to any person in respect of maternity allowance or maternity immunisation allowance under the social security law, or in respect of MAT or MIA under the family assistance law, in respect of that child.
+
+(5)       For the purpose of Part 5 of the Family Assistance Administration Act, a decision of the Secretary under subitem (1) or (2) has effect as if it were a decision of an officer under the family assistance law.
+
+## 13  Claims for advance payment under Social Security Law
+
+(1)       If:
+
+                     (a)  an individual had, under section 864A of the _Social Security Act 1991_ as in force before 1 July 2000, requested a family allowance advance in respect of an advance period, within the meaning of that Act, that ended before 1 July 2000, and all subsequent advance periods; and
+
+                     (b)  that request had been granted;
+
+the grant has effect, in relation to the advance period commencing on 1 July 2000 and all subsequent advance periods as if:
+
+                     (c)  it were a grant made under section 33 of the Family Assistance Administration Act as amended by this Act; and
+
+                     (d)  it related not to qualification for family allowance advance but rather to an entitlement to family tax benefit advance in relation to the individual’s family tax benefit as determined by the Secretary in accordance with item 6.
+
+(2)       For the avoidance of doubt, an individual who is treated, by virtue of the operation of subitem (1), as having made and been granted a request under section 33 of the Family Assistance Administration Act as amended by this Act, may on 1 July 2000, or at any time after that date, withdraw the request in so far as it is treated as relating to standard advance periods within the meaning of that Act as so amended for which the individual has not been paid a family tax benefit advance.
+
+## 14  Saving provision relating to information collection
+
+If:
+
+                     (a)  family benefit, or maternity allowance or maternity immunisation allowance claimed under the social security law, is payable to a person; and
+
+                     (b)  the Secretary decides, on or after 1 July 2000, to seek further information in relation to the benefit or allowance;
+
+the Secretary may, under Division 1 of Part 5 of the _Social Security (Administration) Act 1999_, require the provision of information concerning that benefit or allowance, or concerning the person to whom it is payable, as if that benefit or allowance had continued, on and after 1 July 2000, to be a social security payment as defined for the purposes of the _Social Security (Administration) Act 1999_.
+
+## 15  Portability
+
+(1)       If:
+
+                     (a)  immediately before 1 July 2000, an individual
+
+                              (i)  is receiving family benefit in the nature of family allowance in respect of another individual; or
+
+                             (ii)  is receiving family benefit in the nature of parenting payment because the individual has a PP child; and
+
+                     (b)  the person in respect of whom, or because of whom, that benefit is received (the **_child_**) is absent from Australia immediately before that date because:
+
+                              (i)  having left Australia, the child has not returned before that date; or
+
+                             (ii)  having been born outside Australia, the child has not subsequently come to Australia before that date;
+
+the child is not, if that absence extends for a period of 3 years beginning on the first day of the absence, an FTB child at any time after the period of 3 years ends.
+
+(2)       In determining whether the period of absence of the child extends for 3 years beginning on the first day of the child’s absence:
+
+                     (a)  any return or coming to Australia before 1 July 2000 that would have been disregarded under the _Social Security Act 1991_ as in force before that date had that Act as so in force continued unamended after that date is to be disregarded for the purposes of subitem (1); and
+
+                     (b)  any return or coming to Australia on or after 1 July 2000 that would have been disregarded under section 24 of the Family Assistance Act as amended by this Act if that section were to have applied to the person is also to be disregarded for the purposes of that subitem.
+
+(3)       If:
+
+                     (a)  the child referred to in paragraph (1)(b) is absent from Australia for a continuous period of more than 26 weeks (whether or not that 26 weeks ends before 1 July 2000); and
+
+                     (b)  an individual having an entitlement to family tax benefit in respect of the child is not an absent overseas recipient within the meaning of subsection 62(2) of the Family Assistance Act as amended by this Act during any part of the child’s absence from Australia occurring after 26 weeks and after the individual becomes so entitled;
+
+Schedule 1 to the Family Assistance Act as so amended applies in relation to that entitlement during that part of the child’s absence that is referred to in paragraph (b) with the modifications set out in the table included in subsection 63(4) of that Act as so amended.
+
+(4)       If:
+
+                     (a)  the child referred to in paragraph (1)(b) is absent from Australia for a continuous period of more than 26 weeks (whether or not that 26 weeks ends before 1 July 2000); and
+
+                     (b)  the child comes to Australia; and
+
+                     (c)  the child leaves Australia less than 26 weeks after coming to Australia; and
+
+                     (d)  an individual having an entitlement to family tax benefit in respect of the child is not an absent overseas recipient within the meaning of subsection 62(2) of the Family Assistance Act as amended by this Act during any part of the child’s absence from Australia referred to in paragraph (c) after the individual becomes so entitled;
+
+Schedule 1 to the Family Assistance Act as so amended applies in relation to that entitlement during that part of the child’s absence that is referred to in paragraph (d) from Australia with the modifications set out in the table included in subsection 63(4) of that Act as so amended.
+
+## 16  Lump sum bereavement payments for certain persons receiving non‑benefit PP (partnered) at death of child
+
+(1)       If:
+
+                     (a)  a child died less than 4 weeks before 1 July 2000; and 
+
+                     (b)  at the time of the child’s death, the child was the only PP child of a person; and
+
+                     (c)  under section 512A of the _Social Security Act 1991_ as in force immediately before 1 July 2000, if that section had continued in force after that date, the person would, but for this item, have qualified to continue to receive that parenting payment for the period of 4 weeks that starts on the day following the day of the child’s death;
+
+so much of the parenting payment as would have been payable in respect of each day in that 4 week period that occurs after 30 June 2000:
+
+                     (d)  continues to be payable as if section 512A of that Act as so in force had not been repealed but had so provided; and
+
+                     (e)  is payable as a single lump sum on, or as soon as practicable after, 1 July 2000.
+
+(2)       For the purposes of Part 4 of the _Social Security (Administration) Act 1999_, a decision made for the purposes of section 512A of the _Social Security Act 1991_ as continued in force for the purposes of subitem (1) has effect as a decision of an officer under the social security law.
+
+## 17  Lump sum bereavement payments for certain persons receiving family tax payment at death of child
+
+(1)       If:
+
+                     (a)  a child died less than 4 weeks before 1 July 2000; and 
+
+                     (b)  at the time of the child’s death, a person was receiving family tax payment in respect of that child or of children including that child; and
+
+                     (c)  under section 900AZZC of the _Social Security Act 1991_ as in force before 1 July 2000, if that section had continued in force after that date, the person would, but for this item, have qualified to continue to receive family tax payment for the period of 4 weeks that starts on the day following the day of the child’s death at the rate that would have been applicable if the child had not died;
+
+so much only of the amount of family tax payment that would have been payable in respect of each day in that 4 week period that occurs after 30 June 2000 and that is attributable to that child:
+
+                     (d)  continues to be payable to the person as if section 900AZZC of that Act as so in force had not been repealed but had so provided; and
+
+                     (e)  is payable as a single lump sum on, or as soon as practicable after, 1 July 2000.
+
+(2)       For the purposes of Part 4 of the _Social Security (Administration) Act 1999_, a decision made for the purposes of section 900AZZC of the _Social Security Act 1991_ as continued in force for the purposes of subitem (1) has effect as a decision of an officer under the social security law.
+
+## 18  Lump sum bereavement payments for certain persons receiving family allowance at death of child
+
+(1)       If:
+
+                     (a)  a child died before 1 July 2000; and 
+
+                     (b)  at the time of the child’s death a person was receiving family allowance in respect of that child or of children including that child; and
+
+                     (c)  under Subdivision A or B of Division 10 of Part 2.17 of the _Social Security Act 1991_ as in force before 1 July 2000, if those Subdivisions had continued in force after that date, the person would, but for this item, have qualified to continue to receive family allowance for a period (the **_bereavement period_**) that starts on the day following the day of the child’s death at the rate that would have been applicable if the child had not died;
+
+so much only of the amount of family allowance that would have been payable in respect of each day of the bereavement period that occurs after 30 June 2000 and that is attributable to that child:
+
+                     (d)  continues to be payable to the person as if that Subdivision of that Act as so in force had not been repealed but had so provided; and
+
+                     (e)  is payable as a single lump sum on, or as soon as practicable after, 1 July 2000.
+
+(2)       For the purposes of Part 4 of the _Social Security (Administration) Act 1999_, a decision under Subdivision A or B of Division 10 of Part 2.17 of the _Social Security Act 1991_ as continued in force for the purposes of subitem (1) has effect as a decision of an officer under the social security law.
+
+## 19  Set‑offs
+
+(1)       If:
+
+                     (a)  a child dies before 1 July 2000; and
+
+                     (b)  before the Secretary learns of the death of the child, an individual has begun to receive family tax benefit in respect of the child in accordance with a determination under section 16 of the Family Assistance Administration Act as amended by this Act in respect of any period after 30 June 2000;
+
+the Secretary must, as soon as practicable after learning of the child’s death, review that determination in accordance with section 104 of the Family Assistance Administration Act as so amended.
+
+(2)       If the person continued to receive non‑benefit PP (partnered) after 30 June 2000 in respect of the deceased child—the Secretary can set off the amount of any single lump sum due by the Commonwealth under item 16 against any debt arising on a review of family tax benefit conducted in accordance with subitem (1).
+
+(3)       If the person continued to receive family tax payment after 30 June 2000 and the rate of the payment was attributable, in whole or in part, to the deceased child—the Secretary can set off the amount of any single lump sum due by the Commonwealth under item 17 against any debt arising on a review of family tax benefit conducted in accordance with subitem (1).
+
+(4)       If the person continued to receive family allowance after 30 June 2000 and the rate of the allowance was attributable, in whole or in part, to the deceased child—the Secretary can set off the amount of any single lump sum due by the Commonwealth under item 18 against any debt arising on a review of family tax benefit conducted in accordance with subitem (1).
+
+## 20  Bereavement payments in relation to the death of a recipient
+
+(1)       Despite the repeal of section 513A of the _Social Security Act 1991_ as in force before 1 July 2000, that section is taken to continue in force, on and after that date, so as to facilitate any claim by the partner of a person qualified for parenting payment in respect of a child who has died, for a period of 13 weeks after the death of that child.
+
+(2)       For the purposes of subitem (1), section 513A of the _Social Security Act 1991_ as so continued in force has effect as if the reference in the section to the amount of parenting payment that would have been payable includes a reference to any lump sum that would have been payable because of the operation of item 16.
+
+(3)       Despite the repeal of section 900 of the _Social Security Act 1991_ as in force before 1 July 2000, that section is taken to continue in force, on and after that date, so as to facilitate any claim by the partner of a person qualified for family allowance in respect of a child who has died, for a period of 13 weeks after the death of that child.
+
+(4)       For the purposes of subitem (3), section 900 of the _Social Security Act 1991_ as so continued in force has effect as if the reference:
+
+                     (a)  in subsection (1) of that section to the sum of the amounts referred to in paragraphs (f), (g) and (h) of that subsection; and
+
+                     (b)  in subsection (2) of that section to the sum of the amounts referred to in paragraphs (e), (f) and (g) of that subsection;
+
+each includes a reference to any lump sum that would have been payable because of the operation of item 18.
+
+(5)       For the purposes of Part 4 of the _Social Security (Administration) Act 1999_, a decision made for the purposes of section 513A, or section 900, of the _Social Security Act 1991_ as continued in force for the purposes of this item has effect as if it were a decision of an officer under the social security law.
+
+## 21  Provision of TFNs in certain circumstances under _Social Security Act 1991_ taken to be provision under Family Assistance Administration Act
+
+            If the tax file number of an individual has been provided to the Secretary:
+
+                     (a)  by the individual; or
+
+                     (b)  by the partner of the individual; or
+
+                     (c)  by the Commissioner of Taxation on the authority of the individual;
+
+under a provision of the _Social Security Act 1991_ for a purpose related to a claim for, or to entitlement to, family allowance, family tax payment or parenting payment in the nature of non‑benefit PP (partnered), that tax file number is taken, for the purposes of subsection 154A(1) of the Family Assistance Administration Act as amended by this Act, to have been so provided under a provision of that Act as so amended for the purposes of that Act as so amended.
+
+## 22  Saving provision—Part A rate of family tax benefit for families with children not subject to family allowance income test
+
+(1)       This item applies to an individual who, immediately before 1 July 2000:
+
+                     (a)  was receiving family allowance under the _Social Security Act 1991_ in respect of a child; and
+
+                     (b)  by virtue of the operation of subclause 52(2) or 53(2) of Schedule 1A to that Act—did not have to satisfy the requirements of paragraph 838(1)(c) of that Act in order to be qualified for family allowance for that child; and
+
+                     (c)  was also receiving either carer allowance or double orphan pension under that Act in respect of that child.
+
+(2)       If, on or after 1 July 2000, an individual to whom this item applies has at least one FTB child in relation to whom the individual continues to receive either carer allowance or double orphan pension under the _Social Security Act 1991_, the Part A rate of family tax benefit payable under the Family Assistance Act as amended by this Act to the individual from time to time on or after that date is a rate equal to:
+
+                     (a)  unless paragraph (b) applies—the Part A rate of family tax benefit that would be payable to the individual under that Act as so amended; or
+
+                     (b)  if the rate referred to in paragraph (a) is less than the rate (the **_saved rate_**) that would have been the individual’s minimum family allowance rate under the _Social Security Act 1991_ immediately before 1 July 2000 if that rate were worked out having regard only to those FTB children of the individual in respect of whom the individual continues to receive either carer allowance or double orphan pension under that Act—the saved rate.
+
+(3)       If, at any time, an individual begins to receive a Part A rate of family tax benefit calculated in accordance with paragraph (2)(a), the person ceases, with effect from that time, to have any entitlement, at any time thereafter, to a Part A rate of family tax benefit at the saved rate.
+
+## Schedule 6
+
+## 1  Definitions
+
+In this Schedule, unless the contrary intention appears:
+
+**_approved child care service_** has the meaning given in subsection 3(1) of the Family Assistance Administration Act.
+
+**_childcare assistance_** means fee reductions made in respect of care provided before:
+
+                     (a)  1 July 2000; or
+
+                     (b)  on or after 1 July 2000, as provided for in this Schedule;
+
+in compliance with:
+
+                     (c)  the fee relief guidelines; or
+
+                     (d)  a Commonwealth 
