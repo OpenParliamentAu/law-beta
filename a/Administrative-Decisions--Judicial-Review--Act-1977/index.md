@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00455/Html/66f00995-4e33-45c8-9011-93676e164817_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00027/Html/96dd6d27-d8e8-4f59-a347-a5af89e821ea_files/image001.gif)
 
 # Administrative Decisions (Judicial Review) Act 1977
 
 **Act No. 59 of 1977 as amended**
 
-This compilation was prepared on 21 May 2012
- taking into account amendments up to Act No. 47 of 2012
+This compilation was prepared on 1 January 2012
+ taking into account amendments up to Act No. 174 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -844,7 +844,7 @@ Note:          Schedule 3 identifies Acts of the States, the
 
 ##### <a id="20"></a>20  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed by regulations or necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
+                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed by regulations or necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
 
 # Schedule 1—Classes of decisions that are not decisions to which this Act applies
 
@@ -981,6 +981,8 @@ Note:          An application under this Act in relation to ot
            (za)  decisions under Part VIIIB of the _Judiciary Act 1903_ (which relates to the Australian Government Solicitor);
 
            (zb)  decisions of Snowy Hydro Limited or a body corporate that is a subsidiary of Snowy Hydro Limited; 
+
+           (zc)  a nomination under section 3A or a decision under section 3C or 7 of the _Commonwealth Radioactive Waste Management Act 2005_;
 
            (zd)  the following decisions under the _Family Law Act 1975_:
 
@@ -3634,111 +3636,6 @@ Schedule 5 (items 1, 2): 19 Apr 2011</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012</div>
-  </td>
-  <td>
-    <div>14, 2012</div>
-  </td>
-  <td>
-    <div>29 Mar 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 10): <i>(r)</i> 
-Schedule 3 (item 1): \[ <i>see</i>s. 2(1) and Note 3] 
-Schedule 3 (item 90): \[ <i>see (r)</i>and Note 3]</div>
-  </td>
-  <td>
-    <div>S. 2(1) (item 6) (am. by 39, 2012, Sch. 1 \[items 267, 268])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Indirect Tax Laws Amendment (Assessment) Act 2012</div>
-  </td>
-  <td>
-    <div>39, 2012</div>
-  </td>
-  <td>
-    <div>15 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 267, 268, 271): <i>(s)</i> 
-Schedule 1 (items 269, 270): <i>(s)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Radioactive Waste Management Act 2012</div>
-  </td>
-  <td>
-    <div>29, 2012</div>
-  </td>
-  <td>
-    <div>4 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 2): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Indirect Tax Laws Amendment (Assessment) Act 2012</div>
-  </td>
-  <td>
-    <div>39, 2012</div>
-  </td>
-  <td>
-    <div>15 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 30, 239): \[ <i>see</i>Note 4 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 239) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Road Safety Remuneration (Consequential Amendments and Related Provisions) Act 2012</div>
-  </td>
-  <td>
-    <div>47, 2012</div>
-  </td>
-  <td>
-    <div>16 Apr 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>s. 2(1) and Note 5]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(3) of which provides as follows:
@@ -4128,184 +4025,6 @@ _(q)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
   </td>
 </tr></table>
 
-_(r)_ Subsection 2(1) (items 4 and 6) of the _Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      4\. Schedule 2, Part 2
-    </div>
-  </td>
-  <td>
-    <div>
-      At the same time as the
-        <i>Minerals Resource Rent Tax Act 2012</i>commences.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all if the
-        <i>Indirect Tax Laws Amendment (Assessment) Act 2012</i>receives the Royal
-        Assent before 1 July 2012.
-    </div>
-  </td>
-  <td>
-    <div>
-      Does not commence
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      6\. Schedule 3, item 90
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 1 of Schedule 1 to the
-        <i>Indirect Tax Laws Amendment (Assessment) Act 2012</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 3]
-    </div>
-  </td>
-</tr></table>
-
-_(s)_ Subsection 2(1) (items 4–6) of the _Indirect Tax Laws Amendment (Assessment) Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      4\. Schedule 1, items 265 to 268
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Minerals Resource Rent Tax (Consequential Amendments and Transitional
-          Provisions) Act 2012</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      29 March 2012
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      5\. Schedule 1, items 269 and 270
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Minerals Resource Rent Tax (Consequential Amendments and Transitional
-          Provisions) Act 2012</i>for the commencement of Part 2 of Schedule 2 to
-        that Act.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all if this Act receives
-        the Royal Assent before 1 July 2012.
-    </div>
-  </td>
-  <td>
-    <div>
-      Do not commence
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      6\. Schedule 1, item 271
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Minerals Resource Rent Tax (Consequential Amendments and Transitional
-          Provisions) Act 2012</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      29 March 2012
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -4622,7 +4341,7 @@ _(s)_ Subsection 2(1) (items 4–6) of the _Indirect Tax Laws Amendment (Asses
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 115, 122, 137, 140 and 153, 1982; No. 144, 1983; Nos. 4, 47 and 65, 1985; Nos. 41, 76, 102 and 112, 1986; Nos. 62, 76 and 145, 1987; Nos. 5 and 87, 1988; Nos. 14 and 107, 1989; Nos. 60 and 118, 1990; No. 216, 1991; Nos. 92, 151 and 196, 1992; Nos. 32, 54 and 88, 1993; No. 124, 1994; Nos. 161 and 175, 1995; Nos. 15, 43 and 60, 1996; Nos. 39 and 177, 1997; Nos. 7, 118 and 161, 1999; No. 176, 1999 (as am. by No. 156, 2000); No. 57, 2000; Nos. 123, 134 and 153, 2001; Nos. 86 and 127, 2002; Nos. 35, 62 and 124, 2004; Nos. 100, 112, 118, 137, 144 and 146, 2005; Nos. 40, 73, 74, 90, 101, 161 and 170, 2006; Nos. 8, 52 and 56, 2007; No. 105, 2008; Nos. 55, 88 and 117, 2009; Nos. 4, 79 and 145, 2010; No. 174, 2011; No. 29, 2012</div>
+    <div>am. Nos. 115, 122, 137, 140 and 153, 1982; No. 144, 1983; Nos. 4, 47 and 65, 1985; Nos. 41, 76, 102 and 112, 1986; Nos. 62, 76 and 145, 1987; Nos. 5 and 87, 1988; Nos. 14 and 107, 1989; Nos. 60 and 118, 1990; No. 216, 1991; Nos. 92, 151 and 196, 1992; Nos. 32, 54 and 88, 1993; No. 124, 1994; Nos. 161 and 175, 1995; Nos. 15, 43 and 60, 1996; Nos. 39 and 177, 1997; Nos. 7, 118 and 161, 1999; No. 176, 1999 (as am. by No. 156, 2000); No. 57, 2000; Nos. 123, 134 and 153, 2001; Nos. 86 and 127, 2002; Nos. 35, 62 and 124, 2004; Nos. 100, 112, 118, 137, 144 and 146, 2005; Nos. 40, 73, 74, 90, 101, 161 and 170, 2006; Nos. 8, 52 and 56, 2007; No. 105, 2008; Nos. 55, 88 and 117, 2009; Nos. 4, 79 and 145, 2010; No. 174, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4674,63 +4393,7 @@ Insert:
 
                    (dc)  if an Act of another State or of the Australian Capital Territory or the Northern Territory applies the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time, as that Law applies as a law of that other State or of that Territory—the National Energy Retail Law as so applied;
 
-As at 21 May 2012 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012 (No. 14, 2012)_
-
-The following amendment commences on 1 July 2012:
-
-## Schedule 3
-
-## 1  Paragraph (e) of Schedule 1
-
-After:
-
-_Income Tax Assessment Act 1997_
-
-insert:
-
-_Minerals Resource Rent Tax Act 2012_
-
-The following amendment commences immediately after 1 July 2012:
-
-## Schedule 3
-
-## 90  Paragraph (e) of Schedule 1
-
-After “Part 3‑10”, insert “, 3‑15”.
-
-As at 21 May 2012 the amendments are not incorporated in this compilation.
-
-### Note 4
-
-_Indirect Tax Laws Amendment (Assessment) Act 2012 (No. 39, 2012)_
-
-The following amendment commences on 1 July 2012:
-
-## Schedule 1
-
-## 30  Paragraph (e) of Schedule 1
-
-Before “in Schedule 1 to that Act”, insert “or 4‑1”.
-
-As at 21 May 2012 the amendment is not incorporated in this compilation.
-
-### Note 5
-
-_Road Safety Remuneration (Consequential Amendments and Related Provisions) Act 2012 (No. 47, 2012)_
-
-The following amendment commences on 1 July 2012:
-
-## Schedule 1
-
-## 1  Paragraph (a) of Schedule 1
-
-After “_Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_,”, insert “the _Road Safety Remuneration Act 2012_,”.
-
-As at 21 May 2012 the amendment is not incorporated in this compilation.
+As at 1 January 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -5225,23 +4888,5 @@ _Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010 (
 ## 211  Application
 
 The amendment made by item 210 applies in relation to decisions made on or after the commencement of this item.
-
-* * *
-
-_Indirect Tax Laws Amendment (Assessment) Act 2012 (No. 39, 2012)_
-
-The following provision commences on 1 July 2012:
-
-## Schedule 1
-
-## 239  Application of amendments
-
-(1)       The amendments made by Divisions 1, 2 and 3 of this Part apply in relation to payments and refunds that relate to tax periods, and fuel tax return periods, starting on or after 1 July 2012.
-
-(2)       The amendments made by Divisions 1, 2 and 3 of this Part also apply in relation to payments and refunds that:
-
-                     (a)  do not relate to any tax periods or fuel tax return periods; and
-
-                     (b)  relate to liabilities or entitlements that arose on or after 1 July 2012.
 
  
