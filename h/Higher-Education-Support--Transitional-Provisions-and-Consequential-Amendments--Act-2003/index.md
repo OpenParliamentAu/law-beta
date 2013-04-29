@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2006C00009/Html/694A5404ED770147CA2570ED000B2A58/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00444/Html/1CC5AE0BFF047DADCA25703C0024D6D5/$FILE/image001.gif)
 
 # Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003
 
 **Act No. 150 of 2003 as amended**
 
-This compilation was prepared on 23 December 2005
+This compilation was prepared on 11 July 2005
 
-**\[This Act was amended by Act Nos. 45, 114 and 157 of 2004; Nos. 83 and 158 of 2005]**
+**\[This Act was amended by Act Nos. 45, 114 and 157 of 2004; No. 83 of 2005]**
 
 **Amendments from Act No. 45 of 2004**
 
@@ -36,25 +36,13 @@ Schedule 2 (item 9) amended Schedule 1 (item 24)
 Schedule 2 (items 1–8) commenced on 17 December 2004
 Schedule 2 (item 9) commenced i
 
-mmediately after <span style="COLOR: black">1 </span>January 2004<span style="COLOR: black">]</span>
+mmediately after 1 January 2004]
 
 **Amendment from Act No. 83 of 2005**
 
-\[Schedule 2 (item 1) amended Paragraph 2(c) of Schedule 1<span style="COLOR: black">
-Schedule 2 (item 1) commenced i
-</span>mmediately after <span style="FONT-SIZE: 11pt">1 </span>January 2004]
-
-**Amendment from Act No. 158 of 2005**
-
-\[Schedule 3 (item 21) amended Subitem 4(1) of Schedule 1<span style="COLOR: black">
-Schedule 3 (item 22) repealed 
-</span>Subitem 4(3) of Schedule 1<span style="COLOR: black">
-Schedule 3 (item 23) amended 
-</span>Subitem 8(1) of Schedule 1<span style="COLOR: black">
-Schedule 3 (item 24) repealed 
-</span>Subitem 8(3) of Schedule 1<span style="COLOR: black">
-Schedule 3 (items 21–24) commenced on 
-</span>20 December 2005]
+\[Schedule 2 (item 1) amended Paragraph 2(c) of Schedule 1
+Schedule 2 (item 1)commenced i
+mmediately after 1 January 2004]
 
 Prepared by the Office of Legislative Drafting and Publishing,
 Attorney-General’s Department, 
@@ -71,80 +59,80 @@ Canberra
 
 [4](#4).            Meanings of expressions defined in the _Higher Education Support Act 2003_
 
-**Schedule 1—Transitional provisions** 
+**Schedule 1—Transitional provisions**
 
-Part 1—Transitional arrangement for students under the Higher Education Contribution Scheme        5
+**Part 1—Transitional arrangement for students under the Higher Education Contribution Scheme**   4
 
-Part 2—Transitional arrangement for students under the Post-graduate education loan scheme           9
+Part 2—Transitional arrangement for students under the Post-graduate education loan scheme           8
 
-Part 3—Debts under the Higher Education Funding Act 1988                     11
+Part 3—Debts under the Higher Education Funding Act 1988                     10
 
-Part 5—Avondale College                                                                                           14
+Part 5—Avondale College                                                                                           13
 
-Part 6—Other transitional provisions                                                                       15
+Part 6—Other transitional provisions                                                                       14
 
 **Schedule 2—Amendments** 
 
-Part 1—Appropriations                                                                                                22
+Part 1—Appropriations                                                                                                21
+
+Higher Education Funding Act 1988                                                                    21
+
+Part 2—Transitional financial assistance                                                                 22
 
 Higher Education Funding Act 1988                                                                    22
 
-Part 2—Transitional financial assistance                                                                 23
+Part 2A—HEC repayment thresholds for the 2004-05 year of income    23
 
 Higher Education Funding Act 1988                                                                    23
 
-Part 2A—HEC repayment thresholds for the 2004-05 year of income    24
+Part 3—Discontinuance of provisions of the Higher Education Funding Act 1988     24
 
 Higher Education Funding Act 1988                                                                    24
 
-Part 3—Discontinuance of provisions of the Higher Education Funding Act 1988     25
+Part 4—The Australian National University                                                          26
 
-Higher Education Funding Act 1988                                                                    25
+Australian National University Act 1991                                                             26
 
-Part 4—The Australian National University                                                          27
+Part 5—Australian Maritime College                                                                       36
 
-Australian National University Act 1991                                                             27
+Maritime College Act 1978                                                                                     36
 
-Part 5—Australian Maritime College                                                                       37
+Part 6—Marcus Oldham College                                                                             44
 
-Maritime College Act 1978                                                                                     37
+Higher Education Funding Act 1988                                                                    44
 
-Part 6—Marcus Oldham College                                                                             45
+Part 7—Other amendments                                                                                         45
 
-Higher Education Funding Act 1988                                                                    45
+A New Tax System (Family Assistance) (Administration) Act 1999                45
 
-Part 7—Other amendments                                                                                         46
+Bankruptcy Act 1966                                                                                                45
 
-A New Tax System (Family Assistance) (Administration) Act 1999                46
+Disability Services Act 1986                                                                                   45
 
-Bankruptcy Act 1966                                                                                                46
+Equal Opportunity for Women in the Workplace Act 1999                               46
 
-Disability Services Act 1986                                                                                   46
+Fringe Benefits Tax Assessment Act 1986                                                             46
 
-Equal Opportunity for Women in the Workplace Act 1999                               47
+Higher Education Funding Act 1988                                                                    46
 
-Fringe Benefits Tax Assessment Act 1986                                                             47
+Income Tax Assessment Act 1936                                                                            50
 
-Higher Education Funding Act 1988                                                                    47
+Income Tax Assessment Act 1997                                                                            51
 
-Income Tax Assessment Act 1936                                                                            51
+Social Security Act 1991                                                                                          52
 
-Income Tax Assessment Act 1997                                                                            52
+Taxation Administration Act 1953                                                                         54
 
-Social Security Act 1991                                                                                          53
+Taxation (Interest on Overpayments and Early Payments) Act 1983             55
 
-Taxation Administration Act 1953                                                                         55
-
-Taxation (Interest on Overpayments and Early Payments) Act 1983             56
-
-Veterans’ Entitlements Act 1986                                                                            57
+Veterans’ Entitlements Act 1986                                                                            56
 
  
 
 
 ## An Act to deal with transitional and consequential matters arising from the enactment of the _Higher Education Support Act 2003_, and for other purposes
 
-[_Assented to__19 December 2003_]
+[_Assented to 19 December 2003_]
 
 The Parliament of Australia enacts:
 
@@ -669,7 +657,7 @@ Note:          For the funding clusters in which particular un
 
 ## 4  Guidelines
 
-(1)        The Minister may, by legislative instrument, make guidelines providing for matters:
+(1)        The Minister may, in writing, make guidelines providing for matters:
 
                      (a)  required or permitted by this Schedule to be provided; or
 
@@ -682,6 +670,8 @@ Note:          For the funding clusters in which particular un
                      (b)  when a person is taken to have completed the requirements of a course of study.
 
 Any such guidelines have effect, for the purposes of this Schedule, accordingly.
+
+(3)        The guidelines are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 5  Meaning of _institution_
 
@@ -735,7 +725,7 @@ A person is not taken, for the purposes of subparagraph (g)(i) of item 6, to
 
 ## 8  Guidelines
 
-(1)        The Minister may, by legislative instrument, make guidelines providing for matters:
+(1)        The Minister may, in writing, make guidelines providing for matters:
 
                      (a)  required or permitted by this Schedule to be provided; or
 
@@ -748,6 +738,8 @@ A person is not taken, for the purposes of subparagraph (g)(i) of item 6, to
                      (b)  when a person is taken to have completed the requirements of a course of study.
 
 Any such guidelines have effect, for the purposes of this Schedule, accordingly.
+
+(3)        The guidelines are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 9  Meaning of _institution_
 
@@ -2167,13 +2159,13 @@ Omit “If the amount of the debt is $500 or more, the”, substitute “The”.
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2006C00009/Html/694A5404ED770147CA2570ED000B2A58/$FILE/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00444/Html/1CC5AE0BFF047DADCA25703C0024D6D5/$FILE/image002.gif)
 
 ## 116  Subsection 106PA(4) (formula)
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2006C00009/Html/694A5404ED770147CA2570ED000B2A58/$FILE/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00444/Html/1CC5AE0BFF047DADCA25703C0024D6D5/$FILE/image003.gif)
 
 ## 117  Subsection 106PA(4) (example)
 
@@ -2527,7 +2519,9 @@ Insert:
  
 
 
-_Minister’s second reading speech made in—_
+ 
+
+[_Minister’s second reading speech made in—_
 
 _House of Representatives on__17 September 2003_
 
@@ -2535,7 +2529,7 @@ _Senate on__27 October 2003_]
 
 <div>
 
-<table align="left" hspace="0" vspace="0">
+<table align="left" vspace="0" hspace="0">
 <colgroup>
   <col width="NaN%">
 </colgroup>
