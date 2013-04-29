@@ -1,31 +1,31 @@
-![](http://www.comlaw.gov.au/Details/C2008C00236/Html/FinSecLegAmendDiscrMutFundsDirOffForIns2007_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00145/Html/FinSecLegAmendDiscrMutFundsDirOffForIns2007_image001.gif)
 
 # Financial Sector Legislation Amendment (Discretionary Mutual Funds and Direct Offshore Foreign Insurers) Act 2007
 
 **Act No. 149 of 2007 as amended**
 
-This compilation was prepared on 1 July 2008
+This compilation was prepared on 2 June 2008
 
-**\[This Act was amended by Act No. 25 of 2008]**
+**\[This Act is to be amended by Act No. 25 of 2008]**
 
 **Amendments from Act No. 25 of 2008**
 
-\[Schedule 1 (item 71) repealed items 9A, 9B and 9D–9G of Schedule 2
- Schedule 3 (item 65) repealed and substituted item 8 of Schedule 2
- Schedule 3 (item 66) repealed items 13 to 33 of Schedule 2
+\[Schedule 1 (item 71) repeals items 9A, 9B and 9D–9G of Schedule 2
+ Schedule 3 (item 65) repeals and substitutes item 8 of Schedule 2
+ Schedule 3 (item 66) repeals items 13 to 33 of Schedule 2
 
-Schedule 1 (item 71) and Schedule 3 (items 65 and 66) commenced immediately before 1 July 2008.]
+Schedule 1 (item 71) and Schedule 3 (items 65 and 66) commence immediately before 1 July 2008\. The amendments have not been incorporated]
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
 
-# Contents
+Contents
 
-[1](#1).            Short title
+[1](#1).            Short title                                                                                             1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Schedule(s)
+[3](#3).            Schedule(s)                                                                                           2
 
 **Schedule 1—Amendments commencing on Royal Assent** 
 
@@ -39,7 +39,7 @@ Insurance Act 1973                    �
 
 **Schedule 3—Amendment commencing on the 28th day after the day on which this Act receives the Royal Assent** 
 
-Corporations Act 2001                                                                                             26
+Corporations Act 2001                                                                                             25
 
 ## An Act to amend certain laws relating to the financial sector, and for related purposes
 
@@ -346,7 +346,7 @@ Add:
 
 (3)        The Governor-General may make regulations for the purposes of subitem (1).
 
-8  After section 3
+## 8  After section 3
 
 Insert:
 
@@ -356,13 +356,21 @@ Insert:
 
                      (a)  specified in the regulations for the purposes of this subsection; or
 
-                     (b)  in circumstances specified in the regulations for the purposes of this subsection.
+                     (b)  specified in a determination made under such regulations.
 
-             (2)  Without limiting subsection (1), the regulations may specify a contract of insurance, a kind of contract of insurance, or circumstances, by reference to:
+             (2)  Without limiting the ways in which contracts of insurance, or kinds of contracts of insurance, may be specified in regulations made for the purposes of subsection (1), or in determinations made under such regulations, those contracts or kinds of contracts may be specified:
 
-                     (a)  particular general insurance products (within the meaning of Chapter 7 of the _Corporations Act 2001_), or particular kinds of such products; or
+                     (a)  as particular general insurance products (within the meaning of Chapter 7 of the _Corporations Act 2001_), or particular kinds of such products; or
 
-                     (b)  particular persons, or particular kinds of persons, who are insured under a contract of insurance, or a kind of contract of insurance.
+                     (b)  as contracts or kinds of contracts under which particular persons, or particular kinds of persons, are insured.
+
+             (3)  A determination of a kind referred to in paragraph (1)(b) that specifies a particular contract of insurance (whether specified in a way mentioned in subsection (2) or otherwise):
+
+                     (a)  is not a legislative instrument; and
+
+                     (b)  is a determination to which Part VI applies.
+
+             (4)  In any other case, a determination of a kind referred to in paragraph (1)(b) is a legislative instrument.
 
 ## 9  At the end of Division 1 of Part III
 
@@ -428,6 +436,20 @@ Federal Court’s other powers unaffected
 
              (9)  The powers conferred on the Court by this section are in addition to any other of its powers, and do not derogate from its other powers.
 
+## 9A  At the end of subsection 24(1)
+
+Add:
+
+               ; or (d)  a director or senior manager of a corporate agent.
+
+_Note:       The heading to section 24 is altered by omitting “or authorised NOHCs” and substituting “, authorised NOHCs or corporate agents”._
+
+## 9B  At the end of subsection 24(4)
+
+Add:
+
+               ; or (d)  if the body corporate is a corporate agent—a director or senior manager of the corporate agent.
+
 ## 9C  Paragraphs 25(1)(c) to (e)
 
 Repeal the paragraphs, substitute:
@@ -451,6 +473,24 @@ Repeal the paragraphs, substitute:
                             (iv)  a provisional liquidator has been appointed in respect of the corporate agent; or
 
                              (v)  the corporate agent has begun to be wound up; or
+
+## 9D  Subsection 25A(1)
+
+Omit “or (c)”, substitute “, (c) or (d)”.
+
+## 9E  Subparagraph 25A(5)(a)(iii)
+
+Omit “and”, substitute “or”.
+
+## 9F  At the end of paragraph 25A(5)(a)
+
+Add:
+
+                      ; or (iv)  if the person is, or is acting as, a person referred to in paragraph 24(1)(d)—to the corporate agent concerned, and to any foreign general insurer for which the agent is the corporate agent; and
+
+## 9G  Subsections 26(6) and (8)
+
+Omit “or authorised NOHC”, substitute “, authorised NOHC or corporate agent”.
 
 ## 9H  At the end of subsection 27(1)
 
@@ -614,7 +654,7 @@ APRA may investigate the whole or part of the conduct or proposed conduct, or ap
 
              (2)  The inspector is to be a person resident in Australia.
 
-##### <a id="62B"></a>62B  Access to premises
+##### <a id="62B"></a>62B  Access to premises
 
              (1)  For the purpose of an investigation under this Part:
 
@@ -747,6 +787,114 @@ the questions or answers are not admissible in evidence against him or her in cr
 ##### <a id="62J"></a>62J  Report of the inspector
 
                    An inspector must, on a completion or termination of the investigation, report in writing to APRA on the result of the investigation.
+
+## 13  Subsection 63(1)
+
+Insert:
+
+                    <a name="decision-maker"></a>**_decision maker_**, in relation to a reviewable decision, means the Treasurer, APRA or a person who makes a determination referred to in subsection 3A(3) (whichever is applicable).
+
+## 14  Subsection 63(1)
+
+Insert:
+
+                    <a name="person-affected-review-decision"></a>**_person affected by a reviewable decision_**, in relation to a reviewable decision of a decision maker, means:
+
+                     (a)  in the case of a determination referred to in subsection 3A(3)—the person who applied for the determination; or
+
+                     (b)  in the case of a determination under subsection 93(3)—Lloyd’s or any Lloyd’s underwriter; or
+
+                     (c)  in any other case—the person in relation to whom the decision was made.
+
+## 15  Subsection 63(1) (definition of _person affected by a reviewable decision of the Treasurer or APRA_)
+
+Repeal the definition.
+
+## 16  Subsection 63(1)
+
+Insert:
+
+                    <a name="review-decision"></a>**_reviewable decision_** means a decision of:
+
+                     (a)  the Treasurer; or
+
+                     (b)  APRA; or
+
+                     (c)  a person who makes a determination referred to in subsection 3A(3);
+
+that is a decision to which, under this Act, this Part applies.
+
+## 17  Subsection 63(1) (definition of _reviewable decision of the Treasurer or APRA_)
+
+Repeal the definition.
+
+## 18  Subsection 63(2)
+
+Omit “of the Treasurer or APRA”.
+
+## 19  Subsection 63(2)
+
+Omit “Treasurer or APRA, as the case may be,” (wherever occurring), substitute “decision maker”.
+
+## 20  Subsection 63(4)
+
+Omit “, the Treasurer or APRA, as the case may be,”, substitute “the decision maker”.
+
+## 21  Subsection 63(4)
+
+Omit “Treasurer or APRA” (last occurring), substitute “decision maker”.
+
+## 22  Subsection 63(5)
+
+Omit “Treasurer or APRA, as the case may be,”, substitute “decision maker”.
+
+## 23  Subsection 63(5)
+
+Omit “Treasurer or APRA” (second and last occurring), substitute “decision maker”.
+
+## 24  Subsection 63(6)
+
+Omit “Treasurer or APRA, as the case may be,”, substitute “decision maker”.
+
+## 25  Subsection 63(6)
+
+Omit “Treasurer or APRA” (second occurring), substitute “decision maker”.
+
+## 26  Subsection 63(6)
+
+Omit “Treasurer’s or APRA’s” (wherever occurring), substitute “decision maker’s”.
+
+## 27  Subsection 63(7)
+
+Omit “the Treasurer and decisions of APRA”, substitute “a decision maker”.
+
+## 28  Subsections 63(9), (12), (13) and (14)
+
+Omit “of the Treasurer or APRA”.
+
+## 29  Subsection 64(1)
+
+Omit “of the Treasurer or APRA”.
+
+## 30  Paragraph 64(1)(a)
+
+Omit “Treasurer or APRA, as the case may be,”, substitute “decision maker”.
+
+## 31  Paragraph 64(1)(b)
+
+Omit “Treasurer or APRA”, substitute “decision maker”.
+
+## 32  Subsection 64(2)
+
+Omit “the Treasurer or APRA”, substitute “a decision maker”.
+
+## 33  At the end of section 64
+
+Add:
+
+             (4)  In this section:
+
+                    <a name="decision-maker"></a>**_decision maker_** has the meaning given by section 63.
 
 ## 34  Section 103
 
