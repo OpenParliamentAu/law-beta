@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00733/Html/cb216a24-4a7b-4124-a1ab-7a0d4972b3c2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00440/Html/HealthcareIdentAct2010_image001.gif)
 
 # Healthcare Identifiers Act 2010
 
 **Act No. 72 of 2010 as amended**
 
-This compilation was prepared on 1 November 2010
+This compilation was prepared on 5 July 2010
  taking into account amendments up to Act No. 73 of 2010
 
 The text of any of those amendments not in force
@@ -100,9 +100,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [28](#28).          Interaction with the _Privacy Act 1988_
 
-[29](#29).          Functions of Information Commissioner
+[29](#29).          Functions of Privacy Commissioner
 
-[30](#30).          Annual reports by Information Commissioner
+[30](#30).          Annual reports by Privacy Commissioner
 
 **Part 5—Healthcare Provider Directory**
 
@@ -134,7 +134,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight: normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Healthcare Identifiers Act 2010_.
 
@@ -282,7 +282,7 @@ Note:          In 2010, the text of the Agreement was accessib
 
                            (vii)  it has the ability to impose sanctions on members who contravene the association’s written rules, articles of association, by-laws or codes of conduct;
 
-                          (viii)  it sets requirements to maintain its members’ professional skills and knowledge by continuing professional development; and
+                           (viii)  it sets requirements to maintain its members’ professional skills and knowledge by continuing professional development; and
 
                      (c)  has members who:
 
@@ -878,7 +878,7 @@ Note:          The regulations may provide for the imposition 
 
                    An authorisation to collect, use or disclose a healthcare identifier or identifying information under this Act is also an authorisation to collect, use or disclose the healthcare identifier or identifying information for the purpose of the _Privacy Act 1988_.
 
-##### <a id="29"></a>29  Functions of Information Commissioner
+##### <a id="29"></a>29  Functions of Privacy Commissioner
 
 Breach of this Act is an interference with privacy
 
@@ -896,13 +896,13 @@ Audits
 
              (3)  For the purpose of paragraph 27(1)(h) of the _Privacy Act 1988_ (about audits), a healthcare identifier is taken to be personal information.
 
-##### <a id="30"></a>30  Annual reports by Information Commissioner
+##### <a id="30"></a>30  Annual reports by Privacy Commissioner
 
-             (1)  The Information Commissioner must, as soon as practicable after the end of each financial year, prepare a report on the Information Commissioner’s compliance and enforcement activities under this Act during the financial year.
+             (1)  The Privacy Commissioner must, as soon as practicable after the end of each financial year, prepare a report on the Privacy Commissioner’s compliance and enforcement activities under this Act during the financial year.
 
-             (2)  The Information Commissioner must give a copy of the report to the Minister, and to the Ministerial Council, no later than on 30 September after the end of the financial year to which the report relates.
+             (2)  The Privacy Commissioner must give a copy of the report to the Minister, and to the Ministerial Council, no later than on 30 September after the end of the financial year to which the report relates.
 
-             (3)  The Minister must table a copy of the report in each House of Parliament within 15 sitting days after the Information Commissioner gives a copy of the report to the Minister.
+             (3)  The Minister must table a copy of the report in each House of Parliament within 15 sitting days after the Privacy Commissioner gives a copy of the report to the Minister.
 
 ## Part 5—Healthcare Provider Directory
 
@@ -1148,59 +1148,38 @@ of Assent</div>
     <div>28 June 2010</div>
   </td>
   <td>
-    <div>Schedule 3: 1 Nov 2010 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 3: \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Healthcare Identifiers (Consequential Amendments) Act 2010 
+ (No. 73, 2010)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Heading to s. 29</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 30</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2010</div>
-  </td>
-</tr></table>
+The following amendments commence on 1 November 2010:
+
+## Schedule 3
+
+## 1  Subsection 30(1)
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner”.
+
+_Note 1:    The heading to section 29 is altered by omitting “Privacy Commissioner” and substituting “Information Commissioner”._
+
+_Note 2:    The heading to section 30 is altered by omitting “Privacy Commissioner” and substituting “Information Commissioner”._
+
+## 2  Subsection 30(1)
+
+Omit “Privacy Commissioner’s”, substitute “Information Commissioner’s”.
+
+## 3  Subsections 30(2) and (3)
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner”.
+
+As at 5 July 2010 the amendments are not incorporated in this compilation.
 
  
