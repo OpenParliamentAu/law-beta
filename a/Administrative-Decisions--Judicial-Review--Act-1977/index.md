@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00857/Html/8c0d94af-e56d-4523-9900-e397b5e325d1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00315/Html/961548d9-b830-40c7-946e-629b267179cf_files/image001.gif)
 
 # Administrative Decisions (Judicial Review) Act 1977
 
 **Act No. 59 of 1977 as amended**
 
-This compilation was prepared on 24 October 2011
- taking into account amendments up to Act No. 119 of 2011
+This compilation was prepared on 22 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -844,7 +844,7 @@ Note:          Schedule 3 identifies Acts of the States, the
 
 ##### <a id="20"></a>20  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed by regulations or necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
+                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed by regulations or necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
 
 # Schedule 1—Classes of decisions that are not decisions to which this Act applies
 
@@ -1196,11 +1196,11 @@ Note:          This Schedule can be amended by the regulations
 
 The _Administrative Decisions (Judicial Review) Act 1977_ as shown in this compilation comprises Act No. 59, 1977 amended as indicated in the Tables below.
 
+The operation of the _Administrative Decisions (Judicial Review) Act 1977_ is affected by section 40 of the _Archives Act 1983_.
+
 The _Administrative Decisions (Judicial Review) Act 1977_ was amended by the Administrative Decisions (Judicial Review) Regulations (Statutory Rules 1981 No. 274). These Regulations were disallowed by the Senate on 23 March 1982.
 
 The _Administrative Decisions (Judicial Review) Act 1977_ was amended by the _Public Employment (Consequential and Transitional) Regulations 1999_ (Statutory Rules 1999 No. 301 as amended by Statutory Rules 2000 No. 332) and the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
-
-The operation of the _Administrative Decisions (Judicial Review) Act 1977_ is affected by section 40 of the _Archives Act 1983_.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -1302,7 +1302,7 @@ s. 2 and <i>Gazette</i>1980, No. S210)</div>
     <div>5 Nov 1982</div>
   </td>
   <td>
-    <div>S. 89: 22 Dec 1984 ( <i>see Gazette</i>1984, No. S539)</div>
+    <div>S. 89: 22 Dec 1984 ( <i>see Gazette</i>1984, No. S539) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1476,7 +1476,7 @@ Remainder: 12 Oct 1983 ( <i>see</i>s. 2(1))</div>
     <div>25 Oct 1984</div>
   </td>
   <td>
-    <div>Part XIV (ss. 115, 116): Royal Assent</div>
+    <div>Part XIV (ss. 115, 116): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1530,7 +1530,7 @@ Remainder: Royal Assent</div>
     <div>5 June 1985</div>
   </td>
   <td>
-    <div>S. 3: <i>(a)</i></div>
+    <div>S. 3: <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1564,7 +1564,7 @@ Remainder: Royal Assent</div>
     <div>24 June 1986</div>
   </td>
   <td>
-    <div>S. 3: Royal Assent</div>
+    <div>S. 3: Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>S. 9</div>
@@ -1637,7 +1637,7 @@ Remainder: 15 Jan 1987</div>
     <div>5 June 1987</div>
   </td>
   <td>
-    <div>S. 56: 1 July 1987 ( <i>see</i>s. 2(6) and <i>Gazette</i>1987, No. S131) <i>(e)</i></div>
+    <div>S. 56: 1 July 1987 ( <i>see Gazette</i>1987, No. S131) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1672,7 +1672,7 @@ s. 2 and <i>Gazette</i>1987, No. S351)</div>
     <div>18 Dec 1987</div>
   </td>
   <td>
-    <div>S. 3: Royal Assent</div>
+    <div>S. 3: Royal Assent <i>(f)</i></div>
   </td>
   <td>
     <div>S. 5(1)</div>
@@ -1759,7 +1759,7 @@ Remainder: 1 July 1988 ( <i>see Gazette</i>1988, No. S191)</div>
     <div>14 Dec 1988</div>
   </td>
   <td>
-    <div>Part XI (ss. 34, 35): 5 Apr 1988</div>
+    <div>Part XI (ss. 34, 35): 5 Apr 1988 <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1814,7 +1814,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>6 Dec 1988</div>
   </td>
   <td>
-    <div>S. 32: 11 May 1989 ( <i>see Gazette</i>1989, No. S164)</div>
+    <div>S. 32: 11 May 1989 ( <i>see Gazette</i>1989, No. S164) <i>(h)</i></div>
   </td>
   <td>
     <div>S. 26</div>
@@ -1831,7 +1831,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>12 Dec 1988</div>
   </td>
   <td>
-    <div>S. 3: 1 Jan 1989</div>
+    <div>S. 3: 1 Jan 1989 <i>(i)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1848,7 +1848,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
     <div>14 Dec 1988</div>
   </td>
   <td>
-    <div>S. 11: 1 July 1989 ( <i>see Gazette</i>1989, No. S210)</div>
+    <div>S. 11: 1 July 1989 ( <i>see Gazette</i>1989, No. S210) <i>(j)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1917,7 +1917,7 @@ Remainder: Royal Assent</div>
     <div>17 Dec 1989</div>
   </td>
   <td>
-    <div>S. 72: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S397)</div>
+    <div>S. 72: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S397) <i>(k)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1934,7 +1934,7 @@ Remainder: Royal Assent</div>
     <div>18 Dec 1989</div>
   </td>
   <td>
-    <div>S. 4: 19 Dec 1989 ( <i>see</i>s. 2(2))</div>
+    <div>S. 4: 19 Dec 1989 <i>(l)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1969,7 +1969,7 @@ Remainder: 1 July 1990</div>
     <div>22 Oct 1990</div>
   </td>
   <td>
-    <div>S. 17: 1 Apr 1991 ( <i>see Gazette</i>1991, No. S75)</div>
+    <div>S. 17: 1 Apr 1991 ( <i>see Gazette</i>1991, No. S75) <i>(m)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1986,7 +1986,7 @@ Remainder: 1 July 1990</div>
     <div>28 Dec 1990</div>
   </td>
   <td>
-    <div>S. 62 (in part): 17 Apr 1991 ( <i>see Gazette</i>1991, No. S72)</div>
+    <div>S. 62 (in part): 17 Apr 1991 ( <i>see Gazette</i>1991, No. S72) <i>(n)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2020,7 +2020,7 @@ Remainder: 1 July 1990</div>
     <div>24 Dec 1991</div>
   </td>
   <td>
-    <div>S. 113: 1 Mar 1992 ( <i>see Gazette</i>1992, No. GN7)</div>
+    <div>S. 113: 1 Mar 1992 ( <i>see Gazette</i>1992, No. GN7) <i>(o)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2074,7 +2074,7 @@ Remainder: Royal Assent</div>
     <div>21 Dec 1992</div>
   </td>
   <td>
-    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(b)</i></div>
+    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(p)</i></div>
   </td>
   <td>
     <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, Sch. \[item 17])</div>
@@ -2125,7 +2125,7 @@ Remainder: Royal Assent</div>
     <div>16 Dec 1993</div>
   </td>
   <td>
-    <div>Schedule (item 17): Royal Assent</div>
+    <div>Schedule (item 17): Royal Assent <i>(q)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2161,7 +2161,7 @@ Remainder: Royal Assent</div>
     <div>27 Oct 1993</div>
   </td>
   <td>
-    <div>S. 44: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334) <i>(c)</i></div>
+    <div>S. 44: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334) <i>(r)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2215,7 +2215,7 @@ Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
     <div>1 July 1995</div>
   </td>
   <td>
-    <div>S. 20: Royal AssentSchedule 10 (items 1, 2): 1 July 1995</div>
+    <div>S. 20: Royal AssentSchedule 10 (items 1, 2): 1 July 1995 <i>(s)</i></div>
   </td>
   <td>
     <div>S. 20</div>
@@ -2232,7 +2232,7 @@ Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
     <div>5 Dec 1995</div>
   </td>
   <td>
-    <div><i>(d)</i></div>
+    <div><i>(t)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2249,7 +2249,7 @@ Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
     <div>16 Dec 1995</div>
   </td>
   <td>
-    <div>Schedule (item 1): <i>(e)</i></div>
+    <div>Schedule (item 1): <i>(u)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2283,7 +2283,7 @@ Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
     <div>24 June 1996</div>
   </td>
   <td>
-    <div>1 July 1996 <i>(f)</i></div>
+    <div>1 July 1996 <i>(v)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2300,8 +2300,8 @@ Remainder: 3 June 1994 ( <i>see Gazette</i>1994, No. S209)</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 2 (items 8–13): <i>(g)</i> 
-Schedule 5 (items 7–9): Royal Assent <i>(g)</i></div>
+    <div>Schedule 2 (items 8–13): <i>(w)</i> 
+Schedule 5 (items 7–9): Royal Assent <i>(w)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2318,7 +2318,7 @@ Schedule 5 (items 7–9): Royal Assent <i>(g)</i></div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1): 16 Dec 1996 ( <i>see</i> <i>Gazette</i>1996, No. GN49)</div>
+    <div>Schedule 1 (item 1): 16 Dec 1996 ( <i>see</i> <i>Gazette</i>1996, No. GN49) <i>(x)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2335,7 +2335,7 @@ Schedule 5 (items 7–9): Royal Assent <i>(g)</i></div>
     <div>25 Nov 1996</div>
   </td>
   <td>
-    <div>Schedule 19 (item 3): Royal Assent</div>
+    <div>Schedule 19 (item 3): Royal Assent <i>(y)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2386,7 +2386,7 @@ Schedule 5 (items 7–9): Royal Assent <i>(g)</i></div>
     <div>16 Apr 1998</div>
   </td>
   <td>
-    <div>Schedule 8 (item 3): <i>(h)</i></div>
+    <div>Schedule 8 (item 3): <i>(z)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2403,7 +2403,7 @@ Schedule 5 (items 7–9): Royal Assent <i>(g)</i></div>
     <div>5 June 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): 22 Apr 2011 ( <i>see</i>F2011L00637) <i>(i)</i></div>
+    <div>Schedule 2 (item 1): 22 Apr 2011 ( <i>see</i>F2011L00637) <i>(za)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2420,7 +2420,7 @@ Schedule 5 (items 7–9): Royal Assent <i>(g)</i></div>
     <div>30 June 1997</div>
   </td>
   <td>
-    <div>Schedule 4 (item 1): 1 Nov 2000 ( <i>see Gazette</i>2000, No. S562)</div>
+    <div>Schedule 4 (item 1): 1 Nov 2000 ( <i>see Gazette</i>2000, No. S562) <i>(zb)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2437,7 +2437,7 @@ Schedule 5 (items 7–9): Royal Assent <i>(g)</i></div>
     <div>17 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): Royal Assent</div>
+    <div>Schedule 2 (item 1): Royal Assent <i>(zc)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2454,7 +2454,7 @@ Schedule 5 (items 7–9): Royal Assent <i>(g)</i></div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (item 141): 1 Jan 1998 ( <i>see</i>s. 2(2) and <i>Gazette</i>1997, No. GN49)</div>
+    <div>Schedule 2 (item 141): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(zd)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2523,7 +2523,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 50–53): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584)</div>
+    <div>Schedule 1 (items 50–53): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(ze)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2540,7 +2540,7 @@ Remainder: Royal Assent</div>
     <div>10 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1, 16): <i>(j)</i></div>
+    <div>Schedule 3 (items 1, 16): <i>(zf)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2557,7 +2557,7 @@ Remainder: Royal Assent</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 8 (items 1, 2): <i>(k)</i></div>
+    <div>Schedule 8 (items 1, 2): <i>(zg)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2591,7 +2591,7 @@ Remainder: Royal Assent</div>
     <div>21 Dec 2000</div>
   </td>
   <td>
-    <div>Schedule 7 (item 8): <i>(l)</i></div>
+    <div>Schedule 7 (item 8): <i>(zh)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2608,7 +2608,7 @@ Remainder: Royal Assent</div>
     <div>23 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 4: 23 Dec 1999 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 4: 23 Dec 1999 <i>(zi)</i></div>
   </td>
   <td>
     <div>Sch. 4 (item 72) \[ <i>see</i>Table A]</div>
@@ -2642,8 +2642,8 @@ Remainder: Royal Assent</div>
     <div>30 May 2000</div>
   </td>
   <td>
-    <div>Schedule 1 (items 3–27): 1 July 2000 ( <i>see Gazette</i>2000, No. GN25) 
-Schedule 2 (items 1–5, 16): Royal Assent</div>
+    <div>Schedule 1 (items 3–27): 1 July 2000 ( <i>see Gazette</i>2000, No. GN25) <i>(zj)</i> 
+Schedule 2 (items 1–5, 16): Royal Assent <i>(zj)</i></div>
   </td>
   <td>
     <div>Sch. 1 (item 27) and Sch. 2 (item 16) \[ <i>see</i>Table A]</div>
@@ -2677,7 +2677,7 @@ Schedule 2 (items 1–5, 16): Royal Assent</div>
     <div>21 Dec 2000</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1): Royal Assent</div>
+    <div>Schedule 1 (item 1): Royal Assent <i>(zk)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2694,7 +2694,7 @@ Schedule 2 (items 1–5, 16): Royal Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 13–15): 15 July 2001 ( <i>see</i>s. 2(3) and <i>Gazette</i>2001, No. S285)</div>
+    <div>Ss. 4–14 and Schedule 3 (items 13–15): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(zl)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -2711,7 +2711,7 @@ Schedule 2 (items 1–5, 16): Royal Assent</div>
     <div>27 Sept 2001</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1): 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42)</div>
+    <div>Schedule 1 (item 1): 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42) <i>(zm)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2764,7 +2764,7 @@ Remainder: Royal Assent</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>Schedule 2 (items 2–5, 6(2)): Royal Assent</div>
+    <div>Schedule 2 (items 2–5, 6(2)): Royal Assent <i>(zn)</i></div>
   </td>
   <td>
     <div>Sch. 2 (item 6(2)) \[ <i>see</i>Table A]</div>
@@ -2869,7 +2869,7 @@ Remainder: Royal Assent</div>
     <div>26 May 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (item 2): <i>(m)</i> 
+    <div>Schedule 1 (item 2): <i>(zo)</i> 
 Schedule 1 (items 3, 4): 27 May 2004</div>
   </td>
   <td>
@@ -2923,7 +2923,7 @@ Remainder: Royal Assent</div>
     <div>14 Dec 2004</div>
   </td>
   <td>
-    <div>Schedules 1 and 2: <i>(n)</i> 
+    <div>Schedules 1 and 2: <i>(zp)</i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3133,7 +3133,7 @@ Schedule 4 (item 25): 15 Dec 2005</div>
     <div>22 June 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): <i>(o)</i></div>
+    <div>Schedule 2 (item 1): <i>(zq)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3356,7 +3356,7 @@ Remainder: Royal Assent</div>
     <div>30 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1: <i>(p)</i></div>
+    <div>Schedule 1: <i>(zr)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3373,7 +3373,7 @@ Remainder: Royal Assent</div>
     <div>17 Oct 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (item 53): <i>(q)</i></div>
+    <div>Schedule 1 (item 53): <i>(zs)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3600,54 +3600,101 @@ Schedule 5 (items 1, 2): 19 Apr 2011</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Energy Market Amendment (National Energy Retail Law) Act 2011</div>
-  </td>
-  <td>
-    <div>119, 2011</div>
-  </td>
-  <td>
-    <div>14 Oct 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 1): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(3) of which provides as follows:
+_(a)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 89 only of the _Public Service Acts Amendment Act 1982_, subsection 2(4) of which provides as follows:
+
+                 (4)   The remaining provisions of this Act shall come into operation on such date as is, or on such respective dates as are, fixed by Proclamation.
+
+_(b)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Part XIV (sections 115 and 116) only of the _Defence Legislation Amendment Act 1984_, subsection 2(2) of which provides as follows:
+
+                 (2)   Section 1, this section and sections 16, 17, 18, 19 and 120 and Part XIV shall come into operation on the day on which this Act receives the Royal Assent.
+
+_(c)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(3) of which provides as follows:
 
                  (3)   The amendment of the _Administrative Decisions (Judicial Review) Act 1977_ made by this Act shall come into operation, or be deemed to have come into operation as the case requires, immediately after the commencement of the _Defence Force (Miscellaneous Provisions) Act 1982_.
 
  The _Defence Force (Miscellaneous Provisions) Act 1982_ came into operation on 3 July 1985.
 
-_(b)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by the Schedule (Part 2) only of the _Qantas Sale Act 1992_, paragraph 2(3)(a) of which provides as follows:
+_(d)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(e)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 56 only of the _Taxation Laws Amendment Act (No. 2) 1987_, subsection 2(6) of which provides as follows:
+
+                 (6)   Subject to subsection (7), Part VII shall come into operation on the commencement of Part VIII of the _Cheques and Payment Orders Act 1986_.
+
+_(f)_      The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(g)_     The _Family Court of Australia (Additional Jurisdiction and Exercise of Powers) Act 1988_ was amended by Part XI (sections 34 and 35) only of the _Law and Justice Legislation Amendment Act 1988_, subsection 2(6) of which provides as follows:
+
+                 (6)   Part XI shall be taken to have commenced on 5 April 1988.
+
+_(h)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 32 only of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
+
+                 (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
+
+_(i)_      The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act 1988_, subsection 2(3) of which provides as follows:
+
+                 (3)   The remaining provisions of Part III, and the amendments of the _Administrative Decisions (Judicial Review) Act 1977_, commence on 1 January 1989.
+
+_(j)_      The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 11 only of the _ANL (Conversion into Public Company) Act 1988_, subsection 2(3) of which provides as follows:
+
+                 (3)   Section 6, subsection 7(2) and sections 9 and 11 commence on a day to be fixed by Proclamation.
+
+_(k)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 72 only of the _Australian Federal Police Legislation Amendment Act (No. 2) 1989_, subsection 2(4) of which provides as follows:
+
+                 (4)   Subject to subsection (5), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
+
+_(l)_      The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 4 only of the _Migration Legislation Amendment (Consequential Amendments) Act 1989_, subsection 2(2) of which provides as follows:
+
+                 (2)   Section 4 commences on the commencement of section 4 of the _Migration Legislation Amendment Act 1989_.
+
+_(m)_    The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 17 only of the _Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990_, subsection 2(5) of which provides as follows:
+
+                 (5)   Subject to subsection (6), sections 6, 10, 13 and 17 commence on a day to be fixed by Proclamation for the purposes of this section.
+
+_(n)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 62 (in part) only of the _Commonwealth Banks Restructuring Act 1990_, subsection 2(3) of which provides as follows:
+
+                 (3)   Each of the remaining provisions of this Act commences on a day, or at a time, fixed by Proclamation in relation to the provisions concerned.
+
+_(o)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 113 only of the _Taxation Laws Amendment Act (No. 3) 1991_, subsection 2(10) of which provides as follows:
+
+               (10)   Subject to subsection (11), sections 112 to 117 (inclusive) commence on a day to be fixed by Proclamation.
+
+_(p)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by the Schedule (Part 2) only of the _Qantas Sale Act 1992_, paragraph 2(3)(a) of which provides as follows:
 
                  (3)   A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the _Gazette_ but only if:
 
                               (a)   in the case of sections 30, 31, 35, 37, 39, 43 and 50 and Parts 1 and 2 of the Schedule—the day is not earlier than the substantial minority sale day.
 
-_(c)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 44 only of the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_, subsection 2(2) of which provides as follows:
+_(q)_     The _Qantas Sale Act 1992_ was amended by the Schedule (item 17) only of the _Qantas Sale Amendment Act 1994_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(r)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by section 44 only of the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_, subsection 2(2) of which provides as follows:
 
                  (2)   Sections 5 to 36 (inclusive) and 39 to 44 (inclusive) commence on the sale day.
 
-_(d)_     The _ANL Sale Act 1995_ was repealed by section 79 of that Act before coming into operation.
+_(s)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 10 (items 1 and 2) only of the _Customs, Excise and Bounty Legislation Amendment Act 1995_, subsection 2(5) of which provides as follows:
 
-_(e)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by the Schedule (item 1) only of the _Commonwealth Bank Sale Act 1995_, subsection 2(6) of which provides as follows:
+                 (5)   Schedules 2 and 3, items 1, 26 to 45, 49 to 53 and 56 and 67 of Schedule 4, Schedule 6, items 6 to 11 of Schedule 7 and Schedules 8 and 10 commence on 1 July 1995.
+
+_(t)_      The _ANL Sale Act 1995_ was repealed by section 79 of that Act before coming into operation.
+
+_(u)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by the Schedule (item 1) only of the _Commonwealth Bank Sale Act 1995_, subsection 2(6) of which provides as follows:
 
                  (6)   Items 1 and 48 of the Schedule commence on the 10th anniversary of the day on which the transfer time occurs. 
 
  The transfer time occurred on 19 July 1996.
 
-_(f)_      Section 2 of the _Customs Tariff (Miscellaneous Amendments) Act 1996_ provides as follows:
+_(v)_     Section 2 of the _Customs Tariff (Miscellaneous Amendments) Act 1996_ provides as follows:
 
                     2   This Act commences on 1 July 1996 immediately after the commencement of the _Customs Tariff Act 1995_.
 
-_(g)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 2 (items 8–13) and Schedule 5 (items 7–9) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
+_(w)_    The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 2 (items 8–13) and Schedule 5 (items 7–9) only of the _Statute Law Revision Act 1996_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -3655,31 +3702,87 @@ _(g)_     The _Administrative Decisions (Judicial Review) Act 1977_ was 
 
  Schedule 2 (items 8–13) commenced on the day on which this Act received the Royal Assent.
 
-_(h)_ The _Income Tax (Consequential Amendments) Act 1997_ was amended by Schedule 8 (item 3) of the _Taxation Laws Amendment Act (No. 1) 1998_, subsection 2(2) of which provides as follows:
+_(x)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 1 (item 1) only of the _Bankruptcy Legislation Amendment Act 1996,_ subsection 2(2) of which provides as follows:
+
+                 (2)   Subject to subsection (3), Schedule 1 commences on a day to be fixed by Proclamation.
+
+_(y)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 19 (item 3) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(z)_ The _Income Tax (Consequential Amendments) Act 1997_ was amended by Schedule 8 (item 3) of the _Taxation Laws Amendment Act (No. 1) 1998_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedule 8 is taken to have commenced immediately before 1 July 1997.
 
-_(i)_ The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 2 (item 1) only of the _AIDC Sale Act 1997_, subsection 2(2) of which provides as follows:
+_(za)_ The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 2 (item 1) only of the _AIDC Sale Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedule 2 commences on a day to be fixed by Proclamation. The day must not be earlier than the day on which the Minister gives the Governor‑General a written certificate stating that the Minister is satisfied that the Australian Industry Development Corporation has no assets and no liabilities.
 
-_(j)_      The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 3 (items 1 and 16) only of the _Australian Security Intelligence Organisation Legislation Amendment Act 1999_, subsection 2(2) of which provides as follows:
+_(zb)_   The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 4 (item 1) only of the _Australian National Railways Commission Sale Act 1997_, subsection 2(5) of which provides as follows:
+
+                 (5)   The remaining items of Schedule 3 and Schedule 4 commence on a day to be fixed by Proclamation. The day must not be earlier than the later of the day proclaimed for the purposes of subsection (2) and the day proclaimed for the purposes of subsection (3). 
+
+_(zc)_   The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 2 (item 1) only of the _Foreign Affairs and Trade Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(zd)_   The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 2 (item 141) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+_(ze)_   The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 1 (items 50–53) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
+_(zf)_    The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 3 (items 1 and 16) only of the _Australian Security Intelligence Organisation Legislation Amendment Act 1999_, subsection 2(2) of which provides as follows:
 
                  (2)   Subject to subsections (3) to (6), Schedule 3 commences immediately after the commencement of the other Schedules to this Act.
 
          The other Schedules commenced on Royal Assent.
 
-_(k)_     The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 8 (items 1 and 2) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_, subsection 2(17) of which provides as follows:
+_(zg)_   The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 8 (items 1 and 2) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_, subsection 2(17) of which provides as follows:
 
                (17)   Schedule 8 commences immediately after the commencement of the _A New Tax System (Goods and Services Tax) Act 1999_. 
 
          The _A New Tax System (Goods and Services Tax) Act 1999_ came into operation on 1 July 2000.
 
-_(l)_ The _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_ was amended by Schedule 7 (item 8) only of the _Taxation Laws Amendment Act (No. 8) 2000_, subsection 2(4) of which provides as follows:
+_(zh)_ The _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_ was amended by Schedule 7 (item 8) only of the _Taxation Laws Amendment Act (No. 8) 2000_, subsection 2(4) of which provides as follows:
 
                  (4)   Item 8 of Schedule 7 is taken to have commenced immediately after the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_ received the Royal Assent.
 
-_(m)_ Subsection 2(1) (item 3) of the _Law and Justice Legislation Amendment Act 2004_ provides as follows:
+_(zi)_    The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 4 only of the _Federal Magistrates (Consequential Amendments) Act 1999_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the commencement of the _Federal Magistrates Act 1999_.
+
+_(zj)_    The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 1 (items 3–26) and Schedule 2 (items 1–5) only of the _Jurisdiction of Courts Legislation Amendment Act 2000_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+                 (2)   The items in Schedule 1, other than items 77 to 90, commence on a day or days to be fixed by Proclamation.
+
+_(zk)_   The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 1 (item 1) only of the _Broadcasting Services Amendment Act 2000_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(zl)_ The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 3 (items 13–15) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+
+                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
+_(zm)_ The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 1 (item 1) only of the _Financial Services Reform (Consequential Provisions) Act 2001_, subsections 2(1) and (6) of which provide as follows:
+
+                 (1)   In this section:
+
+**_FSR commencement_** means the commencement of item 1 of Schedule 1 to the _Financial Services Reform Act 2001_.
+
+                 (6)   Subject to subsections (7) to (17), the other items of Schedule 1 commence on the FSR commencement.
+
+_(zn)_ The _Administrative Decisions (Judicial Review) Act 1977_ was amended by Schedule 2 (items 2–5) only of the _Jurisdiction of the Federal Magistrates Service Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent. 
+
+_(zo)_ Subsection 2(1) (item 3) of the _Law and Justice Legislation Amendment Act 2004_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -3767,7 +3870,7 @@ _(m)_ Subsection 2(1) (item 3) of the _Law and Justice Legislation Amendment A
   </td>
 </tr></table>
 
-_(n)_ Subsection 2(1) (item 2) of the _National Security Information (Criminal Proceedings) (Consequential Amendments) Act 2004_ provides as follows:
+_(zp)_ Subsection 2(1) (item 2) of the _National Security Information (Criminal Proceedings) (Consequential Amendments) Act 2004_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -3822,7 +3925,7 @@ _(n)_ Subsection 2(1) (item 2) of the _National Security Information (Criminal
   </td>
 </tr></table>
 
-_(o)_ Subsection 2(1) (item 3) of the _Energy Legislation Amendment Act 2006_ provides as follows:
+_(zq)_ Subsection 2(1) (item 3) of the _Energy Legislation Amendment Act 2006_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -3877,7 +3980,7 @@ _(o)_ Subsection 2(1) (item 3) of the _Energy Legislation Amendment Act 2006_ 
   </td>
 </tr></table>
 
-_(p)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor Amendments) Act 2008_ provides as follows:
+_(zr)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor Amendments) Act 2008_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -3935,7 +4038,7 @@ _(p)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Min
   </td>
 </tr></table>
 
-_(q)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008_ provides as follows:
+_(zs)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -4357,24 +4460,6 @@ _(q)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
     <div>am. No. 55, 2001; No. 108, 2004; Nos. 7, 17 and 60, 2006; No. 45, 2007; No. 60, 2008; Nos. 17 and 102, 2009; Nos. 44 and 103, 2010; No. 5, 2011</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Australian Energy Market Amendment (National Energy Retail Law) Act 2011 (No. 119, 2011)_
-
-The following amendment commences on the time, or the earliest time, that the National Energy Retail Law as set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia starts to apply under an Act of a State or of the Australian Capital Territory or the Northern Territory. However, the amendment may not commence (_see_ subsection 2(1) (item 3)):
-
-## Schedule 2
-
-## 1  After paragraph 2(da) of Schedule 3
-
-Insert:
-
-                   (db)  the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time, as that Law applies as a law of South Australia;
-
-                   (dc)  if an Act of another State or of the Australian Capital Territory or the Northern Territory applies the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time, as that Law applies as a law of that other State or of that Territory—the National Energy Retail Law as so applied;
-
-As at 24 October 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
