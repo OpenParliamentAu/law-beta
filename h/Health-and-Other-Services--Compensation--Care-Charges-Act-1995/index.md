@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00460/Html/dd2cb727-59e3-4aac-8ef2-87a51b14c9b5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00387/Html/9cbe7d9c-5ceb-4559-9bc1-2c9bbb7f0f10_files/image001.gif)
 
 # Health and Other Services (Compensation) Care Charges Act 1995
 
 **Act No. 131 of 1995 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 30 May 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -118,7 +118,7 @@ Note:          So far as this section would not be a law impos
 
              (6)  Subject to subsections (7) and (8), and section 37 of the _Health and Other Services (Compensation) Act 1995_, this section does not apply if:
 
-                     (a)  the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Chief Executive Medicare; and
+                     (a)  the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Medicare Australia CEO; and
 
                      (b)  the notifiable person has complied with all the conditions of the bulk payment agreement; and
 
@@ -206,7 +206,7 @@ Note:          So far as this section would not be a law impos
 
              (6)  Subject to subsections (7) and (8), and section 37 of the _Health and Other Services (Compensation) Act 1995_, this section does not apply if:
 
-                     (a)  the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Chief Executive Medicare; and
+                     (a)  the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Medicare Australia CEO; and
 
                      (b)  the notifiable person has complied with all the conditions of the bulk payment agreement; and
 
@@ -369,7 +369,7 @@ of Assent</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 150, 151): 1 July 2011</div>
+    <div>Schedule 4 (items 150, 151): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -414,7 +414,7 @@ _(b)_     The _Health and Other Services (Compensation) Care Charges Act
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -447,9 +447,27 @@ _(b)_     The _Health and Other Services (Compensation) Care Charges Act
   </td>
   <td>
     <div>am. No. 113, 1997; No. 150, 2001; No. 84, 2003; 
- No. 111, 2005; No. 32, 2011</div>
+ No. 111, 2005</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 150  Paragraph 6(6)(a)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+## 151  Paragraph 8(6)(a)
+
+Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
+
+As at 30 May 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
