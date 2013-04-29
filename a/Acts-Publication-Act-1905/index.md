@@ -1,40 +1,40 @@
-![](http://www.comlaw.gov.au/Details/C2009C00047/Html/AmendIncorp1905_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00008/Html/AmendIncorp1905_WD02_files/image002.gif)
 
-# Amendments Incorporation Act 1905
+# Amendments Incorporation Act 1905<o:p></o:p>
 
-**Act No. 13 of 1905 as amended**
+**Act No. 13 of 1905 as amended<o:p></o:p>**
 
-This compilation was prepared on 6 January 2009
- taking into account amendments up to Act No. 135 of 2008
+This compilation was prepared on <st1:date month="1" day="1" year="2005">1 January 2005</st1:date>
+ taking into account amendments up to Act No. 140 of 2003<o:p></o:p>
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+ on that date is appended in the Notes section<o:p></o:p>
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+ affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Prepared by the Office of Legislative Drafting<span class="GramE">,</span>
+ Attorney-General’s Department, <st1:city><st1:place>Canberra</st1:place></st1:city><o:p></o:p>
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count:1 dotted">                                                                        </span>
 
-[2](#2).            Incorporation of amendments in reprints of Acts
+[2](#2).            Incorporation of amendments in reprints of Acts<span style="mso-tab-count:1 dotted">                               </span>
 
-[3](#3).            Reference to amending Act
+[3](#3).            Reference to amending Act<span style="mso-tab-count:1 dotted">                                                                  </span>
 
-[4](#4).            Incorporation of amendments in reprints of legislative instruments
+[4](#4).            Incorporation of amendments in reprints of legislative instruments<span style="mso-tab-count:1 dotted">   </span>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                              </span>** 
 
 ## An Act to incorporate Amendments in Amended Acts
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <span style="mso-bookmark: _Toc92691646"><a id="1"></a>1<span style="mso-spacerun:yes">  </span>Short</span> title <span style="font-size:9.0pt;mso-bidi-font-size: 13.0pt;font-weight:normal">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Amendments Incorporation Act 1905_. 
 
-##### <a id="2"></a>2  Incorporation of amendments in reprints of Acts
+##### <span style="mso-bookmark: _Toc92691647"><a id="2"></a>2<span style="mso-spacerun:yes">  </span>Incorporation</span> of amendments in reprints of Acts
 
              (1)  When any Act has, before or after the commencement of this Act, been amended by:
 
@@ -48,19 +48,19 @@ then in any reprint of the Act by the Government Printer the Act shall be printe
 
              (2)  In every reprint of any Act as so amended, reference shall be made in the margin, or in a footnote or endnote, to the enactment by which each relevant amendment was made.
 
-          (2A)  Subsection (2) does not apply in relation to an amendment:
+          (2A)  Subsection (2) does not apply in relation to an amendment:
 
                      (a)  deemed to have been made by the subsection for which this subsection was substituted by the _Acts Citation Act 1976_; or
 
-                     (b)  made by section 6 of that Act.
+                     (b)  made by section 6 of that Act.
 
              (3)  In this Act, **_words_** includes Part, Division, Subdivision, heading, section, subsection, paragraph, sub-paragraph, sub-sub-paragraph, clause, sub-clause and Schedule.
 
-##### <a id="3"></a>3  Reference to amending Act
+##### <span style="mso-bookmark: _Toc92691648"><a id="3"></a>3<span style="mso-spacerun:yes">  </span>Reference</span> to amending Act
 
                    There shall be printed on every reprint issued by the Government Printer of any Act which has before or after the commencement of this Act been amended a short reference to every Act by which it has been amended before a day specified in the reprint.
 
-##### <a id="4"></a>4  Incorporation of amendments in reprints of legislative instruments
+##### <span style="mso-bookmark: _Toc92691649"><a id="4"></a>4<span style="mso-spacerun:yes">  </span>Incorporation</span> of amendments in reprints of legislative instruments
 
              (1)  If the Government Printer reprints a legislative instrument that has been amended at any time, the instrument must be reprinted as amended by:
 
@@ -76,17 +76,17 @@ then in any reprint of the Act by the Government Printer the Act shall be printe
 
              (4)  In this section:
 
-                    <a name="legisl-instrum"></a>**_legislative instrument_** has the same meaning as in the _Legislative Instruments Act 2003_.
+                    <a name="instrum"></a><a name="legisl"></a>**_legislative_****_instrument_** has the same meaning as in the _Legislative Instruments Act 2003_.
 
                     <a name="word"></a>**_words_** includes Part, Division, Subdivision, heading, regulation, clause, subregulation, subclause, paragraph, subparagraph, sub-subparagraph and Schedule.
 
-# Notes to the _Amendments Incorporation Act 1905_
+# Notes to the _<span style="mso-no-proof:yes">Amendments Incorporation Act 1905</span>_
 
 ### Note 1
 
-The _Amendments Incorporation Act 1905_ as shown in this compilation comprises Act No. 13, 1905 amended as indicated in the Tables below.
+The _Amendments Incorporation Act 1905_ as shown in this compilation comprises Act No. 13, 1905 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 17 December 2003 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to <st1:date month="12" day="17" year="2003">17  December 2003</st1:date> is not included in this compilation. For subsequent information _see_ Table A.<o:p></o:p>
 
 ### Table of Acts
 
@@ -102,21 +102,21 @@ All relevant information pertaining to application, saving or transitional provi
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year</div>
+and year <o:p></o:p> </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent <o:p></o:p> </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
@@ -128,13 +128,13 @@ of Assent</div>
     <div>13, 1905</div>
   </td>
   <td>
-    <div>23 Nov 1905</div>
+    <div><st1:date year="1905" day="23" month="11">23 Nov 1905</st1:date></div>
   </td>
   <td>
-    <div>23 Nov 1905</div>
+    <div><st1:date year="1905" day="23" month="11">23 Nov 1905</st1:date></div>
   </td>
   <td>
-    <div></div>
+    <div><o:p> </o:p></div>
   </td>
 </tr>
 <tr>
@@ -145,10 +145,10 @@ of Assent</div>
     <div>32, 1918</div>
   </td>
   <td>
-    <div>11 Dec 1918</div>
+    <div><st1:date year="1918" day="11" month="12">11 Dec 1918</st1:date></div>
   </td>
   <td>
-    <div>11 Dec 1918</div>
+    <div><st1:date year="1918" day="11" month="12">11 Dec 1918</st1:date></div>
   </td>
   <td>
     <div>—</div>
@@ -162,10 +162,10 @@ of Assent</div>
     <div>216, 1973</div>
   </td>
   <td>
-    <div>19 Dec 1973</div>
+    <div><st1:date year="1973" day="19" month="12">19 Dec 1973</st1:date></div>
   </td>
   <td>
-    <div>31 Dec 1973</div>
+    <div><st1:date year="1973" day="31" month="12">31 Dec 1973</st1:date></div>
   </td>
   <td>
     <div>Ss. 9(1) and 10</div>
@@ -179,10 +179,10 @@ of Assent</div>
     <div>37, 1976</div>
   </td>
   <td>
-    <div>26 May 1976</div>
+    <div>26 May 1976</div>
   </td>
   <td>
-    <div>1 July 1976</div>
+    <div><st1:date year="1976" day="1" month="7">1 July 1976</st1:date></div>
   </td>
   <td>
     <div>Ss. 5(2) and 6</div>
@@ -196,10 +196,10 @@ of Assent</div>
     <div>2, 1980</div>
   </td>
   <td>
-    <div>1 Mar 1980</div>
+    <div><st1:date year="1980" day="1" month="3">1 Mar 1980</st1:date></div>
   </td>
   <td>
-    <div>1 Jan 1980</div>
+    <div><st1:date year="1980" day="1" month="1">1 Jan 1980</st1:date></div>
   </td>
   <td>
     <div>—</div>
@@ -207,16 +207,16 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
   </td>
   <td>
     <div>39, 1983</div>
   </td>
   <td>
-    <div>20 June 1983</div>
+    <div><st1:date year="1983" day="20" month="6">20 June 1983</st1:date></div>
   </td>
   <td>
-    <div>S. 3: 18 July 1983 <i>(a)</i></div>
+    <div>S. 3: <st1:date year="1983" day="18" month="7">18 July 1983</st1:date> <i style="mso-bidi-font-style:normal">(a)</i></div>
   </td>
   <td>
     <div>S. 7(1)</div>
@@ -224,16 +224,16 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
+    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
   </td>
   <td>
     <div>193, 1985</div>
   </td>
   <td>
-    <div>16 Dec 1985</div>
+    <div><st1:date year="1985" day="16" month="12">16 Dec 1985</st1:date></div>
   </td>
   <td>
-    <div>S. 3: <i>(b)</i></div>
+    <div>S. 3: <i style="mso-bidi-font-style:normal">(b)</i></div>
   </td>
   <td>
     <div>S. 16</div>
@@ -247,44 +247,29 @@ of Assent</div>
     <div>140, 2003</div>
   </td>
   <td>
-    <div>17 Dec 2003</div>
+    <div><st1:date month="12" day="17" year="2003">17 Dec 2003</st1:date></div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (item 9): <i>(c)</i></div>
+    <div>S. 4 and Schedule 1 (item 9): <i style="mso-bidi-font-style: normal">(c)</i> <o:p></o:p></div>
   </td>
   <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Evidence Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>135, 2008</div>
-  </td>
-  <td>
-    <div>4 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1–5): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>S. 4 \[ <i style="mso-bidi-font-style:normal">see</i>Table A] <o:p></o:p></div>
   </td>
 </tr></table>
 
-_(a)_     The _Amendments Incorporation Act 1905_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
+_(a)_     The _Amendments Incorporation Act 1905_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_    The _Amendments Incorporation Act 1905_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(1) of which provides as follows:
+_(b)_    The _Amendments Incorporation Act 1905_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent. 
 
-_(c)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:
+_(c)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:<o:p></o:p>
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<o:p> </o:p>
 
 <table>
 <colgroup>
@@ -297,41 +282,55 @@ _(c)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
   <tr>
     <td colspan="3">
       <div>
-        <b>Commencement information</b>
+        <b style="mso-bidi-font-weight: normal">Commencement information
+          <o:p></o:p>
+        </b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>Column 1</b>
+        <b style="mso-bidi-font-weight: normal">Column 1
+          <o:p></o:p>
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Column 2</b>
+        <b style="mso-bidi-font-weight: normal">Column 2
+          <o:p></o:p>
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Column 3</b>
+        <b style="mso-bidi-font-weight: normal">Column 3
+          <o:p></o:p>
+        </b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>Provision(s)</b>
+        <b style="mso-bidi-font-weight: normal">Provision(s)
+          <o:p></o:p>
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Commencement</b>
+        <b style="mso-bidi-font-weight: normal">Commencement
+          <o:p></o:p>
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Date/Details</b>
+        <b style="mso-bidi-font-weight: normal">Date/Details
+          <o:p></o:p>
+        </b>
       </div>
     </td>
   </tr>
@@ -340,41 +339,51 @@ _(c)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
   <td>
     <div>
       2.
-       Sections 4 and 5
+
+        <span style="mso-spacerun:yes"> </span>Sections 4 and 5
     </div>
   </td>
   <td>
     <div>
-      Immediately after the commencement of sections 3 to 62 of the
-        <i>Legislative Instruments Act 2003</i>
+      Immediately after the commencement of sections 3 to 62 of the
+        <i style="mso-bidi-font-style: normal">Legislative Instruments Act 2003</i>
+        <o:p></o:p>
 
     </div>
   </td>
   <td>
     <div>
-      1 January 2005
+      <st1:date month="1" day="1" year="2005">
+        1 January 2005
+      </st1:date>
     </div>
   </td>
 </tr>
 <tr>
   <td>
     <div>
-      3\. Schedule 1
+      3.
+        <span style="mso-spacerun:yes"></span>Schedule 1
     </div>
   </td>
   <td>
     <div>
-      Immediately after the commencement of sections 3 to 62 of the
-        <i>Legislative Instruments Act 2003</i>
+      Immediately after the commencement of sections 3 to 62 of the
+        <i style="mso-bidi-font-style: normal">Legislative Instruments Act 2003</i>
+        <o:p></o:p>
 
     </div>
   </td>
   <td>
     <div>
-      1 January 2005
+      <st1:date month="1" day="1" year="2005">
+        1 January 2005
+      </st1:date>
     </div>
   </td>
 </tr></table>
+
+<o:p> </o:p>
 
 ## Table of Amendments
 
@@ -387,188 +396,50 @@ _(c)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended    rep. = repealed   rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>S. 2</div>
+    <div>S. 2 </div>
   </td>
   <td>
-    <div>am. No. 32, 1918; No. 216, 1973; No. 37, 1976; No. 2, 1980; No. 39, 1983; No. 193, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 193, 1985</div>
+    <div>am. No. 32, 1918; No. 216, 1973; No. 37, 1976; No. 2, 1980; No. 39, 1983; No. 193, 1985</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 4</div>
+    <div>S. 3 </div>
   </td>
   <td>
-    <div>ad. No. 140, 2003</div>
+    <div>am. No. 193, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4 </div>
+  </td>
+  <td>
+    <div>ad. No. 140, 2003</div>
   </td>
 </tr></table>
 
-### Note 2
+## Table A<o:p></o:p>
 
-_Evidence Amendment Act 2008 (No. 135, 2008)_
+### Application, saving or transitional provisions<o:p></o:p>
 
-The following amendments commence on 4 December 2009 unless proclaimed earlier:
+_Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003 (No. 140, 2003)<o:p></o:p>_
 
-## Schedule 3
-
-## 1  Title
-
-Repeal the title, substitute:
-
-## An Act relating to the publication of Acts in printed and electronic form
-
-## 2  Section 1
-
-Repeal the section, substitute:
-
-## Part 1—Preliminary
-
-##### <a id="1"></a>1  Short title
-
-                   This Act may be cited as the _Acts Publication Act 1905_.
-
-##### <a id="1A"></a>1A  Definitions
-
-                   In this Act:
-
-                    <a name="act-databas"></a>**_Acts database_** means an electronic database declared under section 4.
-
-                    <a name="compil"></a>**_compilation_**, of an Act that has been amended (whether by another Act or by a legislative instrument) with effect from a particular day, means the Act as so amended and in force on that day.
-
-                    <a name="legisl-instrum"></a>**_legislative instrument_** has the same meaning as in the _Legislative Instruments Act 2003_.
-
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
-
-## Part 2—Printed publication of Acts
-
-_Note:       This item amends the short title of the Act. If another amendment of the Act is described by reference to the Act’s previous short title, that other amendment has effect after the commencement of this item as an amendment of the Act under its amended short title (see section 10 of the Acts Interpretation Act 1901)._
-
-## 3  Subsection 2(2)
-
-After “enactment”, insert “(or legislative instrument)”.
-
-## 4  Section 3
-
-After “every Act”, insert “(and legislative instrument, if any)”.
-
-## 5  Section 4
-
-Repeal the section, substitute:
-
-## Part 3—Electronic publication of Acts
-
-##### <a id="4"></a>4  Acts database
-
-             (1)  The Secretary may cause to be maintained an electronic database of:
-
-                     (a)  Acts as assented to; and
-
-                     (b)  compilations of Acts.
-
-             (2)  The Secretary may, in writing, declare a database maintained under this section to be an Acts database for the purposes of this Act.
-
-             (3)  The Secretary must cause steps to be taken to ensure that Acts and compilations of Acts in an Acts database are available to the public.
-
-             (4)  A declaration made under subsection (2):
-
-                     (a)  is not a legislative instrument; and
-
-                     (b)  must be published in the _Gazette_.
-
-##### <a id="5"></a>5  Effect of inclusion in an Acts database
-
-             (1)  An Act in an Acts database is presumed, unless the contrary is proved, to be a complete and accurate record of the Act as assented to.
-
-             (2)  A compilation of an Act in an Acts database is presumed, unless the contrary is proved, to be a complete and accurate record of the Act as amended and in force on the day specified in the compilation.
-
-             (3)  In any proceedings, proof is not required about the provisions and coming into operation (in whole or in part) of an Act as it appears in an Acts database.
-
-             (4)  A court or tribunal may inform itself about those matters in any way it thinks fit.
-
-##### <a id="6"></a>6  Documents in an Acts database
-
-                   A document that purports to be an extract from an Acts database is presumed, unless the contrary is proved, to be what it purports to be.
-
-##### <a id="7"></a>7  How an Acts database must be kept
-
-             (1)  The regulations may prescribe matters relating to how an Acts database must be kept, including the following:
-
-                     (a)  the way information may be recorded in an Acts database;
-
-                     (b)  the way information recorded in an Acts database may be altered;
-
-                     (c)  a system of unique identifiers for each Act and compilation in an Acts database, and the way in which they are to be recorded in Acts and compilations.
-
-             (2)  A compilation in an Acts database of an Act (the **_principal Act_**) must include the following information:
-
-                     (a)  a reference to the amending legislation by which each amendment was made to the principal Act;
-
-                     (b)  the amending history of each provision in the principal Act as amended by all amending legislation covered by the compilation;
-
-                     (c)  the day the compilation was prepared;
-
-                     (d)  any other information required by the regulations.
-
-##### <a id="8"></a>8  Rectification of an Acts database
-
-             (1)  The Secretary must arrange for an Acts database to be altered to rectify an error as soon as possible after the Secretary becomes aware of the error, if the Secretary is satisfied that the error has the result that:
-
-                     (a)  for an error concerning an Act—the electronic text of the Act as it appears in the database does not represent the text of the Act as assented to; or
-
-                     (b)  for an error concerning a compilation of an Act—the electronic text of the compilation as it appears in the database does not represent the state of the law that the text purports to represent.
-
-             (2)  The Secretary must arrange for the Acts database (as rectified) to be annotated to explain:
-
-                     (a)  the nature, day and time of the rectification; and
-
-                     (b)  the reason for the rectification.
-
-             (3)  An alteration of an Acts database under this section:
-
-                     (a)  does not affect any right or privilege that was acquired, or that accrued, because of reliance on the content of the database before the alteration was made; and
-
-                     (b)  does not impose or increase any obligation or liability that was incurred before the alteration was made.
-
-## Part 4—Miscellaneous
-
-##### <a id="9"></a>9  Regulations
-
-                   The Governor-General may make regulations prescribing matters:
-
-                     (a)  required or permitted by this Act to be prescribed; or
-
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
-As at 6 January 2009 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003 (No. 140, 2003)_
-
-##### <a id="4"></a>4  Transitional provisions
+##### <span style="mso-bookmark:_Toc92691651"><a id="4"></a>4<span style="mso-spacerun:yes">  </span>Transitional</span> provisions
 
              (1)  If legislation introduced into the Parliament before the commencing day but commencing on or after that day:
 
@@ -582,9 +453,9 @@ any instrument so made is taken to be an instrument referred to in paragraph 6(b
 
                      (a)  authorises an instrument to be made in the exercise of a power delegated by the Parliament; and
 
-                     (b)  is expressed to declare that instrument to be a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_;
+                     (b)  is expressed to declare that instrument to be a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_;
 
-any instrument so made is taken to be an instrument referred to in subparagraph 6(d)(i) of the _Legislative Instruments Act 2003_ despite the repeal by this Act of section 46A of the _Acts Interpretation Act 1901_.
+any instrument so made is taken to be an instrument referred to in subparagraph 6(d)(i) of the _Legislative Instruments Act 2003_ despite the repeal by this Act of section 46A of the _Acts Interpretation Act 1901_.
 
              (3)  If legislation that is in force immediately before the commencing day or that is introduced into the Parliament before that day but that commences on or after that day:
 
@@ -600,7 +471,7 @@ that legislation is to be construed, on and after the commencing day or the day 
 
                               (i)  authorises the making of an instrument; and
 
-                             (ii)  does not declare such an instrument to be a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_ but nonetheless makes provision for its disallowance by the application, with or without modification, of the provisions of Part XII of that Act; and
+                             (ii)  does not declare such an instrument to be a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_ but nonetheless makes provision for its disallowance by the application, with or without modification, of the provisions of Part XII of that Act; and
 
                      (b)  an instrument is made in the exercise of that authority on or after the commencing day; and
 
@@ -608,14 +479,12 @@ that legislation is to be construed, on and after the commencing day or the day 
 
 the enabling legislation has effect, on and after the commencing day, as if:
 
-                     (d)  it had declared such instruments to be disallowable instruments for the purposes of section 46B of the _Acts Interpretation Act 1901_; and
+                     (d)  it had declared such instruments to be disallowable instruments for the purposes of section 46B of the _Acts Interpretation Act 1901_; and
 
-                     (e)  it had provided for such modifications of the operation of that section as are necessary to ensure that the effect of the applied provisions of Part XII of the _Acts Interpretation Act 1901_ is preserved.
+                     (e)  it had provided for such modifications of the operation of that section as are necessary to ensure that the effect of the applied provisions of Part XII of the _Acts Interpretation Act 1901_ is preserved.
 
              (5)  In this section:
 
-                    <a name="commenc-dai"></a>**_commencing day_** means the commencing day within the meaning of the _Legislative Instruments Act 2003._
+                    <a name="dai"></a><a name="commenc"></a>**_commencing_****_day_** means the commencing day within the meaning of the _Legislative Instruments Act 2003._<o:p></o:p>
 
- 
-
- 
+<o:p> </o:p>
