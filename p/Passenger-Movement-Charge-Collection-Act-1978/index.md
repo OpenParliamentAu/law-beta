@@ -1,9 +1,8 @@
 
 Passenger Movement Charge Collection Act 1978
 Act No. 119 of 1978 as amended 
-This compilation was prepared on 21 October 2002 taking into account amendments up to Act No. 82 of 2002
+This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 24 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -22,7 +21,7 @@ Contents
 10	Special arrangements for payment of passenger movement charge	8
 11	Charge stamps and exemption stamps	8
 12	Recovery of passenger movement charge	9
-13	Averment	10
+13	Averment	9
 14	Delegation	10
 15	Regulations	10
 Notes		13
@@ -102,12 +101,11 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of crimina
 	(g)	is a positioning crew member; or
 	(h)	is a transit passenger; or
 	(i)	is an emergency passenger; or
-	(j)	is in the course of a journey that has involved a previous departure by the person from Australia by ship in respect of which the person paid the charge; or
+	(j)	is in the course of a journey that has involved a previous departure by the person from Australia in respect of which the person paid the charge; or
 	(k)	does not have to pay the charge because of the operation of:
 	(i)	the Consular Privileges and Immunities Act 1972; or
 	(ii)	the Diplomatic Privileges and Immunities Act 1967; or
 	(iii)	the International Organisations (Privileges and Immunities) Act 1963; or
-	(iv)	the Overseas Missions (Privileges and Immunities) Act 1995; or
 	(l)	is a passenger whose departure from Australia is undertaken for the purpose of travelling to Area A of the Zone of Cooperation in connection with the prospecting for petroleum or the undertaking of petroleum operations.
 6  Liability to pay passenger movement charge
 	(1)	Charge in respect of the departure of a person from Australia is payable by the person before the departure.
@@ -228,7 +226,7 @@ Ss. 1 and 2: Royal Assent Part 3 (ss. 36, 37): 19 June 1990 S. 27: 1 July 19
 Territories Law Reform Act 1992
 104, 1992
 30 June 1992
-Ss. 3–8, 11–18, 20, 23 and 24: 1 July 1992 Ss. 9, 10, 19, 21 and 22: 29 June 1993 (see Gazette 1993, No. S196) Remainder: Royal Assent
+Ss. 3‑8, 11‑18, 20, 23 and 24: 1 July 1992 Ss. 9, 10, 19, 21 and 22: 29 June 1993 (see Gazette 1993, No. S196) Remainder: Royal Assent
 —
 Migration Legislation Amendment Act 1994
 60, 1994
@@ -248,23 +246,18 @@ S. 3 (item 10)
 Timor Gap Treaty (Transitional Arrangements) Act 2000
 25, 2000
 3 Apr 2000
-Ss. 4–6 and Schedule 2  (items 38, 39): (c)
+Ss. 4-6 and Schedule 2  (items 38, 39): (c)
 Ss. 4-6  [see Table A]
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 137, 2000
 24 Nov 2000
-Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent Remainder: 24 May 2001
+Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
 Sch. 2 (items 418, 419) [see Table A]
 Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
 24, 2001
 6 Apr 2001
 S. 4(1), (2) and Schedule 39: (d)
 S. 4(1), (2) [see Table A]
-Customs Legislation Amendment Act (No. 1) 2002
-82, 2002
-10 Oct 2002
-Schedule 6: Royal Assent
-—
 (a)	The Passenger Movement Charge Collection Act 1978 was amended by section 99 only of the Civil Aviation Act 1988, subsection 2(2) of which provides as follows:
 	(2)	Part III, section 98 and Part X, and the amendments made by Part IX, commence on a day or days to be fixed by Proclamation.
 (b)	The Passenger Movement Charge Collection Act 1978 was amended by section 85 only of the Migration Legislation Amendment Act 1994, subsection 2(3) of which provides as follows:
@@ -292,8 +285,6 @@ S. 5
 am. No. 132, 1981; No. 59, 1989; Nos. 60 and 159, 1994
 
 rs. No. 65, 1995
-
-am. No. 82, 2002
 S. 6	
 am. No. 159, 1994; No. 24, 2001
 S. 7	
