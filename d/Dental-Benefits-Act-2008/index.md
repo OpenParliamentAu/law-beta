@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00741/Html/cf8001ce-472a-4258-a090-9812cee18445_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00454/Html/194271aa-61db-4fd9-8d07-7c127a9a29e9_files/image001.gif)
 
 # Dental Benefits Act 2008
 
 **Act No. 41 of 2008 as amended**
 
-This compilation was prepared on 13 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1624,17 +1624,15 @@ Note:          The expressions **_SES employee_** and **_actin
 
 The _Dental Benefits Act 2008_ as shown in this compilation comprises Act No. 41, 2008 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
 <colgroup>
   <col width="29%">
-  <col width="17%">
-  <col width="17%">
-  <col width="19%">
-  <col width="17%">
+  <col width="18%">
+  <col width="18%">
+  <col width="20%">
+  <col width="16%">
 </colgroup>
 
 <thead>
@@ -1691,31 +1689,14 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 530, 531) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1957,41 +1938,5 @@ of Assent</div>
     <div>am. No. 32, 2011</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 530  Subsection 41(1) (note)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-## 531  Subsection 66(1) (note)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-As at 13 September 2011 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
