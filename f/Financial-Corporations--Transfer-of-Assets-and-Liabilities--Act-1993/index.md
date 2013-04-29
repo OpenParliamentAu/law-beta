@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00745/Html/75fbfc94-e5dc-46ef-96a2-4185211ae534_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00531/Html/FinCorTraOfAssAndLiaAct1993_WD02_image001.gif)
 
 # Financial Corporations (Transfer of Assets and Liabilities) Act 1993
 
 **Act No. 97 of 1993 as amended**
 
-This compilation was prepared on 20 December 2006
- taking into account amendments up to Act No. 168 of 2006
+This compilation was prepared on 25 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -68,9 +68,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4—Capital gains and capital losses**
 
-[18](#18).          Additional roll‑over relief
+[18](#18).          Additional roll-over relief
 
-[19](#19).          For the receiving corporation, asset is taxable Australian property
+[19](#19).          For the receiving corporation, asset has necessary connection with Australia
 
     **Division 5—Trading stock**
 
@@ -98,6 +98,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+ 
+
 ## An Act making provision relating to the transfer of assets and liabilities from and to certain financial corporations
 
 ## Part 1—Preliminary
@@ -116,7 +118,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    In this Part, unless the contrary intention appears:
 
-                    <a name="adi"></a>**_ADI_** (authorised deposit‑taking institution) means a body corporate that is an ADI for the purposes of the _Banking Act 1959_.
+                    <a name="adi"></a>**_ADI_** (authorised deposit-taking institution) means a body corporate that is an ADI for the purposes of the _Banking Act 1959_.
 
                     <a name="adi-author"></a>**_ADI authority_** means an authority under subsection 9(3) of the _Banking Act 1959_.
 
@@ -196,7 +198,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    If a financial corporation is proposing to transfer, or transfers, an asset or liability to another financial corporation, then, for the purposes of this Act;
 
-                     (a)  the first‑mentioned corporation is the **_transferring corporation_**; and
+                     (a)  the first-mentioned corporation is the **_transferring corporation_**; and
 
                      (b)  the other corporation is the **_receiving corporation_**;
 
@@ -248,7 +250,7 @@ this Act applies in relation to the transfer.
 
                      (a)  an eligible money market corporation is a subsidiary of a foreign corporation; and
 
-                     (b)  the eligible money market corporation or one of its eligible subsidiaries (if any) is proposing to transfer, or transfers, an asset or liability to a newly established local ADI that is a wholly‑owned subsidiary (within the meaning of the _Corporations Act 2001_) of the foreign corporation;
+                     (b)  the eligible money market corporation or one of its eligible subsidiaries (if any) is proposing to transfer, or transfers, an asset or liability to a newly established local ADI that is a wholly-owned subsidiary (within the meaning of the _Corporations Act 2001_) of the foreign corporation;
 
 this Act applies in relation to the transfer.
 
@@ -344,11 +346,11 @@ Object
 
                      (b)  the effect of the relevant provisions on the income tax position of the receiving corporation is worked out by reference to income tax attributes of the head company, including ones it has because of the following provisions of the _Income Tax Assessment Act 1997_:
 
-                              (i)  section 701‑1 (the **_single entity rule_**);
+                              (i)  section 701-1 (the **_single entity rule_**);
 
-                             (ii)  section 701‑5 (the **_entry history rule_**);
+                             (ii)  section 701-5 (the **_entry history rule_**);
 
-                            (iii)  section 701‑10 (the **_head company tax cost setting rule_**).
+                            (iii)  section 701-10 (the **_head company tax cost setting rule_**).
 
 Note 1:       The single entity rule has the effect that a subsidiary member of a consolidated group or MEC group is taken to be part of the head company.
 
@@ -396,23 +398,23 @@ Tax treatment of transferring corporation
 
              (1)  In determining:
 
-                     (a)  whether an amount is included in the assessable income of the transferring corporation under section 25A, 26BB, 26C or 159GS of the _Income Tax Assessment Act 1936_ or section 6‑5, 15‑15 or 775‑15 of the _Income Tax Assessment Act 1997_; or
+                     (a)  whether an amount is included in the assessable income of the transferring corporation under section 25A, 26BB, 26C or 159GS of the _Income Tax Assessment Act 1936_ or section 6-5, 15-15 or 775-15 of the _Income Tax Assessment Act 1997_; or
 
-                     (b)  whether an amount is allowable as a deduction to the transferring corporation under section 52, 70B or 159GS of the _Income Tax Assessment Act 1936_ or section 8‑1 or 775‑30 of the _Income Tax Assessment Act 1997_;
+                     (b)  whether an amount is allowable as a deduction to the transferring corporation under section 52, 70B or 159GS of the _Income Tax Assessment Act 1936_ or section 8-1 or 775-30 of the _Income Tax Assessment Act 1997_;
 
 in respect of a transfer of an asset, the transferring corporation is to be treated as if the transfer had not occurred.
 
 Receiving corporation not entitled to a deduction for expenditure incurred in acquiring asset
 
-             (2)  A deduction is not allowable to the receiving corporation under section 8‑1 of the _Income Tax Assessment Act 1997_ in respect of expenditure incurred in the acquisition of an asset as the result of a transfer. However, this subsection does not apply to the acquisition of trading stock.
+             (2)  A deduction is not allowable to the receiving corporation under section 8-1 of the _Income Tax Assessment Act 1997_ in respect of expenditure incurred in the acquisition of an asset as the result of a transfer. However, this subsection does not apply to the acquisition of trading stock.
 
 Receiving corporation to inherit transferring corporation’s cost base
 
              (3)  If an asset is transferred, then, in determining:
 
-                     (a)  whether an amount is included in the assessable income of the receiving corporation under section 25A, 26BB, 26C or Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 6‑5, 15‑15 or 775‑15 of the _Income Tax Assessment Act 1997_; or
+                     (a)  whether an amount is included in the assessable income of the receiving corporation under section 25A, 26BB, 26C or Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 6-5, 15-15 or 775-15 of the _Income Tax Assessment Act 1997_; or
 
-                     (b)  whether an amount is allowable as a deduction to the receiving corporation under section 52, 70B or Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 8‑1 or 775‑30 of the _Income Tax Assessment Act 1997_;
+                     (b)  whether an amount is allowable as a deduction to the receiving corporation under section 52, 70B or Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 8-1 or 775-30 of the _Income Tax Assessment Act 1997_;
 
 in respect of the holding, or any subsequent disposal, of the asset, the receiving corporation is to be treated as if it had acquired the asset for an amount equal to what would have been the asset’s cost base to the transferring corporation for the purposes of working out under the _Income Tax Assessment Act 1997_ whether the transferring corporation made a capital gain from the transfer.
 
@@ -424,23 +426,23 @@ Tax treatment of transferring corporation
 
              (1)  In determining:
 
-                     (a)  whether an amount is included in the assessable income of the transferring corporation under section 6‑5 or 775‑15 of the _Income Tax Assessment Act 1997_; or
+                     (a)  whether an amount is included in the assessable income of the transferring corporation under section 6-5 or 775-15 of the _Income Tax Assessment Act 1997_; or
 
-                     (b)  whether an amount is allowable as a deduction to the transferring corporation under section 8‑1 or 775‑30 of the _Income Tax Assessment Act 1997_;
+                     (b)  whether an amount is allowable as a deduction to the transferring corporation under section 8-1 or 775-30 of the _Income Tax Assessment Act 1997_;
 
 in respect of a transfer of a liability, the transferring corporation is to be treated as if the transfer had not occurred.
 
 Receiving corporation not assessable in respect of assumption of liability
 
-             (2)  An amount is not to be included in the assessable income of the receiving corporation under section 6‑5 or 775‑15 of the _Income Tax Assessment Act 1997_ in respect of the assumption of the liability as a result of the transfer.
+             (2)  An amount is not to be included in the assessable income of the receiving corporation under section 6-5 or 775-15 of the _Income Tax Assessment Act 1997_ in respect of the assumption of the liability as a result of the transfer.
 
 Assumption of liability by receiving corporation
 
              (3)  If a liability is transferred, then, in determining:
 
-                     (a)  whether an amount is included in the assessable income of the receiving corporation under Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 6‑5 or 775‑15 of the _Income Tax Assessment Act 1997_; or
+                     (a)  whether an amount is included in the assessable income of the receiving corporation under Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 6-5 or 775-15 of the _Income Tax Assessment Act 1997_; or
 
-                     (b)  whether an amount is allowable as a deduction to the receiving corporation under Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 8‑1 or 775‑30 of the _Income Tax Assessment Act 1997_;
+                     (b)  whether an amount is allowable as a deduction to the receiving corporation under Division 16E of Part III of the _Income Tax Assessment Act 1936_ or section 8-1 or 775-30 of the _Income Tax Assessment Act 1997_;
 
 in respect of the subsistence, or any subsequent transfer, of the liability, the receiving corporation is to be treated as if:
 
@@ -462,9 +464,9 @@ Adjustment where security is transferred
 
                      (b)  either:
 
-                              (i)  one or more amounts (other than periodic interest) are or were included in the transferring corporation’s assessable income under former section 25, or under Division 16E of Part III, of the _Income Tax Assessment Act 1936_ or under section 6‑5 of the _Income Tax Assessment Act 1997_ in respect of the security; or
+                              (i)  one or more amounts (other than periodic interest) are or were included in the transferring corporation’s assessable income under former section 25, or under Division 16E of Part III, of the _Income Tax Assessment Act 1936_ or under section 6-5 of the _Income Tax Assessment Act 1997_ in respect of the security; or
 
-                             (ii)  one or more amounts (other than periodic interest) are or were allowable as deductions to the transferring corporation under former section 51, or under Division 16E of Part III, of the _Income Tax Assessment Act 1936_ or under section 8‑1 of the _Income Tax Assessment Act 1997_ in respect of the security;
+                             (ii)  one or more amounts (other than periodic interest) are or were allowable as deductions to the transferring corporation under former section 51, or under Division 16E of Part III, of the _Income Tax Assessment Act 1936_ or under section 8-1 of the _Income Tax Assessment Act 1997_ in respect of the security;
 
 those Acts have effect as if the amount that, apart from this subsection, would have been the consideration paid or given by the receiving corporation in respect of the acquisition of the security as the result of the transfer were:
 
@@ -478,7 +480,7 @@ Adjustment where liability under security is transferred
 
                      (a)  a liability under a security is transferred; and
 
-                     (b)  one or more amounts (other than periodic interest) are or were allowable as deductions to the transferring corporation under former section 51, or under Division 16E of Part III, of the _Income Tax Assessment Act 1936_ or under section 8‑1 of the _Income Tax Assessment Act 1997_ in respect of the security;
+                     (b)  one or more amounts (other than periodic interest) are or were allowable as deductions to the transferring corporation under former section 51, or under Division 16E of Part III, of the _Income Tax Assessment Act 1936_ or under section 8-1 of the _Income Tax Assessment Act 1997_ in respect of the security;
 
 those Acts have effect as if the amount that, apart from this subsection, would have been the consideration paid or given to the receiving corporation in respect of the assumption of the liability as the result of the transfer were increased by the amount, or the sum of the amounts, covered by paragraph (b).
 
@@ -492,23 +494,23 @@ Definitions
 
 ### Division 4—Capital gains and capital losses
 
-##### <a id="18"></a>18  Additional roll‑over relief
+##### <a id="18"></a>18  Additional roll-over relief
 
-                   There is a roll‑over under Subdivision 126‑B of the _Income Tax Assessment Act 1997_ (which normally applies only to certain transfers between companies in the same wholly‑owned group) if:
+                   There is a roll-over under Subdivision 126-B of the _Income Tax Assessment Act 1997_ (which normally applies only to certain transfers between companies in the same wholly-owned group) if:
 
                      (a)  the trigger event is a transfer to which this Act applies; and
 
                      (b)  the requirements of that Subdivision are met, disregarding:
 
-                              (i)  subsections 126‑50(1), (5), (6), (7), (8) and (9) of that Act; and
+                              (i)  subsections 126-50(1), (5), (6), (7), (8) and (9) of that Act; and
 
-                             (ii)  section 126‑55 of that Act.
+                             (ii)  section 126-55 of that Act.
 
 This is in addition to that Subdivision’s effect apart from this section.
 
-##### <a id="19"></a>19  For the receiving corporation, asset is taxable Australian property
+##### <a id="19"></a>19  For the receiving corporation, asset has necessary connection with Australia
 
-                   Parts 3‑1 and 3‑3 of the _Income Tax Assessment Act 1997_ apply to an asset acquired by the receiving corporation as a result of a transfer as if the asset is, while it is an asset of the receiving corporation, taxable Australian property.
+                   Parts 3-1 and 3-3 of the _Income Tax Assessment Act 1997_ apply to an asset acquired by the receiving corporation as a result of a transfer as if the asset had, while it is an asset of the receiving corporation, the necessary connection with Australia.
 
 ### Division 5—Trading stock
 
@@ -524,17 +526,17 @@ Trading stock on hand at beginning of year of income
 
 then:
 
-                     (c)  section 70‑35 of the _Income Tax Assessment Act 1997_ has effect as if the trading stock were not on hand at the beginning of the year of income; and
+                     (c)  section 70-35 of the _Income Tax Assessment Act 1997_ has effect as if the trading stock were not on hand at the beginning of the year of income; and
 
-                     (d)  section 8‑1 of the _Income Tax Assessment Act 1997_ has effect as if:
+                     (d)  section 8-1 of the _Income Tax Assessment Act 1997_ has effect as if:
 
                               (i)  the receiving corporation had incurred expenditure in the acquisition of the trading stock; and
 
-                             (ii)  the amount of that expenditure were equal to the value of the trading stock as at the end of the immediately preceding year of income of the transferring corporation (being the value that applies for the purposes of section 70‑45 of the _Income Tax Assessment Act 1997_); and
+                             (ii)  the amount of that expenditure were equal to the value of the trading stock as at the end of the immediately preceding year of income of the transferring corporation (being the value that applies for the purposes of section 70-45 of the _Income Tax Assessment Act 1997_); and
 
                             (iii)  that expenditure had been so incurred immediately after the transfer; and
 
-                     (e)  sections 70‑90 and 70‑95 of the _Income Tax Assessment Act 1997_ do not apply in relation to the transfer of the trading stock.
+                     (e)  sections 70-90 and 70-95 of the _Income Tax Assessment Act 1997_ do not apply in relation to the transfer of the trading stock.
 
 Trading stock not on hand at beginning of year of income
 
@@ -548,7 +550,7 @@ then:
 
                      (c)  a deduction is not allowable under the _Income Tax Assessment Act 1997_ to the transferring corporation in respect of expenditure incurred in the acquisition of the trading stock; and
 
-                     (d)  section 8‑1 of the _Income Tax Assessment Act 1997_ has effect as if:
+                     (d)  section 8-1 of the _Income Tax Assessment Act 1997_ has effect as if:
 
                               (i)  the receiving corporation had incurred expenditure in the acquisition of the trading stock; and
 
@@ -556,7 +558,7 @@ then:
 
                             (iii)  that expenditure had been so incurred immediately after the transfer; and
 
-                     (e)  sections 70‑90 and 70‑95 of the _Income Tax Assessment Act 1997_ do not apply in relation to the transfer of the trading stock.
+                     (e)  sections 70-90 and 70-95 of the _Income Tax Assessment Act 1997_ do not apply in relation to the transfer of the trading stock.
 
 ### Division 6—Bad debts
 
@@ -566,7 +568,7 @@ General
 
              (1)  In relation to a transfer of a debt, these rules about deductions for bad debts have effect as shown in the table:
 
-                     (a)  section 25‑35 of the _Income Tax Assessment Act 1997_;
+                     (a)  section 25-35 of the _Income Tax Assessment Act 1997_;
 
                      (b)  subsection 63(1A) of the _Income Tax Assessment Act 1936_.
 
@@ -635,7 +637,7 @@ General
 
 Modification of tests for receiving corporation to deduct bad debt
 
-             (2)  In relation to a transfer of a debt, Subdivisions 165‑C, 166‑C, 175‑C, 709‑D and 719‑I of the _Income Tax Assessment Act 1997_ have effect as if the debt had been incurred at the time of the transfer.
+             (2)  In relation to a transfer of a debt, Subdivisions 165-C, 166-C, 175-C, 709-D and 719-I of the _Income Tax Assessment Act 1997_ have effect as if the debt had been incurred at the time of the transfer.
 
 Note:          Those Subdivisions are about companies deducting bad debts.
 
@@ -649,7 +651,7 @@ Easing of restrictions on transferring corporation
 
                      (c)  the debt year is the income year in which this section (as originally enacted) commenced or an earlier income year; and
 
-                     (d)  any one or more of Subdivisions 165‑C, 175‑C, 709‑D and 719‑I of the _Income Tax Assessment Act 1997_ prevent the transferring corporation from deducting an amount for the debt for an income year (the **_deduction year_**); and
+                     (d)  any one or more of Subdivisions 165-C, 175-C, 709-D and 719-I of the _Income Tax Assessment Act 1997_ prevent the transferring corporation from deducting an amount for the debt for an income year (the **_deduction year_**); and
 
                      (e)  the transferring corporation did not, at any time in the deduction year, derive income from:
 
@@ -661,31 +663,31 @@ Easing of restrictions on transferring corporation
 
 none of those Subdivisions prevents the transferring corporation from deducting that amount.
 
-Note:          Subdivision 165‑C of the _Income Tax Assessment Act 1997_ is about the conditions that a company needs to satisfy before it can deduct a bad debt.
+Note:          Subdivision 165-C of the _Income Tax Assessment Act 1997_ is about the conditions that a company needs to satisfy before it can deduct a bad debt.
 
-                   Subdivision 175‑C of that Act is about the Commissioner preventing a company from getting certain tax benefits through its unused bad debts.
+                   Subdivision 175-C of that Act is about the Commissioner preventing a company from getting certain tax benefits through its unused bad debts.
 
-                   Subdivision 709‑D of that Act is about the conditions that must be met for an entity to deduct a bad debt that has for a period been owed to a member of a consolidated group and has for another period been owed to an entity that was not a member of that group for the period.
+                   Subdivision 709-D of that Act is about the conditions that must be met for an entity to deduct a bad debt that has for a period been owed to a member of a consolidated group and has for another period been owed to an entity that was not a member of that group for the period.
 
-                   Subdivision 719‑I of that Act is about the conditions that must be met for an entity to deduct a bad debt that has for a period been owed to a member of a MEC group.
+                   Subdivision 719-I of that Act is about the conditions that must be met for an entity to deduct a bad debt that has for a period been owed to a member of a MEC group.
 
-Limit on deductions for partly written‑off debt
+Limit on deductions for partly written-off debt
 
-             (4)  If this Act applies to the transfer of a debt that has been partly written off, the maximum that the receiving corporation can deduct for the debt for one or more years of income under section 8‑1 or 25‑35 of the _Income Tax Assessment Act 1997_ is worked out using the formula:
+             (4)  If this Act applies to the transfer of a debt that has been partly written off, the maximum that the receiving corporation can deduct for the debt for one or more years of income under section 8-1 or 25-35 of the _Income Tax Assessment Act 1997_ is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00745/Html/75fbfc94-e5dc-46ef-96a2-4185211ae534_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00531/Html/FinCorTraOfAssAndLiaAct1993_WD02_image002.gif)
 
 where:
 
                     <a name="unrecouped-duction"></a>**_unrecouped deductions_** means the total of the amounts that the transferring corporation has deducted or can deduct for any year of income under:
 
-                     (a)  section 8‑1 or 25‑35 of the _Income Tax Assessment Act 1997_; or
+                     (a)  section 8-1 or 25-35 of the _Income Tax Assessment Act 1997_; or
 
                      (b)  section 63 or former section 51 of the _Income Tax Assessment Act 1936_;
 
 reduced by the total of any amounts included in its assessable income in respect of the debt under:
 
-                     (c)  Subdivision 20‑A of the _Income Tax Assessment Act 1997_; or
+                     (c)  Subdivision 20-A of the _Income Tax Assessment Act 1997_; or
 
                      (d)  former subsection 63(3) of the _Income Tax Assessment Act 1936_.
 
@@ -711,7 +713,7 @@ reduced by the total of any amounts included in its assessable income in respect
 
 ##### <a id="26A"></a>26A  Application of this Subdivision
 
-                   This Subdivision applies to assessments for the 1997‑98 income year or a later income year.
+                   This Subdivision applies to assessments for the 1997-98 income year or a later income year.
 
 ##### <a id="26C"></a>26C  Deduction for tax loss—easing of restrictions on transferring corporation
 
@@ -719,11 +721,11 @@ reduced by the total of any amounts included in its assessable income in respect
 
                      (a)  this Act applies to one or more transfers by the transferring corporation to the receiving corporation; and
 
-                     (b)  the transferring corporation is taken (otherwise than because of a transfer of a tax loss under former section 80G of the _Income Tax Assessment Act 1936_ or under Subdivision 170‑A of the _Income Tax Assessment Act 1997_) to have incurred a tax loss for a year of income (the **_loss year_**); and
+                     (b)  the transferring corporation is taken (otherwise than because of a transfer of a tax loss under former section 80G of the _Income Tax Assessment Act 1936_ or under Subdivision 170-A of the _Income Tax Assessment Act 1997_) to have incurred a tax loss for a year of income (the **_loss year_**); and
 
                      (c)  the loss year is the income year in which former section 26 of this Act commenced or an earlier income year; and
 
-                     (d)  Subdivision 165‑A or 175‑A, or both, of the _Income Tax Assessment Act 1997_ prevent the transferring corporation from deducting an amount of that tax loss for an income year (the **_deduction year_**); and
+                     (d)  Subdivision 165-A or 175-A, or both, of the _Income Tax Assessment Act 1997_ prevent the transferring corporation from deducting an amount of that tax loss for an income year (the **_deduction year_**); and
 
                      (e)  the transferring corporation did not, at any time in the deduction year, derive income from:
 
@@ -733,33 +735,33 @@ reduced by the total of any amounts included in its assessable income in respect
 
                             before the transfer, or the earliest of the transfers, occurred;
 
-neither Subdivision 165‑A nor 175‑A of that Act prevents the transferring corporation from deducting that amount.
+neither Subdivision 165-A nor 175-A of that Act prevents the transferring corporation from deducting that amount.
 
-Note:          Subdivision 165‑A of the _Income Tax Assessment Act 1997_ is about the conditions that a company needs to satisfy before it can deduct a tax loss from an earlier income year.
+Note:          Subdivision 165-A of the _Income Tax Assessment Act 1997_ is about the conditions that a company needs to satisfy before it can deduct a tax loss from an earlier income year.
 
-                   Subdivision 175‑A of the _Income Tax Assessment Act 1997_ is about the Commissioner preventing a company from getting certain tax benefits through its unused tax losses.
+                   Subdivision 175-A of the _Income Tax Assessment Act 1997_ is about the Commissioner preventing a company from getting certain tax benefits through its unused tax losses.
 
              (2)  Subsection (1) operates on the basis described in subsection (3) if:
 
-                     (a)  the head company of a consolidated group or MEC group incurred a tax loss because of Subdivision 707‑A of the _Income Tax Assessment Act 1997_; and
+                     (a)  the head company of a consolidated group or MEC group incurred a tax loss because of Subdivision 707-A of the _Income Tax Assessment Act 1997_; and
 
-                     (b)  the company (the **_real loss‑maker_**) that incurred the tax loss apart from that Subdivision is a member of the group in the deduction year; and
+                     (b)  the company (the **_real loss-maker_**) that incurred the tax loss apart from that Subdivision is a member of the group in the deduction year; and
 
-                     (c)  disregarding section 701‑1 (the single entity rule) of that Act, this Act applies to one or more transfers by the real loss‑maker to the receiving corporation.
+                     (c)  disregarding section 701-1 (the single entity rule) of that Act, this Act applies to one or more transfers by the real loss-maker to the receiving corporation.
 
-Note:          In certain cases, Subdivision 707‑A of the _Income Tax Assessment Act 1997_ treats the head company of a consolidated group or MEC as incurring a tax loss actually incurred by an entity that becomes a member of the group.
+Note:          In certain cases, Subdivision 707-A of the _Income Tax Assessment Act 1997_ treats the head company of a consolidated group or MEC as incurring a tax loss actually incurred by an entity that becomes a member of the group.
 
              (3)  Subsection (1) operates as if:
 
                      (a)  the head company were the transferring corporation in relation to each transfer described in paragraph (1)(a) and this Act applied to each of those transfers; and
 
-                     (b)  the head company incurred the tax loss for the income year for which the real loss‑maker incurred it (apart from Subdivision 707‑A of the _Income Tax Assessment Act 1997_); and
+                     (b)  the head company incurred the tax loss for the income year for which the real loss-maker incurred it (apart from Subdivision 707-A of the _Income Tax Assessment Act 1997_); and
 
-                     (c)  each reference in that subsection to Subdivision 165‑A of that Act were a reference to that Subdivision as its operation is affected by Subdivision 707‑B of that Act, and by Subdivision 719‑F of that Act (if relevant).
+                     (c)  each reference in that subsection to Subdivision 165-A of that Act were a reference to that Subdivision as its operation is affected by Subdivision 707-B of that Act, and by Subdivision 719-F of that Act (if relevant).
 
-Note 1:       Subdivision 707‑B of the _Income Tax Assessment Act 1997_ affects the operation of Subdivision 165‑A of that Act in relation to the deduction of a tax loss incurred by the head company of a consolidated group or MEC group because of Subdivision 707‑A of that Act.
+Note 1:       Subdivision 707-B of the _Income Tax Assessment Act 1997_ affects the operation of Subdivision 165-A of that Act in relation to the deduction of a tax loss incurred by the head company of a consolidated group or MEC group because of Subdivision 707-A of that Act.
 
-Note 2:       Subdivision 719‑F of the _Income Tax Assessment Act 1997_ affects the operation of Subdivision 165‑A of that Act in relation to the deduction of a tax loss incurred by the head company of a MEC group because of Subdivision 707‑A of that Act.
+Note 2:       Subdivision 719-F of the _Income Tax Assessment Act 1997_ affects the operation of Subdivision 165-A of that Act in relation to the deduction of a tax loss incurred by the head company of a MEC group because of Subdivision 707-A of that Act.
 
              (4)  An expression used in this section and in the _Income Tax Assessment Act 1997_ has the same meaning in this section as it has in that Act. This subsection does not apply to the expressions **_deduction year_**, **_loss year_**, **_this Act_** and **_transfer_**.
 
@@ -1163,7 +1165,7 @@ Remainder: Royal Assent</div>
     <div>17 Dec 2003</div>
   </td>
   <td>
-    <div>Sch. 4 (item 77(3))</div>
+    <div>Sch. 4 (item 77(3))</div>
   </td>
 </tr>
 <tr>
@@ -1177,10 +1179,10 @@ Remainder: Royal Assent</div>
     <div>25 June 2004</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 1, 65, 66): Royal Assent</div>
+    <div>Schedule 2 (items 1, 65, 66): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 2 (items 1, 66)</div>
+    <div>Sch. 2 (items 1, 66)</div>
   </td>
 </tr>
 <tr>
@@ -1197,7 +1199,7 @@ Remainder: Royal Assent</div>
     <div>21 Mar 2005</div>
   </td>
   <td>
-    <div>Sch. 3 (item 47(3))</div>
+    <div>Sch. 3 (item 47(3))</div>
   </td>
 </tr>
 <tr>
@@ -1211,10 +1213,10 @@ Remainder: Royal Assent</div>
     <div>19 Dec 2005</div>
   </td>
   <td colspan="2">
-    <div>Schedule 3 (items 4–7): Royal Assent</div>
+    <div>Schedule 3 (items 4–7): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 3 (item 33)</div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
@@ -1228,28 +1230,11 @@ Remainder: Royal Assent</div>
     <div>14 Sept 2006</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 50–79) and Schedule 6 (items 1, 6–11): Royal Assent</div>
+    <div>Schedule 2 (items 50–79) and Schedule 6 (items 1, 6–11): 
+Royal Assent</div>
   </td>
   <td>
     <div>Sch. 6 (items 1, 6–11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2006 Measures No. 4) Act 2006</div>
-  </td>
-  <td>
-    <div>168, 2006</div>
-  </td>
-  <td colspan="2">
-    <div>12 Dec 2006</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 3 (items 3–5):13 Dec 2005 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -1683,26 +1668,10 @@ _(m)_ Subsection 2(1) (item 13) of the _New Business Tax System (Consolidation
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 19</div>
-  </td>
-  <td>
-    <div>am. No. 168, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 19</div>
   </td>
   <td>
     <div>rs. No. 46, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 168, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1837,14 +1806,6 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 26</div>
   </td>
   <td>
@@ -1854,6 +1815,14 @@ rep. No. 101, 2006</div>
 <tr>
   <td>
     <div></div>
+  </td>
+  <td>
+    <div>rep. No. 101, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25</div>
   </td>
   <td>
     <div>rep. No. 101, 2006</div>
@@ -1957,7 +1926,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑1</div>
+    <div>S. 170-1</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -1973,7 +1942,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑5</div>
+    <div>S. 170-5</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -1997,7 +1966,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑10</div>
+    <div>S. 170-10</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2013,7 +1982,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑15</div>
+    <div>S. 170-15</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2029,7 +1998,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑20</div>
+    <div>S. 170-20</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2045,7 +2014,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑23</div>
+    <div>S. 170-23</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2061,7 +2030,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑25</div>
+    <div>S. 170-25</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2085,7 +2054,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑28</div>
+    <div>S. 170-28</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2101,7 +2070,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑32</div>
+    <div>S. 170-32</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2117,7 +2086,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑33</div>
+    <div>S. 170-33</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2141,7 +2110,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑35</div>
+    <div>S. 170-35</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2157,7 +2126,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑50</div>
+    <div>S. 170-50</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2173,7 +2142,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑55</div>
+    <div>S. 170-55</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2189,7 +2158,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑60</div>
+    <div>S. 170-60</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2205,7 +2174,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑65</div>
+    <div>S. 170-65</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2221,7 +2190,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑70</div>
+    <div>S. 170-70</div>
   </td>
   <td>
     <div>ad. No. 39, 1997</div>
@@ -2237,7 +2206,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑75</div>
+    <div>S. 170-75</div>
   </td>
   <td>
     <div>ad. No. 16, 2003</div>
@@ -2309,7 +2278,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑110</div>
+    <div>S. 170-110</div>
   </td>
   <td>
     <div>ad. No. 46, 1998</div>
@@ -2325,7 +2294,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑115</div>
+    <div>S. 170-115</div>
   </td>
   <td>
     <div>ad. No. 46, 1998</div>
@@ -2341,7 +2310,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑120</div>
+    <div>S. 170-120</div>
   </td>
   <td>
     <div>ad. No. 46, 1998</div>
@@ -2357,7 +2326,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 170‑125</div>
+    <div>Heading to s. 170-125</div>
   </td>
   <td>
     <div>am. No. 169, 1999</div>
@@ -2373,7 +2342,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑125</div>
+    <div>S. 170-125</div>
   </td>
   <td>
     <div>ad. No. 46, 1998</div>
@@ -2397,7 +2366,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑128</div>
+    <div>S. 170-128</div>
   </td>
   <td>
     <div>ad. No. 46, 1998</div>
@@ -2413,7 +2382,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑132</div>
+    <div>S. 170-132</div>
   </td>
   <td>
     <div>ad. No. 46, 1998</div>
@@ -2429,7 +2398,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑133</div>
+    <div>S. 170-133</div>
   </td>
   <td>
     <div>ad. No. 46, 1998</div>
@@ -2453,7 +2422,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑135</div>
+    <div>S. 170-135</div>
   </td>
   <td>
     <div>ad. No. 46, 1998</div>
@@ -2469,7 +2438,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑140</div>
+    <div>S. 170-140</div>
   </td>
   <td>
     <div>ad. No. 46, 1998</div>
@@ -2485,7 +2454,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑145</div>
+    <div>S. 170-145</div>
   </td>
   <td>
     <div>ad. No. 46, 1998</div>
@@ -2533,7 +2502,7 @@ rep. No. 101, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>S. 170‑175</div>
+    <div>S. 170-175</div>
   </td>
   <td>
     <div>ad. No. 16, 2003</div>
@@ -2560,11 +2529,11 @@ Section 170 of the _Income Tax Assessment Act 1936_ does not prevent the amend
 
 ## Schedule 5
 
-## 15  Application of amendments to post‑1995 debentures
+## 15  Application of amendments to post-1995 debentures
 
 The amendments made by this Part apply in respect of a debenture issued on or after 1 January 1996.
 
-## 16  Transitional—continued application of old law to pre‑commencement debentures
+## 16  Transitional—continued application of old law to pre-commencement debentures
 
 Without limiting item 15, if:
 
@@ -2584,15 +2553,15 @@ Without limiting item 15, if:
 
 ## 4  Application of amendments
 
-An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997‑98 income year and later income years, unless otherwise indicated in that Schedule.
+An amendment made by an item in a Schedule (except Schedule 1) applies to assessments for the 1997-98 income year and later income years, unless otherwise indicated in that Schedule.
 
 ## Schedule 5
 
 ## 99  Application of amendments
 
-             (1)  The amendments of section 21 of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ apply in relation to years of income after the 1996‑97 year of income.
+             (1)  The amendments of section 21 of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ apply in relation to years of income after the 1996-97 year of income.
 
-             (2)  However, the amendments of paragraphs 21(1)(e) and (2)(e) apply in relation to years of income after the 1995‑96 year of income.
+             (2)  However, the amendments of paragraphs 21(1)(e) and (2)(e) apply in relation to years of income after the 1995-96 year of income.
 
 * * *
 
@@ -2602,7 +2571,7 @@ An amendment made by an item in a Schedule (except Schedule 1) applies to asse
 
 ## 2  Application of amendment
 
-The amendment made by item 1 applies to assessments for the 1997‑98 year of income and later years of income.
+The amendment made by item 1 applies to assessments for the 1997-98 year of income and later years of income.
 
 * * *
 
@@ -2610,19 +2579,19 @@ The amendment made by item 1 applies to assessments for the 1997‑98 year of 
 
 ## 4  Application of amendments
 
-An amendment made by an item in a Schedule (except an item in Schedule 1 or in Part 1 of any of Schedules 2 to 8) applies to assessments for the 1998‑99 income year and later income years, unless otherwise indicated in the Schedule in which the item appears.
+An amendment made by an item in a Schedule (except an item in Schedule 1 or in Part 1 of any of Schedules 2 to 8) applies to assessments for the 1998-99 income year and later income years, unless otherwise indicated in the Schedule in which the item appears.
 
 ## Schedule 2
 
 ## 545  Application
 
-The amendment made by item 541 applies to a transfer in the 1998‑99 income year or a later income year.
+The amendment made by item 541 applies to a transfer in the 1998-99 income year or a later income year.
 
 ## Schedule 3
 
 ## 24  Application
 
-The amendment made by item 23 applies to assessments for the 1997‑98 year of income and later years of income.
+The amendment made by item 23 applies to assessments for the 1997-98 year of income and later years of income.
 
 * * *
 
@@ -2640,7 +2609,7 @@ In this Part:
 
 **_Imposition Act_** means any of the following Acts:
 
-                     (a)  the _Authorised Non‑operating Holding Companies Supervisory Levy Imposition Act 1998_; 
+                     (a)  the _Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998_; 
 
                      (b)  the _General Insurance Supervisory Levy Imposition Act 1998_; 
 
@@ -2654,7 +2623,7 @@ In this Part:
 
 **_Validation Act_** means any of the following Acts:
 
-                     (a)  the _Authorised Non‑operating Holding Companies Supervisory Levy Determination Validation Act 2000_;
+                     (a)  the _Authorised Non-operating Holding Companies Supervisory Levy Determination Validation Act 2000_;
 
                      (b)  the _General Insurance Supervisory Levy Determination Validation Act 2000_;
 
@@ -2666,13 +2635,13 @@ In this Part:
 
 ## 2  Deferral of date for paying levy
 
-(1)       This item applies to a levy paying entity if, because of section 4 of a Validation Act:
+(1)        This item applies to a levy paying entity if, because of section 4 of a Validation Act:
 
                      (a)  the entity is liable to pay levy imposed by an Imposition Act; and
 
                      (b)  the levy payable by the entity would, apart from this item, have been due and payable under section 9 of the Collection Act before the deferred payment day.
 
-(2)       The levy payable by the entity is taken to be due and payable on the deferred payment day, despite section 9 of the Collection Act.
+(2)        The levy payable by the entity is taken to be due and payable on the deferred payment day, despite section 9 of the Collection Act.
 
 _Note:       This provision affects the calculation of late payment penalty (if any) under section 10 of the Collection Act._
 
@@ -2689,9 +2658,9 @@ _New Business Tax System (Consolidation and Other Measures) Act 2003
 
 ## 8  Application
 
-(1)       The amendments of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ made by this Schedule apply to assessments for the income year including 1 July 2002 and later income years.
+(1)        The amendments of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ made by this Schedule apply to assessments for the income year including 1 July 2002 and later income years.
 
-(2)       In this item:
+(2)        In this item:
 
 **_income year_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
@@ -2714,11 +2683,11 @@ In this Schedule:
 
 ## 2  APRA’s corporate existence is continued
 
-(1)       The body corporate that was, immediately before the commencement of the amendments, the Australian Prudential Regulation Authority (**_APRA_**) continues in existence after that commencement by force of this item under the corporate structure provided for by the amended Act.
+(1)        The body corporate that was, immediately before the commencement of the amendments, the Australian Prudential Regulation Authority (**_APRA_**) continues in existence after that commencement by force of this item under the corporate structure provided for by the amended Act.
 
 _Note:       Rights, liabilities and obligations as between APRA and other people, and things done by or on behalf of APRA, or in relation to APRA, are therefore not affected by the restructure of APRA._
 
-(2)       However, this does not imply that any person who, immediately before the commencement of the amendments, was a member of APRA’s Board, or was APRA’s Chief Executive Officer, continues to hold office after that commencement.
+(2)        However, this does not imply that any person who, immediately before the commencement of the amendments, was a member of APRA’s Board, or was APRA’s Chief Executive Officer, continues to hold office after that commencement.
 
 _Note:       These people cease to hold office on the commencement of the amendments because of the repeal of the provisions under which they were appointed._
 
@@ -2730,11 +2699,11 @@ _Note:       The reference to a member of APRA’s Board covers APRA
 
 ## 4  Continued effect of certain delegations
 
-(1)       A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
+(1)        A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
 
-(2)       A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
+(2)        A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
 
-(3)       A delegation to one or more members of APRA’s Board in force, immediately before the commencement of the amendments, under a provision amended by Schedule 2 continues to have effect after that commencement as if it were a delegation under the amended provision to any APRA member.
+(3)        A delegation to one or more members of APRA’s Board in force, immediately before the commencement of the amendments, under a provision amended by Schedule 2 continues to have effect after that commencement as if it were a delegation under the amended provision to any APRA member.
 
 _Note:       Delegations in favour of APRA, or APRA staff members, are not affected by the Schedule 2 amendments._
 
@@ -2748,15 +2717,15 @@ An approval in force, immediately before the commencement of the amendments, und
 
 ## 7  Continued or extended effect of certain regulations
 
-(1)       Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of **_Act covered by this section_** in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of **_prudential regulation framework law_** in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
+(1)        Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of **_Act covered by this section_** in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of **_prudential regulation framework law_** in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
 
-(2)       Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
+(2)        Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
 
 ## 8  Delegations by ASIC to APRA staff members
 
-(1)       Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
+(1)        Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
 
-(2)       For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
+(2)        For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
 
 * * *
 
@@ -2766,7 +2735,7 @@ _New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003
 
 ## 77  Transitional—Division 3B of Part III of the _Income Tax Assessment Act 1936_
 
-(3)       Despite the amendments made by this Schedule that omit references to sections 82Y and 82Z of the _Income Tax Assessment Act 1936_ from sections 15 and 16 of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_, sections 15 and 16 of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ continue to apply, in relation to the former sections 82Y and 82Z of the _Income Tax Assessment Act 1936_, as if those amendments had not been made.
+(3)        Despite the amendments made by this Schedule that omit references to sections 82Y and 82Z of the _Income Tax Assessment Act 1936_ from sections 15 and 16 of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_, sections 15 and 16 of the _Financial Corporations (Transfer of Assets and Liabilities) Act 1993_ continue to apply, in relation to the former sections 82Y and 82Z of the _Income Tax Assessment Act 1936_, as if those amendments had not been made.
 
 * * *
 
@@ -2790,21 +2759,11 @@ _New International Tax Arrangements (Managed Funds and Other Measures) Act 2005 
 
 ## 47  Application
 
-(3)       The amendment made by Part 3 of this Schedule applies to debentures or debt interests that:
+(3)        The amendment made by Part 3 of this Schedule applies to debentures or debt interests that:
 
                      (a)  are issued after 18 June 1993; and
 
                      (b)  are transferred on or after the Assent day.
-
-* * *
-
-_Tax Laws Amendment (2005 Measures No. 5) Act 2005 (No. 162, 2005)_
-
-## Schedule 3
-
-## 33  Application
-
-The amendments made by this Schedule apply on and after 1 July 2002.
 
 * * *
 
@@ -2817,7 +2776,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -2843,17 +2802,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
