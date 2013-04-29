@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2006C00390/Html/99E95F659D47995ACA2571A2000190D4/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00241/Html/BB6037D019841750CA25716A00164FCB/$FILE/image001.gif)
 
 # Bankruptcy (Estate Charges) Act 1997
 
 **Act No. 12 of 1997 as amended**
 
-This compilation was prepared on 4 July 2006
+This compilation was prepared on 9 May 2006
 taking into account amendments up to Act No. 34 of 2006
 
 The text of any of those amendments not in force
@@ -20,35 +20,35 @@ Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement                                                               1
 
-[3](#3).            Act to bind the Commonwealth Crown
+[3](#3).            Act to bind the Commonwealth Crown                                              1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       1
 
 **Part 2—Interest charge**
 
-[5](#5).            Interest charge
+[5](#5).            Interest charge                                                                                      2
 
 **Part 3—Realisations charge**
 
-[6](#6).            Realisations charge
+[6](#6).            Realisations charge                                                                               3
 
-[6A](#6A).         Charge not payable on estate surplus
+[6A](#6A).         Charge not payable on estate surplus                                                  3
 
-[7](#7).            Amount of charge payable
+[7](#7).            Amount of charge payable                                                                   4
 
-[7A](#7A).         Certain amounts treated as being received by person
+[7A](#7A).         Certain amounts treated as being received by person                          4
 
-[8](#8).            Working out the amount on which charge is payable
+[8](#8).            Working out the amount on which charge is payable                          4
 
 **Part 4—Miscellaneous**
 
-[9](#9).            Regulations
+[9](#9).            Regulations                                                                                          6
 
 **Notes** 
 
@@ -75,7 +75,7 @@ Canberra
 
              (1)  In this Act:
 
-                    <a name="charg-period"></a>**_charge period_** means a financial year.
+                    <a name="charg-period"></a>**_charge period_** means a period of 6 months commencing on 1 January or 1 July.
 
              (2)  Unless the contrary intention appears, other expressions used in this Act have the same meanings as in the _Bankruptcy Act 1966_.
 
@@ -121,7 +121,7 @@ Canberra
 
              (3)  The charge is payable within 35 days after the end of the charge period.
 
-##### <a id="6A"></a>6A  Charge not payable on estate surplus
+##### <a id="6A"></a>6A  Charge not payable on estate surplus
 
              (1)  If:
 
@@ -141,11 +141,13 @@ then the following amounts are not taken into account in determining the amount 
 
 ##### <a id="7"></a>7  Amount of charge payable
 
-             (1)  The amount of charge payable for a charge period is the percentage, determined by the Minister by legislative instrument, of the amount on which charge is payable for the period.
+             (1)  The amount of charge payable for a charge period is an amount equal to:
 
-             (2)  The Minister may make a legislative instrument determining the percentage.
+                     (a)  8% of the amount on which charge is payable for the period; or
 
-             (3)  The percentage determined must not be more than 15%.
+                     (b)  if a different percentage is prescribed by the regulations—the prescribed percentage of the amount on which charge is payable for the period.
+
+             (2)  The Governor-General may make regulations prescribing a rate for the purposes of paragraph (1)(b). The rate prescribed must not be higher than 15%.
 
 ##### <a id="7A"></a>7A  Certain amounts treated as being received by person
 
@@ -184,7 +186,7 @@ then the following amounts are not taken into account in determining the amount 
 
 ### Note 1
 
-The _Bankruptcy (Estate Charges) Act 1997_ as shown in this compilation comprises Act No. 12, 1997 amended as indicated in the Tables below.
+The _Bankruptcy (Estate Charges) Act 1997_ as shown in this compilation comprises Act No. 12, 1977 amended as indicated in the Tables below.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
@@ -344,7 +346,7 @@ Remainder: Royal Assent
       <div>3 May 2006</div>
     </td>
     <td>
-      <div>Schedule 2: 1 July 2006</div>
+      <div>Schedule 2: \[ <i>see</i>Note 2 and Table A]</div>
     </td>
     <td>
       <div>Sch. 2 (item 3)</div>
@@ -462,7 +464,7 @@ _(b)_ Subsection 2(1) (items 2 and 4) of the _Bankruptcy (Estate Charges) Amen
       <div>S. 4</div>
     </td>
     <td>
-      <div>am. No. 158, 2001; No. 34, 2006</div>
+      <div>am. No. 158, 2001</div>
     </td>
   </tr>
   <tr>
@@ -511,14 +513,6 @@ _(b)_ Subsection 2(1) (items 2 and 4) of the _Bankruptcy (Estate Charges) Amen
     </td>
     <td>
       <div>am. No. 61, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>rs. No. 34, 2006</div>
     </td>
   </tr>
   <tr>
@@ -586,6 +580,35 @@ _(b)_ Subsection 2(1) (items 2 and 4) of the _Bankruptcy (Estate Charges) Amen
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Bankruptcy Legislation Amendment (Fees and Charges) Act 2006 
+(No. 34, 2006)
+_
+
+The following amendments commence on 1 July 2006:
+
+## Schedule 2
+
+## 1  Subsection 4(1) (definition of _charge period_)
+
+Omit “period of 6 months commencing on 1 January or 1 July”, substitute “financial year”.
+
+## 2  Section 7
+
+Repeal the section, substitute:
+
+##### <a id="7"></a>7  Amount of charge payable
+
+             (1)  The amount of charge payable for a charge period is the percentage, determined by the Minister by legislative instrument, of the amount on which charge is payable for the period.
+
+             (2)  The Minister may make a legislative instrument determining the percentage.
+
+             (3)  The percentage determined must not be more than 15%.
+
+As at 9 May 2006 the amendments are not incorporated in this compilation.
 
 
 ## Table A
@@ -709,6 +732,8 @@ as if those amendments had not been made.
 _Bankruptcy Legislation Amendment (Fees and Charges) Act 2006 
 (No. 34, 2006)
 _
+
+The following provision commences on 1 July 2006:
 
 ## Schedule 2
 
