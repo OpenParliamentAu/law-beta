@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00265/Html/MedicareAustraliaAct1973_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00069/Html/MedicareAustraliaAct1973_WD02_image001.gif)
 
 # Medicare Australia Act 1973
 
 **Act No. 41 of 1974 as amended**
 
-This compilation was prepared on 4 July 2008
- taking into account amendments up to Act No. 42 of 2008
+This compilation was prepared on 1 March 2008
+ taking into account amendments up to Act No. 88 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -19,161 +19,161 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Definitions                                                                                           1
+[3](#3).            Definitions
 
-[3A](#3A).         Definitions of relevant offence                                                            3
+[3A](#3A).         Definitions of relevant offence
 
-[3B](#3B).         Application of the _Criminal Code_                                                       5
+[3B](#3B).         Application of the _Criminal Code_
 
 **Part II—Establishment of Medicare Australia**
 
-[4](#4).            Establishment of Medicare Australia                                                  6
+[4](#4).            Establishment of Medicare Australia
 
-[4A](#4A).         Function of Medicare Australia                                                           6
+[4A](#4A).         Function of Medicare Australia
 
 **Part IIA—The Chief Executive Officer** 
 
     **Division 1—Powers and functions of Chief Executive Officer**
 
-[5](#5).            Functions of Chief Executive Officer                                                  7
+[5](#5).            Functions of Chief Executive Officer
 
-[6](#6).            Chief Executive Officer’s medicare functions                                      7
+[6](#6).            Chief Executive Officer’s medicare functions
 
-[7](#7).            Chief Executive Officer’s service delivery functions                           7
+[7](#7).            Chief Executive Officer’s service delivery functions
 
-[7A](#7A).         Agreements about exercise and performance of Chief Executive Officer’s powers and functions          8
+[7A](#7A).         Agreements about exercise and performance of Chief Executive Officer’s powers and functions
 
-[8](#8).            Ministerial directions about exercise and performance of Chief Executive Officer’s powers and functions           9
+[8](#8).            Ministerial directions about exercise and performance of Chief Executive Officer’s powers and functions
 
-[8AA](#8AA).      Minister may request information                                                       9
+[8AA](#8AA).      Minister may request information
 
-[8AB](#8AB).      Management of Medicare Australia                                                  10
+[8AB](#8AB).      Management of Medicare Australia
 
-[8AC](#8AC).      Delegation                                                                                          10
+[8AC](#8AC).      Delegation
 
-[8AD](#8AD).      Commonwealth consent to conferral of powers etc  on Chief Executive Officer by State and Territory laws       10
+[8AD](#8AD).      Commonwealth consent to conferral of powers etc  on Chief Executive Officer by State and Territory laws
 
-[8AE](#8AE).       How duty is imposed on Chief Executive Officer by State and Territory laws      11
+[8AE](#8AE).       How duty is imposed on Chief Executive Officer by State and Territory laws
 
-[8AF](#8AF).       When State and Territory laws impose a duty on Chief Executive Officer             12
+[8AF](#8AF).       When State and Territory laws impose a duty on Chief Executive Officer
 
     **Division 2—Appointment etc. of Chief Executive Officer**
 
-[8AG](#8AG).      Appointment                                                                                     13
+[8AG](#8AG).      Appointment
 
-[8AH](#8AH).      Remuneration                                                                                     13
+[8AH](#8AH).      Remuneration
 
-[8AI](#8AI).        Leave of absence                                                                                13
+[8AI](#8AI).        Leave of absence
 
-[8AJ](#8AJ).       Other terms and conditions                                                               13
+[8AJ](#8AJ).       Other terms and conditions
 
-[8AK](#8AK).      Termination of appointment                                                             14
+[8AK](#8AK).      Termination of appointment
 
-[8AL](#8AL).       Acting Chief Executive Officer                                                          14
+[8AL](#8AL).       Acting Chief Executive Officer
 
-[8AM](#8AM).     Resignation                                                                                        15
+[8AM](#8AM).     Resignation
 
 **Part IID—Investigative powers of Chief Executive Officer** 
 
     **Division 1—Preliminary**
 
-[8K](#8K).         Crown to be bound                                                                            16
+[8K](#8K).         Crown to be bound
 
-[8L](#8L).          Authorisation to exercise powers under this Part                             16
+[8L](#8L).          Authorisation to exercise powers under this Part
 
-[8M](#8M).        Authorised officers                                                                            16
+[8M](#8M).        Authorised officers
 
-[8N](#8N).         Identity cards                                                                                     16
+[8N](#8N).         Identity cards
 
     **Division 2—General power to obtain information**
 
-[8P](#8P).          Chief Executive Officer may obtain information etc                         18
+[8P](#8P).          Chief Executive Officer may obtain information etc 
 
-[8Q](#8Q).         Content of notices                                                                             19
+[8Q](#8Q).         Content of notices
 
-[8R](#8R).         Offences                                                                                             19
+[8R](#8R).         Offences
 
-[8S](#8S).          Self-incrimination                                                                               20
+[8S](#8S).          Self-incrimination
 
-[8T](#8T).         Exemption                                                                                          20
+[8T](#8T).         Exemption
 
     **Division 3—Searches in relation to possible relevant offences and relevant civil contraventions**
 
-[8U](#8U).         Authorised officers may conduct searches for the purpose of monitoring compliance           21
+[8U](#8U).         Authorised officers may conduct searches for the purpose of monitoring compliance
 
-[8V](#8V).         Powers on entering premises                                                             22
+[8V](#8V).         Powers on entering premises
 
-[8W](#8W).        Authorised officers to produce evidence of identity                         23
+[8W](#8W).        Authorised officers to produce evidence of identity
 
     **Division 4—Warrants for searches and seizures**
 
-[8X](#8X).         Relevant offence and relevant civil contravention related searches and seizures     24
+[8X](#8X).         Relevant offence and relevant civil contravention related searches and seizures
 
-[8Y](#8Y).         Search warrants                                                                                  24
+[8Y](#8Y).         Search warrants
 
-[8Z](#8Z).         Warrants may be issued by telephone or other electronic means      25
+[8Z](#8Z).         Warrants may be issued by telephone or other electronic means
 
-[8ZA](#8ZA).      Formalities relating to warrants issued by telephone or other electronic means     26
+[8ZA](#8ZA).      Formalities relating to warrants issued by telephone or other electronic means
 
     **Division 5—Provisions relating to execution of search warrants**
 
-[8ZB](#8ZB).       Announcement before entry                                                              28
+[8ZB](#8ZB).       Announcement before entry
 
-[8ZC](#8ZC).       Availability of assistance and use of force in executing a warrant     28
+[8ZC](#8ZC).       Availability of assistance and use of force in executing a warrant
 
-[8ZD](#8ZD).      Details of warrant to be given to occupier etc                                   28
+[8ZD](#8ZD).      Details of warrant to be given to occupier etc 
 
-[8ZE](#8ZE).       Specific powers available to officers executing warrants                   29
+[8ZE](#8ZE).       Specific powers available to officers executing warrants
 
-[8ZF](#8ZF).       Use of equipment to examine or process things                                29
+[8ZF](#8ZF).       Use of equipment to examine or process things
 
-[8ZG](#8ZG).      Use of electronic equipment at premises                                           30
+[8ZG](#8ZG).      Use of electronic equipment at premises
 
-[8ZH](#8ZH).      Compensation for damage to electronic equipment                           32
+[8ZH](#8ZH).      Compensation for damage to electronic equipment
 
-[8ZI](#8ZI).        Seizure of things not covered by warrants                                        32
+[8ZI](#8ZI).        Seizure of things not covered by warrants
 
-[8ZJ](#8ZJ).        Occupier entitled to observe search                                                   33
+[8ZJ](#8ZJ).        Occupier entitled to observe search
 
-[8ZK](#8ZK).      Receipts for things seized under warrant                                          33
+[8ZK](#8ZK).      Receipts for things seized under warrant
 
-[8ZL](#8ZL).       Copies of seized things to be provided                                             33
+[8ZL](#8ZL).       Copies of seized things to be provided
 
-[8ZM](#8ZM).     Retention of things seized                                                                 34
+[8ZM](#8ZM).     Retention of things seized
 
     **Division 6—Miscellaneous**
 
-[8ZN](#8ZN).      Patients to be advised of search, seizure etc  of clinical records        35
+[8ZN](#8ZN).      Patients to be advised of search, seizure etc  of clinical records
 
-[8ZO](#8ZO).      Offence for making false statements in warrants                               35
+[8ZO](#8ZO).      Offence for making false statements in warrants
 
-[8ZP](#8ZP).       Offences relating to telephone warrants                                            35
+[8ZP](#8ZP).       Offences relating to telephone warrants
 
-[8ZQ](#8ZQ).      Actions under this Part taken to be in performance of certain functions                36
+[8ZQ](#8ZQ).      Actions under this Part taken to be in performance of certain functions
 
 **Part III—Staff of Medicare Australia**
 
-[20](#20).          Staff                                                                                                   37
+[20](#20).          Staff
 
-[21](#21).          Consultants                                                                                        37
+[21](#21).          Consultants
 
 **Part VI—Miscellaneous**
 
-[41C](#41C).       Protection of names and symbols                                                      38
+[41C](#41C).       Protection of names and symbols
 
-[41D](#41D).       Forfeiture of articles etc                                                                     41
+[41D](#41D).       Forfeiture of articles etc 
 
-[41E](#41E).        Sections 41C and 41D not to limit other laws                                   41
+[41E](#41E).        Sections 41C and 41D not to limit other laws
 
-[41F](#41F).        Chief Executive Officer may charge for services                               41
+[41F](#41F).        Chief Executive Officer may charge for services
 
-[42](#42).          Chief Executive Officer’s annual report                                            41
+[42](#42).          Chief Executive Officer’s annual report
 
-[44](#44).          Regulations                                                                                        42
+[44](#44).          Regulations
 
 **Notes** 
 
@@ -212,8 +212,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="commonwealth-servic"></a>**_Commonwealth service_** means a service, benefit, program or facility for some or all members of the public that is provided for by the Commonwealth, whether under a law of the Commonwealth or otherwise.
 
                     <a name="constabl"></a>**_constable_** means a member or special member of the Australian Federal Police or a member of the police force or police service of a State or Territory.
-
-                    <a name="dental-benefit"></a>**_dental benefit_** has the same meaning as in the _Dental Benefits Act 2008_.
 
                     <a name="employe"></a>**_employee_** means a member of the staff of Medicare Australia referred to in subsection 20(1).
 
@@ -271,9 +269,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (bb)  an offence against the _Medical Indemnity Act 2002_; or
 
-                    (bc)  an offence against the _Dental Benefits Act 2008_; or
-
-                     (c)  an offence against section 6 of the _Crimes Act 1914_, or section 11.1, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a), (b), (ba), (bb) or (bc).
+                     (c)  an offence against section 6 of the _Crimes Act 1914_, or section 11.1, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a), (b), (ba) or (bb).
 
              (2)  For the purposes of Division 2 of Part IID, a relevant offence is:
 
@@ -283,13 +279,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (ba)  an offence against the _Medical Indemnity Act 2002_; or
 
-                    (bb)  an offence against section 50, 51, 52, 53 or 54 of the _Dental Benefits Act 2008_; or
-
-                     (c)  an offence against section 6, 7 or 7A or paragraph 86(1)(a) of the _Crimes Act 1914_ that relates to an offence referred to in paragraph (a), (b), (ba) or (bb); or
+                     (c)  an offence against section 6, 7 or 7A or paragraph 86(1)(a) of the _Crimes Act 1914_ that relates to an offence referred to in paragraph (a), (b) or (ba); or
 
                      (d)  an offence against section 134.1, 134.2, 135.1, 135.2, 135.4, 136.1, 137.1, 137.2, 145.2 or 145.3 of the _Criminal Code_ that relates to:
 
-                              (i)  a claim for payment in respect of the rendering of a professional service or dental service; or
+                              (i)  a claim for payment in respect of the rendering of a professional service; or
 
                              (ii)  an indemnity scheme payment.
 
@@ -303,19 +297,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (ca)  an offence against the _Medical Indemnity Act 2002_; or
 
-                    (cb)  an offence against section 50, 51, 52, 53 or 54 of the _Dental Benefits Act 2008_; or
-
-                     (d)  an offence against section 6 of the _Crimes Act 1914_, or section 11.1, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a), (b), (c), (ca) or (cb); or
+                     (d)  an offence against section 6 of the _Crimes Act 1914_, or section 11.1, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a), (b), (c) or (ca); or
 
                      (e)  an offence against section 134.1, 134.2, 135.1, 135.2, 135.4, 136.1, 137.1, 137.2, 145.2 or 145.3 of the _Criminal Code_ that relates to:
 
-                              (i)  a claim for payment in respect of the rendering of a professional service or dental service; or
+                              (i)  a claim for payment in respect of the rendering of a professional service; or
 
                              (ii)  an indemnity scheme payment.
 
              (3)  In subsections (2) and (2A):
-
-                    <a name="dental-servic"></a>**_dental service_** has the same meaning as in the _Dental Benefits Act 2008_.
 
                     <a name="indemn-scheme-payment"></a>**_indemnity scheme payment_** has the same meaning as in the _Medical Indemnity Act 2002_.
 
@@ -455,7 +445,7 @@ Note:          See also section 19 of the _Public Service Ac
 
              (4)  However, the Chief Executive Officer must not delegate powers or functions delegated to him or her under another Act if the delegation by the Chief Executive Officer would be inconsistent with the express provisions of that Act.
 
-##### <a id="8AD"></a>8AD   Commonwealth consent to conferral of powers etc. on Chief Executive Officer by State and Territory laws
+##### <a id="8AD"></a>8AD  Commonwealth consent to conferral of powers etc. on Chief Executive Officer by State and Territory laws
 
              (1)  A law of a State or Territory may confer powers or functions, or impose duties, on the Chief Executive Officer.
 
@@ -501,7 +491,7 @@ Commonwealth legislative power sufficient to support duty but State or Territory
 
              (6)  Subsections (1) to (5) do not limit section 8AD.
 
-##### <a id="8AF"></a>8AF  When  State and Territory laws impose a duty on Chief Executive Officer
+##### <a id="8AF"></a>8AF  When State and Territory laws impose a duty on Chief Executive Officer
 
                    For the purposes of sections 8AD and 8AE, a law of a State or Territory **_imposes a duty_** on the Chief Executive Officer if:
 
@@ -661,11 +651,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                      (a)  the person being required to give information or produce documents is the patient to whom the clinical details relate; and
 
-                     (b)  the information or documents relate to:
-
-                              (i)  a service the person has received in respect of which medicare benefit or dental benefit has been claimed; or
-
-                             (ii)  a pharmaceutical benefit supplied to, or in respect of, the person.
+                     (b)  the information or documents relate to treatment the person has received in respect of which medicare benefits and/or pharmaceutical benefits have been claimed.
 
 ##### <a id="8Q"></a>8Q  Content of notices
 
@@ -743,11 +729,7 @@ to the extent that it is reasonably necessary for the purpose of ascertaining wh
 
                      (b)  the occupier giving information without the authorised officer entering the premises.
 
-             (5)  This section applies to premises at which activities have been or are being carried out that are associated with:
-
-                     (a)  rendering services in respect of which medicare benefits or dental benefits have been paid or may be payable; or
-
-                     (b)  the prescription for the supply of, or the supply of, pharmaceutical benefits.
+             (5)  This section applies to premises at which activities have been or are being carried out that are associated with rendering services in respect of which medicare benefits or pharmaceutical benefits have been paid or may be payable.
 
              (6)  In exercising any power under this section an authorised officer must, as soon as practicable, give the occupier of the premises a copy of the relevant instrument made by the Chief Executive Officer under subsection 8L(1).
 
@@ -933,7 +915,7 @@ the court is to assume, unless the contrary is proved, that the entry, search, s
 
 ##### <a id="8ZC"></a>8ZC  Availability of assistance and use of force in executing a warrant
 
-                   In executing a warrant:
+                   In executing a warrant:
 
                      (a)  the authorised officer may obtain such assistance; and
 
@@ -1568,7 +1550,7 @@ Remainder: 1 Feb 1984</div>
 S. 28: 1 Feb 1984 
 S. 30: 5 Sept 1985 
 Ss. 58–64: 1 May 1985 
-Remainder: 22 Feb 1986 ( <i>see Gazette</i>1986, No. S64)</div>
+Remainder: 22 Feb 1986 ( <i>see Gazette</i>1986, No. S64)</div>
   </td>
   <td>
     <div>Ss. 65 and 66</div>
@@ -1603,8 +1585,8 @@ Remainder: 22 Feb 1986 ( <i>see Gazette</i>1986, No. S64)</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-Ss. 4(1), 68–97, 99 and 100: 1 July 1988 ( <i>see Gazette</i>1988, No. S196) 
-Remainder: 1 Dec 1988 ( <i>see Gazette</i>1988, No. S196)</div>
+Ss. 4(1), 68–97, 99 and 100: 1 July 1988 ( <i>see Gazette</i>1988, No. S196) 
+Remainder: 1 Dec 1988 ( <i>see Gazette</i>1988, No. S196)</div>
   </td>
   <td>
     <div>—</div>
@@ -1640,7 +1622,7 @@ Remainder: 1 Dec 1988 ( <i>see Gazette</i>1988, No. S196)</div>
   <td>
     <div>S. 3: Royal Assent <i>(f)</i> 
 Ss. 4 (in part) and 5: 1 July 1991 ( <i>f</i>) 
-S. 4 (in part): 1 Aug 1991 ( <i>see Gazette</i>1991, No. S209) <i>(f)</i></div>
+S. 4 (in part): 1 Aug 1991 ( <i>see Gazette</i>1991, No. S209) <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1694,9 +1676,9 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1992</div>
   </td>
   <td>
-    <div>Ss. 38, 39(a), 41, 43, 44(d) and 49: 12 May 1954 ( <i>see</i>s. 2(2) and <i>Gazette</i>1954, p. 1179) 
+    <div>Ss. 38, 39(a), 41, 43, 44(d) and 49: 12 May 1954 ( <i>see</i>s. 2(2) and <i>Gazette</i>1954, p. 1179) 
 S. 40: 1 July 1992 
-Ss. 46 and 47: 18 Dec 1990 
+Ss. 46 and 47: 18 Dec 1990 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1954,7 +1936,7 @@ S. 13: Royal Assent <i>(g)</i></div>
   </td>
   <td>
     <div>Schedule 1 (items 1–34): Royal Assent <i>(m) 
- </i>Schedule 1 (items 39–80): 1 Mar 1998 ( <i>see Gazette</i>1998, No. GN9) <i>(m)</i> 
+ </i>Schedule 1 (items 39–80): 1 Mar 1998 ( <i>see Gazette</i>1998, No. GN9) <i>(m)</i> 
 Schedule 1 (item 81): 11 Nov 2002 <i>(m)</i></div>
   </td>
   <td>
@@ -2058,7 +2040,7 @@ Schedule 1 (item 81): 11 Nov 2002 <i>(m)</i></div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 509, 510): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(q)</i></div>
+    <div>Schedule 1 (items 509, 510): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(q)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2075,7 +2057,7 @@ Schedule 1 (item 81): 11 Nov 2002 <i>(m)</i></div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (items 86, 87): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(r)</i></div>
+    <div>Schedule 10 (items 86, 87): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(r)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2126,7 +2108,7 @@ Schedule 1 (item 81): 11 Nov 2002 <i>(m)</i></div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Schedule 3 (items 7–10): 15 Dec 1998 ( <i>see</i>s. 2(2)) 
+    <div>Schedule 3 (items 7–10): 15 Dec 1998 ( <i>see</i>s. 2(2)) 
 Schedule 3 (item 12): 1 Jan 1999 
 Remainder: Royal Assent</div>
   </td>
@@ -2232,7 +2214,7 @@ Remainder: <i>(t)</i></div>
     <div>17 Dec 2003</div>
   </td>
   <td>
-    <div>Schedules 1 and 2: <i>(u)</i> 
+    <div>Schedules 1 and 2: <i>(u)</i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2267,7 +2249,7 @@ Remainder: Royal Assent</div>
     <div>21 Apr 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (item 6): Royal Assent</div>
+    <div>Schedule 1 (item 6): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -2281,10 +2263,10 @@ Remainder: Royal Assent</div>
     <div>77, 2004</div>
   </td>
   <td>
-    <div>23 June 2004</div>
+    <div>23 June 2004</div>
   </td>
   <td>
-    <div>Schedule 2 (item 2): 1 July 2004</div>
+    <div>Schedule 2 (item 2): 1 July 2004</div>
   </td>
   <td>
     <div>—</div>
@@ -2301,10 +2283,10 @@ Remainder: Royal Assent</div>
     <div>22 Feb 2005</div>
   </td>
   <td>
-    <div>Schedule 2 (items 124, 174): Royal Assent</div>
+    <div>Schedule 2 (items 124, 174): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2318,10 +2300,10 @@ Remainder: Royal Assent</div>
     <div>6 Sept 2005</div>
   </td>
   <td>
-    <div>Schedule 1 and Schedule 2 (items 1, 2): 1 Oct 2005 ( <i>see</i>F2005L02671) 
+    <div>Schedule 1 and Schedule 2 (items 1, 2): 1 Oct 2005 ( <i>see</i>F2005L02671) 
 Schedule 2 (item 3): <i>(v)</i> 
-Schedule 2 (items 4–29, 
-31–731): 1 Oct 2005 
+Schedule 2 (items 4–29, 
+31–731): 1 Oct 2005 
 Schedule 2 (item 30): <i>(v)</i> 
 Remainder: Royal Assent</div>
   </td>
@@ -2341,7 +2323,7 @@ Remainder: Royal Assent</div>
     <div>19 Oct 2005</div>
   </td>
   <td>
-    <div>Schedule 1 (item 2): 1 July 2005</div>
+    <div>Schedule 1 (item 2): 1 July 2005</div>
   </td>
   <td>
     <div>—</div>
@@ -2355,28 +2337,11 @@ Remainder: Royal Assent</div>
     <div>88, 2007</div>
   </td>
   <td>
-    <div>21 June 2007</div>
+    <div>21 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Mar 2008 
+    <div>Schedule 1: 1 Mar 2008 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Dental Benefits (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>42, 2008</div>
-  </td>
-  <td>
-    <div>25 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 6–17): 26 June 2008 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -2546,7 +2511,7 @@ _(t)_ Subsection 2(1) (item 3(b)) of the _Health Insurance Commission Amendmen
   </td>
 </tr></table>
 
-_(u)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amendments) Act 2003_ provides as follows:
+_(u)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amendments) Act 2003_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -2596,12 +2561,12 @@ _(u)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
   </td>
   <td>
     <div>
-      17 June 2004
+      17 June 2004
     </div>
   </td>
 </tr></table>
 
-_(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services Legislation Amendment Act 2005_ provide as follows:
+_(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services Legislation Amendment Act 2005_ provide as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2655,7 +2620,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
   </td>
   <td>
     <div>
-      1 October 2005
+      1 October 2005
 
 (
         <i>see</i>F2005L02671)
@@ -2676,7 +2641,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
   </td>
   <td>
     <div>
-      1 October 2005
+      1 October 2005
     </div>
   </td>
 </tr>
@@ -2694,7 +2659,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
   </td>
   <td>
     <div>
-      1 October 2005
+      1 October 2005
     </div>
   </td>
 </tr>
@@ -2711,7 +2676,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
   </td>
   <td>
     <div>
-      1 October 2005
+      1 October 2005
     </div>
   </td>
 </tr></table>
@@ -2745,15 +2710,15 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </thead>
 <tr>
   <td>
-    <div>Title</div>
+    <div>Title .....................................</div>
   </td>
   <td colspan="2">
-    <div>rs. No. 111, 2005</div>
+    <div>rs. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part I</b></div>
+    <div><b>Part I</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -2761,23 +2726,23 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>S. 1</div>
+    <div>S. 1 .....................................</div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 3</div>
+    <div>S. 3 .....................................</div>
   </td>
   <td colspan="2">
-    <div>am. Nos. 91 and 100, 1976; No. 134, 1978; No. 54, 1983; No. 136, 1992; Nos. 80 and 85, 1994; No. 149, 1995; No. 159, 1997; Nos. 83 and 146, 1999; No. 71, 2002; No. 50, 2003; No. 111, 2005; No. 88, 2007; No. 42, 2008</div>
+    <div>am. Nos. 91 and 100, 1976; No. 134, 1978; No. 54, 1983; No. 136, 1992; Nos. 80 and 85, 1994; No. 149, 1995; No. 159, 1997; Nos. 83 and 146, 1999; No. 71, 2002; No. 50, 2003; No. 111, 2005; No. 88, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 3A</div>
+    <div>S. 3A ..................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -2788,12 +2753,12 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 132, 1995; No. 137, 2000; No. 111, 2001; No. 133, 2002; No. 88, 2007; No. 42, 2008</div>
+    <div>am. No. 132, 1995; No. 137, 2000; No. 111, 2001; No. 133, 2002; No. 88, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 3B</div>
+    <div>S. 3B ..................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 111, 2001</div>
@@ -2801,7 +2766,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div><b>Part II</b></div>
+    <div><b>Part II</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -2809,7 +2774,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>Heading to Part II</div>
+    <div>Heading to Part II ................</div>
   </td>
   <td colspan="2">
     <div>am. No. 134, 1978</div>
@@ -2820,44 +2785,28 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>rs. No. 111, 2005</div>
+    <div>rs. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 4</div>
+    <div>S. 4 .....................................</div>
   </td>
   <td colspan="2">
-    <div>rs. No. 111, 2005</div>
+    <div>rs. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 4A</div>
+    <div>S. 4A ..................................</div>
   </td>
   <td colspan="2">
-    <div>ad. No. 111, 2005</div>
+    <div>ad. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part IIA</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IIA</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
+    <div><b>Part IIA</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -2865,23 +2814,39 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part IIA</div>
+    <div>Heading to Part IIA ..............</div>
   </td>
   <td colspan="2">
-    <div>ad. No. 111, 2005</div>
+    <div>ad. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 5</div>
+    <div><b>Division 1</b></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005</div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 5</div>
+    <div>Heading to Div. 1 of Part IIA ........................................</div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 111, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 5 ...................</div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 111, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5 .....................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 100, 1976</div>
@@ -2916,12 +2881,12 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 6</div>
+    <div>S. 6 .....................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 100, 1976</div>
@@ -2948,20 +2913,20 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>rs. No. 111, 2005</div>
+    <div>rs. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 7</div>
+    <div>Heading to s. 7 ...................</div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 7</div>
+    <div>S. 7 .....................................</div>
   </td>
   <td colspan="2">
     <div>rep. No. 134, 1978</div>
@@ -2980,20 +2945,20 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 7A</div>
+    <div>S. 7A ..................................</div>
   </td>
   <td colspan="2">
-    <div>ad. No. 111, 2005</div>
+    <div>ad. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8</div>
+    <div>S. 8 .....................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 100, 1976</div>
@@ -3020,12 +2985,12 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>rs. No. 111, 2005</div>
+    <div>rs. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Ss. 8AA, 8AB</div>
+    <div>Ss. 8AA, 8AB.....................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 159, 1997</div>
@@ -3036,20 +3001,20 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>rs. No. 111, 2005</div>
+    <div>rs. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Ss. 8AC–8AF</div>
+    <div>Ss. 8AC–8AF .....................</div>
   </td>
   <td colspan="2">
-    <div>ad. No. 111, 2005</div>
+    <div>ad. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -3057,23 +3022,23 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>Div. 2 of Part IIA</div>
+    <div>Div. 2 of Part IIA .................</div>
   </td>
   <td colspan="2">
-    <div>ad. No. 111, 2005</div>
+    <div>ad. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Ss. 8AG–8AM</div>
+    <div>Ss. 8AG–8AM ....................</div>
   </td>
   <td colspan="2">
-    <div>ad. No. 111, 2005</div>
+    <div>ad. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Part IIA</div>
+    <div>Part IIA.................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 61, 1976</div>
@@ -3089,7 +3054,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>S. 8A</div>
+    <div>S. 8A ..................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 61, 1976</div>
@@ -3121,7 +3086,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>S. 8B</div>
+    <div>S. 8B ..................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 100, 1976</div>
@@ -3145,7 +3110,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>Part IIAA</div>
+    <div>Part IIAA .............................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 29, 1993</div>
@@ -3161,7 +3126,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>S. 8BA</div>
+    <div>S. 8BA.................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 29, 1993</div>
@@ -3177,7 +3142,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>Part IIAB</div>
+    <div>Part IIAB..............................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 149, 1995</div>
@@ -3193,7 +3158,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>S. 8BB</div>
+    <div>S. 8BB ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 149, 1995</div>
@@ -3209,7 +3174,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>Part IIAC</div>
+    <div>Part IIAC..............................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 149, 1995</div>
@@ -3225,7 +3190,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>S. 8BC</div>
+    <div>S. 8BC ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 149, 1995</div>
@@ -3241,7 +3206,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>Part IIB</div>
+    <div>Part IIB ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 134, 1978</div>
@@ -3257,10 +3222,10 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>S. 8C</div>
+    <div>S. 8C ..................................</div>
   </td>
   <td colspan="2">
-    <div>ad. No. 100, 1976</div>
+    <div>ad. No. 100, 1976</div>
   </td>
 </tr>
 <tr>
@@ -3289,10 +3254,10 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>S. 8D</div>
+    <div>S. 8D ..................................</div>
   </td>
   <td colspan="2">
-    <div>ad. No. 100, 1976</div>
+    <div>ad. No. 100, 1976</div>
   </td>
 </tr>
 <tr>
@@ -3345,7 +3310,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>S. 8DA</div>
+    <div>S. 8DA ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 45, 1997</div>
@@ -3361,10 +3326,10 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>S. 8E</div>
+    <div>S. 8E ...................................</div>
   </td>
   <td colspan="2">
-    <div>ad. No. 100, 1976</div>
+    <div>ad. No. 100, 1976</div>
   </td>
 </tr>
 <tr>
@@ -3372,7 +3337,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 36, 1978</div>
+    <div>am. No. 36, 1978</div>
   </td>
 </tr>
 <tr>
@@ -3401,7 +3366,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>S. 8F</div>
+    <div>S. 8F ...................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 134, 1978</div>
@@ -3425,7 +3390,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>Heading to Part IIC</div>
+    <div>Heading to Part IIC ..............</div>
   </td>
   <td colspan="2">
     <div>am. No. 85, 1994</div>
@@ -3436,12 +3401,12 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Part IIC</div>
+    <div>Part IIC.................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 134, 1978</div>
@@ -3452,12 +3417,12 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8G</div>
+    <div>S. 8G ..................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 134, 1978</div>
@@ -3476,12 +3441,12 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8H</div>
+    <div>S. 8H ..................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 134, 1978</div>
@@ -3500,12 +3465,12 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8HA</div>
+    <div>S. 8HA ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 149, 1995</div>
@@ -3516,12 +3481,12 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8J</div>
+    <div>S. 8J ...................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 54, 1983</div>
@@ -3540,12 +3505,12 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8JA</div>
+    <div>S. 8JA.................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 159, 1997</div>
@@ -3556,12 +3521,12 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part IID</b></div>
+    <div><b>Part IID</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -3569,15 +3534,15 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>Heading to Part IID</div>
+    <div>Heading to Part IID ..............</div>
   </td>
   <td colspan="2">
-    <div>rs. No. 111, 2005</div>
+    <div>rs. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Part IID</div>
+    <div>Part IID ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3585,7 +3550,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -3593,7 +3558,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>S. 8K</div>
+    <div>S. 8K...................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3601,23 +3566,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>Ss. 8L, 8M</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 85, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8N</div>
+    <div>Ss. 8L, 8M...........................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3628,28 +3577,12 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2001; No. 111, 2005</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 8P</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8P</div>
+    <div>S. 8N...................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3660,12 +3593,28 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005; No. 88, 2007; No. 42, 2008</div>
+    <div>am. No. 111, 2001; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8Q</div>
+    <div><b>Division 2</b></div>
+  </td>
+  <td colspan="2">
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 8P .................</div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 111, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8P....................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3676,12 +3625,28 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005</div>
+    <div>am. No. 111, 2005; No. 88, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8R</div>
+    <div>S. 8Q...................................</div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 85, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 111, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8R...................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3697,7 +3662,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>S. 8S</div>
+    <div>S. 8S...................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3708,12 +3673,12 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2001; No. 111, 2005</div>
+    <div>am. No. 111, 2001; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8T</div>
+    <div>S. 8T....................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3721,7 +3686,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -3729,16 +3694,16 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of 
-Part IID</div>
+    <div>Heading to Div. 3 of............. 
+Part IID</div>
   </td>
   <td colspan="2">
-    <div>rs. No. 88, 2007</div>
+    <div>rs. No. 88, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8U</div>
+    <div>S. 8U...................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3749,12 +3714,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005; No. 88, 2007; No. 42, 2008</div>
+    <div>am. No. 111, 2005; No. 88, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8V</div>
+    <div>S. 8V...................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3770,7 +3735,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 8W</div>
+    <div>S. 8W..................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3778,7 +3743,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 4</b></div>
+    <div><b>Division 4</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -3786,10 +3751,10 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 8X</div>
+    <div>Heading to s. 8X..................</div>
   </td>
   <td colspan="2">
-    <div>am. No. 88, 2007</div>
+    <div>am. No. 88, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3813,7 +3778,7 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005; No. 88, 2007</div>
+    <div>am. No. 111, 2005; No. 88, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3826,7 +3791,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 5</b></div>
+    <div><b>Division 5</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -3834,7 +3799,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 8ZB–8ZH</div>
+    <div>Ss. 8ZB–8ZH......................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3842,7 +3807,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 8ZI</div>
+    <div>S. 8ZI...................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3858,7 +3823,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 8ZJ–8ZL</div>
+    <div>Ss. 8ZJ–8ZL.......................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3866,31 +3831,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 8ZM</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 85, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 149, 1995; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8ZN</div>
+    <div>S. 8ZM ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3901,20 +3842,20 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005</div>
+    <div>am. No. 149, 1995; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Ss. 8ZO, 8ZP</div>
+    <div><b>Division 6</b></div>
   </td>
   <td colspan="2">
-    <div>ad. No. 85, 1994</div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8ZQ</div>
+    <div>S. 8ZN ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 85, 1994</div>
@@ -3925,12 +3866,36 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part III</b></div>
+    <div>Ss. 8ZO, 8ZP .....................</div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 85, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8ZQ ................................</div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 85, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 111, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part III</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -3938,23 +3903,23 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>Part III</div>
+    <div>Part III ..................................</div>
   </td>
   <td colspan="2">
-    <div>rs. No. 111, 2005</div>
+    <div>rs. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 9</div>
+    <div>S. 9......................................</div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 9(1)</div>
+    <div>Note to s. 9(1).....................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 152, 1997</div>
@@ -3973,12 +3938,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 9A</div>
+    <div>S. 9A...................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 152, 1997</div>
@@ -4002,7 +3967,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 10</div>
+    <div>S. 10 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 91, 1976</div>
@@ -4029,20 +3994,20 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 11</div>
+    <div>S. 11....................................</div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 12</div>
+    <div>S. 12 ...................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 134, 1978</div>
@@ -4061,12 +4026,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 13</div>
+    <div>S. 13 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 91, 1976; No. 134, 1978; No. 80, 1994</div>
@@ -4077,20 +4042,20 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 14</div>
+    <div>S. 14....................................</div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 15</div>
+    <div>S. 15 ...................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 54, 1983</div>
@@ -4114,15 +4079,15 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 16</div>
+    <div>S. 16....................................</div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 17</div>
+    <div>S. 17 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 54, 1983; No. 80, 1994; Nos. 152 and 159, 1997; No. 156, 1999</div>
@@ -4133,12 +4098,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 18</div>
+    <div>S. 18 ...................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 80, 1994</div>
@@ -4149,12 +4114,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 19</div>
+    <div>S. 19 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 134, 1978; No. 136, 1992; No. 80, 1994</div>
@@ -4165,12 +4130,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 19A</div>
+    <div>S. 19A.................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 159, 1997</div>
@@ -4181,12 +4146,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part IV</div>
+    <div>Heading to Part IV...............</div>
   </td>
   <td colspan="2">
     <div>am. No. 136, 1992</div>
@@ -4197,28 +4162,28 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Part IV</div>
+    <div>Part IV ................................</div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 20</div>
+    <div>S. 20 ...................................</div>
   </td>
   <td colspan="2">
-    <div>rs. No. 136, 1992; No. 111, 2005</div>
+    <div>rs. No. 136, 1992; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 21</div>
+    <div>S. 21 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 136, 1992; No. 80, 1994; No. 159, 2001</div>
@@ -4229,12 +4194,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rs. No. 111, 2005</div>
+    <div>rs. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 22</div>
+    <div>S. 22 ...................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 134, 1978</div>
@@ -4253,12 +4218,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 23</div>
+    <div>S. 23 ...................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 122, 1991</div>
@@ -4277,12 +4242,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 24</div>
+    <div>S. 24....................................</div>
   </td>
   <td colspan="2">
     <div>rep. No. 134, 1978</div>
@@ -4290,7 +4255,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 25</div>
+    <div>S. 25 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 134, 1978; No. 136, 1992; No. 80, 1994</div>
@@ -4301,12 +4266,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 26</div>
+    <div>S. 26 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 54, 1983; No. 122, 1991; No. 136, 1992; No. 80, 1994; Nos. 152 and 159, 1997; No. 156, 1999</div>
@@ -4317,12 +4282,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 27</div>
+    <div>S. 27 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 136, 1992</div>
@@ -4341,12 +4306,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 28</div>
+    <div>S. 28 ...................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 134, 1978</div>
@@ -4357,12 +4322,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 28A</div>
+    <div>S. 28A ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 134, 1978</div>
@@ -4381,12 +4346,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 29</div>
+    <div>S. 29 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 63, 1984; No. 80, 1994</div>
@@ -4397,12 +4362,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 30</div>
+    <div>S. 30 ...................................</div>
   </td>
   <td colspan="2">
     <div>rep. No. 65, 1985</div>
@@ -4410,7 +4375,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 31</div>
+    <div>S. 31 ...................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 134, 1978</div>
@@ -4426,23 +4391,23 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 32</div>
+    <div>S. 32 ...................................</div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Part V</div>
+    <div>Part V .................................</div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 32A</div>
+    <div>S. 32A.................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 159, 1997</div>
@@ -4461,12 +4426,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 33</div>
+    <div>Heading to s. 33..................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 159, 1997</div>
@@ -4477,12 +4442,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 33</div>
+    <div>S. 33 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 36, 1978</div>
@@ -4509,12 +4474,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 33A</div>
+    <div>S. 33A.................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 159, 1997</div>
@@ -4530,7 +4495,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 34</div>
+    <div>Heading to s. 34..................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 159, 1997</div>
@@ -4546,7 +4511,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 34</div>
+    <div>S. 34 ...................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 100, 1976</div>
@@ -4586,7 +4551,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 34AAA</div>
+    <div>S. 34AAA ...........................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 80, 1994</div>
@@ -4610,7 +4575,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 34A</div>
+    <div>S. 34A ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 100, 1976</div>
@@ -4634,7 +4599,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 34B, 34C</div>
+    <div>Ss. 34B, 34C.......................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 54, 1983</div>
@@ -4658,7 +4623,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 35</div>
+    <div>S. 35 ...................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 100, 1976; No. 134, 1978; No. 54, 1983; No. 80, 1994</div>
@@ -4682,7 +4647,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 36</div>
+    <div>S. 36 ...................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 100, 1976</div>
@@ -4709,7 +4674,7 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 8, 2005</div>
+    <div>am. No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4717,12 +4682,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 36AA</div>
+    <div>S. 36AA .............................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 149, 1995</div>
@@ -4746,7 +4711,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 36A</div>
+    <div>S. 36A ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 100, 1976</div>
@@ -4781,12 +4746,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 37</div>
+    <div>S. 37 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 134, 1978; No. 159, 1997</div>
@@ -4797,12 +4762,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 38</div>
+    <div>S. 38 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 100, 1976</div>
@@ -4829,12 +4794,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 39</div>
+    <div>S. 39 ...................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 134, 1978</div>
@@ -4853,12 +4818,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 40</div>
+    <div>S. 40 ...................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 100, 1976</div>
@@ -4882,7 +4847,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 41</div>
+    <div>S. 41 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No. 80, 1994</div>
@@ -4898,7 +4863,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part VI</b></div>
+    <div><b>Part VI</b></div>
   </td>
   <td colspan="2">
     <div></div>
@@ -4906,7 +4871,7 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>S. 41A</div>
+    <div>S. 41A ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 54, 1983</div>
@@ -4925,12 +4890,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>rep. No. 111, 2005</div>
+    <div>rep. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 41B</div>
+    <div>S. 41B ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 54, 1983</div>
@@ -4954,39 +4919,15 @@ Part IID</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 41C</div>
+    <div>Heading to s. 41C ...............</div>
   </td>
   <td colspan="2">
-    <div>rs. No. 111, 2005</div>
+    <div>rs. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 41C</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 54, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 80, 1994; No. 111, 2001; No. 148, 2003; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41D</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 54, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41E</div>
+    <div>S. 41C ................................</div>
   </td>
   <td colspan="2">
     <div>ad. No. 54, 1983</div>
@@ -4997,28 +4938,52 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 111, 2005</div>
+    <div>am. No. 80, 1994; No. 111, 2001; No. 148, 2003; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 41F</div>
+    <div>S. 41D ................................</div>
   </td>
   <td colspan="2">
-    <div>ad. No. 111, 2005</div>
+    <div>ad. No. 54, 1983</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 42</div>
+    <div>S. 41E .................................</div>
   </td>
   <td colspan="2">
-    <div>rs. No. 111, 2005</div>
+    <div>ad. No. 54, 1983</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 42</div>
+    <div></div>
+  </td>
+  <td colspan="2">
+    <div>am. No. 111, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41F .................................</div>
+  </td>
+  <td colspan="2">
+    <div>ad. No. 111, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 42 .................</div>
+  </td>
+  <td colspan="2">
+    <div>rs. No. 111, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42 ...................................</div>
   </td>
   <td colspan="2">
     <div>rs. No. 100, 1976</div>
@@ -5045,12 +5010,12 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 159, 1997; No. 133, 2002; Nos. 17 and 77, 2004; Nos. 111 and 126, 2005</div>
+    <div>am. No. 159, 1997; No. 133, 2002; Nos. 17 and 77, 2004; Nos. 111 and 126, 2005</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 43</div>
+    <div>S. 43 ...................................</div>
   </td>
   <td colspan="2">
     <div>am. No 80, 1994</div>
@@ -5206,7 +5171,7 @@ The requirement to prepare budget estimates for the Health Insurance Commission 
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
-## Schedule 2
+## Schedule 2
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
@@ -5228,9 +5193,9 @@ continues to have effect after the commencing time as if it had been done by the
 
 * * *
 
-_Human Services Legislation Amendment Act 2005 (No. 111, 2005)_
+_Human Services Legislation Amendment Act 2005 (No. 111, 2005)_
 
-## Schedule 2
+## Schedule 2
 
 ## 714  Definitions
 
