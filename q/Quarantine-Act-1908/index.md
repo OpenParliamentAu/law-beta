@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00229/Html/Quarantine1908_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00617/Html/Quarantine1908_WD02_image001.gif)
 
 # Quarantine Act 1908
 
 **Act No. 3 of 1908 as amended**
 
-This compilation was prepared on 1 July 2008
+This compilation was prepared on 4 October 2007
  taking into account amendments up to Act No. 158 of 2007
 
 The text of any of those amendments not in force 
@@ -685,7 +685,7 @@ in respect of which the authorisation was given.
 
                      (a)  within the area comprising:
 
-                              (i)  the areas described in Schedule 1 to the _Offshore Petroleum Act 2006_; and
+                              (i)  the areas described in Schedule 2 to the _Petroleum (Submerged Lands) Act 1967_; and
 
                              (ii)  the Coral Sea area; and
 
@@ -733,7 +733,7 @@ in respect of which the authorisation was given.
 
                     <a name="coco-island"></a>**_Cocos Islands_** means the Territory of Cocos (Keeling) Islands.
 
-                    <a name="vessel"></a><a name="coco-island"></a>**_Cocos Islands_****_vessel_** means a vessel which does not voyage or ply to or from any place outside the Cocos  Islands.
+                    <a name="vessel"></a><a name="coco-island"></a>**_Cocos Islands_****_vessel_** means a vessel which does not voyage or ply to or from any place outside the Cocos Islands.
 
                     <a name="command"></a>**_commander_**, in relation to an aircraft, means the person in charge or command of the aircraft.
 
@@ -751,7 +751,7 @@ in respect of which the authorisation was given.
 
                     <a name="contravent"></a>**_contravention_** of this Act has the meaning given by subsection 5(1A).
 
-                    <a name="coral-sea-area"></a>**_Coral Sea area_** has the same meaning as in section 7 of the _Offshore Petroleum Act 2006_.
+                    <a name="area"></a><a name="coral-sea"></a>**_Coral Sea_****_area_** has the same meaning as in the _Petroleum (Submerged Lands) Act 1967_.
 
                     <a name="declar-place"></a>**_declared place_** has the meaning given by section 12.
 
@@ -1973,7 +1973,7 @@ The regulations may provide for the manner in which evidence may be given in a p
 
 ##### <a id="16A"></a>16A  Part applies to animals and plants
 
-                   Notwithstanding Part V, this Part applies in relation to animals and plants as well as in relation to other goods.
+                   Notwithstanding Part V, this Part applies in relation to animals and plants as well as in relation to other goods.
 
 ### Division 1—Liability to quarantine
 
@@ -4121,7 +4121,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (3)  A person’s consent is not effective for the purposes of this section unless the consent is voluntary.
 
-##### <a id="55F"></a>55F  Private property—power of quarantine officer (human quarantine) to carry out vector monitoring and control activities in emergency
+##### <a id="55F"></a>55F  Private property—power of quarantine officer (human quarantine) to carry out vector monitoring and control activities in emergency
 
                    A quarantine officer (human quarantine), and other persons acting under his or her supervision or control (if any), may enter onto private property and carry out vector monitoring and control activities if:
 
@@ -4583,7 +4583,7 @@ Infected goods
 
                               (i)  imported into Australia, the Cocos Islands or Christmas Island; or
 
-                             (ii)  brought into, or landed at, any port or other place in Australia, the Cocos Islands or Christmas  Island; or
+                             (ii)  brought into, or landed at, any port or other place in Australia, the Cocos Islands or Christmas Island; or
 
                             (iii)  removed from a part of   Australia to another part of Australia; or
 
@@ -8029,7 +8029,7 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
     <div>29 Mar 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (items 97, 98): 1 July 2008 ( <i>see</i>s <i>.</i>2(1) and F2008L02273)</div>
+    <div>Schedule 2 (items 97, 98): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -8741,7 +8741,7 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 15, 1912; No. 47, 1920; No. 30, 1924; Nos. 19 and 92, 1947; No. 1, 1969; No. 54, 1981; No. 51, 1982; Nos. 19 and 22, 1984; No. 2, 1985; No. 104, 1987 (as am. by No. 155, 1988); No. 37, 1990; No. 20, 1994; No. 94, 1997; No. 196, 1999; No. 25, 2000; No. 17, 2002; Nos. 10, 38 and 91, 2003; No. 54, 2004; No. 17, 2006; No. 158, 2007</div>
+    <div>am. No. 15, 1912; No. 47, 1920; No. 30, 1924; Nos. 19 and 92, 1947; No. 1, 1969; No. 54, 1981; No. 51, 1982; Nos. 19 and 22, 1984; No. 2, 1985; No. 104, 1987 (as am. by No. 155, 1988); No. 37, 1990; No. 20, 1994; No. 94, 1997; No. 196, 1999; No. 25, 2000; No. 17, 2002; Nos. 10, 38 and 91, 2003; No. 54, 2004; No. 158, 2007</div>
   </td>
 </tr>
 <tr>
@@ -12216,6 +12216,25 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
     <div>am. No. 15, 1912; No. 42, 1915; No. 47, 1920; No. 30, 1924; No. 92, 1947; No. 1, 1969; No. 1, 1979; No. 54, 1981; No. 51, 1982; No. 19, 1984; No. 2, 1985; No. 104, 1987; No. 94, 1994; No. 59, 1996; No. 94, 1997; No. 196, 1999; No. 91, 2003; No. 54, 2004</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 
+ (No. 17, 2006)_
+
+The following amendments commence on proclamation:
+
+## Schedule 2
+
+## 97  Subsection 5(1) (subparagraph (a)(i) of the definition of _Australian seabed_)
+
+Omit “Schedule 2 to the _Petroleum (Submerged Lands) Act 1967_”, substitute “Schedule 1 to the _Offshore Petroleum Act 2006_”.
+
+## 98  Subsection 5(1) (definition of _Coral Sea__area_)
+
+Omit “the _Petroleum (Submerged Lands) Act 1967_”, substitute “section 7 of the _Offshore Petroleum Act 2006_”.
+
+As at 4 October 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
