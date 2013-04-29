@@ -1,672 +1,91 @@
-**
+**<b>
 
-###  SUPERANNUATION (PENSION INCREASES) ACT 1967 
-**
+### <center><name>SUPERANNUATION (PENSION INCREASES) ACT 1967 - Reprinted as at 31 December 1982 (HISTACT CHAP 398 #DATE 31:12:1982) </name></center>
+</b>** *1* The Superannuation (Pension Increases) Act 1967 as shown in this reprint comprises Act No. 90, 1967 amended as indicated in the Tables below.<lf>                                  Table of Acts<lf> ----------------------------------------------------------------------------- <lf> Application, <lf>                                                                     saving<lf>                            Number     Date      Date of             or<lf> transitional <lf>     Act                    and year   of Assent commencement provisions<lf> ----------------------------------------------------------------------------- <lf>     Superannuation<lf>     (Pension<lf>     Increases) Act 1967    90, 1967   8 Nov<lf>                                       1967      8 Nov 1967<lf>     Superannuation<lf>     (Pension<lf>     Increases) Act 1971    73, 1971   1 Oct<lf>                                       1971      1 Oct 1971          -<lf> ----------------------------------------------------------------------------- <lf>                               Table of Amendments<lf> ad. = added or inserted am. = amended rep. =<lf>                    repealed rs. = repealed and substituted<lf> ------------------------------------------------------------------------------ -- Provision affected               How affected<lf> ------------------------------------------------------------------------------ -- S.5 . . . . . . . . . . . . . . . rep. No. 73, 1971<lf> The Schedule  . . . . . . . . . . rep. No. 73, 1971<lf> rep.-------------------------------------------------------------------------- -- <lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
+### <name>SUPERANNUATION (PENSION INCREASES) ACT 1967 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                             TABLE  OF  PROVISIONS<lf> 
 
-###  Compilation Information 
-**
+Section<lf> <p>  1\.       Short title<lf> <p>  2\.       Commencement<lf> <p>  3\.       Interpretation<lf> <p>  4\.       Increases in certain pensions<lf> <p>  6\.       Payment of pension increases<lf> <p>  7\.       Application<lf> <p>                                ----------------<lf> <p></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf>
+</lf></tt></tables>
+**<b>
 
+### <name>SUPERANNUATION (PENSION INCREASES) ACT 1967 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect>        An Act to provide for Increases in certain Superannuation Pensions<lf> </lf></sect>
+**<b>
 
+### <name>SUPERANNUATION (PENSION INCREASES) ACT 1967 - SECT 1 Short title </name>
+</b>** 
 
+## SECT
+<sect>   1\. This Act may be cited as the Superannuation (Pension Increases) Act 1967.*1* 
 
+SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . 
+</sect>
+**<b>
 
+### <name>SUPERANNUATION (PENSION INCREASES) ACT 1967 - SECT 2 Commencement </name>
+</b>** 
 
-**
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*1* 
 
-###  Long Title 
-**
-###  SUPERANNUATION (PENSION INCREASES) ACT 1967- SECT 1  Short title [_see_ Note 1]  
-This Act may be cited as the _Superannuation (Pension Increases) Act 1967_.
+SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . 
+</sect>
+**<b>
 
- 
-###  SUPERANNUATION (PENSION INCREASES) ACT 1967- SECT 2  Commencement [_see_ Note 1]  
-This Act shall come into operation on the day on which it receives the Royal
+### <name>SUPERANNUATION (PENSION INCREASES) ACT 1967 - SECT 3 Interpretation </name>
+</b>** 
 
-Assent.
+## SECT
+<sect>   3\. (1) In this Act, unless the contrary intention appears-<lf>   "actual unit contribution", in relation to an eligible pensioner, means the number of units of pension in respect of which pension was payable to the pensioner immediately before the commencing date;<lf>          "actual unit entitlement"-<lf>             (a)  in relation to an eligible pensioner (not being a non-contributing pensioner) who retired before the fourteenth day of December, One thousand nine hundred and fifty-nine, means-<lf>             (i)  the number of units of pension that, at the relevant time, was applicable in relation to him under the scale set out in sub-section (1) of section 13 of the Superannuation Act 1922 or of that Act as amended and in force at that time; or<lf>                  (ii)  his actual unit contribution,<lf>                 whichever is the greater;<lf>               (b)  in relation to an eligible pensioner (not being a non-contributing pensioner) who retired on or after the fourteenth day of December, One thousand nine hundred and fifty-nine, but before the first day of November, One thousand nine hundred and sixty-three, means-<lf>             (i)  the number of units of pension that, at the time immediately before his retirement, was applicable in relation to him under sub-section (2) or sub-section (3), as the case may be, of section 20 of the Superannuation Act 1922-1959; or<lf>                  (ii)  his actual unit contribution,<lf>                 whichever is the greater;<lf>               (c)  in relation to an eligible pensioner (not being a non-contributing pensioner) who retired on or after the first day of November, One thousand nine hundred and sixty-three, means-<lf>             (i)  the number of units of pension that, at the time immediately before his retirement, was applicable in relation to him under sub-section (2) of section 20 of the Superannuation Act 1922-1963 or of that Act as amended and in force at that time; or<lf>                  (ii)  his actual unit contribution,<lf>                 whichever is the greater; and<lf>               (d)  in relation to an eligible pensioner (being a non-contributing pensioner), means-<lf>             (i)  the number of units of pension that was, under the scale set out in sub-section (1) of section 13 of the Superannuation Act 1922, applicable to an annual salary equal to his annual salary at the time immediately before his retirement; or<lf>                  (ii)  four units of pension,<lf>                 whichever is the less;<lf>            "additional unit entitlement", in relation to an eligible pensioner, means the number of units of pension, if any, by which his adjusted unit entitlement exceeds his actual unit entitlement;<lf>          "adjusted unit entitlement", in relation to an eligible pensioner, means the number of units of pension that would have been applicable in relation to him under sub-section (2) of section 20 of the Superannuation Act 1922-1967 at the thirtieth day of June, One thousand nine hundred and sixty-seven, if he had not retired and had been in receipt of an annual salary equal to his notional annual salary;<lf>          "eligible pensioner" means-<lf>             (a)  a person to whom, immediately before the commencing date, a pension was payable by virtue of that person having been a contributor, being a pension that commenced to be payable before the thirtieth day of June, One thousand nine hundred and sixty-seven; or<lf>         (b)  a non-contributing pensioner;<lf>      "non-contributing pensioner" means a person to whom, immediately before the commencing date, a pension was payable (otherwise than as a widow) by virtue of section 9 or section 14 of the Superannuation Act (No. 2) 1956;<lf>          "notional annual salary", in relation to an eligible pensioner, means such annual salary as the Treasurer, having regard to general increases in the rates of salaries of contributors that occurred after the relevant time, determines to be the salary that, as at the thirtieth day of June, One thousand nine hundred and sixty-seven-<lf>             (a)  in the case of a pensioner who is not a non-contributing pensioner, corresponded with the annual salary that was payable to him at the relevant time; or<lf>         (b)  in the case of a pensioner who is a non-contributing pensioner, corresponded with-<lf>             (i)  the annual salary that was payable to him at the relevant time; or<lf>                  (ii)  the minimum annual salary that, at the commencement of the Superannuation Act 1922, entitled an employee to contribute for four units of pension,<lf>                 whichever is the less;<lf>            "the commencing date" means the date of commencement of this Act;<lf>          "the relevant amount"-<lf>             (a)  in relation to an eligible pensioner not being a pensioner in relation to whom paragraph (b), (c), (d) or (e) of this definition applies-means the amount of Sixty-five dollars;<lf>         (b)  in relation to an eligible pensioner whose actual unit contribution is less than his actual unit entitlement, not being a pensioner in relation to whom section 52 of the Superannuation Act 1922 or of that Act as amended applied or in relation to whom paragraph (d) or (e) of this definition applies-means such amount as bears to the amount of Sixty-five dollars the same proportion as his actual unit contribution bears to his actual unit entitlement;<lf>         (c)  in relation to an eligible pensioner in relation to whom section 52 of the Superannuation Act 1922 or of that Act as amended applied and who had neglected to contribute, or had elected not to contribute, for a unit of pension (including a fraction of a unit of pension) for which he was eligible or required to contribute, not being a pensioner in relation to whom either of the next two succeeding paragraphs applies-means such amount as bears to the amount of Sixty-five dollars the same proportion as his actual unit contribution bears to a number of units of pension equal to the difference between-<lf>             (i)  if the pensioner retired before the fourteenth day of December, One thousand nine hundred and fifty-nine-the number of units of pension that, at the relevant time, was applicable in relation to him under the scale set out in sub-section (1) of section 13 of the Superannuation Act 1922 or of that Act as amended and in force at that time;<lf>                  (ii)  if the pensioner retired on or after the fourteenth day of December, One thousand nine hundred and fifty-nine, but before the first day of November, One thousand nine hundred and sixty-three-the number of units of pension that, at the time immediately before his retirement, was applicable in relation to him under sub-section (2) or sub-section (3), as the case may be, of section 20 of the Superannuation Act 1922-1959; or<lf>                  (iii)  if the pensioner retired on or after the first day of November, One thousand nine hundred and sixty-three-the number of units of pension that, at the time immediately before his retirement, was applicable in relation to him under sub-section (2) of section 20 of the Superannuation Act 1922-1963 or of that Act as amended and in force at that time,<lf>                 and the number of units determined in relation to him for the purposes of paragraph (b) of sub-section (1) of section 52 of the Superannuation Act 1922 or of that Act as amended;<lf>         (d)  in relation to an eligible pensioner whose pension became payable under the proviso to section 29 of the Superannuation Act 1922 or of that Act as amended, or under section 60M, or paragraph (a) of sub-section (2) of section 60O, of the Superannuation Act 1922-1924 or of that Act as amended, not being a pensioner in relation to whom the next succeeding paragraph applies-means such amount as bears to the amount that would, but for this paragraph and the next succeeding paragraph, be applicable in relation to him under this definition the same proportion as the amount of annual pension that was payable to him immediately before the commencing date bears to the amount of annual pension that would have been so payable to him if, upon retirement, he had become entitled to receive a pension under section 29 of the Superannuation Act 1922 or of that Act as amended, according to the number of units of pension for which he was contributing at the time of his retirement; and<lf>         (e)  in relation to an eligible pensioner who entered into an agreement with the Board under section 73 of the Superannuation Act 1959 or gave a notice to the Board under section 33 of the Superannuation Act 1963 and whose pension was reduced by reason of his not having paid an amount of, or of interest upon, contributions the payment of which was deferred-means such amount as bears to the amount that would, but for this paragraph, be applicable in relation to him under this definition the same proportion as the amount of annual pension that was payable to him immediately before the commencing date bears to the amount of annual pension that would have been so payable to him if his pension had not been so reduced;<lf>      "the relevant time"-<lf>      (a)  in relation to an eligible pensioner who retired before the twelfth day of June, One thousand nine hundred and forty-seven, not being a non-contributing pensioner-means the time immediately before he ceased to pay contributions or he attained the maximum age for retirement, whichever first occurred; and<lf>         (b)  in relation to any other eligible pensioner-means the time immediately before his retirement. 
 
- 
-###  SUPERANNUATION (PENSION INCREASES) ACT 1967- SECT 3  Interpretation 
-<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
+  (2) In ascertaining for the purpose of paragraph (d) or paragraph (e) of the definition of "the relevant amount" in the last preceding sub-section the amount of annual pension that was, or would have been, payable to an eligible pensioner immediately before the commencing date, the operation of section 44 of the Superannuation Act 1922-1967 shall be disregarded. 
 
-</dd> 
-<dl compact=""><dl compact="">
+  (3) Subject to sub-section (1) of this section, expressions used in this Act that are also used in the Superannuation Act 1922-1967 have in this Act, unless the contrary intention appears, the same respective meanings as they have in the Superannuation Act 1922-1967\. 
 
-_actual unit contribution_, in relation to an eligible pensioner,
+  (4) For the purposes of this Act, the annual salary that was payable at any material time to an eligible pensioner who, at that time, was paid salary at a rate other than an annual rate of salary shall be ascertained as prescribed for the purposes of paragraph (a) of sub-section (1) of section 22 of the Superannuation Act 1922-1967\. 
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-means the number of units of pension in respect of which pension was payable to
+### <name>SUPERANNUATION (PENSION INCREASES) ACT 1967 - SECT 4 Increases in certain pensions </name>
+</b>** 
 
-the pensioner immediately before the commencing date. _actual unit entitlement_:  </dl></dl>
+## SECT
+<sect>   4\. (1) Where the adjusted unit entitlement of an eligible pensioner exceeds his actual unit entitlement, the pensioner is, subject to this section, entitled to an increase in the amount of the annual pension that is payable to him, being an increase equal to the relevant amount applicable in relation to him multiplied by a number equal to the number of units of pension included in his additional unit entitlement. 
 
-<dl compact=""><dl compact=""><dl compact="">
+  (2) Where the pension payable to an eligible pensioner was increased in pursuance of section 11 of the Superannuation Act 1957, section 4 of the Superannuation (Pension Increases) Act 1961 or section 26 of the Superannuation Act 1963, the pensioner is not entitled to an increase under the last preceding sub-section in the amount of the annual pension that is payable to him except to the extent that the amount of the increase in the annual pension to which, but for this sub-section, he would be entitled exceeds the sum of the amounts by which the amount of annual pension payable to him was increased in pursuance of section 11 of the Superannuation Act 1957, section 4 of the Superannuation (Pension Increases) Act 1961 and section 26 of the Superannuation Act 1963, respectively. 
 
-<dt>(a)</dt><dd>in relation to an eligible pensioner (not being a non-contributing
+  (3) Where, immediately before the commencing date, a pension was payable to a person by virtue of that person being the widow of-<lf>   (a)  a pensioner who, if he had not died and had been in receipt of pension immediately before the commencing date, would have been entitled to an increase in that pension under sub-section (1) of this section; or<lf>          (b)  a person who died before retirement but who, if he had retired on the day on which he died and had been in receipt of pension immediately before the commencing date, would have been entitled to an increase in that pension under that sub-section,<lf>        the widow is, subject to this section, entitled to an increase in her pension, being an increase equal to-<lf>   (c)  in the case of a widow whose husband elected that section 26 of the Superannuation Act 1922-1959 should not apply to him and did not revoke that election-one-half of the increase in pension to which her husband would have been entitled under sub-section (1) of this section; or<lf>          (d)  in any other case-five-eighths of the increase in pension to which her husband would have been entitled under sub-section (1) of this section. <p>  (4) The increases in pensions provided for by this section do not apply to or in relation to-<lf>   (a)  a pension that became payable under section 57 of the Superannuation Act 1922 or of that Act as amended, not being a pension for which contributions were made to a State Fund as defined by section 101 of the Superannuation Act 1922-1967; or<lf>          (b)  a pension that became payable under section 53 or section 58 of the Superannuation Act 1922 or of that Act as amended. <p></p></lf></lf></p></lf></lf></lf></lf></lf>
+</sect>
+**<b>
 
-pensioner) who retired before the fourteenth day of December, One thousand nine
+### <name>SUPERANNUATION (PENSION INCREASES) ACT 1967 - SECT 6 Payment of pension increases </name>
+</b>** 
 
-hundred and fifty-nine, means:
+## SECT
+<sect>   6\. (1) The reference in sub-section (1) of section 10 of the Superannuation Act 1922-1967 to benefits under that Act shall be read as including a reference to increases in pensions payable by virtue of section 4 of this Act and a reference to pensions payable by virtue of section 5 of this Act. 
 
-</dd>
+  (2) The Commonwealth shall pay to the Superannuation Fund amounts equal to the amounts by which payments of pensions (including pensions that become payable to widows of eligible pensioners who die on or after the commencing date) are increased by virtue of section 4 of this Act, and the Consolidated Revenue Fund is, to the necessary extent, appropriated accordingly. 
 
-</dl></dl></dl>
+  (3) The reference in sub-section (1) of section 145 of the Superannuation Act 1922-1967 to the amount paid by the Commonwealth to the Superannuation Fund under that Act in respect of a person shall be read as including a reference to an amount paid by the Commonwealth to the Superannuation Fund under the last preceding sub-section in respect of that person. 
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+  (4) The Commonwealth shall pay to the Superannuation Fund-<lf>          (a)  in respect of each payment of pension made from that Fund to a person whose name is specified in the first column of the Schedule to this Act-an amount at the rate specified in the third column of that Schedule opposite to the name of that person; and<lf>          (b)  in respect of each payment of pension made from that Fund to the widow of a male person whose name is so specified-an amount at a rate equal to five-eighths of the rate specified in the third column of that Schedule opposite to the name of that person,<lf>        and the Consolidated Revenue Fund is, to the necessary extent, appropriated accordingly. <p></p></lf></lf></lf>
+</sect>
+**<b>
 
-<dt>(i)</dt><dd>the number of units of pension that, at the relevant time, was applicable
+### <name>SUPERANNUATION (PENSION INCREASES) ACT 1967 - SECT 7 Application </name>
+</b>** 
 
-in relation to him under the scale set out in subsection&#160;(1) of
+## SECT
+<sect>   7\. (1) Increases in pensions payable by virtue of section 4 of this Act have effect from and including the first fortnightly payment of pensions made after the commencing date. 
 
-section&#160;13 of the _Superannuation Act 1922_ or of that Act as amended
-
-and in force at that time; or</dd>
-
-<dt>(ii)</dt><dd>his actual unit contribution;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-whichever is the greater;
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>in relation to an eligible pensioner (not being a non-contributing
-
-pensioner) who retired on or after the fourteenth day of December, One thousand
-
-nine hundred and fifty-nine, but before the first day of November, One thousand
-
-nine hundred and sixty-three, means:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the number of units of pension that, at the time immediately before his
-
-retirement, was applicable in relation to him under subsection&#160;(2) or
-
-subsection&#160;(3), as the case may be, of section&#160;20 of the
-
-_Superannuation Act 1922-1959_; or</dd>
-
-<dt>(ii)</dt><dd>his actual unit contribution;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-whichever is the greater;
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>in relation to an eligible pensioner (not being a non-contributing
-
-pensioner) who retired on or after the first day of November, One thousand nine
-
-hundred and sixty-three, means:
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the number of units of pension that, at the time immediately before his
-
-retirement, was applicable in relation to him under subsection&#160;(2) of
-
-section&#160;20 of the _Superannuation Act 1922-1963_ or of that Act as
-
-amended and in force at that time; or</dd>
-
-<dt>(ii)</dt><dd>his actual unit contribution;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-whichever is the greater; and
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(d)</dt><dd>in relation to an eligible pensioner (being a non-contributing pensioner),
-
-means:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the number of units of pension that was, under the scale set out in
-
-subsection&#160;(1) of section&#160;13 of the _Superannuation Act 1922_,
-
-applicable to an annual salary equal to his annual salary at the time
-
-immediately before his retirement; or</dd>
-
-<dt>(ii)</dt><dd>four units of pension;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-whichever is the less.
-
-<def><dl compact=""><dl compact="">
-
-_additional unit entitlement_, in relation to an eligible
-
-pensioner, means the number of units of pension, if any, by which his adjusted
-
-unit entitlement exceeds his actual unit entitlement. _adjusted unit entitlement_, in relation to an eligible pensioner, means the number of units of pension that would have been applicable in relation to him under subsection&#160;(2) of section&#160;20 of the _Superannuation Act 1922-1967_ at the thirtieth day of June, One thousand nine hundred and sixty-seven, if he had not retired and had been in receipt of an annual salary equal to his notional annual salary. _eligible pensioner_ means:  </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a person to whom, immediately before the commencing date, a pension was
-
-payable by virtue of that person having been a contributor, being a pension
-
-that commenced to be payable before the thirtieth day of June, One thousand
-
-nine hundred and sixty-seven; or</dd>
-
-<dt>(b)</dt><dd>a non-contributing pensioner.
-
-</dd>
-
-</dl></dl></dl>
-
-<def><dl compact=""><dl compact="">
-
-_non-contributing pensioner_ means a person to whom, immediately
-
-before the commencing date, a pension was payable (otherwise than as a widow)
-
-by virtue of section&#160;9 or section&#160;14 of the _Superannuation Act (No. 2) 1956_. _notional annual salary_, in relation to an eligible pensioner, means such annual salary as the Treasurer, having regard to general increases in the rates of salaries of contributors that occurred after the relevant time, determines to be the salary that, as at the thirtieth day of June, One thousand nine hundred and sixty-seven:  </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in the case of a pensioner who is not a non-contributing pensioner,
-
-corresponded with the annual salary that was payable to him at the relevant
-
-time; or</dd>
-
-<dt>(b)</dt><dd>in the case of a pensioner who is a non-contributing pensioner,
-
-corresponded with:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the annual salary that was payable to him at the relevant time; or</dd>
-
-<dt>(ii)</dt><dd>the minimum annual salary that, at the commencement of the
-
-_Superannuation Act 1922_, entitled an employee to contribute for four
-
-units of pension
-
-</dd>
-
-</dl></dl></dl></dl>
-
-whichever is the less.
-
-<def><dl compact=""><dl compact="">
-
-_the commencing date_ means the date of commencement of this Act. _the relevant amount_:  </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in relation to an eligible pensioner not being a pensioner in relation to
-
-whom paragraph&#160;(b), (c), (d) or (e) of this definition applies&#151;means the
-
-amount of Sixty-five dollars;</dd>
-
-<dt>(b)</dt><dd>in relation to an eligible pensioner whose actual unit contribution is
-
-less than his actual unit entitlement, not being a pensioner in relation to
-
-whom section&#160;52 of the _Superannuation Act 1922_ or of that Act as
-
-amended applied or in relation to whom paragraph&#160;(d) or (e) of this
-
-definition applies&#151;means such amount as bears to the amount of Sixty-five
-
-dollars the same proportion as his actual unit contribution bears to his actual
-
-unit entitlement;</dd>
-
-<dt>(c)</dt><dd>in relation to an eligible pensioner in relation to whom section&#160;52
-
-of the _Superannuation Act 1922_ or of that Act as amended applied and who
-
-had neglected to contribute, or had elected not to contribute, for a unit of
-
-pension (including a fraction of a unit of pension) for which he was eligible
-
-or required to contribute, not being a pensioner in relation to whom either of
-
-the next two succeeding paragraphs applies&#151;means such amount as bears to the
-
-amount of Sixty-five dollars the same proportion as his actual unit
-
-contribution bears to a number of units of pension equal to the difference
-
-between:
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>if the pensioner retired before the fourteenth day of December, One
-
-thousand nine hundred and fifty-nine&#151;the number of units of pension that, at
-
-the relevant time, was applicable in relation to him under the scale set out in
-
-subsection&#160;(1) of section&#160;13 of the _Superannuation Act 1922_ or
-
-of that Act as amended and in force at that time;</dd>
-
-<dt>(ii)</dt><dd>if the pensioner retired on or after the fourteenth day of December, One
-
-thousand nine hundred and fifty-nine, but before the first day of November, One
-
-thousand nine hundred and sixty-three&#151;the number of units of pension that, at
-
-the time immediately before his retirement, was applicable in relation to him
-
-under subsection&#160;(2) or subsection&#160;(3), as the case may be, of
-
-section&#160;20 of the _Superannuation Act 1922-1959_; or</dd>
-
-<dt>(iii)</dt><dd>if the pensioner retired on or after the first day of November, One
-
-thousand nine hundred and sixty-three&#151;the number of units of pension that, at
-
-the time immediately before his retirement, was applicable in relation to him
-
-under subsection&#160;(2) of section&#160;20 of the _Superannuation Act 1922-1963_ or of that Act as amended and in force at that time;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-and the number of units determined in relation to him for the purposes of paragraph&#160;(b) of subsection&#160;(1) of section&#160;52 of the _Superannuation Act 1922_ or of that Act as amended;
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(d)</dt><dd>in relation to an eligible pensioner whose pension became payable under
-
-the proviso to section&#160;29 of the _Superannuation Act 1922_ or of that
-
-Act as amended, or under section&#160;60M, or paragraph&#160;(a) of
-
-subsection&#160;(2) of section&#160;60O, of the _Superannuation Act 1922-1924_ or of that Act as amended, not being a pensioner in relation to
-
-whom the next succeeding paragraph applies&#151;means such amount as bears to the
-
-amount that would, but for this paragraph and the next succeeding paragraph, be
-
-applicable in relation to him under this definition the same proportion as the
-
-amount of annual pension that was payable to him immediately before the
-
-commencing date bears to the amount of annual pension that would have been so
-
-payable to him if, upon retirement, he had become entitled to receive a pension
-
-under section&#160;29 of the _Superannuation Act 1922_ or of that Act as
-
-amended, according to the number of units of pension for which he was
-
-contributing at the time of his retirement; and</dd>
-
-<dt>(e)</dt><dd>in relation to an eligible pensioner who entered into an agreement with
-
-the Board under section&#160;73 of the _Superannuation Act 1959_ or gave a
-
-notice to the Board under section&#160;33 of the _Superannuation Act 1963_
-
-and whose pension was reduced by reason of his not having paid an amount of, or
-
-of interest upon, contributions the payment of which was deferred&#151;means such
-
-amount as bears to the amount that would, but for this paragraph, be applicable
-
-in relation to him under this definition the same proportion as the amount of
-
-annual pension that was payable to him immediately before the commencing date
-
-bears to the amount of annual pension that would have been so payable to him if
-
-his pension had not been so reduced.
-
-</dd>
-
-</dl></dl></dl>
-
-<def><dl compact=""><dl compact="">
-
-_the relevant time_:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in relation to an eligible pensioner who retired before the twelfth day of
-
-June, One thousand nine hundred and forty-seven, not being a non-contributing
-
-pensioner&#151;means the time immediately before he ceased to pay contributions or
-
-he attained the maximum age for retirement, whichever first occurred; and</dd>
-
-<dt>(b)</dt><dd>in relation to any other eligible pensioner&#151;means the time immediately
-
-before his retirement.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(2)</dt><dd>In ascertaining for the purpose of paragraph&#160;(d) or
-
-paragraph&#160;(e) of the definition of _the relevant amount_ in
-
-the last preceding subsection the amount of annual pension that was, or would
-
-have been, payable to an eligible pensioner immediately before the commencing
-
-date, the operation of section&#160;44 of the _Superannuation Act 1922-1967_ shall be disregarded.</dd> <dt>(3)</dt><dd>Subject to subsection&#160;(1) of this section, expressions used in this Act that are also used in the _Superannuation Act 1922-1967_ have in this Act, unless the contrary intention appears, the same respective meanings as they have in the _Superannuation Act 1922-1967_.</dd> <dt>(4)</dt><dd>For the purposes of this Act, the annual salary that was payable at any material time to an eligible pensioner who, at that time, was paid salary at a rate other than an annual rate of salary shall be ascertained as prescribed for the purposes of paragraph&#160;(a) of subsection&#160;(1) of section&#160;22 of the _Superannuation Act 1922-1967_. </dd> </dl>
-
-<center>Back to Top</center>
-
-**
-
-###  SUPERANNUATION (PENSION INCREASES) ACT 1967- SECT 4  Increases in certain pensions 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Where the adjusted unit entitlement of an eligible pensioner exceeds his
-
-actual unit entitlement, the pensioner is, subject to this section, entitled to
-
-an increase in the amount of the annual pension that is payable to him, being
-
-an increase equal to the relevant amount applicable in relation to him
-
-multiplied by a number equal to the number of units of pension included in his
-
-additional unit entitlement.</dd> <dt>(2)</dt><dd>Where the pension payable to an eligible pensioner was increased in pursuance of section&#160;11 of the _Superannuation Act 1957_, section&#160;4 of the _Superannuation (Pension Increases) Act 1961_ or section&#160;26 of the _Superannuation Act 1963_, the pensioner is not entitled to an increase under the last preceding subsection in the amount of the annual pension that is payable to him except to the extent that the amount of the increase in the annual pension to which, but for this subsection, he would be entitled exceeds the sum of the amounts by which the amount of annual pension payable to him was increased in pursuance of section&#160;11 of the _Superannuation Act 1957_, section&#160;4 of the _Superannuation (Pension Increases) Act 1961_ and section&#160;26 of the _Superannuation Act 1963_, respectively.</dd> <dt>(3)</dt><dd>Where, immediately before the commencing date, a pension was payable to a person by virtue of that person being the widow of: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a pensioner who, if he had not died and had been in receipt of pension
-
-immediately before the commencing date, would have been entitled to an increase
-
-in that pension under subsection&#160;(1) of this section; or</dd>
-
-<dt>(b)</dt><dd>a person who died before retirement but who, if he had retired on the day
-
-on which he died and had been in receipt of pension immediately before the
-
-commencing date, would have been entitled to an increase in that pension under
-
-that subsection, the widow is, subject to this section, entitled to an increase
-
-in her
-
-</dd>
-
-</dl></dl></dl>
-
-pension, being an increase equal to:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>in the case of a widow whose husband elected that section&#160;26 of the
-
-_Superannuation Act 1922-1959_ should not apply to him and did not revoke
-
-that election&#151;one-half of the increase in pension to which her husband would
-
-have been entitled under subsection&#160;(1) of this section; or</dd>
-
-<dt>(d)</dt><dd>in any other case&#151;five-eighths of the increase in pension to which her
-
-husband would have been entitled under subsection&#160;(1) of this section.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact="">
-
-<dt>(4)</dt><dd>The increases in pensions provided for by this section do not apply to or
-
-in relation to:
-
-</dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>a pension that became payable under section&#160;57 of the
-
-_Superannuation Act 1922_ or of that Act as amended, not being a pension
-
-for which contributions were made to a State Fund as defined by
-
-section&#160;101 of the _Superannuation Act 1922-1967_; or</dd>
-
-<dt>(b)</dt><dd>a pension that became payable under section&#160;53 or section&#160;58 of
-
-the _Superannuation Act 1922_ or of that Act as amended.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  SUPERANNUATION (PENSION INCREASES) ACT 1967- SECT 6  Payment of pension increases 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The reference in subsection&#160;(1) of section&#160;10 of the
-
-_Superannuation Act 1922-1967_ to benefits under that Act shall be read as
-
-including a reference to increases in pensions payable by virtue of
-
-section&#160;4 of this Act and a reference to pensions payable by virtue of
-
-section&#160;5 of this Act.</dd> <dt>(2)</dt><dd>The Commonwealth shall pay to the Superannuation Fund amounts equal to the amounts by which payments of pensions (including pensions that become payable to widows of eligible pensioners who die on or after the commencing date) are increased by virtue of section&#160;4 of this Act, and the Consolidated Revenue Fund is, to the necessary extent, appropriated accordingly.</dd> <dt>(3)</dt><dd>The reference in subsection&#160;(1) of section&#160;145 of the _Superannuation Act 1922-1967_ to the amount paid by the Commonwealth to the Superannuation Fund under that Act in respect of a person shall be read as including a reference to an amount paid by the Commonwealth to the Superannuation Fund under the last preceding subsection in respect of that person.</dd> <dt>(4)</dt><dd>The Commonwealth shall pay to the Superannuation Fund: </dd> </dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>in respect of each payment of pension made from that Fund to a person
-
-whose name is specified in the first column of the Schedule to this Act&#151;an
-
-amount at the rate specified in the third column of that Schedule opposite to
-
-the name of that person; and</dd>
-
-<dt>(b)</dt><dd>in respect of each payment of pension made from that Fund to the widow of
-
-a male person whose name is so specified&#151;an amount at a rate equal to
-
-five-eighths of the rate specified in the third column of that Schedule
-
-opposite to the name of that person;
-
-</dd>
-
-</dl></dl></dl>
-
-and the Consolidated Revenue Fund is, to the necessary extent, appropriated accordingly. 
-
-**
-
-###  SUPERANNUATION (PENSION INCREASES) ACT 1967- SECT 7  Application 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>Increases in pensions payable by virtue of section&#160;4 of this Act have
-
-effect from and including the first fortnightly payment of pensions made after
-
-the commencing date.</dd> <dt>(2)</dt><dd>Pensions payable by virtue of section&#160;5 of this Act are payable from and including the first fortnightly payment of pensions made after the commencing date. </dd> </dl>
-
-<center>**
-
-###  SUPERANNUATION (PENSION INCREASES) ACT 1967<centreit>Notes to the _Superannuation (Pension Increases) Act 1967_ </centreit>
-**</center>
-
-**Note 1**
-
-The _Superannuation (Pension Increases) Act 1967_ as shown in this compilation comprises Act No.&#160;90, 1967 amended as indicated in the Tables below.
-
-**Table of Acts**
-
-<table><tr align="left">
-  <th colspan="1" align="left">
-    <div>Act</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Number 
-and year</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </th>
-</tr></table>
-
-<table><tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Superannuation (Pension Increases) Act 1967</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>90, 1967</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>8 Nov 1967</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>8 Nov 1967</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Superannuation (Pension Increases) Act 1971</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>73, 1971</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1 Oct 1971</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1 Oct 1971</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr></table>**Table of Amendments**
-
-<table><tr align="left">
-  <th colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>Provision affected</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>How affected</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S.5</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;73, 1971</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>The Schedule</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No.&#160;73, 1971</div>
-
-  </td>
-</tr></table>
-
-</def>
-
-</def></def></def>
-
-
+  (2) Pensions payable by virtue of section 5 of this Act are payable from and including the first fortnightly payment of pensions made after the commencing date. 
+</sect>
