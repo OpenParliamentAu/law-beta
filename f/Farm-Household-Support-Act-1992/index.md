@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image001.gif)
 
 # Farm Household Support Act 1992
 
 **Act No. 241 of 1992 as amended**
 
-This compilation was prepared on 3 June 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1196,7 +1196,7 @@ disregard the off‑farm salary and wages of the person, or if the person is a m
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image002.gif)
 
                             where:
 
@@ -1210,7 +1210,7 @@ disregard the off‑farm salary and wages of the person, or if the person is a m
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image003.gif)
 
                             where:
 
@@ -1294,7 +1294,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image002.gif)
 
                             where:
 
@@ -1318,7 +1318,7 @@ disregard the salary and wages of the person from other sources or, if the perso
 
                      (b)  the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image003.gif)
 
                             where:
 
@@ -1408,7 +1408,7 @@ Certain superannuation contributions disregarded
 
                    The instalment of farm household support payable for a period to a person is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image004.gif)
 
 Note:          for the person’s applicable rate see section 24.
 
@@ -1416,7 +1416,7 @@ Note:          for the person’s applicable rate see section�
 
                    The instalment of exceptional circumstances relief payment payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image005.gif)
 
 Note 1:       For the person’s rate, see section 24A.
 
@@ -1426,7 +1426,7 @@ Note 2:       An instalment of exceptional circumstances relief paym
 
                    The instalment of farm help income support payable for a period to a person is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image006.gif)
 
 Note 1:       For the person’s rate, see section 24B.
 
@@ -1514,7 +1514,7 @@ the amount is to be increased by 0.5 cent.
 
              (1)  The instalment of farm household support payable to a former RAS (Part C) beneficiary for a period determined under section 28 is:
 
-![](http://www.comlaw.gov.au/Details/C2011C00411/Html/37e33e71-001d-419c-8ccf-5ef33f7fca8a_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00354/Html/1408fdc6-d57b-4433-a3b6-a101cbfcaeb9_files/image007.gif)
 
              (2)  For the purposes of subsection (1), the applicable RAS rate in relation to a former RAS (Part C) beneficiary is the fortnightly rate that applied for the last payment of Part C assistance made by way of loan to him or her before the commencement of this Act under the RAS scheme applicable to him or her.
 
@@ -2272,7 +2272,7 @@ Note:          A debt due to the Commonwealth under this secti
 
 The amendments made by this Part are incorporated in the compilation on ComLaw.
 
- For access to the wording of the amendments made by this Part, _see_ Act No. 241, 1992.
+ For access to the wording of the amendments made by this Part, see Act No. 241, 1992.
 
 * * *
 
@@ -3197,23 +3197,6 @@ Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
     <div>Schedule 7 (items 59, 60): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 (items 95–107): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -5493,88 +5476,6 @@ Div. 1 of Part 4</div>
     <div>rep. No. 179, 1997</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following amendments commence on 1 July 2011:
-
-## Schedule 4
-
-## 95  Subsection 3(2) (definition of _Agency_)
-
-Repeal the definition.
-
-## 96  Subsection 3(2) (definition of _CEO_)
-
-Repeal the definition.
-
-## 97  Subsection 3(2)
-
-Insert:
-
-                    <a name="chief-execut-centrelink"></a>**_Chief Executive Centrelink_** has the same meaning as in the _Human Services (Centrelink) Act 1997_.
-
-## 98  Subsection 3(2) (definition of _employee_)
-
-Repeal the definition.
-
-## 99  Subsection 3(2)
-
-Insert:
-
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Human Services Minister.
-
-## 100  Subsection 3(2)
-
-Insert:
-
-                    <a name="human-servic-minist"></a>**_Human Services Minister_** means the Minister administering the _Human Services (Centrelink) Act 1997_.
-
-## 101  Subsection 3(2) (definition of _service arrangements_)
-
-Repeal the definition.
-
-## 102  Subsection 53(3)
-
-Repeal the subsection, substitute:
-
-             (3)  The Secretary may, in writing, delegate all or any of his or her powers under this Act to:
-
-                     (a)  the Chief Executive Centrelink; or
-
-                     (b)  a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_).
-
-## 103  Subsection 53A(1)
-
-Repeal the subsection, substitute:
-
-             (1)  If the Secretary delegates to:
-
-                     (a)  the Chief Executive Centrelink; or
-
-                     (b)  a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_);
-
-a power under this Act to require a person to produce or give to the Department any document or information, the delegate may, in exercising the power, require the person to produce or give the document or information to the Human Services Department instead of the Department.
-
-## 104  Subsections 53A(2) and (3)
-
-Omit “Agency”, substitute “Human Services Department”.
-
-## 105  Paragraph 53A(4)(a)
-
-Omit “CEO or an employee of the Agency”, substitute “Chief Executive Centrelink or a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_)”.
-
-## 106  Paragraph 53A(4)(c)
-
-Omit “CEO”, substitute “Chief Executive Centrelink”.
-
-## 107  Paragraph 53A(4)(d)
-
-Omit “Agency”, substitute “Human Services Department”.
-
-As at 3 June 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
