@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00596/Html/52447d24-f2ef-4b4c-b7c1-aeb56ee9f95c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00464/Html/745bc17d-a488-4092-afaf-1e67f4e26148_files/image001.gif)
 
 # Age Discrimination Act 2004
 
 **Act No. 68 of 2004 as amended**
 
-This compilation was prepared on 31 July 2012
+This compilation was prepared on 24 May 2012
  taking into account amendments up to Act No. 26 of 2012
 
 The text of any of those amendments not in force
@@ -1955,7 +1955,7 @@ Note:          A defendant bears an evidential burden in relat
   <td>
     <div>
       <i>Australian Institute of Aboriginal and Torres Strait Islander Studies
-        Act 1989</i>
+        Act 1989</i>
     </div>
   </td>
 </tr>
@@ -2187,7 +2187,7 @@ Note:          A defendant bears an evidential burden in relat
   </td>
   <td>
     <div>
-      <i>Fair Work (Transitional Provisions and Consequential Amendments) Act 2009</i>
+      <i>Fair Work (Transitional Provisions and Consequential Amendments) Act 2009</i>
     </div>
   </td>
 </tr>
@@ -2534,7 +2534,7 @@ Note:          A defendant bears an evidential burden in relat
   </td>
   <td>
     <div>
-      <i>Long Service Leave (Commonwealth Employees) Act 1976</i>
+      <i>Long Service Leave (Commonwealth Employees) Act 1976</i>
     </div>
   </td>
   <td>
@@ -2604,7 +2604,7 @@ Note:          A defendant bears an evidential burden in relat
     </div>
   </td>
   <td>
-    <div>sections 22‑15 and 22‑25, Part 2‑3 and subsection 63‑5(4)</div>
+    <div>sections 23‑1, 23‑10, 26‑1 and 26‑5, Part 2‑3 and subsection 63‑5(4)</div>
   </td>
 </tr>
 <tr>
@@ -2777,7 +2777,7 @@ of Assent</div>
     <div>4 Nov 2006</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2795,7 +2795,7 @@ Remainder: Royal Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3035,7 +3035,7 @@ Schedule 2 (item 2): 1 July 2008</div>
     <div>4 Apr 2012</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 48(1)): 1 July 2012</div>
+    <div>Schedule 1 (items 1, 48(1)): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 48(1))</div>
@@ -3533,63 +3533,7 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
 </tr>
 <tr>
   <td>
-    <div>S. 53A</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53B</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53C</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53D</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53E</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53F</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53G</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53H</div>
+    <div>Ss. 53A–53H</div>
   </td>
   <td>
     <div>ad. No. 40, 2011</div>
@@ -3640,7 +3584,7 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
     <div>Schedule 1</div>
   </td>
   <td>
-    <div>am. Nos. 7, 63 and 125, 2006; No. 73, 2008; No. 54, 2009; No. 26, 2012</div>
+    <div>am. Nos. 7, 63 and 125, 2006; No. 73, 2008; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3667,6 +3611,20 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
     <div>am. No. 32, 2007; No. 42, 2008; No. 66, 2009</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Fairer Private Health Insurance Incentives Act 2012 (No. 26, 2012)_
+
+The following amendment commences on 1 July 2012:
+
+## Schedule 1
+
+## 1  Schedule 2 (table item 9A, column headed “Provision(s)”)
+
+Omit “23‑1, 23‑10, 26‑1 and 26‑5”, substitute “22‑15 and 22‑25”.
+
+As at 24 May 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -3865,7 +3823,7 @@ The amendment made by item 2 of Schedule 1 applies in relation to things don
 
 * * *
 
-_Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 (No. 70, 2009)_
+_Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 (No. 70, 2009)_
 
 ## Schedule 1
 
@@ -3876,6 +3834,8 @@ The amendment of section 16 of the _Age Discrimination Act 2004_ made by this 
 * * *
 
 _Fairer Private Health Insurance Incentives Act 2012 (No. 26, 2012)_
+
+The following provision commences on 1 July 2012:
 
 ## Schedule 1
 
