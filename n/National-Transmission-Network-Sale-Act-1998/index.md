@@ -1,20 +1,18 @@
-![](http://www.comlaw.gov.au/Details/C2010C00595/Html/NatTransNetSaleAct98_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01015/Html/image001.gif)
 
 # National Transmission Network Sale Act 1998
 
-**Act No. 130 of 1998 as amended**
+**Act No. 130 of 1998 as amended**
 
-This compilation was prepared on 16 August 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 1 May 2000 
+taking into account amendments up to Act No. 146 of 1999
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
+Prepared by the Office of Legislative Drafting,
+Attorney-General’s Department, Canberra
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -32,7 +30,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Extra-territorial operation                                                                    5
 
-**Part 2—Sale of the National Transmission Network**
+**Part 2—Sale of the National Transmission Network**
 
 [7](#7).            Fixtures on non-Commonwealth land                                                  6
 
@@ -46,7 +44,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12](#12).          Part does not place person in breach of contract etc                           9
 
-**Part 3—Access to services etc.**
+**Part 3—Access to services etc.**
 
 [13](#13).          Deemed application of telecommunications access regime                10
 
@@ -58,21 +56,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [17](#17).          Relationship with other access regimes                                             13
 
-**Part 4—Restrictions on transfer of assets**
+**Part 4—Restrictions on transfer of assets**
 
 [18](#18).          Minister’s approval required for transfers of original assets or replacement assets               14
 
-**Part 5—Transmitter licences**
+**Part 5—Transmitter licences**
 
 [19](#19).          Transfer of transmitter licences to ABC and SBS                             15
 
-**Part 6—Powers and immunities of NTC or declared successor**
+**Part 6—Powers and immunities of NTC or declared successor**
 
 [20](#20).          Deemed application of telecommunications carrier rules                  16
 
 [21](#21).          Miscellaneous modifications of telecommunications carrier rules     16
 
-**Part 7—Miscellaneous**
+**Part 7—Miscellaneous**
 
 [22](#22).          Declared successors                                                                           17
 
@@ -94,13 +92,14 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act relating to the sale of the National Transmission Network
 
-## Part 1—Preliminary
+## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _National Transmission Network Sale Act 1998_.
+                   This Act may be cited as the _National Transmission Network Sale Act 1998_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -114,7 +113,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="accc"></a>**_ACCC_** means the Australian Competition and Consumer Commission.
 
-                    <a name="access-seeker"></a>**_access seeker_** has the same meaning as in Part XIC of the Trade Practices Act.
+                    <a name="access-seeker"></a>**_access seeker_** has the same meaning as in Part XIC of the Trade Practices Act.
 
                     <a name="ancillari-servic"></a>**_ancillary service_** means a service that is ancillary to a national broadcasting service and is carried by means of an analog main carrier signal that is used for the transmission of the national broadcasting service.
 
@@ -150,7 +149,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="declar-remot-area"></a>**_declared remote area_** means an area specified by the Minister, in writing, for the purposes of this definition.
 
-                    <a name="declar-successor"></a>**_declared successor_** means a person declared under section 22 to be a declared successor.
+                    <a name="declar-successor"></a>**_declared successor_** means a person declared under section 22 to be a declared successor.
 
                     <a name="emerg-servic-organis"></a>**_emergency service organisation_** means:
 
@@ -166,7 +165,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  any other organisation specified by the Minister, in writing, for the purposes of this paragraph.
 
-                    <a name="exempt-re-transmiss"></a>**_exempt re-transmission_** means a re-transmission covered by section 212 of the Broadcasting Services Act.
+                    <a name="exempt-re-transmiss"></a>**_exempt re-transmission_** means a re-transmission covered by section 212 of the Broadcasting Services Act.
 
                     <a name="govern-bodi"></a>**_government body_** means:
 
@@ -186,11 +185,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="nb-transmitt-licenc"></a>**_NBS transmitter licence_** means a transmitter licence (within the meaning of the Radiocommunications Act) for a transmitter that is for use for transmitting a national broadcasting service to the public.
 
-                    <a name="nomin-custom"></a>**_nominated customer_** has the meaning given by section 15.
+                    <a name="nomin-custom"></a>**_nominated customer_** has the meaning given by section 15.
 
-                    <a name="nomin-purpos"></a>**_nominated purpose_**, in relation to a person who is a nominated customer, means a purpose specified in section 15 as a purpose for which the person is a nominated customer.
+                    <a name="nomin-purpos"></a>**_nominated purpose_**, in relation to a person who is a nominated customer, means a purpose specified in section 15 as a purpose for which the person is a nominated customer.
 
-                    <a name="nomin-servic"></a>**_nominated service_** has the meaning given by section 14.
+                    <a name="nomin-servic"></a>**_nominated service_** has the meaning given by section 14.
 
                     <a name="non-profit-bodi"></a>**_non-profit body_** means an incorporated body that:
 
@@ -198,11 +197,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  is prohibited by its constituent document from making any distribution of money or property to its individual members.
 
-                    <a name="nation-transmiss-compani"></a><a name="ntc"></a>**_NTC_** or **_National Transmission Company_** means a company to which assets or liabilities are transferred under section 9.
+                    <a name="nation-transmiss-compani"></a><a name="ntc"></a>**_NTC_** or **_National Transmission Company_** means a company to which assets or liabilities are transferred under section 9.
 
                     <a name="open-narrowcast-televis-servic"></a>**_open narrowcasting television service_** has the same meaning as in the Broadcasting Services Act.
 
-                    <a name="origin-asset"></a>**_original asset_** means an asset transferred from the Commonwealth under section 9.
+                    <a name="origin-asset"></a>**_original asset_** means an asset transferred from the Commonwealth under section 9.
 
                     <a name="radiocommun"></a>**_radiocommunication_** has the same meaning as in the Radiocommunications Act.
 
@@ -218,31 +217,31 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="share"></a>**_share_**, in relation to a company, means a share in the company’s share capital.
 
-                    <a name="site"></a>**_site_** has the same meaning as in Part 5 of Schedule 1 to the Telecommunications Act.
+                    <a name="site"></a>**_site_** has the same meaning as in Part 5 of Schedule 1 to the Telecommunications Act.
 
                     <a name="specifi"></a>**_specified_**, in relation to an asset, liability or instrument, means specified or identified (whether by reference to a class or by any other means).
 
                     <a name="telecommun-access-regim"></a>**_telecommunications access regime_** means:
 
-                     (a)  Part XIC of the Trade Practices Act; and
+                     (a)  Part XIC of the Trade Practices Act; and
 
                      (b)  any other provisions of the Trade Practices Act that relate to the operation of that Part; and
 
-                     (c)  sections 62 and 68, subsection 70(5) and Parts 30, 31 and 32 of the Telecommunications Act; and
+                     (c)  sections 62 and 68, subsection 70(5) and Parts 30, 31 and 32 of the Telecommunications Act; and
 
-                     (d)  any other provisions of the Telecommunications Act that relate to the operation of the provisions specified in paragraph (c).
+                     (d)  any other provisions of the Telecommunications Act that relate to the operation of the provisions specified in paragraph (c).
 
                     <a name="telecommun-act"></a>**_Telecommunications Act_** means the _Telecommunications Act 1997_.
 
                     <a name="telecommun-carrier-rule"></a>**_telecommunications carrier rules_** means:
 
-                     (a)  Part 1 of Schedule 3 to the Telecommunications Act; and
+                     (a)  Part 1 of Schedule 3 to the Telecommunications Act; and
 
                      (b)  any other provisions of the Telecommunications Act that relate to the operation of that Part.
 
                     <a name="telecommun-facil"></a>**_telecommunications facility_** means a facility within the meaning of the Telecommunications Act.
 
-                    <a name="telecommun-transmiss-tower"></a>**_telecommunications transmission tower_** has the same meaning as in Part 5 of Schedule 1 to the Telecommunications Act.
+                    <a name="telecommun-transmiss-tower"></a>**_telecommunications transmission tower_** has the same meaning as in Part 5 of Schedule 1 to the Telecommunications Act.
 
                     <a name="trade-practic-act"></a>**_Trade Practices Act_** means the _Trade Practices Act 1974_.
 
@@ -260,7 +259,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act extends to acts, omissions, matters and things outside Australia, whether or not in a foreign country.
 
-## Part 2—Sale of the National Transmission Network
+## Part 2—Sale of the National Transmission Network
 
 ##### <a id="7"></a>7  Fixtures on non-Commonwealth land
 
@@ -282,7 +281,7 @@ by force of this section.
 
 ##### <a id="8"></a>8  Effect of Lands Acquisition Act on past grants etc. of interests in land
 
-             (1)  If an instrument made or executed before the commencement of this Act was expressed to grant or transfer an interest in land to or from the Commonwealth, then section 9 is to be applied on the basis that the grant or transfer is not invalid, and is taken never to have been invalid, solely because the grant or transfer was not made in accordance with the requirements of the Lands Acquisition Act.
+             (1)  If an instrument made or executed before the commencement of this Act was expressed to grant or transfer an interest in land to or from the Commonwealth, then section 9 is to be applied on the basis that the grant or transfer is not invalid, and is taken never to have been invalid, solely because the grant or transfer was not made in accordance with the requirements of the Lands Acquisition Act.
 
              (2)  In this section:
 
@@ -318,7 +317,7 @@ Note:          The assets and liabilities that can be transfer
 
              (1)  In this section:
 
-                    <a name="exempt-matter"></a>**_exempt matter_** means the transfer of an asset or a liability under section 9 to a company at a time when all the shares in the company are owned by the Commonwealth.
+                    <a name="exempt-matter"></a>**_exempt matter_** means the transfer of an asset or a liability under section 9 to a company at a time when all the shares in the company are owned by the Commonwealth.
 
              (2)  Stamp duty or other tax is not payable under a law of a State or Territory in respect of:
 
@@ -346,7 +345,7 @@ Note:          The assets and liabilities that can be transfer
 
                      (b)  deal with, and give effect to, the certificate.
 
-(3)  A document that appears to be a certificate under subsection (1) is taken to be such a certificate, and to have been properly given, unless the contrary is established.
+(3)  A document that appears to be a certificate under subsection (1) is taken to be such a certificate, and to have been properly given, unless the contrary is established.
 
              (4)  In this section:
 
@@ -372,7 +371,7 @@ Note:          The assets and liabilities that can be transfer
 
                      (d)  releasing any surety from any of the surety’s obligations in relation to a liability that is transferred to a company under this Part.
 
-## Part 3—Access to services etc.
+## Part 3—Access to services etc.
 
 ##### <a id="13"></a>13  Deemed application of telecommunications access regime
 
@@ -380,7 +379,7 @@ Note:          The assets and liabilities that can be transfer
 
              (2)  The telecommunications access regime has effect as if:
 
-                     (a)  each nominated service were a declared service within the meaning of Part XIC of the Trade Practices Act; and
+                     (a)  each nominated service were a declared service within the meaning of Part XIC of the Trade Practices Act; and
 
                      (b)  each provider of a nominated service were:
 
@@ -388,7 +387,7 @@ Note:          The assets and liabilities that can be transfer
 
                              (ii)  the holder of a carrier licence; and
 
-                     (c)  each nominated customer were a service provider within the meaning of Part XIC of the Trade Practices Act.
+                     (c)  each nominated customer were a service provider within the meaning of Part XIC of the Trade Practices Act.
 
 ##### <a id="14"></a>14  Nominated services
 
@@ -414,7 +413,7 @@ Note:          The assets and liabilities that can be transfer
 
                              (ii)  the sites or towers are original assets or replacement assets.
 
-             (2)  If a carriage service referred to in paragraph (1)(a) is to be provided for the purpose of analog transmission and also for other purposes, then the carriage service is a **_nominated service_** only to the extent to which it is to be provided for the purpose of analog transmission.
+             (2)  If a carriage service referred to in paragraph (1)(a) is to be provided for the purpose of analog transmission and also for other purposes, then the carriage service is a **_nominated service_** only to the extent to which it is to be provided for the purpose of analog transmission.
 
              (3)  In this section:
 
@@ -466,19 +465,19 @@ Note:          The assets and liabilities that can be transfer
 
                      (c)  subsections 152AR(5), (6), (7) and (8);
 
-                     (d)  Division 6 of Part XIC;
+                     (d)  Division 6 of Part XIC;
 
                      (e)  paragraph 152CQ(1)(b).
 
-             (2)  Subsections 152AR(12) and 152CQ(9) of the Trade Practices Act have effect as if “13 September 1996” were replaced by “30 October 1997”.
+             (2)  Subsections 152AR(12) and 152CQ(9) of the Trade Practices Act have effect as if “13 September 1996” were replaced by “30 October 1997”.
 
-             (3)  Section 152AH of the Trade Practices Act has effect as if the following matters were substituted for the matter in paragraph 152AH(1)(e):
+             (3)  Section 152AH of the Trade Practices Act has effect as if the following matters were substituted for the matter in paragraph 152AH(1)(e):
 
                      (a)  whether the technical and operational quality of the declared service are at least equivalent to the benchmark level;
 
                      (b)  whether the access seeker would receive fault detection, handling and rectification of a technical and operational quality and timing at least equivalent to the benchmark level.
 
-             (4)  Section 152CR of the Trade Practices Act has effect as if the following matters were substituted for the matter in paragraph 152CR(1)(f):
+             (4)  Section 152CR of the Trade Practices Act has effect as if the following matters were substituted for the matter in paragraph 152CR(1)(f):
 
                      (a)  whether the technical and operational quality of the declared service are at least equivalent to the benchmark level;
 
@@ -488,27 +487,27 @@ Note:          The assets and liabilities that can be transfer
 
 ##### <a id="17"></a>17  Relationship with other access regimes
 
-             (1)  If a nominated service becomes a declared service for the purposes of the telecommunications access regime in accordance with section 152AL of the Trade Practices Act, then this Act does not prevent the application of the telecommunications access regime in relation to:
+             (1)  If a nominated service becomes a declared service for the purposes of the telecommunications access regime in accordance with section 152AL of the Trade Practices Act, then this Act does not prevent the application of the telecommunications access regime in relation to:
 
                      (a)  access to the declared service by persons who are not nominated customers; or
 
                      (b)  access to the declared service by nominated customers for purposes other than nominated purposes.
 
-             (2)  A notification must not be given under section 44S of the Trade Practices Act in relation to an access dispute if:
+             (2)  A notification must not be given under section 44S of the Trade Practices Act in relation to an access dispute if:
 
                      (a)  the dispute relates to a nominated service; and
 
                      (b)  the third party is a nominated customer who is seeking access for a nominated purpose.
 
-             (3)  The ACCC must not accept an undertaking under section 44ZZA of the Trade Practices Act if any of the terms and conditions set out in the undertaking relate to access to a nominated service by a nominated customer for a nominated purpose.
+             (3)  The ACCC must not accept an undertaking under section 44ZZA of the Trade Practices Act if any of the terms and conditions set out in the undertaking relate to access to a nominated service by a nominated customer for a nominated purpose.
 
-## Part 4—Restrictions on transfer of assets
+## Part 4—Restrictions on transfer of assets
 
 ##### <a id="18"></a>18  Minister’s approval required for transfers of original assets or replacement assets
 
              (1)  A transfer of an original asset or a replacement asset by any person is of no effect unless approved in writing by the Minister before the time of transfer.
 
-             (2)  If a person makes a written application to the Minister for approval of a proposed transfer, the Minister must approve the transfer, unless the Minister refuses under subsection (3). 
+             (2)  If a person makes a written application to the Minister for approval of a proposed transfer, the Minister must approve the transfer, unless the Minister refuses under subsection (3). 
 
              (3)  The Minister may refuse to approve a transfer on any of the following grounds:
 
@@ -516,11 +515,11 @@ Note:          The assets and liabilities that can be transfer
 
                      (b)  any other prescribed ground that relates to matters covered by paragraph 51(v) of the Constitution.
 
-             (4)  Application may be made to the Administrative Appeals Tribunal for review of a decision by the Minister under subsection (3) refusing to grant an approval.
+             (4)  Application may be made to the Administrative Appeals Tribunal for review of a decision by the Minister under subsection (3) refusing to grant an approval.
 
              (5)  This section does not apply to assets that are exempted from the operation of this section by notice by the Minister in the _Gazette_.
 
-## Part 5—Transmitter licences
+## Part 5—Transmitter licences
 
 ##### <a id="19"></a>19  Transfer of transmitter licences to ABC and SBS
 
@@ -530,7 +529,7 @@ Note:          The assets and liabilities that can be transfer
 
              (3)  No fee or tax is payable under a law of the Commonwealth in respect of the transfer of a licence under this section.
 
-## Part 6—Powers and immunities of NTC or declared successor
+## Part 6—Powers and immunities of NTC or declared successor
 
 ##### <a id="20"></a>20  Deemed application of telecommunications carrier rules
 
@@ -556,21 +555,21 @@ Note:          The assets and liabilities that can be transfer
 
 ##### <a id="21"></a>21  Miscellaneous modifications of telecommunications carrier rules
 
-                   The following provisions of Schedule 3 to the Telecommunications Act do not apply:
+                   The following provisions of Schedule 3 to the Telecommunications Act do not apply:
 
-                     (a)  Divisions 2 and 3 of Part 1;
+                     (a)  Divisions 2 and 3 of Part 1;
 
-                     (b)  Division 6 of Part 1;
+                     (b)  Division 6 of Part 1;
 
-                     (c)  subclause 44(2) and clauses 46, 47 and 53.
+                     (c)  subclause 44(2) and clauses 46, 47 and 53.
 
-## Part 7—Miscellaneous
+## Part 7—Miscellaneous
 
 ##### <a id="22"></a>22  Declared successors
 
              (1)  The Minister may, by notice in the _Gazette_, declare a person to be a declared successor for the purposes of this Act.
 
-             (2)  A notice under subsection (1) has no effect unless the person is the owner of an original asset, or a replacement asset, on the date on which the notice is published.
+             (2)  A notice under subsection (1) has no effect unless the person is the owner of an original asset, or a replacement asset, on the date on which the notice is published.
 
              (3)  Application may be made to the Administrative Appeals Tribunal for review of the following decisions of the Minister:
 
@@ -594,7 +593,7 @@ Note:          The assets and liabilities that can be transfer
 
              (1)  A State regulatory law does not apply, and is taken never to have applied, in relation to any protected activity that occurred before the commencement of this Act.
 
-             (2)  Subsection (1) is not intended to imply anything about:
+             (2)  Subsection (1) is not intended to imply anything about:
 
                      (a)  the application, in relation to a protected activity, of any law of a State or Territory (other than a State regulatory law); or
 
@@ -612,7 +611,7 @@ Note:          The assets and liabilities that can be transfer
 
                      (b)  was used at any time before the commencement of this Act in connection with a protected activity.
 
-             (5)  Subsections (3) and (4) do not apply to a building, structure or other telecommunications facility that commenced to be constructed after the commencement of this Act.
+             (5)  Subsections (3) and (4) do not apply to a building, structure or other telecommunications facility that commenced to be constructed after the commencement of this Act.
 
              (6)  In this section:
 
@@ -660,7 +659,7 @@ solely or principally in connection with the provision of a broadcasting service
 
 ##### <a id="25"></a>25  Application of Trade Practices Act to sale of shares in NTC
 
-                   For the avoidance of doubt, it is declared that section 50 of the Trade Practices Act applies to the acquisition from the Commonwealth of shares in an NTC.
+                   For the avoidance of doubt, it is declared that section 50 of the Trade Practices Act applies to the acquisition from the Commonwealth of shares in an NTC.
 
 ##### <a id="26"></a>26  Lands Acquisition Act does not apply
 
@@ -686,17 +685,17 @@ the Commonwealth is liable to pay the person a reasonable amount of compensation
 
              (3)  In this section:
 
-                    <a name="acquisit-properti"></a>**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+                    <a name="acquisit-properti"></a>**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
                     <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
 ##### <a id="29"></a>29  Disallowable instruments
 
-                   The following are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_:
+                   The following are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_:
 
-                     (a)  an instrument made for the purposes of the definition of **_declared remote area_** in section 3;
+                     (a)  an instrument made for the purposes of the definition of **_declared remote area_** in section 3;
 
-                     (b)  an instrument made for the purposes of paragraph (b) of the definition of **_emergency service organisation_** in section 3;
+                     (b)  an instrument made for the purposes of paragraph (b) of the definition of **_emergency service organisation_** in section 3;
 
                      (c)  an instrument made under subsection 16(5);
 
@@ -710,11 +709,12 @@ the Commonwealth is liable to pay the person a reasonable amount of compensation
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _National Transmission Network Sale Act 1998_
 
 ### Note 1
 
-The _National Transmission Network Sale Act 1998_ as shown in this compilation comprises Act No. 130, 1998 amended as indicated in the Tables below.
+The _National Transmission Network Sale Act 1998_ as shown in this compilation comprises Act No. 130, 1998 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -727,18 +727,20 @@ The _National Transmission Network Sale Act 1998_ as shown in this compilation c
   <col width="14%">
 </colgroup>
 
-<thead>
+<tbody>
   <tr>
     <td>
       <div>Act</div>
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -747,64 +749,51 @@ of Assent</div>
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div>National Transmission Network Sale Act 1998</div>
-  </td>
-  <td>
-    <div>130, 1998</div>
-  </td>
-  <td>
-    <div>21 Dec 1998</div>
-  </td>
-  <td>
-    <div>21 Dec 1998</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 675): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 169–175): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+  <tr>
+    <td>
+      <div>National Transmission Network Sale Act 1998</div>
+    </td>
+    <td>
+      <div>130, 1998</div>
+    </td>
+    <td>
+      <div>21 Dec 1998</div>
+    </td>
+    <td>
+      <div>21 Dec 1998</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 675): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
 
-_(a)_     The _National Transmission Network Sale Act 1998_ was amended by Schedule 1 (item 675) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+_(a)_     The _National Transmission Network Sale Act 1998_ was amended by Schedule 1 (item 675) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
+
+ 
+
 
 ## Table of Amendments
 
@@ -814,7 +803,7 @@ _(a)_     The _National Transmission Network Sale Act 1998_ was amended 
   <col width="66%">
 </colgroup>
 
-<thead>
+<tbody>
   <tr>
     <td colspan="2">
       <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
@@ -828,57 +817,19 @@ _(a)_     The _National Transmission Network Sale Act 1998_ was amended 
       <div>How affected</div>
     </td>
   </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr></table>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
+ 
 
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
 
-The following amendments commence on the start of 1 January 2011:
-
-## Schedule 6
-
-## 169  Section 3 (definition of _access seeker_)
-
-Omit “Trade Practices Act”, substitute “Competition and Consumer Act”.
-
-## 170  Section 3
-
-Insert:
-
-                    <a name="competit-consum-act"></a>**_Competition and Consumer Act_** means the _Competition and Consumer Act 2010_.
-
-## 171  Section 3 (paragraphs (a) and (b) of the definition of _telecommunications access regime_)
-
-Omit “Trade Practices Act”, substitute “Competition and Consumer Act”.
-
-## 172  Section 3 (definition of _Trade Practices Act_)
-
-Repeal the definition.
-
-## 173  Paragraphs 13(2)(a) and (c)
-
-Omit “Trade Practices Act”, substitute “Competition and Consumer Act”.
-
-## 174  Subsections 16(1), (2), (3) and (4) and 17(1), (2) and (3)
-
-Omit “Trade Practices Act”, substitute “Competition and Consumer Act”.
-
-## 175  Section 25
-
-Omit “Trade Practices Act”, substitute “Competition and Consumer Act”.
-
-_Note:       The heading to section 25 is altered by omitting “Trade Practices Act” and substituting “Competition and Consumer Act”._
-
-As at 16 August 2010 the amendments are not incorporated in this compilation.
+ 
 
  
