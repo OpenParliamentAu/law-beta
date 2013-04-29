@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00713/Html/7266e9d6-70a5-4c54-b523-5fc43ceb6b41_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00170/Html/6a7c7dc0-1d17-44a8-854a-69bee2516acb_files/image001.gif)
 
 # Air Services Act 1995
 
 **Act No. 81 of 1995 as amended**
 
-This compilation was prepared on 4 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 30 January 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -466,13 +467,13 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                     <a name="servic"></a>**_services_** includes:
 
-                     (a)  air traffic services; and
+                     (a)  air traffic services;
 
-                     (b)  an aeronautical information service; and
+                     (b)  an aeronautical information service;
 
-                     (c)  an aeronautical radio navigation service; and
+                     (c)  an aeronautical radio navigation service;
 
-                     (d)  an aeronautical telecommunications service; and
+                     (d)  an aeronautical telecommunications service;
 
                      (e)  rescue and fire fighting services.
 
@@ -776,7 +777,7 @@ Note:          Section 9 of the _Commonwealth Authorities an
 
              (2)  An appointed member is eligible for re‑appointment.
 
-##### <a id="28"></a>28  Remuneration and allowances of appointed members
+##### <a id="28"></a>28  Remuneration and allowances of appointed members
 
              (1)  An appointed member is to be paid the remuneration that is determined by the Remuneration Tribunal. However, if no determination of that remuneration by the Tribunal is in operation, an appointed member is to be paid the remuneration that is prescribed by the regulations.
 
@@ -858,7 +859,7 @@ Note:          For rules that apply to acting appointments, se
 
                      (a)  during a vacancy in the office of Deputy Chairperson, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Deputy Chairperson is acting as the Chairperson, is absent from   Australia or is, for any other reason, unable to perform the duties of the office of Deputy Chairperson.
+                     (b)  during any period, or during all periods, when the Deputy Chairperson is acting as the Chairperson, is absent from Australia or is, for any other reason, unable to perform the duties of the office of Deputy Chairperson.
 
 Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
@@ -1962,23 +1963,6 @@ Schedule 3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01854)</div>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 11): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequential Amendments) Act 2003_ provides as follows:
@@ -2229,7 +2213,7 @@ _(b)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 130, 1997; No. 95, 1998; Nos. 19 and 83, 2003; No. 9, 2004; No. 20, 2009; No. 136, 2012</div>
+    <div>am. No. 130, 1997; No. 95, 1998; Nos. 19 and 83, 2003; No. 9, 2004; No. 20, 2009</div>
   </td>
 </tr>
 <tr>
