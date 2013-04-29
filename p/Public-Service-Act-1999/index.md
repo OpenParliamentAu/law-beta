@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00319/Html/2de17755-1e57-4c41-96a4-646dda19e482_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00607/Html/35c3cb5a-e731-401d-b541-634f437bdc27_files/image001.gif)
 
 # Public Service Act 1999
 
 **Act No. 147 of 1999 as amended**
 
-This compilation was prepared on 21 March 2012
+This compilation was prepared on 5 August 2011
  taking into account amendments up to Act No. 75 of 2011
 
 The text of any of those amendments not in force 
@@ -1014,13 +1014,21 @@ Other terms and conditions
 
 ##### <a id="48"></a>48  Acting Commissioner
 
-                   The Agency Minister may appoint a person to act as Commissioner:
+             (1)  The Agency Minister may appoint a person to act as Commissioner:
 
                      (a)  if there is a vacancy in the office of Commissioner, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Commissioner is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ## Part 6—The Merit Protection Commissioner
 
@@ -1110,13 +1118,21 @@ Other terms and conditions
 
 ##### <a id="55"></a>55  Acting Merit Protection Commissioner
 
-                   The Public Service Minister may appoint a person to act as Merit Protection Commissioner:
+             (1)  The Public Service Minister may appoint a person to act as Merit Protection Commissioner:
 
                      (a)  if there is a vacancy in the office of Merit Protection Commissioner, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Merit Protection Commissioner is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ## Part 7—Secretaries of Departments
 
@@ -1176,13 +1192,21 @@ Other terms and conditions
 
 ##### <a id="62"></a>62  Acting Secretary
 
-                   The Prime Minister may appoint a person to act as the Secretary of a Department:
+             (1)  The Prime Minister may appoint a person to act as the Secretary of a Department:
 
                      (a)  if there is a vacancy in the office of Secretary, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Secretary is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="63"></a>63  Annual report
 
@@ -1270,13 +1294,21 @@ Other terms and conditions
 
 ##### <a id="69"></a>69  Acting Head
 
-                   The Agency Minister of an Executive Agency may appoint a person to act as Head of the Agency:
+             (1)  The Agency Minister of an Executive Agency may appoint a person to act as Head of the Agency:
 
                      (a)  if there is a vacancy in the office of Head, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Head is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="70"></a>70  Annual report
 
@@ -1682,7 +1714,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 953–964) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 953–964) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -2093,22 +2125,6 @@ _(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 48</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 6</b></div>
   </td>
   <td>
@@ -2149,22 +2165,6 @@ _(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 55</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 7</b></div>
   </td>
   <td>
@@ -2181,22 +2181,6 @@ _(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 62</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 9</b></div>
   </td>
   <td>
@@ -2209,22 +2193,6 @@ _(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>rs. No. 75, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 69</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2261,7 +2229,7 @@ _(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>Note to s. 73</div>
+    <div>Note to s. 73(5)</div>
   </td>
   <td>
     <div>ad. No. 30, 2006</div>
@@ -2283,6 +2251,72 @@ _(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral 
     <div>am. No. 63, 2002</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 953  Subsection 48(1)
+
+Omit “(1)”.
+
+## 954  At the end of subsection 48(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 955  Subsection 48(2)
+
+Repeal the subsection.
+
+## 956  Subsection 55(1)
+
+Omit “(1)”.
+
+## 957  At the end of subsection 55(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 958  Subsection 55(2)
+
+Repeal the subsection.
+
+## 959  Subsection 62(1)
+
+Omit “(1)”.
+
+## 960  At the end of subsection 62(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 961  Subsection 62(2)
+
+Repeal the subsection.
+
+## 962  Subsection 69(1)
+
+Omit “(1)”.
+
+## 963  At the end of subsection 69(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 964  Subsection 69(2)
+
+Repeal the subsection.
+
+As at 5 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2383,6 +2417,8 @@ If a determination made by an Agency Head under subsection 24(1) of the _Public 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
