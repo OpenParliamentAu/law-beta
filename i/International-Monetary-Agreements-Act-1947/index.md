@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00163/Html/eb5498f0-a5fb-475f-8de9-4148ab8a9387_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00785/Html/InteMoneAgmts1947WD02_image001.gif)
 
 # International Monetary Agreements Act 1947
 
 **Act No. 5 of 1947 as amended**
 
-This compilation was prepared on 30 March 2011
+This compilation was prepared on 29 November 2010
  taking into account amendments up to Act No. 133 of 2010
 
 The text of any of those amendments not in force
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -66,7 +66,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 3—Resolution of the Board of Governors of the International Bank for Reconstruction and Development** 
 
-**Schedule 4—Decision No. 11428‑(97/6), dated 27 January 1997, of the Executive Board of the Fund, as amended by Decision No  14577‑(10/35), dated 12 April 2010, of the Executive Board of the Fund** 
+**Schedule 4—Decision No. 11428-(97/6), dated 27 January 1997, of the Executive Board of the Fund** 
 
 **Notes** 
 
@@ -94,7 +94,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="fund-agreem"></a>**_Fund Agreement_** means the Articles of Agreement of the International Monetary Fund set out in Schedule 1, as amended by any amendment of the Articles of Agreement that has entered into force for Australia.
 
-                    <a name="new-arrang-borrow"></a>**_New Arrangements to Borrow_** means Decision No. 11428‑(97/6), dated 27 January 1997, of the Executive Board of the Fund, a copy of which, as amended by Decision No. 14577‑(10/35), dated 12 April 2010, of the Executive Board of the Fund, is set out in Schedule 4.
+                    <a name="new-arrang-borrow"></a>**_New Arrangements to Borrow_** means Decision No. 11428-(97/6), dated 27 January 1997, of the Executive Board of the Fund, a copy of which is set out in Schedule 4.
 
                     <a name="reserv-bank"></a>**_Reserve Bank_** means the Reserve Bank of Australia.
 
@@ -158,15 +158,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="6"></a>6  Authority to borrow
 
-             (1)  The Treasurer may, from time to time, borrow, under the provisions of the _Commonwealth Inscribed Stock Act 1911‑1946_ or under the provisions of any Act authorizing the issue of Treasury Bills, such amounts as are required to be paid by Australia (not being amounts referred to in section 8 of this Act) by reason of:
+             (1)  The Treasurer may, from time to time, borrow, under the provisions of the _Commonwealth Inscribed Stock Act 1911-1946_ or under the provisions of any Act authorizing the issue of Treasury Bills, such amounts as are required to be paid by Australia (not being amounts referred to in section 8 of this Act) by reason of:
 
                      (a)  its membership of the Fund and of the Bank; or
 
-                     (b)  its obligations under the New Arrangements to Borrow.
+                     (b)  its obligations under the New Arrangements to Borrow, after that decision becomes effective.
 
              (2)  Moneys so borrowed may be issued and applied for the purposes of making the payments specified in subsection (1), and of making payments in redemption of securities issued under section 7.
 
-             (3)  The provisions of the _National Debt Sinking Fund Act 1923‑1945_ shall not apply in relation to moneys borrowed under this section.
+             (3)  The provisions of the _National Debt Sinking Fund Act 1923-1945_ shall not apply in relation to moneys borrowed under this section.
 
 ##### <a id="7"></a>7  Issue of securities
 
@@ -176,7 +176,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  shall be payable to the Fund or the Bank, as the case may be;
 
-                     (b)  shall be non‑negotiable and non‑interest bearing; and
+                     (b)  shall be non-negotiable and non-interest bearing; and
 
                      (c)  shall be payable at their par value on demand.
 
@@ -194,7 +194,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="8B"></a>8B  Appropriation for the purposes of the New Arrangements to Borrow
 
-             (1)  If the Treasurer is satisfied that an amount should be paid out of the Consolidated Revenue Fund to enable Australia to carry out its obligations under the New Arrangements to Borrow, he or she may direct that that amount be paid out of the Consolidated Revenue Fund.
+             (1)  If, after the New Arrangements to Borrow have become effective, the Treasurer is satisfied that an amount should be paid out of the Consolidated Revenue Fund to enable Australia to carry out its obligations under that decision, he or she may direct that that amount be paid out of the Consolidated Revenue Fund.
 
              (2)  The Consolidated Revenue Fund is appropriated accordingly.
 
@@ -214,11 +214,11 @@ then the Treasurer, on behalf of Australia, may enter into an agreement that pro
 
                      (a)  an agreement made under subsection (1); or
 
-                     (b)  a pre‑commencement agreement referred to in subsection (4).
+                     (b)  a pre-commencement agreement referred to in subsection (4).
 
-             (4)  For the purposes of subsection (3), **_pre‑commencement agreement_** means an agreement that satisfies the following conditions:
+             (4)  For the purposes of subsection (3), **_pre-commencement agreement_** means an agreement that satisfies the following conditions:
 
-                     (a)  the agreement was entered into on behalf of Australia before the commencement of this section, in response to a request by the Fund for Australia to provide assistance to the Republic of   Indonesia or the Republic of Korea (the **_recipient country_**) in support of a Fund program for the benefit of the recipient country;
+                     (a)  the agreement was entered into on behalf of Australia before the commencement of this section, in response to a request by the Fund for Australia to provide assistance to the Republic of Indonesia or the Republic of Korea (the **_recipient country_**) in support of a Fund program for the benefit of the recipient country;
 
                      (b)  the agreement provides for Australia to lend money to the recipient country or to enter into a currency swap with the recipient country;
 
@@ -280,7 +280,7 @@ Note:          The condition in paragraph (1)(b) would be sa
 
 ##### <a id="11"></a>11  Regulations
 
-                   The Governor‑General may make regulations not inconsistent with this Act prescribing all matters which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, the Fund Agreement (other than Article IX) and the Bank Agreement (other than Article VII).
+                   The Governor-General may make regulations not inconsistent with this Act prescribing all matters which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, the Fund Agreement (other than Article IX) and the Bank Agreement (other than Article VII).
 
 # Schedule 1—Articles of Agreement of the International Monetary Fund
 
@@ -292,9 +292,9 @@ INTRODUCTORY ARTICLE
 
       (i)  The International Monetary Fund is established and shall operate in accordance with the provisions of this Agreement as originally adopted and subsequently amended.
 
-     (ii)  To enable the Fund to conduct its operations and transactions, the Fund shall maintain a General Department and a Special Drawing Rights Department. Membership in the Fund shall give the right to participation in the Special Drawing Rights Department.
+      (ii)  To enable the Fund to conduct its operations and transactions, the Fund shall maintain a General Department and a Special Drawing Rights Department. Membership in the Fund shall give the right to participation in the Special Drawing Rights Department.
 
-    (iii)  Operations and transactions authorized by this Agreement shall be conducted through the General Department, consisting in accordance with the provisions of this Agreement of the General Resources Account, the Special Disbursement Account, and the Investment Account; except that operations and transactions involving special drawing rights shall be conducted through the Special Drawing Rights Department.
+     (iii)  Operations and transactions authorized by this Agreement shall be conducted through the General Department, consisting in accordance with the provisions of this Agreement of the General Resources Account, the Special Disbursement Account, and the Investment Account; except that operations and transactions involving special drawing rights shall be conducted through the Special Drawing Rights Department.
 
 ARTICLE I
 
@@ -304,15 +304,15 @@ PURPOSES
 
       (i)  To promote international monetary cooperation through a permanent institution which provides the machinery for consultation and collaboration on international monetary problems.
 
-     (ii)  To facilitate the expansion and balanced growth of international trade, and to contribute thereby to the promotion and maintenance of high levels of employment and real income and to the development of the productive resources of all members as primary objectives of economic policy.
+      (ii)  To facilitate the expansion and balanced growth of international trade, and to contribute thereby to the promotion and maintenance of high levels of employment and real income and to the development of the productive resources of all members as primary objectives of economic policy.
 
-    (iii)  To promote exchange stability, to maintain orderly exchange arrangements among members, and to avoid competitive exchange depreciation.
+     (iii)  To promote exchange stability, to maintain orderly exchange arrangements among members, and to avoid competitive exchange depreciation.
 
-    (iv)  To assist in the establishment of a multilateral system of payments in respect of current transactions between members and in the elimination of foreign exchange restrictions which hamper the growth of world trade.
+     (iv)  To assist in the establishment of a multilateral system of payments in respect of current transactions between members and in the elimination of foreign exchange restrictions which hamper the growth of world trade.
 
      (v)  To give confidence to members by making the general resources of the Fund temporarily available to them under adequate safeguards, thus providing them with opportunity to correct maladjustments in their balance of payments without resorting to measures destructive of national or international prosperity.
 
-    (vi)  In accordance with the above, to shorten the duration and lessen the degree of disequilibrium in the international balances of payments of members.
+     (vi)  In accordance with the above, to shorten the duration and lessen the degree of disequilibrium in the international balances of payments of members.
 
      The Fund shall be guided in all its policies and decisions by the purposes set forth in this Article.
 
@@ -342,13 +342,13 @@ Section 2\. _Adjustment of quotas_
 
      (_b_)  The Fund may at any time propose an increase in the quotas of those members of the Fund that were members on August 31, 1975 in proportion to their quotas on that date in a cumulative amount not in excess of amounts transferred under Article V, Section 12 (_f_) (_i_) and (_j_) from the Special Disbursement Account to the General Resources Account.
 
-     (_c_)  An eighty‑five percent majority of the total voting power shall be required for any change in quotas.
+     (_c_)  An eighty-five percent majority of the total voting power shall be required for any change in quotas.
 
      (_d_)  The quota of a member shall not be changed until the member has consented and until payment has been made unless payment is deemed to have been made in accordance with Section 3 (_b_) of this Article.
 
 Section 3\. _Payments when quotas are changed_
 
-     (_a_)  Each member which consents to an increase in its quota under Section 2 (_a_) of this Article shall, within a period determined by the Fund, pay to the Fund twenty‑five percent of the increase in special drawing rights, but the Board of Governors may prescribe that this payment may be made, on the same basis for all members, in whole or in part in the currencies of other members specified, with their concurrence, by the Fund, or in the member’s own currency. A non‑participant shall pay in the currencies of other members specified by the Fund, with their concurrence, a proportion of the increase corresponding to the proportion to be paid in special drawing rights by participants. The balance of the increase shall be paid by the member in its own currency. The Fund’s holdings of a member’s currency shall not be increased above the level at which they would be subject to charges under Article V, Section 8 (_b_) (ii), as a result of payments by other members under this provision.
+     (_a_)  Each member which consents to an increase in its quota under Section 2 (_a_) of this Article shall, within a period determined by the Fund, pay to the Fund twenty-five percent of the increase in special drawing rights, but the Board of Governors may prescribe that this payment may be made, on the same basis for all members, in whole or in part in the currencies of other members specified, with their concurrence, by the Fund, or in the member’s own currency. A non-participant shall pay in the currencies of other members specified by the Fund, with their concurrence, a proportion of the increase corresponding to the proportion to be paid in special drawing rights by participants. The balance of the increase shall be paid by the member in its own currency. The Fund’s holdings of a member’s currency shall not be increased above the level at which they would be subject to charges under Article V, Section 8 (_b_) (ii), as a result of payments by other members under this provision.
 
      (_b_)  Each member which consents to an increase in its quota under Section 2 (_b_) of this Article shall be deemed to have paid to the Fund an amount of subscription equal to such increase.
 
@@ -358,7 +358,7 @@ Section 3\. _Payments when quotas are changed_
 
 Section 4\. _Substitution of securities for currency_
 
-     The Fund shall accept from any member, in place of any part of the member’s currency in the General Resources Account which in the judgment of the Fund is not needed for its operations and transactions, notes or similar obligations issued by the member or the depository designated by the member under Article XIII, Section 2, which shall be non‑negotiable, non‑interest bearing and payable at their face value on demand by crediting the account of the Fund in the designated depository. This Section shall apply not only to currency subscribed by members but also to any currency otherwise due to, or acquired by, the Fund and to be placed in the General Resources Account.
+     The Fund shall accept from any member, in place of any part of the member’s currency in the General Resources Account which in the judgment of the Fund is not needed for its operations and transactions, notes or similar obligations issued by the member or the depository designated by the member under Article XIII, Section 2, which shall be non-negotiable, non-interest bearing and payable at their face value on demand by crediting the account of the Fund in the designated depository. This Section shall apply not only to currency subscribed by members but also to any currency otherwise due to, or acquired by, the Fund and to be placed in the General Resources Account.
 
 ARTICLE IV
 
@@ -368,13 +368,13 @@ Section 1\. _General obligations of membe_ rs
 
      Recognizing that the essential purpose of the international monetary system is to provide a framework that facilitates the exchange of goods, services, and capital among countries, and that sustains sound economic growth, and that a principal objective is the continuing development of the orderly underlying conditions that are necessary for financial and economic stability, each member undertakes to collaborate with the Fund and other members to assure orderly exchange arrangements and to promote a stable system of exchange rates. In particular, each member shall:
 
-        (i)   endeavour to direct its economic and financial policies toward the objective of fostering orderly economic growth with reasonable price stability, with due regard to its circumstances;
+         (i)   endeavour to direct its economic and financial policies toward the objective of fostering orderly economic growth with reasonable price stability, with due regard to its circumstances;
 
-       (ii)   seek to promote stability by fostering orderly underlying economic and financial conditions and a monetary system that does not tend to produce erratic disruptions;
+        (ii)   seek to promote stability by fostering orderly underlying economic and financial conditions and a monetary system that does not tend to produce erratic disruptions;
 
-      (iii)   avoid manipulating exchange rates or the international monetary system in order to prevent effective balance of payments adjustment or to gain an unfair competitive advantage over other members; and
+       (iii)   avoid manipulating exchange rates or the international monetary system in order to prevent effective balance of payments adjustment or to gain an unfair competitive advantage over other members; and
 
-      (iv)   follow exchange policies compatible with the undertakings under this Section.
+       (iv)   follow exchange policies compatible with the undertakings under this Section.
 
 Section 2\. _General exchange arrangements_
 
@@ -382,7 +382,7 @@ Section 2\. _General exchange arrangements_
 
      (_b_)  Under an international monetary system of the kind prevailing on January 1, 1976, exchange arrangements may include (i) the maintenance by a member of a value for its currency in terms of the special drawing right or another denominator, other than gold, selected by the member, or (ii) cooperative arrangements by which members maintain the value of their currencies in relation to the value of the currency or currencies of other members, or (iii) other exchange arrangements of a member’s choice.
 
-     (_c_)  To accord with the development of the international monetary system, the Fund, by an eighty‑five percent majority of the total voting power, may make provision for general exchange arrangements without limiting the right of members to have exchange arrangements of their choice consistent with the purposes of the Fund and the obligations under Section 1 of this Article.
+     (_c_)  To accord with the development of the international monetary system, the Fund, by an eighty-five percent majority of the total voting power, may make provision for general exchange arrangements without limiting the right of members to have exchange arrangements of their choice consistent with the purposes of the Fund and the obligations under Section 1 of this Article.
 
 Section 3\. _Surveillance over exchange arrangements_
 
@@ -392,7 +392,7 @@ Section 3\. _Surveillance over exchange arrangements_
 
 Section 4\. _Par values_
 
-     The Fund may determine, by an eighty‑five per cent majority of the total voting power, that international economic conditions permit the introduction of a widespread system of exchange arrangements based on stable but adjustable par values. The Fund shall make the determination on the basis of the underlying stability of the world economy, and for this purpose shall take into account price movements and rates of expansion in the economies of members. The determination shall be made in light of the evolution of the international monetary system, with particular reference to sources of liquidity, and, in order to ensure the effective operation of a system of par values, to arrangements under which both members in surplus and members in deficit in their balances of payments take prompt, effective, and symmetrical action to achieve adjustment, as well as to arrangements for intervention and the treatment of imbalances. Upon making such determination, the Fund shall notify members that the provisions of Schedule C apply.
+     The Fund may determine, by an eighty-five per cent majority of the total voting power, that international economic conditions permit the introduction of a widespread system of exchange arrangements based on stable but adjustable par values. The Fund shall make the determination on the basis of the underlying stability of the world economy, and for this purpose shall take into account price movements and rates of expansion in the economies of members. The determination shall be made in light of the evolution of the international monetary system, with particular reference to sources of liquidity, and, in order to ensure the effective operation of a system of par values, to arrangements under which both members in surplus and members in deficit in their balances of payments take prompt, effective, and symmetrical action to achieve adjustment, as well as to arrangements for intervention and the treatment of imbalances. Upon making such determination, the Fund shall notify members that the provisions of Schedule C apply.
 
 Section 5\. _Separate currencies within a member’s territories_
 
@@ -416,27 +416,27 @@ Section 2\. _Limitation on the Fund’s operations and transactions_
 
 Section 3\. _Conditions governing use of the Fund’s general resources_
 
-     (_a_)  The Fund shall adopt policies on the use of its general resources, including policies on stand‑by or similar arrangements, and may adopt special policies for special balance of payments problems, that will assist members to solve their balance of payments problems in a manner consistent with the provisions of this Agreement and that will establish adequate safeguards for the temporary use of the general resources of the Fund.
+     (_a_)  The Fund shall adopt policies on the use of its general resources, including policies on stand-by or similar arrangements, and may adopt special policies for special balance of payments problems, that will assist members to solve their balance of payments problems in a manner consistent with the provisions of this Agreement and that will establish adequate safeguards for the temporary use of the general resources of the Fund.
 
      (_b_)  A member shall be entitled to purchase the currencies of other members from the Fund in exchange for an equivalent amount of its own currency subject to the following conditions:
 
-        (i)   the member’s use of the general resources of the Fund would be in accordance with the provisions of this Agreement and the policies adopted under them;
+         (i)   the member’s use of the general resources of the Fund would be in accordance with the provisions of this Agreement and the policies adopted under them;
 
-       (ii)   the member represents that it has a need to make the purchase because of its balance of payments or its reserve position or developments in its reserves;
+        (ii)   the member represents that it has a need to make the purchase because of its balance of payments or its reserve position or developments in its reserves;
 
-      (iii)   the proposed purchase would be a reserve tranche purchase, or would not cause the Fund’s holdings of the purchasing member’s currency to exceed two hundred percent of its quota;
+       (iii)   the proposed purchase would be a reserve tranche purchase, or would not cause the Fund’s holdings of the purchasing member’s currency to exceed two hundred percent of its quota;
 
-      (iv)   the Fund has not previously declared under Section 5 of this Article, Article VI, Section 1, or Article XXVI, Section 2 (_a_) that the member desiring to purchase is ineligible to use the general resources of the Fund.
+       (iv)   the Fund has not previously declared under Section 5 of this Article, Article VI, Section 1, or Article XXVI, Section 2 (_a_) that the member desiring to purchase is ineligible to use the general resources of the Fund.
 
      (_c_)  The Fund shall examine a request for a purchase to determine whether the proposed purchase would be consistent with the provisions of this Agreement and the policies adopted under them, provided that requests for reserve tranche purchases shall not be subject to challenge.
 
      (_d_)  The Fund shall adopt policies and procedures on the selection of currencies to be sold that take into account, in consultation with members, the balance of payments and reserve position of members and developments in the exchange markets, as well as the desirability of promoting over time balanced positions in the Fund, provided that if a member represents that it is proposing to purchase the currency of another member because the purchasing member wishes to obtain an equivalent amount of its own currency offered by the other member, it shall be entitled to purchase the currency of the other member unless the Fund has given notice under Article VII, Section 3 that its holdings of the currency have become scarce.
 
-     (_e_) (i)  Each member shall ensure that balances of its currency purchased from the Fund are balances of a freely usable currency or can be exchanged at the time of purchase for a freely usable currency of its choice at an exchange rate between the two currencies equivalent to the exchange rate between them on the basis of Article XIX, Section 7 (_a_).
+     (_e_)  (i)  Each member shall ensure that balances of its currency purchased from the Fund are balances of a freely usable currency or can be exchanged at the time of purchase for a freely usable currency of its choice at an exchange rate between the two currencies equivalent to the exchange rate between them on the basis of Article XIX, Section 7 (_a_).
 
           (ii)  Each member whose currency is purchased from the Fund or is obtained in exchange for currency purchased from the Fund shall collaborate with the Fund and other members to enable such balances of its currency to be exchanged, at the time of purchase, for the freely usable currencies of other members.
 
-         (iii)  An exchange under (i) above of a currency that is not freely usable shall be made by the member whose currency is purchased unless that member and the purchasing member agree on another procedure.
+          (iii)  An exchange under (i) above of a currency that is not freely usable shall be made by the member whose currency is purchased unless that member and the purchasing member agree on another procedure.
 
          (iv)  A member purchasing from the Fund the freely usable currency of another member and wishing to exchange it at the time of purchase for another freely usable currency shall make the exchange with the other member if requested by that member. The exchange shall be made for a freely usable currency selected by the other member at the rate of exchange referred to in (i) above.
 
@@ -464,9 +464,9 @@ Section 7\. _Repurchase by a member of its currency held by the Fund_
 
      (_b_)  A member that has made a purchase under Section 3 of this Article will be expected normally, as its balance of payments and reserve position improves, to repurchase the Fund’s holdings of its currency that result from the purchase and are subject to charges under Section 8 (_b_) of this Article. A member shall repurchase these holdings if, in accordance with policies on repurchase that the Fund shall adopt and after consultation with the member, the Fund represents to the member that it should repurchase because of an improvement in its balance of payments and reserve position.
 
-     (_c_)  A member that has made a purchase under Section 3 of this Article shall repurchase the Fund’s holdings of its currency that result from the purchase and are subject to charges under Section 8 (_b_) of this Article not later than 5 years after the date on which the purchase was made. The Fund may prescribe that repurchase shall be made by a member in installments during the period beginning three years and ending five years after the date of a purchase. The Fund, by an eighty‑five percent majority of the total voting power, may change the periods for repurchase under this subsection, and any period so adopted shall apply to all members.
+     (_c_)  A member that has made a purchase under Section 3 of this Article shall repurchase the Fund’s holdings of its currency that result from the purchase and are subject to charges under Section 8 (_b_) of this Article not later than 5 years after the date on which the purchase was made. The Fund may prescribe that repurchase shall be made by a member in installments during the period beginning three years and ending five years after the date of a purchase. The Fund, by an eighty-five percent majority of the total voting power, may change the periods for repurchase under this subsection, and any period so adopted shall apply to all members.
 
-     (_d_)  The Fund, by an eighty‑five percent majority of the total voting power, may adopt periods other than those that apply in accordance with (_c_) above, which shall be the same for all members, for the repurchase of holdings of currency acquired by the Fund pursuant to a special policy on the use of its general resources.
+     (_d_)  The Fund, by an eighty-five percent majority of the total voting power, may adopt periods other than those that apply in accordance with (_c_) above, which shall be the same for all members, for the repurchase of holdings of currency acquired by the Fund pursuant to a special policy on the use of its general resources.
 
      (_e_)  A member shall repurchase, in accordance with policies that the Fund shall adopt by a seventy percent majority of the total voting power, the Fund’s holdings of its currency that are not acquired as a result of purchases and are subject to charges under Section 8 (_b_) (ii) of this Article.
 
@@ -478,19 +478,19 @@ Section 7\. _Repurchase by a member of its currency held by the Fund_
 
       (_i_)  All repurchases under this Section shall be made with special drawing rights or with the currencies of other members specified by the Fund. The Fund shall adopt policies and procedures with regard to the currencies to be used by members in making repurchases that take into account the principles in Section 3 (_d_) of this Article. The Fund’s holdings of a member’s currency that is used in repurchase shall not be increased by the repurchase above the level at which they would be subject to charges under Section 8 (_b_) (ii) of this Article.
 
-      (_j_) (i)  If a member’s currency specified by the Fund under (_i_) above is not a freely usable currency, the member shall ensure that the repurchasing member can obtain it at the time of the repurchase in exchange for a freely usable currency selected by the member whose currency has been specified. An exchange of currency under this provision shall take place at an exchange rate between the two currencies equivalent to the exchange rate between them on the basis of Article XIX, Section 7 (_a_).
+      (_j_)  (i)  If a member’s currency specified by the Fund under (_i_) above is not a freely usable currency, the member shall ensure that the repurchasing member can obtain it at the time of the repurchase in exchange for a freely usable currency selected by the member whose currency has been specified. An exchange of currency under this provision shall take place at an exchange rate between the two currencies equivalent to the exchange rate between them on the basis of Article XIX, Section 7 (_a_).
 
           (ii)  Each member whose currency is specified by the Fund for repurchase shall collaborate with the Fund and other members to enable repurchasing members, at the time of the repurchase, to obtain the specified currency in exchange for the freely usable currencies of other members.
 
-         (iii)  An exchange under (_j_) (i) above shall be made with the member whose currency is specified unless that member and the repurchasing member agree on another procedure.
+          (iii)  An exchange under (_j_) (i) above shall be made with the member whose currency is specified unless that member and the repurchasing member agree on another procedure.
 
          (iv)  If a repurchasing member wishes to obtain, at the time of the repurchase, the freely usable currency of another member specified by the Fund under (_i_) above, it shall, if requested by the other member, obtain the currency from the other member in exchange for a freely usable currency at the rate of exchange referred to in (_j_) (i) above. The Fund may adopt regulations on the freely usable currency to be provided in an exchange.
 
 Section 8\. _Charges_
 
-     (_a_) (i)  The Fund shall levy a service charge on the purchase by a member of special drawing rights or the currency of another member held in the General Resources Account in exchange for its own currency, provided that the Fund may levy a lower service charge on reserve tranche purchases than on other purchases. The service charge on reserve tranche purchases shall not exceed one‑half of one percent.
+     (_a_)  (i)  The Fund shall levy a service charge on the purchase by a member of special drawing rights or the currency of another member held in the General Resources Account in exchange for its own currency, provided that the Fund may levy a lower service charge on reserve tranche purchases than on other purchases. The service charge on reserve tranche purchases shall not exceed one-half of one percent.
 
-          (ii)  The Fund may levy a charge for stand‑by or similar arrangements. The Fund may decide that the charge for an arrangement shall be offset against the service charge levied under (i) above on purchases under the arrangement.
+          (ii)  The Fund may levy a charge for stand-by or similar arrangements. The Fund may decide that the charge for an arrangement shall be offset against the service charge levied under (i) above on purchases under the arrangement.
 
      (_b_)  The Fund shall levy charges on its average daily balances of a member’s currency held in the General Resources Account to the extent that they
 
@@ -508,15 +508,15 @@ The rates of charge normally shall rise at intervals during the period in which 
 
 Section 9\. _Remuneration_
 
-     (_a_)  The Fund shall pay remuneration on the amount by which the percentage of quota prescribed under (_b_) or (_c_) below exceeds the Fund’s average daily balances of a member’s currency held in the General Resources Account other than balances acquired under a policy that has been the subject of an exclusion under Article XXX (_c_). The rate of remuneration, which shall be determined by the Fund by a seventy percent majority of the total voting power, shall be the same for all members and shall be not more than, nor less than four‑fifths of, the rate of interest under Article XX, Section 3\. In establishing the rate of remuneration, the Fund shall take into account the rates of charge under Article V, Section 8 (_b_).
+     (_a_)  The Fund shall pay remuneration on the amount by which the percentage of quota prescribed under (_b_) or (_c_) below exceeds the Fund’s average daily balances of a member’s currency held in the General Resources Account other than balances acquired under a policy that has been the subject of an exclusion under Article XXX (_c_). The rate of remuneration, which shall be determined by the Fund by a seventy percent majority of the total voting power, shall be the same for all members and shall be not more than, nor less than four-fifths of, the rate of interest under Article XX, Section 3\. In establishing the rate of remuneration, the Fund shall take into account the rates of charge under Article V, Section 8 (_b_).
 
      (_b_)  The percentage of quota applying for the purposes of (_a_) above shall be:
 
-           (i)  for each member that became a member before the second amendment of this Agreement, a percentage of quota corresponding to seventy‑five percent of its quota on the date of the second amendment of this Agreement, and for each member that became a member after the date of the second amendment of this Agreement, a percentage of quota calculated by dividing the total of the amounts corresponding to the percentages of quota that apply to the other members on the date on which the member became a member by the total of the quotas of the other members on the same date; plus
+           (i)  for each member that became a member before the second amendment of this Agreement, a percentage of quota corresponding to seventy-five percent of its quota on the date of the second amendment of this Agreement, and for each member that became a member after the date of the second amendment of this Agreement, a percentage of quota calculated by dividing the total of the amounts corresponding to the percentages of quota that apply to the other members on the date on which the member became a member by the total of the quotas of the other members on the same date; plus
 
           (ii)  the amounts it has paid to the Fund in currency or special drawing rights under Article III, Section 3 (_a_) since the date applicable under (_b_) (i) above; and minus
 
-         (iii)  the amounts it has received from the Fund in currency or special drawing rights under Article III, Section 3 (_c_) since the date applicable under (_b_) (i) above.
+          (iii)  the amounts it has received from the Fund in currency or special drawing rights under Article III, Section 3 (_c_) since the date applicable under (_b_) (i) above.
 
      (_c_)  The Fund, by a seventy percent majority of the total voting power, may raise the latest percentage of quota applying for the purposes of (_a_) above to each member to:
 
@@ -544,7 +544,7 @@ Section 12\. _Other operations and transactions_
 
      (_a_)  The Fund shall be guided in all its policies and decisions under this Section by the objectives set forth in Article VIII, Section 7 and by the objective of avoiding the management of the price, or the establishment of a fixed price, in the gold market.
 
-     (_b_)  Decisions of the Fund to engage in operations or transactions under (_c_), (_d_) and (_e_) below shall be made by an eighty‑five percent majority of the total voting power.
+     (_b_)  Decisions of the Fund to engage in operations or transactions under (_c_), (_d_) and (_e_) below shall be made by an eighty-five percent majority of the total voting power.
 
      (_c_)  The Fund may sell gold for the currency of any member after consulting the member for whose currency the gold is sold, provided that the Fund’s holdings of a member’s currency held in the General Resources Account shall not be increased by the sale above the level at which they would be subject to charges under Section 8 (_b_) (ii) of this Article without the concurrence of the member, and provided that, at the request of the member, the Fund at the time of sale shall exchange for the currency of another member such part of the currency received as would prevent such an increase. The exchange of a currency for the currency of another member shall be made after consultation with that member, and shall not increase the Fund’s holdings of that member’s currency above the level at which they would be subject to charges under Section 8 (_b_) (ii) of this Article. The Fund shall adopt policies and procedures with regard to exchanges that take into account the principles applied under Section 7 (_i_) of this Article. Sales under this provision to a member shall be at a price agreed for each transaction on the basis of prices in the market.
 
@@ -558,11 +558,11 @@ Section 12\. _Other operations and transactions_
 
           (ii)  for operations and transactions that are not authorized by other provisions of this Agreement but are consistent with the purposes of the Fund. Under this subsection (_f_) (ii) balance of payments assistance may be made available on special terms to developing members in difficult circumstances, and for this purpose the Fund shall take into account the level of per capita income;
 
-         (iii)  for distribution to those developing members that were members on August 31, 1975, in proportion to their quotas on that date, of such part of the assets that the Fund decides to use for the purposes of (ii) above as corresponds to the proportion of the quotas of these members on the date of distribution to the total of the quotas of all members on the same date, provided that the distribution under this provision to a member that has been declared ineligible to use the general resources of the Fund under Section 5 of this Article shall be made when the ineligibility ceases, unless the Fund decides to make the distribution sooner.
+          (iii)  for distribution to those developing members that were members on August 31, 1975, in proportion to their quotas on that date, of such part of the assets that the Fund decides to use for the purposes of (ii) above as corresponds to the proportion of the quotas of these members on the date of distribution to the total of the quotas of all members on the same date, provided that the distribution under this provision to a member that has been declared ineligible to use the general resources of the Fund under Section 5 of this Article shall be made when the ineligibility ceases, unless the Fund decides to make the distribution sooner.
 
-Decisions to use assets pursuant to (i) above shall be taken by a seventy percent majority of the total voting power, and decisions pursuant to (ii) and (iii) above shall be taken by an eighty‑five percent majority of the total voting power.
+Decisions to use assets pursuant to (i) above shall be taken by a seventy percent majority of the total voting power, and decisions pursuant to (ii) and (iii) above shall be taken by an eighty-five percent majority of the total voting power.
 
-     (_g_)  The Fund may decide, by an eighty‑five percent majority of the total voting power, to transfer a part of the excess referred to in (_f_) above to the Investment Account for use pursuant to the provisions of Article XII, Section 6 (_f_).
+     (_g_)  The Fund may decide, by an eighty-five percent majority of the total voting power, to transfer a part of the excess referred to in (_f_) above to the Investment Account for use pursuant to the provisions of Article XII, Section 6 (_f_).
 
      (_h_)  Pending uses specified under (_f_) above, the Fund may invest a member’s currency held in the Special Disbursement Account in marketable obligations of that member or in marketable obligations of international financial organizations. The income of investment and interest received under (_f_) (ii) above shall be placed in the Special Disbursement Account. No investment shall be made without the concurrence of the member whose currency is used to make the investment. The Fund shall invest only in obligations denominated in special drawing rights or in the currency used for investment.
 
@@ -602,7 +602,7 @@ Section 1\. _Measures to replenish the Fund’s holdings of currencies_
 
       (i)  propose to the member that, on terms and conditions agreed between the Fund and the member, the latter lend its currency to the Fund or that, with the concurrence of the member, the Fund borrow such currency from some other source either within or outside the territories of the member, but no member shall be under any obligation to make such loans to the Fund or to concur in the borrowing of its currency by the Fund from any other source;
 
-     (ii)  require the member, if it is a participant, to sell its currency to the Fund for special drawing rights held in the General Resources Account, subject to Article XIX, Section 4\. In replenishing with special drawing rights, the Fund shall pay due regard to the principles of designation under Article XIX, Section 5.
+      (ii)  require the member, if it is a participant, to sell its currency to the Fund for special drawing rights held in the General Resources Account, subject to Article XIX, Section 4\. In replenishing with special drawing rights, the Fund shall pay due regard to the principles of designation under Article XIX, Section 5.
 
 Section 2\. _General scarcity of currency_
 
@@ -642,7 +642,7 @@ Section 3\. _Avoidance of discriminatory currency practices_
 
      No member shall engage in, or permit any of its fiscal agencies referred to in Article V, Section 1 to engage in, any discriminatory currency arrangements or multiple currency practices, whether within or outside margins under Article IV or prescribed by or under Schedule C, except as authorized under this Agreement or approved by the Fund. If such arrangements and practices are engaged in at the date when this Agreement enters into force, the member concerned shall consult with the Fund as to their progressive removal unless they are maintained or imposed under Article XIV, Section 2, in which case the provisions of Section 3 of that Article shall apply.
 
-Section 4\. _Convertibility of foreign‑held balances_
+Section 4\. _Convertibility of foreign-held balances_
 
      (_a_)  Each member shall buy balances of its currency held by another member if the latter, in requesting the purchase, represents:
 
@@ -658,7 +658,7 @@ The buying member shall have the option to pay either in special drawing rights,
 
           (ii)  the balances have accumulated as a result of transactions effected before the removal by a member of restrictions maintained or imposed under Article XIV, Section 2;
 
-         (iii)  the balances have been acquired contrary to the exchange regulations of the member which is asked to buy them;
+          (iii)  the balances have been acquired contrary to the exchange regulations of the member which is asked to buy them;
 
          (iv)  the currency of the member requesting the purchase has been declared scarce under Article VII, Section 3(_a_); or
 
@@ -672,7 +672,7 @@ Section 5\. _Furnishing of information_
 
           (ii)  holdings at home and abroad by banking and financial agencies, other than official agencies, of (1) gold, (2) foreign exchange;
 
-         (iii)  production of gold;
+          (iii)  production of gold;
 
          (iv)  gold exports and imports according to countries of destination and origin;
 
@@ -680,9 +680,9 @@ Section 5\. _Furnishing of information_
 
          (vi)  international balance of payments, including (1) trade in goods and services, (2) gold transactions, (3) known capital transactions, and (4) other items;
 
-        (vii)  international investment position, i.e., investments within the territories of the member owned abroad and investments abroad owned by persons in its territories so far as it is possible to furnish this information;
+         (vii)  international investment position, i.e., investments within the territories of the member owned abroad and investments abroad owned by persons in its territories so far as it is possible to furnish this information;
 
-       (viii)  national income;
+        (viii)  national income;
 
          (ix)  price indices, i.e., indices of commodity prices in wholesale and retail markets and of export and import prices;
 
@@ -690,7 +690,7 @@ Section 5\. _Furnishing of information_
 
          (xi)  exchange controls, i.e., a comprehensive statement of exchange controls in effect at the time of assuming membership in the Fund and details of subsequent changes as they occur; and
 
-        (xii)  where official clearing arrangements exist, details of amounts awaiting clearance in respect of commercial and financial transactions, and of the length of time during which such arrears have been outstanding.
+         (xii)  where official clearing arrangements exist, details of amounts awaiting clearance in respect of commercial and financial transactions, and of the length of time during which such arrears have been outstanding.
 
      (_b_)  In requesting information the Fund shall take into consideration the varying ability of members to furnish the data requested. Members shall be under no obligation to furnish information in such detail that the affairs of individuals or corporations are disclosed. Members undertake, however, to furnish the desired information in as detailed and accurate a manner as is practicable and, so far as possible, to avoid mere estimates.
 
@@ -720,7 +720,7 @@ Section 2\. _Status of the Fund_
 
           (ii)  to acquire and dispose of immovable and movable property; and
 
-         (iii)  to institute legal proceedings.
+          (iii)  to institute legal proceedings.
 
 Section 3\. _Immunity from judicial process_
 
@@ -748,9 +748,9 @@ Section 8\. _Immunities and privileges of officers and employees_
 
       (i)  shall be immune from legal process with respect to acts performed by them in their official capacity except when the Fund waives this immunity;
 
-     (ii)  not being local nationals, shall be granted the same immunities from immigration restrictions, alien registration requirements, and national service obligations and the same facilities as regards exchange restrictions as are accorded by members to the representatives, officials, and employees of comparable rank of other members; and
+      (ii)  not being local nationals, shall be granted the same immunities from immigration restrictions, alien registration requirements, and national service obligations and the same facilities as regards exchange restrictions as are accorded by members to the representatives, officials, and employees of comparable rank of other members; and
 
-    (iii)  shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials, and employees of comparable rank of other members.
+     (iii)  shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials, and employees of comparable rank of other members.
 
 Section 9\. _Immunities from taxation_
 
@@ -776,21 +776,21 @@ RELATIONS WITH OTHER INTERNATIONAL ORGANIZATIONS
 
 ARTICLE XI
 
-RELATIONS WITH NON‑MEMBER COUNTRIES
+RELATIONS WITH NON-MEMBER COUNTRIES
 
-Section 1\. _Undertakings regarding relations with non‑member countries_
+Section 1\. _Undertakings regarding relations with non-member countries_
 
      Each member undertakes:
 
-      (i)  not to engage in, or permit any of its fiscal agencies referred to in Article V, Section 1 to engage in, any transactions with a non‑member or with persons in a non‑member’s territories which would be contrary to the provisions of this Agreement or the purposes of the Fund;
+      (i)  not to engage in, or permit any of its fiscal agencies referred to in Article V, Section 1 to engage in, any transactions with a non-member or with persons in a non-member’s territories which would be contrary to the provisions of this Agreement or the purposes of the Fund;
 
-     (ii)  not to cooperate with a non‑member or with persons in a non‑member’s territories in practices which would be contrary to the provisions of this Agreement or the purposes of the Fund; and
+      (ii)  not to cooperate with a non-member or with persons in a non-member’s territories in practices which would be contrary to the provisions of this Agreement or the purposes of the Fund; and
 
-    (iii)  to cooperate with the Fund with a view to the application in its territories of appropriate measures to prevent transactions with non‑members or with persons in their territories which would be contrary to the provisions of this Agreement or the purposes of the Fund.
+     (iii)  to cooperate with the Fund with a view to the application in its territories of appropriate measures to prevent transactions with non-members or with persons in their territories which would be contrary to the provisions of this Agreement or the purposes of the Fund.
 
-Section 2\. _Restrictions on transactions with non‑member countries_
+Section 2\. _Restrictions on transactions with non-member countries_
 
-     Nothing in this Agreement shall affect the right of any member to impose restrictions on exchange transactions with non‑members or with persons in their territories unless the Fund finds that such restrictions prejudice the interests of members and are contrary to the purposes of the Fund.
+     Nothing in this Agreement shall affect the right of any member to impose restrictions on exchange transactions with non-members or with persons in their territories unless the Fund finds that such restrictions prejudice the interests of members and are contrary to the purposes of the Fund.
 
 ARTICLE XII
 
@@ -798,7 +798,7 @@ ORGANIZATION AND MANAGEMENT
 
 Section 1\. _Structure of the Fund_
 
-     The Fund shall have a Board of Governors, an Executive Board, a Managing Director, and a staff, and a Council if the Board of Governors decides, by an eighty‑five percent majority of the total voting power, that the provisions of Schedule D shall be applied.
+     The Fund shall have a Board of Governors, an Executive Board, a Managing Director, and a staff, and a Council if the Board of Governors decides, by an eighty-five percent majority of the total voting power, that the provisions of Schedule D shall be applied.
 
 Section 2\. _Board of Governors_
 
@@ -806,9 +806,9 @@ Section 2\. _Board of Governors_
 
      (_b_)  The Board of Governors may delegate to the Executive Board authority to exercise any powers of the Board of Governors, except the powers conferred directly by this Agreement on the Board of Governors.
 
-     (_c_)  The Board of Governors shall hold such meetings as may be provided for by the Board of Governors or called by the Executive Board. Meetings of the Board of Governors shall be called whenever requested by fifteen members or by members having one‑quarter of the total voting power.
+     (_c_)  The Board of Governors shall hold such meetings as may be provided for by the Board of Governors or called by the Executive Board. Meetings of the Board of Governors shall be called whenever requested by fifteen members or by members having one-quarter of the total voting power.
 
-     (_d_)  A quorum for any meeting of the Board of Governors shall be a majority of the Governors having not less than two‑thirds of the total voting power.
+     (_d_)  A quorum for any meeting of the Board of Governors shall be a majority of the Governors having not less than two-thirds of the total voting power.
 
      (_e_)  Each Governor shall be entitled to cast the number of votes allotted under Section 5 of this Article to the member appointing him.
 
@@ -832,7 +832,7 @@ Section 3\. _Executive Board_
 
           (ii)  fifteen shall be elected by the other members.
 
-For the purpose of each regular election of Executive Directors, the Board of Governors, by an eighty‑five percent majority of the total voting power, may increase or decrease the number of Executive Directors in (ii) above. The number of Executive Directors in (ii) above shall be reduced by one or two, as the case may be, if Executive Directors are appointed under (_c_) below, unless the Board of Governors decides, by an eighty‑five percent majority of the total voting power, that this reduction would hinder the effective discharge of the functions of the Executive Board or of Executive Directors or would threaten to upset a desirable balance in the Executive Board.
+For the purpose of each regular election of Executive Directors, the Board of Governors, by an eighty-five percent majority of the total voting power, may increase or decrease the number of Executive Directors in (ii) above. The number of Executive Directors in (ii) above shall be reduced by one or two, as the case may be, if Executive Directors are appointed under (_c_) below, unless the Board of Governors decides, by an eighty-five percent majority of the total voting power, that this reduction would hinder the effective discharge of the functions of the Executive Board or of Executive Directors or would threaten to upset a desirable balance in the Executive Board.
 
      (_c_)  If, at the second regular election of Executive Directors and thereafter, the members entitled to appoint Executive Directors under (_b_) (i) above do not include the two members, the holdings of whose currencies by the Fund in the General Resources Account have been, on the average over the preceding two years, reduced below their quotas by the largest absolute amounts in terms of the special drawing right, either one or both of such members, as the case may be, may appoint an Executive Director.
 
@@ -844,13 +844,13 @@ For the purpose of each regular election of Executive Directors, the Board of Go
 
      (_g_)  The Executive Board shall function in continuous session at the principal office of the Fund and shall meet as often as the business of the Fund may require.
 
-     (_h_)  A quorum for any meeting of the Executive Board shall be a majority of the Executive Directors having not less than one‑half of the total voting power.
+     (_h_)  A quorum for any meeting of the Executive Board shall be a majority of the Executive Directors having not less than one-half of the total voting power.
 
-      (_i_) (i)  Each appointed Executive Director shall be entitled to cast the number of votes allotted under Section 5 of this Article to the member appointing him.
+      (_i_)  (i)  Each appointed Executive Director shall be entitled to cast the number of votes allotted under Section 5 of this Article to the member appointing him.
 
           (ii)  If the votes allotted to a member that appoints an Executive Director under (_c_) above were cast by an Executive Director together with the votes allotted to other members as a result of the last regular election of Executive Directors, the member may agree with each of the other members that the number of votes allotted to it shall be cast by the appointed Executive Director. A member making such an agreement shall not participate in the election of Executive Directors.
 
-         (iii)  Each elected Executive Director shall be entitled to cast the number of votes which counted towards his election.
+          (iii)  Each elected Executive Director shall be entitled to cast the number of votes which counted towards his election.
 
          (iv)  When the provisions of Section 5 (_b_) of this Article are applicable, the votes which an Executive Director would otherwise be entitled to cast shall be increased or decreased correspondingly. All the votes which an Executive Director is entitled to cast shall be cast as a unit.
 
@@ -894,11 +894,11 @@ Section 6\. _Reserves, distribution of net income, and investment_
 
      (_e_)  Payments under (_c_) and (_d_) above shall be made in special drawing rights, provided that either the Fund or the member may decide that the payment to the member shall be made in its own currency.
 
-      (_f_) (i)  The fund may establish an Investment Account for the purposes of this subsection (_f_). The assets of the Investment Account shall be held separately from the other accounts of the General Department.
+      (_f_)  (i)  The fund may establish an Investment Account for the purposes of this subsection (_f_). The assets of the Investment Account shall be held separately from the other accounts of the General Department.
 
           (ii)  The Fund may decide to transfer to the Investment Account a part of the proceeds of the sale of gold in accordance with Article V, Section 12 (_g_) and, by a seventy percent majority of the total voting power, may decide to transfer to the Investment Account, for immediate investment, currencies held in the General Resources Account. The amount of these transfers shall not exceed the total amount of the general reserve and the special reserve at the time of the decision.
 
-         (iii)  The Fund may invest a member’s currency held in the Investment Account in marketable obligations of that member or in marketable obligations of international financial organizations. No investment shall be made without the concurrence of the member whose currency is used to make the investment. The Fund shall invest only in obligations denominated in special drawing rights or in the currency used for investment.
+          (iii)  The Fund may invest a member’s currency held in the Investment Account in marketable obligations of that member or in marketable obligations of international financial organizations. No investment shall be made without the concurrence of the member whose currency is used to make the investment. The Fund shall invest only in obligations denominated in special drawing rights or in the currency used for investment.
 
          (iv)  The income of investment may be invested in accordance with the provisions of this subsection (_f_). Income not invested shall be held in the Investment Account or may be used for meeting the expenses of conducting the business of the Fund.
 
@@ -906,9 +906,9 @@ Section 6\. _Reserves, distribution of net income, and investment_
 
          (vi)  The Investment Account shall be terminated in the event of liquidation of the Fund and may be terminated, or the amount of the investment may be reduced, prior to liquidation of the Fund by a seventy percent majority of the total voting power. The Fund, by a seventy percent majority of the total voting power, shall adopt rules and regulations regarding administration of the Investment Account, which shall be consistent with (vii), (viii), and (ix) below.
 
-        (vii)  Upon termination of the Investment Account because of liquidation of the Fund, any assets in this account shall be distributed in accordance with the provisions of Schedule K, provided that a portion of these assets corresponding to the proportion of the assets transferred to this account under Article V, Section 12 (_g_) to the total of the assets transferred to this account shall be deemed to be assets held in the Special Disbursement Account and shall be distributed in accordance with Schedule K, paragraph 2 (_a_) (ii).
+         (vii)  Upon termination of the Investment Account because of liquidation of the Fund, any assets in this account shall be distributed in accordance with the provisions of Schedule K, provided that a portion of these assets corresponding to the proportion of the assets transferred to this account under Article V, Section 12 (_g_) to the total of the assets transferred to this account shall be deemed to be assets held in the Special Disbursement Account and shall be distributed in accordance with Schedule K, paragraph 2 (_a_) (ii).
 
-       (viii)  Upon termination of the Investment Account prior to liquidation of the Fund, a portion of the assets held in this account corresponding to the proportion of the assets transferred to this account under Article V, Section 12 (_g_) to the total of the assets transferred to the account shall be transferred to the Special Disbursement Account if it has not been terminated, and the balance of the assets held in the Investment Account shall be transferred to the General Resources Account for immediate use in operations and transactions.
+        (viii)  Upon termination of the Investment Account prior to liquidation of the Fund, a portion of the assets held in this account corresponding to the proportion of the assets transferred to this account under Article V, Section 12 (_g_) to the total of the assets transferred to the account shall be transferred to the Special Disbursement Account if it has not been terminated, and the balance of the assets held in the Investment Account shall be transferred to the General Resources Account for immediate use in operations and transactions.
 
          (ix)  On a reduction of the amount of the investment by the Fund, a portion of the reduction corresponding to the proportion of the assets transferred to the Investment Account under Article V, Section 12 (_g_) to the total of the assets transferred to this account shall be transferred to the Special Disbursement Account if it has not been terminated, and the balance of the reduction shall be transferred to the General Resources Account for immediate use in operations and transactions.
 
@@ -934,7 +934,7 @@ Section 2\. _Depositories_
 
      (_a_)  Each member shall designate its central bank as a depository, for all the Fund’s holdings of its currency, or if it has no central bank it shall designate such other institution as may be acceptable to the Fund.
 
-     (_b_)  The Fund may hold other assets, including gold, in the depositories designated by the five members having the largest quotas and in such other designated depositories as the Fund may select. Initially, at least one‑half of the holdings of the Fund shall be held in the depository designated by the member in whose territories the Fund has its principal office and at least forty percent shall be held in the depositories designated by the remaining four members referred to above. However, all transfers of gold by the Fund shall be made with due regard to the costs of transport and anticipated requirements of the Fund. In an emergency the Executive Board may transfer all or any part of the Fund’s gold holdings to any place where they can be adequately protected.
+     (_b_)  The Fund may hold other assets, including gold, in the depositories designated by the five members having the largest quotas and in such other designated depositories as the Fund may select. Initially, at least one-half of the holdings of the Fund shall be held in the depository designated by the member in whose territories the Fund has its principal office and at least forty percent shall be held in the depositories designated by the remaining four members referred to above. However, all transfers of gold by the Fund shall be made with due regard to the costs of transport and anticipated requirements of the Fund. In an emergency the Executive Board may transfer all or any part of the Fund’s gold holdings to any place where they can be adequately protected.
 
 Section 3\. _Guarantee of the Fund’s assets_
 
@@ -968,7 +968,7 @@ Section 1\. _Authority to allocate special drawing rights_
 
 Section 2\. _Valuation of the special drawing right_
 
-     The method of valuation of the special drawing right shall be determined by the Fund by a seventy percent majority of the total voting power, provided, however, that an eighty‑five percent majority of the total voting power shall be required for a change in the principle of valuation or a fundamental change in the application of the principle in effect.
+     The method of valuation of the special drawing right shall be determined by the Fund by a seventy percent majority of the total voting power, provided, however, that an eighty-five percent majority of the total voting power shall be required for a change in the principle of valuation or a fundamental change in the application of the principle in effect.
 
 ARTICLE XVI
 
@@ -992,7 +992,7 @@ PARTICIPANTS AND OTHER HOLDERS OF SPECIAL DRAWING RIGHTS
 
 Section 1\. _Participants_
 
-     Each member of the Fund that deposits with the Fund an instrument setting forth that it undertakes all the obligations of a participant in the Special Drawing Rights Department in accordance with its law and that it has taken all steps necessary to enable it to carry out all of these obligations shall become a participant in the Special Drawing Rights Department as of the date the instrument is deposited, except that no member shall become a participant before the provisions of this Agreement pertaining exclusively to the Special Drawing Rights Department have entered into force and instruments have been deposited under this Section by members that have at least seventy‑five percent of the total of quotas.
+     Each member of the Fund that deposits with the Fund an instrument setting forth that it undertakes all the obligations of a participant in the Special Drawing Rights Department in accordance with its law and that it has taken all steps necessary to enable it to carry out all of these obligations shall become a participant in the Special Drawing Rights Department as of the date the instrument is deposited, except that no member shall become a participant before the provisions of this Agreement pertaining exclusively to the Special Drawing Rights Department have entered into force and instruments have been deposited under this Section by members that have at least seventy-five percent of the total of quotas.
 
 Section 2\. _Fund as a holder_
 
@@ -1002,13 +1002,13 @@ Section 3\. _Other holders_
 
      The Fund may prescribe:
 
-      (i)  as holders, non‑members, members that are non‑participants, institutions that perform functions of a central bank for more than one member, and other official entities;
+      (i)  as holders, non-members, members that are non-participants, institutions that perform functions of a central bank for more than one member, and other official entities;
 
-     (ii)  the terms and conditions on which prescribed holders may be permitted to hold special drawing rights and may accept and use them in operations and transactions with participants and other prescribed holders; and
+      (ii)  the terms and conditions on which prescribed holders may be permitted to hold special drawing rights and may accept and use them in operations and transactions with participants and other prescribed holders; and
 
-    (iii)  the terms and conditions on which participants and the Fund through the General Resources Account may enter into operations and transactions in special drawing rights with prescribed holders.
+     (iii)  the terms and conditions on which participants and the Fund through the General Resources Account may enter into operations and transactions in special drawing rights with prescribed holders.
 
-An eighty‑five percent majority of the total voting power shall be required for prescriptions under (i) above. The terms and conditions prescribed by the Fund shall be consistent with the provisions of this Agreement and the effective functioning of the Special Drawing Rights Department.
+An eighty-five percent majority of the total voting power shall be required for prescriptions under (i) above. The terms and conditions prescribed by the Fund shall be consistent with the provisions of this Agreement and the effective functioning of the Special Drawing Rights Department.
 
 ARTICLE XVIII
 
@@ -1016,7 +1016,7 @@ ALLOCATION AND CANCELLATION OF SPECIAL DRAWING RIGHTS
 
 Section 1\. _Principles and considerations governing allocation and cancellation_
 
-     (_a_)  In all its decisions with respect to the allocation and cancellation of special drawing rights the Fund shall seek to meet the long‑term global need, as and when it arises, to supplement existing reserve assets in such manner as will promote the attainment of its purposes and will avoid economic stagnation and deflation as well as excess demand and inflation in the world.
+     (_a_)  In all its decisions with respect to the allocation and cancellation of special drawing rights the Fund shall seek to meet the long-term global need, as and when it arises, to supplement existing reserve assets in such manner as will promote the attainment of its purposes and will avoid economic stagnation and deflation as well as excess demand and inflation in the world.
 
      (_b_)  The first decision to allocate special drawing rights shall take into account, as special considerations, a collective judgment that there is a global need to supplement reserves, and the attainment of a better balance of payments equilibrium, as well as the likelihood of a better working of the adjustment process in the future.
 
@@ -1032,7 +1032,7 @@ Section 2\. _Allocation and cancellation_
 
           (ii)  the allocations or cancellations shall take place at other than yearly intervals; or
 
-         (iii)  the basis for allocations or cancellations shall be the quotas or net cumulative allocations on dates other than the dates of decisions to allocate or cancel.
+          (iii)  the basis for allocations or cancellations shall be the quotas or net cumulative allocations on dates other than the dates of decisions to allocate or cancel.
 
      (_d_)  A member that becomes a participant after a basic period starts shall receive allocations beginning with the next basic period in which allocations are made after it becomes a participant unless the Fund decides that the new participant shall start to receive allocations beginning with the next allocation after it becomes a participant. If the Fund decides that a member that becomes a participant during a basic period shall receive allocations during the remainder of that basic period and the participant was not a member on the dates established under (_b_) or (_c_) above, the Fund shall determine the basis on which these allocations to the participant shall be made.
 
@@ -1060,13 +1060,13 @@ Section 4\. _Decisions on allocations and cancellations_
 
           (ii)  if no decision has been taken with respect to allocation or cancellation for a basic period, whenever he is satisfied that the provisions of (_b_) above have been met;
 
-         (iii)  when, in accordance with Section 3 of this Article, he considers that it would be desirable to change the rate or intervals of allocation or cancellation or change the length of a basic period or start a new basic period; or
+          (iii)  when, in accordance with Section 3 of this Article, he considers that it would be desirable to change the rate or intervals of allocation or cancellation or change the length of a basic period or start a new basic period; or
 
          (iv)  within six months of a request by the Board of Governors or the Executive Board;
 
 provided that, if under (i), (iii), or (iv) above the Managing Director ascertains that there is no proposal which he considers to be consistent with the provisions of Section 1 of this Article that has broad support among participants in accordance with (_b_) above, he shall report to the Board of Governors and to the Executive Board.
 
-     (_d_)  An eighty‑five percent majority of the total voting power shall be required for decisions under Section 2 (_a_), (_b_), and (_c_) or Section 3 of this Article except for decisions under Section 3 with respect to a decrease in the rates of allocation.
+     (_d_)  An eighty-five percent majority of the total voting power shall be required for decisions under Section 2 (_a_), (_b_), and (_c_) or Section 3 of this Article except for decisions under Section 3 with respect to a decrease in the rates of allocation.
 
 ARTICLE XIX
 
@@ -1108,7 +1108,7 @@ Section 5\. _Designation of participants to provide currency_
 
           (ii)  Participants shall be subject to designation in order to promote reconstitution under Section 6 (_a_) of this Article, to reduce negative balances in holdings of special drawing rights, or to offset the effect of failures to fulfill the expectation in Section 3 (_a_) of this Article.
 
-         (iii)  In designating participants the Fund normally shall give priority to those that need to acquire special drawing rights to meet the objectives of designation under (ii) above.
+          (iii)  In designating participants the Fund normally shall give priority to those that need to acquire special drawing rights to meet the objectives of designation under (ii) above.
 
      (_b_)  In order to promote over time a balanced distribution of holdings of special drawing rights under (_a_) (i) above, the Fund shall apply the rules for designation in Schedule F or such rules as may be adopted under (_c_) below.
 
@@ -1124,7 +1124,7 @@ Section 7\. _Exchange rates_
 
      (_a_)  Except as otherwise provided in (_b_) below, the exchange rates for transactions between participants under Section 2 (_a_) and (_b_) of this Article shall be such that participants using special drawing rights shall receive the same value whatever currencies might be provided and whichever participants provide those currencies, and the Fund shall adopt regulations to give effect to this principle.
 
-     (_b_)  The Fund, by an eighty‑five percent majority of the total voting power, may adopt policies under which in exceptional circumstances the Fund, by a seventy percent majority of the total voting power, may authorize participants entering into transactions under Section 2 (_b_) of this Article to agree on exchange rates other than those applicable under (_a_) above.
+     (_b_)  The Fund, by an eighty-five percent majority of the total voting power, may adopt policies under which in exceptional circumstances the Fund, by a seventy percent majority of the total voting power, may authorize participants entering into transactions under Section 2 (_b_) of this Article to agree on exchange rates other than those applicable under (_a_) above.
 
      (_c_)  The Fund shall consult a participant on the procedure for determining rates of exchange for its currency.
 
@@ -1165,7 +1165,7 @@ ADMINISTRATION OF THE GENERAL DEPARTMENT AND THE SPECIAL DRAWING RIGHTS DEPARTME
 
           (ii)  For decisions by the Executive Board on matters pertaining exclusively to the Special Drawing Rights Department only Executive Directors appointed or elected by at least one member that is a participant shall be entitled to vote. Each of these Executive Directors shall be entitled to cast the number of votes allotted to the member which is a participant that appointed him or to the members that are participants whose votes counted towards his election. Only the presence of Executive Directors appointed or elected by members that are participants and the votes allotted to members that are participants shall be counted for the purpose of determining whether a quorum exists or whether a decision is made by the required majority. For the purposes of this provision, an agreement under Article XII, Section 3 (_i_) (ii) by a member that is a participant shall entitle an appointed Executive Director to vote and cast the number of votes allotted to the member.
 
-         (iii)  Questions of the general administration of the Fund, including reimbursement under Article XVI, Section 2, and any question whether a matter pertains to both Departments or exclusively to the Special Drawing Rights Department shall be decided as if they pertained exclusively to the General Department. Decisions with respect to the method of valuation of the special drawing right, the acceptance and holding of special drawing rights in the General Resources Account of the General Department and the use of them, and other decisions affecting the operations and transactions conducted through both the General Resources Account of the General Department and the Special Drawing Rights Department shall be made by the majorities required for decisions on matters pertaining exclusively to each Department. A decision on a matter pertaining to the Special Drawing Rights Department shall so indicate.
+          (iii)  Questions of the general administration of the Fund, including reimbursement under Article XVI, Section 2, and any question whether a matter pertains to both Departments or exclusively to the Special Drawing Rights Department shall be decided as if they pertained exclusively to the General Department. Decisions with respect to the method of valuation of the special drawing right, the acceptance and holding of special drawing rights in the General Resources Account of the General Department and the use of them, and other decisions affecting the operations and transactions conducted through both the General Resources Account of the General Department and the Special Drawing Rights Department shall be made by the majorities required for decisions on matters pertaining exclusively to each Department. A decision on a matter pertaining to the Special Drawing Rights Department shall so indicate.
 
      (_b_)  In addition to the privileges and immunities that are accorded under Article IX of this Agreement, no tax of any kind shall be levied on special drawing rights or on operations or transactions in special drawing rights.
 
@@ -1185,7 +1185,7 @@ SUSPENSION OF OPERATIONS AND TRANSACTIONS IN SPECIAL DRAWING RIGHTS
 
 Section 1\. _Emergency provisions_
 
-     In the event of an emergency or the development of unforeseen circumstances threatening the activities of the Fund with respect to the Special Drawing Rights Department, the Executive Board, by an eighty‑five percent majority of the total voting power, may suspend for a period of not more than one year the operation of any of the provisions relating to operations and transactions in special drawing rights, and the provisions of Article XXVII, Section 1 (_b_), (_c_), and (_d_) shall then apply.
+     In the event of an emergency or the development of unforeseen circumstances threatening the activities of the Fund with respect to the Special Drawing Rights Department, the Executive Board, by an eighty-five percent majority of the total voting power, may suspend for a period of not more than one year the operation of any of the provisions relating to operations and transactions in special drawing rights, and the provisions of Article XXVII, Section 1 (_b_), (_c_), and (_d_) shall then apply.
 
 Section 2\. _Failure to fulfill obligations_
 
@@ -1237,7 +1237,7 @@ Section 6\. _General Resources Account transactions_
 
       (i)  use any special drawing rights held by it after the setoff in Section 2 (_b_) of this Article, when they are to be redeemed, in a transaction with the Fund conducted through the General Resources Account to obtain its own currency or a freely usable currency at the option of the Fund; or
 
-     (ii)  obtain special drawing rights in a transaction with the Fund conducted through the General Resources Account for a currency acceptable to the Fund to meet any charges or installment due under an agreement or the provisions of Schedule H.
+      (ii)  obtain special drawing rights in a transaction with the Fund conducted through the General Resources Account for a currency acceptable to the Fund to meet any charges or installment due under an agreement or the provisions of Schedule H.
 
 ARTICLE XXV
 
@@ -1265,7 +1265,7 @@ Section 2\. _Compulsory withdrawal_
 
      (_b_)  If, after the expiration of a reasonable period following a declaration of ineligibility under (_a_) above, the member persists in its failure to fulfil any of its obligations under this Agreement, the Fund may, by a seventy percent majority of the total voting power, suspend the voting rights of the member. During the period of the suspension, the provisions of Schedule L shall apply. The Fund may, by a seventy percent majority of the total voting power, terminate the suspension at any time.
 
-     (_c_)  If, after the expiration of a reasonable period following a decision of suspension under (_b_) above, the member persists in its failure to fulfil any of its obligations under this Agreement, that member may be required to withdraw from membership in the Fund by a decision of the Board of Governors carried by a majority of the Governors having eighty‑five percent of the total voting power.
+     (_c_)  If, after the expiration of a reasonable period following a decision of suspension under (_b_) above, the member persists in its failure to fulfil any of its obligations under this Agreement, that member may be required to withdraw from membership in the Fund by a decision of the Board of Governors carried by a majority of the Governors having eighty-five percent of the total voting power.
 
      (_d_)  Regulations shall be adopted to ensure that before action is taken against any member under (_a_), (_b_), or (_c_) above, the member shall be informed in reasonable time of the complaint against it and given an adequate opportunity for stating its case, both orally and in writing.
 
@@ -1279,17 +1279,17 @@ EMERGENCY PROVISIONS
 
 Section 1\. _Temporary suspension_
 
-     (_a_)  In the event of an emergency or the development of unforeseen circumstances threatening the activities of the Fund, the Executive Board, by an eighty‑five percent majority of the total voting power, may suspend for a period of not more than one year the operation of any of the following provisions:
+     (_a_)  In the event of an emergency or the development of unforeseen circumstances threatening the activities of the Fund, the Executive Board, by an eighty-five percent majority of the total voting power, may suspend for a period of not more than one year the operation of any of the following provisions:
 
            (i)  Article V, Sections 2, 3, 7, 8 (_a_) (i) and (_e_);
 
           (ii)  Article VI, Section 2;
 
-         (iii)  Article XI, Section 1;
+          (iii)  Article XI, Section 1;
 
          (iv)  Schedule C, paragraph 5.
 
-     (_b_)  A suspension of the operation of a provision under (_a_) above may not be extended beyond one year except by the Board of Governors which, by an eighty‑five percent majority of the total voting power, may extend a suspension for an additional period of not more than two years if it finds that the emergency or unforeseen circumstances referred to in (_a_) above continue to exist.
+     (_b_)  A suspension of the operation of a provision under (_a_) above may not be extended beyond one year except by the Board of Governors which, by an eighty-five percent majority of the total voting power, may extend a suspension for an additional period of not more than two years if it finds that the emergency or unforeseen circumstances referred to in (_a_) above continue to exist.
 
      (_c_)  The Executive Board may, by a majority of the total voting power, terminate such suspension at any time.
 
@@ -1307,7 +1307,7 @@ ARTICLE XXVIII
 
 AMENDMENTS
 
-     (_a_)  Any proposal to introduce modifications in this Agreement, whether emanating from a member, a Governor, or the Executive Board, shall be communicated to the chairman of the Board of Governors who shall bring the proposal before the Board of Governors. If the proposed amendment is approved by the Board of Governors, the Fund shall, by circular letter or telegram, ask all members whether they accept the proposed amendment. When three‑fifths of the members, having eighty‑five percent of the total voting power, have accepted the proposed amendment, the Fund shall certify the fact by a formal communication addressed to all members.
+     (_a_)  Any proposal to introduce modifications in this Agreement, whether emanating from a member, a Governor, or the Executive Board, shall be communicated to the chairman of the Board of Governors who shall bring the proposal before the Board of Governors. If the proposed amendment is approved by the Board of Governors, the Fund shall, by circular letter or telegram, ask all members whether they accept the proposed amendment. When three-fifths of the members, having eighty-five percent of the total voting power, have accepted the proposed amendment, the Fund shall certify the fact by a formal communication addressed to all members.
 
      (_b_)  Notwithstanding (_a_) above, acceptance by all members is required in the case of any amendment modifying:
 
@@ -1315,7 +1315,7 @@ AMENDMENTS
 
           (ii)  the provision that no change in a member’s quota shall be made without its consent (Article III, Section 2 (_d_)); and
 
-         (iii)  the provision that no change may be made in the par value of a member’s currency except on the proposal of that member (Schedule C, paragraph 6).
+          (iii)  the provision that no change may be made in the par value of a member’s currency except on the proposal of that member (Schedule C, paragraph 6).
 
      (_c_)  Amendments shall enter into force for all members three months after the date of the formal communication unless a shorter period is specified in the circular letter or telegram.
 
@@ -1325,7 +1325,7 @@ INTERPRETATION
 
      (_a_)  Any question of interpretation of the provisions of this Agreement arising between any member and the Fund or between any members of the Fund shall be submitted to the Executive Board for its decision. If the question particularly affects any member not entitled to appoint an Executive Director, it shall be entitled to representation in accordance with Article XII, Section 3 (_j_).
 
-     (_b_)  In any case where the Executive Board has given a decision under (_a_) above, any member may require, within three months from the date of the decision, that the question be referred to the Board of Governors, whose decision shall be final. Any question referred to the Board of Governors shall be considered by a Committee on Interpretation of the Board of Governors. Each Committee member shall have one vote. The Board of Governors shall establish the membership, procedures, and voting majorities of the Committee. A decision of the Committee shall be the decision of the Board of Governors unless the Board of Governors, by an eighty‑five percent majority of the total voting power, decides otherwise. Pending the result of the reference to the Board of Governors the Fund may, so far as it deems necessary, act on the basis of the decision of the Executive Board.
+     (_b_)  In any case where the Executive Board has given a decision under (_a_) above, any member may require, within three months from the date of the decision, that the question be referred to the Board of Governors, whose decision shall be final. Any question referred to the Board of Governors shall be considered by a Committee on Interpretation of the Board of Governors. Each Committee member shall have one vote. The Board of Governors shall establish the membership, procedures, and voting majorities of the Committee. A decision of the Committee shall be the decision of the Board of Governors unless the Board of Governors, by an eighty-five percent majority of the total voting power, decides otherwise. Pending the result of the reference to the Board of Governors the Fund may, so far as it deems necessary, act on the basis of the decision of the Executive Board.
 
      (_c_)  Whenever a disagreement arises between the Fund and a member which has withdrawn, or between the Fund and any member during liquidation of the Fund, such disagreement shall be submitted to arbitration by a tribunal of three arbitrators, one appointed by the Fund, another by the member or withdrawing member, and an umpire who, unless the parties otherwise agree, shall be appointed by the President of the International Court of Justice or such other authority as may have been prescribed by regulation adopted by the Fund. The umpire shall have full power to settle all questions of procedure in any case where the parties are in disagreement with respect thereto.
 
@@ -1337,7 +1337,7 @@ EXPLANATION OF TERMS
 
      (_a_)  The Fund’s holdings of a member’s currency in the General Resources Account shall include any securities accepted by the Fund under Article III, Section 4.
 
-     (_b_)  Stand‑by arrangement means a decision of the Fund by which a member is assured that it will be able to make purchases from the General Resources Account in accordance with the terms of the decision during a specified period and up to a specified amount.
+     (_b_)  Stand-by arrangement means a decision of the Fund by which a member is assured that it will be able to make purchases from the General Resources Account in accordance with the terms of the decision during a specified period and up to a specified amount.
 
      (_c_)  Reserve tranche purchase means a purchase by a member of special drawing rights or the currency of another member in exchange for its own currency which does not cause the Fund’s holdings of the member’s currency in the General Resources Account to exceed its quota, provided that for the purposes of this definition the Fund may exclude purchases and holdings under:
 
@@ -1345,11 +1345,11 @@ EXPLANATION OF TERMS
 
           (ii)  policies on the use of its general resources in connection with the financing of contributions to international buffer stocks of primary products; and
 
-         (iii)  other policies on the use of its general resources in respect of which the Fund decides, by an eighty‑five percent majority of the total voting power, that an exclusion shall be made.
+          (iii)  other policies on the use of its general resources in respect of which the Fund decides, by an eighty-five percent majority of the total voting power, that an exclusion shall be made.
 
      (_d_)  Payments for current transactions means payments which are not for the purpose of transferring capital, and includes, without limitation:
 
-          (1)  all payments due in connection with foreign trade, other current business, including services, and normal short‑term banking and credit facilities;
+          (1)  all payments due in connection with foreign trade, other current business, including services, and normal short-term banking and credit facilities;
 
           (2)  payments due as interests on loans and as net income from other investments;
 
@@ -1375,7 +1375,7 @@ FINAL PROVISIONS
 
 Section 1\. _Entry into force_
 
-     This Agreement shall enter into force when it has been signed on behalf of governments having sixty‑five percent of the total of the quotas set forth in Schedule A and when the instruments referred to in Section 2 (_a_) of this Article have been deposited on their behalf, but in no event shall this Agreement enter into force before May 1, 1945.
+     This Agreement shall enter into force when it has been signed on behalf of governments having sixty-five percent of the total of the quotas set forth in Schedule A and when the instruments referred to in Section 2 (_a_) of this Article have been deposited on their behalf, but in no event shall this Agreement enter into force before May 1, 1945.
 
 Section 2\. _Signature_
 
@@ -1385,7 +1385,7 @@ Section 2\. _Signature_
 
      (_c_)  The Government of the United States of America shall inform the governments of all countries whose names are set forth in Schedule A, and the governments of all countries whose membership is approved in accordance with Article II, Section 2, of all signatures of this Agreement and of the deposit of all instruments referred to in (_a_) above.
 
-     (_d_)  At the time this Agreement is signed on its behalf, each government shall transmit to the Government of the United States of America one‑hundredth of one percent of its total subscription in gold or United States dollars for the purpose of meeting administrative expenses of the Fund. The Government of the United States of America shall hold such funds in a special deposit account and shall transmit them to the Board of Governors of the Fund when the initial meeting has been called. If this Agreement has not come into force by December 31, 1945, the Government of the United States of America shall return such funds to the governments that transmitted them.
+     (_d_)  At the time this Agreement is signed on its behalf, each government shall transmit to the Government of the United States of America one-hundredth of one percent of its total subscription in gold or United States dollars for the purpose of meeting administrative expenses of the Fund. The Government of the United   States of America shall hold such funds in a special deposit account and shall transmit them to the Board of Governors of the Fund when the initial meeting has been called. If this Agreement has not come into force by December 31, 1945, the Government of the United States of America shall return such funds to the governments that transmitted them.
 
      (_e_)  This Agreement shall remain open for signature at Washington on behalf of the governments of the countries whose names are set forth in Schedule A until December 31, 1945.
 
@@ -1433,7 +1433,7 @@ SCHEDULE A
     <div></div>
   </td>
   <td>
-    <div>Iran ..............................................</div>
+    <div>Iran ...............................................</div>
   </td>
   <td colspan="2">
     <div>25</div>
@@ -1450,7 +1450,7 @@ SCHEDULE A
     <div></div>
   </td>
   <td>
-    <div>Iraq ..............................................</div>
+    <div>Iraq ...............................................</div>
   </td>
   <td colspan="2">
     <div>8</div>
@@ -1458,7 +1458,7 @@ SCHEDULE A
 </tr>
 <tr>
   <td>
-    <div>Bolivia .........................................</div>
+    <div>Bolivia</div>
   </td>
   <td>
     <div>10</div>
@@ -1467,7 +1467,7 @@ SCHEDULE A
     <div></div>
   </td>
   <td>
-    <div>Liberia..........................................</div>
+    <div>Liberia...........................................</div>
   </td>
   <td colspan="2">
     <div>.5</div>
@@ -1475,7 +1475,7 @@ SCHEDULE A
 </tr>
 <tr>
   <td>
-    <div>Brazil ........................................... ...........</div>
+    <div>Brazil ............................................</div>
   </td>
   <td>
     <div>150</div>
@@ -1484,7 +1484,7 @@ SCHEDULE A
     <div></div>
   </td>
   <td>
-    <div>Luxembourg ...............................</div>
+    <div>Luxembourg ................................</div>
   </td>
   <td colspan="2">
     <div>10</div>
@@ -1492,7 +1492,7 @@ SCHEDULE A
 </tr>
 <tr>
   <td>
-    <div>Canada .......................................</div>
+    <div>Canada .........................................</div>
   </td>
   <td>
     <div>300</div>
@@ -1501,7 +1501,7 @@ SCHEDULE A
     <div></div>
   </td>
   <td>
-    <div>Mexico.........................................</div>
+    <div>Mexico..........................................</div>
   </td>
   <td colspan="2">
     <div>90</div>
@@ -1526,7 +1526,7 @@ SCHEDULE A
 </tr>
 <tr>
   <td>
-    <div>China ...........................................</div>
+    <div>China ............................................</div>
   </td>
   <td>
     <div>550</div>
@@ -1535,7 +1535,7 @@ SCHEDULE A
     <div></div>
   </td>
   <td>
-    <div>New Zealand ..............................</div>
+    <div>New Zealand ...............................</div>
   </td>
   <td colspan="2">
     <div>50</div>
@@ -1543,7 +1543,7 @@ SCHEDULE A
 </tr>
 <tr>
   <td>
-    <div>Colombia ....................................</div>
+    <div>Colombia .....................................</div>
   </td>
   <td>
     <div>50</div>
@@ -1552,7 +1552,7 @@ SCHEDULE A
     <div></div>
   </td>
   <td>
-    <div>Nicaragua ...................................</div>
+    <div>Nicaragua ....................................</div>
   </td>
   <td colspan="2">
     <div>2</div>
@@ -1560,7 +1560,7 @@ SCHEDULE A
 </tr>
 <tr>
   <td>
-    <div>Costa Rica ..................................</div>
+    <div>Costa Rica ...................................</div>
   </td>
   <td>
     <div>5</div>
@@ -1577,7 +1577,7 @@ SCHEDULE A
 </tr>
 <tr>
   <td>
-    <div>Cuba ............................................</div>
+    <div>Cuba .............................................</div>
   </td>
   <td>
     <div>50</div>
@@ -1586,7 +1586,7 @@ SCHEDULE A
     <div></div>
   </td>
   <td>
-    <div>Panama .......................................</div>
+    <div>Panama ........................................</div>
   </td>
   <td colspan="2">
     <div>.5</div>
@@ -1594,7 +1594,7 @@ SCHEDULE A
 </tr>
 <tr>
   <td>
-    <div>Czechoslovakia..........................</div>
+    <div>Czechoslovakia...........................</div>
   </td>
   <td>
     <div>125</div>
@@ -1612,7 +1612,7 @@ SCHEDULE A
 <tr>
   <td>
     <div>Denmark
-      *...................................</div>
+      *....................................</div>
   </td>
   <td>
     <div>
@@ -1630,7 +1630,7 @@ SCHEDULE A
 </tr>
 <tr>
   <td>
-    <div>Dominican Republic .................</div>
+    <div>Dominican Republic ..................</div>
   </td>
   <td>
     <div>5</div>
@@ -1647,7 +1647,7 @@ SCHEDULE A
 </tr>
 <tr>
   <td>
-    <div>Equador ......................................</div>
+    <div>Equador .......................................</div>
   </td>
   <td>
     <div>5</div>
@@ -1656,7 +1656,7 @@ SCHEDULE A
     <div></div>
   </td>
   <td>
-    <div>Poland .........................................</div>
+    <div>Poland ..........................................</div>
   </td>
   <td colspan="2">
     <div>125</div>
@@ -1673,7 +1673,7 @@ SCHEDULE A
     <div></div>
   </td>
   <td>
-    <div>Union of South Africa ..............</div>
+    <div>Union of South Africa ...............</div>
   </td>
   <td colspan="2">
     <div>100</div>
@@ -1681,7 +1681,7 @@ SCHEDULE A
 </tr>
 <tr>
   <td>
-    <div>El Salvador .................................</div>
+    <div>El Salvador ..................................</div>
   </td>
   <td>
     <div>2.5</div>
@@ -1720,7 +1720,7 @@ Republic.....................................</div>
     <div></div>
   </td>
   <td>
-    <div>United Kingdom.........................</div>
+    <div>United Kingdom..........................</div>
   </td>
   <td colspan="2">
     <div>1300</div>
@@ -1745,7 +1745,7 @@ Republic.....................................</div>
 </tr>
 <tr>
   <td>
-    <div>Guatemala ..................................</div>
+    <div>Guatemala ....................................</div>
   </td>
   <td>
     <div>5</div>
@@ -1762,7 +1762,7 @@ Republic.....................................</div>
 </tr>
 <tr>
   <td>
-    <div>Haiti .............................................</div>
+    <div>Haiti ..............................................</div>
   </td>
   <td>
     <div>5</div>
@@ -1771,7 +1771,7 @@ Republic.....................................</div>
     <div></div>
   </td>
   <td>
-    <div>Venezuela ...................................</div>
+    <div>Venezuela ....................................</div>
   </td>
   <td colspan="2">
     <div>15</div>
@@ -1796,7 +1796,7 @@ Republic.....................................</div>
 </tr>
 <tr>
   <td>
-    <div>Iceland ........................................</div>
+    <div>Iceland .........................................</div>
   </td>
   <td>
     <div>1</div>
@@ -1813,7 +1813,7 @@ Republic.....................................</div>
 </tr>
 <tr>
   <td>
-    <div>India ............................................</div>
+    <div>India .............................................</div>
   </td>
   <td>
     <div>400</div>
@@ -1843,11 +1843,11 @@ TRANSITIONAL PROVISIONS WITH RESPECT TO REPURCHASE, PAYMENT OF ADDITIONAL SUBSCR
 
        1.  Repurchase obligations that have accrued pursuant to Article V, Section 7 (_b_) before the date of the second amendment of this Agreement and that remain undischarged at that date shall be discharged not later than the date or dates at which the obligations had to be discharged in accordance with the provisions of this Agreement before the second amendment.
 
-       2.  A member shall discharge with special drawing rights any obligation to pay gold to the Fund in repurchase or as a subscription that is outstanding at the date of the second amendment of this Agreement, but the Fund may prescribe that these payments may be made in whole or in part in the currencies of other members specified by the Fund. A non‑participant shall discharge an obligation that must be paid in special drawing rights pursuant to this provision with the currencies of other members specified by the Fund.
+       2.  A member shall discharge with special drawing rights any obligation to pay gold to the Fund in repurchase or as a subscription that is outstanding at the date of the second amendment of this Agreement, but the Fund may prescribe that these payments may be made in whole or in part in the currencies of other members specified by the Fund. A non-participant shall discharge an obligation that must be paid in special drawing rights pursuant to this provision with the currencies of other members specified by the Fund.
 
        3.  For the purposes of 2 above 0.888 671 gram of fine gold shall be equivalent to one special drawing right, and the amount of currency payable under 2 above shall be determined on that basis and on the basis of the value of the currency in terms of the special drawing right at the date of discharge.
 
-       4.  A member’s currency held by the Fund in excess of seventy‑five percent of the member’s quota at the date of the second amendment of this Agreement and not subject to repurchase under 1 above shall be repurchased in accordance with the following rules:
+       4.  A member’s currency held by the Fund in excess of seventy-five percent of the member’s quota at the date of the second amendment of this Agreement and not subject to repurchase under 1 above shall be repurchased in accordance with the following rules:
 
            (i)  Holdings that resulted from a purchase shall be repurchased in accordance with the policy on the use of the Fund’s general resources under which the purchase was made.
 
@@ -1877,13 +1877,13 @@ PAR VALUES
 
        4.  The Fund shall concur in or object to a proposed par value within a reasonable period after receipt of the proposal. A proposed par value shall not take effect for the purposes of this Agreement if the Fund objects to it, and the member shall be subject to 3 above. The Fund shall not object because of the domestic social or political policies of the member proposing the par value.
 
-       5.  Each member that has a par value for its currency undertakes to apply appropriate measures consistent with this Agreement in order to ensure that the maximum and the minimum rates for spot exchange transactions taking place within its territories between its currency and the currencies of other members maintaining par values shall not differ from parity by more than four and one‑half percent or by such other margin or margins as the Fund may adopt by an eighty‑five percent majority of the total voting power.
+       5.  Each member that has a par value for its currency undertakes to apply appropriate measures consistent with this Agreement in order to ensure that the maximum and the minimum rates for spot exchange transactions taking place within its territories between its currency and the currencies of other members maintaining par values shall not differ from parity by more than four and one-half percent or by such other margin or margins as the Fund may adopt by an eighty-five percent majority of the total voting power.
 
        6.  A member shall not propose a change in the par value of its currency except to correct, or prevent the emergence of, a fundamental disequilibrium. A change may be made only on the proposal of the member and only after consultation with the Fund.
 
        7.  When a change is proposed, the Fund shall concur in or object to the proposed par value within a reasonable period after receipt of the proposal. The Fund shall concur if it is satisfied that the change is necessary to correct, or prevent the emergence of, a fundamental disequilibrium. The Fund shall not object because of the domestic social or political policies of the member proposing the change. A proposed change in par value shall not take effect for the purposes of this Agreement if the Fund objects to it. If a member changes the par value of its currency despite the objection of the Fund, the member shall be subject to Article XXVI, Section 2\. Maintenance of an unrealistic par value by a member shall be discouraged by the Fund.
 
-       8.  The par value of a member’s currency established under this Agreement shall cease to exist for the purposes of this Agreement if the member informs the Fund that it intends to terminate the par value. The Fund may object to the termination of a par value by a decision taken by an eighty‑five percent majority of the total voting power. If a member terminates a par value for its currency despite the objection of the Fund, the member shall be subject to Article XXVI, Section 2\. A par value established under this Agreement shall cease to exist for the purposes of this Agreement if the member terminates the par value despite the objection of the Fund, or if the Fund finds that the member does not maintain rates for a substantial volume of exchange transactions in accordance with 5 above, provided that the Fund may not make such finding unless it has consulted the member and given it sixty days notice of the Fund’s intention to consider whether to make a finding.
+       8.  The par value of a member’s currency established under this Agreement shall cease to exist for the purposes of this Agreement if the member informs the Fund that it intends to terminate the par value. The Fund may object to the termination of a par value by a decision taken by an eighty-five percent majority of the total voting power. If a member terminates a par value for its currency despite the objection of the Fund, the member shall be subject to Article XXVI, Section 2\. A par value established under this Agreement shall cease to exist for the purposes of this Agreement if the member terminates the par value despite the objection of the Fund, or if the Fund finds that the member does not maintain rates for a substantial volume of exchange transactions in accordance with 5 above, provided that the Fund may not make such finding unless it has consulted the member and given it sixty days notice of the Fund’s intention to consider whether to make a finding.
 
        9.  If the par value of the currency of a member has ceased to exist under 8 above, the member shall consult with the Fund and ensure that its exchange arrangements are consistent with the purposes of the Fund and are adequate to fulfill its obligations under Article IV, Section 1.
 
@@ -1895,7 +1895,7 @@ SCHEDULE D
 
 COUNCIL
 
-       1.  (_a_)   Each member that appoints an Executive Director and each group of members that has the number of votes allotted to them cast by an elected Executive Director shall appoint to the Council one Councillor, who shall be a Governor, Minister in the Government of a member, or person of comparable rank, and may appoint not more than seven Associates. The Board of Governors may change, by an eighty‑five percent majority of the total voting power, the number of Associates who may be appointed. A Councillor or Associate shall serve until a new appointment is made or until the next regular election of Executive Directors, whichever shall occur sooner.
+       1.  (_a_)   Each member that appoints an Executive Director and each group of members that has the number of votes allotted to them cast by an elected Executive Director shall appoint to the Council one Councillor, who shall be a Governor, Minister in the Government of a member, or person of comparable rank, and may appoint not more than seven Associates. The Board of Governors may change, by an eighty-five percent majority of the total voting power, the number of Associates who may be appointed. A Councillor or Associate shall serve until a new appointment is made or until the next regular election of Executive Directors, whichever shall occur sooner.
 
             (_b_)   Executive Directors, or in their absence their Alternates, and Associates shall be entitled to attend meetings of the Council, unless the Council decides to hold a restricted session. Each member and each group of members that appoints a Councillor shall appoint an Alternate who shall be entitled to attend a meeting of the Council when the Councillor is not present, and shall have full power to act for the Councillor.
 
@@ -1961,11 +1961,11 @@ RECONSTITUTION
 
        1.  During the first basic period the rules for reconstitution shall be as follows:
 
-          (_a_)    (i)   A participant shall so use and reconstitute its holdings of special drawing rights that, five years after the first allocation and at the end of each calendar quarter thereafter, the average of its total daily holdings of special drawing rights over the most recent five‑year period will be not less than thirty percent of the average of its daily net cumulative allocation of special drawing rights over the same period.
+          (_a_)    (i)   A participant shall so use and reconstitute its holdings of special drawing rights that, five years after the first allocation and at the end of each calendar quarter thereafter, the average of its total daily holdings of special drawing rights over the most recent five-year period will be not less than thirty percent of the average of its daily net cumulative allocation of special drawing rights over the same period.
 
                  (ii)   Two years after the first allocation and at the end of each calendar month thereafter the Fund shall make calculations for each participant so as to ascertain whether and to what extent the participant would need to acquire special drawing rights between the date of the calculation and the end of any five year period in order to comply with the requirement in (_a_) (i) above. The Fund shall adopt regulations with respect to the bases on which these calculations shall be made and with respect to the timing of the designation of participants under Article XIX, Section 5 (_a_) (ii), in order to assist them to comply with the requirements in (_a_) (i) above.
 
-                (iii)   The Fund shall give special notice to a participant when the calculations under (_a_) (ii) above indicate that it is unlikely that the participant will be able to comply with the requirement in (_a_) (i) above unless it ceases to use special drawing rights for the rest of the period for which the calculation was made under (_a_) (ii) above.
+                 (iii)   The Fund shall give special notice to a participant when the calculations under (_a_) (ii) above indicate that it is unlikely that the participant will be able to comply with the requirement in (_a_) (i) above unless it ceases to use special drawing rights for the rest of the period for which the calculation was made under (_a_) (ii) above.
 
                 (iv)   A participant that needs to acquire special drawing rights to fulfill this obligation shall be obligated and entitled to obtain them, for currency acceptable to the Fund, in a transaction with the Fund conducted through the General Resources Account. If sufficient special drawing rights to fulfill this obligation cannot be obtained in this way, the participant shall be obligated and entitled to obtain them with a freely usable currency from a participant which the Fund shall specify.
 
@@ -1977,9 +1977,9 @@ SCHEDULE H
 
 TERMINATION OF PARTICIPATION
 
-       1.  If the obligation remaining after the setoff under Article XXIV, Section 2 (_b_) is to the terminating participant and agreement on settlement between the Fund and the terminating participant is not reached within six months of the date of termination, the Fund shall redeem this balance of special drawing rights in equal half‑yearly installments within a maximum of five years of the date of termination. The Fund shall redeem this balance as it may determine, either (_a_) by the payment to the terminating participant of the amounts provided by the remaining participants to the Fund in accordance with Article XXIV, Section 5, or (_b_) by permitting the terminating participant to use its special drawing rights to obtain its own currency or a freely usable currency from a participant specified by the Fund, the General Resources Account, or any other holder.
+       1.  If the obligation remaining after the setoff under Article XXIV, Section 2 (_b_) is to the terminating participant and agreement on settlement between the Fund and the terminating participant is not reached within six months of the date of termination, the Fund shall redeem this balance of special drawing rights in equal half-yearly installments within a maximum of five years of the date of termination. The Fund shall redeem this balance as it may determine, either (_a_) by the payment to the terminating participant of the amounts provided by the remaining participants to the Fund in accordance with Article XXIV, Section 5, or (_b_) by permitting the terminating participant to use its special drawing rights to obtain its own currency or a freely usable currency from a participant specified by the Fund, the General Resources Account, or any other holder.
 
-       2.  If the obligation remaining after the setoff under Article XXIV, Section 2 (_b_) is to the Fund and agreement on settlement is not reached within six months of the date of termination, the terminating participant shall discharge this obligation in equal half‑yearly installments within three years of the date of termination or within such longer period as may be fixed by the Fund. The terminating participant shall discharge this obligation, as the Fund may determine, either (_a_) by the payment to the Fund of a freely usable currency, or (_b_) by obtaining special drawing rights, in accordance with Article XXIV, Section 6, from the General Resources Account or in agreement with a participant specified by the Fund or from any other holder, and the setoff of these special drawing rights against the installment due.
+       2.  If the obligation remaining after the setoff under Article XXIV, Section 2 (_b_) is to the Fund and agreement on settlement is not reached within six months of the date of termination, the terminating participant shall discharge this obligation in equal half-yearly installments within three years of the date of termination or within such longer period as may be fixed by the Fund. The terminating participant shall discharge this obligation, as the Fund may determine, either (_a_) by the payment to the Fund of a freely usable currency, or (_b_) by obtaining special drawing rights, in accordance with Article XXIV, Section 6, from the General Resources Account or in agreement with a participant specified by the Fund or from any other holder, and the setoff of these special drawing rights against the installment due.
 
        3.  Installments under either 1 or 2 above shall fall due six months after the date of termination and at intervals of six months thereafter.
 
@@ -1989,7 +1989,7 @@ SCHEDULE I
 
 ADMINISTRATION OF LIQUIDATION OF THE SPECIAL DRAWING RIGHTS DEPARTMENT
 
-       1.  In the event of liquidation of the Special Drawing Rights Department, participants shall discharge their obligations to the Fund in ten half‑yearly installments, or in such longer period as the Fund may decide is needed, in a freely usable currency and the currencies of participants holding special drawing rights to be redeemed in any installment to the extent of such redemption, as determined by the Fund. The first half‑yearly payment shall be made six months after the decision to liquidate the Special Drawing Rights Department.
+       1.  In the event of liquidation of the Special Drawing Rights Department, participants shall discharge their obligations to the Fund in ten half-yearly installments, or in such longer period as the Fund may decide is needed, in a freely usable currency and the currencies of participants holding special drawing rights to be redeemed in any installment to the extent of such redemption, as determined by the Fund. The first half-yearly payment shall be made six months after the decision to liquidate the Special Drawing Rights Department.
 
        2.  If it is decided to liquidate the Fund within six months of the date of the decision to liquidate the Special Drawing Rights Department, the liquidation of the Special Drawing Rights Department shall not proceed until special drawing rights held in the General Resources Account have been distributed in accordance with the following rule.
 
@@ -2019,11 +2019,11 @@ SETTLEMENT OF ACCOUNTS WITH MEMBERS WITHDRAWING
 
        1.  The settlement of accounts with respect to the General Resources Account shall be made according to 1 to 6 of this Schedule. The Fund shall be obligated to pay to a member withdrawing an amount equal to its quota, plus any other amounts due to it from the Fund, less any amounts due to the Fund, including charges accruing after the date of its withdrawal; but no payment shall be made until six months after the date of withdrawal. Payments shall be made in the currency of the withdrawing member, and for this purpose the Fund may transfer to the General Resources Account holdings of the member’s currency in the Special Disbursement Account or in the Investment Account in exchange for an equivalent amount of the currencies of other members in the General Resources Account selected by the Fund with their concurrence.
 
-       2.  If the Fund’s holdings of the currency of the withdrawing member are not sufficient to pay the net amount due from the Fund, the balance shall be paid in a freely usable currency, or in such other manner as may be agreed. If the Fund and the withdrawing member do not reach agreement within six months of the date of withdrawal, the currency in question held by the Fund shall be paid forthwith to the withdrawing member. Any balance due shall be paid in ten half‑yearly installments during the ensuing five years. Each such installment shall be paid, at the option of the Fund, either in the currency of the withdrawing member acquired after its withdrawal or in a freely usable currency.
+       2.  If the Fund’s holdings of the currency of the withdrawing member are not sufficient to pay the net amount due from the Fund, the balance shall be paid in a freely usable currency, or in such other manner as may be agreed. If the Fund and the withdrawing member do not reach agreement within six months of the date of withdrawal, the currency in question held by the Fund shall be paid forthwith to the withdrawing member. Any balance due shall be paid in ten half-yearly installments during the ensuing five years. Each such installment shall be paid, at the option of the Fund, either in the currency of the withdrawing member acquired after its withdrawal or in a freely usable currency.
 
        3.  If the Fund fails to meet any installment which is due in accordance with the preceding paragraphs, the withdrawing member shall be entitled to require the Fund to pay the installment in any currency held by the Fund with the exception of any currency which has been declared scarce under Article VII, Section 3.
 
-       4.  If the Fund’s holdings of the currency of a withdrawing member exceed the amount due to it, and if agreement on the method of settling accounts is not reached within six months of the date of withdrawal, the former member shall be obligated to redeem such excess currency in a freely usable currency. Redemption shall be made at the rates at which the Fund would sell such currencies at the time of withdrawal from the Fund. The withdrawing member shall complete redemption within five years of the date of withdrawal, or within such longer period as may be fixed by the Fund, but shall not be required to redeem in any half‑yearly period more than one‑tenth of the Fund’s excess holdings of its currency at the date of withdrawal plus further acquisitions of the currency during such half‑yearly period. If the withdrawing member does not fulfill this obligation, the Fund may in an orderly manner liquidate in any market the amount of currency which should have been redeemed.
+       4.  If the Fund’s holdings of the currency of a withdrawing member exceed the amount due to it, and if agreement on the method of settling accounts is not reached within six months of the date of withdrawal, the former member shall be obligated to redeem such excess currency in a freely usable currency. Redemption shall be made at the rates at which the Fund would sell such currencies at the time of withdrawal from the Fund. The withdrawing member shall complete redemption within five years of the date of withdrawal, or within such longer period as may be fixed by the Fund, but shall not be required to redeem in any half-yearly period more than one-tenth of the Fund’s excess holdings of its currency at the date of withdrawal plus further acquisitions of the currency during such half-yearly period. If the withdrawing member does not fulfill this obligation, the Fund may in an orderly manner liquidate in any market the amount of currency which should have been redeemed.
 
        5.  Any member desiring to obtain the currency of a member which has withdrawn shall acquire it by purchase from the Fund, to the extent that such member has access to the general resources of the Fund and that such currency is available under 4 above.
 
@@ -2051,29 +2051,29 @@ ADMINISTRATION OF LIQUIDATION
 
        2.  After the discharge of the Fund’s liabilities in accordance with 1 above, the balance of the Fund’s assets shall be distributed and apportioned as follows:
 
-       (_a_) (i)   The Fund shall calculate the value of gold held on August 31, 1975 that it continues to hold on the date of the decision to liquidate. The calculation shall be made in accordance with 9 below and also on the basis of one special drawing right per 0.888 671 gram of fine gold on the date of liquidation. Gold equivalent to the excess of the former value over the latter shall be distributed to those members that were members on August 31, 1975 in proportion to their quotas on that date.
+       (_a_)  (i)   The Fund shall calculate the value of gold held on August 31, 1975 that it continues to hold on the date of the decision to liquidate. The calculation shall be made in accordance with 9 below and also on the basis of one special drawing right per 0.888 671 gram of fine gold on the date of liquidation. Gold equivalent to the excess of the former value over the latter shall be distributed to those members that were members on August 31, 1975 in proportion to their quotas on that date.
 
-            (ii)   The Fund shall distribute any assets held in the Special Disbursement Account on the date of the decision to liquidate to those members that were members on August 31, 1975 in proportion to their quotas on that date. Each type of asset shall be distributed proportionately to members.
+             (ii)   The Fund shall distribute any assets held in the Special Disbursement Account on the date of the decision to liquidate to those members that were members on August 31, 1975 in proportion to their quotas on that date. Each type of asset shall be distributed proportionately to members.
 
        (_b_)   The Fund shall distribute its remaining holdings of gold among the members whose currencies are held by the Fund in amounts less than their quotas in the proportions, but not in excess of, the amounts by which their quotas exceed the Fund’s holdings of their currencies.
 
-        (_c_)   The Fund shall distribute to each member one‑half the Fund’s holdings of its currency but such distribution shall not exceed fifty percent of its quota.
+        (_c_)   The Fund shall distribute to each member one-half the Fund’s holdings of its currency but such distribution shall not exceed fifty percent of its quota.
 
        (_d_)   The Fund shall apportion the remainder of its holdings of gold and each currency
 
              (i)   among all members in proportion to, but not in excess of, the amounts due to each member after the distributions under (_b_) and (_c_) above, provided that distribution under 2 (_a_) above shall not be taken into account for determining the amounts due, and
 
-            (ii)   any excess holdings of gold and currency among all the members in proportion to their quotas.
+             (ii)   any excess holdings of gold and currency among all the members in proportion to their quotas.
 
        3.  Each member shall redeem the holdings of its currency apportioned to other members under 2 (_d_) above, and shall agree with the Fund within three months after a decision to liquidate upon an orderly procedure for such redemption.
 
-       4.  If a member has not reached agreement with the Fund within the three‑month period referred to in 3 above, the Fund shall use the currencies of other members apportioned to that member under 2 (_d_) above to redeem the currency of that member apportioned to other members. Each currency apportioned to a member which has not reached agreement shall be used, so far as possible, to redeem its currency apportioned to the members which have made agreements with the Fund under 3 above.
+       4.  If a member has not reached agreement with the Fund within the three-month period referred to in 3 above, the Fund shall use the currencies of other members apportioned to that member under 2 (_d_) above to redeem the currency of that member apportioned to other members. Each currency apportioned to a member which has not reached agreement shall be used, so far as possible, to redeem its currency apportioned to the members which have made agreements with the Fund under 3 above.
 
        5.  If a member has reached agreement with the Fund in accordance with 3 above, the Fund shall use the currencies of other members apportioned to that member under 2 (_d_) above to redeem the currency of that member apportioned to other members which have made agreements with the Fund under 3 above. Each amount so redeemed shall be redeemed in the currency of the member to which it was apportioned.
 
        6.  After carrying out the steps in the preceding paragraphs, the Fund shall pay to each member the remaining currencies held for its account.
 
-       7.  Each member whose currency has been distributed to other members under 6 above shall redeem such currency in the currency of the member requesting redemption, or in such other manner as may be agreed between them. If the members involved do not otherwise agree, the member obligated to redeem shall complete redemption within five years of the date of distribution, but shall not be required to redeem in any half‑yearly period more than one‑tenth of the amount distributed to each other member. If the member does not fulfill this obligation, the amount of currency which should have been redeemed may be liquidated in an orderly manner in any market.
+       7.  Each member whose currency has been distributed to other members under 6 above shall redeem such currency in the currency of the member requesting redemption, or in such other manner as may be agreed between them. If the members involved do not otherwise agree, the member obligated to redeem shall complete redemption within five years of the date of distribution, but shall not be required to redeem in any half-yearly period more than one-tenth of the amount distributed to each other member. If the member does not fulfill this obligation, the amount of currency which should have been redeemed may be liquidated in an orderly manner in any market.
 
        8.  Each member whose currency has been distributed to other members under 6 above guarantees the unrestricted use of such currency at all times for the purchase of goods or for payment of sums due to it or to persons in its territories. Each member so obligated agrees to compensate other members for any loss resulting from the difference between the value of its currency in terms of the special drawing right on the date of the decision to liquidate the Fund and the value in terms of the special drawing right realized by such members on disposal of its currency.
 
@@ -2109,9 +2109,9 @@ In the case of a suspension of voting rights of a member under Article XXVI, Sec
 
 SCHEDULE M
 
-Special One‑Time Allocation of Special Drawing Rights
+Special One-Time Allocation of Special Drawing Rights
 
-1.         Subject to 4 below, each member that, as of September 19, 1997, is a participant in the Special Drawing Rights Department shall, on the 30th day following the effective date of the fourth amendment of this Agreement, receive an allocation of special drawing rights in an amount that will result in its net cumulative allocation of special drawing rights being equal to 29.315788813 percent of its quota as of September 19, 1997, provided that, for participants whose quotas have not been adjusted as proposed in Resolution No. 45‑2 of the Board of Governors, calculations shall be made on the basis of the quotas proposed in that resolution.
+1.         Subject to 4 below, each member that, as of September 19, 1997, is a participant in the Special Drawing Rights Department shall, on the 30th day following the effective date of the fourth amendment of this Agreement, receive an allocation of special drawing rights in an amount that will result in its net cumulative allocation of special drawing rights being equal to 29.315788813 percent of its quota as of September 19, 1997, provided that, for participants whose quotas have not been adjusted as proposed in Resolution No. 45-2 of the Board of Governors, calculations shall be made on the basis of the quotas proposed in that resolution.
 
 2.         (a)  Subject to 4 below, each country that becomes a participant in the Special Drawing Rights Department after September 19, 1997 but within three months of the date of its membership in the Fund shall receive an allocation of special drawing rights in an amount calculated in accordance with (b) and (c) below on the 30th day following the later of: (i) the date on which the new member becomes a participant in the Special Drawing Rights Department, or (ii) the effective date of the fourth amendment of this Agreement.
 
@@ -2123,9 +2123,9 @@ Special One‑Time Allocation of Special Drawing Rights
 
             (c)  For the purposes of the adjustments to be made under (b) above, the participants in the Special Drawing Rights Department shall be members that are participants as of September 19, 1997 and (i) continue to be participants in the Special Drawing Rights Department as of the date on which the member became a participant in the Special Drawing Rights Department, and (ii) have received all allocations made by the Fund after September 19, 1997.
 
-3.         (a)  Subject to 4 below, if the Federal Republic of Yugoslavia (Serbia/Montenegro) succeeds to the membership in the Fund and the participation in the Special Drawing Rights Department of the former Socialist Federal Republic of Yugoslavia in accordance with the terms and conditions of Executive Board Decision No. 10237‑(92/150), adopted December 14, 1992, it shall receive an allocation of special drawing rights in an amount calculated in accordance with (b) below in the 30th day following the later of: (i) the date on which the Federal Republic of Yugoslavia (Serbia/Montenegro) succeeds to membership in the Fund and participation in the Special Drawing Rights Department in accordance with the terms and conditions of Executive Board Decision No. 10237‑(92/150), or (ii) the effective date of the fourth amendment of this Agreement.
+3.         (a)  Subject to 4 below, if the Federal Republic of Yugoslavia (Serbia/Montenegro) succeeds to the membership in the Fund and the participation in the Special Drawing Rights Department of the former Socialist Federal Republic of Yugoslavia in accordance with the terms and conditions of Executive Board Decision No. 10237-(92/150), adopted December 14, 1992, it shall receive an allocation of special drawing rights in an amount calculated in accordance with (b) below in the 30th day following the later of: (i) the date on which the Federal Republic of Yugoslavia (Serbia/Montenegro) succeeds to membership in the Fund and participation in the Special Drawing Rights Department in accordance with the terms and conditions of Executive Board Decision No. 10237-(92/150), or (ii) the effective date of the fourth amendment of this Agreement.
 
-            (b)  For the purposes of (a) above, the Federal Republic of Yugoslavia (Serbia/Montenegro) shall receive an amount of special drawing rights that will result in its net cumulative allocation being equal to 29.315788813 percent of the quota proposed to it under paragraph 3(c) of Executive Board Decision No. 10237‑(92/150), as adjusted in accordance with 2(b)(ii) and (c) above as of the date on which the Federal Republic of Yugoslavia (Serbia/Montenegro) qualifies for an allocation under (a) above.
+            (b)  For the purposes of (a) above, the Federal Republic of Yugoslavia (Serbia/Montenegro) shall receive an amount of special drawing rights that will result in its net cumulative allocation being equal to 29.315788813 percent of the quota proposed to it under paragraph 3(c) of Executive Board Decision No. 10237-(92/150), as adjusted in accordance with 2(b)(ii) and (c) above as of the date on which the Federal Republic of Yugoslavia (Serbia/Montenegro) qualifies for an allocation under (a) above.
 
 4.         The Fund shall not allocate special drawing rights under this Schedule to those participants that have notified the Fund in writing prior to the date of the allocation of their desire not to receive the allocation.
 
@@ -2153,15 +2153,15 @@ PURPOSES
 
      The purposes of the Bank are:
 
-        (i)   To assist in the reconstruction and development of territories of members by facilitating the investment of capital for productive purposes, including the restoration of economies destroyed or disrupted by war, the reconversion of productive facilities to peacetime needs and the encouragement of the development of productive facilities and resources in less developed countries.
+         (i)   To assist in the reconstruction and development of territories of members by facilitating the investment of capital for productive purposes, including the restoration of economies destroyed or disrupted by war, the reconversion of productive facilities to peacetime needs and the encouragement of the development of productive facilities and resources in less developed countries.
 
-       (ii)   To promote private foreign investment by means of guarantees or participations in loans and other investments made by private investors; and when private capital is not available on reasonable terms, to supplement private investment by providing, on suitable conditions, finance for productive purposes out of its own capital, funds raised by it and its other resources.
+        (ii)   To promote private foreign investment by means of guarantees or participations in loans and other investments made by private investors; and when private capital is not available on reasonable terms, to supplement private investment by providing, on suitable conditions, finance for productive purposes out of its own capital, funds raised by it and its other resources.
 
-      (iii)   To promote the long‑range balanced growth of international trade and the maintenance of equilibrium in balances of payments by encouraging international investment for the development of the productive resources of members, thereby assisting in raising productivity, the standard of living and conditions of labor in their territories.
+       (iii)   To promote the long-range balanced growth of international trade and the maintenance of equilibrium in balances of payments by encouraging international investment for the development of the productive resources of members, thereby assisting in raising productivity, the standard of living and conditions of labor in their territories.
 
-      (iv)   To arrange the loans made or guaranteed by it in relation to international loans through other channels so that the more useful and urgent projects, large and small alike, will be dealt with first.
+       (iv)   To arrange the loans made or guaranteed by it in relation to international loans through other channels so that the more useful and urgent projects, large and small alike, will be dealt with first.
 
-       (v)   To conduct its operations with due regard to the effect of international investment on business conditions in the territories of members and, in the immediate post‑war years, to assist in bringing about a smooth transition from a wartime to a peacetime economy.
+        (v)   To conduct its operations with due regard to the effect of international investment on business conditions in the territories of members and, in the immediate post-war years, to assist in bringing about a smooth transition from a wartime to a peacetime economy.
 
      The Bank shall be guided in all its decisions by the purposes set forth above.
 
@@ -2177,9 +2177,9 @@ Section 1.  _Membership_
 
 Section 2.  _Authorized capital_
 
-     (_a_)  The authorized capital stock of the Bank shall be $10,000,000,000, in terms of United States dollars of the weight and fineness in effect on July 1, 1944\. The capital stock shall be divided into 100,000 shares having a par value of $100,000 each, which shall be available for subscription only by members.
+     (_a_)  The authorized capital stock of the Bank shall be $10,000,000,000, in terms of United   States dollars of the weight and fineness in effect on July 1, 1944\. The capital stock shall be divided into 100,000 shares having a par value of $100,000 each, which shall be available for subscription only by members.
 
-     (_b_)  The capital stock may be increased when the Bank deems it advisable by a three‑fourths majority of the total voting power.
+     (_b_)  The capital stock may be increased when the Bank deems it advisable by a three-fourths majority of the total voting power.
 
 Section 3.  _Subscription of shares_
 
@@ -2197,9 +2197,9 @@ Section 5.  _Division and calls of subscribed capital_
 
      The subscription of each member shall be divided into two parts as follows:
 
-        (i)   twenty percent shall be paid or subject to call under Section 7 (i) of this Article as needed by the Bank for its operations;
+         (i)   twenty percent shall be paid or subject to call under Section 7 (i) of this Article as needed by the Bank for its operations;
 
-       (ii)   the remaining eighty percent shall be subject to call by the Bank only when required to meet obligations of the Bank created under Article IV, Sections 1 (_a_) (ii) and (iii).
+        (ii)   the remaining eighty percent shall be subject to call by the Bank only when required to meet obligations of the Bank created under Article IV, Sections 1 (_a_) (ii) and (iii).
 
 Calls on unpaid subscriptions shall be uniform on all shares
 
@@ -2211,25 +2211,25 @@ Section 7.  _Method of payment of subscriptions for shares_
 
      Payment of subscriptions for shares shall be made in gold or United States dollars and in the currencies of the members as follows:
 
-        (i)   under Section 5 (i) of this Article, two percent of the price of each share shall be payable in gold or United States dollars, and, when calls are made, the remaining eighteen percent shall be paid in the currency of the member;
+         (i)   under Section 5 (i) of this Article, two percent of the price of each share shall be payable in gold or United States dollars, and, when calls are made, the remaining eighteen percent shall be paid in the currency of the member;
 
-       (ii)   when a call is made under Section 5 (ii) of this Article, payment may be made at the option of the member either in gold, in United States dollars or in the currency required to discharge the obligations of the Bank for the purpose for which the call is made;
+        (ii)   when a call is made under Section 5 (ii) of this Article, payment may be made at the option of the member either in gold, in United States dollars or in the currency required to discharge the obligations of the Bank for the purpose for which the call is made;
 
-      (iii)   when a member makes payments in any currency under (i) and (ii) above, such payments shall be made in amounts equal in value to the member’s liability under the call. This liability shall be a proportionate part of the subscribed capital stock of the Bank as authorized and defined in Section 2 of this Article.
+       (iii)   when a member makes payments in any currency under (i) and (ii) above, such payments shall be made in amounts equal in value to the member’s liability under the call. This liability shall be a proportionate part of the subscribed capital stock of the Bank as authorized and defined in Section 2 of this Article.
 
 Section 8.  _Time of payment of subscriptions_
 
      (_a_)  The two percent payable on each share in gold or United States dollars under Section 7 (i) of this Article, shall be paid within sixty days of the date on which the Bank begins operations, provided that
 
-        (i)   any original member of the Bank whose metropolitan territory has suffered from enemy occupation or hostilities during the present war shall be granted the right to postpone payment of one‑half percent until five years after that date;
+         (i)   any original member of the Bank whose metropolitan territory has suffered from enemy occupation or hostilities during the present war shall be granted the right to postpone payment of one-half percent until five years after that date;
 
-       (ii)   an original member who cannot make such a payment because it has not recovered possession of its gold reserves which are still seized or immobilized as a result of the war may postpone all payment until such date as the Bank shall decide.
+        (ii)   an original member who cannot make such a payment because it has not recovered possession of its gold reserves which are still seized or immobilized as a result of the war may postpone all payment until such date as the Bank shall decide.
 
      (_b_)  The remainder of the price of each share payable under Section 7 (i) of this Article shall be paid as and when called by the Bank, provided that:
 
-        (i)   the Bank shall, within one year of its beginning operations, call not less than eight percent of the price of the share in addition to the payment of two percent referred to in (_a_) above;
+         (i)   the Bank shall, within one year of its beginning operations, call not less than eight percent of the price of the share in addition to the payment of two percent referred to in (_a_) above;
 
-       (ii)   not more than five percent of the price of the share shall be called in any period of three months.
+        (ii)   not more than five percent of the price of the share shall be called in any period of three months.
 
 Section 9.  _Maintenance of value of certain currency holdings of the Bank_
 
@@ -2263,27 +2263,27 @@ Section 3.  _Limitations on guarantees and borrowings of the Bank_
 
 Section 4.  _Conditions on which the Bank may guarantee or make loans_
 
-     The Bank may guarantee, participate in, or make loans to any member or any political sub‑division thereof and any business, industrial, and agricultural enterprise in the territories of a member, subject to the following conditions:
+     The Bank may guarantee, participate in, or make loans to any member or any political sub-division thereof and any business, industrial, and agricultural enterprise in the territories of a member, subject to the following conditions:
 
-        (i)   When the member in whose territories the project is located is not itself the borrower, the member or the central bank or some comparable agency of the member which is acceptable to the Bank, fully guarantees the repayment of the principal and the payment of interest and other charges on the loan.
+         (i)   When the member in whose territories the project is located is not itself the borrower, the member or the central bank or some comparable agency of the member which is acceptable to the Bank, fully guarantees the repayment of the principal and the payment of interest and other charges on the loan.
 
-       (ii)   The Bank is satisfied that in the prevailing market conditions the borrower would be unable otherwise to obtain the loan under conditions which in the opinion of the Bank are reasonable for the borrower.
+        (ii)   The Bank is satisfied that in the prevailing market conditions the borrower would be unable otherwise to obtain the loan under conditions which in the opinion of the Bank are reasonable for the borrower.
 
-      (iii)   A competent committee, as provided for in Article V, Section 7, has submitted a written report recommending the project after a careful study of the merits of the proposal.
+       (iii)   A competent committee, as provided for in Article V, Section 7, has submitted a written report recommending the project after a careful study of the merits of the proposal.
 
-      (iv)   In the opinion of the Bank the rate of interest and other charges are reasonable and such rate, charges and the schedule for repayment of principal are appropriate to the project.
+       (iv)   In the opinion of the Bank the rate of interest and other charges are reasonable and such rate, charges and the schedule for repayment of principal are appropriate to the project.
 
-       (v)   In making or guaranteeing a loan, the Bank shall pay due regard to the prospects that the borrower, and, if the borrower is not a member, that the guarantor, will be in position to meet its obligations under the loan; and the Bank shall act prudently in the interests both of the particular member in whose territories the project is located and of the members as a whole.
+        (v)   In making or guaranteeing a loan, the Bank shall pay due regard to the prospects that the borrower, and, if the borrower is not a member, that the guarantor, will be in position to meet its obligations under the loan; and the Bank shall act prudently in the interests both of the particular member in whose territories the project is located and of the members as a whole.
 
-      (vi)   In guaranteeing a loan made by other investors, the Bank receives suitable compensation for its risk.
+       (vi)   In guaranteeing a loan made by other investors, the Bank receives suitable compensation for its risk.
 
-     (vii)   Loans made or guaranteed by the Bank shall, except in special circumstances, be for the purpose of specific projects of reconstruction or development.
+      (vii)   Loans made or guaranteed by the Bank shall, except in special circumstances, be for the purpose of specific projects of reconstruction or development.
 
 Section 5.  _Use of loans guaranteed, participated in or made by the Bank_
 
      (_a_)  The Bank shall impose no conditions that the proceeds of a loan shall be spent in the territories of any particular member or members.
 
-     (_b_)  The Bank shall make arrangements to ensure that the proceeds of any loan are used only for the purposes for which the loan was granted, with due attention to considerations of economy and efficiency and without regard to political or other non‑economic influences or considerations.
+     (_b_)  The Bank shall make arrangements to ensure that the proceeds of any loan are used only for the purposes for which the loan was granted, with due attention to considerations of economy and efficiency and without regard to political or other non-economic influences or considerations.
 
      (_c_)  In the case of loans made by the Bank, it shall open an account in the name of the borrower and the amount of the loan shall be credited to this account in the currency or currencies in which the loan is made. The borrower shall be permitted by the Bank to draw on this account only to meet expenses in connexion with the project as they are actually incurred.
 
@@ -2295,11 +2295,11 @@ Section 1.  _Methods of making or facilitating loans_
 
      (_a_)  The Bank may make or facilitate loans which satisfy the general conditions of Article III in any of the following ways:
 
-        (i)   By making or participating in direct loans out of its own funds corresponding to its unimpaired paid‑up capital and surplus and, subject to Section 6 of this Article, to its reserves.
+         (i)   By making or participating in direct loans out of its own funds corresponding to its unimpaired paid-up capital and surplus and, subject to Section 6 of this Article, to its reserves.
 
-       (ii)   By making or participating in direct loans out of funds raised in the market of a member, or otherwise borrowed by the Bank.
+        (ii)   By making or participating in direct loans out of funds raised in the market of a member, or otherwise borrowed by the Bank.
 
-      (iii)   By guaranteeing in whole or in part loans made by private investors through the usual investment channels.
+       (iii)   By guaranteeing in whole or in part loans made by private investors through the usual investment channels.
 
      (_b_)  The Bank may borrow funds under (_a_) (ii) above or guarantee loans under (_a_) (iii) above only with the approval of the member in whose markets the funds are raised and the member in whose currency the loan is denominated, and only if those members agree that the proceeds may be exchanged for the currency of any other member without restriction.
 
@@ -2333,23 +2333,23 @@ Section 4.  _Payment provisions for direct loans_
 
      (_a_)  The terms and conditions of interest and amortization payments, maturity and dates of payment of each loan shall be determined by the Bank. The Bank shall also determine the rate and any other terms and conditions of commission to be charged in connexion with such loan.
 
-     In the case of loans made under Section 1 (_a_) (ii) of this Article during the first ten years of the Bank’s operations, this rate of commission shall be not less than one percent per annum and not greater than one and one‑half percent per annum, and shall be charged son the outstanding portion of any such loan. At the end of this period of ten years, the rate of commission may be reduced by the Bank with respect both to the outstanding portions of loans already made and to future loans, if the reserves accumulated by the Bank under Section 6 of this Article and out of other earnings are considered by it sufficient to justify a reduction. In the case of future loans the Bank shall also have discretion to increase the rate of commission beyond the above limit, if experience indicates that an increase is advisable.
+     In the case of loans made under Section 1 (_a_) (ii) of this Article during the first ten years of the Bank’s operations, this rate of commission shall be not less than one percent per annum and not greater than one and one-half percent per annum, and shall be charged son the outstanding portion of any such loan. At the end of this period of ten years, the rate of commission may be reduced by the Bank with respect both to the outstanding portions of loans already made and to future loans, if the reserves accumulated by the Bank under Section 6 of this Article and out of other earnings are considered by it sufficient to justify a reduction. In the case of future loans the Bank shall also have discretion to increase the rate of commission beyond the above limit, if experience indicates that an increase is advisable.
 
      (_b_)  All loan contracts shall stipulate the currency or currencies in which payments under the contract shall be made to the Bank. At the option of the borrower, however, such payments may be made in gold, or subject to the agreement of the Bank, in the currency of a member other than that prescribed in the contract.
 
-        (i)   In the case of loans made under Section 1 (_a_) (i) of this Article, the loan contracts shall provide that payments to the Bank of interest, other charges and amortization shall be made in the currency loaned, unless the member whose currency is loaned agrees that such payments shall be made in some other specified currency or currencies. These payments, subject to the provisions of Article II, Section 9 (_c_), shall be equivalent to the value of such contractual payments at the time the loans were made, in terms of a currency specified for the purpose by the Bank by a three‑fourths majority of the total voting power.
+         (i)   In the case of loans made under Section 1 (_a_) (i) of this Article, the loan contracts shall provide that payments to the Bank of interest, other charges and amortization shall be made in the currency loaned, unless the member whose currency is loaned agrees that such payments shall be made in some other specified currency or currencies. These payments, subject to the provisions of Article II, Section 9 (_c_), shall be equivalent to the value of such contractual payments at the time the loans were made, in terms of a currency specified for the purpose by the Bank by a three-fourths majority of the total voting power.
 
-       (ii)   In the case of loans made under Section 1 (_a_) (ii) of this Article, the total amount outstanding and payable to the Bank in any one currency shall at no time exceed the total amount of the outstanding borrowings made by the Bank under Section 1 (_a_) (ii) and payable in the same currency.
+        (ii)   In the case of loans made under Section 1 (_a_) (ii) of this Article, the total amount outstanding and payable to the Bank in any one currency shall at no time exceed the total amount of the outstanding borrowings made by the Bank under Section 1 (_a_) (ii) and payable in the same currency.
 
             (_c_)        If a member suffers from an acute exchange stringency, so that the service of any loan contracted by that member or guaranteed by it or by one of its agencies cannot be provided in the stipulated manner, the member concerned may apply to the Bank for a relaxation of the conditions of payment. If the Bank is satisfied that some relaxation is in the interests of the particular member and of the operations of the Bank and of its members as a whole, it may take action under either, or both, of the following paragraphs with respect to the whole, or part, of the annual service:
 
-        (i)   The Bank may, in its discretion, make arrangements with the member concerned to accept service payments on the loan in the member’s currency for periods not to exceed three years upon appropriate terms regarding the use of such currency and the maintenance of its foreign exchange value; and for the repurchase of such currency on appropriate terms.
+         (i)   The Bank may, in its discretion, make arrangements with the member concerned to accept service payments on the loan in the member’s currency for periods not to exceed three years upon appropriate terms regarding the use of such currency and the maintenance of its foreign exchange value; and for the repurchase of such currency on appropriate terms.
 
-       (ii)   The Bank may modify the terms of amortization or extend the life of the loan, or both.
+        (ii)   The Bank may modify the terms of amortization or extend the life of the loan, or both.
 
 Section 5.  _Guarantees_
 
-     (_a_)  In guaranteeing a loan placed through the usual investment channels, the Bank shall charge a guarantee commission payable periodically on the amount of the loan outstanding at a rate determined by the Bank. During the first ten years of the Bank’s operations, this rate shall be not less than one percent per annum and not greater than one and one‑half percent per annum. At the end of this period of ten years, the rate of commission may be reduced by the Bank with respect both to the outstanding portions of loans already guaranteed and to future loans if the reserves accumulated by the Bank under Section 6 of this Article and out of other earnings are considered by it sufficient to justify a reduction. In the case of future loans the Bank shall also have discretion to increase the rate of commission beyond the above limit, if experience indicates that an increase is advisable.
+     (_a_)  In guaranteeing a loan placed through the usual investment channels, the Bank shall charge a guarantee commission payable periodically on the amount of the loan outstanding at a rate determined by the Bank. During the first ten years of the Bank’s operations, this rate shall be not less than one percent per annum and not greater than one and one-half percent per annum. At the end of this period of ten years, the rate of commission may be reduced by the Bank with respect both to the outstanding portions of loans already guaranteed and to future loans if the reserves accumulated by the Bank under Section 6 of this Article and out of other earnings are considered by it sufficient to justify a reduction. In the case of future loans the Bank shall also have discretion to increase the rate of commission beyond the above limit, if experience indicates that an increase is advisable.
 
      (_b_)  Guarantee commissions shall be paid directly to the Bank by the borrower.
 
@@ -2369,27 +2369,27 @@ Section 7.  _Methods of meeting liabilities of the Bank in case of defaults_
 
      (_b_)  The payments in discharge of the Bank’s liabilities on borrowings or guarantees under Sections 1 (_a_) (ii) and (iii) of this Article shall be charged:
 
-        (i)   first, against the special reserve provided in Section 6 of this Article.
+         (i)   first, against the special reserve provided in Section 6 of this Article.
 
-       (ii)   then, to the extent necessary and at the discretion of the Bank, against the other reserves, surplus and capital available to the Bank.
+        (ii)   then, to the extent necessary and at the discretion of the Bank, against the other reserves, surplus and capital available to the Bank.
 
      (_c_)  Wherever necessary to meet contractual payments of interest, other charges or amortization on the Bank’s own borrowings, or to meet the Bank’s liabilities with respect to similar payments on loans guaranteed by it, the Bank may call an appropriate amount of the unpaid subscriptions of members in accordance with Article II, Sections 5 and 7\. Moreover, if it believes that a default may be of long duration, the Bank may call an additional amount of such unpaid subscriptions not to exceed in any one year one percent of the total subscriptions of the members for the following purposes:
 
-        (i)   To redeem prior to maturity, or otherwise discharge its liability on, all or part of the outstanding principal of any loan guaranteed by it in respect of which the debtor is in default.
+         (i)   To redeem prior to maturity, or otherwise discharge its liability on, all or part of the outstanding principal of any loan guaranteed by it in respect of which the debtor is in default.
 
-       (ii)   To repurchase, or otherwise discharge its liability on, all or part of its own outstanding borrowings.
+        (ii)   To repurchase, or otherwise discharge its liability on, all or part of its own outstanding borrowings.
 
 Section 8\. _Miscellaneous operations_
 
      In addition to the operations specified elsewhere in this Agreement, the Bank shall have the power:
 
-        (i)   To buy and sell securities it has issued and to buy and sell securities which it has guaranteed or in which it has invested, provided that the Bank shall obtain the approval of the member in whose territories the securities are to be bought or sold.
+         (i)   To buy and sell securities it has issued and to buy and sell securities which it has guaranteed or in which it has invested, provided that the Bank shall obtain the approval of the member in whose territories the securities are to be bought or sold.
 
-       (ii)   To guarantee securities in which it has invested for the purpose of facilitating their sale.
+        (ii)   To guarantee securities in which it has invested for the purpose of facilitating their sale.
 
-      (iii)   To borrow the currency of any member with the approval of that member.
+       (iii)   To borrow the currency of any member with the approval of that member.
 
-      (iv)   To buy and sell such other securities as the Directors by a three‑fourths majority of the total voting power may deem proper for the investment of all or part of the special reserve under Section 6 of this Article.
+       (iv)   To buy and sell such other securities as the Directors by a three-fourths majority of the total voting power may deem proper for the investment of all or part of the special reserve under Section 6 of this Article.
 
 In exercising the powers conferred by this Section, the Bank may deal with any person, partnership, association, corporation or other legal entity in the territories of any member.
 
@@ -2415,23 +2415,23 @@ Section 2\. _Board of Governors_
 
      (_b_)  The Board of Governors may delegate to the Executive Directors authority to exercise any powers of the Board, except the power to:
 
-        (i)   Admit new members and determine the conditions of their admission;
+         (i)   Admit new members and determine the conditions of their admission;
 
-       (ii)   Increase or decrease the capital stock;
+        (ii)   Increase or decrease the capital stock;
 
-      (iii)   Suspend a member;
+       (iii)   Suspend a member;
 
-      (iv)   Decide appeals from interpretations of this Agreement given by the Executive Directors;
+       (iv)   Decide appeals from interpretations of this Agreement given by the Executive Directors;
 
-       (v)   Make arrangements to cooperate with other international organizations (other than informal arrangements of a temporary and administrative character);
+        (v)   Make arrangements to cooperate with other international organizations (other than informal arrangements of a temporary and administrative character);
 
-      (vi)   Decide to suspend permanently the operations of the Bank and to distribute its assets;
+       (vi)   Decide to suspend permanently the operations of the Bank and to distribute its assets;
 
-     (vii)   Determine the distribution of the net income of the Bank.
+      (vii)   Determine the distribution of the net income of the Bank.
 
-     (_c_)  The Board of Governors shall hold an annual meeting and such other meetings as may be provided for by the Board or called by the Executive Directors. Meetings of the Board shall be called by the Directors whenever requested by five members or by members having one‑quarter of the total voting power.
+     (_c_)  The Board of Governors shall hold an annual meeting and such other meetings as may be provided for by the Board or called by the Executive Directors. Meetings of the Board shall be called by the Directors whenever requested by five members or by members having one-quarter of the total voting power.
 
-     (_d_)  A quorum for any meeting of the Board of Governors shall be a majority of the Governors, exercising not less than two‑thirds of the total voting power.
+     (_d_)  A quorum for any meeting of the Board of Governors shall be a majority of the Governors, exercising not less than two-thirds of the total voting power.
 
      (_e_)  The Board of Governors may by regulation establish a procedure whereby the Executive Directors, when they deem such action to be in the best interests of the Bank, may obtain a vote of the Governors on a specific question without calling a meeting of the Board.
 
@@ -2453,11 +2453,11 @@ Section 4.  _Executive Directors_
 
      (_b_)  There shall be twelve Executive Directors, who need not be governors, and of whom:
 
-        (i)   five shall be appointed, one by each of the five members having the largest number of shares;
+         (i)   five shall be appointed, one by each of the five members having the largest number of shares;
 
-       (ii)   seven shall be elected according to Schedule B by all the Governors other than those appointed by the five members referred to in (i) above.
+        (ii)   seven shall be elected according to Schedule B by all the Governors other than those appointed by the five members referred to in (i) above.
 
-     For the purpose of this paragraph, “members” means governments of countries whose names are set forth in Schedule A, whether they are original members or become members in accordance with Article II, Section 1 (_b_). When governments of other countries become members, the Board of Governors may, by a four‑fifths majority of the total voting power, increase the total number of directors by increasing the number of directors to be elected.
+     For the purpose of this paragraph, “members” means governments of countries whose names are set forth in Schedule A, whether they are original members or become members in accordance with Article II, Section 1 (_b_). When governments of other countries become members, the Board of Governors may, by a four-fifths majority of the total voting power, increase the total number of directors by increasing the number of directors to be elected.
 
      Executive directors shall be appointed or elected every two years.
 
@@ -2467,7 +2467,7 @@ Section 4.  _Executive Directors_
 
      (_e_)  The Executive Directors shall function in continuous session at the principal office of the Bank and shall meet as often as the business of the Bank may require.
 
-      (_f_)  A quorum for any meeting of the Executive Directors shall be a majority of the Directors, exercising not less than one‑half of the total voting power.
+      (_f_)  A quorum for any meeting of the Executive Directors shall be a majority of the Directors, exercising not less than one-half of the total voting power.
 
      (_g_)  Each appointed director shall be entitled to cast the number of votes allotted under Section 3 of this Article to the member appointing him. Each elected director shall be entitled to cast the number of votes which counted toward his election. All the votes which a director is entitled to cast shall be cast as a unit.
 
@@ -2517,11 +2517,11 @@ Section 11\. _Depositories_
 
      (_a_)  Each member shall designate its central bank as a depository for all the Bank’s holdings of its currency or, if it has no central bank, it shall designate such other institution as may be acceptable to the Bank.
 
-     (_b_)  The Bank may hold other assets, including gold, in depositories designated by the five members having the largest number of shares and in such other designated depositories as the Bank may select. Initially, at least one‑half of the gold holdings of the Bank shall be held in the depository designated by the member in whose territory the Bank has its principal office, and at least forty percent shall be held in the depositories designated by the remaining four members referred to above, each of such depositories to hold, initially, not less than the amount of gold paid on the shares of the member designating it. However, all transfers of gold by the Bank shall be made with due regard to the costs of transport and anticipated requirements of the Bank. In an emergency the Executive Directors may transfer all or any part of the Bank’s gold holdings to any place where they can be adequately protected.
+     (_b_)  The Bank may hold other assets, including gold, in depositories designated by the five members having the largest number of shares and in such other designated depositories as the Bank may select. Initially, at least one-half of the gold holdings of the Bank shall be held in the depository designated by the member in whose territory the Bank has its principal office, and at least forty percent shall be held in the depositories designated by the remaining four members referred to above, each of such depositories to hold, initially, not less than the amount of gold paid on the shares of the member designating it. However, all transfers of gold by the Bank shall be made with due regard to the costs of transport and anticipated requirements of the Bank. In an emergency the Executive Directors may transfer all or any part of the Bank’s gold holdings to any place where they can be adequately protected.
 
 Section 12.  _Form of holdings of currency_
 
-     The Bank shall accept from any member, in place of any part of the member’s currency, paid in to the Bank under Article II, Section 7 (i), or to meet amortization payments on loans made with such currency, and not needed by the Bank in its operations, notes or similar obligations issued by the Government of the member or the depository designated by such member, which shall be non‑negotiable, non‑interest‑bearing and payable at their par value on demand by credit to the account of the Bank in the designated depository.
+     The Bank shall accept from any member, in place of any part of the member’s currency, paid in to the Bank under Article II, Section 7 (i), or to meet amortization payments on loans made with such currency, and not needed by the Bank in its operations, notes or similar obligations issued by the Government of the member or the depository designated by such member, which shall be non-negotiable, non-interest-bearing and payable at their par value on demand by credit to the account of the Bank in the designated depository.
 
 Section 13.  _Publication of reports and provision of information_
 
@@ -2535,7 +2535,7 @@ Section 14.  _Allocation of net income_
 
      (_a_)  The Board of Governors shall determine annually what part of the Bank’s net income, after making provision for reserves, shall be allocated to surplus and what part, if any, shall be distributed.
 
-     (_b_)  If any part is distributed, up to two percent non‑cumulative shall be paid, as a first charge against the distribution for any year, to each member on the basis of the average amount of the loans outstanding during the year made under Article IV, Section 1 (_a_) (i), out of currency corresponding to its subscription. If two percent is paid as a first charge, any balance remaining to be distributed shall be paid to all members in proportion to their shares. Payments to each member shall be made in its own currency, or if that currency is not available in other currency acceptable to the member. If such payments are made in currencies other than the member’s own currency, the transfer of the currency and its use by the receiving member after payment shall be without restriction by the members.
+     (_b_)  If any part is distributed, up to two percent non-cumulative shall be paid, as a first charge against the distribution for any year, to each member on the basis of the average amount of the loans outstanding during the year made under Article IV, Section 1 (_a_) (i), out of currency corresponding to its subscription. If two percent is paid as a first charge, any balance remaining to be distributed shall be paid to all members in proportion to their shares. Payments to each member shall be made in its own currency, or if that currency is not available in other currency acceptable to the member. If such payments are made in currencies other than the member’s own currency, the transfer of the currency and its use by the receiving member after payment shall be without restriction by the members.
 
 ARTICLE VI
 
@@ -2551,7 +2551,7 @@ Section 2.  _Suspension of membership_
 
 Section 3.  _Cessation of membership in International Monetary Fund_
 
-     Any member which ceases to be a member of the International Monetary Fund shall automatically cease after three months to be a member of the Bank unless the Bank by three‑fourths of the total voting power has agreed to allow it to remain a member.
+     Any member which ceases to be a member of the International Monetary Fund shall automatically cease after three months to be a member of the Bank unless the Bank by three-fourths of the total voting power has agreed to allow it to remain a member.
 
 Section 4.  _Settlement of accounts with governments ceasing to be members_
 
@@ -2561,13 +2561,13 @@ Section 4.  _Settlement of accounts with governments ceasing to be members_
 
      (_c_)  The payment for shares repurchased by the Bank under this section shall be governed by the following conditions:
 
-        (i)   Any amount due to the government for its shares shall be withheld so long as the government, its central bank or any of its agencies remains liable, as borrower or guarantor, to the Bank and such amount may, at the option of the Bank, be applied on any such liability as it matures. No amount shall be withheld on account of the liability of the government resulting from its subscription for shares under Article II, Section 5 (ii). In any event, no amount due to a member for its shares shall be paid until six months after the date upon which the government ceases to be a member.
+         (i)   Any amount due to the government for its shares shall be withheld so long as the government, its central bank or any of its agencies remains liable, as borrower or guarantor, to the Bank and such amount may, at the option of the Bank, be applied on any such liability as it matures. No amount shall be withheld on account of the liability of the government resulting from its subscription for shares under Article II, Section 5 (ii). In any event, no amount due to a member for its shares shall be paid until six months after the date upon which the government ceases to be a member.
 
-       (ii)   Payments for shares may be made from time to time, upon their surrender by the government, to the extent by which the amount due as the repurchase price in (_b_) above exceeds the aggregate of liabilities on loans and guarantees in (_c_) (i) above until the former member has received the full repurchase price.
+        (ii)   Payments for shares may be made from time to time, upon their surrender by the government, to the extent by which the amount due as the repurchase price in (_b_) above exceeds the aggregate of liabilities on loans and guarantees in (_c_) (i) above until the former member has received the full repurchase price.
 
-      (iii)   Payments shall be made in the currency of the country receiving payment or at the option of the Bank in gold.
+       (iii)   Payments shall be made in the currency of the country receiving payment or at the option of the Bank in gold.
 
-      (iv)   If losses are sustained by the Bank on any guarantees, participations in loans, or loans which were outstanding on the date when the government ceased to be a member, and the amount of such losses exceeds the amount of the reserve provided against losses on the date when the government ceased to be a member, such government shall be obligated to repay upon demand the amount by which the repurchase price of its shares would have been reduced, if the losses had been taken into account when the repurchase price was determined. In addition, the former member government shall remain liable on any call for unpaid subscriptions under Article II, Section 5 (ii), to the extent that it would have been required to respond if the impairment of capital had occurred and the call had been made at the time the repurchase price of its shares was determined.
+       (iv)   If losses are sustained by the Bank on any guarantees, participations in loans, or loans which were outstanding on the date when the government ceased to be a member, and the amount of such losses exceeds the amount of the reserve provided against losses on the date when the government ceased to be a member, such government shall be obligated to repay upon demand the amount by which the repurchase price of its shares would have been reduced, if the losses had been taken into account when the repurchase price was determined. In addition, the former member government shall remain liable on any call for unpaid subscriptions under Article II, Section 5 (ii), to the extent that it would have been required to respond if the impairment of capital had occurred and the call had been made at the time the repurchase price of its shares was determined.
 
      (_d_)  If the Bank suspends permanently its operations under Section 5 (_b_) of this Article, within six months of the date upon which any government ceases to be a member, all rights of such government shall be determined by the provisions of Section 5 of this Article.
 
@@ -2583,23 +2583,23 @@ Section 5.  _Suspension of operations and settlement of obligations_
 
      (_e_)  No distribution shall be made to members on account of their subscriptions to the capital stock of the Bank until
 
-        (i)   all liabilities to creditors have been discharged or provided for, and
+         (i)   all liabilities to creditors have been discharged or provided for, and
 
-       (ii)   a majority of the Governors, exercising a majority of the total voting power have decided to make a distribution.
+        (ii)   a majority of the Governors, exercising a majority of the total voting power have decided to make a distribution.
 
-      (_f_)  After a decision to make a distribution has been taken under (_e_) above, the Executive Directors may by a two‑thirds majority vote make successive distributions of the assets of the Bank to members until all of the assets have been distributed. This distribution shall be subject to the prior settlement of all outstanding claims of the Bank against each member.
+      (_f_)  After a decision to make a distribution has been taken under (_e_) above, the Executive Directors may by a two-thirds majority vote make successive distributions of the assets of the Bank to members until all of the assets have been distributed. This distribution shall be subject to the prior settlement of all outstanding claims of the Bank against each member.
 
      (_g_)  Before any distribution of assets is made, the Executive Directors shall fix the proportionate share of each member according to the ratio of its shareholding to the total outstanding shares of the Bank.
 
      (_h_)  The Executive Directors shall value the assets to be distributed as at the date of distribution and then proceed to distribute in the following manner:
 
-        (i)   There shall be paid to each member in its own obligations or those of its official agencies or legal entities within its territories, insofar as they are available for distribution, an amount equivalent in value to its proportionate share of the total amount to be distributed.
+         (i)   There shall be paid to each member in its own obligations or those of its official agencies or legal entities within its territories, insofar as they are available for distribution, an amount equivalent in value to its proportionate share of the total amount to be distributed.
 
-       (ii)   Any balance due to a member after payment has been made under (i) above shall be paid, in its own currency, insofar as it is held by the Bank, up to an amount equivalent in value to such balance.
+        (ii)   Any balance due to a member after payment has been made under (i) above shall be paid, in its own currency, insofar as it is held by the Bank, up to an amount equivalent in value to such balance.
 
-      (iii)   Any balance due to a member after payment has been made under (i) and (ii) above shall be paid in gold or currency acceptable to the member, insofar as they are held by the Bank, up to an amount equivalent in value to such balance.
+       (iii)   Any balance due to a member after payment has been made under (i) and (ii) above shall be paid in gold or currency acceptable to the member, insofar as they are held by the Bank, up to an amount equivalent in value to such balance.
 
-      (iv)   Any remaining assets held by the Bank after payments have been made to members under (i), (ii), and (iii) above shall be distributed _pro rata_ among the members.
+       (iv)   Any remaining assets held by the Bank after payments have been made to members under (i), (ii), and (iii) above shall be distributed _pro rata_ among the members.
 
       (_i_)  Any member receiving assets distributed by the Bank in accordance with (_h_) above, shall enjoy the same rights with respect to such assets as the Bank enjoyed prior to their distribution.
 
@@ -2615,11 +2615,11 @@ Section 2.  _Status of the Bank_
 
      The Bank shall possess full juridical personality, and, in particular, the capacity:
 
-        (i)   to contract;
+         (i)   to contract;
 
-       (ii)   to acquire and dispose of immovable and movable property;
+        (ii)   to acquire and dispose of immovable and movable property;
 
-      (iii)   to institute legal proceedings.
+       (iii)   to institute legal proceedings.
 
 Section 3.  _Position of the Bank with regard to judicial process_
 
@@ -2645,11 +2645,11 @@ Section 8.  _Immunities and privileges of officers and employees_
 
      All governors, executive directors, alternates, officers and employees of the Bank
 
-        (i)   shall be immune from legal process with respect to acts performed by them in their official capacity except when the Bank waives this immunity;
+         (i)   shall be immune from legal process with respect to acts performed by them in their official capacity except when the Bank waives this immunity;
 
-       (ii)   not being local nationals, shall be accorded the same immunities from immigration restrictions, alien registration requirements and national service obligations and the same facilities as regards exchange restrictions as are accorded by members to the representatives, officials, and employees of comparable rank of other members;
+        (ii)   not being local nationals, shall be accorded the same immunities from immigration restrictions, alien registration requirements and national service obligations and the same facilities as regards exchange restrictions as are accorded by members to the representatives, officials, and employees of comparable rank of other members;
 
-      (iii)   shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials and employees of comparable rank of other members.
+       (iii)   shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials and employees of comparable rank of other members.
 
 Section 9.  _Immunities from taxation_
 
@@ -2659,15 +2659,15 @@ Section 9.  _Immunities from taxation_
 
      (_c_)  No taxation of any kind shall be levied on any obligation or security issued by the Bank (including any dividend or interest thereon) by whomsoever held—
 
-        (i)   which discriminates against such obligation or security solely because it is issued by the Bank; or
+         (i)   which discriminates against such obligation or security solely because it is issued by the Bank; or
 
-       (ii)   if the sole jurisdictional basis for such taxation is the place or currency in which it is issued, made payable or paid, or the location of any office or place of business maintained by the Bank.
+        (ii)   if the sole jurisdictional basis for such taxation is the place or currency in which it is issued, made payable or paid, or the location of any office or place of business maintained by the Bank.
 
      (_d_)  No taxation of any kind shall be levied on any obligation or security guaranteed by the Bank (including any dividend or interest thereon) by whomsoever held—
 
-        (i)   which discriminates against such obligation or security solely because it is guaranteed by the Bank; or
+         (i)   which discriminates against such obligation or security solely because it is guaranteed by the Bank; or
 
-       (ii)   If the sole jurisdictional basis for such taxation is the location of any office or place of business maintained by the Bank.
+        (ii)   If the sole jurisdictional basis for such taxation is the location of any office or place of business maintained by the Bank.
 
 Section 10.  _Application of Article_
 
@@ -2677,15 +2677,15 @@ ARTICLE VIII
 
 AMENDMENTS
 
-     (_a_)  Any proposal to introduce modifications in this agreement, whether emanating from a member, a governor or the Executive Directors, shall be communicated to the Chairman of the Board of Governors who shall bring the proposal before the Board. If the proposed amendment is approved by the Board the Bank shall, by circular letter or telegram, ask all members whether they accept the proposed amendment. When three‑fifths of the members, having four‑fifths of the total voting power, have accepted the proposed amendment, the Bank shall certify the fact by a formal communication addressed to all members.
+     (_a_)  Any proposal to introduce modifications in this agreement, whether emanating from a member, a governor or the Executive Directors, shall be communicated to the Chairman of the Board of Governors who shall bring the proposal before the Board. If the proposed amendment is approved by the Board the Bank shall, by circular letter or telegram, ask all members whether they accept the proposed amendment. When three-fifths of the members, having four-fifths of the total voting power, have accepted the proposed amendment, the Bank shall certify the fact by a formal communication addressed to all members.
 
      (_b_)  Notwithstanding (_a_) above, acceptance by all members is required in the case of any amendment modifying
 
-        (i)   the right to withdraw from the Bank provided in Article VI, Section 1;
+         (i)   the right to withdraw from the Bank provided in Article VI, Section 1;
 
-       (ii)   the right secured by Article II, Section 3 (_c_);
+        (ii)   the right secured by Article II, Section 3 (_c_);
 
-      (iii)   the limitation on liability provided in Article II, Section 6.
+       (iii)   the limitation on liability provided in Article II, Section 6.
 
      (_c_)  Amendments shall enter into force for all members three months after the date of the formal communication unless a shorter period is specified in the circular letter or telegram.
 
@@ -2711,7 +2711,7 @@ FINAL PROVISIONS
 
 Section 1.  _Entry into force_
 
-     This Agreement shall enter into force when it has been signed on behalf of governments whose minimum subscriptions comprise not less than sixty‑five percent of the total subscriptions set forth in Schedule A and when the instruments referred to in Section 2 (_a_) of this Article have been deposited on their behalf, but in no event shall this Agreement enter into force before May 1, 1945.
+     This Agreement shall enter into force when it has been signed on behalf of governments whose minimum subscriptions comprise not less than sixty-five percent of the total subscriptions set forth in Schedule A and when the instruments referred to in Section 2 (_a_) of this Article have been deposited on their behalf, but in no event shall this Agreement enter into force before May 1, 1945.
 
 Section 2.  _Signature_
 
@@ -2721,7 +2721,7 @@ Section 2.  _Signature_
 
      (_c_)  The Government of the United States of America shall inform the governments of all countries whose names are set forth in Schedule A, and all governments whose membership is approved in accordance with Article II, Section 1 (_b_), of all signatures of this Agreement and of the deposit of all instruments referred to in (_a_) above.
 
-     (_d_)  At the time this Agreement is signed on its behalf, each government shall transmit to the Government of the United States of America one one‑hundredth of one percent of the price of each share in gold or United States dollars for the purpose of meeting administrative expenses of the Bank. This payment shall be credited on account of the payment to be made in accordance with Article II, Section 8 (_a_). The Government of the United States of America shall hold such funds in a special deposit account and shall transmit them to the Board of Governors of the Bank when the initial meeting has been called under Section 3 of this Article. If this Agreement has not come into force by December 31, 1945, the Government of the United States of America shall return such funds to the governments that transmitted them.
+     (_d_)  At the time this Agreement is signed on its behalf, each government shall transmit to the Government of the United States of America one one-hundredth of one percent of the price of each share in gold or United States dollars for the purpose of meeting administrative expenses of the Bank. This payment shall be credited on account of the payment to be made in accordance with Article II, Section 8 (_a_). The Government of the United States of America shall hold such funds in a special deposit account and shall transmit them to the Board of Governors of the Bank when the initial meeting has been called under Section 3 of this Article. If this Agreement has not come into force by December 31, 1945, the Government of the United States of America shall return such funds to the governments that transmitted them.
 
      (_e_)  This Agreement shall remain open for signature at Washington on behalf of the governments of the countries whose names are set forth in Schedule A until December 31, 1945.
 
@@ -2803,7 +2803,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Belgium............................................................................................................</div>
+    <div>Belgium.............................................................................................................</div>
   </td>
   <td colspan="2">
     <div>225</div>
@@ -2820,7 +2820,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Bolivia .............................................................................................................</div>
+    <div>Bolivia ..............................................................................................................</div>
   </td>
   <td colspan="2">
     <div>7</div>
@@ -2837,7 +2837,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Brazil ................................................................................................................</div>
+    <div>Brazil .................................................................................................................</div>
   </td>
   <td colspan="2">
     <div>105</div>
@@ -2854,7 +2854,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Canada ............................................................................................................</div>
+    <div>Canada .............................................................................................................</div>
   </td>
   <td colspan="2">
     <div>325</div>
@@ -2888,7 +2888,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>China ...............................................................................................................</div>
+    <div>China ................................................................................................................</div>
   </td>
   <td colspan="2">
     <div>600</div>
@@ -2905,7 +2905,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Colombia ........................................................................................................</div>
+    <div>Colombia ..........................................................................................................</div>
   </td>
   <td colspan="2">
     <div>35</div>
@@ -2922,7 +2922,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Costa Rica ......................................................................................................</div>
+    <div>Costa Rica .......................................................................................................</div>
   </td>
   <td colspan="2">
     <div>2</div>
@@ -2939,7 +2939,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Cuba ................................................................................................................</div>
+    <div>Cuba .................................................................................................................</div>
   </td>
   <td colspan="2">
     <div>35</div>
@@ -2956,7 +2956,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Czechoslovakia .............................................................................................</div>
+    <div>Czechoslovakia ...............................................................................................</div>
   </td>
   <td colspan="2">
     <div>125</div>
@@ -2971,7 +2971,7 @@ of dollars)</div>
 <tr>
   <td colspan="5">
     <div>
-      *Denmark.......................................................................................................</div>
+      *Denmark........................................................................................................</div>
   </td>
   <td colspan="2">
     <div>..</div>
@@ -2988,7 +2988,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Dominican Republic .....................................................................................</div>
+    <div>Dominican Republic .......................................................................................</div>
   </td>
   <td colspan="2">
     <div>2</div>
@@ -3005,7 +3005,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Ecuador ...........................................................................................................</div>
+    <div>Ecuador ............................................................................................................</div>
   </td>
   <td colspan="2">
     <div>3</div>
@@ -3039,7 +3039,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>El Salvador .....................................................................................................</div>
+    <div>El Salvador ......................................................................................................</div>
   </td>
   <td colspan="2">
     <div>1</div>
@@ -3056,7 +3056,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Ethiopia ...........................................................................................................</div>
+    <div>Ethiopia ............................................................................................................</div>
   </td>
   <td colspan="2">
     <div>3</div>
@@ -3107,7 +3107,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Guatemala ......................................................................................................</div>
+    <div>Guatemala ........................................................................................................</div>
   </td>
   <td colspan="2">
     <div>2</div>
@@ -3124,7 +3124,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Haiti .................................................................................................................</div>
+    <div>Haiti ..................................................................................................................</div>
   </td>
   <td colspan="2">
     <div>2</div>
@@ -3141,7 +3141,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Honduras ........................................................................................................</div>
+    <div>Honduras .........................................................................................................</div>
   </td>
   <td colspan="2">
     <div>1</div>
@@ -3243,7 +3243,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Luxembourg ...................................................................................................</div>
+    <div>Luxembourg ....................................................................................................</div>
   </td>
   <td colspan="2">
     <div>10</div>
@@ -3294,7 +3294,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>New Zealand ..................................................................................................</div>
+    <div>New Zealand ...................................................................................................</div>
   </td>
   <td colspan="2">
     <div>50</div>
@@ -3345,7 +3345,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Panama ...........................................................................................................</div>
+    <div>Panama .............................................................................................................</div>
   </td>
   <td colspan="2">
     <div></div>
@@ -3362,7 +3362,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Paraguay .........................................................................................................</div>
+    <div>Paraguay ..........................................................................................................</div>
   </td>
   <td colspan="2">
     <div></div>
@@ -3396,7 +3396,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Philippine Commonwealth ..........................................................................</div>
+    <div>Philippine Commonwealth ............................................................................</div>
   </td>
   <td colspan="2">
     <div>15</div>
@@ -3430,7 +3430,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Union of South Africa ..................................................................................</div>
+    <div>Union of South Africa ...................................................................................</div>
   </td>
   <td colspan="2">
     <div>100</div>
@@ -3447,7 +3447,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Union of Soviet Socialist Republics ...........................................................</div>
+    <div>Union of Soviet Socialist Republics ............................................................</div>
   </td>
   <td colspan="2">
     <div>1200</div>
@@ -3515,7 +3515,7 @@ of dollars)</div>
     <div></div>
   </td>
   <td colspan="4">
-    <div>Venezuela .......................................................................................................</div>
+    <div>Venezuela ........................................................................................................</div>
   </td>
   <td colspan="2">
     <div>10</div>
@@ -3628,7 +3628,1072 @@ Resolution No. 221
 
  
 
-# Schedule 4—Decision No. 11428‑(97/6), dated 27 January 1997, of the Executive Board of the Fund, as amended by Decision No. 14577‑(10/35), dated 12 April 2010, of the Executive Board of the Fund
+# Schedule 4—Decision No. 11428-(97/6), dated 27 January 1997, of the Executive Board of the Fund
+
+**A. New Arrangements to Borrow**
+
+**Preamble**
+
+          In order to enable the International Monetary Fund to fulfill more effectively its role in the international monetary system, a number of countries with the financial capacity to support the international monetary system have agreed to make available to the Fund resources in the form of loans up to specified amounts when supplementary resources are needed to forestall or cope with an impairment of the international monetary system or to deal with an exceptional situation that poses a threat to the stability of that system. In order to give effect to these intentions, the following terms and conditions are adopted under Article VII, Section 1 of the Articles of Agreement.
+
+**Paragraph 1\. Definitions**
+
+          (a)          As used in this decision the term:
+
+                      (i)  “amount of a credit arrangement” means the maximum amount expressed in special drawing rights that a participant undertakes to lend to the Fund under a credit arrangement;
+
+                      (ii)  “Articles” means the Articles of Agreement of the International Monetary Fund;
+
+                     (iii)  “available commitment” means a participant’s credit arrangement less any committed or drawn balances;
+
+                     (iv)  “borrowed currency” or “currency borrowed” means currency transferred to the Fund’s account under a credit arrangement;
+
+                     (v)  “call” means a notice by the Fund to a participant to make a transfer under its credit arrangement to the Fund’s account;
+
+                     (vi)  “credit arrangement” means an undertaking to lend to the Fund on the terms and conditions of this decision;
+
+                    (vii)  “currency actually convertible” means currency included in the Fund’s quarterly operational budget for transfers;
+
+                   (viii)  “drawer” means a member that purchases borrowed currency from the Fund in an exchange transaction, including an exchange transaction under a stand-by or extended arrangement;
+
+                     (ix)  “indebtedness” of the Fund means the amount it is committed to repay under a credit arrangement;
+
+                     (x)  “member” means a member of the Fund;
+
+                     (xi)  “participant” means a participating member or a participating institution;
+
+                    (xii)  “participating institution” means an official institution of a member that has entered into a credit arrangement with the Fund with the consent of the member, or an official institution of a nonmember that has entered into a credit arrangement with the Fund;
+
+                   (xiii)  “participating member” means a member that has entered into a credit arrangement with the Fund.
+
+          (b)          For the purposes of this decision, the Hong Kong Monetary Authority (HKMA) shall be regarded as an official institution of the member whose territories include Hong Kong, provided that:
+
+                      (i)  loans by the HKMA and payments by the Fund to the HKMA under this decision shall be made in principle in the currency of the United States of America, unless the currency of another member is agreed between the Fund and the HKMA;
+
+                      (ii)  the participation of the HKMA shall not give rise to the application of paragraph 6 A to the member whose territories include Hong Kong; and
+
+                     (iii)  the references to the balance of payments and reserve position in paragraphs 7 A(c), 7 B(b) and 11(e) shall be understood to refer to the balance of payments and reserve position of Hong  Kong.
+
+**Paragraph 2\. Credit Arrangements**
+
+             (a)  A member or institution that adheres to this decision undertakes to make loans to the Fund on the terms and conditions of this decision up to the amount in special drawing rights set forth in the Annex to this decision or established in accordance with paragraph 3(b).
+
+             (b)  Unless otherwise agreed with the Fund, loans under this decision shall be made in the currency of the participant. If the participant is an institution of a nonmember, the Fund and the participant shall agree on which member’s currency or members’ currencies shall be used for the loans. Agreements under this paragraph shall be subject to the concurrence of any member whose currency shall be used in the loans.
+
+**Paragraph 3\. Adherence**
+
+             (a)  Any member or institution specified in the Annex may adhere to this decision in accordance with paragraph 3(c).
+
+             (b)  Any member or institution not specified in the Annex, including an institution of a nonmember, may apply to become a participant at the time of renewal of this decision in accordance with paragraph 19\. Any such member or institution that wishes to become a participant shall, after consultation with the Fund, give notice of its willingness to adhere to this decision, and, if the Fund and participants representing 80 percent of total credit arrangements under the renewed decision shall so agree, the member or institution may adhere in accordance with paragraph 3(c). When giving notice of its willingness to adhere under this paragraph 3(b), a member or institution shall specify the amount, expressed in special drawing rights, of the credit arrangement which it is willing to enter into, provided that the amount shall not be less than the credit arrangement of the participant with the smallest credit arrangement. The admission of a new participant shall lead to a proportional reduction in the credit arrangements of all existing participants whose credit arrangements are above that of the participant with the smallest credit arrangement: such proportional reduction in the credit arrangements of participants shall be in an aggregate amount equal to the amount of the new participant’s credit arrangement less any increase in total credit arrangements decided in accordance with paragraph 5(a), provided that no participant’s credit arrangement shall be reduced below the minimum amount set out in the Annex.
+
+             (c)  A member or institution shall adhere to this decision by depositing with the Fund an instrument setting forth that it has adhered in accordance with its law and has taken all steps necessary to enable it to carry out the terms and conditions of this decision. On the deposit of the instrument the member or institution shall be a participant as of the date of the deposit or of the effective date of this decision, whichever is later.
+
+**Paragraph 4\. Entry into force**
+
+            This decision shall become effective when it has been adhered to by members or institutions included in the Annex with credit arrangements amounting to not less than SDR 28.9 billion, including the five members or institutions with the largest credit arrangements specified in the Annex.
+
+**Paragraph 5\. Changes in Amounts of Credit Arrangements**
+
+             (a)  When a member or institution is authorized under paragraph 3(b) to adhere to this decision, the total amount of credit arrangements may be increased by the Fund with the agreement of participants representing 85 percent of total credit arrangements; the increase shall not exceed the amount of the new participant’s credit arrangement.
+
+             (b)  The amounts of participants’ individual credit arrangements may be reviewed from time to time in the light of developing circumstances and changed with the agreement of the Fund and of participants representing 85 percent of total credit arrangements, including each participant whose credit arrangement is changed. This provision may be amended only with the consent of all participants.
+
+**Paragraph 6\. Initiation of Procedure**
+
+          **A. Participants**
+
+When a participating member or a member whose institution is a participant approaches the Fund on an exchange transaction or a stand-by or extended arrangement and the Managing Director, after consultation, considers that the exchange transaction or stand-by or extended arrangement is necessary in order to forestall or cope with an impairment of the international monetary system, and that the Fund’s resources need to be supplemented for this purpose, the Managing Director may initiate the procedure set out in paragraph 7A.
+
+          **B. Nonparticipants**
+
+          The Managing Director may initiate the procedure set out in paragraph 7A for exchange transactions requested by members that are not participants if (a), the exchange transactions are (i) transactions in the upper credit tranches, (ii) transactions under stand-by arrangements extending beyond the first credit tranche, (iii) transactions under extended arrangements, or (iv) transactions in the first credit tranche in conjunction with a stand-by or an extended arrangement, and (b), after consultation, the Managing Director considers that the Fund’s resources need to be supplemented to meet actual and expected requests for financing that reflect the existence of an exceptional situation associated with balance of payments problems of members of a character or aggregate size that could threaten the stability of the international monetary system. In making proposals for calls pursuant to paragraph 6B, the Managing Director shall pay due regard to potential calls pursuant to paragraph 6A.
+
+**Paragraph 7\. Proposals and Calls**
+
+          **A. Proposals**
+
+             (a)  The Managing Director shall make a proposal for calls under this decision only after consultation with Executive Directors and participants.
+
+             (b)  In making a proposal for resources to be lent to the Fund, the Managing Director shall identify the prospective drawer, the amount, and the period during which the resources requested in the proposal may be called.
+
+             (c)  If a participant determines that it will not be able to meet calls under a proposal because of its present and prospective balance of payments and reserve position, which would normally be reflected in the member’s exclusion from the list of countries that are included in the Fund’s quarterly operational budget for transfers of their currencies, it shall so notify the Fund and the other participants. If the participant is an institution of a nonmember, the participant shall consult with the Fund on that nonmember’s balance of payments and reserve position before making a determination under this provision. A participant shall exercise restraint and shall take into account the views of the Fund and other participants in making such a determination.
+
+             (d)  Unless otherwise specified under paragraph 7A(e), a proposal shall be for calls proportional to the amount of each participant’s credit arrangement.
+
+             (e)  The Managing Director may make a proposal for calls that are not proportional to the amount of each participant’s credit arrangement under the following circumstances:
+
+                      (i)  If proportional calls sufficient to provide the total amount sought from participants to finance the proposed exchange transactions cannot be made because at least one participant’s available commitment is insufficient to meet such a proportional call, the Managing Director may ask every participant whose available commitment would have been sufficient to meet fully such a proportional call to provide the amount under such a proportional call; provided that, if the Managing Director asks every such participant to provide such amount, the Managing Director shall also ask every participant whose available commitment would have been insufficient to meet such a proportional call to provide an amount to the extent of its available commitment. If necessary, the Managing Director may also ask for an amount in addition to that provided under the prior sentence from a participant whose available commitment exceeds the amount it would provide under such a proportional call.
+
+                      (ii)  If proportional calls sufficient to provide the total amount sought from participants to finance the proposed exchange transactions cannot be made because at least one participant lacks sufficient amounts of the type of currency or currencies needed for the proposed exchange transactions, the Managing Director may ask every participant that is in a position to provide the currency or currencies needed to provide the amount under such a proportional call, up to the amount of its available commitment or the amount that it is in a position to provide, whichever is less. If necessary, the Managing Director may also ask a participant whose available commitment exceeds the resources it would provide under such a proportional call and that remains in a position to provide the type of currency or currencies needed to provide an amount of the currency or currencies needed in addition to that provided under the prior sentence.
+
+             (f)  The concurrence of every participant that would undertake to provide proportionately more resources than at least one other participant shall be required before the proposal can be accepted under Paragraph 7A(g).
+
+             (g)  If there is not unanimity among the participants, the question whether the participants are prepared to facilitate, by making loans to the Fund, the exchange transactions or stand-by or extended arrangement specified in the proposal will be decided by a poll of the participants. A favorable decision shall require an 80 percent majority of total credit arrangements of participants eligible to vote. The decision shall be notified to the Fund.
+
+             (h)  Neither the prospective drawer nor its participating institution nor participants that have notified that they will not meet calls under a proposal shall be eligible to vote on the proposal.
+
+              (i)  A proposal shall become effective only if it is accepted by participants pursuant to paragraph 7A(g) and is then approved by the Executive Board.
+
+              (j)  After a proposal has been accepted, commitments and drawings shall not be affected by a subsequent change in the amounts of the credit arrangements.
+
+          **B. Calls**
+
+             (a)  Unless otherwise provided in a proposal for future calls approved under paragraph 7A, each call shall be made in proportion to the amounts in the proposal.
+
+             (b)  Except with the participant’s consent, calls may not be made on a participant, on which calls could otherwise be made pursuant to this paragraph, when, based on its present and prospective balance of payments and reserve position, the member is not included and is not being proposed by the Managing Director to be included in the list of countries in the quarterly operational budget for transfers of its currency. If the participant is an institution of a nonmember, its ability to meet calls under this decision shall be determined by the Fund, after consultation with the participant, on the basis of that nonmember’s present and prospective balance of payments and reserve position. In the event that a call is not made on a participant, the Managing Director may propose to the other participants that substitute amounts be made available under their credit arrangements, and this proposal shall be subject to the procedure of paragraph 7A.
+
+             (c)  When the Fund makes a call pursuant to this paragraph, the participant shall promptly make the transfer in accordance with the call.
+
+**Paragraph 8\. Evidence of Indebtedness**
+
+             (a)  The Fund shall issue to a participant, on its request, nonnegotiable instruments evidencing the Fund’s indebtedness to the participant. The form of the instruments shall be agreed between the Fund and the participant.
+
+             (b)  Upon repayment of the amount of any instrument issued under paragraph 8(a) and all accrued interest, the instrument shall be returned to the Fund for cancellation. If less than the amount of any such instrument is repaid, the instrument shall be returned to the Fund and a new instrument for the remainder of the amount shall be substituted with the same maturity date as in the old instrument.
+
+**Paragraph 9\. Interest**
+
+             (a)  The Fund shall pay interest on its indebtedness under this decision at a rate equal to the combined market interest rate computed by the Fund from time to time for the purpose of determining the rate at which it pays interest on holdings of special drawing rights or any such higher rate as may be agreed between the Fund and participants representing 80 percent of the total credit arrangements.
+
+             (b)  A change in the method of calculating the combined market interest rate shall apply to the Fund’s indebtedness under this decision only if the Fund and participants representing 80 percent of the total credit arrangements so agree; provided that, if a participant so requests at the time this agreement is reached, the change shall not apply to the Fund’s indebtedness to that participant outstanding at the date the change becomes effective.
+
+             (c)  Interest shall accrue daily and shall be paid as soon as possible after each July 31, October 31, January 31, and April 30.
+
+             (d)  Interest due to a participant shall be paid, as determined by the Fund in consultation with the participant, in special drawing rights, in the participant’s currency, in the currency borrowed, or in other currencies that are actually convertible.
+
+**Paragraph 10\. Use of Borrowed Currency**
+
+          The Fund’s policies and practices under Article V, Sections 3 and 7 on the use of its general resources and stand-by and extended arrangements, including those relating to the period of use, shall apply to purchases of currency borrowed by the Fund. Nothing in this decision shall affect the authority of the Fund with respect to requests for the use of its resources by individual members, and access to these resources by members shall be determined by the Fund’s policies and practices, and shall not depend on whether the Fund can borrow under this decision.
+
+**Paragraph 11\. Repayment by the Fund**
+
+             (a)  Subject to the other provisions of this paragraph 11, the Fund, five years after a transfer by a participant, shall repay the participant an amount equivalent to the transfer calculated in accordance with paragraph 12\. If the drawer for whose purchase participants make transfers is committed to repurchase at a fixed date earlier than five years after its purchase, the Fund shall repay the participants at that date. Repayment under this paragraph 11(a) or under paragraph 11(c) shall be, as determined by the Fund, in the currency borrowed whenever feasible, in the currency of the participant, in special drawing rights in an amount that does not increase the participant’s holdings of special drawing rights above the limit under Article XIX, Section 4, of the Articles of Agreement unless the participant agrees to accept special drawing rights above that limit in such repayment, or, after consultation with the participant, in other currencies that are actually convertible. Repayments to a participant under paragraph 11(b) and 11(e) shall be credited against transfers by the participant for a drawer’s purchases in the order in which repayment must be made under this paragraph 11(a).
+
+             (b)  Before the date prescribed in paragraph 11(a), the Fund, after consultation with the participants, may make repayment in part or in full to one or several participants. The Fund shall have the option to make repayment under this paragraph 11(b) in the participant’s currency, in the currency borrowed, in special drawing rights in an amount that does not increase the participant’s holdings of special drawing rights above the limit under Article XIX, Section 4, of the Articles of Agreement unless the participant agrees to accept special drawing rights above that limit in such repayment, or, with the agreement of the participant, in other currencies that are actually convertible.
+
+             (c)  Whenever a reduction in the Fund’s holdings of a drawer’s currency is attributed to a purchase of currency borrowed under this decision, the Fund shall promptly repay an equivalent amount. If the Fund is indebted to a participant as a result of transfers to finance a reserve tranche purchase by a drawer and the Fund’s holdings of the drawer’s currency that are not subject to repurchase are reduced as a result of net sales of that currency during a quarterly period covered by an operational budget, the Fund shall repay at the beginning of the next quarterly period an amount equivalent to that reduction, up to the amount of the indebtedness to the participant.
+
+             (d)  Repayment under paragraph 11(c) shall be made in proportion to the Fund’s indebtedness to the participants that made transfers in respect of which repayment is being made.
+
+             (e)  Before the date prescribed in paragraph 11(a), a participant may give notice representing that there is a balance of payments need for repayment of part or all of the Fund’s indebtedness and requesting such repayment. If a reversal of its loan may lead to further loans to the Fund by other participants, the participant seeking such reversal shall consult with the Managing Director and with the other participants before giving notice. The Fund shall give the overwhelming benefit of any doubt to the participant’s representation. Repayment shall be made after consultation with the participant in the currencies of other members that are actually convertible, or in special drawing rights, as determined by the Fund. If the Fund’s holdings of currencies in which repayment should be made are not wholly adequate, individual participants may be requested to provide the necessary balance under their credit arrangements subject to the limit of their available commitments. For all of the purposes of this paragraph 11, transfers under this paragraph 11(e) shall be deemed to have been made at the same time and for the same purchases as the transfers by the participant obtaining repayment under this paragraph 11(e).
+
+             (f)  When a repayment is made to a participant, the amount that can be called for under its credit arrangement in accordance with this decision shall be restored pro tanto.
+
+             (g)  The Fund shall be deemed to have discharged its obligations to a participating institution to make repayment in accordance with the provisions of this paragraph or to pay interest in accordance with the provisions of paragraph 9 if the Fund transfers an equivalent amount in special drawing rights to the member in which the institution is established.
+
+**Paragraph 12\. Rates of Exchange**
+
+             (a)  The value of any transfer shall be calculated as of the date of the dispatch of the instructions for the transfer. The calculation shall be made in terms of the special drawing right in accordance with Article XIX, Section _7(a)_ of the Articles, and the Fund shall be obliged to repay an equivalent value.
+
+             (b)  For all of the purposes of this decision, the value of a currency in terms of the special drawing right shall be calculated by the Fund in accordance with Rule 0-2 of the Fund’s Rules and Regulations.
+
+**Paragraph 13\. Transferability**
+
+          A participant may not transfer all or part of its claim to repayment under a credit arrangement except with the prior consent of the Fund and on such terms and conditions as the Fund may approve.
+
+**Paragraph 14\. Notices**
+
+          Notice to or by a participating member under this decision shall be in writing or by rapid means of communication and shall be given to or by the fiscal agency of the participating member designated in accordance with Article V, Section 1 of the Articles and Rule G-1 of the Rules and Regulations of the Fund. Notice to or by a participating institution shall be in writing or by rapid means of communication and shall be given to or by the participating institution.
+
+**Paragraph 15\. Amendment**
+
+             (a)  Except as provided in paragraphs 5(b), 15(b) and 16, this decision may be amended during the period prescribed in paragraph 19(a) and any subsequent renewal periods that may be decided pursuant to paragraph 19(b) only by a decision of the Fund and with the concurrence of participants representing 85 percent of total credit arrangements. Such concurrence shall not be necessary for the modification of the decision on its renewal pursuant to paragraph 19(b).
+
+             (b)  If in its view an amendment materially affects the interest of a participant that voted against the amendment, the participant shall have the right to withdraw its adherence to this decision by giving notice to the Fund and the other participants within 90 days from the date the amendment was adopted. This provision may be amended only with the consent of all participants.
+
+**Paragraph 16\. Withdrawal of Adherence**
+
+          Without prejudice to paragraph 15(b), a participant may withdraw its adherence to this decision in accordance with paragraph 19(b) but may not withdraw within the period prescribed in paragraph 19(a) except with the agreement of the Fund and all participants. This provision may be amended only with the consent of all participants.
+
+**Paragraph 17\. Withdrawal from Membership**
+
+          If a participating member or a member whose institution is a participant withdraws from membership in the Fund, the participant’s credit arrangement shall cease at the same time as the withdrawal takes effect. The Fund’s indebtedness under the credit arrangement shall be treated as an amount due from the Fund for the purpose of Article XXVI, Section 3, and Schedule J of the Articles.
+
+**Paragraph 18\. Suspension of Exchange Transactions and Liquidation**
+
+             (a)  The right of the Fund to make calls under paragraph 7 and the obligation to make repayments under paragraph 11 shall be suspended during any suspension of exchange transactions under Article XXVII of the Articles.
+
+             (b)  In the event of liquidation of the Fund, credit arrangements shall cease and the Fund’s indebtedness shall constitute liabilities under Schedule K of the Articles. For the purpose of paragraph 1(a) of Schedule K, the currency in which the liability of the Fund shall be payable shall be first the currency borrowed, then the participant’s currency and finally the currency of the drawer for whose purchases transfers were made by the participants.
+
+**Paragraph 19\. Period and Renewal**
+
+             (a)  This decision shall continue in existence for five years from its effective date. When considering a renewal of this decision for the period following the five-year period referred to in this paragraph 19(a), the Fund and the participants shall review the functioning of this decision and shall consult on any possible modifications.
+
+             (b)  This decision may be renewed for such period or periods and with such modifications, subject to paragraphs 5(b), 15(b) and 16, as the Fund may decide. The Fund shall adopt a decision on renewal and modification, if any, not later than twelve months before the end of the period prescribed in paragraph 19(a). Any participant may advise the Fund not less than six months before the end of the period prescribed in paragraph 19(a) that it will withdraw its adherence to the decision as renewed. In the absence of such notice, a participant shall be deemed to continue to adhere to the decision as renewed. Withdrawal of adherence in accordance with this paragraph 19(b) by a participant, whether or not included in the Annex, shall not preclude its subsequent adherence in accordance with paragraph 3(b).
+
+             (c)  If this decision is terminated or not renewed, paragraphs 8 through 14, 17 and 18(b) shall nevertheless continue to apply in connection with any indebtedness of the Fund under credit arrangements in existence at the date of the termination or expiration of the decision until repayment is completed. If a participant withdraws its adherence to this decision in accordance with paragraph 15(b), paragraph 16, or paragraph 19(b), it shall cease to be a participant under the decision, but paragraphs 8 through 14, 17 and 18(b) of the decision as of the date of the withdrawal shall nevertheless continue to apply to any indebtedness of the Fund under the former credit arrangement until repayment has been completed.
+
+**Paragraph 20\. Interpretation**
+
+          Any question of interpretation raised in connection with this decision which does not fall within the purview of Article XXIX of the Articles shall be settled to the mutual satisfaction of the Fund, the participant raising the question, and all other participants. For the purpose of this paragraph 20 participants shall be deemed to include those former participants to which paragraphs 8 through 14, 17 and 18(b) continue to apply pursuant to paragraph 19(c) to the extent that any such former participant is affected by a question of interpretation that is raised.
+
+**Paragraph 21\. Relationship with the General Arrangements to Borrow and Associated Borrowing Arrangements**
+
+             (a)  When considering whether to activate the New Arrangements to Borrow or the General Arrangements to Borrow, the Fund shall be guided by the following principles: The New Arrangements to Borrow shall be the facility of first and principal recourse except that:
+
+                      (i)  in the event of a request for a drawing on the Fund by a participating member, or a member whose institution is a participant, in both the General Arrangements to Borrow and the New Arrangements to Borrow, a proposal for calls may be made under either of the arrangements; and
+
+                      (ii)  in the event that a proposal for calls under the New Arrangements to Borrow is not accepted under paragraph 7A, a proposal for calls may be made under the General Arrangements to Borrow.
+
+             (b)  Outstanding drawings and commitments under the New Arrangements to Borrow and the General Arrangements to Borrow shall not exceed SDR 34 billion, or such other amount of total credit arrangements as may be in effect in accordance with this decision. The available commitment of a participant under the New Arrangements to Borrow shall be reduced pro tanto by any outstanding drawings on, and commitments of, the participant under the General Arrangements to Borrow. The available commitment of a participant under the General Arrangements to Borrow shall be reduced pro tanto by the extent to which its credit arrangement under the General Arrangements to Borrow exceeds its available commitment under the New Arrangements to Borrow.
+
+             (c)  References to drawings and commitments under the General Arrangements to Borrow shall include drawings and commitments under the Associated Borrowing Arrangements referred to in paragraph 23 of the General Arrangements to Borrow.
+
+**Paragraph 22\. Other Borrowing Arrangements**
+
+Nothing in this decision shall preclude the Fund from entering into any other types of borrowing arrangements.
+
+<table>
+<colgroup>
+  <col width="50%">
+  <col width="50%">
+</colgroup>
+
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>Decision No. 11428-(97/6), adopted</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>January 27, 1997</div>
+  </td>
+</tr></table>
+
+**Annex**
+
+**Participants and Amount of Credit Arrangements**
+
+The size of each participant’s credit arrangement listed below has initially been based in principle on its relative economic strength as reflected in its quota in the Fund. Credit arrangements are subject to a minimum of SDR 340 million. Amounts have been adjusted between some participants subject to the condition that the total for the participants involved in an adjustment does not change and the minimum is observed. The amounts, in terms of SDRs of the individual credit arrangements and their total will remain in effect unless and until changed in accordance with this decision.
+
+          The size of the Hong Kong Monetary Authority’s (HKMA) credit arrangement has not been calculated on the basis of the quota of the member whose territories include Hong Kong. The same principle explains the special provision on activation of the NAB to meet requests from such member.
+
+<table>
+<colgroup>
+  <col width="40%">
+  <col width="7%">
+  <col width="25%">
+  <col width="27%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>
+      <b>
+        Participant
+      </b>
+    </div>
+  </td>
+  <td colspan="3">
+    <div>
+      <b>
+        Amount in Millions of Special Drawing Rights
+      </b>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td colspan="2">
+    <div>Australia</div>
+    <div>Austria</div>
+    <div>Belgium</div>
+    <div>Canada</div>
+    <div>Denmark</div>
+    <div>Deutsche Bundesbank</div>
+    <div>Finland</div>
+    <div>France</div>
+    <div>Hong Kong Monetary Authority</div>
+    <div>Italy</div>
+    <div>Japan</div>
+    <div>Korea</div>
+    <div>Kuwait</div>
+    <div>Luxembourg</div>
+    <div>Malaysia</div>
+    <div>Netherlands</div>
+    <div>Norway</div>
+    <div>Saudi Arabia</div>
+    <div>Singapore</div>
+    <div>Spain</div>
+    <div>Sveriges Riksbank</div>
+    <div>Swiss National Bank</div>
+    <div>Thailand</div>
+    <div>United Kingdom of Great Britain and Northern Ireland</div>
+    <div>United States of America</div>
+  </td>
+  <td>
+    <div>810</div>
+    <div>412</div>
+    <div>967</div>
+    <div>1396</div>
+    <div>371</div>
+    <div>3557</div>
+    <div>340</div>
+    <div>2577</div>
+    <div>340</div>
+    <div>1772</div>
+    <div>3557</div>
+    <div>340</div>
+    <div>345</div>
+    <div>340</div>
+    <div>340</div>
+    <div>1316</div>
+    <div>383</div>
+    <div>1780</div>
+    <div>340</div>
+    <div>672</div>
+    <div>859</div>
+    <div>1557</div>
+    <div>340</div>
+    <div>2577</div>
+    <div> </div>
+    <div>6712</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr></table>
+
+ 
+
+# Notes to the _International Monetary Agreements Act 1947_
+
+### Note 1
+
+The _International Monetary Agreements Act 1947_ as shown in this compilation comprises Act No. 5, 1947 amended as indicated in the Tables below.
+
+For Acts relating to matters connected with the Agreements referred to in the _International Monetary Agreements Act 1947_ see the following: _International Monetary Agreements Act 1959_, _International Monetary Agreements Act 1960_,_International Monetary Agreements Act 1965_, _International Monetary Agreements Act 1970_ and the _International Monetary Agreements Act 1974_.
+
+All relevant information pertaining to application, saving or transitional provisions prior to 22 February 2005 is not included in this compilation. For subsequent information _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="21%">
+  <col width="15%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td>
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>International Monetary Agreements Act 1947</div>
+  </td>
+  <td>
+    <div>5, 1947</div>
+  </td>
+  <td>
+    <div>2 Apr 1947</div>
+  </td>
+  <td>
+    <div>2 Apr 1947</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>International Monetary Agreements Act 1963</div>
+  </td>
+  <td>
+    <div>53, 1963</div>
+  </td>
+  <td>
+    <div>18 Oct 1963</div>
+  </td>
+  <td>
+    <div><i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>International Monetary Agreements Act 1966</div>
+  </td>
+  <td>
+    <div>37, 1966</div>
+  </td>
+  <td>
+    <div>12 Sept 1966</div>
+  </td>
+  <td>
+    <div>12 Sept 1966</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>International Monetary Agreements Act 1968</div>
+  </td>
+  <td>
+    <div>130, 1968</div>
+  </td>
+  <td>
+    <div>9 Dec 1968</div>
+  </td>
+  <td>
+    <div>Ss. 1–5 and 10: Royal Assent 
+Remainder: 4 Sept 1969 ( <i>see Gazette</i>1969, p. 5199)</div>
+  </td>
+  <td>
+    <div>Ss. 3(2), 4 and 5</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1973</div>
+  </td>
+  <td>
+    <div>216, 1973</div>
+  </td>
+  <td>
+    <div>19 Dec 1973</div>
+  </td>
+  <td>
+    <div>31 Dec 1973</div>
+  </td>
+  <td>
+    <div>Ss. 9(1) and 10</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>International Monetary Agreements Amendment Act 1978</div>
+  </td>
+  <td>
+    <div>97, 1978</div>
+  </td>
+  <td>
+    <div>24 Aug 1978</div>
+  </td>
+  <td>
+    <div>24 Aug 1978</div>
+  </td>
+  <td>
+    <div>Ss. 17–20</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>International Monetary Fund (Quota Increase and Agreement Amendments )Act 1991</div>
+  </td>
+  <td>
+    <div>182, 1991</div>
+  </td>
+  <td>
+    <div>6 Dec 1991</div>
+  </td>
+  <td>
+    <div>Part 3 (s. 8): 16 Dec 1992 ( <i>see Gazette</i>1993, No. GN50) 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Ss. 3–7</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>International Monetary Agreements Amendment Act 1997</div>
+  </td>
+  <td>
+    <div>127, 1997</div>
+  </td>
+  <td>
+    <div>15 Sept 1997</div>
+  </td>
+  <td>
+    <div>15 Sept 1997</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>International Monetary Agreements Amendment Act 1998</div>
+  </td>
+  <td>
+    <div>28, 1998</div>
+  </td>
+  <td>
+    <div>17 Apr 1998</div>
+  </td>
+  <td>
+    <div>17 Apr 1998</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>International Monetary Agreements Amendment Act (No. 1) 2001</div>
+  </td>
+  <td>
+    <div>1, 2001</div>
+  </td>
+  <td>
+    <div>2 Mar 2001</div>
+  </td>
+  <td>
+    <div>Schedule 1: 9 Sept 2009 ( <i>see</i>F2009L03357) 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Financial Framework Legislation Amendment Act 2005</div>
+  </td>
+  <td>
+    <div>8, 2005</div>
+  </td>
+  <td>
+    <div>22 Feb 2005</div>
+  </td>
+  <td>
+    <div>S. 4 and Schedule 1 (items 160, 496): Royal Assent</div>
+  </td>
+  <td>
+    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2008</div>
+  </td>
+  <td>
+    <div>73, 2008</div>
+  </td>
+  <td>
+    <div>3 July 2008</div>
+  </td>
+  <td>
+    <div>Schedule 4 (item 351): 4 July 2008</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>International Monetary Agreements Amendment (Financial Assistance) Act 2009</div>
+  </td>
+  <td>
+    <div>57, 2009</div>
+  </td>
+  <td>
+    <div>26 June 2009</div>
+  </td>
+  <td>
+    <div>26 June 2009</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>International Monetary Agreements Amendment Act 2009</div>
+  </td>
+  <td>
+    <div>82, 2009</div>
+  </td>
+  <td>
+    <div>10 Sept 2009</div>
+  </td>
+  <td>
+    <div>10 Sept 2009</div>
+  </td>
+  <td>
+    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>International Monetary Agreements Amendment Act (No. 1) 2010</div>
+  </td>
+  <td>
+    <div>58, 2010</div>
+  </td>
+  <td>
+    <div>24 June 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1: \[ <i>see</i>Note 2] 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>International Financial Institutions Legislation Amendment Act 2010</div>
+  </td>
+  <td>
+    <div>133, 2010</div>
+  </td>
+  <td>
+    <div>24 Nov 2010</div>
+  </td>
+  <td>
+    <div>Schedule 1: 25 Nov 2010</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr></table>
+
+_(a)_     The _International Monetary Agreements Act 1963_ was repealed by section 3 of the _International Monetary Agreements Act 1968_ without a date for its commencement having been fixed. Section 3 commenced on 9 December 1968.
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Title</div>
+  </td>
+  <td>
+    <div>am. No. 28, 1998; No. 57, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. No. 37, 1966</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 130, 1968</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 97, 1978; No. 127, 1997; Nos. 57 and 82, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>rs. No. 37, 1966</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4A</div>
+  </td>
+  <td>
+    <div>ad. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div>am. No. 130, 1968; No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5A</div>
+  </td>
+  <td>
+    <div>ad. No. 130, 1968</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 127, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 5B, 5C</div>
+  </td>
+  <td>
+    <div>ad. No. 130, 1968</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 127, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5D</div>
+  </td>
+  <td>
+    <div>ad. No. 130, 1968</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5E</div>
+  </td>
+  <td>
+    <div>ad. No. 130, 1968</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 216, 1973</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6</div>
+  </td>
+  <td>
+    <div>am. No. 97, 1978; No. 127, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 7, 8</div>
+  </td>
+  <td>
+    <div>am. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 130, 1968</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 73, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8B</div>
+  </td>
+  <td>
+    <div>ad. No. 127, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8C</div>
+  </td>
+  <td>
+    <div>ad. No. 28, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8CA</div>
+  </td>
+  <td>
+    <div>ad. No. 57, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8D</div>
+  </td>
+  <td>
+    <div>ad. No. 28, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 57, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 8E, 8F</div>
+  </td>
+  <td>
+    <div>ad. No. 28, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>am. No. 97, 1978s</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 133, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11</div>
+  </td>
+  <td>
+    <div>am. No. 130, 1968</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to First Schedule</div>
+  </td>
+  <td>
+    <div>rep. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>First Schedule</div>
+  </td>
+  <td>
+    <div>rep. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 1</div>
+  </td>
+  <td>
+    <div>ad. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 182, 1991; No. 1, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Second 
+Schedule</div>
+  </td>
+  <td>
+    <div>rep. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 2</div>
+  </td>
+  <td>
+    <div>ad. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Third Schedule</div>
+  </td>
+  <td>
+    <div>rep. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 3</div>
+  </td>
+  <td>
+    <div>ad. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Third Schedule</div>
+  </td>
+  <td>
+    <div>ad. No. 37, 1966</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Fourth Schedule</div>
+  </td>
+  <td>
+    <div>ad. No. 130, 1968</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 97, 1978</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 4</div>
+  </td>
+  <td>
+    <div>ad. No. 127, 1997</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+_International Monetary Agreements Amendment Act (No. 1) 2010 
+ (No. 58, 2010)_
+
+The following amendments commence on the day the amendments to the NAB Decision and the changes in credit arrangements of existing participants referred to in Decision No. 14577-(10/35), dated 12 April 2010, of the Executive Board of the International Monetary Fund, become effective. However, the amendments may not commence, _see_ subsection 2(1) (item 2):
+
+## Schedule 1
+
+## 1  Subsection 3(1) (definition of _New Arrangements to Borrow_)
+
+Omit “a copy of which is set out in Schedule 4”, substitute “a copy of which, as amended by Decision No. 14577-(10/35), dated 12 April 2010, of the Executive Board of the Fund, is set out in Schedule 4”.
+
+## 2  Paragraph 6(1)(b)
+
+Omit “, after that decision becomes effective”.
+
+## 3  Subsection 8B(1)
+
+Omit “, after the New Arrangements to Borrow have become effective,”.
+
+## 4  Subsection 8B(1)
+
+Omit “that decision”, substitute “the New Arrangements to Borrow”.
+
+## 5  Schedule 4 to the Act
+
+Repeal the Schedule, substitute:
+
+# Schedule 4—Decision No. 11428-(97/6), dated 27 January 1997, of the Executive Board of the Fund, as amended by Decision No. 14577-(10/35), dated 12 April 2010, of the Executive Board of the Fund
 
 _Note:       See subsection 3(1)._
 
@@ -3636,7 +4701,7 @@ _Note:       See subsection 3(1)._
 
 _Preamble_
 
-In order to enable the International Monetary Fund (the “Fund”) to fulfill more effectively its role in the international monetary system, a number of countries with the financial capacity to support the international monetary system have agreed to provide resources to the Fund up to specified amounts in accordance with the terms and conditions of this decision. As the Fund is a quota‑based institution, the credit arrangements provided for under the terms of this decision shall only be drawn upon when quota resources need to be supplemented in order to forestall or cope with an impairment of the international monetary system. In order to give effect to these intentions, the following terms and conditions are adopted under Article VII, Section 1(i) of the Fund’s Articles of Agreement.
+In order to enable the International Monetary Fund (the “Fund”) to fulfill more effectively its role in the international monetary system, a number of countries with the financial capacity to support the international monetary system have agreed to provide resources to the Fund up to specified amounts in accordance with the terms and conditions of this decision. As the Fund is a quota-based institution, the credit arrangements provided for under the terms of this decision shall only be drawn upon when quota resources need to be supplemented in order to forestall or cope with an impairment of the international monetary system. In order to give effect to these intentions, the following terms and conditions are adopted under Article VII, Section 1(i) of the Fund’s Articles of Agreement.
 
 Paragraph 1\. _Definitions_
 
@@ -3656,17 +4721,17 @@ Paragraph 1\. _Definitions_
 
 (vii)      “currency actually convertible” means currency included in the Fund’s quarterly financial transactions plan for transfers;
 
-(viii)     “drawer” means a member that purchases borrowed currency from the General Resources Account of the Fund;
+(viii)      “drawer” means a member that purchases borrowed currency from the General Resources Account of the Fund;
 
 (ix)       “indebtedness of the Fund” means the amount the Fund is committed to repay under a credit arrangement;
 
 (x)        “member” means a member of the Fund;
 
-(xi)       “participant” means a participating member or a participating institution;
+(xi)       “participant” means a participating member or a participating institution;
 
 (xii)      “participating institution” means an official institution of a member that has entered into a credit arrangement with the Fund with the consent of the member; and
 
-(xiii)     “participating member” means a member that has entered into a credit arrangement with the Fund.
+(xiii)      “participating member” means a member that has entered into a credit arrangement with the Fund.
 
 (b)        For the purposes of this decision, the Monetary Authority of Hong Kong (the “HKMA”) shall be regarded as an official institution of the member whose territories include Hong Kong, provided that:
 
@@ -3688,7 +4753,7 @@ Paragraph 3\. _Adherence_
 
 (b)        Any member or institution not specified in Annex I, may apply to become a participant at any time. Any such member or institution that wishes to become a participant shall, after consultation with the Fund, give notice of its willingness to adhere to this decision, and, if the Fund and participants representing 85 percent of total credit arrangements shall so agree, the member or institution may adhere in accordance with paragraph 3(c). When giving notice of its willingness to adhere under this paragraph 3(b), a member or institution shall specify the amount, expressed in special drawing rights, of the credit arrangement which it is willing to enter into, provided that the amount shall not be less than the credit arrangement of the participant with the smallest credit arrangement. The admission of a new participant shall lead to a proportional reduction in the credit arrangements of all existing participants whose credit arrangements are above that of the participant with the smallest credit arrangement: such proportional reduction in the credit arrangements of participants shall be in an aggregate amount equal to the amount of the new participant’s credit arrangement less any increase in total credit arrangements decided in accordance with paragraph 4(a), provided that no participant’s credit arrangement shall be reduced below the minimum amount set out in Annex I.
 
-(c)        A member or institution shall adhere to this decision by depositing with the Fund an instrument setting forth that it has adhered in accordance with its law and has taken all steps necessary to enable it to carry out the terms and conditions of this decision. On the deposit of the instrument the member or institution shall be a participant as of the date of the deposit or of the effective date of the amendments to this decision set out in Executive Board Decision No. 14577‑(10/35), adopted on April 12, 2010, whichever is later.
+(c)        A member or institution shall adhere to this decision by depositing with the Fund an instrument setting forth that it has adhered in accordance with its law and has taken all steps necessary to enable it to carry out the terms and conditions of this decision. On the deposit of the instrument the member or institution shall be a participant as of the date of the deposit or of the effective date of the amendments to this decision set out in Executive Board Decision No. 14577-(10/35), adopted on April 12, 2010, whichever is later.
 
 Paragraph 4\. _Changes in Amounts of Credit Arrangements_
 
@@ -3764,15 +4829,15 @@ Paragraph 12\. _Rates of Exchange_
 
 (a)        The value of any transfer shall be calculated as of the date of the dispatch of the instructions for the transfer. The calculation shall be made in terms of the special drawing right in accordance with Article XIX, Section 7(a) of the Articles, and the Fund shall be obliged to repay an equivalent value.
 
-(b)        For all of the purposes of this decision, the value of a currency in terms of the special drawing right shall be calculated by the Fund in accordance with Rule O‑2 of the Fund’s Rules and Regulations.
+(b)        For all of the purposes of this decision, the value of a currency in terms of the special drawing right shall be calculated by the Fund in accordance with Rule O-2 of the Fund’s Rules and Regulations.
 
 Paragraph 13\. _Transferability_
 
-(a)        No participant or non‑participant holder may transfer all or any part of its claim to repayment under a credit arrangement except (i) in accordance with this paragraph 13 or (ii) with the prior consent of the Fund and on such terms and conditions as the Fund may approve.
+(a)        No participant or non-participant holder may transfer all or any part of its claim to repayment under a credit arrangement except (i) in accordance with this paragraph 13 or (ii) with the prior consent of the Fund and on such terms and conditions as the Fund may approve.
 
-(b)        All or part of any claim to repayment under a credit arrangement may be transferred at any time to a participant or to a non‑participant that is either (i) a member of the Fund, (ii) the central bank or other fiscal agency designated by any member for purposes of Article V, Section 1 of the Articles (“other fiscal agency”), or (iii) an official entity that has been prescribed as a holder of special drawing rights pursuant to Article XVII, Section 3 of the Articles.
+(b)        All or part of any claim to repayment under a credit arrangement may be transferred at any time to a participant or to a non-participant that is either (i) a member of the Fund, (ii) the central bank or other fiscal agency designated by any member for purposes of Article V, Section 1 of the Articles (“other fiscal agency”), or (iii) an official entity that has been prescribed as a holder of special drawing rights pursuant to Article XVII, Section 3 of the Articles.
 
-(c)        As from the value date of the transfer, the transferred claim shall be held by the transferee on the same terms and conditions as claims originating under its credit arrangement (in the case of transferees that are participants) or as the claim was held by the transferor (in the case of transferees that are non‑participants), except that (i) the transferee shall have the right to request early repayment of the transferred claim on balance of payments grounds pursuant to paragraph 11(e) only if the transferee is a member, or an institution of a member, whose balance of payments and reserve position, at the time of the transfer, is considered sufficiently strong for its currency to be usable in transfers under the Fund’s financial transactions plan; (ii) if the transferee is a non‑participant, references to the participant’s currency shall be deemed to refer (A) if the transferee is a member, to the transferee’s currency, (B) if the transferee is an institution of a member, to the currency of that member, and (C) in other cases, to a freely usable currency as determined by the Fund; and (iii) claims transferred in accordance with this paragraph 13 shall be considered drawn balances of the first transferor participant for purposes of determining the available commitment under its credit arrangement, and claims obtained by a participant under a transfer shall not be considered drawn balances of the transferee for purposes of determining the available commitment under its credit arrangement.
+(c)        As from the value date of the transfer, the transferred claim shall be held by the transferee on the same terms and conditions as claims originating under its credit arrangement (in the case of transferees that are participants) or as the claim was held by the transferor (in the case of transferees that are non-participants), except that (i) the transferee shall have the right to request early repayment of the transferred claim on balance of payments grounds pursuant to paragraph 11(e) only if the transferee is a member, or an institution of a member, whose balance of payments and reserve position, at the time of the transfer, is considered sufficiently strong for its currency to be usable in transfers under the Fund’s financial transactions plan; (ii) if the transferee is a non-participant, references to the participant’s currency shall be deemed to refer (A) if the transferee is a member, to the transferee’s currency, (B) if the transferee is an institution of a member, to the currency of that member, and (C) in other cases, to a freely usable currency as determined by the Fund; and (iii) claims transferred in accordance with this paragraph 13 shall be considered drawn balances of the first transferor participant for purposes of determining the available commitment under its credit arrangement, and claims obtained by a participant under a transfer shall not be considered drawn balances of the transferee for purposes of determining the available commitment under its credit arrangement.
 
 (d)        The price for the claim transferred shall be as agreed between the transferee and the transferor.
 
@@ -3780,7 +4845,7 @@ Paragraph 13\. _Transferability_
 
 (f)        The transfer shall be registered by the Fund and the transferee shall become the holder of the claim if the transfer is in accordance with the terms and conditions of this decision. Subject to the foregoing, the transfer shall be effective as of the value date agreed between the transferee and the transferor.
 
-(g)        Notice to or by a transferee that is a non‑participant shall be in writing or by rapid means of communication and shall be given to or by the fiscal agency designated by the transferee in accordance with Article V, Section 1 of the Articles and Rule G‑1 of the Rules and Regulations of the Fund if the transferee is a member, or to or by the transferee directly if the transferee is not a member.
+(g)        Notice to or by a transferee that is a non-participant shall be in writing or by rapid means of communication and shall be given to or by the fiscal agency designated by the transferee in accordance with Article V, Section 1 of the Articles and Rule G-1 of the Rules and Regulations of the Fund if the transferee is a member, or to or by the transferee directly if the transferee is not a member.
 
 (h)        If all or part of a claim is transferred during a quarterly period as described in paragraph 9(b), the Fund shall pay interest to the transferee on the amount of the claim transferred for the whole of that period.
 
@@ -3792,7 +4857,7 @@ Paragraph 13\. _Transferability_
 
 Paragraph 14\. _Notices_
 
-Notice to or by a participating member under this decision shall be in writing or by rapid means of communication and shall be given to or by the fiscal agency of the participating member designated in accordance with Article V, Section 1 of the Articles and Rule G‑1 of the Rules and Regulations of the Fund. Notice to or by a participating institution shall be in writing or by rapid means of communication and shall be given to or by the participating institution.
+Notice to or by a participating member under this decision shall be in writing or by rapid means of communication and shall be given to or by the fiscal agency of the participating member designated in accordance with Article V, Section 1 of the Articles and Rule G-1 of the Rules and Regulations of the Fund. Notice to or by a participating institution shall be in writing or by rapid means of communication and shall be given to or by the participating institution.
 
 Paragraph 15\. _Amendment_
 
@@ -3838,9 +4903,9 @@ Paragraph 22\. _Other Borrowing Arrangements_
 
 Nothing in this decision shall preclude the Fund from entering into any other types of borrowing arrangements.
 
-Paragraph 23\. _Transitional Arrangements for Amendments Adopted Pursuant to Decision No. 14577‑(10/35), adopted on April 12, 2010_
+Paragraph 23\. _Transitional Arrangements for Amendments Adopted Pursuant to Decision No. 14577-(10/35), adopted on April 12, 2010_
 
-At the request of a participant that holds claims, either in the form of loans or notes, on the Fund under bilateral borrowing agreements entered into by the Fund prior to the effectiveness of the amendments to this decision set forth in Decision No. 14577‑(10/35), adopted on April 12, 2010, the Managing Director shall make calls under the credit arrangement of such a participant to fund the repayment of such claims. Similarly, at the request of the relevant participant, calls shall be made on a participant that is a participating institution for the repayment of such claims held by the member of which it is an official institution or by the central bank or other fiscal agency designated by the member, or on a participant that is a member for the repayment of such claims held by the central bank or other fiscal agency designated by the member. Notwithstanding paragraph 11(a), the maturity date of claims under credit arrangements arising from such calls shall be the maturity date of the bilateral borrowing agreement claim for whose repayment the call was made.
+At the request of a participant that holds claims, either in the form of loans or notes, on the Fund under bilateral borrowing agreements entered into by the Fund prior to the effectiveness of the amendments to this decision set forth in Decision No. 14577-(10/35), adopted on April 12, 2010, the Managing Director shall make calls under the credit arrangement of such a participant to fund the repayment of such claims. Similarly, at the request of the relevant participant, calls shall be made on a participant that is a participating institution for the repayment of such claims held by the member of which it is an official institution or by the central bank or other fiscal agency designated by the member, or on a participant that is a member for the repayment of such claims held by the central bank or other fiscal agency designated by the member. Notwithstanding paragraph 11(a), the maturity date of claims under credit arrangements arising from such calls shall be the maturity date of the bilateral borrowing agreement claim for whose repayment the call was made.
 
 Paragraph 24\. _Delay in Drawings_
 
@@ -4516,7 +5581,7 @@ No drawings shall be made under this decision until participants representing at
 
 **General Terms and Conditions for Notes Issued by the International Monetary Fund under the New Arrangements to Borrow (the “NAB”)**
 
-These are the General Terms and Conditions for the promissory notes (the “Notes”) issued by the International Monetary Fund (the “Fund”) in accordance with paragraphs 8 and 13(k) of Executive Board Decision No. 11428‑(97/6), January 27, 1997, on the New Arrangements to Borrow (the “NAB Decision”), as amended. Terms that are not otherwise defined in these General Terms and Conditions shall have the meaning ascribed to them in the NAB Decision.
+These are the General Terms and Conditions for the promissory notes (the “Notes”) issued by the International Monetary Fund (the “Fund”) in accordance with paragraphs 8 and 13(k) of Executive Board Decision No. 11428-(97/6), January 27, 1997, on the New Arrangements to Borrow (the “NAB Decision”), as amended. Terms that are not otherwise defined in these General Terms and Conditions shall have the meaning ascribed to them in the NAB Decision.
 
 Paragraph 1\. _Issuance of Notes to Participants and Other Holders._
 
@@ -4548,15 +5613,15 @@ Paragraph 4\. _Maturity; Repayment by the Fund._
 
 Paragraph 5\. _Rates of Exchange._
 
-For all of the purposes of these General Terms and Conditions, the value of a currency in terms of the special drawing right shall be calculated by the Fund in accordance with Rule O‑2 of the Fund’s Rules and Regulations.
+For all of the purposes of these General Terms and Conditions, the value of a currency in terms of the special drawing right shall be calculated by the Fund in accordance with Rule O-2 of the Fund’s Rules and Regulations.
 
 Paragraph 6\. _Transferability of Notes._
 
 (a)        A holder may not transfer all or any part of its Notes except (i) in accordance with this paragraph 6 or (ii) with the prior consent of the Fund and on such terms and conditions as the Fund may approve. Any other purported transfer by a participant or other holder shall be of no force or effect.
 
-(b)        All or part of any Note may be transferred at any time to a participant or to a non‑participant that is either (i) a member of the Fund, (ii) the central bank or other fiscal agency designated by any member for purposes of Article V, Section 1 of the Articles (“other fiscal agency”), or (iii) an official entity that has been prescribed as a holder of special drawing rights pursuant to Article XVII, Section 3 of the Articles.
+(b)        All or part of any Note may be transferred at any time to a participant or to a non-participant that is either (i) a member of the Fund, (ii) the central bank or other fiscal agency designated by any member for purposes of Article V, Section 1 of the Articles (“other fiscal agency”), or (iii) an official entity that has been prescribed as a holder of special drawing rights pursuant to Article XVII, Section 3 of the Articles.
 
-(c)        As from the value date of the transfer, the Note shall be held by the transferee on the same terms and conditions as Notes originating under its credit arrangement (in the case of transferees that are participants in the NAB), or as the Note was held by the transferor (in the case of transferees that are non‑participants in the NAB), except that (i) the transferee shall have the right to request early repayment of the transferred Note on balance of payments grounds pursuant to paragraph 11(e) of the NAB Decision only if the transferee is a member, or the institution of a member, whose balance of payment and reserve position, at the time of the transfer, is considered sufficiently strong for its currency to be usable in transfers under the Fund’s financial transactions plan, or, in the case of the HKMA, the balance of payments position of Hong Kong at the time of the transfer is, in the opinion of the Fund, sufficiently strong to justify such a right; (ii) if the transferee is a non‑participant, references in paragraph 11 of the NAB Decision to the participant’s currency shall be deemed to refer (A) if the transferee is a member, to the transferee’s currency, (B)  if the transferee is an institution of a member, to the currency of that member, and (C) in other cases, to a freely usable currency as determined by the Fund; and (iii) Notes transferred in accordance with this paragraph 6 shall be considered drawn balances of the first transferor participant for purposes of determining the available commitment under its credit arrangement, and Notes obtained by a transferee participant shall not be considered drawn balances of such participant for purposes of determining the available commitment under its credit arrangement.
+(c)        As from the value date of the transfer, the Note shall be held by the transferee on the same terms and conditions as Notes originating under its credit arrangement (in the case of transferees that are participants in the NAB), or as the Note was held by the transferor (in the case of transferees that are non-participants in the NAB), except that (i) the transferee shall have the right to request early repayment of the transferred Note on balance of payments grounds pursuant to paragraph 11(e) of the NAB Decision only if the transferee is a member, or the institution of a member, whose balance of payment and reserve position, at the time of the transfer, is considered sufficiently strong for its currency to be usable in transfers under the Fund’s financial transactions plan, or, in the case of the HKMA, the balance of payments position of Hong Kong at the time of the transfer is, in the opinion of the Fund, sufficiently strong to justify such a right; (ii) if the transferee is a non-participant, references in paragraph 11 of the NAB Decision to the participant’s currency shall be deemed to refer (A) if the transferee is a member, to the transferee’s currency, (B)  if the transferee is an institution of a member, to the currency of that member, and (C) in other cases, to a freely usable currency as determined by the Fund; and (iii) Notes transferred in accordance with this paragraph 6 shall be considered drawn balances of the first transferor participant for purposes of determining the available commitment under its credit arrangement, and Notes obtained by a transferee participant shall not be considered drawn balances of such participant for purposes of determining the available commitment under its credit arrangement.
 
 (d)        The price for the Note transferred shall be as agreed between the transferee and the transferor.
 
@@ -4566,7 +5631,7 @@ Paragraph 6\. _Transferability of Notes._
 
 (g)        The transferee of a Note may request at the time of transfer that the Note be exchanged by the Fund for a loan claim pursuant to paragraph 13(k) of the NAB Decision to be held by the transferee on the same substantive terms as the transferred Note.
 
-(h)        Notice to or by a transferee that is a non‑participant shall be in writing or by rapid means of communication and shall be given to or by the fiscal agency designated by the transferee in accordance with Article V, Section 1 of the Articles and Rule G‑1 of the Rules and Regulations of the Fund if the transferee is a member, or to or by the transferee itself if the transferee is not a member.
+(h)        Notice to or by a transferee that is a non-participant shall be in writing or by rapid means of communication and shall be given to or by the fiscal agency designated by the transferee in accordance with Article V, Section 1 of the Articles and Rule G-1 of the Rules and Regulations of the Fund if the transferee is a member, or to or by the transferee itself if the transferee is not a member.
 
 (i)         If all or part of a Note is transferred during a quarterly period as described in paragraph 3(b) of these General Terms and Conditions, the Fund shall pay interest to the transferee holder on the relevant interest payment date on the amount of the Note transferred for the whole of that period.
 
@@ -4578,7 +5643,7 @@ Paragraph 6\. _Transferability of Notes._
 
 Paragraph 7\. _Notices_
 
-Notice to or by a holder who is a participating member shall be in writing or by rapid means of communication and shall be given to or by the fiscal agency of the participating member designated in accordance with Article V, Section 1 of the Articles and Rule G‑1 of the Rules and Regulations of the Fund. Notice to or by a holder who is a participating institution shall be in writing or by rapid means of communication and shall be given to or by the participating institution.
+Notice to or by a holder who is a participating member shall be in writing or by rapid means of communication and shall be given to or by the fiscal agency of the participating member designated in accordance with Article V, Section 1 of the Articles and Rule G-1 of the Rules and Regulations of the Fund. Notice to or by a holder who is a participating institution shall be in writing or by rapid means of communication and shall be given to or by the participating institution.
 
 Paragraph 8\. _Interpretation._
 
@@ -4622,721 +5687,7 @@ The Fund shall pay interest on this Note at a rate equal to the combined market 
 
 \[Signatures]
 
- 
-
-# Notes to the _International Monetary Agreements Act 1947_
-
-### Note 1
-
-The _International Monetary Agreements Act 1947_ as shown in this compilation comprises Act No. 5, 1947 amended as indicated in the Tables below.
-
-For Acts relating to matters connected with the Agreements referred to in the _International Monetary Agreements Act 1947_ see the following: _International Monetary Agreements Act 1959_, _International Monetary Agreements Act 1960_,_International Monetary Agreements Act 1965_, _International Monetary Agreements Act 1970_ and the _International Monetary Agreements Act 1974_.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 22 February 2005 is not included in this compilation. For subsequent information _see_ Table A.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>International Monetary Agreements Act 1947</div>
-  </td>
-  <td>
-    <div>5, 1947</div>
-  </td>
-  <td>
-    <div>2 Apr 1947</div>
-  </td>
-  <td>
-    <div>2 Apr 1947</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Agreements Act 1963</div>
-  </td>
-  <td>
-    <div>53, 1963</div>
-  </td>
-  <td>
-    <div>18 Oct 1963</div>
-  </td>
-  <td>
-    <div><i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Agreements Act 1966</div>
-  </td>
-  <td>
-    <div>37, 1966</div>
-  </td>
-  <td>
-    <div>12 Sept 1966</div>
-  </td>
-  <td>
-    <div>12 Sept 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Agreements Act 1968</div>
-  </td>
-  <td>
-    <div>130, 1968</div>
-  </td>
-  <td>
-    <div>9 Dec 1968</div>
-  </td>
-  <td>
-    <div>Ss. 1–5 and 10: Royal Assent 
-Remainder: 4 Sept 1969 ( <i>see Gazette</i>1969, p. 5199)</div>
-  </td>
-  <td>
-    <div>Ss. 3(2), 4 and 5</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Agreements Amendment Act 1978</div>
-  </td>
-  <td>
-    <div>97, 1978</div>
-  </td>
-  <td>
-    <div>24 Aug 1978</div>
-  </td>
-  <td>
-    <div>24 Aug 1978</div>
-  </td>
-  <td>
-    <div>Ss. 17–20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Fund (Quota Increase and Agreement Amendments )Act 1991</div>
-  </td>
-  <td>
-    <div>182, 1991</div>
-  </td>
-  <td>
-    <div>6 Dec 1991</div>
-  </td>
-  <td>
-    <div>Part 3 (s. 8): 16 Dec 1992 ( <i>see Gazette</i>1993, No. GN50) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 3–7</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Agreements Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>127, 1997</div>
-  </td>
-  <td>
-    <div>15 Sept 1997</div>
-  </td>
-  <td>
-    <div>15 Sept 1997</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Agreements Amendment Act 1998</div>
-  </td>
-  <td>
-    <div>28, 1998</div>
-  </td>
-  <td>
-    <div>17 Apr 1998</div>
-  </td>
-  <td>
-    <div>17 Apr 1998</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Agreements Amendment Act (No. 1) 2001</div>
-  </td>
-  <td>
-    <div>1, 2001</div>
-  </td>
-  <td>
-    <div>2 Mar 2001</div>
-  </td>
-  <td>
-    <div>Schedule 1: 9 Sept 2009 ( <i>see</i>F2009L03357) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 160, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 351): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Agreements Amendment (Financial Assistance) Act 2009</div>
-  </td>
-  <td>
-    <div>57, 2009</div>
-  </td>
-  <td>
-    <div>26 June 2009</div>
-  </td>
-  <td>
-    <div>26 June 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Agreements Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>82, 2009</div>
-  </td>
-  <td>
-    <div>10 Sept 2009</div>
-  </td>
-  <td>
-    <div>10 Sept 2009</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Monetary Agreements Amendment Act (No. 1) 2010</div>
-  </td>
-  <td>
-    <div>58, 2010</div>
-  </td>
-  <td>
-    <div>24 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1: 11 Mar 2011 ( <i>see Gazette</i>2011, No. S43) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International Financial Institutions Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>133, 2010</div>
-  </td>
-  <td>
-    <div>24 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1: 25 Nov 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_     The _International Monetary Agreements Act 1963_ was repealed by section 3 of the _International Monetary Agreements Act 1968_ without a date for its commencement having been fixed. Section 3 commenced on 9 December 1968.
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1998; No. 57, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 37, 1966</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 130, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 97, 1978; No. 127, 1997; Nos. 57 and 82, 2009; No. 58, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rs. No. 37, 1966</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 130, 1968; No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 127, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 5B, 5C</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 127, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5D</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5E</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 97, 1978; No. 127, 1997; No. 58, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 7, 8</div>
-  </td>
-  <td>
-    <div>am. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8B</div>
-  </td>
-  <td>
-    <div>ad. No. 127, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8C</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8CA</div>
-  </td>
-  <td>
-    <div>ad. No. 57, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8D</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 57, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8E, 8F</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 133, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 130, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to First Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>First Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>ad. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 182, 1991; No. 1, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Second 
-Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Schedule 2</div>
-  </td>
-  <td>
-    <div>ad. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Third Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Schedule 3</div>
-  </td>
-  <td>
-    <div>ad. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Third Schedule</div>
-  </td>
-  <td>
-    <div>ad. No. 37, 1966</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fourth Schedule</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 97, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 4</div>
-  </td>
-  <td>
-    <div>ad. No. 127, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 58, 2010</div>
-  </td>
-</tr></table>
+As at 29 November 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
