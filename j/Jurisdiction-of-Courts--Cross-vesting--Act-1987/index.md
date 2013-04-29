@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00298/Html/JurisCourtCrosVest1987WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00264/Html/JurisCourtCrosVest1987WD02_image001.gif)
 
 # Jurisdiction of Courts (Cross-vesting) Act 1987
 
 **Act No. 24 of 1987 as amended**
 
-This compilation was prepared on 6 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 4 July 2008
+ taking into account amendments up to Act No. 42 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -149,12 +149,6 @@ jurisdiction is conferred on the court referred to in paragraph (b) with respe
                      (a)  the _Conciliation and Arbitration Act 1904_; or
 
                     (aa)  the _Building and Construction Industry Improvement Act 2005_; or
-
-                    (ab)  the _Fair Work Act 2009_; or
-
-                    (ac)  the _Fair Work (Registered Organisations) Act 2009_; or
-
-                    (ad)  the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_; or
 
                      (b)  the _Workplace Relations Act 1996_; or
 
@@ -578,8 +572,6 @@ _Shipping Registration Act 1981_
 
 _Trade Marks Act 1955_
 
- 
-
 # Notes to the _Jurisdiction of Courts (Cross-vesting) Act 1987_
 
 ### Note 1
@@ -964,23 +956,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 39): <i>(k)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Jurisdiction of Courts (Cross-vesting) Act 1987_ was amended by section 4 (Schedule \[in part]) only of the _Law and Justice Legislation Amendment Act (No. 3) 1992_, subsection 2(5) of which provides as follows:
@@ -1037,132 +1012,41 @@ _(j)_      Subsection 2(1) (item 2) of the _Designs (Consequential A
 <thead>
   <tr>
     <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
+      <div><b> Commencement information </b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
+      <div><b> Column 1 </b></div>
     </td>
     <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
+      <div><b> Column 2 </b></div>
     </td>
     <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
+      <div><b> Column 3 </b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
+      <div><b> Provision(s) </b></div>
     </td>
     <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
+      <div><b> Commencement </b></div>
     </td>
     <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
+      <div><b> Date/Details </b></div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
+    <div>2\. Schedules 1 and 2</div>
   </td>
   <td>
-    <div>
-      Immediately after the commencement of section 4 of the
-        <i>Designs Act 2003</i>.
-    </div>
+    <div>Immediately after the commencement of section 4 of the <i>Designs Act 2003</i>.</div>
   </td>
   <td>
-    <div>
-      17 June 2004
-    </div>
-  </td>
-</tr></table>
-
-_(k)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      13\. Schedule 5, items 32 to 64
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
-    </div>
+    <div>17 June 2004</div>
   </td>
 </tr></table>
 
@@ -1210,7 +1094,7 @@ _(k)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 87, 1988; No. 70, 1990; Nos. 98 and 110, 1993; No. 60, 1996; No. 34, 1997; No. 112, 2005; No. 54, 2009</div>
+    <div>am. No. 87, 1988; No. 70, 1990; Nos. 98 and 110, 1993; No. 60, 1996; No. 34, 1997; No. 112, 2005</div>
   </td>
 </tr>
 <tr>
