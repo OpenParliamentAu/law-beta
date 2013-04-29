@@ -1,5808 +1,12719 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="9FECEA70BB12FD76CA256FBD002184F1/$FILE/image001.png"></v:imagedata></v:shape><o:p></o:p>
+**
 
-# Proceeds of Crime Act 1987<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987 
+**
 
-**Act No. 87 of 1987 as amended<o:p></o:p>**
 
-This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="3" month="3">3 March 2005</st1:date>
-taking into account amendments up to Act No. 8 of 2005<o:p></o:p>
+**
 
-The text of any of those amendments not in force 
-on that date is appended in the Notes section<o:p></o:p>
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, 
-<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
 
 
-# Contents<o:p></o:p>
 
-**Part I—Preliminary<span style="mso-tab-count: 1">                                                                                                                </span>**
 
-[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Principal objects<span style="mso-tab-count: 1 dotted">                                                                                  </span>
+**
 
-[4](#4).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
+###  Long Title 
+**
+**
 
-[5](#5).            Meaning of _conviction_ etc  of offence<span style="mso-tab-count: 1 dotted">                                                </span>
+###  PROCEEDS OF CRIME ACT 1987<part>Part&#160;I&#151;Preliminary </part>
+**
+###  PROCEEDS OF CRIME ACT 1987- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Proceeds of Crime Act 1987_.
 
-[6](#6).            Meaning of _absconding_<span style="mso-tab-count: 1 dotted">                                                                     </span>
+ 
+###  PROCEEDS OF CRIME ACT 1987- SECT 2  Commencement [_see_ Note 1] 
+This Act shall come into operation on the day on which it receives the Royal
 
-[7](#7).            Meaning of _public fraud offence_ and _serious offence_<span style="mso-tab-count: 1 dotted">                         </span>
+Assent.
 
-[8](#8).            Related offences<span style="mso-tab-count: 1 dotted">                                                                                 </span>
+ 
+###  PROCEEDS OF CRIME ACT 1987- SECT 3  Principal objects 
+<dt>(1)</dt><dd>The principal objects of this Act are:
 
-[9](#9).            Meaning of _dealing with property_<span style="mso-tab-count: 1 dotted">                                                      </span>
+</dd> 
+<dl compact=""><dl compact="">
 
-[9A](#9A).         Effective control of property<span style="mso-tab-count: 1 dotted">                                                            </span>
+<dt>(a)</dt><dd>to deprive persons of the proceeds of, and benefits derived from, the
 
-[10](#10).          Appropriate court in relation to indictable offence<span style="mso-tab-count: 1 dotted">                           </span>
+commission of offences against the laws of the Commonwealth or the
 
-[11](#11).          Act to bind Crown<span style="mso-tab-count: 1 dotted">                                                                             </span>
+Territories;</dd>
 
-[12](#12).          Act to apply both within and outside Australia<span style="mso-tab-count: 1 dotted">                               </span>
+<dt>(b)</dt><dd>to provide for the forfeiture of property used in or in connection with
 
-[13](#13).          Application<span style="mso-tab-count: 1 dotted">                                                                                        </span>
+the commission of such offences; and</dd>
 
-[13A](#13A).       Application of the _Criminal Code_<span style="mso-tab-count: 1 dotted">                                                     </span>
+<dt>(c)</dt><dd>to enable law enforcement authorities effectively to trace such proceeds,
 
-**Part II—Confiscation<span style="mso-tab-count: 1">                                                                                                          </span>** 
+benefits and property.
 
-    **Division 1—Application for confiscation order<span style="mso-tab-count: 1">                                             </span>**
+</dd>
 
-[14](#14).          Application for confiscation order<span style="mso-tab-count: 1 dotted">                                                    </span>
+</dl></dl>
+<dt>(2)</dt><dd>The objects of this Act include the objects of:
 
-[15](#15).          Notice of application<span style="mso-tab-count: 1 dotted">                                                                         </span>
+</dd> 
+<dl compact=""><dl compact="">
 
-[16](#16).          Amendment of application<span style="mso-tab-count: 1 dotted">                                                                </span>
+<dt>(a)</dt><dd>providing for the enforcement in the Territories of forfeiture orders,
 
-[17](#17).          Making of confiscation order where person has absconded<span style="mso-tab-count: 1 dotted">              </span>
+pecuniary penalty orders and restraining orders made in respect of offences
 
-[18](#18).          Procedure on application<span style="mso-tab-count: 1 dotted">                                                                   </span>
+against the laws of the States;</dd>
 
-    **Division 2—Forfeiture orders<span style="mso-tab-count: 1">                                                                                </span>**
+<dt>(b)</dt><dd>facilitating the enforcement in Australia, pursuant to the Mutual
 
-[19](#19).          Forfeiture orders<span style="mso-tab-count: 1 dotted">                                                                                </span>
+Assistance Act, of forfeiture orders, pecuniary penalty orders and restraining
 
-[20](#20).          Effects of forfeiture order<span style="mso-tab-count: 1 dotted">                                                                  </span>
+orders made in respect of foreign serious offences; and</dd>
 
-[21](#21).          Effect of forfeiture order on third parties<span style="mso-tab-count: 1 dotted">                                          </span>
+<dt>(c)</dt><dd>assisting foreign countries, pursuant to the Mutual Assistance Act, to
 
-[22](#22).          Discharge of forfeiture order on appeal or by quashing of conviction<span style="mso-tab-count: 1 dotted"> </span>
+trace the proceeds of, benefits derived from and property used in or in
 
-    **Division 2A—Registered foreign and international forfeiture orders<span style="mso-tab-count: 1"> </span>**
+connection with the commission of foreign serious offences.
 
-[23](#23).          Registered foreign and international forfeiture orders<span style="mso-tab-count: 1 dotted">                        </span>
+</dd>
 
-[23A](#23A).       Effect on third parties of registration of foreign or international forfeiture order<span style="mso-tab-count: 1">    </span>
+</dl></dl>
+###  PROCEEDS OF CRIME ACT 1987- SECT 4  Interpretation 
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-    **Division 3—Pecuniary penalty orders<span style="mso-tab-count: 1">                                                               </span>**
+</dd> 
+<dl compact=""><dl compact="">
 
-[24](#24).          Application of Division<span style="mso-tab-count: 1 dotted">                                                                     </span>
+_ACC_ means the Australian Crime Commission. _account_ means any facility or arrangement through which a financial institution accepts deposits or allows withdrawals and includes a facility or arrangement for:  </dl></dl>
 
-[25](#25).          Special provisions in relation to serious offences<span style="mso-tab-count: 1 dotted">                              </span>
+<dl compact=""><dl compact=""><dl compact="">
 
-[26](#26).          Pecuniary penalty orders<span style="mso-tab-count: 1 dotted">                                                                   </span>
+<dt>(a)</dt><dd>a fixed term deposit; and</dd>
 
-[27](#27).          Assessment of pecuniary penalty<span style="mso-tab-count: 1 dotted">                                                     </span>
+<dt>(b)</dt><dd>a safety deposit box.
 
-[28](#28).          Court may lift corporate veil etc <span style="mso-tab-count: 1 dotted">                                                      </span>
+</dd>
 
-[29](#29).          Amounts paid in respect of registered foreign pecuniary penalty orders<span style="mso-tab-count: 1">                </span>
+</dl></dl></dl>
 
-    **Division 4—Forfeiture in case of serious offence<span style="mso-tab-count: 1">                                       </span>**
+<center>Back to Top</center>
 
-[30](#30).          Forfeiture of all restrained property if person convicted of serious offence<span style="mso-tab-count: 1">           </span>
+<def><dl compact=""><dl compact="">
 
-[30A](#30A).       Extension of waiting period<span style="mso-tab-count: 1 dotted">                                                               </span>
+_ADI_ (authorised deposit-taking institution) means:
 
-[31](#31).          Recovery of property to which section 30 applies<span style="mso-tab-count: 1 dotted">                           </span>
+ </dl></dl>
 
-[32](#32).          Effect of quashing of conviction<span style="mso-tab-count: 1 dotted">                                                        </span>
+<dl compact=""><dl compact=""><dl compact="">
 
-    **Division 5—Miscellaneous<span style="mso-tab-count: 1">                                                                                      </span>**
+<dt>(a)</dt><dd>a body corporate that is an ADI for the purposes of the _Banking Act 1959_; or</dd>
 
-[33](#33).          Person with interest in forfeited property may buy back the interest<span style="mso-tab-count: 1 dotted"> </span>
+<dt>(b)</dt><dd>the Reserve Bank of Australia; or</dd>
 
-[34](#34).          Buying out other interests in forfeited property<span style="mso-tab-count: 1 dotted">                               </span>
+<dt>(c)</dt><dd>a person who carries on State banking within the meaning of paragraph
 
-**Part IIA—Confiscated Assets Special Account<span style="mso-tab-count: 1">                                                   </span>**
+51(xiii) of the Constitution.
 
-[34A](#34A).       Confiscated Assets Special Account<span style="mso-tab-count: 1 dotted">                                                 </span>
+</dd>
 
-[34B](#34B).       Credits to Confiscated Assets Special Account<span style="mso-tab-count: 1 dotted">                                </span>
+</dl></dl></dl>
 
-[34C](#34C).       Debits from the Confiscated Assets Special Account<span style="mso-tab-count: 1 dotted">                       </span>
+<def><dl compact=""><dl compact="">
 
-[34D](#34D).       Debiting balance of distributable funds standing to the credit of Confiscated Assets Special Account<span style="mso-tab-count: 1">  </span>
+_AFP member_ means a member or special member of the Australian
 
-[34E](#34E).        Determinations by Official Trustee about suspended and distributable funds<span style="mso-tab-count: 1">       </span>
+Federal Police. _agent_ includes, if the agent is a corporation, the officers and agents of the corporation. _appropriate officer_ means the DPP or a person in a class of persons declared by the regulations to be within this definition. _approved_ means approved by the Minister in writing for the purposes of the provision in which the term occurs. _Australia_, when used in a geographical sense, includes the external Territories. _Bankruptcy Act_ means the _Bankruptcy Act 1966_. _benefit_ includes service or advantage. _commencement of the Proceeds of Crime Act 2002_ means the commencement of sections&#160;3 to 338 of the _Proceeds of Crime Act 2002_. _Commissioner_ means the Commissioner of the Australian Federal Police. _confiscation order_ means a forfeiture order or a pecuniary penalty order. _co-operative housing society_ means a society registered or incorporated as a co-operative housing society or similar society under a law of a State or Territory. _corresponding law_ means a law of a State that is declared by the regulations to be a law that corresponds to this Act. _Crimes Act_ means the _Crimes Act 1914_. _criminal investigation_, in relation to a foreign serious offence, has the same meaning as in the Mutual Assistance Act. _criminal proceeding_, in relation to a foreign serious offence, has the same meaning as in the Mutual Assistance Act. _Customs Act_ means the _Customs Act 1901_. _Customs officer_ means an officer of Customs within the meaning of the Customs Act. _director_, in relation to a financial institution or a corporation, means:  </dl></dl>
 
-**Part III—Control of property liable to confiscation<span style="mso-tab-count: 1">                                          </span>** 
+<dl compact=""><dl compact=""><dl compact="">
 
-    **Division 1—Search powers<span style="mso-tab-count: 1">                                                                                      </span>**
+<dt>(a)</dt><dd>if the institution or corporation is a body corporate incorporated for a
 
-[35](#35).          Powers to search for, and seize, tainted property<span style="mso-tab-count: 1 dotted">                             </span>
+public purpose by a law of the Commonwealth, of a State or of a Territory&#151;a
 
-[36](#36).          Search warrants in relation to tainted property<span style="mso-tab-count: 1 dotted">                                 </span>
+constituent member of the body corporate;</dd>
 
-[37](#37).          Search warrants may be granted by telephone<span style="mso-tab-count: 1 dotted">                                  </span>
+<dt>(b)</dt><dd>any person occupying or acting in the position of director of the
 
-[38](#38).          Searches in emergencies<span style="mso-tab-count: 1 dotted">                                                                     </span>
+institution or corporation, by whatever name called and whether or not validly
 
-[39](#39).          Responsibility for seized property<span style="mso-tab-count: 1 dotted">                                                   </span>
+appointed to occupy or duly authorised to act in the position; and</dd>
 
-[40](#40).          Return of seized property<span style="mso-tab-count: 1 dotted">                                                                 </span>
+<dt>(c)</dt><dd>any person in accordance with whose directions or instructions the
 
-[41](#41).          Issue of search warrants by Territory courts in relation to interstate indictable offences<span style="mso-tab-count: 1">      </span>
+directors of the institution or corporation are accustomed to act.
 
-[42](#42).          Search for and seizure of tainted property in relation to foreign offences<span style="mso-tab-count: 1">               </span>
+</dd>
 
-    **Division 2—Restraining orders<span style="mso-tab-count: 1">                                                                            </span>**
+</dl></dl></dl>
 
-[43](#43).          Restraining orders<span style="mso-tab-count: 1 dotted">                                                                              </span>
+<def><dl compact=""><dl compact="">
 
-[44](#44).          Grounds for making restraining order<span style="mso-tab-count: 1 dotted">                                                </span>
+_distributable funds_ means money in the Reserve that is:
 
-[45](#45).          Notice of application for restraining order<span style="mso-tab-count: 1 dotted">                                        </span>
+ </dl></dl>
 
-[45A](#45A).       Extension of certain restraining orders<span style="mso-tab-count: 1 dotted">                                               </span>
+<dl compact=""><dl compact=""><dl compact="">
 
-[46](#46).          Persons who may appear and adduce evidence<span style="mso-tab-count: 1 dotted">                                 </span>
+<dt>(a)</dt><dd>identified as distributable funds in accordance with the regulations
 
-[47](#47).          Notice of restraining orders<span style="mso-tab-count: 1 dotted">                                                               </span>
+(other than such money as is identified by the Official Trustee under
 
-[48](#48).          Court may make further orders<span style="mso-tab-count: 1 dotted">                                                         </span>
+subsection 34E(2) as suspended funds); or</dd>
 
-[48A](#48A).       Order for taxation of legal expenses to be met out of restrained property<span style="mso-tab-count: 1">              </span>
+<dt>(b)</dt><dd>identified by the Official Trustee under subsection 34E(3) as
 
-[49](#49).          Official Trustee to discharge pecuniary penalty<span style="mso-tab-count: 1 dotted">                               </span>
+distributable funds.
 
-[50](#50).          Charge on property subject to restraining order<span style="mso-tab-count: 1 dotted">                                </span>
+</dd>
 
-[51](#51).          Registration of restraining orders<span style="mso-tab-count: 1 dotted">                                                       </span>
+</dl></dl></dl>
 
-[52](#52).          Contravention of restraining orders<span style="mso-tab-count: 1 dotted">                                                   </span>
+<def><dl compact=""><dl compact="">
 
-[54](#54).          Protection of Official Trustee from personal liability in certain cases<span style="mso-tab-count: 1 dotted"> </span>
+_DPP_ means the Director of Public Prosecutions. _encumbrance_, in relation to property, includes any interest, mortgage, charge, right, claim or demand in respect of the property. _equitable sharing program_ means an arrangement under which any or all of the following happen:  </dl></dl>
 
-[55](#55).          Costs etc  payable to Official Trustee<span style="mso-tab-count: 1 dotted">                                               </span>
+<center>Back to Top</center>
 
-[56](#56).          Court may revoke restraining orders<span style="mso-tab-count: 1 dotted">                                                 </span>
+<dl compact=""><dl compact=""><dl compact="">
 
-[57](#57).          When restraining order ceases to be in force<span style="mso-tab-count: 1 dotted">                                      </span>
+<dt>(a)</dt><dd>the Commonwealth shares with a participating State a proportion of any
 
-[58](#58).          Notice of applications under this Division<span style="mso-tab-count: 1 dotted">                                        </span>
+proceeds of any unlawful activity recovered under a Commonwealth law, where, in
 
-[59](#59).          Interim restraining order may be made in respect of foreign offence<span style="mso-tab-count: 1 dotted"> </span>
+the opinion of the Attorney-General, that State has made a significant
 
-[60](#60).          Registered foreign restraining orders—general<span style="mso-tab-count: 1 dotted">                                   </span>
+contribution to the recovery of those proceeds or to the investigation or
 
-[61](#61).          Registered foreign restraining orders—court may direct Official Trustee to take custody and control of property<span style="mso-tab-count: 1 dotted">                                                                                                         </span>
+prosecution of the relevant unlawful activity;</dd>
 
-[62](#62).          Registered foreign restraining orders—undertakings<span style="mso-tab-count: 1 dotted">                       </span>
+<dt>(b)</dt><dd>each participating State shares with the Commonwealth any proceeds
 
-[63](#63).          Discharge of certain registered foreign pecuniary penalty orders<span style="mso-tab-count: 1 dotted">    </span>
+resulting from a breach of the criminal law of that State where, in the opinion
 
-[64](#64).          Registered foreign restraining orders—charge on property subject to order<span style="mso-tab-count: 1">           </span>
+of the appropriate Minister of that State, officers of a law enforcement agency
 
-[65](#65).          Registered foreign restraining orders—time when order ceases to be in force<span style="mso-tab-count: 1">         </span>
+of the Commonwealth have made a significant contribution to the recovery of
 
-**Part IV—Information gathering powers<span style="mso-tab-count: 1">                                                                 </span>** 
+those proceeds;</dd>
 
-    **Division 1—Production orders<span style="mso-tab-count: 1">                                                                            </span>**
+<dt>(c)</dt><dd>the Commonwealth shares with a foreign country a proportion of any
 
-[66](#66).          Production orders<span style="mso-tab-count: 1 dotted">                                                                            </span>
+proceeds of any unlawful activity recovered under a Commonwealth law where, in
 
-[67](#67).          Variation of production orders<span style="mso-tab-count: 1 dotted">                                                        </span>
+the opinion of the Attorney-General, the foreign country has made a significant
 
-[68](#68).          Failure to comply with production order<span style="mso-tab-count: 1 dotted">                                        </span>
+contribution to the recovery of those proceeds or to the investigation or
 
-[69](#69).          Production orders in relation to foreign offences<span style="mso-tab-count: 1 dotted">                             </span>
+prosecution of the unlawful activity.
 
-    **Division 2—Search powers<span style="mso-tab-count: 1">                                                                                    </span>**
+</dd>
 
-[70](#70).          Powers to search for, and seize, documents relevant to locating etc  property<span style="mso-tab-count: 1">       </span>
+</dl></dl></dl>
 
-[71](#71).          Search warrant for location etc  of property<span style="mso-tab-count: 1 dotted">                                   </span>
+<def><dl compact=""><dl compact="">
 
-[72](#72).          Search warrants in relation to foreign offences<span style="mso-tab-count: 1 dotted">                                </span>
+_executive officer_, in relation to a financial institution or a
 
-    **Division 3—Monitoring orders<span style="mso-tab-count: 1">                                                                           </span>**
+corporation, means any person, by whatever name called and whether or not he or
 
-[73](#73).          Monitoring orders<span style="mso-tab-count: 1 dotted">                                                                            </span>
+she is a director of the institution or corporation, who is concerned, or takes
 
-[74](#74).          Existence and operation of monitoring order not to be disclosed<span style="mso-tab-count: 1 dotted">    </span>
+part, in the management of the institution or corporation. _facsimile copy_ means a copy obtained by facsimile transmission. _financial institution_ means:  </dl></dl>
 
-[75](#75).          Monitoring orders in relation to foreign offences<span style="mso-tab-count: 1 dotted">                            </span>
+<dl compact=""><dl compact=""><dl compact="">
 
-**Part V—Offences<span style="mso-tab-count: 1">                                                                                                                </span>** 
+<dt>(a)</dt><dd>an ADI; or</dd>
 
-    **Division 3—Miscellaneous<span style="mso-tab-count: 1">                                                                                    </span>**
+<dt>(b)</dt><dd>a co-operative housing society; or</dd>
 
-[84](#84).          Prosecution of offences<span style="mso-tab-count: 1 dotted">                                                                   </span>
+<dt>(d)</dt><dd>a body corporate that is, or that, if it had been incorporated in
 
-[85](#85).          Conduct by directors, servants or agents<span style="mso-tab-count: 1 dotted">                                        </span>
+Australia, would be, a financial corporation within the meaning of paragraph
 
-**Part VI—Enforcement of State orders in Territories<span style="mso-tab-count: 1">                                     </span>** 
+51(xx) of the Constitution.
 
-    **Division 1—Interstate restraining orders<span style="mso-tab-count: 1">                                                     </span>**
+</dd>
 
-[86](#86).          Registration of interstate restraining orders<span style="mso-tab-count: 1 dotted">                                     </span>
+</dl></dl></dl>
 
-[87](#87).          Effect of registration<span style="mso-tab-count: 1 dotted">                                                                        </span>
+<def><dl compact=""><dl compact="">
 
-[88](#88).          Duration of registration<span style="mso-tab-count: 1 dotted">                                                                   </span>
+_fixed term deposit_ means an interest bearing deposit lodged for a
 
-[89](#89).          Cancellation of registration<span style="mso-tab-count: 1 dotted">                                                              </span>
+fixed period. _foreign forfeiture order_ has the same meaning as in the Mutual Assistance Act. _foreign pecuniary penalty order_ has the same meaning as in the Mutual Assistance Act. _foreign restraining order_ has the same meaning as in the Mutual Assistance Act. _foreign serious offence_ has the same meaning as in the Mutual Assistance Act. _forfeiture order_ means an order under subsection 19(1). _GBE_ means a prescribed government business enterprise. _indictable offence_ means an offence against a law of the Commonwealth, or a law of a Territory, that may be dealt with as an indictable offence (even if it may, in some circumstances, be dealt with as a summary offence). _interest_, in relation to property, means:  </dl></dl>
 
-[90](#90).          Charge on property subject to registered interstate restraining order<span style="mso-tab-count: 1 dotted"> </span>
+<dl compact=""><dl compact=""><dl compact="">
 
-[91](#91).          Powers of Official Trustee in relation to interstate restraining orders<span style="mso-tab-count: 1 dotted"> </span>
+<dt>(a)</dt><dd>a legal or equitable estate or interest in the property; or</dd>
 
-    **Division 2—Interstate forfeiture orders<span style="mso-tab-count: 1">                                                        </span>**
+<dt>(b)</dt><dd>a right, power or privilege in connection with the property;
 
-[92](#92).          Registration of interstate forfeiture orders<span style="mso-tab-count: 1 dotted">                                      </span>
+</dd>
 
-[93](#93).          Effect of registration<span style="mso-tab-count: 1 dotted">                                                                        </span>
+</dl></dl></dl>
 
-[94](#94).          Duration of registration<span style="mso-tab-count: 1 dotted">                                                                   </span>
+whether present or future and whether vested or contingent.
 
-[95](#95).          Cancellation of registration<span style="mso-tab-count: 1 dotted">                                                              </span>
+<def><dl compact=""><dl compact="">
 
-    **Division 3—Miscellaneous<span style="mso-tab-count: 1">                                                                                    </span>**
+_interstate forfeiture order_ means an order that is made under a
 
-[96](#96).          Interim registration of facsimile copies<span style="mso-tab-count: 1 dotted">                                            </span>
+corresponding law and is of a kind declared by the regulations to be within
 
-**Part VII—Miscellaneous<span style="mso-tab-count: 1">                                                                                                </span>**
+this definition. _interstate indictable offence_ means an offence against a law of a State, being an offence in relation to which an interstate forfeiture order or an interstate pecuniary penalty order may be made under a corresponding law of that State. _interstate pecuniary penalty order_ means an order that is made under a corresponding law and is of a kind declared by the regulations to be within this definition. _interstate restraining order_ means an order that is made under a corresponding law and is of a kind declared by the regulations to be within this definition. _law enforcement authority_ means the Australian Federal Police or the ACC. _magistrate_ includes a justice of the peace. _magistrate&apos;s court_ means a court of summary jurisdiction constituted by a Stipendiary Magistrate, a Police Magistrate or a Special Magistrate. _Mutual Assistance Act_ means the _Mutual Assistance in Criminal Matters Act 1987_. _narcotic substance_ means:  </dl></dl>
 
-[96A](#96A).       Organised fraud orders<span style="mso-tab-count: 1 dotted">                                                                     </span>
+<center>Back to Top</center>
 
-[97](#97).          Dealings with forfeited property<span style="mso-tab-count: 1 dotted">                                                     </span>
+<dl compact=""><dl compact=""><dl compact="">
 
-[98](#98).          State and Territory courts to have jurisdiction<span style="mso-tab-count: 1 dotted">                                </span>
+<dt>(a)</dt><dd>a narcotic substance within the meaning of the Customs Act; or</dd>
 
-[99](#99).          Standard of proof<span style="mso-tab-count: 1 dotted">                                                                             </span>
+<dt>(b)</dt><dd>a substance declared by the regulations to be a substance to which this
 
-[100](#100).        Appeals<span style="mso-tab-count: 1 dotted">                                                                                           </span>
+definition applies.
 
-[101](#101).        Costs<span style="mso-tab-count: 1 dotted">                                                                                                </span>
+</dd>
 
-[102](#102).        Legal assistance<span style="mso-tab-count: 1 dotted">                                                                                </span>
+</dl></dl></dl>
 
-[102A](#102A).     Indemnification of Official Trustee<span style="mso-tab-count: 1 dotted">                                                 </span>
+<def><dl compact=""><dl compact="">
 
-[103](#103).        Operation of other laws not affected<span style="mso-tab-count: 1 dotted">                                               </span>
+_officer_ means a director, secretary, executive officer or
 
-[104](#104).        Regulations<span style="mso-tab-count: 1 dotted">                                                                                      </span>
+employee. _Official Trustee_ means the Official Trustee in Bankruptcy. _ordinary indictable offence_ means an indictable offence that is not a serious offence. _pecuniary penalty order_ means an order under subsection 26(1). _penalty amount_, in relation to a pecuniary penalty order against a person, means the amount that the person is liable to pay the Commonwealth under the order. _petition_ means a petition under the Bankruptcy Act. _police officer_ means:  </dl></dl>
 
-**Notes<span style="mso-tab-count: 1">                                                                                                                                          </span>**
+<dl compact=""><dl compact=""><dl compact="">
 
-<o:p></o:p>
+<dt>(a)</dt><dd>an AFP member; or</dd>
 
+<dt>(b)</dt><dd>a member of the police force of a State or Territory.
 
-## An Act to provide for confiscation of the proceeds of crime, and for related purposes<o:p></o:p>
+</dd>
 
-## Part I—Preliminary<o:p></o:p>
+</dl></dl></dl>
 
-##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal"> </span><span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span><o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                   This Act may be cited as the _Proceeds of Crime Act 1987_.<o:p></o:p>
+_premises_ includes:
 
-##### <a id="2"></a>2  Commencement<span style="FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> </span><span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span><o:p></o:p>
+ </dl></dl>
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="3"></a>3  Principal objects<o:p></o:p>
+<dt>(a)</dt><dd>a structure, building, aircraft, vehicle or vessel;</dd>
 
-             (1)  The principal objects of this Act are:<o:p></o:p>
+<dt>(b)</dt><dd>a place (whether enclosed or built upon or not); and</dd>
 
-                     (a)  to deprive persons of the proceeds of, and benefits derived from, the commission of offences against the laws of the Commonwealth or the Territories;<o:p></o:p>
+<dt>(c)</dt><dd>a part of premises (including premises of a kind referred to in
 
-                     (b)  to provide for the forfeiture of property used in or in connection with the commission of such offences; and<o:p></o:p>
+paragraph&#160;(a) or (b)).
 
-                     (c)  to enable law enforcement authorities effectively to trace such proceeds, benefits and property.<o:p></o:p>
+</dd>
 
-             (2)  The objects of this Act include the objects of:<o:p></o:p>
+</dl></dl></dl>
 
-                     (a)  providing for the enforcement in the Territories of forfeiture orders, pecuniary penalty orders and restraining orders made in respect of offences against the laws of the States;<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (b)  facilitating the enforcement in Australia, pursuant to the Mutual Assistance Act, of forfeiture orders, pecuniary penalty orders and restraining orders made in respect of foreign serious offences; and<o:p></o:p>
+_prescribed officer_ means an SES employee or acting SES employee
 
-                     (c)  assisting foreign countries, pursuant to the Mutual Assistance Act, to trace the proceeds of, benefits derived from and property used in or in connection with the commission of foreign serious offences.<o:p></o:p>
+in the Attorney-General's Department. _prescribed time_, in relation to a warrant issued under Division&#160;1 of Part&#160;III in relation to property, means:  </dl></dl>
 
-##### <a id="4"></a>4  Interpretation<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  In this Act, unless the contrary intention appears:<o:p></o:p>
+<dt>(a)</dt><dd>where an information is laid in respect of the relevant offence either
 
-                    <a name="acc"></a>**_ACC_** means the Australian Crime Commission.<o:p></o:p>
+before the warrant is issued or within 48 hours after the warrant is
 
-                    <a name="account"></a>**_account_** means any facility or arrangement through which a financial institution accepts deposits or allows withdrawals and includes a facility or arrangement for:<o:p></o:p>
+issued&#151;the day that is one month after the date of the issue of the warrant;
 
-                     (a)  a fixed term deposit; and<o:p></o:p>
+or</dd>
 
-                     (b)  a safety deposit box.<o:p></o:p>
+<dt>(b)</dt><dd>in any other case&#151;the time that is 48 hours after the time of the issue
 
-                    <a name="adi"></a>**_ADI_** (authorised deposit-taking institution) means:<o:p></o:p>
+of the warrant.
 
-                     (a)  a body corporate that is an ADI for the purposes of the _Banking Act 1959_; or<o:p></o:p>
+</dd>
 
-                     (b)  the Reserve Bank of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or<o:p></o:p>
+</dl></dl></dl>
 
-                     (c)  a person who carries on State banking within the meaning of paragraph 51(xiii) of the Constitution.<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                    <a name="afp-member"></a>**_AFP member_** means a member or special member of the Australian Federal Police.<o:p></o:p>
+_proceeds_, in relation to an offence, means any property that is
 
-                    <a name="agent"></a>**_agent_** includes, if the agent is a corporation, the officers and agents of the corporation.<o:p></o:p>
+derived or realised, directly or indirectly, by any person from the commission
 
-                    <a name="appropri-offic"></a>**_appropriate officer_** means the DPP or a person in a class of persons declared by the regulations to be within this definition.<o:p></o:p>
+of the offence. _proceeds of confiscated assets_ means the following:  </dl></dl>
 
-                    <a name="approved"></a>**_approved_** means approved by the Minister in writing for the purposes of the provision in which the term occurs.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="australia"></a><st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">**_Australia_**</st1:place></st1:country-region>, when used in a geographical sense, includes the external Territories.<o:p></o:p>
+<dt>(a)</dt><dd>the remainder of the proceeds referred to in paragraph 9A(c) of the
 
-                    <a name="bankruptci-act"></a>**_Bankruptcy Act_** means the _Bankruptcy Act 1966_.<o:p></o:p>
+_Crimes Act 1914_;</dd>
 
-                    <a name="benefit"></a>**_benefit_** includes service or advantage.<o:p></o:p>
+<dt>(b)</dt><dd>the money referred to in paragraph 208DA(3)(a) of the _Customs Act 1901_;</dd>
 
-                    <a name="commenc-proce-crime-act-2002"></a>**_commencement of the Proceeds of Crime Act 2002_** means the commencement of sections 3 to 338 of the _Proceeds of Crime Act 2002_.<o:p></o:p>
+<dt>(c)</dt><dd>the remainder of the proceeds referred to in paragraph 208DA(3)(b) of the
 
-                    <a name="commission"></a>**_Commissioner_** means the Commissioner of the Australian Federal Police.<o:p></o:p>
+_Customs Act 1901_;</dd>
 
-                    <a name="confisc-asset-special-account"></a>**_Confiscated Assets Special Account_** means the Account continued in existence under section 34A.
+<dt>(d)</dt><dd>the amount referred to in subsection 243B(4) of the _Customs Act 1901_;</dd>
 
-                    <a name="confisc-order"></a>**_confiscation order_** means a forfeiture order or a pecuniary penalty order.<o:p></o:p>
+<dt>(e)</dt><dd>the remainder of the money referred to in paragraph 243G(6)(a) of the
 
-                    <a name="co-oper-hous-societi"></a>**_co-operative housing society_** means a society registered or incorporated as a co-operative housing society or similar society under a law of a State or Territory.<o:p></o:p>
+_Customs Act 1901_;</dd>
 
-                    <a name="correspond-law"></a>**_corresponding law_** means a law of a State that is declared by the regulations to be a law that corresponds to this Act.<o:p></o:p>
+<dt>(f)</dt><dd>the remainder of the proceeds referred to in paragraph 243G(6)(b) of the
 
-                    <a name="crime-act"></a>**_Crimes Act_** means the _Crimes Act 1914_.<o:p></o:p>
+_Customs Act 1901_;</dd>
 
-                    <a name="crimin-investig"></a>**_criminal investigation_**, in relation to a foreign serious offence, has the same meaning as in the Mutual Assistance Act.<o:p></o:p>
+<dt>(g)</dt><dd>the remainder of the money referred to in subparagraph 20(3)(b)(i);</dd>
 
-                    <a name="crimin-proceing"></a>**_criminal proceeding_**, in relation to a foreign serious offence, has the same meaning as in the Mutual Assistance Act.<o:p></o:p>
+<dt>(h)</dt><dd>the remainder of the proceeds referred to in subparagraph 20(3)(b)(ii);</dd>
 
-                    <a name="custom-act"></a>**_Customs Act_** means the _Customs Act 1901_.<o:p></o:p>
+<dt>(i)</dt><dd>the amount referred to in subsection 26(8);</dd>
 
-                    <a name="custom-offic"></a>**_Customs officer_** means an officer of Customs within the meaning of the Customs Act.<o:p></o:p>
+<dt>(j)</dt><dd>the remainder of the money referred to in subparagraph 30(4)(b)(i);</dd>
 
-                    <a name="director"></a>**_director_**, in relation to a financial institution or a corporation, means:<o:p></o:p>
+<dt>(k)</dt><dd>the remainder of the proceeds referred to in subparagraph 30(4)(b)(ii);</dd>
 
-                     (a)  if the institution or corporation is a body corporate incorporated for a public purpose by a law of the Commonwealth, of a State or of a Territory—a constituent member of the body corporate;<o:p></o:p>
+<dt>(l)</dt><dd>an amount referred to in subsection 33(1) or (2);</dd>
 
-                     (b)  any person occupying or acting in the position of director of the institution or corporation, by whatever name called and whether or not validly appointed to occupy or duly authorised to act in the position; and<o:p></o:p>
+<dt>(m)</dt><dd>an amount referred to in paragraph 34(f);</dd>
 
-                     (c)  any person in accordance with whose directions or instructions the directors of the institution or corporation are accustomed to act.<o:p></o:p>
+<dt>(n)</dt><dd>the remainder of the money referred to in paragraph 49(6)(a);</dd>
 
-                    <a name="distribut-fund"></a>**_distributable funds_** means amounts standing to the credit of the Confiscated Assets Special Account that is:<o:p></o:p>
+<dt>(o)</dt><dd>the remainder of the proceeds referred to in paragraph 49(6)(b);</dd>
 
-                     (a)  identified as distributable funds in accordance with the regulations (other than such money as is identified by the Official Trustee under subsection 34E(2) as suspended funds); or<o:p></o:p>
+<dt>(p)</dt><dd>the remainder of the money referred to in paragraph 63(4)(a);</dd>
 
-                     (b)  identified by the Official Trustee under subsection 34E(3) as distributable funds.<o:p></o:p>
+<dt>(q)</dt><dd>the remainder of the proceeds referred to in paragraph 63(4)(b).
 
-                    <a name="dpp"></a>**_DPP_** means the Director of Public Prosecutions.<o:p></o:p>
+</dd>
 
-                    <a name="encumbr"></a>**_encumbrance_**, in relation to property, includes any interest, mortgage, charge, right, claim or demand in respect of the property.<o:p></o:p>
+</dl></dl></dl>
 
-                    <a name="equit-share-program"></a>**_equitable sharing program_** means an arrangement under which any or all of the following happen:<o:p></o:p>
+<center>Back to Top</center>
 
-                     (a)  the Commonwealth shares with a participating State a proportion of any proceeds of any unlawful activity recovered under a Commonwealth law, where, in the opinion of the Attorney-General, that State has made a significant contribution to the recovery of those proceeds or to the investigation or prosecution of the relevant unlawful activity;<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (b)  each participating State shares with the Commonwealth any proceeds resulting from a breach of the criminal law of that State where, in the opinion of the appropriate Minister of that State, officers of a law enforcement agency of the Commonwealth have made a significant contribution to the recovery of those proceeds;<o:p></o:p>
+_production order_ means an order under section&#160;66\. _property_ means real or personal property of every description, whether situated in Australia or elsewhere and whether tangible or intangible and includes an interest in any such real or personal property. _property-tracking document_, in relation to an offence, means:  </dl></dl>
 
-                     (c)  the Commonwealth shares with a foreign country a proportion of any proceeds of any unlawful activity recovered under a Commonwealth law where, in the opinion of the Attorney-General, the foreign country has made a significant contribution to the recovery of those proceeds or to the investigation or prosecution of the unlawful activity.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="execut-offic"></a>**_executive officer_**, in relation to a financial institution or a corporation, means any person, by whatever name called and whether or not he or she is a director of the institution or corporation, who is concerned, or takes part, in the management of the institution or corporation.<o:p></o:p>
+<dt>(a)</dt><dd>a document relevant to:
 
-                    <a name="facsimil-copi"></a>**_facsimile copy_** means a copy obtained by facsimile transmission.<o:p></o:p>
+</dd>
 
-                    <a name="financi-institut"></a>**_financial institution_** means:<o:p></o:p>
+</dl></dl></dl>
 
-                     (a)  an ADI; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  a co-operative housing society; or<o:p></o:p>
+<dt>(i)</dt><dd>identifying, locating or quantifying property of a person who committed
 
-                     (d)  a body corporate that is, or that, if it had been incorporated in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, would be, a financial corporation within the meaning of paragraph 51(xx) of the Constitution.<o:p></o:p>
+the offence; or</dd>
 
-                    <a name="fix-term-deposit"></a>**_fixed term deposit_** means an interest bearing deposit lodged for a fixed period.<o:p></o:p>
+<dt>(ii)</dt><dd>identifying or locating any document necessary for the transfer of
 
-                    <a name="foreign-forfeitur-order"></a>**_foreign forfeiture order_** has the same meaning as in the Mutual Assistance Act.<o:p></o:p>
+property of a person who committed the offence; or
 
-                    <a name="foreign-pecuniari-penalti-order"></a>**_foreign pecuniary penalty order_** has the same meaning as in the Mutual Assistance Act.<o:p></o:p>
+</dd>
 
-                    <a name="foreign-restrain-order"></a>**_foreign restraining order_** has the same meaning as in the Mutual Assistance Act.<o:p></o:p>
+</dl></dl></dl></dl>
 
-                    <a name="foreign-seriou-offenc"></a>**_foreign serious offence_** has the same meaning as in the Mutual Assistance Act.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="forfeitur-order"></a>**_forfeiture order_** means an order under subsection 19(1).<o:p></o:p>
+<dt>(b)</dt><dd>a document relevant to:
 
-                    <a name="gbe"></a>**_GBE_** means a prescribed government business enterprise.<o:p></o:p>
+</dd>
 
-                    <a name="indict-offenc"></a>**_indictable offence_** means an offence against a law of the Commonwealth, or a law of a Territory, that may be dealt with as an indictable offence (even if it may, in some circumstances, be dealt with as a summary offence).<o:p></o:p>
+</dl></dl></dl>
 
-                    <a name="interest"></a>**_interest_**, in relation to property, means:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  a legal or equitable estate or interest in the property; or<o:p></o:p>
+<dt>(i)</dt><dd>identifying, locating or quantifying tainted property in relation to the
 
-                     (b)  a right, power or privilege in connection with the property;<o:p></o:p>
+offence; or</dd>
 
-whether present or future and whether vested or contingent.<o:p></o:p>
+<dt>(ii)</dt><dd>identifying or locating any document necessary for the transfer of
 
-                    <a name="interst-forfeitur-order"></a>**_interstate forfeiture order_** means an order that is made under a corresponding law and is of a kind declared by the regulations to be within this definition.<o:p></o:p>
+tainted property in relation to the offence.
 
-                    <a name="interst-indict-offenc"></a>**_interstate indictable offence_** means an offence against a law of a State, being an offence in relation to which an interstate forfeiture order or an interstate pecuniary penalty order may be made under a corresponding law of that State.<o:p></o:p>
+</dd>
 
-                    <a name="interst-pecuniari-penalti-order"></a>**_interstate pecuniary penalty order_** means an order that is made under a corresponding law and is of a kind declared by the regulations to be within this definition.<o:p></o:p>
+</dl></dl></dl></dl>
 
-                    <a name="interst-restrain-order"></a>**_interstate restraining order_** means an order that is made under a corresponding law and is of a kind declared by the regulations to be within this definition.<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                    <a name="law-enforc-author"></a>**_law enforcement authority_** means the Australian Federal Police or the ACC.<o:p></o:p>
+_registrable property_ means property title to which is passed by
 
-                    <a name="magistr"></a>**_magistrate_** includes a justice of the peace.<o:p></o:p>
+registration on a register kept pursuant to a provision of any law of the
 
-                    <a name="magistr-court"></a>**_magistrate’s court_** means a court of summary jurisdiction constituted by a Stipendiary Magistrate, a Police Magistrate or a Special Magistrate.<o:p></o:p>
+Commonwealth or of a State or Territory. _relevant application period_, in relation to a person's conviction of an indictable offence, means the period of 6 months after:  </dl></dl>
 
-                    <a name="mutual-assist-act"></a>**_Mutual Assistance Act_** means the _Mutual Assistance in Criminal Matters Act 1987_.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="narcot-substanc"></a>**_narcotic substance_** means:<o:p></o:p>
+<dt>(a)</dt><dd>where the person is to be taken to have been convicted of the offence by
 
-                     (a)  a narcotic substance within the meaning of the Customs Act; or<o:p></o:p>
+reason of paragraph 5(1)(a)&#151;the day on which the person was convicted of the
 
-                     (b)  a substance declared by the regulations to be a substance to which this definition applies.<o:p></o:p>
+offence;</dd>
 
-                    <a name="offic"></a>**_officer_** means a director, secretary, executive officer or employee.<o:p></o:p>
+<dt>(b)</dt><dd>where the person is to be taken to have been convicted of the offence by
 
-                    <a name="offici-truste"></a>**_Official Trustee_** means the Official Trustee in Bankruptcy.<o:p></o:p>
+reason of paragraph 5(1)(b)&#151;the day on which the person was discharged without
 
-                    <a name="ordinari-indict-offenc"></a>**_ordinary indictable offence_** means an indictable offence that is not a serious offence.<o:p></o:p>
+conviction;</dd>
 
-                    <a name="pecuniari-penalti-order"></a>**_pecuniary penalty order_** means an order under subsection 26(1).<o:p></o:p>
+<dt>(c)</dt><dd>where the person is to be taken to have been convicted of the offence by
 
-                    <a name="penalti-amount"></a>**_penalty amount_**, in relation to a pecuniary penalty order against a person, means the amount that the person is liable to pay the Commonwealth under the order.<o:p></o:p>
+reason of paragraph 5(1)(c)&#151;the day on which the court took the offence into
 
-                    <a name="petition"></a>**_petition_** means a petition under the Bankruptcy Act.<o:p></o:p>
+account in passing sentence for the other offence referred to in that
 
-                    <a name="polic-offic"></a>**_police officer_** means:<o:p></o:p>
+paragraph; or</dd>
 
-                     (a)  an AFP member; or<o:p></o:p>
+<dt>(d)</dt><dd>where the person is to be taken to have been convicted of the offence by
 
-                     (b)  a member of the police force of a State or Territory.<o:p></o:p>
+reason of paragraph 5(1)(d)&#151;the day on which the person is to be taken to have
 
-                    <a name="premis"></a>**_premises_** includes:<o:p></o:p>
+absconded in connection with the offence.
 
-                     (a)  a structure, building, aircraft, vehicle or vessel;<o:p></o:p>
+</dd>
 
-                     (b)  a place (whether enclosed or built upon or not); and<o:p></o:p>
+</dl></dl></dl>
 
-                     (c)  a part of premises (including premises of a kind referred to in paragraph (a) or (b)).<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                    <a name="prescrib-offic"></a>**_prescribed officer_** means an SES employee or acting SES employee in the Attorney-General’s Department.<o:p></o:p>
+_relevant offence_, in relation to tainted property, means an
 
-                    <a name="prescrib-time"></a>**_prescribed time_**, in relation to a warrant issued under Division 1 of Part III in relation to property, means:<o:p></o:p>
+offence by reason of the commission of which the property is tainted
 
-                     (a)  where an information is laid in respect of the relevant offence either before the warrant is issued or within 48 hours after the warrant is issued—the day that is one month after the date of the issue of the warrant; or<o:p></o:p>
+property. _relevant Supreme Court_ means:  </dl></dl>
 
-                     (b)  in any other case—the time that is 48 hours after the time of the issue of the warrant.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="proce"></a>**_proceeds_**, in relation to an offence, means any property that is derived or realised, directly or indirectly, by any person from the commission of the offence.<o:p></o:p>
+<dt>(a)</dt><dd>in relation to property seized under a warrant issued under
 
-                    <a name="proce-confisc-asset"></a>**_proceeds of confiscated assets_** means the following:<o:p></o:p>
+Division&#160;1 of Part&#160;III&#151;the Supreme Court of the State or Territory
 
-                     (a)  the remainder of the proceeds referred to in paragraph 9A(c) of the _Crimes Act 1914_;<o:p></o:p>
+in which an information in respect of the relevant offence has been, or is to
 
-                     (b)  the money referred to in paragraph 208DA(3)(a) of the _Customs Act 1901_;<o:p></o:p>
+be, laid;</dd>
 
-                     (c)  the remainder of the proceeds referred to in paragraph 208DA(3)(b) of the _Customs Act 1901_;<o:p></o:p>
+<dt>(b)</dt><dd>in relation to property seized under section&#160;38&#151;the Supreme Court of
 
-                     (d)  the amount referred to in subsection 243B(4) of the _Customs Act 1901_;<o:p></o:p>
+the State or Territory in which an information in respect of the relevant
 
-                     (e)  the remainder of the money referred to in paragraph 243G(6)(a) of the _Customs Act 1901_;<o:p></o:p>
+offence has been laid; or</dd>
 
-                      (f)  the remainder of the proceeds referred to in paragraph 243G(6)(b) of the _Customs Act 1901_;<o:p></o:p>
+<dt>(c)</dt><dd>in relation to a person's conviction of an offence or the charging, or
 
-                     (g)  the remainder of the money referred to in subparagraph 20(3)(b)(i);<o:p></o:p>
+proposed charging, of a person with an offence&#151;the Supreme Court of the State
 
-                     (h)  the remainder of the proceeds referred to in subparagraph 20(3)(b)(ii);<o:p></o:p>
+or Territory in which the person has been convicted or has been, or is to be,
 
-                      (i)  the amount referred to in subsection 26(8);<o:p></o:p>
+charged with the offence.
 
-                      (j)  the remainder of the money referred to in subparagraph 30(4)(b)(i);<o:p></o:p>
+</dd>
 
-                     (k)  the remainder of the proceeds referred to in subparagraph 30(4)(b)(ii);<o:p></o:p>
+</dl></dl></dl>
 
-                      (l)  an amount referred to in subsection 33(1) or (2);<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                    (m)  an amount referred to in paragraph 34(f);<o:p></o:p>
+_Reserve_ means the Confiscated Assets Reserve established by
 
-                     (n)  the remainder of the money referred to in paragraph 49(6)(a);<o:p></o:p>
+section&#160;34A. _restraining order_ means an order under subsection 43(2). _State_ includes the Australian Capital Territory and the Northern Territory. _State indictable offence_ means an offence against a law of a State that may be dealt with as an indictable offence (even if it may, in some circumstances, be dealt with as a summary offence). _suspended funds_ means money in the Reserve that is:  </dl></dl>
 
-                     (o)  the remainder of the proceeds referred to in paragraph 49(6)(b);<o:p></o:p>
+<center>Back to Top</center>
 
-                     (p)  the remainder of the money referred to in paragraph 63(4)(a);<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (q)  the remainder of the proceeds referred to in paragraph 63(4)(b).<o:p></o:p>
+<dt>(a)</dt><dd>identified as suspended funds in accordance with the regulations (other
 
-                    <a name="product-order"></a>**_production order_** means an order under section 66.<o:p></o:p>
+than such money as is identified by the Official Trustee under subsection
 
-                    <a name="properti"></a>**_property_** means real or personal property of every description, whether situated in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or elsewhere and whether tangible or intangible and includes an interest in any such real or personal property.<o:p></o:p>
+34E(3) as distributable funds); or</dd>
 
-                    <a name="properti-track-docum"></a>**_property-tracking document_**, in relation to an offence, means:<o:p></o:p>
+<dt>(b)</dt><dd>identified by the Official Trustee under subsection 34E(2) as suspended
 
-                     (a)  a document relevant to:<o:p></o:p>
+funds.
 
-                              (i)  identifying, locating or quantifying property of a person who committed the offence; or<o:p></o:p>
+</dd>
 
-                             (ii)  identifying or locating any document necessary for the transfer of property of a person who committed the offence; or<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  a document relevant to:<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                              (i)  identifying, locating or quantifying tainted property in relation to the offence; or<o:p></o:p>
+_tainted property_, in relation to an offence, means:
 
-                             (ii)  identifying or locating any document necessary for the transfer of tainted property in relation to the offence.<o:p></o:p>
+ </dl></dl>
 
-                    <a name="registr-properti"></a>**_registrable property_** means property title to which is passed by registration on a register kept pursuant to a provision of any law of the Commonwealth or of a State or Territory.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="relev-applic-period"></a>**_relevant application period_**, in relation to a person’s conviction of an indictable offence, means the period of 6 months after:<o:p></o:p>
+<dt>(a)</dt><dd>property used in, or in connection with, the commission of the offence;
 
-                     (a)  where the person is to be taken to have been convicted of the offence by reason of paragraph 5(1)(a)—the day on which the person was convicted of the offence;<o:p></o:p>
+or</dd>
 
-                     (b)  where the person is to be taken to have been convicted of the offence by reason of paragraph 5(1)(b)—the day on which the person was discharged without conviction;<o:p></o:p>
+<dt>(b)</dt><dd>proceeds of the offence;
 
-                     (c)  where the person is to be taken to have been convicted of the offence by reason of paragraph 5(1)(c)—the day on which the court took the offence into account in passing sentence for the other offence referred to in that paragraph; or<o:p></o:p>
+</dd>
 
-                     (d)  where the person is to be taken to have been convicted of the offence by reason of paragraph 5(1)(d)—the day on which the person is to be taken to have absconded in connection with the offence.<o:p></o:p>
+</dl></dl></dl>
 
-                    <a name="relev-offenc"></a>**_relevant offence_**, in relation to tainted property, means an offence by reason of the commission of which the property is tainted property.<o:p></o:p>
+and when used without reference to a particular offence means tainted property in relation to an indictable offence.
 
-                    <a name="relev-suprem-court"></a>**_relevant Supreme Court_** means:<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (a)  in relation to property seized under a warrant issued under Division 1 of Part III—the Supreme Court of the State or Territory in which an information in respect of the relevant offence has been, or is to be, laid;<o:p></o:p>
+_Territory_ does not include the Australian Capital Territory or
 
-                     (b)  in relation to property seized under section 38—the Supreme Court of the State or Territory in which an information in respect of the relevant offence has been laid; or<o:p></o:p>
+the Northern Territory. _unlawful activity_ means an act or omission that constitutes an offence against a law in force in the Commonwealth, a State, a Territory or a foreign country.  </dl></dl>
 
-                     (c)  in relation to a person’s conviction of an offence or the charging, or proposed charging, of a person with an offence—the Supreme Court of the State or Territory in which the person has been convicted or has been, or is to be, charged with the offence.<o:p></o:p>
+<dl compact="">
 
-                    <a name="restrain-order"></a>**_restraining order_** means an order under subsection 43(2).<o:p></o:p>
+<dt>(2)</dt><dd>A reference in this Act to a person being charged with an offence is a
 
-                    <a name="state"></a>**_State_** includes the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state> and the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>.<o:p></o:p>
+reference to an information being laid against the person for the offence
 
-                    <a name="state-indict-offenc"></a>**_State indictable offence_** means an offence against a law of a State that may be dealt with as an indictable offence (even if it may, in some circumstances, be dealt with as a summary offence).<o:p></o:p>
+whether or not:
 
-                    <a name="suspend-fund"></a>**_suspended funds_** means amounts standing to the credit of the Confiscated Assets Special Account that is:<o:p></o:p>
+</dd> </dl>
 
-                     (a)  identified as suspended funds in accordance with the regulations (other than such money as is identified by the Official Trustee under subsection 34E(3) as distributable funds); or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  identified by the Official Trustee under subsection 34E(2) as suspended funds.<o:p></o:p>
+<dt>(a)</dt><dd>a summons to require the attendance of the person to answer the
 
-                    <a name="taint-properti"></a>**_tainted property_**, in relation to an offence, means:<o:p></o:p>
+information has been issued; or</dd>
 
-                     (a)  property used in, or in connection with, the commission of the offence; or<o:p></o:p>
+<dt>(b)</dt><dd>a warrant for the apprehension of the person has been issued.
 
-                     (b)  proceeds of the offence;<o:p></o:p>
+</dd>
 
-and when used without reference to a particular offence means tainted property in relation to an indictable offence.<o:p></o:p>
+</dl></dl></dl>
 
-                    <a name="territori"></a>**_Territory_** does not include the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state> or the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>.<o:p></o:p>
+<dl compact="">
 
-                    <a name="unlaw-activ"></a>**_unlawful activity_** means an act or omission that constitutes an offence against a law in force in the Commonwealth, a State, a Territory or a foreign country.<o:p></o:p>
+<dt>(3)</dt><dd>A reference in this Act to a benefit derived by a person includes a
 
-             (2)  A reference in this Act to a person being charged with an offence is a reference to an information being laid against the person for the offence whether or not:<o:p></o:p>
+reference to:
 
-                     (a)  a summons to require the attendance of the person to answer the information has been issued; or<o:p></o:p>
+</dd> </dl>
 
-                     (b)  a warrant for the apprehension of the person has been issued.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  A reference in this Act to a benefit derived by a person includes a reference to:<o:p></o:p>
+<dt>(a)</dt><dd>a benefit derived, directly or indirectly, by the person; and</dd>
 
-                     (a) a benefit derived, directly or indirectly, by the person; and<o:p></o:p>
+<dt>(b)</dt><dd>a benefit derived, directly or indirectly, by another person at the
 
-                     (b)  a benefit derived, directly or indirectly, by another person at the request or direction of the first person.<o:p></o:p>
+request or direction of the first person.
 
-          (3A)  For the purposes of this Act, in determining whether a person has derived substantial benefit from the commission of 2 or more public fraud offences, have regard to the aggregate of the benefits derived by the person from the commission of those offences.<o:p></o:p>
+</dd>
 
-             (4)  A reference in this Act to the property of a person includes a reference to property in respect of which the person has the beneficial interest.<o:p></o:p>
+</dl></dl></dl>
 
-             (5)  A reference in this Act to a criminal offence is a reference to an offence against a law of the Commonwealth or of a Territory.<o:p></o:p>
+<dl compact="">
 
-             (6)  Without prejudice to its effect by virtue of subsection (5), this Act has effect as if a reference in this Act to a criminal offence included a reference to an offence against a law of a State.<o:p></o:p>
+<dt>(3A)</dt><dd>For the purposes of this Act, in determining whether a person has derived
 
-             (7)  A reference in this Act to acquiring property, or an interest in property, for sufficient consideration is a reference to acquiring the property or the interest for a consideration that is sufficient and that, having regard solely to commercial considerations, reflects the value of the property or the interest.<o:p></o:p>
+substantial benefit from the commission of 2 or more public fraud offences,
 
-             (8)  For the purposes of this Act, a person shall not be regarded as a director within the meaning of paragraph (c) of the definition of **_director_** in subsection (1) by reason only that the directors act on advice given by that person in the proper performance of the functions attaching to his or her professional capacity or to his or her business relationship with the directors of the financial institution or corporation, as the case may be.<o:p></o:p>
+have regard to the aggregate of the benefits derived by the person from the
 
-##### <a id="5"></a>5  Meaning of _conviction_ etc. of offence<o:p></o:p>
+commission of those offences.</dd> <dt>(4)</dt><dd>A reference in this Act to the property of a person includes a reference to property in respect of which the person has the beneficial interest.</dd> <dt>(5)</dt><dd>A reference in this Act to a criminal offence is a reference to an offence against a law of the Commonwealth or of a Territory.</dd> <dt>(6)</dt><dd>Without prejudice to its effect by virtue of subsection&#160;(5), this Act has effect as if a reference in this Act to a criminal offence included a reference to an offence against a law of a State.</dd> <dt>(7)</dt><dd>A reference in this Act to acquiring property, or an interest in property, for sufficient consideration is a reference to acquiring the property or the interest for a consideration that is sufficient and that, having regard solely to commercial considerations, reflects the value of the property or the interest.</dd> <dt>(8)</dt><dd>For the purposes of this Act, a person shall not be regarded as a director within the meaning of paragraph&#160;(c) of the definition of _director_ in subsection&#160;(1) by reason only that the directors act on advice given by that person in the proper performance of the functions attaching to his or her professional capacity or to his or her business relationship with the directors of the financial institution or corporation, as the case may be. </dd> </dl>
 
-             (1)  For the purposes of this Act, a person shall be taken to be convicted of an offence if:<o:p></o:p>
+**
 
-                     (a)  the person is convicted, whether summarily or on indictment, of the offence;<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 5  Meaning of _conviction_ etc. of offence 
+**
 
-                     (b)  the person is charged with, and found guilty of, the offence but is discharged without conviction;<o:p></o:p>
+ <dl compact="">
 
-                     (c)  a court, with the consent of the person, takes the offence, of which the person has not been found guilty, into account in passing sentence on the person for another offence; or<o:p></o:p>
+<dt>(1)</dt><dd>For the purposes of this Act, a person shall be taken to be convicted of
 
-                     (d)  the person absconds in connection with the offence.<o:p></o:p>
+an offence if:
 
-             (2)  For the purposes of this Act, a person’s conviction of an offence shall be taken to be quashed:<o:p></o:p>
+</dd> </dl>
 
-                     (a)  where the person is to be taken to have been convicted of the offence by reason of paragraph (1)(a)—if the conviction is quashed or set aside;<o:p></o:p>
+<center>Back to Top</center>
 
-                     (b)  where the person is to be taken to have been convicted of the offence by reason of paragraph (1)(b)—if the finding of guilt is quashed or set aside;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  where the person is to be taken to have been convicted of the offence by reason of paragraph (1)(c)—if either of the following events occur:<o:p></o:p>
+<dt>(a)</dt><dd>the person is convicted, whether summarily or on indictment, of the
 
-                              (i)  the person’s conviction of the other offence referred to in that paragraph is quashed or set aside;<o:p></o:p>
+offence;</dd>
 
-                             (ii)  the decision of the court to take the offence into account in passing sentence for that other offence is quashed or set aside; or<o:p></o:p>
+<dt>(b)</dt><dd>the person is charged with, and found guilty of, the offence but is
 
-                     (d)  where the person is to be taken to have been convicted of the offence by reason of paragraph (1)(d)—if, after the person is brought before a court in respect of the offence, the person is discharged in respect of the offence or a conviction of the person for the offence is quashed or set aside.<o:p></o:p>
+discharged without conviction;</dd>
 
-             (3)  For the purposes of this Act, a person shall be taken to have been convicted of an offence in a particular State or Territory if:<o:p></o:p>
+<dt>(c)</dt><dd>a court, with the consent of the person, takes the offence, of which the
 
-                     (a)  where the person is to be taken to have been convicted of the offence by reason of paragraph (1)(a)—the person was convicted of the offence in a court in that State or Territory;<o:p></o:p>
+person has not been found guilty, into account in passing sentence on the
 
-                     (b)  where the person is to be taken to have been convicted of the offence by reason of paragraph (1)(b)—the person was discharged without conviction by a court in that State or Territory;<o:p></o:p>
+person for another offence; or</dd>
 
-                     (c)  where the person is to be taken to have been convicted of the offence by reason of paragraph (1)(c)—the offence was taken into account by a court in that State or Territory in passing sentence on the person for the other offence referred to in that paragraph; or<o:p></o:p>
+<dt>(d)</dt><dd>the person absconds in connection with the offence.
 
-                     (d)  where the person is to be taken to have been convicted of the offence by reason of paragraph (1)(d)—the information alleging the commission of the offence by the person was laid in that State or Territory.<o:p></o:p>
+</dd>
 
-             (4)  For the purposes of this Act, where a person is to be taken to have been convicted of an offence in a particular State or Territory by reason of paragraph (3)(d), the person shall be taken to have been so convicted before the Supreme Court of that State or Territory.<o:p></o:p>
+</dl></dl></dl>
 
-             (5)  A reference in this Act, in relation to a person’s conviction of an offence, to the commission of the offence shall, where the person is to be taken to have been convicted of the offence by reason of paragraph (1)(d), be read as a reference to the alleged commission of the offence by the person.<o:p></o:p>
+<dl compact="">
 
-             (6)  This section does not apply to a foreign serious offence.<o:p></o:p>
+<dt>(2)</dt><dd>For the purposes of this Act, a person's conviction of an offence shall be
 
-##### <a id="6"></a>6  Meaning of _absconding_ <o:p></o:p>
+taken to be quashed:
 
-                   For the purposes of this Act (except section 17), a person shall be taken to abscond in connection with an offence if and only if:<o:p></o:p>
+</dd> </dl>
 
-                     (a)  an information is laid alleging the commission of the offence by the person;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  a warrant for the arrest of the person is issued in relation to that information; and<o:p></o:p>
+<dt>(a)</dt><dd>where the person is to be taken to have been convicted of the offence by
 
-                     (c)  one of the following occurs:<o:p></o:p>
+reason of paragraph&#160;(1)(a)&#151;if the conviction is quashed or set aside;</dd>
 
-                              (i)  the person dies without the warrant being executed;<o:p></o:p>
+<dt>(b)</dt><dd>where the person is to be taken to have been convicted of the offence by
 
-                             (ii)  at the end of the period of 6 months commencing on the day on which the warrant is issued: <o:p></o:p>
+reason of paragraph&#160;(1)(b)&#151;if the finding of guilt is quashed or set
 
-                                        (A)  the person cannot be found; or <o:p></o:p>
+aside;</dd>
 
-                                        (B)  the person is, for any other reason, not amenable to justice and, if the person is outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, extradition proceedings are not on foot;<o:p></o:p>
+<dt>(c)</dt><dd>where the person is to be taken to have been convicted of the offence by
 
-                            (iii)  at the end of the period of 6 months commencing on the day on which the warrant is issued: <o:p></o:p>
+reason of paragraph&#160;(1)(c)&#151;if either of the following events occur:
 
-                                        (A)  the person is, by reason of being outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, not amenable to justice; and<o:p></o:p>
+</dd>
 
-                                        (B)  extradition proceedings are on foot;<o:p></o:p>
+</dl></dl></dl>
 
-                                   and subsequently those proceedings terminate without an order for the person’s extradition being made.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="7"></a>7  Meaning of _public fraud offence_ and _serious offence_ <o:p></o:p>
+<dt>(i)</dt><dd>the person's conviction of the other offence referred to in that paragraph
 
-             (1)  In this Act:<o:p></o:p>
+is quashed or set aside;</dd>
 
-                    <a name="public-fraud-offenc"></a>**_public fraud offence_** means any of the following:<o:p></o:p>
+<dt>(ii)</dt><dd>the decision of the court to take the offence into account in passing
 
-                     (a)  an offence against section 134.1, 134.2, 135.1 or 135.4 of the _Criminal Code_;<o:p></o:p>
+sentence for that other offence is quashed or set aside; or
 
-                     (b)  an offence against repealed section 29D or 86A of the Crimes Act committed after the commencement of this Act;<o:p></o:p>
+</dd>
 
-                     (c)  an offence against section 5, 6, 7 or 8 of the _Crimes (Taxation Offences) Act 1980_ committed after the commencement of this Act;<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (d)  an ancillary offence in relation to an offence covered by paragraph (b) or (c).<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="seriou-offenc"></a>**_serious offence_** means:<o:p></o:p>
+<dt>(d)</dt><dd>where the person is to be taken to have been convicted of the offence by
 
-                     (a)  a serious narcotics offence; or<o:p></o:p>
+reason of paragraph&#160;(1)(d)&#151;if, after the person is brought before a court
 
-                     (b)  a money laundering offence in relation to the proceeds of a serious narcotics offence; or<o:p></o:p>
+in respect of the offence, the person is discharged in respect of the offence
 
-                     (c)  an ancillary offence in relation to an offence covered by paragraph (a) or (b); or<o:p></o:p>
+or a conviction of the person for the offence is quashed or set aside.
 
-                     (d)  an offence that is the subject of a declaration under section 96A.<o:p></o:p>
+</dd>
 
-          (1A)  Paragraph (d) of the definition of **_serious offence_** in subsection (1) has effect subject to subsections 96A(2), (4) and (6).<o:p></o:p>
+</dl></dl></dl>
 
-             (2)  In this section:<o:p></o:p>
+<dl compact="">
 
-                    <a name="main-offenc"></a><a name="ancillari-offenc"></a>**_ancillary offence_**, in relation to an offence (in this definition called the **_main offence_**), means:<o:p></o:p>
+<dt>(3)</dt><dd>For the purposes of this Act, a person shall be taken to have been
 
-                     (a)  an offence of conspiring to commit the main offence;<o:p></o:p>
+convicted of an offence in a particular State or Territory if:
 
-                     (b)  an offence of aiding, abetting, counselling or procuring, or being in any way knowingly concerned in, the commission of the main offence;<o:p></o:p>
+</dd> </dl>
 
-                     (c)  an offence of receiving or assisting another person in order to enable the person to escape punishment for, or to dispose of the proceeds of, the main offence; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  an offence of attempting to commit the main offence.<o:p></o:p>
+<dt>(a)</dt><dd>where the person is to be taken to have been convicted of the offence by
 
-                    <a name="monei-launder-offenc"></a>**_money laundering offence_** means an offence against section 81.<o:p></o:p>
+reason of paragraph&#160;(1)(a)&#151;the person was convicted of the offence in a
 
-                    <a name="possess"></a>**_possession_** includes possession for supply.<o:p></o:p>
+court in that State or Territory;</dd>
 
-                    <a name="product"></a>**_production_** includes growing and manufacture.<o:p></o:p>
+<dt>(b)</dt><dd>where the person is to be taken to have been convicted of the offence by
 
-                    <a name="seriou-narcot-offenc"></a>**_serious narcotics offence_** means an offence:<o:p></o:p>
+reason of paragraph&#160;(1)(b)&#151;the person was discharged without conviction
 
-                     (a)  constituted by the production, possession, supply, importation or export of a narcotic substance; and<o:p></o:p>
+by a court in that State or Territory;</dd>
 
-                     (b)  involving a quantity of the narcotic substance that is equal to or greater than the trafficable quantity applicable to the narcotic substance.<o:p></o:p>
+<dt>(c)</dt><dd>where the person is to be taken to have been convicted of the offence by
 
-                    <a name="traffic-quantiti"></a>**_trafficable quantity_**, in relation to a narcotic substance, means:<o:p></o:p>
+reason of paragraph&#160;(1)(c)&#151;the offence was taken into account by a court
 
-                     (a)  if paragraph (b) does not apply—a trafficable quantity of the substance within the meaning of the Customs Act; or<o:p></o:p>
+in that State or Territory in passing sentence on the person for the other
 
-                     (b)  if the law against which the offence is committed is not the Customs Act and that law includes references to trafficable quantity—a trafficable quantity of the substance within the meaning of that law.<o:p></o:p>
+offence referred to in that paragraph; or</dd>
 
-             (3)  To avoid doubt, express references in this section to ancillary offences do not imply that section 11.6 of the _Criminal Code_ has no application to a particular provision of this Act.<o:p></o:p>
+<dt>(d)</dt><dd>where the person is to be taken to have been convicted of the offence by
 
-##### <a id="8"></a>8  Related offences<o:p></o:p>
+reason of paragraph&#160;(1)(d)&#151;the information alleging the commission of the
 
-                   For the purposes of this Act, 2 offences are related to one another if the elements of the 2 offences are substantially the same acts or omissions.<o:p></o:p>
+offence by the person was laid in that State or Territory.
 
-##### <a id="9"></a>9  Meaning of _dealing with property_ <o:p></o:p>
+</dd>
 
-                   For the purposes of this Act, dealing with property of a person includes:<o:p></o:p>
+</dl></dl></dl>
 
-                     (a)  if a debt is owed to that person—making a payment to any person in reduction of the amount of the debt;<o:p></o:p>
+<dl compact="">
 
-                     (b)  removing the property from <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; and<o:p></o:p>
+<dt>(4)</dt><dd>For the purposes of this Act, where a person is to be taken to have been
 
-                     (c)  receiving or making a gift of the property.<o:p></o:p>
+convicted of an offence in a particular State or Territory by reason of
 
-##### <a id="9A"></a>9A  Effective control of property<o:p></o:p>
+paragraph&#160;(3)(d), the person shall be taken to have been so convicted
 
-             (1)  Property, or an interest in property, may be subject to the effective control of a person within the meaning of this Act whether or not the person has:<o:p></o:p>
+before the Supreme Court of that State or Territory.</dd> <dt>(5)</dt><dd>A reference in this Act, in relation to a person's conviction of an offence, to the commission of the offence shall, where the person is to be taken to have been convicted of the offence by reason of paragraph&#160;(1)(d), be read as a reference to the alleged commission of the offence by the person.</dd> <dt>(6)</dt><dd>This section does not apply to a foreign serious offence. </dd> </dl>
 
-                     (a)  a legal or equitable estate or interest in the property; or<o:p></o:p>
+**
 
-                     (b)  a right, power or privilege in connection with the property.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 6  Meaning of _absconding_  
+**
 
-             (2)  Without limiting the generality of any other provision of this Act, in determining:<o:p></o:p>
+ <dl compact="">
 
-                     (a)  whether or not property, or an interest in property, is subject to the effective control of a person; or<o:p></o:p>
+		For the purposes of this Act (except section&#160;17), a person shall be
 
-                     (b)  whether or not there are reasonable grounds to believe that property, or an interest in property, is subject to the effective control of a person;<o:p></o:p>
+taken to abscond in connection with an offence if and only if:
 
-regard may be had to:<o:p></o:p>
+ </dl>
 
-                     (c)  shareholdings in, debentures over or directorships of a company that has an interest (whether direct or indirect) in the property;<o:p></o:p>
+<center>Back to Top</center>
 
-                     (d)  a trust that has a relationship to the property; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  family, domestic and business relationships between persons having an interest in the property, or in companies of the kind referred to in paragraph (c) or trusts of the kind referred to in paragraph (d), and other persons.<o:p></o:p>
+<dt>(a)</dt><dd>an information is laid alleging the commission of the offence by the
 
-##### <a id="10"></a>10  Appropriate court in relation to indictable offence<o:p></o:p>
+person;</dd>
 
-             (1)  Where a person is convicted of an offence before the Supreme Court of a State or Territory, that Supreme Court is the appropriate court in relation to the conviction.<o:p></o:p>
+<dt>(b)</dt><dd>a warrant for the arrest of the person is issued in relation to that
 
-             (2)  Where a person is convicted of an offence before any other court of a State or Territory, the court before which the person was convicted and the Supreme Court of that State or Territory are both appropriate courts in relation to the conviction.<o:p></o:p>
+information; and</dd>
 
-##### <a id="11"></a>11  Act to bind Crown<o:p></o:p>
+<dt>(c)</dt><dd>one of the following occurs:
 
-             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state> and of <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place>.<o:p></o:p>
+</dd>
 
-             (2)  Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state> or of <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Norfolk Island</st1:place> liable to be prosecuted for an offence.<o:p></o:p>
+</dl></dl></dl>
 
-##### <a id="12"></a>12  Act to apply both within and outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region><o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                   This Act applies throughout the whole of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and also applies outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.<o:p></o:p>
+<dt>(i)</dt><dd>the person dies without the warrant being executed;</dd>
 
-##### <a id="13"></a>13  Application<o:p></o:p>
+<dt>(ii)</dt><dd>at the end of the period of 6 months commencing on the day on which the
 
-             (1)  Subject to subsection (2), Parts II and III (other than section 59) do not apply to a person’s conviction of an offence if the person was convicted of the offence before the commencement of this Act.<o:p></o:p>
+warrant is issued: 
 
-             (2)  Subsection (1) does not apply in relation to interstate forfeiture orders, interstate pecuniary penalty orders, interstate restraining orders, foreign forfeiture orders, foreign pecuniary penalty orders or foreign restraining orders.<o:p></o:p>
+</dd>
 
-             (3)  Subject to subsection (1) this Act applies to:<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (a)  an offence committed, or believed to have been committed, at any time (whether before or after the commencement of this Act); and<o:p></o:p>
+	(A)	the person cannot be found; or 
+ 	(B)	the person is, for any other reason, not amenable to justice and, if the person is outside Australia, extradition proceedings are not on foot;
 
-                     (b)  a person’s conviction at any time of an offence (whether before or after the commencement of this Act).<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="13A"></a>13A  Application of the _Criminal Code_<o:p></o:p>
+<dt>(iii)</dt><dd>at the end of the period of 6 months commencing on the day on which the
 
-                   Chapter 2 of the _Criminal Code_ (except Part 2.5) applies to all offences against this Act.<o:p></o:p>
+warrant is issued: 
 
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.<o:p></o:p>
+</dd>
 
-<o:p> </o:p>
+</dl></dl></dl></dl>
 
-## Part II—Confiscation<o:p></o:p>
+	(A)	the person is, by reason of being outside Australia, not amenable to justice; and
+ 	(B)	extradition proceedings are on foot;
 
-### Division 1—Application for confiscation order<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="14"></a>14  Application for confiscation order<o:p></o:p>
+		and subsequently those proceedings terminate without an order for the
 
-             (1)  Where a person is convicted of an indictable offence, the DPP may, subject to subsections (2), (3) and (4) apply to an appropriate court for one or both of the following orders:<o:p></o:p>
+person's extradition being made.
 
-                     (a)  a forfeiture order against property that is tainted property in respect of the offence;<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (b)  a pecuniary penalty order against the person in respect of benefits derived by the person from the commission of the offence.<o:p></o:p>
+**
 
-             (2)  The DPP:<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 7  Meaning of _public fraud offence_ and _serious offence_  
+**
 
-                     (a)  is not empowered to make an application after the end of the relevant application period in relation to the conviction; and<o:p></o:p>
+<dl compact="">
 
-                     (b)  is not empowered to make an application after the commencement of the _Proceeds of Crime Act 2002_ unless some or all of the property which could be used to satisfy the order is property in respect of which a restraining order is in force.<o:p></o:p>
+<dt>(1)</dt><dd>In this Act:
 
-             (3)  The DPP is not empowered to make an application to a court under subsection (1) for a forfeiture order against property in respect of a person’s conviction of an offence if:<o:p></o:p>
+</dd> </dl>
 
-                     (a)  an application has previously been made:<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                              (i)  under that subsection;<o:p></o:p>
+_public fraud offence_ means any of the following:
 
-                             (ii)  under another law of the Commonwealth; or<o:p></o:p>
+ </dl></dl>
 
-                            (iii)  under a law of a Territory;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                            for forfeiture or condemnation of the property in respect of the offence; and<o:p></o:p>
+<dt>(a)</dt><dd>an offence against section&#160;134.1, 134.2, 135.1 or 135.4 of the
 
-                     (b)  the application has been finally determined on the merits;<o:p></o:p>
+_Criminal Code_;</dd>
 
-except with the leave of the court.<o:p></o:p>
+<dt>(b)</dt><dd>an offence against repealed section&#160;29D or 86A of the Crimes Act
 
-             (4)  The DPP is not empowered to make an application to a court under subsection (1) for a pecuniary penalty order against a person in respect of benefits derived by the person from the commission of an offence if:<o:p></o:p>
+committed after the commencement of this Act;</dd>
 
-                     (a)  an application has previously been made:<o:p></o:p>
+<dt>(c)</dt><dd>an offence against section&#160;5, 6, 7 or 8 of the _Crimes (Taxation Offences) Act 1980_ committed after the commencement of this Act;</dd>
 
-                              (i)  under that subsection;<o:p></o:p>
+<dt>(d)</dt><dd>an ancillary offence in relation to an offence covered by
 
-                             (ii)  under another law of the Commonwealth; or<o:p></o:p>
+paragraph&#160;(b) or (c).
 
-                            (iii)  under a law of a Territory;<o:p></o:p>
+</dd>
 
-                            for a pecuniary penalty in respect of those benefits derived by the person from the commission of the offence; and<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  the application has been finally determined on the merits;<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-except with the leave of the court.<o:p></o:p>
+_serious offence_ means:
 
-             (5)  The court shall not grant leave under subsection (3) or (4) unless satisfied that:<o:p></o:p>
+ </dl></dl>
 
-                     (a)  the tainted property, or the benefit, to which the new application relates was identified only after the first application was determined;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  necessary evidence became available only after the first application was determined; or<o:p></o:p>
+<dt>(a)</dt><dd>a serious narcotics offence; or</dd>
 
-                     (c)  the court is otherwise satisfied that it is in the interests of justice to grant the leave.<o:p></o:p>
+<dt>(b)</dt><dd>a money laundering offence in relation to the proceeds of a serious
 
-             (6)  An application may be made under this section in relation to one or more indictable offences.<o:p></o:p>
+narcotics offence; or</dd>
 
-             (7)  An application may be made under this section for a pecuniary penalty order in respect of an offence even if section 30 applies to the offence.<o:p></o:p>
+<dt>(c)</dt><dd>an ancillary offence in relation to an offence covered by
 
-##### <a id="15"></a>15  Notice of application<o:p></o:p>
+paragraph&#160;(a) or (b); or</dd>
 
-             (1)  Where the DPP applies for a forfeiture order against property in respect of a person’s conviction of an offence:<o:p></o:p>
+<dt>(d)</dt><dd>an offence that is the subject of a declaration under section&#160;96A.
 
-                     (a)  the DPP shall give written notice of the application to the person and to any other person the DPP has reason to believe may have an interest in the property;<o:p></o:p>
+</dd>
 
-                     (b)  the person, and any other person who claims an interest in the property, may appear and adduce evidence at the hearing of the application; and<o:p></o:p>
+</dl></dl></dl>
 
-                     (c)  the court may, at any time before the final determination of the application, direct the DPP to give or publish notice of the application to a specified person or class of persons, in the manner and within the time that the court considers appropriate.<o:p></o:p>
+<dl compact="">
 
-             (2)  Where the DPP applies for a pecuniary penalty order against a person:<o:p></o:p>
+<dt>(1A)</dt><dd>Paragraph&#160;(d) of the definition of _serious offence_ in
 
-                     (a)  the DPP shall give the person written notice of the application; and<o:p></o:p>
+subsection&#160;(1) has effect subject to subsections 96A(2), (4) and (6).</dd> <dt>(2)</dt><dd>In this section: </dd> </dl>
 
-                     (b)  the person may appear and adduce evidence at the hearing of the application.<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-##### <a id="16"></a>16  Amendment of application<o:p></o:p>
+_ancillary offence_, in relation to an offence (in this definition
 
-             (1)  Subject to subsection (2), where the DPP applies for a confiscation order, the court hearing the application may amend the application:<o:p></o:p>
+called the _main offence_), means:
 
-                     (a)  on application by the DPP; or<o:p></o:p>
+ </dl></dl>
 
-                     (b)  with the consent of the DPP.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The court shall not amend the application so as to:<o:p></o:p>
+<dt>(a)</dt><dd>an offence of conspiring to commit the main offence;</dd>
 
-                     (a)  include additional property in an application for a forfeiture order; or<o:p></o:p>
+<dt>(b)</dt><dd>an offence of aiding, abetting, counselling or procuring, or being in any
 
-                     (b)  include an additional benefit in an application for a pecuniary penalty order;<o:p></o:p>
+way knowingly concerned in, the commission of the main offence;</dd>
 
-unless the court is satisfied that:<o:p></o:p>
+<dt>(c)</dt><dd>an offence of receiving or assisting another person in order to enable the
 
-                     (c)  the property or benefit was not reasonably capable of identification when the application was originally made; or<o:p></o:p>
+person to escape punishment for, or to dispose of the proceeds of, the main
 
-                     (d)  necessary evidence became available only after the application was originally made.<o:p></o:p>
+offence; or</dd>
 
-             (3)  Where:<o:p></o:p>
+<dt>(d)</dt><dd>an offence of attempting to commit the main offence.
 
-                     (a)  the DPP applies to amend an application for a forfeiture order; and<o:p></o:p>
+</dd>
 
-                     (b)  the amendment would have the effect of including additional property in the application for the forfeiture order;<o:p></o:p>
+</dl></dl></dl>
 
-then:<o:p></o:p>
+<center>Back to Top</center>
 
-                     (c)  the DPP shall give written notice of the application to amend to any person who the DPP has reason to believe may have an interest in property to be included in the application for the forteiture order; and<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (d)  any person who claims an interest in the property to be included in the application for the forfeiture order may appear and adduce evidence at the hearing of the application to amend.<o:p></o:p>
+_money laundering offence_ means an offence against
 
-             (4)  Where:<o:p></o:p>
+section&#160;81\. _possession_ includes possession for supply. _production_ includes growing and manufacture. _serious narcotics offence_ means an offence:  </dl></dl>
 
-                     (a)  the DPP applies to amend an application for a pecuniary penalty order against a person; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the effect of the amendment would be to include an additional benefit in the application for the pecuniary penalty order;<o:p></o:p>
+<dt>(a)</dt><dd>constituted by the production, possession, supply, importation or export
 
-the DPP shall give the person written notice of the application to amend.<o:p></o:p>
+of a narcotic substance; and</dd>
 
-##### <a id="17"></a>17  Making of confiscation order where person has absconded<o:p></o:p>
+<dt>(b)</dt><dd>involving a quantity of the narcotic substance that is equal to or greater
 
-                   Where a person is, by reason of paragraph 5(1)(d), to be taken to have been convicted of an indictable offence, a court shall not make a confiscation order in reliance on the person’s conviction of the offence unless the court is satisfied, on the balance of probabilities, that the person has absconded and:<o:p></o:p>
+than the trafficable quantity applicable to the narcotic substance.
 
-                     (a)  the person has been committed for trial for the offence; or<o:p></o:p>
+</dd>
 
-                     (b)  the court is satisfied, having regard to all the evidence before the court, that a reasonable jury, properly instructed, could lawfully find the person guilty of the offence.<o:p></o:p>
+</dl></dl></dl>
 
-##### <a id="18"></a>18  Procedure on application<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-             (1)  Where an application is made to a court for a confiscation order in respect of a person’s conviction of an offence, the court may, in determining the application, have regard to the transcript of any proceeding against the person for the offence and to the evidence given in any such proceeding.<o:p></o:p>
+_trafficable quantity_, in relation to a narcotic substance, means:
 
-             (2)  Where:<o:p></o:p>
+ </dl></dl>
 
-                     (a)  an application is made for a confiscation order in respect of a person’s conviction of an offence;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the application is made to the court before which the person was convicted; and<o:p></o:p>
+<dt>(a)</dt><dd>if paragraph&#160;(b) does not apply&#151;a trafficable quantity of the
 
-                     (c)  the court has not, when the application is made, passed sentence on the person for the offence;<o:p></o:p>
+substance within the meaning of the Customs Act; or</dd>
 
-the court may, if satisfied that it is reasonable to do so in all the circumstances, defer passing sentence until it has determined the application for the confiscation order.<o:p></o:p>
+<dt>(b)</dt><dd>if the law against which the offence is committed is not the Customs Act
 
-             (3)  Where:<o:p></o:p>
+and that law includes references to trafficable quantity&#151;a trafficable
 
-                     (a)  a person is to be taken to have been convicted of an offence by reason of paragraph 5(1)(c); and<o:p></o:p>
+quantity of the substance within the meaning of that law.
 
-                     (b)  an application is made to a court for a confiscation order in respect of the conviction;<o:p></o:p>
+</dd>
 
-the reference in subsection (1) to a proceeding against the person for the offence includes a reference to a proceeding against the person for the other offence referred to in that paragraph.<o:p></o:p>
+</dl></dl></dl>
 
-<o:p> </o:p>
+<dl compact="">
 
-### Division 2—Forfeiture orders<o:p></o:p>
+<dt>(3)</dt><dd>To avoid doubt, express references in this section to ancillary offences
 
-##### <a id="19"></a>19  Forfeiture orders<o:p></o:p>
+do not imply that section&#160;11.6 of the _Criminal Code_ has no
 
-             (1)  Where:<o:p></o:p>
+application to a particular provision of this Act.
 
-                     (a)  the DPP applies to a court for an order under this section against property in respect of a person’s conviction of an offence; and<o:p></o:p>
+</dd> </dl>
 
-                     (b)  the court is satisfied that the property is tainted property in respect of the offence;<o:p></o:p>
+**
 
-the court may, if it considers it appropriate, order that the property, or such of the property as is specified by the court in the order, is forfeited to the Commonwealth.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 8  Related offences 
+**
 
-             (2)  Where the court orders that property (other than money) is forfeited to the Commonwealth, the court shall specify in the order the amount that it considers to be the value of the property at the time when the order is made.<o:p></o:p>
+ <dl compact="">
 
-             (3)  In considering whether it is appropriate to make a forfeiture order in respect of particular property, the court may have regard to:<o:p></o:p>
+		For the purposes of this Act, 2 offences are related to one another if the
 
-                     (a)  any hardship that may reasonably be expected to be caused to any person by the operation of such an order; and<o:p></o:p>
+elements of the 2 offences are substantially the same acts or omissions.
 
-                     (b)  the use that is ordinarily made, or was intended to be made, of the property.<o:p></o:p>
+ </dl>
 
-             (4)  In considering whether it is appropriate to make a forfeiture order under subsection (1) in respect of particular property, the court may also have regard to the gravity of the offence concerned.<o:p></o:p>
+**
 
-             (5)  A court that makes a forfeiture order against property may, if it is satisfied that:<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 9  Meaning of _dealing with property_  
+**
 
-                     (a)  it would not be contrary to the public interest for a person’s interest in the property to be transferred to the person; and<o:p></o:p>
+ <dl compact="">
 
-                     (b)  there is no other reason why the person’s interest in the property should not be transferred to that person;<o:p></o:p>
+		For the purposes of this Act, dealing with property of a person includes:
 
-by order:<o:p></o:p>
+ </dl>
 
-                     (c)  declare the nature, extent and value (as at the time when the order is made) of the interest; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  declare that the forfeiture order may, to the extent to which it relates to the interest, be discharged as provided by section 33.<o:p></o:p>
+<dt>(a)</dt><dd>if a debt is owed to that person&#151;making a payment to any person in
 
-             (6)  Where:<o:p></o:p>
+reduction of the amount of the debt;</dd>
 
-                     (a)  the DPP applies for a forfeiture order against particular property in reliance on a person’s conviction of an offence; and<o:p></o:p>
+<dt>(b)</dt><dd>removing the property from Australia; and</dd>
 
-                     (b)  evidence is given, at the hearing of the application, that the property was in the person’s possession at the time of, or immediately after, the commission of the offence;<o:p></o:p>
+<dt>(c)</dt><dd>receiving or making a gift of the property.
 
-then:<o:p></o:p>
+</dd>
 
-                     (c)  if no evidence is given that tends to show that the property was not used in, or in connection with, the commission of the offence—the court shall presume that the property was used in, or in connection with, the commission of the offence; or<o:p></o:p>
+</dl></dl></dl>
 
-                     (d)  in any other case—the court shall not make a forfeiture order against the property unless it is satisfied that the property was used in, or in connection with, the commission of the offence.<o:p></o:p>
+**
 
-             (7)  Where a court makes a forfeiture order, the court has power to give all directions that are necessary or convenient for giving effect to the order.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 9A  Effective control of property 
+**
 
-             (8)  Without limiting the generality of subsection (7), where a court makes a forfeiture order against registrable property, the court may direct an officer of the court to do anything necessary and reasonable to obtain possession of any document necessary for the transfer of the property.<o:p></o:p>
+ <dl compact="">
 
-##### <a id="20"></a>20  Effects of forfeiture order<o:p></o:p>
+<dt>(1)</dt><dd>Property, or an interest in property, may be subject to the effective
 
-             (1)  Subject to subsection (2), where a court makes a forfeiture order against property, the property vests absolutely in the Commonwealth.<o:p></o:p>
+control of a person within the meaning of this Act whether or not the person
 
-             (2)  Where a forfeiture order is made against registrable property:<o:p></o:p>
+has:
 
-                     (a)  the property vests in equity in the Commonwealth but does not vest in the Commonwealth at law until the applicable registration requirements have been complied with;<o:p></o:p>
+</dd> </dl>
 
-                     (b)  the Commonwealth is entitled to be registered as owner of the property; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  the Minister has power, on behalf of the Commonwealth, to do, or authorise the doing of, anything necessary or convenient to obtain the registration of the Commonwealth as owner, including, without limiting the generality of this, the execution of any instrument required to be executed by a person transferring an interest in property of that kind.<o:p></o:p>
+<dt>(a)</dt><dd>a legal or equitable estate or interest in the property; or</dd>
 
-          (2A)  If a forfeiture order has been made against registrable property:<o:p></o:p>
+<dt>(b)</dt><dd>a right, power or privilege in connection with the property.
 
-                     (a)  the DPP has power, on behalf of the Commonwealth, to do anything necessary or convenient to give notice of, or otherwise protect, the equitable interest of the Commonwealth in the property; and<o:p></o:p>
+</dd>
 
-                     (b)  any such action by or on behalf of the Commonwealth is not a dealing for the purposes of paragraph (3)(a).<o:p></o:p>
+</dl></dl></dl>
 
-             (3)  Where a court makes a forfeiture order against property:<o:p></o:p>
+<dl compact="">
 
-                     (a)  the property shall not, except with the leave of the court and in accordance with any directions of the court, be disposed of, or otherwise dealt with, by or on behalf of the Commonwealth, before the relevant time; and<o:p></o:p>
+<dt>(2)</dt><dd>Without limiting the generality of any other provision of this Act, in
 
-                     (b)  if, at the relevant time, the order has not been discharged, then, subject to any direction under subsection (3A), the Official Trustee must, as soon as practicable after the relevant time:<o:p></o:p>
+determining:
 
-                              (i)  if the property is money—after paying the Official Trustee’s remuneration and other costs, charges and expenses of the kind referred to in subsection 55(1) payable to or incurred by it in connection with the restraining order, credit the amount of the remainder of the money to the Confiscated Assets Special Account as required by section 34B; and<o:p></o:p>
+</dd> </dl>
 
-                             (ii)  if the property is not money—sell or otherwise dispose of the property and, after paying the Official Trustee’s remuneration and other costs, charges and expenses of the kind referred to in subsection 55(1) payable to or incurred by it in connection with the restraining order or the sale or disposition, credit the amount of the remainder of those proceeds to the Confiscated Assets Special Account as required by section 34B.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-          (3A)  Where a court makes a forfeiture order against property, the Attorney-General, or a prescribed officer authorised by the Attorney-General for the purposes of this subsection, may, at or after the relevant time but before the property is dealt with under paragraph (3)(b), direct that the property be disposed of, or otherwise dealt with, as specified in the direction.<o:p></o:p>
+<dt>(a)</dt><dd>whether or not property, or an interest in property, is subject to the
 
-             (4)  Without limiting the generality of subsection (3A), the directions that may be given pursuant to that subsection include a direction that property is to be disposed of in accordance with the provisions of a law specified in the direction.<o:p></o:p>
+effective control of a person; or</dd>
 
-             (5)  A reference in this section to the appeal period in relation to a person’s conviction of an offence is:<o:p></o:p>
+<dt>(b)</dt><dd>whether or not there are reasonable grounds to believe that property, or
 
-                     (a)  in a case where the person is to be taken to have been convicted of the offence by reason of paragraph 5(1)(b)—a reference to the appeal period in relation to the finding of the person guilty of the offence; and<o:p></o:p>
+an interest in property, is subject to the effective control of a person;
 
-                     (b)  in a case where the person is to be taken to have been convicted of the offence by reason of paragraph 5(1)(c)—a reference to the appeal period in relation to the person’s conviction of the other offence referred to in that paragraph.<o:p></o:p>
+</dd>
 
-             (6)  In this section:<o:p></o:p>
+</dl></dl></dl>
 
-                    <a name="appeal-period"></a>**_appeal period_**, in relation to a decision of a court or a finding, means the period ending:<o:p></o:p>
+regard may be had to:
 
-                     (a)  if the period provided for the lodging of an appeal against the decision or finding has ended without such an appeal having been lodged—at the end of that period; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  if an appeal against the decision or finding has been lodged—when the appeal lapses or is finally determined.<o:p></o:p>
+<dt>(c)</dt><dd>shareholdings in, debentures over or directorships of a company that has
 
-                    <a name="relev-time"></a>**_relevant time_**, in relation to a forfeiture order made in reliance on a person’s conviction of an offence, means:<o:p></o:p>
+an interest (whether direct or indirect) in the property;</dd>
 
-                     (a)  the end of the appeal period in relation to the making of the forfeiture order; or<o:p></o:p>
+<dt>(d)</dt><dd>a trust that has a relationship to the property; and</dd>
 
-                     (b)  the end of the appeal period in relation to the person’s conviction;<o:p></o:p>
+<dt>(e)</dt><dd>family, domestic and business relationships between persons having an
 
-whichever is the later.<o:p></o:p>
+interest in the property, or in companies of the kind referred to in
 
-##### <a id="21"></a>21  Effect of forfeiture order on third parties<o:p></o:p>
+paragraph&#160;(c) or trusts of the kind referred to in paragraph&#160;(d), and
 
-             (1)  Where an application is made for a forfeiture order against particular property, a person who claims an interest in the property may apply, before the forfeiture order is made, to the court for an order under subsection (6).<o:p></o:p>
+other persons.
 
-             (2)  Subject to subsections (3) and (7), where a court makes a forfeiture order against property, a person who claims an interest in the property may apply to the court for an order under subsection (6).<o:p></o:p>
+</dd>
 
-             (3)  A person who:<o:p></o:p>
+</dl></dl></dl>
 
-                     (a)  was given notice of the application for the forfeiture order; or<o:p></o:p>
+<center>Back to Top</center>
 
-                     (b)  appeared at the hearing of the application;<o:p></o:p>
+**
 
-shall not make an application to a court under subsection (2) except with the leave of the court.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 10  Appropriate court in relation to indictable offence 
+**
 
-             (4)  The court may grant the person leave to apply if the court is satisfied that there are special grounds for granting the leave.<o:p></o:p>
+ <dl compact="">
 
-             (5)  Without limiting the generality of subsection (4), the court may grant a person leave to apply if the court is satisfied that:<o:p></o:p>
+<dt>(1)</dt><dd>Where a person is convicted of an offence before the Supreme Court of a
 
-                     (a)  the person, for a good reason, did not attend the hearing of the application for the forfeiture order although the person had notice of the application; or<o:p></o:p>
+State or Territory, that Supreme Court is the appropriate court in relation to
 
-                     (b)  particular evidence proposed to be adduced by the person in connection with the application under subsection (2) was not available to the person at the time of the hearing of the application for the forfeiture order.<o:p></o:p>
+the conviction.</dd> <dt>(2)</dt><dd>Where a person is convicted of an offence before any other court of a State or Territory, the court before which the person was convicted and the Supreme Court of that State or Territory are both appropriate courts in relation to the conviction. </dd> </dl>
 
-             (6)  If a person applies to a court for an order under this subsection in respect of the applicant’s interest in property and the court is satisfied that:<o:p></o:p>
+**
 
-                     (a)  the applicant was not, in any way, involved in the commission of an offence in respect of which forfeiture of the property is sought, or the forfeiture order against the property was made, as the case requires; and<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 11  Act to bind Crown 
+**
 
-                     (b)  if the applicant acquired the interest at the time of or after the commission of such an offence—the applicant acquired the interest:<o:p></o:p>
+ <dl compact="">
 
-                              (i)  for sufficient consideration; and<o:p></o:p>
+<dt>(1)</dt><dd>This Act binds the Crown in right of the Commonwealth, of each of the
 
-                             (ii)  without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the property was, at the time of the acquisition, tainted property;<o:p></o:p>
+States, of the Northern Territory and of Norfolk Island.</dd> <dt>(2)</dt><dd>Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of the Northern Territory or of Norfolk Island liable to be prosecuted for an offence. </dd> </dl>
 
-the court shall make an order:<o:p></o:p>
+**
 
-                     (c)  declaring the nature, extent and value (as at the time when the order is made) of the applicant’s interest; and<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 12  Act to apply both within and outside Australia 
+**
 
-                     (d)  either:<o:p></o:p>
+ <dl compact="">
 
-                              (i)  if the interest is still vested in the Commonwealth—directing the Commonwealth to transfer the interest to the applicant; or<o:p></o:p>
+		This Act applies throughout the whole of Australia and also applies outside
 
-                             (ii)  declaring that there is payable by the Commonwealth to the applicant an amount equal to the value declared under paragraph (c).<o:p></o:p>
+Australia.
 
-             (7)  Subject to subsection (8), an application under subsection (2) shall be made before the end of the period of 6 months commencing on the day on which the forfeiture order is made.<o:p></o:p>
+ </dl>
 
-             (8)  Where a forfeiture order is made against property, the court that made the forfeiture order may grant a person claiming an interest in the property leave to apply under subsection (2) outside the period referred to in subsection (7) if the court is satisfied that the person’s failure to apply within that period was not due to any neglect on the part of the person.<o:p></o:p>
+**
 
-             (9)  A person who makes an application under subsection (1) or (2) in respect of property shall give notice to the DPP and the Minister, as prescribed, of the making of the application.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 13  Application 
+**
 
-           (10)  The DPP shall be a party to any proceedings upon an application under subsection (1) or (2) and the Minister may intervene in any such proceedings.<o:p></o:p>
+ <dl compact="">
 
-##### <a id="22"></a>22  Discharge of forfeiture order on appeal or by quashing of conviction<o:p></o:p>
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), Parts II and III (other than
 
-             (1)  Where:<o:p></o:p>
+section&#160;59) do not apply to a person's conviction of an offence if the
 
-                     (a)  a court makes a forfeiture order against property in reliance on a person’s conviction of an offence; and<o:p></o:p>
+person was convicted of the offence before the commencement of this Act.</dd> <dt>(2)</dt><dd>Subsection&#160;(1) does not apply in relation to interstate forfeiture orders, interstate pecuniary penalty orders, interstate restraining orders, foreign forfeiture orders, foreign pecuniary penalty orders or foreign restraining orders.</dd> <dt>(3)</dt><dd>Subject to subsection&#160;(1) this Act applies to: </dd> </dl>
 
-                     (b)  the conviction is subsequently quashed;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-the quashing of the conviction discharges the order.<o:p></o:p>
+<dt>(a)</dt><dd>an offence committed, or believed to have been committed, at any time
 
-          (1A)  This section does not apply if the conviction is quashed after the commencement of the _Proceeds of Crime Act 2002_.<o:p></o:p>
+(whether before or after the commencement of this Act); and</dd>
 
-Note:          Division 6 of Part 2-2 of the _Proceeds of Crime Act 2002_ applies in relation to convictions quashed after that commencement: see subitem 21(1) of Schedule 7 to the _Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002_.<o:p></o:p>
+<dt>(b)</dt><dd>a person's conviction at any time of an offence (whether before or after
 
-             (2)  Where a forfeiture order against property is discharged as provided by subsection (1) or by a court hearing an appeal against the making of the order, the DPP shall:<o:p></o:p>
+the commencement of this Act).
 
-                     (a)  as soon as practicable after the discharge of the order, give written notice of the discharge of the forfeiture order to any person the DPP has reason to believe may have had an interest in the property immediately before the making of the forfeiture order; and<o:p></o:p>
+</dd>
 
-                     (b)  if required to do so by a court—give or publish notice of the discharge of the forfeiture order to a specified person or class of persons in the manner and within the time that the court considers appropriate.<o:p></o:p>
+</dl></dl></dl>
 
-             (3)  A notice under subsection (2) shall include a statement to the effect that a person claiming an interest in the property may apply under subsection (4) for the transfer of the interest to the person.<o:p></o:p>
+**
 
-             (4)  Where a forfeiture order against property is discharged as provided by subsection (1) or by a court hearing an appeal against the making of the order, any person who claims to have had an interest in the property immediately before the making of the forfeiture order may apply to the Minister, in writing, for the transfer of the interest to the person and, on receipt of an application from a person who had an interest in the property immediately before the making of the forfeiture order:<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 13A  Application of the _Criminal Code_ 
+**
 
-                     (a)  if the interest is still vested in the Commonwealth—the Minister shall arrange for the interest to be transferred to the person; or<o:p></o:p>
+ <dl compact="">
 
-                     (b)  in any other case—there is payable to the person an amount equal to the value of the interest.<o:p></o:p>
+		Chapter&#160;2 of the _Criminal Code_ (except Part&#160;2.5) applies to
 
-             (5)  Where the Minister is required by this section to arrange for property to be transferred to a person, the Minister has power, on behalf of the Commonwealth, to do, or authorise the doing of, anything necessary or convenient to effect the transfer, including, without limiting the generality of this, the execution of any instrument and the making of an application for registration of an interest in the property on any appropriate register.<o:p></o:p>
+all offences against this Act.
 
-<o:p> </o:p>
+ </dl>
 
-### Division 2A—Registered foreign and international forfeiture orders<o:p></o:p>
+<dl compact=""><dl compact="">
 
-##### <a id="23"></a>23  Registered foreign and international forfeiture orders<o:p></o:p>
+Note:	Chapter&#160;2 of the _Criminal Code_ sets out the
 
-             (1)  If:<o:p></o:p>
+general principles of criminal responsibility.
 
-                     (a)  a foreign forfeiture order is registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under the Mutual Assistance Act; or<o:p></o:p>
+ </dl></dl>
 
-                     (b)  an order is registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under section 45 of the _International War Crimes Tribunals Act 1995_;<o:p></o:p>
+<center>**
 
-Division 2 applies in relation to the order as if subsections 19(5) and 20(3), (4), (5) and (6) and sections 21 and 22 were omitted.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987<part>Part&#160;II&#151;Confiscation </part>
+**</center>
 
-             (2)  If:<o:p></o:p>
+<center>**
 
-                     (a)  a foreign forfeiture order against property is registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under the Mutual Assistance Act; or<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;1&#151;Application for confiscation order </division> 
+**</center>
 
-                     (b)  an order against property is registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under section 45 of the _International War Crimes Tribunals Act 1995_;<o:p></o:p>
+**
 
-the property may, subject to section 23A, be disposed of, or otherwise dealt with, in accordance with any direction of the Attorney-General or of a person authorised by the Attorney-General in writing for the purposes of this subsection.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 14  Application for confiscation order 
+**
 
-##### <a id="23A"></a>23A  Effect on third parties of registration of foreign or international forfeiture order<o:p></o:p>
+ <dl compact="">
 
-             (1)  This section applies where, after the commencement of this section, a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> registers under the Mutual Assistance Act a foreign forfeiture order against property.<o:p></o:p>
+<dt>(1)</dt><dd>Where a person is convicted of an indictable offence, the DPP may, subject
 
-          (1A)  This section also applies if a court registers under section 45 of the _International War Crimes Tribunals Act 1995_ an order against property.<o:p></o:p>
+to subsections&#160;(2), (3) and (4) apply to an appropriate court for one or
 
-             (2)  On registering the foreign or international forfeiture order, the court shall direct the DPP to give or publish notice of the registration:<o:p></o:p>
+both of the following orders:
 
-                     (a)  to specified persons (other than a person convicted of a foreign or international offence in respect of which the order was made) the court has reason to believe may have an interest in the property; and<o:p></o:p>
+</dd> </dl>
 
-                     (b)  in the manner and within the time the court considers appropriate.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  A person (other than a person convicted of a foreign or international offence in respect of which the foreign or international forfeiture order was made) who claims an interest in the property may apply to the court for an order under subsection (7).<o:p></o:p>
+<dt>(a)</dt><dd>a forfeiture order against property that is tainted property in respect of
 
-             (4)  A person who was given notice of, or appeared at, the hearing held in connection with the making of the foreign or international forfeiture order is not entitled, except with the leave of the court, to apply under subsection (3).<o:p></o:p>
+the offence;</dd>
 
-             (5)  The court may grant leave under subsection (4) if satisfied that there are special grounds for doing so.<o:p></o:p>
+<dt>(b)</dt><dd>a pecuniary penalty order against the person in respect of benefits
 
-             (6)  Without limiting the generality of subsection (5), the court may grant a person leave under subsection (4) if the court is satisfied that:<o:p></o:p>
+derived by the person from the commission of the offence.
 
-                     (a)  the person, for a good reason, did not attend the hearing referred to in subsection (4) although the person had notice of the hearing; or<o:p></o:p>
+</dd>
 
-                     (b)  particular evidence that the person proposes to adduce in connection with the proposed application under subsection (3) was not available to the person at the time of the hearing referred to in subsection (4).<o:p></o:p>
+</dl></dl></dl>
 
-             (7)  If, on an application for an order under this subsection, the court is satisfied that:<o:p></o:p>
+<center>Back to Top</center>
 
-                     (a)  the applicant was not, in any way, involved in the commission of a foreign or international offence in respect of which the foreign or international forfeiture order was made; and<o:p></o:p>
+<dl compact="">
 
-                     (b)  if the applicant acquired his, her or its interest in the property at the time of or after the commission of such an offence—the applicant acquired the interest:<o:p></o:p>
+<dt>(2)</dt><dd>The DPP:
 
-                              (i)  for sufficient consideration; and<o:p></o:p>
+</dd> </dl>
 
-                             (ii)  without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the property was, at the time of the acquisition, tainted property in relation to a foreign or international offence;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-the court shall make an order:<o:p></o:p>
+<dt>(a)</dt><dd>is not empowered to make an application after the end of the relevant
 
-                     (c)  declaring the nature, extent and value (as at the time when the order is made) of the applicant’s interest in the property; and<o:p></o:p>
+application period in relation to the conviction; and</dd>
 
-                     (d)  either:<o:p></o:p>
+<dt>(b)</dt><dd>is not empowered to make an application after the commencement of the
 
-                              (i)  directing the Commonwealth to transfer the interest to the applicant; or<o:p></o:p>
+_Proceeds of Crime Act 2002_ unless some or all of the property which
 
-                             (ii)  declaring that there is payable by the Commonwealth to the applicant an amount equal to the value declared under paragraph (c).<o:p></o:p>
+could be used to satisfy the order is property in respect of which a
 
-             (8)  Subject to subsection (9), an application under subsection (3) shall be made before the end of 6 weeks beginning on the day when the foreign or international forfeiture order is registered in the court.<o:p></o:p>
+restraining order is in force.
 
-             (9)  The court may grant a person leave to apply under subsection (3) outside the period referred to in subsection (8) if the court is satisfied that the person’s failure to apply within that period was not due to any neglect on the person’s part.<o:p></o:p>
+</dd>
 
-           (10)  A person who applies under subsection (3) shall give to the DPP and the Minister notice, as prescribed, of the application.<o:p></o:p>
+</dl></dl></dl>
 
-           (11)  The DPP shall be a party to proceedings on an application under subsection (3) and the Minister may intervene in such proceedings.<o:p></o:p>
+<dl compact="">
 
-           (12)  In this section:<o:p></o:p>
+<dt>(3)</dt><dd>The DPP is not empowered to make an application to a court under
 
-                    <a name="foreign-intern-forfeitur-order"></a>**_foreign or international forfeiture order_** means:<o:p></o:p>
+subsection&#160;(1) for a forfeiture order against property in respect of a
 
-                     (a)  the foreign forfeiture order mentioned in subsection (1) in relation to which this section applies; or<o:p></o:p>
+person's conviction of an offence if:
 
-                     (b)  the order mentioned in subsection (1A) in relation to which this section applies;<o:p></o:p>
+</dd> </dl>
 
-as the case may be.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="foreign-intern-offenc"></a>**_foreign or international offence_** means:<o:p></o:p>
+<dt>(a)</dt><dd>an application has previously been made:
 
-                     (a)  a foreign serious offence; or<o:p></o:p>
+</dd>
 
-                     (b)  a Tribunal offence within the meaning of the _International War Crimes Tribunals Act 1995_;<o:p></o:p>
+</dl></dl></dl>
 
-as the case requires.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(i)</dt><dd>under that subsection;</dd>
 
-### Division 3—Pecuniary penalty orders<o:p></o:p>
+<dt>(ii)</dt><dd>under another law of the Commonwealth; or</dd>
 
-##### <a id="24"></a>24  Application of Division<o:p></o:p>
+<dt>(iii)</dt><dd>under a law of a Territory;
 
-                   This Division applies to:<o:p></o:p>
+</dd>
 
-                     (a)  property that comes into the possession, or under the control, of a person either within or outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and either before or after the commencement of this Act; and<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (b)  benefits that are provided to a person either within or outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and either before or after the commencement of this Act.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="25"></a>25  Special provisions in relation to serious offences<o:p></o:p>
+		for forfeiture or condemnation of the property in respect of the offence;
 
-             (1)  Where an application is made to a court for a pecuniary penalty order against a person in reliance on the person’s conviction of a serious offence, the court shall not make a pecuniary penalty order in reliance on the conviction until after the end of the period of 6 months commencing on the day of the conviction.<o:p></o:p>
+and
 
-             (2)  Subsection (1) does not apply to an application for a pecuniary penalty order against a person who is to be taken to have been convicted of the serious offence by reason of paragraph 5(1)(d).<o:p></o:p>
+<dt>(b)</dt><dd>the application has been finally determined on the merits;
 
-##### <a id="26"></a>26  Pecuniary penalty orders<o:p></o:p>
+</dd>
 
-             (1)  Where:<o:p></o:p>
+</dl></dl></dl>
 
-                     (a)  an application is made to a court for an order under this section in respect of benefits derived by a person from the commission of an offence; and <o:p></o:p>
+except with the leave of the court.
 
-                     (b)  the court is satisfied that the person derived benefits from the commission of the offence;<o:p></o:p>
+<dl compact="">
 
-the court may, if it considers it appropriate:<o:p></o:p>
+<dt>(4)</dt><dd>The DPP is not empowered to make an application to a court under
 
-                     (c)  assess, in accordance with section 27, the value of the benefits so derived; and<o:p></o:p>
+subsection&#160;(1) for a pecuniary penalty order against a person in respect
 
-                     (d)  order the person to pay to the Commonwealth a pecuniary penalty equal to the penalty amount.<o:p></o:p>
+of benefits derived by the person from the commission of an offence if:
 
-             (2)  Subject to subsections (3) and (4), the penalty amount is the value of the benefits as assessed under paragraph (1)(c).<o:p></o:p>
+</dd> </dl>
 
-             (3)  Where:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  property that is proceeds of the offence has been forfeited, under this Act or another law of the Commonwealth or under a law of a Territory, in relation to the offence; or<o:p></o:p>
+<dt>(a)</dt><dd>an application has previously been made:
 
-                     (b)  a forfeiture order is proposed to be made against property that is proceeds of the offence;<o:p></o:p>
+</dd>
 
-the penalty amount shall be taken to be reduced by an amount equal to the value of the property as at the time of the making of the pecuniary penalty order.<o:p></o:p>
+</dl></dl></dl>
 
-             (4)  Where the court making a pecuniary penalty order is satisfied that an amount of tax (whether payable under a law of the Commonwealth, a State, a Territory or a foreign country) that has been paid by the person is attributable in whole or in part to the benefits in respect of which the order is being made, the court may determine that the penalty amount be reduced by the amount that, in the opinion of the court, represents the extent to which the amount of tax so paid is attributable to those benefits and where the court makes such a determination the penalty amount shall be taken to be reduced accordingly.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (5)  If the court considers it appropriate to do so, the court may reduce the amount payable by a person under a pecuniary penalty order made in relation to an offence by an amount equal to the amount payable by the person by way of fine, restitution, compensation or damages in relation to the offence.<o:p></o:p>
+<dt>(i)</dt><dd>under that subsection;</dd>
 
-             (6)  Where:<o:p></o:p>
+<dt>(ii)</dt><dd>under another law of the Commonwealth; or</dd>
 
-                     (a)  a court makes a pecuniary penalty order in relation to an offence;<o:p></o:p>
+<dt>(iii)</dt><dd>under a law of a Territory;
 
-                     (b)  in calculating the penalty amount, the court took into account a forfeiture of, or proposed forfeiture order in respect of, property; and<o:p></o:p>
+</dd>
 
-                     (c)  an appeal against the forfeiture or forfeiture order is allowed or the proceedings for the proposed forfeiture order terminate without the proposed forfeiture order being made;<o:p></o:p>
+</dl></dl></dl></dl>
 
-the DPP may apply to the court for a variation of the pecuniary penalty order to increase the penalty amount by the value of the property and the court may, if it considers it appropriate to do so, vary the order accordingly.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (7)  Where:<o:p></o:p>
+		for a pecuniary penalty in respect of those benefits derived by the person
 
-                     (a)  a court makes a pecuniary penalty order against a person in relation to an offence;<o:p></o:p>
+from the commission of the offence; and
 
-                     (b)  in calculating the penalty amount, the court took into account, in accordance with subsection (4), an amount of tax paid by the person; and<o:p></o:p>
+<dt>(b)</dt><dd>the application has been finally determined on the merits;
 
-                     (c)  an amount is repaid or refunded to the person in respect of that tax;<o:p></o:p>
+</dd>
 
-the DPP may apply to the court for a variation of the pecuniary penalty order to increase the penalty amount by the amount repaid or refunded and the court may, if it considers it appropriate to do so, vary the order accordingly.<o:p></o:p>
+</dl></dl></dl>
 
-             (8)  An amount payable by a person to the Commonwealth in accordance with a pecuniary penalty order is a civil debt due by the person to the Commonwealth.<o:p></o:p>
+except with the leave of the court.
 
-             (9)  A pecuniary penalty order against a person may be enforced as if it were an order made in civil proceedings instituted by the Commonwealth against the person to recover a debt due by the person to the Commonwealth and the debt arising from the order shall be taken to be a judgment debt.<o:p></o:p>
+<dl compact="">
 
-##### <a id="27"></a>27  Assessment of pecuniary penalty<o:p></o:p>
+<dt>(5)</dt><dd>The court shall not grant leave under subsection&#160;(3) or (4) unless
 
-             (1)  In this section:<o:p></o:p>
+satisfied that:
 
-                    <a name="insolv-truste"></a>**_insolvency trustee_** means:<o:p></o:p>
+</dd> </dl>
 
-                     (a)  in relation to a bankruptcy—the trustee of the estate of the bankrupt; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  in relation to a composition or scheme of arrangement under Division 6 of Part IV of the _Bankruptcy Act 1966_—the trustee of the composition or scheme of arrangement; or<o:p></o:p>
+<dt>(a)</dt><dd>the tainted property, or the benefit, to which the new application relates
 
-                     (c)  in relation to a personal insolvency agreement under Part X of the _Bankruptcy Act 1966_—the trustee of the agreement; or
+was identified only after the first application was determined;</dd>
 
-                     (d)  in relation to the estate of a deceased person in respect of which an order has been made under Part XI of the _Bankruptcy Act 1966_—the trustee of the estate.<o:p></o:p>
+<dt>(b)</dt><dd>necessary evidence became available only after the first application was
 
-                    <a name="offenc-period"></a>**_offence period_**, in relation to an application under subsection 14(1) made in relation to 2 or more offences, means the period commencing when the earlier or earliest of those offences was committed and ending when the later or latest of those offences was committed.<o:p></o:p>
+determined; or</dd>
 
-             (2)  For the purposes of an application for a pecuniary penalty order against a person (in this subsection called the **_defendant_**), the value of the benefits derived by the defendant from the commission of an offence or offences shall be assessed by the court having regard to the evidence before it concerning all or any of the following:<o:p></o:p>
+<dt>(c)</dt><dd>the court is otherwise satisfied that it is in the interests of justice to
 
-                     (a)  the money, or the value of the property other than money, that came into the possession or under the control of:<o:p></o:p>
+grant the leave.
 
-                              (i)  the defendant; or<o:p></o:p>
+</dd>
 
-                             (ii)  another person at the request or direction of the defendant;<o:p></o:p>
+</dl></dl></dl>
 
-                            by reason of the commission of the offence or any of the offences;<o:p></o:p>
+<dl compact="">
 
-                     (b)  the value of any other benefit provided to:<o:p></o:p>
+<dt>(6)</dt><dd>An application may be made under this section in relation to one or more
 
-                              (i)  the defendant; or<o:p></o:p>
+indictable offences.</dd> <dt>(7)</dt><dd>An application may be made under this section for a pecuniary penalty order in respect of an offence even if section&#160;30 applies to the offence. </dd> </dl>
 
-                             (ii)  another person at the request or direction of the defendant; <o:p></o:p>
+<center>Back to Top</center>
 
-                            by reason of the commission of the offence or any of the offences;<o:p></o:p>
+**
 
-                     (c)  if the offence or any of the offences consisted of the doing of an act or thing in relation to a narcotic substance:<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 15  Notice of application 
+**
 
-                              (i)  the market value, at the time of the offence, of similar or substantially similar narcotic substances; and<o:p></o:p>
+ <dl compact="">
 
-                             (ii)  the amount that was, or the range of amounts that were, ordinarily paid for the doing of a similar or substantially similar act or thing;<o:p></o:p>
+<dt>(1)</dt><dd>Where the DPP applies for a forfeiture order against property in respect
 
-                     (d)  the value of the defendant’s property:<o:p></o:p>
+of a person's conviction of an offence:
 
-                              (i)  where the application relates to a single offence—before, during and after the commission of the offence; or<o:p></o:p>
+</dd> </dl>
 
-                             (ii)  where the application relates to 2 or more offences—before, during and after the offence period;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  the defendant’s income and expenditure:<o:p></o:p>
+<dt>(a)</dt><dd>the DPP shall give written notice of the application to the person and to
 
-                              (i)  where the application relates to a single offence—before, during and after the commission of the offence; or<o:p></o:p>
+any other person the DPP has reason to believe may have an interest in the
 
-                             (ii)  where the application relates to 2 or more offences—before, during and after the offence period.<o:p></o:p>
+property;</dd>
 
-             (3)  The court, in quantifying the value of a benefit for the purposes of this section, may treat as the value of the benefit the value that the benefit would have had if derived at the time when the valuation is being made and, without limiting the generality of this, may have regard to any decline in the purchasing power of money between the time when the benefit was derived and the time when the valuation is being made.<o:p></o:p>
+<dt>(b)</dt><dd>the person, and any other person who claims an interest in the property,
 
-             (4)  Where an application is made for a pecuniary penalty order against a person in respect of a single ordinary indictable offence, the following provisions have effect:<o:p></o:p>
+may appear and adduce evidence at the hearing of the application; and</dd>
 
-                     (a)  if, at the hearing of the application, evidence is given that the value of the person’s property during or after the commission of the offence exceeded the value of the person’s property before the commission of the offence, then, for the purposes of subsection 26(1), the court shall, subject to paragraphs (b) and (c) and subsection (7), treat the value of the benefits derived by the person from the commission of the offence as being not less than the amount of the greatest excess;<o:p></o:p>
+<dt>(c)</dt><dd>the court may, at any time before the final determination of the
 
-                     (b)  if, after evidence of the kind referred to in paragraph (a) is given, the person satisfies the court that the whole of the excess was due to causes unrelated to the commission of the offence, paragraph (a) does not apply to the excess;<o:p></o:p>
+application, direct the DPP to give or publish notice of the application to a
 
-                     (c)  if, after evidence of the kind referred to in paragraph (a) is given, the person satisfies the court that a part of the excess was due to causes unrelated to the commission of the offence, paragraph (a) applies to the excess as if it were reduced by the amount of that part.<o:p></o:p>
+specified person or class of persons, in the manner and within the time that
 
-             (5)  Where an application is made for a pecuniary penalty order against a person in respect of 2 or more ordinary indictable offences, the following provisions have effect:<o:p></o:p>
+the court considers appropriate.
 
-                     (a)  if, at the hearing of the application, evidence is given that the value of the person’s property at any time during or after the offence period exceeded the value of the person’s property before the offence period, then, for the purposes of subsection 26(1), the court shall, subject to paragraphs (b) and (c) and to subsection (7), treat the value of the benefits derived by the person from the commission of the offences as being not less than the amount of the excess;<o:p></o:p>
+</dd>
 
-                     (b)  if, after evidence of the kind referred to in paragraph (a) is given, the person satisfies the court that the whole of the excess was due to causes unrelated to the commission of the offences, paragraph (a) does not apply to the excess;<o:p></o:p>
+</dl></dl></dl>
 
-                     (c)  if, after evidence of the kind referred to in paragraph (a) is given, the person satisfies the court that a part of the excess was due to causes unrelated to the commission of the offences, paragraph (a) applies to the excess as if it were reduced by the amount of that part.<o:p></o:p>
+<dl compact="">
 
-             (6)  Where an application is made for a pecuniary penalty order against a person in relation to a serious offence or serious offences:<o:p></o:p>
+<dt>(2)</dt><dd>Where the DPP applies for a pecuniary penalty order against a person:
 
-                     (a)  all property of the person at the time the application is made; and<o:p></o:p>
+</dd> </dl>
 
-                     (b)  all property of the person at any time:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  within the period between the day the offence, or the earliest offence, was committed and the day on which the application is made; or<o:p></o:p>
+<dt>(a)</dt><dd>the DPP shall give the person written notice of the application; and</dd>
 
-                             (ii)  within the period of 5 years immediately before the day on which the application is made;<o:p></o:p>
+<dt>(b)</dt><dd>the person may appear and adduce evidence at the hearing of the application.
 
-                            whichever is the shorter;<o:p></o:p>
+</dd>
 
-shall be presumed, unless the contrary is proved, to be property that came into the possession or under the control of the person by reason of the commission of the offence or offences.<o:p></o:p>
+</dl></dl></dl>
 
-             (7)  A benefit shall not be taken into account for the purposes of this section if a pecuniary penalty has been imposed in respect of the benefit under:<o:p></o:p>
+**
 
-                     (a)  this Act;<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 16  Amendment of application 
+**
 
-                     (b)  Division 3 of Part XIII of the Customs Act;<o:p></o:p>
+ <dl compact="">
 
-                     (c)  a law of a Territory; or<o:p></o:p>
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), where the DPP applies for a confiscation
 
-                     (d)  a law of a State.<o:p></o:p>
+order, the court hearing the application may amend the application:
 
-             (8)  In calculating, for the purposes of an application for a pecuniary penalty order, the value of benefits derived by a person from the commission of an offence or offences, any expenses or outgoings of the person in connection with the commission of the offence or offences shall be disregarded.<o:p></o:p>
+</dd> </dl>
 
-             (9)  For the purposes of this section, where property of a person vests in an insolvency trustee, the property shall be taken to continue to be the property of the person.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-           (10)  At the hearing of an application for a pecuniary penalty order, a police officer, or a Customs officer, who is experienced in the investigation of narcotics offences may testify, to the best of the officer’s information, knowledge and belief:<o:p></o:p>
+<dt>(a)</dt><dd>on application by the DPP; or</dd>
 
-                     (a)  with respect to the amount that was the market value of a narcotic substance at a particular time or during a particular period; or<o:p></o:p>
+<dt>(b)</dt><dd>with the consent of the DPP.
 
-                     (b)  with respect to the amount, or the range of amounts, that was the amount, or range of amounts, ordinarily paid at a particular time, or during a particular period for the doing of an act or thing in relation to a narcotic substance;<o:p></o:p>
+</dd>
 
-notwithstanding any rule of law or practice relating to hearsay evidence, and the testimony is _prima facie_ evidence of the matters testified to.<o:p></o:p>
+</dl></dl></dl>
 
-##### <a id="28"></a>28  Court may lift corporate veil etc.<o:p></o:p>
+<dl compact="">
 
-             (1)  In assessing the value of benefits derived by a person from the commission of an offence or offences, the court may treat as property of the person any property that, in the opinion of the court, is subject to the effective control of the person.<o:p></o:p>
+<dt>(2)</dt><dd>The court shall not amend the application so as to:
 
-             (3)  On application by the DPP, a court may, if in its opinion particular property is subject to the effective control of a person against whom the court has made a pecuniary penalty order, make an order declaring that the whole, or a specified part, of that property is available to satisfy the pecuniary penalty order.<o:p></o:p>
+</dd> </dl>
 
-             (4)  Where a court declares that property is available to satisfy a pecuniary penalty order:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  the order may be enforced against the property as if the property were property of the person against whom the order is made; and<o:p></o:p>
+<dt>(a)</dt><dd>include additional property in an application for a forfeiture order; or</dd>
 
-                     (b)  a restraining order may be made in respect of the property as if the property were property of the person against whom the order is made.<o:p></o:p>
+<dt>(b)</dt><dd>include an additional benefit in an application for a pecuniary penalty
 
-             (5)  Where the DPP makes an application for an order under subsection (3) that property is available to satisfy a pecuniary penalty order against a person:<o:p></o:p>
+order;
 
-                     (a)  the DPP shall give written notice of the application to the person and to any person who the DPP has reason to believe may have an interest in the property; and<o:p></o:p>
+</dd>
 
-                     (b)  the person and any person who claims an interest in the property may appear and adduce evidence at the hearing of the application.<o:p></o:p>
+</dl></dl></dl>
 
-##### <a id="29"></a>29  Amounts paid in respect of registered foreign pecuniary penalty orders<o:p></o:p>
+unless the court is satisfied that:
 
-                   Where a foreign pecuniary penalty order is registered in a court in Australia under the Mutual Assistance Act, any amount paid (whether in Australia, in the foreign country in which the order was made or elsewhere) in satisfaction of the foreign pecuniary penalty order shall be taken to have been paid in satisfaction of the debt that arises by reason of the registration of the foreign pecuniary penalty order in that court.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(c)</dt><dd>the property or benefit was not reasonably capable of identification when
 
-### Division 4—Forfeiture in case of serious offence<o:p></o:p>
+the application was originally made; or</dd>
 
-##### <a id="30"></a>30  Forfeiture of all restrained property if person convicted of serious offence<o:p></o:p>
+<dt>(d)</dt><dd>necessary evidence became available only after the application was
 
-             (1)  If:<o:p></o:p>
+originally made.
 
-                     (a)  a person (in this subsection called the **_defendant_**) is convicted of a serious offence (otherwise than by reason of paragraph 5(1)(d));<o:p></o:p>
+</dd>
 
-                     (b)  before the commencement of the _Proceeds of Crime Act 2002_, a restraining order is or was granted in respect of property (whether property of the defendant or of some other person) in reliance on:<o:p></o:p>
+</dl></dl></dl>
 
-                              (i)  the defendant’s conviction of that offence; or<o:p></o:p>
+<dl compact="">
 
-                             (ii)  the charging or proposed charging of the defendant with that offence or a related offence;<o:p></o:p>
+<dt>(3)</dt><dd>Where:
 
-                     (c)  the restraining order, to the extent to which it relates to the property, is not the subject of a declaration under subsection 48(4); and<o:p></o:p>
+</dd> </dl>
 
-                     (d)  the restraining order is in force at the end of:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  the period of 6 months starting on the day of the conviction; or<o:p></o:p>
+<dt>(a)</dt><dd>the DPP applies to amend an application for a forfeiture order; and</dd>
 
-                             (ii)  if an order under section 30A is in force at the end of that period—the end of the extended period;<o:p></o:p>
+<dt>(b)</dt><dd>the amendment would have the effect of including additional property in
 
-the property is, under this subsection, forfeited to the Commonwealth at the end of that period, or that extended period, as the case may be.<o:p></o:p>
+the application for the forfeiture order;
 
-             (2)  Subject to subsection (3), where property is forfeited to the Commonwealth by virtue of subsection (1), the property vests absolutely in the Commonwealth.<o:p></o:p>
+</dd>
 
-             (3)  Where registrable property is forfeited to the Commonwealth by virtue of subsection (1):<o:p></o:p>
+</dl></dl></dl>
 
-                     (a)  the property vests in equity in the Commonwealth but does not vest in the Commonwealth at law until the applicable registration requirements have been complied with;<o:p></o:p>
+then:
 
-                     (b)  the Commonwealth is entitled to be registered as owner of the property; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  the Minister has power, on behalf of the Commonwealth, to do, or to authorise the doing of, anything necessary or convenient to obtain the registration of the Commonwealth as owner, including, without limiting the generality of this, the execution of any instrument required to be executed by a person transferring an interest in property of that kind.<o:p></o:p>
+<dt>(c)</dt><dd>the DPP shall give written notice of the application to amend to any
 
-          (3A)  If registrable property has been forfeited to the Commonwealth because of subsection (1):<o:p></o:p>
+person who the DPP has reason to believe may have an interest in property to be
 
-                     (a)  the DPP has power, on behalf of the Commonwealth, to do anything necessary or convenient to give notice of, or otherwise protect, the equitable interest of the Commonwealth in the property; and<o:p></o:p>
+included in the application for the forteiture order; and</dd>
 
-                     (b)  any such action by or on behalf of the Commonwealth is not a dealing for the purposes of paragraph (4)(a).<o:p></o:p>
+<dt>(d)</dt><dd>any person who claims an interest in the property to be included in the
 
-             (4)  Where property is forfeited to the Commonwealth under this section in respect of a person’s conviction of a serious offence:<o:p></o:p>
+application for the forfeiture order may appear and adduce evidence at the
 
-                     (a)  the property shall not, except with the leave of the court that made the relevant restraining order and in accordance with any directions of the court, be disposed of, or otherwise dealt with, by or on behalf of the Commonwealth, before the end of the appeal period in respect of the conviction; and<o:p></o:p>
+hearing of the application to amend.
 
-                     (b)  if, at the end of the appeal period in respect of the conviction, the conviction has not been quashed, then, subject to any direction under subsection (4A), the Official Trustee must, as soon as practicable after the end of the appeal period:<o:p></o:p>
+</dd>
 
-                              (i)  if the property is money—after paying the Official Trustee’s remuneration and other costs, charges and expenses of the kind referred to in subsection 55(1) payable to or incurred by it in connection with the restraining order, credit the amount of the remainder of the money to the Confiscated Assets Special Account as required by section 34B; and<o:p></o:p>
+</dl></dl></dl>
 
-                             (ii)  if the property is not money—sell or otherwise dispose of the property and, after paying the Official Trustee’s remuneration and other costs, charges and expenses of the kind referred to in subsection 55(1) payable to or incurred by it in connection with the restraining order or the sale or disposition, credit the amount of the remainder of those proceeds to the Confiscated Assets Special Account as required by section 34B.<o:p></o:p>
+<dl compact="">
 
-          (4A)  Where property is forfeited under this section because of a person’s conviction of a serious offence, the Attorney-General, or a prescribed officer authorised by the Attorney-General for the purposes of this subsection, may, at or after the end of the appeal period in respect of the conviction but before the property is dealt with under paragraph (4)(b), direct that the property be disposed of, or otherwise dealt with, as specified in the direction.<o:p></o:p>
+<dt>(4)</dt><dd>Where:
 
-             (5)  Without limiting the generality of subsection (4A), the directions that may be given pursuant to that subsection include a direction that property is to be disposed of in accordance with the provisions of a law specified in the direction.<o:p></o:p>
+</dd> </dl>
 
-             (6)  Where property is forfeited to the Commonwealth under subsection (1), the Minister may give all directions that are necessary or convenient to realise the Commonwealth’s interest in the property.<o:p></o:p>
+<center>Back to Top</center>
 
-             (7)  Without limiting the generality of subsection (6), where registrable property is forfeited to the Commonwealth under subsection (1), the Minister may direct an officer of the Department or a police officer to do anything necessary and reasonable to obtain possession of any document necessary for the transfer of the property.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (8)  A reference in this section to the appeal period in relation to the conviction of a person of an offence is:<o:p></o:p>
+<dt>(a)</dt><dd>the DPP applies to amend an application for a pecuniary penalty order
 
-                     (a)  in a case where the person is to be taken to have been convicted of the offence by reason of paragraph 5(1)(b)—a reference to the appeal period in relation to the finding of the person guilty of the offence; and<o:p></o:p>
+against a person; and</dd>
 
-                     (b)  in a case where the person is to be taken to have been convicted of the offence by reason of paragraph 5(1)(c)—a reference to the appeal period in relation to the conviction of the person of the other offence referred to in that paragraph.<o:p></o:p>
+<dt>(b)</dt><dd>the effect of the amendment would be to include an additional benefit in
 
-          (8A)  Where a court makes a restraining order in reliance on:<o:p></o:p>
+the application for the pecuniary penalty order;
 
-                     (a)  a person’s conviction of a serious offence; or<o:p></o:p>
+</dd>
 
-                     (b)  the charging or proposed charging of a person with such an offence;<o:p></o:p>
+</dl></dl></dl>
 
-a person may apply to the court for a declaration that property that was subject to the restraining order has been forfeited to the Commonwealth under subsection (1) and the court, if satisfied that the property has been forfeited to the Commonwealth under that subsection, shall make a declaration accordingly.<o:p></o:p>
+the DPP shall give the person written notice of the application to amend. 
 
-             (9)  In this section:<o:p></o:p>
+**
 
-                    <a name="appeal-period"></a>**_appeal period_**, in relation to a person’s conviction of an offence, means the period ending:<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 17  Making of confiscation order where person has absconded 
+**
 
-                     (a)  if the period provided for the lodging of an appeal against the conviction has ended without such an appeal having been lodged—at the end of that period; or<o:p></o:p>
+ <dl compact="">
 
-                     (b)  if an appeal against the conviction has been lodged—when the appeal lapses or is finally determined.<o:p></o:p>
+		Where a person is, by reason of paragraph 5(1)(d), to be taken to have been
 
-##### <a id="30A"></a>30A  Extension of waiting period<o:p></o:p>
+convicted of an indictable offence, a court shall not make a confiscation order
 
-             (1)  If:<o:p></o:p>
+in reliance on the person's conviction of the offence unless the court is
 
-                     (a)  a person (the **_defendant_**) is convicted of a serious offence; and<o:p></o:p>
+satisfied, on the balance of probabilities, that the person has absconded and:
 
-                     (b)  a restraining order is or was granted in reliance on:<o:p></o:p>
+ </dl>
 
-                              (i)  the defendant’s conviction of the offence; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  the charging or proposed charging of the defendant with the offence or a related offence; and<o:p></o:p>
+<dt>(a)</dt><dd>the person has been committed for trial for the offence; or</dd>
 
-                     (c)  a person makes a section 48 application in relation to the restraining order;<o:p></o:p>
+<dt>(b)</dt><dd>the court is satisfied, having regard to all the evidence before the
 
-the person mentioned in paragraph (c) may apply to the court for an order extending the waiting period in relation to the defendant’s conviction.<o:p></o:p>
+court, that a reasonable jury, properly instructed, could lawfully find the
 
-             (2)  Subsection (1) does not apply if the person is taken to have been convicted of the serious offence because of paragraph 5(1)(d).<o:p></o:p>
+person guilty of the offence.
 
-             (3)  An application under this section must be made before the end of the waiting period concerned.<o:p></o:p>
+</dd>
 
-             (4)  Subject to subsection (5), the court may, on an application made under this section, extend the waiting period for such further period as the court specifies. The further period must not, however, be longer than 9 months from the end of the waiting period concerned.<o:p></o:p>
+</dl></dl></dl>
 
-             (5)  The court must not grant an application under this section unless satisfied that the applicant made the section 48 application without undue delay, and has since diligently prosecuted that application.<o:p></o:p>
+**
 
-             (6)  If the court extends a waiting period, the extended period ends:<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 18  Procedure on application 
+**
 
-                     (a)  when the period specified by the court ends; or<o:p></o:p>
+ <dl compact="">
 
-                     (b)  when the section 48 application is finally determined;<o:p></o:p>
+<dt>(1)</dt><dd>Where an application is made to a court for a confiscation order in
 
-whichever happens first.<o:p></o:p>
+respect of a person's conviction of an offence, the court may, in determining
 
-             (7)  If:<o:p></o:p>
+the application, have regard to the transcript of any proceeding against the
 
-                     (a)  the court makes an order under this section; and<o:p></o:p>
+person for the offence and to the evidence given in any such proceeding.</dd> <dt>(2)</dt><dd>Where: </dd> </dl>
 
-                     (b)  the section 48 application is finally determined within the period of 6 months starting on the day of the defendant’s conviction;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-the order under this section stops being in force on the day the section 48 application is finally determined.<o:p></o:p>
+<dt>(a)</dt><dd>an application is made for a confiscation order in respect of a person's
 
-             (8)  In this section:<o:p></o:p>
+conviction of an offence;</dd>
 
-                    <a name="section-48-applic"></a>**_section 48 application_** means an application under subsection 48(2), (3) or (4).<o:p></o:p>
+<dt>(b)</dt><dd>the application is made to the court before which the person was
 
-                    <a name="wait-period"></a>**_waiting period_**, in relation to a person’s conviction of an offence, means the period of 6 months mentioned in subparagraph 30(1)(d)(i).<o:p></o:p>
+convicted; and</dd>
 
-##### <a id="31"></a>31  Recovery of property to which section 30 applies<o:p></o:p>
+<dt>(c)</dt><dd>the court has not, when the application is made, passed sentence on the
 
-             (1)  Where property is forfeited to the Commonwealth under section 30, a person who claims an interest in the property may, subject to subsections (2) and (4), apply to the court that made the relevant restraining order for an order under subsection (6) or (7).<o:p></o:p>
+person for the offence;
 
-             (2)  The application shall, subject to subsection (3), be made before the end of the period of 6 months commencing on the day on which the property is forfeited to the Commonwealth.<o:p></o:p>
+</dd>
 
-             (3)  The court may grant a person leave to apply after the end of the period referred to in subsection (2) if the court is satisfied that the delay in making the application is not due to neglect on the part of the applicant.<o:p></o:p>
+</dl></dl></dl>
 
-             (4)  An application for an order under subsection (6) or (7) in relation to an interest in property shall not be made by a person who was given notice of:<o:p></o:p>
+the court may, if satisfied that it is reasonable to do so in all the circumstances, defer passing sentence until it has determined the application for the confiscation order.
 
-                     (a)  proceedings on the application for the relevant restraining order; or<o:p></o:p>
+<dl compact="">
 
-                     (b)  the making of the relevant restraining order;<o:p></o:p>
+<dt>(3)</dt><dd>Where:
 
-except with the leave of the court.<o:p></o:p>
+</dd> </dl>
 
-             (5)  The court may grant a person leave to make an application if the court is satisfied that the person’s failure to seek to have the property excluded from the relevant restraining order was not due to any neglect on the part of the applicant.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (6)  Where a person applies for an order under this subsection in respect of an interest in property, the court may:<o:p></o:p>
+<dt>(a)</dt><dd>a person is to be taken to have been convicted of an offence by reason of
 
-                     (a)  if satisfied that:<o:p></o:p>
+paragraph 5(1)(c); and</dd>
 
-                              (i)  the applicant was not, in any way, involved in the commission of the relevant serious offence;<o:p></o:p>
+<dt>(b)</dt><dd>an application is made to a court for a confiscation order in respect of
 
-                            (ia)  the applicant’s interest in the property is not subject to the effective control of the defendant; and<o:p></o:p>
+the conviction;
 
-                             (ii)  if the applicant acquired the interest at the time of or after the commission of the offence—the applicant acquired the interest:<o:p></o:p>
+</dd>
 
-                                        (A)  for sufficient consideration; and <o:p></o:p>
+</dl></dl></dl>
 
-                                        (B)  without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the property was tainted property; or<o:p></o:p>
+the reference in subsection&#160;(1) to a proceeding against the person for the offence includes a reference to a proceeding against the person for the other offence referred to in that paragraph.
 
-                     (b)  if satisfied that:<o:p></o:p>
+<center>**
 
-                              (i)  the property was not used in, or in connection with, any unlawful activity and was not derived or realised, directly or indirectly, by any person from any unlawful activity; and<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;2&#151;Forfeiture orders </division> 
+**</center>
 
-                             (ii)  the applicant’s interest in the property was lawfully acquired;<o:p></o:p>
+**
 
-make an order:<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 19  Forfeiture orders 
+**
 
-                     (c)  declaring the nature, extent and value of the applicant’s interest in the property; and<o:p></o:p>
+ <dl compact="">
 
-                     (d)  either:<o:p></o:p>
+<dt>(1)</dt><dd>Where:
 
-                              (i)  if the interest is still vested in the Commonwealth—directing the Commonwealth to transfer the interest to the applicant; or<o:p></o:p>
+</dd> </dl>
 
-                             (ii)  declaring that there is payable by the Commonwealth to the applicant an amount equal to the value declared under paragraph (c).<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (7)  Where a person applies for an order under this subsection in respect of an interest in property, the court may, if satisfied that:<o:p></o:p>
+<dt>(a)</dt><dd>the DPP applies to a court for an order under this section against
 
-                     (a)  it would not be contrary to the public interest for the interest to be transferred to the person; and<o:p></o:p>
+property in respect of a person's conviction of an offence; and</dd>
 
-                     (b)  there is no other reason why the interest should not be transferred to the person;<o:p></o:p>
+<dt>(b)</dt><dd>the court is satisfied that the property is tainted property in respect of
 
-by order:<o:p></o:p>
+the offence;
 
-                     (c)  declare the nature, extent and value (as at the time when the order is made) of the interest; and<o:p></o:p>
+</dd>
 
-                     (d)  declare that section 30 shall cease to operate in relation to the interest if payment is made in accordance with section 33.<o:p></o:p>
+</dl></dl></dl>
 
-          (7A)  A person who makes an application under subsection (1) in respect of property shall give notice to the DPP and the Minister, as prescribed, of the making of the application.<o:p></o:p>
+the court may, if it considers it appropriate, order that the property, or such of the property as is specified by the court in the order, is forfeited to 
+<center>Back to Top</center>
+ the Commonwealth.
 
-          (7B)  The DPP shall be a party to any proceedings upon an application under subsection (1) and the Minister may intervene in any such proceedings.<o:p></o:p>
+<dl compact="">
 
-             (8)  In this section:<o:p></o:p>
+<dt>(2)</dt><dd>Where the court orders that property (other than money) is forfeited to
 
-                    <a name="defend"></a>**_defendant_**, in relation to property forfeited to the Commonwealth under section 30, means the person by virtue of whose conviction the property is forfeited.<o:p></o:p>
+the Commonwealth, the court shall specify in the order the amount that it
 
-                    <a name="relev-restrain-order"></a>**_relevant restraining order_**, in relation to property forfeited to the Commonwealth under section 30, means the restraining order by virtue of which the property is forfeited.<o:p></o:p>
+considers to be the value of the property at the time when the order is made.</dd> <dt>(3)</dt><dd>In considering whether it is appropriate to make a forfeiture order in respect of particular property, the court may have regard to: </dd> </dl>
 
-##### <a id="32"></a>32  Effect of quashing of conviction<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  Where:<o:p></o:p>
+<dt>(a)</dt><dd>any hardship that may reasonably be expected to be caused to any person by
 
-                     (a)  property is forfeited to the Commonwealth under section 30 in respect of a person’s conviction of a serious offence; and<o:p></o:p>
+the operation of such an order; and</dd>
 
-                     (b)  the conviction is subsequently quashed;<o:p></o:p>
+<dt>(b)</dt><dd>the use that is ordinarily made, or was intended to be made, of the
 
-the DPP shall:<o:p></o:p>
+property.
 
-                     (c)  as soon as practicable after the quashing of the conviction, give notice of the quashing of the conviction to any person the DPP has reason to believe may have had an interest in the property immediately before the property was forfeited; and<o:p></o:p>
+</dd>
 
-                     (d)  if required to do so by a court—give or publish notice of the quashing of the conviction to a specified person or class of persons in the manner and within the time that the court considers appropriate.<o:p></o:p>
+</dl></dl></dl>
 
-          (1A)  This section does not apply if the conviction is quashed after the commencement of the _Proceeds of Crime Act 2002_.<o:p></o:p>
+<dl compact="">
 
-Note:          Division 4 of Part 2-3 of the _Proceeds of Crime Act 2002_ applies in relation to convictions quashed after that commencement: see subitem 21(2) of Schedule 7 to the _Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002_.<o:p></o:p>
+<dt>(4)</dt><dd>In considering whether it is appropriate to make a forfeiture order under
 
-             (2)  A notice under subsection (1) shall include a statement to the effect that a person claiming an interest in the property may apply under subsection (3) for the transfer of the interest to the person.<o:p></o:p>
+subsection&#160;(1) in respect of particular property, the court may also have
 
-             (3)  Where subsection (1) applies to property, any person who claims to have had an interest in the property immediately before it was forfeited may apply to the Minister, in writing, for the transfer of the interest to the person and, on receipt of an application from a person who had an interest in the property immediately before it was forfeited:<o:p></o:p>
+regard to the gravity of the offence concerned.</dd> <dt>(5)</dt><dd>A court that makes a forfeiture order against property may, if it is satisfied that: </dd> </dl>
 
-                     (a)  if the interest is still vested in the Commonwealth—the Minister shall arrange for the interest to be transferred to the person; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  in any other case—there is payable to the person an amount equal to the value of the interest.<o:p></o:p>
+<dt>(a)</dt><dd>it would not be contrary to the public interest for a person's interest in
 
-             (4)  Where the Minister is required by this section to arrange for property to be transferred to a person, the Minister has power, on behalf of the Commonwealth, to do, or authorise the doing of, anything necessary or convenient to effect the transfer, including, without limiting the generality of this, the execution of any instrument and the making of an application for registration of an interest in the property on any appropriate register. <o:p></o:p>
+the property to be transferred to the person; and</dd>
 
-<o:p> </o:p>
+<dt>(b)</dt><dd>there is no other reason why the person's interest in the property should
 
-### Division 5—Miscellaneous<o:p></o:p>
+not be transferred to that person;
 
-##### <a id="33"></a>33  Person with interest in forfeited property may buy back the interest<o:p></o:p>
+</dd>
 
-             (1)  Where a court:<o:p></o:p>
+</dl></dl></dl>
 
-                     (a)  makes a forfeiture order against property; and<o:p></o:p>
+by order:
 
-                     (b)  makes an order under subsection 19(5) in respect of an interest in the property;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-the payment to the Commonwealth, while the interest is still vested in the Commonwealth, of the amount specified in the order under subsection 19(5) as the value of the interest discharges the forfeiture order to the extent to which it relates to the interest.<o:p></o:p>
+<dt>(c)</dt><dd>declare the nature, extent and value (as at the time when the order is
 
-             (2)  Where:<o:p></o:p>
+made) of the interest; and</dd>
 
-                     (a)  property is forfeited to the Commonwealth under section 30;<o:p></o:p>
+<dt>(d)</dt><dd>declare that the forfeiture order may, to the extent to which it relates
 
-                     (b)  a court makes an order under subsection 31(7) in respect of an interest in the property; and<o:p></o:p>
+to the interest, be discharged as provided by section&#160;33.
 
-                     (c)  there is paid to the Commonwealth, while the interest is still vested in the Commonwealth, the amount specified in the order under subsection 31(7) as the value of the interest;<o:p></o:p>
+</dd>
 
-section 30 ceases to apply in relation to the interest.<o:p></o:p>
+</dl></dl></dl>
 
-             (3)  Where subsection (1) or (2) applies to an interest in property, the Minister shall arrange for the interest to be transferred to the person in whom it was vested immediately before the property was forfeited to the Commonwealth.<o:p></o:p>
+<dl compact="">
 
-             (4)  Where the Minister is required by this section to arrange for an interest in property to be transferred to a person, the Minister has power, on behalf of the Commonwealth, to do, or authorise the doing of, anything necessary or convenient to effect the transfer, including, without limiting the generality of this, the execution of any instrument and the making of an application for registration of an interest in the property on any appropriate register.<o:p></o:p>
+<dt>(6)</dt><dd>Where:
 
-##### <a id="34"></a>34  Buying out other interests in forfeited property<o:p></o:p>
+</dd> </dl>
 
-                   Where:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  property is forfeited to the Commonwealth under this Part;<o:p></o:p>
+<dt>(a)</dt><dd>the DPP applies for a forfeiture order against particular property in
 
-                     (b)  an interest in the property is required to be transferred to a person (in this section called the **_purchaser_**) under subsection 22(4) or 33(3), or under a direction under subparagraph 21(6)(d)(i), 23A(7)(d)(i) or 31(6)(d)(i);<o:p></o:p>
+reliance on a person's conviction of an offence; and</dd>
 
-                     (c)  the purchaser’s interest in the property, immediately before the forfeiture took place, was not the only interest in the property;<o:p></o:p>
+<dt>(b)</dt><dd>evidence is given, at the hearing of the application, that the property
 
-                     (d)  the purchaser gives written notice to each other person who had an interest in the property immediately before the forfeiture took place that:<o:p></o:p>
+was in the person's possession at the time of, or immediately after, the
 
-                              (i)  the purchaser intends to purchase that other interest from the Commonwealth; and<o:p></o:p>
+commission of the offence;
 
-                             (ii)  the person served with the notice may, within 21 days after receiving the notice, lodge a written objection to the purchase of that interest with the Minister;<o:p></o:p>
+</dd>
 
-                     (e)  the person served with notice under paragraph (d) in relation to that interest does not lodge a written objection to the purchase of that interest with the Minister within the period referred to in that paragraph; and<o:p></o:p>
+</dl></dl></dl>
 
-                      (f)  the person pays to the Commonwealth, while that interest is still vested in the Commonwealth, an amount equal to the value of that interest;<o:p></o:p>
+then:
 
-the Minister shall arrange for that interest to be transferred to the purchaser.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(c)</dt><dd>if no evidence is given that tends to show that the property was not used
 
-## Part IIA—Confiscated Assets Special Account
+in, or in connection with, the commission of the offence&#151;the court shall
 
-##### <a id="34A"></a>34A  Confiscated Assets Special Account
+presume that the property was used in, or in connection with, the commission of
 
-             (1)  The Confiscated Assets Account established by Part IIA of this Act is continued in existence as the Confiscated Assets Special Account.
+the offence; or</dd>
 
-Note:          The Confiscated Assets Account was established by subsection 5(3) of the _Financial Management Legislation Amendment Act 1999_.
+<dt>(d)</dt><dd>in any other case&#151;the court shall not make a forfeiture order against the
 
-             (2)  The Account is a Special Account for the purposes of the _Financial Management and Accountability Act 1997_.
+property unless it is satisfied that the property was used in, or in connection
 
-##### <a id="34B"></a>34B  Credits to Confiscated Assets Special Account<o:p></o:p>
+with, the commission of the offence.
 
-             (1)  There must be credited to the Confiscated Assets Special Account amounts equal to:<o:p></o:p>
+</dd>
 
-                     (a)  proceeds of confiscated assets; and<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  money paid to the Commonwealth by a foreign country, within the meaning of the Mutual Assistance Act, under a treaty or arrangement providing for mutual assistance in criminal matters; and<o:p></o:p>
+<dl compact="">
 
-                     (c)  money paid to the Commonwealth under a foreign pecuniary penalty order registered under section 34 of the Mutual Assistance Act; and<o:p></o:p>
+<dt>(7)</dt><dd>Where a court makes a forfeiture order, the court has power to give all
 
-                     (d)  money (including the proceeds of sale of any property) that is, under a direction referred to in subsection 23(2), directed to be credited to the Confiscated Assets Special Account; and<o:p></o:p>
+directions that are necessary or convenient for giving effect to the order.</dd> <dt>(8)</dt><dd>Without limiting the generality of subsection&#160;(7), where a court makes a forfeiture order against registrable property, the court may direct an officer of the court to do anything necessary and reasonable to obtain possession of any document necessary for the transfer of the property. </dd> </dl>
 
-                     (e)  money deriving from the enforcement of an interstate forfeiture order registered in a Territory, other than money covered by a direction under subsection 20(3A) or 30(4A); and<o:p></o:p>
+**
 
-                      (f)  the Commonwealth’s share, under the equitable sharing program, of proceeds resulting from a breach of the criminal law of a State; and<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 20  Effects of forfeiture order 
+**
 
-                     (g)  money, other than money referred to in paragraph (b), paid to the Commonwealth by a foreign country in connection with assistance provided by the Commonwealth in relation to the recovery by that country of the proceeds of unlawful activity or the investigation or prosecution of unlawful activity.<o:p></o:p>
+ <dl compact="">
 
-             (2)  Subject to section 34E, all amounts credited to the Confiscated Assets Special Account are to be identified in accordance with the regulations as distributable funds or suspended funds.
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), where a court makes a forfeiture order
 
-##### <a id="34C"></a>34C  Debits from the Confiscated Assets Special Account<o:p></o:p>
+against property, the property vests absolutely in the Commonwealth.</dd> <dt>(2)</dt><dd>Where a forfeiture order is made against registrable property: </dd> </dl>
 
-             (1)  The purposes of the Confiscated Assets Special Account are:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  to the extent to which it comprises suspended funds:
+<dt>(a)</dt><dd>the property vests in equity in the Commonwealth but does not vest in the
 
-                              (i)  making such payments, if any, to States or to foreign countries as the Attorney-General considers are appropriate under the equitable sharing program; and
+Commonwealth at law until the applicable registration requirements have been
 
-                             (ii)  making such payments as the Attorney-General considers necessary to satisfy the Commonwealth’s obligations in respect of a registered foreign forfeiture order, an order registered under section 45 of the _International War Crimes Tribunals Act 1995_ or a registered foreign pecuniary penalty order; and
+complied with;</dd>
 
-                            (iii)  making such payments to a State as the Attorney-General considers necessary following a credit to the Account under paragraph 34B(1)(b) of money received from a foreign country; and
+<dt>(b)</dt><dd>the Commonwealth is entitled to be registered as owner of the property;
 
-                            (iv)  paying the prescribed annual management fee in accordance with the regulations; and
+and</dd>
 
-                             (v)  making such payments by way of restitution as are required under subparagraph 21(6)(d)(ii), paragraph 22(4)(b) or subparagraph 31(6)(d)(ii); and
+<dt>(c)</dt><dd>the Minister has power, on behalf of the Commonwealth, to do, or authorise
 
-                     (b)  to the extent to which it comprises distributable funds—making payments to a GBE of any proceeds of confiscated assets that relate to a relevant offence that caused financial loss to the GBE.
+the doing of, anything necessary or convenient to obtain the registration of
 
-             (2)  In this section:<o:p></o:p>
+the Commonwealth as owner, including, without limiting the generality of this,
 
-                    <a name="relev-offenc"></a>**_relevant offence_** means an offence against section 131.1, 132.1, 132.6, 132.8, 134.1, 134.2, 135.1, 135.2, 135.4, 136.1, 137.1 or 137.2 of the _Criminal Code_ or a prescribed offence.<o:p></o:p>
+the execution of any instrument required to be executed by a person
 
-##### <a id="34D"></a>34D  Debiting balance of distributable funds standing to the credit of Confiscated Assets Special Account<o:p></o:p>
+transferring an interest in property of that kind.
 
-             (1)  Once in each financial year the Attorney-General must determine, in accordance with the regulations, the amount of distributable funds not required for meeting payments under paragraph 34C(1)(b).<o:p></o:p>
+</dd>
 
-             (2)  As soon as practicable after the making of the determination, that amount must be debited from the balance of distributable funds standing to the credit of the Confiscated Assets Special Account.
+</dl></dl></dl>
 
-##### <a id="34E"></a>34E  Determinations by Official Trustee about suspended and distributable funds<o:p></o:p>
+<center>Back to Top</center>
 
-             (1)  The Official Trustee may, at such times as it considers appropriate, but must, at least once in every 6 months, determine whether the amount of suspended funds standing to the credit of the Confiscated Assets Special Account:<o:p></o:p>
+<dl compact="">
 
-                     (a)  is likely to be insufficient to meet the payments to be made out of the suspended funds for the purposes of paragraph 34C(1)(a); or<o:p></o:p>
+<dt>(2A)</dt><dd>If a forfeiture order has been made against registrable property:
 
-                     (b)  is likely to exceed the amount required to meet those payments.<o:p></o:p>
+</dd> </dl>
 
-             (2)  Where the Official Trustee determines that the amount of suspended funds is likely to be insufficient to meet the payments to be made out of the suspended funds for the purposes of paragraph 34C(1)(a), the Official Trustee must declare that such an amount of the distributable funds as the Official Trustee identifies, being not more than the amount required to meet those payments, is to be identified as suspended funds.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  Where the Official Trustee determines that the amount of suspended funds is likely to exceed the amount required to meet those payments, the Official Trustee must declare that such an amount of the suspended funds as the Official Trustee identifies, being not more than the amount of the likely excess, is to be identified as distributable funds.<o:p></o:p>
+<dt>(a)</dt><dd>the DPP has power, on behalf of the Commonwealth, to do anything necessary
 
-<o:p> </o:p>
+or convenient to give notice of, or otherwise protect, the equitable interest
 
-## Part III—Control of property liable to confiscation<o:p></o:p>
+of the Commonwealth in the property; and</dd>
 
-### Division 1—Search powers<o:p></o:p>
+<dt>(b)</dt><dd>any such action by or on behalf of the Commonwealth is not a dealing for
 
-##### <a id="35"></a>35  Powers to search for, and seize, tainted property<o:p></o:p>
+the purposes of paragraph&#160;(3)(a).
 
-             (1)  A police officer may:<o:p></o:p>
+</dd>
 
-                     (a)  search a person for tainted property; and<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  seize any property found in the course of the search that the police officer believes, on reasonable grounds, to be tainted property;<o:p></o:p>
+<dl compact="">
 
- but only if the search or seizure, as the case requires, is made:<o:p></o:p>
+<dt>(3)</dt><dd>Where a court makes a forfeiture order against property:
 
-                     (c)  with the consent of the person;<o:p></o:p>
+</dd> </dl>
 
-                     (d)  under a warrant issued under section 36; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  under section 38.<o:p></o:p>
+<dt>(a)</dt><dd>the property shall not, except with the leave of the court and in
 
-             (2)  A police officer may:<o:p></o:p>
+accordance with any directions of the court, be disposed of, or otherwise dealt
 
-                     (a)  enter upon land, or upon or into premises;<o:p></o:p>
+with, by or on behalf of the Commonwealth, before the relevant time; and</dd>
 
-                     (b)  search the land or premises for tainted property; and<o:p></o:p>
+<dt>(b)</dt><dd>if, at the relevant time, the order has not been discharged, then, subject
 
-                     (c)  seize any property found in the course of the search that the police officer believes, on reasonable grounds, to be tainted property;<o:p></o:p>
+to any direction under subsection&#160;(3A), the Official Trustee must, as soon
 
-but only if the entry, search or seizure, as the case requires, is made:<o:p></o:p>
+as practicable after the relevant time:
 
-                     (d)  with the consent of the occupier of the land or premises;<o:p></o:p>
+</dd>
 
-                     (e)  under a warrant issued under section 36; or<o:p></o:p>
+</dl></dl></dl>
 
-                      (f)  under section 38.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-          (2A)  A police officer is not empowered to do anything under this section after the commencement of the _Proceeds of Crime Act 2002_ unless it is done under a warrant issued under section 36 of this Act for which an application was made under that section before that commencement.<o:p></o:p>
+<dt>(i)</dt><dd>if the property is money&#151;after paying the Official Trustee's remuneration
 
-             (3)  Where a police officer may search a person under this Division, the police officer may also search:<o:p></o:p>
+and other costs, charges and expenses of the kind referred to in subsection
 
-                     (a)  the clothing that is being worn by the person; and<o:p></o:p>
+55(1) payable to or incurred by it in connection with the restraining order,
 
-                     (b)  any property in, or apparently in, the person’s immediate control.<o:p></o:p>
+pay the remainder of the money to the Reserve as required by section&#160;34B;
 
-             (4)  Nothing in this Division shall be taken to authorise a police officer to carry out a search by way of an examination of a body cavity of a person.<o:p></o:p>
+and</dd>
 
-##### <a id="36"></a>36  Search warrants in relation to tainted property<o:p></o:p>
+<dt>(ii)</dt><dd>if the property is not money&#151;sell or otherwise dispose of the property
 
-             (1)  Where a police officer has reasonable grounds for suspecting that there is, or may be within the next following 72 hours, tainted property of a particular kind:<o:p></o:p>
+and, after paying the Official Trustee's remuneration and other costs, charges
 
-                     (a)  on a person;<o:p></o:p>
+and expenses of the kind referred to in subsection 55(1) payable to or incurred
 
-                     (b)  in the clothing that is being worn by a person; or<o:p></o:p>
+by it in connection with the restraining order or the sale or disposition, pay
 
-                     (c)  otherwise in a person’s immediate control;<o:p></o:p>
+the remainder of those proceeds to the Reserve as required by section&#160;34B.
 
-the police officer may:<o:p></o:p>
+</dd>
 
-                     (d)  lay before a magistrate an information on oath setting out those grounds; and<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (e)  apply for the issue of a warrant to search the person for tainted property of that kind.<o:p></o:p>
+<dl compact="">
 
-             (2)  Where an application is made under subsection (1) for a warrant to search a person, the magistrate may, subject to subsection (6), issue a warrant authorising a police officer (whether or not named in the warrant), with such assistance, and by such force, as is necessary and reasonable:<o:p></o:p>
+<dt>(3A)</dt><dd>Where a court makes a forfeiture order against property, the
 
-                     (a)  to search the person for tainted property of that kind; and<o:p></o:p>
+Attorney-General, or a prescribed officer authorised by the Attorney-General
 
-                     (b)  to seize property found in the course of the search that the police officer believes, on reasonable grounds, to be tainted property of that kind.<o:p></o:p>
+for the purposes of this subsection, may, at or after the relevant time but
 
-             (3)  Where a police officer has reasonable grounds for suspecting that there is, or may be within the next following 72 hours, upon any land, or upon or in any premises, tainted property of a particular kind, the police officer may:<o:p></o:p>
+before the property is dealt with under paragraph&#160;(3)(b), direct that the
 
-                     (a)  lay before a magistrate an information on oath setting out those grounds; and<o:p></o:p>
+property be disposed of, or otherwise dealt with, as specified in the
 
-                     (b)  apply for the issue of a warrant to search the land or premises for tainted property of that kind.<o:p></o:p>
+direction.</dd> <dt>(4)</dt><dd>Without limiting the generality of subsection&#160;(3A), the directions that may be given pursuant to that subsection include a direction that property is to be disposed of in accordance with the provisions of a law specified in the direction.</dd> <dt>(5)</dt><dd>A reference in this section to the appeal period in relation to a person's conviction of an offence is: </dd> </dl>
 
-             (4)  Where an application is made under subsection (3) for a warrant to search land or premises, the magistrate may, subject to subsection (6), issue a warrant authorising a police officer (whether or not named in the warrant), with such assistance, and by such force, as is necessary and reasonable:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  to enter upon the land, or upon or into the premises;<o:p></o:p>
+<dt>(a)</dt><dd>in a case where the person is to be taken to have been convicted of the
 
-                     (b)  to search the land or premises for tainted property of that kind; and<o:p></o:p>
+offence by reason of paragraph 5(1)(b)&#151;a reference to the appeal period in
 
-                     (c)  to seize property found in the course of the search that the police officer believes on reasonable grounds to be tainted property of that kind.<o:p></o:p>
+relation to the finding of the person guilty of the offence; and</dd>
 
-             (5)  A warrant may be issued under subsection (2) or (4) in relation to tainted property whether or not an information has been laid in respect of the relevant offence.<o:p></o:p>
+<dt>(b)</dt><dd>in a case where the person is to be taken to have been convicted of the
 
-             (6)  A magistrate shall not issue a warrant under subsection (2) or (4) unless:<o:p></o:p>
+offence by reason of paragraph 5(1)(c)&#151;a reference to the appeal period in
 
-                     (a)  the informant or some other person has given to the magistrate, either orally or by affidavit, any further information that the magistrate requires concerning the grounds on which the issue of the warrant is sought;<o:p></o:p>
+relation to the person's conviction of the other offence referred to in that
 
-                     (b)  where an information has not been laid in respect of the relevant offence at the time when the application for the warrant is made—the magistrate is satisfied:<o:p></o:p>
+paragraph.
 
-                              (i)  that the property is tainted property; and<o:p></o:p>
+</dd>
 
-                             (ii)  that an information will be laid in respect of the relevant offence within 48 hours; and<o:p></o:p>
+</dl></dl></dl>
 
-                     (c)  the magistrate is satisfied that there are reasonable grounds for issuing the warrant.<o:p></o:p>
+<dl compact="">
 
-             (7)  There shall be included in a warrant issued under this section:<o:p></o:p>
+<dt>(6)</dt><dd>In this section:
 
-                     (a)  a statement of the purpose for which the warrant is issued, including a reference to the nature of the relevant offence;<o:p></o:p>
+</dd> </dl>
 
-                     (b)  a description of the kind of property authorised to be seized; and<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (c)  a time, not being later than the prescribed time, upon which the warrant ceases to have effect.<o:p></o:p>
+_appeal period_, in relation to a decision of a court or a finding,
 
-             (8)  There shall also be stated in a warrant issued under subsection (4) whether entry is authorised to be made at any time of the day or night or during specified hours of the day or night.<o:p></o:p>
+means the period ending:
 
-             (9)  If, in the course of searching, under a warrant issued under this section, for tainted property in relation to a particular offence, a police officer finds:<o:p></o:p>
+ </dl></dl>
 
-                     (a)  property that the police officer believes, on reasonable grounds, to be:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  tainted property in relation to the offence, although not of a kind specified in the warrant; or<o:p></o:p>
+<dt>(a)</dt><dd>if the period provided for the lodging of an appeal against the decision
 
-                             (ii)  tainted property in relation to another indictable offence; or<o:p></o:p>
+or finding has ended without such an appeal having been lodged&#151;at the end of
 
-                     (b)  any thing that the police officer believes, on reasonable grounds, will afford evidence as to the commission of a criminal offence;<o:p></o:p>
+that period; or</dd>
 
-and the police officer believes, on reasonable grounds, that it is necessary to seize that property or thing in order to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating the offence or the other offence, the warrant shall be deemed to authorise the police officer to seize that property or thing.<o:p></o:p>
+<dt>(b)</dt><dd>if an appeal against the decision or finding has been lodged&#151;when the
 
-           (10)  A police officer acting in accordance with a warrant issued under subsection (2) may remove, or require a person to remove, any of the clothing that the person is wearing but only if the removal of the clothing is necessary and reasonable for an effective search of the person under the warrant.<o:p></o:p>
+appeal lapses or is finally determined.
 
-           (11)  A person shall not be searched under this section except by a person of the same sex.<o:p></o:p>
+</dd>
 
-##### <a id="37"></a>37  Search warrants may be granted by telephone<o:p></o:p>
+</dl></dl></dl>
 
-             (1)  Where, by reason of circumstances of urgency, a police officer considers it necessary to do so, the police officer may make application for a search warrant under section 36 to a magistrate, by telephone, in accordance with this section.<o:p></o:p>
+<center>Back to Top</center>
 
-             (2)  Before making the application, the police officer shall prepare an information of a kind referred to in subsection 36(1) or (3), but may, if it is necessary to do so, make the application before the information has been sworn.<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-             (3)  Where a magistrate is, upon application made pursuant to subsection (1), satisfied:<o:p></o:p>
+_relevant time_, in relation to a forfeiture order made in reliance
 
-                     (a)  after having considered the terms of the information prepared in accordance with subsection (2); and<o:p></o:p>
+on a person's conviction of an offence, means:
 
-                     (b)  after having received such further information (if any) as the magistrate requires concerning the grounds on which the issue of the warrant is being sought;<o:p></o:p>
+ </dl></dl>
 
-that there are reasonable grounds for issuing the warrant, the magistrate shall complete and sign such a search warrant as the magistrate would have issued under section 36 if the application had been made to the magistrate in accordance with that section.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  Where a magistrate signs a warrant under subsection (3):<o:p></o:p>
+<dt>(a)</dt><dd>the end of the appeal period in relation to the making of the forfeiture
 
-                     (a)  the magistrate shall inform the police officer of the terms of the warrant and the date on which and the time at which it was signed, and record on the warrant the reasons for granting the warrant; and<o:p></o:p>
+order; or</dd>
 
-                     (b)  the police officer shall complete a form of warrant in the terms furnished to the police officer by the magistrate and write on it the name of the magistrate and the date on which and the time at which the warrant was signed.<o:p></o:p>
+<dt>(b)</dt><dd>the end of the appeal period in relation to the person's conviction;
 
-             (5)  Where a police officer completes a form of warrant in accordance with subsection (4), the police officer shall, not later than the day next following the date of the execution of the warrant or the expiry of the warrant, whichever is earlier, give the magistrate who signed the warrant the form of warrant completed by the police officer and the information duly sworn in connection with the warrant.<o:p></o:p>
+</dd>
 
-             (6)  Upon receipt of the documents referred to in subsection (5), the magistrate shall attach to them the warrant signed by the magistrate and deal with the documents in the manner in which the magistrate would have dealt with the information if the application for the warrant had been made in accordance with section 36.<o:p></o:p>
+</dl></dl></dl>
 
-             (7)  A form of warrant duly completed by a police officer in accordance with subsection (4) is, if it is in accordance with the terms of the warrant signed by the magistrate, authority for any search, entry or seizure that the warrant so signed authorises.<o:p></o:p>
+whichever is the later. 
 
-             (8)  Where it is material, in any proceedings, for a court to be satisfied that a search, entry or seizure was authorised in accordance with this section, and the warrant signed by a magistrate in accordance with this section authorising the search, entry or seizure is not produced in evidence, the court shall assume, unless the contrary is proved, that the search, entry or seizure was not authorised by such a warrant.<o:p></o:p>
+**
 
-             (9)  In this section, **_magistrate_** does not include a person by virtue only of the person being a justice of the peace.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 21  Effect of forfeiture order on third parties 
+**
 
-##### <a id="38"></a>38  Searches in emergencies<o:p></o:p>
+ <dl compact="">
 
-             (1)  Where a police officer suspects, on reasonable grounds, that particular property is tainted property, the police officer may:<o:p></o:p>
+<dt>(1)</dt><dd>Where an application is made for a forfeiture order against particular
 
-                     (a)  search a person for the property and, if the property is found in the course of the search, seize the property; or<o:p></o:p>
+property, a person who claims an interest in the property may apply, before the
 
-                     (b)  enter upon land, or upon or into premises, and search for the property and, if the property is found in the course of the search, seize the property.<o:p></o:p>
+forfeiture order is made, to the court for an order under
 
-             (2)  A police officer shall not exercise a power under subsection (1) unless:<o:p></o:p>
+subsection&#160;(6).</dd> <dt>(2)</dt><dd>Subject to subsections&#160;(3) and (7), where a court makes a forfeiture order against property, a person who claims an interest in the property may apply to the court for an order under subsection&#160;(6).</dd> <dt>(3)</dt><dd>A person who: </dd> </dl>
 
-                     (a)  the police officer believes, on reasonable grounds, that it is necessary to exercise the power in order to prevent the concealment, loss or destruction of the property; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the circumstances are so serious and urgent that they require the immediate exercise of the power without the authority of an order of a court or of a warrant issued under this Act.<o:p></o:p>
+<dt>(a)</dt><dd>was given notice of the application for the forfeiture order; or</dd>
 
-          (2A)  Subsection (1) does not apply in respect of particular property unless an information has been laid in respect of the offence that the police officer believes, on reasonable grounds, to be the offence by reason of the commission of which the property is tainted property.<o:p></o:p>
+<dt>(b)</dt><dd>appeared at the hearing of the application;
 
-          (2B)  If, in the course of searching, in accordance with subsection (1), for tainted property in relation to a particular indictable offence, a police officer finds:<o:p></o:p>
+</dd>
 
-                     (a)  property that the police officer believes, on reasonable grounds, to be tainted property in relation to another indictable offence; or<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  any thing that the police officer believes, on reasonable grounds, will afford evidence as to the commission of a criminal offence;<o:p></o:p>
+shall not make an application to a court under subsection&#160;(2) except with the leave of the court.
 
-and the police officer believes, on reasonable grounds, that it is necessary to seize that property or thing in order to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating the offence or the other offence, the police officer may seize that property or thing.<o:p></o:p>
+<dl compact="">
 
-             (3)  Where a person is searched under this section, the search shall, if it is practicable in the circumstances to do so, be carried out by a person of the same sex.<o:p></o:p>
+<dt>(4)</dt><dd>The court may grant the person leave to apply if the court is satisfied
 
-##### <a id="39"></a>39  Responsibility for seized property<o:p></o:p>
+that there are special grounds for granting the leave.</dd> <dt>(5)</dt><dd>Without limiting the generality of subsection&#160;(4), the court may grant a person leave to apply if the court is satisfied that: </dd> </dl>
 
-             (1)  Subject to subsection (2), where property is seized under this Division, the Commissioner shall arrange for the property to be kept until it is dealt with in accordance with another provision of this Act, and shall ensure that all reasonable steps are taken to preserve the property while it is so kept.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  Where:<o:p></o:p>
+<dt>(a)</dt><dd>the person, for a good reason, did not attend the hearing of the
 
-                     (a)  a police officer seizes property under this Division; and<o:p></o:p>
+application for the forfeiture order although the person had notice of the
 
-                     (b)  the officer believes on reasonable grounds that the property will afford evidence as to the commission of an offence that is the subject of a special ACC operation/investigation;<o:p></o:p>
+application; or</dd>
 
-the Chief Executive Officer of the ACC shall arrange for the property to be kept until it is dealt with in accordance with another provision of this Act, and shall ensure that all reasonable steps are taken to preserve the property while it is so kept.<o:p></o:p>
+<dt>(b)</dt><dd>particular evidence proposed to be adduced by the person in connection
 
-             (3)  In this section:<o:p></o:p>
+with the application under subsection&#160;(2) was not available to the person
 
-                    <a name="special-acc-oper-investig"></a>**_special ACC operation/investigation_** has the same meaning as in the _Australian Crime Commission Act 2002_.<o:p></o:p>
+at the time of the hearing of the application for the forfeiture order.
 
-##### <a id="40"></a>40  Return of seized property<o:p></o:p>
+</dd>
 
-             (1)  Where property has been seized under this Division (otherwise than because it may afford evidence of the commission of an offence), a person who claims an interest in the property may apply to the relevant Supreme Court for an order that the property be returned to the person.<o:p></o:p>
+</dl></dl></dl>
 
-             (2)  Where a person makes an application under subsection (1) and the court is satisfied that:<o:p></o:p>
+<dl compact="">
 
-                     (a)  the person is entitled to possession of the property;<o:p></o:p>
+<dt>(6)</dt><dd>If a person applies to a court for an order under this subsection in
 
-                     (b)  the property is not tainted property in relation to the relevant offence; and<o:p></o:p>
+respect of the applicant's interest in property and the court is satisfied that:
 
-                     (c)  the person in respect of whose conviction, charging or proposed charging the seizure of the property was made has no interest in the property;<o:p></o:p>
+</dd> </dl>
 
-the court shall order the responsible custodian to return the property to the person and where such an order is made the responsible custodian shall arrange for the property to be returned to the person.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  Where:<o:p></o:p>
+<dt>(a)</dt><dd>the applicant was not, in any way, involved in the commission of an
 
-                     (a)  property has been seized under this Division (otherwise than because it may afford evidence as to the commission of an offence);<o:p></o:p>
+offence in respect of which forfeiture of the property is sought, or the
 
-                     (b)  at the time when the property was seized, an information had not been laid in respect of a relevant offence; and<o:p></o:p>
+forfeiture order against the property was made, as the case requires; and</dd>
 
-                     (c)  at the end of the period of 48 hours after the time when the property was seized, an information has not been laid in respect of a relevant offence;<o:p></o:p>
+<dt>(b)</dt><dd>if the applicant acquired the interest at the time of or after the
 
-the responsible custodian shall, subject to subsections (5) and (6), arrange for the property to be returned to the person from whose possession it was seized as soon as practicable after the end of that period.<o:p></o:p>
+commission of such an offence&#151;the applicant acquired the interest:
 
-             (4)  Where:<o:p></o:p>
+</dd>
 
-                     (a)  property has been seized under this Division (otherwise than because it may afford evidence as to the commission of an offence);<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  either of the following conditions is satisfied:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  before the property was seized, a person had been convicted of a relevant offence or an information had been laid in respect of a relevant offence;<o:p></o:p>
+<dt>(i)</dt><dd>for sufficient consideration; and</dd>
 
-                             (ii)  before the property was seized, an information had not been laid in respect of a relevant offence, but an information was laid in respect of a relevant offence within 48 hours after the time when the property was seized; and<o:p></o:p>
+<dt>(ii)</dt><dd>without knowing, and in circumstances such as not to arouse a reasonable
 
-                     (c)  no forfeiture order has been made against the property within the period of 14 days after the property was seized;<o:p></o:p>
+suspicion, that the property was, at the time of the acquisition, tainted
 
-the responsible custodian shall, subject to subsections (5) and (6), arrange for the property to be returned to the person from whose possession it was seized as soon as practicable after the end of that period.<o:p></o:p>
+property;
 
-             (5)  Where:<o:p></o:p>
+</dd>
 
-                     (a)  property has been seized under this Division (otherwise than because it may afford evidence as to the commission of an offence);<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (b)  but for this subsection, the responsible custodian would be required to arrange for the property to be returned to a person as soon as practicable after the end of a particular period; and<o:p></o:p>
+the court shall make an order:
 
-                     (c)  before the end of that period, a restraining order is made in relation to the property;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-the following provisions have effect:<o:p></o:p>
+<dt>(c)</dt><dd>declaring the nature, extent and value (as at the time when the order is
 
-                     (d)  if the restraining order directs the Official Trustee to take custody and control of the property—the responsible custodian shall arrange for the property to be given to the Official Trustee in accordance with the restraining order;<o:p></o:p>
+made) of the applicant's interest; and</dd>
 
-                     (e)  if the court that made the restraining order has made an order under subsection (6) in relation to the property—the responsible custodian shall arrange for the property to be kept until it is dealt with in accordance with another provision of this Act.<o:p></o:p>
+<dt>(d)</dt><dd>either:
 
-             (6)  Where:<o:p></o:p>
+</dd>
 
-                     (a)  property has been seized under this Division (otherwise than because it may afford evidence as to the commission of an offence);<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  a restraining order is made in relation to the property; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  at the time when the restraining order is made, the property is in the possession of the responsible custodian;<o:p></o:p>
+<dt>(i)</dt><dd>if the interest is still vested in the Commonwealth&#151;directing the
 
-the responsible custodian may apply to the court that made the restraining order for an order that the responsible custodian retain possession of the property and the court may, if satisfied that there are reasonable grounds for believing that the property may afford evidence as to the commission of a relevant offence or any other offence, make an order that the responsible custodian may retain the property for so long as the property is so required as evidence as to the commission of that offence.<o:p></o:p>
+Commonwealth to transfer the interest to the applicant; or</dd>
 
-             (7)  Where the responsible custodian applies to a court for an order under subsection (6), a witness shall not be required to answer a question or to produce a document if the court is satisfied that the answering of the question or the production of the document may prejudice the investigation of, or the prosecution of a person for, an offence.<o:p></o:p>
+<dt>(ii)</dt><dd>declaring that there is payable by the Commonwealth to the applicant an
 
-             (8)  Where:<o:p></o:p>
+amount equal to the value declared under paragraph&#160;(c).
 
-                     (a)  property has been seized under this Division (otherwise than because it may afford evidence as to the commission of an offence);<o:p></o:p>
+</dd>
 
-                     (b)  an application is made for a restraining order or a forfeiture order in respect of the property;<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (c)  the application is refused; and<o:p></o:p>
+<center>Back to Top</center>
 
-                     (d)  at the time when the application is refused, the property is in the possession of the responsible custodian;<o:p></o:p>
+<dl compact="">
 
-the responsible custodian shall arrange for the property to be returned to the person from whose possession it was seized as soon as practicable after the refusal.<o:p></o:p>
+<dt>(7)</dt><dd>Subject to subsection&#160;(8), an application under subsection&#160;(2)
 
-             (9)  Where:<o:p></o:p>
+shall be made before the end of the period of 6 months commencing on the day on
 
-                     (a)  property has been seized under this Division; and<o:p></o:p>
+which the forfeiture order is made.</dd> <dt>(8)</dt><dd>Where a forfeiture order is made against property, the court that made the forfeiture order may grant a person claiming an interest in the property leave to apply under subsection&#160;(2) outside the period referred to in subsection&#160;(7) if the court is satisfied that the person's failure to apply within that period was not due to any neglect on the part of the person.</dd> <dt>(9)</dt><dd>A person who makes an application under subsection&#160;(1) or (2) in respect of property shall give notice to the DPP and the Minister, as prescribed, of the making of the application.</dd> <dt>(10)</dt><dd>The DPP shall be a party to any proceedings upon an application under subsection&#160;(1) or (2) and the Minister may intervene in any such proceedings. </dd> </dl>
 
-                     (b)  while the property is in the possession of the responsible custodian, a forfeiture order is made in respect of the property;<o:p></o:p>
+**
 
-the responsible custodian shall deal with the property as required by the order.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 22  Discharge of forfeiture order on appeal or by quashing of conviction 
+**
 
-           (10)  In this section:<o:p></o:p>
+<dl compact="">
 
-                    <a name="respons-custodian"></a>**_responsible custodian_**, in relation to property seized under this Division, means:<o:p></o:p>
+<dt>(1)</dt><dd>Where:
 
-                     (a)  if subsection 39(1) applies to the property—the Commissioner; or<o:p></o:p>
+</dd> </dl>
 
-                     (b)  if subsection 39(2) applies to the property—to the Chief Executive Officer of the ACC.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="41"></a>41  Issue of search warrants by Territory courts in relation to interstate indictable offences<o:p></o:p>
+<dt>(a)</dt><dd>a court makes a forfeiture order against property in reliance on a
 
-             (1)  This Division (other than section 40) applies to the issue of search warrants in a Territory as if:<o:p></o:p>
+person's conviction of an offence; and</dd>
 
-                     (a)  a reference in this Division to an offence included a reference to an interstate indictable offence; and<o:p></o:p>
+<dt>(b)</dt><dd>the conviction is subsequently quashed;
 
-                     (b)  a reference in this Division to tainted property included a reference to property:<o:p></o:p>
+</dd>
 
-                              (i)  used in, or in connection with, the commission of an interstate indictable offence; or<o:p></o:p>
+</dl></dl></dl>
 
-                             (ii)  derived or realised, directly or indirectly, by any person from the commission of an interstate indictable offence.<o:p></o:p>
+the quashing of the conviction discharges the order.
 
-             (2)  If property is seized under a warrant issued by virtue of subsection (1) the following provisions have effect:<o:p></o:p>
+<dl compact="">
 
-                     (a)  if:<o:p></o:p>
+<dt>(1A)</dt><dd>This section does not apply if the conviction is quashed after the
 
-                              (i)  by the end of the period of 7 days commencing on the day the property was seized, no person has been convicted of or charged with the interstate indictable offence in reliance on the commission of which the warrant was issued and an application for an interstate forfeiture order has not been made in respect of the property;<o:p></o:p>
+commencement of the _Proceeds of Crime Act 2002_.
 
-                             (ii)  a person has been charged with and convicted of the interstate indictable offence but by the end of the period of 6 months commencing on the day on which the person is convicted an application for an interstate forfeiture order has not been made in respect of the property; or<o:p></o:p>
+</dd> </dl>
 
-                            (iii)  a person has been charged with the interstate indictable offence and has been discharged or acquitted;<o:p></o:p>
+<dl compact=""><dl compact="">
 
-                            the Commissioner shall arrange for the property to be returned to the person from whose possession it was seized;<o:p></o:p>
+Note:	Division&#160;6 of Part&#160;2-2 of the _Proceeds of Crime Act 2002_ applies in relation to convictions quashed after that
 
-                     (b)  if a court of the State concerned makes an order:<o:p></o:p>
+commencement: see subitem 21(1) of Schedule&#160;7 to the _Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002_.
 
-                              (i)  directing that the property be returned to the person from whose possession it was seized; or<o:p></o:p>
+ </dl></dl>
 
-                             (ii)  directing that that person be allowed access to the property;<o:p></o:p>
+<dl compact="">
 
-                            the Commissioner shall take such steps as are necessary to give effect to the order.<o:p></o:p>
+<dt>(2)</dt><dd>Where a forfeiture order against property is discharged as provided by
 
-##### <a id="42"></a>42  Search for and seizure of tainted property in relation to foreign offences<o:p></o:p>
+subsection&#160;(1) or by a court hearing an appeal against the making of the
 
-             (1)  Where a police officer is authorised, under the Mutual Assistance Act, to apply to a magistrate of a State or Territory for a search warrant under this Act in relation to tainted property in respect of a foreign serious offence, the police officer may apply for the warrant accordingly and this Division applies to the application and to any warrant issued as a result of the application as if:<o:p></o:p>
+order, the DPP shall:
 
-                     (a)  references in this Division to tainted property were references to tainted property in relation to the foreign serious offence;<o:p></o:p>
+</dd> </dl>
 
-                     (b)  references to a magistrate were references to a magistrate of the State or Territory specified in the police officer’s authorisation under the Mutual Assistance Act; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  subsection 36(5), paragraph 36(6)(b), subsection 36(9) and section 40 were omitted.<o:p></o:p>
+<dt>(a)</dt><dd>as soon as practicable after the discharge of the order, give written
 
-             (2)  If, in the course of searching, under a warrant issued under section 36, for tainted property in relation to a foreign serious offence, a police officer finds:<o:p></o:p>
+notice of the discharge of the forfeiture order to any person the DPP has
 
-                     (a)  any property that the police officer believes, on reasonable grounds, to be tainted property in relation to the foreign serious offence, although not of the kind specified in the warrant;<o:p></o:p>
+reason to believe may have had an interest in the property immediately before
 
-                     (b)  any property that the police officer believes, on reasonable grounds, to be tainted property in relation to another foreign serious offence in respect of which a search warrant under section 36 is in force; or<o:p></o:p>
+the making of the forfeiture order; and</dd>
 
-                     (c)  any thing that the police officer believes, on reasonable grounds:<o:p></o:p>
+<dt>(b)</dt><dd>if required to do so by a court&#151;give or publish notice of the discharge
 
-                              (i)  to be relevant to a criminal proceeding in the foreign country in respect of the foreign serious offence; or<o:p></o:p>
+of the forfeiture order to a specified person or class of persons in the manner
 
-                             (ii)  will afford evidence as to the commission of a criminal offence;<o:p></o:p>
+and within the time that the court considers appropriate.
 
-and the police officer believes, on reasonable grounds, that it is necessary to seize that property or thing in order to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating the offence, the warrant shall be deemed to authorise the police officer to seize that property or thing.<o:p></o:p>
+</dd>
 
-             (3)  Where property has been seized under a warrant issued under section 36 in respect of a foreign serious offence, a person who claims an interest in the property may apply to the Supreme Court of the State or Territory in which the warrant was issued for an order that the property be returned to the person.<o:p></o:p>
+</dl></dl></dl>
 
-             (4)  Where a person makes an application under subsection (3) and the court is satisfied that:<o:p></o:p>
+<dl compact="">
 
-                     (a)  the person is entitled to possession of the property;<o:p></o:p>
+<dt>(3)</dt><dd>A notice under subsection&#160;(2) shall include a statement to the effect
 
-                     (b)  the property is not tainted property in relation to the relevant foreign serious offence; and<o:p></o:p>
+that a person claiming an interest in the property may apply under
 
-                     (c)  the person who is believed or alleged to have committed the relevant foreign serious offence has no interest in the property;<o:p></o:p>
+subsection&#160;(4) for the transfer of the interest to the person.</dd> <dt>(4)</dt><dd>Where a forfeiture order against property is discharged as provided by subsection&#160;(1) or by a court hearing an appeal against the making of the order, any person who claims to have had an interest in the property immediately before the making of the forfeiture order may apply to the Minister, in writing, for the transfer of the interest to the person and, on receipt of an application from a person who had an interest in the property immediately before the making of the forfeiture order: </dd> </dl>
 
-the court shall order the Commissioner to return the property to the person and where such an order is made the Commissioner shall arrange for the property to be returned to the person.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (5)  Where:<o:p></o:p>
+<dt>(a)</dt><dd>if the interest is still vested in the Commonwealth&#151;the Minister shall
 
-                     (a)  property has been seized under a warrant issued under section 36 in respect of a foreign serious offence; and<o:p></o:p>
+arrange for the interest to be transferred to the person; or</dd>
 
-                     (b)  at the end of the period of 30 days after the day on which the property was seized:<o:p></o:p>
+<dt>(b)</dt><dd>in any other case&#151;there is payable to the person an amount equal to the
 
-                              (i)  neither a foreign restraining order, nor a foreign forfeiture order, in relation to the property has been registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under the Mutual Assistance Act; and<o:p></o:p>
+value of the interest.
 
-                             (ii)  a restraining order has not been made under this Act in respect of the property in relation to the foreign serious offence;<o:p></o:p>
+</dd>
 
-the Commissioner shall, subject to subsections (6) and (7), arrange for the property to be returned to the person from whose possession it was seized as soon as practicable after the end of that period.<o:p></o:p>
+</dl></dl></dl>
 
-             (6)  Where:<o:p></o:p>
+<center>Back to Top</center>
 
-                     (a)  property has been seized under a warrant issued under section 36 in respect of a foreign serious offence;<o:p></o:p>
+<dl compact="">
 
-                     (b)  but for this subsection, the Commissioner would be required to arrange for the property to be returned to the person as soon as practicable after the end of a particular period; and<o:p></o:p>
+<dt>(5)</dt><dd>Where the Minister is required by this section to arrange for property to
 
-                     (c)  before the end of that period:<o:p></o:p>
+be transferred to a person, the Minister has power, on behalf of the
 
-                              (i)  a foreign restraining order in relation to the property is registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under the Mutual Assistance Act; or<o:p></o:p>
+Commonwealth, to do, or authorise the doing of, anything necessary or
 
-                             (ii)  a restraining order is made under this Act in respect of the property in relation to the foreign serious offence;<o:p></o:p>
+convenient to effect the transfer, including, without limiting the generality
 
-the following provisions have effect:<o:p></o:p>
+of this, the execution of any instrument and the making of an application for
 
-                     (d)  if there is in force, at the end of that period, a direction by a court that the Official Trustee take custody and control of the property—the Commissioner shall arrange for the property to be given to the Official Trustee in accordance with the direction;<o:p></o:p>
+registration of an interest in the property on any appropriate register.
 
-                     (e)  if there is in force at the end of that period an order under subsection (7) in relation to the property—the Commissioner shall arrange for the property to be kept until it is dealt with in accordance with another provision of this Act.<o:p></o:p>
+</dd> </dl>
 
-             (7)  Where:<o:p></o:p>
+<center>**
 
-                     (a)  property has been seized pursuant to a warrant issued under section 36 in respect of a foreign serious offence;<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;2A&#151;Registered foreign and international forfeiture orders </division> 
+**</center>
 
-                     (b)  either:<o:p></o:p>
+**
 
-                              (i)  a foreign restraining order in respect of the property has been registered in an Australian court under the Mutual Assistance Act; or<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 23  Registered foreign and international forfeiture orders 
+**
 
-                             (ii)  a restraining order is made under this Act in respect of the property in relation to the foreign serious offence; and<o:p></o:p>
+ <dl compact="">
 
-                     (c)  at the time when the restraining order is registered or made, the property is in the possession of the Commissioner;<o:p></o:p>
+<dt>(1)</dt><dd>If:
 
-the Commissioner may apply to the court in which the restraining order was registered, or by which the restraining order was made, for an order that the Commissioner retain possession of the property and the court may, if satisfied that the property is required by the Commissioner to be dealt with in accordance with a request under the Mutual Assistance Act by the foreign country that requested the registration of, or the obtaining of, the restraining order, make an order that the Commissioner may retain the property for so long as the property is so required.<o:p></o:p>
+</dd> </dl>
 
-             (8)  Where:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  property has been seized under a warrant issued under section 36 in respect of a foreign serious offence; and<o:p></o:p>
+<dt>(a)</dt><dd>a foreign forfeiture order is registered in a court in Australia under the
 
-                     (b)  while the property is in the possession of the Commissioner a foreign forfeiture order in respect of the property is registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under the Mutual Assistance Act;<o:p></o:p>
+Mutual Assistance Act; or</dd>
 
-the Commissioner shall deal with the property as required by the forfeiture order.<o:p></o:p>
+<dt>(b)</dt><dd>an order is registered in a court in Australia under section&#160;45 of
 
-             (9)  Where:<o:p></o:p>
+the _International War Crimes Tribunals Act 1995_;
 
-                     (a)  a warrant is issued under section 36 in respect of a foreign serious offence; and<o:p></o:p>
+</dd>
 
-                     (b)  property is seized pursuant to the warrant because it may afford evidence as to the commission of a criminal offence;<o:p></o:p>
+</dl></dl></dl>
 
-the property shall, for the purposes of subsections (3), (4), (5), (6) and (7) of this section, be taken not to be property seized pursuant to the warrant.<o:p></o:p>
+Division&#160;2 applies in relation to the order as if subsections 19(5) and 20(3), (4), (5) and (6) and sections&#160;21 and 22 were omitted.
 
-<o:p> </o:p>
+<dl compact="">
 
-### Division 2—Restraining orders<o:p></o:p>
+<dt>(2)</dt><dd>If:
 
-##### <a id="43"></a>43  Restraining orders<o:p></o:p>
+</dd> </dl>
 
-             (1)  Where a person (in this section and section 44 called the **_defendant_**):<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  has been convicted of an indictable offence; or<o:p></o:p>
+<dt>(a)</dt><dd>a foreign forfeiture order against property is registered in a court in
 
-                     (b)  has been, or is about to be, charged with an indictable offence;<o:p></o:p>
+Australia under the Mutual Assistance Act; or</dd>
 
-the DPP may apply to the relevant Supreme Court for an order under subsection (2) against one or more of the following:<o:p></o:p>
+<dt>(b)</dt><dd>an order against property is registered in a court in Australia under
 
-                     (c)  specified property of the defendant;<o:p></o:p>
+section&#160;45 of the _International War Crimes Tribunals Act 1995_;
 
-                     (d)  all the property of the defendant (including property acquired after the making of the order);<o:p></o:p>
+</dd>
 
-                     (e)  all the property of the defendant (including property acquired after the making of the order) other than specified property;<o:p></o:p>
+</dl></dl></dl>
 
-                      (f)  specified property of a person other than the defendant.<o:p></o:p>
+the property may, subject to section&#160;23A, be disposed of, or otherwise dealt with, in accordance with any direction of the Attorney-General or of a person authorised by the Attorney-General in writing for the purposes of this subsection. 
 
-             (2)  Where the DPP applies to a court for an order under this subsection against property, the court may, subject to section 44, by order:<o:p></o:p>
+**
 
-                     (a)  direct that the property, or such part of the property as is specified in the order, is not to be disposed of, or otherwise dealt with, by any person, except in such manner and in such circumstances (if any) as are specified in the order; and<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 23A  Effect on third parties of registration of foreign or international forfeiture order 
+**
 
-                     (b)  if the court is satisfied that the circumstances so require—direct the Official Trustee to take custody and control of the property, or of such part of the property as is specified in the order.<o:p></o:p>
+<dl compact="">
 
-          (2A)  The DPP is not empowered to make an application under this section after the commencement of the _Proceeds of Crime Act 2002_.<o:p></o:p>
+<dt>(1)</dt><dd>This section applies where, after the commencement of this section, a
 
-             (3)  A restraining order against a person’s property may be made subject to such conditions as the court thinks fit and, without limiting the generality of this, may make provision for meeting, out of the property or a specified part of the property, all or any of the following:<o:p></o:p>
+court in Australia registers under the Mutual Assistance Act a foreign
 
-                     (a)  the person’s reasonable living expenses (including the reasonable living expenses of the person’s dependants (if any)) and reasonable business expenses;<o:p></o:p>
+forfeiture order against property.</dd> <dt>(1A)</dt><dd>This section also applies if a court registers under section&#160;45 of the _International War Crimes Tribunals Act 1995_ an order against property.</dd> <dt>(2)</dt><dd>On registering the foreign or international forfeiture order, the court shall direct the DPP to give or publish notice of the registration: </dd> </dl>
 
-                     (b)  the person’s reasonable expenses in defending a criminal charge;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  a specified debt incurred by the person in good faith (being a debt to which neither paragraph (a) nor (b) applies).<o:p></o:p>
+<dt>(a)</dt><dd>to specified persons (other than a person convicted of a foreign or
 
-             (4)  A court shall not make provision of a kind referred to in subsection (3) unless it is satisfied that the defendant cannot meet the expense or debt concerned out of property that is not subject to a restraining order.<o:p></o:p>
+international offence in respect of which the order was made) the court has
 
-             (5)  Notwithstanding anything in the Bankruptcy Act, money that has come into the custody and control of the Official Trustee under a restraining order shall not be paid into the Common Investment Fund established under section 20B of that Act.<o:p></o:p>
+reason to believe may have an interest in the property; and</dd>
 
-             (6)  Where the Official Trustee is given a direction under paragraph (2)(b) in relation to property, the Official Trustee may do anything that is reasonably necessary for the purpose of preserving the property including, without limiting the generality of this:<o:p></o:p>
+<dt>(b)</dt><dd>in the manner and within the time the court considers appropriate.
 
-                     (a)  becoming a party to any civil proceedings affecting the property;<o:p></o:p>
+</dd>
 
-                     (b)  ensuring that the property is insured;<o:p></o:p>
+</dl></dl></dl>
 
-                     (c)  if the property consists, wholly or partly, of securities or investments—realising or otherwise dealing with the securities or investments; and<o:p></o:p>
+<dl compact="">
 
-                     (d)  if the property consists, wholly or partly, of a business:<o:p></o:p>
+<dt>(3)</dt><dd>A person (other than a person convicted of a foreign or international
 
-                              (i)  employing, or terminating the employment of, persons in the business; and<o:p></o:p>
+offence in respect of which the foreign or international forfeiture order was
 
-                             (ii)  doing any other thing that is necessary or convenient for carrying on the business on a sound commercial basis.<o:p></o:p>
+made) who claims an interest in the property may apply to the court for an
 
-          (6A)  Where the Official Trustee is given a direction under paragraph (2)(b) in relation to shares in a company, it is entitled:<o:p></o:p>
+order under subsection&#160;(7).</dd> <dt>(4)</dt><dd>A person who was given notice of, or appeared at, the hearing held in connection with the making of the foreign or international forfeiture order is not entitled, except with the leave of the court, to apply under subsection&#160;(3).</dd> <dt>(5)</dt><dd>The court may grant leave under subsection&#160;(4) if satisfied that there are special grounds for doing so.</dd> <dt>(6)</dt><dd>Without limiting the generality of subsection&#160;(5), the court may grant a person leave under subsection&#160;(4) if the court is satisfied that: </dd> </dl>
 
-                     (a)  to exercise the rights attaching to the shares as if it were the registered holder of the shares; and<o:p></o:p>
+<center>Back to Top</center>
 
-                     (b)  to do so to the exclusion of the registered holder.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-          (6B)  Neither of paragraph (6)(c) and subsection (6A) limits the generality of the other.<o:p></o:p>
+<dt>(a)</dt><dd>the person, for a good reason, did not attend the hearing referred to in
 
-             (7)  Where the DPP applies to a court for an order under subsection (2), a witness shall not be required to answer a question or to produce a document if the court is satisfied that the answering of the question or the production of the document may prejudice the investigation of, or the prosecution of a person for, an offence.<o:p></o:p>
+subsection&#160;(4) although the person had notice of the hearing; or</dd>
 
-##### <a id="44"></a>44  Grounds for making restraining order<o:p></o:p>
+<dt>(b)</dt><dd>particular evidence that the person proposes to adduce in connection with
 
-             (1)  Where the offence concerned is a serious offence, the court shall, subject to subsections (3), (4), (7A) and (10), make a restraining order against the property.<o:p></o:p>
+the proposed application under subsection&#160;(3) was not available to the
 
-             (2)  Where the offence concerned is an ordinary indictable offence the court shall, subject to subsections (3), (4), (5), (6), (7) and (10), make a restraining order against the property unless the court is satisfied that it is not in the public interest to make such an order.<o:p></o:p>
+person at the time of the hearing referred to in subsection&#160;(4).
 
-             (3)  If the defendant has not been convicted of the offence concerned, the court shall not make a restraining order unless:<o:p></o:p>
+</dd>
 
-                     (a)  the application for the order is supported by an affidavit of a police officer stating that the officer believes that the defendant committed the offence; and<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  the court is satisfied, having regard to the matters contained in the affidavit, that there are reasonable grounds for holding that belief.<o:p></o:p>
+<dl compact="">
 
-             (4)  Where the application is made in reliance on the proposed charging of the defendant with the offence concerned, the court shall not make a restraining order unless it is satisfied that the defendant will be charged with the offence or a related offence within 48 hours.<o:p></o:p>
+<dt>(7)</dt><dd>If, on an application for an order under this subsection, the court is
 
-             (5)  Where:<o:p></o:p>
+satisfied that:
 
-                     (a)  the offence concerned is an ordinary indictable offence; and<o:p></o:p>
+</dd> </dl>
 
-                     (b)  the application seeks a restraining order against specified property of the defendant;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-the court shall not make a restraining order against the property unless:<o:p></o:p>
+<dt>(a)</dt><dd>the applicant was not, in any way, involved in the commission of a foreign
 
-                     (c)  the application is supported by an affidavit of a police officer stating that the officer believes that:<o:p></o:p>
+or international offence in respect of which the foreign or international
 
-                              (i)  the property is tainted property in relation to the offence; or<o:p></o:p>
+forfeiture order was made; and</dd>
 
-                             (ii)  the defendant derived a benefit, directly or indirectly, from the commission of the offence; and<o:p></o:p>
+<dt>(b)</dt><dd>if the applicant acquired his, her or its interest in the property at the
 
-                     (d)  the court is satisfied, having regard to the matters contained in the affidavit, that there are reasonable grounds for holding that belief.<o:p></o:p>
+time of or after the commission of such an offence&#151;the applicant acquired the
 
-             (6)  Where:<o:p></o:p>
+interest:
 
-                     (a)  the offence is an ordinary indictable offence; and<o:p></o:p>
+</dd>
 
-                     (b)  the application seeks a restraining order against:<o:p></o:p>
+</dl></dl></dl>
 
-                              (i)  all the property of the defendant;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  all the property of the defendant other than specified property; or<o:p></o:p>
+<dt>(i)</dt><dd>for sufficient consideration; and</dd>
 
-                            (iii)  specified property of the defendant and all other property of the defendant;<o:p></o:p>
+<dt>(ii)</dt><dd>without knowing, and in circumstances such as not to arouse a reasonable
 
-the court shall not make a restraining order against the property unless:<o:p></o:p>
+suspicion, that the property was, at the time of the acquisition, tainted
 
-                     (c)  the application is supported by an affidavit of a police officer stating that the officer believes that the defendant derived a benefit, directly or indirectly, from the commission of the offence; and<o:p></o:p>
+property in relation to a foreign or international offence;
 
-                     (d)  the court is satisfied, having regard to the matters contained in the affidavit, that there are reasonable grounds for holding that belief.<o:p></o:p>
+</dd>
 
-             (7)  Where the application seeks a restraining order against specified property of a person other than the defendant and the offence concerned is an ordinary indictable offence, the court shall not make a restraining order against the property unless:<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (a)  the application is supported by an affidavit of a police officer stating that:<o:p></o:p>
+the court shall make an order:
 
-                              (i)  the officer believes that the property is tainted property in relation to the offence; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  the officer believes that:<o:p></o:p>
+<dt>(c)</dt><dd>declaring the nature, extent and value (as at the time when the order is
 
-                                        (A)  the property is subject to the effective control of the defendant; and <o:p></o:p>
+made) of the applicant's interest in the property; and</dd>
 
-                                        (B)  the defendant derived a benefit, directly or indirectly, from the commission of the offence; and<o:p></o:p>
+<dt>(d)</dt><dd>either:
 
-                     (b)  the court is satisfied, having regard to the matters contained in the affidavit, that there are reasonable grounds for holding that belief.<o:p></o:p>
+</dd>
 
-          (7A)  Where the application seeks a restraining order against specified property of a person other than the defendant and the offence concerned is a serious offence, the court shall not make a restraining order against the property unless:<o:p></o:p>
+</dl></dl></dl>
 
-                     (a)  the application is supported by an affidavit of a police officer stating that:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  the officer believes that the property is tainted property in relation to the offence; or<o:p></o:p>
+<dt>(i)</dt><dd>directing the Commonwealth to transfer the interest to the applicant; or</dd>
 
-                             (ii)  the officer believes that the property is subject to the effective control of the defendant; and<o:p></o:p>
+<dt>(ii)</dt><dd>declaring that there is payable by the Commonwealth to the applicant an
 
-                     (b)  the court is satisfied, having regard to the matters contained in the affidavit, that there are reasonable grounds for holding that belief.<o:p></o:p>
+amount equal to the value declared under paragraph&#160;(c).
 
-             (9)  The court may make a restraining order in respect of property whether or not there is any risk of the property being disposed of, or otherwise dealt with, in such manner as would defeat the operation of this Act.<o:p></o:p>
+</dd>
 
-           (10)  A court may refuse to make a restraining order if the Commonwealth refuses or fails to give to the court such undertakings as the court considers appropriate with respect to the payment of damages or costs, or both, in relation to the making and operation of the order.<o:p></o:p>
+</dl></dl></dl></dl>
 
-           (11)  For the purposes of an application under section 43, the DPP may, on behalf of the Commonwealth, give to the court such undertakings with respect to the payment of damages or costs, or both, as are required by the court.<o:p></o:p>
+<dl compact="">
 
-           (12)  An affidavit made by a police officer for the purposes of this section that states that the officer believes a particular matter shall set out the grounds on which the officer holds that belief.<o:p></o:p>
+<dt>(8)</dt><dd>Subject to subsection&#160;(9), an application under subsection&#160;(3)
 
-##### <a id="45"></a>45  Notice of application for restraining order<o:p></o:p>
+shall be made before the end of 6 weeks beginning on the day when the foreign
 
-             (1)  Subject to subsection (2), the DPP shall give written notice of an application for a restraining order against property to:<o:p></o:p>
+or international forfeiture order is registered in the court.</dd> <dt>(9)</dt><dd>The court may grant a person leave to apply under subsection&#160;(3) outside the period referred to in subsection&#160;(8) if the court is satisfied that the person's failure to apply within that period was not due to any neglect on the person's part.</dd> <dt>(10)</dt><dd>A person who applies under subsection&#160;(3) shall give to the DPP and the Minister notice, as prescribed, of the application.</dd> <dt>(11)</dt><dd>The DPP shall be a party to proceedings on an application under subsection&#160;(3) and the Minister may intervene in such proceedings.</dd> <dt>(12)</dt><dd>In this section: </dd> </dl>
 
-                     (a)  the owner of the property; and<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (b)  any other person the DPP has reason to believe may have an interest in the property.<o:p></o:p>
+_foreign or international forfeiture order_ means:
 
-             (2)  If the DPP requests the court to do so, the court shall consider the application without notice having been given in accordance with subsection (1) but, subject to section 45A, a restraining order made by virtue of this subsection shall cease to have effect at the end of such period (not exceeding 14 days) as is specified by the court in the restraining order.<o:p></o:p>
+ </dl></dl>
 
-             (5)  The court may, at any time before the final determination of an application for a restraining order, direct the DPP to give or publish notice of the application to a specified person or class of persons, in the manner and within the time that the court considers appropriate.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="45A"></a>45A  Extension of certain restraining orders<o:p></o:p>
+<dt>(a)</dt><dd>the foreign forfeiture order mentioned in subsection&#160;(1) in relation
 
-             (1)  Subject to subsection (2), the court may, on application made by the DPP before the end of the period mentioned in subsection 45(2), extend the period of operation of a restraining order made in reliance on that subsection.<o:p></o:p>
+to which this section applies; or</dd>
 
-             (2)  Section 44 (other than subsection 44(4)) applies, with the necessary changes made, to the extension of the period of operation of a restraining order made in reliance on subsection 45(2) in the same way as it applies to the making of a restraining order.<o:p></o:p>
+<dt>(b)</dt><dd>the order mentioned in subsection&#160;(1A) in relation to which this
 
-             (3)  The DPP must give written notice of an application under subsection (1) for the extension of the period of operation of a restraining order to:<o:p></o:p>
+section applies;
 
-                     (a)  the owner of the property against which the restraining order was made; and<o:p></o:p>
+</dd>
 
-                     (b)  any other person who the DPP has reason to believe may have an interest in the property.<o:p></o:p>
+</dl></dl></dl>
 
-             (4)  The court may, at any time before the final determination of an application for an extension of the period of operation of a restraining order, direct the DPP to give or publish notice of the application to a specified person or class of persons, in the manner and within the time that the court considers appropriate.<o:p></o:p>
+as the case may be.
 
-##### <a id="46"></a>46  Persons who may appear and adduce evidence<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-             (1)  Where:<o:p></o:p>
+_foreign or international offence_ means:
 
-                     (a)  the DPP applies for a restraining order against property; and<o:p></o:p>
+ </dl></dl>
 
-                     (b)  notice of the application is given in accordance with subsection 45(1);<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-any person who claims an interest in the property may appear and adduce evidence at the hearing of the application.<o:p></o:p>
+<dt>(a)</dt><dd>a foreign serious offence; or</dd>
 
-             (2)  Where the DPP applies for the extension of the period of operation of a restraining order that has been made in respect of property, any person who claims an interest in the property may appear and adduce evidence at the hearing of the application.<o:p></o:p>
+<dt>(b)</dt><dd>a Tribunal offence within the meaning of the _International War Crimes Tribunals Act 1995_;
 
-##### <a id="47"></a>47  Notice of restraining orders<o:p></o:p>
+</dd>
 
-             (1)  Subject to subsection (2), where a restraining order is made against a person’s property, the DPP shall give the person written notice of the order.<o:p></o:p>
+</dl></dl></dl>
 
-             (2)  Where:<o:p></o:p>
+as the case requires.
 
-                     (a)  a court makes a restraining order; and<o:p></o:p>
+<center>Back to Top</center>
 
-                     (b)  the court is satisfied that it would be in the public interest to delay giving notice of the order to a person;<o:p></o:p>
+<center>**
 
-the court may order that giving the person notice of the restraining order be delayed for such period as is specified in the order under the subsection and the DPP shall give the person notice of the restraining order as soon as practicable after the end of the period specified.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;3&#151;Pecuniary penalty orders </division> 
+**</center>
 
-##### <a id="48"></a>48  Court may make further orders<o:p></o:p>
+**
 
-             (1)  Where a court makes a restraining order, the court may, at the time when it makes the restraining order or at any later time, make any ancillary orders that the court considers appropriate and, without limiting the generality of this, the court may make any one or more of the following orders:<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 24  Application of Division 
+**
 
-                     (a)  an order varying the property to which the restraining order relates;<o:p></o:p>
+ <dl compact="">
 
-                     (b)  an order varying any condition to which the restraining order is subject;<o:p></o:p>
+		This Division applies to:
 
-                     (c)  an order for the examination on oath before the court or the registrar of the court of any person, including:<o:p></o:p>
+ </dl>
 
-                              (i)  a person whose property is the subject of the restraining order (in this section called the **_owner_**); or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  a person who is the defendant within the meaning of section 43 in relation to the offence to which the restraining order relates (in this subsection called the **_defendant_**);<o:p></o:p>
+<dt>(a)</dt><dd>property that comes into the possession, or under the control, of a person
 
-                            about the affairs (including the nature and location of any property) of:<o:p></o:p>
+either within or outside Australia and either before or after the commencement
 
-                            (iii)  anyone else who is either the owner or the defendant, or both; and<o:p></o:p>
+of this Act; and</dd>
 
-                            (iv)  if the person to be examined is either the owner or the defendant or both—that person;<o:p></o:p>
+<dt>(b)</dt><dd>benefits that are provided to a person either within or outside Australia
 
-                     (d)  an order with respect to the carrying out of any undertaking with respect to the payment of damages or costs given by the Commonwealth in connection with the making of the restraining order;<o:p></o:p>
+and either before or after the commencement of this Act.
 
-                    (da)  an order directing:<o:p></o:p>
+</dd>
 
-                              (i)  the owner; or<o:p></o:p>
+</dl></dl></dl>
 
-                             (ii)  if the owner is not the defendant—the defendant; or<o:p></o:p>
+**
 
-                            (iii)  if the owner or the defendant is a body corporate—a director of the body corporate specified by the court;<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 25  Special provisions in relation to serious offences 
+**
 
-                            to give to:<o:p></o:p>
+ <dl compact="">
 
-                            (iv)  where the restraining order is, or includes, an order made under paragraph 43(2)(b)—the Official Trustee; and<o:p></o:p>
+<dt>(1)</dt><dd>Where an application is made to a court for a pecuniary penalty order
 
-                             (v)  in any other case—the applicant for the ancillary order or such other person as the court directs;<o:p></o:p>
+against a person in reliance on the person's conviction of a serious offence,
 
-                            within a period specified in the ancillary order, a statement sworn on oath setting out such particulars of the property, or dealings with the property, of the owner or the defendant, as the case may be, as the court thinks proper;<o:p></o:p>
+the court shall not make a pecuniary penalty order in reliance on the
 
-                     (e)  where the restraining order directed the Official Trustee to take custody and control of property:<o:p></o:p>
+conviction until after the end of the period of 6 months commencing on the day
 
-                              (i)  an order regulating the manner in which the Official Trustee may exercise its powers or perform its duties under the restraining order;<o:p></o:p>
+of the conviction.</dd> <dt>(2)</dt><dd>Subsection&#160;(1) does not apply to an application for a pecuniary penalty order against a person who is to be taken to have been convicted of the serious offence by reason of paragraph 5(1)(d). </dd> </dl>
 
-                             (ii)  an order determining any question relating to the property to which the restraining order relates, including any question relating to:<o:p></o:p>
+**
 
-                                        (A)  the liabilities of the owner; or <o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 26  Pecuniary penalty orders 
+**
 
-                                        (B)  the exercise of the powers, or the performance of the duties, of the Official Trustee;<o:p></o:p>
+ <dl compact="">
 
-                            with respect to the property to which the restraining order relates;<o:p></o:p>
+<dt>(1)</dt><dd>Where:
 
-                            (iii)  an order directing the owner or another person to do any act or thing necessary or convenient to be done to enable the Official Trustee to take custody and control of the property in accordance with the restraining order.<o:p></o:p>
+</dd> </dl>
 
-             (2)  An order under subsection (1) may be made on application by:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  the DPP;<o:p></o:p>
+<dt>(a)</dt><dd>an application is made to a court for an order under this section in
 
-                     (b)  the owner;<o:p></o:p>
+respect of benefits derived by a person from the commission of an offence; and
 
-                     (c)  where the restraining order directed the Official Trustee to take custody and control of property—the Official Trustee; or<o:p></o:p>
+</dd>
 
-                     (d)  with the leave of the court—any other person.<o:p></o:p>
+<dt>(b)</dt><dd>the court is satisfied that the person derived benefits from the
 
-          (2A)  An ancillary order made before or after the commencement of this subsection in relation to a restraining order that is in force on or after that commencement does not cease to have effect merely because the restraining order, or part of it, ceases to be in force under paragraph 57(2)(e) or (g).<o:p></o:p>
+commission of the offence;
 
-             (3)  Where:<o:p></o:p>
+</dd>
 
-                     (a)  a person (in this subsection called the **_defendant_**) has been convicted of, or has been charged or is about to be charged with, an offence;<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  a court, in reliance on the conviction, charging or proposed charging makes a restraining order against property; and<o:p></o:p>
+the court may, if it considers it appropriate:
 
-                     (c)  a person having an interest in the property applies to the court for a variation of the order to exclude the person’s interest from the order;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-the court shall grant the application if:<o:p></o:p>
+<dt>(c)</dt><dd>assess, in accordance with section&#160;27, the value of the benefits so
 
-                     (d)  where the applicant is not the defendant and the offence is an ordinary indictable offence:<o:p></o:p>
+derived; and</dd>
 
-                              (i)  if the restraining order was made against the property by virtue of subparagraph 44(7)(a)(ii)—the court is satisfied that the interest is not tainted property and that: <o:p></o:p>
+<dt>(d)</dt><dd>order the person to pay to the Commonwealth a pecuniary penalty equal to
 
-                                        (A)  a pecuniary penalty order cannot be made against the defendant; or<o:p></o:p>
+the penalty amount.
 
-                                        (B)  the applicant’s interest in the property is not subject to the effective control of the defendant; or<o:p></o:p>
+</dd>
 
-                             (ii)  in any other case—the court is satisfied that the interest is not tainted property;<o:p></o:p>
+</dl></dl></dl>
 
-                     (e)  where the applicant is the defendant and the offence is an ordinary indictable offence—the court is satisfied that:<o:p></o:p>
+<dl compact="">
 
-                              (i)  the interest is not tainted property; and<o:p></o:p>
+<dt>(2)</dt><dd>Subject to subsections&#160;(3) and (4), the penalty amount is the value
 
-                             (ii)  a pecuniary penalty order cannot be made against the defendant;<o:p></o:p>
+of the benefits as assessed under paragraph&#160;(1)(c).</dd> <dt>(3)</dt><dd>Where: </dd> </dl>
 
-                      (f)  where the applicant is not the defendant, the restraining order was not made by virtue of subsection 44(7A) and the offence is a serious offence—the court is satisfied that:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  the applicant was not, in any way, involved in the commission of the offence; and<o:p></o:p>
+<dt>(a)</dt><dd>property that is proceeds of the offence has been forfeited, under this
 
-                             (ii)  where the applicant acquired the interest at the time of or after the commission, or alleged commission, of the offence—the applicant acquired the interest: <o:p></o:p>
+Act or another law of the Commonwealth or under a law of a Territory, in
 
-                                        (A)  for sufficient consideration; and <o:p></o:p>
+relation to the offence; or</dd>
 
-                                        (B)  without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the property was tainted property;<o:p></o:p>
+<dt>(b)</dt><dd>a forfeiture order is proposed to be made against property that is
 
-                    (fa)  where the applicant is not the defendant and the restraining order was made by virtue of subsection 44(7A)—the court is satisfied that:<o:p></o:p>
+proceeds of the offence;
 
-                              (i)  the applicant was not, in any way, involved in the commission of the offence;<o:p></o:p>
+</dd>
 
-                             (ii)  the property is not tainted property in relation to the offence; and<o:p></o:p>
+</dl></dl></dl>
 
-                            (iii)  the applicant’s interest in the property is not subject to the effective control of the defendant; or<o:p></o:p>
+the penalty amount shall be taken to be reduced by an amount equal to the value of the property as at the time of the making of the pecuniary penalty order.
 
-                     (g)  in any case—the court is satisfied that it is in the public interest to do so having regard to all the circumstances, including:<o:p></o:p>
+<dl compact="">
 
-                              (i)  any financial hardship or other consequence of the interest remaining subject to the order;<o:p></o:p>
+<dt>(4)</dt><dd>Where the court making a pecuniary penalty order is satisfied that an
 
-                             (ii)  the seriousness of the offence; and<o:p></o:p>
+amount of tax (whether payable under a law of the Commonwealth, a State, a
 
-                            (iii)  the likelihood that the interest will be: <o:p></o:p>
+Territory or a foreign country) that has been paid by the person is
 
-                                        (A)  subject to a forfeiture order; <o:p></o:p>
+attributable in whole or in part to the benefits in respect of which the order
 
-                                        (B)  subject to section 30; or <o:p></o:p>
+is being made, the court may determine that the penalty amount be reduced by
 
-                                        (C)  required to satisfy a pecuniary penalty order.<o:p></o:p>
+the amount that, in the opinion of the court, represents the extent to which
 
-             (4)  Where:<o:p></o:p>
+the amount of tax so paid is attributable to those benefits and where the court
 
-                     (a)  a person (in this subsection called the **_defendant_**) has been convicted of, or has been charged or is about to be charged with, a serious offence;<o:p></o:p>
+makes such a determination the penalty amount shall be taken to be reduced
 
-                     (b)  a court, in reliance on the conviction, charging or proposed charging, makes a restraining order against property;<o:p></o:p>
+accordingly.</dd> <dt>(5)</dt><dd>If the court considers it appropriate to do so, the court may reduce the amount payable by a person under a pecuniary penalty order made in relation to an offence by an amount equal to the amount payable by the person by way of fine, restitution, compensation or damages in relation to the offence.</dd> <dt>(6)</dt><dd>Where: </dd> </dl>
 
-                     (c)  the defendant has an interest in the property;<o:p></o:p>
+<center>Back to Top</center>
 
-                     (d)  the defendant applies to the court for a declaration under this subsection in relation to the interest; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  the court is satisfied that:<o:p></o:p>
+<dt>(a)</dt><dd>a court makes a pecuniary penalty order in relation to an offence;</dd>
 
-                              (i)  the property was not used in, or in connection with, any unlawful activity and was not derived, directly or indirectly, by any person from any unlawful activity; and<o:p></o:p>
+<dt>(b)</dt><dd>in calculating the penalty amount, the court took into account a
 
-                             (ii)  the defendant’s interest in the property was lawfully acquired;<o:p></o:p>
+forfeiture of, or proposed forfeiture order in respect of, property; and</dd>
 
-the court may, by order, declare that the restraining order, to the extent to which it relates to the property, shall be disregarded for the purposes of section 30.<o:p></o:p>
+<dt>(c)</dt><dd>an appeal against the forfeiture or forfeiture order is allowed or the
 
-             (5)  Where a person is examined before a court or the registrar of a court pursuant to an order under subsection (1), the person is not excused from answering a question when required to do so by the court or the registrar, as the case may be, on the ground that the answer to the question might tend to incriminate the person or make the person liable to forfeiture or a penalty.<o:p></o:p>
+proceedings for the proposed forfeiture order terminate without the proposed
 
-             (6)  Where a person is examined before a court or the registrar of a court pursuant to an order under subsection (1), a statement or disclosure made by the person in answer to a question put in the course of the examination, and any information, document or thing obtained as a direct or indirect consequence of the statement or disclosure, is not admissible against the person in any criminal proceedings except a proceeding for giving false testimony in the course of the examination.<o:p></o:p>
+forfeiture order being made;
 
-          (6A)  A person whom an order under paragraph (1)(da) directs to give a statement is not excused from giving the statement, or from setting out particulars in the statement, on the ground that the statement or particulars, as the case may be, might tend to incriminate the person or make the person liable to a forfeiture or penalty.<o:p></o:p>
+</dd>
 
-          (6B)  Where a person gives a statement under an order made under paragraph (1)(da), neither the statement, nor any information, document or thing obtained as a direct or indirect consequence of the statement, is admissible against the person in any criminal proceedings except a proceeding in respect of the falsity of the statement.<o:p></o:p>
+</dl></dl></dl>
 
-             (7)  For the purposes of subsection (6) or (6B), proceedings on an application for a restraining order, a forfeiture order or a pecuniary penalty order are not criminal proceedings.<o:p></o:p>
+the DPP may apply to the court for a variation of the pecuniary penalty order to increase the penalty amount by the value of the property and the court may, if it considers it appropriate to do so, vary the order accordingly.
 
-             (8)  Where the DPP applies to a court for an order under subsection (1), a witness shall not be required to answer a question or to produce a document if the court is satisfied that the answering of the question or the production of the document may prejudice the investigation of, or the prosecution of a person for, an offence.<o:p></o:p>
+<dl compact="">
 
-##### <a id="48A"></a>48A  Order for taxation of legal expenses to be met out of restrained property<o:p></o:p>
+<dt>(7)</dt><dd>Where:
 
-             (1)  Where:<o:p></o:p>
+</dd> </dl>
 
-                     (a)  a court makes a restraining order directing the Official Trustee to take custody and control of property; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the order makes provision for meeting, out of the property or part of it, a person’s reasonable expenses in defending a criminal charge;<o:p></o:p>
+<dt>(a)</dt><dd>a court makes a pecuniary penalty order against a person in relation to an
 
-the Official Trustee may apply to the court for an order under subsection (3).<o:p></o:p>
+offence;</dd>
 
-             (2)  The Official Trustee shall give written notice of an application under subsection (1) to the person.<o:p></o:p>
+<dt>(b)</dt><dd>in calculating the penalty amount, the court took into account, in
 
-             (3)  On an application under subsection (1), the court may order that the expenses be taxed as provided in the order or may dismiss the application.<o:p></o:p>
+accordance with subsection&#160;(4), an amount of tax paid by the person; and</dd>
 
-             (4)  Where the Official Trustee makes an application under subsection (1), it need not, except as ordered by the court after the application is made, take any steps for the purpose of meeting the expenses as provided by the restraining order unless and until:<o:p></o:p>
+<dt>(c)</dt><dd>an amount is repaid or refunded to the person in respect of that tax;
 
-                     (a)  an order under subsection (3) in relation to the expenses is complied with; or<o:p></o:p>
+</dd>
 
-                     (b)  the application, and any appeal arising out of it, are finally determined, or otherwise disposed of, otherwise than by the making of such an order.<o:p></o:p>
+</dl></dl></dl>
 
-##### <a id="49"></a>49  Official Trustee to discharge pecuniary penalty<o:p></o:p>
+the DPP may apply to the court for a variation of the pecuniary penalty order to increase the penalty amount by the amount repaid or refunded and the court may, if it considers it appropriate to do so, vary the order accordingly.
 
-             (1)  Where:<o:p></o:p>
+<dl compact="">
 
-                     (a)  a pecuniary penalty order is made against a person (in this subsection called the **_defendant_**) in reliance on the defendant’s conviction of an offence; and<o:p></o:p>
+<dt>(8)</dt><dd>An amount payable by a person to the Commonwealth in accordance with a
 
-                     (b)  at the time when the pecuniary penalty order is made, property is subject to a restraining order made, in reliance on the defendant’s conviction of the offence or a related offence or in reliance on the charging or proposed charging of the defendant with the offence or a related offence, against:<o:p></o:p>
+pecuniary penalty order is a civil debt due by the person to the
 
-                              (i)  property of the defendant; or<o:p></o:p>
+Commonwealth.</dd> <dt>(9)</dt><dd>A pecuniary penalty order against a person may be enforced as if it were an order made in civil proceedings instituted by the Commonwealth against the person to recover a debt due by the person to the Commonwealth and the debt arising from the order shall be taken to be a judgment debt. </dd> </dl>
 
-                             (ii)  property of another person in relation to which an order under subsection 28(3) is made;<o:p></o:p>
+**
 
-the court may include in the pecuniary penalty order a direction to the Official Trustee to pay the Commonwealth, in accordance with this section, an amount equal to the penalty amount out of that property.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 27  Assessment of pecuniary penalty 
+**
 
-             (2)  Where:<o:p></o:p>
+ <dl compact="">
 
-                     (a)  a pecuniary penalty order is made against a person (in this subsection called the **_defendant_**) in reliance on the defendant’s conviction of an offence; and<o:p></o:p>
+<dt>(1)</dt><dd>In this section:
 
-                     (b)  a restraining order is subsequently made against:<o:p></o:p>
+</dd> </dl>
 
-                              (i)  property of the defendant; or<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                             (ii)  property of another person in relation to which an order under subsection 28(3) is in force;<o:p></o:p>
+_insolvency trustee_ means:
 
-                            in reliance on the defendant’s conviction of the offence;<o:p></o:p>
+ </dl></dl>
 
-the court making the restraining order may include in the restraining order a direction to the Official Trustee to pay the Commonwealth, in accordance with this section, an amount equal to the penalty amount out of that property.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-          (2A)  If:<o:p></o:p>
+<dt>(a)</dt><dd>in relation to a bankruptcy&#151;the trustee of the estate of the bankrupt;
 
-                     (a)  a pecuniary penalty order has been made against a person (**_the defendant_**) in reliance on the defendant’s conviction of an offence; and<o:p></o:p>
+or</dd>
 
-                     (b)  a restraining order is in force against:<o:p></o:p>
+<dt>(b)</dt><dd>in relation to a composition or scheme of arrangement under
 
-                              (i)  property of the defendant; or<o:p></o:p>
+Division&#160;6 of Part&#160;IV of the _Bankruptcy Act 1966_&#151;the trustee
 
-                             (ii)  property of another person in relation to which an order under subsection 28(3) is in force;<o:p></o:p>
+of the composition or scheme of arrangement; or</dd>
 
-the Court may, on application by the DPP, direct the Official Trustee to pay the Commonwealth, in accordance with this section, an amount equal to the penalty amount out of the property.<o:p></o:p>
+<dt>(c)</dt><dd>in relation to a personal insolvency agreement under Part&#160;X of the
 
-             (3)  For the purposes of enabling the Official Trustee to comply with a direction given by a court under subsection (1), (2) or (2A), the court may, in the order in which the direction is given or by a subsequent order:<o:p></o:p>
+_Bankruptcy Act 1966_&#151;the trustee of the agreement; or</dd>
 
-                     (a)  direct the Official Trustee to sell or otherwise dispose of such of the property that is subject to the restraining order as the court specifies; and<o:p></o:p>
+<dt>(d)</dt><dd>in relation to the estate of a deceased person in respect of which an
 
-                     (b)  appoint an officer of the court or any other person to execute any deed or instrument in the name of a person who owns or has an estate, interest or right in the property and to do any act or thing necessary to give validity and operation to the deed or instrument.<o:p></o:p>
+order has been made under Part&#160;XI of the _Bankruptcy Act 1966_&#151;the
 
-             (4)  The execution of the deed or instrument by the person appointed by an order under subsection (3) has the same force and validity as if the deed or instrument had been executed by the person who owned or had the estate, interest or right in the property.<o:p></o:p>
+trustee of the estate.
 
-             (5)  Where the Official Trustee is given a direction under subsection (1), (2) or (2A) in relation to property, the Official Trustee shall not:<o:p></o:p>
+</dd>
 
-                     (a)  if the property is money—apply the money in accordance with subsection (6) until the end of the relevant appeal period; and<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  if the property is not money—sell or otherwise dispose of the property until the end of the relevant appeal period.<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-             (6)  Where the Official Trustee is given a direction under subsection (1), (2) or (2A) in relation to property, the Official Trustee shall, as soon as practicable after the end of the relevant appeal period:<o:p></o:p>
+_offence period_, in relation to an application under subsection
 
-                     (a)  if the property is money:<o:p></o:p>
+14(1) made in relation to 2 or more offences, means the period commencing when
 
-                              (i)  apply the money in payment of the costs, charges, expenses and remuneration, of the kind referred to in subsection 55(1), incurred or payable in connection with the restraining order and payable to the Official Trustee under the regulations; and<o:p></o:p>
+the earlier or earliest of those offences was committed and ending when the
 
-                             (ii)  subject to subsection (7), credit the amount of the remainder of the money to the Confiscated Assets Special Account as required by section 34B; and<o:p></o:p>
+later or latest of those offences was committed.
 
-                     (b)  if the property is not money:<o:p></o:p>
+ </dl></dl>
 
-                              (i)  sell or otherwise dispose of the property;<o:p></o:p>
+<dl compact="">
 
-                             (ii)  apply the proceeds of the sale or disposition in payment of the costs, charges, expenses and remuneration, of the kind referred to in subsection 55(1), incurred or payable in connection with the restraining order or the sale or disposition and payable to the Official Trustee under the regulations; and<o:p></o:p>
+<dt>(2)</dt><dd>For the purposes of an application for a pecuniary penalty order against a
 
-                            (iii)  subject to subsection (7), credit the amount of the remainder of those proceeds to the Confiscated Assets Special Account as required by section 34B.<o:p></o:p>
+person (in this subsection called the _defendant_), the value of
 
-             (7)  Where the money or proceeds to which subparagraph (6)(a)(ii) or (b)(iii) applies exceeds the penalty amount, the Official Trustee shall:<o:p></o:p>
+the benefits derived by the defendant from the commission of an offence or
 
-                     (a)  credit to the Confiscated Assets Special Account as required by section 34B an amount equal to the penalty amount; and<o:p></o:p>
+offences shall be assessed by the court having regard to the evidence before it
 
-                     (b)  pay the balance to the person whose property was subject to the restraining order.<o:p></o:p>
+concerning all or any of the following:
 
-             (8)  Where the Official Trustee credits, in accordance with a direction under this section, an amount to the Confiscated Assets Special Account as required by section 34B in satisfaction of a person’s liability under a pecuniary penalty order, the person’s liability under the pecuniary penalty order shall, to the extent of the payment, be deemed to be discharged.<o:p></o:p>
+</dd> </dl>
 
-             (9)  Where:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  a restraining order is made against property in reliance on a person’s conviction of an offence or in reliance on the charging, or proposed charging of a person with an offence; and<o:p></o:p>
+<dt>(a)</dt><dd>the money, or the value of the property other than money, that came into
 
-                     (b)  before or after the restraining order is made, a pecuniary penalty order has been or is made against the person in reliance on the person’s conviction of the offence or a related indictable offence;<o:p></o:p>
+the possession or under the control of:
 
-the relevant appeal period in respect of the property is:<o:p></o:p>
+</dd>
 
-                     (c)  the appeal period in relation to the person’s conviction of the offence; or<o:p></o:p>
+</dl></dl></dl>
 
-                     (d)  the appeal period in relation to the making of the pecuniary penalty order;<o:p></o:p>
+<center>Back to Top</center>
 
-whichever ends last.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-           (10)  A reference in this section to the appeal period in relation to a person’s conviction of an offence is:<o:p></o:p>
+<dt>(i)</dt><dd>the defendant; or</dd>
 
-                     (a)  in a case where the person is to be taken to have been convicted of the offence by reason of paragraph 5(1)(b)—a reference to the appeal period in relation to the finding of the person guilty of the offence; and<o:p></o:p>
+<dt>(ii)</dt><dd>another person at the request or direction of the defendant;
 
-                     (b)  in a case where the person is to be taken to have been convicted of the offence by reason of paragraph 5(1)(c)—a reference to the appeal period in relation to the person’s conviction of the other offence referred to in that paragraph.<o:p></o:p>
+</dd>
 
-           (11)  In this section, **_appeal period_**, in relation to a decision of a court or a finding, means the period ending:<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (a)  if the period provided for the lodging of an appeal against the decision or finding has ended without such an appeal having been lodged—at the end of that period; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  if an appeal against the decision or finding has been lodged—when the appeal lapses or is finally determined.<o:p></o:p>
+		by reason of the commission of the offence or any of the offences;
 
-##### <a id="50"></a>50  Charge on property subject to restraining order<o:p></o:p>
+<dt>(b)</dt><dd>the value of any other benefit provided to:
 
-             (1)  Where:<o:p></o:p>
+</dd>
 
-                     (a)  a pecuniary penalty order is made against a person (in this subsection called the **_defendant_**) in reliance on the defendant’s conviction of an offence; and<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  a restraining order is, or has been, made against:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  property of the defendant; or<o:p></o:p>
+<dt>(i)</dt><dd>the defendant; or</dd>
 
-                             (ii)  property of another person in relation to which an order under subsection 28(3) is, or has been, made;<o:p></o:p>
+<dt>(ii)</dt><dd>another person at the request or direction of the defendant; 
 
-                            in reliance on the defendant’s conviction of the offence or a related offence or in reliance on the charging, or proposed charging, of the defendant with the offence or a related offence;<o:p></o:p>
+</dd>
 
-then, upon the making of the later of the orders, there is created, by force of this section, a charge on the property to secure the payment to the Commonwealth of the penalty amount.<o:p></o:p>
+</dl></dl></dl></dl>
 
-             (2)  Where a charge is created by subsection (1) on property of a person, the charge ceases to have effect in respect of the property:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  upon the quashing of the conviction in reliance on which the pecuniary penalty order was made;<o:p></o:p>
+		by reason of the commission of the offence or any of the offences;
 
-                     (b)  upon the discharge of the pecuniary penalty order or the restraining order by a court hearing an appeal against the making of the order;<o:p></o:p>
+<dt>(c)</dt><dd>if the offence or any of the offences consisted of the doing of an act or
 
-                     (c)  upon payment to the Commonwealth of the penalty amount in satisfaction of the pecuniary penalty order;<o:p></o:p>
+thing in relation to a narcotic substance:
 
-                     (e)  upon the sale or other disposition of the property:<o:p></o:p>
+</dd>
 
-                              (i)  under an order under section 49;<o:p></o:p>
+</dl></dl></dl>
 
-                             (ii)  by the owner of the property with the consent of the court that made the pecuniary penalty order; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                            (iii)  where the restraining order directed the Official Trustee to take control of the property—by the owner of the property with the consent of the Official Trustee; or<o:p></o:p>
+<dt>(i)</dt><dd>the market value, at the time of the offence, of similar or substantially
 
-                      (f)  upon the sale of the property to a purchaser in good faith for value who, at the time of purchase, has no notice of the charge;<o:p></o:p>
+similar narcotic substances; and</dd>
 
-whichever first occurs.<o:p></o:p>
+<dt>(ii)</dt><dd>the amount that was, or the range of amounts that were, ordinarily paid
 
-             (3)  A charge created on property by subsection (1):<o:p></o:p>
+for the doing of a similar or substantially similar act or thing;
 
-                     (a)  is subject to every encumbrance on the property that came into existence before the charge and that would, apart from this subsection, have priority over the charge;<o:p></o:p>
+</dd>
 
-                     (b)  has priority over all other encumbrances; and<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (c)  subject to subsection (2), is not affected by any change of ownership of the property.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  Where a charge is created by subsection (1) on property of a particular kind and the provisions of any law of the Commonwealth or of a State or Territory provide for the registration of title to, or charges over, property of that kind, the Official Trustee or the DPP may cause the charge so created to be registered under the provisions of that law and, if the charge is so registered, a person who purchases or otherwise acquires an interest in the property after the registration of the charge shall, for the purposes of paragraph (2)(f), be deemed to have notice of the charge at the time of the purchase or acquisition.<o:p></o:p>
+<dt>(d)</dt><dd>the value of the defendant's property:
 
-##### <a id="51"></a>51  Registration of restraining orders<o:p></o:p>
+</dd>
 
-                   Where a restraining order applies to property of a particular kind and the provisions of any law of the Commonwealth or of a State or Territory provide for the registration of title to, or charges over, property of that kind, the authority responsible for administering those provisions may, on application by the DPP, record on the register kept pursuant to those provisions the particulars of the restraining order and, if those particulars are so recorded, a person who subsequently deals with the property shall, for the purposes of section 52, be deemed to have notice of the restraining order at the time of the dealing.<o:p></o:p>
+</dl></dl></dl>
 
-##### <a id="52"></a>52  Contravention of restraining orders<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (1)  A person who intentionally contravenes a restraining order by disposing of, or otherwise dealing with, property that is subject to the restraining order is guilty of an offence punishable, upon conviction, by:<o:p></o:p>
+<dt>(i)</dt><dd>where the application relates to a single offence&#151;before, during and
 
-                     (a) if the person is a natural person—a fine not exceeding $10,000 or imprisonment for a period not exceeding 5 years, or both; or<o:p></o:p>
+after the commission of the offence; or</dd>
 
-                     (b)  in the case of a body corporate—a fine not exceeding $50,000.<o:p></o:p>
+<dt>(ii)</dt><dd>where the application relates to 2 or more offences&#151;before, during and
 
-             (2)  Where:<o:p></o:p>
+after the offence period;
 
-                     (a)  a restraining order is made against property;<o:p></o:p>
+</dd>
 
-                     (b)  the property is disposed of, or otherwise dealt with, in contravention of the restraining order; and<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (c)  the disposition or dealing was either not for sufficient consideration or not in favour of a person who acted in good faith;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-the DPP may apply to the court that made the restraining order for an order that the disposition or dealing be set aside.<o:p></o:p>
+<dt>(e)</dt><dd>the defendant's income and expenditure:
 
-             (3)  Where the DPP makes an application under subsection (2) in relation to a disposition or dealing, the court may make an order:<o:p></o:p>
+</dd>
 
-                     (a)  setting the disposition or dealing aside as from the day on which the disposition or dealing took place; or<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  setting the disposition or dealing aside as from the day of the order under this subsection and declaring the respective rights of any persons who acquired interests in the property on or after the day on which the disposition or dealing took place and before the day of the order under this subsection.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="54"></a>54  Protection of Official Trustee from personal liability in certain cases<o:p></o:p>
+<dt>(i)</dt><dd>where the application relates to a single offence&#151;before, during and
 
-             (1)  Where:<o:p></o:p>
+after the commission of the offence; or</dd>
 
-                     (a)  a court has made a restraining order directing the Official Trustee to take custody and control of all the property of a person or of all the property of a person other than specified property;<o:p></o:p>
+<dt>(ii)</dt><dd>where the application relates to 2 or more offences&#151;before, during and
 
-                     (b)  the Official Trustee has taken custody and control of any property, without notice of any claim by another person in respect of that property; and<o:p></o:p>
+after the offence period.
 
-                     (c)  the first-mentioned person did not, at the date of the restraining order, have any beneficial interest in the property referred to in paragraph (b);<o:p></o:p>
+</dd>
 
-the Official Trustee is not personally liable for:<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (d)  any loss or damage arising from its having taken custody and control of the property sustained by a person claiming the property or an interest in the property; or<o:p></o:p>
+<dl compact="">
 
-                     (e)  the cost of proceedings taken to establish a claim to the property or to an interest in the property;<o:p></o:p>
+<dt>(3)</dt><dd>The court, in quantifying the value of a benefit for the purposes of this
 
-unless the court in which the claim is made is of the opinion that the Official Trustee has been guilty of negligence in respect of the taking of custody and control of the property.<o:p></o:p>
+section, may treat as the value of the benefit the value that the benefit would
 
-             (2)  Where the Official Trustee has, in accordance with a restraining order made in reliance on a person’s conviction of an offence or in reliance on the charging, or proposed charging, of a person with an offence, taken custody and control of property specified in the restraining order, the Official Trustee is not personally liable for:<o:p></o:p>
+have had if derived at the time when the valuation is being made and, without
 
-                     (a)  any loss or damage arising from its having taken custody and control of the property (being loss or damage sustained by some other person claiming the property or an interest in the property); or<o:p></o:p>
+limiting the generality of this, may have regard to any decline in the
 
-                     (b)  the cost of proceedings taken to establish a claim to the property, or to an interest in the property;<o:p></o:p>
+purchasing power of money between the time when the benefit was derived and the
 
-unless the court in which the claim is made is of the opinion that the Official Trustee has been guilty of negligence in respect of the taking of custody and control of the property.<o:p></o:p>
+time when the valuation is being made.</dd> <dt>(4)</dt><dd>Where an application is made for a pecuniary penalty order against a person in respect of a single ordinary indictable offence, the following provisions have effect: </dd> </dl>
 
-             (3)  The Official Trustee is not personally liable for any rates, land tax or municipal or other statutory charges imposed by or under a law of the Commonwealth or of a State or Territory in respect of property of which it has been directed by a restraining order to take custody and control, being rates, land tax or municipal or other statutory charges that fall due on or after the date of the order, except to the extent, if any, of the rents and profits received by the Official Trustee in respect of that property on or after the date of the order.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  Where the Official Trustee, having been directed by a restraining order to take custody and control of a business carried on by a person, carries on that business, the Official Trustee is not personally liable for any payment in respect of long service leave or extended leave for which the person was liable or for any payment in respect of long service leave or extended leave to which a person employed by the Official Trustee in its capacity of custodian and controller of the business, or the legal personal representative of such a person, becomes entitled after the date of the order.<o:p></o:p>
+<dt>(a)</dt><dd>if, at the hearing of the application, evidence is given that the value of
 
-##### <a id="55"></a>55  Costs etc. payable to Official Trustee<o:p></o:p>
+the person's property during or after the commission of the offence exceeded
 
-             (1)  The regulations may make provision for or in relation to:<o:p></o:p>
+the value of the person's property before the commission of the offence, then,
 
-                     (a)  the costs, charges and expenses incurred in connection with; and<o:p></o:p>
+for the purposes of subsection 26(1), the court shall, subject to
 
-                     (b)  the Official Trustee’s remuneration in respect of;<o:p></o:p>
+paragraphs&#160;(b) and (c) and subsection&#160;(7), treat the value of the
 
-the performance or exercise by the Official Trustee of functions, duties or powers under this Act.<o:p></o:p>
+benefits derived by the person from the commission of the offence as being not
 
-             (2)  An amount equal to each amount of remuneration that the Official Trustee receives under the regulations shall be paid to the Commonwealth.<o:p></o:p>
+less than the amount of the greatest excess;</dd>
 
-##### <a id="56"></a>56  Court may revoke restraining orders<o:p></o:p>
+<dt>(b)</dt><dd>if, after evidence of the kind referred to in paragraph&#160;(a) is given,
 
-                   Where a court has made a restraining order against a person’s property, the court may, on application made to it by the person, revoke the order if:<o:p></o:p>
+the person satisfies the court that the whole of the excess was due to causes
 
-                     (a)  where the order was made in reliance on the person’s conviction of an offence or the charging, or proposed charging, of the person with an offence—the person gives security satisfactory to the court for the payment of any pecuniary penalty that may be imposed upon the person under this Act in respect of the person’s conviction of the offence or a related offence; or<o:p></o:p>
+unrelated to the commission of the offence, paragraph&#160;(a) does not apply
 
-                     (b)  the person gives undertakings satisfactory to the court concerning the person’s property.<o:p></o:p>
+to the excess;</dd>
 
-##### <a id="57"></a>57  When restraining order ceases to be in force<o:p></o:p>
+<dt>(c)</dt><dd>if, after evidence of the kind referred to in paragraph&#160;(a) is given,
 
-             (1)  If, at the end of the period of 48 hours after the making of a restraining order in reliance on the proposed charging of a person with an offence, the person has not been charged with the offence or a related indictable offence, the order ceases to be in force at the end of that period.<o:p></o:p>
+the person satisfies the court that a part of the excess was due to causes
 
-             (2)  Subject to subsection (5), where:<o:p></o:p>
+unrelated to the commission of the offence, paragraph&#160;(a) applies to the
 
-                     (a)  a restraining order is made in reliance on a person’s conviction of an offence or the charging of a person with an offence; or<o:p></o:p>
+excess as if it were reduced by the amount of that part.
 
-                     (b)  a restraining order is made in reliance on the proposed charging of a person with an offence and the person is, within the succeeding period of 48 hours, charged with the offence or a related indictable offence;<o:p></o:p>
+</dd>
 
-the following provisions have effect:<o:p></o:p>
+</dl></dl></dl>
 
-                     (c)  if, within the relevant period in relation to the restraining order, the charge is withdrawn and the person is not charged with a related indictable offence by the time the charge is withdrawn, the restraining order ceases to be in force when the charge is withdrawn;<o:p></o:p>
+<center>Back to Top</center>
 
-                     (d)  if, within the relevant period in relation to the restraining order, the person is acquitted of the charge and the person is not charged with a related indictable offence by the time of the acquittal, the restraining order ceases to be in force:<o:p></o:p>
+<dl compact="">
 
-                              (i)  in a case where the acquittal occurs after the commencement of the _Proceeds of Crime Act 2002_—at the end of the period of 28 days after the day of the acquittal; or<o:p></o:p>
+<dt>(5)</dt><dd>Where an application is made for a pecuniary penalty order against a
 
-                             (ii)  otherwise—when the acquittal occurs;<o:p></o:p>
+person in respect of 2 or more ordinary indictable offences, the following
 
-Note:       After the commencement of the _Proceeds of Crime Act 2002_, an application can be made under that Act (but not section 17) for a restraining order in relation to the offence, despite the acquittal.<o:p></o:p>
+provisions have effect:
 
-                     (e)  if:<o:p></o:p>
+</dd> </dl>
 
-                              (i)  a court makes a confiscation order that is a pecuniary penalty order in reliance on the person’s conviction of the offence or a related indictable offence;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  the pecuniary penalty order is satisfied or otherwise ceases to be in force; and<o:p></o:p>
+<dt>(a)</dt><dd>if, at the hearing of the application, evidence is given that the value of
 
-                            (iii)  when the order is satisfied or otherwise ceases to be in force: <o:p></o:p>
+the person's property at any time during or after the offence period exceeded
 
-                                        (A)  no application for another confiscation order made in reliance on the person’s conviction of the offence or a related indictable offence is yet to be determined; and <o:p></o:p>
+the value of the person's property before the offence period, then, for the
 
-                                        (B)  no other confiscation order made in reliance on the person’s conviction of the offence or a related indictable offence is in force;<o:p></o:p>
+purposes of subsection 26(1), the court shall, subject to paragraphs&#160;(b)
 
-                            the restraining order ceases to be in force, upon the pecuniary penalty order being satisfied or otherwise ceasing to be in force, to the extent that the property to which the restraining order relates is the same as the property that is sold or otherwise disposed of to satisfy the pecuniary penalty order and pay the costs, charges, expenses and remuneration referred to in subsection 49(6);<o:p></o:p>
+and (c) and to subsection&#160;(7), treat the value of the benefits derived by
 
-                      (f)  if:<o:p></o:p>
+the person from the commission of the offences as being not less than the
 
-                              (i)  a court refuses an application for a confiscation order in reliance on the person’s conviction of the offence or a related indictable offence; and<o:p></o:p>
+amount of the excess;</dd>
 
-                             (ii)  when the court refuses the application: <o:p></o:p>
+<dt>(b)</dt><dd>if, after evidence of the kind referred to in paragraph&#160;(a) is given,
 
-                                        (A)  no application for another confiscation order made in reliance on the person’s conviction of the offence or a related indictable offence is yet to be determined; and <o:p></o:p>
+the person satisfies the court that the whole of the excess was due to causes
 
-                                        (B)  no other confiscation order made in reliance on the person’s conviction of the offence or a related indictable offence is in force;<o:p></o:p>
+unrelated to the commission of the offences, paragraph&#160;(a) does not apply
 
-                            the restraining order ceases to be in force when the court refuses the application;<o:p></o:p>
+to the excess;</dd>
 
-                     (g)  if some or all of the property subject to the restraining order is forfeited under section 19 or 30, the restraining order, to the extent to which it relates to that property, ceases to be in force when that property is forfeited;<o:p></o:p>
+<dt>(c)</dt><dd>if, after evidence of the kind referred to in paragraph&#160;(a) is given,
 
-                     (h)  if, within the relevant period in relation to the restraining order, an application is made to a court under subsection (3) for an extension of the period of operation of the restraining order and the court refuses the application after the end of the relevant period, the restraining order ceases to be in force when the court refuses the application;<o:p></o:p>
+the person satisfies the court that a part of the excess was due to causes
 
-                      (j)  subject to a preceding paragraph, if, within the relevant period in relation to the restraining order, an application is made to a court under subsection (3) for an extension of the period of operation of the restraining order and that application is granted, the restraining order ceases to be in force at such time, or on the occurrence of such event, as is specified in an order of the court made under that subsection; or<o:p></o:p>
+unrelated to the commission of the offences, paragraph&#160;(a) applies to the
 
-                     (k)  in any other case, the restraining order ceases to be in force at the end of the relevant period in relation to the restraining order.<o:p></o:p>
+excess as if it were reduced by the amount of that part.
 
-             (3)  The DPP may, before the end of the relevant period in relation to a restraining order against property made in reliance on a person’s conviction of an offence or the charging, or proposed charging, of a person with an offence, apply to the court that made the restraining order for an extension of the period of operation of the restraining order and, if the court is satisfied:<o:p></o:p>
+</dd>
 
-                     (a)  that a forfeiture order may still be made in respect of the property or part of the property;<o:p></o:p>
+</dl></dl></dl>
 
-                    (aa)  that the property or part of the property may still become forfeited under subsection 30(1); or<o:p></o:p>
+<dl compact="">
 
-                     (b)  where the property is:<o:p></o:p>
+<dt>(6)</dt><dd>Where an application is made for a pecuniary penalty order against a
 
-                              (i)  property of the person; or<o:p></o:p>
+person in relation to a serious offence or serious offences:
 
-                             (ii)  property of another person: <o:p></o:p>
+</dd> </dl>
 
-                                        (A)  against which the restraining order was made by virtue of subparagraph 44(7)(a)(ii) or (7A)(a)(ii); or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                                        (B)  in relation to which an order under subsection 28(3) has been, or is likely to be, made;<o:p></o:p>
+<dt>(a)</dt><dd>all property of the person at the time the application is made; and</dd>
 
-                            that a pecuniary penalty order may still be made against the person;<o:p></o:p>
+<dt>(b)</dt><dd>all property of the person at any time:
 
-the court may:<o:p></o:p>
+</dd>
 
-                     (c)  by order, extend the period of operation of the restraining order; and<o:p></o:p>
+</dl></dl></dl>
 
-                     (d)  make such other order or orders as it considers appropriate in relation to the operation of the restraining order.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (4)  The DPP shall give a person written notice of an application under subsection (3) in relation to a restraining order in respect of property of the person.<o:p></o:p>
+<dt>(i)</dt><dd>within the period between the day the offence, or the earliest offence,
 
-             (5)  Where:<o:p></o:p>
+was committed and the day on which the application is made; or</dd>
 
-                     (a)  a restraining order has been made in reliance on a person’s conviction of an offence or the charging, or proposed charging, of a person with an offence; and<o:p></o:p>
+<dt>(ii)</dt><dd>within the period of 5 years immediately before the day on which the
 
-                     (b)  in reliance on the person’s conviction of the offence or a related indictable offence, a court has made a forfeiture order in respect of part or all of the property and has also made a pecuniary penalty order against the person;<o:p></o:p>
+application is made;
 
-the court may make such further orders, and give such directions, as it considers appropriate in relation to the operation of the restraining order, the forfeiture order and the pecuniary penalty order, and this Act has effect, in relation to those orders and to the property subject to those orders, subject to any further orders, or any directions, so given.<o:p></o:p>
+</dd>
 
-             (6)  A reference in this section to the relevant period in relation to a restraining order is a reference to the period beginning on the day when the order was made and ending:<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (a)  if an order has, or orders have, been made under subsection (3) extending the restraining order’s period of operation—at such time, or on the occurrence of such event, as is specified in the order, or the last of the orders, so made;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  if paragraph (a) does not apply but an order has, or orders have, been made by virtue of paragraph 48(1)(a), (b) or (e) in relation to the restraining order—at the end of 6 months after the day when the order, or the last of the orders, was so made; or<o:p></o:p>
+		whichever is the shorter;
 
-                     (c)  in any other case—at the end of 6 months after the day when the restraining order was made.<o:p></o:p>
+</dl></dl></dl>
 
-             (7)  In this section:<o:p></o:p>
+shall be presumed, unless the contrary is proved, to be property that came into the possession or under the control of the person by reason of the commission of the offence or offences.
 
-                    <a name="extend"></a>**_extend_** includes further extend.<o:p></o:p>
+<dl compact="">
 
-##### <a id="58"></a>58  Notice of applications under this Division<o:p></o:p>
+<dt>(7)</dt><dd>A benefit shall not be taken into account for the purposes of this section
 
-             (1)  A person who makes an application under section 48 in relation to a restraining order shall give written notice of that application to each other person who is entitled, by virtue of subsection 48(2), to make an application under section 48 in relation to the restraining order.<o:p></o:p>
+if a pecuniary penalty has been imposed in respect of the benefit under:
 
-             (2)  A person who makes an application under section 56 in relation to a restraining order shall give written notice of that application, to:<o:p></o:p>
+</dd> </dl>
 
-                     (a)  the DPP; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  where the order directed the Official Trustee to take control of property—the Official Trustee.<o:p></o:p>
+<dt>(a)</dt><dd>this Act;</dd>
 
-##### <a id="59"></a>59  Interim restraining order may be made in respect of foreign offence<o:p></o:p>
+<dt>(b)</dt><dd>Division&#160;3 of Part&#160;XIII of the Customs Act;</dd>
 
-             (1)  Where the DPP is authorised, under the Mutual Assistance Act, to apply for a restraining order under this Act against any property of a person in respect of a foreign serious offence, the DPP may apply for the order accordingly and this Division applies to the application and to any restraining order made as a result of the application as if:<o:p></o:p>
+<dt>(c)</dt><dd>a law of a Territory; or</dd>
 
-                     (a)  a reference in subsection 43(1) to an indictable offence were a reference to the foreign serious offence; and<o:p></o:p>
+<dt>(d)</dt><dd>a law of a State.
 
-                     (b)  the reference in subsection 43(1) to the relevant Supreme Court were a reference to the court specified in the DPP’s authorisation under the Mutual Assistance Act; and <o:p></o:p>
+</dd>
 
-                     (c)  a reference in this Division to a person charged or about to be charged with an indictable offence were a reference to a person against whom a criminal proceeding in respect of a foreign  serious offence has commenced, or is reasonably believed to be about to commence, in a foreign country; and<o:p></o:p>
+</dl></dl></dl>
 
-                     (d)  the reference in paragraph 43(3)(b) to a person’s reasonable expenses in defending a criminal charge included a reference to the person’s reasonable expenses in being represented in a criminal proceeding in a foreign country; and<o:p></o:p>
+<dl compact="">
 
-(da)  a reference in subsection 44(4) to the proposed charging of a person with an offence were a reference to the proposed commencement of a criminal proceeding in a foreign country against a person in respect of a foreign serious offence; and<o:p></o:p>
+<dt>(8)</dt><dd>In calculating, for the purposes of an application for a pecuniary penalty
 
-                     (e)  a reference in this Division to a serious offence were a reference to the foreign serious offence; and<o:p></o:p>
+order, the value of benefits derived by a person from the commission of an
 
-                      (f)  subsections 44(2), (5) and (6) and 48(3) and (4) and sections 49, 50, 56 and 57 were omitted.<o:p></o:p>
+offence or offences, any expenses or outgoings of the person in connection with
 
-             (2)  Where:<o:p></o:p>
+the commission of the offence or offences shall be disregarded.</dd> <dt>(9)</dt><dd>For the purposes of this section, where property of a person vests in an insolvency trustee, the property shall be taken to continue to be the property of the person.</dd> <dt>(10)</dt><dd>At the hearing of an application for a pecuniary penalty order, a police officer, or a Customs officer, who is experienced in the investigation of narcotics offences may testify, to the best of the officer's information, knowledge and belief: </dd> </dl>
 
-                     (a)  a person (in this subsection referred to as the **_defendant_**) has been alleged, in a criminal proceeding in a foreign country, to have committed a serious foreign offence;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  a court makes a restraining order under section 43 against property in respect of the offence; and<o:p></o:p>
+<dt>(a)</dt><dd>with respect to the amount that was the market value of a narcotic
 
-                     (c)  a person having an interest in the property applies to the court under section 48 for an order varying the restraining order to exclude the person’s interest from the restraining order;<o:p></o:p>
+substance at a particular time or during a particular period; or</dd>
 
-the court shall grant the application:<o:p></o:p>
+<dt>(b)</dt><dd>with respect to the amount, or the range of amounts, that was the amount,
 
-                     (d)  where the applicant is not the defendant—if the court is satisfied that:<o:p></o:p>
+or range of amounts, ordinarily paid at a particular time, or during a
 
-                              (i)  the applicant was not, in any way, involved in the commission of the offence; and<o:p></o:p>
+particular period for the doing of an act or thing in relation to a narcotic
 
-                             (ii)  where the applicant acquired the interest at the time of or after the commission, or alleged commission, of the offence—the applicant acquired the interest: <o:p></o:p>
+substance;
 
-                                        (A)  for sufficient consideration; and <o:p></o:p>
+</dd>
 
-                                        (B)  without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the property was tainted property; or<o:p></o:p>
+</dl></dl></dl>
 
-                     (e)  in any case—if the court is satisfied that it is in the public interest to do so having regard to any financial hardship or other consequence of the interest remaining subject to the order.<o:p></o:p>
+<center>Back to Top</center>
 
-             (3)  Subject to subsections (4) and (5), a restraining order made in respect of a foreign serious offence ceases to have effect at the end of the period of 30 days commencing on the day on which the order is made.<o:p></o:p>
+notwithstanding any rule of law or practice relating to hearsay evidence, and the testimony is _prima facie_ evidence of the matters testified to. 
 
-             (4)  A court that makes a restraining order in respect of a foreign serious offence may, on application made by the DPP before the end of the period referred to in subsection (3), extend the period of operation of the restraining order.<o:p></o:p>
+**
 
-             (5)  Where:<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 28  Court may lift corporate veil etc. 
+**
 
-                     (a)  a restraining order against property is made in respect of a foreign serious offence; and<o:p></o:p>
+ <dl compact="">
 
-                     (b)  before the end of the period referred to in subsection (3) (including that period as extended under subsection (4)) a foreign restraining order against the property is registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under the Mutual Assistance Act;<o:p></o:p>
+<dt>(1)</dt><dd>In assessing the value of benefits derived by a person from the commission
 
-the restraining order referred to in paragraph (a) ceases to have effect upon the registration of the foreign restraining order referred to in paragraph (b).<o:p></o:p>
+of an offence or offences, the court may treat as property of the person any
 
-##### <a id="60"></a>60  Registered foreign restraining orders—general<o:p></o:p>
+property that, in the opinion of the court, is subject to the effective control
 
-                   Where a foreign restraining order is registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under the Mutual Assistance Act, this Division applies in relation to the order as if:<o:p></o:p>
+of the person.</dd> <dt>(3)</dt><dd>On application by the DPP, a court may, if in its opinion particular property is subject to the effective control of a person against whom the court has made a pecuniary penalty order, make an order declaring that the whole, or a specified part, of that property is available to satisfy the pecuniary penalty order.</dd> <dt>(4)</dt><dd>Where a court declares that property is available to satisfy a pecuniary penalty order: </dd> </dl>
 
-                     (a)  sections 48, 49, 50, 56, 57 and 58 were omitted;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  a reference in this Division to a restraining order directing the Official Trustee to take custody and control of property were a reference to an order under section 61;<o:p></o:p>
+<dt>(a)</dt><dd>the order may be enforced against the property as if the property were
 
-                     (c)  a reference in this Division to an order under subsection 49(1), (2) or (2A) were a reference to an order under subsection 63 (1);<o:p></o:p>
+property of the person against whom the order is made; and</dd>
 
-                     (d)  a reference in this Division to an order under section 49 were a reference to an order under section 63; and<o:p></o:p>
+<dt>(b)</dt><dd>a restraining order may be made in respect of the property as if the
 
-                     (e)  the reference in section 55 to a restraining order were a reference to an order under section 61.<o:p></o:p>
+property were property of the person against whom the order is made.
 
-##### <a id="61"></a>61  Registered foreign restraining orders—court may direct Official Trustee to take custody and control of property<o:p></o:p>
+</dd>
 
-             (1)  Where a foreign restraining order against property is registered in a court in Australia under the Mutual Assistance Act, the court may, if satisfied, upon application by the DPP, that the circumstances so require, by order direct the Official Trustee to take custody and control of the property, or of such part of the property as is specified in the court’s order.<o:p></o:p>
+</dl></dl></dl>
 
-             (2)  The DPP shall give written notice of an application for an order under subsection (1) in respect of property to:<o:p></o:p>
+<dl compact="">
 
-                     (a)  the owner of the property; and<o:p></o:p>
+<dt>(5)</dt><dd>Where the DPP makes an application for an order under subsection&#160;(3)
 
-                     (b)  any other person the DPP has reason to believe may have an interest in the property.<o:p></o:p>
+that property is available to satisfy a pecuniary penalty order against a
 
-             (3)  Where the DPP applies to a court for an order under subsection (1), the court may, at any time before the final determination of the application, direct the DPP to give or publish notice of the application to a specified person or class of persons, in the manner and within the time that the court considers appropriate.<o:p></o:p>
+person:
 
-             (4)  A person who claims an interest in property in respect of which an application under subsection (1) is made may appear and adduce evidence at the hearing of the application.<o:p></o:p>
+</dd> </dl>
 
-             (5)  Where an order is made under subsection (1) in respect of property of a person (in this subsection called the **_respondent_**), the court may, at the time when it makes the order or at any later time, make any one or more of the following orders:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  an order regulating the manner in which the Official Trustee may exercise its powers or perform its duties under the order under subsection (1);<o:p></o:p>
+<dt>(a)</dt><dd>the DPP shall give written notice of the application to the person and to
 
-                     (b)  an order determining any question relating to that property, including any question relating to the liabilities of the respondent and the exercise of the powers, or the performance of the duties, of the Official Trustee with respect to that property;<o:p></o:p>
+any person who the DPP has reason to believe may have an interest in the
 
-                     (c)  an order directing the respondent to furnish to the Official Trustee, within a period specified in the order under this subsection, a statement, verified by the oath of the respondent, setting out such particulars of the property of the respondent as the court thinks proper.<o:p></o:p>
+property; and</dd>
 
-             (6)  Where the Official Trustee is given a direction under subsection (1) in relation to property, the Official Trustee may do anything that is reasonably necessary for the purpose of preserving the property including, without limiting the generality of this:<o:p></o:p>
+<dt>(b)</dt><dd>the person and any person who claims an interest in the property may
 
-                     (a)  becoming a party to any civil proceedings affecting the property;<o:p></o:p>
+appear and adduce evidence at the hearing of the application.
 
-                     (b)  ensuring that the property is insured; and<o:p></o:p>
+</dd>
 
-                     (c)  if the property consists, in whole or in part, of a business—employing, or terminating the employment of, persons in the business.<o:p></o:p>
+</dl></dl></dl>
 
-             (7)  Notwithstanding anything in the Bankruptcy Act, money that has come into the custody and control, of the Official Trustee under an order under subsection (1) shall not be paid into the Common Investment Fund established by section 20B of that Act.<o:p></o:p>
+**
 
-##### <a id="62"></a>62  Registered foreign restraining orders—undertakings<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 29  Amounts paid in respect of registered foreign pecuniary penalty orders 
+**
 
-                   Where:<o:p></o:p>
+<dl compact="">
 
-                     (a)  a foreign restraining order against property is registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under the Mutual Assistance Act; or<o:p></o:p>
+		Where a foreign pecuniary penalty order is registered in a court in Australia
 
-                     (b)  a court makes an order under section 61 in respect of property;<o:p></o:p>
+under the Mutual Assistance Act, any amount paid (whether in Australia, in the
 
-the court may, upon application by a person claiming an interest in the property, make an order as to the giving, or carrying out, of an undertaking by the DPP, on behalf of the Commonwealth, with respect to the payment of damages or costs in relation to the registration, making or operation of the order.<o:p></o:p>
+foreign country in which the order was made or elsewhere) in satisfaction of
 
-##### <a id="63"></a>63  Discharge of certain registered foreign pecuniary penalty orders<o:p></o:p>
+the foreign pecuniary penalty order shall be taken to have been paid in
 
-             (1)  Where:<o:p></o:p>
+satisfaction of the debt that arises by reason of the registration of the
 
-                     (a)  a foreign restraining order is made against property of a person in reliance on the person’s conviction, or alleged commission, of a foreign serious offence;<o:p></o:p>
+foreign pecuniary penalty order in that court.
 
-                     (b)  the foreign restraining order is registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under the Mutual Assistance Act;<o:p></o:p>
+ </dl>
 
-                     (c)  a foreign pecuniary penalty order has been or is made against the person in reliance on the person’s conviction of the offence or a related foreign serious offence;<o:p></o:p>
+<center>**
 
-                     (d)  the foreign pecuniary penalty order has been or is registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under the Mutual Assistance Act; and<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;4&#151;Forfeiture in case of serious offence </division> 
+**</center>
 
-                     (e)  an order has been or is made under section 61 directing the Official Trustee to take control of the property;<o:p></o:p>
+**
 
-the court in which the foreign pecuniary penalty order is registered may, by order, direct the Official Trustee to pay to the Commonwealth, in accordance with this section, an amount equal to the penalty amount out of that property.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 30  Forfeiture of all restrained property if person convicted of serious offence 
+**
 
-             (2)  For the purposes of enabling the Official Trustee to comply with the order under subsection (1), the court may, in that order or by a subsequent order:<o:p></o:p>
+<dl compact="">
 
-                     (a)  direct the Official Trustee to sell or otherwise dispose of such of the property that is under the control of the Official Trustee as the court specifies; and<o:p></o:p>
+<dt>(1)</dt><dd>If:
 
-                     (b)  appoint an officer of the court or any other person to execute any deed or instrument in the name of a person who owns or has an estate, or interest or right in the property and to do any act or thing necessary to give validity and operation to the deed or instrument.<o:p></o:p>
+</dd> </dl>
 
-             (3)  The execution of the deed or instrument by the person appointed by an order under subsection (2) has the same force and validity as if the deed or instrument had been executed by the person who owned or had the estate, interest or right in the property.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  Where an order is made under subsection (1) in relation to property, the Official Trustee shall, as soon as practicable after the order is made:<o:p></o:p>
+<dt>(a)</dt><dd>a person (in this subsection called the _defendant_) is
 
-                     (a)  if the property is money:<o:p></o:p>
+convicted of a serious offence (otherwise than by reason of paragraph
 
-                              (i)  apply the money in payment of the costs payable to the Official Trustee in accordance with section 55 in respect of the order under section 61 in respect of the property; and<o:p></o:p>
+5(1)(d));</dd>
 
-                             (ii)  subject to subsection (5), credit the amount of the remainder of the money to the Confiscated Assets Special Account as required by section 34B; and<o:p></o:p>
+<dt>(b)</dt><dd>before the commencement of the _Proceeds of Crime Act 2002_, a
 
-                     (b)  if the property is not money:<o:p></o:p>
+restraining order is or was granted in respect of property (whether property of
 
-                              (i)  sell or otherwise dispose of the property;<o:p></o:p>
+the defendant or of some other person) in reliance on:
 
-                             (ii)  apply the proceeds of the sale or disposition in payment of the costs payable to the Official Trustee in accordance with section 55 in respect of the order under section 61 in respect of the property (including expenses incurred in connection with the sale or disposition of any of the property to which the order under section 61 relates); and<o:p></o:p>
+</dd>
 
-                            (iii)  subject to subsection (5), credit the amount of the remainder of those proceeds to the Confiscated Assets Special Account as required by section 34B.<o:p></o:p>
+</dl></dl></dl>
 
-             (5)  Where the money or proceeds to which subparagraph (4)(a)(ii) or (b)(iii) applies, exceeds the penalty amount, the Official Trustee shall:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  credit to the Confiscated Assets Special Account as required by section 34B an amount equal to the penalty amount; and<o:p></o:p>
+<dt>(i)</dt><dd>the defendant's conviction of that offence; or</dd>
 
-                     (b)  pay the balance to the person whose property was subject to the order under section 61.<o:p></o:p>
+<dt>(ii)</dt><dd>the charging or proposed charging of the defendant with that offence or a
 
-             (6)  Where the Official Trustee credits, in accordance with an order under subsection (1), an amount to the Confiscated Assets Special Account as required by section 34B in satisfaction of a person’s liability under a foreign pecuniary penalty, the person’s liability under the foreign pecuniary penalty order shall, to the extent of the payment, be deemed to be discharged.<o:p></o:p>
+related offence;
 
-##### <a id="64"></a>64  Registered foreign restraining orders—charge on property subject to order<o:p></o:p>
+</dd>
 
-             (1)  Where:<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (a)  a foreign restraining order is made against property of a person in reliance on the person’s conviction, or alleged commission, of a foreign serious offence;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the foreign restraining order is registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under the Mutual Assistance Act;<o:p></o:p>
+<dt>(c)</dt><dd>the restraining order, to the extent to which it relates to the property,
 
-                     (c)  a foreign pecuniary penalty order has been or is made against the person in reliance on the person’s conviction of the offence or a related foreign serious offence; and<o:p></o:p>
+is not the subject of a declaration under subsection 48(4); and</dd>
 
-                     (d)  the foreign pecuniary penalty order has been or is registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under the Mutual Assistance Act;<o:p></o:p>
+<dt>(d)</dt><dd>the restraining order is in force at the end of:
 
-then, upon the registration of the foreign restraining order or the foreign pecuniary penalty order, whichever last occurs, there is created, by force of this section, a charge on the property to secure the payment to the Commonwealth of the penalty amount.<o:p></o:p>
+</dd>
 
-             (2)  Where a charge is created by subsection (1) on property of a person, the charge ceases to have effect in respect of the property:<o:p></o:p>
+</dl></dl></dl>
 
-                     (a)  upon payment to the Commonwealth of the penalty amount in satisfaction of the foreign pecuniary penalty order;<o:p></o:p>
+<center>Back to Top</center>
 
-                     (b)  upon the person becoming a bankrupt;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  upon the sale or other disposition of the property:<o:p></o:p>
+<dt>(i)</dt><dd>the period of 6 months starting on the day of the conviction; or</dd>
 
-                              (i)  under an order under section 63;<o:p></o:p>
+<dt>(ii)</dt><dd>if an order under section&#160;30A is in force at the end of that
 
-                             (ii)  by the owner of the property with the consent of the court in which the foreign pecuniary penalty order is registered; or<o:p></o:p>
+period&#151;the end of the extended period;
 
-                            (iii)  where an order under section 61 directed the Official Trustee to take control of the property—by the owner of the property with the consent of the Official Trustee;<o:p></o:p>
+</dd>
 
-                     (d)  upon the sale of the property to a purchaser in good faith for value who, at the time of purchase, has no notice of the charge; or<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (e)  upon the cancellation of the registration of the relevant foreign restraining order, or the cancellation of the registration of the relevant foreign pecuniary penalty order, in accordance with the Mutual Assistance Act;<o:p></o:p>
+the property is, under this subsection, forfeited to the Commonwealth at the end of that period, or that extended period, as the case may be.
 
-whichever first occurs.<o:p></o:p>
+<dl compact="">
 
-             (3)  A charge created on property by subsection (1):<o:p></o:p>
+<dt>(2)</dt><dd>Subject to subsection&#160;(3), where property is forfeited to the
 
-                     (a)  is subject to every encumbrance on the property that came into existence before the charge and that would, apart from this subsection, have priority over the charge;<o:p></o:p>
+Commonwealth by virtue of subsection&#160;(1), the property vests absolutely in
 
-                     (b)  has priority over all other encumbrances; and<o:p></o:p>
+the Commonwealth.</dd> <dt>(3)</dt><dd>Where registrable property is forfeited to the Commonwealth by virtue of subsection&#160;(1): </dd> </dl>
 
-                     (c)  subject to subsection (2), is not affected by any change of ownership of the property.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  Where a charge is created by subsection (1) on property of a particular kind and the provisions of any law of the Commonwealth or of a State or Territory provide for the registration of title to, or charges over, property of that kind, the Official Trustee or the DPP may cause the charge so created to be registered under the provisions of that law and, if the charge is so registered, a person who purchases or otherwise acquires an interest in the property after the registration of the charge shall, for the purposes of paragraph (2)(d), be deemed to have notice of the charge at the time of purchase or acquisition.<o:p></o:p>
+<dt>(a)</dt><dd>the property vests in equity in the Commonwealth but does not vest in the
 
-##### <a id="65"></a>65  Registered foreign restraining orders—time when order ceases to be in force<o:p></o:p>
+Commonwealth at law until the applicable registration requirements have been
 
-                   A foreign restraining order registered in a court in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> under the Mutual Assistance Act ceases to be in force when the registration is cancelled in accordance with that Act.<o:p></o:p>
+complied with;</dd>
 
-<o:p> </o:p>
+<dt>(b)</dt><dd>the Commonwealth is entitled to be registered as owner of the property;
 
-## Part IV—Information gathering powers<o:p></o:p>
+and</dd>
 
-### Division 1—Production orders<o:p></o:p>
+<dt>(c)</dt><dd>the Minister has power, on behalf of the Commonwealth, to do, or to
 
-##### <a id="66"></a>66  Production orders<o:p></o:p>
+authorise the doing of, anything necessary or convenient to obtain the
 
-             (1)  Where:<o:p></o:p>
+registration of the Commonwealth as owner, including, without limiting the
 
-                     (a)  a person has been convicted of an indictable offence and a police officer has reasonable grounds for suspecting that a person has possession or control of a property-tracking document or property-tracking documents in relation to the offence; or<o:p></o:p>
+generality of this, the execution of any instrument required to be executed by
 
-                     (b)  a police officer has reasonable grounds for suspecting that:<o:p></o:p>
+a person transferring an interest in property of that kind.
 
-                              (i)  a person has committed an indictable offence; and<o:p></o:p>
+</dd>
 
-                             (ii)  a person has possession or control of a property-tracking document or property-tracking documents in relation to the offence;<o:p></o:p>
+</dl></dl></dl>
 
-the police officer may:<o:p></o:p>
+<dl compact="">
 
-                     (c)  lay before a Judge of the Supreme Court of:<o:p></o:p>
+<dt>(3A)</dt><dd>If registrable property has been forfeited to the Commonwealth because of
 
-                              (i)  the State or Territory in which the person was convicted of the offence or in which the offence is believed to have been committed; or<o:p></o:p>
+subsection&#160;(1):
 
-                             (ii)  a State or Territory in which the document is, or some or all of the documents are, believed to be located;<o:p></o:p>
+</dd> </dl>
 
-                            an information on oath setting out those grounds; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  apply to the Judge for an order under subsection (4) against the person suspected of having possession or control of the document or documents.<o:p></o:p>
+<dt>(a)</dt><dd>the DPP has power, on behalf of the Commonwealth, to do anything necessary
 
-          (1A)  A police officer is not empowered to make an application under this section after the commencement of the _Proceeds of Crime Act 2002_.<o:p></o:p>
+or convenient to give notice of, or otherwise protect, the equitable interest
 
-             (2)  Where a police officer applying for an order under this section in respect of an offence includes in the information under subsection (1) information on oath that the officer has reasonable grounds to believe that:<o:p></o:p>
+of the Commonwealth in the property; and</dd>
 
-                     (a)  if the offence is an ordinary indictable offence:<o:p></o:p>
+<dt>(b)</dt><dd>any such action by or on behalf of the Commonwealth is not a dealing for
 
-                              (i)  the person who was convicted of the offence, or who is believed to have committed the offence, derived a benefit, directly or indirectly, from the commission of the offence; and<o:p></o:p>
+the purposes of paragraph&#160;(4)(a).
 
-                             (ii)  property specified in the information is subject to the effective control of the person; or<o:p></o:p>
+</dd>
 
-                     (b)  if the offence is a serious offence—property specified in the information is subject to the effective control of the person;<o:p></o:p>
+</dl></dl></dl>
 
-the Judge may treat any document relevant to identifying, locating or quantifying that property as a property-tracking document in relation to the offence for the purposes of this section.<o:p></o:p>
+<dl compact="">
 
-             (3)  In determining whether to treat a document, under subsection (2), as a property-tracking document in relation to an offence, the Judge may have regard to the matters referred to in subsection 9A(2).<o:p></o:p>
+<dt>(4)</dt><dd>Where property is forfeited to the Commonwealth under this section in
 
-             (4)  Where an application is made under subsection (1) for an order against a person, the Judge may, subject to subsections (5) and (6), make an order that the person:<o:p></o:p>
+respect of a person's conviction of a serious offence:
 
-                     (a)  produce to a police officer any documents of the kind referred to in subsection (1) that are in the person’s possession or control; or<o:p></o:p>
+</dd> </dl>
 
-                     (b)  make available to a police officer, for inspection, any documents of that kind that are in the person’s possession or control.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (5)  An order under paragraph (4)(a) shall not be made in respect of the books of an ADI.<o:p></o:p>
+<dt>(a)</dt><dd>the property shall not, except with the leave of the court that made the
 
-             (6)  A Judge shall not make an order under this section unless:<o:p></o:p>
+relevant restraining order and in accordance with any directions of the court,
 
-                     (a)  the informant or some other person has given the Judge, either orally or by affidavit, such information (if any) as the Judge requires concerning the grounds on which the order is sought; and<o:p></o:p>
+be disposed of, or otherwise dealt with, by or on behalf of the Commonwealth,
 
-                     (b)  the Judge is satisfied that there are reasonable grounds for making the order.<o:p></o:p>
+before the end of the appeal period in respect of the conviction; and</dd>
 
-             (7)  An order that a person produce a document or documents to a police officer shall specify the time when and the place where the document is or the documents are to be produced.<o:p></o:p>
+<dt>(b)</dt><dd>if, at the end of the appeal period in respect of the conviction, the
 
-             (8)  An order that a person make a document or documents available to a police officer for inspection shall specify the time or times when the document is or the documents are to be made available.<o:p></o:p>
+conviction has not been quashed, then, subject to any direction under
 
-             (9)  Where a document is produced to a police officer pursuant to an order under this section, the police officer may do any one or more of the following:<o:p></o:p>
+subsection&#160;(4A), the Official Trustee must, as soon as practicable after
 
-                     (a)  inspect the document;<o:p></o:p>
+the end of the appeal period:
 
-                     (b)  take extracts from the document;<o:p></o:p>
+</dd>
 
-                     (c)  make copies of the document;<o:p></o:p>
+</dl></dl></dl>
 
-                     (d)  retain the document if, and for so long as, retention of the document is reasonably necessary for the purposes of this Act.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-           (10)  Where a document is made available to a police officer for inspection pursuant to an order under this section, the police officer may do any one or more of the following:<o:p></o:p>
+<dt>(i)</dt><dd>if the property is money&#151;after paying the Official Trustee's remuneration
 
-                     (a)  inspect the document;<o:p></o:p>
+and other costs, charges and expenses of the kind referred to in subsection
 
-                     (b)  take extracts from the document;<o:p></o:p>
+55(1) payable to or incurred by it in connection with the restraining order,
 
-                     (c)  make copies of the document.<o:p></o:p>
+pay the remainder of the money to the Reserve as required by section&#160;34B;
 
-           (11)  Where a police officer retains a document pursuant to an order under this section, the police officer shall, on request by the person to whom the order was addressed:<o:p></o:p>
+and</dd>
 
-                     (a)  give the person a copy of the document certified by the police officer in writing to be a true copy of the document; and<o:p></o:p>
+<dt>(ii)</dt><dd>if the property is not money&#151;sell or otherwise dispose of the property
 
-                     (b)  unless the person has received a copy of the document under paragraph (a)—permit the person to do any one or more of the following:<o:p></o:p>
+and, after paying the Official Trustee's remuneration and other costs, charges
 
-                              (i)  inspect the document;<o:p></o:p>
+and expenses of the kind referred to in subsection 55(1) payable to or incurred
 
-                             (ii)  take extracts from the document;<o:p></o:p>
+by it in connection with the restraining order or the sale or disposition, pay
 
-                            (iii)  make copies of the document.<o:p></o:p>
+the remainder of those proceeds to the Reserve as required by section&#160;34B.
 
-           (12)  A person is not excused from producing or making available a document when required to do so by an order under this section on the ground that:<o:p></o:p>
+</dd>
 
-                     (a)  the production or making available of the document might tend to incriminate the person or make the person liable to a penalty; or<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (b)  the production or making available of the document would be in breach of an obligation (whether imposed by enactment or otherwise) of the person not to disclose the existence or contents of the document.<o:p></o:p>
+<dl compact="">
 
-           (13)  Where a person produces or makes available a document pursuant to an order under this section, the production or making available of the document, or any information, document or thing obtained as a direct or indirect consequence of the production or making available of the document, is not admissible against the person in any criminal proceedings except a proceeding for an offence against subsection 68(1).<o:p></o:p>
+<dt>(4A)</dt><dd>Where property is forfeited under this section because of a person's
 
-           (14)  For the purposes of subsection (13), proceedings on an application for a restraining order, a forfeiture order or a pecuniary penalty order are not criminal proceedings.<o:p></o:p>
+conviction of a serious offence, the Attorney-General, or a prescribed officer
 
-           (15)  In this section:<o:p></o:p>
+authorised by the Attorney-General for the purposes of this subsection, may, at
 
-                    <a name="book-adi"></a>**_books of an ADI_** means any accounting records used in the ordinary business of an ADI, including ledgers, day-books, cash-books and account books.<o:p></o:p>
+or after the end of the appeal period in respect of the conviction but before
 
-##### <a id="67"></a>67  Variation of production orders<o:p></o:p>
+the property is dealt with under paragraph&#160;(4)(b), direct that the
 
-                   Where a Judge of a Supreme Court makes a production order requiring a person to produce a document to a police officer, the person may apply to the Judge or another Judge of that Court for a variation of the order and if the Judge hearing the application is satisfied that the document is essential to the business activities of the person, he or she may vary the production order so that it requires the person to make the document available to a police officer for inspection.<o:p></o:p>
+property be disposed of, or otherwise dealt with, as specified in the
 
-##### <a id="68"></a>68  Failure to comply with production order<o:p></o:p>
+direction.</dd> <dt>(5)</dt><dd>Without limiting the generality of subsection&#160;(4A), the directions that may be given pursuant to that subsection include a direction that property is to be disposed of in accordance with the provisions of a law specified in the direction.</dd> <dt>(6)</dt><dd>Where property is forfeited to the Commonwealth under subsection&#160;(1), the Minister may give all directions that are necessary or convenient to realise the Commonwealth's interest in the property.</dd> <dt>(7)</dt><dd>Without limiting the generality of subsection&#160;(6), where registrable property is forfeited to the Commonwealth under subsection&#160;(1), the Minister may direct an officer of the Department or a police officer to do anything necessary and reasonable to obtain possession of any document necessary for the transfer of the property.</dd> <dt>(8)</dt><dd>A reference in this section to the appeal period in relation to the conviction of a person of an offence is: </dd> </dl>
 
-             (1)  Where a person is required by a production order to produce a document to a police officer or make a document available to a police officer for inspection, the person is guilty of an offence against this subsection if the person:<o:p></o:p>
+<center>Back to Top</center>
 
-                     (a)  contravenes the order; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  in purported compliance with the order produces or makes available a document known to the person to be false or misleading in a material particular without:<o:p></o:p>
+<dt>(a)</dt><dd>in a case where the person is to be taken to have been convicted of the
 
-                              (i)  indicating to the police officer to whom the document is produced or made available that the document is false or misleading and the respect in which the document is false or misleading; and<o:p></o:p>
+offence by reason of paragraph 5(1)(b)&#151;a reference to the appeal period in
 
-                             (ii)  providing correct information to the police officer if the person is in possession of, or can reasonably acquire, the correct information.<o:p></o:p>
+relation to the finding of the person guilty of the offence; and</dd>
 
-          (1A)  Paragraph (1)(a) does not apply if the person has a reasonable excuse.<o:p></o:p>
+<dt>(b)</dt><dd>in a case where the person is to be taken to have been convicted of the
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (1A) (see subsection 13.3(3) of the _Criminal Code_).<o:p></o:p>
+offence by reason of paragraph 5(1)(c)&#151;a reference to the appeal period in
 
-             (2)  An offence against subsection (1) is punishable, upon conviction, by:<o:p></o:p>
+relation to the conviction of the person of the other offence referred to in
 
-                     (a)  if the offender is a natural person—a fine not exceeding $10,000 or imprisonment for a period not exceeding 5 years, or both; or<o:p></o:p>
+that paragraph.
 
-                     (b)  if the offender is a body corporate—a fine not exceeding $50,000.<o:p></o:p>
+</dd>
 
-##### <a id="69"></a>69  Production orders in relation to foreign offences<o:p></o:p>
+</dl></dl></dl>
 
-             (1)  Where a police officer is authorised, under the Mutual Assistance Act, to apply to a Judge of a court for a production order under this Act in respect of a foreign serious offence, the police officer may apply for the order accordingly and this Division applies to the application and to any production order made as a result of the application as if:<o:p></o:p>
+<dl compact="">
 
-                     (a)  a reference in this Division to an indictable offence were a reference to the foreign serious offence; and<o:p></o:p>
+<dt>(8A)</dt><dd>Where a court makes a restraining order in reliance on:
 
-                     (b)  paragraph 66(1)(c) referred to the court specified in the police officer’s authorisation under the Mutual Assistance Act.<o:p></o:p>
+</dd> </dl>
 
-             (2)  Where a police officer takes possession of a document under a production order made in respect of a foreign serious offence, the police officer may retain the document for a period of one month pending a written direction from the Attorney-General as to the manner in which the document is to be dealt with (which may include a direction that the document be sent to an authority of the foreign country that requested the obtaining of the production order).<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(a)</dt><dd>a person's conviction of a serious offence; or</dd>
 
-### Division 2—Search powers<o:p></o:p>
+<dt>(b)</dt><dd>the charging or proposed charging of a person with such an offence;
 
-##### <a id="70"></a>70  Powers to search for, and seize, documents relevant to locating etc. property<o:p></o:p>
+</dd>
 
-             (1)  A police officer may:<o:p></o:p>
+</dl></dl></dl>
 
-                     (a)  enter upon land, or upon or into premises;<o:p></o:p>
+a person may apply to the court for a declaration that property that was subject to the restraining order has been forfeited to the Commonwealth under subsection&#160;(1) and the court, if satisfied that the property has been forfeited to the Commonwealth under that subsection, shall make a declaration accordingly.
 
-                     (b)  search the land or premises for any property-tracking document in relation to an indictable offence; and<o:p></o:p>
+<dl compact="">
 
-                     (c)  seize any document found in the course of the search that the police officer believes, on reasonable grounds, to be a property-tracking document in relation to an indictable offence;<o:p></o:p>
+<dt>(9)</dt><dd>In this section:
 
-but only if the entry, search or seizure, as the case may be, is made:<o:p></o:p>
+</dd> </dl>
 
-                     (d) with the consent of the occupier of the land or premises; or<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (e)  under a warrant issued under section 71.<o:p></o:p>
+_appeal period_, in relation to a person's conviction of an
 
-             (2)  A police officer is not empowered to do anything under this section after the commencement of the _Proceeds of Crime Act 2002_ unless it is done under a search warrant issued under section 71 of this Act for which an application was made under that section before that commencement.<o:p></o:p>
+offence, means the period ending:
 
-##### <a id="71"></a>71  Search warrant for location etc. of property<o:p></o:p>
+ </dl></dl>
 
-             (1)  Where:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  a person has been convicted of an indictable offence and a police officer has reasonable grounds for suspecting that there is, or may be within the next following 72 hours, upon any land, or upon or in any premises, in a State or Territory a property-tracking document in relation to the offence; or<o:p></o:p>
+<dt>(a)</dt><dd>if the period provided for the lodging of an appeal against the conviction
 
-                     (b)  a police officer has reasonable grounds for suspecting that:<o:p></o:p>
+has ended without such an appeal having been lodged&#151;at the end of that period;
 
-                              (i)  a person has committed an indictable offence; and<o:p></o:p>
+or</dd>
 
-                             (ii)  there is, or may be within the next following 72 hours, upon any land, or upon or in any premises, in a State or Territory a property-tracking document in relation to the offence;<o:p></o:p>
+<dt>(b)</dt><dd>if an appeal against the conviction has been lodged&#151;when the appeal
 
-the police officer may:<o:p></o:p>
+lapses or is finally determined.
 
-                     (c)  lay before a Judge of the Supreme Court of:<o:p></o:p>
+</dd>
 
-                              (i)  the State or Territory in which the person was convicted of the offence or in which the offence is believed to have been committed; or<o:p></o:p>
+</dl></dl></dl>
 
-                             (ii)  the State or Territory referred to in paragraph (a) or (b);<o:p></o:p>
+**
 
-                            an information on oath setting out those grounds; and<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 30A  Extension of waiting period 
+**
 
-                     (d)  apply to the Judge for a search warrant under subsection (4) in respect of the land or premises.<o:p></o:p>
+ <dl compact="">
 
-             (2)  Where a police officer applying for a warrant under this section in respect of an offence includes in the information under subsection (1) information on oath that the officer has reasonable grounds to believe that:<o:p></o:p>
+<dt>(1)</dt><dd>If:
 
-                     (a)  if the offence is an ordinary indictable offence:<o:p></o:p>
+</dd> </dl>
 
-                              (i)  the person who was convicted of the offence, or who is believed to have committed the offence, derived a benefit, directly or indirectly, from the commission of the offence; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  property specified in the information is subject to the effective control of the person; or<o:p></o:p>
+<dt>(a)</dt><dd>a person (the _defendant_) is convicted of a serious offence;
 
-                     (b)  if the offence is a serious offence—property specified in the information is subject to the effective control of the person;<o:p></o:p>
+and</dd>
 
-the Judge may treat any document relevant to identifying, locating or quantifying that property as a property-tracking document in relation to the offence for the purposes of this section.<o:p></o:p>
+<dt>(b)</dt><dd>a restraining order is or was granted in reliance on:
 
-             (3)  In determining whether to treat a document, under subsection (2), as a property-tracking document in relation to an offence, the Judge may have regard to the matters referred to in subsection 9A(2).<o:p></o:p>
+</dd>
 
-             (4)  Where an application is made under subsection (1) for a search warrant in respect of land or premises, the Judge may, subject to subsections (5) and (6), issue a search warrant authorising a police officer (whether or not named in the warrant), with such assistance, and by such force, as is necessary and reasonable:<o:p></o:p>
+</dl></dl></dl>
 
-                     (a)  to enter upon the land or upon or into the premises;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  to search the land or premises for documents of the kind referred to in subsection (1); and<o:p></o:p>
+<dt>(i)</dt><dd>the defendant's conviction of the offence; or</dd>
 
-                     (c)  to seize any document found in the course of the search that the police officer believes, on reasonable grounds, to be a document of that kind.<o:p></o:p>
+<dt>(ii)</dt><dd>the charging or proposed charging of the defendant with the offence or a
 
-             (5)  A Judge shall not issue a search warrant under subsection (4) unless the Judge is satisfied that:<o:p></o:p>
+related offence; and
 
-                     (a)  the document involved cannot be identified or described with sufficient particularity for the purpose of obtaining a production order in respect of the document;<o:p></o:p>
+</dd>
 
-                     (b)  a production order has been given in respect of the document and has not been complied with;<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (c)  a production order in respect of the document would be unlikely to be effective because there are reasonable grounds to suspect that such a production order would not be complied with; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  the investigation for the purposes of which the search warrant is being sought might be seriously prejudiced if the police officer does not gain immediate access to the document without notice to any person.<o:p></o:p>
+<dt>(c)</dt><dd>a person makes a section&#160;48 application in relation to the
 
-             (6)  A Judge shall not issue a search warrant under this section unless:<o:p></o:p>
+restraining order;
 
-                     (a)  the informant or some other person has given the Judge, either orally or by affidavit, any further information that the Judge requires concerning the grounds on which the search warrant is sought; and<o:p></o:p>
+</dd>
 
-                     (b)  the Judge is satisfied that there are reasonable grounds for issuing the search warrant.<o:p></o:p>
+</dl></dl></dl>
 
-             (7)  There shall be stated in a search warrant issued under this section:<o:p></o:p>
+the person mentioned in paragraph&#160;(c) may apply to the court for an order extending the waiting period in relation to the defendant's conviction.
 
-                     (a)  a statement of the purpose for which the warrant is issued, including a reference to the nature of the indictable offence that has been or is believed to have been committed;<o:p></o:p>
+<dl compact="">
 
-                     (b)  whether entry is authorised to be made at any time of the day or night or during specified hours of the day or night;<o:p></o:p>
+<dt>(2)</dt><dd>Subsection&#160;(1) does not apply if the person is taken to have been
 
-                     (c)  a description of the kind of documents authorised to be seized; and<o:p></o:p>
+convicted of the serious offence because of paragraph 5(1)(d).</dd> <dt>(3)</dt><dd>An application under this section must be made before the end of the waiting period concerned.</dd> <dt>(4)</dt><dd>Subject to subsection&#160;(5), the court may, on an application made under this section, extend the waiting period for such further period as the court specifies. The further period must not, however, be longer than 9 months from the end of the waiting period concerned.</dd> <dt>(5)</dt><dd>The court must not grant an application under this section unless satisfied that the applicant made the section&#160;48 application without undue delay, and has since diligently prosecuted that application.</dd> <dt>(6)</dt><dd>If the court extends a waiting period, the extended period ends: </dd> </dl>
 
-                     (d)  a date, not being later than one month after the day of issue of the warrant, upon which the warrant ceases to have effect.<o:p></o:p>
+<center>Back to Top</center>
 
-             (8)  If, in the course of searching, under a warrant issued under this section, for a property-tracking document in relation to a particular offence, a police officer finds:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  any document that the police officer believes, on reasonable grounds, to be:<o:p></o:p>
+<dt>(a)</dt><dd>when the period specified by the court ends; or</dd>
 
-                              (i)  a property-tracking document in relation to the offence, although not of a kind specified in the warrant; or<o:p></o:p>
+<dt>(b)</dt><dd>when the section&#160;48 application is finally determined;
 
-                             (ii)  a property-tracking document in relation to another indictable offence; or<o:p></o:p>
+</dd>
 
-                     (b)  any thing that the police officer believes, on reasonable grounds, will afford evidence as to the commission of a criminal offence;<o:p></o:p>
+</dl></dl></dl>
 
-and the police officer believes, on reasonable grounds, that it is necessary to seize that document or thing in order to prevent its concealment, loss or destruction, the warrant shall be deemed to authorise the police officer to seize that document or thing.<o:p></o:p>
+whichever happens first.
 
-##### <a id="72"></a>72  Search warrants in relation to foreign offences<o:p></o:p>
+<dl compact="">
 
-             (1)  Where a police officer is authorised, under the Mutual Assistance Act, to apply to a court for a search warrant under this Act in relation to a property-tracking document in respect of a foreign serious offence, the police officer may apply for the warrant accordingly and this Division applies to the application and to any warrant issued as a result of the application as if:<o:p></o:p>
+<dt>(7)</dt><dd>If:
 
-                     (a)  a reference in this Division to an indictable offence were a reference to the foreign serious offence;<o:p></o:p>
+</dd> </dl>
 
-                     (b)  paragraph 71(1)(c) referred to the court specified in the police officer’s authorisation under the Mutual Assistance Act; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  subsection 71(8) were omitted.<o:p></o:p>
+<dt>(a)</dt><dd>the court makes an order under this section; and</dd>
 
-             (2)  If, in the course of searching, under a warrant issued under section 71, for a property-tracking document in relation to a foreign serious offence, a police officer finds:<o:p></o:p>
+<dt>(b)</dt><dd>the section&#160;48 application is finally determined within the period of
 
-                     (a)  any document that the police officer believes, on reasonable grounds, to be a property-tracking document in relation to the offence, although not of the kind specified in the warrant; or<o:p></o:p>
+6 months starting on the day of the defendant's conviction;
 
-                     (b)  any thing that the police officer believes, on reasonable grounds:<o:p></o:p>
+</dd>
 
-                              (i)  to be relevant to a criminal proceeding or a criminal investigation in the foreign country in respect of the offence; or<o:p></o:p>
+</dl></dl></dl>
 
-                             (ii)  will afford evidence of the commission of a criminal offence;<o:p></o:p>
+the order under this section stops being in force on the day the section&#160;48 application is finally determined.
 
-and the police officer believes, on reasonable grounds, that it is necessary to seize that document or thing in order to prevent its concealment, loss or destruction, the warrant shall be deemed to authorise the police officer to seize that document or thing.<o:p></o:p>
+<dl compact="">
 
-             (3)  Where a police officer takes possession of a document under a warrant issued in respect of a foreign serious offence, the police officer may retain the document for a period not exceeding one month pending a written direction from the Attorney-General as to the manner in which the document is to be dealt with (which may include a direction that the document is to be sent to an authority of the foreign country that requested the issue of the warrant).<o:p></o:p>
+<dt>(8)</dt><dd>In this section:
 
-<o:p> </o:p>
+</dd> </dl>
 
-### Division 3—Monitoring orders<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-##### <a id="73"></a>73  Monitoring orders<o:p></o:p>
+_section 48 application_ means an application under subsection
 
-             (1)  A police officer may apply to a Judge of the Supreme Court of a State or Territory for an order (in this section called a **_monitoring order_**) directing a financial institution to give information to a law enforcement authority.<o:p></o:p>
+48(2), (3) or (4). _waiting period_, in relation to a person's conviction of an offence, means the period of 6 months mentioned in subparagraph 30(1)(d)(i).  </dl></dl>
 
-          (1A)  A police officer is not empowered to make an application under this section after the commencement of the _Proceeds of Crime Act 2002_.<o:p></o:p>
+**
 
-             (2)  A monitoring order shall direct a financial institution to give information obtained by the institution about transactions conducted through an account held by a particular person with the institution.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 31  Recovery of property to which section&#160;30 applies 
+**
 
-             (3)  A monitoring order shall apply in relation to transactions conducted during the period specified in the order (being a period commencing not earlier than the day on which notice of the order is given to the financial institution and ending not later than 3 months after the date of the order).<o:p></o:p>
+ <dl compact="">
 
-             (4)  A Judge shall not make a monitoring order unless he or she is satisfied that there are reasonable grounds for suspecting that the person in respect of whose account the information is sought:<o:p></o:p>
+<dt>(1)</dt><dd>Where property is forfeited to the Commonwealth under section&#160;30, a
 
-                     (a)  has committed, or is about to commit, an indictable offence that is a serious offence;<o:p></o:p>
+person who claims an interest in the property may, subject to
 
-                     (b)  was involved in the commission, or is about to be involved in the commission, of an indictable offence that is a serious offence; or<o:p></o:p>
+subsections&#160;(2) and (4), apply to the court that made the relevant
 
-                     (c)  has benefited directly or indirectly, or is about to benefit directly or indirectly, from the commission of an indictable offence that is a serious offence; or <o:p></o:p>
+restraining order for an order under subsection&#160;(6) or (7).</dd> <dt>(2)</dt><dd>The application shall, subject to subsection&#160;(3), be made before the end of the period of 6 months commencing on the day on which the property is forfeited to the Commonwealth.</dd> <dt>(3)</dt><dd>The court may grant a person leave to apply after the end of the period referred to in subsection&#160;(2) if the court is satisfied that the delay in making the application is not due to neglect on the part of the applicant.</dd> <dt>(4)</dt><dd>An application for an order under subsection&#160;(6) or (7) in relation to an interest in property shall not be made by a person who was given notice of: </dd> </dl>
 
-                     (d)  both:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                              (i)  has committed, or is about to commit, 3 or more public fraud offences; and<o:p></o:p>
+<dt>(a)</dt><dd>proceedings on the application for the relevant restraining order; or</dd>
 
-                             (ii)  has derived, or is about to derive, substantial benefit from the commission of any or all of those offences.<o:p></o:p>
+<dt>(b)</dt><dd>the making of the relevant restraining order;
 
-             (5)  A monitoring order shall specify:<o:p></o:p>
+</dd>
 
-                     (a)  the name or names in which the account is believed to be held;<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  the class of information that the institution is required to give; and<o:p></o:p>
+except with the leave of the court.
 
-                     (c)  the law enforcement authority to which the information is to be given, and the manner in which the information is to be given.<o:p></o:p>
+<dl compact="">
 
-             (6)  Where a financial institution is, or has been, subject to a monitoring order, the fact that the monitoring order has been made shall be disregarded for the purposes of the application of sections 81 and 82 in relation to the institution.<o:p></o:p>
+<dt>(5)</dt><dd>The court may grant a person leave to make an application if the court is
 
-             (7)  Where a financial institution that has been given notice of a monitoring order intentionally:<o:p></o:p>
+satisfied that the person's failure to seek to have the property excluded from
 
-                     (a)  contravenes the order; or<o:p></o:p>
+the relevant restraining order was not due to any neglect on the part of the
 
-                     (b)  provides false or misleading information in purported compliance with the order;<o:p></o:p>
+applicant.</dd> <dt>(6)</dt><dd>Where a person applies for an order under this subsection in respect of an interest in property, the court may: </dd> </dl>
 
-the institution is guilty of an offence against this subsection punishable, upon conviction, by a fine not exceeding $100,000.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (8)  A reference in this section to a transaction conducted through an account includes a reference to:<o:p></o:p>
+<dt>(a)</dt><dd>if satisfied that:
 
-                     (a)  the making of a fixed term deposit; and<o:p></o:p>
+</dd>
 
-                     (b)  in relation to a fixed term deposit—the transfer of the amount deposited, or any part of it, at the end of the term.<o:p></o:p>
+</dl></dl></dl>
 
-##### <a id="74"></a>74  Existence and operation of monitoring order not to be disclosed<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (1)  A financial institution that is, or has been, subject to a monitoring order shall not disclose the existence or the operation of the order to any person except:<o:p></o:p>
+<dt>(i)</dt><dd>the applicant was not, in any way, involved in the commission of the
 
-                     (a)  if the order specifies the Australian Federal Police as the law enforcement authority to which information is to be given—the Commissioner or an AFP member; or<o:p></o:p>
+relevant serious offence;</dd>
 
-                     (b)  if the order specifies the ACC as the law enforcement authority to which information is to be given—the Chief Executive Officer of the ACC, an examiner (within the meaning of the _Australian Crime Commission Act 2002_) or a member of the staff of the ACC (within the meaning of that Act); or<o:p></o:p>
+<dt>(ia)</dt><dd>the applicant's interest in the property is not subject to the effective
 
-                     (c)  an officer or agent of the institution, for the purpose of ensuring that the order is complied with; or<o:p></o:p>
+control of the defendant; and</dd>
 
-                     (d)  a barrister or solicitor, for the purpose of obtaining legal advice or representation in relation to the order.<o:p></o:p>
+<dt>(ii)</dt><dd>if the applicant acquired the interest at the time of or after the
 
-             (2)  A person of a kind referred to in paragraph (1)(a), (b), (c) or (d) to whom a disclosure of the existence or operation of a monitoring order has been made (whether in accordance with subsection (1) or a previous application of this subsection or otherwise) shall not:<o:p></o:p>
+commission of the offence&#151;the applicant acquired the interest:
 
-                     (a)  while he or she is such a person—disclose the existence or operation of the order except to another person of a kind referred to in paragraph (1)(a), (b), (c) or (d) for the purposes of:<o:p></o:p>
+</dd>
 
-                              (i)  if the disclosure is made by the Commissioner, an AFP member, or the Chief Executive Officer of the ACC, an examiner (within the meaning of the _Australian Crime Commission Act 2002_) or a member of the staff of the ACC (within the meaning of that Act)—the performance of that person’s duties;<o:p></o:p>
+</dl></dl></dl></dl>
 
-                             (ii)  if the disclosure is made by an officer or agent of the institution—ensuring that the order is complied with or obtaining legal advice or representation in relation to the order; or<o:p></o:p>
+	(A)	for sufficient consideration; and 
+ 	(B)	without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the property was tainted property; or
 
-                            (iii)  if the disclosure is made by a barrister or solicitor—giving legal advice or making representations in relation to the order; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  when he or she is no longer such a person—make a record of, or disclose, the existence or the operation of the order in any circumstances.<o:p></o:p>
+<dt>(b)</dt><dd>if satisfied that:
 
-             (3)  Nothing in subsection (2) prevents the disclosure by a person of a kind referred to in paragraph (1)(a) or (b) of the existence or operation of a monitoring order:<o:p></o:p>
+</dd>
 
-                     (a)  for the purposes of, or in connection with, legal proceedings; or<o:p></o:p>
+</dl></dl></dl>
 
-                     (b)  in the course of proceedings before a court.<o:p></o:p>
+<center>Back to Top</center>
 
-             (4)  A person of a kind referred to in paragraph (1)(a) or (b) shall not be required to disclose to any court the existence or operation of a monitoring order.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (5)  A person who contravenes subsection (1) or (2) is guilty of an offence against this subsection punishable, upon conviction, by:<o:p></o:p>
+<dt>(i)</dt><dd>the property was not used in, or in connection with, any unlawful activity
 
-                     (a)  if the person is a natural person—a fine not exceeding $20,000 or imprisonment for a period not exceeding 10 years, or both; or<o:p></o:p>
+and was not derived or realised, directly or indirectly, by any person from any
 
-                     (b)  if the person is a body corporate—a fine not exceeding $100,000.<o:p></o:p>
+unlawful activity; and</dd>
 
-             (7)  A reference in this section to disclosing the existence or operation of a monitoring order to a person includes a reference to disclosing information to the person from which the person could reasonably be expected to infer the existence or operation of the monitoring order.<o:p></o:p>
+<dt>(ii)</dt><dd>the applicant's interest in the property was lawfully acquired;
 
-##### <a id="75"></a>75  Monitoring orders in relation to foreign offences<o:p></o:p>
+</dd>
 
-             (1)  Where a police officer is authorised, under the Mutual Assistance Act, to apply to a Judge of a court for a monitoring order under this Act in respect of a foreign serious offence, the police officer may apply for the order accordingly and this Division applies to the application and to any order made as a result of the application as if:<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (a)  a reference in this Division to an indictable offence that is a serious offence were a reference to the foreign serious offence; and<o:p></o:p>
+make an order:
 
-                     (b)  a reference in this Division to the Supreme Court of a State or Territory were a reference to the court specified in the police officer’s authorisation under the Mutual Assistance Act.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  Where a law enforcement authority is given information pursuant to a monitoring order made in relation to a foreign serious offence, the authority shall, as soon as practicable after receiving the information, pass the information on to the Attorney-General or to an officer of the Attorney-General’s Department specified by the Attorney-General by written notice to the authority.<o:p></o:p>
+<dt>(c)</dt><dd>declaring the nature, extent and value of the applicant's interest in the
 
-<o:p> </o:p>
+property; and</dd>
 
-## Part V—Offences<o:p></o:p>
+<dt>(d)</dt><dd>either:
 
-### Division 3—Miscellaneous<o:p></o:p>
+</dd>
 
-##### <a id="84"></a>84  Prosecution of offences<o:p></o:p>
+</dl></dl></dl>
 
-             (1)  An offence against section 52, 68, 73, 74, 81, 82 or 97 is an indictable offence.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (2)  Notwithstanding that the offences referred to in subsection (1) are indictable offences, a court of summary jurisdiction may hear and determine proceedings in respect of an offence against section 52, 68, 73, 74, 82 or 97 if the court is satisfied that it is appropriate to do so and the defendant and prosecutor consent.<o:p></o:p>
+<dt>(i)</dt><dd>if the interest is still vested in the Commonwealth&#151;directing the
 
-             (3)  Where, in accordance with subsection (2), a court of summary jurisdiction convicts a person of an offence referred to in that subsection, the penalty that the court may impose is:<o:p></o:p>
+Commonwealth to transfer the interest to the applicant; or</dd>
 
-                     (a)  if the offence is against section 73—a fine not exceeding $10,000; or<o:p></o:p>
+<dt>(ii)</dt><dd>declaring that there is payable by the Commonwealth to the applicant an
 
-                     (b)  if the offence is against section 52, 68, 74, 82 or 97:<o:p></o:p>
+amount equal to the value declared under paragraph&#160;(c).
 
-                              (i)  if the offender is a natural person—a fine not exceeding $2,000 or imprisonment for a period not exceeding 12 months, or both; or<o:p></o:p>
+</dd>
 
-                             (ii)  if the offender is a body corporate—a fine not exceeding $10,000.<o:p></o:p>
+</dl></dl></dl></dl>
 
-##### <a id="85"></a>85  Conduct by directors, servants or agents<o:p></o:p>
+<dl compact="">
 
-             (1)  Where it is necessary, for the purposes of this Act, to establish the state of mind of a body corporate in respect of conduct engaged in, or deemed by subsection (2) to have been engaged in, by the body corporate, it is sufficient to show that a director, servant or agent of the body corporate, being a director, servant or agent by whom the conduct was engaged in within the scope of his or her actual or apparent authority, had that state of mind.<o:p></o:p>
+<dt>(7)</dt><dd>Where a person applies for an order under this subsection in respect of an
 
-             (2)  Any conduct engaged in on behalf of a body corporate by a director, servant or agent of the body corporate within the scope of his or her actual or apparent authority is taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the body corporate, unless it establishes that it took reasonable precautions and exercised due diligence to avoid the conduct.<o:p></o:p>
+interest in property, the court may, if satisfied that:
 
-             (3)  Where it is necessary, for the purposes of this Act, to establish the state of mind of a person in relation to conduct deemed by subsection (4) to have been engaged in by the person, it is sufficient to show that a servant or agent of the person, being a servant or agent by whom the conduct was engaged in within the scope of his or her actual or apparent authority, had that state of mind.<o:p></o:p>
+</dd> </dl>
 
-             (4)  Conduct engaged in on behalf of a person other than a body corporate:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  by a servant or agent of the person within the scope of his or her actual or apparent authority; or<o:p></o:p>
+<dt>(a)</dt><dd>it would not be contrary to the public interest for the interest to be
 
-                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a servant or agent of the first-mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the servant or agent;<o:p></o:p>
+transferred to the person; and</dd>
 
-shall be deemed, for the purposes of this Act, to have been engaged in by the first-mentioned person.<o:p></o:p>
+<dt>(b)</dt><dd>there is no other reason why the interest should not be transferred to the
 
-             (5)  A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person’s reasons for the person’s intention, opinion, belief or purpose.<o:p></o:p>
+person;
 
-             (6)  A reference in this section to a director of a body corporate includes a reference to a constituent member of a body corporate incorporated for a public purpose by a law of the Commonwealth, of a State or of a Territory.<o:p></o:p>
+</dd>
 
-<o:p> </o:p>
+</dl></dl></dl>
 
-## Part VI—Enforcement of State orders in Territories<o:p></o:p>
+by order:
 
-### Division 1—Interstate restraining orders<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="86"></a>86  Registration of interstate restraining orders<o:p></o:p>
+<dt>(c)</dt><dd>declare the nature, extent and value (as at the time when the order is
 
-             (1)  If an interstate restraining order made before the commencement of the _Proceeds of Crime Act 2002_ expressly applies to:<o:p></o:p>
+made) of the interest; and</dd>
 
-                     (a)  specified property in a Territory;<o:p></o:p>
+<dt>(d)</dt><dd>declare that section&#160;30 shall cease to operate in relation to the
 
-                     (b)  all property in a Territory of a specified person; or<o:p></o:p>
+interest if payment is made in accordance with section&#160;33.
 
-                     (c)  all property (other than specified property) in a Territory of a specified person;<o:p></o:p>
+</dd>
 
-a copy of the order, sealed by the court making the order, may be registered in the Supreme Court of the Territory by the person on whose application the order was made or by an appropriate officer.<o:p></o:p>
+</dl></dl></dl>
 
-             (2)  A copy of any amendments made to an interstate restraining order (before or after registration), sealed by the court making the amendments, may be registered in the same way, and the amendments do not, for the purposes of this Act, have effect until they are registered.<o:p></o:p>
+<dl compact="">
 
-             (3)  Registration of an interstate restraining order may be refused to the extent that the order would not, on registration, be capable of enforcement in the Territory.<o:p></o:p>
+<dt>(7A)</dt><dd>A person who makes an application under subsection&#160;(1) in respect of
 
-             (4)  Registration shall be effected in accordance with the rules of the Supreme Court of the Territory.<o:p></o:p>
+property shall give notice to the DPP and the Minister, as prescribed, of the
 
-##### <a id="87"></a>87  Effect of registration<o:p></o:p>
+making of the application.</dd> <dt>(7B)</dt><dd>The DPP shall be a party to any proceedings upon an application under subsection&#160;(1) and the Minister may intervene in any such proceedings.</dd> <dt>(8)</dt><dd>In this section: </dd> </dl>
 
-             (1)  An interstate restraining order registered in the Supreme Court of a Territory may be enforced in the Territory as if it were a restraining order made under section 43 at the time of registration.<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-             (2)  This Act (other than sections 30, 31, 47, 48, 49, 50, 56 and 57) applies to an interstate restraining order registered in the Supreme Court of a Territory as it applies to a restraining order made under section 43.<o:p></o:p>
+_defendant_, in relation to property forfeited to the Commonwealth
 
-##### <a id="88"></a>88  Duration of registration<o:p></o:p>
+under section&#160;30, means the person by virtue of whose conviction the
 
-                   An interstate restraining order ceases to be registered under this Act if:<o:p></o:p>
+property is forfeited. _relevant restraining order_, in relation to property forfeited to the Commonwealth under section&#160;30, means the restraining order by virtue of which the property is forfeited.  </dl></dl>
 
-                     (a)  the court in which it is registered receives notice that it has ceased to be in force in the State in which it was made; or<o:p></o:p>
+**
 
-                     (b)  the registration is cancelled under section 89.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 32  Effect of quashing of conviction 
+**
 
-##### <a id="89"></a>89  Cancellation of registration<o:p></o:p>
+ <dl compact="">
 
-             (1)  The registration of an interstate restraining order in the Supreme Court of a Territory may be cancelled by the Supreme Court or a prescribed officer of the Supreme Court if:<o:p></o:p>
+<dt>(1)</dt><dd>Where:
 
-                     (a)  registration was improperly obtained; or<o:p></o:p>
+</dd> </dl>
 
-                     (b)  particulars of any amendments made to the restraining order, or of any ancillary orders or directions made by a court, are not communicated to the Supreme Court in accordance with the requirements of the rules of the Supreme Court.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The registration of an interstate restraining order in the Supreme Court of a Territory may be cancelled by the Supreme Court to the extent that the order is not capable of enforcement in the Territory.<o:p></o:p>
+<dt>(a)</dt><dd>property is forfeited to the Commonwealth under section&#160;30 in respect
 
-##### <a id="90"></a>90  Charge on property subject to registered interstate restraining order<o:p></o:p>
+of a person's conviction of a serious offence; and</dd>
 
-             (1)  If:<o:p></o:p>
+<dt>(b)</dt><dd>the conviction is subsequently quashed;
 
-                     (a)  an interstate restraining order is made against property in reliance on a person’s conviction of an interstate indictable offence or in reliance on the charging, or proposed charging, of a person with an interstate indictable offence;<o:p></o:p>
+</dd>
 
-                     (b)  an interstate pecuniary penalty order is made against the person in reliance on the person’s conviction of that offence or a related interstate indictable offence;<o:p></o:p>
+</dl></dl></dl>
 
-                     (c)  the interstate restraining order is registered under this Division in the Supreme Court of a Territory; and<o:p></o:p>
+the DPP shall:
 
-                     (d)  the interstate pecuniary penalty order is registered in a court of the Territory under the _Service and Execution of Process Act 1992_;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-then, upon the registration referred to in paragraph (c) or the registration referred to in paragraph (d) (whichever last occurs), a charge is created on the property to secure payment of the amount due under the interstate pecuniary order.<o:p></o:p>
+<dt>(c)</dt><dd>as soon as practicable after the quashing of the conviction, give notice
 
-             (2)  Where a charge is created by subsection (1) on property of a person to secure payment of the amount due under an interstate pecuniary penalty order, the charge ceases to have effect in respect of the property:<o:p></o:p>
+of the quashing of the conviction to any person the DPP has reason to believe
 
-                     (a)  upon the quashing of the conviction in reliance on which the interstate pecuniary penalty order was made;<o:p></o:p>
+may have had an interest in the property immediately before the property was
 
-                     (b)  upon the discharge of the interstate pecuniary penalty order by a court hearing an appeal against the making of the order;<o:p></o:p>
+forfeited; and</dd>
 
-                     (c)  upon payment of the amount due under the interstate pecuniary penalty order;<o:p></o:p>
+<dt>(d)</dt><dd>if required to do so by a court&#151;give or publish notice of the quashing of
 
-                     (e)  upon the sale or other disposition of the property:<o:p></o:p>
+the conviction to a specified person or class of persons in the manner and
 
-                              (i)  under an order made by a court under the corresponding law of the State in which the interstate pecuniary penalty order was made;<o:p></o:p>
+within the time that the court considers appropriate.
 
-                             (ii)  by the owner of the property with the consent of the court that made the interstate pecuniary penalty order; or<o:p></o:p>
+</dd>
 
-                            (iii)  where the interstate restraining order directed a person to take control of the property—by the owner of the property with the consent of that person; or<o:p></o:p>
+</dl></dl></dl>
 
-                      (f)  upon the sale of the property to a purchaser in good faith for value who, at the time of purchase, has no notice of the charge;<o:p></o:p>
+<center>Back to Top</center>
 
-whichever first occurs.<o:p></o:p>
+<dl compact="">
 
-             (3)  A charge created on property by subsection (1):<o:p></o:p>
+<dt>(1A)</dt><dd>This section does not apply if the conviction is quashed after the
 
-                     (a)  is subject to every encumbrance on the property that came into existence before the charge and that would, apart from this subsection, have priority over the charge;<o:p></o:p>
+commencement of the _Proceeds of Crime Act 2002_.
 
-                     (b)  has priority over all other encumbrances; and<o:p></o:p>
+</dd> </dl>
 
-                     (c)  subject to subsection (2), is not affected by any change of ownership of the property.<o:p></o:p>
+<dl compact=""><dl compact="">
 
-             (4)  Where a charge is created by subsection (1) on property of a particular kind and the provisions of any law of the Commonwealth or of a State or Territory provide for the registration of title to, or charges over, property of that kind, the Official Trustee or the DPP may cause the charge so created to be registered under the provisions of that law and, if the charge is so registered, a person who purchases or otherwise acquires an interest in the property after the registration of the charge shall, for the purposes of paragraph (2)(f), be deemed to have notice of the charge at the time of the purchase or acquisition.<o:p></o:p>
+Note:	Division&#160;4 of Part&#160;2-3 of the _Proceeds of Crime Act 2002_ applies in relation to convictions quashed after that
 
-##### <a id="91"></a>91  Powers of Official Trustee in relation to interstate restraining orders<o:p></o:p>
+commencement: see subitem 21(2) of Schedule&#160;7 to the _Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002_.
 
-                   Where:<o:p></o:p>
+ </dl></dl>
 
-                     (a)  an interstate restraining order is registered in the Supreme Court of a Territory under this Division; and<o:p></o:p>
+<dl compact="">
 
-                     (b)  the restraining order directs a State official to take control of property;<o:p></o:p>
+<dt>(2)</dt><dd>A notice under subsection&#160;(1) shall include a statement to the effect
 
-the Official Trustee may, in accordance with an agreement between the Official Trustee and the State official, exercise the same powers in relation to the property that the State official would have been able to exercise if the property were located in that State. <o:p></o:p>
+that a person claiming an interest in the property may apply under
 
-<o:p> </o:p>
+subsection&#160;(3) for the transfer of the interest to the person.</dd> <dt>(3)</dt><dd>Where subsection&#160;(1) applies to property, any person who claims to have had an interest in the property immediately before it was forfeited may apply to the Minister, in writing, for the transfer of the interest to the person and, on receipt of an application from a person who had an interest in the property immediately before it was forfeited: </dd> </dl>
 
-### Division 2—Interstate forfeiture orders<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="92"></a>92  Registration of interstate forfeiture orders<o:p></o:p>
+<dt>(a)</dt><dd>if the interest is still vested in the Commonwealth&#151;the Minister shall
 
-             (1)  If an interstate forfeiture order made before the commencement of the _Proceeds of Crime Act 2002_ expressly applies to property in a Territory, a copy of the order, sealed by the court making the order, may be registered in the Supreme Court of the Territory by the person on whose application the order was made or by an appropriate officer.<o:p></o:p>
+arrange for the interest to be transferred to the person; or</dd>
 
-             (2)  A copy of any amendments made to an interstate forfeiture order (before or after registration), sealed by the court making the amendments, may be registered in the same way, and the amendments do not, for the purposes of this Act, have effect until they are registered.<o:p></o:p>
+<dt>(b)</dt><dd>in any other case&#151;there is payable to the person an amount equal to the
 
-             (3)  Registration of an interstate forfeiture order may be refused to the extent that the order would not, on registration, be capable of enforcement in the Territory.<o:p></o:p>
+value of the interest.
 
-             (4)  Registration shall be effected in accordance with the rules of the Supreme Court of the Territory.<o:p></o:p>
+</dd>
 
-##### <a id="93"></a>93  Effect of registration<o:p></o:p>
+</dl></dl></dl>
 
-             (1)  An interstate forfeiture order registered in the Supreme Court of a Territory may be enforced in the Territory as if it were a forfeiture order made under this Act at the time of registration.<o:p></o:p>
+<dl compact="">
 
-             (2)  This Act (other than sections 21, 22 and 100) applies to an interstate forfeiture order registered in a Territory as it applies to a forfeiture order made under section 19.<o:p></o:p>
+<dt>(4)</dt><dd>Where the Minister is required by this section to arrange for property to
 
-##### <a id="94"></a>94  Duration of registration<o:p></o:p>
+be transferred to a person, the Minister has power, on behalf of the
 
-                   An interstate forfeiture order ceases to be registered under this Act if:<o:p></o:p>
+Commonwealth, to do, or authorise the doing of, anything necessary or
 
-                     (a)  the order ceases to be in force in the State in which it was made; or<o:p></o:p>
+convenient to effect the transfer, including, without limiting the generality
 
-                     (b)  the registration is cancelled under section 95.<o:p></o:p>
+of this, the execution of any instrument and the making of an application for
 
-##### <a id="95"></a>95  Cancellation of registration<o:p></o:p>
+registration of an interest in the property on any appropriate register. 
 
-             (1)  The registration of an interstate forfeiture order in the Supreme Court of a Territory may be cancelled by the Supreme Court or a prescribed officer of the Supreme Court if:<o:p></o:p>
+</dd> </dl>
 
-                     (a)  registration was improperly obtained; or<o:p></o:p>
+<center>**
 
-                     (b)  particulars of any amendments made to the forfeiture order, or of any ancillary orders or directions made by a court, are not communicated to the Supreme Court in accordance with the requirements of the rules of the Supreme Court.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;5&#151;Miscellaneous </division> 
+**</center>
 
-             (2)  The registration of an interstate forfeiture order in the Supreme Court of a Territory may be cancelled by the Supreme Court to the extent that the order is not capable of enforcement in the Territory.<o:p></o:p>
+**
 
-<o:p> </o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 33  Person with interest in forfeited property may buy back the interest 
+**
 
-### Division 3—Miscellaneous<o:p></o:p>
+<dl compact="">
 
-##### <a id="96"></a>96  Interim registration of facsimile copies<o:p></o:p>
+<dt>(1)</dt><dd>Where a court:
 
-             (1)  A facsimile copy of a sealed copy of an interstate restraining order or an interstate forfeiture order, or of a sealed copy of any amendments made to such an order, shall be regarded for the purposes of this Act as the same as the sealed copy, if the facsimile copy is itself certified in accordance with the rules of the Supreme Court.<o:p></o:p>
+</dd> </dl>
 
-             (2)  Registration effected by means of a facsimile copy ceases to have effect at the end of the period of 5 days commencing on the day of registration unless a sealed copy that is not a facsimile copy has been registered by that time.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  Registration of the sealed copy before the end of the period referred to in subsection (2) has effect as from the day of registration of the facsimile copy.<o:p></o:p>
+<dt>(a)</dt><dd>makes a forfeiture order against property; and</dd>
 
-<o:p> </o:p>
+<dt>(b)</dt><dd>makes an order under subsection 19(5) in respect of an interest in the
 
-## Part VII—Miscellaneous<o:p></o:p>
+property;
 
-##### <a id="96A"></a>96A  Organised fraud orders<o:p></o:p>
+</dd>
 
-Convictions of public fraud offences<o:p></o:p>
+</dl></dl></dl>
 
-             (1)  If:<o:p></o:p>
+the payment to the Commonwealth, while the interest is still vested in the Commonwealth, of the amount specified in the order under subsection 19(5) as the value of the interest discharges the forfeiture order to the extent to which it relates to the interest.
 
-                     (a)  a person has, at the same sitting, been convicted by a court of 3 or more public fraud offences; and<o:p></o:p>
+<dl compact="">
 
-                     (b)  the DPP applies to the court for an order under this subsection in relation to each of those offences; and<o:p></o:p>
+<dt>(2)</dt><dd>Where:
 
-                     (c)  the court is satisfied that the person has derived substantial benefit from the commission of any or all of those offences;<o:p></o:p>
+</dd> </dl>
 
-the court must, by order, declare each of those offences to be a serious offence.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  A declaration under subsection (1) only has effect in relation to the convictions concerned.<o:p></o:p>
+<dt>(a)</dt><dd>property is forfeited to the Commonwealth under section&#160;30;</dd>
 
-Charges and proposed charges of public fraud offences<o:p></o:p>
+<dt>(b)</dt><dd>a court makes an order under subsection 31(7) in respect of an interest in
 
-             (3)  If:<o:p></o:p>
+the property; and</dd>
 
-                     (a)  a person has been charged with 3 or more public fraud offences; and<o:p></o:p>
+<dt>(c)</dt><dd>there is paid to the Commonwealth, while the interest is still vested in
 
-                     (b)  the DPP applies to the relevant Supreme Court for an order under this subsection in relation to each of those offences; and<o:p></o:p>
+the Commonwealth, the amount specified in the order under subsection 31(7) as
 
-                     (c)  the application for the order is supported by an affidavit of a police officer stating that the officer believes that the person has derived substantial benefit from the commission of any or all of those offences; and<o:p></o:p>
+the value of the interest;
 
-                     (d)  the court is satisfied, having regard to the matters contained in the affidavit, that there are reasonable grounds for holding that belief;<o:p></o:p>
+</dd>
 
-the court must, by order, declare each of those offences to be a serious offence.<o:p></o:p>
+</dl></dl></dl>
 
-             (4)  A declaration under subsection (3) only has effect in relation to the charges concerned.<o:p></o:p>
+section&#160;30 ceases to apply in relation to the interest.
 
-             (5)  If:<o:p></o:p>
+<dl compact="">
 
-                     (a)  a person is about to be charged with 3 or more public fraud offences; and<o:p></o:p>
+<dt>(3)</dt><dd>Where subsection&#160;(1) or (2) applies to an interest in property, the
 
-                     (b)  the DPP applies to the relevant Supreme Court for an order under this subsection in relation to each of those offences; and<o:p></o:p>
+Minister shall arrange for the interest to be transferred to the person in whom
 
-                     (c)  the application for the order is supported by an affidavit of a police officer stating that the officer believes that the person has derived substantial benefit from the commission of any or all of those offences; and<o:p></o:p>
+it was vested immediately before the property was forfeited to the
 
-                     (d)  the court is satisfied, having regard to the matters contained in the affidavit, that there are reasonable grounds for holding that belief;<o:p></o:p>
+Commonwealth.</dd> <dt>(4)</dt><dd>Where the Minister is required by this section to arrange for an interest in property to be transferred to a person, the Minister has power, on behalf of the Commonwealth, to do, or authorise the doing of, anything necessary or convenient to effect the transfer, including, without limiting the generality of this, the execution of any instrument and the making of an application for registration of an interest in the property on any appropriate register. </dd> </dl>
 
-the court must, by order, declare each of those offences to be a serious offence.<o:p></o:p>
+<center>Back to Top</center>
 
-             (6)  A declaration under subsection (5) only has effect in relation to the proposed charges concerned.<o:p></o:p>
+**
 
-             (7)  If:<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 34  Buying out other interests in forfeited property 
+**
 
-                     (a)  a restraining order is granted in reliance on the charging, or proposed charging, of a person with an ordinary indictable offence; and<o:p></o:p>
+ <dl compact="">
 
-                     (b)  the person is subsequently convicted of the offence; and<o:p></o:p>
+		Where:
 
-                     (c)  a court makes an order under subsection (1) in relation to the offence;<o:p></o:p>
+ </dl>
 
-this Act has effect as if the restraining order had been granted in reliance on the charging, or proposed charging, of the person with a serious offence.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="97"></a>97  Dealings with forfeited property<o:p></o:p>
+<dt>(a)</dt><dd>property is forfeited to the Commonwealth under this Part;</dd>
 
-             (1)  A person who knows that a forfeiture order has been made in respect of registrable property shall not, unless the forfeiture order has been discharged, dispose of, or otherwise deal with, the property before the Commonwealth’s interest has been registered on the appropriate register.<o:p></o:p>
+<dt>(b)</dt><dd>an interest in the property is required to be transferred to a person (in
 
-             (2)  A person who contravenes subsection (1) is guilty of an offence against this section punishable, upon conviction, by:<o:p></o:p>
+this section called the _purchaser_) under subsection 22(4) or
 
-                     (a)  where the offender is a natural person—a fine not exceeding $10,000 or imprisonment for a period not exceeding 5 years, or both; or<o:p></o:p>
+33(3), or under a direction under subparagraph 21(6)(d)(i), 23A(7)(d)(i) or
 
-                     (b)  if the offender is a body corporate—a fine not exceeding $50,000.<o:p></o:p>
+31(6)(d)(i);</dd>
 
-##### <a id="98"></a>98  State and Territory courts to have jurisdiction<o:p></o:p>
+<dt>(c)</dt><dd>the purchaser's interest in the property, immediately before the
 
-             (1)  Jurisdiction is vested in the several courts of the States and Territories with respect to matters arising under this Act.<o:p></o:p>
+forfeiture took place, was not the only interest in the property;</dd>
 
-             (2)  Subject to this section, the jurisdiction vested in a court by virtue of subsection (1) is not limited by any limits to which any other jurisdiction of the court may be subject.<o:p></o:p>
+<dt>(d)</dt><dd>the purchaser gives written notice to each other person who had an
 
-             (3)  A court cannot make a forfeiture order in respect of property if the court does not have jurisdiction with respect to the recovery of property of that kind.<o:p></o:p>
+interest in the property immediately before the forfeiture took place that:
 
-          (3A)  A court may make a forfeiture order in respect of property even though, apart from this section, the court does not have jurisdiction with respect to property whose value equals the value of that property.<o:p></o:p>
+</dd>
 
-             (4)  A reference in subsection (3) to a court having jurisdiction with respect to the recovery of property includes a reference to the court having jurisdiction, under a corresponding law, to make an interstate forfeiture order in respect of property.<o:p></o:p>
+</dl></dl></dl>
 
-             (5)  Where:<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  a court makes a pecuniary penalty order of a particular amount; and<o:p></o:p>
+<dt>(i)</dt><dd>the purchaser intends to purchase that other interest from the
 
-                     (b)  the court does not have jurisdiction with respect to the recovery of debts of an amount equal to that amount, the registrar of the court must issue a certificate containing the prescribed particulars.<o:p></o:p>
+Commonwealth; and</dd>
 
-          (5A)  The certificate may be registered, in accordance with the regulations, in a court having jurisdiction with respect to the recovery of debts of an amount equal to the amount of the pecuniary penalty order.<o:p></o:p>
+<dt>(ii)</dt><dd>the person served with the notice may, within 21 days after receiving the
 
-          (5B)  Upon registration in a court, the certificate is enforceable in all respects as a final judgment of the court in favour of the Commonwealth.<o:p></o:p>
+notice, lodge a written objection to the purchase of that interest with the
 
-             (6)  Jurisdiction is vested in a court of a Territory (including the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>) by virtue of subsection (1) so far only as the Constitution permits.<o:p></o:p>
+Minister;
 
-             (7)  Where an application for a confiscation order is made to a court before which a person was convicted of an indictable offence:<o:p></o:p>
+</dd>
 
-                     (a)  the application may be dealt with by the court; and<o:p></o:p>
+</dl></dl></dl></dl>
 
-                     (b)  any power in relation to the confiscation order may be exercised by the court;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-whether or not the court is constituted in the same way in which it was constituted when the person was convicted of the indictable offence.<o:p></o:p>
+<dt>(e)</dt><dd>the person served with notice under paragraph&#160;(d) in relation to that
 
-##### <a id="99"></a>99  Standard of proof<o:p></o:p>
+interest does not lodge a written objection to the purchase of that interest
 
-                   Subject to section 17, any question of fact to be decided by a court on an application under this Act is to be decided on the balance of probabilities.<o:p></o:p>
+with the Minister within the period referred to in that paragraph; and</dd>
 
-##### <a id="100"></a>100  Appeals<o:p></o:p>
+<dt>(f)</dt><dd>the person pays to the Commonwealth, while that interest is still vested
 
-             (1)  A person who has an interest in property against which a forfeiture order is made may appeal against that order:<o:p></o:p>
+in the Commonwealth, an amount equal to the value of that interest;
 
-                     (a)  in the case of a person convicted of the offence in reliance on which the order was made—in the same manner as if the order were, or were part of, a sentence imposed on the person in respect of the offence; or<o:p></o:p>
+</dd>
 
-                     (b)  in any other case—in the same manner as if the person had been convicted of the offence in reliance on which the order was made and the order were, or were part of, a sentence imposed on the person in respect of the offence.<o:p></o:p>
+</dl></dl></dl>
 
-             (2)  A person against whom a pecuniary penalty order is made may appeal against that order in the same manner as if it were, or were part of, a sentence imposed on the person in respect of the offence in reliance on which the order was made.<o:p></o:p>
+the Minister shall arrange for that interest to be transferred to the purchaser.
 
-             (3)  Where a court:<o:p></o:p>
+<center>**
 
-                     (a)  makes a pecuniary penalty order; and<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987<part>Part&#160;IIA&#151;Confiscated Assets Reserve </part>
+**</center>
 
-                     (b)  makes an order under subsection 28(3) declaring that particular property is available to satisfy the order;<o:p></o:p>
+**
 
-a person who has an interest in the property may appeal against the order under subsection 28(3) in the same manner as if the person had been convicted of the offence in reliance on which the order was made and the order were, or were part of, a sentence imposed on the person in respect of the offence.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 34A  Establishment of Reserve 
+**
 
-             (4)  On an appeal against a forfeiture order, a pecuniary penalty order or an order made under subsection 28(3), the order may be confirmed, discharged or varied.<o:p></o:p>
+ <dl compact="">
 
-             (5)  The DPP may appeal against a forfeiture order, a pecuniary penalty order or an order under subsection 28(3) or against the refusal of a court to make such an order in the same manner as if the order were, or were part of, a sentence imposed in respect of the offence in reliance on which the order was made.<o:p></o:p>
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Confiscated Assets
 
-             (6)  Nothing in this section shall be taken to affect any right of appeal that a person would have apart from this section.<o:p></o:p>
+Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund. </dd> </dl>
 
-##### <a id="101"></a>101  Costs<o:p></o:p>
+**
 
-             (1)  Where:<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 34B  Payments into Reserve 
+**
 
-                     (a)  a person brings, or appears at, proceedings under this Act before a court in order:<o:p></o:p>
+ <dl compact="">
 
-                              (i)  to prevent a forfeiture order or restraining order from being made against property of the person; or<o:p></o:p>
+<dt>(1)</dt><dd>There must be transferred to the Reserve from the Consolidated Revenue
 
-                             (ii)  to have property of the person excluded from a forfeiture order or restraining order;<o:p></o:p>
+Fund amounts equal to:
 
-                     (b)  the person is successful in those proceedings; and<o:p></o:p>
+</dd> </dl>
 
-                     (c)  the court is satisfied that the person was not involved in any way in the commission of the offence in respect of which the forfeiture order or restraining order was sought or made;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-the court may order the Commonwealth to pay all costs incurred by the person in connection with the proceedings or such part of those costs as is determined by the court.<o:p></o:p>
+<dt>(a)</dt><dd>proceeds of confiscated assets; and</dd>
 
-             (2)  The costs referred to in subsection (1) are not limited to costs of a kind that are normally recoverable by the successful party to civil proceedings.<o:p></o:p>
+<dt>(b)</dt><dd>money paid to the Commonwealth by a foreign country, within the meaning of
 
-##### <a id="102"></a>102  Legal assistance<o:p></o:p>
+the Mutual Assistance Act, under a treaty or arrangement providing for mutual
 
-             (1)  A person who brings, or appears at, or proposes to bring or appear at, proceedings under this Act in order:<o:p></o:p>
+assistance in criminal matters; and</dd>
 
-                     (a)  to prevent a forfeiture order or restraining order from being made against property of the person; or<o:p></o:p>
+<dt>(c)</dt><dd>money paid to the Commonwealth under a foreign pecuniary penalty order
 
-                     (b)  to have property of the person excluded from a forfeiture order or restraining order;<o:p></o:p>
+registered under section&#160;34 of the Mutual Assistance Act; and</dd>
 
-may apply to the Attorney-General for the provision of assistance under this section.<o:p></o:p>
+<dt>(d)</dt><dd>money (including the proceeds of sale of any property) that is, under a
 
-             (2)  Where a person applies for assistance under this section, the Attorney-General may, if satisfied that:<o:p></o:p>
+direction referred to in subsection 23(2), directed to be paid into the
 
-                     (a)  it would involve hardship to the applicant to refuse the application; and<o:p></o:p>
+Reserve; and</dd>
 
-                     (b)  it is reasonable, in all the circumstances, that the application should be granted;<o:p></o:p>
+<dt>(e)</dt><dd>money deriving from the enforcement of an interstate forfeiture order
 
-authorise the provision by the Commonwealth to the applicant of such legal or financial assistance in relation to the proceedings as the Attorney-General determines.<o:p></o:p>
+registered in a Territory, other than money covered by a direction under
 
-             (3)  An authorisation under subsection (2) may be made either unconditionally or subject to such conditions as the Attorney-General determines.<o:p></o:p>
+subsection 20(3A) or 30(4A); and</dd>
 
-##### <a id="102A"></a>102A  Indemnification of Official Trustee<o:p></o:p>
+<dt>(f)</dt><dd>the Commonwealth's share, under the equitable sharing program, of proceeds
 
-             (1)  The Commonwealth is, by force of this subsection, liable to indemnify the Official Trustee against any personal liability (including any personal liability as to costs) incurred by it for any act done, or omitted to be done, by it in the exercise, or purported exercise, of its powers and duties under this Act.<o:p></o:p>
+resulting from a breach of the criminal law of a State; and</dd>
 
-             (2)  Nothing in subsection (1) affects:<o:p></o:p>
+<dt>(g)</dt><dd>money, other than money referred to in paragraph&#160;(b), paid to the
 
-                     (a)  any right that the Official Trustee has, apart from that subsection, to be indemnified in respect of any personal liability referred to in that subsection; or<o:p></o:p>
+Commonwealth by a foreign country in connection with assistance provided by the
 
-                     (b)  any other indemnity given to the Official Trustee in respect of any such personal liability.<o:p></o:p>
+Commonwealth in relation to the recovery by that country of the proceeds of
 
-             (3)  Where the Commonwealth makes a payment in accordance with the indemnity referred to in subsection (1), the Commonwealth has the same right of reimbursement in respect of the payment (including reimbursement under another indemnity given to the Official Trustee) as the Official Trustee would have if the Official Trustee had made the payment.<o:p></o:p>
+unlawful activity or the investigation or prosecution of unlawful activity.
 
-##### <a id="103"></a>103  Operation of other laws not affected<o:p></o:p>
+</dd>
 
-                   Nothing in this Act limits or restricts:<o:p></o:p>
+</dl></dl></dl>
 
-                     (a)  the operation of any other law of the Commonwealth or of a Territory providing for the forfeiture of property or the imposition of pecuniary penalties; or<o:p></o:p>
+<dl compact="">
 
-                     (b)  the remedies available to the Commonwealth, apart from this Act, for the enforcement of its rights and the protection of its interests.<o:p></o:p>
+<dt>(2)</dt><dd>Subject to section&#160;34E, all amounts paid to the Reserve are to be
 
-##### <a id="104"></a>104  Regulations<o:p></o:p>
+identified in accordance with the regulations as distributable funds or
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:<o:p></o:p>
+suspended funds and are to retain that identity while they remain within the
 
-                     (a)  required or permitted by this Act to be prescribed; or<o:p></o:p>
+Reserve.</dd> <dt>(3)</dt><dd>Where an amount payable to the Commonwealth must, under this section, be paid to the Reserve, payment of that amount into the Reserve is, for all purposes, taken to be payment to the Commonwealth. </dd> </dl>
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.<o:p></o:p>
+<center>Back to Top</center>
 
+**
 
-# Notes to the _<span style="mso-no-proof: yes">Proceeds of Crime Act 1987</span>_<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 34C  Payments out of Reserve 
+**
 
-### Note 1<o:p></o:p>
+ <dl compact="">
 
-The _Proceeds of Crime Act 1987_ as shown in this compilation comprises Act No. 87, 1987 amended as indicated in the Tables below.<o:p></o:p>
+<dt>(1)</dt><dd>The purposes of the Reserve are:
 
-The _Proceeds of Crime Act 1987_ is affected by section 45 of the _CSL_<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Sale_</st1:place></st1:city>_Act 1993_.<o:p></o:p>
+</dd> </dl>
 
-All relevant information pertaining to application, saving or transitional provisions prior to <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="24" month="11">24 November 2000</st1:date> is not included in this compilation. For subsequent information _see_ Table A.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-### Table of Acts<o:p></o:p>
+<dt>(a)</dt><dd>to the extent to which it comprises suspended funds:
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="15%">
-  <col width="17%">
-  <col width="23%">
-  <col width="15%">
-</colgroup>
+</dd>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Number 
-and year <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>Date of commencement <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions <o:p></o:p></div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Proceeds of Crime Act 1987 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>87, 1987 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1987" day="5" month="6">5 June 1987</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1987" day="5" month="6">5 June 1987</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Crimes Legislation Amendment Act 1987 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>120, 1987 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1987" day="16" month="12">16 Dec 1987</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 34–46 and 
-48–50: Royal Assent <i style="mso-bidi-font-style: normal">(a)</i> 
-S. 47: 1 Jan 1990 ( <i style="mso-bidi-font-style: normal">see Gazette</i>1989, No. S359) <i style="mso-bidi-font-style: normal">(a)</i> <o:p></o:p> 
+</dl></dl></dl>
 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Law and Justice Legislation Amendment Act 1988 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>120, 1988 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="14" month="12">14 Dec 1988</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Part XVI (ss. 
-48–69): <i style="mso-bidi-font-style: normal">(b)</i> <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>S. 62(2) <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Crimes Legislation Amendment Act 1991 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>28, 1991 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="4" month="3">4 Mar 1991</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 57, 59: Royal Assent <i style="mso-bidi-font-style: normal">(c)</i> 
-S. 58: 4 Mar 1992 <i style="mso-bidi-font-style: normal">(c)</i> <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>S. 58(2)–(4) <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Proceeds of Crime Legislation Amendment Act 1991 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>120, 1991 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="27" month="6">27 June 1991</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 1 and 2: Royal Assent 
-Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="27" month="12">27 Dec 1991</st1:date>( <i style="mso-bidi-font-style: normal">see</i>s. 2(3)) <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Crimes Legislation Amendment Act (No. 2) 1991 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>123, 1991 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="23" month="8">23 Aug 1991</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 5–34 and 38–50: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="20" month="9">20 Sept 1991</st1:date> 
-Ss. 35–37: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="6" month="12">6 Dec 1991</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1991, No. S330) 
-S. 51: 23 Feb 1992 ( <i style="mso-bidi-font-style: normal">see</i>s. 2(5)) Remainder: Royal Assent <o:p></o:p> 
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-</div>
-    </td>
-    <td>
-      <div>Ss. 41(2), 42(2), (3), 43(2), 47, 48(2) and 49(2) <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Crimes Legislation Amendment Act 1992 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>164, 1992 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="11" month="12">11 Dec 1992</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Part 1 (ss. 1, 2) and Parts 3–11 (ss. 
-18–53): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="8" month="1">8 Jan 1993</st1:date> 
-Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="1" month="2">1 Feb 1993</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1993, No. GN1) <o:p></o:p> 
+<dt>(i)</dt><dd>making such payments, if any, to States or to foreign countries as the
 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Service and Execution of Process (Transitional Provisions and Consequential Amendments) Act 1992 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>166, 1992 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1992" day="11" month="12">11 Dec 1992</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1993" day="10" month="4">10 Apr 1993</st1:date>: ( <i style="mso-bidi-font-style: normal">see</i>s. 2 and <i style="mso-bidi-font-style: normal">Gazette</i>1993, No. GN13) <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Banking (State Bank of <st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">South Australia</st1:place> </st1:state>and Other Matters) Act 1994 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>69, 1994 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="9" month="6">9 June 1994</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 66–68: Royal Assent <i style="mso-bidi-font-style: normal">(d)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 66 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Crimes and Other Legislation Amendment Act 1994 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>182, 1994 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="19" month="12">19 Dec 1994</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 31 <i style="mso-bidi-font-style: normal">(e)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>International War Crimes Tribunals (Consequential Amendments) Act 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>19, 1995 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="29" month="3">29 Mar 1995</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 3: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="28" month="8">28 Aug 1995</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1995, No. S323) 
-Remainder: Royal Assent <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Mutual Assistance in Criminal Matters Legislation Amendment Act 1996 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>40, 1996 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1996" day="9" month="10">9 Oct 1996</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 1–3: Royal Assent 
-Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="1" month="3">1 Mar 1997</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1997, No. S50) <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Proceeds of Crime Amendment Act 1997 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>8, 1997 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="5" month="3">5 Mar 1997</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="5" month="3">5 Mar 1997</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Crimes and Other Legislation Amendment Act 1997 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>20, 1997 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="7" month="4">7 Apr 1997</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 21–23, 27): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="28" month="8">28 Aug 1995</st1:date> <i style="mso-bidi-font-style: normal">(f)</i> 
-Schedule 1 (items 24–26, 28): Royal Assent <i style="mso-bidi-font-style: normal">(f)</i> <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>152, 1997 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="24" month="10">24 Oct 1997</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 2 (items1098–1112): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="1">1 Jan 1998</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1997, No. GN49) <i style="mso-bidi-font-style: normal">(g)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Sector Reform (Consequential Amendments) Act 1998 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>48, 1998 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="29" month="6">29 June 1998</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 134–148): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="7">1 July 1998</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1998, No. S316) <i style="mso-bidi-font-style: normal">(h)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>44, 1999 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="17" month="6">17 June 1999</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 7 (items 129–132: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S283) <i style="mso-bidi-font-style: normal">(i)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4]) <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>as amended by <o:p></o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Sector Legislation Amendment Act (No. 1) 2000 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>160, 2000 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="21" month="12">21 Dec 2000</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 21): Royal Assent 
-Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="18" month="1">18 Jan 2001</st1:date> <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Public Employment (Consequential and Transitional) Amendment Act 1999 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>146, 1999 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 748): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style: normal">(j)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>137, 2000 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="24" month="11">24 Nov 2000</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="24" month="5">24 May 2001</st1:date> <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>Sch. 2 (items 418, 419) \[ <i style="mso-bidi-font-style: normal">see</i>Table A] <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>24, 2001 <o:p></o:p> </div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="6" month="4"> 6 Apr 2001 </st1:date>  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>S. 4(1), (2) and Schedule 41:(k)  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>S. 4(1) and (2) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>National Crime Authority Legislation Amendment Act 2001 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>135, 2001 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="10">1 Oct 2001</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedules 1–7, 
-9–12: 12 Oct 2001 ( <i style="mso-bidi-font-style: normal">see Gazette</i>2001, No. S428) 
-Schedule 8: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="13" month="10">13 Oct 2001</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>2001, No. S428) 
-Remainder: Royal Assent <o:p></o:p> 
+Attorney-General considers are appropriate under the equitable sharing program;
 
-</div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>86, 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="11" month="10">11 Oct 2002</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Ss. 1–3: Royal Assent 
-Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="1">1 Jan 2003</st1:date>( <i style="mso-bidi-font-style: normal">see</i>s. 2(1) and <i style="mso-bidi-font-style: normal">Gazette</i>2002, No. GN44) <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>Sch. 7 (items 
-14–16) \[ <i style="mso-bidi-font-style: normal">see</i>Table A] <o:p></o:p> 
-</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Australian Crime Commission Establishment Act 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>125, 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="10" month="12">10 Dec 2002</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 107–115 and 226): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="1">1 Jan 2003</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Sch. 2 (item 226) \[ <i style="mso-bidi-font-style: normal">see</i>Table A] <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Bankruptcy Legislation Amendment Act 2004 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>80, 2004 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="23" month="6">23 June 2004</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 199, 212, 213, 215): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="1" month="12">1 Dec 2004</st1:date>( <i style="mso-bidi-font-style: normal">see</i> <i style="mso-bidi-font-style: normal">Gazette</i>2004, No. GN34) <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Sch. 1 (items 212, 213, 215) \[ <i style="mso-bidi-font-style: normal">see</i>Table A] <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Financial Framework Legislation Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>8, 2005</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>S. 4 and Schedule 1 (items 284–308, 496): Royal Assent</div>
-    </td>
-    <td>
-      <div>S. 4 and Sch. 1 (item 496) \[ <i style="mso-bidi-font-style: normal">see</i>Table A] <o:p></o:p></div>
-    </td>
-  </tr>
-</tbody></table>
+and</dd>
 
+<dt>(ii)</dt><dd>making such payments as the Attorney-General considers necessary to
 
-_(a)_     The _Proceeds of Crime Act 1987_ was amended by sections 34–50 only of the _Crimes Legislation Amendment Act 1987_, subsections 2(1) and (2) of which provide as follows: <o:p></o:p>
+satisfy the Commonwealth's obligations in respect of a registered foreign
 
-                 (1)   Sections 11, 14, 16, 17, 18, 47, 70, 71, 72, 73, 74 and 75 and paragraph 69(b) shall come into operation on a day or days to be fixed by Proclamation. <o:p></o:p>
+forfeiture order, an order registered under section&#160;45 of the
 
-                 (2)   Parts II, VI, VII, VIII (other than section 47) and IX and Schedule 4 shall come into operation on the day on which this Act receives the Royal Assent.<o:p></o:p>
+_International War Crimes Tribunals Act 1995_ or a registered foreign
 
-_(b)_    The _Proceeds of Crime Act 1987_ was amended by Part XVI (sections 48–69) only of the _Law and Justice Legislation Amendment Act 1988_, subsections 2(3) and (9) of which provide as follows:<o:p></o:p>
+pecuniary penalty order; and</dd>
 
-                 (3)   Parts VIII, IX and XVI (except the provisions referred to in subsection (9)) commence on the twenty-eighth day after the day on which this Act receives the Royal Assent.<o:p></o:p>
+<dt>(iii)</dt><dd>making such payments to a State as the Attorney-General considers
 
-                 (9)   Sections 20, 47, 51, 52, 53, 57, 62 and 65 commence on a day or days to be fixed by Proclamation.<o:p></o:p>
+necessary following a payment to the Reserve under paragraph 34B(1)(b) of money
 
- In pursuance of subsection 2(3) sections 48–50, 54–56, 58–61, 63, 64 and 66–69 commenced on 11 January 1989.<o:p></o:p>
+received from a foreign country; and</dd>
 
-         In pursuance of subsection 2(9) sections 47, 51–53, 57, 62 and 65 commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="5" month="9">5 September 1989</st1:date> (_see Gazette_ 1989, No. S296).<o:p></o:p>
+<dt>(iv)</dt><dd>paying the prescribed annual management fee in accordance with the
 
-_(c)_     The _Proceeds of Crime Act 1987_ was amended by sections 57–59 only of the _Crimes Legislation Amendment Act 1991_, subsections 2(1), (4) and (5) of which provide as follows: <o:p></o:p>
+regulations; and</dd>
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent. <o:p></o:p>
+<dt>(v)</dt><dd>making such payments by way of restitution as are required under
 
-                 (4)   Subject to subsection (5), section 58 commences on a day to be fixed by Proclamation. <o:p></o:p>
+subparagraph 21(6)(d)(ii), paragraph 22(4)(b) or subparagraph 31(6)(d)(ii); and
 
-                 (5)   If section 58 does not commence within the period of 12 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.<o:p></o:p>
+</dd>
 
-_(d)_     The _Proceeds of Crime Act 1987_ was amended by sections 66–68 only of the _Banking (State Bank of_<st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_South Australia_</st1:place></st1:state>_and Other Matters) Act 1994_, subsection 2(1) of which provides as follows: <o:p></o:p>
+</dl></dl></dl></dl>
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-_(e)_     The _Proceeds of Crime Act 1987_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsections 2(1) and (4) of which provide as follows: <o:p></o:p>
+<dt>(b)</dt><dd>to the extent to which it comprises distributable funds&#151;making payments
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.<o:p></o:p>
+to a GBE of any proceeds of confiscated assets that relate to a relevant
 
-                 (4)   The amendments made by this Act to the _Australian Federal Police Act 1979_, the _Crimes (Aviation) Act 1991_ (other than the amendment made to Schedule 5 to that Act), the _Crimes (Hostages) Act 1989_, the _Crimes (Internationally Protected Persons) Act 1976_, the _Crimes (Overseas) Act 1964_, the _Crimes (Superannuation Benefits) Act 1989_, the _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_, the _Customs Act 1901_, the _Director of Public Prosecutions Act 1983_, the _Extradition Act 1988_, the _Financial Transaction Reports Act 1988_ and to sections 23 and 59 of the _Proceeds of Crime Act 1987_ commence on the 28th day after the day on which this Act receives the Royal Assent.<o:p></o:p>
+offence that caused financial loss to the GBE.
 
-_(f)_      The _Proceeds of Crime Act 1987_ was amended by Schedule 1 (items 21–28) only of the _Crimes and Other Legislation Amendment Act 1997_, section 2 of which provides as follows:<o:p></o:p>
+</dd>
 
-                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.<o:p></o:p>
+</dl></dl></dl>
 
-                 (2)   Items 21, 22, 23 and 27 of Schedule 1 are taken to have commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1995" day="28" month="8">28 August 1995</st1:date>, immediately after the commencement of the Schedule to the _International War Crimes Tribunals (Consequential Amendments) Act 1995_.<o:p></o:p>
+<dl compact="">
 
-_(g)_     The _Proceeds of Crime Act 1987_ was amended by Schedule 2 (items1098–1112) only of the _Audit (Transitional and Miscellaneous_)_Amendment Act 1997,_ subsection 2(2) of which provides as follows:<o:p></o:p>
+<dt>(2)</dt><dd>In this section:
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+</dd> </dl>
 
-_(h)_     The _Proceeds of Crime Act 1987_ was amended by Schedule 1 (items 134–148) only of the _Financial Sector Reform (Consequential Amendments) Act 1998,_ subsection 2(2) of which provides as follows:<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                 (2)   Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
+_relevant offence_ means an offence against section&#160;131.1,
 
-_(i)_ The _Proceeds of Crime Act 1987_ was amended by Schedule 7 (items 129–132) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsections 3(2)(e) and (16) of which provides as follows:
+132.1, 132.6, 132.8, 134.1, 134.2, 135.1, 135.2, 135.4, 136.1, 137.1 or 137.2
 
-                 (2)   The following provisions commence on the transfer date:<o:p></o:p>
+of the _Criminal Code_ or a prescribed offence.
 
-                      (e)<span style="mso-tab-count: 1">   </span>subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).<o:p></o:p>
+ </dl></dl>
 
-               (16)   The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act. <o:p></o:p>
+**
 
-_(j)_      The _Proceeds of Crime Act 1987_ was amended by Schedule 1 (item 748) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+###  PROCEEDS OF CRIME ACT 1987- SECT 34D  Transfer of balance of distributable funds to Consolidated Revenue Fund 
+**
 
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.<o:p></o:p>
+<dl compact="">
 
-                 (2)   Subject to this section, this Act commences at the commencing time.<o:p></o:p>
+<dt>(1)</dt><dd>Once in each financial year the Attorney-General must determine, in
 
-_(k)_     The _Proceeds of Crime Act 1987_ was amended by Schedule 41 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:<o:p></o:p>
+accordance with the regulations, the amount of distributable funds not required
 
-                 (1)   Subject to this section, this Act commences at the later of the following times:<o:p></o:p>
+for meeting payments under paragraph 34C(1)(b).</dd> <dt>(2)</dt><dd>As soon as practicable after the making of the determination, that amount must: </dd> </dl>
 
-                              (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-         Item 15 commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="24" month="5">24 May 2001</st1:date>.<o:p></o:p>
+<dt>(a)</dt><dd>be deducted from the balance of distributable funds in the Trust Fund;
 
+and</dd>
 
-## Table of Amendments<o:p></o:p>
+<dt>(b)</dt><dd>be paid to the Consolidated Revenue Fund.
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+</dd>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>How affected <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part I <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; Nos. 28 and 120, 1991; No. 164, 1992; No.182, 1994; Nos. 8 and 152, 1997; No. 48, 1998; Nos. 44 and 146, 1999; No. 137, 2000; Nos. 86 and 125, 2002; No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 7  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 137, 2000 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 137, 2000 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 9A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 120, 1988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 13A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 24, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part II <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 18  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 123, 1991 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 20  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1991; No. 164, 1992; No. 152, 1997; No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 21  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120 1988; No. 120, 1991 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 2A <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Div. 2A of Part II  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 120, 1988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 19, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 23  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1988; No. 182, 1994 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 19, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 20, 1997 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 23A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 19, 1995 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 23A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 120, 1988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 19, 1995; No. 20, 1997 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 3 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 27  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1988; No. 123, 1991; No. 80, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 28  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 4 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 30  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; Nos. 120 and 123, 1991; No. 164, 1992; Nos. 20 and 152, 1997; No. 86, 2002; No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 30A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 20, 1997 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 31  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; No. 120, 1988; No. 120, 1991 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 32  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 5 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 34  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part IIA <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Part IIA  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 152, 1997; No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part IIA  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 120, 1991 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 34A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 120, 1991 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 152, 1997; No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 34B  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 34B  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 120, 1991 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 8, 1997; No. 152, 1997; No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 34C  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 34C  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 120, 1991 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 19, 1995; Nos. 8, 20 and 152, 1997; No. 137, 2000; No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 34D  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 34D  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 120, 1991 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 8, 1997 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 34E  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 120, 1991 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 152, 1997; No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part III <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 35  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 36  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 38  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 39  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 135, 2001; No. 125, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 40  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; No. 135, 2001; No. 125, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 43  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; No. 120, 1988; No. 123, 1991; No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 44  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; No. 120, 1988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 45  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; No. 123, 1991 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 45A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 123, 1991 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 48  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; No. 120, 1988; No. 123, 1991; No. 164, 1992 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 48A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 120, 1988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 49  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1988; No. 120, 1991; No. 164, 1992; No. 152, 1997; No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 50  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 28, 1991; No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 51  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 52  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 24, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 53  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; No. 120, 1988; No. 120, 1991; No. 164, 1992 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 55  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 120, 1988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 8, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 57  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1988; No. 123, 1991; No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 59  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 182, 1994; No. 40, 1996; No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 60  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 164, 1992 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 63  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1991; No. 152, 1997; No. 8, 2005 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part IV <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 66  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; No. 120, 1988; No. 123, 1991; No. 48, 1998; No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 67  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 120, 1987 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 68  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 24, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 70  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 71  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; No. 120, 1988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 3 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 73  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; No. 137, 2000; No. 24, 2001; No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 74  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; No. 125, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 4 of Part IV  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 76  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 77, 78  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 24, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 78A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 48, 1998 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Subhead to s. 78A(2)  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 48, 1998 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Subhead to s. 78A(4)  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 48, 1998 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Subhead to s. 78A(5)  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 48, 1998 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 78A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 69, 1994 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 48, 1998; No. 24, 2001 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 78B  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rs. No. 48, 1998 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Subhead to s. 78B(2)  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 48, 1998 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Subhead to s. 78B(3)  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 48, 1998 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Subhead to s. 78B(4)  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 48, 1998 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 78B  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 69, 1994; <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 48, 1998 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 79, 80  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 120, 1987 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part V <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 1 of Part V  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 81, 82  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 2 of Part V  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 137, 2000 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 83  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>rep. No. 137, 2000 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 3 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 84  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987; No. 137, 2000 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 85  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1988; No. 20, 1997 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part VI <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 86  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 88  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 120, 1987 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 90  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 166, 1992; No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 92  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 86, 2002 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part VII <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 96A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 137, 2000 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 98  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 123, 1991 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 102A  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 120, 1987   <o:p></o:p></div>
-    </td>
-  </tr>
-</tbody></table>
+</dl></dl></dl>
 
+**
 
-## Table A<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 34E  Determinations by Official Trustee about suspended and distributable funds 
+**
 
-### Application, saving or transitional provisions<o:p></o:p>
+<dl compact="">
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)<o:p></o:p>_
+<dt>(1)</dt><dd>The Official Trustee may, at such times as it considers appropriate, but
 
-## Schedule 2  <o:p></o:p>
+must, at least once in every 6 months, determine whether the amount of
 
-## 418  Transitional—pre-commencement offences<o:p></o:p>
+suspended funds in the Reserve:
 
-(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:<o:p></o:p>
+</dd> </dl>
 
-                     (a)  an offence committed before the commencement of this item; or<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  proceedings for an offence alleged to have been committed before the commencement of this item; or<o:p></o:p>
+<dt>(a)</dt><dd>is likely to be insufficient to meet the payments to be made out of the
 
-                     (c)  any matter connected with, or arising out of, such proceedings;<o:p></o:p>
+suspended funds for the purposes of paragraph 34C(1)(a); or</dd>
 
-as if the amendment or repeal had not been made.<o:p></o:p>
+<dt>(b)</dt><dd>is likely to exceed the amount required to meet those payments.
 
-(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.<o:p></o:p>
+</dd>
 
-## 419  Transitional—pre-commencement notices<o:p></o:p>
+</dl></dl></dl>
 
-If:<o:p></o:p>
+<dl compact="">
 
-                     (a)  a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and<o:p></o:p>
+<dt>(2)</dt><dd>Where the Official Trustee determines that the amount of suspended funds
 
-                     (b)  any or all of those other provisions are repealed by this Schedule; and<o:p></o:p>
+is likely to be insufficient to meet the payments to be made out of the
 
-                     (c)  the first-mentioned provision is amended by this Schedule;<o:p></o:p>
+suspended funds for the purposes of paragraph 34C(1)(a), the Official Trustee
 
-the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.<o:p></o:p>
+must declare that such an amount of the distributable funds as the Official
 
-* * *
+Trustee identifies, being not more than the amount required to meet those
 
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)<o:p></o:p>_
+payments, is to be identified as suspended funds.</dd> <dt>(3)</dt><dd>Where the Official Trustee determines that the amount of suspended funds is likely to exceed the amount required to meet those payments, the Official Trustee must declare that such an amount of the suspended funds as the Official Trustee identifies, being not more than the amount of the likely excess, is to be identified as distributable funds. </dd> </dl>
 
-##### <a id="4"></a>4  Application of amendments<o:p></o:p>
+<center>Back to Top</center>
 
-             (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.<o:p></o:p>
+<center>**
 
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987<part>Part&#160;III&#151;Control of property liable to confiscation </part>
+**</center>
 
-* * *
+<center>**
 
-_Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002 (No. 86, 2002)<o:p></o:p>_
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;1&#151;Search powers </division> 
+**</center>
 
-## Schedule 7<o:p></o:p>
+**
 
-## 14  Effect on existing applications and orders<o:p></o:p>
+###  PROCEEDS OF CRIME ACT 1987- SECT 35  Powers to search for, and seize, tainted property 
+**
 
-The amendments made by this Part of this Schedule do not affect:<o:p></o:p>
+ <dl compact="">
 
-                     (a)  applications made under the _Proceeds of Crime Act 1987_ before the commencement of the _Proceeds of Crime Act 2002_; or<o:p></o:p>
+<dt>(1)</dt><dd>A police officer may:
 
-                     (b)  orders made, or warrants or search warrants issued, under the _Proceeds of Crime Act 1987_ before or after that commencement.<o:p></o:p>
+</dd> </dl>
 
-## 15  Use of property etc. for purposes of the _Proceeds of Crime Act 2002_<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-To avoid doubt, the fact that property, documents or information have:<o:p></o:p>
+<dt>(a)</dt><dd>search a person for tainted property; and</dd>
 
-                     (a)  been seized or otherwise obtained under the _Proceeds of Crime Act 1987_; or<o:p></o:p>
+<dt>(b)</dt><dd>seize any property found in the course of the search that the police
 
-                     (b)  been obtained as a direct or indirect result of action taken under that Act;<o:p></o:p>
+officer believes, on reasonable grounds, to be tainted property;
 
-does not prevent the property, documents or information being used for the purposes of the _Proceeds of Crime Act 2002_.<o:p></o:p>
+</dd>
 
-## 16  Obligations of financial institutions<o:p></o:p>
+</dl></dl></dl>
 
-Despite the repeal of Division 4 of Part IV of the _Proceeds of Crime Act 1987_ by Schedule 3 to this Act:<o:p></o:p>
+ but only if the search or seizure, as the case requires, is made:
 
-                     (a)  that Division continues to apply in relation to any document in relation to which it applied immediately before the commencement of sections 3 to 338 of the _Proceeds of Crime Act 2002_; and<o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  Part VIA of the _Financial Transaction Reports Act 1988_ does not apply to any such document.<o:p></o:p>
+<dt>(c)</dt><dd>with the consent of the person;</dd>
 
-* * *
+<dt>(d)</dt><dd>under a warrant issued under section&#160;36; or</dd>
 
-_Australian Crime Commission Establishment Act 2002  (No. 125, 2002)<o:p></o:p>_
+<dt>(e)</dt><dd>under section&#160;38.
 
-## Schedule 2<o:p></o:p>
+</dd>
 
-## 226  Transitional regulations<o:p></o:p>
+</dl></dl></dl>
 
-(1)        The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the amendments made by this Schedule.<o:p></o:p>
+<dl compact="">
 
-(2)        Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations made under this item within 1 year after commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.<o:p></o:p>
+<dt>(2)</dt><dd>A police officer may:
 
-* * *
+</dd> </dl>
 
-_Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)<o:p></o:p>_
+<dl compact=""><dl compact=""><dl compact="">
 
-## Schedule 1<o:p></o:p>
+<dt>(a)</dt><dd>enter upon land, or upon or into premises;</dd>
 
-## 212  Transitional—pre-commencement deeds and compositions
+<dt>(b)</dt><dd>search the land or premises for tainted property; and</dd>
 
-(1)        For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
+<dt>(c)</dt><dd>seize any property found in the course of the search that the police
 
-(2)        For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
+officer believes, on reasonable grounds, to be tainted property;
 
-(3)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+</dd>
 
-                     (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
+</dl></dl></dl>
 
-                     (b)  the Acts amended by Part 2 of this Schedule;
+but only if the entry, search or seizure, as the case requires, is made:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>with the consent of the occupier of the land or premises;</dd>
+
+<dt>(e)</dt><dd>under a warrant issued under section&#160;36; or</dd>
+
+<dt>(f)</dt><dd>under section&#160;38.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2A)</dt><dd>A police officer is not empowered to do anything under this section after
+
+the commencement of the _Proceeds of Crime Act 2002_ unless it is done
+
+under a warrant issued under section&#160;36 of this Act for which an
+
+application was made under that section before that commencement.</dd> <dt>(3)</dt><dd>Where a police officer may search a person under this Division, the police officer may also search: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the clothing that is being worn by the person; and</dd>
+
+<dt>(b)</dt><dd>any property in, or apparently in, the person's immediate control.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Nothing in this Division shall be taken to authorise a police officer to
+
+carry out a search by way of an examination of a body cavity of a person.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 36  Search warrants in relation to tainted property 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where a police officer has reasonable grounds for suspecting that there
+
+is, or may be within the next following 72 hours, tainted property of a
+
+particular kind:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>on a person;</dd>
+
+<dt>(b)</dt><dd>in the clothing that is being worn by a person; or</dd>
+
+<dt>(c)</dt><dd>otherwise in a person's immediate control;
+
+</dd>
+
+</dl></dl></dl>
+
+the police officer may:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>lay before a magistrate an information on oath setting out those grounds;
+
+and</dd>
+
+<dt>(e)</dt><dd>apply for the issue of a warrant to search the person for tainted property
+
+of that kind.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where an application is made under subsection&#160;(1) for a warrant to
+
+search a person, the magistrate may, subject to subsection&#160;(6), issue a
+
+warrant authorising a police officer (whether or not named in the warrant),
+
+with such assistance, and by such force, as is necessary and reasonable:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to search the person for tainted property of that kind; and</dd>
+
+<dt>(b)</dt><dd>to seize property found in the course of the search that the police
+
+officer believes, on reasonable grounds, to be tainted property of that kind.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Where a police officer has reasonable grounds for suspecting that there
+
+is, or may be within the next following 72 hours, upon any land, or upon or in
+
+any premises, tainted property of a particular kind, the police officer may:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>lay before a magistrate an information on oath setting out those grounds;
+
+and</dd>
+
+<dt>(b)</dt><dd>apply for the issue of a warrant to search the land or premises for
+
+tainted property of that kind.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Where an application is made under subsection&#160;(3) for a warrant to
+
+search land or premises, the magistrate may, subject to subsection&#160;(6),
+
+issue a warrant authorising a police officer (whether or not named in the
+
+warrant), with such assistance, and by such force, as is necessary and
+
+reasonable:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to enter upon the land, or upon or into the premises;</dd>
+
+<dt>(b)</dt><dd>to search the land or premises for tainted property of that kind; and</dd>
+
+<dt>(c)</dt><dd>to seize property found in the course of the search that the police
+
+officer believes on reasonable grounds to be tainted property of that kind.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>A warrant may be issued under subsection&#160;(2) or (4) in relation to
+
+tainted property whether or not an information has been laid in respect of the
+
+relevant offence.</dd> <dt>(6)</dt><dd>A magistrate shall not issue a warrant under subsection&#160;(2) or (4) unless: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the informant or some other person has given to the magistrate, either
+
+orally or by affidavit, any further information that the magistrate requires
+
+concerning the grounds on which the issue of the warrant is sought;</dd>
+
+<dt>(b)</dt><dd>where an information has not been laid in respect of the relevant offence
+
+at the time when the application for the warrant is made&#151;the magistrate is
+
+satisfied:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>that the property is tainted property; and</dd>
+
+<dt>(ii)</dt><dd>that an information will be laid in respect of the relevant offence
+
+within 48 hours; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>the magistrate is satisfied that there are reasonable grounds for issuing
+
+the warrant.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(7)</dt><dd>There shall be included in a warrant issued under this section:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a statement of the purpose for which the warrant is issued, including a
+
+reference to the nature of the relevant offence;</dd>
+
+<dt>(b)</dt><dd>a description of the kind of property authorised to be seized; and</dd>
+
+<dt>(c)</dt><dd>a time, not being later than the prescribed time, upon which the warrant
+
+ceases to have effect.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(8)</dt><dd>There shall also be stated in a warrant issued under subsection&#160;(4)
+
+whether entry is authorised to be made at any time of the day or night or
+
+during specified hours of the day or night.</dd> <dt>(9)</dt><dd>If, in the course of searching, under a warrant issued under this section, for tainted property in relation to a particular offence, a police officer finds: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>property that the police officer believes, on reasonable grounds, to be:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>tainted property in relation to the offence, although not of a kind
+
+specified in the warrant; or</dd>
+
+<dt>(ii)</dt><dd>tainted property in relation to another indictable offence; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>any thing that the police officer believes, on reasonable grounds, will
+
+afford evidence as to the commission of a criminal offence;
+
+</dd>
+
+</dl></dl></dl>
+
+and the police officer believes, on reasonable grounds, that it is necessary to seize that property or thing in order to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating the offence or the other offence, the warrant shall be deemed to authorise the police officer to seize that property or thing.
+
+<dl compact="">
+
+<dt>(10)</dt><dd>A police officer acting in accordance with a warrant issued under
+
+subsection&#160;(2) may remove, or require a person to remove, any of the
+
+clothing that the person is wearing but only if the removal of the clothing is
+
+necessary and reasonable for an effective search of the person under the
+
+warrant.</dd> <dt>(11)</dt><dd>A person shall not be searched under this section except by a person of the same sex. </dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 37  Search warrants may be granted by telephone 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where, by reason of circumstances of urgency, a police officer considers
+
+it necessary to do so, the police officer may make application for a search
+
+warrant under section&#160;36 to a magistrate, by telephone, in accordance with
+
+this section.</dd> <dt>(2)</dt><dd>Before making the application, the police officer shall prepare an information of a kind referred to in subsection 36(1) or (3), but may, if it is necessary to do so, make the application before the information has been sworn.</dd> <dt>(3)</dt><dd>Where a magistrate is, upon application made pursuant to subsection&#160;(1), satisfied: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>after having considered the terms of the information prepared in
+
+accordance with subsection&#160;(2); and</dd>
+
+<dt>(b)</dt><dd>after having received such further information (if any) as the magistrate
+
+requires concerning the grounds on which the issue of the warrant is being
+
+sought;
+
+</dd>
+
+</dl></dl></dl>
+
+that there are reasonable grounds for issuing the warrant, the magistrate shall complete and sign such a search warrant as the magistrate would have issued under section&#160;36 if the application had been made to the magistrate in accordance with that section.
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Where a magistrate signs a warrant under subsection&#160;(3):
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the magistrate shall inform the police officer of the terms of the warrant
+
+and the date on which and the time at which it was signed, and record on the
+
+warrant the reasons for granting the warrant; and</dd>
+
+<dt>(b)</dt><dd>the police officer shall complete a form of warrant in the terms furnished
+
+to the police officer by the magistrate and write on it the name of the
+
+magistrate and the date on which and the time at which the warrant was signed.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>Where a police officer completes a form of warrant in accordance with
+
+subsection&#160;(4), the police officer shall, not later than the day next
+
+following the date of the execution of the warrant or the expiry of the
+
+warrant, whichever is earlier, give the magistrate who signed the warrant the
+
+form of warrant completed by the police officer and the information duly sworn
+
+in connection with the warrant.</dd> <dt>(6)</dt><dd>Upon receipt of the documents referred to in subsection&#160;(5), the magistrate shall attach to them the warrant signed by the magistrate and deal with the documents in the manner in which the magistrate would have dealt with the information if the application for the warrant had been made in accordance with section&#160;36.</dd> <dt>(7)</dt><dd>A form of warrant duly completed by a police officer in accordance with subsection&#160;(4) is, if it is in accordance with the terms of the warrant signed by the magistrate, authority for any search, entry or seizure that the warrant so signed authorises.</dd> <dt>(8)</dt><dd>Where it is material, in any proceedings, for a court to be satisfied that a search, entry or seizure was authorised in accordance with this section, and the warrant signed by a magistrate in accordance with this section authorising the search, entry or seizure is not produced in evidence, the court shall assume, unless the contrary is proved, that the search, entry or seizure was not authorised by such a warrant.</dd> <dt>(9)</dt><dd>In this section, _magistrate_ does not include a person by virtue only of the person being a justice of the peace. </dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 38  Searches in emergencies 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where a police officer suspects, on reasonable grounds, that particular
+
+property is tainted property, the police officer may:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>search a person for the property and, if the property is found in the
+
+course of the search, seize the property; or</dd>
+
+<dt>(b)</dt><dd>enter upon land, or upon or into premises, and search for the property
+
+and, if the property is found in the course of the search, seize the property.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>A police officer shall not exercise a power under subsection&#160;(1)
+
+unless:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the police officer believes, on reasonable grounds, that it is necessary
+
+to exercise the power in order to prevent the concealment, loss or destruction
+
+of the property; and</dd>
+
+<dt>(b)</dt><dd>the circumstances are so serious and urgent that they require the
+
+immediate exercise of the power without the authority of an order of a court or
+
+of a warrant issued under this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2A)</dt><dd>Subsection&#160;(1) does not apply in respect of particular property
+
+unless an information has been laid in respect of the offence that the police
+
+officer believes, on reasonable grounds, to be the offence by reason of the
+
+commission of which the property is tainted property.</dd> <dt>(2B)</dt><dd>If, in the course of searching, in accordance with subsection&#160;(1), for tainted property in relation to a particular indictable offence, a police officer finds: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>property that the police officer believes, on reasonable grounds, to be
+
+tainted property in relation to another indictable offence; or</dd>
+
+<dt>(b)</dt><dd>any thing that the police officer believes, on reasonable grounds, will
+
+afford evidence as to the commission of a criminal offence;
+
+</dd>
+
+</dl></dl></dl>
+
+and the police officer believes, on reasonable grounds, that it is necessary to seize that property or thing in order to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating the offence or the other offence, the police officer may seize that property or thing.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Where a person is searched under this section, the search shall, if it is
+
+practicable in the circumstances to do so, be carried out by a person of the
+
+same sex.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 39  Responsibility for seized property 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), where property is seized under this
+
+Division, the Commissioner shall arrange for the property to be kept until it
+
+is dealt with in accordance with another provision of this Act, and shall
+
+ensure that all reasonable steps are taken to preserve the property while it is
+
+so kept.</dd> <dt>(2)</dt><dd>Where: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a police officer seizes property under this Division; and</dd>
+
+<dt>(b)</dt><dd>the officer believes on reasonable grounds that the property will afford
+
+evidence as to the commission of an offence that is the subject of a special
+
+ACC operation/investigation;
+
+</dd>
+
+</dl></dl></dl>
+
+the Chief Executive Officer of the ACC shall arrange for the property to be kept until it is dealt with in accordance with another provision of this Act, and shall ensure that all reasonable steps are taken to preserve the property while it is so kept.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>In this section:
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+<def><dl compact=""><dl compact="">
+
+_special ACC operation/investigation_ has the same meaning as in
+
+the _Australian Crime Commission Act 2002_.
+
+ </dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 40  Return of seized property 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where property has been seized under this Division (otherwise than because
+
+it may afford evidence of the commission of an offence), a person who claims an
+
+interest in the property may apply to the relevant Supreme Court for an order
+
+that the property be returned to the person.</dd> <dt>(2)</dt><dd>Where a person makes an application under subsection&#160;(1) and the court is satisfied that: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person is entitled to possession of the property;</dd>
+
+<dt>(b)</dt><dd>the property is not tainted property in relation to the relevant offence;
+
+and</dd>
+
+<dt>(c)</dt><dd>the person in respect of whose conviction, charging or proposed charging
+
+the seizure of the property was made has no interest in the property;
+
+</dd>
+
+</dl></dl></dl>
+
+the court shall order the responsible custodian to return the property to the person and where such an order is made the responsible custodian shall arrange for the property to be returned to the person.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>property has been seized under this Division (otherwise than because it
+
+may afford evidence as to the commission of an offence);</dd>
+
+<dt>(b)</dt><dd>at the time when the property was seized, an information had not been laid
+
+in respect of a relevant offence; and</dd>
+
+<dt>(c)</dt><dd>at the end of the period of 48 hours after the time when the property was
+
+seized, an information has not been laid in respect of a relevant offence;
+
+</dd>
+
+</dl></dl></dl>
+
+the responsible custodian shall, subject to subsections&#160;(5) and (6), arrange for the property to be returned to the person from whose possession it was seized as soon as practicable after the end of that period.
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>property has been seized under this Division (otherwise than because it
+
+may afford evidence as to the commission of an offence);</dd>
+
+<dt>(b)</dt><dd>either of the following conditions is satisfied:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>before the property was seized, a person had been convicted of a relevant
+
+offence or an information had been laid in respect of a relevant offence;</dd>
+
+<dt>(ii)</dt><dd>before the property was seized, an information had not been laid in
+
+respect of a relevant offence, but an information was laid in respect of a
+
+relevant offence within 48 hours after the time when the property was seized;
+
+and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>no forfeiture order has been made against the property within the period
+
+of 14 days after the property was seized;
+
+</dd>
+
+</dl></dl></dl>
+
+the responsible custodian shall, subject to subsections&#160;(5) and (6), arrange for the property to be returned to the person from whose possession it was seized as soon as practicable after the end of that period.
+
+<dl compact="">
+
+<dt>(5)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>property has been seized under this Division (otherwise than because it
+
+may afford evidence as to the commission of an offence);</dd>
+
+<dt>(b)</dt><dd>but for this subsection, the responsible custodian would be required to
+
+arrange for the property to be returned to a person as soon as practicable
+
+after the end of a particular period; and</dd>
+
+<dt>(c)</dt><dd>before the end of that period, a restraining order is made in relation to
+
+the property;
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+the following provisions have effect:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>if the restraining order directs the Official Trustee to take custody and
+
+control of the property&#151;the responsible custodian shall arrange for the
+
+property to be given to the Official Trustee in accordance with the restraining
+
+order;</dd>
+
+<dt>(e)</dt><dd>if the court that made the restraining order has made an order under
+
+subsection&#160;(6) in relation to the property&#151;the responsible custodian
+
+shall arrange for the property to be kept until it is dealt with in accordance
+
+with another provision of this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(6)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>property has been seized under this Division (otherwise than because it
+
+may afford evidence as to the commission of an offence);</dd>
+
+<dt>(b)</dt><dd>a restraining order is made in relation to the property; and</dd>
+
+<dt>(c)</dt><dd>at the time when the restraining order is made, the property is in the
+
+possession of the responsible custodian;
+
+</dd>
+
+</dl></dl></dl>
+
+the responsible custodian may apply to the court that made the restraining order for an order that the responsible custodian retain possession of the property and the court may, if satisfied that there are reasonable grounds for believing that the property may afford evidence as to the commission of a relevant offence or any other offence, make an order that the responsible custodian may retain the property for so long as the property is so required as evidence as to the commission of that offence.
+
+<dl compact="">
+
+<dt>(7)</dt><dd>Where the responsible custodian applies to a court for an order under
+
+subsection&#160;(6), a witness shall not be required to answer a question or to
+
+produce a document if the court is satisfied that the answering of the question
+
+or the production of the document may prejudice the investigation of, or the
+
+prosecution of a person for, an offence.</dd> <dt>(8)</dt><dd>Where: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>property has been seized under this Division (otherwise than because it
+
+may afford evidence as to the commission of an offence);</dd>
+
+<dt>(b)</dt><dd>an application is made for a restraining order or a forfeiture order in
+
+respect of the property;</dd>
+
+<dt>(c)</dt><dd>the application is refused; and</dd>
+
+<dt>(d)</dt><dd>at the time when the application is refused, the property is in the
+
+possession of the responsible custodian;
+
+</dd>
+
+</dl></dl></dl>
+
+the responsible custodian shall arrange for the property to be returned to the person from whose possession it was seized as soon as practicable after the refusal.
+
+<dl compact="">
+
+<dt>(9)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>property has been seized under this Division; and</dd>
+
+<dt>(b)</dt><dd>while the property is in the possession of the responsible custodian, a
+
+forfeiture order is made in respect of the property;
+
+</dd>
+
+</dl></dl></dl>
+
+the responsible custodian shall deal with the property as required by the order.
+
+<dl compact="">
+
+<dt>(10)</dt><dd>In this section:
+
+</dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_responsible custodian_, in relation to property seized under this
+
+Division, means:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if subsection 39(1) applies to the property&#151;the Commissioner; or</dd>
+
+<dt>(b)</dt><dd>if subsection 39(2) applies to the property&#151;to the Chief Executive
+
+Officer of the ACC.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 41  Issue of search warrants by Territory courts in relation to interstate indictable offences 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This Division (other than section&#160;40) applies to the issue of search
+
+warrants in a Territory as if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a reference in this Division to an offence included a reference to an
+
+interstate indictable offence; and</dd>
+
+<dt>(b)</dt><dd>a reference in this Division to tainted property included a reference to
+
+property:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>used in, or in connection with, the commission of an interstate indictable
+
+offence; or</dd>
+
+<dt>(ii)</dt><dd>derived or realised, directly or indirectly, by any person from the
+
+commission of an interstate indictable offence.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>If property is seized under a warrant issued by virtue of
+
+subsection&#160;(1) the following provisions have effect:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>by the end of the period of 7 days commencing on the day the property was
+
+seized, no person has been convicted of or charged with the interstate
+
+indictable offence in reliance on the commission of which the warrant was
+
+issued and an application for an interstate forfeiture order has not been made
+
+in respect of the property;</dd>
+
+<dt>(ii)</dt><dd>a person has been charged with and convicted of the interstate indictable
+
+offence but by the end of the period of 6 months commencing on the day on which
+
+the person is convicted an application for an interstate forfeiture order has
+
+not been made in respect of the property; or</dd>
+
+<dt>(iii)</dt><dd>a person has been charged with the interstate indictable offence and has
+
+been discharged or acquitted;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		the Commissioner shall arrange for the property to be returned to the person
+
+from whose possession it was seized;
+
+<dt>(b)</dt><dd>if a court of the State concerned makes an order:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>directing that the property be returned to the person from whose
+
+possession it was seized; or</dd>
+
+<dt>(ii)</dt><dd>directing that that person be allowed access to the property;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+ 		the Commissioner shall take such steps as are necessary to give effect to
+
+the order.
+
+</dl></dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 42  Search for and seizure of tainted property in relation to foreign offences 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Where a police officer is authorised, under the Mutual Assistance Act, to
+
+apply to a magistrate of a State or Territory for a search warrant under this
+
+Act in relation to tainted property in respect of a foreign serious offence,
+
+the police officer may apply for the warrant accordingly and this Division
+
+applies to the application and to any warrant issued as a result of the
+
+application as if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>references in this Division to tainted property were references to tainted
+
+property in relation to the foreign serious offence;</dd>
+
+<dt>(b)</dt><dd>references to a magistrate were references to a magistrate of the State or
+
+Territory specified in the police officer's authorisation under the Mutual
+
+Assistance Act; and</dd>
+
+<dt>(c)</dt><dd>subsection 36(5), paragraph 36(6)(b), subsection 36(9) and section&#160;40
+
+were omitted.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>If, in the course of searching, under a warrant issued under
+
+section&#160;36, for tainted property in relation to a foreign serious offence,
+
+a police officer finds:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>any property that the police officer believes, on reasonable grounds, to
+
+be tainted property in relation to the foreign serious offence, although not of
+
+the kind specified in the warrant;</dd>
+
+<dt>(b)</dt><dd>any property that the police officer believes, on reasonable grounds, to
+
+be tainted property in relation to another foreign serious offence in respect
+
+of which a search warrant under section&#160;36 is in force; or</dd>
+
+<dt>(c)</dt><dd>any thing that the police officer believes, on reasonable grounds:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>to be relevant to a criminal proceeding in the foreign country in respect
+
+of the foreign serious offence; or</dd>
+
+<dt>(ii)</dt><dd>will afford evidence as to the commission of a criminal offence;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+and the police officer believes, on reasonable grounds, that it is necessary to seize that property or thing in order to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating the offence, the warrant shall be deemed to authorise the police officer to seize that property or thing.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Where property has been seized under a warrant issued under
+
+section&#160;36 in respect of a foreign serious offence, a person who claims an
+
+interest in the property may apply to the Supreme Court of the State or
+
+Territory in which the warrant was issued for an order that the property be
+
+returned to the person.</dd> <dt>(4)</dt><dd>Where a person makes an application under subsection&#160;(3) and the court is satisfied that: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person is entitled to possession of the property;</dd>
+
+<dt>(b)</dt><dd>the property is not tainted property in relation to the relevant foreign
+
+serious offence; and</dd>
+
+<dt>(c)</dt><dd>the person who is believed or alleged to have committed the relevant
+
+foreign serious offence has no interest in the property;
+
+</dd>
+
+</dl></dl></dl>
+
+the court shall order the Commissioner to return the property to the person and where such an order is made the Commissioner shall arrange for the property to be returned to the person.
+
+<dl compact="">
+
+<dt>(5)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>property has been seized under a warrant issued under section&#160;36 in
+
+respect of a foreign serious offence; and</dd>
+
+<dt>(b)</dt><dd>at the end of the period of 30 days after the day on which the property
+
+was seized:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>neither a foreign restraining order, nor a foreign forfeiture order, in
+
+relation to the property has been registered in a court in Australia under the
+
+Mutual Assistance Act; and</dd>
+
+<dt>(ii)</dt><dd>a restraining order has not been made under this Act in respect of the
+
+property in relation to the foreign serious offence;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+the Commissioner shall, subject to subsections&#160;(6) and (7), arrange for the property to be returned to the person from whose possession it was seized as soon as practicable after the end of that period.
+
+<dl compact="">
+
+<dt>(6)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>property has been seized under a warrant issued under section&#160;36 in
+
+respect of a foreign serious offence;</dd>
+
+<dt>(b)</dt><dd>but for this subsection, the Commissioner would be required to arrange for
+
+the property to be returned to the person as soon as practicable after the end
+
+of a particular period; and</dd>
+
+<dt>(c)</dt><dd>before the end of that period:
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a foreign restraining order in relation to the property is registered in a
+
+court in Australia under the Mutual Assistance Act; or</dd>
+
+<dt>(ii)</dt><dd>a restraining order is made under this Act in respect of the property in
+
+relation to the foreign serious offence;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+the following provisions have effect:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>if there is in force, at the end of that period, a direction by a court
+
+that the Official Trustee take custody and control of the property&#151;the
+
+Commissioner shall arrange for the property to be given to the Official Trustee
+
+in accordance with the direction;</dd>
+
+<dt>(e)</dt><dd>if there is in force at the end of that period an order under
+
+subsection&#160;(7) in relation to the property&#151;the Commissioner shall arrange
+
+for the property to be kept until it is dealt with in accordance with another
+
+provision of this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(7)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>property has been seized pursuant to a warrant issued under
+
+section&#160;36 in respect of a foreign serious offence;</dd>
+
+<dt>(b)</dt><dd>either:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a foreign restraining order in respect of the property has been registered
+
+in an Australian court under the Mutual Assistance Act; or</dd>
+
+<dt>(ii)</dt><dd>a restraining order is made under this Act in respect of the property in
+
+relation to the foreign serious offence; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>at the time when the restraining order is registered or made, the property
+
+is in the possession of the Commissioner;
+
+</dd>
+
+</dl></dl></dl>
+
+the Commissioner may apply to the court in which the restraining order was registered, or by which the restraining order was made, for an order that the Commissioner retain possession of the property and the court may, if satisfied that the property is required by the Commissioner to be dealt with in accordance with a request under the Mutual Assistance Act by the foreign country that requested the registration of, or the obtaining of, the restraining order, make an order that the Commissioner may retain the property for so long as the property is so required.
+
+<dl compact="">
+
+<dt>(8)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>property has been seized under a warrant issued under section&#160;36 in
+
+respect of a foreign serious offence; and</dd>
+
+<dt>(b)</dt><dd>while the property is in the possession of the Commissioner a foreign
+
+forfeiture order in respect of the property is registered in a court in
+
+Australia under the Mutual Assistance Act;
+
+</dd>
+
+</dl></dl></dl>
+
+the Commissioner shall deal with the property as required by the forfeiture order.
+
+<dl compact="">
+
+<dt>(9)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a warrant is issued under section&#160;36 in respect of a foreign serious
+
+offence; and</dd>
+
+<dt>(b)</dt><dd>property is seized pursuant to the warrant because it may afford evidence
+
+as to the commission of a criminal offence;
+
+</dd>
+
+</dl></dl></dl>
+
+the property shall, for the purposes of subsections&#160;(3), (4), (5), (6) and (7) of this section, be taken not to be property seized pursuant to the warrant.
+
+<center>Back to Top</center>
+
+<center>**
+
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;2&#151;Restraining orders </division> 
+**</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 43  Restraining orders 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where a person (in this section and section&#160;44 called the
+
+_defendant_):
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>has been convicted of an indictable offence; or</dd>
+
+<dt>(b)</dt><dd>has been, or is about to be, charged with an indictable offence;
+
+</dd>
+
+</dl></dl></dl>
+
+the DPP may apply to the relevant Supreme Court for an order under subsection&#160;(2) against one or more of the following:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>specified property of the defendant;</dd>
+
+<dt>(d)</dt><dd>all the property of the defendant (including property acquired after the
+
+making of the order);</dd>
+
+<dt>(e)</dt><dd>all the property of the defendant (including property acquired after the
+
+making of the order) other than specified property;</dd>
+
+<dt>(f)</dt><dd>specified property of a person other than the defendant.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where the DPP applies to a court for an order under this subsection
+
+against property, the court may, subject to section&#160;44, by order:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>direct that the property, or such part of the property as is specified in
+
+the order, is not to be disposed of, or otherwise dealt with, by any person,
+
+except in such manner and in such circumstances (if any) as are specified in
+
+the order; and</dd>
+
+<dt>(b)</dt><dd>if the court is satisfied that the circumstances so require&#151;direct the
+
+Official Trustee to take custody and control of the property, or of such part
+
+of the property as is specified in the order.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2A)</dt><dd>The DPP is not empowered to make an application under this section after
+
+the commencement of the _Proceeds of Crime Act 2002_.</dd> <dt>(3)</dt><dd>A restraining order against a person's property may be made subject to such conditions as the court thinks fit and, without limiting the generality of this, may make provision for meeting, out of the property or a specified part of the property, all or any of the following: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the person's reasonable living expenses (including the reasonable living
+
+expenses of the person's dependants (if any)) and reasonable business
+
+expenses;</dd>
+
+<dt>(b)</dt><dd>the person's reasonable expenses in defending a criminal charge;</dd>
+
+<dt>(c)</dt><dd>a specified debt incurred by the person in good faith (being a debt to
+
+which neither paragraph&#160;(a) nor (b) applies).
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>A court shall not make provision of a kind referred to in
+
+subsection&#160;(3) unless it is satisfied that the defendant cannot meet the
+
+expense or debt concerned out of property that is not subject to a restraining
+
+order.</dd> <dt>(5)</dt><dd>Notwithstanding anything in the Bankruptcy Act, money that has come into the custody and control of the Official Trustee under a restraining order shall not be paid into the Common Investment Fund established under section&#160;20B of that Act.</dd> <dt>(6)</dt><dd>Where the Official Trustee is given a direction under paragraph&#160;(2)(b) in relation to property, the Official Trustee may do anything that is reasonably necessary for the purpose of preserving the property including, without limiting the generality of this: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>becoming a party to any civil proceedings affecting the property;</dd>
+
+<dt>(b)</dt><dd>ensuring that the property is insured;</dd>
+
+<dt>(c)</dt><dd>if the property consists, wholly or partly, of securities or
+
+investments&#151;realising or otherwise dealing with the securities or investments;
+
+and</dd>
+
+<dt>(d)</dt><dd>if the property consists, wholly or partly, of a business:
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>employing, or terminating the employment of, persons in the business;
+
+and</dd>
+
+<dt>(ii)</dt><dd>doing any other thing that is necessary or convenient for carrying on the
+
+business on a sound commercial basis.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact="">
+
+<dt>(6A)</dt><dd>Where the Official Trustee is given a direction under
+
+paragraph&#160;(2)(b) in relation to shares in a company, it is entitled:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to exercise the rights attaching to the shares as if it were the
+
+registered holder of the shares; and</dd>
+
+<dt>(b)</dt><dd>to do so to the exclusion of the registered holder.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(6B)</dt><dd>Neither of paragraph&#160;(6)(c) and subsection&#160;(6A) limits the
+
+generality of the other.</dd> <dt>(7)</dt><dd>Where the DPP applies to a court for an order under subsection&#160;(2), a witness shall not be required to answer a question or to produce a document if the court is satisfied that the answering of the question or the production of the document may prejudice the investigation of, or the prosecution of a person for, an offence. </dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 44  Grounds for making restraining order 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where the offence concerned is a serious offence, the court shall, subject
+
+to subsections&#160;(3), (4), (7A) and (10), make a restraining order against
+
+the property.</dd> <dt>(2)</dt><dd>Where the offence concerned is an ordinary indictable offence the court shall, subject to subsections&#160;(3), (4), (5), (6), (7) and (10), make a restraining order against the property unless the court is satisfied that it is not in the public interest to make such an order.</dd> <dt>(3)</dt><dd>If the defendant has not been convicted of the offence concerned, the court shall not make a restraining order unless: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the application for the order is supported by an affidavit of a police
+
+officer stating that the officer believes that the defendant committed the
+
+offence; and</dd>
+
+<dt>(b)</dt><dd>the court is satisfied, having regard to the matters contained in the
+
+affidavit, that there are reasonable grounds for holding that belief.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Where the application is made in reliance on the proposed charging of the
+
+defendant with the offence concerned, the court shall not make a restraining
+
+order unless it is satisfied that the defendant will be charged with the
+
+offence or a related offence within 48 hours.</dd> <dt>(5)</dt><dd>Where: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the offence concerned is an ordinary indictable offence; and</dd>
+
+<dt>(b)</dt><dd>the application seeks a restraining order against specified property of
+
+the defendant;
+
+</dd>
+
+</dl></dl></dl>
+
+the court shall not make a restraining order against the property unless:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>the application is supported by an affidavit of a police officer stating
+
+that the officer believes that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the property is tainted property in relation to the offence; or</dd>
+
+<dt>(ii)</dt><dd>the defendant derived a benefit, directly or indirectly, from the
+
+commission of the offence; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>the court is satisfied, having regard to the matters contained in the
+
+affidavit, that there are reasonable grounds for holding that belief.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(6)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the offence is an ordinary indictable offence; and</dd>
+
+<dt>(b)</dt><dd>the application seeks a restraining order against:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>all the property of the defendant;</dd>
+
+<dt>(ii)</dt><dd>all the property of the defendant other than specified property; or</dd>
+
+<dt>(iii)</dt><dd>specified property of the defendant and all other property of the
+
+defendant;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+the court shall not make a restraining order against the property unless:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>the application is supported by an affidavit of a police officer stating
+
+that the officer believes that the defendant derived a benefit, directly or
+
+indirectly, from the commission of the offence; and</dd>
+
+<dt>(d)</dt><dd>the court is satisfied, having regard to the matters contained in the
+
+affidavit, that there are reasonable grounds for holding that belief.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(7)</dt><dd>Where the application seeks a restraining order against specified property
+
+of a person other than the defendant and the offence concerned is an ordinary
+
+indictable offence, the court shall not make a restraining order against the
+
+property unless:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the application is supported by an affidavit of a police officer stating
+
+that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the officer believes that the property is tainted property in relation to
+
+the offence; or</dd>
+
+<dt>(ii)</dt><dd>the officer believes that:
+
+</dd>
+
+</dl></dl></dl></dl>
+
+	(A)	the property is subject to the effective control of the defendant; and 
+ 	(B)	the defendant derived a benefit, directly or indirectly, from the commission of the offence; and
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>the court is satisfied, having regard to the matters contained in the
+
+affidavit, that there are reasonable grounds for holding that belief.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(7A)</dt><dd>Where the application seeks a restraining order against specified
+
+property of a person other than the defendant and the offence concerned is a
+
+serious offence, the court shall not make a restraining order against the
+
+property unless:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the application is supported by an affidavit of a police officer stating
+
+that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the officer believes that the property is tainted property in relation to
+
+the offence; or</dd>
+
+<dt>(ii)</dt><dd>the officer believes that the property is subject to the effective
+
+control of the defendant; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>the court is satisfied, having regard to the matters contained in the
+
+affidavit, that there are reasonable grounds for holding that belief.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(9)</dt><dd>The court may make a restraining order in respect of property whether or
+
+not there is any risk of the property being disposed of, or otherwise dealt
+
+with, in such manner as would defeat the operation of this Act.</dd> <dt>(10)</dt><dd>A court may refuse to make a restraining order if the Commonwealth refuses or fails to give to the court such undertakings as the court considers appropriate with respect to the payment of damages or costs, or both, in relation to the making and operation of the order.</dd> <dt>(11)</dt><dd>For the purposes of an application under section&#160;43, the DPP may, on behalf of the Commonwealth, give to the court such undertakings with respect to the payment of damages or costs, or both, as are required by the court.</dd> <dt>(12)</dt><dd>An affidavit made by a police officer for the purposes of this section that states that the officer believes a particular matter shall set out the grounds on which the officer holds that belief. </dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 45  Notice of application for restraining order 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), the DPP shall give written notice of an
+
+application for a restraining order against property to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the owner of the property; and</dd>
+
+<dt>(b)</dt><dd>any other person the DPP has reason to believe may have an interest in the
+
+property.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>If the DPP requests the court to do so, the court shall consider the
+
+application without notice having been given in accordance with
+
+subsection&#160;(1) but, subject to section&#160;45A, a restraining order made
+
+by virtue of this subsection shall cease to have effect at the end of such
+
+period (not exceeding 14 days) as is specified by the court in the restraining
+
+order.</dd> <dt>(5)</dt><dd>The court may, at any time before the final determination of an application for a restraining order, direct the DPP to give or publish notice of the application to a specified person or class of persons, in the manner and within the time that the court considers appropriate. </dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 45A  Extension of certain restraining orders 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), the court may, on application made by the
+
+DPP before the end of the period mentioned in subsection 45(2), extend the
+
+period of operation of a restraining order made in reliance on that
+
+subsection.</dd> <dt>(2)</dt><dd>Section&#160;44 (other than subsection 44(4)) applies, with the necessary changes made, to the extension of the period of operation of a restraining order made in reliance on subsection 45(2) in the same way as it applies to the making of a restraining order.</dd> <dt>(3)</dt><dd>The DPP must give written notice of an application under subsection&#160;(1) for the extension of the period of operation of a restraining order to: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the owner of the property against which the restraining order was made;
+
+and</dd>
+
+<dt>(b)</dt><dd>any other person who the DPP has reason to believe may have an interest in
+
+the property.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>The court may, at any time before the final determination of an
+
+application for an extension of the period of operation of a restraining order,
+
+direct the DPP to give or publish notice of the application to a specified
+
+person or class of persons, in the manner and within the time that the court
+
+considers appropriate.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 46  Persons who may appear and adduce evidence 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the DPP applies for a restraining order against property; and</dd>
+
+<dt>(b)</dt><dd>notice of the application is given in accordance with subsection 45(1);
+
+</dd>
+
+</dl></dl></dl>
+
+any person who claims an interest in the property may appear and adduce evidence at the hearing of the application.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where the DPP applies for the extension of the period of operation of a
+
+restraining order that has been made in respect of property, any person who
+
+claims an interest in the property may appear and adduce evidence at the
+
+hearing of the application.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 47  Notice of restraining orders 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), where a restraining order is made against
+
+a person's property, the DPP shall give the person written notice of the
+
+order.</dd> <dt>(2)</dt><dd>Where: </dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a court makes a restraining order; and</dd>
+
+<dt>(b)</dt><dd>the court is satisfied that it would be in the public interest to delay
+
+giving notice of the order to a person;
+
+</dd>
+
+</dl></dl></dl>
+
+the court may order that giving the person notice of the restraining order be delayed for such period as is specified in the order under the subsection and the DPP shall give the person notice of the restraining order as soon as practicable after the end of the period specified. 
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 48  Court may make further orders 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where a court makes a restraining order, the court may, at the time when
+
+it makes the restraining order or at any later time, make any ancillary orders
+
+that the court considers appropriate and, without limiting the generality of
+
+this, the court may make any one or more of the following orders:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an order varying the property to which the restraining order relates;</dd>
+
+<dt>(b)</dt><dd>an order varying any condition to which the restraining order is
+
+subject;</dd>
+
+<dt>(c)</dt><dd>an order for the examination on oath before the court or the registrar of
+
+the court of any person, including:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a person whose property is the subject of the restraining order (in this
+
+section called the _owner_); or</dd>
+
+<dt>(ii)</dt><dd>a person who is the defendant within the meaning of section&#160;43 in
+
+relation to the offence to which the restraining order relates (in this
+
+subsection called the _defendant_);
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		about the affairs (including the nature and location of any property) of:
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(iii)</dt><dd>anyone else who is either the owner or the defendant, or both; and</dd>
+
+<dt>(iv)</dt><dd>if the person to be examined is either the owner or the defendant or
+
+both&#151;that person;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>an order with respect to the carrying out of any undertaking with respect
+
+to the payment of damages or costs given by the Commonwealth in connection with
+
+the making of the restraining order;</dd>
+
+<dt>(da)</dt><dd>an order directing:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the owner; or</dd>
+
+<dt>(ii)</dt><dd>if the owner is not the defendant&#151;the defendant; or</dd>
+
+<dt>(iii)</dt><dd>if the owner or the defendant is a body corporate&#151;a director of the
+
+body corporate specified by the court;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		to give to:
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(iv)</dt><dd>where the restraining order is, or includes, an order made under
+
+paragraph 43(2)(b)&#151;the Official Trustee; and</dd>
+
+<dt>(v)</dt><dd>in any other case&#151;the applicant for the ancillary order or such other
+
+person as the court directs;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		within a period specified in the ancillary order, a statement sworn on oath
+
+setting out such particulars of the property, or dealings with the property, of
+
+the owner or the defendant, as the case may be, as the court thinks proper;
+
+<dt>(e)</dt><dd>where the restraining order directed the Official Trustee to take custody
+
+and control of property:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>an order regulating the manner in which the Official Trustee may exercise
+
+its powers or perform its duties under the restraining order;</dd>
+
+<dt>(ii)</dt><dd>an order determining any question relating to the property to which the
+
+restraining order relates, including any question relating to:
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+	(A)	the liabilities of the owner; or 
+ 	(B)	the exercise of the powers, or the performance of the duties, of the Official Trustee;
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		with respect to the property to which the restraining order relates;
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(iii)</dt><dd>an order directing the owner or another person to do any act or thing
+
+necessary or convenient to be done to enable the Official Trustee to take
+
+custody and control of the property in accordance with the restraining order.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>An order under subsection&#160;(1) may be made on application by:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the DPP;</dd>
+
+<dt>(b)</dt><dd>the owner;</dd>
+
+<dt>(c)</dt><dd>where the restraining order directed the Official Trustee to take custody
+
+and control of property&#151;the Official Trustee; or</dd>
+
+<dt>(d)</dt><dd>with the leave of the court&#151;any other person.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2A)</dt><dd>An ancillary order made before or after the commencement of this
+
+subsection in relation to a restraining order that is in force on or after that
+
+commencement does not cease to have effect merely because the restraining
+
+order, or part of it, ceases to be in force under paragraph 57(2)(e) or (g).</dd> <dt>(3)</dt><dd>Where: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person (in this subsection called the _defendant_) has been
+
+convicted of, or has been charged or is about to be charged with, an offence;</dd>
+
+<dt>(b)</dt><dd>a court, in reliance on the conviction, charging or proposed charging
+
+makes a restraining order against property; and</dd>
+
+<dt>(c)</dt><dd>a person having an interest in the property applies to the court for a
+
+variation of the order to exclude the person's interest from the order;
+
+</dd>
+
+</dl></dl></dl>
+
+the court shall grant the application if:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>where the applicant is not the defendant and the offence is an ordinary
+
+indictable offence:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>if the restraining order was made against the property by virtue of
+
+subparagraph 44(7)(a)(ii)&#151;the court is satisfied that the interest is not
+
+tainted property and that: 
+
+</dd>
+
+</dl></dl></dl></dl>
+
+	(A)	a pecuniary penalty order cannot be made against the defendant; or
+ 	(B)	the applicant's interest in the property is not subject to the effective control of the defendant; or
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(ii)</dt><dd>in any other case&#151;the court is satisfied that the interest is not
+
+tainted property;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(e)</dt><dd>where the applicant is the defendant and the offence is an ordinary
+
+indictable offence&#151;the court is satisfied that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the interest is not tainted property; and</dd>
+
+<dt>(ii)</dt><dd>a pecuniary penalty order cannot be made against the defendant;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(f)</dt><dd>where the applicant is not the defendant, the restraining order was not
+
+made by virtue of subsection 44(7A) and the offence is a serious offence&#151;the
+
+court is satisfied that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the applicant was not, in any way, involved in the commission of the
+
+offence; and</dd>
+
+<dt>(ii)</dt><dd>where the applicant acquired the interest at the time of or after the
+
+commission, or alleged commission, of the offence&#151;the applicant acquired the
+
+interest: 
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+	(A)	for sufficient consideration; and 
+ 	(B)	without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the property was tainted property;
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(fa)</dt><dd>where the applicant is not the defendant and the restraining order was
+
+made by virtue of subsection 44(7A)&#151;the court is satisfied that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the applicant was not, in any way, involved in the commission of the
+
+offence;</dd>
+
+<dt>(ii)</dt><dd>the property is not tainted property in relation to the offence; and</dd>
+
+<dt>(iii)</dt><dd>the applicant's interest in the property is not subject to the effective
+
+control of the defendant; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(g)</dt><dd>in any case&#151;the court is satisfied that it is in the public interest to
+
+do so having regard to all the circumstances, including:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>any financial hardship or other consequence of the interest remaining
+
+subject to the order;</dd>
+
+<dt>(ii)</dt><dd>the seriousness of the offence; and</dd>
+
+<dt>(iii)</dt><dd>the likelihood that the interest will be: 
+
+</dd>
+
+</dl></dl></dl></dl>
+
+	(A)	subject to a forfeiture order; 
+ 	(B)	subject to section&#160;30; or 
+ 	(C)	required to satisfy a pecuniary penalty order.
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person (in this subsection called the _defendant_) has been
+
+convicted of, or has been charged or is about to be charged with, a serious
+
+offence;</dd>
+
+<dt>(b)</dt><dd>a court, in reliance on the conviction, charging or proposed charging,
+
+makes a restraining order against property;</dd>
+
+<dt>(c)</dt><dd>the defendant has an interest in the property;</dd>
+
+<dt>(d)</dt><dd>the defendant applies to the court for a declaration under this subsection
+
+in relation to the interest; and</dd>
+
+<dt>(e)</dt><dd>the court is satisfied that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the property was not used in, or in connection with, any unlawful activity
+
+and was not derived, directly or indirectly, by any person from any unlawful
+
+activity; and</dd>
+
+<dt>(ii)</dt><dd>the defendant's interest in the property was lawfully acquired;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+the court may, by order, declare that the restraining order, to the extent to which it relates to the property, shall be disregarded for the purposes of section&#160;30.
+
+<dl compact="">
+
+<dt>(5)</dt><dd>Where a person is examined before a court or the registrar of a court
+
+pursuant to an order under subsection&#160;(1), the person is not excused from
+
+answering a question when required to do so by the court or the registrar, as
+
+the case may be, on the ground that the answer to the question might tend to
+
+incriminate the person or make the person liable to forfeiture or a penalty.</dd> <dt>(6)</dt><dd>Where a person is examined before a court or the registrar of a court pursuant to an order under subsection&#160;(1), a statement or disclosure made by the person in answer to a question put in the course of the examination, and any information, document or thing obtained as a direct or indirect consequence of the statement or disclosure, is not admissible against the person in any criminal proceedings except a proceeding for giving false testimony in the course of the examination.</dd> <dt>(6A)</dt><dd>A person whom an order under paragraph&#160;(1)(da) directs to give a statement is not excused from giving the statement, or from setting out particulars in the statement, on the ground that the statement or particulars, as the case may be, might tend to incriminate the person or make the person liable to a forfeiture or penalty.</dd> <dt>(6B)</dt><dd>Where a person gives a statement under an order made under paragraph&#160;(1)(da), neither the statement, nor any information, document or thing obtained as a direct or indirect consequence of the statement, is admissible against the person in any criminal proceedings except a proceeding in respect of the falsity of the statement.</dd> <dt>(7)</dt><dd>For the purposes of subsection&#160;(6) or (6B), proceedings on an application for a restraining order, a forfeiture order or a pecuniary penalty order are not criminal proceedings.</dd> <dt>(8)</dt><dd>Where the DPP applies to a court for an order under subsection&#160;(1), a witness shall not be required to answer a question or to produce a document if the court is satisfied that the answering of the question or the production of the document may prejudice the investigation of, or the prosecution of a person for, an offence. </dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 48A  Order for taxation of legal expenses to be met out of restrained property 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a court makes a restraining order directing the Official Trustee to take
+
+custody and control of property; and</dd>
+
+<dt>(b)</dt><dd>the order makes provision for meeting, out of the property or part of it,
+
+a person's reasonable expenses in defending a criminal charge;
+
+</dd>
+
+</dl></dl></dl>
+
+the Official Trustee may apply to the court for an order under subsection&#160;(3).
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The Official Trustee shall give written notice of an application under
+
+subsection&#160;(1) to the person.</dd> <dt>(3)</dt><dd>On an application under subsection&#160;(1), the court may order that the expenses be taxed as provided in the order or may dismiss the application.</dd> <dt>(4)</dt><dd>Where the Official Trustee makes an application under subsection&#160;(1), it need not, except as ordered by the court after the application is made, take any steps for the purpose of meeting the expenses as provided by the restraining order unless and until: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an order under subsection&#160;(3) in relation to the expenses is complied
+
+with; or</dd>
+
+<dt>(b)</dt><dd>the application, and any appeal arising out of it, are finally determined,
+
+or otherwise disposed of, otherwise than by the making of such an order.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 49  Official Trustee to discharge pecuniary penalty 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a pecuniary penalty order is made against a person (in this subsection
+
+called the _defendant_) in reliance on the defendant's conviction
+
+of an offence; and</dd>
+
+<dt>(b)</dt><dd>at the time when the pecuniary penalty order is made, property is subject
+
+to a restraining order made, in reliance on the defendant's conviction of the
+
+offence or a related offence or in reliance on the charging or proposed
+
+charging of the defendant with the offence or a related offence, against:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>property of the defendant; or</dd>
+
+<dt>(ii)</dt><dd>property of another person in relation to which an order under subsection
+
+28(3) is made;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+the court may include in the pecuniary penalty order a direction to the Official Trustee to pay the Commonwealth, in accordance with this section, an amount equal to the penalty amount out of that property.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a pecuniary penalty order is made against a person (in this subsection
+
+called the _defendant_) in reliance on the defendant's conviction
+
+of an offence; and</dd>
+
+<dt>(b)</dt><dd>a restraining order is subsequently made against:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>property of the defendant; or</dd>
+
+<dt>(ii)</dt><dd>property of another person in relation to which an order under subsection
+
+28(3) is in force;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		in reliance on the defendant's conviction of the offence;
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+the court making the restraining order may include in the restraining order a direction to the Official Trustee to pay the Commonwealth, in accordance with this section, an amount equal to the penalty amount out of that property.
+
+<dl compact="">
+
+<dt>(2A)</dt><dd>If:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a pecuniary penalty order has been made against a person (_the defendant_) in reliance on the defendant's conviction of an offence;
+
+and</dd>
+
+<dt>(b)</dt><dd>a restraining order is in force against:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>property of the defendant; or</dd>
+
+<dt>(ii)</dt><dd>property of another person in relation to which an order under subsection
+
+28(3) is in force;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+the Court may, on application by the DPP, direct the Official Trustee to pay the Commonwealth, in accordance with this section, an amount equal to the penalty amount out of the property.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>For the purposes of enabling the Official Trustee to comply with a
+
+direction given by a court under subsection&#160;(1), (2) or (2A), the court
+
+may, in the order in which the direction is given or by a subsequent order:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>direct the Official Trustee to sell or otherwise dispose of such of the
+
+property that is subject to the restraining order as the court specifies; and</dd>
+
+<dt>(b)</dt><dd>appoint an officer of the court or any other person to execute any deed or
+
+instrument in the name of a person who owns or has an estate, interest or right
+
+in the property and to do any act or thing necessary to give validity and
+
+operation to the deed or instrument.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>The execution of the deed or instrument by the person appointed by an
+
+order under subsection&#160;(3) has the same force and validity as if the deed
+
+or instrument had been executed by the person who owned or had the estate,
+
+interest or right in the property.</dd> <dt>(5)</dt><dd>Where the Official Trustee is given a direction under subsection&#160;(1), <dt>(2)</dt><dd>or (2A) in relation to property, the Official Trustee shall not: </dd>
+
+</dd></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the property is money&#151;apply the money in accordance with
+
+subsection&#160;(6) until the end of the relevant appeal period; and</dd>
+
+<dt>(b)</dt><dd>if the property is not money&#151;sell or otherwise dispose of the property
+
+until the end of the relevant appeal period.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(6)</dt><dd>Where the Official Trustee is given a direction under subsection&#160;(1),
+
+<dt>(2)</dt><dd>or (2A) in relation to property, the Official Trustee shall, as soon as
+
+practicable after the end of the relevant appeal period:
+
+</dd> </dd></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the property is money:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>apply the money in payment of the costs, charges, expenses and
+
+remuneration, of the kind referred to in subsection 55(1), incurred or payable
+
+in connection with the restraining order and payable to the Official Trustee
+
+under the regulations; and</dd>
+
+<dt>(ii)</dt><dd>subject to subsection&#160;(7), pay the remainder of the money to the
+
+Reserve as required by section&#160;34B; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>if the property is not money:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>sell or otherwise dispose of the property;</dd>
+
+<dt>(ii)</dt><dd>apply the proceeds of the sale or disposition in payment of the costs,
+
+charges, expenses and remuneration, of the kind referred to in subsection
+
+55(1), incurred or payable in connection with the restraining order or the sale
+
+or disposition and payable to the Official Trustee under the regulations; and</dd>
+
+<dt>(iii)</dt><dd>subject to subsection&#160;(7), pay the remainder of those proceeds to
+
+the Reserve as required by section&#160;34B.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(7)</dt><dd>Where the money or proceeds to which subparagraph&#160;(6)(a)(ii) or
+
+(b)(iii) applies exceeds the penalty amount, the Official Trustee shall:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>pay to the Reserve as required by section&#160;34B an amount equal to the
+
+penalty amount; and</dd>
+
+<dt>(b)</dt><dd>pay the balance to the person whose property was subject to the
+
+restraining order.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(8)</dt><dd>Where the Official Trustee pays, in accordance with a direction under this
+
+section, money to the Reserve as required by section&#160;34B in satisfaction
+
+of a person's liability under a pecuniary penalty order, the person's liability
+
+under the pecuniary penalty order shall, to the extent of the payment, be
+
+deemed to be discharged.</dd> <dt>(9)</dt><dd>Where: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a restraining order is made against property in reliance on a person's
+
+conviction of an offence or in reliance on the charging, or proposed charging
+
+of a person with an offence; and</dd>
+
+<dt>(b)</dt><dd>before or after the restraining order is made, a pecuniary penalty order
+
+has been or is made against the person in reliance on the person's conviction
+
+of the offence or a related indictable offence;
+
+</dd>
+
+</dl></dl></dl>
+
+the relevant appeal period in respect of the property is:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>the appeal period in relation to the person's conviction of the offence;
+
+or</dd>
+
+<dt>(d)</dt><dd>the appeal period in relation to the making of the pecuniary penalty order;
+
+</dd>
+
+</dl></dl></dl>
+
+whichever ends last.
+
+<dl compact="">
+
+<dt>(10)</dt><dd>A reference in this section to the appeal period in relation to a
+
+person's conviction of an offence is:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in a case where the person is to be taken to have been convicted of the
+
+offence by reason of paragraph 5(1)(b)&#151;a reference to the appeal period in
+
+relation to the finding of the person guilty of the offence; and</dd>
+
+<dt>(b)</dt><dd>in a case where the person is to be taken to have been convicted of the
+
+offence by reason of paragraph 5(1)(c)&#151;a reference to the appeal period in
+
+relation to the person's conviction of the other offence referred to in that
+
+paragraph.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(11)</dt><dd>In this section, _appeal period_, in relation to a decision
+
+of a court or a finding, means the period ending:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the period provided for the lodging of an appeal against the decision
+
+or finding has ended without such an appeal having been lodged&#151;at the end of
+
+that period; or</dd>
+
+<dt>(b)</dt><dd>if an appeal against the decision or finding has been lodged&#151;when the
+
+appeal lapses or is finally determined.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 50  Charge on property subject to restraining order 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a pecuniary penalty order is made against a person (in this subsection
+
+called the _defendant_) in reliance on the defendant's conviction
+
+of an offence; and</dd>
+
+<dt>(b)</dt><dd>a restraining order is, or has been, made against:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>property of the defendant; or</dd>
+
+<dt>(ii)</dt><dd>property of another person in relation to which an order under subsection
+
+28(3) is, or has been, made;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		in reliance on the defendant's conviction of the offence or a related offence
+
+or in reliance on the charging, or proposed charging, of the defendant with the
+
+offence or a related offence;
+
+</dl></dl></dl>
+
+then, upon the making of the later of the orders, there is created, by force of this section, a charge on the property to secure the payment to the Commonwealth of the penalty amount.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where a charge is created by subsection&#160;(1) on property of a person,
+
+the charge ceases to have effect in respect of the property:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>upon the quashing of the conviction in reliance on which the pecuniary
+
+penalty order was made;</dd>
+
+<dt>(b)</dt><dd>upon the discharge of the pecuniary penalty order or the restraining order
+
+by a court hearing an appeal against the making of the order;</dd>
+
+<dt>(c)</dt><dd>upon payment to the Commonwealth of the penalty amount in satisfaction of
+
+the pecuniary penalty order;</dd>
+
+<dt>(e)</dt><dd>upon the sale or other disposition of the property:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>under an order under section&#160;49;</dd>
+
+<dt>(ii)</dt><dd>by the owner of the property with the consent of the court that made the
+
+pecuniary penalty order; or</dd>
+
+<dt>(iii)</dt><dd>where the restraining order directed the Official Trustee to take
+
+control of the property&#151;by the owner of the property with the consent of the
+
+Official Trustee; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(f)</dt><dd>upon the sale of the property to a purchaser in good faith for value who,
+
+at the time of purchase, has no notice of the charge;
+
+</dd>
+
+</dl></dl></dl>
+
+whichever first occurs.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>A charge created on property by subsection&#160;(1):
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>is subject to every encumbrance on the property that came into existence
+
+before the charge and that would, apart from this subsection, have priority
+
+over the charge;</dd>
+
+<dt>(b)</dt><dd>has priority over all other encumbrances; and</dd>
+
+<dt>(c)</dt><dd>subject to subsection&#160;(2), is not affected by any change of ownership
+
+of the property.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Where a charge is created by subsection&#160;(1) on property of a
+
+particular kind and the provisions of any law of the Commonwealth or of a State
+
+or Territory provide for the registration of title to, or charges over,
+
+property of that kind, the Official Trustee or the DPP may cause the charge so
+
+created to be registered under the provisions of that law and, if the charge is
+
+so registered, a person who purchases or otherwise acquires an interest in the
+
+property after the registration of the charge shall, for the purposes of
+
+paragraph&#160;(2)(f), be deemed to have notice of the charge at the time of
+
+the purchase or acquisition.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 51  Registration of restraining orders 
+**
+
+ <dl compact="">
+
+		Where a restraining order applies to property of a particular kind and the
+
+provisions of any law of the Commonwealth or of a State or Territory provide
+
+for the registration of title to, or charges over, property of that kind, the
+
+authority responsible for administering those provisions may, on application by
+
+the DPP, record on the register kept pursuant to those provisions the
+
+particulars of the restraining order and, if those particulars are so recorded,
+
+a person who subsequently deals with the property shall, for the purposes of
+
+section&#160;52, be deemed to have notice of the restraining order at the time
+
+of the dealing.
+
+ </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 52  Contravention of restraining orders <center>[Back to Top](#top)</center> 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A person who intentionally contravenes a restraining order by disposing
+
+of, or otherwise dealing with, property that is subject to the restraining
+
+order is guilty of an offence punishable, upon conviction, by:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the person is a natural person&#151;a fine not exceeding $10,000 or
+
+imprisonment for a period not exceeding 5 years, or both; or</dd>
+
+<dt>(b)</dt><dd>in the case of a body corporate&#151;a fine not exceeding $50,000.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a restraining order is made against property;</dd>
+
+<dt>(b)</dt><dd>the property is disposed of, or otherwise dealt with, in contravention of
+
+the restraining order; and</dd>
+
+<dt>(c)</dt><dd>the disposition or dealing was either not for sufficient consideration or
+
+not in favour of a person who acted in good faith;
+
+</dd>
+
+</dl></dl></dl>
+
+the DPP may apply to the court that made the restraining order for an order that the disposition or dealing be set aside.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Where the DPP makes an application under subsection&#160;(2) in relation
+
+to a disposition or dealing, the court may make an order:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>setting the disposition or dealing aside as from the day on which the
+
+disposition or dealing took place; or</dd>
+
+<dt>(b)</dt><dd>setting the disposition or dealing aside as from the day of the order
+
+under this subsection and declaring the respective rights of any persons who
+
+acquired interests in the property on or after the day on which the disposition
+
+or dealing took place and before the day of the order under this subsection.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 54  Protection of Official Trustee from personal liability in certain cases 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a court has made a restraining order directing the Official Trustee to
+
+take custody and control of all the property of a person or of all the property
+
+of a person other than specified property;</dd>
+
+<dt>(b)</dt><dd>the Official Trustee has taken custody and control of any property,
+
+without notice of any claim by another person in respect of that property;
+
+and</dd>
+
+<dt>(c)</dt><dd>the first-mentioned person did not, at the date of the restraining order,
+
+have any beneficial interest in the property referred to in paragraph&#160;(b);
+
+</dd>
+
+</dl></dl></dl>
+
+the Official Trustee is not personally liable for:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>any loss or damage arising from its having taken custody and control of
+
+the property sustained by a person claiming the property or an interest in the
+
+property; or</dd>
+
+<dt>(e)</dt><dd>the cost of proceedings taken to establish a claim to the property or to
+
+an interest in the property;
+
+</dd>
+
+</dl></dl></dl>
+
+unless the court in which the claim is made is of the opinion that the Official Trustee has been guilty of negligence in respect of the taking of custody and control of the property.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where the Official Trustee has, in accordance with a restraining order
+
+made in reliance on a person's conviction of an offence or in reliance on the
+
+charging, or proposed charging, of a person with an offence, taken custody and
+
+control of property specified in the restraining order, the Official Trustee is
+
+not personally liable for:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>any loss or damage arising from its having taken custody and control of
+
+the property (being loss or damage sustained by some other person claiming the
+
+property or an interest in the property); or</dd>
+
+<dt>(b)</dt><dd>the cost of proceedings taken to establish a claim to the property, or to
+
+an interest in the property;
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+unless the court in which the claim is made is of the opinion that the Official Trustee has been guilty of negligence in respect of the taking of custody and control of the property.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>The Official Trustee is not personally liable for any rates, land tax or
+
+municipal or other statutory charges imposed by or under a law of the
+
+Commonwealth or of a State or Territory in respect of property of which it has
+
+been directed by a restraining order to take custody and control, being rates,
+
+land tax or municipal or other statutory charges that fall due on or after the
+
+date of the order, except to the extent, if any, of the rents and profits
+
+received by the Official Trustee in respect of that property on or after the
+
+date of the order.</dd> <dt>(4)</dt><dd>Where the Official Trustee, having been directed by a restraining order to take custody and control of a business carried on by a person, carries on that business, the Official Trustee is not personally liable for any payment in respect of long service leave or extended leave for which the person was liable or for any payment in respect of long service leave or extended leave to which a person employed by the Official Trustee in its capacity of custodian and controller of the business, or the legal personal representative of such a person, becomes entitled after the date of the order. </dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 55  Costs etc. payable to Official Trustee 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The regulations may make provision for or in relation to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the costs, charges and expenses incurred in connection with; and</dd>
+
+<dt>(b)</dt><dd>the Official Trustee's remuneration in respect of;
+
+</dd>
+
+</dl></dl></dl>
+
+the performance or exercise by the Official Trustee of functions, duties or powers under this Act.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>An amount equal to each amount of remuneration that the Official Trustee
+
+receives under the regulations shall be paid into the Consolidated Revenue Fund.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 56  Court may revoke restraining orders 
+**
+
+ <dl compact="">
+
+		Where a court has made a restraining order against a person's property, the
+
+court may, on application made to it by the person, revoke the order if:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>where the order was made in reliance on the person's conviction of an
+
+offence or the charging, or proposed charging, of the person with an
+
+offence&#151;the person gives security satisfactory to the court for the payment of
+
+any pecuniary penalty that may be imposed upon the person under this Act in
+
+respect of the person's conviction of the offence or a related offence; or</dd>
+
+<dt>(b)</dt><dd>the person gives undertakings satisfactory to the court concerning the
+
+person's property.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 57  When restraining order ceases to be in force 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>If, at the end of the period of 48 hours after the making of a restraining
+
+order in reliance on the proposed charging of a person with an offence, the
+
+person has not been charged with the offence or a related indictable offence,
+
+the order ceases to be in force at the end of that period.</dd> <dt>(2)</dt><dd>Subject to subsection&#160;(5), where: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a restraining order is made in reliance on a person's conviction of an
+
+offence or the charging of a person with an offence; or</dd>
+
+<dt>(b)</dt><dd>a restraining order is made in reliance on the proposed charging of a
+
+person with an offence and the person is, within the succeeding period of 48
+
+hours, charged with the offence or a related indictable offence;
+
+</dd>
+
+</dl></dl></dl>
+
+the following provisions have effect:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>if, within the relevant period in relation to the restraining order, the
+
+charge is withdrawn and the person is not charged with a related indictable
+
+offence by the time the charge is withdrawn, the restraining order ceases to be
+
+in force when the charge is withdrawn;</dd>
+
+<dt>(d)</dt><dd>if, within the relevant period in relation to the restraining order, the
+
+person is acquitted of the charge and the person is not charged with a related
+
+indictable offence by the time of the acquittal, the restraining order ceases
+
+to be in force:
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>in a case where the acquittal occurs after the commencement of the
+
+_Proceeds of Crime Act 2002_&#151;at the end of the period of 28 days after
+
+the day of the acquittal; or</dd>
+
+<dt>(ii)</dt><dd>otherwise&#151;when the acquittal occurs;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+Note:	After the commencement of the _Proceeds of Crime Act 2002_, an application can be made under that Act (but not section&#160;17) for a restraining order in relation to the offence, despite the acquittal.
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(e)</dt><dd>if:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a court makes a confiscation order that is a pecuniary penalty order in
+
+reliance on the person's conviction of the offence or a related indictable
+
+offence;</dd>
+
+<dt>(ii)</dt><dd>the pecuniary penalty order is satisfied or otherwise ceases to be in
+
+force; and</dd>
+
+<dt>(iii)</dt><dd>when the order is satisfied or otherwise ceases to be in force: 
+
+</dd>
+
+</dl></dl></dl></dl>
+
+	(A)	no application for another confiscation order made in reliance on the person's conviction of the offence or a related indictable offence is yet to be determined; and 
+ 	(B)	no other confiscation order made in reliance on the person's conviction of the offence or a related indictable offence is in force;
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		the restraining order ceases to be in force, upon the pecuniary penalty order
+
+being satisfied or otherwise ceasing to be in force, to the extent that the
+
+property to which the restraining order relates is the same as the property
+
+that is sold or otherwise disposed of to satisfy the pecuniary penalty order
+
+and pay the costs, charges, expenses and remuneration referred to in subsection
+
+49(6);
+
+<dt>(f)</dt><dd>if:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a court refuses an application for a confiscation order in reliance on the
+
+person's conviction of the offence or a related indictable offence; and</dd>
+
+<dt>(ii)</dt><dd>when the court refuses the application: 
+
+</dd>
+
+</dl></dl></dl></dl>
+
+	(A)	no application for another confiscation order made in reliance on the person's conviction of the offence or a related indictable offence is yet to be determined; and 
+ 	(B)	no other confiscation order made in reliance on the person's conviction of the offence or a related indictable offence is in force;
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		the restraining order ceases to be in force when the court refuses the
+
+application;
+
+<dt>(g)</dt><dd>if some or all of the property subject to the restraining order is
+
+forfeited under section&#160;19 or 30, the restraining order, to the extent to
+
+which it relates to that property, ceases to be in force when that property is
+
+forfeited;</dd>
+
+<dt>(h)</dt><dd>if, within the relevant period in relation to the restraining order, an
+
+application is made to a court under subsection&#160;(3) for an extension of
+
+the period of operation of the restraining order and the court refuses the
+
+application after the end of the relevant period, the restraining order ceases
+
+to be in force when the court refuses the application;</dd>
+
+<dt>(j)</dt><dd>subject to a preceding paragraph, if, within the relevant period in
+
+relation to the restraining order, an application is made to a court under
+
+subsection&#160;(3) for an extension of the period of operation of the
+
+restraining order and that application is granted, the restraining order ceases
+
+to be in force at such time, or on the occurrence of such event, as is
+
+specified in an order of the court made under that subsection; or</dd>
+
+<dt>(k)</dt><dd>in any other case, the restraining order ceases to be in force at the end
+
+of the relevant period in relation to the restraining order.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>The DPP may, before the end of the relevant period in relation to a
+
+restraining order against property made in reliance on a person's conviction of
+
+an offence or the charging, or proposed charging, of a person with an offence,
+
+apply to the court that made the restraining order for an extension of the
+
+period of operation of the restraining order and, if the court is satisfied:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>that a forfeiture order may still be made in respect of the property or
+
+part of the property;</dd>
+
+<dt>(aa)</dt><dd>that the property or part of the property may still become forfeited
+
+under subsection 30(1); or</dd>
+
+<dt>(b)</dt><dd>where the property is:
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>property of the person; or</dd>
+
+<dt>(ii)</dt><dd>property of another person: 
+
+</dd>
+
+</dl></dl></dl></dl>
+
+	(A)	against which the restraining order was made by virtue of subparagraph 44(7)(a)(ii) or (7A)(a)(ii); or
+ 	(B)	in relation to which an order under subsection 28(3) has been, or is likely to be, made;
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		that a pecuniary penalty order may still be made against the person;
+
+</dl></dl></dl>
+
+the court may:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>by order, extend the period of operation of the restraining order; and</dd>
+
+<dt>(d)</dt><dd>make such other order or orders as it considers appropriate in relation to
+
+the operation of the restraining order.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>The DPP shall give a person written notice of an application under
+
+subsection&#160;(3) in relation to a restraining order in respect of property
+
+of the person.</dd> <dt>(5)</dt><dd>Where: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a restraining order has been made in reliance on a person's conviction of
+
+an offence or the charging, or proposed charging, of a person with an offence;
+
+and</dd>
+
+<dt>(b)</dt><dd>in reliance on the person's conviction of the offence or a related
+
+indictable offence, a court has made a forfeiture order in respect of part or
+
+all of the property and has also made a pecuniary penalty order against the
+
+person;
+
+</dd>
+
+</dl></dl></dl>
+
+the court may make such further orders, and give such directions, as it considers appropriate in relation to the operation of the restraining order, the forfeiture order and the pecuniary penalty order, and this Act has effect, in relation to those orders and to the property subject to those orders, subject to any further orders, or any directions, so given.
+
+<dl compact="">
+
+<dt>(6)</dt><dd>A reference in this section to the relevant period in relation to a
+
+restraining order is a reference to the period beginning on the day when the
+
+order was made and ending:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if an order has, or orders have, been made under subsection&#160;(3)
+
+extending the restraining order's period of operation&#151;at such time, or on the
+
+occurrence of such event, as is specified in the order, or the last of the
+
+orders, so made;</dd>
+
+<dt>(b)</dt><dd>if paragraph&#160;(a) does not apply but an order has, or orders have,
+
+been made by virtue of paragraph 48(1)(a), (b) or (e) in relation to the
+
+restraining order&#151;at the end of 6 months after the day when the order, or the
+
+last of the orders, was so made; or</dd>
+
+<dt>(c)</dt><dd>in any other case&#151;at the end of 6 months after the day when the
+
+restraining order was made.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(7)</dt><dd>In this section:
+
+</dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_extend_ includes further extend.
+
+ </dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 58  Notice of applications under this Division 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A person who makes an application under section&#160;48 in relation to a
+
+restraining order shall give written notice of that application to each other
+
+person who is entitled, by virtue of subsection 48(2), to make an application
+
+under section&#160;48 in relation to the restraining order.</dd> <dt>(2)</dt><dd>A person who makes an application under section&#160;56 in relation to a restraining order shall give written notice of that application, to: </dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the DPP; and</dd>
+
+<dt>(b)</dt><dd>where the order directed the Official Trustee to take control of
+
+property&#151;the Official Trustee.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 59  Interim restraining order may be made in respect of foreign offence 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Where the DPP is authorised, under the Mutual Assistance Act, to apply for
+
+a restraining order under this Act against any property of a person in respect
+
+of a foreign serious offence, the DPP may apply for the order accordingly and
+
+this Division applies to the application and to any restraining order made as a
+
+result of the application as if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a reference in subsection 43(1) to an indictable offence were a reference
+
+to the foreign serious offence; and</dd>
+
+<dt>(b)</dt><dd>the reference in subsection 43(1) to the relevant Supreme Court were a
+
+reference to the court specified in the DPP's authorisation under the Mutual
+
+Assistance Act; and </dd>
+
+<dt>(c)</dt><dd>a reference in this Division to a person charged or about to be charged
+
+with an indictable offence were a reference to a person against whom a criminal
+
+proceeding in respect of a foreign  serious offence has commenced, or is
+
+reasonably believed to be about to commence, in a foreign country; and</dd>
+
+<dt>(d)</dt><dd>the reference in paragraph 43(3)(b) to a person's reasonable expenses in
+
+defending a criminal charge included a reference to the person's reasonable
+
+expenses in being represented in a criminal proceeding in a foreign country;
+
+and</dd>
+
+<dt>(da)</dt><dd>a reference in subsection 44(4) to the proposed charging of a
+
+person with an offence were a reference to the proposed commencement of a
+
+criminal proceeding in a foreign country against a person in respect of a
+
+foreign serious offence; and</dd>
+
+<dt>(e)</dt><dd>a reference in this Division to a serious offence were a reference to the
+
+foreign serious offence; and</dd>
+
+<dt>(f)</dt><dd>subsections 44(2), (5) and (6) and 48(3) and (4) and sections&#160;49, 50,
+
+56 and 57 were omitted.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person (in this subsection referred to as the _defendant_)
+
+has been alleged, in a criminal proceeding in a foreign country, to have
+
+committed a serious foreign offence;</dd>
+
+<dt>(b)</dt><dd>a court makes a restraining order under section&#160;43 against property
+
+in respect of the offence; and</dd>
+
+<dt>(c)</dt><dd>a person having an interest in the property applies to the court under
+
+section&#160;48 for an order varying the restraining order to exclude the
+
+person's interest from the restraining order;
+
+</dd>
+
+</dl></dl></dl>
+
+the court shall grant the application:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>where the applicant is not the defendant&#151;if the court is satisfied that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the applicant was not, in any way, involved in the commission of the
+
+offence; and</dd>
+
+<dt>(ii)</dt><dd>where the applicant acquired the interest at the time of or after the
+
+commission, or alleged commission, of the offence&#151;the applicant acquired the
+
+interest: 
+
+</dd>
+
+</dl></dl></dl></dl>
+
+	(A)	for sufficient consideration; and 
+ 	(B)	without knowing, and in circumstances such as not to arouse a reasonable suspicion, that the property was tainted property; or
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(e)</dt><dd>in any case&#151;if the court is satisfied that it is in the public interest
+
+to do so having regard to any financial hardship or other consequence of the
+
+interest remaining subject to the order.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Subject to subsections&#160;(4) and (5), a restraining order made in
+
+respect of a foreign serious offence ceases to have effect at the end of the
+
+period of 30 days commencing on the day on which the order is made.</dd> <dt>(4)</dt><dd>A court that makes a restraining order in respect of a foreign serious offence may, on application made by the DPP before the end of the period referred to in subsection&#160;(3), extend the period of operation of the restraining order.</dd> <dt>(5)</dt><dd>Where: </dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a restraining order against property is made in respect of a foreign
+
+serious offence; and</dd>
+
+<dt>(b)</dt><dd>before the end of the period referred to in subsection&#160;(3) (including
+
+that period as extended under subsection&#160;(4)) a foreign restraining order
+
+against the property is registered in a court in Australia under the Mutual
+
+Assistance Act;
+
+</dd>
+
+</dl></dl></dl>
+
+the restraining order referred to in paragraph&#160;(a) ceases to have effect upon the registration of the foreign restraining order referred to in paragraph&#160;(b). 
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 60  Registered foreign restraining orders&#151;general 
+**
+
+ <dl compact="">
+
+		Where a foreign restraining order is registered in a court in Australia under
+
+the Mutual Assistance Act, this Division applies in relation to the order as if:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>sections&#160;48, 49, 50, 56, 57 and 58 were omitted;</dd>
+
+<dt>(b)</dt><dd>a reference in this Division to a restraining order directing the Official
+
+Trustee to take custody and control of property were a reference to an order
+
+under section&#160;61;</dd>
+
+<dt>(c)</dt><dd>a reference in this Division to an order under subsection 49(1), (2) or
+
+<dt>(2A)</dt><dd>were a reference to an order under subsection 63 (1);</dd></dd>
+
+<dt>(d)</dt><dd>a reference in this Division to an order under section&#160;49 were a
+
+reference to an order under section&#160;63; and</dd>
+
+<dt>(e)</dt><dd>the reference in section&#160;55 to a restraining order were a reference
+
+to an order under section&#160;61.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 61  Registered foreign restraining orders&#151;court may direct Official Trustee to take custody and control of property 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Where a foreign restraining order against property is registered in a
+
+court in Australia under the Mutual Assistance Act, the court may, if
+
+satisfied, upon application by the DPP, that the circumstances so require, by
+
+order direct the Official Trustee to take custody and control of the property,
+
+or of such part of the property as is specified in the court's order.</dd> <dt>(2)</dt><dd>The DPP shall give written notice of an application for an order under subsection&#160;(1) in respect of property to: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the owner of the property; and</dd>
+
+<dt>(b)</dt><dd>any other person the DPP has reason to believe may have an interest in the
+
+property.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Where the DPP applies to a court for an order under subsection&#160;(1),
+
+the court may, at any time before the final determination of the application,
+
+direct the DPP to give or publish notice of the application to a specified
+
+person or class of persons, in the manner and within the time that the court
+
+considers appropriate.</dd> <dt>(4)</dt><dd>A person who claims an interest in property in respect of which an application under subsection&#160;(1) is made may appear and adduce evidence at the hearing of the application.</dd> <dt>(5)</dt><dd>Where an order is made under subsection&#160;(1) in respect of property of a person (in this subsection called the _respondent_), the court may, at the time when it makes the order or at any later time, make any one or more of the following orders: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an order regulating the manner in which the Official Trustee may exercise
+
+its powers or perform its duties under the order under subsection&#160;(1);</dd>
+
+<dt>(b)</dt><dd>an order determining any question relating to that property, including any
+
+question relating to the liabilities of the respondent and the exercise of the
+
+powers, or the performance of the duties, of the Official Trustee with respect
+
+to that property;</dd>
+
+<dt>(c)</dt><dd>an order directing the respondent to furnish to the Official Trustee,
+
+within a period specified in the order under this subsection, a statement,
+
+verified by the oath of the respondent, setting out such particulars of the
+
+property of the respondent as the court thinks proper.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(6)</dt><dd>Where the Official Trustee is given a direction under subsection&#160;(1)
+
+in relation to property, the Official Trustee may do anything that is
+
+reasonably necessary for the purpose of preserving the property including,
+
+without limiting the generality of this:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>becoming a party to any civil proceedings affecting the property;</dd>
+
+<dt>(b)</dt><dd>ensuring that the property is insured; and</dd>
+
+<dt>(c)</dt><dd>if the property consists, in whole or in part, of a business&#151;employing,
+
+or terminating the employment of, persons in the business.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(7)</dt><dd>Notwithstanding anything in the Bankruptcy Act, money that has come into
+
+the custody and control, of the Official Trustee under an order under
+
+subsection&#160;(1) shall not be paid into the Common Investment Fund
+
+established by section&#160;20B of that Act.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 62  Registered foreign restraining orders&#151;undertakings 
+**
+
+ <dl compact="">
+
+		Where:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a foreign restraining order against property is registered in a court in
+
+Australia under the Mutual Assistance Act; or</dd>
+
+<dt>(b)</dt><dd>a court makes an order under section&#160;61 in respect of property;
+
+</dd>
+
+</dl></dl></dl>
+
+the court may, upon application by a person claiming an interest in the property, make an order as to the giving, or carrying out, of an undertaking by the DPP, on behalf of the Commonwealth, with respect to the payment of damages or costs in relation to the registration, making or operation of the order. 
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 63  Discharge of certain registered foreign pecuniary penalty orders 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a foreign restraining order is made against property of a person in
+
+reliance on the person's conviction, or alleged commission, of a foreign
+
+serious offence;</dd>
+
+<dt>(b)</dt><dd>the foreign restraining order is registered in a court in Australia under
+
+the Mutual Assistance Act;</dd>
+
+<dt>(c)</dt><dd>a foreign pecuniary penalty order has been or is made against the person
+
+in reliance on the person's conviction of the offence or a related foreign
+
+serious offence;</dd>
+
+<dt>(d)</dt><dd>the foreign pecuniary penalty order has been or is registered in a court
+
+in Australia under the Mutual Assistance Act; and</dd>
+
+<dt>(e)</dt><dd>an order has been or is made under section&#160;61 directing the Official
+
+Trustee to take control of the property;
+
+</dd>
+
+</dl></dl></dl>
+
+the court in which the foreign pecuniary penalty order is registered may, by order, direct the Official Trustee to pay to the Commonwealth, in accordance with this section, an amount equal to the penalty amount out of that property.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of enabling the Official Trustee to comply with the order
+
+under subsection&#160;(1), the court may, in that order or by a subsequent
+
+order:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>direct the Official Trustee to sell or otherwise dispose of such of the
+
+property that is under the control of the Official Trustee as the court
+
+specifies; and</dd>
+
+<dt>(b)</dt><dd>appoint an officer of the court or any other person to execute any deed or
+
+instrument in the name of a person who owns or has an estate, or interest or
+
+right in the property and to do any act or thing necessary to give validity and
+
+operation to the deed or instrument.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>The execution of the deed or instrument by the person appointed by an
+
+order under subsection&#160;(2) has the same force and validity as if the deed
+
+or instrument had been executed by the person who owned or had the estate,
+
+interest or right in the property.</dd> <dt>(4)</dt><dd>Where an order is made under subsection&#160;(1) in relation to property, the Official Trustee shall, as soon as practicable after the order is made: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the property is money:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>apply the money in payment of the costs payable to the Official Trustee in
+
+accordance with section&#160;55 in respect of the order under section&#160;61
+
+in respect of the property; and</dd>
+
+<dt>(ii)</dt><dd>subject to subsection&#160;(5), pay the remainder of the money to the
+
+Reserve as required by section&#160;34B; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>if the property is not money:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>sell or otherwise dispose of the property;</dd>
+
+<dt>(ii)</dt><dd>apply the proceeds of the sale or disposition in payment of the costs
+
+payable to the Official Trustee in accordance with section&#160;55 in respect
+
+of the order under section&#160;61 in respect of the property (including
+
+expenses incurred in connection with the sale or disposition of any of the
+
+property to which the order under section&#160;61 relates); and</dd>
+
+<dt>(iii)</dt><dd>subject to subsection&#160;(5), pay the remainder of those proceeds to
+
+the Reserve as required by section&#160;34B.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>Where the money or proceeds to which subparagraph&#160;(4)(a)(ii) or
+
+(b)(iii) applies, exceeds the penalty amount, the Official Trustee shall:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>pay to the Reserve as required by section&#160;34B an amount equal to the
+
+penalty amount; and</dd>
+
+<dt>(b)</dt><dd>pay the balance to the person whose property was subject to the order
+
+under section&#160;61.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(6)</dt><dd>Where the Official Trustee pays, in accordance with an order under
+
+subsection&#160;(1), money to the Reserve as required by section&#160;34B in
+
+satisfaction of a person's liability under a foreign pecuniary penalty, the
+
+person's liability under the foreign pecuniary penalty order shall, to the
+
+extent of the payment, be deemed to be discharged.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 64  Registered foreign restraining orders&#151;charge on property subject to order 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a foreign restraining order is made against property of a person in
+
+reliance on the person's conviction, or alleged commission, of a foreign
+
+serious offence;</dd>
+
+<dt>(b)</dt><dd>the foreign restraining order is registered in a court in Australia under
+
+the Mutual Assistance Act;</dd>
+
+<dt>(c)</dt><dd>a foreign pecuniary penalty order has been or is made against the person
+
+in reliance on the person's conviction of the offence or a related foreign
+
+serious offence; and</dd>
+
+<dt>(d)</dt><dd>the foreign pecuniary penalty order has been or is registered in a court
+
+in Australia under the Mutual Assistance Act;
+
+</dd>
+
+</dl></dl></dl>
+
+then, upon the registration of the foreign restraining order or the foreign pecuniary penalty order, whichever last occurs, there is created, by force of this section, a charge on the property to secure the payment to the Commonwealth of the penalty amount.
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where a charge is created by subsection&#160;(1) on property of a person,
+
+the charge ceases to have effect in respect of the property:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>upon payment to the Commonwealth of the penalty amount in satisfaction of
+
+the foreign pecuniary penalty order;</dd>
+
+<dt>(b)</dt><dd>upon the person becoming a bankrupt;</dd>
+
+<dt>(c)</dt><dd>upon the sale or other disposition of the property:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>under an order under section&#160;63;</dd>
+
+<dt>(ii)</dt><dd>by the owner of the property with the consent of the court in which the
+
+foreign pecuniary penalty order is registered; or</dd>
+
+<dt>(iii)</dt><dd>where an order under section&#160;61 directed the Official Trustee to
+
+take control of the property&#151;by the owner of the property with the consent of
+
+the Official Trustee;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>upon the sale of the property to a purchaser in good faith for value who,
+
+at the time of purchase, has no notice of the charge; or</dd>
+
+<dt>(e)</dt><dd>upon the cancellation of the registration of the relevant foreign
+
+restraining order, or the cancellation of the registration of the relevant
+
+foreign pecuniary penalty order, in accordance with the Mutual Assistance Act;
+
+</dd>
+
+</dl></dl></dl>
+
+whichever first occurs.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>A charge created on property by subsection&#160;(1):
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>is subject to every encumbrance on the property that came into existence
+
+before the charge and that would, apart from this subsection, have priority
+
+over the charge;</dd>
+
+<dt>(b)</dt><dd>has priority over all other encumbrances; and</dd>
+
+<dt>(c)</dt><dd>subject to subsection&#160;(2), is not affected by any change of ownership
+
+of the property.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Where a charge is created by subsection&#160;(1) on property of a
+
+particular kind and the provisions of any law of the Commonwealth or of a State
+
+or Territory provide for the registration of title to, or charges over,
+
+property of that kind, the Official Trustee or the DPP may cause the charge so
+
+created to be registered under the provisions of that law and, if the charge is
+
+so registered, a person who purchases or otherwise acquires an interest in the
+
+property after the registration of the charge shall, for the purposes of
+
+paragraph&#160;(2)(d), be deemed to have notice of the charge at the time of
+
+purchase or acquisition.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 65  Registered foreign restraining orders&#151;time when order ceases to be in force 
+**
+
+<dl compact="">
+
+		A foreign restraining order registered in a court in Australia under the
+
+Mutual Assistance Act ceases to be in force when the registration is cancelled
+
+in accordance with that Act.
+
+ </dl>
+
+<center>**
+
+###  PROCEEDS OF CRIME ACT 1987<part>Part&#160;IV&#151;Information gathering powers </part>
+**</center>
+
+<center>**
+
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;1&#151;Production orders </division> 
+**</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 66  Production orders 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person has been convicted of an indictable offence and a police officer
+
+has reasonable grounds for suspecting that a person has possession or control
+
+of a property-tracking document or property-tracking documents in relation to
+
+the offence; or</dd>
+
+<dt>(b)</dt><dd>a police officer has reasonable grounds for suspecting that:
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a person has committed an indictable offence; and</dd>
+
+<dt>(ii)</dt><dd>a person has possession or control of a property-tracking document or
+
+property-tracking documents in relation to the offence;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+the police officer may:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>lay before a Judge of the Supreme Court of:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the State or Territory in which the person was convicted of the offence or
+
+in which the offence is believed to have been committed; or</dd>
+
+<dt>(ii)</dt><dd>a State or Territory in which the document is, or some or all of the
+
+documents are, believed to be located;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		an information on oath setting out those grounds; and
+
+<dt>(d)</dt><dd>apply to the Judge for an order under subsection&#160;(4) against the
+
+person suspected of having possession or control of the document or documents.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(1A)</dt><dd>A police officer is not empowered to make an application under this
+
+section after the commencement of the _Proceeds of Crime Act 2002_.</dd> <dt>(2)</dt><dd>Where a police officer applying for an order under this section in respect of an offence includes in the information under subsection&#160;(1) information on oath that the officer has reasonable grounds to believe that: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the offence is an ordinary indictable offence:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the person who was convicted of the offence, or who is believed to have
+
+committed the offence, derived a benefit, directly or indirectly, from the
+
+commission of the offence; and</dd>
+
+<dt>(ii)</dt><dd>property specified in the information is subject to the effective control
+
+of the person; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>if the offence is a serious offence&#151;property specified in the information
+
+is subject to the effective control of the person;
+
+</dd>
+
+</dl></dl></dl>
+
+the Judge may treat any document relevant to identifying, locating or quantifying that property as a property-tracking document in relation to the offence for the purposes of this section.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>In determining whether to treat a document, under subsection&#160;(2), as
+
+a property-tracking document in relation to an offence, the Judge may have
+
+regard to the matters referred to in subsection 9A(2).</dd> <dt>(4)</dt><dd>Where an application is made under subsection&#160;(1) for an order against a person, the Judge may, subject to subsections&#160;(5) and (6), make an order that the person: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>produce to a police officer any documents of the kind referred to in
+
+subsection&#160;(1) that are in the person's possession or control; or</dd>
+
+<dt>(b)</dt><dd>make available to a police officer, for inspection, any documents of that
+
+kind that are in the person's possession or control.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>An order under paragraph&#160;(4)(a) shall not be made in respect of the
+
+books of an ADI.</dd> <dt>(6)</dt><dd>A Judge shall not make an order under this section unless: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the informant or some other person has given the Judge, either orally or
+
+by affidavit, such information (if any) as the Judge requires concerning the
+
+grounds on which the order is sought; and</dd>
+
+<dt>(b)</dt><dd>the Judge is satisfied that there are reasonable grounds for making the
+
+order.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(7)</dt><dd>An order that a person produce a document or documents to a police officer
+
+shall specify the time when and the place where the document is or the
+
+documents are to be produced.</dd> <dt>(8)</dt><dd>An order that a person make a document or documents available to a police officer for inspection shall specify the time or times when the document is or the documents are to be made available.</dd> <dt>(9)</dt><dd>Where a document is produced to a police officer pursuant to an order under this section, the police officer may do any one or more of the following: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>inspect the document;</dd>
+
+<dt>(b)</dt><dd>take extracts from the document;</dd>
+
+<dt>(c)</dt><dd>make copies of the document;</dd>
+
+<dt>(d)</dt><dd>retain the document if, and for so long as, retention of the document is
+
+reasonably necessary for the purposes of this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(10)</dt><dd>Where a document is made available to a police officer for inspection
+
+pursuant to an order under this section, the police officer may do any one or
+
+more of the following:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>inspect the document;</dd>
+
+<dt>(b)</dt><dd>take extracts from the document;</dd>
+
+<dt>(c)</dt><dd>make copies of the document.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(11)</dt><dd>Where a police officer retains a document pursuant to an order under this
+
+section, the police officer shall, on request by the person to whom the order
+
+was addressed:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>give the person a copy of the document certified by the police officer in
+
+writing to be a true copy of the document; and</dd>
+
+<dt>(b)</dt><dd>unless the person has received a copy of the document under
+
+paragraph&#160;(a)&#151;permit the person to do any one or more of the following:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>inspect the document;</dd>
+
+<dt>(ii)</dt><dd>take extracts from the document;</dd>
+
+<dt>(iii)</dt><dd>make copies of the document.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact="">
+
+<dt>(12)</dt><dd>A person is not excused from producing or making available a document
+
+when required to do so by an order under this section on the ground that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the production or making available of the document might tend to
+
+incriminate the person or make the person liable to a penalty; or</dd>
+
+<dt>(b)</dt><dd>the production or making available of the document would be in breach of
+
+an obligation (whether imposed by enactment or otherwise) of the person not to
+
+disclose the existence or contents of the document.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(13)</dt><dd>Where a person produces or makes available a document pursuant to an
+
+order under this section, the production or making available of the document,
+
+or any information, document or thing obtained as a direct or indirect
+
+consequence of the production or making available of the document, is not
+
+admissible against the person in any criminal proceedings except a proceeding
+
+for an offence against subsection 68(1).</dd> <dt>(14)</dt><dd>For the purposes of subsection&#160;(13), proceedings on an application for a restraining order, a forfeiture order or a pecuniary penalty order are not criminal proceedings.</dd> <dt>(15)</dt><dd>In this section: </dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_books of an ADI_ means any accounting records used in the ordinary
+
+business of an ADI, including ledgers, day-books, cash-books and account books.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 67  Variation of production orders 
+**
+
+ <dl compact="">
+
+		Where a Judge of a Supreme Court makes a production order requiring a person
+
+to produce a document to a police officer, the person may apply to the Judge or
+
+another Judge of that Court for a variation of the order and if the Judge
+
+hearing the application is satisfied that the document is essential to the
+
+business activities of the person, he or she may vary the production order so
+
+that it requires the person to make the document available to a police officer
+
+for inspection.
+
+ </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 68  Failure to comply with production order 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where a person is required by a production order to produce a document to
+
+a police officer or make a document available to a police officer for
+
+inspection, the person is guilty of an offence against this subsection if the
+
+person:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>contravenes the order; or</dd>
+
+<dt>(b)</dt><dd>in purported compliance with the order produces or makes available a
+
+document known to the person to be false or misleading in a material particular
+
+without:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>indicating to the police officer to whom the document is produced or made
+
+available that the document is false or misleading and the respect in which the
+
+document is false or misleading; and</dd>
+
+<dt>(ii)</dt><dd>providing correct information to the police officer if the person is in
+
+possession of, or can reasonably acquire, the correct information.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact="">
+
+<dt>(1A)</dt><dd>Paragraph&#160;(1)(a) does not apply if the person has a reasonable
+
+excuse.
+
+</dd> </dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears an evidential burden in relation to the
+
+matter in subsection&#160;(1A) (see subsection 13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>An offence against subsection&#160;(1) is punishable, upon conviction, by:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the offender is a natural person&#151;a fine not exceeding $10,000 or
+
+imprisonment for a period not exceeding 5 years, or both; or</dd>
+
+<dt>(b)</dt><dd>if the offender is a body corporate&#151;a fine not exceeding $50,000.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 69  Production orders in relation to foreign offences 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where a police officer is authorised, under the Mutual Assistance Act, to
+
+apply to a Judge of a court for a production order under this Act in respect of
+
+a foreign serious offence, the police officer may apply for the order
+
+accordingly and this Division applies to the application and to any production
+
+order made as a result of the application as if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a reference in this Division to an indictable offence were a reference to
+
+the foreign serious offence; and</dd>
+
+<dt>(b)</dt><dd>paragraph 66(1)(c) referred to the court specified in the police officer's
+
+authorisation under the Mutual Assistance Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where a police officer takes possession of a document under a production
+
+order made in respect of a foreign serious offence, the police officer may
+
+retain the document for a period of one month pending a written direction from
+
+the Attorney-General as to the manner in which the document is to be dealt with
+
+(which may include a direction that the document be sent to an authority of the
+
+foreign country that requested the obtaining of the production order).
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+<center>**
+
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;2&#151;Search powers </division> 
+**</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 70  Powers to search for, and seize, documents relevant to locating etc. property 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>A police officer may:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>enter upon land, or upon or into premises;</dd>
+
+<dt>(b)</dt><dd>search the land or premises for any property-tracking document in relation
+
+to an indictable offence; and</dd>
+
+<dt>(c)</dt><dd>seize any document found in the course of the search that the police
+
+officer believes, on reasonable grounds, to be a property-tracking document in
+
+relation to an indictable offence;
+
+</dd>
+
+</dl></dl></dl>
+
+but only if the entry, search or seizure, as the case may be, is made:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>with the consent of the occupier of the land or premises; or</dd>
+
+<dt>(e)</dt><dd>under a warrant issued under section&#160;71.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>A police officer is not empowered to do anything under this section after
+
+the commencement of the _Proceeds of Crime Act 2002_ unless it is done
+
+under a search warrant issued under section&#160;71 of this Act for which an
+
+application was made under that section before that commencement.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 71  Search warrant for location etc. of property 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person has been convicted of an indictable offence and a police officer
+
+has reasonable grounds for suspecting that there is, or may be within the next
+
+following 72 hours, upon any land, or upon or in any premises, in a State or
+
+Territory a property-tracking document in relation to the offence; or</dd>
+
+<dt>(b)</dt><dd>a police officer has reasonable grounds for suspecting that:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a person has committed an indictable offence; and</dd>
+
+<dt>(ii)</dt><dd>there is, or may be within the next following 72 hours, upon any land, or
+
+upon or in any premises, in a State or Territory a property-tracking document
+
+in relation to the offence;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+the police officer may:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>lay before a Judge of the Supreme Court of:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the State or Territory in which the person was convicted of the offence or
+
+in which the offence is believed to have been committed; or</dd>
+
+<dt>(ii)</dt><dd>the State or Territory referred to in paragraph&#160;(a) or (b);
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		an information on oath setting out those grounds; and
+
+<dt>(d)</dt><dd>apply to the Judge for a search warrant under subsection&#160;(4) in
+
+respect of the land or premises.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where a police officer applying for a warrant under this section in
+
+respect of an offence includes in the information under subsection&#160;(1)
+
+information on oath that the officer has reasonable grounds to believe that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the offence is an ordinary indictable offence:
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the person who was convicted of the offence, or who is believed to have
+
+committed the offence, derived a benefit, directly or indirectly, from the
+
+commission of the offence; and</dd>
+
+<dt>(ii)</dt><dd>property specified in the information is subject to the effective control
+
+of the person; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>if the offence is a serious offence&#151;property specified in the information
+
+is subject to the effective control of the person;
+
+</dd>
+
+</dl></dl></dl>
+
+the Judge may treat any document relevant to identifying, locating or quantifying that property as a property-tracking document in relation to the offence for the purposes of this section.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>In determining whether to treat a document, under subsection&#160;(2), as
+
+a property-tracking document in relation to an offence, the Judge may have
+
+regard to the matters referred to in subsection 9A(2).</dd> <dt>(4)</dt><dd>Where an application is made under subsection&#160;(1) for a search warrant in respect of land or premises, the Judge may, subject to subsections&#160;(5) and (6), issue a search warrant authorising a police officer (whether or not named in the warrant), with such assistance, and by such force, as is necessary and reasonable: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to enter upon the land or upon or into the premises;</dd>
+
+<dt>(b)</dt><dd>to search the land or premises for documents of the kind referred to in
+
+subsection&#160;(1); and</dd>
+
+<dt>(c)</dt><dd>to seize any document found in the course of the search that the police
+
+officer believes, on reasonable grounds, to be a document of that kind.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>A Judge shall not issue a search warrant under subsection&#160;(4) unless
+
+the Judge is satisfied that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the document involved cannot be identified or described with sufficient
+
+particularity for the purpose of obtaining a production order in respect of the
+
+document;</dd>
+
+<dt>(b)</dt><dd>a production order has been given in respect of the document and has not
+
+been complied with;</dd>
+
+<dt>(c)</dt><dd>a production order in respect of the document would be unlikely to be
+
+effective because there are reasonable grounds to suspect that such a
+
+production order would not be complied with; or</dd>
+
+<dt>(d)</dt><dd>the investigation for the purposes of which the search warrant is being
+
+sought might be seriously prejudiced if the police officer does not gain
+
+immediate access to the document without notice to any person.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(6)</dt><dd>A Judge shall not issue a search warrant under this section unless:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the informant or some other person has given the Judge, either orally or
+
+by affidavit, any further information that the Judge requires concerning the
+
+grounds on which the search warrant is sought; and</dd>
+
+<dt>(b)</dt><dd>the Judge is satisfied that there are reasonable grounds for issuing the
+
+search warrant.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(7)</dt><dd>There shall be stated in a search warrant issued under this section:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a statement of the purpose for which the warrant is issued, including a
+
+reference to the nature of the indictable offence that has been or is believed
+
+to have been committed;</dd>
+
+<dt>(b)</dt><dd>whether entry is authorised to be made at any time of the day or night or
+
+during specified hours of the day or night;</dd>
+
+<dt>(c)</dt><dd>a description of the kind of documents authorised to be seized; and</dd>
+
+<dt>(d)</dt><dd>a date, not being later than one month after the day of issue of the
+
+warrant, upon which the warrant ceases to have effect.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(8)</dt><dd>If, in the course of searching, under a warrant issued under this section,
+
+for a property-tracking document in relation to a particular offence, a police
+
+officer finds:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>any document that the police officer believes, on reasonable grounds, to
+
+be:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a property-tracking document in relation to the offence, although not of a
+
+kind specified in the warrant; or</dd>
+
+<dt>(ii)</dt><dd>a property-tracking document in relation to another indictable offence; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>any thing that the police officer believes, on reasonable grounds, will
+
+afford evidence as to the commission of a criminal offence;
+
+</dd>
+
+</dl></dl></dl>
+
+and the police officer believes, on reasonable grounds, that it is necessary to seize that document or thing in order to prevent its concealment, loss or destruction, the warrant shall be deemed to authorise the police officer to seize that document or thing. 
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 72  Search warrants in relation to foreign offences 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where a police officer is authorised, under the Mutual Assistance Act, to
+
+apply to a court for a search warrant under this Act in relation to a
+
+property-tracking document in respect of a foreign serious offence, the police
+
+officer may apply for the warrant accordingly and this Division applies to the
+
+application and to any warrant issued as a result of the application as if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a reference in this Division to an indictable offence were a reference to
+
+the foreign serious offence;</dd>
+
+<dt>(b)</dt><dd>paragraph 71(1)(c) referred to the court specified in the police officer's
+
+authorisation under the Mutual Assistance Act; and</dd>
+
+<dt>(c)</dt><dd>subsection 71(8) were omitted.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>If, in the course of searching, under a warrant issued under
+
+section&#160;71, for a property-tracking document in relation to a foreign
+
+serious offence, a police officer finds:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>any document that the police officer believes, on reasonable grounds, to
+
+be a property-tracking document in relation to the offence, although not of the
+
+kind specified in the warrant; or</dd>
+
+<dt>(b)</dt><dd>any thing that the police officer believes, on reasonable grounds:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>to be relevant to a criminal proceeding or a criminal investigation in the
+
+foreign country in respect of the offence; or</dd>
+
+<dt>(ii)</dt><dd>will afford evidence of the commission of a criminal offence;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+and the police officer believes, on reasonable grounds, that it is necessary to seize that document or thing in order to prevent its concealment, loss or destruction, the warrant shall be deemed to authorise the police officer to seize that document or thing.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Where a police officer takes possession of a document under a warrant
+
+issued in respect of a foreign serious offence, the police officer may retain
+
+the document for a period not exceeding one month pending a written direction
+
+from the Attorney-General as to the manner in which the document is to be dealt
+
+with (which may include a direction that the document is to be sent to an
+
+authority of the foreign country that requested the issue of the warrant).
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+<center>**
+
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;3&#151;Monitoring orders </division> 
+**</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 73  Monitoring orders 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A police officer may apply to a Judge of the Supreme Court of a State or
+
+Territory for an order (in this section called a _monitoring order_) directing a financial institution to give information to a law
+
+enforcement authority.</dd> <dt>(1A)</dt><dd>A police officer is not empowered to make an application under this section after the commencement of the _Proceeds of Crime Act 2002_.</dd> <dt>(2)</dt><dd>A monitoring order shall direct a financial institution to give information obtained by the institution about transactions conducted through an account held by a particular person with the institution.</dd> <dt>(3)</dt><dd>A monitoring order shall apply in relation to transactions conducted during the period specified in the order (being a period commencing not earlier than the day on which notice of the order is given to the financial institution and ending not later than 3 months after the date of the order).</dd> <dt>(4)</dt><dd>A Judge shall not make a monitoring order unless he or she is satisfied that there are reasonable grounds for suspecting that the person in respect of whose account the information is sought: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>has committed, or is about to commit, an indictable offence that is a
+
+serious offence;</dd>
+
+<dt>(b)</dt><dd>was involved in the commission, or is about to be involved in the
+
+commission, of an indictable offence that is a serious offence; or</dd>
+
+<dt>(c)</dt><dd>has benefited directly or indirectly, or is about to benefit directly or
+
+indirectly, from the commission of an indictable offence that is a serious
+
+offence; or </dd>
+
+<dt>(d)</dt><dd>both:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>has committed, or is about to commit, 3 or more public fraud offences;
+
+and</dd>
+
+<dt>(ii)</dt><dd>has derived, or is about to derive, substantial benefit from the
+
+commission of any or all of those offences.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>A monitoring order shall specify:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the name or names in which the account is believed to be held;</dd>
+
+<dt>(b)</dt><dd>the class of information that the institution is required to give; and</dd>
+
+<dt>(c)</dt><dd>the law enforcement authority to which the information is to be given, and
+
+the manner in which the information is to be given.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(6)</dt><dd>Where a financial institution is, or has been, subject to a monitoring
+
+order, the fact that the monitoring order has been made shall be disregarded
+
+for the purposes of the application of sections&#160;81 and 82 in relation to
+
+the institution.</dd> <dt>(7)</dt><dd>Where a financial institution that has been given notice of a monitoring order intentionally: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>contravenes the order; or</dd>
+
+<dt>(b)</dt><dd>provides false or misleading information in purported compliance with the
+
+order;
+
+</dd>
+
+</dl></dl></dl>
+
+the institution is guilty of an offence against this subsection punishable, upon conviction, by a fine not exceeding $100,000.
+
+<dl compact="">
+
+<dt>(8)</dt><dd>A reference in this section to a transaction conducted through an account
+
+includes a reference to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the making of a fixed term deposit; and</dd>
+
+<dt>(b)</dt><dd>in relation to a fixed term deposit&#151;the transfer of the amount deposited,
+
+or any part of it, at the end of the term.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 74  Existence and operation of monitoring order not to be disclosed 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>A financial institution that is, or has been, subject to a monitoring
+
+order shall not disclose the existence or the operation of the order to any
+
+person except:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the order specifies the Australian Federal Police as the law
+
+enforcement authority to which information is to be given&#151;the Commissioner or
+
+an AFP member; or</dd>
+
+<dt>(b)</dt><dd>if the order specifies the ACC as the law enforcement authority to which
+
+information is to be given&#151;the Chief Executive Officer of the ACC, an examiner
+
+(within the meaning of the _Australian Crime Commission Act 2002_) or a
+
+member of the staff of the ACC (within the meaning of that Act); or</dd>
+
+<dt>(c)</dt><dd>an officer or agent of the institution, for the purpose of ensuring that
+
+the order is complied with; or</dd>
+
+<dt>(d)</dt><dd>a barrister or solicitor, for the purpose of obtaining legal advice or
+
+representation in relation to the order.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>A person of a kind referred to in paragraph&#160;(1)(a), (b), (c) or (d)
+
+to whom a disclosure of the existence or operation of a monitoring order has
+
+been made (whether in accordance with subsection&#160;(1) or a previous
+
+application of this subsection or otherwise) shall not:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>while he or she is such a person&#151;disclose the existence or operation of
+
+the order except to another person of a kind referred to in
+
+paragraph&#160;(1)(a), (b), (c) or (d) for the purposes of:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>if the disclosure is made by the Commissioner, an AFP member, or the Chief
+
+Executive Officer of the ACC, an examiner (within the meaning of the
+
+_Australian Crime Commission Act 2002_) or a member of the staff of the
+
+ACC (within the meaning of that Act)&#151;the performance of that person's
+
+duties;</dd>
+
+<dt>(ii)</dt><dd>if the disclosure is made by an officer or agent of the
+
+institution&#151;ensuring that the order is complied with or obtaining legal advice
+
+or representation in relation to the order; or</dd>
+
+<dt>(iii)</dt><dd>if the disclosure is made by a barrister or solicitor&#151;giving legal
+
+advice or making representations in relation to the order; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>when he or she is no longer such a person&#151;make a record of, or disclose,
+
+the existence or the operation of the order in any circumstances.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Nothing in subsection&#160;(2) prevents the disclosure by a person of a
+
+kind referred to in paragraph&#160;(1)(a) or (b) of the existence or operation
+
+of a monitoring order:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>for the purposes of, or in connection with, legal proceedings; or</dd>
+
+<dt>(b)</dt><dd>in the course of proceedings before a court.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>A person of a kind referred to in paragraph&#160;(1)(a) or (b) shall not
+
+be required to disclose to any court the existence or operation of a monitoring
+
+order.</dd> <dt>(5)</dt><dd>A person who contravenes subsection&#160;(1) or (2) is guilty of an offence against this subsection punishable, upon conviction, by: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the person is a natural person&#151;a fine not exceeding $20,000 or
+
+imprisonment for a period not exceeding 10 years, or both; or</dd>
+
+<dt>(b)</dt><dd>if the person is a body corporate&#151;a fine not exceeding $100,000.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(7)</dt><dd>A reference in this section to disclosing the existence or operation of a
+
+monitoring order to a person includes a reference to disclosing information to
+
+the person from which the person could reasonably be expected to infer the
+
+existence or operation of the monitoring order.
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 75  Monitoring orders in relation to foreign offences 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where a police officer is authorised, under the Mutual Assistance Act, to
+
+apply to a Judge of a court for a monitoring order under this Act in respect of
+
+a foreign serious offence, the police officer may apply for the order
+
+accordingly and this Division applies to the application and to any order made
+
+as a result of the application as if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a reference in this Division to an indictable offence that is a serious
+
+offence were a reference to the foreign serious offence; and</dd>
+
+<dt>(b)</dt><dd>a reference in this Division to the Supreme Court of a State or Territory
+
+were a reference to the court specified in the police officer's authorisation
+
+under the Mutual Assistance Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where a law enforcement authority is given information pursuant to a
+
+monitoring order made in relation to a foreign serious offence, the authority
+
+shall, as soon as practicable after receiving the information, pass the
+
+information on to the Attorney-General or to an officer of the
+
+Attorney-General's Department specified by the Attorney-General by written
+
+notice to the authority.
+
+</dd> </dl>
+
+<center>**
+
+###  PROCEEDS OF CRIME ACT 1987<part>Part&#160;V&#151;Offences </part>
+**</center>
+
+<center>**
+
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;3&#151;Miscellaneous </division> 
+**</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 84  Prosecution of offences 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>An offence against section&#160;52, 68, 73, 74, 81, 82 or 97 is an
+
+indictable offence.</dd> <dt>(2)</dt><dd>Notwithstanding that the offences referred to in subsection&#160;(1) are indictable offences, a court of summary jurisdiction may hear and determine proceedings in respect of an offence against section&#160;52, 68, 73, 74, 82 or 97 if the court is satisfied that it is appropriate to do so and the defendant and prosecutor consent.</dd> <dt>(3)</dt><dd>Where, in accordance with subsection&#160;(2), a court of summary jurisdiction convicts a person of an offence referred to in that subsection, the penalty that the court may impose is: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the offence is against section&#160;73&#151;a fine not exceeding $10,000;
+
+or</dd>
+
+<dt>(b)</dt><dd>if the offence is against section&#160;52, 68, 74, 82 or 97:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>if the offender is a natural person&#151;a fine not exceeding $2,000 or
+
+imprisonment for a period not exceeding 12 months, or both; or</dd>
+
+<dt>(ii)</dt><dd>if the offender is a body corporate&#151;a fine not exceeding $10,000.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 85  Conduct by directors, servants or agents 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where it is necessary, for the purposes of this Act, to establish the
+
+state of mind of a body corporate in respect of conduct engaged in, or deemed
+
+by subsection&#160;(2) to have been engaged in, by the body corporate, it is
+
+sufficient to show that a director, servant or agent of the body corporate,
+
+being a director, servant or agent by whom the conduct was engaged in within
+
+the scope of his or her actual or apparent authority, had that state of mind.</dd> <dt>(2)</dt><dd>Any conduct engaged in on behalf of a body corporate by a director, servant or agent of the body corporate within the scope of his or her actual or apparent authority is taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the body corporate, unless it establishes that it took reasonable precautions and exercised due diligence to avoid the conduct.</dd> <dt>(3)</dt><dd>Where it is necessary, for the purposes of this Act, to establish the state of mind of a person in relation to conduct deemed by subsection&#160;(4) to have been engaged in by the person, it is sufficient to show that a servant or agent of the person, being a servant or agent by whom the conduct was engaged in within the scope of his or her actual or apparent authority, had that state of mind.</dd> <dt>(4)</dt><dd>Conduct engaged in on behalf of a person other than a body corporate: </dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>by a servant or agent of the person within the scope of his or her actual
+
+or apparent authority; or</dd>
+
+<dt>(b)</dt><dd>by any other person at the direction or with the consent or agreement
+
+(whether express or implied) of a servant or agent of the first-mentioned
+
+person, where the giving of the direction, consent or agreement is within the
+
+scope of the actual or apparent authority of the servant or agent;
+
+</dd>
+
+</dl></dl></dl>
+
+shall be deemed, for the purposes of this Act, to have been engaged in by the first-mentioned person.
+
+<dl compact="">
+
+<dt>(5)</dt><dd>A reference in this section to the state of mind of a person includes a
+
+reference to the knowledge, intention, opinion, belief or purpose of the person
+
+and the person's reasons for the person's intention, opinion, belief or
+
+purpose.</dd> <dt>(6)</dt><dd>A reference in this section to a director of a body corporate includes a reference to a constituent member of a body corporate incorporated for a public purpose by a law of the Commonwealth, of a State or of a Territory. </dd> </dl>
+
+<center>**
+
+###  PROCEEDS OF CRIME ACT 1987<part>Part&#160;VI&#151;Enforcement of State orders in Territories </part>
+**</center>
+
+<center>**
+
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;1&#151;Interstate restraining orders </division> 
+**</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 86  Registration of interstate restraining orders 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>If an interstate restraining order made before the commencement of the
+
+_Proceeds of Crime Act 2002_ expressly applies to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>specified property in a Territory;</dd>
+
+<dt>(b)</dt><dd>all property in a Territory of a specified person; or</dd>
+
+<dt>(c)</dt><dd>all property (other than specified property) in a Territory of a specified
+
+person;
+
+</dd>
+
+</dl></dl></dl>
+
+a copy of the order, sealed by the court making the order, may be registered in the Supreme Court of the Territory by the person on whose application the order was made or by an appropriate officer.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>A copy of any amendments made to an interstate restraining order (before
+
+or after registration), sealed by the court making the amendments, may be
+
+registered in the same way, and the amendments do not, for the purposes of this
+
+Act, have effect until they are registered.</dd> <dt>(3)</dt><dd>Registration of an interstate restraining order may be refused to the extent that the order would not, on registration, be capable of enforcement in the Territory.</dd> <dt>(4)</dt><dd>Registration shall be effected in accordance with the rules of the Supreme Court of the Territory. </dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 87  Effect of registration 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>An interstate restraining order registered in the Supreme Court of a
+
+Territory may be enforced in the Territory as if it were a restraining order
+
+made under section&#160;43 at the time of registration.</dd> <dt>(2)</dt><dd>This Act (other than sections&#160;30, 31, 47, 48, 49, 50, 56 and 57) applies to an interstate restraining order registered in the Supreme Court of a Territory as it applies to a restraining order made under section&#160;43\. </dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 88  Duration of registration 
+**
+
+ <dl compact="">
+
+		An interstate restraining order ceases to be registered under this Act if:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the court in which it is registered receives notice that it has ceased to
+
+be in force in the State in which it was made; or</dd>
+
+<dt>(b)</dt><dd>the registration is cancelled under section&#160;89.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 89  Cancellation of registration <center>[Back to Top](#top)</center> 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The registration of an interstate restraining order in the Supreme Court
+
+of a Territory may be cancelled by the Supreme Court or a prescribed officer of
+
+the Supreme Court if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>registration was improperly obtained; or</dd>
+
+<dt>(b)</dt><dd>particulars of any amendments made to the restraining order, or of any
+
+ancillary orders or directions made by a court, are not communicated to the
+
+Supreme Court in accordance with the requirements of the rules of the Supreme
+
+Court.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The registration of an interstate restraining order in the Supreme Court
+
+of a Territory may be cancelled by the Supreme Court to the extent that the
+
+order is not capable of enforcement in the Territory.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 90  Charge on property subject to registered interstate restraining order 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>If:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an interstate restraining order is made against property in reliance on a
+
+person's conviction of an interstate indictable offence or in reliance on the
+
+charging, or proposed charging, of a person with an interstate indictable
+
+offence;</dd>
+
+<dt>(b)</dt><dd>an interstate pecuniary penalty order is made against the person in
+
+reliance on the person's conviction of that offence or a related interstate
+
+indictable offence;</dd>
+
+<dt>(c)</dt><dd>the interstate restraining order is registered under this Division in the
+
+Supreme Court of a Territory; and</dd>
+
+<dt>(d)</dt><dd>the interstate pecuniary penalty order is registered in a court of the
+
+Territory under the _Service and Execution of Process Act 1992_;
+
+</dd>
+
+</dl></dl></dl>
+
+then, upon the registration referred to in paragraph&#160;(c) or the registration referred to in paragraph&#160;(d) (whichever last occurs), a charge is created on the property to secure payment of the amount due under the interstate pecuniary order.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where a charge is created by subsection&#160;(1) on property of a person
+
+to secure payment of the amount due under an interstate pecuniary penalty
+
+order, the charge ceases to have effect in respect of the property:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>upon the quashing of the conviction in reliance on which the interstate
+
+pecuniary penalty order was made;</dd>
+
+<dt>(b)</dt><dd>upon the discharge of the interstate pecuniary penalty order by a court
+
+hearing an appeal against the making of the order;</dd>
+
+<dt>(c)</dt><dd>upon payment of the amount due under the interstate pecuniary penalty
+
+order;</dd>
+
+<dt>(e)</dt><dd>upon the sale or other disposition of the property:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>under an order made by a court under the corresponding law of the State in
+
+which the interstate pecuniary penalty order was made;</dd>
+
+<dt>(ii)</dt><dd>by the owner of the property with the consent of the court that made the
+
+interstate pecuniary penalty order; or</dd>
+
+<dt>(iii)</dt><dd>where the interstate restraining order directed a person to take control
+
+of the property&#151;by the owner of the property with the consent of that person;
+
+or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(f)</dt><dd>upon the sale of the property to a purchaser in good faith for value who,
+
+at the time of purchase, has no notice of the charge;
+
+</dd>
+
+</dl></dl></dl>
+
+whichever first occurs.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>A charge created on property by subsection&#160;(1):
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>is subject to every encumbrance on the property that came into existence
+
+before the charge and that would, apart from this subsection, have priority
+
+over the charge;</dd>
+
+<dt>(b)</dt><dd>has priority over all other encumbrances; and</dd>
+
+<dt>(c)</dt><dd>subject to subsection&#160;(2), is not affected by any change of ownership
+
+of the property.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Where a charge is created by subsection&#160;(1) on property of a
+
+particular kind and the provisions of any law of the Commonwealth or of a State
+
+or Territory provide for the registration of title to, or charges over,
+
+property of that kind, the Official Trustee or the DPP may cause the charge so
+
+created to be registered under the provisions of that law and, if the charge is
+
+so registered, a person who purchases or otherwise acquires an interest in the
+
+property after the registration of the charge shall, for the purposes of
+
+paragraph&#160;(2)(f), be deemed to have notice of the charge at the time of
+
+the purchase or acquisition.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 91  Powers of Official Trustee in relation to interstate restraining orders 
+**
+
+<dl compact="">
+
+		Where:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an interstate restraining order is registered in the Supreme Court of a
+
+Territory under this Division; and</dd>
+
+<dt>(b)</dt><dd>the restraining order directs a State official to take control of property;
+
+</dd>
+
+</dl></dl></dl>
+
+the Official Trustee may, in accordance with an agreement between the Official Trustee and the State official, exercise the same powers in relation to the property that the State official would have been able to exercise if the property were located in that State. 
+
+<center>**
+
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;2&#151;Interstate forfeiture orders </division> 
+**</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 92  Registration of interstate forfeiture orders 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>If an interstate forfeiture order made before the commencement of the
+
+_Proceeds of Crime Act 2002_ expressly applies to property in a Territory,
+
+a copy of the order, sealed by the court making the order, may be registered in
+
+the Supreme Court of the Territory by the person on whose application the order
+
+was made or by an appropriate officer.</dd> <dt>(2)</dt><dd>A copy of any amendments made to an interstate forfeiture order (before or after registration), sealed by the court making the amendments, may be registered in the same way, and the amendments do not, for the purposes of this Act, have effect until they are registered.</dd> <dt>(3)</dt><dd>Registration of an interstate forfeiture order may be refused to the extent that the order would not, on registration, be capable of enforcement in the Territory.</dd> <dt>(4)</dt><dd>Registration shall be effected in accordance with the rules of the Supreme Court of the Territory. </dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 93  Effect of registration 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>An interstate forfeiture order registered in the Supreme Court of a
+
+Territory may be enforced in the Territory as if it were a forfeiture order
+
+made under this Act at the time of registration.</dd> <dt>(2)</dt><dd>This Act (other than sections&#160;21, 22 and 100) applies to an interstate forfeiture order registered in a Territory as it applies to a forfeiture order made under section&#160;19\. </dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 94  Duration of registration 
+**
+
+ <dl compact="">
+
+		An interstate forfeiture order ceases to be registered under this Act if:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the order ceases to be in force in the State in which it was made; or</dd>
+
+<dt>(b)</dt><dd>the registration is cancelled under section&#160;95.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 95  Cancellation of registration 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The registration of an interstate forfeiture order in the Supreme Court of
+
+a Territory may be cancelled by the Supreme Court or a prescribed officer of
+
+the Supreme Court if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>registration was improperly obtained; or</dd>
+
+<dt>(b)</dt><dd>particulars of any amendments made to the forfeiture order, or of any
+
+ancillary orders or directions made by a court, are not communicated to the
+
+Supreme Court in accordance with the requirements of the rules of the Supreme
+
+Court.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The registration of an interstate forfeiture order in the Supreme Court of
+
+a Territory may be cancelled by the Supreme Court to the extent that the order
+
+is not capable of enforcement in the Territory.
+
+</dd> </dl>
+
+<center>**
+
+###  PROCEEDS OF CRIME ACT 1987<division>Division&#160;3&#151;Miscellaneous </division> 
+**</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 96  Interim registration of facsimile copies 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A facsimile copy of a sealed copy of an interstate restraining order or an
+
+interstate forfeiture order, or of a sealed copy of any amendments made to such
+
+an order, shall be regarded for the purposes of this Act as the same as the
+
+sealed copy, if the facsimile copy is itself certified in accordance with the
+
+rules of the Supreme Court.</dd> <dt>(2)</dt><dd>Registration effected by means of a facsimile copy ceases to have effect at the end of the period of 5 days commencing on the day of registration unless a sealed copy that is not a facsimile copy has been registered by that time.</dd> <dt>(3)</dt><dd>Registration of the sealed copy before the end of the period referred to in subsection&#160;(2) has effect as from the day of registration of the facsimile copy. </dd> </dl>
+
+<center>**
+
+###  PROCEEDS OF CRIME ACT 1987<part>Part&#160;VII&#151;Miscellaneous </part>
+**</center>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 96A  Organised fraud orders 
+**
+
+ _Convictions of public fraud offences_
+
+<dl compact="">
+
+<dt>(1)</dt><dd>If:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person has, at the same sitting, been convicted by a court of 3 or more
+
+public fraud offences; and</dd>
+
+<dt>(b)</dt><dd>the DPP applies to the court for an order under this subsection in
+
+relation to each of those offences; and</dd>
+
+<dt>(c)</dt><dd>the court is satisfied that the person has derived substantial benefit
+
+from the commission of any or all of those offences;
+
+</dd>
+
+</dl></dl></dl>
+
+the court must, by order, declare each of those offences to be a serious offence.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>A declaration under subsection&#160;(1) only has effect in relation to the
+
+convictions concerned.
+
+</dd> </dl>
+
+_Charges and proposed charges of public fraud offences_
+
+<dl compact="">
+
+<dt>(3)</dt><dd>If:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person has been charged with 3 or more public fraud offences; and</dd>
+
+<dt>(b)</dt><dd>the DPP applies to the relevant Supreme Court for an order under this
+
+subsection in relation to each of those offences; and</dd>
+
+<dt>(c)</dt><dd>the application for the order is supported by an affidavit of a police
+
+officer stating that the officer believes that the person has derived
+
+substantial benefit from the commission of any or all of those offences; and</dd>
+
+<dt>(d)</dt><dd>the court is satisfied, having regard to the matters contained in the
+
+affidavit, that there are reasonable grounds for holding that belief;
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+the court must, by order, declare each of those offences to be a serious offence.
+
+<dl compact="">
+
+<dt>(4)</dt><dd>A declaration under subsection&#160;(3) only has effect in relation to the
+
+charges concerned.</dd> <dt>(5)</dt><dd>If: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person is about to be charged with 3 or more public fraud offences;
+
+and</dd>
+
+<dt>(b)</dt><dd>the DPP applies to the relevant Supreme Court for an order under this
+
+subsection in relation to each of those offences; and</dd>
+
+<dt>(c)</dt><dd>the application for the order is supported by an affidavit of a police
+
+officer stating that the officer believes that the person has derived
+
+substantial benefit from the commission of any or all of those offences; and</dd>
+
+<dt>(d)</dt><dd>the court is satisfied, having regard to the matters contained in the
+
+affidavit, that there are reasonable grounds for holding that belief;
+
+</dd>
+
+</dl></dl></dl>
+
+the court must, by order, declare each of those offences to be a serious offence.
+
+<dl compact="">
+
+<dt>(6)</dt><dd>A declaration under subsection&#160;(5) only has effect in relation to the
+
+proposed charges concerned.</dd> <dt>(7)</dt><dd>If: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a restraining order is granted in reliance on the charging, or proposed
+
+charging, of a person with an ordinary indictable offence; and</dd>
+
+<dt>(b)</dt><dd>the person is subsequently convicted of the offence; and</dd>
+
+<dt>(c)</dt><dd>a court makes an order under subsection&#160;(1) in relation to the
+
+offence;
+
+</dd>
+
+</dl></dl></dl>
+
+this Act has effect as if the restraining order had been granted in reliance on the charging, or proposed charging, of the person with a serious offence. 
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 97  Dealings with forfeited property 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A person who knows that a forfeiture order has been made in respect of
+
+registrable property shall not, unless the forfeiture order has been
+
+discharged, dispose of, or otherwise deal with, the property before the
+
+Commonwealth's interest has been registered on the appropriate register.</dd> <dt>(2)</dt><dd>A person who contravenes subsection&#160;(1) is guilty of an offence against this section punishable, upon conviction, by: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>where the offender is a natural person&#151;a fine not exceeding $10,000 or
+
+imprisonment for a period not exceeding 5 years, or both; or</dd>
+
+<dt>(b)</dt><dd>if the offender is a body corporate&#151;a fine not exceeding $50,000.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 98  State and Territory courts to have jurisdiction 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Jurisdiction is vested in the several courts of the States and Territories
+
+with respect to matters arising under this Act.</dd> <dt>(2)</dt><dd>Subject to this section, the jurisdiction vested in a court by virtue of subsection&#160;(1) is not limited by any limits to which any other jurisdiction of the court may be subject.</dd> <dt>(3)</dt><dd>A court cannot make a forfeiture order in respect of property if the court does not have jurisdiction with respect to the recovery of property of that kind.</dd> <dt>(3A)</dt><dd>A court may make a forfeiture order in respect of property even though, apart from this section, the court does not have jurisdiction with respect to property whose value equals the value of that property.</dd> <dt>(4)</dt><dd>A reference in subsection&#160;(3) to a court having jurisdiction with respect to the recovery of property includes a reference to the court having jurisdiction, under a corresponding law, to make an interstate forfeiture order in respect of property.</dd> <dt>(5)</dt><dd>Where: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a court makes a pecuniary penalty order of a particular amount; and</dd>
+
+<dt>(b)</dt><dd>the court does not have jurisdiction with respect to the recovery of debts
+
+of an amount equal to that amount, the registrar of the court must issue a
+
+certificate containing the prescribed particulars.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(5A)</dt><dd>The certificate may be registered, in accordance with the regulations, in
+
+a court having jurisdiction with respect to the recovery of debts of an amount
+
+equal to the amount of the pecuniary penalty order.</dd> <dt>(5B)</dt><dd>Upon registration in a court, the certificate is enforceable in all respects as a final judgment of the court in favour of the Commonwealth.</dd> <dt>(6)</dt><dd>Jurisdiction is vested in a court of a Territory (including the Northern Territory) by virtue of subsection&#160;(1) so far only as the Constitution permits.</dd> <dt>(7)</dt><dd>Where an application for a confiscation order is made to a court before which a person was convicted of an indictable offence: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the application may be dealt with by the court; and</dd>
+
+<dt>(b)</dt><dd>any power in relation to the confiscation order may be exercised by the
+
+court;
+
+</dd>
+
+</dl></dl></dl>
+
+whether or not the court is constituted in the same way in which it was constituted when the person was convicted of the indictable offence. 
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 99  Standard of proof 
+**
+
+ <dl compact="">
+
+		Subject to section&#160;17, any question of fact to be decided by a court on
+
+an application under this Act is to be decided on the balance of probabilities.
+
+ </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 100  Appeals 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A person who has an interest in property against which a forfeiture order
+
+is made may appeal against that order:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in the case of a person convicted of the offence in reliance on which the
+
+order was made&#151;in the same manner as if the order were, or were part of, a
+
+sentence imposed on the person in respect of the offence; or</dd>
+
+<dt>(b)</dt><dd>in any other case&#151;in the same manner as if the person had been convicted
+
+of the offence in reliance on which the order was made and the order were, or
+
+were part of, a sentence imposed on the person in respect of the offence.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>A person against whom a pecuniary penalty order is made may appeal against
+
+that order in the same manner as if it were, or were part of, a sentence
+
+imposed on the person in respect of the offence in reliance on which the order
+
+was made.</dd> <dt>(3)</dt><dd>Where a court: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>makes a pecuniary penalty order; and</dd>
+
+<dt>(b)</dt><dd>makes an order under subsection 28(3) declaring that particular property
+
+is available to satisfy the order;
+
+</dd>
+
+</dl></dl></dl>
+
+a person who has an interest in the property may appeal against the order under subsection 28(3) in the same manner as if the person had been convicted of the offence in reliance on which the order was made and the order were, or were part of, a sentence imposed on the person in respect of the offence.
+
+<dl compact="">
+
+<dt>(4)</dt><dd>On an appeal against a forfeiture order, a pecuniary penalty order or an
+
+order made under subsection 28(3), the order may be confirmed, discharged or
+
+varied.</dd> <dt>(5)</dt><dd>The DPP may appeal against a forfeiture order, a pecuniary penalty order or an order under subsection 28(3) or against the refusal of a court to make such an order in the same manner as if the order were, or were part of, a sentence imposed in respect of the offence in reliance on which the order was made.</dd> <dt>(6)</dt><dd>Nothing in this section shall be taken to affect any right of appeal that a person would have apart from this section. </dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 101  Costs 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where:
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a person brings, or appears at, proceedings under this Act before a court
+
+in order:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>to prevent a forfeiture order or restraining order from being made against
+
+property of the person; or</dd>
+
+<dt>(ii)</dt><dd>to have property of the person excluded from a forfeiture order or
+
+restraining order;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>the person is successful in those proceedings; and</dd>
+
+<dt>(c)</dt><dd>the court is satisfied that the person was not involved in any way in the
+
+commission of the offence in respect of which the forfeiture order or
+
+restraining order was sought or made;
+
+</dd>
+
+</dl></dl></dl>
+
+the court may order the Commonwealth to pay all costs incurred by the person in connection with the proceedings or such part of those costs as is determined by the court.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The costs referred to in subsection&#160;(1) are not limited to costs of a
+
+kind that are normally recoverable by the successful party to civil proceedings.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 102  Legal assistance 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A person who brings, or appears at, or proposes to bring or appear at,
+
+proceedings under this Act in order:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to prevent a forfeiture order or restraining order from being made against
+
+property of the person; or</dd>
+
+<dt>(b)</dt><dd>to have property of the person excluded from a forfeiture order or
+
+restraining order;
+
+</dd>
+
+</dl></dl></dl>
+
+may apply to the Attorney-General for the provision of assistance under this section.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Where a person applies for assistance under this section, the
+
+Attorney-General may, if satisfied that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>it would involve hardship to the applicant to refuse the application;
+
+and</dd>
+
+<dt>(b)</dt><dd>it is reasonable, in all the circumstances, that the application should be
+
+granted;
+
+</dd>
+
+</dl></dl></dl>
+
+authorise the provision by the Commonwealth to the applicant of such legal or financial assistance in relation to the proceedings as the Attorney-General determines.
+
+<dl compact="">
+
+<dt>(3)</dt><dd>An authorisation under subsection&#160;(2) may be made either
+
+unconditionally or subject to such conditions as the Attorney-General determines.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 102A  Indemnification of Official Trustee 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Commonwealth is, by force of this subsection, liable to indemnify the
+
+Official Trustee against any personal liability (including any personal
+
+liability as to costs) incurred by it for any act done, or omitted to be done,
+
+by it in the exercise, or purported exercise, of its powers and duties under
+
+this Act.</dd> <dt>(2)</dt><dd>Nothing in subsection&#160;(1) affects: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>any right that the Official Trustee has, apart from that subsection, to be
+
+indemnified in respect of any personal liability referred to in that
+
+subsection; or</dd>
+
+<dt>(b)</dt><dd>any other indemnity given to the Official Trustee in respect of any such
+
+personal liability.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>Where the Commonwealth makes a payment in accordance with the indemnity
+
+referred to in subsection&#160;(1), the Commonwealth has the same right of
+
+reimbursement in respect of the payment (including reimbursement under another
+
+indemnity given to the Official Trustee) as the Official Trustee would have if
+
+the Official Trustee had made the payment.
+
+</dd> </dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 103  Operation of other laws not affected 
+**
+
+ <dl compact="">
+
+		Nothing in this Act limits or restricts:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the operation of any other law of the Commonwealth or of a Territory
+
+providing for the forfeiture of property or the imposition of pecuniary
+
+penalties; or</dd>
+
+<dt>(b)</dt><dd>the remedies available to the Commonwealth, apart from this Act, for the
+
+enforcement of its rights and the protection of its interests.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  PROCEEDS OF CRIME ACT 1987- SECT 104  Regulations 
+**
+
+ <dl compact="">
+
+		The Governor-General may make regulations, not inconsistent with this Act,
+
+prescribing matters:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
+
+<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
+
+to this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  PROCEEDS OF CRIME ACT 1987<centreit>Notes to the _Proceeds of Crime Act 1987_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Proceeds of Crime Act 1987_ as shown in this compilation comprises Act No.&#160;87, 1987 amended as indicated in the Tables below.
+ The _Proceeds of Crime Act 1987_ is affected by section&#160;45 of the _CSL Sale Act 1993_.
+ All relevant information pertaining to application, saving or transitional provisions prior to 24&#160;November 2000 is not included in this compilation. For subsequent information _see_ Table A.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
+and year</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
+of Assent</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Proceeds of Crime Act 1987</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>87, 1987</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>5&#160;June 1987</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>5&#160;June 1987</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Crimes Legislation Amendment Act 1987</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>120, 1987</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>16 Dec 1987</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 34-46 and 
+48-50: Royal Assent <i>(a)</i> 
+S. 47: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S359) <i>(a)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Law and Justice Legislation Amendment Act 1988</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>120, 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>14 Dec 1988</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Part&#160;XVI (ss. 
+48-69): <i>(b)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 62(2)</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Crimes Legislation Amendment Act 1991</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>28, 1991</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>4 Mar 1991</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 57, 59: Royal Assent <i>(c)</i> 
+S. 58: 4 Mar 1992 <i>(c)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 58(2)-(4)</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Proceeds of Crime Legislation Amendment Act 1991</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>120, 1991</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>27&#160;June 1991</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 1 and 2: Royal Assent 
+Remainder: 27 Dec 1991 ( <i>see</i>s. 2(3))</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Crimes Legislation Amendment Act (No.&#160;2) 1991</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>123, 1991</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>23 Aug 1991</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 5-34 and 38-50: 20 Sept 1991 
+Ss. 35-37: 6 Dec 1991 ( <i>see Gazette</i>1991, No. S330) 
+S. 51: 23 Feb 1992 ( <i>see</i>s. 2(5)) Remainder: Royal Assent</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 41(2), 42(2), (3), 43(2), 47, 48(2) and 49(2)</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Crimes Legislation Amendment Act 1992</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>164, 1992</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>11 Dec 1992</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Part&#160;1 (ss. 1, 2) and Parts&#160;3-11 (ss. 
+18-53): 8 Jan 1993 
+Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Service and Execution of Process (Transitional Provisions and Consequential Amendments) Act 1992</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>166, 1992</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>11 Dec 1992</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>10 Apr 1993: ( <i>see</i>s.&#160;2 and <i>Gazette</i>1993, No. GN13)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Banking (State Bank of South Australia and Other Matters) Act 1994</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>69, 1994</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>9&#160;June 1994</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 66-68: Royal Assent <i>(d)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 66</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Crimes and Other Legislation Amendment Act 1994</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>182, 1994</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>19 Dec 1994</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 31 <i>(e)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>International War Crimes Tribunals (Consequential Amendments) Act 1995</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>19, 1995</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>29 Mar 1995</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 3: 28 Aug 1995 ( <i>see Gazette</i>1995, No. S323) 
+Remainder: Royal Assent</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Mutual Assistance in Criminal Matters Legislation Amendment Act 1996</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>40, 1996</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>9 Oct 1996</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 1-3: Royal Assent 
+Remainder: 1 Mar 1997 ( <i>see Gazette</i>1997, No. S50)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Proceeds of Crime Amendment Act 1997</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>8, 1997</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>5 Mar 1997</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>5 Mar 1997</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Crimes and Other Legislation Amendment Act 1997</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>20, 1997</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>7 Apr 1997</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;1 (items&#160;21-23, 27): 28 Aug 1995 <i>(f)</i> 
+Schedule&#160;1 (items&#160;24-26, 28): Royal Assent <i>(f)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Audit (Transitional and Miscellaneous) Amendment Act 1997</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>152, 1997</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>24 Oct 1997</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;2 (items1098-1112): 1&#160;Jan 1998 ( <i>see Gazette</i>1997, No.&#160;GN49) <i>(g)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Financial Sector Reform (Consequential Amendments) Act 1998</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>48, 1998</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>29&#160;June 1998</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;1 (items&#160;134-148): 1&#160;July 1998 ( <i>see Gazette</i>1998, No.&#160;S316) <i>(h)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Financial Sector Reform (Amendments and Transitional Provisions) Act (No.&#160;1) 1999</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>44, 1999</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>17&#160;June 1999</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;7 (items&#160;129-132: 1&#160;July 1999 ( <i>see Gazette</i>1999, No.&#160;S283) <i>(i)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>as amended by</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Financial Sector Legislation Amendment Act (No. 1) 2000</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>160, 2000</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>21 Dec 2000</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 1 (item&#160;21): Royal Assent 
+Remainder: 18 Jan 2001</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>146, 1999</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>11 Nov 1999</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;1 (item&#160;748): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(j)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>137, 2000</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>24 Nov 2000</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent 
+Remainder: 24&#160;May 2001</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Sch. 2 (items&#160;418, 419) \[ <i>see</i>Table A]</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>24, 2001</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>6 Apr 2001</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 4(1), (2) and Schedule 41: (k)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>National Crime Authority Legislation Amendment Act 2001</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>135, 2001</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1 Oct 2001</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedules 1-7, 
+9-12: 12 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
+Schedule 8: 13 Oct 2001 ( <i>see Gazette</i>2001, No. S428) 
+Remainder: Royal Assent</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>86, 2002</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>11 Oct 2002</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Ss. 1-3: Royal Assent 
+Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Sch. 7 (items 
+14-16) \[ <i>see</i>Table A]</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Australian Crime Commission Establishment Act 2002</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>125, 2002</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>10 Dec 2002</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 2 (items&#160;107-115 and 226): 1&#160;Jan 2003</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Sch. 2 (item&#160;226) \[ <i>see</i>Table A]</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Bankruptcy Legislation Amendment Act 2004</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>80, 2004</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>23 June 2004</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 1 (items&#160;199, 212, 213, 215): 1&#160;Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No.&#160;GN34)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Sch. 1 (items 212, 213, 215) \[ <i>see</i>Table A]</div>
+
+  </td>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _Proceeds of Crime Act 1987_ was amended by sections&#160;34-50 only of the _Crimes Legislation Amendment Act 1987_, subsections 2(1) and (2) of which provide as follows: 
+
+	(1)	Sections&#160;11, 14, 16, 17, 18, 47, 70, 71, 72, 73, 74 and 75 and paragraph 69(b) shall come into operation on a day or days to be fixed by Proclamation. 
+ 	(2)	Parts II, VI, VII, VIII (other than section&#160;47) and IX and Schedule&#160;4 shall come into operation on the day on which this Act receives the Royal Assent.
+
+_(b)_	The _Proceeds of Crime Act 1987_ was amended by Part&#160;XVI (sections&#160;48-69) only of the _Law and Justice Legislation Amendment Act 1988_, subsections 2(3) and (9) of which provide as follows:
+
+	(3)	Parts VIII, IX and XVI (except the provisions referred to in subsection&#160;(9)) commence on the twenty-eighth day after the day on which this Act receives the Royal Assent.
+ 	(9)	Sections&#160;20, 47, 51, 52, 53, 57, 62 and 65 commence on a day or days to be fixed by Proclamation.
+
+ In pursuance of subsection 2(3) sections&#160;48-50, 54-56, 58-61, 63, 64 and 66-69 commenced on 11&#160;January 1989.
+ 	In pursuance of subsection 2(9) sections&#160;47, 51-53, 57, 62 and 65 commenced on 5&#160;September 1989 (_see Gazette_ 1989, No. S296).
+ _(c)_	The _Proceeds of Crime Act 1987_ was amended by sections&#160;57-59 only of the _Crimes Legislation Amendment Act 1991_, subsections 2(1), (4) and (5) of which provide as follows: 
+
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent. 
+ 	(4)	Subject to subsection&#160;(5), section&#160;58 commences on a day to be fixed by Proclamation. 
+ 	(5)	If section&#160;58 does not commence within the period of 12 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+
+_(d)_	The _Proceeds of Crime Act 1987_ was amended by sections&#160;66-68 only of the _Banking (State Bank of South Australia and Other Matters) Act 1994_, subsection 2(1) of which provides as follows: 
+
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(e)_	The _Proceeds of Crime Act 1987_ was amended by section&#160;31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsections 2(1) and (4) of which provide as follows: 
+
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+ 	(4)	The amendments made by this Act to the _Australian Federal Police Act 1979_, the _Crimes (Aviation) Act 1991_ (other than the amendment made to Schedule&#160;5 to that Act), the _Crimes (Hostages) Act 1989_, the _Crimes (Internationally Protected Persons) Act 1976_, the _Crimes (Overseas) Act 1964_, the _Crimes (Superannuation Benefits) Act 1989_, the _Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_, the _Customs Act 1901_, the _Director of Public Prosecutions Act 1983_, the _Extradition Act 1988_, the _Financial Transaction Reports Act 1988_ and to sections&#160;23 and 59 of the _Proceeds of Crime Act 1987_ commence on the 28th day after the day on which this Act receives the Royal Assent.
+
+_(f)_	The _Proceeds of Crime Act 1987_ was amended by Schedule&#160;1 (items&#160;21-28) only of the _Crimes and Other Legislation Amendment Act 1997_, section&#160;2 of which provides as follows:
+
+	(1)	Subject to subsection&#160;(2), this Act commences on the day on which it receives the Royal Assent.
+ 	(2)	Items&#160;21, 22, 23 and 27 of Schedule&#160;1 are taken to have commenced on 28&#160;August 1995, immediately after the commencement of the Schedule to the _International War Crimes Tribunals (Consequential Amendments) Act 1995_.
+
+_(g)_	The _Proceeds of Crime Act 1987_ was amended by Schedule&#160;2 (items1098-1112) only of the _Audit (Transitional and Miscellaneous_)_Amendment Act 1997,_ subsection 2(2) of which provides as follows:
+
+	(2)	Schedules&#160;1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+_(h)_	The _Proceeds of Crime Act 1987_ was amended by Schedule&#160;1 (items&#160;134-148) only of the _Financial Sector Reform (Consequential Amendments) Act 1998,_ subsection 2(2) of which provides as follows:
+
+	(2)	Subject to subsections&#160;(3) to (14), Schedules&#160;1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
+
+_(i)_ The _Proceeds of Crime Act 1987_ was amended by Schedule&#160;7 (items&#160;129-132) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsections 3(2)(e) and (16) of which provides as follows:
+
+	(2)	The following provisions commence on the transfer date:
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(e)</dt><dd>subject to subsection&#160;(12), Schedule 7, other than items 43, 44, 118,
+
+205 and 207 (the commencement of those items is covered by subsections (10),
+
+<dt>(11)</dt><dd>and (13)).
+
+</dd></dd>
+
+</dl></dl></dl>
+
+	(16)	The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act. 
+
+_(j)_	The _Proceeds of Crime Act 1987_ was amended by Schedule&#160;1 (item&#160;748) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+ 	(2)	Subject to this section, this Act commences at the commencing time.
+
+_(k)_	The _Proceeds of Crime Act 1987_ was amended by Schedule 41 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
+
+	(1)	Subject to this section, this Act commences at the later of the following times:
+
+	(a)	immediately after the commencement of item&#160;15 of Schedule&#160;1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
+
+	Item 15 commenced on 24 May 2001.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Part I</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 4</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; Nos. 28 and 120, 1991; No.&#160;164, 1992; No.182, 1994; Nos. 8 and 152, 1997; No.&#160;48, 1998; Nos. 44 and 146, 1999; No. 137, 2000; Nos. 86 and 125, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to s. 7</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 137, 2000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 7</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 137, 2000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 9A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;120, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 13A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No. 24, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Part II</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 1</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 14</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 18</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;123, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 2</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 20</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1991; No.&#160;164, 1992; No.&#160;152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 21</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120 1988; No.&#160;120, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 22</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 2A</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to Div. 2A of Part&#160;II</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;120, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;19, 1995</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 23</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1988; No.&#160;182, 1994</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;19, 1995</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;20, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to s. 23A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;19, 1995</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 23A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;120, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;19, 1995; No.&#160;20, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 3</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 27</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1988; No.&#160;123, 1991; No. 80, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 28</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 4</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 30</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; Nos. 120 and 123, 1991; No.&#160;164, 1992; Nos. 20 and 152, 1997; No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 30A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;20, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 31</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; No.&#160;120, 1988; No.&#160;120, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 32</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 5</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 34</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Part IIA</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to Part&#160;IIA</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Part&#160;IIA</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;120, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 34A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;120, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to s. 34B</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 34B</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;120, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;8, 1997; No.&#160;152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to s. 34C</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 34C</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;120, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;19, 1995; Nos. 8, 20 and 152, 1997; No. 137, 2000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 34D</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;120, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;8, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 34E</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;120, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Part III</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 1</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 35</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 36</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 38</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 39</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 135, 2001; No. 125, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 40</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; No. 135, 2001; No. 125, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 2</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 43</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; No.&#160;120, 1988; No.&#160;123, 1991; No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 44</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; No.&#160;120, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 45</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; No.&#160;123, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 45A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;123, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 48</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; No.&#160;120, 1988; No.&#160;123, 1991; No.&#160;164, 1992</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 48A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;120, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 49</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1988; No.&#160;120, 1991; No.&#160;164, 1992; No.&#160;152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 50</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;28, 1991; No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 51</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 52</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 24, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 53</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; No.&#160;120, 1988; No.&#160;120, 1991; No.&#160;164, 1992</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 55</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;120, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 57</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1988; No.&#160;123, 1991; No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 59</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;182, 1994; No.&#160;40, 1996; No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 60</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;164, 1992</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 63</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1991; No.&#160;152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Part IV</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 1</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 66</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; No.&#160;120, 1988; No.&#160;123, 1991; No.&#160;48, 1998; No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 67</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;120, 1987</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 68</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 24, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 2</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 70</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 71</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; No.&#160;120, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 3</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 73</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; No. 137, 2000; No. 24, 2001; No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 74</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; No. 125, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Div. 4 of Part IV</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 76</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 77, 78</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 24, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to s. 78A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;48, 1998</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Subhead to s. 78A(2)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;48, 1998</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Subhead to s. 78A(4)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;48, 1998</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Subhead to s. 78A(5)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;48, 1998</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 78A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;69, 1994</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;48, 1998; No. 24, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Heading to s. 78B</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;48, 1998</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Subhead to s. 78B(2)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;48, 1998</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Subhead to s. 78B(3)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;48, 1998</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Subhead to s. 78B(4)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;48, 1998</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 78B</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;69, 1994;</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;48, 1998</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 79, 80</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;120, 1987</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Part V</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Div. 1 of Part V</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 81, 82</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Div. 2 of Part V</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 137, 2000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 83</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 137, 2000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 3</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 84</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987; No. 137, 2000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 85</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1988; No.&#160;20, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Part VI</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 1</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 86</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 88</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;120, 1987</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 90</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;166, 1992; No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 2</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 92</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 86, 2002</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Part VII</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 96A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No. 137, 2000</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 98</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;123, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 102A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;120, 1987</div>
+
+  </td>
+</tr></table> 
+<center>Back to Top</center>
+  <center>**
+
+###  Table A 
+**</center>  **Table A**
+
+**Application, saving or transitional provisions**
+
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_(No.&#160;137, 2000)
+
+**Schedule&#160;2** **418  Transitional&#151;pre-commencement offences** (1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an offence committed before the commencement of this item; or</dd>
+
+<dt>(b)</dt><dd>proceedings for an offence alleged to have been committed before the
+
+commencement of this item; or</dd>
+
+<dt>(c)</dt><dd>any matter connected with, or arising out of, such proceedings;
+
+</dd>
+
+</dl></dl></dl>
+
+as if the amendment or repeal had not been made.
+
+(2)	Subitem&#160;(1) does not limit the operation of section&#160;8 of the _Acts Interpretation Act 1901_.
+
+**419  Transitional&#151;pre-commencement notices**
+
+If:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a provision in force immediately before the commencement of this item
+
+required that a notice set out the effect of one or more other provisions;
+
+and</dd>
+
+<dt>(b)</dt><dd>any or all of those other provisions are repealed by this Schedule; and</dd>
+
+<dt>(c)</dt><dd>the first-mentioned provision is amended by this Schedule;
+
+</dd>
+
+</dl></dl></dl>
+
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_ (No. 24, 2001) 
+
+**4  Application of amendments**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(3), each amendment made by this Act applies to
+
+acts and omissions that take place after the amendment commences.</dd> <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd> </dl>
+
+_Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002_(No. 86, 2002)
+
+**Schedule 7** **14  Effect on existing applications and orders** The amendments made by this Part of this Schedule do not affect:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>applications made under the _Proceeds of Crime Act 1987_ before the
+
+commencement of the _Proceeds of Crime Act 2002_; or</dd>
+
+<dt>(b)</dt><dd>orders made, or warrants or search warrants issued, under the _Proceeds of Crime Act 1987_ before or after that commencement.
+
+</dd>
+
+</dl></dl></dl>
+
+**15  Use of property etc. for purposes of the _Proceeds of Crime Act 2002_**
+
+To avoid doubt, the fact that property, documents or information have:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>been seized or otherwise obtained under the _Proceeds of Crime Act 1987_; or</dd>
+
+<dt>(b)</dt><dd>been obtained as a direct or indirect result of action taken under that
+
+Act;
+
+</dd>
+
+</dl></dl></dl>
+
+does not prevent the property, documents or information being used for the purposes of the _Proceeds of Crime Act 2002_.
+
+**16  Obligations of financial institutions**
+
+Despite the repeal of Division&#160;4 of Part&#160;IV of the _Proceeds of Crime Act 1987_ by Schedule&#160;3 to this Act:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>that Division continues to apply in relation to any document in relation
+
+to which it applied immediately before the commencement of sections&#160;3 to
+
+338 of the _Proceeds of Crime Act 2002_; and</dd>
+
+<dt>(b)</dt><dd>Part&#160;VIA of the _Financial Transaction Reports Act 1988_ does
+
+not apply to any such document.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+_Australian Crime Commission Establishment Act 2002_(No. 125, 2002)
+
+**Schedule 2** **226  Transitional regulations** (1)	The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the amendments made by this Schedule.
+ (2)	Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations made under this item within 1 year after commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+
+_Bankruptcy Legislation Amendment Act 2004_ (No. 80, 2004)
+
+**Schedule 1** **212  Transitional&#151;pre-commencement deeds and compositions** (1)	For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part&#160;X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
+ (2)	For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section&#160;204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
+ (3)	Despite the repeals and amendments made by Parts&#160;1 and 2 of this Schedule:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the _Bankruptcy Act 1966_ and regulations under that Act; and</dd>
+
+<dt>(b)</dt><dd>the Acts amended by Part&#160;2 of this Schedule;
+
+</dd>
+
+</dl></dl></dl>
 
 continue to apply, in relation to:
 
-                     (c)  a pre-commencement deed; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  a pre-commencement composition; and
+<dt>(c)</dt><dd>a pre-commencement deed; and</dd>
 
-                     (e)  any matter connected with, or arising out of:
+<dt>(d)</dt><dd>a pre-commencement composition; and</dd>
 
-                              (i)  a pre-commencement deed; or
+<dt>(e)</dt><dd>any matter connected with, or arising out of:
 
-                             (ii)  a pre-commencement composition;
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a pre-commencement deed; or</dd>
+
+<dt>(ii)</dt><dd>a pre-commencement composition;
+
+</dd>
+
+</dl></dl></dl></dl>
 
 as if those repeals had not happened and those amendments had not been made.
 
-## 213  Transitional—pre-commencement authorities
+**213  Transitional&#151;pre-commencement authorities**
 
-(1)        For the purposes of this item, if:
+(1)	For the purposes of this item, if:
 
-                     (a)  an authority given by a debtor under section 188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  as at the commencement of this item, none of the following had happened:
+<dt>(a)</dt><dd>an authority given by a debtor under section&#160;188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and</dd>
 
-                              (i)  the execution by the debtor and the trustee of a deed of assignment under Part X of the _Bankruptcy Act 1966_;
+<dt>(b)</dt><dd>as at the commencement of this item, none of the following had happened:
 
-                             (ii)  the execution by the debtor and the trustee of a deed of arrangement under Part X of the _Bankruptcy Act 1966_;
+</dd>
 
-                            (iii)  the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the _Bankruptcy Act 1966_;
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the execution by the debtor and the trustee of a deed of assignment under
+
+Part&#160;X of the _Bankruptcy Act 1966_;</dd>
+
+<dt>(ii)</dt><dd>the execution by the debtor and the trustee of a deed of arrangement
+
+under Part&#160;X of the _Bankruptcy Act 1966_;</dd>
+
+<dt>(iii)</dt><dd>the acceptance of a composition by a special resolution of a meeting of
+
+the debtor's creditors under section&#160;204 of the _Bankruptcy Act 1966_;
+
+</dd>
+
+</dl></dl></dl></dl>
 
 the authority is a **_pre-commencement authority_**.
 
-(2)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(2)	Despite the repeals and amendments made by Parts&#160;1 and 2 of this Schedule:
 
-                     (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the Acts amended by Part 2 of this Schedule;
+<dt>(a)</dt><dd>the _Bankruptcy Act 1966_ and regulations under that Act; and</dd>
+
+<dt>(b)</dt><dd>the Acts amended by Part&#160;2 of this Schedule;
+
+</dd>
+
+</dl></dl></dl>
 
 continue to apply, in relation to:
 
-                     (c)  a pre-commencement authority; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  the control of the debtor’s property following a pre-commencement authority becoming effective; and
+<dt>(c)</dt><dd>a pre-commencement authority; and</dd>
 
-                     (e)  a meeting of the debtor’s creditors called under a pre-commencement authority; and
+<dt>(d)</dt><dd>the control of the debtor's property following a pre-commencement
 
-                      (f)  whichever of the following is applicable:
+authority becoming effective; and</dd>
 
-                              (i)  a deed of assignment executed after the commencement of this item by the debtor and the trustee under Part X of the _Bankruptcy Act 1966_ in accordance with a special resolution of such a meeting;
+<dt>(e)</dt><dd>a meeting of the debtor's creditors called under a pre-commencement
 
-                             (ii)  a deed of arrangement executed after the commencement of this item by the debtor and the trustee under Part X of the _Bankruptcy Act 1966_ in accordance with a special resolution of such a meeting;
+authority; and</dd>
 
-                            (iii)  a composition accepted after the commencement of this item by a special resolution of such a meeting; and
+<dt>(f)</dt><dd>whichever of the following is applicable:
 
-                     (g)  any other matter connected with, or arising out of:
+</dd>
 
-                              (i)  a pre-commencement authority; or
+</dl></dl></dl>
 
-                             (ii)  a deed of assignment mentioned in subparagraph (f)(i); or
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                            (iii)  a deed of arrangement mentioned in subparagraph (f)(ii); or
+<dt>(i)</dt><dd>a deed of assignment executed after the commencement of this item by the
 
-                            (iv)  a composition mentioned in subparagraph (f)(iii);
+debtor and the trustee under Part&#160;X of the _Bankruptcy Act 1966_ in
+
+accordance with a special resolution of such a meeting;</dd>
+
+<dt>(ii)</dt><dd>a deed of arrangement executed after the commencement of this item by the
+
+debtor and the trustee under Part&#160;X of the _Bankruptcy Act 1966_ in
+
+accordance with a special resolution of such a meeting;</dd>
+
+<dt>(iii)</dt><dd>a composition accepted after the commencement of this item by a special
+
+resolution of such a meeting; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(g)</dt><dd>any other matter connected with, or arising out of:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>a pre-commencement authority; or</dd>
+
+<dt>(ii)</dt><dd>a deed of assignment mentioned in subparagraph&#160;(f)(i); or</dd>
+
+<dt>(iii)</dt><dd>a deed of arrangement mentioned in subparagraph&#160;(f)(ii); or</dd>
+
+<dt>(iv)</dt><dd>a composition mentioned in subparagraph&#160;(f)(iii);
+
+</dd>
+
+</dl></dl></dl></dl>
 
 as if those repeals had not happened and those amendments had not been made.
 
-## 215  Transitional—regulations
+**215  Transitional&#151;regulations**
 
-(1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
+(1)	The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts&#160;1 and 2 of this Schedule.
+ (2)	The Governor-General may make regulations for the purposes of subitem&#160;(1).
 
-(2)        The Governor-General may make regulations for the purposes of subitem (1).
+</def>
 
-* * *
+</def>
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)<o:p></o:p>_
+</def>
 
-##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
+</def>
 
-             (1)  If:
+</def>
 
-                     (a)  a decision or action is taken or another thing is made, given or done; and
+</def>
 
-                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
+</def>
 
-then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
+</def>
 
-             (2)  In this section:
+</def></def>
 
-                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
+</def></def>
 
-## Schedule 1<o:p></o:p>
+</def>
 
-## 496  Saving provision—Finance Minister’s determinations
+</def>
 
-If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
+</def></def>
+
+</def></def></def>
+
+</def></def>
+
+</def></def></def></def>
+
+</def></def></def></def>
+
+</def></def></def>
+
+</def></def></def></def>
 
 
-<o:p> </o:p>
