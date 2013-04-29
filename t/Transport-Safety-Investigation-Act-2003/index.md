@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00798/Html/4bf493f4-f347-4b30-a0db-8fb31965df8c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00366/Html/0181458d-44e7-41ed-a0da-b8ed7b97f39b_files/image001.gif)
 
 # Transport Safety Investigation Act 2003
 
 **Act No. 18 of 2003 as amended**
 
-This compilation was prepared on 8 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 28 March 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -353,10 +354,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
     <div>A single day to be fixed by Proclamation, subject to subsection (3)</div>
   </td>
   <td>
-    <div>1 July 2003</div>
-    <div>(
+    <div>1 July 2003
+
+(
       <i>see</i>
-      <i>Gazette</i>2003, No. S229)</div>
+      <i>Gazette</i>2003, No. S229)</div>
   </td>
 </tr></table>
 
@@ -408,7 +410,7 @@ together with such area around the site as the Chief Commissioner determines to 
 
                     <a name="australian-court"></a>**_Australian court_** means a federal court or a court of a State or Territory.
 
-                    <a name="australian-defenc-aircraft"></a>**_Australian defence aircraft_** means an aircraft used by the Australian Defence Force but does not include an aircraft that is registered under regulations made under the _Civil Aviation Act 1988_.
+                    <a name="australian-defenc-aircraft"></a>**_Australian defence aircraft_** means an aircraft used by the Australian Defence Force but does not include an aircraft that is registered under the Civil Aviation Regulations.
 
                     <a name="australian-defenc-ship"></a>**_Australian defence ship_** means a ship used by the Australian Defence Force.
 
@@ -644,7 +646,7 @@ Note:          See also section 49 which allows the ATSB to 
 
                    This Act extends to acts, omissions, matters and things outside Australia, unless the contrary intention appears.
 
-##### <a id="8"></a>8  Application of _Criminal Code_
+##### <a id="8"></a>8  Application of _Criminal Code_
 
              (1)  Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
@@ -826,9 +828,9 @@ However, even though blame or liability may be inferred, or an adverse inference
 
 Note:          This means that the ATSB and the Chief Commissioner would not, for example, be subject to direction from anyone in relation to:
 
-(a)    how a particular investigation will be carried out; or
+(a)           how a particular investigation will be carried out; or
 
-(b)    the content of a public report on a particular investigation.
+(b)           the content of a public report on a particular investigation.
 
 ##### <a id="12AC"></a>12AC  Minimal disruption to transport services
 
@@ -1000,7 +1002,7 @@ Minutes
 
              (6)  The ATSB must ensure that minutes of its meetings are kept.
 
-##### <a id="14AA"></a>14AA  Disclosure of interests
+##### <a id="14AA"></a>14AA  Disclosure of interests
 
              (1)  If a Commissioner has an interest, pecuniary or otherwise, in a matter being considered, or about to be considered, at the meeting, the Commissioner must disclose the nature of that interest to the other Commissioners.
 
@@ -1356,9 +1358,9 @@ Note:          A defendant bears an evidential burden in relat
 
                     Penalty:
 
-                     (a)  in the case of a contravention of paragraph (a) – 20 penalty units; or
+                     (a)  in the case of a contravention of paragraph (a) – 20 penalty units; or
 
-                     (b)  in the case of a contravention of paragraph (b) – imprisonment for 2 years.
+                     (b)  in the case of a contravention of paragraph (b) – imprisonment for 2 years.
 
              (3)  Strict liability applies to the element of the offence against subsection (2) that the draft report is received under subsection (1) or (4).
 
@@ -2478,7 +2480,7 @@ then the Commonwealth is liable to pay compensation of a reasonable amount to th
 
 ### Note 1
 
-The _Transport Safety Investigation Act 2003_ as shown in this compilation comprises Act No. 18, 2003 amended as indicated in the Tables below.
+The _Transport Safety Investigation Act 2003_ as shown in this compilation comprises Act No. 18, 2003 amended as indicated in the Tables below.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -2525,7 +2527,7 @@ of Assent</div>
     <div>11 Apr 2003</div>
   </td>
   <td>
-    <div>Ss. 3–71: 1 July 2003 ( <i>see Gazette</i>2003, No. S229) 
+    <div>Ss. 3–71: 1 July 2003 ( <i>see Gazette</i>2003, No. S229) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2543,8 +2545,8 @@ Remainder: Royal Assent</div>
     <div>26 Mar 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–24, 
-26–67, 104–109) and Schedule 2: 1 July 2009 
+    <div>Schedule 1 (items 1–24, 26–67, 
+104–109) and Schedule 2: 1 July 2009 
 Schedule 1 (item 25): <i>(a)</i></div>
   </td>
   <td>
@@ -2579,65 +2581,13 @@ Schedule 1 (items 27–29): Royal Assent</div>
     <div>46, 2011</div>
   </td>
   <td>
-    <div>27 June 2011</div>
+    <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1165–1169) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1165–1169) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Navigation (Consequential Amendments) Act 2012</div>
-  </td>
-  <td>
-    <div>129, 2012</div>
-  </td>
-  <td>
-    <div>13 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 111): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport Safety Investigation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>134, 2012</div>
-  </td>
-  <td>
-    <div>21 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 3 and Table A] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 6)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 9): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -2732,8 +2682,8 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -2753,7 +2703,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div><b>Part 1</b></div>
   </td>
   <td>
     <div></div>
@@ -2764,7 +2714,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009; No. 136, 2012</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2793,7 +2743,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
+    <div><b>Part 2</b></div>
   </td>
   <td>
     <div></div>
@@ -2801,7 +2751,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div>Part 2</div>
+    <div>Part 2</div>
   </td>
   <td>
     <div>rs. No. 20, 2009</div>
@@ -2809,7 +2759,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -2841,7 +2791,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -2905,7 +2855,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -2961,7 +2911,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Division 4</b></div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
     <div></div>
@@ -2985,7 +2935,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Division 5</b></div>
+    <div><b>Division 5</b></div>
   </td>
   <td>
     <div></div>
@@ -3017,7 +2967,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
+    <div><b>Part 3</b></div>
   </td>
   <td>
     <div></div>
@@ -3025,7 +2975,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 3</div>
+    <div>Heading to Part 3</div>
   </td>
   <td>
     <div>rs. No. 20, 2009</div>
@@ -3033,7 +2983,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -3041,7 +2991,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part 3</div>
+    <div>Heading to Div. 1 of Part 3</div>
   </td>
   <td>
     <div>ad. No. 20, 2009</div>
@@ -3060,12 +3010,12 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -3073,7 +3023,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div>Div. 2 of Part 3</div>
+    <div>Div. 2 of Part 3</div>
   </td>
   <td>
     <div>ad. No. 20, 2009</div>
@@ -3089,7 +3039,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
+    <div><b>Part 4</b></div>
   </td>
   <td>
     <div></div>
@@ -3097,7 +3047,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -3116,12 +3066,12 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -3148,12 +3098,12 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 26</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part 5</b></div>
+    <div><b>Part 5</b></div>
   </td>
   <td>
     <div></div>
@@ -3161,7 +3111,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -3172,7 +3122,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 29</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3201,7 +3151,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -3209,7 +3159,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part 5</div>
+    <div>Heading to Div. 2 of Part 5</div>
   </td>
   <td>
     <div>rs. No. 20, 2009</div>
@@ -3228,12 +3178,12 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -3252,7 +3202,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3268,7 +3218,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 37</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3281,7 +3231,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Division 4</b></div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
     <div></div>
@@ -3316,7 +3266,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3329,7 +3279,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Division 5</b></div>
+    <div><b>Division 5</b></div>
   </td>
   <td>
     <div></div>
@@ -3348,12 +3298,12 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 6</b></div>
+    <div><b>Division 6</b></div>
   </td>
   <td>
     <div></div>
@@ -3364,12 +3314,12 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 7</b></div>
+    <div><b>Division 7</b></div>
   </td>
   <td>
     <div></div>
@@ -3385,7 +3335,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Part 6</b></div>
+    <div><b>Part 6</b></div>
   </td>
   <td>
     <div></div>
@@ -3393,7 +3343,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -3452,7 +3402,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 53</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3468,12 +3418,12 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 59</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -3484,7 +3434,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
     <div>S. 60</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 26, 2009</div>
+    <div>am. Nos. 20 and 26, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3513,7 +3463,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Part 6A</b></div>
+    <div><b>Part 6A</b></div>
   </td>
   <td>
     <div></div>
@@ -3521,7 +3471,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div>Part 6A</div>
+    <div>Part 6A</div>
   </td>
   <td>
     <div>ad. No. 20, 2009</div>
@@ -3537,7 +3487,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
 </tr>
 <tr>
   <td>
-    <div><b>Part 7</b></div>
+    <div><b>Part 7</b></div>
   </td>
   <td>
     <div></div>
@@ -3624,81 +3574,11 @@ _(a)_ Subsection 2(1) (item 3) of the _Transport Safety Investigation Amendmen
   </td>
 </tr></table>
 
-### Note 2
-
-_Navigation (Consequential Amendments) Act 2012 (No. 129, 2012)_
-
-The following amendment commences at the same time as section 3 of the _Navigation Act 2012_:
-
-## Schedule 2
-
-## 111  Paragraphs 18(3)(a) and 19(3)(a)
-
-Omit “_1912_”, substitute “_2012_”.
-
-As at 8 November 2012 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Transport Safety Investigation Amendment Act 2012 (No. 134, 2012)_
-
-The following amendments commence on 18 December 2012:
-
-## Schedule 1
-
-## 1  Paragraph 11(3)(b)
-
-Repeal the paragraph.
-
-## 2  Before subparagraph 11(3)(c)(i)
-
-Insert:
-
-                            (ia)  within a Territory, or to or from a Territory; or
-
-## 3  After section 21
-
-Insert:
-
-##### <a id="21A"></a>21A  State or Territory Minister may request investigation of certain transport safety matters
-
-             (1)  A Minister of a State or Territory who is responsible, or principally responsible, for the administration of matters relating to the safety of transport by rail vehicles may request the ATSB to investigate a transport safety matter if the matter:
-
-                     (a)  relates to a rail vehicle; and
-
-                     (b)  occurs in the State or Territory.
-
-             (2)  The request must be made in writing and set out the reasons for the request.
-
-             (3)  If a request is made under subsection (1), the ATSB must decide whether to investigate the transport safety matter under paragraph 21(1)(a).
-
-             (4)  In deciding whether to investigate the transport safety matter, the ATSB must take into account:
-
-                     (a)  the reasons set out in the request; and
-
-                     (b)  the sufficiency of any funding and resources that are, or will be, available in relation to the investigation.
-
-             (5)  If the ATSB decides not to investigate the transport safety matter, the ATSB must give written notice of the decision to the Minister who made the request under subsection (1). The notice must set out the reasons for the decision.
-
-## 4  Paragraph 53(3)(a)
-
-Repeal the paragraph, substitute:
-
-                     (a)  anything done by a person in performing functions or exercising powers under, or in connection with, this Act or the regulations; or
-
-## 5  Paragraph 60(4)(a)
-
-Repeal the paragraph, substitute:
-
-                     (a)  anything done by a person in performing functions or exercising powers under, or in connection with, this Act or the regulations; or
-
-As at 8 November 2012 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Transport Safety Investigation Amendment Act 2009 (No. 20, 2009)_
+_Transport Safety Investigation Amendment Act 2009 (No. 20, 2009)_
 
 ## Schedule 1
 
@@ -3771,7 +3651,7 @@ The repeal of Part 2 of the _Transport Safety Investigation Act 2003_ by item�
 * * *
 
 _Aviation Legislation Amendment (2008 Measures No. 2) Act 2009
- (No. 26, 2009)_
+ (No. 26, 2009)_
 
 ## Schedule 1
 
@@ -3789,9 +3669,9 @@ The amendment made by item 21 applies in relation to conduct engaged in on or 
 
 * * *
 
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
-## Schedule 3
+## Schedule 3
 
 ## 10  Saving—appointments
 
@@ -3800,17 +3680,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Transport Safety Investigation Amendment Act 2012 (No. 134, 2012)_
-
-The following provision commences on 18 December 2012:
-
-## Schedule 1
-
-## 6  Application provision—investigations
-
-Section 21A of the _Transport Safety Investigation Act 2003_, as inserted by this Schedule, applies in relation to a transport safety matter occurring on or after the commencement of this item.
 
  
