@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02850/Html/CwlthBanks59_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02849/Html/CBA59_image001.gif)
 
 # Commonwealth Banks Act 1959
 
 **Act No. 5 of 1959 as amended**
 
-This compilation was prepared on 26 July 2001
- taking into account amendments up to Act No. 55 of 2001
+This compilation was prepared on 16 March 2001
+ taking into account amendments up to Act No. 43 of 1996
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -45,9 +45,9 @@ Prepared by the Office of Legislative Drafting,
 
 [27F](#27F).        Membership of the Commonwealth Bank                                          7
 
-[27G](#27G).       Name of the Commonwealth Bank                                                      7
+[27G](#27G).       Application of certain provisions of Companies Act                         7
 
-[27H](#27H).       Commonwealth Bank is not a Commonwealth authority or Commonwealth company etc              7
+[27H](#27H).       Commonwealth Bank is not a Commonwealth authority or Commonwealth company etc              8
 
 [27J](#27J).        Operation of section 25B of Acts Interpretation Act                         8
 
@@ -233,9 +233,17 @@ Prepared by the Office of Legislative Drafting,
 
                             as if the Commonwealth had become a member of the Commonwealth Bank under the Commonwealth Bank’s memorandum and articles.
 
-##### <a id="27G"></a>27G  Name of the Commonwealth Bank
+##### <a id="27G"></a>27G  Application of certain provisions of Companies Act
 
-                   Notwithstanding subsection 148(2) of the _Corporations Act 2001_, the Commonwealth Bank need not have the word “Limited” at the end of its name.
+             (1)  Where all the shares in the Commonwealth Bank are beneficially owned by the Commonwealth, subsection 82(1) and paragraph 364(1)(d) of the _Companies Act 1981_ do not apply in relation to the Commonwealth Bank and subsection 244(6) of that Act applies as if:
+
+                     (a)  the Commonwealth were a holding company, within the meaning of that subsection, of the Commonwealth Bank; and
+
+                     (b)  the Commonwealth held the whole of the issued shares in the Commonwealth Bank; and
+
+                     (c)  the Treasurer were a representative of the Commonwealth authorised under subsection 244(3) of that Act.
+
+             (2)  Subsection 39(1), paragraph 86(6)(b) and subsection 87(4) of the _Companies Act 1981_ do not apply in relation to the Commonwealth Bank.
 
 ##### <a id="27H"></a>27H  Commonwealth Bank is not a Commonwealth authority or Commonwealth company etc.
 
@@ -257,7 +265,7 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="27J"></a>27J  Operation of section 25B of Acts Interpretation Act
 
-                   Nothing in this Act or in the _Corporations Act 2001_ affects, or is affected by, section 25B of the _Acts Interpretation Act 1901_ as that section applies in relation to the Commonwealth Bank.
+                   Nothing in this Act or in the _Companies Act 1981_ affects, or is affected by, section 25B of the _Acts Interpretation Act 1901_ as that section applies in relation to the Commonwealth Bank.
 
 ### Division 4—Miscellaneous
 
@@ -431,11 +439,11 @@ Registration as a company
 
                      (d)  to have registered the Corporation at the commencement of this section:
 
-                              (i)  by the name “Commonwealth Bank Officers Superannuation Corporation”; and
+                              (i)  by the name `Commonwealth Bank Officers Superannuation Corporation’; and
 
                              (ii)  in accordance with subsections 137(3) and (5) of the Corporations Law, as a public company, and as a company limited by shares, within the meaning of the Corporations Law; and
 
-                     (e)  to have registered the name “Commonwealth Bank Officers Superannuation Corporation” in relation to the Corporation at the commencement of this section under subsection 374(5) of the Corporations Law; and
+                     (e)  to have registered the name `Commonwealth Bank Officers Superannuation Corporation’ in relation to the Corporation at the commencement of this section under subsection 374(5) of the Corporations Law; and
 
                       (f)  to have granted a licence to the Corporation under section 383 of the Corporations Law (which licence may be revoked in accordance with that section).
 
@@ -628,8 +636,6 @@ a protected name, or a name so closely resembling a protected name as to be like
 ### Note 1
 
 The _Commonwealth Banks Act 1959_ as shown in this compilation comprises Act No. 5, 1959 amended as indicated in the Tables below.
-
-For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
 ### Table of Acts
 
@@ -1211,23 +1217,6 @@ S. 17 and Schedule (items 18-20, 24, 25, 28-30, 32-47, 49): 19 July 1996 <i>(g
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4-14 and Schedule 3 (items 121-123): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(i)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4-14</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Commonwealth Banks Act 1959_ was amended by Part IV (sections 52 and 53) only of the _Public Service and Statutory Authorities Amendment Act 1980_, subsection 2(1) of which provides as follows:
@@ -1301,10 +1290,6 @@ _(h)_     The _Commonwealth Banks Act 1959_ was amended by Schedule 2 
          Item 31 is taken to have commenced immediately after the commencement of section 55 of the _Commonwealth Banks Restructuring Act 1990_.
 
          Section 55 commenced on 17 April 1991 (_see Gazette_ 1991, No. S72). 
-
-_(i)_ The _Commonwealth Banks Act 1959_ was amended by Schedule 3 (items 121-123) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
-
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
 ## Table of Amendments
 
@@ -1935,26 +1920,10 @@ rep. No. 118, 1990</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 27D-27F</div>
+    <div>Ss. 27D-27G</div>
   </td>
   <td>
     <div>ad. No. 118, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27G</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1979,14 +1948,6 @@ rep. No. 118, 1990</div>
   </td>
   <td>
     <div>ad. No. 118, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4025,6 +3986,6 @@ The following amendment commences on 19 July 2006:
 
 Repeal the section.
 
-As at 26 July 2001 the amendment is not incorporated in this compilation.
+As at 16 March 2001 the amendment is not incorporated in this compilation.
 
  
