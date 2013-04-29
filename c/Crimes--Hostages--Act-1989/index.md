@@ -1,726 +1,1127 @@
-![](http://www.comlaw.gov.au/Details/C2011C00284/Html/91d4810a-dbfc-42b3-93f3-ed007b967263_files/image001.gif)
+**
 
-# Crimes (Hostages) Act 1989
+###  CRIMES (HOSTAGES) ACT 1989 
+**
 
-**Act No. 26 of 1989 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+**
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation
 
-[4](#4).            Act extends to external Territories
+**
 
-[5](#5).            Application
+###  Long Title 
+**
+###  CRIMES (HOSTAGES) ACT 1989- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Crimes (Hostages) Act 1989_.
 
-[6](#6).            Effect of this Act on other laws
+ 
+###  CRIMES (HOSTAGES) ACT 1989- SECT 2  Commencement [_see_ Note 1]  
+This Act commences on a day to be fixed by Proclamation.
 
-[6A](#6A).         Application of the _Criminal Code_
+ 
+###  CRIMES (HOSTAGES) ACT 1989- SECT 3  Interpretation 
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-[7](#7).            Meaning of hostage‑taking
+</dd> 
+<dl compact=""><dl compact="">
 
-[8](#8).            When hostage‑taking an offence
+_Australia_ includes:
 
-[9](#9).            Person not to be charged in certain circumstances
+ </dl></dl>
 
-[10](#10).          Prosecutions
+<dl compact=""><dl compact=""><dl compact="">
 
-[11](#11).          Venue where offence committed on aircraft
+<dt>(a)</dt><dd>the external Territories; and</dd>
 
-[12](#12).          Change of venue
+<dt>(b)</dt><dd>the Australian coastal sea.
 
-[13](#13).          Evidence of certain matters
+</dd>
 
-[14](#14).          Section 38 of Judiciary Act
+</dl></dl></dl>
 
-[15](#15).          Assistance under article 6 of Convention
+<def><dl compact=""><dl compact="">
 
-**Schedule—International Convention Against The Taking Of Hostages** 
+_Australian aircraft_ means:
 
-**Notes** 
+ </dl></dl>
 
-## An Act to give effect to the International Convention Against the Taking of Hostages, and for related purposes
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+<dt>(a)</dt><dd>an aircraft registered in accordance with the Civil Aviation Regulations
 
-                   This Act may be cited as the _Crimes (Hostages) Act 1989_.
+as an Australian aircraft;</dd>
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1] 
+<dt>(b)</dt><dd>an aircraft that is owned by, or is in the possession or control of, the
 
-                   This Act commences on a day to be fixed by Proclamation.
+Commonwealth or an authority of the Commonwealth; or</dd>
 
-##### <a id="3"></a>3  Interpretation
+<dt>(c)</dt><dd>an aircraft of any part of the Defence Force (including an aircraft that
 
-             (1)  In this Act, unless the contrary intention appears:
+is being commanded or piloted by a member of that Force in the course of the
 
-                    <a name="australia"></a>**_Australia_** includes:
+member's duties as such a member).
 
-                     (a)  the external Territories; and
+</dd>
 
-                     (b)  the Australian coastal sea.
+</dl></dl></dl>
 
-                    <a name="australian-aircraft"></a>**_Australian aircraft_** means:
+<def><dl compact=""><dl compact="">
 
-                     (a)  an aircraft registered in accordance with the Civil Aviation Regulations as an Australian aircraft;
+_Australian coastal sea_ means:
 
-                     (b)  an aircraft that is owned by, or is in the possession or control of, the Commonwealth or an authority of the Commonwealth; or
+ </dl></dl>
 
-                     (c)  an aircraft of any part of the Defence Force (including an aircraft that is being commanded or piloted by a member of that Force in the course of the member’s duties as such a member).
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="australian-coastal-sea"></a>**_Australian coastal sea_** means:
+<dt>(a)</dt><dd>the territorial sea of Australia; and</dd>
 
-                     (a)  the territorial sea of Australia; and
+<dt>(b)</dt><dd>the sea on the landward side of the territorial sea of Australia.
 
-                     (b)  the sea on the landward side of the territorial sea of Australia.
+</dd>
 
-                    <a name="australian-ship"></a>**_Australian ship_** means:
+</dl></dl></dl>
 
-                     (a)  a ship registered in Australia;
+<def><dl compact=""><dl compact="">
 
-                     (b)  an unregistered ship that has Australian nationality; or
+_Australian ship_ means:
 
-                     (c)  a ship that belongs to an arm of the Defence Force.
+ </dl></dl>
 
-                    <a name="convent"></a>**_Convention_** means the International Convention Against the Taking of Hostages that was opened for signature at New York on 18 December 1979, a copy of the English text of which is set out in the Schedule.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="foreign-affair-minist"></a>**_Foreign Affairs Minister_** means the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
+<dt>(a)</dt><dd>a ship registered in Australia;</dd>
 
-                    <a name="offenc-against-act"></a>**_offence against this Act_** means:
+<dt>(b)</dt><dd>an unregistered ship that has Australian nationality; or</dd>
 
-                     (a)  an offence against subsection 8(1); or
+<dt>(c)</dt><dd>a ship that belongs to an arm of the Defence Force.
 
-                     (b)  an offence against section 11.1 or 11.5 of the _Criminal Code_, being an offence that relates to an offence referred to in paragraph (a).
+</dd>
 
-                    <a name="part-australia"></a>**_part of Australia_** means a State or Territory.
+</dl></dl></dl>
 
-             (2)  Except so far as the contrary intention appears, an expression that is used both in this Act and in the Convention (whether or not a particular meaning is given to it by the Convention) has, in this Act, the same meaning as it has in the Convention.
+<def><dl compact=""><dl compact="">
 
-             (3)  For the purposes of section 6 of the _Crimes Act 1914_ and section 11.4 of the _Criminal Code_, an offence against subsection 8(1) of this Act shall be taken not to be an offence against a law of the Commonwealth.
+_Convention_ means the International Convention Against the Taking
 
-##### <a id="4"></a>4  Act extends to external Territories
+of Hostages that was opened for signature at New York on 18&#160;December 1979,
 
-                   This Act extends to all external Territories.
+a copy of the English text of which is set out in the Schedule. _offence against this Act_ means:  </dl></dl>
 
-##### <a id="5"></a>5  Application
+<center>Back to Top</center>
 
-                   This Act extends, except so far as the contrary intention appears:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  to acts, matters and things outside Australia, whether or not in or over a foreign country; and
+<dt>(a)</dt><dd>an offence against subsection 8(1); or</dd>
 
-                     (b)  to all persons, irrespective of their nationality or citizenship.
+<dt>(b)</dt><dd>an offence against section&#160;11.1 or 11.5 of the _Criminal Code_,
 
-##### <a id="6"></a>6  Effect of this Act on other laws
+being an offence that relates to an offence referred to in paragraph&#160;(a).
 
-             (1)  This Act is not intended to exclude or limit the operation of any other law of the Commonwealth or any law of a State or Territory.
+</dd>
 
-             (2)  Where a person has been convicted in a country outside Australia of an offence against the law of that country in respect of any conduct, that person is not liable to be convicted of an offence against this Act in respect of that conduct.
+</dl></dl></dl>
 
-##### <a id="6A"></a>6A  Application of the _Criminal Code_
+<def><dl compact=""><dl compact="">
 
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
+_part of Australia_ means a State or Territory.
 
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+ </dl></dl>
 
-##### <a id="7"></a>7  Meaning of hostage‑taking
+<dl compact="">
 
-                   For the purposes of this Act, a person commits an act of hostage‑taking if the person:
+<dt>(2)</dt><dd>Except so far as the contrary intention appears, an expression that is
 
-                     (a)  seizes or detains another person (in this section called **_the hostage_**); and
+used both in this Act and in the Convention (whether or not a particular
 
-                     (b)  threatens to kill, to injure, or to continue to detain, the hostage;
+meaning is given to it by the Convention) has, in this Act, the same meaning as
+
+it has in the Convention.</dd> <dt>(3)</dt><dd>For the purposes of section&#160;6 of the _Crimes Act 1914_ and section&#160;11.4 of the _Criminal Code_, an offence against subsection 8(1) of this Act shall be taken not to be an offence against a law of the Commonwealth. </dd> </dl>
+
+**
+
+###  CRIMES (HOSTAGES) ACT 1989- SECT 4  Act extends to external Territories 
+**
+
+ <dl compact="">
+
+		This Act extends to all external Territories.
+
+ </dl>
+
+**
+
+###  CRIMES (HOSTAGES) ACT 1989- SECT 5  Application 
+**
+
+ <dl compact="">
+
+		This Act extends, except so far as the contrary intention appears:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to acts, matters and things outside Australia, whether or not in or over a
+
+foreign country; and</dd>
+
+<dt>(b)</dt><dd>to all persons, irrespective of their nationality or citizenship.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  CRIMES (HOSTAGES) ACT 1989- SECT 6  Effect of this Act on other laws 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>This Act is not intended to exclude or limit the operation of any other
+
+law of the Commonwealth or any law of a State or Territory.</dd> <dt>(2)</dt><dd>Where a person has been convicted in a country outside Australia of an offence against the law of that country in respect of any conduct, that person is not liable to be convicted of an offence against this Act in respect of that conduct. </dd> </dl>
+
+**
+
+###  CRIMES (HOSTAGES) ACT 1989- SECT 6A  Application of the _Criminal Code_ 
+**
+
+ <dl compact="">
+
+		Chapter&#160;2 of the _Criminal Code_ applies to all offences against
+
+this Act.
+
+ </dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Chapter&#160;2 of the _Criminal Code_ sets out the
+
+general principles of criminal responsibility.
+
+ </dl></dl>
+
+**
+
+###  CRIMES (HOSTAGES) ACT 1989- SECT 7  Meaning of hostage-taking 
+**
+
+ <dl compact="">
+
+		For the purposes of this Act, a person commits an act of hostage-taking if
+
+the person:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>seizes or detains another person (in this section called _the hostage_); and</dd>
+
+<dt>(b)</dt><dd>threatens to kill, to injure, or to continue to detain, the hostage;
+
+</dd>
+
+</dl></dl></dl>
 
 with the intention of compelling:
 
-                     (c)  a legislative, executive or judicial institution in Australia or in a foreign country;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  an international intergovernmental organisation; or
+<dt>(c)</dt><dd>a legislative, executive or judicial institution in Australia or in a
 
-                     (e)  any other person (whether an individual or a body corporate) or group of persons;
+foreign country;</dd>
 
-to do, or abstain from doing, any act as an explicit or implicit condition for the release of the hostage.
+<dt>(d)</dt><dd>an international intergovernmental organisation; or</dd>
 
-##### <a id="8"></a>8  When hostage‑taking an offence
+<dt>(e)</dt><dd>any other person (whether an individual or a body corporate) or group of
 
-             (1)  A person who, at any time after the Convention enters into force for Australia, commits an act of hostage‑taking is guilty of an offence against this subsection.
+persons;
 
-             (2)  The punishment for an offence against subsection (1) is imprisonment for life or for any lesser term.
+</dd>
 
-             (3)  Subject to section 9, a person shall not be charged with an offence against this Act unless:
+</dl></dl></dl>
 
-                     (a)  the act alleged to constitute the offence was committed:
+<center>Back to Top</center>
 
-                              (i)  in Australia; or
+to do, or abstain from doing, any act as an explicit or implicit condition for the release of the hostage. 
 
-                             (ii)  on an Australian ship or an Australian aircraft, whether in or outside Australia; or
+**
 
-                     (b)  where the act alleged to constitute the offence was committed outside Australia (otherwise than on an Australian ship or an Australian aircraft):
+###  CRIMES (HOSTAGES) ACT 1989- SECT 8  When hostage-taking an offence 
+**
 
-                              (i)  the person was, at the time the act was committed, an Australian citizen;
+ <dl compact="">
 
-                             (ii)  the person is present in Australia; or
+<dt>(1)</dt><dd>A person who, at any time after the Convention enters into force for
 
-                            (iii)  the act was committed in order to compel a legislative, executive or judicial institution in Australia to do, or abstain from doing, any act.
+Australia, commits an act of hostage-taking is guilty of an offence against
 
-##### <a id="9"></a>9  Person not to be charged in certain circumstances
+this subsection.</dd> <dt>(2)</dt><dd>The punishment for an offence against subsection&#160;(1) is imprisonment for life or for any lesser term.</dd> <dt>(3)</dt><dd>Subject to section&#160;9, a person shall not be charged with an offence against this Act unless: </dd> </dl>
 
-             (1)  A person shall not be charged in relation to an act alleged to constitute an offence against this Act if, under article 12 of the Convention, the Convention would not apply in relation to that act.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  Subject to subsection (3), a person shall not be charged with an offence against this Act if:
+<dt>(a)</dt><dd>the act alleged to constitute the offence was committed:
 
-                     (a)  the act alleged to constitute the offence was committed in a particular State;
+</dd>
 
-                     (b)  the person was, at the time the act was committed, a citizen of that State;
+</dl></dl></dl>
 
-                     (c)  the person is in that State; and
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  the person seized or detained as a hostage was, at the time of that seizure or detention, a citizen of that State.
+<dt>(i)</dt><dd>in Australia; or</dd>
 
-             (3)  Subsection (2) does not apply where the person referred to in paragraph (2)(c) is in the State where the act alleged to constitute the offence was committed by reason of being extradited to that State in relation to that act.
+<dt>(ii)</dt><dd>on an Australian ship or an Australian aircraft, whether in or outside
 
-             (4)  In this section, **_State_** means:
+Australia; or
 
-                     (a)  Australia; or
+</dd>
 
-                     (b)  a foreign country.
+</dl></dl></dl></dl>
 
-##### <a id="10"></a>10  Prosecutions
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  Proceedings for the commitment of a person for trial on indictment for an offence against this Act shall not be instituted except with the consent in writing of the Attorney‑General.
+<dt>(b)</dt><dd>where the act alleged to constitute the offence was committed outside
 
-             (2)  Notwithstanding that a consent in accordance with subsection (1) has not been given in relation to an offence against this Act:
+Australia (otherwise than on an Australian ship or an Australian aircraft):
 
-                     (a)  a person may be charged with an offence against this Act;
+</dd>
 
-                     (b)  a person may be arrested for such an offence, and a warrant for such an arrest may be issued and executed; and
+</dl></dl></dl>
 
-                     (c)  a person so charged may be remanded in custody or on bail;
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-but no further step in proceedings referred to in subsection (1) shall be taken until such a consent has been given.
+<dt>(i)</dt><dd>the person was, at the time the act was committed, an Australian
 
-             (3)  Nothing in subsection (2) prevents the discharge of the accused if proceedings are not continued within a reasonable time.
+citizen;</dd>
 
-##### <a id="11"></a>11  Venue where offence committed on aircraft
+<dt>(ii)</dt><dd>the person is present in Australia; or</dd>
 
-                   Where, in the trial on indictment in a court of a State or Territory of an offence against this Act committed on an aircraft in flight, an act constituting in whole or in part the offence charged is proved, it shall be presumed, unless the evidence shows the contrary, that that act did not take place in another part of Australia, being a State.
+<dt>(iii)</dt><dd>the act was committed in order to compel a legislative, executive or
 
-##### <a id="12"></a>12  Change of venue
+judicial institution in Australia to do, or abstain from doing, any act.
 
-             (1)  Where, at any time after the presentation in a court of a State or Territory of an indictment for an offence against this Act committed on an aircraft in flight and before the jury has returned its verdict:
+</dd>
 
-                     (a)  the defendant objects to the trial on the ground that the offence, if committed, was committed in another part of Australia, being a State; and
+</dl></dl></dl></dl>
 
-                     (b)  the court is satisfied that the offence, if committed, was committed in that other part of Australia;
+**
 
-the court shall forthwith order that the proceedings on the indictment be discontinued and, if the jury has been empanelled, that the jury be discharged, and that the defendant appear before that court or another court of the first‑mentioned State or Territory at a specified time, not later than 28 days after the day on which the order is made, to be dealt with in accordance with this section.
+###  CRIMES (HOSTAGES) ACT 1989- SECT 9  Person not to be charged in certain circumstances 
+**
 
-             (2)  Where a court makes an order under subsection (1), the court may also:
+ <dl compact="">
 
-                     (a)  order that the defendant be kept in such custody as is specified in the order; or
+<dt>(1)</dt><dd>A person shall not be charged in relation to an act alleged to constitute
 
-                     (b)  admit the defendant to bail, on such recognizances as the court thinks fit.
+an offence against this Act if, under article 12 of the Convention, the
 
-             (3)  If, before the time at which the defendant is to appear before a court pursuant to an order under subsection (1), the Attorney‑General or the Director of Public Prosecutions notifies that court that he or she does not intend to file an indictment against the defendant in a court of another part of Australia, the first‑mentioned court shall, as soon as practicable after being so notified, make an order:
+Convention would not apply in relation to that act.</dd> <dt>(2)</dt><dd>Subject to subsection&#160;(3), a person shall not be charged with an offence against this Act if: </dd> </dl>
 
-                     (a)  discharging the defendant from the obligation to appear before that court at that time; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  directing:
+<dt>(a)</dt><dd>the act alleged to constitute the offence was committed in a particular
 
-                              (i)  if the defendant is held in custody—that he or she be released; or
+State;</dd>
 
-                             (ii)  if he or she has been admitted to bail—that the recognizances upon which he or she was admitted to bail be discharged.
+<dt>(b)</dt><dd>the person was, at the time the act was committed, a citizen of that
 
-             (4)  If, at or before the time at which the defendant is to appear before a court pursuant to an order under subsection (1), the Attorney‑General or the Director of Public Prosecutions notifies that court that he or she has filed an indictment against the defendant in a court of another part of Australia, the first‑mentioned court shall:
+State;</dd>
 
-                     (a)  if the defendant is in custody—forthwith; or
+<dt>(c)</dt><dd>the person is in that State; and</dd>
 
-                     (b)  in any other case—as soon as practicable after the time at which the defendant is to appear before that court;
+<dt>(d)</dt><dd>the person seized or detained as a hostage was, at the time of that
 
-make an order directing that the defendant be taken, as soon as practicable, in the custody of such person as it directs, to the part of Australia in which the indictment was filed and there be delivered to the custody of a person having authority to arrest the defendant, and may make such further orders as it thinks necessary for facilitating the carrying into effect of the first‑mentioned order.
+seizure or detention, a citizen of that State.
 
-             (5)  If:
+</dd>
 
-                     (a)  at the time at which the defendant is to appear before a court pursuant to an order under subsection (1), neither the Attorney‑General nor the Director of Public Prosecutions has notified that court that he or she does not intend to file an indictment against the defendant in a court in another part of Australia;
+</dl></dl></dl>
 
-                     (b)  neither the Attorney‑General nor the Director of Public Prosecutions notifies the first‑mentioned court before or at that time that he or she has filed such an indictment; and
+<dl compact="">
 
-                     (c)  the defendant is in custody;
+<dt>(3)</dt><dd>Subsection&#160;(2) does not apply where the person referred to in
 
-the first‑mentioned court shall, at that time, make an order directing that the defendant be released.
+paragraph&#160;(2)(c) is in the State where the act alleged to constitute the
 
-             (6)  Where an order has been made under subsection (1) in relation to an indictment, the proceedings on that indictment do not, and that order does not, prevent or prejudice any other indictment, or any information, against the defendant, whether on the same charge or on any other charge.
+offence was committed by reason of being extradited to that State in relation
 
-             (7)  The jurisdiction of a court under subsection (3), (4) or (5) may be exercised by the court constituted by a single judge or Magistrate.
+to that act.</dd> <dt>(4)</dt><dd>In this section, _State_ means: </dd> </dl>
 
-##### <a id="13"></a>13  Evidence of certain matters
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  The Foreign Affairs Minister may give a written certificate stating that:
+<dt>(a)</dt><dd>Australia; or</dd>
 
-                     (a)  the Convention entered into force for Australia on a particular day; and
+<dt>(b)</dt><dd>a foreign country.
 
-                     (b)  as at the date of the certificate, the Convention remains in force for Australia.
+</dd>
 
-             (2)  A certificate given under subsection (1) is admissible in any proceedings as _prima facie_ evidence of the matters stated in the certificate.
+</dl></dl></dl>
 
-##### <a id="14"></a>14  Section 38 of Judiciary Act
+**
 
-                   A matter arising under this Act, including a question of interpretation of the Convention for the purposes of this Act, shall, for the purposes of section 38 of the _Judiciary Act 1903_, be deemed not to be a matter arising directly under a treaty.
+###  CRIMES (HOSTAGES) ACT 1989- SECT 10  Prosecutions 
+**
 
-##### <a id="15"></a>15  Assistance under article 6 of Convention
+ <dl compact="">
 
-                   A person, other than an Australian citizen, who is in custody in respect of an offence that is alleged to have been committed against this Act is entitled to the assistance referred to in paragraph 3 of article 6 of the Convention.
+<dt>(1)</dt><dd>Proceedings for the commitment of a person for trial on indictment for an
 
-# Schedule—International Convention Against The Taking Of Hostages
+offence against this Act shall not be instituted except with the consent in
 
-Section 3 
+writing of the Attorney-General.</dd> <dt>(2)</dt><dd>Notwithstanding that a consent in accordance with subsection&#160;(1) has not been given in relation to an offence against this Act: </dd> </dl>
 
-_The States Parties to this Convention_,
+<center>Back to Top</center>
 
-_Having in mind_ the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and security and the promotion of friendly relations and co‑operation among States,
+<dl compact=""><dl compact=""><dl compact="">
 
-_Recognizing_ in particular that everyone has the right to life, liberty and security of person, as set out in the Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights,
+<dt>(a)</dt><dd>a person may be charged with an offence against this Act;</dd>
 
-_Reaffirming_ the principle of equal rights and self‑determination of peoples as enshrined in the Charter of the United Nations and the Declaration on Principles of International Law concerning Friendly Relations and Co‑operation among States in accordance with the Charter of the United Nations, as well as in other relevant resolutions of the General Assembly,
+<dt>(b)</dt><dd>a person may be arrested for such an offence, and a warrant for such an
 
-_Considering_ that the taking of hostages is an offence of grave concern to the international community and that, in accordance with the provisions of this Convention, any person committing an act of hostage taking shall either be prosecuted or extradited,
+arrest may be issued and executed; and</dd>
 
-_Being convinced_ that it is urgently necessary to develop international co‑operation between States in devising and adopting effective measures for the prevention, prosecution and punishment of all acts of taking of hostages as manifestations of international terrorism, 
+<dt>(c)</dt><dd>a person so charged may be remanded in custody or on bail;
 
-_Have agreed_ as follows:
+</dd>
 
-_Article 1_
+</dl></dl></dl>
 
-1.      Any person who seizes or detains and threatens to kill, to injure or to continue to detain another person (hereinafter referred to as the “hostage”) in order to compel a third party, namely, a State, an international intergovernmental organization, a natural or juridical person, or a group of persons, to do or abstain from doing any act as an explicit or implicit condition for the release of the hostage commits the offence of taking of hostages (“hostage‑taking”) within the meaning of this Convention.
+but no further step in proceedings referred to in subsection&#160;(1) shall be taken until such a consent has been given.
 
-2.      Any person who:
+<dl compact="">
 
-(a)     attempts to commit an act of hostage‑taking, or
+<dt>(3)</dt><dd>Nothing in subsection&#160;(2) prevents the discharge of the accused if
 
-(b)     participates as an accomplice of anyone who commits or attempts to commit an act of hostage‑taking,
+proceedings are not continued within a reasonable time.
 
-likewise commits an offence for the purposes of this Convention.
+</dd> </dl>
 
-_Article 2_
+**
 
-Each State Party shall make the offences set forth in article 1 punishable by appropriate penalties which take into account the grave nature of those offences. 
+###  CRIMES (HOSTAGES) ACT 1989- SECT 11  Venue where offence committed on aircraft 
+**
 
-_Article 3_
+ <dl compact="">
 
-1.      The State Party in the territory of which the hostage is held by the offender shall take all measures it considers appropriate to ease the situation of the hostage, in particular, to secure his release and, after his release, to facilitate, when relevant, his departure.
+		Where, in the trial on indictment in a court of a State or Territory of an
 
-2.      If any object which the offender has obtained as a result of the taking of hostages comes into the custody of a State Party, that State Party shall return it as soon as possible to the hostage or the third party referred to in article 1, as the case may be, or to the appropriate authorities thereof.
+offence against this Act committed on an aircraft in flight, an act
 
-_Article 4_
+constituting in whole or in part the offence charged is proved, it shall be
 
-States Parties shall co‑operate in the prevention of the offences set forth in article 1, particularly by:
+presumed, unless the evidence shows the contrary, that that act did not take
 
-(a)     taking all practicable measures to prevent preparations in their respective territories for the commission of those offences within or outside their territories, including measures to prohibit in their territories illegal activities of persons, groups and organizations that encourage, instigate, organize or engage in the perpetration of acts of taking of hostages;
+place in another part of Australia, being a State.
 
-(b)     exchanging information and co‑ordinating the taking of administrative and other measures as appropriate to prevent the commission of those offences.
+ </dl>
 
-_Article 5_
+**
 
-1.      Each State Party shall take such measures as may be necessary to establish its jurisdiction over any of the offences set forth in article 1 which are committed:
+###  CRIMES (HOSTAGES) ACT 1989- SECT 12  Change of venue 
+**
 
-(a)     in its territory or on board a ship or aircraft registered in that State;
+ <dl compact="">
 
-(b)     by any of its nationals or, if that State considers it appropriate, by those stateless persons who have their habitual residence in its territory; 
+<dt>(1)</dt><dd>Where, at any time after the presentation in a court of a State or
 
-(c)     in order to compel that State to do or abstain from doing any act; or
+Territory of an indictment for an offence against this Act committed on an
 
-(d)     with respect to a hostage who is a national of that State, if that State considers it appropriate.
+aircraft in flight and before the jury has returned its verdict:
 
-2.      Each State Party shall likewise take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 1 in cases where the alleged offender is present in its territory and it does not extradite him to any of the States mentioned in paragraph 1 of this article.
+</dd> </dl>
 
-3.      This Convention does not exclude any criminal jurisdiction exercised in accordance with internal law.
+<dl compact=""><dl compact=""><dl compact="">
 
-_Article 6_
+<dt>(a)</dt><dd>the defendant objects to the trial on the ground that the offence, if
 
-1.      Upon being satisfied that the circumstances so warrant, any State Party in the territory of which the alleged offender is present shall, in accordance with its laws, take him into custody or take other measures to ensure his presence for such time as is necessary to enable any criminal or extradition proceedings to be instituted. That State Party shall immediately make a preliminary inquiry into the facts.
+committed, was committed in another part of Australia, being a State; and</dd>
 
-2.      The custody or other measures referred to in paragraph 1 of this article shall be notified without delay directly or through the Secretary‑General of the United Nations to:
+<dt>(b)</dt><dd>the court is satisfied that the offence, if committed, was committed in
 
-(a)     the State where the offence was committed;
+that other part of Australia;
 
-(b)     the State against which compulsion has been directed or attempted;
+</dd>
 
-(c)     the State of which the natural or juridical person against whom compulsion has been directed or attempted is a national;
+</dl></dl></dl>
 
-(d)     the State of which the hostage is a national or in the territory of which he has his habitual residence;
+the court shall forthwith order that the proceedings on the indictment be discontinued and, if the jury has been empanelled, that the jury be discharged, and that the defendant appear before that court or another court of the first-mentioned State or Territory at a specified time, not later than 28 days after the day on which the order is made, to be dealt with in accordance with this section.
 
-(e)     the State of which the alleged offender is a national or, if he is a stateless person, in the territory of which he has his habitual residence;
+<dl compact="">
 
-(f)     the international intergovernmental organization against which compulsion has been directed or attempted;
+<dt>(2)</dt><dd>Where a court makes an order under subsection&#160;(1), the court may also:
 
-(g)     all other States concerned. 
+</dd> </dl>
 
-3.      Any person regarding whom the measures referred to in paragraph 1 of this article are being taken shall be entitled:
+<dl compact=""><dl compact=""><dl compact="">
 
-(a)     to communicate without delay with the nearest appropriate representative of the State of which he is a national or which is otherwise entitled to establish such communication or, if he is a stateless person, the State in the territory of which he has his habitual residence; 
+<dt>(a)</dt><dd>order that the defendant be kept in such custody as is specified in the
 
-(b)     to be visited by a representative of that State. 
+order; or</dd>
 
-4.      The rights referred to in paragraph 3 of this article shall be exercised in conformity with the laws and regulations of the State in the territory of which the alleged offender is present subject to the proviso, however, that the said laws and regulations must enable full effect to be given to the purposes for which the rights accorded under paragraph 3 of this article are intended. 
+<dt>(b)</dt><dd>admit the defendant to bail, on such recognizances as the court thinks fit.
 
-5.      The provisions of paragraphs 3 and 4 of this article shall be without prejudice to the right of any State Party having a claim to jurisdiction in accordance with paragraph 1 (b) of article 5 to invite the International Committee of the Red Cross to communicate with and visit the alleged offender. 
+</dd>
 
-6.      The State which makes the preliminary inquiry contemplated in paragraph 1 of this article shall promptly report its findings to the States or organization referred to in paragraph 2 of this article and indicate whether it intends to exercise jurisdiction.
+</dl></dl></dl>
 
-_Article 7_
+<dl compact="">
 
-The State Party where the alleged offender is prosecuted shall in accordance with its laws communicate the final outcome of the proceedings to the Secretary‑General of the United Nations, who shall transmit the information to the other States concerned and the international intergovernmental organizations concerned.
+<dt>(3)</dt><dd>If, before the time at which the defendant is to appear before a court
 
-_Article 8_
+pursuant to an order under subsection&#160;(1), the Attorney-General or the
 
-1.      The State Party in the territory of which the alleged offender is found shall, if it does not extradite him, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case to its competent authorities for the purpose of prosecution, through proceedings in accordance with the laws of that State. Those authorities shall take their decision in the same manner as in the case of any ordinary offence of a grave nature under the law of that State.
+Director of Public Prosecutions notifies that court that he or she does not
 
-2.      Any person regarding whom proceedings are being carried out in connexion with any of the offences set forth in article 1 shall be guaranteed fair treatment at all stages of the proceedings, including enjoyment of all the rights and guarantees provided by the law of the State in the territory of which he is present.
+intend to file an indictment against the defendant in a court of another part
 
-_Article 9_
+of Australia, the first-mentioned court shall, as soon as practicable after
 
-1.      A request for the extradition of an alleged offender, pursuant to this Convention, shall not be granted if the requested State Party has substantial grounds for believing: 
+being so notified, make an order:
 
-(a)     that the request for extradition for an offence set forth in article 1 has been made for the purpose of prosecuting or punishing a person on account of his race, religion, nationality, ethnic origin or political opinion; or 
+</dd> </dl>
 
-(b)     that the person’s position may be prejudiced: 
+<dl compact=""><dl compact=""><dl compact="">
 
-(i)   for any of the reasons mentioned in subparagraph (a) of this paragraph, or 
+<dt>(a)</dt><dd>discharging the defendant from the obligation to appear before that court
 
-(ii)  for the reason that communication with him by the appropriate authorities of the State entitled to exercise rights of protection cannot be effected. 
+at that time; and</dd>
 
-2.      With respect to the offences as defined in this Convention, the provisions of all extradition treaties and arrangements applicable between States Parties are modified as between States Parties to the extent that they are incompatible with this Convention. 
+<dt>(b)</dt><dd>directing:
 
-_Article 10_
+</dd>
 
-1.      The offences set forth in article 1 shall be deemed to be included as extraditable offences in any extradition treaty existing between States Parties. States Parties undertake to include such offences as extraditable offences in every extradition treaty to be concluded between them.
+</dl></dl></dl>
 
-2.      If a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, the requested State may at its option consider this Convention as the legal basis for extradition in respect of the offences set forth in article 1\. Extradition shall be subject to the other conditions provided by the law of the requested State. 
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-3.      States Parties which do not make extradition conditional on the existence of a treaty shall recognize the offences set forth in article 1 as extraditable offences between themselves subject to the conditions provided by the law of the requested State. 
+<dt>(i)</dt><dd>if the defendant is held in custody&#151;that he or she be released; or</dd>
 
-4.      The offences set forth in article 1 shall be treated, for the purpose of extradition between States Parties, as if they had been committed not only in the place in which they occurred but also in the territories of the States required to establish their jurisdiction in accordance with paragraph 1 of article 5.
+<dt>(ii)</dt><dd>if he or she has been admitted to bail&#151;that the recognizances upon which
 
-_Article 11_
+he or she was admitted to bail be discharged.
 
-1.      States Parties shall afford one another the greatest measure of assistance in connexion with criminal proceedings brought in respect of the offences set forth in article 1, including the supply of all evidence at their disposal necessary for the proceedings.
+</dd>
 
-2.      The provisions of paragraph 1 of this article shall not affect obligations concerning mutual judicial assistance embodied in any other treaty.
+</dl></dl></dl></dl>
 
-_Article 12_
+<dl compact="">
 
-In so far as the Geneva Conventions of 1949 for the protection of war victims or the Protocols Additional to those Conventions are applicable to a particular act of hostage‑taking, and in so far as States Parties to this Convention are bound under those conventions to prosecute or hand over the hostage‑taker, the present Convention shall not apply to an act of hostage‑taking committed in the course of armed conflicts as defined in the Geneva Conventions of 1949 and the Protocols thereto, including armed conflicts mentioned in article 1, paragraph 4, of Additional Protocol I of 1977, in which peoples are fighting against colonial domination and alien occupation and against racist regimes in the exercise of their right of self‑determination, as enshrined in the Charter of the United Nations and the Declaration on Principles of International Law concerning Friendly Relations and Co‑operation among States in accordance with the Charter of the United Nations. 
+<dt>(4)</dt><dd>If, at or before the time at which the defendant is to appear before a
 
-_Article 13_
+court pursuant to an order under subsection&#160;(1), the Attorney-General or
 
-This Convention shall not apply where the offence is committed within a single State, the hostage and the alleged offender are nationals of that State and the alleged offender is found in the territory of that State. 
+the Director of Public Prosecutions notifies that court that he or she has
 
-_Article 14_
+filed an indictment against the defendant in a court of another part of
 
-Nothing in this Convention shall be construed as justifying the violation of the territorial integrity or political independence of a State in contravention of the Charter of the United Nations. 
+Australia, the first-mentioned court shall:
 
-_Article 15_
+</dd> </dl>
 
-The provisions of this Convention shall not affect the application of the Treaties on Asylum, in force at the date of the adoption of this Convention, as between the States which are parties to those Treaties; but a State Party to this Convention may not invoke those Treaties with respect to another State Party to this Convention which is not a party to those treaties. 
+<center>Back to Top</center>
 
-_Article 16_
+<dl compact=""><dl compact=""><dl compact="">
 
-1.      Any dispute between two or more States Parties concerning the interpretation or application of this Convention which is not settled by negotiation shall, at the request of one of them, be submitted to arbitration. If within six months from the date of the request for arbitration the parties are unable to agree on the organization of the arbitration, any one of those parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court. 
+<dt>(a)</dt><dd>if the defendant is in custody&#151;forthwith; or</dd>
 
-2.      Each State may at the time of signature or ratification of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1 of this article. The other States Parties shall not be bound by paragraph 1 of this article with respect to any State Party which has made such a reservation. 
+<dt>(b)</dt><dd>in any other case&#151;as soon as practicable after the time at which the
 
-3.      Any State Party which has made a reservation in accordance with paragraph 2 of this article may at any time withdraw that reservation by notification to the Secretary‑General of the United Nations. 
+defendant is to appear before that court;
 
-_Article 17_
+</dd>
 
-1.      This Convention is open for signature by all States until 31 December 1980 at United Nations Headquarters in New York. 
+</dl></dl></dl>
 
-2.      This Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary‑General of the United Nations. 
+make an order directing that the defendant be taken, as soon as practicable, in the custody of such person as it directs, to the part of Australia in which the indictment was filed and there be delivered to the custody of a person having authority to arrest the defendant, and may make such further orders as it thinks necessary for facilitating the carrying into effect of the first-mentioned order.
 
-3.      This Convention is open for accession by any State. The instruments of accession shall be deposited with the Secretary‑General of the United Nations.
+<dl compact="">
 
-_Article 18_
+<dt>(5)</dt><dd>If:
 
-1.      This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty‑second instrument of ratification or accession with the Secretary‑General of the United Nations. 
+</dd> </dl>
 
-2.      For each State ratifying or acceding to the Convention after the deposit of the twenty‑second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession. 
+<dl compact=""><dl compact=""><dl compact="">
 
-_Article 19_
+<dt>(a)</dt><dd>at the time at which the defendant is to appear before a court pursuant to
 
-1.      Any State Party may denounce this Convention by written notification to the Secretary‑General of the United Nations. 
+an order under subsection&#160;(1), neither the Attorney-General nor the
 
-2.      Denunciation shall take effect one year following the date on which notification is received by the Secretary‑General of the United Nations. 
+Director of Public Prosecutions has notified that court that he or she does not
 
-_Article 20_
+intend to file an indictment against the defendant in a court in another part
 
-The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary‑General of the United Nations, who shall send certified copies thereof to all States. 
+of Australia;</dd>
 
-IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at New York on 18 December 1979\. 
+<dt>(b)</dt><dd>neither the Attorney-General nor the Director of Public Prosecutions
 
-# Notes to the _Crimes (Hostages) Act 1989_
+notifies the first-mentioned court before or at that time that he or she has
 
-### Note 1
+filed such an indictment; and</dd>
 
-The _Crimes (Hostages) Act 1989_ as shown in this compilation comprises Act No. 26, 1989 amended as indicated in the Tables below.
+<dt>(c)</dt><dd>the defendant is in custody;
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+</dd>
 
-### Table of Acts
+</dl></dl></dl>
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+the first-mentioned court shall, at that time, make an order directing that the defendant be released.
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<dl compact="">
+
+<dt>(6)</dt><dd>Where an order has been made under subsection&#160;(1) in relation to an
+
+indictment, the proceedings on that indictment do not, and that order does not,
+
+prevent or prejudice any other indictment, or any information, against the
+
+defendant, whether on the same charge or on any other charge.</dd> <dt>(7)</dt><dd>The jurisdiction of a court under subsection&#160;(3), (4) or (5) may be exercised by the court constituted by a single judge or Magistrate. </dd> </dl>
+
+**
+
+###  CRIMES (HOSTAGES) ACT 1989- SECT 13  Evidence of certain matters 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister for Foreign Affairs may give a written certificate stating
+
+that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Convention entered into force for Australia on a particular day; and</dd>
+
+<dt>(b)</dt><dd>as at the date of the certificate, the Convention remains in force for
+
+Australia.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>A certificate given under subsection&#160;(1) is admissible in any
+
+proceedings as _prima facie_ evidence of the matters stated in the
+
+certificate.
+
+</dd> </dl>
+
+**
+
+###  CRIMES (HOSTAGES) ACT 1989- SECT 14  Section&#160;38 of Judiciary Act 
+**
+
+ <dl compact="">
+
+		A matter arising under this Act, including a question of interpretation of
+
+the Convention for the purposes of this Act, shall, for the purposes of
+
+section&#160;38 of the _Judiciary Act 1903_, be deemed not to be a matter
+
+arising directly under a treaty.
+
+ </dl>
+
+**
+
+###  CRIMES (HOSTAGES) ACT 1989- SECT 15  Assistance under article 6 of Convention 
+**
+
+ <dl compact="">
+
+		A person, other than an Australian citizen, who is in custody in respect of
+
+an offence that is alleged to have been committed against this Act is entitled
+
+to the assistance referred to in paragraph 3 of article 6 of the Convention.
+
+ </dl>
+
+<center>**
+
+###  CRIMES (HOSTAGES) ACT 1989Schedule&#151;International Convention Against The Taking Of Hostages 
+**</center>
+
+ Section&#160;3 
+ _The States Parties to this Convention_,
+
+<center>Back to Top</center>
+ _Having in mind_ the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and security and the promotion of friendly relations and co-operation among States, 
+ _Recognizing_ in particular that everyone has the right to life, liberty and security of person, as set out in the Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights,
+ _Reaffirming_ the principle of equal rights and self-determination of peoples as enshrined in the Charter of the United Nations and the Declaration on Principles of International Law concerning Friendly Relations and Co-operation among States in accordance with the Charter of the United Nations, as well as in other relevant resolutions of the General Assembly, 
+ _Considering_ that the taking of hostages is an offence of grave concern to the international community and that, in accordance with the provisions of this Convention, any person committing an act of hostage taking shall either be prosecuted or extradited, 
+ _Being convinced_ that it is urgently necessary to develop international co-operation between States in devising and adopting effective measures for the prevention, prosecution and punishment of all acts of taking of hostages as manifestations of international terrorism, 
+ _Have agreed_ as follows: 
+ <center>_Article 1_</center>
+ 1.	Any person who seizes or detains and threatens to kill, to injure or to continue to detain another person (hereinafter referred to as the "hostage") in order to compel a third party, namely, a State, an international intergovernmental organization, a natural or juridical person, or a group of persons, to do or abstain from doing any act as an explicit or implicit condition for the release of the hostage commits the offence of taking of hostages ("hostage-taking") within the meaning of this Convention. 
+ 2.	Any person who: 
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>attempts to commit an act of hostage-taking, or </dd>
+
+<dt>(b)</dt><dd>participates as an accomplice of anyone who commits or attempts to commit
+
+an act of hostage-taking,
+
+</dd>
+
+</dl></dl></dl>
+
+likewise commits an offence for the purposes of this Convention. 
+ <center>_Article 2_</center>
+ Each State Party shall make the offences set forth in article 1 punishable by appropriate penalties which take into account the grave nature of those offences. 
+ <center>_Article 3_</center>
+ 1.	The State Party in the territory of which the hostage is held by the offender shall take all measures it considers appropriate to ease the situation of the hostage, in particular, to secure his release and, after his release, to facilitate, when relevant, his departure. 
+ 2.	If any object which the offender has obtained as a result of the taking of hostages comes into the custody of a State Party, that State Party shall return it as soon as possible to the hostage or the third party referred to in article 1, as the case may be, or to the appropriate authorities thereof. 
+ <center>_Article 4_</center>
+ States Parties shall co-operate in the prevention of the offences set forth in article 1, particularly by: 
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>taking all practicable measures to prevent preparations in their
+
+respective territories for the commission of those offences within or outside
+
+their territories, including measures to prohibit in their territories illegal
+
+activities of persons, groups and organizations that encourage, instigate,
+
+organize or engage in the perpetration of acts of taking of hostages; </dd>
+
+<dt>(b)</dt><dd>exchanging information and co-ordinating the taking of administrative and
+
+other measures as appropriate to prevent the commission of those offences.
+
+</dd>
+
+</dl></dl></dl>
+
+ <center>_Article 5_</center>
+ 1.	Each State Party shall take such measures as may be necessary to establish its jurisdiction over any of the offences set forth in article 1 which are committed: 
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in its territory or on board a ship or aircraft registered in that State;
+
+</dd>
+
+<dt>(b)</dt><dd>by any of its nationals or, if that State considers it appropriate, by
+
+those stateless persons who have their habitual residence in its territory; </dd>
+
+<dt>(c)</dt><dd>in order to compel that State to do or abstain from doing any act; or </dd>
+
+<dt>(d)</dt><dd>with respect to a hostage who is a national of that State, if that State
+
+considers it appropriate.
+
+</dd>
+
+</dl></dl></dl>
+
+2.	Each State Party shall likewise take such measures as may be necessary to establish its jurisdiction over the offences set forth in article 1 in cases where the alleged offender is present in its territory and it does not 
+<center>Back to Top</center>
+ extradite him to any of the States mentioned in paragraph 1 of this article.
+ 3.	This Convention does not exclude any criminal jurisdiction exercised in accordance with internal law. 
+ <center>_Article 6_</center>
+ 1.	Upon being satisfied that the circumstances so warrant, any State Party in the territory of which the alleged offender is present shall, in accordance with its laws, take him into custody or take other measures to ensure his presence for such time as is necessary to enable any criminal or extradition proceedings to be instituted. That State Party shall immediately make a preliminary inquiry into the facts. 
+ 2.	The custody or other measures referred to in paragraph 1 of this article shall be notified without delay directly or through the Secretary-General of the United Nations to: 
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the State where the offence was committed;</dd>
+
+<dt>(b)</dt><dd>the State against which compulsion has been directed or attempted; </dd>
+
+<dt>(c)</dt><dd>the State of which the natural or juridical person against whom compulsion
+
+has been directed or attempted is a national; </dd>
+
+<dt>(d)</dt><dd>the State of which the hostage is a national or in the territory of which
+
+he has his habitual residence; </dd>
+
+<dt>(e)</dt><dd>the State of which the alleged offender is a national or, if he is a
+
+stateless person, in the territory of which he has his habitual residence; </dd>
+
+<dt>(f)</dt><dd>the international intergovernmental organization against which compulsion
+
+has been directed or attempted; </dd>
+
+<dt>(g)</dt><dd>all other States concerned.
+
+</dd>
+
+</dl></dl></dl>
+
+3.	Any person regarding whom the measures referred to in paragraph 1 of this article are being taken shall be entitled: 
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to communicate without delay with the nearest appropriate representative
+
+of the State of which he is a national or which is otherwise entitled to
+
+establish such communication or, if he is a stateless person, the State in the
+
+territory of which he has his habitual residence; </dd>
+
+<dt>(b)</dt><dd>to be visited by a representative of that State.
+
+</dd>
+
+</dl></dl></dl>
+
+ 4.	The rights referred to in paragraph 3 of this article shall be exercised in conformity with the laws and regulations of the State in the territory of which the alleged offender is present subject to the proviso, however, that the said laws and regulations must enable full effect to be given to the purposes for which the rights accorded under paragraph 3 of this article are intended. 
+ 5.	The provisions of paragraphs 3 and 4 of this article shall be without prejudice to the right of any State Party having a claim to jurisdiction in accordance with paragraph 1 (b) of article 5 to invite the International Committee of the Red Cross to communicate with and visit the alleged offender. 
+ 6.	The State which makes the preliminary inquiry contemplated in paragraph 1 of this article shall promptly report its findings to the States or organization referred to in paragraph 2 of this article and indicate whether it intends to exercise jurisdiction.
+ <center>_Article 7_</center>
+ The State Party where the alleged offender is prosecuted shall in accordance with its laws communicate the final outcome of the proceedings to the Secretary-General of the United Nations, who shall transmit the information to the other States concerned and the international intergovernmental organizations concerned.
+ <center>_Article 8_</center>
+ 1.	The State Party in the territory of which the alleged offender is found shall, if it does not extradite him, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case to its competent authorities for the purpose of prosecution, through proceedings in accordance with the laws of that State. Those authorities shall take their decision in the same manner as in the case of any ordinary offence of a grave nature under the law of that State. 
+ 2.	Any person regarding whom proceedings are being carried out in connexion with any of the offences set forth in article 1 shall be guaranteed fair treatment at all stages of the proceedings, including enjoyment of all the rights and guarantees provided by the law of the State in the territory of which he is present. 
+ <center>_Article 9_</center>
+ 1.	A request for the extradition of an alleged offender, pursuant to this Convention, shall not be granted if the requested State Party has substantial grounds for believing: 
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>that the request for extradition for an offence set forth in article 1 has
+
+been made for the purpose of prosecuting or punishing a person on account of
+
+his race, religion, nationality, ethnic origin or political opinion; or </dd>
+
+<dt>(b)</dt><dd>that the person's position may be prejudiced:
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>for any of the reasons mentioned in subparagraph&#160;(a) of this
+
+paragraph, or </dd>
+
+<dt>(ii)</dt><dd>for the reason that communication with him by the appropriate authorities
+
+of the State entitled to exercise rights of protection cannot be effected.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+2.	With respect to the offences as defined in this Convention, the provisions of all extradition treaties and arrangements applicable between States Parties are modified as between States Parties to the extent that they are incompatible with this Convention. 
+ <center>_Article 10_</center>
+ 1.	The offences set forth in article 1 shall be deemed to be included as extraditable offences in any extradition treaty existing between States Parties. States Parties undertake to include such offences as extraditable offences in every extradition treaty to be concluded between them.
+ 2.	If a State Party which makes extradition conditional on the existence of a treaty receives a request for extradition from another State Party with which it has no extradition treaty, the requested State may at its option consider this Convention as the legal basis for extradition in respect of the offences set forth in article 1\. Extradition shall be subject to the other conditions provided by the law of the requested State. 
+ 3.	States Parties which do not make extradition conditional on the existence of a treaty shall recognize the offences set forth in article 1 as extraditable offences between themselves subject to the conditions provided by the law of the requested State. 
+ 4.	The offences set forth in article 1 shall be treated, for the purpose of extradition between States Parties, as if they had been committed not only in the place in which they occurred but also in the territories of the States required to establish their jurisdiction in accordance with paragraph 1 of article 5.
+ <center>_Article 11_</center>
+ 1.	States Parties shall afford one another the greatest measure of assistance in connexion with criminal proceedings brought in respect of the offences set forth in article 1, including the supply of all evidence at their disposal necessary for the proceedings. 
+ 2.	The provisions of paragraph 1 of this article shall not affect obligations concerning mutual judicial assistance embodied in any other treaty. 
+ <center>_Article 12_</center>
+ In so far as the Geneva Conventions of 1949 for the protection of war victims or the Protocols Additional to those Conventions are applicable to a particular act of hostage-taking, and in so far as States Parties to this Convention are bound under those conventions to prosecute or hand over the hostage-taker, the present Convention shall not apply to an act of hostage-taking committed in the course of armed conflicts as defined in the Geneva Conventions of 1949 and the Protocols thereto, including armed conflicts mentioned in article 1, paragraph 4, of Additional Protocol I of 1977, in which peoples are fighting against colonial domination and alien occupation and against racist regimes in the exercise of their right of self-determination, as enshrined in the Charter of the United Nations and the Declaration on Principles of International Law concerning Friendly Relations and Co-operation among States in accordance with the Charter of the United Nations. 
+ <center>_Article 13_</center>
+ This Convention shall not apply where the offence is committed within a single State, the hostage and the alleged offender are nationals of that State and the alleged offender is found in the territory of that State. 
+ <center>_Article 14_</center>
+ Nothing in this Convention shall be construed as justifying the violation of the territorial integrity or political independence of a State in contravention of the Charter of the United Nations. 
+ <center>_Article 15_</center>
+ The provisions of this Convention shall not affect the application of the Treaties on Asylum, in force at the date of the adoption of this Convention, as between the States which are parties to those Treaties; but a State Party to this Convention may not invoke those Treaties with respect to another State Party to this Convention which is not a party to those treaties. 
+ <center>_Article 16_</center>
+ 1.	Any dispute between two or more States Parties concerning the interpretation or application of this Convention which is not settled by negotiation shall, at the request of one of them, be submitted to arbitration. If within six months from the date of the request for arbitration the parties are unable to agree on the organization of the arbitration, any one of those parties may refer the dispute to the International Court of Justice by request in conformity with the Statute of the Court. 
+ 2.	Each State may at the time of signature or ratification of this Convention or accession thereto declare that it does not consider itself bound by paragraph 1 of this article. The other States Parties shall not be bound by paragraph 1 of this article with respect to any State Party which has made such a reservation. 
+ 3.	Any State Party which has made a reservation in accordance with paragraph 2 
+<center>Back to Top</center>
+ of this article may at any time withdraw that reservation by notification to the Secretary-General of the United Nations. 
+ <center>_Article 17_</center>
+ 1.	This Convention is open for signature by all States until 31&#160;December 1980 at United Nations Headquarters in New York. 
+ 2.	This Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations. 
+ 3.	This Convention is open for accession by any State. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
+ <center>_Article 18_</center>
+ 1.	This Convention shall enter into force on the thirtieth day following the date of deposit of the twenty-second instrument of ratification or accession with the Secretary-General of the United Nations. 
+ 2.	For each State ratifying or acceding to the Convention after the deposit of the twenty-second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession. 
+ <center>_Article 19_</center>
+ 1.	Any State Party may denounce this Convention by written notification to the Secretary-General of the United Nations. 
+ 2.	Denunciation shall take effect one year following the date on which notification is received by the Secretary-General of the United Nations. 
+ <center>_Article 20_</center>
+ The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States. 
+ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Convention, opened for signature at New York on 18&#160;December 1979\. 
+
+<center>**
+
+###  CRIMES (HOSTAGES) ACT 1989<centreit>Notes to the _Crimes (Hostages) Act 1989_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Crimes (Hostages) Act 1989_ as shown in this compilation comprises Act No.&#160;26, 1989 amended as indicated in the Tables below.
+ For all relevant information pertaining to application, saving or transitional provisions _see_ Table&#160;A.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Crimes (Hostages) Act 1989</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Crimes (Hostages) Act 1989</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>26, 1989</div>
+
   </td>
-  <td>
-    <div>15 May 1989</div>
+  <td colspan="1" align="left">
+    <div>15&#160;May 1989</div>
+
   </td>
-  <td>
-    <div>20 June 1990 ( <i>see Gazette</i>1990, No. S145)</div>
+  <td colspan="1" align="left">
+    <div>20&#160;June 1990 ( <i>see Gazette</i>1990, No.&#160;S145)</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Qantas Sale Act 1992</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Qantas Sale Act 1992</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>196, 1992</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>21 Dec 1992</div>
+
   </td>
-  <td>
-    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule (Part&#160;2): 10 Mar 1993 ( <i>see Gazette</i>1993, No.&#160;GN17) <i>(a)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Crimes and Other Legislation Amendment Act 1994</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Crimes and Other Legislation Amendment Act 1994</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>182, 1994</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>19 Dec 1994</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 31: 16 Jan 1995 <i>(b)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 1996</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>43, 1996</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Oct 1996</div>
+
   </td>
-  <td>
-    <div>Schedule 2 (item 45): <i>(c)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;2 (item&#160;45): <i>(c)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>24, 2001</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>6 Apr 2001</div>
+
   </td>
-  <td>
-    <div>S. 4(1), (2) and Schedule 15: <i>(d)</i></div>
+  <td colspan="1" align="left">
+    <div>S. 4(1), (2) and Schedule 15: <i>(d)</i></div>
+
   </td>
-  <td>
-    <div>S. 4(1) and (2)</div>
+  <td colspan="1" align="left">
+    <div>S. 4(1), (2)</div>
+
+  </td>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _Crimes (Hostages) Act 1989_ was amended by the Schedule (Part&#160;2) only of the _Qantas Sale Act 1992_, paragraph 2(3)(a) of which provides as follows:
+
+	(3)	A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the Gazette but only if:
+
+	(a)	in the case of sections&#160;30, 31, 35, 37, 39, 43 and 50 and Parts&#160;1 and 2 of the Schedule&#151;the day is not earlier than the substantial minority sale day; 
+
+_(b)_	The _Crimes (Hostages) Act 1989_ was amended by section&#160;31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(4) of which provides as follows:
+
+	(4)	The amendments made by this Act to the _Australian Federal Police Act 1979_, the _Crimes (Aviation) Act 1991_ (other than the amendment made to Schedule&#160;5 to that Act), the _Crimes (Hostages) Act 1989_, the _Crimes (Internationally Protected Persons) Act 1976_, the _Crimes (Overseas) Act 1964_, the _Crimes (Superannuation Benefits) Act 1989_, _the Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_, the _Customs Act 1901_, the _Director of Public Prosecutions Act 1983_, the _Extradition Act 1988_, the _Financial Transaction Reports Act 1988_ and to sections&#160;23 and 59 of the _Proceeds of Crime Act 1987_ commence on the 28th day after the day on which this Act receives the Royal Assent.
+
+_(c)_	The _Crimes (Hostages) Act 1989_ was amended by Schedule&#160;2 (item&#160;45) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
+
+	(2)	Each item in Schedule&#160;2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item. 
+
+	Item&#160;45 is taken to have commenced immediately after the commencement of the _Crimes (Hostages) Act 1989_.
+  The _Crimes (Hostages) Act 1989_ came into operation on 20&#160;June 1990 (_see Gazette_ 1990, No. S145).
+ _(d)_	The _Crimes (Hostages) Act 1989_ was amended by Schedule 15 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
+
+	(1)	Subject to this section, this Act commences at the later of the following times:
+
+	(a)	immediately after the commencement of item&#160;15 of Schedule&#160;1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
+
+	Item 15 commenced on 24 May 2001.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
   </td>
-  <td>
-    <div>5, 2011</div>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
   </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 67, 68): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_     The _Crimes (Hostages) Act 1989_ was amended by the Schedule (Part 2) only of the _Qantas Sale Act 1992_, paragraph 2(3)(a) of which provides as follows:
-
-                 (3)   A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the Gazette but only if:
-
-                              (a)   in the case of sections 30, 31, 35, 37, 39, 43 and 50 and Parts 1 and 2 of the Schedule—the day is not earlier than the substantial minority sale day; 
-
-_(b)_     The _Crimes (Hostages) Act 1989_ was amended by section 31 only of the _Crimes and Other Legislation Amendment Act 1994_, subsection 2(4) of which provides as follows:
-
-                 (4)   The amendments made by this Act to the _Australian Federal Police Act 1979_, the _Crimes (Aviation) Act 1991_ (other than the amendment made to Schedule 5 to that Act), the _Crimes (Hostages) Act 1989_, the _Crimes (Internationally Protected Persons) Act 1976_, the _Crimes (Overseas) Act 1964_, the _Crimes (Superannuation Benefits) Act 1989_, _the Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990_, the _Customs Act 1901_, the _Director of Public Prosecutions Act 1983_, the _Extradition Act 1988_, the _Financial Transaction Reports Act 1988_ and to sections 23 and 59 of the _Proceeds of Crime Act 1987_ commence on the 28th day after the day on which this Act receives the Royal Assent.
-
-_(c)_     The _Crimes (Hostages) Act 1989_ was amended by Schedule 2 (item 45) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
-
-                 (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item. 
-
-         Item 45 is taken to have commenced immediately after the commencement of the _Crimes (Hostages) Act 1989_.
-
- The _Crimes (Hostages) Act 1989_ came into operation on 20 June 1990 (_see Gazette_ 1990, No. S145).
-
-_(d)_     The _Crimes (Hostages) Act 1989_ was amended by Schedule 15 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences at the later of the following times:
-
-                              (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
-
-         Item 15 commenced on 24 May 2001.
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
-  <td>
-    <div>am. No. 196, 1992; No. 24, 2001; No. 5, 2011</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;196, 1992; No. 24, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 6A</div>
+
   </td>
-  <td>
-    <div>ad. No. 24, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 24, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 7</div>
+
   </td>
-  <td>
-    <div>am. No. 24, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No. 24, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 13</div>
+
   </td>
-  <td>
-    <div>rs. No. 182, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;182, 1994</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Schedule</div>
+
   </td>
-  <td>
-    <div>am. No. 43, 1996</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;43, 1996</div>
+
   </td>
-</tr></table>
+</tr></table>**Table A**
 
-## Table A
+**Application, saving or transitional provisions**
 
-### Application, saving or transitional provisions
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_ (No. 24, 2001)
 
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
+**4  Application of amendments**
 
-##### <a id="4"></a>4  Application of amendments
+<dl compact="">
 
-             (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+<dt>(1)</dt><dd>Subject to subsection&#160;(3), each amendment made by this Act applies to
 
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+acts and omissions that take place after the amendment commences.</dd> <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd> </dl>
 
- 
+</def>
+
+</def></def></def></def>
+
+
