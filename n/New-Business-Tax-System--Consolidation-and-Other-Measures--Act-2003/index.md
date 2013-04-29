@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image001.gif)
 
 # New Business Tax System (Consolidation and Other Measures) Act 2003
 
 **Act No. 16 of 2003 as amended**
 
-This compilation was prepared on 18 August 2010
- taking into account amendments up to Act No. 75 of 2010
+This compilation was prepared on 9 June 2010
+ taking into account amendments up to Act No. 56 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -23,6 +23,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [2](#2).            Commencement
 
 [3](#3).            Schedule(s)
+
+[4](#4).            Amendment of income tax assessments
 
 **Schedule 1—Consolidation: amendments of various cost base provisions** 
 
@@ -650,6 +652,10 @@ Note:          This table relates only to the provisions of th
 
                    Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
+##### <a id="4"></a>4  Amendment of income tax assessments
+
+                   Section 170 of the _Income Tax Assessment Act 1936_ does not prevent the amendment of an assessment made before the commencement of this section for the purposes of giving effect to this Act.
+
 ###### Schedule 1—Consolidation: amendments of various cost base provisions
 
 <h7 class="ActHead7">Part 1—Adjustments to restrict step 4 reduction in allocable cost amount in Subdivision 705-B and 705-D cases</h7>
@@ -768,7 +774,7 @@ Extent to which tax paid on undistributed profits
 
              (3)  Then work out how much of the undistributed profits does not exceed the amount worked out using the following formula as at the joining time:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image002.gif)
 
 ## 5  Section 705-90 (heading)
 
@@ -776,7 +782,7 @@ Repeal the heading, substitute:
 
 ##### <a id="705-90"></a>705-90  Undistributed, taxed profits accruing to joined group before joining time—step 3 in working out allocable cost amount
 
-## 6  Paragraph 705-90(6)(a)
+## 6  Paragraph 705-90(6)(a)
 
 Omit “, if they had been distributed as dividends at the joining time, could have been so franked”, substitute “satisfy the requirements of subsection (3)”.
 
@@ -826,7 +832,7 @@ First entity’s interest in second entity’s profit/loss adjustment amount
 
              (3)  The first entity’s interest in the second entity’s profit/loss adjustment amount is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image003.gif)
 
 Adjustment to allocation of allocable cost amount for indirect interest in entity with profits/losses
 
@@ -850,7 +856,7 @@ First entity’s interest in third entity’s profit/loss adjustment amount
 
              (5)  The first entity’s interest in the third entity’s profit/loss adjustment amount is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image004.gif)
 
 where:
 
@@ -884,7 +890,7 @@ First linked entity’s interest in second linked entity’s profit/loss adjustm
 
              (3)  The first linked entity’s interest in the second linked entity’s profit/loss adjustment amount is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image005.gif)
 
 Adjustment to allocation of allocable cost amount for indirect interest in linked entity with profits/losses
 
@@ -906,7 +912,7 @@ First linked entity’s interest in third linked entity’s profit/loss adjustme
 
              (5)  The first linked entity’s interest in the third linked entity’s profit/loss adjustment amount is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image006.gif)
 
 where:
 
@@ -916,7 +922,7 @@ where:
 
 <h9 class="ActHead9">Income Tax Assessment Act 1997</h9>
 
-## 11  Section 705-60 (after table item 3)
+## 11  Section 705-60 (after table item 3)
 
 Insert:
 
@@ -1015,7 +1021,7 @@ then the step 3A amount is apportioned among the first level entities and the su
 
                      (c)  each first level entity has the following proportion of the step 3A amount:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image007.gif)
 
                             where:
 
@@ -1111,7 +1117,7 @@ then the step 3A amount is apportioned among the first level entities and the su
 
                      (c)  each first level entity has the following proportion of the step 3A amount:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image007.gif)
 
                             where:
 
@@ -1587,7 +1593,7 @@ Add:
 
              (6)  The amount of the * capital gain or * capital loss is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image008.gif)
 
 where:
 
@@ -1678,7 +1684,7 @@ Insert:
 
           (1C)  If the conditions in section 705-315 of the _Income Tax Assessment Act 1997_ are satisfied, then for the purposes of any application of subsection (1) of this section in relation to the errors mentioned in that section, so far as they were made in a statement made as mentioned in subsection 705-230(2) of that Act, the references in paragraphs (1)(c) and (d) of this section to the excess are taken instead to be references to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image009.gif)
 
 where:
 
@@ -1704,7 +1710,7 @@ Add:
 
                      (b)  the statement is false or misleading because of errors mentioned in section 705-315 of the _Income Tax Assessment Act 1997_ that were made in the income tax return mentioned in subsection 705-230(2) of that Act, your **_shortfall amount_** is instead the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image010.gif)
 
 where:
 
@@ -1726,7 +1732,7 @@ Add:
 
              (3)  However, to the extent that your scheme shortfall amount is due to errors in an income tax return as mentioned in subsection 705-230(2) of the _Income Tax Assessment Act 1997_, your **_scheme shortfall amount_** is instead the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image011.gif)
 
 where:
 
@@ -3961,7 +3967,7 @@ Note:          One consequence of this for the operation of Di
 
 ##### <a id="715-450"></a>715-450  No reductions or other consequences for interests subject to loss cancellation under Subdivision 715-H
 
-                   If section 715-610 reduces a loss that would otherwise be * realised for income tax purposes by a * realisation event that happens to an * equity or loan interest in an entity:
+                   If section 715-610 reduces a loss that would otherwise be * realised for income tax purposes by a * realisation event that happens to an * equity or loan interest in an entity:
 
                      (a)  the loss is not subject to reduction under Division 723 (Direct value shifting by creating right over non-depreciating asset) or 727 (Indirect value shifting); and
 
@@ -4561,7 +4567,7 @@ Amount of credit
 
              (3)  The amount of the credit is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image012.gif)
 
 Reduction in credit in relation to the head company
 
@@ -4809,7 +4815,7 @@ Note 1:       This has the effect that:
 
 (b)           the shareholdings of all members of a consolidated group are aggregated to work out whether dividends paid to a member are non-portfolio dividends for the purposes of those sections.
 
-Note 2:       Section 717-10 may also affect FDA credits and FDA debits for the head company of a consolidated group. It treats the head company as having paid and been personally liable for foreign tax on foreign income included in its assessable income if a subsidiary member of the group actually paid and was personally liable for the tax.
+Note 2:       Section 717-10 may also affect FDA credits and FDA debits for the head company of a consolidated group. It treats the head company as having paid and been personally liable for foreign tax on foreign income included in its assessable income if a subsidiary member of the group actually paid and was personally liable for the tax.
 
 #### FDA declaration for dividend paid by subsidiary member
 
@@ -4855,7 +4861,7 @@ FDA declaration percentage in each FDA declaration
 
              (3)  If (apart from this subsection) that sum _is_ greater than the * head company’s * FDA surplus at the beginning of the day, each of the * FDA declarations is valid but is taken always to have effect as if the * FDA declaration percentage specified in the declaration were the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image013.gif)
 
              (4)  Subsection 128TC(5) of the _Income Tax Assessment Act 1936_ does not operate in relation to any of the * FDA declarations.
 
@@ -7083,7 +7089,7 @@ Insert:
 
                               (i)  the * tax cost setting amounts for all of the * retained cost base assets that become those of the * head company of the group because subsection 701-1(1) (the single entity rule) applies;
 
-                            exceeds:
+                            exceeds:
 
                              (ii)  the group’s * allocable cost amount for the entity.
 
@@ -7246,7 +7252,7 @@ Omit “Note”, substitute “Note 1”.
 
 Add:
 
-Note 2:       An asset whose tax cost is set under Division 701 of the _Income Tax Assessment Act 1997_ may have its adjustable value reduced in applying this section: see section 73BAG of this Act.
+Note 2:       An asset whose tax cost is set under Division 701 of the _Income Tax Assessment Act 1997_ may have its adjustable value reduced in applying this section: see section 73BAG of this Act.
 
 ## 7  Subsection 73BF(2)
 
@@ -7352,7 +7358,7 @@ Special rule for a life insurance company that is, or has been, the head company
 
 * * *
 
-Step 4.    Reduce the step 3 result by the lesser of the following amounts:
+_Step 4_.   Reduce the step 3 result by the lesser of the following amounts:
 
                (a)     the amount of any * tax loss, to the extent that the company can carry it forward to the next income year;
 
@@ -8343,7 +8349,7 @@ Repeal the subsection, substitute:
 
                      (c)  is a revenue asset.
 
-## 12  Subsection 727-1(1)
+## 12  Subsection 727-1(1)
 
 After “Division 727”, insert “, as inserted by the _New Business Tax System (Consolidation, Value Shifting, Demergers and Other Measures) Act 2002_ and amended by the _New Business Tax System (Consolidation and Other Measures) Act 2003_,”.
 
@@ -8367,9 +8373,9 @@ Adjusted unrealised loss worked out under this section
 
 _Method statement_
 
-Step 1.    Add up the amount or value of each thing covered by subsection (5). (If the total exceeds the realised loss, reduce the total by the excess.)
+_Step 1._   Add up the amount or value of each thing covered by subsection (5). (If the total exceeds the realised loss, reduce the total by the excess.)
 
-Step 2.    Reduce the step 1 amount by so much of the realised loss as it is reasonable to conclude is attributable to _none_ of these:
+_Step 2._   Reduce the step 1 amount by so much of the realised loss as it is reasonable to conclude is attributable to _none_ of these:
 
                (a)     a notional capital loss, or a notional revenue loss, that the company has at that last alteration time in respect of a * CGT asset;
 
@@ -8671,7 +8677,7 @@ Operative provisions
 
 #### Guide to Subdivision 210-F
 
-##### <a id="210-75"></a>210-75  What this Subdivision is about
+##### <a id="210-75"></a>210-75  What this Subdivision is about
 
 * * *
 
@@ -8703,7 +8709,7 @@ Operative provisions
 
              (2)  A * venture capital debit arises for a * participating PDF when a * distribution is made if the PDF does not allocate a * venture capital credit in accordance with subsection (1). The amount of the debit is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image014.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image014.gif)
 
 where:
 
@@ -8717,7 +8723,7 @@ where:
 
              (2)  The **_venture capital percentage_** for a * distribution is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image015.gif)
 
 ##### <a id="210-82"></a>210-82  Consequences of breaching the rule in section 210-81
 
@@ -8741,19 +8747,19 @@ This Subdivision:
 
 sub-account for each PDF; and</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      identifies when venture capital
+<li class="BoxList" style="margin-left:21.25pt">•      identifies when venture
 
-credits and debits arise in the sub-account and the amount of those
+capital credits and debits arise in the sub-account and the amount of
 
-credits and debits; and</li>
+those credits and debits; and</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      identifies when there is a
 
 venture capital surplus or deficit in the sub-account; and</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      creates a liability to pay
+<li class="BoxList" style="margin-left:21.25pt">•      creates a liability to pay venture
 
-venture capital deficit tax if the account is in deficit at certain times.</li>
+capital deficit tax if the account is in deficit at certain times.</li>
 
 * * *
 
@@ -8939,7 +8945,7 @@ Note:          The balance in the venture capital sub-account 
 
                      (b)  the day on which the Commissioner makes an assessment of the amount of the PDF’s taxable income for that year under section 166 of the _Income Tax Assessment Act 1936_.
 
-##### <a id="210-120"></a>210-120  Venture capital debits
+##### <a id="210-120"></a>210-120  Venture capital debits
 
                    The table sets out when a debit arises in the * venture capital sub-account of a * PDF. A debit in a PDF’s venture capital sub-account is called a **_venture capital debit_**.
 
@@ -9093,7 +9099,7 @@ Net venture capital credits
 
              (2)  The * PDF’s **_net venture capital credits_** for the income year is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image016.gif)
 
 where:
 
@@ -9105,7 +9111,7 @@ CGT limit
 
              (3)  The * PDF’s **_CGT limit_** for the income year is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image017.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image017.gif)
 
 where:
 
@@ -9265,7 +9271,7 @@ Where the recipient is a life insurance company
 
              (2)  If the entity receiving the * distribution is a * life insurance company, the * tax offset is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image018.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image018.gif)
 
 where:
 
@@ -9419,7 +9425,7 @@ Insert:
 
              (3)  The amount of the venture capital credit is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image019.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image019.gif)
 
 ##### <a id="210-15"></a>210-15  Converting the venture capital sub-account balance to a tax paid basis—PDFs whose 2001-02 franking year ends before 30 June 2002
 
@@ -9433,7 +9439,7 @@ Insert:
 
              (3)  The amount of the venture capital credit is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image020.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image020.gif)
 
              (4)  If, but for this subsection, the PDF would have a venture capital deficit under Part IIIAA of the 1936 Act at the end of 30 June 2002 (the **_original deficit_**):
 
@@ -9443,7 +9449,7 @@ Insert:
 
              (5)  The amount of the venture capital debit is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image021.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image021.gif)
 
 ## 21  Application
 
@@ -10311,7 +10317,7 @@ the Commissioner may do so within a period of 3 years after the first amendment.
 
                    If a corporate tax entity is dissatisfied with a franking assessment made in relation to the entity under this Division, the entity may object against the assessment in the manner set out in Part IVC of the _Taxation Administration Act 1953_.
 
-##### <a id="214-95"></a>214-95  Evidence
+##### <a id="214-95"></a>214-95  Evidence
 
                    Section 177 of the _Income Tax Assessment Act 1936_ applies as if:
 
@@ -10773,7 +10779,7 @@ Insert:
 
                    The **_franked part_** of a * distribution is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image022.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image022.gif)
 
 ##### <a id="976-5"></a>976-5  Unfranked part of a distribution
 
@@ -10783,13 +10789,13 @@ Insert:
 
                    The **_part of a distribution that is franked with an exempting credit_** is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image023.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image023.gif)
 
 ##### <a id="976-15"></a>976-15  The part of a distribution that is franked with a venture capital credit
 
                    The **_part of a distribution that is franked with a venture capital credit_** is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00604/Html/NewBusTaxSysConsOtherMeas2003_image024.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00407/Html/NewBusTaxSysConsOtherMeas2003_image024.gif)
 
 \[The next Part is Part 6-5.]
 
@@ -10917,7 +10923,7 @@ The amendments made by this Schedule apply to distributions made after 30 June
 
 The _New Business Tax System (Consolidation and Other Measures) Act 2003_ as shown in this compilation comprises Act No. 16, 2003 amended as indicated in the Tables below. 
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -10959,7 +10965,7 @@ of Assent</div>
     <div>16, 2003</div>
   </td>
   <td>
-    <div>11 Apr 2003</div>
+    <div>11 Apr 2003</div>
   </td>
   <td>
     <div><i>See</i>s. 2(1)</div>
@@ -10976,10 +10982,10 @@ of Assent</div>
     <div>83, 2004</div>
   </td>
   <td>
-    <div>25 June 2004</div>
+    <div>25 June 2004</div>
   </td>
   <td>
-    <div>Schedule 2 (item 51): Royal Assent</div>
+    <div>Schedule 2 (item 51): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -10996,8 +11002,8 @@ of Assent</div>
     <div>1 Apr 2005</div>
   </td>
   <td>
-    <div>Schedule 10 (item 224): Royal Assent 
-Schedule 10 (item 266): <i>(a)</i></div>
+    <div>Schedule 10 (item 224): Royal Assent 
+Schedule 10 (item 266): <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -11011,30 +11017,13 @@ Schedule 10 (item 266): <i>(a)</i></div>
     <div>56, 2010</div>
   </td>
   <td>
-    <div>3 June 2010</div>
+    <div>3 June 2010</div>
   </td>
   <td>
     <div>Schedule 5 (items 137–140): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 5 (items 139, 140)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2010 Measures No. 2) Act 2010</div>
-  </td>
-  <td>
-    <div>75, 2010</div>
-  </td>
-  <td>
-    <div>28 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 13): 29 June 2010</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -11122,7 +11111,7 @@ _(a)_     Subsection 2(1) (item 19) of the _Tax Laws Amendment (2004 M
   </td>
   <td>
     <div>
-      24 October 2002
+      24 October 2002
     </div>
   </td>
 </tr></table>
@@ -11160,15 +11149,7 @@ _(a)_     Subsection 2(1) (item 19) of the _Tax Laws Amendment (2004 M
 </tr>
 <tr>
   <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rep. No. 75, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
+    <div><b>Schedule 1</b></div>
   </td>
   <td>
     <div></div>
@@ -11208,7 +11189,7 @@ _(a)_     Subsection 2(1) (item 19) of the _Tax Laws Amendment (2004 M
 </tr>
 <tr>
   <td>
-    <div>Item 6</div>
+    <div>Item 6</div>
   </td>
   <td>
     <div>am. No. 41, 2005</div>
@@ -11219,9 +11200,9 @@ _(a)_     Subsection 2(1) (item 19) of the _Tax Laws Amendment (2004 M
 
 ### Application, saving or transitional provisions
 
-_Tax Laws Amendment (2010 Measures No. 1) Act 2010 (No. 56, 2010)_
+_Tax Laws Amendment (2010 Measures No. 1) Act 2010 (No. 56, 2010)_
 
-## Schedule 5
+## Schedule 5
 
 ## 139  Application provision
 
