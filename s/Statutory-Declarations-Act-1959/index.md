@@ -1,9 +1,8 @@
 
 Statutory Declarations Act 1959
 Act No. 52 of 1959 as amended
-This compilation was prepared on 31 May 2004 taking into account amendments up to Act No. 62 of 2004
+This compilation was prepared on 10 January 2002 taking into account amendments up to Act No. 24 of 2001
 The text of any of those amendments not in force  on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -24,7 +23,9 @@ Contents
 13	Extension of Act to Territories [see Note 2]	4
 14	Regulations	5
 The Schedule—Commonwealth of Australia	6
-Notes	7
+Notes		7
+
+
 An Act relating to Statutory Declarations
 1  Short title [see Note 1]
 		This Act may be cited as the Statutory Declarations Act 1959.
@@ -113,11 +114,14 @@ Note 1
 The Statutory Declarations Act 1959 as shown in this compilation comprises Act No. 52, 1959 amended as indicated in the Tables below.
 All relevant information pertaining to application, saving or transitional provisions prior to 6 April 2001 is not included in this compilation. For subsequent information see Table A. 
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
+
 Statutory Declarations Act 1959
 52, 1959
 22 May 1959
@@ -136,7 +140,7 @@ Ss. 9(1) and 10
 Law and Justice Legislation Amendment Act 1990
 115, 1990
 21 Dec 1990
-Ss. 3, 5, 6, 8, 9, 16, 17, 20–23, 28, 30, 32, 33, 38 and 39: 4 Feb 1991 (see Gazette 1991, No. GN3, p. 278) Ss. 4, 7, 10–15, 18, 19, 24–27, 29, 31 and 34–37: 21 June 1991 Remainder: Royal Assent
+Ss. 3, 5, 6, 8, 9, 16, 17, 20‑23, 28, 30, 32, 33, 38 and 39: 4 Feb 1991 (see Gazette 1991, No. GN3, p. 278) Ss. 4, 7, 10‑15, 18, 19, 24‑27, 29, 31 and 34‑37: 21 June 1991 Remainder: Royal Assent
 —
 Law and Justice Legislation Amendment Act 1991
 136, 1991
@@ -152,17 +156,12 @@ Statute Law Revision Act 1996
 43, 1996
 25 Oct 1996
 Schedule 5 (item 143): Royal Assent (c)
-—
+— 
 Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
 24, 2001
 6 Apr 2001
 S. 4(1), (2) and Schedule 46: (d)
-S. 4(1) and (2) [see Table A]
-Law and Justice Legislation Amendment Act 2004
-62, 2004
-26 May 2004
-Schedule 1 (items 55, 56): [see Note 3]
-—
+S. 4(1), (2) [see Table A]
 (a)	The Statutory Declarations Act 1959 was amended by the Schedule only of the Law and Justice Legislation Amendment Act 1991, subsection 2(4) of which provides as follows:
 	(4)	Subject to subsection (5), the amendments of the Statutory Declarations Act 1959 made by this Act, and subsections 3(3) and (4), commence on a day to be fixed by Proclamation.
 	The amendments of the Statutory Declarations Act 1959 and subsections 3(3) and (4) came into operation on 12 December 1991 (see Gazette 1991, No. S336)
@@ -176,7 +175,7 @@ Schedule 1 (items 55, 56): [see Note 3]
 	Item 15 commenced on 24 May 2001.
 
 Table of Amendments
-ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 3	
@@ -206,15 +205,6 @@ ad. No. 136, 1991
 Note 2
 Section 13—By Proclamation dated 14 September 1972 and in force at 31 August 1979, this Act was declared to extend to the Territories of Christmas Island and Cocos (Keeling) Islands (see Gazette 1972, No. 93).
 Section 13—By Proclamation dated 4 February 1993, this Act was declared to extend to the Territories of the Australian Antarctic Territory, the Coral Sea Islands Territory, the Territory of Ashmore and Cartier Islands and the Territory of Heard Island and McDonald Islands (see Gazette 1993, No. GN6).
-Note 3
-Law and Justice Legislation Amendment Act 2004 (No. 62, 2004)
-The following amendments commence on 26 November 2004 unless proclaimed earlier:
-Schedule 1
-55  Paragraph 8(a)
-Omit “the form in the Schedule”, substitute “the prescribed form”.
-56  The Schedule
-Repeal the Schedule.
-As at 31 May 2004 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
