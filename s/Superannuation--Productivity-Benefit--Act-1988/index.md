@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00521/Html/eb7a81f6-7f76-4679-8872-8c4237fb23ad_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image001.gif)
 
 # Superannuation (Productivity Benefit) Act 1988
 
 **Act No. 70 of 1988 as amended**
 
-This compilation was prepared on 11 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4E](#4E).          Payments of equivalent benefit to declared funds
 
-[4EA](#4EA).       Payments of equivalent benefit to CSC
+[4EA](#4EA).       Payments of equivalent benefit to Board
 
 [4F](#4F).          Payments of contributions to declared funds
 
@@ -138,11 +138,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  the annual rate of contribution of the person based on the person’s annual rate of salary at the end of that year or, if the interim benefit became payable in respect of the person in that year, immediately before the day on which the interim benefit became payable.
 
+                    <a name="board"></a>**_Board_** has the same meaning as in the new Superannuation Act.
+
                     <a name="class-employe"></a>**_class employee_** means a qualified employee in a class in respect of which a declaration is in force under section 4A.
 
                     <a name="continu-contribut"></a>**_continuing contribution_**, in relation to a fund employee, has the meaning given by section 3C.
-
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
 
                     <a name="declar-first-interest-factor"></a>**_declared first interest factor_**, in relation to a financial year, means the factor that is the declared first interest factor for that year because of a declaration in force under paragraph 3E(a).
 
@@ -284,7 +284,7 @@ other than a pay period that has been taken into account in determining the amou
 
                     <a name="yearli-interest-factor"></a>**_yearly interest factor_**, in relation to a qualified employee in respect of whom an interim benefit is payable in relation to the year commencing on 1 January 1988 or a subsequent year, means the number ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00521/Html/eb7a81f6-7f76-4679-8872-8c4237fb23ad_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image002.gif)
 
 where:
 
@@ -422,9 +422,9 @@ then, for the purposes of subsection (1) in relation to a pay period after the
 
              (2)  Subject to this section, where a fund employee is employed on a part‑time basis, the continuing contribution in respect of the employee for a pay period of the employee is the amount calculated using whichever of the following formulas the employee’s designated employer considers to be convenient: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00521/Html/eb7a81f6-7f76-4679-8872-8c4237fb23ad_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image003.gif)
 
-![](http://www.comlaw.gov.au/Details/C2011C00521/Html/eb7a81f6-7f76-4679-8872-8c4237fb23ad_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image004.gif)
 
 where:
 
@@ -444,7 +444,7 @@ where:
 
                      (b)  if the employee is on leave without pay for part only of the pay period—the amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00521/Html/eb7a81f6-7f76-4679-8872-8c4237fb23ad_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image003.gif)
 
                             where:
 
@@ -530,9 +530,9 @@ where:
 
                      (b)  where that amount is not paid on the day on which he or she becomes a member—a contribution in respect of the employee of interest, fixed under section 4G in relation to the fund, on the amount in respect of each day in the period commencing on the day on which the amount should have been paid and ending on the day immediately before the day when the amount is paid.
 
-##### <a id="4EA"></a>4EA  Payments of equivalent benefit to CSC
+##### <a id="4EA"></a>4EA  Payments of equivalent benefit to Board
 
-                   Where an interim arrangement employee becomes a scheme employee, his or her designated employer must pay to CSC:
+                   Where an interim arrangement employee becomes a scheme employee, his or her designated employer must pay to the Board:
 
                      (a)  a contribution in respect of the employee equal to the amount of the interim benefit that would have been payable in respect of the employee if he or she had ceased to be a qualified employee on the day immediately before the day on which he or she became a scheme employee; and
 
@@ -666,7 +666,7 @@ the benefit is payable to the person.
 
              (1)  The amount of an interim benefit that accumulates in respect of service by a qualified employee in a year commencing on 1 January 1988, 1 January 1989 or 1 January 1990 is the amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00521/Html/eb7a81f6-7f76-4679-8872-8c4237fb23ad_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image005.gif)
 
                     <a name="aarc"></a>**_AARC_** is the average annual rate of contribution of the person for that year;
 
@@ -692,7 +692,7 @@ the benefit is payable to the person.
 
              (2)  The amount of interim benefit that accumulates in respect of service by an interim arrangement employee in the year commencing on 1 July 1990 or a subsequent year is the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00521/Html/eb7a81f6-7f76-4679-8872-8c4237fb23ad_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00222/Html/f78ddbef-f9b2-42e7-8961-e1db140b57df_files/image006.gif)
 
 where:
 
@@ -758,6 +758,8 @@ where:
 
              (5)  Regulations made for the purposes of paragraph (p) of the definition of **_qualified employee_** in subsection 3(1) take effect from such day, not earlier than 1 January 1988, as is specified in the regulations. 
 
+ 
+
 # Schedule—Table of continuing contributions
 
 _Section 3C_
@@ -814,6 +816,8 @@ _Section 3C_
     <div>The amount that is 2% of the employee’s pay period rate of salary</div>
   </td>
 </tr></table>
+
+ 
 
 # Notes to the _Superannuation (Productivity Benefit) Act 1988_
 
@@ -1079,8 +1083,8 @@ Ss. 66, 69 and 70: Royal Assent <i>(b)</i></div>
     <div>23 June 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (items 33–38): Royal Assent 
-Schedule 4 (items 3–7): 1 July 2008</div>
+    <div>Schedule 2 (items 33–38): Royal Assent 
+Schedule 4 (items 3–7): 1 July 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -1098,23 +1102,6 @@ Schedule 4 (items 3–7): 1 July 2008</div>
   </td>
   <td>
     <div>Schedule 6 (items 105, 106, 136): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 240–242): <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1248,61 +1235,6 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
 </tr></table>
 
-_(h)     S_ ubsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -1347,7 +1279,7 @@ _(h)     S_ ubsection 2(1) (item 2) of the _Superannuation Legislation
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 130, 1988; No. 40, 1990; No. 130, 1991; No. 187, 1992; No. 82, 1993; No. 62, 1997; No. 146, 1999; No. 81, 2005; No. 26, 2008; Nos. 5 and 58, 2011</div>
+    <div>am. No. 130, 1988; No. 40, 1990; No. 130, 1991; No. 187, 1992; No. 82, 1993; No. 62, 1997; No. 146, 1999; No. 81, 2005; No. 26, 2008; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1448,26 +1380,10 @@ _(h)     S_ ubsection 2(1) (item 2) of the _Superannuation Legislation
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 4EA</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4EA</div>
   </td>
   <td>
     <div>ad. No. 130, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
