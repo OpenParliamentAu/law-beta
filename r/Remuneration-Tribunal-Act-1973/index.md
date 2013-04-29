@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00479/Html/2963517c-c642-4553-9862-cefadb7ff80b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00423/Html/86857946-0da9-4735-bfd8-aa73efdb803e_files/image001.gif)
 
 # Remuneration Tribunal Act 1973
 
 **Act No. 215 of 1973 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 6 June 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -130,6 +130,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  Chief Executive Officer of Australian Rail Track Corporation Limited;
 
+                     (d)  Chief Executive Officer of the Commonwealth Services Delivery Agency;
+
                      (e)  Director of Aviation Safety of the Civil Aviation Safety Authority;
 
                       (f)  Chief Executive Officer of Employment National Limited;
@@ -191,12 +193,6 @@ but does not include a reference to any of the following offices or appointments
                       (l)  an office or appointment the terms and conditions of which are fixed under the _Trade Representatives Act 1933_;
 
                     (m)  an office or appointment (other than the office of Director‑General of Security) in the Australian Security Intelligence Organisation;
-
-                     (n)  the Chief Executive Centrelink (within the meaning of the _Human Services (Centrelink) Act 1997_);
-
-                     (o)  the Chief Executive Medicare (within the meaning of the _Human Services (Medicare) Act 1973_);
-
-                   (oa)  the Child Support Registrar;
 
                      (p)  persons who are employed under section 42 of the _Naval Defence Act 1910_;
 
@@ -266,7 +262,7 @@ and the person with whom such a contract is made or to whom such a Commission or
 
 ### Division 2—Determinations and reports by the Remuneration Tribunal
 
-##### <a id="4"></a>4  Establishment of Remuneration Tribunal
+##### <a id="4"></a>4  Establishment of Remuneration Tribunal
 
              (1)  For the purposes of this Part, there is hereby established a Tribunal to be known as the Remuneration Tribunal.
 
@@ -1940,7 +1936,7 @@ Remainder: Royal Assent</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 551, 552): 1 July 2011</div>
+    <div>Schedule 4 (items 551, 552): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -2194,7 +2190,8 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr>
@@ -2212,7 +2209,8 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -2317,7 +2315,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 80, 1974; No. 96, 1975; Nos. 60 and 178, 1978; Nos. 26, 108 and 155, 1979; No. 160, 1980; No. 176, 1981; No. 78, 1982; No. 39, 1983; No. 164, 1984; Nos. 65 and 187, 1985; No. 87, 1988; No. 109, 1988 (as am. by No. 92, 1994); No. 123, 1988; Nos. 152 and 179, 1989; No. 28, 1990; No. 122, 1991 (as am. by No. 52, 1992); Nos. 52 and 104, 1992; No. 109, 1993; No. 43, 1996; Nos. 1 and 66, 1997; Nos. 116 and 161, 1999; No. 1, 2000; No. 27, 2001; SLI 2006 Nos. 50 and 119; No. 125, 2006; No. 150, 2007; No. 54, 2009; No. 139, 2010; No. 32, 2011</div>
+    <div>am. No. 80, 1974; No. 96, 1975; Nos. 60 and 178, 1978; Nos. 26, 108 and 155, 1979; No. 160, 1980; No. 176, 1981; No. 78, 1982; No. 39, 1983; No. 164, 1984; Nos. 65 and 187, 1985; No. 87, 1988; No. 109, 1988 (as am. by No. 92, 1994); No. 123, 1988; Nos. 152 and 179, 1989; No. 28, 1990; No. 122, 1991 (as am. by No. 52, 1992); Nos. 52 and 104, 1992; No. 109, 1993; No. 43, 1996; Nos. 1 and 66, 1997; Nos. 116 and 161, 1999; No. 1, 2000; No. 27, 2001; SLI 2006 Nos. 50 and 119; No. 125, 2006; No. 150, 2007; No. 54, 2009; No. 139, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2725,7 +2723,31 @@ The following amendment commences on the designated sale day declared under sect
 
 Repeal the paragraph.
 
-As at 1 July 2011 the amendment is not incorporated in this compilation.
+As at 6 June 2011 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 551  Subsection 3(1) (paragraph (d) of the definition of _principal executive office_)
+
+Repeal the paragraph.
+
+## 552  After paragraph 3(4)(m)
+
+Insert:
+
+                     (n)  the Chief Executive Centrelink (within the meaning of the _Human Services (Centrelink) Act 1997_);
+
+                     (o)  the Chief Executive Medicare (within the meaning of the _Human Services (Medicare) Act 1973_);
+
+                   (oa)  the Child Support Registrar;
+
+As at 6 June 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3094,7 +3116,7 @@ _Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No.
 
 ## Schedule 8
 
-## 160  Transitional provision relating to section 3
+## 160  Transitional provision relating to section 3
 
 (1)       Despite the repeal of paragraph 3(4)(j) of the _Remuneration Tribunal Act 1973_ by item 104, that paragraph, as in force immediately before that repeal, continues to apply in relation to an office of member of the Australian Industrial Relations Commission until that Commission ceases to exist.
 
@@ -3150,9 +3172,9 @@ Omit from paragraph (t) “or (f)”, substitute “(f), (ff) or (fg)”.
 
 Omit “and to the holders of”, substitute “, the offices of Head of Administration and Associate Head of Administration within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_ and”.
 
-## Section 7  
+## Section 7:  
 
-Add at the end the following subsection:
+Add at the end of the following subsection:
 
          “(15)  In spite of the preceding provisions of this section, remuneration or allowances:
 
@@ -3164,6 +3186,6 @@ may be paid in accordance with the determination out of the public money of the 
 
 ## Subsection 8(4):  
 
-After “_1922_” insert “or the office of Head of Administration or Associate Head of Administration within the meaning of the _Australian Capital Territory (Self‑Government) Act 1988_”.
+After “1922” insert “or the office of Head of Administration or Associate Head of Administration within the meaning of the _Australian Capital Territory (Self‑Government) Act 1988_”.
 
  
