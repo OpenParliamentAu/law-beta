@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00422/Html/999aa2c2-ee0f-40d8-bf87-a9925593826c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00370/Html/3449dde6-2754-4c45-a07b-06a78285d21d_files/image001.gif)
 
 # Parliamentary Entitlements Act 1990
 
 **Act No. 28 of 1990 as amended**
 
-This compilation was prepared on 3 June 2011
+This compilation was prepared on 11 May 2011
  taking into account amendments up to Act No. 5 of 2011
 
 [**Note**: The Scheduled benefits are varied or omitted in accordance with 
@@ -160,7 +160,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 then, during that year, the person is entitled only to a proportionate amount of that benefit worked out by the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00422/Html/999aa2c2-ee0f-40d8-bf87-a9925593826c_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00370/Html/3449dde6-2754-4c45-a07b-06a78285d21d_files/image002.gif)
 
              (2)  An amount so worked out must be rounded to the nearest whole number that is greater than zero.
 
@@ -210,7 +210,7 @@ then, during that year, the person is entitled only to a proportionate amount of
 
              (1)  In its application to the financial year 1989‑90, an amount (in this section called **_whole amount_**) referred to in Schedule 1 (other than item 3 in Part 1) is to be reduced to an amount worked out by the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00422/Html/999aa2c2-ee0f-40d8-bf87-a9925593826c_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00370/Html/3449dde6-2754-4c45-a07b-06a78285d21d_files/image003.gif)
 
                     <a name="remain-number-dai"></a>where **_remaining number of days_** means the number of days in that financial year from and including the day on which this Act commences.
 
@@ -594,8 +594,8 @@ of Assent</div>
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -648,7 +648,7 @@ of Assent</div>
 
 ## Table A
 
-_Parliamentary Entitlements Regulations 1997 (SR 1997 No. 318 as amended by SR 2003 No. 149; SLI 2005 No. 235; 2006 No. 211; 2008 No. 228; 2009 No. 219 (as amended by SLI 2009 No. 250); 2011 Nos. 55 and 72)_
+_Parliamentary Entitlements Regulations 1997 (SR 1997 No. 318 as amended by SR 2003 No. 149; SLI 2005 No. 235; 2006 No. 211; 2008 No. 228; 2009 No. 219 (as amended by SLI 2009 No. 250); 2011 No. 55)_
 
 Schedule 1        Variation or omission of Scheduled benefits in Schedule 1 to the _Parliamentary Entitlements Act 1990_
 
@@ -938,17 +938,17 @@ car with driver services;
 
 after
 
-Presiding Officer,
+Officer,
 
 insert
 
-who may be accompanied by his or her spouse, 1 staff member and, subject to subitems (5) and (6), 1 or more persons mentioned in subitem (4),
+who may be accompanied by his or her spouse and 1 staff member,
 
 \[205]       Paragraph 1 (1) (f)
 
 substitute
 
-                (f)    for the leader of a minority party, who may be accompanied by his or her spouse, 1 staff member and, subject to subitems (5) and (6), 1 or more persons mentioned in subitem (4), the cost of charter transport, not exceeding an annual amount calculated in accordance with subitem (7); and
+                (f)    for the leader of a minority party, who may be accompanied by his or her spouse and 1 staff member, the cost of charter transport, not exceeding an annual amount of $15 000; and
 
 \[205A]    Subitem 1 (2)
 
@@ -959,32 +959,6 @@ an Opposition Office holder or Presiding Officer,
 insert
 
 a Senior Officer,
-
-\[205AB] After subitem 1 (3)
-
-insert
-
-         (4)   For paragraphs (1) (e) and (f), the persons are:
-
-                (a)    1 or more additional members of his or her staff; and
-
-               (b)    another member, or members, whose presence is relevant to the purpose of the travel; and
-
-                (c)    subject to subitem (6), any other person.
-
-         (5)   A person mentioned in subitem (4) is not entitled to travel under this item if, as a result of the addition of the person to the travelling party:
-
-                (a)    a larger aircraft or vehicle is required; or
-
-               (b)    the cost to the Commonwealth of the travel is increased.
-
-         (6)   If a person mentioned in paragraph (4) (c) is added to a travelling party, the cost of the person’s travel must be recovered, in accordance with cost recovery guidelines issued by the Minister.
-
-         (7)   For paragraph (1) (f), the annual amount is:
-
-                (a)    for the 2011–2012 financial year — $18,300; and
-
-               (b)    for each subsequent financial year — $18,300 indexed annually, in accordance with the Consumer Price Index, rounded up or down to the nearest multiple of $100 (rounding up an amount of $50).
 
 <a id="\[206]"></a>\[206]       Paragraph 2 (1) (d)
 
