@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00033/Html/InteractGamb2001WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00495/Html/InteractGamb2001WD02_image001.gif)
 
 # Interactive Gambling Act 2001
 
 **Act No. 84 of 2001 as amended**
 
-This compilation was prepared on 20 January 2008
+This compilation was prepared on 27 July 2007
  taking into account amendments up to Act No. 124 of 2007
 
 The text of any of those amendments not in force
@@ -360,11 +360,11 @@ must:</li>
 
 that represent Internet service providers may develop an industry code.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The ACMA has a reserve
+<li class="BoxList" style="margin-left:21.25pt">•      The ACMA has a reserve power
 
-power to make an industry standard if there is no industry code or if an
+to make an industry standard if there is no industry code or if an industry
 
-industry code is deficient.</li>
+code is deficient.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      This Act prohibits the
 
@@ -1210,9 +1210,9 @@ standard is mandatory.</li>
 
                      (b)  deals exclusively with the designated Internet gambling matters.
 
-             (2)  The Parliament intends that an industry code developed, or industry standard determined, under this Part is to be in addition to any codes developed, or standards determined, under Schedule 5 or 7 to the _Broadcasting Services Act 1992_.
+             (2)  The Parliament intends that an industry code developed, or industry standard determined, under this Part is to be in addition to any codes developed, or standards determined, under Schedule 5 to the _Broadcasting Services Act 1992_.
 
-             (3)  The Parliament intends that this Part does not, by implication, limit the matters that may be dealt with by any codes developed, or standards determined, under Schedule 5 or 7 to the _Broadcasting Services Act 1992_.
+             (3)  The Parliament intends that this Part does not, by implication, limit the matters that may be dealt with by any codes developed, or standards determined, under Schedule 5 to the _Broadcasting Services Act 1992_.
 
              (4)  The Parliament intends that the ACMA should make reasonable efforts to ensure that either:
 
@@ -1362,7 +1362,7 @@ the ACMA may, by written notice given to the person, direct the person to comply
 
 Note:          For enforcement, see Part 5.
 
-##### <a id="43"></a>43  Formal warnings—breach of industry code
+##### <a id="43"></a>43  Formal warnings—breach of industry code
 
                    The ACMA may issue a formal warning if an Internet service provider contravenes an industry code registered under this Part.
 
@@ -2575,7 +2575,7 @@ Schedule 2: <i>(c)</i></div>
     <div>20 July 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (item 95): 20 Jan 2008</div>
+    <div>Schedule 1 (item 95): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2970,18 +2970,10 @@ _(c)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
 </tr>
 <tr>
   <td>
-    <div>S. 36</div>
+    <div>Ss. 36, 37</div>
   </td>
   <td>
-    <div>am. No. 45, 2005; No. 124, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 45, 2005</div>
+    <div>am. No. 45, 2005</div>
   </td>
 </tr>
 <tr>
@@ -3224,5 +3216,20 @@ _(c)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     <div>am. No. 45, 2005</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Communications Legislation Amendment (Content Services) Act 2007 
+ (No. 124, 2007)_
+
+The following amendment commences on 20 January 2008 unless proclaimed earlier:
+
+## Schedule 1
+
+## 95  Subsections 36(2) and (3)
+
+After “Schedule 5”, insert “or 7”.
+
+As at 27 July 2007 the amendment is not incorporated in this compilation.
 
  
