@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00438/Html/DefServiceHomes1918WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image001.gif)
 
 # Defence Service Homes Act 1918
 
 **Act No. 43 of 1918 as amended**
 
-This compilation was prepared on 18 September 2009
- taking into account amendments up to Act No. 80 of 2009
+This compilation was prepared on 1 July 2009
+ taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -168,9 +168,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38C](#38C).       Insurance of dwelling-houses etc 
 
-[38CA](#38CA).    Insurance of certain other houses etc —Home Loans Assistance Act
-
-[38CAA](#38CAA). Insurance of certain other houses etc —_Defence Home Ownership Assistance Scheme Act 2008_
+[38CA](#38CA).    Insurance of certain other houses etc 
 
 [38CB](#38CB).     Powers of Commonwealth under this Part
 
@@ -179,8 +177,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [38E](#38E).        Termination of insurance
 
 [38EA](#38EA).     Termination of insurance undertaken under section 38CA
-
-[38EAA](#38EAA).  Termination of insurance undertaken under section 38CAA
 
 [38FA](#38FA).     Application of section 38E in relation to retirement village accommodation
 
@@ -1196,7 +1192,7 @@ whichever happens first.
 
                     <a name="advanc"></a>**_advance_** means a subsidised advance other than a widow or widower advance, an advance for essential repairs or a home support advance.
 
-##### <a id="19"></a>19  Criteria for issue of certificate of entitlement: further advance
+##### <a id="19"></a>19  Criteria for issue of certificate of entitlement: further advance
 
                    The Secretary must not issue a certificate of entitlement in relation to subsidy on a further advance to a person unless the person is or was a purchaser or borrower in relation to a Corporation advance, a subsidised advance (other than a home support advance) or a contract of sale on or after 9 December 1987.
 
@@ -1378,7 +1374,7 @@ and that it would cause financial hardship to the applicant if the applicant wer
 
              (7)  Guidelines approved by the Minister in accordance with this section are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="23A"></a>23A  Certificates of assignment
+##### <a id="23A"></a>23A  Certificates of assignment
 
              (1)  Subject to this Act, the Secretary may, on application by an eligible person (the**_assignor_**) for a certificate of assignment, issue the assignor with such a certificate certifying that subsidy is payable by the Commonwealth to a credit provider if, in accordance with the certificate, the credit provider makes an advance to another person (the **_assignee_**).
 
@@ -1564,7 +1560,7 @@ is unconscionable, the court may annul or reduce the fee or charge and may make 
 
                              (ii)  if the amount borrowed is intended to be used to obtain goods, services or rights in relation to, or interests in, real property for use for different purposes—the purpose for which the goods, services, rights or interests are intended to be most used.
 
-##### <a id="23J"></a>23J  Legal and financial assistance
+##### <a id="23J"></a>23J  Legal and financial assistance
 
              (1)  A person who has made, or proposes to make, an application under section 23AA or 23F may apply to the Attorney-General for a grant of assistance under this section in respect of the application.
 
@@ -1998,7 +1994,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                    The Step 1 calculations are:
 
-![](http://www.comlaw.gov.au/Details/C2009C00438/Html/DefServiceHomes1918WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image002.gif)
 
                    Under Step 2, the $310 is divided by the total limit of $4,000, giving a result of 0.0775.
 
@@ -2220,7 +2216,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
           (2B)  The Commonwealth may undertake insurance against risks related to the land on which a retirement village referred to in paragraph (2A)(a) or (b) is built or on which a retirement village referred to in paragraph (2A)(c) is being, or is to be, built.
 
-##### <a id="38CA"></a>38CA  Insurance of certain other houses etc.—Home Loans Assistance Act
+##### <a id="38CA"></a>38CA  Insurance of certain other houses etc.
 
              (1)  The Commonwealth may undertake insurance of, or in relation to:
 
@@ -2235,22 +2231,6 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
              (3)  In this section:
 
                     <a name="subsidis-loan"></a><a name="entitled-person"></a><a name="hous"></a>**_house_**, **_entitled person_**, and **_subsidised loan_** have the same respective meanings as in the Home Loans Assistance Act.
-
-##### <a id="38CAA"></a>38CAA  Insurance of certain other houses etc.—_Defence Home Ownership Assistance Scheme Act 2008_
-
-             (1)  The Commonwealth may undertake insurance of, or in relation to:
-
-                     (a)  a house in which a person who is eligible under the _Defence Home Ownership Assistance Scheme Act 2008_ has an interest; or
-
-                     (b)  building materials on the site of a house mentioned in paragraph (a), being materials used in the building of, or otherwise in relation to, the house; or
-
-                     (c)  any permanent improvement of a structural kind that has been made to a house mentioned in paragraph (a), or that has been constructed on the land on which such a house is built, and any building materials on the site of, and used in the building of, or in relation to, such an improvement.
-
-             (2)  The Commonwealth may undertake insurance against risks related to the land on which a house mentioned in paragraph (1)(a) is built, or on which a house mentioned in paragraph (1)(b) is being, or is to be, built.
-
-             (3)  In this section:
-
-                    <a name="hous"></a><a name="elig"></a>**_eligible_** and **_house_** have the same respective meanings as in the _Defence Home Ownership Assistance Scheme Act 2008_.
 
 ##### <a id="38CB"></a>38CB  Powers of Commonwealth under this Part
 
@@ -2331,28 +2311,6 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
              (5)  In this section:
 
                     <a name="bank"></a><a name="subsidis-loan"></a><a name="entitled-person"></a><a name="entitl-certif"></a><a name="hous"></a>**_house_**, **_entitlement certificate_**, **_entitled person_**, **_subsidised loan_** and **_the Bank_** have the same respective meanings as in the Home Loans Assistance Act.
-
-##### <a id="38EAA"></a>38EAA  Termination of insurance undertaken under section 38CAA
-
-             (1)  This section applies if:
-
-                     (a)  the Commonwealth has undertaken insurance under section 38CAA in relation to a house in which a person who is eligible under the _Defence Home Ownership Assistance Scheme Act 2008_ has an interest; and
-
-                     (b)  the person ceases to be eligible.
-
-             (2)  If this section applies:
-
-                     (a)  the insurance undertaken in relation to the house does not cease to have effect when the person ceases to be eligible; and
-
-                     (b)  unless the insurance has already ceased to have effect for some other reason, the Secretary must give reasonable notice in writing to each person having an interest in the house that the insurance will cease to have effect on a day specified in the notice.
-
-             (3)  If the Secretary gives a notice under paragraph (2)(b), the insurance ceases to have effect on the day specified in the notice unless it has already ceased to have effect.
-
-             (4)  If this section applies because a person dies and the person is survived by a widow or widower, the Secretary must not give a notice under paragraph (2)(b) in relation to the house unless the Secretary is satisfied that the widow or widower is not eligible.
-
-             (5)  In this section:
-
-                    <a name="hous"></a><a name="elig"></a>**_eligible_** and **_house_** have the same respective meanings as in the _Defence Home Ownership Assistance Scheme Act 2008_.
 
 ##### <a id="38FA"></a>38FA  Application of section 38E in relation to retirement village accommodation
 
@@ -2558,7 +2516,7 @@ Note:          The authorisation under this subsection is only
 
 ##### <a id="47"></a>47  Dwelling-houses for incapacitated soldiers
 
-                   The Secretary may provide a dwelling-house for the use of a person who is receiving, or is eligible to receive, a pension under Part II of the _Veterans’ Entitlements Act 1986_ and to whom section 24 of that Act applies.
+                   The Secretary may provide a dwelling-house for the use of a person who is receiving, or is eligible to receive, a pension under Part II of the _Veterans’ Entitlements Act 1986_ and to whom section 24 of that Act applies.
 
 ##### <a id="50A"></a>50A  Improper use of certain words
 
@@ -4079,7 +4037,7 @@ The amount of Subsidy payable by the Commonwealth shall be calculated as set out
 
 (b)   in the event that the total amount of Portfolio Arrears exceeds 0.035 per cent of the aggregate of the Limits on all Subsidised Advance Loan Accounts, the total Subsidy payable pursuant to this Clause shall be reduced by an amount calculated by application of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00438/Html/DefServiceHomes1918WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image003.gif)
 
 where
 
@@ -4566,9 +4524,9 @@ The Commonwealth undertakes to procure the due and proper performance by the Cor
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2009C00438/Html/DefServiceHomes1918WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image004.gif)
 
-![](http://www.comlaw.gov.au/Details/C2009C00438/Html/DefServiceHomes1918WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image005.gif)
 
 **SCHEDULE “A”**
 
@@ -4727,7 +4685,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number (includes Bank State Branch number)
 
-![](http://www.comlaw.gov.au/Details/C2009C00438/Html/DefServiceHomes1918WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image006.gif)
 
 B.    MONTHLY SUBSIDY REPORT—VARIATIONS IN INTEREST ON SPECIFIED PORTFOLIO ASSETS AND BANK ADVANCES (TO BE SUPPLIED ON COMPUTER TAPE)
 
@@ -4739,7 +4697,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number
 
-![](http://www.comlaw.gov.au/Details/C2009C00438/Html/DefServiceHomes1918WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image007.gif)
 
 Open/Closed dates
 
@@ -5194,9 +5152,9 @@ This Supplementary Agreement may not be assigned in whole or in part by either p
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2009C00438/Html/DefServiceHomes1918WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image008.gif)
 
-![](http://www.comlaw.gov.au/Details/C2009C00438/Html/DefServiceHomes1918WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00257/Html/DefServiceHomes1918WD02_image009.gif)
 
 **SCHEDULE OF AMENDMENTS TO AGREEMENT**
 
@@ -6297,7 +6255,7 @@ of Assent</div>
     <div>25 Dec 1918</div>
   </td>
   <td>
-    <div>6 Mar 1919 ( <i>see Gazette</i>1919, p. 377)</div>
+    <div>6 Mar 1919 ( <i>see Gazette</i>1919, p. 377)</div>
   </td>
   <td>
     <div></div>
@@ -6576,7 +6534,8 @@ Remainder: Royal Assent</div>
     <div>12 June 1947</div>
   </td>
   <td>
-    <div>14 July 1947 ( <i>see Gazette</i>1947, p. 1885)</div>
+    <div>14 July 1947 ( <i>see Gazette</i>1947, 
+p. 1885)</div>
   </td>
   <td>
     <div>S. 6(2) and (3)</div>
@@ -6749,7 +6708,7 @@ Remainder:
     <div>14 Dec 1962</div>
   </td>
   <td>
-    <div>28 May 1963 ( <i>see</i>s. 2 and <i>Gazette</i>1963, p. 1869)</div>
+    <div>28 May 1963 ( <i>see</i>s. 2 and <i>Gazette</i>1963, p. 1869)</div>
   </td>
   <td>
     <div>—</div>
@@ -6785,7 +6744,7 @@ Remainder:
   <td>
     <div>S. 7: 18 Mar 1971 ( <i>see</i>s. 2(2) and <i>Gazette</i>1971, 
 p. 2003) 
-Remainder: 1 Dec 1966</div>
+Remainder: 1 Dec 1966</div>
   </td>
   <td>
     <div>—</div>
@@ -7079,8 +7038,7 @@ Remainder: Royal Assent</div>
     <div>22 Sept 1982</div>
   </td>
   <td>
-    <div>Part XXX 
-(ss. 84–90): 20 Oct 1982 <i>(d)</i></div>
+    <div>Part XXX (ss. 84–90): 20 Oct 1982 <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -7205,7 +7163,7 @@ S. 63: <i>(g)</i></div>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
 S. 15: 30 June 1989 ( <i>see Gazette</i>1989, No. S190) 
-Remainder: 19 Dec 1988 ( <i>see Gazette</i>1988, No. S393)</div>
+Remainder: 19 Dec 1988 ( <i>see Gazette</i>1988, No. S393)</div>
   </td>
   <td>
     <div>Ss. 17–19</div>
@@ -7260,8 +7218,7 @@ Remainder: Royal Assent</div>
     <div>8 Jan 1991</div>
   </td>
   <td>
-    <div>Ss. 4–6, 7(a), 
-(e)–(h), (k), 8–21 and 93: Royal Assent <i>(i)</i> 
+    <div>Ss. 4–6, 7(a), (e)–(h), (k), 8–21 and 93: Royal Assent <i>(i)</i> 
 S. 7(b) and (j): <i>(i)</i> 
 S. 7(c): 18 Feb 1989 <i>(i)</i> 
 S. 7(d): 2 Aug 1990 <i>(i)</i></div>
@@ -7456,8 +7413,7 @@ Schedule (Part 4): 1 July 1991 <i>(n)</i></div>
     <div>14 Nov 1995</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–8, 
-10–47, 50, 52–59, 61–66): Royal Assent <i>(q)</i> 
+    <div>Schedule 1 (items 1–8, 10–47, 50, 52–59, 61–66): Royal Assent <i>(q)</i> 
 Schedule 1 (items 9, 48, 49, 51, 60): 1 July 1995 <i>(q)</i></div>
   </td>
   <td>
@@ -7667,23 +7623,6 @@ Schedule 1 (item 5): 1 Nov 1996 <i>(r)</i></div>
   </td>
   <td>
     <div>Sch. 15 (items 9, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment (Budget Measures) Act 2009</div>
-  </td>
-  <td>
-    <div>80, 2009</div>
-  </td>
-  <td>
-    <div>10 Sept 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 11, 12): 11 Sept 2009</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -8901,31 +8840,7 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 38CA</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38CA</div>
-  </td>
-  <td>
-    <div>ad. No. 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38CAA</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38CB</div>
+    <div>Ss. 38CA, 38CB</div>
   </td>
   <td>
     <div>ad. No. 14, 1991</div>
@@ -8969,14 +8884,6 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
   </td>
   <td>
     <div>ad. No. 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38EAA</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2009</div>
   </td>
 </tr>
 <tr>
