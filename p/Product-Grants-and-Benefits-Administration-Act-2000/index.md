@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00541/Html/235e31c6-1353-4d02-b9c3-0ad42ec3eaa3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00488/Html/8925a3d9-d445-4cec-a1a6-c862ffa603bf_files/image001.gif)
 
 # Product Grants and Benefits Administration Act 2000
 
 **Act No. 61 of 2000 as amended**
 
-This compilation was prepared on 1 July 2012
+This compilation was prepared on 29 May 2012
  taking into account amendments up to Act No. 39 of 2012
 
 The text of any of those amendments not in force 
@@ -89,6 +89,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [26](#26).          Pre‑claim record‑keeping requirements
 
 [27](#27).          Post‑claim record‑keeping requirements
+
+[27A](#27A).       Requirement to notify Commissioner about any disqualifying use etc  of energy grants scheme fuel
 
 [27B](#27B).       Requirement to notify Commissioner about any disqualifying circumstances for cleaner fuel
 
@@ -176,7 +178,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Object
 
-                   The object of this Act is to provide a scheme for the administration of a number of grants and benefits that are administered by the Commissioner of Taxation.
+                   The object of this Act is to provide a scheme for the administration of a number of grants and benefits that are administered by the Commissioner of Taxation.
 
 ##### <a id="3A"></a>3A  Extension to external Territories
 
@@ -211,6 +213,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="deputi-commission"></a>**_Deputy Commissioner_** means a Deputy Commissioner of Taxation.
 
                     <a name="electron-signatur"></a>**_electronic signature_** means an entity’s unique identification in an electronic form that is approved by the Commissioner.
+
+                    <a name="energi-grant-scheme-fuel"></a>**_energy grants scheme fuel_** means on‑road alternative fuel within the meaning of the _Energy Grants (Credits) Scheme Act 2003_.
 
                     <a name="entitl-act"></a>**_entitlement Act_** means an Act under which the entitlement to a grant or benefit arises. The entitlement Acts are listed in section 8.
 
@@ -322,6 +326,19 @@ Note:          An effect of this provision is that the _Taxati
 </tr>
 <tr>
   <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>energy grants</div>
+  </td>
+  <td>
+    <div>
+      <i>Energy Grants (Credits) Scheme Act 2003</i>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>4</div>
   </td>
   <td>
@@ -373,6 +390,10 @@ Specific requirement for product stewardship (oil) benefits
                             (iii)  compliance with any such prescribed Code of Practice; and
 
                      (c)  satisfy any prescribed conditions.
+
+Specific requirement for energy grants
+
+             (4)  The specific requirement in relation to registration for the energy grant is that you notify the Commissioner that you are purchasing or importing, or propose to purchase or import, energy grants scheme fuel into Australia for a particular use or uses that, when you become registered, will entitle you to the grant in respect of the fuel.
 
 Specific requirement for cleaner fuel grants
 
@@ -516,13 +537,15 @@ you are liable to repay the amount of the advance to the Commonwealth.
 
                      (e)  otherwise—must be given to the Commissioner before the end of 3 years after the start of the claim period.
 
-          (2A)  Despite the provisions of Part 3 and the _Energy Grants (Credits) Scheme Act 2003_, you are not entitled to an energy grant for an on‑road credit for on‑road alternative fuel if you have already given the Commissioner a return under the _Fuel Tax Act 2006_ that takes into account a decreasing fuel tax adjustment that relates to the fuel.
+          (2A)  Despite the provisions of Part 3 and the _Energy Grants (Credits) Scheme Act 2003_, you are not entitled to an energy grant for an on‑road credit for on‑road alternative fuel if you have already given the Commissioner a return under the _Fuel Tax Act 2006_ that includes a net fuel amount that takes into account a decreasing fuel tax adjustment that relates to the fuel.
 
              (3)  Section 9 does not, by implication, limit subsection (2) of this section.
 
              (4)  In this section:
 
                     <a name="decreas-fuel-tax-adjust"></a>**_decreasing fuel tax adjustment_** has the meaning given by section 110‑5 of the _Fuel Tax Act 2006._
+
+                    <a name="net-fuel-amount"></a>**_net fuel amount_** has the meaning given by section 110‑5 of the _Fuel Tax Act 2006._
 
                     <a name="road-altern-fuel"></a>**_on‑road alternative fuel_** has the meaning given by section 4 of the _Energy Grants (Credits) Scheme Act 2003_.
 
@@ -744,6 +767,10 @@ Note:          Sections 8L, 8Q and 8T of the _Taxation Admin
 
              (1)  This section sets out the post‑claim record‑keeping requirements that apply to you in relation to a grant or benefit in respect of a particular claim period.
 
+          (1A)  If the claim was in relation to an energy grant, you must keep records that enable you to substantiate that you have not lost your entitlement to the grant because of the application of section 49 or 55 of the _Energy Grants (Credits) Scheme Act 2003_.
+
+          (1B)  You are taken to have met the requirements set out in subsection (1A) if you keep records of a kind, and in a manner, specified in a written determination made by the Commissioner.
+
           (1C)  The records must be:
 
                      (a)  in English; or
@@ -767,6 +794,28 @@ Note:          Sections 8L, 8Q and 8T of the _Taxation Admin
              (6)  Despite section 8C of the _Taxation Administration Act 1953_, you do not commit an offence merely by not complying with a notice under subsection (3).
 
 Note:          Sections 8L, 8Q and 8T of the _Taxation Administration Act 1953_ deal with keeping records incorrectly.
+
+##### <a id="27A"></a>27A  Requirement to notify Commissioner about any disqualifying use etc. of energy grants scheme fuel
+
+                   If:
+
+                     (a)  you make a claim for an energy grant; and
+
+                     (b)  after you make the claim, you:
+
+                              (i)  use any of the energy grants scheme fuel to which the claim relates for a use (the **_actual use_**) other than the particular use for which you purchased or imported the fuel into Australia, except where you would have been entitled to an energy grant of the same amount if you had purchased the fuel for the actual use; or
+
+                             (ii)  sell or otherwise dispose of any of the fuel; or
+
+                            (iii)  lose any of the fuel (whether because of accident, theft or any other reason);
+
+you must notify the Commissioner in writing of the fact, within 90 days, or such longer period as the Commissioner allows, after:
+
+                     (c)  the use, sale or other disposal of the fuel takes place; or
+
+                     (d)  the loss of the fuel becomes known to you.
+
+Note:          Failure to notify the Commissioner is an offence under paragraph 8C(1)(d) of the _Taxation Administration Act 1953_.
 
 ##### <a id="27B"></a>27B  Requirement to notify Commissioner about any disqualifying circumstances for cleaner fuel
 
@@ -1142,7 +1191,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ## Part 13—Miscellaneous
 
-##### <a id="53"></a>53  Reviewable grant or benefit decisions
+##### <a id="53"></a>53  Reviewable grant or benefit decisions
 
              (1)  If you are dissatisfied with a reviewable grant or benefit decision relating to you, you may object against the decision in the manner set out in Part IVC of the _Taxation Administration Act 1953_.
 
@@ -1282,7 +1331,7 @@ has notified the Commissioner of an Australian address for service, the Commissi
 
 The _Product Grants and Benefits Administration Act 2000_ as shown in this compilation comprises Act No. 61, 2000 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by the _Fuel Tax (Consequential and Transitional Provisions) Act 2006_, _see_ Act No. 73, 2006 (as amended).
+For application, saving or transitional provisions made by the _Fuel Tax (Consequential and Transitional Provisions) Act 2006_, _see_ Act No. 73, 2006.
 
 For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -1347,7 +1396,7 @@ of Assent</div>
     <div>6 July 2000</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 7, 8): <i>(a)</i> 
+    <div>Schedule 1 (items 7, 8): <i>(a)</i> 
 Remainder: 6 July 2000 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
@@ -1365,9 +1414,9 @@ Remainder: 6 July 2000 ( <i>see</i>s. 2(1))</div>
     <div>30 June 2001</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 69–78): 23 May 2001 
-Schedule 2 (items 48–52): 1 Jan 2001 
-Schedule 3 (items 34–36): 1 Apr 2001 
+    <div>Schedule 1 (items 69–78): 23 May 2001 
+Schedule 2 (items 48–52): 1 Jan 2001 
+Schedule 3 (items 34–36): 1 Apr 2001 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1437,7 +1486,7 @@ Remainder: 1 Dec 2003 ( <i>see</i> <i>Gazette</i>2003, No. GN47)</div>
     <div>5 Dec 2003</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 19–21): Royal Assent</div>
+    <div>Schedule 2 (items 19–21): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 2 (item 21)</div>
@@ -1454,7 +1503,7 @@ Remainder: 1 Dec 2003 ( <i>see</i> <i>Gazette</i>2003, No. GN47)</div>
     <div>21 Apr 2004</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 1–3) and Schedule 2 (items 1–3): 18 Sept 2003 ( <i>see</i>s. 2(1)) 
+    <div>Schedule 1 (items 1–3) and Schedule 2 (items 1–3): 18 Sept 2003 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1506,52 +1555,18 @@ Remainder: Royal Assent</div>
     <div>26 June 2006</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 2, 3) and Schedule 3 (items 6–8): 1 July 2006 
-Schedule 1 (items 4–6): 1 Jan 2007 
+    <div>Schedule 1 (items 2, 3) and Schedule 3 (items 6–8): 1 July 2006 
+Schedule 1 (items 4–6): 1 Jan 2007 
 Schedule 1 (item 7): 1 July 2009 
-Schedule 3 (items 13–16): 1 July 2010 
-Schedule 3 (items 18–22): 1 July 2012 
-Schedule 3 (items 24–34): 1 July 2007 
-Schedule 3 (items 42–44): \[ <i>see</i>Note 2] 
+Schedule 3 (items 13–16): 1 July 2010 
+Schedule 3 (items 18–22): \[ <i>see</i>Note 2] 
+Schedule 3 (items 24–34): 1 July 2007 
+Schedule 3 (items 42–44): \[ <i>see</i>Note 2] 
 Schedule 4 (item 3): <i>(c)</i> 
 Schedule 4 (item 4): Royal Assent</div>
   </td>
   <td>
     <div>\[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Clean Energy (Fuel Tax Legislation Amendment) Act 2011</div>
-  </td>
-  <td>
-    <div>157, 2011</div>
-  </td>
-  <td>
-    <div>4 Dec 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (item 44): 1 July 2012</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr>
 <tr>
@@ -1617,7 +1632,7 @@ Schedule 4 (item 4): Royal Assent</div>
     <div>3 June 2010</div>
   </td>
   <td colspan="2">
-    <div>Schedule 6 (items 98, 101): 4 June 2010</div>
+    <div>Schedule 6 (items 98, 101): 4 June 2010</div>
   </td>
   <td>
     <div>Sch. 6 (item 101)</div>
@@ -1634,7 +1649,7 @@ Schedule 4 (item 4): Royal Assent</div>
     <div>16 Dec 2010</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 64, 65): 17 Dec 2010</div>
+    <div>Schedule 2 (items 64, 65): 17 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -1685,7 +1700,7 @@ Schedule 4 (item 4): Royal Assent</div>
     <div>15 Apr 2012</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 188, 189, 239): 1 July 2012</div>
+    <div>Schedule 1 (items 188, 189, 239): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 239)</div>
@@ -1984,7 +1999,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Human Services Legislation 
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. No. 54, 2003; No. 73, 2006; No. 39, 2012</div>
+    <div>am. No. 54, 2003; No. 73, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2096,7 +2111,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Human Services Legislation 
     <div>S. 27</div>
   </td>
   <td>
-    <div>am. No. 54, 2003; No. 73, 2006</div>
+    <div>am. No. 54, 2003</div>
   </td>
 </tr>
 <tr>
@@ -2320,6 +2335,30 @@ _(e)_     Subsection 2(1) (item 4) of the _Human Services Legislation 
 
 _Fuel Tax (Consequential and Transitional Provisions) Act 2006 (No. 73, 2006)_
 
+The following amendments commence on 1 July 2012:
+
+## Schedule 3
+
+## 18  Section 5 (definition of _energy grants scheme fuel_)
+
+Repeal the definition.
+
+## 19  Section 8 (table item 3)
+
+Repeal the item.
+
+## 20  Subsection 9(4)
+
+Repeal the subsection.
+
+## 21  Subsections 27(1A) and (1B)
+
+Repeal the subsections.
+
+## 22  Section 27A
+
+Repeal the section.
+
 The following amendments commence on 1 July 2013:
 
 ## Schedule 3
@@ -2336,7 +2375,25 @@ Omit “otherwise—”.
 
 Repeal the subsections.
 
-As at 1 July 2012 the amendments are not incorporated in this compilation.
+As at 29 May 2012 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Indirect Tax Laws Amendment (Assessment) Act 2012 (No. 39, 2012)_
+
+The following amendments commence on 1 July 2012:
+
+## Schedule 1
+
+## 188  Subsection 15(2A)
+
+Omit “that includes a net fuel amount”.
+
+## 189  Subsection 15(4) (definition of _net fuel amount_)
+
+Repeal the definition.
+
+As at 29 May 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2352,7 +2409,7 @@ The amendments made by this Schedule apply to each day of each quarter mentioned
 
 * * *
 
-_Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001 (No. 146, 2001)_
+_Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001 (No. 146, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -2417,7 +2474,7 @@ _Product Stewardship (Oil) Legislation Amendment Act (No. 1) 2003
 
 ## Schedule 2
 
-## 3  Transitional provision
+## 3  Transitional provision
 
 Any registration for entitlement to product stewardship (oil) benefits in force under the _Product Grants and Benefits Administration Act 2000_ immediately before the commencement of items 1 and 2 of this Schedule has effect, on and after that commencement, as if it extended to benefits under subsection 9(3) of the _Product Stewardship (Oil) Act 2000_
 
@@ -2433,7 +2490,8 @@ The amendments of the _Product Grants and Benefits Administration Act 2000_ made
 
 * * *
 
-_Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005 (No. 161, 2005)_
+_Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005
+ (No. 161, 2005)_
 
 ## Schedule 2
 
@@ -2447,7 +2505,7 @@ The amendments made by this Schedule apply to things done on or after the later 
 
 * * *
 
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
+_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
  (No. 101, 2006)_
 
 ## Schedule 6
@@ -2537,6 +2595,8 @@ The amendments made by Divisions 1 and 2 apply in relation to things done on o
 * * *
 
 _Indirect Tax Laws Amendment (Assessment) Act 2012 (No. 39, 2012)_
+
+The following provision commences on 1 July 2012:
 
 ## Schedule 1
 
