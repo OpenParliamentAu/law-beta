@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00141/Html/fccf5af7-137b-44c6-85d3-1bc6c6af3af9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00693/Html/0ffb8fdf-5b0a-43d3-b22b-03b1934aa57e_files/image001.gif)
 
 # Australian National Maritime Museum Act 1990
 
 **Act No. 90 of 1990 as amended**
 
-This compilation was prepared on 24 January 2012
+This compilation was prepared on 26 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -148,11 +148,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Australian__National Maritime Museum__Act 1990_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act commences:
 
@@ -187,6 +187,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (d)  the history of research into, and the recovery of materials related to, any of the matters referred to in paragraphs (a), (b) and (c).
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Council.
+
+                    <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
                     <a name="council"></a>**_Council_** means the Council of the Australian National Maritime Museum established by section 11.
 
@@ -462,15 +464,23 @@ the Museum may dispose of the material accordingly.
 
                      (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office of Chairperson.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person who is not a member to act as a member referred to in paragraph 17(1)(c):
 
                      (a)  during a vacancy in the office of the member (whether or not an appointment has previously been made to the office); or
 
                      (b)  during any period, or during all periods, when the member is absent from duty or from Australia or is, for any other reason (including the reason that the member is acting as Chairperson), unable to perform the duties of the office of member.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (3)  A person appointed under this section to act during a vacancy shall not continue to act for more than 12 months.
+
+             (4)  Anything done by or in relation to a person purporting to act under this section is not invalid on the ground that:
+
+                     (a)  the occasion for the person’s appointment had not arisen;
+
+                     (b)  there is a defect or irregularity in connection with the person’s appointment;
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="19"></a>19  Leave of absence
 
@@ -674,13 +684,23 @@ the Governor‑General shall terminate the appointment of the Director.
 
 ##### <a id="38"></a>38  Acting Director
 
-                   The Minister may appoint a person other than a member to act as Director:
+             (1)  The Minister may appoint a person other than a member to act as Director:
 
                      (a)  during a vacancy in the office of Director (whether or not an appointment has previously been made to the office); or
 
-                     (b)  during any period, or during all periods, when the Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office of Director.
+                     (b)  during any period, or during all periods, when the Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office of Director;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid on the ground that:
+
+                     (a)  the occasion for the person’s appointment had not arisen;
+
+                     (b)  there is a defect or irregularity in connection with the person’s appointment;
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="39"></a>39  Delegation by Director
 
@@ -961,7 +981,7 @@ of Assent</div>
     <div>19 Feb 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 6–8): Royal Assent</div>
+    <div>Schedule 2 (items 6–8): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -978,7 +998,7 @@ of Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 375–388): 1 Jan 1998 ( <i>see</i>s. 2(2) and <i>Gazette</i>1997, No. GN49)</div>
+    <div>Schedule 2 (items 375–388): 1 Jan 1998 (see <i>Gazette</i>1997, No. GN49) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -995,7 +1015,7 @@ of Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 211–215): 5 Dec 1999 ( <i>see</i>s. 2(1), (2) and <i>Gazette</i>1999, No. S584)</div>
+    <div>Schedule 1 (items 211–215): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1012,7 +1032,7 @@ of Assent</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (items 42–44): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114)</div>
+    <div>Schedule 10 (items 42–44): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1098,7 +1118,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 195–202) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 195–202) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1118,6 +1138,29 @@ _(a)_     The _Sales Tax Amendment (Transitional) Act 1992_ was amended 
                  (2)   Part 4 is taken to have commenced immediately after the commencement of the _Sales Tax Amendment (Transitional) Act 1992_.
 
          The _Sales Tax Amendment (Transitional) Act 1992_ came into operation on 28 October 1992.
+
+_(b)_     The _Australian__National Maritime Museum__Act 1990_ was amended by Schedule 2 (items 6–8) only of the _Defence Legislation Amendment Act (No. 1) 1997_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(c)_     The _Australian__National Maritime Museum__Act 1990_ was amended by Schedule 2 (items 
+ 375–388) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+_(d)_     The _Australian__National Maritime Museum__Act 1990_ was amended by Schedule 2 (items 
+ 211–215) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
+_(e)_     The _Australian__National Maritime Museum__Act 1990_ was amended by Schedule 2 (items 
+ 42–44) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+
+                 (2)   The following provisions commence on a day or days to be fixed by Proclamation:
+
+                              (c)   the items in Schedules 10, 11 and 12.
 
 ## Table of Amendments
 
@@ -1155,7 +1198,7 @@ _(a)_     The _Sales Tax Amendment (Transitional) Act 1992_ was amended 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 179, 1991; No. 1, 1997; Nos. 5 and 46, 2011</div>
+    <div>am. No. 179, 1991; No. 1, 1997; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1171,7 +1214,7 @@ _(a)_     The _Sales Tax Amendment (Transitional) Act 1992_ was amended 
     <div>Note to s. 5(2)</div>
   </td>
   <td>
-    <div>am. No. 152, 1997</div>
+    <div>am. No 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1220,22 +1263,6 @@ _(a)_     The _Sales Tax Amendment (Transitional) Act 1992_ was amended 
   </td>
   <td>
     <div>am. No. 179, 1991; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 18(1), (2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1316,22 +1343,6 @@ _(a)_     The _Sales Tax Amendment (Transitional) Act 1992_ was amended 
   </td>
   <td>
     <div>am. No. 179, 1991; No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 38</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1463,6 +1474,52 @@ _(a)_     The _Sales Tax Amendment (Transitional) Act 1992_ was amended 
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 195  Subsection 3(1) (definition of _continental shelf_)
+
+Repeal the definition.
+
+## 196  At the end of subsections 18(1) and (2)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 197  Subsections 18(3) and (4)
+
+Repeal the subsections.
+
+## 198  Subsection 38(1)
+
+Omit “(1)”.
+
+## 199  Paragraph 38(1)(b)
+
+Omit “Director;”, substitute “Director.”.
+
+## 200  Subsection 38(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 201  At the end of subsection 38(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 202  Subsection 38(2)
+
+Repeal the subsection.
+
+As at 26 August 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1553,6 +1610,8 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpret
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
