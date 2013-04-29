@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00166/Html/GrtBarrierRfMarPk1975WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00128/Html/GrtBarrierRfMarPk1975WD02_image001.gif)
 
 # Great Barrier Reef Marine Park Act 1975
 
 **Act No. 85 of 1975 as amended**
 
-This compilation was prepared on 5 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 25 February 2010
+ taking into account amendments up to Act No. 4 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1064,7 +1064,7 @@ the first provision prevails over the second provision.
 
           (1A)  Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of the Northern Territory or of Norfolk  Island liable to be prosecuted for an offence or to be subject to civil proceedings for a contravention of a civil penalty provision.
 
-##### <a id="4A"></a>4A  Application of the _Criminal Code_
+##### <a id="4A"></a>4A  Application of the _Criminal Code_
 
  Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
@@ -3512,7 +3512,7 @@ any documents that are relevant to ascertaining a person’s liability to charge
 
              (2)  The agreement or arrangement may relate to the development and/or the implementation of a plan of management for, or for a species or ecological community within, the area concerned and may, if the Authority considers it appropriate, provide that, if such a plan of management is prepared, the community group is to manage the area, or the species or ecological community within the area, jointly with the Authority in accordance with the plan.
 
-##### <a id="39ZB"></a>39ZB  Notice of proposal to prepare plan of management
+##### <a id="39ZB"></a>39ZB  Notice of proposal to prepare plan of management
 
              (1)  Before preparing a plan of management, the Authority must, by public notice:
 
@@ -4424,7 +4424,7 @@ Relevant matters
 
                      (c)  if the circumstances include an incident involving a vessel—the Authority is satisfied that the direction is not inconsistent with Articles III and V of the International Convention Relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, done at Brussels on 29 November 1969 \[1984] ATS 4.
 
-Note:       The text of the Convention is set out in Australian Treaty Series 1984 No. 4\. In 2008, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+Note:       The text of the Convention is set out in Australian Treaty Series 1984 No. 4\. In 2008, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
 
 Examples of emergency directions
 
@@ -4730,7 +4730,7 @@ Relevant matters
 
                      (a)  the nature of the conduct involved in the strikes to which the direction relates; and
 
-                     (b)  the objects of ensuring the person’s future compliance with this Act and preventing harm to the environment in the Marine  Park.
+                     (b)  the objects of ensuring the person’s future compliance with this Act and preventing harm to the environment in the Marine Park.
 
              (5)  The Minister must not make a direction under subsection (2) that is inconsistent with the obligations of Australia under international law, including obligations under any agreement or arrangement between Australia and another country or countries.
 
@@ -5892,7 +5892,7 @@ of Assent</div>
   </td>
   <td>
     <div>S. 14: 1 Sept 1989 ( <i>see Gazette</i>1989, No. S294) 
-Ss. 29(e) and 32: 5 Oct 1989 ( <i>see Gazette</i>1989, No. S319) 
+Ss. 29(e) and 32: 5 Oct 1989 ( <i>see Gazette</i>1989, No. S319) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -5910,8 +5910,8 @@ Remainder: Royal Assent</div>
     <div>19 June 1989</div>
   </td>
   <td>
-    <div>Ss. 11 and 13: 7 Dec 1988 
-Part 5 (ss. 14, 15): 11 May 1989 ( <i>see</i>s. 2(3) and <i>Gazette</i>1989, No. S164) 
+    <div>Ss. 11 and 13: 7 Dec 1988 
+Part 5 (ss. 14, 15): 11 May 1989 ( <i>see</i>s. 2(3) and <i>Gazette</i>1989, No. S164) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -6065,7 +6065,7 @@ Remainder: Royal Assent</div>
     <div>16 July 1999</div>
   </td>
   <td>
-    <div>Schedule 2 (items 11–13), Schedule 4 (items 60–63) and Schedule 7 (items 11–15): 16 July 2000 <i>(i)</i></div>
+    <div>Schedule 2 (items 11–13), Schedule 4 (items 60–63) and Schedule 7 (items 11–15): 16 July 2000 <i>(i)</i></div>
   </td>
   <td>
     <div>Sch. 2 (item 13) and Sch. 7 (items 12, 14) \[ <i>see</i>Table A]</div>
@@ -6134,7 +6134,7 @@ Remainder: 24 May 2001</div>
     <div>22 Mar 2001</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 46–72): 24 May 2001 <i>(l)</i></div>
+    <div>S. 4 and Schedule 1 (items 46–72): 24 May 2001 <i>(l)</i></div>
   </td>
   <td>
     <div>S. 4 \[ <i>see</i>Table A]</div>
@@ -6185,7 +6185,7 @@ Remainder: 24 May 2001</div>
     <div>23 Mar 2004</div>
   </td>
   <td>
-    <div>Schedule 1: 20 Apr 2004 
+    <div>Schedule 1: 20 Apr 2004 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -6239,7 +6239,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 1 (items 1–25), Schedule 2 and Schedule 3 (items 3–47, 
 49–52): 26 Nov 2008 
-Schedule 4 (items 38–44), Schedule 5 (items 88–157) and Schedule 6: 25 Nov 2009</div>
+Schedule 4 (items 38–44), Schedule 5 (items 88–157) and Schedule 6: 25 Nov 2009</div>
   </td>
   <td>
     <div>Sch. 3 (items 
@@ -6261,23 +6261,6 @@ Schedule 4 (items 38–44), Schedule 5 (items 88–157) and Schedule 6: 25
   </td>
   <td>
     <div>Schedule 10 (item 20): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 60): <i>(m)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -6312,8 +6295,7 @@ _(g)_     The _Great Barrier Reef__Marine__Park__Act 1975_ was amended b
 
                  (1)   Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
 
-_(h)_     The _Great Barrier Reef__Marine__Park__Act 1975_ was amended by Schedule 2 (items
- 795–804) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(h)_     The _Great Barrier Reef__Marine__Park__Act 1975_ was amended by Schedule 2 (items 795–804) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997._
 
@@ -6321,8 +6303,7 @@ _(i)_      The _Great Barrier Reef__Marine__Park__Act 1975_ was amende
 
                  (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences.
 
-_(j)_      The _Great Barrier Reef Marine Park Act 1975_ was amended by Schedule 1 (items
- 500–504) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(j)_      The _Great Barrier Reef Marine Park Act 1975_ was amended by Schedule 1 (items 500–504) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -6339,93 +6320,6 @@ _(l)_      The _Great   Barrier Reef__Marine__Park__Act 1975_ was amen
                  (1)   Subject to this section, this Act commences on the latest of the following days:
 
                               (c)   the day on which item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_ commences.
-
-_(m)_    Subsection 2(1) (item 34) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      34\. Schedule 5, item 60
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 125 of Schedule 5 to the
-        <i>Great Barrier Reef Marine Park and Other Legislation Amendment Act 2008</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      25 November 2009
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -9228,23 +9122,7 @@ _(m)_    Subsection 2(1) (item 34) of the _Statute Law Revision Act 2010_ 
 </tr>
 <tr>
   <td>
-    <div>S. 61ACA</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 61ACA(4)(c)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61ACB</div>
+    <div>Ss. 61ACA, 61ACB</div>
   </td>
   <td>
     <div>ad. No. 125, 2008</div>
@@ -9911,7 +9789,7 @@ For the purposes of subitem 42(6), an action is, at any particular time, the sub
 
 ## 147  Section 42 of the _Great Barrier Reef__Marine__Park__Act 1975_
 
-(1)        This item applies if, immediately before the commencement of this Schedule, an arrangement under section 42 of the _Great Barrier   Reef__Marine__Park__Act 1975_ was in force in respect of a person.
+(1)        This item applies if, immediately before the commencement of this Schedule, an arrangement under section 42 of the _Great   Barrier Reef__Marine__Park__Act 1975_ was in force in respect of a person.
 
 (2)        Despite the repeal of section 42 by this Schedule, the arrangement in respect of the person continues in force after the commencement of this Schedule as if the arrangement had been made under section 48A as inserted by this Act.
 
@@ -10065,7 +9943,7 @@ A reference in section 38DD of the _Great Barrier Reef__Marine__Park__Act 1975
 
                              (ii)  if, at the time this Schedule commenced, the permission was suspended—the suspension has been removed under Marine Park regulations;
 
-                     (d)  the permission is not suspended under Marine Park regulations;
+                     (d)  the permission is not suspended under   Marine Park regulations;
 
                      (e)  the permission has not expired or been revoked under Marine Park regulations.
 
