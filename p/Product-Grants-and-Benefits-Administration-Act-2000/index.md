@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00488/Html/8925a3d9-d445-4cec-a1a6-c862ffa603bf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00916/Html/ac0be6b1-0b94-4f9a-be1e-52fb8e2554d2_files/image001.gif)
 
 # Product Grants and Benefits Administration Act 2000
 
 **Act No. 61 of 2000 as amended**
 
-This compilation was prepared on 29 May 2012
- taking into account amendments up to Act No. 39 of 2012
+This compilation was prepared on 1 December 2011
+ taking into account amendments up to Act No. 68 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -178,7 +178,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Object
 
-                   The object of this Act is to provide a scheme for the administration of a number of grants and benefits that are administered by the Commissioner of Taxation.
+                   The object of this Act is to provide a scheme for the administration of a number of grants and benefits that are administered by the Commissioner of Taxation.
 
 ##### <a id="3A"></a>3A  Extension to external Territories
 
@@ -1191,7 +1191,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ## Part 13—Miscellaneous
 
-##### <a id="53"></a>53  Reviewable grant or benefit decisions
+##### <a id="53"></a>53  Reviewable grant or benefit decisions
 
              (1)  If you are dissatisfied with a reviewable grant or benefit decision relating to you, you may object against the decision in the manner set out in Part IVC of the _Taxation Administration Act 1953_.
 
@@ -1687,23 +1687,6 @@ Schedule 4 (item 4): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Indirect Tax Laws Amendment (Assessment) Act 2012</div>
-  </td>
-  <td>
-    <div>39, 2012</div>
-  </td>
-  <td>
-    <div>15 Apr 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 188, 189, 239): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 239)</div>
   </td>
 </tr>
 <tr height="0">
@@ -2375,25 +2358,7 @@ Omit “otherwise—”.
 
 Repeal the subsections.
 
-As at 29 May 2012 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Indirect Tax Laws Amendment (Assessment) Act 2012 (No. 39, 2012)_
-
-The following amendments commence on 1 July 2012:
-
-## Schedule 1
-
-## 188  Subsection 15(2A)
-
-Omit “that includes a net fuel amount”.
-
-## 189  Subsection 15(4) (definition of _net fuel amount_)
-
-Repeal the definition.
-
-As at 29 May 2012 the amendments are not incorporated in this compilation.
+As at 1 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2474,7 +2439,7 @@ _Product Stewardship (Oil) Legislation Amendment Act (No. 1) 2003
 
 ## Schedule 2
 
-## 3  Transitional provision
+## 3  Transitional provision
 
 Any registration for entitlement to product stewardship (oil) benefits in force under the _Product Grants and Benefits Administration Act 2000_ immediately before the commencement of items 1 and 2 of this Schedule has effect, on and after that commencement, as if it extended to benefits under subsection 9(3) of the _Product Stewardship (Oil) Act 2000_
 
@@ -2591,23 +2556,5 @@ _Tax Laws Amendment (2010 Measures No. 1) Act 2010 (No. 56, 2010)_
 ## 101  Application provision—Divisions 1 and 2
 
 The amendments made by Divisions 1 and 2 apply in relation to things done on or after the commencement of those Divisions.
-
-* * *
-
-_Indirect Tax Laws Amendment (Assessment) Act 2012 (No. 39, 2012)_
-
-The following provision commences on 1 July 2012:
-
-## Schedule 1
-
-## 239  Application of amendments
-
-(1)       The amendments made by Divisions 1, 2 and 3 of this Part apply in relation to payments and refunds that relate to tax periods, and fuel tax return periods, starting on or after 1 July 2012.
-
-(2)       The amendments made by Divisions 1, 2 and 3 of this Part also apply in relation to payments and refunds that:
-
-                     (a)  do not relate to any tax periods or fuel tax return periods; and
-
-                     (b)  relate to liabilities or entitlements that arose on or after 1 July 2012.
 
  
