@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00868/Html/1a06d7f5-b999-4ed5-9858-067c3410f12c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00406/Html/SubmarineCablesPipeProtect63_WD02_image001.gif)
 
 # Submarine Cables and Pipelines Protection Act 1963
 
 **Act No. 61 of 1963 as amended**
 
-This compilation was prepared on 27 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -96,7 +96,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  a submarine pipeline; or
 
-                     (c)  a submarine high‑voltage cable.
+                     (c)  a submarine high-voltage cable.
 
                     Penalty:  $2,000, or imprisonment for 12 months.
 
@@ -106,7 +106,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  a submarine pipeline; or
 
-                     (c)  a submarine high‑voltage cable.
+                     (c)  a submarine high-voltage cable.
 
                     Penalty:  $1,000, or imprisonment for 3 months.
 
@@ -150,7 +150,7 @@ the last preceding subsection does not apply in relation to the break or injury.
 
 with respect to offences against this Act. 
 
-             (2)  The jurisdiction invested in or conferred on courts by the last preceding subsection is invested or conferred within the limits (other than limits having effect by reference to the places at which offences are committed) of their several jurisdictions, whether those limits are as to subject‑matter or otherwise, but subject to the conditions and restrictions specified in paragraphs (a), (b) and (c) of subsection (2) of section thirty‑nine of the _Judiciary Act 1903‑1960_. 
+             (2)  The jurisdiction invested in or conferred on courts by the last preceding subsection is invested or conferred within the limits (other than limits having effect by reference to the places at which offences are committed) of their several jurisdictions, whether those limits are as to subject-matter or otherwise, but subject to the conditions and restrictions specified in paragraphs (a), (b) and (c) of subsection (2) of section thirty-nine of the _Judiciary Act 1903-1960_. 
 
              (3)  The jurisdiction invested in, or conferred on, a court of summary jurisdiction by this section shall not be judicially exercised except by a Chief, Police, Stipendiary, Resident or Special Magistrate. 
 
@@ -168,7 +168,7 @@ with respect to offences against this Act.
 
 and for holding accused persons to bail apply, so far as they are applicable, to a person who is charged in that State or Territory with an offence against this Act. 
 
-             (6)  Except as provided by this section, the _Judiciary Act 1903‑1960_ applies in relation to offences against this Act. 
+             (6)  Except as provided by this section, the _Judiciary Act 1903-1960_ applies in relation to offences against this Act. 
 
 # Notes to the _Submarine Cables and Pipelines Protection Act 1963_
 
@@ -183,10 +183,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
-  <col width="17%">
-  <col width="22%">
   <col width="16%">
+  <col width="17%">
+  <col width="23%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -330,23 +330,6 @@ of Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Acts Interpretation Amendment Act 2011</div>
-    </td>
-    <td>
-      <div>46, 2011</div>
-    </td>
-    <td>
-      <div>27 June 2011</div>
-    </td>
-    <td>
-      <div>Schedule 2 (item 1073) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-    </td>
-    <td>
-      <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_ The _Submarine Cables and Pipelines Protection Act 1963_ was amended by Schedule 4 only of the _International Maritime Conventions Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
@@ -357,8 +340,8 @@ _(a)_ The _Submarine Cables and Pipelines Protection Act 1963_ was amended by Sc
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -449,20 +432,6 @@ _(a)_ The _Submarine Cables and Pipelines Protection Act 1963_ was amended by Sc
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1073  Subsection 5(2) (definition of _exclusive economic zone_)
-
-Repeal the definition.
-
-As at 27 October 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -474,21 +443,5 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
