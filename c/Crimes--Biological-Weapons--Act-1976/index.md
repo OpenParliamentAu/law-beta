@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00094/Html/6569c1dd-3946-449c-844b-025cd3211d34_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00323/Html/CrimesBW1976_image001.gif)
 
 # Crimes (Biological Weapons) Act 1976
 
 **Act No. 11 of 1977 as amended**
 
-This compilation was prepared on 24 February 2010
- taking into account amendments up to Act No. 4 of 2010
+This compilation was prepared on 9 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -15,7 +15,7 @@ The operation of amendments that have been incorporated
  the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -27,7 +27,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4](#4).            Extension to external Territories
 
-[5](#5).            Extra‑territorial operation of Act
+[5](#5).            Extra-territorial operation of Act
 
 [6](#6).            Act binds the Crown
 
@@ -71,7 +71,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act extends to every external Territory.
 
-##### <a id="5"></a>5  Extra‑territorial operation of Act
+##### <a id="5"></a>5  Extra-territorial operation of Act
 
                    This Act extends to acts done or omitted to be done by Australian citizens outside Australia and the external Territories.
 
@@ -117,11 +117,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="10"></a>10  Prosecutions
 
-             (1)  Subject to subsection (2), all offences against this Act (including offences that are taken to have been committed because of section 11.2 or 11.2A of the _Criminal Code_), or against section 11.1 or 11.4 of the _Criminal Code_ in relation to this Act, are indictable offences and are not triable summarily.
+             (1)  Subject to subsection (2), all offences against this Act (including offences that are taken to have been committed because of section 11.2 of the _Criminal Code_), or against section 11.1 or 11.4 of the _Criminal Code_ in relation to this Act, are indictable offences and are not triable summarily.
 
              (2)  Where the law of a State or Territory makes provision for a person who pleads guilty to a charge in proceedings for his or her commitment for trial on indictment to be committed to a higher court and dealt with otherwise than on indictment, a person charged in that State or Territory with an offence referred to in subsection (1) may be dealt with in accordance with that law.
 
-             (3)  Proceedings for the commitment of a person for trial on indictment for an offence referred to in subsection (1) shall not be instituted except with the consent in writing of the Attorney‑General or of a person authorized by the Attorney‑General, by writing signed by him or her, to give such consents.
+             (3)  Proceedings for the commitment of a person for trial on indictment for an offence referred to in subsection (1) shall not be instituted except with the consent in writing of the Attorney-General or of a person authorized by the Attorney-General, by writing signed by him or her, to give such consents.
 
              (4)  Notwithstanding that a consent in accordance with subsection (3) has not been given in relation to an offence referred to in subsection (1):
 
@@ -169,7 +169,7 @@ is admissible in any proceedings for an offence referred to in section 10 as e
 
              (4)  A certificate shall not be received in evidence in pursuance of subsection (2) in a proceeding for an offence unless the person charged with the offence has been given a copy of the certificate together with reasonable notice of the intention to produce the certificate as evidence in the proceeding.
 
-             (5)  Where, in pursuance of subsection (2), a certificate of an analyst is admitted in evidence in a proceeding for an offence, the person charged with the offence may require the analyst to be called as a witness for the prosecution and the analyst may be cross‑examined as if he or she had given evidence of the matters stated in the certificate.
+             (5)  Where, in pursuance of subsection (2), a certificate of an analyst is admitted in evidence in a proceeding for an offence, the person charged with the offence may require the analyst to be called as a witness for the prosecution and the analyst may be cross-examined as if he or she had given evidence of the matters stated in the certificate.
 
              (6)  Subsection (5) does not entitle a person to require an analyst to be called as a witness for the prosecution unless:
 
@@ -179,7 +179,7 @@ is admissible in any proceedings for an offence referred to in section 10 as e
 
 ##### <a id="13"></a>13  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, for and in relation to:
+                   The Governor-General may make regulations, not inconsistent with this Act, for and in relation to:
 
                      (a)  procedures to be followed in the storage and disposal of substances and articles in respect of which an offence referred to in section 10 has been, or is alleged to have been, committed; and
 
@@ -235,13 +235,13 @@ Each State Party to this Convention shall, in accordance with its constitutional
 
 ARTICLE V
 
-The States Parties to this Convention undertake to consult one another and to co‑operate in solving any problems which may arise in relation to the objective of, or in the application of the provisions of, the Convention. Consultation and co‑operation pursuant to this Article may also be undertaken through appropriate international procedures within the framework of the United Nations and in accordance with its Charter.
+The States Parties to this Convention undertake to consult one another and to co-operate in solving any problems which may arise in relation to the objective of, or in the application of the provisions of, the Convention. Consultation and co-operation pursuant to this Article may also be undertaken through appropriate international procedures within the framework of the United Nations and in accordance with its Charter.
 
 ARTICLE VI
 
 (1)   Any State Party to this Convention which finds that any other State Party is acting in breach of obligations deriving from the provisions of the Convention may lodge a complaint with the Security Council of the United Nations. Such a complaint should include all possible evidence confirming its validity, as well as a request for its consideration by the Security Council.
 
-(2)   Each State Party to this Convention undertakes to co‑operate in carrying out any investigation which the Security Council may initiate, in accordance with the provisions of the Charter of the United Nations, on the basis of the complaint received by the Council. The Security Council shall inform the States Parties to the Convention of the results of the investigation.
+(2)   Each State Party to this Convention undertakes to co-operate in carrying out any investigation which the Security Council may initiate, in accordance with the provisions of the Charter of the United Nations, on the basis of the complaint received by the Council. The Security Council shall inform the States Parties to the Convention of the results of the investigation.
 
 ARTICLE VII
 
@@ -257,9 +257,9 @@ Each State Party to this Convention affirms the recognised objective of effectiv
 
 ARTICLE X
 
-(1)   The States Parties to this Convention undertake to facilitate, and have the right to participate in, the fullest possible exchange of equipment, materials and scientific and technological information for the use of bacteriological (biological) agents and toxins for peaceful purposes. Parties to the Convention in a position to do so shall also co‑operate in contributing individually or together with other States or international organisations to the further development and application of scientific discoveries in the field of bacteriology (biology) for the prevention of disease, or for other peaceful purposes.
+(1)   The States Parties to this Convention undertake to facilitate, and have the right to participate in, the fullest possible exchange of equipment, materials and scientific and technological information for the use of bacteriological (biological) agents and toxins for peaceful purposes. Parties to the Convention in a position to do so shall also co-operate in contributing individually or together with other States or international organisations to the further development and application of scientific discoveries in the field of bacteriology (biology) for the prevention of disease, or for other peaceful purposes.
 
-(2)   This Convention shall be implemented in a manner designed to avoid hampering the economic or technological development of States Parties to the Convention or international co‑operation in the field of peaceful bacteriological (biological) activities, including the international exchange of bacteriological (biological) agents and toxins and equipment for the processing, use or production of bacteriological (biological) agents and toxins for peaceful purposes in accordance with the provisions of the Convention.
+(2)   This Convention shall be implemented in a manner designed to avoid hampering the economic or technological development of States Parties to the Convention or international co-operation in the field of peaceful bacteriological (biological) activities, including the international exchange of bacteriological (biological) agents and toxins and equipment for the processing, use or production of bacteriological (biological) agents and toxins for peaceful purposes in accordance with the provisions of the Convention.
 
 ARTICLE XI
 
@@ -279,9 +279,9 @@ ARTICLE XIV
 
 (1)   This Convention shall be open to all States for signature. Any State which does not sign the Convention before its entry into force in accordance with paragraph 3 of this Article may accede to it at any time.
 
-(2)   This Convention shall be subject to ratification by signatory States. Instruments of ratification and instruments of accession shall be deposited with the Governments of the United Kingdom of Great Britain and Northern Ireland, the Union of Soviet Socialist Republics and the United States of America, which are hereby designated the Depositary Governments.
+(2)   This Convention shall be subject to ratification by signatory States. Instruments of ratification and instruments of accession shall be deposited with the Governments of the United Kingdom of Great Britain and Northern Ireland, the Union   of Soviet Socialist Republics and the United States of America, which are hereby designated the Depositary Governments.
 
-(3)   This Convention shall enter into force after the deposit of instruments of ratification by twenty‑two Governments, including the Governments designated as Depositaries of the Convention.
+(3)   This Convention shall enter into force after the deposit of instruments of ratification by twenty-two Governments, including the Governments designated as Depositaries of the Convention.
 
 (4)   For States whose instruments of ratification or accession are deposited subsequent to the entry into force of this Convention, it shall enter into force on the date of the deposit of their instruments of ratification or accession.
 
@@ -436,23 +436,6 @@ Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1)</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 9): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Crimes (Biological Weapons) Act 1976_ was amended by Schedule 12 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
@@ -507,7 +490,7 @@ _(a)_     The _Crimes (Biological Weapons) Act 1976_ was amended by Sche
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 24, 2001; No. 73, 2008; No. 4, 2010</div>
+    <div>am. No. 24, 2001; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
