@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00043/Html/98ef09a6-ec50-4f0a-b2be-d6e6c5745d85_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00484/Html/7dd9e86c-7559-41c2-9323-6cb592c41672_files/image001.gif)
 
 # Fair Work (Building Industry) Act 2012
 
 **Act No. 113 of 2005 as amended**
 
-This compilation was prepared on 17 January 2013
- taking into account amendments up to Act No. 174 of 2012
+This compilation was prepared on 1 June 2012
+ taking into account amendments up to Act No. 42 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -262,13 +263,13 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [71](#71).          Director may intervene in court proceedings
 
-[72](#72).          Director may make submissions in FWC proceedings
+[72](#72).          Director may make submissions in FWA proceedings
 
 [73](#73).          Director etc  must not participate in court proceedings in relation to settled matters
 
 [73A](#73A).       Director etc  must not institute court proceedings in relation to settled matters
 
-[74](#74).          General Manager of the FWC must keep Director informed
+[74](#74).          General Manager of FWA must keep Director informed
 
 [75](#75).          Jurisdiction of the Federal Court
 
@@ -576,9 +577,9 @@ whether or not those rules also allow membership by other persons.
 
                     <a name="feral-safeti-offic"></a>**_Federal Safety Officer_** means a Federal Safety Officer referred to in section 60.
 
-                    <a name="fw-act"></a>**_FW Act_** means the _Fair Work Act 2009_.
+                    <a name="fwa"></a>**_FWA_** has the same meaning as in the FW Act.
 
-                    <a name="fwc"></a>**_FWC_**means the Fair Work Commission.
+                    <a name="fw-act"></a>**_FW Act_** means the _Fair Work Act 2009_.
 
                     <a name="independ-assessor"></a>**_Independent Assessor_** means the Independent Assessor—Special Building Industry Powers referred to in section 36B.
 
@@ -764,11 +765,11 @@ In this subsection, **_association_** means an organisation or branch of an orga
 
                      (c)  to inquire into, and investigate, any act or practice by a building industry participant that may be contrary to a designated building law, a safety net contractual entitlement or the Building Code;
 
-                     (d)  to commence proceedings in a court, or to make applications to the FWC, to enforce designated building laws and safety net contractual entitlements as they relate to building industry participants;
+                     (d)  to commence proceedings in a court, or to make applications to FWA, to enforce designated building laws and safety net contractual entitlements as they relate to building industry participants;
 
                      (e)  to refer matters to relevant authorities;
 
-                      (f)  to represent building industry participants who are, or may become, a party to proceedings in a court, or a party to a matter before the FWC, under a designated building law, if the Director considers that representing the building industry participants will promote compliance with designated building laws;
+                      (f)  to represent building industry participants who are, or may become, a party to proceedings in a court, or a party to a matter before FWA, under a designated building law, if the Director considers that representing the building industry participants will promote compliance with designated building laws;
 
                      (g)  to disseminate information about designated building laws and the Building Code, and about other matters affecting building industry participants, including disseminating information by facilitating ongoing discussions with building industry participants;
 
@@ -1290,7 +1291,7 @@ Limitation on Director’s powers
 
 ##### <a id="36B"></a>36B  Establishment
 
-                   There is to be an Independent Assessor—Special Building Industry Powers.
+                   There is to be an Independent Assessor—Special Building Industry Powers.
 
 ##### <a id="36C"></a>36C  Functions and powers
 
@@ -2338,7 +2339,7 @@ Definitions
 
                      (e)  a person engaged as a consultant under section 26M;
 
-                      (f)  the General Manager of the FWC;
+                      (f)  the General Manager of FWA;
 
                      (g)  a presidential member or a Registrar of the Administrative Appeals Tribunal, or an officer or member of staff referred to in section 24N of the _Administrative Appeals Tribunal Act 1975_;
 
@@ -2402,9 +2403,9 @@ Note:          See also sections 34AA and 34AB of the _Acts 
 
              (2)  If the Director intervenes in a proceeding under subsection (1), the Director is taken to be a party to the proceeding and has all the rights, duties and liabilities of such a party.
 
-##### <a id="72"></a>72  Director may make submissions in FWC proceedings
+##### <a id="72"></a>72  Director may make submissions in FWA proceedings
 
-                   The Director may, by giving written notice to the General Manager of the FWC, make a submission in a matter before the FWC that arises under the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ and involves:
+                   The Director may, by giving written notice to the General Manager of FWA, make a submission in a matter before FWA that arises under the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_ and involves:
 
                      (a)  a building industry participant; or
 
@@ -2456,11 +2457,11 @@ Note:          See also sections 34AA and 34AB of the _Acts 
 
                     <a name="build-proceing"></a>**_building proceeding_** has the same meaning as in subsection 73(4).
 
-##### <a id="74"></a>74  General Manager of the FWC must keep Director informed
+##### <a id="74"></a>74  General Manager of FWA must keep Director informed
 
-                   The General Manager of the FWC must, as soon as practicable, notify the Director of:
+                   The General Manager of FWA must, as soon as practicable, notify the Director of:
 
-                     (a)  every application lodged with the FWC, or the General Manager of the FWC under the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, where the application relates to a matter that involves:
+                     (a)  every application lodged with FWA, or the General Manager of FWA under the FW Act or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_, where the application relates to a matter that involves:
 
                               (i)  a building industry participant; or
 
@@ -2532,7 +2533,7 @@ Note:          See also sections 34AA and 34AB of the _Acts 
 
                       (i)  a person engaged as a consultant under section 34;
 
-                      (j)  the General Manager of the FWC;
+                      (j)  the General Manager of FWA;
 
                      (k)  the Independent Assessor;
 
@@ -2778,23 +2779,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 2</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>174, 2012</div>
-  </td>
-  <td>
-    <div>4 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 9 (items 887–895): 1 Jan 2013</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
@@ -3009,7 +2993,7 @@ _(b)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. SLI 2006 Nos. 50 and 99; No. 163, 2006; No. 8, 2008; No. 54, 2009; No. 58, 2011; Nos. 42 and 174, 2012</div>
+    <div>am. SLI 2006 Nos. 50 and 99; No. 163, 2006; No. 8, 2008; No. 54, 2009; No. 58, 2011; No. 42, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3074,14 +3058,6 @@ _(b)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>rs. No. 42, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4194,7 +4170,7 @@ Part 3 of Chapt. 7</div>
     <div>S. 65</div>
   </td>
   <td>
-    <div>am. No. 153, 2007; No. 54, 2009; Nos. 42 and 174, 2012</div>
+    <div>am. No. 153, 2007; No. 54, 2009; No. 42, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4271,18 +4247,10 @@ Part 3 of Chapt. 7</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 72</div>
   </td>
   <td>
-    <div>am. No. 54, 2009; Nos. 42 and 174, 2012</div>
+    <div>am. No. 54, 2009; No. 42, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4375,18 +4343,10 @@ Part 3 of Chapt. 7</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 174, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 74</div>
   </td>
   <td>
-    <div>am. No. 54, 2009; Nos. 42 and 174, 2012</div>
+    <div>am. No. 54, 2009; No. 42, 2012</div>
   </td>
 </tr>
 <tr>
@@ -4482,7 +4442,7 @@ Part 3 of Chapt. 7</div>
     <div>S. 77</div>
   </td>
   <td>
-    <div>am. No. 163, 2006; No. 54, 2009; Nos. 42 and 174, 2012</div>
+    <div>am. No. 163, 2006; No. 54, 2009; No. 42, 2012</div>
   </td>
 </tr>
 <tr>
