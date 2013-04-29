@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00560/Html/9fc9c992-4297-4907-bf58-ce7cc0d419a6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00302/Html/6629044a-60ad-411c-8026-6fb50ed6f3cb_files/image001.gif)
 
 # Primary Industries and Energy Research and Development Act 1989
 
 **Act No. 17 of 1990 as amended**
 
-This compilation was prepared on 24 July 2012
- taking into account amendments up to Act No. 82 of 2012
+This compilation was prepared on 16 March 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -96,14 +96,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [31](#31).          Government matching payments not to exceed levy and certain other payments
 
-[32](#32).          Retention limit for Commonwealth’s matching payments
+[32](#32).          Commonwealth’s matching payments not to exceed certain proportion of production
 
 [33](#33).          Expenditure of money of R&amp;D Corporations
 
 [34](#34).          Commonwealth to be paid levy expenses from R&amp;D Corporations
 
-[35](#35).          Commonwealth to be reimbursed for refunds of levy 
- [_see_ Note 2]
+[35](#35).          Commonwealth to be reimbursed for refunds of levy [_see_ Note 2]
 
 [36](#36).          Transfers of money where levies redirected
 
@@ -276,7 +275,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [109](#109).        Government matching payments not to exceed levy payments
 
-[110](#110).        Retention limit for Commonwealth’s matching payments
+[110](#110).        Commonwealth’s matching payments not to exceed certain proportion of production
 
 [111](#111).        Additional money payable into R&amp;D Funds
 
@@ -1178,129 +1177,35 @@ Note:          See also subsection 7(3) of the _Plant Health A
 
              (2)  Subject to subsection (2A), the amounts to be paid to the Corporation under paragraph(1)(b), during a particular financial year, are as follows:
 
-                     (a)  an amount equal to 0.5% of interim total GVP for that year or, if the amount spent or required to be spent by the Corporation under section 33 (other than paragraph 33(1)(d)) for that financial year is less than 0.5% of that interim total GVP, an amount equal to that lesser amount;
+                     (a)  an amount equal to 0.5% of total GVP for that year or, if the amount spent or required to be spent by the Corporation under section 33 (other than paragraph 33(1)(d)) for that financial year is less than 0.5% of that total GVP, an amount equal to that lesser amount;
 
-                     (b)  where the amount so spent or required to be spent by the Corporation for that financial year is more than 0.5% of interim total GVP for that year:
+                     (b)  where the amount so spent or required to be spent by the Corporation for that financial year is more than 0.5% of total GVP for that year:
 
-                              (i)  if that amount is not less than 1% of that interim total GVP—an amount equal to 0.25% of interim Commonwealth GVP for that year; or
+                              (i)  if that amount is not less than 1% of that total GVP—an amount equal to 0.25% of Commonwealth GVP for that year; or
 
-                             (ii)  if that amount is more than 0.5%, but less than 1%, of that interim total GVP—half of the amount equal to the percentage of interim Commonwealth GVP for that year by which the amount so required to be spent was more than 0.5% of that interim total GVP;
+                             (ii)  if that amount is more than 0.5%, but less than 1%, of that total GVP—half of the amount equal to the percentage of Commonwealth GVP for that year by which the amount so required to be spent was more than 0.5% of that total GVP;
 
                             reduced by the amount (if any) by which the amount worked out under subparagraph (i) or (ii) (as the case may be) exceeds the total of the amounts paid to the Corporation during the year under subparagraphs (1)(a)(i) and (ii) (less the sum of any refunds in relation to levies attached to the Corporation):
 
-                     (c)  where the amount so spent or required to be spent by the Corporation for that financial year is more than 0.5% of interim total GVP for that year and a State or Territory has made a payment to the Corporation or to the Commonwealth in respect of research and development in respect of the fishing industry:
+                     (c)  where the amount so spent or required to be spent by the Corporation for that financial year is more than 0.5% of total GVP for that year and a State or Territory has made a payment to the Corporation or to the Commonwealth in respect of research and development in respect of the fishing industry:
 
-                              (i)  if the amount so required to be spent by the Corporation is not less than 1% of that interim total GVP—an amount equal to 0.25% of that interim State or Territory GVP for that year; or
+                              (i)  if the amount so required to be spent by the Corporation is not less than 1% of that total GVP—an amount equal to 0.25% of that State or Territory GVP for that year; or
 
-                             (ii)  if that amount is more than 0.5%, but less than 1%, of that interim total GVP—half of the amount equal to the percentage of that interim State or Territory GVP for that year by which the amount so required to be spent was more than 0.5% of that interim total GVP;
+                             (ii)  if that amount is more than 0.5%, but less than 1%, of that total GVP—half of the amount equal to the percentage of that State or Territory GVP for that year by which the amount so required to be spent was more than 0.5% of that total GVP;
 
                             reduced by the amount (if any) by which the amount worked out under subparagraph (i) or (ii) (as the case may be) exceeds the amount of the payment made by the State or Territory to the Corporation or to the Commonwealth in respect of research and development in respect of the fishing industry.
 
           (2A)  The amounts to be paid to the Corporation under paragraph (1)(b) during the 1997‑98 financial year are the amounts worked out under subsection (2) reduced by $3,612,000.
 
-          (2B)  If:
-
-                     (a)  an amount is paid to the Corporation under paragraph (1)(b) in a financial year; and
-
-                     (b)  the amount was calculated, in whole or in part, under subsection (2) on the basis of:
-
-                              (i)  interim Commonwealth GVP for the financial year; or
-
-                             (ii)  interim State or Territory GVP for the financial year for a State or Territory; or
-
-                            (iii)  interim total GVP for the financial year; and
-
-                     (c)  before the end of 31 October next following the financial year, the Minister determines an amount that is:
-
-                              (i)  if subparagraph (b)(i) applies—the final Commonwealth GVP for the financial year; or
-
-                             (ii)  if subparagraph (b)(ii) applies—the final State or Territory GVP for the financial year for that State or Territory; or
-
-                            (iii)  if subparagraph (b)(iii) applies—the final total GVP for the financial year; and
-
-                     (d)  as at the end of 31 October next following the financial year, the total amount paid to the Corporation under paragraph (1)(b) in the financial year exceeds the amount that would have been paid to the Corporation under that paragraph in the financial year if:
-
-                              (i)  each reference in subsection (2) to interim Commonwealth GVP were a reference to the amount of final Commonwealth GVP so determined; and
-
-                             (ii)  each reference in subsection (2) to interim State or Territory GVP were a reference to the amount of final State or Territory GVP so determined; and
-
-                            (iii)  each reference in subsection (2) to interim total GVP were a reference to the amount of final total GVP so determined;
-
-the Corporation must pay to the Commonwealth an amount equal to the excess.
-
-          (2C)  If:
-
-                     (a)  an amount is paid to the Corporation under paragraph (1)(b) in a financial year; and
-
-                     (b)  the amount was calculated, in whole or in part, under subsection (2) on the basis of:
-
-                              (i)  interim Commonwealth GVP for the financial year; or
-
-                             (ii)  interim State or Territory GVP for the financial year for a State or Territory; or
-
-                            (iii)  interim total GVP for the financial year; and
-
-                     (c)  before the end of 31 October next following the financial year, the Minister determines an amount that is:
-
-                              (i)  if subparagraph (b)(i) applies—the final Commonwealth GVP for the financial year; or
-
-                             (ii)  if subparagraph (b)(ii) applies—the final State or Territory GVP for the financial year for that State or Territory; or
-
-                            (iii)  if subparagraph (b)(iii) applies—the final total GVP for the financial year; and
-
-                     (d)  as at the end of 31 October next following the financial year, the total amount paid to the Corporation under paragraph (1)(b) in the financial year falls short of the amount that would have been paid to the Corporation under that paragraph in the financial year if:
-
-                              (i)  each reference in subsection (2) to interim Commonwealth GVP were a reference to the amount of final Commonwealth GVP so determined; and
-
-                             (ii)  each reference in subsection (2) to interim State or Territory GVP were a reference to the amount of final State or Territory GVP so determined; and
-
-                            (iii)  each reference in subsection (2) to interim total GVP were a reference to the amount of final total GVP so determined;
-
-the Commonwealth must pay to the Corporation an amount equal to the shortfall.
-
-          (2D)  If:
-
-                     (a)  before the end of 31 October next following a financial year, the Minister has not determined under subsection (4) an amount that is final Commonwealth GVP for the financial year; and
-
-                     (b)  the Minister has determined under subsection (4) the amount that is final Commonwealth GVP for the previous financial year;
-
-the Minister is taken to have made, immediately before the end of that 31 October, a determination under subsection (4) that the amount of final Commonwealth GVP for the financial year is equal to the amount of the final Commonwealth GVP determined under subsection (4) for the previous financial year.
-
-          (2E)  If:
-
-                     (a)  before the end of 31 October next following a financial year, the Minister has not determined under subsection (4) the amount that is final State or Territory GVP for the financial year for a State or a Territory; and
-
-                     (b)  the Minister has determined under subsection (4) the amount that is final State or Territory GVP for the previous financial year for the State or Territory;
-
-the Minister is taken to have made, immediately before the end of that 31 October, a determination under subsection (4) that the amount of final State or Territory GVP for the financial year for the State or Territory is equal to the amount of the final State or Territory GVP determined under subsection (4) for the previous financial year for the State or Territory.
-
-           (2F)  If:
-
-                     (a)  before the end of 31 October next following a financial year, the Minister has not determined under subsection (4) the amount that is final total GVP for the financial year; and
-
-                     (b)  the Minister has determined under subsection (4) the amount that is final total GVP for the previous financial year;
-
-the Minister is taken to have made, immediately before the end of that 31 October, a determination under subsection (4) that the amount that is final total GVP for the financial year is equal to the amount of the final total GVP determined under subsection (4) for the previous financial year.
-
-          (2G)  The Minister may, on behalf of the Commonwealth, set off an amount payable by an R&amp;D Corporation under this section against an amount that is payable to the Corporation under subsection (1) or (2C).
-
-          (2H)  A determination made under this section is not a legislative instrument.
-
-             (3)  Amounts payable under subsection (1) or (2C) are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
+             (3)  Amounts payable under subsection (1) are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
              (4)  In this section:
 
-                    <a name="final-commonwealth-gvp"></a>**_final Commonwealth GVP_**, in relation to a financial year, means the amount that the Minister determines to be the amount of the gross value of production for that financial year of the goods that are the produce of that part of the fishing industry that is managed by or on behalf of the Commonwealth.
+                    <a name="commonwealth-gvp"></a>**_Commonwealth GVP_**, in relation to a financial year, means the amount that the Minister determines to be the gross value of production for that financial year of the goods that are the produce of that part of the fishing industry that is managed by or on behalf of the Commonwealth.
 
-                    <a name="final-state-territori-gvp"></a>**_final State or Territory GVP_**, in relation to a financial year and in relation to a State or Territory, means the amount that the Minister determines to be the amount of the gross value of production for that financial year of the goods that are the produce of that part of the fishing industry that is managed by or on behalf of the State or Territory.
+                    <a name="state-territori-gvp"></a>**_State or Territory GVP_**, in relation to a financial year, means the amount that the Minister determines to be the gross value of production for that financial year of the goods that are the produce of that part of the fishing industry that is managed by or on behalf of the particular State or Territory.
 
-                    <a name="final-total-gvp"></a>**_final total GVP_**, in relation to a financial year, means the amount that the Minister determines to be the amount of the gross value of production for that financial year of the goods that are the produce of all parts of the fishing industry, whether managed by or on behalf of the Commonwealth, a State or a Territory.
-
-                    <a name="interim-commonwealth-gvp"></a>**_interim Commonwealth GVP_**, in relation to a financial year, means the final Commonwealth GVP for the previous financial year.
-
-                    <a name="interim-state-territori-gvp"></a>**_interim State or Territory GVP_**, in relation to a financial year and in relation to a State or Territory, means the final State or Territory GVP for the previous financial year for the State or Territory.
-
-                    <a name="interim-total-gvp"></a>**_interim total GVP_**, in relation to a financial year, means the final total GVP for the previous financial year.
+                    <a name="total-gvp"></a>**_total GVP_**, in relation to a financial year, means the amount that the Minister determines to be the gross value of production for that financial year of the goods that are the produce of all parts of the fishing industry, whether managed by or on behalf of the Commonwealth, a State or a Territory.
 
              (5)  The regulations may provide for the manner in which the Minister is to determine the amount of the Commonwealth GVP, a State or Territory GVP or a total GVP for a financial year.
 
@@ -1322,31 +1227,9 @@ the sum of the amounts paid to the Corporation under paragraph 30(1)(b) is not t
 
              (3)  This section does not apply in relation to the RIR&amp;D Corporation.
 
-##### <a id="32"></a>32  Retention limit for Commonwealth’s matching payments
+##### <a id="32"></a>32  Commonwealth’s matching payments not to exceed certain proportion of production
 
-             (1)  For the purposes of this section, **_gross value of production_**, in relation to a levy for a financial year, means the gross value of production, for that financial year, of the goods that are the produce of the primary industry, or class of primary industries, to which the levy relates.
-
-          (1A)  If:
-
-                     (a)  a levy is attached an R&amp;D Corporation; and
-
-                     (b)  before the end of 31 October next following a financial year, the Minister determines the amount of the gross value of production in relation to the levy for the financial year; and
-
-                     (c)  as at the end of 31 October next following the financial year, the sum of the amounts that were paid to the Corporation during the financial year under paragraph 30(1)(b) exceeds 0.5% of the amount of the gross value of production in relation to the levy for the financial year as determined by the Minister;
-
-the Corporation must pay to the Commonwealth an amount equal to the excess.
-
-          (1B)  If:
-
-                     (a)  before the end of 31 October next following a financial year, the Minister has not determined under subsection (1A) the amount of the gross value of production in relation to a levy for the financial year; and
-
-                     (b)  the Minister has determined under subsection (1A) the amount of the gross value of production in relation to the levy for the previous financial year;
-
-the Minister is taken to have made, immediately before the end of that 31 October, a determination under subsection (1A) that the amount of the gross value of production in relation to the levy for the financial year is equal to the amount of the gross value of production in relation to the levy determined under subsection (1A) for the previous financial year.
-
-          (1C)  The Minister may, on behalf of the Commonwealth, set off an amount payable by the R&amp;D Corporation under subsection (1A) against an amount that is payable to the Corporation under paragraph 30(1)(b).
-
-          (1D)  A determination made under subsection (1A) is not a legislative instrument.
+             (1)  If a levy is attached to an R&amp;D Corporation, the sum of the amounts that, during a particular financial year, are paid to the Corporation under paragraph 30(1)(b), in respect of amounts spent by the Corporation under section 33 for R&amp;D activities in respect of the goods that are the produce of the primary industry or class of primary industries to which the levy relates, is not to exceed an amount equal to 0.5% of the amount that the Minister determines to be the gross value of production, for that financial year, of those goods.
 
              (2)  The regulations may provide for the manner in which the Minister is to determine the amount of the gross value of production of goods for a financial year.
 
@@ -1363,8 +1246,6 @@ the Minister is taken to have made, immediately before the end of that 31 Octo
                               (i)  under sections 68 and 81 to the Corporation’s directors; or
 
                              (ii)  under section 89 to members of committees established by the Corporation under that section; and
-
-                    (ca)  in payment to the Commonwealth of amounts payable under subsection 30A(2B) or 32(1A); and
 
                      (d)  in payment to the Commonwealth of amounts payable under section 34; and
 
@@ -1804,7 +1685,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-##### <a id="69"></a>69  Terms and conditions of appointment not provided for by Act
+##### <a id="69"></a>69  Terms and conditions of appointment not provided for by Act
 
                    A director holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined, in writing, by the Minister.
 
@@ -2028,7 +1909,7 @@ Note:          For rules that apply to acting appointments, se
 
              (2)  In the exercise of a power delegated by the Corporation, the delegate is subject to the directions of the Corporation.
 
-##### <a id="91"></a>91  Delegation by Executive Director
+##### <a id="91"></a>91  Delegation by Executive Director
 
              (1)  The Executive Director of an R&amp;D Corporation may, by writing, delegate to an employee of the Corporation all or any of his or her powers under this Act.
 
@@ -2312,7 +2193,7 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                             (iii)  amounts of penalty for non‑payment of that levy, to the extent that the penalty is attributable to the non‑payment of the research component of that levy; and
 
-                     (b)  subject to section 109, amounts equal to one‑half of the amounts required to be paid out of the fund under section 112 (other than paragraphs 112(1)(ca) and (d)).
+                     (b)  subject to sections 109 and 110, amounts equal to one‑half of the amounts required to be paid out of the fund under section 112 (other than paragraph 112(1)(d)).
 
 Note:          See also subsection 7(3) of the _Plant Health Australia (Plant Industries) Funding Act 2002_, which provides that this Act applies to certain amounts of levy or charge (and related late payment penalty) to which that Act applies.
 
@@ -2330,31 +2211,9 @@ Note:          See also subsection 7(3) of the _Plant Health A
 
 the sum of the amounts paid into the Fund under paragraph 108(1)(b) is not to exceed the sum of the amounts paid into the Fund under subparagraphs 108(1)(a)(i) and (ii) (less the sum of any refunds in relation to levies attached to the Fund).
 
-##### <a id="110"></a>110  Retention limit for Commonwealth’s matching payments
+##### <a id="110"></a>110  Commonwealth’s matching payments not to exceed certain proportion of production
 
-             (1)  For the purposes of this section, **_gross value of production_**, in relation to a levy for a financial year, means the gross value of production, for that financial year, of the goods that are the produce of the primary industry, or class of primary industries, to which the levy relates.
-
-          (1A)  If:
-
-                     (a)  a levy is attached to an R&amp;D Fund; and
-
-                     (b)  before the end of 31 October next following a financial year, the Minister determines the amount of the gross value of production in relation to the levy for the financial year; and
-
-                     (c)  as at the end of 31 October next following the financial year, the sum of the amounts that were paid into the R&amp;D Fund during the financial year under paragraph 108(1)(b) exceeds 0.5% of the amount of the gross value of production in relation to the levy for the financial year as determined by the Minister;
-
-the RIR&amp;D Corporation must pay to the Commonwealth, out of the R&amp;D Fund, an amount equal to the excess.
-
-          (1B)  If:
-
-                     (a)  before the end of 31 October next following a financial year, the Minister has not determined under subsection (1A) the amount of the gross value of production in relation to the levy for the financial year; and
-
-                     (b)  the Minister has determined under subsection (1A) the amount of the gross value of production in relation to the levy for the previous financial year;
-
-the Minister is taken to have made, immediately before the end of that 31 October, a determination under subsection (1A) that the amount of the gross value of production in relation to the levy for the financial year is equal to the amount of the gross value of production in relation to the levy determined under subsection (1A) for the previous financial year.
-
-          (1C)  The Minister may, on behalf of the Commonwealth, set off an amount payable out of an R&amp;D Fund under subsection (1A) against an amount that is payable into the R&amp;D Fund under paragraph 108(1)(b).
-
-          (1D)  A determination made under subsection (1A) is not a legislative instrument.
+             (1)  If a levy is attached to an R&amp;D Council, the sum of the amounts that, during a particular financial year, are paid into the Fund under paragraph 108(1)(b), in respect of payments out of the Fund under section 112 for R&amp;D activities in respect of the goods that are the produce of the primary industry or class of primary industries to which the levy relates, is not to exceed an amount equal to 0.5% of the amount that the Minister determines to be the gross value of production, for that financial year, of those goods.
 
              (2)  The regulations may provide for the manner in which the Minister is to determine the amount of the gross value of production of goods for a financial year.
 
@@ -2385,8 +2244,6 @@ the Minister is taken to have made, immediately before the end of that 31 Octo
                      (b)  in payment or discharge of the expenses and liabilities incurred by the RIR&amp;D Corporation in the administration of the Fund; and
 
                      (c)  in payment of remuneration and allowances payable under this Act to the members of the Council; and
-
-                    (ca)  in payment to the Commonwealth of amounts payable under subsection 110(1A); and
 
                      (d)  in payment to the Commonwealth of amounts payable under section 113 or 114; and
 
@@ -3122,7 +2979,7 @@ and, where the Minister makes such a declaration, the agreements or instruments 
 
                    The regulations may change the name of an R&amp;D Corporation or R&amp;D Council, and, when such regulations come into operation, subsection 25B(1) of the _Acts Interpretation Act 1901_ applies as if the regulations were an Act.
 
-##### <a id="149"></a>149  Regulations
+##### <a id="149"></a>149  Regulations
 
              (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
 
@@ -3991,23 +3848,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 2) 2012</div>
-  </td>
-  <td>
-    <div>82, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 90–119): 29 June 2012</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 114–119) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Part 5 (sections 10–12) only of the _Primary Industries Legislation Amendment Act (No. 2) 1991_, subsection 2(1) of which provides as follows:
@@ -4272,7 +4112,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
     <div></div>
   </td>
   <td>
-    <div>am. No. 129, 1994; No. 102, 1998; No. 82, 2012</div>
+    <div>am. No. 129, 1994; No. 102, 1998</div>
   </td>
 </tr>
 <tr>
@@ -4309,18 +4149,10 @@ _(i)_      The _Primary Industries and Energy Research and Development
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 32</div>
-  </td>
-  <td>
-    <div>rs. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. No. 94, 1993; No. 62, 2001; No. 101, 2006; No. 82, 2012</div>
+    <div>am. No. 94, 1993; No. 62, 2001; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -4328,7 +4160,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 94, 1993; No. 123, 2007; No. 82, 2012</div>
+    <div>am. No. 94, 1993; No. 123, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4749,14 +4581,6 @@ _(i)_      The _Primary Industries and Energy Research and Development
 </tr>
 <tr>
   <td>
-    <div>S. 108</div>
-  </td>
-  <td>
-    <div>am. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 108(1)</div>
   </td>
   <td>
@@ -4765,26 +4589,10 @@ _(i)_      The _Primary Industries and Energy Research and Development
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 110</div>
-  </td>
-  <td>
-    <div>rs. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 110</div>
   </td>
   <td>
-    <div>am. No. 101, 2006; No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 112</div>
-  </td>
-  <td>
-    <div>am. No. 82, 2012</div>
+    <div>am. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -4960,7 +4768,7 @@ in a corresponding way to the way in which those regulations apply in relation t
 
                      (e)  in the case of a levy—the corresponding levy imposed by an Act repealed by Part 1 of Schedule 1 to this Act.
 
-## 8  Transitional—regulations
+## 8  Transitional—regulations
 
 Unless the contrary intention appears, regulations made for the purposes of the _Primary Industries and Energy Research and Development Act 1989_ apply, in relation to levy imposed by Schedule 26 to the _Primary Industries (Excise) Levies Act 1999_, in a corresponding way to the way in which those regulations apply in relation to levy imposed by the repealed _Wine Grapes Levy Act 1979_.
 
@@ -5104,78 +4912,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Financial Framework Legislation Amendment Act (No. 2) 2012
- (No. 82, 2012)_
-
-## Schedule 1
-
-## 114  Application—section 30A of the _Primary Industries and Energy Research and Development Act 1989_
-
-(1)       Despite the amendments of the _Primary Industries and Energy Research and Development Act 1989_ by this Schedule, section 30A of that Act continues to apply, after the commencement of this item, in relation to payments made to an R&amp;D Corporation during:
-
-                     (a)  the financial year in which this item commences; or
-
-                     (b)  an earlier financial year;
-
-as if those amendments had not been made.
-
-(2)       Subsections 30A(2B) and (2C) of the _Primary Industries and Energy Research and Development Act 1989_ as amended by this Schedule apply in relation to payments made to an R&amp;D Corporation during:
-
-                     (a)  the financial year next following the financial year in which this item commences; or
-
-                     (b)  a later financial year.
-
-## 115  Application—section 32 of the _Primary Industries and Energy Research and Development Act 1989_
-
-(1)       Despite the amendments of the _Primary Industries and Energy Research and Development Act 1989_ by this Schedule, section 32 of that Act continues to apply, after the commencement of this item, in relation to payments made to an R&amp;D Corporation during:
-
-                     (a)  the financial year in which this item commences; or
-
-                     (b)  an earlier financial year;
-
-as if those amendments had not been made.
-
-(2)       Subsection 32(1A) of the _Primary Industries and Energy Research and Development Act 1989_ as amended by this Schedule applies in relation to payments made to an R&amp;D Corporation during:
-
-                     (a)  the financial year next following the financial year in which this item commences; or
-
-                     (b)  a later financial year.
-
-## 116  Application—section 110 of the _Primary Industries and Energy Research and Development Act 1989_
-
-(1)       Despite the amendments of the _Primary Industries and Energy Research and Development Act 1989_ by this Schedule, section 110 of that Act continues to apply, after the commencement of this item, in relation to payments made into an R&amp;D Fund during:
-
-                     (a)  the financial year in which this item commences; or
-
-                     (b)  an earlier financial year;
-
-as if those amendments had not been made.
-
-(2)       Subsection 110(1A) of the _Primary Industries and Energy Research and Development Act 1989_ as amended by this Schedule applies in relation to payments made into an R&amp;D Fund during:
-
-                     (a)  the financial year next following the financial year in which this item commences; or
-
-                     (b)  a later financial year.
-
-## 117  Transitional—determinations made under section 30A of the _Primary Industries and Energy Research and Development Act 1989_
-
-Section 30A of the _Primary Industries and Energy Research and Development Act 1989_ as amended by this Schedule has effect:
-
-                     (a)  in the case of a determination of an amount of Commonwealth GVP under repealed subsection 30A(4) of the _Primary Industries and Energy Research and Development Act 1989_—as if the determination had been made as a determination of an amount of final Commonwealth GVP under subsection 30A(4) of that Act  as amended by this Schedule; and
-
-                     (b)  in the case of a determination of an amount of State or Territory GVP for a State or Territory under repealed subsection 30A(4) of the _Primary Industries and Energy Research and Development Act 1989_—as if the determination had been made as a determination of an amount of final State or Territory GVP for the State or Territory under subsection 30A(4) of that Act as amended by this Schedule; and
-
-                     (c)  in the case of a determination of an amount of total GVP under repealed subsection 30A(4) of the _Primary Industries and Energy Research and Development Act 1989_—as if the determination had been made as a determination of an amount of final total GVP under subsection 30A(4) of that Act as amended by this Schedule.
-
-## 118  Transitional—determinations made under section 32 of the _Primary Industries and Energy Research and Development Act 1989_
-
-Subsection 32(1B) of the _Primary Industries and Energy Research and Development Act 1989_ as amended by this Schedule has effect as if a determination under repealed subsection 32(1) of the _Primary Industries and Energy Research and Development Act 1989_ had been made under subsection 32(1A) of that Act as amended by this Schedule.
-
-## 119  Transitional—determinations made under section 110 of the _Primary Industries and Energy Research and Development Act 1989_
-
-Subsection 110(1B) of the _Primary Industries and Energy Research and Development Act 1989_ as amended by this Schedule has effect as if a determination under repealed subsection 110(1) of the _Primary Industries and Energy Research and Development Act 1989_ had been made under subsection 110(1A) of that Act as amended by this Schedule.
 
  
