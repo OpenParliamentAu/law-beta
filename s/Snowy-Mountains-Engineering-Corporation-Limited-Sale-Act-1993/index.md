@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00812/Html/247691fc-e501-46b6-aefe-21046d17698c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00308/Html/bd891d6e-6b92-48bb-a2c8-02e75b09271f_files/image001.gif)
 
 # Snowy Mountains Engineering Corporation Limited Sale Act 1993
 
 **Act No. 54 of 1993 as amended**
 
-This compilation was prepared on 13 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -26,6 +27,14 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [3](#3).            Interpretation
 
 [4](#4).            The sale day
+
+**Part 2—Amendment of the Long Service Leave (Commonwealth Employees) Regulations** 
+
+Sections 5, 6
+
+**Part 3—Amendment of the Maternity Leave (Commonwealth Employees) Regulations** 
+
+Sections 7, 8
 
 **Part 4—Transitional and saving provisions** 
 
@@ -107,9 +116,13 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [43](#43).          A SMEC body not to be an eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
 
+[44](#44).          Amendments of other Acts
+
+**Schedule—Amendments of other Acts** 
+
 **Notes** 
 
-## An Act relating to the sale of the Snowy Mountains Engineering Corporation Limited, and for related purposes
+## An Act relating to the sale of the Snowy Mountains Engineering Corporation Limited, and for related purposes 
 
 ## Part 1—Preliminary
 
@@ -141,7 +154,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
-                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before 9 November 1993.
+                    <a name="long-servic-leav-act"></a>**_Long Service Leave Act_** means the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the commencement of Part 2 of this Act.
 
                     <a name="matern-leav-act"></a>**_Maternity Leave Act_** means the _Maternity Leave (Commonwealth Employees) Act 1973_.
 
@@ -170,6 +183,34 @@ Prepared by the Office of Parliamentary Counsel, Canberra
              (2)  The day to be specified in the notice is the day that, in the opinion of the Finance Minister, is the first day after the commencement of this Part on which a majority of the voting shares in SMEC are acquired by a person, or persons, other than the Commonwealth or a nominee of the Commonwealth.
 
              (3)  The notice must be published within 14 days after the specified day.
+
+## Part 2—Amendment of the Long Service Leave (Commonwealth Employees) Regulations 
+
+##### Sections<a id=" 5, 6"></a> 5, 6
+
+* * *
+
+**Note:**
+
+The amendments made by this Part are incorporated in the compilation on FRLI.
+
+For access to the wording of the amendments made by this Part, _see_ Act No. 54 of 1993.
+
+* * *
+
+## Part 3—Amendment of the Maternity Leave (Commonwealth Employees) Regulations 
+
+##### Sections<a id=" 7, 8"></a> 7, 8
+
+* * *
+
+**Note:**
+
+The amendments made by this Part are incorporated in the compilation on FRLI.
+
+For access to the wording of the amendments made by this Part, _see_ Act No. 54 of 1993.
+
+* * *
 
 ## Part 4—Transitional and saving provisions
 
@@ -662,6 +703,34 @@ stop applying to the employee on the sale day.
 
                     <a name="minist"></a>**_Minister_** has the same meaning as in the Supervisory Mechanisms Act.
 
+##### <a id="44"></a>44  Amendments of other Acts
+
+                   The Acts specified in the Schedule are amended as set out in the Schedule.
+
+# Schedule—Amendments of other Acts 
+
+_Section 44_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the current compilations on ComLaw.
+
+_Administrative Decisions (Judicial Review) Act 1977_
+
+_Commonwealth Borrowing Levy Act 1987_
+
+_National Crime Authority Act 1984_<span style="font-size:9.0pt">\[now cited as _Australian Crime Commission Act 2002_]</span>
+
+_Occupational Health and Safety (Commonwealth Employment) Act 1991_<span style="font-size:9.0pt">\[now cited as _Occupational Health and Safety Act 1991_]</span>
+
+_Snowy Mountains Engineering Corporation Act 1970_
+
+For access to the wording of the amendments made by this Schedule _see_ Act No. 54, 1993.
+
+* * *
+
 # Notes to the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_
 
 ### Note 1
@@ -678,7 +747,8 @@ For all other relevant information pertaining to application, saving or transiti
 <colgroup>
   <col width="31%">
   <col width="16%">
-  <col width="18%">
+  <col width="17%">
+  <col width="1%">
   <col width="21%">
   <col width="15%">
 </colgroup>
@@ -692,7 +762,7 @@ For all other relevant information pertaining to application, saving or transiti
       <div>Number 
 and year</div>
     </td>
-    <td>
+    <td colspan="2">
       <div>Date 
 of Assent</div>
     </td>
@@ -711,13 +781,13 @@ of Assent</div>
   <td>
     <div>54, 1993</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>27 Oct 1993</div>
   </td>
   <td>
     <div>Ss. 1–4 and 38: Royal Assent 
-S. 37: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S371) 
-Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
+S. 37: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S371) 
+Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
   </td>
   <td>
     <div></div>
@@ -730,7 +800,7 @@ Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
   <td>
     <div>39, 1997</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>17 Apr 1997</div>
   </td>
   <td>
@@ -747,11 +817,11 @@ Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
   <td>
     <div>146, 1999</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 819, 820): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
+    <div>Schedule 1 (items 819, 820): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -767,11 +837,11 @@ Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
   <td>
     <div>28 June 2001</div>
   </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (items 479–481): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
+  <td colspan="2">
+    <div>Ss. 4–14 and Schedule 3 (items 479–481): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -781,14 +851,14 @@ Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
   <td>
     <div>8, 2005</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>22 Feb 2005</div>
   </td>
   <td>
     <div>S. 4 and Schedule 1 (items 365, 496): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
+    <div>S. 4 and Sch. 1 (item 496)</div>
   </td>
 </tr>
 <tr>
@@ -798,7 +868,7 @@ Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
   <td>
     <div>101, 2006</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>14 Sept 2006</div>
   </td>
   <td>
@@ -806,7 +876,7 @@ Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
   </td>
   <td>
     <div>Sch. 6 (items 1, 
-6–11)</div>
+ 6–11)</div>
   </td>
 </tr>
 <tr>
@@ -816,11 +886,11 @@ Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
   <td>
     <div>148, 2010</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>17 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 11 (item 18): 18 Dec 2010</div>
+    <div>Schedule 11 (item 18): 18 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -833,32 +903,23 @@ Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
   <td>
     <div>5, 2011</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 198–201), Schedule 6 (items 100, 101) and Schedule 7 (items 122, 123): 19 Apr 2011</div>
+    <div>Schedule 5 (items 198–201), Schedule 6 (items 100, 101) and Schedule 7 (items 122, 123): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 66–69): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
 
 _(a)_     The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ was amended by Schedule 1 (items 819 and 820) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
@@ -875,8 +936,8 @@ _(b)_ The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ was am
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -907,7 +968,7 @@ _(b)_ The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ was am
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 5, 2011; No. 136, 2012</div>
+    <div>am. No. 55, 2001; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -916,54 +977,6 @@ _(b)_ The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ was am
   </td>
   <td>
     <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 2</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -1028,22 +1041,6 @@ _(b)_ The _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ was am
   </td>
   <td>
     <div>rep. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
   </td>
 </tr></table>
 
