@@ -1,30 +1,23 @@
-![](http://www.comlaw.gov.au/Details/C2007C00183/Html/WorkplaceRelationsAmdtWorkChoices2005_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00731/Html/B4945CDDFBC36AC0CA2572490016C87A/$FILE/WorkplaceRelationsAmdtWorkChoices2005_image001.gif)
 
 # Workplace Relations Amendment (Work Choices) Act 2005
 
 **Act No. 153 of 2005 as amended**
 
-This compilation was prepared on 29 March 2007
+This compilation was prepared on 18 December 2006
 
-**\[This Act was amended by Act No. 163 of 2006; No. 8 of 2007]**
+**\[This Act was amended by Act No. 163 of 2006]**
 
 **Amendments from Act No. 163 of 2006**
 
 \[Schedule 6 (items 49 and 50) amended Schedule 4 (item 5A)
- Schedule 6 (items 49 and 50) commenced <span style="color:black">on</span> 12 December 2006]
+Schedule 6 (items 49 and 50) commenced <span style="COLOR: black">on</span> 12 December 2006]
 
 For application provision _see_ Act No. 163, 2006, Schedule 6 (item 62)
 
-**Amendments from Act No. 8 of 2007**
-
-\[Schedule 2 (item 17) amended item 187 of Schedule 1
- Schedule 2 (item 18) amended item 24 of Schedule 4
-
-Schedule 2 (item 17) commenced immediately before 27 March 2006
- Schedule 2 (item 18) commenced immediately after 27 March 2006]
-
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -73,6 +66,7 @@ Division 4—Miscellaneous                 �
 **Schedule 5—Renumbering the Workplace Relations Act 1996** 
 
 Workplace Relations Act 1996                                                                             756
+
 
 ## An Act to amend the law relating to workplace relations, and for related purposes
 
@@ -138,121 +132,123 @@ The Parliament of Australia enacts:
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
-      table</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>14 December 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2\. Schedule 1</div>
-  </td>
-  <td>
-    <div>A single day to be fixed by Proclamation.</div>
-    <div>However, if any of the provision(s) do not commence within the period
-      of 6 months beginning on the day on which this Act receives the Royal Assent,
-      they commence on the first day after the end of that period.</div>
-  </td>
-  <td>
-    <div>27 March 2006</div>
-    <div>(
-      <i>see</i>F2006L00836)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2A. Schedule 1A</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>14 December 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3\. Schedule 2</div>
-  </td>
-  <td>
-    <div>A single day to be fixed by Proclamation.</div>
-    <div>However, if any of the provision(s) do not commence within the period
-      of 6 months beginning on the day on which this Act receives the Royal Assent,
-      they commence on the first day after the end of that period.</div>
-  </td>
-  <td>
-    <div>27 March 2006</div>
-    <div>(
-      <i>see</i>F2006L00836)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4\. Schedule 3</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>14 December 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4A. Schedule 3A</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>14 December 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5\. Schedule 4, Part 1</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>14 December 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6\. Schedule 4, Part 2</div>
-  </td>
-  <td>
-    <div>At the same time as the provision(s) covered by table item 2.</div>
-  </td>
-  <td>
-    <div>27 March 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7\. Schedule 5</div>
-  </td>
-  <td>
-    <div>A single day to be fixed by Proclamation.</div>
-    <div>However, if any of the provision(s) do not commence within the period
-      of 6 months beginning on the day on which this Act receives the Royal Assent,
-      they commence on the first day after the end of that period.</div>
-  </td>
-  <td>
-    <div>27 March 2006</div>
-    <div>(
-      <i>see</i>F2006L00836)</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
+        table</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>14 December 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2\. Schedule 1</div>
+    </td>
+    <td>
+      <div>A single day to be fixed by Proclamation.</div>
+      <div>However, if any of the provision(s) do not commence within the period
+        of 6 months beginning on the day on which this Act receives the Royal Assent,
+        they commence on the first day after the end of that period.</div>
+    </td>
+    <td>
+      <div>27 March 2006</div>
+      <div>(
+        <i>see</i>F2006L00836)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2A. Schedule 1A</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>14 December 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3\. Schedule 2</div>
+    </td>
+    <td>
+      <div>A single day to be fixed by Proclamation.</div>
+      <div>However, if any of the provision(s) do not commence within the period
+        of 6 months beginning on the day on which this Act receives the Royal Assent,
+        they commence on the first day after the end of that period.</div>
+    </td>
+    <td>
+      <div>27 March 2006</div>
+      <div>(
+        <i>see</i>F2006L00836)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4\. Schedule 3</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>14 December 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4A. Schedule 3A</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>14 December 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5\. Schedule 4, Part 1</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>14 December 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6\. Schedule 4, Part 2</div>
+    </td>
+    <td>
+      <div>At the same time as the provision(s) covered by table item 2.</div>
+    </td>
+    <td>
+      <div>27 March 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7\. Schedule 5</div>
+    </td>
+    <td>
+      <div>A single day to be fixed by Proclamation.</div>
+      <div>However, if any of the provision(s) do not commence within the period
+        of 6 months beginning on the day on which this Act receives the Royal Assent,
+        they commence on the first day after the end of that period.</div>
+    </td>
+    <td>
+      <div>27 March 2006</div>
+      <div>(
+        <i>see</i>F2006L00836)</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
@@ -978,159 +974,161 @@ the Minister must be satisfied that the provision should not apply to the person
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Part VA</div>
-  </td>
-  <td>
-    <div>The Australian Fair Pay and Conditions Standard</div>
-  </td>
-  <td>
-    <div>Section 89D</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Part VB</div>
-  </td>
-  <td>
-    <div>Workplace agreements</div>
-  </td>
-  <td>
-    <div>Section 95E</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Part VI</div>
-  </td>
-  <td>
-    <div>Awards</div>
-  </td>
-  <td>
-    <div>Section 115C</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Division 1 of Part VIA</div>
-  </td>
-  <td>
-    <div>Meal breaks</div>
-  </td>
-  <td>
-    <div>Section 170AD</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4A</div>
-  </td>
-  <td>
-    <div>Division 1A of Part VIA</div>
-  </td>
-  <td>
-    <div>Public holidays</div>
-  </td>
-  <td>
-    <div>Section 170AM</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Division 2 of Part VIA</div>
-  </td>
-  <td>
-    <div>Equal remuneration for work of equal value</div>
-  </td>
-  <td>
-    <div>Section 170BGD</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>Division 3 of Part VIA</div>
-  </td>
-  <td>
-    <div>Termination of employment</div>
-  </td>
-  <td>
-    <div>Section 170CCB</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>Part IX</div>
-  </td>
-  <td>
-    <div>Right of entry</div>
-  </td>
-  <td>
-    <div>Section 200</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>Part XA</div>
-  </td>
-  <td>
-    <div>Freedom of association</div>
-  </td>
-  <td>
-    <div>Section 249</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Part VA</div>
+    </td>
+    <td>
+      <div>The Australian Fair Pay and Conditions Standard</div>
+    </td>
+    <td>
+      <div>Section 89D</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Part VB</div>
+    </td>
+    <td>
+      <div>Workplace agreements</div>
+    </td>
+    <td>
+      <div>Section 95E</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>Part VI</div>
+    </td>
+    <td>
+      <div>Awards</div>
+    </td>
+    <td>
+      <div>Section 115C</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>Division 1 of Part VIA</div>
+    </td>
+    <td>
+      <div>Meal breaks</div>
+    </td>
+    <td>
+      <div>Section 170AD</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4A</div>
+    </td>
+    <td>
+      <div>Division 1A of Part VIA</div>
+    </td>
+    <td>
+      <div>Public holidays</div>
+    </td>
+    <td>
+      <div>Section 170AM</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>Division 2 of Part VIA</div>
+    </td>
+    <td>
+      <div>Equal remuneration for work of equal value</div>
+    </td>
+    <td>
+      <div>Section 170BGD</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>Division 3 of Part VIA</div>
+    </td>
+    <td>
+      <div>Termination of employment</div>
+    </td>
+    <td>
+      <div>Section 170CCB</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>Part IX</div>
+    </td>
+    <td>
+      <div>Right of entry</div>
+    </td>
+    <td>
+      <div>Section 200</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>Part XA</div>
+    </td>
+    <td>
+      <div>Freedom of association</div>
+    </td>
+    <td>
+      <div>Section 249</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note 1:       In this context, **_Australia_** includes the Territory of Christmas Island, the Territory of Cocos (Keeling) Islands and the coastal sea. See section 15B and paragraph 17(a) of the _Acts Interpretation Act 1901_.
 
@@ -2482,7 +2480,7 @@ Note:          The actual hours worked from week to week by an
 
              (3)  If an employee is employed to work a specified number (the **_number of non-week specified hours_**) of hours per period (the **_non-week period_**), but that period is not a week (for example, it is a fortnight), then, for the purpose of subsection (1), the employee is taken to be employed to work the number of hours per week determined, subject to the regulations (if any), in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00183/Html/WorkplaceRelationsAmdtWorkChoices2005_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00731/Html/B4945CDDFBC36AC0CA2572490016C87A/$FILE/WorkplaceRelationsAmdtWorkChoices2005_image002.gif)
 
              (4)  If:
 
@@ -2592,66 +2590,68 @@ Note:          The employee’s actual basic periodic rate of 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>if:</div>
-    <div>(a) subsection 90F(1) applies to the employment of the employee; and</div>
-    <div>(b) the employee’s employment is not covered by a workplace agreement;
-      and</div>
-    <div>(c) subsection 103R(1) is not operating in relation to the employee’s
-      employment;</div>
-  </td>
-  <td>
-    <div>the percentage that is the casual loading payable to the employee under
-      casual loading provisions of the APCS referred to in subsection 90F(1).</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>if:</div>
-    <div>(a) subsection 90F(1) applies to the employment of the employee; and</div>
-    <div>(b) the employee’s employment is not covered by a workplace agreement;
-      and</div>
-    <div>(c) subsection 103R(1) is operating in relation to the employee’s employment;</div>
-  </td>
-  <td>
-    <div>the higher of:</div>
-    <div>(a) the percentage that is the casual loading payable to the employee
-      under casual loading provisions of the APCS referred to in subsection 90F(1);
-      and</div>
-    <div>(b) the default casual loading percentage.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>if:</div>
-    <div>(a) subsection 90F(1) applies to the employment of the employee; and</div>
-    <div>(b) the employee’s employment is covered by a workplace agreement;</div>
-  </td>
-  <td>
-    <div>the default casual loading percentage.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>if subsection 90F(3) or (4) applies to the employment of the employee</div>
-  </td>
-  <td>
-    <div>the default casual loading percentage.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>if:</div>
+      <div>(a) subsection 90F(1) applies to the employment of the employee; and</div>
+      <div>(b) the employee’s employment is not covered by a workplace agreement;
+        and</div>
+      <div>(c) subsection 103R(1) is not operating in relation to the employee’s
+        employment;</div>
+    </td>
+    <td>
+      <div>the percentage that is the casual loading payable to the employee under
+        casual loading provisions of the APCS referred to in subsection 90F(1).</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>if:</div>
+      <div>(a) subsection 90F(1) applies to the employment of the employee; and</div>
+      <div>(b) the employee’s employment is not covered by a workplace agreement;
+        and</div>
+      <div>(c) subsection 103R(1) is operating in relation to the employee’s employment;</div>
+    </td>
+    <td>
+      <div>the higher of:</div>
+      <div>(a) the percentage that is the casual loading payable to the employee
+        under casual loading provisions of the APCS referred to in subsection 90F(1);
+        and</div>
+      <div>(b) the default casual loading percentage.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>if:</div>
+      <div>(a) subsection 90F(1) applies to the employment of the employee; and</div>
+      <div>(b) the employee’s employment is covered by a workplace agreement;</div>
+    </td>
+    <td>
+      <div>the default casual loading percentage.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>if subsection 90F(3) or (4) applies to the employment of the employee</div>
+    </td>
+    <td>
+      <div>the default casual loading percentage.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="90I"></a>90I  Default casual loading percentage
 
@@ -3443,7 +3443,7 @@ Definition
 
 ##### <a id="92A"></a>92A  Definitions
 
-                   In this Division:
+                   In this Division:
 
                     <a name="annual-leav"></a>**_annual leave_** has the meaning given by subsection 92D(1).
 
@@ -3511,7 +3511,7 @@ Note:          The actual hours worked from week to week by an
 
              (3)  If an employee is employed to work a specified number (the **_number of non-week specified hours_**) of hours over a period (the **_non-week period_**) that is not a week (for example, a fortnight), then, for the purpose of subsection (1), the employee is taken to be employed to work the number of hours per week determined, subject to the regulations (if any), in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00183/Html/WorkplaceRelationsAmdtWorkChoices2005_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00731/Html/B4945CDDFBC36AC0CA2572490016C87A/$FILE/WorkplaceRelationsAmdtWorkChoices2005_image003.gif)
 
 Employees not employed to work a specified number of hours
 
@@ -3771,7 +3771,7 @@ Note:          The actual hours worked from week to week by an
 
              (3)  If an employee is employed to work a specified number (the **_number of non-week specified hours_**) of hours over a period (the **_non-week period_**) that is not a week (for example, a fortnight), then, for the purpose of subsection (1), the employee is taken to be employed to work the number of hours per week determined, subject to the regulations (if any), in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00183/Html/WorkplaceRelationsAmdtWorkChoices2005_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00731/Html/B4945CDDFBC36AC0CA2572490016C87A/$FILE/WorkplaceRelationsAmdtWorkChoices2005_image003.gif)
 
 Employees not employed to work a specified number of hours
 
@@ -4148,7 +4148,7 @@ Note:          The use of personal information given to an emp
                     <a name="long-adopt-leav"></a>**_long adoption leave_** has the meaning given by paragraph 94ZL(1)(b).
 
                     <a name="long-patern-leav"></a>**_long paternity leave_** has the meaning given by paragraph
- 94T(1)(b).
+94T(1)(b).
 
                     <a name="matern-leav"></a>**_maternity leave_** has the meaning given by subsection 94C(1).
 
@@ -7362,7 +7362,7 @@ Disclosure by person prohibited
 
                               (i)  as a Registry official; or
 
-                             (ii)  as, or on behalf of, an authorised ballot agent; and
+                &nbs p;            (ii)  as, or on behalf of, an authorised ballot agent; and
 
                      (e)  the disclosure is not required or authorised by this Act or by another Act, by regulations made for the purposes of another provision of this Act, or by regulations made for the purposes of another Act; and
 
@@ -9798,7 +9798,7 @@ Note 3:       Certain allowable award matters are protected in workp
 
                      (b)  between persons bound by the award.
 
-##### <a id="116B"></a>116B  Matters that are not allowable award matters
+##### <a id="116B"></a>116B  Matters that are not allowable award matters
 
              (1)  For the purposes of subsection 116(1), matters that are not allowable award matters within the meaning of that subsection include, but are not limited to, the following:
 
@@ -10216,7 +10216,7 @@ Note 2:    Paragraph (b) does not have the effect of reducing entitlemen
 
                    As soon as practicable after receiving an award rationalisation request, the President must establish one or more Full Benches to undertake the award rationalisation process requested.
 
-##### <a id="118C"></a>118C  Award rationalisation request to be published
+##### <a id="118C"></a>118C  Award rationalisation request to be published
 
              (1)  As soon as practicable after receiving an award rationalisation request, the President must give a copy of the request to a Registrar.
 
@@ -11578,54 +11578,56 @@ Note:          Division 4 of Part VIII contains other prov
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>AWA</div>
-  </td>
-  <td>
-    <div>(a) the transferring employee; or</div>
-    <div>(b) an organisation of employees that is entitled, under its eligibility
-      rules, to represent the industrial interests of the transferring employee
-      and has been requested by the transferring employee to apply for the order
-      on the transferring employee’s behalf; or</div>
-    <div>(c) a workplace inspector</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>collective agreement</div>
-  </td>
-  <td>
-    <div>(a) the transferring employee; or</div>
-    <div>(b) an organisation of employees that is bound by the agreement; or</div>
-    <div>(c) an organisation of employees that is entitled, under its eligibility
-      rules, to represent the industrial interests of a transferring employee
-      and has been requested by the transferring employee to apply for the order
-      on the transferring employee’s behalf; or</div>
-    <div>(d) a workplace inspector</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>award</div>
-  </td>
-  <td>
-    <div>(a) a transferring employee; or</div>
-    <div>(b) an organisation of employees that is entitled, under its eligibility
-      rules, to represent the industrial interests of a transferring employee;
-      or</div>
-    <div>(c) a workplace inspector</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>AWA</div>
+    </td>
+    <td>
+      <div>(a) the transferring employee; or</div>
+      <div>(b) an organisation of employees that is entitled, under its eligibility
+        rules, to represent the industrial interests of the transferring employee
+        and has been requested by the transferring employee to apply for the order
+        on the transferring employee’s behalf; or</div>
+      <div>(c) a workplace inspector</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>collective agreement</div>
+    </td>
+    <td>
+      <div>(a) the transferring employee; or</div>
+      <div>(b) an organisation of employees that is bound by the agreement; or</div>
+      <div>(c) an organisation of employees that is entitled, under its eligibility
+        rules, to represent the industrial interests of a transferring employee
+        and has been requested by the transferring employee to apply for the order
+        on the transferring employee’s behalf; or</div>
+      <div>(d) a workplace inspector</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>award</div>
+    </td>
+    <td>
+      <div>(a) a transferring employee; or</div>
+      <div>(b) an organisation of employees that is entitled, under its eligibility
+        rules, to represent the industrial interests of a transferring employee;
+        or</div>
+      <div>(c) a workplace inspector</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ### Division 9—Miscellaneous
 
@@ -12257,1262 +12259,4 @@ Insert:
 
           (6B)  For the purposes of subsection (6A), a **_season_** is a period that:
 
-                     (a)  is determined at the commencement of the employee’s engagement (the **_commencement time_**); and
-
-                     (b)  begins at the commencement time; and
-
-                     (c)  ends at a time in the future that:
-
-                              (i)  is uncertain at the commencement time; and
-
-                             (ii)  is related to the nature of the work to be performed by the employee; and
-
-                            (iii)  is objectively ascertainable when it occurs.
-
-Note:          Examples of seasons are:
-
-(a)           the part of a year characterised by particular conditions of weather or temperature;
-
-(b)           the part of a year when a product is best or available;
-
-(c)           the part of a year marked by certain conditions, festivities or other activities.
-
-          (6C)  The regulations may provide that a particular period is, or is not, a **_season_** for the purposes of subsection (6A).
-
-## 97  Subsection 170CBA(7)
-
-Omit “Subdivisions D and E”, substitute “Subdivision E”.
-
-_Note:       The heading to subsection 170CBA(7) is altered by omitting “Subdivisions D and E” and substituting “Subdivision E”._
-
-## 98  Subsection 170CBA(7) (note 1)
-
-Omit “a State law”, substitute “a provision of a State law that is not excluded under section 7C”.
-
-## 99  After section 170CCA
-
-Insert:
-
-##### <a id="170CCB"></a>170CCB  Extraterritorial extension
-
-             (1)  This Division, and the rest of this Act so far as it relates to this Division, extend to the termination, or proposed termination, of the employment of an Australian-based employee even though one or both of the following apply:
-
-                     (a)  the employee was employed outside Australia at the time of the termination, the proposed time of termination or the time of the making of the proposal to terminate;
-
-                     (b)  the act causing termination, or the proposal to terminate, occurred outside Australia.
-
-Note:          In this context, **_Australia_** includes the Territory of Christmas Island, the Territory of Cocos (Keeling) Islands and the coastal sea. See section 15B and paragraph 17(a) of the _Acts Interpretation Act 1901_.
-
-             (2)  However, subsection (1) does not apply in relation to the employee if either:
-
-                     (a)  all the following conditions are met at the time of the termination, the proposed time of termination or the time of the making of the proposal to terminate:
-
-                              (i)  the employee’s employer is not an Australian employer;
-
-                             (ii)  the employee’s primary place of work is in Australia’s exclusive economic zone or Australia’s continental shelf;
-
-                            (iii)  the employee is not prescribed by the regulations as an employee in relation to whom subsection (1) applies despite this subsection; or
-
-                     (b)  the employee is prescribed by the regulations as an employee in relation to whom subsection (1) does not apply.
-
-             (3)  In this section:
-
-                    <a name="australian-base-employe"></a><a name="employe"></a><a name="australian-base-employe"></a>**_Australian-based employee_** means a person who would be an Australian-based employee (as defined in subsection 4(1)) if the definition of **_employee_** in section 170CAA applied to the definition of **_Australian-based employee_** in that subsection.
-
-                    <a name="australian-employ"></a><a name="employ"></a><a name="australian-employ"></a>**_Australian employer_** means a person who would be an Australian employer (as defined in subsection 4(1)) if the definition of **_employer_** in section 170CAA applied to the definition of **_Australian employer_** in that subsection.
-
-                    <a name="act"></a>**_this Act_** includes the Registration and Accountability of Organisations Schedule and regulations made under it.
-
-## 100  Subsection 170CD(1) (definition of _Commonwealth public sector employee_)
-
-Repeal the definition.
-
-## 101  Subsection 170CD(1)
-
-Insert:
-
-                    _**Court**_means the Federal Court of Australia or the Federal Magistrates Court.
-
-## 102  Subsection 170CD(1) (paragraph (a) of the definition of _daily hire employee_)
-
-Repeal the paragraph, substitute:
-
-                     (a)  whose employment:
-
-                              (i)  is regulated by an award or a workplace agreement; and
-
-                             (ii)  under the award or workplace agreement is, or is normally, apart from the application to the employee of this Division:
-
-                                        (A)  terminated at the end of each day or shift; or
-
-                                        (B)  able to be terminated by the employer giving to the employee not more than 1 day’s notice; and
-
-## 103  Subsection 170CD(1) (definition of _Federal award employee_)
-
-Repeal the definition.
-
-## 104  Subsection 170CD(1) (definition of _State or Territory training authority_)
-
-Repeal the definition.
-
-## 105  After subsection 170CD(1)
-
-Insert:
-
-          (1A)  For the purposes of paragraph (b) of the definition of **_daily hire employee_** in subsection (1), **_award_**, **_old IR agreement_**, **_State award_** and **_State employment agreement_** have the meanings given by subsection 4(1) of this Act as in force immediately before the reform commencement.
-
-## 105A  After subsection 170CD(1B)
-
-Insert:
-
-          (1C)  For the purposes of this Division, the resignation of an employee is taken to constitute the termination of the employment of that employee at the initiative of the employer if the employee can prove, on the balance of probabilities, that the employee did not resign voluntarily but was forced to do so because of conduct, or a course of conduct, engaged in by the employer.
-
-## 106  Subsection 170CD(2)
-
-Omit “Subdivision C, D”, substitute “Subdivision C”.
-
-## 107  Subsection 170CD(3)
-
-Omit all the words after “under”, substitute:
-
-award-derived conditions if the employer is bound:
-
-                     (a)  in relation to the employee’s wages and conditions of employment—by an award or a workplace agreement; or
-
-                     (b)  in relation to:
-
-                              (i)  the employee’s wages—by an APCS; and
-
-                             (ii)  in relation to the employee’s conditions of employment—by an award or a workplace agreement.
-
-## 108  Subsection 170CE(1)
-
-Omit “subsections (5) and (5A)”, substitute “subsections (5), (5A), (5C) and (5E)”.
-
-## 109  Paragraph 170CE(1)(b)
-
-Omit “170CL, 170CM or 170CN”, substitute “170CL or 170CM”.
-
-## 110  Subsection 170CE(3)
-
-Omit “170CK, 170CM and 170CN”, substitute “170CK and 170CM”.
-
-## 111  Paragraph 170CE(5B)(a)
-
-Omit “3”, substitute “6”.
-
-## 112  After subsection 170CE(5B)
-
-Insert:
-
-          (5C)  An application under subsection (1) must not be made on the ground referred to in paragraph (1)(a), or on grounds that include that ground, if the employee’s employment was terminated for genuine operational reasons or for reasons that include genuine operational reasons.
-
-          (5D)  For the purposes of subsection (5C), **_operational reasons_** are reasons of an economic, technological, structural or similar nature relating to the employer’s undertaking, establishment, service or business, or to a part of the employer’s undertaking, establishment, service or business.
-
-## 113  Before subsection 170CE(6)
-
-Insert:
-
-           (5E)  An application under subsection (1) must not be made on the ground referred to in paragraph (1)(a), or on grounds that include that ground, if, at the relevant time, the employer employed 100 employees or fewer, including:
-
-                     (a)  the employee whose employment was terminated; and
-
-                     (b)  any casual employee who had been engaged by the employer on a regular and systematic basis for at least 12 months;
-
-but not including any other casual employee.
-
-        (5EA)  For the purposes of calculating the number of employees employed by an employer as mentioned in subsection (5E), related bodies corporate (within the meaning of section 50 of the _Corporations Act 2001_) are taken to be one entity.
-
-           (5F)  For the purposes of subsection (5E):
-
-                     (a)  the **_relevant time_** is the time when the employer gave the employee the notice of termination, or the time when the employer terminated the employee’s employment, whichever happened first; and
-
-                     (b)  for the purposes of calculating the number of employees employed by the employer, **_employee_** has the same meaning as in paragraph (b) of the definition of that term in section 170CAA.
-
-## 114  At the end of section 170CEA
-
-Add:
-
-             (4)  If a respondent has moved for the dismissal of an application made, or purported to have been made, under subsection 170CE(1):
-
-                     (a)  on the ground referred to in paragraph 170CE(1)(a); or
-
-                     (b)  on grounds that include that ground;
-
-subsection (5) applies to the application.
-
-             (5)  If the Commission is satisfied that an application to which this subsection applies cannot be made under subsection 170CE(1) on the ground referred to in paragraph 170CE(1)(a):
-
-                     (a)  because the employee is excluded from the operation of Subdivision B by section 170CBA; or
-
-                     (b)  because of the operation of subsection 170CE(5A) (which relates to qualifying periods); or
-
-                     (c)  because of the operation of subsection 170CE(5E) (which relates to employers of 100 employees or fewer);
-
-the Commission must:
-
-                     (d)  if paragraph (4)(a) applies—make an order dismissing the application; or
-
-                     (e)  if paragraph (4)(b) applies—make an order dismissing the application to the extent that it is made on the ground referred to in paragraph 170CE(1)(a).
-
-          (5A)  If:
-
-                     (a)  a respondent has moved for the dismissal of an application to which subsection (5) applies; and
-
-                     (b)  the Commission is not satisfied as mentioned in paragraph (5)(a), (b) or (c) in relation to the application;
-
-the Commission must make an order refusing the motion for dismissal.
-
-             (6)  The Commission is not required to hold a hearing in relation to the making of an order under subsection (5) or (5A).
-
-## 115  After section 170CEA
-
-Insert:
-
-##### <a id="170CEB"></a>170CEB  Applications that are frivolous, vexatious or lacking in substance
-
-             (1)  If:
-
-                     (a)  an application is made, or purported to have been made, under subsection 170CE(1):
-
-                              (i)  on the ground referred to in paragraph 170CE(1)(a); or
-
-                             (ii)  on grounds that include that ground; and
-
-                     (b)  the respondent moves for dismissal of the application on the ground that it is frivolous, vexatious or lacking in substance; and
-
-                     (c)  the Commission is satisfied that the application is frivolous, vexatious or lacking in substance, in relation to the ground referred to in paragraph 170CE(1)(a);
-
-the Commission must:
-
-                     (d)  if subparagraph (a)(i) applies—make an order dismissing the application; or
-
-                     (e)  if subparagraph (a)(ii) applies—make an order dismissing the application to the extent that it is made on the ground referred to in paragraph 170CE(1)(a).
-
-          (1A)  If:
-
-                     (a)  an application is made, or purported to have been made, under subsection 170CE(1):
-
-                              (i)  on the ground referred to in paragraph 170CE(1)(a); or
-
-                             (ii)  on grounds that include that ground; and
-
-                     (b)  the respondent moves for dismissal of the application on the ground that it is frivolous, vexatious or lacking in substance; and
-
-                     (c)  the Commission is not satisfied that the application is frivolous, vexatious or lacking in substance, in relation to the ground referred to in paragraph 170CE(1)(a);
-
-the Commission must:
-
-                     (d)  if subparagraph (a)(i) applies—make an order refusing the motion for dismissal; or
-
-                     (e)  if subparagraph (a)(ii) applies—make an order refusing the motion for dismissal, to the extent that the application is made on the ground referred to in paragraph 170CE(1)(a).
-
-             (2)  The Commission is not required to hold a hearing in relation to the making of an order under subsection (1) or (1A).
-
-##### <a id="170CEC"></a>170CEC  Extension of time applications may be decided without a hearing
-
-                   If:
-
-                     (a)  an employee whose employment has been terminated by an employer makes an application (the **_extension of time application_**) under subsection 170CE(7) requesting the Commission to allow an application to be lodged under subsection 170CE(1) after the period of 21 days after the termination took effect; and
-
-                     (b)  the proposed application under subsection 170CE(1) is an application:
-
-                              (i)  on the ground referred to in paragraph 170CE(1)(a); or
-
-                             (ii)  on grounds that include that ground;
-
-the Commission is not required to hold a hearing in relation to the extension of time application.
-
-##### <a id="170CED"></a>170CED  Matters that do not require a hearing
-
-             (1)  The Commission must, in deciding whether or not to hold a hearing for the purposes of deciding:
-
-                     (a)  whether to make an order under subsection 170CEA(5) or (5A) or 170CEB(1) or (1A); or
-
-                     (b)  whether to grant an extension of time application within the meaning of section 170CEC;
-
-take into account the cost that would be caused to the business of the employer concerned by requiring the employer to attend a hearing.
-
-             (2)  If the Commission decides not to hold a hearing, the Commission must, before making a decision:
-
-                     (a)  invite the employee and the employer concerned to provide further information that relates to whether the order should be made or the extension of time granted; and
-
-                     (b)  take account of any such information.
-
-             (3)  If, as a result of information provided as mentioned in subsection (2), the Commission considers that it would be desirable to hold a hearing, the Commission may do so.
-
-             (4)  An invitation under paragraph (2)(a) must:
-
-                     (a)  be given by notice in writing to the employee and the employer concerned; and
-
-                     (b)  specify the time by which the information referred to in the invitation is to be provided.
-
-##### <a id="170CEE"></a>170CEE  Dismissal of application relating to termination for operational reasons
-
-             (1)  If:
-
-                     (a)  an application is made, or is purported to have been made, under subsection 170CE(1):
-
-                              (i)  on the ground referred to in paragraph 170CE(1)(a); or
-
-                             (ii)  on grounds that include that ground; and
-
-                     (b)  either:
-
-                              (i)  the respondent has moved for the dismissal of the application on the ground that the application is outside the jurisdiction of the Commission because the employee’s employment was terminated for genuine operational reasons or for reasons that include genuine operational reasons; or
-
-                             (ii)  it appears to the Commission, on the face of all the materials before it, that the employee’s employment may have been terminated for genuine operational reasons or for reasons that include genuine operational reasons;
-
-the Commission must hold a hearing to deal with the operational reasons issue before taking any further action in relation to the application, other than dealing with a matter on the papers as provided by section 170CEA, 170CEB, 170CEC or 170CED.
-
-             (2)  If, as a result of the hearing, the Commission is satisfied that the operational reasons relied on by the respondent were genuine, the Commission must:
-
-                     (a)  if subparagraph (1)(a)(i) applies—make an order dismissing the application; or
-
-                     (b)  if subparagraph (1)(a)(ii) applies—make an order dismissing the application to the extent that it is made on the ground referred to in paragraph 170CE(1)(a).
-
-             (3)  Subject to any right of appeal to a Full Bench of the Commission, a finding by the Commission that it is not satisfied that the operational reasons relied on by the respondent were genuine is final and binding between the parties in any proceedings before the Commission.
-
-          (3A)  To avoid doubt, this section does not require the Commission to hold a hearing in relation to an application that has been dismissed under subsection 170CEA(5) or 170CEB(1).
-
-             (4)  In this section:
-
-                    <a name="oper-reason"></a>**_operational reasons_** has the meaning given by subsection 170CE(5D).
-
-## 116  Paragraph 170CFA(3)(b)
-
-Omit “170CK, 170CL and 170CN”, substitute “170CK and 170CL”.
-
-## 117  Subsection 170CFA(4)
-
-Omit “170CL, 170CM and 170CN”, substitute “170CL and 170CM”.
-
-## 118  Paragraph 170CFA(5)(c)
-
-Omit “170CK, 170CL and 170CN”, substitute “170CK and 170CL”.
-
-## 118A  Paragraph 170CFA(6)(b)
-
-Repeal the paragraph, substitute:
-
-                     (b)  be lodged with the Commission:
-
-                              (i)  if the certificate given by the Commission under subsection 170CF(2) identifies the ground of an alleged contravention of section 170CK as a ground on which conciliation is, or is likely to be, unsuccessful (whether or not one or more other grounds are so identified)—not later than 28 days after the day of issue of the certificate; or
-
-                             (ii)  in any other case—not later than 7 days after the day of issue of the certificate.
-
-## 119  Subsection 170CFA(7)
-
-Omit all the words after “period” (second occurring).
-
-## 120  Subsection 170CFA(8)
-
-Repeal the subsection, substitute:
-
-             (8)  The Commission must not, under any provision of this Act, extend the period within which an election is required by subsection (6) to be lodged, other than as mentioned in subsection (8A).
-
-          (8A)  The Commission may accept an election referred to in subparagraph (6)(b)(i) that is lodged out of time if the Commission considers that it would be unfair not to do so, and, if the Commission accepts such an election, the original application is taken not to have been discontinued in spite of subsection (7).
-
-             (9)  An appeal to a Full Bench under section 45 may not be made in relation to the discontinuance of an application under subsection (7).
-
-## 121  Paragraph 170CG(3)(a)
-
-Omit “the capacity or conduct of the employee”, substitute “the employee’s capacity or conduct (including its effect on the safety and welfare of other employees)”.
-
-## 122  Paragraph 170CG(3)(a)
-
-Omit “or to the operational requirements of the employer’s undertaking, establishment or service”.
-
-## 123  After section 170CG
-
-Insert:
-
-##### <a id="170CGA"></a>170CGA  Exercise of arbitration powers by member who has exercised conciliation powers
-
-             (1)  If a member of the Commission has exercised conciliation powers in relation to an application under this Division, the member must not exercise, or take part in the exercise of, arbitration powers in relation to the application if a party to the arbitration proceeding objects.
-
-             (2)  The member is not taken to have exercised conciliation powers in relation to the application merely because:
-
-                     (a)  the member arranged for a conference of the parties or their representatives to be presided over by the member, but the conference did not take place or was not presided over by the member; or
-
-                     (b)  the member arranged for the parties or their representatives to confer among themselves at a conference at which the member was not present.
-
-## 124  Paragraph 170CH(4)(b)
-
-Omit “subject to subsection (5)”, substitute “subject to subsections (4A) and (5)”.
-
-## 125  After subsection 170CH(4)
-
-Insert:
-
-          (4A)  In determining an amount for the purposes of an order under paragraph (4)(b), the Commission must have regard to:
-
-                     (a)  the amount of any income earned by the employee from employment or other work during the period between the termination and the making of the order for reinstatement; and
-
-                     (b)  the amount of any income reasonably likely to be so earned by the employee during the period between the making of the order for reinstatement and the actual reinstatement.
-
-## 126  Subsection 170CH(7)
-
-Omit “Subject to subsection (8)”, substitute “Subject to subsections (7A), (7B), (8) and (9)”.
-
-## 127  After paragraph 170CH(7)(d)
-
-Insert:
-
-                    (da)  any misconduct of the employee that contributed to the employer’s decision to terminate the employee’s employment; and
-
-## 128  After subsection 170CH(7)
-
-Insert:
-
-          (7A)  An amount ordered by the Commission under subsection (4) or (6) to be paid to an employee may not include a component by way of compensation for shock, distress or humiliation, or other analogous hurt, caused to the employee by the manner of terminating the employee’s employment.
-
-## 129  Before subsection 170CH(8)
-
-Insert:
-
-          (7B)  If the Commission is satisfied that misconduct of the employee contributed to the employer’s decision to terminate the employee’s employment, the Commission must reduce the amount it would otherwise fix under subsection (6) by an appropriate amount on account of the misconduct.
-
-## 130  Subsections 170CH(8) and (9)
-
-Omit “award conditions”, substitute “award-derived conditions (see subsection 170CD(3))”.
-
-## 131  After subsection 170CJ(3)
-
-Insert:
-
-          (3A)  If the Commission is satisfied:
-
-                     (a)  that a person (the **_representative_**) representing a party to a proceeding relating to an application made under section 170CE caused costs to be incurred by the other party to the proceeding; and
-
-                     (b)  that the representative caused the costs to be incurred because of the representative’s unreasonable act or omission in connection with the conduct of the proceeding;
-
-the Commission may, on an application by the other party, make an order for costs against the representative.
-
-## 131A  After subsection 170CK(4)
-
-Insert:
-
-          (4A)  To avoid doubt, if:
-
-                     (a)  an employer terminates an employee’s employment; and
-
-                     (b)  the reason, or a reason, for the termination is that the position held by the employee no longer exists, or will no longer exist; and
-
-                     (c)  the reason, or a reason, that the position held by the employee no longer exists, or will no longer exist, is the employee’s absence, or proposed or probable absence, during maternity leave or other parental leave;
-
-the employee’s employment is taken, for the purposes of paragraph (2)(h), to have been terminated for the reason, or for reasons including the reason, of absence from work during maternity leave or other parental leave.
-
-## 132  Section 170CN
-
-Repeal the section.
-
-## 133  Section 170CO
-
-Omit “170CL, 170CM or 170CN”, substitute “170CL or 170CM”.
-
-## 134  Subsection 170CP(1)
-
-Omit “170CK, 170CL and 170CN”, substitute “170CK and 170CL”.
-
-_Note:       The heading to section 170CP is altered by omitting “170CL, 170CM or 170CN” and substituting “170CL or 170CM”._
-
-## 135  Subsection 170CP(2)
-
-Omit “a court of competent jurisdiction”, substitute “an eligible court”.
-
-## 136  Subsection 170CP(3)
-
-Omit “170CK, 170CM and 170CN”, substitute “170CK and 170CM”.
-
-## 137  Subsection 170CP(5)
-
-Omit “170CL, 170CM or 170CN”, substitute “170CL or 170CM”.
-
-## 138  Subsection 170CR(1)
-
-Omit “or 170CN”.
-
-## 139  Paragraph 170CR(1)(c)
-
-Omit “subject to subsection (2)”, substitute “subject to subsections (1A), (2), (2A) and (2B)”.
-
-## 140  After subsection 170CR(1)
-
-Insert:
-
-          (1A)  An amount of compensation ordered by the Court under paragraph (1)(c) or (d) to be paid to an employee may not include a component by way of compensation for shock, distress or humiliation, or other analogous hurt, caused to the employee by the manner of terminating the employee’s employment.
-
-## 141  Subsection 170CR(2)
-
-Repeal the subsection, substitute:
-
-             (2)  In fixing an amount under paragraph (1)(c) for an employee who was employed under award-derived conditions immediately before the termination, the Court must not fix an amount that exceeds the total of the following amounts:
-
-                     (a)  the total amount of remuneration:
-
-                              (i)  received by the employee; or
-
-                             (ii)  to which the employee was entitled;
-
-                            (whichever is higher) for any period of employment with the employer during the period of 6 months immediately before the termination (other than any period of leave without full pay); and
-
-                     (b)  if the employee was on leave without pay or without full pay while so employed during any part of that period—the amount of remuneration taken to have been received by the employee for the period of leave in accordance with the regulations.
-
-          (2A)  In fixing an amount under paragraph (1)(c) for an employee who was not employed under award-derived conditions immediately before the termination, the Court must not fix an amount that exceeds:
-
-                     (a)  the total of the amounts determined under subsection (2) if the employee were an employee covered by the subsection; or
-
-                     (b)  the amount of $32,000, as indexed from time to time in accordance with a formula prescribed by the regulations;
-
-whichever is the lower amount.
-
-          (2B)  For the avoidance of doubt, an order by the Court under paragraph (1)(c) or (d) may permit the employer concerned to pay the amount required in instalments specified in the order.
-
-## 142  Subsection 170CR(6)
-
-Omit “170CL, 170CM or 170CN”, substitute “170CL or 170CM”.
-
-## 143  Section 170CR (note)
-
-Omit “170CL, 170CM or 170CN”, substitute “170CL or 170CM”.
-
-## 144  Subdivision D of Division 3 of Part VIA
-
-Repeal the Subdivision.
-
-## 145  Subsection 170GA(2)
-
-Omit “The”, substitute “Subject to subsection (2A), the”.
-
-## 146  After subsection 170GA(2)
-
-Insert:
-
-          (2A)  The power to make orders under subsection (2) does not include the power to make orders for any of the following:
-
-                     (a)  reinstatement of an employee;
-
-                     (b)  withdrawal of a notice of termination if the notice period has not expired;
-
-                     (c)  payment of an amount in lieu of reinstatement;
-
-                     (d)  payment of severance pay;
-
-                     (e)  disclosure of confidential information or commercially sensitive information relating to the employer, unless the recipient of such information gives an enforceable undertaking not to disclose the information to any other person;
-
-                      (f)  disclosure of personal information relating to a particular employee, unless the employee has given written consent to the disclosure of the information and the disclosure is in accordance with that consent.
-
-## 147  At the end of section 170GA
-
-Add:
-
-             (4)  For the purposes of subsection (2A), **_commercially sensitive information_**, **_confidential information_** and **_personal information_** have their ordinary meanings unless the regulations provide otherwise.
-
-## 148  After section 170GB
-
-Insert:
-
-##### <a id="170GBA"></a>170GBA  Powers and procedures of Commission for dealing with applications
-
-                   The Commission may, in relation to an application for an order under section 170GA, attempt to settle the matter to which the application relates by conciliation.
-
-## 149  Section 170GD
-
-Repeal the section.
-
-## 150  Subdivision F of Division 3 of Part VIA (heading)
-
-Repeal the heading, substitute:
-
-#### Subdivision F—Rights relating to termination of employment
-
-## 151  Section 170HA
-
-Repeal the section.
-
-## 152  Section 170HB
-
-Repeal the section, substitute:
-
-##### <a id="170HB"></a>170HB  Limitation on applications alleging termination on paragraph 170CE(1)(a) grounds
-
-             (1)  An application under subsection 170CE(1) alleging termination of employment on the ground referred to in paragraph 170CE(1)(a), or grounds that include that ground, must not be made if other termination proceedings have already been commenced in respect of the termination of employment, unless the other termination proceedings:
-
-                     (a)  have been discontinued by the employee who commenced the proceedings; or
-
-                     (b)  have failed for want of jurisdiction.
-
-Note:          Subsection (3) defines **_other termination proceedings_**.
-
-             (2)  An employee must not commence other termination proceedings in respect of a termination of employment if an application under subsection 170CE(1) alleging termination of employment on the ground referred to in paragraph 170CE(1)(a), or on grounds that include that ground, has already been made, unless the application:
-
-                     (a)  has been discontinued by the employee; or
-
-                     (b)  has failed for want of jurisdiction.
-
-             (3)  In this section:
-
-                    <a name="termin-proceing"></a>**_other termination proceedings_** means proceedings, in respect of a termination of the employment of an employee:
-
-                     (a)  for a remedy in respect of the termination:
-
-                              (i)  under a provision of this Act other than section 170CE; or
-
-                             (ii)  under another law of the Commonwealth; or
-
-                            (iii)  under a provision of a law of a State or Territory that is not excluded by section 7C; and
-
-                     (b)  that allege that the termination was unlawful for any reason (other than a failure by the employer to provide a benefit to which the employee was entitled on the termination).
-
-Note:          Section 7C provides for the exclusion of certain State and Territory laws.
-
-          (3A)  Without limiting subsection (3), **_other termination proceedings_** includes an inquiry in respect of a complaint (the **_HREOC complaint_**):
-
-                     (a)  made under the _Human Rights and Equal Opportunity Commission Act 1986_; and
-
-                     (b)  that relates to the termination of employment of an employee (whether or not as a result of an amendment of the complaint).
-
-          (3B)  For the purposes of this section, an employee commences other termination proceedings of a kind referred to in subsection (3A):
-
-                     (a)  unless paragraph (b) applies—when the employee makes the HREOC complaint; or
-
-                     (b)  if the HREOC complaint constitutes, or would constitute, other termination proceedings only as a result of an amendment of the complaint—when the complaint is amended.
-
-             (4)  For the avoidance of doubt, a proceeding seeking compensation, or the imposition of a penalty, because an employer has failed, in relation to a termination of employment, to meet an obligation:
-
-                     (a)  to give adequate notice of the termination; or
-
-                     (b)  to provide a severance payment as a result of the termination; or
-
-                     (c)  to provide any other entitlement payable as a result of the termination;
-
-is taken to be a proceeding alleging that the termination was unlawful because of a failure to provide a benefit to which the employee was entitled on the termination.
-
-## 153  Section 170HC
-
-Repeal the section, substitute:
-
-##### <a id="170HC"></a>170HC  Limitation on applications alleging unlawful termination
-
-             (1)  An application alleging unlawful termination of employment must not be made by an employee if other termination proceedings have already been commenced in respect of the termination of employment, unless the other termination proceedings:
-
-                     (a)  have been discontinued by the employee; or
-
-                     (b)  have failed for want of jurisdiction.
-
-Note:          Subsection (3) defines an **_application alleging unlawful termination_** and **_other termination proceedings_**.
-
-             (2)  An employee must not commence other termination proceedings in respect of a termination of employment if an application alleging unlawful termination of the employment has already been made, unless the application:
-
-                     (a)  has been discontinued by the employee; or
-
-                     (b)  has failed for want of jurisdiction.
-
-             (3)  In this section:
-
-                    <a name="applic-alleging-unlaw-termin"></a>**_application alleging unlawful termination_** means an application under section 170CE, in respect of a termination of employment, on the ground that the termination constitutes a contravention of section 170CK because it was done for a reason set out in subsection 170CK(2).
-
-                    <a name="termin-proceing"></a>**_other termination proceedings_** means proceedings, in respect of a termination of employment:
-
-                     (a)  for a remedy in respect of the termination:
-
-                              (i)  under a provision of this Act other than section 170CE; or
-
-                             (ii)  under another law of the Commonwealth; or
-
-                            (iii)  under a provision of a law of a State or Territory that is not excluded by section 7C; and
-
-                     (b)  that allege that the termination was:
-
-                              (i)  harsh, unjust or unreasonable (however described); or
-
-                             (ii)  unlawful;
-
-                            for any reason (other than a failure by the employer to provide a benefit to which the employee was entitled on the termination).
-
-Note:          Section 7C provides for the exclusion of certain State or Territory laws.
-
-             (4)  Without limiting subsection (3), **_other termination proceedings_** includes an inquiry in respect of a complaint (the **_HREOC complaint_**):
-
-                     (a)  made under the _Human Rights and Equal Opportunity Commission Act 1986_; and
-
-                     (b)  that relates to the termination of employment of an employee (whether or not as a result of an amendment of the complaint).
-
-             (5)  For the purposes of this section, an employee commences other termination proceedings of a kind referred to in subsection (4):
-
-                     (a)  unless paragraph (b) applies—when the employee makes the HREOC complaint; or
-
-                     (b)  if the HREOC complaint constitutes, or would constitute, other termination proceedings as a result of an amendment of the complaint—when the complaint is amended.
-
-## 154  Subsection 170JC(1)
-
-Repeal the subsection.
-
-## 155  Subsection 170JC(2)
-
-Omit “For the purpose of applying Part VIII in that way, an”, substitute “An”.
-
-## 156  Subsection 170JC(3)
-
-Omit “(as it applies in accordance with this section)”.
-
-## 157  Paragraph 170JC(3)(a)
-
-After “the Court” (wherever occurring), insert “or the Federal Magistrates Court”.
-
-## 158  Paragraph 170JC(3)(b)
-
-Omit “a court of competent jurisdiction”, substitute “an eligible court”.
-
-## 159  At the end of section 170JD
-
-Add:
-
-             (4)  This section does not apply to an order under subsection 170CEA(5) or section 170CEB or to a decision on an extension of time application within the meaning of section 170CEC.
-
-## 160  Section 170JE
-
-Repeal the section.
-
-## 161  Section 170JEA
-
-Omit “ or the Court”, substitute “, the Court or the Federal Magistrates Court”.
-
-## 162  Sections 170JEB and 170JEC
-
-Repeal the sections.
-
-## 163  At the end of section 170JF
-
-Add:
-
-             (3)  An appeal to a Full Bench under section 45 may not be made in relation to an order under subsection 170CEA(5) or section 170CEB or in relation to a decision on an extension of time application within the meaning of section 170CEC.
-
-## 164  Section 170JG
-
-Omit “, or certified agreement or AWA,”, substitute “or workplace agreement”.
-
-## 165  Section 170JH
-
-Repeal the section.
-
-## 166  At the end of Division 4 of Part VIA
-
-Add:
-
-##### <a id="170JI"></a>170JI  Meaning of _employee_ and _employer_
-
-                   To avoid doubt, the expression **_employee_** or **_employer_**, when used in a provision of this Division, is taken to have the same meaning as in the provision of this Act to which the provision of this Division relates.
-
-## 167  Division 5 of Part VIA
-
-Repeal the Division, substitute:
-
-### Division 5—Parental leave
-
-##### <a id="170KA"></a>170KA  Object and application of Division
-
-                   The object of this Division is to give effect, or further effect, to:
-
-                     (a)  the Family Responsibilities Convention; and
-
-                     (b)  the Workers with Family Responsibilities Recommendation, 1981, which the General Conference of the International Labour Organisation adopted on 23 June 1981 and is also known as Recommendation No. 165;
-
-by providing for a system of unpaid parental leave, and a system of unpaid adoption leave, that will help men and women workers who have responsibilities in relation to their dependent children:
-
-                     (c)  to prepare for, enter, participate in or advance in economic activity; and
-
-                     (d)  to reconcile their employment and family responsibilities.
-
-Note:          **_Employer_**, **_employee_** and **_employment_** have their ordinary meaning in this Division. See sections 4AA, 4AB and 4AC and Schedule 1.
-
-##### <a id="170KB"></a>170KB  Entitlement to parental leave
-
-                   The provisions of Division 6 of Part VA are taken to apply in relation to an employee:
-
-                     (a)  who is not an employee within the meaning of subsection 4AA(1); and
-
-                     (b)  if the employee is a casual employee—who would be an eligible casual employee within the meaning of Division 6 of Part VA, if he or she were an employee within the meaning of subsection 4AA(1);
-
-as if he or she were an employee to whom Division 6 of Part VA applied.
-
-Note 1:       Employees within the meaning of subsection 4AA(1) are entitled to the key minimum entitlements of employment provided by the Australian Fair Pay and Conditions Standard. These include an entitlement to parental leave (see Division 6 of Part VA).
-
-Note 2:       Compliance with this section is dealt with in Part VIII.
-
-##### <a id="170KC"></a>170KC  Division supplements other laws
-
-                   This Division is intended to supplement, not to override, entitlements under other Commonwealth, State and Territory legislation and awards.
-
-##### <a id="170KD"></a>170KD  Model dispute resolution process
-
-                   The model dispute resolution process applies to a dispute under this Division.
-
-Note:          The model dispute resolution process is set out in Part VIIA.
-
-## 168  Parts VIB, VID, VIE and VII
-
-Repeal the Parts, substitute:
-
-## Part VIIA—Dispute resolution processes
-
-### Division 1—Preliminary
-
-##### <a id="171"></a>171  Object
-
-                   The objects of this Part are:
-
-                     (a)  to encourage employers and employees who are parties to a dispute to resolve it at the workplace level; and
-
-                     (b)  to introduce greater flexibility for the resolution of disputes by allowing the parties to determine the best forum in which to resolve them.
-
-##### <a id="172"></a>172  Court process
-
-                   The fact that the model dispute resolution process, an alternative dispute resolution process or any other dispute resolution process applies in relation to a dispute does not affect any right of a party to the dispute to take court action to resolve it.
-
-### Division 2—Model dispute resolution process
-
-##### <a id="173"></a>173  Model dispute resolution process
-
-             (1)  This Division sets out the **_model dispute resolution process_**.
-
-             (2)  The model dispute resolution process does not apply in relation to a particular dispute, unless it applies in relation to that dispute because of a provision of this Act, other than one contained in this Division, or a term of an award, a workplace agreement or a workplace determination.
-
-Note:          The model dispute resolution process applies in relation to a variety of disputes, including:
-
-(a)           disputes about entitlements under the Australian Fair Pay and Conditions Standard (see section 89E); and
-
-(b)           disputes about the terms of a workplace agreement, where the agreement itself includes the model dispute resolution process or is taken to include that process (see section 101A); and
-
-(c)           disputes about the application of a workplace determination (see section 113D); and
-
-(d)           disputes about the application of awards (see section 116A); and
-
-(e)           disputes under Division 1 of Part VIA, which deals with meal breaks (see section 170AC); and
-
-(f)            disputes under Division 1A of Part VIA, which deals with public holidays (see section 170AH); and
-
-(g)           disputes under Division 5 of Part VIA, which deals with parental leave (see section 170KD).
-
-##### <a id="174"></a>174  Resolving dispute at workplace level
-
-                   The parties to a dispute must genuinely attempt to resolve the dispute at the workplace level.
-
-Note:          This may involve an affected employee first discussing the matter in dispute with his or her supervisor, then with more senior management.
-
-##### <a id="175"></a>175  Where dispute cannot be resolved at workplace level
-
-Alternative dispute resolution process using an agreed provider
-
-             (1)  If a matter in dispute cannot be resolved at the workplace level, a party to the dispute may elect to use an alternative dispute resolution process in an attempt to resolve the matter.
-
-             (2)  The alternative dispute resolution process is to be conducted by a person agreed between the parties in dispute on the matter.
-
-Where parties cannot agree on a provider
-
-             (3)  If the parties cannot reach agreement on who is to conduct the alternative dispute resolution process, a party to the dispute on the matter may notify  the Industrial Registrar of that fact.
-
-             (4)  On receiving notification under subsection (3), the Industrial Registrar must provide the parties with the prescribed information.
-
-             (5)  If the parties cannot agree on who is to conduct the alternative dispute resolution process within the consideration period, a party to the dispute on the matter may apply to the Commission to have the alternative dispute resolution process conducted by the Commission.
-
-             (6)  If an alternative dispute resolution process is used to resolve a dispute on a matter, the parties to the dispute must genuinely attempt to resolve the dispute using that process.
-
-             (7)  In this section:
-
-                    <a name="consider-period"></a>**_consideration period_** is a period beginning on the last day on which the Industrial Registrar gives the prescribed information to a party to the dispute on the matter and ending 14 days later.
-
-##### <a id="176"></a>176  Conduct during dispute
-
-             (1)  An employee who is a party to a dispute must, while the dispute is being resolved:
-
-                     (a)  continue to work in accordance with his or her contract of employment, unless the employee has a reasonable concern about an imminent risk to his or her health or safety; and
-
-                     (b)  comply with any reasonable direction given by his or her employer to perform other available work, either at the same workplace or at another workplace.
-
-             (2)  In directing an employee to perform other available work, an employer must have regard to:
-
-                     (a)  the provisions (if any) of the law of the Commonwealth or of a State or Territory dealing with occupational health and safety that apply to that employee or that other work; and
-
-                     (b)  whether that work is appropriate for the employee to perform.
-
-### Division 3—Alternative dispute resolution process conducted by Commission under model dispute resolution process
-
-##### <a id="176A"></a>176A  Alternative dispute resolution process
-
-                   An **_alternative dispute resolution process_** is a procedure for the resolution of disputes, and includes:
-
-                     (a)  conferencing; and
-
-                     (b)  mediation; and
-
-                     (c)  assisted negotiation; and
-
-                     (d)  neutral evaluation; and
-
-                     (e)  case appraisal; and
-
-                      (f)  conciliation; and
-
-                     (g)  arbitration, or other determination of the rights and obligations of the parties in dispute; and
-
-                     (h)  a procedure or service specified in the regulations.
-
-##### <a id="176B"></a>176B  Application
-
-             (1)  A person may apply to the Commission to have an alternative dispute resolution process conducted by the Commission under this Division in relation to a matter or matters in dispute if:
-
-                     (a)  the dispute is one that may (whether under an award, a workplace determination, a workplace agreement, a provision of this Act or otherwise) be resolved using the model dispute resolution process; and
-
-                     (b)  the parties to the dispute on the matter or matters have been unable to resolve the dispute at the workplace level.
-
-             (2)  An application to have an alternative dispute resolution process conducted by the Commission under this Division must:
-
-                     (a)  be in the form (if any) prescribed by the regulations; and
-
-                     (b)  describe the matter, or matters, in dispute in relation to which the alternative dispute resolution process is to be conducted; and
-
-                     (c)  be signed by the party to the dispute on that matter or those matters who is making the application; and
-
-                     (d)  specify that the alternative dispute resolution process is to be conducted under the model dispute resolution process.
-
-             (3)  The Commission may request the parties to provide further information about:
-
-         (a)  the matter or matters in dispute; and
-
-                     (b)  the steps taken to resolve the matter at the workplace level.
-
-             (4)  The Commission may do either of the following in relation to an application under this section:
-
-                     (a)  allow the amendment, on any terms that it thinks appropriate, of the application;
-
-                     (b)  correct, amend or waive any error, defect or irregularity whether in substance or form in the application.
-
-##### <a id="176C"></a>176C  Refusing application
-
-             (1)  The Commission must refuse to conduct an alternative dispute resolution process under this Division in relation to a matter if:
-
-                     (a)  the dispute is not one that may be resolved using the model dispute resolution process; or
-
-                     (b)  the matter is the subject of proceedings or has already been settled as a result of proceedings, whether before a court or another body, under a law of the Commonwealth or of a State or Territory relating to the prevention of discrimination or to equal opportunity.
-
-             (2)  The Commission may refuse to conduct an alternative dispute resolution process under this Division if the parties in dispute on the matter have not made a genuine attempt:
-
-                     (a)  to resolve the dispute at the workplace level; or
-
-                     (b)  to reach agreement on who would conduct the alternative dispute resolution process.
-
-##### <a id="176D"></a>176D  Commission’s powers
-
-             (1)  If the Commission conducts an alternative dispute resolution process under this Division, the Commission must take such action as is appropriate to assist the parties to resolve the matter.
-
-             (2)  The action that the Commission may take includes:
-
-                     (a)  arranging conferences of the parties or their representatives at which the Commission is present; and
-
-                     (b)  arranging for the parties or their representatives to confer among themselves at conferences at which the Commission is not present.
-
-             (3)  The Commission must, as far as is practicable, act:
-
-                     (a)  quickly; and
-
-                     (b)  in a way that avoids unnecessary technicalities and legal forms; and
-
-                     (c)  if the parties have agreed that an aspect of the process is to be conducted in a particular way—subject to subsection (4), in accordance with that agreement.
-
-             (4)  The Commission does not have power:
-
-                     (a)  to compel a person to do anything; or
-
-                     (b)  to arbitrate the matter, or matters, in dispute; or
-
-                     (c)  to otherwise determine the rights or obligations of a party to the dispute; or
-
-                     (d)  to make an award in relation to the matter, or matters, in dispute; or
-
-                     (e)  to make an order in relation to the matter, or matters, in dispute; or
-
-                      (f)  to appoint a board of reference.
-
-             (5)  The Commission does not have the power to do any of the things mentioned in paragraph (4)(a), (d), (e) or (f), even if the parties agree that the Commission should do it.
-
-             (6)  The Commission may, subject to any reasonable limitations imposed by the Commission, permit a party to the dispute on the matter to be represented in the alternative dispute resolution process.
-
-             (7)  If the parties request the Commission to make recommendations about particular aspects of a matter about which they are unable to reach agreement, then the Commission may make recommendations about those aspects of the matter.
-
-             (8)  Subdivision B of Division 3A of Part II of this Act does not apply in relation to the conduct of the alternative dispute resolution process by the Commission under this Division.
-
-##### <a id="176E"></a>176E  Privacy
-
-             (1)  The Commission must conduct the alternative dispute resolution process in private.
-
-             (2)  The Commission must not disclose or use any information or document that is given to the Commission in the course of conducting the alternative dispute resolution process to any person, unless:
-
-                     (a)  the information or document is disclosed or used for the purpose of conducting the process; or
-
-                     (b)  the parties to the process consent to the disclosure or use; or
-
-                     (c)  the information or document is disclosed or used in circumstances specified in regulations made for the purposes of this paragraph; or
-
-                     (d)  the disclosure or use is otherwise required or authorised by law.
-
-             (3)  Evidence of anything said, or any act done, in the alternative dispute resolution process is not admissible in proceedings relating to the dispute:
-
-                     (a)  in any court; or
-
-                     (b)  before a person authorised by a law of the Commonwealth or of a State or Territory to hear evidence; or
-
-                     (c)  before a person authorised by the consent of the parties to hear evidence;
-
-unless:
-
-                     (d)  the parties agree to the evidence being admissible; or
-
-                     (e)  the evidence is admitted in circumstances specified in regulations made for the purposes of this paragraph.
-
-##### <a id="176F"></a>176F  When alternative dispute resolution process complete
-
-                   The alternative dispute resolution process is completed when:
-
-                     (a)  the parties agree that the matters in dispute are resolved; or
-
-                     (b)  the party who elected to use the alternative dispute resolution process has informed the Commission that the party no longer wishes to continue with the process.
-
-### Division 4—Alternative dispute resolution process used to resolve other disputes
-
-##### <a id="176G"></a>176G  Application
-
-             (1)  A person may apply to the Commission to have an alternative dispute resolution process conducted by the Commission under this Division in relation to a matter or matters in dispute if:
-
-                     (a)  the dispute on the matter or matters arises in the course of bargaining in relation to a proposed collective agreement (as defined for the purposes of Part VC); and
-
-                     (b)  all parties to the dispute agree that the process is to be conducted by the Commission.
-
-             (2)  An application to have an alternative dispute resolution process conducted by the Commission under this Division must:
-
-                     (a)  be in the form (if any) prescribed by the regulations; and
-
-                     (b)  describe the matter, or matters, in dispute in relation to which the alternative dispute resolution process is to be conducted; and
-
-                     (c)  be signed by the party to the dispute on that matter or those matters who is making the application; and
-
-                     (d)  specify that the alternative dispute resolution process is to be conducted in relation to a dispute on a matter or matters arising in the course of bargaining in relation to a proposed collective agreement (as defined for the purposes of Part VC).
-
-             (3)  The Commission may request the parties to provide further information about the matter or matters in dispute.
-
-##### <a id="176H"></a>176H  Grounds on which Commission must refuse application
-
-                   The Commission must refuse to conduct the alternative dispute resolution process if the circumstances mentioned in subsection 176G(1) do not exist.
-
-##### <a id="176I"></a>176I  Powers of the Commission
-
-             (1)  If the Commission conducts an alternative dispute resolution process under this Division, the Commission must take such action as is appropriate to assist the parties to resolve the matter.
-
-             (2)  The action that the Commission may take includes:
-
-                     (a)  arranging conferences of the parties or their representatives at which the Commission is present; and
-
-                     (b)  arranging for the parties or their representatives to confer among themselves at conferences at which the Commission is not present.
-
-             (3)  The Commission must, as far as is practicable, act:
-
-                     (a)  quickly; and
-
-                     (b)  in a way that avoids unnecessary technicalities and legal forms; and
-
-                     (c)  if the parties have agreed that an aspect of the process is to be conducted in a particular way—subject to subsection (4), in accordance with that agreement.
-
-             (4)  The Commission does not have power:
-
-                     (a)  to compel a person to do anything; or
-
-                     (b)  to arbitrate the matter, or matters, in dispute; or
-
-                     (c)  to otherwise determine the rights or obligations of a party to the dispute; or
-
-                     (d)  to make an award in relation to the matter, or matters, in dispute; or
-
-                     (e)  to make an order in relation to the matter, or matters, in dispute; or
-
-                      (f)  to appoint a board of reference.
-
-             (5)  The Commission does not have power to do any of the things mentioned in subsection (4), even if the parties agree that the Commission should do it.
-
-             (6)  The Commission may, subject to any reasonable limitations imposed by the Commission, permit a party to the dispute on the matter to be represented in the alternative dispute resolution process.
-
-             (7)  If the parties request the Commission to make recommendations about particular aspects of a matter about which they are unable to reach agreement, then the Commission may make recommendations about those aspects of the matter.
-
-             (8)  Subdivision B of Division 3A of Part II of this Act does not apply in relation to the conduct of the alternative dispute resolution process by the Commission under this Division.
-
-##### <a id="176J"></a>176J  Privacy
-
-             (1)  The Commission must conduct the alternative dispute resolution process in private.
-
-             (2)  The Commission must not disclose or use any information or document that is given to the Commission in the course of conducting the alternative dispute resolution process to any person, unless:
-
-                     (a)  the information or document is disclosed or used for the purpose of conducting the process; or
-
-                     (b)  the parties to the process consent to the disclosure or use; or
-
-                     (c)  the information or document is disclosed or used in circumstances specified in regulations made for the purposes of this paragraph; or
-
-                     (d)  the disclosure or use is otherwise required or authorised by law.
-
-             (3)  Evidence of anything said, or any act done, in the alternative dispute resolution process is not admissible in proceedings relating to the dispute:
-
-                     (a)  in any court; or
-
-                     (b)  before a person authorised by a law of the Commonwealth or of a State or Territory to hear evidence; or
-
-                     (c)  before a person authorised by the consent of the parties to hear evidence;
-
-unless:
-
-                     (d)  the parties agree to the evidence being admissible; or
-
-                     (e)  the evidence is admitted in circumstances specified in regulations made for the purposes of this paragraph.
-
-##### <a id="176K"></a>176K  When alternative dispute resolution process complete
-
-                   The alternative dispute resolution process is completed when the parties agree that the matters in dispute are resolved.
-
-### Division 5—Dispute resolution process conducted by the Commission under workplace agreement
-
-##### <a id="176L"></a>176L  Application
-
-             (1)  A person may apply to the Commission to have a dispute resolution process conducted by the Commission under this Division in relation to a matter or matters in dispute if:
-
-                     (a)  the dispute is one that, under the terms of a workplace agreement, may be resolved using a dispute resolution process conducted by the Commission; and
-
-                     (b)  any steps that, under the terms of agreement, must be taken before the matter is referred to the Commission have been taken.
-
-             (2)  An application to have a dispute resolution process conducted by the Commission under this Division must:
-
-                     (a)  be in the form (if any) prescribed by the regulations; and
-
-                     (b)  describe the matter, or matters, in dispute in relation to which the dispute resolution process is to be conducted; and
-
-                     (c)  be signed by the party to the dispute on that matter or those matters who is making the application; and
-
-                     (d)  specify that the dispute resolution process is to be conducted under the terms of a workplace agreement and not under the model dispute resolution process.
-
-             (3)  The Commission may request the parties to provide further information about:
-
-                     (a)  the matter or matters in dispute; and
-
-                     (b)  the steps that have been taken to resolve the dispute.
-
-Note:          Under section 101A, a workplace agreement must include a dispute resolution process. That process may be something other than the model dispute resolution process, and may involve applying to have the Commission conduct an alternative dispute resolution process.
-
-##### <a id="176M"></a>176M  Grounds on which Commission must refuse application
-
-                   The Commission must refuse to conduct a dispute resolution process under this Division in relation to a matter in dispute if:
-
-                     (a)  the dispute is not one that, under the terms of the workplace agreement, may be resolved using a dispute resolution process conducted by the Commission; or
-
-                     (b)  any of the steps that, under the terms of agreement, must be taken before the matter is referred to the Commission have not been taken.
-
-##### <a id="176N"></a>176N  Commission’s powers
-
-             (1)  In conducting the dispute resolution process under this Division, the Commission has, subject to subsection (2), the functions and powers:
-
-                     (a)  given to it under the workplace agreement; or
-
-                     (b)  otherwise agreed by the parties.
-
-             (2)  The Commission does not have the power to make orders.
-
-             (3)  The Commission must, as far as is practicable, act:
-
-                     (a)  quickly; and
-
-                     (b)  in a way that avoids unnecessary technicalities and legal forms; and
-
-                     (c)  if the parties have agreed, either in the workplace agreement or otherwise, that an aspect of the process is to be conducted in a particular way—in accordance with that agreement.
-
-             (4)  Subdivision B of Division 3A of Part II of this Act does not apply in relation to the conduct of the dispute resolution process by the Commission under this Division.
-
-##### <a id="176O"></a>176O  Privacy
-
-             (1)  The Commission must conduct the dispute resolution process in private.
-
-             (2)  The Commission must not disclose or use any information or document that is given to the Commission in the course of conducting the dispute resolution process to any person, unless:
-
-                     (a)  the information or document is disclosed or used for the purpose of conducting the process; or
-
-                     (b)  the parties to the process consent to the disclosure or use; or
-
-                     (c)  the information or document is disclosed or used in circumstances specified in regulations made for the purposes of this paragraph; or
-
-                     (d)  the disclosure or use is otherwise required or authorised by law.
-
-             (3)  Evidence of anything said, or any act done, in the dispute resolution process is not admissible in any proceedings relating to the dispute:
-
-                     (a)  in any court; or
-
-                     (b)  before a person authorised by a law of the Commonwealth or of a State or Territory to hear evidence; or
-
-                     (c)  before a person authorised by the consent of the parties to hear evidence;
-
-unless:
-
-                     (d)  the parties agree to the evidence being admissible; or
-
-                     (e)  the evidence is admitted in circumstances specified in regulations made for the purposes of this paragraph.
-
-### Division 6—Dispute resolution process conducted by another provider
-
-##### <a id="176P"></a>176P  Application of this Division
-
-                   This Division applies to a dispute resolution process in relation to a dispute on a matter or matters that is not conducted by the Commission.
-
-##### <a id="176Q"></a>176Q  Representation
-
-             (1)  If the dispute resolution process is an alternative dispute resolution process, the person conducting the process may allow a party to be represented in the process if the person conducting the process believes that it is appropriate to do so.
-
-             (2)  The person conducting the dispute resolution process may set reasonable limits on the conduct of the representative in relation to the process.
-
-             (3)  If:
-
-                     (a)  the dispute resolution process is conducted under the terms of a workplace agreement; and
-
-                     (b)  the agreement makes provision for a party to the dispute to be represented in the process;
-
-the person conducting the dispute resolution process must allow the party to be represented in accordance with the agreement.
-
-##### <a id="176R"></a>176R  Privacy
-
-             (1)  The person conducting the dispute resolution process must do so in private.
-
-             (2)  A person who is conducting, or has conducted, a dispute resolution process must not disclose or use any information or document that is given to the person in the course of conducting that process to any person, unless:
-
-                     (a)  the information or document is disclosed or used for the purpose of conducting the process; or
-
-                     (b)  the parties to the process consent to the disclosure or use; or
-
-                     (c)  the information or document is disclosed or used in circumstances specified in regulations made for the purposes of this paragraph; or
-
-                     (d)  the disclosure or use is otherwise required or authorised by law.
-
-             (3)  Subsections (1) and (2) are civil remedy provisions.
-
-             (4)  Evidence of anything said, or any act done, in the dispute resolution process is not admissible in proceedings relating to the dispute:
-
-                     (a)  in any court; or
-
-                     (b)  before a person authorised by a law of the Commonwealth or of a State or Territory to hear evidence; or
-
-                     (c)  before a person authorised by the consent of the parties to hear evidence;
-
-unless:
-
-                     (d)  the parties agree to the evidence being admissible; or
-
-                     (e)  the evidence is admitted in circumstances specified in regulations made for the purposes of this paragraph.
-
-             (5)  The Court may make an order imposing a pecuniary penalty on a person who has contravened subsection (1) or (2).
-
-             (6)  The pecuniary penalty cannot be more than 300 penalty units for a body corporate or 60 penalty units in any other case.
-
-             (7)  An application for an order under subsection (5) may be made by:
+                     (a)  is determined at the commencement of the employee’s engagement (the
