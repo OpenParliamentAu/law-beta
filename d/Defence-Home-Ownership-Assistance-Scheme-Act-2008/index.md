@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00742/Html/00922025-4bc6-45e6-906c-ef637df40355_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00524/Html/DefHomeOwnerAssistScheme2008_image001.gif)
 
 # Defence Home Ownership Assistance Scheme Act 2008
 
 **Act No. 27 of 2008 as amended**
 
-This compilation was prepared on 13 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 2 August 2010
+ taking into account amendments up to Act No. 95 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -102,7 +102,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [31](#31).          When subsidy becomes payable—ownership and location of land
 
-[32](#32).          When subsidy becomes payable—occupation of house as a home (non‑building loan)
+[32](#32).          When subsidy becomes payable—occupation of house as a home (non-building loan)
 
 [33](#33).          When subsidy becomes payable—use of land
 
@@ -118,7 +118,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38](#38).          When subsidy stops being payable—ownership of land
 
-[39](#39).          When subsidy stops being payable—occupation of house as a home (non‑building loan)
+[39](#39).          When subsidy stops being payable—occupation of house as a home (non-building loan)
 
 [40](#40).          When subsidy stops being payable—occupation of house as a home (building loan)
 
@@ -156,7 +156,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [51B](#51B).       Monthly subsidy—shared liability between partners for subsidised loans if partner dies etc 
 
-[51C](#51C).       Monthly subsidy—joint and several liability for subsidised loans between non‑partners
+[51C](#51C).       Monthly subsidy—joint and several liability for subsidised loans between non-partners
 
 [52](#52).          Monthly subsidy—average house price
 
@@ -624,7 +624,7 @@ Note:          For the definition of **_effective service_**, 
 
 ##### <a id="11"></a>11  Eligibility—rejoining members
 
-                   A person is eligible as a rejoining member at a particular time (the **_eligibility time_**) if the person:
+                   A person is eligible as a rejoining member at a particular time (the **_eligibility time_**) if the person:
 
                      (a)  before, on or after the commencing day, stopped being a member of the Defence Force; and
 
@@ -950,7 +950,7 @@ Note:          Special rules may apply for working out the amo
 
 Note:          Immediately after the first authorisation day for the subsidy, the subsidy certificate stops being in force (see section 22). If subsidy stops being payable (under section 36), the subsidised borrower can only again become entitled to subsidy under this Division if he or she is given a new subsidy certificate.
 
-##### <a id="30"></a>30  When subsidy becomes payable—use of subsidised loan
+##### <a id="30"></a>30  When subsidy becomes payable—use of subsidised loan
 
              (1)  The Secretary must be satisfied that the subsidised loan is used, or is to be used, to do one of the following:
 
@@ -986,7 +986,7 @@ Note:          For the definitions of **_house_** and **_unit_
 
                      (c)  the land must be in Australia.
 
-##### <a id="32"></a>32  When subsidy becomes payable—occupation of house as a home (non‑building loan)
+##### <a id="32"></a>32  When subsidy becomes payable—occupation of house as a home (non-building loan)
 
 Scope
 
@@ -1269,7 +1269,7 @@ Subsidy condition
 
              (2)  The building work must be completed within 2 years after the first authorisation day for the subsidy.
 
-##### <a id="38"></a>38  When subsidy stops being payable—ownership of land
+##### <a id="38"></a>38  When subsidy stops being payable—ownership of land
 
                    The following conditions must continue to be met:
 
@@ -1281,7 +1281,7 @@ Subsidy condition
 
                      (b)  no part of the interest in the land must be held as a trustee or as a beneficiary of a trust.
 
-##### <a id="39"></a>39  When subsidy stops being payable—occupation of house as a home (non‑building loan)
+##### <a id="39"></a>39  When subsidy stops being payable—occupation of house as a home (non-building loan)
 
 Scope
 
@@ -1493,17 +1493,17 @@ _Method statement_
 
 Step 1\. Work out the person’s accrued subsidy period under section 47, in completed months, as at the subsidy time.
 
-Step 2.   Add together the following:
+Step 2.    Add together the following:
 
                (a)     if a subsidy lump sum has become payable to the person—the number of months of service credit accessed for the subsidy lump sum (see section 54);
 
-              (b)     in any case—the number of months in respect of which monthly subsidy has been payable in relation to the person under this Act, as at the subsidy time;
+               (b)     in any case—the number of months in respect of which monthly subsidy has been payable in relation to the person under this Act, as at the subsidy time;
 
                (c)     in any case—the number of months in respect of which subsidy has been payable in relation to the person under the _Defence Force (Home Loans Assistance) Act 1990_ and the _Defence Service Homes Act 1918_, as at the subsidy time.
 
-Step 3.   If the step 1 result exceeds the step 2 result, the person has a **_service credit_** at the subsidy time.
+Step 3.    If the step 1 result exceeds the step 2 result, the person has a **_service credit_** at the subsidy time.
 
-Step 4.   The number of months (if any) by which the step 1 result exceeds the step 2 result is the number of months standing to the person’s service credit.
+Step 4.    The number of months (if any) by which the step 1 result exceeds the step 2 result is the number of months standing to the person’s service credit.
 
 * * *
 
@@ -1808,7 +1808,7 @@ Note:          Part 5 provides for the administrative review
 
                    If subsidy is payable to a subsidised borrower in relation to a subsidised loan during an entitlement period, the amount of subsidy (the subsidised borrower’s **_monthly subsidy_**) for each month during the period is worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00742/Html/00922025-4bc6-45e6-906c-ef637df40355_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00524/Html/DefHomeOwnerAssistScheme2008_image002.gif)
 
 Note:          The average monthly interest is worked out under section 50.
 
@@ -1816,13 +1816,13 @@ Note:          The average monthly interest is worked out unde
 
              (1)  **_Average monthly interest_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00742/Html/00922025-4bc6-45e6-906c-ef637df40355_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00524/Html/DefHomeOwnerAssistScheme2008_image003.gif)
 
 Note:          The loan capital is worked out under section 51.
 
              (2)  The **_monthly repayment_**, for the formula in subsection (1), is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00742/Html/00922025-4bc6-45e6-906c-ef637df40355_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00524/Html/DefHomeOwnerAssistScheme2008_image004.gif)
 
 Note 1:       The loan capital is worked out under section 51.
 
@@ -2142,7 +2142,7 @@ Loan capital rules
 
 Note:          This section applies only to the surviving borrower’s entitlement to subsidy in his or her own right, and not to the entitlement transferred from the deceased borrower (as mentioned in paragraph (1)(c)). For how the transferred entitlement applies to the surviving borrower, see sections 64 and 65.
 
-##### <a id="51C"></a>51C  Monthly subsidy—joint and several liability for subsidised loans between non‑partners
+##### <a id="51C"></a>51C  Monthly subsidy—joint and several liability for subsidised loans between non-partners
 
 Scope
 
@@ -2196,7 +2196,7 @@ Note 2:       If the subsidised borrower and another person (other t
 
              (1)  If a subsidy lump sum is payable to a subsidised borrower in relation to a subsidised loan, the amount of the subsidy lump sum is worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00742/Html/00922025-4bc6-45e6-906c-ef637df40355_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00524/Html/DefHomeOwnerAssistScheme2008_image005.gif)
 
              (2)  The **_notional monthly subsidy_**, for the formula in subsection (1), is the amount of monthly subsidy that would have been payable to the subsidised borrower in relation to the loan under section 49 on the following assumptions:
 
@@ -3065,7 +3065,7 @@ Note:          **_SES employee_** and **_acting SES employee_*
 
 ##### <a id="85"></a>85  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -3179,31 +3179,14 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 4 (item 2)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 520–522) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="32%">
+  <col width="68%">
 </colgroup>
 
 <thead>
@@ -3430,28 +3413,6 @@ Remainder: Royal Assent</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 520  Subsection 80(1) (note)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-## 521  Subsection 81(1) (note)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-## 522  Subsection 81(6) (note at the end of the definition of _senior employee_)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-As at 13 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3482,9 +3443,9 @@ _Note:       The amendments commence 28 days after the day this Act 
 
 ## 7  Application—subsidy certificates and service credits amendments
 
-(1)       The amendment made by item 5 applies in relation to a decision in respect of the giving of a subsidy certificate under section 16 of the _Defence Home Ownership Assistance Scheme Act 2008_, if the decision is made on or after the day the amendment commences.
+(1)        The amendment made by item 5 applies in relation to a decision in respect of the giving of a subsidy certificate under section 16 of the _Defence Home Ownership Assistance Scheme Act 2008_, if the decision is made on or after the day the amendment commences.
 
-(2)       The amendment made by item 6 applies in relation to a subsidy certificate given to a person under section 16 of the _Defence Home Ownership Assistance Scheme Act 2008_ on or after the day the amendment commences.
+(2)        The amendment made by item 6 applies in relation to a subsidy certificate given to a person under section 16 of the _Defence Home Ownership Assistance Scheme Act 2008_ on or after the day the amendment commences.
 
 _Note:       The amendments commence 28 days after the day this Act receives the Royal Assent._
 
@@ -3504,11 +3465,11 @@ _Note:       The amendments commence 28 days after the day this Act 
 
 Application
 
-(1)       The amendment made by this Part applies to a delegation given under subsection 81(2) of the _Defence Home Ownership Assistance Scheme Act 2008_ on or after the day the amendment commences.
+(1)        The amendment made by this Part applies to a delegation given under subsection 81(2) of the _Defence Home Ownership Assistance Scheme Act 2008_ on or after the day the amendment commences.
 
 Saving
 
-(2)       A delegation in force under subsection 81(2) of the _Defence Home Ownership Assistance Scheme Act 2008_ immediately before the day the amendment made by this Part commences continues to have effect, on and after that day, as if it were a delegation under that subsection as amended by this Part.
+(2)        A delegation in force under subsection 81(2) of the _Defence Home Ownership Assistance Scheme Act 2008_ immediately before the day the amendment made by this Part commences continues to have effect, on and after that day, as if it were a delegation under that subsection as amended by this Part.
 
 _Note:       The amendment commences 28 days after the day this Act receives the Royal Assent._
 
@@ -3525,21 +3486,5 @@ The amendment made by item 1 of this Schedule applies in relation to:
                      (a)  a decision in respect of the giving of a subsidy certificate under section 16 of the _Defence Home Ownership Assistance Scheme Act 2008_, if the decision is made on or after the commencement of this item; and
 
                      (b)  the payment of subsidy to a person under that Act during an entitlement period, if the subsidy certificate to which the entitlement period relates was given to the person on or after the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
