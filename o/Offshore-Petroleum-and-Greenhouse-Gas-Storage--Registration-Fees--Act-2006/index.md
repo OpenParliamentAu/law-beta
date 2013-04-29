@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00482/Html/OffshorePetrGreenGasStorageRegFees2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00090/Html/OffshorePetrGreenGasStorageRegFees2006_image001.gif)
 
 # Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Act 2006
 
 **Act No. 16 of 2006 as amended**
 
-This compilation was prepared on 16 October 2009
- taking into account amendments up to Act No. 102 of 2009
+This compilation was prepared on 11 February 2009
+ taking into account amendments up to Act No. 119 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -17,43 +17,43 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Introduction**
+**Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Application of Chapter 1 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_
+[3](#3).            Application of Chapter 1 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_               2
 
-[4](#4).            Application of Part 4 1 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_
+[4](#4).            Application of Part 4 1 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_  2
 
-[4A](#4A).         Application of Part 5 1 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_
+[4A](#4A).         Application of Part 5 1 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_  2
 
 **Part 2—Petroleum titles**
 
-[5](#5).            Imposition of fee—transfer of a petroleum title
+[5](#5).            Imposition of fee—transfer of a petroleum title                                 3
 
-[6](#6).            Imposition of fee—approval of dealing relating to a petroleum title
+[6](#6).            Imposition of fee—approval of dealing relating to a petroleum title  6
 
 **Part 3—Greenhouse gas titles**
 
-[6A](#6A).         Imposition of fee—transfer of a greenhouse gas title
+[6A](#6A).         Imposition of fee—transfer of a greenhouse gas title                        11
 
-[6B](#6B).         Imposition of fee—approval of dealing relating to a greenhouse gas title
+[6B](#6B).         Imposition of fee—approval of dealing relating to a greenhouse gas title               14
 
 **Part 4—Miscellaneous**
 
-[7](#7).            Regulations
+[7](#7).            Regulations                                                                                        19
 
-[8](#8).            Transitional provisions
+[8](#8).            Transitional provisions                                                                      19
 
 **Schedule 1—Transitional provisions**
 
-[1](#1).            Pre-commencement entries etc 
+[1](#1).            Pre-commencement entries etc                                                          20
 
-[2](#2).            Transitional—regulations
+[2](#2).            Transitional—regulations                                                                  20
 
-[3](#3).            Re-enactment of the _Petroleum (Submerged Lands) (Registration Fees) Act 1967_
+[3](#3).            Re-enactment of the _Petroleum (Submerged Lands) (Registration Fees) Act 1967_ 21
 
 **Notes** 
 
@@ -163,7 +163,7 @@ Note:          This table relates only to the provisions of th
 
                    Chapter 1 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ applies to this Act in a corresponding way to the way in which it applies to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
-Note:          This means, for example, that the definitions in section 7 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ apply to this Act.
+Note:          This means, for example, that the definitions in section 6 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ apply to this Act.
 
 ##### <a id="4"></a>4  Application of Part 4.1 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_
 
@@ -915,24 +915,9 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>102, 2009</div>
-  </td>
-  <td>
-    <div>8 Oct 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 66): 9 Oct 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
+
+ 
 
 _(a)_     Subsection 2(1) (item 4) of the _Offshore Petroleum (Registration Fees) Amendment (Greenhouse Gas Storage) Act 2008_ provides as follows:
 
@@ -1090,14 +1075,6 @@ _(a)_     Subsection 2(1) (item 4) of the _Offshore Petroleum (Registr
   </td>
   <td>
     <div>am. No. 119, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 3</div>
-  </td>
-  <td>
-    <div>am. No. 102, 2009</div>
   </td>
 </tr>
 <tr>
