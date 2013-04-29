@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00372/Html/1db7f735-b59a-4542-8c9f-02afb188d4c8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00151/Html/8641beef-aa7b-4713-85a0-93bd445d75cc_files/image001.gif)
 
 # Ozone Protection and Synthetic Greenhouse Gas Management Act 1989
 
 **Act No. 7 of 1989 as amended**
 
-This compilation was prepared on 18 May 2011
+This compilation was prepared on 29 March 2011
  taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
@@ -144,115 +144,37 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part VIII—Enforcement** 
 
-    **Division 1—Powers of inspectors** 
-
-        **Subdivision A—Inspectors**
+    **Division 1—Inspectors**
 
 [48A](#48A).       Meaning of _inspector_
 
 [49](#49).          Appointment of inspectors
 
-[49A](#49A).       Directions to inspectors
-
 [50](#50).          Identity cards
-
-        **Subdivision B—Monitoring powers**
 
 [51](#51).          Searches to monitor compliance with Act etc 
 
-[51A](#51A).       Monitoring powers of inspectors
+[52](#52).          Offence‑related searches and seizures
 
-[51B](#51B).       Persons assisting inspectors—monitoring powers
-
-        **Subdivision C—Enforcement powers**
-
-[52](#52).          Inspector may enter premises with consent or under enforcement warrant
-
-[53](#53).          Enforcement powers of inspectors
-
-[53A](#53A).       Persons assisting inspectors—enforcement powers
-
-[53B](#53B).       Announcement before entry under warrant
-
-[53C](#53C).       Details of warrant etc  to be given to occupier
-
-        **Subdivision D—General provisions relating to seizure etc.**
-
-[53D](#53D).       Receipts for seized things and seizure notice
-
-[53E](#53E).        Copies of seized things to be provided
-
-[53F](#53F).        Inspection of seized books, records or documents
-
-[53G](#53G).       Return of seized things
-
-[53H](#53H).       Magistrate may permit seized things to be retained
-
-[53J](#53J).        Powers to take samples and conduct tests
-
-[53K](#53K).       Directions about how pressurised container is to be dealt with
-
-[53L](#53L).        Disposal of goods if person cannot be located
-
-        **Subdivision E—Obligations and incidental powers of inspectors**
-
-[53M](#53M).      Consent
+[53](#53).          Warrants may be granted by telephone
 
 [54](#54).          Power to require information etc 
 
-[55](#55).          Inspection of books, records or documents removed by, or produced to, inspectors
-
-[55A](#55A).       Return of books, records or documents removed by, or produced to, inspectors
-
-[55B](#55B).       Magistrate may permit books, records or documents to be retained
-
-[55C](#55C).       Securing electronic equipment for use by experts
-
-[55D](#55D).       Compensation for damage to electronic equipment
-
-        **Subdivision F—Enforcement warrants**
-
-[55E](#55E).        Enforcement warrants
-
-[55F](#55F).        Enforcement warrants by telephone, telex, fax etc 
-
-[55G](#55G).       Offences relating to warrants
-
-        **Subdivision G—Powers of magistrates**
-
-[55H](#55H).       Powers of magistrates
+[55](#55).          Retention of books, records and documents
 
     **Division 2—Injunctions**
 
 [56](#56).          Injunctions
 
-    **Division 3—Forfeiture of goods** 
-
-        **Subdivision A—Forfeitable goods**
+    **Division 3—Forfeiture of goods**
 
 [57](#57).          Forfeitable goods
-
-        **Subdivision B—Forfeiture following conviction or making of civil penalty order**
 
 [58](#58).          Goods forfeited to Commonwealth
 
 [59](#59).          Power to seize forfeited goods
 
 [60](#60).          Persons not to move etc  seized goods
-
-        **Subdivision C—Forfeiture of seized goods**
-
-[60A](#60A).       Forfeiture notices
-
-[60B](#60B).       Claims that seized goods are not forfeitable goods
-
-[60C](#60C).       Forfeiture of seized goods to the Commonwealth
-
-[60D](#60D).       Right of compensation in certain circumstances
-
-        **Subdivision D—General provisions**
-
-[60E](#60E).        Forfeited goods become the property of the Commonwealth
 
 [61](#61).          Disposal of forfeited goods
 
@@ -265,38 +187,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [64](#64).          Failure to answer questions etc 
 
 [65](#65).          Conduct by directors, servants and agents
-
-    **Division 5—Infringement notices**
-
-[65AA](#65AA).    Infringement notices
-
-    **Division 6—Ancillary contravention of civil penalty provisions**
-
-[65AB](#65AB).    Ancillary contravention of civil penalty provision
-
-    **Division 7—Civil penalty orders**
-
-[65AC](#65AC).    Civil penalty orders
-
-[65AD](#65AD).    Who may apply for a civil penalty order
-
-[65AE](#65AE).     Two or more proceedings may be heard together
-
-[65AF](#65AF).     Time limit for application for an order
-
-[65AG](#65AG).    Civil evidence and procedure rules for civil penalty orders
-
-[65AH](#65AH).    Civil proceedings after criminal proceedings
-
-[65AI](#65AI).      Criminal proceedings during civil proceedings
-
-[65AJ](#65AJ).     Criminal proceedings after civil proceedings
-
-[65AK](#65AK).    Evidence given in proceedings for a civil penalty order not admissible in criminal proceedings
-
-[65AL](#65AL).     Mistake of fact
-
-[65AM](#65AM).   State of mind
 
 **Part VIIIA—Ozone Protection and SGG Account**
 
@@ -323,14 +213,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [69A](#69A).       Implementation of Montreal Protocol—supplementary regulations
 
 [69B](#69B).       Severability
-
-[69C](#69C).       Jurisdiction of State courts
-
-[69D](#69D).       Jurisdiction of Territory courts
-
-[69E](#69E).        Compensation for acquisition of property
-
-[69F](#69F).        Arrangements with States and Territories—magistrates
 
 [70](#70).          Regulations
 
@@ -444,7 +326,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="6A"></a>6A  Application of the _Criminal Code_
 
- Chapter 2 (other than Part 2.5) of the _Criminal Code_ applies to all offences against this Act or the regulations.
+ Chapter 2 (other than Part 2.5) of the _Criminal Code_ applies to all offences against this Act.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -462,79 +344,19 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="cfc"></a>**_CFC_** means a substance referred to in Part I of Schedule 1, whether existing alone or in a mixture.
 
-                    <a name="civil-penalti-order"></a>**_civil penalty order_** means an order under subsection 65AC(1).
-
-                    <a name="civil-penalti-provision"></a>**_civil penalty provision_** means:
-
-                     (a)  a provision of this Act declared by this Act to be a civil penalty provision; or
-
-                     (b)  a provision of the regulations declared by the regulations to be a civil penalty provision.
-
                     <a name="control-substanc-licenc"></a>**_controlled substances licence_** means a licence referred to in subsection 13A(2).
 
-                    <a name="design-court"></a>**_designated court_** means:
-
-                     (a)  the Federal Court; or
-
-                     (b)  the Federal Magistrates Court; or
-
-                     (c)  a court of a State or Territory that has jurisdiction in relation to matters arising under this Act or the regulations.
-
-Note:          For jurisdiction of State and Territory courts, see sections 69C and 69D.
-
                     <a name="distribut"></a>**_distribution_** includes sale and supply, whether for consideration or not.
-
-                    <a name="enforc-power"></a>**_enforcement powers_** has the meaning given by section 53.
-
-                    <a name="enforc-warrant"></a>**_enforcement warrant_** means:
-
-                     (a)  a warrant issued under section 55E; or
-
-                     (b)  a warrant signed by a magistrate under section 55F.
 
                     <a name="essenti-us"></a>**_essential use_**, in relation to a stage‑1 or stage‑2 scheduled substance, means an essential use identified in relation to the substance by a decision adopted and in force under the Montreal Protocol.
 
                     <a name="essenti-us-licenc"></a>**_essential uses licence_** means a licence referred to in subsection 13A(3).
-
-                    <a name="evidenti-burden"></a>**_evidential burden_**, in relation to a matter, means the burden of adducing or pointing to evidence that suggests a reasonable possibility that the matter exists or does not exist.
-
-                    <a name="evidenti-materi"></a>**_evidential material_**:
-
-                     (a)  in relation to an offence against this Act or the regulations—means:
-
-                              (i)  a thing with respect to which the offence has been committed or is suspected, on reasonable grounds, of having been committed; or
-
-                             (ii)  a thing that there are reasonable grounds for suspecting will afford evidence as to the commission of the offence; or
-
-                            (iii)  a thing that there are reasonable grounds for suspecting is intended to be used for the purpose of committing the offence; or
-
-(b)  in relation to a contravention of a civil penalty provision—means:
-
-                              (i)  a thing with respect to which the civil penalty provision has been contravened or is suspected, on reasonable grounds, of having been contravened; or
-
-                             (ii)  a thing that there are reasonable grounds for suspecting will afford evidence as to the contravention of the civil penalty provision; or
-
-                            (iii)  a thing that there are reasonable grounds for suspecting is intended to be used for the purpose of contravening the civil penalty provision.
-
-                    <a name="execut-offic"></a>**_executive officer_** of a body corporate means:
-
-                     (a)  a director of the body corporate; or
-
-                     (b)  the chief executive officer (however described) of the body corporate; or
-
-                     (c)  the chief financial officer (however described) of the body corporate; or
-
-                     (d)  the secretary of the body corporate.
 
                     <a name="export"></a>**_export_**, in relation to goods or a substance, means do an act that constitutes exportation of the goods or substance from Australia within the meaning of section 112 of the _Customs Act 1901_, or would constitute such exportation if the external Territories were part of Australia for the purposes of that Act.
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
                     <a name="festock"></a>**_feedstock_** means an intermediate substance which is used to manufacture other chemicals.
-
-                    <a name="forfeit-good"></a>**_forfeitable goods_** has the meaning given by section 57.
-
-                    <a name="forfeitur-notic"></a>**_forfeiture notice_** means a notice under subsection 60A(1).
 
                     <a name="framework-convent-climat-chang"></a>**_Framework Convention on Climate Change_** means the United Nations Framework Convention on Climate Change, done at New York on 9 May 1992, a copy of the English text of which is set out in Schedule 3E.
 
@@ -564,8 +386,6 @@ Note:          For jurisdiction of State and Territory courts,
 
                     <a name="methyl-chloroform"></a>**_methyl chloroform_** means the substance referred to in Part IV of Schedule 1 (that is, 1,1,1‑trichloroethane), whether existing alone or in a mixture.
 
-                    <a name="monitor-power"></a>**_monitoring powers_** has the meaning given by section 51A.
-
                     <a name="montreal-protocol"></a>**_Montreal Protocol_** means the Montreal Protocol on Substances that Deplete the Ozone Layer, as in force for Australia, an English text version of which is set out in Schedule 3, being that Protocol as affected by:
 
                      (a)  the adjustments set out in Schedules 3A and 3B; and
@@ -574,13 +394,7 @@ Note:          For jurisdiction of State and Territory courts,
 
                     <a name="odp-tonn"></a>**_ODP tonnes_** has the meaning given in section 10.
 
-                    <a name="offenc-against-act-regul"></a>**_offence against this Act or the regulations_** includes an offence against section 137.1 or 137.2 of the _Criminal Code_ that relates to this Act or the regulations.
-
-Note:          See also section 11.6 of the _Criminal Code_.
-
                     <a name="offic-custom"></a>**_officer of Customs_** has the same meaning as in the _Customs Act 1901_.
-
-                    <a name="penalti-unit"></a>**_penalty unit_** has the meaning given by section 4AA of the _Crimes Act 1914_.
 
                     <a name="pfc"></a>**_PFC_** means a perfluorocarbon referred to in Part X of Schedule 1, whether existing alone or in a mixture.
 
@@ -634,8 +448,6 @@ Note:          See also section 11.6 of the _Criminal Code_.
 
                     <a name="schuled-substanc"></a>**_scheduled substance_** means a substance referred to in Schedule 1, whether existing alone or in a mixture.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
-
                     <a name="synthetic-greenhous-ga"></a><a name="sgg"></a>**_SGG_** or **_synthetic greenhouse gas_** means an HFC or a PFC.
 
                     <a name="sgg-licenc"></a>**_SGG licence_** means a controlled substances licence that relates to SGGs.
@@ -666,9 +478,13 @@ Note:          See also section 11.6 of the _Criminal Code_.
 
 ##### <a id="8"></a>8  Quota periods
 
-             (1)  A quota period is 2 years, or such longer or shorter period (if any) as the Minister determines in writing.
+             (1)  A quota period is 2 years, or such longer or shorter period (if any) as the Minister determines.
 
-             (2)  A determination made under subsection (1) is a legislative instrument.
+             (2)  A determination under this section:
+
+                     (a)  must be by notice in the _Gazette_; and
+
+                     (b)  is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
              (3)  The first quota period starts on the 1 January specified by the Minister under section 26.
 
@@ -770,12 +586,6 @@ Note:          Paragraph 68(1)(d) of the _Customs Act 1901_ co
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-             (9)  Subsections (1), (1AA), (1AB), (1A), (2), (3), (4), (5), (6) and (6A) are **_civil penalty provisions_**.
-
-Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
-
-Note 2:       For maximum penalty, see subsection 65AC(4).
-
 ##### <a id="13A"></a>13A  Licences and what they allow
 
              (1)  A person may apply to the Minister for all or any of the following licences:
@@ -874,43 +684,19 @@ Note 2:       For maximum penalty, see subsection 65AC(4).
 
              (5)  Without limiting, by implication, the generality of the matters which the Minister may take into account in determining whether a person is a fit and proper person for the purposes of subsection (4), the Minister shall have regard to:
 
-                    (aa)  any civil penalty order made against the person for a contravention of a civil penalty provision, where the contravention occurred within the 10 years immediately preceding the making of the application; and
-
                      (a)  any conviction of the person for an offence against this Act or the regulations committed within the 10 years immediately preceding the making of the application; and
 
                      (b)  any conviction of the person for an offence against a law of the Commonwealth, of a State or of a Territory that is punishable by imprisonment for a period of 6 months or longer, being an offence committed within the 10 years immediately preceding the making of the application; and
 
-                   (ba)  if the person is a body corporate—any civil penalty order made against an executive officer of the body corporate for a contravention of a civil penalty provision, where the contravention occurred within the 10 years immediately preceding the making of the application; and
-
-                   (bb)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against this Act or the regulations committed within the 10 years immediately preceding the making of the application; and
-
-                   (bc)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against a law of the Commonwealth, of a State or of a Territory that is punishable by imprisonment for a period of 6 months or longer, where the offence was committed within the 10 years immediately preceding the making of the application; and
-
                      (c)  whether the person is bankrupt, has applied to take the benefit of any law for the relief of bankrupt or insolvent debtors, has compounded with creditors or has made an assignment of remuneration for their benefit; and
 
-                    (ca)  if the person is a body corporate—whether an executive officer of the body corporate is bankrupt, has applied to take the benefit of any law for the relief of bankrupt or insolvent debtors, has compounded with creditors or has made an assignment of remuneration for their benefit; and
+                     (d)  any statement by the person in the application that was false or misleading in a material particular; and
 
-                     (d)  any statement by the person in an application under this Act or the regulations that was false or misleading in a material particular; and
-
-                     (e)  where any statement by the person in an application under this Act or the regulations was false or misleading in a material particular—whether the person knew that the statement was false or misleading; and
-
-                    (ea)  if the person is a body corporate—any statement made by an executive officer of the body corporate in an application under this Act or the regulations that was false or misleading in a material particular; and
-
-                   (eb)  if:
-
-                              (i)  the person is a body corporate; and
-
-                             (ii)  a statement made by an executive officer of the body corporate in an application under this Act or the regulations was false or misleading in a material particular;
-
-                            whether the executive officer knew that the statement was false or misleading; and
+                     (e)  where any statement by the person in the application was false or misleading in a material particular—whether the person knew that the statement was false or misleading; and
 
                       (f)  whether the person has contravened a condition of a licence; and
 
-                    (fa)  if the person is a body corporate—whether an executive officer of the body corporate has contravened a condition of a licence; and
-
-                     (g)  whether the person held a licence that was cancelled under section 20; and
-
-                     (h)  if the person is a body corporate—whether an executive officer of the body corporate held a licence that was cancelled under section 20.
+                     (g)  whether the person held a licence that was cancelled under section 20.
 
              (6)  A reference in subsection (5) to a conviction for an offence includes a reference to the making of an order under section 19B of the _Crimes Act 1914_ in relation to the offence.
 
@@ -978,18 +764,6 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          The defendant bears an evidential burden in relation to the matter in subsection (7B). See subsection 13.3(3) of the _Criminal Code_.
 
-          (7C)  A licensee must not contravene a condition of his or her licence.
-
-          (7D)  Subsection (7C) is a **_civil penalty provision_**.
-
-Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
-
-Note 2:       For maximum penalty, see subsection 65AC(4).
-
-          (7E)  Subsection (7C) does not apply if the licensee has a reasonable excuse.
-
-           (7F)  A person who wishes to rely on subsection (7E) in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
-
              (8)  The Minister may, on his or her own initiative or on written application by the licensee, vary or revoke a condition imposed under subsection (4).
 
              (9)  A variation or revocation of a condition must be by written notice given to the licensee.
@@ -1001,14 +775,6 @@ Note 2:       For maximum penalty, see subsection 65AC(4).
              (2)  A controlled substances licence stays in force until the end of the licence period in which it is granted, unless it is cancelled, or stops being in force for any other reason, before then.
 
              (3)  An essential uses licence or a used substances licence stays in force until the end of the licence period in which it is granted, or of any shorter period specified in it, unless it is cancelled, or stops being in force for any other reason, before then.
-
-             (4)  A pre‑charged equipment licence stays in force:
-
-                     (a)  for a period of 2 years beginning at the start of the day the licence comes into force; or
-
-                     (b)  if a shorter period is specified in, or ascertained in accordance with, the licence—for that period;
-
-unless it is cancelled, or stops being in force for any other reason, before then.
 
 ##### <a id="19A"></a>19A  Termination of licences
 
@@ -1066,35 +832,15 @@ Note:          Section 18 deals with variation of the condit
 
              (2)  Without limiting, by implication, the generality of the matters which the Minister may take into account in determining whether a person is a fit and proper person for the purposes of subsection (1), the Minister shall have regard to:
 
-                    (aa)  any civil penalty order made against the person for a contravention of a civil penalty provision, where the contravention occurred within the immediately preceding 10 years; and
+                     (a)  any conviction of the person for an offence against this Act or the regulations committed within the immediately preceding 10 years;
 
-                     (a)  any conviction of the person for an offence against this Act or the regulations committed within the immediately preceding 10 years; and
+                     (b)  any conviction of the person for an offence against a law of the Commonwealth, of a State or of a Territory that is punishable by imprisonment for a period of 6 months or longer, being an offence committed within the immediately preceding 10 years;
 
-                     (b)  any conviction of the person for an offence against a law of the Commonwealth, of a State or of a Territory that is punishable by imprisonment for a period of 6 months or longer, being an offence committed within the immediately preceding 10 years; and
+                     (c)  whether the person is bankrupt, has applied to take the benefit of any law for the relief of bankrupt or insolvent debtors, has compounded with creditors or has made an assignment of remuneration for their benefit;
 
-                   (ba)  if the person is a body corporate—any civil penalty order made against an executive officer of the body corporate for a contravention of a civil penalty provision, where the contravention occurred within the immediately preceding 10 years; and
+                     (d)  any statement by the person, in an application under this Act, that was false or misleading in a material particular; and
 
-                   (bb)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against this Act or the regulations committed within the immediately preceding 10 years; and
-
-                   (bc)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against a law of the Commonwealth, of a State or of a Territory that is punishable by imprisonment for a period of 6 months or longer, where the offence was committed within the immediately preceding 10 years; and
-
-                     (c)  whether the person is bankrupt, has applied to take the benefit of any law for the relief of bankrupt or insolvent debtors, has compounded with creditors or has made an assignment of remuneration for their benefit; and
-
-                    (ca)  if the person is a body corporate—whether an executive officer of the body corporate is bankrupt, has applied to take the benefit of any law for the relief of bankrupt or insolvent debtors, has compounded with creditors or has made an assignment of remuneration for their benefit; and
-
-                     (d)  any statement by the person, in an application under this Act or the regulations, that was false or misleading in a material particular; and
-
-                     (e)  where any statement by the person in such an application was false or misleading in a material particular—whether the person knew that the statement was false or misleading; and
-
-                      (f)  if the person is a body corporate—any statement made by an executive officer of the body corporate in an application under this Act or the regulations that was false or misleading in a material particular; and
-
-                     (g)  if:
-
-                              (i)  the person is a body corporate; and
-
-                             (ii)  a statement made by an executive officer of the body corporate in an application under this Act or the regulations was false or misleading in a material particular;
-
-                            whether the executive officer knew that the statement was false or misleading.
+                     (e)  where any statement by the person in such an application was false or misleading in a material particular—whether the person knew that the statement was false or misleading.
 
              (3)  A reference in subsection (2) to a conviction for an offence includes a reference to the making of an order under section 19B of the _Crimes Act 1914_ in relation to the offence.
 
@@ -1444,7 +1190,7 @@ Note:          Section 18 deals with variation of the condit
       2028, 2029</div>
   </td>
   <td>
-    <div>0.24</div>
+    <div>0.5</div>
   </td>
 </tr>
 <tr>
@@ -1472,8 +1218,6 @@ Note:          Section 18 deals with variation of the condit
                      (c)  specify the base year to be used in allocating HCFC quotas to licensees during the first HCFC quota period.
 
              (3)  The base year to be specified in a notice is the last calendar year before the excess year.
-
-             (4)  A notice under this section is not a legislative instrument.
 
 ##### <a id="27"></a>27  Application for quota
 
@@ -1537,7 +1281,7 @@ Note:          Section 18 deals with variation of the condit
 
              (1)  The size of an HCFC quota allocated to a licensee for a quota period is to be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00372/Html/1db7f735-b59a-4542-8c9f-02afb188d4c8_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00151/Html/8641beef-aa7b-4713-85a0-93bd445d75cc_files/image002.gif)
 
 where:
 
@@ -1563,7 +1307,7 @@ where:
 
                    In determining the amount of each reserve HCFC quota allocated for a year, or part of a year, the Minister must ensure that the sum of that amount and the amounts of all other reserve HCFC quotas allocated for that year, or any part of that year, is not more than the reserve HCFC quota limit for that year.
 
-##### <a id="33"></a>33  Reserve HCFC quotas: variation or revocation
+##### <a id="33"></a>33  Reserve HCFC quotas: variation or revocation
 
              (1)  The Minister may vary or revoke a reserve HCFC quota if satisfied that the exceptional circumstances on which its allocation was based have changed or no longer exist.
 
@@ -1639,25 +1383,15 @@ the unused part of the quota is taken to have been allocated to the transferee o
 
              (1)  A person to whom this Part applies shall not manufacture or import a product that contains scheduled substances, or uses scheduled substances in its operation, in contravention of a provision of Schedule 4.
 
-                    Penalty:  500 penalty units.
+                    Penalty:  50 penalty units.
 
              (2)  A person shall not, in the course of engaging in an activity to which this Part applies, manufacture or import a product that contains scheduled substances, or uses scheduled substances in its operation, in contravention of a provision of Schedule 4.
 
-                    Penalty:  500 penalty units.
+                    Penalty:  50 penalty units.
 
           (2A)  An offence under this section is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
-
-          (2B)  A person to whom this Part applies must not manufacture or import a product that contains scheduled substances, or uses scheduled substances in its operation, in contravention of a provision of Schedule 4.
-
-          (2C)  A person must not, in the course of engaging in an activity to which this Part applies, manufacture or import a product that contains scheduled substances, or uses scheduled substances in its operation, in contravention of a provision of Schedule 4.
-
-          (2D)  Subsections (2B) and (2C) are **_civil penalty provisions_**.
-
-Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
-
-Note 2:       For maximum penalty, see subsection 65AC(4).
 
              (3)  Schedule 4 shall not be read as imposing obligations on a person who is not a person to whom this Part applies except to the extent that the person is engaging in an activity to which this Part applies.
 
@@ -1735,10 +1469,6 @@ Note 2:       For maximum penalty, see subsection 65AC(4).
 
                      (c)  products manufactured using scheduled substances.
 
-          (2A)  The Minister may remove a country from the Register.
-
-          (2B)  If a substance is listed in the Register in relation to a country, the Minister may remove the substance from the Register in relation to that country.
-
              (3)  For the purposes of this Part, a country is a **_non‑Montreal Protocol country_** at a particular time for a particular substance if the country is not listed in the Register at that time for that substance.
 
 Example:    If a country is listed in the Register for substance A but not for substance B (both being stage‑1 scheduled substances), then subsection 44(1) prohibits the import of substance B from that country but does not apply to the import of substance A from that country.
@@ -1747,13 +1477,11 @@ Example:    If a country is listed in the Register for substance A but not
 
              (5)  The Minister may give a written certificate stating that a specified country was, or was not, on a specified date, listed in the Register for a specified substance. The certificate is prima facie evidence of the matters stated in the certificate.
 
-             (6)  The Register is not a legislative instrument.
-
 ##### <a id="44"></a>44  Import of products containing scheduled substances from non‑Montreal Protocol countries
 
              (1)  On and after the implementation day for this subsection, a person shall not import from a non‑Montreal Protocol country a product containing a stage‑1 scheduled substance.
 
-                    Penalty:  300 penalty units.
+                    Penalty:  100 penalty units.
 
           (1A)  An offence under subsection (1) is an offence of strict liability.
 
@@ -1761,43 +1489,27 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  The implementation day for subsection (1) is the day fixed by the Minister as the day on which, in order for Australia to comply with its international obligations under paragraph 3 of Article 4 of the Montreal Protocol, the prohibition in subsection (1) must take effect.
 
-          (2A)  A person must not import from a non‑Montreal Protocol country a product containing a stage‑1 scheduled substance.
+             (3)  Subsection (1) applies to a product declared by the Minister to be a product to which subsection (1) applies, being a product listed in the annex referred to in paragraph 3 of Article 4 of the Montreal Protocol.
 
-          (2B)  Subsection (2A) is a **_civil penalty provision_**.
-
-Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
-
-Note 2:       For maximum penalty, see subsection 65AC(4).
-
-             (3)  Subsections (1) and (2A) apply to a product declared, in writing, by the Minister to be a product to which subsections (1) and (2A) apply, being a product listed in the annex referred to in paragraph 3 of Article 4 of the Montreal Protocol.
-
-             (4)  The fixing of a day under subsection (2) shall be by notice published in the _Gazette_.
+             (4)  The fixing of a day under subsection (2) or the declaration of a product under subsection (3) shall be by notice published in the _Gazette_.
 
              (5)  On and after the 3rd anniversary of the commencement of this subsection, a person must not import from a non‑Montreal Protocol country a product containing a stage‑2 scheduled substance.
 
-                    Penalty:  300 penalty units.
+                    Penalty:  100 penalty units.
 
           (5A)  An offence under subsection (5) is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-          (5B)  A person must not import from a non‑Montreal Protocol country a product containing a stage‑2 scheduled substance.
+             (6)  Subsection (5) applies to a product declared by the Minister to be a product to which subsection (5) applies, being a product listed in the annex referred to in paragraph 3 _bis_ of Article 4 of the Montreal Protocol.
 
-          (5C)  Subsection (5B) is a **_civil penalty provision_**.
-
-Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
-
-Note 2:       For maximum penalty, see subsection 65AC(4).
-
-             (6)  Subsections (5) and (5B) apply to a product declared, in writing, by the Minister to be a product to which subsections (5) and (5B) apply, being a product listed in the annex referred to in paragraph 3 _bis_ of Article 4 of the Montreal Protocol.
-
-             (7)  A declaration under subsection (3) or (6) is a legislative instrument.
+             (7)  The declaration of a product under subsection (6) is to be by notice published in the _Gazette_.
 
 ##### <a id="45"></a>45  Import of products manufactured using scheduled substances from non‑Montreal Protocol countries
 
              (1)  On and after the implementation day for this subsection, a person shall not import from a non‑Montreal Protocol country a product in the manufacture of which a stage‑1 scheduled substance was used.
 
-                    Penalty:  300 penalty units.
+                    Penalty:  100 penalty units.
 
           (1A)  An offence under subsection (1) is an offence of strict liability.
 
@@ -1805,45 +1517,29 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  The implementation day for subsection (1) is the day fixed by the Minister as the day on which, in order for Australia to comply with its international obligations under paragraph 4 of Article 4 of the Montreal Protocol, the prohibition in subsection (1) must take effect.
 
-          (2A)  A person must not import from a non‑Montreal Protocol country a product in the manufacture of which a stage‑1 scheduled substance was used.
-
-          (2B)  Subsection (2A) is a **_civil penalty provision_**.
-
-Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
-
-Note 2:       For maximum penalty, see subsection 65AC(4).
-
-             (3)  Subsections (1) and (2A) apply to a product declared, in writing, by the Minister to be a product to which subsections (1) and (2A) apply, being a product listed in the annex referred to in paragraph 4 of Article 4 of the Montreal Protocol.
+             (3)  Subsection (1) applies to a product declared by the Minister to be a product to which subsection (1) applies, being a product listed in the annex referred to in paragraph 4 of Article 4 of the Montreal Protocol.
 
           (3A)  On and after the 5th anniversary of the commencement of this subsection, a person must not import from a non‑Montreal Protocol country a product in the manufacture of which a stage‑2 scheduled substance was used.
 
-                    Penalty:  300 penalty units.
+                    Penalty:  100 penalty units.
 
        (3AA)  An offence under subsection (3A) is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-       (3AB)  A person must not import from a non‑Montreal Protocol country a product in the manufacture of which a stage‑2 scheduled substance was used.
+          (3B)  Subsection (3A) applies to a product declared by the Minister to be a product to which subsection (3A) applies, being a product listed in the annex referred to in paragraph 4 _bis_ of Article 4 of the Montreal Protocol.
 
-       (3AC)  Subsection (3AB) is a **_civil penalty provision_**.
-
-Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
-
-Note 2:       For maximum penalty, see subsection 65AC(4).
-
-          (3B)  Subsections (3A) and (3AB) apply to a product declared, in writing, by the Minister to be a product to which subsections (3A) and (3AB) apply, being a product listed in the annex referred to in paragraph 4 _bis_ of Article 4 of the Montreal Protocol.
-
-             (4)  Subsections (1), (2A), (3A) and (3AB) do not apply to an importation of a product, of a kind referred to in subsection (3) or (3B), as the case requires, in accordance with conditions determined, in writing, by the Minister as the conditions under which importation of the product will be permitted.
+             (4)  Subsections (1) and (3A) do not apply to an importation of a product, of a kind referred to in subsection (3) or (3B), as the case requires, in accordance with conditions determined by the Minister as the conditions under which importation of the product will be permitted.
 
              (5)  The Minister shall not determine conditions that are inconsistent with Australia’s international obligations under paragraph 4 of Article 4 of the Montreal Protocol.
 
-             (6)  The fixing of a day under subsection (2) shall be by notice published in the _Gazette_.
+             (6)  The fixing of a day under subsection (2), the declaration of a product under subsection (3) or (3B) or the determination of conditions under subsection (4) shall be by notice published in the _Gazette_.
 
-             (7)  A declaration under subsection (3) or (3B) is a legislative instrument.
+             (7)  A notice determining conditions under subsection (4) is a disallowable instrument within the meaning of section 46A of the _Acts Interpretation Act 1901_.
 
-             (8)  A determination under subsection (4) is a legislative instrument.
+             (8)  Section 48 of the _Acts Interpretation Act 1901_ applies to a notice under subsection (4) as if paragraph (1)(b) of section 48 were omitted and the following paragraph substituted:
 
-             (9)  Despite the _Legislative Instruments Act 2003_, a determination under subsection (4) of this section takes effect at the start of the first day on which the determination is no longer liable to be disallowed, or to be taken to have been disallowed, under that Act.
+                   “(b)  subject to this section, shall take effect on the first day on which the notice is no longer liable to be disallowed, or to be deemed to be disallowed, under this section; and”.
 
 ## Part VIA—Controls on disposal, use etc. of scheduled substances
 
@@ -1877,31 +1573,15 @@ Note 2:       For maximum penalty, see subsection 65AC(4).
 
                      (e)  the discharge is not in accordance with the regulations.
 
-                    Penalty:  300 penalty units.
+                    Penalty:  100 penalty units.
 
              (2)  Strict liability applies to subsection (1).
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-          (2A)  A person must not engage in conduct if:
+             (3)  Subsection (1) does not apply if the discharge occurs when a product containing a scheduled substance is being used for its designed purpose. If the product concerned is a halon fire extinguisher, then its use during a training exercise is treated as not being use for its designed purpose.
 
-                     (a)  the conduct results in the discharge of a scheduled substance; and
-
-                     (b)  the discharge occurs in circumstances where it is likely that the scheduled substance will enter the atmosphere; and
-
-                     (c)  the discharge is not in accordance with the regulations.
-
-          (2B)  Subsection (2A) is a **_civil penalty provision_**.
-
-Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
-
-Note 2:       For maximum penalty, see subsection 65AC(4).
-
-             (3)  Subsections (1) and (2A) do not apply if the discharge occurs when a product containing a scheduled substance is being used for its designed purpose. If the product concerned is a halon fire extinguisher, then its use during a training exercise is treated as not being use for its designed purpose.
-
-Note:          A defendant in criminal proceedings bears an evidential burden in relation to the matter in subsection (3): see subsection 13.3(3) of the _Criminal Code_.
-
-          (3A)  A person who wishes to rely on subsection (3) of this section in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3): see subsection 13.3(3) of the _Criminal Code_.
 
              (4)  In this section:
 
@@ -1915,7 +1595,7 @@ Note:          A defendant in criminal proceedings bears an ev
 
 ##### <a id="46"></a>46  Quarterly reports by manufacturers, importers and exporters of scheduled substances and pre‑charged equipment
 
-             (1)  Each person who manufactured, imported or exported a scheduled substance during a quarter occurring after the commencement of this section must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations specifying the following:
+             (1)  Each person who manufactured, imported or exported a scheduled substance during a quarter occurring after the commencement of this section must, within 15 days after the end of the quarter, give the Minister a report, in accordance with a form approved by the Minister, specifying the following:
 
                      (a)  the quantity of each scheduled substance manufactured by the person during the quarter;
 
@@ -1939,9 +1619,9 @@ Note:          A defendant in criminal proceedings bears an ev
 
                      (b)  a scheduled substance in pre‑charged equipment.
 
-          (1B)  If a person imports or exports an SGG in a quarter commencing more than 3 months after the commencement of this subsection, the person must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
+          (1B)  If a person imports or exports an SGG in a quarter commencing more than 3 months after the commencement of this subsection, the person must, within 15 days after the end of the quarter, give the Minister a report in accordance with the regulations.
 
-       (1BA)  A person who manufactures an SGG in a quarter commencing more than 3 months after the commencement of this subsection must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
+       (1BA)  A person who manufactures an SGG in a quarter commencing more than 3 months after the commencement of this subsection must, within 15 days after the end of the quarter, give the Minister a report in accordance with the regulations.
 
           (1C)  If:
 
@@ -1949,17 +1629,17 @@ Note:          A defendant in criminal proceedings bears an ev
 
                      (b)  the equipment is not covered by paragraph 68(1)(d) of the _Customs Act 1901_;
 
-then the person must, before the 15th day after the end of the quarter, give the Minister a report in accordance with the regulations.
+then the person must, within 15 days after the end of the quarter, give the Minister a report in accordance with the regulations.
 
 Note:          Paragraph 68(1)(d) of the _Customs Act 1901_ covers personal or household effects of a passenger, or a member of a crew, of a ship or aircraft.
 
              (2)  A person must not contravene subsection (1).
 
-                    Penalty:  60 penalty units.
+                    Penalty:  100 penalty units.
 
        (2AA)  A person must not contravene subsection (1B), (1BA) or (1C).
 
-                    Penalty:  60 penalty units.
+                    Penalty:  10 penalty units.
 
           (2A)  An offence under subsection (2) or (2AA) is an offence of strict liability.
 
@@ -1968,20 +1648,6 @@ Note:          For **_strict liability_**, see section 6.1 o
           (2B)  Subsection (2) or (2AA) does not apply if the person has a reasonable excuse.
 
 Note:          The defendant bears an evidential burden in relation to the matter in subsection (2B). See subsection 13.3(3) of the _Criminal Code_.
-
-          (2C)  A person must not contravene subsection (1).
-
-          (2D)  A person must not contravene subsection (1B), (1BA) or (1C).
-
-          (2E)  Subsections (2C) and (2D) are **_civil penalty provisions_**.
-
-Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
-
-Note 2:       For maximum penalty, see subsection 65AC(4).
-
-           (2F)  Subsections (2C) and (2D) do not apply if the person has a reasonable excuse.
-
-          (2G)  A person who wishes to rely on subsection (2F) of this section in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
 
              (3)  If:
 
@@ -1999,9 +1665,7 @@ the person’s report must say so.
 
 ## Part VIII—Enforcement
 
-### Division 1—Powers of inspectors
-
-#### Subdivision A—Inspectors
+### Division 1—Inspectors
 
 ##### <a id="48A"></a>48A  Meaning of _inspector_
 
@@ -2031,14 +1695,6 @@ the person’s report must say so.
 
              (2)  The Minister shall not appoint an officer or employee of the Public Service of a State or Territory, or a member of the Police Force of a State or Territory, as an inspector unless the appointment is in accordance with an arrangement made by the Minister with a Minister of that State or Territory.
 
-             (3)  The Minister must not appoint a person as an inspector unless the Minister is satisfied that the person has suitable qualifications and experience to properly exercise the powers of an inspector.
-
-##### <a id="49A"></a>49A  Directions to inspectors
-
-             (1)  An inspector must, in exercising powers as an inspector, comply with any directions of the Minister.
-
-             (2)  If a direction is given under subsection (1) in writing, the direction is not a legislative instrument.
-
 ##### <a id="50"></a>50  Identity cards
 
              (1)  The Minister may cause an identity card to be issued to each appointed inspector.
@@ -2053,557 +1709,105 @@ the person’s report must say so.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-#### Subdivision B—Monitoring powers
+##### <a id="51"></a>51  Searches to monitor compliance with Act etc.
 
-##### <a id="51"></a>51  Searches to monitor compliance with Act etc.
+             (1)  Subject to subsections (2) and (3), an inspector may, to the extent that it is reasonably necessary for the purpose of ascertaining whether this Act or the regulations have been complied with, enter, at any time during the day or night, any premises that the inspector has reasonable cause to believe are premises to which this section applies and:
 
-             (1)  Subject to subsections (2) and (3), an inspector may, to the extent that it is reasonably necessary for the purpose of ascertaining whether this Act or the regulations have been complied with, enter, at any time during the day or night, any premises and exercise the monitoring powers set out in section 51A.
+                     (a)  search the premises;
+
+                     (b)  take photographs, or make sketches, of the premises or any substance or thing at the premises;
+
+                     (c)  inspect any book, record or document kept at the premises; or
+
+                     (d)  remove, or make copies of, any such book, record or document.
 
              (2)  An inspector may not, under subsection (1), enter premises that are a residence unless the occupier of the premises has consented to the entry.
 
-             (3)  An inspector is not entitled to enter premises under subsection (1) of this section, or exercise the monitoring powers set out in section 51A in relation to premises, if:
+             (3)  An inspector is not entitled to exercise any powers under subsection (1) in relation to premises if:
 
                      (a)  the occupier of the premises has required the inspector to produce, for the occupier’s inspection, evidence of the inspector’s identity; and
 
                      (b)  the inspector fails to produce his or her identity card, or written evidence identifying the inspector as a member or special member of the Australian Federal Police or an officer of Customs, as the case may be.
 
-##### <a id="51A"></a>51A  Monitoring powers of inspectors
+             (4)  This section applies to premises at which:
 
-General powers
+                     (a)  quota activities are engaged in;
 
-             (1)  The following are the **_monitoring powers_** that an inspector may exercise in relation to premises under section 51:
+                     (b)  activities that are the subject of regulation under Part V are engaged in; or
 
-                     (a)  to search the premises and any thing on the premises;
+                     (c)  records relating to any such activities are kept.
 
-                     (b)  to inspect, examine, take measurements of, conduct tests on, or take samples of, any gas or other substance on the premises;
+##### <a id="52"></a>52  Offence‑related searches and seizures
 
-                     (c)  to take photographs, make video or audio recordings or make sketches of the premises or any thing on the premises;
+             (1)  Where an inspector has reasonable grounds for suspecting that there may be on any premises a particular thing that may afford evidence as to the commission of an offence against this Act or the regulations, the inspector may:
 
-                     (d)  to inspect any book, record or document on the premises;
+                     (a)  with the consent of the occupier of the land or premises; or
 
-                     (e)  to remove, take extracts from, or make copies of, any such book, record or document;
+                     (b)  under a warrant issued under subsection (2);
 
-                      (f)  to take onto the premises such equipment and materials as the inspector requires for the purpose of exercising powers in relation to the premises;
+enter the premises, and:
 
-                     (g)  the powers set out in subsections (2), (3) and (5).
+                     (c)  search the premises for the thing; and
 
-Operating electronic equipment
+                     (d)   if the inspector finds the thing on or in the premises—seize the thing.
 
-             (2)  The monitoring powers include the power to operate electronic equipment at premises to find out whether:
+             (2)  Where an information on oath is laid before a Magistrate alleging that there are reasonable grounds for suspecting that there may be upon or in any premises a particular thing that may afford evidence as to the commission of an offence against this Act or the regulations and the information sets out those grounds, the Magistrate may issue a search warrant in accordance with the form prescribed for the purposes of this subsection authorising an inspector named in the warrant, with such assistance, and by such force, as is necessary and reasonable, to enter the premises and exercise the powers referred to in paragraphs (1)(c) and (d) in respect of the thing.
 
-                     (a)  the equipment; or
+             (3)  A Magistrate shall not issue a warrant under subsection (2) unless:
 
-                     (b)  a disk, tape or other storage device that:
+                     (a)  the informant or some other person has given to the Magistrate, either orally or by affidavit, such further information (if any) as the Magistrate requires concerning the grounds on which the issue of the warrant is being sought; and
 
-                              (i)  is on the premises; and
+                     (b)  the Magistrate is satisfied that there are reasonable grounds for issuing the warrant.
 
-                             (ii)  can be used with the equipment or is associated with it;
+             (4)  There shall be stated in a warrant issued under subsection (2):
 
-contains information that is relevant to ascertaining whether this Act or the regulations have been complied with.
+                     (a)  the purpose for which the warrant is issued, and the nature of the offence in relation to which the entry and search are authorised;
 
-             (3)  The monitoring powers include the following powers in relation to information described in subsection (2) found in the exercise of the power under that subsection:
+                     (b)  whether entry is authorised to be made at any time of the day or night or during specified hours of the day or night;
 
-                     (a)  to operate electronic equipment at the premises to put the information in documentary form and remove the documents so produced from the premises;
+                     (c)  a description of the kind of documents, substances, equipment or things to be seized; and
 
-                     (b)  to operate electronic equipment at the premises to transfer the information to a disk, tape or other storage device that:
+                     (d)  a day, not being later than one month after the day of issue of the warrant, upon which the warrant ceases to have effect.
 
-                              (i)  is brought to the premises for the exercise of the power; or
+             (5)  If, in the course of searching, under a warrant issued under this section, for a particular thing in relation to a particular offence, an inspector finds a thing that the inspector believes, on reasonable grounds, to be:
 
-                             (ii)  is at the premises and the use of which for the purpose has been agreed to in writing by the occupier of the premises or a person apparently representing the occupier;
+                     (a)  a thing that will afford evidence as to the commission of the offence, although not the thing specified in the warrant; or
 
-                            and remove the disk, tape or other storage device from the premises.
+                     (b)  a thing that will afford evidence as to the commission of another offence under this Act or the regulations;
 
-             (4)  An inspector must not operate electronic equipment as mentioned in subsection (2) or (3) unless he or she believes on reasonable grounds that the operation of the equipment can be carried out without damage to the equipment.
+and the inspector believes, on reasonable grounds, that it is necessary to seize that thing in order to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating the offence or the other offence, the warrant shall be taken to authorise the inspector to seize that thing.
 
-Securing things if entry to the premises is with the consent of the occupier etc.
+             (6)  Where an inspector seizes any thing under subsection (1), the inspector may retain the thing until the expiration of a period of 60 days after the seizure or, if proceedings for an offence against this Act or the regulations in respect of which the thing may afford evidence are instituted within that period, until the proceedings (including any appeal to a court in relation to those proceedings) are completed.
 
-             (5)  The monitoring powers include the power to secure a thing on the premises for not more than 24 hours if:
+             (7)  The Minister may authorise any thing seized under subsection (1) to be released to the owner, or to the person from whom the thing was seized, either unconditionally or on such conditions as the Minister thinks fit.
 
-                     (a)  the thing is found on the premises during the exercise of monitoring powers under subsection (1); and
+##### <a id="53"></a>53  Warrants may be granted by telephone
 
-                     (b)  the occupier of the premises, or another person who apparently represents the occupier, consents to the inspector entering the premises; and
+             (1)  Where, because of circumstances of urgency, an inspector considers it necessary to do so, the inspector may make an application for a warrant under subsection 52(2), by telephone, in accordance with this section.
 
-                     (c)  the inspector believes, on reasonable grounds, that:
+             (2)  Before so making application, an inspector shall prepare an information of a kind referred to in subsection 52(2) that sets out the grounds on which the issue of the warrant is being sought, but may, if it is necessary to do so, make the application before the information has been sworn.
 
-                              (i)  the thing affords evidence as to the commission of an offence against this Act or the regulations, as to a contravention of a civil penalty provision, or as to both; and
+             (3)  Where a Magistrate to whom an application under subsection (1) is made is satisfied:
 
-                             (ii)  it is necessary to secure the thing in order to prevent it from being concealed, lost or destroyed before a warrant to seize the thing is obtained.
+                     (a)  after having considered the terms of the information prepared in accordance with subsection (2); and
 
-             (6)  The inspector must not exercise the power under subsection (5) unless the inspector has given the occupier of the premises, or another person who apparently represents the occupier, a written notice that specifies the thing that the inspector intends to secure.
+                     (b)  after having received such further information (if any) as the Magistrate requires concerning the grounds on which the issue of the warrant is being sought;
 
-             (7)  If an inspector believes on reasonable grounds that the thing needs to be secured for more than 24 hours, he or she may apply to a magistrate for an extension of that period.
+that there are reasonable grounds for issuing the warrant, the Magistrate shall complete and sign such a search warrant as the Magistrate would issue under section 52 if the application had been made in accordance with that section.
 
-             (8)  The inspector must give notice to the occupier of the premises, or another person who apparently represents the occupier, of his or her intention to apply for an extension. The occupier is entitled to be heard in relation to that application.
+             (4)  Where a Magistrate signs a warrant under subsection (3):
 
-             (9)  The 24 hour period may be extended more than once.
+                     (a)  the Magistrate shall inform the inspector of the terms of the warrant and the date on which and the time at which it was signed, and record on the warrant the reasons for the granting of the warrant; and
 
-Offence
+                     (b)  the inspector shall complete a form of warrant in the terms furnished to the inspector by the Magistrate and write on it the name of the Magistrate and the date on which and the time at which the warrant was signed.
 
-           (10)  A person commits an offence if:
+             (5)  Where an inspector completes a form of warrant in accordance with subsection (4), the inspector shall, not later than the day after the date of expiry or execution, whichever is the earlier, of the warrant, forward to the Magistrate who signed the warrant the form of warrant completed by the inspector and the information duly sworn in connection with the warrant.
 
-                     (a)  an inspector has given the occupier of premises, or another person who apparently represents the occupier of premises, a notice under subsection (6); and
+             (6)  Upon receipt of the documents referred to in subsection (5), the Magistrate shall attach to them the warrant signed by the Magistrate and deal with the documents in the manner in which the Magistrate would have dealt with the information if the application for the warrant had been made in accordance with section 52.
 
-                     (b)  the notice specifies a thing; and
+             (7)  A form of warrant duly completed by an inspector in accordance with subsection (4) is, if it is in accordance with the terms of the warrant signed by the Magistrate, authority for any entry, search, seizure or other exercise of a power that the warrant so signed authorises.
 
-                     (c)  the person moves, alters or interferes with the thing specified in the notice.
-
-                    Penalty for contravention of this subsection:        Imprisonment for 2 years.
-
-##### <a id="51B"></a>51B  Persons assisting inspectors—monitoring powers
-
-Inspectors may be assisted by other persons
-
-             (1)  An inspector may, in entering premises under section 51 and in exercising the monitoring powers set out in the following provisions in relation to the premises:
-
-                     (a)  paragraph 51A(1)(a);
-
-                     (b)  paragraph 51A(1)(b);
-
-                     (c)  paragraph 51A(1)(c);
-
-                     (d)  paragraph 51A(1)(f);
-
-                     (e)  subsection 51A(2);
-
-                      (f)  subsection 51A(3);
-
-be assisted by other persons if that assistance is necessary and reasonable.
-
-             (2)  For the purposes of this section, a person giving such assistance is a **_person assisting_** the inspector.
-
-Powers of a person assisting the inspector
-
-             (3)  A person assisting the inspector may:
-
-                     (a)  enter the premises; and
-
-                     (b)  exercise the monitoring powers set out in the following provisions in relation to the premises:
-
-                              (i)  paragraph 51A(1)(a);
-
-                             (ii)  paragraph 51A(1)(b);
-
-                            (iii)  paragraph 51A(1)(c);
-
-                            (iv)  paragraph 51A(1)(f);
-
-                             (v)  subsection 51A(2);
-
-                            (vi)  subsection 51A(3);
-
-                            but only in accordance with a direction given to the person by the inspector.
-
-             (4)  A power exercised by a person assisting the inspector as mentioned in subsection (3) is taken for all purposes to have been exercised by the inspector.
-
-             (5)  If a direction is given under paragraph (3)(b) in writing, the direction is not a legislative instrument.
-
-#### Subdivision C—Enforcement powers
-
-##### <a id="52"></a>52  Inspector may enter premises with consent or under enforcement warrant
-
-             (1)  If an inspector has reasonable grounds for suspecting that there may be evidential material on any premises, the inspector may:
-
-                     (a)  enter the premises; and
-
-                     (b)  exercise the enforcement powers set out in section 53.
-
-             (2)  However, an inspector is not authorised to enter the premises unless:
-
-                     (a)  the occupier of the premises, or a person apparently representing the occupier, has consented to the entry; or
-
-                     (b)  the entry is made under an enforcement warrant.
-
-Note:          For enforcement warrants, see sections 55E and 55F.
-
-##### <a id="53"></a>53  Enforcement powers of inspectors
-
-General powers
-
-             (1)  The following are the **_enforcement powers_** that an inspector may exercise in relation to premises under section 52:
-
-                     (a)  to search the premises and any thing on the premises for the evidential material;
-
-                     (b)  to inspect, examine, take measurements of, conduct tests on, or take samples of the evidential material;
-
-                     (c)  to take photographs, make video or audio recordings or make sketches of the premises or the evidential material;
-
-                     (d)  to take onto the premises such equipment and materials as the inspector requires for the purpose of exercising powers in relation to the premises;
-
-                     (e)  the powers in subsections (2), (3), (4), (8) and (9).
-
-Power to seize
-
-             (2)  If the entry is under an enforcement warrant, the enforcement powers include the power to seize the evidential material if the inspector finds it on the premises.
-
-Note:          For enforcement warrants, see sections 55E and 55F.
-
-Operation of equipment
-
-             (3)  The enforcement powers include the power to operate electronic equipment at premises to find out whether:
-
-                     (a)  the equipment; or
-
-                     (b)  a disk, tape or other storage device that:
-
-                              (i)  is on the premises; and
-
-                             (ii)  can be used with the equipment or is associated with it;
-
-contains evidential material.
-
-Removing documents and disks etc.
-
-             (4)  The enforcement powers include the following powers in relation to evidential material found in the exercise of the power under subsection (3):
-
-                     (a)  to seize the equipment and any disk, tape or other associated device;
-
-                     (b)  to operate electronic equipment at the premises to put the information in documentary form and seize the documents so produced;
-
-                     (c)  to operate electronic equipment at the premises to transfer the information to a disk, tape or other storage device that:
-
-                              (i)  is brought to the premises for the exercise of the power; or
-
-                             (ii)  is at the premises and the use of which for the purpose has been agreed to in writing by the occupier of the premises, or another person who apparently represents the occupier;
-
-                            and remove the disk, tape or other storage device from the premises.
-
-How powers to be exercised
-
-             (5)  An inspector must not operate electronic equipment as mentioned in subsection (3) or (4) unless he or she believes on reasonable grounds that the operation of the equipment can be carried out without damage to the equipment.
-
-Seizing equipment
-
-             (6)  An inspector must not seize equipment under paragraph (4)(a) unless:
-
-                     (a)  it is not practicable to put the material in documentary form as mentioned in paragraph (4)(b) or to transfer the material as mentioned in paragraph (4)(c); or
-
-                     (b)  possession by the occupier of the equipment could constitute an offence against a law of the Commonwealth.
-
-             (7)  An inspector must not seize equipment under paragraph (4)(a) or documents under paragraph (4)(b) unless the inspector entered the premises under an enforcement warrant.
-
-Seizing other evidential material
-
-             (8)  If:
-
-                     (a)  in the course of searching for a particular thing, in accordance with an enforcement warrant, an inspector finds another thing that the inspector believes on reasonable grounds to be evidential material; and
-
-                     (b)  the inspector believes, on reasonable grounds, that it is necessary to seize the other thing in order to prevent its concealment, loss or destruction, or its use:
-
-                              (i)  in committing, continuing or repeating an offence against this Act or the regulations; or
-
-                             (ii)  in committing, continuing or repeating a contravention of a civil penalty provision;
-
-the enforcement powers include the power to seize that other thing.
-
-Seizing containers
-
-             (9)  If:
-
-                     (a)  an inspector has a power to seize a thing (the **_seizable thing_**) under subsection (2), (4) or (8); and
-
-                     (b)  the seizable thing is in a container; and
-
-                     (c)  the inspector believes, on reasonable grounds, that it is not reasonably practicable to seize the seizable thing without also seizing the container;
-
-then, for the purposes of seizing the seizable thing, the enforcement powers include the power to seize the container containing the seizable thing (whether or not the container also contains any other thing).
-
-           (10)  If the seizable thing is returned under section 53G or 60B, the container must be returned at the same time as the seizable thing.
-
-           (11)  If the seizable thing is forfeited to the Commonwealth, the container must be returned as soon as reasonably practicable after the forfeiture.
-
-Note:          For forfeiture, see Division 3.
-
-##### <a id="53A"></a>53A  Persons assisting inspectors—enforcement powers
-
-Inspectors may be assisted by other persons
-
-             (1)  An inspector may, in entering premises under section 52 and in exercising the enforcement powers set out in the following provisions in relation to the premises:
-
-                     (a)  paragraph 53(1)(a);
-
-                     (b)  paragraph 53(1)(b);
-
-                     (c)  paragraph 53(1)(c);
-
-                     (d)  paragraph 53(1)(d);
-
-                     (e)  subsection 53(3);
-
-                      (f)  subsection 53(4);
-
-be assisted by other persons if that assistance is necessary and reasonable.
-
-             (2)  For the purposes of this section, a person giving such assistance is a **_person assisting_** the inspector.
-
-Powers of a person assisting the inspector
-
-             (3)  A person assisting the inspector may:
-
-                     (a)  enter the premises; and
-
-                     (b)  exercise the enforcement powers set out in the following provisions:
-
-                              (i)  paragraph 53(1)(a);
-
-                             (ii)  paragraph 53(1)(b);
-
-                            (iii)  paragraph 53(1)(c);
-
-                            (iv)  paragraph 53(1)(d);
-
-                             (v)  subsection 53(3);
-
-                            (vi)  subsection 53(4);
-
-                            in relation to the premises, but only in accordance with a direction given to the person by the inspector.
-
-             (4)  A power exercised by a person assisting the inspector as mentioned in subsection (3) is taken for all purposes to have been exercised by the inspector.
-
-             (5)  If a direction is given under paragraph (3)(b) in writing, the direction is not a legislative instrument.
-
-##### <a id="53B"></a>53B  Announcement before entry under warrant
-
-             (1)  An inspector must, before entering premises under an enforcement warrant:
-
-                     (a)  announce that he or she is authorised to enter the premises; and
-
-                     (b)  show:
-
-                              (i)  his or her identity card; or
-
-                             (ii)  written evidence identifying the inspector as a member or special member of the Australian Federal Police or an officer of Customs;
-
-                            to the occupier of the premises, or another person apparently representing the occupier, if the occupier or other person is present at the premises; and
-
-                     (c)  give any person at the premises an opportunity to allow entry to the premises.
-
-             (2)  However, an inspector is not required to comply with subsection (1) if he or she believes on reasonable grounds that immediate entry to the premises is required:
-
-                     (a)  to prevent serious damage to the environment; or
-
-                     (b)  to ensure that the effective execution of the warrant is not frustrated.
-
-             (3)  If:
-
-                     (a)  an inspector is not required to comply with subsection (1) because of subsection (2); and
-
-                     (b)  the occupier of the premises, or another person apparently representing the occupier, is present at the premises;
-
-the inspector must, as soon as practicable after entering the premises, show:
-
-                     (c)  his or her identity card; or
-
-                     (d)  written evidence identifying the inspector as a member or special member of the Australian Federal Police or an officer of Customs;
-
-to the occupier or other person.
-
-##### <a id="53C"></a>53C  Details of warrant etc. to be given to occupier
-
-             (1)  If:
-
-                     (a)  an enforcement warrant is being executed in relation to premises; and
-
-                     (b)  the occupier of the premises, or another person apparently representing the occupier, is present at the premises;
-
-the inspector executing the warrant must, as soon as practicable, make a copy of the enforcement warrant available to the occupier or other person.
-
-             (2)  The copy need not include the signature of the magistrate who issued the enforcement warrant.
-
-#### Subdivision D—General provisions relating to seizure etc.
-
-##### <a id="53D"></a>53D  Receipts for seized things and seizure notice
-
-Receipts
-
-             (1)  If a thing is seized under section 53, the inspector must provide a receipt for the thing.
-
-             (2)  If 2 or more things are seized, they may be covered in the one receipt.
-
-Notice
-
-             (3)  The receipt must be accompanied by a notice that sets out, in summary form, an explanation of sections 53E, 53F, 53G, 53H, 53J, 53K and 53L.
-
-##### <a id="53E"></a>53E  Copies of seized things to be provided
-
-             (1)  If, under an enforcement warrant relating to premises, an inspector seizes:
-
-                     (a)  a document, film, computer file or other thing that can be readily copied; or
-
-                     (b)  a storage device, the information in which can be readily copied;
-
-the inspector must, if requested to do so by:
-
-                     (c)  the occupier of the premises; or
-
-                     (d)  another person who apparently represents the occupier and who is present when the warrant is executed;
-
-give a copy of the thing or the information to the occupier or other person as soon as practicable after the seizure.
-
-             (2)  However, subsection (1) does not apply if:
-
-                     (a)  the thing that has been seized was seized under paragraph 53(4)(b) or (c); or
-
-                     (b)  possession by the occupier of the document, film, computer file, thing or information could constitute an offence against a law of the Commonwealth.
-
-##### <a id="53F"></a>53F  Inspection of seized books, records or documents
-
-                   If:
-
-                     (a)  an inspector seizes a book, record or document under section 53; and
-
-                     (b)  the book, record or document is in the inspector’s possession;
-
-the inspector must permit a person who would be entitled to inspect the book, record or document if it were not in the inspector’s possession to inspect the book, record or document at all reasonable times.
-
-##### <a id="53G"></a>53G  Return of seized things
-
-             (1)  Subject to any contrary order of a court, if:
-
-                     (a)  an inspector seizes a thing under section 53; and
-
-                     (b)  a forfeiture notice has not been given in relation to the thing;
-
-the inspector must return it if:
-
-                     (c)  the reason for its seizure no longer exists or it is decided that it is not to be used in evidence; or
-
-                     (d)  the period of 60 days after its seizure ends;
-
-whichever first occurs, unless the thing is forfeited to the Commonwealth.
-
-Note:          For forfeiture, see Division 3.
-
-             (2)  At the end of the 60 days specified in subsection (1), an inspector must take reasonable steps to return the thing to the person from whom it was seized, unless:
-
-                     (a)  proceedings in respect of which the thing may afford evidence were instituted before the end of the 60 days and have not been completed (including an appeal to a court in relation to those proceedings); or
-
-                     (b)  an inspector may retain the thing because of an order under section 53H; or
-
-                     (c)  the owner of the thing consents to the thing not being returned; or
-
-                     (d)  to return the thing could cause an imminent risk of death, serious illness, serious injury or serious damage to the environment; or
-
-                     (e)  an inspector is otherwise authorised (by a law, or an order of a court, of the Commonwealth or of a State or Territory) to retain, destroy or dispose of the thing.
-
-##### <a id="53H"></a>53H  Magistrate may permit seized things to be retained
-
-             (1)  An inspector may apply to a magistrate for an order that he or she may retain the thing for a further period if:
-
-                     (a)  before the end of 60 days after the seizure; or
-
-                     (b)  before the end of a period previously specified in an order of a magistrate under this section;
-
-proceedings in respect of which the thing may afford evidence have not commenced.
-
-             (2)  If the magistrate is satisfied that it is necessary for an inspector to continue to retain the thing:
-
-                     (a)  for the purpose of an investigation as to whether:
-
-                              (i)  an offence against this Act or the regulations has been committed; or
-
-                             (ii)  a civil penalty provision has been contravened; or
-
-                     (b)  to enable:
-
-                              (i)  evidence of an offence against this Act or the regulations to be secured for the purpose of a prosecution; or
-
-                             (ii)  evidence of a contravention of a civil penalty provision to be secured for the purpose of civil proceedings;
-
-the magistrate may order that an inspector may retain the thing for a period (not exceeding 3 years) specified in the order.
-
-             (3)  Before making the application, the inspector must:
-
-                     (a)  take reasonable steps to discover who has an interest in the retention of the thing; and
-
-                     (b)  if it is practicable to do so, notify each person whom the inspector believes to have such an interest of the proposed application.
-
-##### <a id="53J"></a>53J  Powers to take samples and conduct tests
-
-Taking samples
-
-             (1)  If an inspector seizes gas or another substance under section 53, the inspector may arrange for samples to be taken of the gas or other substance by the inspector or another person.
-
-             (2)  The regulations may prescribe procedures for dealing with samples taken under this Division.
-
-             (3)  The regulations may provide for compensation to be paid for samples taken under this Division.
-
-Conducting tests
-
-             (4)  If a sample of gas or another substance is taken by an inspector under this Division, the inspector may arrange for tests to be conducted on the sample by the inspector or another person.
-
-             (5)  The regulations may prescribe procedures for the conduct of tests under this Division.
-
-Substantial compliance with procedures
-
-             (6)  The regulations may provide that:
-
-                     (a)  particular procedures prescribed for the purposes of this section need not be strictly complied with; and
-
-                     (b)  substantial compliance is sufficient.
-
-             (7)  However, subsection (6) does not apply to procedures for ensuring that a sample is not interfered with by anyone who is not authorised to do so.
-
-##### <a id="53K"></a>53K  Directions about how pressurised container is to be dealt with
-
-Scope
-
-             (1)  This section applies if an inspector seizes a pressurised container under section 53.
-
-Application for direction
-
-             (2)  The inspector may apply to the Minister or Secretary for a direction under subsection (3).
-
-Direction
-
-             (3)  If:
-
-                     (a)  the inspector applies to the Minister or Secretary for a direction under subsection (2); and
-
-                     (b)  the Minister or Secretary, as the case may be, is satisfied that the pressurised container constitutes a danger to public health and safety;
-
-the Minister or Secretary, as the case may be, may direct that the pressurised container must be dealt with in a manner specified in the direction.
-
-             (4)  A direction under subsection (3) may require the pressurised container and its contents to be destroyed.
-
-             (5)  Subsection (4) does not limit subsection (3).
-
-             (6)  The inspector must comply with a direction under subsection (3).
-
-             (7)  A direction under subsection (3) is not a legislative instrument.
-
-Compensation
-
-             (8)  If a pressurised container and its contents is destroyed under this section, the owner of the container may apply to a designated court for compensation.
-
-             (9)  On application under subsection (8), the designated court must order the Commonwealth to pay compensation if the court is satisfied that the pressurised container did not contain forfeitable goods.
-
-           (10)  The amount of compensation ordered must be the market value of the pressurised container and its contents at the time they were destroyed.
-
-##### <a id="53L"></a>53L  Disposal of goods if person cannot be located
-
-             (1)  If:
-
-                     (a)  a thing is seized under section 53; and
-
-                     (b)  apart from this section, the thing is required to be returned to a person; and
-
-                     (c)  the Secretary cannot, despite making reasonable efforts, locate the person;
-
-the Secretary may dispose of the thing, or cause the thing to be disposed of, in such manner as he or she thinks appropriate.
-
-             (2)  The Secretary may, by writing, delegate any or all of his or her powers under subsection (1) to an SES employee or acting SES employee.
-
-Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in the _Acts Interpretation Act 1901_.
-
-             (3)  A delegate must comply with any written directions of the Secretary.
-
-#### Subdivision E—Obligations and incidental powers of inspectors
-
-##### <a id="53M"></a>53M  Consent
-
-             (1)  An inspector must, before obtaining the consent of a person to enter premises under this Division, inform the person that he or she may refuse consent.
-
-             (2)  An entry of an inspector with the consent of a person is not lawful unless the person voluntarily consented to the entry.
+             (8)  Where it is material, in any proceedings, for a court to be satisfied that an entry, search, seizure or other exercise of power was authorised in accordance with this section, and the warrant signed by a Magistrate in accordance with this section authorising the entry, search, seizure or other exercise of power is not produced in evidence, the court shall assume, unless the contrary is proved, that the entry, search, seizure or other exercise of power was not authorised by such a warrant.
 
 ##### <a id="54"></a>54  Power to require information etc.
 
@@ -2611,347 +1815,13 @@ Note:          The expressions **_SES employee_** and **_actin
 
              (2)  An inspector is not entitled to make a requirement of a person under subsection (1) unless the inspector produces, for inspection by the person, his or her identity card, or written evidence identifying the inspector as a member or special member of the Australian Federal Police or an officer of Customs, as the case may be.
 
-##### <a id="55"></a>55  Inspection of books, records or documents removed by, or produced to, inspectors
+##### <a id="55"></a>55  Retention of books, records and documents
 
-                   If:
+                   Where an inspector removes a book, record or document from premises under subsection 51(1) or seizes a book, record or document under section 52 or a person produces a book, record or document to an inspector in accordance with a requirement under subsection 54(1):
 
-                     (a)  either:
+                     (a)  the inspector may retain possession of the book, record or document for such period as is necessary and reasonable for the purpose of ascertaining whether this Act or the regulations have been complied with; and
 
-                              (i)  an inspector removes a book, record or document under paragraph 51A(1)(e); or
-
-                             (ii)  a person produces a book, record or document to an inspector in compliance with a requirement under subsection 54(1); and
-
-                     (b)  the book, record or document is in the inspector’s possession;
-
-the inspector must permit a person who would be entitled to inspect the book, record or document if it were not in the inspector’s possession to inspect the book, record or document at all reasonable times.
-
-##### <a id="55A"></a>55A  Return of books, records or documents removed by, or produced to, inspectors
-
-             (1)  Subject to any contrary order of a court, if:
-
-                     (a)  either:
-
-                              (i)  an inspector removes a book, record or document under paragraph 51A(1)(e); or
-
-                             (ii)  a person produces a book, record or document to an inspector in compliance with a requirement under subsection 54(1); and
-
-                     (b)  the book, record or document is in the inspector’s possession;
-
-the inspector must return the book, record or document if:
-
-                     (c)  the reason for its removal or production no longer exists or it is decided that it is not to be used in evidence; or
-
-                     (d)  the period of 60 days after its removal or production ends;
-
-whichever first occurs, unless the book, record or document is forfeited to the Commonwealth.
-
-Note:          For forfeiture, see Division 3.
-
-             (2)  At the end of the 60 days specified in subsection (1), an inspector must take reasonable steps to return the book, record or document to the person from whom it was removed, or who produced it, unless:
-
-                     (a)  proceedings in respect of which the book, record or document may afford evidence were instituted before the end of the 60 days and have not been completed (including an appeal to a court in relation to those proceedings); or
-
-                     (b)  an inspector may retain the book, record or document because of an order under section 55B; or
-
-                     (c)  the owner of the book, record or document consents to it not being returned; or
-
-                     (d)  an inspector is otherwise authorised (by a law, or an order of a court, of the Commonwealth or of a State or Territory) to retain, destroy or dispose of the book, record or document.
-
-##### <a id="55B"></a>55B  Magistrate may permit books, records or documents to be retained
-
-             (1)  An inspector may apply to a magistrate for an order that he or she may retain the book, record or document for a further period if:
-
-                     (a)  before the end of 60 days after the removal or production of the book, record or document; or
-
-                     (b)  before the end of a period previously specified in an order of a magistrate under this section;
-
-proceedings in respect of which the book, record or document may afford evidence have not commenced.
-
-             (2)  If the magistrate is satisfied that it is necessary for an inspector to continue to retain the book, record or document:
-
-                     (a)  for the purpose of an investigation as to whether:
-
-                              (i)  an offence against this Act or the regulations has been committed; or
-
-                             (ii)  a civil penalty provision has been contravened; or
-
-                     (b)  to enable:
-
-                              (i)  evidence of an offence against this Act or the regulations to be secured for the purpose of a prosecution; or
-
-                             (ii)  evidence of a contravention of a civil penalty provision to be secured for the purpose of civil proceedings;
-
-the magistrate may order that an inspector may retain the book, record or document for a period (not exceeding 3 years) specified in the order.
-
-             (3)  Before making the application, the inspector must:
-
-                     (a)  take reasonable steps to discover who has an interest in the retention of the book, record or document; and
-
-                     (b)  if it is practicable to do so, notify each person whom the inspector believes to have such an interest of the proposed application.
-
-##### <a id="55C"></a>55C  Securing electronic equipment for use by experts
-
-             (1)  If an inspector believes on reasonable grounds that:
-
-                     (a)  any of the following:
-
-                              (i)  information that is relevant to ascertaining whether this Act or the regulations have been complied with;
-
-                             (ii)  evidential material;
-
-                            may be accessible by operating electronic equipment at particular premises; and
-
-                     (b)  expert assistance is required to operate the equipment; and
-
-                     (c)  if he or she does not take action under this subsection, the information or material may be destroyed, altered or otherwise interfered with;
-
-he or she may do whatever is necessary to secure the equipment, whether by locking it up, placing a guard or otherwise.
-
-Notice to occupier
-
-             (2)  The inspector must give notice to the occupier of the premises, or another person who apparently represents the occupier, of his or her intention to secure the equipment and of the fact that the equipment may be secured for up to 24 hours.
-
-Period during which equipment may be secured
-
-             (3)  The equipment may be secured:
-
-                     (a)  for a period not exceeding 24 hours; or
-
-                     (b)  until the equipment has been operated by the expert;
-
-whichever happens first.
-
-Extensions
-
-             (4)  If the inspector believes on reasonable grounds that the expert assistance will not be available within 24 hours, he or she may apply to a magistrate for an order extending that period.
-
-             (5)  The inspector must give notice to the occupier of the premises, or another person who apparently represents the occupier, of his or her intention to apply for an extension, and the occupier is entitled to be heard in relation to the application.
-
-             (6)  The magistrate may order an extension for a period specified in the order if the magistrate is satisfied that the extension is necessary.
-
-##### <a id="55D"></a>55D  Compensation for damage to electronic equipment
-
-             (1)  This section applies if:
-
-                     (a)  as a result of electronic equipment being operated as mentioned in this Division:
-
-                              (i)  damage is caused to the equipment; or
-
-                             (ii)  the data recorded on the equipment is damaged; or
-
-                            (iii)  programs associated with the use of the equipment, or with the use of the data, are damaged or corrupted; and
-
-                     (b)  the damage or corruption occurs because:
-
-                              (i)  insufficient care was exercised in selecting the person who was to operate the equipment; or
-
-                             (ii)  insufficient care was exercised by the person operating the equipment.
-
-             (2)  The Commonwealth must pay the owner of the equipment, or the user of the data or programs, such reasonable compensation for the damage or corruption as the Commonwealth and the owner or user agree on.
-
-             (3)  However, if the owner or user and the Commonwealth fail to agree, the owner or user may institute proceedings in a designated court for such reasonable amount of compensation as the designated court determines.
-
-             (4)  In determining the amount of compensation payable, regard is to be had to whether the occupier of the premises, or the occupier’s employees and agents, if they were available at the time, provided any appropriate warning or guidance on the operation of the equipment.
-
-             (5)  In this section:
-
-                    <a name="damag"></a>**_damage_**, in relation to data, includes damage by erasure of data or addition of other data.
-
-#### Subdivision F—Enforcement warrants
-
-##### <a id="55E"></a>55E  Enforcement warrants
-
-Application for an enforcement warrant
-
-             (1)  An inspector may apply to a magistrate for an enforcement warrant under this section in relation to premises.
-
-Issue of an enforcement warrant
-
-             (2)  The magistrate may issue the enforcement warrant if the magistrate is satisfied, by information on oath, that there are reasonable grounds for suspecting that there is, or there may be within the next 72 hours, evidential material in or on the premises.
-
-             (3)  However, the magistrate must not issue the enforcement warrant unless the inspector or some other person has given to the magistrate, either orally or by affidavit, such further information (if any) as the magistrate requires concerning the grounds on which the issue of the warrant is being sought.
-
-Content of an enforcement warrant
-
-             (4)  The enforcement warrant must:
-
-                     (a)  name one or more inspectors; and
-
-                     (b)  authorise the inspectors so named, with such assistance and by such force as is necessary and reasonable:
-
-                              (i)  to enter the premises; and
-
-                             (ii)  to exercise the enforcement powers set out in section 53; and
-
-                     (c)  state whether the entry is authorised to be made at any time of the day or night or during specified hours of the day or night; and
-
-                     (d)  specify the day (not more than one week after the issue of the warrant) on which the warrant ceases to have effect; and
-
-                     (e)  state the purpose for which the warrant is issued.
-
-##### <a id="55F"></a>55F  Enforcement warrants by telephone, telex, fax etc.
-
-Application for an enforcement warrant
-
-             (1)  If, in an urgent case, an inspector considers it necessary to do so, the inspector may apply to a magistrate by telephone, telex, fax or other electronic means for an enforcement warrant in relation to premises.
-
-             (2)  The magistrate may require communication by voice to the extent that it is practicable in the circumstances.
-
-             (3)  Before applying for the enforcement warrant, the inspector must prepare an information of the kind mentioned in subsection 55E(2) in relation to the premises that sets out the grounds on which the warrant is sought.
-
-             (4)  If it is necessary to do so, the inspector may apply for the enforcement warrant before the information is sworn.
-
-Issue of an enforcement warrant
-
-             (5)  If the magistrate is satisfied:
-
-                     (a)  after having considered the terms of the information; and
-
-                     (b)  after having received such further information (if any) as the magistrate requires concerning the grounds on which the issue of the enforcement warrant is being sought;
-
-that there are reasonable grounds for issuing the warrant, the magistrate may complete and sign the same warrant that the magistrate would issue under section 55E if the application had been made under that section.
-
-Obligations of magistrate and inspector once an enforcement warrant issued
-
-             (6)  If the magistrate completes and signs the enforcement warrant:
-
-                     (a)  the magistrate must:
-
-                              (i)  tell the inspector what the terms of the warrant are; and
-
-                             (ii)  tell the inspector the day on which and the time at which the warrant was signed; and
-
-                            (iii)  tell the inspector the day (not more than one week after the magistrate completes and signs the warrant) on which the warrant ceases to have effect; and
-
-                            (iv)  record on the warrant the reasons for issuing the warrant; and
-
-                     (b)  the inspector must:
-
-                              (i)  complete a form of enforcement warrant in the same terms as the warrant completed and signed by the magistrate; and
-
-                             (ii)  write on the form the name of the magistrate and the day on which and the time at which the warrant was signed.
-
-             (7)  The inspector must also, not later than the day after the day of expiry or execution of the enforcement warrant, whichever is the earlier, send to the magistrate:
-
-                     (a)  the form of enforcement warrant completed by the inspector; and
-
-                     (b)  the information referred to in subsection (3), which must have been duly sworn.
-
-             (8)  When the magistrate receives those documents, the magistrate must:
-
-                     (a)  attach them to the enforcement warrant that the magistrate completed and signed; and
-
-                     (b)  deal with them in the way in which the magistrate would have dealt with the information if the application had been made under section 55E.
-
-Authority of an enforcement warrant
-
-             (9)  A form of enforcement warrant duly completed under subsection (6) is authority for any entry, search, seizure or other exercise of a power that the warrant signed by the magistrate authorises.
-
-           (10)  If:
-
-                     (a)  it is material, in any proceedings, for a court to be satisfied that an exercise of a power was authorised by this section; and
-
-                     (b)  the enforcement warrant signed by the magistrate authorising the exercise of the power is not produced in evidence;
-
-the court must assume, unless the contrary is proved, that the exercise of the power was not authorised by such a warrant.
-
-##### <a id="55G"></a>55G  Offences relating to warrants
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is an inspector; and
-
-                     (b)  the person makes an application for an enforcement warrant; and
-
-                     (c)  the application includes a statement; and
-
-                     (d)  the statement is false or misleading in a material particular.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (2)  The fault element for paragraph (1)(d) is knowledge.
-
-             (3)  A person commits an offence if:
-
-                     (a)  the person is an inspector; and
-
-                     (b)  the person prepares a document that purports to be a form of enforcement warrant under section 55F; and
-
-                     (c)  the document states the name of a magistrate; and
-
-                     (d)  the magistrate named did not issue the enforcement warrant.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (4)  A person commits an offence if:
-
-                     (a)  the person is an inspector; and
-
-                     (b)  the person prepares a document that purports to be a form of enforcement warrant under section 55F; and
-
-                     (c)  the document states a matter; and
-
-                     (d)  the matter departs in a material particular from the form authorised by the magistrate.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (5)  The fault element for paragraph (4)(d) is knowledge.
-
-             (6)  A person commits an offence if:
-
-                     (a)  the person is an inspector; and
-
-                     (b)  the person:
-
-                              (i)  purports to execute; or
-
-                             (ii)  presents to another person;
-
-                            a document that purports to be a form of enforcement warrant under section 55F; and
-
-                     (c)  the document:
-
-                              (i)  has not been approved by a magistrate under section 55F; or
-
-                             (ii)  departs in a material particular from the terms authorised by that section.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (7)  The fault element for paragraph (6)(c) is knowledge.
-
-             (8)  A person commits an offence if:
-
-                     (a)  the person is an inspector; and
-
-                     (b)  the person gives a form of enforcement warrant under section 55F to a magistrate; and
-
-                     (c)  the form of enforcement warrant is not the form of enforcement warrant that the inspector purported to execute.
-
-                    Penalty for contravention of this subsection:        Imprisonment for 2 years.
-
-#### Subdivision G—Powers of magistrates
-
-##### <a id="55H"></a>55H  Powers of magistrates
-
-Powers conferred personally
-
-             (1)  A power conferred on a magistrate by this Division is conferred on the magistrate:
-
-                     (a)  in a personal capacity; and
-
-                     (b)  not as a court or a member of a court.
-
-Powers need not be accepted
-
-             (2)  The magistrate need not accept the power conferred.
-
-Protection and immunity
-
-             (3)  A magistrate exercising a power conferred by this Division has the same protection and immunity as if he or she were exercising the power:
-
-                     (a)  as the court of which the magistrate is a member; or
-
-                     (b)  as a member of the court of which the magistrate is a member.
+                     (b)  during that period the inspector shall permit a person who would be entitled to inspect the book, record or document if it were not in the inspector’s possession to inspect the book, record or document at all reasonable times.
 
 ### Division 2—Injunctions
 
@@ -2989,89 +1859,27 @@ the Federal Court may, on the application of the Minister or any other person, g
 
 ### Division 3—Forfeiture of goods
 
-#### Subdivision A—Forfeitable goods
-
 ##### <a id="57"></a>57  Forfeitable goods
 
-             (1)  For the purposes of this Act, the following goods are **_forfeitable goods_**:
+             (1)  For the purposes of this Division, the following goods shall be taken to be forfeitable goods:
 
-                     (a)  scheduled substances in respect of the manufacture of which:
+                     (a)  scheduled substances in respect of the manufacture of which a person has been convicted of an offence against section 13;
 
-                              (i)  a person has been convicted of an offence under section 13; or
+                     (b)  scheduled substances in respect of the import of which a person has been convicted of an offence against section 13 or 42;
 
-                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in section 13; or
+                     (c)  scheduled substances in respect of the export of which a person has been convicted of an offence against section 13 or 43;
 
-                            (iii)  a person has contravened section 13;
+                     (d)  products that contain scheduled substances, or that use scheduled substances in their operation, being products in respect of the manufacture, import, export, distribution or use of which a person has been convicted of an offence against section 38 or regulations made for the purposes of section 39;
 
-                     (b)  scheduled substances in respect of the import of which:
+                     (e)  products containing scheduled substances, being products in respect of the import of which a person has been convicted of an offence against section 44;
 
-                              (i)  a person has been convicted of an offence under section 13; or
+                      (f)  products in the manufacture of which scheduled substances were used, being products in respect of the importation of which a person has been convicted of an offence against section 45.
 
-                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in section 13; or
-
-                            (iii)  a person has contravened section 13;
-
-                     (c)  scheduled substances in respect of the export of which:
-
-                              (i)  a person has been convicted of an offence under section 13; or
-
-                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in section 13; or
-
-                            (iii)  a person has contravened section 13;
-
-                     (d)  products that contain scheduled substances, or that use scheduled substances in their operation, where:
-
-                              (i)  a person has been convicted of an offence against section 38 in respect of the manufacture or import of the products; or
-
-                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in section 38 in respect of the manufacture or import of the products; or
-
-                            (iii)  a person has contravened section 38 in respect of the manufacture or import of the products;
-
-                     (e)  products that contain scheduled substances, or that use scheduled substances in their operation, where:
-
-                              (i)  a person has been convicted of an offence against regulations made for the purposes of section 39 in respect of the manufacture, import, export, distribution or use of the products; or
-
-                             (ii)  a person has contravened regulations made for the purposes of section 39 in respect of the manufacture, import, export, distribution or use of the products;
-
-                      (f)  products that contain scheduled substances, where:
-
-                              (i)  a person has been convicted of an offence against section 44 in respect of the import of the products; or
-
-                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in section 44 in respect of the import of the products; or
-
-                            (iii)  a person has contravened section 44 in respect of the import of the products;
-
-                     (g)  products in the manufacture of which scheduled substances were used, where:
-
-                              (i)  a person has been convicted of an offence against section 45 in respect of the import of the products; or
-
-                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in section 45 in respect of the import of the products; or
-
-                            (iii)  a person has contravened section 45 in respect of the import of the products;
-
-                     (h)  prescribed goods in respect of which:
-
-                              (i)  a person has been convicted of an offence against a prescribed provision of the regulations; or
-
-                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in the regulations; or
-
-                            (iii)  a person has contravened a prescribed provision of the regulations.
-
-             (2)  For the purposes of this Act, goods are also **_forfeitable goods_** if:
-
-                     (a)  the goods are a quantity of scheduled substances or products; and
-
-                     (b)  the goods are mixed with another quantity of scheduled substances or products (the **_other quantity_**) of the same kind or a similar kind; and
-
-                     (c)  the other quantity is forfeitable goods.
-
-#### Subdivision B—Forfeiture following conviction or making of civil penalty order
+             (2)  For the purposes of this Part, where a quantity of scheduled substances or products that, under subsection (1), are forfeitable goods are mixed with scheduled substances or products of the same or a similar kind that are not, under that subsection, forfeitable goods, that quantity of the mixture of the substances or products shall be taken to be forfeitable goods.
 
 ##### <a id="58"></a>58  Goods forfeited to Commonwealth
 
-             (1)  Where a person is convicted of an offence against a provision of this Act or the regulations referred to in subsection 57(1), all forfeitable goods to which the offence relates are, by force of the conviction, forfeited to the Commonwealth.
-
-             (2)  If a civil penalty order has been made against a person for a contravention of a civil penalty provision referred to in subsection 57(1), all forfeitable goods to which the contravention relates are, by force of the order, forfeited to the Commonwealth.
+                   Where a person is convicted of an offence against a provision of this Act referred to in subsection 57(1), all forfeitable goods to which the offence relates are, by force of the conviction, forfeited to the Commonwealth.
 
 ##### <a id="59"></a>59  Power to seize forfeited goods
 
@@ -3115,133 +1923,15 @@ Note:          The defendant bears an evidential burden in rel
 
                     Penalty:  imprisonment for 2 years.
 
-#### Subdivision C—Forfeiture of seized goods
-
-##### <a id="60A"></a>60A  Forfeiture notices
-
-             (1)  If:
-
-                     (a)  an inspector seizes goods under section 53; and
-
-                     (b)  the inspector suspects, on reasonable grounds, that the goods are forfeitable goods;
-
-the inspector may, within 7 days after the seizure, give a written notice (a **_forfeiture notice_**) to:
-
-                     (c)  the owner of the goods; or
-
-                     (d)  if the owner of the goods cannot be identified after reasonable inquiry—the person from whom the goods were seized.
-
-             (2)  The forfeiture notice must:
-
-                     (a)  identify the goods; and
-
-                     (b)  state that the goods have been seized; and
-
-                     (c)  specify the reason for the seizure; and
-
-                     (d)  state that the goods will be forfeited to the Commonwealth unless:
-
-                              (i)  the owner of the thing, or the person from whom the thing was seized, applies to a designated court under section 60B within 60 days after the forfeiture notice is given; and
-
-                             (ii)  the court makes an order that the goods are not forfeitable goods; and
-
-                     (e)  specify the address of the Secretary.
-
-##### <a id="60B"></a>60B  Claims that seized goods are not forfeitable goods
-
-             (1)  If a forfeiture notice is given under section 60A in relation to goods (the **_identified goods_**), either of the following persons:
-
-                     (a)  the owner of the goods;
-
-                     (b)  the person from whom the goods were seized;
-
-may apply to a designated court for:
-
-                     (c)  an order that all of the identified goods are not forfeitable goods; or
-
-                     (d)  an order that specified identified goods are not forfeitable goods.
-
-             (2)  The application must be made within 60 days after forfeiture notice is given.
-
-             (3)  If a person applies for an order under paragraph (1)(c), the court must:
-
-                     (a)  make the order if it is satisfied that the identified goods are not forfeitable goods; or
-
-                     (b)  refuse to make the order if it is not satisfied that the identified goods are not forfeitable goods.
-
-             (4)  If a person applies for an order under paragraph (1)(d), the court must:
-
-                     (a)  make the order if it is satisfied that the goods specified in the application are not forfeitable goods; or
-
-                     (b)  refuse to make the order if it is not satisfied that the goods specified in the application are not forfeitable goods.
-
-             (5)  If the court makes an order under paragraph (3)(a) or (4)(a) in relation to goods, the inspector must take reasonable steps to return the goods to the applicant, unless:
-
-                     (a)  proceedings in respect of which the goods may afford evidence were instituted before the order was made and have not been completed (including an appeal to a court in relation to those proceedings); or
-
-                     (b)  to return the goods could cause an imminent risk of death, serious illness, serious injury or serious damage to the environment; or
-
-                     (c)  an inspector is otherwise authorised (by a law, or an order of a court, of the Commonwealth or of a State or Territory) to retain, destroy or dispose of the goods.
-
-##### <a id="60C"></a>60C  Forfeiture of seized goods to the Commonwealth
-
-             (1)  If:
-
-                     (a)  a forfeiture notice has been given in relation to seized goods; and
-
-                     (b)  60 days pass after the notice is given, and an application under section 60B has not been made in relation to the goods;
-
-the goods are forfeited to the Commonwealth at the end of the 60th day after the day the forfeiture notice was given.
-
-             (2)  If:
-
-                     (a)  a forfeiture notice has been given in relation to seized goods; and
-
-                     (b)  within 60 days after the notice is given, an application under section 60B is made to a designated court for an order that the goods are not forfeitable goods; and
-
-                     (c)  the court refuses to make the order;
-
-the goods are forfeited to the Commonwealth when the court refuses to make the order.
-
-##### <a id="60D"></a>60D  Right of compensation in certain circumstances
-
-             (1)  If:
-
-                     (a)  goods are seized under section 53; and
-
-                     (b)  the goods are forfeited to the Commonwealth under section 60C;
-
-the owner of the goods may apply to a designated court for compensation.
-
-             (2)  On application under subsection (1), the court must order that the Commonwealth pay compensation to the owner of the goods if the court is satisfied that:
-
-                     (a)  the applicant is the owner of the goods; and
-
-                     (b)  either:
-
-                              (i)  Division 1 was not complied with in relation to the seizure of the goods; or
-
-                             (ii)  the goods were not forfeitable goods.
-
-             (3)  The amount of compensation ordered must be the market value of the goods at the time the goods were forfeited.
-
-#### Subdivision D—General provisions
-
-##### <a id="60E"></a>60E  Forfeited goods become the property of the Commonwealth
-
-                   Goods that are forfeited to the Commonwealth under this Division become the property of the Commonwealth.
-
 ##### <a id="61"></a>61  Disposal of forfeited goods
 
-             (1)  Goods that are forfeited under section 58 or section 60C shall be dealt with and disposed of in accordance with the directions of the Minister.
-
-             (2)  The forfeited goods must not be sold.
+                   Goods that are forfeited under section 58 shall be dealt with and disposed of in accordance with the directions of the Minister.
 
 ### Division 4—Offences
 
 ##### <a id="62"></a>62  False statements
 
-             (1)  A person shall not, in relation to an application made under this Act or the regulations:
+             (1)  A person shall not, in relation to an application made under this Act:
 
                      (a)  make a statement that is false or misleading in a material particular; or
 
@@ -3283,7 +1973,7 @@ are knowledge and recklessness.
 
 ##### <a id="63"></a>63  Obstruction of inspectors etc.
 
-             (1)  A person shall not intentionally obstruct, hinder or resist an inspector, or a person assisting an inspector under section 51B or 53A, in the performance of his or her functions under this Act.
+             (1)  A person shall not intentionally obstruct, hinder or resist an inspector in the performance of his or her functions under this Act.
 
                     Penalty:  imprisonment for 6 months.
 
@@ -3405,216 +2095,6 @@ the person is not liable to be punished by imprisonment for that offence.
 
                             being an offence that relates to the regulations.
 
-### Division 5—Infringement notices
-
-##### <a id="65AA"></a>65AA  Infringement notices
-
-Infringement notices for offences
-
-             (1)  The regulations may make provision enabling a person who is alleged to have committed:
-
-                     (a)  an offence against any of the following provisions:
-
-                              (i)  section 13;
-
-                             (ii)  section 18;
-
-                            (iii)  section 38;
-
-                            (iv)  section 44;
-
-                             (v)  section 45;
-
-                            (vi)  section 45B;
-
-                           (vii)  section 46; or
-
-                     (b)  a specified offence against the regulations;
-
-to pay a specified penalty to the Commonwealth as an alternative to prosecution.
-
-             (2)  The penalty must not exceed:
-
-                     (a)  if the person is not a body corporate—12 penalty units; or
-
-                     (b)  if the person is a body corporate—60 penalty units.
-
-Infringement notices for contraventions of civil penalty provisions
-
-             (3)  The regulations may make provision enabling a person who is alleged to have contravened a particular civil penalty provision to pay a specified penalty to the Commonwealth as an alternative to proceedings for a civil penalty order.
-
-             (4)  The penalty must not exceed:
-
-                     (a)  if the person is not a body corporate—12 penalty units; or
-
-                     (b)  if the person is a body corporate—60 penalty units.
-
-### Division 6—Ancillary contravention of civil penalty provisions
-
-##### <a id="65AB"></a>65AB  Ancillary contravention of civil penalty provision
-
-             (1)  A person must not:
-
-                     (a)  attempt to contravene a civil penalty provision (other than this subsection); or
-
-                     (b)  aid, abet, counsel or procure a contravention of a civil penalty provision (other than this subsection); or
-
-                     (c)  induce, whether by threats or promises or otherwise, a contravention of a civil penalty provision (other than this subsection); or
-
-                     (d)  be in any way, directly or indirectly, knowingly concerned in, or party to, a contravention of a civil penalty provision (other than this subsection); or
-
-                     (e)  conspire with others to effect a contravention of a civil penalty provision (other than this subsection).
-
-             (2)  Subsection (1) is a **_civil penalty provision_**.
-
-Note 1:       Division 7 provides for pecuniary penalties for breaches of civil penalty provisions.
-
-Note 2:       For maximum penalty, see subsection 65AC(5).
-
-### Division 7—Civil penalty orders
-
-##### <a id="65AC"></a>65AC  Civil penalty orders
-
-             (1)  If a designated court is satisfied that a person has contravened a civil penalty provision, the court may order the person to pay the Commonwealth a pecuniary penalty.
-
-             (2)  An order under subsection (1) is to be known as a **_civil penalty order_**.
-
-Determining amount of pecuniary penalty
-
-             (3)  In determining the pecuniary penalty, the court may have regard to all relevant matters, including:
-
-                     (a)  the nature and extent of the contravention; and
-
-                     (b)  the nature and extent of any loss or damage suffered as a result of the contravention; and
-
-                     (c)  the circumstances in which the contravention took place; and
-
-                     (d)  whether the person has previously been found by a court in proceedings under this Act or the regulations to have engaged in any similar conduct; and
-
-                     (e)  the extent to which the person has co‑operated with the authorities; and
-
-                      (f)  if the person is a body corporate:
-
-                              (i)  the level of the employees, officers or agents of the body corporate involved in the contravention; and
-
-                             (ii)  whether the body corporate exercised due diligence to avoid the contravention; and
-
-                            (iii)  whether the body corporate had a corporate culture conducive to compliance.
-
-Maximum pecuniary penalty
-
-             (4)  The pecuniary penalty payable by a person in respect of a contravention of a civil penalty provision (other than subsection 65AB(1)) must not exceed:
-
-                     (a)  if an offence against a provision of this Act or the regulations corresponds to the civil penalty provision—the maximum pecuniary penalty that could have been imposed on the person if the person had been convicted of the offence; or
-
-                     (b)  otherwise:
-
-                              (i)  if the person is not a body corporate—50 penalty units; or
-
-                             (ii)  if the person is a body corporate—250 penalty units.
-
-             (5)  The pecuniary penalty payable by a person in respect of a contravention of subsection 65AB(1) that relates to another civil penalty provision must not exceed:
-
-                     (a)  if an offence against a provision of this Act or the regulations corresponds to the other civil penalty provision—the maximum pecuniary penalty that could have been imposed on the person if the person had been convicted of the offence; or
-
-                     (b)  otherwise:
-
-                              (i)  if the person is not a body corporate—50 penalty units; or
-
-                             (ii)  if the person is a body corporate—250 penalty units.
-
-Civil enforcement of penalty
-
-             (6)  A pecuniary penalty is a civil debt payable to the Commonwealth. The Commonwealth may enforce the civil penalty order as if it were an order made in civil proceedings against the person to recover a debt due by the person. The debt arising from the order is taken to be a judgment debt.
-
-##### <a id="65AD"></a>65AD  Who may apply for a civil penalty order
-
-             (1)  Only the Minister may apply for a civil penalty order.
-
-             (2)  Subsection (1) does not exclude the operation of the _Director of Public Prosecutions Act 1983_.
-
-##### <a id="65AE"></a>65AE  Two or more proceedings may be heard together
-
-                   The designated court may direct that 2 or more proceedings for civil penalty orders are to be heard together.
-
-##### <a id="65AF"></a>65AF  Time limit for application for an order
-
-                   Proceedings for a civil penalty order may be started no later than 6 years after the contravention.
-
-##### <a id="65AG"></a>65AG  Civil evidence and procedure rules for civil penalty orders
-
-                   The designated court must apply the rules of evidence and procedure for civil matters when hearing proceedings for a civil penalty order.
-
-##### <a id="65AH"></a>65AH  Civil proceedings after criminal proceedings
-
-                   The designated court must not make a civil penalty order against a person for a contravention of a civil penalty provision if the person has been convicted of an offence constituted by conduct that is substantially the same as the conduct constituting the contravention.
-
-##### <a id="65AI"></a>65AI  Criminal proceedings during civil proceedings
-
-             (1)  Proceedings for a civil penalty order against a person for a contravention of a civil penalty provision are stayed if:
-
-                     (a)  criminal proceedings are started or have already been started against the person for an offence; and
-
-                     (b)  the offence is constituted by conduct that is substantially the same as the conduct alleged to  constitute the contravention.
-
-             (2)  The proceedings for the order may be resumed if the person is not convicted of the offence. Otherwise, the proceedings for the order are dismissed.
-
-##### <a id="65AJ"></a>65AJ  Criminal proceedings after civil proceedings
-
-                   Criminal proceedings may be started against a person for conduct that is substantially the same as conduct constituting a contravention of a civil penalty provision regardless of whether a civil penalty order has been made against the person.
-
-##### <a id="65AK"></a>65AK  Evidence given in proceedings for a civil penalty order not admissible in criminal proceedings
-
-                   Evidence of information given, or evidence of production of documents, by an individual is not admissible in criminal proceedings against the individual if:
-
-                     (a)  the individual previously gave the evidence or produced the documents in proceedings for a civil penalty order against the individual for a contravention of a civil penalty provision (whether or not the order was made); and
-
-                     (b)  the conduct alleged to constitute the offence is substantially the same as the conduct that was claimed to constitute the contravention.
-
-However, this does not apply to a criminal proceeding in respect of the falsity of the evidence given by the individual in the proceedings for the civil penalty order.
-
-##### <a id="65AL"></a>65AL  Mistake of fact
-
-             (1)  A person is not liable to have a civil penalty order made against the person for a contravention of a civil penalty provision if:
-
-                     (a)  at or before the time of the conduct constituting the contravention, the person:
-
-                              (i)  considered whether or not facts existed; and
-
-                             (ii)  was under a mistaken but reasonable belief about those facts; and
-
-                     (b)  had those facts existed, the conduct would not have constituted a contravention of the civil penalty provision.
-
-             (2)  For the purposes of subsection (1), a person may be regarded as having considered whether or not facts existed if:
-
-                     (a)  the person had considered, on a previous occasion, whether those facts existed in the circumstances surrounding that occasion; and
-
-                     (b)  the person honestly and reasonably believed that the circumstances surrounding the present occasion were the same, or substantially the same, as those surrounding the previous occasion.
-
-             (3)  A person who wishes to rely on subsection (1) or (2) in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
-
-##### <a id="65AM"></a>65AM  State of mind
-
-Scope
-
-             (1)  This section applies to proceedings for a civil penalty order against a person for a contravention of a civil penalty provision (other than subsection 65AB(1)).
-
-State of mind
-
-             (2)  In the proceedings, it is not necessary to prove:
-
-                     (a)  the person’s intention; or
-
-                     (b)  the person’s knowledge; or
-
-                     (c)  the person’s recklessness; or
-
-                     (d)  the person’s negligence; or
-
-                     (e)  any other state of mind of the person.
-
-             (3)  Subsection (2) does not affect the operation of section 65AL.
-
 ## Part VIIIA—Ozone Protection and SGG Account
 
 ##### <a id="65A"></a>65A  Definitions
@@ -3649,7 +2129,7 @@ State of mind
 
                             including those Acts as in force before the commencement of the _Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003_;
 
-                     (b)  amounts received by the Commonwealth as fees for licence applications under this Act or the regulations;
+                     (b)  amounts received by the Commonwealth as fees for licence applications under this Act;
 
                      (c)  amounts received by the Commonwealth as fees for exemption applications under section 40;
 
@@ -3658,30 +2138,6 @@ State of mind
                      (e)  income received by the Commonwealth from the operation of the National Halon Bank;
 
                       (f)  interest received by the Commonwealth from the investment of money standing to the credit of the Account.
-
-Notional payments and receipts by Agencies
-
-             (2)  If:
-
-                     (a)  either:
-
-                              (i)  an Agency makes a notional payment to another Agency; or
-
-                             (ii)  one part of an Agency makes a notional payment to another part of that Agency; and
-
-                     (b)  the transaction would involve the debiting of an appropriation if the notional payment were a real payment;
-
-then:
-
-                     (c)  this section applies in relation to the notional payment as if it were a real payment to the Commonwealth; and
-
-                     (d)  this section applies in relation to the notional receipt of the notional payment as if it were a real receipt by the Commonwealth.
-
-Note:          This subsection applies to transactions that do not actually involve payments or receipts, because the parties to the transaction are merely parts of the Commonwealth, or acting as agents for the Commonwealth. For example, Agency 1 “pays” Agency 2 for services provided by Agency 2.
-
-             (3)  In subsection (2):
-
-                    <a name="agenc"></a>**_Agency_** has the same meaning as in the _Financial Management and Accountability Act 1997_.
 
 ##### <a id="65D"></a>65D  Purposes of the Account
 
@@ -3696,12 +2152,6 @@ Note:          This subsection applies to transactions that do
                              (ii)  emission minimisation programs for ODSs and SGGs;
 
                      (c)  paying or reimbursing the Commonwealth’s costs associated with management of the National Halon Bank;
-
-                    (ca)  paying or reimbursing the Commonwealth’s costs associated with research relating to:
-
-                              (i)  substances that deplete ozone in the atmosphere; or
-
-                             (ii)  synthetic greenhouse gases;
 
                      (d)  refunding any amounts credited to the Account in error.
 
@@ -3741,9 +2191,9 @@ Note:          This subsection applies to transactions that do
 
 ##### <a id="67A"></a>67A  Delegation
 
-             (1)  The Minister may, by writing, delegate all or any of his or her powers and functions under this Act or the regulations to an SES employee or acting SES employee.
+             (1)  The Minister may, by writing, delegate all or any of his or her powers and functions under this Act to an SES employee or acting SES employee.
 
-             (2)  Subsection (1) does not apply to the Minister’s powers under section 19A, 20 or 53K.
+             (2)  Subsection (1) does not apply to the Minister’s powers under section 19A or 20.
 
              (3)  In exercising powers or functions under a delegation, the delegate must comply with any directions of the Minister.
 
@@ -3805,76 +2255,6 @@ and includes any amount payable under either of those Acts as in force before th
 
                      (e)  activities of a kind mentioned in paragraph 37(2)(a), (b), (c), (d), (e) or (f).
 
-##### <a id="69C"></a>69C  Jurisdiction of State courts
-
-             (1)  The courts of the States are invested with federal jurisdiction in relation to matters arising under:
-
-                     (a)  this Act; and
-
-                     (b)  the regulations.
-
-             (2)  Jurisdiction is invested under subsection (1) within the limits (other than limits of locality) of the jurisdiction of the court (whether those limits are limits as to subject matter or otherwise).
-
-##### <a id="69D"></a>69D  Jurisdiction of Territory courts
-
-             (1)  Jurisdiction is conferred on the courts of the Territories in relation to matters arising under:
-
-                     (a)  this Act; and
-
-                     (b)  the regulations.
-
-             (2)  Jurisdiction is conferred under subsection (1):
-
-                     (a)  only so far as the Constitution permits; and
-
-                     (b)  within the limits (other than limits of locality) of the jurisdiction of the court (whether those limits are limits as to subject matter or otherwise).
-
-##### <a id="69E"></a>69E  Compensation for acquisition of property
-
-             (1)  If the operation of this Act or the regulations would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
-
-             (2)  If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
-
-             (3)  In this section:
-
-                    <a name="acquisit-properti"></a>**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-                    <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-##### <a id="69F"></a>69F  Arrangements with States and Territories—magistrates
-
-States
-
-             (1)  The Minister may make arrangements with a Minister of a State in relation to the performance of the functions of a magistrate under this Act by a magistrate of that State.
-
-             (2)  The Minister may arrange with a Minister of a State with whom an arrangement is in force under subsection (1) for the variation or revocation of the arrangement.
-
-Australian Capital Territory
-
-             (3)  The Minister may make arrangements with a Minister of the Australian Capital Territory in relation to the performance of the functions of a magistrate under this Act by a magistrate of the Australian Capital Territory.
-
-             (4)  The Minister may arrange with a Minister of the Australian Capital Territory for the variation or revocation of an arrangement in force under subsection (3).
-
-Northern Territory
-
-             (5)  The Minister may make arrangements with a Minister of the Northern Territory in relation to the performance of the functions of a magistrate under this Act by a magistrate of the Northern Territory.
-
-             (6)  The Minister may arrange with a Minister of the Northern Territory for the variation or revocation of an arrangement in force under subsection (5).
-
-Norfolk Island
-
-             (7)  The Minister may make arrangements with the Administrator of Norfolk Island in relation to the performance of the functions of a magistrate under this Act by a magistrate of Norfolk Island.
-
-             (8)  The Minister may arrange with the Administrator of Norfolk Island for the variation or revocation of an arrangement in force under subsection (7).
-
-Gazettal
-
-             (9)  A copy of each instrument by which an arrangement under this section is made, varied or revoked is to be published in the _Gazette_.
-
-Legislative Instruments Act
-
-           (10)  An instrument by which an arrangement under this section is made, varied or revoked is not a legislative instrument.
-
 ##### <a id="70"></a>70  Regulations
 
                    The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
@@ -3883,7 +2263,7 @@ Legislative Instruments Act
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act;
 
-including regulations prescribing penalties, not exceeding 50 penalty units in the case of a natural person or 250 penalty units in the case of a body corporate, for offences against the regulations.
+including regulations prescribing penalties, not exceeding $1,000 in the case of a natural person or $5,000 in the case of a body corporate, for offences against the regulations.
 
 # Schedule 1—Scheduled substances
 
@@ -9013,6 +7393,8 @@ B.  Article 5, paragraph 8ter(d)
 
             Adopted at the Ninth Meeting of Parties to the Protocol.
 
+ 
+
 # Schedule 3C—Amendment to the Montreal Protocol on Substances that Deplete the Ozone Layer of 16 September 1987
 
 _Note:       See the definition of Montreal Protocol in subsection 7(1)._
@@ -9096,6 +7478,8 @@ No State or regional economic integration organization may deposit an instrument
 3.         After the entry into force of this Amendment, as provided under paragraph 1, it shall enter into force for any other Party to the Protocol on the ninetieth day following the date of deposit of its instrument of ratification, acceptance or approval.
 
             Adopted at the Ninth Meeting of Parties to the Protocol.
+
+ 
 
 # Schedule 3D—Beijing amendment to the Montreal Protocol
 
@@ -10049,15 +8433,11 @@ A person must not manufacture or import a rigid polyurethane foam product if the
 
              (1)  A person must not manufacture or import refrigeration or air conditioning equipment if:
 
-                     (a)  the equipment is charged with a CFC refrigerant or an HCFC refrigerant; or
+                     (a)  the equipment is charged with a CFC refrigerant; or
 
-                     (b)  the equipment is designed to operate by using a CFC refrigerant or an HCFC refrigerant (whether or not it is also designed to operate using another substance); or
+                     (b)  the equipment may only operate by using a CFC refrigerant; or
 
-                     (c)  the equipment is insulated with foam manufactured with a CFC or an HCFC.
-
-          (1A)  Subclause (1) does not apply to equipment specified in the regulations.
-
-Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+                     (c)  the equipment is insulated with foam manufactured with a CFC.
 
              (2)  Subclause (1) does not apply to the import of refrigerated transport containers (including insulated shipping containers and air freight containers to which refrigerated clip on units are attached).
 
@@ -10373,11 +8753,11 @@ Remainder: Royal Assent</div>
     <div>18 Nov 2010</div>
   </td>
   <td>
-    <div>Schedules 1 and 2: 18 May 2011 
+    <div>Schedule 1 and Schedule 2: \[ <i>see</i>Note 2 and Table A] 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 
+    <div>Sch. 1 (items 
 109–118) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
@@ -10591,14 +8971,6 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part II</b></div>
   </td>
   <td>
@@ -10610,7 +8982,7 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 118, 1997; No. 36, 1999; No. 126, 2003; No. 125, 2010</div>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 118, 1997; No. 36, 1999; No. 126, 2003</div>
   </td>
 </tr>
 <tr>
@@ -10627,14 +8999,6 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 2010</div>
   </td>
 </tr>
 <tr>
@@ -10786,7 +9150,7 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div></div>
   </td>
   <td>
-    <div>am. No. 15, 2001; No. 126, 2003; No. 97, 2005; No. 125, 2010</div>
+    <div>am. No. 15, 2001; No. 126, 2003; No. 97, 2005</div>
   </td>
 </tr>
 <tr>
@@ -10826,7 +9190,7 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 126, 2003; No. 125, 2010</div>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 126, 2003</div>
   </td>
 </tr>
 <tr>
@@ -10874,7 +9238,7 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div></div>
   </td>
   <td>
-    <div>am. No. 36, 1999; No. 15, 2001; No. 126, 2003; No. 125, 2010</div>
+    <div>am. No. 36, 1999; No. 15, 2001; No. 126, 2003</div>
   </td>
 </tr>
 <tr>
@@ -10899,14 +9263,6 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 2010</div>
   </td>
 </tr>
 <tr>
@@ -10946,7 +9302,7 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 125, 2010</div>
+    <div>am. No. 46, 1992; No. 124, 1995</div>
   </td>
 </tr>
 <tr>
@@ -11007,7 +9363,7 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 24</div>
+    <div>Ss. 24–25</div>
   </td>
   <td>
     <div>am. No. 46, 1992</div>
@@ -11019,30 +9375,6 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11066,7 +9398,7 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div></div>
   </td>
   <td>
-    <div>am. No. 118, 1997; No. 125, 2010</div>
+    <div>am. No. 118, 1997</div>
   </td>
 </tr>
 <tr>
@@ -11122,7 +9454,7 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>S. 38</div>
   </td>
   <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 125, 2010</div>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001</div>
   </td>
 </tr>
 <tr>
@@ -11162,7 +9494,7 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 8 and 125, 2010</div>
+    <div>am. No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11194,7 +9526,7 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 126, 2003; No. 125, 2010</div>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 126, 2003</div>
   </td>
 </tr>
 <tr>
@@ -11210,7 +9542,7 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>S. 45</div>
   </td>
   <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 126, 2003; No. 125, 2010</div>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 126, 2003</div>
   </td>
 </tr>
 <tr>
@@ -11231,34 +9563,10 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>S. 45A</div>
+    <div>Ss. 45A, 45B</div>
   </td>
   <td>
     <div>ad. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45B</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 45B(3)</div>
-  </td>
-  <td>
-    <div>am. No. 125, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11298,7 +9606,7 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div></div>
   </td>
   <td>
-    <div>am. No. 15, 2001; No. 126, 2003; No. 97, 2005; No. 125, 2010</div>
+    <div>am. No. 15, 2001; No. 126, 2003; No. 97, 2005</div>
   </td>
 </tr>
 <tr>
@@ -11367,31 +9675,6 @@ _(f)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part VIII</div>
-  </td>
-  <td>
-    <div>rs. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. A of 
-Div. 1 of Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 48A</div>
   </td>
   <td>
@@ -11411,15 +9694,7 @@ Div. 1 of Part VIII</div>
     <div>S. 49</div>
   </td>
   <td>
-    <div>am. No. 124, 1995; No. 146, 1999; No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49A</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
+    <div>am. No. 124, 1995; No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -11432,52 +9707,10 @@ Div. 1 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. B of 
-Div. 1 of Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 51</div>
   </td>
   <td>
-    <div>am. No. 124, 1995; No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 51A, 51B</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. C of Div. 1 of 
-Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
+    <div>am. No. 124, 1995</div>
   </td>
 </tr>
 <tr>
@@ -11490,158 +9723,10 @@ Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>rs. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 53A–53C</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. D of Div. 1 of 
-Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 53D–53H</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 53J–53L</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. E of 
-Div. 1 of Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53M</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 54</div>
   </td>
   <td>
     <div>am. No. 124, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>rs. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 55A–55D</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision F</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. F of Div. 1 of 
-Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 55E–55G</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision G</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. G of Div. 1 of 
-Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55H</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11654,23 +9739,6 @@ Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. A of Div. 3 of 
-Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 57</div>
   </td>
   <td>
@@ -11679,101 +9747,10 @@ Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. B of 
-Div. 3 of Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 60</div>
   </td>
   <td>
     <div>am. No. 46, 1992; No. 15, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. C of Div. 3 of 
-Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 60A–60D</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. D of 
-Div. 3 of Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60E</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 125, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11789,20 +9766,12 @@ Div. 3 of Part VIII</div>
     <div>S. 62</div>
   </td>
   <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001; No. 125, 2010</div>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 15, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1992; No. 15, 2001; No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
+    <div>Ss. 63, 64</div>
   </td>
   <td>
     <div>am. No. 46, 1992; No. 15, 2001</div>
@@ -11814,78 +9783,6 @@ Div. 3 of Part VIII</div>
   </td>
   <td>
     <div>am. No. 4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 5 of Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65AA</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 6 of Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65AB</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 7 of Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 65AC–65AM</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11970,14 +9867,6 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part IX</b></div>
   </td>
   <td>
@@ -12018,14 +9907,6 @@ Div. 3 of Part VIII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 69</div>
   </td>
   <td>
@@ -12062,22 +9943,6 @@ Div. 3 of Part VIII</div>
   </td>
   <td>
     <div>am. No. 126, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 69C–69F</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>am. No. 125, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12256,9 +10121,2103 @@ Schedule 3C</div>
     <div>Schedule 4</div>
   </td>
   <td>
-    <div>am. No. 46, 1992; No. 124, 1995; No. 118, 1997; No. 36, 1999; No. 125, 2010</div>
+    <div>am. No. 46, 1992; No. 124, 1995; No. 118, 1997; No. 36, 1999</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Ozone Protection and Synthetic Greenhouse Gas Management Amendment Act 2010 (No. 125, 2010)_
+
+The following amendments commence on 18 May 2011 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  At the end of section 6A (before the note)
+
+Add “or the regulations”.
+
+## 2  Subsection 7(1)
+
+Insert:
+
+                    <a name="civil-penalti-order"></a>**_civil penalty order_** means an order under subsection 65AC(1).
+
+## 3  Subsection 7(1)
+
+Insert:
+
+                    <a name="civil-penalti-provision"></a>**_civil penalty provision_** means:
+
+                     (a)  a provision of this Act declared by this Act to be a civil penalty provision; or
+
+                     (b)  a provision of the regulations declared by the regulations to be a civil penalty provision.
+
+## 4  Subsection 7(1)
+
+Insert:
+
+                    <a name="design-court"></a>**_designated court_** means:
+
+                     (a)  the Federal Court; or
+
+                     (b)  the Federal Magistrates Court; or
+
+                     (c)  a court of a State or Territory that has jurisdiction in relation to matters arising under this Act or the regulations.
+
+Note:          For jurisdiction of State and Territory courts, see sections 69C and 69D.
+
+## 5  Subsection 7(1)
+
+Insert:
+
+                    <a name="enforc-power"></a>**_enforcement powers_** has the meaning given by section 53.
+
+## 6  Subsection 7(1)
+
+Insert:
+
+                    <a name="enforc-warrant"></a>**_enforcement warrant_** means:
+
+                     (a)  a warrant issued under section 55E; or
+
+                     (b)  a warrant signed by a magistrate under section 55F.
+
+## 7  Subsection 7(1)
+
+Insert:
+
+                    <a name="evidenti-burden"></a>**_evidential burden_**, in relation to a matter, means the burden of adducing or pointing to evidence that suggests a reasonable possibility that the matter exists or does not exist.
+
+## 8  Subsection 7(1)
+
+Insert:
+
+                    <a name="evidenti-materi"></a>**_evidential material_**:
+
+                     (a)  in relation to an offence against this Act or the regulations—means:
+
+                              (i)  a thing with respect to which the offence has been committed or is suspected, on reasonable grounds, of having been committed; or
+
+                             (ii)  a thing that there are reasonable grounds for suspecting will afford evidence as to the commission of the offence; or
+
+                            (iii)  a thing that there are reasonable grounds for suspecting is intended to be used for the purpose of committing the offence; or
+
+(b)  in relation to a contravention of a civil penalty provision—means:
+
+                              (i)  a thing with respect to which the civil penalty provision has been contravened or is suspected, on reasonable grounds, of having been contravened; or
+
+                             (ii)  a thing that there are reasonable grounds for suspecting will afford evidence as to the contravention of the civil penalty provision; or
+
+                            (iii)  a thing that there are reasonable grounds for suspecting is intended to be used for the purpose of contravening the civil penalty provision.
+
+## 9  Subsection 7(1)
+
+Insert:
+
+                    <a name="execut-offic"></a>**_executive officer_** of a body corporate means:
+
+                     (a)  a director of the body corporate; or
+
+                     (b)  the chief executive officer (however described) of the body corporate; or
+
+                     (c)  the chief financial officer (however described) of the body corporate; or
+
+                     (d)  the secretary of the body corporate.
+
+## 10  Subsection 7(1)
+
+Insert:
+
+                    <a name="forfeit-good"></a>**_forfeitable goods_** has the meaning given by section 57.
+
+## 11  Subsection 7(1)
+
+Insert:
+
+                    <a name="forfeitur-notic"></a>**_forfeiture notice_** means a notice under subsection 60A(1).
+
+## 12  Subsection 7(1)
+
+Insert:
+
+                    <a name="monitor-power"></a>**_monitoring powers_** has the meaning given by section 51A.
+
+## 13  Subsection 7(1)
+
+Insert:
+
+                    <a name="offenc-against-act-regul"></a>**_offence against this Act or the regulations_** includes an offence against section 137.1 or 137.2 of the _Criminal Code_ that relates to this Act or the regulations.
+
+Note:          See also section 11.6 of the _Criminal Code_.
+
+## 14  Subsection 7(1)
+
+Insert:
+
+                    <a name="penalti-unit"></a>**_penalty unit_** has the meaning given by section 4AA of the _Crimes Act 1914_.
+
+## 15  Subsection 7(1)
+
+Insert:
+
+                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+
+## 16  At the end of subsection 8(1)
+
+Add “in writing”.
+
+## 17  Subsection 8(2)
+
+Repeal the subsection, substitute:
+
+             (2)  A determination made under subsection (1) is a legislative instrument.
+
+## 18  At the end of section 13
+
+Add:
+
+             (9)  Subsections (1), (1AA), (1AB), (1A), (2), (3), (4), (5), (6) and (6A) are **_civil penalty provisions_**.
+
+Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       For maximum penalty, see subsection 65AC(4).
+
+## 19  Before paragraph 16(5)(a)
+
+Insert:
+
+                    (aa)  any civil penalty order made against the person for a contravention of a civil penalty provision, where the contravention occurred within the 10 years immediately preceding the making of the application; and
+
+## 20  After paragraph 16(5)(b)
+
+Insert:
+
+                   (ba)  if the person is a body corporate—any civil penalty order made against an executive officer of the body corporate for a contravention of a civil penalty provision, where the contravention occurred within the 10 years immediately preceding the making of the application; and
+
+                   (bb)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against this Act or the regulations committed within the 10 years immediately preceding the making of the application; and
+
+                   (bc)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against a law of the Commonwealth, of a State or of a Territory that is punishable by imprisonment for a period of 6 months or longer, where the offence was committed within the 10 years immediately preceding the making of the application; and
+
+## 21  After paragraph 16(5)(c)
+
+Insert:
+
+                    (ca)  if the person is a body corporate—whether an executive officer of the body corporate is bankrupt, has applied to take the benefit of any law for the relief of bankrupt or insolvent debtors, has compounded with creditors or has made an assignment of remuneration for their benefit; and
+
+## 22  Paragraph 16(5)(d)
+
+Omit “the application”, substitute “an application under this Act or the regulations”.
+
+## 23  Paragraph 16(5)(e)
+
+Omit “the application”, substitute “an application under this Act or the regulations”.
+
+## 24  After paragraph 16(5)(e)
+
+Insert:
+
+                    (ea)  if the person is a body corporate—any statement made by an executive officer of the body corporate in an application under this Act or the regulations that was false or misleading in a material particular; and
+
+                   (eb)  if:
+
+                              (i)  the person is a body corporate; and
+
+                             (ii)  a statement made by an executive officer of the body corporate in an application under this Act or the regulations was false or misleading in a material particular;
+
+                            whether the executive officer knew that the statement was false or misleading; and
+
+## 25  After paragraph 16(5)(f)
+
+Insert:
+
+                    (fa)  if the person is a body corporate—whether an executive officer of the body corporate has contravened a condition of a licence; and
+
+## 26  At the end of subsection 16(5)
+
+Add:
+
+            ; and (h)  if the person is a body corporate—whether an executive officer of the body corporate held a licence that was cancelled under section 20.
+
+## 27  After subsection 18(7B)
+
+Insert:
+
+          (7C)  A licensee must not contravene a condition of his or her licence.
+
+          (7D)  Subsection (7C) is a **_civil penalty provision_**.
+
+Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       For maximum penalty, see subsection 65AC(4).
+
+          (7E)  Subsection (7C) does not apply if the licensee has a reasonable excuse.
+
+           (7F)  A person who wishes to rely on subsection (7E) in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
+
+## 28  At the end of section 19
+
+Add:
+
+             (4)  A pre‑charged equipment licence stays in force:
+
+                     (a)  for a period of 2 years beginning at the start of the day the licence comes into force; or
+
+                     (b)  if a shorter period is specified in, or ascertained in accordance with, the licence—for that period;
+
+unless it is cancelled, or stops being in force for any other reason, before then.
+
+## 29  Before paragraph 20(2)(a)
+
+Insert:
+
+                    (aa)  any civil penalty order made against the person for a contravention of a civil penalty provision, where the contravention occurred within the immediately preceding 10 years; and
+
+## 30  At the end of paragraph 20(2)(a)
+
+Add “and”.
+
+## 31  At the end of paragraph 20(2)(b)
+
+Add “and”.
+
+## 32  After paragraph 20(2)(b)
+
+Insert:
+
+                   (ba)  if the person is a body corporate—any civil penalty order made against an executive officer of the body corporate for a contravention of a civil penalty provision, where the contravention occurred within the immediately preceding 10 years; and
+
+                   (bb)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against this Act or the regulations committed within the immediately preceding 10 years; and
+
+                   (bc)  if the person is a body corporate—any conviction of an executive officer of the body corporate for an offence against a law of the Commonwealth, of a State or of a Territory that is punishable by imprisonment for a period of 6 months or longer, where the offence was committed within the immediately preceding 10 years; and
+
+## 33  At the end of paragraph 20(2)(c)
+
+Add “and”.
+
+## 34  After paragraph 20(2)(c)
+
+Insert:
+
+                    (ca)  if the person is a body corporate—whether an executive officer of the body corporate is bankrupt, has applied to take the benefit of any law for the relief of bankrupt or insolvent debtors, has compounded with creditors or has made an assignment of remuneration for their benefit; and
+
+## 35  Paragraph 20(2)(d)
+
+After “this Act”, insert “or the regulations”.
+
+## 36  At the end of subsection 20(2)
+
+Add:
+
+             ; and (f)  if the person is a body corporate—any statement made by an executive officer of the body corporate in an application under this Act or the regulations that was false or misleading in a material particular; and
+
+                     (g)  if:
+
+                              (i)  the person is a body corporate; and
+
+                             (ii)  a statement made by an executive officer of the body corporate in an application under this Act or the regulations was false or misleading in a material particular;
+
+                            whether the executive officer knew that the statement was false or misleading.
+
+## 37  Section 25 (table item 9, column 3)
+
+Omit “0.5”, substitute “0.24”.
+
+## 38  At the end of section 26
+
+Add:
+
+             (4)  A notice under this section is not a legislative instrument.
+
+## 39  Subsection 38(1) (penalty)
+
+Omit “50 penalty units”, substitute “500 penalty units”.
+
+## 40  Subsection 38(2) (penalty)
+
+Omit “50 penalty units”, substitute “500 penalty units”.
+
+## 41  After subsection 38(2A)
+
+Insert:
+
+          (2B)  A person to whom this Part applies must not manufacture or import a product that contains scheduled substances, or uses scheduled substances in its operation, in contravention of a provision of Schedule 4.
+
+          (2C)  A person must not, in the course of engaging in an activity to which this Part applies, manufacture or import a product that contains scheduled substances, or uses scheduled substances in its operation, in contravention of a provision of Schedule 4.
+
+          (2D)  Subsections (2B) and (2C) are **_civil penalty provisions_**.
+
+Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       For maximum penalty, see subsection 65AC(4).
+
+## 42  After subsection 41(2)
+
+Insert:
+
+          (2A)  The Minister may remove a country from the Register.
+
+          (2B)  If a substance is listed in the Register in relation to a country, the Minister may remove the substance from the Register in relation to that country.
+
+## 43  At the end of section 41
+
+Add:
+
+             (6)  The Register is not a legislative instrument.
+
+## 44  Subsection 44(1) (penalty)
+
+Omit “100 penalty units”, substitute “300 penalty units”.
+
+## 45  After subsection 44(2)
+
+Insert:
+
+          (2A)  A person must not import from a non‑Montreal Protocol country a product containing a stage‑1 scheduled substance.
+
+          (2B)  Subsection (2A) is a **_civil penalty provision_**.
+
+Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       For maximum penalty, see subsection 65AC(4).
+
+## 46  Subsection 44(3)
+
+Omit “Subsection (1) applies to a product declared by the Minister”, substitute “Subsections (1) and (2A) apply to a product declared, in writing, by the Minister”.
+
+## 47  Subsection 44(3)
+
+Omit “to which subsection (1) applies”, substitute “to which subsections (1) and (2A) apply”.
+
+## 48  Subsection 44(4)
+
+Omit “or the declaration of a product under subsection (3)”.
+
+## 49  Subsection 44(5) (penalty)
+
+Omit “100 penalty units”, substitute “300 penalty units”.
+
+## 50  After subsection 44(5A)
+
+Insert:
+
+          (5B)  A person must not import from a non‑Montreal Protocol country a product containing a stage‑2 scheduled substance.
+
+          (5C)  Subsection (5B) is a **_civil penalty provision_**.
+
+Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       For maximum penalty, see subsection 65AC(4).
+
+## 51  Subsection 44(6)
+
+Omit “Subsection (5) applies to a product declared by the Minister”, substitute “Subsections (5) and (5B) apply to a product declared, in writing, by the Minister”.
+
+## 52  Subsection 44(6)
+
+Omit “to which subsection (5) applies”, substitute “to which subsections (5) and (5B) apply”.
+
+## 53  Subsection 44(7)
+
+Repeal the subsection, substitute:
+
+             (7)  A declaration under subsection (3) or (6) is a legislative instrument.
+
+## 54  Subsection 45(1) (penalty)
+
+Omit “100 penalty units”, substitute “300 penalty units”.
+
+## 55  After subsection 45(2)
+
+Insert:
+
+          (2A)  A person must not import from a non‑Montreal Protocol country a product in the manufacture of which a stage‑1 scheduled substance was used.
+
+          (2B)  Subsection (2A) is a **_civil penalty provision_**.
+
+Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       For maximum penalty, see subsection 65AC(4).
+
+## 56  Subsection 45(3)
+
+Omit “Subsection (1) applies to a product declared by the Minister”, substitute “Subsections (1) and (2A) apply to a product declared, in writing, by the Minister”.
+
+## 57  Subsection 45(3)
+
+Omit “to which subsection (1) applies”, substitute “to which subsections (1) and (2A) apply”.
+
+## 58  Subsection 45(3A) (penalty)
+
+Omit “100 penalty units”, substitute “300 penalty units”.
+
+## 59  After subsection 45(3AA)
+
+Insert:
+
+       (3AB)  A person must not import from a non‑Montreal Protocol country a product in the manufacture of which a stage‑2 scheduled substance was used.
+
+       (3AC)  Subsection (3AB) is a **_civil penalty provision_**.
+
+Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       For maximum penalty, see subsection 65AC(4).
+
+## 60  Subsection 45(3B)
+
+Omit “Subsection (3A) applies to a product declared by the Minister”, substitute “Subsections (3A) and (3AB) apply to a product declared, in writing, by the Minister”.
+
+## 61  Subsection 45(3B)
+
+Omit “to which subsection (3A) applies”, substitute “to which subsections (3A) and (3AB) apply”.
+
+## 62  Subsection 45(4)
+
+Omit “and (3A)”, substitute “, (2A), (3A) and (3AB)”.
+
+## 63  Subsection 45(4)
+
+Omit “determined by the Minister”, substitute “determined, in writing, by the Minister”.
+
+## 64  Subsection 45(6)
+
+Omit “, the declaration of a product under subsection (3) or (3B) or the determination of conditions under subsection (4)”.
+
+## 65  Subsections 45(7) and (8)
+
+Repeal the subsections, substitute:
+
+             (7)  A declaration under subsection (3) or (3B) is a legislative instrument.
+
+             (8)  A determination under subsection (4) is a legislative instrument.
+
+             (9)  Despite the _Legislative Instruments Act 2003_, a determination under subsection (4) of this section takes effect at the start of the first day on which the determination is no longer liable to be disallowed, or to be taken to have been disallowed, under that Act.
+
+## 66  Subsection 45B(1) (penalty)
+
+Omit “100 penalty units”, substitute “300 penalty units”.
+
+## 67  After subsection 45B(2)
+
+Insert:
+
+          (2A)  A person must not engage in conduct if:
+
+                     (a)  the conduct results in the discharge of a scheduled substance; and
+
+                     (b)  the discharge occurs in circumstances where it is likely that the scheduled substance will enter the atmosphere; and
+
+                     (c)  the discharge is not in accordance with the regulations.
+
+          (2B)  Subsection (2A) is a **_civil penalty provision_**.
+
+Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       For maximum penalty, see subsection 65AC(4).
+
+## 68  Subsection 45B(3)
+
+Omit “Subsection (1) does not”, substitute “Subsections (1) and (2A) do not”.
+
+## 69  Subsection 45B(3) (note)
+
+After “defendant”, insert “in criminal proceedings”.
+
+## 70  After subsection 45B(3)
+
+Insert:
+
+          (3A)  A person who wishes to rely on subsection (3) of this section in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
+
+## 71  Subsection 46(1)
+
+Omit “within 15 days”, substitute “before the 15th day”.
+
+## 72  Subsection 46(1)
+
+Omit “, in accordance with a form approved by the Minister,”, substitute “in accordance with the regulations”.
+
+## 73  Subsections 46(1B), (1BA) and (1C)
+
+Omit “within 15 days”, substitute “before the 15th day”.
+
+## 74  Subsection 46(2) (penalty)
+
+Omit “100 penalty units”, substitute “60 penalty units”.
+
+## 75  Subsection 46(2AA) (penalty)
+
+Omit “10 penalty units”, substitute “60 penalty units”.
+
+## 76  After subsection 46(2B)
+
+Insert:
+
+          (2C)  A person must not contravene subsection (1).
+
+          (2D)  A person must not contravene subsection (1B), (1BA) or (1C).
+
+          (2E)  Subsections (2C) and (2D) are **_civil penalty provisions_**.
+
+Note 1:       Division 7 of Part VIII provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       For maximum penalty, see subsection 65AC(4).
+
+           (2F)  Subsections (2C) and (2D) do not apply if the person has a reasonable excuse.
+
+          (2G)  A person who wishes to rely on subsection (2F) of this section in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
+
+## 77  Division 1 of Part VIII (heading)
+
+Repeal the heading, substitute:
+
+### Division 1—Powers of inspectors
+
+## 78  Before section 48A
+
+Insert:
+
+#### Subdivision A—Inspectors
+
+## 79  At the end of section 49
+
+Add:
+
+             (3)  The Minister must not appoint a person as an inspector unless the Minister is satisfied that the person has suitable qualifications and experience to properly exercise the powers of an inspector.
+
+## 80  After section 49
+
+Insert:
+
+##### <a id="49A"></a>49A  Directions to inspectors
+
+             (1)  An inspector must, in exercising powers as an inspector, comply with any directions of the Minister.
+
+             (2)  If a direction is given under subsection (1) in writing, the direction is not a legislative instrument.
+
+## 81  Before section 51
+
+Insert:
+
+#### Subdivision B—Monitoring powers
+
+## 82  Subsection 51(1)
+
+Omit all the words from and including “that the inspector has reasonable cause to believe” to and including “any such book, record or document.”, substitute “and exercise the monitoring powers set out in section 51A.”.
+
+## 83  Subsection 51(3)
+
+Omit “exercise any powers under subsection (1) in relation to premises”, substitute “enter premises under subsection (1) of this section, or exercise the monitoring powers set out in section 51A in relation to premises,”.
+
+## 84  Subsection 51(4)
+
+Repeal the subsection.
+
+## 85  After section 51
+
+Insert:
+
+##### <a id="51A"></a>51A  Monitoring powers of inspectors
+
+General powers
+
+             (1)  The following are the **_monitoring powers_** that an inspector may exercise in relation to premises under section 51:
+
+                     (a)  to search the premises and any thing on the premises;
+
+                     (b)  to inspect, examine, take measurements of, conduct tests on, or take samples of, any gas or other substance on the premises;
+
+                     (c)  to take photographs, make video or audio recordings or make sketches of the premises or any thing on the premises;
+
+                     (d)  to inspect any book, record or document on the premises;
+
+                     (e)  to remove, take extracts from, or make copies of, any such book, record or document;
+
+                      (f)  to take onto the premises such equipment and materials as the inspector requires for the purpose of exercising powers in relation to the premises;
+
+                     (g)  the powers set out in subsections (2), (3) and (5).
+
+Operating electronic equipment
+
+             (2)  The monitoring powers include the power to operate electronic equipment at premises to find out whether:
+
+                     (a)  the equipment; or
+
+                     (b)  a disk, tape or other storage device that:
+
+                              (i)  is on the premises; and
+
+                             (ii)  can be used with the equipment or is associated with it;
+
+contains information that is relevant to ascertaining whether this Act or the regulations have been complied with.
+
+             (3)  The monitoring powers include the following powers in relation to information described in subsection (2) found in the exercise of the power under that subsection:
+
+                     (a)  to operate electronic equipment at the premises to put the information in documentary form and remove the documents so produced from the premises;
+
+                     (b)  to operate electronic equipment at the premises to transfer the information to a disk, tape or other storage device that:
+
+                              (i)  is brought to the premises for the exercise of the power; or
+
+                             (ii)  is at the premises and the use of which for the purpose has been agreed to in writing by the occupier of the premises or a person apparently representing the occupier;
+
+                            and remove the disk, tape or other storage device from the premises.
+
+             (4)  An inspector must not operate electronic equipment as mentioned in subsection (2) or (3) unless he or she believes on reasonable grounds that the operation of the equipment can be carried out without damage to the equipment.
+
+Securing things if entry to the premises is with the consent of the occupier etc.
+
+             (5)  The monitoring powers include the power to secure a thing on the premises for not more than 24 hours if:
+
+                     (a)  the thing is found on the premises during the exercise of monitoring powers under subsection (1); and
+
+                     (b)  the occupier of the premises, or another person who apparently represents the occupier, consents to the inspector entering the premises; and
+
+                     (c)  the inspector believes, on reasonable grounds, that:
+
+                              (i)  the thing affords evidence as to the commission of an offence against this Act or the regulations, as to a contravention of a civil penalty provision, or as to both; and
+
+                             (ii)  it is necessary to secure the thing in order to prevent it from being concealed, lost or destroyed before a warrant to seize the thing is obtained.
+
+             (6)  The inspector must not exercise the power under subsection (5) unless the inspector has given the occupier of the premises, or another person who apparently represents the occupier, a written notice that specifies the thing that the inspector intends to secure.
+
+             (7)  If an inspector believes on reasonable grounds that the thing needs to be secured for more than 24 hours, he or she may apply to a magistrate for an extension of that period.
+
+             (8)  The inspector must give notice to the occupier of the premises, or another person who apparently represents the occupier, of his or her intention to apply for an extension. The occupier is entitled to be heard in relation to that application.
+
+             (9)  The 24 hour period may be extended more than once.
+
+Offence
+
+           (10)  A person commits an offence if:
+
+                     (a)  an inspector has given the occupier of premises, or another person who apparently represents the occupier of premises, a notice under subsection (6); and
+
+                     (b)  the notice specifies a thing; and
+
+                     (c)  the person moves, alters or interferes with the thing specified in the notice.
+
+                    Penalty for contravention of this subsection:        Imprisonment for 2 years.
+
+##### <a id="51B"></a>51B  Persons assisting inspectors—monitoring powers
+
+Inspectors may be assisted by other persons
+
+             (1)  An inspector may, in entering premises under section 51 and in exercising the monitoring powers set out in the following provisions in relation to the premises:
+
+                     (a)  paragraph 51A(1)(a);
+
+                     (b)  paragraph 51A(1)(b);
+
+                     (c)  paragraph 51A(1)(c);
+
+                     (d)  paragraph 51A(1)(f);
+
+                     (e)  subsection 51A(2);
+
+                      (f)  subsection 51A(3);
+
+be assisted by other persons if that assistance is necessary and reasonable.
+
+             (2)  For the purposes of this section, a person giving such assistance is a **_person assisting_** the inspector.
+
+Powers of a person assisting the inspector
+
+             (3)  A person assisting the inspector may:
+
+                     (a)  enter the premises; and
+
+                     (b)  exercise the monitoring powers set out in the following provisions in relation to the premises:
+
+                              (i)  paragraph 51A(1)(a);
+
+                             (ii)  paragraph 51A(1)(b);
+
+                            (iii)  paragraph 51A(1)(c);
+
+                            (iv)  paragraph 51A(1)(f);
+
+                             (v)  subsection 51A(2);
+
+                            (vi)  subsection 51A(3);
+
+                            but only in accordance with a direction given to the person by the inspector.
+
+             (4)  A power exercised by a person assisting the inspector as mentioned in subsection (3) is taken for all purposes to have been exercised by the inspector.
+
+             (5)  If a direction is given under paragraph (3)(b) in writing, the direction is not a legislative instrument.
+
+## 86  Sections 52 and 53
+
+Repeal the sections, substitute:
+
+#### Subdivision C—Enforcement powers
+
+##### <a id="52"></a>52  Inspector may enter premises with consent or under enforcement warrant
+
+             (1)  If an inspector has reasonable grounds for suspecting that there may be evidential material on any premises, the inspector may:
+
+                     (a)  enter the premises; and
+
+                     (b)  exercise the enforcement powers set out in section 53.
+
+             (2)  However, an inspector is not authorised to enter the premises unless:
+
+                     (a)  the occupier of the premises, or a person apparently representing the occupier, has consented to the entry; or
+
+                     (b)  the entry is made under an enforcement warrant.
+
+Note:          For enforcement warrants, see sections 55E and 55F.
+
+##### <a id="53"></a>53  Enforcement powers of inspectors
+
+General powers
+
+             (1)  The following are the **_enforcement powers_** that an inspector may exercise in relation to premises under section 52:
+
+                     (a)  to search the premises and any thing on the premises for the evidential material;
+
+                     (b)  to inspect, examine, take measurements of, conduct tests on, or take samples of the evidential material;
+
+                     (c)  to take photographs, make video or audio recordings or make sketches of the premises or the evidential material;
+
+                     (d)  to take onto the premises such equipment and materials as the inspector requires for the purpose of exercising powers in relation to the premises;
+
+                     (e)  the powers in subsections (2), (3), (4), (8) and (9).
+
+Power to seize
+
+             (2)  If the entry is under an enforcement warrant, the enforcement powers include the power to seize the evidential material if the inspector finds it on the premises.
+
+Note:          For enforcement warrants, see sections 55E and 55F.
+
+Operation of equipment
+
+             (3)  The enforcement powers include the power to operate electronic equipment at premises to find out whether:
+
+                     (a)  the equipment; or
+
+                     (b)  a disk, tape or other storage device that:
+
+                              (i)  is on the premises; and
+
+                             (ii)  can be used with the equipment or is associated with it;
+
+contains evidential material.
+
+Removing documents and disks etc.
+
+             (4)  The enforcement powers include the following powers in relation to evidential material found in the exercise of the power under subsection (3):
+
+                     (a)  to seize the equipment and any disk, tape or other associated device;
+
+                     (b)  to operate electronic equipment at the premises to put the information in documentary form and seize the documents so produced;
+
+                     (c)  to operate electronic equipment at the premises to transfer the information to a disk, tape or other storage device that:
+
+                              (i)  is brought to the premises for the exercise of the power; or
+
+                             (ii)  is at the premises and the use of which for the purpose has been agreed to in writing by the occupier of the premises, or another person who apparently represents the occupier;
+
+                            and remove the disk, tape or other storage device from the premises.
+
+How powers to be exercised
+
+             (5)  An inspector must not operate electronic equipment as mentioned in subsection (3) or (4) unless he or she believes on reasonable grounds that the operation of the equipment can be carried out without damage to the equipment.
+
+Seizing equipment
+
+             (6)  An inspector must not seize equipment under paragraph (4)(a) unless:
+
+                     (a)  it is not practicable to put the material in documentary form as mentioned in paragraph (4)(b) or to transfer the material as mentioned in paragraph (4)(c); or
+
+                     (b)  possession by the occupier of the equipment could constitute an offence against a law of the Commonwealth.
+
+             (7)  An inspector must not seize equipment under paragraph (4)(a) or documents under paragraph (4)(b) unless the inspector entered the premises under an enforcement warrant.
+
+Seizing other evidential material
+
+             (8)  If:
+
+                     (a)  in the course of searching for a particular thing, in accordance with an enforcement warrant, an inspector finds another thing that the inspector believes on reasonable grounds to be evidential material; and
+
+                     (b)  the inspector believes, on reasonable grounds, that it is necessary to seize the other thing in order to prevent its concealment, loss or destruction, or its use:
+
+                              (i)  in committing, continuing or repeating an offence against this Act or the regulations; or
+
+                             (ii)  in committing, continuing or repeating a contravention of a civil penalty provision;
+
+the enforcement powers include the power to seize that other thing.
+
+Seizing containers
+
+             (9)  If:
+
+                     (a)  an inspector has a power to seize a thing (the **_seizable thing_**) under subsection (2), (4) or (8); and
+
+                     (b)  the seizable thing is in a container; and
+
+                     (c)  the inspector believes, on reasonable grounds, that it is not reasonably practicable to seize the seizable thing without also seizing the container;
+
+then, for the purposes of seizing the seizable thing, the enforcement powers include the power to seize the container containing the seizable thing (whether or not the container also contains any other thing).
+
+           (10)  If the seizable thing is returned under section 53G or 60B, the container must be returned at the same time as the seizable thing.
+
+           (11)  If the seizable thing is forfeited to the Commonwealth, the container must be returned as soon as reasonably practicable after the forfeiture.
+
+Note:          For forfeiture, see Division 3.
+
+##### <a id="53A"></a>53A  Persons assisting inspectors—enforcement powers
+
+Inspectors may be assisted by other persons
+
+             (1)  An inspector may, in entering premises under section 52 and in exercising the enforcement powers set out in the following provisions in relation to the premises:
+
+                     (a)  paragraph 53(1)(a);
+
+                     (b)  paragraph 53(1)(b);
+
+                     (c)  paragraph 53(1)(c);
+
+                     (d)  paragraph 53(1)(d);
+
+                     (e)  subsection 53(3);
+
+                      (f)  subsection 53(4);
+
+be assisted by other persons if that assistance is necessary and reasonable.
+
+             (2)  For the purposes of this section, a person giving such assistance is a **_person assisting_** the inspector.
+
+Powers of a person assisting the inspector
+
+             (3)  A person assisting the inspector may:
+
+                     (a)  enter the premises; and
+
+                     (b)  exercise the enforcement powers set out in the following provisions:
+
+                              (i)  paragraph 53(1)(a);
+
+                             (ii)  paragraph 53(1)(b);
+
+                            (iii)  paragraph 53(1)(c);
+
+                            (iv)  paragraph 53(1)(d);
+
+                             (v)  subsection 53(3);
+
+                            (vi)  subsection 53(4);
+
+                            in relation to the premises, but only in accordance with a direction given to the person by the inspector.
+
+             (4)  A power exercised by a person assisting the inspector as mentioned in subsection (3) is taken for all purposes to have been exercised by the inspector.
+
+             (5)  If a direction is given under paragraph (3)(b) in writing, the direction is not a legislative instrument.
+
+##### <a id="53B"></a>53B  Announcement before entry under warrant
+
+             (1)  An inspector must, before entering premises under an enforcement warrant:
+
+                     (a)  announce that he or she is authorised to enter the premises; and
+
+                     (b)  show:
+
+                              (i)  his or her identity card; or
+
+                             (ii)  written evidence identifying the inspector as a member or special member of the Australian Federal Police or an officer of Customs;
+
+                            to the occupier of the premises, or another person apparently representing the occupier, if the occupier or other person is present at the premises; and
+
+                     (c)  give any person at the premises an opportunity to allow entry to the premises.
+
+             (2)  However, an inspector is not required to comply with subsection (1) if he or she believes on reasonable grounds that immediate entry to the premises is required:
+
+                     (a)  to prevent serious damage to the environment; or
+
+                     (b)  to ensure that the effective execution of the warrant is not frustrated.
+
+             (3)  If:
+
+                     (a)  an inspector is not required to comply with subsection (1) because of subsection (2); and
+
+                     (b)  the occupier of the premises, or another person apparently representing the occupier, is present at the premises;
+
+the inspector must, as soon as practicable after entering the premises, show:
+
+                     (c)  his or her identity card; or
+
+                     (d)  written evidence identifying the inspector as a member or special member of the Australian Federal Police or an officer of Customs;
+
+to the occupier or other person.
+
+##### <a id="53C"></a>53C  Details of warrant etc. to be given to occupier
+
+             (1)  If:
+
+                     (a)  an enforcement warrant is being executed in relation to premises; and
+
+                     (b)  the occupier of the premises, or another person apparently representing the occupier, is present at the premises;
+
+the inspector executing the warrant must, as soon as practicable, make a copy of the enforcement warrant available to the occupier or other person.
+
+             (2)  The copy need not include the signature of the magistrate who issued the enforcement warrant.
+
+#### Subdivision D—General provisions relating to seizure etc.
+
+##### <a id="53D"></a>53D  Receipts for seized things and seizure notice
+
+Receipts
+
+             (1)  If a thing is seized under section 53, the inspector must provide a receipt for the thing.
+
+             (2)  If 2 or more things are seized, they may be covered in the one receipt.
+
+Notice
+
+             (3)  The receipt must be accompanied by a notice that sets out, in summary form, an explanation of sections 53E, 53F, 53G, 53H, 53J, 53K and 53L.
+
+##### <a id="53E"></a>53E  Copies of seized things to be provided
+
+             (1)  If, under an enforcement warrant relating to premises, an inspector seizes:
+
+                     (a)  a document, film, computer file or other thing that can be readily copied; or
+
+                     (b)  a storage device, the information in which can be readily copied;
+
+the inspector must, if requested to do so by:
+
+                     (c)  the occupier of the premises; or
+
+                     (d)  another person who apparently represents the occupier and who is present when the warrant is executed;
+
+give a copy of the thing or the information to the occupier or other person as soon as practicable after the seizure.
+
+             (2)  However, subsection (1) does not apply if:
+
+                     (a)  the thing that has been seized was seized under paragraph 53(4)(b) or (c); or
+
+                     (b)  possession by the occupier of the document, film, computer file, thing or information could constitute an offence against a law of the Commonwealth.
+
+##### <a id="53F"></a>53F  Inspection of seized books, records or documents
+
+                   If:
+
+                     (a)  an inspector seizes a book, record or document under section 53; and
+
+                     (b)  the book, record or document is in the inspector’s possession;
+
+the inspector must permit a person who would be entitled to inspect the book, record or document if it were not in the inspector’s possession to inspect the book, record or document at all reasonable times.
+
+##### <a id="53G"></a>53G  Return of seized things
+
+             (1)  Subject to any contrary order of a court, if:
+
+                     (a)  an inspector seizes a thing under section 53; and
+
+                     (b)  a forfeiture notice has not been given in relation to the thing;
+
+the inspector must return it if:
+
+                     (c)  the reason for its seizure no longer exists or it is decided that it is not to be used in evidence; or
+
+                     (d)  the period of 60 days after its seizure ends;
+
+whichever first occurs, unless the thing is forfeited to the Commonwealth.
+
+Note:          For forfeiture, see Division 3.
+
+             (2)  At the end of the 60 days specified in subsection (1), an inspector must take reasonable steps to return the thing to the person from whom it was seized, unless:
+
+                     (a)  proceedings in respect of which the thing may afford evidence were instituted before the end of the 60 days and have not been completed (including an appeal to a court in relation to those proceedings); or
+
+                     (b)  an inspector may retain the thing because of an order under section 53H; or
+
+                     (c)  the owner of the thing consents to the thing not being returned; or
+
+                     (d)  to return the thing could cause an imminent risk of death, serious illness, serious injury or serious damage to the environment; or
+
+                     (e)  an inspector is otherwise authorised (by a law, or an order of a court, of the Commonwealth or of a State or Territory) to retain, destroy or dispose of the thing.
+
+##### <a id="53H"></a>53H  Magistrate may permit seized things to be retained
+
+             (1)  An inspector may apply to a magistrate for an order that he or she may retain the thing for a further period if:
+
+                     (a)  before the end of 60 days after the seizure; or
+
+                     (b)  before the end of a period previously specified in an order of a magistrate under this section;
+
+proceedings in respect of which the thing may afford evidence have not commenced.
+
+             (2)  If the magistrate is satisfied that it is necessary for an inspector to continue to retain the thing:
+
+                     (a)  for the purpose of an investigation as to whether:
+
+                              (i)  an offence against this Act or the regulations has been committed; or
+
+                             (ii)  a civil penalty provision has been contravened; or
+
+                     (b)  to enable:
+
+                              (i)  evidence of an offence against this Act or the regulations to be secured for the purpose of a prosecution; or
+
+                             (ii)  evidence of a contravention of a civil penalty provision to be secured for the purpose of civil proceedings;
+
+the magistrate may order that an inspector may retain the thing for a period (not exceeding 3 years) specified in the order.
+
+             (3)  Before making the application, the inspector must:
+
+                     (a)  take reasonable steps to discover who has an interest in the retention of the thing; and
+
+                     (b)  if it is practicable to do so, notify each person whom the inspector believes to have such an interest of the proposed application.
+
+##### <a id="53J"></a>53J  Powers to take samples and conduct tests
+
+Taking samples
+
+             (1)  If an inspector seizes gas or another substance under section 53, the inspector may arrange for samples to be taken of the gas or other substance by the inspector or another person.
+
+             (2)  The regulations may prescribe procedures for dealing with samples taken under this Division.
+
+             (3)  The regulations may provide for compensation to be paid for samples taken under this Division.
+
+Conducting tests
+
+             (4)  If a sample of gas or another substance is taken by an inspector under this Division, the inspector may arrange for tests to be conducted on the sample by the inspector or another person.
+
+             (5)  The regulations may prescribe procedures for the conduct of tests under this Division.
+
+Substantial compliance with procedures
+
+             (6)  The regulations may provide that:
+
+                     (a)  particular procedures prescribed for the purposes of this section need not be strictly complied with; and
+
+                     (b)  substantial compliance is sufficient.
+
+             (7)  However, subsection (6) does not apply to procedures for ensuring that a sample is not interfered with by anyone who is not authorised to do so.
+
+##### <a id="53K"></a>53K  Directions about how pressurised container is to be dealt with
+
+Scope
+
+             (1)  This section applies if an inspector seizes a pressurised container under section 53.
+
+Application for direction
+
+             (2)  The inspector may apply to the Minister or Secretary for a direction under subsection (3).
+
+Direction
+
+             (3)  If:
+
+                     (a)  the inspector applies to the Minister or Secretary for a direction under subsection (2); and
+
+                     (b)  the Minister or Secretary, as the case may be, is satisfied that the pressurised container constitutes a danger to public health and safety;
+
+the Minister or Secretary, as the case may be, may direct that the pressurised container must be dealt with in a manner specified in the direction.
+
+             (4)  A direction under subsection (3) may require the pressurised container and its contents to be destroyed.
+
+             (5)  Subsection (4) does not limit subsection (3).
+
+             (6)  The inspector must comply with a direction under subsection (3).
+
+             (7)  A direction under subsection (3) is not a legislative instrument.
+
+Compensation
+
+             (8)  If a pressurised container and its contents is destroyed under this section, the owner of the container may apply to a designated court for compensation.
+
+             (9)  On application under subsection (8), the designated court must order the Commonwealth to pay compensation if the court is satisfied that the pressurised container did not contain forfeitable goods.
+
+           (10)  The amount of compensation ordered must be the market value of the pressurised container and its contents at the time they were destroyed.
+
+##### <a id="53L"></a>53L  Disposal of goods if person cannot be located
+
+             (1)  If:
+
+                     (a)  a thing is seized under section 53; and
+
+                     (b)  apart from this section, the thing is required to be returned to a person; and
+
+                     (c)  the Secretary cannot, despite making reasonable efforts, locate the person;
+
+the Secretary may dispose of the thing, or cause the thing to be disposed of, in such manner as he or she thinks appropriate.
+
+             (2)  The Secretary may, by writing, delegate any or all of his or her powers under subsection (1) to an SES employee or acting SES employee.
+
+Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in the _Acts Interpretation Act 1901_.
+
+             (3)  A delegate must comply with any written directions of the Secretary.
+
+#### Subdivision E—Obligations and incidental powers of inspectors
+
+##### <a id="53M"></a>53M  Consent
+
+             (1)  An inspector must, before obtaining the consent of a person to enter premises under this Division, inform the person that he or she may refuse consent.
+
+             (2)  An entry of an inspector with the consent of a person is not lawful unless the person voluntarily consented to the entry.
+
+## 87  Section 55
+
+Repeal the section, substitute:
+
+##### <a id="55"></a>55  Inspection of books, records or documents removed by, or produced to, inspectors
+
+                   If:
+
+                     (a)  either:
+
+                              (i)  an inspector removes a book, record or document under paragraph 51A(1)(e); or
+
+                             (ii)  a person produces a book, record or document to an inspector in compliance with a requirement under subsection 54(1); and
+
+                     (b)  the book, record or document is in the inspector’s possession;
+
+the inspector must permit a person who would be entitled to inspect the book, record or document if it were not in the inspector’s possession to inspect the book, record or document at all reasonable times.
+
+##### <a id="55A"></a>55A  Return of books, records or documents removed by, or produced to, inspectors
+
+             (1)  Subject to any contrary order of a court, if:
+
+                     (a)  either:
+
+                              (i)  an inspector removes a book, record or document under paragraph 51A(1)(e); or
+
+                             (ii)  a person produces a book, record or document to an inspector in compliance with a requirement under subsection 54(1); and
+
+                     (b)  the book, record or document is in the inspector’s possession;
+
+the inspector must return the book, record or document if:
+
+                     (c)  the reason for its removal or production no longer exists or it is decided that it is not to be used in evidence; or
+
+                     (d)  the period of 60 days after its removal or production ends;
+
+whichever first occurs, unless the book, record or document is forfeited to the Commonwealth.
+
+Note:          For forfeiture, see Division 3.
+
+             (2)  At the end of the 60 days specified in subsection (1), an inspector must take reasonable steps to return the book, record or document to the person from whom it was removed, or who produced it, unless:
+
+                     (a)  proceedings in respect of which the book, record or document may afford evidence were instituted before the end of the 60 days and have not been completed (including an appeal to a court in relation to those proceedings); or
+
+                     (b)  an inspector may retain the book, record or document because of an order under section 55B; or
+
+                     (c)  the owner of the book, record or document consents to it not being returned; or
+
+                     (d)  an inspector is otherwise authorised (by a law, or an order of a court, of the Commonwealth or of a State or Territory) to retain, destroy or dispose of the book, record or document.
+
+##### <a id="55B"></a>55B  Magistrate may permit books, records or documents to be retained
+
+             (1)  An inspector may apply to a magistrate for an order that he or she may retain the book, record or document for a further period if:
+
+                     (a)  before the end of 60 days after the removal or production of the book, record or document; or
+
+                     (b)  before the end of a period previously specified in an order of a magistrate under this section;
+
+proceedings in respect of which the book, record or document may afford evidence have not commenced.
+
+             (2)  If the magistrate is satisfied that it is necessary for an inspector to continue to retain the book, record or document:
+
+                     (a)  for the purpose of an investigation as to whether:
+
+                              (i)  an offence against this Act or the regulations has been committed; or
+
+                             (ii)  a civil penalty provision has been contravened; or
+
+                     (b)  to enable:
+
+                              (i)  evidence of an offence against this Act or the regulations to be secured for the purpose of a prosecution; or
+
+                             (ii)  evidence of a contravention of a civil penalty provision to be secured for the purpose of civil proceedings;
+
+the magistrate may order that an inspector may retain the book, record or document for a period (not exceeding 3 years) specified in the order.
+
+             (3)  Before making the application, the inspector must:
+
+                     (a)  take reasonable steps to discover who has an interest in the retention of the book, record or document; and
+
+                     (b)  if it is practicable to do so, notify each person whom the inspector believes to have such an interest of the proposed application.
+
+##### <a id="55C"></a>55C  Securing electronic equipment for use by experts
+
+             (1)  If an inspector believes on reasonable grounds that:
+
+                     (a)  any of the following:
+
+                              (i)  information that is relevant to ascertaining whether this Act or the regulations have been complied with;
+
+                             (ii)  evidential material;
+
+                            may be accessible by operating electronic equipment at particular premises; and
+
+                     (b)  expert assistance is required to operate the equipment; and
+
+                     (c)  if he or she does not take action under this subsection, the information or material may be destroyed, altered or otherwise interfered with;
+
+he or she may do whatever is necessary to secure the equipment, whether by locking it up, placing a guard or otherwise.
+
+Notice to occupier
+
+             (2)  The inspector must give notice to the occupier of the premises, or another person who apparently represents the occupier, of his or her intention to secure the equipment and of the fact that the equipment may be secured for up to 24 hours.
+
+Period during which equipment may be secured
+
+             (3)  The equipment may be secured:
+
+                     (a)  for a period not exceeding 24 hours; or
+
+                     (b)  until the equipment has been operated by the expert;
+
+whichever happens first.
+
+Extensions
+
+             (4)  If the inspector believes on reasonable grounds that the expert assistance will not be available within 24 hours, he or she may apply to a magistrate for an order extending that period.
+
+             (5)  The inspector must give notice to the occupier of the premises, or another person who apparently represents the occupier, of his or her intention to apply for an extension, and the occupier is entitled to be heard in relation to the application.
+
+             (6)  The magistrate may order an extension for a period specified in the order if the magistrate is satisfied that the extension is necessary.
+
+##### <a id="55D"></a>55D  Compensation for damage to electronic equipment
+
+             (1)  This section applies if:
+
+                     (a)  as a result of electronic equipment being operated as mentioned in this Division:
+
+                              (i)  damage is caused to the equipment; or
+
+                             (ii)  the data recorded on the equipment is damaged; or
+
+                            (iii)  programs associated with the use of the equipment, or with the use of the data, are damaged or corrupted; and
+
+                     (b)  the damage or corruption occurs because:
+
+                              (i)  insufficient care was exercised in selecting the person who was to operate the equipment; or
+
+                             (ii)  insufficient care was exercised by the person operating the equipment.
+
+             (2)  The Commonwealth must pay the owner of the equipment, or the user of the data or programs, such reasonable compensation for the damage or corruption as the Commonwealth and the owner or user agree on.
+
+             (3)  However, if the owner or user and the Commonwealth fail to agree, the owner or user may institute proceedings in a designated court for such reasonable amount of compensation as the designated court determines.
+
+             (4)  In determining the amount of compensation payable, regard is to be had to whether the occupier of the premises, or the occupier’s employees and agents, if they were available at the time, provided any appropriate warning or guidance on the operation of the equipment.
+
+             (5)  In this section:
+
+                    <a name="damag"></a>**_damage_**, in relation to data, includes damage by erasure of data or addition of other data.
+
+#### Subdivision F—Enforcement warrants
+
+##### <a id="55E"></a>55E  Enforcement warrants
+
+Application for an enforcement warrant
+
+             (1)  An inspector may apply to a magistrate for an enforcement warrant under this section in relation to premises.
+
+Issue of an enforcement warrant
+
+             (2)  The magistrate may issue the enforcement warrant if the magistrate is satisfied, by information on oath, that there are reasonable grounds for suspecting that there is, or there may be within the next 72 hours, evidential material in or on the premises.
+
+             (3)  However, the magistrate must not issue the enforcement warrant unless the inspector or some other person has given to the magistrate, either orally or by affidavit, such further information (if any) as the magistrate requires concerning the grounds on which the issue of the warrant is being sought.
+
+Content of an enforcement warrant
+
+             (4)  The enforcement warrant must:
+
+                     (a)  name one or more inspectors; and
+
+                     (b)  authorise the inspectors so named, with such assistance and by such force as is necessary and reasonable:
+
+                              (i)  to enter the premises; and
+
+                             (ii)  to exercise the enforcement powers set out in section 53; and
+
+                     (c)  state whether the entry is authorised to be made at any time of the day or night or during specified hours of the day or night; and
+
+                     (d)  specify the day (not more than one week after the issue of the warrant) on which the warrant ceases to have effect; and
+
+                     (e)  state the purpose for which the warrant is issued.
+
+##### <a id="55F"></a>55F  Enforcement warrants by telephone, telex, fax etc.
+
+Application for an enforcement warrant
+
+             (1)  If, in an urgent case, an inspector considers it necessary to do so, the inspector may apply to a magistrate by telephone, telex, fax or other electronic means for an enforcement warrant in relation to premises.
+
+             (2)  The magistrate may require communication by voice to the extent that it is practicable in the circumstances.
+
+             (3)  Before applying for the enforcement warrant, the inspector must prepare an information of the kind mentioned in subsection 55E(2) in relation to the premises that sets out the grounds on which the warrant is sought.
+
+             (4)  If it is necessary to do so, the inspector may apply for the enforcement warrant before the information is sworn.
+
+Issue of an enforcement warrant
+
+             (5)  If the magistrate is satisfied:
+
+                     (a)  after having considered the terms of the information; and
+
+                     (b)  after having received such further information (if any) as the magistrate requires concerning the grounds on which the issue of the enforcement warrant is being sought;
+
+that there are reasonable grounds for issuing the warrant, the magistrate may complete and sign the same warrant that the magistrate would issue under section 55E if the application had been made under that section.
+
+Obligations of magistrate and inspector once an enforcement warrant issued
+
+             (6)  If the magistrate completes and signs the enforcement warrant:
+
+                     (a)  the magistrate must:
+
+                              (i)  tell the inspector what the terms of the warrant are; and
+
+                             (ii)  tell the inspector the day on which and the time at which the warrant was signed; and
+
+                            (iii)  tell the inspector the day (not more than one week after the magistrate completes and signs the warrant) on which the warrant ceases to have effect; and
+
+                            (iv)  record on the warrant the reasons for issuing the warrant; and
+
+                     (b)  the inspector must:
+
+                              (i)  complete a form of enforcement warrant in the same terms as the warrant completed and signed by the magistrate; and
+
+                             (ii)  write on the form the name of the magistrate and the day on which and the time at which the warrant was signed.
+
+             (7)  The inspector must also, not later than the day after the day of expiry or execution of the enforcement warrant, whichever is the earlier, send to the magistrate:
+
+                     (a)  the form of enforcement warrant completed by the inspector; and
+
+                     (b)  the information referred to in subsection (3), which must have been duly sworn.
+
+             (8)  When the magistrate receives those documents, the magistrate must:
+
+                     (a)  attach them to the enforcement warrant that the magistrate completed and signed; and
+
+                     (b)  deal with them in the way in which the magistrate would have dealt with the information if the application had been made under section 55E.
+
+Authority of an enforcement warrant
+
+             (9)  A form of enforcement warrant duly completed under subsection (6) is authority for any entry, search, seizure or other exercise of a power that the warrant signed by the magistrate authorises.
+
+           (10)  If:
+
+                     (a)  it is material, in any proceedings, for a court to be satisfied that an exercise of a power was authorised by this section; and
+
+                     (b)  the enforcement warrant signed by the magistrate authorising the exercise of the power is not produced in evidence;
+
+the court must assume, unless the contrary is proved, that the exercise of the power was not authorised by such a warrant.
+
+##### <a id="55G"></a>55G  Offences relating to warrants
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is an inspector; and
+
+                     (b)  the person makes an application for an enforcement warrant; and
+
+                     (c)  the application includes a statement; and
+
+                     (d)  the statement is false or misleading in a material particular.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (2)  The fault element for paragraph (1)(d) is knowledge.
+
+             (3)  A person commits an offence if:
+
+                     (a)  the person is an inspector; and
+
+                     (b)  the person prepares a document that purports to be a form of enforcement warrant under section 55F; and
+
+                     (c)  the document states the name of a magistrate; and
+
+                     (d)  the magistrate named did not issue the enforcement warrant.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (4)  A person commits an offence if:
+
+                     (a)  the person is an inspector; and
+
+                     (b)  the person prepares a document that purports to be a form of enforcement warrant under section 55F; and
+
+                     (c)  the document states a matter; and
+
+                     (d)  the matter departs in a material particular from the form authorised by the magistrate.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (5)  The fault element for paragraph (4)(d) is knowledge.
+
+             (6)  A person commits an offence if:
+
+                     (a)  the person is an inspector; and
+
+                     (b)  the person:
+
+                              (i)  purports to execute; or
+
+                             (ii)  presents to another person;
+
+                            a document that purports to be a form of enforcement warrant under section 55F; and
+
+                     (c)  the document:
+
+                              (i)  has not been approved by a magistrate under section 55F; or
+
+                             (ii)  departs in a material particular from the terms authorised by that section.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (7)  The fault element for paragraph (6)(c) is knowledge.
+
+             (8)  A person commits an offence if:
+
+                     (a)  the person is an inspector; and
+
+                     (b)  the person gives a form of enforcement warrant under section 55F to a magistrate; and
+
+                     (c)  the form of enforcement warrant is not the form of enforcement warrant that the inspector purported to execute.
+
+                    Penalty for contravention of this subsection:        Imprisonment for 2 years.
+
+#### Subdivision G—Powers of magistrates
+
+##### <a id="55H"></a>55H  Powers of magistrates
+
+Powers conferred personally
+
+             (1)  A power conferred on a magistrate by this Division is conferred on the magistrate:
+
+                     (a)  in a personal capacity; and
+
+                     (b)  not as a court or a member of a court.
+
+Powers need not be accepted
+
+             (2)  The magistrate need not accept the power conferred.
+
+Protection and immunity
+
+             (3)  A magistrate exercising a power conferred by this Division has the same protection and immunity as if he or she were exercising the power:
+
+                     (a)  as the court of which the magistrate is a member; or
+
+                     (b)  as a member of the court of which the magistrate is a member.
+
+## 88  Section 57
+
+Repeal the section, substitute:
+
+#### Subdivision A—Forfeitable goods
+
+##### <a id="57"></a>57  Forfeitable goods
+
+             (1)  For the purposes of this Act, the following goods are **_forfeitable goods_**:
+
+                     (a)  scheduled substances in respect of the manufacture of which:
+
+                              (i)  a person has been convicted of an offence under section 13; or
+
+                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in section 13; or
+
+                            (iii)  a person has contravened section 13;
+
+                     (b)  scheduled substances in respect of the import of which:
+
+                              (i)  a person has been convicted of an offence under section 13; or
+
+                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in section 13; or
+
+                            (iii)  a person has contravened section 13;
+
+                     (c)  scheduled substances in respect of the export of which:
+
+                              (i)  a person has been convicted of an offence under section 13; or
+
+                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in section 13; or
+
+                            (iii)  a person has contravened section 13;
+
+                     (d)  products that contain scheduled substances, or that use scheduled substances in their operation, where:
+
+                              (i)  a person has been convicted of an offence against section 38 in respect of the manufacture or import of the products; or
+
+                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in section 38 in respect of the manufacture or import of the products; or
+
+                            (iii)  a person has contravened section 38 in respect of the manufacture or import of the products;
+
+                     (e)  products that contain scheduled substances, or that use scheduled substances in their operation, where:
+
+                              (i)  a person has been convicted of an offence against regulations made for the purposes of section 39 in respect of the manufacture, import, export, distribution or use of the products; or
+
+                             (ii)  a person has contravened regulations made for the purposes of section 39 in respect of the manufacture, import, export, distribution or use of the products;
+
+                      (f)  products that contain scheduled substances, where:
+
+                              (i)  a person has been convicted of an offence against section 44 in respect of the import of the products; or
+
+                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in section 44 in respect of the import of the products; or
+
+                            (iii)  a person has contravened section 44 in respect of the import of the products;
+
+                     (g)  products in the manufacture of which scheduled substances were used, where:
+
+                              (i)  a person has been convicted of an offence against section 45 in respect of the import of the products; or
+
+                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in section 45 in respect of the import of the products; or
+
+                            (iii)  a person has contravened section 45 in respect of the import of the products;
+
+                     (h)  prescribed goods in respect of which:
+
+                              (i)  a person has been convicted of an offence against a prescribed provision of the regulations; or
+
+                             (ii)  a civil penalty order has been made against a person for a contravention of a civil penalty provision set out in the regulations; or
+
+                            (iii)  a person has contravened a prescribed provision of the regulations.
+
+             (2)  For the purposes of this Act, goods are also **_forfeitable goods_** if:
+
+                     (a)  the goods are a quantity of scheduled substances or products; and
+
+                     (b)  the goods are mixed with another quantity of scheduled substances or products (the **_other quantity_**) of the same kind or a similar kind; and
+
+                     (c)  the other quantity is forfeitable goods.
+
+## 89  Before section 58
+
+Insert:
+
+#### Subdivision B—Forfeiture following conviction or making of civil penalty order
+
+## 90  Section 58
+
+Before “Where”, insert “(1)”.
+
+## 91  Section 58
+
+After “a provision of this Act”, insert “or the regulations”.
+
+## 92  At the end of section 58
+
+Add:
+
+             (2)  If a civil penalty order has been made against a person for a contravention of a civil penalty provision referred to in subsection 57(1), all forfeitable goods to which the contravention relates are, by force of the order, forfeited to the Commonwealth.
+
+## 93  After section 60
+
+Insert:
+
+#### Subdivision C—Forfeiture of seized goods
+
+##### <a id="60A"></a>60A  Forfeiture notices
+
+             (1)  If:
+
+                     (a)  an inspector seizes goods under section 53; and
+
+                     (b)  the inspector suspects, on reasonable grounds, that the goods are forfeitable goods;
+
+the inspector may, within 7 days after the seizure, give a written notice (a **_forfeiture notice_**) to:
+
+                     (c)  the owner of the goods; or
+
+                     (d)  if the owner of the goods cannot be identified after reasonable inquiry—the person from whom the goods were seized.
+
+             (2)  The forfeiture notice must:
+
+                     (a)  identify the goods; and
+
+                     (b)  state that the goods have been seized; and
+
+                     (c)  specify the reason for the seizure; and
+
+                     (d)  state that the goods will be forfeited to the Commonwealth unless:
+
+                              (i)  the owner of the thing, or the person from whom the thing was seized, applies to a designated court under section 60B within 60 days after the forfeiture notice is given; and
+
+                             (ii)  the court makes an order that the goods are not forfeitable goods; and
+
+                     (e)  specify the address of the Secretary.
+
+##### <a id="60B"></a>60B  Claims that seized goods are not forfeitable goods
+
+             (1)  If a forfeiture notice is given under section 60A in relation to goods (the **_identified goods_**), either of the following persons:
+
+                     (a)  the owner of the goods;
+
+                     (b)  the person from whom the goods were seized;
+
+may apply to a designated court for:
+
+                     (c)  an order that all of the identified goods are not forfeitable goods; or
+
+                     (d)  an order that specified identified goods are not forfeitable goods.
+
+             (2)  The application must be made within 60 days after forfeiture notice is given.
+
+             (3)  If a person applies for an order under paragraph (1)(c), the court must:
+
+                     (a)  make the order if it is satisfied that the identified goods are not forfeitable goods; or
+
+                     (b)  refuse to make the order if it is not satisfied that the identified goods are not forfeitable goods.
+
+             (4)  If a person applies for an order under paragraph (1)(d), the court must:
+
+                     (a)  make the order if it is satisfied that the goods specified in the application are not forfeitable goods; or
+
+                     (b)  refuse to make the order if it is not satisfied that the goods specified in the application are not forfeitable goods.
+
+             (5)  If the court makes an order under paragraph (3)(a) or (4)(a) in relation to goods, the inspector must take reasonable steps to return the goods to the applicant, unless:
+
+                     (a)  proceedings in respect of which the goods may afford evidence were instituted before the order was made and have not been completed (including an appeal to a court in relation to those proceedings); or
+
+                     (b)  to return the goods could cause an imminent risk of death, serious illness, serious injury or serious damage to the environment; or
+
+                     (c)  an inspector is otherwise authorised (by a law, or an order of a court, of the Commonwealth or of a State or Territory) to retain, destroy or dispose of the goods.
+
+##### <a id="60C"></a>60C  Forfeiture of seized goods to the Commonwealth
+
+             (1)  If:
+
+                     (a)  a forfeiture notice has been given in relation to seized goods; and
+
+                     (b)  60 days pass after the notice is given, and an application under section 60B has not been made in relation to the goods;
+
+the goods are forfeited to the Commonwealth at the end of the 60th day after the day the forfeiture notice was given.
+
+             (2)  If:
+
+                     (a)  a forfeiture notice has been given in relation to seized goods; and
+
+                     (b)  within 60 days after the notice is given, an application under section 60B is made to a designated court for an order that the goods are not forfeitable goods; and
+
+                     (c)  the court refuses to make the order;
+
+the goods are forfeited to the Commonwealth when the court refuses to make the order.
+
+##### <a id="60D"></a>60D  Right of compensation in certain circumstances
+
+             (1)  If:
+
+                     (a)  goods are seized under section 53; and
+
+                     (b)  the goods are forfeited to the Commonwealth under section 60C;
+
+the owner of the goods may apply to a designated court for compensation.
+
+             (2)  On application under subsection (1), the court must order that the Commonwealth pay compensation to the owner of the goods if the court is satisfied that:
+
+                     (a)  the applicant is the owner of the goods; and
+
+                     (b)  either:
+
+                              (i)  Division 1 was not complied with in relation to the seizure of the goods; or
+
+                             (ii)  the goods were not forfeitable goods.
+
+             (3)  The amount of compensation ordered must be the market value of the goods at the time the goods were forfeited.
+
+#### Subdivision D—General provisions
+
+##### <a id="60E"></a>60E  Forfeited goods become the property of the Commonwealth
+
+                   Goods that are forfeited to the Commonwealth under this Division become the property of the Commonwealth.
+
+## 94  Section 61
+
+Before “Goods”, insert “(1)”.
+
+## 95  Section 61
+
+After “section 58”, insert “or section 60C”.
+
+## 96  At the end of section 61
+
+Add:
+
+             (2)  The forfeited goods must not be sold.
+
+## 97  Subsection 62(1)
+
+After “this Act”, insert “or the regulations”.
+
+## 98  Subsection 63(1)
+
+After “inspector”, insert “, or a person assisting an inspector under section 51B or 53A,”.
+
+## 99  At the end of Part VIII
+
+Add:
+
+### Division 5—Infringement notices
+
+##### <a id="65AA"></a>65AA  Infringement notices
+
+Infringement notices for offences
+
+             (1)  The regulations may make provision enabling a person who is alleged to have committed:
+
+                     (a)  an offence against any of the following provisions:
+
+                              (i)  section 13;
+
+                             (ii)  section 18;
+
+                            (iii)  section 38;
+
+                            (iv)  section 44;
+
+                             (v)  section 45;
+
+                            (vi)  section 45B;
+
+                           (vii)  section 46; or
+
+                     (b)  a specified offence against the regulations;
+
+to pay a specified penalty to the Commonwealth as an alternative to prosecution.
+
+             (2)  The penalty must not exceed:
+
+                     (a)  if the person is not a body corporate—12 penalty units; or
+
+                     (b)  if the person is a body corporate—60 penalty units.
+
+Infringement notices for contraventions of civil penalty provisions
+
+             (3)  The regulations may make provision enabling a person who is alleged to have contravened a particular civil penalty provision to pay a specified penalty to the Commonwealth as an alternative to proceedings for a civil penalty order.
+
+             (4)  The penalty must not exceed:
+
+                     (a)  if the person is not a body corporate—12 penalty units; or
+
+                     (b)  if the person is a body corporate—60 penalty units.
+
+### Division 6—Ancillary contravention of civil penalty provisions
+
+##### <a id="65AB"></a>65AB  Ancillary contravention of civil penalty provision
+
+             (1)  A person must not:
+
+                     (a)  attempt to contravene a civil penalty provision (other than this subsection); or
+
+                     (b)  aid, abet, counsel or procure a contravention of a civil penalty provision (other than this subsection); or
+
+                     (c)  induce, whether by threats or promises or otherwise, a contravention of a civil penalty provision (other than this subsection); or
+
+                     (d)  be in any way, directly or indirectly, knowingly concerned in, or party to, a contravention of a civil penalty provision (other than this subsection); or
+
+                     (e)  conspire with others to effect a contravention of a civil penalty provision (other than this subsection).
+
+             (2)  Subsection (1) is a **_civil penalty provision_**.
+
+Note 1:       Division 7 provides for pecuniary penalties for breaches of civil penalty provisions.
+
+Note 2:       For maximum penalty, see subsection 65AC(5).
+
+### Division 7—Civil penalty orders
+
+##### <a id="65AC"></a>65AC  Civil penalty orders
+
+             (1)  If a designated court is satisfied that a person has contravened a civil penalty provision, the court may order the person to pay the Commonwealth a pecuniary penalty.
+
+             (2)  An order under subsection (1) is to be known as a **_civil penalty order_**.
+
+Determining amount of pecuniary penalty
+
+             (3)  In determining the pecuniary penalty, the court may have regard to all relevant matters, including:
+
+                     (a)  the nature and extent of the contravention; and
+
+                     (b)  the nature and extent of any loss or damage suffered as a result of the contravention; and
+
+                     (c)  the circumstances in which the contravention took place; and
+
+                     (d)  whether the person has previously been found by a court in proceedings under this Act or the regulations to have engaged in any similar conduct; and
+
+                     (e)  the extent to which the person has co‑operated with the authorities; and
+
+                      (f)  if the person is a body corporate:
+
+                              (i)  the level of the employees, officers or agents of the body corporate involved in the contravention; and
+
+                             (ii)  whether the body corporate exercised due diligence to avoid the contravention; and
+
+                            (iii)  whether the body corporate had a corporate culture conducive to compliance.
+
+Maximum pecuniary penalty
+
+             (4)  The pecuniary penalty payable by a person in respect of a contravention of a civil penalty provision (other than subsection 65AB(1)) must not exceed:
+
+                     (a)  if an offence against a provision of this Act or the regulations corresponds to the civil penalty provision—the maximum pecuniary penalty that could have been imposed on the person if the person had been convicted of the offence; or
+
+                     (b)  otherwise:
+
+                              (i)  if the person is not a body corporate—50 penalty units; or
+
+                             (ii)  if the person is a body corporate—250 penalty units.
+
+             (5)  The pecuniary penalty payable by a person in respect of a contravention of subsection 65AB(1) that relates to another civil penalty provision must not exceed:
+
+                     (a)  if an offence against a provision of this Act or the regulations corresponds to the other civil penalty provision—the maximum pecuniary penalty that could have been imposed on the person if the person had been convicted of the offence; or
+
+                     (b)  otherwise:
+
+                              (i)  if the person is not a body corporate—50 penalty units; or
+
+                             (ii)  if the person is a body corporate—250 penalty units.
+
+Civil enforcement of penalty
+
+             (6)  A pecuniary penalty is a civil debt payable to the Commonwealth. The Commonwealth may enforce the civil penalty order as if it were an order made in civil proceedings against the person to recover a debt due by the person. The debt arising from the order is taken to be a judgment debt.
+
+##### <a id="65AD"></a>65AD  Who may apply for a civil penalty order
+
+             (1)  Only the Minister may apply for a civil penalty order.
+
+             (2)  Subsection (1) does not exclude the operation of the _Director of Public Prosecutions Act 1983_.
+
+##### <a id="65AE"></a>65AE  Two or more proceedings may be heard together
+
+                   The designated court may direct that 2 or more proceedings for civil penalty orders are to be heard together.
+
+##### <a id="65AF"></a>65AF  Time limit for application for an order
+
+                   Proceedings for a civil penalty order may be started no later than 6 years after the contravention.
+
+##### <a id="65AG"></a>65AG  Civil evidence and procedure rules for civil penalty orders
+
+                   The designated court must apply the rules of evidence and procedure for civil matters when hearing proceedings for a civil penalty order.
+
+##### <a id="65AH"></a>65AH  Civil proceedings after criminal proceedings
+
+                   The designated court must not make a civil penalty order against a person for a contravention of a civil penalty provision if the person has been convicted of an offence constituted by conduct that is substantially the same as the conduct constituting the contravention.
+
+##### <a id="65AI"></a>65AI  Criminal proceedings during civil proceedings
+
+             (1)  Proceedings for a civil penalty order against a person for a contravention of a civil penalty provision are stayed if:
+
+                     (a)  criminal proceedings are started or have already been started against the person for an offence; and
+
+                     (b)  the offence is constituted by conduct that is substantially the same as the conduct alleged to  constitute the contravention.
+
+             (2)  The proceedings for the order may be resumed if the person is not convicted of the offence. Otherwise, the proceedings for the order are dismissed.
+
+##### <a id="65AJ"></a>65AJ  Criminal proceedings after civil proceedings
+
+                   Criminal proceedings may be started against a person for conduct that is substantially the same as conduct constituting a contravention of a civil penalty provision regardless of whether a civil penalty order has been made against the person.
+
+##### <a id="65AK"></a>65AK  Evidence given in proceedings for a civil penalty order not admissible in criminal proceedings
+
+                   Evidence of information given, or evidence of production of documents, by an individual is not admissible in criminal proceedings against the individual if:
+
+                     (a)  the individual previously gave the evidence or produced the documents in proceedings for a civil penalty order against the individual for a contravention of a civil penalty provision (whether or not the order was made); and
+
+                     (b)  the conduct alleged to constitute the offence is substantially the same as the conduct that was claimed to constitute the contravention.
+
+However, this does not apply to a criminal proceeding in respect of the falsity of the evidence given by the individual in the proceedings for the civil penalty order.
+
+##### <a id="65AL"></a>65AL  Mistake of fact
+
+             (1)  A person is not liable to have a civil penalty order made against the person for a contravention of a civil penalty provision if:
+
+                     (a)  at or before the time of the conduct constituting the contravention, the person:
+
+                              (i)  considered whether or not facts existed; and
+
+                             (ii)  was under a mistaken but reasonable belief about those facts; and
+
+                     (b)  had those facts existed, the conduct would not have constituted a contravention of the civil penalty provision.
+
+             (2)  For the purposes of subsection (1), a person may be regarded as having considered whether or not facts existed if:
+
+                     (a)  the person had considered, on a previous occasion, whether those facts existed in the circumstances surrounding that occasion; and
+
+                     (b)  the person honestly and reasonably believed that the circumstances surrounding the present occasion were the same, or substantially the same, as those surrounding the previous occasion.
+
+             (3)  A person who wishes to rely on subsection (1) or (2) in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
+
+##### <a id="65AM"></a>65AM  State of mind
+
+Scope
+
+             (1)  This section applies to proceedings for a civil penalty order against a person for a contravention of a civil penalty provision (other than subsection 65AB(1)).
+
+State of mind
+
+             (2)  In the proceedings, it is not necessary to prove:
+
+                     (a)  the person’s intention; or
+
+                     (b)  the person’s knowledge; or
+
+                     (c)  the person’s recklessness; or
+
+                     (d)  the person’s negligence; or
+
+                     (e)  any other state of mind of the person.
+
+             (3)  Subsection (2) does not affect the operation of section 65AL.
+
+## 100  At the end of paragraph 65C(1)(b)
+
+Add “or the regulations”.
+
+## 101  At the end of section 65C
+
+Add:
+
+Notional payments and receipts by Agencies
+
+             (2)  If:
+
+                     (a)  either:
+
+                              (i)  an Agency makes a notional payment to another Agency; or
+
+                             (ii)  one part of an Agency makes a notional payment to another part of that Agency; and
+
+                     (b)  the transaction would involve the debiting of an appropriation if the notional payment were a real payment;
+
+then:
+
+                     (c)  this section applies in relation to the notional payment as if it were a real payment to the Commonwealth; and
+
+                     (d)  this section applies in relation to the notional receipt of the notional payment as if it were a real receipt by the Commonwealth.
+
+Note:          This subsection applies to transactions that do not actually involve payments or receipts, because the parties to the transaction are merely parts of the Commonwealth, or acting as agents for the Commonwealth. For example, Agency 1 “pays” Agency 2 for services provided by Agency 2.
+
+             (3)  In subsection (2):
+
+                    <a name="agenc"></a>**_Agency_** has the same meaning as in the _Financial Management and Accountability Act 1997_.
+
+## 102  After paragraph 65D(c)
+
+Insert:
+
+                    (ca)  paying or reimbursing the Commonwealth’s costs associated with research relating to:
+
+                              (i)  substances that deplete ozone in the atmosphere; or
+
+                             (ii)  synthetic greenhouse gases;
+
+## 103  Subsection 67A(1)
+
+After “this Act”, insert “or the regulations”.
+
+## 104  Subsection 67A(2)
+
+Omit “19A or 20”, substitute “19A, 20 or 53K”.
+
+## 105  After section 69B
+
+Insert:
+
+##### <a id="69C"></a>69C  Jurisdiction of State courts
+
+             (1)  The courts of the States are invested with federal jurisdiction in relation to matters arising under:
+
+                     (a)  this Act; and
+
+                     (b)  the regulations.
+
+             (2)  Jurisdiction is invested under subsection (1) within the limits (other than limits of locality) of the jurisdiction of the court (whether those limits are limits as to subject matter or otherwise).
+
+##### <a id="69D"></a>69D  Jurisdiction of Territory courts
+
+             (1)  Jurisdiction is conferred on the courts of the Territories in relation to matters arising under:
+
+                     (a)  this Act; and
+
+                     (b)  the regulations.
+
+             (2)  Jurisdiction is conferred under subsection (1):
+
+                     (a)  only so far as the Constitution permits; and
+
+                     (b)  within the limits (other than limits of locality) of the jurisdiction of the court (whether those limits are limits as to subject matter or otherwise).
+
+##### <a id="69E"></a>69E  Compensation for acquisition of property
+
+             (1)  If the operation of this Act or the regulations would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+
+             (2)  If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+
+             (3)  In this section:
+
+                    <a name="acquisit-properti"></a>**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+                    <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+##### <a id="69F"></a>69F  Arrangements with States and Territories—magistrates
+
+States
+
+             (1)  The Minister may make arrangements with a Minister of a State in relation to the performance of the functions of a magistrate under this Act by a magistrate of that State.
+
+             (2)  The Minister may arrange with a Minister of a State with whom an arrangement is in force under subsection (1) for the variation or revocation of the arrangement.
+
+Australian Capital Territory
+
+             (3)  The Minister may make arrangements with a Minister of the Australian Capital Territory in relation to the performance of the functions of a magistrate under this Act by a magistrate of the Australian Capital Territory.
+
+             (4)  The Minister may arrange with a Minister of the Australian Capital Territory for the variation or revocation of an arrangement in force under subsection (3).
+
+Northern Territory
+
+             (5)  The Minister may make arrangements with a Minister of the Northern Territory in relation to the performance of the functions of a magistrate under this Act by a magistrate of the Northern Territory.
+
+             (6)  The Minister may arrange with a Minister of the Northern Territory for the variation or revocation of an arrangement in force under subsection (5).
+
+Norfolk Island
+
+             (7)  The Minister may make arrangements with the Administrator of Norfolk Island in relation to the performance of the functions of a magistrate under this Act by a magistrate of Norfolk Island.
+
+             (8)  The Minister may arrange with the Administrator of Norfolk Island for the variation or revocation of an arrangement in force under subsection (7).
+
+Gazettal
+
+             (9)  A copy of each instrument by which an arrangement under this section is made, varied or revoked is to be published in the _Gazette_.
+
+Legislative Instruments Act
+
+           (10)  An instrument by which an arrangement under this section is made, varied or revoked is not a legislative instrument.
+
+## 106  Section 70
+
+Omit “$1,000”, substitute “50 penalty units”.
+
+## 107  Section 70
+
+Omit “$5,000”, substitute “250 penalty units”.
+
+## 108  After subclause 10(1) of Schedule 4
+
+Insert:
+
+          (1A)  Subclause (1) does not apply to equipment specified in the regulations.
+
+Note:          For specification by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+
+## Schedule 2
+
+## 1  Paragraph 10(1)(a) of Schedule 4
+
+After “CFC refrigerant”, insert “or an HCFC refrigerant”.
+
+## 2  Paragraph 10(1)(b) of Schedule 4
+
+Repeal the paragraph, substitute:
+
+                     (b)  the equipment is designed to operate by using a CFC refrigerant or an HCFC refrigerant (whether or not it is also designed to operate using another substance); or
+
+## 3  At the end of paragraph 10(1)(c) of Schedule 4
+
+Add “or an HCFC”.
+
+As at 29 March 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -12299,6 +12258,8 @@ _Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003 
 * * *
 
 _Ozone Protection and Synthetic Greenhouse Gas Management Amendment Act 2010 (No. 125, 2010)_
+
+The following provisions commence on 18 May 2011 unless proclaimed earlier:
 
 ## Schedule 1
 
