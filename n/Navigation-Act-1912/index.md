@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00701/Html/b12783f3-5385-47a2-b8b9-6ae753d43750_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00196/Html/3f292e06-e8b7-4ca2-9451-c1280ad8fba9_files/image001.gif)
 
 # Navigation Act 1912
 
 **Act No. 4 of 1913 as amended**
 
-This compilation was prepared on 27 September 2012
- taking into account amendments up to Act No. 56 of 2012
+This compilation was prepared on 30 January 2012
+ taking into account amendments up to Act No. 168 of 2011
 
 **Volume 1** includes:      Table of Contents
  Sections 1–427
@@ -29,7 +29,8 @@ The operation of amendments that have been incorporated may be
  Note 2
  Table A
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -60,6 +61,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [6E](#6E).          Proper return port
 
 [6F](#6F).          Authority may approve form
+
+[7](#7).            Definition of coasting trade
 
 [7A](#7A).         Ships registered in Australia
 
@@ -109,15 +112,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [45](#45).          Employment of crew in loading and unloading
 
-    **Division 8—Engagement of seamen and masters etc.** 
+    **Division 8—Engagement of seamen**
 
-        **Subdivision A—Work agreements**
-
-[45A](#45A).       Work agreements
-
-        **Subdivision B—Articles of agreement etc.**
-
-[46](#46).          Articles of agreement
+[46](#46).          Engagement of seamen
 
 [47](#47).          Persons unsuitable for engagement
 
@@ -129,7 +126,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [52](#52).          Owner or master to furnish details of crew of ship
 
-[53](#53).          Owner to make available information about conditions of employment
+[53](#53).          Copy of agreement to be posted up
 
 [54](#54).          Agreements to be delivered to proper authority
 
@@ -147,7 +144,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 9—Discharge of seamen**
 
-[61](#61).          Giving of discharges to seamen
+[61](#61).          Provision of discharges to seamen
 
 [62A](#62A).       Discharge of seamen outside Australia
 
@@ -155,19 +152,41 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [68](#68).          Offences in relation to certificates of discharge
 
-    **Division 10—Wages**
+    **Division 10—Seamen’s wages**
 
-[70](#70).          Payment of wages—general
+[70](#70).          Allotment of seaman’s wages
+
+[71](#71).          Right to sue upon allotment notes
+
+[72](#72).          Commencement of payment
+
+[73](#73).          Allotment to banks
 
 [75](#75).          Payment of wages on discharge
 
+[75A](#75A).       Computation of wages
+
 [76](#76).          Account of wages on discharge
+
+[77](#77).          Time for payment of wages
+
+[78](#78).          Wages to run on in certain cases
 
 [81](#81).          Reference of differences to superintendent
 
-[85](#85).          Right to conveyance and wages in case of termination of services by wreck, foundering or loss
+[82](#82).          Commencement of right to wages
+
+[83](#83).          Recovery of wages
+
+[84](#84).          Wages not to be dependent on the earning of freight
+
+[85](#85).          Right to conveyance and wages in case of termination of services by wreck or loss
 
 [88](#88).          Compensation for premature discharge
+
+[91](#91).          Jurisdiction as to wages
+
+[93](#93).          Wages not recoverable abroad in certain cases
 
 [94](#94).          Master’s remedies for wages
 
@@ -182,8 +201,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [113](#113).        Questions as to deductions
 
     **Division 13—Provisions**
-
-[115](#115).        Free provisions
 
 [116](#116).        Bad provisions or water
 
@@ -228,6 +245,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [136](#136).        Regulations relating to accommodation
 
 [137](#137).        Provision of ventilation and wheel‑houses
+
+[138](#138).        Crew accommodation
 
 [138A](#138A).     Ships not to go to sea without required accommodation
 
@@ -307,6 +326,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [171](#171).        Official log‑book
 
 [172](#172).        Offences in relation to official log‑book
+
+[172A](#172A).     Report of matters recorded in official log‑book
 
 [173](#173).        Delivery of official log‑book
 
@@ -845,6 +866,28 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [283K](#283K).     Regulations, orders and directions inconsistent with _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ etc 
 
+**Part VI—The coasting trade**
+
+[284](#284).        Application of Part
+
+[286](#286).        Permits to unlicensed ships
+
+[287](#287).        Ships in receipt of subsidies
+
+[288](#288).        Licensing of ships to engage in coasting trade
+
+[289](#289).        Payment of Australian rates of wages
+
+[290](#290).        Indorsement of rate of wages on agreement
+
+[291](#291).        Seamen’s rights not affected by agreement
+
+[292](#292).        Evidence of rates of wages
+
+[293](#293).        Responsibility of master, owner and agent for compliance with Act
+
+[293A](#293A).     Power to suspend provisions as to coasting trade
+
 **Part VII—Wrecks and salvage** 
 
     **Division 1—Interpretation**
@@ -938,6 +981,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [377H](#377H).     Other decisions under Divisions 12, 12A, 12C and 12D of Part IV
 
 [377J](#377J).      Decisions under Part VB
+
+[377JA](#377JA).   Decisions under Part VI
 
 [377K](#377K).     Decisions under Part XA
 
@@ -1189,11 +1234,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="agreem"></a>**_agreement_** means:
-
-(a)  in relation to a ship—the agreement between the owner of the ship, or a representative of the owner of the ship, and the crew of the ship; and
-
-                     (b)  in relation to a seaman belonging to a ship—the agreement between the owner of the ship, or a representative of the owner of the ship, and the seaman.
+                    <a name="agreem"></a>**_agreement_**, in relation to a ship, means the agreement between the master of the ship and the crew of the ship and, in relation to a seaman belonging to a ship, means the agreement between the master of the ship and the seaman.
 
                     <a name="approved-form"></a>**_approved form_** means a form approved by the Authority under section 6F.
 
@@ -1395,16 +1436,6 @@ whether or not the ship travels between 2 or more ports in any one State or Terr
 
 whether or not the ship travels between 2 or more ports in   Australia in the course of the voyage.
 
-                    <a name="owner"></a>**_owner_** of a ship means one or more of the following:
-
-                     (a)  a person who has a legal or beneficial interest in the ship;
-
-                     (b)  a person with overall general control and management of the ship;
-
-                     (c)  a person who has assumed responsibility for the ship from a person referred to in paragraph (a) or (b).
-
-For the purposes of paragraphs (b) and (c), a person is not taken to have overall general control and management of a ship, or to have assumed responsibility for a ship, merely because he or she is the master or pilot of the ship.
-
                     <a name="child"></a><a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of a person for the purposes of this Act, someone is the **_parent_** of a person if the person is his or her child because of the definition of **_child_** in this section.
 
                     <a name="passeng"></a>**_passenger_** means a person carried on board a ship with the knowledge or consent of the owner, charterer, agent or master of the ship, not being:
@@ -1511,6 +1542,8 @@ but does not include a Commonwealth ship, a fishing vessel, a fishing fleet supp
 
              (2)  A reference in this Act to failure to do an act or thing shall be read as including a reference to refusal or neglect to do that act or thing.
 
+             (4)  Unless the contrary intention appears, a reference in this Act (except in Division 3 or 4 of Part VII) to the owner of a ship shall, in the case of a ship that is operated by a person other than the owner, be read as including a reference to the operator.
+
           (4A)  Where, in pursuance of articles of agreement, a person becomes a member of the crew of a ship, he or she is to, until he or she ceases to be a member of the crew of the ship, be deemed, for the purposes of this Act, to belong to the ship.
 
           (4B)  A person who, in pursuance of articles of agreement, ceases temporarily to be a member of the crew of a ship shall be deemed, for the purposes of this Act, to cease to belong to the ship and does not again belong to the ship until he or she again becomes a member of the crew of the ship.
@@ -1567,7 +1600,7 @@ but does not include a Commonwealth ship, a fishing vessel, a fishing fleet supp
 
              (2)  A ship shall not be deemed, for the purposes of this Act, to have been taken or sent to sea, or to have gone or proceeded to sea, by reason only that the ship has been got under way for the purpose of moving the ship from one berth or place in a port to another berth or place in the port.
 
-##### <a id="6E"></a>6E  Proper return port
+##### <a id="6E"></a>6E  Proper return port
 
              (1)  For the purposes of this Act, but subject to subsection (2):
 
@@ -1590,6 +1623,30 @@ but does not include a Commonwealth ship, a fishing vessel, a fishing fleet supp
 ##### <a id="6F"></a>6F  Authority may approve form
 
                    The Authority may, in writing, approve a form for the purposes of a provision of this Act.
+
+##### <a id="7"></a>7  Definition of coasting trade
+
+             (1)  A ship shall be deemed to be engaged in the coasting trade, within the meaning of this Act, if it takes on board passengers or cargo at any port in a State, or a Territory, to be carried to, and landed or delivered at, any other port in the same State or Territory or in any other State or other such Territory:
+
+Provided that a ship shall not be deemed to be engaged in the coasting trade by reason of the fact that it carries:
+
+                     (a)  passengers who hold through tickets to or from a port beyond Australia and the Territories; or
+
+                     (b)  cargo consigned on a through bill of lading to or from a port beyond Australia and those Territories and which is not transhipped to or from any ship trading exclusively in Australian waters which is not licensed under this Act; or
+
+                     (c)  mails between any ports in Australia or in any of those Territories; or
+
+                     (d)  as a passenger:
+
+                              (i)  the owner of the ship or a person who is a servant, or a member of the family, of the owner of the ship; or
+
+                             (ii)  a pilot who is proceeding from his or her home station for the purpose of meeting a ship requiring the pilot’s services or is returning to his or her home station after piloting a ship:
+
+Provided further that the Governor‑General may by order declare that the carrying of passengers or cargo between ports in any Territory, or between ports in any such Territory and any other Australian ports, or ports in any other such Territory shall not be deemed engaging in the coasting trade.
+
+Note:          In relation to subparagraph (1)(d)(i), see also subsection 6(8).
+
+             (2)  In this section, **_owner_**, in relation to a ship, includes a person who is the manager or secretary of a body corporate which is the owner of the ship.
 
 ##### <a id="7A"></a>7A  Ships registered in Australia
 
@@ -1755,9 +1812,9 @@ Note:          The text of the Convention is set out in the Au
 
                      (a)  a ship registered in Australia;
 
-                     (b)  a ship that is used to engage in coastal trading (within the meaning of the _Coastal Trading (Revitalising Australian Shipping) Act 2012_) under a general licence (within the meaning of that Act); or
+                     (b)  a ship (other than a ship registered in Australia) engaged in the coasting trade; or
 
-                     (c)  a ship (other than a ship to which paragraph (a) or (b) applies) of which the majority of the crew are residents of Australia and which is operated by any of the following (whether or not in association with any other person, firm or company, being a person, firm or company of any description), namely:
+                     (c)  a ship (other than a ship registered in Australia or engaged in the coasting trade) of which the majority of the crew are residents of Australia and which is operated by any of the following (whether or not in association with any other person, firm or company, being a person, firm or company of any description), namely:
 
                               (i)  a person who is a resident of, or has his or her principal place of business in, Australia;
 
@@ -1915,101 +1972,31 @@ Provided that the regulations shall not allow the employment of the crew of such
 
              (2)  The regulations may forbid the employment, except as prescribed, of members of the crew of a ship that is engaged in making inter‑State voyages in handling cargo or ballast in connexion with the loading or unloading of ships.
 
-### Division 8—Engagement of seamen and masters etc.
+### Division 8—Engagement of seamen
 
-#### Subdivision A—Work agreements
+##### <a id="46"></a>46  Engagement of seamen
 
-##### <a id="45A"></a>45A  Work agreements
+             (1)  Where a seaman is engaged to serve on a ship the master of the ship shall not take the ship to sea with that seaman as a member of the crew of the ship, and the owner of the ship shall not suffer or permit the ship to be so taken to sea, unless the master has entered into an agreement with the seaman in accordance with this section.
 
-Requirement that seaman have a work agreement
+                    Penalty:  $2,000.
 
-             (1)  A person commits an offence if:
+             (2)  The agreement:
 
-                     (a)  the person is the master or owner of a ship; and
+                     (a)  shall, subject to subsection (2A), be in the prescribed form or, if an agreement in another form is already in force between the master and other members of the crew, in the other form;
 
-                     (b)  the master takes the ship to sea; and
+                     (b)  shall be prepared in duplicate and signed first by the master and then by the seaman; and
 
-                     (c)  a seaman is on board the ship; and
+                     (c)  shall be dated:
 
-                     (d)  when the ship is taken to sea, a work agreement that complies with this section is not in force in relation to the seaman.
+                              (i)  if the agreement is entered into when the crew is first engaged—as at the time the master signs; or
 
-                    Penalty:  20 penalty units.
+                             (ii)  in any other case—as at the time the seaman signs.
 
-When a work agreement complies with this section
+          (2A)  The Authority may, if it is satisfied that there are special reasons for so doing, approve an agreement under this section between the master of a ship and a seaman, being in a form other than that required by paragraph (2)(a).
 
-             (2)  A work agreement complies with this section if the work agreement is in accordance with any regulations made for the purposes of subsection (3).
+             (4)  An agreement under this section may, with the approval of a proper authority, include any lawful provisions agreed upon between the master and seaman in addition to the provisions specified in the prescribed form.
 
-Regulations about work agreements
-
-             (3)  The regulations may prescribe matters relating to work agreements including, but not limited to, the following:
-
-                     (a)  the content and form of work agreements (including terms and conditions about the amount of wages and paid annual leave);
-
-                     (b)  the right of a seaman to review, and seek advice on, a work agreement before signing it;
-
-                     (c)  the process for signing work agreements;
-
-                     (d)  the information or documents that must be given to, or made available to, seamen in relation to work agreements and the manner in which such information or documents must be given or made available;
-
-                     (e)  the termination of work agreements.
-
-Definitions
-
-             (4)  In this section:
-
-                    <a name="agreem"></a>**_agreement_** has its ordinary meaning.
-
-                    <a name="seaman"></a>**_seaman_** includes the master of a ship.
-
-                    <a name="work-agreem"></a>**_work agreement_** means an agreement that is made between a seaman and the owner of a ship.
-
-#### Subdivision B—Articles of agreement etc.
-
-##### <a id="46"></a>46  Articles of agreement
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is the master or owner of a ship; and
-
-                     (b)  the master takes the ship to sea; and
-
-                     (c)  a seaman is on board the ship; and
-
-                     (d)  when the ship is taken to sea an agreement that complies with this section is not in force in relation to the seaman.
-
-                    Penalty:  20 penalty units.
-
-When an agreement complies with this section
-
-             (2)  An agreement complies with this section if:
-
-                     (a)  the agreement is in accordance with any regulations made under subsection (3); and
-
-                     (b)  subsection (4) is satisfied in relation to the agreement.
-
-Regulations
-
-             (3)  The regulations may prescribe matters relating to the content or form of an agreement.
-
-Signing
-
-             (4)  An agreement must:
-
-                     (a)  be signed first by the owner of the ship or the representative of the owner of the ship, and then by the seaman; and
-
-                     (b)  be dated:
-
-                              (i)  if the agreement is entered into when the seaman is first engaged—as at the time the agreement is signed by the owner of the ship or the representative of the owner of the ship; or
-
-                             (ii)  in any other case—as at the time the agreement is signed by the seaman.
-
-Additional provisions that may be included
-
-             (5)  An agreement may, with the approval of a proper authority, include any provisions agreed upon between the seaman and the owner of the ship or the representative of the owner of the ship, that are:
-
-                     (a)  lawful; and
-
-                     (b)  not inconsistent with the requirements of this section.
+          (4A)  An agreement under this section between the master of a ship and a seaman may include provision for or in relation to the observance by the parties to the agreement of a code of conduct.
 
 ##### <a id="47"></a>47  Persons unsuitable for engagement
 
@@ -2055,7 +2042,7 @@ Additional provisions that may be included
 
 ##### <a id="50"></a>50  Period of agreements
 
-             (1)  An agreement that complies with section 46 may be made for a voyage, or, if the voyages of the ship average less than 6 months in duration, may be made to extend over 2 or more voyages, and agreements so made to extend over 2 or more voyages are in this Act referred to as **_running agreements_**.
+             (1)  An agreement under section 46 may be made for a voyage, or, if the voyages of the ship average less than 6 months in duration, may be made to extend over 2 or more voyages, and agreements so made to extend over 2 or more voyages are in this Act referred to as **_running agreements_**.
 
              (2)  A running agreement shall not extend beyond 6 months from the date thereof:
 
@@ -2089,27 +2076,25 @@ Provided that if his or her return to the proper return port is delayed by any a
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="53"></a>53  Owner to make available information about conditions of employment
+##### <a id="53"></a>53  Copy of agreement to be posted up
 
-             (1)  The regulations may prescribe:
+             (1)  The master of a ship shall cause a legible copy of the agreement (being a copy which does not contain the names or signatures of, or particulars relating to, the master and members of the crew of the ship) to be posted up in a part of the ship to which all members of the crew have access and shall use all reasonable precautions to keep the copy so posted up until the termination of the agreement.
 
-                     (a)  information, in relation to the conditions of employment of the master and the seamen engaged on a ship, that the owner of the ship is required to make available to the master and seamen; and
+                    Penalty:  $1,000.
 
-                     (b)  the manner and form (including electronic form) in which the prescribed information is required to be made available.
+             (2)  A person commits an offence if:
 
-             (2)  The owner of a ship commits an offence if:
+                     (a)  a copy of an agreement has been posted under subsection (1); and
 
-                     (a)  the owner is subject to a requirement under regulations made for the purposes of subsection (1); and
+                     (b)  the person does an act; and
 
-                     (b)  the owner, or a representative of the owner, engages in conduct; and
+                     (c)  the act results in the defacing or destruction of the agreement.
 
-                     (c)  the conduct results in a contravention of the requirement.
-
-                    Penalty:  5 penalty units.
+                    Penalty:  $500.
 
              (3)  Strict liability applies to paragraph (2)(a).
 
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
 ##### <a id="54"></a>54  Agreements to be delivered to proper authority
 
@@ -2173,33 +2158,31 @@ there shall be implied, notwithstanding any agreement to the contrary, an obliga
 
 ### Division 9—Discharge of seamen
 
-##### <a id="61"></a>61  Giving of discharges to seamen
+##### <a id="61"></a>61  Provision of discharges to seamen
 
-             (1)  If a seaman is discharged from a ship, the master of the ship must:
+                   When a seaman is discharged from a ship, the master of the ship shall:
 
-                     (a)  give the seaman a written discharge in the prescribed form; and
+                     (a)  sign and give to the seaman a discharge in accordance with the prescribed form; and
 
                      (b)  return to the seaman any previous discharge of the seaman in the possession of the master.
 
-             (2)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct contravenes subsection (1).
-
-                    Penalty:  10 penalty units.
+                    Penalty:  $1,000.
 
 ##### <a id="62A"></a>62A  Discharge of seamen outside Australia
 
-             (1)  The master of a ship commits an offence if:
+             (1)  The master of a ship shall not, at a port outside Australia, discharge a seaman from the ship unless:
 
-                     (a)  the master discharges a seaman from the ship at a port outside Australia; and
+                     (a)  the master has given the seaman such notice as is reasonable in the circumstances of the master’s intention to discharge the seaman; and
 
-                     (b)  the master has not given the seaman at least 7 days notice of the master’s intention to discharge the seaman; and
+                     (b)  in a case where the seaman has requested the master to obtain the approval of a proper authority to the discharge—a proper authority has approved the discharge.
 
-                     (c)  the seaman has not consented to being discharged at the particular port (whether or not the seaman consents to the discharge).
+                    Penalty:  $1,000.
 
-                    Penalty:  10 penalty units.
+             (2)  A proper authority may withhold his or her approval to the discharge of a seaman under subsection (1) if he or she is of the opinion:
+
+                     (a)  that the discharge cannot be effected except in contravention of the agreement with the seaman, of a provision of this Act or of a law of the country in which the discharge is to be made; or
+
+                     (b)  that the discharge of the seaman would be unjust.
 
              (3)  If a ship is sold, transferred or otherwise disposed of while the ship is at a port in a country other than a prescribed country, the master shall, notwithstanding anything contained in the ship’s agreement, discharge each seaman entered on board the ship other than a seaman who consents in writing to continue to serve on the ship.
 
@@ -2229,27 +2212,53 @@ there shall be implied, notwithstanding any agreement to the contrary, an obliga
 
                     <a name="certif-discharg"></a>**_certificate of discharge_** includes a copy of such a certificate.
 
-### Division 10—Wages
+### Division 10—Seamen’s wages
 
-##### <a id="70"></a>70  Payment of wages—general
+##### <a id="70"></a>70  Allotment of seaman’s wages
 
-             (1)  The regulations may make provision for or in relation to the payment of wages to masters and seamen.
+             (1)  Subject to this section, a seaman who is engaged in Australia for service in a ship may make stipulations for the allotment and payment of portion of his or her wages as a seaman:
 
-             (2)  Without limiting subsection (1), the regulations may make provision for or in relation to the following:
+                     (a)  a person who is or is stated by the seaman to be:
 
-                     (a)  the frequency of making payments to masters and seamen;
+                              (i)  the grandparent, parent, wife, husband, de facto partner, brother, sister, child or grandchild of the seaman; or
 
-                     (b)  the method of making payments to masters and seamen;
+                             (ii)  a person towards the maintenance of whom the seaman contributes; or
 
-                     (c)  permitted deductions from payments to masters and seamen;
+                     (b)  a bank.
 
-                     (d)  pay slips, including the information relating to exchange rates that must be included in any pay slip given to a master or seaman;
+             (2)  Except by agreement with the master of the ship on which he or she engages to serve, a seaman is not entitled to make stipulations under this section for the allotment of a portion of his or her wages which, or of portions of his or her wages the total of which, is greater than three‑fourths of the wages.
 
-                     (e)  the payment of part or all of the wages of a master or a seaman, with the master’s or seaman’s consent, to a person other than the master or the seaman;
+             (3)  A stipulation under this section is of no force unless:
 
-                      (f)  the charges that may be imposed for making payments in accordance with paragraph (e).
+                     (a)  an allotment note in the prescribed form, or in a form approved by the Authority by instrument in writing, is signed by the master and the seaman; and
 
-             (3)  The regulations must not provide for the quantum or amount of wages payable to masters and seamen.
+                     (b)  the sum allotted is specified in the agreement with the seaman.
+
+             (4)  A seaman engaged in Australia for service in a ship shall not make stipulations for the allotment and payment of his or her wages, or any portion of his or her wages, otherwise than in accordance with this section.
+
+             (5)  For the purposes of subparagraph (1)(a)(i), if one person is the child of another person because of the definition of **_child_** in this Act, relationships traced to or through the person are to be determined on the basis that the person is the child of the other person.
+
+##### <a id="71"></a>71  Right to sue upon allotment notes
+
+             (1)  When an allotment note is made in favour of any person, he or she may sue for and recover the wages allotted by it, when and as they are made payable, with costs, from any person who has authorized the drawing of the note, in a County Court, District Court, or Local Court of any State, or in a court of summary jurisdiction.
+
+             (2)  In any such proceeding, it shall be sufficient for the claimant to prove that he or she is the person mentioned in the note, and that the note was given by the owner or master, or some authorized agent; and the seaman shall be presumed to be duly earning his or her wages unless the contrary is shown to the satisfaction of the Court by:
+
+                     (b)  a certified copy of some entry in the official log‑book to the effect that he or she has left the ship; or
+
+                     (c)  such other evidence as the Court, in its absolute discretion, considers sufficient to show satisfactorily that the seaman has ceased to be entitled to the wages out of which the allotment is to be paid.
+
+             (3)  No recovery shall be made on an allotment note if the seaman is shown, in manner aforesaid, to have forfeited or ceased to be entitled to the wages out of which the allotment is to be paid.
+
+##### <a id="72"></a>72  Commencement of payment
+
+             (1)  Payment under an allotment note shall, except as provided by subsection (2), begin at the expiration of one month from the date of the agreement and shall be made at the expiration of every subsequent month after the first month, and shall be made only in respect of wages earned before the date of payment.
+
+             (2)  By agreement with the master an allotment note may be granted to a seaman providing for payment at a period earlier than one month from the date of the agreement and at intervals more frequent than one month.
+
+##### <a id="73"></a>73  Allotment to banks
+
+                   An allotment to a bank shall be in favour of such persons, and carried into effect in such manner, as is prescribed.
 
 ##### <a id="75"></a>75  Payment of wages on discharge
 
@@ -2258,6 +2267,16 @@ there shall be implied, notwithstanding any agreement to the contrary, an obliga
                     Penalty (on the owner and master):           $1,000.
 
              (3)  It is a defence to a prosecution for an offence against subsection (1) if the person charged proves that the failure to pay to the seaman the amount of his or her wages in accordance with that subsection was due to the seaman’s act or default, to a reasonable dispute as to liability for those wages or to any other cause not attributable to the wrongful act or default of the person charged or of any person acting on his or her behalf.
+
+##### <a id="75A"></a>75A  Computation of wages
+
+             (1)  Where the wages of a seaman are payable at a rate per month, a month shall, for the purposes of this Act, be deemed to be:
+
+                     (a)  the period from and including a day in one calendar month to and including the day before the numerically corresponding day in the next succeeding month; or
+
+                     (b)  where there is not in the next succeeding month a day numerically corresponding to the day in the first‑mentioned month, the period from and including the first‑mentioned day to and including the last day of that next succeeding month.
+
+             (2)  In the calculation of the wages of a seaman for a period of less than a month, being wages payable at a rate per month, each day in that period shall, for the purposes of this Act, be deemed to be one‑thirtieth part of a month.
 
 ##### <a id="76"></a>76  Account of wages on discharge
 
@@ -2271,6 +2290,38 @@ there shall be implied, notwithstanding any agreement to the contrary, an obliga
 
              (5)  The Authority may, by instrument in writing, direct that, subject to such conditions (if any) as are specified in the direction, subsection (3) does not apply in relation to the master of a specified ship or the master of a ship included in a specified class of ships.
 
+##### <a id="77"></a>77  Time for payment of wages
+
+             (1)  Subject to any provision to the contrary in his or her agreement and to subsection (2), a seaman entered on board a ship shall, after all lawful deductions have been made:
+
+                     (a)  be paid, on the first day of each month, the wages earned by the seaman during the period that commenced on the sixteenth day, and ended on the last day, of the month last preceding that month; and
+
+                     (b)  be paid, on the sixteenth day of each month, the wages earned by the seaman during the period that commenced on the first day, and ended on the fifteenth day, of that month.
+
+             (2)  Where, on a day on which a seaman is required to be paid wages under subsection (1), the ship on which he or she is entered is not in port, or is in a port at which there is no bank, the seaman shall be paid the wages within a period of 24 hours after the arrival of the ship at a port at which there is a bank.
+
+             (3)  Subject to subsection (5), if a payment of wages is not made to a seaman at or before the time when the payment is required to be made to the seaman under the preceding provisions of this section, he or she is entitled to recover from the owner or master of the ship, in addition to the wages due to the seaman, a sum equal to 2 days’ pay for each of the days, not including days in excess of 14, during which payment of the wages is delayed beyond that time or such lesser sum as the Court thinks just in the circumstances.
+
+             (4)  An amount which a seaman is entitled to recover under subsection (3) may be recovered in the same Court and in the same manner as wages due to the seaman.
+
+             (5)  It is a defence to an action for the recovery of an amount under subsection (3) if the person against whom the action is brought satisfies the Court:
+
+                     (a)  that:
+
+                              (i)  the seaman became entitled to the payment of wages on a day on which it was impracticable for moneys with which to pay the wages to be obtained by the master from a bank in the port in which the ship lay; and
+
+                             (ii)  the wages were paid as soon as practicable after that day; or
+
+                     (b)  that the delay in payment of the wages was due to the seaman’s act or default, to a reasonable dispute as to liability for the wages or to any other cause not attributable to the wrongful act or default of the owner or master of the ship.
+
+             (6)  In this section:
+
+                    <a name="wage"></a>**_wages_**, in relation to a seaman, does not include a payment or allowance for the working of overtime or any other payment or allowance not included in the ordinary wages of the seaman.
+
+##### <a id="78"></a>78  Wages to run on in certain cases
+
+                   If a seaman’s wages are not paid in accordance with section 75 before or at the time the seaman is given his or her discharge from a ship, the seaman’s wages shall continue to run until the time of the final settlement of his or her wages (and shall be payable at double rates for any period after the time the seaman is given his or her discharge from the ship) unless the delay is due to the seaman’s act or default, to a reasonable dispute as to liability for the wages or to any other cause not attributable to the wrongful act or default of the owner or master of the ship.
+
 ##### <a id="81"></a>81  Reference of differences to superintendent
 
              (1)  A master or owner may agree with a seaman to refer a question which has arisen between them to a superintendent for his or her decision.
@@ -2281,9 +2332,55 @@ there shall be implied, notwithstanding any agreement to the contrary, an obliga
 
              (4)  A superintendent who gives a decision on a question referred to him or her under this section shall record that decision in a document under his or her hand and that document is admissible in evidence.
 
-##### <a id="85"></a>85  Right to conveyance and wages in case of termination of services by wreck, foundering or loss
+##### <a id="82"></a>82  Commencement of right to wages
 
-             (1)  Where the service of a seaman belonging to a ship is terminated, before the time contemplated in the seaman’s agreement, by reason of the wreck, foundering or loss of the ship, the seaman is, subject to this section, entitled to:
+             (1)  Subject to this Act, a seaman’s right to wages begins:
+
+                     (a)  at the time at which he or she commences work; or
+
+                     (b)  at the time specified in his or her agreement for his or her commencement of work or presence on board;
+
+whichever is the earlier.
+
+             (2)  If the engagement of a seaman for service on a ship terminates and, on the same day, the seaman is engaged again for service on the same ship, he or she is not entitled to wages in respect of that day under both engagements, but, if the seaman works under the new engagement on that day and the rate of his or her wages under the new engagement is higher than the rate of his or her wages under the old engagement, he or she is entitled to wages in respect of that day at the higher rate.
+
+##### <a id="83"></a>83  Recovery of wages
+
+             (1)  No seaman shall, by any agreement:
+
+                     (a)  be deprived of any remedy for the recovery of his or her wages; or
+
+                     (b)  forfeit his or her lien upon the ship for his or her wages; or
+
+                     (c)  abandon his or her right to wages in case of the loss of the ship; or
+
+                     (d)  abandon any right that he or she may have or obtain in the nature of salvage.
+
+             (2)  The lien for seamen’s wages has priority over:
+
+                     (a)  all other liens; and
+
+                     (b)  any PPSA security interest in the ship.
+
+          (2A)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to the lien for seamen’s wages.
+
+Note 1:       The effect of subsection (2A) is that the priority between a lien for seamen’s wages and a PPSA security interest is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
+
+Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to liens for seamen’s wages that arise after the commencement of subsection (2A) of this section (which commences at the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
+
+             (3)  Every stipulation in any agreement, inconsistent with any provision of this Act, shall be void.
+
+             (4)  Nothing in this section shall apply to a stipulation made by any seaman, belonging to a ship which according to the terms of the agreement is to be employed exclusively on salvage service, with respect to the remuneration to be paid to the seaman for salvage service to be rendered by that ship to any other ship.
+
+##### <a id="84"></a>84  Wages not to be dependent on the earning of freight
+
+                   The right to wages shall not depend on the earning of freight; and every seaman who would be entitled to demand and recover any wages, if the ship in which the seaman has served had earned freight, shall, subject to all other rules of law and conditions applicable to the case, be entitled to claim and recover his or her wages, notwithstanding that freight has not been earned.
+
+But in all cases of wreck or loss of the ship, proof that any seaman has not exerted himself or herself to the utmost to save the ship, human life, cargo, stores, and equipment, shall bar his or her claim to wages.
+
+##### <a id="85"></a>85  Right to conveyance and wages in case of termination of services by wreck or loss
+
+             (1)  Where the service of a seaman belonging to a ship is terminated, before the time contemplated in the seaman’s agreement, by reason of the wreck or loss of the ship, the seaman is, subject to this section, entitled to:
 
                      (a)  conveyance, by or at the cost of the owner of the ship, to the proper return port of the seaman; and
 
@@ -2301,11 +2398,11 @@ the seaman is entitled to wages, at the rate payable on the day of the terminati
 
              (4)  A seaman is not entitled to wages under subsection (3):
 
-                     (a)  where the owner shows that the unemployment was not due to the wreck, foundering or loss of the ship; or
+                     (a)  where the owner shows that the unemployment was not due to the wreck or loss of the ship; or
 
                      (b)  for a day in respect of which the owner shows that the seaman was able to obtain suitable employment.
 
-             (5)  Where a seaman whose service is terminated by the wreck, foundering or loss of the ship was engaged by the run, the seaman is entitled to the wages to which he or she would have been entitled if the agreement had not been terminated until the end of the run, subject to all just deductions.
+             (5)  Where a seaman whose service is terminated by the wreck or loss of the ship was engaged by the run, the seaman is entitled to the wages to which he or she would have been entitled if the agreement had not been terminated until the end of the run, subject to all just deductions.
 
              (6)  In this section:
 
@@ -2318,6 +2415,20 @@ the seaman is entitled to wages, at the rate payable on the day of the terminati
              (1)  If a seaman is discharged, otherwise than in accordance with the terms of his or her agreement or the provisions of this Act, without fault on the part of the seaman justifying that discharge, and without the seaman’s consent, the seaman shall be entitled to receive from the master or owner, in addition to any wages the seaman has earned, compensation not being less than one month’s wages, and may recover that compensation as if it were wages duly earned.
 
              (2)  If the seaman is so discharged elsewhere than at the proper return port of the seaman, the provisions of subsections 50(5) and (6) shall also apply as if the seaman had been discharged in pursuance of subsection 50(3).
+
+##### <a id="91"></a>91  Jurisdiction as to wages
+
+             (1)  The Supreme Court of any State, and, to the extent that the Constitution permits, the Supreme Court of the Australian Capital Territory or the Supreme Court of the Northern Territory and any Court having civil jurisdiction in respect of the amount of the claim, shall have jurisdiction to try and determine the following causes:
+
+                     (a)  Any claim by or on behalf of a seaman of a ship for wages earned by the seaman on board the ship, whether under a special contract or otherwise;
+
+                     (b)  Any claim by or on behalf of the master of a ship for wages earned by the master on board the ship, and for disbursements made by the master on account of the ship.
+
+##### <a id="93"></a>93  Wages not recoverable abroad in certain cases
+
+             (1)  Where a seaman is engaged in Australia for a voyage or engagement which is to terminate in Australia the seaman shall not be entitled to sue in any Court abroad for wages, unless the seaman is discharged with such sanction as is required by law and with the written consent of the master or proves such ill‑usage on the part or by the authority of the master as to warrant reasonable apprehension of danger to his or her life or health if the seaman were to remain on board.
+
+             (2)  If a seaman, on his or her return to Australia, proves that the master or owner has been guilty of any conduct or default which, but for this section, would have entitled the seaman to sue for wages before the termination of the voyage or engagement, the seaman shall be entitled to recover, in addition to his or her wages, such compensation as the Court hearing the case thinks reasonable.
 
 ##### <a id="94"></a>94  Master’s remedies for wages
 
@@ -2355,16 +2466,6 @@ the seaman is entitled to wages, at the rate payable on the day of the terminati
 
 ### Division 13—Provisions
 
-##### <a id="115"></a>115  Free provisions
-
-                   A person commits an offence if:
-
-                     (a)  the person is the owner of a ship; and
-
-(b)  the owner, or a representative of the owner, does not provide free provisions to the seamen or the master engaged on the ship.
-
-                    Penalty:  10 penalty units.
-
 ##### <a id="116"></a>116  Bad provisions or water
 
              (1)  If 3 or more of the crew of a ship consider that their provisions or water are of bad quality, or deficient in quantity, they may complain thereof to a superintendent, who shall examine the provisions and water or cause them to be examined.
@@ -2387,7 +2488,7 @@ the seaman is entitled to wages, at the rate payable on the day of the terminati
 
                      (b)  food of suitable quality, quantity, nutritive value and variety;
 
-having regard to the nature and duration of the voyage and the size, and cultural and religious backgrounds, of the crew.
+having regard to the nature and duration of the voyage and the size of the crew.
 
 ##### <a id="117A"></a>117A  Adequate food catering facilities to be provided
 
@@ -2465,9 +2566,7 @@ having regard to the nature and duration of the voyage and the size, and cultura
 
                      (a)  receives a hurt or injury, or contracts a disease; or
 
-                     (b)  suffers from any illness, not being an illness due to a wilful act or default, or to misbehaviour, on the part of the seaman; or
-
-                   (ba)  requires essential dental care;
+                     (b)  suffers from any illness, not being an illness due to a wilful act or default, or to misbehaviour, on the part of the seaman;
 
 and the seaman is not at his or her proper return port, the expense of:
 
@@ -2517,9 +2616,9 @@ not being expenses which are required to be defrayed by the owner of the ship un
 
              (1)  If:
 
-                     (a)  any of the expenses attendant on the illness, hurt, or injury of, or the provision of essential dental care to, a seaman, which are to be paid under this Act by the master or owner, are paid by any authority on behalf of the Commonwealth; or
+                     (a)  any of the expenses attendant on the illness, hurt, or injury of a seaman, which are to be paid under this Act by the master or owner, are paid by any authority on behalf of the Commonwealth; or
 
-                     (b)  any other expenses in respect of the illness, hurt, or injury of, or the provision of essential dental care to, any seaman whose wages are not accounted for under this Act to that authority are so paid;
+                     (b)  any other expenses in respect of the illness, hurt, or injury of any seaman whose wages are not accounted for under this Act to that authority are so paid;
 
 those expenses shall be repaid to the authority by the master of the ship.
 
@@ -2545,7 +2644,7 @@ Note 2:       Subsection 73(2) of the _Personal Property Securities 
 
 ##### <a id="132"></a>132  Wages of seaman left on shore sick or injured
 
-             (1)  Where a seaman belonging to a ship is left on shore at his or her proper return port by reason of illness, hurt or injury, or the need for essential dental care, the seaman is, subject to this section and section 132B, entitled to receive wages, at the rate fixed by the seaman’s agreement, in respect of each day during the period commencing on the day on which the seaman was left on shore and ending:
+             (1)  Where a seaman belonging to a ship is left on shore at his or her proper return port by reason of illness, hurt or injury, the seaman is, subject to this section and section 132B, entitled to receive wages, at the rate fixed by the seaman’s agreement, in respect of each day during the period commencing on the day on which the seaman was left on shore and ending:
 
                      (a)  on the day of his or her recovery; or
 
@@ -2553,7 +2652,7 @@ Note 2:       Subsection 73(2) of the _Personal Property Securities 
 
 whichever first occurs.
 
-             (2)  Where a seaman belonging to a ship is left on shore at a port other than his or her proper return port by reason of illness, hurt or injury, or the need for essential dental care, the seaman is, subject to this section and section 132B, entitled to receive wages, at the rate fixed by the seaman’s agreement, in respect of each day during the period commencing on the day on which the seaman was left on shore and ending:
+             (2)  Where a seaman belonging to a ship is left on shore at a port other than his or her proper return port by reason of illness, hurt or injury, the seaman is, subject to this section and section 132B, entitled to receive wages, at the rate fixed by the seaman’s agreement, in respect of each day during the period commencing on the day on which the seaman was left on shore and ending:
 
                      (a)  in a case in which the seaman arrives at that port before his or her recovery:
 
@@ -2601,25 +2700,27 @@ the owner and agent of the ship are each guilty of an offence punishable on conv
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-             (6)  A seaman is entitled to wages under this section by reason of an illness, hurt or injury, or a need for essential dental care, only if the illness, hurt or injury, or need for essential dental care,:
+             (6)  A seaman is entitled to wages under this section by reason of an illness, hurt or injury only if the illness, hurt or injury:
 
                      (a)  is not due to a wilful act or default, or to misbehaviour, on the part of the seaman;
 
-                     (b)  is such as to incapacitate the seaman wholly from the performance of his or her duty; and
+                     (b)  is such as to incapacitate the seaman wholly from the performance of his or her duty;
+
+                     (c)  is, or appears to be, of such a nature as to require, or to be likely to require, medical treatment for a period exceeding 7 days from and including the day on which the seaman became so incapacitated; and
 
                      (d)  was not knowingly concealed by the seaman from the person who employed or engaged the seaman at the time the seaman was employed or engaged.
 
-          (6A)  A seaman is not entitled to wages under this section by reason of an illness, hurt or injury, or a need for essential dental care,, occurring after the day on which this subsection commences, if the seaman is entitled to compensation under Division 3 of Part 2 of the _Seafarers Rehabilitation and Compensation Act 1992_ in respect of that illness, hurt or injury, or need for essential dental care.
+          (6A)  A seaman is not entitled to wages under this section by reason of an illness, hurt or injury, occurring after the day on which this subsection commences, if the seaman is entitled to compensation under Division 3 of Part 2 of the _Seafarers Rehabilitation and Compensation Act 1992_ in respect of that illness, hurt or injury.
 
           (6B)  A seaman can be taken, for the purposes of subsection (6A), to be entitled to compensation under Division 3 of Part 2 of the _Seafarers Rehabilitation and Compensation Act 1992_ even though the seaman:
 
-                     (a)  has failed to give written notice of the illness, hurt or injury, or need for essential dental care, under section 62 of that Act; or
+                     (a)  has failed to give written notice of the illness, hurt or injury under section 62 of that Act; or
 
                      (b)  has failed to make a claim for compensation under section 63 of that Act.
 
           (6C)  If:
 
-                     (a)  a seaman is left on shore by reason of illness, hurt or injury, or a need for essential dental care; and
+                     (a)  a seaman is left on shore by reason of illness, hurt or injury; and
 
                      (b)  the owner:
 
@@ -2766,6 +2867,36 @@ having more than 10 and less than 100 persons on board, and not carrying a duly 
                      (a)  such ventilation of the machinery and boiler spaces of the ship as the Authority considers necessary; and
 
                      (b)  a wheel‑house, or such other shelter, as the Authority considers adequate for the protection of the helmsman.
+
+##### <a id="138"></a>138  Crew accommodation
+
+             (1)  The Marine Council may:
+
+                     (a)  consider plans for accommodation, or alterations in accommodation, in ships; and
+
+                     (b)  make recommendations to the Minister in relation to the requirements to be prescribed in relation to accommodation in ships.
+
+             (2)  Where:
+
+                     (a)  a question arises as to the accommodation that ought to be provided in a ship by the owner of the ship, either generally or for particular persons in, or in particular parts of, the ship; and
+
+                     (b)  the owner, or an association of seamen that is:
+
+                              (i)  a registered organisation within the meaning of Schedule 1 to the _Workplace Relations Act 1996_; or
+
+                             (ii)  a transitionally registered association within the meaning of Schedule 10 to the _Workplace Relations Act 1996_;
+
+                            requests the Marine Council to hear and determine the question;
+
+the Marine Council is to inquire into the question and make such order as it considers proper in the circumstances.
+
+             (3)  An order under subsection (2):
+
+                     (a)  must be in writing; and
+
+                     (c)  has effect from the date of effect specified in the order; and
+
+                     (d)  has effect despite anything to the contrary in the regulations in force at the date of effect of the order.
 
 ##### <a id="138A"></a>138A  Ships not to go to sea without required accommodation
 
@@ -2941,7 +3072,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (3)  The property may be recovered in the Court and manner in which the wages of seamen may be recovered under this Act.
 
-##### <a id="153"></a>153  Effects of deceased seaman not left on board
+##### <a id="153"></a>153  Effects of deceased seaman not left on board
 
                    If:
 
@@ -3196,6 +3327,14 @@ a proper authority may take into his or her charge that money and those effects.
                      (b)  omits to make an entry in an official log‑book, knowing that the omission will result in the log‑book being false or fraudulent.
 
                     Penalty:  $5,000 or imprisonment for 2 years, or both.
+
+##### <a id="172A"></a>172A  Report of matters recorded in official log‑book
+
+             (1)  The master of a ship who is required by section 171 to keep an official log‑book must, as soon as practicable after making an entry in relation to an occurrence under the code of conduct referred to in subsection 46(4A), report the recording of that occurrence to the Authority in accordance with regulations made under subsection (2).
+
+             (2)  The regulations may provide for the manner and time of reporting the making of an entry in the official log‑book in relation to an occurrence referred to in subsection (1).
+
+                    Penalty:  10 penalty units.
 
 ##### <a id="173"></a>173  Delivery of official log‑book
 
@@ -3571,7 +3710,7 @@ Note:          The defendant bears a legal burden in relation 
 
              (2)  Section 2 does not have effect in relation to a provision of this Part that gives effect to a provision of Chapter V of the Regulations contained in the Annex to the Safety Convention (other than Regulation 7 or 14 of that Chapter of those Regulations).
 
-             (3)  Provisions of this Act giving effect to the Safety Convention do not apply in relation to a ship referred to in paragraph 2(1)(a), (b), (ba), (c) or (d) to the extent that a law of a State or of the Northern Territory makes provision giving effect to the Safety Convention in relation to that ship.
+             (3)  Provisions of this Act giving effect to the Safety Convention do not apply in relation to a ship referred to in paragraph 2(1)(a), (b), (c) or (d) to the extent that a law of a State or of the Northern Territory makes provision giving effect to the Safety Convention in relation to that ship.
 
 ##### <a id="187AA"></a>187AA  Issue of certificates in respect of ships to which this Act does not apply
 
@@ -3581,7 +3720,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (b)  a certificate prescribed for the purposes of this section.
 
-             (2)  The owner of a ship referred to in paragraph 2(1)(a), (b), (ba), (c) or (d) may apply, in the prescribed form or in a form approved by the Authority by instrument in writing, to the Authority for the issue of a prescribed certificate in respect of the ship.
+             (2)  The owner of a ship referred to in paragraph 2(1)(a), (b), (c) or (d) may apply, in the prescribed form or in a form approved by the Authority by instrument in writing, to the Authority for the issue of a prescribed certificate in respect of the ship.
 
              (3)  Where an application is made under subsection (2) for the issue of a prescribed certificate in respect of a ship, section 2 does not have effect to the extent necessary to enable the application to be dealt with in accordance with this Act and to enable the prescribed certificate to be issued in respect of the ship.
 
@@ -3685,7 +3824,7 @@ Note:          The defendant bears a legal burden in relation 
 
                      (a)  any amendment of the Convention, other than an amendment not accepted by Australia, made under Article IX of the Convention; and
 
-                     (b)  the amendments to Annex 1 dated 2 Apri l 1981 (a copy of the English text of which is set forth in Schedule 5A) and any other amendment of the annexes to the Convention, other than an amendment objected to by Australia, made under Article X of the Convention.
+                     (b)  the amendments to Annex 1 dated 2 April 1981 (a copy of the English text of which is set forth in Schedule 5A) and any other amendment of the annexes to the Convention, other than an amendment objected to by Australia, made under Article X of the Convention.
 
 **_the Load Line Convention_** means the International Convention on Load Lines, 1966, as corrected by the Procès‑Verbal of Rectification dated 30 January 1969 and the Procès‑Verbal of Rectification dated 5 May 1969 (a copy of the English text of the articles of which, and of the annexes to which, as so corrected, other than the chart attached to Annex II, is set forth in Schedule 4):
 
@@ -3791,17 +3930,15 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                    The Authority may appoint a person who is skilled with regard to:
 
-                     (a)  wooden hulls and equipment, other than radio equipment; or
+                     (a)  wooden hulls and equipment, other than radio equipment;
 
-                     (b)  metal hulls and equipment, other than radio equipment; or
+                     (b)  metal hulls and equipment, other than radio equipment;
 
-                     (c)  engines, boilers and machinery; or
+                     (c)  engines, boilers and machinery;
 
                      (d)  radio installations; or
 
-                     (e)  radio navigational aids; or
-
-                      (f)  assessing the working and living conditions on board ships;
+                     (e)  radio navigational aids;
 
 to be a surveyor.
 
@@ -3809,29 +3946,9 @@ to be a surveyor.
 
              (1)  A surveyor may at any reasonable time go on board a ship and inspect the ship and any part of the ship, including the hull, boilers, machinery and equipment of the ship, and may require the certificates of the master or of any officer of the ship, or any certificate or other document relating to the ship, to be produced to him or her.
 
-             (2)  The powers of a surveyor under subsection (1) extend, subject to section 227E, to the inspection of a ship for the purpose of ascertaining whether the ship complies with such of the provisions of this Act and the regulations and orders relating to load lines as apply to the ship and whether the ship is overloaded, and to requiring the production to him or her of any certificate relating to load lines issued in respect of the ship.
+             (2)  Without limiting the generality of subsection (1), the powers of a surveyor under that subsection extend, subject to section 227E, to the inspection of a ship for the purpose of ascertaining whether the ship complies with such of the provisions of this Act and the regulations and orders relating to load lines as apply to the ship and whether the ship is overloaded, and to requiring the production to him or her of any certificate relating to load lines issued in respect of the ship.
 
-       (2AA)  The powers of a surveyor under subsection (1) extend to:
-
-                     (a)  the inspection of a ship for the purpose of ascertaining whether the ship complies with such of the provisions of:
-
-                              (i)  this Act, the regulations and orders; and
-
-                             (ii)  Part VA of the _Shipping Registration Act 1981_;
-
-                            relating to the working and living conditions of the seamen on board the ship and of the master of the ship as apply to the ship; and
-
-                     (b)  requiring the production to the surveyor of any document relating to those conditions.
-
-       (2AB)  The powers of a surveyor under subsection (1) extend to:
-
-                     (a)  the inspection of a ship for the purpose of ascertaining whether the ship complies with section 33A of the _Shipping Registration Act 1981_(which is about registration conditions for certain ships); and
-
-                     (b)  requiring the production to the surveyor of any document relating to compliance with that section.
-
-       (2AC)  Subsections (2), (2AA) and (2AB) do not limit subsection (1).
-
-          (2A)  A person who fails to comply with any requirement made by a surveyor under subsection (1), (2), (2AA) or (2AB) commits an offence punishable on conviction by a fine not exceeding 60 penalty units.
+          (2A)  A person who fails to comply with any requirement made by a surveyor under subsection (1) or (2) commits an offence punishable on conviction by a fine not exceeding 60 penalty units.
 
           (2B)  An offence against subsection (2A) is an offence of strict liability.
 
@@ -5434,7 +5551,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (3)  A reference in this section to the provisions of this Division shall be read as including a reference to the provisions of any regulations made for the purposes of section 267A and of any orders made pursuant to any such regulations.
 
-##### <a id="267A"></a>267A  Regulations to give effect to certain Regulations of Annex I
+##### <a id="267A"></a>267A  Regulations to give effect to certain Regulations of Annex I
 
                    The regulations may make provision for and in relation to giving effect to Regulations 12, 12A, 13, 14, 15, 16, 18, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34 and 35 of Annex I.
 
@@ -6160,7 +6277,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     Penalty:  100 penalty units.
 
-##### <a id="267ZZE"></a>267ZZE  Production of certificate
+##### <a id="267ZZE"></a>267ZZE  Production of certificate
 
              (1)  This section applies if application is made to an officer of Customs in respect of an Australian ship that is of 400 gross tonnage or above for a clearance under the Customs Act for a voyage from a port in Australia.
 
@@ -6732,7 +6849,7 @@ as is prescribed for the purposes of this Division in relation to that matter or
 
                      (a)  the form and content of sailing plans for ships (other than Australian ships) proposing to leave a port in Australia bound for another port in Australia or a port outside Australia; and
 
-                     (b)  the form and content of sailing plans for Australian ships proposing to leave any port (including a port outside Australia) bound for another port (including another port outside Australia); and
+                     (b)  the form and content of sailing plans for Australian ships proposing to leave any port (including a port outside   Australia) bound for another port (including another port outside Australia); and
 
                      (c)  the form and content of reports on the movement of ships (other than Australian ships) entering, traversing or leaving the prescribed area in relation to a reporting matter, including reports on their position, course and speed and such other matters as the regulations prescribe; and
 
@@ -7083,6 +7200,154 @@ Note:          For **_strict liability_**, see section 6.1 o
              (1)  Regulations made by virtue of sections 283D and 283E, orders made under subsection 425(1AA) and directions given under section 283F do not have effect to the extent that they are inconsistent with the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_(including regulations made under that Act and directions given under section 305 of that Act, but not including the provisions of the laws of the States and the Northern Territory applied by that Act) or with the Petroleum (Submerged Lands) Act of a State or the Northern Territory (including regulations made, and directions given, under such an Act, but not including the provisions of other laws of the State or Territory, as the case may be, applied by such an Act).
 
              (2)  The reference in subsection (1) to the Petroleum (Submerged Lands) Act of a State or the Northern Territory shall be construed as a reference to the Act of the State or the Territory, as the case may be, relating to the exploration for, and the exploitation of, the petroleum resources of submerged land adjacent to the coast of that State or Territory.
+
+## Part VI—The coasting trade
+
+##### <a id="284"></a>284  Application of Part
+
+                   This Part shall, except where otherwise expressed, apply to all ships, including ships to which Part II does not apply.
+
+##### <a id="286"></a>286  Permits to unlicensed ships
+
+             (1)  Where it can be shown to the satisfaction of the Minister, in regard to the coasting trade with any port or between any ports in the Commonwealth or in the Territories:
+
+                     (a)  that no licensed ship is available for the service; or
+
+                     (b)  that the service as carried out by a licensed ship or ships is inadequate to the needs of such port or ports;
+
+and the Minister is satisfied that it is desirable in the public interest that unlicensed ships be allowed to engage in that trade, the Minister may grant permits to unlicensed ships to do so, either unconditionally or subject to such conditions as he or she thinks fit to impose.
+
+             (2)  The carriage, by the ship named in a permit issued under this section, of passengers or cargo to or from any port, or between any ports, specified in the permit shall not be deemed engaging in the coasting trade.
+
+             (3)  A permit issued under this section may be for a single voyage only, or may be a continuing permit.
+
+             (4)  If:
+
+                     (a)  a continuing permit is in force in respect of a particular unlicensed ship; and
+
+                     (b)  at any time, the Minister forms the view that it may be no longer desirable in the public interest for that permit to remain in force:
+
+the Minister may, by notice in writing:
+
+                     (c)  inform the permit holder that he or she is of that view; and
+
+                     (d)  invite the permit holder to show cause, within 7 days of receipt of that notice, why the permit should not be cancelled.
+
+             (5)  A notice under subsection (4) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
+
+          (5A)  If, after having regard to any representations made by or on behalf of the permit holder and to any other relevant matter, the Minister is satisfied that it continues to be desirable in the public interest for the continuing permit to remain in force, the Minister must inform the permit holder that he or she is so satisfied.
+
+          (5B)  If, after having regard to any representations made by or on behalf of the permit holder and to any other relevant matter, the Minister is satisfied that it is no longer desirable in the public interest for the continuing permit to remain in force, the Minister must:
+
+                     (a)  cancel the permit with effect from a specified day at least 14 days after the Minister becomes so satisfied; and
+
+                     (b)  notify the permit holder of the fact of the cancellation and its date of effect and of the reasons for the cancellation.
+
+          (5C)  The Minister must, within 14 days of making a decision under subsection (1) to grant a continuing permit or a decision under subsection (5B) to cancel such a permit, notify in the _Gazette_:
+
+                     (a)  in the case of a decision to grant a permit—the issue of the permit and particulars of the permit issued; or
+
+                     (b)  in the case of a decision to cancel a permit—the cancellation of the permit, particulars of the permit cancelled and the date from which the cancellation takes effect.
+
+             (6)  Where it is shown to the satisfaction of the Minister that the tourist traffic between any ports in the Commonwealth or in the Territories is being injured or retarded, and the Minister is satisfied that it is desirable that unlicensed ships be allowed to engage in the trade, the Minister may, by notice published in the _Gazette_, grant permission to unlicensed ships of such size and speed as are specified in the notice to engage in the carriage of passengers between those ports subject to such conditions (if any) and for such period as are set out in the notice.
+
+             (7)  The carriage of passengers between those ports, by a ship of the description specified in any such notice and under the conditions (if any), and during the period, set out in the notice, shall not be deemed engaging in the coasting trade.
+
+             (8)  In this section:
+
+                    <a name="permit-holder"></a>**_permit holder_**in relation to a continuing permit granted under this section in respect of an unlicensed ship, means the master, owner, charterer or agent to whom the permit was granted.
+
+##### <a id="287"></a>287  Ships in receipt of subsidies
+
+             (1)  The master, owner and agent of a ship commit an offence if:
+
+                     (a)  any one or more of the master, owner and agent engage in conduct; and
+
+                     (b)  the ship:
+
+                              (i)  is receiving, directly or indirectly, any subsidy or bonus from the Government of a country other than   Australia; or
+
+                             (ii)  is to receive such a subsidy or bonus under an arrangement; or
+
+                            (iii)  has received such a subsidy or bonus in the 12 months immediately preceding the conduct; and
+
+                     (c)  the conduct results in the ship engaging in the coasting trade.
+
+                    Penalty:  $5,000.
+
+          (1A)  An offence under subsection (1) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (2)  Any payment for services _bona fide_ rendered in the carriage of mails, passengers, or goods, at rates based solely on the actual commercial value of these services, shall not be taken to be a subsidy within the meaning of this section.
+
+##### <a id="288"></a>288  Licensing of ships to engage in coasting trade
+
+             (1)  Subject to this Act, where a ship that is not licensed to do so engages in the coasting trade, the master, owner and agent of the ship are each guilty of an indictable offence punishable on conviction by a fine not exceeding $5,000.
+
+             (2)  Licences to ships to engage in the coasting trade shall be for such period, not exceeding 3 years, as is prescribed, and may be granted as prescribed.
+
+             (3)  Every licence shall be issued subject to compliance on the part of the ship, its master, owner, and agent, during such time as it is engaged in the coasting trade, with the following conditions:
+
+                     (a)  That the seamen employed on the ship shall be paid wages in accordance with this Part;
+
+                     (c)  That where a library is provided for the use of passengers, every seaman shall—where no library for their special use is provided—be entitled to obtain books therefrom under the same conditions as may regulate the issue of such books to the passengers.
+
+             (4)  Where a condition referred to in paragraph (3)(a) is not complied with, the owner of the ship is guilty of an offence punishable on conviction by a fine not exceeding $5,000.
+
+             (5)  Before granting any licence, the Minister may require security to be given to his or her satisfaction by the master, owner, charterer or agent for compliance with the conditions of the licence and the requirements of this Part.
+
+             (6)  In addition to, or in lieu of, any penalty otherwise provided, the Minister may cancel any licence if he or she is satisfied that a breach of any of the above conditions has been committed.
+
+             (7)  No licence shall be cancelled unless an opportunity has been given to the master, owner, or agent of the ship to show cause against cancellation.
+
+             (8)  An offence under subsection (1) or (4) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+##### <a id="289"></a>289  Payment of Australian rates of wages
+
+             (1)  Every seaman employed on a ship engaged in any part of the coasting trade shall, subject to any lawful deductions, be entitled to and shall be paid, for the period during which the ship is so engaged, wages at the current rates ruling in Australia for seamen employed in that part of the coasting trade, and may sue for and recover those wages.
+
+             (2)  In the case of ships trading to places beyond Australia, the wages to which a seaman is entitled under this section shall be paid before the departure of the ship from Australia, and the master of such a ship shall produce to the officer of Customs to whom application is made for a clearance under the Customs Act for an international voyage from a port in Australia evidence to the satisfaction of that officer of such payment, and the officer of Customs may refuse to grant the clearance, and the ship may be detained, until such evidence is produced to him or her.
+
+##### <a id="290"></a>290  Indorsement of rate of wages on agreement
+
+             (1)  If the seamen employed on any ship were not engaged in Australia, the master shall, before the ship engages in the coasting trade, make and sign an indorsement or memorandum on the agreement specifying the wages to be paid to the seamen whilst the ship engages in the coasting trade, and that indorsement or memorandum shall have effect as an agreement under section 46 between the master and those seamen.
+
+             (2)  Where under the original agreement a seaman is entitled to be paid at a higher rate of wages than the rate ruling in   Australia for seamen in a corresponding rating, nothing in this section shall affect the seaman’s right to such higher rate during the engagement of the ship in the coasting trade.
+
+##### <a id="291"></a>291  Seamen’s rights not affected by agreement
+
+             (1)  No provision in any agreement, whether made in or out of Australia, shall be taken to limit or prejudice the rights of any seaman under this Part.
+
+             (2)  Where, by reason of a seaman’s being entitled to a higher rate of wages while the ship on which the seaman serves is engaged in the coasting trade:
+
+                     (a)  any deduction is made from his or her wages earned out of Australia; or
+
+                     (b)  the seaman is paid a lesser rate of wages outside Australia than is usual in voyages of a similar nature;
+
+it shall be deemed that the seaman is not paid wages in accordance with this Part while the ship is so engaged in the coasting trade.
+
+##### <a id="292"></a>292  Evidence of rates of wages
+
+                   Any of the following which is binding on or applicable to seamen employed in any part of the coasting trade is prima facie evidence of the rates of wages in Australia for those seamen:
+
+                     (a)  a modern award (within the meaning of the _Fair Work Act 2009_);
+
+                     (b)  a transitional APCS or transitional award (both within the meaning of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
+
+Note:          For an instrument referred to in paragraph (b), see items 2 and 4 of Schedule 2 to the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
+
+##### <a id="293"></a>293  Responsibility of master, owner and agent for compliance with Act
+
+                   The master, owners, and agents of any ship engaging in the coasting trade, shall be jointly and severally responsible for compliance with this Part by or in respect of the ship.
+
+##### <a id="293A"></a>293A  Power to suspend provisions as to coasting trade
+
+             (1)  The Governor‑General may, if at any time he or she considers it expedient in the public interest to do so, by Proclamation suspend, for such time as is specified in the Proclamation, the operation of any of the foregoing provisions of this Part, as regards any ship or class of ships, and either unconditionally or subject to such conditions (if any) as he or she thinks fit to impose.
+
+             (2)  A Proclamation issued in pursuance of subsection (1) may provide for suspension for the period specified in the Proclamation, or may provide for suspension until the issue of a Proclamation revoking the prior Proclamation.
 
 ## Part VII—Wrecks and salvage
 
@@ -7480,6 +7745,8 @@ in the same manner as if the ship, wreck, cargo or equipment belonged to a priva
 
                      (c)  the imposing of a requirement under paragraph 14(9)(b);
 
+                     (d)  a decision under subsection 46(2A) refusing to approve an agreement;
+
                      (e)  the making of a determination under subsection 47(1), or a decision refusing to revoke a determination made under that subsection;
 
                       (f)  a decision under subsection 76(4) disallowing or refusing to disallow a deduction;
@@ -7591,6 +7858,10 @@ in the same manner as if the ship, wreck, cargo or equipment belonged to a priva
 ##### <a id="377J"></a>377J  Decisions under Part VB
 
                    Application may be made to the Administrative Appeals Tribunal for review of the giving of a direction under subsection 283F(1).
+
+##### <a id="377JA"></a>377JA  Decisions under Part VI
+
+                   Application may be made to the Administrative Appeals Tribunal for review of a decision to cancel a continuing permit granted under section 286.
 
 ##### <a id="377K"></a>377K  Decisions under Part XA
 
@@ -8082,7 +8353,7 @@ Note:          For continuing contraventions of civil penalty 
 
                    The Court must apply the rules of evidence and procedure for civil matters when hearing proceedings for a civil penalty order.
 
-##### <a id="399H"></a>399H  Contravening a civil penalty provision is not an offence
+##### <a id="399H"></a>399H  Contravening a civil penalty provision is not an offence
 
                    A contravention of a civil penalty provision is not an offence.
 
@@ -8092,7 +8363,7 @@ Note:          For continuing contraventions of civil penalty 
 
                    The Court may not make a civil penalty order against a person for a contravention of a civil penalty provision if the person has been convicted of an offence constituted by conduct that is the same, or substantially the same, as the conduct constituting the contravention.
 
-##### <a id="399K"></a>399K  Criminal proceedings during civil proceedings
+##### <a id="399K"></a>399K  Criminal proceedings during civil proceedings
 
              (1)  Proceedings for a civil penalty order against a person for a contravention of a civil penalty provision are stayed if:
 
@@ -8492,7 +8763,7 @@ neither the pilot nor any pilotage provider responsible for the provision of the
 
                     <a name="vessel-traffic-servic"></a>**_vessel traffic service_** means a navigational service implemented under a law of the Commonwealth or of a State or Territory and in accordance with guidelines for vessel traffic services adopted by the International Maritime Organization on 27 November 1997, and as amended from time to time, to improve the safety and efficiency of vessel traffic and to protect the environment.
 
-##### <a id="412"></a>412  Search of vessels
+##### <a id="412"></a>412  Search of vessels
 
                    A person authorised by the Minister or by the Authority may, with such assistance as is reasonably necessary, search a ship in a port where the person has reasonable grounds for believing the search to be necessary for the purposes of this Act.
 
@@ -8670,6 +8941,8 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (5)  The Marine Council shall inquire into and report to the Minister upon any matter arising out of or relating to this Act which the Minister refers to the Council for advice.
 
+          (5A)  The Marine Council may investigate any matter referred to it in accordance with a provision of an agreement under section 46 relating to the observance of a code of conduct and may make such recommendations in relation to the matter as it thinks fit.
+
              (6)  Regulations shall not be made for the purposes of section 117 unless the Minister has first obtained from the Marine Council a report on the proposed regulations.
 
           (8A)  The Chairperson and other members of the Marine Council, and the deputies of the Chairperson and other members of the Marine Council, shall be paid such remuneration as is determined by the Remuneration Tribunal.
@@ -8705,10 +8978,6 @@ Note:          For **_strict liability_**, see section 6.1 o
                    (dc)  vessel traffic services (within the meaning of section 411);
 
                      (e)  the safety of persons, including pilots, going on or coming from, or on board, ships;
-
-                    (ea)  the training and qualifications of masters and seamen;
-
-                   (eb)  the maximum number of hours that masters or seamen may be required to work in a particular period of time;
 
                      (g)  the issue of certificates as to the service at sea of seamen;
 
