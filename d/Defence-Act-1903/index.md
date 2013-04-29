@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00196/Html/315ed8d1-0ef8-4cc7-88cc-c50ebe832e15_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00089/Html/b0fe8f7d-34c9-4220-adc8-6220856d0b95_files/image001.gif)
 
 # Defence Act 1903
 
 **Act No. 20 of 1903 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 19 of 2011
+This compilation was prepared on 14 January 2011
+ taking into account amendments up to Act No. 95 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -84,7 +84,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [50E](#50E).        Period of service during call out
 
-**Part IIIAAA—Utilisation of Defence Force to protect Commonwealth interests and States and self‑governing Territories** 
+**Part IIIAAA—Utilisation of Defence Force to protect Commonwealth interests and States and self-governing Territories** 
 
     **Division 1—Calling out and directing utilisation of Defence Force**
 
@@ -98,7 +98,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [51B](#51B).       Order about utilising Defence Force to protect State against domestic violence
 
-[51C](#51C).       Order about utilising Defence Force to protect self‑governing Territory against domestic violence
+[51C](#51C).       Order about utilising Defence Force to protect self-governing Territory against domestic violence
 
 [51CA](#51CA).    Expedited call out
 
@@ -486,19 +486,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [110](#110).        Other administrative action not precluded
 
-**Part VIIIB—Inspector‑General of the Australian Defence Force** 
+**Part VIIIB—Inspector-General of the Australian Defence Force** 
 
-    **Division 1—Establishment and functions of the Inspector‑General of the Australian Defence Force**
+    **Division 1—Establishment and functions of the Inspector-General of the Australian Defence Force**
 
 [110A](#110A).     Object of Part
 
-[110B](#110B).     Inspector‑General of the Australian Defence Force
+[110B](#110B).     Inspector-General of the Australian Defence Force
 
-[110C](#110C).     Functions of the Inspector‑General ADF
+[110C](#110C).     Functions of the Inspector-General ADF
 
-[110D](#110D).     When the Inspector‑General ADF can conduct inquiries or investigations
+[110D](#110D).     When the Inspector-General ADF can conduct inquiries or investigations
 
-    **Division 2—Administrative provisions about the Inspector‑General of the Australian Defence Force**
+    **Division 2—Administrative provisions about the Inspector-General of the Australian Defence Force**
 
 [110E](#110E).      Appointment
 
@@ -672,7 +672,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [116ZC](#116ZC).   Concurrent operation of State and Territory laws
 
-[116ZD](#116ZD).   By‑laws
+[116ZD](#116ZD).   By-laws
 
 **Part IXC—Salvage claims**
 
@@ -768,13 +768,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
-                    <a name="foreign-affair-minist"></a>**_Foreign Affairs Minister_** means the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
-
-                    <a name="adf"></a><a name="inspector-gener"></a>**_Inspector‑General_** **_ADF_** means the Inspector‑General of the Australian Defence Force referred to in section 110B.
+                    <a name="adf"></a><a name="inspector-gener"></a>**_Inspector-General_** **_ADF_** means the Inspector-General of the Australian Defence Force referred to in section 110B.
 
                     <a name="member"></a>**_Member_**—Includes any officer, sailor, soldier and airman.
 
-                    <a name="non-commiss-offic"></a>**_Non‑commissioned Officer_**—Means a soldier (other than a warrant officer) holding non‑commissioned rank.
+                    <a name="non-commiss-offic"></a>**_Non-commissioned Officer_**—Means a soldier (other than a warrant officer) holding non-commissioned rank.
 
                     <a name="offic"></a>**_Officer_** means:
 
@@ -794,7 +792,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="soldier"></a>**_Soldier_**—Means a member of the Army other than an officer.
 
-                    <a name="secretari"></a>**_The Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_The Secretary_** means the Secretary to the Department.
 
                     <a name="time-defenc-emerg"></a>**_Time of Defence Emergency_**—Means the period between the publication of a proclamation declaring that a state of defence emergency exists in relation to Australia and the publication of a proclamation that that state of defence emergency no longer exists.
 
@@ -854,7 +852,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="9"></a>9  Command of Defence Force and arms of Defence Force
 
-             (1)  The Governor‑General may appoint an officer of an arm of the Defence Force to be Chief of the Defence Force and:
+             (1)  The Governor-General may appoint an officer of an arm of the Defence Force to be Chief of the Defence Force and:
 
                      (a)  may appoint an officer of the Navy to be Chief of Navy;
 
@@ -894,7 +892,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="9AA"></a>9AA  Vice Chief of the Defence Force
 
-             (1)  The Governor‑General may appoint an officer of an arm of the Defence Force to be Vice Chief of the Defence Force.
+             (1)  The Governor-General may appoint an officer of an arm of the Defence Force to be Vice Chief of the Defence Force.
 
              (2)  Subject to section 8, the Vice Chief of the Defence Force shall, under the Chief of the Defence Force, be responsible for such part of the administration of the Defence Force in respect of which the Chief of the Defence Force has responsibility, whether alone or jointly with the Secretary, as the Chief of the Defence Force specifies in writing, and shall have such other functions as the Chief of the Defence Force determines in writing.
 
@@ -908,7 +906,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="9BA"></a>9BA  Tenure of office
 
-             (1)  Subject to subsection (2) and the regulations, a person appointed under subsection 9(1) or 9AA(1) holds office for the period specified in the document of appointment, but is eligible for re‑appointment.
+             (1)  Subject to subsection (2) and the regulations, a person appointed under subsection 9(1) or 9AA(1) holds office for the period specified in the document of appointment, but is eligible for re-appointment.
 
              (2)  If a person appointed under subsection 9(1) or 9AA(1) ceases to be an officer of an arm of the Defence Force, the person ceases to hold office under subsection 9(1) or 9AA(1).
 
@@ -934,7 +932,7 @@ but an officer appointed to act during a vacancy shall not continue so to act fo
 
 ##### <a id="28"></a>28  Council of Defence
 
-             (1)  The Governor‑General may constitute a Council of Defence, which shall have such powers and functions as are prescribed.
+             (1)  The Governor-General may constitute a Council of Defence, which shall have such powers and functions as are prescribed.
 
 ## Part III—The Defence Force
 
@@ -992,7 +990,7 @@ but an officer appointed to act during a vacancy shall not continue so to act fo
 
 ### Division 3—The service of the Army
 
-##### <a id="45"></a>45  Service of the Regular Army
+##### <a id="45"></a>45  Service of the Regular Army
 
                    Members of the Regular Army are bound to render continuous full time military service.
 
@@ -1024,9 +1022,9 @@ Note:          Different service may be required of different 
 
 ##### <a id="50D"></a>50D  Calling out the Reserves
 
-Governor‑General may call out the Reserves
+Governor-General may call out the Reserves
 
-             (1)  The Governor‑General may, by publishing a written order in the _Gazette_, call out for continuous full time service:
+             (1)  The Governor-General may, by publishing a written order in the _Gazette_, call out for continuous full time service:
 
                      (a)  the Reserves; or
 
@@ -1040,7 +1038,7 @@ Governor‑General may call out the Reserves
 
 Circumstances required for call out
 
-             (2)  However, the Governor‑General may only make an order in circumstances (whether within or outside Australia) involving any one or more of the following:
+             (2)  However, the Governor-General may only make an order in circumstances (whether within or outside Australia) involving any one or more of the following:
 
                      (a)  war or warlike operations;
 
@@ -1056,13 +1054,13 @@ Circumstances required for call out
 
                      (g)  civil aid, humanitarian assistance, medical or civil emergency or disaster relief.
 
-Advice to Governor‑General
+Advice to Governor-General
 
-             (3)  In making or revoking an order, the Governor‑General is to act with the advice of:
+             (3)  In making or revoking an order, the Governor-General is to act with the advice of:
 
                      (a)  the Executive Council; or
 
-                     (b)  if, after the Minister has consulted the Prime Minister, the Minister is satisfied that, for reasons of urgency, the Governor‑General should act with the advice of the Minister alone—the Minister.
+                     (b)  if, after the Minister has consulted the Prime Minister, the Minister is satisfied that, for reasons of urgency, the Governor-General should act with the advice of the Minister alone—the Minister.
 
 When order takes effect
 
@@ -1120,7 +1118,7 @@ Continuous full time service otherwise than under this section
 
              (6)  Nothing in this section prevents a member of the Reserves from being bound to render continuous full time naval, military or air force service otherwise than under this section.
 
-## Part IIIAAA—Utilisation of Defence Force to protect Commonwealth interests and States and self‑governing Territories
+## Part IIIAAA—Utilisation of Defence Force to protect Commonwealth interests and States and self-governing Territories
 
 ### Division 1—Calling out and directing utilisation of Defence Force
 
@@ -1152,9 +1150,9 @@ and includes the airspace over an area covered by paragraph (a), (b), (c) or (
 
                      (d)  the waters of the sea on the landward side of the territorial sea of each external Territory;
 
-but does not include the internal waters of a State or self‑governing Territory.
+but does not include the internal waters of a State or self-governing Territory.
 
-                    <a name="authorising-minist"></a>**_authorising Ministers_** means the Prime Minister, the Minister and the Attorney‑General.
+                    <a name="authorising-minist"></a>**_authorising Ministers_** means the Prime Minister, the Minister and the Attorney-General.
 
                     <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
@@ -1174,7 +1172,7 @@ but does not include the internal waters of a State or self‑governing Territor
 
                     <a name="infrastructur"></a>**_infrastructure_** includes physical facilities, supply chains, information technologies and communication networks or systems.
 
-                    <a name="intern-water"></a>**_internal waters_**, in relation to a State or self‑governing Territory, means the waters of the sea within the limits of the State or Territory and includes the airspace over those waters.
+                    <a name="intern-water"></a>**_internal waters_**, in relation to a State or self-governing Territory, means the waters of the sea within the limits of the State or Territory and includes the airspace over those waters.
 
                     <a name="mean-transport"></a>**_means of transport_** means a vehicle, vessel, aircraft that is not airborne, train or other means of transporting persons or goods.
 
@@ -1214,7 +1212,7 @@ but does not include:
 
                     <a name="search-member"></a>**_search members_**, in relation to a search authorisation, has the meaning given by paragraph 51L(2)(d).
 
-                    <a name="self-govern-territori"></a>**_self‑governing Territory_** means the Australian Capital Territory, the Northern Territory or Norfolk Island.
+                    <a name="self-govern-territori"></a>**_self-governing Territory_** means the Australian Capital Territory, the Northern Territory or Norfolk Island.
 
                     <a name="substant-crimin-law"></a>**_substantive criminal law_** means law (including unwritten law):
 
@@ -1256,15 +1254,15 @@ Conditions for making of order
 
                     (aa)  the domestic violence would, or would be likely to, affect Commonwealth interests; and
 
-                     (b)  if the domestic violence is occurring or is likely to occur in a State or self‑governing Territory—the State or Territory is not, or is unlikely to be, able to protect Commonwealth interests against the domestic violence; and
+                     (b)  if the domestic violence is occurring or is likely to occur in a State or self-governing Territory—the State or Territory is not, or is unlikely to be, able to protect Commonwealth interests against the domestic violence; and
 
                      (c)  the Defence Force should be called out and the Chief of the Defence Force should be directed to utilise the Defence Force to protect the Commonwealth interests against the domestic violence; and
 
                      (d)  one or more of Divisions 2, 2A, 3 and 3B, and Division 4, should apply in relation to the order.
 
-Power of Governor‑General to make order
+Power of Governor-General to make order
 
-             (2)  If this subsection applies, the Governor‑General may, by written order, call out the Defence Force and direct the Chief of the Defence Force to utilise the Defence Force to protect the Commonwealth interests against the domestic violence.
+             (2)  If this subsection applies, the Governor-General may, by written order, call out the Defence Force and direct the Chief of the Defence Force to utilise the Defence Force to protect the Commonwealth interests against the domestic violence.
 
                    Provided always that the Emergency Forces or the Reserve Forces shall not be called out or utilized in connexion with an industrial dispute.
 
@@ -1272,9 +1270,9 @@ Involvement of State or Territory
 
              (3)  If paragraph (1)(b) applies:
 
-                     (a)  the Governor‑General may make the order whether or not the Government of the State or the self‑governing Territory requests the making of the order; and
+                     (a)  the Governor-General may make the order whether or not the Government of the State or the self-governing Territory requests the making of the order; and
 
-                     (b)  if the Government of the State or the self‑governing Territory does not request the making of the order, an authorising Minister must, subject to subsection (3A), consult that Government about the making of the order before the Governor‑General makes it.
+                     (b)  if the Government of the State or the self-governing Territory does not request the making of the order, an authorising Minister must, subject to subsection (3A), consult that Government about the making of the order before the Governor-General makes it.
 
 Exception to paragraph (3)(b)
 
@@ -1298,23 +1296,23 @@ When order is in force
 
 Revocation of order
 
-             (6)  If the authorising Ministers cease to be satisfied as mentioned in subsection (1), the Governor‑General must revoke the order.
+             (6)  If the authorising Ministers cease to be satisfied as mentioned in subsection (1), the Governor-General must revoke the order.
 
-Advice to Governor‑General
+Advice to Governor-General
 
-             (7)  In making or revoking the order, the Governor‑General is to act with the advice of:
+             (7)  In making or revoking the order, the Governor-General is to act with the advice of:
 
                      (a)  except where paragraph (b) applies—the Executive Council; or
 
-                     (b)  if an authorising Minister is satisfied that, for reasons of urgency, the Governor‑General should, for the purposes of this subsection, act with the advice of the authorising Minister—the authorising Minister.
+                     (b)  if an authorising Minister is satisfied that, for reasons of urgency, the Governor-General should, for the purposes of this subsection, act with the advice of the authorising Minister—the authorising Minister.
 
 Effect of revocation of order etc.
 
              (8)  To avoid doubt, if the order is revoked or ceases to be in force, the call out of the Defence Force under the order ends and the Chief of the Defence Force must cease utilising the Defence Force as mentioned in subsection (2).
 
-Notice to State or self‑governing Territory
+Notice to State or self-governing Territory
 
-          (8A)  As soon as is reasonably practicable after the order is made or revoked, an authorising Minister must arrange for the Government of the State or the self‑governing Territory specified in the order to be notified of the making or revocation of the order. However, if this is not done, the validity of the making or revocation of the order is not affected.
+          (8A)  As soon as is reasonably practicable after the order is made or revoked, an authorising Minister must arrange for the Government of the State or the self-governing Territory specified in the order to be notified of the making or revocation of the order. However, if this is not done, the validity of the making or revocation of the order is not affected.
 
 Further orders
 
@@ -1332,9 +1330,9 @@ Conditions for making of order utilising the Defence Force in the offshore area
 
                      (c)  either Division 2A or 3A, or both, and Division 4 should apply in relation to the order.
 
-Power of Governor‑General to make order utilising the Defence Force in the Australian offshore area
+Power of Governor-General to make order utilising the Defence Force in the Australian offshore area
 
-             (2)  If this subsection applies, the Governor‑General may, by written order, call out the Defence Force and direct the Chief of the Defence Force to utilise the Defence Force in the Australian offshore area to protect the Commonwealth interests against the threat concerned.
+             (2)  If this subsection applies, the Governor-General may, by written order, call out the Defence Force and direct the Chief of the Defence Force to utilise the Defence Force in the Australian offshore area to protect the Commonwealth interests against the threat concerned.
 
              (3)  However, the Reserves must not be called out or utilised in connection with an industrial dispute.
 
@@ -1342,23 +1340,23 @@ Conditions for also utilising the Defence Force in the internal waters
 
              (4)  Subsection (5) applies if the authorising Ministers are satisfied that:
 
-                     (a)  in relation to the threat mentioned in paragraph (1)(a), domestic violence is occurring or is likely to occur in the internal waters of a State or self‑governing Territory; and
+                     (a)  in relation to the threat mentioned in paragraph (1)(a), domestic violence is occurring or is likely to occur in the internal waters of a State or self-governing Territory; and
 
                      (b)  the State or Territory is not, or is unlikely to be, able to protect the Commonwealth interests against the domestic violence; and
 
                      (c)  the Chief of the Defence Force should be directed to utilise the Defence Force in the internal waters of the State or Territory to protect the Commonwealth interests against the domestic violence.
 
-Power of Governor‑General to direct utilising the Defence Force in the internal waters
+Power of Governor-General to direct utilising the Defence Force in the internal waters
 
-             (5)  If this subsection applies, the Governor‑General may, in the order under subsection (2), also direct the Chief of the Defence Force to utilise the Defence Force in the internal waters of the State or Territory to protect the Commonwealth interests against the domestic violence.
+             (5)  If this subsection applies, the Governor-General may, in the order under subsection (2), also direct the Chief of the Defence Force to utilise the Defence Force in the internal waters of the State or Territory to protect the Commonwealth interests against the domestic violence.
 
 Involvement of State or Territory
 
              (6)  If subsection (5) applies:
 
-                     (a)  the Governor‑General may make the direction referred to in subsection (5) whether or not the Government of the State or the self‑governing Territory requests the making of the direction; and
+                     (a)  the Governor-General may make the direction referred to in subsection (5) whether or not the Government of the State or the self-governing Territory requests the making of the direction; and
 
-                     (b)  if the Government of the State or the self‑governing Territory does not request the making of the direction referred to in subsection (5), an authorising Minister must, subject to subsection (7), consult that Government about the making of the direction.
+                     (b)  if the Government of the State or the self-governing Territory does not request the making of the direction referred to in subsection (5), an authorising Minister must, subject to subsection (7), consult that Government about the making of the direction.
 
 Exception to paragraph (6)(b)
 
@@ -1388,23 +1386,23 @@ When order is in force
 
 Revocation of order
 
-           (10)  If the authorising Ministers cease to be satisfied as mentioned in subsection (1), the Governor‑General must revoke the order.
+           (10)  If the authorising Ministers cease to be satisfied as mentioned in subsection (1), the Governor-General must revoke the order.
 
-Advice to Governor‑General
+Advice to Governor-General
 
-           (11)  In making or revoking the order, the Governor‑General is to act with the advice of:
+           (11)  In making or revoking the order, the Governor-General is to act with the advice of:
 
                      (a)  except where paragraph (b) applies—the Executive Council; or
 
-                     (b)  if an authorising Minister is satisfied that, for reasons of urgency, the Governor‑General should, for the purposes of this subsection, act with the advice of the authorising Minister—the authorising Minister.
+                     (b)  if an authorising Minister is satisfied that, for reasons of urgency, the Governor-General should, for the purposes of this subsection, act with the advice of the authorising Minister—the authorising Minister.
 
 Effect of revocation of order etc.
 
            (12)  To avoid doubt, if the order is revoked or ceases to be in force, the call out of the Defence Force under the order ends and the Chief of the Defence Force must cease utilising the Defence Force as mentioned in subsection (2) or (5).
 
-Notice to State or self‑governing Territory
+Notice to State or self-governing Territory
 
-           (13)  If the order includes a direction mentioned in subsection (5), then as soon as is reasonably practicable after the order is made or revoked, an authorising Minister must arrange for the Government of the State or the self‑governing Territory specified in the order to be notified of the making or revocation of the order. However, if this is not done, the validity of the making or revocation of the order is not affected.
+           (13)  If the order includes a direction mentioned in subsection (5), then as soon as is reasonably practicable after the order is made or revoked, an authorising Minister must arrange for the Government of the State or the self-governing Territory specified in the order to be notified of the making or revocation of the order. However, if this is not done, the validity of the making or revocation of the order is not affected.
 
 Further orders
 
@@ -1422,25 +1420,25 @@ Conditions for making of order
 
                              (ii)  there would be, or it is likely there would be, a threat in the Australian offshore area to Commonwealth interests (whether in that area or elsewhere);
 
-                            and, for reasons of urgency, it would be impracticable for the Governor‑General to make an order under section 51A or 51AA (as the case requires); and
+                            and, for reasons of urgency, it would be impracticable for the Governor-General to make an order under section 51A or 51AA (as the case requires); and
 
-                     (b)  if subparagraph (a)(i) applies—the domestic violence would occur or would be likely to occur in a State or self‑governing Territory that would not be, or is unlikely to be, able to protect the Commonwealth interests against the domestic violence; and
+                     (b)  if subparagraph (a)(i) applies—the domestic violence would occur or would be likely to occur in a State or self-governing Territory that would not be, or is unlikely to be, able to protect the Commonwealth interests against the domestic violence; and
 
                      (c)  the Chief of the Defence Force should be directed to utilise the Defence Force to protect the Commonwealth interests against the violence, or the threat in the Australian offshore area, if the specified circumstances arise; and
 
                      (d)  Divisions 3B and 4 should apply in relation to the order.
 
-Power of Governor‑General to make order
+Power of Governor-General to make order
 
-             (2)  If this subsection applies, the Governor‑General may, by written order, direct the Chief of the Defence Force to utilise the Defence Force to protect the Commonwealth interests against the domestic violence, or the threat in the Australian offshore area, if the specified circumstances arise.
+             (2)  If this subsection applies, the Governor-General may, by written order, direct the Chief of the Defence Force to utilise the Defence Force to protect the Commonwealth interests against the domestic violence, or the threat in the Australian offshore area, if the specified circumstances arise.
 
 Involvement of State or Territory
 
              (3)  If paragraph (1)(b) applies:
 
-                     (a)  the Governor‑General may make the order whether or not the Government of the State or the self‑governing Territory requests the making of the order; and
+                     (a)  the Governor-General may make the order whether or not the Government of the State or the self-governing Territory requests the making of the order; and
 
-                     (b)  if the Government of the State or the self‑governing Territory does not request the making of the order, an authorising Minister must consult that Government about the making of the order before the Governor‑General makes it.
+                     (b)  if the Government of the State or the self-governing Territory does not request the making of the order, an authorising Minister must consult that Government about the making of the order before the Governor-General makes it.
 
 Content of the order
 
@@ -1468,17 +1466,17 @@ When order is in force
 
 Revocation of order
 
-             (6)  If the authorising Ministers cease to be satisfied as mentioned in subsection (1), the Governor‑General must revoke the order.
+             (6)  If the authorising Ministers cease to be satisfied as mentioned in subsection (1), the Governor-General must revoke the order.
 
-Advice to Governor‑General
+Advice to Governor-General
 
-             (7)  In making or revoking the order the Governor‑General is to act with the advice of the Executive Council.
+             (7)  In making or revoking the order the Governor-General is to act with the advice of the Executive Council.
 
 Effect of revocation of order etc.
 
              (8)  To avoid doubt, if the order is revoked or ceases to be in force, the Chief of the Defence Force must cease utilising the Defence Force as mentioned in subsection (2).
 
-Notice to State or self‑governing Territory
+Notice to State or self-governing Territory
 
              (9)  If the order specifies a State or Territory under subparagraph (4)(b)(ii), as soon as is reasonably practicable after the order is made or revoked, an authorising Minister must arrange for the Government of the State or Territory to be notified of the making or revocation of the order. However, if this is not done, the validity of the making or revocation of the order is not affected.
 
@@ -1498,9 +1496,9 @@ Conditions for making of order
 
                      (c)  one or more of Divisions 2, 2A, 3 and 3B, and Division 4, should apply in relation to the order.
 
-Power of Governor‑General to make order
+Power of Governor-General to make order
 
-             (2)  If this subsection applies, the Governor‑General may, by written order, call out the Defence Force and direct the Chief of the Defence Force to utilise the Defence Force to protect the State against the domestic violence.
+             (2)  If this subsection applies, the Governor-General may, by written order, call out the Defence Force and direct the Chief of the Defence Force to utilise the Defence Force to protect the State against the domestic violence.
 
 Provided always that the Emergency Forces or the Reserve Forces shall not be called out or utilized in connexion with an industrial dispute.
 
@@ -1528,15 +1526,15 @@ Revocation of order
 
                      (b)  the authorising Ministers cease to be satisfied as mentioned in subsection (1);
 
-the Governor‑General must revoke the order.
+the Governor-General must revoke the order.
 
-Advice to Governor‑General
+Advice to Governor-General
 
-             (6)  In making or revoking the order, the Governor‑General is to act with the advice of:
+             (6)  In making or revoking the order, the Governor-General is to act with the advice of:
 
                      (a)  except where paragraph (b) applies—the Executive Council; or
 
-                     (b)  if an authorising Minister is satisfied that, for reasons of urgency, the Governor‑General should, for the purposes of this subsection, act with the advice of the authorising Minister—the authorising Minister.
+                     (b)  if an authorising Minister is satisfied that, for reasons of urgency, the Governor-General should, for the purposes of this subsection, act with the advice of the authorising Minister—the authorising Minister.
 
 Effect of revocation of order etc.
 
@@ -1546,11 +1544,11 @@ Further orders
 
              (8)  The fact that the order has been made does not prevent further orders being made in relation to the same matter.
 
-##### <a id="51C"></a>51C  Order about utilising Defence Force to protect self‑governing Territory against domestic violence
+##### <a id="51C"></a>51C  Order about utilising Defence Force to protect self-governing Territory against domestic violence
 
 Conditions for making of order
 
-             (1)  Subsection (2) applies if the Government of a self‑governing Territory applies to the Commonwealth Government to protect the Territory against domestic violence that is occurring or is likely to occur in the Territory and the authorising Ministers are satisfied that:
+             (1)  Subsection (2) applies if the Government of a self-governing Territory applies to the Commonwealth Government to protect the Territory against domestic violence that is occurring or is likely to occur in the Territory and the authorising Ministers are satisfied that:
 
                      (a)  the Territory is not, or is unlikely to be, able to protect itself against the domestic violence; and
 
@@ -1558,9 +1556,9 @@ Conditions for making of order
 
                      (c)  one or more of Divisions 2, 2A, 3 and 3B, and Division 4, should apply in relation to the order.
 
-Power of Governor‑General to make order
+Power of Governor-General to make order
 
-             (2)  If this subsection applies, the Governor‑General may, by written order, call out the Defence Force and direct the Chief of the Defence Force to utilise the Defence Force to protect the Territory against the domestic violence. 
+             (2)  If this subsection applies, the Governor-General may, by written order, call out the Defence Force and direct the Chief of the Defence Force to utilise the Defence Force to protect the Territory against the domestic violence. 
 
                    Provided always that the Emergency Forces or the Reserve Forces shall not be called out or utilized in connexion with an industrial dispute.
 
@@ -1588,15 +1586,15 @@ Revocation of order
 
                      (b)  the authorising Ministers cease to be satisfied as mentioned in subsection (1);
 
-the Governor‑General must revoke the order.
+the Governor-General must revoke the order.
 
-Advice to Governor‑General
+Advice to Governor-General
 
-             (6)  In making or revoking the order, the Governor‑General is to act with the advice of:
+             (6)  In making or revoking the order, the Governor-General is to act with the advice of:
 
                      (a)  except where paragraph (b) applies—the Executive Council; or
 
-                     (b)  if an authorising Minister is satisfied that, for reasons of urgency, the Governor‑General should, for the purposes of this subsection, act with the advice of the authorising Minister—the authorising Minister.
+                     (b)  if an authorising Minister is satisfied that, for reasons of urgency, the Governor-General should, for the purposes of this subsection, act with the advice of the authorising Minister—the authorising Minister.
 
 Effect of revocation of order etc.
 
@@ -1610,7 +1608,7 @@ Further orders
 
 Expedited call out by the Prime Minister
 
-             (1)  The Prime Minister may make an order of a kind that the Governor‑General is empowered to make under section 51A, 51AA, 51AB, 51B or 51C if the Prime Minister is satisfied that:
+             (1)  The Prime Minister may make an order of a kind that the Governor-General is empowered to make under section 51A, 51AA, 51AB, 51B or 51C if the Prime Minister is satisfied that:
 
                      (a)  because a sudden and extraordinary emergency exists, it is not practicable for an order to be made under that section; and
 
@@ -1618,7 +1616,7 @@ Expedited call out by the Prime Minister
 
 Expedited call out by the other 2 authorising Ministers
 
-             (2)  The other 2 authorising Ministers may jointly make an order of a kind that the Governor‑General is empowered to make under section 51A, 51AA, 51AB, 51B or 51C if those authorising Ministers are satisfied that:
+             (2)  The other 2 authorising Ministers may jointly make an order of a kind that the Governor-General is empowered to make under section 51A, 51AA, 51AB, 51B or 51C if those authorising Ministers are satisfied that:
 
                      (a)  because a sudden and extraordinary emergency exists, it is not practicable for an order to be made under that section; and
 
@@ -1628,7 +1626,7 @@ Expedited call out by the other 2 authorising Ministers
 
 Expedited call out by an authorising Minister and another Minister
 
-          (2A)  An authorising Minister, together with the Deputy Prime Minister, the Foreign Affairs Minister or the Treasurer, may make an order of a kind that the Governor‑General is empowered to make under section 51A, 51AA, 51AB, 51B or 51C if the Ministers are satisfied that:
+          (2A)  An authorising Minister, together with the Deputy Prime Minister, the Minister for Foreign Affairs or the Treasurer, may make an order of a kind that the Governor-General is empowered to make under section 51A, 51AA, 51AB, 51B or 51C if the Ministers are satisfied that:
 
                      (a)  because a sudden and extraordinary emergency exists, it is not practicable for an order to be made under that section; and
 
@@ -1640,7 +1638,7 @@ Expedited call out by an authorising Minister and another Minister
 
 Orders applying in internal waters
 
-             (3)  If the order is an order of a kind that Governor‑General is empowered to make under section 51AA, the order must not direct the Chief of the Defence Force to utilise the Defence Force in the internal waters of the State or self‑governing Territory unless:
+             (3)  If the order is an order of a kind that Governor-General is empowered to make under section 51AA, the order must not direct the Chief of the Defence Force to utilise the Defence Force in the internal waters of the State or self-governing Territory unless:
 
                      (a)  if the order is made under subsection (1) of this section—the Prime Minister is satisfied that the circumstances referred to in subsection 51AA(4) exist in relation to that State or Territory; or
 
@@ -1660,7 +1658,7 @@ Order not in writing
 
                               (i)  cause the record to be given to the Chief of the Defence Force; and
 
-                             (ii)  cause a copy of the record to be given to the Governor‑General; and
+                             (ii)  cause a copy of the record to be given to the Governor-General; and
 
                      (e)  in the case of the Chief of the Defence Force—as soon as practicable:
 
@@ -1674,11 +1672,11 @@ However, a failure to comply with paragraph (d) or (e) does not affect the val
 
 The effect of the order
 
-             (5)  Subject to subsections (7) and (8) of this section, an order made under this section has effect, for all purposes (other than this section), as if it were an order made by the Governor‑General under section 51A, 51AA, 51AB, 51B or 51C (as the case requires). In particular:
+             (5)  Subject to subsections (7) and (8) of this section, an order made under this section has effect, for all purposes (other than this section), as if it were an order made by the Governor-General under section 51A, 51AA, 51AB, 51B or 51C (as the case requires). In particular:
 
                      (a)  subsection 51A(4), 51AA(8), 51AB(4), 51B(3) or 51C(3) (as the case requires) applies to the order; and
 
-                     (b)  the Governor‑General may revoke the order in the same way, and in the same circumstances, as he or she may revoke an order under section 51A, 51AA, 51AB, 51B or 51C (as the case requires).
+                     (b)  the Governor-General may revoke the order in the same way, and in the same circumstances, as he or she may revoke an order under section 51A, 51AA, 51AB, 51B or 51C (as the case requires).
 
              (6)  For the purposes of paragraph (5)(b), the reference in subsection 51A(6), 51AA(10) or 51AB(6) or paragraph 51B(5)(b) or 51C(5)(b) (as the case requires) to the authorising Ministers ceasing to be satisfied is taken to be a reference to them not being satisfied.
 
@@ -1686,7 +1684,7 @@ Content of the order
 
              (7)  An order made under this section:
 
-                     (a)  must state that it is made under this section, and that it has effect as if it were an order made by the Governor‑General under section 51A, 51AA, 51AB, 51B or 51C (as the case requires); and
+                     (a)  must state that it is made under this section, and that it has effect as if it were an order made by the Governor-General under section 51A, 51AA, 51AB, 51B or 51C (as the case requires); and
 
                      (b)  despite paragraph 51A(4)(d), 51AA(8)(d), 51AB(4)(d), 51B(3)(d) or 51C(3)(d) (as the case requires), must state that, unless it is revoked earlier, it ceases to be in force after a specified period (which must not be more than 5 days).
 
@@ -1748,7 +1746,7 @@ References to certain circumstances
 
 Involvement of State or Territory under subsection 51A(3) not required
 
-           (13)  To avoid doubt, paragraph 51A(3)(b) does not apply to an order under this section that would have effect as if it were an order made by the Governor‑General under section 51A.
+           (13)  To avoid doubt, paragraph 51A(3)(b) does not apply to an order under this section that would have effect as if it were an order made by the Governor-General under section 51A.
 
 ##### <a id="51CB"></a>51CB  Declaration of designated critical infrastructure
 
@@ -1764,11 +1762,11 @@ Involvement of State or Territory under subsection 51A(3) not required
 
              (4)  To avoid doubt, the authorising Ministers may make a declaration under this section whether or not an order is in force under this Division.
 
-             (5)  If the infrastructure, or the part of the infrastructure, is in a State or a self‑governing Territory:
+             (5)  If the infrastructure, or the part of the infrastructure, is in a State or a self-governing Territory:
 
-                     (a)  the authorising Ministers may make the declaration referred to in subsection (1) whether or not the Government of the State or the self‑governing Territory requests the making of the declaration; and
+                     (a)  the authorising Ministers may make the declaration referred to in subsection (1) whether or not the Government of the State or the self-governing Territory requests the making of the declaration; and
 
-                     (b)  if the Government of the State or the self‑governing Territory does not request the making of the declaration referred to in subsection (1), an authorising Minister must, subject to subsection (6), consult that Government about the making of the declaration.
+                     (b)  if the Government of the State or the self-governing Territory does not request the making of the declaration referred to in subsection (1), an authorising Minister must, subject to subsection (6), consult that Government about the making of the declaration.
 
              (6)  However, paragraph (5)(b) does not apply if the authorising Ministers are satisfied that, for reasons of urgency, it is impracticable to comply with the requirements of that paragraph.
 
@@ -1776,11 +1774,11 @@ Involvement of State or Territory under subsection 51A(3) not required
 
 Order under section 51A
 
-             (1)  If the Governor‑General makes an order under section 51A, the Chief of the Defence Force must, subject to sections 51E, 51F and 51G, utilise the Defence Force, in such manner as is reasonable and necessary, for the purpose of protecting the Commonwealth interests specified in the order, in the State or Territory specified in the order, against the domestic violence specified in the order.
+             (1)  If the Governor-General makes an order under section 51A, the Chief of the Defence Force must, subject to sections 51E, 51F and 51G, utilise the Defence Force, in such manner as is reasonable and necessary, for the purpose of protecting the Commonwealth interests specified in the order, in the State or Territory specified in the order, against the domestic violence specified in the order.
 
 Order under section 51AA
 
-          (1A)  If the Governor‑General makes an order under section 51AA, the Chief of the Defence Force must, subject to sections 51E, 51F and 51G, utilise the Defence Force, in such manner as is reasonable and necessary:
+          (1A)  If the Governor-General makes an order under section 51AA, the Chief of the Defence Force must, subject to sections 51E, 51F and 51G, utilise the Defence Force, in such manner as is reasonable and necessary:
 
                      (a)  in the Australian offshore area, for the purpose of protecting the Commonwealth interests specified in the order against the threat concerned; and
 
@@ -1790,7 +1788,7 @@ Order under section 51AB
 
           (1B)  If:
 
-                     (a)  the Governor‑General makes an order under section 51AB; and
+                     (a)  the Governor-General makes an order under section 51AB; and
 
                      (b)  the circumstances specified in the order arise;
 
@@ -1804,7 +1802,7 @@ as the case requires.
 
 Order under section 51B or 51C
 
-             (2)  If the Governor‑General makes an order under section 51B or 51C, the Chief of the Defence Force must, subject to sections 51E, 51F and 51G, utilise the Defence Force, in such manner as is reasonable and necessary, for the purpose of protecting the State or Territory specified in the order against the domestic violence specified in the order.
+             (2)  If the Governor-General makes an order under section 51B or 51C, the Chief of the Defence Force must, subject to sections 51E, 51F and 51G, utilise the Defence Force, in such manner as is reasonable and necessary, for the purpose of protecting the State or Territory specified in the order against the domestic violence specified in the order.
 
 ##### <a id="51E"></a>51E  Ministerial directions
 
@@ -1822,7 +1820,7 @@ Order under section 51B or 51C
 
              (3)  This section does not apply in relation to an order under section 51AA to the extent that the Defence Force is being utilised in the Australian offshore area.
 
-Note:          This section will still apply in relation to an order under section 51AA to the extent that the Defence Force is being utilised in the internal waters of a State or self‑governing Territory.
+Note:          This section will still apply in relation to an order under section 51AA to the extent that the Defence Force is being utilised in the internal waters of a State or self-governing Territory.
 
 ##### <a id="51G"></a>51G  Restriction on certain utilisation of Defence Force
 
@@ -1898,7 +1896,7 @@ Definitions
 
                      (a)  the Australian offshore area; and
 
-                     (b)  if the order includes a direction mentioned in subsection 51AA(5)—the internal waters of the State or self‑governing Territory specified in the order.
+                     (b)  if the order includes a direction mentioned in subsection 51AA(5)—the internal waters of the State or self-governing Territory specified in the order.
 
 ##### <a id="51IB"></a>51IB  Powers to protect designated critical infrastructure
 
@@ -2198,7 +2196,7 @@ Members to be given means to comply with obligations
 
                      (a)  the Australian offshore area; and
 
-                     (b)  if the order under section 51AA includes a direction mentioned in subsection 51AA(5)—the internal waters of the State or self‑governing Territory specified in the order.
+                     (b)  if the order under section 51AA includes a direction mentioned in subsection 51AA(5)—the internal waters of the State or self-governing Territory specified in the order.
 
 ##### <a id="51SC"></a>51SC  International obligations
 
@@ -2216,7 +2214,7 @@ Members to be given means to comply with obligations
 
                      (b)  any other thing capable of carrying persons or goods through or on water;
 
-and includes a hovercraft (or other non‑displacement craft) and a floating structure or installation.
+and includes a hovercraft (or other non-displacement craft) and a floating structure or installation.
 
 #### Subdivision B—Special powers of members of the Defence Force
 
@@ -2590,7 +2588,7 @@ Geographical application
 
                     Penalty:  30 penalty units.
 
-Self‑incrimination
+Self-incrimination
 
              (4)  A person is not excused from answering a question or producing a document under this section on the ground that the answer to the question, or the production of the document, may tend to incriminate the person or make the person liable to a penalty.
 
@@ -2952,7 +2950,7 @@ Meaning of “independent review”
 
              (5)  Determinations may make provision for, and in relation to, reducing a superannuation benefit under the determinations in a case where a person becomes entitled to benefits under the _Military Superannuation and Benefits Act 1991_ in circumstances mentioned in subparagraph 5A(1)(b)(i) of that Act.
 
-Note:          Section 5A of the _Military Superannuation and Benefits Act 1991_ provides for superannuation benefits for a non‑member spouse in respect of splitting agreements and splitting orders under the _Family Law Act 1975_.
+Note:          Section 5A of the _Military Superannuation and Benefits Act 1991_ provides for superannuation benefits for a non-member spouse in respect of splitting agreements and splitting orders under the _Family Law Act 1975_.
 
              (6)  Reductions referred to in subsection (5) are to be disregarded in applying subsection (3A).
 
@@ -2968,7 +2966,7 @@ Note:          The definitions of **_public sector superannuat
 
 ##### <a id="58A"></a>58A  Interpretation
 
-                   In this Division, unless the contrary intention appears:
+                   In this Division, unless the contrary intention appears:
 
                     <a name="cadet"></a>**_cadet_** means an officer, instructor or cadet in the Australian Army Cadets, the Australian Navy Cadets or the Australian Air Force Cadets, and includes a person who has ceased to be such an officer, instructor or cadet, whether by reason of death or otherwise.
 
@@ -3026,7 +3024,7 @@ Note:          The definitions of **_public sector superannuat
 
 Note:          Section 46AA of the _Acts Interpretation Act 1901_ deals with prescribing matters by reference to other instruments.
 
-          (1B)  A determination under this section may provide that, where an amount has been paid (whether before or after the commencement of this subsection) to a member or cadet or to a member of the family of a member or cadet under the regulations or under a determination made under this section or under Division 2, the member or cadet or the member of the family of the member or cadet is required to pay to the Commonwealth an amount, not exceeding the first‑mentioned amount, upon the occurrence of an event specified in the determination, and may provide for the manner of recovery of such an amount.
+          (1B)  A determination under this section may provide that, where an amount has been paid (whether before or after the commencement of this subsection) to a member or cadet or to a member of the family of a member or cadet under the regulations or under a determination made under this section or under Division 2, the member or cadet or the member of the family of the member or cadet is required to pay to the Commonwealth an amount, not exceeding the first-mentioned amount, upon the occurrence of an event specified in the determination, and may provide for the manner of recovery of such an amount.
 
              (2)  Subsection (1) does not authorize the making of a determination providing for or in relation to the payment to or in respect of a member, or to or in respect of a member of the family of a member, of a benefit in the nature of a pension.
 
@@ -3110,7 +3108,7 @@ Note:          Section 46AA of the _Acts Interpretation Act 
 
 Note:          The Permanent Forces are made up of the Permanent Navy, the Regular Army and the Permanent Air Force which are established respectively by the _Naval Defence Act 1910_, this Act and the _Air Force Act 1923_. Those Acts also establish the Naval Reserve, the Army Reserve and the Air Force Reserve, which together make up the Reserves.
 
-             (3)  The members of the Tribunal shall be appointed by the Governor‑General on a part‑time basis.
+             (3)  The members of the Tribunal shall be appointed by the Governor-General on a part-time basis.
 
              (4)  The person appointed as President shall be a Deputy President of FWA.
 
@@ -3140,17 +3138,17 @@ Note:          The Permanent Forces are made up of the Permane
 
              (6)  Where a determination of the Tribunal in respect of the salaries and relevant allowances to be paid to members is in force, the Tribunal shall inquire into and make a further determination in respect of those salaries and allowances:
 
-                     (a)  within 2 years of the first‑mentioned determination taking effect; or
+                     (a)  within 2 years of the first-mentioned determination taking effect; or
 
-                     (b)  if the Minister, by notice in writing given to the President, requests the Tribunal to make a further determination in respect of those salaries and allowances within a shorter period of the first‑mentioned determination taking effect—within that shorter period.
+                     (b)  if the Minister, by notice in writing given to the President, requests the Tribunal to make a further determination in respect of those salaries and allowances within a shorter period of the first-mentioned determination taking effect—within that shorter period.
 
              (7)  A determination of the Tribunal shall be in writing and shall take effect, or shall be deemed to have taken effect, on such day as the Tribunal specifies for the purpose in the determination.
 
              (8)  The Tribunal shall not specify as the day on which a determination of the Tribunal takes effect a day earlier than the day on which the determination is made in any case where, if the determination so took effect:
 
-                     (a)  the rights of a person (other than the Commonwealth) which existed immediately before the last‑mentioned day would be affected in a manner prejudicial to that person; or
+                     (a)  the rights of a person (other than the Commonwealth) which existed immediately before the last-mentioned day would be affected in a manner prejudicial to that person; or
 
-                     (b)  liabilities would be imposed on a person (other than the Commonwealth) in respect of anything done or omitted to be done before that last‑mentioned day;
+                     (b)  liabilities would be imposed on a person (other than the Commonwealth) in respect of anything done or omitted to be done before that last-mentioned day;
 
 and where, in a determination of the Tribunal, any provision is made in contravention of this subsection, that provision shall be of no effect.
 
@@ -3160,7 +3158,7 @@ and where, in a determination of the Tribunal, any provision is made in contrave
 
            (11)  A notice of request under subsection (10) shall set out the grounds on which the reconsideration is being sought.
 
-           (12)  As soon as practicable after a request is made under subsection (10) for reconsideration of a determination, the Tribunal shall reconsider the determination and shall make a further determination affirming, varying or replacing the first‑mentioned determination.
+           (12)  As soon as practicable after a request is made under subsection (10) for reconsideration of a determination, the Tribunal shall reconsider the determination and shall make a further determination affirming, varying or replacing the first-mentioned determination.
 
            (13)  The Minister shall cause a copy of each determination of the Tribunal to be laid before each House of the Parliament within 15 sitting days of that House after the determination is received by the Minister.
 
@@ -3324,7 +3322,7 @@ the Minister, the Secretary or the Chief of the Defence Force may, by notice in 
 
 ##### <a id="58L"></a>58L  Terms and tenure of office
 
-             (1)  Subject to this Division, a member of the Tribunal holds office for such period, not exceeding 5 years, as is specified in his or her instrument of appointment, but is eligible for re‑appointment.
+             (1)  Subject to this Division, a member of the Tribunal holds office for such period, not exceeding 5 years, as is specified in his or her instrument of appointment, but is eligible for re-appointment.
 
              (2)  A person must not continue to hold office as a member of the Tribunal if:
 
@@ -3338,11 +3336,11 @@ Note:          The Permanent Forces are made up of the Permane
 
 ##### <a id="58M"></a>58M  Resignation
 
-                   A member of the Tribunal may resign his or her office by writing signed by him or her and delivered to the Governor‑General.
+                   A member of the Tribunal may resign his or her office by writing signed by him or her and delivered to the Governor-General.
 
 ##### <a id="58N"></a>58N  Termination of appointment
 
-                   The Governor‑General may terminate the appointment of a member of the Tribunal by reason of misbehaviour or physical or mental incapacity.
+                   The Governor-General may terminate the appointment of a member of the Tribunal by reason of misbehaviour or physical or mental incapacity.
 
 ##### <a id="58P"></a>58P  Acting appointments
 
@@ -3380,7 +3378,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-             (4)  In this section, **_prescribed office_** means an office, appointment or other employment which is referred to in subsection 7(11) of the _Remuneration Tribunals Act 1973_ as an office, appointment or other employment on a full‑time basis or a judicial office referred to in subsection 7(12) of that Act.
+             (4)  In this section, **_prescribed office_** means an office, appointment or other employment which is referred to in subsection 7(11) of the _Remuneration Tribunals Act 1973_ as an office, appointment or other employment on a full-time basis or a judicial office referred to in subsection 7(12) of that Act.
 
 ### Division 3—The Defence Force Advocate
 
@@ -3396,7 +3394,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="58S"></a>58S  Defence Force Advocate
 
-             (1)  There shall be a Defence Force Advocate, who shall be appointed by the Minister on a part‑time basis.
+             (1)  There shall be a Defence Force Advocate, who shall be appointed by the Minister on a part-time basis.
 
              (2)  The person appointed as the Advocate shall be a person who:
 
@@ -3418,7 +3416,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="58U"></a>58U  Tenure and terms of office
 
-             (1)  Subject to this Division, the Advocate holds office for 3 years, but is eligible for re‑appointment.
+             (1)  Subject to this Division, the Advocate holds office for 3 years, but is eligible for re-appointment.
 
              (2)  A person shall not continue to hold the office of Advocate if he becomes a member of the Tribunal.
 
@@ -3478,7 +3476,7 @@ are liable, when called upon under section 60, to serve in the Defence Force.
 
 ##### <a id="60"></a>60  Proclamation calling upon persons to serve in time of war
 
-             (1)  In time of war the Governor‑General may, by proclamation, call upon persons specified in section 59 to serve in the Defence Force in accordance with this Act for the duration of the time of war.
+             (1)  In time of war the Governor-General may, by proclamation, call upon persons specified in section 59 to serve in the Defence Force in accordance with this Act for the duration of the time of war.
 
              (2)  A Proclamation under this section must call on persons in the order in which they are included in classes established for the purposes of this subsection under subsection (3).
 
@@ -3588,7 +3586,7 @@ are liable, when called upon under section 60, to serve in the Defence Force.
 
                      (b)  2 other members.
 
-             (3)  Members are to be appointed in writing by the Minister and may be appointed as either full‑time or part‑time members.
+             (3)  Members are to be appointed in writing by the Minister and may be appointed as either full-time or part-time members.
 
              (4)  A person is not to be appointed as a presiding member of a Tribunal unless he or she is a legal practitioner of not less than 7 years standing.
 
@@ -3640,15 +3638,15 @@ the following provisions have effect:
 
                      (d)  in any other case—the proceeding must be reheard by another Tribunal.
 
-             (2)  If an application that was being dealt with by one Tribunal is reheard by another Tribunal, that other Tribunal may, for the purposes of that application, have regard to any record of the proceedings before the first‑mentioned Tribunal.
+             (2)  If an application that was being dealt with by one Tribunal is reheard by another Tribunal, that other Tribunal may, for the purposes of that application, have regard to any record of the proceedings before the first-mentioned Tribunal.
 
              (3)  The reference in subsection (2) to a record of proceedings includes a reference to a record of any evidence taken in the proceeding.
 
 ##### <a id="61CO"></a>61CO  Acting appointments
 
-             (1)  The Minister may appoint a person to act as a full‑time member of a Conscientious Objection Tribunal during any period, or during all periods, when the member is absent from duty or from Australia or is, for any reason, unable to perform the duties of the member’s office.
+             (1)  The Minister may appoint a person to act as a full-time member of a Conscientious Objection Tribunal during any period, or during all periods, when the member is absent from duty or from Australia or is, for any reason, unable to perform the duties of the member’s office.
 
-             (2)  The Minister may appoint a person to act as a part‑time member of a Tribunal during any period, or during all periods, when the member is, for any reason, unable to perform the duties of the member’s office.
+             (2)  The Minister may appoint a person to act as a part-time member of a Tribunal during any period, or during all periods, when the member is, for any reason, unable to perform the duties of the member’s office.
 
              (3)  Where a person has been appointed under subsection (1) or (2), the Minister may direct that the person is to continue to act in the appointment after the normal terminating event occurs.
 
@@ -3970,17 +3968,17 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="63"></a>63  General powers for defence purposes [_see_ Note 3]
 
-             (1)  The Governor‑General may:
+             (1)  The Governor-General may:
 
                       (f)  Subject to the provisions of this Act do all matters and things deemed by him to be necessary or desirable for the efficient defence and protection of the Commonwealth or of any State.
 
 ##### <a id="64"></a>64  Control of railways in time of war
 
-                   The Governor‑General may in time of war authorize any officer to assume control of any railway for transport for naval, military or air‑force purposes.
+                   The Governor-General may in time of war authorize any officer to assume control of any railway for transport for naval, military or air-force purposes.
 
 ##### <a id="65"></a>65  Railways to carry troops etc. when required
 
-                   The principal railway official in any State or the owner, controller, or manager of any railway or tramway in any State shall when required by the Governor‑General, and as prescribed, convey and carry members of the Defence Force, together with their horses, guns, ammunition, forage, baggage, aircraft, aircraft material and stores from any place to any place on the railway or tramway, and shall provide all engines, carriages, trucks and rolling‑stock necessary for the purpose.
+                   The principal railway official in any State or the owner, controller, or manager of any railway or tramway in any State shall when required by the Governor-General, and as prescribed, convey and carry members of the Defence Force, together with their horses, guns, ammunition, forage, baggage, aircraft, aircraft material and stores from any place to any place on the railway or tramway, and shall provide all engines, carriages, trucks and rolling-stock necessary for the purpose.
 
 ##### <a id="66"></a>66  Conveyance by railway and tramway
 
@@ -3988,7 +3986,7 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="67"></a>67  Registration and impressment of vehicles etc.
 
-                   The owner of any vehicle, horse, mule, bullock, aircraft, aircraft material, boat or vessel, or of any goods, required for naval, military or air‑force purposes, shall, when required to do so by an officer authorized in that behalf by the regulations, furnish it for those purposes, and shall be recompensed therefor in the manner prescribed, and the owners of any vehicles, horses, mules, bullocks, aircraft, aircraft material, boats or vessels may be required by the regulations to register them periodically.
+                   The owner of any vehicle, horse, mule, bullock, aircraft, aircraft material, boat or vessel, or of any goods, required for naval, military or air-force purposes, shall, when required to do so by an officer authorized in that behalf by the regulations, furnish it for those purposes, and shall be recompensed therefor in the manner prescribed, and the owners of any vehicles, horses, mules, bullocks, aircraft, aircraft material, boats or vessels may be required by the regulations to register them periodically.
 
 ##### <a id="68"></a>68  Billeting and quartering
 
@@ -4002,7 +4000,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (b)  Any horse ridden or used by any member of the Defence Force on march or duty or by any prisoner under his charge;
 
-                     (c)  Any vehicle employed only in conveying members of the Defence Force on march or duty or any prisoner under their charge or conveying naval, military or air‑force arms, stores, baggage, aircraft or aircraft material; or
+                     (c)  Any vehicle employed only in conveying members of the Defence Force on march or duty or any prisoner under their charge or conveying naval, military or air-force arms, stores, baggage, aircraft or aircraft material; or
 
                      (d)  Any animal drawing any such vehicle.
 
@@ -4014,7 +4012,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (a)  the person communicates to any other person any plan, document, or information relating to any fort, battery, field work, fortification, or defence work, or to any defences of the Commonwealth, or to any factory, or air force aerodrome or establishment or any other naval, military or air force information; and
 
-                     (b)  the communication is not in the course of the first‑mentioned person’s official duty.
+                     (b)  the communication is not in the course of the first-mentioned person’s official duty.
 
              (2)  A person is guilty of an offence if:
 
@@ -4042,7 +4040,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (c)  has in his possession;
 
-any arms accoutrements or other naval, military or air‑force articles belonging to the Commonwealth or to any corps, unit or station, shall be liable to a penalty not exceeding $40, and may be ordered by the Court by which he is tried to be imprisoned for a period not exceeding 3 months unless in the meantime he delivers up the article or pays its value.
+any arms accoutrements or other naval, military or air-force articles belonging to the Commonwealth or to any corps, unit or station, shall be liable to a penalty not exceeding $40, and may be ordered by the Court by which he is tried to be imprisoned for a period not exceeding 3 months unless in the meantime he delivers up the article or pays its value.
 
        (1AA)  An offence under subsection (1) is an offence of strict liability.
 
@@ -4052,7 +4050,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          The defendant bears a legal burden in relation to the matter in subsection (1AB). See section 13.4 of the _Criminal Code_.
 
-          (1A)  In any prosecution under this section for failure to deliver up when lawfully required so to do any arms, accoutrements or other naval, military or air‑force articles belonging to the Commonwealth or to any corps, unit or station:
+          (1A)  In any prosecution under this section for failure to deliver up when lawfully required so to do any arms, accoutrements or other naval, military or air-force articles belonging to the Commonwealth or to any corps, unit or station:
 
                      (a)  if it is proved to the satisfaction of the Court that any such article was in the possession of the defendant at any time prior to the time at which he was required to deliver up the article, he shall be deemed, in the absence of proof by him of the lawful disposal of the article, to have continued in possession of the article up to the time when he was required to deliver up the article; and
 
@@ -4120,7 +4118,7 @@ then:
 
                      (c)  the person is guilty of an offence; and
 
-                     (d)  all sketches, drawings, photographs, pictures, and paintings, and all tools and all materials or apparatus for sketching, drawing, photographing or painting found in his or her possession are forfeited and may be destroyed, sold, or otherwise disposed of, as the Governor‑General directs.
+                     (d)  all sketches, drawings, photographs, pictures, and paintings, and all tools and all materials or apparatus for sketching, drawing, photographing or painting found in his or her possession are forfeited and may be destroyed, sold, or otherwise disposed of, as the Governor-General directs.
 
           (1A)  The maximum penalty for an offence under subsection (1) is a fine of $200, imprisonment for 6 months, or both.
 
@@ -4136,7 +4134,7 @@ then:
 
                      (d)  the person is guilty of an offence; and
 
-                     (e)  all tools and all materials or apparatus for sketching, drawing, photographing or painting found in his or her possession are forfeited and may be destroyed, sold, or otherwise disposed of, as the Governor‑General directs.
+                     (e)  all tools and all materials or apparatus for sketching, drawing, photographing or painting found in his or her possession are forfeited and may be destroyed, sold, or otherwise disposed of, as the Governor-General directs.
 
           (2A)  The maximum penalty for an offence under subsection (2) is a fine of $100.
 
@@ -4342,9 +4340,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     <a name="relev-author"></a>**_relevant authority_** means:
 
-                     (a)  in relation to a defence member who holds a rank not below the rank of Major‑General (or an equivalent rank)—the Governor‑General; or
+                     (a)  in relation to a defence member who holds a rank not below the rank of Major-General (or an equivalent rank)—the Governor-General; or
 
-                     (b)  in relation to a defence member who holds a rank below the rank of Major‑General (or an equivalent rank)—the relevant service chief; or
+                     (b)  in relation to a defence member who holds a rank below the rank of Major-General (or an equivalent rank)—the relevant service chief; or
 
                      (c)  in relation to a defence civilian—the relevant service chief.
 
@@ -4426,15 +4424,15 @@ Note:          Subsection 98(2) provides that a positive test 
 
 ##### <a id="101"></a>101  Termination or discharge
 
-             (1)  If a defence member to whom a notice is given under section 100 is an officer who holds a rank not below the rank of Major‑General (or equivalent rank) and:
+             (1)  If a defence member to whom a notice is given under section 100 is an officer who holds a rank not below the rank of Major-General (or equivalent rank) and:
 
                      (a)  the officer does not give the relevant authority, within the period specified in the notice, a statement of reasons why the officer’s appointment should not be terminated; or
 
                      (b)  having considered such a statement given by the officer, the relevant authority is of the opinion that the officer’s appointment should be terminated;
 
-the Governor‑General must terminate the appointment.
+the Governor-General must terminate the appointment.
 
-             (2)  If a defence member to whom a notice is given under section 100 is an officer who holds a rank below the rank of Major‑General (or equivalent rank) and:
+             (2)  If a defence member to whom a notice is given under section 100 is an officer who holds a rank below the rank of Major-General (or equivalent rank) and:
 
                      (a)  the officer does not give the relevant authority, within the period specified in the notice, a statement of reasons why the officer’s appointment should not be terminated; or
 
@@ -4468,7 +4466,7 @@ the relevant authority must terminate that arrangement.
 
 the relevant authority must take into consideration any warning previously given to the officer, defence member or defence civilian under section 104.
 
-          (5A)  If a delegate of the Governor‑General or another relevant authority gives a notice to a defence member or a defence civilian under section 100, the same delegate must not:
+          (5A)  If a delegate of the Governor-General or another relevant authority gives a notice to a defence member or a defence civilian under section 100, the same delegate must not:
 
                      (a)  terminate the appointment of, or discharge, the defence member; or
 
@@ -4616,9 +4614,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                    Nothing in this Part precludes the taking, in relation to a defence member, of any administrative action that could, if this Part had not been enacted, be lawfully taken because he or she is a defence member.
 
-## Part VIIIB—Inspector‑General of the Australian Defence Force
+## Part VIIIB—Inspector-General of the Australian Defence Force
 
-### Division 1—Establishment and functions of the Inspector‑General of the Australian Defence Force
+### Division 1—Establishment and functions of the Inspector-General of the Australian Defence Force
 
 ##### <a id="110A"></a>110A  Object of Part
 
@@ -4628,17 +4626,17 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  an avenue by which failures and flaws in the military justice system can be exposed and examined so that the cause of any injustice (whether systemic or otherwise) may be remedied.
 
-##### <a id="110B"></a>110B  Inspector‑General of the Australian Defence Force
+##### <a id="110B"></a>110B  Inspector-General of the Australian Defence Force
 
-                   There is to be an Inspector‑General of the Australian Defence Force, to be known as the Inspector‑General ADF.
+                   There is to be an Inspector-General of the Australian Defence Force, to be known as the Inspector-General ADF.
 
-##### <a id="110C"></a>110C  Functions of the Inspector‑General ADF
+##### <a id="110C"></a>110C  Functions of the Inspector-General ADF
 
-             (1)  The Inspector‑General ADF has the following functions:
+             (1)  The Inspector-General ADF has the following functions:
 
                      (a)  to inquire into or investigate matters concerning the military justice system;
 
-                     (b)  to conduct performance reviews of the military justice system, including internal audits, at the times and in the manner the Inspector‑General ADF considers appropriate;
+                     (b)  to conduct performance reviews of the military justice system, including internal audits, at the times and in the manner the Inspector-General ADF considers appropriate;
 
                      (c)  to advise on matters concerning the military justice system, including making recommendations for improvements;
 
@@ -4646,77 +4644,77 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (e)  to do anything incidental or conducive to the performance of any of the preceding functions.
 
-             (2)  In addition to his or her functions under subsection (1), the Inspector‑General ADF also has:
+             (2)  In addition to his or her functions under subsection (1), the Inspector-General ADF also has:
 
-                     (a)  the functions conferred on the Inspector‑General ADF by or under this Act or any other law of the Commonwealth; and
+                     (a)  the functions conferred on the Inspector-General ADF by or under this Act or any other law of the Commonwealth; and
 
                      (b)  such other functions as are prescribed by the regulations.
 
              (3)  The function referred to in paragraph (1)(a) includes the following:
 
-                     (a)  carrying out preliminary assessments as to whether an inquiry or investigation should be conducted by the Inspector‑General ADF;
+                     (a)  carrying out preliminary assessments as to whether an inquiry or investigation should be conducted by the Inspector-General ADF;
 
                      (b)  referring matters to other appropriate authorities to be dealt with.
 
-Note:          The regulations may make provision in relation to the procedures and powers of the Inspector‑General ADF in respect of the performance of the Inspector‑General ADF’s functions (see paragraph 124(1)(h)).
+Note:          The regulations may make provision in relation to the procedures and powers of the Inspector-General ADF in respect of the performance of the Inspector-General ADF’s functions (see paragraph 124(1)(h)).
 
-##### <a id="110D"></a>110D  When the Inspector‑General ADF can conduct inquiries or investigations
+##### <a id="110D"></a>110D  When the Inspector-General ADF can conduct inquiries or investigations
 
-             (1)  The Inspector‑General ADF may conduct an inquiry or an investigation on his or her own initiative.
+             (1)  The Inspector-General ADF may conduct an inquiry or an investigation on his or her own initiative.
 
-             (2)  The Inspector‑General ADF may be directed to conduct an inquiry or an investigation by the Chief of the Defence Force.
+             (2)  The Inspector-General ADF may be directed to conduct an inquiry or an investigation by the Chief of the Defence Force.
 
-             (3)  The Inspector‑General ADF may be requested to conduct an inquiry or an investigation by a service chief, but is not required to comply with the request.
+             (3)  The Inspector-General ADF may be requested to conduct an inquiry or an investigation by a service chief, but is not required to comply with the request.
 
-             (4)  The Inspector‑General ADF may be requested to conduct an inquiry or an investigation by any other individual, but is not required to comply with the request.
+             (4)  The Inspector-General ADF may be requested to conduct an inquiry or an investigation by any other individual, but is not required to comply with the request.
 
-### Division 2—Administrative provisions about the Inspector‑General of the Australian Defence Force
+### Division 2—Administrative provisions about the Inspector-General of the Australian Defence Force
 
 ##### <a id="110E"></a>110E  Appointment
 
-             (1)  The Inspector‑General ADF is to be appointed by the Minister by written instrument.
+             (1)  The Inspector-General ADF is to be appointed by the Minister by written instrument.
 
              (2)  In making an appointment under subsection (1), the Minister must have regard to any recommendations made by the Chief of the Defence Force.
 
-             (3)  The Inspector‑General ADF holds office on a full‑time basis.
+             (3)  The Inspector-General ADF holds office on a full-time basis.
 
-             (4)  A person holding office as the Inspector‑General ADF holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Minister.
+             (4)  A person holding office as the Inspector-General ADF holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Minister.
 
 ##### <a id="110F"></a>110F  Qualifications for appointment
 
-                   A person must not be appointed as the Inspector‑General ADF unless the person has knowledge of and experience in relation to military justice issues and an understanding of their relevance to the role of the Defence Force.
+                   A person must not be appointed as the Inspector-General ADF unless the person has knowledge of and experience in relation to military justice issues and an understanding of their relevance to the role of the Defence Force.
 
 ##### <a id="110G"></a>110G  Tenure
 
-             (1)  The Inspector‑General ADF holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
+             (1)  The Inspector-General ADF holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
 
-             (2)  The Inspector‑General ADF is eligible for reappointment.
+             (2)  The Inspector-General ADF is eligible for reappointment.
 
 ##### <a id="110H"></a>110H  Resignation
 
-                   The Inspector‑General ADF may resign his or her appointment by giving the Minister a written resignation.
+                   The Inspector-General ADF may resign his or her appointment by giving the Minister a written resignation.
 
 ##### <a id="110I"></a>110I  Remuneration
 
-             (1)  The Inspector‑General ADF is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, he or she is to be paid the remuneration that is prescribed.
+             (1)  The Inspector-General ADF is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, he or she is to be paid the remuneration that is prescribed.
 
-             (2)  The Inspector‑General ADF is to be paid the allowances that are prescribed.
+             (2)  The Inspector-General ADF is to be paid the allowances that are prescribed.
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="110J"></a>110J  Leave of absence
 
-             (1)  The Inspector‑General ADF has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+             (1)  The Inspector-General ADF has the recreation leave entitlements that are determined by the Remuneration Tribunal.
 
-             (2)  The Chief of the Defence Force may grant the Inspector‑General ADF leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Chief of the Defence Force determines.
+             (2)  The Chief of the Defence Force may grant the Inspector-General ADF leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Chief of the Defence Force determines.
 
 ##### <a id="110K"></a>110K  Engaging in other paid work
 
-                   The Inspector‑General ADF must not engage in paid employment outside the duties of his or her office without the Minister’s consent.
+                   The Inspector-General ADF must not engage in paid employment outside the duties of his or her office without the Minister’s consent.
 
 ##### <a id="110L"></a>110L  Termination of appointment
 
-             (1)  The Minister must terminate the appointment of the Inspector‑General ADF if the Inspector‑General ADF:
+             (1)  The Minister must terminate the appointment of the Inspector-General ADF if the Inspector-General ADF:
 
                      (a)  becomes bankrupt; or
 
@@ -4730,25 +4728,25 @@ Note:          The regulations may make provision in relation 
 
                       (f)  fails, without reasonable excuse, to comply with section 110M.
 
-             (2)  The Minister may terminate the appointment of the Inspector‑General ADF on the ground of:
+             (2)  The Minister may terminate the appointment of the Inspector-General ADF on the ground of:
 
                      (a)  misbehaviour; or
 
                      (b)  physical or mental incapacity.
 
-             (3)  The Minister may terminate the appointment of the Inspector‑General ADF if the Inspector‑General ADF engages in paid employment outside the duties of his or her office other than with the Minister’s consent.
+             (3)  The Minister may terminate the appointment of the Inspector-General ADF if the Inspector-General ADF engages in paid employment outside the duties of his or her office other than with the Minister’s consent.
 
 ##### <a id="110M"></a>110M  Disclosure of interests
 
-                   The Inspector‑General ADF must give written notice to the Minister of all interests (financial or otherwise) that the Inspector‑General ADF has or acquires that could conflict with the proper performance of the functions of his or her office.
+                   The Inspector-General ADF must give written notice to the Minister of all interests (financial or otherwise) that the Inspector-General ADF has or acquires that could conflict with the proper performance of the functions of his or her office.
 
-##### <a id="110N"></a>110N  Acting appointments
+##### <a id="110N"></a>110N  Acting appointments
 
-             (1)  The Minister may appoint a person to act as the Inspector‑General ADF:
+             (1)  The Minister may appoint a person to act as the Inspector-General ADF:
 
-                     (a)  during a vacancy in the office of Inspector‑General ADF (whether or not an appointment has previously been made to that office); or
+                     (a)  during a vacancy in the office of Inspector-General ADF (whether or not an appointment has previously been made to that office); or
 
-                     (b)  during any period, or during all periods, when the Inspector‑General ADF is absent from duty or from Australia, or is, for any other reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Inspector-General ADF is absent from duty or from Australia, or is, for any other reason, unable to perform the duties of the office.
 
              (2)  Anything done by or in relation to a person purporting to act under an appointment under this section is not invalid merely because:
 
@@ -4760,19 +4758,19 @@ Note:          The regulations may make provision in relation 
 
                      (d)  the occasion to act had not arisen or had ceased.
 
-             (3)  The Minister must not appoint a person to act as the Inspector‑General ADF unless the person has knowledge of and experience in relation to military justice issues and an understanding of their relevance to the role of the Defence Force.
+             (3)  The Minister must not appoint a person to act as the Inspector-General ADF unless the person has knowledge of and experience in relation to military justice issues and an understanding of their relevance to the role of the Defence Force.
 
              (4)  In making an appointment under subsection (1), the Minister must have regard to any recommendations made by the Chief of the Defence Force.
 
 ##### <a id="110O"></a>110O  Staff
 
-             (1)  The staff necessary to assist the Inspector‑General ADF are to be the following:
+             (1)  The staff necessary to assist the Inspector-General ADF are to be the following:
 
                      (a)  members of the Defence Force made available for the purpose by the appropriate service chief;
 
                      (b)  persons engaged under the _Public Service Act 1999_ and made available for the purpose by the Secretary of the Department.
 
-             (2)  The Inspector‑General ADF may engage persons having suitable qualifications and experience as consultants to, or to perform services for, the Inspector‑General ADF.
+             (2)  The Inspector-General ADF may engage persons having suitable qualifications and experience as consultants to, or to perform services for, the Inspector-General ADF.
 
              (3)  An engagement under subsection (2) is to be made:
 
@@ -4782,7 +4780,7 @@ Note:          The regulations may make provision in relation 
 
 ##### <a id="110P"></a>110P  Inquiry officers, inquiry assistants and Assistants IGADF
 
-             (1)  The Inspector‑General ADF may appoint a person as:
+             (1)  The Inspector-General ADF may appoint a person as:
 
                      (a)  an inquiry officer; or
 
@@ -4790,7 +4788,7 @@ Note:          The regulations may make provision in relation 
 
                      (c)  an Assistant IGADF.
 
-             (2)  The Inspector‑General ADF must not appoint a person under subsection (1) unless the person is eligible to be so appointed under the regulations.
+             (2)  The Inspector-General ADF must not appoint a person under subsection (1) unless the person is eligible to be so appointed under the regulations.
 
              (3)  The regulations may prescribe matters relating to the roles, functions and powers of a person appointed under subsection (1).
 
@@ -4800,19 +4798,19 @@ Note:          The regulations may make provision in relation 
 
              (1)  This section applies to the following persons (**_protected persons_**):
 
-                     (a)  the Inspector‑General ADF;
+                     (a)  the Inspector-General ADF;
 
-                     (b)  a person acting under the authority of the Inspector‑General ADF.
+                     (b)  a person acting under the authority of the Inspector-General ADF.
 
              (2)  A protected person is not liable to civil proceedings for loss, damage or injury of any kind suffered by another person as a result of the performance or exercise, in good faith, of the protected person’s functions, powers or duties under or in relation to this Act.
 
 ##### <a id="110R"></a>110R  Reports
 
-                   The Inspector‑General ADF must prepare and give to the Chief of the Defence Force such reports on the operations of the Inspector‑General ADF as the Chief of the Defence Force directs.
+                   The Inspector-General ADF must prepare and give to the Chief of the Defence Force such reports on the operations of the Inspector-General ADF as the Chief of the Defence Force directs.
 
 ##### <a id="110S"></a>110S  Delegation
 
-                   The Inspector‑General ADF may, by instrument in writing, delegate his or her power under section 110P to an officer holding a rank not lower than the naval rank of captain or the rank of colonel or group captain.
+                   The Inspector-General ADF may, by instrument in writing, delegate his or her power under section 110P to an officer holding a rank not lower than the naval rank of captain or the rank of colonel or group captain.
 
 ## Part VIIIC—Defence Honours and Awards Appeals Tribunal
 
@@ -5230,7 +5228,7 @@ Consent is not a legislative instrument
 
 ##### <a id="110YA"></a>110YA  Appointment of Tribunal members
 
-             (1)  The Tribunal members are to be appointed by the Minister, in writing, on a part‑time basis.
+             (1)  The Tribunal members are to be appointed by the Minister, in writing, on a part-time basis.
 
              (2)  The instrument of appointment of a Tribunal member must specify whether the member is appointed as the Chair of the Tribunal, or as one of the other Tribunal members.
 
@@ -5242,13 +5240,13 @@ Consent is not a legislative instrument
 
              (4)  A person is not eligible to be appointed as the Chair if:
 
-                     (a)  the person is, or has at any time been, a member of the Defence Force rendering continuous full‑time service; or
+                     (a)  the person is, or has at any time been, a member of the Defence Force rendering continuous full-time service; or
 
                      (b)  in the Minister’s opinion, the person does not have an appropriate level of security clearance.
 
              (5)  A person is not eligible to be appointed as one of the other Tribunal members if:
 
-                     (a)  the person is, or has at any time within the previous 12 months been, a member of the Defence Force rendering continuous full‑time service; or
+                     (a)  the person is, or has at any time within the previous 12 months been, a member of the Defence Force rendering continuous full-time service; or
 
                      (b)  in the Minister’s opinion, the person does not have an appropriate level of security clearance.
 
@@ -5390,7 +5388,7 @@ there are taken to be 10 offices of Tribunal members in addition to the Chair.
 
 ##### <a id="111"></a>111  Subscription, arms etc. vested in commanding officer
 
-             (1)  For the purposes of legal proceedings, all moneys subscribed by or for or otherwise appropriated to the use of any corps or part thereof, or ship’s company or part thereof, or air‑force unit or station or part thereof, and all arms, ammunition, accoutrements, clothing, musical instruments, or other things, belonging to or used by any corps or part thereof, or ship’s company or part thereof, or air‑force unit or station or part thereof, and not being the private property of a member of the corps or ship’s company or air‑force unit or station, as the case may be, shall be deemed to be the property of the commanding officer of the corps or ship’s company or air‑force unit or station, as the case may be.
+             (1)  For the purposes of legal proceedings, all moneys subscribed by or for or otherwise appropriated to the use of any corps or part thereof, or ship’s company or part thereof, or air-force unit or station or part thereof, and all arms, ammunition, accoutrements, clothing, musical instruments, or other things, belonging to or used by any corps or part thereof, or ship’s company or part thereof, or air-force unit or station or part thereof, and not being the private property of a member of the corps or ship’s company or air-force unit or station, as the case may be, shall be deemed to be the property of the commanding officer of the corps or ship’s company or air-force unit or station, as the case may be.
 
              (2)  For the purposes of this section, **_corps_** includes unit.
 
@@ -5440,11 +5438,11 @@ there are taken to be 10 offices of Tribunal members in addition to the Chair.
 
              (1)  Whenever a part of the Defence Force and a part of the forces of a country in relation to which this subsection applies are serving together, either within or beyond the territorial limits of Australia, and either alone or together with any other force, a member of the force of that country has the same powers of command over members of that part of the Defence Force as a member of the Defence Force holding the rank in that Force that corresponds with the rank that he holds in the force of the country to which he belongs.
 
-             (2)  Whenever a part of the Defence Force and a part of the forces of another country to which this subsection applies are acting in combination, either within or beyond the territorial limits of Australia, an officer of the forces of that other country may be appointed by the Governor‑General, by order in writing, to command the combined force, or any part of the combined force, and an officer so appointed:
+             (2)  Whenever a part of the Defence Force and a part of the forces of another country to which this subsection applies are acting in combination, either within or beyond the territorial limits of Australia, an officer of the forces of that other country may be appointed by the Governor-General, by order in writing, to command the combined force, or any part of the combined force, and an officer so appointed:
 
                      (a)  has, subject to such restrictions and limitations as are specified by the Chief of the Defence Force by order in writing, over members of the Defence Force serving in that combined force or part of that force, the same powers of command and discipline, including the power to impose punishments; and
 
-                     (b)  may be invested by the Governor‑General, by order in writing, with the same power to convene, and confirm the findings and sentences of, courts‑martial;
+                     (b)  may be invested by the Governor-General, by order in writing, with the same power to convene, and confirm the findings and sentences of, courts-martial;
 
 as if he or she were an officer of the Defence Force holding that appointment and the rank in that Force corresponding with the rank that he or she holds in the force to which he or she belongs.
 
@@ -5452,9 +5450,9 @@ as if he or she were an officer of the Defence Force holding that appointment an
 
              (4)  A member of the Defence Force arrested and held in custody in pursuance of subsection (3) shall be deemed to have been arrested and held in custody in accordance with Australian service law.
 
-             (5)  The Governor‑General may declare that specified parts of the Defence Force and specified parts of the forces of specified countries are to be taken for the purposes of this section to be serving together or acting in combination.
+             (5)  The Governor-General may declare that specified parts of the Defence Force and specified parts of the forces of specified countries are to be taken for the purposes of this section to be serving together or acting in combination.
 
-          (5A)  The Governor‑General may declare that, whenever specified parts of the Defence Force and specified parts of the forces of specified countries are in fact serving together or acting in combination, the forces are to be taken for the purposes of this section to be serving together or acting in combination.
+          (5A)  The Governor-General may declare that, whenever specified parts of the Defence Force and specified parts of the forces of specified countries are in fact serving together or acting in combination, the forces are to be taken for the purposes of this section to be serving together or acting in combination.
 
           (5B)  A declaration under subsection (5) or (5A) has effect accordingly. Except as provided in such a declaration, forces are not taken for the purposes of this section to be serving together or acting in combination.
 
@@ -5558,7 +5556,7 @@ for such time as is reasonably necessary to enable the person to be dealt with i
 
                      (b)  his power to authorize an officer for the purposes of Division 3;
 
-except to an officer who holds a rank not below the rank of Rear‑Admiral in the Australian Navy, Major‑General in the Australian Army or Air Vice‑Marshal in the Australian Air Force.
+except to an officer who holds a rank not below the rank of Rear-Admiral in the Australian Navy, Major-General in the Australian Army or Air Vice-Marshal in the Australian Air Force.
 
              (3)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Chief of the Defence Force or a service chief.
 
@@ -5574,7 +5572,7 @@ except to an officer who holds a rank not below the rank of Rear‑Admiral in th
 
              (1)  In this Part, unless the contrary intention appears:
 
-                    <a name="law"></a>**_by‑laws_** means by‑laws under this Part.
+                    <a name="law"></a>**_by-laws_** means by-laws under this Part.
 
                     <a name="public-area"></a>**_public area_** means a public area declared under section 116Q.
 
@@ -5594,9 +5592,9 @@ except to an officer who holds a rank not below the rank of Rear‑Admiral in th
 
 ##### <a id="116R"></a>116R  Delegation
 
-             (1)  The Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him, delegate to an officer of the Defence Force or an officer of the Department administered by the Minister all or any of his powers under this Part or the by‑laws, other than this power of delegation or his powers under section 116ZD to make by‑laws.
+             (1)  The Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him, delegate to an officer of the Defence Force or an officer of the Department of Defence all or any of his powers under this Part or the by-laws, other than this power of delegation or his powers under section 116ZD to make by-laws.
 
-             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act or the by‑laws, be deemed to have been exercised by the Minister.
+             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act or the by-laws, be deemed to have been exercised by the Minister.
 
              (3)  A delegation under this section does not prevent the exercise of a power by the Minister.
 
@@ -5622,7 +5620,7 @@ except to an officer who holds a rank not below the rank of Rear‑Admiral in th
 
              (1)  A ranger may, without warrant, arrest any person, if the ranger believes on reasonable grounds:
 
-                     (a)  that the person is committing or has committed an offence against this Part or the by‑laws; and
+                     (a)  that the person is committing or has committed an offence against this Part or the by-laws; and
 
                      (b)  that proceedings against the person by summons would not be effective.
 
@@ -5638,13 +5636,13 @@ except to an officer who holds a rank not below the rank of Rear‑Admiral in th
 
 ##### <a id="116W"></a>116W  General powers of rangers
 
-             (1)  A ranger may search any vehicle, aircraft or vessel if he believes on reasonable grounds that there is in or on that vehicle, aircraft or vessel anything that will afford evidence as to the commission of an offence against this Part or the by‑laws, and for that purpose stop or detain that vehicle, aircraft or vessel.
+             (1)  A ranger may search any vehicle, aircraft or vessel if he believes on reasonable grounds that there is in or on that vehicle, aircraft or vessel anything that will afford evidence as to the commission of an offence against this Part or the by-laws, and for that purpose stop or detain that vehicle, aircraft or vessel.
 
              (2)  A ranger may:
 
-                     (a)  require any person whom he finds committing or whom he suspects on reasonable grounds of having committed an offence against this Part or the by‑laws to state his full name and usual place of residence; and
+                     (a)  require any person whom he finds committing or whom he suspects on reasonable grounds of having committed an offence against this Part or the by-laws to state his full name and usual place of residence; and
 
-                     (b)  require any person in a public area whom he finds committing, or whom he suspects on reasonable grounds of having committed, an offence against this Part or the by‑laws to leave the public area.
+                     (b)  require any person in a public area whom he finds committing, or whom he suspects on reasonable grounds of having committed, an offence against this Part or the by-laws to leave the public area.
 
              (3)  Where a ranger (other than a member of a police force who is in uniform) stops, or proposes to search or detain, a vehicle, aircraft or vessel, he shall:
 
@@ -5680,9 +5678,9 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="116X"></a>116X  Seizure and forfeiture
 
-             (1)  Where a court convicts a person of an offence against this Part or the by‑laws, the court may order the forfeiture to the Commonwealth of any vehicle, aircraft, vessel or article used or otherwise involved in the commission of the offence.
+             (1)  Where a court convicts a person of an offence against this Part or the by-laws, the court may order the forfeiture to the Commonwealth of any vehicle, aircraft, vessel or article used or otherwise involved in the commission of the offence.
 
-             (2)  A ranger may seize any vehicle, aircraft, vessel or article that he believes on reasonable grounds to have been used or otherwise involved in the commission of an offence against this Part or the by‑laws and may retain it until the expiration of a period of 60 days after the seizure, or, if proceedings for an offence against this Part or the by‑laws in the commission of which it may have been used or otherwise involved are instituted within that period, until the proceedings are terminated.
+             (2)  A ranger may seize any vehicle, aircraft, vessel or article that he believes on reasonable grounds to have been used or otherwise involved in the commission of an offence against this Part or the by-laws and may retain it until the expiration of a period of 60 days after the seizure, or, if proceedings for an offence against this Part or the by-laws in the commission of which it may have been used or otherwise involved are instituted within that period, until the proceedings are terminated.
 
              (3)  The Minister may authorize a vehicle, aircraft, vessel or article seized under subsection (2) or anything on, in or attached to such a vehicle, aircraft or vessel to be released to its owner, or to the person from whose possession it was seized, either unconditionally or on such conditions as he thinks fit, including conditions as to the giving of security for payment of its value if it is forfeited.
 
@@ -5694,17 +5692,17 @@ Note:          The defendant bears an evidential burden in rel
 
                      (a)  the person assaults or threatens another person; and
 
-                     (b)  that other person is a ranger performing his or her duties under this Part or the by‑laws.
+                     (b)  that other person is a ranger performing his or her duties under this Part or the by-laws.
 
                     Penalty:  $5,000 or imprisonment for 2 years, or both.
 
-             (2)  In paragraph (1)(b), strict liability applies to the physical element of circumstance, that the performance of the duties is under this Part or the by‑laws.
+             (2)  In paragraph (1)(b), strict liability applies to the physical element of circumstance, that the performance of the duties is under this Part or the by-laws.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
 ##### <a id="116ZA"></a>116ZA  Officers and employees of governments and authorities
 
-                   The Minister may make arrangements with a Minister of a State or Territory for the performance of functions and the exercise of powers under this Part or the by‑laws by officers or employees of that State or Territory or of an authority of that State or Territory, as the case may be.
+                   The Minister may make arrangements with a Minister of a State or Territory for the performance of functions and the exercise of powers under this Part or the by-laws by officers or employees of that State or Territory or of an authority of that State or Territory, as the case may be.
 
 ##### <a id="116ZB"></a>116ZB  Prosecution of offences
 
@@ -5714,15 +5712,15 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="116ZC"></a>116ZC  Concurrent operation of State and Territory laws
 
-             (1)  This Part and the by‑laws, in so far as they apply in relation to public areas, are not intended to exclude or limit the concurrent operation of a law of a State or Territory.
+             (1)  This Part and the by-laws, in so far as they apply in relation to public areas, are not intended to exclude or limit the concurrent operation of a law of a State or Territory.
 
              (2)  In interpreting whether, in relation to land owned or held under lease by the Commonwealth, any provision of this Act (other than this Part) is intended to exclude or limit the concurrent operation of a law of a State or Territory, subsection (1) shall be disregarded.
 
-##### <a id="116ZD"></a>116ZD  By‑laws
+##### <a id="116ZD"></a>116ZD  By-laws
 
-             (1)  The Minister may, by legislative instrument, make by‑laws, not inconsistent with this Act, for and in relation to the control and management of public areas.
+             (1)  The Minister may, by legislative instrument, make by-laws, not inconsistent with this Act, for and in relation to the control and management of public areas.
 
-             (2)  Without limiting the generality of subsection (1), by‑laws may be made:
+             (2)  Without limiting the generality of subsection (1), by-laws may be made:
 
                      (a)  providing for functions and powers to be conferred, and duties to be imposed, upon rangers;
 
@@ -5748,11 +5746,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (n)  regulating or prohibiting the use of vehicles in public areas and providing for signs and road markings for those purposes;
 
-                     (p)  providing for the removal of vehicles, aircraft or vessels from places in public areas where they have been left in contravention of the by‑laws or have been abandoned and for the impounding of such vehicles, aircraft or vessels;
+                     (p)  providing for the removal of vehicles, aircraft or vessels from places in public areas where they have been left in contravention of the by-laws or have been abandoned and for the impounding of such vehicles, aircraft or vessels;
 
-                     (q)  making provision to the effect that, where a contravention of a provision of the by‑laws relating to the parking or stopping of vehicles in a public area occurs in respect of a motor vehicle, the person who is to be regarded as the owner of the motor vehicle for the purposes of the by‑laws (who may, in accordance with the by‑laws, be or include a person in whose name the motor vehicle is registered under the law of a State or Territory) is to be, except as provided otherwise, deemed to have committed an offence against the provision so contravened, whether or not he in fact contravened that provision;
+                     (q)  making provision to the effect that, where a contravention of a provision of the by-laws relating to the parking or stopping of vehicles in a public area occurs in respect of a motor vehicle, the person who is to be regarded as the owner of the motor vehicle for the purposes of the by-laws (who may, in accordance with the by-laws, be or include a person in whose name the motor vehicle is registered under the law of a State or Territory) is to be, except as provided otherwise, deemed to have committed an offence against the provision so contravened, whether or not he in fact contravened that provision;
 
-                      (r)  enabling a person who is alleged to have contravened a provision of the by‑laws relating to:
+                      (r)  enabling a person who is alleged to have contravened a provision of the by-laws relating to:
 
                               (i)  littering;
 
@@ -5790,7 +5788,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                             in public areas;
 
-                    (za)  providing for penalties, not exceeding a fine of $500, for offences against the by‑laws; and
+                    (za)  providing for penalties, not exceeding a fine of $500, for offences against the by-laws; and
 
                    (zb)  providing for any matter incidental to or connected with any of the foregoing.
 
@@ -5916,29 +5914,29 @@ that person shall, for the purposes of this Part, be taken to be the commanding 
 
 ##### <a id="120A"></a>120A  Delegation
 
-             (2)  The Governor‑General may, by instrument in writing, delegate all or any of his or her powers under subsections 116C(5) and 116C(5A) to:
+             (2)  The Governor-General may, by instrument in writing, delegate all or any of his or her powers under subsections 116C(5) and 116C(5A) to:
 
-                     (a)  an officer of the Army who holds the rank of Major‑General or a higher rank; or
+                     (a)  an officer of the Army who holds the rank of Major-General or a higher rank; or
 
-                     (b)  an officer of the Navy who holds the rank of Rear‑Admiral or a higher rank; or
+                     (b)  an officer of the Navy who holds the rank of Rear-Admiral or a higher rank; or
 
-                     (c)  an officer of the Air Force who holds the rank of Air Vice‑Marshal or a higher rank.
+                     (c)  an officer of the Air Force who holds the rank of Air Vice-Marshal or a higher rank.
 
-             (3)  The Governor‑General may, by instrument in writing, delegate all or any of his or her powers under sections 100, 101 and 104 to:
+             (3)  The Governor-General may, by instrument in writing, delegate all or any of his or her powers under sections 100, 101 and 104 to:
 
-                     (a)  an officer of the Army who holds the rank of Lieutenant‑General or a higher rank; or
+                     (a)  an officer of the Army who holds the rank of Lieutenant-General or a higher rank; or
 
-                     (b)  an officer of the Navy who holds the rank of Vice‑Admiral or a higher rank; or
+                     (b)  an officer of the Navy who holds the rank of Vice-Admiral or a higher rank; or
 
                      (c)  an officer of the Air Force who holds the rank of Air Marshal or a higher rank.
 
           (3A)  The Secretary and the Chief of the Defence Force may, by instrument in writing signed by each of them, delegate all or any of the powers that they hold jointly under subsections 9A(1) and (2) to issue the instructions known as Defence Instructions (General) to:
 
-                     (a)  an officer of the Army who holds the rank of Major‑General or a higher rank; or
+                     (a)  an officer of the Army who holds the rank of Major-General or a higher rank; or
 
-                     (b)  an officer of the Navy who holds the rank of Rear‑Admiral or a higher rank; or
+                     (b)  an officer of the Navy who holds the rank of Rear-Admiral or a higher rank; or
 
-                     (c)  an officer of the Air Force who holds the rank of Air Vice‑Marshal or a higher rank; or
+                     (c)  an officer of the Air Force who holds the rank of Air Vice-Marshal or a higher rank; or
 
                      (d)  an SES employee who holds an SES Band 2 position, or an equivalent or higher position, in the Department.
 
@@ -5962,7 +5960,7 @@ that person shall, for the purposes of this Part, be taken to be the commanding 
 
     (4AAA)  The Chief of the Army may, in writing, delegate all or any of his or her powers under sections 100, 101, 103 and 104 to:
 
-                     (a)  an officer of the Army who holds the rank of Lieutenant‑ Colonel or a higher rank; or
+                     (a)  an officer of the Army who holds the rank of Lieutenant- Colonel or a higher rank; or
 
                      (b)  an APS employee who holds, or performs the duties of, an Executive Level 1 position, or an equivalent or higher position, in the Department.
 
@@ -6030,7 +6028,7 @@ that person shall, for the purposes of this Part, be taken to be the commanding 
 
                      (b)  admits that the judgment has not been satisfied;
 
-the paying officer shall, subject to subsection (13), in relation to each pay‑day of the member, cause to be deducted from the salary payable to the member on the pay‑day an amount equal to the normal deduction in relation to the member in relation to the pay‑day or such lesser amount as is, in the opinion of the paying officer, sufficient to satisfy the amount then due under the judgment.
+the paying officer shall, subject to subsection (13), in relation to each pay-day of the member, cause to be deducted from the salary payable to the member on the pay-day an amount equal to the normal deduction in relation to the member in relation to the pay-day or such lesser amount as is, in the opinion of the paying officer, sufficient to satisfy the amount then due under the judgment.
 
              (4)  There is payable to the Commonwealth, by the judgment creditor, an administration fee, at the prescribed rate, in respect of each amount deducted pursuant to subsection (3).
 
@@ -6042,18 +6040,18 @@ the paying officer shall, subject to subsection (13), in relation to each pay�
 
                      (b)  if the whole of the amount of the deduction is not applied in accordance with paragraph (a), pay an amount equal to the balance to the judgment creditor.
 
-             (7)  Upon the application under subsection (6) of an amount (in this subsection referred to as the **_relevant amount_**) in or towards payment of the administration fee payable in respect of an amount deducted pursuant to subsection (3) from the salary payable to the member on a pay‑day:
+             (7)  Upon the application under subsection (6) of an amount (in this subsection referred to as the **_relevant amount_**) in or towards payment of the administration fee payable in respect of an amount deducted pursuant to subsection (3) from the salary payable to the member on a pay-day:
 
                      (a)  the judgment creditor shall be deemed to have paid the relevant amount to the Commonwealth in satisfaction or partial satisfaction, as the case requires, of the administration fee;
 
-                     (b)  an amount equal to the relevant amount shall be deemed to have been paid by the Commonwealth to the member on account of the salary payable to the member on the pay‑day; and
+                     (b)  an amount equal to the relevant amount shall be deemed to have been paid by the Commonwealth to the member on account of the salary payable to the member on the pay-day; and
 
                      (c)  an amount equal to the relevant amount shall also be deemed to have been paid by the member to the judgment creditor in relation to the judgment.
 
              (8)  Upon payment being made to the judgment creditor pursuant to subsection (5) or (6) of an amount (in this subsection referred to as the **_relevant amount_**) in relation to an amount deducted pursuant to subsection (3) from the salary payable to the member on a 
- pay‑day:
+ pay-day:
 
-                     (a)  an amount equal to the relevant amount shall be deemed to have been paid by the Commonwealth to the member on account of the salary payable to the member on the pay‑day; and
+                     (a)  an amount equal to the relevant amount shall be deemed to have been paid by the Commonwealth to the member on account of the salary payable to the member on the pay-day; and
 
                      (b)  an amount equal to the relevant amount shall also be deemed to have been paid by the member to the judgment creditor in relation to the judgment.
 
@@ -6063,11 +6061,11 @@ the paying officer shall, subject to subsection (13), in relation to each pay�
 
            (10)  If the amounts deemed, by virtue of paragraphs (7)(c) and (8)(b), to have been paid by the member to the judgment creditor exceed, in the aggregate, the amount due under the judgment, the excess is repayable by the judgment creditor to the member, and, in default of repayment, may be recovered, by action in a court of competent jurisdiction, as a debt due by the judgment creditor to the member.
 
-           (11)  Where, in relation to an amount deducted pursuant to subsection (3) from the salary payable to the member on a pay‑day, an amount is, by virtue of paragraph (7)(c), deemed to have been paid by the member to the judgment creditor and an amount is, by virtue of paragraph (8)(b), deemed to have been paid by the member to the judgment creditor, then, for the purposes of subsection (10), the last‑mentioned amount shall be deemed to have been paid after the second‑mentioned amount.
+           (11)  Where, in relation to an amount deducted pursuant to subsection (3) from the salary payable to the member on a pay-day, an amount is, by virtue of paragraph (7)(c), deemed to have been paid by the member to the judgment creditor and an amount is, by virtue of paragraph (8)(b), deemed to have been paid by the member to the judgment creditor, then, for the purposes of subsection (10), the last-mentioned amount shall be deemed to have been paid after the second-mentioned amount.
 
            (12)  If the member ceases to be a member before the paying officer is notified that the judgment has been satisfied, the paying officer shall forthwith inform the judgment creditor, in writing, of the fact that the member has ceased to be a member and the date on which the member ceased to be a member.
 
-           (13)  If the paying officer is satisfied that the deduction of the amount that the paying officer would, but for this subsection, be required to deduct from the salary payable to the member on a pay‑day would cause severe hardship to the member, the paying officer may deduct a lesser amount in relation to the pay‑day.
+           (13)  If the paying officer is satisfied that the deduction of the amount that the paying officer would, but for this subsection, be required to deduct from the salary payable to the member on a pay-day would cause severe hardship to the member, the paying officer may deduct a lesser amount in relation to the pay-day.
 
            (14)  Where copies of more than one judgment, and statutory declarations in relation to those judgments, are served under subsection (1) in relation to a member, the judgments shall be dealt with under this section in the order in which copies of the judgments are served under that subsection.
 
@@ -6079,19 +6077,19 @@ the paying officer shall, subject to subsection (13), in relation to each pay�
 
            (16)  In this section:
 
-                    <a name="net-salari"></a>**_net salary_**, in relation to a member in relation to a pay‑day, means the amount of salary payable by the Commonwealth to the member on the pay‑day after deductions have been made:
+                    <a name="net-salari"></a>**_net salary_**, in relation to a member in relation to a pay-day, means the amount of salary payable by the Commonwealth to the member on the pay-day after deductions have been made:
 
-                     (a)  pursuant to Part 2‑5 in Schedule 1 to the _Taxation Administration Act 1953_; and
+                     (a)  pursuant to Part 2-5 in Schedule 1 to the _Taxation Administration Act 1953_; and
 
                      (b)  pursuant to Part III of the _Defence Force Retirement and Death Benefits Act 1973_; and
 
                      (c)  for purposes prescribed for the purpose of this paragraph.
 
-                    <a name="member"></a>**_member_** means a member of the Defence Force rendering continuous full‑time service.
+                    <a name="member"></a>**_member_** means a member of the Defence Force rendering continuous full-time service.
 
-                    <a name="normal-duction"></a>**_normal deduction_**, in relation to a member in relation to a pay‑day, means an amount equal to 20% of the net salary of the member in relation to the pay‑day or such greater amount as the member notifies a paying officer, in writing, should be the normal deduction for the purposes of this section in relation to the pay‑day.
+                    <a name="normal-duction"></a>**_normal deduction_**, in relation to a member in relation to a pay-day, means an amount equal to 20% of the net salary of the member in relation to the pay-day or such greater amount as the member notifies a paying officer, in writing, should be the normal deduction for the purposes of this section in relation to the pay-day.
 
-                    <a name="pai-dai"></a>**_pay‑day_**, in relation to a member, means a day on which salary is payable to the member.
+                    <a name="pai-dai"></a>**_pay-day_**, in relation to a member, means a day on which salary is payable to the member.
 
                     <a name="pai-offic"></a>**_paying officer_** means a person engaged under the _Public Service Act 1999_ performing duties in the Department who is appointed by the Secretary, in writing, to be a paying officer for the purposes of this section.
 
@@ -6119,17 +6117,17 @@ the paying officer shall, subject to subsection (13), in relation to each pay�
 
                      (b)  the event happens under a scheme:
 
-                              (i)  for the reorganisation of defence‑related activities; and
+                              (i)  for the reorganisation of defence-related activities; and
 
                              (ii)  associated with the establishment of the company;
 
                      (c)  for the purposes of the _Income Tax Assessment Act 1997_, the asset was acquired by the Commonwealth before 20 September 1985;
 
-                     (d)  before 20 September 1985, the asset was used, or intended for use, for defence‑related purposes;
+                     (d)  before 20 September 1985, the asset was used, or intended for use, for defence-related purposes;
 
-             (2)  For the purposes of Parts 3‑1 and 3‑3 of the _Income Tax Assessment Act 1997_, the company is taken to have acquired the asset before 20 September 1985.
+             (2)  For the purposes of Parts 3-1 and 3-3 of the _Income Tax Assessment Act 1997_, the company is taken to have acquired the asset before 20 September 1985.
 
-             (4)  In calculating the deductions (if any) allowable to the company under Subdivision 40‑B of the _Income Tax Assessment Act 1997_ in respect of the asset, the adjustable value of the asset to the company at the time of the acquisition of the asset is the amount that would have been its adjustable value to the Commonwealth just before that time if:
+             (4)  In calculating the deductions (if any) allowable to the company under Subdivision 40-B of the _Income Tax Assessment Act 1997_ in respect of the asset, the adjustable value of the asset to the company at the time of the acquisition of the asset is the amount that would have been its adjustable value to the Commonwealth just before that time if:
 
                      (a)  the Commonwealth had been a taxpayer; and
 
@@ -6313,7 +6311,7 @@ Note:          Payments under this section must be made from m
 
 ##### <a id="124"></a>124  Regulations [_see_ Note 3]
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for securing the good government of the Defence Force, or for carrying out or giving effect to this Act, and in particular prescribing matters providing for and in relation to:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for securing the good government of the Defence Force, or for carrying out or giving effect to this Act, and in particular prescribing matters providing for and in relation to:
 
                      (a)  The enlistment, appointment, promotion, reduction in rank, retirement and discharge of members of the Defence Force; and
 
@@ -6331,19 +6329,19 @@ Note:          Payments under this section must be made from m
 
                     (gc)  The appointment, procedures and powers of courts of inquiry, boards of inquiry, Chief of the Defence Force commissions of inquiry, inquiry officers and inquiry assistants; and
 
-                     (h)  the procedures, powers and reporting obligations of the Inspector‑General ADF in respect of the performance of the Inspector‑General ADF’s functions, including in relation to any matter connected with inquiries, investigations and performance reviews; and
+                     (h)  the procedures, powers and reporting obligations of the Inspector-General ADF in respect of the performance of the Inspector-General ADF’s functions, including in relation to any matter connected with inquiries, investigations and performance reviews; and
 
                       (i)  medical or dental treatment of a member or cadet, or a member of the family of a member; and
 
                       (j)  The formation, incorporation and management of:
 
-                              (i)  full‑bore or small‑bore rifle clubs;
+                              (i)  full-bore or small-bore rifle clubs;
 
-                             (ii)  full‑bore or small‑bore rifle associations;
+                             (ii)  full-bore or small-bore rifle associations;
 
-                            (iii)  a national body for the control and administration of full‑bore rifle shooting; and
+                            (iii)  a national body for the control and administration of full-bore rifle shooting; and
 
-                            (iv)  a national body for the control and administration of small‑bore rifle shooting; and
+                            (iv)  a national body for the control and administration of small-bore rifle shooting; and
 
                      (k)  The empowering of clubs, associations or national bodies referred to in paragraph (j) to make, alter and repeal rules, not inconsistent with this Act, for the conduct of their affairs and for the conduct of any rifle competitions promoted by them; and
 
@@ -6375,11 +6373,11 @@ Note:          Payments under this section must be made from m
 
                    (oa)  The management and disposal of the funds and property of units of the Defence Force; and
 
-                     (p)  The regulation of any naval, military or air‑force operation or practice, including any naval, military or air‑force operation or practice in or adjacent to Australia of a country other than Australia; and
+                     (p)  The regulation of any naval, military or air-force operation or practice, including any naval, military or air-force operation or practice in or adjacent to Australia of a country other than Australia; and
 
                    (pa)  The regulation or prohibition of the emission of smoke from factories or other buildings within the prescribed distance from any gun, fort, searchlight, signal station, observation post, or other work of defence during, or immediately before any naval, military or air force practice; and
 
-                     (q)  The preservation of the public safety in or at any naval, military or air‑force operation or practice; and
+                     (q)  The preservation of the public safety in or at any naval, military or air-force operation or practice; and
 
                    (qa)  The entry upon and survey of lands for defence purposes; and
 
@@ -6415,7 +6413,7 @@ Note:          Payments under this section must be made from m
 
                      (a)  the appointment or reappointment of a member; or
 
-                     (b)  the enlistment or re‑enlistment of a member; or
+                     (b)  the enlistment or re-enlistment of a member; or
 
                      (c)  the service of a member;
 
@@ -6437,9 +6435,9 @@ Example:    The regulations might allow for a soldier to enlist for a tota
 
                               (i)  a war in which Australia has been or is engaged;
 
-                             (ii)  the war‑like operations in Korea after 26 June 1950, or in Malaya after 28 June 1950; or
+                             (ii)  the war-like operations in Korea after 26 June 1950, or in Malaya after 28 June 1950; or
 
-                            (iii)  such other war or war‑like operations as are prescribed.
+                            (iii)  such other war or war-like operations as are prescribed.
 
           (2A)  Subject to subsection (2B), the power to make regulations by virtue of paragraph (1)(gc) includes the power to make regulations requiring a person appearing as a witness before a court of inquiry, a board of inquiry, a Chief of the Defence Force commission of inquiry, an inquiry officer or an inquiry assistant to answer a question notwithstanding that the answer to the question may tend to incriminate the person.
 
@@ -6857,7 +6855,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Re‑establishment and Employment Act 1945</div>
+    <div>Re-establishment and Employment Act 1945</div>
   </td>
   <td>
     <div>11, 1945</div>
@@ -7117,7 +7115,7 @@ Remainder: 1 Oct 1970 ( <i>see Gazette</i>1970, p. 6551)</div>
 </tr>
 <tr>
   <td>
-    <div>Defence Force Re‑organization Act 1975</div>
+    <div>Defence Force Re-organization Act 1975</div>
   </td>
   <td>
     <div>96, 1975</div>
@@ -8735,51 +8733,17 @@ Schedule 3: 2 Aug 2010</div>
   <td>
     <div>Sch. 1 (items 2–5), Sch. 2 (item 9) and Sch. 3 (item 5) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 90, 91), Schedule 6 (item 33) and Schedule 7 (item 47): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Security of Defence Premises) Act 2011</div>
-  </td>
-  <td>
-    <div>19, 2011</div>
-  </td>
-  <td>
-    <div>12 Apr 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–3, 5): \[ <i>see</i>Note 4]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     By section 2 of the _Defence Act 1915_(No. 3, 1915), section 7 of the _Defence Act 1914_(No. 36, 1914) is deemed to have commenced on 1 August 1914.
 
-_(b)_     The _Defence Act 1903_ was amended by sections 3–61 only of the _Defence Force Re‑organization Act 1975_, section 2 of which provides as follows:
+_(b)_     The _Defence Act 1903_ was amended by sections 3–61 only of the _Defence Force Re-organization Act 1975_, section 2 of which provides as follows:
 
                    2.   This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
 
 _(c)_     The _Defence Amendment Act 1979_ was amended by Part XXIX (sections 82 and 83) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows:
 
-               (16)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (16)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(d)_     The _Defence Act 1903_ was amended by Part X (sections 26–51) and section 115 only of the _Statute Law Revision Act 1981_, subsections 2(1) and (2) of which provide as follows:
 
@@ -8789,19 +8753,19 @@ _(d)_     The _Defence Act 1903_ was amended by Part X (sections 26�
 
 _(e)_     The _Defence Act 1903_ was amended by Part XXVIII (sections 79–81) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows:
 
-               (16)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (16)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(f)_      The _Defence Act 1903_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(7) of which provides as follows:
 
                  (7)   The amendments of the _Defence Act 1903_ made by this Act shall:
 
-                              (a)   in the case of the repeal of section 69 of that Act—come into operation, or be deemed to have come into operation, as the case requires, on the commencement of section 38 of the _Defence Force Re‑organization Act 1975_;
+                              (a)   in the case of the repeal of section 69 of that Act—come into operation, or be deemed to have come into operation, as the case requires, on the commencement of section 38 of the _Defence Force Re-organization Act 1975_;
 
-                              (b)   in the case of the amendment of section 116D of that Act—come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent or, if the day fixed under subsection 2(3) of the _Defence Acts Amendment Act 1981_ is a later day, on that later day; and
+                              (b)   in the case of the amendment of section 116D of that Act—come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent or, if the day fixed under subsection 2(3) of the _Defence Acts Amendment Act 1981_ is a later day, on that later day; and
 
-                              (c)   in the case of the other amendments of that Act—come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+                              (c)   in the case of the other amendments of that Act—come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
-         In pursuance of section 38 of the _Defence Force Re‑organization Act 1975_, the date of commencement was 1 July 1985 (_see Gazette_ 1985, No. S195).
+         In pursuance of section 38 of the _Defence Force Re-organization Act 1975_, the date of commencement was 1 July 1985 (_see Gazette_ 1985, No. S195).
 
          In pursuance of subsection 2(3) of the _Defence Acts Amendment Act 1981_, the date of commencement was 15 August 1983 (_see Gazette_ 1983, No. S169).
 
@@ -8809,11 +8773,11 @@ _(f)_      The _Defence Act 1903_ was amended by section 3 only of t
 
 _(g)_     The _Defence Act 1903_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(h)_     The _Defence Act 1903_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsections 2(1) and (15) of which provide as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
                (15)   The amendments of section 58B of the _Defence Act 1903_, the amendment inserting proposed section 120B in that Act, and the amendment of section 124 of that Act, made by this Act shall come into operation on a day to be fixed by Proclamation or on such respective days as are fixed by Proclamation.
 
@@ -9253,7 +9217,7 @@ _(zb)_   Subsection 2(1) (items 24 and 30) of the _Fair Work (State Referr
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -9272,7 +9236,7 @@ _(zb)_   Subsection 2(1) (items 24 and 30) of the _Fair Work (State Referr
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -9360,7 +9324,7 @@ _(zb)_   Subsection 2(1) (items 24 and 30) of the _Fair Work (State Referr
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 12, 1904; No. 30, 1910; No. 36, 1917; No. 16, 1918; Nos. 13 and 74, 1939; No. 71, 1949; No. 59, 1951; No. 72, 1956; No. 92, 1964; No. 51, 1965; No. 216, 1973; No. 96, 1975; No. 4, 1977; No. 132, 1979; No. 61, 1981; Nos. 80 and 153, 1982; No. 164, 1984; No. 65, 1987; No. 104, 1988; No. 91, 1992; No. 1, 1997; No. 10, 2001; No. 142, 2005; No. 5, 2011</div>
+    <div>am. No. 12, 1904; No. 30, 1910; No. 36, 1917; No. 16, 1918; Nos. 13 and 74, 1939; No. 71, 1949; No. 59, 1951; No. 72, 1956; No. 92, 1964; No. 51, 1965; No. 216, 1973; No. 96, 1975; No. 4, 1977; No. 132, 1979; No. 61, 1981; Nos. 80 and 153, 1982; No. 164, 1984; No. 65, 1987; No. 104, 1988; No. 91, 1992; No. 1, 1997; No. 10, 2001; No. 142, 2005</div>
   </td>
 </tr>
 <tr>
@@ -11998,23 +11962,7 @@ formerly s. 51</div>
 </tr>
 <tr>
   <td>
-    <div>S. 51CA</div>
-  </td>
-  <td>
-    <div>ad. No. 3, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51CB</div>
+    <div>Ss. 51CA, 51CB</div>
   </td>
   <td>
     <div>ad. No. 3, 2006</div>
@@ -15605,7 +15553,7 @@ Part VIIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 39, 1983; No. 5, 2011</div>
+    <div>am. No. 39, 1983</div>
   </td>
 </tr>
 <tr>
@@ -17442,951 +17390,11 @@ Schedule</div>
 
 ### Note 2
 
-Subsection 4(1), definition of **_Time of War_**—For Proclamations relating to the 1939‑1945 war (existence of danger of war and existence of war), _see Gazette_ 1939, pp. 1845 and 1849, or Statutory Rules volume 1939, pp. 781 and 782\. For a Proclamation declaring that war no longer exists, _see Gazette_ 1952, p. 2481.
+Subsection 4(1), definition of **_Time of War_**—For Proclamations relating to the 1939-1945 war (existence of danger of war and existence of war), _see Gazette_ 1939, pp. 1845 and 1849, or Statutory Rules volume 1939, pp. 781 and 782\. For a Proclamation declaring that war no longer exists, _see Gazette_ 1952, p. 2481.
 
 ### Note 3
 
 Section 63 and subsection 124(1)—Subsection 45(3) of the _Naval Defence Act 1910_ provides that the power to make regulations contained in section 45 of that Act is in addition to any power to make regulations contained in the _Defence Act 1903_.
-
-### Note 4
-
-_Defence Legislation Amendment (Security of Defence Premises) Act 2011 (No. 19, 2011)_
-
-The following amendments commence on 12 October 2011 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  After Part VI
-
-Insert:
-
-## Part VIA—Security of defence premises
-
-### Division 1—Preliminary
-
-##### <a id="71"></a>71  Simplified outline
-
-             (1)  The following is a simplified outline of this Part.
-
-             (2)  This Division sets out the meaning of expressions used in this Part.
-
-             (3)  Division 2 provides for matters relating to defence security officials.
-
-             (4)  Division 3 sets out the powers exercisable by defence security officials with consent at defence access control points and on defence premises. Subdivision B of Division 3 contains special provisions relating to declared explosive ordnance depots.
-
-             (5)  Division 4 sets out the powers exercisable by special defence security officials without consent at defence access control points and on defence premises, and provides for related matters, including offences relating to non‑compliance with requirements, hindering and obstructing.
-
-             (6)  Division 5 relates to seizure of things.
-
-             (7)  Division 6 sets out provisions that apply generally in relation to the exercise of powers under this Part, including the following:
-
-                     (a)  the production of identity cards;
-
-                     (b)  informing persons of offences;
-
-                     (c)  the use of force;
-
-                     (d)  limits on the exercise of certain powers.
-
-             (8)  Division 7 provides for other matters, including:
-
-                     (a)  an offence of unauthorised entry on, or being on, defence premises or defence accommodation; and
-
-                     (b)  the provision of information obtained by certain surveillance devices to law enforcement and other agencies.
-
-##### <a id="71A"></a>71A  Definitions
-
-             (1)  In this Part:
-
-                    <a name="contract-defenc-secur-guard"></a>**_contracted defence security guard_** has the meaning given by section 71B.
-
-                    <a name="crimin-offenc"></a>**_criminal offence_** means an offence against a law of the Commonwealth, a State or a Territory.
-
-                    <a name="declar-explos-ordnanc-depot"></a>**_declared explosive ordnance depot_** has the meaning given by section 71L.
-
-                    <a name="defenc-access-control-point"></a>**_defence access control point_** means a point of entry to, or exit from, defence premises or a part of defence premises, where entry or exit is controlled or limited by any means, including but not limited to control by means of:
-
-                     (a)  guarding by defence security officials; or
-
-                     (b)  physical barriers such as security screens, locked doors or gates.
-
-                    <a name="defenc-accommod"></a>**_defence accommodation_** means any building or other structure, or any place, that:
-
-                     (a)  is in Australia; and
-
-                     (b)  is used for, or in connection with, the accommodation of a group of members of any part of the Defence Force.
-
-                    <a name="defenc-premis"></a>**_defence premises_** means any of the following that is in Australia, and is owned or occupied by the Commonwealth for use by the Defence Force or the Department:
-
-                     (a)  an area of land or any other place (whether or not it is enclosed or built on);
-
-                     (b)  a building or other structure;
-
-                     (c)  a vehicle, vessel or aircraft, including any fixed or moveable ramp, stairs or other means of access to, or exit from, the vehicle, vessel or aircraft;
-
-                     (d)  a prohibited area, within the meaning of the _Defence (Special Undertakings) Act 1952_.
-
-                    <a name="defenc-secur-offici"></a>**_defence security official_** means:
-
-                     (a)  a contracted defence security guard (see section 71B); or
-
-                     (b)  a security authorised member of the Defence Force (see section 71C); or
-
-                     (c)  a defence security screening employee (see section 71D).
-
-                    <a name="defenc-secur-screen-employe"></a>**_defence security screening employee_** has the meaning given by section 71D.
-
-                    <a name="intellig-secur-agenc"></a>**_intelligence or security agency_** means any of the following:
-
-                     (a)  the Australian Secret Intelligence Service;
-
-                     (b)  the Australian Security Intelligence Organisation;
-
-                     (c)  the Office of National Assessments.
-
-                    <a name="limit-search"></a>**_limited search_** of a person means:
-
-                     (a)  a search of things in the possession of a person that may include:
-
-                              (i)  requesting the person to remove his or her overcoat, coat or jacket and any gloves, shoes and hat; and
-
-                             (ii)  an examination of any of those items that the person consents to remove; or
-
-                     (b)  a search of a person conducted by quickly running the hands over the person’s outer garments and an examination of anything worn or carried by the person that is conveniently and voluntarily removed by the person;
-
-but does not include requesting the person to remove all of his or her garments.
-
-                    <a name="optic-surveil-devic"></a>**_optical surveillance device_** means any device capable of being used to record visually or observe an activity, but does not include spectacles, contact lenses or a similar device used by a person with impaired sight to overcome that impairment.
-
-                    <a name="person-inform"></a>**_personal information_** has the same meaning as in the _Privacy Act 1988_.
-
-                    <a name="person-assisting"></a>**_person assisting_** a defence security official has the meaning given by section 72N.
-
-                    <a name="protect-servic-offic"></a>**_protective service officer_** has the same meaning as in the _Australian Federal Police Act 1979_.
-
-                    <a name="search"></a>**_search_**:
-
-                     (a)  of a person—has the same meaning as in section 51; and
-
-                     (b)  of a vehicle, vessel or aircraft—includes a search of a thing in the vehicle, vessel or aircraft.
-
-                    <a name="secur-authorised-member-defenc-forc"></a>**_security authorised member of the Defence Force_** has the meaning given by section 71C.
-
-                    <a name="special-defenc-secur-offici"></a>**_special defence security official_** means:
-
-                     (a)  a security authorised member of the Defence Force (see section 71C); or
-
-                     (b)  a defence security screening employee (see section 71D).
-
-                    <a name="vessel"></a>**_vessel_** has the same meaning as in section 51SD.
-
-             (2)  To avoid doubt, a thing includes a substance, a vehicle, vessel or aircraft and a thing in electronic or magnetic form.
-
-### Division 2—Defence security officials
-
-##### <a id="71B"></a>71B  Contracted defence security guards
-
-             (1)  A person is a **_contracted defence security guard_** if:
-
-                     (a)  the person is one of the following:
-
-                              (i)  a party to a contract with the Commonwealth or a Commonwealth entity;
-
-                             (ii)  a subcontractor for a contract with the Commonwealth or a Commonwealth entity;
-
-                            (iii)  an employee of a person referred to in subparagraph (i) or (ii); and
-
-                     (b)  the contract is for, or includes, the provision of security services at one or more defence premises; and
-
-                     (c)  either of the following applies:
-
-                              (i)  the person is authorised under subsection (2);
-
-                             (ii)  the person is included in a class of persons authorised under subsection (2) (including a person who becomes a member of the class after the authorisation is given); and
-
-                     (d)  the person satisfies the training and qualification requirements determined under subsection (4).
-
-             (2)  The Minister may, in writing, authorise a person, or a class of persons, for the purposes of paragraph (1)(c).
-
-             (3)  An authorisation made under subsection (2) is not a legislative instrument.
-
-             (4)  The Minister must, by legislative instrument, determine the training and qualification requirements for contracted defence security guards.
-
-             (5)  Without limiting the training and qualification requirements that may be determined in a legislative instrument under subsection (4), different training and qualification requirements may apply to different kinds of contracted defence security guards.
-
-##### <a id="71C"></a>71C  Security authorised members of the Defence Force
-
-             (1)  A person is a **_security authorised member of the Defence Force_** if the person:
-
-                     (a)  is a member of the Defence Force; and
-
-                     (b)  either of the following applies:
-
-                              (i)  the person is authorised under subsection (2);
-
-                             (ii)  the person is included in a class of persons authorised under subsection (2) (including a person who becomes a member of the class after the authorisation is given); and
-
-                     (c)  the person satisfies the training and qualification requirements determined under subsection (4).
-
-             (2)  The Minister may, in writing, authorise a person, or a class of persons, for the purposes of paragraph (1)(b).
-
-             (3)  An authorisation made under subsection (2) is not a legislative instrument.
-
-             (4)  The Minister must, by legislative instrument, determine the training and qualification requirements for security authorised members of the Defence Force.
-
-             (5)  Without limiting the training and qualification requirements that may be determined in a legislative instrument under subsection (4):
-
-                     (a)  different training and qualification requirements may apply to different kinds of security authorised members of the Defence Force; and
-
-                     (b)  the Minister must determine training and qualification requirements that apply to security authorised members of the Defence Force in relation to the use of dogs as referred to in section 72M.
-
-##### <a id="71D"></a>71D  Defence security screening employees
-
-             (1)  A person is a **_defence security screening employee_** if the person:
-
-                     (a)  is an APS employee in the Department; and
-
-                     (b)  either of the following applies:
-
-                              (i)  the person is authorised under subsection (2);
-
-                             (ii)  the person is included in a class of persons authorised under subsection (2) (including a person who becomes a member of the class after the authorisation is given); and
-
-                     (c)  the person satisfies the training and qualification requirements determined under subsection (4).
-
-             (2)  The Minister may, in writing, authorise a person, or a class of persons, for the purposes of paragraph (1)(b).
-
-             (3)  An authorisation made under subsection (2) is not a legislative instrument.
-
-             (4)  The Minister must, by legislative instrument, determine the training and qualification requirements for defence security screening employees.
-
-             (5)  Without limiting the training and qualification requirements that may be determined in a legislative instrument under subsection (4), different training and qualification requirements may apply to different kinds of defence security screening employees.
-
-##### <a id="71E"></a>71E  Identity cards
-
-             (1)  The Secretary must issue an identity card to each defence security official.
-
-Form of identity card
-
-             (2)  The identity card must:
-
-                     (a)  be in the form approved in writing by the Secretary; and
-
-                     (b)  contain a recent photograph of the defence security official.
-
-Offence
-
-             (3)  A person commits an offence if:
-
-                     (a)  the person has been issued with an identity card; and
-
-                     (b)  the person ceases to be a defence security official; and
-
-                     (c)  the person does not, within 7 days of so ceasing, return the person’s identity card to the Secretary.
-
-                    Penalty:  5 penalty units.
-
-             (4)  Subsection (3) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Defence—card lost or destroyed
-
-             (5)  Subsection (3) does not apply if the identity card was lost or destroyed.
-
-Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code_).
-
-Defence security official must carry card
-
-             (6)  A defence security official must carry the identity card at all times when performing functions or exercising powers as a defence security official.
-
-##### <a id="71F"></a>71F  Delegations relating to training and qualification requirements
-
-Contracted defence security guards and defence security screening employees
-
-             (1)  The Minister may, by writing, delegate the Minister’s power under subsection 71B(4) or 71D(4) (training and qualification requirements for contracted defence security guards and defence security screening employees) to:
-
-                     (a)  the Secretary; or
-
-                     (b)  an APS employee who holds or performs the duties of an SES Band 3 position, or an equivalent or higher position, in the Department.
-
-Security authorised members of the Defence Force
-
-             (2)  The Minister may, by writing, delegate the Minister’s power under subsection 71C(4) (training and qualification requirements for security authorised members of the Defence Force) to:
-
-                     (a)  an officer of the Army who holds the rank of Brigadier or a higher rank; or
-
-                     (b)  an officer of the Navy who holds the rank of Commodore or a higher rank; or
-
-                     (c)  an officer of the Air Force who holds the rank of Air Commodore or a higher rank.
-
-##### <a id="71G"></a>71G  Delegations relating to identity cards
-
-Issue of identity cards
-
-             (1)  The Secretary may, by writing, delegate the Secretary’s power under subsection 71E(1) (issue of identity cards) to:
-
-                     (a)  an APS employee who holds or performs the duties of an Executive Level 2 position, or an equivalent or higher position, in the Department; or
-
-                     (b)  an officer of the Army who holds the rank of Colonel or a higher rank; or
-
-                     (c)  an officer of the Navy who holds the rank of Captain or a higher rank; or
-
-                     (d)  an officer of the Air Force who holds the rank of Group Captain or a higher rank.
-
-Return of identity cards
-
-             (2)  The Secretary may, by writing, delegate the Secretary’s function under paragraph 71E(3)(c) (return of identity cards) to:
-
-                     (a)  an APS employee who holds or performs the duties of an APS 5 position, or an equivalent or higher position, in the Department; or
-
-                     (b)  an officer of the Army who holds the rank of Captain or a higher rank; or
-
-                     (c)  an officer of the Navy who holds the rank of Lieutenant or a higher rank; or
-
-                     (d)  an officer of the Air Force who holds the rank of Flight Lieutenant or a higher rank.
-
-### Division 3—Powers exercisable with consent at defence access control points and on defence premises
-
-#### Subdivision A—General provisions
-
-##### <a id="71H"></a>71H  Consensual identification and limited search—person about to pass a defence access control point
-
-Power to request identification etc.
-
-             (1)  A defence security official may request a person who is about to pass a defence access control point to provide evidence of the following:
-
-                     (a)  the person’s name;
-
-                     (b)  the person’s residential address;
-
-                     (c)  the person’s authority to pass the defence access control point.
-
-Power to request limited search
-
-             (2)  A defence security official may request a person who is about to pass a defence access control point to undergo a limited search.
-
-Power to refuse access etc.
-
-             (3)  A defence security official may refuse to allow a person to pass a defence access control point if:
-
-                     (a)  the person refuses a request by a defence security official under subsection (1) or (2); or
-
-                     (b)  as a result of the person complying with such a request, a defence security official reasonably believes that the person:
-
-                              (i)  is not authorised to pass the defence access control point; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the defence premises.
-
-Additional powers if person is on defence premises
-
-             (4)  If a defence security official refuses to allow a person to pass a defence access control point under subsection (3), a defence security official may, if the person is on defence premises, restrain and detain the person.
-
-##### <a id="71J"></a>71J  Consensual search—vehicle, vessel or aircraft about to pass a defence access control point
-
-             (1)  A defence security official may request a person apparently in control of a vehicle, vessel or aircraft that is about to pass a defence access control point to permit a search of the vehicle, vessel or aircraft.
-
-             (2)  A defence security official may refuse to allow a vehicle, vessel or aircraft to pass a defence access control point if:
-
-                     (a)  a person refuses to permit a search of a vehicle, vessel or aircraft requested by a defence security official under subsection (1); or
-
-                     (b)  as a result of the person complying with such a request, a defence security official reasonably believes that the vehicle, vessel or aircraft, or a thing in it:
-
-                              (i)  is not authorised to pass the defence access control point; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  relates to a criminal offence committed, or that may be committed, on or in relation to the defence premises.
-
-Additional powers if vehicle, vessel or aircraft is on defence premises
-
-             (3)  If a defence security official refuses to allow a vehicle, vessel or aircraft to pass a defence access control point under subsection (2), a defence security official may, if the vehicle, vessel or aircraft is on defence premises, restrain or detain any person in the vehicle, vessel or aircraft.
-
-##### <a id="71K"></a>71K  Consensual identification—person on defence premises
-
-             (1)  This section applies if:
-
-                     (a)  a person is on defence premises; and
-
-                     (b)  a defence security official reasonably believes that the person is not authorised to be on the premises.
-
-             (2)  The defence security official may request the person to provide evidence of the following:
-
-                     (a)  the person’s name;
-
-                     (b)  the person’s residential address;
-
-                     (c)  the person’s authority to be on the defence premises.
-
-             (3)  A defence security official may restrain and detain a person if:
-
-                     (a)  the person refuses a request by a defence security official under subsection (2); or
-
-                     (b)  as a result of the person complying with such a request, a defence security official reasonably believes that the person:
-
-                              (i)  is not authorised to be on the defence premises; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the defence premises.
-
-#### Subdivision B—Special provisions for declared explosive ordnance depots
-
-##### <a id="71L"></a>71L  Declared explosive ordnance depots
-
-             (1)  A specified area of land or any other place (whether or not it is enclosed or built on), or a building or other structure, is a **_declared explosive ordnance depot_** if:
-
-                     (a)  the area of land or the place, building or structure is specified in an instrument in force under subsection (2); and
-
-                     (b)  signs stating that it is a condition of entry to the area of land or the place, building or structure that a person consent to undergo searches as provided by this Subdivision are prominently displayed:
-
-                              (i)  at the entrance to the area of land or the place, building or structure; and
-
-                             (ii)  at regular intervals around the perimeter of the area of land or the place, building or structure.
-
-             (2)  The Minister may, by legislative instrument, specify an area of land or any other place (whether or not it is enclosed or built on), or a building or other structure if:
-
-                     (a)  the area of land or the place, building or structure is defence premises used wholly or partly for the storage of explosive ordnance; and
-
-                     (b)  members of the Defence Force are not normally present at the area of land or the place, building or structure.
-
-             (3)  An instrument under subsection (2) may specify more than one area of land, place, building or structure.
-
-             (4)  Each area of land, place, building or structure specified in an instrument under subsection (2) must be specified by reference to one of the following:
-
-                     (a)  its geographical location;
-
-                     (b)  a unique code or number.
-
-             (5)  If an area of land or a place, building or structure is specified by a unique code or number as mentioned in paragraph (4)(b), the code or number must correspond with a code or number that is held in the records of the Department as a code or number applicable to that area of land or that place, building or structure.
-
-##### <a id="71M"></a>71M  Consensual search—person on a declared explosive ordnance depot
-
-             (1)  A contracted defence security guard may request a person who is on a declared explosive ordnance depot to undergo a limited search.
-
-             (2)  A contracted defence security guard may restrain and detain a person if:
-
-                     (a)  the person refuses a request by a contracted defence security guard under subsection (1); or
-
-                     (b)  as a result of the person complying with such a request, a contracted defence security guard reasonably believes that the person:
-
-                              (i)  is not authorised to be on the declared explosive ordnance depot; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence explosive ordnance depot; or
-
-                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the defence explosive ordnance depot.
-
-##### <a id="71N"></a>71N  Consensual search—vehicle, vessel or aircraft on a declared explosive ordnance depot
-
-             (1)  A contracted defence security guard may request a person apparently in control of a vehicle, vessel or aircraft that is on a declared explosive ordnance depot to permit a search of the vehicle, vessel or aircraft.
-
-             (2)  A contracted defence security guard may restrain and detain any person in the vehicle, vessel or aircraft if:
-
-                     (a)  a person refuses to permit a search of the vehicle, vessel or aircraft requested under subsection (1); or
-
-                     (b)  as a result of a person complying with such a request, a contracted defence security guard reasonably believes that the vehicle, vessel or aircraft, or a thing in it:
-
-                              (i)  is not authorised to be on the declared explosive ordnance depot; or
-
-                             (ii)  constitutes a threat to the safety of persons on the declared explosive ordnance depot; or
-
-                            (iii)  relates to a criminal offence committed, or that may be committed, on or in relation to the declared explosive ordnance depot.
-
-##### <a id="71P"></a>71P  Powers additional to other powers
-
-                   To avoid doubt, this Subdivision does not limit any other power of a contracted defence security guard under this Part.
-
-#### Subdivision C—Offences
-
-##### <a id="71Q"></a>71Q  Offences—search powers exercised without consent
-
-             (1)  A defence security official commits an offence if:
-
-                     (a)  the defence security official conducts a limited search of a person purportedly under this Division; and
-
-                     (b)  the person did not consent to the search.
-
-                    Penalty:  50 penalty units.
-
-             (2)  A defence security official commits an offence if:
-
-                     (a)  the defence security official conducts a search of a vehicle, vessel or aircraft purportedly under this Division; and
-
-                     (b)  the person apparently in control of the vehicle, vessel or aircraft did not consent to the search.
-
-                    Penalty:  30 penalty units.
-
-### Division 4—Powers exercisable without consent at defence access control points and on defence premises
-
-##### <a id="71R"></a>71R  Non‑consensual identification and search—person about to pass a defence access control point
-
-Power to require identification etc.
-
-             (1)  A special defence security official may require a person who is about to pass a defence access control point to provide evidence of the following:
-
-                     (a)  the person’s name;
-
-                     (b)  the person’s residential address;
-
-                     (c)  the person’s authority to pass the defence access control point.
-
-Power to search at defence access control point on defence premises
-
-             (2)  A special defence security official may search a person who is about to pass a defence access control point on defence premises.
-
-Note:          If the defence access control point is not on defence premises, a defence security official may request the person to undergo a search under Division 3.
-
-Power to refuse access etc.
-
-             (3)  A special defence security official may refuse to allow a person to pass a defence access control point if:
-
-                     (a)  the person refuses to comply with a requirement imposed by a special defence security official under subsection (1); or
-
-                     (b)  the person hinders or obstructs a search of the person by a special defence security official under subsection (2); or
-
-                     (c)  as a result of the person complying with such a requirement or undergoing such a search, a special defence security official reasonably believes that the person:
-
-                              (i)  is not authorised to pass the defence access control point; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the defence premises.
-
-Additional powers if person is on defence premises
-
-             (4)  If a special defence security official refuses to allow a person to pass a defence access control point under subsection (3), a special defence security official may, if the person is on defence premises:
-
-                     (a)  restrain and detain the person; or
-
-                     (b)  request the person to leave the defence premises and, if he or she refuses, remove the person from the defence premises.
-
-##### <a id="71S"></a>71S  Non‑consensual search—vehicle, vessel or aircraft about to pass a defence access control point
-
-Power to search vehicles, vessels or aircraft
-
-             (1)  A special defence security official may search a vehicle, vessel or aircraft that is about to pass a defence access control point on defence premises.
-
-Note:          If the defence access control point is not on defence premises, a defence security official may request a search under Division 3.
-
-             (2)  A special defence security official may refuse to allow a vehicle, vessel or aircraft to pass a defence access control point if:
-
-                     (a)  a person hinders or obstructs a search of the vehicle, vessel or aircraft conducted by a special defence security official under subsection (1); or
-
-                     (b)  as a result of a search conducted under subsection (1), the official reasonably believes that the vehicle, vessel or aircraft, or a thing in it:
-
-                              (i)  is not authorised to pass the defence access control point; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  relates to a criminal offence committed, or that may be committed, on or in relation to the defence premises.
-
-Additional powers if vehicle, vessel or aircraft is on defence premises
-
-             (3)  If a special defence security official refuses to allow a vehicle, vessel or aircraft to pass a defence access control point under subsection (2), a special defence security official may, if the vehicle, vessel or aircraft is on defence premises, restrain and detain any person in the vehicle, vessel or aircraft.
-
-Note:          For other powers in relation to persons in a vehicle, vessel or aircraft see section 71R.
-
-##### <a id="71T"></a>71T  Non‑consensual identification and search—person on defence premises
-
-When section applies
-
-             (1)  This section applies if:
-
-                     (a)  a person is on defence premises; and
-
-                     (b)  a special defence security official reasonably believes that the person:
-
-                              (i)  is not authorised to be on the premises; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  has committed, or may commit, a criminal offence on, or in relation to, the premises.
-
-Power to require identification etc.
-
-             (2)  A special defence security official may require the person to provide evidence of the following:
-
-                     (a)  the person’s name;
-
-                     (b)  the person’s residential address;
-
-                     (c)  the person’s authority to be on the defence premises.
-
-Power to search
-
-             (3)  A special defence security official may search the person.
-
-Power to restrain and detain, remove etc.
-
-             (4)  A special defence security official may:
-
-                     (a)  restrain and detain the person; or
-
-                     (b)  request the person to leave the defence premises and if he or she refuses, remove the person from the defence premises.
-
-##### <a id="71U"></a>71U  Non‑consensual search—vehicle, vessel or aircraft on defence premises
-
-When section applies
-
-             (1)  This section applies if:
-
-                     (a)  a vehicle, vessel or aircraft is on defence premises; and
-
-                     (b)  a special defence security official reasonably believes that the vehicle, vessel or aircraft:
-
-                              (i)  is not authorised to be on the premises; or
-
-                             (ii)  constitutes a threat to the safety of persons on the defence premises; or
-
-                            (iii)  relates to a criminal offence committed, or that may be committed, on or in relation to the defence premises.
-
-Power to search
-
-             (2)  A special defence security official may search the vehicle, vessel or aircraft.
-
-Power to restrain and detain
-
-             (3)  A special defence security official may restrain and detain any person in the vehicle, vessel or aircraft.
-
-##### <a id="71V"></a>71V  Offence—refusing to provide evidence etc. required under this Division
-
-                   A person commits an offence if:
-
-                     (a)  a special defence security official requires the person to provide evidence under this Division; and
-
-                     (b)  section 72B (which deals with the production of identity cards, etc.) was complied with in relation to the requirement; and
-
-                     (c)  the person refuses or fails to provide the evidence, or gives a name or address that is false in a material particular; and
-
-                     (d)  the person is on defence premises.
-
-                    Penalty:  20 penalty units.
-
-Note:          An offence under this section is a **_protective service offence_** for the purposes of the _Australian Federal Police Act 1979_.
-
-##### <a id="71W"></a>71W  Offence—hindering or obstructing a search under this Division
-
-                   A person commits an offence if the person hinders or obstructs a search under this Division, and:
-
-                     (a)  if paragraphs 72B(3)(a) and (b) apply in relation to the search—at the time the person hindered or obstructed the search, the special defence security official who conducted the search had done the things referred to in subparagraphs 72B(3)(c)(i) and (ii); or
-
-                     (b)  otherwise—subsection 72B(2) was complied with in relation to the search.
-
-                    Penalty:  50 penalty units.
-
-Note 1:       An offence under this section is a **_protective service offence_** for the purposes of the _Australian Federal Police Act 1979_.
-
-Note 2:       Subsections 72B(2) and (3) deal with the production of identity cards before conducting a search.
-
-##### <a id="71X"></a>71X  Security authorised members of the Defence Force may respond to attack
-
-             (1)  This section applies if:
-
-                     (a)  an attack on defence premises is occurring or is imminent; and
-
-                     (b)  the attack is likely to, or is intended to, result in the death of or serious injury to one or more persons on the defence premises.
-
-             (2)  Subject to sections 72G and 72H, a security authorised member of the Defence Force may take action on defence premises to protect persons from the attack.
-
-Note:          Section 72G provides that defence security officials may use reasonable and necessary force in exercising powers under this Part. Section 72H provides that security authorised members of the Defence Force may, in limited circumstances involving an attack, do a thing that is likely to cause the death of, or grievous bodily harm to, another person. Other defence security officials are not so authorised (see subsection 72G(2)).
-
-##### <a id="71Y"></a>71Y  Power to stop and detain
-
-                   A special defence security official may stop and detain a person, or a vehicle, vessel or aircraft, for the purposes of exercising a power under this Division:
-
-                     (a)  to require the person to provide evidence of particular matters; or
-
-                     (b)  to search the person or the vehicle, vessel or aircraft.
-
-##### <a id="71Z"></a>71Z  Powers are in addition to powers under this Part
-
-                   To avoid doubt, a power conferred upon a special defence security official under this Division may be exercised in addition to a power conferred on the special defence security official under another Division of this Part.
-
-### Division 5—Seizure
-
-##### <a id="72"></a>72  Power to seize things on defence premises
-
-             (1)  A special defence security official may seize a thing (including a vehicle, vessel or aircraft or an unattended thing) on defence premises, or a thing found as a result of a search (including a limited search) under this Part, if the official believes on reasonable grounds that the thing may:
-
-                     (a)  constitute a threat to the safety of a person on the defence premises; or
-
-                     (b)  relate to a criminal offence committed, or that may be committed, on or in relation to the defence premises.
-
-             (2)  If a special defence security official seizes a thing under subsection (1):
-
-                     (a)  a security authorised member of the Defence Force may take such action as is reasonable and necessary to make the thing safe or prevent the thing being used; and
-
-                     (b)  if the official seized the thing from a person—a special defence security official must, if it is practicable to do so, give the person a receipt for the thing; and
-
-                     (c)  if the official believes on reasonable grounds that the thing has been used or otherwise involved in the commission of a criminal offence—a special defence security official must give the thing to a member or special member of the Australian Federal Police or a member of the police force of a State or Territory at the earliest practicable time; and
-
-                     (d)  if paragraph (c) does not apply:
-
-                              (i)  if the official seized the thing from a person and it is practicable to do so—a special defence security official must return the thing to the person within 7 days; or
-
-                             (ii)  otherwise—a special defence security official must give it to a member or special member of the Australian Federal Police or a member of the police force of a State or Territory at the earliest practicable time.
-
-### Division 6—Matters relating to exercise of powers under Part
-
-##### <a id="72A"></a>72A  Certain powers to be exercised only by security authorised members of the Defence Force unless not reasonably practicable
-
-                   A power conferred upon a special defence security official under Division 4 (powers exercisable without consent) or Division 5 (seizure powers) may be exercised by a defence security screening employee only if it is not reasonably practicable in all the circumstances for the power to be exercised by a security authorised member of the Defence Force.
-
-##### <a id="72B"></a>72B  Defence security officials must produce identity cards, etc.
-
-Production of identity card before making request or requirement
-
-             (1)  A defence security official is not entitled to make a request or requirement of a person under this Part unless, before making the request or requirement:
-
-                     (a)  the defence security official produces his or her identity card for inspection by the person; and
-
-                     (b)  the person is informed of the effect of refusal by the person to comply with the request or requirement.
-
-Production of identity card before search
-
-             (2)  Subject to subsection (3), a defence security official is not entitled to conduct a search (including a limited search) of a person, or a vehicle, vessel or aircraft apparently under the control of a person, under this Part unless, before conducting the search:
-
-                     (a)  the defence security official produces his or her identity card for inspection by the person; and
-
-                     (b)  if the search is under Division 4 (powers exercisable without consent)—the person is informed of the effect of hindering or obstructing the search.
-
-             (3)  A defence security official is not required to comply with subsection (2) before conducting a search of a person, or of a vehicle, vessel or aircraft apparently under the control of a person, if:
-
-                     (a)  the search is conducted under subsection 71R(2), 71S(1), 71T(3) or 71U(2); and
-
-                     (b)  a defence security official reasonably believes that the person, or the vehicle, vessel or aircraft, constitutes a threat to the safety of persons on the defence premises concerned; and
-
-                     (c)  as soon as practicable while conducting, or after conducting, the search:
-
-                              (i)  the defence security official who is conducting, or has conducted, the search produces his or her identity card for inspection by the person; and
-
-                             (ii)  the person is informed of the effect of hindering or obstructing the search.
-
-Production of identity card before removal of a person
-
-             (4)  A defence security official is not entitled to exercise powers under this Part to remove a person from defence premises unless, before exercising the power, the official produces his or her identity card for inspection by the person.
-
-Production of identity card as soon as practicable after detaining a person
-
-             (5)  A defence security official is not entitled to restrain and detain, or stop and detain, a person under this Part unless, as soon as practicable after restraining and detaining, or stopping and detaining, the person, the official produces his or her identity card for inspection by the person.
-
-##### <a id="72C"></a>72C  Persons to be informed of offence
-
-             (1)  A defence security official who, in accordance with this Part, exercises a power on the basis that the official reasonably believes that a person has committed, or may commit, a criminal offence must inform the person of the offence.
-
-             (2)  It is sufficient if the person is informed of the substance of the offence, and it is not necessary that this be done in language of a precise or technical nature.
-
-             (3)  Subsection (1) does not apply if:
-
-                     (a)  the person should, in the circumstances, know the substance of the offence; or
-
-                     (b)  the person’s actions make it impracticable for the defence security official to inform the person of the offence.
-
-##### <a id="72D"></a>72D  Conduct of searches and limited searches
-
-                   A search or a limited search of a person under this Part must, if practicable, be conducted by a person of the same sex as the person being searched.
-
-##### <a id="72E"></a>72E  Use of equipment to examine things etc.
-
-                   For the purposes of conducting a search or a limited search of a person, or a search of a thing, under this Part or determining whether a thing may be seized under this Part, a defence security official may do one or more of the following:
-
-                     (a)  use any equipment, including electronic equipment, reasonably necessary for the search or the limited search, or the examination or processing of the thing;
-
-                     (b)  in the case of a thing that is on defence premises, and that a defence security official suspects on reasonable grounds:
-
-                              (i)  constitutes a threat to the safety of persons on the defence premises; or
-
-                             (ii)  relates to a criminal offence committed, or that may be committed, on or in relation to the defence premises;
-
-                            move the thing to another part of the defence premises for immediate examination or processing;
-
-                     (c)  use any equipment, including electronic equipment, to gain access to data stored on the thing;
-
-                     (d)  obtain expert assistance to do a thing referred to in paragraph (a), (b) or (c).
-
-##### <a id="72F"></a>72F  Power to move certain unattended things on defence premises
-
-                   If a thing is left unattended on defence premises as a result of, or in connection with, the exercise of a power under this Part, a defence security official may move the thing to another place if the defence security official reasonably believes that it is necessary or desirable to do so.
-
-##### <a id="72G"></a>72G  Use of reasonable and necessary force, etc. by defence security officials
-
-Use of force—general rule
-
-             (1)  A defence security official may, subject to this section and section 72H, use such force against persons and things as is reasonable and necessary in the circumstances in exercising powers under  this Part _._
-
-Limit on use of force—defence security guards and defence security screening employees
-
-             (2)  Despite subsection (1), a contracted defence security guard or a defence security screening employee must not, in using force against a person in exercising powers under this Part, do anything that is likely to cause the death of, or grievous bodily harm to, the person.
-
-Note 1:       For security authorised members of the Defence Force, see section 72H.
-
-Note 2:       This provision does not affect a person’s rights under other laws: see section 72S.
-
-Indignity
-
-             (3)  A defence security official must not, in exercising powers under this Part, subject the person to greater indignity than is reasonable and necessary in the circumstances.
-
-##### <a id="72H"></a>72H  Use of force involving death or grievous bodily harm by security authorised members of the Defence Force in responding to an attack
-
-             (1)  Despite subsection 72G(1), a security authorised member of the Defence Force must not, in using force against a person in exercising powers under this Part, do anything that is likely to cause the death of, or grievous bodily harm to, the person, unless the member believes on reasonable grounds that:
-
-                     (a)  doing that thing is necessary to prevent the death of, or serious injury to, another person (including the official); and
-
-                     (b)  the threat of death or injury is caused by an attack on defence premises, or on people on defence premises, that is occurring or is imminent.
-
-             (2)  In addition to the limitations in paragraphs (1)(a) and (b), if a person is attempting to escape being detained by fleeing, a security authorised member of the Defence Force must not, in exercising powers under this Part, do anything that is likely to cause the death of, or grievous bodily harm to, the person unless:
-
-                     (a)  the person has, if practicable, been called on to surrender; and
-
-                     (b)  the official believes on reasonable grounds that the person cannot be apprehended in any other manner.
-
-##### <a id="72J"></a>72J  Limit on power to restrain and detain
-
-                   A provision of this Part that confers a power on a defence security official to restrain and detain a person is limited to a power to restrain and detain the person for the purpose of placing the person, at the earliest practicable time, in the custody of:
-
-                     (a)  a member or special member of the Australian Federal Police; or
-
-                     (b)  a member of the police force of a State or Territory; or
-
-                     (c)  a protective service officer.
-
-##### <a id="72K"></a>72K  Limit on power to arrest
-
-                   If a member of the Defence Force arrests a person under section 72P (which deals with trespass), he or she must, as soon as practicable after the arrest, bring the person, or cause the person to be brought, before:
-
-                     (a)  a member or special member of the Australian Federal Police; or
-
-                     (b)  a member of the police force of a State or Territory.
-
-Note 1:       The _Crimes Act 1914_ provides for arrest powers of police officers and how arrested persons are to be dealt with.
-
-Note 2:       The _Australian Federal Police Act 1979_ provides for arrest powers of protective service officers and how arrested persons are to be dealt with.
-
-##### <a id="72L"></a>72L  Powers not to be used to stop protests etc.
-
-                   In exercising powers under this Part, a defence security official must not stop or restrict any protest, dissent, assembly or industrial action, unless there is a reasonable likelihood of:
-
-                     (a)  death of, or serious injury to, persons; or
-
-                     (b)  the commission of a criminal offence.
-
-##### <a id="72M"></a>72M  Security authorised members of the Defence Force may use dogs
-
-                   A security authorised member of the Defence Force may, if the security authorised member considers it is reasonably necessary to do so, use a dog:
-
-                     (a)  to assist a defence security official to conduct a search (including a limited search) under this Part; or
-
-                     (b)  to assist a defence security official to restrain or detain, or remove, a person under this Part; or
-
-                     (c)  to assist a member of the Defence Force to arrest a person under section 72P (which deals with trespass); or
-
-                     (d)  to assist a defence security official to perform a function or exercise a power under this Part.
-
-##### <a id="72N"></a>72N  Persons assisting defence security officials
-
-             (1)  A defence security official may, in exercising powers under any of the following provisions, be assisted by other persons if that assistance is necessary and reasonable:
-
-                     (a)  subsection 71J(1) (search of a vehicle, etc. with consent);
-
-                     (b)  subsection 71N(1) (search of a vehicle, etc. on declared explosive ordnance depot);
-
-                     (c)  subsection 71S(1) (search of a vehicle, etc. without consent);
-
-                     (d)  subsection 71U(2) (search of a vehicle, etc. without consent);
-
-                     (e)  section 72E (use of equipment, etc.);
-
-                      (f)  section 72F (moving things, etc.).
-
-             (2)  A person giving such assistance is a **_person assisting_** the defence security official.
-
-             (3)  A person assisting the defence security official may exercise the powers of the defence security official, but only in accordance with a direction given to the person by the defence security official.
-
-             (4)  A power exercised by a person assisting the defence security official as mentioned in subsection (3) is taken for all purposes to have been exercised by a defence security official.
-
-             (5)  If a direction is given under subsection (3) in writing, the direction is not a legislative instrument.
-
-### Division 7—Other matters
-
-##### <a id="72P"></a>72P  Unauthorised entry etc. on defence premises or defence accommodation
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person enters or is on:
-
-                              (i)  defence premises; or
-
-                             (ii)  defence accommodation; and
-
-                     (b)  the person is not authorised to be on the premises or accommodation.
-
-                    Penalty:  50 penalty units.
-
-Note:          An offence under this section is a **_protective service offence_** for the purposes of the _Australian Federal Police Act 1979_.
-
-             (2)  A member of the Defence Force, a member or special member of the Australian Federal Police, a protective service officer or a member of the police force of a State or Territory may, without warrant, arrest any person if the member reasonably believes that the person has committed an offence against subsection (1).
-
-             (3)  Nothing in this section prevents the arrest of a person in accordance with any other law.
-
-##### <a id="72Q"></a>72Q  Certain information may be collected and provided to law enforcement agencies etc.
-
-             (1)  The Department, the Defence Force or a contracted security guard may, on defence premises, collect information, including personal information, by means of an optical surveillance device.
-
-             (2)  The Department or the Defence Force may disclose information collected under subsection (1) to one or more of the following persons or bodies, for the purposes of the performance of the functions of the person or body:
-
-                     (a)  an intelligence or security agency;
-
-                     (b)  the Australian Federal Police or the police force of a State or Territory;
-
-                     (c)  the Director of Public Prosecutions of the Commonwealth or a State or Territory.
-
-             (3)  A disclosure of personal information under subsection (2) is taken to be authorised by law for the purposes of Information Privacy Principle 11 in section 14 of the _Privacy Act 1988_.
-
-Note:          Paragraph 3 of Information Privacy Principle 11 in section 14 of the _Privacy Act 1988_ applies to further disclosures of the personal information.
-
-             (4)  This provision has effect despite any law of the Commonwealth or of a State or Territory.
-
-##### <a id="72R"></a>72R  Compensation for acquisition of property
-
-             (1)  If, apart from this section, the operation of this Part would result in the acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay reasonable compensation to the person.
-
-             (2)  If the Commonwealth and the person do not agree on the amount of the compensation, the person may apply to the Federal Court to determine a reasonable amount of compensation.
-
-             (3)  The jurisdiction of the Federal Court is exclusive of the jurisdiction of all other courts except that of the High Court.
-
-             (4)  In this section:
-
-                    <a name="just-term"></a><a name="acquisit-properti"></a>**_acquisition of property_** and **_just terms_** have the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-##### <a id="72S"></a>72S  Other powers not affected
-
-             (1)  This Part does not, by implication, limit the exercise of the powers, or the rights, of a defence security official, a member of the Defence Force or any other person:
-
-                     (a)  under this Act; or
-
-                     (b)  under any other law (including the common law); or
-
-                     (c)  otherwise in the performance of his or her duties as a defence security official, a member of the Defence Force or otherwise.
-
-             (2)  Without limiting subsection (1), this Part does not affect any right of an owner or occupier of premises to refuse to allow a person to enter, or remain on, the premises.
-
-             (3)  Without limiting subsection (1), this Part does not affect any right of a person to defend himself or herself or another person.
-
-## 2  Subsection 82(3)
-
-Repeal the subsection.
-
-## 3  Subsection 82(4)
-
-After “State”, insert “or Territory”.
-
-## 5  Subsection 51T(3)
-
-After “addition”, insert “to the relevant limitation in paragraph (2)(a), subparagraph (2A)(a)(i) or (ii) or paragraph (2B)(a), (b) or (c)”.
-
-As at 19 April 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -18636,7 +17644,7 @@ if the proceedings started on or after the starting day under:
 
 ##### <a id="18"></a>18  Referrals under the old SDA
 
-                   The amendments made by items 1, 2, 85, 86, 97, 100, 122, 123, 124 and 125 of Schedule 1 do not apply to a complaint lodged before the starting day under section 50A, 50C or 50E of the old SDA.
+                   The amendments made by items 1, 2, 85, 86, 97, 100, 122, 123, 124 and 125 of Schedule 1 do not apply to a complaint lodged before the starting day under section 50A, 50C or 50E of the old SDA.
 
 ##### <a id="19"></a>19  Inquiries started by Human Rights Commissioner
 
@@ -18652,7 +17660,7 @@ if the proceedings started on or after the starting day under:
 
 ##### <a id="21"></a>21  Regulations 
 
-             (1)  The Governor‑General may make regulations prescribing matters: 
+             (1)  The Governor-General may make regulations prescribing matters: 
 
                      (a)  required or permitted by this Act to be prescribed; or 
 
@@ -18689,7 +17697,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
 (1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
@@ -18703,7 +17711,7 @@ as if the amendment or repeal had not been made.
 
 (2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -18711,9 +17719,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -18775,7 +17783,7 @@ _Example: Assume that, immediately before the commencement of this item, regulat
 
                      (b)  a voluntary undertaking to render continuous full time service that a member gave before the commencement time.
 
-(2)       The _Defence (Re‑establishment) Act 1965_ continues to apply in relation to defence service covered by paragraph (1)(a) or (b), despite the repeal of that Act by this Schedule.
+(2)       The _Defence (Re-establishment) Act 1965_ continues to apply in relation to defence service covered by paragraph (1)(a) or (b), despite the repeal of that Act by this Schedule.
 
 ## Schedule 4
 
@@ -18849,9 +17857,9 @@ To avoid doubt:
 
 _Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004 (No. 58, 2004)_
 
-##### <a id="4"></a>4  Application of family law interest‑splitting amendments
+##### <a id="4"></a>4  Application of family law interest-splitting amendments
 
-             (1)  The family law interest‑splitting amendments apply to:
+             (1)  The family law interest-splitting amendments apply to:
 
                      (a)  any splitting agreement, or splitting order, that has an operative time after the commencement of Schedule 1; and
 
@@ -18859,7 +17867,7 @@ _Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004 (N
 
              (2)  In this section:
 
-                    <a name="famili-law-interest-split-amend"></a>**_family law interest‑splitting amendments_** means the amendments made by Schedule 1, other than items 24 and 34.
+                    <a name="famili-law-interest-split-amend"></a>**_family law interest-splitting amendments_** means the amendments made by Schedule 1, other than items 24 and 34.
 
 * * *
 
@@ -18867,11 +17875,11 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 ## Schedule 1
 
-## 212  Transitional—pre‑commencement deeds and compositions
+## 212  Transitional—pre-commencement deeds and compositions
 
-(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre‑commencement deed_**.
+(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
 
-(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre‑commencement composition_**.
+(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
 
 (3)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
@@ -18881,19 +17889,19 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement deed; and
+                     (c)  a pre-commencement deed; and
 
-                     (d)  a pre‑commencement composition; and
+                     (d)  a pre-commencement composition; and
 
                      (e)  any matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement deed; or
+                              (i)  a pre-commencement deed; or
 
-                             (ii)  a pre‑commencement composition;
+                             (ii)  a pre-commencement composition;
 
 as if those repeals had not happened and those amendments had not been made.
 
-## 213  Transitional—pre‑commencement authorities
+## 213  Transitional—pre-commencement authorities
 
 (1)       For the purposes of this item, if:
 
@@ -18907,7 +17915,7 @@ as if those repeals had not happened and those amendments had not been made.
 
                             (iii)  the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the _Bankruptcy Act 1966_;
 
-the authority is a **_pre‑commencement authority_**.
+the authority is a **_pre-commencement authority_**.
 
 (2)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
@@ -18917,11 +17925,11 @@ the authority is a **_pre‑commencement authority_**.
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement authority; and
+                     (c)  a pre-commencement authority; and
 
-                     (d)  the control of the debtor’s property following a pre‑commencement authority becoming effective; and
+                     (d)  the control of the debtor’s property following a pre-commencement authority becoming effective; and
 
-                     (e)  a meeting of the debtor’s creditors called under a pre‑commencement authority; and
+                     (e)  a meeting of the debtor’s creditors called under a pre-commencement authority; and
 
                       (f)  whichever of the following is applicable:
 
@@ -18933,7 +17941,7 @@ continue to apply, in relation to:
 
                      (g)  any other matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement authority; or
+                              (i)  a pre-commencement authority; or
 
                              (ii)  a deed of assignment mentioned in subparagraph (f)(i); or
 
@@ -18947,7 +17955,7 @@ as if those repeals had not happened and those amendments had not been made.
 
 (1)       The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
-(2)       The Governor‑General may make regulations for the purposes of subitem (1).
+(2)       The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -18965,7 +17973,7 @@ _Defence Legislation Amendment Act (No. 2) 2005 (No. 142, 2005)_
 
 ## 7  Transitional regulations
 
-The Governor‑General may make regulations in relation to transitional matters arising out of the amendments of the _Defence Act 1903_ made by this Schedule.
+The Governor-General may make regulations in relation to transitional matters arising out of the amendments of the _Defence Act 1903_ made by this Schedule.
 
 * * *
 
@@ -18978,7 +17986,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -19004,17 +18012,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -19082,7 +18090,7 @@ _Military Justice (Interim Measures) Act (No. 1) 2009 (No. 91, 2009)_
 
 ## 181  Saving provision
 
-An appointment by the Governor‑General that was in force, immediately before the commencement of item 180, under subsection 116C(2) of the _Defence Act 1903_ as then in force, continues to have effect after that commencement as if it were an appointment under subsection 116C(2) of that Act as in force after that commencement.
+An appointment by the Governor-General that was in force, immediately before the commencement of item 180, under subsection 116C(2) of the _Defence Act 1903_ as then in force, continues to have effect after that commencement as if it were an appointment under subsection 116C(2) of that Act as in force after that commencement.
 
 * * *
 
@@ -19144,7 +18152,7 @@ the new Tribunal must deal with the application or direction as if it had been p
 
 ## 5  Regulations dealing with transition from old Tribunal to new Tribunal
 
-(1)       The Governor‑General may make regulations dealing with matters of a transitional, saving or application nature relating to the transition from the old Tribunal to the new Tribunal.
+(1)       The Governor-General may make regulations dealing with matters of a transitional, saving or application nature relating to the transition from the old Tribunal to the new Tribunal.
 
 (2)       The provisions of this Part have effect subject to any such regulations.
 
@@ -19156,7 +18164,7 @@ The amendments made by this Schedule apply in relation to positive test results 
 
 ## Schedule 3
 
-## 5  Application of amendments
+## 5  Application of amendments
 
 The amendments made by this Schedule apply in relation to:
 
