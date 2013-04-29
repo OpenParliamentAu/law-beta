@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image001.gif)
 
 # National Health Act 1953
 
 **Act No. 95 of 1953 as amended**
 
-This compilation was prepared on 18 October 2012
+This compilation was prepared on 28 September 2012
  taking into account amendments up to Act No. 136 of 2012
 
 [**Note:** Subsections 90(3A), (3AA), (3AB), (3AC), (3AD), (3AE), (3AF) 
@@ -121,8 +121,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [84AJ](#84AJ).     When pharmaceutical benefits are Schedule equivalent
 
-[84AK](#84AK).    Quantities of pharmaceutical items
-
     **Division 1A—Safety net concession cards and pharmaceutical benefits entitlement cards**
 
 [84B](#84B).       Family relationships
@@ -157,8 +155,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [85](#85).          Pharmaceutical benefits
 
-[85AAA](#85AAA). Pharmaceutical benefits that can only be supplied under the prescriber bag provisions
-
 [85AA](#85AA).    Pharmaceutical benefits that can only be supplied under special arrangements
 
 [85A](#85A).       Determinations of forms of pharmaceutical benefits or pharmaceutical items with respect to classes of persons
@@ -170,10 +166,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [85AD](#85AD).    Price agreements
 
 [85B](#85B).       Price determinations and special patient contributions
-
-[85C](#85C).       Each brand of a pharmaceutical item is to have the same approved ex‑manufacturer price
-
-[85D](#85D).       Proportional ex‑manufacturer price
 
 [86](#86).          Entitlement to receive pharmaceutical benefits
 
@@ -221,11 +213,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [92B](#92B).       Persons not to enter into certain refund agreements
 
-[93](#93).          Prescriber bag supplies—medical practitioners
+[93](#93).          Supply of certain pharmaceutical benefits by medical practitioners
 
-[93AA](#93AA).    Prescriber bag supplies—authorised midwives
-
-[93AB](#93AB).    Prescriber bag supplies—authorised nurse practitioners
+[93AA](#93AA).    Supply of certain pharmaceutical benefits by authorised midwives and authorised nurse practitioners
 
 [93A](#93A).       Supply of certain pharmaceutical benefits to patients in private hospitals or aged care facilities
 
@@ -359,8 +349,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [99ADH](#99ADH). Price reduction based on information provided under the price disclosure requirements
 
-99ADHA Price reduction for brands listing after end of data collection 
- period
+[99ADJ](#99ADJ).  Minimum average 23% price reduction for some brands of pharmaceutical items
 
     **Division 3C—Guarantee of supply** 
 
@@ -396,7 +385,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
         **Subdivision G—Consequences for other brands**
 
-[99AEI](#99AEI).   Minister may increase approved ex‑manufacturer price if guaranteed brand delisted
+[99AEI](#99AEI).   Minister may increase approved price to pharmacists etc  if guaranteed brand delisted
 
 [99AEJ](#99AEJ).   Minister may determine drug is on F1 if guaranteed brand delisted
 
@@ -1149,12 +1138,6 @@ Note:          For strict liability, see section 6.1 of the 
 
                     <a name="applic-amount"></a>**_applicable amount_** has the meaning given by subsection 84BA(4).
 
-                    <a name="approved-ex-manufactur-price"></a>**_approved ex‑manufacturer price_** of a listed brand of a pharmaceutical item means:
-
-                     (a)  if a price agreement is in force in relation to the brand of the pharmaceutical item—the amount in force under the agreement as the amount that is, for the purposes of this Part, taken to be the appropriate maximum price of the brand of the pharmaceutical item; or
-
-                     (b)  if a price determination is in force in relation to the brand of the pharmaceutical item—the amount in force under the determination as the amount that is, for the purposes of this Part, taken to be the appropriate maximum price of the brand of the pharmaceutical item.
-
                     <a name="approved-hospit-author"></a>**_approved hospital authority_** means a hospital authority for the time being approved, or deemed to be approved, under section 94.
 
                     <a name="approved-mical-practition"></a>**_approved medical practitioner_** means a medical practitioner for the time being approved, or deemed to be approved, under section 92.
@@ -1164,6 +1147,8 @@ Note:          For strict liability, see section 6.1 of the 
                      (a)  a person treated as having been so approved under any provision of a law of the Commonwealth other than section 91; and
 
                      (b)  except so far as subsection 90(3) is concerned—a person treated as having been so approved under section 91.
+
+                    <a name="approved-price-pharmacist"></a>**_approved price to pharmacists_** has the meaning given by subsection 98B(3).
 
                     <a name="approved-supplier"></a>**_approved supplier_** means an approved pharmacist, an approved medical practitioner or an approved hospital authority.
 
@@ -1229,11 +1214,11 @@ Note:       See also section 16A of the _Acts Interpretation Act 1
 
                     <a name="commonwealth-price"></a>**_Commonwealth price_** means:
 
-                     (a)  in relation to a pharmaceutical benefit supplied by an approved pharmacist—the Commonwealth price for the particular quantity or number of units of the pharmaceutical benefit worked out in accordance with a determination in force under subsection 98B(1); or
+                     (a)  in relation to a pharmaceutical benefit supplied by an approved pharmacist—the Commonwealth price worked out in accordance with a determination in force under subsection 98B(1); or
 
-                     (b)  in relation to a pharmaceutical benefit supplied by an approved medical practitioner—the Commonwealth price for the particular quantity or number of units of the pharmaceutical benefit worked out in accordance with a determination in force under subsection 98C(1); or
+                     (b)  in relation to a pharmaceutical benefit supplied by an approved medical practitioner—the Commonwealth price worked out in accordance with a determination in force under subsection 98C(1); or
 
-                     (c)  in relation to a pharmaceutical benefit supplied by an approved hospital authority to a patient receiving treatment in or at a hospital in respect of which the authority is approved—the amount of the payment to which the authority is entitled under subsection 99(4) in respect of the supply of the particular quantity or number of units of the pharmaceutical benefit.
+                     (c)  in relation to a pharmaceutical benefit supplied by an approved hospital authority to a patient receiving treatment in or at a hospital in respect of which the authority is approved—the amount of the payment to which the authority is entitled under subsection 99(4) in respect of the supply of the benefit.
 
                     <a name="commun"></a>**_communicated_**, in relation to a prescription, means communicated directly or indirectly.
 
@@ -1280,8 +1265,6 @@ Note:       See also section 16A of the _Acts Interpretation Act 1
                     <a name="depend"></a>**_dependant_** has the meaning given by subsections (4) and (7).
 
                     <a name="determin-price"></a>**_determined price_** means the amount specified in a determination in force under subsection 85B(2).
-
-                    <a name="determin-quantiti"></a>**_determined quantity_** of a listed brand of a pharmaceutical item: see subsection 84AK(3).
 
                     <a name="drug-combin-item"></a>**_drug in a combination item_** means the drug referred to in paragraph 84AB(a) in the application of that paragraph to the pharmaceutical item that is the combination item.
 
@@ -1361,8 +1344,6 @@ Note:       See also section 16A of the _Acts Interpretation Act 1
 
                     <a name="patient-micat"></a>**_out‑patient medication_** means a drug or medicinal preparation supplied through the out‑patient department of a public hospital.
 
-                    <a name="pack-quantiti"></a>**_pack quantity_** of a listed brand of a pharmaceutical item: see subsection 84AK(2).
-
                     <a name="particip-dental-practition"></a>**_participating dental practitioner_** means a dental practitioner in relation to whom an approval is in force under section 84A.
 
                     <a name="pb-prescrib"></a>**_PBS prescriber_** means:
@@ -1393,21 +1374,9 @@ Note:       See also section 16A of the _Acts Interpretation Act 1
 
                     <a name="pharmaceut-item-drug"></a>**_pharmaceutical item has a drug_**: see subsection 84ABA(1).
 
-                    <a name="prescrib-bag-provision"></a>**_prescriber bag provisions_** means the following:
-
-                     (a)  section 93 (supplies by medical practitioners);
-
-                     (b)  section 93AA (supplies by authorised midwives);
-
-                     (c)  section 93AB (supplies by authorised nurse practitioners).
-
                     <a name="price-agreem"></a>**_price agreement_** means an agreement under section 85AD.
 
                     <a name="price-determin"></a>**_price determination_** means a determination under subsection 85B(2).
-
-                    <a name="price-quantiti"></a>**_pricing quantity_** of a listed brand of a pharmaceutical item: see subsection 84AK(1).
-
-                    <a name="proport-ex-manufactur-price"></a>**_proportional ex‑manufacturer price_** of a listed brand of a pharmaceutical item: see section 85D.
 
                     <a name="record-form"></a>**_record form_** means a pharmaceutical benefits prescription record form, or an out‑patient medication prescription record form, issued under section 84D.
 
@@ -1437,7 +1406,7 @@ Note:       See also section 16A of the _Acts Interpretation Act 1
 
                     <a name="special-number"></a>**_special number_**, in relation to a particular person who is included within a class of persons identified by the Minister in a determination under subsection 86E(1)—the particular combination of numbers, or letters and numbers, allocated in accordance with a procedure set out in that determination, that is applicable to that person as a person included in that class.
 
-                    <a name="special-patient-contribut"></a>**_special patient contribution_** has the meaning given by subsection 85B(5).
+                    <a name="special-patient-contribut"></a>**_special patient contribution_** has the meaning given by subsection 85B(4).
 
                     <a name="state-territori-offic"></a>**_State or Territory officer_** means:
 
@@ -2069,20 +2038,6 @@ Regulations
 
                    A pharmaceutical benefit (the **_first benefit_**) is **_Schedule equivalent_** to another pharmaceutical benefit (the **_second benefit_**) if the Schedule of Pharmaceutical Benefits referred to in paragraph 103(2A)(b) states that the first benefit and the second benefit are equivalent.
 
-##### <a id="84AK"></a>84AK  Quantities of pharmaceutical items
-
-Pricing quantity
-
-             (1)  The **_pricing quantity_** of a listed brand of a pharmaceutical item is the lowest of any pack quantity of any listed brand of the pharmaceutical item.
-
-Pack quantity
-
-             (2)  The Minister may, by legislative instrument, determine for a listed brand of a pharmaceutical item that one or more quantities or numbers of units of the pharmaceutical item is a **_pack quantity_** of the brand of the pharmaceutical item.
-
-Determined quantity
-
-             (3)  The Minister may, by legislative instrument, determine for a listed brand of a pharmaceutical item that one or more quantities or numbers of units of the pharmaceutical item is a **_determined quantity_** of the brand of the pharmaceutical item.
-
 ### Division 1A—Safety net concession cards and pharmaceutical benefits entitlement cards
 
 ##### <a id="84B"></a>84B  Family relationships
@@ -2255,11 +2210,11 @@ Note:          The figures expressed in this subsection in dol
 
           (4B)  A supply of out‑patient medication to a person is not to be taken into account for the purposes of this section if, at the time of the supply, the person is the holder of an entitlement card.
 
-             (7)  The Minister may determine, by legislative instrument, the manner in which the price for particular quantities or numbers of units of all or any pharmaceutical benefits and repatriation pharmaceutical benefits is to be ascertained for the purpose of this section.
+             (7)  The Minister may determine the manner in which the price for all or any pharmaceutical benefits and repatriation pharmaceutical benefits is to be ascertained for the purpose of this section.
 
              (8)  A manner determined under subsection (7) shall:
 
-                     (a)  in the case of a pharmaceutical benefit that is a listed brand of a pharmaceutical item—take as a basis the approved ex‑manufacturer price or a proportional ex‑manufacturer price of the brand of the pharmaceutical item that was in force on the first day of the month of the year in which the supply occurs; and
+                     (a)  in the case of a pharmaceutical benefit that is a listed brand of a pharmaceutical item—take as a basis the approved price to pharmacists of the brand of the pharmaceutical item that was in force on the first day of the month of the year in which the supply occurs; and
 
                      (b)  in the case of other pharmaceutical benefits and repatriation pharmaceutical benefits—take as a basis the basic wholesale price of each ingredient that is applicable on the day on which the supply occurs; and
 
@@ -2268,6 +2223,12 @@ Note:          The figures expressed in this subsection in dol
                      (d)  provide for the addition of such other fees and other amounts as are determined by the Minister.
 
              (9)  The Minister shall not determine an amount for the purpose of paragraph (8)(d) unless the Pharmacy Guild of Australia has agreed in writing to the making of that determination.
+
+           (10)  A determination under subsection (7) shall:
+
+                     (a)  be made by notice in writing published in the _Gazette_; and
+
+                     (b)  come into operation on such date as is specified in the determination.
 
            (11)  In this section, unless the contrary intention appears:
 
@@ -2539,7 +2500,7 @@ Pharmaceutical benefits
 
              (1)  Benefits shall be provided by the Commonwealth, in accordance with this Part, in respect of pharmaceutical benefits.
 
-Note 1:       While most pharmaceutical benefits are generally available for supply under this Part, some pharmaceutical benefits (see sections 85AAA and 85AA) can only be supplied under this Part under the prescriber bag provisions or in accordance with special arrangements under section 100.
+Note 1:       While most pharmaceutical benefits are generally available for supply under this Part, some pharmaceutical benefits (see section 85AA) can only be supplied under this Part in accordance with special arrangements under section 100.
 
 Note 2:       Special arrangements under section 100 can modify the effect of this Part in relation to the supply of pharmaceutical benefits that are covered by the arrangements (see subsection 100(3)).
 
@@ -2562,18 +2523,6 @@ Drugs etc.
 Note 1:       The Minister cannot make a declaration under this subsection in relation to a drug or medicinal preparation unless the Pharmaceutical Benefits Advisory Committee has recommended that the drug or medicinal preparation be declared (see subsections 101(4) and (4A)).
 
 Note 2:       If the Minister makes a declaration in relation to a drug or medicinal preparation under this subsection, the Minister cannot vary or revoke that declaration so as to delist the drug or medicinal preparation without first obtaining the Pharmaceutical Benefits Advisory Committee’s advice (see subsection 101(4AAB)).
-
-Drugs etc. that can only be supplied under the prescriber bag provisions
-
-       (2AA)  If:
-
-                     (a)  the Minister makes a declaration under subsection (2) in relation to a drug or medicinal preparation (the **_drug_**); and
-
-                     (b)  the Pharmaceutical Benefits Advisory Committee has recommended under subsection 101(4AACA) that the drug be supplied only under one or more of the prescriber bag provisions;
-
-then the Minister must, by legislative instrument, declare that the drug can only be supplied under that provision or those provisions.
-
-Note:          If the Minister makes a declaration in relation to a drug or medicinal preparation under this subsection, the Minister cannot vary or revoke that declaration without first satisfying the conditions set out in subsection 101(4AACC).
 
 Drugs etc. that can only be supplied under special arrangements
 
@@ -2609,10 +2558,6 @@ Prescriptions of pharmaceutical benefits in certain circumstances
 
                      (b)  the circumstances in which a prescription for the supply of the pharmaceutical benefit may be written.
 
-Pharmaceutical benefits that can only be supplied under the prescriber bag provisions
-
-          (7A)  The Minister may, by legislative instrument, determine that a particular pharmaceutical benefit can only be supplied under one or more of the prescriber bag provisions.
-
 Pharmaceutical benefits that can only be supplied under special arrangements
 
              (8)  The Minister may, by legislative instrument, determine that:
@@ -2620,20 +2565,6 @@ Pharmaceutical benefits that can only be supplied under special arrangements
                      (a)  a particular pharmaceutical benefit (other than a pharmaceutical benefit that has a drug covered by subsection (2A)) can only be supplied under special arrangements under section 100; or
 
                      (b)  one or more of the circumstances in which a prescription for the supply of a pharmaceutical benefit may be written under paragraph (7)(b) are circumstances in which the benefit can only be supplied under special arrangements under section 100.
-
-##### <a id="85AAA"></a>85AAA  Pharmaceutical benefits that can only be supplied under the prescriber bag provisions
-
-             (1)  If the Minister makes a declaration under subsection 85(2AA) in relation to a drug or medicinal preparation (the **_drug_**) declaring that the drug can only be supplied under one or more of the prescriber bag provisions, then every pharmaceutical benefit that has that drug can only be supplied under this Part under that provision or those provisions.
-
-             (2)  If the Minister makes a determination under subsection 85(7A) that a particular pharmaceutical benefit can only be supplied under one or more of the prescriber bag provisions, then that pharmaceutical benefit can only be supplied under this Part under that provision or those provisions.
-
-             (3)  Despite subsections (1) and (2), if:
-
-                     (a)  the Minister makes a declaration under subsection 85(2AA) declaring that a drug or medicinal preparation (the **_drug_**) can only be supplied under one or more (but not all) of the prescriber bag provisions (the **_drug prescriber bag provision_**); and
-
-                     (b)  the Minister makes a determination under subsection 85(7A) determining that a pharmaceutical benefit that has the drug can only be supplied under a different prescriber bag provision or different prescriber bag provisions (the **_pharmaceutical benefit prescriber bag provision_**);
-
-then the pharmaceutical benefit can only be supplied under this Part under the drug prescriber bag provision and the pharmaceutical benefit prescriber bag provision.
 
 ##### <a id="85AA"></a>85AA  Pharmaceutical benefits that can only be supplied under special arrangements
 
@@ -2737,67 +2668,47 @@ Note:          For other circumstances in which the Minister m
 
 ##### <a id="85AD"></a>85AD  Price agreements
 
-             (1)  The Minister and the responsible person for a listed brand of a pharmaceutical item may, from time to time, agree, by reference to the pricing quantity of the brand of the pharmaceutical item, an amount that is, for the purposes of this Part, taken to be the appropriate maximum price of the brand of the pharmaceutical item.
+             (1)  The Minister and the responsible person for a listed brand of a pharmaceutical item may, from time to time, agree, by reference to a quantity or number of units of the pharmaceutical item, an amount that is, for the purposes of this Part, taken to be the appropriate maximum price for sales of the brand of the pharmaceutical item to approved pharmacists.
 
-Note:          Section 85C and Division 3A limit the Minister’s power to agree to amounts for the purposes of subsection (1).
+Note:          Division 3A limits the Minister’s power to agree to amounts for the purposes of subsection (1).
 
              (2)  It does not matter that at the time the agreement is made:
 
                      (a)  the person is not yet the responsible person; or
 
-                     (b)  the item is not yet a pharmaceutical item; or
+                     (b)  the item is not yet a pharmaceutical item.
 
-                     (c)  the quantity or number of units of the item is not yet a pricing quantity; or
-
-                     (d)  the brand is not yet a listed brand.
-
-However, those matters must be satisfied at the time the amount referred to in subsection (1) comes into force.
+However, the person must be the responsible person, and the item must be the pharmaceutical item, at the time the amount referred to in subsection (1) comes into force.
 
              (3)  The agreement must be in writing.
 
 ##### <a id="85B"></a>85B  Price determinations and special patient contributions
 
-Application
+Section applies if no price agreement
 
-             (1)  This section applies to a listed brand of a pharmaceutical item.
+             (1)  This section applies if the Minister and the responsible person for a listed brand of a pharmaceutical item have been unable to make a price agreement for the brand of the pharmaceutical item.
 
 Price determination
 
-             (2)  If the Minister and the responsible person have been unable to make a price agreement for the brand of the pharmaceutical item, then the Minister may, by legislative instrument, determine, by reference to the pricing quantity of the listed brand of a pharmaceutical item, an amount that is, for the purposes of this Part, taken to be the appropriate maximum price of the brand of the pharmaceutical item.
+             (2)  The Minister may, by legislative instrument, determine, by reference to a quantity or number of units of the pharmaceutical item, the amount that is, for the purposes of this Part, taken to be the appropriate maximum price for sales of the brand of the pharmaceutical item to approved pharmacists.
 
-Note:          Section 85C and Division 3A limit the Minister’s power to determine amounts under subsection (2).
+Note:          Division 3A limits the Minister’s power to determine amounts under subsection (2).
 
 Claimed price determination
 
-             (3)  The Minister may, by legislative instrument, determine, by reference to a pack quantity of the listed brand of the pharmaceutical item, an amount that is, for the purposes of this Part, taken to be the price of the brand of the pharmaceutical item claimed by the responsible person for that quantity.
+             (3)  The Minister may, by legislative instrument, determine, by reference to a quantity or number of units of the pharmaceutical item, the amount that is, for the purposes of this Part, taken to be the price claimed by the responsible person as the responsible person’s price for sales of the brand of the pharmaceutical item to approved pharmacists.
 
 Special patient contribution
 
-             (4)  If the Minister makes a determination under subsection (3), then the Minister may, by legislative instrument, determine the circumstances in which the Commonwealth is to pay the special patient contribution for the brand of the pharmaceutical item.
+             (4)  The amount that is the **_special patient contribution_** for the brand of the pharmaceutical item is the difference between the responsible person’s Commonwealth price for the brand of the pharmaceutical item and the Commonwealth price for the brand of the pharmaceutical item.
 
-             (5)  The **_special patient contribution_** for a quantity or number of units of a listed brand of a pharmaceutical item is the amount that is the difference between:
+             (5)  If the Minister makes a determination under subsection (3), the Minister may, by legislative instrument, determine the circumstances in which the Commonwealth is to pay the special patient contribution for the brand of the pharmaceutical item.
 
-                     (a)  the price that would have been the Commonwealth price for that quantity or number of units of the brand of the pharmaceutical item if that Commonwealth price had been based on the claimed price for that quantity or number of units; and
+             (6)  In this section:
 
-                     (b)  the Commonwealth price for that quantity or number of units of the brand of the pharmaceutical item.
+                    <a name="commonwealth-price"></a>**_Commonwealth price_** means the Commonwealth price in relation to the brand of the pharmaceutical item.
 
-##### <a id="85C"></a>85C  Each brand of a pharmaceutical item is to have the same approved ex‑manufacturer price
-
-                   If there are 2 or more listed brands of a pharmaceutical item, then the Minister must ensure, when agreeing an amount under subsection 85AD(1) or determining an amount under subsection 85B(2), that the approved ex‑manufacturer price of each listed brand of the pharmaceutical item is the same.
-
-##### <a id="85D"></a>85D  Proportional ex‑manufacturer price
-
-                   The **_proportional ex‑manufacturer price_** for a pack quantity (other than the pricing quantity) of a listed brand of a pharmaceutical item on a day is the amount worked out as follows:
-
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image002.gif)
-
-where:
-
-                    <a name="aemp"></a>**_AEMP_** means the approved ex‑manufacturer price of the brand of the pharmaceutical item in force on that day.
-
-                    <a name="pkq"></a>**_PkQ_** means the pack quantity of the brand of the pharmaceutical item on that day.
-
-                    <a name="pq"></a>**_PQ_** means the pricing quantity of the brand of the pharmaceutical item on that day.
+                    <a name="respons-person-commonwealth-price"></a>**_responsible person’s Commonwealth price_** means the price that would have been the Commonwealth price in relation to the brand of the pharmaceutical item if that Commonwealth price had been based on the price determined by the Minister under subsection (3) to be the price claimed by the responsible person as the responsible person’s price for sales of the brand of the pharmaceutical item.
 
 ##### <a id="86"></a>86  Entitlement to receive pharmaceutical benefits
 
@@ -3179,7 +3090,7 @@ Note:          The figures expressed in this subsection in dol
 
                      (e)  any amount charged in respect of an early supply of a specified pharmaceutical benefit (other than a supply of out‑patient medication) is to be disregarded.
 
-          (2A)  In addition to any amount that may be charged in accordance with subsection (2), an approved pharmacist or an approved medical practitioner acting in accordance with his or her approval may, in respect of each supply (including each repeated supply) of a pharmaceutical benefit that is a listed brand of a pharmaceutical item and in relation to which a determination under subsection 85B(3) is in force, charge the person to whom it is supplied an amount equal to the special patient contribution for the brand of the pharmaceutical item, unless the approved pharmacist or approved medical practitioner is entitled to be paid by the Commonwealth that special patient contribution under subsection 99(2AA).
+          (2A)  In addition to any amount that may be charged in accordance with subsection (2), an approved pharmacist or an approved medical practitioner acting in accordance with his or her approval may, in respect of each supply (including each repeated supply) of a pharmaceutical benefit that is a listed brand of a pharmaceutical item and in relation to which a determination under section 85B is in force, charge the person to whom it is supplied an amount equal to the special patient contribution for the brand of the pharmaceutical item, unless the approved pharmacist or approved medical practitioner is entitled to be paid by the Commonwealth that special patient contribution under subsection 99(2AA).
 
              (3)  Where an approved pharmacist or an approved medical practitioner supplies a pharmaceutical benefit in accordance with a direction included in a prescription in pursuance of subsection 88(6) or (6A), the amount chargeable in accordance with subsection (2), of this section is, in lieu of whichever of the amounts referred to in subsection (2), of this section is applicable, an amount equal to the product of that applicable amount and the minimum number of occasions of supply that would have had to be directed if the medical practitioner, authorised midwife or authorised nurse practitioner had prescribed the same total quantity or number of units of the pharmaceutical benefit by way of repeated supplies.
 
@@ -3437,7 +3348,7 @@ PBS prescriber responsible for storage and security
 
 Note:       Sometimes the person will still be entitled to receive the pharmaceutical benefit if the pharmacist is approved later. See subsection 99(3B).
 
-                     (b)  in accordance with the provisions of section 89A, section 92, section 93, section 93AA, section 93AB, section 93A or section 94.
+                     (b)  in accordance with the provisions of section 89A, section 92, section 93, section 93AA, section 93A or section 94.
 
 ##### <a id="89A"></a>89A  When pharmaceutical benefits may be supplied by approved pharmacists without prescription
 
@@ -3839,31 +3750,23 @@ the Secretary must, by notice in writing given to the person granted that permis
 
              (2)  This section does not prevent a private health insurer from entering into a complying health insurance policy under which the insurer covers the cost of pharmaceutical benefits dispensed to a person as part of an episode of hospital treatment or hospital‑substitute treatment covered by the policy.
 
-##### <a id="93"></a>93  Prescriber bag supplies—medical practitioners
+##### <a id="93"></a>93  Supply of certain pharmaceutical benefits by medical practitioners
 
-             (1)  Except as prescribed, a medical practitioner is authorized to supply such pharmaceutical benefits as the Minister, by legislative instrument, determines to persons who are entitled under this Part to receive those pharmaceutical benefits.
+             (1)  Except as prescribed, a medical practitioner is authorized to supply such pharmaceutical benefits as the Minister determines to persons who are entitled under this Part to receive those pharmaceutical benefits.
 
-             (2)  For the purpose of this section, the Minister may, by legislative instrument, determine the maximum quantity or number of units of a pharmaceutical benefit which may be obtained by a medical practitioner during a specified period and a medical practitioner shall obtain the pharmaceutical benefit as prescribed.
+             (2)  For the purpose of this section, the Minister may determine the maximum quantity or number of units of a pharmaceutical benefit which may be obtained by a medical practitioner during a specified period and a medical practitioner shall obtain the pharmaceutical benefit as prescribed.
+
+          (2A)  A copy of each determination made by the Minister in pursuance of this section shall be published in the _Gazette_.
 
              (3)  Payment by the Commonwealth in respect of the supply of pharmaceutical benefits under this section shall be made as prescribed.
 
-##### <a id="93AA"></a>93AA  Prescriber bag supplies—authorised midwives
+##### <a id="93AA"></a>93AA  Supply of certain pharmaceutical benefits by authorised midwives and authorised nurse practitioners
 
-             (1)  Except as prescribed by the regulations, an authorised midwife is authorised to supply such pharmaceutical benefits as the Minister, by legislative instrument, determines to persons who are entitled under this Part to receive those pharmaceutical benefits.
+             (1)  Except as prescribed by the regulations, an authorised midwife or an authorised nurse practitioner is authorised to supply such pharmaceutical benefits as the Minister, by legislative instrument, determines to persons who are entitled under this Part to receive those pharmaceutical benefits.
 
-             (2)  For the purposes of this section, the Minister may, by legislative instrument, determine the maximum quantity or number of units of a pharmaceutical benefit which may be obtained by an authorised midwife during a specified period.
+             (2)  For the purposes of this section, the Minister may, by legislative instrument, determine the maximum quantity or number of units of a pharmaceutical benefit which may be obtained by an authorised midwife or an authorised nurse practitioner during a specified period.
 
-             (3)  The regulations may make provision for or in relation to the obtaining of pharmaceutical benefits by an authorised midwife for the purposes of this section.
-
-             (4)  The regulations may make provision for or in relation to payments by the Commonwealth in respect of the supply of pharmaceutical benefits under this section.
-
-##### <a id="93AB"></a>93AB  Prescriber bag supplies—authorised nurse practitioners
-
-             (1)  Except as prescribed by the regulations, an authorised nurse practitioner is authorised to supply such pharmaceutical benefits as the Minister, by legislative instrument, determines to persons who are entitled under this Part to receive those pharmaceutical benefits.
-
-             (2)  For the purposes of this section, the Minister may, by legislative instrument, determine the maximum quantity or number of units of a pharmaceutical benefit which may be obtained by an authorised nurse practitioner during a specified period.
-
-             (3)  The regulations may make provision for or in relation to the obtaining of pharmaceutical benefits by an authorised nurse practitioner for the purposes of this section.
+             (3)  The regulations may make provision for or in relation to the obtaining of pharmaceutical benefits by an authorised midwife or an authorised nurse practitioner for the purposes of this section.
 
              (4)  The regulations may make provision for or in relation to payments by the Commonwealth in respect of the supply of pharmaceutical benefits under this section.
 
@@ -3915,7 +3818,7 @@ Note:          Subsection 33(3A) of the _Acts Interpretation A
 
           (5B)  A suspension under subsection (5A) has effect for such period as the Minister determines and specifies in the notice of suspension.
 
-##### <a id="95"></a>95  Suspension or revocation of approval
+##### <a id="95"></a>95  Suspension or revocation of approval
 
              (1)  The Minister may, after investigation and report by the appropriate Committee of Inquiry, by notice in writing:
 
@@ -4055,19 +3958,25 @@ the Secretary is taken, immediately after the commencement of section 20 of th
 
              (1)  The functions of the Tribunal are:
 
-                     (a)  to determine the manner in which the Commonwealth price for particular quantities or numbers of units of all or any pharmaceutical benefits is to be worked out for the purpose of payments to approved pharmacists in respect to the supply by them of pharmaceutical benefits; and
+                     (a)  to determine the manner in which the Commonwealth price of all or any pharmaceutical benefits is to be worked out for the purpose of payments to approved pharmacists in respect to the supply by them of pharmaceutical benefits; and
 
                      (c)  if an agreement referred to in section 98BAA provides for the Tribunal to perform functions under the agreement—those functions.
 
              (2)  A manner determined under paragraph (1)(a) shall:
 
-                     (a)  in the case of a pharmaceutical benefit that is a listed brand of a pharmaceutical item—take as a basis the approved ex‑manufacturer price or a proportional ex‑manufacturer price of the brand of the pharmaceutical item that was in force on the first day of the month of the year in which the supply occurs; and
+                     (a)  in the case of a pharmaceutical benefit that is a listed brand of a pharmaceutical item—take as a basis the approved price to pharmacists of the brand of the pharmaceutical item that was in force on the first day of the month of the year in which the supply occurs; and
 
                      (b)  in the case of other pharmaceutical benefits—take as a basis the basic wholesale price of each ingredient that is applicable on the day on which the supply occurs; and
 
                      (c)  provide for the addition of such fees and other amounts as are determined by the Tribunal.
 
              (3)  In subsection (2):
+
+                    <a name="approved-price-pharmacist"></a>**_approved price to pharmacists_** of a listed brand of a pharmaceutical item means:
+
+                     (a)  if a price agreement is in force in relation to the brand of the pharmaceutical item—the amount in force under the agreement as the amount that is, for the purposes of this Part, taken to be the appropriate maximum price for sales of the brand of the pharmaceutical item to approved pharmacists; or
+
+                     (b)  if a price determination is in force in relation to the brand of the pharmaceutical item—the amount in force under the determination as the amount that is, for the purposes of this Part, taken to be the appropriate maximum price for sales of the brand of the pharmaceutical item to approved pharmacists.
 
                     <a name="basic-wholesal-price"></a>**_basic wholesale price_** in relation to an ingredient in a pharmaceutical benefit, means the amount that The Pharmacy Guild of Australia and the Minister agree from time to time is to be taken to be, for the purposes of this Part, the appropriate price for sales of that ingredient to approved pharmacists.
 
@@ -4163,7 +4072,7 @@ the Tribunal shall issue, in a proceeding conducted in public, a statement, in w
 
              (1)  The Minister may, from time to time, determine:
 
-                     (a)  the manner in which the Commonwealth price for particular quantities or numbers of units of all or any pharmaceutical benefits is to be ascertained for the purpose of payments to approved medical practitioners in respect of the supply of pharmaceutical benefits, including any fees or other amounts that are to be taken into account in determining that price; and
+                     (a)  the manner in which the Commonwealth price of all or any pharmaceutical benefits is to be ascertained for the purpose of payments to approved medical practitioners in respect of the supply of pharmaceutical benefits, including any fees or other amounts that are to be taken into account in determining that price; and
 
                      (b)  the conditions subject to which payments will be made by the Commonwealth in respect of the supply of pharmaceutical benefits by approved pharmacists and approved medical practitioners.
 
@@ -4199,7 +4108,7 @@ the Tribunal shall issue, in a proceeding conducted in public, a statement, in w
 
                      (a)  an approved pharmacist or approved medical practitioner is entitled to be paid an amount by the Commonwealth under subsection (2) in relation to the supply of a pharmaceutical benefit; and
 
-                     (b)  a determination under subsection 85B(4) is in force in relation to a listed brand of a pharmaceutical item that is the pharmaceutical benefit; and
+                     (b)  a determination under subsection 85B(5) is in force in relation to a listed brand of a pharmaceutical item that is the pharmaceutical benefit; and
 
                      (c)  the brand of the pharmaceutical item was supplied in the circumstances specified in that determination;
 
@@ -4277,7 +4186,7 @@ then, because of the later approval:
 
           (3B)  The pre‑approval benefit is taken to have been supplied in accordance with subparagraph 84C(4)(a)(i) and paragraph 89(a) if, under subsection (3A) of this section, the pharmacist is entitled to an amount in respect of the supply.
 
-             (4)  An approved hospital authority is, subject to this Part, entitled to payment from the Commonwealth, at such rates and subject to such conditions as the Minister determines, in respect of the supply of particular quantities or numbers of units of pharmaceutical benefits to patients receiving treatment in or at a hospital in respect of which the approved hospital authority is approved.
+             (4)  An approved hospital authority is, subject to this Part, entitled to payment from the Commonwealth, at such rates and subject to such conditions as the Minister determines, in respect of the supply of pharmaceutical benefits to patients receiving treatment in or at a hospital in respect of which the approved hospital authority is approved.
 
              (5)  A payment to which an approved hospital authority in a State is entitled under this section may be paid to that State, or to an authority of that State, on behalf of the approved hospital authority.
 
@@ -4585,21 +4494,17 @@ Note:          For the purposes of subparagraph (a)(i), subs
 
                      (b)  must not make a determination under section 85B in relation to the new brand of the trigger item.
 
-             (5)  Subject to subsection (6), the agreed price for the new brand of the trigger item that comes into force on the determination day must not exceed the approved ex‑manufacturer price, on the day before the determination day, of the existing brand of the existing item, reduced by 16%.
+             (5)  Subject to subsection (6), the agreed price for the new brand of the trigger item that comes into force on the determination day must not exceed the approved price to pharmacists, on the day before the determination day, of the existing brand of the existing item, reduced by 16%.
 
-Apportioning if pricing quantity changes
+Apportioning if quantities different
 
-             (6)  If the pricing quantity of the existing brand of the existing item on the day before the determination day is different from the pricing quantity of the existing brand of the existing item on the determination day, then, for the purposes of subsection (5), the approved ex‑manufacturer price of the existing brand of the existing item on the day before the determination day is taken to be the amount worked out as follows:
+             (6)  If:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image003.gif)
+                     (a)  the approved price to pharmacists, on the day before the determination day, of the existing brand of the existing item is for a particular quantity or number of units of that item; and
 
-where:
+                     (b)  the agreed price for the new brand of the trigger item is not for the same quantity or number of units;
 
-                    <a name="aemp1"></a>**_AEMP1_** means the amount that was the approved ex‑manufacturer price of the existing brand of the existing item on the day before the determination day.
-
-                    <a name="pq1"></a>**_PQ1_** means the pricing quantity of the existing brand of the existing item on the day before the determination day.
-
-                    <a name="pq2"></a>**_PQ2_** means the pricing quantity of the existing brand of the existing item on the determination day.
+then, for the purposes of subsection (4), the approved price to pharmacists of the existing brand of the existing item is taken to be adjusted proportionally to what it would have been if the quantity or number of units of the existing brand of the existing item had been the same as the quantity or number of units of the new brand of the trigger item.
 
 Section does not limit Minister’s powers
 
@@ -4661,13 +4566,13 @@ then, in agreeing the new price of the single brand of the combination item, the
 
                      (d)  must take into account, in relation to the listed component drug, or each listed component drug, that became subject to statutory price reduction:
 
-                              (i)  the approved ex‑manufacturer price, on the reduction day, of each brand of a pharmaceutical item that has the drug that is the listed component drug; and
+                              (i)  the approved price to pharmacists, on the reduction day, of each brand of a pharmaceutical item that has the drug that is the listed component drug; and
 
                              (ii)  the quantity of the listed component drug contained in the combination item.
 
           (4B)  If subsection (4) does not apply, then, in agreeing the new price of the single brand of the combination item, the Minister must take into account, in relation to the listed component drug, or each listed component drug, that became subject to statutory price reduction:
 
-                     (a)  the approved ex‑manufacturer price, on the reduction day, of each brand of a pharmaceutical item that has the drug that is the listed component drug; and
+                     (a)  the approved price to pharmacists, on the reduction day, of each brand of a pharmaceutical item that has the drug that is the listed component drug; and
 
                      (b)  the quantity of the listed component drug contained in the combination item.
 
@@ -4751,7 +4656,7 @@ Note:          For the purposes of this subsection, subsection
 
                      (b)  must not make a determination under section 85B for the new brand of the trigger combination item.
 
-             (5)  Subject to subsections (6), (6A), (6B) and (7), the agreed price of the new brand of the trigger combination item must not exceed the approved ex‑manufacturer price, on the day before the determination day, of the existing brand of the existing item, reduced by 16%.
+             (5)  Subject to subsections (6), (6A), (6B) and (7), the agreed price of the new brand of the trigger combination item must not exceed the approved price to pharmacists, on the day before the determination day, of the existing brand of the existing item, reduced by 16%.
 
 Adjustment for prior price reductions to component drugs
 
@@ -4763,11 +4668,11 @@ Adjustment for prior price reductions to component drugs
 
                              (ii)  a 16% price reduction; and
 
-                     (b)  because of the prior price reduction of the component, the approved ex‑manufacturer price of the existing brand of the existing item was reduced;
+                     (b)  because of the prior price reduction of the component, the approved price to pharmacists of the existing brand of the existing item was reduced;
 
 then the reduction referred to in subsection (5) is to be adjusted to reflect:
 
-                     (c)  the percentage (the **_flowed‑on percentage_**) of the prior price reduction of the component that was taken into account in working out the amount of the reduction to the approved ex‑manufacturer price of the existing brand of the existing item; and
+                     (c)  the percentage (the **_flowed‑on percentage_**) of the prior price reduction of the component that was taken into account in working out the amount of the reduction to the approved price to pharmacists of the existing brand of the existing item; and
 
                      (d)  the quantity of the component contained in the drug in the existing item.
 
@@ -4787,21 +4692,17 @@ then the reduction referred to in subsection (5) is to be adjusted so that the
 
 then the reduction referred to in subsection (5) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image002.gif)
 
-Apportioning if pricing quantity changes
+Apportioning if quantities different
 
-             (7)  If the pricing quantity of the existing brand of the existing item on the day before the determination day is different from the pricing quantity of the existing brand of the existing item on the determination day, then, for the purposes of subsection (5), the approved ex‑manufacturer price of the existing brand of the existing item on the day before the determination day is taken to be the amount worked out as follows:
+             (7)  If:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image003.gif)
+                     (a)  the approved price to pharmacists, on the day before the determination day, of the existing brand of the existing item is for a particular quantity or number of units of that item; and
 
-where:
+                     (b)  the agreed price for the new brand of the trigger combination item is not for the same quantity or number of units;
 
-                    <a name="aemp1"></a>**_AEMP1_** means the amount that was the approved ex‑manufacturer price of the existing brand of the existing item on the day before the determination day.
-
-                    <a name="pq1"></a>**_PQ1_** means the pricing quantity of the existing brand of the existing item on the day before the determination day.
-
-                    <a name="pq2"></a>**_PQ2_** means the pricing quantity of the existing brand of the existing item on the determination day.
+then, for the purposes of subsection (4), the approved price to pharmacists of the existing brand of the existing item is taken to be adjusted proportionally to what it would have been if the quantity or number of units of the existing brand of the existing item had been the same as the quantity or number of units of the new brand of the new trigger item.
 
 Section does not limit Minister’s powers
 
@@ -4837,7 +4738,7 @@ Note:          For the purposes of paragraph (c), the new br
 
 16% price reduction
 
-             (2)  The approved ex‑manufacturer price of the related brand of the related item ceases to be in force at the end of the day before the reduction day. Each claimed price (if any) for the related brand of the related item ceases to be in force at the end of the day before the reduction day.
+             (2)  The approved price to pharmacists of the related brand of the related item ceases to be in force at the end of the day before the reduction day. The claimed price (if any) for the related brand of the related item ceases to be in force at the end of the day before the reduction day.
 
              (3)  If a price agreement was in force on the day before the reduction day for the related brand of the related item, the Minister may:
 
@@ -4845,47 +4746,27 @@ Note:          For the purposes of paragraph (c), the new br
 
                               (i)  comes into force on the reduction day; and
 
-                             (ii)  subject to subsections (4B), (5), (5A) and (5B), does not exceed the approved ex‑manufacturer price in force, on the day before that day, for the related brand of the related item, reduced by 16%; or
+                             (ii)  subject to subsections (5), (5A) and (5B), does not exceed the agreed price in force, on the day before that day, for the related brand of the related item, reduced by 16%; or
 
-                     (b)  in a price determination, specify a determined price for the related brand of the related item that:
-
-                              (i)  comes into force on the reduction day; and
-
-                             (ii)  subject to subsections (4B), (5), (5A) and (5B), does not exceed the approved ex‑manufacturer price in force, on the day before that day, for the related brand of the related item, reduced by 16%.
-
-             (4)  If a price determination was in force for the related brand of the related item on the day before the reduction day, the Minister may:
-
-                     (a)  in a price determination, specify a determined price for the related brand of the related item that:
+                     (b)  in a determination under section 85B for the related brand of the related item, specify a determined price that:
 
                               (i)  comes into force on the reduction day; and
 
-                             (ii)  subject to subsections (4B), (5), (5A) and (5B), does not exceed the approved ex‑manufacturer price in force, on the day before that day, for the related brand of the related item, reduced by 16%; or
+                             (ii)  subject to subsections (5), (5A) and (5B), does not exceed the agreed price in force, on the day before that day, for the related brand of the related item, reduced by 16%.
 
-                     (b)  in a price agreement, specify an agreed price for the related brand of the related item that:
+             (4)  If a determination under section 85B was in force for the related brand of a related item on the day before the reduction day, the Minister may:
+
+                     (a)  in a determination under section 85B for the related brand of the related item, specify a determined price and a claimed price for the related brand of the related item that:
+
+                              (i)  come into force on the reduction day; and
+
+                             (ii)  subject to subsections (5), (5A) and (5B), do not exceed those respective prices in force on the day before that day, reduced by 16%; or
+
+                     (b)  in a price agreement for the related brand of the related item, specify an agreed price for the related brand of the related item that:
 
                               (i)  comes into force on the reduction day; and
 
-                             (ii)  subject to subsections (4B), (5), (5A) and (5B), does not exceed the approved ex‑manufacturer price in force, on the day before that day, for the related brand of the related item, reduced by 16%.
-
-          (4A)  If a determination under subsection 85B(3) was in force for a particular pack quantity of the related brand of the related item on the day before the reduction day, the Minister may, in a determination under subsection 85B(3), specify a claimed price for that pack quantity of the related brand of the related item that:
-
-                     (a)  comes into force on the reduction day; and
-
-                     (b)  subject to subsections (5), (5A) and (5B), does not exceed the claimed price in force for that pack quantity of the related brand of the related item on the day before that day, reduced by 16%.
-
-Apportioning if pricing quantity changes
-
-          (4B)  If the pricing quantity of the related brand of the related item on the day before the reduction day is different from the pricing quantity of the related brand of the related item on the reduction day, then, for the purposes of subparagraphs (3)(a)(ii), (3)(b)(ii), (4)(a)(ii) and (4)(b)(ii), the approved ex‑manufacturer price of the related brand of the related item on the day before the reduction day is taken to be the amount worked out as follows:
-
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image003.gif)
-
-where:
-
-                    <a name="aemp1"></a>**_AEMP1_** means the amount that was the approved ex‑manufacturer price of the related brand of the related item on the day before the reduction day.
-
-                    <a name="pq1"></a>**_PQ1_** means the pricing quantity of the related brand of the related item on the day before the reduction day.
-
-                    <a name="pq2"></a>**_PQ2_** means the pricing quantity of the related brand of the related item on the reduction day.
+                             (ii)  subject to subsections (5), (5A) and (5B), does not exceed the determined price in force, on the day before that day, for the related brand, reduced by 16%.
 
 Adjustment for prior price reductions to component drugs
 
@@ -4897,11 +4778,11 @@ Adjustment for prior price reductions to component drugs
 
                              (ii)  a 16% price reduction; and
 
-                     (b)  because of the prior price reduction of the component, the approved ex‑manufacturer price of the related brand of the related item was reduced;
+                     (b)  because of the prior price reduction of the component, the approved price to pharmacists of the related brand of the related item was reduced;
 
 then the reduction referred to in subsection (3) or (4) is to be adjusted to reflect:
 
-                     (c)  the percentage (the **_flowed‑on percentage_**) of the prior price reduction of the component that was taken into account in working out the amount of the reduction to the approved ex‑manufacturer price of the related brand of the related item; and
+                     (c)  the percentage (the **_flowed‑on percentage_**) of the prior price reduction of the component that was taken into account in working out the amount of the reduction to the approved price to pharmacists of the related brand of the related item; and
 
                      (d)  the quantity of the component contained in the drug in the related item.
 
@@ -4921,7 +4802,7 @@ then the reduction referred to in subsection (3) or (4) is to be adjusted so t
 
 then the reduction referred to in subsection (3) or (4) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image002.gif)
 
 Section does not limit Minister’s powers
 
@@ -4983,21 +4864,17 @@ Price reduction
 
                      (b)  must not make a determination under section 85B in relation to the new brand of the trigger item.
 
-             (4)  Subject to subsection (5), the agreed price of the new brand of the trigger item that comes into force on the reduction day must not exceed the approved ex‑manufacturer price, on the day before the reduction day, of the existing brand of the existing item, reduced by the same amount that the approved ex‑manufacturer price of the existing brand of the existing item is reduced by on the reduction day under item 6 or 7 of the table in section 99ACF.
+             (4)  Subject to subsection (5), the agreed price for the new brand of the trigger item that comes into force on the reduction day must not exceed the approved price to pharmacists, on the day before the reduction day, of the existing brand of the existing item, reduced by the same amount that the agreed price or determined price of the existing brand of the existing item is reduced by on the reduction day under item 6 or 7 of the table in section 99ACF.
 
-Apportioning if pricing quantity changes
+Apportioning if quantities are different
 
-             (5)  If the pricing quantity of the existing brand of the existing item on the day before the reduction day is different from the pricing quantity of the existing brand of the existing item on the reduction day, then, for the purposes of subsection (4), the approved ex‑manufacturer price of the existing brand of the existing item on the day before the reduction day is taken to be the amount worked out as follows:
+             (5)  If:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image003.gif)
+                     (a)  the approved price to pharmacists, on the day before the reduction day, of the existing brand of the existing item is for a particular quantity or number of units of that item; and
 
-where:
+                     (b)  the agreed price for the new brand of the trigger item is not for the same quantity or number of units;
 
-                    <a name="aemp1"></a>**_AEMP1_** means the amount that was the approved ex‑manufacturer price of the existing brand of the existing item on the day before the reduction day.
-
-                    <a name="pq1"></a>**_PQ1_** means the pricing quantity of the existing brand of the existing item on the day before the reduction day.
-
-                    <a name="pq2"></a>**_PQ2_** means the pricing quantity of the existing brand of the existing item on the reduction day.
+then, for the purposes of subsection (3), the approved price to pharmacists of the existing brand of the existing item is taken to be adjusted proportionally to what it would have been if the quantity or number of units of the existing brand of the existing item had been the same as the quantity or number of units of the new brand of the trigger item.
 
 This section does not limit Minister’s powers
 
@@ -5083,9 +4960,9 @@ Reduction equal to percentage or amount
 
                      (b)  subsection (2) does not apply to the listed brand of the pharmaceutical item on the reduction day; and
 
-                     (c)  on the day before the reduction day, an approved ex‑manufacturer price was, or one or more claimed prices were, in force for the listed brand of the pharmaceutical item;
+                     (c)  on the day before the reduction day, an agreed price was, or a determined price and a claimed price were, in force for the listed brand of the pharmaceutical item;
 
-then, subject to subsection (2A), the approved ex‑manufacturer price is, and (if applicable) each of the claimed prices are, taken to be reduced, on the reduction day, by the percentage or amount specified in column 3 of the table for the section referred to in column 2.
+then, the agreed price is, or the determined price and the claimed price are, taken to be reduced, on the reduction day, by the percentage or amount specified in column 3 of the table for the section referred to in column 2.
 
 <table>
 <colgroup>
@@ -5252,27 +5129,13 @@ Reduction more than percentage or amount
 
                      (a)  a section referred to in column 2 of the table in subsection (1) applies to a listed brand of a pharmaceutical item on a reduction day; and
 
-                     (b)  subject to subsection (2A), on the reduction day the approved ex‑manufacturer price of the listed brand of the pharmaceutical item does not exceed the approved ex‑manufacturer price of the brand of the pharmaceutical item in force on the day before the reduction day, reduced by more than:
+                     (b)  on the reduction day the approved price to pharmacists of the listed brand of the pharmaceutical item does not exceed the approved price to pharmacists of the brand of the pharmaceutical item in force on the day before the reduction day, reduced by more than:
 
                               (i)  the percentage specified in column 3 of the table for the section referred to in column 2; or
 
                              (ii)  if there is a staged percentage for the listed brand of the pharmaceutical item for the reduction day—the amount specified in column 3 of the table for the section referred to in column 2; and
 
-                     (c)  if, on the day before the reduction day and on the reduction day, a determination under subsection 85B(3) was in force in relation to a particular pack quantity of the listed brand of the pharmaceutical item—the claimed price for that pack quantity of the brand of the pharmaceutical item does not exceed the claimed price for the same pack quantity of the brand of the pharmaceutical item in force on the day before the reduction day, reduced by more than the percentage or amount specified in column 3 of the table for the section referred to in column 2.
-
-Apportioning if pricing quantity changes
-
-          (2A)  If the pricing quantity of the listed brand of the pharmaceutical item on the day before the reduction day is different from the pricing quantity of the listed brand of the pharmaceutical item on the reduction day, then, for the purposes of subsection (1) and paragraph (2)(b), the approved ex‑manufacturer price of the listed brand of the pharmaceutical item on the day before the reduction day is taken to be the amount worked out as follows:
-
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image003.gif)
-
-where:
-
-                    <a name="aemp1"></a>**_AEMP1_** means the amount that was the approved ex‑manufacturer price of the listed brand of the pharmaceutical item on the day before the reduction day.
-
-                    <a name="pq1"></a>**_PQ1_** means the pricing quantity of the listed brand of the pharmaceutical item on the day before the reduction day.
-
-                    <a name="pq2"></a>**_PQ2_** means the pricing quantity of the listed brand of the pharmaceutical item on the reduction day.
+                     (c)  if a determination under section 85B was in force in relation to the listed brand of the pharmaceutical item on the day before the reduction day and on the reduction day—the claimed price for the brand of the pharmaceutical item does not exceed the claimed price for the brand of the pharmaceutical item in force on the day before the reduction day, reduced by more than the percentage or amount specified in column 3 of the table for the section referred to in column 2.
 
 Sequence of application of 2 or more price reductions
 
@@ -5280,7 +5143,7 @@ Sequence of application of 2 or more price reductions
 
                      (a)  apply the items in the order they appear in the table; and
 
-                     (b)  apply the second and later items as if the approved ex‑manufacturer price, and (if applicable) each claimed price, (as the case requires) were those prices as affected by the operation of the item or items that have already been applied.
+                     (b)  apply the second and later items as if the determined price and the claimed price, or the agreed price, (as the case requires) were those prices as affected by the operation of the item or items that have already been applied.
 
 Section does not limit Minister’s powers
 
@@ -5460,7 +5323,7 @@ this section applies to the listed brand of the pharmaceutical item on 1 Augus
 
                               (i)  a percentage of the determined price, or agreed price, in force in relation to the brand of the pharmaceutical item on 31 July 2008; and
 
-                             (ii)  if, on the day before the reduction day concerned and on the reduction day concerned, a determination under subsection 85B(3) was in force in relation to a particular pack quantity of the brand of the pharmaceutical item—a percentage of the claimed price in force in relation to that pack quantity of the brand of the pharmaceutical item on the day before the reduction day concerned.
+                             (ii)  if a determination under section 85B was in force in relation to the brand of the pharmaceutical item on the day before the reduction day concerned and on the reduction day concerned—a percentage of the claimed price in force in relation to the brand of the pharmaceutical item on the day before the reduction day concerned.
 
              (4)  The percentages prescribed for each brand of the pharmaceutical item must not total more than 25%.
 
@@ -5644,7 +5507,7 @@ have a drug on F2.</li>
 
 the consequences of failing to comply with the price disclosure requirements.</li>
 
-In addition, this Division reduces the approved ex‑manufacturer price of the brand of the pharmaceutical item in specified circumstances (see Subdivision E). This reduction happens as a result of the price being adjusted based on information collected about brands of pharmaceutical items.
+In addition, this Division reduces the approved price to pharmacists of the brand of the pharmaceutical item in specified circumstances (see Subdivision E). This reduction happens as a result of the price being adjusted based on information collected about brands of pharmaceutical items.
 
 * * *
 
@@ -5656,17 +5519,25 @@ In addition, this Division reduces the approved ex‑manufacturer price of the b
 
              (1)  In this Division:
 
-                    <a name="adjusted-approved-ex-manufactur-price"></a>**_adjusted approved ex‑manufacturer price_** of a brand of a pharmaceutical item is the amount equal to the amount of the weighted average disclosed price of the brand of the pharmaceutical item.
+                    <a name="adjusted-approved-ex-manufactur-price"></a>**_adjusted approved ex‑manufacturer price_** of a brand of a pharmaceutical item is:
 
-                    <a name="applic-approved-ex-manufactur-price"></a>**_applicable approved ex‑manufacturer price_**: see subsection (3A).
+                     (a)  on 1 April 2012—the amount worked out in accordance with section 99ADJ, if that section so provides; or
+
+                     (b)  otherwise—the amount equal to the amount of the weighted average disclosed price of the brand of the pharmaceutical item.
+
+                    <a name="adjusted-approved-price-pharmacist"></a>**_adjusted approved price to pharmacists_** of a brand of a pharmaceutical item is the amount worked out in accordance with regulations made under subsection (2).
+
+                    <a name="agre-quantiti"></a>**_agreed quantity_**, for a brand of a pharmaceutical item, is the quantity or number of units of the pharmaceutical item by reference to which the appropriate maximum price for sales of the brand of the pharmaceutical item to approved pharmacists has been:
+
+                     (a)  agreed under section 85AD; or
+
+                     (b)  determined under subsection 85B(2).
+
+                    <a name="applic-approved-ex-manufactur-price"></a>**_applicable approved ex‑manufacturer price_** of a brand of a pharmaceutical item is the approved ex‑manufacturer price of the brand on the last day of the period in respect of which the weighted average disclosed price of the brand of the pharmaceutical item is determined.
+
+                    <a name="approved-ex-manufactur-price"></a>**_approved ex‑manufacturer price_** of a brand of a pharmaceutical item is the amount worked out in accordance with regulations made under subsection (3).
 
                     <a name="price-disclosur-requir"></a>**_price disclosure requirements_** has the meaning given by section 99ADC.
-
-                    <a name="relev-dai"></a>**_relevant day_** means:
-
-                     (a)  if 30 September 2012 is the last day of the period in respect of which the weighted average disclosed price of a brand of the pharmaceutical item is determined—1 October 2012; and
-
-                     (b)  otherwise—the last day of the period in respect of which the weighted average disclosed price of the brand of the pharmaceutical item is determined.
 
                     <a name="unadjusted-price-ruction"></a>**_unadjusted price reduction_** for a brand of a pharmaceutical item is the difference between:
 
@@ -5678,25 +5549,13 @@ expressed as a percentage of that applicable approved ex‑manufacturer price.
 
                     <a name="weight-averag-disclos-price"></a>**_weighted average disclosed price_** of a brand of a pharmaceutical item is the weighted average disclosed price of the brand of the pharmaceutical item determined by the Minister under subsection (4).
 
-Applicable approved ex‑manufacturer price
+Adjusted approved price to pharmacists
 
-(3A)  The **_applicable approved ex‑manufacturer price_** of a brand of a pharmaceutical item is the approved ex‑manufacturer price of the brand on the relevant day.
+             (2)  For the purposes of the definition of **_adjusted approved price to pharmacists_** in subsection (1), the regulations may, by reference to the adjusted approved ex‑manufacturer price of a brand of a pharmaceutical item, prescribe a method or formula for working out the adjusted approved price to pharmacists of the brand of the pharmaceutical item.
 
-          (3B)  For the purposes of subsection (3A), if:
+Approved ex‑manufacturer price
 
-                     (a)  apart from this subsection, the brand of the pharmaceutical item would not have an approved ex‑manufacturer price on the relevant day; and
-
-                     (b)  the brand of the pharmaceutical item has an approved ex‑manufacturer price before the first reduction day that:
-
-                              (i)  is determined under paragraph 99ADH(1)(aa) in relation to the brand of the pharmaceutical item; and
-
-                             (ii)  occurs after the relevant day;
-
-then:
-
-                     (c)  the regulations may prescribe the approved ex‑manufacturer price, or a method or formula for working out the approved ex‑manufacturer price, of the brand of the pharmaceutical item on the relevant day; and
-
-                     (d)  if the regulations do so, the amount so worked out is taken to be the approved ex‑manufacturer price of the brand of the pharmaceutical item on the relevant day.
+             (3)  For the purposes of the definition of **_approved ex‑manufacturer price_** in subsection (1), the regulations may, by reference to the approved price to pharmacists of a brand of a pharmaceutical item, prescribe a method or formula for working out the approved ex‑manufacturer price of the brand of the pharmaceutical item.
 
 Weighted average disclosed price
 
@@ -5710,7 +5569,11 @@ Weighted average disclosed price
 
                      (c)  all brands (including the brand) of all pharmaceutical items that have the same drug and manner of administration as the pharmaceutical item.
 
-             (7)  A determination made under subsection (4) in relation to a brand of a pharmaceutical item may include the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item.
+             (7)  A determination made under subsection (4) in relation to a brand of a pharmaceutical item may include:
+
+                     (a)  the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item; and
+
+                     (b)  the adjusted approved price to pharmacists of the brand of the pharmaceutical item.
 
 #### Subdivision B—Price disclosure requirements
 
@@ -5832,43 +5695,25 @@ When this section applies
 
 Price reduction
 
-             (3)  If, on the reduction day, the approved ex‑manufacturer price of the brand of the pharmaceutical item would, apart from this section, be higher than the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item, then, on the reduction day, the amount of the approved ex‑manufacturer price is taken to be reduced to the amount of the adjusted approved ex‑manufacturer price for the purposes of the price agreement or price determination.
-
-Note:          If the pricing quantity of the brand of the pharmaceutical item on the relevant day is different from the pricing quantity on the reduction day, then, for the purposes of subsection (3), the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item is worked out under subsection (4A).
+             (3)  If, on the reduction day, the approved price to pharmacists of the brand of the pharmaceutical item would, apart from this section, be higher than the adjusted approved price to pharmacists of the brand of the pharmaceutical item, then, on the reduction day, the amount of the approved price to pharmacists is taken to be reduced to the amount of the adjusted approved price to pharmacists for the purposes of the price agreement or price determination.
 
 Claimed price reduction
 
              (4)  If, on the reduction day:
 
-                     (a)  a determination under subsection 85B(3) is in force in relation to a particular pack quantity of the brand of the pharmaceutical item; and
+                     (a)  a determination under subsection 85B(3) is in force in relation to the brand of the pharmaceutical item; and
 
-                     (b)  the approved ex‑manufacturer price of the brand of the pharmaceutical item is reduced because of subsection (3);
+                     (b)  the approved price to pharmacists of the brand of the pharmaceutical item is reduced because of subsection (3);
 
-then, on the reduction day the claimed price for that pack quantity of the brand of the pharmaceutical item is taken to be reduced by the percentage worked out as follows:
+then, for the purposes of that determination, on the reduction day the claimed price for the brand of the pharmaceutical item is taken to be reduced by the percentage worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image005.gif)
-
-where:
-
-                    <a name="aaemp"></a>**_AAEMP_** means the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item.
-
-                    <a name="aemp"></a>**_AEMP_** means the amount that would have been the approved ex‑manufacturer price of the brand of the pharmaceutical item on the reduction day if the reduction under subsection (3) had not occurred.
-
-Note:          If the pricing quantity of the brand of the pharmaceutical item on the relevant day is different from the pricing quantity on the reduction day, then, for the purposes of subsection (4), the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item is worked out under subsection (4A).
-
-Apportioning if pricing quantity changes
-
-          (4A)  If the pricing quantity of the brand of the pharmaceutical item on the relevant day is different from the pricing quantity of the brand of the pharmaceutical item on the reduction day, then, for the purposes of subsections (3) and (4), the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item is taken to be the amount worked out as follows:
-
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image003.gif)
 
 where:
 
-                    <a name="pq1"></a>**_PQ1_** means the pricing quantity of the brand of the pharmaceutical item on the relevant day.
+                    <a name="aaap"></a>**_AAAP_** means the adjusted approved price to pharmacists of the brand of the pharmaceutical item.
 
-                    <a name="pq2"></a>**_PQ2_** means the pricing quantity of the brand of the pharmaceutical item on the reduction day.
-
-                    <a name="wadp"></a>**_WADP_** means the amount equal to the amount of the weighted average disclosed price of the brand of the pharmaceutical item.
+                    <a name="aap"></a>**_AAP_** means the approved price to pharmacists of the brand of the pharmaceutical item.
 
 Section not to limit Minister’s powers
 
@@ -5880,43 +5725,145 @@ Section not to limit Minister’s powers
 
 for the brand of the pharmaceutical item.
 
-##### <a id="99ADHA"></a>99ADHA  Price reduction for brands listing after end of data collection period
+##### <a id="99ADJ"></a>99ADJ  Minimum average 23% price reduction for some brands of pharmaceutical items
 
-When this section applies
+             (1)  If:
 
-             (1)  This section applies if:
+                     (a)  this section applies to a brand of a pharmaceutical item; and
 
-                     (a)  a determination under subsection 85(6) is in force on the reduction day in relation to a brand (the **_new brand_**) of a pharmaceutical item (the **_existing item_**); and
+                     (b)  the average unadjusted price reduction, worked out under subsection (3), for all the brands of pharmaceutical items to which this section applies is less than 23%;
 
-                     (b)  the determination came into force:
+the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item, on 1 April 2012, is the amount worked out under subsection (6).
 
-                              (i)  after the last day of the period in respect of which the weighted average disclosed price is determined for another brand (the **_existing brand_**) of the existing item; and
+Brands of pharmaceutical items to which this section applies
 
-                             (ii)  before the reduction day; and
+             (2)  This section applies to a brand of a pharmaceutical item (the **_relevant brand_**) if:
 
-                     (c)  the approved ex‑manufacturer price of the existing brand of the existing item is reduced on the reduction day under subsection 99ADH(3).
+                     (a)  the drug in the pharmaceutical item is on F2 on 1 December 2010; and
 
-Price reduction
+                     (b)  no requirement to comply with price disclosure requirements has arisen under former subsection 99ADD(1) before 1 December 2010 in relation to:
 
-             (2)  On the reduction day, the approved ex‑manufacturer price of the new brand of the existing item is taken to be reduced to the same amount as the approved ex‑manufacturer price of the existing brand of the existing item on that day.
+                              (i)  the relevant brand; or
 
-Claimed price reduction
+                             (ii)  any other brand of any pharmaceutical item having that drug and having the same manner of administration as the relevant brand.
 
-             (3)  If, on the reduction day:
+The average unadjusted price reduction
 
-                     (a)  a determination under subsection 85B(3) is in force in relation to a particular pack quantity of the new brand of the existing item; and
+             (3)  The **_average unadjusted price reduction_** for all the brands of pharmaceutical items to which this section applies is the percentage worked out as follows:
 
-                     (b)  the approved ex‑manufacturer price of the new brand of the existing item is reduced because of subsection (2);
+* * *
 
-then, on the reduction day the claimed price for that pack quantity of the new brand of the existing item is taken to be reduced by the percentage worked out as follows:
+_Method statement_
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image007.gif)
+Step 1.   For each brand of a pharmaceutical item to which this section applies, multiply:
 
-where:
+               (a)     the applicable approved ex‑manufacturer price of the brand; by
 
-                    <a name="aemp1"></a>**_AEMP1_** means the amount that would have been the approved ex‑manufacturer price of the new brand of the existing item on the reduction day if the reduction under subsection (2) had not occurred.
+              (b)     the total number of the supplies of the agreed quantity for the brand that were supplies in respect of which the Commonwealth provided benefits under section 85, during the period of 10 months starting on 1 December 2010.
 
-                    <a name="aemp2"></a>**_AEMP2_** means the approved ex‑manufacturer price of the new brand of the existing item on the reduction day.
+Step 2.   For each amount worked out under step 1, work out the amount of that step 1 amount that represents a percentage equal to the unadjusted price reduction for the brand.
+
+Step 3.   Divide:
+
+               (a)     the sum of all the amounts worked out under step 2 for all of the brands of pharmaceutical items to which this section applies; by
+
+              (b)     the sum of all the amounts worked out under step 1 for all of those brands.
+
+Step 4.   The amount worked out under step 3, multiplied by 100 and expressed as a percentage, is the **_average unadjusted price reduction_** for all the brands of pharmaceutical items to which this section applies.
+
+* * *
+
+             (4)  For the purposes only of subsection (3), if:
+
+                     (a)  a combination item has a drug to which subsection 85AB(5) applies; and
+
+                     (b)  there is only one listed brand (the **_single brand_**) of the combination item; and
+
+                     (c)  a pharmaceutical item has a drug that is a listed drug (the **_component drug_**) that the drug referred to in paragraph (a) contains; and
+
+                     (d)  a brand of the pharmaceutical item (a **_related brand_**):
+
+                              (i)  is a brand to which this section applies; and
+
+                             (ii)  has the same manner of administration as the single brand;
+
+then:
+
+                     (e)  the single brand is taken to be a brand of a pharmaceutical item to which this section applies; and
+
+                      (f)  subject to subsection (5), the unadjusted price reduction for the single brand is taken to be the percentage by which the approved ex‑manufacturer price of the single brand would be reduced if the approved price to pharmacists of the brand were to be reduced under section 99ACC to take account of:
+
+                              (i)  the unadjusted price reduction for the related brand being applied to the component drug; and
+
+                             (ii)  in a case where the single brand contains one or more other component drugs in relation to which there are one or more other related brands of pharmaceutical items—the unadjusted price reductions for the other related brands being applied to the other component drugs.
+
+             (5)  The unadjusted price reduction for the single brand is taken to be 0% if the single brand is a brand of a combination item in relation to which the Pharmaceutical Benefits Advisory Committee has advised the Minister under subsection 101(4AC).
+
+Working out the adjusted approved ex‑manufacturer price
+
+             (6)  If subsection (1) applies in relation to a brand of a pharmaceutical item, the adjusted approved ex‑manufacturer price of the brand is worked out as follows:
+
+* * *
+
+_Method statement_
+
+Step 1.   Divide 23% by the average unadjusted price reduction, worked out under subsection (3), for all the brands of pharmaceutical items to which this section applies. The result is the **_guaranteed adjustment proportion_**.
+
+Step 2.   For each of those brands of pharmaceutical items, multiply the guaranteed adjustment proportion by the unadjusted price reduction for the brand of the pharmaceutical item.
+
+Step 3.   For each of those brands, reduce the applicable approved ex‑manufacturer price of the brand by the percentage worked out under step 2.
+
+Step 4.   If the lowest price disclosed, in compliance with price disclosure requirements under section 99ADD, for the pharmaceutical item during the period of 10 months starting on 1 December 2010, is higher than the amount worked out under step 3, work out the difference between:
+
+               (a)     the applicable approved ex‑manufacturer price of the brand; and
+
+              (b)     that lowest price;
+
+ expressed as a percentage of that applicable approved ex‑manufacturer price.
+
+Step 5.   The **_GAP‑adjusted reduction_** for the brand is:
+
+               (a)     unless step 4 applies—the percentage worked out under step 2; or
+
+              (b)     if step 4 applies—the percentage worked out under step 4.
+
+Step 6.   Work out, under subsection (3), the average unadjusted price reduction for all the brands of pharmaceutical items to which this section applies, as if the unadjusted price reduction for each brand were the GAP‑adjusted reduction for the brand.
+
+Step 7.   If the average unadjusted price reduction worked out under step 6 is at least 23%, reduce the applicable approved ex‑manufacturer price of the brand by a percentage of that price equal to the GAP‑adjusted reduction for the brand. The result is the **_GAP‑adjusted approved ex‑manufacturer price_** of the brand.
+
+Step 8.   If step 7 applies, the **_adjusted approved ex‑manufacturer price_** of a brand to which this section applies is the GAP‑adjusted approved ex‑manufacturer price of the brand.
+
+Step 9.   If the average unadjusted price reduction worked out under step 6 is less than 23%, repeat steps 1 to 6, as many times as necessary until step 7 is satisfied, as if:
+
+               (a)     the reference in step 1 to the average unadjusted price reduction were a reference to the average unadjusted price reduction last worked out under step 6; and
+
+              (b)     the reference in step 2 to the unadjusted price reduction for a brand of a pharmaceutical item were a reference to the GAP‑adjusted reduction for the brand last worked out under step 5.
+
+* * *
+
+             (7)  However, if, in applying or repeating steps 1 to 6 of the method statement in subsection (6), step 4 of the method statement applies in relation to all the brands of pharmaceutical items to which this section applies:
+
+                     (a)  steps 6 to 9 of the method statement cease to apply; and
+
+                     (b)  the **_adjusted approved ex‑manufacturer price_** of a brand to which this section applies is worked out by reducing the applicable approved ex‑manufacturer price of the brand by a percentage of that price equal to the GAP‑adjusted reduction for the brand last worked out under step 5 of the method statement.
+
+Effect of the unadjusted price reduction for a brand being less than 10%
+
+             (8)  If, but for this subsection, the unadjusted price reduction for a brand of a pharmaceutical item would be less than 10%, the unadjusted price reduction for the brand is taken to be 0% for the purposes of:
+
+                     (a)  working out under subsection (3) the average unadjusted price reduction for all the brands of pharmaceutical items to which this section applies; and
+
+                     (b)  working out under subsection (6) the adjusted approved ex‑manufacturer price of the brand.
+
+The weighted average disclosed price of a brand
+
+             (9)  Until the Minister determines the weighted average disclosed price of a brand of a pharmaceutical item in respect of the period of 10 months ending on 30 September 2011, that weighted average disclosed price is taken, for the purposes of any reference in this section to:
+
+                     (a)  the applicable approved ex‑manufacturer price of the brand; or
+
+                     (b)  the unadjusted price reduction for the brand;
+
+to be the price worked out in accordance with the regulations made for the purposes of subsection 99ADB(6).
 
 ### Division 3C—Guarantee of supply
 
@@ -6032,7 +5979,7 @@ Note 2:       For the purposes of paragraph (c), the brand mention
 
                      (c)  the Minister and the responsible person for the guaranteed brand of the guaranteed item agree, in a price agreement, an agreed price (the **_new price_**) of the guaranteed brand of the guaranteed item; and
 
-                     (d)  on the day (the **_new price day_**) the new price comes into force, the new price is less than what the approved ex‑manufacturer price of the guaranteed brand of the guaranteed item would have been on that day if the new price had not come into force; and
+                     (d)  on the day (the **_new price day_**) the new price comes into force, the new price is less than what the approved price to pharmacists of the guaranteed brand of the guaranteed item would have been on that day if the new price had not come into force; and
 
                      (e)  the responsible person was the first responsible person for a brand of the guaranteed item to offer the Minister the new price.
 
@@ -6158,7 +6105,7 @@ Note:          For the purposes of paragraphs (b), (c) and (
 
 #### Subdivision G—Consequences for other brands
 
-##### <a id="99AEI"></a>99AEI  Minister may increase approved ex‑manufacturer price if guaranteed brand delisted
+##### <a id="99AEI"></a>99AEI  Minister may increase approved price to pharmacists etc. if guaranteed brand delisted
 
              (1)  This section applies if, under section 99AEH, the Minister revokes or varies a determination under subsection 85(6) in relation to a brand (the **_delisted brand_**) of a pharmaceutical item (the **_existing item_**).
 
@@ -6166,11 +6113,9 @@ Note:          For the purposes of paragraphs (b), (c) and (
 
                      (a)  under section 85AD, make or vary a price agreement to increase the agreed price; or
 
-                     (b)  under subsection 85B(2), make or vary a determination to increase the determined price; or
+                     (b)  under section 85B, make or vary a determination to increase the determined price and the claimed price;
 
-                   (ba)  under subsection 85B(3), make or vary a determination to increase one or more claimed prices;
-
-for a brand of a pharmaceutical item that has an approved ex‑manufacturer price that was reduced because the delisted brand of the existing item was:
+for a brand of a pharmaceutical item that has an approved price to pharmacists that was reduced because the delisted brand of the existing item was:
 
                      (c)  the new brand of the trigger item referred to in section 99ACB; or
 
@@ -6410,7 +6355,7 @@ Note:          The Department can tell you what the current in
 
              (3)  Subject to this section, the indexed amount for an amount to be indexed is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image004.gif)
 
 where:
 
@@ -6424,7 +6369,7 @@ where:
 
              (4)  Subject to subsections (5) and (6), the indexation factor for an amount to be indexed on an indexation day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image005.gif)
 
 where:
 
@@ -7404,24 +7349,6 @@ then, before making the revocation or variation, the Minister must obtain the ad
 
      (4AAC)  An advice under subsection (4AAB) must be laid before each House of the Parliament with the declaration under subsection (4AAA) to which the advice relates.
 
-Functions relating to declarations under subsection 85(2AA)
-
-  (4AACA)  The Pharmaceutical Benefits Advisory Committee must make recommendations to the Minister from time to time as to the drugs and medicinal preparations which it considers should only be supplied under one or more of the prescriber bag provisions.
-
-  (4AACB)  The Minister may, by legislative instrument, revoke or vary a declaration under subsection 85(2AA) in relation to a drug or medicinal preparation.
-
-  (4AACC)  If:
-
-                     (a)  under subsection (4AACB), the Minister proposes to revoke or vary a declaration under subsection 85(2AA) declaring that a drug or medicinal preparation (the **_drug_**) can only be supplied under one or more of the prescriber bag provisions; and
-
-                     (b)  on and after the day the revocation or variation comes into force, the drug could be supplied under this Part otherwise than under one or more of the prescriber bag provisions;
-
-then the Minister can only make the revocation or variation if:
-
-                     (c)  the Minister also revokes or varies the declaration under subsection 85(2), in accordance with subsections (4AAA), (4AAB) and (4AAC) of this section, so that the drug ceases to be a listed drug on and after the day the revocation or variation of the subsection 85(2) declaration comes into force; or
-
-                     (d)  the Pharmaceutical Benefits Advisory Committee recommends against the Minister taking the action in paragraph (c).
-
 Functions relating to declarations under subsection 85(2A)
 
     (4AAD)  The Pharmaceutical Benefits Advisory Committee must make recommendations to the Minister from time to time as to the drugs and medicinal preparations which it considers should be made available only under special arrangements under section 100.
@@ -7556,7 +7483,7 @@ Procedure
 
        (4AC)  For the purposes of subsection (4AA), the designated quantity of a pharmaceutical benefit or pharmaceutical item is the quantity of that pharmaceutical benefit or pharmaceutical item worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image006.gif)
 
 where:
 
@@ -7922,7 +7849,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                               (i)  the approval of that person under section 84AAJ; or
 
-                             (ii)  the authority to supply prescribed pharmaceutical benefits conferred upon that person by section 93AB; or
+                             (ii)  the authority to supply prescribed pharmaceutical benefits conferred upon that person by section 93AA; or
 
                      (c)  in the case of a defendant who is an approved pharmacist—suspend the approval of that pharmacist under section 90.
 
@@ -7994,9 +7921,7 @@ the person to whom the authority or approval relates shall not, during the perio
 
                      (c)  an approval of a person as an authorised nurse practitioner under section 84AAJ;
 
-                     (d)  an authority conferred upon an authorised midwife by section 93AA;
-
-                     (e)  an authority conferred upon an authorised nurse practitioner by section 93AB.
+                     (d)  an authority conferred upon an authorised midwife or an authorised nurse practitioner by section 93AA.
 
                     Penalty:  $5,000 or imprisonment for 2 years, or both.
 
@@ -8644,7 +8569,7 @@ then the collection of the information by the organisation to whom the informati
 
                     <a name="australian-court"></a>**_Australian court_** has the same meaning as in the _Evidence Act 1995_.
 
-##### <a id="139A"></a>139A  Evidence
+##### <a id="139A"></a>139A  Evidence
 
              (1)  The Secretary may, by writing signed by the Secretary, certify that, during a period or on a date specified in the certificate:
 
@@ -8660,7 +8585,7 @@ then the collection of the information by the organisation to whom the informati
 
                    (dd)  a person was or was not an authorised nurse practitioner under section 84AAJ;
 
-                   (de)  a person was or was not authorised under section 93AA or 93AB to supply pharmaceutical benefits specified in the certificate;
+                   (de)  a person was or was not authorised under section 93AA to supply pharmaceutical benefits specified in the certificate;
 
                      (e)  a person was or was not approved under section 90 for the purpose of supplying pharmaceutical benefits at premises specified in the certificate;
 
@@ -13577,7 +13502,7 @@ Schedule 5: 1 Apr 2012</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 145–154), Schedule 6 (items 70–78) and Schedule 7 (items 99, 100): 19 Apr 2011</div>
+    <div>Schedule 5 (items 145–154), Schedule 6 (items 70–78) and Schedule 7 (items 99, 100): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -13612,10 +13537,10 @@ Schedule 4 (item 654): <i>(zzzi)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 798–806) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 798–806) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -13680,7 +13605,7 @@ Schedule 4 (item 654): <i>(zzzi)</i></div>
     <div>28 June 2012</div>
   </td>
   <td>
-    <div>1 Oct 2012</div>
+    <div>Schedules 1–3: \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 66–81), Sch. 2 (item 6) and Sch. 3 (items 16–18) \[ <i>see</i>Table A]</div>
@@ -13698,14 +13623,14 @@ Schedule 4 (item 654): <i>(zzzi)</i></div>
   </td>
   <td>
     <div>Schedule 1 (items 90–92): Royal Assent 
-Schedule 5 (items 6–9): \[ <i>see</i>Note 2]</div>
+Schedule 5 (items 6–9): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_     The _National Health Amendment Act 1976_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(5) of which provides as follows:
+_(a)_     The _National Health Amendment Act 1976_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(5) of which provides as follows: 
 
                  (5)   The amendment of the _National Health Amendment Act 1976_ made by this Act shall come into operation on the day on which this Act receives the Royal Assent.
 
@@ -13965,7 +13890,7 @@ _(zt)_    The _Health and Community Services Legislation Amendment Act 199
 
                  (6)   Item 6 of Schedule 2 is taken to have commenced immediately before the commencement of section 24 of the _Health and Community Services Legislation Amendment Act 1993_.
 
-         Section 24 commenced on 1 July 1993.
+         Section 24 commmenced on 1 July 1993.
 
 _(zu)_   The _National Health Act 1953_ was amended by section 33 only of the _Social Security Legislation Amendment Act 1994_, subsection 2(6) of which provides as follows: 
 
@@ -28136,7 +28061,7 @@ No. 69, 2003</div>
     <div>S. 84</div>
   </td>
   <td>
-    <div>am. No. 68, 1955; No. 72, 1959; No. 82, 1962; No. 37, 1964; No. 85, 1971; No. 202, 1973; Nos. 1 and 93, 1975; Nos. 1, 60, 91 and 177, 1976; Nos. 88 and 132, 1978; No. 91, 1979; Nos. 40 and 163, 1981; No. 112, 1982; No. 139, 1983; No. 120, 1984; No. 127, 1985; Nos. 28, 75 and 94, 1986; Nos. 118 and 131, 1987; Nos. 84, 106 and 141, 1990; Nos. 70, 73, 115, 119, 175 and 208, 1991; Nos. 70, 88, 136, 192 and 230, 1992; No. 61, 1993; Nos. 63, 78, 164 and 184, 1994; Nos. 24, 105 and 149, 1995; Nos. 1, 79 and 84,1996; No. 157, 1997; Nos. 45 and 116, 1998; Nos. 75 and 146, 2000; No. 80, 2001; Nos. 50, 52 and 117, 2004; Nos. 111 and 151, 2005; No. 136, 2006; Nos. 32, 111, 169 and 180, 2007; Nos. 49 and 144, 2008; Nos. 29 and 126, 2010; No. 32, 2011; No. 87, 2012</div>
+    <div>am. No. 68, 1955; No. 72, 1959; No. 82, 1962; No. 37, 1964; No. 85, 1971; No. 202, 1973; Nos. 1 and 93, 1975; Nos. 1, 60, 91 and 177, 1976; Nos. 88 and 132, 1978; No. 91, 1979; Nos. 40 and 163, 1981; No. 112, 1982; No. 139, 1983; No. 120, 1984; No. 127, 1985; Nos. 28, 75 and 94, 1986; Nos. 118 and 131, 1987; Nos. 84, 106 and 141, 1990; Nos. 70, 73, 115, 119, 175 and 208, 1991; Nos. 70, 88, 136, 192 and 230, 1992; No. 61, 1993; Nos. 63, 78, 164 and 184, 1994; Nos. 24, 105 and 149, 1995; Nos. 1, 79 and 84,1996; No. 157, 1997; Nos. 45 and 116, 1998; Nos. 75 and 146, 2000; No. 80, 2001; Nos. 50, 52 and 117, 2004; Nos. 111 and 151, 2005; No. 136, 2006; Nos. 32, 111, 169 and 180, 2007; Nos. 49 and 144, 2008; Nos. 29 and 126, 2010; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -28381,14 +28306,6 @@ No. 69, 2003</div>
 </tr>
 <tr>
   <td>
-    <div>S. 84AK</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 1A</b></div>
   </td>
   <td>
@@ -28457,7 +28374,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 22, 1987; No. 46, 1988; Nos. 84, 106 and 141, 1990; Nos. 119 and 208, 1991; Nos. 88 and 192, 1992; No. 106, 1993 (as am. by No. 116, 1994); No. 116, 1994; Nos. 149 and 164, 1995; No. 79, 1996; No. 37, 1998; Nos. 52 and 119, 2004; No. 151, 2005; No. 136, 2006; Nos. 111, 169 and 180, 2007; No. 87, 2012</div>
+    <div>am. No. 22, 1987; No. 46, 1988; Nos. 84, 106 and 141, 1990; Nos. 119 and 208, 1991; Nos. 88 and 192, 1992; No. 106, 1993 (as am. by No. 116, 1994); No. 116, 1994; Nos. 149 and 164, 1995; No. 79, 1996; No. 37, 1998; Nos. 52 and 119, 2004; No. 151, 2005; No. 136, 2006; Nos. 111, 169 and 180, 2007</div>
   </td>
 </tr>
 <tr>
@@ -28689,7 +28606,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 60, 1976; No. 132, 1978; No. 94, 1986; No. 118, 1987; No. 99, 1988; No. 3, 1995; No. 19, 1998; No. 111, 2007; No. 126, 2010; No. 87, 2012</div>
+    <div>am. No. 60, 1976; No. 132, 1978; No. 94, 1986; No. 118, 1987; No. 99, 1988; No. 3, 1995; No. 19, 1998; No. 111, 2007; No. 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -28710,50 +28627,10 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>Note 1 to s. 85(1)</div>
+    <div>Notes 1, 2 to s. 85(1), (2)</div>
   </td>
   <td>
     <div>ad. No. 126, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 87, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 85(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 85(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 85(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 126, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85AAA</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2012</div>
   </td>
 </tr>
 <tr>
@@ -28822,14 +28699,6 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 87, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 85B</div>
   </td>
   <td>
@@ -28849,23 +28718,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>rs. No. 111, 2007; No. 87, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85C</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85D</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2012</div>
+    <div>rs. No. 111, 2007</div>
   </td>
 </tr>
 <tr>
@@ -29009,7 +28862,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 44, 1966; No. 85, 1971; Nos. 1 and 60, 1976; No. 132, 1978; No. 112, 1982; No. 53, 1985; Nos. 75 and 94, 1986; No. 22, 1987; No. 46, 1988; Nos. 3, 84, 106 and 141, 1990; Nos. 119 and 208, 1991; No. 88, 1992; No. 106, 1993; No. 164, 1995; No. 79, 1996; No. 37, 1998; No. 80, 2001; No. 119, 2004; No. 151, 2005; No. 111, 2007; No. 49, 2008; No. 29, 2010; No. 87, 2012</div>
+    <div>am. No. 44, 1966; No. 85, 1971; Nos. 1 and 60, 1976; No. 132, 1978; No. 112, 1982; No. 53, 1985; Nos. 75 and 94, 1986; No. 22, 1987; No. 46, 1988; Nos. 3, 84, 106 and 141, 1990; Nos. 119 and 208, 1991; No. 88, 1992; No. 106, 1993; No. 164, 1995; No. 79, 1996; No. 37, 1998; No. 80, 2001; No. 119, 2004; No. 151, 2005; No. 111, 2007; No. 49, 2008; No. 29, 2010</div>
   </td>
 </tr>
 <tr>
@@ -29129,7 +28982,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 72, 1959; No. 60, 1976; No. 132, 1978; No. 94, 1986; No. 19, 1998; No. 169, 2007; No. 29, 2010 ; Nos. 8 and 87, 2012</div>
+    <div>am. No. 72, 1959; No. 60, 1976; No. 132, 1978; No. 94, 1986; No. 19, 1998; No. 169, 2007; No. 29, 2010 ; No. 8, 2012</div>
   </td>
 </tr>
 <tr>
@@ -29310,18 +29163,10 @@ Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 93</div>
-  </td>
-  <td>
-    <div>rs. No. 87, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 93</div>
   </td>
   <td>
-    <div>am. No. 68, 1955; No. 87, 2012</div>
+    <div>am. No. 68, 1955</div>
   </td>
 </tr>
 <tr>
@@ -29330,22 +29175,6 @@ Part VII</div>
   </td>
   <td>
     <div>ad. No. 29, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 87, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93AB</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2012</div>
   </td>
 </tr>
 <tr>
@@ -29505,7 +29334,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 53, 1985; No. 94, 1986; No. 87, 1988; No. 24, 1995; No. 75, 2000; SLI 2006 No. 50; No. 111, 2007; No. 54, 2009; No. 87, 2012</div>
+    <div>am. No. 53, 1985; No. 94, 1986; No. 87, 1988; No. 24, 1995; No. 75, 2000; SLI 2006 No. 50; No. 111, 2007; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -29585,7 +29414,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 40, 1981; No. 94, 1986; No. 87, 2012</div>
+    <div>am. No. 40, 1981; No. 94, 1986</div>
   </td>
 </tr>
 <tr>
@@ -29633,7 +29462,7 @@ Part VII</div>
     <div>S. 99</div>
   </td>
   <td>
-    <div>am. No. 72, 1959; No. 44, 1966; No. 85, 1971; No. 202, 1973; Nos. 1, 60 and 177, 1976; No. 132, 1978; No. 112, 1982; No. 35, 1983; No. 53, 1985; No. 94, 1986; Nos. 22 and 118, 1987; No. 46, 1988; Nos. 3, 84 and 106, 1990; No. 119, 1991 (as am. by No. 149, 1995); No. 106, 1993; No. 79, 1996; No. 19, 1998; No. 146, 2000; Nos. 50 and 119, 2004; Nos. 111 and 151, 2005; Nos. 111 and 169, 2007; No. 29, 2010; No. 32, 2011; No. 87, 2012</div>
+    <div>am. No. 72, 1959; No. 44, 1966; No. 85, 1971; No. 202, 1973; Nos. 1, 60 and 177, 1976; No. 132, 1978; No. 112, 1982; No. 35, 1983; No. 53, 1985; No. 94, 1986; Nos. 22 and 118, 1987; No. 46, 1988; Nos. 3, 84 and 106, 1990; No. 119, 1991 (as am. by No. 149, 1995); No. 106, 1993; No. 79, 1996; No. 19, 1998; No. 146, 2000; Nos. 50 and 119, 2004; Nos. 111 and 151, 2005; Nos. 111 and 169, 2007; No. 29, 2010; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -29843,7 +29672,7 @@ Div. 3A of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 126, 2010; No. 87, 2012</div>
+    <div>am. No. 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -29867,7 +29696,7 @@ Div. 3A of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 126, 2010; No. 87, 2012</div>
+    <div>am. No. 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -29899,7 +29728,7 @@ Div. 3A of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 126, 2010; No. 87, 2012</div>
+    <div>am. No. 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -29931,7 +29760,7 @@ Div. 3A of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 126, 2010; No. 87, 2012</div>
+    <div>am. No. 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -29957,14 +29786,6 @@ Part VII</div>
   </td>
   <td>
     <div>ad. No. 126, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 87, 2012</div>
   </td>
 </tr>
 <tr>
@@ -30004,7 +29825,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 126, 2010; No. 87, 2012</div>
+    <div>am. No. 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -30116,7 +29937,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 126, 2010; No. 87, 2012</div>
+    <div>am. No. 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -30164,7 +29985,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 126, 2010; No. 87, 2012</div>
+    <div>am. No. 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -30196,7 +30017,7 @@ Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 126, 2010; No. 87, 2012</div>
+    <div>am. No. 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -30293,23 +30114,7 @@ Div. 3B of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 126, 2010; No. 87, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 99ADH(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 99ADHA</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2012</div>
+    <div>am. No. 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -30318,14 +30123,6 @@ Div. 3B of Part VII</div>
   </td>
   <td>
     <div>ad. No. 126, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 87, 2012</div>
   </td>
 </tr>
 <tr>
@@ -30394,26 +30191,10 @@ Div. 3B of Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>S. 99AEC</div>
+    <div>Ss. 99AEC, 99AED</div>
   </td>
   <td>
     <div>ad. No. 111, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 99AED</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 87, 2012</div>
   </td>
 </tr>
 <tr>
@@ -30474,14 +30255,6 @@ Div. 3B of Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 99AEI</div>
-  </td>
-  <td>
-    <div>rs. No. 87, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 99AEI</div>
   </td>
   <td>
@@ -30493,7 +30266,7 @@ Div. 3B of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 126, 2010; No. 87, 2012</div>
+    <div>am. No. 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -31590,7 +31363,7 @@ Part VII</div>
     <div>S. 101</div>
   </td>
   <td>
-    <div>am. No. 68, 1955; No. 72, 1959; No. 16, 1961; No. 82, 1962; No. 41, 1970; No. 202, 1973; Nos. 60 and 91, 1976; No. 63, 1984; No. 94, 1986; No. 118, 1987; No. 19, 1998; No. 146, 2000; No. 50, 2004; Nos. 140 and 151, 2005; No. 111, 2007; No. 126, 2010; No. 87, 2012</div>
+    <div>am. No. 68, 1955; No. 72, 1959; No. 16, 1961; No. 82, 1962; No. 41, 1970; No. 202, 1973; Nos. 60 and 91, 1976; No. 63, 1984; No. 94, 1986; No. 118, 1987; No. 19, 1998; No. 146, 2000; No. 50, 2004; Nos. 140 and 151, 2005; No. 111, 2007; No. 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -32489,7 +32262,7 @@ rep. No. 211, 1991</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 63 and 120, 1984; No. 94, 1986; No. 136, 1992; No. 50, 2004; No. 169, 2007; Nos. 29 and 126, 2010; No. 87, 2012</div>
+    <div>am. Nos. 63 and 120, 1984; No. 94, 1986; No. 136, 1992; No. 50, 2004; No. 169, 2007; Nos. 29 and 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -32513,7 +32286,7 @@ rep. No. 211, 1991</div>
     <div>S. 134</div>
   </td>
   <td>
-    <div>am. No. 44, 1966; Nos. 60 and 91, 1976; No. 132, 1978; No. 63, 1984; No. 65, 1985; No. 94, 1986; No. 72, 1987; No. 50, 2004; No. 169, 2007; Nos. 29 and 126, 2010; No. 87, 2012</div>
+    <div>am. No. 44, 1966; Nos. 60 and 91, 1976; No. 132, 1978; No. 63, 1984; No. 65, 1985; No. 94, 1986; No. 72, 1987; No. 50, 2004; No. 169, 2007; Nos. 29 and 126, 2010</div>
   </td>
 </tr>
 <tr>
@@ -32834,7 +32607,7 @@ Nos. 111 and 126, 2005; No. 83, 2006; Nos. 32 and 169, 2007; Nos. 29 and 126, 
     <div></div>
   </td>
   <td>
-    <div>am. No. 72, 1959; No. 82, 1962; No. 100, 1968; No. 41, 1970; No. 114, 1972; No. 1, 1975; Nos. 60 and 91, 1976; No. 100, 1977; No. 132, 1978; No. 112, 1982; No. 54, 1983; No. 63, 1984; No. 94, 1986; No. 72, 1987; No. 136, 1992; No. 13, 1999; Nos. 32 and 169, 2007; No. 29, 2010; No. 86, 2011; No. 87, 2012</div>
+    <div>am. No. 72, 1959; No. 82, 1962; No. 100, 1968; No. 41, 1970; No. 114, 1972; No. 1, 1975; Nos. 60 and 91, 1976; No. 100, 1977; No. 132, 1978; No. 112, 1982; No. 54, 1983; No. 63, 1984; No. 94, 1986; No. 72, 1987; No. 136, 1992; No. 13, 1999; Nos. 32 and 169, 2007; No. 29, 2010; No. 86, 2011</div>
   </td>
 </tr>
 <tr>
@@ -33160,6 +32933,733 @@ Nos. 111 and 126, 2005; No. 83, 2006; Nos. 32 and 169, 2007; Nos. 29 and 126, 
 
 ### Note 2
 
+_National Health Amendment (Pharmaceutical Benefits Scheme) Act 2012 
+ (No. 87, 2012)_
+
+The following amendments commence on 1 October 2012:
+
+## Schedule 1
+
+## 1  Subsection 84(1)
+
+Insert:
+
+                    <a name="approved-ex-manufactur-price"></a>**_approved ex‑manufacturer price_** of a listed brand of a pharmaceutical item means:
+
+                     (a)  if a price agreement is in force in relation to the brand of the pharmaceutical item—the amount in force under the agreement as the amount that is, for the purposes of this Part, taken to be the appropriate maximum price of the brand of the pharmaceutical item; or
+
+                     (b)  if a price determination is in force in relation to the brand of the pharmaceutical item—the amount in force under the determination as the amount that is, for the purposes of this Part, taken to be the appropriate maximum price of the brand of the pharmaceutical item.
+
+## 2  Subsection 84(1) (definition of _approved price to pharmacists_)
+
+Repeal the definition.
+
+## 3  Subsection 84(1) (paragraphs (a) and (b) of the definition of _Commonwealth price_)
+
+After “Commonwealth price”, insert “for the particular quantity or number of units of the pharmaceutical benefit”.
+
+## 4  Subsection 84(1) (paragraph (c) of the definition of _Commonwealth price_)
+
+Omit “the benefit”, insert “the particular quantity or number of units of the pharmaceutical benefit”.
+
+## 5  Subsection 84(1)
+
+Insert:
+
+                    <a name="determin-quantiti"></a>**_determined quantity_** of a listed brand of a pharmaceutical item: see subsection 84AK(3).
+
+## 6  Subsection 84(1)
+
+Insert:
+
+                    <a name="pack-quantiti"></a>**_pack quantity_** of a listed brand of a pharmaceutical item: see subsection 84AK(2).
+
+## 7  Subsection 84(1)
+
+Insert:
+
+                    <a name="price-quantiti"></a>**_pricing quantity_** of a listed brand of a pharmaceutical item: see subsection 84AK(1).
+
+## 8  Subsection 84(1)
+
+Insert:
+
+                    <a name="proport-ex-manufactur-price"></a>**_proportional ex‑manufacturer price_** of a listed brand of a pharmaceutical item: see section 85D.
+
+## 9  Subsection 84(1) (definition of _special patient contribution_)
+
+Omit “85B(4)”, substitute “85B(5)”.
+
+## 10  Subsection 84C(7)
+
+Omit “the manner in which the price for”, substitute “, by legislative instrument, the manner in which the price for particular quantities or numbers of units of”.
+
+## 11  Paragraph 84C(8)(a)
+
+Omit “approved price to pharmacists”, substitute “approved ex‑manufacturer price or a proportional ex‑manufacturer price”.
+
+## 12  Subsection 84C(10)
+
+Repeal the subsection.
+
+## 13  At the end of Division 1 of Part VII
+
+Add:
+
+##### <a id="84AK"></a>84AK  Quantities of pharmaceutical items
+
+Pricing quantity
+
+             (1)  The **_pricing quantity_** of a listed brand of a pharmaceutical item is the lowest of any pack quantity of any listed brand of the pharmaceutical item.
+
+Pack quantity
+
+             (2)  The Minister may, by legislative instrument, determine for a listed brand of a pharmaceutical item that one or more quantities or numbers of units of the pharmaceutical item is a **_pack quantity_** of the brand of the pharmaceutical item.
+
+Determined quantity
+
+             (3)  The Minister may, by legislative instrument, determine for a listed brand of a pharmaceutical item that one or more quantities or numbers of units of the pharmaceutical item is a **_determined quantity_** of the brand of the pharmaceutical item.
+
+## 14  Subsection 85AD(1)
+
+Repeal the subsection, substitute:
+
+             (1)  The Minister and the responsible person for a listed brand of a pharmaceutical item may, from time to time, agree, by reference to the pricing quantity of the brand of the pharmaceutical item, an amount that is, for the purposes of this Part, taken to be the appropriate maximum price of the brand of the pharmaceutical item.
+
+Note:          Section 85C and Division 3A limit the Minister’s power to agree to amounts for the purposes of subsection (1).
+
+## 15  Subsection 85AD(2)
+
+Omit all the words after paragraph (b), substitute:
+
+               ; or (c)  the quantity or number of units of the item is not yet a pricing quantity; or
+
+                     (d)  the brand is not yet a listed brand.
+
+However, those matters must be satisfied at the time the amount referred to in subsection (1) comes into force.
+
+## 16  Section 85B
+
+Repeal the section, substitute:
+
+##### <a id="85B"></a>85B  Price determinations and special patient contributions
+
+Application
+
+             (1)  This section applies to a listed brand of a pharmaceutical item.
+
+Price determination
+
+             (2)  If the Minister and the responsible person have been unable to make a price agreement for the brand of the pharmaceutical item, then the Minister may, by legislative instrument, determine, by reference to the pricing quantity of the listed brand of a pharmaceutical item, an amount that is, for the purposes of this Part, taken to be the appropriate maximum price of the brand of the pharmaceutical item.
+
+Note:          Section 85C and Division 3A limit the Minister’s power to determine amounts under subsection (2).
+
+Claimed price determination
+
+             (3)  The Minister may, by legislative instrument, determine, by reference to a pack quantity of the listed brand of the pharmaceutical item, an amount that is, for the purposes of this Part, taken to be the price of the brand of the pharmaceutical item claimed by the responsible person for that quantity.
+
+Special patient contribution
+
+             (4)  If the Minister makes a determination under subsection (3), then the Minister may, by legislative instrument, determine the circumstances in which the Commonwealth is to pay the special patient contribution for the brand of the pharmaceutical item.
+
+             (5)  The **_special patient contribution_** for a quantity or number of units of a listed brand of a pharmaceutical item is the amount that is the difference between:
+
+                     (a)  the price that would have been the Commonwealth price for that quantity or number of units of the brand of the pharmaceutical item if that Commonwealth price had been based on the claimed price for that quantity or number of units; and
+
+                     (b)  the Commonwealth price for that quantity or number of units of the brand of the pharmaceutical item.
+
+## 17  After section 85B
+
+Insert:
+
+##### <a id="85C"></a>85C  Each brand of a pharmaceutical item is to have the same approved ex‑manufacturer price
+
+                   If there are 2 or more listed brands of a pharmaceutical item, then the Minister must ensure, when agreeing an amount under subsection 85AD(1) or determining an amount under subsection 85B(2), that the approved ex‑manufacturer price of each listed brand of the pharmaceutical item is the same.
+
+##### <a id="85D"></a>85D  Proportional ex‑manufacturer price
+
+                   The **_proportional ex‑manufacturer price_** for a pack quantity (other than the pricing quantity) of a listed brand of a pharmaceutical item on a day is the amount worked out as follows:
+
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image007.gif)
+
+where:
+
+                    <a name="aemp"></a>**_AEMP_** means the approved ex‑manufacturer price of the brand of the pharmaceutical item in force on that day.
+
+                    <a name="pkq"></a>**_PkQ_** means the pack quantity of the brand of the pharmaceutical item on that day.
+
+                    <a name="pq"></a>**_PQ_** means the pricing quantity of the brand of the pharmaceutical item on that day.
+
+## 18  Subsection 87(2A)
+
+Omit “section 85B”, substitute “subsection 85B(3)”.
+
+## 19  Paragraph 98B(1)(a)
+
+Omit “Commonwealth price of”, substitute “Commonwealth price for particular quantities or numbers of units of”.
+
+## 20  Paragraph 98B(2)(a)
+
+Omit “approved price to pharmacists”, substitute “approved ex‑manufacturer price or a proportional ex‑manufacturer price”.
+
+## 21  Subsection 98B(3) (definition of _approved price to pharmacists_)
+
+Repeal the definition.
+
+## 22  Paragraph 98C(1)(a)
+
+Omit “Commonwealth price of”, substitute “Commonwealth price for particular quantities or numbers of units of”.
+
+## 23  Paragraph 99(2AA)(b)
+
+Omit “85B(5)”, substitute “85B(4)”.
+
+## 24  Subsection 99(4)
+
+After “supply of”, insert “particular quantities or numbers of units of”.
+
+## 25  Subsection 99ACB(5)
+
+Omit “approved price to pharmacists”, substitute “approved ex‑manufacturer price”.
+
+## 26  Subsection 99ACB(6)
+
+Repeal the subsection, substitute:
+
+Apportioning if pricing quantity changes
+
+             (6)  If the pricing quantity of the existing brand of the existing item on the day before the determination day is different from the pricing quantity of the existing brand of the existing item on the determination day, then, for the purposes of subsection (5), the approved ex‑manufacturer price of the existing brand of the existing item on the day before the determination day is taken to be the amount worked out as follows:
+
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image008.gif)
+
+where:
+
+                    <a name="aemp1"></a>**_AEMP1_** means the amount that was the approved ex‑manufacturer price of the existing brand of the existing item on the day before the determination day.
+
+                    <a name="pq1"></a>**_PQ1_** means the pricing quantity of the existing brand of the existing item on the day before the determination day.
+
+                    <a name="pq2"></a>**_PQ2_** means the pricing quantity of the existing brand of the existing item on the determination day.
+
+## 27  Subparagraph 99ACC(4A)(d)(i)
+
+Omit “approved price to pharmacists”, substitute “approved ex‑manufacturer price”.
+
+## 28  Paragraph 99ACC(4B)(a)
+
+Omit “approved price to pharmacists”, substitute “approved ex‑manufacturer price”.
+
+## 29  Subsection 99ACD(5)
+
+Omit “approved price to pharmacists”, substitute “approved ex‑manufacturer price”.
+
+## 30  Paragraphs 99ACD(6)(b) and (c)
+
+Omit “approved price to pharmacists”, substitute “approved ex‑manufacturer price”.
+
+## 31  Subsection 99ACD(7)
+
+Repeal the subsection, substitute:
+
+Apportioning if pricing quantity changes
+
+             (7)  If the pricing quantity of the existing brand of the existing item on the day before the determination day is different from the pricing quantity of the existing brand of the existing item on the determination day, then, for the purposes of subsection (5), the approved ex‑manufacturer price of the existing brand of the existing item on the day before the determination day is taken to be the amount worked out as follows:
+
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image008.gif)
+
+where:
+
+                    <a name="aemp1"></a>**_AEMP1_** means the amount that was the approved ex‑manufacturer price of the existing brand of the existing item on the day before the determination day.
+
+                    <a name="pq1"></a>**_PQ1_** means the pricing quantity of the existing brand of the existing item on the day before the determination day.
+
+                    <a name="pq2"></a>**_PQ2_** means the pricing quantity of the existing brand of the existing item on the determination day.
+
+## 32  Subsection 99ACE(2)
+
+Omit “approved price to pharmacists”, substitute “approved ex‑manufacturer price”.
+
+## 33  Subsection 99ACE(2)
+
+Omit “The claimed price”, substitute “Each claimed price”.
+
+## 34  Subparagraph 99ACE(3)(a)(ii)
+
+Omit “(5), (5A) and (5B), does not exceed the agreed price”, substitute “(4B), (5), (5A) and (5B), does not exceed the approved ex‑manufacturer price”.
+
+## 35  Paragraph 99ACE(3)(b)
+
+Omit “determination under section 85B for the related brand of the related item, specify a determined price”, substitute “price determination, specify a determined price for the related brand of the related item”.
+
+## 36  Subparagraph 99ACE(3)(b)(ii)
+
+Omit “subsections (5), (5A) and (5B), does not exceed the agreed price”, substitute “subsections (4B), (5), (5A) and (5B), does not exceed the approved ex‑manufacturer price”.
+
+## 37  Subsection 99ACE(4)
+
+Omit “If a determination under section 85B was in force for the related brand of a related item”, substitute “If a price determination was in force for the related brand of the related item”.
+
+## 38  Paragraph 99ACE(4)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  in a price determination, specify a determined price for the related brand of the related item that:
+
+                              (i)  comes into force on the reduction day; and
+
+                             (ii)  subject to subsections (4B), (5), (5A) and (5B), does not exceed the approved ex‑manufacturer price in force, on the day before that day, for the related brand of the related item, reduced by 16%; or
+
+## 39  Paragraph 99ACE(4)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  in a price agreement, specify an agreed price for the related brand of the related item that:
+
+                              (i)  comes into force on the reduction day; and
+
+                             (ii)  subject to subsections (4B), (5), (5A) and (5B), does not exceed the approved ex‑manufacturer price in force, on the day before that day, for the related brand of the related item, reduced by 16%.
+
+## 40  After subsection 99ACE(4)
+
+Insert:
+
+          (4A)  If a determination under subsection 85B(3) was in force for a particular pack quantity of the related brand of the related item on the day before the reduction day, the Minister may, in a determination under subsection 85B(3), specify a claimed price for that pack quantity of the related brand of the related item that:
+
+                     (a)  comes into force on the reduction day; and
+
+                     (b)  subject to subsections (5), (5A) and (5B), does not exceed the claimed price in force for that pack quantity of the related brand of the related item on the day before that day, reduced by 16%.
+
+Apportioning if pricing quantity changes
+
+          (4B)  If the pricing quantity of the related brand of the related item on the day before the reduction day is different from the pricing quantity of the related brand of the related item on the reduction day, then, for the purposes of subparagraphs (3)(a)(ii), (3)(b)(ii), (4)(a)(ii) and (4)(b)(ii), the approved ex‑manufacturer price of the related brand of the related item on the day before the reduction day is taken to be the amount worked out as follows:
+
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image008.gif)
+
+where:
+
+                    <a name="aemp1"></a>**_AEMP1_** means the amount that was the approved ex‑manufacturer price of the related brand of the related item on the day before the reduction day.
+
+                    <a name="pq1"></a>**_PQ1_** means the pricing quantity of the related brand of the related item on the day before the reduction day.
+
+                    <a name="pq2"></a>**_PQ2_** means the pricing quantity of the related brand of the related item on the reduction day.
+
+## 41  Paragraphs 99ACE(5)(b) and (c)
+
+Omit “approved price to pharmacists”, substitute “approved ex‑manufacturer price”.
+
+## 42  Subsection 99ACEA(4)
+
+Repeal the subsection, substitute:
+
+             (4)  Subject to subsection (5), the agreed price of the new brand of the trigger item that comes into force on the reduction day must not exceed the approved ex‑manufacturer price, on the day before the reduction day, of the existing brand of the existing item, reduced by the same amount that the approved ex‑manufacturer price of the existing brand of the existing item is reduced by on the reduction day under item 6 or 7 of the table in section 99ACF.
+
+## 43  Subsection 99ACEA(5)
+
+Repeal the subsection, substitute:
+
+Apportioning if pricing quantity changes
+
+             (5)  If the pricing quantity of the existing brand of the existing item on the day before the reduction day is different from the pricing quantity of the existing brand of the existing item on the reduction day, then, for the purposes of subsection (4), the approved ex‑manufacturer price of the existing brand of the existing item on the day before the reduction day is taken to be the amount worked out as follows:
+
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image008.gif)
+
+where:
+
+                    <a name="aemp1"></a>**_AEMP1_** means the amount that was the approved ex‑manufacturer price of the existing brand of the existing item on the day before the reduction day.
+
+                    <a name="pq1"></a>**_PQ1_** means the pricing quantity of the existing brand of the existing item on the day before the reduction day.
+
+                    <a name="pq2"></a>**_PQ2_** means the pricing quantity of the existing brand of the existing item on the reduction day.
+
+## 44  Paragraph 99ACF(1)(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  on the day before the reduction day, an approved ex‑manufacturer price was, or one or more claimed prices were, in force for the listed brand of the pharmaceutical item;
+
+## 45  Subsection 99ACF(1)
+
+Omit “the agreed price is, or the determined price and the claimed price are,”, substitute “subject to subsection (2A), the approved ex‑manufacturer price is, and (if applicable) each of the claimed prices are,”.
+
+## 46  Paragraph 99ACF(2)(b)
+
+Before “on the reduction day”, insert “subject to subsection (2A),”.
+
+## 47  Paragraph 99ACF(2)(b)
+
+Omit “approved price to pharmacists” (wherever occurring), substitute “approved ex‑manufacturer price”.
+
+## 48  Paragraph 99ACF(2)(c)
+
+Repeal the paragraph, substitute:
+
+                     (c)  if, on the day before the reduction day and on the reduction day, a determination under subsection 85B(3) was in force in relation to a particular pack quantity of the listed brand of the pharmaceutical item—the claimed price for that pack quantity of the brand of the pharmaceutical item does not exceed the claimed price for the same pack quantity of the brand of the pharmaceutical item in force on the day before the reduction day, reduced by more than the percentage or amount specified in column 3 of the table for the section referred to in column 2.
+
+## 49  After subsection 99ACF(2)
+
+Insert:
+
+Apportioning if pricing quantity changes
+
+          (2A)  If the pricing quantity of the listed brand of the pharmaceutical item on the day before the reduction day is different from the pricing quantity of the listed brand of the pharmaceutical item on the reduction day, then, for the purposes of subsection (1) and paragraph (2)(b), the approved ex‑manufacturer price of the listed brand of the pharmaceutical item on the day before the reduction day is taken to be the amount worked out as follows:
+
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image008.gif)
+
+where:
+
+                    <a name="aemp1"></a>**_AEMP1_** means the amount that was the approved ex‑manufacturer price of the listed brand of the pharmaceutical item on the day before the reduction day.
+
+                    <a name="pq1"></a>**_PQ1_** means the pricing quantity of the listed brand of the pharmaceutical item on the day before the reduction day.
+
+                    <a name="pq2"></a>**_PQ2_** means the pricing quantity of the listed brand of the pharmaceutical item on the reduction day.
+
+## 50  Paragraph 99ACF(3)(b)
+
+Omit “the determined price and the claimed price, or the agreed price,”, substitute “the approved ex‑manufacturer price, and (if applicable) each claimed price,”.
+
+## 51  Subparagraph 99ACK(3)(b)(ii)
+
+Repeal the subparagraph, substitute:
+
+                             (ii)  if, on the day before the reduction day concerned and on the reduction day concerned, a determination under subsection 85B(3) was in force in relation to a particular pack quantity of the brand of the pharmaceutical item—a percentage of the claimed price in force in relation to that pack quantity of the brand of the pharmaceutical item on the day before the reduction day concerned.
+
+## 52  Section 99AD (last paragraph)
+
+Omit “approved price to pharmacists”, substitute “approved ex‑manufacturer price”.
+
+## 53  Subsection 99ADB(1) (definition of _adjusted approved price to pharmacists_)
+
+Repeal the definition.
+
+## 54  Subsection 99ADB(1) (definition of _agreed quantity_)
+
+Repeal the definition.
+
+## 55  Subsection 99ADB(1) (definition of _approved ex‑manufacturer price_)
+
+Repeal the definition.
+
+## 56  Subsections 99ADB(2) and (3)
+
+Repeal the subsections.
+
+## 57  Subsection 99ADB(7)
+
+Repeal the subsection, substitute:
+
+             (7)  A determination made under subsection (4) in relation to a brand of a pharmaceutical item may include the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item.
+
+## 58  Subsection 99ADH(3)
+
+Omit “approved price to pharmacists” (wherever occurring), substitute “approved ex‑manufacturer price”.
+
+## 59  At the end of subsection 99ADH(3)
+
+Add:
+
+Note:          If the pricing quantity of the brand of the pharmaceutical item on the relevant day is different from the pricing quantity on the reduction day, then, for the purposes of subsection (3), the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item is worked out under subsection (4A).
+
+## 60  Subsection 99ADH(4)
+
+Repeal the subsection, substitute:
+
+Claimed price reduction
+
+             (4)  If, on the reduction day:
+
+                     (a)  a determination under subsection 85B(3) is in force in relation to a particular pack quantity of the brand of the pharmaceutical item; and
+
+                     (b)  the approved ex‑manufacturer price of the brand of the pharmaceutical item is reduced because of subsection (3);
+
+then, on the reduction day the claimed price for that pack quantity of the brand of the pharmaceutical item is taken to be reduced by the percentage worked out as follows:
+
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image009.gif)
+
+where:
+
+                    <a name="aaemp"></a>**_AAEMP_** means the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item.
+
+                    <a name="aemp"></a>**_AEMP_** means the amount that would have been the approved ex‑manufacturer price of the brand of the pharmaceutical item on the reduction day if the reduction under subsection (3) had not occurred.
+
+Note:          If the pricing quantity of the brand of the pharmaceutical item on the relevant day is different from the pricing quantity on the reduction day, then, for the purposes of subsection (4), the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item is worked out under subsection (4A).
+
+Apportioning if pricing quantity changes
+
+          (4A)  If the pricing quantity of the brand of the pharmaceutical item on the relevant day is different from the pricing quantity of the brand of the pharmaceutical item on the reduction day, then, for the purposes of subsections (3) and (4), the adjusted approved ex‑manufacturer price of the brand of the pharmaceutical item is taken to be the amount worked out as follows:
+
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image010.gif)
+
+where:
+
+                    <a name="pq1"></a>**_PQ1_** means the pricing quantity of the brand of the pharmaceutical item on the relevant day.
+
+                    <a name="pq2"></a>**_PQ2_** means the pricing quantity of the brand of the pharmaceutical item on the reduction day.
+
+                    <a name="wadp"></a>**_WADP_** means the amount equal to the amount of the weighted average disclosed price of the brand of the pharmaceutical item.
+
+## 61  After section 99ADH
+
+Insert:
+
+##### <a id="99ADHA"></a>99ADHA  Price reduction for brands listing after end of data collection period
+
+When this section applies
+
+             (1)  This section applies if:
+
+                     (a)  a determination under subsection 85(6) is in force on the reduction day in relation to a brand (the **_new brand_**) of a pharmaceutical item (the **_existing item_**); and
+
+                     (b)  the determination came into force:
+
+                              (i)  after the last day of the period in respect of which the weighted average disclosed price is determined for another brand (the **_existing brand_**) of the existing item; and
+
+                             (ii)  before the reduction day; and
+
+                     (c)  the approved ex‑manufacturer price of the existing brand of the existing item is reduced on the reduction day under subsection 99ADH(3).
+
+Price reduction
+
+             (2)  On the reduction day, the approved ex‑manufacturer price of the new brand of the existing item is taken to be reduced to the same amount as the approved ex‑manufacturer price of the existing brand of the existing item on that day.
+
+Claimed price reduction
+
+             (3)  If, on the reduction day:
+
+                     (a)  a determination under subsection 85B(3) is in force in relation to a particular pack quantity of the new brand of the existing item; and
+
+                     (b)  the approved ex‑manufacturer price of the new brand of the existing item is reduced because of subsection (2);
+
+then, on the reduction day the claimed price for that pack quantity of the new brand of the existing item is taken to be reduced by the percentage worked out as follows:
+
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image011.gif)
+
+where:
+
+                    <a name="aemp1"></a>**_AEMP1_** means the amount that would have been the approved ex‑manufacturer price of the new brand of the existing item on the reduction day if the reduction under subsection (2) had not occurred.
+
+                    <a name="aemp2"></a>**_AEMP2_** means the approved ex‑manufacturer price of the new brand of the existing item on the reduction day.
+
+## 62  Paragraph 99AED(2)(d)
+
+Omit “approved price to pharmacists”, substitute “approved ex‑manufacturer price”.
+
+## 63  Section 99AEI (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="99AEI"></a>99AEI  Minister may increase approved ex‑manufacturer price if guaranteed brand delisted
+
+## 64  Paragraph 99AEI(2)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  under subsection 85B(2), make or vary a determination to increase the determined price; or
+
+                   (ba)  under subsection 85B(3), make or vary a determination to increase one or more claimed prices;
+
+## 65  Subsection 99AEI(2)
+
+Omit “approved price to pharmacists”, substitute “approved ex‑manufacturer price”.
+
+## Schedule 2
+
+## 1  Subsection 99ADB(1) (definition of _adjusted approved ex‑manufacturer price_)
+
+Repeal the definition, substitute:
+
+                    <a name="adjusted-approved-ex-manufactur-price"></a>**_adjusted approved ex‑manufacturer price_** of a brand of a pharmaceutical item is the amount equal to the amount of the weighted average disclosed price of the brand of the pharmaceutical item.
+
+## 2  Subsection 99ADB(1) (definition of _applicable approved ex‑manufacturer price_)
+
+Repeal the definition, substitute:
+
+                    <a name="applic-approved-ex-manufactur-price"></a>**_applicable approved ex‑manufacturer price_**: see subsection (3A).
+
+## 3  Subsection 99ADB(1)
+
+Insert:
+
+                    <a name="relev-dai"></a>**_relevant day_** means:
+
+                     (a)  if 30 September 2012 is the last day of the period in respect of which the weighted average disclosed price of a brand of the pharmaceutical item is determined—1 October 2012; and
+
+                     (b)  otherwise—the last day of the period in respect of which the weighted average disclosed price of the brand of the pharmaceutical item is determined.
+
+## 4  Before subsection 99ADB(4)
+
+Insert:
+
+Applicable approved ex‑manufacturer price
+
+(3A)  The **_applicable approved ex‑manufacturer price_** of a brand of a pharmaceutical item is the approved ex‑manufacturer price of the brand on the relevant day.
+
+          (3B)  For the purposes of subsection (3A), if:
+
+                     (a)  apart from this subsection, the brand of the pharmaceutical item would not have an approved ex‑manufacturer price on the relevant day; and
+
+                     (b)  the brand of the pharmaceutical item has an approved ex‑manufacturer price before the first reduction day that:
+
+                              (i)  is determined under paragraph 99ADH(1)(aa) in relation to the brand of the pharmaceutical item; and
+
+                             (ii)  occurs after the relevant day;
+
+then:
+
+                     (c)  the regulations may prescribe the approved ex‑manufacturer price, or a method or formula for working out the approved ex‑manufacturer price, of the brand of the pharmaceutical item on the relevant day; and
+
+                     (d)  if the regulations do so, the amount so worked out is taken to be the approved ex‑manufacturer price of the brand of the pharmaceutical item on the relevant day.
+
+## 5  Section 99ADJ
+
+Repeal the section.
+
+## Schedule 3
+
+## 1  Subsection 84(1)
+
+Insert:
+
+                    <a name="prescrib-bag-provision"></a>**_prescriber bag provisions_** means the following:
+
+                     (a)  section 93 (supplies by medical practitioners);
+
+                     (b)  section 93AA (supplies by authorised midwives);
+
+                     (c)  section 93AB (supplies by authorised nurse practitioners).
+
+## 2  Subsection 85(1) (note 1)
+
+Omit “(see section 85AA) can only be supplied under this Part”, substitute “(see sections 85AAA and 85AA) can only be supplied under this Part under the prescriber bag provisions or”.
+
+## 3  After subsection 85(2)
+
+Insert:
+
+Drugs etc. that can only be supplied under the prescriber bag provisions
+
+       (2AA)  If:
+
+                     (a)  the Minister makes a declaration under subsection (2) in relation to a drug or medicinal preparation (the **_drug_**); and
+
+                     (b)  the Pharmaceutical Benefits Advisory Committee has recommended under subsection 101(4AACA) that the drug be supplied only under one or more of the prescriber bag provisions;
+
+then the Minister must, by legislative instrument, declare that the drug can only be supplied under that provision or those provisions.
+
+Note:          If the Minister makes a declaration in relation to a drug or medicinal preparation under this subsection, the Minister cannot vary or revoke that declaration without first satisfying the conditions set out in subsection 101(4AACC).
+
+## 4  After subsection 85(7)
+
+Insert:
+
+Pharmaceutical benefits that can only be supplied under the prescriber bag provisions
+
+          (7A)  The Minister may, by legislative instrument, determine that a particular pharmaceutical benefit can only be supplied under one or more of the prescriber bag provisions.
+
+## 5  After section 85
+
+Insert:
+
+##### <a id="85AAA"></a>85AAA  Pharmaceutical benefits that can only be supplied under the prescriber bag provisions
+
+             (1)  If the Minister makes a declaration under subsection 85(2AA) in relation to a drug or medicinal preparation (the **_drug_**) declaring that the drug can only be supplied under one or more of the prescriber bag provisions, then every pharmaceutical benefit that has that drug can only be supplied under this Part under that provision or those provisions.
+
+             (2)  If the Minister makes a determination under subsection 85(7A) that a particular pharmaceutical benefit can only be supplied under one or more of the prescriber bag provisions, then that pharmaceutical benefit can only be supplied under this Part under that provision or those provisions.
+
+             (3)  Despite subsections (1) and (2), if:
+
+                     (a)  the Minister makes a declaration under subsection 85(2AA) declaring that a drug or medicinal preparation (the **_drug_**) can only be supplied under one or more (but not all) of the prescriber bag provisions (the **_drug prescriber bag provision_**); and
+
+                     (b)  the Minister makes a determination under subsection 85(7A) determining that a pharmaceutical benefit that has the drug can only be supplied under a different prescriber bag provision or different prescriber bag provisions (the **_pharmaceutical benefit prescriber bag provision_**);
+
+then the pharmaceutical benefit can only be supplied under this Part under the drug prescriber bag provision and the pharmaceutical benefit prescriber bag provision.
+
+## 6  Paragraph 89(b)
+
+After “section 93AA,”, insert “section 93AB,”.
+
+## 7  Section 93 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="93"></a>93  Prescriber bag supplies—medical practitioners
+
+## 8  Subsection 93(1)
+
+After “Minister”, insert “, by legislative instrument,”.
+
+## 9  Subsection 93(2)
+
+After “Minister may”, insert “, by legislative instrument,”.
+
+## 10  Subsection 93(2A)
+
+Repeal the subsection.
+
+## 11  Section 93AA
+
+Repeal the section, substitute:
+
+##### <a id="93AA"></a>93AA  Prescriber bag supplies—authorised midwives
+
+             (1)  Except as prescribed by the regulations, an authorised midwife is authorised to supply such pharmaceutical benefits as the Minister, by legislative instrument, determines to persons who are entitled under this Part to receive those pharmaceutical benefits.
+
+             (2)  For the purposes of this section, the Minister may, by legislative instrument, determine the maximum quantity or number of units of a pharmaceutical benefit which may be obtained by an authorised midwife during a specified period.
+
+             (3)  The regulations may make provision for or in relation to the obtaining of pharmaceutical benefits by an authorised midwife for the purposes of this section.
+
+             (4)  The regulations may make provision for or in relation to payments by the Commonwealth in respect of the supply of pharmaceutical benefits under this section.
+
+##### <a id="93AB"></a>93AB  Prescriber bag supplies—authorised nurse practitioners
+
+             (1)  Except as prescribed by the regulations, an authorised nurse practitioner is authorised to supply such pharmaceutical benefits as the Minister, by legislative instrument, determines to persons who are entitled under this Part to receive those pharmaceutical benefits.
+
+             (2)  For the purposes of this section, the Minister may, by legislative instrument, determine the maximum quantity or number of units of a pharmaceutical benefit which may be obtained by an authorised nurse practitioner during a specified period.
+
+             (3)  The regulations may make provision for or in relation to the obtaining of pharmaceutical benefits by an authorised nurse practitioner for the purposes of this section.
+
+             (4)  The regulations may make provision for or in relation to payments by the Commonwealth in respect of the supply of pharmaceutical benefits under this section.
+
+## 12  After subsection 101(4AAC)
+
+Insert:
+
+Functions relating to declarations under subsection 85(2AA)
+
+  (4AACA)  The Pharmaceutical Benefits Advisory Committee must make recommendations to the Minister from time to time as to the drugs and medicinal preparations which it considers should only be supplied under one or more of the prescriber bag provisions.
+
+  (4AACB)  The Minister may, by legislative instrument, revoke or vary a declaration under subsection 85(2AA) in relation to a drug or medicinal preparation.
+
+  (4AACC)  If:
+
+                     (a)  under subsection (4AACB), the Minister proposes to revoke or vary a declaration under subsection 85(2AA) declaring that a drug or medicinal preparation (the **_drug_**) can only be supplied under one or more of the prescriber bag provisions; and
+
+                     (b)  on and after the day the revocation or variation comes into force, the drug could be supplied under this Part otherwise than under one or more of the prescriber bag provisions;
+
+then the Minister can only make the revocation or variation if:
+
+                     (c)  the Minister also revokes or varies the declaration under subsection 85(2), in accordance with subsections (4AAA), (4AAB) and (4AAC) of this section, so that the drug ceases to be a listed drug on and after the day the revocation or variation of the subsection 85(2) declaration comes into force; or
+
+                     (d)  the Pharmaceutical Benefits Advisory Committee recommends against the Minister taking the action in paragraph (c).
+
+## 13  Subparagraph 133(1)(bc)(ii)
+
+Omit “93AA”, substitute “93AB”.
+
+## 14  Paragraph 134(4)(d)
+
+Repeal the paragraph, substitute:
+
+                     (d)  an authority conferred upon an authorised midwife by section 93AA;
+
+                     (e)  an authority conferred upon an authorised nurse practitioner by section 93AB.
+
+## 15  Paragraph 139A(1)(de)
+
+After “93AA”, insert “or 93AB”.
+
+As at 28 September 2012 the amendments are not incorporated in this compilation.
+
+### Note 3
+
 _Statute Law Revision Act 2012 (No. 136, 2012)_
 
 The following amendments commence on 20 October 2012:
@@ -33182,7 +33682,7 @@ Omit “Health Department classifications”, substitute “the Department’s c
 
 Omit “Secretary of the Health Department”, substitute “Secretary”.
 
-As at 18 October 2012 the amendments are not incorporated in this compilation.
+As at 28 September 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -33622,7 +34122,7 @@ _Health Legislation Amendment Act (No. 1) 2001 (No. 6, 2001)_
 
 _Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001 (No. 111, 2001)_
 
-## <a id="4"></a>4  Application of amendments
+## <a id="4"></a>4  Application of amendments
 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
@@ -33963,7 +34463,7 @@ The amendments made by this Schedule to section 85 of the _National Health Act
 
 The amendments made by this Schedule that insert subsections 4(2), 84(1B), 88(1AA), 88(1B) and 88(8) of the _National Health Act 1953_ apply to prescriptions written on and after the commencement of this Schedule.
 
-## 98  Application of amendments to section 84AAA of the _National Health Act 1953_
+## 98  Application of amendments to section 84AAA of the _National Health Act 1953_
 
 The amendments made by this Schedule to section 84AAA of the _National Health Act 1953_ apply in relation to supplies made on or after the commencement of this Schedule of pharmaceutical benefits that have pharmaceutical items that are specified in a legislative instrument made under that section on or after the commencement of this Schedule.
 
@@ -34180,6 +34680,8 @@ The amendments made by this Schedule apply to prescriptions that are written on 
 _National Health Amendment (Pharmaceutical Benefits Scheme) Act 2012
  (No. 87, 2012)_
 
+The following provisions commence on 1 October 2012:
+
 ## Schedule 1
 
 ## 66  Definitions
@@ -34292,7 +34794,7 @@ Step 2—Work out the ex‑manufacturer price for the agreed quantity
 
 (5)       Work out the **_price to pharmacists_** for the relevant quantity of the relevant brand of the pharmaceutical item as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image012.gif)
 
 where:
 
@@ -34306,7 +34808,7 @@ where:
 
 (6)       If the price to pharmacists for the relevant quantity of the relevant brand of the pharmaceutical item is less than, or equal to, $1,000, then the **_ex‑manufacturer price_** for the agreed quantity of the relevant brand of the pharmaceutical item is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image013.gif)
 
 where:
 
@@ -34322,7 +34824,7 @@ where:
 
 then the **_ex‑manufacturer price_** for the agreed quantity of the relevant brand of the pharmaceutical item is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image014.gif)
 
 where:
 
@@ -34338,7 +34840,7 @@ where:
 
 then the **_ex‑manufacturer price_** for the agreed quantity of the relevant brand of the pharmaceutical item is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image015.gif)
 
 where:
 
@@ -34354,7 +34856,7 @@ Step 3—Work out the proportional ex‑manufacturer price
 
 (9)       Work out the **_proportional ex‑manufacturer price_** for the pricing quantity of the relevant brand of the pharmaceutical item on the commencement day as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00843/Html/00db30b2-7a49-4dc1-a9cd-54e8a3f9d951_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00829/Html/636931f8-2c95-4f91-bf4e-c0c5b950723d_files/image016.gif)
 
 where:
 
