@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00389/Html/66ca606f-3760-490d-97d1-89e52a4274c4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00352/Html/52842eeb-9191-4b01-99fa-ae7f851e8710_files/image001.gif)
 
 # Referendum (Machinery Provisions) Act 1984
 
 **Act No. 44 of 1984 as amended**
 
-This compilation was prepared on 31 May 2011
- taking into account amendments up to Act No. 37 of 2011
+This compilation was prepared on 6 May 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -714,15 +714,33 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  For the purposes of voting at a referendum:
 
-                     (a)  applications or claims for enrolment, or transfer of enrolment, under the _Commonwealth Electoral Act 1918_ (including applications or claims to which subsection 99B(6) or 100(2) of that Act apply) that are received during the period (the **_suspension period_**):
+                     (a)  claims for enrolment under section 101 of the _Commonwealth Electoral Act 1918_ (other than claims that are taken, by subsection 99B(6) of that Act, to be made under section 101 of that Act) that are received during the period:
 
-                              (i)  starting at 8 pm on the day of the close of the Rolls for a referendum; and
+                              (i)  beginning at 8 pm on the day of the issue of the writ for a referendum; and
 
                              (ii)  ending on the close of voting at the referendum;
 
-                            must not be considered until after the end of the suspension period; and
+                            must not be considered until after the end of the period; and
 
-                     (b)  a name must not be removed from a roll under section 118 of the _Commonwealth Electoral Act 1918_ during the suspension period.
+                    (aa)  claims for transfer of enrolment under section 101 of the _Commonwealth Electoral Act 1918_, and claims that are taken, by subsection 99B(6) of that Act, to be made under section 101 of that Act, that are received during the period:
+
+                              (i)  beginning at 8 pm on the day for which the Rolls for a referendum close; and
+
+                             (ii)  ending on the close of voting at the referendum;
+
+                            must not be considered until after the end of the period; and
+
+                     (b)  a name shall not be removed from a roll under subsection 118(1) of the _Commonwealth Electoral Act 1918_ after the day of the issue of the writ for a referendum and before the close of voting at the referendum.
+
+             (3)  A claim that is taken, by subsection 100(2) of the _Commonwealth Electoral Act 1918_, to be made under section 101 of that Act:
+
+                     (a)  is to be treated in accordance with paragraph (2)(aa) if the claim is made by a person who will turn 18 years old during the period:
+
+                              (i)  beginning at 8 pm on the day of the issue of the writ for a referendum; and
+
+                             (ii)  ending at the end of the voting day for the referendum; and
+
+                     (b)  otherwise—is to be treated in accordance with paragraph (2)(a).
 
 ##### <a id="5"></a>5  Australian Electoral Officer for the Australian Capital Territory
 
@@ -788,9 +806,17 @@ and any such appointment shall terminate upon completion of the referendum.
 
 ##### <a id="9"></a>9  Day for close of Rolls and voting day
 
-             (1)  The day fixed for the close of the Rolls is the seventh day after the issue of the writ.
+             (1)  The day fixed for the close of the Rolls shall be 3 working days after the issue of the writ.
 
              (2)  The day fixed for taking the votes of electors at a referendum shall be not less than 33 days and not more than 58 days after the issue of the writ.
+
+             (3)  In this section:
+
+                    <a name="work-dai"></a>**_working day_** means any day except:
+
+                     (a)  a Saturday or a Sunday; or
+
+                     (b)  a day that is a public holiday in any State or Territory.
 
 ##### <a id="10"></a>10  Extension of time
 
@@ -988,7 +1014,7 @@ the Electoral Commissioner shall, unless the Minister informs the Electoral Comm
 
 ##### <a id="21"></a>21  Use of licensed premises as polling booth
 
-                   Premises licensed for the sale of intoxicating liquor may be used for the purpose of a polling booth if, and only if, the Electoral Commissioner declares, in writing, that he or she is satisfied that, during the hours of voting at a referendum:
+                   Premises licensed for the sale of intoxicating liquor may be used for the purpose of a polling booth if, and only if, the Electoral Commissioner declares, in writing, that he or she is satisfied that, during the hours of voting at a referendum:
 
                      (a)  intoxicating liquor will not be available for sale or consumption on the part of the premises proposed for use for the purpose of a polling booth; and
 
@@ -1004,9 +1030,7 @@ the Electoral Commissioner shall, unless the Minister informs the Electoral Comm
 
                      (a)  is on the Roll for the Division; and
 
-                     (b)  will be at least 18 years old on voting day; and
-
-                     (c)  is not covered by subsection 93(8AA) of the _Commonwealth Electoral Act 1918_ (sentences of imprisonment).
+                     (b)  will be at least 18 years old on voting day.
 
           (2A)  The list must also include the sex and date of birth of each person whose name is included in the list.
 
@@ -1304,6 +1328,14 @@ shall mark, fold and deposit the voter’s ballot‑paper.
 
                      (b)  a reference to the Division in which an elector is enrolled includes a reference to the Division in which the elector is provisionally enrolled.
 
+          (1B)  A person to whom this section applies (other than a person to whom subsection 104(4) of the _Commonwealth Electoral Act 1918_ applies) may cast a provisional vote on the voting day for a referendum if the person provides the evidence of the person’s identity that is required by the regulations either:
+
+                     (a)  at the time the person casts the provisional vote; or
+
+                     (b)  by the first Friday following the voting day.
+
+Note:          The regulations are made under subsection (9).
+
              (2)  A person to whom this section applies may cast a provisional vote if the person signs a declaration in the approved form on an envelope addressed to the DRO for the Division for which the voter is, or claims to be, enrolled.
 
              (3)  The person shall sign the declaration in the presence of a polling official.
@@ -1317,6 +1349,16 @@ shall mark, fold and deposit the voter’s ballot‑paper.
              (7)  The polling official shall, in the presence of the voter, without unfolding the ballot‑paper, place it in the envelope bearing the voter’s declaration, fasten the envelope and place the envelope in the ballot‑box.
 
              (8)  The Assistant Returning Officer who opens the ballot‑box shall deal with the envelope according to section 46A.
+
+Regulations
+
+             (9)  If regulations are made to implement a requirement of subsection (1B) in relation to identification for provisional voting, the regulations must require the person claiming to vote to provide documentary evidence of the person’s name by showing either of the following to an officer:
+
+                     (a)  the person’s driver’s licence;
+
+                     (b)  a prescribed kind of document that identifies the person.
+
+           (10)  The regulations may impose additional requirements in relation to identification for provisional voting.
 
 ##### <a id="38"></a>38  Provisional enrolment by applicant for citizenship
 
@@ -1738,7 +1780,7 @@ shall forward the envelope, together with the record made under paragraph 67(2)(
 
                    In sections 48 and 50, **_patient_**, in relation to a hospital, does not include a person attending the hospital as an out‑patient.
 
-##### <a id="48"></a>48  Hospitals that are polling places
+##### <a id="48"></a>48  Hospitals that are polling places
 
              (1)  In this section, **_hospital_** means a hospital that is a polling place.
 
@@ -2518,7 +2560,7 @@ Note:          Pre‑poll voting at the office of an Assistant
 
              (2)  The Governor of a State, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre‑poll voting office for the referendum in that State.
 
-             (3)  The Chief Minister for the Australian Capital Territory, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre‑poll voting office for the referendum in the Australian Capital   Territory.
+             (3)  The Chief Minister for the Australian Capital Territory, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre‑poll voting office for the referendum in the Australian Capital Territory.
 
              (4)  The Administrator of the Northern Territory, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre‑poll voting office for the referendum in the Northern Territory.
 
@@ -3000,7 +3042,7 @@ a determination under subsection (1) of this section is taken to be in force i
 
 ##### <a id="82"></a>82  List of Antarctic electors to be marked
 
-                   Immediately upon giving a ballot‑paper to the person claiming to vote at a referendum, the Antarctic Returning Officer or the Assistant Antarctic Returning Officer shall record on the statement prepared by the Officer under subsection 76(2) the fact that the ballot‑paper has been given to that person.
+                   Immediately upon giving a ballot‑paper to the person claiming to vote at a referendum, the Antarctic Returning Officer or the Assistant Antarctic Returning Officer shall record on the statement prepared by the Officer under subsection 76(2) the fact that the ballot‑paper has been given to that person.
 
 ##### <a id="83"></a>83  Application of sections 35 and 36
 
@@ -3534,7 +3576,7 @@ is guilty of an offence punishable on conviction by a fine not exceeding $1,000.
 
                     Penalty:  $1,000 or imprisonment for 6 months, or both.
 
-##### <a id="121"></a>121  Printing and publication of advertisements, notices etc.
+##### <a id="121"></a>121  Printing and publication of advertisements, notices etc.
 
              (1)  A person shall not print, publish or distribute or cause, permit or authorize to be printed, published or distributed an advertisement, handbill, pamphlet or notice relating to a referendum and intended or calculated to affect the result of the referendum unless:
 
@@ -4127,7 +4169,7 @@ FORM B
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00389/Html/66ca606f-3760-490d-97d1-89e52a4274c4_files/image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00389/Html/66ca606f-3760-490d-97d1-89e52a4274c4_files/image003.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00352/Html/52842eeb-9191-4b01-99fa-ae7f851e8710_files/image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00352/Html/52842eeb-9191-4b01-99fa-ae7f851e8710_files/image003.gif"> Commonwealth of Australia</div>
     <div>BALLOT‑PAPER</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendum on proposed Constitution alteration</div>
@@ -4148,7 +4190,7 @@ FORM C
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00389/Html/66ca606f-3760-490d-97d1-89e52a4274c4_files/image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2011C00389/Html/66ca606f-3760-490d-97d1-89e52a4274c4_files/image004.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00352/Html/52842eeb-9191-4b01-99fa-ae7f851e8710_files/image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2011C00352/Html/52842eeb-9191-4b01-99fa-ae7f851e8710_files/image004.gif"> Commonwealth of Australia</div>
     <div>BALLOT‑PAPERS</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendums on proposed Constitution alterations</div>
@@ -4252,14 +4294,6 @@ _Subsection 89A(3)_
 
               3.  If the DRO has reason to doubt that the signature on the postal vote certificate that purports to be the elector’s signature is the elector’s signature, the DRO must check the signature against the most recent record (if any) of the elector’s signature that is available to the DRO.
 
-           3A.  For each envelope in relation to which the following paragraphs are satisfied:
-
-                     (a)  the envelope purports to contain a provisional vote ballot‑paper;
-
-                     (b)  the DRO has reason to doubt that the signature on the envelope that purports to be the elector’s signature is the elector’s signature;
-
-the DRO must check the signature against the most recent record (if any) of the elector’s signature that is available to the DRO. If, after so checking the signature, the DRO is not satisfied that the signature on the envelope is the signature of the elector, the DRO must make all reasonable attempts to contact the elector within 3 days after the referendum, to require the elector to provide evidence of his or her identity by the first Friday following the voting day for that referendum.
-
               4.  The DRO shall divide the envelopes being dealt with into groups, as follows:
 
                      (a)  in one group, the envelopes that meet the requirements of paragraph 6;
@@ -4280,7 +4314,7 @@ the DRO must check the signature against the most recent record (if any) of the 
 
                      (c)  in the case of an envelope purporting to contain an absent vote ballot‑paper or a provisional vote ballot‑paper, that the declaration has been signed in accordance with section 46 or 37, or under subsection 36(4), as the case may be, and that the signature purports to be witnessed in accordance with that section or subsection, as the case requires; and
 
-                    (ca)  in the case of an envelope purporting to contain a provisional vote ballot‑paper and in relation to which paragraph 3A applies—that the signature on the envelope is that of the elector; and
+                    (ca)  in the case of an envelope purporting to contain a provisional vote ballot‑paper—if the elector (other than an elector to whom subsection 104(4) of the _Commonwealth Electoral Act 1918_ applies) did not provide evidence of his or her identity in accordance with section 37 at the time of casting the vote, the elector has provided that evidence by the first Friday following the voting day for that referendum; and
 
                    (cb)  in the case of an envelope purporting to contain a postal ballot‑paper, a pre‑poll vote ballot‑paper, an absent vote ballot‑paper or a provisional vote ballot‑paper, cast by an elector who is provisionally enrolled—that, by the first Friday following the polling day for that election, the elector has provided an officer with evidence that the elector has become an Australian citizen under the _Australian Citizenship Act 2007_
 
@@ -4316,7 +4350,7 @@ In applying subparagraph (a), the DRO should, to the extent that it is possibl
 
             10.  The DRO shall divide the envelopes that meet the requirements of paragraph 6 into groups as follows:
 
-                     (a)  in one group, the envelopes bearing certificates or declarations by persons who are enrolled for the Division or whose claims for enrolment are claims to which subsection 102(5) of the _Commonwealth Electoral Act 1918_ applies;
+                     (a)  in one group, the envelopes bearing certificates or declarations by persons who are enrolled for the Division or whose claims for enrolment are claims to which subsection 102(4A) of the _Commonwealth Electoral Act 1918_ applies;
 
                      (b)  in another group the envelopes to which paragraph 11 applies;
 
@@ -5077,44 +5111,10 @@ Schedule 6 (items 11, 13–22): 14 Jan 2011</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 6 (item 94): 19 Apr 2011</div>
+    <div>Schedule 6 (item 94): 19 April 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Electoral and Referendum Amendment (Enrolment and Prisoner Voting) Act 2011</div>
-  </td>
-  <td>
-    <div>29, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 9–13) and Schedule 2 (items 6, 7(1)): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 13) and Sch. 2 (item 7(1)) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Electoral and Referendum Amendment (Provisional Voting) Act 2011</div>
-  </td>
-  <td>
-    <div>37, 2011</div>
-  </td>
-  <td>
-    <div>26 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 4–7): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 7) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -5485,7 +5485,7 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 24, 1990; No. 166, 1995; No. 94, 1998; No. 65, 2006; No. 29, 2011</div>
+    <div>am. No. 24, 1990; No. 166, 1995; No. 94, 1998; No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5533,7 +5533,7 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 65, 2006; No. 29, 2011</div>
+    <div>am. No. 65, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5677,7 +5677,7 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div></div>
   </td>
   <td>
-    <div>am. No. 115, 2004; No. 109, 2010; No. 29, 2011</div>
+    <div>am. No. 115, 2004; No. 109, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5845,7 +5845,7 @@ _(i)_      Subsection 2(1) (items 31 and 38) of the _Statute Law Revis
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 115, 2004; No. 65, 2006; No. 110, 2010; No. 37, 2011</div>
+    <div>am. No. 167, 1991; No. 115, 2004; No. 65, 2006; No. 110, 2010</div>
   </td>
 </tr>
 <tr>
@@ -7754,7 +7754,7 @@ No. 219, 1992</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; Nos. 78 and 115, 2004; No. 65, 2006 (as am. by No. 73, 2008); No. 110, 2010; Nos. 29 and 37, 2011</div>
+    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; Nos. 78 and 115, 2004; No. 65, 2006 (as am. by No. 73, 2008); No. 110, 2010</div>
   </td>
 </tr></table>
 
@@ -7857,33 +7857,6 @@ continues to be an approved form for the purpose of that subsection as in force 
 ## Schedule 8
 
 ## 5  Application of amendments
-
-The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
-
-* * *
-
-_Electoral and Referendum Amendment (Enrolment and Prisoner Voting) Act 2011 (No. 29, 2011)_
-
-## Schedule 1
-
-## 13  Application
-
-The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
-
-## Schedule 2
-
-## 7  Application and transitional
-
-(1)       The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
-
-* * *
-
-_Electoral and Referendum Amendment (Provisional Voting) Act 2011
- (No. 37, 2011)_
-
-## Schedule 1
-
-## 7  Application of amendments
 
 The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
 
