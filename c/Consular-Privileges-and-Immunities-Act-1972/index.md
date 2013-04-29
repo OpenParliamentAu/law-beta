@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00240/Html/0a8284ea-b49e-4681-a2c4-43d6778f3836_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00345/Html/ConPriAndImmAct1972_image001.gif)
 
 # Consular Privileges and Immunities Act 1972
 
 **Act No. 62 of 1972 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 9 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -66,25 +66,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="acquisit"></a>**_acquisition_** has the meaning given by section 195‑1 of the GST Act.
+                    <a name="acquisit"></a>**_acquisition_** has the meaning given by section 195-1 of the GST Act.
 
-                    <a name="approved-form"></a>**_approved form_** has the meaning given by section 995‑1 of the _Income Tax Assessment Act 1997_.
+                    <a name="approved-form"></a>**_approved form_** has the meaning given by section 995-1 of the _Income Tax Assessment Act 1997_.
 
                     <a name="commission"></a>**_Commissioner_** means the Commissioner of Taxation.
 
                     <a name="convent"></a>**_Convention_** means the Vienna Convention on Consular Relations, a copy of the English text of which is set out in the Schedule.
 
-                    <a name="custom-minist"></a>**_Customs Minister_** means the Minister administering the _Customs Act 1901._
-
                     <a name="gst-act"></a>**_GST Act_** means the _A New Tax System (Goods and Services Tax) Act 1999_.
 
                     <a name="indirect-tax"></a>**_indirect tax_** means:
 
-                     (a)  GST within the meaning of section 195‑1 of the GST Act; or
+                     (a)  GST within the meaning of section 195-1 of the GST Act; or
 
-                     (b)  luxury car tax within the meaning of section 27‑1 of the Luxury Car Tax Act; or
+                     (b)  luxury car tax within the meaning of section 27-1 of the Luxury Car Tax Act; or
 
-                     (c)  wine equalisation tax within the meaning of section 33‑1 of the Wine Equalisation Tax Act.
+                     (c)  wine equalisation tax within the meaning of section 33-1 of the Wine Equalisation Tax Act.
 
                     <a name="luxuri-car-tax-act"></a>**_Luxury Car Tax Act_** means the _A New Tax System (Luxury Car Tax) Act 1999_.
 
@@ -140,21 +138,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  The exemption from customs duties, taxes and related charges provided for by paragraph 1 or paragraph 2 of Article 50, or Article 62, of the Convention as having the force of law by virtue of section 5 in respect of articles imported into Australia that are for the use of a consular post or person referred to in that Article:
 
-                     (a)  does not apply where any other articles of the same kind, or of a similar kind, that have been imported into Australia were, at the time when they were entered for home consumption under the _Customs Act 1901_, intended for the use of the consular post or person and the Customs Minister, by instrument in writing, declares that, in his or her opinion, the reasonable requirements of the consular post or person, as the case may be, have adequately been met by the other articles; and
+                     (a)  does not apply where any other articles of the same kind, or of a similar kind, that have been imported into Australia were, at the time when they were entered for home consumption under the _Customs Act 1901_, intended for the use of the consular post or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his or her opinion, the reasonable requirements of the consular post or person, as the case may be, have adequately been met by the other articles; and
 
                      (b)  does not apply unless:
 
-                              (i)  the person for whose use the articles are intended, or, if the articles are intended for the use of a consular post, the head of the consular post, agrees that, if the articles are sold or otherwise disposed of in Australia or in an external Territory within, in the case of articles other than motor vehicles, 2 years, and in the case of motor vehicles, 3 years, after the date of entry of the articles for home consumption under the _Customs Act 1901_, he or she will pay to the Commonwealth an amount equal to so much (if any) as the Customs Minister determines of the customs duties, taxes and related charges that, but for paragraph 1 or paragraph 2 of Article 50, or Article 62, as the case may be, of the Convention, would have been payable in respect of the articles; and
+                              (i)  the person for whose use the articles are intended, or, if the articles are intended for the use of a consular post, the head of the consular post, agrees that, if the articles are sold or otherwise disposed of in Australia or in an external Territory within, in the case of articles other than motor vehicles, 2 years, and in the case of motor vehicles, 3 years, after the date of entry of the articles for home consumption under the _Customs Act 1901_, he or she will pay to the Commonwealth an amount equal to so much (if any) as the Minister for Industry, Technology and Commerce determines of the customs duties, taxes and related charges that, but for paragraph 1 or paragraph 2 of Article 50, or Article 62, as the case may be, of the Convention, would have been payable in respect of the articles; and
 
-                             (ii)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other articles and has committed a breach of that last‑mentioned agreement—the person complies with such conditions (if any) as the Customs Minister, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he or she will comply with the first‑mentioned agreement).
+                             (ii)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other articles and has committed a breach of that last-mentioned agreement—the person complies with such conditions (if any) as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he or she will comply with the first-mentioned agreement).
 
           (1A)  Despite:
 
-                     (a)  section 177‑5 of the GST Act; and
+                     (a)  section 177-5 of the GST Act; and
 
-                     (b)  section 21‑5 of the Luxury Car Tax Act; and
+                     (b)  section 21-5 of the Luxury Car Tax Act; and
 
-                     (c)  section 27‑25 of the Wine Equalisation Tax Act;
+                     (c)  section 27-25 of the Wine Equalisation Tax Act;
 
 indirect tax that would be payable on an importation under one of those Acts is not payable on an importation covered by the exemption from customs duties, taxes and related charges provided for by paragraph 1 or paragraph 2 of Article 50, or Article 62, of the Convention and section 5 of this Act.
 
@@ -164,7 +162,7 @@ indirect tax that would be payable on an importation under one of those Acts is 
 
                      (b)  are declared by the head of the consular post, in writing, to be for the official use of the consular post; and
 
-                     (c)  are articles, or are included in a class of articles, approved by the Customs Minister for the purposes of this subsection.
+                     (c)  are articles, or are included in a class of articles, approved by the Minister for Industry, Technology and Commerce for the purposes of this subsection.
 
              (3)  In subsection (1), **_motor vehicle_** means a vehicle with a motor engine, being a vehicle ordinarily for use on land.
 
@@ -184,27 +182,27 @@ indirect tax that would be payable on an importation under one of those Acts is 
 
                      (b)  are declared by the head of the consular post, in writing, to be for the official use of the consular post; and
 
-                     (c)  are goods, or are included in a class of goods, approved by the Customs Minister for the purposes of this subsection.
+                     (c)  are goods, or are included in a class of goods, approved by the Minister for Industry, Technology and Commerce for the purposes of this subsection.
 
-             (3)  Subsection (1) does not apply in respect of goods that are intended for the use of a consular post or person referred to in that subsection where any other goods of the same kind, or of a similar kind, that have been entered for home consumption under an Act relating to duties of excise were, at the time when they were so entered, intended for the use of the consular post or person and the Customs Minister, by instrument in writing, declares that, in his or her opinion, the reasonable requirements of the consular post or person, as the case may be, have adequately been met by the other goods.
+             (3)  Subsection (1) does not apply in respect of goods that are intended for the use of a consular post or person referred to in that subsection where any other goods of the same kind, or of a similar kind, that have been entered for home consumption under an Act relating to duties of excise were, at the time when they were so entered, intended for the use of the consular post or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his or her opinion, the reasonable requirements of the consular post or person, as the case may be, have adequately been met by the other goods.
 
              (4)  Subsection (1) does not apply in respect of any goods unless:
 
-                     (a)  the person for whose use the goods are intended, or, if the goods are intended for the use of a consular post, the head of the consular post, agrees that, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of entry of the goods for home consumption under an Act relating to duties of excise, he or she will, unless the Customs Minister otherwise determines, pay to the Commonwealth an amount equal to the duties of excise that, but for this section, would have been payable in respect of the goods; and
+                     (a)  the person for whose use the goods are intended, or, if the goods are intended for the use of a consular post, the head of the consular post, agrees that, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of entry of the goods for home consumption under an Act relating to duties of excise, he or she will, unless the Minister for Industry, Technology and Commerce otherwise determines, pay to the Commonwealth an amount equal to the duties of excise that, but for this section, would have been payable in respect of the goods; and
 
-                     (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last‑mentioned agreement—the person complies with such conditions (if any) as the Customs Minister, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he or she will comply with the first‑mentioned agreement).
+                     (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last-mentioned agreement—the person complies with such conditions (if any) as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he or she will comply with the first-mentioned agreement).
 
 ##### <a id="9"></a>9  Regulations may grant consular privileges and immunities in certain cases
 
              (1)  The regulations may:
 
-                     (a)  confer on a post established in Australia or in an external Territory by the Government of a declared Commonwealth country, being a post that is not entitled to any privileges or immunities under this Act or under the _Diplomatic Privileges and Immunities Act 1967_ and appears to the Governor‑General to exercise functions substantially corresponding to functions exercised by a consular post, all or any of the privileges and immunities that are conferred by this Act on a consular post;
+                     (a)  confer on a post established in Australia or in an external Territory by the Government of a declared Commonwealth country, being a post that is not entitled to any privileges or immunities under this Act or under the _Diplomatic Privileges and Immunities Act 1967_ and appears to the Governor-General to exercise functions substantially corresponding to functions exercised by a consular post, all or any of the privileges and immunities that are conferred by this Act on a consular post;
 
                      (b)  confer on:
 
                               (i)  the person charged with the duty of acting as head of a post of a kind referred to in paragraph (a) being a person who is not entitled to any privileges or immunities under this Act or under the _Diplomatic Privileges and Immunities Act 1967_;
 
-                             (ii)  a member of the staff of a person referred to in subparagraph (i), being a member who appears to the Governor‑General to perform duties substantially corresponding to the duties performed by a consular officer; and
+                             (ii)  a member of the staff of a person referred to in subparagraph (i), being a member who appears to the Governor-General to perform duties substantially corresponding to the duties performed by a consular officer; and
 
                             (iii)  members of the family of a person to whom subparagraph (i) or (ii) applies, being members of the family who form part of the household of the person;
 
@@ -212,7 +210,7 @@ indirect tax that would be payable on an importation under one of those Acts is 
 
                      (c)  confer on:
 
-                              (i)  a member of the staff of a person referred to in subparagraph (b)(i), being a member who appears to the Governor‑General to perform duties substantially corresponding to the duties performed by a consular employee; and
+                              (i)  a member of the staff of a person referred to in subparagraph (b)(i), being a member who appears to the Governor-General to perform duties substantially corresponding to the duties performed by a consular employee; and
 
                              (ii)  members of the family of a person to whom subparagraph (i) applies, being members of the family who form part of the household of the person;
 
@@ -220,7 +218,7 @@ indirect tax that would be payable on an importation under one of those Acts is 
 
                      (d)  confer on:
 
-                              (i)  a member of the staff of a person referred to in subparagraph (b)(i), being a member who appears to the Governor‑General to perform duties substantially corresponding to the duties performed by a member of the service staff of a consular post; and
+                              (i)  a member of the staff of a person referred to in subparagraph (b)(i), being a member who appears to the Governor-General to perform duties substantially corresponding to the duties performed by a member of the service staff of a consular post; and
 
                              (ii)  members of the family of a person to whom subparagraph (i) applies, being members of the family who form part of the household of the person;
 
@@ -330,17 +328,17 @@ determined by the Minister.
 
 ##### <a id="12A"></a>12A  Delegation
 
-             (1)  The Customs Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by that Minister, delegate to a person all or any of that Minister’s powers under this Act, other than this power of delegation.
+             (1)  The Minister for Industry, Technology and Commerce may, either generally or as otherwise provided by the instrument of delegation, by writing signed by that Minister, delegate to a person all or any of that Minister’s powers under this Act, other than this power of delegation.
 
-             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Customs Minister.
+             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Minister for Industry, Technology and Commerce.
 
-             (3)  A delegation under this section does not prevent the exercise of a power by the Customs Minister.
+             (3)  A delegation under this section does not prevent the exercise of a power by the Minister for Industry, Technology and Commerce.
 
 ##### <a id="13"></a>13  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-# Schedule  
+# Schedule—  
 
 _Section 3_
 
@@ -370,7 +368,7 @@ _Definitions_
 
              (1)  The Minister may give a certificate in writing certifying any fact relevant to the question whether a person is, or was at any time or in respect of any period, entitled to any privileges or immunities by virtue of this Act or of the regulations.
 
-                        (_a_)   “consular post” means any consulate‑general, consulate, vice‑consulate or consular agency; 
+                        (_a_)   “consular post” means any consulate-general, consulate, vice-consulate or consular agency; 
 
                         (_b_)   “consular district” means the area assigned to a consular post for the exercise of consular functions; 
 
@@ -390,7 +388,7 @@ _Definitions_
 
                          (_j_)   “consular premises” means the buildings or parts of buildings and the land ancillary thereto, irrespective of ownership, used exclusively for the purposes of the consular post; 
 
-                        (_k_)   “consular archives” includes all the papers, documents, correspondence, books, films, tapes and registers of the consular post, together with the ciphers and codes, the card‑indexes and any article of furniture intended for their protection or safekeeping.
+                        (_k_)   “consular archives” includes all the papers, documents, correspondence, books, films, tapes and registers of the consular post, together with the ciphers and codes, the card-indexes and any article of furniture intended for their protection or safekeeping.
 
 **2.**Consular officers are of two categories, namely career consular officers and honorary consular officers. The provisions of Chapter II of the present Convention apply to consular posts headed by career consular officers; the provisions of Chapter III govern consular posts headed by honorary consular officers.
 
@@ -398,7 +396,7 @@ _Definitions_
 
 **CHAPTER****I.****CONSULAR RELATIONS IN GENERAL**
 
-**SECTION  I. ESTABLISHMENT AND CONDUCT OF CONSULAR RELATIONS**
+**SECTION****I.****ESTABLISHMENT AND CONDUCT OF CONSULAR RELATIONS**
 
 _Article_ 2
 
@@ -426,7 +424,7 @@ _Establishment of a consular post_
 
 **3.**    Subsequent changes in the seat of the consular post, its classification or the consular district may be made by the sending State only with the consent of the receiving State. 
 
-**4.**    The consent of the receiving State shall also be required if a consulate‑general or a consulate desires to open a vice‑consulate or a consular agency in a locality other than that in which it is itself established. 
+**4.**    The consent of the receiving State shall also be required if a consulate-general or a consulate desires to open a vice-consulate or a consular agency in a locality other than that in which it is itself established. 
 
 **5.**    The prior express consent of the receiving State shall also be required for the opening of an office forming part of an existing consular post elsewhere than at the seat thereof. 
 
@@ -454,7 +452,7 @@ Consular functions consist in:
 
                          (_i_)   subject to the practices and procedures obtaining in the receiving State, representing or arranging appropriate representation for nationals of the sending State before the tribunals and other authorities of the receiving State, for the purpose of obtaining, in accordance with the laws and regulations of the receiving State, provisional measures for the preservation of the rights and interests of these nationals, where, because of absence or any other reason, such nationals are unable at the proper time to assume the defence of their rights and interests; 
 
-                         (_j_)   transmitting judicial and extra‑judicial documents or executing letters rogatory or commissions to take evidence for the courts of the sending State in accordance with international agreements in force or, in the absence of such international agreements, in any other manner compatible with the laws and regulations of the receiving State; 
+                         (_j_)   transmitting judicial and extra-judicial documents or executing letters rogatory or commissions to take evidence for the courts of the sending State in accordance with international agreements in force or, in the absence of such international agreements, in any other manner compatible with the laws and regulations of the receiving State; 
 
                         (_k_)   exercising rights of supervision and inspection provided for in the laws and regulations of the sending State in respect of vessels having the nationality of the sending State, and of aircraft registered in that State, and in respect of their crews; 
 
@@ -486,11 +484,11 @@ _Classes of heads of consular posts_
 
 **1.**    Heads of consular posts are divided into four classes, namely:
 
-       (_a_)   consuls‑general; 
+       (_a_)   consuls-general; 
 
        (_b_)   consuls; 
 
-        (_c_)   vice‑consuls; 
+        (_c_)   vice-consuls; 
 
        (_d_)   consular agents.
 
@@ -570,7 +568,7 @@ _Performance of diplomatic acts by consular officers_
 
 **1.**In a State where the sending State has no diplomatic mission and is not represented by a diplomatic mission of a third State, a consular officer may, with the consent of the receiving State, and without affecting his consular status, be authorized to perform diplomatic acts. The performance of such acts by a consular officer shall not confer upon him any right to claim diplomatic privileges and immunities.
 
-**2.**A consular officer may, after notification addressed to the receiving State, act as representative of the sending State to any inter‑governmental organization. When so acting, he shall be entitled to enjoy any privileges and immunities accorded to such a representative by customary international law or by international agreements; however, in respect of the performance by him of any consular function, he shall not be entitled to any greater immunity from jurisdiction than that to which a consular officer is entitled under the present Convention. 
+**2.**A consular officer may, after notification addressed to the receiving State, act as representative of the sending State to any inter-governmental organization. When so acting, he shall be entitled to enjoy any privileges and immunities accorded to such a representative by customary international law or by international agreements; however, in respect of the performance by him of any consular function, he shall not be entitled to any greater immunity from jurisdiction than that to which a consular officer is entitled under the present Convention. 
 
 _Article_ 18 
 
@@ -672,13 +670,13 @@ _Protection of consular premises and archives and of the interests of the sendin
 
                         (_c_)   the sending State may entrust the protection of its interests and those of its nationals to a third State acceptable to the receiving State. 
 
-**2.**In the event of the temporary or permanent closure of a consular post, the provisions of sub‑paragraph (_a_) of paragraph 1 of this Article shall apply. 
+**2.**In the event of the temporary or permanent closure of a consular post, the provisions of sub-paragraph (_a_) of paragraph 1 of this Article shall apply. 
 
 In addition,
 
      (_a_)   if the sending State, although not represented in the receiving State by a diplomatic mission, has another consular post in the territory of that State, that consular post may be entrusted with the custody of the premises of the consular post which has been closed, together with the property contained therein and the consular archives, and, with the consent of the receiving State, with the exercise of consular functions in the district of that consular post; or 
 
-     (_b_)   if the sending State has no diplomatic mission and no other consular post in the receiving State, the provisions of sub‑paragraphs (_b_) and (_c_) of paragraph 1 of this Article shall apply.
+     (_b_)   if the sending State has no diplomatic mission and no other consular post in the receiving State, the provisions of sub-paragraphs (_b_) and (_c_) of paragraph 1 of this Article shall apply.
 
 CHAPTER II. FACILITIES, PRIVILEGES AND IMMUNITIES RELATING TO CONSULAR POSTS, CAREER CONSULAR OFFICERS AND OTHER MEMBERS OF A CONSULAR POST 
 
@@ -692,11 +690,11 @@ The receiving State shall accord full facilities for the performance of the func
 
 _Article_ 29 
 
-_Use of national flag and coat‑of‑arms_ 
+_Use of national flag and coat-of-arms_ 
 
-**1.**The sending State shall have the right to the use of its national flag and coat‑of‑arms in the receiving State in accordance with the provisions of this Article. 
+**1.**The sending State shall have the right to the use of its national flag and coat-of-arms in the receiving State in accordance with the provisions of this Article. 
 
-**2.**The national flag of the sending State may be flown and its coat‑of‑arms displayed on the building occupied by the consular post and at the entrance door thereof, on the residence of the head of the consular post and on his means of transport when used on official business. 
+**2.**The national flag of the sending State may be flown and its coat-of-arms displayed on the building occupied by the consular post and at the entrance door thereof, on the residence of the head of the consular post and on his means of transport when used on official business. 
 
 **3.**In the exercise of the right accorded by this Article regard shall be had to the laws, regulations and usages of the receiving State. 
 
@@ -766,7 +764,7 @@ _Communication and contact with nationals of the sending State_
 
      (_a_)   consular officers shall be free to communicate with nationals of the sending State and to have access to them. Nationals of the sending State shall have the same freedom with respect to communication with and access to consular officers of the sending State; 
 
-     (_b_)   if he so requests, the competent authorities of the receiving State shall, without delay, inform the consular post of the sending State if, within its consular district, a national of that State is arrested or committed to prison or to custody pending trial or is detained in any other manner. Any communication addressed to the consular post by the person arrested, in prison, custody or detention shall also be forwarded by the said authorities without delay. The said authorities shall inform the person concerned without delay of his rights under this sub‑paragraph; 
+     (_b_)   if he so requests, the competent authorities of the receiving State shall, without delay, inform the consular post of the sending State if, within its consular district, a national of that State is arrested or committed to prison or to custody pending trial or is detained in any other manner. Any communication addressed to the consular post by the person arrested, in prison, custody or detention shall also be forwarded by the said authorities without delay. The said authorities shall inform the person concerned without delay of his rights under this sub-paragraph; 
 
      (_c_)   consular officers shall have the right to visit a national of the sending State who is in prison, custody or detention, to converse and correspond with him and to arrange for his legal representation. They shall also have the right to visit any national of the sending State who is in prison, custody or detention in their district in pursuance of a judgment. Nevertheless, consular officers shall refrain from taking action on behalf of a national who is in prison, custody or detention if he expressly opposes such action. 
 
@@ -856,7 +854,7 @@ _Waiver of privileges and immunities_
 
 **2.**The waiver shall in all cases be express, except as provided in paragraph 3 of this Article, and shall be communicated to the receiving State in writing. 
 
-**3.**The initiation of proceedings by a consular officer or a consular employee in a matter where he might enjoy immunity from jurisdiction under Article 43 shall preclude him from invoking immunity from jurisdiction in respect of any counter‑claim directly connected with the principal claim. 
+**3.**The initiation of proceedings by a consular officer or a consular employee in a matter where he might enjoy immunity from jurisdiction under Article 43 shall preclude him from invoking immunity from jurisdiction in respect of any counter-claim directly connected with the principal claim. 
 
 **4.**The waiver of immunity from jurisdiction for the purposes of civil or administrative proceedings shall not be deemed to imply the waiver of immunity from the measures of execution resulting from the judicial decision; in respect of such measures, a separate waiver shall be necessary. 
 
@@ -926,7 +924,7 @@ _Exemption from customs duties and inspection_
 
 **2.**Consular employees shall enjoy the privileges and exemptions specified in paragraph 1 of this Article in respect of articles imported at the time of first installation. 
 
-**3.**Personal baggage accompanying consular officers and members of their families forming part of their households shall be exempt from inspection. It may be inspected only if there is serious reason to believe that it contains articles other than those referred to in sub‑paragraph (_b_) of paragraph 1 of this Article, or articles the import or export of which is prohibited by the laws and regulations of the receiving State or which are subject to its quarantine laws and regulations. Such inspection shall be carried out in the presence of the consular officer or member of his family concerned. 
+**3.**Personal baggage accompanying consular officers and members of their families forming part of their households shall be exempt from inspection. It may be inspected only if there is serious reason to believe that it contains articles other than those referred to in sub-paragraph (_b_) of paragraph 1 of this Article, or articles the import or export of which is prohibited by the laws and regulations of the receiving State or which are subject to its quarantine laws and regulations. Such inspection shall be carried out in the presence of the consular officer or member of his family concerned. 
 
 _Article_ 51 
 
@@ -996,7 +994,7 @@ _Special provisions concerning private gainful occupation_
 
      (_a_)   to consular employees or to members of the service staff who carry on any private gainful occupation in the receiving State; 
 
-     (_b_)   to members of the family of a person referred to in sub‑paragraph (_a_) of this paragraph or to members of his private staff; 
+     (_b_)   to members of the family of a person referred to in sub-paragraph (_a_) of this paragraph or to members of his private staff; 
 
      (_c_)   to members of the family of a member of a consular post who themselves carry on any private gainful occupation in the receiving State. 
 
@@ -1038,7 +1036,7 @@ _Article_ 62
 
 _Exemption from customs duties_ 
 
-The receiving State shall, in accordance with such laws and regulations as it may adopt, permit entry of, and grant exemption from all customs duties, taxes, and related charges other than charges for storage, cartage and similar services on the following articles, provided that they are for the official use of a consular post headed by an honorary consular officer: coats‑of‑arms, flags, signboards, seals and stamps, books, official printed matter, office furniture, office equipment and similar articles supplied by or at the instance of the sending State to the consular post. 
+The receiving State shall, in accordance with such laws and regulations as it may adopt, permit entry of, and grant exemption from all customs duties, taxes, and related charges other than charges for storage, cartage and similar services on the following articles, provided that they are for the official use of a consular post headed by an honorary consular officer: coats-of-arms, flags, signboards, seals and stamps, books, official printed matter, office furniture, office equipment and similar articles supplied by or at the instance of the sending State to the consular post. 
 
 _Article_ 63 
 
@@ -1112,7 +1110,7 @@ _Nationals or permanent residents of the receiving State_
 
 _Article_ 72 
 
-_Non‑discrimination_
+_Non-discrimination_
 
 **1.**In the application of the provisions of the present Convention the receiving State shall not discriminate as between States. 
 
@@ -1142,27 +1140,27 @@ _Article_ 75
 
 _Ratification_
 
-The present Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary‑General of the United Nations. 
+The present Convention is subject to ratification. The instruments of ratification shall be deposited with the Secretary-General of the United Nations. 
 
 _Article_ 76
 
 _Accession_
 
-The present Convention shall remain open for accession by any State belonging to any of the four categories mentioned in Article 74\. The instruments of accession shall be deposited with the Secretary‑General of the United Nations. 
+The present Convention shall remain open for accession by any State belonging to any of the four categories mentioned in Article 74\. The instruments of accession shall be deposited with the Secretary-General of the United Nations. 
 
 _Article_ 77 
 
 _Entry into force_ 
 
-**1**The present Convention shall enter into force on the thirtieth day following the date of deposit of the twenty‑second instrument of ratification or accession with the Secretary‑General of the United Nations. 
+**1**The present Convention shall enter into force on the thirtieth day following the date of deposit of the twenty-second instrument of ratification or accession with the Secretary-General of the United Nations. 
 
-**2.**  For each State ratifying or acceding to the Convention after the deposit of the twenty‑second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession. 
+**2.**  For each State ratifying or acceding to the Convention after the deposit of the twenty-second instrument of ratification or accession, the Convention shall enter into force on the thirtieth day after deposit by such State of its instrument of ratification or accession. 
 
 _Article_ 78 
 
-_Notifications by the Secretary‑General_
+_Notifications by the Secretary-General_
 
-The Secretary‑General of the United Nations shall inform all States belonging to any of the four categories mentioned in Article 74:
+The Secretary-General of the United Nations shall inform all States belonging to any of the four categories mentioned in Article 74:
 
                         _(a)_   of signatures to the present Convention and of the deposit of instruments of ratification or accession, in accordance with Articles 74, 75 and 76; 
 
@@ -1172,13 +1170,15 @@ _Article_ 79
 
 _Authentic texts_ 
 
-The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary‑General of the United Nations, who shall send certified copies thereof to all States belonging to any of the four categories mentioned in Article 74\. 
+The original of the present Convention, of which the Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States belonging to any of the four categories mentioned in Article 74\. 
 
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized thereto by their respective Governments, have signed the present Convention. 
 
-DONE AT VIENNA, this twenty‑fourth day of April, one thousand nine hundred and sixty‑three.
+DONE AT VIENNA, this twenty-fourth day of April, one thousand nine hundred and sixty-three.
 
 _(Here follow the signatures of the Plenipotentiaries of the States on behalf of which the Convention was signed.)_
+
+ 
 
 # Notes to the _Consular Privileges and Immunities Act 1972_
 
@@ -1563,23 +1563,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (items 56–62): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1593,9 +1576,9 @@ _(a)_     The _Consular Privileges and Immunities Act 1972_ was amended 
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-                 (7)   The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.
+                 (7)   The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on  22 December 1975.
 
-_(b)_     The _Consular Privileges and Immunities Act 1972_ was amended by section 3 only of the _Australian Federal Police (Consequential Amendments) Act 1979_, subsection 2(1) of which provides as follows:
+_(b)_    The _Consular Privileges and Immunities Act 1972_ was amended by section 3 only of the _Australian Federal Police (Consequential Amendments) Act 1979_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsection (2), this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the date fixed under subsection 2(2) of the _Australian Federal Police Act 1979_.
 
@@ -1603,7 +1586,7 @@ _(b)_     The _Consular Privileges and Immunities Act 1972_ was amended 
 
 _(c)_     The _Consular Privileges and Immunities Act 1972_ was amended by Part XVII (sections 134 and 135) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
 
-               (12)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (12)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(d)_     The _Consular Privileges and Immunities Act 1972_ was amended by Part LXXVII (section 280) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(1) of which provides as follows:
 
@@ -1611,7 +1594,7 @@ _(d)_     The _Consular Privileges and Immunities Act 1972_ was amended 
 
 _(e)_     The _Consular Privileges and Immunities Act 1972_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(f)_      Section 2 of the _Customs Tariff (Miscellaneous Amendments) Act 1976_ provides as follows:
 
@@ -1655,7 +1638,7 @@ _(h)_ The _Consular Privileges and Immunities Act 1972_ was amended by Schedule�
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 65, 1985; No. 15, 1988; No. 118, 1992; No. 177, 1999; No. 21, 2007; No. 5, 2011</div>
+    <div>am. No. 216, 1973; No. 65, 1985; No. 15, 1988; No. 118, 1992; No. 177, 1999; No. 21, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1679,7 +1662,7 @@ _(h)_ The _Consular Privileges and Immunities Act 1972_ was amended by Schedule�
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 91, 1976; Nos. 26, 80 and 115, 1982; No. 65, 1985; No. 76, 1987; No. 15, 1988; No. 15, 1996; No. 177, 1999: No. 73, 2008; No. 5, 2011</div>
+    <div>am. No. 216, 1973; No. 91, 1976; Nos. 26, 80 and 115, 1982; No. 65, 1985; No. 76, 1987; No. 15, 1988; No. 15, 1996; No. 177, 1999: No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1687,7 +1670,7 @@ _(h)_ The _Consular Privileges and Immunities Act 1972_ was amended by Schedule�
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 91, 1976; No. 80, 1982; No. 65, 1985; No. 15, 1988: No. 73, 2008; No. 5, 2011</div>
+    <div>am. No. 216, 1973; No. 91, 1976; No. 80, 1982; No. 65, 1985; No. 15, 1988: No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1780,14 +1763,6 @@ _(h)_ The _Consular Privileges and Immunities Act 1972_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to The Schedule</div>
   </td>
   <td>
@@ -1838,17 +1813,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
