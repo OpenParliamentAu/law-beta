@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00513/Html/b8ba8ddc-e2ae-43d4-b788-6a1324d68f00_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00083/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
 
 # Financial Institutions Supervisory Levies Collection Act 1998
 
 **Act No. 53 of 1998 as amended**
 
-This compilation was prepared on 27 July 2010
- taking into account amendments up to Act No. 82 of 2010
+This compilation was prepared on 27 February 2010
+ taking into account amendments up to Act No. 75 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,7 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -119,7 +119,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act binds the Crown in each of its capacities.
 
-##### <a id="4"></a>4  External Territories
+##### <a id="4"></a>4  External  Territories
 
                    This Act extends to each external Territory.
 
@@ -143,7 +143,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="adi"></a>**_ADI_** has the same meaning as in the _Banking Act 1959_.
 
-Note:          ADI is short for authorised deposit‑taking institution.
+Note:          ADI is short for authorised deposit-taking institution.
 
                     <a name="authorised-nohc"></a>**_authorised NOHC_** means:
 
@@ -155,7 +155,7 @@ Note:          ADI is short for authorised deposit‑taking in
 
                      (b)  a registered NOHC within the meaning of the _Life Insurance Act 1995_.
 
-Note:          NOHC is short for non‑operating holding company.
+Note:          NOHC is short for non-operating holding company.
 
                     <a name="busi-dai"></a>**_business day_** means a day that is not a Saturday, a Sunday, a public holiday or a bank holiday in the place concerned.
 
@@ -183,9 +183,9 @@ Note:          NOHC is short for non‑operating holding compa
 
                     <a name="levi"></a>**_levy_** means:
 
-                     (a)  in respect of a leviable body that is an ADI—levy imposed by the _Authorised Deposit‑taking Institutions Supervisory Levy Imposition Act 1998_; or
+                     (a)  in respect of a leviable body that is an ADI—levy imposed by the _Authorised Deposit-taking Institutions Supervisory Levy Imposition Act 1998_; or
 
-                     (b)  in respect of a leviable body that is an authorised NOHC—levy imposed by the _Authorised Non‑operating Holding Companies Supervisory Levy Imposition Act 1998_; or
+                     (b)  in respect of a leviable body that is an authorised NOHC—levy imposed by the _Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998_; or
 
                      (c)  in respect of a leviable body that is a life insurance company—levy imposed by the _Life Insurance Supervisory Levy Imposition Act 1998_; or
 
@@ -225,11 +225,11 @@ Note:          NOHC is short for non‑operating holding compa
 
 ADIs
 
-             (1)  A body corporate that is an ADI at any time during a financial year that ends after the commencement of the _Authorised Deposit‑taking Institutions Supervisory Levy Imposition Act 1998_ is liable to pay a levy in respect of that financial year.
+             (1)  A body corporate that is an ADI at any time during a financial year that ends after the commencement of the _Authorised Deposit-taking Institutions Supervisory Levy Imposition Act 1998_ is liable to pay a levy in respect of that financial year.
 
 Authorised NOHCs
 
-             (2)  A body corporate that is an authorised NOHC at any time during a financial year that ends on or after the commencement of the _Authorised Non‑operating Holding Companies Supervisory Levy Imposition Act 1998_ is liable to pay a levy in respect of that financial year.
+             (2)  A body corporate that is an authorised NOHC at any time during a financial year that ends on or after the commencement of the _Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998_ is liable to pay a levy in respect of that financial year.
 
 General insurance bodies corporate
 
@@ -271,7 +271,7 @@ Leviable FHSA entities
 
                      (a)  if the entity is a superannuation entity on 1 July of the financial year and became a superannuation entity before that day—on a business day that:
 
-                              (i)  is specified in a notice given by APRA to the trustee on or after the day on which an annual return that is a reporting document under section 13 of the _Financial Sector (Collection of Data) Act 2001_ and that relates to the previous financial year was received by APRA; and
+                              (i)  is specified in a notice given by APRA to the Treasurer on or after the day on which an annual return that is a reporting document under section 13 of the _Financial Sector (Collection of Data) Act 2001_ and that relates to the previous financial year was received by APRA; and
 
                              (ii)  is not earlier than 6 weeks after the day on which the notice is given; or
 
@@ -393,7 +393,7 @@ the law does not operate to exempt the levy paying entity from liability to pay 
 
 the trustee is liable to pay to the Commonwealth, in respect of that levy month, by way of penalty, the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00513/Html/b8ba8ddc-e2ae-43d4-b788-6a1324d68f00_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00083/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
 
              (2)  Late payment penalty for a levy month is due and payable at the end of the levy month.
 
@@ -473,7 +473,7 @@ Note:          The notice may affect whether and when the ADI 
 
              (1)  If any levy payable by an ADI or general insurer remains unpaid at the start of a levy month after the levy became due for payment, the ADI or general insurer is liable to pay the Commonwealth, for that levy month, a penalty worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00513/Html/b8ba8ddc-e2ae-43d4-b788-6a1324d68f00_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00083/Html/FinanInstSuperLeviesCollect98WD02_image003.gif)
 
              (2)  Late payment penalty for a levy month is due and payable at the end of the levy month.
 
@@ -589,7 +589,7 @@ that notice must include words to the effect that the levy paying entity may, su
 
 ##### <a id="29"></a>29  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -669,10 +669,10 @@ of Assent</div>
     <div>8 Oct 1999</div>
   </td>
   <td>
-    <div>Schedule 2 (items 3, 4, 42(2)): Royal Assent</div>
+    <div>Schedule 2 (items 3, 4, 42(2)): Royal Assent <i>(a)</i></div>
   </td>
   <td>
-    <div>Sch. 2 (item 42(2))</div>
+    <div>Sch. 2 (item 42(2))</div>
   </td>
 </tr>
 <tr>
@@ -686,8 +686,8 @@ of Assent</div>
     <div>3 Apr 2000</div>
   </td>
   <td>
-    <div>Schedule 9 (item 1) and Schedule 12 (item 10): Royal Assent <i>(a) 
- </i>Schedule 12 (items 1–3): 3 Apr 2000 <i>(a)</i></div>
+    <div>Schedule 9 (item 1) and Schedule 12 (item 10): Royal Assent <i>(b) 
+ </i>Schedule 12 (items 1–3): 3 Apr 2000 <i>(b)</i></div>
   </td>
   <td>
     <div>Sch. 12 (items 
@@ -757,7 +757,7 @@ Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. GN24)</
     <div>26 June 2002</div>
   </td>
   <td>
-    <div>Schedule 2: 27 June 2002</div>
+    <div>Schedule 2: 27 June 2002 <i>(c)</i></div>
   </td>
   <td>
     <div>Sch. 2 (item 4)</div>
@@ -860,7 +860,7 @@ Remainder: Royal Assent</div>
     <div>17 Oct 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 55–57): <i>(b)</i></div>
+    <div>Schedule 1 (items 55–57): <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -882,26 +882,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Prudential Refinements and Other Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>82, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 3): 27 July 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was amended by Schedule 9 (item 1) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000_, subsections 2(1), (12) and (13) of which provide as follows:
+_(a)_     The _Financial Institutions Supervisory Levies Collection Act 1998_ was amended by Schedule 2 (items 3 and 4) only of the _Superannuation Legislation Amendment Act (No. 3) 1999,_ subsection 2(1) of which provides as follows _:_
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(b)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was amended by Schedule 9 (item 1) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000_, subsections 2(1), (12) and (13) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -917,7 +904,93 @@ _(a)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
 
                               (b)   each of the Acts referred to in the definition of **_Validation Act_** in item 1 of Schedule 12 to this Act.
 
-_(b)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008_ provides as follows:
+_(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was amended by Schedule 2 only of the _Financial Sector Legislation Amendment Act (No. 1) 2002_, subsection 2(1) (item 2) of which provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedules 1 to 3
+    </div>
+  </td>
+  <td>
+    <div>
+      The day after the day on which this Act receives the Royal Assent
+    </div>
+  </td>
+  <td>
+    <div>
+      27 June 2002
+    </div>
+  </td>
+</tr></table>
+
+_(d)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Amendment (Financial Claims Scheme and Other Measures) Act 2008_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -973,7 +1046,8 @@ _(b)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
 <tr>
   <td>
     <div>
-      3\. Schedules 2 to 5
+      3\. Schedules 
+      2 to 5
     </div>
   </td>
   <td>
@@ -1048,7 +1122,7 @@ _(b)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 121, 2001 (as am. by No. 154, 2007); No 37, 2002; No. 154, 2007; No. 82, 2010</div>
+    <div>am. No. 37, 2002; No. 154, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1150,7 +1224,7 @@ _Superannuation Legislation Amendment Act (No. 3) 1999 (No. 121, 1999)_
 
 ## 42  Application provisions
 
-(2)       The amendments of the _Financial Institutions Supervisory Levies Collection Act 1998_ made by this Schedule apply to an entity in respect of the financial year beginning on 1 July 2000 and subsequent financial years.
+(2)        The amendments of the _Financial Institutions Supervisory Levies Collection Act 1998_ made by this Schedule apply to an entity in respect of the financial year beginning on 1 July 2000 and subsequent financial years.
 
 * * *
 
@@ -1168,7 +1242,7 @@ In this Part:
 
 **_Imposition Act_** means any of the following Acts:
 
-                     (a)  the _Authorised Non‑operating Holding Companies Supervisory Levy Imposition Act 1998_; 
+                     (a)  the _Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998_; 
 
                      (b)  the _General Insurance Supervisory Levy Imposition Act 1998_; 
 
@@ -1182,7 +1256,7 @@ In this Part:
 
 **_Validation Act_** means any of the following Acts:
 
-                     (a)  the _Authorised Non‑operating Holding Companies Supervisory Levy Determination Validation Act 2000_;
+                     (a)  the _Authorised Non-operating Holding Companies Supervisory Levy Determination Validation Act 2000_;
 
                      (b)  the _General Insurance Supervisory Levy Determination Validation Act 2000_;
 
@@ -1194,13 +1268,13 @@ In this Part:
 
 ## 2  Deferral of date for paying levy
 
-(1)       This item applies to a levy paying entity if, because of section 4 of a Validation Act:
+(1)        This item applies to a levy paying entity if, because of section 4 of a Validation Act:
 
                      (a)  the entity is liable to pay levy imposed by an Imposition Act; and
 
                      (b)  the levy payable by the entity would, apart from this item, have been due and payable under section 9 of the Collection Act before the deferred payment day.
 
-(2)       The levy payable by the entity is taken to be due and payable on the deferred payment day, despite section 9 of the Collection Act.
+(2)        The levy payable by the entity is taken to be due and payable on the deferred payment day, despite section 9 of the Collection Act.
 
 _Note:       This provision affects the calculation of late payment penalty (if any) under section 10 of the Collection Act._
 
@@ -1245,8 +1319,8 @@ _Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 
 
 ## 21  Application of amendments made by this Schedule
 
-(1)       The amendments made by this Schedule apply in relation to applications for financial assistance made on or after the commencement of this Schedule (whether or not the eligible loss to which the application relates is suffered before or after the commencement of this Schedule).
+(1)        The amendments made by this Schedule apply in relation to applications for financial assistance made on or after the commencement of this Schedule (whether or not the eligible loss to which the application relates is suffered before or after the commencement of this Schedule).
 
-(2)       However, if an application for financial assistance in relation to an eligible loss was made before the commencement of this Schedule, the amendments made by this Schedule do not apply in relation to any further application in respect of that loss.
+(2)        However, if an application for financial assistance in relation to an eligible loss was made before the commencement of this Schedule, the amendments made by this Schedule do not apply in relation to any further application in respect of that loss.
 
  
