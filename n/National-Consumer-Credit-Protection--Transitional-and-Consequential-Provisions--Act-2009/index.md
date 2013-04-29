@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00681/Html/2a9411e2-99bc-4028-a25d-77e06ce02a9e_files/image001.png)
+![](http://www.comlaw.gov.au/Details/C2012C00588/Html/1f28c052-cd56-4cab-9bd9-a522e6da68ee_files/image001.png)
 
 # National Consumer Credit Protection (Transitional and Consequential Provisions) Act 2009
 
 **Act No. 135 of 2009 as amended**
 
-This compilation was prepared on 19 September 2012
- taking into account amendments up to Act No. 130 of 2012
+This compilation was prepared on 7 August 2012
+ taking into account amendments up to Act No. 84 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -84,35 +84,23 @@ Division 2—The conditions on the registration          �
 
 Division 3—Obligations of registered persons                                                      43
 
-Division 4—When registrations can be suspended, cancelled or varied          47
+Division 4—When registrations can be suspended, cancelled or varied          48
 
-Part 4—Application of other provisions of the National Credit Act in relation to registered persons and this Schedule                                                                                                 54
+Part 4—Application of other provisions of the National Credit Act in relation to registered persons and this Schedule                                                                                                 55
 
-Part 5—Exemptions and modifications relating to this Schedule        60
+Part 5—Exemptions and modifications relating to this Schedule        61
 
-Part 6—Regulations relating to infringement notices                                 63
+Part 6—Regulations relating to infringement notices                                 64
 
 **Schedule 3—Consequential amendments** 
 
-Australian Securities and Investments Commission Act 2001                          64
+Australian Securities and Investments Commission Act 2001                          65
 
-Corporations Act 2001                                                                                             64
+Corporations Act 2001                                                                                             65
 
-**Schedule 4—Application and transitional provisions for the National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011** 
+**Schedule 4—Other application and transitional provisions** 
 
-**Schedule 5—Application provisions for the Consumer Credit Legislation Amendment (Enhancements) Act 2012** 
-
-Part 1—Definition                                                                                                        67
-
-Part 2—Schedule 1 (enhancements) to the amending Act                       68
-
-Part 3—Schedule 2 (reverse mortgages) to the amending Act              70
-
-Part 4—Schedule 3 (short‑term and small amount credit contracts) to the amending Act            72
-
-Part 5—Schedule 4 (caps on costs etc. for credit contracts) to the amending Act            73
-
-Part 6—Schedule 5 (consumer leases) to the amending Act                   74
+Part 1—Application and Transitional provisions for the National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011                                   66
 
 **Notes** 
 
@@ -1991,23 +1979,25 @@ Add:
 
 the licence number that ASIC gives to the Australian financial services licence held by that person must be the same number as the person’s Australian credit licence number (within the meaning of that Act).
 
-###### Schedule 4—Application and transitional provisions for the National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011
+###### Schedule 4—Other application and transitional provisions
 
-## 1  Definitions
+<h7 class="ActHead7">Part 1—Application and Transitional provisions for the National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011</h7>
 
-In this Schedule:
+1  Definitions
+
+In this Part:
 
 **_amended Act_** means the _National Consumer Credit Protection Act 2009_ as amended by Part 2 of Schedule 1 to the _National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011_.
 
 **_commencement_** means the commencement of Part 2 of Schedule 1 to the _National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011_.
 
-## 2  Application of Divisions of Part 3‑2B of the amended Act
+2  Application of Divisions of Part 3‑2B of the amended Act
 
 (1)       Division 4 of Part 3‑2B of the amended Act applies to credit card contracts whether entered into before, on or after commencement.
 
 (2)       Divisions 5 and 6 of Part 3‑2B of the amended Act apply to credit card contracts entered into after commencement.
 
-## 3  Pre‑commencement consents for credit limit increase invitations
+3  Pre‑commencement consents for credit limit increase invitations
 
 (1)       Subject to subitem (2), if:
 
@@ -2024,118 +2014,6 @@ then, for the purposes of Division 4 of Part 3‑2B of the amended Act, the 
 _Note:       The consumer may, after commencement, withdraw the consent in accordance with section 133BF of the amended Act._
 
 (2)       Section 133BG of the amended Act does not apply in relation to the consent, so far as that section would otherwise require a record of the consent to be kept. However that section does apply in relation to a withdrawal of the consent after commencement.
-
-###### Schedule 5—Application provisions for the Consumer Credit Legislation Amendment (Enhancements) Act 2012
-
-<h7 class="ActHead7">Part 1—Definition</h7>
-
-## 1  Definition
-
-In this Schedule:
-
-**_amending Act_** means the _Consumer Credit Legislation Amendment (Enhancements) Act 2012_.
-
-<h7 class="ActHead7">Part 2—Schedule 1 (enhancements) to the amending Act</h7>
-
-## 2  Section 128 of the National Credit Act
-
-The amendments of section 128 of the National Credit Act made by Schedule 1 to the amending Act apply in relation to representations made on or after the commencement of that Schedule.
-
-## 3  Section 180A of the National Credit Act
-
-Section 180A of the National Credit Act, as inserted by Schedule 1 to the amending Act, applies in relation to credit services provided on or after the commencement of that Schedule.
-
-## 4  Sections 32 and 40 of the new Credit Code
-
-The amendments of sections 32 and 40 of the new Credit Code made by Schedule 1 to the amending Act apply in relation to credit contracts entered into on or after the commencement of that Schedule.
-
-## 5  Sections 72, 73, 74 and 88 of the new Credit Code
-
-The amendments of sections 72, 73, 74 and 88 of the new Credit Code made by Schedule 1 to the amending Act apply in relation to credit contracts made on or after the commencement of that Schedule.
-
-## 6  Section 89A of the new Credit Code
-
-Section 89A of the new Credit Code, as inserted by Schedule 1 to the amending Act, applies in relation to credit contracts, mortgages and guarantees entered into on or after the commencement of that Schedule.
-
-## 7  Section 94 of the new Credit Code
-
-The amendments of section 94 of the new Credit Code made by Schedule 1 to the amending Act apply in relation to credit contracts, mortgages and guarantees entered into on or after the commencement of that Schedule.
-
-## 8  Section 124 of the new Credit Code
-
-The amendments of section 124 of the new Credit Code made by Schedule 1 to the amending Act apply in relation to applications made on or after the commencement of that Schedule, whether the contraventions occurred before, on or after that commencement.
-
-<h7 class="ActHead7">Part 3—Schedule 2 (reverse mortgages) to the amending Act</h7>
-
-## 9  Subsections 179(6) and (7) of the National Credit Act
-
-Subsections 179(6) and (7) of the National Credit Act, as added by item 11 of Schedule 2 to the amending Act, apply in relation to credit contracts entered into on or after the commencement of that item.
-
-## 10  Subsection 17(15A) of the new Credit Code
-
-Subsection 17(15A) of the new Credit Code, as inserted by item 12 of Schedule 2 to the amending Act, applies in relation to credit contracts entered into on or after the commencement of that item.
-
-## 11  Section 18A of the new Credit Code
-
-Section 18A of the new Credit Code, as inserted by item 13 of Schedule 2 to the amending Act, applies to entry into, and changes to, credit contracts on or after the commencement of that item.
-
-## 12  Subsection 26(6) of the new Credit Code
-
-Subsection 26(6) of the new Credit Code, as added by item 15 of Schedule 2 to the amending Act, applies in relation to credit contracts entered into on or after the commencement of that item.
-
-## 13  Section 33 of the new Credit Code
-
-The amendments of section 33 of the new Credit Code made by items 16 and 17 of Schedule 2 to the amending Act apply to credit contracts entered into before, on or after the commencement of those items.
-
-## 14  Section 67A of the new Credit Code
-
-Section 67A of the new Credit Code, as inserted by item 18 of Schedule 2 to the amending Act, applies in relation to credit contracts entered into on or after the commencement of that item.
-
-## 15  Subdivision B of Division 1 of Part 5 of the new Credit Code
-
-Subdivision B of Division 1 of Part 5 of the new Credit Code, as inserted by item 20 of Schedule 2 to the amending Act, applies in relation to credit contracts and mortgages entered into on or after the commencement of that item.
-
-## 16  Subsections 88(1) and (2) of the new Credit Code
-
-The amendment of subsections 88(1) and (2) of the new Credit Code made by item 21 of Schedule 2 to the amending Act applies to credit contracts and mortgages entered into before, on or after the commencement of that item.
-
-## 17  Subsections 88(7A) and (7B) of the new Credit Code
-
-Subsections 88(7A) and (7B) of the new Credit Code, as inserted by item 22 of Schedule 2 to the amending Act, apply in relation to credit contracts and mortgages entered into on or after the commencement of that item.
-
-## 18  Section 93A of the new Credit Code
-
-Section 93A of the new Credit Code, as added by item 23 of Schedule 2 to the amending Act, applies in relation to credit contracts and mortgages entered into on or after the commencement of that item.
-
-## 19  Section 185A of the new Credit Code
-
-Section 185A of the new Credit Code, as inserted by item 26 of Schedule 2 to the amending Act, applies in relation to credit contracts entered into on or after the commencement of that item.
-
-<h7 class="ActHead7">Part 4—Schedule 3 (short‑term and small amount credit contracts) to the amending Act</h7>
-
-## 20  Paragraphs 124A(1)(b) and 133CA(1)(b) of the National Credit Act
-
-Paragraphs 124A(1)(b) and 133CA(1)(b) of the National Credit Act, as inserted by Schedule 3 to the amending Act, apply in relation to short‑term credit contracts entered into before, on or after the commencement of that Schedule.
-
-<h7 class="ActHead7">Part 5—Schedule 4 (caps on costs etc. for credit contracts) to the amending Act</h7>
-
-## 21  Sections 23A, 31A, 31B, 39A, 39B and 39C and subsection 114(1A) of the new Credit Code
-
-Sections 23A, 31A, 31B, 39A, 39B and 39C and subsection 114(1A) of the new Credit Code, as inserted by Schedule 4 to the amending Act, apply in relation to small amount credit contracts entered into on or after the commencement of that Schedule.
-
-## 21A  Section 32AA and paragraphs 111(1)(k) and (2)(fb) of the new Credit Code
-
-Section 32AA and paragraphs 111(1)(k) and (2)(fb) of the new Credit Code, as inserted by Schedule 4 to the amending Act, apply in relation to credit contracts entered into on or after the commencement of that Schedule.
-
-<h7 class="ActHead7">Part 6—Schedule 5 (consumer leases) to the amending Act</h7>
-
-## 22  Subsection 199(2) of the National Credit Act
-
-The amendments of subsection 199(2) of the National Credit Act made by Schedule 5 to the amending Act apply in relation to consumer leases entered into on or after the commencement of that Schedule.
-
-## 23  Part 11 of the new Credit Code
-
-The amendments in relation to Part 11 of the new Credit Code made by Schedule 5 to the amending Act apply in relation to consumer leases entered into on or after the commencement of that Schedule.
 
 # Notes to the _National Consumer Credit Protection (Transitional and Consequential Provisions) Act 2009_
 
@@ -2208,31 +2086,14 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Consumer Credit Legislation Amendment (Enhancements) Act 2012</div>
-  </td>
-  <td>
-    <div>130, 2012</div>
-  </td>
-  <td>
-    <div>17 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6: 18 Sept 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -2260,315 +2121,10 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Schedule 4</div>
-  </td>
-  <td>
-    <div>rs. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Schedule 4</div>
   </td>
   <td>
     <div>ad. No. 84, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 1 of 
-Schedule 4</div>
-  </td>
-  <td>
-    <div>rep. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 1</div>
-  </td>
-  <td>
-    <div>ad. No. 84, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>ad. No. 84, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 3</div>
-  </td>
-  <td>
-    <div>ad. No. 84, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 5</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 1</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 2</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 3</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 4</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 5</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 6</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 7</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 8</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 9</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 10</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 11</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 12</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 13</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 14</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 15</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 16</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 17</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 18</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 19</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 20</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 21</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 21A</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 22</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 23</div>
-  </td>
-  <td>
-    <div>ad. No. 130, 2012</div>
   </td>
 </tr></table>
 
