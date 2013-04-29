@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00306/Html/27359cbe-6046-44a8-9924-c94385217186_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00454/Html/FringeBenTaxApplicCommon86WD02_image001.gif)
 
 # Fringe Benefits Tax (Application to the Commonwealth) Act 1986
 
 **Act No. 42 of 1986 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 25 September 2009
+ taking into account amendments up to Act No. 88 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,39 +14,39 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[2A](#2A).         Objects
+[2A](#2A).         Objects                                                                                                 1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Application of Assessment Act in relation to Commonwealth employment
+[4](#4).            Application of Assessment Act in relation to Commonwealth employment         3
 
-[5](#5).            Application of Act to certain Commonwealth authorities
+[5](#5).            Application of Act to certain Commonwealth authorities                  3
 
-[5A](#5A).         Modified objection, review and appeal provisions
+[5A](#5A).         Modified objection, review and appeal provisions                             3
 
-[6](#6).            Exemption of certain benefits provided under the Defence Service Homes Act
+[6](#6).            Exemption of certain benefits provided under the Defence Service Homes Act     3
 
-[6AA](#6AA).      Exemption of benefits provided to certain people
+[6AA](#6AA).      Exemption of benefits provided to certain people                              4
 
-[6AB](#6AB).      Exemption of benefits provided to Commonwealth employees under the Entitlements Act and the Military Rehabilitation and Compensation Act
+[6AB](#6AB).      Exemption of benefits provided to Commonwealth employees under the Entitlements Act and the Military Rehabilitation and Compensation Act                                                 4
 
-[6AC](#6AC).      Exemption of health care benefits provided to certain members of the Defence Force
+[6AC](#6AC).      Exemption of health care benefits provided to certain members of the Defence Force           5
 
-[6A](#6A).         No entitlement to rebate of tax
+[6A](#6A).         No entitlement to rebate of tax                                                            5
 
-[7](#7).            Directions by Finance Minister
+[7](#7).            Directions by Finance Minister                                                           5
 
-[8](#8).             Annual report
+[8](#8).             Annual report                                                                                     5
 
-[9](#9).            Regulations
+[9](#9).            Regulations                                                                                          5
 
 **Notes** 
 
@@ -82,7 +82,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  a Department of State;
 
-                     (b)  a Department of the Parliament established under the _Parliamentary Service Act 1999_; or
+                     (b)  a Department of the Parliament; or
 
                      (c)  an Executive Agency or Statutory Agency (within the meaning of the _Public Service Act 1999_).
 
@@ -158,7 +158,7 @@ the benefit is an exempt benefit. 
 
 ##### <a id="6AC"></a>6AC  Exemption of health care benefits provided to certain members <a id="of the Defence"></a>of the Defence Force
 
-             (1)  For the purposes of the application of the Assessment Act in accordance with this Act, if a benefit that consists of the provision of health care and is not otherwise an exempt benefit is provided, in respect of the employment of a Commonwealth employee, because of the employee being a member of the Defence Force, the first‑mentioned benefit is an exempt benefit.  
+             (1)  For the purposes of the application of the Assessment Act in accordance with this Act, if a benefit that consists of the provision of health care and is not otherwise an exempt benefit is provided, in respect of the employment of a Commonwealth employee, because of the employee being a member of the Defence Force, the first-mentioned benefit is an exempt benefit.  
 
              (2)  In this section, a reference to an employee being a member of the  Defence Force is a reference to an employee who is, was formerly, or will become, a member of the Defence Force.  
 
@@ -178,7 +178,7 @@ the benefit is an exempt benefit. 
 
 ##### <a id="9"></a>9  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -294,7 +294,7 @@ Remainder: 1 July 1986</div>
 </tr>
 <tr>
   <td>
-    <div>Veterans’ Affairs Legislation Amendment (1995‑96 Budget Measures) Act (No. 2) 1995</div>
+    <div>Veterans’ Affairs Legislation Amendment (1995-96 Budget Measures) Act (No. 2) 1995</div>
   </td>
   <td>
     <div>146, 1995</div>
@@ -376,30 +376,13 @@ Remainder: 1 July 1986</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 129): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Fringe Benefits Tax (Application to the Commonwealth) Act 1986_ was amended by section 113 only of the _Taxation Laws Amendment Act (No. 3) 1991_, subsection 2(10) of which provides as follows:
 
                (10)   Subject to subsection (11), sections 112 to 117 (inclusive) commence on a day to be fixed by Proclamation.
 
-_(b)_     The _Fringe Benefits Tax (Application to the Commonwealth) Act 1986_ was amended by the _Veterans’ Affairs Legislation Amendment (1995‑96 Budget Measures) Act (No. 2) 1995_, subsection 2(1) of which provides as follows:
+_(b)_    The _Fringe Benefits Tax (Application to the Commonwealth) Act 1986_ was amended by the _Veterans’ Affairs Legislation Amendment (1995-96 Budget Measures) Act (No. 2) 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -457,7 +440,7 @@ _(d)_     The _Fringe Benefits Tax (Application to the Commonwealth) Act
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 146, 1995; No. 146, 1999; No. 88, 2009; No. 5, 2011</div>
+    <div>am. No. 146, 1995; No. 146, 1999; No. 88, 2009</div>
   </td>
 </tr>
 <tr>
