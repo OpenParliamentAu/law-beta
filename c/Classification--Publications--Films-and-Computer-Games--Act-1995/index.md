@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2012C00567/Html/c2079971-17a7-4a00-96e6-ae608ad08ea5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00310/Html/234d43d0-0ef1-437e-8533-a78ca24c1754_files/image001.gif)
 
 # Classification (Publications, Films and Computer Games) Act 1995
 
 **Act No. 7 of 1995 as amended**
 
-This compilation was prepared on 25 July 2012
- taking into account amendments up to Act No. 101 of 2012
+This compilation was prepared on 20 March 2012
+ taking into account amendments up to Act No. 58 of 2011
 
-[**Note**: Part 10 ceases to have effect on 16 July 2022, _see_ section 116]
+[**Note**: Part 10 ceases to have effect on 18 August 2012, _see_ section 115]
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -334,7 +334,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [98](#98).          Repeals
 
-**Part 10—Material prohibited in certain areas in the Northern Territory** 
+**Part 10—Material prohibited in prescribed areas** 
 
     **Division 1—Preliminary**
 
@@ -342,21 +342,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [99](#99).          Definitions
 
-[99A](#99A).       The Racial Discrimination Act is not affected
-
 [100](#100).        Concurrent operation of State and Territory laws
 
-[100A](#100A).     Prohibited material areas
+[100A](#100A).     Declarations by Indigenous Affairs  Minister
+
+[100B](#100B).     Reapplication of this Part
 
 [100C](#100C).     Delegation by Indigenous Affairs Minister
 
     **Division 2—Offences**
 
-[101](#101).        Possession or control of level 1 prohibited material in prohibited material areas
+[101](#101).        Possession or control of level 1 prohibited material in prescribed areas
 
-[102](#102).        Possession or control of level 2 prohibited material in prohibited material areas
+[102](#102).        Possession or control of level 2 prohibited material in prescribed areas
 
-[103](#103).        Supplying prohibited material in and to prohibited material areas
+[103](#103).        Supplying prohibited material in and to prescribed areas
 
 [104](#104).        Body corporate managers taken to have committed offences
 
@@ -382,11 +382,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [113](#113).        Compensation for acquisition of property
 
-[114](#114).        Review of operation of this Part
+[114](#114).        Minister may repeal provisions of this Part
 
-[115](#115).        Indigenous Affairs Minister may determine that provisions of this Part cease to have effect
-
-[116](#116).        Sunset provision [_see_ Note 1]
+[115](#115).        Sunset provision [_see_ Note 1]
 
 **Notes** 
 
@@ -2882,7 +2880,7 @@ is, on the day fixed under subsection 2(2) or the day applicable under subsectio
 
              (2)  The _Classification of Publications Ordinance 1983_ of the Australian Capital Territory is repealed.
 
-## Part 10—Material prohibited in certain areas in the Northern Territory
+## Part 10—Material prohibited in prescribed areas
 
 ### Division 1—Preliminary
 
@@ -2936,6 +2934,8 @@ is, on the day fixed under subsection 2(2) or the day applicable under subsectio
 
                     <a name="postal-servic"></a>**_postal service_** means a postal service within the meaning of paragraph 51(v) of the Constitution.
 
+                    <a name="prescrib-area"></a>**_prescribed area_** has the same meaning as in the _Northern Territory__National Emergency Response Act 2007_.
+
                     <a name="prohibit-advertis"></a>**_prohibited advertisement_** means an advertisement for a publication, a film or a computer game:
 
                      (a)  that has been refused approval under Part 3; or
@@ -2948,17 +2948,11 @@ is, on the day fixed under subsection 2(2) or the day applicable under subsectio
 
                      (b)  level 2 prohibited material.
 
-                    <a name="prohibit-materi-area"></a>**_prohibited material area_** means an area in the Northern Territory in relation to which a determination under subsection 100A(1) is in force.
-
                     <a name="seiz-materi"></a>**_seized material_** means material seized under section 106.
 
                     <a name="state-territori-bodi-corpor-manag"></a>**_State/Territory body corporate manager_**, in relation to a body corporate that operates within a State or Territory, means a person who takes part in managing, administering or governing the business of the body corporate in the State or Territory.
 
                     <a name="suppli"></a>**_supply_** includes supply by way of sale, exchange, gift, lease, loan, hire or hire‑purchase.
-
-##### <a id="99A"></a>99A  The Racial Discrimination Act is not affected
-
-                   This Part does not affect the operation of the _Racial Discrimination Act 1975_.
 
 ##### <a id="100"></a>100  Concurrent operation of State and Territory laws
 
@@ -2980,81 +2974,121 @@ an offence against the law of the State or Territory.
 
                      (c)  provides for a defence in relation to the offence that differs from the defences applicable to the offence under this Part.
 
-##### <a id="100A"></a>100A  Prohibited material areas
+##### <a id="100A"></a>100A  Declarations by Indigenous Affairs  Minister
 
-             (1)  The Indigenous Affairs Minister may, by legislative instrument, determine that an area in the Northern Territory is a prohibited material area.
+             (1)  The Indigenous Affairs Minister may, by legislative instrument, declare that this Part ceases to have effect in relation to a specified prescribed area or a specified part of a prescribed area.
 
-             (2)  The Indigenous Affairs Minister may, by legislative instrument, revoke or vary a determination under subsection (1).
+             (2)  The Indigenous Affairs Minister must not make a declaration under subsection (1) in relation to a prescribed area or a part of a prescribed area unless a request is made to the Indigenous Affairs Minister to do so by, or on behalf of, a person who is ordinarily resident in the prescribed area or in the part of the prescribed area.
 
-             (3)  The Indigenous Affairs Minister may make a determination under subsection (1) or (2):
-
-                     (a)  on the Indigenous Affairs Minister’s own initiative; or
-
-                     (b)  following a request made to the Indigenous Affairs Minister by, or on behalf of, a person who is ordinarily resident in the area to which the determination relates.
+             (3)  If the Indigenous Affairs Minister makes a declaration under subsection (1) in relation to a prescribed area or a part of a prescribed area, this Part continues to apply in relation to that area or part after the declaration takes effect in relation to things done, or omitted to be done, before the declaration takes effect.
 
 Community consultation
 
-             (4)  Before making a determination under subsection (1) or (2) in relation to an area, the Indigenous Affairs Minister must ensure that:
+             (4)  Before making a declaration under subsection (1) in relation to a prescribed area or a part of a prescribed area, the Indigenous Affairs Minister must ensure that:
 
                      (a)  information setting out:
 
-                              (i)  the proposal to make the determination; and
+                              (i)  the proposal to make the declaration; and
 
-                             (ii)  an explanation, in summary form, of the consequences of the making of the determination;
+                             (ii)  an explanation, in summary form, of the consequences of the making of the declaration;
 
-                            has been made available in the area; and
+                            has been made available in the prescribed area or the part of the prescribed area; and
 
-                     (b)  people living in the area have been given a reasonable opportunity to make submissions to the Indigenous Affairs Minister about:
+                     (b)  people in the prescribed area or the part of the prescribed area have been given a reasonable opportunity to discuss:
 
-                              (i)  the proposal to make the determination; and
+                              (i)  the proposal to make the declaration; and
 
-                             (ii)  the consequences of the making of the determination; and
+                             (ii)  the consequences of the making of the declaration; and
 
-                            (iii)  their circumstances, concerns and views, so far as they relate to the proposal.
+                            (iii)  their circumstances, concerns and views, so far as they relate to the proposal;
 
-             (5)  A failure to comply with subsection (4) does not affect the validity of a determination under subsection (1) or (2).
+                            with employees of the Commonwealth or such other persons as the Indigenous Affairs Minister thinks appropriate.
 
-Criteria for making a determination
+             (5)  A failure to comply with subsection (4) does not affect the validity of a declaration under subsection (1).
 
-             (6)  In making a determination under subsection (1) or (2) in relation to an area, the Indigenous Affairs Minister must have regard to the following matters:
+Criteria for making a declaration
 
-                     (a)  the object of this Part (see section 98A);
+             (6)  In making a declaration under subsection (1) in relation to a prescribed area or a part of a prescribed area, the Indigenous Affairs Minister must have regard to the following matters:
 
-                     (b)  the wellbeing of people living in the area;
+                     (a)  the well‑being of people living in the prescribed area or the part of the prescribed area;
 
-                     (c)  whether there is reason to believe that people living in the area have been the victims of violence or sexual abuse;
+                     (b)  whether there is reason to believe that people living in the prescribed area or the part of the prescribed area have been the victims of violence or sexual abuse during a period the Indigenous Affairs Minister considers appropriate;
 
-                     (d)  the extent to which people living in the area have expressed their concerns about being at risk of violence or sexual abuse;
+                     (c)  the extent to which people living in the prescribed area or the part of the prescribed area have, during a period the Indigenous Affairs Minister considers appropriate, expressed their concerns about being at risk of violence or sexual abuse;
 
-                     (e)  whether there is reason to believe that children living in the area have been exposed to prohibited material;
+                     (d)  whether there is reason to believe that children living in the prescribed area or the part of the prescribed area have been exposed to prohibited material during a period the Indigenous Affairs Minister considers appropriate;
 
-                      (f)  the extent to which people living in the area have expressed the view that their wellbeing will be improved if this Part continues to apply in relation to the area;
+                     (e)  the extent to which people living in the prescribed area or the part of the prescribed area have, during a period the Indigenous Affairs Minister considers appropriate, expressed the view that their well‑being will be improved if this Part continues to apply in relation to the prescribed area or the part of the prescribed area;
 
-                     (g)  any submissions of the kind referred to in paragraph (4)(b);
+                      (f)  any discussions of the kind referred to in paragraph (4)(b);
 
-                     (h)  the views of relevant law enforcement authorities;
+                     (g)  the views of relevant law enforcement authorities;
 
-                      (i)  any other matter that the Indigenous Affairs Minister considers relevant.
+                     (h)  any other matter that the Indigenous Affairs Minister considers relevant.
 
-             (7)  If:
+##### <a id="100B"></a>100B  Reapplication of this Part
 
-                     (a)  the Indigenous Affairs Minister makes a determination under subsection (1) in relation to an area; and
+             (1)  The Indigenous Affairs Minister may, by legislative instrument, revoke a declaration made under subsection 100A(1) in relation to a prescribed area or a part of a prescribed area.
 
-                     (b)  under subsection (2), the Indigenous Affairs Minister:
+             (2)  At and after the time the revocation takes effect, this Part again has effect in relation to the prescribed area or the part of the prescribed area.
 
-                              (i)  revokes the determination; or
+             (3)  The Indigenous Affairs Minister may make a revocation under subsection (1):
 
-                             (ii)  varies the determination so that the area is no longer a prohibited material area;
+                     (a)  on the Indigenous Affairs Minister’s own initiative; or
 
-then this Part continues to apply in relation to that area, after the revocation or variation takes effect, in relation to things done, or omitted to be done, before the revocation or variation takes effect.
+                     (b)  following a request made to the Indigenous Affairs Minister by, or on behalf of, a person who is ordinarily resident in the prescribed area or in the part of the prescribed area.
+
+Community consultation
+
+             (4)  Before making a revocation under subsection (1), the Indigenous Affairs Minister must ensure that:
+
+                     (a)  information setting out:
+
+                              (i)  the proposal to make the revocation; and
+
+                             (ii)  an explanation, in summary form, of the consequences of the making of the revocation;
+
+                            has been made available in the prescribed area or the part of the prescribed area; and
+
+                     (b)  people in the prescribed area or the part of the prescribed area have been given a reasonable opportunity to discuss:
+
+                              (i)  the proposal to make the revocation; and
+
+                             (ii)  the consequences of the making of the revocation; and
+
+                            (iii)  their circumstances, concerns and views, so far as they relate to the proposal;
+
+                            with employees of the Commonwealth or such other persons as the Indigenous Affairs Minister thinks appropriate.
+
+             (5)  A failure to comply with subsection (4) does not affect the validity of a revocation under subsection (1).
+
+Criteria for making a revocation
+
+             (6)  In making a revocation under subsection (1), the Indigenous Affairs Minister must have regard to the following matters:
+
+                     (a)  the well‑being of people living in the prescribed area or the part of the prescribed area;
+
+                     (b)  whether there is reason to believe that people living in the prescribed area or the part of the prescribed area have been the victims of violence or sexual abuse during a period the Indigenous Affairs Minister considers appropriate;
+
+                     (c)  the extent to which people living in the prescribed area or the part of the prescribed area have, during a period the Indigenous Affairs Minister considers appropriate, expressed their concerns about being at risk of violence or sexual abuse;
+
+                     (d)  whether there is reason to believe that children living in the prescribed area or the part of the prescribed area have been exposed to prohibited material during a period the Indigenous Affairs Minister considers appropriate;
+
+                     (e)  the extent to which people living in the prescribed area or the part of the prescribed area have, during a period the Indigenous Affairs Minister considers appropriate, expressed the view that their well‑being will be improved if this Part applies in relation to the prescribed area or the part of the prescribed area;
+
+                      (f)  any discussions of the kind referred to in paragraph (4)(b);
+
+                     (g)  the views of relevant law enforcement authorities;
+
+                     (h)  any other matter that the Indigenous Affairs Minister considers relevant.
 
 ##### <a id="100C"></a>100C  Delegation by Indigenous Affairs Minister
 
-                   The Indigenous Affairs Minister may, by writing, delegate any or all of his or her powers and functions under section 100A to the Indigenous Affairs Secretary.
+                   The Indigenous Affairs Minister may, by writing, delegate any or all of his or her powers and functions under sections 100A and 100B to the Indigenous Affairs Secretary.
 
 ### Division 2—Offences
 
-##### <a id="101"></a>101  Possession or control of level 1 prohibited material in prohibited material areas
+##### <a id="101"></a>101  Possession or control of level 1 prohibited material in prescribed areas
 
                    A person commits an offence if:
 
@@ -3062,11 +3096,11 @@ then this Part continues to apply in relation to that area, after the revocation
 
                      (b)  the material is level 1 prohibited material; and
 
-                     (c)  the material is in a prohibited material area.
+                     (c)  the material is in a prescribed area.
 
                     Penalty:  50 penalty units.
 
-##### <a id="102"></a>102  Possession or control of level 2 prohibited material in prohibited material areas
+##### <a id="102"></a>102  Possession or control of level 2 prohibited material in prescribed areas
 
                    A person commits an offence if:
 
@@ -3074,11 +3108,11 @@ then this Part continues to apply in relation to that area, after the revocation
 
                      (b)  the material is level 2 prohibited material; and
 
-                     (c)  the material is in a prohibited material area.
+                     (c)  the material is in a prescribed area.
 
                     Penalty:  100 penalty units.
 
-##### <a id="103"></a>103  Supplying prohibited material in and to prohibited material areas
+##### <a id="103"></a>103  Supplying prohibited material in and to prescribed areas
 
 Supply generally
 
@@ -3096,7 +3130,7 @@ Supply generally
 
                              (v)  possesses material intending to supply any of it to a third person; and
 
-                     (b)  the third person is in a prohibited material area; and
+                     (b)  the third person is in a prescribed area; and
 
                      (c)  the material is prohibited material.
 
@@ -3118,7 +3152,7 @@ Supplying 5 or more items
 
                              (v)  possesses material intending to supply any of it to a third person; and
 
-                     (b)  the third person is in a prohibited material area; and
+                     (b)  the third person is in a prescribed area; and
 
                      (c)  the material is prohibited material; and
 
@@ -3126,7 +3160,7 @@ Supplying 5 or more items
 
                     Penalty:  200 penalty units or imprisonment for 2 years, or both.
 
-             (3)  For the purposes of proving an offence against subsection (2), a person who engages in conduct specified in subparagraph (2)(a)(ii), (iii), (iv) or (v) in a prohibited material area, is taken to have done so:
+             (3)  For the purposes of proving an offence against subsection (2), a person who engages in conduct specified in subparagraph (2)(a)(ii), (iii), (iv) or (v) in a prescribed area, is taken to have done so:
 
                      (a)  intending to supply the material; or
 
@@ -3134,7 +3168,7 @@ Supplying 5 or more items
 
                      (c)  intending to assist another person to supply the material;
 
-as the subparagraph requires, to a person in a prohibited material area.
+as the subparagraph requires, to a person in a prescribed area.
 
              (4)  Subsection (3) does not apply in relation to a subparagraph mentioned in that subsection if the person proves that he or she did not have the intention or belief required by that subparagraph.
 
@@ -3166,7 +3200,7 @@ Note:          A defendant bears an evidential burden in relat
 
                    If:
 
-                     (a)  a police officer finds material in a prohibited material area; and
+                     (a)  a police officer finds material in a prescribed area; and
 
                      (b)  the officer suspects on reasonable grounds that the material is prohibited material;
 
@@ -3258,81 +3292,19 @@ the responsible officer must return the material to the owner. Otherwise the req
 
              (3)  If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
 
-##### <a id="114"></a>114  Review of operation of this Part
+##### <a id="114"></a>114  Minister may repeal provisions of this Part
 
-             (1)  The Indigenous Affairs Minister must cause an independent review to be undertaken of the first 7 years of the operation of this Part.
+             (1)  The Minister may, by legislative instrument, repeal some or all of the provisions of this Part.
 
-             (2)  The review must:
+             (2)  A provision is repealed under subsection (1) when the instrument repealing the provision is made.
 
-                     (a)  assess the effectiveness of the special measures provided for by this Part; and
+             (3)  Subsection 33(3) of the _Acts Interpretation Act 1901_ does not apply to an instrument made under subsection (1).
 
-                     (b)  consider any other matter specified by the Indigenous Affairs Minister.
+             (4)  Neither section 42 nor Part 6 of the _Legislative Instruments Act 2003_ applies to an instrument made under subsection (1).
 
-             (3)  The review must be completed, and a report must be prepared, before the end of 8 years after this Part commences.
+##### <a id="115"></a>115  Sunset provision [_see_ Note 1]
 
-             (4)  The person undertaking the review must give the report of the review to the Indigenous Affairs Minister.
-
-             (5)  The Indigenous Affairs Minister must cause a copy of the report to be tabled in each House of the Parliament within 15 sitting days of receiving it.
-
-##### <a id="115"></a>115  Indigenous Affairs Minister may determine that provisions of this Part cease to have effect
-
-             (1)  The Indigenous Affairs Minister may, by legislative instrument, determine that some or all of the provisions of this Part cease to have effect.
-
-Note:          Under section 116, all of the provisions of this Part cease to have effect 10 years after the day section 3 of the _Stronger Futures in the Northern Territory Act 2012_ commences. This section allows the Indigenous Affairs Minister to determine that some or all of the provisions of this Part cease to have effect before then.
-
-             (2)  The Indigenous Affairs Minister may, by legislative instrument, revoke a determination under subsection (1).
-
-Community consultation
-
-             (3)  Before making a determination under subsection (1) or (2), the Indigenous Affairs Minister must ensure that:
-
-                     (a)  information setting out:
-
-                              (i)  the proposal to make the determination; and
-
-                             (ii)  an explanation, in summary form, of the consequences of the making of the determination;
-
-                            has been made available to people living in prohibited material areas; and
-
-                     (b)  people living in prohibited material areas have been given a reasonable opportunity to make submissions to the Indigenous Affairs Minister about:
-
-                              (i)  the proposal to make the determination; and
-
-                             (ii)  the consequences of making the determination; and
-
-                            (iii)  their circumstances, concerns and views, so far as they relate to the proposal.
-
-             (4)  A failure to comply with subsection (3) does not affect the validity of a determination under subsection (1) or (2).
-
-Criteria for making a determination
-
-             (5)  In making a determination under subsection (1) or (2) in relation to an area, the Indigenous Affairs Minister must have regard to the following matters:
-
-(a)  the object of this Part (see section 98A);
-
-                     (b)  the wellbeing of people living in prohibited material areas;
-
-                     (c)  whether there is reason to believe that people living in prohibited material areas have been the victims of violence or sexual abuse;
-
-                     (d)  the extent to which people living in prohibited material areas have expressed their concerns about being at risk of violence or sexual abuse;
-
-                     (e)  whether there is reason to believe that children living in prohibited material areas have been exposed to prohibited material;
-
-                      (f)  the extent to which people living in prohibited material areas have expressed the view that their wellbeing will be improved if this Part applies;
-
-                     (g)  any submissions of the kind referred to in paragraph (3)(b);
-
-                     (h)  the views of relevant law enforcement authorities;
-
-                      (i)  any other matter that the Indigenous Affairs Minister considers relevant.
-
-             (6)  If the Indigenous Affairs Minister makes a determination under subsection (1), then this Part continues to apply after the determination takes effect in relation to things done, or omitted to be done, before the determination takes effect.
-
-             (7)  If, under subsection (2), the Indigenous Affairs Minister revokes a determination under subsection (1), then the provisions of this Part that were specified in the determination under subsection (1) apply again after the revocation takes effect.
-
-##### <a id="116"></a>116  Sunset provision [_see_ Note 1]
-
-                   This Part ceases to have effect 10 years after the day section 3 of the _Stronger Futures in the Northern Territory Act 2012_ commences.
+                   This Part ceases to have effect at the end of the period of 5 years beginning on the day after the day on which the _Northern Territory__National Emergency Response Act 2007_ receives the Royal Assent.
 
 # Notes to the _Classification (Publications, Films and Computer Games) Act 1995_
 
@@ -3340,7 +3312,7 @@ Criteria for making a determination
 
 The _Classification (Publications, Films and Computer Games) Act 1995_ as shown in this compilation comprises Act No. 7, 1995 amended as indicated in the Tables below.
 
-For cessation details of Part 10 _see_ section 116.
+For cessation details of Part 10 _see_ section 115.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
@@ -3745,23 +3717,6 @@ Schedule 5 (item 137(a)): <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Stronger Futures in the Northern Territory (Consequential and Transitional Provisions) Act 2012</div>
-  </td>
-  <td>
-    <div>101, 2012</div>
-  </td>
-  <td>
-    <div>29 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3: 16 July 2012 ( <i>see </i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 15, 16)</div>
   </td>
 </tr></table>
 
@@ -4222,15 +4177,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
+    <div>Ss. 18, 19</div>
   </td>
   <td>
     <div>am. No. 13, 2001</div>
@@ -4390,31 +4337,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 22D</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22E</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22F</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22G</div>
+    <div>Ss. 22D–22G</div>
   </td>
   <td>
     <div>ad. No. 27, 2007</div>
@@ -4534,23 +4457,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 26(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 26(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 26(5)</div>
+    <div>Subheads. to s. 26(3)–(5)</div>
   </td>
   <td>
     <div>ad. No. 27, 2007</div>
@@ -4574,15 +4481,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Note to s. 27(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 27(3)</div>
+    <div>Notes to s. 27(2), (3)</div>
   </td>
   <td>
     <div>ad. No. 111, 2000</div>
@@ -4758,7 +4657,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 34</div>
+    <div>Ss. 34, 35</div>
   </td>
   <td>
     <div>rs. No. 69, 2008</div>
@@ -4766,23 +4665,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>rs. No. 69, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>rep. No. 69, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
+    <div>Ss. 36, 37</div>
   </td>
   <td>
     <div>rep. No. 69, 2008</div>
@@ -4798,15 +4681,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 13, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
+    <div>Ss. 38, 39</div>
   </td>
   <td>
     <div>am. No. 13, 2001</div>
@@ -4990,23 +4865,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Notes to s. 66(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 66(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 66(3)</div>
+    <div>Notes to s. 66(1)–(3)</div>
   </td>
   <td>
     <div>ad. No. 46, 2011</div>
@@ -5022,15 +4881,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>rep. No. 27, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
+    <div>Ss. 68, 69</div>
   </td>
   <td>
     <div>rep. No. 27, 2007</div>
@@ -5134,23 +4985,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Notes to s. 84(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 84(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 84(3)</div>
+    <div>Notes to s. 84(1)–(3)</div>
   </td>
   <td>
     <div>ad. No. 46, 2011</div>
@@ -5206,15 +5041,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Note to s. 87(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 87(3)</div>
+    <div>Notes to s. 87(2), (3)</div>
   </td>
   <td>
     <div>ad. No. 111, 2000</div>
@@ -5302,15 +5129,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 91B</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 91C</div>
+    <div>Ss. 91B, 91C</div>
   </td>
   <td>
     <div>ad. No. 111, 2000</div>
@@ -5398,14 +5217,6 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 10</div>
-  </td>
-  <td>
-    <div>rs. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Part 10</div>
   </td>
   <td>
@@ -5441,15 +5252,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div></div>
   </td>
   <td>
-    <div>am. No. 93, 2010; No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 99A</div>
-  </td>
-  <td>
-    <div>ad. No. 101, 2012</div>
+    <div>am. No. 93, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5462,50 +5265,10 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 100A</div>
+    <div>Ss. 100A–100C</div>
   </td>
   <td>
     <div>ad. No. 93, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 100B</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 100C</div>
-  </td>
-  <td>
-    <div>ad. No. 93, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2012</div>
   </td>
 </tr>
 <tr>
@@ -5518,87 +5281,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 101</div>
-  </td>
-  <td>
-    <div>rs. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 101</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 102</div>
-  </td>
-  <td>
-    <div>rs. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 102</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 103</div>
-  </td>
-  <td>
-    <div>rs. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 104</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 105</div>
+    <div>Ss. 101–105</div>
   </td>
   <td>
     <div>ad. No. 128, 2007</div>
@@ -5614,55 +5297,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 106</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 107</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 108</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 109</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 111</div>
+    <div>Ss. 106–111</div>
   </td>
   <td>
     <div>ad. No. 128, 2007</div>
@@ -5678,58 +5313,10 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 112</div>
+    <div>Ss. 112–115</div>
   </td>
   <td>
     <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 113</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 114</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 115</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 101, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 116</div>
-  </td>
-  <td>
-    <div>ad. No. 101, 2012</div>
   </td>
 </tr>
 <tr>
@@ -5745,7 +5332,7 @@ _(e)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 
 ### Application, saving or transitional provisions
 
-_Classification (Publications, Films and Computer Games) Amendment Act (No. 1) 2001 (No. 13, 2001)_
+_Classification (Publications, Films and Computer Games) Amendment Act (No. 1) 2001 (No. 13, 2001)_
 
 ## Schedule 1
 
@@ -5759,7 +5346,7 @@ The amendments made by this Schedule (except the amendments made by items 16, 
 
 * * *
 
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -6172,7 +5759,8 @@ _Classification (Publications, Films and Computer Games) Amendment (Assessments 
 
 * * *
 
-_Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010 (No. 93, 2010)_
+_Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010 
+ (No. 93, 2010)_
 
 ## Schedule 1
 
@@ -6197,27 +5785,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Stronger Futures in the Northern Territory (Consequential and Transitional Provisions) Act 2012 (No. 101, 2012)_
-
-## Schedule 3
-
-## 15  Transitioning prescribed areas to prohibited material areas
-
-(1)       If, immediately before commencement:
-
-                     (a)  an area in the Northern Territory was a prescribed area under section 4 of the old Act; and
-
-                     (b)  there was not a determination in force in relation to the area under subsection 100A(1) of the _Classification (Publications, Films and Computer Games) Act 1995_;
-
-then, on commencement, the Indigenous Affairs Minister is taken to have made a determination under subsection 100A(1) of the _Classification (Publications, Films and Computer Games) Act 1995_ that the area is a prohibited material area.
-
-(2)       The determination referred to in subitem (1) may be revoked or varied, after commencement, under subsection 100A(2) of the _Classification (Publications, Films and Computer Games) Act 1995_.
-
-## 16  Application of amendments
-
-The amendments made by this Schedule apply in relation to acts or omissions occurring on or after commencement in relation to material that was classified before, on or after commencement.
 
  
