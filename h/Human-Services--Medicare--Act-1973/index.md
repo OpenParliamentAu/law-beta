@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00420/Html/MedicareAustraliaAct1973_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00293/Html/MedicareAustraliaAct1973_WD02_image001.gif)
 
 # Medicare Australia Act 1973
 
 **Act No. 41 of 1974 as amended**
 
-This compilation was prepared on 1 July 2010
+This compilation was prepared on 19 April 2010
  taking into account amendments up to Act No. 29 of 2010
 
 The text of any of those amendments not in force
@@ -19,161 +19,161 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           1
 
-[3A](#3A).         Definitions of relevant offence
+[3A](#3A).         Definitions of relevant offence                                                            3
 
-[3B](#3B).         Application of the _Criminal Code_
+[3B](#3B).         Application of the _Criminal Code_                                                       5
 
 **Part II—Establishment of Medicare Australia**
 
-[4](#4).            Establishment of Medicare Australia
+[4](#4).            Establishment of Medicare Australia                                                  6
 
-[4A](#4A).         Function of Medicare Australia
+[4A](#4A).         Function of Medicare Australia                                                           6
 
 **Part IIA—The Chief Executive Officer** 
 
     **Division 1—Powers and functions of Chief Executive Officer**
 
-[5](#5).            Functions of Chief Executive Officer
+[5](#5).            Functions of Chief Executive Officer                                                  7
 
-[6](#6).            Chief Executive Officer’s medicare functions
+[6](#6).            Chief Executive Officer’s medicare functions                                      7
 
-[7](#7).            Chief Executive Officer’s service delivery functions
+[7](#7).            Chief Executive Officer’s service delivery functions                           7
 
-[7A](#7A).         Agreements about exercise and performance of Chief Executive Officer’s powers and functions
+[7A](#7A).         Agreements about exercise and performance of Chief Executive Officer’s powers and functions          8
 
-[8](#8).            Ministerial directions about exercise and performance of Chief Executive Officer’s powers and functions
+[8](#8).            Ministerial directions about exercise and performance of Chief Executive Officer’s powers and functions           9
 
-[8AA](#8AA).      Minister may request information
+[8AA](#8AA).      Minister may request information                                                       9
 
-[8AB](#8AB).      Management of Medicare Australia
+[8AB](#8AB).      Management of Medicare Australia                                                  10
 
-[8AC](#8AC).      Delegation
+[8AC](#8AC).      Delegation                                                                                          10
 
-[8AD](#8AD).      Commonwealth consent to conferral of powers etc  on Chief Executive Officer by State and Territory laws
+[8AD](#8AD).      Commonwealth consent to conferral of powers etc  on Chief Executive Officer by State and Territory laws       10
 
-[8AE](#8AE).       How duty is imposed on Chief Executive Officer by State and Territory laws
+[8AE](#8AE).       How duty is imposed on Chief Executive Officer by State and Territory laws      11
 
-[8AF](#8AF).       When State and Territory laws impose a duty on Chief Executive Officer
+[8AF](#8AF).       When State and Territory laws impose a duty on Chief Executive Officer             12
 
     **Division 2—Appointment etc. of Chief Executive Officer**
 
-[8AG](#8AG).      Appointment
+[8AG](#8AG).      Appointment                                                                                     13
 
-[8AH](#8AH).      Remuneration
+[8AH](#8AH).      Remuneration                                                                                     13
 
-[8AI](#8AI).        Leave of absence
+[8AI](#8AI).        Leave of absence                                                                                13
 
-[8AJ](#8AJ).       Other terms and conditions
+[8AJ](#8AJ).       Other terms and conditions                                                               13
 
-[8AK](#8AK).      Termination of appointment
+[8AK](#8AK).      Termination of appointment                                                             14
 
-[8AL](#8AL).       Acting Chief Executive Officer
+[8AL](#8AL).       Acting Chief Executive Officer                                                          14
 
-[8AM](#8AM).     Resignation
+[8AM](#8AM).     Resignation                                                                                        15
 
 **Part IID—Investigative powers of Chief Executive Officer** 
 
     **Division 1—Preliminary**
 
-[8K](#8K).         Crown to be bound
+[8K](#8K).         Crown to be bound                                                                            16
 
-[8L](#8L).          Authorisation to exercise powers under this Part
+[8L](#8L).          Authorisation to exercise powers under this Part                             16
 
-[8M](#8M).        Authorised officers
+[8M](#8M).        Authorised officers                                                                            16
 
-[8N](#8N).         Identity cards
+[8N](#8N).         Identity cards                                                                                     16
 
     **Division 2—General power to obtain information**
 
-[8P](#8P).          Chief Executive Officer may obtain information etc 
+[8P](#8P).          Chief Executive Officer may obtain information etc                         18
 
-[8Q](#8Q).         Content of notices
+[8Q](#8Q).         Content of notices                                                                             19
 
-[8R](#8R).         Offences
+[8R](#8R).         Offences                                                                                             19
 
-[8S](#8S).          Self-incrimination
+[8S](#8S).          Self-incrimination                                                                               20
 
-[8T](#8T).         Exemption
+[8T](#8T).         Exemption                                                                                          20
 
     **Division 3—Searches in relation to possible relevant offences and relevant civil contraventions**
 
-[8U](#8U).         Authorised officers may conduct searches for the purpose of monitoring compliance
+[8U](#8U).         Authorised officers may conduct searches for the purpose of monitoring compliance           21
 
-[8V](#8V).         Powers on entering premises
+[8V](#8V).         Powers on entering premises                                                             22
 
-[8W](#8W).        Authorised officers to produce evidence of identity
+[8W](#8W).        Authorised officers to produce evidence of identity                         23
 
     **Division 4—Warrants for searches and seizures**
 
-[8X](#8X).         Relevant offence and relevant civil contravention related searches and seizures
+[8X](#8X).         Relevant offence and relevant civil contravention related searches and seizures     24
 
-[8Y](#8Y).         Search warrants
+[8Y](#8Y).         Search warrants                                                                                  24
 
-[8Z](#8Z).         Warrants may be issued by telephone or other electronic means
+[8Z](#8Z).         Warrants may be issued by telephone or other electronic means      25
 
-[8ZA](#8ZA).      Formalities relating to warrants issued by telephone or other electronic means
+[8ZA](#8ZA).      Formalities relating to warrants issued by telephone or other electronic means     26
 
     **Division 5—Provisions relating to execution of search warrants**
 
-[8ZB](#8ZB).       Announcement before entry
+[8ZB](#8ZB).       Announcement before entry                                                              28
 
-[8ZC](#8ZC).       Availability of assistance and use of force in executing a warrant
+[8ZC](#8ZC).       Availability of assistance and use of force in executing a warrant     28
 
-[8ZD](#8ZD).      Details of warrant to be given to occupier etc 
+[8ZD](#8ZD).      Details of warrant to be given to occupier etc                                   28
 
-[8ZE](#8ZE).       Specific powers available to officers executing warrants
+[8ZE](#8ZE).       Specific powers available to officers executing warrants                   29
 
-[8ZF](#8ZF).       Use of equipment to examine or process things
+[8ZF](#8ZF).       Use of equipment to examine or process things                                29
 
-[8ZG](#8ZG).      Use of electronic equipment at premises
+[8ZG](#8ZG).      Use of electronic equipment at premises                                           30
 
-[8ZH](#8ZH).      Compensation for damage to electronic equipment
+[8ZH](#8ZH).      Compensation for damage to electronic equipment                           32
 
-[8ZI](#8ZI).        Seizure of things not covered by warrants
+[8ZI](#8ZI).        Seizure of things not covered by warrants                                        32
 
-[8ZJ](#8ZJ).        Occupier entitled to observe search
+[8ZJ](#8ZJ).        Occupier entitled to observe search                                                   33
 
-[8ZK](#8ZK).      Receipts for things seized under warrant
+[8ZK](#8ZK).      Receipts for things seized under warrant                                          33
 
-[8ZL](#8ZL).       Copies of seized things to be provided
+[8ZL](#8ZL).       Copies of seized things to be provided                                             33
 
-[8ZM](#8ZM).     Retention of things seized
+[8ZM](#8ZM).     Retention of things seized                                                                 34
 
     **Division 6—Miscellaneous**
 
-[8ZN](#8ZN).      Patients to be advised of search, seizure etc  of clinical records
+[8ZN](#8ZN).      Patients to be advised of search, seizure etc  of clinical records        35
 
-[8ZO](#8ZO).      Offence for making false statements in warrants
+[8ZO](#8ZO).      Offence for making false statements in warrants                               35
 
-[8ZP](#8ZP).       Offences relating to telephone warrants
+[8ZP](#8ZP).       Offences relating to telephone warrants                                            35
 
-[8ZQ](#8ZQ).      Actions under this Part taken to be in performance of certain functions
+[8ZQ](#8ZQ).      Actions under this Part taken to be in performance of certain functions                36
 
 **Part III—Staff of Medicare Australia**
 
-[20](#20).          Staff
+[20](#20).          Staff                                                                                                   37
 
-[21](#21).          Consultants
+[21](#21).          Consultants                                                                                        37
 
 **Part VI—Miscellaneous**
 
-[41C](#41C).       Protection of names and symbols
+[41C](#41C).       Protection of names and symbols                                                      38
 
-[41D](#41D).       Forfeiture of articles etc 
+[41D](#41D).       Forfeiture of articles etc                                                                     41
 
-[41E](#41E).        Sections 41C and 41D not to limit other laws
+[41E](#41E).        Sections 41C and 41D not to limit other laws                                   41
 
-[41F](#41F).        Chief Executive Officer may charge for services
+[41F](#41F).        Chief Executive Officer may charge for services                               41
 
-[42](#42).          Chief Executive Officer’s annual report
+[42](#42).          Chief Executive Officer’s annual report                                            41
 
-[44](#44).          Regulations
+[44](#44).          Regulations                                                                                        42
 
 **Notes** 
 
@@ -259,7 +259,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="warrant-premis"></a>**_warrant premises_** means premises in relation to which a warrant under Division 4 of Part IID is in force.
 
-##### <a id="3A"></a>3A  Definitions of relevant offence
+##### <a id="3A"></a>3A  Definitions of relevant offence
 
              (1)  For the purposes of this Act other than Divisions 2 and 3 of Part IID, a relevant offence is:
 
@@ -273,9 +273,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (bc)  an offence against the _Dental Benefits Act 2008_; or
 
-                    (bd)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
-
-                     (c)  an offence against section 6 of the _Crimes Act 1914_, or section 11.1, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a), (b), (ba), (bb), (bc) or (bd).
+                     (c)  an offence against section 6 of the _Crimes Act 1914_, or section 11.1, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a), (b), (ba), (bb) or (bc).
 
              (2)  For the purposes of Division 2 of Part IID, a relevant offence is:
 
@@ -287,17 +285,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (bb)  an offence against section 50, 51, 52, 53 or 54 of the _Dental Benefits Act 2008_; or
 
-                    (bc)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
-
-                     (c)  an offence against section 6 of the _Crimes Act 1914_, or section 11.1, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a), (b), (ba), (bb) or (bc); or
+                     (c)  an offence against section 6, 7 or 7A or paragraph 86(1)(a) of the _Crimes Act 1914_ that relates to an offence referred to in paragraph (a), (b), (ba) or (bb); or
 
                      (d)  an offence against section 134.1, 134.2, 135.1, 135.2, 135.4, 136.1, 137.1, 137.2, 145.2 or 145.3 of the _Criminal Code_ that relates to:
 
                               (i)  a claim for payment in respect of the rendering of a professional service or dental service; or
 
-                             (ii)  an indemnity scheme payment; or
-
-                            (iii)  a Commonwealth contribution (within the meaning of the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_).
+                             (ii)  an indemnity scheme payment.
 
           (2A)  For the purposes of Division 3 of Part IID, a relevant offence is:
 
@@ -311,17 +305,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (cb)  an offence against section 50, 51, 52, 53 or 54 of the _Dental Benefits Act 2008_; or
 
-                    (cc)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
-
-                     (d)  an offence against section 6 of the _Crimes Act 1914_, or section 11.1, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a), (b), (c), (ca), (cb) or (cc); or
+                     (d)  an offence against section 6 of the _Crimes Act 1914_, or section 11.1, 11.4 or 11.5 of the _Criminal Code_, that relates to an offence referred to in paragraph (a), (b), (c), (ca) or (cb); or
 
                      (e)  an offence against section 134.1, 134.2, 135.1, 135.2, 135.4, 136.1, 137.1, 137.2, 145.2 or 145.3 of the _Criminal Code_ that relates to:
 
                               (i)  a claim for payment in respect of the rendering of a professional service or dental service; or
 
-                             (ii)  an indemnity scheme payment; or
-
-                            (iii)  a Commonwealth contribution (within the meaning of the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_).
+                             (ii)  an indemnity scheme payment.
 
              (3)  In subsections (2) and (2A):
 
@@ -1319,11 +1309,7 @@ is guilty of an offence against this section.
 
                      (b)  the _Medical Indemnity (Run-off Cover Support Payment) Act 2004_;
 
-                     (c)  the _Medical Indemnity (UMP Support Payment) Act 2002_;
-
-                     (d)  the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_;
-
-                     (e)  the _Midwife Professional Indemnity (Run-off Cover Support Payment) Act 2010_.
+                     (c)  the _Medical Indemnity (UMP Support Payment) Act 2002_.
 
              (3)  The Minister must cause a copy of each report under this section to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
@@ -2372,7 +2358,7 @@ Remainder: Royal Assent</div>
     <div>21 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Mar 2008 
+    <div>Schedule 1: 1 Mar 2008 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2407,7 +2393,7 @@ Remainder: Royal Assent</div>
     <div>12 Apr 2010</div>
   </td>
   <td>
-    <div>Schedule 2 (items 9–18): 1 July 2010 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (items 9–18): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2819,7 +2805,7 @@ _(v)_     Subsection 2(1) (items 3, 4, 6 and 7) of the _Human Services
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 132, 1995; No. 137, 2000; No. 111, 2001; No. 133, 2002; No. 88, 2007; No. 42, 2008; No. 29, 2010</div>
+    <div>am. No. 132, 1995; No. 137, 2000; No. 111, 2001; No. 133, 2002; No. 88, 2007; No. 42, 2008</div>
   </td>
 </tr>
 <tr>
@@ -5076,7 +5062,7 @@ Part IID</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 159, 1997; No. 133, 2002; Nos. 17 and 77, 2004; Nos. 111 and 126, 2005; No. 29, 2010</div>
+    <div>am. No. 159, 1997; No. 133, 2002; Nos. 17 and 77, 2004; Nos. 111 and 126, 2005</div>
   </td>
 </tr>
 <tr>
@@ -5100,6 +5086,70 @@ Part IID</div>
   <td></td>
   <td></td>
 </tr></table>
+
+### Note 2
+
+_Health Legislation Amendment (Midwives and Nurse Practitioners) Act 2010 (No. 29, 2010)_
+
+The following amendments commence on 1 July 2010:
+
+## Schedule 2
+
+## 9  After paragraph 3A(1)(bc)
+
+Insert:
+
+                    (bd)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
+
+## 10  Paragraph 3A(1)(c)
+
+Omit “or (bc)”, substitute “, (bc) or (bd)”.
+
+## 11  After paragraph 3A(2)(bb)
+
+Insert:
+
+                    (bc)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
+
+## 12  Paragraph 3A(2)(c)
+
+Omit “section 6, 7 or 7A or paragraph 86(1)(a) of the _Crimes Act 1914_”, substitute “section 6 of the _Crimes Act 1914_, or section 11.1, 11.4 or 11.5 of the _Criminal Code_,”.
+
+## 13  Paragraph 3A(2)(c)
+
+Omit “or (bb)”, substitute “, (bb) or (bc)”.
+
+## 14  At the end of paragraph 3A(2)(d)
+
+Add:
+
+                      ; or (iii)  a Commonwealth contribution (within the meaning of the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_).
+
+## 15  After paragraph 3A(2A)(cb)
+
+Insert:
+
+                    (cc)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
+
+## 16  Paragraph 3A(2A)(d)
+
+Omit “or (cb)”, substitute “, (cb) or (cc)”.
+
+## 17  At the end of paragraph 3A(2A)(e)
+
+Add:
+
+                      ; or (iii)  a Commonwealth contribution (within the meaning of the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_).
+
+## 18  At the end of subsection 42(2)
+
+Add:
+
+                     (d)  the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_;
+
+                     (e)  the _Midwife Professional Indemnity (Run-off Cover Support Payment) Act 2010_.
+
+As at 19 April 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
