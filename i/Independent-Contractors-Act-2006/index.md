@@ -1,11 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2011C00797/Html/9493e524-b470-47fd-8a8e-8cc82ed31004_files/image001.gif)
+ 
+
+![](http://www.comlaw.gov.au/Details/C2009C00316/Html/IndependentContrcts2006_image001.gif)
 
 # Independent Contractors Act 2006
 
 **Act No. 162 of 2006 as amended**
 
-This compilation was prepared on 28 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 13 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +16,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -66,15 +68,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32](#32).          Continuation contracts and related continuation contracts
 
-[33](#33).          Reform opt‑in agreement
+[33](#33).          Reform opt-in agreement
 
-[34](#34).          Prohibited conduct in relation to reform opt‑in agreements
+[34](#34).          Prohibited conduct in relation to reform opt-in agreements
 
 [35](#35).          Continued application of the State or Territory contractor laws to certain services contracts
 
 [36](#36).          How section 35 applies if there is a transfer of business
 
-[37](#37).          Application of the State or Territory contractor laws in relation to pre‑reform commencement matters not affected by exclusion provisions
+[37](#37).          Application of the State or Territory contractor laws in relation to pre-reform commencement matters not affected by exclusion provisions
 
     **Division 2—Unfair contracts laws**
 
@@ -553,15 +555,15 @@ Note 2:       An appeal may be brought to the Federal Court of Austr
 
                     <a name="contract-period"></a>**_contract period_** means the period in relation to which a contract has effect.
 
-                    <a name="cover"></a><a name="cover"></a>**_covers_**: a reform opt‑in agreement **_covers_** a services contract as described in subsection 33(3).
+                    <a name="cover"></a><a name="cover"></a>**_covers_**: a reform opt-in agreement **_covers_** a services contract as described in subsection 33(3).
 
-                    <a name="date-effect"></a>**_date of effect_**, in relation to a reform opt‑in agreement, has the meaning given by subsection 33(2).
+                    <a name="date-effect"></a>**_date of effect_**, in relation to a reform opt-in agreement, has the meaning given by subsection 33(2).
 
-                    <a name="pre-reform-commenc-contract"></a>**_pre‑reform commencement contract_** means a services contract that was entered into before the reform commencement.
+                    <a name="pre-reform-commenc-contract"></a>**_pre-reform commencement contract_** means a services contract that was entered into before the reform commencement.
 
                     <a name="reform-commenc"></a>**_reform commencement_** means the commencement of Part 2.
 
-                    <a name="reform-opt-agreem"></a>**_reform opt‑in agreement_** has the meaning given by subsection 33(1).
+                    <a name="reform-opt-agreem"></a>**_reform opt-in agreement_** has the meaning given by subsection 33(1).
 
                     <a name="relat-continu-contract"></a>**_related continuation contract_** has the meaning given by subsection 32(3).
 
@@ -573,19 +575,19 @@ Note:          Paragraph 7(1)(c) relates to laws that provide 
 
 Continuation contracts
 
-             (1)  A services contract (the **_later contract_**) is a **_continuation contract_** in relation to a pre‑reform commencement contract if:
+             (1)  A services contract (the **_later contract_**) is a **_continuation contract_** in relation to a pre-reform commencement contract if:
 
-                     (a)  the parties to the later contract are the same as the parties to the pre‑reform commencement contract; and
+                     (a)  the parties to the later contract are the same as the parties to the pre-reform commencement contract; and
 
                      (b)  one or more of the following subparagraphs is satisfied in relation to the later contract:
 
-                              (i)  the later contract is entered into pursuant to an option or similar right contained in the pre‑reform commencement contract, or contained in another contract that is a continuation contract in relation to the pre‑reform commencement contract;
+                              (i)  the later contract is entered into pursuant to an option or similar right contained in the pre-reform commencement contract, or contained in another contract that is a continuation contract in relation to the pre-reform commencement contract;
 
-                             (ii)  the contract period of the later contract immediately follows the contract period of the pre‑reform commencement contract;
+                             (ii)  the contract period of the later contract immediately follows the contract period of the pre-reform commencement contract;
 
-                            (iii)  the contract period of the later contract immediately follows the contract period of another contract that is a continuation contract in relation to the pre‑reform commencement contract; and
+                            (iii)  the contract period of the later contract immediately follows the contract period of another contract that is a continuation contract in relation to the pre-reform commencement contract; and
 
-                     (c)  the later contract relates to the performance of the same kind of work as the pre‑reform commencement contract.
+                     (c)  the later contract relates to the performance of the same kind of work as the pre-reform commencement contract.
 
 Note 1:       See also subsection 35(7), under which a contract may be taken to be a continuation contract.
 
@@ -603,15 +605,15 @@ Related continuation contracts
 
                      (a)  the following subparagraphs are satisfied:
 
-                              (i)  the other services contract is a pre‑reform commencement contract;
+                              (i)  the other services contract is a pre-reform commencement contract;
 
-                             (ii)  the first‑mentioned services contract is a continuation contract in relation to the other contract; or
+                             (ii)  the first-mentioned services contract is a continuation contract in relation to the other contract; or
 
-                     (b)  the 2 services contracts are continuation contracts in relation to the same pre‑reform commencement contract.
+                     (b)  the 2 services contracts are continuation contracts in relation to the same pre-reform commencement contract.
 
-##### <a id="33"></a>33  Reform opt‑in agreement
+##### <a id="33"></a>33  Reform opt-in agreement
 
-             (1)  A **_reform opt‑in agreement_** is an agreement in writing, signed by the parties to the agreement, to one or more of the following effects:
+             (1)  A **_reform opt-in agreement_** is an agreement in writing, signed by the parties to the agreement, to one or more of the following effects:
 
                      (a)  that the parties no longer want the State or Territory contractor laws to apply to a specified services contract, or to any related continuation contracts in relation to the specified contract, that the parties have entered into or may enter into;
 
@@ -621,17 +623,17 @@ Related continuation contracts
 
 Note:          The agreement must relate to the whole body of the State or Territory contractor laws (rather than just to some of those laws).
 
-             (2)  A reform opt‑in agreement’s **_date of effect_** is:
+             (2)  A reform opt-in agreement’s **_date of effect_** is:
 
                      (a)  the date on which the agreement is entered into; or
 
                      (b)  if a later date is specified in the agreement as its date of effect—that later date.
 
-             (3)  A reform opt‑in agreement **_covers_** a services contract if the agreement is to the effect that the parties to the agreement no longer want the State or Territory contractor laws to apply to the contract (whether the parties’ intent is expressed as mentioned in paragraph (1)(a), (b) or (c)).
+             (3)  A reform opt-in agreement **_covers_** a services contract if the agreement is to the effect that the parties to the agreement no longer want the State or Territory contractor laws to apply to the contract (whether the parties’ intent is expressed as mentioned in paragraph (1)(a), (b) or (c)).
 
-             (4)  A purported revocation or variation of a reform opt‑in agreement is of no effect for the purposes of this Division.
+             (4)  A purported revocation or variation of a reform opt-in agreement is of no effect for the purposes of this Division.
 
-##### <a id="34"></a>34  Prohibited conduct in relation to reform opt‑in agreements
+##### <a id="34"></a>34  Prohibited conduct in relation to reform opt-in agreements
 
              (1)  A person must not:
 
@@ -639,9 +641,9 @@ Note:          The agreement must relate to the whole body of 
 
                      (b)  refrain, or threaten to refrain, from taking any action;
 
-with intent to coerce another person (the **_targeted person_**) to enter into, or to not enter into, a reform opt‑in agreement.
+with intent to coerce another person (the **_targeted person_**) to enter into, or to not enter into, a reform opt-in agreement.
 
-             (2)  A person must not knowingly make a false statement with intent to persuade or influence another person (the **_targeted person_**) to enter into, or to not enter into, a reform opt‑in agreement.
+             (2)  A person must not knowingly make a false statement with intent to persuade or influence another person (the **_targeted person_**) to enter into, or to not enter into, a reform opt-in agreement.
 
              (3)  If a person breaches subsection (1) or (2), a penalty may be imposed by the Court.
 
@@ -661,7 +663,7 @@ with intent to coerce another person (the **_targeted person_**) to enter into, 
 
              (6)  A penalty imposed under subsection (3) is payable to the Commonwealth, or to some other person if the Court so directs.
 
-             (7)  Division 4 of Part 4‑1 of the _Fair Work Act 2009_ has effect as if a breach of subsection (1) or (2) were a contravention of a civil remedy provision within the meaning of that Division.
+             (7)  Division 4 of Part 4-1 of the _Fair Work Act 2009_ has effect as if a breach of subsection (1) or (2) were a contravention of a civil remedy provision within the meaning of that Division.
 
 ##### <a id="35"></a>35  Continued application of the State or Territory contractor laws to certain services contracts
 
@@ -671,9 +673,9 @@ Services contracts to which this section applies
 
                      (a)  the relevant contract:
 
-                              (i)  is a pre‑reform commencement contract; or
+                              (i)  is a pre-reform commencement contract; or
 
-                             (ii)  is a continuation contract in relation to a pre‑reform commencement contract; and
+                             (ii)  is a continuation contract in relation to a pre-reform commencement contract; and
 
                      (b)  some or all of the contract period of the relevant contract occurs after the reform commencement; and
 
@@ -695,7 +697,7 @@ Exclusion provisions do not apply
 
              (4)  Subject to subsection (5), the exclusion provisions do not apply in relation to the State or Territory contractor laws in relation to so much of the contract period of the relevant contract as occurs after the reform commencement and before the first of the following days (the **_transition day_**):
 
-                     (a)  the date of effect of a reform opt‑in agreement (if any) that covers the contract;
+                     (a)  the date of effect of a reform opt-in agreement (if any) that covers the contract;
 
                      (b)  the first day after the end of the period of 3 years that started on the reform commencement.
 
@@ -717,17 +719,17 @@ What if the contract period ends before the transition day?
 
 the consequences that result from the contract period ending (including consequences relating to the fact that there is no further contract as mentioned in paragraph (b)) are as provided by or under the relevant terms of any contract between the parties, the State or Territory contractor laws and any other relevant laws.
 
-Note:          The independent contractor may (for example) have an entitlement under the State or Territory contractor laws to recover an amount on account of accrued entitlements (such as leave), an entitlement to a reinstatement or re‑engagement remedy, or an entitlement to a redundancy payment.
+Note:          The independent contractor may (for example) have an entitlement under the State or Territory contractor laws to recover an amount on account of accrued entitlements (such as leave), an entitlement to a reinstatement or re-engagement remedy, or an entitlement to a redundancy payment.
 
              (7)  If:
 
-                     (a)  in a situation to which subsection (6) applies, the independent contactor obtains a remedy that results in his or her reinstatement or re‑engagement, with effect from a time before the transition day; and
+                     (a)  in a situation to which subsection (6) applies, the independent contactor obtains a remedy that results in his or her reinstatement or re-engagement, with effect from a time before the transition day; and
 
-                     (b)  the services contract (the **_remedy contract_**) under which he or she is reinstated or re‑engaged would not otherwise be a continuation contract in relation to:
+                     (b)  the services contract (the **_remedy contract_**) under which he or she is reinstated or re-engaged would not otherwise be a continuation contract in relation to:
 
                               (i)  if subparagraph (1)(a)(i) applies—the relevant contract; or
 
-                             (ii)  if subparagraph (1)(a)(ii) applies—the pre‑reform commencement contract referred to in that subparagraph;
+                             (ii)  if subparagraph (1)(a)(ii) applies—the pre-reform commencement contract referred to in that subparagraph;
 
 the remedy contract is taken to be such a continuation contract.
 
@@ -735,55 +737,55 @@ What if the contract period does not end before the transition day?
 
              (8)  If the contract period of the relevant contract does not end before the transition day, the contract is to be treated, for the purposes of the State or Territory contractor laws, as if, on the transition day, it had been brought to an end by agreement of the parties (rather than by the unilateral act of one party).
 
-Note:          Because of this subsection, the occurrence of the transition day may trigger an entitlement under a State or Territory contractor law to recover an amount on account of accrued entitlements (such as leave). But the occurrence of the transition day should not trigger an entitlement under such a law to a reinstatement or re‑engagement remedy, or to a redundancy payment, as such remedies are generally not available for the ending of contracts by agreement.
+Note:          Because of this subsection, the occurrence of the transition day may trigger an entitlement under a State or Territory contractor law to recover an amount on account of accrued entitlements (such as leave). But the occurrence of the transition day should not trigger an entitlement under such a law to a reinstatement or re-engagement remedy, or to a redundancy payment, as such remedies are generally not available for the ending of contracts by agreement.
 
 ##### <a id="36"></a>36  How section 35 applies if there is a transfer of business
 
-When this section applies to a post‑transfer contract—general
+When this section applies to a post-transfer contract—general
 
-             (1)  Subject to subsection (2), this section applies to a services contract (the **_post‑transfer contract_**) if:
+             (1)  Subject to subsection (2), this section applies to a services contract (the **_post-transfer contract_**) if:
 
                      (a)  under a services contract (the **_first contract_**) between an independent contractor and another person (the **_former principal_**), the independent contractor performs or performed work of a particular kind for a business; and
 
                      (b)  the first contract:
 
-                              (i)  is a pre‑reform commencement contract; or
+                              (i)  is a pre-reform commencement contract; or
 
-                             (ii)  is a continuation contract in relation to a pre‑reform commencement contract; and
+                             (ii)  is a continuation contract in relation to a pre-reform commencement contract; and
 
                      (c)  after the reform commencement, there is a transfer (by whatever means, and however described) of all or part of the business; and
 
-                     (d)  the post‑transfer contract is a services contract, entered into by the independent contractor with another person, that is for the performance, after the transfer takes effect, of the same kind of work for the business or the transferred part of the business.
+                     (d)  the post-transfer contract is a services contract, entered into by the independent contractor with another person, that is for the performance, after the transfer takes effect, of the same kind of work for the business or the transferred part of the business.
 
-Section does not apply to a post‑transfer contract if reform opt‑in agreement has already taken effect
+Section does not apply to a post-transfer contract if reform opt-in agreement has already taken effect
 
-             (2)  This section does not apply to the post‑transfer contract if:
+             (2)  This section does not apply to the post-transfer contract if:
 
-                     (a)  a reform opt‑in agreement covered the first contract, or covered another contract that is a continuation contract in relation to:
+                     (a)  a reform opt-in agreement covered the first contract, or covered another contract that is a continuation contract in relation to:
 
                               (i)  if subparagraph (1)(b)(i) applies—the first contract; or
 
-                             (ii)  if subparagraph (1)(b)(ii) applies—the pre‑reform commencement contract referred to in that subparagraph; and
+                             (ii)  if subparagraph (1)(b)(ii) applies—the pre-reform commencement contract referred to in that subparagraph; and
 
-                     (b)  the reform opt‑in agreement’s date of effect is before the transfer takes effect.
+                     (b)  the reform opt-in agreement’s date of effect is before the transfer takes effect.
 
-Note:          If this subsection applies, subsection (3) will not apply and so the post‑transfer contract cannot be a continuation contract.
+Note:          If this subsection applies, subsection (3) will not apply and so the post-transfer contract cannot be a continuation contract.
 
-If section applies, post‑transfer contract may be continuation contract (even though parties are not the same)
+If section applies, post-transfer contract may be continuation contract (even though parties are not the same)
 
-             (3)  If this section applies to the post‑transfer contract, then, in determining for the purpose of section 35 whether the post‑transfer contract is a continuation contract in relation to:
+             (3)  If this section applies to the post-transfer contract, then, in determining for the purpose of section 35 whether the post-transfer contract is a continuation contract in relation to:
 
                      (a)  if subparagraph (1)(b)(i) applies—the first contract; or
 
-                     (b)  if subparagraph (1)(b)(ii) applies—the pre‑reform commencement contract referred to in that subparagraph;
+                     (b)  if subparagraph (1)(b)(ii) applies—the pre-reform commencement contract referred to in that subparagraph;
 
 the following provisions have effect:
 
-                     (c)  the parties to the post‑transfer contract are taken to be the same as the parties to the contract referred to in whichever of paragraphs (a) and (b) of this subsection applies;
+                     (c)  the parties to the post-transfer contract are taken to be the same as the parties to the contract referred to in whichever of paragraphs (a) and (b) of this subsection applies;
 
                      (d)  subsection 32(2) has effect as if that subsection also contained a paragraph referring to the interval being because of the transfer of the business or the part of the business.
 
-##### <a id="37"></a>37  Application of the State or Territory contractor laws in relation to pre‑reform commencement matters not affected by exclusion provisions
+##### <a id="37"></a>37  Application of the State or Territory contractor laws in relation to pre-reform commencement matters not affected by exclusion provisions
 
                    The exclusion provisions do not affect the application of the State or Territory contractor laws in relation to matters that occurred before the reform commencement.
 
@@ -829,7 +831,7 @@ the following provisions have effect:
 
 ##### <a id="43"></a>43  Power to make regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -851,7 +853,7 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="15%">
   <col width="19%">
   <col width="21%">
-  <col width="15%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -908,23 +910,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 14 (item 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 698) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -1004,13 +989,14 @@ _(a)_ Subsection 2(1) (item 37) of the _Fair Work (State Referral and Conseque
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -1019,8 +1005,8 @@ _(a)_ Subsection 2(1) (item 37) of the _Fair Work (State Referral and Conseque
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1103,20 +1089,6 @@ _(a)_ Subsection 2(1) (item 37) of the _Fair Work (State Referral and Conseque
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 698  Subsection 42(5)
-
-Repeal the subsection.
-
-As at 28 September 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1128,21 +1100,5 @@ _Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No.
 ## 11  Transitional provision
 
 Despite the amendment of subsection 34(7) of the _Independent Contractors Act 2006_ made by item 10, Division 3 of Part 14 of the _Workplace Relations Act 1996_, as in force immediately before the commencement of this item, continues to have effect on and after that commencement in relation to a breach, or suspected breach, of subsection 34(1) or (2) of the _Independent Contractors Act 2006_ that was committed before the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
