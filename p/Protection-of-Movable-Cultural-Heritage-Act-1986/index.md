@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00785/Html/5bd0aec6-2584-4028-8257-39fd3761feab_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00239/Html/56cfc0ed-439c-490c-8d17-cd1c1c1ed25b_files/image001.gif)
 
 # Protection of Movable Cultural Heritage Act 1986
 
 **Act No. 11 of 1986 as amended**
 
-This compilation was prepared on 5 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 14 February 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -725,7 +726,7 @@ Note:          An Appropriation Act provides for amounts to be
 
              (1)  In this Part (except sections 35, 36, 37 and 38), **_forfeited_** includes liable to forfeiture.
 
-             (2)  Where, at a particular time, an object is delivered by a Customs officer to an inspector under section 203T of the _Customs Act 1901_ or voluntarily surrendered to an inspector by the owner or person having possession, custody or control of the object, the object shall, for the purposes of this Part, be taken to be seized under this Act by the inspector at that time.
+             (2)  Where, at a particular time, an object is delivered by a Customs officer to an inspector under section 203A of the _Customs Act 1901_ or voluntarily surrendered to an inspector by the owner or person having possession, custody or control of the object, the object shall, for the purposes of this Part, be taken to be seized under this Act by the inspector at that time.
 
 ##### <a id="28"></a>28  Inspectors
 
@@ -797,7 +798,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (6)  A reference in this section to an offence includes a reference to an offence that there are reasonable grounds for believing has been, or will be, committed.
 
-##### <a id="31"></a>31  Search warrants granted by telephone
+##### <a id="31"></a>31  Search warrants granted by telephone
 
              (1)  Where, by reason of circumstances of urgency, an inspector considers it necessary to do so, the inspector may make application for a search warrant to a Magistrate, by telephone, in accordance with this section.
 
@@ -1111,7 +1112,7 @@ of Assent</div>
     <div>13 May 1986</div>
   </td>
   <td>
-    <div>1 July 1987 ( <i>see Gazette</i>1987, No. S138)</div>
+    <div>1 July 1987 ( <i>see Gazette</i>1987, No. S138)</div>
   </td>
   <td>
     <div></div>
@@ -1129,7 +1130,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 4, 5, 9–11, 21(2) and 22(1): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S402) 
-Ss. 12, 21(3) and 22(2): 30 June 1989 ( <i>see Gazette</i>1989, No. S216) 
+Ss. 12, 21(3) and 22(2): 30 June 1989 ( <i>see Gazette</i>1989, No. S216) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1232,7 +1233,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (item 752): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
+    <div>Schedule 1 (item 752): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1288,7 +1289,7 @@ Remainder: 24 May 2001</div>
     <div>S. 4 and Schedule 1 (items 313, 314, 496): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
+    <div>S. 4 and Sch. 1 (item 496)</div>
   </td>
 </tr>
 <tr>
@@ -1322,24 +1323,7 @@ Remainder: 24 May 2001</div>
     <div>Schedule 2 (items 937, 938) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (item 108): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr height="0">
@@ -1378,8 +1362,8 @@ _(e)_     The _Protection of Movable Cultural Heritage Act 1986_ was ame
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1619,14 +1603,6 @@ _(e)_     The _Protection of Movable Cultural Heritage Act 1986_ was ame
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
   </td>
 </tr>
 <tr>
