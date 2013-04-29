@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00824/Html/Ombudsman1976_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00727/Html/Ombudsman1976_WD02_image001.gif)
 
 # Ombudsman Act 1976
 
 **Act No. 181 of 1976 as amended**
 
-This compilation was prepared on 20 December 2010
- taking into account amendments up to Act No. 139 of 2010
+This compilation was prepared on 1 November 2010
+ taking into account amendments up to Act No. 51 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -2525,7 +2525,7 @@ Note:          In certain circumstances, a PPO that is no long
 
 ### Division 1—Ombudsman
 
-##### <a id="20"></a>20  Interpretation
+##### <a id="20"></a>20  Interpretation
 
                    In this Division, unless the contrary intention appears, **_Ombudsman_** means the Commonwealth Ombudsman or a Deputy Commonwealth Ombudsman.
 
@@ -3808,23 +3808,6 @@ Schedule 2 (item 5): <i>(q)</i></div>
   <td>
     <div>Sch. 4 (items 66, 67) \[ <i>see</i>Table A] 
 Sch. 7 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Territories Law Reform Act 2010</div>
-  </td>
-  <td>
-    <div>139, 2010</div>
-  </td>
-  <td colspan="2">
-    <div>10 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 241, 242): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -5566,28 +5549,6 @@ No. 49, 2001</div>
     <div>rep. No. 168, 1986</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Territories Law Reform Act 2010 (No. 139, 2010)_
-
-The following amendments commence on 10 June 2011 unless proclaimed earlier:
-
-## Schedule 1
-
-## 241  At the end of subsection 4(2)
-
-Add:
-
-               ; or (d)  an enactment of Norfolk Island.
-
-## 242  At the end of section 4
-
-Add:
-
-             (6)  The Commonwealth Ombudsman, in performing functions under an enactment of Norfolk Island, may, if he or she so chooses, be called the Norfolk Island Ombudsman. 
-
-As at 20 December 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
