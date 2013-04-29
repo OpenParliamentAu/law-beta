@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00598/Html/9665f9d3-e28a-457b-9fda-3b7a1a04f547_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00407/Html/fdc0286c-a63d-487a-9875-e7f1326a0ccc_files/image001.gif)
 
 # Clean Energy Regulator Act 2011
 
 **Act No. 163 of 2011 as amended**
 
-This compilation was prepared on 1 July 2012
+This compilation was prepared on 2 April 2012
  taking into account amendments up to Act No. 152 of 2011
 
 The text of any of those amendments not in force
@@ -695,7 +695,7 @@ Note 2:       For rules that apply to acting appointments, see secti
 
 ### Division 4—Decision‑making by the Regulator
 
-##### <a id="29"></a>29  Holding of meetings
+##### <a id="29"></a>29  Holding of meetings
 
              (1)  The Regulator is to hold such meetings as are necessary for the performance of its functions.
 
@@ -1087,8 +1087,6 @@ Scope
 
                      (u)  the Chief Executive Officer of Customs;
 
-                   (ua)  the Australian Renewable Energy Agency;
-
                      (v)  a State/Territory government body whose functions include a function that corresponds to a function of the Regulator;
 
                     (w)  a prescribed State/Territory government body;
@@ -1446,7 +1444,7 @@ Remainder: Royal Assent</div>
     <div>4 Dec 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (item 2): <i>(a)</i></div>
+    <div>Schedule 1 (item 2): \[ <i>see</i> <i>(a)</i>and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1546,7 +1544,8 @@ _(a)_     Subsection 2(1) (item 3) of the _Australian Renewable Energy A
   </td>
   <td>
     <div>
-      1 July 2012
+      \[
+        <i>see</i>Note 2]
     </div>
     <div>
       (paragraph (b) applies)
@@ -1554,44 +1553,20 @@ _(a)_     Subsection 2(1) (item 3) of the _Australian Renewable Energy A
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Act 2011 (No. 152, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 152, 2011</div>
-  </td>
-</tr></table>
+The following amendment commences immediately after 1 July 2012:
+
+## Schedule 1
+
+## 2  After paragraph 49(1)(u)
+
+Insert:
+
+                   (ua)  the Australian Renewable Energy Agency;
+
+As at 2 April 2012 the amendment is not incorporated in this compilation.
 
  
