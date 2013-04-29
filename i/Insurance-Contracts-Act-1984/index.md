@@ -1,7 +1,7 @@
 
 Insurance Contracts Act 1984
 Act No. 80 of 1984 as amended 
-This compilation was prepared on 19 May 2003  taking into account amendments up to Act No. 36 of 2003
+This compilation was prepared on 15 April 2003  taking into account amendments up to Act No. 96 of 2002
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -977,11 +977,6 @@ Insurance and Aviation Liability Legislation Amendment Act 2002
 10 Nov 2002
 Schedule 1 (items 1–4): 23 July 1998 (see s. 2(1)) Remainder: Royal Assent
 S. 4 [see Table A]
-Medical Indemnity (Prudential Supervision and Product Standards) (Consequential Amendments) Act 2003
-36, 2003
-2 May 2003
-Schedule 1 (items 12–17): [see (m) and Note 2]
-—
 (a)	The Insurance Contracts Act 1984 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent. (see also (c))
 (b)	The Insurance Contracts Act 1984 was amended by Part VIII (section 60) only of the Australian Trade Commission (Transitional Provisions and Consequential Amendments) Act 1985, subsection 2(1) of which provides as follows:
@@ -1014,8 +1009,7 @@ Schedule 1 (items 12–17): [see (m) and Note 2]
 	(1)	In this section:
 		FSR commencement means the commencement of item 1 of Schedule 1 to the Financial Services Reform Act 2001.
 	(6)	Subject to subsections (7) to (17), the other items of Schedule 1 commence on the FSR commencement.
-(m)	The Insurance Contracts Act 1984 was amended by Schedule 1 (items 12–17) only of the Medical Indemnity (Prudential Supervision and Product Standards) Act 2003, section 2 of which provides as follows:
-	2	This Act commences, or is taken to have commenced, on 1 July 2003. [see Note 2]
+
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed     rs. = repealed and substituted
 Provision affected
@@ -1224,29 +1218,6 @@ S. 76A
 ad. No. 49, 1994
 S. 77	
 am. No. 107, 1997
-Note 2
-Medical Indemnity (Prudential Supervision and Product Standards) (Consequential Amendments) Act 2003 (No. 36, 2003)
-The following amendments commence on 1 July 2003:
-Schedule 1
-12  Before section 11A
-Insert:
-11AAA  Definition
-		In this Part, unless the contrary intention appears:
-relevant legislation means:
-	(a)	this Act; or
-	(b)	Part 3 of the Medical Indemnity (Prudential Supervision and Product Standards) Act 2003.
-13  Section 11B
-Omit “this Act”, substitute “the relevant legislation”.
-14  Section 11B
-Omit “the Act” (wherever occurring), substitute “the relevant legislation”.
-15  Subsection 11C(1)
-Omit “this Act”, substitute “the relevant legislation”.
-16  Subsection 11D(1)
-Omit “this Act”, substitute “the relevant legislation”.
-17  Paragraph 11E(a)
-Omit “this Act”, substitute “the relevant legislation”.
-Note:	The heading to section 11E is altered by omitting “Act” and substituting “relevant legislation”.
-As at 19 May 2003 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Insurance Laws Amendment Act 1998 (No. 35, 1998)
@@ -1266,5 +1237,4 @@ Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001 
 Insurance and Aviation Liability Legislation Amendment Act 2002  (No. 96, 2002)
 4  Application
 		The amendment made by item 6 of Schedule 1 applies to a provision included in a contract of insurance after the commencement of the item, including a provision included by varying a contract entered into before the commencement of the item.
-      
 
