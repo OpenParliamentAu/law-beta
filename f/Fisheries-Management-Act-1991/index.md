@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00729/Html/FishMangmtAct1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00481/Html/FishMangmtAct1991_WD02_image001.gif)
 
 # Fisheries Management Act 1991
 
 **Act No. 162 of 1991 as amended**
 
-This compilation was prepared on 1 November 2010
+This compilation was prepared on 7 July 2010
  taking into account amendments up to Act No. 96 of 2010
 
 The text of any of those amendments not in force 
@@ -2171,7 +2171,7 @@ the following provisions of this section apply.
 
              (2)  If a person holds a statutory fishing rights option in respect of statutory fishing rights under the new plan, the option entitles the person, subject to subsections (3) and (4), to be granted under the new plan, to the extent to which the person exercises the option in accordance with subsection 31D(1), the number of statutory fishing rights of the relevant class worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00729/Html/FishMangmtAct1991_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00481/Html/FishMangmtAct1991_WD02_image002.gif)
 
 where:
 
@@ -5178,7 +5178,7 @@ This does not limit subsection (1C).
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-##### <a id="104"></a>104  Foreign boats not to contravene condition of Treaty licence
+##### <a id="104"></a>104  Foreign boats not to contravene condition of Treaty licence
 
              (1)  A person must not, in an area of the AFZ that is within the Treaty area:
 
@@ -8530,7 +8530,7 @@ Note:          This clause corresponds closely to section 26
 
 ##### <a id="33"></a>33  Identification tests not to be carried out in cruel, inhuman or degrading manner etc.
 
-                   For the purposes of this Act, the carrying out of the identification test is not of itself taken:
+                   For the purposes of this Act, the carrying out of the identification test is not of itself taken:
 
                      (a)  to be cruel, inhuman or degrading; or
 
@@ -8734,7 +8734,7 @@ Note:          This clause corresponds closely to section 26
 
                      (d)  is for any purpose connected with determining whether a civil or criminal liability has arisen from a person carrying out or helping to carry out an identification test under this Act; or
 
-                     (e)  is for the purpose of an investigation by the Information Commissioner under the _Privacy Act 1988_ or the Ombudsman relating to carrying out an identification test; or
+                     (e)  is for the purpose of an investigation by the Privacy Commissioner or the Ombudsman relating to carrying out an identification test; or
 
                       (f)  is made to a prescribed body or agency for the purpose of the body or agency inquiring into the operation of provisions of this Act relating to carrying out an identification test; or
 
@@ -9006,7 +9006,7 @@ Note:          A defendant bears an evidential burden in relat
 
                       (f)  is for the purpose of a proceeding, before a court or tribunal, relating to the person to whom the identifying information in question relates; or
 
-                     (g)  is for the purpose of an investigation by the Information Commissioner or the Ombudsman relating to action taken by the Department; or
+                     (g)  is for the purpose of an investigation by the Privacy Commissioner or the Ombudsman relating to action taken by the Department; or
 
                      (h)  is made to a prescribed body or agency for the purpose of the body or agency inquiring into the operation of provisions of this Act relating to:
 
@@ -9838,7 +9838,7 @@ PART 5
 
 ENFORCEMENT
 
-14.   The master and each member of the crew of the vessel shall immediately comply with every instruction and direction given by an authorised and identified officer of a Pacific  Island party, including to stop, to move to a specified location, and to facilitate safe boarding and inspection of the vessel, gear, equipment, records, fish and fish products. Such boarding and inspection shall be conducted as much as possible in a manner so as not to interfere unduly with the lawful operation of the vessel. The operator and each member of the crew shall facilitate and assist in any action by an authorised officer of a Pacific Island party and shall not assault, obstruct, resist, delay, refuse boarding to, intimidate or interfere with an authorised officer in the performance of his or her duties.
+14.   The master and each member of the crew of the vessel shall immediately comply with every instruction and direction given by an authorised and identified officer of a Pacific  Island party, including to stop, to move to a specified location, and to facilitate safe boarding and inspection of the vessel, gear, equipment, records, fish and fish products. Such boarding and inspection shall be conducted as much as possible in a manner so as not to interfere unduly with the lawful operation of the vessel. The operator and each member of the crew shall facilitate and assist in any action by an authorised officer of a Pacific  Island party and shall not assault, obstruct, resist, delay, refuse boarding to, intimidate or interfere with an authorised officer in the performance of his or her duties.
 
 15.   The international distress frequency, 2.182 MHz, and 156.8 MHz (Channel 16, VHF) shall be monitored continuously from the vessel for the purpose of facilitating communication with the surveillance and enforcement authorities of the parties.
 
@@ -12600,7 +12600,7 @@ FINAL PROVISIONS
 
 <u>Signature</u>
 
-          This Agreement shall be open for signature by all States and the other entities referred to in article 1, paragraph 2(b), and shall remain open for signature at United Nations Headquarters for twelve months from the fourth of December  1995.
+          This Agreement shall be open for signature by all States and the other entities referred to in article 1, paragraph 2(b), and shall remain open for signature at United Nations Headquarters for twelve months from the fourth of December 1995.
 
 <u>Article 38</u>
 
@@ -13892,7 +13892,8 @@ Sch. 1 (item 17) (rep. by 96, 2010, Sch. 3 \[item 17])</div>
     <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (items 35, 36) and Schedule 7: <i>(n)</i></div>
+    <div>Schedule 5 (items 35, 36): \[ <i>see (n)</i>and Note 3] 
+Schedule 7: <i>(n)</i></div>
   </td>
   <td>
     <div>Sch. 7 \[ <i>see</i>Note 1]</div>
@@ -13909,7 +13910,7 @@ Sch. 1 (item 17) (rep. by 96, 2010, Sch. 3 \[item 17])</div>
     <div>6 July 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (item 2): \[ <i>see (o)</i>and Note 3] 
+    <div>Schedule 3 (item 2): \[ <i>see (o)</i>and Note 4] 
 Schedule 3 (item 17): \[ <i>see</i> <i>(o)</i>and Table A]</div>
   </td>
   <td>
@@ -14428,7 +14429,8 @@ _(n)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
   </td>
   <td>
     <div>
-      1 November 2010
+      \[
+        <i>see</i>Note 3]
     </div>
   </td>
 </tr></table>
@@ -14485,7 +14487,7 @@ _(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (C
   <td>
     <div>
       \[
-        <i>see</i>Note 3]
+        <i>see</i>Note 4]
     </div>
   </td>
 </tr>
@@ -17388,7 +17390,7 @@ of Div. 6 of Part 6</div>
 </tr>
 <tr>
   <td>
-    <div>Cc. 31–37</div>
+    <div>C. 31–37</div>
   </td>
   <td>
     <div>ad. No. 103, 2005</div>
@@ -17420,31 +17422,7 @@ of Div. 6 of Part 6</div>
 </tr>
 <tr>
   <td>
-    <div>Cc. 39–41</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 42</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cc. 43–46</div>
+    <div>Cc. 39–46</div>
   </td>
   <td>
     <div>ad. No. 103, 2005</div>
@@ -17551,7 +17529,7 @@ of Div. 6 of Part 6</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 63, 2007; No. 51, 2010</div>
+    <div>am. No. 63, 2007</div>
   </td>
 </tr>
 <tr>
@@ -18018,9 +17996,27 @@ Repeal the Subdivision, substitute:
 
              (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the admiralty event or the PPSA event.
 
-As at 1 November 2010 the amendments are not incorporated in this compilation.
+As at 7 July 2010 the amendments are not incorporated in this compilation.
 
 ### Note 3
+
+_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
+
+The following amendments commence immediately after 1 November 2010:
+
+## Schedule 5
+
+## 35  Paragraph 42(2)(e) of Schedule 1A
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner under the _Privacy Act 1988_”.
+
+## 36  Paragraph 53(2)(g) of Schedule 1A
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner”.
+
+As at 7 July 2010 the amendments are not incorporated in this compilation.
+
+### Note 4
 
 _Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
 
@@ -18046,7 +18042,7 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 1 of Schedule 1 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 1 November 2010 the amendment is not incorporated in this compilation.
+As at 7 July 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -18288,6 +18284,6 @@ Repeal the item.
 
 _Note:       The repealed item is redundant because of the amendment in item 2 of this Schedule._
 
-As at 1 November 2010 the amendment is not incorporated in this compilation.
+As at 7 July 2010 the amendment is not incorporated in this compilation.
 
  
