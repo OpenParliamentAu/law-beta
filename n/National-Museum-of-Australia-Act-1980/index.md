@@ -1,7 +1,7 @@
 
 National Museum of Australia Act 1980
 Act No. 115 of 1980 as amended 
-This compilation was prepared on 28 March 2001 taking into account amendments up to Act No. 3 of 2001
+This compilation was prepared on 27 March 2000 taking into account amendments up to Act No. 156 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -19,45 +19,44 @@ Part II—The National Museum of Australia	4
 6	Functions of Museum	5
 7	Powers of Museum	5
 8	Land and historical material for Museum	7
-9	Disposal of historical material in national historical collection	8
+9	Disposal of historical material in national historical collection	7
 9A	Disposal of historical material not in national historical collection	8
-Part III—The Council of the Museum	10
-10	Establishment of Council	10
-12	Directions by Minister	10
-13	Membership of Council	10
-14	Deputy Chair	11
-15	Deputies of part‑time members	12
-16	Remuneration etc.	12
-17	Termination of appointment	13
-18	Resignation	13
-20	Meetings of Council	13
-21	Committees of Council	15
-22	Delegation by Council	15
-Part IV—The Director of the Museum	17
-23	Office of Director	17
-24	Terms and conditions of appointment etc.	17
-25	Remuneration etc.	17
-26	Leave of absence	17
-27	Termination of appointment	18
-28	Resignation	18
-29	Acting Director	18
-Part V—Staff and consultants	21
-30	Staff	21
-31	Arrangements relating to staff	21
-32	Engagement of consultants etc.	21
-Part VI—Finance	22
-33	Moneys payable to Museum	22
-34	National Museum of Australia Fund	22
-35	Application of moneys held by Museum	23
-37	Limit on contracts	23
-38	Extra matters to be included in annual report	23
-39	Exemption from taxation	23
-Part VII—Miscellaneous	24
-41	Supply of liquor on premises of Museum	24
-42	Delegation	24
-43	Copyright	24
-44	Regulations	24
-Notes		27
+Part III—The Council of the Museum	9
+10	Establishment of Council	9
+12	Directions by Minister	9
+13	Membership of Council	9
+14	Deputy Chair	10
+15	Deputies of part‑time members	11
+16	Remuneration etc.	11
+17	Termination of appointment	12
+18	Resignation	12
+20	Meetings of Council	12
+21	Committees of Council	14
+22	Delegation by Council	14
+Part IV—The Director of the Museum	16
+23	Office of Director	16
+24	Terms and conditions of appointment etc.	16
+25	Remuneration etc.	16
+26	Leave of absence	16
+27	Termination of appointment [see Note 2]	17
+28	Resignation	17
+29	Acting Director	17
+Part V—Staff and consultants	20
+30	Staff	20
+31	Arrangements relating to staff	20
+32	Engagement of consultants etc.	20
+Part VI—Finance	21
+33	Moneys payable to Museum	21
+35	Application of moneys held by Museum	21
+37	Limit on contracts	21
+38	Extra matters to be included in annual report	22
+39	Exemption from taxation	22
+Part VII—Miscellaneous	23
+41	Supply of liquor on premises of Museum	23
+42	Delegation	23
+43	Copyright	23
+44	Regulations	23
+Notes		25
 An Act to make provision for the establishment of a National Museum of Australia
 Part I—Preliminary
   
@@ -114,11 +113,9 @@ Note:	The Commonwealth Authorities and Companies Act 1997 applies to the Museum.
 	(1)	The functions of the Museum are:
 	(a)	to develop and maintain a national collection of historical material;
 	(b)	to exhibit, or to make available for exhibition by others, historical material from the national historical collection or historical material that is otherwise in the possession of the Museum;
-	(baa)	to exhibit material, whether in written form or in any other form, that relates to Australia’s past, present and future;
 	(ba)	from time to time as the occasion requires, to exhibit, by itself or in collaboration with others, in Australia or elsewhere, material, whether in written form or in any other form and whether relating to Australia or to a foreign country;
-	(c)	to conduct, arrange for or assist in research into matters pertaining to Australian history;
-	(d)	to disseminate information relating to Australian history and information relating to the Museum and its functions; and
-	(e)	to develop and implement sponsorship, marketing and other commercial activites relating to the Museum’s functions.
+	(c)	to conduct, arrange for or assist in research into matters pertaining to Australian history; and
+	(d)	to disseminate information relating to Australian history and information relating to the Museum and its functions.
 	(2)	The Museum shall use every endeavour to make the most advantageous use of the national collection in the national interest.
 7  Powers of Museum
 	(1)	Subject to this Act, the Museum has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
@@ -132,8 +129,6 @@ Note:	The Commonwealth Authorities and Companies Act 1997 applies to the Museum.
 	(g)	to occupy, use and control any land or building owned or held under lease by the Commonwealth and made available to the Museum under section 8;
 	(h)	to erect buildings;
 	(j)	to purchase or take on hire, or to accept as a gift or on deposit or loan, and to dispose of or otherwise deal with, furnishings, equipment and other goods;
-	(ja)	to charge such fees and impose such charges (in addition to the charges fixed by regulations) as are reasonable in respect of services rendered by the Museum;
-	(jb)	to raise money for the purposes of the Museum by appropriate means, having regard to the proper performance of the functions of the Museum;
 	(k)	to act as trustee of moneys or other property vested in the Museum on trust; and
 	(m)	to act on behalf of the Commonwealth or of an authority of the Commonwealth in the administration of a trust relating to historical material or related matters.
 	(3)	The Museum shall not dispose of historical material except in accordance with section 9 or 9A.
@@ -156,7 +151,7 @@ the Council may resolve that the historical material be disposed of by sale, gif
 	(3)	The Council shall not resolve that historical material be disposed of by destruction unless the Council is satisfied that the material has no saleable value.
 	(4)	Where:
 	(a)	the Council has resolved, in accordance with this section, that historical material be disposed of; and
-	(b)	if the value of that historical material exceeds $250,000, the Minister has approved of that disposal;
+	(b)	if the value of that historical material exceeds $20,000, the Minister has approved of that disposal;
 the Museum may dispose of that historical material accordingly.
 	(5)	In each report on the Museum under section 9 of the Commonwealth Authorities and Companies Act 1997, the members must include particulars of any disposals of historic material under this section or section 9A during the financial year to which the report relates.
 9A  Disposal of historical material not in national historical collection
@@ -164,7 +159,7 @@ the Museum may dispose of that historical material accordingly.
 	(2)	The Council shall not resolve that historical material be disposed of by destruction unless the Council is satisfied that the material has no saleable value and cannot be disposed of in any other way.
 	(3)	Where:
 	(a)	the Council has resolved, in accordance with this section, that historical material be disposed of; and
-	(b)	if the value of the historical material exceeds $250,000, the Minister has approved of the disposal;
+	(b)	if the value of the historical material exceeds $20,000, the Minister has approved of the disposal;
 the Museum may dispose of the historical material accordingly.
 
 Part III—The Council of the Museum
@@ -268,14 +263,14 @@ Part IV—The Director of the Museum
 26  Leave of absence
 	(1)	The Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 	(2)	The Minister may grant the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
-27  Termination of appointment
+27  Termination of appointment [see Notes 2 and 3]
 	(1)	The Governor‑General may terminate the appointment of the Director by reason of the misbehaviour or physical or mental incapacity of the Director.
 	(2)	If the Director:
 	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 	(b)	is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months;
 	(c)	is absent, except on leave granted by the Council, from 3 consecutive meetings of the Council otherwise than on business of the Council undertaken with the approval of the Council;
 	(d)	engages in paid employment outside the duties of his or her office without the approval of the Minister; or
-	(e)	fails to comply with his or her obligations under section 27F or 27J of the Commonwealth Authorities and Companies Act 1997;
+	(e)	fails to comply with his or her obligations under section 19;
 the Governor‑General shall terminate the appointment of the Director.
 28  Resignation
 		The Director may resign his or her office by writing signed by him or her and delivered to the Governor‑General.
@@ -313,14 +308,6 @@ Part VI—Finance
 33  Moneys payable to Museum
 	(1)	There are payable to the Museum such moneys as are appropriated, from time to time, by the Parliament for the purposes of the Museum.
 	(2)	The Minister for Finance may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the Museum.
-34  National Museum of Australia Fund
-	(1)	There is established by this section a fund by the name of the National Museum of Australia Fund.
-	(2)	Income received from the investment of money standing to the credit of the Fund forms part of the Fund.
-	(3)	These are to be paid into the Fund:
-	(a)	gifts and bequests of money that the Museum accepts after the commencement of this section (otherwise than on trust);
-	(b)	money that the Museum receives after that commencement (other than money to be held on trust by the Museum) from the disposal of property given, devised, bequeathed or assigned to the Museum (whether before, at or after that commencement);
-	(c)	so much of the money held by the Museum in bank accounts (otherwise than on trust) immediately before that commencement as the Minister determines by notice in writing given to the Museum within 21 days after that commencement.
-	(4)	The payment of money into a bank account maintained by the Museum in accordance with subsection 18(2) of the Commonwealth Authorities and Companies Act 1997 under the name of the National Museum of Australia Fund is taken, for the purposes of subsection (3) of this section, to be a payment of the money into the Fund.
 35  Application of moneys held by Museum
 	(1)	Moneys held by the Museum otherwise than upon trust shall be applied only:
 	(a)	in payment or discharge of the costs, expenses and other obligations incurred by the Museum in the performance of its functions or the exercise of its powers under this Act; and
@@ -444,11 +431,6 @@ Corporate Law Economic Reform Program Act 1999
 24 Nov 1999
 Schedule 10 (items 102, 103): 13 Mar 2000 (see Gazette 2000, No. S114) (k)
 —
-National Museum of Australia Amendment Act 2001
-3, 2001
-20 Mar 2001
-20 Mar 2001
-—
 
 (a)	The National Museum of Australia Act 1980 was amended by subsection 151(1) only of the Public Service Reform Act 1984, subsection 2(4) of which provides as follows:
 	(4)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
@@ -481,7 +463,7 @@ ad. = added or inserted      am. = amended      rep. = repealed      rs. = repea
 Provision affected
 How affected
 Title	
-am. No. 193, 1985
+am. No. 193, 1985s
 S. 1	
 am. No. 193, 1985
 S. 3	
@@ -493,17 +475,17 @@ am. No. 193, 1985
 Note to s. 4(2)	
 ad. No. 152, 1997
 S. 6	
-am. No. 193, 1985; No. 3, 2001
+am. No. 193, 1985
 S. 7	
-am. No. 141, 1987; No. 3, 2001
+am. No. 141, 1987
 S. 8	
 am. No. 193, 1985; No. 43, 1996
 S. 9	
-am. No. 179, 1991; No. 152, 1997; No. 3, 2001
+am. No. 179, 1991; No. 152, 1997
 S. 9A	
 ad. No. 141, 1987
 
-am. No. 179, 1991; No. 3, 2001
+am. No. 179, 1991
 S. 10	
 am. No. 193, 1985
 S. 11	
@@ -535,7 +517,7 @@ rs. No. 179, 1991
 
 am. No. 146, 1999
 S. 27	
-am. No. 179, 1991; No. 43, 1996; No. 3, 2001
+am. No. 179, 1991; No. 43, 1996
 Ss. 28, 29	
 am. No. 43, 1996
 Ss. 30, 31	
@@ -544,8 +526,6 @@ S. 32
 am. No. 166, 1985 (as am. by No. 76, 1986); No. 193, 1985
 S. 34	
 rep. No. 152, 1997
-
-ad. No. 3, 2001
 S. 35	
 am. No. 152, 1997
 S. 36	
@@ -560,5 +540,19 @@ S. 40
 rep. No. 65, 1985
 S. 42	
 am. No. 43, 1996 
+
+Note 2
+Section 27(2)(e)—Schedule 2 (item 1011) of the Audit (Transitional and Miscellaneous) Amendment Act 1997 provides as follows:
+Schedule 2
+1011  Paragraph 27(2)(e)
+Omit “his obligations under section 19”, substitute “section 21 of the Commonwealth Authorities and Companies Act 1997”.
+The proposed amendment was misdescribed and is not incorporated in this compilation.
+Note 3
+Section 27(2)(e)—Schedule 10 (item 103) of the Corporate Law Economic Reform Program Act 1999 provides as follows:
+Schedule 10
+103  Paragraph 27(2)(e)
+Omit “21”, substitute “27F to 27J”.
+The proposed amendment was misdescribed and is not incorporated in this compilation.
+
 
 
