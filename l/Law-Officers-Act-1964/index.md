@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2006C00300/Html/5885F266BDDD551FCA257187001F5E11/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00249/Html/69D64E9385A428ACCA25716A002597C1/$FILE/image001.gif)
 
 # Law Officers Act 1964
 
 **Act No. 91 of 1964 as amended**
 
-This compilation was prepared on 13 June 2006
+This compilation was prepared on 10 May 2006
 taking into account amendments up to Act No. 40 of 2006
 
 The text of any of those amendments not in force
@@ -56,6 +56,8 @@ Attorney-General’s Department, Canberra
 [19](#19).          Regulations
 
 **Notes** 
+
+ 
 
 
 ## An Act relating to the Law Officers of the Commonwealth
@@ -276,7 +278,7 @@ reduced by 2.5% for each whole year between:
 
         (11A)  For the purposes of this section, the **_appropriate current salary_** in relation to a person at a particular time (the **_calculation time_**) is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2006C00300/Html/5885F266BDDD551FCA257187001F5E11/$FILE/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00249/Html/69D64E9385A428ACCA25716A002597C1/$FILE/image002.gif)
 
 For the purposes of the calculation:
 
@@ -356,7 +358,7 @@ whichever is the lesser period.
 
              (5)  A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Attorney-General.
 
-             (6)  This section does not apply to the powers and functions of the Attorney-General under the _Telecommunications (Interception and Access) Act 1979_.
+             (6)  This section does not apply to the powers and functions of the Attorney-General under the _Telecommunications (Interception) Act 1979_.
 
 ##### <a id="18"></a>18  References in laws to Solicitor-General
 
@@ -648,13 +650,15 @@ Remainder: Royal Assent
       <div>3 May 2006</div>
     </td>
     <td>
-      <div>Schedule 1 (item 21): 13 June 2006 ( <i>see</i>F2006L01623)</div>
+      <div>Schedule 1 (item 21): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
     </td>
   </tr>
 </tbody></table>
+
+ 
 
 
 _(a)_     The _Law Officers Act 1964_ was amended by sections 3 and 4 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsections 2(1) and (9) of which provide as follows:
@@ -873,7 +877,7 @@ _(f)_      The _Law Officers Act 1964_ was amended by section 3 (ite
       <div>S. 17</div>
     </td>
     <td>
-      <div>am. No. 216, 1973; No. 91, 1983; No. 141, 1994; No. 62, 2004; No. 40, 2006</div>
+      <div>am. No. 216, 1973; No. 91, 1983; No. 141, 1994; No. 62, 2004</div>
     </td>
   </tr>
   <tr>
@@ -893,6 +897,21 @@ _(f)_      The _Law Officers Act 1964_ was amended by section 3 (ite
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Telecommunications (Interception) Amendment Act 2006 (No. 40, 2006)_
+
+The following amendment commences on 3 November 2006 unless proclaimed earlier:
+
+## Schedule 1
+
+## 21  Subsection 17(6)
+
+Omit “_Telecommunications (Interception) Act 1979_”, substitute “_Telecommunications (Interception and Access) Act 1979_”.
+
+As at 10 May 2006 the amendment is not incorporated in this compilation.
 
 
  
