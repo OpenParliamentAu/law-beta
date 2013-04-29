@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00035/Html/fc7ba436-f69e-47e7-a149-39a1206d9966_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00727/Html/ac1b9092-e2e4-449b-8a3b-0f5be73fd028_files/image001.gif)
 
 # Australian Capital Territory (Planning and Land Management) Act 1988
 
 **Act No. 108 of 1988 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 7 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -744,15 +744,11 @@ the liability is vested in the Territory and ceases to be a liability of the Com
 
                      (b)  when that member is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  Where there is, or is to be, a part‑time Chairperson, the Minister may appoint a member to act as the Chairperson during any period, or during all periods:
 
                      (a)  when there is a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
 
                      (b)  when the Chairperson is absent from Australia or is, for any other reason, unable to perform the duties of the office.
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
              (3)  The Minister may appoint a person to act as a non‑executive member referred to in subsection 33(3) or (4) during any period, or during all periods:
 
@@ -760,7 +756,17 @@ Note:          For rules that apply to acting appointments, se
 
                      (b)  when a non‑executive member is acting as Chairperson, is absent from Australia or is, for any other reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (4)  A person appointed to act during a vacancy shall not continue so to act for a continuous period of more than 12 months.
+
+             (5)  Anything done by a person purporting to act under an appointment under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen;
+
+                     (b)  there was a defect or irregularity in or in connection with the appointment;
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="38"></a>38  Leave of absence
 
@@ -996,7 +1002,7 @@ and includes a part of such a policy.
 
                    Until the Territory planning authority is established, the interim authority may take preliminary steps to prepare the Territory plan in accordance with section 25.
 
-##### <a id="59"></a>59  Procedures before establishment of Executive
+##### <a id="59"></a>59  Procedures before establishment of Executive
 
              (1)  Until the establishment of the Executive on Self‑Government Day:
 
@@ -1638,7 +1644,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 120, 121) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 120, 121) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1933,22 +1939,6 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 </tr>
 <tr>
   <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 37(1), (2), (3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 38</div>
   </td>
   <td>
@@ -2100,6 +2090,26 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 120  At the end of subsections 37(1), (2) and (3)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 121  Subsections 37(4) and (5)
+
+Repeal the subsections.
+
+As at 7 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2167,6 +2177,8 @@ the enabling legislation has effect, on and after the commencing day, as if:
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
