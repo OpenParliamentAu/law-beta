@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00078/Html/ProdStewardOil2000WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00656/Html/ProdStewardOil2000WD02_image001.gif)
 
 # Product Stewardship (Oil) Act 2000
 
 **Act No. 102 of 2000 as amended**
 
-This compilation was prepared on 24 March 2008
+This compilation was prepared on 2 October 2007
  taking into account amendments up to Act No. 155 of 2007
 
 The text of any of those amendments not in force 
@@ -131,11 +131,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The objects of this Act are:
 
-                     (a)  to develop a product stewardship arrangement for used oils; and
+                     (a)  to develop a product stewardship arrangement for waste oils; and
 
-                     (b)  to ensure the environmentally sustainable management, re-refining and reuse of used oil; and
+                     (b)  to ensure the environmentally sustainable management, re-refining and reuse of waste oil; and
 
-                     (c)  to support economic recycling options for used oil.
+                     (c)  to support economic recycling options for waste oil.
 
 ##### <a id="4"></a>4  Extension to external Territories
 
@@ -195,9 +195,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  the restoring of used oils to their former state.
 
-                    <a name="used-oil"></a>**_used oil_** means any oil that has been used and that, as a result of such use, is contaminated by physical or chemical impurities.
-
-                    <a name="vote-member"></a>**_voting member_** means a member who is appointed on the basis of their knowledge of, or experience in, one or more of the areas referred to in subsection 14(2).
+                    <a name="wast-oil"></a>**_waste oil_** means any oil that has been used and that, as a result of such use, is contaminated by physical or chemical impurities.
 
              (2)  An expression used in this Act that is also used in the _Product Grants and Benefits Administration Act 2000_ has the same meaning as in that Act, unless the contrary intention appears.
 
@@ -279,14 +277,6 @@ the claim is taken to have been made immediately after you are registered.
 
 The Minister may also take into consideration any relevant recommendation made to the Minister by the Advisory Council.
 
-             (5)  Despite section 14 of the _Legislative Instruments Act 2003_, regulations made for the purposes of subsection (1) may apply, adopt or incorporate any matter contained in a written instrument specifying:
-
-                     (a)  oil testing methods; or
-
-                     (b)  standards for the accreditation of laboratories undertaking oil testing;
-
-as in force or existing from time to time.
-
 ## Part 3—The Oil Stewardship Advisory Council
 
 ### Division 1—Establishment and functions of the Oil Stewardship Advisory Council
@@ -301,7 +291,7 @@ as in force or existing from time to time.
 
                      (a)  to advise the Minister on the product stewardship arrangements for oils; and
 
-                     (b)  to advise the Minister in relation to the recovery and recycling of used oil; and
+                     (b)  to advise the Minister in relation to the recovery and recycling of waste oil; and
 
                      (c)  to advise the Minister in relation to regulations under section 10 (working out the amount of product stewardship benefits); and
 
@@ -319,59 +309,37 @@ as in force or existing from time to time.
 
              (2)  Subject to section 24, the performance of a function of the Advisory Council is not affected by a vacancy or vacancies in the Advisory Council’s membership.
 
-             (3)  The performance of a function of the Advisory Council is not affected by the fact that the Advisory Council’s membership does not include any members who are appointed:
-
-                     (a)  on the basis of their knowledge of, or experience in, a particular area referred to in subsection 14(2); or
-
-                     (b)  to represent the Commissioner or the Commonwealth in accordance with subsection 14(2B).
+             (3)  The performance of a function of the Advisory Council is not affected by the fact that the Advisory Council’s membership does not include any members who are appointed to represent a particular body, group of bodies or community referred to in subsection 14(2).
 
 ##### <a id="14"></a>14  Appointment of members
 
              (1)  Members are to be appointed by the Minister by written instrument.
 
-             (2)  The Minister must not appoint a person as a member of the Advisory Council (other than as a member mentioned in subsection (2B)) unless the Minister is satisfied that the person has knowledge of, or experience in, one or more of the following areas:
+             (2)  The Minister must ensure that the membership includes the members representing the following:
 
-                     (a)  broad waste management issues from a business perspective;
+                     (a)  the Commissioner;
 
-                     (b)  research and development relevant to the product stewardship arrangements for oil;
+                     (b)  the Commonwealth;
 
-                     (c)  State or Territory government;
+                     (c)  a national organisation representing oil producers;
 
-                     (d)  local government;
+                     (d)  a national organisation representing oil recyclers;
 
-                     (e)  the non-government sector;
+                     (e)  the users of recycled oils;
 
-                      (f)  national consumer issues;
+                      (f)  the body known as the Australian and New Zealand Environment and Conservation Council;
 
-                     (g)  remote, including remote Indigenous, issues;
+                     (g)  local government;
 
-                     (h)  oil production;
+                     (h)  a national consumer organisation;
 
-                      (i)  used oil recycling;
-
-                      (j)  used oil collection.
-
-          (2A)  In appointing members of the Advisory Council, the Minister must endeavour to constitute the Advisory Council so that it, as a whole, has knowledge and experience in as many areas mentioned in subsection (2) as is practicable.
-
-          (2B)  The Minister must ensure that the membership of the Advisory Council includes:
-
-                     (a)  a person representing the Commissioner; and
-
-                     (b)  a person representing the Commonwealth.
-
-          (2C)  If a person mentioned in subsection (2B) is unable to attend a meeting, the person may authorise a substitute to attend the meeting. The substitute must be an APS employee.
+                      (i)  a national non-governmental organisation that has a substantial interest in sustainable industry.
 
              (3)  The Minister must ensure that a majority of the members are not persons employed by the Commonwealth or Commonwealth agencies.
 
 ##### <a id="15"></a>15  Chair
 
-             (1)  Subject to subsections (1A) and (2), the Minister must appoint as the Chair of the Advisory Council one of the members who possesses commercial or business experience that the Minister thinks relevant to the performance of the Advisory Council’s functions.
-
-          (1A)  The Minister must not appoint as the Chair a member who has a direct or indirect pecuniary interest in the product stewardship arrangements for oil if, in the Minister’s opinion, that interest could conflict, to a significant extent, with the proper performance of the duties of the Chair.
-
-          (1B)  The Chair must notify the Minister of any direct or indirect pecuniary interest that he or she acquires in the product stewardship arrangements for oil.
-
-          (1C)  The notice must be in writing given to the Minister as soon as practicable after the Chair acquires the interest.
+             (1)  Subject to subsection (2), the Minister must appoint as the Chair of the Advisory Council one of the members who possesses commercial or business experience that the Minister thinks relevant to the performance of the Advisory Council’s functions.
 
              (2)  The Minister must not appoint as the Chair a member who is employed by the Commonwealth or a Commonwealth agency.
 
@@ -381,17 +349,9 @@ as in force or existing from time to time.
 
                      (a)  ceases to be a member; or
 
-                    (aa)  has his or her appointment as Chair terminated by the Minister under subsection (6); or
-
                      (b)  resigns the office of Chair by written notice delivered to the Minister.
 
              (5)  A person is eligible to be re-appointed as the Chair.
-
-             (6)  The Minister may terminate the Chair’s appointment if:
-
-                     (a)  the Minister becomes aware, whether because of a notification under subsection (1B) or otherwise, that the Chair has a direct or indirect pecuniary interest in the product stewardship arrangements for oil; and
-
-                     (b)  in the Minister’s opinion, the interest conflicts, or could conflict, to a significant extent, with the proper performance of the duties of the Chair.
 
 ##### <a id="16"></a>16  Terms of office
 
@@ -435,7 +395,7 @@ as in force or existing from time to time.
 
                      (c)  is absent, except on leave of absence granted under section 19, from 3 consecutive meetings of the Advisory Council; or
 
-                     (d)  if the member was appointed to represent the Commissioner or the Commonwealth in accordance with subsection 14(2B)—ceases, because of a change in employment, residence or other circumstances, to be, in the Minister’s opinion, an appropriate representative of the Commissioner or the Commonwealth, as the case may be.
+                     (d)  if the member was appointed to represent one or more of the bodies, groups of bodies or communities referred to in subsection 14(2)—ceases, because of a change in employment, residence or other circumstances, to be, in the Minister’s opinion, an appropriate representative of such a body, groups of bodies or community that he or she was appointed to represent.
 
 ### Division 3—Meetings of the Advisory Council
 
@@ -449,7 +409,7 @@ as in force or existing from time to time.
 
                      (a)  may convene a meeting at any time; and
 
-                     (b)  must convene a meeting on receipt of a written request from at least 5 other voting members.
+                     (b)  must convene a meeting on receipt of a written request from at least 5 other members.
 
              (4)  The Minister may convene a meeting at any time.
 
@@ -457,15 +417,15 @@ as in force or existing from time to time.
 
              (1)  The Chair is to preside at all meetings at which he or she is present.
 
-             (2)  If the Chair is not present, the voting members present must elect one of their number to preside.
+             (2)  If the Chair is not present, the members present must elect one of their number to preside.
 
 ##### <a id="24"></a>24  Quorum
 
-                   At a meeting, a majority of voting members, or 6 voting members, whichever is the greater, form a quorum.
+                   At a meeting, a majority of members, or 6 members, whichever is the greater, form a quorum.
 
 ##### <a id="25"></a>25  Voting at meetings
 
-             (1)  Questions arising at a meeting are to be decided by a majority of votes of the voting members present and voting.
+             (1)  Questions arising at a meeting are to be decided by a majority of votes of the members present and voting.
 
              (2)  The member presiding has a deliberative vote, and, if necessary, also has a casting vote.
 
@@ -475,15 +435,15 @@ as in force or existing from time to time.
 
 ##### <a id="27"></a>27  Resolutions without meetings
 
-             (1)  If a majority of the voting members sign a document containing a statement that they are in favour of a resolution in terms set out in the document, a resolution in those terms is taken to have been passed at a duly constituted meeting held:
+             (1)  If a majority of the members sign a document containing a statement that they are in favour of a resolution in terms set out in the document, a resolution in those terms is taken to have been passed at a duly constituted meeting held:
 
                      (a)  on the day the document was signed; or
 
                      (b)  if the members sign the document on different days—on the last of those days.
 
-             (2)  For the purposes of subsection (1), 2 or more separate documents containing statements in identical terms each of which is signed by one or more voting members are together taken to be one document containing a statement in those terms signed by those members on the respective days on which they signed the separate documents.
+             (2)  For the purposes of subsection (1), 2 or more separate documents containing statements in identical terms each of which is signed by one or more members are together taken to be one document containing a statement in those terms signed by those members on the respective days on which they signed the separate documents.
 
-             (3)  If the resolution is about a matter in which a voting member would, for the purposes of section 29, be taken to have an interest, the member:
+             (3)  If the resolution is about a matter in which a member would, for the purposes of section 29, be taken to have an interest, the member:
 
                      (a)  must not sign a document containing a statement in favour of the resolution; and
 
@@ -499,57 +459,19 @@ as in force or existing from time to time.
 
              (1)  A member who has a direct or indirect pecuniary interest in a matter being considered or about to be considered at a meeting must, as soon as possible after the relevant facts have come to the member’s knowledge, disclose the nature of the interest at a meeting.
 
-             (2)  The disclosure is to be recorded in the minutes of the meeting.
+             (2)  The disclosure is to be recorded in the minutes of the meeting and, if the Advisory Council so determines, the member must not:
 
-          (2A)  If:
+                     (a)  be present during any deliberation of the Advisory Council with respect to the matter; or
 
-                     (a)  the member is not the Chair; and
+                     (b)  take part in any decision of the Advisory Council with respect to the matter.
 
-                     (b)  the Chair is present at the meeting; and
-
-                     (c)  the Chair so determines;
-
-the member must not:
-
-                     (d)  be present during any deliberation of the Advisory Council with respect to the matter; or
-
-                     (e)  take part in any decision of the Advisory Council with respect to the matter.
-
-          (2B)  If:
-
-                     (a)  the member is not the Chair; and
-
-                     (b)  the Chair is not present at the meeting; and
-
-                     (c)  the Advisory Council so determines;
-
-the member must not:
-
-                     (d)  be present during any deliberation of the Advisory Council with respect to the matter; or
-
-                     (e)  take part in any decision of the Advisory Council with respect to the matter.
-
-          (2C)  If:
-
-                     (a)  the member is the Chair; and
-
-                     (b)  the Advisory Council so determines;
-
-the member must not:
-
-                     (c)  be present during any deliberation of the Advisory Council with respect to the matter; or
-
-                     (d)  take part in any decision of the Advisory Council with respect to the matter.
-
-             (3)  For the purposes of the Advisory Council making a determination under subsection (2B) or (2C), any member who has a direct or indirect pecuniary interest in the matter to which the disclosure relates must not:
+             (3)  For the purposes of the Advisory Council making such a determination, any member who has a direct or indirect pecuniary interest in the matter to which the disclosure relates must not:
 
                      (a)  be present during any deliberation of the Advisory Council for the purposes of making the determination; or
 
                      (b)  take part in the making of the determination.
 
-          (3A)  The Minister may direct the Chair not to make, or to rescind, a determination under subsection (2A).
-
-             (4)  The Minister may direct the Advisory Council not to make, or to rescind, a determination under subsection (2B) or (2C).
+             (4)  The Minister may direct the Advisory Council not to make, or to rescind, a determination under subsection (2).
 
 ##### <a id="30"></a>30  Persons may be invited to attend meetings
 
@@ -630,6 +552,8 @@ to be undertaken within 4 years after the commencement of this Act and thereafte
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+ 
 
 # Notes to the _Product Stewardship (Oil) Act 2000_
 
@@ -716,7 +640,7 @@ Remainder: 1 Dec 2003 ( <i>see</i> <i>Gazette</i>2003, No. GN47)</div>
     <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 24 Mar 2008 
+    <div>Schedule 1: \[ <i>see</i>Note 2] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -749,39 +673,7 @@ Remainder: Royal Assent</div>
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 155, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 79, 2003; No. 155, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8, 9</div>
   </td>
   <td>
     <div>am. No. 79, 2003</div>
@@ -789,91 +681,235 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 10</div>
+    <div>Ss. 8–10</div>
   </td>
   <td>
-    <div>am. No. 79, 2003; No. 155, 2007</div>
+    <div>am. No. 79, 2003</div>
   </td>
 </tr>
 <tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
   <td>
     <div></div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 155, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13–15</div>
-  </td>
-  <td>
-    <div>am. No. 155, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 155, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 22–25</div>
-  </td>
-  <td>
-    <div>am. No. 155, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 155, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 155, 2007</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Product Stewardship (Oil) Amendment Act 2007 (No. 155, 2007)_
+
+The following amendments commence on 24 March 2008 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Paragraphs 3(a), (b) and (c)
+
+Omit “waste”, substitute “used”.
+
+## 2  Subsection 6(1)
+
+Insert:
+
+                    <a name="used-oil"></a>**_used oil_** means any oil that has been used and that, as a result of such use, is contaminated by physical or chemical impurities.
+
+## 3  Subsection 6(1)
+
+Insert:
+
+                    <a name="vote-member"></a>**_voting member_** means a member who is appointed on the basis of their knowledge of, or experience in, one or more of the areas referred to in subsection 14(2).
+
+## 4  Subsection 6(1) (definition of _waste oil_)
+
+Repeal the definition.
+
+## 5  At the end of section 10
+
+Add:
+
+             (5)  Despite section 14 of the _Legislative Instruments Act 2003_, regulations made for the purposes of subsection (1) may apply, adopt or incorporate any matter contained in a written instrument specifying:
+
+                     (a)  oil testing methods; or
+
+                     (b)  standards for the accreditation of laboratories undertaking oil testing;
+
+as in force or existing from time to time.
+
+## 6  Paragraph 12(b)
+
+Omit “waste”, substitute “used”.
+
+## 7  Subsection 13(3)
+
+Repeal the subsection, substitute:
+
+             (3)  The performance of a function of the Advisory Council is not affected by the fact that the Advisory Council’s membership does not include any members who are appointed:
+
+                     (a)  on the basis of their knowledge of, or experience in, a particular area referred to in subsection 14(2); or
+
+                     (b)  to represent the Commissioner or the Commonwealth in accordance with subsection 14(2B).
+
+## 8  Subsection 14(2)
+
+Repeal the subsection, substitute:
+
+             (2)  The Minister must not appoint a person as a member of the Advisory Council (other than as a member mentioned in subsection (2B)) unless the Minister is satisfied that the person has knowledge of, or experience in, one or more of the following areas:
+
+                     (a)  broad waste management issues from a business perspective;
+
+                     (b)  research and development relevant to the product stewardship arrangements for oil;
+
+                     (c)  State or Territory government;
+
+                     (d)  local government;
+
+                     (e)  the non-government sector;
+
+                      (f)  national consumer issues;
+
+                     (g)  remote, including remote Indigenous, issues;
+
+                     (h)  oil production;
+
+                      (i)  used oil recycling;
+
+                      (j)  used oil collection.
+
+          (2A)  In appointing members of the Advisory Council, the Minister must endeavour to constitute the Advisory Council so that it, as a whole, has knowledge and experience in as many areas mentioned in subsection (2) as is practicable.
+
+          (2B)  The Minister must ensure that the membership of the Advisory Council includes:
+
+                     (a)  a person representing the Commissioner; and
+
+                     (b)  a person representing the Commonwealth.
+
+          (2C)  If a person mentioned in subsection (2B) is unable to attend a meeting, the person may authorise a substitute to attend the meeting. The substitute must be an APS employee.
+
+## 9  Subsection 15(1)
+
+Omit “subsection (2)”, substitute “subsections (1A) and (2)”.
+
+## 10  After subsection 15(1)
+
+Insert:
+
+          (1A)  The Minister must not appoint as the Chair a member who has a direct or indirect pecuniary interest in the product stewardship arrangements for oil if, in the Minister’s opinion, that interest could conflict, to a significant extent, with the proper performance of the duties of the Chair.
+
+          (1B)  The Chair must notify the Minister of any direct or indirect pecuniary interest that he or she acquires in the product stewardship arrangements for oil.
+
+          (1C)  The notice must be in writing given to the Minister as soon as practicable after the Chair acquires the interest.
+
+## 11  After paragraph 15(4)(a)
+
+Insert:
+
+                    (aa)  has his or her appointment as Chair terminated by the Minister under subsection (6); or
+
+## 12  At the end of section 15
+
+Add:
+
+             (6)  The Minister may terminate the Chair’s appointment if:
+
+                     (a)  the Minister becomes aware, whether because of a notification under subsection (1B) or otherwise, that the Chair has a direct or indirect pecuniary interest in the product stewardship arrangements for oil; and
+
+                     (b)  in the Minister’s opinion, the interest conflicts, or could conflict, to a significant extent, with the proper performance of the duties of the Chair.
+
+## 13  Paragraph 21(2)(d)
+
+Repeal the paragraph, substitute:
+
+                     (d)  if the member was appointed to represent the Commissioner or the Commonwealth in accordance with subsection 14(2B)—ceases, because of a change in employment, residence or other circumstances, to be, in the Minister’s opinion, an appropriate representative of the Commissioner or the Commonwealth, as the case may be.
+
+## 14  Paragraph 22(3)(b)
+
+After “other”, insert “voting”.
+
+## 15  Subsection 23(2)
+
+Before “members present”, insert “voting”.
+
+## 16  Section 24
+
+Omit all the words after “majority of”, substitute “voting members, or 6 voting members, whichever is the greater, form a quorum”.
+
+## 17  Subsection 25(1)
+
+After “of the”, insert “voting”.
+
+## 18  Subsection 27(1)
+
+After “majority of the”, insert “voting”.
+
+## 19  Subsection 27(2)
+
+After “one or more”, insert “voting”.
+
+## 20  Subsection 27(3)
+
+After “in which a”, insert “voting”.
+
+## 21  Subsection 29(2)
+
+Repeal the subsection, substitute:
+
+             (2)  The disclosure is to be recorded in the minutes of the meeting.
+
+          (2A)  If:
+
+                     (a)  the member is not the Chair; and
+
+                     (b)  the Chair is present at the meeting; and
+
+                     (c)  the Chair so determines;
+
+the member must not:
+
+                     (d)  be present during any deliberation of the Advisory Council with respect to the matter; or
+
+                     (e)  take part in any decision of the Advisory Council with respect to the matter.
+
+          (2B)  If:
+
+                     (a)  the member is not the Chair; and
+
+                     (b)  the Chair is not present at the meeting; and
+
+                     (c)  the Advisory Council so determines;
+
+the member must not:
+
+                     (d)  be present during any deliberation of the Advisory Council with respect to the matter; or
+
+                     (e)  take part in any decision of the Advisory Council with respect to the matter.
+
+          (2C)  If:
+
+                     (a)  the member is the Chair; and
+
+                     (b)  the Advisory Council so determines;
+
+the member must not:
+
+                     (c)  be present during any deliberation of the Advisory Council with respect to the matter; or
+
+                     (d)  take part in any decision of the Advisory Council with respect to the matter.
+
+## 22  Subsection 29(3)
+
+Omit “such a determination”, substitute “a determination under subsection (2B) or (2C)”.
+
+## 23  After subsection 29(3)
+
+Insert:
+
+          (3A)  The Minister may direct the Chair not to make, or to rescind, a determination under subsection (2A).
+
+## 24  Subsection 29(4)
+
+Omit “subsection (2)”, substitute “subsection (2B) or (2C)”.
+
+As at 2 October 2007 the amendments are not incorporated in this compilation.
 
  
