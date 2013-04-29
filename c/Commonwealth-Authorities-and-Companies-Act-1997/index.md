@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00056/Html/7708eeaf-1aed-43bb-be1d-8515bf74b438_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00707/Html/48d03f4f-ee11-4f3e-8053-862dbe262f9a_files/image001.gif)
 
 # Commonwealth Authorities and Companies Act 1997
 
 **Act No. 153 of 1997 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 1 September 2011
  taking into account amendments up to Act No. 89 of 2011
 
 The text of any of those amendments not in force
@@ -329,6 +329,8 @@ The Annual Appropriation Acts appropriate money out of the Consolidated Revenue 
                     <a name="agenc"></a>**_Agency_** has the same meaning as in the _Public Service Act 1999_.
 
                     <a name="agenc-head"></a>**_Agency Head_** has the same meaning as in the _Public Service Act 1999_.
+
+                    <a name="ap-employe"></a>**_APS employee_** has the same meaning as in the _Public Service Act 1999_.
 
                     <a name="bank"></a>**_bank_** means:
 
@@ -1376,7 +1378,11 @@ Note:          This is a civil penalty provision (see Schedule
 
 ##### <a id="33"></a>33  Special rules for Commonwealth authorities established by regulations etc.
 
-                   The application of this Act to Commonwealth authorities covered by paragraph 7(1)(b) is subject to any modifications that are prescribed by the regulations.
+             (1)  The application of this Act to Commonwealth authorities covered by paragraph 7(1)(b) is subject to any modifications that are prescribed by the regulations.
+
+             (2)  In this section:
+
+                    <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
 
 ## Part 3A—Interjurisdictional authorities
 
@@ -1642,7 +1648,9 @@ Note:          This is a civil penalty provision (see Schedule
 
              (2)  In this section:
 
-                    <a name="intellig-secur-agenc"></a>**_intelligence or security agency_** has the meaning given by section 85ZL of the _Crimes Act 1914_.
+                    <a name="intellig-secur-agenc"></a>**_intelligence or security agency_** has the meaning given by section 85ZL of the _Crimes Act 1914;_
+
+                    <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
 
 ##### <a id="47"></a>47  Regulations may deal with how this Act applies if body stops being a Commonwealth authority
 
@@ -2299,7 +2307,7 @@ of Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49)</div>
+    <div>1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49)</div>
   </td>
   <td>
     <div></div>
@@ -2333,7 +2341,7 @@ of Assent</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 5 (items 2–12): 13 Mar 2000 ( <i>see Gazette</i>2000, No. S114) <i>(b)</i></div>
+    <div>Schedule 5 (items 2–12): 13 Mar 2000 ( <i>see Gazette</i>2000, No. S114) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2435,7 +2443,7 @@ of Assent</div>
     <div>14 Nov 2002</div>
   </td>
   <td>
-    <div>Schedule 3 (item 33): 12 May 2003 ( <i>see</i>s. 2 and <i>Gazette</i>2002, No. GN49)</div>
+    <div>Schedule 3 (item 33): 12 May 2003 ( <i>see</i>s. 2 and <i>Gazette</i>2002, No. GN49)</div>
   </td>
   <td>
     <div>—</div>
@@ -2559,7 +2567,7 @@ Schedule 1 (items 51, 52): <i>(f)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 376–380) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 376–380) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (item 380) and Sch. 3 (items 10, 11)</div>
@@ -2868,7 +2876,7 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 156, 1999; No. 55, 2001; No. 20, 2008; No. 148, 2010; No. 46, 2011</div>
+    <div>am. No. 156, 1999; No. 55, 2001; No. 20, 2008; No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3196,7 +3204,7 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
     <div>S. 27A</div>
   </td>
   <td>
-    <div>ad. No. 156, 1999 (as am. by No. 146, 1999 \[as am. by No. 63, 2002])</div>
+    <div>ad. No. 156, 1999 (as am. by No.146, 1999 (as am. by No. 63, 2002))</div>
   </td>
 </tr>
 <tr>
@@ -3433,14 +3441,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 3A</b></div>
   </td>
   <td>
@@ -3613,14 +3613,6 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>rep. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3952,6 +3944,32 @@ Omit “at common law and in equity”, substitute “under the general law”.
 
 The proposed amendments were misdescribed and are not incorporated in this compilation.
 
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 376  Section 5 (definition of _APS employee_)
+
+Repeal the definition.
+
+## 377  Subsection 33(1)
+
+Omit “(1)”.
+
+## 378  Subsection 33(2)
+
+Repeal the subsection.
+
+## 379  Subsection 46(2) (definition of _modifications_)
+
+Repeal the definition.
+
+As at 1 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3980,8 +3998,8 @@ continues to have effect after the commencing time as if it had been done by the
 
 * * *
 
-_Commonwealth Authorities and Companies Amendment Act 2008
-  (No. 20, 2008)_
+_Commonwealth Authorities and Companies Amendment Act 2008 
+ (No. 20, 2008)_
 
 ## Schedule 1
 
@@ -4055,6 +4073,8 @@ Section 48A of the _Commonwealth Authorities and Companies Act 1997_ applies t
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
+
 ## Schedule 2
 
 ## 380  Saving of regulations
@@ -4075,7 +4095,8 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 
 * * *
 
-_Financial Framework Legislation Amendment Act (No. 1) 2011 (No. 89, 2011)_
+_Financial Framework Legislation Amendment Act (No. 1) 2011
+ (No. 89, 2011)_
 
 ## Schedule 1
 
