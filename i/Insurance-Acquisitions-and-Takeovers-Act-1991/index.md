@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00710/Html/AcqisTakeovers1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00566/Html/AcqisTakeovers1991_WD02_image001.gif)
 
 # Insurance Acquisitions and Takeovers Act 1991
 
 **Act No. 6 of 1992 as amended**
 
-This compilation was prepared on 23 December 2008
- taking into account amendments up to Act No. 144 of 2008
+This compilation was prepared on 27 September 2007
+ taking into account amendments up to Act No. 154 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -182,6 +182,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+ 
+
 ## An Act relating to the control of Australian-registered insurance companies, and for other purposes
 
 ## Part 1—Preliminary
@@ -238,7 +240,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Interpretation
 
-             (1)  In this Act, unless the contrary intention appears:
+                   In this Act, unless the contrary intention appears:
 
                     <a name="accounting-period"></a>**_accounting period_** means:
 
@@ -304,8 +306,6 @@ but does not include:
 
                      (b)  in any other case—the value of the asset as at that time.
 
-                    <a name="child"></a><a name="child"></a>**_child_**: without limiting who is a child of a person for the purposes of this Act, someone is the **_child_** of a person if he or she is a child of the person within the meaning of the _Family Law Act 1975_.
-
                     <a name="compani"></a>**_company_** means a body corporate.
 
                     <a name="constitu-docum"></a>**_constituent document_**, in relation to a company, means:
@@ -360,8 +360,6 @@ but does not include:
 
                     <a name="outstanding-claim-provision"></a>**_outstanding claims provision_**, in relation to a company, means so much of the total provision for liabilities made in its accounts as consists of provision for claims, reduced by any allowance made in its accounts for reinsurance recoverables in respect of the claims.
 
-                    <a name="child"></a><a name="parent"></a><a name="parent"></a>**_parent_**: without limiting who is a parent of a person for the purposes of this Act, someone is the **_parent_** of a person if the person is his or her child because of the definition of **_child_** in this section.
-
                     <a name="prudenti-conduct"></a>**_prudential conduct_**, in relation to a company, means the conduct by the company of its affairs (whether or not relating to the insurance business or life insurance business of the company):
 
                      (a)  in such a way as:
@@ -376,15 +374,13 @@ but does not include:
 
                      (a)  the person’s spouse; or
 
-                     (b)  the person’s de facto partner within the meaning of the _Acts Interpretation Act 1901_; or
+                     (b)  another person who, although not legally married to the person, lives with the person on a _bona fide_ domestic basis as the husband or wife of the person; or
 
                      (c)  a parent or remoter lineal ancestor of the person; or
 
-                     (d)  a child or remoter issue of the person; or
+                     (d)  a son, daughter or remoter issue of the person; or
 
                      (e)  a brother or sister of the person.
-
-Note:          See also subsection (2).
 
                     <a name="review-decision"></a>**_reviewable decision_** means a decision of the Minister under Part 3 or 4 or paragraph 66(1)(b).
 
@@ -413,8 +409,6 @@ Note:          See also subsection (2).
 would have been shown in those statements as the value of the asset at that time.
 
                     <a name="vote-power"></a>**_voting power_** has the meaning given by section 13.
-
-             (2)  For the purposes of paragraphs (c), (d) and (e) of the definition of **_relative_** in subsection (1), if one person is the child of another person because of the definition of **_child_** in that subsection, relationships traced to or through the person are to be determined on the basis that the person is the child of the other person.
 
 ##### <a id="5"></a>5  What is contrary to the public interest
 
@@ -540,7 +534,7 @@ then, the second person is taken to be an associate of the first person for the 
 
                      (c)  the fact that the exercise of a right conferred by the interest is, or is capable of being made, subject to restraint or restriction.
 
-##### <a id="11"></a>11  Meaning of _interest in a share_ 
+##### <a id="11"></a>11  Meaning of _interest in a share_ 
 
              (1)  Subject to this section, a person holds an interest in a share if the person has any legal or equitable interest in the share.
 
@@ -570,7 +564,7 @@ then, the second person is taken to be an associate of the first person for the 
 
 ##### <a id="12"></a>12  Certain interests in shares to be disregarded
 
-                   For the purposes of this Act, the following interests must be disregarded:
+                   For the purposes of this Act, the following interests must be disregarded:
 
                      (a)  an interest in a share of a person whose ordinary business includes the lending of money if the person holds the interest solely by way of security for the purposes of a moneylending agreement;
 
@@ -632,7 +626,7 @@ this section has effect as if the members or policy holders of the company were 
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage calculated using the formula: 
 
-First level percentage ![](http://www.comlaw.gov.au/Details/C2008C00710/Html/AcqisTakeovers1991_WD02_image002.gif) Second level percentage
+First level percentage ![](http://www.comlaw.gov.au/Details/C2007C00566/Html/AcqisTakeovers1991_WD02_image002.gif) Second level percentage
 
 where:
 
@@ -1230,7 +1224,7 @@ request the Minister to reconsider the decision.
 
                    Proceedings for an offence against, or arising out of, this Act must not be instituted without the written consent of the Minister.
 
-##### <a id="73"></a>73  Minister may obtain information and documents
+##### <a id="73"></a>73  Minister may obtain information and documents
 
              (1)  If the Minister has reason to believe that a person is capable of giving information or producing documents about matters that are relevant to the exercise by the Minister of his or her powers under this Act, the Minister may, by notice in writing served on that person, require that person:
 
@@ -1390,7 +1384,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (b)  an alteration of a constituent document of an Australian-registered insurance company that occurred before the commencement of this Act.
 
-##### <a id="82"></a>82  Regulations
+##### <a id="82"></a>82  Regulations
 
              (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
@@ -1669,23 +1663,6 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 14 (items 112–119): 10 Dec 2008</div>
-  </td>
-  <td>
-    <div>Sch. 14 (item 119)</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedule 6 only of the _Financial Laws Amendment Act 1997_, subsection 2(1) of which provides as follows:
@@ -1841,7 +1818,7 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 5, 1995; No. 54, 1998; Nos. 119 and 121, 2001; No. 37, 2002; No. 144, 2008</div>
+    <div>am. No. 5, 1995; No. 54, 1998; Nos. 119 and 121, 2001; No. 37, 2002</div>
   </td>
 </tr>
 <tr>
@@ -2727,21 +2704,5 @@ An approval in force, immediately before the commencement of the amendments, und
 (1)        Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
 
 (2)        For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
-
-* * *
-
-_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
-
-## Schedule 14
-
-## 119  Transitional provision
-
-If:
-
-                     (a)  apart from this item, a person would be an associate of another person for the purposes of a provision of the _Insurance Acquisitions and Takeovers Act 1991_ on the day on which the amendments made by this Part commence; and
-
-                     (b)  the persons would be associates only because of those amendments;
-
-then, during the period of 6 months starting on that day, the provision does not apply to them as associates of each other for so long as the persons would otherwise have been associates of each other.
 
  
