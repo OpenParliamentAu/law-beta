@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00253/Html/82b354a1-139d-4f3e-b26d-c10c082b9df4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00677/Html/962cdc46-1457-4b2b-be8e-4d225ac63b84_files/image001.gif)
 
 # Protection of the Sea (Civil Liability for Bunker Oil Pollution Damage) Act 2008
 
 **Act No. 76 of 2008 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 25 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -248,6 +248,8 @@ Note:          In 2008, the text of the Convention was accessi
                      (b)  a surveyor appointed under section 190 of the _Navigation Act 1912_; or
 
                      (c)  a person included in a class of persons prescribed by the regulations for the purposes of this paragraph.
+
+                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
                     <a name="govern-ship"></a>**_government ship_** means a ship (including a warship) that is owned or operated by:
 
@@ -888,7 +890,7 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="15%">
   <col width="19%">
   <col width="21%">
-  <col width="15%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -975,7 +977,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 939) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 939) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1018,7 +1020,7 @@ Remainder: Royal Assent</div>
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 8 and 116, 2010; No. 46, 2011</div>
+    <div>am. Nos. 8 and 116, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1038,6 +1040,20 @@ Remainder: Royal Assent</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 939  Section 3 (definition of _exclusive economic zone_)
+
+Repeal the definition.
+
+As at 25 August 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1053,6 +1069,8 @@ The amendment made by item 3 applies in relation to anything done, or omitted 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
