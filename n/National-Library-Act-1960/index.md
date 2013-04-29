@@ -1,1410 +1,1980 @@
-![](http://www.comlaw.gov.au/Details/C2011C00245/Html/e40232e9-2715-474a-81e8-b49e8ae3ea7c_files/image001.gif)
+**
 
-# National Library Act 1960
+###  NATIONAL LIBRARY ACT 1960 
+**
 
-**Act No. 69 of 1960 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
 
-# Contents
 
-**Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[4](#4).            Interpretation                                                                                        1
 
-**Part II—Establishment of the National Library of Australia**
+**
 
-[5](#5).            Establishment of National Library                                                        2
+###  Long Title 
+**
+**
 
-[6](#6).            Functions of Library                                                                            2
+###  NATIONAL LIBRARY ACT 1960<part>Part I&#151;Preliminary </part>
+**
+###  NATIONAL LIBRARY ACT 1960- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _National Library Act 1960_.
 
-[7](#7).            Powers of the Library                                                                          3
+ 
+###  NATIONAL LIBRARY ACT 1960- SECT 2  Commencement [_see_ Note 1] 
+This Act shall come into operation on a date to be fixed by Proclamation.
 
-[7A](#7A).         Power to purchase and dispose of assets                                             3
+ 
+###  NATIONAL LIBRARY ACT 1960- SECT 4  Interpretation 
+In this Act, unless the contrary intention appears:
 
-[8](#8).            Transfer of library material etc  to Library                                            4
+ 
+<dl compact=""><dl compact="">
 
-[9](#9).            Land and buildings                                                                               4
+_library material_ includes books, periodicals, newspapers,
 
-**Part III—Management of the Library**
+manuscripts, films, sound recordings, musical scores, maps, plans, pictures,
 
-[10](#10).          Constitution of Council                                                                        5
+photographs, prints and other recorded material, whether in writing or in some
 
-[11](#11).          Acting members                                                                                   5
+other form. _member_ means a member of the Council. _the Council_ means the Council of the National Library of Australia established by this Act. _the Director-General_ means the Director-General of the Library. _the Library_ means the National Library of Australia established by this Act.  </dl></dl>
 
-[12](#12).          Chair and Deputy Chair                                                                       7
+<center>**
 
-[13](#13).          Remuneration and allowances                                                              7
+###  NATIONAL LIBRARY ACT 1960<part>Part II&#151;Establishment of the National Library of Australia </part>
+**</center>
 
-[14](#14).          Termination of office                                                                            7
+**
 
-[15](#15).          Vacation of office                                                                                 7
+###  NATIONAL LIBRARY ACT 1960- SECT 5  Establishment of National Library 
+**
 
-[15A](#15A).       Resignation                                                                                          8
+ <dl compact="">
 
-[16](#16).          Meetings of Council                                                                             8
+<dt>(1)</dt><dd>A body corporate is hereby established under the name "National Library of
 
-[17](#17).          Director‑General                                                                                  9
+Australia".
 
-[17A](#17A).       Terms and conditions of appointment                                                10
+</dd> </dl>
 
-[17B](#17B).       Leave of absence                                                                                10
+<dl compact=""><dl compact="">
 
-[17C](#17C).       Dismissal                                                                                           10
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-[17D](#17D).       Resignation                                                                                        10
+applies to the Library. That Act deals with matters relating to Commonwealth
 
-[17E](#17E).        Vacation of office                                                                               10
+authorities, including reporting and accountability, banking and investment,
 
-[17H](#17H).       Application of Superannuation Act                                                    11
+and conduct of officers.
 
-[17J](#17J).        Acting Director‑General                                                                     11
+ </dl></dl>
 
-[18](#18).          Officers                                                                                              12
+<dl compact="">
 
-**Part IV—Finance**
+<dt>(2)</dt><dd>The Library:
 
-[20](#20).          Moneys payable to Library                                                                13
+</dd> </dl>
 
-[22](#22).          Application of moneys of Library                                                      13
+<dl compact=""><dl compact=""><dl compact="">
 
-[26](#26).          Exemption from taxation                                                                    13
+<dt>(a)</dt><dd>shall have a seal;</dd>
 
-**Part V—Miscellaneous**
+<dt>(b)</dt><dd>has power to acquire, hold and dispose of real and personal property;
 
-[27A](#27A).       Supply of liquor on premises of Library                                            14
+and</dd>
 
-[27B](#27B).       Control of Library land and buildings                                                14
+<dt>(c)</dt><dd>may sue and be sued in its corporate name.
 
-[28](#28).          Regulations                                                                                        14
+</dd>
 
-**Notes** 
+</dl></dl></dl>
 
-## An Act relating to the National Library of Australia
+<center>Back to Top</center>
 
-## Part I—Preliminary
+<dl compact="">
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+<dt>(3)</dt><dd>All courts, judges and persons acting judicially shall take judicial
 
-                   This Act may be cited as the _National Library Act 1960_.
+notice of the seal of the Library affixed to a document and shall presume that
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+it was duly affixed.
 
-                   This Act shall come into operation on a date to be fixed by Proclamation.
+</dd> </dl>
 
-##### <a id="4"></a>4  Interpretation
+**
 
-                   In this Act, unless the contrary intention appears:
+###  NATIONAL LIBRARY ACT 1960- SECT 6  Functions of Library 
+**
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
+ <dl compact="">
 
-                    <a name="librari-materi"></a>**_library material_** includes books, periodicals, newspapers, manuscripts, films, sound recordings, musical scores, maps, plans, pictures, photographs, prints and other recorded material, whether in writing or in some other form.
+		The functions of the Library are, on behalf of the Commonwealth:
 
-                    <a name="member"></a>**_member_** means a member of the Council.
+ </dl>
 
-                    <a name="council"></a>**_the Council_** means the Council of the National Library of Australia established by this Act.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="director-gener"></a>**_the Director‑General_** means the Director‑General of the Library.
+<dt>(a)</dt><dd>to maintain and develop a national collection of library material,
 
-                    <a name="librari"></a>**_the Library_** means the National Library of Australia established by this Act.
+including a comprehensive collection of library material relating to Australia
 
-## Part II—Establishment of the National Library of Australia
+and the Australian people;</dd>
 
-##### <a id="5"></a>5  Establishment of National Library
+<dt>(b)</dt><dd>to make library material in the national collection available to such
 
-             (1)  A body corporate is hereby established under the name “National Library of Australia”.
+persons and institutions, and in such manner and subject to such conditions, as
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Library. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+the Council determines with a view to the most advantageous use of that
 
-             (2)   The Library:
+collection in the national interest;</dd>
 
-                     (a)  shall have a seal;
+<dt>(c)</dt><dd>to make available such other services in relation to library matters and
 
-                     (b)  has power to acquire, hold and dispose of real and personal property; and
+library material (including bibliographical services) as the Council thinks
 
-                     (c)   may sue and be sued in its corporate name.
+fit, and, in particular, services for the purposes of:
 
-             (3)  All courts, judges and persons acting judicially shall take judicial notice of the seal of the Library affixed to a document and shall presume that it was duly affixed.
+</dd>
 
-##### <a id="6"></a>6  Functions of Library
+</dl></dl></dl>
 
-                   The functions of the Library are, on behalf of the Commonwealth:
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  to maintain and develop a national collection of library material, including a comprehensive collection of library material relating to Australia and the Australian people;
+<dt>(i)</dt><dd>the library of the Parliament;</dd>
 
-                     (b)  to make library material in the national collection available to such persons and institutions, and in such manner and subject to such conditions, as the Council determines with a view to the most advantageous use of that collection in the national interest;
+<dt>(ii)</dt><dd>the authorities of the Commonwealth; and</dd>
 
-                     (c)  to make available such other services in relation to library matters and library material (including bibliographical services) as the Council thinks fit, and, in particular, services for the purposes of:
+<dt>(iii)</dt><dd>the Territories; and</dd>
 
-                              (i)  the library of the Parliament;
+<dt>(iv)</dt><dd>the Agencies (within the meaning of the _Public Service Act 1999_);
 
-                             (ii)  the authorities of the Commonwealth; and
+and
 
-                            (iii)  the Territories; and
+</dd>
 
-                            (iv)  the Agencies (within the meaning of the _Public Service Act 1999_); and
+</dl></dl></dl></dl>
 
-                     (d)  to co‑operate in library matters (including the advancement of library science) with authorities or persons, whether in Australia or elsewhere, concerned with library matters.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="7"></a>7  Powers of the Library
+<dt>(d)</dt><dd>to co-operate in library matters (including the advancement of library
 
-             (1)  The Library has power to do all things necessary or convenient to be done for or in connexion with the performance of its functions.
+science) with authorities or persons, whether in Australia or elsewhere,
 
-             (2)  Without limiting the generality of subsection (1), the powers of the Library referred to in that subsection include power:
+concerned with library matters.
 
-                     (a)  to purchase or take on hire, or to accept on deposit or loan, library material, and also furnishings, equipment and goods needed for the purposes of the Library;
+</dd>
 
-                     (b)  to dispose of, lend or hire out library material or other goods the property of the Library;
+</dl></dl></dl>
 
-                     (c)  to purchase or take on lease land or buildings, and to erect buildings, necessary for the purposes of the Library;
+**
 
-                     (d)  to dispose of, or grant leases of, land or buildings vested in the Library;
+###  NATIONAL LIBRARY ACT 1960- SECT 7  Powers of the Library 
+**
 
-                     (e)  to occupy, use and control any land or building owned or held under lease by the Commonwealth and made available for the purposes of the Library;
+ <dl compact="">
 
-                      (f)  to accept gifts, devises, bequests and assignments made to the Library (whether on trust or otherwise); and
+<dt>(1)</dt><dd>The Library has power to do all things necessary or convenient to be done
 
-                     (g)  to act as trustee of moneys, library material or other property vested in the Library upon trust, or to act on behalf of the Commonwealth or an authority of the Commonwealth in the administration of a trust relating to library material or library matters.
+for or in connexion with the performance of its functions.</dd> <dt>(2)</dt><dd>Without limiting the generality of subsection (1), the powers of the Library referred to in that subsection include power: </dd> </dl>
 
-             (3)  Notwithstanding anything contained in this Act, any money or property held by the Library upon trust shall be dealt with in accordance with the powers and duties of the Library as trustee.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="7A"></a>7A  Power to purchase and dispose of assets
+<dt>(a)</dt><dd>to purchase or take on hire, or to accept on deposit or loan, library
 
-             (1)  The Library shall not, without the approval of the Minister:
+material, and also furnishings, equipment and goods needed for the purposes of
 
-                     (a)  acquire any property, right or privilege for a consideration exceeding in amount or value $250,000 or, if a higher amount is prescribed, that higher amount;
+the Library;</dd>
 
-                     (b)  dispose of any property, right or privilege where the amount or value of the consideration for the disposal, or the value of the property, right or privilege, exceeds $250,000 or, if a higher amount is prescribed, that higher amount;
+<dt>(b)</dt><dd>to dispose of, lend or hire out library material or other goods the
 
-                     (c)  enter into a contract for the construction of a building for the Library, being a contract under which the Library is to pay an amount exceeding $250,000 or, if a higher amount is prescribed, that higher amount; or
+property of the Library;</dd>
 
-                     (d)  enter into a lease of land for a period exceeding 10 years.
+<dt>(c)</dt><dd>to purchase or take on lease land or buildings, and to erect buildings,
 
-##### <a id="8"></a>8  Transfer of library material etc. to Library
+necessary for the purposes of the Library;</dd>
 
-                   The Minister may, at the request of the Council, make arrangements with the appropriate authority for the transfer to the Library of the ownership, use or custody of any library material, or of any equipment or goods, belonging to the Commonwealth.
+<dt>(d)</dt><dd>to dispose of, or grant leases of, land or buildings vested in the
 
-##### <a id="9"></a>9  Land and buildings
+Library;</dd>
 
-                   The Governor‑General may make available, for the purposes of the Library, any land or buildings owned or held under lease by the Commonwealth.
+<dt>(e)</dt><dd>to occupy, use and control any land or building owned or held under lease
 
-## Part III—Management of the Library
+by the Commonwealth and made available for the purposes of the Library;</dd>
 
-##### <a id="10"></a>10  Constitution of Council
+<dt>(f)</dt><dd>to accept gifts, devises, bequests and assignments made to the Library
 
-             (1)  The affairs of the Library shall be conducted by a Council to be known as the Council of the National Library of Australia.
+(whether on trust or otherwise); and</dd>
 
-             (2)  The Council shall consist of:
+<dt>(g)</dt><dd>to act as trustee of moneys, library material or other property vested in
 
-                    (aa)  the Director‑General;
+the Library upon trust, or to act on behalf of the Commonwealth or an authority
 
-                     (a)  one Senator elected by the Senate;
+of the Commonwealth in the administration of a trust relating to library
 
-                     (b)  one member of the House of Representatives elected by that House; and
+material or library matters.
 
-                     (c)  9 members appointed by the Governor‑General, being persons who, in the opinion of the Governor‑General, by their knowledge and experience can advance the full development of the Library.
+</dd>
 
-             (3)  A member of the Council elected by either House of the Parliament holds office, subject to this Act, for such period, not exceeding 3 years, as is fixed by that House at the time of his or her election.
+</dl></dl></dl>
 
-             (4)  A member of the Council appointed by the Governor‑General holds office, subject to this Act, for such period, not exceeding 3 years, as is fixed by the Governor‑General at the time of his or her appointment.
+<dl compact="">
 
-             (5)  A member of the Council elected by either House of the Parliament or appointed by the Governor‑General is eligible for re‑election or re‑appointment.
+<dt>(3)</dt><dd>Notwithstanding anything contained in this Act, any money or property held
 
-             (6)  The exercise or performance of the powers or functions of the Council is not affected by reason only of there being a vacancy or vacancies in the membership of the Council.
+by the Library upon trust shall be dealt with in accordance with the powers and
 
-##### <a id="11"></a>11  Acting members
+duties of the Library as trustee.
 
-             (1)  The Minister may appoint a person to act as a member appointed by the Governor‑General:
+</dd> </dl>
 
-                     (a)  during a vacancy in the office of such a member; or
+**
 
-                     (b)  during any period, or during all periods, when such a member is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office;
+###  NATIONAL LIBRARY ACT 1960- SECT 7A  Power to purchase and dispose of assets 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Library shall not, without the approval of the Minister:
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>acquire any property, right or privilege for a consideration exceeding in
+
+amount or value $250,000 or, if a higher amount is prescribed, that higher
+
+amount;</dd>
+
+<dt>(b)</dt><dd>dispose of any property, right or privilege where the amount or value of
+
+the consideration for the disposal, or the value of the property, right or
+
+privilege, exceeds $250,000 or, if a higher amount is prescribed, that higher
+
+amount;</dd>
+
+<dt>(c)</dt><dd>enter into a contract for the construction of a building for the Library,
+
+being a contract under which the Library is to pay an amount exceeding $250,000
+
+or, if a higher amount is prescribed, that higher amount; or</dd>
+
+<dt>(d)</dt><dd>enter into a lease of land for a period exceeding 10 years.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 8  Transfer of library material etc. to Library 
+**
+
+ <dl compact="">
+
+		The Minister may, at the request of the Council, make arrangements with the
+
+appropriate authority for the transfer to the Library of the ownership, use or
+
+custody of any library material, or of any equipment or goods, belonging to the
+
+Commonwealth.
+
+ </dl>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 9  Land and buildings 
+**
+
+ <dl compact="">
+
+		The Governor-General may make available, for the purposes of the Library, any
+
+land or buildings owned or held under lease by the Commonwealth.
+
+ </dl>
+
+<center>**
+
+###  NATIONAL LIBRARY ACT 1960<part>Part III&#151;Management of the Library </part>
+**</center>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 10  Constitution of Council 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The affairs of the Library shall be conducted by a Council to be known as
+
+the Council of the National Library of Australia.</dd> <dt>(2)</dt><dd>The Council shall consist of: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(aa)</dt><dd>the Director-General;</dd>
+
+<dt>(a)</dt><dd>one Senator elected by the Senate;</dd>
+
+<dt>(b)</dt><dd>one member of the House of Representatives elected by that House; and</dd>
+
+<dt>(c)</dt><dd>9 members appointed by the Governor-General, being persons who, in the
+
+opinion of the Governor-General, by their knowledge and experience can advance
+
+the full development of the Library.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>A member of the Council elected by either House of the Parliament holds
+
+office, subject to this Act, for such period, not exceeding 3 years, as is
+
+fixed by that House at the time of his or her election.</dd> <dt>(4)</dt><dd>A member of the Council appointed by the Governor-General holds office, subject to this Act, for such period, not exceeding 3&#160;years, as is fixed by the Governor-General at the time of his or her appointment.</dd> <dt>(5)</dt><dd>A member of the Council elected by either House of the Parliament or appointed by the Governor-General is eligible for re-election or re-appointment.</dd> <dt>(6)</dt><dd>The exercise or performance of the powers or functions of the Council is not affected by reason only of there being a vacancy or vacancies in the membership of the Council. </dd> </dl>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 11  Acting members 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may appoint a person to act as a member appointed by the
+
+Governor-General:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>during a vacancy in the office of such a member; or</dd>
+
+<dt>(b)</dt><dd>during any period, or during all periods, when such a member is absent
+
+from duty or from Australia or is, for any other reason, unable to perform the
+
+functions of his or her office;
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-             (2)  An appointment under this section may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+<dl compact="">
 
-             (3)  The Minister may:
+<dt>(2)</dt><dd>An appointment under this section may be expressed to have effect only in
 
-                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed under this section; and
+such circumstances as are specified in the instrument of appointment.</dd> <dt>(3)</dt><dd>The Minister may: </dd> </dl>
 
-                     (b)  terminate such an appointment at any time.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  Where a person is acting as a member appointed by the Governor‑General in accordance with paragraph (1)(b) and the office of that member becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the day on which the vacancy occurred expires, whichever first happens.
+<dt>(a)</dt><dd>determine the terms and conditions of appointment, including remuneration
 
-             (5)  A person appointed to act under this section may resign his or her appointment by writing signed by the person and delivered to the Minister.
+and allowances, of a person appointed under this section; and</dd>
 
-             (6)  Where a person is acting as a member appointed by the Governor‑General, that person has and may exercise all the powers, and shall perform all the functions, of that member.
+<dt>(b)</dt><dd>terminate such an appointment at any time.
 
-             (7)  The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, or that there is a defect or irregularity in, or in connection with, the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
+</dd>
 
-##### <a id="12"></a>12  Chair and Deputy Chair
+</dl></dl></dl>
 
-             (1)  The Governor‑General shall appoint one of the members appointed by the Governor‑General to be the Chair of the Council during the pleasure of the Governor‑General.
+<dl compact="">
 
-             (2)  There shall be a Deputy Chair of the Council, who shall be a member elected by the members from time to time.
+<dt>(4)</dt><dd>Where a person is acting as a member appointed by the Governor-General in
 
-##### <a id="13"></a>13  Remuneration and allowances
+accordance with paragraph (1)(b) and the office of that member becomes vacant
 
-             (1)  The members of the Council shall be paid such remuneration as is determined by the Remuneration Tribunal.
+while that person is so acting, then, subject to subsection (2), that person
 
-             (2)  The members of the Council shall be paid such allowances as are prescribed.
+may continue so to act until the Minister otherwise directs, the vacancy is
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973._
+filled or a period of 12 months from the day on which the vacancy occurred
 
-##### <a id="14"></a>14  Termination of office
+expires, whichever first happens.</dd> <dt>(5)</dt><dd>A person appointed to act under this section may resign his or her appointment by writing signed by the person and delivered to the Minister.</dd> <dt>(6)</dt><dd>Where a person is acting as a member appointed by the Governor-General, that person has and may exercise all the powers, and shall perform all the functions, of that member.</dd> <dt>(7)</dt><dd>The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, or that there is a defect or irregularity in, or in connection with, the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased. </dd> </dl>
 
-             (1)  The Governor‑General may terminate the appointment of a member, being a member appointed by the Governor‑General, for inability, inefficiency or misbehaviour.
+**
 
-             (2)  A member elected by either House of the Parliament may be removed from office by that House.
+###  NATIONAL LIBRARY ACT 1960- SECT 12  Chair and Deputy Chair 
+**
 
-##### <a id="15"></a>15  Vacation of office
+ <dl compact="">
 
-             (1)  If a member other than the Director‑General:
+<dt>(1)</dt><dd>The Governor-General shall appoint one of the members appointed by the
 
-                     (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
+Governor-General to be the Chair of the Council during the pleasure of the
 
-                     (c)  in the case of a member elected by either House of the Parliament—ceases to be a member of that House;
+Governor-General.</dd> <dt>(2)</dt><dd>There shall be a Deputy Chair of the Council, who shall be a member elected by the members from time to time. </dd> </dl>
 
-                     (d)  is absent, except on leave granted by the Council, from 3 consecutive meetings of the Council; or
+**
 
-                     (e)  fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
+###  NATIONAL LIBRARY ACT 1960- SECT 13  Remuneration and allowances 
+**
 
-the Governor‑General shall terminate the appointment of the member.
+ <dl compact="">
 
-             (2)  For the purposes of paragraph (1)(c), a member of either House of the Parliament shall be deemed not to have ceased to be a member of that House while he or she continues to be entitled to the Parliamentary allowance that became payable to him or her as such a member.
+<dt>(1)</dt><dd>The members of the Council shall be paid such remuneration as is
 
-##### <a id="15A"></a>15A  Resignation
+determined by the Remuneration Tribunal.</dd> <dt>(2)</dt><dd>The members of the Council shall be paid such allowances as are prescribed.</dd> <dt>(3)</dt><dd>This section has effect subject to the _Remuneration Tribunal Act 1973._ </dd> </dl>
 
-                   A member other than the Director‑General may resign his or her office by signed notice delivered to:
+**
 
-                     (a)  in the case of a member appointed by the Governor‑General—the Governor‑General; or
+###  NATIONAL LIBRARY ACT 1960- SECT 14  Termination of office 
+**
 
-                     (b)  in the case of a member elected by the Senate or the House of Representatives—the President of the Senate or the Speaker of the House of Representatives, as the case may be.
+ <dl compact="">
 
-##### <a id="16"></a>16  Meetings of Council
+<dt>(1)</dt><dd>The Governor-General may terminate the appointment of a member, being a
 
-             (1)  The Chair, or if, for any reason, the Chair is unable to act, the Deputy Chair:
+member appointed by the Governor-General, for inability, inefficiency or
 
-                     (a)  shall convene such meetings of the Council as he or she considers necessary for the efficient conduct of its business; and
+misbehaviour.</dd> <dt>(2)</dt><dd>A member elected by either House of the Parliament may be removed from office by that House. </dd> </dl>
 
-                     (b)  shall, on receipt of a written request signed by not less than 4 members, convene a meeting of the Council.
+**
 
-             (2)  The Minister may at any time convene a meeting of the Council.
+###  NATIONAL LIBRARY ACT 1960- SECT 15  Vacation of office 
+**
 
-             (3)  The Chair shall preside at all meetings of the Council at which he or she is present.
+ <dl compact="">
 
-             (4)  In the event of the absence of the Chair from a meeting of the Council, the Deputy Chair shall preside at that meeting.
+<dt>(1)</dt><dd>If a member other than the Director-General:
 
-             (5)  In the event of the absence of both the Chair and the Deputy Chair from a meeting of the Council, the members present shall appoint one of their number to preside at that meeting.
+</dd> </dl>
 
-             (6)  At a meeting of the Council, 5 members constitute a quorum.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (7)  Subject to subsection (8), all questions arising at a meeting of the Council shall be decided by a majority of the votes of the members present and voting, and for this purpose the member presiding at the meeting has a deliberative vote.
+<dt>(a)</dt><dd>becomes bankrupt, applies to take the benefit of any law for the relief of
 
-             (8)  In the event of an equality of votes on a resolution proposed at a meeting of the Council, the resolution shall be taken not to be passed, but if the same resolution is proposed at the next meeting of the Council held at a later date and there is again an equality of votes, the member presiding at that meeting has a casting vote on the proposed resolution.
+bankrupt or insolvent debtors, compounds with his or her creditors or makes an
 
-##### <a id="17"></a>17  Director‑General
+assignment of his or her remuneration for their benefit;</dd>
 
-             (1)  For the purposes of this Act, there shall be a Director‑General of the National Library.
+<dt>(c)</dt><dd>in the case of a member elected by either House of the Parliament&#151;ceases
 
-             (2)  The Director‑General shall be appointed by the Governor‑General.
+to be a member of that House;</dd>
 
-             (3)  The Director‑General is the executive officer of the Council and has, under the Council, the conduct of the affairs of the Library.
+<dt>(d)</dt><dd>is absent, except on leave granted by the Council, from 3&#160;consecutive
 
-             (4)  For the purposes of the _Public Service Act 1999_:
+meetings of the Council; or</dd>
 
-                     (a)  the Director‑General and the APS employees assisting the Director‑General together constitute a Statutory Agency; and
+<dt>(e)</dt><dd>fails, without reasonable excuse, to comply with his or her obligations
 
-                     (b)  the Director‑General is the Head of that Statutory Agency.
+under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
-             (5)  The Director‑General may, by instrument in writing, and either generally or to the extent provided in the instrument, delegate to a person engaged under the _Public Service Act 1999_ all or any of his or her powers and functions under this Act (not including this power of delegation).
+</dd>
 
-             (6)  The power of the Director‑General to delegate all or any of his or her powers and functions is subject to any directions of the Council.
+</dl></dl></dl>
 
-             (7)  A power or function delegated under this section may be exercised or performed by the delegate as fully and effectually as by the Director‑General.
+<center>Back to Top</center>
 
-             (8)  A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Director‑General.
+the Governor-General shall terminate the appointment of the member.
 
-##### <a id="17A"></a>17A  Terms and conditions of appointment
+<dl compact="">
 
-             (1)  The Director‑General holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment, but is eligible for re‑appointment.
+<dt>(2)</dt><dd>For the purposes of paragraph (1)(c), a member of either House of the
 
-##### <a id="17B"></a>17B  Leave of absence
+Parliament shall be deemed not to have ceased to be a member of that House
 
-             (1)  A full‑time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+while he or she continues to be entitled to the Parliamentary allowance that
 
-             (2)  The Minister, or the Council acting with the Minister’s authority, may grant a full‑time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister or the Council, acting with the Minister’s authority, determines.
+became payable to him or her as such a member.
 
-##### <a id="17C"></a>17C  Dismissal
+</dd> </dl>
 
-                   The Governor‑General may terminate the appointment of the Director‑General for misbehaviour or physical or mental incapacity.
+**
 
-##### <a id="17D"></a>17D  Resignation
+###  NATIONAL LIBRARY ACT 1960- SECT 15A  Resignation 
+**
 
-                   The Director‑General may resign his or her office by writing under his or her hand addressed to the Governor‑General.
+ <dl compact="">
 
-##### <a id="17E"></a>17E  Vacation of office
+		A member other than the Director-General may resign his or her office by
 
-             (1)  If the Director‑General:
+signed notice delivered to:
 
-                     (a)  engages in paid employment outside the duties of his or her office without the approval of the Minister; or
+ </dl>
 
-                    (aa)  fails, without reasonable excuse, to comply with section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_ or subsection (3) of this section; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
+<dt>(a)</dt><dd>in the case of a member appointed by the Governor-General&#151;the
 
-the Governor‑General shall terminate the appointment of the Director‑General.
+Governor-General; or</dd>
 
-             (2)  The Minister shall not give an approval for the purposes of paragraph (1)(a) unless he or she is satisfied that the paid employment is of a minor nature and will not interfere with the performance of the duties of the Director‑General under this Act.
+<dt>(b)</dt><dd>in the case of a member elected by the Senate or the House of
 
-             (3)  The Director‑General must give written notice to the Minister of all direct or indirect pecuniary interests that the Director‑General has or acquires in any business or in any body corporate carrying on any business.
+Representatives&#151;the President of the Senate or the Speaker of the House of
 
-##### <a id="17H"></a>17H  Application of Superannuation Act
+Representatives, as the case may be.
 
-                   For the purposes of subsections 4(3A) and (4) of the _Superannuation Act 1922_, the Director‑General shall be deemed to be required, by the terms of his or her appointment, to give the whole of his or her time to the duties of his or her office.
+</dd>
 
-##### <a id="17J"></a>17J  Acting Director‑General
+</dl></dl></dl>
 
-             (1)  The Minister may appoint a person to act as Director‑General:
+**
 
-                     (a)  during a vacancy in the office;
+###  NATIONAL LIBRARY ACT 1960- SECT 16  Meetings of Council 
+**
 
-                     (b)  during any period, or during all periods, when the Director‑General is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office of Director‑General;
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Chair, or if, for any reason, the Chair is unable to act, the Deputy
+
+Chair:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>shall convene such meetings of the Council as he or she considers
+
+necessary for the efficient conduct of its business; and</dd>
+
+<dt>(b)</dt><dd>shall, on receipt of a written request signed by not less than
+
+4&#160;members, convene a meeting of the Council.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The Minister may at any time convene a meeting of the Council.</dd> <dt>(3)</dt><dd>The Chair shall preside at all meetings of the Council at which he or she is present.</dd> <dt>(4)</dt><dd>In the event of the absence of the Chair from a meeting of the Council, the Deputy Chair shall preside at that meeting.</dd> <dt>(5)</dt><dd>In the event of the absence of both the Chair and the Deputy Chair from a meeting of the Council, the members present shall appoint one of their number to preside at that meeting.</dd> <dt>(6)</dt><dd>At a meeting of the Council, 5 members constitute a quorum.</dd> <dt>(7)</dt><dd>Subject to subsection (8), all questions arising at a meeting of the Council shall be decided by a majority of the votes of the members present and voting, and for this purpose the member presiding at the meeting has a deliberative vote.</dd> <dt>(8)</dt><dd>In the event of an equality of votes on a resolution proposed at a meeting of the Council, the resolution shall be taken not to be passed, but if the same resolution is proposed at the next meeting of the Council held at a later date and there is again an equality of votes, the member presiding at that meeting has a casting vote on the proposed resolution. </dd> </dl>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 17  Director-General 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>For the purposes of this Act, there shall be a Director-General of the
+
+National Library.</dd> <dt>(2)</dt><dd>The Director-General shall be appointed by the Governor-General.</dd> <dt>(3)</dt><dd>The Director-General is the executive officer of the Council and has, under the Council, the conduct of the affairs of the Library.</dd> <dt>(4)</dt><dd>For the purposes of the _Public Service Act 1999_: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Director-General and the APS employees assisting the Director-General
+
+together constitute a Statutory Agency; and</dd>
+
+<dt>(b)</dt><dd>the Director-General is the Head of that Statutory Agency.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>The Director-General may, by instrument in writing, and either generally
+
+or to the extent provided in the instrument, delegate to a person engaged under
+
+the _Public Service Act 1999_ all or any of his or her powers and
+
+functions under this Act (not including this power of delegation).</dd> <dt>(6)</dt><dd>The power of the Director-General to delegate all or any of his or her powers and functions is subject to any directions of the Council.</dd> <dt>(7)</dt><dd>A power or function delegated under this section may be exercised or performed by the delegate as fully and effectually as by the Director-General.</dd> <dt>(8)</dt><dd>A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Director-General. </dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 17A  Terms and conditions of appointment 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Director-General holds office for such period, not exceeding
+
+7&#160;years, as is specified in the instrument of his or her appointment, but
+
+is eligible for re-appointment.
+
+</dd> </dl>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 17B  Leave of absence 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A full-time member has such recreation leave entitlements as are
+
+determined by the Remuneration Tribunal.</dd> <dt>(2)</dt><dd>The Minister, or the Council acting with the Minister's authority, may grant a full-time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister or the Council, acting with the Minister's authority, determines. </dd> </dl>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 17C  Dismissal 
+**
+
+ <dl compact="">
+
+		The Governor-General may terminate the appointment of the Director-General
+
+for misbehaviour or physical or mental incapacity.
+
+ </dl>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 17D  Resignation 
+**
+
+ <dl compact="">
+
+		The Director-General may resign his or her office by writing under his or her
+
+hand addressed to the Governor-General.
+
+ </dl>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 17E  Vacation of office 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>If the Director-General:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>engages in paid employment outside the duties of his or her office without
+
+the approval of the Minister; or</dd>
+
+<dt>(aa)</dt><dd>fails, without reasonable excuse, to comply with section 27F or 27J of
+
+the _Commonwealth Authorities and Companies Act 1997_ or subsection (3) of
+
+this section; or</dd>
+
+<dt>(b)</dt><dd>becomes bankrupt, applies to take the benefit of any law for the relief of
+
+bankrupt or insolvent debtors, compounds with his or her creditors or makes an
+
+assignment of his or her remuneration for their benefit;
+
+</dd>
+
+</dl></dl></dl>
+
+the Governor-General shall terminate the appointment of the Director-General.
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The Minister shall not give an approval for the purposes of paragraph
+
+(1)(a) unless he or she is satisfied that the paid employment is of a minor
+
+nature and will not interfere with the performance of the duties of the
+
+Director-General under this Act.</dd> <dt>(3)</dt><dd>The Director-General must give written notice to the Minister of all direct or indirect pecuniary interests that the Director-General has or acquires in any business or in any body corporate carrying on any business. </dd> </dl>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 17H  Application of Superannuation Act 
+**
+
+ <dl compact="">
+
+		For the purposes of subsections 4(3A) and (4) of the _Superannuation Act 1922_, the Director-General shall be deemed to be required, by the terms of
+
+his or her appointment, to give the whole of his or her time to the duties of
+
+his or her office.
+
+ </dl>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 17J  Acting Director-General 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may appoint a person to act as Director-General:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>during a vacancy in the office;</dd>
+
+<dt>(b)</dt><dd>during any period, or during all periods, when the Director-General is
+
+absent from duty or from Australia or is, for any other reason, unable to
+
+perform the functions of the office of Director-General;
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-             (2)  An appointment under this section may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+<dl compact="">
 
-             (3)  The Minister may:
+<dt>(2)</dt><dd>An appointment under this section may be expressed to have effect only in
 
-                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed under this section; and
+such circumstances as are specified in the instrument of appointment.</dd> <dt>(3)</dt><dd>The Minister may: </dd> </dl>
 
-                     (b)  terminate such an appointment at any time.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  Where a person is acting as Director‑General in accordance with paragraph (1)(b) and the office of Director‑General becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the day on which the vacancy occurred expires, whichever first happens.
+<dt>(a)</dt><dd>determine the terms and conditions of appointment, including remuneration
 
-             (5)  A person appointed to act under this section may resign his or her appointment by writing signed by the person and delivered to the Minister.
+and allowances, of a person appointed under this section; and</dd>
 
-             (6)  While a person is acting as Director‑General, that person has and may exercise all the powers, and shall perform all the functions, of the Director‑General.
+<dt>(b)</dt><dd>terminate such an appointment at any time.
 
-             (7)  The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, that there is a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
+</dd>
 
-             (8)  Section 17B applies in relation to a person appointed under this section in like manner as it applies in relation to the Director‑General.
+</dl></dl></dl>
 
-##### <a id="18"></a>18  Officers
+<dl compact="">
 
-                   The staff of the Library shall be engaged under the _Public Service Act 1999._
+<dt>(4)</dt><dd>Where a person is acting as Director-General in accordance with paragraph
 
-## Part IV—Finance
+(1)(b) and the office of Director-General becomes vacant while that person is
 
-##### <a id="20"></a>20  Moneys payable to Library
+so acting, then, subject to subsection&#160;(2), that person may continue so to
 
-             (1)  There are payable to the Library such moneys as are appropriated by the Parliament for the purposes of the Library.
+act until the Minister otherwise directs, the vacancy is filled or a period of
 
-             (2)  The Finance Minister may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the Library.
+12&#160;months from the day on which the vacancy occurred expires, whichever
 
-##### <a id="22"></a>22  Application of moneys of Library
+first happens.</dd> <dt>(5)</dt><dd>A person appointed to act under this section may resign his or her appointment by writing signed by the person and delivered to the Minister.</dd> <dt>(6)</dt><dd>While a person is acting as Director-General, that person has and may exercise all the powers, and shall perform all the functions, of the Director-General.</dd> <dt>(7)</dt><dd>The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, that there is a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.</dd> <dt>(8)</dt><dd>Section 17B applies in relation to a person appointed under this section in like manner as it applies in relation to the Director-General. </dd> </dl>
 
-             (1)  The moneys of the Library shall be applied only:
+**
 
-                     (a)  in payment or discharge of the costs and expenses of the Library under this Act; and
+###  NATIONAL LIBRARY ACT 1960- SECT 18  Officers 
+**
 
-                     (b)  in payment of the remuneration, allowances and expenses of the members of the Council.
+ <dl compact="">
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Library under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+		The staff of the Library shall be engaged under the _Public Service Act 1999._
 
-##### <a id="26"></a>26  Exemption from taxation
+ </dl>
 
-                   The Library is not subject to taxation under any law of the Commonwealth or of a State or Territory.
+<center>**
 
-## Part V—Miscellaneous
+###  NATIONAL LIBRARY ACT 1960<part>Part IV&#151;Finance </part>
+**</center>
 
-##### <a id="27A"></a>27A  Supply of liquor on premises of Library
+**
 
-             (1)  The regulations may make provision for and in relation to the sale, supply, disposal, possession or control of liquor on premises in the Australian Capital Territory owned by or under the control of the Library.
+###  NATIONAL LIBRARY ACT 1960- SECT 20  Moneys payable to Library 
+**
 
-             (2)  The law of the Australian Capital Territory relating to the sale, supply and disposal of liquor does not apply with respect to premises in respect of which regulations are in force under subsection (1).
+ <dl compact="">
 
-             (3)  In this section:
+<dt>(1)</dt><dd>There are payable to the Library such moneys as are appropriated by the
 
-                    <a name="liquor"></a>**_liquor_** means wine, spirits, ale, beer, porter, cider, perry or any liquid containing alcohol ordinarily used or fit for use as a beverage.
+Parliament for the purposes of the Library.</dd> <dt>(2)</dt><dd>The Minister for Finance may give directions as to the amounts in which, and the times at which, moneys referred to in subsection&#160;(1) are to be paid to the Library. </dd> </dl>
 
-##### <a id="27B"></a>27B  Control of Library land and buildings
+**
 
-             (1)  The regulations may make provision for and in relation to:
+###  NATIONAL LIBRARY ACT 1960- SECT 22  Application of moneys of Library 
+**
 
-                     (a)  regulating, restricting or prohibiting the entry of persons on to any land or building owned by or under the control of the Library; or
+ <dl compact="">
 
-                     (b)  regulating the conduct of persons on any such land or building; or
+<dt>(1)</dt><dd>The moneys of the Library shall be applied only:
 
-                     (c)  the removal of persons from any such land or building.
+</dd> </dl>
 
-             (2)  A reference in this section to any land or building owned by or under the control of the Library includes a reference to a part of any such land or any such building, as the case may be.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="28"></a>28  Regulations
+<dt>(a)</dt><dd>in payment or discharge of the costs and expenses of the Library under
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, for prescribing penalties not exceeding a fine of $500 for offences against the regulations.
+this Act; and</dd>
 
-# Notes to the _National Library Act 1960_
+<dt>(b)</dt><dd>in payment of the remuneration, allowances and expenses of the members of
 
-### Note 1
+the Council.
 
-The _National Library Act 1960_ as shown in this compilation comprises Act No. 69, 1960 amended as indicated in the Tables below.
+</dd>
 
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+</dl></dl></dl>
 
-### Table of Acts
+<dl compact="">
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="17%">
-  <col width="23%">
-  <col width="14%">
-</colgroup>
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the Library
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 26  Exemption from taxation 
+**
+
+ <dl compact="">
+
+		The Library is not subject to taxation under any law of the Commonwealth or
+
+of a State or Territory.
+
+ </dl>
+
+<center>Back to Top</center>
+
+<center>**
+
+###  NATIONAL LIBRARY ACT 1960<part>Part V&#151;Miscellaneous </part>
+**</center>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 27A  Supply of liquor on premises of Library 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The regulations may make provision for and in relation to the sale,
+
+supply, disposal, possession or control of liquor on premises in the Australian
+
+Capital Territory owned by or under the control of the Library.</dd> <dt>(2)</dt><dd>The law of the Australian Capital Territory relating to the sale, supply and disposal of liquor does not apply with respect to premises in respect of which regulations are in force under subsection (1).</dd> <dt>(3)</dt><dd>In this section: </dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_liquor_ means wine, spirits, ale, beer, porter, cider, perry or
+
+any liquid containing alcohol ordinarily used or fit for use as a beverage.
+
+ </dl></dl>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 27B  Control of Library land and buildings 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The regulations may make provision for and in relation to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>regulating, restricting or prohibiting the entry of persons on to any land
+
+or building owned by or under the control of the Library; or</dd>
+
+<dt>(b)</dt><dd>regulating the conduct of persons on any such land or building; or</dd>
+
+<dt>(c)</dt><dd>the removal of persons from any such land or building.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>A reference in this section to any land or building owned by or under the
+
+control of the Library includes a reference to a part of any such land or any
+
+such building, as the case may be.
+
+</dd> </dl>
+
+**
+
+###  NATIONAL LIBRARY ACT 1960- SECT 28  Regulations 
+**
+
+ <dl compact="">
+
+		The Governor-General may make regulations, not inconsistent with this Act,
+
+prescribing all matters which by this Act are required or permitted to be
+
+prescribed, or which are necessary or convenient to be prescribed for carrying
+
+out or giving effect to this Act, and, in particular, for prescribing penalties
+
+not exceeding a fine of $500 for offences against the regulations.
+
+ </dl>
+
+<center>**
+
+###  NATIONAL LIBRARY ACT 1960<centreit>Notes to the _National Library Act 1960_ </centreit>
+**</center>
+
+**Note 1**
+
+The _National Library Act 1960_ as shown in this compilation comprises Act No. 69, 1960 amended as indicated in the Tables below.
+ All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>National Library Act 1960</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>National Library Act 1960</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>69, 1960</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>7 Dec 1960</div>
+
   </td>
-  <td>
-    <div>23 Mar 1961 ( <i>see Gazette</i>1961, p. 1199)</div>
+  <td colspan="1" align="left">
+    <div>23 Mar 1961 ( <i>see Gazette</i>1961, p.&#160;1199)</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision (Decimal Currency) Act 1966</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>93, 1966</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>29 Oct 1966</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1 Dec 1966</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>National Library Act 1967</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>National Library Act 1967</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>28, 1967</div>
+
   </td>
-  <td>
-    <div>23 May 1967</div>
+  <td colspan="1" align="left">
+    <div>23 May 1967</div>
+
   </td>
-  <td>
-    <div>23 May 1967</div>
+  <td colspan="1" align="left">
+    <div>23 May 1967</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 3(2) and (3)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 1973</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>216, 1973</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>19 Dec 1973</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>31 Dec 1973</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Ss. 9(1) and 10</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>National Library Act 1973</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>National Library Act 1973</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>217, 1973</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>20 Dec 1973</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>20 Dec 1973</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 9(2) and (3)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Administrative Changes (Consequential Provisions) Act 1978</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>36, 1978</div>
+
   </td>
-  <td>
-    <div>12 June 1978</div>
+  <td colspan="1" align="left">
+    <div>12 June 1978</div>
+
   </td>
-  <td>
-    <div>12 June 1978</div>
+  <td colspan="1" align="left">
+    <div>12 June 1978</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 8</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Public Service Reform Act 1984</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Public Service Reform Act 1984</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>63, 1984</div>
+
   </td>
-  <td>
-    <div>25 June 1984</div>
+  <td colspan="1" align="left">
+    <div>25 June 1984</div>
+
   </td>
-  <td>
-    <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(a)</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 151(9)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law (Miscellaneous Provisions) Act (No. 2) 1984</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>165, 1984</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Oct 1984</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 3: 22 Nov 1984 <i>(b)</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 6(1)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>65, 1985</div>
+
   </td>
-  <td>
-    <div>5 June 1985</div>
+  <td colspan="1" align="left">
+    <div>5 June 1985</div>
+
   </td>
-  <td>
-    <div>S. 3: 3 July 1985 <i>(c)</i></div>
+  <td colspan="1" align="left">
+    <div>S. 3: 3 July 1985 <i>(c)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Lands Acquisition (Repeal and Consequential Provisions) Act 1989</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>21, 1989</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>20 Apr 1989</div>
+
   </td>
-  <td>
-    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
+  <td colspan="1" align="left">
+    <div>9 June 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S185)</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>33, 1991</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>21 Mar 1991</div>
+
   </td>
-  <td>
-    <div>Ss. 3 (in part) and 5: 1 July 1991 
+  <td colspan="1" align="left">
+    <div>Ss. 3 (in part) and 5: 1 July 1991 
 Remainder: Royal Assent</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 6</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>179, 1991</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Nov 1991</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Nov 1991</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 3(2)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 1996</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>43, 1996</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Oct 1996</div>
+
   </td>
-  <td>
-    <div>Schedule 4 (item 103) and Schedule 5 (items 93–95): Royal Assent <i>(d)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 4 (item 103) and Schedule 5 (items 93-95): Royal Assent <i>(d)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Audit (Transitional and Miscellaneous) Amendment Act 1997</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>152, 1997</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>24 Oct 1997</div>
+
   </td>
-  <td>
-    <div>Schedule 2 (items 985–994): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(e)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 2 (items 985-994): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(e)</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 4(3)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>146, 1999</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>11 Nov 1999</div>
+
   </td>
-  <td>
-    <div>Schedule 1 (items 647–654): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 1 (items 647-654): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Corporate Law Economic Reform Program Act 1999</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>156, 1999</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>24 Nov 1999</div>
+
   </td>
-  <td>
-    <div>Schedule 10 (items 99, 100): 13 Mar 2000 ( <i>see Gazette</i>2000, No. S114) <i>(g)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 10 (items 99, 100): 13 Mar 2000 ( <i>see Gazette</i>2000, No.&#160;S114) <i>(g)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<thead>
-  <tr>
-    <td>
-      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-    </td>
-    <td>
-      <div>159, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>29 Oct 2001</div>
-    </td>
-    <td>
-      <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2011</div>
-    </td>
-    <td>
-      <div>5, 2011</div>
-    </td>
-    <td>
-      <div>22 Mar 2011</div>
-    </td>
-    <td>
-      <div>Schedule 5 (items 155, 156): 19 Apr 2011</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</thead></table>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
 
-_(a)_     The _National Library Act 1960_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
-
-                 (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
-
-_(b)_     The _National Library Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
-
-_(c)_     The _National Library Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
-
-_(d)_     The _National Library Act 1960_ was amended by Schedule 4 (item 103) and Schedule 5 (items 93–95) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-
-_(e)_     The _National Library Act 1960_ was amended by Schedule 2 (items 985–994) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
-
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
-
-_(f)_      The _National Library Act 1960_ was amended by Schedule 1 (items 647–654) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                 (2)   Subject to this section, this Act commences at the commencing time.
-
-_(g)_     The _National Library Act 1960_ was amended by Schedule 10 (items 99 and 100) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
-
-                 (2)   The following provisions commence on a day or days to be fixed by Proclamation:
-
-                              (c)   the items in Schedules 10, 11 and 12\. 
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</i></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>159, 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>1 Oct 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>29 Oct 2001</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
+
+  </th>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _National Library Act 1960_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
+
+	(4)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
+
+_(b)_	The _National Library Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+
+_(c)_	The _National Library Act 1960_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+
+_(d)_	The _National Library Act 1960_ was amended by Schedule 4 (item 103) and Schedule 5 (items 93-95) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(e)_	The _National Library Act 1960_ was amended by Schedule 2 (items 985-994) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+
+	(2)	Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+
+_(f)_	The _National Library Act 1960_ was amended by Schedule 1 (items 647-654) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+ 	(2)	Subject to this section, this Act commences at the commencing time.
+
+_(g)_	The _National Library Act 1960_ was amended by Schedule 10 (items 99 and 100) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+
+	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
+
+	(c)	the items in Schedules 10, 11 and 12\. 
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
-  <td>
-    <div>rep. No. 217, 1973</div>
+  <td colspan="1" align="left">
+    <div>rep. No. 217, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
   </td>
-  <td>
-    <div>am. No. 217, 1973; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No. 217, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Note to s. 5(1)</div>
+
   </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 6</div>
+
   </td>
-  <td>
-    <div>am. No. 216, 1973; No. 146, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No. 216, 1973; No. 146, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 7</div>
+
   </td>
-  <td>
-    <div>am. No. 33, 1991</div>
+  <td colspan="1" align="left">
+    <div>am. No. 33, 1991</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 7A</div>
+
   </td>
-  <td>
-    <div>ad. No. 217, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 21, 1989; No. 33, 1991</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 217, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No. 21, 1989; No. 33, 1991</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 10</div>
+
   </td>
-  <td>
-    <div>am. No. 217, 1973; No. 33, 1991; No. 43, 1996</div>
+  <td colspan="1" align="left">
+    <div>am. No. 217, 1973; No. 33, 1991; No. 43, 1996</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 11</div>
+
   </td>
-  <td>
-    <div>rs. No. 165, 1984</div>
+  <td colspan="1" align="left">
+    <div>rs. No. 165, 1984</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Heading to s. 12</div>
+
   </td>
-  <td>
-    <div>am. No. 152, 1997</div>
+  <td colspan="1" align="left">
+    <div>am. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 12</div>
+
   </td>
-  <td>
-    <div>am. No. 152, 1997</div>
+  <td colspan="1" align="left">
+    <div>am. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 13</div>
+
   </td>
-  <td>
-    <div>am. No. 217, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 165, 1984</div>
+  <td colspan="1" align="left">
+    <div>am. No. 217, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>am. No. 43, 1996</div>
+  <td colspan="1" align="left">
+    <div>rs. No. 165, 1984</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 43, 1996</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 15</div>
+
   </td>
-  <td>
-    <div>am. No. 217, 1973; No. 33, 1991; No. 43, 1996; No. 152, 1997; No. 156, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No. 217, 1973; No. 33, 1991; No. 43, 1996; No. 152, 1997; No. 156, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 15A</div>
+
   </td>
-  <td>
-    <div>ad. No. 33, 1991</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 33, 1991</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 15B</div>
+
   </td>
-  <td>
-    <div>ad. No. 33, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 33, 1991</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 16</div>
+
   </td>
-  <td>
-    <div>am. No. 33, 1991; No. 43, 1996; No. 152, 1997</div>
+  <td colspan="1" align="left">
+    <div>am. No. 33, 1991; No. 43, 1996; No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17</div>
+
   </td>
-  <td>
-    <div>am. No. 28, 1967; No. 217, 1973; No. 63, 1984; No. 33, 1991; No. 43, 1996; No. 146, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No. 28, 1967; No. 217, 1973; No. 63, 1984; No. 33, 1991; No. 43, 1996; No. 146, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17A</div>
+
   </td>
-  <td>
-    <div>ad. No. 28, 1967</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 217, 1973; No. 165, 1984; No. 33, 1991; No. 43, 1996; No. 159, 2001</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 28, 1967</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 217, 1973; No. 165, 1984; No. 33, 1991; No. 43, 1996; No. 159, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17B</div>
+
   </td>
-  <td>
-    <div>ad. No. 28, 1967</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 217, 1973</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 28, 1967</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rs. No. 179, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No. 217, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No. 179, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 146, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17C</div>
+
   </td>
-  <td>
-    <div>ad. No. 28, 1967</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 217, 1973</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 28, 1967</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 217, 1973</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17D</div>
+
   </td>
-  <td>
-    <div>ad. No. 28, 1967</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 217, 1973; No. 43, 1996</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 28, 1967</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 217, 1973; No. 43, 1996</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17E</div>
+
   </td>
-  <td>
-    <div>ad. No. 28, 1967</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 217, 1973; No. 33, 1991; No. 43, 1996; No. 152, 1997; No. 156, 1999</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 28, 1967</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 217, 1973; No. 33, 1991; No. 43, 1996; No. 152, 1997; No. 156, 1999</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17F</div>
+
   </td>
-  <td>
-    <div>ad. No. 28, 1967</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 28, 1967</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. Nos. 216 and 217, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rep. No. 65, 1985</div>
+  <td colspan="1" align="left">
+    <div>rep. No. 65, 1985</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17G</div>
+
   </td>
-  <td>
-    <div>ad. No. 28, 1967</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 217, 1973</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 28, 1967</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 217, 1973</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17H</div>
+
   </td>
-  <td>
-    <div>ad. No. 28, 1967</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 217, 1973; No. 33, 1991; No. 43, 1996</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 28, 1967</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 217, 1973; No. 33, 1991; No. 43, 1996</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17J</div>
+
   </td>
-  <td>
-    <div>ad. No. 28, 1967</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 217, 1973</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 28, 1967</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rs. No. 165, 1984</div>
+  <td colspan="1" align="left">
+    <div>am. No. 217, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rs. No. 165, 1984</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 18</div>
+
   </td>
-  <td>
-    <div>am. No. 33, 1991; No. 146, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No. 33, 1991; No. 146, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 19</div>
+
   </td>
-  <td>
-    <div>rep. No. 217, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>rep. No. 217, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 20</div>
+
   </td>
-  <td>
-    <div>am. No. 217, 1973; No. 36, 1978; No. 5, 2011</div>
+  <td colspan="1" align="left">
+    <div>am. No. 217, 1973; No. 36, 1978</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 21</div>
+
   </td>
-  <td>
-    <div>rs. No. 217, 1973; No. 33, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
+  <td colspan="1" align="left">
+    <div>rs. No. 217, 1973; No. 33, 1991</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 21A</div>
+
   </td>
-  <td>
-    <div>ad. No. 33, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 33, 1991</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 22</div>
+
   </td>
-  <td>
-    <div>am. No. 152, 1997</div>
+  <td colspan="1" align="left">
+    <div>am. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 23</div>
+
   </td>
-  <td>
-    <div>rs. No. 217, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
+  <td colspan="1" align="left">
+    <div>rs. No. 217, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 24</div>
+
   </td>
-  <td>
-    <div>rep. No. 33, 1991</div>
+  <td colspan="1" align="left">
+    <div>rep. No. 33, 1991</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 25</div>
+
   </td>
-  <td>
-    <div>am. No. 28, 1967</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 217, 1973</div>
+  <td colspan="1" align="left">
+    <div>am. No. 28, 1967</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rep. No. 33, 1991</div>
+  <td colspan="1" align="left">
+    <div>rs. No. 217, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 33, 1991</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 26</div>
+
   </td>
-  <td>
-    <div>rs. No. 217, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>rs. No. 217, 1973</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 27</div>
+
   </td>
-  <td>
-    <div>am. No. 28, 1967; No. 217, 1973; No. 36, 1978; No. 33, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
+  <td colspan="1" align="left">
+    <div>am. No. 28, 1967; No. 217, 1973; No. 36, 1978; No. 33, 1991</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 152, 1997</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 27A, 27B</div>
+
   </td>
-  <td>
-    <div>ad. No. 33, 1991</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 33, 1991</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 28</div>
+
   </td>
-  <td>
-    <div>am. No. 93, 1966; No. 33, 1991</div>
+  <td colspan="1" align="left">
+    <div>am. No. 93, 1966; No. 33, 1991</div>
+
   </td>
-</tr></table>
+</tr></table>**Table A**
 
-## Table A
+**Application, saving or transitional provisions**
 
-### Application, saving or transitional provisions
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001_(No. 159, 2001)
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
- (No. 159, 2001)_
+**Schedule 1** **97  Application of amendments** The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
-## Schedule 1
+</def>
 
-## 97  Application of amendments
 
-The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
-
- 
