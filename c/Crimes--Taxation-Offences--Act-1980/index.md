@@ -1,11 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2004C03151/Html/CrimesTaxOff80_image001.gif)
+# ![](http://www.comlaw.gov.au/Details/C2004C03150/Html/CrimesTaOff80_image001.gif)
 
 # Crimes (Taxation Offences) Act 1980
 
 **Act No. 156 of 1980 as amended**
 
-This compilation was prepared on 1 July 2000 
- taking into account amendments up to Act No. 179 of 1999
+Consolidated as in force on 2 June 1999
+
+(includes amendments up to Act No. 47 of 1998)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -14,75 +15,67 @@ Prepared by the Office of Legislative Drafting,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+1             Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+2             Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation                                                                                       1
+3             Interpretation                                                                                       1
 
-[3A](#3A).         Extension to external Territories and Australian installations             7
+3A          Extension to external Territories and Australian installations             6
 
-[4](#4).            Secrecy                                                                                                 7
+4             Secrecy                                                                                                 6
 
-**Part II—Offences relating to old sales tax**
+**Part II—Offences relating to old sales tax** 
 
-[5](#5).            Arrangements to avoid payment of old sales tax                                 8
+5             Arrangements to avoid payment of old sales tax                                 8
 
-[6](#6).            Aiding and abetting                                                                              9
+6             Aiding and abetting                                                                              8
 
-[7](#7).            Arrangements to secure inability to pay old sales tax                       10
+7             Arrangements to secure inability to pay old sales tax                         9
 
-[8](#8).            Offences in relation to particular transactions                                   11
+8             Offences in relation to particular transactions                                   11
 
-[9](#9).            Penalties                                                                                             13
+9             Penalties                                                                                             12
 
-[10](#10).          Evidence                                                                                             13
+10           Evidence                                                                                             13
 
-[11](#11).          Stay of proceedings                                                                           14
+11           Stay of proceedings                                                                           14
 
-[12](#12).          Additional penalty                                                                             15
+12           Additional penalty                                                                             14
 
 **Part IIA—Offences relating to sales tax payable under the Sales Tax Assessment Act 1992**
 
-[12A](#12A).       Application of Parts I and II in relation to sales tax payable under the _Sales Tax Assessment Act 1992_       16
+12A        Application of Parts I and II in relation to sales tax payable under the _Sales Tax Assessment Act 1992_       16
 
-**Part III—Offences relating to income tax**
+**Part III—Offences relating to income tax** 
 
-[13](#13).          Application of Part I and Part II in relation to income tax                17
+13           Application of Part I and Part II in relation to income tax                17
 
-**Part IV—Offences relating to fringe benefits tax**
+**Part IV—Offences relating to fringe benefits tax** 
 
-[14](#14).          Application of Part I and Part II in relation to fringe benefits tax     19
+14           Application of Part I and Part II in relation to fringe benefits tax     19
 
-**Part V—Offences relating to petroleum resource rent tax**
+**Part V—Offences relating to petroleum resource rent tax** 
 
-[15](#15).          Application of Part I and Part II in relation to petroleum resource rent tax             21
+15           Application of Part I and Part II in relation to petroleum resource rent tax             21
 
-**Part VI—Offences relating to training guarantee charge**
+**Part VI—Offences relating to training guarantee charge** 
 
-[16](#16).          Application of Parts I and II in relation to training guarantee charge 23
+16           Application of Parts I and II in relation to training guarantee charge 23
 
-**Part VII—Offences relating to superannuation guarantee charge**
+**Part VII—Offences relating to superannuation guarantee charge** 
 
-[17](#17).          Application of Parts I and II in relation to superannuation guarantee charge           25
-
-**Part VIII—Offences Relating to Goods and Services Tax**
-
-[18](#18).          Application of Parts I and II in relation to goods and services tax    27
-
-**Part IX—Offences Relating to Wine Equalisation Tax**
-
-[19](#19).          Application of Parts I and II in relation to wine equalisation tax      29
-
-**Part X—Offences Relating to Luxury Car Tax**
-
-[20](#20).          Application of Parts I and II in relation to luxury car tax                 31
+17           Application of Parts I and II in relation to superannuation guarantee charge           25
 
 **Notes** 
 
 ## An Act relating to certain offences in relation to taxation
 
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+
 ## Part I—Preliminary
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -114,19 +107,13 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="fring-benefit-tax-assess-act"></a>**_Fringe Benefits Tax Assessment Act_** means the _Fringe Benefits Tax Assessment Act 1986_.
 
-                    <a name="gst"></a>**_GST_** has the meaning given by section 195-1 of the GST Act.
-
-                    <a name="gst-act"></a>**_GST Act_** means the _A New Tax System (Goods and Services Tax) Act 1999_.
-
-                    <a name="gst-law"></a>**_GST law_** has the meaning given by section 195-1 of the GST Act.
-
                     <a name="incom-tax"></a>**_income tax_** means:
 
                      (a)  income tax, imposed as such by any Act, as assessed under the Income Tax Assessment Act; and
 
                     (aa)  any amount payable to the Commissioner under Part IIIAA of the Income Tax Assessment Act; and
 
-                     (b)  additional income tax payable under section 163AA, section 170AA, subsection 204(3), subsection 221AZMAA(1), subsection 221AZP(1), subsection 221YD(3), section 221YDB or Part VII of the Income Tax Assessment Act; and
+                     (b)  additional income tax payable under section 207, 221AG, 221AY, 221AZE or 221YDB or Part VII of the Income Tax Assessment Act; and
 
                      (c)  an instalment of income tax payable under Division 1A of Part VI of the Income Tax Assessment Act; and
 
@@ -134,25 +121,15 @@ Prepared by the Office of Legislative Drafting,
 
                     (cb)  any amount payable to the Commissioner under Division 1C of Part VI of the Income Tax Assessment Act;
 
-                     (d)  any amount payable to the Commissioner under subsection 21EAA(1) or section 220AAE, 220AAM or 220AAR of the Income Tax Assessment Act; and
+                     (d)  any amount payable to the Commissioner under subsection 221EAA(1), section 220AAE, 220AAM or 220AAR or subsection 220AAV(3) of the Income Tax Assessment Act; and
 
                       (f)  any amount of provisional tax payable under Division 3 of Part VI of the Income Tax Assessment Act; and
 
-                     (g)  any amount payable to the Commissioner under subsection 220AS(1) or 221YHH(1), subsection 221YHZC(3) or 221YHZD(1), (1A) or (1B), subparagraph 221YHZD(2)(b)(ii), subsection 221YN(1) or (4), 221YQ(1), 221ZC(1) or (4), 221ZD(1), 221ZN(1) or 221ZO(1) or section 221ZP of the Income Tax Assessment Act; and
+                     (g)  any amount payable to the Commissioner under subsection 220AS(2) or 221YHH(1), subsection 221YHZC(3) or 221YHZD(1), (1A) or (1B), subparagraph 221YHZD(2)(b)(ii), subsection 221YN(1) or (4), 221YQ(1), 221ZC(1) or (4), 221ZD(1), 221ZN(1) or 221ZO(1) or section 221ZP of the Income Tax Assessment Act; and
 
-                    (ga)  any amount payable to the Commissioner under Subdivision 16-A or 16-B in Schedule 1 to the _Taxation Administration Act 1953_; and
-
-                     (h)  an amount payable to the Commissioner under Division 8 or 9 of Part VI of the Income Tax Assessment Act; and
-
-                      (i)  an amount payable to the Commissioner under Division 45 in Schedule 1 to the _Taxation Administration Act 1953_.
+                     (h)  an amount payable to the Commissioner under Division 8 or 9 of Part VI of the Income Tax Assessment Act.
 
                     <a name="incom-tax-assess-act"></a>**_Income Tax Assessment Act_** means the _Income Tax Assessment Act 1936_or the _Income Tax Assessment Act 1997_.
-
-                    <a name="luxuri-car-tax"></a>**_luxury car tax_** has the meaning given by section 27-1 of the Luxury Car Tax Act.
-
-                    <a name="act"></a><a name="luxuri-car-tax"></a>**_Luxury Car Tax_** **_Act_** means the _A New Tax System (Luxury Car Tax) Act 1999_.
-
-                    <a name="law"></a><a name="luxuri-car-tax"></a>**_luxury car tax_** **_law_** has the meaning given by section 27-1 of the Luxury Car Tax Act.
 
                     <a name="old-sale-tax"></a>**_old sales tax_** means tax imposed under the name of sales tax by any Act, but does not include tax payable under the _Sales Tax Assessment Act 1992_.
 
@@ -189,12 +166,6 @@ Prepared by the Office of Legislative Drafting,
                      (a)  an executor or administrator, guardian, committee, receiver or liquidator; and
 
                      (b)  every person (including a company) having or taking upon himself or herself the administration or control of income or property affected by any express or implied trust, or acting in any fiduciary capacity, or having the possession, control or management of the income or property of a person under any legal or other disability.
-
-                    <a name="wine-tax"></a>**_wine tax_** has the meaning given by section 33-1 of the Wine Equalisation Tax Act.
-
-                    <a name="act"></a><a name="wine-equalis-tax"></a>**_Wine Equalisation Tax_** **_Act_** means the _A New Tax System (Wine Equalisation Tax) Act 1999_.
-
-                    <a name="law"></a><a name="wine-tax"></a>**_wine tax_** **_law_** has the meaning given by section 33-1 of the Wine Equalisation Tax Act.
 
              (2)  In this Act:
 
@@ -264,29 +235,9 @@ Prepared by the Office of Legislative Drafting,
 
              (4)  Section 45 of the Superannuation Guarantee (Administration) Act has effect as if this Act were part of that Act.
 
-             (5)  Section 68 of the _Taxation Administration Act 1953_ has effect as if this Act were part of that Act.
-
 ## Part II—Offences relating to old sales tax
 
-_Note:       The offences in this Part are applied to other taxes by the later Parts of this Act. These taxes are:_
-
-(a)              sales tax payable under the _Sales Tax Assessment Act 1992_ (see Part IIA);
-
-(b)              income tax (see Part III);
-
-(c)              fringe benefits tax (see Part IV);
-
-(d)              petroleum resource rent tax (see Part V);
-
-(e)              training guarantee charge (see Part VI);
-
-(f)               superannuation guarantee charge (see Part VII);
-
-(g)              goods and services tax (see Part VIII);
-
-(h)              wine equalisation tax (see Part IX);
-
-(i)               luxury car tax (see Part X).
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="5"></a>5  Arrangements to avoid payment of old sales tax
 
@@ -462,11 +413,15 @@ whichever first occurs.
 
 ## Part IIA—Offences relating to sales tax payable under the Sales Tax Assessment Act 1992
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="12A"></a>12A  Application of Parts I and II in relation to sales tax payable under the _Sales Tax Assessment Act 1992_
 
                    Parts I and II have effect (with appropriate alterations) in relation to the _Sales Tax Assessment Act 1992_ in the same way as they have effect in relation to the Sales Tax Assessment Acts.
 
 ## Part III—Offences relating to income tax
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="13"></a>13  Application of Part I and Part II in relation to income tax
 
@@ -498,6 +453,8 @@ whichever first occurs.
 
 ## Part IV—Offences relating to fringe benefits tax
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="14"></a>14  Application of Part I and Part II in relation to fringe benefits tax
 
              (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
@@ -527,6 +484,8 @@ whichever first occurs.
              (3)  For the purposes of the application of subsection 10(2), section 11 and section 12 in accordance with the preceding provisions of this section, the liability of a company or trustee in respect of fringe benefits tax moneys that have been assessed shall not be taken not to be finally determined by reason only of the possibility of the Commissioner amending the assessment (otherwise than as a result of an objection being allowed or to give effect to a decision of the Administrative Appeals Tribunal or a court).
 
 ## Part V—Offences relating to petroleum resource rent tax
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="15"></a>15  Application of Part I and Part II in relation to petroleum resource rent tax
 
@@ -558,6 +517,8 @@ whichever first occurs.
 
 ## Part VI—Offences relating to training guarantee charge
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="16"></a>16  Application of Parts I and II in relation to training guarantee charge
 
              (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
@@ -588,6 +549,8 @@ whichever first occurs.
 
 ## Part VII—Offences relating to superannuation guarantee charge
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="17"></a>17  Application of Parts I and II in relation to superannuation guarantee charge
 
              (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
@@ -610,107 +573,17 @@ whichever first occurs.
 
                               (i)  superannuation guarantee charge payable by the company or trustee; and
 
-                             (ii)  costs ordered by a court against a company or trustee in a proceeding for the recovery of superannuation guarantee charge; and
+                             (ii)  costs ordered by a court against a company or trustee in a proceeding for the recovery of superannuation guarantee charge; and
 
                      (d)  a reference in subsections 10(1) and (2) to superannuation guarantee charge moneys is to be read as a reference to superannuation guarantee charge assessed under the Superannuation Guarantee (Administration) Act.
 
              (3)  In applying subsection 10(2) and sections 11 and 12 in accordance with subsections (1) and (2), the liability of a company or trustee in respect of superannuation guarantee charge moneys that have been assessed is not to be taken not to be finally determined merely because of the possibility of the Commissioner’s amending the assessment (otherwise than as a result of allowing an objection or to give effect to a decision of the Administrative Appeals Tribunal or a court).
 
-## Part VIII—Offences Relating to Goods and Services Tax
-
-##### <a id="18"></a>18  Application of Parts I and II in relation to goods and services tax
-
-             (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
-
-                     (a)  a reference in any of those provisions to sales tax were a reference to GST; and
-
-                     (b)  a reference in any of those provisions to future sales tax were a reference to future GST; and
-
-                     (c)  a reference in any of those provisions to some one or other of the Sales Tax Assessment Acts were a reference to the GST law; and
-
-                     (d)  a reference in any of those provisions, in relation to a company or trustee, to sales tax moneys, were a reference to GST moneys.
-
-             (2)  In applying the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1):
-
-                     (a)  a reference in any of those provisions to the GST payable by a company or trustee, in relation to the purpose, or a purpose, of a person’s entering into, or a person’s knowledge or belief concerning, an arrangement or transaction is to be read as a reference to some or all of the GST due and payable by the company or the trustee at the time when the arrangement or transaction was entered into; and
-
-                     (b)  a reference in any of those provisions to future GST payable by a company or trustee, in relation to the purpose, or a purpose, of a person’s entering into, or a person’s knowledge or belief concerning, an arrangement or transaction is to be read as a reference to some or all of the GST that may reasonably be expected by that person to become payable by the company or trustee after the arrangement or transaction is entered into; and
-
-                     (c)  a reference in any of those provisions (other than subsections 10(1) and (2)), in relation to a company or trustee, to GST moneys is to be read as a reference to:
-
-                              (i)  GST payable by the company or trustee; and
-
-                             (ii)  costs ordered by a court against a company or trustee in a proceeding for the recovery of GST; and
-
-                     (d)  a reference in subsections 10(1) and (2) to GST moneys is to be read as a reference to GST payable under the GST Act.
-
-             (3)  In applying subsection 10(2) and sections 11 and 12 in accordance with subsections (1) and (2), the liability of a company or trustee in respect of GST moneys that have been assessed is not to be taken not to be finally determined merely because of the possibility of the Commissioner’s amending the assessment (otherwise than as a result of allowing an objection or to give effect to a decision of the Administrative Appeals Tribunal or a court).
-
-## Part IX—Offences Relating to Wine Equalisation Tax
-
-##### <a id="19"></a>19  Application of Parts I and II in relation to wine equalisation tax 
-
-             (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
-
-                     (a)  a reference in any of those provisions to sales tax were a reference to wine tax; and
-
-                     (b)  a reference in any of those provisions to future sales tax were a reference to future wine tax; and
-
-                     (c)  a reference in any of those provisions to some one or other of the Sales Tax Assessment Acts were a reference to the wine tax law; and
-
-                     (d)  a reference in any of those provisions, in relation to a company or trustee, to sales tax moneys, were a reference to wine tax moneys.
-
-             (2)  In applying the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1):
-
-                     (a)  a reference in any of those provisions to the wine tax payable by a company or trustee, in relation to the purpose, or a purpose, of a person’s entering into, or a person’s knowledge or belief concerning, an arrangement or transaction is to be read as a reference to some or all of the wine tax due and payable by the company or the trustee at the time when the arrangement or transaction was entered into; and
-
-                     (b)  a reference in any of those provisions to future wine tax payable by a company or trustee, in relation to the purpose, or a purpose, of a person’s entering into, or a person’s knowledge or belief concerning, an arrangement or transaction is to be read as a reference to some or all of the wine tax that may reasonably be expected by that person to become payable by the company or trustee after the arrangement or transaction is entered into; and
-
-                     (c)  a reference in any of those provisions (other than subsections 10(1) and (2)), in relation to a company or trustee, to wine tax moneys is to be read as a reference to:
-
-                              (i)  wine tax payable by the company or trustee; and
-
-                             (ii)  costs ordered by a court against a company or trustee in a proceeding for the recovery of wine tax; and
-
-                     (d)  a reference in subsections 10(1) and (2) to wine tax moneys is to be read as a reference to wine tax payable under the Wine Equalisation Tax Act.
-
-             (3)  In applying subsection 10(2) and sections 11 and 12 in accordance with subsections (1) and (2), the liability of a company or trustee in respect of wine tax moneys that have been assessed is not to be taken not to be finally determined merely because of the possibility of the Commissioner’s amending the assessment (otherwise than as a result of allowing an objection or to give effect to a decision of the Administrative Appeals Tribunal or a court).
-
-## Part X—Offences Relating to Luxury Car Tax 
-
-##### <a id="20"></a>20  Application of Parts I and II in relation to luxury car tax
-
-             (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
-
-                     (a)  a reference in any of those provisions to sales tax were a reference to luxury car tax; and
-
-                     (b)  a reference in any of those provisions to future sales tax were a reference to future luxury car tax; and
-
-                     (c)  a reference in any of those provisions to some one or other of the Sales Tax Assessment Acts were a reference to the luxury car tax law; and
-
-                     (d)  a reference in any of those provisions, in relation to a company or trustee, to sales tax moneys, were a reference to luxury car tax moneys.
-
-             (2)  In applying the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1):
-
-                     (a)  a reference in any of those provisions to the luxury car tax payable by a company or trustee, in relation to the purpose, or a purpose, of a person’s entering into, or a person’s knowledge or belief concerning, an arrangement or transaction is to be read as a reference to some or all of the luxury car tax due and payable by the company or the trustee at the time when the arrangement or transaction was entered into; and
-
-                     (b)  a reference in any of those provisions to future luxury car tax payable by a company or trustee, in relation to the purpose, or a purpose, of a person’s entering into, or a person’s knowledge or belief concerning, an arrangement or transaction is to be read as a reference to some or all of the luxury car tax that may reasonably be expected by that person to become payable by the company or trustee after the arrangement or transaction is entered into; and
-
-                     (c)  a reference in any of those provisions (other than subsections 10(1) and (2)), in relation to a company or trustee, to luxury car tax moneys is to be read as a reference to:
-
-                              (i)  luxury car tax payable by the company or trustee; and
-
-                             (ii)  costs ordered by a court against a company or trustee in a proceeding for the recovery of luxury car tax; and
-
-                     (d)  a reference in subsections 10(1) and (2) to luxury car tax moneys is to be read as a reference to luxury car tax payable under the Luxury Car Tax Act.
-
-             (3)  In applying subsection 10(2) and sections 11 and 12 in accordance with subsections (1) and (2), the liability of a company or trustee in respect of luxury car tax moneys that have been assessed is not to be taken not to be finally determined merely because of the possibility of the Commissioner’s amending the assessment (otherwise than as a result of allowing an objection or to give effect to a decision of the Administrative Appeals Tribunal or a court).
-
 # Notes to the _Crimes (Taxation Offences) Act 1980_
 
 ### Note 1
 
-The _Crimes (Taxation Offences) Act 1980_ as shown in this compilation comprises Act No. 156, 1980 amended as indicated in the Tables below.
+The _Crimes (Taxation Offences) Act 1980_ as shown in this reprint comprises Act No. 156, 1980 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -719,8 +592,8 @@ The _Crimes (Taxation Offences) Act 1980_ as shown in this compilation comprises
   <col width="30%">
   <col width="16%">
   <col width="18%">
-  <col width="21%">
-  <col width="15%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <tr>
@@ -771,7 +644,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-S. 319(1): 14 Feb 1983 ( <i>see</i>s. 2(2)) 
+S. 319(1): 14 Feb 1983 ( <i>see</i> s. 2(2)) 
 Remainder: 14 Dec 1984</div>
   </td>
   <td>
@@ -791,7 +664,7 @@ Remainder: 14 Dec 1984</div>
   <td>
     <div>Ss. 3, 4(2), 11, 12 and Part XI 
 (ss. 54-56): 21 Aug 1981 
-Ss. 5, 18, 20, 22, 24, 28(2), 39, 40, 45, 48, 50, 51 and 53: 10 May 1985 ( <i>see</i>s. 2(3)) 
+Ss. 5, 18, 20, 22, 24, 28(2), 39, 40, 45, 48, 50, 51 and 53: 10 May 1985 ( <i>see </i>s. 2(3)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -809,7 +682,7 @@ Remainder: Royal Assent</div>
     <div>24 June 1986</div>
   </td>
   <td>
-    <div>24 June 1986 ( <i>see</i>s. 2(1))</div>
+    <div>24 June 1986 ( <i>see</i> s. 2(1))</div>
   </td>
   <td>
     <div>S. 2(2)</div>
@@ -1236,162 +1109,51 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Indirect Tax and Consequential Amendments) Act 1999</div>
-  </td>
-  <td>
-    <div>176, 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 8 (items 3-14): <i>(k)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Pay As You Go) Act 1999</div>
-  </td>
-  <td>
-    <div>178, 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 6, 8, 70-78): 1 July 2000 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 2(1A) (ad. by 179, 1999, Sch. 10 (item 19))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Tax Administration) Act 1999</div>
-  </td>
-  <td>
-    <div>179, 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 19): 22 Dec 1999 <i>(l)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Tax Administration) Act 1999</div>
-  </td>
-  <td>
-    <div>179, 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 10): 1 July 2000 <i>(m)</i> 
-Schedule 16 (item 1): <i>(m)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
 
 _(a)_     The _Crimes (Taxation Offences) Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No.1) 1986_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
 _(b)_    The _Crimes (Taxation Offences) Act 1980_ was amended by Part II (sections 3 and 4) only of the _Taxation Laws Amendment (Tax File Numbers) Act 1988_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsection (2), this Act commences on the day on which the _Privacy Act 1988_ commences.
+                  (1)   Subject to subsection (2), this Act commences on the day on which the _Privacy Act 1988_ commences.
 
 _(c)_     The _Sales Tax Amendment (Transitional) Act 1992_ was amended by subsection 61(2) only of the _Taxation Laws Amendment Act 1993_, subsection 2(2) of which provides as follows:
 
-                 (2)   Part 4 is taken to have commenced immediately after the commencement of the _Sales Tax Amendment (Transitional) Act 1992_.
+                  (2)   Part 4 is taken to have commenced immediately after the commencement of the _Sales Tax Amendment (Transitional) Act 1992_.
 
          The _Sales Tax Amendment (Transitional) Act 1992_ came into operation on 28 October 1992.
 
 _(d)_     The _Crimes (Taxation Offences) Act 1980_ was amended by section 58 only of the _Taxation Laws Amendment Act (No. 2) 1993_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
 _(e)_     The _Crimes (Taxation Offences) Act 1980_ was amended by Part 2 (sections 3-6) only of the _Taxation Laws Amendment Act (No. 3) 1993_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
 _(f)_      The _Crimes (Taxation Offences) Act 1980_ was amended by subsection 7(1) only of the _Taxation Laws Amendment Act (No. 3) 1994_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
 (_g_)     The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 2 (items 59, 60 and 64) only of the _Taxation Laws Amendment Act (No. 3) 1995_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
 _(h)_     The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 5 (items 44-46) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
 _(i)_      The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 2 (item 3) only of the _Crimes and Other Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
 _(j)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 4 (items 4 and 5) only of the _Taxation Laws Amendment Act (No. 3) 1998_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
-
-_(k)_     The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 8 (items 3-14) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_, subsection 2(17) of which provides as follows:
-
-Schedule 8—Other Acts
-
-               (17)   Schedule 8 commences immediately after the commencement of the _A New Tax System (Goods and Services Tax) Act 1999_. 
-
-         The _A New Tax System (Goods and Services Tax) Act 1999_ commenced on 1 July 2000.
-
-_(l)_ The _A New Tax System (Pay As You Go) Act 1999_ was amended by Schedule 10 (item 19) only of the _A New Tax System (Tax Administration) Act 1999_, subsection 2(11) of which provides as follows:
-
-               (11)   Subsection 2(1A) of the _A New Tax System (Pay As You Go) Act 1999_ (inserted by item 19 of Schedule 10 to this Act) commences, or is taken to have commenced, at the commencement of section 1 of that Act.
-
-_(m)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 11 (item 10) and Schedule 16 (item 1) only of the _A New Tax System (Tax Administration) Act 1999_, subsections 2(1) and (9)(b) of which provide as follows:
-
-                 (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the _A New Tax System (Pay As You Go) Act 1999_.
-
-                 (9)   The following provisions commence on 1 July 2000:
-
-                             (b)   Schedule 11 (other than item 44). 
-
-         Section 1 of the _A New Tax System (Pay As You Go) Act 1999_ commenced on 22 December 1999.
-
- 
+                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
  
 
@@ -1423,7 +1185,7 @@ _(m)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 11 (item
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 123, 1984; No. 47, 1985; Nos. 41 and 154, 1986; Nos. 58, 61, 140 and 145, 1987; No. 97, 1988; Nos. 20, 58 and 60, 1990; No. 92, 1992; No. 118, 1992 (as am. by No. 17, 1993); Nos. 18, 32 and 118, 1993; No. 138, 1994; No. 170, 1995; No. 43, 1996; No. 39, 1997; No. 47, 1998; Nos. 176, 178 and 179, 1999</div>
+    <div>am. No. 123, 1984; No. 47, 1985; Nos. 41 and 154, 1986; Nos. 58, 61, 140 and 145, 1987; No. 97, 1988; Nos. 20, 58 and 60, 1990; No. 92, 1992; No. 118, 1992 (as am. by No. 17, 1993); Nos. 18, 32 and 118, 1993; No. 138, 1994; No. 170, 1995; No. 43, 1996; No. 39, 1997; No. 47, 1998</div>
   </td>
 </tr>
 <tr>
@@ -1439,7 +1201,7 @@ _(m)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 11 (item
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 41, 1986; No. 145, 1987; No. 60, 1990; Nos. 92 and 118, 1992; No. 176, 1999</div>
+    <div>am. No. 41, 1986; No. 145, 1987; No. 60, 1990; Nos. 92 and 118, 1992</div>
   </td>
 </tr>
 <tr>
@@ -1448,14 +1210,6 @@ _(m)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 11 (item
   </td>
   <td>
     <div>am. No. 118, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to Heading to Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1535,7 +1289,7 @@ _(m)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 11 (item
     <div></div>
   </td>
   <td>
-    <div>am. No. 48, 1986; No. 176, 1999</div>
+    <div>am. No. 48, 1986</div>
   </td>
 </tr>
 <tr>
@@ -1584,54 +1338,6 @@ _(m)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 11 (item
   </td>
   <td>
     <div>ad. No. 92, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VIII (s. 18)</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IX (s. 19)</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part X (s. 20)</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
   </td>
 </tr></table>
 
