@@ -1,444 +1,443 @@
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image001.gif)
 
 # Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Act 2004
 
 **Act No. 135 of 2004 as amended**
 
-This compilation was prepared on 6 October 2006
- taking into account amendments up to Act No. 29 of 2006
+This compilation was prepared on 18 April 2006
+taking into account amendments up to Act No. 29 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Simplified outline of Act
+[3](#3).            Simplified outline of Act                                                                     1
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           2
 
-[5](#5).            Students receiving education at non-government schools
+[5](#5).            Students receiving education at non-government schools                  10
 
-[6](#6).            Funding level
+[6](#6).            Funding level                                                                                      11
 
-[7](#7).            Levels of education
+[7](#7).            Levels of education                                                                            11
 
-[8](#8).            SES score
+[8](#8).            SES score                                                                                           12
 
-[9](#9).            Approved authority
+[9](#9).            Approved authority                                                                          12
 
-[10](#10).          Nominated authority
+[10](#10).          Nominated authority                                                                         12
 
-[11](#11).          Approved government school community organisation
+[11](#11).          Approved government school community organisation                    13
 
 **Part 2—General provisions relating to grants** 
 
     **Division 1—Simplified outline of Part**
 
-[12](#12).          Simplified outline
+[12](#12).          Simplified outline                                                                               14
 
     **Division 2—Grants for government schools**
 
-[13](#13).          Division does not apply in relation to financial assistance under section 69 for approved government school community organisations
+[13](#13).          Division does not apply in relation to financial assistance under section 69 for approved government school community organisations                                                                   16
 
-[14](#14).          Agreement on conditions of financial assistance
+[14](#14).          Agreement on conditions of financial assistance                               16
 
-[15](#15).          Further commitment—student reports
+[15](#15).          Further commitment—student reports                                             18
 
-[16](#16).          Further conditions of financial assistance
+[16](#16).          Further conditions of financial assistance                                          19
 
-[17](#17).          General conditions of financial assistance
+[17](#17).          General conditions of financial assistance                                         19
 
-[18](#18).          Specific condition—financial accountability
+[18](#18).          Specific condition—financial accountability                                     19
 
-[19](#19).          Specific condition—educational accountability
+[19](#19).          Specific condition—educational accountability                                 20
 
-[20](#20).          Specific condition—non-fulfilment of conditions
+[20](#20).          Specific condition—non-fulfilment of conditions                             22
 
-[21](#21).          Specific condition—overpayment of financial assistance
+[21](#21).          Specific condition—overpayment of financial assistance                 23
 
     **Division 3—Grants for approved government school community organisations** 
 
         **Subdivision A—Conditions of grants for approved government school community organisations**
 
-[22](#22).          Agreement on conditions of financial assistance
+[22](#22).          Agreement on conditions of financial assistance                               24
 
-[23](#23).          General conditions of financial assistance
+[23](#23).          General conditions of financial assistance                                         24
 
-[24](#24).          Specific condition—financial accountability
+[24](#24).          Specific condition—financial accountability                                     25
 
-[25](#25).          Specific condition—other accountability requirements
+[25](#25).          Specific condition—other accountability requirements                     25
 
-[26](#26).          Specific condition—non-fulfilment of conditions
+[26](#26).          Specific condition—non-fulfilment of conditions                             26
 
-[27](#27).          Specific condition—overpayment of financial assistance
+[27](#27).          Specific condition—overpayment of financial assistance                 26
 
         **Subdivision B—Conditions of grants to States for approved government school community organisations**
 
-[28](#28).          General conditions of grant to State of financial assistance
+[28](#28).          General conditions of grant to State of financial assistance               26
 
-[29](#29).          Specific condition—non-fulfilment of conditions
+[29](#29).          Specific condition—non-fulfilment of conditions                             27
 
     **Division 4—Grants for non-government bodies** 
 
         **Subdivision A—Requirements for relevant authorities etc.**
 
-[30](#30).          Minister not to authorise payment to a State for a non-government body in certain circumstances
+[30](#30).          Minister not to authorise payment to a State for a non-government body in certain circumstances      28
 
-[31](#31).          Provisions that must be included in agreements
+[31](#31).          Provisions that must be included in agreements                                29
 
-[32](#32).          Further commitment—student reports
+[32](#32).          Further commitment—student reports                                             31
 
-[33](#33).          Provisions that may be included in agreements
+[33](#33).          Provisions that may be included in agreements                                 32
 
-[34](#34).          General requirements
+[34](#34).          General requirements                                                                         32
 
-[35](#35).          Specific requirement—financial accountability
+[35](#35).          Specific requirement—financial accountability                                 33
 
-[36](#36).          Specific requirement—educational accountability
+[36](#36).          Specific requirement—educational accountability                             33
 
-[37](#37).          Specific requirement—provision dealing with failure to comply within time limit
+[37](#37).          Specific requirement—provision dealing with failure to comply within time limit 35
 
-[38](#38).          Specific requirement—failure to comply with other requirements
+[38](#38).          Specific requirement—failure to comply with other requirements   35
 
         **Subdivision B—Conditions of grants to States for non-government bodies**
 
-[39](#39).          General conditions of grant to State of financial assistance
+[39](#39).          General conditions of grant to State of financial assistance               36
 
-[40](#40).          Specific condition—non-fulfilment of conditions
+[40](#40).          Specific condition—non-fulfilment of conditions                             36
 
     **Division 5—Miscellaneous**
 
-[41](#41).          Powers of Minister if amounts of grants become repayable
+[41](#41).          Powers of Minister if amounts of grants become repayable             37
 
-[42](#42).          Amount payable by a State to the Commonwealth is a debt
+[42](#42).          Amount payable by a State to the Commonwealth is a debt            37
 
-[43](#43).          Powers of Minister if amounts payable by approved government school community organisations
+[43](#43).          Powers of Minister if amounts payable by approved government school community organisations    37
 
-[44](#44).          Powers of Minister if amounts payable by relevant authorities
+[44](#44).          Powers of Minister if amounts payable by relevant authorities       38
 
-[45](#45).          Determinations requiring repayments
+[45](#45).          Determinations requiring repayments                                               39
 
 **Part 3—Lists of non-government schools and approved school systems** 
 
     **Division 1—Funding of non-government schools**
 
-[46](#46).          Funding of non-government schools
+[46](#46).          Funding of non-government schools                                                  40
 
     **Division 2—List of non-government schools**
 
-[47](#47).          List of non-government schools
+[47](#47).          List of non-government schools                                                        41
 
     **Division 3—List of approved school systems**
 
-[48](#48).          List of approved school systems
+[48](#48).          List of approved school systems                                                      43
 
 **Part 4—Varying lists** 
 
     **Division 1—Simplified outline of Part**
 
-[49](#49).          Simplified outline
+[49](#49).          Simplified outline                                                                               44
 
     **Division 2—Varying lists of non-government schools and approved school systems**
 
-[50](#50).          Varying list of non-government schools
+[50](#50).          Varying list of non-government schools                                            45
 
-[51](#51).          Varying list of approved school systems
+[51](#51).          Varying list of approved school systems                                          46
 
     **Division 3—Change of funding level**
 
-[52](#52).          Application to change funding level of non-government school due to incorrect SES score etc 
+[52](#52).          Application to change funding level of non-government school due to incorrect SES score etc              48
 
-[53](#53).          Change of funding level of non-government school due to incorrect SES score etc 
+[53](#53).          Change of funding level of non-government school due to incorrect SES score etc                 48
 
     **Division 4—Change of approved authority**
 
-[54](#54).          Application of Division
+[54](#54).          Application of Division                                                                     50
 
-[55](#55).          How to obtain Ministerial approval of proposal
+[55](#55).          How to obtain Ministerial approval of proposal                              50
 
-[56](#56).          Decision by Minister on application
+[56](#56).          Decision by Minister on application                                                 50
 
-[57](#57).          Varying list of non-government schools
+[57](#57).          Varying list of non-government schools                                            51
 
     **Division 5—Change in systemic status**
 
-[58](#58).          Proposal for a non-systemic school to become a member of an approved school system
+[58](#58).          Proposal for a non-systemic school to become a member of an approved school system      52
 
-[59](#59).          Proposal for a school to cease to be a member of an approved school system
+[59](#59).          Proposal for a school to cease to be a member of an approved school system       53
 
     **Division 6—Changes to schools or education provided**
 
-[60](#60).          Application to vary list of non-government schools
+[60](#60).          Application to vary list of non-government schools                         55
 
-[61](#61).          Decision by Minister on application
+[61](#61).          Decision by Minister on application                                                 56
 
-[62](#62).          Prerequisites for variation of list
+[62](#62).          Prerequisites for variation of list                                                       57
 
-[63](#63).          Application relating to previous program year
+[63](#63).          Application relating to previous program year                                 58
 
     **Division 7—Miscellaneous**
 
-[64](#64).          Variation to include funding level in certain circumstances
+[64](#64).          Variation to include funding level in certain circumstances               59
 
-[65](#65).          Minister to give notice to authority of determination
+[65](#65).          Minister to give notice to authority of determination                       59
 
-[66](#66).          Determination may be given retrospective effect
+[66](#66).          Determination may be given retrospective effect                              59
 
-[67](#67).          Overseas students disregarded
+[67](#67).          Overseas students disregarded                                                           60
 
 **Part 5—Grants for education at government schools** 
 
     **Division 1—Grants for general recurrent expenditure**
 
-[68](#68).          Grants for general recurrent expenditure
+[68](#68).          Grants for general recurrent expenditure                                           61
 
     **Division 2—Capital grants**
 
-[69](#69).          Authorising payments of capital grants
+[69](#69).          Authorising payments of capital grants                                            62
 
 **Part 6—Grants for non-government schools** 
 
     **Division 1—Simplified outline of Part**
 
-[70](#70).          Simplified outline
+[70](#70).          Simplified outline                                                                               63
 
     **Division 2—Grants for general recurrent expenditure** 
 
         **Subdivision A—Simplified outline of Division**
 
-[71](#71).          Simplified outline
+[71](#71).          Simplified outline                                                                               64
 
         **Subdivision B—Application**
 
-[72](#72).          Application of Division
+[72](#72).          Application of Division                                                                     64
 
-[73](#73).          Application of Subdivision C—current SES funding
+[73](#73).          Application of Subdivision C—current SES funding                        64
 
-[74](#74).          Application of Subdivision D—maintained year 2000 funding
+[74](#74).          Application of Subdivision D—maintained year 2000 funding        65
 
-[75](#75).          Application of Subdivision E—maintained Catholic school funding
+[75](#75).          Application of Subdivision E—maintained Catholic school funding 66
 
-[76](#76).          Application of Subdivision F—guaranteed year 2004 SES funding
+[76](#76).          Application of Subdivision F—guaranteed year 2004 SES funding  67
 
-[77](#77).          Application of Subdivision G—special schools and special assistance schools
+[77](#77).          Application of Subdivision G—special schools and special assistance schools     68
 
         **Subdivision C—Current SES funding**
 
-[78](#78).          Authorising payments for non-systemic schools
+[78](#78).          Authorising payments for non-systemic schools                              69
 
-[79](#79).          Authorising payments for approved school systems
+[79](#79).          Authorising payments for approved school systems                       69
 
-[80](#80).          Primary student amount
+[80](#80).          Primary student amount                                                                    70
 
-[81](#81).          Secondary student amount
+[81](#81).          Secondary student amount                                                                71
 
         **Subdivision D—Maintained year 2000 funding**
 
-[82](#82).          Authorising payments for non-systemic schools
+[82](#82).          Authorising payments for non-systemic schools                              71
 
-[83](#83).          Authorising payments for approved school systems
+[83](#83).          Authorising payments for approved school systems                       72
 
-[84](#84).          Primary student amount
+[84](#84).          Primary student amount                                                                    72
 
-[85](#85).          Secondary student amount
+[85](#85).          Secondary student amount                                                                73
 
         **Subdivision E—Maintained Catholic school funding**
 
-[86](#86).          Authorising payments for approved Catholic school systems
+[86](#86).          Authorising payments for approved Catholic school systems         73
 
-[87](#87).          Primary student amount
+[87](#87).          Primary student amount                                                                    74
 
-[88](#88).          Secondary student amount
+[88](#88).          Secondary student amount                                                                74
 
         **Subdivision F—Guaranteed year 2004 SES funding**
 
-[89](#89).          Authorising payments for non-systemic schools
+[89](#89).          Authorising payments for non-systemic schools                              75
 
-[90](#90).          Authorising payments for approved school systems
+[90](#90).          Authorising payments for approved school systems                       76
 
-[91](#91).          Primary student amount
+[91](#91).          Primary student amount                                                                    76
 
-[92](#92).          Secondary student amount
+[92](#92).          Secondary student amount                                                                77
 
         **Subdivision G—Special schools and special assistance schools**
 
-[93](#93).          Authorising payments for non-systemic schools
+[93](#93).          Authorising payments for non-systemic schools                              77
 
-[94](#94).          Authorising payments for approved school systems
+[94](#94).          Authorising payments for approved school systems                       78
 
-[95](#95).          Primary student amount
+[95](#95).          Primary student amount                                                                    78
 
-[96](#96).          Secondary student amount
+[96](#96).          Secondary student amount                                                                79
 
         **Subdivision H—Distance education amounts**
 
-[97](#97).          Primary distance education student amount
+[97](#97).          Primary distance education student amount                                      79
 
-[98](#98).          Secondary distance education student amount
+[98](#98).          Secondary distance education student amount                                  79
 
     **Division 3—Capital grants**
 
-[99](#99).          Authorisation of payment of capital grants
+[99](#99).          Authorisation of payment of capital grants                                      81
 
     **Division 4—Other grants for non-government rural student hostels**
 
-[100](#100).        Authorisation of payment of other grants for non-government rural student hostels
+[100](#100).        Authorisation of payment of other grants for non-government rural student hostels             82
 
     **Division 5—Grants of short term emergency assistance**
 
-[101](#101).        Grants of short term emergency assistance
+[101](#101).        Grants of short term emergency assistance                                       83
 
     **Division 6—Grants to provide establishment assistance**
 
-[102](#102).        Grants to provide establishment assistance
+[102](#102).        Grants to provide establishment assistance                                      84
 
 **Part 7—Grants for education in country areas**
 
-[103](#103).        Object of Part
+[103](#103).        Object of Part                                                                                    86
 
-[104](#104).        Grants for government schools in country areas
+[104](#104).        Grants for government schools in country areas                               86
 
-[105](#105).        Grants for non-government schools in country areas
+[105](#105).        Grants for non-government schools in country areas                        86
 
-[106](#106).        Ceiling for grants under this Part
+[106](#106).        Ceiling for grants under this Part                                                       86
 
 **Part 8—Grants to foster languages education**
 
-[107](#107).        Object of Part
+[107](#107).        Object of Part                                                                                    87
 
-[108](#108).        Grants for government schools etc 
+[108](#108).        Grants for government schools etc                                                    87
 
-[109](#109).        Grants for non-government schools
+[109](#109).        Grants for non-government schools                                                  87
 
-[110](#110).        Grants for national projects to foster languages education
+[110](#110).        Grants for national projects to foster languages education                88
 
-[111](#111).        Ceiling for grants under this Part
+[111](#111).        Ceiling for grants under this Part                                                       88
 
 **Part 9—Grants for teaching English to new arrivals**
 
-[112](#112).        Object of Part
+[112](#112).        Object of Part                                                                                    89
 
-[113](#113).        Grants for teaching English as a second language in government schools
+[113](#113).        Grants for teaching English as a second language in government schools                89
 
-[114](#114).        Grants for teaching English as a second language in non-government schools
+[114](#114).        Grants for teaching English as a second language in non-government schools         89
 
 **Part 10—Literacy, numeracy and special learning needs** 
 
     **Division 1—Object of Part**
 
-[115](#115).        Object of Part
+[115](#115).        Object of Part                                                                                    91
 
     **Division 2—Grants for schools**
 
-[116](#116).        Grants for government schools and centres
+[116](#116).        Grants for government schools and centres                                       92
 
-[117](#117).        Grants for non-government schools
+[117](#117).        Grants for non-government schools                                                  92
 
-[118](#118).        Grants for both government schools and centres and non-government schools
+[118](#118).        Grants for both government schools and centres and non-government schools      93
 
     **Division 3—Grants for non-government centres**
 
-[119](#119).        Grants for non-government centres
+[119](#119).        Grants for non-government centres                                                   94
 
     **Division 4—Grants for national projects**
 
-[120](#120).        Grants for national projects
+[120](#120).        Grants for national projects                                                               95
 
 **Part 11—Miscellaneous** 
 
     **Division 1—Average Government School Recurrent Costs**
 
-[121](#121).        Changes to Average Government School Recurrent Costs
+[121](#121).        Changes to Average Government School Recurrent Costs                96
 
-[122](#122).        Changes to amounts for primary education
+[122](#122).        Changes to amounts for primary education                                       96
 
-[123](#123).        Changes to amounts for secondary education
-
-    **Division 1A—Grant amounts for particular program years**
-
-[123A](#123A).     Changes to grant amounts for particular program years
+[123](#123).        Changes to amounts for secondary education                                   97
 
     **Division 2—Cost supplementation**
 
-[124](#124).        Recurrent grants—general
+[124](#124).        Recurrent grants—general                                                                  98
 
-[126](#126).        Capital grants for government schools and non-government schools
+[125](#125).        Recurrent grants—guarantee amounts                                               99
 
-[127](#127).        Other grants for non-government rural student hostels
+[126](#126).        Capital grants for government schools and non-government schools 99
+
+[127](#127).        Other grants for non-government rural student hostels                     99
 
     **Division 3—Timing of payments etc.**
 
-[128](#128).        Minister may fix amounts and times of payment of financial assistance
+[128](#128).        Minister may fix amounts and times of payment of financial assistance                101
 
-[129](#129).        Advances
+[129](#129).        Advances                                                                                         101
 
-[130](#130).        Determination authorising the making of payments may authorise Minister to determine amounts of payments
+[130](#130).        Determination authorising the making of payments may authorise Minister to determine amounts of payments                                                                                                         101
 
     **Division 4—False or misleading statements**
 
-[131](#131).        Payment reduction for false or misleading statement
+[131](#131).        Payment reduction for false or misleading statement                      102
 
-[132](#132).        Change of SES score due to false or misleading statement
+[132](#132).        Change of SES score due to false or misleading statement              103
 
     **Division 5—Appropriation and authority to borrow**
 
-[133](#133).        Appropriation
+[133](#133).        Appropriation                                                                                 104
 
-[134](#134).        Authority to borrow
+[134](#134).        Authority to borrow                                                                        104
 
     **Division 6—Administrative matters**
 
-[135](#135).        Determinations, approvals etc  by Minister
+[135](#135).        Determinations, approvals etc  by Minister                                   105
 
-[136](#136).        Revocation or variation of determinations or approvals by Minister
+[136](#136).        Revocation or variation of determinations or approvals by Minister 105
 
-[137](#137).        Delegation
+[137](#137).        Delegation                                                                                        106
 
-[138](#138).        Report by Minister
+[138](#138).        Report by Minister                                                                         106
 
     **Division 7—Overseas students**
 
-[139](#139).        Overseas students
+[139](#139).        Overseas students                                                                            108
 
     **Division 8—Regulations**
 
-[140](#140).        Regulations
+[140](#140).        Regulations                                                                                      109
 
 **Part 12—Transitional provisions**
 
-[141](#141).        Application of this Part
+[141](#141).        Application of this Part                                                                   110
 
-[142](#142).        Approved authority
+[142](#142).        Approved authority                                                                        110
 
-[143](#143).        Levels of education
+[143](#143).        Levels of education                                                                          110
 
-[144](#144).        Previous list of non-government schools
+[144](#144).        Previous list of non-government schools                                         110
 
-[145](#145).        Previous list of approved school systems
+[145](#145).        Previous list of approved school systems                                       111
 
-[146](#146).        SES scores and funding levels of existing non-systemic schools
+[146](#146).        SES scores and funding levels of existing non-systemic schools     111
 
-[147](#147).        SES scores and funding levels of existing systemic schools
+[147](#147).        SES scores and funding levels of existing systemic schools            112
 
-[148](#148).        Overseas students
+[148](#148).        Overseas students                                                                            112
 
-[149](#149).        Block grant authority
+[149](#149).        Block grant authority                                                                       113
 
-[150](#150).        Regulations
+[150](#150).        Regulations                                                                                      113
 
-[151](#151).        Guidelines
+[151](#151).        Guidelines                                                                                        114
 
 **Schedule 1—Average Government School Recurrent Costs (AGSRC)** 
 
@@ -476,13 +475,14 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to grant financial assistance to the States for 2005 to 2008 for primary and secondary education, and for related purposes
 
 ## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Act 2004_.
+                   This Act may be cited as the _Schools Assistance (Learning Together—Achievement Through Choice and__Opportunity__) Act 2004_.
 
 ##### <a id="2"></a>2  Commencement
 
@@ -2022,7 +2022,7 @@ but does not include a person, or a person included in a class of persons, deter
 
                    The Minister may make a determination authorising payment of financial assistance to a State for recurrent expenditure of government schools in the State for a program year of an amount that is not more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image002.gif)
 
 where:
 
@@ -2136,11 +2136,11 @@ School provides both primary and secondary education
 
              (4)  This subsection applies to a school if the school provides both primary and secondary education and the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image003.gif)
 
 exceeds the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image004.gif)
 
 where:
 
@@ -2228,46 +2228,48 @@ if:
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>primary education (whether or not the school also provides secondary education)</div>
-  </td>
-  <td>
-    <div>the amount in the table in Part 1 of Schedule 4 for that program year
-      and the school’s current SES funding level</div>
-  </td>
-  <td>
-    <div>the school’s year 2004 primary amount</div>
-  </td>
-  <td>
-    <div>the school’s current SES funding level amount for that level of education
-      has equalled or exceeded the school’s year 2004 SES funding level amount
-      for that level of education.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>secondary education (whether or not the school also provides primary education)</div>
-  </td>
-  <td>
-    <div>the amount in the table in Part 2 of Schedule 4 for that program year
-      and the school’s current SES funding level</div>
-  </td>
-  <td>
-    <div>the school’s year 2004 secondary amount</div>
-  </td>
-  <td>
-    <div>the school’s current SES funding level amount for that level of education
-      has equalled or exceeded the school’s year 2004 SES funding level amount
-      for that level of education.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>primary education (whether or not the school also provides secondary education)</div>
+    </td>
+    <td>
+      <div>the amount in the table in Part 1 of Schedule 4 for that program year
+        and the school’s current SES funding level</div>
+    </td>
+    <td>
+      <div>the school’s year 2004 primary amount</div>
+    </td>
+    <td>
+      <div>the school’s current SES funding level amount for that level of education
+        has equalled or exceeded the school’s year 2004 SES funding level amount
+        for that level of education.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>secondary education (whether or not the school also provides primary education)</div>
+    </td>
+    <td>
+      <div>the amount in the table in Part 2 of Schedule 4 for that program year
+        and the school’s current SES funding level</div>
+    </td>
+    <td>
+      <div>the school’s year 2004 secondary amount</div>
+    </td>
+    <td>
+      <div>the school’s current SES funding level amount for that level of education
+        has equalled or exceeded the school’s year 2004 SES funding level amount
+        for that level of education.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="77"></a>77  Application of Subdivision G—special schools and special assistance schools
 
@@ -2323,7 +2325,7 @@ if:
 
                    For the purposes of paragraphs 78(2)(a) and 79(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image005.gif)
 
 where:
 
@@ -2333,7 +2335,7 @@ where:
 
                    For the purposes of paragraphs 78(3)(a) and 79(3)(a), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image006.gif)
 
 where:
 
@@ -2383,7 +2385,7 @@ where:
 
                    For the purposes of paragraphs 82(2)(a) and 83(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image007.gif)
 
 where:
 
@@ -2393,7 +2395,7 @@ where:
 
                    For the purposes of paragraphs 82(2)(b) and 83(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image008.gif)
 
 where:
 
@@ -2425,7 +2427,7 @@ where:
 
                    For the purposes of paragraph 86(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image009.gif)
 
 where:
 
@@ -2435,7 +2437,7 @@ where:
 
                    For the purposes of paragraphs 86(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image010.gif)
 
 where:
 
@@ -2489,13 +2491,13 @@ where:
 
                    For the purposes of paragraphs 89(2)(a) and 90(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image011.gif)
 
 ##### <a id="92"></a>92  Secondary student amount
 
                    For the purposes of paragraphs 89(3)(a) and 90(3)(a), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image012.gif)
 
 #### Subdivision G—Special schools and special assistance schools
 
@@ -2541,7 +2543,7 @@ where:
 
                    For the purposes of paragraphs 93(2)(a) and 94(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image013.gif)
 
 where:
 
@@ -2551,7 +2553,7 @@ where:
 
                    For the purposes of paragraphs 93(2)(b) and 94(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image014.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image014.gif)
 
 where:
 
@@ -2563,7 +2565,7 @@ where:
 
                    For the purposes of paragraphs 78(2)(b), 79(2)(b), 82(2)(c), 83(2)(c), 86(2)(c), 89(2)(b), 90(2)(b), 93(2)(c) and 94(2)(c), work out the amount for the school’s primary distance education students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image015.gif)
 
 where:
 
@@ -2573,7 +2575,7 @@ where:
 
                    For the purposes of paragraphs 78(3)(b), 79(3)(b), 82(2)(d), 83(2)(d), 86(2)(d), 89(3)(b), 90(3)(b), 93(2)(d) and 94(2)(d), work out the amount for the school’s secondary distance education students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image016.gif)
 
 where:
 
@@ -2609,7 +2611,7 @@ Note:          Assistance under this section is in addition to
 
              (2)  The amount determined under subsection (1) for the funded hostel and the program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image017.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image017.gif)
 
 where:
 
@@ -2655,7 +2657,7 @@ Maximum amount
 
              (4)  The amount under subsection (1) or (2) for a program year in relation to a school must not exceed the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image018.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image018.gif)
 
 where:
 
@@ -2755,7 +2757,7 @@ Note:          Section 111 sets a ceiling on grants to the S
 
              (2)  However, the total amount authorised to be paid to a State under subsection (1) for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image019.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image019.gif)
 
 where:
 
@@ -2771,7 +2773,7 @@ where:
 
              (2)  However, the total amount paid to a State under subsection (1) for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image020.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image020.gif)
 
 where:
 
@@ -2811,7 +2813,7 @@ in the State to improve the learning outcomes of students who are educationally 
 
              (2)  The total amount authorised to be paid to the States under this section for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image021.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image021.gif)
 
 where:
 
@@ -2825,7 +2827,7 @@ where:
 
              (2)  The total amount authorised to be paid to the States under this section for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image022.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image022.gif)
 
 where:
 
@@ -2917,7 +2919,7 @@ in the State to improve the learning outcomes of students who are educationally 
 
              (2)  The amount in Schedule 2 for primary education for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image023.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image023.gif)
 
 where:
 
@@ -2925,9 +2927,9 @@ where:
 
              (3)  Each amount opposite a percentage of AGSRC in Parts 1 and 3 of Schedule 4 for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image024.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image024.gif)
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image025.gif)          (4)  If an amount worked out under subsection (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
+<sub>![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image025.gif)</sub>          (4)  If an amount worked out under subsection (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
 
 ##### <a id="123"></a>123  Changes to amounts for secondary education
 
@@ -2935,7 +2937,7 @@ where:
 
              (2)  The amount in Schedule 2 for secondary education for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image026.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image026.gif)
 
 where:
 
@@ -2943,33 +2945,9 @@ where:
 
              (3)  Each amount opposite a percentage of AGSRC in Parts 2 and 4 of Schedule 4 for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image027.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image027.gif)
 
              (4)  If an amount worked out under subsection (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
-
-### Division 1A—Grant amounts for particular program years
-
-##### <a id="123A"></a>123A  Changes to grant amounts for particular program years
-
-             (1)  The regulations may specify an amount for a relevant column for a particular program year.
-
-             (2)  If regulations are made under subsection (1) specifying an amount for a relevant column for a program year, this Act has effect as if the amount specified in the relevant column for the program year were the amount specified in the regulations for that relevant column for that program year.
-
-             (3)  To avoid doubt, an amount specified in regulations made under subsection (1) may be affected by the operation of section 124 or 126.
-
-             (4)  The amount the regulations may specify under subsection (1) may be nil.
-
-             (5)  For the purposes of this section, each of the following columns is a **_relevant column_**:
-
-                     (a)  column 2 or 3 of the table in Schedule 3;
-
-                     (b)  column 2 or 3 of the table in Schedule 5;
-
-                     (c)  column 2 of the table in Schedule 7;
-
-                     (d)  column 2 or 3 of the table in Part 1 of Schedule 8;
-
-                     (e)  column 2, 3, 4, 5 or 6 of the table in Part 1 of Schedule 9.
 
 ### Division 2—Cost supplementation
 
@@ -2989,7 +2967,7 @@ where:
 
 is replaced for the program year by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image028.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image028.gif)
 
 where:
 
@@ -3009,6 +2987,14 @@ where:
 
                      (b)  a prescribed body that has a corresponding function.
 
+##### <a id="125"></a>125  Recurrent grants—guarantee amounts
+
+             (1)  The regulations may specify an amount for column 3 or 5 of the table in Part 1 of Schedule 9 for a particular program year.
+
+             (2)  If regulations are made under subsection (1), this Act has effect as if the amount specified in column 3 or 5 of the table in Part 1 of Schedule 9 for that program year were the amount specified in the regulations for that column for that program year.
+
+             (3)  The amount the regulations may specify under subsection (1) may be nil.
+
 ##### <a id="126"></a>126  Capital grants for government schools and non-government schools
 
              (1)  Each amount (the **_capital amount_**) in:
@@ -3019,7 +3005,7 @@ where:
 
 for a program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00574/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image029.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00225/Html/92F19F7095D8D9CECA25716200022C8B/$FILE/image029.gif)
 
 where:
 
@@ -3392,102 +3378,107 @@ Educational accountability—performance targets
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>section 7 of the
-      <i>States Grants (Primary and Secondary Education Assistance) Act 2000</i>
-    </div>
-  </td>
-  <td>
-    <div>section 8 of the
-      <i>Schools Assistance (Learning Together—Achievement Through Choice and Opportunity)
-        Act 2004</i>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>
-      <i>States Grants (Primary and Secondary Education Assistance) (SES Scores
-        Guidelines) Approval 2000</i>
-    </div>
-  </td>
-  <td>
-    <div>
-      <i>States Grants (Primary and Secondary Education Assistance) (SES Scores
-        Guidelines) Approval 2004</i>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>1 January 2001</div>
-  </td>
-  <td>
-    <div>1 January 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>
-      <i>States Grants (Primary and Secondary Education Assistance) Act 2000</i>
-    </div>
-  </td>
-  <td>
-    <div>
-      <i>Schools Assistance (Learning Together—Achievement Through Choice and Opportunity)
-        Act 2004</i>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>2000, 2001, 2002, 2003 or 2004 calendar year</div>
-  </td>
-  <td>
-    <div>2003, 2004, 2005, 2006, 2007 or 2008 calendar year</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>1996 Census of Population and Housing</div>
-  </td>
-  <td>
-    <div>2001 Census of Population and Housing</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>the document entitled Funding Arrangements for Non-Government Schools
-      2001-2004: SES Dimension Scores for Census Collection Districts (CDs) based
-      on the SES Index for General Recurrent Grants Funding</div>
-  </td>
-  <td>
-    <div>the document entitled SES Dimension Scores for the Census Collection Districts
-      (CDs) based on the SES Index for General Recurrent Grants Funding 2005-2008</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>section 7 of the
+        <i>States Grants (Primary and Secondary Education Assistance) Act 2000</i>
+      </div>
+    </td>
+    <td>
+      <div>section 8 of the
+        <i>Schools Assistance (Learning Together—Achievement Through Choice and</i>
+        <i>Opportunity</i>
+        <i>) Act 2004</i>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>
+        <i>States Grants (Primary and Secondary Education Assistance) (SES Scores
+          Guidelines) Approval 2000</i>
+      </div>
+    </td>
+    <td>
+      <div>
+        <i>States Grants (Primary and Secondary Education Assistance) (SES Scores
+          Guidelines) Approval 2004</i>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>1 January 2001</div>
+    </td>
+    <td>
+      <div>1 January 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>
+        <i>States Grants (Primary and Secondary Education Assistance) Act 2000</i>
+      </div>
+    </td>
+    <td>
+      <div>
+        <i>Schools Assistance (Learning Together—Achievement Through Choice and</i>
+        <i>Opportunity</i>
+        <i>) Act 2004</i>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>2000, 2001, 2002, 2003 or 2004 calendar year</div>
+    </td>
+    <td>
+      <div>2003, 2004, 2005, 2006, 2007 or 2008 calendar year</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>1996 Census of Population and Housing</div>
+    </td>
+    <td>
+      <div>2001 Census of Population and Housing</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>the document entitled Funding Arrangements for Non-Government Schools
+        2001-2004: SES Dimension Scores for Census Collection Districts (CDs) based
+        on the SES Index for General Recurrent Grants Funding</div>
+    </td>
+    <td>
+      <div>the document entitled SES Dimension Scores for the Census Collection Districts
+        (CDs) based on the SES Index for General Recurrent Grants Funding 2005-2008</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 # Schedule 1—Average Government School Recurrent Costs (AGSRC)
 
@@ -3559,56 +3550,58 @@ _Note:       See the definitions of AGSRC in section 4._
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Primary</div>
-  </td>
-  <td colspan="2">
-    <div>6,580</div>
-  </td>
-  <td>
-    <div>6,580</div>
-  </td>
-  <td colspan="2">
-    <div>6,580</div>
-  </td>
-  <td>
-    <div>6,580</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Secondary</div>
-  </td>
-  <td colspan="2">
-    <div>8,595</div>
-  </td>
-  <td>
-    <div>8,595</div>
-  </td>
-  <td colspan="2">
-    <div>8,595</div>
-  </td>
-  <td>
-    <div>8,595</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>Primary</div>
+    </td>
+    <td colspan="2">
+      <div>6,580</div>
+    </td>
+    <td>
+      <div>6,580</div>
+    </td>
+    <td colspan="2">
+      <div>6,580</div>
+    </td>
+    <td>
+      <div>6,580</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>Secondary</div>
+    </td>
+    <td colspan="2">
+      <div>8,595</div>
+    </td>
+    <td>
+      <div>8,595</div>
+    </td>
+    <td colspan="2">
+      <div>8,595</div>
+    </td>
+    <td>
+      <div>8,595</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
 
 Note:          The operation of section 121 may affect the amounts in this Schedule.
 
@@ -3686,65 +3679,67 @@ _Note:       See section 68._
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td colspan="2">
-    <div>Primary education</div>
-  </td>
-  <td>
-    <div>8.9</div>
-  </td>
-  <td colspan="2">
-    <div>586</div>
-  </td>
-  <td colspan="2">
-    <div>586</div>
-  </td>
-  <td colspan="2">
-    <div>586</div>
-  </td>
-  <td>
-    <div>586</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td colspan="2">
-    <div>Secondary education</div>
-  </td>
-  <td>
-    <div>10.0</div>
-  </td>
-  <td colspan="2">
-    <div>860</div>
-  </td>
-  <td colspan="2">
-    <div>860</div>
-  </td>
-  <td colspan="2">
-    <div>860</div>
-  </td>
-  <td>
-    <div>860</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td colspan="2">
+      <div>Primary education</div>
+    </td>
+    <td>
+      <div>8.9</div>
+    </td>
+    <td colspan="2">
+      <div>586</div>
+    </td>
+    <td colspan="2">
+      <div>586</div>
+    </td>
+    <td colspan="2">
+      <div>586</div>
+    </td>
+    <td>
+      <div>586</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td colspan="2">
+      <div>Secondary education</div>
+    </td>
+    <td>
+      <div>10.0</div>
+    </td>
+    <td colspan="2">
+      <div>860</div>
+    </td>
+    <td colspan="2">
+      <div>860</div>
+    </td>
+    <td colspan="2">
+      <div>860</div>
+    </td>
+    <td>
+      <div>860</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
 
 Note:          The operation of sections 121, 122 and 123 may affect the amounts in columns 3, 4, 5 and 6.
 
@@ -3794,106 +3789,108 @@ _Note:       See section 69._
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>2005</div>
-  </td>
-  <td>
-    <div>249,000</div>
-  </td>
-  <td>
-    <div>35,100</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>2006</div>
-  </td>
-  <td>
-    <div>249,000</div>
-  </td>
-  <td>
-    <div>478,233</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>2007</div>
-  </td>
-  <td>
-    <div>249,000</div>
-  </td>
-  <td>
-    <div>186,667</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>2008</div>
-  </td>
-  <td>
-    <div>249,000</div>
-  </td>
-  <td>
-    <div>0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>2009</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>2010</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>2011</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>2005</div>
+    </td>
+    <td>
+      <div>249,000</div>
+    </td>
+    <td>
+      <div>35,100</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>2006</div>
+    </td>
+    <td>
+      <div>249,000</div>
+    </td>
+    <td>
+      <div>478,233</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>2007</div>
+    </td>
+    <td>
+      <div>249,000</div>
+    </td>
+    <td>
+      <div>186,667</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>2008</div>
+    </td>
+    <td>
+      <div>249,000</div>
+    </td>
+    <td>
+      <div>0</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>2009</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>2010</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>2011</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+</tbody></table>
 
-Note 1:       The operation of sections 123A and 126 may affect the amount of the grants.
+Note 1:       The operation of section 126 may affect the amount of the grants in column 2.
 
 Note 2:       Amounts for program years 2009, 2010 and 2011 will be inserted by later amending Acts.
 
@@ -3973,1074 +3970,1076 @@ _Note:       See sections 4, 78 to 88, 93 to 96 and 144 to 147._
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>130 or greater</div>
-  </td>
-  <td>
-    <div>13.7</div>
-  </td>
-  <td>
-    <div>902</div>
-  </td>
-  <td>
-    <div>902</div>
-  </td>
-  <td>
-    <div>902</div>
-  </td>
-  <td colspan="2">
-    <div>902</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>129</div>
-  </td>
-  <td>
-    <div>15.0</div>
-  </td>
-  <td>
-    <div>987</div>
-  </td>
-  <td>
-    <div>987</div>
-  </td>
-  <td>
-    <div>987</div>
-  </td>
-  <td colspan="2">
-    <div>987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>128</div>
-  </td>
-  <td>
-    <div>16.2</div>
-  </td>
-  <td>
-    <div>1,066</div>
-  </td>
-  <td>
-    <div>1,066</div>
-  </td>
-  <td>
-    <div>1,066</div>
-  </td>
-  <td colspan="2">
-    <div>1,066</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>127</div>
-  </td>
-  <td>
-    <div>17.5</div>
-  </td>
-  <td>
-    <div>1,152</div>
-  </td>
-  <td>
-    <div>1,152</div>
-  </td>
-  <td>
-    <div>1,152</div>
-  </td>
-  <td colspan="2">
-    <div>1,152</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>126</div>
-  </td>
-  <td>
-    <div>18.7</div>
-  </td>
-  <td>
-    <div>1,231</div>
-  </td>
-  <td>
-    <div>1,231</div>
-  </td>
-  <td>
-    <div>1,231</div>
-  </td>
-  <td colspan="2">
-    <div>1,231</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>125</div>
-  </td>
-  <td>
-    <div>20.0</div>
-  </td>
-  <td>
-    <div>1,316</div>
-  </td>
-  <td>
-    <div>1,316</div>
-  </td>
-  <td>
-    <div>1,316</div>
-  </td>
-  <td colspan="2">
-    <div>1,316</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>124</div>
-  </td>
-  <td>
-    <div>21.2</div>
-  </td>
-  <td>
-    <div>1,395</div>
-  </td>
-  <td>
-    <div>1,395</div>
-  </td>
-  <td>
-    <div>1,395</div>
-  </td>
-  <td colspan="2">
-    <div>1,395</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>123</div>
-  </td>
-  <td>
-    <div>22.5</div>
-  </td>
-  <td>
-    <div>1,481</div>
-  </td>
-  <td>
-    <div>1,481</div>
-  </td>
-  <td>
-    <div>1,481</div>
-  </td>
-  <td colspan="2">
-    <div>1,481</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>122</div>
-  </td>
-  <td>
-    <div>23.7</div>
-  </td>
-  <td>
-    <div>1,560</div>
-  </td>
-  <td>
-    <div>1,560</div>
-  </td>
-  <td>
-    <div>1,560</div>
-  </td>
-  <td colspan="2">
-    <div>1,560</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>121</div>
-  </td>
-  <td>
-    <div>25.0</div>
-  </td>
-  <td>
-    <div>1,645</div>
-  </td>
-  <td>
-    <div>1,645</div>
-  </td>
-  <td>
-    <div>1,645</div>
-  </td>
-  <td colspan="2">
-    <div>1,645</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>120</div>
-  </td>
-  <td>
-    <div>26.2</div>
-  </td>
-  <td>
-    <div>1,724</div>
-  </td>
-  <td>
-    <div>1,724</div>
-  </td>
-  <td>
-    <div>1,724</div>
-  </td>
-  <td colspan="2">
-    <div>1,724</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>119</div>
-  </td>
-  <td>
-    <div>27.5</div>
-  </td>
-  <td>
-    <div>1,810</div>
-  </td>
-  <td>
-    <div>1,810</div>
-  </td>
-  <td>
-    <div>1,810</div>
-  </td>
-  <td colspan="2">
-    <div>1,810</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>118</div>
-  </td>
-  <td>
-    <div>28.7</div>
-  </td>
-  <td>
-    <div>1,889</div>
-  </td>
-  <td>
-    <div>1,889</div>
-  </td>
-  <td>
-    <div>1,889</div>
-  </td>
-  <td colspan="2">
-    <div>1,889</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>117</div>
-  </td>
-  <td>
-    <div>30.0</div>
-  </td>
-  <td>
-    <div>1,974</div>
-  </td>
-  <td>
-    <div>1,974</div>
-  </td>
-  <td>
-    <div>1,974</div>
-  </td>
-  <td colspan="2">
-    <div>1,974</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15</div>
-  </td>
-  <td>
-    <div>116</div>
-  </td>
-  <td>
-    <div>31.2</div>
-  </td>
-  <td>
-    <div>2,053</div>
-  </td>
-  <td>
-    <div>2,053</div>
-  </td>
-  <td>
-    <div>2,053</div>
-  </td>
-  <td colspan="2">
-    <div>2,053</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>115</div>
-  </td>
-  <td>
-    <div>32.5</div>
-  </td>
-  <td>
-    <div>2,139</div>
-  </td>
-  <td>
-    <div>2,139</div>
-  </td>
-  <td>
-    <div>2,139</div>
-  </td>
-  <td colspan="2">
-    <div>2,139</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>17</div>
-  </td>
-  <td>
-    <div>114</div>
-  </td>
-  <td>
-    <div>33.7</div>
-  </td>
-  <td>
-    <div>2,218</div>
-  </td>
-  <td>
-    <div>2,218</div>
-  </td>
-  <td>
-    <div>2,218</div>
-  </td>
-  <td colspan="2">
-    <div>2,218</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>113</div>
-  </td>
-  <td>
-    <div>35.0</div>
-  </td>
-  <td>
-    <div>2,303</div>
-  </td>
-  <td>
-    <div>2,303</div>
-  </td>
-  <td>
-    <div>2,303</div>
-  </td>
-  <td colspan="2">
-    <div>2,303</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>19</div>
-  </td>
-  <td>
-    <div>112</div>
-  </td>
-  <td>
-    <div>36.2</div>
-  </td>
-  <td>
-    <div>2,382</div>
-  </td>
-  <td>
-    <div>2,382</div>
-  </td>
-  <td>
-    <div>2,382</div>
-  </td>
-  <td colspan="2">
-    <div>2,382</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20</div>
-  </td>
-  <td>
-    <div>111</div>
-  </td>
-  <td>
-    <div>37.5</div>
-  </td>
-  <td>
-    <div>2,468</div>
-  </td>
-  <td>
-    <div>2,468</div>
-  </td>
-  <td>
-    <div>2,468</div>
-  </td>
-  <td colspan="2">
-    <div>2,468</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>21</div>
-  </td>
-  <td>
-    <div>110</div>
-  </td>
-  <td>
-    <div>38.7</div>
-  </td>
-  <td>
-    <div>2,547</div>
-  </td>
-  <td>
-    <div>2,547</div>
-  </td>
-  <td>
-    <div>2,547</div>
-  </td>
-  <td colspan="2">
-    <div>2,547</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>22</div>
-  </td>
-  <td>
-    <div>109</div>
-  </td>
-  <td>
-    <div>40.0</div>
-  </td>
-  <td>
-    <div>2,632</div>
-  </td>
-  <td>
-    <div>2,632</div>
-  </td>
-  <td>
-    <div>2,632</div>
-  </td>
-  <td colspan="2">
-    <div>2,632</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>23</div>
-  </td>
-  <td>
-    <div>108</div>
-  </td>
-  <td>
-    <div>41.2</div>
-  </td>
-  <td>
-    <div>2,711</div>
-  </td>
-  <td>
-    <div>2,711</div>
-  </td>
-  <td>
-    <div>2,711</div>
-  </td>
-  <td colspan="2">
-    <div>2,711</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>24</div>
-  </td>
-  <td>
-    <div>107</div>
-  </td>
-  <td>
-    <div>42.5</div>
-  </td>
-  <td>
-    <div>2,797</div>
-  </td>
-  <td>
-    <div>2,797</div>
-  </td>
-  <td>
-    <div>2,797</div>
-  </td>
-  <td colspan="2">
-    <div>2,797</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>25</div>
-  </td>
-  <td>
-    <div>106</div>
-  </td>
-  <td>
-    <div>43.7</div>
-  </td>
-  <td>
-    <div>2,876</div>
-  </td>
-  <td>
-    <div>2,876</div>
-  </td>
-  <td>
-    <div>2,876</div>
-  </td>
-  <td colspan="2">
-    <div>2,876</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>26</div>
-  </td>
-  <td>
-    <div>105</div>
-  </td>
-  <td>
-    <div>45.0</div>
-  </td>
-  <td>
-    <div>2,961</div>
-  </td>
-  <td>
-    <div>2,961</div>
-  </td>
-  <td>
-    <div>2,961</div>
-  </td>
-  <td colspan="2">
-    <div>2,961</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>27</div>
-  </td>
-  <td>
-    <div>104</div>
-  </td>
-  <td>
-    <div>46.2</div>
-  </td>
-  <td>
-    <div>3,040</div>
-  </td>
-  <td>
-    <div>3,040</div>
-  </td>
-  <td>
-    <div>3,040</div>
-  </td>
-  <td colspan="2">
-    <div>3,040</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>28</div>
-  </td>
-  <td>
-    <div>103</div>
-  </td>
-  <td>
-    <div>47.5</div>
-  </td>
-  <td>
-    <div>3,126</div>
-  </td>
-  <td>
-    <div>3,126</div>
-  </td>
-  <td>
-    <div>3,126</div>
-  </td>
-  <td colspan="2">
-    <div>3,126</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>29</div>
-  </td>
-  <td>
-    <div>102</div>
-  </td>
-  <td>
-    <div>48.7</div>
-  </td>
-  <td>
-    <div>3,205</div>
-  </td>
-  <td>
-    <div>3,205</div>
-  </td>
-  <td>
-    <div>3,205</div>
-  </td>
-  <td colspan="2">
-    <div>3,205</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>30</div>
-  </td>
-  <td>
-    <div>101</div>
-  </td>
-  <td>
-    <div>50.0</div>
-  </td>
-  <td>
-    <div>3,290</div>
-  </td>
-  <td>
-    <div>3,290</div>
-  </td>
-  <td>
-    <div>3,290</div>
-  </td>
-  <td colspan="2">
-    <div>3,290</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>31</div>
-  </td>
-  <td>
-    <div>100</div>
-  </td>
-  <td>
-    <div>51.2</div>
-  </td>
-  <td>
-    <div>3,369</div>
-  </td>
-  <td>
-    <div>3,369</div>
-  </td>
-  <td>
-    <div>3,369</div>
-  </td>
-  <td colspan="2">
-    <div>3,369</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>32</div>
-  </td>
-  <td>
-    <div>99</div>
-  </td>
-  <td>
-    <div>52.5</div>
-  </td>
-  <td>
-    <div>3,455</div>
-  </td>
-  <td>
-    <div>3,455</div>
-  </td>
-  <td>
-    <div>3,455</div>
-  </td>
-  <td colspan="2">
-    <div>3,455</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>33</div>
-  </td>
-  <td>
-    <div>98</div>
-  </td>
-  <td>
-    <div>53.7</div>
-  </td>
-  <td>
-    <div>3,534</div>
-  </td>
-  <td>
-    <div>3,534</div>
-  </td>
-  <td>
-    <div>3,534</div>
-  </td>
-  <td colspan="2">
-    <div>3,534</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>34</div>
-  </td>
-  <td>
-    <div>97</div>
-  </td>
-  <td>
-    <div>55.0</div>
-  </td>
-  <td>
-    <div>3,619</div>
-  </td>
-  <td>
-    <div>3,619</div>
-  </td>
-  <td>
-    <div>3,619</div>
-  </td>
-  <td colspan="2">
-    <div>3,619</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>35</div>
-  </td>
-  <td>
-    <div>96</div>
-  </td>
-  <td>
-    <div>56.2</div>
-  </td>
-  <td>
-    <div>3,698</div>
-  </td>
-  <td>
-    <div>3,698</div>
-  </td>
-  <td>
-    <div>3,698</div>
-  </td>
-  <td colspan="2">
-    <div>3,698</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>36</div>
-  </td>
-  <td>
-    <div>95</div>
-  </td>
-  <td>
-    <div>57.5</div>
-  </td>
-  <td>
-    <div>3,784</div>
-  </td>
-  <td>
-    <div>3,784</div>
-  </td>
-  <td>
-    <div>3,784</div>
-  </td>
-  <td colspan="2">
-    <div>3,784</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>37</div>
-  </td>
-  <td>
-    <div>94</div>
-  </td>
-  <td>
-    <div>58.7</div>
-  </td>
-  <td>
-    <div>3,863</div>
-  </td>
-  <td>
-    <div>3,863</div>
-  </td>
-  <td>
-    <div>3,863</div>
-  </td>
-  <td colspan="2">
-    <div>3,863</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>38</div>
-  </td>
-  <td>
-    <div>93</div>
-  </td>
-  <td>
-    <div>60.0</div>
-  </td>
-  <td>
-    <div>3,948</div>
-  </td>
-  <td>
-    <div>3,948</div>
-  </td>
-  <td>
-    <div>3,948</div>
-  </td>
-  <td colspan="2">
-    <div>3,948</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>39</div>
-  </td>
-  <td>
-    <div>92</div>
-  </td>
-  <td>
-    <div>61.2</div>
-  </td>
-  <td>
-    <div>4,027</div>
-  </td>
-  <td>
-    <div>4,027</div>
-  </td>
-  <td>
-    <div>4,027</div>
-  </td>
-  <td colspan="2">
-    <div>4,027</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>40</div>
-  </td>
-  <td>
-    <div>91</div>
-  </td>
-  <td>
-    <div>62.5</div>
-  </td>
-  <td>
-    <div>4,113</div>
-  </td>
-  <td>
-    <div>4,113</div>
-  </td>
-  <td>
-    <div>4,113</div>
-  </td>
-  <td colspan="2">
-    <div>4,113</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>41</div>
-  </td>
-  <td>
-    <div>90</div>
-  </td>
-  <td>
-    <div>63.7</div>
-  </td>
-  <td>
-    <div>4,192</div>
-  </td>
-  <td>
-    <div>4,192</div>
-  </td>
-  <td>
-    <div>4,192</div>
-  </td>
-  <td colspan="2">
-    <div>4,192</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>42</div>
-  </td>
-  <td>
-    <div>89</div>
-  </td>
-  <td>
-    <div>65.0</div>
-  </td>
-  <td>
-    <div>4,277</div>
-  </td>
-  <td>
-    <div>4,277</div>
-  </td>
-  <td>
-    <div>4,277</div>
-  </td>
-  <td colspan="2">
-    <div>4,277</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>43</div>
-  </td>
-  <td>
-    <div>88</div>
-  </td>
-  <td>
-    <div>66.2</div>
-  </td>
-  <td>
-    <div>4,356</div>
-  </td>
-  <td>
-    <div>4,356</div>
-  </td>
-  <td>
-    <div>4,356</div>
-  </td>
-  <td colspan="2">
-    <div>4,356</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44</div>
-  </td>
-  <td>
-    <div>87</div>
-  </td>
-  <td>
-    <div>67.5</div>
-  </td>
-  <td>
-    <div>4,442</div>
-  </td>
-  <td>
-    <div>4,442</div>
-  </td>
-  <td>
-    <div>4,442</div>
-  </td>
-  <td colspan="2">
-    <div>4,442</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>45</div>
-  </td>
-  <td>
-    <div>86</div>
-  </td>
-  <td>
-    <div>68.7</div>
-  </td>
-  <td>
-    <div>4,521</div>
-  </td>
-  <td>
-    <div>4,521</div>
-  </td>
-  <td>
-    <div>4,521</div>
-  </td>
-  <td colspan="2">
-    <div>4,521</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>46</div>
-  </td>
-  <td>
-    <div>85 or less</div>
-  </td>
-  <td>
-    <div>70.0</div>
-  </td>
-  <td>
-    <div>4,606</div>
-  </td>
-  <td>
-    <div>4,606</div>
-  </td>
-  <td>
-    <div>4,606</div>
-  </td>
-  <td colspan="2">
-    <div>4,606</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>130 or greater</div>
+    </td>
+    <td>
+      <div>13.7</div>
+    </td>
+    <td>
+      <div>902</div>
+    </td>
+    <td>
+      <div>902</div>
+    </td>
+    <td>
+      <div>902</div>
+    </td>
+    <td colspan="2">
+      <div>902</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>129</div>
+    </td>
+    <td>
+      <div>15.0</div>
+    </td>
+    <td>
+      <div>987</div>
+    </td>
+    <td>
+      <div>987</div>
+    </td>
+    <td>
+      <div>987</div>
+    </td>
+    <td colspan="2">
+      <div>987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>128</div>
+    </td>
+    <td>
+      <div>16.2</div>
+    </td>
+    <td>
+      <div>1,066</div>
+    </td>
+    <td>
+      <div>1,066</div>
+    </td>
+    <td>
+      <div>1,066</div>
+    </td>
+    <td colspan="2">
+      <div>1,066</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>127</div>
+    </td>
+    <td>
+      <div>17.5</div>
+    </td>
+    <td>
+      <div>1,152</div>
+    </td>
+    <td>
+      <div>1,152</div>
+    </td>
+    <td>
+      <div>1,152</div>
+    </td>
+    <td colspan="2">
+      <div>1,152</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>126</div>
+    </td>
+    <td>
+      <div>18.7</div>
+    </td>
+    <td>
+      <div>1,231</div>
+    </td>
+    <td>
+      <div>1,231</div>
+    </td>
+    <td>
+      <div>1,231</div>
+    </td>
+    <td colspan="2">
+      <div>1,231</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>125</div>
+    </td>
+    <td>
+      <div>20.0</div>
+    </td>
+    <td>
+      <div>1,316</div>
+    </td>
+    <td>
+      <div>1,316</div>
+    </td>
+    <td>
+      <div>1,316</div>
+    </td>
+    <td colspan="2">
+      <div>1,316</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>124</div>
+    </td>
+    <td>
+      <div>21.2</div>
+    </td>
+    <td>
+      <div>1,395</div>
+    </td>
+    <td>
+      <div>1,395</div>
+    </td>
+    <td>
+      <div>1,395</div>
+    </td>
+    <td colspan="2">
+      <div>1,395</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>123</div>
+    </td>
+    <td>
+      <div>22.5</div>
+    </td>
+    <td>
+      <div>1,481</div>
+    </td>
+    <td>
+      <div>1,481</div>
+    </td>
+    <td>
+      <div>1,481</div>
+    </td>
+    <td colspan="2">
+      <div>1,481</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>122</div>
+    </td>
+    <td>
+      <div>23.7</div>
+    </td>
+    <td>
+      <div>1,560</div>
+    </td>
+    <td>
+      <div>1,560</div>
+    </td>
+    <td>
+      <div>1,560</div>
+    </td>
+    <td colspan="2">
+      <div>1,560</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>121</div>
+    </td>
+    <td>
+      <div>25.0</div>
+    </td>
+    <td>
+      <div>1,645</div>
+    </td>
+    <td>
+      <div>1,645</div>
+    </td>
+    <td>
+      <div>1,645</div>
+    </td>
+    <td colspan="2">
+      <div>1,645</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11</div>
+    </td>
+    <td>
+      <div>120</div>
+    </td>
+    <td>
+      <div>26.2</div>
+    </td>
+    <td>
+      <div>1,724</div>
+    </td>
+    <td>
+      <div>1,724</div>
+    </td>
+    <td>
+      <div>1,724</div>
+    </td>
+    <td colspan="2">
+      <div>1,724</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>119</div>
+    </td>
+    <td>
+      <div>27.5</div>
+    </td>
+    <td>
+      <div>1,810</div>
+    </td>
+    <td>
+      <div>1,810</div>
+    </td>
+    <td>
+      <div>1,810</div>
+    </td>
+    <td colspan="2">
+      <div>1,810</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13</div>
+    </td>
+    <td>
+      <div>118</div>
+    </td>
+    <td>
+      <div>28.7</div>
+    </td>
+    <td>
+      <div>1,889</div>
+    </td>
+    <td>
+      <div>1,889</div>
+    </td>
+    <td>
+      <div>1,889</div>
+    </td>
+    <td colspan="2">
+      <div>1,889</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>14</div>
+    </td>
+    <td>
+      <div>117</div>
+    </td>
+    <td>
+      <div>30.0</div>
+    </td>
+    <td>
+      <div>1,974</div>
+    </td>
+    <td>
+      <div>1,974</div>
+    </td>
+    <td>
+      <div>1,974</div>
+    </td>
+    <td colspan="2">
+      <div>1,974</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15</div>
+    </td>
+    <td>
+      <div>116</div>
+    </td>
+    <td>
+      <div>31.2</div>
+    </td>
+    <td>
+      <div>2,053</div>
+    </td>
+    <td>
+      <div>2,053</div>
+    </td>
+    <td>
+      <div>2,053</div>
+    </td>
+    <td colspan="2">
+      <div>2,053</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>115</div>
+    </td>
+    <td>
+      <div>32.5</div>
+    </td>
+    <td>
+      <div>2,139</div>
+    </td>
+    <td>
+      <div>2,139</div>
+    </td>
+    <td>
+      <div>2,139</div>
+    </td>
+    <td colspan="2">
+      <div>2,139</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>17</div>
+    </td>
+    <td>
+      <div>114</div>
+    </td>
+    <td>
+      <div>33.7</div>
+    </td>
+    <td>
+      <div>2,218</div>
+    </td>
+    <td>
+      <div>2,218</div>
+    </td>
+    <td>
+      <div>2,218</div>
+    </td>
+    <td colspan="2">
+      <div>2,218</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>113</div>
+    </td>
+    <td>
+      <div>35.0</div>
+    </td>
+    <td>
+      <div>2,303</div>
+    </td>
+    <td>
+      <div>2,303</div>
+    </td>
+    <td>
+      <div>2,303</div>
+    </td>
+    <td colspan="2">
+      <div>2,303</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>19</div>
+    </td>
+    <td>
+      <div>112</div>
+    </td>
+    <td>
+      <div>36.2</div>
+    </td>
+    <td>
+      <div>2,382</div>
+    </td>
+    <td>
+      <div>2,382</div>
+    </td>
+    <td>
+      <div>2,382</div>
+    </td>
+    <td colspan="2">
+      <div>2,382</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>20</div>
+    </td>
+    <td>
+      <div>111</div>
+    </td>
+    <td>
+      <div>37.5</div>
+    </td>
+    <td>
+      <div>2,468</div>
+    </td>
+    <td>
+      <div>2,468</div>
+    </td>
+    <td>
+      <div>2,468</div>
+    </td>
+    <td colspan="2">
+      <div>2,468</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>21</div>
+    </td>
+    <td>
+      <div>110</div>
+    </td>
+    <td>
+      <div>38.7</div>
+    </td>
+    <td>
+      <div>2,547</div>
+    </td>
+    <td>
+      <div>2,547</div>
+    </td>
+    <td>
+      <div>2,547</div>
+    </td>
+    <td colspan="2">
+      <div>2,547</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>22</div>
+    </td>
+    <td>
+      <div>109</div>
+    </td>
+    <td>
+      <div>40.0</div>
+    </td>
+    <td>
+      <div>2,632</div>
+    </td>
+    <td>
+      <div>2,632</div>
+    </td>
+    <td>
+      <div>2,632</div>
+    </td>
+    <td colspan="2">
+      <div>2,632</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>23</div>
+    </td>
+    <td>
+      <div>108</div>
+    </td>
+    <td>
+      <div>41.2</div>
+    </td>
+    <td>
+      <div>2,711</div>
+    </td>
+    <td>
+      <div>2,711</div>
+    </td>
+    <td>
+      <div>2,711</div>
+    </td>
+    <td colspan="2">
+      <div>2,711</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>24</div>
+    </td>
+    <td>
+      <div>107</div>
+    </td>
+    <td>
+      <div>42.5</div>
+    </td>
+    <td>
+      <div>2,797</div>
+    </td>
+    <td>
+      <div>2,797</div>
+    </td>
+    <td>
+      <div>2,797</div>
+    </td>
+    <td colspan="2">
+      <div>2,797</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>25</div>
+    </td>
+    <td>
+      <div>106</div>
+    </td>
+    <td>
+      <div>43.7</div>
+    </td>
+    <td>
+      <div>2,876</div>
+    </td>
+    <td>
+      <div>2,876</div>
+    </td>
+    <td>
+      <div>2,876</div>
+    </td>
+    <td colspan="2">
+      <div>2,876</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>26</div>
+    </td>
+    <td>
+      <div>105</div>
+    </td>
+    <td>
+      <div>45.0</div>
+    </td>
+    <td>
+      <div>2,961</div>
+    </td>
+    <td>
+      <div>2,961</div>
+    </td>
+    <td>
+      <div>2,961</div>
+    </td>
+    <td colspan="2">
+      <div>2,961</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>27</div>
+    </td>
+    <td>
+      <div>104</div>
+    </td>
+    <td>
+      <div>46.2</div>
+    </td>
+    <td>
+      <div>3,040</div>
+    </td>
+    <td>
+      <div>3,040</div>
+    </td>
+    <td>
+      <div>3,040</div>
+    </td>
+    <td colspan="2">
+      <div>3,040</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>28</div>
+    </td>
+    <td>
+      <div>103</div>
+    </td>
+    <td>
+      <div>47.5</div>
+    </td>
+    <td>
+      <div>3,126</div>
+    </td>
+    <td>
+      <div>3,126</div>
+    </td>
+    <td>
+      <div>3,126</div>
+    </td>
+    <td colspan="2">
+      <div>3,126</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>29</div>
+    </td>
+    <td>
+      <div>102</div>
+    </td>
+    <td>
+      <div>48.7</div>
+    </td>
+    <td>
+      <div>3,205</div>
+    </td>
+    <td>
+      <div>3,205</div>
+    </td>
+    <td>
+      <div>3,205</div>
+    </td>
+    <td colspan="2">
+      <div>3,205</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>30</div>
+    </td>
+    <td>
+      <div>101</div>
+    </td>
+    <td>
+      <div>50.0</div>
+    </td>
+    <td>
+      <div>3,290</div>
+    </td>
+    <td>
+      <div>3,290</div>
+    </td>
+    <td>
+      <div>3,290</div>
+    </td>
+    <td colspan="2">
+      <div>3,290</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>31</div>
+    </td>
+    <td>
+      <div>100</div>
+    </td>
+    <td>
+      <div>51.2</div>
+    </td>
+    <td>
+      <div>3,369</div>
+    </td>
+    <td>
+      <div>3,369</div>
+    </td>
+    <td>
+      <div>3,369</div>
+    </td>
+    <td colspan="2">
+      <div>3,369</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>32</div>
+    </td>
+    <td>
+      <div>99</div>
+    </td>
+    <td>
+      <div>52.5</div>
+    </td>
+    <td>
+      <div>3,455</div>
+    </td>
+    <td>
+      <div>3,455</div>
+    </td>
+    <td>
+      <div>3,455</div>
+    </td>
+    <td colspan="2">
+      <div>3,455</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>33</div>
+    </td>
+    <td>
+      <div>98</div>
+    </td>
+    <td>
+      <div>53.7</div>
+    </td>
+    <td>
+      <div>3,534</div>
+    </td>
+    <td>
+      <div>3,534</div>
+    </td>
+    <td>
+      <div>3,534</div>
+    </td>
+    <td colspan="2">
+      <div>3,534</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>34</div>
+    </td>
+    <td>
+      <div>97</div>
+    </td>
+    <td>
+      <div>55.0</div>
+    </td>
+    <td>
+      <div>3,619</div>
+    </td>
+    <td>
+      <div>3,619</div>
+    </td>
+    <td>
+      <div>3,619</div>
+    </td>
+    <td colspan="2">
+      <div>3,619</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>35</div>
+    </td>
+    <td>
+      <div>96</div>
+    </td>
+    <td>
+      <div>56.2</div>
+    </td>
+    <td>
+      <div>3,698</div>
+    </td>
+    <td>
+      <div>3,698</div>
+    </td>
+    <td>
+      <div>3,698</div>
+    </td>
+    <td colspan="2">
+      <div>3,698</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>36</div>
+    </td>
+    <td>
+      <div>95</div>
+    </td>
+    <td>
+      <div>57.5</div>
+    </td>
+    <td>
+      <div>3,784</div>
+    </td>
+    <td>
+      <div>3,784</div>
+    </td>
+    <td>
+      <div>3,784</div>
+    </td>
+    <td colspan="2">
+      <div>3,784</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>37</div>
+    </td>
+    <td>
+      <div>94</div>
+    </td>
+    <td>
+      <div>58.7</div>
+    </td>
+    <td>
+      <div>3,863</div>
+    </td>
+    <td>
+      <div>3,863</div>
+    </td>
+    <td>
+      <div>3,863</div>
+    </td>
+    <td colspan="2">
+      <div>3,863</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>38</div>
+    </td>
+    <td>
+      <div>93</div>
+    </td>
+    <td>
+      <div>60.0</div>
+    </td>
+    <td>
+      <div>3,948</div>
+    </td>
+    <td>
+      <div>3,948</div>
+    </td>
+    <td>
+      <div>3,948</div>
+    </td>
+    <td colspan="2">
+      <div>3,948</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>39</div>
+    </td>
+    <td>
+      <div>92</div>
+    </td>
+    <td>
+      <div>61.2</div>
+    </td>
+    <td>
+      <div>4,027</div>
+    </td>
+    <td>
+      <div>4,027</div>
+    </td>
+    <td>
+      <div>4,027</div>
+    </td>
+    <td colspan="2">
+      <div>4,027</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>40</div>
+    </td>
+    <td>
+      <div>91</div>
+    </td>
+    <td>
+      <div>62.5</div>
+    </td>
+    <td>
+      <div>4,113</div>
+    </td>
+    <td>
+      <div>4,113</div>
+    </td>
+    <td>
+      <div>4,113</div>
+    </td>
+    <td colspan="2">
+      <div>4,113</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>41</div>
+    </td>
+    <td>
+      <div>90</div>
+    </td>
+    <td>
+      <div>63.7</div>
+    </td>
+    <td>
+      <div>4,192</div>
+    </td>
+    <td>
+      <div>4,192</div>
+    </td>
+    <td>
+      <div>4,192</div>
+    </td>
+    <td colspan="2">
+      <div>4,192</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>42</div>
+    </td>
+    <td>
+      <div>89</div>
+    </td>
+    <td>
+      <div>65.0</div>
+    </td>
+    <td>
+      <div>4,277</div>
+    </td>
+    <td>
+      <div>4,277</div>
+    </td>
+    <td>
+      <div>4,277</div>
+    </td>
+    <td colspan="2">
+      <div>4,277</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>43</div>
+    </td>
+    <td>
+      <div>88</div>
+    </td>
+    <td>
+      <div>66.2</div>
+    </td>
+    <td>
+      <div>4,356</div>
+    </td>
+    <td>
+      <div>4,356</div>
+    </td>
+    <td>
+      <div>4,356</div>
+    </td>
+    <td colspan="2">
+      <div>4,356</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44</div>
+    </td>
+    <td>
+      <div>87</div>
+    </td>
+    <td>
+      <div>67.5</div>
+    </td>
+    <td>
+      <div>4,442</div>
+    </td>
+    <td>
+      <div>4,442</div>
+    </td>
+    <td>
+      <div>4,442</div>
+    </td>
+    <td colspan="2">
+      <div>4,442</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>45</div>
+    </td>
+    <td>
+      <div>86</div>
+    </td>
+    <td>
+      <div>68.7</div>
+    </td>
+    <td>
+      <div>4,521</div>
+    </td>
+    <td>
+      <div>4,521</div>
+    </td>
+    <td>
+      <div>4,521</div>
+    </td>
+    <td colspan="2">
+      <div>4,521</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>46</div>
+    </td>
+    <td>
+      <div>85 or less</div>
+    </td>
+    <td>
+      <div>70.0</div>
+    </td>
+    <td>
+      <div>4,606</div>
+    </td>
+    <td>
+      <div>4,606</div>
+    </td>
+    <td>
+      <div>4,606</div>
+    </td>
+    <td colspan="2">
+      <div>4,606</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
 
 Note:          The operation of sections 121 and 122 may affect the amounts in columns 3, 4, 5 and 6.
 
@@ -5112,1064 +5111,1066 @@ Note:          The operation of sections 121 and 122 may a
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>130 or greater</div>
-  </td>
-  <td>
-    <div>13.7</div>
-  </td>
-  <td>
-    <div>1,178</div>
-  </td>
-  <td>
-    <div>1,178</div>
-  </td>
-  <td>
-    <div>1,178</div>
-  </td>
-  <td>
-    <div>1,178</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>129</div>
-  </td>
-  <td>
-    <div>15.0</div>
-  </td>
-  <td>
-    <div>1,290</div>
-  </td>
-  <td>
-    <div>1,290</div>
-  </td>
-  <td>
-    <div>1,290</div>
-  </td>
-  <td>
-    <div>1,290</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>128</div>
-  </td>
-  <td>
-    <div>16.2</div>
-  </td>
-  <td>
-    <div>1,393</div>
-  </td>
-  <td>
-    <div>1,393</div>
-  </td>
-  <td>
-    <div>1,393</div>
-  </td>
-  <td>
-    <div>1,393</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>127</div>
-  </td>
-  <td>
-    <div>17.5</div>
-  </td>
-  <td>
-    <div>1,505</div>
-  </td>
-  <td>
-    <div>1,505</div>
-  </td>
-  <td>
-    <div>1,505</div>
-  </td>
-  <td>
-    <div>1,505</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>126</div>
-  </td>
-  <td>
-    <div>18.7</div>
-  </td>
-  <td>
-    <div>1,608</div>
-  </td>
-  <td>
-    <div>1,608</div>
-  </td>
-  <td>
-    <div>1,608</div>
-  </td>
-  <td>
-    <div>1,608</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>125</div>
-  </td>
-  <td>
-    <div>20.0</div>
-  </td>
-  <td>
-    <div>1,719</div>
-  </td>
-  <td>
-    <div>1,719</div>
-  </td>
-  <td>
-    <div>1,719</div>
-  </td>
-  <td>
-    <div>1,719</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>124</div>
-  </td>
-  <td>
-    <div>21.2</div>
-  </td>
-  <td>
-    <div>1,823</div>
-  </td>
-  <td>
-    <div>1,823</div>
-  </td>
-  <td>
-    <div>1,823</div>
-  </td>
-  <td>
-    <div>1,823</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>123</div>
-  </td>
-  <td>
-    <div>22.5</div>
-  </td>
-  <td>
-    <div>1,934</div>
-  </td>
-  <td>
-    <div>1,934</div>
-  </td>
-  <td>
-    <div>1,934</div>
-  </td>
-  <td>
-    <div>1,934</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>122</div>
-  </td>
-  <td>
-    <div>23.7</div>
-  </td>
-  <td>
-    <div>2,038</div>
-  </td>
-  <td>
-    <div>2,038</div>
-  </td>
-  <td>
-    <div>2,038</div>
-  </td>
-  <td>
-    <div>2,038</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>121</div>
-  </td>
-  <td>
-    <div>25.0</div>
-  </td>
-  <td>
-    <div>2,149</div>
-  </td>
-  <td>
-    <div>2,149</div>
-  </td>
-  <td>
-    <div>2,149</div>
-  </td>
-  <td>
-    <div>2,149</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>120</div>
-  </td>
-  <td>
-    <div>26.2</div>
-  </td>
-  <td>
-    <div>2,252</div>
-  </td>
-  <td>
-    <div>2,252</div>
-  </td>
-  <td>
-    <div>2,252</div>
-  </td>
-  <td>
-    <div>2,252</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>119</div>
-  </td>
-  <td>
-    <div>27.5</div>
-  </td>
-  <td>
-    <div>2,364</div>
-  </td>
-  <td>
-    <div>2,364</div>
-  </td>
-  <td>
-    <div>2,364</div>
-  </td>
-  <td>
-    <div>2,364</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>118</div>
-  </td>
-  <td>
-    <div>28.7</div>
-  </td>
-  <td>
-    <div>2,467</div>
-  </td>
-  <td>
-    <div>2,467</div>
-  </td>
-  <td>
-    <div>2,467</div>
-  </td>
-  <td>
-    <div>2,467</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>117</div>
-  </td>
-  <td>
-    <div>30.0</div>
-  </td>
-  <td>
-    <div>2,579</div>
-  </td>
-  <td>
-    <div>2,579</div>
-  </td>
-  <td>
-    <div>2,579</div>
-  </td>
-  <td>
-    <div>2,579</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15</div>
-  </td>
-  <td>
-    <div>116</div>
-  </td>
-  <td>
-    <div>31.2</div>
-  </td>
-  <td>
-    <div>2,682</div>
-  </td>
-  <td>
-    <div>2,682</div>
-  </td>
-  <td>
-    <div>2,682</div>
-  </td>
-  <td>
-    <div>2,682</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>115</div>
-  </td>
-  <td>
-    <div>32.5</div>
-  </td>
-  <td>
-    <div>2,794</div>
-  </td>
-  <td>
-    <div>2,794</div>
-  </td>
-  <td>
-    <div>2,794</div>
-  </td>
-  <td>
-    <div>2,794</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>17</div>
-  </td>
-  <td>
-    <div>114</div>
-  </td>
-  <td>
-    <div>33.7</div>
-  </td>
-  <td>
-    <div>2,897</div>
-  </td>
-  <td>
-    <div>2,897</div>
-  </td>
-  <td>
-    <div>2,897</div>
-  </td>
-  <td>
-    <div>2,897</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>113</div>
-  </td>
-  <td>
-    <div>35.0</div>
-  </td>
-  <td>
-    <div>3,009</div>
-  </td>
-  <td>
-    <div>3,009</div>
-  </td>
-  <td>
-    <div>3,009</div>
-  </td>
-  <td>
-    <div>3,009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>19</div>
-  </td>
-  <td>
-    <div>112</div>
-  </td>
-  <td>
-    <div>36.2</div>
-  </td>
-  <td>
-    <div>3,112</div>
-  </td>
-  <td>
-    <div>3,112</div>
-  </td>
-  <td>
-    <div>3,112</div>
-  </td>
-  <td>
-    <div>3,112</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20</div>
-  </td>
-  <td>
-    <div>111</div>
-  </td>
-  <td>
-    <div>37.5</div>
-  </td>
-  <td>
-    <div>3,224</div>
-  </td>
-  <td>
-    <div>3,224</div>
-  </td>
-  <td>
-    <div>3,224</div>
-  </td>
-  <td>
-    <div>3,224</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>21</div>
-  </td>
-  <td>
-    <div>110</div>
-  </td>
-  <td>
-    <div>38.7</div>
-  </td>
-  <td>
-    <div>3,327</div>
-  </td>
-  <td>
-    <div>3,327</div>
-  </td>
-  <td>
-    <div>3,327</div>
-  </td>
-  <td>
-    <div>3,327</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>22</div>
-  </td>
-  <td>
-    <div>109</div>
-  </td>
-  <td>
-    <div>40.0</div>
-  </td>
-  <td>
-    <div>3,438</div>
-  </td>
-  <td>
-    <div>3,438</div>
-  </td>
-  <td>
-    <div>3,438</div>
-  </td>
-  <td>
-    <div>3,438</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>23</div>
-  </td>
-  <td>
-    <div>108</div>
-  </td>
-  <td>
-    <div>41.2</div>
-  </td>
-  <td>
-    <div>3,542</div>
-  </td>
-  <td>
-    <div>3,542</div>
-  </td>
-  <td>
-    <div>3,542</div>
-  </td>
-  <td>
-    <div>3,542</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>24</div>
-  </td>
-  <td>
-    <div>107</div>
-  </td>
-  <td>
-    <div>42.5</div>
-  </td>
-  <td>
-    <div>3,653</div>
-  </td>
-  <td>
-    <div>3,653</div>
-  </td>
-  <td>
-    <div>3,653</div>
-  </td>
-  <td>
-    <div>3,653</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>25</div>
-  </td>
-  <td>
-    <div>106</div>
-  </td>
-  <td>
-    <div>43.7</div>
-  </td>
-  <td>
-    <div>3,757</div>
-  </td>
-  <td>
-    <div>3,757</div>
-  </td>
-  <td>
-    <div>3,757</div>
-  </td>
-  <td>
-    <div>3,757</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>26</div>
-  </td>
-  <td>
-    <div>105</div>
-  </td>
-  <td>
-    <div>45.0</div>
-  </td>
-  <td>
-    <div>3,868</div>
-  </td>
-  <td>
-    <div>3,868</div>
-  </td>
-  <td>
-    <div>3,868</div>
-  </td>
-  <td>
-    <div>3,868</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>27</div>
-  </td>
-  <td>
-    <div>104</div>
-  </td>
-  <td>
-    <div>46.2</div>
-  </td>
-  <td>
-    <div>3,971</div>
-  </td>
-  <td>
-    <div>3,971</div>
-  </td>
-  <td>
-    <div>3,971</div>
-  </td>
-  <td>
-    <div>3,971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>28</div>
-  </td>
-  <td>
-    <div>103</div>
-  </td>
-  <td>
-    <div>47.5</div>
-  </td>
-  <td>
-    <div>4,083</div>
-  </td>
-  <td>
-    <div>4,083</div>
-  </td>
-  <td>
-    <div>4,083</div>
-  </td>
-  <td>
-    <div>4,083</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>29</div>
-  </td>
-  <td>
-    <div>102</div>
-  </td>
-  <td>
-    <div>48.7</div>
-  </td>
-  <td>
-    <div>4,186</div>
-  </td>
-  <td>
-    <div>4,186</div>
-  </td>
-  <td>
-    <div>4,186</div>
-  </td>
-  <td>
-    <div>4,186</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>30</div>
-  </td>
-  <td>
-    <div>101</div>
-  </td>
-  <td>
-    <div>50.0</div>
-  </td>
-  <td>
-    <div>4,298</div>
-  </td>
-  <td>
-    <div>4,298</div>
-  </td>
-  <td>
-    <div>4,298</div>
-  </td>
-  <td>
-    <div>4,298</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>31</div>
-  </td>
-  <td>
-    <div>100</div>
-  </td>
-  <td>
-    <div>51.2</div>
-  </td>
-  <td>
-    <div>4,401</div>
-  </td>
-  <td>
-    <div>4,401</div>
-  </td>
-  <td>
-    <div>4,401</div>
-  </td>
-  <td>
-    <div>4,401</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>32</div>
-  </td>
-  <td>
-    <div>99</div>
-  </td>
-  <td>
-    <div>52.5</div>
-  </td>
-  <td>
-    <div>4,513</div>
-  </td>
-  <td>
-    <div>4,513</div>
-  </td>
-  <td>
-    <div>4,513</div>
-  </td>
-  <td>
-    <div>4,513</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>33</div>
-  </td>
-  <td>
-    <div>98</div>
-  </td>
-  <td>
-    <div>53.7</div>
-  </td>
-  <td>
-    <div>4,616</div>
-  </td>
-  <td>
-    <div>4,616</div>
-  </td>
-  <td>
-    <div>4,616</div>
-  </td>
-  <td>
-    <div>4,616</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>34</div>
-  </td>
-  <td>
-    <div>97</div>
-  </td>
-  <td>
-    <div>55.0</div>
-  </td>
-  <td>
-    <div>4,728</div>
-  </td>
-  <td>
-    <div>4,728</div>
-  </td>
-  <td>
-    <div>4,728</div>
-  </td>
-  <td>
-    <div>4,728</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>35</div>
-  </td>
-  <td>
-    <div>96</div>
-  </td>
-  <td>
-    <div>56.2</div>
-  </td>
-  <td>
-    <div>4,831</div>
-  </td>
-  <td>
-    <div>4,831</div>
-  </td>
-  <td>
-    <div>4,831</div>
-  </td>
-  <td>
-    <div>4,831</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>36</div>
-  </td>
-  <td>
-    <div>95</div>
-  </td>
-  <td>
-    <div>57.5</div>
-  </td>
-  <td>
-    <div>4,943</div>
-  </td>
-  <td>
-    <div>4,943</div>
-  </td>
-  <td>
-    <div>4,943</div>
-  </td>
-  <td>
-    <div>4,943</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>37</div>
-  </td>
-  <td>
-    <div>94</div>
-  </td>
-  <td>
-    <div>58.7</div>
-  </td>
-  <td>
-    <div>5,046</div>
-  </td>
-  <td>
-    <div>5,046</div>
-  </td>
-  <td>
-    <div>5,046</div>
-  </td>
-  <td>
-    <div>5,046</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>38</div>
-  </td>
-  <td>
-    <div>93</div>
-  </td>
-  <td>
-    <div>60.0</div>
-  </td>
-  <td>
-    <div>5,157</div>
-  </td>
-  <td>
-    <div>5,157</div>
-  </td>
-  <td>
-    <div>5,157</div>
-  </td>
-  <td>
-    <div>5,157</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>39</div>
-  </td>
-  <td>
-    <div>92</div>
-  </td>
-  <td>
-    <div>61.2</div>
-  </td>
-  <td>
-    <div>5,261</div>
-  </td>
-  <td>
-    <div>5,261</div>
-  </td>
-  <td>
-    <div>5,261</div>
-  </td>
-  <td>
-    <div>5,261</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>40</div>
-  </td>
-  <td>
-    <div>91</div>
-  </td>
-  <td>
-    <div>62.5</div>
-  </td>
-  <td>
-    <div>5,372</div>
-  </td>
-  <td>
-    <div>5,372</div>
-  </td>
-  <td>
-    <div>5,372</div>
-  </td>
-  <td>
-    <div>5,372</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>41</div>
-  </td>
-  <td>
-    <div>90</div>
-  </td>
-  <td>
-    <div>63.7</div>
-  </td>
-  <td>
-    <div>5,476</div>
-  </td>
-  <td>
-    <div>5,476</div>
-  </td>
-  <td>
-    <div>5,476</div>
-  </td>
-  <td>
-    <div>5,476</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>42</div>
-  </td>
-  <td>
-    <div>89</div>
-  </td>
-  <td>
-    <div>65.0</div>
-  </td>
-  <td>
-    <div>5,587</div>
-  </td>
-  <td>
-    <div>5,587</div>
-  </td>
-  <td>
-    <div>5,587</div>
-  </td>
-  <td>
-    <div>5,587</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>43</div>
-  </td>
-  <td>
-    <div>88</div>
-  </td>
-  <td>
-    <div>66.2</div>
-  </td>
-  <td>
-    <div>5,690</div>
-  </td>
-  <td>
-    <div>5,690</div>
-  </td>
-  <td>
-    <div>5,690</div>
-  </td>
-  <td>
-    <div>5,690</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>44</div>
-  </td>
-  <td>
-    <div>87</div>
-  </td>
-  <td>
-    <div>67.5</div>
-  </td>
-  <td>
-    <div>5,802</div>
-  </td>
-  <td>
-    <div>5,802</div>
-  </td>
-  <td>
-    <div>5,802</div>
-  </td>
-  <td>
-    <div>5,802</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>45</div>
-  </td>
-  <td>
-    <div>86</div>
-  </td>
-  <td>
-    <div>68.7</div>
-  </td>
-  <td>
-    <div>5,905</div>
-  </td>
-  <td>
-    <div>5,905</div>
-  </td>
-  <td>
-    <div>5,905</div>
-  </td>
-  <td>
-    <div>5,905</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>46</div>
-  </td>
-  <td>
-    <div>85 or less</div>
-  </td>
-  <td>
-    <div>70.0</div>
-  </td>
-  <td>
-    <div>6,017</div>
-  </td>
-  <td>
-    <div>6,017</div>
-  </td>
-  <td>
-    <div>6,017</div>
-  </td>
-  <td>
-    <div>6,017</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>130 or greater</div>
+    </td>
+    <td>
+      <div>13.7</div>
+    </td>
+    <td>
+      <div>1,178</div>
+    </td>
+    <td>
+      <div>1,178</div>
+    </td>
+    <td>
+      <div>1,178</div>
+    </td>
+    <td>
+      <div>1,178</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>129</div>
+    </td>
+    <td>
+      <div>15.0</div>
+    </td>
+    <td>
+      <div>1,290</div>
+    </td>
+    <td>
+      <div>1,290</div>
+    </td>
+    <td>
+      <div>1,290</div>
+    </td>
+    <td>
+      <div>1,290</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>128</div>
+    </td>
+    <td>
+      <div>16.2</div>
+    </td>
+    <td>
+      <div>1,393</div>
+    </td>
+    <td>
+      <div>1,393</div>
+    </td>
+    <td>
+      <div>1,393</div>
+    </td>
+    <td>
+      <div>1,393</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>127</div>
+    </td>
+    <td>
+      <div>17.5</div>
+    </td>
+    <td>
+      <div>1,505</div>
+    </td>
+    <td>
+      <div>1,505</div>
+    </td>
+    <td>
+      <div>1,505</div>
+    </td>
+    <td>
+      <div>1,505</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>126</div>
+    </td>
+    <td>
+      <div>18.7</div>
+    </td>
+    <td>
+      <div>1,608</div>
+    </td>
+    <td>
+      <div>1,608</div>
+    </td>
+    <td>
+      <div>1,608</div>
+    </td>
+    <td>
+      <div>1,608</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>125</div>
+    </td>
+    <td>
+      <div>20.0</div>
+    </td>
+    <td>
+      <div>1,719</div>
+    </td>
+    <td>
+      <div>1,719</div>
+    </td>
+    <td>
+      <div>1,719</div>
+    </td>
+    <td>
+      <div>1,719</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>124</div>
+    </td>
+    <td>
+      <div>21.2</div>
+    </td>
+    <td>
+      <div>1,823</div>
+    </td>
+    <td>
+      <div>1,823</div>
+    </td>
+    <td>
+      <div>1,823</div>
+    </td>
+    <td>
+      <div>1,823</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>123</div>
+    </td>
+    <td>
+      <div>22.5</div>
+    </td>
+    <td>
+      <div>1,934</div>
+    </td>
+    <td>
+      <div>1,934</div>
+    </td>
+    <td>
+      <div>1,934</div>
+    </td>
+    <td>
+      <div>1,934</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>122</div>
+    </td>
+    <td>
+      <div>23.7</div>
+    </td>
+    <td>
+      <div>2,038</div>
+    </td>
+    <td>
+      <div>2,038</div>
+    </td>
+    <td>
+      <div>2,038</div>
+    </td>
+    <td>
+      <div>2,038</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>121</div>
+    </td>
+    <td>
+      <div>25.0</div>
+    </td>
+    <td>
+      <div>2,149</div>
+    </td>
+    <td>
+      <div>2,149</div>
+    </td>
+    <td>
+      <div>2,149</div>
+    </td>
+    <td>
+      <div>2,149</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11</div>
+    </td>
+    <td>
+      <div>120</div>
+    </td>
+    <td>
+      <div>26.2</div>
+    </td>
+    <td>
+      <div>2,252</div>
+    </td>
+    <td>
+      <div>2,252</div>
+    </td>
+    <td>
+      <div>2,252</div>
+    </td>
+    <td>
+      <div>2,252</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>119</div>
+    </td>
+    <td>
+      <div>27.5</div>
+    </td>
+    <td>
+      <div>2,364</div>
+    </td>
+    <td>
+      <div>2,364</div>
+    </td>
+    <td>
+      <div>2,364</div>
+    </td>
+    <td>
+      <div>2,364</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13</div>
+    </td>
+    <td>
+      <div>118</div>
+    </td>
+    <td>
+      <div>28.7</div>
+    </td>
+    <td>
+      <div>2,467</div>
+    </td>
+    <td>
+      <div>2,467</div>
+    </td>
+    <td>
+      <div>2,467</div>
+    </td>
+    <td>
+      <div>2,467</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>14</div>
+    </td>
+    <td>
+      <div>117</div>
+    </td>
+    <td>
+      <div>30.0</div>
+    </td>
+    <td>
+      <div>2,579</div>
+    </td>
+    <td>
+      <div>2,579</div>
+    </td>
+    <td>
+      <div>2,579</div>
+    </td>
+    <td>
+      <div>2,579</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15</div>
+    </td>
+    <td>
+      <div>116</div>
+    </td>
+    <td>
+      <div>31.2</div>
+    </td>
+    <td>
+      <div>2,682</div>
+    </td>
+    <td>
+      <div>2,682</div>
+    </td>
+    <td>
+      <div>2,682</div>
+    </td>
+    <td>
+      <div>2,682</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>115</div>
+    </td>
+    <td>
+      <div>32.5</div>
+    </td>
+    <td>
+      <div>2,794</div>
+    </td>
+    <td>
+      <div>2,794</div>
+    </td>
+    <td>
+      <div>2,794</div>
+    </td>
+    <td>
+      <div>2,794</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>17</div>
+    </td>
+    <td>
+      <div>114</div>
+    </td>
+    <td>
+      <div>33.7</div>
+    </td>
+    <td>
+      <div>2,897</div>
+    </td>
+    <td>
+      <div>2,897</div>
+    </td>
+    <td>
+      <div>2,897</div>
+    </td>
+    <td>
+      <div>2,897</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>113</div>
+    </td>
+    <td>
+      <div>35.0</div>
+    </td>
+    <td>
+      <div>3,009</div>
+    </td>
+    <td>
+      <div>3,009</div>
+    </td>
+    <td>
+      <div>3,009</div>
+    </td>
+    <td>
+      <div>3,009</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>19</div>
+    </td>
+    <td>
+      <div>112</div>
+    </td>
+    <td>
+      <div>36.2</div>
+    </td>
+    <td>
+      <div>3,112</div>
+    </td>
+    <td>
+      <div>3,112</div>
+    </td>
+    <td>
+      <div>3,112</div>
+    </td>
+    <td>
+      <div>3,112</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>20</div>
+    </td>
+    <td>
+      <div>111</div>
+    </td>
+    <td>
+      <div>37.5</div>
+    </td>
+    <td>
+      <div>3,224</div>
+    </td>
+    <td>
+      <div>3,224</div>
+    </td>
+    <td>
+      <div>3,224</div>
+    </td>
+    <td>
+      <div>3,224</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>21</div>
+    </td>
+    <td>
+      <div>110</div>
+    </td>
+    <td>
+      <div>38.7</div>
+    </td>
+    <td>
+      <div>3,327</div>
+    </td>
+    <td>
+      <div>3,327</div>
+    </td>
+    <td>
+      <div>3,327</div>
+    </td>
+    <td>
+      <div>3,327</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>22</div>
+    </td>
+    <td>
+      <div>109</div>
+    </td>
+    <td>
+      <div>40.0</div>
+    </td>
+    <td>
+      <div>3,438</div>
+    </td>
+    <td>
+      <div>3,438</div>
+    </td>
+    <td>
+      <div>3,438</div>
+    </td>
+    <td>
+      <div>3,438</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>23</div>
+    </td>
+    <td>
+      <div>108</div>
+    </td>
+    <td>
+      <div>41.2</div>
+    </td>
+    <td>
+      <div>3,542</div>
+    </td>
+    <td>
+      <div>3,542</div>
+    </td>
+    <td>
+      <div>3,542</div>
+    </td>
+    <td>
+      <div>3,542</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>24</div>
+    </td>
+    <td>
+      <div>107</div>
+    </td>
+    <td>
+      <div>42.5</div>
+    </td>
+    <td>
+      <div>3,653</div>
+    </td>
+    <td>
+      <div>3,653</div>
+    </td>
+    <td>
+      <div>3,653</div>
+    </td>
+    <td>
+      <div>3,653</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>25</div>
+    </td>
+    <td>
+      <div>106</div>
+    </td>
+    <td>
+      <div>43.7</div>
+    </td>
+    <td>
+      <div>3,757</div>
+    </td>
+    <td>
+      <div>3,757</div>
+    </td>
+    <td>
+      <div>3,757</div>
+    </td>
+    <td>
+      <div>3,757</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>26</div>
+    </td>
+    <td>
+      <div>105</div>
+    </td>
+    <td>
+      <div>45.0</div>
+    </td>
+    <td>
+      <div>3,868</div>
+    </td>
+    <td>
+      <div>3,868</div>
+    </td>
+    <td>
+      <div>3,868</div>
+    </td>
+    <td>
+      <div>3,868</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>27</div>
+    </td>
+    <td>
+      <div>104</div>
+    </td>
+    <td>
+      <div>46.2</div>
+    </td>
+    <td>
+      <div>3,971</div>
+    </td>
+    <td>
+      <div>3,971</div>
+    </td>
+    <td>
+      <div>3,971</div>
+    </td>
+    <td>
+      <div>3,971</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>28</div>
+    </td>
+    <td>
+      <div>103</div>
+    </td>
+    <td>
+      <div>47.5</div>
+    </td>
+    <td>
+      <div>4,083</div>
+    </td>
+    <td>
+      <div>4,083</div>
+    </td>
+    <td>
+      <div>4,083</div>
+    </td>
+    <td>
+      <div>4,083</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>29</div>
+    </td>
+    <td>
+      <div>102</div>
+    </td>
+    <td>
+      <div>48.7</div>
+    </td>
+    <td>
+      <div>4,186</div>
+    </td>
+    <td>
+      <div>4,186</div>
+    </td>
+    <td>
+      <div>4,186</div>
+    </td>
+    <td>
+      <div>4,186</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>30</div>
+    </td>
+    <td>
+      <div>101</div>
+    </td>
+    <td>
+      <div>50.0</div>
+    </td>
+    <td>
+      <div>4,298</div>
+    </td>
+    <td>
+      <div>4,298</div>
+    </td>
+    <td>
+      <div>4,298</div>
+    </td>
+    <td>
+      <div>4,298</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>31</div>
+    </td>
+    <td>
+      <div>100</div>
+    </td>
+    <td>
+      <div>51.2</div>
+    </td>
+    <td>
+      <div>4,401</div>
+    </td>
+    <td>
+      <div>4,401</div>
+    </td>
+    <td>
+      <div>4,401</div>
+    </td>
+    <td>
+      <div>4,401</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>32</div>
+    </td>
+    <td>
+      <div>99</div>
+    </td>
+    <td>
+      <div>52.5</div>
+    </td>
+    <td>
+      <div>4,513</div>
+    </td>
+    <td>
+      <div>4,513</div>
+    </td>
+    <td>
+      <div>4,513</div>
+    </td>
+    <td>
+      <div>4,513</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>33</div>
+    </td>
+    <td>
+      <div>98</div>
+    </td>
+    <td>
+      <div>53.7</div>
+    </td>
+    <td>
+      <div>4,616</div>
+    </td>
+    <td>
+      <div>4,616</div>
+    </td>
+    <td>
+      <div>4,616</div>
+    </td>
+    <td>
+      <div>4,616</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>34</div>
+    </td>
+    <td>
+      <div>97</div>
+    </td>
+    <td>
+      <div>55.0</div>
+    </td>
+    <td>
+      <div>4,728</div>
+    </td>
+    <td>
+      <div>4,728</div>
+    </td>
+    <td>
+      <div>4,728</div>
+    </td>
+    <td>
+      <div>4,728</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>35</div>
+    </td>
+    <td>
+      <div>96</div>
+    </td>
+    <td>
+      <div>56.2</div>
+    </td>
+    <td>
+      <div>4,831</div>
+    </td>
+    <td>
+      <div>4,831</div>
+    </td>
+    <td>
+      <div>4,831</div>
+    </td>
+    <td>
+      <div>4,831</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>36</div>
+    </td>
+    <td>
+      <div>95</div>
+    </td>
+    <td>
+      <div>57.5</div>
+    </td>
+    <td>
+      <div>4,943</div>
+    </td>
+    <td>
+      <div>4,943</div>
+    </td>
+    <td>
+      <div>4,943</div>
+    </td>
+    <td>
+      <div>4,943</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>37</div>
+    </td>
+    <td>
+      <div>94</div>
+    </td>
+    <td>
+      <div>58.7</div>
+    </td>
+    <td>
+      <div>5,046</div>
+    </td>
+    <td>
+      <div>5,046</div>
+    </td>
+    <td>
+      <div>5,046</div>
+    </td>
+    <td>
+      <div>5,046</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>38</div>
+    </td>
+    <td>
+      <div>93</div>
+    </td>
+    <td>
+      <div>60.0</div>
+    </td>
+    <td>
+      <div>5,157</div>
+    </td>
+    <td>
+      <div>5,157</div>
+    </td>
+    <td>
+      <div>5,157</div>
+    </td>
+    <td>
+      <div>5,157</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>39</div>
+    </td>
+    <td>
+      <div>92</div>
+    </td>
+    <td>
+      <div>61.2</div>
+    </td>
+    <td>
+      <div>5,261</div>
+    </td>
+    <td>
+      <div>5,261</div>
+    </td>
+    <td>
+      <div>5,261</div>
+    </td>
+    <td>
+      <div>5,261</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>40</div>
+    </td>
+    <td>
+      <div>91</div>
+    </td>
+    <td>
+      <div>62.5</div>
+    </td>
+    <td>
+      <div>5,372</div>
+    </td>
+    <td>
+      <div>5,372</div>
+    </td>
+    <td>
+      <div>5,372</div>
+    </td>
+    <td>
+      <div>5,372</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>41</div>
+    </td>
+    <td>
+      <div>90</div>
+    </td>
+    <td>
+      <div>63.7</div>
+    </td>
+    <td>
+      <div>5,476</div>
+    </td>
+    <td>
+      <div>5,476</div>
+    </td>
+    <td>
+      <div>5,476</div>
+    </td>
+    <td>
+      <div>5,476</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>42</div>
+    </td>
+    <td>
+      <div>89</div>
+    </td>
+    <td>
+      <div>65.0</div>
+    </td>
+    <td>
+      <div>5,587</div>
+    </td>
+    <td>
+      <div>5,587</div>
+    </td>
+    <td>
+      <div>5,587</div>
+    </td>
+    <td>
+      <div>5,587</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>43</div>
+    </td>
+    <td>
+      <div>88</div>
+    </td>
+    <td>
+      <div>66.2</div>
+    </td>
+    <td>
+      <div>5,690</div>
+    </td>
+    <td>
+      <div>5,690</div>
+    </td>
+    <td>
+      <div>5,690</div>
+    </td>
+    <td>
+      <div>5,690</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>44</div>
+    </td>
+    <td>
+      <div>87</div>
+    </td>
+    <td>
+      <div>67.5</div>
+    </td>
+    <td>
+      <div>5,802</div>
+    </td>
+    <td>
+      <div>5,802</div>
+    </td>
+    <td>
+      <div>5,802</div>
+    </td>
+    <td>
+      <div>5,802</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>45</div>
+    </td>
+    <td>
+      <div>86</div>
+    </td>
+    <td>
+      <div>68.7</div>
+    </td>
+    <td>
+      <div>5,905</div>
+    </td>
+    <td>
+      <div>5,905</div>
+    </td>
+    <td>
+      <div>5,905</div>
+    </td>
+    <td>
+      <div>5,905</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>46</div>
+    </td>
+    <td>
+      <div>85 or less</div>
+    </td>
+    <td>
+      <div>70.0</div>
+    </td>
+    <td>
+      <div>6,017</div>
+    </td>
+    <td>
+      <div>6,017</div>
+    </td>
+    <td>
+      <div>6,017</div>
+    </td>
+    <td>
+      <div>6,017</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          The operation of sections 121 and 123 may affect the amounts in columns 3, 4, 5 and 6.
 
@@ -6234,306 +6235,308 @@ Note:          The operation of sections 121 and 123 may a
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>11.8</div>
-  </td>
-  <td>
-    <div>777</div>
-  </td>
-  <td>
-    <div>777</div>
-  </td>
-  <td>
-    <div>777</div>
-  </td>
-  <td>
-    <div>777</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>14.0</div>
-  </td>
-  <td>
-    <div>922</div>
-  </td>
-  <td>
-    <div>922</div>
-  </td>
-  <td>
-    <div>922</div>
-  </td>
-  <td>
-    <div>922</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>15.7</div>
-  </td>
-  <td>
-    <div>1,034</div>
-  </td>
-  <td>
-    <div>1,034</div>
-  </td>
-  <td>
-    <div>1,034</div>
-  </td>
-  <td>
-    <div>1,034</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>19.6</div>
-  </td>
-  <td>
-    <div>1,290</div>
-  </td>
-  <td>
-    <div>1,290</div>
-  </td>
-  <td>
-    <div>1,290</div>
-  </td>
-  <td>
-    <div>1,290</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>19.7</div>
-  </td>
-  <td>
-    <div>1,297</div>
-  </td>
-  <td>
-    <div>1,297</div>
-  </td>
-  <td>
-    <div>1,297</div>
-  </td>
-  <td>
-    <div>1,297</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>23.9</div>
-  </td>
-  <td>
-    <div>1,573</div>
-  </td>
-  <td>
-    <div>1,573</div>
-  </td>
-  <td>
-    <div>1,573</div>
-  </td>
-  <td>
-    <div>1,573</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>29.0</div>
-  </td>
-  <td>
-    <div>1,909</div>
-  </td>
-  <td>
-    <div>1,909</div>
-  </td>
-  <td>
-    <div>1,909</div>
-  </td>
-  <td>
-    <div>1,909</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>32.0</div>
-  </td>
-  <td>
-    <div>2,106</div>
-  </td>
-  <td>
-    <div>2,106</div>
-  </td>
-  <td>
-    <div>2,106</div>
-  </td>
-  <td>
-    <div>2,106</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>34.7</div>
-  </td>
-  <td>
-    <div>2,284</div>
-  </td>
-  <td>
-    <div>2,284</div>
-  </td>
-  <td>
-    <div>2,284</div>
-  </td>
-  <td>
-    <div>2,284</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>35.0</div>
-  </td>
-  <td>
-    <div>2,303</div>
-  </td>
-  <td>
-    <div>2,303</div>
-  </td>
-  <td>
-    <div>2,303</div>
-  </td>
-  <td>
-    <div>2,303</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>38.7</div>
-  </td>
-  <td>
-    <div>2,547</div>
-  </td>
-  <td>
-    <div>2,547</div>
-  </td>
-  <td>
-    <div>2,547</div>
-  </td>
-  <td>
-    <div>2,547</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>43.8</div>
-  </td>
-  <td>
-    <div>2,883</div>
-  </td>
-  <td>
-    <div>2,883</div>
-  </td>
-  <td>
-    <div>2,883</div>
-  </td>
-  <td>
-    <div>2,883</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>47.5</div>
-  </td>
-  <td>
-    <div>3,126</div>
-  </td>
-  <td>
-    <div>3,126</div>
-  </td>
-  <td>
-    <div>3,126</div>
-  </td>
-  <td>
-    <div>3,126</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>51.6</div>
-  </td>
-  <td>
-    <div>3,396</div>
-  </td>
-  <td>
-    <div>3,396</div>
-  </td>
-  <td>
-    <div>3,396</div>
-  </td>
-  <td>
-    <div>3,396</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15</div>
-  </td>
-  <td>
-    <div>56.0</div>
-  </td>
-  <td>
-    <div>3,685</div>
-  </td>
-  <td>
-    <div>3,685</div>
-  </td>
-  <td>
-    <div>3,685</div>
-  </td>
-  <td>
-    <div>3,685</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>11.8</div>
+    </td>
+    <td>
+      <div>777</div>
+    </td>
+    <td>
+      <div>777</div>
+    </td>
+    <td>
+      <div>777</div>
+    </td>
+    <td>
+      <div>777</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>14.0</div>
+    </td>
+    <td>
+      <div>922</div>
+    </td>
+    <td>
+      <div>922</div>
+    </td>
+    <td>
+      <div>922</div>
+    </td>
+    <td>
+      <div>922</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>15.7</div>
+    </td>
+    <td>
+      <div>1,034</div>
+    </td>
+    <td>
+      <div>1,034</div>
+    </td>
+    <td>
+      <div>1,034</div>
+    </td>
+    <td>
+      <div>1,034</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>19.6</div>
+    </td>
+    <td>
+      <div>1,290</div>
+    </td>
+    <td>
+      <div>1,290</div>
+    </td>
+    <td>
+      <div>1,290</div>
+    </td>
+    <td>
+      <div>1,290</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>19.7</div>
+    </td>
+    <td>
+      <div>1,297</div>
+    </td>
+    <td>
+      <div>1,297</div>
+    </td>
+    <td>
+      <div>1,297</div>
+    </td>
+    <td>
+      <div>1,297</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>23.9</div>
+    </td>
+    <td>
+      <div>1,573</div>
+    </td>
+    <td>
+      <div>1,573</div>
+    </td>
+    <td>
+      <div>1,573</div>
+    </td>
+    <td>
+      <div>1,573</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>29.0</div>
+    </td>
+    <td>
+      <div>1,909</div>
+    </td>
+    <td>
+      <div>1,909</div>
+    </td>
+    <td>
+      <div>1,909</div>
+    </td>
+    <td>
+      <div>1,909</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>32.0</div>
+    </td>
+    <td>
+      <div>2,106</div>
+    </td>
+    <td>
+      <div>2,106</div>
+    </td>
+    <td>
+      <div>2,106</div>
+    </td>
+    <td>
+      <div>2,106</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>34.7</div>
+    </td>
+    <td>
+      <div>2,284</div>
+    </td>
+    <td>
+      <div>2,284</div>
+    </td>
+    <td>
+      <div>2,284</div>
+    </td>
+    <td>
+      <div>2,284</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>35.0</div>
+    </td>
+    <td>
+      <div>2,303</div>
+    </td>
+    <td>
+      <div>2,303</div>
+    </td>
+    <td>
+      <div>2,303</div>
+    </td>
+    <td>
+      <div>2,303</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11</div>
+    </td>
+    <td>
+      <div>38.7</div>
+    </td>
+    <td>
+      <div>2,547</div>
+    </td>
+    <td>
+      <div>2,547</div>
+    </td>
+    <td>
+      <div>2,547</div>
+    </td>
+    <td>
+      <div>2,547</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>43.8</div>
+    </td>
+    <td>
+      <div>2,883</div>
+    </td>
+    <td>
+      <div>2,883</div>
+    </td>
+    <td>
+      <div>2,883</div>
+    </td>
+    <td>
+      <div>2,883</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13</div>
+    </td>
+    <td>
+      <div>47.5</div>
+    </td>
+    <td>
+      <div>3,126</div>
+    </td>
+    <td>
+      <div>3,126</div>
+    </td>
+    <td>
+      <div>3,126</div>
+    </td>
+    <td>
+      <div>3,126</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>14</div>
+    </td>
+    <td>
+      <div>51.6</div>
+    </td>
+    <td>
+      <div>3,396</div>
+    </td>
+    <td>
+      <div>3,396</div>
+    </td>
+    <td>
+      <div>3,396</div>
+    </td>
+    <td>
+      <div>3,396</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15</div>
+    </td>
+    <td>
+      <div>56.0</div>
+    </td>
+    <td>
+      <div>3,685</div>
+    </td>
+    <td>
+      <div>3,685</div>
+    </td>
+    <td>
+      <div>3,685</div>
+    </td>
+    <td>
+      <div>3,685</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          The operation of sections 121 and 122 may affect the amounts in columns 2, 3, 4 and 5.
 
@@ -6598,286 +6601,288 @@ Note:          The operation of sections 121 and 122 may a
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>14.2</div>
-  </td>
-  <td>
-    <div>1,221</div>
-  </td>
-  <td>
-    <div>1,221</div>
-  </td>
-  <td>
-    <div>1,221</div>
-  </td>
-  <td>
-    <div>1,221</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>15.6</div>
-  </td>
-  <td>
-    <div>1,341</div>
-  </td>
-  <td>
-    <div>1,341</div>
-  </td>
-  <td>
-    <div>1,341</div>
-  </td>
-  <td>
-    <div>1,341</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>18.9</div>
-  </td>
-  <td>
-    <div>1,625</div>
-  </td>
-  <td>
-    <div>1,625</div>
-  </td>
-  <td>
-    <div>1,625</div>
-  </td>
-  <td>
-    <div>1,625</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>21.9</div>
-  </td>
-  <td>
-    <div>1,883</div>
-  </td>
-  <td>
-    <div>1,883</div>
-  </td>
-  <td>
-    <div>1,883</div>
-  </td>
-  <td>
-    <div>1,883</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>28.7</div>
-  </td>
-  <td>
-    <div>2,467</div>
-  </td>
-  <td>
-    <div>2,467</div>
-  </td>
-  <td>
-    <div>2,467</div>
-  </td>
-  <td>
-    <div>2,467</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>32.2</div>
-  </td>
-  <td>
-    <div>2,768</div>
-  </td>
-  <td>
-    <div>2,768</div>
-  </td>
-  <td>
-    <div>2,768</div>
-  </td>
-  <td>
-    <div>2,768</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>35.7</div>
-  </td>
-  <td>
-    <div>3,069</div>
-  </td>
-  <td>
-    <div>3,069</div>
-  </td>
-  <td>
-    <div>3,069</div>
-  </td>
-  <td>
-    <div>3,069</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>38.8</div>
-  </td>
-  <td>
-    <div>3,335</div>
-  </td>
-  <td>
-    <div>3,335</div>
-  </td>
-  <td>
-    <div>3,335</div>
-  </td>
-  <td>
-    <div>3,335</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>39.1</div>
-  </td>
-  <td>
-    <div>3,361</div>
-  </td>
-  <td>
-    <div>3,361</div>
-  </td>
-  <td>
-    <div>3,361</div>
-  </td>
-  <td>
-    <div>3,361</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>43.2</div>
-  </td>
-  <td>
-    <div>3,714</div>
-  </td>
-  <td>
-    <div>3,714</div>
-  </td>
-  <td>
-    <div>3,714</div>
-  </td>
-  <td>
-    <div>3,714</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>48.8</div>
-  </td>
-  <td>
-    <div>4,195</div>
-  </td>
-  <td>
-    <div>4,195</div>
-  </td>
-  <td>
-    <div>4,195</div>
-  </td>
-  <td>
-    <div>4,195</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>53.0</div>
-  </td>
-  <td>
-    <div>4,556</div>
-  </td>
-  <td>
-    <div>4,556</div>
-  </td>
-  <td>
-    <div>4,556</div>
-  </td>
-  <td>
-    <div>4,556</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>57.5</div>
-  </td>
-  <td>
-    <div>4,943</div>
-  </td>
-  <td>
-    <div>4,943</div>
-  </td>
-  <td>
-    <div>4,943</div>
-  </td>
-  <td>
-    <div>4,943</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>62.4</div>
-  </td>
-  <td>
-    <div>5,364</div>
-  </td>
-  <td>
-    <div>5,364</div>
-  </td>
-  <td>
-    <div>5,364</div>
-  </td>
-  <td>
-    <div>5,364</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>14.2</div>
+    </td>
+    <td>
+      <div>1,221</div>
+    </td>
+    <td>
+      <div>1,221</div>
+    </td>
+    <td>
+      <div>1,221</div>
+    </td>
+    <td>
+      <div>1,221</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>15.6</div>
+    </td>
+    <td>
+      <div>1,341</div>
+    </td>
+    <td>
+      <div>1,341</div>
+    </td>
+    <td>
+      <div>1,341</div>
+    </td>
+    <td>
+      <div>1,341</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>18.9</div>
+    </td>
+    <td>
+      <div>1,625</div>
+    </td>
+    <td>
+      <div>1,625</div>
+    </td>
+    <td>
+      <div>1,625</div>
+    </td>
+    <td>
+      <div>1,625</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>21.9</div>
+    </td>
+    <td>
+      <div>1,883</div>
+    </td>
+    <td>
+      <div>1,883</div>
+    </td>
+    <td>
+      <div>1,883</div>
+    </td>
+    <td>
+      <div>1,883</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>28.7</div>
+    </td>
+    <td>
+      <div>2,467</div>
+    </td>
+    <td>
+      <div>2,467</div>
+    </td>
+    <td>
+      <div>2,467</div>
+    </td>
+    <td>
+      <div>2,467</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>32.2</div>
+    </td>
+    <td>
+      <div>2,768</div>
+    </td>
+    <td>
+      <div>2,768</div>
+    </td>
+    <td>
+      <div>2,768</div>
+    </td>
+    <td>
+      <div>2,768</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>35.7</div>
+    </td>
+    <td>
+      <div>3,069</div>
+    </td>
+    <td>
+      <div>3,069</div>
+    </td>
+    <td>
+      <div>3,069</div>
+    </td>
+    <td>
+      <div>3,069</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>38.8</div>
+    </td>
+    <td>
+      <div>3,335</div>
+    </td>
+    <td>
+      <div>3,335</div>
+    </td>
+    <td>
+      <div>3,335</div>
+    </td>
+    <td>
+      <div>3,335</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>39.1</div>
+    </td>
+    <td>
+      <div>3,361</div>
+    </td>
+    <td>
+      <div>3,361</div>
+    </td>
+    <td>
+      <div>3,361</div>
+    </td>
+    <td>
+      <div>3,361</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>43.2</div>
+    </td>
+    <td>
+      <div>3,714</div>
+    </td>
+    <td>
+      <div>3,714</div>
+    </td>
+    <td>
+      <div>3,714</div>
+    </td>
+    <td>
+      <div>3,714</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11</div>
+    </td>
+    <td>
+      <div>48.8</div>
+    </td>
+    <td>
+      <div>4,195</div>
+    </td>
+    <td>
+      <div>4,195</div>
+    </td>
+    <td>
+      <div>4,195</div>
+    </td>
+    <td>
+      <div>4,195</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>53.0</div>
+    </td>
+    <td>
+      <div>4,556</div>
+    </td>
+    <td>
+      <div>4,556</div>
+    </td>
+    <td>
+      <div>4,556</div>
+    </td>
+    <td>
+      <div>4,556</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13</div>
+    </td>
+    <td>
+      <div>57.5</div>
+    </td>
+    <td>
+      <div>4,943</div>
+    </td>
+    <td>
+      <div>4,943</div>
+    </td>
+    <td>
+      <div>4,943</div>
+    </td>
+    <td>
+      <div>4,943</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>14</div>
+    </td>
+    <td>
+      <div>62.4</div>
+    </td>
+    <td>
+      <div>5,364</div>
+    </td>
+    <td>
+      <div>5,364</div>
+    </td>
+    <td>
+      <div>5,364</div>
+    </td>
+    <td>
+      <div>5,364</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          The operation of sections 121 and 123 may affect the amounts in columns 2, 3, 4 and 5.
 
@@ -6927,106 +6932,108 @@ _Note:       See section 99._
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>2005</div>
-  </td>
-  <td>
-    <div>101,838</div>
-  </td>
-  <td>
-    <div>60,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>2006</div>
-  </td>
-  <td>
-    <div>101,838</div>
-  </td>
-  <td>
-    <div>80,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>2007</div>
-  </td>
-  <td>
-    <div>101,838</div>
-  </td>
-  <td>
-    <div>80,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>2008</div>
-  </td>
-  <td>
-    <div>90,123</div>
-  </td>
-  <td>
-    <div>80,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>2009</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>2010</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>2011</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>2005</div>
+    </td>
+    <td>
+      <div>101,838</div>
+    </td>
+    <td>
+      <div>60,000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>2006</div>
+    </td>
+    <td>
+      <div>101,838</div>
+    </td>
+    <td>
+      <div>80,000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>2007</div>
+    </td>
+    <td>
+      <div>101,838</div>
+    </td>
+    <td>
+      <div>80,000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>2008</div>
+    </td>
+    <td>
+      <div>90,123</div>
+    </td>
+    <td>
+      <div>80,000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>2009</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>2010</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>2011</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+</tbody></table>
 
-Note 1:       The operation of sections 123A and 126 may affect the amount of the grants.
+Note 1:       The operation of section 126 may affect the amount of the grants in column 2.
 
 Note 2:       Amounts for program years 2009, 2010 and 2011 will be inserted by later amending Acts.
 
@@ -7068,50 +7075,52 @@ _Note:       See section 100._
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>2005</div>
-  </td>
-  <td>
-    <div>2,500</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>2006</div>
-  </td>
-  <td>
-    <div>2,500</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>2007</div>
-  </td>
-  <td>
-    <div>2,500</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>2008</div>
-  </td>
-  <td>
-    <div>2,500</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>2005</div>
+    </td>
+    <td>
+      <div>2,500</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>2006</div>
+    </td>
+    <td>
+      <div>2,500</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>2007</div>
+    </td>
+    <td>
+      <div>2,500</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>2008</div>
+    </td>
+    <td>
+      <div>2,500</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          The operation of section 127 may affect the amount of the grants.
 
@@ -7151,52 +7160,54 @@ _Note:       See section 101._
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>2005</div>
-  </td>
-  <td>
-    <div>887</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>2006</div>
-  </td>
-  <td>
-    <div>887</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>2007</div>
-  </td>
-  <td>
-    <div>887</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>2008</div>
-  </td>
-  <td>
-    <div>887</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>2005</div>
+    </td>
+    <td>
+      <div>887</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>2006</div>
+    </td>
+    <td>
+      <div>887</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>2007</div>
+    </td>
+    <td>
+      <div>887</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>2008</div>
+    </td>
+    <td>
+      <div>887</div>
+    </td>
+  </tr>
+</tbody></table>
 
-Note:          The operation of sections 123A and 124 may affect the amount of the grants.
+Note:          The operation of section 124 may affect the amount of the grants.
 
 # Schedule 8—Grants for targeted assistance
 
@@ -7246,64 +7257,66 @@ _Note:       See sections 103 to 114._
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>2005</div>
-  </td>
-  <td>
-    <div>25,597</div>
-  </td>
-  <td>
-    <div>23,794</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>2006</div>
-  </td>
-  <td>
-    <div>25,597</div>
-  </td>
-  <td>
-    <div>26,174</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>2007</div>
-  </td>
-  <td>
-    <div>25,597</div>
-  </td>
-  <td>
-    <div>24,984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>2008</div>
-  </td>
-  <td>
-    <div>25,597</div>
-  </td>
-  <td>
-    <div>24,984</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>2005</div>
+    </td>
+    <td>
+      <div>25,597</div>
+    </td>
+    <td>
+      <div>23,794</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>2006</div>
+    </td>
+    <td>
+      <div>25,597</div>
+    </td>
+    <td>
+      <div>26,174</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>2007</div>
+    </td>
+    <td>
+      <div>25,597</div>
+    </td>
+    <td>
+      <div>24,984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>2008</div>
+    </td>
+    <td>
+      <div>25,597</div>
+    </td>
+    <td>
+      <div>24,984</div>
+    </td>
+  </tr>
+</tbody></table>
 
-Note:          The operation of sections 123A and 124 may affect the amount of the grants.
+Note:          The operation of section 124 may affect the amount of the grants.
 
 ## Part 2—ESL new arrivals amount
 
@@ -7339,50 +7352,52 @@ Note:          The operation of sections 123A and 124 may 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>2005</div>
-  </td>
-  <td>
-    <div>4,854</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>2006</div>
-  </td>
-  <td>
-    <div>4,854</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>2007</div>
-  </td>
-  <td>
-    <div>4,854</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>2008</div>
-  </td>
-  <td>
-    <div>4,854</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>2005</div>
+    </td>
+    <td>
+      <div>4,854</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>2006</div>
+    </td>
+    <td>
+      <div>4,854</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>2007</div>
+    </td>
+    <td>
+      <div>4,854</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>2008</div>
+    </td>
+    <td>
+      <div>4,854</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          The operation of section 124 may affect the amount of the grants.
 
@@ -7461,100 +7476,102 @@ _Note:       See sections 115 to 120._
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>2005</div>
-  </td>
-  <td>
-    <div>370,313</div>
-  </td>
-  <td>
-    <div>9,815</div>
-  </td>
-  <td>
-    <div>28,392</div>
-  </td>
-  <td>
-    <div>3,433</div>
-  </td>
-  <td>
-    <div>8,691</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>2006</div>
-  </td>
-  <td>
-    <div>370,393</div>
-  </td>
-  <td>
-    <div>9,815</div>
-  </td>
-  <td>
-    <div>29,250</div>
-  </td>
-  <td>
-    <div>3,433</div>
-  </td>
-  <td>
-    <div>19,099</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>2007</div>
-  </td>
-  <td>
-    <div>370,390</div>
-  </td>
-  <td>
-    <div>9,815</div>
-  </td>
-  <td>
-    <div>30,109</div>
-  </td>
-  <td>
-    <div>3,433</div>
-  </td>
-  <td>
-    <div>9,445</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>2008</div>
-  </td>
-  <td>
-    <div>370,390</div>
-  </td>
-  <td>
-    <div>9,815</div>
-  </td>
-  <td>
-    <div>30,967</div>
-  </td>
-  <td>
-    <div>3,433</div>
-  </td>
-  <td>
-    <div>0</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>2005</div>
+    </td>
+    <td>
+      <div>370,313</div>
+    </td>
+    <td>
+      <div>9,815</div>
+    </td>
+    <td>
+      <div>28,392</div>
+    </td>
+    <td>
+      <div>3,433</div>
+    </td>
+    <td>
+      <div>8,691</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>2006</div>
+    </td>
+    <td>
+      <div>370,393</div>
+    </td>
+    <td>
+      <div>9,815</div>
+    </td>
+    <td>
+      <div>29,250</div>
+    </td>
+    <td>
+      <div>3,433</div>
+    </td>
+    <td>
+      <div>19,099</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>2007</div>
+    </td>
+    <td>
+      <div>370,390</div>
+    </td>
+    <td>
+      <div>9,815</div>
+    </td>
+    <td>
+      <div>30,109</div>
+    </td>
+    <td>
+      <div>3,433</div>
+    </td>
+    <td>
+      <div>9,445</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>2008</div>
+    </td>
+    <td>
+      <div>370,390</div>
+    </td>
+    <td>
+      <div>9,815</div>
+    </td>
+    <td>
+      <div>30,967</div>
+    </td>
+    <td>
+      <div>3,433</div>
+    </td>
+    <td>
+      <div>0</div>
+    </td>
+  </tr>
+</tbody></table>
 
-Note:          The operation of sections 123A and 124 may affect the amount of the grants.
+Note:          The operation of section 124 may affect the amount of the grants.
 
 ## Part 2—Strategic assistance amounts
 
@@ -7600,64 +7617,67 @@ Note:          The operation of sections 123A and 124 may 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>2005</div>
-  </td>
-  <td>
-    <div>141</div>
-  </td>
-  <td>
-    <div>715</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>2006</div>
-  </td>
-  <td>
-    <div>141</div>
-  </td>
-  <td>
-    <div>715</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>2007</div>
-  </td>
-  <td>
-    <div>141</div>
-  </td>
-  <td>
-    <div>715</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>2008</div>
-  </td>
-  <td>
-    <div>141</div>
-  </td>
-  <td>
-    <div>715</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>2005</div>
+    </td>
+    <td>
+      <div>141</div>
+    </td>
+    <td>
+      <div>715</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>2006</div>
+    </td>
+    <td>
+      <div>141</div>
+    </td>
+    <td>
+      <div>715</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>2007</div>
+    </td>
+    <td>
+      <div>141</div>
+    </td>
+    <td>
+      <div>715</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>2008</div>
+    </td>
+    <td>
+      <div>141</div>
+    </td>
+    <td>
+      <div>715</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          The operation of section 124 may affect the amount of the grants.
+
 
 # Notes to the _Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Act 2004_
 
@@ -7683,11 +7703,13 @@ The _Schools Assistance (Learning Together—Achievement Through Choice and Oppo
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -7697,45 +7719,50 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Act 2004</div>
-  </td>
-  <td>
-    <div>135, 2004</div>
-  </td>
-  <td>
-    <div>13 Dec 2004</div>
-  </td>
-  <td>
-    <div>1 Jan 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>29, 2006</div>
-  </td>
-  <td>
-    <div>6 Apr 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 3): <i>(a)</i> 
+<tbody>
+  <tr>
+    <td>
+      <div>Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Act 2004</div>
+    </td>
+    <td>
+      <div>135, 2004</div>
+    </td>
+    <td>
+      <div>13 Dec 2004</div>
+    </td>
+    <td>
+      <div>1 Jan 2005</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment Act 2006</div>
+    </td>
+    <td>
+      <div>29, 2006</div>
+    </td>
+    <td>
+      <div>6 Apr 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 3): <i>(a)</i> 
 Schedule 1 (items 21, 22, 
-26–28, 31, 34): 6 Oct 2006 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+26–28, 31, 34): \[ <i>see</i>Note 2] 
+Remainder: Royal Assent 
 
-_(a)_     Subsection 2(1) (item 3) of the _Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment Act 2006_ provides as follows:
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+_(a)_     Subsection 2(1) (item 3) of the _Schools Assistance (Learning Together—Achievement Through Choice and__Opportunity__) Amendment Act 2006_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -7803,25 +7830,35 @@ _(a)_     Subsection 2(1) (item 3) of the _Schools Assistance (Learnin
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 1, item 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 36 of the
-        <i>Schools Assistance (Learning Together—Achievement Through Choice and Opportunity)
-          Act 2004</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        3\. Schedule 1, item 3
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of section 36 of the
+          <i>Schools Assistance (Learning Together—Achievement Through Choice and</i>
+
+        <i>
+          Opportunity
+        </i>
+        <i>
+          ) Act 2004
+        </i>
+        .
+      </div>
+    </td>
+    <td>
+      <div>
+        1 January 2005
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -7846,398 +7883,391 @@ _(a)_     Subsection 2(1) (item 3) of the _Schools Assistance (Learnin
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 50(1)</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 74–76</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 77</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision G</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. G of 
-Div. 2 of Part 6</div>
-  </td>
-  <td>
-    <div>rs. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 99</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1A</div>
-  </td>
-  <td>
-    <div>ad. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 123A</div>
-  </td>
-  <td>
-    <div>ad. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 125</div>
-  </td>
-  <td>
-    <div>rep. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 5</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 7</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 8</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 9</div>
-  </td>
-  <td>
-    <div>am. No. 29, 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 2 to s. 50(1)</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 69</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 71</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision B</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 74–76</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 77</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 77</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision G</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Subdiv. G of 
+Div. 2 of Part 6 
+</div>
+    </td>
+    <td>
+      <div>rs. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 99</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 3</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 8</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 8</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedule 9</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 9</div>
+    </td>
+    <td>
+      <div>am. No. 29, 2006</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+### Note 2
+
+_Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment Act 2006 (No. 29, 2006)_
+
+The following amendments commence on 6 October 2006 unless proclaimed earlier:
+
+## Schedule 1
+
+## 21  After Division 1 of Part 11
+
+Insert:
+
+### Division 1A—Grant amounts for particular program years
+
+##### <a id="123A"></a>123A  Changes to grant amounts for particular program years
+
+             (1)  The regulations may specify an amount for a relevant column for a particular program year.
+
+             (2)  If regulations are made under subsection (1) specifying an amount for a relevant column for a program year, this Act has effect as if the amount specified in the relevant column for the program year were the amount specified in the regulations for that relevant column for that program year.
+
+             (3)  To avoid doubt, an amount specified in regulations made under subsection (1) may be affected by the operation of section 124 or 126.
+
+             (4)  The amount the regulations may specify under subsection (1) may be nil.
+
+             (5)  For the purposes of this section, each of the following columns is a **_relevant column_**:
+
+                     (a)  column 2 or 3 of the table in Schedule 3;
+
+                     (b)  column 2 or 3 of the table in Schedule 5;
+
+                     (c)  column 2 of the table in Schedule 7;
+
+                     (d)  column 2 or 3 of the table in Part 1 of Schedule 8;
+
+                     (e)  column 2, 3, 4, 5 or 6 of the table in Part 1 of Schedule 9.
+
+## 22  Section 125
+
+Repeal the section.
+
+## 26  Schedule 3 (note 1 to the table)
+
+Repeal the note, substitute:
+
+Note 1:       The operation of sections 123A and 126 may affect the amount of the grants.
+
+## 27  Schedule 5 (note 1 to the table)
+
+Repeal the note, substitute:
+
+Note 1:       The operation of sections 123A and 126 may affect the amount of the grants.
+
+## 28  Schedule 7 (note to the table)
+
+Omit “section 124”, substitute “sections 123A and 124”.
+
+## 31  Part 1 of Schedule 8 (note to the table)
+
+Omit “section 124”, substitute “sections 123A and 124”.
+
+## 34  Part 1 of Schedule 9 (note to the table)
+
+Omit “section 124”, substitute “sections 123A and 124”.
+
+As at 18 April 2006 the amendments are not incorporated in this compilation.
+
+
+ 
 
  
