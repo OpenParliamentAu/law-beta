@@ -1,305 +1,456 @@
-![](http://www.comlaw.gov.au/Details/C2008C00386/Html/Domicile_WD02_image001.gif)
+**
 
-# Domicile Act 1982
+###  DOMICILE ACT 1982 
+**
 
-**Act No. 1 of 1982 as amended**
 
-This compilation was prepared on 10 July 2008
- taking into account amendments up to Act No. 73 of 2008
+**
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Object and application
 
-[4](#4).            Interpretation
+**
 
-[5](#5).            Operation of Act
+###  Long Title 
+**
+###  DOMICILE ACT 1982- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Domicile Act 1982_.
 
-[6](#6).            Abolition of rule of dependent domicile of married woman
+ 
+###  DOMICILE ACT 1982- SECT 2  Commencement [_see_ Note 1] 
+This Act shall come into operation on a date to be fixed by Proclamation.
 
-[7](#7).            Abolition of rule of revival of domicile of origin
+ 
+###  DOMICILE ACT 1982- SECT 3  Object and application 
+<dt>(1)</dt><dd>The object of this Act is to abolish the rule of law whereby a married
 
-[8](#8).            Capacity to have independent domicile
+woman has at all times the domicile of her husband, and to make certain other
 
-[9](#9).            Domicile of certain children
+reforms to the law relating to domicile, for the purposes of:
 
-[10](#10).          Intention for domicile of choice
+</dd> 
+<dl compact=""><dl compact="">
 
-[11](#11).          Domicile in a union
+<dt>(a)</dt><dd>the laws of the Commonwealth; and</dd>
 
-[12](#12).          Evidence of acquisition of domicile of choice
+<dt>(b)</dt><dd>the laws of (including the common law in force in) each of the Territories
 
-[13](#13).          Regulations
+to which this Act applies;
 
-**Notes** 
+</dd>
 
-## An Act relating to domicile
+</dl></dl>
+<dt>(2)</dt><dd>For the purposes of the application of this Act in relation to the laws of
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+the Commonwealth, this Act has effect to the exclusion of the laws of any
 
-                   This Act may be cited as the _Domicile Act 1982_.
+State, any Territory or any other country relating to any matters dealt with by
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+this Act.</dd> <dt>(3)</dt><dd>For the purposes of the application of this Act in relation to the laws of a Territory to which this Act applies, this Act has effect to the exclusion of the laws of any State, any other Territory or any other country relating to any matters dealt with by this Act.</dd> <dt>(4)</dt><dd>For the purposes of the application of this Act in relation to a law of the Commonwealth that extends to an external Territory, this Act shall be deemed to extend to that Territory.</dd> <dt>(5)</dt><dd>Where a provision of a law of the Commonwealth refers to domicile in, or to domicile outside, Australia, the provision shall, for the purposes of the application of this Act, be taken to refer to domicile in, or to domicile outside, as the case may be, the area that constitutes Australia, within the meaning of that provision, considered as a single country.</dd> <dt>(6)</dt><dd>The Territories to which this Act applies are the Australian Capital Territory, the Jervis Bay Territory and the external Territories (if any) that are declared by the regulations to be Territories to which this Act extends. </dd> 
+###  DOMICILE ACT 1982- SECT 4  Interpretation 
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-                   This Act shall come into operation on a date to be fixed by Proclamation.
+</dd> 
+<dl compact=""><dl compact="">
 
-##### <a id="3"></a>3  Object and application
+_adopted_ means:
 
-             (1)  The object of this Act is to abolish the rule of law whereby a married woman has at all times the domicile of her husband, and to make certain other reforms to the law relating to domicile, for the purposes of:
+ </dl></dl>
 
-                     (a)  the laws of the Commonwealth; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the laws of (including the common law in force in) each of the Territories to which this Act applies;
+<dt>(a)</dt><dd>adopted under the law of a State, the Northern Territory or a Territory to
 
-and this Act has effect, and shall be construed, accordingly.
+which this Act applies relating to the adoption of children; or</dd>
 
-             (2)  For the purposes of the application of this Act in relation to the laws of the Commonwealth, this Act has effect to the exclusion of the laws of any State, any Territory or any other country relating to any matters dealt with by this Act.
+<dt>(b)</dt><dd>adopted under the law of any other country relating to the adoption of
 
-             (3)  For the purposes of the application of this Act in relation to the laws of a Territory to which this Act applies, this Act has effect to the exclusion of the laws of any State, any other Territory or any other country relating to any matters dealt with by this Act.
+children, if the validity of the adoption is recognized under the law of a
 
-             (4)  For the purposes of the application of this Act in relation to a law of the Commonwealth that extends to an external Territory, this Act shall be deemed to extend to that Territory.
+State, the Northern Territory or a Territory to which this Act applies.
 
-             (5)  Where a provision of a law of the Commonwealth refers to domicile in, or to domicile outside, Australia, the provision shall, for the purposes of the application of this Act, be taken to refer to domicile in, or to domicile outside, as the case may be, the area that constitutes Australia, within the meaning of that provision, considered as a single country.
+</dd>
 
-             (6)  The Territories to which this Act applies are the Australian Capital Territory, the Jervis Bay Territory and the external Territories (if any) that are declared by the regulations to be Territories to which this Act extends. 
+</dl></dl></dl>
 
-##### <a id="4"></a>4  Interpretation
+<center>Back to Top</center>
 
-             (1)  In this Act, unless the contrary intention appears:
+<def><dl compact=""><dl compact="">
 
-                    <a name="adopted"></a>**_adopted_** means:
+_child_ means a person who:
 
-                     (a)  adopted under the law of a State, the Northern Territory or a Territory to which this Act applies relating to the adoption of children; or
+ </dl></dl>
 
-                     (b)  adopted under the law of any other country relating to the adoption of children, if the validity of the adoption is recognized under the law of a State, the Northern Territory or a Territory to which this Act applies.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="child"></a>**_child_** means a person who:
+<dt>(a)</dt><dd>has not attained the age of 18 years; and</dd>
 
-                     (a)  has not attained the age of 18 years; and
+<dt>(b)</dt><dd>is not, and has not at any time been, married.
 
-                     (b)  is not, and has not at any time been, married.
+</dd>
 
-                    <a name="countri"></a>**_country_** includes any state, province or other territory that is one of 2 or more territories that together form a country.
+</dl></dl></dl>
 
-                    <a name="union"></a>**_union_** means any country that is a union or federation or other aggregation of 2 or more countries, and includes Australia.
+<def><dl compact=""><dl compact="">
 
-             (2)  A reference in this Act to the parents of a child shall be read as including a reference to parents who are not married to each other. 
+_country_ includes any state, province or other territory
 
-##### <a id="5"></a>5  Operation of Act
+that is one of 2 or more territories that together form a country. _union_ means any country that is a union or federation or other aggregation of 2 or more countries, and includes Australia.  </dl></dl>
 
-             (1)  The domicile of a person at a time before the commencement of this Act shall be determined as if this Act and the _Domicile (Consequential Amendments) Act 1982_ had not been enacted.
+<dl compact="">
 
-             (2)  The domicile of a person at a time after the commencement of this Act shall be determined as if this Act had always been in force.
+<dt>(2)</dt><dd>A reference in this Act to the parents of a child shall be read as
 
-             (3)  Nothing in this Act affects the jurisdiction of any court in any proceedings commenced before the commencement of this Act. 
+including a reference to parents who are not married to each other.
 
-##### <a id="6"></a>6  Abolition of rule of dependent domicile of married woman
+</dd> </dl>
 
-                   The rule of law whereby a married woman has at all times the domicile of her husband is abolished. 
+**
 
-##### <a id="7"></a>7  Abolition of rule of revival of domicile of origin
+###  DOMICILE ACT 1982- SECT 5  Operation of Act 
+**
 
-                   The rule of law whereby the domicile of origin revives upon the abandonment of a domicile of choice without the acquisition of a new domicile of choice is abolished and the domicile a person has at any time continues until he or she acquires a different domicile. 
+ <dl compact="">
 
-##### <a id="8"></a>8  Capacity to have independent domicile
+<dt>(1)</dt><dd>The domicile of a person at a time before the commencement of this Act
 
-             (1)  A person is capable of having an independent domicile if:
+shall be determined as if this Act and the _Domicile (Consequential Amendments) Act 1982_ had not been enacted.</dd> <dt>(2)</dt><dd>The domicile of a person at a time after the commencement of this Act shall be determined as if this Act had always been in force.</dd> <dt>(3)</dt><dd>Nothing in this Act affects the jurisdiction of any court in any proceedings commenced before the commencement of this Act. </dd> </dl>
 
-                     (a)  he or she has attained the age of 18 years; or
+**
 
-                     (b)  he or she is, or has at any time been, married;
+###  DOMICILE ACT 1982- SECT 6  Abolition of rule of dependent domicile of married woman 
+**
+
+ <dl compact="">
+
+		The rule of law whereby a married woman has at all times the domicile of her
+
+husband is abolished.
+
+ </dl>
+
+**
+
+###  DOMICILE ACT 1982- SECT 7  Abolition of rule of revival of domicile of origin 
+**
+
+ <dl compact="">
+
+		The rule of law whereby the domicile of origin revives upon the abandonment
+
+of a domicile of choice without the acquisition of a new domicile of choice is
+
+abolished and the domicile a person has at any time continues until he acquires
+
+a different domicile.
+
+ </dl>
+
+**
+
+###  DOMICILE ACT 1982- SECT 8  Capacity to have independent domicile 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A person is capable of having an independent domicile if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>he has attained the age of 18 years; or</dd>
+
+<dt>(b)</dt><dd>he is, or has at any time been, married;
+
+</dd>
+
+</dl></dl></dl>
 
 and not otherwise.
 
-             (2)  Subsection (1) does not apply to a person who, under the rules of the common law relating to domicile, is incapable of acquiring a domicile by reason of mental incapacity. 
+<dl compact="">
 
-##### <a id="9"></a>9  Domicile of certain children
+<dt>(2)</dt><dd>Subsection (1) does not apply to a person who, under the rules of the
 
-             (1)  Where, at any time:
+common law relating to domicile, is incapable of acquiring a domicile by reason
 
-                     (a)  a child has his or her principal home with one of his or her parents; and
+of mental incapacity.
 
-                     (b)  his or her parents are living separately and apart or the child does not have another living parent;
+</dd> </dl>
 
-the domicile of the child at that time is the domicile that the parent with whom the child has his or her principal home has as at that time and thereafter the child has the domicile that that parent has from time to time or, if that parent dies, the domicile that that parent has at the time of death.
+**
 
-             (2)  Where a child is adopted, his or her domicile:
+###  DOMICILE ACT 1982- SECT 9  Domicile of certain children 
+**
 
-                     (a)  if, upon his or her adoption, he or she has 2 adoptive parents—is, at the time of the adoption and thereafter, the domicile he or she would have if he or she were a child born in wedlock to those parents; and
+ <dl compact="">
 
-                     (b)  if, upon his or her adoption, he or she has one adoptive parent only—is, at the time of the adoption, the domicile of that parent and thereafter is the domicile that that parent has from time to time or, if that parent dies, the domicile that that parent has at the time of death.
+<dt>(1)</dt><dd>Where, at any time:
 
-             (3)  A child ceases to have, by virtue of subsection (1), the domicile or last domicile of one of his or her parents if:
+</dd> </dl>
 
-                     (a)  he or she commences to have his or her principal home with his or her other parent; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  his or her parents resume or commence living together.
+<dt>(a)</dt><dd>a child has his principal home with one of his parents; and</dd>
 
-             (4)  Where a child has a domicile by virtue of subsection (1) or (2) immediately before he or she ceases to be a child, he or she retains that domicile until he or she acquires a domicile of choice.
+<dt>(b)</dt><dd>his parents are living separately and apart or the child does not have
 
-             (5)  Where the adoption of a child is rescinded, the domicile of the child shall thereafter be determined in accordance with any provisions with respect to that domicile that are included in the order rescinding the adoption and, so far as no provision is applicable, as if the adoption had not taken place. 
+another living parent;
 
-##### <a id="10"></a>10  Intention for domicile of choice
+</dd>
 
-                   The intention that a person must have in order to acquire a domicile of choice in a country is the intention to make his or her home indefinitely in that country. 
+</dl></dl></dl>
 
-##### <a id="11"></a>11  Domicile in a union
+the domicile of the child at that time is the domicile that the parent with 
+<center>Back to Top</center>
+ whom the child has his principal home has as at that time and thereafter the child has the domicile that that parent has from time to time or, if that parent dies, the domicile that that parent has at the time of death.
 
-                   A person who is, in accordance with the rules of the common law relating to domicile as modified by this Act, domiciled in a union, but is not, apart from this section, domiciled in any particular one of the countries that together form the union, is domiciled in that one of those countries with which he or she has for the time being the closest connection. 
+<dl compact="">
 
-##### <a id="12"></a>12  Evidence of acquisition of domicile of choice
+<dt>(2)</dt><dd>Where a child is adopted, his domicile:
 
-                   The acquisition of a domicile of choice in place of a domicile of origin may be established by evidence that would be sufficient to establish the domicile of choice if the previous domicile had also been a domicile of choice. 
+</dd> </dl>
 
-##### <a id="13"></a>13  Regulations
+<dl compact=""><dl compact=""><dl compact="">
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed, for carrying out or giving effect to this Act. 
+<dt>(a)</dt><dd>if, upon his adoption, he has 2 adoptive parents&#151;is, at the time of the
 
-# Notes to the _Domicile Act 1982_
+adoption and thereafter, the domicile he would have if he were a child born in
 
-### Note 1
+wedlock to those parents; and</dd>
+
+<dt>(b)</dt><dd>if, upon his adoption, he has one adoptive parent only&#151;is, at the time of
+
+the adoption, the domicile of that parent and thereafter is the domicile that
+
+that parent has from time to time or, if that parent dies, the domicile that
+
+that parent has at the time of death.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>A child ceases to have, by virtue of subsection (1), the domicile or last
+
+domicile of one of his parents if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>he commences to have his principal home with his other parent; or</dd>
+
+<dt>(b)</dt><dd>his parents resume or commence living together.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>Where a child has a domicile by virtue of subsection (1) or (2)
+
+immediately before he ceases to be a child, he retains that domicile until he
+
+acquires a domicile of choice.</dd> <dt>(5)</dt><dd>Where the adoption of a child is rescinded, the domicile of the child shall thereafter be determined in accordance with any provisions with respect to that domicile that are included in the order rescinding the adoption and, so far as no provision is applicable, as if the adoption had not taken place. </dd> </dl>
+
+**
+
+###  DOMICILE ACT 1982- SECT 10  Intention for domicile of choice 
+**
+
+ <dl compact="">
+
+		The intention that a person must have in order to acquire a domicile of
+
+choice in a country is the intention to make his home indefinitely in that
+
+country.
+
+ </dl>
+
+**
+
+###  DOMICILE ACT 1982- SECT 11  Domicile in a union 
+**
+
+ <dl compact="">
+
+		A person who is, in accordance with the rules of the common law relating to
+
+domicile as modified by this Act, domiciled in a union, but is not, apart from
+
+this section, domiciled in any particular one of the countries that together
+
+form the union, is domiciled in that one of those countries with which he has
+
+for the time being the closest connection.
+
+ </dl>
+
+**
+
+###  DOMICILE ACT 1982- SECT 12  Evidence of acquisition of domicile of choice 
+**
+
+ <dl compact="">
+
+		The acquisition of a domicile of choice in place of a domicile of origin may
+
+be established by evidence that would be sufficient to establish the domicile
+
+of choice if the previous domicile had also been a domicile of choice.
+
+ </dl>
+
+**
+
+###  DOMICILE ACT 1982- SECT 13  Regulations 
+**
+
+ <dl compact="">
+
+		The Governor-General may make regulations, not inconsistent with this Act,
+
+prescribing all matters required or permitted by this Act to be prescribed, or
+
+necessary or convenient to be prescribed, for carrying out or giving effect to
+
+this Act.
+
+ </dl>
+
+<center>**
+
+###  DOMICILE ACT 1982<centreit>Notes to the _Domicile Act 1982_ </centreit>
+**</center>
+
+**Note 1**
 
 The _Domicile Act 1982_ as shown in this compilation comprises Act No. 1, 1982 amended as indicated in the Tables below.
 
-### Table of Acts
+**Table of Acts**
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+<center>Back to Top</center>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Domicile Act 1982</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr></table>
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Domicile Act 1982</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1, 1982</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>4 Mar 1982</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1 July 1982 ( <i>see Gazette</i>1982, No. G26, p. 2)</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law (Miscellaneous Provisions) Act (No. 1) 1983</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>39, 1983</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>20 June 1983</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 3: 1 July 1982 <i>(a)</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 7(1)</div>
+
   </td>
+</tr></table>_(a)_ The _Domicile Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2 (8) of which provides as follows:
+
+	"(8)	The amendment of the _Domicile Act 1982_ made by this Act shall be deemed to have come into operation on 1 July 1982."
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 259–274): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
 
-_(a)_     The _Domicile Act 1982_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(8) of which provides as follows:
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
 
-                “(8)   The amendment of the _Domicile Act 1982_ made by this Act shall be deemed to have come into operation on 1 July 1982.”
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
-  <td>
-    <div>am. No. 39, 1983</div>
+  <td colspan="1" align="left">
+    <div>am. No.39, 1983</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Ss. 7–11</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
+<tr align="left">
+  <th colspan="1" align="left">
+
+  </th>
+  <th colspan="1" align="left">
+
+  </th>
 </tr></table>
 
- 
+</def></def>
+
+
