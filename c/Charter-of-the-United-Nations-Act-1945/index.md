@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00080/Html/CharteroftheUnitedNations1945_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00655/Html/CharteroftheUnitedNations1945_WD02_image001.gif)
 
 # Charter of the United Nations Act 1945
 
 **Act No. 32 of 1945 as amended**
 
-This compilation was prepared on 24 March 2008
+This compilation was prepared on 2 October 2007
  taking into account amendments up to Act No. 147 of 2007
 
 The text of any of those amendments not in force 
@@ -22,11 +22,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Definitions
-
-[2A](#2A).         Meaning of _designated Commonwealth entity_
-
-[2B](#2B).         Meaning of _UN sanction enforcement law_
+[2](#2).            Interpretation
 
 [3](#3).            Extension to external Territories
 
@@ -58,9 +54,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [13](#13).          Injunctions
 
-[13A](#13A).       Invalidation of permission, authorisations etc 
-
-**Part 4—Security Council decisions that relate to terrorism and dealings with assets**
+**Part 4—Offences to give effect to Security Council decisions**
 
 [14](#14).          Definitions
 
@@ -82,8 +76,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22A](#22A).       Regulations on procedures relating to freezable assets
 
-[22B](#22B).       Invalidation of notice for false or misleading information
-
 [23](#23).          Part prevails over conflicting legal obligations
 
 [24](#24).          Indemnity for holder of assets
@@ -91,38 +83,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [25](#25).          Compensation for persons wrongly affected
 
 [26](#26).          Injunctions
-
-**Part 5—Offences relating to UN sanctions**
-
-[27](#27).          Offence—Contravening a UN sanction enforcement law
-
-[28](#28).          Offence—False or misleading information given in connection with a UN sanction enforcement law
-
-**Part 6—Information relating to UN sanctions**
-
-[29](#29).          CEO of Commonwealth entity may give information or document
-
-[30](#30).          Power to require information or documents to be given
-
-[31](#31).          Information may be required to be given on oath
-
-[32](#32).          Offence for failure to comply with requirement
-
-[33](#33).          Self-incrimination not an excuse
-
-[34](#34).          CEO may copy documents
-
-[35](#35).          Further disclosure and use of information and documents
-
-[36](#36).          Protection from liability
-
-[37](#37).          Retention of records and documents
-
-[38](#38).          Delegation
-
-**Part 7—Miscellaneous**
-
-[39](#39).          Regulations
 
 **The Schedule—Charter of the United Nations** 
 
@@ -136,85 +96,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _Charter of the United Nations Act 1945_.
 
-##### <a id="2"></a>2  Definitions
+##### <a id="2"></a>2  Interpretation
 
-                   In this Act:
-
-                    <a name="asset"></a>**_asset_** means:
-
-                     (a)  an asset of any kind or property of any kind, whether tangible or intangible, movable or immovable, however acquired; and
-
-                     (b)  a legal document or instrument in any form, including electronic or digital, evidencing title to, or interest in, such an asset or such property, including, but not limited to, bank credits, travellers cheques, bank cheques, money orders, shares, securities, bonds, debt instruments, drafts and letters of credit.
-
-                    <a name="ceo"></a>**_CEO_**, in relation to a Commonwealth entity, means the chief executive officer (however described) of that entity.
-
-                    <a name="charter-united-nation"></a>**_Charter of the United Nations_** means the Charter of the United Nations, done at San Francisco on 26 June 1945 \[1945] ATS 1.
-
-Note:          The text of the Charter of the United Nations is set out in Australian Treaty Series 1945 No. 1\. In 2007, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
-
-                    <a name="commonwealth-entiti"></a>**_Commonwealth entity_** means:
-
-                     (a)  an agency (within the meaning of the _Financial Management and Accountability Act 1997_); or
-
-                     (b)  a Commonwealth authority (within the meaning of the _Commonwealth Authorities and Companies Act 1997_).
-
-                    <a name="design-commonwealth-entiti"></a>**_designated Commonwealth entity_** means a Commonwealth entity that is specified in an instrument under section 2A.
-
-                    <a name="entiti"></a><a name="foreign-govern"></a>**_foreign government_** **_entity_** means:
-
-                     (a)  the government of a foreign country or of part of a foreign country; or
-
-                     (b)  an authority of the government of a foreign country; or
-
-                     (c)  an authority of the government of part of a foreign country.
-
-                    <a name="offic"></a>**_officer_** of a Commonwealth entity includes:
-
-                     (a)  the CEO of the Commonwealth entity; and
-
-                     (b)  an employee of the Commonwealth entity; and
-
-                     (c)  any other person engaged by the Commonwealth entity, under contract or otherwise, to exercise powers, or perform duties or functions, of the Commonwealth entity.
-
-                    <a name="public-intern-organis"></a>**_public international organisation_** has the meaning given by section 70.1 of the _Criminal Code_.
-
-                    <a name="state-territori-entiti"></a>**_State or Territory entity_** means:
-
-                     (a)  a State or Territory; or
-
-                     (b)  an authority of a State or Territory.
-
-                    <a name="un-sanction-enforc-law"></a>**_UN sanction enforcement law_** means a provision that is specified in an instrument under subsection 2B(1).
-
-##### <a id="2A"></a>2A  Meaning of _designated Commonwealth entity_
-
-                   The Minister may, by legislative instrument, specify a Commonwealth entity as a **_designated Commonwealth entity_**.
-
-##### <a id="2B"></a>2B  Meaning of _UN sanction enforcement law_
-
-             (1)  The Minister may, by legislative instrument, specify a provision of a law of the Commonwealth as a **_UN sanction enforcement law_**.
-
-             (2)  The Minister may specify a provision in relation to particular circumstances.
-
-             (3)  The Minister may only specify a provision to the extent that it gives effect to  a decision that:
-
-                     (a)  the Security Council has made under Chapter VII of the Charter of the United Nations; and
-
-                     (b)  Article 25 of the Charter requires   Australia to carry out;
-
-in so far as that decision requires Australia to apply measures not involving the use of armed force.
-
-Note:          Articles 39 and 41 of the Charter provide for the Security Council to decide what measures not involving the use of armed force are to be taken to maintain or restore international peace and security.
-
-             (4)  A provision may be specified whether or not the provision is made for the sole purpose of giving effect to a decision of the Security Council.
-
-             (5)  A provision ceases to be a **_UN sanction enforcement law_** to a particular extent if:
-
-                     (a)  Article 25 of the Charter of the United Nations ceases to require Australia to carry out a decision referred to in subsection (3); and
-
-                     (b)  the provision gave effect to that decision to that extent; and
-
-                     (c)  the provision does not give effect to any other decision referred to in subsection (3) to that extent.
+                   In this Act **_the Charter of the United Nations_** means the instrument so entitled which was signed at the city of San Francisco on the twenty-sixth day of June, One thousand nine hundred and forty-five and which provides for the establishment of an international organization to be known as the United Nations.
 
 ##### <a id="3"></a>3  Extension to external Territories
 
@@ -238,33 +122,15 @@ Note:          Articles 39 and 41 of the Charter provide for t
 
 ##### <a id="6"></a>6  Regulations may apply sanctions
 
-             (1)  The Governor-General may make regulations for and in relation to giving effect to decisions that:
+                   The Governor-General may make regulations for and in relation to giving effect to decisions that:
 
-                     (a)  the Security Council makes under Chapter VII of the Charter of the United Nations; and
+                     (a)  the Security Council has made under Chapter VII of the Charter of the United Nations; and
 
                      (b)  Article 25 of the Charter requires Australia to carry out;
 
 in so far as those decisions require Australia to apply measures not involving the use of armed force.
 
 Note:          Articles 39 and 41 of the Charter provide for the Security Council to decide what measures not involving the use of armed force are to be taken to maintain or restore international peace and security.
-
-             (2)  Without limiting subsection (1), the regulations may give effect to a decision of the Security Council by any or all of the following means:
-
-                     (a)  proscribing persons or entities;
-
-                     (b)  restricting or preventing uses of, dealings with, and making available, assets;
-
-                     (c)  restricting or preventing the supply, sale or transfer of goods or services;
-
-                     (d)  restricting or preventing the procurement of goods or services;
-
-                     (e)  providing for indemnities for acting in compliance or purported compliance with those regulations;
-
-                      (f)  providing for compensation for owners of assets;
-
-                     (g)  authorising the making of legislative instruments.
-
-             (3)  Despite subsection 14(2) of the _Legislative Instruments Act 2003_, regulations made for the purposes of subsection (1) may make provision in relation to a matter by applying, adopting or incorporating any matter contained in an instrument or other writing as in force or existing from time to time.
 
 ##### <a id="7"></a>7  Regulations may have extra-territorial effect
 
@@ -344,19 +210,17 @@ Note:          Articles 39 and 41 of the Charter provide for t
 
                     <a name="superior-court"></a>**_superior court_** means the Federal Court of Australia or the Supreme Court of a State or Territory.
 
-##### <a id="13A"></a>13A  Invalidation of permission, authorisations etc.
-
-                   A licence, permission, consent, approval or authorisation granted under the regulations (a **_relevant authorisation_**) is taken never to have been granted if information contained in, or information or a document accompanying, the application for the relevant authorisation:
-
-                     (a)  is false or misleading in a material particular; or
-
-                     (b)  omits any matter or thing without which the information or document is misleading in a material particular.
-
-## Part 4—Security Council decisions that relate to terrorism and dealings with assets
+## Part 4—Offences to give effect to Security Council decisions
 
 ##### <a id="14"></a>14  Definitions
 
                    In this Part:
+
+                    <a name="asset"></a>**_asset_** means:
+
+                     (a)  an asset of any kind or property of any kind, whether tangible or intangible, movable or immovable, however acquired; and
+
+                     (b)  a legal document or instrument in any form, including electronic or digital, evidencing title to, or interest in, such an asset or such property, including, but not limited to, bank credits, travellers cheques, bank cheques, money orders, shares, securities, bonds, debt instruments, drafts and letters of credit.
 
                     <a name="freezabl-asset"></a>**_freezable asset_** means an asset that:
 
@@ -434,7 +298,7 @@ Note:          Articles 39 and 41 of the Charter provide for t
 
                      (a)  that the Security Council has made under Chapter VII of the Charter of the United Nations; and
 
-                     (b)  that Article 25 of the Charter requires   Australia to carry out; and
+                     (b)  that Article 25 of the Charter requires Australia to carry out; and
 
                      (c)  that relates to terrorism and dealings with assets; and
 
@@ -462,13 +326,11 @@ Note:          Articles 39 and 41 of the Charter provide for t
 
 ##### <a id="20"></a>20  Offence—dealing with freezable assets
 
-Offence for individuals
+             (1)  A person commits an offence if:
 
-             (1)  An individual commits an offence if:
+                     (a)  the person holds an asset; and
 
-                     (a)  the individual holds an asset; and
-
-                     (b)  the individual:
+                     (b)  the person:
 
                               (i)  uses or deals with the asset; or
 
@@ -480,133 +342,29 @@ Offence for individuals
 
                      (d)  the use or dealing is not in accordance with a notice under section 22.
 
+                    Penalty:  Imprisonment for 5 years.
+
              (2)  Strict liability applies to the circumstance that the use or dealing with the asset is not in accordance with a notice under section 22.
 
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+             (3)  It is a defence if the person proves that the use or dealing was solely for the purpose of preserving the value of the asset.
 
-             (3)  It is a defence if the individual proves that the use or dealing was solely for the purpose of preserving the value of the asset.
-
-Note:          The individual bears a legal burden in relation to a matter in subsection (3) (see section 13.4 of the _Criminal Code_).
-
-Penalty for individuals
-
-          (3A)  An offence under subsection (1) is punishable on conviction by imprisonment for not more than 10 years or a fine not exceeding the amount worked out under subsection (3B), or both.
-
-          (3B)  For the purposes of subsection (3A), the amount is:
-
-                     (a)  if the contravention involves a transaction or transactions the value of which the court can determine—whichever is the greater of the following:
-
-                              (i)  3 times the value of the transaction or transactions;
-
-                             (ii)  2,500 penalty units; or
-
-                     (b)  otherwise—2,500 penalty units.
-
-Offence for bodies corporate
-
-          (3C)  A body corporate commits an offence if:
-
-                     (a)  the body corporate holds an asset; and
-
-                     (b)  the body corporate:
-
-                              (i)  uses or deals with the asset; or
-
-                             (ii)  allows the asset to be used or dealt with; or
-
-                            (iii)  facilitates the use of the asset or dealing with the asset; and
-
-                     (c)  the asset is a freezable asset; and
-
-                     (d)  the use or dealing is not in accordance with a notice under section 22.
-
-          (3D)  An offence under subsection (3C) is an offence of strict liability.
-
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
-
-           (3E)  It is a defence if the body corporate proves that:
-
-                     (a)  the use or dealing was solely for the purpose of preserving the value of the asset; or
-
-                     (b)  the body corporate took reasonable precautions, and exercised due diligence, to avoid contravening subsection (3C).
-
-Note:          The body corporate bears a legal burden in relation to a matter in subsection (3E) (see section 13.4 of the _Criminal Code_).
-
-Penalty for bodies corporate
-
-           (3F)  An offence under subsection (3C) is punishable on conviction by a fine not exceeding:
-
-                     (a)  if the contravention involves a transaction or transactions the value of which the court can determine—whichever is the greater of the following:
-
-                              (i)  3 times the value of the transaction or transactions;
-
-                             (ii)  10,000 penalty units; or
-
-                     (b)  otherwise—10,000 penalty units.
-
-             (4)  Section 15.1 of the _Criminal Code_ (extended geographical jurisdiction—category A) applies to an offence against subsection (1) or (3C).
+             (4)  Section 15.1 of the _Criminal Code_ (extended geographical jurisdiction—category A) applies to an offence against subsection (1).
 
 ##### <a id="21"></a>21  Offence—giving an asset to a proscribed person or entity
 
-Offence for individuals
+             (1)  A person commits an offence if:
 
-             (1)  An individual commits an offence if:
-
-                     (a)  the individual, directly or indirectly, makes an asset available to a person or entity; and
+                     (a)  the person, directly or indirectly, makes an asset available to a person or entity; and
 
                      (b)  the person or entity to whom the asset is made available is a proscribed person or entity; and
 
                      (c)  the making available of the asset is not in accordance with a notice under section 22.
 
+                    Penalty:  Imprisonment for 5 years.
+
              (2)  Strict liability applies to the circumstance that the making available of the asset is not in accordance with a notice under section 22.
 
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
-
-Penalty for individuals
-
-          (2A)  An offence under subsection (1) is punishable on conviction by imprisonment for not more than 10 years or a fine not exceeding the amount worked out under subsection (2B), or both.
-
-          (2B)  For the purposes of subsection (2A), the amount is:
-
-                     (a)  if the contravention involves a transaction or transactions the value of which the court can determine—whichever is the greater of the following:
-
-                              (i)  3 times the value of the transaction or transactions;
-
-                             (ii)  2,500 penalty units; or
-
-                     (b)  otherwise—2,500 penalty units.
-
-Offence for bodies corporate
-
-          (2C)  A body corporate commits an offence if:
-
-                     (a)  the body corporate, directly or indirectly, makes an asset available to a person or entity; and
-
-                     (b)  the person or entity to whom the asset is made available is a proscribed person or entity; and
-
-                     (c)  the making available of the asset is not in accordance with a notice under section 22.
-
-          (2D)  An offence under subsection (2C) is an offence of strict liability.
-
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
-
-           (2E)  It is a defence if the body corporate proves that it took reasonable precautions, and exercised due diligence, to avoid contravening subsection (2C).
-
-Note:          The body corporate bears a legal burden in relation to a matter in subsection (2E) (see section 13.4 of the _Criminal Code_).
-
-Penalty for bodies corporate
-
-           (2F)  An offence under subsection (2C) is punishable on conviction by a fine not exceeding:
-
-                     (a)  if the contravention involves a transaction or transactions the value of which the court can determine—whichever is the greater of the following:
-
-                              (i)  3 times the value of the transaction or transactions;
-
-                             (ii)  10,000 penalty units; or
-
-                     (b)  otherwise—10,000 penalty units.
-
-             (3)  Section 15.1 of the _Criminal Code_ (extended geographical jurisdiction—category A) applies to an offence against subsection (1) or (2C).
+             (3)  Section 15.1 of the _Criminal Code_ (extended geographical jurisdiction—category A) applies to an offence against subsection (1).
 
 ##### <a id="22"></a>22  Authorised dealings
 
@@ -649,14 +407,6 @@ The delegation must be in writing.
                      (c)  an application for, or grant of, permission under section 22.
 
              (3)  Subsection (2) does not limit subsection (1).
-
-##### <a id="22B"></a>22B  Invalidation of notice for false or misleading information
-
-                   A notice under section 22 is taken never to have been made if information contained in, or information or a document accompanying, the application for the notice:
-
-                     (a)  is false or misleading in a material particular; or
-
-                     (b)  omits any matter or thing without which the information or document is misleading in a material particular.
 
 ##### <a id="23"></a>23  Part prevails over conflicting legal obligations
 
@@ -702,265 +452,7 @@ the owner of the asset is entitled to be compensated by the Commonwealth for tha
 
                      (b)  whether or not the person has previously engaged in such conduct.
 
-## Part 5—Offences relating to UN sanctions
-
-##### <a id="27"></a>27  Offence—Contravening a UN sanction enforcement law
-
-Individuals
-
-             (1)  An individual commits an offence if:
-
-                     (a)  the individual engages in conduct; and
-
-                     (b)  the conduct contravenes a UN sanction enforcement law.
-
-             (2)  An individual commits an offence if:
-
-                     (a)  the individual engages in conduct; and
-
-                     (b)  the conduct contravenes a condition of a licence, permission, consent, authorisation or approval (however described) under a UN sanction enforcement law.
-
-             (3)  An offence under subsection (1) or (2) is punishable on conviction by imprisonment for not more than 10 years or a fine not exceeding the amount worked out under subsection (4), or both.
-
-             (4)  For the purposes of subsection (3), the amount is:
-
-                     (a)  if the contravention involves a transaction or transactions the value of which the court can determine—whichever is the greater of the following:
-
-                              (i)  3 times the value of the transaction or transactions;
-
-                             (ii)  2,500 penalty units; or
-
-                     (b)  otherwise—2,500 penalty units.
-
-Bodies corporate
-
-             (5)  A body corporate commits an offence if:
-
-                     (a)  the body corporate engages in conduct; and
-
-                     (b)  the conduct contravenes a UN sanction enforcement law.
-
-             (6)  A body corporate commits an offence if:
-
-                     (a)  the body corporate engages in conduct; and
-
-                     (b)  the conduct contravenes a condition of a licence, permission, consent, authorisation or approval (however described) under a UN sanction enforcement law.
-
-             (7)  Subsection (5) or (6) does not apply if the body corporate proves that it took reasonable precautions, and exercised due diligence, to avoid contravening that subsection.
-
-Note:          The body corporate bears a legal burden in relation to a matter in subsection (7) (see section 13.4 of the _Criminal Code_).
-
-             (8)  An offence under subsection (5) or (6) is an offence of strict liability.
-
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
-
-             (9)  An offence under subsection (5) or (6) is punishable on conviction by a fine not exceeding:
-
-                     (a)  if the contravention involves a transaction or transactions the value of which the court can determine—whichever is the greater of the following:
-
-                              (i)  3 times the value of the transaction or transactions;
-
-                             (ii)  10,000 penalty units; or
-
-                     (b)  otherwise—10,000 penalty units.
-
-Definitions
-
-           (10)  In this section:
-
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
-
-                     (a)  do an act; or
-
-                     (b)  omit to perform an act.
-
-##### <a id="28"></a>28  Offence—False or misleading information given in connection with a UN sanction enforcement law
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person gives information or a document to a Commonwealth entity; and
-
-                     (b)  the information or document is given in connection with the administration of a UN sanction enforcement law; and
-
-                     (c)  the information or document:
-
-                              (i)  is false or misleading; or
-
-                             (ii)  omits any matter or thing without which the information or document is misleading.
-
-                    Penalty:  Imprisonment for 10 years or 2,500 penalty units, or both.
-
-             (2)  A person (the **_first person_**) commits an offence if:
-
-                     (a)  the first person gives information or a document to another person; and
-
-                     (b)  the first person is reckless as to whether the other person or someone else will give the information or document to a Commonwealth entity in connection with the administration of a UN sanction enforcement law; and
-
-                     (c)  the information or document:
-
-                              (i)  is false or misleading; or
-
-                             (ii)  omits any matter or thing without which the information or document is misleading.
-
-                    Penalty:  Imprisonment for 10 years or 2,500 penalty units, or both.
-
-             (3)  Subsection (1) or (2) does not apply:
-
-                     (a)  as a result of subparagraph (1)(c)(i) or (2)(c)(i)—if the information or document is not false or misleading in a material particular; or
-
-                     (b)  as a result of subparagraph (1)(c)(ii) or (2)(c)(ii)—if the information or document did not omit any matter or thing without which the information or document is misleading in a material particular.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
-
-Geographical application of offences
-
-             (4)  Section 15.1 of the _Criminal Code_ (extended geographical jurisdiction—category A) applies to an offence against subsection (1) or (2).
-
-## Part 6—Information relating to UN sanctions
-
-##### <a id="29"></a>29  CEO of Commonwealth entity may give information or document
-
-             (1)  The CEO of a Commonwealth entity may give any information or document to the CEO of a designated Commonwealth entity for a purpose in connection with the administration of a UN sanction enforcement law.
-
-             (2)  Subsection (1) applies despite any other law of the Commonwealth, a State or a Territory.
-
-##### <a id="30"></a>30  Power to require information or documents to be given
-
-             (1)  The CEO of a designated Commonwealth entity may, for the purpose of determining whether a UN sanction enforcement law has been or is being complied with, give a person a written notice requiring the person to do either or both of the following:
-
-                     (a)  to give the CEO information of the kind, by the time and in any manner or form, specified in the notice;
-
-                     (b)  to give the CEO documents of the kind, by the time and in any manner, specified in the notice.
-
-             (2)  The person must comply with the notice despite any other law of the Commonwealth, a State or a Territory.
-
-             (3)  The time specified in the notice must be reasonable, having regard to all the circumstances.
-
-             (4)  The person may, before the time specified in the notice, request the CEO to extend the time by which the information or documents must be given.
-
-             (5)  The CEO may, by written notice given to the person, vary the notice under subsection (1) to specify a later time by which the information or documents must be given.
-
-             (6)  Subsection (5) does not limit the application of subsection 33(3) of the _Acts Interpretation Act 1901_ in relation to a notice under subsection (1).
-
-Note:          Subsection 33(3) of the _Acts Interpretation Act 1901_ deals with revocation and variation etc. of instruments.
-
-             (7)  Subsection (1) does not apply if:
-
-                     (a)  the person is the Commonwealth or a Commonwealth entity; or
-
-                     (b)  the person:
-
-                              (i)  is, or has at any time been, an officer of a Commonwealth entity; and
-
-                             (ii)  obtained or generated the information or document in the course of carrying out his or her duties as an officer of the Commonwealth entity.
-
-##### <a id="31"></a>31  Information may be required to be given on oath
-
-             (1)  The CEO may require the information to be verified by, or given on, oath or affirmation.
-
-             (2)  The oath or affirmation is an oath or affirmation that the information is true.
-
-##### <a id="32"></a>32  Offence for failure to comply with requirement
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person has been given a notice under section 30; and
-
-                     (b)  the person does not comply with the notice.
-
-                    Penalty:  Imprisonment for 12 months.
-
-             (2)  Section 15.1 of the _Criminal Code_ (extended geographical jurisdiction—category A) applies to an offence against subsection (1).
-
-##### <a id="33"></a>33  Self-incrimination not an excuse
-
-             (1)  An individual is not excused from giving information or a document under section 30  on the ground that the information, or the giving of the document, might tend to incriminate the individual or otherwise expose the individual to a penalty or other liability.
-
-             (2)  However, neither the information given nor the giving of the document is admissible in evidence against the individual in any criminal proceedings, or in any proceedings that would expose the individual to a penalty, other than proceedings for an offence against:
-
-                     (a)  section 28 (false or misleading information given in connection with a UN sanction enforcement law); or
-
-                     (b)  section 32 (failure to comply with requirement to give information or document).
-
-##### <a id="34"></a>34  CEO may copy documents
-
-                   If a person gives a document to the CEO of a designated Commonwealth entity under section 30, the CEO:
-
-                     (a)  may take and keep a copy of the document; and
-
-                     (b)  must return the document to the person within a reasonable time.
-
-##### <a id="35"></a>35  Further disclosure and use of information and documents
-
-Disclosure and use of information etc. within entity
-
-             (1)  An officer of a designated Commonwealth entity may do any of the following for a purpose in connection with the administration of a UN sanction enforcement law or with a decision of the Security Council referred to in section 6:
-
-                     (a)  copy, make a record of or use, any information or document;
-
-                     (b)  disclose any information, or give any document, to another officer of that entity.
-
-Disclosure outside of entity
-
-             (2)  A CEO of a designated Commonwealth entity may disclose any information or give any document to any of the following for a purpose in connection with the administration of a UN sanction enforcement law or with a decision of the Security Council referred to in section 6:
-
-                     (a)  a Minister of the Commonwealth, a State or a Territory;
-
-                     (b)  the CEO of another Commonwealth entity;
-
-                     (c)  a State or Territory entity;
-
-                     (d)  a foreign government entity;
-
-                     (e)  a public international organisation;
-
-(f)  a person specified in an instrument under subsection (3).
-
-             (3)  The Minister may, by legislative instrument, specify a person for the purposes of paragraph (2)(f).
-
-             (4)  Subsections (1) and (2) apply despite any other law of the Commonwealth, a State or a Territory.
-
-##### <a id="36"></a>36  Protection from liability
-
-             (1)  A person who, in good faith, gives, discloses, copies, makes a record of or uses information or a document under section 29, 30, 34 or 35 is not liable:
-
-                     (a)  to any proceedings for contravening any other law because of that conduct; or
-
-                     (b)  to civil proceedings for loss, damage or injury of any kind suffered by another person because of that conduct.
-
-             (2)  Subsection (1) does not prevent the person from being liable to a proceeding for conduct of the person that is revealed by the information or document.
-
-##### <a id="37"></a>37  Retention of records and documents
-
-             (1)  A person who applies for a licence, permission, consent, authorisation or approval under a UN sanction enforcement law (a **_relevant authorisation_**) must retain any records or documents relating to that application for the period of 5 years beginning on:
-
-                     (a)  if the relevant authorisation was granted—the last day on which an action to which the relevant authorisation relates was done; or
-
-                     (b)  if the relevant authorisation was not granted—the day on which the application was made.
-
-             (2)  A person who is granted a licence, permission, consent, authorisation or approval under a UN sanction enforcement law (a **_relevant authorisation_**) must retain any records or documents relating to the person’s compliance with any conditions to which the relevant authorisation is subject for the period of 5 years beginning on the last day on which an action to which the relevant authorisation relates was done.
-
-Note:          A person may commit an offence if the person fails to give under section 30 a record or document that is required to be retained under this section: see section 32.
-
-##### <a id="38"></a>38  Delegation
-
-             (1)  The CEO of a Commonwealth entity may, by written instrument, delegate all or any of his or her powers or functions under this Part to:
-
-                     (a)  an SES employee or acting SES employee of the entity; or
-
-                     (b)  an employee of the entity of equivalent rank to an SES employee.
-
-             (2)  In exercising powers or performing functions delegated under subsection (1), the delegate must comply with any directions of the CEO.
-
-## Part 7—Miscellaneous
-
-##### <a id="39"></a>39  Regulations
-
-                   The Governor-General may make regulations prescribing matters:
-
-                     (a)  required or permitted by this Act to be prescribed; or
-
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+ 
 
 # The Schedule—Charter of the United Nations
 
@@ -2593,7 +2085,7 @@ of Assent</div>
     <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 24 Mar 2008Schedule 2: 25 Sept 2007Remainder: Royal Assent</div>
+    <div>Schedule 1 (items 1–26): \[ <i>see</i>Note 4 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 7, 25) \[ <i>see</i>Table A]</div>
@@ -2749,22 +2241,6 @@ _(b)_ Subsection 2(1) (item 2) of the _Charter of the United Nations Amendment
 </tr>
 <tr>
   <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>rs. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 2A, 2B</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 3</div>
   </td>
   <td>
@@ -2829,23 +2305,7 @@ _(b)_ Subsection 2(1) (item 2) of the _Charter of the United Nations Amendment
 </tr>
 <tr>
   <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>ad. No. 30, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 7, 8</div>
+    <div>Ss. 6-8</div>
   </td>
   <td>
     <div>ad. No. 30, 1993</div>
@@ -2869,7 +2329,7 @@ _(b)_ Subsection 2(1) (item 2) of the _Charter of the United Nations Amendment
 </tr>
 <tr>
   <td>
-    <div>Ss. 10, 11</div>
+    <div>Ss. 10, 13</div>
   </td>
   <td>
     <div>ad. No. 30, 1993</div>
@@ -2893,26 +2353,10 @@ _(b)_ Subsection 2(1) (item 2) of the _Charter of the United Nations Amendment
 </tr>
 <tr>
   <td>
-    <div>S. 13A</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 4</div>
-  </td>
-  <td>
-    <div>rs. No. 147, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2925,90 +2369,10 @@ _(b)_ Subsection 2(1) (item 2) of the _Charter of the United Nations Amendment
 </tr>
 <tr>
   <td>
-    <div>S. 14</div>
+    <div>Ss. 14–21</div>
   </td>
   <td>
     <div>ad. No. 66, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15–19</div>
-  </td>
-  <td>
-    <div>ad. No. 66, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 20(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>ad. No. 66, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 20(2), (3)</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 21(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>ad. No. 66, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 21(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3037,90 +2401,10 @@ _(b)_ Subsection 2(1) (item 2) of the _Charter of the United Nations Amendment
 </tr>
 <tr>
   <td>
-    <div>S. 22B</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 23–26</div>
   </td>
   <td>
     <div>ad. No. 66, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 5</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 27, 28</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 6</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 29–38</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 7</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>ad. No. 147, 2007</div>
   </td>
 </tr></table>
 
@@ -3180,11 +2464,605 @@ The amendment to Article 109 provides that a General Conference of Member States
 
 The Schedule—Poland, which signed the Charter on 15 October 1945 (being a date subsequent to the date on which the _Charter of the United Nations Act 1945_ received the Royal Assent), is also an original member.
 
+### Note 4
+
+_International Trade Integrity Act 2007 (No. 147, 2007)_
+
+The following amendments commence on 24 March 2008 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Section 2
+
+Repeal the section, substitute:
+
+##### <a id="2"></a>2  Definitions
+
+                   In this Act:
+
+                    <a name="asset"></a>**_asset_** means:
+
+                     (a)  an asset of any kind or property of any kind, whether tangible or intangible, movable or immovable, however acquired; and
+
+                     (b)  a legal document or instrument in any form, including electronic or digital, evidencing title to, or interest in, such an asset or such property, including, but not limited to, bank credits, travellers cheques, bank cheques, money orders, shares, securities, bonds, debt instruments, drafts and letters of credit.
+
+                    <a name="ceo"></a>**_CEO_**, in relation to a Commonwealth entity, means the chief executive officer (however described) of that entity.
+
+                    <a name="charter-united-nation"></a>**_Charter of the United Nations_** means the Charter of the United Nations, done at San Francisco on 26 June 1945 \[1945] ATS 1.
+
+Note:          The text of the Charter of the United Nations is set out in Australian Treaty Series 1945 No. 1\. In 2007, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
+
+                    <a name="commonwealth-entiti"></a>**_Commonwealth entity_** means:
+
+                     (a)  an agency (within the meaning of the _Financial Management and Accountability Act 1997_); or
+
+                     (b)  a Commonwealth authority (within the meaning of the _Commonwealth Authorities and Companies Act 1997_).
+
+                    <a name="design-commonwealth-entiti"></a>**_designated Commonwealth entity_** means a Commonwealth entity that is specified in an instrument under section 2A.
+
+                    <a name="entiti"></a><a name="foreign-govern"></a>**_foreign government_** **_entity_** means:
+
+                     (a)  the government of a foreign country or of part of a foreign country; or
+
+                     (b)  an authority of the government of a foreign country; or
+
+                     (c)  an authority of the government of part of a foreign country.
+
+                    <a name="offic"></a>**_officer_** of a Commonwealth entity includes:
+
+                     (a)  the CEO of the Commonwealth entity; and
+
+                     (b)  an employee of the Commonwealth entity; and
+
+                     (c)  any other person engaged by the Commonwealth entity, under contract or otherwise, to exercise powers, or perform duties or functions, of the Commonwealth entity.
+
+                    <a name="public-intern-organis"></a>**_public international organisation_** has the meaning given by section 70.1 of the _Criminal Code_.
+
+                    <a name="state-territori-entiti"></a>**_State or Territory entity_** means:
+
+                     (a)  a State or Territory; or
+
+                     (b)  an authority of a State or Territory.
+
+                    <a name="un-sanction-enforc-law"></a>**_UN sanction enforcement law_** means a provision that is specified in an instrument under subsection 2B(1).
+
+## 2  After section 2
+
+Insert:
+
+##### <a id="2A"></a>2A  Meaning of _designated Commonwealth entity_
+
+                   The Minister may, by legislative instrument, specify a Commonwealth entity as a **_designated Commonwealth entity_**.
+
+##### <a id="2B"></a>2B  Meaning of _UN sanction enforcement law_
+
+             (1)  The Minister may, by legislative instrument, specify a provision of a law of the Commonwealth as a **_UN sanction enforcement law_**.
+
+             (2)  The Minister may specify a provision in relation to particular circumstances.
+
+             (3)  The Minister may only specify a provision to the extent that it gives effect to  a decision that:
+
+                     (a)  the Security Council has made under Chapter VII of the Charter of the United Nations; and
+
+                     (b)  Article 25 of the Charter requires   Australia to carry out;
+
+in so far as that decision requires Australia to apply measures not involving the use of armed force.
+
+Note:          Articles 39 and 41 of the Charter provide for the Security Council to decide what measures not involving the use of armed force are to be taken to maintain or restore international peace and security.
+
+             (4)  A provision may be specified whether or not the provision is made for the sole purpose of giving effect to a decision of the Security Council.
+
+             (5)  A provision ceases to be a **_UN sanction enforcement law_** to a particular extent if:
+
+                     (a)  Article 25 of the Charter of the United Nations ceases to require Australia to carry out a decision referred to in subsection (3); and
+
+                     (b)  the provision gave effect to that decision to that extent; and
+
+                     (c)  the provision does not give effect to any other decision referred to in subsection (3) to that extent.
+
+## 3  Section 6
+
+Before “The Governor-General”, insert “(1)”.
+
+## 4  Paragraph 6(a)
+
+Omit “has made”, substitute “makes”.
+
+## 5  At the end of section 6
+
+Add:
+
+             (2)  Without limiting subsection (1), the regulations may give effect to a decision of the Security Council by any or all of the following means:
+
+                     (a)  proscribing persons or entities;
+
+                     (b)  restricting or preventing uses of, dealings with, and making available, assets;
+
+                     (c)  restricting or preventing the supply, sale or transfer of goods or services;
+
+                     (d)  restricting or preventing the procurement of goods or services;
+
+                     (e)  providing for indemnities for acting in compliance or purported compliance with those regulations;
+
+                      (f)  providing for compensation for owners of assets;
+
+                     (g)  authorising the making of legislative instruments.
+
+             (3)  Despite subsection 14(2) of the _Legislative Instruments Act 2003_, regulations made for the purposes of subsection (1) may make provision in relation to a matter by applying, adopting or incorporating any matter contained in an instrument or other writing as in force or existing from time to time.
+
+## 6  At the end of Division 2 of Part 3
+
+Add:
+
+##### <a id="13A"></a>13A  Invalidation of permission, authorisations etc.
+
+                   A licence, permission, consent, approval or authorisation granted under the regulations (a **_relevant authorisation_**) is taken never to have been granted if information contained in, or information or a document accompanying, the application for the relevant authorisation:
+
+                     (a)  is false or misleading in a material particular; or
+
+                     (b)  omits any matter or thing without which the information or document is misleading in a material particular.
+
+## 8  Part 4 (heading)
+
+Repeal the heading, substitute:
+
+## Part 4—Security Council decisions that relate to terrorism and dealings with assets
+
+## 9  Section 14 (definition of _asset_)
+
+Repeal the definition.
+
+## 10  Subsection 20(1)
+
+Omit “A person”, substitute “An individual”.
+
+_Note:       The following heading to subsection 20(1) is inserted “Offence for individuals”._
+
+## 11  Paragraphs 20(1)(a) and (b)
+
+Omit “person”, substitute “individual”.
+
+## 12  Subsection 20(1) (penalty)
+
+Repeal the penalty.
+
+## 13  At the end of subsection 20(2)
+
+Add:
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+## 14  Subsection 20(3)
+
+Omit “person”, substitute “individual”.
+
+## 15  At the end of subsection 20(3)
+
+Add:
+
+Note:          The individual bears a legal burden in relation to a matter in subsection (3) (see section 13.4 of the _Criminal Code_).
+
+## 16  After subsection 20(3)
+
+Insert:
+
+Penalty for individuals
+
+          (3A)  An offence under subsection (1) is punishable on conviction by imprisonment for not more than 10 years or a fine not exceeding the amount worked out under subsection (3B), or both.
+
+          (3B)  For the purposes of subsection (3A), the amount is:
+
+                     (a)  if the contravention involves a transaction or transactions the value of which the court can determine—whichever is the greater of the following:
+
+                              (i)  3 times the value of the transaction or transactions;
+
+                             (ii)  2,500 penalty units; or
+
+                     (b)  otherwise—2,500 penalty units.
+
+Offence for bodies corporate
+
+          (3C)  A body corporate commits an offence if:
+
+                     (a)  the body corporate holds an asset; and
+
+                     (b)  the body corporate:
+
+                              (i)  uses or deals with the asset; or
+
+                             (ii)  allows the asset to be used or dealt with; or
+
+                            (iii)  facilitates the use of the asset or dealing with the asset; and
+
+                     (c)  the asset is a freezable asset; and
+
+                     (d)  the use or dealing is not in accordance with a notice under section 22.
+
+          (3D)  An offence under subsection (3C) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+           (3E)  It is a defence if the body corporate proves that:
+
+                     (a)  the use or dealing was solely for the purpose of preserving the value of the asset; or
+
+                     (b)  the body corporate took reasonable precautions, and exercised due diligence, to avoid contravening subsection (3C).
+
+Note:          The body corporate bears a legal burden in relation to a matter in subsection (3E) (see section 13.4 of the _Criminal Code_).
+
+Penalty for bodies corporate
+
+           (3F)  An offence under subsection (3C) is punishable on conviction by a fine not exceeding:
+
+                     (a)  if the contravention involves a transaction or transactions the value of which the court can determine—whichever is the greater of the following:
+
+                              (i)  3 times the value of the transaction or transactions;
+
+                             (ii)  10,000 penalty units; or
+
+                     (b)  otherwise—10,000 penalty units.
+
+## 17  Subsection 20(4)
+
+After “subsection (1)”, insert “or (3C)”.
+
+## 18  Subsection 21(1)
+
+Omit “A person”, substitute “An individual”.
+
+_Note:       The following heading to subsection 21(1) is inserted “Offence for individuals”._
+
+## 19  Paragraph 21(1)(a)
+
+Omit “person” (first occurring), substitute “individual”.
+
+## 20  Subsection 21(1) (penalty)
+
+Repeal the penalty.
+
+## 21  At the end of subsection 21(2)
+
+Add:
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+## 22  After subsection 21(2)
+
+Insert:
+
+Penalty for individuals
+
+          (2A)  An offence under subsection (1) is punishable on conviction by imprisonment for not more than 10 years or a fine not exceeding the amount worked out under subsection (2B), or both.
+
+          (2B)  For the purposes of subsection (2A), the amount is:
+
+                     (a)  if the contravention involves a transaction or transactions the value of which the court can determine—whichever is the greater of the following:
+
+                              (i)  3 times the value of the transaction or transactions;
+
+                             (ii)  2,500 penalty units; or
+
+                     (b)  otherwise—2,500 penalty units.
+
+Offence for bodies corporate
+
+          (2C)  A body corporate commits an offence if:
+
+                     (a)  the body corporate, directly or indirectly, makes an asset available to a person or entity; and
+
+                     (b)  the person or entity to whom the asset is made available is a proscribed person or entity; and
+
+                     (c)  the making available of the asset is not in accordance with a notice under section 22.
+
+          (2D)  An offence under subsection (2C) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+           (2E)  It is a defence if the body corporate proves that it took reasonable precautions, and exercised due diligence, to avoid contravening subsection (2C).
+
+Note:          The body corporate bears a legal burden in relation to a matter in subsection (2E) (see section 13.4 of the _Criminal Code_).
+
+Penalty for bodies corporate
+
+           (2F)  An offence under subsection (2C) is punishable on conviction by a fine not exceeding:
+
+                     (a)  if the contravention involves a transaction or transactions the value of which the court can determine—whichever is the greater of the following:
+
+                              (i)  3 times the value of the transaction or transactions;
+
+                             (ii)  10,000 penalty units; or
+
+                     (b)  otherwise—10,000 penalty units.
+
+## 23  Subsection 21(3)
+
+After “subsection (1)”, insert “or (2C)”.
+
+## 24  After section 22A
+
+Insert:
+
+##### <a id="22B"></a>22B  Invalidation of notice for false or misleading information
+
+                   A notice under section 22 is taken never to have been made if information contained in, or information or a document accompanying, the application for the notice:
+
+                     (a)  is false or misleading in a material particular; or
+
+                     (b)  omits any matter or thing without which the information or document is misleading in a material particular.
+
+## 26  After Part 4
+
+Insert:
+
+## Part 5—Offences relating to UN sanctions
+
+##### <a id="27"></a>27  Offence—Contravening a UN sanction enforcement law
+
+Individuals
+
+             (1)  An individual commits an offence if:
+
+                     (a)  the individual engages in conduct; and
+
+                     (b)  the conduct contravenes a UN sanction enforcement law.
+
+             (2)  An individual commits an offence if:
+
+                     (a)  the individual engages in conduct; and
+
+                     (b)  the conduct contravenes a condition of a licence, permission, consent, authorisation or approval (however described) under a UN sanction enforcement law.
+
+             (3)  An offence under subsection (1) or (2) is punishable on conviction by imprisonment for not more than 10 years or a fine not exceeding the amount worked out under subsection (4), or both.
+
+             (4)  For the purposes of subsection (3), the amount is:
+
+                     (a)  if the contravention involves a transaction or transactions the value of which the court can determine—whichever is the greater of the following:
+
+                              (i)  3 times the value of the transaction or transactions;
+
+                             (ii)  2,500 penalty units; or
+
+                     (b)  otherwise—2,500 penalty units.
+
+Bodies corporate
+
+             (5)  A body corporate commits an offence if:
+
+                     (a)  the body corporate engages in conduct; and
+
+                     (b)  the conduct contravenes a UN sanction enforcement law.
+
+             (6)  A body corporate commits an offence if:
+
+                     (a)  the body corporate engages in conduct; and
+
+                     (b)  the conduct contravenes a condition of a licence, permission, consent, authorisation or approval (however described) under a UN sanction enforcement law.
+
+             (7)  Subsection (5) or (6) does not apply if the body corporate proves that it took reasonable precautions, and exercised due diligence, to avoid contravening that subsection.
+
+Note:          The body corporate bears a legal burden in relation to a matter in subsection (7) (see section 13.4 of the _Criminal Code_).
+
+             (8)  An offence under subsection (5) or (6) is an offence of strict liability.
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (9)  An offence under subsection (5) or (6) is punishable on conviction by a fine not exceeding:
+
+                     (a)  if the contravention involves a transaction or transactions the value of which the court can determine—whichever is the greater of the following:
+
+                              (i)  3 times the value of the transaction or transactions;
+
+                             (ii)  10,000 penalty units; or
+
+                     (b)  otherwise—10,000 penalty units.
+
+Definitions
+
+           (10)  In this section:
+
+                    <a name="engag-conduct"></a>**_engage in conduct_** means:
+
+                     (a)  do an act; or
+
+                     (b)  omit to perform an act.
+
+##### <a id="28"></a>28  Offence—False or misleading information given in connection with a UN sanction enforcement law
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person gives information or a document to a Commonwealth entity; and
+
+                     (b)  the information or document is given in connection with the administration of a UN sanction enforcement law; and
+
+                     (c)  the information or document:
+
+                              (i)  is false or misleading; or
+
+                             (ii)  omits any matter or thing without which the information or document is misleading.
+
+                    Penalty:  Imprisonment for 10 years or 2,500 penalty units, or both.
+
+             (2)  A person (the **_first person_**) commits an offence if:
+
+                     (a)  the first person gives information or a document to another person; and
+
+                     (b)  the first person is reckless as to whether the other person or someone else will give the information or document to a Commonwealth entity in connection with the administration of a UN sanction enforcement law; and
+
+                     (c)  the information or document:
+
+                              (i)  is false or misleading; or
+
+                             (ii)  omits any matter or thing without which the information or document is misleading.
+
+                    Penalty:  Imprisonment for 10 years or 2,500 penalty units, or both.
+
+             (3)  Subsection (1) or (2) does not apply:
+
+                     (a)  as a result of subparagraph (1)(c)(i) or (2)(c)(i)—if the information or document is not false or misleading in a material particular; or
+
+                     (b)  as a result of subparagraph (1)(c)(ii) or (2)(c)(ii)—if the information or document did not omit any matter or thing without which the information or document is misleading in a material particular.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (3) (see subsection 13.3(3) of the _Criminal Code_).
+
+Geographical application of offences
+
+             (4)  Section 15.1 of the _Criminal Code_ (extended geographical jurisdiction—category A) applies to an offence against subsection (1) or (2).
+
+## Part 6—Information relating to UN sanctions
+
+##### <a id="29"></a>29  CEO of Commonwealth entity may give information or document
+
+             (1)  The CEO of a Commonwealth entity may give any information or document to the CEO of a designated Commonwealth entity for a purpose in connection with the administration of a UN sanction enforcement law.
+
+             (2)  Subsection (1) applies despite any other law of the Commonwealth, a State or a Territory.
+
+##### <a id="30"></a>30  Power to require information or documents to be given
+
+             (1)  The CEO of a designated Commonwealth entity may, for the purpose of determining whether a UN sanction enforcement law has been or is being complied with, give a person a written notice requiring the person to do either or both of the following:
+
+                     (a)  to give the CEO information of the kind, by the time and in any manner or form, specified in the notice;
+
+                     (b)  to give the CEO documents of the kind, by the time and in any manner, specified in the notice.
+
+             (2)  The person must comply with the notice despite any other law of the Commonwealth, a State or a Territory.
+
+             (3)  The time specified in the notice must be reasonable, having regard to all the circumstances.
+
+             (4)  The person may, before the time specified in the notice, request the CEO to extend the time by which the information or documents must be given.
+
+             (5)  The CEO may, by written notice given to the person, vary the notice under subsection (1) to specify a later time by which the information or documents must be given.
+
+             (6)  Subsection (5) does not limit the application of subsection 33(3) of the _Acts Interpretation Act 1901_ in relation to a notice under subsection (1).
+
+Note:          Subsection 33(3) of the _Acts Interpretation Act 1901_ deals with revocation and variation etc. of instruments.
+
+             (7)  Subsection (1) does not apply if:
+
+                     (a)  the person is the Commonwealth or a Commonwealth entity; or
+
+                     (b)  the person:
+
+                              (i)  is, or has at any time been, an officer of a Commonwealth entity; and
+
+                             (ii)  obtained or generated the information or document in the course of carrying out his or her duties as an officer of the Commonwealth entity.
+
+##### <a id="31"></a>31  Information may be required to be given on oath
+
+             (1)  The CEO may require the information to be verified by, or given on, oath or affirmation.
+
+             (2)  The oath or affirmation is an oath or affirmation that the information is true.
+
+##### <a id="32"></a>32  Offence for failure to comply with requirement
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person has been given a notice under section 30; and
+
+                     (b)  the person does not comply with the notice.
+
+                    Penalty:  Imprisonment for 12 months.
+
+             (2)  Section 15.1 of the _Criminal Code_ (extended geographical jurisdiction—category A) applies to an offence against subsection (1).
+
+##### <a id="33"></a>33  Self-incrimination not an excuse
+
+             (1)  An individual is not excused from giving information or a document under section 30  on the ground that the information, or the giving of the document, might tend to incriminate the individual or otherwise expose the individual to a penalty or other liability.
+
+             (2)  However, neither the information given nor the giving of the document is admissible in evidence against the individual in any criminal proceedings, or in any proceedings that would expose the individual to a penalty, other than proceedings for an offence against:
+
+                     (a)  section 28 (false or misleading information given in connection with a UN sanction enforcement law); or
+
+                     (b)  section 32 (failure to comply with requirement to give information or document).
+
+##### <a id="34"></a>34  CEO may copy documents
+
+                   If a person gives a document to the CEO of a designated Commonwealth entity under section 30, the CEO:
+
+                     (a)  may take and keep a copy of the document; and
+
+                     (b)  must return the document to the person within a reasonable time.
+
+##### <a id="35"></a>35  Further disclosure and use of information and documents
+
+Disclosure and use of information etc. within entity
+
+             (1)  An officer of a designated Commonwealth entity may do any of the following for a purpose in connection with the administration of a UN sanction enforcement law or with a decision of the Security Council referred to in section 6:
+
+                     (a)  copy, make a record of or use, any information or document;
+
+                     (b)  disclose any information, or give any document, to another officer of that entity.
+
+Disclosure outside of entity
+
+             (2)  A CEO of a designated Commonwealth entity may disclose any information or give any document to any of the following for a purpose in connection with the administration of a UN sanction enforcement law or with a decision of the Security Council referred to in section 6:
+
+                     (a)  a Minister of the Commonwealth, a State or a Territory;
+
+                     (b)  the CEO of another Commonwealth entity;
+
+                     (c)  a State or Territory entity;
+
+                     (d)  a foreign government entity;
+
+                     (e)  a public international organisation;
+
+(f)  a person specified in an instrument under subsection (3).
+
+             (3)  The Minister may, by legislative instrument, specify a person for the purposes of paragraph (2)(f).
+
+             (4)  Subsections (1) and (2) apply despite any other law of the Commonwealth, a State or a Territory.
+
+##### <a id="36"></a>36  Protection from liability
+
+             (1)  A person who, in good faith, gives, discloses, copies, makes a record of or uses information or a document under section 29, 30, 34 or 35 is not liable:
+
+                     (a)  to any proceedings for contravening any other law because of that conduct; or
+
+                     (b)  to civil proceedings for loss, damage or injury of any kind suffered by another person because of that conduct.
+
+             (2)  Subsection (1) does not prevent the person from being liable to a proceeding for conduct of the person that is revealed by the information or document.
+
+##### <a id="37"></a>37  Retention of records and documents
+
+             (1)  A person who applies for a licence, permission, consent, authorisation or approval under a UN sanction enforcement law (a **_relevant authorisation_**) must retain any records or documents relating to that application for the period of 5 years beginning on:
+
+                     (a)  if the relevant authorisation was granted—the last day on which an action to which the relevant authorisation relates was done; or
+
+                     (b)  if the relevant authorisation was not granted—the day on which the application was made.
+
+             (2)  A person who is granted a licence, permission, consent, authorisation or approval under a UN sanction enforcement law (a **_relevant authorisation_**) must retain any records or documents relating to the person’s compliance with any conditions to which the relevant authorisation is subject for the period of 5 years beginning on the last day on which an action to which the relevant authorisation relates was done.
+
+Note:          A person may commit an offence if the person fails to give under section 30 a record or document that is required to be retained under this section: see section 32.
+
+##### <a id="38"></a>38  Delegation
+
+             (1)  The CEO of a Commonwealth entity may, by written instrument, delegate all or any of his or her powers or functions under this Part to:
+
+                     (a)  an SES employee or acting SES employee of the entity; or
+
+                     (b)  an employee of the entity of equivalent rank to an SES employee.
+
+             (2)  In exercising powers or performing functions delegated under subsection (1), the delegate must comply with any directions of the CEO.
+
+## Part 7—Miscellaneous
+
+##### <a id="39"></a>39  Regulations
+
+                   The Governor-General may make regulations prescribing matters:
+
+                     (a)  required or permitted by this Act to be prescribed; or
+
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+As at 2 October 2007 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _International Trade Integrity Act 2007 (No. 147, 2007)_
+
+The following provisions commence on 24 March 2008 unless proclaimed earlier:
 
 ## Schedule 1
 
