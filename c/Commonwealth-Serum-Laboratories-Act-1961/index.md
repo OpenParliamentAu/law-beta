@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00356/Html/CommSerumlabor1961_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00237/Html/CommSerumlabor1961_image001.gif)
 
 # Commonwealth Serum Laboratories Act 1961
 
 **Act No. 38 of 1961 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 2 April 2007
  taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force 
@@ -153,6 +153,10 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [42](#42).          Regulations
 
 **Notes** 
+
+ 
+
+ 
 
 ## An Act relating to the constitution of CSL as a public company, and for other purposes
 
@@ -414,7 +418,7 @@ under the _Corporations Act 2001_.
 
                             (iv)  Australian fund managers.
 
-                    <a name="australian-citizen"></a>**_Australian citizen_** has the same meaning as in the _Australian Citizenship Act 2007_.
+                    <a name="australian-citizen"></a>**_Australian citizen_** has the same meaning as in the _Australian Citizenship Act 1948_.
 
                     <a name="australian-fund-manag"></a>**_Australian fund manager_** means the trustee or manager of a fund in which the total interests of Australian individuals, Australian government bodies and Australian bodies corporate represent at least 60% of the total interests in the fund.
 
@@ -616,7 +620,7 @@ has no effect.
 
 ##### <a id="19H"></a>19H  Interim injunctions
 
-                   If the Court thinks it appropriate to do so, the Court may grant an interim injunction pending determination of an application under subsection 19F(2) or (4).
+                   If the Court thinks it appropriate to do so, the Court may grant an interim injunction pending determination of an application under subsection 19F(2) or (4).
 
 ##### <a id="19J"></a>19J  Factors relevant to the grant of a restraining injunction
 
@@ -1449,8 +1453,7 @@ Schedule 2 (items 530, 531): <i>(d)</i></div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (item 17): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1774,7 +1777,7 @@ The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after re
     <div></div>
   </td>
   <td>
-    <div>am. No. 156, 1999; Nos. 55 and 123, 2001; No. 21, 2007</div>
+    <div>am. No. 156, 1999; Nos. 55 and 123, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2983,6 +2986,23 @@ Certain provisions of the _Commonwealth Serum Laboratories Act 1961_, as amended
     <div>rep. No. 77, 1990</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Australian Citizenship (Transitionals and Consequentials) Act 2007
+ (No. 21, 2007)_
+
+The following amendment commences on 15 September 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 17  Subsection 19B(1) (definition of _Australian citizen_)
+
+Repeal the definition, substitute:
+
+                    <a name="australian-citizen"></a>**_Australian citizen_** has the same meaning as in the _Australian Citizenship Act 2007_.
+
+As at 2 April 2007 the amendment is not incorporated in this compilation.
 
 ## Table A
 
