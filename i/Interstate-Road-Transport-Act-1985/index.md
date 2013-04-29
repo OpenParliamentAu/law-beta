@@ -1,7 +1,7 @@
 
 Interstate Road Transport Act 1985
 Act No. 130 of 1985 as amended
-This compilation was prepared on 24 May 2001  taking into account amendments up to Act No. 137 of 2000
+This compilation was prepared on 1 July 2000  taking into account amendments up to Act No. 40 of 2000
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -26,7 +26,7 @@ Part II—Registration of interstate motor vehicles	11
 12A	Mass limits of registered motor vehicles	18
 12B	Regulation of the operation of B‑doubles	18
 12C	Operating requirements for B‑doubles	19
-12D	Offences involving the operation of B‑doubles	20
+12D	Offences involving the operation of B‑doubles	19
 13	Regulations may make further provision with respect to registered motor vehicles etc.	20
 Part III—Collection of interstate road transport charge	22
 14	By whom charge payable	22
@@ -38,7 +38,7 @@ Part IV—Interstate Road Transport Reserve	25
 21	Interstate Road Transport Reserve	25
 22	Money to be paid into Reserve	25
 23	Money to be paid out of Reserve	25
-Part V—Licensing of interstate road transport operators	28
+Part V—Licensing of interstate road transport operators (sections 24‑35) [Not in operation—see Notes 2, 3]	28
 Part VI—Monitoring devices	29
 36	Regulations may specify requirements for monitoring devices [see Note 2]	29
 37	[Not in operation—see Note 2]	29
@@ -52,16 +52,17 @@ Part VII—Miscellaneous	32
 43A	Determination of federal routes	32
 44	Power to stop and search motor vehicles etc.	32
 45	Power to require persons to give information or produce documents	35
-46	Inspection of documents	37
-47A	Conduct of directors, servants and agents	37
+46	Inspection of documents	36
+47	False or misleading statements	37
+47A	Conduct of directors, servants and agents	38
 48	Regulatory Authorities to comply with Ministerial directions	39
-49	Freedom of interstate trade etc.	39
+49	Freedom of interstate trade etc.	40
 50	Delegation	40
-51	Reconsideration and review of certain decisions	40
+51	Reconsideration and review of certain decisions	41
 52	Effect of this Act and regulations on State laws	42
 53	Enforcement of orders for payment	43
 55	Recovery of fees	44
-56	Regulations	44
+56	Regulations	45
 Notes		47
 An Act relating to road transport
 Part I—Preliminary
@@ -387,7 +388,7 @@ C is the number of whole kilometres travelled by the motor vehicle or trailer du
 	(i)	the records referred to in paragraph (b); and
 	(ii)	such declarations (if any) as are prescribed (including declarations made by a person other than the owner).
 	(3)	Where:
-	(a)	a person (in this subsection referred to as the convicted person) is convicted before a court of an offence against section 137.1 of the Criminal Code in relation to an act or omission; and
+	(a)	a person (in this subsection referred to as the convicted person) is convicted before a court of an offence against section 47 in relation to an act or omission; and
 	(b)	the court is satisfied that the purpose of, or one of the purposes of, the act or omission was to enable the convicted person or another person to receive an amount under subsection (1) to which the convicted person or the other person, as the case requires, was not entitled;
 the court may, in addition to imposing a penalty on the convicted person, order the convicted person to pay to the Commonwealth an amount not exceeding double the amount referred to in paragraph (b).
 	(4)	A reference in this section to the use of a motor vehicle or trailer in intra‑state operations is a reference to the use of the motor vehicle or trailer otherwise than:
@@ -432,8 +433,7 @@ government authority means:
 	(b)	an authority of a State, being an incorporated body but not being a local government body, that is responsible for the construction of roads in, or in an area of, the State.
 wages includes payments in the nature of wages.
 
-Part V—Licensing of interstate road transport operators
-Sections 24‑35 [Not in operation—see Notes 2, 3]
+Part V—Licensing of interstate road transport operators (sections 24‑35)  [Not in operation—see Notes 2, 3]
 
 Part VI—Monitoring devices
 36  Regulations may specify requirements for monitoring devices [see Note 2]
@@ -540,7 +540,7 @@ Note:	If a body corporate is convicted of the offence, subsection 4B(3) of the C
 Penalty:	Imprisonment for 6 months.
 Note:	Subsection 4B(2) of the Crimes Act 1914 allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of the offence, subsection 4B(3) of the Crimes Act 1914 allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
 	(4)	A person is not excused from giving information or a statement, or from producing a document, pursuant to this section on the ground that the information or statement or the production of the document may tend to incriminate the person, but the information or statement or the production of the document is not admissible in evidence in a prosecution against the person except in a prosecution:
-	(a)	in the case of a person not being a body corporate—for an offence against section 137.1 of the Criminal Code that relates to this section; or
+	(a)	in the case of a person not being a body corporate—for an offence against section 47 that relates to this section; or
 	(b)	in the case of a body corporate—for an offence against this Act or the regulations.
 	(5)	A notice under subsection (1) requiring the production of a document shall include, or be accompanied by, a statement explaining the effects of subsection (3).
 	(6)	A reference in subsection (4) to an offence of a particular kind includes a reference to an offence against:
@@ -551,6 +551,12 @@ being an offence that relates to an offence of that kind.
 	(1)	A person authorised by a Regulatory Authority to act under this subsection may inspect a document produced pursuant to a notice under section 45 and may make copies of, or take extracts from, the document.
 	(2)	A person authorised by a Regulatory Authority to act under this subsection may, for the purposes of this Act, take, and retain for so long as is necessary for those purposes, possession of a document produced pursuant to a notice under section 45 but the person otherwise entitled to possession of the document is entitled to be supplied, as soon as practicable, with a copy certified by the authorised person to be a true copy and the certified copy shall be received in all courts as evidence as if it were the original.
 	(3)	Where such a certified copy of a document is supplied, the authorised person having possession of the document shall, at such times and places as the authorised person thinks appropriate, permit the person otherwise entitled to possession of the document, or a person authorised by that person, to inspect and make copies of, or take extracts from, the document.
+47  False or misleading statements
+	(1)	A person shall not make a statement to an interstate motor vehicle officer that is, to the knowledge of the person, false or misleading in a material particular.
+Penalty:	Imprisonment for 6 months.
+Note:	Subsection 4B(2) of the Crimes Act 1914 allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment.
+	(2)	In this section, interstate motor vehicle officer means a person exercising powers or performing functions under this Act or the regulations.
+	(3)	A reference in this section to a statement made to an interstate motor vehicle officer is a reference to a statement made to an interstate motor vehicle officer orally, in writing, or in any other form but does not include a reference to a statement made in a document produced pursuant to subparagraph 44(1)(c)(v) or paragraph 45(1)(b).
 47A  Conduct of directors, servants and agents
 	(1)	Where, in proceedings for an offence against this Act, it is necessary to establish the state of mind of a body corporate in relation to particular conduct, it is sufficient to show:
 	(a)	that the conduct was engaged in by a director, servant or agent of the body corporate within the scope of his or her actual or apparent authority; and
@@ -619,11 +625,11 @@ reviewable decision means a decision of the Minister under subsection (2) or (4)
 		to hold a licence or other authority under a law of a State authorising that operation, being a licence or authority specified in the regulations or a licence or authority included in a class of licences or authorities specified in the regulations.
 53  Enforcement of orders for payment
 	(1)	Where:
-	(a)	upon the conviction of a person for an offence against regulations made for the purposes of section 37 or 39 of this Act or an offence against section 40, 41, 44 or 45 of this Act or an offence against section 137.1 of the Criminal Code that relates to this Act, the court before which the person is convicted, in addition to imposing a penalty on the person, orders the person to pay an amount to the Commonwealth; and
+	(a)	upon the conviction of a person for an offence against regulations made for the purposes of section 37 or 39 or against section 40, 41, 44, 45 or 47, the court before which the person is convicted, in addition to imposing a penalty on the person, orders the person to pay an amount to the Commonwealth; and
 	(b)	the court has civil jurisdiction to the extent of the amount;
 the order is enforceable in all respects as a final judgment of the court in favour of the Commonwealth.
 	(2)	Where:
-	(a)	upon conviction of a person for an offence against regulations made for the purposes of section 37 or 39 of this Act or an offence against section 40, 41, 44 or 45 of this Act or an offence against section 137.1 of the Criminal Code that relates to this Act, the court before which the person is convicted, in addition to imposing a penalty on the person, orders the person to pay an amount to the Commonwealth; and
+	(a)	upon conviction of a person for an offence against regulations made for the purposes of section 37 or 39 or against section 40, 41, 44, 45 or 47, the court before which the person is convicted, in addition to imposing a penalty on the person, orders the person to pay an amount to the Commonwealth; and
 	(b)	the court:
 	(i)	does not have civil jurisdiction; or
 	(ii)	has civil jurisdiction, but does not have civil jurisdiction to the extent of the amount;
@@ -656,7 +662,6 @@ the proper officer of the court shall issue to the Minister a certificate in the
 Notes to the Interstate Road Transport Act 1985
 Note 1
 The Interstate Road Transport Act 1985 as shown in this compilation comprises Act No. 130, 1985 amended as indicated in the Tables below. 
-All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -707,7 +712,7 @@ Transport and Communications Legislation Amendment Act (No. 2) 1993
 5, 1994
 18 Jan 1994
 Schedule (item 50): 17 Jan 1990 (d)
-S. 2(4) (am. by No. 43, 1996, Sch. 3 [item 123])
+S. 2(4) (as am. by No. 43, 1996)
 as amended by
 
 
@@ -738,17 +743,12 @@ Interstate Road Transport Amendment Act 2000
 3 May 2000
 (g)
 —
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
-137, 2000
-24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
-Sch. 2 (items 418, 419) [see Table A]
 (a)	The Interstate Road Transport Act 1985 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1986, subsections 2(12) and (13) of which provide as follows:
 	(12)	The amendment of paragraph 39(b) of the Interstate Road Transport Act 1985 made by this Act shall come into operation, or shall be deemed to have come into operation, as the case may be, immediately after section 39 of the Interstate Road Transport Act 1985 comes or came into operation. 
 	(13)	The amendment of paragraph 40(b) of the Interstate Road Transport Act 1985 made by this Act shall come into operation, or shall be deemed to have come into operation, as the case may be, immediately after section 40 of the Interstate Road Transport Act 1985 comes or came into operation.
-	Sections 39 and 40 commenced on 1 January 1987 (see Gazette 1986, No. S661).
+	Sections 39 and 40 came into operation on 1 January 1987 (see Gazette 1986, No. S661).
 (b)	The Interstate Road Transport Act 1985 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986, subsection 2(7) of which provides as follows:
-	(7)	An amendment of a provision of the Interstate Road Transport Act 1985 made by this Act shall come into operation on the day on which that provision comes into operation. [see Note 3]
+	(7)	An amendment of a provision of the Interstate Road Transport Act 1985 made by this Act shall come into operation on the day on which that provision comes into operation. [see Note 2]
 	The amendments to sections 3, 11, 39 and 50 commenced on 1 January 1987 (see Gazette 1986, No. S661).
 (c)	The Interstate Road Transport Act 1985 was amended by Part 9 (sections 22‑26) only of the Transport and Communications Legislation Amendment Act (No. 2) 1989, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
@@ -759,8 +759,7 @@ Sch. 2 (items 418, 419) [see Table A]
 (f)	The Interstate Road Transport Act 1985 was amended by Schedule 2 (items 881‑888) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
 	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
 (g)	The Interstate Road Transport Act 1985 was amended by the Interstate Road Transport Amendment Act 2000, section 2 of which provides as follows:
-	2	This Act commences immediately after the commencement of the Interstate Road Transport Charge Amendment Act 2000. 
-	The Interstate Road Transport Charge Amendment Act 2000 came into operation on 1 July 2000 (see Gazette 2000, No. S303).
+	2	This Act commences immediately after the commencement of the Interstate Road Transport Charge Amendment Act 2000. 	The Interstate Road Transport Charge Amendment Act 2000 commenced on 1 July 2000 (see Gazette 2000, No. S303).
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -829,7 +828,7 @@ am. No. 39, 1988
 
 rs. No. 50, 1995
 S. 19	
-am. No. 43, 1998; No. 137, 2000
+am. No. 43, 1998
 S. 20	
 rs. No. 50, 1995
 Heading to Part IV	
@@ -863,17 +862,13 @@ am. No. 43, 1998
 Note to s. 44(6)	
 ad. No. 43, 1998
 S. 45	
-am. No. 43, 1998; No. 137, 2000
+am. No. 43, 1998
 Notes to s. 45(2), (3)	
 ad. No. 43, 1998
 S. 47	
 am. No. 43, 1998
-
-rep. No. 137, 2000
 Note to s. 47(1)	
 ad. No. 43, 1998
-
-rep. No. 137, 2000
 S. 47A	
 ad. No. 23, 1990
 
@@ -886,15 +881,26 @@ Heading to s. 52
 am. No. 43, 1998
 S. 52	
 am. No. 39, 1988; No. 128, 1991; No. 43, 1998
-S. 53	
-am. No. 137, 2000
 S. 54	
 rep. No. 39, 1988
 S. 56	
 am. No. 39, 1988; No. 23, 1990; No. 128, 1991; No. 43, 1998
 
 Note 2
-Part V (sections 24‑35), subsections 36(1), (5) and section 37 provide as follows:
+Subsection 2(2) of the Interstate Road Transport Act 1985 provides as follows:
+	(2)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
+As at 1 July 2000 no date had been fixed for the commencement of Part V (sections 24‑35), subsections 36(1), (5) and section 37. They are set out below under the heading “EXTRACTS FROM INTERSTATE ROAD TRANSPORT ACT 1985 (No. 130, 1995)”. 
+Note 3
+Section 30 was amended by section 3 and Schedule 1 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986. The provision of Schedule 1 applicable to the Interstate Road Transport Act 1985 provides as follows:
+Schedule 1
+Subsection 30(5)
+Omit “the Licensing Authority is satisfied that”.
+Subsection 2(7) of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986 provides as follows:
+	(7)	An amendment of a provision of the Interstate Road Transport Act 1985 made by this Act shall come into operation on the day on which that provision comes into operation.
+As at 1 July 2000 no date had been fixed for the amendment of subsection 30(5) and it is not incorporated in this compilation. 
+
+
+EXTRACTS FROM INTERSTATE ROAD TRANSPORT ACT 1985 (No. 130, 1985)
 PART V—LICENSING OF INTERSTATE ROAD TRANSPORT OPERATORS
 24  Interpretation [see NOTE 3 below]
 	(1)	In this Part:
@@ -998,7 +1004,7 @@ the person shall, before 31 July in that year, or before such later date as the 
 	(2)	A reference in subsection (1) to a conviction of a person of an offence includes a reference to the making of an order in relation to the person under a provision of a law of a State or Territory corresponding to section 19B of the Crimes Act 1914 in respect of the offence.
 34  Federal road safety standards
 		For the purposes of this Part, the Minister may, by order in writing, declare standards, to be known as federal road safety standards, with respect to road safety matters.
-35  Disallowance etc. of federal road safety standards [see NOTE 1 below]
+35  Disallowance etc. of federal road safety standards [see NOTE 1 below]
 	(1)	Sections 48, 49, 49A and 50 of the Acts Interpretation Act 1901 apply in relation to orders made under section 34 of this Act as if in those sections references to regulations were references to orders, references to a regulation were references to an order and references to a repeal were references to a revocation.
 	(2)	An order made under section 34 of this Act shall be deemed to be a statutory rule within the meaning of the Statutory Rules Publication Act 1903.
 36 Regulations may specify requirements for monitoring devices [see NOTE 2 below]
@@ -1006,21 +1012,16 @@ the person shall, before 31 July in that year, or before such later date as the 
 	(5)	A charge monitoring device may be a device of the same or a different kind as a standard monitoring device. 
 37  Regulations may require standard monitoring device to be fitted to registered motor vehicles
 		The regulations may require a registered motor vehicle to be fitted with a standard monitoring device.
-Subsection 2(2) of the Interstate Road Transport Act 1985 provides as follows:
-	(2)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
-As at 24 May 2001 no date had been fixed for the commencement of Part V (sections 24‑35), subsections 36(1), (5) and section 37.
 NOTE 1:	Section 8 and the Schedule only of the Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988 amended section 35 of the Interstate Road Transport Act 1985. The applicable provision provides as follows:
 Schedule
 Subsection 35(1):
 Insert “48A, 48B,” before “49” 
 Section 8 of the Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988 commenced on Royal Assent.
-As at 24 May 2001 the amendment is not incorporated in this compilation.
 NOTE 2:	Section 3 and the Schedule of the Interstate Road Transport Amendment Act 1995 amended subsection 36(5) of the Interstate Road Transport Act 1985. The applicable provision provides as follows:
 Schedule
 12  Subsection 36(5): 
 Omit the subsection.
 Section 3 of the Interstate Road Transport Amendment Act 1995 commenced on 1 July 1995.
-As at 24 May 2001 the amendment is not incorporated in this compilation.
 NOTE 3:	Schedule 1 (items 25, 26) of the Interstate Road Transport Amendment Act 1998 amended subsections 24(2), (3) and subsection 25 (penalty) of the Interstate Road Transport Act 1985. The applicable provisions provide as follows:
 25  Subsections 24(2) and (3)
 Omit “or Territory”.
@@ -1029,31 +1030,5 @@ Repeal the penalty, substitute:
 Penalty:	50 penalty units.
 Note:	If a body corporate is convicted of the offence, subsection 4B(3) of the Crimes Act 1914 allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
 Schedule 1 (items 25, 26) of the Interstate Road Transport Amendment Act 1998 commenced on Royal Assent.
-As at 24 May 2001 the amendments are not incorporated in this compilation.
-Note 3
-Section 30 was amended by section 3 and Schedule 1 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986. The provision of Schedule 1 applicable to the Interstate Road Transport Act 1985 provides as follows:
-Schedule 1
-Subsection 30(5)
-Omit “the Licensing Authority is satisfied that”.
-Subsection 2(7) of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986 provides as follows:
-	(7)	An amendment of a provision of the Interstate Road Transport Act 1985 made by this Act shall come into operation on the day on which that provision comes into operation.
-As at 24 May 2001 no date had been fixed for the commencement of subsection 30(5) and the amendment is not incorporated in this compilation.
-Table A
-Application, saving or transitional provisions
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-Schedule 2
-418  Transitional—pre‑commencement offences
-(1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-	(a)	an offence committed before the commencement of this item; or
-	(b)	proceedings for an offence alleged to have been committed before the commencement of this item; or
-	(c)	any matter connected with, or arising out of, such proceedings;
-as if the amendment or repeal had not been made.
-(2)	Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-419  Transitional—pre‑commencement notices
-If:
-	(a)	a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-	(b)	any or all of those other provisions are repealed by this Schedule; and
-	(c)	the first‑mentioned provision is amended by this Schedule;
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
+      
 
