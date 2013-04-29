@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00158/Html/ed7376f2-2d1d-4287-bc85-95e66938e23d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00746/Html/ec512203-f1c1-4427-a1f6-da1e2d07dab9_files/image001.gif)
 
 # Development Allowance Authority Act 1992
 
 **Act No. 99 of 1992 as amended**
 
-This compilation was prepared on 24 January 2012
+This compilation was prepared on 15 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -1484,13 +1484,25 @@ report in writing to the DAA on things done, during the reporting year concerned
 
 ##### <a id="106"></a>106  Acting DAA
 
-                   The Minister may appoint a person to act as the DAA:
+\[Appointment to act as the DAA]
+
+             (1)  The Minister may appoint a person to act as the DAA:
 
                      (a)  during a vacancy in the office of DAA, whether or not an appointment has previously been made to that office; or
 
                      (b)  during any period, or during all periods, when the DAA is absent from duty or from Australia or is, for any other reason, unable to perform the duties of that office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+\[Acting appointment not to be challenged on technical grounds]
+
+             (5)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="107"></a>107  Conflict of interest
 
@@ -2237,7 +2249,7 @@ Schedule 3 (items 66, 67): ( <i>d</i>)</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 533–535) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 533–535) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -2256,7 +2268,8 @@ _(b)_     The _Development Allowance Authority Act 1992_ was amended by 
 
                  (4)   Part 1 of Schedule 10 is taken to have commenced immediately after the commencement of the _Taxation Laws Amendment (Infrastructure Borrowings) Act 1994_.
 
-         The _Taxation Laws Amendment (Infrastructure Borrowings) Act 1994_ came into operation on 16 December 1994.
+         The _Taxation Laws Amendment (Infrastructure Borrowings) Act 1994_ came into operation on
+  16 December 1994.
 
 _(c)_     The _Development Allowance Authority Act 1992_ was amended by the _Taxation Laws Amendment Act (No. 3) 1996_, subsection 2(3) of which provides as follows:
 
@@ -3797,26 +3810,10 @@ Chapt. 4</div>
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 106(1)</div>
-  </td>
-  <td>
-    <div>rep. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 106</div>
   </td>
   <td>
-    <div>am. No. 163, 1994; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 106</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
+    <div>am. No. 163, 1994</div>
   </td>
 </tr>
 <tr>
@@ -4006,6 +4003,32 @@ No. 163, 1994</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 533  Subsection 106(1)
+
+Omit “(1)”.
+
+_Note:       The heading to subsection 106(1) is deleted._
+
+## 534  At the end of subsection 106(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 535  Subsection 106(5)
+
+Repeal the subsection.
+
+As at 15 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4030,7 +4053,7 @@ An amendment made by an item in a Schedule (except Schedule 1) applies to asse
 
 * * *
 
-_Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001 (No. 146, 2001)_
+_Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001 (No. 146, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -4134,13 +4157,15 @@ _Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010
 
 ## Schedule 2
 
-## 123  Application of amendments
+## 123  Application of amendments
 
 (2)       The amendment made by item 12 of this Schedule applies to records, disclosures and uses made on or after the commencement of that item (whenever the information was obtained).
 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
