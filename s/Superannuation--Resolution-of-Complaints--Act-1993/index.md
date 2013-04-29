@@ -1,7 +1,7 @@
 
 Superannuation (Resolution of Complaints) Act 1993
 Act No. 80 of 1993 as amended
-This compilation was prepared on 1 January 2003  taking into account amendments up to Act No. 86 of 2002
+This compilation was prepared on 22 October 2002  taking into account amendments up to Act No. 86 of 2002
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 [Note: Part 7A ceased to have effect on 13 September 1999 (see Gazette 1999, No. S423)]
@@ -15,11 +15,10 @@ Part 1—Preliminary	1
 2	Commencement [see Note 1]	1
 3	Interpretation	1
 4	Definition of decision made by a trustee, insurer, RSA provider or another decision‑maker	7
-4AA	Application of the Criminal Code	8
+4AA	Application of the Criminal Code	7
 4A	Act applies to certain exempt public sector superannuation schemes	8
-4B	Modified meanings of beneficiary, member etc.	8
-5	Act does not apply to an excluded fund	9
-5A	Severable operation of Act so far as complaints concerning death benefits are concerned	9
+5	Act does not apply to an excluded fund	8
+5A	Severable operation of Act so far as complaints concerning death benefits are concerned	8
 Part 2—Establishment and constitution of the Superannuation Complaints Tribunal	10
 6	Establishment	10
 7	Membership	10
@@ -38,101 +37,102 @@ Part 4—Complaints, procedural matters relating to complaints and complaints th
 15	Who may make a complaint under section 14	19
 15A	Complaints about conduct of insurers concerning sale of annuity policies	21
 15B	Complaints about decisions of insurers under annuity policies	22
-15C	Who may make a complaint under section 15B	22
-15CA	Complaints about statements given to Commissioner of Taxation by superannuation provider	23
+15C	Who may make a complaint under section 15B	23
+15CA	Complaints about statements given to Commissioner of Taxation by superannuation provider	24
 15D	Tribunal cannot deal with certain complaints	24
 15E	Complaints about conduct of RSA providers concerning opening of RSAs	25
-15F	Complaints about decisions of RSA providers	26
-15G	Who may make a complaint under section 15F	28
-15H	Complaints about conduct of insurers concerning sale of insurance benefits	29
+15F	Complaints about decisions of RSA providers	27
+15G	Who may make a complaint under section 15F	29
+15H	Complaints about conduct of insurers concerning sale of insurance benefits	30
 15J	Complaints about decisions of insurers	31
-15K	Who may make a complaint under section 15J	32
-16	Tribunal to help complainants to make complaints	33
+15K	Who may make a complaint under section 15J	33
+16	Tribunal to help complainants to make complaints	34
 17	Notification procedures on receipt of a complaint	34
 17A	Notification procedures relating to other persons joined or seeking to be joined as parties	35
 18	Parties to a complaint	37
 19	Tribunal not to deal with complaint unless the complainant has attempted to have the matter resolved	39
 20	Tribunal not to deal with complaint if subject matter of complaint is subject of court proceedings	40
-21	Withdrawal of complaint	40
-22	Power to treat a complaint as having been withdrawn	40
+21	Withdrawal of complaint	41
+22	Power to treat a complaint as having been withdrawn	41
 22A	Tribunal may refer complaint or part complaint to other complaint‑handling body	42
 23	Right to representation in relation to a complaint	42
 24	Giving material documents to the Tribunal	43
 24AA	Complaint against superannuation provider: giving material documents to the Tribunal	45
-24A	Other parties may join a complaint	45
+24A	Other parties may join a complaint	46
 25	Power to obtain information and documents	48
 26	Operation and implementation of a decision that is subject to a complaint	50
-Part 5—Conciliation of complaints	53
-27	Inquiries by Tribunal	53
-28	Requests to attend conciliation conferences	53
-29	Conferences may be conducted by telephone or other means of communication	54
-30	Statements at conference to be privileged	54
-31	Tribunal to implement settlements	54
-Part 6—Review of decisions or conduct complained of	55
-Division 1—Preliminary procedures	55
-32	Arrangements for review meetings	55
-Division 2—How the Tribunal informs itself about the decision or conduct under review	56
-33	Submissions to Tribunal	56
-34	Tribunal meetings	56
-35	Tribunal may allow telephone and other submissions	56
-Division 3—The review meeting	58
-36	Meeting procedure	58
-37	Tribunal powers—complaints under section 14	58
-37A	Tribunal powers—complaints under section 14A	59
-37B	Tribunal powers—complaints under section 15A	61
-37C	Tribunal powers—complaints under section 15B	62
-37CA	Tribunal powers: complaint under section 15CA	63
-37D	Tribunal powers—complaints under section 15E	64
-37E	Tribunal powers—complaints under section 15F	66
-37F	Tribunal powers—complaints under section 15H	67
-37G	Tribunal powers—complaints under section 15J	69
-38	Meeting to be private	70
-39	Reference of questions of law to Federal Court	71
-40	Tribunal to give reasons	71
-41	Operation of determination	71
-Division 4—Other procedural matters	73
-42	Adjournment of review meetings	73
-43	Evidence of determination	73
-Division 5—Notification of determination and appeal rights	74
-44	Notification of determination	74
-45	Notification of appeal rights	75
-Part 7—Appeals	76
-46	Appeals to Federal Court of Australia from determinations of the Tribunal	76
-47	Operation and implementation of a determination that is subject to appeal	76
-48	Sending of documents to, and disclosure of documents by, the Federal Court	79
-Part 7A—Arbitration [see Note 1]	80
-48A	Complaints to which Part applies	80
-48B	Notice to parties to a complaint	80
-48C	How arbitration is to be conducted	81
-48D	Evidence of award made in an arbitration	81
-48E	Notification of possible appeal rights	81
-48F	Sunset clause	81
-Part 8—Administrative provisions	82
-Division 1—Administrative provisions relating to Tribunal Chairperson and Deputy Chairperson	82
-49	Terms and conditions of appointment	82
-50	Remuneration and allowances	82
-51	Leave of absence	82
-52	Resignation	83
-53	Termination of appointment	83
-54	Acting Tribunal Chairperson or Deputy Chairperson	83
-Division 2—Administrative provisions relating to other Tribunal members	85
-55	Terms and conditions of appointment	85
-56	Remuneration and allowances	85
-57	Resignation	85
-58	Termination of appointment	86
-Part 9—Miscellaneous	87
-59	Certain powers of the Tribunal to be exercised by Tribunal Chairperson or staff member	87
-60	Legal professional privilege	87
-61	Liability for damages	88
-62	Staff and facilities	89
-63	Secrecy	89
-64	Tribunal Chairperson to refer contraventions of the law or of the governing rules of a fund to the ASIC	90
-64A	Tribunal chairperson to refer breaches of terms and conditions to the ASIC	91
-65	Failure of a party to a complaint to comply with a determination or direction by the Tribunal	91
-66	Conduct by directors, servants and agents	92
-67	Annual report	93
-68	Regulations	93
-Notes	95
+Part 5—Conciliation of complaints	54
+27	Inquiries by Tribunal	54
+28	Requests to attend conciliation conferences	54
+29	Conferences may be conducted by telephone or other means of communication	55
+30	Statements at conference to be privileged	55
+31	Tribunal to implement settlements	55
+Part 6—Review of decisions or conduct complained of	56
+Division 1—Preliminary procedures	56
+32	Arrangements for review meetings	56
+Division 2—How the Tribunal informs itself about the decision or conduct under review	57
+33	Submissions to Tribunal	57
+34	Tribunal meetings	57
+35	Tribunal may allow telephone and other submissions	58
+Division 3—The review meeting	59
+36	Meeting procedure	59
+37	Tribunal powers—complaints under section 14	59
+37A	Tribunal powers—complaints under section 14A	60
+37B	Tribunal powers—complaints under section 15A	62
+37C	Tribunal powers—complaints under section 15B	63
+37CA	Tribunal powers: complaint under section 15CA	64
+37D	Tribunal powers—complaints under section 15E	65
+37E	Tribunal powers—complaints under section 15F	67
+37F	Tribunal powers—complaints under section 15H	68
+37G	Tribunal powers—complaints under section 15J	70
+38	Meeting to be private	71
+39	Reference of questions of law to Federal Court	72
+40	Tribunal to give reasons	72
+41	Operation of determination	72
+Division 4—Other procedural matters	74
+42	Adjournment of review meetings	74
+43	Evidence of determination	74
+Division 5—Notification of determination and appeal rights	75
+44	Notification of determination	75
+45	Notification of appeal rights	76
+Part 7—Appeals	77
+46	Appeals to Federal Court of Australia from determinations of the Tribunal	77
+47	Operation and implementation of a determination that is subject to appeal	77
+48	Sending of documents to, and disclosure of documents by, the Federal Court	80
+Part 7A—Arbitration [see Note 1]	81
+48A	Complaints to which Part applies	81
+48B	Notice to parties to a complaint	81
+48C	How arbitration is to be conducted	82
+48D	Evidence of award made in an arbitration	82
+48E	Notification of possible appeal rights	82
+48F	Sunset clause	82
+Part 8—Administrative provisions	83
+Division 1—Administrative provisions relating to Tribunal Chairperson and Deputy Chairperson	83
+49	Terms and conditions of appointment	83
+50	Remuneration and allowances	83
+51	Leave of absence	83
+52	Resignation	84
+53	Termination of appointment	84
+54	Acting Tribunal Chairperson or Deputy Chairperson	84
+Division 2—Administrative provisions relating to other Tribunal members	86
+55	Terms and conditions of appointment	86
+56	Remuneration and allowances	86
+57	Resignation	86
+58	Termination of appointment	87
+Part 9—Miscellaneous	88
+59	Certain powers of the Tribunal to be exercised by Tribunal Chairperson or staff member	88
+60	Legal professional privilege	88
+61	Liability for damages	89
+62	Staff and facilities	90
+63	Secrecy	90
+64	Tribunal Chairperson to refer contraventions of the law or of the governing rules of a fund to the ASIC	91
+64A	Tribunal chairperson to refer breaches of terms and conditions to the ASIC	92
+65	Failure of a party to a complaint to comply with a determination or direction by the Tribunal	92
+66	Conduct by directors, servants and agents	93
+67	Annual report	94
+68	Regulations	94
+Notes		95
+
 An Act relating to the resolution of complaints about decisions and conduct of trustees of superannuation funds and approved deposit funds and of RSA providers and insurers
 Part 1—Preliminary
   
@@ -147,7 +147,6 @@ Part 1—Preliminary
 annuity policy means a life policy in relation to an annuity that is declared to be a superannuation policy under regulations made for the purposes of paragraph (b) of the definition of superannuation policy in the Life Insurance Act 1995.
 arbitration means arbitration by the Tribunal under Part 7A.
 arbitration agreement means an agreement entered into as mentioned in section 48B.
-beneficiary has a meaning affected by section 4B.
 complainant means a person who has made a complaint under section 14, 14A, 15A, 15B, 15CA, 15E, 15F, 15H or 15J.
 complaint means a complaint that has been made under section 14, 14A, 15A, 15B, 15CA, 15E, 15F, 15H or 15J.
 conduct includes acts, omissions and representations.
@@ -185,7 +184,6 @@ excluded complaint means:
 excluded subject matter, in relation to a complaint, means subject matter that is declared by the regulations to be excluded subject matter for the purposes of this Act.
 Federal Court means the Federal Court of Australia.
 fund means a regulated superannuation fund or an approved deposit fund.
-holder, in relation to an RSA, has a meaning affected by section 4B.
 holder, in relation to an RSA, has the same meaning as in the Retirement Savings Accounts Act 1997.
 insurer means:
 	(a)	in relation to a complaint under section 14 that concerns a decision relating to a death benefit or a disability benefit under a contract of insurance:
@@ -205,12 +203,10 @@ life policy has the same meaning as in the Life Insurance Act 1995.
 life policy fund means a regulated superannuation fund for the purpose of which the trustee maintains, in relation to at least some of the members of the fund:
 	(a)	individual life policies covering each of those members; or
 	(b)	a single life policy covering all of those members.
-member has a meaning affected by section 4B.
 nominated State or Territory has the meaning given by paragraph 48B(4)(b).
 party, in relation to a complaint, has the meaning given by section 18.
 party, in relation to an arbitration, has the meaning given by subsection 48B(6).
 party’s representative means an officer or agent who is representing a party in accordance with section 23.
-person who has an interest, in relation to a death benefit, has a meaning affected by section 4B.
 review meeting means a meeting under Part 6 to review the decision of the trustee or superannuation provider to which the complaint relates.
 RSA has the same meaning as in the Retirement Savings Accounts Act 1997.
 RSA provider has the same meaning as in the Retirement Savings Accounts Act 1997.
@@ -247,19 +243,6 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of crimina
 	(b)	a scheme established:
 	(i)	by or under a law of the Commonwealth; or
 	(ii)	under the authority of the Commonwealth.
-4B  Modified meanings of beneficiary, member etc.
-	(1)	The regulations may provide that, for the purposes of this Act or specified provisions of this Act:
-	(a)	a person is to be treated as being a qualifying person; or
-	(b)	a person is not to be treated as being a qualifying person.
-	(2)	Without limiting subsection (1), regulations for the purposes of that subsection may be made in relation to a person who is entitled to become, or has applied to become, a member of a superannuation fund or a beneficiary of an approved deposit fund.
-	(3)	This Act applies with such modifications (if any) as are prescribed in relation to a person who is a qualifying person because of regulations made for the purposes of this section.
-	(4)	In this section:
-modifications includes additions, omissions and substitutions.
-qualifying person means:
-	(a)	a member of a superannuation fund; or
-	(b)	a beneficiary of an approved deposit fund; or
-	(c)	a person who has an interest in a death benefit; or
-	(d)	the holder of an RSA.
 5  Act does not apply to an excluded fund
 		This Act does not apply to a self managed superannuation fund.
 Note:	For the definition of self managed superannuation fund see section 10 of the Supervision Act.
@@ -1474,7 +1457,7 @@ Schedule 1 (item 21): Royal Assent Remainder: 18 Jan 2001
 Family Law Legislation Amendment (Superannuation) Act 2001
 61, 2001
 28 June 2001
-28 Dec 2002
+Ss. 4, 5 and Schedule 1 (items 7‑9): [see (h), Note 2 and Table A]
 S. 4 S. 5 (as am. by 86, 2002, Sch. 5 [item 10]) [see Table A]
 as amended by
 
@@ -1484,24 +1467,25 @@ as amended by
 Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002
 86, 2002
 11 Oct 2002
-Ss. 1–3: Royal Assent Remainder: 1 Jan 2003 (see s. 2(1) and Gazette 2002, No. GN44)
+Schedule 5 (item 10): [see (ha) and Table A]
 —
 Financial Services Reform (Consequential Provisions) Act 2001
 123, 2001
 27 Sept 2001
-Schedule 1 (item 346): 11 Mar 2002 (see Gazette 2001, No. GN42) (h)
+Schedule 1 (item 346): 11 Mar 2002 (see Gazette 2001, No. GN42) (i)
 —
 Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001
 146, 2001
 1 Oct 2001
-S. 4 and Schedule 1: 15 Dec 2001 (i)
+S. 4 and Schedule 1: 15 Dec 2001 (j)
 S. 4 [see Table A]
 Statute Law Revision Act 2002
 63, 2002
 3 July 2002
-Schedule 1 (items 31, 32): (j)
+Schedule 1 (items 31, 32): (k)
 —
- (a)	Subsection 2(4) of the Superannuation Industry (Supervision) Legislation Amendment Act 1994 provides as follows:
+
+(a)	Subsection 2(4) of the Superannuation Industry (Supervision) Legislation Amendment Act 1994 provides as follows:
 	(4)	Divisions 1 and 2 of Part 3 commence, or are taken to have commenced, as the case requires, immediately after the commencement of the Superannuation (Resolution of Complaints) Act 1993. 
 	The Superannuation (Resolution of Complaints) Act 1993 came into operation on 1 July 1994.
 (b)	The Superannuation (Resolution of Complaints) Act 1993 was amended by Schedule 5 (items 1-102) only of the Superannuation Industry (Supervision) Legislation Amendment Act 1995, subsections 2(1) and (4) of which provide as follows:
@@ -1536,13 +1520,30 @@ Immediately after the time specified in the Superannuation Industry (Supervision
 (g)	The Superannuation (Resolution of Complaints) Act 1993 was amended by Schedule 1 (items 908 and 909) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-  (h)	The Superannuation (Resolution of Complaints) Act 1993 was amended by Schedule 1 (item 346) only of the Financial Services Reform (Consequential Provisions) Act 2001, subsections 2(1) and (6) of which provide as follows:
+(h)	The Superannuation (Resolution of Complaints) Act 1993 was amended by Schedule 1 (items 7‑9) only of the Family Law Legislation Amendment (Superannuation) Act 2001, section 2 of which provides as follows:
+	(1)	Subject to subsection (2), this Act commences on a day to be fixed by Proclamation. [see Note 2]
+	(2)	If this Act does not commence under subsection (1) within the period of 18 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period. [see Note 2]
+(ha)	The  Family Law Legislation Amendment (Superannuation) Act 2001 was amended by Schedule 5 (item 10) only of the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002, subsection 2(1) (item 4(a)) of which provides as follows:
+	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+Commencement information
+Column 1
+Column 2
+Column 3
+Provision(s)
+Commencement
+Date/Details
+4.  Schedule 5, item 10
+The later of:
+(a) the commencement of sections 3 to 338 of the Proceeds of Crime Act 2002; or
+[see Table A]
+(i)	The Superannuation (Resolution of Complaints) Act 1993 was amended by Schedule 1 (item 346) only of the Financial Services Reform (Consequential Provisions) Act 2001, subsections 2(1) and (6) of which provide as follows:
 	(1)	In this section:
 		FSR commencement means the commencement of item 1 of Schedule 1 to the Financial Services Reform Act 2001.
 	(6)	Subject to subsections (7) to (17), the other items of Schedule 1 commence on the FSR commencement.
-(i)	The Superannuation (Resolution of Complaints) Act 1993 was amended by Schedule 1 only of the Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001, subsection 2(1) of which provides as follows:
+(j)	The Superannuation (Resolution of Complaints) Act 1993 was amended by Schedule 1 only of the Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day mentioned in subsection 2.2(2) of the Criminal Code.
-(j)	The Superannuation (Resolution of Complaints) Act 1993 was amended by Schedule 1 (items 31 and 32) only of the Statute Law Revision Act 2002, subsection 2(1) (items 25 and 26) of which provides as follows:
+(k)	The Superannuation (Resolution of Complaints) Act 1993 was amended by Schedule 1 (items 31 and 32) only of the Statute Law Revision Act 2002, subsection 2(1) (items 25 and 26) of which provides as follows:
 
 Commencement information
 Column 1
@@ -1565,7 +1566,7 @@ How affected
 Title	
 am. No. 62, 1997
 S. 3	
-am. No. 140, 1994; No. 144, 1995; Nos. 62, 71 and 191, 1997; Nos. 54 and 118, 1998; Nos. 61 and 123, 2001
+am. No. 140, 1994; No. 144, 1995; Nos. 62, 71 and 191, 1997; Nos. 54 and 118, 1998; No. 123, 2001
 Note 2 to s. 3(2)	
 rs. No. 54, 1998
 
@@ -1580,8 +1581,6 @@ S. 4AA
 ad. No. 146, 2001
 S. 4A	
 ad. No. 140, 1994
-S. 4B	
-ad. No. 61, 2001
 S. 5	
 am. No. 121, 1999
 Note to s. 5	
@@ -1743,6 +1742,38 @@ am. No. 144, 1995 (as am. by No. 63, 2002); No. 54, 1998
 S. 66	
 am. No. 146, 2001
 
+Note 2
+Family Law Legislation Amendment (Superannuation) Act 2001 (No. 61, 2001)
+The following amendments commence on 28 December 2002 unless proclaimed earlier:
+Schedule 1
+7  Subsection 3(2)
+Insert:
+beneficiary has a meaning affected by section 4B.
+7A  Subsection 3(2)
+Insert:
+holder, in relation to an RSA, has a meaning affected by section 4B.
+8  Subsection 3(2)
+Insert:
+member has a meaning affected by section 4B.
+8A  Subsection 3(2)
+Insert:
+person who has an interest, in relation to a death benefit, has a meaning affected by section 4B.
+9  After section 4A
+Insert:
+4B  Modified meanings of beneficiary, member etc.
+	(1)	The regulations may provide that, for the purposes of this Act or specified provisions of this Act:
+	(a)	a person is to be treated as being a qualifying person; or
+	(b)	a person is not to be treated as being a qualifying person.
+	(2)	Without limiting subsection (1), regulations for the purposes of that subsection may be made in relation to a person who is entitled to become, or has applied to become, a member of a superannuation fund or a beneficiary of an approved deposit fund.
+	(3)	This Act applies with such modifications (if any) as are prescribed in relation to a person who is a qualifying person because of regulations made for the purposes of this section.
+	(4)	In this section:
+modifications includes additions, omissions and substitutions.
+qualifying person means:
+	(a)	a member of a superannuation fund; or
+	(b)	a beneficiary of an approved deposit fund; or
+	(c)	a person who has an interest in a death benefit; or
+	(d)	the holder of an RSA.
+As at 22 October 2002 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Financial Sector Reform (Amendments and Transitional Provisions) Act 1998 (No. 54, 1998)
@@ -1769,6 +1800,7 @@ Schedule 2
 as if the amendments of that Act made by this Schedule had not happened.
 
 Family Law Legislation Amendment (Superannuation) Act 2001 (No. 61, 2001)
+The following provisions commence on 28 December 2002 unless proclaimed earlier:
 4  Definitions
 		In this Act, unless the contrary intention appears:
 Family Law Act means the Family Law Act 1975.
@@ -1780,9 +1812,14 @@ superannuation amendments means the amendments made by Schedule 1.
 5  Application of superannuation amendments
 	(1)	Subject to this section, the superannuation amendments apply to all marriages, including those that were dissolved before the startup time.
 	(2)	Subject to subsections (3) and (4), the superannuation amendments do not apply to a marriage if a section 79 order, or a section 87 agreement, is in force in relation to the marriage at the startup time.
-	(3)	If a section 79 order that is in force at the startup time is later set aside under paragraph 79A(1)(a), (b), (c), (d) or (e) of the Family Law Act, then the superannuation amendments apply to the marriage from the time the order is set aside.
+	(3)	[NOTE] If a section 79 order that is in force at the startup time is later set aside under paragraph 79A(1)(a), (b), (c) or (d) of the Family Law Act, then the superannuation amendments apply to the marriage from the time the order is set aside.
 	(4)	If an approval of a section 87 agreement that is in force at the startup time is later revoked on a ground specified in paragraph 87(8)(a), (c) or (d) of the Family Law Act, then the superannuation amendments apply to the marriage from the time the approval is revoked.
 	(5)	Part VIIIB of the Family Law Act does not apply in relation to a financial agreement that was made before the startup time.
+[NOTE] The following provision commences on 11 April 2003 unless proclaimed earlier:
+Schedule 5 (item 10) of the Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002 (No. 86, 2002) further amends section 5 as follows:
+Schedule 5
+10  Subsection 5(3)
+Omit “paragraph 79A(1)(a), (b), (c) or (d)”, substitute “paragraph 79A(1)(a), (b), (c), (d) or (e)”.
 
 Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001 (No. 146, 2001)
 4  Application of amendments
