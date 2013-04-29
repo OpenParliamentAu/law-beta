@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00017/Html/47d1943d-e51b-4a33-ad09-23cfd1a66d2c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00562/Html/cb7c11d8-f5cd-41ee-9a57-2b56bdc9f8b8_files/image001.gif)
 
 # Admiralty Act 1988
 
 **Act No. 34 of 1988 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 22 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -64,7 +64,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20](#20).          Service on and arrest of only one ship
 
-[21](#21).          Re-arrest
+[21](#21).          Re‑arrest
 
 [22](#22).          Service and arrest out of jurisdiction
 
@@ -456,7 +456,7 @@ the other ship is, in relation to the claim, a surrogate ship.
 
 ##### <a id="15"></a>15  Right to proceed _in rem_ on maritime liens etc.
 
-             (1)  A proceeding on a maritime lien or other charge in respect of a ship or other property subject to the lien or charge may be commenced as an action _in rem_ against the ship or property.
+             (1)  A proceeding on a maritime lien or other charge in respect of a ship or other property subject to the lien or charge may be commenced as an action _in rem_ against the ship or property.
 
              (2)  A reference in subsection (1) to a maritime lien includes a reference to a lien for:
 
@@ -468,7 +468,7 @@ the other ship is, in relation to the claim, a surrogate ship.
 
                      (d)  master’s disbursements.
 
-##### <a id="16"></a>16  Right to proceed _in rem_ on proprietary maritime claims
+##### <a id="16"></a>16  Right to proceed _in rem_ on proprietary maritime claims
 
                    A proceeding on a proprietary maritime claim concerning a ship or other property may be commenced as an action _in rem_ against the ship or property.
 
@@ -526,9 +526,9 @@ a proceeding on the claim may be commenced as an action _in rem_ against the shi
 
 subsection (3) does not prevent the arrest of the first‑mentioned ship in a proceeding on the maritime lien or other charge if the amount recovered by the person in the proceeding commenced under section 19 is less than the amount of the claim on the maritime lien or other charge.
 
-##### <a id="21"></a>21  Re-arrest
+##### <a id="21"></a>21  Re‑arrest
 
-             (1)  A ship or other property arrested in a proceeding on a maritime claim may not be re-arrested in the proceeding in relation to the claim unless the court so orders, whether because default has been made in the performance of a guarantee or undertaking given to procure the release of the ship or property from the earlier arrest or for some other sufficient reason.
+             (1)  A ship or other property arrested in a proceeding on a maritime claim may not be re‑arrested in the proceeding in relation to the claim unless the court so orders, whether because default has been made in the performance of a guarantee or undertaking given to procure the release of the ship or property from the earlier arrest or for some other sufficient reason.
 
              (2)  An order under subsection (1) may be made subject to such conditions as are just.
 
@@ -586,7 +586,7 @@ Note:          For the Convention on the Law of the Sea see the 
 
                    A proceeding under this Act on a maritime claim referred to in paragraph 4(3)(b) shall not be brought otherwise than in accordance with paragraphs 1 and 3 of Article IX of the Civil Liability Convention, whether or not the proceeding also relates to a maritime claim or to a maritime lien or other charge.
 
-##### <a id="26A"></a>26A  Proceedings in accordance with the Bunker Oil Convention
+##### <a id="26A"></a>26A  Proceedings in accordance with the Bunker Oil Convention
 
              (1)  A proceeding under this Act on a maritime claim referred to in paragraph 4(3)(ba) must not be brought otherwise than in accordance with paragraphs 1 and 2 of Article 9 of the Bunker Oil Convention, whether or not the proceeding also relates to another maritime claim or to a maritime lien or other charge.
 
@@ -792,7 +792,7 @@ then, by force of this subsection, the court has power, exercisable in the same 
 
              (5)  The law relating to laches does not apply in relation to a claim brought within a period fixed by or under this section.
 
-##### <a id="38"></a>38  Mode of trial
+##### <a id="38"></a>38  Mode of trial
 
                    A proceeding under this Act commenced as an action _in rem_, a limitation proceeding and a proceeding under this Act that is associated with either shall be tried without a jury.
 
@@ -856,6 +856,8 @@ then, by force of this subsection, the court has power, exercisable in the same 
 
              (4)  Jurisdiction is conferred on the Federal Court, the Federal Magistrates Court and on the courts of the Territories, and the courts of the States are invested with federal jurisdiction, in respect of matters arising under the Rules.
 
+             (5)  Part XII of the _Acts Interpretation Act 1901_ applies in relation to Rules made under this section as it applies in relation to regulations.
+
 ##### <a id="42"></a>42  Rules Committee
 
              (1)  The Attorney‑General shall constitute a committee consisting of not more than 7 persons to advise the Attorney‑General with respect to the Rules and shall appoint a member of the committee to preside at meetings of the committee.
@@ -882,7 +884,7 @@ then, by force of this subsection, the court has power, exercisable in the same 
 
 ##### <a id="45"></a>45  Repeal of certain Imperial laws
 
-                   The Imperial Acts specified in the following Table are repealed to the extent set out in the Table so far as they are part of the law of the Commonwealth or of an external Territory: 
+                   The Imperial Acts specified in the following Table are repealed to the extent set out in the Table so far as they are part of the law of the Commonwealth or of an external Territory:  
 
 <table>
 <colgroup>
@@ -1258,7 +1260,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 35) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 35) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1346,14 +1348,6 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 22</div>
-  </td>
-  <td>
-    <div>ad. No. 20, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 23</div>
   </td>
   <td>
@@ -1397,7 +1391,7 @@ of Assent</div>
     <div>S. 41</div>
   </td>
   <td>
-    <div>am. No. 23, 2006; No. 46, 2011</div>
+    <div>am. No. 23, 2006</div>
   </td>
 </tr></table>
 
@@ -1406,7 +1400,7 @@ of Assent</div>
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following amendment commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following amendment commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 3
 
@@ -1414,7 +1408,21 @@ The following amendment commences on 30 January 2012 (_see_ section 306 of the _
 
 After “59”, insert “or 59A”.
 
-As at 27 December 2011 the amendment is not incorporated in this compilation.
+As at 22 July 2011 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 35  Subsection 41(5)
+
+Repeal the subsection.
+
+As at 22 July 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -1440,6 +1448,8 @@ The amendment of section 41 of the _Admiralty Act 1988_ made by this Schedule 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
