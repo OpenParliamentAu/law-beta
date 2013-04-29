@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00264/Html/JurisCourtCrosVest1987WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00087/Html/JurisCourtCrosVest1987WD02_image001.gif)
 
 # Jurisdiction of Courts (Cross-vesting) Act 1987
 
 **Act No. 24 of 1987 as amended**
 
-This compilation was prepared on 4 July 2008
- taking into account amendments up to Act No. 42 of 2008
+This compilation was prepared on 1 March 2007
+ taking into account amendments up to Act No. 113 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -18,39 +18,39 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation and application
+[3](#3).            Interpretation and application                                                             2
 
-[4](#4).            Additional jurisdiction of certain courts
+[4](#4).            Additional jurisdiction of certain courts                                              3
 
-[5](#5).            Transfer of proceedings
+[5](#5).            Transfer of proceedings                                                                       4
 
-[6](#6).            Special federal matters: general rules
+[6](#6).            Special federal matters: general rules                                                   9
 
-[6A](#6A).         Special federal matters: Commonwealth authorities or officers acting under the laws of States
+[6A](#6A).         Special federal matters: Commonwealth authorities or officers acting under the laws of States             12
 
-[7](#7).            Institution and hearing of appeals
+[7](#7).            Institution and hearing of appeals                                                     13
 
-[8](#8).            Orders by Supreme Court of a Territory
+[8](#8).            Orders by Supreme Court of a Territory                                          15
 
-[9](#9).            Exercise of jurisdiction pursuant to cross-vesting laws
+[9](#9).            Exercise of jurisdiction pursuant to cross-vesting laws                     15
 
-[10](#10).          Transfer of matters arising under Division 1 or 1A of Part V of the Trade Practices Act
+[10](#10).          Transfer of matters arising under Division 1 or 1A of Part V of the Trade Practices Act      16
 
-[11](#11).          Conduct of proceedings
+[11](#11).          Conduct of proceedings                                                                     16
 
-[12](#12).          Orders as to costs
+[12](#12).          Orders as to costs                                                                              17
 
-[13](#13).          Limitation on appeals
+[13](#13).          Limitation on appeals                                                                        17
 
-[14](#14).          Enforcement and effect of judgments
+[14](#14).          Enforcement and effect of judgments                                                18
 
-[15](#15).          Construction of Act to be subject to Constitution
+[15](#15).          Construction of Act to be subject to Constitution                            18
 
-[16](#16).          Suspension or cessation of operation of Act
+[16](#16).          Suspension or cessation of operation of Act                                     18
 
 **Schedule** 
 
@@ -554,8 +554,6 @@ _Commonwealth Electoral Act 1918_
 
 _Copyright Act 1968_
 
-_Dental Benefits Act 2008_
-
 _Designs Act 2003_
 
 _Family Law Act 1975_
@@ -939,23 +937,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 2 (item 2) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Dental Benefits (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>42, 2008</div>
-  </td>
-  <td>
-    <div>25 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 5): 26 June 2008 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Jurisdiction of Courts (Cross-vesting) Act 1987_ was amended by section 4 (Schedule \[in part]) only of the _Law and Justice Legislation Amendment Act (No. 3) 1992_, subsection 2(5) of which provides as follows:
@@ -1166,7 +1147,7 @@ _(j)_      Subsection 2(1) (item 2) of the _Designs (Consequential A
     <div>Schedule</div>
   </td>
   <td>
-    <div>am. No. 83, 1990; No. 148, 2003; No. 113, 2006; No. 42, 2008</div>
+    <div>am. No. 83, 1990; No. 148, 2003; No. 113, 2006</div>
   </td>
 </tr></table>
 
