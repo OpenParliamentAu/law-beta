@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00759/Html/d75ea442-e7ce-4eaa-b103-973c251188a5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00317/Html/07bc2c9b-c206-4772-aa05-97c0bd3630f0_files/image001.gif)
 
 # Foreign Judgments Act 1991
 
 **Act No. 112 of 1991 as amended**
 
-This compilation was prepared on 30 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 19 April 2010
+ taking into account amendments up to Act No. 36 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -63,7 +64,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [19](#19).          Enforcement of judgments registered under State or Territory law after commencement of this Act
 
-[20](#20).          Rules of Court
+[20](#20).           Rules of Court
+
+**Part 5—Amendments of other Acts** 
+
+Sections 21, 22
 
 **Notes** 
 
@@ -315,7 +320,7 @@ on that day from 3 authorised foreign exchange dealers selected by the judgment 
 
                      (a)  the judgment is in respect of an amount of money payable in respect of both recoverable Papua New Guinea income tax and non‑recoverable tax; and
 
-                     (b)  the judgment could have been registered if it had been in respect of recoverable Papua New Gu  inea income tax only;
+                     (b)  the judgment could have been registered if it had been in respect of recoverable Papua New Guinea income tax only;
 
 the judgment may be registered in respect of the amount less so much as relates to non‑recoverable tax.
 
@@ -457,7 +462,7 @@ for the purpose only of one or more of the following:
 
                      (e)  inviting the court in its discretion not to exercise its jurisdiction in the proceedings.
 
-##### <a id="12"></a>12  General effect of certain judgments
+##### <a id="12"></a>12  General effect of certain judgments
 
              (1)  Subject to this section, a judgment to which Part 2 applies, or would have applied if it were a money judgment, must, whether or not it is, or can be, registered, be recognised in any Australian court as conclusive between the parties to it in all proceedings founded on the same cause of action and may be relied on by way of defence or counter‑claim in any such proceedings.
 
@@ -561,7 +566,7 @@ may be registered in the Supreme Court of that State or Territory.
 
                      (b)  under section 18 of this Act.
 
-##### <a id="20"></a>20  Rules of Court
+##### <a id="20"></a>20   Rules of Court
 
                    Rules of Court relating to the registration or enforcement, under the laws of a State or Territory, of judgments of the courts of a country apply, so far as they are capable of application and with necessary modifications and adaptations, to proceedings under this Act until:
 
@@ -570,6 +575,26 @@ may be registered in the Supreme Court of that State or Territory.
                      (b)  the end of one year from the day on which this Act commences;
 
 whichever is the earlier.
+
+## Part 5—Amendments of other Acts
+
+##### Sections <a id="21"></a>21, 22  
+
+* * *
+
+**Note:**
+
+The amendments made by this Part are incorporated in the current compilations on ComLaw.
+
+_Foreign Proceedings (Excess of Jurisdiction) Act 1984_
+
+_Federal Court of Australia Act 1976_.
+
+For access to the wording of the amendments made by this Part _see_ Act No. 112, 1991.
+
+* * *
+
+ 
 
 # Notes to the _Foreign Judgments Act 1991_
 
@@ -623,7 +648,7 @@ of Assent</div>
     <div>27 June 1991</div>
   </td>
   <td>
-    <div>S. 21: 27 Oct 1991 
+    <div>S. 21: 27 Oct 1991 
 Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
@@ -641,7 +666,7 @@ Remainder: Royal Assent</div>
     <div>11 Dec 1992</div>
   </td>
   <td>
-    <div>10 Apr 1993 ( <i>see</i>s. 2 and <i>Gazette</i>1993, No. GN13)</div>
+    <div>10 Apr 1993 ( <i>see</i>s. 2 and <i>Gazette</i>1993, No. GN13)</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -710,27 +735,10 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 4: Royal Assent 
-Schedule 2 (items 21–23): \[ <i>see</i>s. 2(1), Note 2 and Table A]</div>
+Schedule 2 (items 21–23): \[ <i>see</i>s. 2(1), Note 2 and Table A]</div>
   </td>
   <td colspan="2">
-    <div>S. 4 and Sch. 2 (item 23)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 39): Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
+    <div>S. 4 and Sch. 2 (item 23)</div>
   </td>
 </tr>
 <tr height="0">
@@ -754,8 +762,8 @@ _(b)_     The _Law and Justice Legislation Amendment Act 1997_ was amend
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -796,30 +804,6 @@ _(b)_     The _Law and Justice Legislation Amendment Act 1997_ was amend
   <td>
     <div>am. No. 166, 1992</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 5</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
 </tr></table>
 
 ### Note 2
@@ -842,7 +826,7 @@ Repeal the subsection, substitute:
 
 Note:          For the enforcement in Australia of judgments given by courts of New Zealand, see Part 7 of the _Trans‑Tasman Proceedings Act 2010_.
 
-As at 30 October 2012 the amendments are not incorporated in this compilation.
+As at 19 April 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
