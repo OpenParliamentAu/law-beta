@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00771/Html/AustFedPolice1979_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00309/Html/AustFedPolice1979_WD02AE_image001.gif)
 
 # Australian Federal Police Act 1979
 
 **Act No. 58 of 1979 as amended**
 
-This compilation was prepared on 26 November 2010
- taking into account amendments up to Act No. 127 of 2010
+This compilation was prepared on 6 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -2512,7 +2512,7 @@ Compliance with direction
 
 Note:          Paragraph (a)—persons may give directions under sections 40M and 40N. However, for a person’s power to give a requirement under section 40LA, see section 40PA.
 
-##### <a id="40PA"></a>40PA  Managers who may require alcohol screening tests
+##### <a id="40PA"></a>40PA  Managers who may require alcohol screening tests
 
                    The Commissioner may issue Commissioner’s orders under section 38 authorising particular kinds of AFP appointees to act as managers for the purpose of section 40LA.
 
@@ -4285,7 +4285,7 @@ whether present or future and whether vested or contingent.
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00771/Html/AustFedPolice1979_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00309/Html/AustFedPolice1979_WD02AE_image002.gif)
 
 where:
 
@@ -4473,7 +4473,7 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00771/Html/AustFedPolice1979_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00309/Html/AustFedPolice1979_WD02AE_image003.gif)
 
                             where:
 
@@ -4535,7 +4535,7 @@ the court must:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00771/Html/AustFedPolice1979_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00309/Html/AustFedPolice1979_WD02AE_image004.gif)
 
 where:
 
@@ -5029,9 +5029,7 @@ except for:
 
                      (e)  the purposes of the _Witness Protection Act 1994_ or regulations under that Act; or
 
-                    (ea)  the purposes of the _Parliamentary Joint Committee on Law Enforcement Act 2010_ or regulations under that Act; or
-
-                      (f)  the carrying out, performance or exercise of any of the person’s duties, functions or powers under Acts or regulations mentioned in paragraphs (c), (d), (e) and (ea).
+                      (f)  the carrying out, performance or exercise of any of the person’s duties, functions or powers under Acts or regulations mentioned in paragraphs (c), (d) and (e).
 
                     Penalty:  Imprisonment for 2 years.
 
@@ -5439,7 +5437,7 @@ the Commissioner may charge for the services.
 
 ## Part VII—Transitional
 
-##### <a id="71"></a>71  Interpretation of Part VII
+##### <a id="71"></a>71  Interpretation of Part VII
 
                    In this Part, unless the contrary intention appears:
 
@@ -6735,23 +6733,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 5 (items 8–16): <i>(z)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Security Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>127, 2010</div>
-  </td>
-  <td>
-    <div>24 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 10 (items 8, 9): 25 Nov 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -10561,7 +10542,7 @@ rep. No. 152, 2004</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 124, 1994; No. 9, 2000; No. 64, 2004; No. 129, 2005; No. 86, 2006; No. 70, 2008; No. 127, 2010</div>
+    <div>am. No. 124, 1994; No. 9, 2000; No. 64, 2004; No. 129, 2005; No. 86, 2006; No. 70, 2008</div>
   </td>
 </tr>
 <tr>
@@ -11328,7 +11309,7 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
 ## Schedule 1
 
-## 496  Saving provision—Finance Minister’s determinations
+## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
