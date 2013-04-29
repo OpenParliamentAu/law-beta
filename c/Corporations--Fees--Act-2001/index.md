@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00028/Html/e6bbf958-b85b-45e1-8368-2fa351535b7f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00525/Html/CorporationsFees2001_WD02_image001.gif)
 
 # Corporations (Fees) Act 2001
 
 **Act No. 52 of 2001 as amended**
 
-This compilation was prepared on 1 January 2012
- taking into account amendments up to Act No. 144 of 2011
+This compilation was prepared on 1 August 2010
+ taking into account amendments up to Act No. 27 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -50,7 +50,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-                   This Act commences at the same time as the _Corporations Act 2001_.
+                   This Act commences at the same time as the _Corporations Act 2001_.
 
 ##### <a id="3"></a>3  Application to the Crown
 
@@ -62,7 +62,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="chargeabl-matter"></a>**_chargeable matter_** means any of the following:
 
-                     (a)  the lodgment of a document under the _Corporations Act 2001_;
+                     (a)  the lodgment of a document under the _Corporations Act 2001_;
 
                      (b)  the registration of a document under that Act;
 
@@ -82,9 +82,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                       (j)  the doing of any act by the Panel in dealing with an application under that Act to the Panel;
 
-                    (ja)  the referral of a financial report under that Act to the Financial Reporting Panel;
+                     (ja)  the referral of a financial report under that Act to the Financial Reporting Panel;
 
-                    (jb)  the doing of any act by the Financial Reporting Panel in dealing with a referral under that Act to the Panel;
+                     (jb)  the doing of any act by the Financial Reporting Panel in dealing with a referral under that Act to the Panel;
 
                      (k)  the performance by ASIC of:
 
@@ -96,11 +96,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                       (l)  the performance by ASIC of functions provided for in regulations as mentioned in paragraph 798E(2)(b) of the _Corporations Act 2001_;
 
-                    (m)  the performance by ASIC of its functions in relation to the operator of a licensed market under Part 7.2A (Supervision of financial markets) of the _Corporations Act 2001_;
+                    (m)  the performance by ASIC of its functions under Part 7.2A (Supervision of financial markets) of the _Corporations Act 2001_.
 
-                     (n)  the performance by ASIC of its functions in relation to a participant in a licensed market under Part 7.2A (Supervision of financial markets) of the _Corporations Act 2001_.
-
-                    <a name="old-corpor-law"></a>**_old Corporations Law_**, in relation to a State or Territory, has the same meaning as it has in Part 10.1 of the _Corporations Act 2001_.
+                    <a name="old-corpor-law"></a>**_old Corporations Law_**, in relation to a State or Territory, has the same meaning as it has in Part 10.1 of the _Corporations Act 2001_.
 
              (2)  Other expressions used in this Act that are defined in the _Corporations Act 2001_ have the same meanings as they have in that Act.
 
@@ -134,11 +132,11 @@ Note:          The limitation in paragraph (a) applies separ
 
              (5)  The fee, or the total of the fees, for chargeable matters referred to in paragraph (l) of the definition of that term in subsection 4(1) that relate to a particular market licensee and a particular conflict, or potential conflict, of a kind referred to in subsection 798E(1) of the _Corporations Act 2001_, must not exceed $100,000 in respect of each period of 12 months during which ASIC performs functions referred to in that paragraph in relation to that market licensee and that conflict or potential conflict.
 
-             (6)  This section does not apply in relation to a chargeable matter referred to in paragraph (m) or (n) of the definition of **_chargeable matter_** in subsection 4(1).
+             (6)  This section does not apply in relation to a chargeable matter referred to in paragraph (m) of the definition of **_chargeable matter_** in subsection 4(1).
 
 ##### <a id="6A"></a>6A  Matters relating to amount of fees for market supervision
 
-             (1)  The regulations may prescribe a fee for a chargeable matter referred to in paragraph (m) or (n) of the definition of **_chargeable matter_** in subsection 4(1):
+             (1)  The regulations may prescribe a fee for a chargeable matter referred to in paragraph (m) of the definition of **_chargeable matter_** in subsection 4(1):
 
                      (a)  by specifying an amount as the fee; or
 
@@ -226,19 +224,13 @@ Note:          The limitation in paragraph (a) applies separ
 
                               (i)  person liable—the operator of a licensed market; and
 
-                             (ii)  time liability incurred—the time or times determined in accordance with the regulations;
-
-                     (n)  for a chargeable matter referred to in paragraph (n) of that definition:
-
-                              (i)  person liable—the participant in a licensed market; and
-
                              (ii)  time liability incurred—the time or times determined in accordance with the regulations.
 
              (2)  A determination by the Panel for the purposes of subparagraph (1)(j)(i) must be made in accordance with rules made by the Panel in writing for the purposes of that subparagraph.
 
 ##### <a id="8"></a>8  Regulations
 
-                   The Governor‑General may make regulations for the purposes of sections 5, 5A, 6 and 6A.
+                   The Governor-General may make regulations for the purposes of sections 5, 5A, 6 and 6A.
 
 ##### <a id="9"></a>9  Transitional matters
 
@@ -297,7 +289,7 @@ of Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>15 July 2001 ( <i>see</i>s. 2 and <i>Gazette</i>2001, No. S285)</div>
+    <div>15 July 2001 ( <i>see</i>s. 2 and <i>Gazette</i>2001, No. S285)</div>
   </td>
   <td>
     <div></div>
@@ -314,7 +306,7 @@ of Assent</div>
     <div>17 Sept 2001</div>
   </td>
   <td>
-    <div>11 Mar 2002 ( <i>see</i>s. 2 and <i>Gazette</i>2001, No. GN42)</div>
+    <div>11 Mar 2002 ( <i>see</i>s. 2 and <i>Gazette</i>2001, No. GN42)</div>
   </td>
   <td>
     <div>—</div>
@@ -383,25 +375,7 @@ Remainder: Royal Assent</div>
     <div>25 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Aug 2010 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Fees) Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>144, 2011</div>
-  </td>
-  <td>
-    <div>29 Nov 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 Jan 2012 
+    <div>Schedule 1: 1 Aug 2010 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -437,7 +411,7 @@ Remainder: Royal Assent</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 107, 2001; No. 98, 2004; No. 102, 2007; No. 27, 2010; No. 144, 2011</div>
+    <div>am. No. 107, 2001; No. 98, 2004; No. 102, 2007; No. 27, 2010</div>
   </td>
 </tr>
 <tr>
@@ -461,7 +435,7 @@ Remainder: Royal Assent</div>
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 107, 2001; No. 22, 2003; No. 27, 2010; No. 144, 2011</div>
+    <div>am. No. 107, 2001; No. 22, 2003; No. 27, 2010</div>
   </td>
 </tr>
 <tr>
@@ -474,18 +448,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 144, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 107, 2001; No. 27, 2010; No. 144, 2011</div>
+    <div>am. No. 107, 2001; No. 27, 2010</div>
   </td>
 </tr>
 <tr>
