@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00227/Html/d4bcbb48-90f2-450e-b928-3379adb0e1c3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00546/Html/SciIndResAct49_WD02_image001.gif)
 
 # Science and Industry Research Act 1949
 
 **Act No. 13 of 1949 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 10 September  2007
+ taking into account amendments up to Act No. 84 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -36,7 +36,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9A](#9A).         Organisation may accept gifts etc  and act as trustee
 
-[10](#10).          Co‑operation with other organizations
+[10](#10).          Co-operation with other organizations
 
 **Part IIA—The Chief Executive of the Organisation**
 
@@ -72,13 +72,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [15A](#15A).       Chief Executive not to take part in certain deliberations of Board
 
-[16](#16).          Terms and conditions of appointment etc  of part‑time members
+[16](#16).          Terms and conditions of appointment etc  of part-time members
 
 [17](#17).          Remuneration of Chairperson and the Deputy Chairperson
 
-[19](#19).          Remuneration of other part‑time members
+[19](#19).          Remuneration of other part-time members
 
-[20](#20).          Resignation of part‑time members
+[20](#20).          Resignation of part-time members
 
 [22](#22).          Termination of appointment
 
@@ -142,7 +142,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="annual-oper-plan"></a>**_annual operational plan_** means an annual operational plan formulated under subsection 35(1).
 
-                    <a name="appoint"></a>**_appoint_** includes re‑appoint.
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
 
                     <a name="board"></a>**_Board_** means the Board of the Organisation.
 
@@ -152,15 +152,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="deputi-chairperson"></a>**_Deputy Chairperson_** means the Deputy Chairperson of the Board.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="member"></a>**_member_** means a member of the Board and includes the Chairperson, the Deputy Chairperson and the Chief Executive.
 
                     <a name="offic"></a>**_officer_** means an officer of the Organisation.
 
                     <a name="organis"></a>**_Organisation_** means the Commonwealth Scientific and Industrial Research Organisation established under this Act.
 
-                    <a name="part-time-member"></a>**_part‑time member_** means a member of the Board other than the Chief Executive.
+                    <a name="part-time-member"></a>**_part-time member_** means a member of the Board other than the Chief Executive.
 
                     <a name="scienc"></a>**_science_** includes technology.
 
@@ -208,17 +206,17 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (b)  to encourage or facilitate the application or utilization of the results of such research;
 
-                   (ba)  to encourage or facilitate the application or utilisation of the results of any other scientific research;
+                    (ba)  to encourage or facilitate the application or utilisation of the results of any other scientific research;
 
-                   (bb)  to carry out services, and make available facilities, in relation to science;
+                    (bb)  to carry out services, and make available facilities, in relation to science;
 
                      (c)  to act as a means of liaison between Australia and other countries in matters connected with scientific research;
 
-                     (d)  to train, and to assist in the training of, research workers in the field of science and to co‑operate with tertiary‑education institutions in relation to education in that field;
+                     (d)  to train, and to assist in the training of, research workers in the field of science and to co-operate with tertiary-education institutions in relation to education in that field;
 
                      (e)  to establish and award fellowships and studentships for research, and to make grants in aid of research, for a purpose referred to in paragraph (a);
 
-                      (f)  to recognize associations of persons engaged in industry for the purpose of carrying out industrial scientific research and to co‑operate with, and make grants to, such associations;
+                      (f)  to recognize associations of persons engaged in industry for the purpose of carrying out industrial scientific research and to co-operate with, and make grants to, such associations;
 
                      (h)  to collect, interpret and disseminate information relating to scientific and technical matters; and
 
@@ -256,9 +254,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (2)  Notwithstanding anything contained in this Act, where the Organisation has agreed to any conditions subject to which moneys have, or other property has, been given, devised, bequeathed, assigned or otherwise made available to the Organisation or the Organisation holds any moneys or other property upon trust, the moneys or other property shall be dealt with by the Organisation in accordance with those conditions or in accordance with the powers and duties of the Organisation as trustee, as the case may be.
 
-##### <a id="10"></a>10  Co‑operation with other organizations
+##### <a id="10"></a>10  Co-operation with other organizations
 
-                   The Organisation shall, as far as possible, co‑operate with other organizations and authorities in the co‑ordination of scientific research, with a view to:
+                   The Organisation shall, as far as possible, co-operate with other organizations and authorities in the co-ordination of scientific research, with a view to:
 
                      (a)  the prevention of unnecessary overlapping; and
 
@@ -278,7 +276,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="10B"></a>10B  Appointment of Chief Executive etc.
 
-             (1)  The Chief Executive shall be appointed by the Board and, subject to this Act, holds office on a full‑time basis for such period, not exceeding 5 years, as is specified in the instrument of appointment.
+             (1)  The Chief Executive shall be appointed by the Board and, subject to this Act, holds office on a full-time basis for such period, not exceeding 5 years, as is specified in the instrument of appointment.
 
              (2)  The Board must consult with the Minister before appointing a person as Chief Executive.
 
@@ -418,7 +416,7 @@ the Board may terminate the appointment of the Chief Executive.
 
              (2)  The Board has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
 
-##### <a id="13"></a>13  Directions and guidelines given by Minister
+##### <a id="13"></a>13  Directions and guidelines given by Minister
 
              (1)  The Minister may give to the Board, in writing, directions and guidelines with respect to the performance of the functions, or the exercise of the powers, of the Board or of the Organisation, and the Board shall ensure that any directions or guidelines so given are complied with.
 
@@ -434,25 +432,25 @@ the Board may terminate the appointment of the Chief Executive.
 
                      (b)  not fewer than 7 and not more than 9 other members.
 
-             (2)  The members of the Board other than the Chief Executive hold office on a part‑time basis.
+             (2)  The members of the Board other than the Chief Executive hold office on a part-time basis.
 
-             (3)  The part‑time members shall be appointed by the Governor‑General.
+             (3)  The part-time members shall be appointed by the Governor-General.
 
-             (4)  The Governor‑General shall appoint one of the part‑time members to be the Chairperson of the Board and another of the part‑time members to be the Deputy Chairperson of the Board.
+             (4)  The Governor-General shall appoint one of the part-time members to be the Chairperson of the Board and another of the part-time members to be the Deputy Chairperson of the Board.
 
-             (5)  A part‑time member appointed as Chairperson or as Deputy Chairperson:
+             (5)  A part-time member appointed as Chairperson or as Deputy Chairperson:
 
-                     (a)  subject to paragraph (c), holds office as Chairperson or as Deputy Chairperson until the end of his or her term of office as a part‑time member;
+                     (a)  subject to paragraph (c), holds office as Chairperson or as Deputy Chairperson until the end of his or her term of office as a part-time member;
 
-                     (b)  may resign the office of Chairperson or of Deputy Chairperson by writing signed by the part‑time member and delivered to the Governor‑General;
+                     (b)  may resign the office of Chairperson or of Deputy Chairperson by writing signed by the part-time member and delivered to the Governor-General;
 
-                     (c)  ceases to be Chairperson or Deputy Chairperson if he or she ceases to be a part‑time member; and
+                     (c)  ceases to be Chairperson or Deputy Chairperson if he or she ceases to be a part-time member; and
 
-                     (d)  ceases to be a part‑time member if he or she resigns the office of Chairperson or of Deputy Chairperson.
+                     (d)  ceases to be a part-time member if he or she resigns the office of Chairperson or of Deputy Chairperson.
 
              (7)  The performance of a function, or the exercise of a power, by the Board is not affected by reason only of:
 
-                     (a)  the number of part‑time members falling below 7 for a period of not more than 6 months; or
+                     (a)  the number of part-time members falling below 7 for a period of not more than 6 months; or
 
                      (b)  there being a vacancy in the office of Chairperson, of Deputy Chairperson or of Chief Executive.
 
@@ -490,11 +488,11 @@ Note:          For the manner in which the Chairperson and the
 
                      (b)  is to be disregarded for the purpose of constituting a quorum of the Board for any such deliberation or decision.
 
-##### <a id="16"></a>16  Terms and conditions of appointment etc. of part‑time members
+##### <a id="16"></a>16  Terms and conditions of appointment etc. of part-time members
 
-             (1)  Subject to this Act, a part‑time member holds office for such period, not exceeding 5 years, as is specified in the instrument of appointment.
+             (1)  Subject to this Act, a part-time member holds office for such period, not exceeding 5 years, as is specified in the instrument of appointment.
 
-             (2)  A part‑time member holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (2)  A part-time member holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="17"></a>17  Remuneration of Chairperson and the Deputy Chairperson
 
@@ -504,25 +502,25 @@ Note:          For the manner in which the Chairperson and the
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-##### <a id="19"></a>19  Remuneration of other part‑time members
+##### <a id="19"></a>19  Remuneration of other part-time members
 
-             (1)  A part‑time member shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Tribunal is in operation, the member shall be paid such remuneration as is prescribed.
+             (1)  A part-time member shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Tribunal is in operation, the member shall be paid such remuneration as is prescribed.
 
-             (2)  A part‑time member shall be paid such allowances as are prescribed.
+             (2)  A part-time member shall be paid such allowances as are prescribed.
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-             (4)  A reference in this section to a part‑time member does not include a reference to the Chairperson or the Deputy Chairperson.
+             (4)  A reference in this section to a part-time member does not include a reference to the Chairperson or the Deputy Chairperson.
 
-##### <a id="20"></a>20  Resignation of part‑time members
+##### <a id="20"></a>20  Resignation of part-time members
 
-                   A part‑time member may resign the office of member by writing signed by the member and delivered to the Governor‑General.
+                   A part-time member may resign the office of member by writing signed by the member and delivered to the Governor-General.
 
 ##### <a id="22"></a>22  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of a part‑time member by reason of misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of a part-time member by reason of misbehaviour or physical or mental incapacity.
 
-             (2)  If a part‑time member:
+             (2)  If a part-time member:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 
@@ -530,7 +528,7 @@ Note:          For the manner in which the Chairperson and the
 
                      (c)  fails, without reasonable excuse, to comply with section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
-the Governor‑General may terminate the appointment of the member. 
+the Governor-General may terminate the appointment of the member. 
 
 ##### <a id="22A"></a>22A  Delegation by Board
 
@@ -668,7 +666,7 @@ the following plans cease to have effect on the commencement of the second perio
 
              (1)  There are payable to the Organisation such moneys as are appropriated by the Parliament for the purposes of this Act.
 
-             (2)  The Finance Minister may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the Organisation.
+             (2)  The Minister for Finance may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the Organisation.
 
 ##### <a id="48"></a>48  Application of moneys
 
@@ -720,7 +718,7 @@ the following plans cease to have effect on the commencement of the second perio
 
 ##### <a id="58"></a>58  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
 
 # Notes to the _Science and Industry Research Act 1949_
 
@@ -1123,85 +1121,70 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Measurement Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>27, 2004</div>
-  </td>
-  <td>
-    <div>25 Mar 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 66): 1 July 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN22)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Governance Review Implementation (Science Research Agencies) Act 2007</div>
-  </td>
-  <td>
-    <div>84, 2007</div>
-  </td>
-  <td>
-    <div>21 June 2007</div>
-  </td>
-  <td>
-    <div>Schedules 1–3: 10 Sept 2007 ( <i>see</i>F2007L03555) 
+<thead>
+  <tr>
+    <td>
+      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+    </td>
+    <td>
+      <div>159, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>29 Oct 2001</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Measurement Amendment Act 2004</div>
+    </td>
+    <td>
+      <div>27, 2004</div>
+    </td>
+    <td>
+      <div>25 Mar 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 66): 1 July 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN22)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Governance Review Implementation (Science Research Agencies) Act 2007</div>
+    </td>
+    <td>
+      <div>84, 2007</div>
+    </td>
+    <td>
+      <div>21 June 2007</div>
+    </td>
+    <td>
+      <div>Schedules 1–3: 10 Sept 2007 ( <i>see</i>F2007L03555) 
 Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 38) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 188, 189): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+    </td>
+    <td>
+      <div>Sch. 3 (item 38) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</thead></table>
 
 _(a)_     By virtue of subsection 2(7) of the _Administrative Changes (Consequential Provisions) Act 1976_ the amendment made by that Act to the _Science and Industry Research Act 1949_ is deemed to have come into operation on 22 December 1975.
 
-_(b)_     The _Science and Industry Research Act 1949_ was amended by Part LXVI (sections 248–252) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows:
+_(b)_    The _Science and Industry Research Act 1949_ was amended by Part LXVI (sections 248–252) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows:
 
-               (16)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (16)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
 _(c)_     The _Science and Industry Research Act 1949_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(d)_     The _Science and Industry Research Act 1949_ was amended by Schedule 4 (items 131–134) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
@@ -1335,7 +1318,7 @@ _(h)_ The _Science and Industry Research Act 1949_ was amended by Schedule 10 
     <div></div>
   </td>
   <td>
-    <div>am. No. 84, 2007; No. 5, 2011</div>
+    <div>am. No. 84, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2344,7 +2327,7 @@ rep. No. 121, 1986</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 121, 1986; No. 5, 2011</div>
+    <div>am. No. 121, 1986</div>
   </td>
 </tr>
 <tr>
@@ -2590,7 +2573,7 @@ rep. No. 121, 1986</div>
 <tr>
   <td>
     <div>First Schedule 
-Renumbered Schedule 1</div>
+Renumbered Schedule 1.</div>
   </td>
   <td>
     <div>
@@ -2635,15 +2618,15 @@ _Governance Review Implementation (Science Research Agencies) Act 2007 (No. 84, 
 
 ## 38  Application of amendments—Chief Executive
 
-(1)       The amendments and repeals made by this Schedule apply to a person appointed after commencement as Chief Executive.
+(1)        The amendments and repeals made by this Schedule apply to a person appointed after commencement as Chief Executive.
 
-(2)       The instrument of appointment of the current Chief Executive continues in effect after commencement, despite the amendments and repeals made by this Schedule.
+(2)        The instrument of appointment of the current Chief Executive continues in effect after commencement, despite the amendments and repeals made by this Schedule.
 
-(3)       Subject to subitem (4), the old Act continues to apply, in relation to the current Chief Executive, as if the amendments and repeals made by this Schedule had not happened.
+(3)        Subject to subitem (4), the old Act continues to apply, in relation to the current Chief Executive, as if the amendments and repeals made by this Schedule had not happened.
 
-(4)       Subsection 10C(2) of the _Science and Industry Research Act 1949_**,** as amended by this Schedule, has effect after commencement in relation to the current Chief Executive.
+(4)        Subsection 10C(2) of the _Science and Industry Research Act 1949_**,** as amended by this Schedule, has effect after commencement in relation to the current Chief Executive.
 
-(5)       In this item:
+(5)        In this item:
 
 **_commencement_** means the commencement of this item.
 
