@@ -1,74 +1,77 @@
-![](http://www.comlaw.gov.au/Details/C2010C00142/Html/8b40d056-24e5-4822-9e86-10574f693bd9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00375/Html/0D75D5C1796BB48ECA25702600068C9F/$FILE/image001.gif)
 
 # Foreign Passports (Law Enforcement and Security) Act 2005
 
 **Act No. 15 of 1938 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 1 July 2005
+taking into account amendments up to Act No. 7 of 2005
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title _see_ Note 1]                                                                        1
 
 [2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[4](#4).            Extension of Act to Territories                                                             1
+[4](#4).            Extension of Act to Territories                                                            1
 
-[5](#5).            Interpretation                                                                                        1
+[5](#5).            Interpretation                                                                                       1
 
-[5A](#5A).         Application of the _Criminal Code_                                                        2
+[5A](#5A).         Application of the _Criminal Code_                                                       2
 
 **Part 2—Enforcement officers’ powers in relation to foreign travel documents** 
 
     **Division 1—Requesting the Minister to order surrender of foreign travel documents**
 
-[13](#13).          Request relating to Australian law enforcement matters                       3
+[13](#13).          Request relating to Australian law enforcement matters                     3
 
-[14](#14).          Request relating to international law enforcement co‑operation            4
+[14](#14).          Request relating to international law enforcement co-operation         4
 
-[15](#15).          Request relating to potential for harmful conduct                                 6
+[15](#15).          Request relating to potential for harmful conduct                               5
 
     **Division 2—Demands for foreign travel documents**
 
-[16](#16).          Demand for foreign travel document if authorised by Minister            8
+[16](#16).          Demand for foreign travel document if authorised by Minister          8
 
-[17](#17).          Demand for suspicious foreign travel document                                  9
+[17](#17).          Demand for suspicious foreign travel document                                 9
 
 **Part 3—Offences relating to foreign travel documents**
 
-[18](#18).          Making false or misleading statements in relation to foreign travel document applications      11
+[18](#18).          Making false or misleading statements in relation to foreign travel document applications    11
 
-[19](#19).          Giving false or misleading information in relation to foreign travel document applications      11
+[19](#19).          Giving false or misleading information in relation to foreign travel document applications    11
 
-[20](#20).          Producing false or misleading documents in relation to foreign travel document applications  12
+[20](#20).          Producing false or misleading documents in relation to foreign travel document applications                12
 
-[21](#21).          Improper use or possession of a foreign travel document                  13
+[21](#21).          Improper use or possession of a foreign travel document                 13
 
 [22](#22).          Possessing, making or providing false foreign travel documents       14
 
 **Part 4—Miscellaneous**
 
-[23](#23).          Administrative review                                                                        16
+[23](#23).          Administrative review                                                                       16
 
-[23A](#23A).       Delegation of Minister’s power to order surrender of documents      16
+[23A](#23A).       Delegation of Minister’s power to order surrender of documents    16
 
-[24](#24).          Minister’s determinations                                                                   17
+[24](#24).          Minister’s determinations                                                                 17
 
 [25](#25).          Regulations                                                                                        17
 
 **Notes** 
+
 
 ## An Act relating to foreign passports and other foreign travel documents
 
@@ -136,7 +139,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ### Division 1—Requesting the Minister to order surrender of foreign travel documents
 
-##### <a id="13"></a>13  Request relating to Australian law enforcement matters
+##### <a id="13"></a>13  Request relating to Australian law enforcement matters
 
              (1)  If a competent authority believes on reasonable grounds that:
 
@@ -170,7 +173,7 @@ the competent authority may request the Minister to make an order under section�
 
                      (d)  not permitted to obtain a passport.
 
-##### <a id="14"></a>14  Request relating to international law enforcement co‑operation
+##### <a id="14"></a>14  Request relating to international law enforcement co-operation
 
              (1)  If a competent authority believes on reasonable grounds that:
 
@@ -198,9 +201,9 @@ the competent authority may request the Minister to make an order under section�
 
                      (c)  an agency (within the meaning of the _Financial Management and Accountability Act 1997_) that is specified in a Minister’s determination as a competent authority in relation to the circumstance.
 
-Note 1:       The text of the Vienna Convention on Diplomatic Relations is set out in Australian Treaty Series 1968 No. 3\. In 2005 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible through that Department’s website.
+Note 1:       The text of the Vienna Convention on Diplomatic Relations is set out in Australian Treaty Series 1968 No. 3\. In 2005 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible on the Internet through that Department’s world-wide web site.
 
-Note 2:       The text of the Vienna Convention on Consular Relations is set out in Australian Treaty Series 1973 No. 7\. In 2005 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible through that Department’s website.
+Note 2:       The text of the Vienna Convention on Consular Relations is set out in Australian Treaty Series 1973 No. 7\. In 2005 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible on the Internet through that Department’s world-wide web site.
 
                     <a name="prevent-travel-internation"></a>**_prevented from travelling internationally_** includes:
 
@@ -242,7 +245,7 @@ Note 2:       The text of the Vienna Convention on Consular Relation
 
 the competent authority may request the Minister to make an order under section 16 in relation to the person’s foreign travel documents.
 
-Note:          The text of the International Covenant on Civil and Political Rights is set out in Australian Treaty Series 1980 No. 23\. In 2004 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible through that Department’s website.
+Note:          The text of the International Covenant on Civil and Political Rights is set out in Australian Treaty Series 1980 No. 23\. In 2004 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible on the Internet through that Department’s world-wide web site.
 
              (2)  In this section:
 
@@ -264,9 +267,9 @@ Note:          The text of the International Covenant on Civil
 
                             (iii)  an agency (within the meaning of the _Financial Management and Accountability Act 1997_) that is specified in a Minister’s determination as a competent authority in relation to the circumstance.
 
-Note 1:       The text of the Vienna Convention on Diplomatic Relations is set out in Australian Treaty Series 1968 No. 3\. In 2005 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible through that Department’s website.
+Note 1:       The text of the Vienna Convention on Diplomatic Relations is set out in Australian Treaty Series 1968 No. 3\. In 2005 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible on the Internet through that Department’s world-wide web site.
 
-Note 2:       The text of the Vienna Convention on Consular Relations is set out in Australian Treaty Series 1973 No. 7\. In 2005 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible through that Department’s website.
+Note 2:       The text of the Vienna Convention on Consular Relations is set out in Australian Treaty Series 1973 No. 7\. In 2005 this was available in the Australian Treaties Library of the Department of Foreign Affairs and Trade, accessible on the Internet through that Department’s world-wide web site.
 
 ### Division 2—Demands for foreign travel documents
 
@@ -410,9 +413,9 @@ Note:          The defendant bears an evidential burden in rel
 
              (3)  Subsection (1) does not apply to a person who produces a document if the document is accompanied by a written statement signed by the person (or, in the case of a body corporate, by a competent officer of the body corporate):
 
-                     (a)  stating that the document is, to the knowledge of the first‑mentioned person, false or misleading in a material particular; and
+                     (a)  stating that the document is, to the knowledge of the first-mentioned person, false or misleading in a material particular; and
 
-                     (b)  setting out, or referring to, the material particular in which the document is, to the knowledge of the first‑mentioned person, false or misleading.
+                     (b)  setting out, or referring to, the material particular in which the document is, to the knowledge of the first-mentioned person, false or misleading.
 
 Note:          The defendant bears an evidential burden in relation to the matter in subsection (3). See subsection 13.3(3) of the _Criminal Code_.
 
@@ -436,9 +439,9 @@ Note:          The defendant bears an evidential burden in rel
 
              (3)  A person commits an offence if:
 
-                     (a)  the person provides another person with a foreign travel document that was issued to the first‑mentioned person; and
+                     (a)  the person provides another person with a foreign travel document that was issued to the first-mentioned person; and
 
-                     (b)  the first‑mentioned person is reckless as to whether the document is or will be used by the other person in connection with travel or identification.
+                     (b)  the first-mentioned person is reckless as to whether the document is or will be used by the other person in connection with travel or identification.
 
                     Penalty:  Imprisonment for 10 years or 1,000 penalty units, or both.
 
@@ -524,11 +527,12 @@ Note:          The defendant bears an evidential burden in rel
 
 ##### <a id="25"></a>25  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
 
 # Notes to the _Foreign Passports (Law Enforcement and Security) Act 2005_
 
@@ -556,11 +560,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -570,378 +576,368 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Passports Act 1938</div>
-  </td>
-  <td>
-    <div>15, 1938</div>
-  </td>
-  <td>
-    <div>5 July 1938</div>
-  </td>
-  <td>
-    <div>1 July 1939 ( <i>see Gazette</i>1939, p. 993)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Passports Act 1948</div>
-  </td>
-  <td>
-    <div>85, 1948</div>
-  </td>
-  <td>
-    <div>21 Dec 1948</div>
-  </td>
-  <td>
-    <div>26 Jan 1949</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1976</div>
-  </td>
-  <td>
-    <div>91, 1976</div>
-  </td>
-  <td>
-    <div>20 Sept 1976</div>
-  </td>
-  <td>
-    <div>S. 3: <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Passports Amendment Act 1979</div>
-  </td>
-  <td>
-    <div>103, 1979</div>
-  </td>
-  <td>
-    <div>25 Oct 1979</div>
-  </td>
-  <td>
-    <div>25 Oct 1979</div>
-  </td>
-  <td>
-    <div>S. 9(2) and (3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Federal Police (Consequential Amendments) Act 1979</div>
-  </td>
-  <td>
-    <div>155, 1979</div>
-  </td>
-  <td>
-    <div>28 Nov 1979</div>
-  </td>
-  <td>
-    <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Federal Police (Consequential Amendments) Act 1980</div>
-  </td>
-  <td>
-    <div>70, 1980</div>
-  </td>
-  <td>
-    <div>28 May 1980</div>
-  </td>
-  <td>
-    <div>28 May 1980</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Passports Amendment Act 1984</div>
-  </td>
-  <td>
-    <div>168, 1984</div>
-  </td>
-  <td>
-    <div>25 Oct 1984</div>
-  </td>
-  <td>
-    <div>22 Nov 1984</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 22 Nov 1984 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td>
-    <div>S. 3: 22 Nov 1984 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act (No. 2) 1991</div>
-  </td>
-  <td>
-    <div>123, 1991</div>
-  </td>
-  <td>
-    <div>23 Aug 1991</div>
-  </td>
-  <td>
-    <div>Ss. 5–10, 
+<tbody>
+  <tr>
+    <td>
+      <div>Passports Act 1938</div>
+    </td>
+    <td>
+      <div>15, 1938</div>
+    </td>
+    <td>
+      <div>5 July 1938</div>
+    </td>
+    <td>
+      <div>1 July 1939 ( <i>see Gazette</i>1939, p. 993)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Passports Act 1948</div>
+    </td>
+    <td>
+      <div>85, 1948</div>
+    </td>
+    <td>
+      <div>21 Dec 1948</div>
+    </td>
+    <td>
+      <div>26 Jan 1949</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+    </td>
+    <td>
+      <div>93, 1966</div>
+    </td>
+    <td>
+      <div>29 Oct 1966</div>
+    </td>
+    <td>
+      <div>1 Dec 1966</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Changes (Consequential Provisions) Act 1976</div>
+    </td>
+    <td>
+      <div>91, 1976</div>
+    </td>
+    <td>
+      <div>20 Sept 1976</div>
+    </td>
+    <td>
+      <div>S. 3: <i>(a)</i></div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Passports Amendment Act 1979</div>
+    </td>
+    <td>
+      <div>103, 1979</div>
+    </td>
+    <td>
+      <div>25 Oct 1979</div>
+    </td>
+    <td>
+      <div>25 Oct 1979</div>
+    </td>
+    <td>
+      <div>S. 9(2) and (3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Federal Police (Consequential Amendments) Act 1979</div>
+    </td>
+    <td>
+      <div>155, 1979</div>
+    </td>
+    <td>
+      <div>28 Nov 1979</div>
+    </td>
+    <td>
+      <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Federal Police (Consequential Amendments) Act 1980</div>
+    </td>
+    <td>
+      <div>70, 1980</div>
+    </td>
+    <td>
+      <div>28 May 1980</div>
+    </td>
+    <td>
+      <div>28 May 1980</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Passports Amendment Act 1984</div>
+    </td>
+    <td>
+      <div>168, 1984</div>
+    </td>
+    <td>
+      <div>25 Oct 1984</div>
+    </td>
+    <td>
+      <div>22 Nov 1984</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 22 Nov 1984 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td>
+      <div>S. 3: 22 Nov 1984 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes Legislation Amendment Act (No. 2) 1991</div>
+    </td>
+    <td>
+      <div>123, 1991</div>
+    </td>
+    <td>
+      <div>23 Aug 1991</div>
+    </td>
+    <td>
+      <div>Ss. 5–10, 
 Parts 3–7, 9 
 (ss. 11–34, 38, 39) and ss. 40–50: 20 Sept 1991 
-Part 8 (ss. 35–37): 6 Dec 1991 ( <i>see Gazette</i>1991, No. S330) 
+Part 8 (ss. 35–37): 6 Dec 1991 ( <i>see Gazette</i>1991, No. S330) 
 S. 51: 23 Feb 1992 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Law Reform (Consequential Amendments) Act 1995</div>
-  </td>
-  <td>
-    <div>140, 1995</div>
-  </td>
-  <td>
-    <div>12 Dec 1995</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 50–54): 11 June 1996 ( <i>see Gazette</i>1996, No. GN5) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 112–114): Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Foreign Affairs and Trade Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>150, 1997</div>
-  </td>
-  <td>
-    <div>17 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 30): 14 Nov 1997 <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>35, 2001</div>
-  </td>
-  <td>
-    <div>28 Apr 2001</div>
-  </td>
-  <td>
-    <div>26 May 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Anti‑terrorism Act (No. 3) 2004</div>
-  </td>
-  <td>
-    <div>125, 2004</div>
-  </td>
-  <td>
-    <div>16 Aug 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1: 13 Sept 2004</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Passports (Transitionals and Consequentials) Act 2005</div>
-  </td>
-  <td>
-    <div>7, 2005</div>
-  </td>
-  <td>
-    <div>18 Feb 2005</div>
-  </td>
-  <td>
-    <div>Ss. 4–11 and Schedule 1: 1 July 2005 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 4–11 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 55–57): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: Royal Assent 
 
-_(a)_    The _Foreign Passports (Law Enforcement and Security) Act 2005_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Family Law Reform (Consequential Amendments) Act 1995</div>
+    </td>
+    <td>
+      <div>140, 1995</div>
+    </td>
+    <td>
+      <div>12 Dec 1995</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 50–54): 11 June 1996 ( <i>see Gazette</i>1996, No. GN5) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 5 (items 112–114): Royal Assent <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Foreign Affairs and Trade Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>150, 1997</div>
+    </td>
+    <td>
+      <div>17 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 30): 14 Nov 1997 <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td>
+      <div>137, 2000</div>
+    </td>
+    <td>
+      <div>24 Nov 2000</div>
+    </td>
+    <td>
+      <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>35, 2001</div>
+    </td>
+    <td>
+      <div>28 Apr 2001</div>
+    </td>
+    <td>
+      <div>26 May 2001</div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Anti-terrorism Act (No. 3) 2004</div>
+    </td>
+    <td>
+      <div>125, 2004</div>
+    </td>
+    <td>
+      <div>16 Aug 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1: 13 Sept 2004</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Passports (Transitionals and Consequentials) Act 2005</div>
+    </td>
+    <td>
+      <div>7, 2005</div>
+    </td>
+    <td>
+      <div>18 Feb 2005</div>
+    </td>
+    <td>
+      <div>Ss. 4–11 and Schedule 1: 1 July 2005 ( <i>see</i>s. 2(1)) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Ss. 4–11 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+_(a)_     The _Foreign Passports (Law Enforcement and Security) Act 2005_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
 
                  (7)   The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.
 
-_(b)_     The _Passports Amendment Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(34) of which provides as follows:
+_(b)_    The _Passports Amendment Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(34) of which provides as follows:
 
-               (34)   The amendment of the _Passports Amendment Act 1984_ made by this Act shall be deemed to have come into operation immediately after the commencement of that first‑mentioned Act.
+               (34)   The amendment of the _Passports Amendment Act 1984_ made by this Act shall be deemed to have come into operation immediately after the commencement of that first-mentioned Act.
 
 _(c)_     The _Foreign Passports (Law Enforcement and Security) Act 2005_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(33) of which provides as follows:
 
@@ -958,6 +954,7 @@ _(e)_     The _Foreign Passports (Law Enforcement and Security) Act 2005
 _(f)_      The _Foreign Passports (Law Enforcement and Security) Act 2005_ was amended by Schedule 1 (item 30) only of the _Foreign Affairs and Trade Legislation Amendment Act 1997_, subsection 2(3) of which provides as follows:
 
                  (3)   The amendment of section 10 of the _Passports Act 1938_ made by this Act commences on the 28th day after the day on which this Act receives the Royal Assent.
+
 
 ## Table of Amendments
 
@@ -982,704 +979,697 @@ _(f)_      The _Foreign Passports (Law Enforcement and Security) Act 2
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>rs. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 1</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 85, 1948; No. 216, 1973; No. 91, 1976; Nos. 103 and 155, 1979; No. 70, 1980; No. 168, 1984; No. 140, 1995; No. 137, 2000; No. 125, 2004; No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 103, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 168, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6AA, 6AB</div>
-  </td>
-  <td>
-    <div>ad. No. 168, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 1A</div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 1A</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>rs. No. 85, 1948</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 103, 1979; No. 168, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 168, 1984; No. 140, 1995; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7B</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 168, 1984; No. 123, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7C</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 168, 1984 (as am. by No. 65, 1985)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 7D, 7E</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 168, 1984; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 103, 1979; No. 168, 1984; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 168, 1984; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 216, 1973; No. 103, 1979; No. 168, 1984; No. 65, 1985; No. 43, 1996; No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9A</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 168, 1984; No. 43, 1996; No. 35, 2001; No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9B</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 168, 1984; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9C</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 168, 1984; No. 35, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 103, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 168, 1984; No. 150, 1997; No. 35, 2001; No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>rs. No. 103, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 168, 1984; No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 11A–11C</div>
-  </td>
-  <td>
-    <div>ad. No. 168, 1984; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 103, 1979; No. 168, 1984; No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2005; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2005; No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 15(1)</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 16, 17</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 18–22</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 4</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23A</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 7, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>rs. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 1</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1</div>
+    </td>
+    <td>
+      <div>am. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 103, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 85, 1948; No. 216, 1973; No. 91, 1976; Nos. 103 and 155, 1979; No. 70, 1980; No. 168, 1984; No. 140, 1995; No. 137, 2000; No. 125, 2004; No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5A</div>
+    </td>
+    <td>
+      <div>ad. No. 35, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 103, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 168, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 6AA, 6AB</div>
+    </td>
+    <td>
+      <div>ad. No. 168, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 103, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 1A</div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 1A</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>rs. No. 85, 1948</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 103, 1979; No. 168, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7A</div>
+    </td>
+    <td>
+      <div>ad. No. 103, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 168, 1984; No. 140, 1995; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7B</div>
+    </td>
+    <td>
+      <div>ad. No. 103, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 168, 1984; No. 123, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7C</div>
+    </td>
+    <td>
+      <div>ad. No. 103, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 168, 1984 (as am. by No. 65, 1985)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 7D, 7E</div>
+    </td>
+    <td>
+      <div>ad. No. 103, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 168, 1984; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 103, 1979; No. 168, 1984; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8A</div>
+    </td>
+    <td>
+      <div>ad. No. 103, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 168, 1984; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 216, 1973; No. 103, 1979; No. 168, 1984; No. 65, 1985; No. 43, 1996; No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9A</div>
+    </td>
+    <td>
+      <div>ad. No. 103, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 168, 1984; No. 43, 1996; No. 35, 2001; No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9B</div>
+    </td>
+    <td>
+      <div>ad. No. 103, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 168, 1984; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9C</div>
+    </td>
+    <td>
+      <div>ad. No. 103, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 168, 1984; No. 35, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 103, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 168, 1984; No. 150, 1997; No. 35, 2001; No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>rs. No. 103, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 168, 1984; No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 11A–11C</div>
+    </td>
+    <td>
+      <div>ad. No. 168, 1984; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 103, 1979; No. 168, 1984; No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 2</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 16, 17</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 3</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 18–22</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 4</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23A</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 7, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
 
- 
 
 ## Table A
 
@@ -1689,9 +1679,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -1701,9 +1691,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -1711,11 +1701,13 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001 (No. 35, 2001)_
 
@@ -1725,10 +1717,13 @@ _Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) 
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Australian Passports (Transitionals and Consequentials) Act 2005 
- (No. 7, 2005)_
+(No. 7, 2005)
+_
 
 ##### <a id="4"></a>4  Definitions
 
@@ -1750,9 +1745,9 @@ _Australian Passports (Transitionals and Consequentials) Act 2005
 
              (3)  Subsection (2) does not prevent the Minister from cancelling the passport under the new Act.
 
-##### <a id="6"></a>6  Travel‑related documents issued under the old regulations are taken to have been issued under the new Act
+##### <a id="6"></a>6  Travel-related documents issued under the old regulations are taken to have been issued under the new Act
 
-             (1)  A convention travel document, certificate of identity or document of identity issued under the old regulations is taken, on and from the commencement day, to be a travel‑related document (within the meaning of the new Act) issued under the new Act.
+             (1)  A convention travel document, certificate of identity or document of identity issued under the old regulations is taken, on and from the commencement day, to be a travel-related document (within the meaning of the new Act) issued under the new Act.
 
              (2)  The document or certificate continues to have effect for the unexpired part of the period specified in the document or certificate.
 
@@ -1770,7 +1765,7 @@ _Australian Passports (Transitionals and Consequentials) Act 2005
 
 ##### <a id="9"></a>9  Applications under the old regulations
 
-                   If an application for a convention travel document, certificate of identity or document of identity made under the old regulations has not been decided immediately before the commencement day, the application is, on and from the commencement day, taken to be an application for a travel‑related document (within the meaning of the new Act) made under the new Act.
+                   If an application for a convention travel document, certificate of identity or document of identity made under the old regulations has not been decided immediately before the commencement day, the application is, on and from the commencement day, taken to be an application for a travel-related document (within the meaning of the new Act) made under the new Act.
 
 ##### <a id="10"></a>10  Review of decisions made under the old Act
 
@@ -1778,7 +1773,8 @@ _Australian Passports (Transitionals and Consequentials) Act 2005
 
 ##### <a id="11"></a>11  Transitional regulations
 
-                   The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the repeal of Part 1A of the old Act and the commencement of the new Act.
+                   The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the repeal of Part 1A of the old Act and the commencement of the new Act.
+
 
  
 
