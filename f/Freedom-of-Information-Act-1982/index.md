@@ -1,4 +1,4 @@
-![](http://www.comlaw.gov.au/Details/C2011C00138/Html/b0cc0573-c5c5-4615-bea7-2adcc1ecd7aa_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00052/Html/72e4011c-cf68-4f41-afc7-1eb9aaeb84cc_files/image001.gif)
 
 # Freedom of Information Act 1982
 
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -38,7 +38,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Act to apply to certain tribunals in respect of administrative matters
 
-[6A](#6A).         Official Secretary to the Governor‑General
+[6A](#6A).         Official Secretary to the Governor-General
 
 [6C](#6C).         Requirement for Commonwealth contracts
 
@@ -98,7 +98,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [26](#26).          Reasons and other particulars of decisions to be given
 
-[26A](#26A).       Consultation—documents affecting Commonwealth‑State relations etc 
+[26A](#26A).       Consultation—documents affecting Commonwealth-State relations etc 
 
 [26AA](#26AA).    Consultation—documents affecting Norfolk Island intergovernmental relations
 
@@ -142,7 +142,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 3—Public interest conditional exemptions**
 
-[47B](#47B).       Public interest conditional exemptions—Commonwealth‑State relations etc 
+[47B](#47B).       Public interest conditional exemptions—Commonwealth-State relations etc 
 
 [47C](#47C).       Public interest conditional exemptions—deliberative processes
 
@@ -270,7 +270,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [55D](#55D).       Procedure in IC review—onus
 
-[55DA](#55DA).    Decision‑maker must assist Information Commissioner
+[55DA](#55DA).    Decision-maker must assist Information Commissioner
 
 [55E](#55E).        Procedure in IC review—inadequate reasons from decision maker
 
@@ -316,15 +316,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [55Z](#55Z).        Information gathering powers—protection from liability
 
-    **Division 9—Evidence by Inspector‑General of Intelligence and Security**
+    **Division 9—Evidence by Inspector-General of Intelligence and Security**
 
-[55ZA](#55ZA).     Evidence by Inspector‑General of Intelligence and Security—scope
+[55ZA](#55ZA).     Evidence by Inspector-General of Intelligence and Security—scope
 
-[55ZB](#55ZB).     Evidence by Inspector‑General of Intelligence and Security—request to give evidence
+[55ZB](#55ZB).     Evidence by Inspector-General of Intelligence and Security—request to give evidence
 
-[55ZC](#55ZC).     Evidence by Inspector‑General of Intelligence and Security—compliance with request
+[55ZC](#55ZC).     Evidence by Inspector-General of Intelligence and Security—compliance with request
 
-[55ZD](#55ZD).     Evidence by Inspector‑General of Intelligence and Security—procedural matters
+[55ZD](#55ZD).     Evidence by Inspector-General of Intelligence and Security—procedural matters
 
     **Division 10—Appeals**
 
@@ -364,7 +364,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [60AB](#60AB).    Procedure in Tribunal—circumstances in which not giving notice is appropriate
 
-[60A](#60A).       Inspector‑General of Intelligence and Security must be requested to give evidence in certain proceedings
+[60A](#60A).       Inspector-General of Intelligence and Security must be requested to give evidence in certain proceedings
 
 [61](#61).          Onus
 
@@ -374,7 +374,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 5—Protection of information in Tribunal**
 
-[63](#63).          Tribunal to ensure non‑disclosure of certain matters
+[63](#63).          Tribunal to ensure non-disclosure of certain matters
 
 [64](#64).          Production of exempt documents
 
@@ -450,7 +450,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [89B](#89B).       Information Commissioner investigations—requirements for report
 
-[89C](#89C).       Information Commissioner investigations—ensuring non‑disclosure of certain matters
+[89C](#89C).       Information Commissioner investigations—ensuring non-disclosure of certain matters
 
 [89D](#89D).       Information Commissioner investigations—limitation on amending records
 
@@ -496,7 +496,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [94](#94).          Regulations
 
-**Schedule 1—Courts and tribunals exempt in respect of non‑administrative matters** 
+**Schedule 1—Courts and tribunals exempt in respect of non-administrative matters** 
 
 **Schedule 2** 
 
@@ -542,7 +542,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  The Parliament intends, by these objects, to promote Australia’s representative democracy by contributing towards the following:
 
-                     (a)  increasing public participation in Government processes, with a view to promoting better‑informed decision‑making;
+                     (a)  increasing public participation in Government processes, with a view to promoting better-informed decision-making;
 
                      (b)  increasing scrutiny, discussion, comment and review of the Government’s activities.
 
@@ -572,7 +572,7 @@ Publication and access powers not limited
 
                     <a name="access-refus-decision"></a>**_access refusal decision_** has the meaning given by section 53A.
 
-                    <a name="act-enact"></a>**_ACT enactment_** means an enactment as defined by section 3 of the _Australian Capital Territory__(Self‑Government) Act 1988_.
+                    <a name="act-enact"></a>**_ACT enactment_** means an enactment as defined by section 3 of the _Australian Capital Territory__(Self-Government) Act 1988_.
 
                     <a name="action"></a>**_action_**, if the action is taken by a person or agency, has the same meaning as in the _Ombudsman Act 1976_.
 
@@ -684,7 +684,7 @@ but does not include:
 
                      (b)  an Ordinance of the Australian Capital Territory; or
 
-                     (c)  an instrument (including rules, regulations or by‑laws) made under an Act or under such an Ordinance and includes an enactment as amended by another enactment.
+                     (c)  an instrument (including rules, regulations or by-laws) made under an Act or under such an Ordinance and includes an enactment as amended by another enactment.
 
                     <a name="engag-conduct"></a>**_engage in conduct_** means:
 
@@ -692,15 +692,15 @@ but does not include:
 
                      (b)  omit to do an act.
 
-                    <a name="docum"></a><a name="exempt-content-servic"></a>**_exempt content‑service_** **_document_** means:
+                    <a name="docum"></a><a name="exempt-content-servic"></a>**_exempt content-service_** **_document_** means:
 
                      (a)  a document containing content, or a record of content (within the meaning of Schedule 7 to the _Broadcasting Services Act 1992_), that:
 
                               (i)  has been delivered by, or accessed using, a content service (within the meaning of that Schedule); and
 
-                             (ii)  was offensive content‑service content when it was delivered by, or accessed using, that content service; or
+                             (ii)  was offensive content-service content when it was delivered by, or accessed using, that content service; or
 
-                     (b)  a document that sets out how to access, or that is likely to facilitate access to, offensive content‑service content (for example, by setting out the name of a website, an IP address, a URL or a password).
+                     (b)  a document that sets out how to access, or that is likely to facilitate access to, offensive content-service content (for example, by setting out the name of a website, an IP address, a URL or a password).
 
                     <a name="exempt-docum"></a>**_exempt document_** means:
 
@@ -710,7 +710,7 @@ but does not include:
 
                      (c)  an official document of a Minister that contains some matter that does not relate to the affairs of an agency or of a Department of State.
 
-                    <a name="exempt-internet-content-docum"></a>**_exempt internet‑content document_** means:
+                    <a name="exempt-internet-content-docum"></a>**_exempt internet-content document_** means:
 
                      (a)  a document containing information (within the meaning of Schedule 5 to the _Broadcasting Services Act 1992_) that:
 
@@ -782,13 +782,13 @@ but does not include:
 
                      (a)  an enactment (within the meaning of the _Norfolk Island Act 1979_); or
 
-                     (b)  an instrument (including rules, regulations or by‑laws) made under such an enactment;
+                     (b)  an instrument (including rules, regulations or by-laws) made under such an enactment;
 
 and includes a Norfolk Island enactment as amended by another Norfolk Island enactment.
 
                     <a name="norfolk-island-minist"></a>**_Norfolk Island Minister_** means a Minister of Norfolk Island.
 
-                    <a name="offens-content-servic-content"></a>**_offensive content‑service content_** means content (within the meaning of Schedule 7 to the _Broadcasting Services Act 1992_) that is:
+                    <a name="offens-content-servic-content"></a>**_offensive content-service content_** means content (within the meaning of Schedule 7 to the _Broadcasting Services Act 1992_) that is:
 
                      (a)  delivered by, or accessed using, a content service (within the meaning of that Schedule); and
 
@@ -818,7 +818,7 @@ and includes a Norfolk Island enactment as amended by another Norfolk Island ena
 
                     <a name="prescrib-author"></a>**_prescribed authority_** means:
 
-                     (a)  a body corporate, or an unincorporated body, established for a public purpose by, or in accordance with the provisions of, an enactment or an Order‑in‑Council, other than:
+                     (a)  a body corporate, or an unincorporated body, established for a public purpose by, or in accordance with the provisions of, an enactment or an Order-in-Council, other than:
 
                               (i)  an incorporated company or association; or
 
@@ -836,13 +836,13 @@ and includes a Norfolk Island enactment as amended by another Norfolk Island ena
 
                      (b)  any other body, whether incorporated or unincorporated, declared by the regulations to be a prescribed authority for the purposes of this Act, being:
 
-                              (i)  a body established by the Governor‑General or by a Minister; or
+                              (i)  a body established by the Governor-General or by a Minister; or
 
                              (ii)  an incorporated company or association over which the Commonwealth is in a position to exercise control;
 
-                     (c)  subject to subsection (3), the person holding, or performing the duties of, an office established by an enactment or an Order‑in‑Council; or
+                     (c)  subject to subsection (3), the person holding, or performing the duties of, an office established by an enactment or an Order-in-Council; or
 
-                     (d)  the person holding, or performing the duties of, an appointment declared by the regulations to be an appointment the holder of which is a prescribed authority for the purposes of this Act, being an appointment made by the Governor‑General, or by a Minister, otherwise than under an enactment or an Order‑in‑Council.
+                     (d)  the person holding, or performing the duties of, an appointment declared by the regulations to be an appointment the holder of which is a prescribed authority for the purposes of this Act, being an appointment made by the Governor-General, or by a Minister, otherwise than under an enactment or an Order-in-Council.
 
                     <a name="princip-offic"></a>**_principal officer_** means:
 
@@ -854,7 +854,7 @@ and includes a Norfolk Island enactment as amended by another Norfolk Island ena
 
                              (ii)  if the authority is an Agency (within the meaning of the _Public Service Act 1999_) other than a Department and subparagraph (i) does not apply—the Agency Head (within the meaning of the _Public Service Act 1999_) of the authority;
 
-                            (iii)  if neither subparagraph (i) nor (ii) applies—the person responsible for the day‑to‑day management of the authority;
+                            (iii)  if neither subparagraph (i) nor (ii) applies—the person responsible for the day-to-day management of the authority;
 
                             (iv)  if the authority is constituted by one person and none of subparagraphs (i) to (iii) applies—that person;
 
@@ -926,7 +926,7 @@ Note:          The time for applying for a review of a decisio
 
                     <a name="vexati-applic-declar"></a>**_vexatious applicant declaration_** has the meaning given by section 89K.
 
-             (2)  An unincorporated body, being a board, council, committee, sub‑committee or other body established by, or in accordance with the provisions of, an enactment for the purpose of assisting, or performing functions connected with, a prescribed authority shall not be taken to be a prescribed authority for the purposes of this Act, but shall be deemed to be comprised within that prescribed authority.
+             (2)  An unincorporated body, being a board, council, committee, sub-committee or other body established by, or in accordance with the provisions of, an enactment for the purpose of assisting, or performing functions connected with, a prescribed authority shall not be taken to be a prescribed authority for the purposes of this Act, but shall be deemed to be comprised within that prescribed authority.
 
              (3)  A person shall not be taken to be a prescribed authority:
 
@@ -948,7 +948,7 @@ Note:          The time for applying for a review of a decisio
 
                             (iv)  an office established by an enactment for the purposes of a prescribed authority.
 
-          (3A)  If an unincorporated body consists of a board, council, committee, sub‑committee or other body established by or under a Norfolk Island enactment for the purpose of assisting, or performing functions connected with, a Norfolk Island authority:
+          (3A)  If an unincorporated body consists of a board, council, committee, sub-committee or other body established by or under a Norfolk Island enactment for the purpose of assisting, or performing functions connected with, a Norfolk Island authority:
 
                      (a)  the unincorporated body is taken not to be a Norfolk Island authority for the purposes of this Act; and
 
@@ -998,9 +998,9 @@ Note:          The time for applying for a review of a decisio
 
              (6)  Where an agency is abolished, then, for the purposes of this Act:
 
-                     (a)  if the functions of the agency are acquired by another agency—any request made to the first‑mentioned agency shall be deemed to have been made to, and any decision made by the first‑mentioned agency in respect of a request made to it shall be deemed to have been made by, the other agency; and
+                     (a)  if the functions of the agency are acquired by another agency—any request made to the first-mentioned agency shall be deemed to have been made to, and any decision made by the first-mentioned agency in respect of a request made to it shall be deemed to have been made by, the other agency; and
 
-                     (b)  if the functions of the agency are acquired by more than one other agency—any request made to the first‑mentioned agency shall be deemed to have been made to, and any decision made by the first‑mentioned agency in respect of a request made to it shall be deemed to have been made by, whichever of those other agencies has acquired the functions of the first‑mentioned agency to which the document the subject of the request most closely relates; and
+                     (b)  if the functions of the agency are acquired by more than one other agency—any request made to the first-mentioned agency shall be deemed to have been made to, and any decision made by the first-mentioned agency in respect of a request made to it shall be deemed to have been made by, whichever of those other agencies has acquired the functions of the first-mentioned agency to which the document the subject of the request most closely relates; and
 
                      (c)  if the documents of the agency are transferred to the care (within the meaning of the _Archives Act 1983_) of the National Archives of Australia—any request made to the agency shall be deemed to have been made to, and any decision made by the agency in respect of a request made by it shall be deemed to have been made by, the agency to the functions of which the document the subject of the request most closely relates.
 
@@ -1020,7 +1020,7 @@ Note:          Section 33 deals with documents affecting nat
 
              (1)  ACT enactments are not enactments.
 
-             (2)  The _Australian Capital Territory__(Self‑Government) Act 1988_ and the _Canberra__Water Supply (Googong Dam) Act 1974_ are not enactments.
+             (2)  The _Australian Capital Territory__(Self-Government) Act 1988_ and the _Canberra__Water Supply (Googong Dam) Act 1974_ are not enactments.
 
              (3)  Part IV, sections 29 and 30, subsection 63(2), section 66 and Division 5 of Part X of the _Australian Capital Territory__Planning and Land Management Act 1988_ are not enactments.
 
@@ -1074,11 +1074,11 @@ but this Act does not apply to any request for access to a document of the court
 
 but this Act does not apply to any request for access to a document of a tribunal, authority or body so specified unless the document relates to matters of an administrative nature.
 
-##### <a id="6A"></a>6A  Official Secretary to the Governor‑General
+##### <a id="6A"></a>6A  Official Secretary to the Governor-General
 
-             (1)  This Act does not apply to any request for access to a document of the Official Secretary to the Governor‑General unless the document relates to matters of an administrative nature.
+             (1)  This Act does not apply to any request for access to a document of the Official Secretary to the Governor-General unless the document relates to matters of an administrative nature.
 
-             (2)  For the purposes of this Act, a document in the possession of a person employed under section 13 of the _Governor‑General Act 1974_ that is in his or her possession by reason of his or her employment under that section shall be taken to be in the possession of the Official Secretary to the Governor‑General.
+             (2)  For the purposes of this Act, a document in the possession of a person employed under section 13 of the _Governor-General Act 1974_ that is in his or her possession by reason of his or her employment under that section shall be taken to be in the possession of the Official Secretary to the Governor-General.
 
 ##### <a id="6C"></a>6C  Requirement for Commonwealth contracts
 
@@ -1118,7 +1118,7 @@ but this Act does not apply to any request for access to a document of a tribuna
 
                              (ii)  the Australian Security Intelligence Organisation;
 
-                            (iii)  the Inspector‑General of Intelligence and Security;
+                            (iii)  the Inspector-General of Intelligence and Security;
 
                             (iv)  the Office of National Assessments;
 
@@ -1168,7 +1168,7 @@ but this Act does not apply to any request for access to a document of a tribuna
 
                      (a)  cause to be published, as soon as practicable after the commencement of this Part but not later than 12 months after that commencement, in a form approved by the Minister administering this Act:
 
-                              (i)  a statement setting out particulars of the organization and functions of the agency, indicating, as far as practicable, the decision‑making powers and other powers affecting members of the public that are involved in those functions;
+                              (i)  a statement setting out particulars of the organization and functions of the agency, indicating, as far as practicable, the decision-making powers and other powers affecting members of the public that are involved in those functions;
 
                              (ii)  a statement setting out particulars of any arrangements that exist for bodies or persons outside the Commonwealth administration to participate, either through consultative procedures, the making of representations or otherwise, in the formulation of policy by the agency, or in the administration by the agency, of any enactment or scheme;
 
@@ -1242,7 +1242,7 @@ but not including documents that are available to the public as published otherw
 
              (5)  The Minister may, by writing under his or her hand, extend, in respect of the Commissioner of Taxation, the time specified in paragraph (2)(b) or subsection (3) where he or she is satisfied, after consulting the Minister who is the responsible Minister in relation to the Commissioner of Taxation, that it is reasonable to extend the time by reason of special circumstances applicable to the Commissioner of Taxation.
 
-             (6)  Where the Minister is satisfied, after consulting the Minister who is the responsible Minister in relation to the Commissioner of Taxation, that the form or nature of the documents to which this section applies in respect of the Commissioner of Taxation that are in existence at the commencement of this Part, or of some of those documents, is such that complete compliance with this section in respect of those documents would impose on the Commissioner of Taxation such a workload as would unreasonably divert his or her resources from his or her other operations, the first‑mentioned Minister may, by writing under his or her hand, direct that the application of this section in respect of the Commissioner of Taxation is to be subject to such modifications as he or she specifies, being modifications that, in his or her opinion, are reasonably required by reason of the circumstances referred to in this subsection.
+             (6)  Where the Minister is satisfied, after consulting the Minister who is the responsible Minister in relation to the Commissioner of Taxation, that the form or nature of the documents to which this section applies in respect of the Commissioner of Taxation that are in existence at the commencement of this Part, or of some of those documents, is such that complete compliance with this section in respect of those documents would impose on the Commissioner of Taxation such a workload as would unreasonably divert his or her resources from his or her other operations, the first-mentioned Minister may, by writing under his or her hand, direct that the application of this section in respect of the Commissioner of Taxation is to be subject to such modifications as he or she specifies, being modifications that, in his or her opinion, are reasonably required by reason of the circumstances referred to in this subsection.
 
              (7)  The report of the Minister under section 93 in respect of a year shall include:
 
@@ -1466,7 +1466,7 @@ Requirements for request
 
                      (a)  delivery to an officer of the agency, or a member of the staff of the Minister, at the address of any central or regional office of the agency or Minister specified in a current telephone directory;
 
-                     (b)  postage by pre‑paid post to an address mentioned in paragraph (a);
+                     (b)  postage by pre-paid post to an address mentioned in paragraph (a);
 
                      (c)  sending by electronic communication to an electronic address specified by the agency or Minister.
 
@@ -1482,7 +1482,7 @@ it is the duty of the agency to take reasonable steps to assist the person to ma
 
 Note:          An agency or Minister may refuse to deal with a request if satisfied that a practical refusal reason exists, after undertaking the request consultation process (see section 24).
 
-             (4)  Where a person has directed to an agency a request that should have been directed to another agency or to a Minister, it is the duty of the first‑mentioned agency to take reasonable steps to assist the person to direct the request to the appropriate agency or Minister.
+             (4)  Where a person has directed to an agency a request that should have been directed to another agency or to a Minister, it is the duty of the first-mentioned agency to take reasonable steps to assist the person to direct the request to the appropriate agency or Minister.
 
 Timeframes for dealing with request
 
@@ -1618,7 +1618,7 @@ the person must not apply under section 15 for access to such records unless t
 
                      (a)  the document is not in the possession of that agency but is, to the knowledge of that agency, in the possession of another agency; or
 
-                     (b)  the subject‑matter of the document is more closely connected with the functions of another agency than with those of the agency to which the request is made;
+                     (b)  the subject-matter of the document is more closely connected with the functions of another agency than with those of the agency to which the request is made;
 
 the agency to which the request is made may, with the agreement of the other agency, transfer the request to the other agency.
 
@@ -1890,7 +1890,7 @@ No more than one request consultation process required
 
 ##### <a id="24A"></a>24A  Requests may be refused if documents cannot be found, do not exist or have not been received
 
-Document lost or non‑existent
+Document lost or non-existent
 
              (1)  An agency or Minister may refuse a request for access to a document if:
 
@@ -1914,7 +1914,7 @@ Document not received as required by contract
 
 ##### <a id="25"></a>25  Information as to existence of certain documents
 
-             (1)  Nothing in this Act shall be taken to require an agency or Minister to give information as to the existence or non‑existence of a document where information as to the existence or non‑existence of that document, if included in a document of an agency, would cause the last‑mentioned document to be an exempt document by virtue of section 33 or subsection 37(1).
+             (1)  Nothing in this Act shall be taken to require an agency or Minister to give information as to the existence or non-existence of a document where information as to the existence or non-existence of that document, if included in a document of an agency, would cause the last-mentioned document to be an exempt document by virtue of section 33 or subsection 37(1).
 
              (2)  Where a request relates to a document that is, or if it existed would be, of a kind referred to in subsection (1), the agency or Minister dealing with the request may give notice in writing to the applicant that the agency or the Minister, as the case may be, neither confirms nor denies the existence, as a document of the agency or an official document of the Minister, of such a document but that, assuming the existence of such a document, it would be an exempt document under section 33 or subsection 37(1) and, where such a notice is given:
 
@@ -1924,7 +1924,7 @@ Document not received as required by contract
 
 ##### <a id="26"></a>26  Reasons and other particulars of decisions to be given
 
-             (1)  Where, in relation to a request, a decision is made relating to a refusal to grant access to a document in accordance with the request or deferring provision of access to a document, the decision‑maker shall cause the applicant to be given notice in writing of the decision, and the notice shall:
+             (1)  Where, in relation to a request, a decision is made relating to a refusal to grant access to a document in accordance with the request or deferring provision of access to a document, the decision-maker shall cause the applicant to be given notice in writing of the decision, and the notice shall:
 
                      (a)  state the findings on any material questions of fact, referring to the material on which those findings were based, and state the reasons for the decision; and
 
@@ -1948,7 +1948,7 @@ Note:       Access must generally be given to a conditionally exempt
 
              (2)  A notice under this section is not required to contain any matter that is of such a nature that its inclusion in a document of an agency would cause that document to be an exempt document.
 
-##### <a id="26A"></a>26A  Consultation—documents affecting Commonwealth‑State relations etc.
+##### <a id="26A"></a>26A  Consultation—documents affecting Commonwealth-State relations etc.
 
 Scope
 
@@ -1960,11 +1960,11 @@ Scope
 
                               (i)  originated with, or was received from, the State or an authority of the State; or
 
-                             (ii)  contains information (**_State‑originated information_**) that originated with, or was received from, the State or an authority of the State; and
+                             (ii)  contains information (**_State-originated information_**) that originated with, or was received from, the State or an authority of the State; and
 
                      (c)  it appears to the agency or Minister that the State may reasonably wish to contend that:
 
-                              (i)  the document is conditionally exempt under section 47B (Commonwealth‑State relations etc.); and
+                              (i)  the document is conditionally exempt under section 47B (Commonwealth-State relations etc.); and
 
                              (ii)  access to the document would, on balance, be contrary to the public interest for the purposes of subsection 11A(5).
 
@@ -1990,13 +1990,13 @@ Note 1:       The decision to give access to the document is subject
 
 Note 2:       For when all opportunities for review or appeal in relation to the decision to give access to the document have **_run out_**, see subsection 4(1).
 
-Edited copies and State‑originated information
+Edited copies and State-originated information
 
              (5)  This section applies:
 
                      (a)  in relation to an edited copy of a document—in the same way as it applies to the document; and
 
-                     (b)  in relation to a document containing State‑originated information—to the extent to which the document contains such information.
+                     (b)  in relation to a document containing State-originated information—to the extent to which the document contains such information.
 
 Definition
 
@@ -2020,23 +2020,23 @@ Scope
 
                               (i)  originated with, or was received from, the Commonwealth or an authority of the Commonwealth; or
 
-                             (ii)  contains information (**_Commonwealth‑originated information_**) that originated with, or was received from, the Commonwealth or an authority of the Commonwealth; and
+                             (ii)  contains information (**_Commonwealth-originated information_**) that originated with, or was received from, the Commonwealth or an authority of the Commonwealth; and
 
                      (c)  if subparagraph (a)(ii) applies—a request is made to a Norfolk Island authority or Norfolk Island Minister for access to a document that:
 
                               (i)  originated with, or was received from, the State or an authority of the State; or
 
-                             (ii)  contains information (**_State‑originated information_**) that originated with, or was received from, the State or an authority of the State; and
+                             (ii)  contains information (**_State-originated information_**) that originated with, or was received from, the State or an authority of the State; and
 
                      (d)  if subparagraph (a)(i) applies—it appears to the Norfolk Island authority or Norfolk Island Minister that the Commonwealth may reasonably wish to contend that:
 
-                              (i)  the document is conditionally exempt under section 47B (Commonwealth‑State relations etc.); and
+                              (i)  the document is conditionally exempt under section 47B (Commonwealth-State relations etc.); and
 
                              (ii)  access to the document would, on balance, be contrary to the public interest for the purposes of subsection 11A(5); and
 
                      (e)  if subparagraph (a)(ii) applies—it appears to the Norfolk Island authority or Norfolk Island Minister that the State may reasonably wish to contend that:
 
-                              (i)  the document is conditionally exempt under section 47B (Commonwealth‑State relations etc.); and
+                              (i)  the document is conditionally exempt under section 47B (Commonwealth-State relations etc.); and
 
                              (ii)  access to the document would, on balance, be contrary to the public interest for the purposes of subsection 11A(5).
 
@@ -2074,15 +2074,15 @@ Note 1:       The decision to give access to the document is subject
 
 Note 2:       For when all opportunities for review or appeal in relation to the decision to give access to the document have **_run out_**, see subsection 4(1).
 
-Edited copies, Commonwealth‑originated information and State‑originated information
+Edited copies, Commonwealth-originated information and State-originated information
 
              (5)  This section applies:
 
                      (a)  in relation to an edited copy of a document in the same way as it applies to the document; and
 
-                     (b)  in relation to a document containing Commonwealth‑originated information—to the extent to which the document contains such information; and
+                     (b)  in relation to a document containing Commonwealth-originated information—to the extent to which the document contains such information; and
 
-                     (c)  in relation to a document containing State‑originated information—to the extent to which the document contains such information.
+                     (c)  in relation to a document containing State-originated information—to the extent to which the document contains such information.
 
 ##### <a id="27"></a>27  Consultation—business documents
 
@@ -2530,7 +2530,7 @@ Note:          However, the attachment itself may be an exempt
 
                      (a)  prejudice the conduct of an investigation of a breach, or possible breach, of the law, or a failure, or possible failure, to comply with a law relating to taxation or prejudice the enforcement or proper administration of the law in a particular instance;
 
-                     (b)  disclose, or enable a person to ascertain, the existence or identity of a confidential source of information, or the non‑existence of a confidential source of information, in relation to the enforcement or administration of the law; or
+                     (b)  disclose, or enable a person to ascertain, the existence or identity of a confidential source of information, or the non-existence of a confidential source of information, in relation to the enforcement or administration of the law; or
 
                      (c)  endanger the life or physical safety of any person.
 
@@ -2696,7 +2696,7 @@ is not an exempt document in relation to the elector.
 
 ### Division 3—Public interest conditional exemptions
 
-##### <a id="47B"></a>47B  Public interest conditional exemptions—Commonwealth‑State relations etc.
+##### <a id="47B"></a>47B  Public interest conditional exemptions—Commonwealth-State relations etc.
 
                    A document is conditionally exempt if disclosure of the document under this Act:
 
@@ -2792,11 +2792,11 @@ Access given to qualified person instead
 
                      (a)  a request is made to an agency or Minister for access to a document of the agency, or an official document of the Minister, that contains information concerning the applicant, being information that was provided by a qualified person acting in his or her capacity as a qualified person; and
 
-                     (b)  it appears to the principal officer of the agency or to the Minister (as the case may be) that the disclosure of the information to the applicant might be detrimental to the applicant’s physical or mental health, or well‑being.
+                     (b)  it appears to the principal officer of the agency or to the Minister (as the case may be) that the disclosure of the information to the applicant might be detrimental to the applicant’s physical or mental health, or well-being.
 
              (5)  The principal officer or Minister may, if access to the document would otherwise be given to the applicant, direct that access to the document, so far as it contains that information, is not to be given to the applicant but is to be given instead to a qualified person who:
 
-                     (a)  carries on the same occupation, of a kind mentioned in the definition of **_qualified person_** in subsection (7), as the first‑mentioned qualified person; and
+                     (a)  carries on the same occupation, of a kind mentioned in the definition of **_qualified person_** in subsection (7), as the first-mentioned qualified person; and
 
                      (b)  is to be nominated by the applicant.
 
@@ -2804,7 +2804,7 @@ Access given to qualified person instead
 
              (7)  In this section:
 
-                    <a name="qualifi-person"></a>**_qualified person_** means a person who carries on, and is entitled to carry on, an occupation that involves the provision of care for the physical or mental health of people or for their well‑being, and, without limiting the generality of the foregoing, includes any of the following:
+                    <a name="qualifi-person"></a>**_qualified person_** means a person who carries on, and is entitled to carry on, an occupation that involves the provision of care for the physical or mental health of people or for their well-being, and, without limiting the generality of the foregoing, includes any of the following:
 
                      (a)  a medical practitioner;
 
@@ -3052,7 +3052,7 @@ the agency or Minister must, by written notice, notify the agency or Minister wh
 
                      (c)  of that decision; and
 
-                     (d)  of any amendment or annotation made by the first‑mentioned agency or Minister in relation to that record.
+                     (d)  of any amendment or annotation made by the first-mentioned agency or Minister in relation to that record.
 
              (8)  Where the agency or Minister receiving a notice under subsection (7) is in possession of a document containing the record of personal information to which the application relates, the agency or Minister must, upon receiving the notice, amend or annotate the record in the same manner as the record was amended or annotated by the agency or Minister to whom the application was transferred.
 
@@ -3124,7 +3124,7 @@ Sections 53A, 53B and 53C define the terms **_access refusal decision_**, **_a
 
 ##### <a id="53"></a>53  Interpretation
 
-                   For the purposes of this Act, unless the contrary intention appears, a claim that a document would, if it exists, be an exempt document under section 33 or 34 is to be deemed to be a claim that the document is an exempt document under that section despite the fact that the existence or non‑existence of the document is not acknowledged.
+                   For the purposes of this Act, unless the contrary intention appears, a claim that a document would, if it exists, be an exempt document under section 33 or 34 is to be deemed to be a claim that the document is an exempt document under that section despite the fact that the existence or non-existence of the document is not acknowledged.
 
 ##### <a id="53A"></a>53A  What is an _access refusal decision_?
 
@@ -3193,13 +3193,13 @@ Note:          The table covers documents that may be conditio
     <div>1</div>
   </td>
   <td>
-    <div>consultation with a State under section 26A (documents affecting Commonwealth‑State
+    <div>consultation with a State under section 26A (documents affecting Commonwealth-State
       relations) is required</div>
   </td>
   <td>
     <div>a decision of an agency or Minister to give the applicant access to the
       document (or an edited copy of the document) because:</div>
-    <div>(a) the document is not conditionally exempt under section 47B (Commonwealth‑State
+    <div>(a) the document is not conditionally exempt under section 47B (Commonwealth-State
       relations); or</div>
     <div>(b) access to the document would not, on balance, be contrary to the public
       interest for the purposes of subsection 11A(5).</div>
@@ -3216,7 +3216,7 @@ Note:          The table covers documents that may be conditio
   <td>
     <div>a decision of an agency or Minister to give the applicant access to the
       document (or an edited copy of the document) because:</div>
-    <div>(a) the document is not conditionally exempt under section 47B (Commonwealth‑State
+    <div>(a) the document is not conditionally exempt under section 47B (Commonwealth-State
       relations etc.); or</div>
     <div>(b) access to the document would not, on balance, be contrary to the public
       interest for the purposes of subsection 11A(5).</div>
@@ -3329,7 +3329,7 @@ Note:          The table covers documents that may be conditio
     <div>1</div>
   </td>
   <td>
-    <div>consultation with a State under section 26A (documents affecting Commonwealth‑State
+    <div>consultation with a State under section 26A (documents affecting Commonwealth-State
       relations) is required</div>
   </td>
   <td>
@@ -3523,7 +3523,7 @@ The Information Commissioner must make a decision on the review in accordance wi
 
 The Information Commissioner has powers to gather information for the purposes of an IC review (see Division 8).
 
-In certain circumstances, the Inspector‑General of Intelligence and Security must be called to give evidence (see Division 9).
+In certain circumstances, the Inspector-General of Intelligence and Security must be called to give evidence (see Division 9).
 
 An application for review of a decision of the Information Commissioner may be made to the Administrative Appeals Tribunal. A review party may appeal to the Federal Court of Australia, on a question of law, from a decision of the Information Commissioner (see Division 10).
 
@@ -3629,7 +3629,7 @@ Delivery of application
 
                      (a)  delivery to the Information Commissioner at the address of the Information Commissioner specified in a current telephone directory;
 
-                     (b)  postage by pre‑paid post to an address mentioned in paragraph (a);
+                     (b)  postage by pre-paid post to an address mentioned in paragraph (a);
 
                      (c)  sending by electronic communication to an electronic address specified by the Information Commissioner.
 
@@ -3671,7 +3671,7 @@ Note:          For **_affected third party_**, see section 5
 
                      (b)  prejudice the enforcement or proper administration of the law in a particular instance;
 
-                     (c)  disclose, or enable a person to ascertain, the existence or identity of a confidential source of information, or the non‑existence of a confidential source of information, in relation to the enforcement or administration of the law;
+                     (c)  disclose, or enable a person to ascertain, the existence or identity of a confidential source of information, or the non-existence of a confidential source of information, in relation to the enforcement or administration of the law;
 
                      (d)  endanger the life or physical safety of any person;
 
@@ -3791,7 +3791,7 @@ Note:          Subsection 25(1) deals with information about t
 
              (2)  The Information Commissioner must deal with the IC review application for review of the deemed decision as if it were an IC review application for the review of the actual decision, subject otherwise to this Part.
 
-Note:          When making the actual decision, a consultation requirement under section 26A (documents affecting Commonwealth‑State relations), 26AA (documents affecting Norfolk Island intergovernmental relations), 27 (business documents) or 27A (documents affecting personal privacy) may apply.
+Note:          When making the actual decision, a consultation requirement under section 26A (documents affecting Commonwealth-State relations), 26AA (documents affecting Norfolk Island intergovernmental relations), 27 (business documents) or 27A (documents affecting personal privacy) may apply.
 
 ### Division 6—Procedure in IC review
 
@@ -3919,7 +3919,7 @@ Application to become a review party
 
 Note:          For **_affected third party_**, see section 53C.
 
-##### <a id="55DA"></a>55DA  Decision‑maker must assist Information Commissioner
+##### <a id="55DA"></a>55DA  Decision-maker must assist Information Commissioner
 
                    In an IC review, the agency or Minister who made the IC reviewable decision must use the agency’s or the Minister’s best endeavours to assist the Information Commissioner to make his or her decision in relation to the IC review.
 
@@ -3979,7 +3979,7 @@ Note:          For **_affected third party_**, see section 5
 
                      (c)  requiring a record of personal information to be amended or annotated in accordance with the application.
 
-Note:          When making the revised decision, a consultation requirement under section 26A (documents affecting Commonwealth‑State relations), 26AA (documents affecting Norfolk Island intergovernmental relations), 27 (business documents) or 27A (documents affecting personal privacy) may apply.
+Note:          When making the revised decision, a consultation requirement under section 26A (documents affecting Commonwealth-State relations), 26AA (documents affecting Norfolk Island intergovernmental relations), 27 (business documents) or 27A (documents affecting personal privacy) may apply.
 
              (2)  If an agency or Minister varies (or sets aside and substitutes) an access refusal decision under subsection (1):
 
@@ -4231,7 +4231,7 @@ Production to determine whether access can be given to part of document
 
                      (b)  a member of the staff of the Information Commissioner in the course of the performance of his or her duties as a member of that staff; or
 
-                     (c)  in the circumstances permitted under paragraph 55ZD(3)(a)—the Inspector‑General of Intelligence and Security.
+                     (c)  in the circumstances permitted under paragraph 55ZD(3)(a)—the Inspector-General of Intelligence and Security.
 
 ##### <a id="55V"></a>55V  Information gathering powers—further searches for a document
 
@@ -4315,15 +4315,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (3)  This section applies whether or not the person is required to do a thing mentioned in subsection (1) in accordance with this Division.
 
-### Division 9—Evidence by Inspector‑General of Intelligence and Security
+### Division 9—Evidence by Inspector-General of Intelligence and Security
 
-##### <a id="55ZA"></a>55ZA  Evidence by Inspector‑General of Intelligence and Security—scope
+##### <a id="55ZA"></a>55ZA  Evidence by Inspector-General of Intelligence and Security—scope
 
                    This Division applies in an IC review of a decision in relation to a document that is claimed to be an exempt document under section 33 (national security documents).
 
-##### <a id="55ZB"></a>55ZB  Evidence by Inspector‑General of Intelligence and Security—request to give evidence
+##### <a id="55ZB"></a>55ZB  Evidence by Inspector-General of Intelligence and Security—request to give evidence
 
-             (1)  Before determining that a document is not an exempt document under section 33, the Information Commissioner must request the Inspector‑General of Intelligence and Security to appear personally and give evidence on:
+             (1)  Before determining that a document is not an exempt document under section 33, the Information Commissioner must request the Inspector-General of Intelligence and Security to appear personally and give evidence on:
 
                      (a)  the damage that would, or could reasonably be expected to, be caused to:
 
@@ -4337,7 +4337,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  whether giving access to the document in accordance with the request would divulge any information or matter communicated in confidence by, or on behalf of, a foreign government, an authority of a foreign government or an international organisation to the Government of the Commonwealth, to an authority of the Commonwealth or to a person receiving the communication on behalf of the Commonwealth or of an authority of the Commonwealth.
 
-             (2)  Before determining that an agency or Minister must grant access to a copy of the document with deletions, the Information Commissioner must request the Inspector‑General to appear personally and give evidence on:
+             (2)  Before determining that an agency or Minister must grant access to a copy of the document with deletions, the Information Commissioner must request the Inspector-General to appear personally and give evidence on:
 
                      (a)  the damage that would, or could reasonably be expected to, be caused to:
 
@@ -4351,43 +4351,43 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  whether giving access to the document without the proposed deletions would divulge any information or matter communicated in confidence by, or on behalf of, a foreign government, an authority of a foreign government or an international organisation to the Government of the Commonwealth, to an authority of the Commonwealth or to a person receiving the communication on behalf of the Commonwealth or of an authority of the Commonwealth.
 
-             (3)  Before hearing the evidence of the Inspector‑General, the Information Commissioner must hear any evidence to be given or submissions to be made by, or on behalf of, the agency to which, or the Minister to whom, the request was made for access to the document.
+             (3)  Before hearing the evidence of the Inspector-General, the Information Commissioner must hear any evidence to be given or submissions to be made by, or on behalf of, the agency to which, or the Minister to whom, the request was made for access to the document.
 
-             (4)  The Information Commissioner is not bound by any opinion of the Inspector‑General expressed while giving evidence under this Division.
+             (4)  The Information Commissioner is not bound by any opinion of the Inspector-General expressed while giving evidence under this Division.
 
-##### <a id="55ZC"></a>55ZC  Evidence by Inspector‑General of Intelligence and Security—compliance with request
+##### <a id="55ZC"></a>55ZC  Evidence by Inspector-General of Intelligence and Security—compliance with request
 
-                   The Inspector‑General of Intelligence and Security must comply with a request under section 55ZB unless, in the opinion of the Inspector‑General, the Inspector‑General is not appropriately qualified to give evidence on the matters in relation to which the Inspector‑General has been requested to give evidence.
+                   The Inspector-General of Intelligence and Security must comply with a request under section 55ZB unless, in the opinion of the Inspector-General, the Inspector-General is not appropriately qualified to give evidence on the matters in relation to which the Inspector-General has been requested to give evidence.
 
-##### <a id="55ZD"></a>55ZD  Evidence by Inspector‑General of Intelligence and Security—procedural matters
+##### <a id="55ZD"></a>55ZD  Evidence by Inspector-General of Intelligence and Security—procedural matters
 
-             (1)  This section applies for the purposes of enabling the Inspector‑General of Intelligence and Security to comply with a request under section 55ZB.
+             (1)  This section applies for the purposes of enabling the Inspector-General of Intelligence and Security to comply with a request under section 55ZB.
 
-             (2)  The Information Commissioner must allow the Inspector‑General to take possession of, and make copies of or take extracts from, any document given to the Information Commissioner for the purposes of the proceeding.
+             (2)  The Information Commissioner must allow the Inspector-General to take possession of, and make copies of or take extracts from, any document given to the Information Commissioner for the purposes of the proceeding.
 
-             (3)  The Inspector‑General may require the production of the following:
+             (3)  The Inspector-General may require the production of the following:
 
                      (a)  the document that is claimed to be an exempt document under section 33 by the agency to which or the Minister to whom the request was made for access to the document;
 
                      (b)  any document of an agency or official document of a Minister that relates to the document mentioned in subsection (2) by the agency or Minister.
 
-             (4)  The Inspector‑General may make copies of, or take extracts from, the documents mentioned in subsection (3).
+             (4)  The Inspector-General may make copies of, or take extracts from, the documents mentioned in subsection (3).
 
-             (5)  After the period that is reasonably necessary for the purposes of giving evidence to the Information Commissioner, the Inspector‑General must:
+             (5)  After the period that is reasonably necessary for the purposes of giving evidence to the Information Commissioner, the Inspector-General must:
 
                      (a)  return the original of any document to the Information Commissioner or to the agency or Minister; and
 
                      (b)  destroy any copies of or extracts taken from any document.
 
-             (6)  The Inspector‑General must permit a person to inspect a document that the person would be entitled to inspect if the document were not held by the Inspector‑General.
+             (6)  The Inspector-General must permit a person to inspect a document that the person would be entitled to inspect if the document were not held by the Inspector-General.
 
-             (7)  The Inspector‑General must permit the person to inspect the document at all reasonable times.
+             (7)  The Inspector-General must permit the person to inspect the document at all reasonable times.
 
-             (8)  The Information Commissioner must allow the Inspector‑General a period within which to consider the documents mentioned in subsections (2) to (4) that is reasonable having regard to:
+             (8)  The Information Commissioner must allow the Inspector-General a period within which to consider the documents mentioned in subsections (2) to (4) that is reasonable having regard to:
 
-                     (a)  the nature of the evidence that the Inspector‑General has been requested to give; and
+                     (a)  the nature of the evidence that the Inspector-General has been requested to give; and
 
-                     (b)  the time required by the Inspector‑General to perform the Inspector‑General’s other functions.
+                     (b)  the time required by the Inspector-General to perform the Inspector-General’s other functions.
 
 ### Division 10—Appeals
 
@@ -4591,7 +4591,7 @@ Time for applying to Tribunal if Information Commissioner declines to review dec
 
                      (b)  a member of the staff of the Tribunal in the course of the performance of his or her duties as a member of that staff; or
 
-                     (c)  in the circumstances permitted under paragraph 60A(6)(a)—the Inspector‑General of Intelligence and Security.
+                     (c)  in the circumstances permitted under paragraph 60A(6)(a)—the Inspector-General of Intelligence and Security.
 
 ##### <a id="60"></a>60  Procedure in Tribunal—parties
 
@@ -4643,17 +4643,17 @@ Note:          For **_affected third party_**, see section 5
 
                      (b)  prejudice the enforcement or proper administration of the law in a particular instance;
 
-                     (c)  disclose, or enable a person to ascertain, the existence or identity of a confidential source of information, or the non‑existence of a confidential source of information, in relation to the enforcement or administration of the law;
+                     (c)  disclose, or enable a person to ascertain, the existence or identity of a confidential source of information, or the non-existence of a confidential source of information, in relation to the enforcement or administration of the law;
 
                      (d)  endanger the life or physical safety of any person;
 
                      (e)  cause damage to the security, defence or international relations of the Commonwealth.
 
-##### <a id="60A"></a>60A  Inspector‑General of Intelligence and Security must be requested to give evidence in certain proceedings
+##### <a id="60A"></a>60A  Inspector-General of Intelligence and Security must be requested to give evidence in certain proceedings
 
              (1)  This section applies in any proceedings before the Tribunal under this Act in relation to a document that is claimed to be an exempt document under section 33.
 
-             (2)  Before determining that the document is not an exempt document under section 33, the Tribunal must request the Inspector‑General of Intelligence and Security to appear personally and give evidence on:
+             (2)  Before determining that the document is not an exempt document under section 33, the Tribunal must request the Inspector-General of Intelligence and Security to appear personally and give evidence on:
 
                      (a)  the damage that would, or could reasonably be expected to, be caused to:
 
@@ -4667,7 +4667,7 @@ Note:          For **_affected third party_**, see section 5
 
                      (b)  whether giving access to the document in accordance with the request would divulge any information or matter communicated in confidence by or on behalf of a foreign government, an authority of a foreign government or an international organisation to the Government of the Commonwealth, to an authority of the Commonwealth or to a person receiving the communication on behalf of the Commonwealth or of an authority of the Commonwealth.
 
-             (3)  Before determining that an agency or Minister must grant access to a copy of the document with deletions, the Tribunal must request the Inspector‑General to appear personally and give evidence on:
+             (3)  Before determining that an agency or Minister must grant access to a copy of the document with deletions, the Tribunal must request the Inspector-General to appear personally and give evidence on:
 
                      (a)  the damage that would, or could reasonably be expected to, be caused to:
 
@@ -4681,35 +4681,35 @@ Note:          For **_affected third party_**, see section 5
 
                      (b)  whether giving access to the document without the proposed deletions would divulge any information or matter communicated in confidence by or on behalf of a foreign government, an authority of a foreign government or an international organisation to the Government of the Commonwealth, to an authority of the Commonwealth or to a person receiving the communication on behalf of the Commonwealth or of an authority of the Commonwealth.
 
-             (4)  Before hearing the evidence of the Inspector‑General, the Tribunal must hear any evidence to be given or submissions to be made by or on behalf of the agency to which or the Minister to whom the request was made for access to the document.
+             (4)  Before hearing the evidence of the Inspector-General, the Tribunal must hear any evidence to be given or submissions to be made by or on behalf of the agency to which or the Minister to whom the request was made for access to the document.
 
-             (5)  The Inspector‑General must comply with a request under subsection (2) or (3) unless, in the opinion of the Inspector‑General, the Inspector‑General is not appropriately qualified to give evidence on the matters in relation to which the Inspector‑General has been requested to give evidence.
+             (5)  The Inspector-General must comply with a request under subsection (2) or (3) unless, in the opinion of the Inspector-General, the Inspector-General is not appropriately qualified to give evidence on the matters in relation to which the Inspector-General has been requested to give evidence.
 
-             (6)  For the purposes of enabling the Inspector‑General to comply with a request under subsection (2) or (3):
+             (6)  For the purposes of enabling the Inspector-General to comply with a request under subsection (2) or (3):
 
-                     (a)  the Tribunal must allow the Inspector‑General to take possession of, and make copies of or take extracts from, any document given to the Tribunal for the purposes of the proceeding; and
+                     (a)  the Tribunal must allow the Inspector-General to take possession of, and make copies of or take extracts from, any document given to the Tribunal for the purposes of the proceeding; and
 
-                     (b)  the Inspector‑General may require the production of the document that is claimed to be an exempt document under section 33 by the agency to which or the Minister to whom the request was made for access to the document; and
+                     (b)  the Inspector-General may require the production of the document that is claimed to be an exempt document under section 33 by the agency to which or the Minister to whom the request was made for access to the document; and
 
-                     (c)  the Inspector‑General may require the production of any document of an agency or official document of a Minister that relates to the document mentioned in paragraph (b) by the agency or Minister; and
+                     (c)  the Inspector-General may require the production of any document of an agency or official document of a Minister that relates to the document mentioned in paragraph (b) by the agency or Minister; and
 
-                     (d)  the Inspector‑General may make copies of, or take extracts from, the documents mentioned in paragraphs (b) and (c); and
+                     (d)  the Inspector-General may make copies of, or take extracts from, the documents mentioned in paragraphs (b) and (c); and
 
-                     (e)  after such period as is reasonably necessary for the purposes of giving evidence to the Tribunal, the Inspector‑General must:
+                     (e)  after such period as is reasonably necessary for the purposes of giving evidence to the Tribunal, the Inspector-General must:
 
                               (i)  return the original of any document to the Tribunal or to the agency or Minister; and
 
                              (ii)  destroy any copies of or extracts taken from any document.
 
-             (7)  The Inspector‑General must permit a person who would be entitled to inspect a document mentioned in paragraphs (6)(a) to (d) if it were not in the possession of the Inspector‑General to inspect the document at all reasonable times as the person would be so entitled.
+             (7)  The Inspector-General must permit a person who would be entitled to inspect a document mentioned in paragraphs (6)(a) to (d) if it were not in the possession of the Inspector-General to inspect the document at all reasonable times as the person would be so entitled.
 
-             (8)  The Tribunal is not bound by any opinion of the Inspector‑General expressed while giving evidence under this section.
+             (8)  The Tribunal is not bound by any opinion of the Inspector-General expressed while giving evidence under this section.
 
-             (9)  The Tribunal must allow the Inspector‑General a period within which to consider the documents mentioned in paragraphs (6)(a) to (d) that is reasonable having regard to:
+             (9)  The Tribunal must allow the Inspector-General a period within which to consider the documents mentioned in paragraphs (6)(a) to (d) that is reasonable having regard to:
 
-                     (a)  the nature of the evidence that the Inspector‑General has been requested to give; and
+                     (a)  the nature of the evidence that the Inspector-General has been requested to give; and
 
-                     (b)  the time required by the Inspector‑General to perform the Inspector‑General’s other functions.
+                     (b)  the time required by the Inspector-General to perform the Inspector-General’s other functions.
 
            (10)  The fact that a person is obliged to produce a document under subsection (6) does not otherwise affect a claim of legal professional privilege that anyone may make in relation to that document.
 
@@ -4902,7 +4902,7 @@ Note:          For **_affected third party_**, see section 5
 
 ### Division 5—Protection of information in Tribunal
 
-##### <a id="63"></a>63  Tribunal to ensure non‑disclosure of certain matters
+##### <a id="63"></a>63  Tribunal to ensure non-disclosure of certain matters
 
              (1)  In determining whether the Tribunal is satisfied that it is desirable to make an order or orders under subsection 35(2) of the _Administrative Appeals Tribunal Act 1975_, the Tribunal must:
 
@@ -4934,7 +4934,7 @@ Note:          For **_affected third party_**, see section 5
 
                      (b)  a member of the staff of the Tribunal in the course of the performance of his or her duties as a member of that staff; or
 
-                     (c)  in the circumstances permitted under paragraph 60A(6)(a)—the Inspector‑General of Intelligence and Security.
+                     (c)  in the circumstances permitted under paragraph 60A(6)(a)—the Inspector-General of Intelligence and Security.
 
           (1A)  If, for the purposes of proceedings before the Tribunal under this Act in relation to a document that is claimed to be an exempt document, the document is voluntarily produced to the Tribunal, then only:
 
@@ -4950,11 +4950,11 @@ may inspect, or have access to, the document.
 
                      (b)  a member of the staff of the Tribunal in the course of the performance of his or her duties as a member of that staff; or
 
-                     (c)  in the circumstances permitted under paragraph 60A(6)(a)—the Inspector‑General of Intelligence and Security.
+                     (c)  in the circumstances permitted under paragraph 60A(6)(a)—the Inspector-General of Intelligence and Security.
 
 Note:          The Tribunal is not entitled, under this section, to require production of documents that are exempt under section 33 or 34, but is entitled to do so under section 58E if the Tribunal is not satisfied by evidence on affidavit or otherwise that the document is an exempt document.
 
-          (4A)  In making an order for the purposes of subsection (1) or (2), the Tribunal may require the relevant document to be produced at any time later than 28 days after the decision‑maker was given notice of the application, even if that time is before the Tribunal has begun to hear argument or otherwise deal with the matter.
+          (4A)  In making an order for the purposes of subsection (1) or (2), the Tribunal may require the relevant document to be produced at any time later than 28 days after the decision-maker was given notice of the application, even if that time is before the Tribunal has begun to hear argument or otherwise deal with the matter.
 
              (5)  Subsections (1), (1A) and (2) apply in relation to a document in the possession of a Minister that is claimed by the Minister not to be an official document of the Minister as if references in those subsections to an exempt document were references to a document in the possession of a Minister that is not an official document of the Minister.
 
@@ -5256,9 +5256,9 @@ Specific places and areas
 
                      (b)  the authorised person complies with any conditions specified in the approval.
 
-Places in respect of which Attorney‑General makes declaration
+Places in respect of which Attorney-General makes declaration
 
-             (3)  The Attorney‑General may, by notice in writing to the Information Commissioner, declare a place to be a prohibited place if the Attorney‑General is satisfied that the carrying on of an investigation at the place might prejudice the security or defence of the Commonwealth.
+             (3)  The Attorney-General may, by notice in writing to the Information Commissioner, declare a place to be a prohibited place if the Attorney-General is satisfied that the carrying on of an investigation at the place might prejudice the security or defence of the Commonwealth.
 
              (4)  If a declaration under subsection (3) is in force, an authorised person must not enter, or carry on an investigation at, the prohibited place unless:
 
@@ -5514,7 +5514,7 @@ Note:          Section 89D sets out further limitations on r
 
                      (d)  state the action that the Information Commissioner believes, if taken by the agency, would be adequate and appropriate in the circumstances to implement the investigation recommendations for the investigation.
 
-##### <a id="89C"></a>89C  Information Commissioner investigations—ensuring non‑disclosure of certain matters
+##### <a id="89C"></a>89C  Information Commissioner investigations—ensuring non-disclosure of certain matters
 
              (1)  This section applies to the following documents:
 
@@ -5560,7 +5560,7 @@ Restrictions on amendments
 
 ##### <a id="89E"></a>89E  Information Commissioner investigations—protection from civil action
 
-             (1)  Civil proceedings do not lie against a person in respect of loss, damage or injury of any kind suffered by another person because the first‑mentioned person complains about an action under section 70.
+             (1)  Civil proceedings do not lie against a person in respect of loss, damage or injury of any kind suffered by another person because the first-mentioned person complains about an action under section 70.
 
              (2)  Subsection (1) only applies if the complaint is made in good faith.
 
@@ -5586,7 +5586,7 @@ Note:          Subsection 25(1) deals with information about t
 
                      (a)  the Ombudsman has commenced an investigation of a decision made under this Act not to grant a request for access to a document; and
 
-                     (b)  the Attorney‑General furnishes a certificate to the Ombudsman under paragraph 9(3)(a), (c) or (d) of the _Ombudsman Act 1976_ in relation to that investigation.
+                     (b)  the Attorney-General furnishes a certificate to the Ombudsman under paragraph 9(3)(a), (c) or (d) of the _Ombudsman Act 1976_ in relation to that investigation.
 
              (2)  The certificate does not affect the Ombudsman’s right to:
 
@@ -5860,7 +5860,7 @@ Note:          This section commences immediately after the co
 
 ##### <a id="94"></a>94  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed, or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, making provision for or in relation to:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed, or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, making provision for or in relation to:
 
                      (a)  the making of charges of amounts, or at rates, fixed by or in accordance with the regulations in respect of requests for access to documents or in respect of the provision of access to documents (including the provision of copies or transcripts) in accordance with this Act, including requiring deposits on account of such charges; and
 
@@ -5882,7 +5882,7 @@ Note:          This section commences immediately after the co
 
              (3)  Where, as a result of a request, access is given to a document in respect of which the applicant would not be entitled to access under this Act, regulations under this Act relating to charges apply as if the applicant had been given access to that document in accordance with an entitlement under this Act.
 
-# Schedule 1—Courts and tribunals exempt in respect of non‑administrative matters
+# Schedule 1—Courts and tribunals exempt in respect of non-administrative matters
 
 _Section 6_
 
@@ -5927,7 +5927,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>Auditor‑General</div>
+    <div>Auditor-General</div>
   </td>
 </tr>
 <tr>
@@ -5952,7 +5952,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>Inspector‑General of Intelligence and Security</div>
+    <div>Inspector-General of Intelligence and Security</div>
   </td>
 </tr>
 <tr>
@@ -6000,23 +6000,23 @@ _Section 7_
 
 <tr>
   <td>
-    <div>Albury‑Wodonga Development Corporation, in relation to documents in respect of its commercial activities</div>
+    <div>Albury-Wodonga Development Corporation, in relation to documents in respect of its commercial activities</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Attorney‑General’s Department, in relation to:</div>
+    <div>Attorney-General’s Department, in relation to:</div>
     <div>(a) documents in respect of commercial activities it undertakes; and</div>
     <div>(b) documents in respect of commercial activities undertaken by the Australian Government Solicitor; and</div>
-      <div>(c) exempt content‑service documents concerning the performance of a function, or the exercise of a power, under Schedule 7 to the <i>Broadcasting Services Act 1992</i>; and</div>
-      <div>(d) exempt internet‑content documents concerning the performance of a function, or the exercise of a power, under Schedule 5 to that Act.</div>
+      <div>(c) exempt content-service documents concerning the performance of a function, or the exercise of a power, under Schedule 7 to the <i>Broadcasting Services Act 1992</i>; and</div>
+      <div>(d) exempt internet-content documents concerning the performance of a function, or the exercise of a power, under Schedule 5 to that Act.</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Australian Communications and Media Authority, in relation to:</div>
-    <div>(a) exempt content‑service documents concerning the performance of a function, or the exercise of a power, under Schedule 7 to the <i>Broadcasting Services Act 1992</i>; and</div>
-    <div>(b) exempt internet‑content documents concerning the performance of a function, or the exercise of a power, under Schedule 5 to that Act.</div>
+    <div>(a) exempt content-service documents concerning the performance of a function, or the exercise of a power, under Schedule 7 to the <i>Broadcasting Services Act 1992</i>; and</div>
+    <div>(b) exempt internet-content documents concerning the performance of a function, or the exercise of a power, under Schedule 5 to that Act.</div>
   </td>
 </tr>
 <tr>
@@ -6036,21 +6036,21 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>Australian Transaction Reports and Analysis Centre, in relation to documents concerning information communicated to it under section 16 of the <i>Financial Transaction Reports Act 1988</i>or section 41 or 49 of the <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i></div>
+    <div>Australian Transaction Reports and Analysis Centre, in relation to documents concerning information communicated to it under section 16 of the <i>Financial Transaction Reports Act 1988</i>or section 41 or 49 of the <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i></div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Classification Board, in relation to:</div>
-    <div>(a) exempt content‑service documents concerning the performance of a function, or the exercise of a power, under Schedule 7 to the <i>Broadcasting Services Act 1992</i>; and</div>
-    <div>(b) exempt internet‑content documents concerning the performance of a function, or the exercise of a power, under Schedule 5 to that Act.</div>
+    <div>(a) exempt content-service documents concerning the performance of a function, or the exercise of a power, under Schedule 7 to the <i>Broadcasting Services Act 1992</i>; and</div>
+    <div>(b) exempt internet-content documents concerning the performance of a function, or the exercise of a power, under Schedule 5 to that Act.</div>
   </td>
 </tr>
 <tr>
   <td>
     <div>Classification Review Board, in relation to:</div>
-    <div>(a) exempt content‑service documents concerning the performance of a function, or the exercise of a power, under Schedule 7 to the <i>Broadcasting Services Act 1992</i>; and</div>
-    <div>(b) exempt internet‑content documents concerning the performance of a function, or the exercise of a power, under Schedule 5 to that Act.</div>
+    <div>(a) exempt content-service documents concerning the performance of a function, or the exercise of a power, under Schedule 7 to the <i>Broadcasting Services Act 1992</i>; and</div>
+    <div>(b) exempt internet-content documents concerning the performance of a function, or the exercise of a power, under Schedule 5 to that Act.</div>
   </td>
 </tr>
 <tr>
@@ -6165,7 +6165,7 @@ _Section 38_
 
 <tr>
   <td>
-    <div><i>Aged Care Act 1997</i>, subsection 86‑2(1) and sections 86‑5, 86‑6 and 86‑7.</div>
+    <div><i>Aged Care Act 1997</i>, subsection 86-2(1) and sections 86-5, 86-6 and 86-7.</div>
   </td>
 </tr>
 <tr>
@@ -6230,7 +6230,7 @@ _Section 38_
 </tr>
 <tr>
   <td>
-    <div><i>Inspector‑General of Taxation Act 2003</i>, section 37</div>
+    <div><i>Inspector-General of Taxation Act 2003</i>, section 37</div>
   </td>
 </tr>
 <tr>
@@ -6260,12 +6260,12 @@ _Section 38_
 </tr>
 <tr>
   <td>
-    <div><i>Private Health Insurance Act 2007</i>, sections 323‑1 and 323‑40</div>
+    <div><i>Private Health Insurance Act 2007</i>, sections 323-1 and 323-40</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><i>Taxation Administration Act 1953</i>, sections 355‑25, 355‑155 and 355‑265 in Schedule 1.</div>
+    <div><i>Taxation Administration Act 1953</i>, sections 355-25, 355-155 and 355-265 in Schedule 1.</div>
   </td>
 </tr>
 <tr>
@@ -6321,7 +6321,7 @@ For application, saving or transitional provisions made by Schedule 7 of the _Fr
 
 All relevant information pertaining to application, saving or transitional provisions prior to 15 July 2003 is not included in this compilation. For subsequent information _see_ Table A.
 
-The _Freedom of Information Act 1982_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (SR 1989 No. 3 as amended) _see_ Table B.
+The _Freedom of Information Act 1982_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (SR 1989 No. 3 as amended) _see_ Table B.
 
 ### Table of Acts
 
@@ -6516,7 +6516,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2(2) and <i>Gazette</i>1989, No. S53)</div>
 </tr>
 <tr>
   <td>
-    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
+    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
   </td>
   <td>
     <div>109, 1988</div>
@@ -7371,7 +7371,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Inspector‑General of Taxation Act 2003</div>
+    <div>Inspector-General of Taxation Act 2003</div>
   </td>
   <td>
     <div>28, 2003</div>
@@ -7668,7 +7668,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
+    <div>Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
   </td>
   <td>
     <div>170, 2006</div>
@@ -7959,7 +7959,7 @@ _(b)_     The _Freedom of Information Act 1982_ was amended by the Sched
 
 _(c)_     The _Freedom of Information Act 1982_ was amended by Schedule 2 (item 5) only of the _AIDC Sale Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedule 2 commences on a day to be fixed by Proclamation. The day must not be earlier than the day on which the Minister gives the Governor‑General a written certificate stating that the Minister is satisfied that the Australian Industry Development Corporation has no assets and no liabilities. [_see_ Note 2]
+                 (2)   Schedule 2 commences on a day to be fixed by Proclamation. The day must not be earlier than the day on which the Minister gives the Governor-General a written certificate stating that the Minister is satisfied that the Australian Industry Development Corporation has no assets and no liabilities. [_see_ Note 2]
 
 _(d)_     The _Freedom of Information Act 1982_ was amended by Schedule 5 (item 3) only of the _Aged Care (Consequential Provisions) Act 1997_, subsection 2(1) of which provides as follows:
 
@@ -11210,7 +11210,7 @@ An agency must publish a range of information including information about what t
 
 In addition, an agency may publish other information held by the agency.
 
-Information published by an agency must be kept accurate, up‑to‑date and complete.
+Information published by an agency must be kept accurate, up-to-date and complete.
 
 An agency is not required to publish exempt matter. An agency is also not required to publish information if prohibited by another enactment.
 
@@ -11246,7 +11246,7 @@ Information that must be published
 
                      (b)  details of the structure of the agency’s organisation (for example, in the form of an organisation chart);
 
-                     (c)  as far as practicable, details of the functions of the agency, including its decision‑making powers and other powers affecting members of the public (or any particular person or entity, or class of persons or entities);
+                     (c)  as far as practicable, details of the functions of the agency, including its decision-making powers and other powers affecting members of the public (or any particular person or entity, or class of persons or entities);
 
                      (d)  details of appointments of officers of the agency that are made under Acts (other than APS employees within the meaning of the _Public Service Act 1999_);
 
@@ -11294,7 +11294,7 @@ Example:    The agency’s rules, guidelines, practices and precedents rel
 
 ##### <a id="8B"></a>8B  Information to be published—accuracy etc.
 
-                   An agency must ensure that information published by the agency as required or permitted by this Part is accurate, up‑to‑date and complete.
+                   An agency must ensure that information published by the agency as required or permitted by this Part is accurate, up-to-date and complete.
 
 ##### <a id="8C"></a>8C  Information to be published—restrictions
 
@@ -11560,7 +11560,7 @@ Add:
 
 ##### <a id="10B"></a>10B  Transitional—Norfolk Island authorities
 
-                   This Part does not apply to a Norfolk Island authority at any time during the 2‑year period beginning at the commencement of this section.
+                   This Part does not apply to a Norfolk Island authority at any time during the 2-year period beginning at the commencement of this section.
 
 As at 1 January 2011 the amendments are not incorporated in this compilation.
 
@@ -11664,17 +11664,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -11715,7 +11715,7 @@ _Classification (Publications, Films and Computer Games) Amendment Act 2007
 
 ## 22  Application provision—exempt documents
 
-The amendment made by item 14 of this Schedule applies to exempt Internet‑content documents on or after the commencement of that item, whether the documents came into existence before, on or after commencement of that item.
+The amendment made by item 14 of this Schedule applies to exempt Internet-content documents on or after the commencement of that item, whether the documents came into existence before, on or after commencement of that item.
 
 * * *
 
@@ -11833,7 +11833,7 @@ _Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010 (No. 14
 
 ### Modifications
 
-_A.C.T. Self‑Government (Consequential Provisions) Regulations_
+_A.C.T. Self-Government (Consequential Provisions) Regulations_
 
 ## Schedule 1
 
