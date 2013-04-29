@@ -1,19 +1,17 @@
-![](http://www.comlaw.gov.au/Details/C2004C01842/Html/AlburyWodongaDev73_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01841/Html/AlburyWodDev73_image001.jpg)
 
 # Albury-Wodonga Development Act 1973
 
 **Act No. 189 of 1973 as amended**
 
-This compilation was prepared on 2 June 2000 
- taking into account amendments up to Act No. 46 of 2000
+Consolidated as in force on 4 January 2000
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+(includes amendments up to Act No. 146 of 1999)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
-# Contents
+## Contents
 
 **Part I—Preliminary**
 
@@ -27,173 +25,139 @@ Prepared by the Office of Legislative Drafting,
 
 [5](#5).            Powers of Australian Minister [_see_ Note 2]                                       2
 
-**Part IA—Albury-Wodonga Area Development Winding-up Agreement**
-
-[5A](#5A).         Approved form of winding-up agreement                                           3
-
-[5B](#5B).         Approval of winding-up agreement                                                     3
-
-[5C](#5C).         When winding-up agreement takes effect                                            4
-
-[5D](#5D).         Termination of the original Commonwealth/State agreement              4
-
 **Part II—Albury-Wodonga Area Development Agreement**
 
-[6](#6).            Approval of agreement                                                                        5
+[6](#6).            Approval of agreement                                                                        3
 
-[6A](#6A).         Approval of amendment agreement                                                     5
+[6A](#6A).         Approval of amendment agreement                                                     3
 
-[6B](#6B).         Approval of second amendment agreement                                         5
+[6B](#6B).         Approval of second amendment agreement                                         3
 
 **Part III—Establishment, functions and powers of the Albury-Wodonga Development Corporation**
 
-[7](#7).            Albury-Wodonga Development Corporation                                      6
+[7](#7).            Albury-Wodonga Development Corporation                                      4
 
-[8](#8).            Functions and powers of Corporation                                                6
+[8](#8).            Functions and powers of Corporation                                                4
 
-[8A](#8A).         Chief executive officer’s function                                                        7
+[8A](#8A).         Chief executive officer’s function                                                        5
 
 **Part IV—Constitution and meetings of the Corporation**
 
-[9](#9).            Nature of Corporation                                                                         8
+[9](#9).            Nature of Corporation                                                                         6
 
-[9A](#9A).         _Commonwealth Authorities and Companies Act 1997_ does not apply to Corporation         8
+[9A](#9A).         Commonwealth _Authorities and Companies Act 1997_ does not apply to Corporation        6
 
-[10](#10).          Composition of Corporation                                                               8
+[10](#10).          Composition of Corporation                                                               6
 
-[10A](#10A).       Appointment of chief executive officer                                               9
+[10A](#10A).       Appointment of chief executive officer                                               7
 
-[11](#11).          Period of appointment of appointed members                                    9
+[11](#11).          Period of appointment of appointed members                                    7
 
-[12](#12).          Remuneration and allowances for appointed members                       9
+[12](#12).          Remuneration and allowances for appointed members                       7
 
-[14](#14).          Resignation of members                                                                     10
+[14](#14).          Resignation of members                                                                       8
 
-[15](#15).          Dismissal of appointed members                                                      10
+[15](#15).          Dismissal of appointed members                                                        8
 
-[16](#16).          Disclosure of interest by members                                                    11
+[16](#16).          Disclosure of interest by members                                                      9
 
-[17](#17).          Condition of service—appointed member                                         11
+[17](#17).          Condition of service—appointed member                                           9
 
-[18](#18).          Acting appointments                                                                         12
+[18](#18).          Acting appointments                                                                         10
 
-[19](#19).          Meetings                                                                                            13
+[19](#19).          Meetings                                                                                            11
 
-[20](#20).          Delegation                                                                                          14
+[20](#20).          Delegation                                                                                          12
 
 **Part V—Staff**
 
-[21](#21).          Officers and employees                                                                     15
+[21](#21).          Officers and employees                                                                     13
 
 **Part VI—Finance**
 
-[24](#24).          Moneys available to Corporation                                                      16
+[24](#24).          Moneys available to Corporation                                                      14
 
-[25](#25).          Grants to Corporation                                                                       16
+[25](#25).          Grants to Corporation                                                                       14
 
-[26](#26).          Borrowing by Corporation                                                                16
+[26](#26).          Borrowing by Corporation                                                                14
 
-[27](#27).          Bank accounts                                                                                    17
+[27](#27).          Bank accounts                                                                                    15
 
-[28](#28).          Application of moneys                                                                      17
+[28](#28).          Application of moneys                                                                      15
 
-[29](#29).          Power to enter contracts                                                                    17
+[29](#29).          Power to enter contracts                                                                    15
 
-[30](#30).          Audit                                                                                                  17
+[30](#30).          Audit                                                                                                  15
 
-[31](#31).          Liability to taxation                                                                           18
+[31](#31).          Liability to taxation                                                                           16
 
 **Part VII—Miscellaneous**
 
-[32](#32).          Annual Report                                                                                   19
+[32](#32).          Annual Report                                                                                   17
 
-[33](#33).          Annual financial statement                                                                19
+[33](#33).          Annual financial statement                                                                17
 
-[34](#34).          Regulations                                                                                        20
+[34](#34).          Regulations                                                                                        18
 
 **Schedule 1—Albury-Wodonga Area Development Agreement** 
 
 **PART I—GENERAL**
 
-[Definitions](#Definitions).                                                                                                       22
+[Definitions](#Definitions).                                                                                                       19
 
-[Commencement](#Commencement).                                                                                               23
+[Commencement](#Commencement).                                                                                               20
 
-[Albury-Wodonga Area](#Albury-Wodonga Area).                                                                                    24
+[Albury-Wodonga Area](#Albury-Wodonga Area).                                                                                    22
 
 **PART II—ORGANIZATION**
 
-[Ministerial Council](#Ministerial Council).                                                                                          29
+[Ministerial Council](#Ministerial Council).                                                                                          25
 
-[Development Corporation](#Development Corporation).                                                                               30
+[Development Corporation](#Development Corporation).                                                                               26
 
-[Staff of Development Corporation](#Staff of Development Corporation).                                                                  33
+[Staff of Development Corporation](#Staff of Development Corporation).                                                                  29
 
-[State Corporations](#State Corporations).                                                                                           33
+[State Corporations](#State Corporations).                                                                                           30
 
-[Consultative Council](#Consultative Council).                                                                                       35
+[Consultative Council](#Consultative Council).                                                                                       31
 
 **PART III—DEVELOPMENT PLAN AND GENERAL FINANCIAL ARRANGEMENTS**
 
-[Development Plan and Financial Programme](#Development Plan and Financial Programme).                                                  37
+[Development Plan and Financial Programme](#Development Plan and Financial Programme).                                                  33
 
-[Operating Expenses of Development Corporation](#Operating Expenses of Development Corporation).                                         42
+[Operating Expenses of Development Corporation](#Operating Expenses of Development Corporation).                                         38
 
-[Accounts of Corporations](#Accounts of Corporations).                                                                               43
+[Accounts of Corporations](#Accounts of Corporations).                                                                               39
 
-[Revenue and Repayment of Loans](#Revenue and Repayment of Loans).                                                                  43
+[Revenue and Repayment of Loans](#Revenue and Repayment of Loans).                                                                  39
 
 **PART IV—RESPONSIBILITY FOR ASSETS**
 
-[Responsibility of Corporations for Sites and Buildings](#Responsibility of Corporations for Sites and Buildings).                                  45
+[Responsibility of Corporations for Sites and Buildings](#Responsibility of Corporations for Sites and Buildings).                                  40
 
 **Schedule 2—Albury-Wodonga Area Development Agreement Amendment Agreement (No. 1)**
 
-[Definitions](#Definitions).                                                                                                       46
+[Definitions](#Definitions).                                                                                                       42
 
-[Development Corporation](#Development Corporation).                                                                               47
+[Development Corporation](#Development Corporation).                                                                               43
 
-[State Corporations](#State Corporations).                                                                                           49
+[State Corporations](#State Corporations).                                                                                           45
 
-[Consultative Council Advisory Committees](#Consultative Council Advisory Committees).                                                   51
+[Consultative Council Advisory Committees](#Consultative Council Advisory Committees).                                                   47
 
-[Operating Expenses of Development Corporation](#Operating Expenses of Development Corporation).                                         51
+[Operating Expenses of Development Corporation](#Operating Expenses of Development Corporation).                                         47
 
 **Schedule 3—Albury-Wodonga Area Development Agreement Amendment Agreement (No. 2)**
 
-[Definitions](#Definitions).                                                                                                       53
+[Definitions](#Definitions).                                                                                                       49
 
-[Ministerial Council](#Ministerial Council).                                                                                          54
+[Ministerial Council](#Ministerial Council).                                                                                          50
 
-[Development Corporation](#Development Corporation).                                                                               54
+[Development Corporation](#Development Corporation).                                                                               50
 
-[State Corporations](#State Corporations).                                                                                           58
+[State Corporations](#State Corporations).                                                                                           54
 
-**Notes to the _Albury-Wodonga Development Act 1973_**
-
-[20](#20).          Delegation by Corporation                                                                76
-
-**Part IVA—Winding-up plan and annual operational plans**
-
-[20A](#20A).       Winding-up plan                                                                                76
-
-[20B](#20B).       Annual operational plans                                                                   77
-
-**Part IVB—Transfers of assets, contracts and liabilities from State bodies to the Corporation**
-
-[20C](#20C).       Definitions                                                                                         78
-
-[20D](#20D).       Transfer of assets to Corporation                                                     78
-
-[20E](#20E).        Transfer of contractual rights and obligations to Corporation          79
-
-[20F](#20F).        Transfer of liabilities to Corporation                                                 81
-
-[20G](#20G).       This Part does not authorise the imposition of taxation                   82
-
-[20H](#20H).       Compensation—constitutional safety-net                                        82
-
-[31A](#31A).       Delegation by Minister                                                                      83
+**Notes** 
 
 ## An Act relating to the Development of the Albury-Wodonga Area
 
@@ -233,8 +197,6 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="member"></a>**_member_** means a member of the Corporation.
 
-                    <a name="wind-agreem"></a>**_Winding-up Agreement_** means the Albury-Wodonga Area Development Winding-up Agreement approved by subsection 5B(1).
-
              (2)  Unless the contrary intention appears, expressions defined by the Agreement have the same respective meanings in this Act as they have in the Agreement.
 
 ##### <a id="4"></a>4  Act to bind Crown
@@ -246,42 +208,6 @@ Prepared by the Office of Legislative Drafting,
              (1)  Where functions and powers (including functions and powers referred to in subsection (2)) are conferred on the Australian Minister by this Act, the Minister shall exercise them in accordance with the Agreement.
 
              (2)  The Australian Minister may exercise all or any of the functions and powers relating to a designated area conferred on him or her by or under a State Act.
-
-## Part IA—Albury-Wodonga Area Development Winding-up Agreement
-
-##### <a id="5A"></a>5A  Approved form of winding-up agreement
-
-             (1)  The Minister may make a written determination that a specified form of agreement is the **_approved form of winding-up agreement_** for the purposes of this Part.
-
-             (2)  The Minister must cause a copy of the determination to be tabled in each House of the Parliament.
-
-             (3)  Either House may, following a motion upon notice, pass a resolution disallowing the determination. To be effective, the resolution must be passed within 15 sitting days of the House after the copy of the determination was tabled in the House.
-
-             (4)  If neither House passes such a resolution, the determination takes effect on the day immediately after the last day upon which such a resolution could have been passed.
-
-             (5)  Subsections (3) and (4) have effect despite anything in:
-
-                     (a)  the _Acts Interpretation Act 1901_; or
-
-                     (b)  the _Legislative Instruments Act 2000_.
-
-##### <a id="5B"></a>5B  Approval of winding-up agreement
-
-             (1)  If an agreement substantially in accordance with the approved form of winding-up agreement is signed by or on behalf of the Commonwealth, New South Wales and Victoria, the agreement is approved by the Parliament.
-
-             (2)  The agreement approved by subsection (1) is to be known as the **_Albury-Wodonga Area Development Winding-up Agreement_**.
-
-##### <a id="5C"></a>5C  When winding-up agreement takes effect
-
-                   The Winding-up Agreement may be expressed to take effect on the commencement of Part 2 of Schedule 1 to the _Albury-Wodonga Development Amendment Act 2000_.
-
-##### <a id="5D"></a>5D  Termination of the original Commonwealth/State agreement
-
-             (1)  The Winding-up Agreement is to make provision for the termination of the original Commonwealth/State agreement, with effect from the commencement of Part 2 of Schedule 1 to the _Albury-Wodonga Development Amendment Act 2000_.
-
-             (2)  In this section:
-
-                    <a name="origin-commonwealth-state-agreem"></a>**_original Commonwealth/State agreement_** means the Agreement (as defined by subsection 3(1) as in force at the commencement of this section).
 
 ## Part II—Albury-Wodonga Area Development Agreement
 
@@ -401,7 +327,7 @@ Prepared by the Office of Legislative Drafting,
 
              (3)  If an appointed member is a person who, if he or she were paid remuneration or allowances under this section, would cease to hold an office or position or cease to be entitled to a pension or other moneys, other than a pension or moneys payable under the _Social Security Act 1991_, the _Veterans’ Entitlements Act 1986_ or a prescribed law of the Commonwealth or of a State or Territory, the member shall not be paid remuneration or allowances under this section, but shall, subject to the approval of the Australian Minister, be reimbursed such expenses as are reasonably incurred by reason of the person being a member.
 
-             (4)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+             (4)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="14"></a>14  Resignation of members
 
@@ -413,7 +339,7 @@ Prepared by the Office of Legislative Drafting,
 
              (2)  If an appointed member:
 
-                     (c)  is absent, except on leave granted by the Corporation, from 3 consecutive meetings of the Corporation;
+                     (c)  is absent, except on leave granted by the Corporation, from 3 consecutive meetings of the Corporation;
 
                      (d)  becomes bankrupt or applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 
@@ -653,7 +579,7 @@ AND WHEREAS the intentions of the three Governments are—
 
 NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:— 
 
-## PART I—GENERAL
+## <span style="font-weight:normal">PART I</span>—<span class="CharPartText">GENERAL</span>
 
 ##### Definitions 
 
@@ -801,7 +727,7 @@ for the purpose of giving effect to this agreement.
 
           (c)     a reference to the Governor of Victoria is a reference to the person administering the Government of Victoria with the advice of the Executive Council of that State at the date of the relevant proclamation or the giving of the relevant approval, as the case may be. 
 
-## PART II—ORGANIZATION
+## <span style="font-weight:normal">PART II</span>—<span class="CharPartText">ORGANIZATION</span>
 
 ##### Ministerial Council 
 
@@ -983,7 +909,7 @@ each of which will be a corporation aggregate consisting of three members appoin
 
 (7)   The Development Corporation shall make suitable arrangements for secretarial services for and meetings of the Consultative Council. 
 
-## PART III—DEVELOPMENT PLAN AND GENERAL FINANCIAL ARRANGEMENTS
+## <span style="font-weight:normal">PART III</span>—<span class="CharPartText">DEVELOPMENT PLAN AND GENERAL FINANCIAL ARRANGEMENTS</span>
 
 ##### Development Plan and Financial Programme 
 
@@ -1133,7 +1059,7 @@ each of which will be a corporation aggregate consisting of three members appoin
 
           (c)     the three Governments will consult to determine whether the outstanding balance should be dealt with otherwise than on the basis referred to in paragraph (b) of this sub-clause.
 
-## PART IV—RESPONSIBILITY FOR ASSETS
+## <span style="font-weight:normal">PART IV</span>—<span style="font-weight:normal">RESPONSIBILITY FOR ASSETS</span>
 
 ##### Responsibility of Corporations for Sites and Buildings
 
@@ -1153,7 +1079,7 @@ IN WITNESS WHEREOF this agreement has been respectively signed for and on behalf
 <tr>
   <td></td>
   <td>
-    <img width="473" height="324" src="http://www.comlaw.gov.au/Details/C2004C01842/Html/AlburyWodongaDev73_image002.gif">
+    <img width="473" height="324" src="http://www.comlaw.gov.au/Details/C2004C01841/Html/AlburyWodDev73_image002.gif">
   </td>
 </tr></table>    
 
@@ -1277,7 +1203,7 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
 IN WITNESS WHEREOF this agreement has been respectively signed for and on behalf of the parties hereto on the day and year first above-written.
 
-![](http://www.comlaw.gov.au/Details/C2004C01842/Html/AlburyWodongaDev73_image003.gif) 
+![](http://www.comlaw.gov.au/Details/C2004C01841/Html/AlburyWodDev73_image003.gif) 
 
 # Schedule 3—Albury-Wodonga Area Development Agreement Amendment Agreement (No. 2) 
 
@@ -1488,9 +1414,7 @@ NOW IT IS HEREBY AGREED by and between the parties to this agreement as follows:
 
 ### Note 1
 
-The _Albury-Wodonga Development Act 1973_ as shown in this compilation comprises Act No. 189, 1973 amended as indicated in the Tables below.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 3 May 2000 is not included in this compilation. For subsequent information _see_ Table A.
+The _Albury-Wodonga Development Act 1973_ as shown in this consolidation comprises Act No. 189, 1973 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -1779,93 +1703,45 @@ Remainder: 17 Feb 1992 ( <i>see Gazette</i>1992, No. S48)</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Albury-Wodonga Development Amendment Act 2000</div>
-  </td>
-  <td>
-    <div>46, 2000</div>
-  </td>
-  <td>
-    <div>3 May 2000</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 3-71): \[ <i>see (i)</i>, Note 3 and Table A] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 65-71) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
  
 
 _(a)_     The _Albury-Wodonga Development Act 1973_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
-                 (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
+                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 
 _(b)_    The _Albury-Wodonga Development Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows: 
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(c)_     The _Albury-Wodonga Development Amendment Act 1991_ was amended by Schedule 3 (items 1, 2) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
-                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
 _(d)_     The _Albury-Wodonga Development Act 1973_ was amended by section 6 only of the _Social Security (Rewrite) Transition Act 1991_, section 2 of which provides as follows:
 
-                   2.   This Act commences immediately after the _Social Security Act 1991_ commences.
+                    2.   This Act commences immediately after the _Social Security Act 1991_ commences.
 
          The _Social Security Act 1991_ commenced on 1 July 1991.
 
 _(e)_     The _Albury-Wodonga Development Act 1973_ was amended by Part 4 (section 60) only of the _Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
 
-                 (1)   Part 1, Divisions I and II of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent.
+                  (1)   Part 1, Divisions I and II of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent.
 
 _(f)_      The _Albury-Wodonga Development Act 1973_ was amended by Schedule 4 (item 8) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
 _(g)_     The _Albury-Wodonga Development Act 1973_ was amended by Schedule 2 (items 154-156) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997._
+                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997._
 
 _(h)_     The _Albury-Wodonga Development Act 1973_ was amended by Schedule 1 (items 86-91) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
-                 (2)   Subject to this section, this Act commences at the commencing time.
-
-_(i)_      The _Albury-Wodonga Development Act 1973_ was amended by Schedule 1 only of the _Albury-Wodonga Development Amendment Act 2000_, Section 2 of which provides as follows:
-
-                 (1)   The following provisions of this Act commence on the day on which this Act receives the Royal Assent:
-
-                              (a)   sections 1, 2 and 3;
-
-                              (b)   Part 1 of Schedule 1;
-
-                              (c)   Schedule 2.
-
-                 (2)   Part 2 of Schedule 1 to this Act commences on a day to be fixed by Proclamation. [_see_ Note 3]
-
-                 (3)   The day fixed by Proclamation for the purposes of subsection (2) must not be a day earlier than the day on which the Albury-Wodonga Area Development Winding-up Agreement is signed by the parties to that agreement. [_see_ Note 3]
-
-                 (4)   If Part 2 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months after whichever is the latest of the following days:
-
-                              (a)   the day on which the NSW Repeal Act receives the Royal Assent (however described);
-
-                              (b)   the day on which the Victorian Repeal Act receives the Royal Assent (however described);
-
-                              (c)   the day on which the Albury-Wodonga Area Development Winding-up Agreement is signed on behalf of the parties to the agreement;
-
-                         Part 2 of Schedule 1 to this Act commences on the first day after the end of that period. [_see_ Note 3]
-
-                 (5)   In this section:
-
-**_NSW Repeal Act_** means an Act of New South Wales that repeals the_Albury-Wodonga Development Act 1974_ of New South Wales.
-
-**_Victorian Repeal Act_** means an Act of Victoria that repeals the _Albury-Wodonga Agreement Act 1973_ of Victoria.
+                  (2)   Subject to this section, this Act commences at the commencing time.
 
  
 
@@ -1895,7 +1771,7 @@ _(i)_      The _Albury-Wodonga Development Act 1973_ was amended by Sc
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 96, 1979; No. 60, 1991; No. 146, 1999; No. 46, 2000</div>
+    <div>am. No. 96, 1979; No. 60, 1991; No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1912,23 +1788,6 @@ _(i)_      The _Albury-Wodonga Development Act 1973_ was amended by Sc
   </td>
   <td>
     <div>am. No. 60, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IA 
-(ss. 5A-5D)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 5A-5D</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2000</div>
   </td>
 </tr>
 <tr>
@@ -2220,626 +2079,6 @@ Omit “Chairman” (wherever occurring), substitute “Chair”.
 
 Omit “Chairmen”, substitute “Chairs”.
 
-The proposed amendments were misdescribed and are not incorporated in this compilation.
-
-### Note 3
-
-_Albury-Wodonga Development Amendment Act 2000 (No. 46, 2000)_
-
-The following amendments commence 6 months after a prescribed date, if not proclaimed earlier:
-
-## Schedule 1
-
-## 3  Subsection 3(1) (definition of _Agreement_)
-
-Repeal the definition.
-
-## 4  Subsection 3(1)
-
-Insert:
-
-                    <a name="annual-oper-plan"></a>**_annual operational plan_** means a plan prepared under subsection 20B(1).
-
-## 5  Subsection 3(1)
-
-Insert:
-
-                    <a name="asset"></a>**_asset_** includes:
-
-                     (a)  any legal or equitable estate or interest in real or personal property, whether actual, contingent or prospective; and 
-
-                     (b)  any right, power, privilege or immunity, whether actual, contingent or prospective.
-
-## 6  Subsection 3(1) (definition of _Council representative_)
-
-Repeal the definition.
-
-## 7  Subsection 3(1) (definition of _Deputy Chairperson_)
-
-Repeal the definition.
-
-## 8  Subsection 3(1) (definition of _executive member_)
-
-Repeal the definition.
-
-## 9  Subsection 3(1)
-
-Insert:
-
-                    <a name="joint-commonwealth-state-scheme"></a>**_joint Commonwealth/State scheme_** means the scheme:
-
-                     (a)  under which the Commonwealth, New South Wales and Victoria agreed that:
-
-                              (i)  a new integrated urban complex be developed by the extension of existing urban areas of Albury and Wodonga and the creation of new urban areas in the Albury-Wodonga region; and
-
-                             (ii)  amenities and services be provided to foster and serve that urban complex; and
-
-                     (b)  that had as one of its elements the establishment of the Corporation by this Act.
-
-## 10  Subsection 3(1)
-
-Insert:
-
-                    <a name="land"></a>**_land_** includes an interest in land.
-
-## 11  Subsection 3(1)
-
-Insert:
-
-                    <a name="liabil"></a>**_liability_** means any liability, duty or obligation, whether actual, contingent or prospective.
-
-## 12  Subsection 3(1)
-
-Insert:
-
-                    <a name="wind-plan"></a>**_winding-up plan_** means a plan prepared under subsection 20A(1).
-
-## 13  Subsection 3(2)
-
-Repeal the subsection.
-
-## 14  Section 5
-
-Repeal the section.
-
-## 15  Part II
-
-Repeal the Part.
-
-## 16  Paragraphs 8(1)(a), (b), (c), (d) and (e)
-
-Repeal the paragraphs, substitute:
-
-                     (a)  to prepare the Corporation, over a period ascertained in accordance with the Winding-up Agreement, for abolition by a future Act; and
-
-                     (b)  for the purposes of preparing the Corporation for abolition as mentioned in paragraph (a), to dispose of the assets of the Corporation; and
-
-                     (c)  to assist the Commonwealth and other persons in connection with the winding-up of the Corporation and the joint Commonwealth/State scheme; and
-
-                     (d)  for the purposes of facilitating the winding-up of the Corporation and the joint Commonwealth/State scheme:
-
-                              (i)  to acquire assets that were previously held by the Albury-Wodonga (New South Wales) Corporation or the Albury-Wodonga (Victoria) Corporation; and
-
-                             (ii)  to hold such assets; and
-
-                            (iii)  to prepare such assets for disposal (including by way of developing or improving such assets); and
-
-                            (iv)  to dispose of such assets; and
-
-                     (e)  if requested by or on behalf of the Commonwealth, or by or on behalf of an authority of the Commonwealth, to do so—to act as the agent of the Commonwealth, or the authority of the Commonwealth, in relation to the disposal of land in the Albury-Wodonga region.
-
-## 17  Subsection 8(2)
-
-Omit all the words after “has” (second occurring), substitute:
-
-power:
-
-                     (a)  to enter into contracts and agreements; and
-
-                     (b)  either directly or by arrangement with other persons, to construct buildings and works and carry on services.
-
-## 18  Subsection 8(3)
-
-Omit “Australian”.
-
-## 19  Subsection 8(3)
-
-Omit “Agreement”, substitute “Winding-up Agreement”.
-
-## 20  Subsection 8(5)
-
-Repeal the subsection, substitute:
-
-             (5)  For the purposes of subsection (3), each of the following purposes is taken to be a purpose that is complementary to this Act:
-
-                     (a)  the purpose of facilitating the disposal of the assets of the Corporation;
-
-                     (b)  the purpose of facilitating the winding-up of the Corporation;
-
-                     (c)  the purpose of facilitating the winding-up of the joint Commonwealth/State scheme.
-
-          (5A)  For the purposes of subsection (3), if an Act of New South Wales, or a part of such an Act, confers or imposes on the Corporation functions, powers or duties of a kind that were previously conferred or imposed on the Albury-Wodonga (New South Wales) Corporation, that Act or that part of that Act, as the case may be, is taken to confer or impose those functions, powers or duties for purposes that are complementary to this Act.
-
-          (5B)  For the purposes of subsection (3), if an Act of Victoria, or a part of such an Act, confers or imposes on the Corporation functions, powers or duties of a kind that were previously conferred or imposed on the Albury-Wodonga (Victoria) Corporation, that Act or that part of that Act, as the case may be, is taken to confer or impose those functions, powers or duties for purposes that are complementary to this Act.
-
-## 21  Subsection 8(6)
-
-Omit “directions given to it by the Ministerial Council”, substitute “written directions given to it by the Minister”.
-
-## 22  Subsection 8(7)
-
-Omit “Agreement”, substitute “Winding-up Agreement”.
-
-## 23  At the end of section 8
-
-Add:
-
-             (9)  To avoid doubt, a reference in subsection (1) to:
-
-                     (a)  the abolition or winding-up of the Corporation; or
-
-                     (b)  the winding-up of the joint Commonwealth/State scheme;
-
-does not, by implication:
-
-                     (c)  require the Corporation to dispose of all of its assets; or
-
-                     (d)  prevent functions, powers or duties being conferred or imposed on the Corporation by a law of New South Wales or Victoria.
-
-           (10)  It is the intention of the Parliament that subsection (1) is not to apply to the exclusion of a law of New South Wales or Victoria to the extent to which that law is capable of operating concurrently with that subsection.
-
-## 24  Paragraphs 10(1)(b), (c) and (d)
-
-Repeal the paragraphs.
-
-## 25  Subsections 10(3) and (4)
-
-Repeal the subsections, substitute:
-
-             (3)  A person is not to be appointed as:
-
-                     (a)  the Chairperson; or
-
-                     (b)  a member referred to in paragraph (1)(e);
-
-unless he or she appears to the Minister to be qualified for appointment because of his or her knowledge and understanding of issues relating to the development of the Albury-Wodonga region.
-
-## 26  Subsections 10(7) and (8)
-
-Repeal the subsections.
-
-## 27  Subsection 11(3)
-
-Repeal the subsection.
-
-## 28  Subsection 12(3)
-
-Omit “Australian”.
-
-## 29  Paragraph 15(2)(f)
-
-Omit “being an executive member,”.
-
-## 30  Paragraph 16(1)(b)
-
-Omit “Area”, substitute “Albury-Wodonga region”.
-
-## 31  Subsection 16(2)
-
-Omit “Ministerial Council”, substitute “Minister”.
-
-## 32  Section 17
-
-Omit “Ministerial Council”, substitute “Minister”.
-
-## 33  Subsection 18(1)
-
-Omit “Subject to subsection (2), where”, substitute “Where”.
-
-## 34  Subsection 18(1)
-
-Omit “or a Deputy Chairperson”.
-
-## 35  Subsection 18(1)
-
-Omit “or an office of Deputy Chairperson”.
-
-## 36  Subsection 18(1)
-
-Omit “Australian”.
-
-## 37  Subsection 18(1)
-
-Omit “or acting Deputy Chairperson”.
-
-## 38  Subsection 18(2)
-
-Repeal the subsection.
-
-## 39  Subsection 18(3)
-
-Omit “or acting Deputy Chairperson”.
-
-## 40  Subsection 18(4)
-
-Omit “or acting Deputy Chairperson”.
-
-## 41  Subsection 18(4)
-
-Omit “or Deputy Chairperson, as the case may be”.
-
-## 42  Subsection 18(5)
-
-Omit “Australian”.
-
-## 43  Subsections 18(6), (6A), (6B) and (6C)
-
-Repeal the subsections.
-
-## 44  Subsection 18(7)
-
-Omit “Australian”.
-
-## 45  Subsection 18(8)
-
-Omit “Ministerial Council”, substitute “Minister”.
-
-## 46  Subsection 19(2)
-
-Omit “Deputy Chairmen”, substitute “appointed members”.
-
-## 47  Subsection 19(3)
-
-Repeal the subsection.
-
-## 48  Subsection 19(4)
-
-Omit “, including at least one executive member”.
-
-## 49  Subsection 19(6)
-
-Omit “a Deputy Chairperson”, substitute “an appointed member”.
-
-## 50  Section 20
-
-Repeal the section, substitute:
-
-##### <a id="20"></a>20  Delegation by Corporation
-
-             (1)  The Corporation may, by writing, delegate any or all of its functions and powers to:
-
-                     (a)  a member; or
-
-                     (b)  an officer or employee of the Corporation.
-
-             (2)  The delegate is, in the exercise of the function or power delegated under subsection (1), subject to the directions of the Corporation.
-
-## 51  After Part IV
-
-Insert:
-
-## Part IVA—Winding-up plan and annual operational plans
-
-##### <a id="20A"></a>20A  Winding-up plan
-
-             (1)  The Corporation must:
-
-                     (a)  prepare a plan setting out the manner in which the Corporation proposes to perform the functions conferred on it by paragraphs 8(1)(a), (b), (c) and (d); and
-
-                     (b)  give a copy of the plan to the Minister.
-
-             (2)  The Corporation must do this as soon as practicable, and in any event within 90 days, after the commencement of this section.
-
-Note:          Paragraphs 8(1)(a), (b), (c) and (d) deal with the winding-up of the Corporation and the joint Commonwealth/State scheme.
-
-             (3)  The plan is to be known as the **_winding-up plan_**.
-
-             (4)  The winding-up plan is to be expressed to relate to the period mentioned in paragraph 8(1)(a).
-
-Note:          The period mentioned in paragraph 8(1)(a) is the period over which the Corporation is to prepare itself for abolition by a future Act.
-
-             (5)  The Corporation must keep the Minister informed about matters that arise that might significantly affect the carrying out of the winding-up plan.
-
-             (6)  The Corporation may vary the winding-up plan.
-
-             (7)  If the Corporation varies the winding-up plan, the Corporation must give a copy of the variation to the Minister.
-
-             (8)  The Minister may direct the Corporation to vary the winding-up plan.
-
-             (9)  The Corporation must comply with a direction under subsection (8).
-
-##### <a id="20B"></a>20B  Annual operational plans
-
-             (1)  Before the beginning of each financial year, the Corporation must:
-
-                     (a)  prepare a plan for the financial year concerned, setting out the details of:
-
-                              (i)  the strategies the Corporation proposes to pursue; and
-
-                             (ii)  the activities the Corporation proposes to carry out; and 
-
-                            (iii)  the resources the Corporation proposes to allocate to each such activity;
-
-                            during the financial year in giving effect to the winding-up plan; and
-
-                     (b)  give a copy of the first-mentioned plan to the Minister.
-
-             (2)  A plan prepared under subsection (1) is to be known as **_an annual operational plan_**.
-
-             (3)  The Corporation must keep the Minister informed about matters that arise that might significantly affect the carrying out of an annual operational plan.
-
-             (4)  The Corporation may vary an annual operational plan.
-
-             (5)  If the Corporation varies the annual operational plan, the Corporation must give a copy of the variation to the Minister.
-
-             (6)  The Minister may direct the Corporation to vary an annual operational plan.
-
-             (7)  The Corporation must comply with a direction under subsection (6).
-
-## Part IVB—Transfers of assets, contracts and liabilities from State bodies to the Corporation
-
-##### <a id="20C"></a>20C  Definitions
-
-                   In this Part:
-
-                    <a name="contract"></a>**_contract_** includes:
-
-                     (a)  a deed; and
-
-                     (b)  a deed poll.
-
-                    <a name="instrum"></a>**_instrument_** includes a document.
-
-                    <a name="relev-state-bodi"></a>**_relevant State body_**:
-
-                     (a)  in relation to New South Wales—means the Albury-Wodonga (New South Wales) Corporation; and
-
-                     (b)  in relation to Victoria—means the Albury-Wodonga (Victoria) Corporation.
-
-##### <a id="20D"></a>20D  Transfer of assets to Corporation
-
-             (1)  It is the intention of the Parliament that a law of New South Wales or Victoria may:
-
-                     (a)  transfer an asset from the relevant State body to the Corporation; and
-
-                     (b)  provide for matters incidental to the transfer.
-
-             (2)  Such a transfer may be by way of a provision that vests the asset in the Corporation without any conveyance, assignment or instrument of transfer.
-
-Minister must consent to transfer
-
-             (3)  However, a law of New South Wales or Victoria is not effective to transfer the asset from the relevant State body to the Corporation unless the Minister, by notice in the _Gazette_, consents to the transfer of:
-
-                     (a)  the asset; or
-
-                     (b)  a class of assets in which the asset is included.
-
-Matters incidental to transfer
-
-             (4)  The following are examples of matters incidental to the transfer of an asset from a relevant State body to the Corporation:
-
-                     (a)  that an instrument relating to the asset continues to have effect after the asset vests in the Corporation as if a reference in the instrument to the relevant State body were a reference to the Corporation;
-
-                     (b)  that the Corporation becomes the successor in law of the relevant State body in relation to an asset immediately after the asset vests in the Corporation;
-
-                     (c)  if any proceedings to which the relevant State body was a party:
-
-                              (i)  were pending in any court or tribunal immediately before the transfer; and
-
-                             (ii)  related, in whole or in part, to the asset;
-
-                            that the Corporation is substituted for the relevant State body as a party to the proceedings to the extent to which the proceedings relate to the asset.
-
-##### <a id="20E"></a>20E  Transfer of contractual rights and obligations to Corporation
-
-             (1)  It is the intention of the Parliament that a law of New South Wales or Victoria may:
-
-                     (a)  transfer the relevant State body’s rights and obligations under a contract from the relevant State body to the Corporation; and
-
-                     (b)  provide for matters incidental to the transfer.
-
-             (2)  Such a transfer may be by way of a provision under which a relevant State body’s rights and obligations under the contract:
-
-                     (a)  cease to be rights and obligations of the relevant State body at a particular time; and
-
-                     (b)  become rights and obligations of the Corporation at that time.
-
-Minister must consent to transfer
-
-             (3)  However, a law of New South Wales or Victoria is not effective to transfer the relevant State body’s rights and obligations under the contract from the relevant State body to the Corporation unless the Minister, by notice in the _Gazette_, consents to the transfer of:
-
-                     (a)  rights and obligations under the contract; or
-
-                     (b)  rights and obligations under a class of contracts in which the contract is included.
-
-Matters incidental to transfer
-
-             (4)  The following are examples of matters incidental to the transfer of a relevant State body’s rights and obligations under a contract from the relevant State body to the Corporation:
-
-                     (a)  that the contract continues to have effect, after the relevant State body’s rights and obligations under the contract become rights and obligations of the Corporation, as if a reference in the contract to the relevant State body were a reference to the Corporation;
-
-                     (b)  that an instrument relating to the contract continues to have effect, after the relevant State body’s rights and obligations under the contract become rights and obligations of the Corporation, as if a reference in the instrument to the relevant State body were a reference to the Corporation;
-
-                     (c)  that the Corporation becomes the relevant State body’s successor in law, in relation to the relevant State body’s rights and obligations under the contract, immediately after the relevant State body’s rights and obligations under the contract become rights and obligations of the Corporation;
-
-                     (d)  if any proceedings to which the relevant State body was a party:
-
-                              (i)  were pending in any court or tribunal immediately before the transfer; and
-
-                             (ii)  related, in whole or in part, to those rights or obligations;
-
-                            that the Corporation is substituted for the relevant State body as a party to the proceedings to the extent to which the proceedings relate to those rights or obligations.
-
-##### <a id="20F"></a>20F  Transfer of liabilities to Corporation
-
-             (1)  It is the intention of the Parliament that a law of New South Wales or Victoria may:
-
-                     (a)  transfer a liability from the relevant State body to the Corporation; and
-
-                     (b)  provide for matters incidental to the transfer.
-
-             (2)  Such a transfer may be by way of a provision under which the liability:
-
-                     (a)  ceases to be a liability of the relevant State body at a particular time; and
-
-                     (b)  becomes a liability of the Corporation at that time.
-
-Minister must consent to transfer
-
-             (3)  However, a law of New South Wales or Victoria is not effective to transfer the liability from the relevant State body to the Corporation unless the Minister, by notice in the _Gazette_, consents to the transfer of:
-
-                     (a)  the liability; or
-
-                     (b)  a class of liabilities in which the liability is included.
-
-Matters incidental to transfer
-
-             (4)  The following are examples of matters incidental to the transfer of a liability from the relevant State body to the Corporation:
-
-                     (a)  that an instrument relating to the liability continues to have effect after the liability becomes a liability of the Corporation as if a reference in the instrument to the relevant State body were a reference to the Corporation;
-
-                     (b)  that the Corporation becomes the relevant State body’s successor in law in relation to the liability immediately after the liability becomes a liability of the Corporation;
-
-                     (c)  if any proceedings to which the relevant State body was a party:
-
-                              (i)  were pending in any court or tribunal immediately before the transfer; and
-
-                             (ii)  related, in whole or in part, to the liability;
-
-                            that the Corporation is substituted for the relevant State body as a party to the proceedings to the extent to which the proceedings relate to the liability.
-
-##### <a id="20G"></a>20G  This Part does not authorise the imposition of taxation
-
-                   This Part does not authorise the imposition of taxation within the meaning of section 55 of the Constitution.
-
-##### <a id="20H"></a>20H  Compensation—constitutional safety-net
-
-             (1)  If:
-
-                     (a)  apart from this section, the operation of this Part would result in the acquisition of property from a person otherwise than on just terms; and
-
-                     (b)  the acquisition would be invalid because of paragraph 51(xxxi) of the Constitution;
-
-the Commonwealth is liable to pay compensation of a reasonable amount to the person in respect of the acquisition.
-
-             (2)  If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in the Federal Court of Australia for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
-
-             (3)  In this section:
-
-                    <a name="acquisit-properti"></a>**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-                    <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-## 52  Subsection 21(5)
-
-Omit “for purposes related to the development of the growth complex”.
-
-## 53  Paragraph 26(1)(a)
-
-Repeal the paragraph.
-
-## 54  Subsection 28(1)
-
-Omit “Agreement” (wherever occurring), substitute “Winding-up Agreement”.
-
-## 55  Section 29
-
-Repeal the section.
-
-## 56  Subsection 30(1)
-
-Omit “Australian”.
-
-## 57  Subsection 30(3)
-
-Omit “Australian”.
-
-## 58  Subsection 30(4)
-
-Repeal the subsection.
-
-## 59  Before section 32
-
-Insert:
-
-##### <a id="31A"></a>31A  Delegation by Minister
-
-             (1)  The Minister may, by writing, delegate to:
-
-                     (a)  the Secretary to the Department; or
-
-                     (b)  a person holding or performing the duties of a Senior Executive Service office (within the meaning of the _Public Service Act 1922_); or
-
-                     (c)  an SES employee or acting SES employee;
-
-all or any of the Minister’s powers under this Act (other than section 5A).
-
-             (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Minister.
-
-## 60  Paragraph 32(a)
-
-Omit all the words after “Finance,”, substitute “of the Corporation’s operations during that year together with financial statements in respect of that year; and”.
-
-## 61  Paragraph 32(b)
-
-Omit “Australian Minister, for presentation to the Parliament; and”, substitute “Minister, for presentation to the Parliament.”.
-
-## 62  Paragraph 32(c)
-
-Repeal the paragraph.
-
-## 63  Section 33
-
-Omit “Australian”.
-
-## 64  Schedules 1, 2 and 3
-
-Repeal the Schedules.
-
-As at 2 June 2000 the amendments are not incorporated in this compilation.
-
- 
-
-Table A
-
-### Application, saving or transitional provisions
-
-_Albury-Wodonga Development Amendment Act 2000 (No. 46, 2000)_
-
-The following provisions commence 6 months after a prescribed date, if not proclaimed earlier:
-
-## Schedule 1
-
-## 65  Application—subsection 10(3) of the _Albury-Wodonga Development Act 1973_
-
-Subsection 10(3) of the _Albury-Wodonga Development Act 1973_ as amended by this Act applies to appointments made after the commencement of this item.
-
-## 66  Application—subsection 10(7) of the _Albury-Wodonga Development Act 1973_
-
-Despite the repeal of subsection 10(7) of the _Albury-Wodonga Development Act 1973_ by this Schedule, that subsection continues to apply, in relation to appointments made before the commencement of this item, as if that repeal had not happened.
-
-## 67  Transitional—chief executive officer
-
-To avoid doubt, the amendments of the _Albury-Wodonga Development Act 1973_ made by this Schedule do not affect the continuity of anything done under section 10A of that Act before the commencement of this item.
-
-## 68  Transitional—section 17 of the _Albury-Wodonga Development Act 1973_
-
-(1)        This item applies to a determination that was in force under section 17 of the _Albury-Wodonga Development Act 1973_ immediately before the commencement of this item.
-
-(2)        The determination has effect, after the commencement of this item, as if it were a determination made by the Minister under section 17 of the _Albury-Wodonga Development Act 1973_ as amended by this Act.
-
-## 69  Transitional—subsection 18(8) of the _Albury-Wodonga Development Act 1973_
-
-(1)        This item applies to a determination that was in force under subsection 18(8) of the _Albury-Wodonga Development Act 1973_ immediately before the commencement of this item.
-
-(2)        The determination has effect, after the commencement of this item, as if it were a determination made by the Minister under subsection 18(8) of the _Albury-Wodonga Development Act 1973_ as amended by this Act.
-
-## 70  Transitional—subsection 20B(1) of the _Albury-Wodonga Development Act 1973_
-
-Subsection 20B(1) of the _Albury-Wodonga Development Act 1973_ applies to a financial year that commences after the commencement of this item.
-
-## 71  Application—paragraph 32(a) of the _Albury-Wodonga Development Act 1973_
-
-Despite the amendment of paragraph 32(a) of the _Albury-Wodonga Development Act 1973_ made by this Schedule, that paragraph continues to apply, in relation to a financial year during any part of which a State Corporation is in existence, as if that amendment had not been made.
+The proposed amendments were misdescribed and are not incorporated in this reprint.
 
  
