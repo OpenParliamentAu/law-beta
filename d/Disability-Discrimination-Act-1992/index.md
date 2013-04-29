@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00023/Html/DisabilityDiscrimination1992_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00402/Html/DisabilityDiscrimination1992_WD02_image001.gif)
 
 # Disability Discrimination Act 1992
 
 **Act No. 135 of 1992 as amended**
 
-This compilation was prepared on 8 January 2010
- taking into account amendments up to Act No. 124 of 2009
+This compilation was prepared on 5 August 2009
+ taking into account amendments up to Act No. 70 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1046,7 +1046,7 @@ Opportunities for promotion, transfer and training and registered organisations
 
                              (ii)  the person discriminated against does not have that particular disability.
 
-##### <a id="26"></a>26  Land
+##### <a id="26"></a>26  Land
 
              (1)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s disability:
 
@@ -1378,7 +1378,7 @@ is offered to, or may be obtained by, the other person, if:
 
                               (i)  a fair work instrument (within the meaning of the _Fair Work Act 2009_); or
 
-                             (ii)  a transitional instrument or Division 2B State instrument (within the meaning of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_);
+                             (ii)  a transitional instrument (within the meaning of the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_);
 
                             to the extent to which the industrial instrument has specific provisions relating to the payment of rates of salary or wages to persons, in circumstances in which:
 
@@ -1566,9 +1566,35 @@ Note:          For when a person with a disability **_has an a
 
 by instrument grant to the person or persons to whom the application relates, as the case may be, an exemption from the operation of a provision of Division 1 or 2, as specified in the instrument.
 
-             (2)  The Commission may, on application by a person to, or in respect of, whom an exemption from a provision of Division 1 or 2 has been granted under subsection (1), being an application made before the expiration of the period to which the exemption was granted, grant a further exemption from the operation of that provision.
+          (1A)  The Commission may, on application by:
 
-             (3)  An exemption granted under subsection (1), or further exemption, from the operation of a provision of Division 1 or 2:
+                     (a)  a person:
+
+                              (i)  on that person’s own behalf; or
+
+                             (ii)  on behalf of that person and another person or other persons; or
+
+                            (iii)  on behalf of another person or other persons; or
+
+                     (b)  2 or more persons:
+
+                              (i)  on their own behalf; or
+
+                             (ii)  on behalf of themselves and another person or other persons; or
+
+                            (iii)  on behalf of another person or other persons;
+
+by instrument grant to the person or persons to whom the application relates, as the case may be, an exemption from the operation of section 32, as specified in the instrument.
+
+          (1B)  An exemption granted under subsection (1A) must be in relation to a specified disability standard and only applies to the extent that the disability standard deals with the provision of public transportation services and facilities.
+
+          (1C)  If the regulations prescribe a body as a body that the Commission must consult in relation to the kinds of public transportation services or facilities that will be dealt with in an exemption under subsection (1A), the Commission must consult that body before granting the exemption.
+
+          (1D)  The Commission may, before granting an exemption under subsection (1A), consult any other body or person that the Commission considers it appropriate to consult.
+
+             (2)  The Commission may, on application by a person to, or in respect of, whom an exemption from a provision of Division 1 or 2 has been granted under subsection (1) or (1A), being an application made before the expiration of the period to which the exemption was granted, grant a further exemption from the operation of that provision.
+
+             (3)  An exemption granted under subsection (1) or (1A), or further exemption, from the operation of a provision of Division 1 or 2:
 
                      (a)  may be granted subject to such terms and conditions as are specified in the instrument; and
 
@@ -1596,7 +1622,7 @@ by instrument grant to the person or persons to whom the application relates, as
 
 ##### <a id="58"></a>58  Effect of exemptions
 
-                   This Part does not render it unlawful for a person who has been granted an exemption from a provision of Division 1 or 2, or a person in the employment or under the direction or control of a person who has been granted such an exemption, to do an act in accordance with the provisions of the instrument by which the exemption was granted.
+                   This Part does not render it unlawful for a person who has been granted an exemption from a provision of Division 1, 2 or 2A, or a person in the employment or under the direction or control of a person who has been granted such an exemption, to do an act in accordance with the provisions of the instrument by which the exemption was granted.
 
 ## Part 3—Action plans
 
@@ -2403,27 +2429,10 @@ Schedule 5 (items 28–30, 65, 66, 84): <i>(l)
     <div>Schedule 2 (items 
 1–90) and Schedule 3 (items 22–31, 117, 118): 5 Aug 2009 
 Schedule 2 (items 101, 102): 27 Mar 2006 ( <i>see</i>s. 2(1)) 
-Schedule 2 (items 103–105): 8 Jan 2010</div>
+Schedule 2 (items 103–105): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>Sch. 2 (items 63, 86) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work Amendment (State Referrals and Other Measures) Act 2009</div>
-  </td>
-  <td>
-    <div>124, 2009</div>
-  </td>
-  <td>
-    <div>9 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 124): 1 Jan 2010</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -3090,7 +3099,7 @@ of Part 2</div>
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 60, 1996; No. 133, 1999; Nos. 54, 70 and 124, 2009</div>
+    <div>am. No. 60, 1996; No. 133, 1999; Nos. 54 and 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3757,6 +3766,28 @@ of Part 2</div>
     <div>am. No. 62, 2002; No. 70, 2009</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 (No. 70, 2009)_
+
+The following amendments commence on 8 January 2010 unless proclaimed earlier:
+
+## Schedule 2
+
+## 103  Subsections 55(1A) to (1D)
+
+Repeal the subsections.
+
+## 104  Subsections 55(2) and (3)
+
+Omit “or (1A)”.
+
+## 105  Section 58
+
+Omit “Division 1, 2 or 2A”, substitute “Division 1 or 2”.
+
+As at 5 August 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
