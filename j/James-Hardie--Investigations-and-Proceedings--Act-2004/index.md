@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00482/Html/6a53246b-b976-472f-99e9-c05b16c8c375_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00453/Html/JamesHardieInvProc2004_image001.gif)
 
 # James Hardie (Investigations and Proceedings) Act 2004
 
 **Act No. 144 of 2004 as amended**
 
-This compilation was prepared on 26 July 2007
+This compilation was prepared on 9 July 2007
  taking into account amendments up to Act No. 116 of 2007
 
 The text of any of those amendments not in force
@@ -14,25 +14,23 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1  Short title \[see Note 1]](#1  Short title \[see Note 1]).                                                                                  1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2  Commencement \[see Note 1]](#2  Commencement \[see Note 1]).                                                                         1
 
-[3](#3).            Interpretation
+[3  Interpretation](#3  Interpretation).                                                                                                 1
 
-[4](#4).            Abrogation of legal professional privilege
+[4  Abrogation of legal professional privilege](#4  Abrogation of legal professional privilege).                                                     7
 
-[4A](#4A).         Application of professional confidential relationship privilege
+[5  James Hardie material still taken to be privileged for certain purposes](#5  James Hardie material still taken to be privileged for certain purposes).        8
 
-[5](#5).            James Hardie material still taken to be privileged for certain purposes
+6  Law relating to legal professional privilege not otherwise abrogated or affected                8
 
-[6](#6).            Law relating to legal professional privilege and professional confidential relationship privilege not otherwise abrogated or affected
-
-[7](#7).            Regulations
+[7  Regulations](#7  Regulations).                                                                                                    8
 
 **Notes** 
 
@@ -140,9 +138,9 @@ and, without limiting the generality of paragraphs (a) to (c), each of the fol
 
                       (j)  the approval of that arrangement by the Supreme Court of New South Wales;
 
-                     (k)  the issue of partly‑paid shares by ABN 60 Pty Ltd to James Hardie Industries NV;
+                     (k)  the issue of partly-paid shares by ABN 60 Pty Ltd to James Hardie Industries NV;
 
-                      (l)  the cancellation of those partly‑paid shares.
+                      (l)  the cancellation of those partly-paid shares.
 
 Note:          If a body corporate was at any time related to, a related party of, or controlled by, James Hardie Industries NV or ABN 60 Pty Ltd, then it is still part of the James Hardie Group.
 
@@ -234,12 +232,6 @@ Note:          If a body corporate was at any time related to,
 
                      (e)  an actuary.
 
-                    <a name="profession-confidenti-relatship-privileg"></a>**_professional confidential relationship privilege_** means privilege under:
-
-                     (a)  Division 1A of Part 3.10 of the _Evidence Act 1995_; or
-
-                     (b)  Division 1A of Part 3.10 of the _Evidence Act 1995_ of New South Wales or a similar law of a State or Territory.
-
                     <a name="record"></a>**_record_** has the meaning given by subsection 3(1) of the _Special Commission of Inquiry (James Hardie Records) Act 2004_ (NSW).
 
                     <a name="subsidiari"></a>**_subsidiary_** has the meaning given by section 9 of the _Corporations Act 2001_.
@@ -294,16 +286,6 @@ Authorised persons not affected
 
              (5)  This section does not abrogate or affect any claim of legal professional privilege made by an authorised person in relation to James Hardie material.
 
-##### <a id="4A"></a>4A  Application of professional confidential relationship privilege
-
-Privilege does not apply for proceedings
-
-             (1)  Professional confidential relationship privilege does not apply in relation to James Hardie material for the purposes of, or in connection with, a James Hardie proceeding.
-
-Authorised persons not affected
-
-             (2)  This section does not apply to any claim of professional confidential relationship privilege made by an authorised person in relation to James Hardie material.
-
 ##### <a id="5"></a>5  James Hardie material still taken to be privileged for certain purposes
 
              (1)  If, apart from section 4, James Hardie material would have been privileged from production in legal proceedings for the purposes of:
@@ -316,13 +298,13 @@ then, for the purposes of that subsection, that material is taken still to be pr
 
              (2)  If, apart from section 4, James Hardie material would have been privileged from being disclosed or produced in legal proceedings for the purposes of subsection 197(2) of the _Proceeds of Crime Act 2002_, then, for the purposes of that subsection, that material is taken still to be privileged from being disclosed or produced in legal proceedings.
 
-##### <a id="6"></a>6  Law relating to legal professional privilege and professional confidential relationship privilege not otherwise abrogated or affected
+##### <a id="6"></a>6  Law relating to legal professional privilege not otherwise abrogated or affected
 
-                   This Act does not otherwise abrogate or affect the law relating to legal professional privilege or professional confidential relationship privilege.
+                   This Act does not otherwise abrogate or affect the law relating to legal professional privilege.
 
 ##### <a id="7"></a>7  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -391,71 +373,52 @@ of Assent</div>
     <div>116, 2007</div>
   </td>
   <td>
-    <div>28 June 2007</div>
+    <div>28 June 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 26 July 2007 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (items 5–7): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+_Evidence Amendment (Journalists’ Privilege) Act 2007 (No. 116, 2007)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 116, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 116, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 6</div>
-  </td>
-  <td>
-    <div>am. No. 116, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 116, 2007</div>
-  </td>
-</tr></table>
+The following amendments commence on 26 July 2007:
 
- 
+## Schedule 1
+
+## 5  Subsection 3(1)
+
+Insert:
+
+                    <a name="profession-confidenti-relatship-privileg"></a>**_professional confidential relationship privilege_** means privilege under:
+
+                     (a)  Division 1A of Part 3.10 of the _Evidence Act 1995_; or
+
+                     (b)  Division 1A of Part 3.10 of the _Evidence Act 1995_ of New South Wales or a similar law of a State or Territory.
+
+## 6  After section 4
+
+Insert:
+
+##### <a id="4A"></a>4A  Application of professional confidential relationship privilege
+
+Privilege does not apply for proceedings
+
+             (1)  Professional confidential relationship privilege does not apply in relation to James Hardie material for the purposes of, or in connection with, a James Hardie proceeding.
+
+Authorised persons not affected
+
+             (2)  This section does not apply to any claim of professional confidential relationship privilege made by an authorised person in relation to James Hardie material.
+
+## 7  At the end of section 6
+
+Add “or professional confidential relationship privilege”.
+
+_Note:       The heading to section 6 is altered by inserting “and professional confidential relationship privilege” after “legal professional privilege”._
+
+As at 9 July 2007 the amendments are not incorporated in this compilation.
