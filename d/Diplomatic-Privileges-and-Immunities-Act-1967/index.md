@@ -1,33 +1,33 @@
 
 Diplomatic Privileges and Immunities Act 1967
 Act No. 16 of 1967 as amended
-This compilation was prepared on 1 July 2000  taking into account amendments up to Act No. 177 of 1999
+This compilation was prepared on 3 May 2000  taking into account amendments up to Act No. 177 of 1999
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
   
 Contents
-1  Short title [see Note 1]	1
-2  Commencement [see Note 1]	1
-3  Repeal	1
-4  Interpretation [see Note 2]	1
-5  Extension to Territories	2
-5A  Application of Act in relation to certain international organizations	2
-6  Exclusion of other laws	3
-7  Vienna Convention on Diplomatic Relations to have force of law	4
-8  Limitation on exemption from customs duties	5
-9  Exemption from excise duty	6
-10  Exemption from sales tax on excisable goods	8
-10A  Exemption from sales tax for prescribed overseas mission	9
-10B  Indirect tax concession scheme	10
-11  Privileges and immunities of certain members of the staff of a mission and of private servants of members of a mission	10
-12  Withdrawal of privileges and immunities	11
-14  Certificates by Minister	11
-14A  Delegation	11
-15  Regulations	12
-Schedule—Vienna Convention on Diplomatic Relations	13
-Notes to the Diplomatic Privileges and Immunities Act 1967	31
+1	Short title [see Note 1]	1
+2	Commencement [see Note 1]	1
+3	Repeal	1
+4	Interpretation	1
+5	Extension to Territories	2
+5A	Application of Act in relation to certain international organizations	2
+6	Exclusion of other laws	3
+7	Vienna Convention on Diplomatic Relations to have force of law	3
+8	Limitation on exemption from customs duties	5
+9	Exemption from excise duty	6
+10	Exemption from sales tax on excisable goods	7
+10A	Exemption from sales tax for prescribed overseas mission	8
+11	Privileges and immunities of certain members of the staff of a mission and of private servants of members of a mission	9
+12	Withdrawal of privileges and immunities	9
+14	Certificates by Minister	9
+14A	Delegation	10
+15	Regulations	10
+Schedule—Vienna Convention on Diplomatic Relations	11
+Notes		29
+10B	Indirect tax concession scheme	34
 An Act relating to Diplomatic Privileges and Immunities, and for other purposes
   
   
@@ -37,19 +37,13 @@ An Act relating to Diplomatic Privileges and Immunities, and for other purposes
 		This Act shall come into operation on the day on which it receives the Royal Assent.
 3  Repeal
 		The Diplomatic Immunities Act 1952 and the Diplomatic Immunities Act 1958 are repealed.
-4  Interpretation [see Note 2]
+4  Interpretation
 	(1)	In this Act, unless the contrary intention appears:
-acquisition has the meaning given by section 195-1 of the GST Act.
-approved form has the meaning given by section 995-1 of the Income Tax Assessment Act 1997.
 Australian citizen includes a person who, by virtue of regulations in force under the Australian Citizenship Act 1948, is, for the purposes of that Act, under the protection of the Australian Government.
-Commissioner means the Commissioner of Taxation.
 Convention means the Vienna Convention on Diplomatic Relations, a copy of the English text of which is set out in the Schedule.
-GST Act means the A New Tax System (Goods and Services Tax) Act 1999.
-Luxury Car Tax Act means the A New Tax System (Luxury Car Tax) Act 1999.
 mission means a diplomatic mission.
 overseas country means a country other than Australia or an external Territory.
 prescribed overseas country means an overseas country prescribed by the regulations for the purposes of this definition.
-Wine Equalisation Tax Act means the A New Tax System (Wine Equalisation Tax) Act 1999.
 	(2)	In this Act, expressions defined by the Convention have the same respective meanings as they have in the Convention.
 5  Extension to Territories
 		This Act extends to every external Territory.
@@ -89,11 +83,6 @@ that deals with a matter dealt with by this Act.
 	(5)	For the purposes of section 38 of the Judiciary Act 1903, a matter arising under the Convention as having the force of law by virtue of this section shall be deemed not to be a matter arising directly under a treaty.
 8  Limitation on exemption from customs duties
 	(1)	This section applies in relation to the exemption from customs duties, taxes and related charges provided for by paragraph 1 of Article 36, or paragraph 1 or paragraph 2 of Article 37, of the Convention as having the force of law by virtue of section 7 in respect of articles imported into Australia that are for the use of a mission or person referred to in that paragraph.
-	(1A)	Despite:
-	(a)	section 177-5 of the GST Act; and
-	(b)	section 21-5 of the Luxury Car Tax Act; and
-	(c)	section 27-25 of the Wine Equalisation Tax Act;
-indirect tax that would be payable on an importation under one of those Acts is not payable on an importation covered by the exemption from customs duties, taxes and related charges provided for by paragraph 1 of Article 36, or paragraph 1 or paragraph 2 of Article 37, of the Convention and section 7 of this Act.
 	(2)	The exemption does not apply where any other articles of the same kind, or of a similar kind, that have been imported into Australia were, at the time when they were entered for home consumption under the Customs Act 1901, intended for the use of the mission or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his opinion, the reasonable requirements of the mission or person, as the case may be, have adequately been met by the other articles.
 	(3)	The exemption does not apply unless:
 	(a)	the person for whose use the articles are intended, or, if the articles are intended for the use of a mission, the head of the mission, agrees that, if the articles are sold or otherwise disposed of in Australia or in an external Territory within, in the case of articles other than motor vehicles, 2 years, and in the case of motor vehicles, 3 years, after the date of entry of the articles for home consumption under the Customs Act 1901, he will pay to the Commonwealth an amount equal to so much (if any) as the Minister for Industry, Technology and Commerce determines of the customs duties, taxes and related charges that, but for paragraph 1 of Article 36, or paragraph 1 or paragraph 2 of Article 37, of the Convention, as the case may be, would have been payable in respect of the articles; and
@@ -126,24 +115,6 @@ indirect tax that would be payable on an importation under one of those Acts is 
 	(3)	The head of a mission may agree with the Commonwealth that where, by virtue of subsection (1), sales tax is not payable on goods:
 	(a)	the head of the mission will, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of purchase, pay to the Commonwealth, unless the Treasurer otherwise determines, an amount equal to the sales tax that, but for subsection (1), would have been payable in respect of the goods; and
 	(b)	the head of the mission will, if the head or a former head of the mission has agreed to the condition set out in paragraph (a) in relation to other goods and has not fulfilled that condition—comply with such further conditions if any, as the Treasurer, by instrument in writing, determines (which may include a condition that the head of the mission gives security, satisfactory to the Treasurer, that he or she will comply with the agreement).
-10B  Indirect tax concession scheme
-	(1)	If:
-	(a)	an acquisition covered by a determination of the Minister is made:
-	(i)	by or on behalf of the head of a mission; or
-	(ii)	by a member of the mission, a member of the family of such a person or another person, who is;
-		covered by a determination of the Minister; and
-	(b)	at the time of the acquisition, it was intended for:
-	(i)	the official use of the mission; or
-	(ii)	a use covered by a determination of the Minister;
-the Commissioner must, on behalf of the Commonwealth and subject to subsection (3), pay to the head of the mission (or a person in a class of persons determined by the Minister) an amount equal to the amount of indirect tax payable (if any) in respect of the supply of that acquisition.
-	(2)	A claim for an amount covered by subsection (1) must be in the approved form.
-	(3)	The amount is payable:
-	(a)	in accordance with the conditions and limitations; and
-	(b)	within the period and in the manner;
-determined by the Minister.
-	(4)	A determination under this section is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
-	(5)	In this section:
-mission includes an international organisation that has been declared by the regulations for the purposes of section 5A.
 11  Privileges and immunities of certain members of the staff of a mission and of private servants of members of a mission
 		In respect of acts performed in the course of their duties:
 	(a)	members of the administrative and technical staff, and members of the service staff, of the mission of an overseas country who are Australian citizens or are ordinarily resident in Australia or in an external Territory; and
@@ -449,7 +420,7 @@ Income Tax (Consequential Amendments) Act 1997
 A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999
 177, 1999
 22 Dec 1999
-Schedule 7 (items 10‑18): 1 July 1999 (e)
+Schedule 7 (items 10‑18): [see (e) and Note 2]
 —
 
 (a)	The Diplomatic Privileges and Immunities Act 1967 was amended by section 3 only of the Administrative Changes (Consequential Provisions) Act 1976, subsection 2(7) of which provides as follows:
@@ -461,14 +432,14 @@ Schedule 7 (items 10‑18): 1 July 1999 (e)
 (d)	The Diplomatic Privileges and Immunities Act 1967 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No.1) 1985, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
 (e)	The Diplomatic Privileges and Immunities Act 1967 was amended by Schedule 7 (items 10‑18) only of the A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999, subsection 2(9) of which provides as follows:
-	(9)	Schedules 7 and 8 (other than items 1 to 6 of Schedule 8) commence immediately after the commencement of the A New Tax System (Goods and Services Tax) Act 1999.
+	(9)	Schedules 7 and 8 (other than items 1 to 6 of Schedule 8) commence immediately after the commencement of the A New Tax System (Goods and Services Tax) Act 1999. [see Note 2]
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 4	
-am. No. 69, 1972; No. 216, 1973; No. 41, 1980; No. 65, 1985; No. 15, 1988; No. 118, 1992; No. 177, 1999
+am. No. 69, 1972; No. 216, 1973; No. 41, 1980; No. 65, 1985; No. 15, 1988; No. 118, 1992
 S. 5	
 am. No. 216, 1973
 S. 5A	
@@ -478,7 +449,7 @@ am. No. 216, 1973
 S. 7	
 am. No. 69, 1972; No. 216, 1973; No. 155, 1979; Nos. 41 and 70, 1980; No. 65, 1985; No. 15, 1988; No. 39, 1997
 S. 8	
-am. No. 69, 1972; No. 216, 1973; No. 91, 1976; No. 41, 1980; Nos. 26 and 80, 1982; No. 15, 1988; No. 177, 1999
+am. No. 69, 1972; No. 216, 1973; No. 91, 1976; No. 41, 1980; Nos. 26 and 80, 1982; No. 15, 1988
 S. 9	
 am. No. 69, 1972; No. 216, 1973; No. 91, 1976; No. 41, 1980; No. 80, 1982; No. 65, 1985; No. 15, 1988
 S. 10	
@@ -487,8 +458,6 @@ S. 10A
 ad. No. 15, 1988
 
 am. No. 118, 1992
-S. 10B	
-ad. No. 177, 1999
 S. 11	
 am. No. 69, 1972; No. 216, 1973
 S. 13	
@@ -499,12 +468,59 @@ Heading to the Schedule
 rs. No. 65, 1985 
 
 Note 2
-Section 3(1)–Schedule 7 (item 14) of the A New Tax System (Indirect Tax and Consequential Amendments) Act (No.2) 1999 provides as follows:
+A New Tax System (Indirect Tax and Consequential Amendmentst) Act (No. 2)1999 (No. 177, 1999)
+The following amendments commence on 1 July 2000, immediately after Act No. 55, 1999:
+Schedule 7
+10  Subsection 4(1)
+Insert:
+acquisition has the meaning given by section 195-1 of the GST Act.
+11  Subsection 4(1)
+Insert:
+approved form has the meaning given by section 995-1 of the Income Tax Assessment Act 1997.
+12  Subsection 4(1)
+Insert:
+Commissioner means the Commissioner of Taxation.
+13  Subsection 4(1)
+Insert:
+GST Act means the A New Tax System (Goods and Services Tax) Act 1999.
 14  Subsection 3(1)
 Insert:
 indirect tax means:
 	(a)	GST within the meaning of section 195-1 of the GST Act; or
 	(b)	luxury car tax within the meaning of section 27-1 of the Luxury Car Tax Act; or
 	(c)	wine equalisation tax within the meaning of section 33-1 of the Wine Equalisation Tax Act.
-The proposed amendment was misdescribed and is not incorporated in this compilation.
+15  Subsection 4(1)
+Insert:
+Luxury Car Tax Act means the A New Tax System (Luxury Car Tax) Act 1999.
+16  Subsection 4(1)
+Insert:
+Wine Equalisation Tax Act means the A New Tax System (Wine Equalisation Tax) Act 1999.
+17  After subsection 8(1)
+Insert:
+	(1A)	Despite:
+	(a)	section 177-5 of the GST Act; and
+	(b)	section 21-5 of the Luxury Car Tax Act; and
+	(c)	section 27-25 of the Wine Equalisation Tax Act;
+indirect tax that would be payable on an importation under one of those Acts is not payable on an importation covered by the exemption from customs duties, taxes and related charges provided for by paragraph 1 of Article 36, or paragraph 1 or paragraph 2 of Article 37, of the Convention and section 7 of this Act.
+18  After section 10A
+Insert:
+10B  Indirect tax concession scheme
+	(1)	If:
+	(a)	an acquisition covered by a determination of the Minister is made:
+	(i)	by or on behalf of the head of a mission; or
+	(ii)	by a member of the mission, a member of the family of such a person or another person, who is;
+		covered by a determination of the Minister; and
+	(b)	at the time of the acquisition, it was intended for:
+	(i)	the official use of the mission; or
+	(ii)	a use covered by a determination of the Minister;
+the Commissioner must, on behalf of the Commonwealth and subject to subsection (3), pay to the head of the mission (or a person in a class of persons determined by the Minister) an amount equal to the amount of indirect tax payable (if any) in respect of the supply of that acquisition.
+	(2)	A claim for an amount covered by subsection (1) must be in the approved form.
+	(3)	The amount is payable:
+	(a)	in accordance with the conditions and limitations; and
+	(b)	within the period and in the manner;
+determined by the Minister.
+	(4)	A determination under this section is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
+	(5)	In this section:
+mission includes an international organisation that has been declared by the regulations for the purposes of section 5A.
+As at 3 May 2000 the amendments are not incorporated in this compilation.
 
