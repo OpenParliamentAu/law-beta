@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00047/Html/SnoMouEngCorLimSale1993WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00544/Html/SnoMouEngCorLimSale1993WD02HYP_image001.gif)
 
 # Snowy Mountains Engineering Corporation Limited Sale Act 1993
 
 **Act No. 54 of 1993 as amended**
 
-This compilation was prepared on 11 January 2011
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 28 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -111,6 +111,8 @@ Sections 7, 8
 [39](#39).          Regulations connected with the sale of SMEC
 
 [40](#40).          Cessation of mobility rights
+
+[41](#41).          Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_
 
 [42](#42).          Ending SMEC’s liability under the _Commonwealth Borrowing Levy Act 1987_
 
@@ -491,7 +493,7 @@ including employees who had stopped being employees of SMEC before the sale day.
 
 ##### <a id="28"></a>28  Application—_Superannuation Act 1922_
 
-                   On and after the sale day, section 145 of the _Superannuation Act 1922_ does not apply in relation to SMEC.
+                   On and after the sale day, section 145 of the _Superannuation Act 1922_ does not apply in relation to SMEC.
 
 ##### <a id="29"></a>29  Application—_Superannuation Act 1976_
 
@@ -680,6 +682,20 @@ but does not include a tax or fee (other than a fee payable under the _Corporati
                      (b)  Division 4 of Part IV of the _Public Service Act 1922_;
 
 stop applying to the employee on the sale day.
+
+##### <a id="41"></a>41  Refund of contribution paid under the _Occupational Health and Safety (Commonwealth Employment) Act 1991_
+
+             (1)  If SMEC has paid a contribution to the cost of the administration of the _Occupational Health and Safety (Commonwealth Employment) Act 1991_ under section 67H of that Act in respect of the financial year in which the sale day occurs, then SMEC is entitled to be paid the amount worked out using the following formula: 
+
+![](http://www.comlaw.gov.au/Details/C2006C00544/Html/SnoMouEngCorLimSale1993WD02HYP_image002.gif)
+
+where:
+
+                    <a name="contribut"></a>**_Contribution_** means the contribution paid by SMEC in respect of that financial year.
+
+                    <a name="no-refund-dai"></a>**_No. of refund days_** means the total number of days in the period beginning on the sale day and ending on the last day of the financial year in which the sale day occurs.
+
+             (2)  An amount to which SMEC is entitled under subsection (1) must be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
 ##### <a id="42"></a>42  Ending SMEC’s liability under the _Commonwealth Borrowing Levy Act 1987_
 
@@ -875,23 +891,6 @@ Remainder: 9 Nov 1993 ( <i>see Gazette</i>1993, No. S334)</div>
  6–11)</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>148, 2010</div>
-  </td>
-  <td colspan="2">
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 18): 18 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -933,14 +932,6 @@ _(b)_ The _Snowy Mountains Engineering Corporation Limited__Sale__Act 1993_ was 
       <div>How affected</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
 </thead>
 <tr>
   <td>
@@ -948,22 +939,6 @@ _(b)_ The _Snowy Mountains Engineering Corporation Limited__Sale__Act 1993_ was 
   </td>
   <td>
     <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -984,14 +959,6 @@ _(b)_ The _Snowy Mountains Engineering Corporation Limited__Sale__Act 1993_ was 
 </tr>
 <tr>
   <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 37</div>
   </td>
   <td>
@@ -1004,14 +971,6 @@ _(b)_ The _Snowy Mountains Engineering Corporation Limited__Sale__Act 1993_ was 
   </td>
   <td>
     <div>am. No. 146, 1999; No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2010</div>
   </td>
 </tr></table>
 
