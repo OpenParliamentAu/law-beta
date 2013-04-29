@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00451/Html/SydAirDemdMgmt1997WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00602/Html/SydAirDemdMgmt1997WD02_image001.gif)
 
 # Sydney Airport Demand Management Act 1997
 
 **Act No. 173 of 1997 as amended**
 
-This compilation was prepared on 30 July 2008
- taking into account amendments up to Act No. 83 of 2008
+This compilation was prepared on 10 October 2006
+ taking into account amendments up to Act No. 109 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1325,7 +1325,7 @@ _Note:       Section 3 describes how asterisks are used to identif
 
 **Note:**
 
-The amendments made by this Schedule are incorporated in the compilation on ComLaw.
+The amendments made by this Schedule are incorporated in the compilation on ComLaw..
 
 _Airports Act 1996_
 
@@ -1497,24 +1497,6 @@ Remainder: 24 May 2001</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Sydney Airport Demand Management Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>83, 2008</div>
-  </td>
-  <td>
-    <div>12 July 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 43, 45)</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1523,6 +1505,8 @@ Remainder: Royal Assent</div>
   <td></td>
   <td></td>
 </tr></table>
+
+ 
 
 _(a)_     The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule 1 (item 910) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
@@ -1790,309 +1774,7 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
   </td>
 </tr></table>
 
-### Note 2
-
-_Sydney Airport Demand Management Amendment Act 2008 (No. 83, 2008)_
-
-The following amendments commence on 12 January 2009 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  Subsections 4(1) and (2)
-
-Repeal the subsections, substitute:
-
-             (1)  This Act sets the * maximum movement limit for * aircraft movements at Sydney Airport (otherwise than during * curfew periods). It also provides for the * Slot Management Scheme, under which slots for * gate movements at Sydney Airport are allocated. The Scheme is required to be consistent with the maximum movement limit.
-
-             (2)  Part 2 sets the * maximum movement limit for * aircraft movements at Sydney Airport, and provides for monitoring of compliance with that limit.
-
-## 2  Subsection 4(3)
-
-Omit “* aircraft movements”, substitute “* gate movements”.
-
-## 3  At the end of subsection 4(5)
-
-Add “It also deals with the power of the Minister to determine modifications of the Scheme in exceptional circumstances.”.
-
-## 4  Subsection 6(4)
-
-After “* aircraft movements”, insert “* associated with * gate movements”.
-
-## 5  Subsection 6(5)
-
-Omit “the * Slot Management Scheme”, substitute “subsection 35(2) (which requires the * Slot Management Scheme to be consistent with the limit)”.
-
-## 6  Subsection 8(4)
-
-Omit “_Legislative Instruments Act 1997_”, substitute “_Legislative Instruments Act 2003_”.
-
-_Note:       This item corrects a misstatement of the short title of an Act._
-
-## 7  Part 3 (heading)
-
-Repeal the heading, substitute:
-
-## Part 3—Penalties for unauthorised gate movements
-
-## 8  Section 10
-
-Repeal the section (including the note), substitute:
-
-##### <a id="10"></a>10  Gate movements to which this Part applies
-
-                   This Part applies to all * gate movements at Sydney  Airport, other than:
-
-                     (a)  any gate movement that is permitted by Division 5; and
-
-                     (b)  any gate movement that is * associated with an * aircraft movement that occurs during a * curfew period, unless a slot has been allocated for the gate movement under the * Slot Management Scheme; and
-
-                     (c)  any gate movement in relation to which the following conditions are satisfied:
-
-                              (i)  the associated aircraft movement was scheduled to occur at a time during a curfew period;
-
-                             (ii)  the aircraft movement actually occurs at a time that is not during a curfew period;
-
-                            (iii)  if the aircraft movement had occurred at its scheduled time, the aircraft movement would have been permitted by section 12 or 13 of the _Sydney__Airport__Curfew Act 1995_;
-
-                            (iv)  no slot has been allocated for the gate movement under the Slot Management Scheme.
-
-Note 1:       Regarding paragraph (b), a slot may have been allocated for the * gate movement because the * aircraft movement was scheduled to occur before or after the * curfew period. In that case, this Part applies to the gate movement even if the aircraft movement actually occurs during the curfew period.
-
-Note 2:       * Aircraft movements during * curfew periods are regulated under the _Sydney__Airport__Curfew Act 1995_. Slots cannot be allocated under this Act for times during curfew periods (see subsection 35(1B)).
-
-## 9  Subsection 11(1)
-
-Omit “An * aircraft movement”, substitute “A * gate movement”.
-
-## 10  Subsection 11(2)
-
-Omit “An * aircraft movement”, substitute “A * gate movement”.
-
-## 11  Paragraph 11(2)(b)
-
-Omit “in which the movement occurs”.
-
-## 12  Subsection 11(3)
-
-Omit “an * aircraft movement”, substitute “a * gate movement”.
-
-## 13  Paragraph 11(3)(b)
-
-Omit “in which the movement occurs”.
-
-## 14  Subsection 11(4)
-
-Omit “* aircraft movements”, substitute “* gate movements”.
-
-_Note:       The heading to subsection 11(4) is altered by omitting “aircraft movements” and substituting “gate movements”._
-
-## 15  Subsection 11(6)
-
-Omit “an * aircraft movement”, substitute “a * gate movement”.
-
-## 16  Subsection 11(6) (note)
-
-Omit “an * aircraft movement”, substitute “a * gate movement”.
-
-## 17  Section 12
-
-Omit “an * aircraft movement”, substitute “a * gate movement”.
-
-## 18  Section 13
-
-Omit “an * aircraft movement”, substitute “a * gate movement”.
-
-## 19  Section 29
-
-Omit “* take off from, or * land at,”, substitute “make a * gate movement at”.
-
-_Note:       The heading to section 29 is altered by omitting “take off or land” and substituting “make gate movements”._
-
-## 20  Paragraph 29(b)
-
-Omit “take-off or landing” (wherever occurring), substitute “gate movement”.
-
-## 21  Paragraph 30(a)
-
-After “used”, insert “, or is returning after use,”.
-
-## 22  Subsection 31(1)
-
-Omit “* take off from, or * land at,”, substitute “make a * gate movement at”.
-
-## 23  Subsection 31(1)
-
-Omit “justifying the take-off or landing”.
-
-## 24  Subsection 31(2)
-
-Omit “* take-off or * landing must occur and the runway to be used”, substitute “* gate movement must occur”.
-
-## 25  Subsection 33(2)
-
-Repeal the subsection, substitute:
-
-             (2)  The basic purpose of the Scheme is to provide a system for the allocation of permissions for * gate movements at Sydney Airport. The system must be consistent with the * maximum movement limit for * aircraft movements.
-
-## 26  Subsection 34(1)
-
-Omit “an * aircraft movement”, substitute “a * gate movement”.
-
-## 27  Subsection 34(1)
-
-Omit “specified aircraft movement”, substitute “specified gate movement”.
-
-## 28  Subsection 34(3)
-
-Repeal the subsection, substitute:
-
-             (3)  Other laws may impose requirements or restrictions on or in relation to * aircraft movements or * gate movements. The allocation of a slot for a gate movement under the Scheme in no way affects the application of such other requirements or restrictions to, or in relation to, the gate movement and any * associated aircraft movement.
-
-## 29  Subsection 35(1)
-
-Omit “aircraft movements”, substitute “* gate movements”.
-
-## 30  Subsection 35(1)
-
-Omit “(other than movements during * curfew periods)”.
-
-## 31  Subsection 35(1A)
-
-Omit “aircraft movements”, substitute “* gate movements”.
-
-## 32  After subsection 35(1A)
-
-Insert:
-
-          (1B)  The Scheme must not allow slots to be allocated for times during * curfew periods.
-
-## 33  At the end of subsection 35(2)
-
-Add “for * aircraft movements”.
-
-## 34  Subsection 35(4)
-
-Omit “* aircraft movements”, substitute “* gate movements”.
-
-## 35  At the end of subsection 35(8)
-
-Add “for * aircraft movements”.
-
-## 36  At the end of subsection 36(1)
-
-Add “for * aircraft movements”.
-
-## 37  At the end of subsection 46(3)
-
-Add “for * aircraft movements”.
-
-## 38  Subsection 46(6)
-
-Omit “_Legislative Instruments Act 1997_”, substitute “_Legislative Instruments Act 2003_”.
-
-_Note:       This item corrects a misstatement of the short title of an Act._
-
-## 39  Subsection 49(1)
-
-Omit “aircraft movements”, substitute “* gate movements”.
-
-## 40  Subsection 49(6)
-
-Repeal the subsection.
-
-## 41  At the end of Part 5
-
-Add:
-
-### Division 3—Modification of Scheme in exceptional circumstances
-
-##### <a id="59A"></a>59A  Minister’s power to determine modifications
-
-             (1)  The Minister may, in writing, determine that the * Compliance Scheme has effect subject to specified modifications during a specified period if the Minister considers that there are exceptional circumstances justifying the making of the determination.
-
-             (2)  During the period specified in a determination under subsection (1), the * Compliance Scheme has effect subject to the modifications specified in the determination.
-
-             (3)  The Minister must, in relation to each determination under subsection (1):
-
-                     (a)  include in the determination a statement of the reasons for making the determination; and
-
-                     (b)  cause a copy of the determination to be given to the * Compliance Committee as soon as practicable after the day on which the determination is made.
-
-Note:          A copy of the determination will also have to be laid before each House of the Parliament (see section 38 of the _Legislative Instruments Act 2003_).
-
-             (4)  Modifications specified in a determination under subsection (1) do not have to be consistent with section 49.
-
-             (5)  A determination under subsection (1) is a legislative instrument, but section 42 (disallowance) of the _Legislative Instruments Act 2003_ does not apply to the determination.
-
-             (6)  In this section:
-
-                    <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
-
-## 42  Paragraph 70(1)(a)
-
-Omit “* aircraft movement”, substitute “* gate movement”.
-
-## 44  Section 71
-
-Omit all the words after “in the Department;”, substitute:
-
-all or any of the following powers:
-
-                     (c)  the power under section 44 to give approvals and make determinations in relation to amendments of the * Slot Management Scheme;
-
-                     (d)  the power under section 58 to give approvals and make determinations in relation to amendments of the * Compliance Scheme;
-
-                     (e)  the power under subsection 66(3) to make appointments to the * Compliance Committee.
-
-## 46  Paragraph 74(2)(d)
-
-Omit “10 penalty units”, substitute “50 penalty units”.
-
-## 47  Clause 1 of Schedule 1 (paragraph (a) of the definition of _aircraft movement_)
-
-Omit “* landing”, substitute “landing”.
-
-## 48  Clause 1 of Schedule 1 (paragraph (b) of the definition of _aircraft movement_)
-
-Omit “* taking off”, substitute “taking off”.
-
-## 49  Clause 1 of Schedule 1
-
-Insert:
-
-                    <a name="associated"></a><a name="associated"></a>**_associated_**: an * aircraft movement and a * gate movement are **_associated_** if:
-
-                     (a)  for an aircraft movement that is a take-off—the gate movement is the last gate movement of the aircraft before the take-off; or
-
-                     (b)  for an aircraft movement that is a landing—the gate movement is the first gate movement of the aircraft after the landing.
-
-## 50  Clause 1 of Schedule 1 (at the end of the definition of _Compliance Scheme_)
-
-Add “and as it has effect subject to any determinations under subsection 59A(1)”.
-
-## 51  Clause 1 of Schedule 1
-
-Insert:
-
-                    <a name="gate-movem"></a>**_gate movement_** means:
-
-                     (a)  the first movement of an aircraft after its external doors have been closed in preparation for an * aircraft movement that is a take-off; or
-
-                     (b)  the last movement of an aircraft immediately before the moment when, after an aircraft movement that is a landing, it comes to a standstill and the engines are turned off.
-
-## 52  Clause 1 of Schedule 1 (definition of _land_)
-
-Repeal the definition.
-
-## 53  Clause 1 of Schedule 1 (definition of _operator_)
-
-Omit “an * aircraft movement”, substitute “a * gate movement”.
-
-## 54  Clause 1 of Schedule 1 (definition of _take off_)
-
-Repeal the definition.
-
-As at 30 July 2008 the amendments are not incorporated in this compilation.
+ 
 
 ## Table A
 
@@ -2152,20 +1834,6 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Act 
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
-* * *
-
-_Sydney Airport Demand Management Amendment Act 2008 (No. 83, 2008)_
-
-The following provisions commence on 12 January 2009 unless proclaimed earlier:
-
-## Schedule 1
-
-## 43  Saving of section 70
-
-Section 70 of the _Sydney__Airport__Demand Management Act 1997_ as in force immediately before the commencement of item 42 continues to have effect after that commencement in relation to aircraft movements that occurred before that commencement.
-
-## 45  Saving of existing delegations
-
-A delegation in force under section 71 of the _Sydney__Airport__Demand Management Act 1997_ immediately before the commencement of item 44  continues to have effect after that commencement as if it were a delegation under that section as amended by that item.
+ 
 
  
