@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00641/Html/7e1f8ccd-9a20-4179-937d-23207eebd317_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00278/Html/19add6ec-4a3d-41ae-8681-bfb788269923_files/image001.gif)
 
 # Wine Australia Corporation Act 1980
 
 **Act No. 161 of 1980 as amended**
 
-This compilation was prepared on 12 August 2011
- taking into account amendments up to Act No. 89 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -836,7 +836,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ## Part II—Wine Australia Corporation
 
-##### <a id="6"></a>6  Establishment of Corporation
+##### <a id="6"></a>6  Establishment of Corporation
 
                    There is established by this Act a corporation by the name of the Wine Australia Corporation.
 
@@ -1494,11 +1494,11 @@ the plan shall continue in force on and after the day on which the Corporation r
 
 ##### <a id="31G"></a>31G  Agreement to annual operational plans
 
-             (1)  The Corporation must cause a copy of an annual operational plan prepared under section 31F to be given to the Minister:
+             (1)  The Corporation shall cause a copy of an annual operational plan prepared under section 31F to be given to the Minister:
 
-                     (a)  at least 2 months before the start of the period to which the plan relates; or
+                     (a)  in the case of the first plan—on or before 1 October 1986 or such later day as the Minister approves; or
 
-                     (b)  by such later time (whether before or after the start of the period to which the plan relates) as the Minister, in exceptional circumstances, allows.
+                     (b)  in any other case—at least 2 months before the commencement of the period to which the plan relates.
 
              (2)  Where a copy of an annual operational plan is given to the Minister, the Minister may, by notice in writing given to the Corporation:
 
@@ -3198,7 +3198,7 @@ If grounds for objection made out and a decision is made under section 40RE
 
                      (c)  the decision standing after the appeals and reviews have been finalised is that the ground no longer exists.
 
-##### <a id="40S"></a>40S  Consultation by the Committee
+##### <a id="40S"></a>40S  Consultation by the Committee
 
                    In determining a geographical indication, the Committee:
 
@@ -4104,9 +4104,11 @@ the person is not liable to be punished by imprisonment for that offence.
 
              (6)  A person may resign an appointment as alternate of a member of a Committee by giving a signed notice of resignation to the Chairperson of the Corporation. 
 
-##### <a id="5"></a>5  Term of office
+##### <a id="5"></a>5  Term of office 
 
-                   A member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
+             (1)  The Presiding Member holds office for such period of not more than 3 years as is stated in the document of appointment. 
+
+             (2)  A member appointed on the nomination of an organisation holds office until the organisation gives the Chairperson of the Corporation a written nomination of another person to be appointed in place of the member. 
 
 ##### <a id="6"></a>6  Resignation 
 
@@ -4824,40 +4826,6 @@ Schedule 3 (item 18): 1 Sept 2010</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1191–1198) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2011</div>
-  </td>
-  <td>
-    <div>89, 2011</div>
-  </td>
-  <td>
-    <div>4 Aug 2011</div>
-  </td>
-  <td>
-    <div>Schedule 8: 5 Aug 2011</div>
-  </td>
-  <td>
-    <div>Sch. 8 (item 3) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -5616,39 +5584,7 @@ _(l)_      The _Wine Australia Corporation Act 1980_ was amended by Sc
 </tr>
 <tr>
   <td>
-    <div>S. 31F</div>
-  </td>
-  <td>
-    <div>ad. No. 60, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31G</div>
-  </td>
-  <td>
-    <div>ad. No. 60, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 89, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31H</div>
-  </td>
-  <td>
-    <div>ad. No. 60, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31J</div>
+    <div>Ss. 31F–31J</div>
   </td>
   <td>
     <div>ad. No. 60, 1986</div>
@@ -7573,55 +7509,9 @@ Part VIB</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 98, 2010; No. 89, 2011</div>
+    <div>am. No. 98, 2010</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1191  Subsection 29J(1)
-
-Omit “(1)”.
-
-## 1192  Paragraph 29J(1)(b)
-
-Omit “Presiding Member;”, substitute “Presiding Member.”.
-
-## 1193  Subsection 29J(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue to act for more than 12 months.”.
-
-## 1194  At the end of subsection 29J(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1195  Subsections 29J(2) to (8)
-
-Repeal the subsections.
-
-## 1196  Subclause 3(1) of the Schedule
-
-Omit “(1)”.
-
-## 1197  At the end of subclause 3(1) of the Schedule
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1198  Subclause 3(2) of the Schedule
-
-Repeal the subclause.
-
-As at 12 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -7824,33 +7714,6 @@ The amendment made by item 14 of this Schedule applies to the export of a grap
 
 The amendment made by item 15 of this Schedule applies to conduct engaged in, or proposed to be engaged in, after the commencement of this Part.
 
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Financial Framework Legislation Amendment Act (No. 1) 2011
- (No. 89, 2011)_
-
-## Schedule 8
-
-## 3  Application of amendment made by item 2
-
-The amendment made by item 2 of this Schedule applies in relation to the appointment of a member made after the commencement of that item.
-
 ## Table B
 
 ### Modifications
@@ -7867,7 +7730,7 @@ _A.C.T. Self‑Government (Consequential Provisions) Regulations _
 
                      (a)  in relation to the Australian Capital Territory—the Legislative Assembly for the Territory; and
 
-                     (b)  in relation to the Northern Territory—the Legislative Assembly of the Territory;
+                     (b)  in relation to the Northern Ter  ritory—the Legislative Assembly of the Territory;
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
