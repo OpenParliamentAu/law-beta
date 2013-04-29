@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image001.gif)
 
 # Seafarers Rehabilitation and Compensation Act 1992
 
 **Act No. 234 of 1992 as amended**
 
-This compilation was prepared on 8 February 2010
+This compilation was prepared on 15 July 2009
  taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force 
@@ -18,345 +18,345 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary** 
+**Part 1—Preliminary** 
 
     **Division 1—Short title and commencement**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
     **Division 2—Definitions**
 
-[3](#3).            General definitions                                                                               2
+[3](#3).            General definitions
 
-[4](#4).            Employees                                                                                         11
+[4](#4).            Employees
 
-[5](#5).            Employees lost at sea                                                                        12
+[5](#5).            Employees lost at sea
 
-[6](#6).            Injuries suffered by employees                                                         12
+[6](#6).            Injuries suffered by employees
 
-[7](#7).            Injuries etc  resulting from medical treatment                                    12
+[7](#7).            Injuries etc  resulting from medical treatment
 
-[8](#8).            Incapacity for work                                                                           12
+[8](#8).            Incapacity for work
 
-[9](#9).            Injury arising out of, or in the course of, employment                      13
+[9](#9).            Injury arising out of, or in the course of, employment
 
-[10](#10).          Provisions relating to diseases                                                           15
+[10](#10).          Provisions relating to diseases
 
-[11](#11).          Hearing impairment—time when suffered                                         17
+[11](#11).          Hearing impairment—time when suffered
 
-[12](#12).          Serious and wilful misconduct                                                           17
+[12](#12).          Serious and wilful misconduct
 
-[13](#13).          Normal weekly earnings                                                                    17
+[13](#13).          Normal weekly earnings
 
-[14](#14).          Recovery of damages                                                                         19
+[14](#14).          Recovery of damages
 
-[15](#15).          Persons who are wholly or partly dependent                                   19
+[15](#15).          Persons who are wholly or partly dependent
 
-[16](#16).          Certain family relationships                                                              20
+[16](#16).          Certain family relationships
 
-[17](#17).          Persons caring for prescribed children                                               20
+[17](#17).          Persons caring for prescribed children
 
     **Division 3—Miscellaneous preliminary provisions**
 
-[18](#18).          Extent of Act                                                                                     21
+[18](#18).          Extent of Act
 
-[19](#19).          Application of Act                                                                            21
+[19](#19).          Application of Act
 
-[20](#20).          Act not to apply to employees within the meaning of the _Safety, Rehabilitation and Compensation Act 1988_     22
+[20](#20).          Act not to apply to employees within the meaning of the _Safety, Rehabilitation and Compensation Act 1988_
 
-[20A](#20A).       Act not to apply to exempt employment                                         22
+[20A](#20A).       Act not to apply to exempt employment
 
-[21](#21).          Act binds Crown etc                                                                          22
+[21](#21).          Act binds Crown etc 
 
-[21A](#21A).       Application of _Criminal Code_                                                           23
+[21A](#21A).       Application of _Criminal Code_
 
-[22](#22).          Amounts of compensation                                                                23
+[22](#22).          Amounts of compensation
 
-[23](#23).          Indexation—Consumer Price Index                                                   23
+[23](#23).          Indexation—Consumer Price Index
 
-[23A](#23A).       Indexation—Wage Price Index                                                           24
+[23A](#23A).       Indexation—Wage Price Index
 
-[24](#24).          Liability to pay compensation                                                          26
+[24](#24).          Liability to pay compensation
 
-[25](#25).          Compensation to be paid in full                                                        26
+[25](#25).          Compensation to be paid in full
 
 **Part 2—Compensation** 
 
     **Division 1—Injuries, property loss or damage, medical expenses**
 
-[26](#26).          Compensation for injuries                                                                 27
+[26](#26).          Compensation for injuries
 
-[27](#27).          Compensation for property loss or damage                                      27
+[27](#27).          Compensation for property loss or damage
 
-[28](#28).          Compensation for medical and related expenses                               28
+[28](#28).          Compensation for medical and related expenses
 
     **Division 2—Injuries resulting in death**
 
-[29](#29).          Compensation for injuries resulting in death                                     31
+[29](#29).          Compensation for injuries resulting in death
 
-[30](#30).          Compensation in respect of funeral expenses                                   33
+[30](#30).          Compensation in respect of funeral expenses
 
     **Division 3—Injuries resulting in incapacity for work**
 
-[31](#31).          Compensation for injuries resulting in incapacity                             34
+[31](#31).          Compensation for injuries resulting in incapacity
 
-[32](#32).          Determination of suitable employment                                             37
+[32](#32).          Determination of suitable employment
 
-[33](#33).          Compensation for injuries resulting in incapacity where employee is in receipt of a superannuation pension      38
+[33](#33).          Compensation for injuries resulting in incapacity where employee is in receipt of a superannuation pension
 
-[34](#34).          Compensation for injuries resulting in incapacity where employee is in receipt of a lump sum benefit                39
+[34](#34).          Compensation for injuries resulting in incapacity where employee is in receipt of a lump sum benefit
 
-[35](#35).          Compensation for injuries resulting in incapacity where employee rolled-over part of a lump sum benefit          40
+[35](#35).          Compensation for injuries resulting in incapacity where employee rolled-over part of a lump sum benefit
 
-[36](#36).          Compensation for injuries resulting in incapacity where the employee rolled-over the whole of a lump sum benefit                                                                                                           41
+[36](#36).          Compensation for injuries resulting in incapacity where the employee rolled-over the whole of a lump sum benefit
 
-[37](#37).          Compensation where employee is maintained in a hospital              42
+[37](#37).          Compensation where employee is maintained in a hospital
 
-[38](#38).          Compensation for incapacity not payable in certain cases               43
+[38](#38).          Compensation for incapacity not payable in certain cases
 
     **Division 4—Injuries resulting in permanent impairment**
 
-[39](#39).          Compensation for injuries resulting in permanent impairment         44
+[39](#39).          Compensation for injuries resulting in permanent impairment
 
-[40](#40).          Interim payment of compensation                                                    45
+[40](#40).          Interim payment of compensation
 
-[41](#41).          Compensation for non-economic loss                                               46
+[41](#41).          Compensation for non-economic loss
 
-[42](#42).          Approved Guide                                                                                46
+[42](#42).          Approved Guide
 
     **Division 5—Household and attendant care services**
 
-[43](#43).          Compensation for household services and attendant care services   49
+[43](#43).          Compensation for household services and attendant care services
 
     **Division 6—Miscellaneous**
 
-[44](#44).          Redemption of compensation                                                            52
+[44](#44).          Redemption of compensation
 
-[45](#45).          Recurrent payments after payment of lump sum                             53
+[45](#45).          Recurrent payments after payment of lump sum
 
-[46](#46).          Cancelled determinations not to affect certain payments of compensation            53
+[46](#46).          Cancelled determinations not to affect certain payments of compensation
 
-[47](#47).          Reduction of compensation in certain cases                                      54
+[47](#47).          Reduction of compensation in certain cases
 
 **Part 3—Rehabilitation**
 
-[48](#48).          Approved rehabilitation program providers                                      55
+[48](#48).          Approved rehabilitation program providers
 
-[49](#49).          Assessment of capability of undertaking rehabilitation program      55
+[49](#49).          Assessment of capability of undertaking rehabilitation program
 
-[50](#50).          Provision of rehabilitation programs                                                 57
+[50](#50).          Provision of rehabilitation programs
 
-[51](#51).          Compensation payable in respect of certain alterations etc              60
+[51](#51).          Compensation payable in respect of certain alterations etc 
 
-[52](#52).          Duty to provide suitable employment                                              61
+[52](#52).          Duty to provide suitable employment
 
 **Part 4—Liabilities arising apart from this Act**
 
-[53](#53).          Interpretation                                                                                     62
+[53](#53).          Interpretation
 
-[54](#54).          Employee not to have right to bring action for damages against employer etc  in certain cases              62
+[54](#54).          Employee not to have right to bring action for damages against employer etc  in certain cases
 
-[55](#55).          Actions for damages—election by employees                                  63
+[55](#55).          Actions for damages—election by employees
 
-[56](#56).          Notice of proceedings against third party                                         63
+[56](#56).          Notice of proceedings against third party
 
-[57](#57).          Notice of proceedings against employer                                            64
+[57](#57).          Notice of proceedings against employer
 
-[58](#58).          Compensation not payable if damages recovered                              65
+[58](#58).          Compensation not payable if damages recovered
 
-[59](#59).          Proceedings against third parties                                                       66
+[59](#59).          Proceedings against third parties
 
-[60](#60).          Payment of damages by persons to employer                                  69
+[60](#60).          Payment of damages by persons to employer
 
-[61](#61).          Compensation not payable both under Act and under award           71
+[61](#61).          Compensation not payable both under Act and under award
 
 **Part 5—Notices and claims**
 
-[62](#62).          Notice of injury or loss of, or damage to, property                          73
+[62](#62).          Notice of injury or loss of, or damage to, property
 
-[63](#63).          Claims for compensation                                                                   74
+[63](#63).          Claims for compensation
 
-[64](#64).          Survival of claims                                                                               74
+[64](#64).          Survival of claims
 
-[65](#65).          Claims may not be made in certain cases                                           75
+[65](#65).          Claims may not be made in certain cases
 
-[66](#66).          Power to require medical examination                                               75
+[66](#66).          Power to require medical examination
 
-[67](#67).          Power to request the provision of information relevant to claim      77
+[67](#67).          Power to request the provision of information relevant to claim
 
-[68](#68).          Certain documents to be supplied on request                                   78
+[68](#68).          Certain documents to be supplied on request
 
-[69](#69).          Neither section 67 nor 68 to affect legal professional privilege         78
+[69](#69).          Neither section 67 nor 68 to affect legal professional privilege
 
-[70](#70).          Legal professional privilege not to apply to medical reports            78
+[70](#70).          Legal professional privilege not to apply to medical reports
 
-[71](#71).          Bankruptcy etc  of actual employer                                                  78
+[71](#71).          Bankruptcy etc  of actual employer
 
-[72](#72).          Time limit for determining claims relating to death                           79
+[72](#72).          Time limit for determining claims relating to death
 
-[73](#73).          Time limit for determining claims relating to incapacity for work, loss of or damage to property or cost of medical treatment                                                                                            80
+[73](#73).          Time limit for determining claims relating to incapacity for work, loss of or damage to property or cost of medical treatment
 
-[73A](#73A).       Time limit for determining claims relating to permanent impairment 81
+[73A](#73A).       Time limit for determining claims relating to permanent impairment
 
-[74](#74).          Employer may seek review of Authority’s decision                         82
+[74](#74).          Employer may seek review of Authority’s decision
 
-[75](#75).          Sections 72 to 74 (inclusive) not to apply to Authority if declaration made under section 100             82
+[75](#75).          Sections 72 to 74 (inclusive) not to apply to Authority if declaration made under section 100
 
 **Part 6—Reconsideration of determinations and review of decisions by the Administrative Appeals Tribunal** 
 
     **Division 1—Definitions**
 
-[76](#76).          Interpretation                                                                                     83
+[76](#76).          Interpretation
 
     **Division 2—Reconsideration of determinations by employers**
 
-[77](#77).          Determinations to be notified in writing                                            84
+[77](#77).          Determinations to be notified in writing
 
-[78](#78).          Reconsiderations of determinations                                                   84
+[78](#78).          Reconsiderations of determinations
 
-[79](#79).          Time limit for reconsideration of determinations                              85
+[79](#79).          Time limit for reconsideration of determinations
 
-[80](#80).          Employer may seek review of Authority’s decision                         86
+[80](#80).          Employer may seek review of Authority’s decision
 
-[81](#81).          Sections 79 and 80 not to apply to Authority if declaration made under section 100            87
+[81](#81).          Sections 79 and 80 not to apply to Authority if declaration made under section 100
 
-[82](#82).          Industry panel or Comcare to give copy of report to employer to claimant           87
+[82](#82).          Industry panel or Comcare to give copy of report to employer to claimant
 
-[83](#83).          Power to request the provision of information relevant to reconsideration            87
+[83](#83).          Power to request the provision of information relevant to reconsideration
 
-[83A](#83A).       Power to request employee to undergo medical examination            88
+[83A](#83A).       Power to request employee to undergo medical examination
 
-[84](#84).          Section 83 not to affect legal professional privilege                          90
+[84](#84).          Section 83 not to affect legal professional privilege
 
-[85](#85).          Legal professional privilege not to apply to medical reports            90
+[85](#85).          Legal professional privilege not to apply to medical reports
 
-[86](#86).          Bankruptcy etc  of employer                                                            90
+[86](#86).          Bankruptcy etc  of employer
 
-[87](#87).          Reviewable decision to be notified in writing                                    91
+[87](#87).          Reviewable decision to be notified in writing
 
-[88](#88).          Applications to the AAT                                                                  91
+[88](#88).          Applications to the AAT
 
     **Division 3—AAT review of reviewable decisions and extension of time decisions**
 
-[89](#89).          Modified AAT Act to apply                                                            92
+[89](#89).          Modified AAT Act to apply
 
-[90](#90).          Evidence in proceedings before AAT                                                93
+[90](#90).          Evidence in proceedings before AAT
 
-[91](#91).          Costs of proceedings before AAT—general                                      94
+[91](#91).          Costs of proceedings before AAT—general
 
-[92](#92).          Costs of proceedings before AAT—when costs payable by employer  96
+[92](#92).          Costs of proceedings before AAT—when costs payable by employer
 
 **Part 7—Compulsory insurance and the Fund** 
 
     **Division 1—Compulsory insurance**
 
-[93](#93).          Compulsory insurance                                                                       98
+[93](#93).          Compulsory insurance
 
-[94](#94).          Employer to give details of insurance or indemnity arrangements to Authority     99
+[94](#94).          Employer to give details of insurance or indemnity arrangements to Authority
 
-[95](#95).          Authority may require evidence from employer                               99
+[95](#95).          Authority may require evidence from employer
 
     **Division 2—The Fund**
 
-[96](#96).          The Fund                                                                                         100
+[96](#96).          The Fund
 
-[97](#97).          Fund to insure                                                                                  100
+[97](#97).          Fund to insure
 
-[98](#98).          Fund to provide Authority with financial information                   100
+[98](#98).          Fund to provide Authority with financial information
 
-[99](#99).          Minister may revoke approval under section 96                             101
+[99](#99).          Minister may revoke approval under section 96
 
     **Division 3—Reserve function of Authority**
 
-[100](#100).        Ministerial declaration                                                                     102
+[100](#100).        Ministerial declaration
 
-[101](#101).        Effect of Ministerial declaration                                                      102
+[101](#101).        Effect of Ministerial declaration
 
-[102](#102).        Authority to insure if declaration made under section 100             102
+[102](#102).        Authority to insure if declaration made under section 100
 
 **Part 8—Administration** 
 
     **Division 1—Seafarers Safety, Rehabilitation and Compensation Authority**
 
-[103](#103).        Establishment                                                                                  103
+[103](#103).        Establishment
 
-[104](#104).        Functions                                                                                         103
+[104](#104).        Functions
 
-[105](#105).        Powers                                                                                             104
+[105](#105).        Powers
 
-[106](#106).        Power to obtain information                                                            104
+[106](#106).        Power to obtain information
 
-[107](#107).        Directions by Minister                                                                    104
+[107](#107).        Directions by Minister
 
     **Division 2—Constitution and meetings of Authority**
 
-[109](#109).        Constitution                                                                                     106
+[109](#109).        Constitution
 
-[110](#110).        Appointment of members                                                               106
+[110](#110).        Appointment of members
 
-[111](#111).        Term of office                                                                                  106
+[111](#111).        Term of office
 
-[112](#112).        Deputies of members                                                                       107
+[112](#112).        Deputies of members
 
-[113](#113).        Persons acting as Chairperson or Deputy Chairperson                  107
+[113](#113).        Persons acting as Chairperson or Deputy Chairperson
 
-[114](#114).        Remuneration and allowances                                                          108
+[114](#114).        Remuneration and allowances
 
-[115](#115).        Leave of absence                                                                              108
+[115](#115).        Leave of absence
 
-[116](#116).        Disclosure of interests                                                                     108
+[116](#116).        Disclosure of interests
 
-[117](#117).        Resignation                                                                                      109
+[117](#117).        Resignation
 
-[118](#118).        Termination of appointment                                                           109
+[118](#118).        Termination of appointment
 
-[119](#119).        Meetings                                                                                          110
+[119](#119).        Meetings
 
     **Division 4—Miscellaneous**
 
-[125](#125).        Delegation by Authority and sub-delegation                                   111
+[125](#125).        Delegation by Authority and sub-delegation
 
-[125A](#125A).     Annual Report                                                                                 111
+[125A](#125A).     Annual Report
 
 **Part 9—Miscellaneous**
 
-[126](#126).        Employee to give information about prior employers                    113
+[126](#126).        Employee to give information about prior employers
 
-[127](#127).        Determinations to be in writing                                                       113
+[127](#127).        Determinations to be in writing
 
-[128](#128).        Shared liability                                                                                 113
+[128](#128).        Shared liability
 
-[129](#129).        Subrogation of rights of actual employer to Fund                           114
+[129](#129).        Subrogation of rights of actual employer to Fund
 
-[130](#130).        Payment of compensation                                                               114
+[130](#130).        Payment of compensation
 
-[131](#131).        Employee to notify other employers that compensation has been paid 115
+[131](#131).        Employee to notify other employers that compensation has been paid
 
-[132](#132).        Recovery of compensation payments                                             115
+[132](#132).        Recovery of compensation payments
 
-[133](#133).        Money paid for benefit of person                                                   115
+[133](#133).        Money paid for benefit of person
 
-[134](#134).        Provisions applicable on death of beneficiary                                 116
+[134](#134).        Provisions applicable on death of beneficiary
 
-[135](#135).        Assignment, set-off or attachment of compensation                       117
+[135](#135).        Assignment, set-off or attachment of compensation
 
-[136](#136).        Recovery of overpayments                                                             117
+[136](#136).        Recovery of overpayments
 
-[137](#137).        Employees on compensation leave                                                  118
+[137](#137).        Employees on compensation leave
 
-[139](#139).        Compensation where State compensation payable                         118
+[139](#139).        Compensation where State compensation payable
 
-[139A](#139A).     Exclusion of State laws relating to workers’ compensation            120
+[139A](#139A).     Exclusion of State laws relating to workers’ compensation
 
-[140](#140).        Notice of departure from Australia etc                                            120
+[140](#140).        Notice of departure from Australia etc 
 
-[141](#141).        Comcare may charge for officer’s services provided to employer  121
+[141](#141).        Comcare may charge for officer’s services provided to employer
 
-[142](#142).        Disallowable instruments                                                                121
+[142](#142).        Disallowable instruments
 
-[143](#143).        Regulations                                                                                      121
+[143](#143).        Regulations
 
 **Notes** 
 
@@ -434,7 +434,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="damag"></a>**_damages_** includes any amount paid under a compromise or settlement of a claim for damages, whether or not legal proceedings have been instituted, but does not include an amount paid in respect of costs incurred in connection with legal proceedings.
 
-                    <a name="de-facto-partner"></a>**_de facto partner_** of a person has the meaning given by the _Acts Interpretation Act 1901_.
+                    <a name="de-facto-partner"></a>**_de facto partner_** of a person has the meaning given by the _Acts Interpretation Act 1901_.
 
                     <a name="default-event"></a>**_default event_**, in relation to an employer, happens when:
 
@@ -624,13 +624,13 @@ Note:          see also sections 16 and 17.
 
                     <a name="spous"></a>**_spouse_** includes:
 
-                     (a)  in relation to an employee or a deceased employee—a person who is, or immediately before the employee’s death was, a de facto partner of the employee; and
+                     (a)  in relation to an employee or a deceased employee—a person who is, or immediately before the employee’s death was, a de facto partner of the employee; and
 
                      (b)  in relation to an employee or a deceased employee who is or was a member of the Aboriginal race of Australia or a descendant of indigenous inhabitants of the Torres Strait Islands—a person who is or was recognised as the employee’s husband or wife by the custom prevailing in the tribe or group to which the employee belongs or belonged.
 
-                    <a name="stepchild"></a><a name="stepchild"></a>**_stepchild_**: without limiting who is a stepchild of a person for the purposes of this Act, someone who is a child of a de facto partner of the person is the **_stepchild_** of the person if he or she would be the person’s stepchild except that the person is not legally married to the partner.
+                    <a name="stepchild"></a><a name="stepchild"></a>**_stepchild_**: without limiting who is a stepchild of a person for the purposes of this Act, someone who is a child of a de facto partner of the person is the **_stepchild_** of the person if he or she would be the person’s stepchild except that the person is not legally married to the partner.
 
-                    <a name="step-parent"></a><a name="step-parent"></a>**_step-parent_**: without limiting who is a step-parent of a person for the purposes of this Act, someone who is a de facto partner of a parent of the person is the **_step-parent_** of the person if he or she would be the person’s step-parent except that he or she is not legally married to the person’s parent.
+                    <a name="step-parent"></a><a name="step-parent"></a>**_step-parent_**: without limiting who is a step-parent of a person for the purposes of this Act, someone who is a de facto partner of a parent of the person is the **_step-parent_** of the person if he or she would be the person’s step-parent except that he or she is not legally married to the person’s parent.
 
                     <a name="suitabl-employ"></a>**_suitable employment_**, in relation to an employee who has suffered an injury in respect of which compensation is payable under this Act, means any employment (including self-employment) for which the employee is suited having regard to:
 
@@ -904,7 +904,7 @@ is taken to be a person who was wholly dependent on the employee at that date.
 
                    For the purposes of this Act, relationships (including the relationship of being family or being relatives) are taken to include (without limitation):
 
-                     (a)  relationships between de facto partners; and
+                     (a)  relationships between de facto partners; and
 
                      (b)  relationships of child and parent that arise:
 
@@ -1062,7 +1062,7 @@ Indexation factor
 
              (3)  For the purposes of this section, the **_indexation factor_** for a relevant year is the number calculated, to 3 decimal places, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image002.gif)
 
 where:
 
@@ -1154,7 +1154,7 @@ compensation is payable for the cost of the medical treatment, of such amount as
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -1268,7 +1268,7 @@ from the date of the employee’s death or the date of the birth of the child, w
 
              (2)  Subject to subsection (3) and this Part (other than this section), compensation for the injury is payable to the employee, for each of the first 45 weeks (whether consecutive or otherwise) during which the employee is incapacitated, of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image004.gif)
 
 where:
 
@@ -1376,7 +1376,7 @@ subsection (10) applies to one of those children and subsection (11) applies
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image005.gif)
 
 where:
 
@@ -1406,7 +1406,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image006.gif)
 
 where:
 
@@ -1444,7 +1444,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image007.gif)
 
 where:
 
@@ -1484,7 +1484,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image008.gif)
 
 where:
 
@@ -1590,7 +1590,7 @@ the employer must, on the written request of the employee made at any time befor
 
              (2)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image009.gif)
 
 where:
 
@@ -1702,7 +1702,7 @@ the employer must make a determination that any liability to make further paymen
 
              (2)  The amount of the lump sum is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image010.gif)
 
 where:
 
@@ -1790,7 +1790,7 @@ compensation is payable to the employee under this section during the period of 
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -1818,7 +1818,7 @@ where:
 
              (8)  If an examination is carried out, the person or persons who carried out the examination must give the employer a written assessment of the employee’s capability of undertaking a rehabilitation program, specifying, where appropriate, the kind of program which he or she is capable of undertaking and containing any other information relating to the provision of a rehabilitation program for the employee that the employer may require.
 
-##### <a id="50"></a>50  Provision of rehabilitation programs
+##### <a id="50"></a>50  Provision of rehabilitation programs
 
              (1)  If an employee of an employer is assessed under section 49 as capable of undertaking a rehabilitation program, the employer must, after consulting the employee in relation to:
 
@@ -1842,7 +1842,7 @@ make arrangements with an approved program provider for the provision of an appr
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -2286,7 +2286,7 @@ the employer to whom the notice of claim is given may require the employee to un
 
           (4B)  If the journey referred to in paragraph (4)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -2604,7 +2604,7 @@ the employer may, by written notice given to the claimant, ask the claimant to g
 
              (5)  If the journey referred to in paragraph (3)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -3400,7 +3400,7 @@ the recoverable amount may be deducted from the amount so payable.
 
 the compensation payable under this Act to, or for the benefit of, that person for the injury, loss or damage is the amount (if any) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00060/Html/SeafarRehabComp92_WD02_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00337/Html/SeafarRehabComp92_WD02_image011.gif)
 
 where:
 
@@ -3516,9 +3516,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 The _Seafarers Rehabilitation and Compensation Act 1992_ as shown in this compilation comprises Act No. 234, 1992 amended as indicated in the Tables below.
 
-The _Seafarers Rehabilitation and Compensation Act 1992_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
-
-The _Seafarers Rehabilitation and Compensation Act 1992_ was amended by the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ (No. 54, 2009) as amended by the _Fair Work (State Referral and Consequential and Other Amendments) Regulations 2009_ (SLI 2009 No. 165 as amended by SLI 2009 No. 364). The amendment is incorporated in this compilation.
+The _Seafarers Rehabilitation and Compensation Act 1992_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 8 March 1997 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -3593,8 +3591,8 @@ Remainder: 24 June 1993</div>
     <div>18 Jan 1994</div>
   </td>
   <td>
-    <div>Schedule (items 72–110, 113): Royal Assent <i>(a)</i> 
-Schedule (items 111, 112): 24 June 1993 <i>(a)</i></div>
+    <div>Schedule (items 72–110, 113): Royal Assent <i>(a)</i> 
+Schedule (items 111, 112): 24 June 1993 <i>(a)</i></div>
   </td>
   <td>
     <div>Ss. 7–9 
@@ -3696,7 +3694,7 @@ Remainder: Royal Assent</div>
     <div>25 Nov 1996</div>
   </td>
   <td>
-    <div>Schedule 19 (items 43, 44): Royal Assent <i>(c)</i></div>
+    <div>Schedule 19 (items 43, 44): Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>S. 2(2), (6) (am. by 77, 1996, Sch. 3 \[items 1, 2])</div>
@@ -3756,7 +3754,7 @@ Remainder: Royal Assent</div>
     <div>8 Mar 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–74, 76–98): Royal Assent <i>(e)</i> 
+    <div>Schedule 1 (items 1–74, 76–98): Royal Assent <i>(e)</i> 
 Schedule 1 (item 75): 24 June 1993 <i>(e)</i></div>
   </td>
   <td>
@@ -3777,7 +3775,7 @@ Schedule 1 (item 75): 24 June 1993 <i>(e)</i></div>
     <div>9 Apr 1999</div>
   </td>
   <td>
-    <div>Schedule 2 (items 72, 73): <i>(f)</i></div>
+    <div>Schedule 2 (items 72, 73): <i>(f)</i></div>
   </td>
   <td>
     <div>Sch. 2 (item 73) \[ <i>see</i>Table A]</div>
@@ -3855,7 +3853,7 @@ Remainder: Royal Assent</div>
     <div>1 Oct 2001</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 119–132): 2 Oct 2001 <i>(i)</i></div>
+    <div>S. 4 and Schedule 1 (items 119–132): 2 Oct 2001 <i>(i)</i></div>
   </td>
   <td>
     <div>S. 4 \[ <i>see</i>Table A]</div>
@@ -3875,7 +3873,7 @@ Remainder: Royal Assent</div>
     <div>11 Dec 2002</div>
   </td>
   <td>
-    <div>Schedule 1 (items 4–8, 17): 11 June 2003</div>
+    <div>Schedule 1 (items 4–8, 17): 11 June 2003</div>
   </td>
   <td>
     <div>Sch. 1 (item 17) \[ <i>see</i>Table A]</div>
@@ -3915,11 +3913,11 @@ Remainder: Royal Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 284–286, 
+    <div>Schedule 1 (items 284–286, 
 406(1)–(3)): <i>(j)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -3936,10 +3934,10 @@ Remainder: Royal Assent</div>
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 5 (items 27–39): 10 Dec 2008</div>
+    <div>Schedule 5 (items 27–39): 10 Dec 2008</div>
   </td>
   <td>
-    <div>Sch. 5 (item 39) \[ <i>see</i>Table A]</div>
+    <div>Sch. 5 (item 39) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -3953,13 +3951,13 @@ Remainder: Royal Assent</div>
     <div>37, 2009</div>
   </td>
   <td>
-    <div>3 June 2009</div>
+    <div>3 June 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 8–13): 4 June 2009</div>
+    <div>Schedule 1 (items 8–13): 4 June 2009</div>
   </td>
   <td>
-    <div>Sch. 1 (items 12, 13) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 12, 13) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -3973,13 +3971,13 @@ Remainder: Royal Assent</div>
     <div>54, 2009</div>
   </td>
   <td>
-    <div>25 June 2009</div>
+    <div>25 June 2009</div>
   </td>
   <td>
     <div>Schedule 8 (items 111–125): <i>(k)</i></div>
   </td>
   <td>
-    <div>Sch. 8 (item 162) (ad. by SLI 2009 No. 165, Sch. 2 \[item 7]) \[ <i>see</i>Note 1 and Table A]</div>
+    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -4129,7 +4127,7 @@ _(j)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
   </td>
   <td>
     <div>
-      15 March 2007
+      15 March 2007
     </div>
   </td>
 </tr></table>
@@ -4215,7 +4213,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div><b>Part 1</b></div>
   </td>
   <td>
     <div></div>
@@ -4223,7 +4221,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -4234,7 +4232,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 5 and 11, 1994; No. 60, 1996; No. 10, 1997; No. 119, 2001; SLI 2006 No. 50; No. 144, 2008; No. 54, 2009</div>
+    <div>am. Nos. 5 and 11, 1994; No. 60, 1996; No. 10, 1997; No. 119, 2001; SLI 2006 No. 50; No. 144, 2008; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4266,7 +4264,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 5, 1994; SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. No. 5, 1994; SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4274,7 +4272,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. Nos. 13 and 83, 1999; No. 144, 2008</div>
+    <div>am. Nos. 13 and 83, 1999; No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4282,12 +4280,12 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 16</div>
   </td>
   <td>
-    <div>rs. No. 144, 2008</div>
+    <div>rs. No. 144, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -4359,7 +4357,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
+    <div><b>Part 2</b></div>
   </td>
   <td>
     <div></div>
@@ -4367,7 +4365,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -4383,7 +4381,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -4407,7 +4405,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -4418,7 +4416,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 10, 1997; SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. No. 10, 1997; SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4434,12 +4432,12 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 34</div>
   </td>
   <td>
-    <div>am. No. 15, 2007</div>
+    <div>am. No. 15, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 4</b></div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
     <div></div>
@@ -4455,7 +4453,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Division 5</b></div>
+    <div><b>Division 5</b></div>
   </td>
   <td>
     <div></div>
@@ -4466,7 +4464,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>Note to s. 43(3)</div>
   </td>
   <td>
-    <div>ad. No. 144, 2008</div>
+    <div>ad. No. 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4474,12 +4472,12 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>Note to s. 43(5)</div>
   </td>
   <td>
-    <div>ad. No. 144, 2008</div>
+    <div>ad. No. 144, 2008</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 6</b></div>
+    <div><b>Division 6</b></div>
   </td>
   <td>
     <div></div>
@@ -4495,7 +4493,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
+    <div><b>Part 3</b></div>
   </td>
   <td>
     <div></div>
@@ -4511,7 +4509,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
+    <div><b>Part 4</b></div>
   </td>
   <td>
     <div></div>
@@ -4546,12 +4544,12 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 61</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part 5</b></div>
+    <div><b>Part 5</b></div>
   </td>
   <td>
     <div></div>
@@ -4623,7 +4621,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Part 6</b></div>
+    <div><b>Part 6</b></div>
   </td>
   <td>
     <div></div>
@@ -4631,7 +4629,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -4647,7 +4645,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -4658,7 +4656,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 78</div>
   </td>
   <td>
-    <div>am. No. 60, 1996; SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. No. 60, 1996; SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4703,7 +4701,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -4714,7 +4712,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 89</div>
   </td>
   <td>
-    <div>am. No. 38, 2005</div>
+    <div>am. No. 38, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4727,7 +4725,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Part 7</b></div>
+    <div><b>Part 7</b></div>
   </td>
   <td>
     <div></div>
@@ -4735,7 +4733,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -4767,7 +4765,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -4791,7 +4789,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -4807,7 +4805,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Part 8</b></div>
+    <div><b>Part 8</b></div>
   </td>
   <td>
     <div></div>
@@ -4823,7 +4821,7 @@ _(k)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -4860,7 +4858,7 @@ Renumbered Note 1</div>
   </td>
   <td>
     <div>
-No. 127, 2002</div>
+No. 127, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4868,7 +4866,7 @@ No. 127, 2002</div>
     <div>Note 2 to s. 104</div>
   </td>
   <td>
-    <div>ad. No. 127, 2002</div>
+    <div>ad. No. 127, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4881,7 +4879,7 @@ No. 127, 2002</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -4961,7 +4959,7 @@ No. 127, 2002</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 4</b></div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
     <div></div>
@@ -4972,7 +4970,7 @@ No. 127, 2002</div>
     <div>Heading to s. 125</div>
   </td>
   <td>
-    <div>am. No. 127, 2002</div>
+    <div>am. No. 127, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4980,7 +4978,7 @@ No. 127, 2002</div>
     <div>S. 125</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 127, 2002</div>
+    <div>am. No. 146, 1999; No. 127, 2002</div>
   </td>
 </tr>
 <tr>
@@ -4993,7 +4991,7 @@ No. 127, 2002</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part 9</b></div>
+    <div><b>Part 9</b></div>
   </td>
   <td>
     <div></div>
@@ -5036,7 +5034,7 @@ No. 127, 2002</div>
     <div>S. 137</div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
+    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -5190,23 +5188,5 @@ _Employment and Workplace Relations Amendment Act 2009 (No. 37, 2009)_
 (1)        The amendments made by items 8 and 9, to the extent that they relate to subsection 29(5) of the _Seafarers Rehabilitation and Compensation Act 1992_, apply in relation to a payment for a week that begins on or after 1 July 2009.
 
 (2)        The amendment made by item 11 applies in relation to a payment for a week that begins at or after the commencement of this item.
-
-* * *
-
-_Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)_
-
-## Schedule 8
-
-## 162  Application of Seafarers Rehabilitation and Compensation Act 1992—items 117, 119, 120 and 121
-
-The following provisions of the _Seafarers Rehabilitation and Compensation Act 1992_ apply as if a reference in those provisions to the National Employment Standards includes a reference to the Australian Fair Pay and Conditions Standard, to the extent that the Australian Fair Pay and Conditions Standard continues to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009:_
-
-                     (a)  subsection 13(2);
-
-                     (b)  subsection 13(5); 
-
-                     (c)  paragraph 13(6)(b); 
-
-                     (d)  paragraph 31(14)(a).
 
  
