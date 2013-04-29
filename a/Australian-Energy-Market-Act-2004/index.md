@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00892/Html/3a1d5a86-857f-4a2e-b6b0-2d4ae6b3af3a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00079/Html/AusEnergyMarketAct2004_image001.gif)
 
 # Australian Energy Market Act 2004
 
-**Act No. 99 of 2004 as amended**
+**Act No. 99 of 2004 as amen<span style="color:black">ded</span>**
 
-This compilation was prepared on 7 November 2011
- taking into account amendments up to Act No. 119 of 2011
+This compilation was prepared on 14 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -28,7 +28,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4](#4).            Crown to be bound
 
-[5](#5).            Extra‑territorial operation
+[5](#5).            Extra-territorial operation
 
 **Part 2—Application of energy laws as laws of the Commonwealth** 
 
@@ -86,7 +86,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [11R](#11R).       Interpretation of some expressions in the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations etc 
 
-[11S](#11S).        Inter‑governmental arrangements relating to the administration of the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
+[11S](#11S).        Inter-governmental arrangements relating to the administration of the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
 
     **Division 3—Prescribed uniform energy laws**
 
@@ -120,7 +120,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## An Act relating to the regulation of energy markets, and for related purposes
 
-## Part 1—Preliminary
+## <span style="font-size:15.5pt">Part 1</span>—<span class="CharPartText">Preliminary</span>
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -141,69 +141,97 @@ Prepared by the Office of Legislative Drafting and Publishing,
   <tr>
     <td colspan="3">
       <div>
-        <b>Commencement information</b>
+        <b>
+          Commencement information
+        </b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>Column 1</b>
+        <b>
+          Column 1
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Column 2</b>
+        <b>
+          Column 2
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Column 3</b>
+        <b>
+          Column 3
+        </b>
       </div>
     </td>
   </tr>
   <tr>
     <td>
       <div>
-        <b>Provision(s)</b>
+        <b>
+          Provision(s)
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Commencement</b>
+        <b>
+          Commencement
+        </b>
       </div>
     </td>
     <td>
       <div>
-        <b>Date/Details</b>
+        <b>
+          Date/Details
+        </b>
       </div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>1\. Sections 1 and 2 and anything in this Act not elsewhere covered by
-      this table</div>
+    <div>
+      1\. Sections 1 and 2 and anything in this Act not elsewhere covered by
+        this table
+    </div>
   </td>
   <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
+    <div>
+      The day on which this Act receives the Royal Assent.
+    </div>
   </td>
   <td>
-    <div>30 June 2004</div>
+    <div>
+      30 June 2004
+    </div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>2\. Sections 3 to 14</div>
+    <div>
+      2\. Sections 3 to 14
+    </div>
   </td>
   <td>
-    <div>A day or days to be fixed by Proclamation.</div>
-    <div>However, if any of the provision(s) do not commence within the period
-      of 12 months beginning on the day on which this Act receives the Royal
-      Assent, they commence on the first day after the end of that period.</div>
+    <div>
+      A day or days to be fixed by Proclamation.
+    </div>
+    <div>
+      However, if any of the provision(s) do not commence within the period
+        of 12 months beginning on the day on which this Act receives the Royal
+        Assent, they commence on the first day after the end of that period.
+    </div>
   </td>
   <td>
-    <div>30 June 2005</div>
+    <div>
+      30 June 2005
+    </div>
   </td>
 </tr></table>
 
@@ -215,13 +243,13 @@ Note:          This table relates only to the provisions of th
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="australian-energi-market-commiss"></a>**_Australian Energy Market Commission_** means the body established by section 5 of the _Australian Energy Market Commission Establishment Act 2004_ of South Australia.
+                    <a name="australian-energi-market-commiss"></a>**_Australian Energy Market Commission_**means the body established by section 5 of the _Australian Energy Market Commission Establishment Act 2004_ of South Australia.
 
                     <a name="australian-energi-regul"></a>**_Australian Energy Regulator_** means the body established by section 44AE of the _Competition and Consumer Act 2010_.
 
                     <a name="coastal-water"></a>**_coastal waters_**, in relation to Western Australia, means so much of the scheduled area (within the meaning of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_) for Western Australia as consists of:
 
-                     (a)  the territorial sea; and
+                      (a)  the territorial sea; and
 
                      (b)  the sea that is:
 
@@ -235,13 +263,13 @@ For this purpose, assume that the breadth of the territorial sea of Australia ha
 
                     <a name="econom-regul-author"></a>**_Economic Regulation Authority_** means the body established by section 4 of the _Economic Regulation Authority Act 2003_ of Western Australia.
 
-                    <a name="feral-tax-exempt-matter"></a>**_federal tax‑exempt matter_** has the meaning given by subsection 13D(2).
+                    <a name="feral-tax-exempt-matter"></a>**_federal tax-exempt matter_** has the meaning given by subsection 13D(2).
 
                     <a name="nation-electr-commonwealth-law"></a>**_National Electricity (Commonwealth) Law_** means the provisions applying under section 6.
 
-                    <a name="nation-electr-commonwealth-law-regul"></a>**_National Electricity (Commonwealth) Law and Regulations_** means:
+                    <a name="nation-electr-commonwealth-law-regul"></a>**_National Electricity (Commonwealth) Law and Regulations_**means:
 
-                     (a)  the National Electricity (Commonwealth) Law; and
+                      (a)  the National Electricity (Commonwealth) Law; and
 
                      (b)  the National Electricity (Commonwealth) Regulations.
 
@@ -249,9 +277,9 @@ For this purpose, assume that the breadth of the territorial sea of Australia ha
 
                     <a name="nation-ga-commonwealth-law"></a>**_National Gas (Commonwealth) Law_** means the provisions applying under section 11A.
 
-                    <a name="nation-ga-commonwealth-law-regul"></a>**_National Gas (Commonwealth) Law and Regulations_** means:
+                    <a name="nation-ga-commonwealth-law-regul"></a>**_National Gas (Commonwealth) Law and Regulations_**means:
 
-                     (a)  the National Gas (Commonwealth) Law; and
+                      (a)  the National Gas (Commonwealth) Law; and
 
                      (b)  the National Gas (Commonwealth) Regulations.
 
@@ -263,7 +291,7 @@ For this purpose, assume that the breadth of the territorial sea of Australia ha
 
                     <a name="offshor-western-australian-pipelin"></a>**_offshore Western Australian pipeline_** means a pipeline (within the meaning of the National Gas (Commonwealth) Law) for transporting natural gas from one or more points of origination in the offshore area of Western Australia to one or more points of termination in:
 
-                     (a)  Western Australia; or
+                      (a)  Western Australia; or
 
                      (b)  the coastal waters of Western Australia;
 
@@ -271,9 +299,9 @@ but does not include a pipeline any part of which is situated in another State o
 
                     <a name="offshor-western-australian-pipelin-commonwealth-law"></a>**_Offshore Western Australian Pipelines (Commonwealth) Law_** means the provisions applying under section 11J.
 
-                    <a name="offshor-western-australian-pipelin-commonwealth-law-regul"></a>**_Offshore Western Australian Pipelines (Commonwealth) Law and Regulations_** means:
+                    <a name="offshor-western-australian-pipelin-commonwealth-law-regul"></a>**_Offshore Western Australian Pipelines (Commonwealth) Law and Regulations_**means:
 
-                     (a)  the Offshore Western Australian Pipelines (Commonwealth) Law; and
+                      (a)  the Offshore Western Australian Pipelines (Commonwealth) Law; and
 
                      (b)  the Offshore Western Australian Pipelines (Commonwealth) Regulations.
 
@@ -283,7 +311,7 @@ but does not include a pipeline any part of which is situated in another State o
 
                     <a name="south-australian-electr-legisl"></a>**_South Australian Electricity Legislation_** means:
 
-                     (a)  the National Electricity Law set out in the Schedule to the _National Electricity (South Australia) Act 1996_ of South Australia as in force from time to time; and
+                      (a)  the National Electricity Law set out in the Schedule to the _National Electricity (South Australia) Act 1996_ of South Australia as in force from time to time; and
 
                      (b)  any regulations, as in force from time to time, made under Part 4 of that Act.
 
@@ -291,7 +319,7 @@ The reference in paragraph (a) to the National Electricity Law set out in the 
 
                     <a name="south-australian-ga-legisl"></a>**_South Australian Gas Legislation_** means:
 
-                     (a)  the National Gas Law set out in the Schedule to the _National Gas (South Australia) Act 2008_ of South Australia as in force from time to time; and
+                      (a)  the National Gas Law set out in the Schedule to the _National Gas (South Australia) Act 2008_ of South Australia as in force from time to time; and
 
                      (b)  any regulations, as in force from time to time, made under Part 3 of that Act.
 
@@ -299,7 +327,7 @@ The reference in paragraph (a) to the National Gas Law set out in the Schedule
 
                     <a name="state-territori-electr-law"></a>**_State/Territory electricity law_** means:
 
-                     (a)  the South Australian Electricity Legislation as it applies as a law of South Australia; or
+                      (a)  the South Australian Electricity Legislation as it applies as a law of South Australia; or
 
                      (b)  the South Australian Electricity Legislation as it applies as a law of another State; or
 
@@ -307,13 +335,13 @@ The reference in paragraph (a) to the National Gas Law set out in the Schedule
 
                     <a name="state-territori-energi-law"></a>**_State/Territory energy law_** means:
 
-                     (a)  a State/Territory electricity law; or
+                      (a)  a State/Territory electricity law; or
 
                      (b)  a State/Territory gas law.
 
                     <a name="state-territori-ga-law"></a>**_State/Territory gas law_** means:
 
-                     (a)  the South Australian Gas Legislation as it applies as a law of South Australia; or
+                      (a)  the South Australian Gas Legislation as it applies as a law of South Australia; or
 
                      (b)  the South Australian Gas Legislation as it applies as a law of another State; or
 
@@ -321,15 +349,15 @@ The reference in paragraph (a) to the National Gas Law set out in the Schedule
 
                      (d)  the Western Australian Gas Legislation as it applies as a law of Western Australia.
 
-                    <a name="state-territori-tax-exempt-matter"></a>**_State/Territory tax‑exempt matter_** has the meaning given by subsection 13E(2).
+                    <a name="state-territori-tax-exempt-matter"></a>**_State/Territory tax-exempt matter_** has the meaning given by subsection 13E(2).
 
                     <a name="law"></a><a name="uniform-energi"></a>**_uniform energy_** **_law_** means:
 
-                     (a)  the South Australian Electricity Legislation; or
+                      (a)  the South Australian Electricity Legislation; or
 
                     (aa)  the South Australian Gas Legislation; or
 
-                   (ab)  the Western Australian Gas Legislation; or
+                    (ab)  the Western Australian Gas Legislation; or
 
                      (b)  provisions of a law of a State or Territory that:
 
@@ -341,7 +369,7 @@ The reference in paragraph (a) to the National Gas Law set out in the Schedule
 
                     <a name="western-australian-ga-legisl"></a>**_Western Australian Gas Legislation_** means:
 
-                     (a)  the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) as in force from time to time; and
+                      (a)  the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) as in force from time to time; and
 
                      (b)  any regulations, as in force from time to time, made under Part 3 of that Act.
 
@@ -351,7 +379,7 @@ The reference in paragraph (a) to the National Gas Access (Western Australia) 
 
                    Each of the following:
 
-                     (a)  this Act;
+                      (a)  this Act;
 
                      (b)  the National Electricity (Commonwealth) Law and Regulations;
 
@@ -359,15 +387,15 @@ The reference in paragraph (a) to the National Gas Access (Western Australia) 
 
                      (d)  the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations;
 
-                     (e)  a prescribed uniform energy law applied as a law of the Commonwealth;
+                      (e)  a prescribed uniform energy law applied as a law of the Commonwealth;
 
 binds the Crown in each of its capacities.
 
-##### <a id="5"></a>5  Extra‑territorial operation
+##### <a id="5"></a>5  Extra-territorial operation
 
                    It is the intention of the Parliament that the operation of:
 
-                     (a)  this Act; and
+                      (a)  this Act; and
 
                      (b)  the National Electricity (Commonwealth) Law and Regulations; and
 
@@ -375,7 +403,7 @@ binds the Crown in each of its capacities.
 
                      (d)  the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations; and
 
-                     (e)  a prescribed uniform energy law applied as a law of the Commonwealth;
+                      (e)  a prescribed uniform energy law applied as a law of the Commonwealth;
 
 should, as far as possible, include operation in relation to the following:
 
@@ -385,15 +413,15 @@ should, as far as possible, include operation in relation to the following:
 
                      (h)  things, acts, transactions and matters (wherever situated, done, entered into or occurring) that would, apart from this Act, be governed or otherwise affected by the law of a State, a Territory or a foreign country.
 
-## Part 2—Application of energy laws as laws of the Commonwealth
+## <span style="font-size:15.5pt">Part 2</span>—<span class="CharPartText">Application of energy laws as laws of the Commonwealth</span>
 
-### Division 1—Electricity laws
+### <span style="font-size:13.5pt">Division 1</span>—<span class="CharDivText">Electricity laws</span>
 
 ##### <a id="6"></a>6  Application of National Electricity Law in offshore areas etc.
 
              (1)  The National Electricity Law set out in the Schedule to the _National Electricity (South Australia) Act 1996_ of South Australia as in force from time to time:
 
-                     (a)  applies as a law of the Commonwealth:
+                      (a)  applies as a law of the Commonwealth:
 
                               (i)  in the offshore area of each State and Territory; and
 
@@ -407,7 +435,7 @@ should, as far as possible, include operation in relation to the following:
 
                    Regulations, as in force from time to time, made under Part 4 of the _National Electricity (South Australia) Act 1996_ of South Australia:
 
-                     (a)  apply as regulations in force for the purposes of the National Electricity (Commonwealth) Law; and
+                      (a)  apply as regulations in force for the purposes of the National Electricity (Commonwealth) Law; and
 
                      (b)  so applying may be referred to as the **_National Electricity (Commonwealth) Regulations_**.
 
@@ -445,25 +473,25 @@ should, as far as possible, include operation in relation to the following:
 
                     <a name="jurisdict"></a><a name="jurisdict"></a>**_the jurisdiction_** or **_this jurisdiction_** means the Commonwealth.
 
-                    <a name="law"></a><a name="nation-electr-law"></a>**_the National Electricity Law_** or **_this Law_** means the National Electricity (Commonwealth) Law.
+                    <a name="law"></a><a name="nation-electr-law"></a>**_the National Electricity Law_**or **_this Law_** means the National Electricity (Commonwealth) Law.
 
              (2)  The _Acts Interpretation Act 1915_ of South Australia, and other Acts of South Australia, do not apply to:
 
-                     (a)  the National Electricity Law set out in the Schedule to the _National Electricity (South Australia) Act 1996_ of South Australia applied as a law of the Commonwealth; or
+                      (a)  the National Electricity Law set out in the Schedule to the _National Electricity (South Australia) Act 1996_ of South Australia applied as a law of the Commonwealth; or
 
                      (b)  any regulations made under Part 4 of that Act applied as regulations for the purposes of the National Electricity (Commonwealth) Law.
 
              (3)  The reference in paragraph (2)(a) to the National Electricity Law set out in the Schedule to the _National Electricity (South Australia) Act 1996_ of South Australia includes a reference to any Rules or other instruments made or having effect under that Law.
 
-### Division 2—Gas laws
+### <span style="font-size:13.5pt">Division 2</span>—<span class="CharDivText">Gas laws</span>
 
-#### Subdivision A—General
+#### <span style="font-size:12.5pt">Subdivision A</span>—<span class="CharSubdText">General</span>
 
 ##### <a id="11A"></a>11A  Application of National Gas Law in offshore areas, certain Territories etc.
 
              (1)  The National Gas Law set out in the Schedule to the _National Gas (South Australia) Act 2008_ of South Australia as in force from time to time:
 
-                     (a)  applies as a law of the Commonwealth:
+                      (a)  applies as a law of the Commonwealth:
 
                               (i)  in the offshore area of each State and the Northern Territory; and
 
@@ -479,7 +507,7 @@ should, as far as possible, include operation in relation to the following:
 
                            (vii)  in the offshore area of the Territory of Cocos (Keeling) Islands; and
 
-                          (viii)  in the offshore area of the Territory of Heard Island and McDonald Islands; and
+                           (viii)  in the offshore area of the Territory of Heard Island and McDonald Islands; and
 
                             (ix)  in any other places, to any circumstances, or to any persons, that are prescribed by regulations for the purpose of this subparagraph; and
 
@@ -493,7 +521,7 @@ should, as far as possible, include operation in relation to the following:
 
              (1)  Regulations, as in force from time to time, made under Part 3 of the _National Gas (South Australia) Act 2008_ of South Australia:
 
-                     (a)  apply as regulations in force for the purposes of the National Gas (Commonwealth) Law; and
+                      (a)  apply as regulations in force for the purposes of the National Gas (Commonwealth) Law; and
 
                      (b)  so applying may be referred to as the **_National Gas (Commonwealth) Regulations_**.
 
@@ -537,19 +565,19 @@ should, as far as possible, include operation in relation to the following:
 
              (2)  The _Acts Interpretation Act 1915_ of South Australia, and other Acts of South Australia, do not apply to:
 
-                     (a)  the National Gas Law set out in the Schedule to the _National Gas (South Australia) Act 2008_ of South Australia applied as a law of the Commonwealth; or
+                      (a)  the National Gas Law set out in the Schedule to the _National Gas (South Australia) Act 2008_ of South Australia applied as a law of the Commonwealth; or
 
                      (b)  any regulations made under Part 3 of that Act applied as regulations for the purposes of the National Gas (Commonwealth) Law.
 
              (3)  The reference in paragraph (2)(a) to the National Gas Law set out in the Schedule to the _National Gas (South Australia) Act 2008_ of South Australia includes a reference to any Rules or other instruments made or having effect under that Law.
 
-#### Subdivision B—Offshore Western Australian pipelines
+#### <span style="font-size:12.5pt">Subdivision B</span>—<span class="CharSubdText">Offshore Western Australian pipelines</span>
 
 ##### <a id="11J"></a>11J  Application of Offshore Western Australian Pipelines Law in offshore area of Western Australia
 
              (1)  The National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) as in force from time to time:
 
-                     (a)  applies as a law of the Commonwealth in relation to so much of an offshore Western Australian pipeline as is situated in the offshore area of Western Australia; and
+                      (a)  applies as a law of the Commonwealth in relation to so much of an offshore Western Australian pipeline as is situated in the offshore area of Western Australia; and
 
                      (b)  so applying may be referred to as the **_Offshore Western Australian Pipelines (Commonwealth) Law_**.
 
@@ -559,7 +587,7 @@ should, as far as possible, include operation in relation to the following:
 
                    Regulations, as in force from time to time, made under Part 3 of the _National Gas Access (WA) Act 2009_ of Western Australia:
 
-                     (a)  apply as regulations in force for the purposes of the Offshore Western Australian Pipelines (Commonwealth) Law; and
+                      (a)  apply as regulations in force for the purposes of the Offshore Western Australian Pipelines (Commonwealth) Law; and
 
                      (b)  so applying may be referred to as the **_Offshore Western Australian Pipelines (Commonwealth) Regulations_**.
 
@@ -595,35 +623,35 @@ should, as far as possible, include operation in relation to the following:
 
              (2)  The _Interpretation Act 1984_ of Western Australia, and other Acts of Western Australia, do not apply to:
 
-                     (a)  the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) applied as a law of the Commonwealth; or
+                      (a)  the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) applied as a law of the Commonwealth; or
 
                      (b)  any regulations made under Part 3 of that Act applied as regulations for the purposes of the Offshore Western Australian Pipelines (Commonwealth) Law.
 
              (3)  The reference in paragraph (2)(a) to the National Gas Access (Western Australia) Law (within the meaning of the _National Gas Access (WA) Act 2009_ of Western Australia) includes a reference to any Rules or other instruments made or having effect under that Law.
 
-##### <a id="11S"></a>11S  Inter‑governmental arrangements relating to the administration of the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
+##### <a id="11S"></a>11S  Inter-governmental arrangements relating to the administration of the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations
 
              (1)  The Commonwealth may enter into arrangements with Western Australia for the effective administration of the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations.
 
              (2)  Without limiting subsection (1), such an arrangement may provide for the exercise of powers, or the performance of functions or duties, by an officer or authority of Western Australia in relation to offshore Western Australian pipelines.
 
-### Division 3—Prescribed uniform energy laws
+### <span style="font-size:13.5pt">Division 3</span>—<span class="CharDivText">Prescribed uniform energy laws</span>
 
 ##### <a id="12"></a>12  Application of other uniform energy laws in offshore areas
 
                    A prescribed  uniform energy law:
 
-                     (a)  applies as a law of the Commonwealth in the offshore area of each State and Territory; and
+                      (a)  applies as a law of the Commonwealth in the offshore area of each State and Territory; and
 
                      (b)  so applying may be referred to by the name given to it by the regulations.
 
-## Part 3—Miscellaneous
+## <span style="font-size:15.5pt">Part 3</span>—<span class="CharPartText">Miscellaneous</span>
 
 ##### <a id="13"></a>13  Application of the _Administrative Decisions (Judicial Review) Act 1977_
 
              (1)  This section applies in respect of any decision under:
 
-                     (a)  the National Electricity (Commonwealth) Law; or
+                      (a)  the National Electricity (Commonwealth) Law; or
 
                      (b)  the National Electricity (Commonwealth) Regulations; or
 
@@ -631,7 +659,7 @@ should, as far as possible, include operation in relation to the following:
 
                     (ca)  the National Gas (Commonwealth) Regulations; or
 
-                   (cb)  the Offshore Western Australian Pipelines (Commonwealth) Law; or
+                    (cb)  the Offshore Western Australian Pipelines (Commonwealth) Law; or
 
                     (cc)  the Offshore Western Australian Pipelines (Commonwealth) Regulations; or
 
@@ -653,7 +681,7 @@ Note 4:       Functions and powers conferred, and duties imposed, on
 
              (2)  Subsection (1) does not authorise the conferral of a function or power, or the imposition of a duty, by a State/Territory energy law to the extent to which:
 
-                     (a)  the conferral or imposition, or the authorisation, would contravene any constitutional doctrines restricting the duties that may be imposed on the Commonwealth Minister; or
+                      (a)  the conferral or imposition, or the authorisation, would contravene any constitutional doctrines restricting the duties that may be imposed on the Commonwealth Minister; or
 
                      (b)  the authorisation would otherwise exceed the legislative power of the Commonwealth.
 
@@ -671,7 +699,7 @@ State or Territory legislative power sufficient to support duty
 
              (2)  The duty is taken not to be imposed by this Act (or any other law of the Commonwealth) to the extent to which:
 
-                     (a)  imposing the duty is within the legislative powers of the State or Territory concerned; and
+                      (a)  imposing the duty is within the legislative powers of the State or Territory concerned; and
 
                      (b)  imposing the duty by the law of the State or Territory is consistent with the constitutional doctrines restricting the duties that may be imposed on the Commonwealth Minister.
 
@@ -685,7 +713,7 @@ Commonwealth legislative power sufficient to support duty but State or Territory
 
              (5)  The duty is taken to be imposed by this Act in accordance with subsection (3) only to the extent to which imposing the duty:
 
-                     (a)  is within the legislative powers of the Commonwealth; and
+                      (a)  is within the legislative powers of the Commonwealth; and
 
                      (b)  is consistent with the constitutional doctrines restricting the duties that may be imposed on the Commonwealth Minister.
 
@@ -695,7 +723,7 @@ Commonwealth legislative power sufficient to support duty but State or Territory
 
                    For the purposes of sections 13A and 13B, a State/Territory energy law **_imposes a duty_** on the Commonwealth Minister if:
 
-                     (a)  the law confers a function or power on the Commonwealth Minister; and
+                      (a)  the law confers a function or power on the Commonwealth Minister; and
 
                      (b)  the circumstances in which the function or power is conferred give rise to an obligation on the Commonwealth Minister to perform the function or to exercise the power.
 
@@ -703,15 +731,15 @@ Commonwealth legislative power sufficient to support duty but State or Territory
 
              (1)  No consequences arise, for the purposes of a prescribed law of the Commonwealth relating to taxation, in respect of:
 
-                     (a)  a federal tax‑exempt matter; or
+                      (a)  a federal tax-exempt matter; or
 
-                     (b)  anything done (including, for example, a transaction entered into or an instrument or document made, executed, lodged or given) because of, or arising out of, a federal tax‑exempt matter.
+                     (b)  anything done (including, for example, a transaction entered into or an instrument or document made, executed, lodged or given) because of, or arising out of, a federal tax-exempt matter.
 
              (2)  In this Act:
 
-                    <a name="exempt-matter"></a><a name="feral-tax"></a>**_federal tax_**‑**_exempt matter_** means a transfer of assets or liabilities that the Commonwealth Minister and the Treasurer are satisfied is made:
+                    <a name="exempt-matter"></a><a name="feral-tax"></a>**_federal tax_**-**_exempt matter_** means a transfer of assets or liabilities that the Commonwealth Minister and the Treasurer are satisfied is made:
 
-                     (a)  for the purpose of ensuring that a person does not carry on a business of producing, purchasing or selling natural gas in breach of:
+                      (a)  for the purpose of ensuring that a person does not carry on a business of producing, purchasing or selling natural gas in breach of:
 
                               (i)  a State/Territory gas law; or
 
@@ -737,21 +765,21 @@ Commonwealth legislative power sufficient to support duty but State or Territory
 
 and for no other purpose.
 
-             (3)  In paragraph (a) of the definition of **_federal tax_**‑**_exempt matter_** in subsection (2), **_natural gas_** has the same meaning as in the National Gas Law set out in the Schedule to the _National Gas (South Australia) Act 2008_ of South Australia.
+             (3)  In paragraph (a) of the definition of **_federal tax_**-**_exempt matter_** in subsection (2), **_natural gas_** has the same meaning as in the National Gas Law set out in the Schedule to the _National Gas (South Australia) Act 2008_ of South Australia.
 
 ##### <a id="13E"></a>13E  Exemption from State and Territory taxes
 
              (1)  Any stamp duty or other tax imposed by or under a law of a State or Territory is not payable in relation to:
 
-                     (a)  a State/Territory tax‑exempt matter; or
+                      (a)  a State/Territory tax-exempt matter; or
 
-                     (b)  anything done (including, for example, a transaction entered into or an instrument or document made, executed, lodged or given) because of, or arising out of, a State/Territory tax‑exempt matter.
+                     (b)  anything done (including, for example, a transaction entered into or an instrument or document made, executed, lodged or given) because of, or arising out of, a State/Territory tax-exempt matter.
 
              (2)  In this Act:
 
-                    <a name="state-territori-tax-exempt-matter"></a>**_State/Territory tax‑exempt matter_** means a transfer of assets or liabilities that the Commonwealth Minister is satisfied is made:
+                    <a name="state-territori-tax-exempt-matter"></a>**_State/Territory tax-exempt matter_** means a transfer of assets or liabilities that the Commonwealth Minister is satisfied is made:
 
-                     (a)  for the purpose of ensuring that a person does not carry on a business of producing, purchasing or selling natural gas in breach of:
+                      (a)  for the purpose of ensuring that a person does not carry on a business of producing, purchasing or selling natural gas in breach of:
 
                               (i)  the National Gas (Commonwealth) Law; or
 
@@ -773,13 +801,13 @@ and for no other purpose.
 
 and for no other purpose.
 
-             (3)  In paragraph (a) of the definition of **_State/Territory tax_**‑**_exempt matter_** in subsection (2), **_natural gas_** has the same meaning as in the National Gas Law set out in the Schedule to the _National Gas (South Australia) Act 2008_ of South Australia.
+             (3)  In paragraph (a) of the definition of **_State/Territory tax_**-**_exempt matter_** in subsection (2), **_natural gas_** has the same meaning as in the National Gas Law set out in the Schedule to the _National Gas (South Australia) Act 2008_ of South Australia.
 
 ##### <a id="13F"></a>13F  Legislative instruments
 
              (1)  To avoid doubt, an instrument made or having effect under:
 
-                     (a)  the National Electricity (Commonwealth) Law; or
+                      (a)  the National Electricity (Commonwealth) Law; or
 
                      (b)  the National Electricity (Commonwealth) Regulations; or
 
@@ -789,7 +817,7 @@ is taken not to be, and never to have been, a legislative instrument for the pur
 
              (2)  To avoid doubt, an instrument made or having effect under:
 
-                     (a)  the National Gas (Commonwealth) Law; or
+                      (a)  the National Gas (Commonwealth) Law; or
 
                      (b)  the National Gas (Commonwealth) Regulations; or
 
@@ -803,13 +831,13 @@ is taken not to be a legislative instrument for the purposes of the _Legislative
 
              (1)  The Federal Court is invested with jurisdiction with respect to civil and criminal matters arising under:
 
-                     (a)  the National Electricity (Commonwealth) Law and Regulations; or
+                      (a)  the National Electricity (Commonwealth) Law and Regulations; or
 
                      (b)  the National Gas (Commonwealth) Law and Regulations.
 
              (2)  If a provision of:
 
-                     (a)  the National Electricity (Commonwealth) Law; or
+                      (a)  the National Electricity (Commonwealth) Law; or
 
                      (b)  the National Gas (Commonwealth) Law;
 
@@ -821,7 +849,7 @@ whether expressly or by implication, authorises a civil or criminal proceeding t
 
              (2)  If a provision of the Offshore Western Australian Pipelines (Commonwealth) Law, whether expressly or by implication, authorises a civil or criminal proceeding to be instituted in the Supreme Court of Western Australia in relation to a matter:
 
-                     (a)  that provision is taken to vest the Court with jurisdiction in that matter; and
+                      (a)  that provision is taken to vest the Court with jurisdiction in that matter; and
 
                      (b)  the jurisdiction so vested is not limited by any limits to which any other jurisdiction of the Court may be subject.
 
@@ -831,27 +859,27 @@ whether expressly or by implication, authorises a civil or criminal proceeding t
 
              (2)  If a provision of a prescribed uniform energy law of a State or Territory applied as a law of the Commonwealth, whether expressly or by implication, authorises a civil or criminal proceeding to be instituted in a court of the State or Territory in relation to a matter:
 
-                     (a)  that provision is taken to vest the court with jurisdiction in that matter; and
+                      (a)  that provision is taken to vest the court with jurisdiction in that matter; and
 
                      (b)  the jurisdiction so vested is not limited by any limits to which any other jurisdiction of the court may be subject.
 
 ##### <a id="14"></a>14  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
-                     (a)  required or permitted by this Act to be prescribed; or
+                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
              (2)  Regulations may be made providing for the interpretation of a uniform energy law applied as a law of the Commonwealth. In particular, the regulations may provide that the following do not apply to the uniform energy law applied as a law of the Commonwealth:
 
-                     (a)  any law, or any provision of a law, of the Commonwealth, a State or Territory, being a law relating to the interpretation of laws;
+                      (a)  any law, or any provision of a law, of the Commonwealth, a State or Territory, being a law relating to the interpretation of laws;
 
                      (b)  any other law, or any other provision of a law, of the Commonwealth, a State or Territory.
 
              (3)  The regulations may modify or adapt any provision of:
 
-                     (a)  the National Electricity (Commonwealth) Law; or
+                      (a)  the National Electricity (Commonwealth) Law; or
 
                      (b)  the National Electricity (Commonwealth) Regulations; or
 
@@ -859,7 +887,7 @@ whether expressly or by implication, authorises a civil or criminal proceeding t
 
                     (ca)  the National Gas (Commonwealth) Regulations; or
 
-                   (cb)  the Offshore Western Australian Pipelines (Commonwealth) Law; or
+                    (cb)  the Offshore Western Australian Pipelines (Commonwealth) Law; or
 
                     (cc)  the Offshore Western Australian Pipelines (Commonwealth) Regulations; or
 
@@ -867,13 +895,11 @@ whether expressly or by implication, authorises a civil or criminal proceeding t
 
 as it applies as a provision of a law of the Commonwealth.
 
-# Notes to the _Australian Energy Market Act 2004_
+# <span style="font-size:13.5pt">Notes to the </span>_Australian Energy Market Act 2004_
 
 ### Note 1
 
 The _Australian Energy Market Act 2004_ as shown in this compilation comprises Act No. 99, 2004 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -922,7 +948,7 @@ of Assent</div>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -947,16 +973,16 @@ Remainder: Royal Assent</div>
     <div>as amended by</div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -987,7 +1013,7 @@ Remainder: Royal Assent</div>
     <div>22 June 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (items 2–11): <i>(a)</i></div>
+    <div>Schedule 2 (items 2–11): <i>(a)</i> </div>
   </td>
   <td>
     <div>—</div>
@@ -1006,7 +1032,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 1 (items 2–50): 1 July 2008 ( <i>see</i>F2008L02164) 
 Schedule 2 (items 1–4): <i>(b)</i> 
-Schedule 2 (item 9): <i>(b)</i></div>
+Schedule 2 (item 9): <i>(b)</i> </div>
   </td>
   <td>
     <div>—</div>
@@ -1017,16 +1043,16 @@ Schedule 2 (item 9): <i>(b)</i></div>
     <div>as amended by</div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -1057,7 +1083,7 @@ Schedule 2 (item 9): <i>(b)</i></div>
     <div>30 June 2008</div>
   </td>
   <td>
-    <div>Schedule 2: <i>(c)</i></div>
+    <div>Schedule 2: <i>(c)</i> </div>
   </td>
   <td>
     <div>—</div>
@@ -1113,28 +1139,11 @@ Schedule 2 (item 9): <i>(b)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Energy Market Amendment (National Energy Retail Law) Act 2011</div>
-  </td>
-  <td>
-    <div>119, 2011</div>
-  </td>
-  <td>
-    <div>14 Oct 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>s. 2(1), Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 19)</div>
-  </td>
 </tr></table>
 
-_(a)_ Subsection 2(1) (item 4) of the _Energy Legislation Amendment Act 2006_ provides as follows:
+_(a)_Subsection 2(1) (item 4) of the _Energy Legislation Amendment Act 2006_ provides as follows:
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -1219,9 +1228,9 @@ _(a)_ Subsection 2(1) (item 4) of the _Energy Legislation Amendment Act 2006_ 
   </td>
 </tr></table>
 
-_(b)_ Subsection 2(1) (items 3 and 4) of the _Australian Energy Market Amendment (Gas Legislation) Act 2007_ provides as follows:
+_(b)_Subsection 2(1) (items 3 and 4) of the _Australian Energy Market Amendment (Gas Legislation) Act 2007_ provides as follows:
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -1312,9 +1321,9 @@ _(b)_ Subsection 2(1) (items 3 and 4) of the _Australian Energy Market Amendme
   </td>
 </tr></table>
 
-_(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor Amendments) Act 2008_ provides as follows:
+_(c)_Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor Amendments) Act 2008_ provides as follows:
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
@@ -1396,10 +1405,10 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div><b> Part 1 </b></div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -1420,18 +1429,18 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
+    <div><b> Part 2 </b></div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b> Division 1 </b></div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -1476,7 +1485,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
     <div>rep. No. 45, 2007</div>
@@ -1540,10 +1549,10 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b> Division 2 </b></div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -1556,10 +1565,10 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision A</b></div>
+    <div><b> Subdivision A </b></div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -1580,7 +1589,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
     <div>am. No. 45, 2007; No. 60, 2008</div>
@@ -1604,7 +1613,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
     <div>am. No. 60, 2008</div>
@@ -1628,7 +1637,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
     <div>am. No. 60, 2008</div>
@@ -1636,10 +1645,10 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision B</b></div>
+    <div><b> Subdivision B </b></div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -1660,7 +1669,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
     <div>am. No. 45, 2007; No. 60, 2008; No. 17, 2009</div>
@@ -1684,7 +1693,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
     <div>am. No. 60, 2008; No. 17, 2009</div>
@@ -1716,7 +1725,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
     <div>am. No. 60, 2008; No. 17, 2009</div>
@@ -1732,10 +1741,10 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b> Division 3 </b></div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -1764,10 +1773,10 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
+    <div><b> Part 3 </b></div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -1812,7 +1821,7 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
 </tr>
 <tr>
   <td>
-    <div></div>
+    <div> </div>
   </td>
   <td>
     <div>am. No. 60, 2008</div>
@@ -1842,331 +1851,5 @@ _(c)_ Subsection 2(1) (item 2) of the _Australian Energy Market Amendment (Minor
     <div>am. No. 45, 2007</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Australian Energy Market Amendment (National Energy Retail Law) Act 2011 (No. 119, 2011)_
-
-The following amendments commence on the time, or the earliest time, that the National Energy Retail Law as set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia starts to apply under an Act of a State or of the Australian Capital Territory or the Northern Territory. However, the amendments may not commence (_see_ subsection 2(1) (item 2)):
-
-## Schedule 1
-
-## 1  Section 3
-
-Insert:
-
-                    <a name="nation-energi-retail-law-regul-commonwealth"></a>**_National Energy Retail Law and Regulations (Commonwealth)_** means:
-
-                     (a)  the National Energy Retail Law (Commonwealth); and
-
-                     (b)  the National Energy Retail Regulations (Commonwealth).
-
-## 2  Section 3
-
-Insert:
-
-                    <a name="nation-energi-retail-law-commonwealth"></a>**_National Energy Retail Law (Commonwealth)_** means the provisions applying under section 11T.
-
-## 3  Section 3
-
-Insert:
-
-                    <a name="nation-energi-retail-regul-commonwealth"></a>**_National Energy Retail Regulations (Commonwealth)_** means the provisions applying under section 11U.
-
-## 4  Section 3
-
-Insert:
-
-                    <a name="south-australian-energi-retail-legisl"></a>**_South Australian Energy Retail Legislation_** means:
-
-                     (a)  the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time; and
-
-                     (b)  any regulations, as amended from time to time, made under Part 11 of the National Energy Retail Law.
-
-The reference in paragraph (a) to the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time, includes a reference to any Rules or other instruments, as amended from time to time, made or having effect under that Law.
-
-## 5  Section 3 (at the end of the definition of _State/Territory energy law_)
-
-Add:
-
-               ; or (c)  a State/Territory energy retail law.
-
-## 6  Section 3
-
-Insert:
-
-                    <a name="state-territori-energi-retail-law"></a>**_State/Territory energy retail law_** means:
-
-                     (a)  the South Australian Energy Retail Legislation as it applies as a law of South Australia; or
-
-                     (b)  the South Australian Energy Retail Legislation as it applies as a law of another State; or
-
-                     (c)  the South Australian Energy Retail Legislation as it applies as a law of the Australian Capital Territory or the Northern Territory.
-
-## 7  Section 3 (after paragraph (ab) of the definition of _uniform energy law_)
-
-Insert:
-
-                    (ac)  the South Australian Energy Retail Legislation; or
-
-## 8  After paragraph 4(d)
-
-Insert:
-
-                   (da)  the National Energy Retail Law and Regulations (Commonwealth);
-
-## 9  At the end of section 5
-
-Add:
-
-Note:          Section 17 of the National Energy Retail Law (Commonwealth) provides for the extra‑territorial operation of the National Energy Retail Law (Commonwealth).
-
-## 10  After Division 2 of Part 2
-
-Insert:
-
-### Division 2A—Energy retail laws
-
-##### <a id="11T"></a>11T  Application of National Energy Retail Law in offshore areas etc.
-
-             (1)  The National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time:
-
-                     (a)  applies as a law of the Commonwealth:
-
-                              (i)  in the offshore area of each State and Territory; and
-
-                             (ii)  in any other places, to any circumstances, or to any persons, that are prescribed by regulations for the purpose of this subparagraph; and
-
-                     (b)  so applying may be referred to as the **_National Energy Retail Law (Commonwealth)_**.
-
-             (2)  The reference in subsection (1) to the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time, includes a reference to any Rules or other instruments, as amended from time to time, made or having effect under that Law.
-
-##### <a id="11U"></a>11U  Application of National Energy Retail Regulations in offshore areas etc.
-
-                   Regulations, as amended from time to time, made under Part 11 of the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia:
-
-                     (a)  apply as regulations in force for the purposes of the National Energy Retail Law (Commonwealth); and
-
-                     (b)  so applying may be referred to as the **_National Energy Retail Regulations (Commonwealth)_**.
-
-##### <a id="11V"></a>11V  Functions and powers of the Australian Energy Market Commission under the National Energy Retail Law and Regulations (Commonwealth)
-
-             (1)  The Australian Energy Market Commission has the functions and powers conferred on it under the National Energy Retail Law and Regulations (Commonwealth).
-
-             (2)  Any delegation by the Australian Energy Market Commission is taken to extend to, and have effect for the purposes of, the National Energy Retail Law and Regulations (Commonwealth).
-
-##### <a id="11W"></a>11W  Functions and powers of the Australian Energy Regulator under the National Energy Retail Law and Regulations (Commonwealth)
-
-             (1)  The Australian Energy Regulator has the functions and powers conferred on it under the National Energy Retail Law and Regulations (Commonwealth).
-
-             (2)  Any delegation by the Australian Energy Regulator is taken to extend to, and have effect for the purposes of, the National Energy Retail Law and Regulations (Commonwealth).
-
-##### <a id="11X"></a>11X  Functions and powers of the Australian Competition Tribunal under the National Energy Retail Law and Regulations (Commonwealth)
-
-                   The Australian Competition Tribunal has the functions and powers conferred on it under the National Energy Retail Law and Regulations (Commonwealth).
-
-##### <a id="11Y"></a>11Y  Functions and powers of the Commonwealth Minister under the National Energy Retail Law and Regulations (Commonwealth)
-
-             (1)  The Commonwealth Minister has the functions and powers conferred on him or her under the National Energy Retail Law and Regulations (Commonwealth).
-
-             (2)  Any delegation by the Commonwealth Minister is taken to extend to, and have effect for the purposes of, the National Energy Retail Law and Regulations (Commonwealth).
-
-##### <a id="11Z"></a>11Z  Interpretation of the National Energy Retail Law and Regulations (Commonwealth) etc.
-
-             (1)  In the National Energy Retail Law and Regulations (Commonwealth):
-
-                    <a name="law"></a><a name="nation-energi-retail-law"></a>**_National Energy Retail Law_** or **_this Law_** means the National Energy Retail Law (Commonwealth).
-
-                    <a name="jurisdict"></a><a name="jurisdict"></a>**_the jurisdiction_** or **_this jurisdiction_** means the Commonwealth.
-
-             (2)  The _Acts Interpretation Act 1915_ of South Australia, and other Acts of South Australia, do not apply to:
-
-                     (a)  the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia applied as a law of the Commonwealth; or
-
-                     (b)  any regulations made under Part 11 of the National Energy Retail Law applied as regulations for the purposes of the National Energy Retail Law (Commonwealth).
-
-             (3)  The reference in paragraph (2)(a) to the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia includes a reference to any Rules or other instruments made or having effect under that Law.
-
-             (4)  Nothing in section 17 of the National Energy Retail Law (Commonwealth) has effect in relation to the sale and supply of energy outside the territorial limits of all the participating jurisdictions for the purposes of that Law.
-
-## 11  After paragraph 13(1)(cc)
-
-Insert:
-
-                   (cd)  the National Energy Retail Law (Commonwealth); or
-
-                    (ce)  the National Energy Retail Regulations (Commonwealth); or
-
-## 12  Subsection 13B(1) (note)
-
-Omit “Note”, substitute “Note 1”.
-
-## 13  At the end of subsection 13B(1)
-
-Add:
-
-Note 2:       Section 320 of a State/Territory energy retail law deals with the case where a duty purportedly imposed on the Commonwealth Minister under that law cannot be imposed by the State or Territory or the Commonwealth due to constitutional doctrines restricting such duties.
-
-## 14  At the end of section 13F
-
-Add:
-
-             (3)  To avoid doubt, an instrument made or having effect under:
-
-                     (a)  the National Energy Retail Law (Commonwealth); or
-
-                     (b)  the National Energy Retail Regulations (Commonwealth);
-
-is taken not to be a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
-
-## 15  At the end of subsection 13G(1)
-
-Add:
-
-               ; or (c)  the National Energy Retail Law and Regulations (Commonwealth).
-
-## 16  After paragraph 13G(2)(b)
-
-Insert:
-
-                 or (c)  the National Energy Retail Law (Commonwealth);
-
-## 17  After section 13J
-
-Insert:
-
-##### <a id="13K"></a>13K  Validation of instruments and decisions of Australian Energy Regulator—energy retail laws
-
-             (1)  This section applies to an instrument or a decision made by the Australian Energy Regulator if:
-
-                     (a)  the instrument or decision was made:
-
-                              (i)  on or after the time  that the _National Energy Retail Law (South Australia) Act 2011_ of South Australia was enacted; but
-
-                             (ii)  before the time (the **_application time_**) that the South Australian Energy Retail Legislation  first started to apply under this Act as a law of the Commonwealth; and
-
-                     (b)  the making of the instrument or decision would have been authorised by the National Energy Retail Law and Regulations (Commonwealth) (the **_authorising law_**) if the South Australian Energy Retail Legislation had started so to apply; and
-
-                     (c)  in a case in which the making of the instrument or decision would be so authorised subject to the satisfaction of any conditions or other requirements (for example, consultation or publication requirements)—the Australian Energy Regulator has done anything that would, if the South Australian Energy Retail Legislation had started so to apply, be required under the authorising law for the instrument or decision to be so authorised.
-
-             (2)  For the purposes of the  authorising law:
-
-                     (a)  the instrument or decision is taken to be valid; and
-
-                     (b)  the instrument or decision has effect from the application time:
-
-                              (i)  as varied, and unless revoked, by any other instrument or decision to which this section applies; and
-
-                             (ii)  subject to that law as so applying.
-
-             (3)  For the purposes of this section:
-
-                     (a)  guidelines are an example of an instrument; and
-
-                     (b)  the following are examples of decisions:
-
-                              (i)  appointments;
-
-                             (ii)  determinations;
-
-                            (iii)  approvals.
-
-##### <a id="13L"></a>13L  Authorisation of preparatory steps for instruments or decisions of Australian Energy Regulator—energy retail laws
-
-             (1)  This section applies if:
-
-                     (a)  the Australian Energy Regulator is required to do something (a **_preparatory step_**) before making a decision or making an instrument under the National Energy Retail Law and Regulations (Commonwealth) (the **_authorising law_**); and
-
-                     (b)  the Australian Energy Regulator takes the preparatory step:
-
-                              (i)  on or after the time  that the _National Energy Retail Law (South Australia) Act 2011_ of South Australia was enacted; but
-
-                             (ii)  before the time that the South Australian Energy Retail Legislation  first started to apply under this Act as a law of the Commonwealth.
-
-             (2)  For the purposes of the authorising law, the Australian Energy Regulator is taken to have complied with the requirement to take the preparatory step.
-
-##### <a id="13M"></a>13M  Validation of instruments and decisions of Australian Energy Regulator—electricity and gas laws
-
-             (1)  This section applies to an instrument or a decision made by the Australian Energy Regulator if:
-
-                     (a)  the instrument or decision was made:
-
-                              (i)  on or after the time that the amendments of the South Australian Electricity Legislation or the South Australian Gas Legislation by the _Statutes Amendment (National Energy Retail Law) Act 2011_ of South Australia were enacted; but
-
-                             (ii)  before the time (the **_application time_**) that the amendments started to apply under this Act as a law of the Commonwealth; and
-
-                     (b)  the making of the instrument or decision would have been authorised by the National Electricity (Commonwealth) Law and Regulations or the National Gas (Commonwealth) Law and Regulations (the **_authorising law_**) if the amendments had started so to apply; and
-
-                     (c)  in a case in which the making of the instrument or decision would be so authorised subject to the satisfaction of any conditions or other requirements (for example, consultation or publication requirements)—the Australian Energy Regulator has done anything that would, if the amendments had started so to apply, be required under the authorising law for the instrument or decision to be so authorised.
-
-             (2)  For the purposes of the authorising law:
-
-                     (a)  the instrument or decision is taken to be valid; and
-
-                     (b)  the instrument or decision has effect from the application time:
-
-                              (i)  as varied, and unless revoked, by any other instrument or decision to which this section applies; and
-
-                             (ii)  subject to that law as so applying.
-
-             (3)  For the purposes of this section:
-
-                     (a)  guidelines are an example of an instrument; and
-
-                     (b)  the following are examples of decisions:
-
-                              (i)  appointments;
-
-                             (ii)  determinations;
-
-                            (iii)  approvals.
-
-##### <a id="13N"></a>13N  Authorisation of preparatory steps for instruments or decisions of Australian Energy Regulator—electricity and gas laws
-
-             (1)  This section applies if:
-
-                     (a)  the Australian Energy Regulator is required to do something (a **_preparatory step_**) before making a decision or making an instrument under the National Electricity (Commonwealth) Law and Regulations or the National Gas (Commonwealth) Law and Regulations (the **_authorising law_**); and
-
-                     (b)  the preparatory step would have been required under the authorising law if the amendments of South Australian Electricity Legislation or the South Australian Gas Legislation made by the _Statutes Amendment (National Energy Retail Law) Act 2011_ of South Australia had started to apply under this Act as a law of the  Commonwealth; and
-
-                     (c)  the Australian Energy Regulator takes the preparatory step:
-
-                              (i)  on or after the time that the amendments were enacted; but
-
-                             (ii)  before the time that the amendments started to apply under this Act as a law of the Commonwealth.
-
-             (2)  For the purposes of the authorising law, the Australian Energy Regulator is taken to have complied with the requirement to take the preparatory step.
-
-## 18  After paragraph 14(3)(cc)
-
-Insert:
-
-                   (cd)  the National Energy Retail Law (Commonwealth); or
-
-                    (ce)  the National Energy Retail Regulations (Commonwealth); or
-
-As at 7 November 2011 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Australian Energy Market Amendment (National Energy Retail Law) Act 2011 (No. 119, 2011)_
-
-The following provision commences on the time, or the earliest time, that the National Energy Retail Law as set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia starts to apply under an Act of a State or of the Australian Capital Territory or the Northern Territory. However, the provision may not commence (_see_ subsection 2(1) (item 2)):
-
-## Schedule 1
-
-## 19  Transitional—regulations
-
-            The Governor‑General may make regulations dealing with matters of a transitional, saving, or application nature relating to:
-
-                     (a)  the amendments made by Part 1 of this Schedule; or
-
-                     (b)  the National Energy Retail Law and Regulations (Commonwealth); or
-
-                     (c)  the amendments of the South Australian Electricity Legislation made by the _Statutes Amendment (National Energy Retail Law) Act 2011_ of South Australia that apply as a law of the Commonwealth under the _Australian Energy Market Act 2004_; or
-
-                     (d)  the amendments of the South Australian Gas Legislation made by the _Statutes Amendment (National Energy Retail Law) Act 2011_ of South Australia that apply as law of the Commonwealth under the _Australian Energy Market Act 2004_.
 
  
