@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00089/Html/f4f6d2d7-396f-4946-8dfd-3624b9fa69e5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00874/Html/66db1d24-dcaf-426b-8aa4-472980411ba0_files/image001.gif)
 
 # Telecommunications (Consumer Protection and Service Standards) Act 1999
 
 **Act No. 50 of 1999 as amended**
 
-This compilation was prepared on 10 January 2012
+This compilation was prepared on 28 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -2892,7 +2892,7 @@ Note:          The levy contribution factor is used to work ou
 
              (2)  The **_levy contribution factor_** for an eligible revenue period is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00089/Html/f4f6d2d7-396f-4946-8dfd-3624b9fa69e5_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00874/Html/66db1d24-dcaf-426b-8aa4-472980411ba0_files/image002.gif)
 
 where:
 
@@ -2998,7 +2998,7 @@ Note:          The assessment may be included in the same docu
 
              (2)  The **_levy debit_** is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00089/Html/f4f6d2d7-396f-4946-8dfd-3624b9fa69e5_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00874/Html/66db1d24-dcaf-426b-8aa4-472980411ba0_files/image003.gif)
 
 where:
 
@@ -3576,7 +3576,7 @@ Note:          The **_most recent eligible revenue assessment_
 
              (2)  Each taxpayer’s NRS contribution amount for the current quarter is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00089/Html/f4f6d2d7-396f-4946-8dfd-3624b9fa69e5_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00874/Html/66db1d24-dcaf-426b-8aa4-472980411ba0_files/image004.gif)
 
 Note:          Levy is imposed on the NRS contribution amount by the _NRS Levy Imposition Act 1998_.
 
@@ -5472,13 +5472,21 @@ Definitions
 
 ##### <a id="158V"></a>158V  Acting appointments—RTIRC Chair
 
-                   The Minister may appoint an RTIRC member to act as the RTIRC Chair:
+             (1)  The Minister may appoint an RTIRC member to act as the RTIRC Chair:
 
                      (a)  during a vacancy in the office of the RTIRC Chair, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the RTIRC Chair is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="158W"></a>158W  Procedures
 
@@ -6038,7 +6046,7 @@ Schedule 3: Royal Assent</div>
     <div>15 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 214–226): 15 Mar 2011 
+    <div>Schedule 1 (items 214–226): 15 Mar 2011 
 Schedule 1 (items 227–240): 15 June 2011</div>
   </td>
   <td>
@@ -6056,7 +6064,7 @@ Schedule 1 (items 227–240): 15 June 2011</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1137–1139) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1137–1139) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -9601,39 +9609,7 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>S. 158U</div>
-  </td>
-  <td>
-    <div>ad. No. 117, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 158V</div>
-  </td>
-  <td>
-    <div>ad. No. 117, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 158V</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 158W–158Z</div>
+    <div>Ss. 158U–158Z</div>
   </td>
   <td>
     <div>ad. No. 117, 2005</div>
@@ -9799,6 +9775,30 @@ Part 2</div>
     <div>rep. No. 111, 2009</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1137  Subsection 158V(1)
+
+Omit “(1)”.
+
+## 1138  At the end of subsection 158V(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1139  Subsection 158V(2)
+
+Repeal the subsection.
+
+As at 28 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -10253,7 +10253,7 @@ The Governor‑General may make regulations in relation to any matters of a tran
 
 ## Schedule 3
 
-## 7  Application
+## 7  Application
 
 Despite the repeal and substitution of subsection 2(2) of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ made by item 6, that subsection continues to apply, after this item commences in relation to the financial year that ended on 30 June 2000, as if that repeal and substitution had not happened.
 
@@ -10458,6 +10458,8 @@ The amendments of section 120 of the _Telecommunications (Consumer Protection 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
