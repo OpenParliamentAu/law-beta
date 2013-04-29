@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00149/Html/92d42b5f-f7e6-4560-acc0-99a5a33ea351_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00159/Html/75479c32-9c47-49d4-9859-9a627f3f719a_files/image001.gif)
 
 # Protection of the Sea (Civil Liability) Act 1981
 
 **Act No. 31 of 1981 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 29 March 2011
  taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
@@ -513,8 +513,6 @@ is a charge on that ship, or on each of those ships, as the case may be.
              (1)  Subject to subsection (2), where an amount is, by virtue of section 21, a charge on a ship, the ship may be detained by a person authorized in writing by the Minister for the purposes of this section and may be so detained until the amount is paid or security for the payment of the amount is provided to the satisfaction of the Minister.
 
           (1A)  If a ship is detained under this section, the person authorised to detain it may escort it to a port in Australia.
-
-          (1B)  While a ship is detained under this section, a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
 
              (2)  Subsection (1) does not apply in relation to a foreign ship unless the ship is in Australian waters or in the exclusive economic zone.
 
@@ -1623,10 +1621,10 @@ of Assent</div>
   </td>
   <td>
     <div>Part IV (ss. 
-35–40): 9 Oct 1996 ( <i>see Gazette</i>1996, No. S376) <i>(c)</i></div>
+35–40): 9 Oct 1996 ( <i>see Gazette</i>1996, No. S376) <i>(c)</i></div>
   </td>
   <td>
-    <div>S. 2 (am. by 95, 1995, s. 3, Part J (item 1))</div>
+    <div>S. 2 (am. by 95, 1995, s. 3, Part J (item 1))</div>
   </td>
 </tr>
 <tr>
@@ -1657,7 +1655,7 @@ of Assent</div>
     <div>18 Dec 1987</div>
   </td>
   <td>
-    <div>S. 3: 9 Oct 1996 ( <i>see Gazette</i>1996, No. S376) <i>(d)</i></div>
+    <div>S. 3: 9 Oct 1996 ( <i>see Gazette</i>1996, No. S376) <i>(d)</i></div>
   </td>
   <td>
     <div>S. 5(1)</div>
@@ -1674,7 +1672,7 @@ of Assent</div>
     <div>27 July 1995</div>
   </td>
   <td>
-    <div>S. 3 (Part J (items 1–4)): Royal Assent <i>(e)</i></div>
+    <div>S. 3 (Part J (items 1–4)): Royal Assent <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1726,8 +1724,8 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1–3: Royal Assent 
-Schedule 1 (Parts 3, 4): 6 Oct 2000 
-Remainder: 6 Apr 2001</div>
+Schedule 1 (Parts 3, 4): 6 Oct 2000 
+Remainder: 6 Apr 2001</div>
   </td>
   <td>
     <div>—</div>
@@ -1781,7 +1779,7 @@ Remainder: Royal Assent</div>
       <div>3 July 2008</div>
     </td>
     <td>
-      <div>Schedule 1 (item 37): <i>(h)</i></div>
+      <div>Schedule 1 (item 37): <i>(h)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1798,7 +1796,7 @@ Remainder: Royal Assent</div>
       <div>12 July 2008</div>
     </td>
     <td>
-      <div>Schedule 1 (item 5): 16 June 2009 ( <i>see</i>s. 2(1))</div>
+      <div>Schedule 1 (item 5): 16 June 2009 ( <i>see</i>s. 2(1))</div>
     </td>
     <td>
       <div>—</div>
@@ -1815,7 +1813,7 @@ Remainder: Royal Assent</div>
       <div>14 Dec 2009</div>
     </td>
     <td>
-      <div>Schedule 3 (item 11): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+      <div>Schedule 3 (item 11): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -2187,7 +2185,7 @@ _(h)_     Subsection 2(1) (items 27) of the _Statute Law Revision Act 20
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 64, 1994; No. 122, 2000; No. 143, 2001; No. 131, 2009</div>
+    <div>am. No. 64, 1994; No. 122, 2000; No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2302,6 +2300,23 @@ _(h)_     Subsection 2(1) (items 27) of the _Statute Law Revision Act 20
     <div>ad. No. 7, 2003</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+The following amendment commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
+
+## Schedule 3
+
+## 11  After subsection 22(1A)
+
+Insert:
+
+          (1B)  While a ship is detained under this section, a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
+
+As at 29 March 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
