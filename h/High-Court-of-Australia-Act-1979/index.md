@@ -1,7 +1,7 @@
 
 High Court of Australia Act 1979
 Act No. 137 of 1979 as amended
-This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 24 of 2001
+This compilation was prepared on 7 March 2000 taking into account amendments up to Act No. 146 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -13,7 +13,6 @@ Part I—Preliminary	1
 2	Commencement [see Note 1]	1
 3	Repeal	1
 4	Interpretation	1
-4A	Application of the Criminal Code	3
 Part II—Constitution and seat of the High Court	4
 Division 1—Justices of the High Court	4
 5	The High Court	4
@@ -41,31 +40,31 @@ Part III—Administration of the High Court	7
 25	Acting Chief Executive and Principal Registrar	11
 26	Officers and employees	12
 27	Marshal and Deputy Marshals	13
-28	Certain officers may administer oaths and affirmations	14
-Part IV—Registry and procedure	15
-30	Registry	15
-31	Transfer of proceedings	16
-32	Seals	16
-33	Writs etc.	16
-34	Date of process	17
-Part V—Finance	18
-35	Moneys appropriated for the Court	18
-36	Estimates	18
-37	Application of moneys appropriated for the Court	18
-38	Trust moneys	18
-39	Other moneys	19
-40	Limitation on contracts	19
-41	Accounts with ADIs	19
-42	Proper accounts to be kept	19
-43	Audit	20
-44	Exemption from taxation	21
-Part VI—Miscellaneous	22
-45	Proceedings in respect of administration of the Court	22
-46	Exercise of powers of the Court in administrative matters	22
-47	Annual reports and financial statements	22
-48	Rules of Court	23
-49	Regulations	23
-Schedule	24
+28	Certain officers may administer oaths and affirmations	13
+Part IV—Registry and procedure	14
+30	Registry	14
+31	Transfer of proceedings	15
+32	Seals	15
+33	Writs etc.	15
+34	Date of process	16
+Part V—Finance	17
+35	Moneys appropriated for the Court	17
+36	Estimates	17
+37	Application of moneys appropriated for the Court	17
+38	Trust moneys	17
+39	Other moneys	18
+40	Limitation on contracts	18
+41	Accounts with ADIs	18
+42	Proper accounts to be kept	18
+43	Audit	19
+44	Exemption from taxation	20
+Part VI—Miscellaneous	21
+45	Proceedings in respect of administration of the Court	21
+46	Exercise of powers of the Court in administrative matters	21
+47	Annual reports and financial statements	21
+48	Rules of Court	22
+49	Regulations	22
+Schedule	23
 Notes		25
 
 To make provision with respect to the High Court of Australia
@@ -108,9 +107,6 @@ proceeding means any proceeding in the Court whether civil or criminal and wheth
 Rules of Court means Rules of Court under section 86 of the Judiciary Act 1903.
 Senior Registrar means the Senior Registrar of the Court appointed under subsection 26(1).
 	(2)	Any reference in this Act to moneys or property does not include a reference to moneys or property received by the High Court in connection with a proceeding.
-4A  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Part II—Constitution and seat of the High Court
 Division 1—Justices of the High Court
@@ -176,8 +172,6 @@ Part III—Administration of the High Court
 	(5)	Nothing in the provisions applied by subsection (4) affects the operation of a direction given under subsection (2) at any time before the direction becomes void, or is disallowed, in accordance with those provisions.
 	(6)	A person who contravenes or fails to comply with a direction in force under subsection (2) is guilty of an offence.
 Penalty:	$100.
-	(6A)	Subsection (6) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 	(7)	In the performance of his or her functions and the exercise of his or her powers the Chief Executive and Principal Registrar shall comply with any directions given to him or her by the Court.
 	(8)	Nothing in this section affects the power of the Court to punish contempts of the Court.
 20  Terms and conditions of appointment
@@ -307,8 +301,6 @@ may be expended for the purposes of the Court.
 	(5)	The Auditor‑General or a person authorized by him or her may make copies of, or take extracts from, any such accounts and records.
 	(6)	The Auditor‑General or a person authorized by him or her may require any person to furnish him or her with such information in the possession of the person or to which the person has access as the Auditor‑General or authorized person considers necessary for the purposes of the functions of the Auditor‑General under this Act, and the person shall comply with the requirement.
 	(7)	A person who contravenes subsection (6) is guilty of an offence and is punishable, upon conviction, by a fine not exceeding $200.
-	(8)	Subsection (7) is an offence of strict liability.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 44  Exemption from taxation
 		The High Court is not subject to taxation under any law of the Commonwealth or of a State or Territory.
 
@@ -346,7 +338,6 @@ I,				, do solemnly and sincerely promise and declare that [as above, omitting t
 Notes to the High Court of Australia Act 1979
 Note 1
 The High Court of Australia Act 1979 as shown in this compilation comprises Act No. 137, 1979 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 6 April 2001 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -423,11 +414,6 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (items 511‑514): 5 Dec 1999 (see Gazette 1999, No. S584) (g) 
 —
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
-24, 2001
-6 Apr 2001
-S. 4(1), (2) and Schedule 31: (h)
-S. 4(1), (2) [see Table A]
 
 (a)	The High Court of Australia Act 1979 was amended by section 151(1) only of the Public Service Reform Act 1984, subsection 2(4) of which provides as follows:
 	(4)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
@@ -445,18 +431,12 @@ S. 4(1), (2) [see Table A]
 (g)	The High Court of Australia Act 1979 was amended by Schedule 1 (items 511‑514) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(h)	The High Court of Australia Act 1979 was amended by Schedule 31 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(a) of which provides as follows:
-	(1)	Subject to this section, this Act commences at the later of the following times:
-	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
-	Item 15 commenced on 24 May 2001.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 4	
 am. No. 13, 1994; No. 44, 1999
-S. 4A	
-ad. No. 24, 2001
 S. 7	
 am. No. 43, 1996
 S. 9	
@@ -468,7 +448,7 @@ am. No. 21, 1989
 S. 18	
 am. No. 13, 1994
 S. 19	
-am. No. 99, 1988; No. 13, 1994; No. 43, 1996; No. 24, 2001
+am. No. 99, 1988; No. 13, 1994; No. 43, 1996
 S. 20	
 am. No. 199, 1991; No. 13, 1994; No. 43, 1996
 S. 21	
@@ -504,7 +484,7 @@ rs. No. 44, 1999
 S. 41	
 am. No. 13, 1994; No. 44, 1999
 S. 43	
-am. No. 43, 1996; No. 24, 2001
+am. No. 43, 1996
 S. 45	
 am. No. 13, 1994
 S. 47	
@@ -513,10 +493,4 @@ S. 49
 ad. No. 125, 1999 
 Note 2
 S. 14—The date fixed was 1 September 1980 (see Gazette 1980, No. S193).
-Table A
-Application, saving or transitional provisions
-Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
-4  Application of amendments
-	(1)	Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
