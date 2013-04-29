@@ -1,8 +1,8 @@
 
-Export Inspection and Meat Charges Collection Act 1985
+Export Inspection Charges Collection Act 1985
 Act No. 27 of 1985 as amended
-This compilation was prepared on 16 October 2000 taking into account amendments up to Act No. 101 of 1993
-The text of any of those amendments not in force  on that date is appended in the Notes section
+This compilation was prepared on 12 February 2002 taking into account amendments up to Act No. 25 of 1988
+The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -16,50 +16,45 @@ Contents
 4	When charge due for payment	7
 5	Manner of payment	7
 6	Returns in respect of quantity charge	7
-6A	Returns in respect of service charge	8
+6A	Returns in respect of service charge	7
 7	Execution and lodgment of returns	8
 8	Authorized agents	8
 9	Records to be kept	8
 10	Offences relating to returns etc.	9
 11	Penalty for non‑payment	10
 12	Export permits not to be granted if charge unpaid	10
-12A	Withdrawal of services	11
 13	Recovery of charge	11
 14	Appointment of authorized persons	11
 15	Access to premises	11
 16	Reconsideration and review of decisions	13
 16A	Powers to make export control orders imposing fees not affected by charge	15
-16B	Delegation by Secretary	15
 17	Regulations	15
 Notes		17
-An Act to make provision for the collection of the charges imposed by the Export Inspection (Establishment Registration Charges) Act 1985, the Export Inspection (Quantity Charge) Act 1985, the Export Inspection (Service Charge) Act 1985 and the Domestic Meat Premises Charge Act 1993
+An Act to make provision for the collection of the charges imposed by the Export Inspection (Establishment Registration Charges) Act 1985, the Export Inspection (Quantity Charge) Act 1985 and the Export Inspection (Service Charge) Act 1985
 1  Short title [see Note 1]
-		This Act may be cited as the Export Inspection and Meat Charges Collection Act 1985.
+		This Act may be cited as the Export Inspection Charges Collection Act 1985.
 2  Commencement
 		This Act shall come into operation on 1 July 1985.
 3  Interpretation
 	(1)	In this Act, unless the contrary intention appears:
 animal means any member, alive or dead, of the animal kingdom (other than a human).
 animal reproductive material means:
-	(a)	 an embryo, egg or sperm of an animal; or
-	(b)	 any other part, or product, of an animal from which another animal could be produced.
+	(a)	an embryo, egg or sperm of an animal; or
+	(b)	any other part, or product, of an animal from which another animal could be produced.
 authorised agent means the person appointed by a person under subsection 8(1) to be the authorised agent of the last‑mentioned person.
 authorised officer has the same meaning as in the Export Control Act 1982.
 authorised person means a person who is, by virtue of an appointment made under section 14, an authorised person for the purposes of the provision in which the expression appears.
 charge means:
-	(a)	establishment registration charge; or
-	(b)	quantity charge; or
-	(c)	service charge; or
-	(d)	domestic meat premises charge.
+	(a)	establishment registration charge;
+	(b)	quantity charge; and
+	(c)	service charge.
 dairy produce means milk and includes milk products.
-domestic meat premises charge means a charge imposed by the Domestic Meat Premises Charge Act 1993.
 dried fruit means fruit from which part of the natural moisture content has been removed by means of evaporation or dehydration and includes dried fruit products.
 dried fruit product means a product one of the major components of which is dried fruit.
 edible game offal means the:
 	(a)	liver;
 	(b)	kidney; or
-	(c)	heart;
-of a game animal that has been separated from the carcase of the animal.
+	(c)	heart; of a game animal that has been separated from the carcase of the animal.
 egg product means a product one of the major components of which is eggs or a constituent part of eggs.
 eggs means eggs of hens of the species Gallus gallus or any other species, or class of species, of bird, that is prescribed for the purposes of this definition and includes egg products.
 establishment means an establishment that is registered for operations associated with the preparation of prescribed commodities.
@@ -77,13 +72,12 @@ fruit juice means the unfermented juice of fruit, whether or not that juice cont
 fruit product means a product one of the major components of which is a fruit or a constituent part of a fruit but does not include fruit juice.
 game animal means a wild animal, other than a bird or rabbit, that has been killed in its habitat by a shot from a firearm.
 game meat means any part of a game animal, other than edible game offal, intended for human consumption.
-game meat product means a food that has been processed beyond boning, slicing or trimming, other than soup, that is suitable for human consumption, being a food that.
+game meat product means a food that has been processed beyond boning, slicing or trimming, other than soup, that is suitable for human consumption, being a food that:
 	(a)	has been prepared from game meat or edible game offal; or
 	(b)	contains in excess of 5% by mass of game meat or edible game offal.
 grain means:
 	(a)	the grain of wheat, oats, barley or sorghum or of any other cereal that is prescribed for the purposes of this definition; and
 	(b)	the seeds of lupins or field peas or of any other leguminous plant that are prescribed for the purposes of this definition.
-killing or processing plant has the same meaning as in the Domestic Meat Premises Charge Act 1993.
 meat and meat product have the same respective meanings as in the Meat Export Charge Act 1984.
 milk product means a product one of the major components of which is milk or a constituent part of milk.
 poultry means domesticated fowl, ducks, geese or turkeys.
@@ -117,7 +111,7 @@ prescribed commodity means:
 	(r)	rabbit meat products;
 	(s)	vegetables;
 	(t)	vegetable juice; or
-	(u)	vegetable products.
+	(s)	vegetable products.
 prescribed office means an office of the Department, being an office that is prescribed for the purposes of this Act.
 quantity charge means the charge imposed by the Export Inspection (Quantity Charge) Act 1985.
 rabbit includes a hare.
@@ -148,7 +142,6 @@ vegetable product means a product one of the major components of which is a vege
 	(1)	The payment of an amount of quantity charge on a prescribed commodity in respect of which an export permit is granted shall be made at the prescribed office at which the return referred to in section 6 relating to that prescribed commodity is lodged.
 	(2)	The payment of an amount of service charge in respect of the provision of an export inspection service shall be made at the prescribed office at which the return referred to in section 6A relating to the service is lodged.
 	(3)	The payment of an amount of establishment registration charge may be made at any prescribed office.
-	(4)	The payment of an amount of domestic meat premises charge may be made at any prescribed office.
 6  Returns in respect of quantity charge
 	(1)	The exporter of a prescribed commodity or of prescribed commodities, being a prescribed commodity or prescribed commodities in respect of which quantity charge is imposed, shall, in relation to the prescribed commodity or the prescribed commodities in respect of which an export permit was, or export permits were, granted in any month, submit a return to the Secretary containing such particulars as are required by the regulations to be specified in the return.
 6A  Returns in respect of service charge
@@ -187,13 +180,6 @@ Penalty:
 	(b)	the person has not paid the amount of the quantity charge required to be paid in respect of that prescribed commodity by the day on which that amount is required, under section 4, to be paid;
 no further export permit shall be granted to the person until that amount of charge, and the penalty (if any) payable in respect of the late payment of that amount, has been paid in full.
 	(2)	Where a person has not paid the amount of any establishment registration charge or service charge by the day on which that amount is required, under section 4, to be paid, no export permit shall be granted to the person until that amount of charge, and the penalty (if any) payable in respect of the late payment of that charge, has been paid in full.
-12A  Withdrawal of services
-	(1)	If the amount of any domestic meat premises charge has not been paid by the day on which it is required to be paid, the Secretary may issue a direction under subsection (2).
-	(2)	The Secretary may, in writing, direct that specified services under:
-	(a)	the Meat Inspection Act 1983; or
-	(b)	regulations or orders made under that Act;
-are not to be provided, in relation to the killing or processing plant in respect of which the charge has not been paid, by authorised officers within the meaning of that Act.
-	(3) 	Despite anything in the Meat Inspection Act 1983, the authorised officers must comply with any direction that is in force.
 13  Recovery of charge
 		The following amounts may be recovered by the Commonwealth as debts due to the Commonwealth:
 	(a)	an amount of charge that is due for payment;
@@ -222,9 +208,7 @@ occupier, in relation to premises, includes the person in charge of the premises
 16  Reconsideration and review of decisions
 	(1)	In this section, unless the contrary intention appears:
 decision has the same meaning as in the Administrative Appeals Tribunal Act 1975.
-relevant decision means:
-	(a)	a decision of an authorised person under subsection 11(2); or
-	(b)	a decision of the Secretary under section 12A.
+relevant decision means a decision of an authorized person under subsection 11(2).
 reviewable decision means:
 	(a)	a decision of the Minister under subsection 11(2); or
 	(b)	a decision of the Minister under subsection (4) of this section.
@@ -242,8 +226,6 @@ reviewable decision means:
 	(9)	Any failure to comply with the requirements of subsection (7) or (8) in relation to a decision does not affect the validity of the decision.
 16A  Powers to make export control orders imposing fees not affected by charge
 		The imposition of charge does not affect the power to make export control orders relating to the imposition of fees in connection with the performance of services by authorised officers.
-16B  Delegation by Secretary
-		The Secretary may, by signed instrument, delegate the power conferred on the Secretary under section 12A to an officer of the administrative unit, known as the Australian Quarantine and Inspection Service, in the Department.
 17  Regulations
 		The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
 	(a)	required or permitted by this Act to be prescribed; or
@@ -252,15 +234,17 @@ and, in particular:
 	(c)	prescribing the manner for the determination of the weight or the volume of a prescribed commodity;
 	(d)	prescribing the form of warrant for the purposes of section 15; and
 	(e)	providing for the remission or refund of charge in specified circumstances.
-Notes to the Export Inspection and Meat Charges Collection Act 1985
+Notes to the Export Inspection Charges Collection Act 1985
 Note 1
-The Export Inspection and Meat Charges Collection Act 1985 as shown in this compilation comprises Act No. 27, 1985 amended as indicated in the Tables below.
+The Export Inspection Charges Collection Act 1985 as shown in this compilation comprises Act No. 27, 1985 amended as indicated in the Tables below.
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
 
 Export Inspection Charge Collection Act 1985
 27, 1985
@@ -287,28 +271,20 @@ Export Inspection Charges Collection Amendment Act 1988
 11 May 1988
 1 Jan 1989 (see s. 2 and Gazette 1988, No. S399)
 S. 7
-Export Inspection Charges Laws Amendment Act 1993
-101, 1993
-22 Dec 1993
-1 Jan 1994
-—
-(a)	The Export Inspection and Meat Charges Collection Act 1985 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1987, subsection 2(13) of which provides as follows:
+(a)	The Export Inspection Charges Collection Act 1985 amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1985 subsection 2(13) of which provides as follows:
 	(13)	The amendments of the Export Inspection Charges Collection Act 1985 made by this Act shall come into operation on a day to be fixed by Proclamation for the purposes of this subsection.
 Table of Amendments
-
-ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
+ad. = added or inserted	am. = amended	rep. = repealed	rs. = repealed and substituted
 Provision affected
 How affected
 Title	
-am. No. 115, 1985; No. 158, 1987; No. 101, 1993
-S. 1	
-am. No. 115, 1985; No. 101, 1993
-S. 2	
+am. No. 115, 1985; No. 158, 1987
+Ss. 1, 2	
 am. No. 115, 1985
 S. 3	
 rs. No. 115, 1985
 
-am. No. 158, 1987; No. 25, 1988; No. 101, 1993
+am. No. 158, 1987; No. 25, 1988
 S. 3A	
 ad. No. 115, 1985
 
@@ -320,7 +296,7 @@ am. No. 115, 1985
 
 rs. No. 158, 1987
 S. 5	
-am. No. 115, 1985; No. 101, 1993
+am. No. 115, 1985
 S. 6	
 am. No. 115, 1985; No. 141, 1987
 S. 6A	
@@ -345,16 +321,10 @@ S. 12A
 ad. No. 115, 1985
 
 rep. No. 158, 1987
-
-ad. No. 101, 1993
 S. 14	
 am. No. 141, 1987
 S. 15	
 am. No. 115, 1985
-S. 16	
-am. No. 101, 1993
 S. 16A	
 ad. No. 115, 1985
-S. 16B	
-ad. No. 101, 1993 
 
