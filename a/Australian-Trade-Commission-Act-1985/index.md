@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02364/Html/AusTradeComm85_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02363/Html/AusTradeC85_image001.gif)
 
 # Australian Trade Commission Act 1985
 
 **Act No. 186 of 1985 as amended**
 
-This compilation was prepared on 26 May 2001
- taking into account amendments up to Act No. 35 of 2001
+This compilation was prepared on 13 December 2000
+ taking into account amendments up to Act No. 137 of 2000
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -28,8 +28,6 @@ Prepared by the Office of Legislative Drafting,
 [5](#5).            Application of Act outside Australia                                                  6
 
 [6](#6).            Application of _Export Market Development Grants Act 1997_ not affected 6
-
-[6A](#6A).         Application of the _Criminal Code_                                                       6
 
 **Part II—Establishment and functions of Australian Trade Commission**
 
@@ -71,7 +69,7 @@ Prepared by the Office of Legislative Drafting,
 
 [24](#24).          Commission may establish offices in Australia and in foreign countries     19
 
-[25](#25).          Trading powers of Commission                                                        20
+[25](#25).          Trading powers of Commission                                                        19
 
 [26](#26).          Powers in relation to carrying out overseas development projects   20
 
@@ -79,7 +77,7 @@ Prepared by the Office of Legislative Drafting,
 
 [28](#28).          Powers in relation to provision of services and performance of work 21
 
-[29](#29).          Commission may form, or join in the formation of, companies, partnerships, consortiums or other business associations                                                                                        22
+[29](#29).          Commission may form, or join in the formation of, companies, partnerships, consortiums or other business associations                                                                                        21
 
 [30](#30).          Export market development schemes                                                22
 
@@ -141,15 +139,15 @@ Prepared by the Office of Legislative Drafting,
 
 [80](#80).          Commission may give security                                                          35
 
-[81](#81).          Borrowings not otherwise permitted                                                 36
+[81](#81).          Borrowings not otherwise permitted                                                 35
 
 [82](#82).          Guarantee by Commonwealth                                                           36
 
 [83](#83).          Exemption from taxation                                                                   36
 
-[88](#88).          Assessed net commercial risk in relation to business of Commission relating to overseas development projects      37
+[88](#88).          Assessed net commercial risk in relation to business of Commission relating to overseas development projects      36
 
-[89](#89).          Extra matters to be included in annual report                                    38
+[89](#89).          Extra matters to be included in annual report                                    37
 
 **Part IX—Miscellaneous**
 
@@ -159,15 +157,17 @@ Prepared by the Office of Legislative Drafting,
 
 [92](#92).          Annual Reports                                                                                 40
 
-[94](#94).          Secrecy                                                                                               41
+[94](#94).          Secrecy                                                                                               40
 
 [95](#95).          Offences                                                                                             42
 
 [96](#96).          Validity of contracts, guarantees and agreements                              43
 
-[97](#97).          Regulations                                                                                        43
+[97](#97).          Regulations                                                                                        44
 
 **Notes** 
+
+ 
 
 ## An Act to establish an Australian Trade Commission for the purpose of facilitating and promoting trade between Australia and foreign countries, and for related purposes
 
@@ -342,12 +342,6 @@ and includes any necessary preliminary studies, investigations or planning.
 ##### <a id="6"></a>6  Application of _Export Market Development Grants Act 1997_ not affected
 
                    Nothing in section 4 or 5 shall be taken to affect the application of the _Export Market Development Grants Act 1997_.
-
-##### <a id="6A"></a>6A  Application of the _Criminal Code_
-
- Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
-
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
 ## Part II—Establishment and functions of Australian Trade Commission
 
@@ -1123,6 +1117,14 @@ on such terms and conditions as are specified in the approval.
 
                      (b)  in any other case—$10,000 or imprisonment for 5 years, or both.
 
+             (2)  A person shall not, in or in connection with an application or proposal for a contract of insurance, an application for a contract of indemnity, an application for a guarantee or an application for a loan, under this Act, make a statement that the person knows to be false or misleading in a material particular or present a document that, to the person’s knowledge, contains information that is false or misleading in a material particular.
+
+                    Penalty:  
+
+                     (a)  in the case of a corporation—$5,000; or
+
+                     (b)  in any other case—$1,000 or imprisonment for 6 months, or both.
+
              (3)  For the purposes of the application of this section in relation to a corporation, but without prejudice to the liability of any person other than the corporation:
 
                      (a)  a statement made, or a document presented, by a person acting on behalf of the corporation shall be deemed to be made or presented by the corporation; and
@@ -1485,28 +1487,10 @@ Remainder: Royal Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
+    <div>Schedule 2 (items 51, 418, 419): \[ <i>see (g)</i>, Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>35, 2001</div>
-  </td>
-  <td>
-    <div>28 Apr 2001</div>
-  </td>
-  <td>
-    <div>26 May 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (items 418, 419)</div>
   </td>
 </tr></table>
 
@@ -1541,6 +1525,12 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
                               (c)   the items in Schedules 10, 11 and 12.
+
+_(g)_     The _Australian Trade Commission Act 1985_ was amended by Schedule 2 (item 51) only of the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_, subsections 2(2) and (3) of which provide as follows:
+
+                 (2)   Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [_see_ Note 2]
+
+                 (3)   If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [_see_ Note 2]
 
 ## Table of Amendments
 
@@ -1585,14 +1575,6 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
   </td>
   <td>
     <div>am. No. 44 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1950,14 +1932,6 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
 </tr>
 <tr>
   <td>
-    <div>S. 95</div>
-  </td>
-  <td>
-    <div>am. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 97</div>
   </td>
   <td>
@@ -1967,11 +1941,27 @@ _(f)_ The _Australian Trade Commission Act 1985_ was amended by Schedule 10 (i
 
  
 
+### Note 2
+
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+
+The following amendment commences on 24 May 2001 unless proclaimed earlier:
+
+## Schedule 2
+
+## 51  Subsection 95(2)
+
+Repeal the subsection.
+
+As at 13 December 2000 the amendment is not incorporated in this compilation.
+
 Table A
 
 ### Application, saving or transitional provisions
 
 _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+
+The following provisions commence on 24 May 2001 unless proclaimed earlier:
 
 ## Schedule 2
 
@@ -2000,15 +1990,5 @@ If:
                      (c)  the first-mentioned provision is amended by this Schedule;
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-* * *
-
-_Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001 (No. 35, 2001)_
-
-##### <a id="4"></a>4  Application of amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
  
