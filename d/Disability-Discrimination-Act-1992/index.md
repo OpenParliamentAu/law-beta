@@ -1,12 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00092/Html/13E9279A2DF4DEFECA2571400008385B/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00526/Html/0D40D8A9DE592916CA25705700098B75/$FILE/image001.gif)
 
 # Disability Discrimination Act 1992
 
 **Act No. 135 of 1992 as amended**
 
-This compilation was prepared on 27 March 2006
+This compilation was prepared on 10 August 2005
 taking into account amendments up to Act No. 86 of 2005
-and SLI 2006 No. 50
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -20,205 +19,205 @@ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Objects
+[3](#3).            Objects                                                                                                 1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       2
 
-[5](#5).            Disability discrimination
+[5](#5).            Disability discrimination                                                                     8
 
-[6](#6).            Indirect disability discrimination
+[6](#6).            Indirect disability discrimination                                                         8
 
-[7](#7).            Disability discrimination—palliative and therapeutic devices and auxiliary aids
+[7](#7).            Disability discrimination—palliative and therapeutic devices and auxiliary aids    9
 
-[8](#8).            Disability discrimination—interpreters, readers and assistants
+[8](#8).            Disability discrimination—interpreters, readers and assistants          9
 
-[9](#9).            Disability discrimination—guide dogs, hearing assistance dogs and trained animals
+[9](#9).            Disability discrimination—guide dogs, hearing assistance dogs and trained animals               10
 
-[10](#10).          Act done because of disability and for other reason
+[10](#10).          Act done because of disability and for other reason                          10
 
-[11](#11).          Unjustifiable hardship
+[11](#11).          Unjustifiable hardship                                                                       10
 
-[12](#12).          Application of Act
+[12](#12).          Application of Act                                                                            11
 
-[12A](#12A).       Application of the _Criminal Code_
+[12A](#12A).       Application of the _Criminal Code_                                                     13
 
-[13](#13).          Operation of State and Territory laws
+[13](#13).          Operation of State and Territory laws                                              13
 
-[14](#14).          Extent to which Act binds the Crown
+[14](#14).          Extent to which Act binds the Crown                                               14
 
 **Part 2—Prohibition of disability discrimination** 
 
     **Division 1—Discrimination in work**
 
-[15](#15).          Discrimination in employment
+[15](#15).          Discrimination in employment                                                          15
 
-[16](#16).          Discrimination against commission agents
+[16](#16).          Discrimination against commission agents                                        16
 
-[17](#17).          Discrimination against contract workers
+[17](#17).          Discrimination against contract workers                                           17
 
-[18](#18).          Partnerships
+[18](#18).          Partnerships                                                                                       18
 
-[19](#19).          Qualifying bodies
+[19](#19).          Qualifying bodies                                                                               19
 
-[20](#20).          Registered organisations under Schedule 1B to the _Workplace Relations Act 1996_
+[20](#20).          Registered organisations under Schedule 1B to the _Workplace Relations Act 1996_ 19
 
-[21](#21).          Employment agencies
+[21](#21).          Employment agencies                                                                        20
 
     **Division 2—Discrimination in other areas**
 
-[22](#22).          Education
+[22](#22).          Education                                                                                           21
 
-[23](#23).          Access to premises
+[23](#23).          Access to premises                                                                            22
 
-[24](#24).          Goods, services and facilities
+[24](#24).          Goods, services and facilities                                                             22
 
-[25](#25).          Accommodation
+[25](#25).          Accommodation                                                                                 23
 
-[26](#26).          Land
+[26](#26).          Land                                                                                                   25
 
-[27](#27).          Clubs and incorporated associations
+[27](#27).          Clubs and incorporated associations                                                 25
 
-[28](#28).          Sport
+[28](#28).          Sport                                                                                                  26
 
-[29](#29).          Administration of Commonwealth laws and programs
+[29](#29).          Administration of Commonwealth laws and programs                     26
 
-[30](#30).          Requests for information
+[30](#30).          Requests for information                                                                   27
 
-[31](#31).          Disability standards
+[31](#31).          Disability standards                                                                           27
 
-[32](#32).          Unlawful to contravene disability standards
+[32](#32).          Unlawful to contravene disability standards                                     29
 
-[33](#33).          Division 5 generally not to apply to disability standards
+[33](#33).          Division 5 generally not to apply to disability standards                 29
 
-[34](#34).          This Part not to apply if person acts in accordance with disability standards
+[34](#34).          This Part not to apply if person acts in accordance with disability standards       29
 
     **Division 3—Discrimination involving harassment**
 
-[35](#35).          Harassment in employment
+[35](#35).          Harassment in employment                                                               30
 
-[36](#36).          Harassment in employment—associates with disabilities
+[36](#36).          Harassment in employment—associates with disabilities                31
 
-[37](#37).          Harassment in education
+[37](#37).          Harassment in education                                                                    32
 
-[38](#38).          Harassment in education—associates with disabilities
+[38](#38).          Harassment in education—associates with disabilities                     32
 
-[39](#39).          Harassment in relation to the provision of goods and services
+[39](#39).          Harassment in relation to the provision of goods and services         32
 
-[40](#40).          Harassment in relation to the provision of goods and services—associates with disabilities
+[40](#40).          Harassment in relation to the provision of goods and services—associates with disabilities 32
 
     **Division 4—Offences**
 
-[41](#41).          Unlawful act not offence unless expressly so provided
+[41](#41).          Unlawful act not offence unless expressly so provided                    33
 
-[42](#42).          Victimisation
+[42](#42).          Victimisation                                                                                      33
 
-[43](#43).          Offence to incite doing of unlawful acts or offences
+[43](#43).          Offence to incite doing of unlawful acts or offences                         34
 
-[44](#44).          Advertisements
+[44](#44).          Advertisements                                                                                  34
 
     **Division 5—Exemptions**
 
-[45](#45).          Special measures
+[45](#45).          Special measures                                                                                35
 
-[46](#46).          Superannuation and insurance
+[46](#46).          Superannuation and insurance                                                           35
 
-[47](#47).          Acts done under statutory authority
+[47](#47).          Acts done under statutory authority                                                 36
 
-[48](#48).          Infectious diseases
+[48](#48).          Infectious diseases                                                                             38
 
-[49](#49).          Exemption for charities
+[49](#49).          Exemption for charities                                                                      38
 
-[50](#50).          Telecommunications
+[50](#50).          Telecommunications                                                                          38
 
-[51](#51).          Pensions and allowances
+[51](#51).          Pensions and allowances                                                                    39
 
-[52](#52).          Migration
+[52](#52).          Migration                                                                                           39
 
-[53](#53).          Combat duties and peacekeeping services
+[53](#53).          Combat duties and peacekeeping services                                         40
 
-[54](#54).          Peacekeeping services by the AFP
+[54](#54).          Peacekeeping services by the AFP                                                    40
 
-[55](#55).          Commission may grant exemptions
+[55](#55).          Commission may grant exemptions                                                   41
 
-[56](#56).          Review by Administrative Appeals Tribunal
+[56](#56).          Review by Administrative Appeals Tribunal                                   42
 
-[57](#57).          Notice of decisions to be published
+[57](#57).          Notice of decisions to be published                                                   42
 
-[58](#58).          Effect of exemptions
+[58](#58).          Effect of exemptions                                                                          43
 
 **Part 3—Action plans**
 
-[59](#59).          Interpretation
+[59](#59).          Interpretation                                                                                     44
 
-[60](#60).          Action plans
+[60](#60).          Action plans                                                                                      44
 
-[61](#61).          Provisions of action plans
+[61](#61).          Provisions of action plans                                                                 44
 
-[62](#62).          Action plans may have other provisions
+[62](#62).          Action plans may have other provisions                                           45
 
-[63](#63).          Amendment of action plans
+[63](#63).          Amendment of action plans                                                               45
 
-[64](#64).          Copy of action plan to be given to Commission
+[64](#64).          Copy of action plan to be given to Commission                               45
 
-[65](#65).          Commission to sell action plans to public
+[65](#65).          Commission to sell action plans to public                                         45
 
 **Part 4—Functions of Human Rights and Equal Opportunity Commission** 
 
     **Division 1—Preliminary**
 
-[67](#67).          Functions of Human Rights and Equal Opportunity Commission
+[67](#67).          Functions of Human Rights and Equal Opportunity Commission   46
 
 **Part 5—Other offences**
 
-[107](#107).        Failure to provide actuarial data or statistical data
+[107](#107).        Failure to provide actuarial data or statistical data                            48
 
 **Part 6—Disability Discrimination Commissioner**
 
-[113](#113).        Disability Discrimination Commissioner
+[113](#113).        Disability Discrimination Commissioner                                          49
 
-[114](#114).        Terms and conditions of appointment
+[114](#114).        Terms and conditions of appointment                                              49
 
-[115](#115).        Remuneration of Commissioner
+[115](#115).        Remuneration of Commissioner                                                        49
 
-[116](#116).        Leave of absence
+[116](#116).        Leave of absence                                                                                49
 
-[117](#117).        Outside employment
+[117](#117).        Outside employment                                                                         50
 
-[118](#118).        Resignation
+[118](#118).        Resignation                                                                                        50
 
-[119](#119).        Termination of appointment
+[119](#119).        Termination of appointment                                                             50
 
-[120](#120).        Acting Commissioner
+[120](#120).        Acting Commissioner                                                                        50
 
 **Part 7—Miscellaneous**
 
-[121](#121).        Delegation
+[121](#121).        Delegation                                                                                          52
 
-[122](#122).        Liability of persons involved in unlawful acts
+[122](#122).        Liability of persons involved in unlawful acts                                  52
 
-[123](#123).        Conduct by directors, servants and agents
+[123](#123).        Conduct by directors, servants and agents                                        52
 
-[124](#124).        Commonwealth taken to be employer
+[124](#124).        Commonwealth taken to be employer                                               54
 
-[125](#125).        Unlawful act not basis of civil action unless expressly so provided
+[125](#125).        Unlawful act not basis of civil action unless expressly so provided 54
 
-[126](#126).        Protection from civil actions
+[126](#126).        Protection from civil actions                                                              54
 
-[127](#127).        Non-disclosure of private information
+[127](#127).        Non-disclosure of private information                                              55
 
-[128](#128).        Information stored otherwise than in written form
+[128](#128).        Information stored otherwise than in written form                           57
 
-[129](#129).        Commissioner to give information
+[129](#129).        Commissioner to give information                                                     57
 
-[131](#131).        Courts to ensure just terms
+[131](#131).        Courts to ensure just terms                                                               57
 
-[132](#132).        Regulations
+[132](#132).        Regulations                                                                                        57
 
 **Notes** 
 
@@ -331,9 +330,7 @@ but does not include:
 
                      (b)  an ordinance of a Territory, or a regulation, rule, by-law or determination made under an ordinance of a Territory; or
 
-                     (c)  an order or award made under a law referred to in paragraph (a) or (b); or
-
-                     (d)  a decision of the Australian Fair Pay Commission (within the meaning of the _Workplace Relations Act 1996_).
+                     (c)  an order or award made under a law referred to in paragraph (a) or (b).
 
                     <a name="commonwealth-program"></a>**_Commonwealth program_** means a program conducted by or on behalf of the Commonwealth Government.
 
@@ -441,11 +438,7 @@ and includes a disability that:
 
                      (c)  an incorporated company over which the Commonwealth, or a body or authority referred to in paragraph (a) or (b), is in a position to exercise control.
 
-                    <a name="regist-organis"></a>**_registered organisation_** means:
-
-                     (a)  an organisation within the meaning of Part 2 of Chapter 2 of Schedule 1 to the _Workplace Relations Act 1996_; or
-
-                     (b)  a transitionally registered association within the meaning of Schedule 10 to the _Workplace Relations Act 1996_.
+                    <a name="regist-organis"></a>**_registered organisation_** means an organisation within the meaning of Schedule 1B to the _Workplace Relations Act 1996_.
 
                     <a name="rel"></a>**_relative_**, in relation to a person, means a person who is related to the first-mentioned person by blood, marriage, affinity or adoption.
 
@@ -1321,29 +1314,21 @@ is offered to, or may be obtained by, the other person, if:
 
              (1)  This Part does not render unlawful anything done by a person in direct compliance with:
 
-                             (b)  any of the following instruments (an **_industrial instrument_**) within the meaning given by the _Workplace Relations Act 1996_:
+                     (b)  an order of a court; or
 
-                                          (i)  an award or a variation or order affecting an award;
+                     (c)  any of the following:
 
-                                         (ii)  a transitional award or a variation or order affecting a transitional award;
+                              (i)  an order or award of a court or tribunal having power to fix minimum wages;
 
-                                         (iii)  a pre-reform certified agreement;
+                             (ii)  a certified agreement (within the meaning of the _Workplace Relations Act 1996_);
 
-                                        (iv)  a notional agreement preserving State awards;
+                            (iii)  an Australian workplace agreement (within the meaning of the _Workplace Relations Act 1996_);
 
-                                   to the extent to which the industrial instrument has specific provisions relating to the payment of rates of salary or wages to persons, in circumstances in which:
+                            to the extent that the order, award or agreement has specific provisions relating to the payment of rates of salary or wages to persons, where:
 
-                                         (v)  if the persons were not in receipt of the salary or wages, they would be eligible for a disability support pension; and
+                            (iv)  if the persons were not in receipt of the salary or wages, they would be eligible for a disability support pension; and
 
-                                        (vi)  the salary or wages are determined by reference to the capacity of the person;
-
-                             (c)  an order, award or determination of a court or tribunal having power to fix minimum wages, to the extent to which the order, award or determination has specific provisions relating to the payment of rates of salary or wages to persons, in circumstances in which:
-
-                                          (i)  if the persons were not in receipt of the salary or wages, they would be eligible for a disability support pension; and
-
-                                         (ii)  the salary or wages are determined by reference to the capacity of the person.
-
-Note:          A person does not comply with an industrial instrument for the purpose of subsection (1) if that person purports to comply with a provision of that instrument that is void (for example, a term of a pre-reform certified agreement is void to the extent that it contains prohibited content prescribed for section 356 of the _Workplace Relations Act 1996_: see section 358 of that Act). Accordingly, the exemption under this subsection for acting in direct compliance with such an instrument would not apply in such circumstances.
+                             (v)  the salary or wages are determined by reference to the capacity of the person.
 
              (2)  This Part does not render unlawful anything done by a person in direct compliance with a prescribed law.
 
@@ -1377,7 +1362,9 @@ Note:          See also subsection 98(6B) of the _Civil Aviati
 
                      (a)  affect a provision in a charitable instrument that confers charitable benefits, or enables charitable benefits to be conferred, wholly or in part on persons who have a disability or a particular disability; or
 
-                     (b)  render unlawful any act done to give effect to such provision.             (2)  In this section:
+                     (b)  render unlawful any act done to give effect to such provision.
+
+             (2)  In this section:
 
                     <a name="australia"></a>**_Australia_** includes the external Territories.
 
@@ -1533,7 +1520,7 @@ by instrument grant to the person or persons to whom the application relates, as
 
 ##### <a id="56"></a>56  Review by Administrative Appeals Tribunal
 
-                   Applications may be made to the Administrative Appeals Tribunal for a review of decisions made by the Commission under section 55.
+                   Applications may be made to the Administrative Appeals Tribunal for a review of decisions made by the Commission under section 55.
 
 ##### <a id="57"></a>57  Notice of decisions to be published
 
@@ -1733,7 +1720,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ## Part 7—Miscellaneous
 
-##### <a id="121"></a>121  Delegation
+##### <a id="121"></a>121  Delegation
 
              (1)  The Commission may, by writing under its seal, delegate to:
 
@@ -1889,8 +1876,6 @@ Note:          A defendant bears an evidential burden in relat
 ### Note 1
 
 The _Disability Discrimination Act 1992_ as shown in this compilation comprises Act No. 135, 1992 amended as indicated in the Tables below.
-
-The _Disability Discrimination Act 1992_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 13 October 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -2594,7 +2579,7 @@ _(k)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
       <div>S. 4</div>
     </td>
     <td>
-      <div>am. No. 179, 1992; No. 60, 1996; No. 116, 1999 (as am. by No. 63, 2002); Nos. 133, 146 and 161, 1999; No. 9, 2000; No. 105, 2002; No. 19, 2005; SLI 2006 No. 50</div>
+      <div>am. No. 179, 1992; No. 60, 1996; No. 116, 1999 (as am. by No. 63, 2002); Nos. 133, 146 and 161, 1999; No. 9, 2000; No. 105, 2002; No. 19, 2005</div>
     </td>
   </tr>
   <tr>
@@ -2706,7 +2691,7 @@ _(k)_ Subsection 2(1) (item 7) of the _Age Discrimination (Consequential Provi
       <div>S. 47</div>
     </td>
     <td>
-      <div>am. No. 60, 1996; No. 133, 1999; SLI 2006 No. 50</div>
+      <div>am. No. 60, 1996; No. 133, 1999</div>
     </td>
   </tr>
   <tr>
@@ -3280,7 +3265,7 @@ Repeal the paragraph, substitute:
 
                              (v)  the _Sex Discrimination Act 1984_;
 
-As at 27 March 2006 the amendment is not incorporated in this compilation.
+As at 10 August 2005 the amendment is not incorporated in this compilation.
 
 
 ## Table A
