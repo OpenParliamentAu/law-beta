@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00937/Html/a6c490f9-fa8e-4f41-9ce6-13ac66657b96_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00606/Html/PetroleumExcisePrices1987_image001.gif)
 
 # Petroleum Excise (Prices) Act 1987
 
 **Act No. 149 of 1987 as amended**
 
-This compilation was prepared on 7 December 2011
- taking into account amendments up to Act No. 140 of 2011
+This compilation was prepared on 26 November 2008
+ taking into account amendments up to Act No. 117 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -114,7 +114,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     (aa)  a decision to fix a transaction price under subsection (2); or
 
-                   (ab)  a decision under subsection 6(1B) refusing to declare a production area to be a limited production area; or
+                    (ab)  a decision under subsection 6(1B) refusing to declare a production area to be a limited production area; or
 
                     (ac)  a decision under subsection 6(1E) to revoke a declaration that a production area is a limited production area; or
 
@@ -220,11 +220,11 @@ the Minister is taken to have refused, under subsection (1B), to make that dec
 
           (1D)  If, because the Minister does not declare a production area to be a limited production area within 15 days after the end of a period of 3 consecutive months, the Minister is taken, under subsection (1C), to have refused to make that declaration:
 
-                     (a)  that subsection does not prevent the Minister making such a declaration, in accordance with subsection (1B), at the end of any period of 3 consecutive months to which paragraph (1B)(a) applies (a **_subsequent period_**) that ends after that first‑mentioned period; but
+                     (a)  that subsection does not prevent the Minister making such a declaration, in accordance with subsection (1B), at the end of any period of 3 consecutive months to which paragraph (1B)(a) applies (a **_subsequent period_**) that ends after that first-mentioned period; but
 
                      (b)  if the Minister does not, within 15 days after the end of a subsequent period, make such a declaration, the Minister is again taken to have refused, under subsection (1B), to make such a declaration.
 
-          (1E)  If:
+           (1E)  If:
 
                      (a)  a particular production area has been declared to be a limited production area; and
 
@@ -314,13 +314,11 @@ and the oil producer shall give the information accordingly.
 
 ##### <a id="8"></a>8  Notification of prices
 
-             (1)  The person making a determination under subsection 5(1) or 7(2), (3) or (9) shall cause written notices setting out the terms of the determination to be given to:
+                   The person making a determination under subsection 5(1) or 7(2), (3) or (9) shall cause written notices setting out the terms of the determination to be given to:
 
                      (a)  the CEO; and
 
                      (b)  each oil producer.
-
-             (2)  A failure to comply with subsection (1) does not affect the validity of the determination.
 
 ## Part III—Miscellaneous
 
@@ -390,9 +388,9 @@ shall be deemed, for the purposes of this Act, to have been engaged in also by t
 
                      (a)  by a servant or agent of the person within the scope of his or her actual or apparent authority; or
 
-                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a servant or agent of the first‑mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the servant or agent;
+                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a servant or agent of the first-mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the servant or agent;
 
-shall be deemed, for the purposes of this Act, to have been engaged in also by the first‑mentioned person.
+shall be deemed, for the purposes of this Act, to have been engaged in also by the first-mentioned person.
 
              (5)  A reference in this section to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person’s reasons for the person’s intention, opinion, belief or purpose.
 
@@ -400,15 +398,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in also by t
 
 ##### <a id="12"></a>12  Review of certain decisions
 
-             (1)  An oil producer who is dissatisfied with a reviewable decision may request the decision maker to reconsider the decision.
-
-          (1A)  The request can only be made by notice given within:
-
-                     (a)  unless paragraph (b) applies—the period of 28 days after the day on which the decision first comes to the notice of the person; or
-
-                     (b)  if the reviewable decision is a determination under subsection 7(3) or a decision under subsection 7(9), and the person who made the decision gave notices of the determination in accordance with subsection 8(1)—the period of 28 days after the day on which the last of those notices was given; or
-
-                     (c)  such further period as the person who made the decision allows.
+             (1)  An oil producer who is dissatisfied with a reviewable decision may, by notice given within the period of 28 days after the day on which the decision first comes to the notice of the person, or within such further period as the person who made the decision allows, request the decision maker to reconsider the decision.
 
              (2)  There shall be set out in the request reasons for making the request.
 
@@ -420,7 +410,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in also by t
 
              (6)  Subject to the _Administrative Appeals Tribunal Act 1975_, applications may be made to the Administrative Appeals Tribunal for review of decisions of the decision maker that have been confirmed or varied under subsection (3).
 
-             (7)  Where a decision is deemed, because of the operation of subsection (4), to be confirmed, section 29 of the _Administrative Appeals Tribunal Act 1975_ applies as if the prescribed time for making application for review of the decision were the period commencing on the day on which the decision is deemed to be confirmed and ending on the twenty‑eighth day after that day.
+             (7)  Where a decision is deemed, because of the operation of subsection (4), to be confirmed, section 29 of the _Administrative Appeals Tribunal Act 1975_ applies as if the prescribed time for making application for review of the decision were the period commencing on the day on which the decision is deemed to be confirmed and ending on the twenty-eighth day after that day.
 
 ##### <a id="13"></a>13  Statements to accompany notification of reviewable decisions
 
@@ -428,7 +418,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in also by t
 
                      (a)  the oil producer may, if dissatisfied with the decision, seek a reconsideration of the decision under subsection 12(1); and
 
-                     (b)  a person whose interests are affected by the decision may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made upon that reconsideration confirming or varying the first‑mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
+                     (b)  a person whose interests are affected by the decision may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made upon that reconsideration confirming or varying the first-mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
 
              (2)  Where written notice of the confirmation or variation of a reviewable decision under subsection 12(3) is given to an oil producer, that notice shall include a statement to the effect that a person whose interests are affected by the decision may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with the decision so confirmed or varied, make application to the Administrative Appeals Tribunal for review of the decision.
 
@@ -436,11 +426,11 @@ shall be deemed, for the purposes of this Act, to have been engaged in also by t
 
 ##### <a id="14"></a>14  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
 # Notes to the _Petroleum Excise (Prices) Act 1987_
 
@@ -454,11 +444,11 @@ All relevant information pertaining to application, saving or transitional provi
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -561,7 +551,7 @@ of Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (item 731): 5 Dec 1999 ( <i>see</i>s. 2(1) and (2) and <i>Gazette</i>1999, No. S584)</div>
+    <div>Schedule 1 (item 731): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -664,32 +654,21 @@ Remainder: 24 May 2001</div>
     <div>21 Nov 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (item 58): <i>(a) 
- </i>Schedule 3 (item 32): 22 Nov 2008</div>
+    <div>Schedule 2 (item 58): <i>(b) 
+ </i>Schedule 3 (item 32): 22 Nov 2008</div>
   </td>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Excise Legislation Amendment (Condensate) Act 2011</div>
-  </td>
-  <td>
-    <div>140, 2011</div>
-  </td>
-  <td>
-    <div>29 Nov 2011</div>
-  </td>
-  <td>
-    <div>29 Nov 2011</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 4) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
-_(a)_ Subsection 2(1) (item 3) of the _Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008_  provides as follows:
+_(a)_     The _Petroleum Excise (Prices) Act 1987_ was amended by Schedule 1 (Item 731) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+
+                 (2)   Subject to this section, this Act commences at the commencing time.
+
+_(b)_ Subsection 2(1) (item 3) of the _Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008_  provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -959,7 +938,7 @@ No. 108, 2008</div>
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 79, 1997; No. 140, 2011</div>
+    <div>am. No. 79, 1997</div>
   </td>
 </tr>
 <tr>
@@ -977,14 +956,6 @@ No. 108, 2008</div>
   <td>
     <div>am. No. 115, 1988; No. 137, 2000; No. 140, 2001</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 140, 2011</div>
-  </td>
 </tr></table>
 
 ## Table A
@@ -997,9 +968,9 @@ _Petroleum Excise (Prices) Amendment Act 1997 (No. 79, 1997)_
 
 ## 11  Saving
 
-(1)       The _Petroleum Excise (Prices) Act 1987_ as in force immediately before the commencement day continues to apply in relation to excisable crude petroleum oil obtained from an oil producing region and entered for home consumption during a month occurring before that day.
+(1)        The _Petroleum Excise (Prices) Act 1987_ as in force immediately before the commencement day continues to apply in relation to excisable crude petroleum oil obtained from an oil producing region and entered for home consumption during a month occurring before that day.
 
-(2)       In this item:
+(2)        In this item:
 
                     <a name="commenc-dai"></a>**_commencement day_** means the day on which this Act commences.
 
@@ -1011,9 +982,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -1023,9 +994,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -1033,9 +1004,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -1057,11 +1028,11 @@ _Excise Legislation Amendment (Condensate) Act 2008 (No. 108, 2008)_
 
 Application of Schedule
 
-(1)       The amendments made by this Schedule apply in relation to condensate produced after midnight (by legal time in the Australian Capital Territory) on 13 May 2008.
+(1)        The amendments made by this Schedule apply in relation to condensate produced after midnight (by legal time in the Australian   Capital Territory) on 13 May 2008.
 
 Limited production areas
 
-(2)       Subsections 6(1A) to 6(1G) and 7(3A) of the _Petroleum Excise (Prices) Act 1987_ (as amended by this Act) do not apply in relation to condensate produced during the period:
+(2)        Subsections 6(1A) to 6(1G) and 7(3A) of the _Petroleum Excise (Prices) Act 1987_ (as amended by this Act) do not apply in relation to condensate produced during the period:
 
                      (a)  beginning on the day on which this item commences; and
 
@@ -1069,9 +1040,9 @@ Limited production areas
 
 Determination of interim VOLWARE prices
 
-(2A)     Subsections 7(2), (3) and (4) of the _Petroleum Excise (Prices) Act 1987_ apply, in relation to a prescribed condensate production area and the pre‑commencement period, as if those subsections were replaced with the following:
+(2A)     Subsections 7(2), (3) and (4) of the _Petroleum Excise (Prices) Act 1987_ apply, in relation to a prescribed condensate production area and the pre-commencement period, as if those subsections were replaced with the following:
 
-“           (2)  The Minister, or a person authorised by the Minister to exercise the Minister’s powers under this section, must, not later than 2 months, or such longer period as the Minister allows, after the day on which Schedule 1 to the _Excise Tariff Amendment (Condensate) Act 2008_ commences, determine a price in relation to each month in the pre‑commencement period and an oil producing region, to be known as the interim VOLWARE price for that month and that region, being an estimate by the Minister or authorised person, on the basis of the information available to him or her at the time (being information obtained under section 6 or otherwise), of the amount that will finally be determined to be the volume weighted average of realised prices for that month and that region.”
+“           (2)  The Minister, or a person authorised by the Minister to exercise the Minister’s powers under this section, must, not later than 2 months, or such longer period as the Minister allows, after the day on which Schedule 1 to the _Excise Tariff Amendment (Condensate) Act 2008_ commences, determine a price in relation to each month in the pre-commencement period and an oil producing region, to be known as the interim VOLWARE price for that month and that region, being an estimate by the Minister or authorised person, on the basis of the information available to him or her at the time (being information obtained under section 6 or otherwise), of the amount that will finally be determined to be the volume weighted average of realised prices for that month and that region.”
 
 “           (3)  The Minister, or a person authorised by the Minister to exercise the Minister’s powers under this section, must, not later than 6 months after the day on which an interim VOLWARE price is determined for a month in relation to an oil producing region, determine a price in relation to that month and that region, to be known as the final VOLWARE price for that month and that region, being the final determination by the Minister or authorised person of the volume weighted average of realised prices for that month and that region.”
 
@@ -1083,11 +1054,11 @@ Determination of interim VOLWARE prices
 
 Definitions
 
-(3)       In this item:
+(3)        In this item:
 
 **_month_** means one of the 12 months of a calendar year.
 
-**_pre‑commencement period_** means the period:
+**_pre-commencement period_** means the period:
 
                      (a)  beginning at midnight (by legal time in the Australian Capital Territory) on 30 April 2008; and
 
@@ -1095,7 +1066,7 @@ Definitions
 
 ## 14  Deemed entry for home consumption
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  a person produces condensate after  midnight (by legal time in the Australian Capital Territory) on 13 May 2008; and
 
@@ -1103,11 +1074,11 @@ Definitions
 
                      (c)  the person’s grace period has not ended (see subitem (4)).
 
-(2)       For the purposes of the _Excise Act 1901_ and the _Petroleum Excise (Prices) Act 1987_ (as amended by this Act), the person is taken to have been given a permission under section 61C of the _Excise Act 1901_ to deliver the condensate for home consumption from the prescribed condensate production area from which the condensate is produced.
+(2)        For the purposes of the _Excise Act 1901_ and the _Petroleum Excise (Prices) Act 1987_ (as amended by this Act), the person is taken to have been given a permission under section 61C of the _Excise Act 1901_ to deliver the condensate for home consumption from the prescribed condensate production area from which the condensate is produced.
 
-(3)       The permission is taken to be revoked at the end of the person’s grace period.
+(3)        The permission is taken to be revoked at the end of the person’s grace period.
 
-(4)       In this item:
+(4)        In this item:
 
 **_grace period_**, in relation to a person, means the period:
 
@@ -1120,15 +1091,5 @@ Definitions
                              (ii)  the end of the transition period.
 
 **_transition period_** means the period that would be the **_transition period_** within the meaning of subsection 15(3) of the _Excise Act 1901_ if the references to “the first day” in paragraph (a) and subparagraph (b)(iii) of the definition of **_transition period_**, and in subparagraph 15(4)(a)(ii) and paragraph 15(4)(b) of the _Excise Act 1901_, were references to “the day on which Schedule 1 to the _Excise Tariff Amendment (Condensate) Act 2008_ commences”.
-
-* * *
-
-_Excise Legislation Amendment (Condensate) Act 2011 (No. 140, 2011)_
-
-## Schedule 1
-
-## 4  Application
-
-The amendments made by this Schedule apply after midnight (by legal time in the Australian Capital Territory) on 13 May 2008.
 
  
