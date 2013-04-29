@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00647/Html/0bbbca91-119e-4e6c-8a6a-50686dff9fdd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00227/Html/d4bcbb48-90f2-450e-b928-3379adb0e1c3_files/image001.gif)
 
 # Science and Industry Research Act 1949
 
 **Act No. 13 of 1949 as amended**
 
-This compilation was prepared on 12 August 2011
- taking into account amendments up to Act No. 89 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -682,15 +682,17 @@ the following plans cease to have effect on the commencement of the second perio
 
 ##### <a id="51"></a>51  Extra matters to be included in annual report
 
-                   In each report on the Organisation under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must set out:
+             (2)  In each report on the Organisation under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must set out:
 
-                     (a)  a statement of the policies of the Organisation in relation to the carrying out of the scientific research of the Organisation that were current at the beginning of the year; and
+                     (a)  a statement of the policies of the Organisation in relation to the carrying out of the scientific research of the Organisation that were current at the beginning of the year;
 
-                     (b)  a description of any developments in those policies that occurred during the year; and
+                     (b)  a description of any developments in those policies that occurred during the year;
 
-                     (c)  any determinations made by the Minister under subparagraph 9(1)(a)(iv) during the year; and
+                     (c)  any determinations made by the Minister under subparagraph 9(1)(a)(iv) during the year;
 
-                     (d)  any directions or guidelines given by the Minister under subsection 13(1) during the year.
+                     (d)  any directions or guidelines given by the Minister under subsection 13(1) during the year; and
+
+                     (e)  any policies notified by the Minister under section 28 of the _Commonwealth Authorities and Companies Act 1997_ during the year.
 
 ##### <a id="53"></a>53  Liability to taxation
 
@@ -1188,40 +1190,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1020–1022) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2011</div>
-  </td>
-  <td>
-    <div>89, 2011</div>
-  </td>
-  <td>
-    <div>4 Aug 2011</div>
-  </td>
-  <td>
-    <div>Schedule 6: 5 Aug 2011</div>
-  </td>
-  <td>
-    <div>Sch. 6 (item 5) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -2488,7 +2456,7 @@ rep. No. 121, 1986</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 89, 2011</div>
+    <div>am. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -2646,30 +2614,6 @@ No. 143, 1978</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1020  Subsection 10G(1)
-
-Omit “(1)”.
-
-## 1021  At the end of subsection 10G(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1022  Subsections 10G(2) to (8)
-
-Repeal the subsections.
-
-As at 12 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2706,32 +2650,5 @@ _Governance Review Implementation (Science Research Agencies) Act 2007 (No. 84, 
 **_current Chief Executive_** means the person who, immediately before commencement, held the office of Chief Executive of the Organisation under section 10A of the old Act.
 
 **_old Act_** means the _Science and Industry Research Act 1949_, as in force immediately before commencement.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Financial Framework Legislation Amendment Act (No. 1) 2011 
- (No. 89, 2011)_
-
-## Schedule 6
-
-## 5  Application of amendment made by item 4
-
-The amendment made by item 4 of this Schedule applies in respect of a report under section 9 of the _Commonwealth Authorities and Companies Act 1997_ for a financial year starting on or after 1 July 2011.
 
  
