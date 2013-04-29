@@ -1,15 +1,15 @@
-![](http://www.comlaw.gov.au/Details/C2011C00932/Html/ec3f9c0e-4b2c-444a-af38-9b7ed7fcc771_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00752/Html/1e48845b-e58c-4c4b-9efc-ab1dcc9509fb_files/image001.gif)
 
 # Customs Tariff Act 1995
 
 **Act No. 147 of 1995 as amended**
 
-This compilation was prepared on 1 December 2011
+This compilation was prepared on 12 September 2011
  taking into account amendments up to Act No. 85 of 2011
 
 **Volume 1** includes:     Table of Contents
          User’s guide
-         Sections 1–22
+         Sections 1‑22
          Schedules 1 and 2
 
 The text of any of those amendments not in force
@@ -37,7 +37,7 @@ The operation of amendments that have been incorporated may be
          Table of Acts
          Act Notes
          Table of Amendments
-         Notes 2–4
+         Notes 2 – 4
          Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -319,7 +319,7 @@ The organisation of the Act
 
                      (b)  a subheading of a heading may be referred to by the digits with which the subheading begins.
 
-##### <a id="5"></a>5  Items in Schedule 4
+##### <a id="5"></a>5  Items in Schedule 4
 
              (1)  In Schedule 4, a number, or a number and letter, in the first column indicates the beginning of an item.
 
