@@ -1,19 +1,18 @@
-![](http://www.comlaw.gov.au/Details/C2008C00021/Html/f132a184-5daa-4d16-84e6-b3057ce5f996_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00343/Html/HigherEducationSuppTransProvConsAmend2003_image001.gif)
 
 # Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003
 
 **Act No. 150 of 2003 as amended**
 
-This compilation was prepared on 1 January 2008
+This compilation was prepared on 30 May 2007
 
-**\[This Act was amended by Act Nos. 45, 114 and 157 of 2004; Nos. 83 and 158 of 2005; No. 72 of 2007]**
+**\[This Act was amended by Act Nos. 45, 114 and 157 of 2004; Nos. 83 and 158 of 2005]**
 
 **Amendments from Act No. 45 of 2004**
 
-\[Schedule 3 (items 63 and 64) amended item 1 of Schedule 1
+\[Schedule 3 (items 63 and 64) and Schedule 5 (item 3) amended item 1 of Schedule 1
  Schedule 3 (items 65–70) amended item 3 of Schedule 1
  Schedule 4 (item 1) repealed Part 4 of Schedule 1
- Schedule 5 (item 3) amended item 1 of Schedule 1
  Schedule 5 (items 4–6) amended item 6 of Schedule 1
  Schedule 5 (items 7–9) amended item 11A of Schedule 1
  Schedule 5 (item 10) inserted item 21A of Schedule 1
@@ -37,13 +36,13 @@ Schedule 3 commenced on 13 July 2004]
  Schedule 2 (item 9) amended Schedule 1 (item 24)
 
 Schedule 2 (items 1–8) commenced on 17 December 2004
- Schedule 2 (item 9) commenced immediately after <span style="color:black">1 </span>January 2004<span style="color:black">]</span>
+ Schedule 2 (item 9) commenced immediately after <span style="font-size:11.0pt">1 </span>January 2004]
 
 **Amendment from Act No. 83 of 2005**
 
 \[Schedule 2 (item 1) amended paragraph 2(c) of Schedule 1
 
-Schedule 2 (item 1) commenced immediately after <span style="color:black">1 </span>January 2004<span style="color:black">]</span>
+Schedule 2 (item 1) commenced immediately after <span style="font-size:11.0pt">1 </span>January 2004]
 
 **Amendments from Act No. 158 of 2005**
 
@@ -54,17 +53,18 @@ Schedule 2 (item 1) commenced immediately after <span style="color:black">1 </sp
 
 Schedule 3 (items 21–24) commenced on 20 December 2005]
 
+**\[This Act is to be amended by Act No. 72 of 2007]**
+
 **Amendments from Act No. 72 of 2007**
 
-\[Schedule 3 (item 3) added subitem 1(2A) of Schedule 1
- Schedule 3 (items 4 and 5) amended item 6 of Schedule 1
+\[Schedule 3 (item 3) amended subitem 1 of Schedule 1
+ Schedule 3 (items 4, 5) amended item 6 of Schedule 1
 
-Schedule 3 (items 3–5) commenced on 1 January 2008
-
-For application provision _see_ Act No. 72, 2007, Schedule 3 (item 6)]
+Schedule 3 (items 3–5) commences on 1 January 2008.
+ The amendments have not been incorporated]
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -78,55 +78,55 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 1—Transitional provisions** 
 
-Part 1—Transitional arrangement for students under the Higher Education Contribution Scheme         5
+Part 1—Transitional arrangement for students under the Higher Education Contribution Scheme        5
 
-Part 2—Transitional arrangement for students under the Post‑graduate education loan scheme               9
+Part 2—Transitional arrangement for students under the Post-graduate education loan scheme           9
 
-Part 3—Debts under the Higher Education Funding Act 1988            11
+Part 3—Debts under the Higher Education Funding Act 1988                     11
 
-Part 5—Avondale College                                                                                        14
+Part 5—Avondale College                                                                                           14
 
-Part 6—Other transitional provisions                                                                  15
+Part 6—Other transitional provisions                                                                       15
 
 **Schedule 2—Amendments** 
 
-Part 1—Appropriations                                                                                              22
+Part 1—Appropriations                                                                                                22
 
 Higher Education Funding Act 1988                                                                    22
 
-Part 2—Transitional financial assistance                                                           23
+Part 2—Transitional financial assistance                                                                 23
 
 Higher Education Funding Act 1988                                                                    23
 
-Part 2A—HEC repayment thresholds for the 2004-05 year of income 24
+Part 2A—HEC repayment thresholds for the 2004-05 year of income    24
 
 Higher Education Funding Act 1988                                                                    24
 
-Part 3—Discontinuance of provisions of the Higher Education Funding Act 1988         25
+Part 3—Discontinuance of provisions of the Higher Education Funding Act 1988     25
 
 Higher Education Funding Act 1988                                                                    25
 
-Part 4—The Australian National University                                                    27
+Part 4—The Australian National University                                                          27
 
 Australian National University Act 1991                                                             27
 
-Part 5—Australian Maritime College                                                                  37
+Part 5—Australian Maritime College                                                                       37
 
 Maritime College Act 1978                                                                                     37
 
-Part 6—Marcus Oldham College                                                                          45
+Part 6—Marcus Oldham College                                                                             45
 
 Higher Education Funding Act 1988                                                                    45
 
-Part 7—Other amendments                                                                                      46
+Part 7—Other amendments                                                                                         46
 
-A New Tax System (Family Assistance) (Administration) Act 1999                 46
+A New Tax System (Family Assistance) (Administration) Act 1999                46
 
 Bankruptcy Act 1966                                                                                                46
 
 Disability Services Act 1986                                                                                   46
 
-Equal Opportunity for Women in the Workplace Act 1999                              47
+Equal Opportunity for Women in the Workplace Act 1999                               47
 
 Fringe Benefits Tax Assessment Act 1986                                                             47
 
@@ -140,13 +140,15 @@ Social Security Act 1991                  �
 
 Taxation Administration Act 1953                                                                         55
 
-Taxation (Interest on Overpayments and Early Payments) Act 1983              56
+Taxation (Interest on Overpayments and Early Payments) Act 1983             56
 
-Veterans’ Entitlements Act 1986                                                                            57
+Veterans’ Entitlements Act 1986                                                                            58
+
+ 
 
 ## An Act to deal with transitional and consequential matters arising from the enactment of the _Higher Education Support Act 2003_, and for other purposes
 
-[_Assented to 19 December 2003_]
+[_Assented to__19  December 2003_]
 
 The Parliament of Australia enacts:
 
@@ -227,7 +229,7 @@ The Parliament of Australia enacts:
   <td>
     <div>The later of:</div>
     <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
       <i>Higher Education Support Act 2003</i>.</div>
   </td>
   <td>
@@ -241,7 +243,7 @@ The Parliament of Australia enacts:
   <td>
     <div>The later of:</div>
     <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
       <i>Higher Education Support Act 2003</i>.</div>
   </td>
   <td>
@@ -255,7 +257,7 @@ The Parliament of Australia enacts:
   <td>
     <div>The later of:</div>
     <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
       <i>Higher Education Support Act 2003</i>.</div>
   </td>
   <td>
@@ -269,7 +271,7 @@ The Parliament of Australia enacts:
   <td>
     <div>The later of:</div>
     <div>(a) 1 July 2004; and</div>
-    <div>(b) the 28th day after the commencement of sections 1‑10 to 238‑15 of
+    <div>(b) the 28th day after the commencement of sections 1-10 to 238-15 of
       the
       <i>Higher Education Support Act 2003</i>.</div>
   </td>
@@ -284,7 +286,7 @@ The Parliament of Australia enacts:
   <td>
     <div>The later of:</div>
     <div>(a) 1 March 2004; and</div>
-    <div>(b) the 28th day after the commencement of sections 1‑10 to 238‑15 of
+    <div>(b) the 28th day after the commencement of sections 1-10 to 238-15 of
       the
       <i>Higher Education Support Act 2003</i>.</div>
   </td>
@@ -299,7 +301,7 @@ The Parliament of Australia enacts:
   <td>
     <div>The later of:</div>
     <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
       <i>Higher Education Support Act 2003</i>.</div>
   </td>
   <td>
@@ -313,7 +315,7 @@ The Parliament of Australia enacts:
   <td>
     <div>The later of:</div>
     <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
       <i>Higher Education Support Act 2003</i>.</div>
   </td>
   <td>
@@ -382,7 +384,7 @@ The Parliament of Australia enacts:
   <td>
     <div>The later of:</div>
     <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
       <i>Higher Education Support Act 2003</i>.</div>
   </td>
   <td>
@@ -396,7 +398,7 @@ The Parliament of Australia enacts:
   <td>
     <div>The later of:</div>
     <div>(a) 1 January 2005; and</div>
-    <div>(b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
       <i>Higher Education Support Act 2003</i>.</div>
   </td>
   <td>
@@ -410,7 +412,7 @@ The Parliament of Australia enacts:
   <td>
     <div>The later of:</div>
     <div>(a) 1 January 2004; and</div>
-    <div>(b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+    <div>(b) immediately after the commencement of sections 1-10 to 238-15 of the
       <i>Higher Education Support Act 2003</i>.</div>
   </td>
   <td>
@@ -436,7 +438,7 @@ Note:          This table relates only to the provisions of th
 
 ## 1  Student contribution amounts for students under the Higher Education Contribution Scheme
 
-(1)       If:
+(1)        If:
 
                      (a)  a person is enrolled with an institution in a unit of study that forms part of a course of study that the person started before 1 January 2005; and
 
@@ -448,9 +450,9 @@ Note:          This table relates only to the provisions of th
 
                       (f)  the person:
 
-                              (i)  is entitled to HECS‑HELP assistance for the unit; or
+                              (i)  is entitled to HECS-HELP assistance for the unit; or
 
-                             (ii)  would be entitled to HECS‑HELP assistance for the unit but for paragraph 90‑1(a) or (c), or paragraphs 90‑1(a) and (c), of the _Higher Education Support Act 2003_; and
+                             (ii)  would be entitled to HECS-HELP assistance for the unit but for paragraph 90-1(a) or (c), or paragraphs 90-1(a) and (c), of the _Higher Education Support Act 2003_; and
 
                      (g)  the person has neither:
 
@@ -462,17 +464,15 @@ then:
 
                      (h)  if the institution is not (apart from this item) a higher education provider—the institution is taken, for the purposes of the application of the _Higher Education Support Act 2003_ in relation to the person and the unit, to be a higher education provider; and
 
-                      (i)  if subparagraph (f)(ii) applies and the person is not an excepted student—the person is taken, for the purposes of that Act, to be entitled to HECS‑HELP assistance for the unit; and
+                      (i)  if subparagraph (f)(ii) applies and the person is not an excepted student—the person is taken, for the purposes of that Act, to be entitled to HECS-HELP assistance for the unit; and
 
                       (j)  the person is taken, for the purposes of that Act, to be a Commonwealth supported student in relation to the unit; and
 
-                     (k)  the person’s student contribution amount for the unit is taken, for the purposes of that Act, not to exceed the amount that would be worked out under section 93‑5 of that Act if the maximum student contribution amount for a place in the unit were worked out under item 3.
+                     (k)  the person’s student contribution amount for the unit is taken, for the purposes of that Act, not to exceed the amount that would be worked out under section 93-5 of that Act if the maximum student contribution amount for a place in the unit were worked out under item 3.
 
-(2)       However, this item does not apply if the person has notified an appropriate officer of the institution, under subsection 36‑5(3) of the _Higher Education Support Act 2003_, that he or she does not wish to be a Commonwealth supported student in relation to the unit.
+(2)        However, this item does not apply if the person has notified an appropriate officer of the institution, under subsection 36-5(3) of the _Higher Education Support Act 2003_, that he or she does not wish to be a Commonwealth supported student in relation to the unit.
 
-(2A)     A person cannot establish for the purposes of subitem (1) that he or she is a contributing student within the meaning of Chapter 4 of the _Higher Education Funding Act 1988_, or not an excepted student, more than 6 weeks after the census date for the unit.
-
-(3)       In this item:
+(3)        In this item:
 
 **_excepted student_** has the meaning given by subsection 41(3) of the _Higher Education Funding Act 1988_.
 
@@ -488,9 +488,9 @@ A person is not taken, for the purposes of subparagraph (1)(g)(i) of item 1,
 
 ## 3  Maximum student contribution amounts for places
 
-(1)       If a person to whom item 1 applies started the course of study in question before 1 January 1997, the **_maximum student contribution amount for a place_** in the unit is $2,830.
+(1)        If a person to whom item 1 applies started the course of study in question before 1 January 1997, the **_maximum student contribution amount for a place_** in the unit is $2,830.
 
-(2)       If a person to whom item 1 applies started the course of study in question on or after 1 January 1997, the **_maximum student contribution amount for a place_** in the unit is the amount specified in the following table in relation to the funding cluster in which the unit is included.
+(2)        If a person to whom item 1 applies started the course of study in question on or after 1 January 1997, the **_maximum student contribution amount for a place_** in the unit is the amount specified in the following table in relation to the funding cluster in which the unit is included.
 
 <table>
 <colgroup>
@@ -658,23 +658,23 @@ A person is not taken, for the purposes of subparagraph (1)(g)(i) of item 1,
   </td>
 </tr></table>
 
-Note:          For the funding clusters in which particular units of study are included, see the Commonwealth Grant Scheme Guidelines made for the purposes of section 33‑35 of the _Higher Education Support Act 2003_.
+Note:          For the funding clusters in which particular units of study are included, see the Commonwealth Grant Scheme Guidelines made for the purposes of section 33-35 of the _Higher Education Support Act 2003_.
 
-(3)       A maximum student contribution amount for a place under this item is indexed under Part 5‑6 of the _Higher Education Support Act 2003_ as if:
+(3)        A maximum student contribution amount for a place under this item is indexed under Part 5-6 of the _Higher Education Support Act 2003_ as if:
 
-                     (a)  it was an amount referred to in the table in section 198‑5 of that Act; and
+                     (a)  it was an amount referred to in the table in section 198-5 of that Act; and
 
                      (b)  the first year of indexation in relation to the amount was the year 2005.
 
 ## 4  Guidelines
 
-(1)       The Minister may, by legislative instrument, make guidelines providing for matters:
+(1)        The Minister may, by legislative instrument, make guidelines providing for matters:
 
                      (a)  required or permitted by this Schedule to be provided; or
 
                      (b)  necessary or convenient to be provided in order to carry out or give effect to this Schedule.
 
-(2)       Without limiting subitem (1), the guidelines may provide for:
+(2)        Without limiting subitem (1), the guidelines may provide for:
 
                      (a)  when a person is taken to have commenced a course of study; and
 
@@ -688,11 +688,11 @@ In this Part:
 
 **_institution_**has the meaning given by section 4 of the _Higher Education Funding Act 1988_.
 
-<h7 class="ActHead7">Part 2—Transitional arrangement for students under the Post‑graduate education loan scheme</h7>
+<h7 class="ActHead7">Part 2—Transitional arrangement for students under the Post-graduate education loan scheme</h7>
 
-## 6  FEE‑HELP assistance for existing students under the Post‑graduate education loan scheme
+## 6  FEE-HELP assistance for existing students under the Post-graduate education loan scheme
 
-(1)       If:
+If:
 
                      (a)  a person is enrolled with an institution in a unit of study that forms part of a course of study that the person started before 1 January 2005; and
 
@@ -700,15 +700,15 @@ In this Part:
 
                      (c)  the person is an eligible student, within the meaning of section 98B of the _Higher Education Funding Act 1988_, for the semester; and
 
-                     (d)  the course is an eligible post‑graduate course of study within the meaning of section 98A of that Act; and
+                     (d)  the course is an eligible post-graduate course of study within the meaning of section 98A of that Act; and
 
                      (e)  the Commonwealth had, under section 98G of that Act, discharged a liability that the person had incurred in relation to the course; and
 
                       (f)  the person:
 
-                              (i)  is entitled to FEE‑HELP assistance for the unit; or
+                              (i)  is entitled to FEE-HELP assistance for the unit; or
 
-                             (ii)  would be entitled to FEE‑HELP assistance for the unit but for paragraph 104‑1(1)(a) of the _Higher Education Support Act 2003_; and
+                             (ii)  would be entitled to FEE-HELP assistance for the unit but for paragraph 104-1(1)(a) of the _Higher Education Support Act 2003_; and
 
                      (g)  the person has neither:
 
@@ -720,9 +720,7 @@ then:
 
                      (h)  if the institution is not (apart from this item) a higher education provider—the institution is taken, for the purposes of the application of the _Higher Education Support Act 2003_ in relation to the person and the unit, to be a higher education provider; and
 
-                      (i)  if subparagraph (f)(ii) applies—the person is taken, for the purposes of that Act, to be entitled to FEE‑HELP assistance for the unit.
-
-(2)       A person cannot establish for the purposes of subitem (1) that he or she is an eligible student, within the meaning of section 98B of the _Higher Education Funding Act 1988_, more than 6 weeks after the census date for the unit.
+                      (i)  if subparagraph (f)(ii) applies—the person is taken, for the purposes of that Act, to be entitled to FEE-HELP assistance for the unit.
 
 ## 7  Discontinuance of enrolments
 
@@ -736,13 +734,13 @@ A person is not taken, for the purposes of subparagraph (g)(i) of item 6, to
 
 ## 8  Guidelines
 
-(1)       The Minister may, by legislative instrument, make guidelines providing for matters:
+(1)        The Minister may, by legislative instrument, make guidelines providing for matters:
 
                      (a)  required or permitted by this Schedule to be provided; or
 
                      (b)  necessary or convenient to be provided in order to carry out or give effect to this Schedule.
 
-(2)       Without limiting subitem (1), the guidelines may provide for:
+(2)        Without limiting subitem (1), the guidelines may provide for:
 
                      (a)  when a person is taken to have commenced a course of study; and
 
@@ -760,9 +758,9 @@ In this Part:
 
 ## 10  Conversion of accumulated HEC debts into accumulated HELP debts
 
-(1)       In working out, under section 140‑25 of the _Higher Education Support Act 2003_, a person’s accumulated HELP debt for the financial year starting on 1 July 2005, if a person incurs an accumulated HEC debt on 1 June 2005, add the debt to the amount under step 1 of the method statement in section 140‑5 of that Act.
+(1)        In working out, under section 140-25 of the _Higher Education Support Act 2003_, a person’s accumulated HELP debt for the financial year starting on 1 July 2005, if a person incurs an accumulated HEC debt on 1 June 2005, add the debt to the amount under step 1 of the method statement in section 140-5 of that Act.
 
-(2)       The accumulated HELP debt that a person incurs on 1 June 2006 discharges, or discharges the unpaid part of, any accumulated HEC debt that the person incurred on 1 June 2005.
+(2)        The accumulated HELP debt that a person incurs on 1 June 2006 discharges, or discharges the unpaid part of, any accumulated HEC debt that the person incurred on 1 June 2005.
 
 ## 11  Taking account of voluntary payments made under the _Higher Education Funding Act 1988_ on or after 1 June 2005
 
@@ -772,17 +770,17 @@ If:
 
                      (b)  the payment would, but for subsection 106N(2A) of that Act, be used in working out the person’s accumulated HEC debt incurred on 1 June in a particular financial year;
 
-in working out, under section 140‑25 of the _Higher Education Support Act 2003_, a person’s accumulated HELP debt for the financial year, add the amount to the amount of the sum referred to in step 3 of the method statement in section 140‑5 of that Act.
+in working out, under section 140-25 of the _Higher Education Support Act 2003_, a person’s accumulated HELP debt for the financial year, add the amount to the amount of the sum referred to in step 3 of the method statement in section 140-5 of that Act.
 
 ## 11A  Taking account of voluntary payments made under the _Higher Education Support Act 2003_ before 1 June 2005
 
-(1)       If:
+(1)        If:
 
                      (a)  on or after 1 January 2005 and before 1 June 2005, a person makes a voluntary repayment to the Commissioner under Division 151 of the _Higher Education Support Act 2003_; and
 
                      (b)  the payment is in respect of one or more HELP debts;
 
-in working out, under section 140‑25 of that Act, a person’s accumulated HELP debt for the financial year, add the amount to the amount of the sum referred to in step 3 of the method statement in section 140‑5 of that Act.
+in working out, under section 140-25 of that Act, a person’s accumulated HELP debt for the financial year, add the amount to the amount of the sum referred to in step 3 of the method statement in section 140-5 of that Act.
 
 ## 12  Taking account of HEC assessment debts assessed on or after 1 June 2005
 
@@ -794,27 +792,27 @@ If:
 
                      (c)  the amount would, but for subsection 106N(2A) of that Act, be used in working out the person’s accumulated HEC debt incurred on 1 June in a particular financial year;
 
-in working out, under section 140‑25 of the _Higher Education Support Act 2003_, a person’s accumulated HELP debt for the financial year, add the amount to the amount of the sum referred to in step 4 of the method statement in section 140‑5 of that Act.
+in working out, under section 140-25 of the _Higher Education Support Act 2003_, a person’s accumulated HELP debt for the financial year, add the amount to the amount of the sum referred to in step 4 of the method statement in section 140-5 of that Act.
 
 ## 13  Taking account of amendments of assessments of HEC assessment debts on or after 1 June 2005
 
-(1)       If:
+(1)        If:
 
                      (a)  on or after 1 June 2005, the Commissioner amends an assessment made under section 106T of the _Higher Education Funding Act 1988_ of the amount of a person’s HEC assessment debt; and
 
                      (b)  the HEC assessment debt is increased by the amendment (whether as a result of an increase in the person’s taxable income of an income year or otherwise);
 
-in working out, under section 140‑25 of the _Higher Education Support Act 2003_, a person’s accumulated HELP debt for the appropriate financial year, add the amount of the increase to the amount of the sum referred to in step 5 of the method statement in section 140‑5 of that Act.
+in working out, under section 140-25 of the _Higher Education Support Act 2003_, a person’s accumulated HELP debt for the appropriate financial year, add the amount of the increase to the amount of the sum referred to in step 5 of the method statement in section 140-5 of that Act.
 
-(2)       If:
+(2)        If:
 
                      (a)  on or after 1 June 2005, the Commissioner amends an assessment made under section 106T of the _Higher Education Funding Act 1988_ of the amount of a person’s HEC assessment debt; and
 
                      (b)  the HEC assessment debt is reduced by the amendment (whether as a result of a reduction in the person’s taxable income of an income year or otherwise);
 
-in working out, under section 140‑25 of the _Higher Education Support Act 2003_, a person’s accumulated HELP debt for the appropriate financial year, add the amount of the reduction to the amount of the sum referred to in step 6 of the method statement in section 140‑5 of that Act.
+in working out, under section 140-25 of the _Higher Education Support Act 2003_, a person’s accumulated HELP debt for the appropriate financial year, add the amount of the reduction to the amount of the sum referred to in step 6 of the method statement in section 140-5 of that Act.
 
-(3)       For the purposes of this item, the **_appropriate financial year_** is:
+(3)        For the purposes of this item, the **_appropriate financial year_** is:
 
                      (a)  if the amendment is made before 1 June in a financial year—that financial year; or
 
@@ -830,15 +828,15 @@ In this Part:
 
 <h7 class="ActHead7">Part 5—Avondale College</h7>
 
-## 17  Allocation of Commonwealth Grant Scheme funding to Avondale College
+## 17  Allocation of Commonwealth Grant Scheme funding to Avondale  College
 
-Until the end of the year 2008, Parts 2‑2, 2‑5 and 3‑2 of the _Higher Education Support Act 2003_ apply in relation to Avondale College as if Avondale College were a higher education provider, but not a Table A provider.
+Until the end of the year 2008, Parts 2-2, 2-5 and 3-2 of the _Higher Education Support Act 2003_ apply in relation to Avondale College as if Avondale College were a higher education provider, but not a Table A provider.
 
 <h7 class="ActHead7">Part 6—Other transitional provisions</h7>
 
 17A  Reductions in new grants to take account of grants made under section 20A of the _Higher Education Funding Act 1988_
 
-(1)       If the Minister determines a special purpose grant under section 20A of the old Act for an institution (as defined in section 4 of that Act) in respect of a transitional adjustment year, then the amounts of grant payable to the institution under section 33‑1 of the new Act in respect of:
+(1)        If the Minister determines a special purpose grant under section 20A of the old Act for an institution (as defined in section 4 of that Act) in respect of a transitional adjustment year, then the amounts of grant payable to the institution under section 33-1 of the new Act in respect of:
 
                      (a)  the year next following that year; or
 
@@ -848,7 +846,7 @@ Until the end of the year 2008, Parts 2‑2, 2‑5 and 3‑2 of the _Higher Ed
 
 are reduced by amounts that equal in total the amount of the special purpose grant.
 
-(2)       In this item:
+(2)        In this item:
 
 **_transitional adjustment year_** means the year 2002, 2003 or 2004.
 
@@ -886,23 +884,23 @@ then so much of the unspent grant amount as the Secretary specifies in relation 
 
 ## 20  Merit based equity scholarships
 
-(1)       A student who:
+(1)        A student who:
 
-                     (a)  before the commencement of the new Act, was awarded a merit‑based equity scholarship referred to in subsection 35(7) of the old Act for a course of study at an institution (as defined for the purposes of Chapter 4 of the old Act); and
+                     (a)  before the commencement of the new Act, was awarded a merit-based equity scholarship referred to in subsection 35(7) of the old Act for a course of study at an institution (as defined for the purposes of Chapter 4 of the old Act); and
 
                      (b)  continues to undertake that course at the institution after that commencement;
 
 is taken, for the purposes of the new Act, to be an exempt student for all of the units of study that he or she undertakes as part of that course at that institution.
 
-(2)       However, this item does not apply if the institution is not a higher education provider.
+(2)        However, this item does not apply if the institution is not a higher education provider.
 
 ## 21  Marginally funded places
 
-(1)       A higher education provider’s funding agreement under section 30‑25 of the new Act for the year 2005, 2006 or 2007 (the **_grant year_**) may specify an allowable number of marginally funded places in respect of that year.
+(1)        A higher education provider’s funding agreement under section 30-25 of the new Act for the year 2005, 2006 or 2007 (the **_grant year_**) may specify an allowable number of marginally funded places in respect of that year.
 
-(2)       If such a funding agreement specifies such a number, then, for the purposes of:
+(2)        If such a funding agreement specifies such a number, then, for the purposes of:
 
-                     (a)  deciding whether the provider has an adjustment under subsection 33‑25(1) of the new Act for the year following the grant year; and
+                     (a)  deciding whether the provider has an adjustment under subsection 33-25(1) of the new Act for the year following the grant year; and
 
                      (b)  working out the amount of any such adjustment for the year following the grant year;
 
@@ -910,7 +908,7 @@ the number of Commonwealth supported places that are provided in the grant year 
 
 ## 21A  Increases in assistance in 2005 for higher education providers meeting certain requirements
 
-For the purposes of paragraph 33‑15(1)(c) of the _Higher Education Support Act 2003_, the Minister is taken to be satisfied that the provider met the requirements in paragraph 33‑15(1)(a) of that Act, as at a date in 2004, specified in the Commonwealth Grant Scheme Guidelines, if:
+For the purposes of paragraph 33-15(1)(c) of the _Higher Education Support Act 2003_, the Minister is taken to be satisfied that the provider met the requirements in paragraph 33-15(1)(a) of that Act, as at a date in 2004, specified in the Commonwealth Grant Scheme Guidelines, if:
 
                      (a)  the grant year is the year 2005; and
 
@@ -920,7 +918,7 @@ For the purposes of paragraph 33‑15(1)(c) of the _Higher Education Support Act
 
 ## 22  Assessment statements
 
-(1)       A written statement that an assessing body for a listed professional occupation gave to a person, at a time before the commencement of the new Act, is taken to be an **_assessment statement_** for the purposes of the new Act if:
+(1)        A written statement that an assessing body for a listed professional occupation gave to a person, at a time before the commencement of the new Act, is taken to be an **_assessment statement_** for the purposes of the new Act if:
 
                      (a)  the person held a qualification awarded in a foreign country; and
 
@@ -944,7 +942,7 @@ For the purposes of paragraph 33‑15(1)(c) of the _Higher Education Support Act
 
 Note:          A statement could specify one of the things mentioned in subparagraph (d)(i), (ii) or (iii) or any combination of the things mentioned in those subparagraphs.
 
-(2)       In this item:
+(2)        In this item:
 
 **_assessing body_** includes a person or body that, immediately before the commencement of the new Act, was an assessing body for the purposes of Chapter 4B of the old Act.
 
@@ -952,9 +950,9 @@ Note:          A statement could specify one of the things men
 
 **_occupation_** includes a part of an occupation that, immediately before that commencement, was an occupation for the purposes of that Chapter.
 
-## 22A  Fee‑waiver scholarships in the year 2004
+## 22A  Fee-waiver scholarships in the year 2004
 
-(1)       The amount or value of a scholarship in respect of the year 2004 is taken not to be income for the purposes of the _Social Security Act 1991_ if:
+(1)        The amount or value of a scholarship in respect of the year 2004 is taken not to be income for the purposes of the _Social Security Act 1991_ if:
 
                      (a)  the scholarship is provided by an institution; and
 
@@ -962,9 +960,9 @@ Note:          A statement could specify one of the things men
 
                      (c)  the course of study is not a designated course of study (within the meaning of Chapter 4 of the old Act).
 
-(2)       Subitem (1) does not affect whether the amount or value of a scholarship in relation to which that subitem does not apply is income for the purposes of the _Social Security Act 1991_.
+(2)        Subitem (1) does not affect whether the amount or value of a scholarship in relation to which that subitem does not apply is income for the purposes of the _Social Security Act 1991_.
 
-(3)       In this item:
+(3)        In this item:
 
 **_institution_** means an institution or body mentioned in any of the following:
 
@@ -976,17 +974,17 @@ Note:          A statement could specify one of the things men
 
 ## 23  Saving of regulations made for Chapter 5C of the _Higher Education Funding Act 1988_
 
-(1)       Regulations made for the purposes of paragraphs 106ZQ(2)(a) and (c) and subsection 106ZQ(3) of the old Act that were in force immediately before the repeal of Chapter 5C of the old Act are, on the commencement day, taken to have been made for the purposes of paragraphs 225‑25(1)(a) and (c) and subsection 225‑25(2) respectively of the new Act.
+(1)        Regulations made for the purposes of paragraphs 106ZQ(2)(a) and (c) and subsection 106ZQ(3) of the old Act that were in force immediately before the repeal of Chapter 5C of the old Act are, on the commencement day, taken to have been made for the purposes of paragraphs 225-25(1)(a) and (c) and subsection 225-25(2) respectively of the new Act.
 
-(2)       On the commencement day, a reference in the regulations made for the purposes of paragraph 106ZQ(2)(a) of the old Act to an application under subsection 106ZQ(1) of the old Act is to be read as a reference to an application under section 225‑1 of the new Act.
+(2)        On the commencement day, a reference in the regulations made for the purposes of paragraph 106ZQ(2)(a) of the old Act to an application under subsection 106ZQ(1) of the old Act is to be read as a reference to an application under section 225-1 of the new Act.
 
-(3)       In this item:
+(3)        In this item:
 
 **_commencement day_**is the day that Chapter 6 of the new Act commences.
 
-23A  OS‑HELP—prior study requirements
+23A  OS-HELP—prior study requirements
 
-(1)       This item applies where:
+(1)        This item applies where:
 
                      (a)  a student has completed a unit of study in Australia that counts towards the course requirements for a course of study at an institution; and
 
@@ -998,25 +996,25 @@ Note:          A statement could specify one of the things men
 
                               (i)  the course of study was a designated course of study and the student was a contributing student in relation to the course; or
 
-                             (ii)  the student was a merit‑based equity scholarship holder in relation to the course; and
+                             (ii)  the student was a merit-based equity scholarship holder in relation to the course; and
 
-                     (e)  on or after 1 January 2005, the student is enrolled in an undergraduate course of study with a higher education provider (the **_OS‑HELP course_**) and the unit of study counts towards the requirements of that course.
+                     (e)  on or after 1 January 2005, the student is enrolled in an undergraduate course of study with a higher education provider (the **_OS-HELP course_**) and the unit of study counts towards the requirements of that course.
 
-(2)       For the purposes of this item, such a unit is a **_pre‑HESA unit_** and is taken to have an EFTSL value equal to its EFTSU value.
+(2)        For the purposes of this item, such a unit is a **_pre-HESA unit_** and is taken to have an EFTSL value equal to its EFTSU value.
 
-(3)       Where this item applies, the prior study requirements in relation to the OS‑HELP course for the purposes of paragraph 118‑1(1)(d) of the new Act are that the sum of:
+(3)        Where this item applies, the prior study requirements in relation to the OS-HELP course for the purposes of paragraph 118-1(1)(d) of the new Act are that the sum of:
 
-                     (a)  the total EFTSL value of all the pre‑HESA units of study completed by the student; and
+                     (a)  the total EFTSL value of all the pre-HESA units of study completed by the student; and
 
                      (b)  the total EFTSL value of all other units of study (if any):
 
-                              (i)  that the student has completed in Australia that count towards the course requirements for the OS‑HELP course; and
+                              (i)  that the student has completed in Australia that count towards the course requirements for the OS-HELP course; and
 
                              (ii)  in relation to which the student was a Commonwealth supported student;
 
 is at least one EFTSL.
 
-(4)       In this item:
+(4)        In this item:
 
 **_census date_** has the same meaning as in Chapter 4 of the old Act.
 
@@ -1034,7 +1032,7 @@ is at least one EFTSL.
 
                      (c)  Schedule 1 to the old Act.
 
-**_merit‑based equity scholarship holder_** means a student who is exempt under subsection 35(7) of the old Act.
+**_merit-based equity scholarship holder_** means a student who is exempt under subsection 35(7) of the old Act.
 
 ## 24  Definitions
 
@@ -1110,19 +1108,19 @@ Omit “subsection (7)”, substitute “subsections (7) and (8)”.
 
 ## 8B  Subparagraph 106Q(4)(a)(ii)
 
-After “year of income”, insert “(other than the 2004‑05 year of income)”.
+After “year of income”, insert “(other than the 2004-05 year of income)”.
 
 ## 8C  After subparagraph 106Q(4)(a)(ii)
 
 Insert:
 
-                     ; or (iii)  for the 2004‑05 year of income—$35,000;
+                      ; or (iii)  for the 2004-05 year of income—$35,000;
 
 ## 8D  At the end of section 106Q
 
 Add:
 
-             (8)  This section applies in relation to the 2004‑05 year of income as if the table in subsection (1) were omitted and the following table were substituted:
+             (8)  This section applies in relation to the 2004-05 year of income as if the table in subsection (1) were omitted and the following table were substituted:
 
 <table>
 <colgroup>
@@ -1135,7 +1133,7 @@ Add:
   <tr>
     <td colspan="3">
       <div>
-        <b>HEC repayment thresholds for the 2004‑05 year of income</b>
+        <b>HEC repayment thresholds for the 2004-05 year of income</b>
       </div>
     </td>
   </tr>
@@ -1281,7 +1279,7 @@ After “each year”, insert “up to and including the year 2004”.
 
 Insert:
 
-##### <a id="98NA"></a>98NA  No financial assistance payable
+##### <a id="98NA"></a>98NA  No financial assistance payable
 
                    No financial assistance is payable under this Chapter to an institution referred to in section 4 after 31 December 2004.
 
@@ -1315,7 +1313,7 @@ Insert:
 
           (2A)  A person cannot incur an accumulated HEC debt on 1 June 2006 or on 1 June in any later year.
 
-Note:          A person’s accumulated HELP debt, worked out under section 140‑25 of the _Higher Education Support Act 2003_, for the financial year starting on 1 July 2005 can include an amount for the person’s accumulated HEC debt incurred on 1 June 2005: see Part 3 of Schedule 1 to the _Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003_.
+Note:          A person’s accumulated HELP debt, worked out under section 140-25 of the _Higher Education Support Act 2003_, for the financial year starting on 1 July 2005 can include an amount for the person’s accumulated HEC debt incurred on 1 June 2005: see Part 3 of Schedule 1 to the _Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003_.
 
 ## 19  Chapter 5C
 
@@ -1341,7 +1339,7 @@ Repeal the definition, substitute:
 
 ## 23  Section 3 (paragraph (c) of the definition of _ex officio member_)
 
-Omit “Vice‑Chancellor; or”, substitute “Vice‑Chancellor.”.
+Omit “Vice-Chancellor; or”, substitute “Vice-Chancellor.”.
 
 ## 24  Section 3 (paragraphs (d) to (g) of the definition of _ex officio member_)
 
@@ -1511,7 +1509,7 @@ Add:
 
              (3)  The Council must not delegate its power to:
 
-                     (a)  appoint the Chancellor, Pro‑Chancellor or Vice‑Chancellor; or
+                     (a)  appoint the Chancellor, Pro-Chancellor or Vice-Chancellor; or
 
                      (b)  approve the University’s annual budget or its business plan; or
 
@@ -1531,7 +1529,7 @@ Add:
 
              (4)  The Council must not delegate its power to:
 
-                     (a)  appoint the Chancellor, Pro‑Chancellor or Vice‑Chancellor; or
+                     (a)  appoint the Chancellor, Pro-Chancellor or Vice-Chancellor; or
 
                      (b)  approve the University’s annual budget or its business plan; or
 
@@ -1677,7 +1675,7 @@ Repeal the subsections, substitute:
 
                      (c)  the Statute has the force of law from the day on which it is so notified.
 
-_Note:       The heading to section 52 is altered by omitting “approved by Governor‑General and”._
+_Note:       The heading to section 52 is altered by omitting “approved by Governor-General and”._
 
 ## 62  Subsection 52(4)
 
@@ -1695,7 +1693,7 @@ Repeal the Division.
 
 Omit “, the Chairperson”.
 
-## 65  Section 4 (definition of _non‑teaching staff member_)
+## 65  Section 4 (definition of _non-teaching staff member_)
 
 Repeal the definition.
 
@@ -1715,7 +1713,7 @@ Repeal the definition.
 
 Repeal the paragraph, substitute:
 
-                     (a)  to conduct an institution for the provision of such maritime and maritime‑related education and training (including logistics education and training) as the Council, with the Minister’s approval, determines, or as the Minister requires; and
+                     (a)  to conduct an institution for the provision of such maritime and maritime-related education and training (including logistics education and training) as the Council, with the Minister’s approval, determines, or as the Minister requires; and
 
 ## 70  At the end of paragraphs 7(b) and (c)
 
@@ -1853,7 +1851,7 @@ Note:          This subsection only operates in relation to du
 
                      (b)  cause detriment to the College or to another person.
 
-##### <a id="22E"></a>22E  Member not to use information improperly
+##### <a id="22E"></a>22E  Member not to use information improperly
 
                    A member who obtains information because of his or her position must not improperly use the information to:
 
@@ -1889,7 +1887,7 @@ Repeal the paragraphs.
 
 Insert:
 
-                    (ja)  the payment to the College of fees, including student contribution amounts and tuition fees within the meaning of the _Higher Education Support Act 2003_; and
+                     (ja)  the payment to the College of fees, including student contribution amounts and tuition fees within the meaning of the _Higher Education Support Act 2003_; and
 
 ## 84  Subsection 26(2)
 
@@ -1955,7 +1953,7 @@ Repeal the section, substitute:
 
                      (a)  the appropriate strategic directions of the College; and
 
-                     (b)  the manner in which the College should perform its non‑academic functions.
+                     (b)  the manner in which the College should perform its non-academic functions.
 
 ##### <a id="32B"></a>32B  Minister’s response to corporate plan
 
@@ -2035,7 +2033,7 @@ Omit “Marcus Oldham College or”.
 
 Insert:
 
-                            (ia)  section 154‑60 of the _Higher Education Support Act 2003_; or
+                            (ia)  section 154-60 of the _Higher Education Support Act 2003_; or
 
 <h9 class="ActHead9">Bankruptcy Act 1966</h9>
 
@@ -2047,7 +2045,7 @@ Repeal the note.
 
 Insert:
 
-       (3AB)  A debt incurred under Part 4‑1 of the _Higher Education Support Act 2003_ is not provable in bankruptcy.
+        (3AB)  A debt incurred under Part 4-1 of the _Higher Education Support Act 2003_ is not provable in bankruptcy.
 
 <h9 class="ActHead9">Disability Services Act 1986</h9>
 
@@ -2121,7 +2119,7 @@ Omit “an HEC semester debt”, substitute “a semester debt”.
 
 Insert:
 
-                   (ba)  if the person:
+                    (ba)  if the person:
 
                               (i)  has incurred a BOTP semester debt for the BOTP course; and
 
@@ -2131,7 +2129,7 @@ Insert:
 
                             the day specified by the institution in the notice as the day the withdrawal takes effect; or
 
-                   (bb)  if:
+                    (bb)  if:
 
                               (i)  the person has incurred a BOTP semester debt; and
 
@@ -2165,13 +2163,13 @@ Omit “If the amount of the debt is $500 or more, the”, substitute “The”.
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2008C00021/Html/f132a184-5daa-4d16-84e6-b3057ce5f996_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00343/Html/HigherEducationSuppTransProvConsAmend2003_image002.gif)
 
 ## 116  Subsection 106PA(4) (formula)
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2008C00021/Html/f132a184-5daa-4d16-84e6-b3057ce5f996_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00343/Html/HigherEducationSuppTransProvConsAmend2003_image003.gif)
 
 ## 117  Subsection 106PA(4) (example)
 
@@ -2217,7 +2215,7 @@ Add:
 
 Add:
 
-             (3)  In this section, **_HECS‑HELP debt_**, **_FEE‑HELP debt_** and **_OS‑HELP debt_** have the same meanings as in the _Higher Education Support Act 2003_.
+             (3)  In this section, **_HECS-HELP debt_**, **_FEE-HELP debt_** and **_OS-HELP debt_** have the same meanings as in the _Higher Education Support Act 2003_.
 
 ## 124  At the end of section 112
 
@@ -2237,7 +2235,7 @@ Add:
 
 Insert:
 
-                    (ja)  discharging a compulsory repayment amount (within the meaning of the _Higher Education Support Act 2003_);
+                     (ja)  discharging a compulsory repayment amount (within the meaning of the _Higher Education Support Act 2003_);
 
 ## 126  Subsection 51(6AA) (note)
 
@@ -2247,13 +2245,13 @@ Omit “(HECS and student assistance)”, substitute “(Assistance to students)
 
 After “_Higher Education Funding Act 1988_,”, insert “the _Higher Education Support Act 2003_,”.
 
-## 128  Subsection 82A(2) (after paragraph (b) of the definition of _expenses of self‑education_)
+## 128  Subsection 82A(2) (after paragraph (b) of the definition of _expenses of self-education_)
 
 Insert:
 
-                   (ba)  a student contribution amount within the meaning of the _Higher Education Support Act 2003_ paid to a higher education provider (within the meaning of that Act); or
+                    (ba)  a student contribution amount within the meaning of the _Higher Education Support Act 2003_ paid to a higher education provider (within the meaning of that Act); or
 
-                   (bb)  a payment made in respect of, or in respect of the reduction or discharge of, any indebtedness to the Commonwealth under Chapter 4 of that Act; or
+                    (bb)  a payment made in respect of, or in respect of the reduction or discharge of, any indebtedness to the Commonwealth under Chapter 4 of that Act; or
 
 ## 129  Subsection 163B(3) (paragraph (d) of the definition of _Tax liabilities_)
 
@@ -2275,17 +2273,17 @@ Insert:
 
 Insert:
 
-                    (fa)  a decision to give a notice under subsection 190‑15(1) of the _Higher Education Support Act 2003_;
+                    (fa)  a decision to give a notice under subsection 190-15(1) of the _Higher Education Support Act 2003_;
 
-                    (fb)  a decision to give a notice under subsection 190‑20(1) of the _Higher Education Support Act 2003_;
+                    (fb)  a decision to give a notice under subsection 190-20(1) of the _Higher Education Support Act 2003_;
 
 <h9 class="ActHead9">Income Tax Assessment Act 1997</h9>
 
-## 136  Section 3‑1 (table item 2)
+## 136  Section 3-1 (table item 2)
 
 Repeal the item.
 
-## 137  Section 12‑5 (table item headed “Higher Education Contribution Scheme (HECS)”)
+## 137  Section 12-5 (table item headed “Higher Education Contribution Scheme (HECS)”)
 
 Repeal the item, substitute:
 
@@ -2302,43 +2300,43 @@ Repeal the item, substitute:
     </div>
   </td>
   <td>
-    <div>26‑20</div>
+    <div>26-20</div>
   </td>
 </tr></table>
 
-## 138  Section 26‑20 (heading)
+## 138  Section 26-20 (heading)
 
 Repeal the heading, substitute:
 
-##### <a id="26‑20"></a>26‑20  Assistance to students
+##### <a id="26-20"></a>26-20  Assistance to students
 
-## 139  After paragraph 26‑20(1)(c)
+## 139  After paragraph 26-20(1)(c)
 
 Insert:
 
                     (ca)  a student contribution amount within the meaning of the _Higher Education Support Act 2003_ paid to a higher education provider (within the meaning of that Act); or
 
-                   (cb)  a payment made to reduce a debt to the Commonwealth under Chapter 4 of that Act; or
+                    (cb)  a payment made to reduce a debt to the Commonwealth under Chapter 4 of that Act; or
 
-## 140  Subsection 30‑25(1) (table item 2.1.3, column 2)
-
-Omit “_Employment, Education and Training Act 1988_”, substitute “_Higher Education Funding Act 1988_”.
-
-## 141  Subsection 30‑25(1) (table item 2.1.6, column 2)
+## 140  Subsection 30-25(1) (table item 2.1.3, column 2)
 
 Omit “_Employment, Education and Training Act 1988_”, substitute “_Higher Education Funding Act 1988_”.
 
-## 142  After paragraph 52‑140(3)(x)
+## 141  Subsection 30-25(1) (table item 2.1.6, column 2)
+
+Omit “_Employment, Education and Training Act 1988_”, substitute “_Higher Education Funding Act 1988_”.
+
+## 142  After paragraph 52-140(3)(x)
 
 Insert:
 
-                   (xa)  discharging a compulsory repayment amount (within the meaning of the _Higher Education Support Act 2003_);
+                    (xa)  discharging a compulsory repayment amount (within the meaning of the _Higher Education Support Act 2003_);
 
-## 143  Section 995‑1
+## 143  Section 995-1
 
 Insert:
 
-                    <a name="accumulated-help-debt"></a>**_accumulated HELP debt_** has the meaning given by section 140‑25 of the _Higher Education Support Act 2003_.
+                    <a name="accumulated-help-debt"></a>**_accumulated HELP debt_** has the meaning given by section 140-25 of the _Higher Education Support Act 2003_.
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
@@ -2352,13 +2350,13 @@ Insert:
 
                              (ii)  a scholarship known as a Commonwealth Accommodation Scholarship;
 
-                            provided for under the Commonwealth Scholarships Guidelines made for the purposes of Part 2‑4 of the _Higher Education Support Act 2003_;
+                            provided for under the Commonwealth Scholarships Guidelines made for the purposes of Part 2-4 of the _Higher Education Support Act 2003_;
 
 ## 145  At the end of section 23
 
 Add:
 
-           (20)  For the purposes of this Act, a **_full‑time student load_**, for a course of study, is the study load represented by units of study, forming part of the course, that have a total EFTSL value of one EFTSL.
+           (20)  For the purposes of this Act, a **_full-time student load_**, for a course of study, is the study load represented by units of study, forming part of the course, that have a total EFTSL value of one EFTSL.
 
            (21)  Expressions used in subsection (20) that are defined in the _Higher Education Support Act 2003_ have in that subsection, unless the contrary intention appears, the same meaning as in that Act.
 
@@ -2372,7 +2370,7 @@ Repeal the paragraph, substitute:
 
                              (ii)  there are Commonwealth supported students (within the meaning of that Act) enrolled in the course;
 
-                            the full‑time student load for the course; or
+                            the full-time student load for the course; or
 
 ## 147  Paragraph 541B(2)(b)
 
@@ -2388,13 +2386,13 @@ Repeal the paragraph, substitute:
 
                              (ii)  there are Commonwealth supported students (within the meaning of that Act) enrolled in the course;
 
-                            the full‑time student load for the course; or
+                            the full-time student load for the course; or
 
 ## 149  Paragraph 569E(1)(b)
 
 Omit “designated”.
 
-## 150  Paragraph 1061PF(1)(a)
+## 150  Paragraph 1061PF(1)(a)
 
 Repeal the paragraph, substitute:
 
@@ -2404,7 +2402,7 @@ Repeal the paragraph, substitute:
 
                              (ii)  there are Commonwealth supported students (within the meaning of that Act) enrolled in the course;
 
-                            the full‑time student load for the course; or
+                            the full-time student load for the course; or
 
 ## 151  Paragraph 1061PF(1)(b)
 
@@ -2426,37 +2424,37 @@ Insert:
 
 _Note:       The heading to section 8AAZLD is altered by inserting “and compulsory repayment amounts” after “debts”._
 
-## 154  Section 6‑1 in Schedule 1
+## 154  Section 6-1 in Schedule 1
 
 After “(HECS)”, insert “, liability to repay debts under the Higher Education Loan Program (HELP)”.
 
-## 155  After paragraph 11‑1(c) in Schedule 1
+## 155  After paragraph 11-1(c) in Schedule 1
 
 Insert:
 
                     (ca)  amounts of liabilities to the Commonwealth under Chapter 4 of the _Higher Education Support Act 2003_; and
 
-## 156  Paragraph 15‑30(c) in Schedule 1
+## 156  Paragraph 15-30(c) in Schedule 1
 
 After “_Higher Education Funding Act 1988_”, insert “for any financial year ending before 1 July 2005”.
 
-## 157  After paragraph 15‑30(c) in Schedule 1
+## 157  After paragraph 15-30(c) in Schedule 1
 
 Insert:
 
-                    (ca)  the percentages specified in section 154‑20 (about repayments of accumulated HELP debt) of the _Higher Education Support Act 2003_ for any financial year starting on or after 1 July 2005;
+                    (ca)  the percentages specified in section 154-20 (about repayments of accumulated HELP debt) of the _Higher Education Support Act 2003_ for any financial year starting on or after 1 July 2005;
 
-## 158  After paragraph 45‑5(1)(c) in Schedule 1
+## 158  After paragraph 45-5(1)(c) in Schedule 1
 
 Insert:
 
                     (ca)  amounts of liabilities to the Commonwealth under Chapter 4 of the _Higher Education Support Act 2003_; and
 
-## 159  Section 45‑340 in Schedule 1 (method statement, step 3)
+## 159  Section 45-340 in Schedule 1 (method statement, step 3)
 
 After “_Higher Education Funding Act 1988_”, insert “, or an * accumulated HELP debt under the _Higher Education Support Act 2003_,”.
 
-## 160  Section 45‑375 in Schedule 1 (method statement, step 3)
+## 160  Section 45-375 in Schedule 1 (method statement, step 3)
 
 After “_Higher Education Funding Act 1988_”, insert “, or an * accumulated HELP debt under the _Higher Education Support Act 2003_,”.
 
@@ -2472,7 +2470,7 @@ Insert:
 
 Insert:
 
-                         (viia)  amounts that are treated under Subdivision 154‑D of the _Higher Education Support Act 2003_ as if they were income tax;
+                          (viia)  amounts that are treated under Subdivision 154-D of the _Higher Education Support Act 2003_ as if they were income tax;
 
 ## 163  After subparagraph 8A(1)(a)(ii)
 
@@ -2484,7 +2482,7 @@ Insert:
 
 Insert:
 
-                   (ba)  compulsory repayment amount; or
+                    (ba)  compulsory repayment amount; or
 
 ## 165  Subparagraph 8E(1)(d)(iii)
 
@@ -2494,7 +2492,7 @@ After “HEC assessment debt”, insert “or compulsory repayment amount”.
 
 After “HEC assessment debt”, insert “or compulsory repayment amount”.
 
-## 167  After sub‑subparagraph 12A(1)(a)(iv)(B)
+## 167  After sub-subparagraph 12A(1)(a)(iv)(B)
 
 Insert:
 
@@ -2504,7 +2502,7 @@ Insert:
 
 Insert:
 
-                   (ba)  compulsory repayment amount; or
+                    (ba)  compulsory repayment amount; or
 
 <h9 class="ActHead9">Veterans’ Entitlements Act 1986</h9>
 
@@ -2512,12 +2510,14 @@ Insert:
 
 Insert:
 
-                   (hb)  the amount or value of:
+                    (hb)  the amount or value of:
 
                               (i)  a scholarship known as a Commonwealth Education Costs Scholarship; or
 
                              (ii)  a scholarship known as a Commonwealth Accommodation Scholarship;
 
-                            provided for under the Commonwealth Scholarships Guidelines made for the purposes of Part 2‑4 of the _Higher Education Support Act 2003_;
+                            provided for under the Commonwealth Scholarships Guidelines made for the purposes of Part 2-4 of the _Higher Education Support Act 2003_;
+
+ 
 
  
