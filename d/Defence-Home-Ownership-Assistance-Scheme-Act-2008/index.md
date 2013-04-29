@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00131/Html/DefHomeOwnerAssistScheme2008_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00518/Html/DefHomeOwnerAssistScheme2008_image001.gif)
 
 # Defence Home Ownership Assistance Scheme Act 2008
 
 **Act No. 27 of 2008 as amended**
 
-This compilation was prepared on 20 March 2009
+This compilation was prepared on 8 October 2008
  taking into account amendments up to Act No. 90 of 2008
 
 The text of any of those amendments not in force 
@@ -1024,7 +1024,7 @@ Note:          A surviving partner may be entitled to subsidy 
 
                    This Subdivision applies if, in relation to a particular entitlement period, the Secretary has (under section 27) authorised the payment of subsidy to a subsidised borrower in relation to a subsidised loan, secured by a mortgage over an interest in land.
 
-##### <a id="36"></a>36  When subsidy stops being payable—general
+##### <a id="36"></a>36  When subsidy stops being payable—general
 
                    Subsidy stops being payable to the subsidised borrower, in relation to the entitlement period:
 
@@ -1754,7 +1754,7 @@ Note:          Part 5 provides for the administrative review
 
                    If subsidy is payable to a subsidised borrower in relation to a subsidised loan during an entitlement period, the amount of subsidy (the subsidised borrower’s **_monthly subsidy_**) for each month during the period is worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00131/Html/DefHomeOwnerAssistScheme2008_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00518/Html/DefHomeOwnerAssistScheme2008_image002.gif)
 
 Note:          The average monthly interest is worked out under section 50.
 
@@ -1762,13 +1762,13 @@ Note:          The average monthly interest is worked out unde
 
              (1)  **_Average monthly interest_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00131/Html/DefHomeOwnerAssistScheme2008_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00518/Html/DefHomeOwnerAssistScheme2008_image003.gif)
 
 Note:          The loan capital is worked out under section 51.
 
              (2)  The **_monthly repayment_**, for the formula in subsection (1), is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00131/Html/DefHomeOwnerAssistScheme2008_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00518/Html/DefHomeOwnerAssistScheme2008_image004.gif)
 
 Note 1:       The loan capital is worked out under section 51.
 
@@ -2016,7 +2016,7 @@ Note:          Entitlement to subsidy may be transferred from 
 
              (1)  If a subsidy lump sum is payable to a subsidised borrower in relation to a subsidised loan, the amount of the subsidy lump sum is worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00131/Html/DefHomeOwnerAssistScheme2008_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00518/Html/DefHomeOwnerAssistScheme2008_image005.gif)
 
              (2)  The **_notional monthly subsidy_**, for the formula in subsection (1), is the amount of monthly subsidy that would have been payable to the subsidised borrower in relation to the loan under section 49 on the following assumptions:
 
@@ -2695,7 +2695,7 @@ Note:          An internal review decision is reviewable by th
 
 ## Part 6—Administration
 
-##### <a id="77"></a>77  Approved forms
+##### <a id="77"></a>77  Approved forms
 
              (1)  This section applies if this Act requires a thing to be in the approved form.
 
@@ -2867,7 +2867,7 @@ Note:          **_SES employee_** and **_acting SES employee_*
 
 ##### <a id="83"></a>83  Receipt and custody of public money by contractor
 
-             (1)  If an agreement covered by subsection (2) provides for an arrangement for the receipt, custody or payment of public money by a person who is an outsider for the purposes of section 12 of the _Financial Management and Accountability Act 1997_, the arrangement is authorised for the purposes of that section.
+             (1)  If an agreement covered by subsection (2) provides for an arrangement for the receipt or custody of public money by a person who is an outsider for the purposes of section 12 of the _Financial Management and Accountability Act 1997_, the arrangement is authorised for the purposes of that section.
 
              (2)  This subsection covers the following:
 
@@ -2960,56 +2960,34 @@ Remainder: Royal Assent</div>
     <div>20 Sept 2008</div>
   </td>
   <td>
-    <div>Schedule 2: 20 Mar 2009</div>
+    <div>Schedule 2: \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (item 2)</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
 
-<tr>
-  <td colspan="2">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Provision affected</div>
-  </td>
-  <td>
-    <div>How affected</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>am. No. 90, 2008</div>
-  </td>
-</tr></table>
+The following amendment commences on 20 March 2009 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1  Subsection 83(1)
+
+Omit “or custody”, substitute “, custody or payment”.
+
+As at 8 October 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
+
+The following provision commences on 20 March 2009 unless proclaimed earlier:
 
 ## Schedule 2
 
