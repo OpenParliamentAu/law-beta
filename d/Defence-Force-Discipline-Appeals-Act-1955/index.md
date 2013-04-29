@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00343/Html/5e2cfb75-363f-465e-ac81-9e214a9e54d3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00443/Html/DefForDisAppAct55_image001.gif)
 
 # Defence Force Discipline Appeals Act 1955
 
 **Act No. 16 of 1955 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 24 September 2009
+ taking into account amendments up to Act No. 91 of 2009
 
-The text of any of those amendments not in force on 
- that date is appended in the Notes section
+The text of any of those amendments not in force on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
  
 
@@ -184,17 +183,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="court-order"></a>**_court order_** means:
 
-                     (a)  an order made by the Australian Military Court under subsection 75(1) of the _Defence Force Discipline Act 1982_; or
+                     (a)  an order made by the Australian   Military Court under subsection 75(1) of the _Defence Force Discipline Act 1982_; or
 
-                     (b)  an order made by the Australian Military Court under section 83 of that Act; or
+                     (b)  an order made by the Australian   Military Court under section 83 of that Act; or
 
-                     (c)  an order made by the Australian Military Court under section 84 of that Act;
+                     (c)  an order made by the Australian   Military Court under section 84 of that Act;
 
 but does not include an order made in an appeal under Part IX of the _Defence Force Discipline Act 1982_.
 
                     <a name="defenc-forc-magistr"></a>**_Defence Force magistrate_** means a Defence Force magistrate appointed under section 127 of the _Defence Force Discipline Act 1982_.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
                     <a name="member-tribun"></a><a name="member"></a>**_member_** or **_member of the Tribunal_** means a member of the Tribunal, and includes the President and Deputy President.
 
@@ -244,15 +241,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (1)  The Tribunal shall consist of a President, a Deputy President and such other persons as are appointed to be members of the Tribunal in pursuance of this Act.
 
-             (2)  The President, Deputy President and other members of the Tribunal shall be appointed by the Governor‑General by commission.
+             (2)  The President, Deputy President and other members of the Tribunal shall be appointed by the Governor-General by commission.
 
-             (3)  A member of the Tribunal shall be appointed for such period as the Governor‑General determines, but shall be eligible for re‑appointment.
+             (3)  A member of the Tribunal shall be appointed for such period as the Governor-General determines, but shall be eligible for re-appointment.
 
           (3A)  A person who has attained the age of 70 years shall not be appointed as a member of the Tribunal and a person shall not be appointed as a member of the Tribunal for a period that extends beyond the day on which the person will attain the age of 70 years.
 
              (4)  In the event of the absence, through illness or otherwise, or the suspension of the President, or of a vacancy in the office of President, the Deputy President has all the powers and shall perform all the duties of President during the absence, suspension or vacancy.
 
-             (5)  In the event of the absence, through illness or otherwise, or the suspension of the Deputy President, or of a vacancy in the office of Deputy President, the Governor‑General may appoint another member, being a member who is qualified to be appointed as Deputy President, to act as Deputy President during the absence, suspension or vacancy.
+             (5)  In the event of the absence, through illness or otherwise, or the suspension of the Deputy President, or of a vacancy in the office of Deputy President, the Governor-General may appoint another member, being a member who is qualified to be appointed as Deputy President, to act as Deputy President during the absence, suspension or vacancy.
 
 ##### <a id="8"></a>8  Qualification of members
 
@@ -280,13 +277,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="8B"></a>8B  Arrangement for appointment of the holder of a judicial office of a State or the Northern Territory
 
-             (1)  The Governor‑General may, for the purposes of appointing to an office of member of the Tribunal a person who is the holder of a judicial office of a State or of the Northern Territory, enter into such arrangement with the Governor of that State or the Administrator of that Territory, as the case may be, as is necessary to secure that person’s services.
+             (1)  The Governor-General may, for the purposes of appointing to an office of member of the Tribunal a person who is the holder of a judicial office of a State or of the Northern Territory, enter into such arrangement with the Governor of that State or the Administrator of that Territory, as the case may be, as is necessary to secure that person’s services.
 
              (2)  An arrangement in subsection (1) may provide for the Commonwealth to reimburse a State or the Northern Territory with respect to the services of the person to whom the arrangement relates.
 
 ##### <a id="9"></a>9  Oath or affirmation of allegiance
 
-                   Each member shall, before proceeding to discharge the duties of his or her office, take before the Governor‑General or a Justice or Judge of a federal court or of the Supreme Court of a State or Territory an oath or make an affirmation in accordance with the form of oath or affirmation in the Schedule.
+                   Each member shall, before proceeding to discharge the duties of his or her office, take before the Governor-General or a Justice or Judge of a federal court or of the Supreme Court of a State or Territory an oath or make an affirmation in accordance with the form of oath or affirmation in the Schedule.
 
 ##### <a id="10"></a>10  Remuneration and allowances of members and deputies
 
@@ -294,19 +291,19 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  The President, Deputy President and other members shall be paid such allowances as are prescribed.
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973‑1974_.
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973-1974_.
 
 ##### <a id="11"></a>11  Removal and suspension of members from office
 
-             (1)  The Governor‑General may remove a member from office upon an address praying for the removal of the member being presented to the Governor‑General by each House of the Parliament in the same session of the Parliament.
+             (1)  The Governor-General may remove a member from office upon an address praying for the removal of the member being presented to the Governor-General by each House of the Parliament in the same session of the Parliament.
 
-             (2)  A member may be suspended from office by the Governor‑General.
+             (2)  A member may be suspended from office by the Governor-General.
 
              (3)  The Minister shall cause to be laid before each House of the Parliament a statement of the grounds of suspension within seven sitting days of that House after the suspension.
 
-             (4)  The member shall be restored to office by the Governor‑General unless each House of the Parliament, within fifteen sitting days of that House after the statement has been laid before it, declares by resolution that the member ought to be removed from office.
+             (4)  The member shall be restored to office by the Governor-General unless each House of the Parliament, within fifteen sitting days of that House after the statement has been laid before it, declares by resolution that the member ought to be removed from office.
 
-             (5)  If each House within that time so declares, the member shall be removed from office by the Governor‑General accordingly.
+             (5)  If each House within that time so declares, the member shall be removed from office by the Governor-General accordingly.
 
              (6)  A member shall not be removed from office except as provided by this section.
 
@@ -314,7 +311,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (1)  The Minister may grant leave of absence to a member upon such terms and conditions as to remuneration or otherwise as the Minister determines.
 
-             (2)  A member may resign his or her office by writing under his or her hand addressed to the Governor‑General, but the resignation is not effective unless and until it has been accepted by the Governor‑General.
+             (2)  A member may resign his or her office by writing under his or her hand addressed to the Governor-General, but the resignation is not effective unless and until it has been accepted by the Governor-General.
 
 ##### <a id="14"></a>14  Sittings of the Tribunal
 
@@ -392,9 +389,9 @@ the Tribunal constituted by the remaining members may, if the hearing has not be
 
 ##### <a id="19"></a>19  The Registrar
 
-             (1)  There shall be a Registrar of the Tribunal, who shall be appointed by the Attorney‑General.
+             (1)  There shall be a Registrar of the Tribunal, who shall be appointed by the Attorney-General.
 
-             (2)  The Attorney‑General may appoint such Deputy Registrars as are necessary.
+             (2)  The Attorney-General may appoint such Deputy Registrars as are necessary.
 
              (3)  The Registrar and a Deputy Registrar shall have respectively such powers, duties and functions as are prescribed.
 
@@ -468,9 +465,9 @@ it shall receive and consider that evidence and, if it appears to the Tribunal t
 
                      (b)  substitute for the conviction so quashed an acquittal on the ground of unsoundness of mind; and
 
-                     (c)  direct that the person be kept in strict custody until the pleasure of the Governor‑General is known.
+                     (c)  direct that the person be kept in strict custody until the pleasure of the Governor-General is known.
 
-             (4)  Where in an appeal it appears to the Tribunal that the court martial or the Defence Force magistrate should have found that the appellant, by reason of unsoundness of mind, was not able to understand the proceedings against him or her and accordingly was unfit to stand trial, the Tribunal shall allow the appeal, quash the conviction or prescribed acquittal and direct that the appellant be kept in strict custody until the pleasure of the Governor‑General is known.
+             (4)  Where in an appeal it appears to the Tribunal that the court martial or the Defence Force magistrate should have found that the appellant, by reason of unsoundness of mind, was not able to understand the proceedings against him or her and accordingly was unfit to stand trial, the Tribunal shall allow the appeal, quash the conviction or prescribed acquittal and direct that the appellant be kept in strict custody until the pleasure of the Governor-General is known.
 
              (5)  The Tribunal shall not quash a conviction under subsection (3) or (4) if there are grounds for quashing the conviction under subsection (1) or (2).
 
@@ -548,7 +545,7 @@ the Tribunal may substitute for the conviction of the original offence a convict
 
              (2)  A person appointed under paragraph (a) of subsection (1) of section 31 to receive evidence on behalf of the Tribunal, a special commissioner to whom a question is referred under paragraph (d) of that subsection and a person appointed under paragraph (e) of that subsection to act as assessor shall be paid such remuneration and allowances as the Tribunal, subject to the regulations, allows.
 
-             (3)  The claim of a person to an allowance or remuneration under this section, certified by the Registrar, shall be paid by the Finance Minister out of moneys provided by the Parliament for the purpose.
+             (3)  The claim of a person to an allowance or remuneration under this section, certified by the Registrar, shall be paid by the Minister for Finance out of moneys provided by the Parliament for the purpose.
 
 ##### <a id="35"></a>35  Warrants
 
@@ -564,7 +561,7 @@ the Tribunal may substitute for the conviction of the original offence a convict
 
              (1)  Where the Tribunal allows an appeal, it may, if it thinks fit, direct the payment by the Commonwealth to the appellant of such sums as appear to the Tribunal reasonably sufficient to compensate the appellant for expenses properly incurred by him or her in the prosecution of his or her appeal, and any proceedings preliminary or incidental to the appeal, or in carrying on his or her defence against the charge or charges out of which the appeal arose.
 
-             (2)  The Finance Minister shall pay to an appellant, out of moneys provided by the Parliament for the purpose, any sum which the Commonwealth is directed to pay to the appellant under subsection (1).
+             (2)  The Minister for Finance shall pay to an appellant, out of moneys provided by the Parliament for the purpose, any sum which the Commonwealth is directed to pay to the appellant under subsection (1).
 
              (3)  Where the Tribunal dismisses an appeal or an application for leave to appeal, it may, if it thinks fit, order the appellant to pay to the Commonwealth the whole or any part of the costs of the appeal or application, including allowances paid to a witness under section 34 and the costs of copying or transcribing any documents for the use of the Tribunal.
 
@@ -694,19 +691,19 @@ Note:          A defendant bears an evidential burden in relat
 
 with respect to offences against the preceding provisions of this Part whether committed within or outside Australia.
 
-             (2)  The jurisdiction invested in or conferred on courts of summary jurisdiction by the last preceding subsection is invested or conferred within the limits (other than limits having effect by reference to the places at which offences are committed) of their several jurisdictions, whether those limits are as to subject‑matter or otherwise.
+             (2)  The jurisdiction invested in or conferred on courts of summary jurisdiction by the last preceding subsection is invested or conferred within the limits (other than limits having effect by reference to the places at which offences are committed) of their several jurisdictions, whether those limits are as to subject-matter or otherwise.
 
-             (3)  The jurisdiction with which a court of summary jurisdiction of a State is invested by this section is subject to the conditions and restrictions specified in subsection (2) of section 39 of the _Judiciary Act 1903‑1955_.
+             (3)  The jurisdiction with which a court of summary jurisdiction of a State is invested by this section is subject to the conditions and restrictions specified in subsection (2) of section 39 of the _Judiciary Act 1903-1955_.
 
-             (4)  Nothing in this section affects jurisdiction invested in or conferred on courts other than courts of summary jurisdiction by the _Judiciary Act 1903‑1955_ or by or under any other Act.
+             (4)  Nothing in this section affects jurisdiction invested in or conferred on courts other than courts of summary jurisdiction by the _Judiciary Act 1903-1955_ or by or under any other Act.
 
-             (5)  Except as provided by this section, the _Judiciary Act 1903‑1955_ applies in relation to offences with respect to which jurisdiction is invested or conferred by this section.
+             (5)  Except as provided by this section, the _Judiciary Act 1903-1955_ applies in relation to offences with respect to which jurisdiction is invested or conferred by this section.
 
 ##### <a id="50"></a>50  Contempt of the Tribunal
 
              (1)  A person who contravenes or fails to comply with a provision of section 43, 44, 45, 46 or 47 is, in addition to being guilty of an offence, also guilty of a contempt of the Tribunal.
 
-             (2)  Upon application made by the Attorney‑General:
+             (2)  Upon application made by the Attorney-General:
 
                      (a)  in the case of a contempt of the Tribunal committed in a State or an internal Territory—to the Supreme Court of that State or Territory; or
 
@@ -714,9 +711,9 @@ with respect to offences against the preceding provisions of this Part whether c
 
 the contempt is punishable by the court to which the application was made as if it were a contempt of that court.
 
-             (3)  Subject to this section, proceedings in respect of a contempt of the Tribunal shall be instituted, carried on, heard and determined in accordance with the laws applicable to and in relation to the punishment of contempts in the court to which the application by the Attorney‑General was made.
+             (3)  Subject to this section, proceedings in respect of a contempt of the Tribunal shall be instituted, carried on, heard and determined in accordance with the laws applicable to and in relation to the punishment of contempts in the court to which the application by the Attorney-General was made.
 
-             (4)  In so far as any such law is incapable of application, whether by reason of the Constitution or otherwise, a Judge of the court to which the application by the Attorney‑General was made may give a direction as to the manner of instituting, carrying on, hearing or determining a proceeding referred to in the last preceding subsection and, in that case, the proceeding shall be instituted, carried on, heard or determined, as the case may be, in accordance with the direction.
+             (4)  In so far as any such law is incapable of application, whether by reason of the Constitution or otherwise, a Judge of the court to which the application by the Attorney-General was made may give a direction as to the manner of instituting, carrying on, hearing or determining a proceeding referred to in the last preceding subsection and, in that case, the proceeding shall be instituted, carried on, heard or determined, as the case may be, in accordance with the direction.
 
              (6)  The penalty which a court is empowered to impose in respect of a contempt of the Tribunal is the penalty which would have been applicable in respect of the offence constituting the contempt if proceedings in respect of the offence had been taken otherwise than under this section.
 
@@ -742,7 +739,7 @@ the contempt is punishable by the court to which the application was made as if 
 
              (1)  An appellant or Chief of the Defence Force or a service chief may appeal to the Federal Court of Australia on a question of law involved in a decision of the Tribunal in respect of an appeal under this Act, not being a decision given by a single member exercising the powers of the Tribunal.
 
-             (2)  An appeal under subsection (1) shall be instituted not later than the twenty‑eighth day after the day on which a copy of a document setting out the terms of the decision of the Tribunal is furnished to the person or within such further time as the Federal Court of Australia (whether before or after the expiration of that day) allows.
+             (2)  An appeal under subsection (1) shall be instituted not later than the twenty-eighth day after the day on which a copy of a document setting out the terms of the decision of the Tribunal is furnished to the person or within such further time as the Federal Court of Australia (whether before or after the expiration of that day) allows.
 
              (3)  The Federal Court of Australia has jurisdiction to hear and determine matters arising under this section with respect to which appeals are instituted in that Court in accordance with this section and that jurisdiction shall be exercised by that Court constituted as a   Full Court.
 
@@ -780,7 +777,7 @@ the contempt is punishable by the court to which the application was made as if 
 
 ##### <a id="60"></a>60  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
 
                      (a)  for regulating the practice and procedure of the Tribunal; and
 
@@ -824,9 +821,9 @@ I, A.B., do solemnly and sincerely promise and declare that I will be faithful a
 
 The _Defence Force Discipline Appeals Act 1955_ as shown in this compilation comprises Act No. 16, 1955 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by Schedules 2–4 of the _Military Justice (Interim Measures) Act (No. 1) 2009_, _see_ Act No. 91, 2009.
+For application, saving or transitional provisions made by Schedules 2–4 of the _Military Justice (Interim Measures) Act (No. 1) 2009_, _see_ Act No. 91, 2009.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 6 April 2001 is not included in this compilation. For subsequent information _see_ Table A. 
+All other relevant information pertaining to application, saving or transitional provisions prior to 6 April 2001 is not included in this compilation. For subsequent information _see_ Table A. 
 
 ### Table of Acts
 
@@ -862,7 +859,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Courts‑Martial Appeals Act 1955</div>
+    <div>Courts-Martial Appeals Act 1955</div>
   </td>
   <td>
     <div>16, 1955</div>
@@ -915,7 +912,7 @@ p. 1501)</div>
 <tr>
   <td>
     <div>Defence Force 
-Re‑organization Act 1975</div>
+Re-organization Act 1975</div>
   </td>
   <td>
     <div>96, 1975</div>
@@ -1154,7 +1151,7 @@ Remainder: Royal Assent</div>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 255–262) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 255–262) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1182,7 +1179,7 @@ Remainder: Royal Assent</div>
     <div>73, 2008</div>
   </td>
   <td>
-    <div>3 July 2008</div>
+    <div>3 July 2008</div>
   </td>
   <td>
     <div>Schedule 2 (item 5): <i>(h)</i></div>
@@ -1202,12 +1199,12 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (items 21–26): 20 Sept 2008 
-Schedule 7 (items 5–14) and Schedule 8 (items 1, 2, 4, 8): Royal Assent 
-Schedule 7 (item 45): <i>(g)</i></div>
+    <div>Schedule 2 (items 21–26): 20 Sept 2008 
+Schedule 7 (items 5–14) and Schedule 8 (items 1, 2, 4, 8): Royal Assent 
+Schedule 7 (item 45): <i>(g)</i></div>
   </td>
   <td>
-    <div>Sch. 8 (items 1, 2, 4, 8) \[ <i>see</i>Table A]</div>
+    <div>Sch. 8 (items 1, 2, 4, 8) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1218,10 +1215,10 @@ Schedule 7 (item 45): <i>(g)</i></div>
     <div>73, 2008</div>
   </td>
   <td>
-    <div>3 July 2008</div>
+    <div>3 July 2008</div>
   </td>
   <td>
-    <div>Schedule 4 (item 247): 4 July 2008</div>
+    <div>Schedule 4 (item 247): 4 July 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -1229,7 +1226,7 @@ Schedule 7 (item 45): <i>(g)</i></div>
 </tr>
 <tr>
   <td>
-    <div>Military Justice (Interim Measures) Act (No. 1) 2009</div>
+    <div>Military Justice (Interim Measures) Act (No. 1) 2009</div>
   </td>
   <td>
     <div>91, 2009</div>
@@ -1238,42 +1235,24 @@ Schedule 7 (item 45): <i>(g)</i></div>
     <div>22 Sept 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 182–248) and Schedules 2–4: Royal Assent</div>
+    <div>Schedule 1 (items 182–248) and Schedules 2–4: Royal Assent</div>
   </td>
   <td>
-    <div>Schs. 2–4 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 92, 93): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Schs. 2–4 \[ <i>see</i>Note 1]</div>
   </td>
 </tr></table>
 
-_(a)_     The _Defence Force Discipline Appeals Act 1955_ was amended by Part VII (sections
- 111–122) only of the _Defence Force Re‑organization Act 1975_, section 2 of which provides as follows:
+_(a)_     The _Defence Force Discipline Appeals Act 1955_ was amended by Part VII (sections 111–122) only of the _Defence Force Re-organization Act 1975_, section 2 of which provides as follows:
 
                    2.   This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
 
-_(b)_     The _Defence Force Discipline Appeals Act 1955_ was amended by Part IX (sections 24 and 25) only of the _Statute Law Revision Act 1981_, subsection 2(5) of which provides as follows:
+_(b)_    The _Defence Force Discipline Appeals Act 1955_ was amended by Part IX (sections 24 and 25) only of the _Statute Law Revision Act 1981_, subsection 2(5) of which provides as follows:
 
                  (5)   Part IX shall be deemed to have come into operation on 19 October 1979.
 
 _(c)_     The _Defence Force Discipline Appeals Act 1955_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsections 2(1) and (17) of which provide as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
                (17)   The amendment of the heading to Part II of the _Defence Force Discipline Appeals Act 1955_ made by this Act shall come into operation, or be deemed to have come into operation, as the case requires, immediately after the commencement of the _Defence Force (Miscellaneous Provisions) Act 1982_.
 
@@ -1299,7 +1278,7 @@ _(f)_      The _Defence Force Discipline Appeals Act 1955_ was amended
 
          Item 15 commenced on 24 May 2001.
 
-_(g)_ Subsection 2(1) (item 12) of the _Defence Legislation Amendment Act 2008_ provides as follows:
+_(g)_ Subsection 2(1) (item 12) of the _Defence Legislation Amendment Act 2008_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -1381,12 +1360,12 @@ _(g)_ Subsection 2(1) (item 12) of the _Defence Legislation Amendment Act 2008
   </td>
   <td>
     <div>
-      1 October 2007
+      1 October 2007
     </div>
   </td>
 </tr></table>
 
-_(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provides as follows:
+_(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -1437,7 +1416,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
   </td>
   <td>
     <div>
-      1 October 2007
+      1 October 2007
     </div>
   </td>
 </tr></table>
@@ -1470,7 +1449,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>Title</div>
   </td>
   <td>
-    <div>am. No. 153, 1982; No. 159, 2006; No. 91, 2009</div>
+    <div>am. No. 153, 1982; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1502,7 +1481,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 96, 1975; No. 153, 1982; No. 159, 2006; No. 6, 2008; No. 91, 2009; No. 5, 2011</div>
+    <div>am. No. 216, 1973; No. 96, 1975; No. 153, 1982; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1654,7 +1633,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
+    <div>am. No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1678,7 +1657,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>S. 16</div>
   </td>
   <td>
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1686,7 +1665,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 153, 1982; No. 159, 2006; No. 91, 2009</div>
+    <div>am. No. 96, 1975; No. 153, 1982; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1723,10 +1702,10 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
 </tr>
 <tr>
   <td>
-    <div>Heading to Part III</div>
+    <div>Heading to Part III</div>
   </td>
   <td>
-    <div>rs. No. 6, 2008; No. 91, 2009</div>
+    <div>rs. No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1734,7 +1713,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>Div. 1A of Part III</div>
   </td>
   <td>
-    <div>ad. No. 6, 2008</div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1750,7 +1729,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>S. 19A</div>
   </td>
   <td>
-    <div>ad. No. 6, 2008</div>
+    <div>ad. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1798,7 +1777,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div></div>
   </td>
   <td>
-    <div>am. No. 159, 2006; No. 91, 2009</div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1822,7 +1801,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div></div>
   </td>
   <td>
-    <div>am. No. 159, 2006; No. 91, 2009</div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1830,7 +1809,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>S. 22</div>
   </td>
   <td>
-    <div>rs. No. 153, 1982; No. 159, 2006; No. 91, 2009</div>
+    <div>rs. No. 153, 1982; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1862,7 +1841,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div></div>
   </td>
   <td>
-    <div>am. No. 159, 2006; No. 91, 2009</div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1886,7 +1865,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div></div>
   </td>
   <td>
-    <div>am. No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
+    <div>am. No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1902,7 +1881,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div></div>
   </td>
   <td>
-    <div>ad. No. 159, 2006</div>
+    <div>ad. No. 159, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1910,7 +1889,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div></div>
   </td>
   <td>
-    <div>rep. No. 91, 2009</div>
+    <div>rep. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1934,7 +1913,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 153, 1982; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
+    <div>am. No. 153, 1982; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1958,7 +1937,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>S. 34</div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 36, 1978; No. 5, 2011</div>
+    <div>am. No. 96, 1975; No. 36, 1978</div>
   </td>
 </tr>
 <tr>
@@ -1974,7 +1953,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div></div>
   </td>
   <td>
-    <div>am. No. 159, 2006; No. 91, 2009</div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1982,7 +1961,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>Heading to s. 36</div>
   </td>
   <td>
-    <div>am. No. 6, 2008</div>
+    <div>am. No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1990,7 +1969,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div></div>
   </td>
   <td>
-    <div>rs. No. 91, 2009</div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2006,7 +1985,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div></div>
   </td>
   <td>
-    <div>am. No. 159, 2006 (as am. by 73, 2008); No. 6, 2008</div>
+    <div>am. No. 159, 2006 (as am. by 73, 2008); No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2014,7 +1993,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div></div>
   </td>
   <td>
-    <div>rs. No. 91, 2009</div>
+    <div>rs. No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2022,7 +2001,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>S. 37</div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 36, 1978; No. 153, 1982; No. 159, 2006; No. 91, 2009; No. 5, 2011</div>
+    <div>am. No. 96, 1975; No. 36, 1978; No. 153, 1982; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2054,7 +2033,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>Heading to s. 39</div>
   </td>
   <td>
-    <div>am. No. 159, 2006; No. 91, 2009</div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2062,7 +2041,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>S. 39</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 159, 2006; No. 91, 2009</div>
+    <div>am. No. 216, 1973; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2070,7 +2049,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>S. 40</div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 159, 2006; No. 91, 2009</div>
+    <div>am. No. 96, 1975; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2086,7 +2065,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>Heading to s. 42</div>
   </td>
   <td>
-    <div>am. No. 159, 2006; No. 91, 2009</div>
+    <div>am. No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2110,7 +2089,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div></div>
   </td>
   <td>
-    <div>am. No. 1, 1997; No. 159, 2006; No. 91, 2009</div>
+    <div>am. No. 1, 1997; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2134,7 +2113,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 153, 1982; No. 24, 2001; No. 73, 2008</div>
+    <div>am. No. 93, 1966; No. 153, 1982; No. 24, 2001; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2238,7 +2217,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div></div>
   </td>
   <td>
-    <div>am. No. 1, 1997; No. 159, 2006; No. 91, 2009</div>
+    <div>am. No. 1, 1997; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2262,7 +2241,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div></div>
   </td>
   <td>
-    <div>am. No. 1, 1997; No. 159, 2006; No. 91, 2009</div>
+    <div>am. No. 1, 1997; No. 159, 2006; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2350,7 +2329,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
     <div>S. 60</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 216, 1973; No. 96, 1975; No. 153, 1982; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
+    <div>am. No. 93, 1966; No. 216, 1973; No. 96, 1975; No. 153, 1982; No. 159, 2006; No. 6, 2008; No. 91, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2374,7 +2353,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provide
 
 ### Application, saving or transitional provisions
 
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -2402,15 +2381,15 @@ In this Part:
 
 ## 256  Application of amendments
 
-(1)       The amendments made by this Schedule apply in relation to a service offence committed by a person on or after the commencement day.
+(1)        The amendments made by this Schedule apply in relation to a service offence committed by a person on or after the commencement day.
 
-(2)       The amendments made by this Schedule also apply in relation to a service offence committed by a person before the commencement day if, before the commencement day, the person had not been charged with the offence under the old DFDA.
+(2)        The amendments made by this Schedule also apply in relation to a service offence committed by a person before the commencement day if, before the commencement day, the person had not been charged with the offence under the old DFDA.
 
 ## 257  Before commencement day, Director of Military Prosecutions requested trial by court martial or Defence Force magistrate
 
 Trial by court martial
 
-(1)       Subitem (2) applies if, before the commencement day:
+(1)        Subitem (2) applies if, before the commencement day:
 
                      (a)  the Director of Military Prosecutions requested the Registrar of Military Justice to convene a court martial to try a charge of a service offence that was committed by a person before the commencement day; and
 
@@ -2420,7 +2399,7 @@ Trial by court martial
 
                              (ii)  had convened the court martial, but the person had not been asked to plead at the trial.
 
-(2)       If this subitem applies, then:
+(2)        If this subitem applies, then:
 
                      (a)  if a court martial had been convened before the commencement day—on the commencement day, the court martial is taken to have been dissolved; and
 
@@ -2434,7 +2413,7 @@ Trial by court martial
 
 Trial by Defence Force magistrate
 
-(3)       Subitem (4) applies if, before the commencement day:
+(3)        Subitem (4) applies if, before the commencement day:
 
                      (a)  the Director of Military Prosecutions requested the Registrar of Military Justice to refer a charge of a service offence that was committed by a person before the commencement day to a Defence Force magistrate for trial; and
 
@@ -2444,7 +2423,7 @@ Trial by Defence Force magistrate
 
                              (ii)  had referred the charge, but the person had not been asked to plead at the trial.
 
-(4)       If this subitem applies, then:
+(4)        If this subitem applies, then:
 
                      (a)  if the charge had been referred to a Defence Force magistrate before the commencement day—on the commencement day, the reference is taken to have been terminated; and
 
@@ -2458,11 +2437,11 @@ Trial by Defence Force magistrate
 
 Elections for trial by court martial or Defence Force magistrate
 
-(5)       If:
+(5)        If:
 
                      (a)  before the commencement day, a person made an election under subsection 131(1) of the old DFDA to have a charge against him or her tried by a court martial or Defence Force magistrate; and
 
-                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian Military Court for trial;
+                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian   Military Court for trial;
 
 the person may withdraw the election by written notice to the Registrar of the Australian Military Court at any time before a date is fixed for hearing by the Court.
 
@@ -2470,7 +2449,7 @@ the person may withdraw the election by written notice to the Registrar of the A
 
 Trial by court martial
 
-(1)       Subitem (2) applies if, before the commencement day:
+(1)        Subitem (2) applies if, before the commencement day:
 
                      (a)  a court martial convicted a person of a service offence committed before the commencement day, but the court martial had not taken action under Part IV of the old DFDA; and
 
@@ -2482,7 +2461,7 @@ Trial by court martial
 
                              (ii)  had convened a new court martial for the purpose of taking such action, but the new court martial had not begun to hear evidence relevant to determining what action should be taken.
 
-(2)       If this subitem applies, then:
+(2)        If this subitem applies, then:
 
                      (a)  if a new court martial was convened before the commencement day—on the commencement day, the new court martial is taken to have been dissolved; and
 
@@ -2492,7 +2471,7 @@ Trial by court martial
 
 Trial by Defence Force magistrate
 
-(3)       Subitem (4) applies if, before the commencement day:
+(3)        Subitem (4) applies if, before the commencement day:
 
                      (a)  a charge of, or conviction for, a service offence that was committed by a person before the commencement day was referred to a Defence Force magistrate; and
 
@@ -2512,7 +2491,7 @@ Trial by Defence Force magistrate
 
                      (e)  the new Defence Force magistrate or court martial had not begun to hear evidence relevant to determining what action should be taken.
 
-(4)       If this subitem applies, then:
+(4)        If this subitem applies, then:
 
                      (a)  if the conviction was referred to another Defence Force magistrate before the commencement day—on the commencement day, the reference is taken to have been terminated; and
 
@@ -2526,7 +2505,7 @@ Trial by Defence Force magistrate
 
 Punishment imposed by court martial
 
-(1)       Subitem (2) applies if, before the commencement day:
+(1)        Subitem (2) applies if, before the commencement day:
 
                      (a)  the Director of Military Prosecutions requested the Registrar of Military Justice to convene a court martial to take action under Part IV of the old DFDA in relation to a conviction for a service offence that was committed by a person before the commencement day; and
 
@@ -2536,7 +2515,7 @@ Punishment imposed by court martial
 
                              (ii)  had convened the court martial, but the court martial had not begun to hear evidence relevant to determining what action should be taken.
 
-(2)       If this subitem applies, then:
+(2)        If this subitem applies, then:
 
                      (a)  if a court martial had been convened before the commencement day—on the commencement day, the court martial is taken to have been dissolved; and
 
@@ -2550,7 +2529,7 @@ Punishment imposed by court martial
 
 Punishment imposed by Defence Force magistrate
 
-(3)       Subitem (4) applies if, before the commencement day:
+(3)        Subitem (4) applies if, before the commencement day:
 
                      (a)  the Director of Military Prosecutions requested the Registrar of Military Justice to refer a conviction for a service offence that was committed by a person before the commencement day to a Defence Force magistrate to take action under Part IV of the old DFDA; and
 
@@ -2560,7 +2539,7 @@ Punishment imposed by Defence Force magistrate
 
                              (ii)  had referred the conviction, but the Defence Force magistrate had not begun to hear evidence relevant to determining what action should be taken.
 
-(4)       If this subitem applies, then:
+(4)        If this subitem applies, then:
 
                      (a)  if the conviction had been referred to a Defence Force magistrate before the commencement day—on the commencement day, the reference is taken to have been terminated; and
 
@@ -2574,11 +2553,11 @@ Punishment imposed by Defence Force magistrate
 
 Elections to be punished by court martial or Defence Force magistrate
 
-(5)       If:
+(5)        If:
 
                      (a)  before the commencement day, a person made an election under subsection 131(2A) or (3) of the old DFDA to be punished by a court martial or Defence Force magistrate in relation to his or her conviction; and
 
-                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the conviction to the Australian Military Court to take action;
+                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the conviction to the Australian   Military Court to take action;
 
 the person may withdraw the election by written notice to the Registrar of the Australian Military Court at any time before a date is fixed for hearing by the Court.
 
@@ -2586,9 +2565,9 @@ the person may withdraw the election by written notice to the Registrar of the A
 
 Trial by court martial
 
-(1)       Subitem (2) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to convene a court martial to try a charge of a service offence that was committed by a person before the commencement day.
+(1)        Subitem (2) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to convene a court martial to try a charge of a service offence that was committed by a person before the commencement day.
 
-(2)       If this subitem applies, then:
+(2)        If this subitem applies, then:
 
                      (a)  immediately after the request is made, the Director of Military Prosecutions:
 
@@ -2600,9 +2579,9 @@ Trial by court martial
 
 Trial by Defence Force magistrate
 
-(3)       Subitem (2) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to refer a charge of a service offence that was committed by a person before the commencement day to a Defence Force magistrate for trial.
+(3)        Subitem (2) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to refer a charge of a service offence that was committed by a person before the commencement day to a Defence Force magistrate for trial.
 
-(4)       If this item applies, then:
+(4)        If this item applies, then:
 
                      (a)  immediately after the request is made, the Director of Military Prosecutions:
 
@@ -2614,11 +2593,11 @@ Trial by Defence Force magistrate
 
 Elections made for trial by court martial or Defence Force magistrate
 
-(5)       If:
+(5)        If:
 
                      (a)  after the commencement day, a person makes an election under subsection 131(1) of the old DFDA to have a charge against him or her tried by a court martial or Defence Force magistrate; and
 
-                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian Military Court for trial;
+                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian Military   Court for trial;
 
 the person may withdraw the election by written notice to the Registrar of the Australian Military Court at any time before a date is fixed for hearing by the Court.
 
@@ -2626,7 +2605,7 @@ the person may withdraw the election by written notice to the Registrar of the A
 
 Trial by court martial
 
-(1)       Subitem (2) applies if, on or after the commencement day:
+(1)        Subitem (2) applies if, on or after the commencement day:
 
                      (a)  the Registrar of Military Justice dissolves a court martial under section 125 of the old DFDA; and
 
@@ -2636,7 +2615,7 @@ Trial by court martial
 
                              (ii)  before the court martial has taken action under Part IV of the old DFDA in relation to the person.
 
-(2)       If this subitem applies, then:
+(2)        If this subitem applies, then:
 
                      (a)  immediately after the court martial is dissolved, the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the conviction to the Australian Military Court to take action under Part IV of the new DFDA in relation to the person; and
 
@@ -2644,7 +2623,7 @@ Trial by court martial
 
 Trial by Defence Force magistrate
 
-(3)       Subitem (4) applies if, on or after the commencement day:
+(3)        Subitem (4) applies if, on or after the commencement day:
 
                      (a)  the Registrar of Military Justice terminates a reference to a Defence Force magistrate under section 129A of the old DFDA in relation to a charge of, or conviction for, a service offence that was committed by a person before the commencement day; and
 
@@ -2654,7 +2633,7 @@ Trial by Defence Force magistrate
 
                              (ii)  in relation to a conviction—before the Defence Force magistrate has taken action under Part IV of the old DFDA in relation to the person.
 
-(4)       If this subitem applies, then:
+(4)        If this subitem applies, then:
 
                      (a)  immediately after the reference is terminated, the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the conviction to the Australian Military Court to take action under Part IV of the new DFDA in relation to the person; and
 
@@ -2664,9 +2643,9 @@ Trial by Defence Force magistrate
 
 Punishment imposed by court martial
 
-(1)       Subitem (2) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to convene a court martial to take action under Part IV of the old DFDA in relation to a conviction for a service offence that was committed before the commencement day.
+(1)        Subitem (2) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to convene a court martial to take action under Part IV of the old DFDA in relation to a conviction for a service offence that was committed before the commencement day.
 
-(2)       If this subitem applies, then:
+(2)        If this subitem applies, then:
 
                      (a)  immediately after the request is made, the Director of Military Prosecutions:
 
@@ -2678,9 +2657,9 @@ Punishment imposed by court martial
 
 Punishment imposed by Defence Force magistrate
 
-(3)       Subitem (4) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to refer a conviction for a service offence that was committed by a person before the commencement day to a Defence Force magistrate to take action under Part IV of the old DFDA in relation to the person.
+(3)        Subitem (4) applies if, on or after the commencement day, the Director of Military Prosecutions requests the Registrar of Military Justice to refer a conviction for a service offence that was committed by a person before the commencement day to a Defence Force magistrate to take action under Part IV of the old DFDA in relation to the person.
 
-(4)       If this subitem applies, then:
+(4)        If this subitem applies, then:
 
                      (a)  immediately after the request is made, the Director of Military Prosecutions:
 
@@ -2692,11 +2671,11 @@ Punishment imposed by Defence Force magistrate
 
 Elections made for punishment by court martial or Defence Force magistrate
 
-(5)       If:
+(5)        If:
 
                      (a)  after the commencement day, a person makes an election under subsection 131(2A) or (3) of the old DFDA to be punished by a court martial or Defence Force magistrate in relation to his or her conviction; and
 
-                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the conviction to the Australian Military Court to take action;
+                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the conviction to the Australian   Military Court to take action;
 
 the person may withdraw the election by written notice to the Registrar of the Australian Military Court at any time before a date is fixed for hearing by the Court.
 
@@ -2734,9 +2713,9 @@ In this Schedule:
 
 ## 2  Application of main amendments made by this Act
 
-(1)       The main amendments made by this Act apply in relation to a service offence committed by a person on or after the commencement day.
+(1)        The main amendments made by this Act apply in relation to a service offence committed by a person on or after the commencement day.
 
-(2)       The main amendments made by this Act also apply in relation to a service offence committed by a person before the commencement day if, before the commencement day:
+(2)        The main amendments made by this Act also apply in relation to a service offence committed by a person before the commencement day if, before the commencement day:
 
                      (a)  the person had not been charged with the offence under the old DFDA; or
 
@@ -2744,7 +2723,7 @@ In this Schedule:
 
 ## 4  Continued application of old law to proceedings in progress before commencement day
 
-(1)       This item applies if, before the commencement day:
+(1)        This item applies if, before the commencement day:
 
                      (a)  a person had been charged with a service offence under the old DFDA; and
 
@@ -2752,12 +2731,12 @@ In this Schedule:
 
                      (c)  those proceedings (including any appeal to the Defence Force Discipline Appeal Tribunal) had not been finally determined under the old law.
 
-(2)       Despite the main amendments made by this Act, and subject to subitem (3), the old law continues to apply after the commencement day in relation to the proceedings, including any review under Part IX of the old DFDA, as if those amendments had not been made.
+(2)        Despite the main amendments made by this Act, and subject to subitem (3), the old law continues to apply after the commencement day in relation to the proceedings, including any review under Part IX of the old DFDA, as if those amendments had not been made.
 
-(3)       A review of the proceedings must not be commenced under section 155 of the old DFDA after the end of 31 December 2008.
+(3)        A review of the proceedings must not be commenced under section 155 of the old DFDA after the end of 31 December 2008.
 
 ## 8  Regulations may deal with transitional, saving or application matters
 
-The Governor‑General may make regulations dealing with matters of a transitional, saving or application nature relating to amendments and repeals made by this Act.
+The Governor-General may make regulations dealing with matters of a transitional, saving or application nature relating to amendments and repeals made by this Act.
 
  
