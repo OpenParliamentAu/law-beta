@@ -1,17 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2004C00417/Html/AustBurStatAct1975WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01991/Html/ABS75_image001.gif)
 
 # Australian Bureau of Statistics Act 1975
 
 **Act No. 60 of 1975 as amended**
 
-This compilation was prepared on 3 November 2003
- taking into account amendments up to Act No. 106 of 2003
+This compilation was prepared on 6 November 2001
+ taking into account amendments up to Act No. 159 of 2001
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
-
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -26,7 +23,7 @@ Prepared by the Office of Legislative Drafting,
 
 [3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Australian Statistician to have functions etc  of Commonwealth Statistician         1
+[4](#4).            Australian Statistician to have functions etc  of Commonwealth Statistician           1
 
 **Part II—Australian Bureau of Statistics and Australian Statistician**
 
@@ -50,29 +47,29 @@ Prepared by the Office of Legislative Drafting,
 
 [16](#16).          Staff                                                                                                     8
 
-[16A](#16A).       Persons seconded to the Bureau                                                          8
-
 **Part III—Australian Statistics Advisory Council**
 
-[17](#17).          Establishment of Council                                                                   10
+[17](#17).          Establishment of Council                                                                     9
 
-[18](#18).          Functions of Council                                                                         10
+[18](#18).          Functions of Council                                                                           9
 
-[19](#19).          Membership of Council                                                                     10
+[19](#19).          Membership of Council                                                                       9
 
-[20](#20).          Resignation and removal of members                                                11
+[20](#20).          Resignation and removal of members                                                10
 
-[21](#21).          Remuneration of members                                                                 11
+[21](#21).          Remuneration of members                                                                 10
 
-[22](#22).          Meetings                                                                                            11
+[22](#22).          Meetings                                                                                            10
 
 **Part IV—Miscellaneous**
 
-[24](#24).          Annual reports                                                                                   13
+[24](#24).          Annual reports                                                                                   12
 
-[25](#25).          Regulations                                                                                        13
+[25](#25).          Regulations                                                                                        12
 
 **Notes** 
+
+ 
 
 ## An Act to establish an Australian Bureau of Statistics and for related Purposes
 
@@ -234,9 +231,9 @@ Prepared by the Office of Legislative Drafting,
 
              (1)  Subject to subsection (2), the staff required for the purposes of the Bureau shall be persons engaged under, or whose services are made available in accordance with arrangements made under, the _Public Service Act 1999_.
 
-             (2)  Subject to subsection (2A), subsection (1) does not prevent the engaging, in accordance with regulations in force under the _Census and Statistics Act 1905_, of persons (including persons referred to in subsection (1)) to assist in the carrying out of the functions of the Statistician.
+             (2)  Subject to subsection (2A), the Statistician may engage persons, including persons referred to in subsection (1), to assist in carrying out the functions of the Bureau.
 
-          (2A)  Persons referred to in subsection (1) may be engaged as mentioned in subsection (2) only in relation to:
+          (2A)  Persons referred to in subsection (1) may be engaged under subsection (2) only in relation to:
 
                      (a)  the taking of the Census mentioned in the _Census and Statistics Act 1905_; and
 
@@ -249,22 +246,6 @@ Prepared by the Office of Legislative Drafting,
                      (a)  the Statistician and the APS employees assisting the Statistician together constitute a Statutory Agency; and
 
                      (b)  the Statistician is the Head of that Statutory Agency.
-
-##### <a id="16A"></a>16A  Persons seconded to the Bureau
-
-             (1)  The Statistician may arrange with:
-
-                     (a)  a governmental agency or governmental authority; or
-
-                     (b)  an international organisation of an intergovernmental character;
-
-for the services of officers or employees of the agency, authority or organisation to be made available to assist in the carrying out of the functions of the Statistician.
-
-             (2)  Subsection (1) applies to an agency, authority or organisation, whether in Australia or in a foreign country.
-
-             (3)  Subsection (1) has effect in addition to, and not in substitution for, a provision of the _Public Service Act 1999_ that provides for the making of arrangements under which a person performs services in the Bureau.
-
-Note:          Persons whose services are made available in accordance with arrangements made under the _Public Service Act 1999_ are covered by subsection 16(1) of this Act.
 
 ## Part III—Australian Statistics Advisory Council
 
@@ -365,45 +346,45 @@ The _Australian Bureau of Statistics Act 1975_ was modified by the A.C.T. Self-G
 <table>
 <colgroup>
   <col width="30%">
-  <col width="16%">
+  <col width="15%">
+  <col width="0%">
   <col width="17%">
+  <col width="1%">
   <col width="22%">
   <col width="0%">
   <col width="14%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<tr>
+  <td>
+    <div>Act</div>
+  </td>
+  <td colspan="2">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+  </td>
+  <td>
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td colspan="2">
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
+  </td>
+  <td colspan="2">
+    <div>Date of commencement</div>
+  </td>
+  <td colspan="2">
+    <div>Application, saving or transitional provisions</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Australian Bureau of Statistics Act 1975</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>60, 1975</div>
   </td>
   <td>
     <div>19 June 1975</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>3 May 1976 ( <i>see Gazette</i>1976, No. S23)</div>
   </td>
   <td>
@@ -414,15 +395,14 @@ of Assent</div>
   <td>
     <div>Census and Statistics Amendment Act 1977</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>15, 1977</div>
   </td>
   <td>
     <div>28 Feb 1977</div>
   </td>
-  <td colspan="2">
-    <div>28 Feb 1977 
-( <i>see</i>s. 2)</div>
+  <td colspan="3">
+    <div>28 Feb 1977 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>S. 9</div>
@@ -432,13 +412,13 @@ of Assent</div>
   <td>
     <div>Public Service Reform Act 1984</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>63, 1984</div>
   </td>
   <td>
     <div>25 June 1984</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(a)</i></div>
   </td>
   <td>
@@ -449,13 +429,13 @@ of Assent</div>
   <td>
     <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>65, 1985</div>
   </td>
   <td>
     <div>5 June 1985</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>S. 3: 3 July 1985 <i>(b)</i></div>
   </td>
   <td>
@@ -466,13 +446,13 @@ of Assent</div>
   <td>
     <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>141, 1987</div>
   </td>
   <td>
     <div>18 Dec 1987</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>S. 3: Royal Assent <i>(c)</i></div>
   </td>
   <td>
@@ -483,13 +463,13 @@ of Assent</div>
   <td>
     <div>Statute Law Revision Act 1996</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>43, 1996</div>
   </td>
   <td>
     <div>25 Oct 1996</div>
   </td>
-  <td colspan="2">
+  <td colspan="3">
     <div>Schedule 4 (items 18, 19): Royal Assent <i>(d)</i></div>
   </td>
   <td>
@@ -500,14 +480,14 @@ of Assent</div>
   <td>
     <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>146, 1999</div>
   </td>
   <td>
     <div>11 Nov 1999</div>
   </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 113–116): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+  <td colspan="3">
+    <div>Schedule 1 (items 113-116): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -520,34 +500,19 @@ of Assent</div>
   <td>
     <div>159, 2001</div>
   </td>
-  <td>
+  <td colspan="3">
     <div>1 Oct 2001</div>
   </td>
   <td colspan="2">
     <div>29 Oct 2001</div>
   </td>
   <td>
-    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statistics Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>106, 2003</div>
-  </td>
-  <td>
-    <div>21 Oct 2003</div>
-  </td>
-  <td colspan="2">
-    <div>21 Oct 2003</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
+  <td></td>
+  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -574,7 +539,7 @@ _(d)_     The _Australian Bureau of Statistics Act 1975_ was amended by 
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(e)_     The _Australian Bureau of Statistics Act 1975_ was amended by Schedule 1 (items 113–116) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(e)_     The _Australian Bureau of Statistics Act 1975_ was amended by Schedule 1 (items 113-116) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -605,31 +570,7 @@ _(e)_     The _Australian Bureau of Statistics Act 1975_ was amended by 
 </thead>
 <tr>
   <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3, 4</div>
-  </td>
-  <td>
-    <div>am. No. 141, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
+    <div>Ss. 3-5</div>
   </td>
   <td>
     <div>am. No. 141, 1987</div>
@@ -648,7 +589,7 @@ _(e)_     The _Australian Bureau of Statistics Act 1975_ was amended by 
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 141, 1987; No. 159, 2001</div>
+    <div>am. No. 141, 1987; No. 159, 2001</div>
   </td>
 </tr>
 <tr>
@@ -712,23 +653,7 @@ _(e)_     The _Australian Bureau of Statistics Act 1975_ was amended by 
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 63, 1984; No. 141, 1987; No. 146, 1999; No. 106, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16A</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
+    <div>am. No. 63, 1984; No. 141, 1987; No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -765,14 +690,6 @@ _(e)_     The _Australian Bureau of Statistics Act 1975_ was amended by 
 </tr>
 <tr>
   <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 24</div>
   </td>
   <td>
@@ -784,13 +701,15 @@ _(e)_     The _Australian Bureau of Statistics Act 1975_ was amended by 
 
 ### Application, saving or transitional provisions
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)_
 
 ## Schedule 1
 
 ## 97  Application of amendments
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
+
+* * *
 
 ## Table B
 
@@ -803,7 +722,5 @@ _A.C.T. Self-Government (Consequential Provisions) Regulations as amended_
                      (a)  after ‘Chief Minister’ (first occurring) insert ‘of the Australian Capital Territory or’;
 
                      (b)  omit ‘the Northern Territory’ (second occurring), substitute ‘that Territory’.
-
- 
 
  
