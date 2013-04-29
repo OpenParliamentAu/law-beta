@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00013/Html/0cb2e1f1-6ae8-4954-bc92-2074edc34131_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00742/Html/00922025-4bc6-45e6-906c-ef637df40355_files/image001.gif)
 
 # Defence Home Ownership Assistance Scheme Act 2008
 
 **Act No. 27 of 2008 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 13 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -942,7 +942,7 @@ Note:          Special rules may apply for working out the amo
 
 ##### <a id="29"></a>29  When subsidy becomes payable—eligibility and service credits
 
-                   The following conditions must be met:
+                   The following conditions must be met:
 
                      (a)  a subsidy certificate held by the subsidised borrower must be in force;
 
@@ -950,7 +950,7 @@ Note:          Special rules may apply for working out the amo
 
 Note:          Immediately after the first authorisation day for the subsidy, the subsidy certificate stops being in force (see section 22). If subsidy stops being payable (under section 36), the subsidised borrower can only again become entitled to subsidy under this Division if he or she is given a new subsidy certificate.
 
-##### <a id="30"></a>30  When subsidy becomes payable—use of subsidised loan
+##### <a id="30"></a>30  When subsidy becomes payable—use of subsidised loan
 
              (1)  The Secretary must be satisfied that the subsidised loan is used, or is to be used, to do one of the following:
 
@@ -1269,7 +1269,7 @@ Subsidy condition
 
              (2)  The building work must be completed within 2 years after the first authorisation day for the subsidy.
 
-##### <a id="38"></a>38  When subsidy stops being payable—ownership of land
+##### <a id="38"></a>38  When subsidy stops being payable—ownership of land
 
                    The following conditions must continue to be met:
 
@@ -1808,7 +1808,7 @@ Note:          Part 5 provides for the administrative review
 
                    If subsidy is payable to a subsidised borrower in relation to a subsidised loan during an entitlement period, the amount of subsidy (the subsidised borrower’s **_monthly subsidy_**) for each month during the period is worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00013/Html/0cb2e1f1-6ae8-4954-bc92-2074edc34131_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00742/Html/00922025-4bc6-45e6-906c-ef637df40355_files/image002.gif)
 
 Note:          The average monthly interest is worked out under section 50.
 
@@ -1816,13 +1816,13 @@ Note:          The average monthly interest is worked out unde
 
              (1)  **_Average monthly interest_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00013/Html/0cb2e1f1-6ae8-4954-bc92-2074edc34131_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00742/Html/00922025-4bc6-45e6-906c-ef637df40355_files/image003.gif)
 
 Note:          The loan capital is worked out under section 51.
 
              (2)  The **_monthly repayment_**, for the formula in subsection (1), is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00013/Html/0cb2e1f1-6ae8-4954-bc92-2074edc34131_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00742/Html/00922025-4bc6-45e6-906c-ef637df40355_files/image004.gif)
 
 Note 1:       The loan capital is worked out under section 51.
 
@@ -2196,7 +2196,7 @@ Note 2:       If the subsidised borrower and another person (other t
 
              (1)  If a subsidy lump sum is payable to a subsidised borrower in relation to a subsidised loan, the amount of the subsidy lump sum is worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00013/Html/0cb2e1f1-6ae8-4954-bc92-2074edc34131_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00742/Html/00922025-4bc6-45e6-906c-ef637df40355_files/image005.gif)
 
              (2)  The **_notional monthly subsidy_**, for the formula in subsection (1), is the amount of monthly subsidy that would have been payable to the subsidised borrower in relation to the loan under section 49 on the following assumptions:
 
@@ -2979,7 +2979,7 @@ Note:          The authorisation under this subsection is only
 
                      (b)  to make a determination under section 53 (which provides for the median interest rate).
 
-Note:          **_SES employee_** and **_acting SES employee_** are defined in section 2B of the _Acts Interpretation Act 1901_.
+Note:          **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the _Acts Interpretation Act 1901_.
 
              (2)  In exercising powers or functions under a delegation, a delegate under subsection (1) must comply with any directions of the Minister.
 
@@ -2997,7 +2997,7 @@ Secretary may delegate to Defence Force officers or SES etc.
 
                      (d)  an SES employee or acting SES employee in the Department.
 
-Note:       **_SES employee_** and **_acting SES employee_** are defined in section 2B of the _Acts Interpretation Act 1901_.
+Note:       **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the Acts Interpretation Act 1901.
 
 Secretary may delegate to authorised Commonwealth contractor
 
@@ -3031,7 +3031,7 @@ Meaning of senior employee
 
                      (b)  in any case—an employee of the contractor whose skills and responsibilities are equivalent to, or exceed, the skills and responsibilities expected of an SES employee.
 
-Note:          **_SES employee_** and **_acting SES employee_** are defined in section 2B of the _Acts Interpretation Act 1901_.
+Note:          **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the _Acts Interpretation Act 1901_.
 
 ##### <a id="82"></a>82  Alteration of rights
 
@@ -3191,7 +3191,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 520–522) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 520–522) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -3415,26 +3415,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 80(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 81</div>
   </td>
   <td>
-    <div>am. No. 46, 2009; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 81(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
+    <div>am. No. 46, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3445,6 +3429,28 @@ Remainder: Royal Assent</div>
     <div>am. No. 90, 2008</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 520  Subsection 80(1) (note)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+## 521  Subsection 81(1) (note)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+## 522  Subsection 81(6) (note at the end of the definition of _senior employee_)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+As at 13 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3523,6 +3529,8 @@ The amendment made by item 1 of this Schedule applies in relation to:
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
