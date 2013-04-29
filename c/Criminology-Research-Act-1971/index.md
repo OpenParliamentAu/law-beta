@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2004C03233/Html/CriminologyRes71_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03232/Html/CrimRes71_image001.gif)
 
 # Criminology Research Act 1971
 
 **Act No. 15 of 1971 as amended**
 
-Consolidated as in force on 16 December 1999
+Consolidated as in force on 7 April 1999
 
-(includes amendments up to No. 146 of 1999)
+(includes amendments up to No. 152 of 1997)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -17,113 +17,121 @@ Prepared by the Office of Legislative Drafting,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+1             Short title [_see_ Note 1]                                                                        
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+2             Commencement [_see_ Note 1]                                                              
 
-[4](#4).            Interpretation                                                                                       1
+4             Interpretation                                                                                      
 
 **Part II—The Australian Institute of Criminology** 
 
-    **Division 1—Establishment, functions and powers of Institute**
+    **Division 1—Establishment, functions and powers of Institute** 
 
-[5](#5).            Establishment of Institute                                                                   3
+5             Establishment of Institute                                                                   
 
-[6](#6).            Functions of Institute                                                                          3
+6             Functions of Institute                                                                          
 
-[6A](#6A).         Power of Attorney-General to request Institute to perform certain functions         4
+6A          Power of Attorney-General to request Institute to perform certain functions         
 
-[7](#7).            Powers of Institute                                                                              5
+7             Powers of Institute                                                                              
 
-    **Division 2—Board of Management of Institute**
+    **Division 2—Board of Management of Institute** 
 
-[8](#8).            Establishment and functions of Board                                                 6
+8             Establishment and functions of Board                                                
 
-[9](#9).            Constitution of Board                                                                          6
+9             Constitution of Board                                                                         
 
-[10](#10).          Deputies of members of Board                                                            6
+10           Deputies of members of Board                                                           
 
-[11](#11).          Remuneration and allowances                                                              7
+11           Remuneration and allowances                                                             
 
-[12](#12).          Chair of Board                                                                                     7
+12           Chair of Board                                                                                     
 
-[13](#13).          Resignation of members of Board and deputies of members               8
+13           Resignation of members of Board and deputies of members              
 
-[14](#14).          Meetings of Board                                                                               8
+14           Meetings of Board                                                                               
 
-    **Division 3—Director, Acting Director and staff of Institute**
+    **Division 3—Director, Acting Director and staff of Institute** 
 
-[15](#15).          Director of Institute                                                                             9
+15           Director of Institute                                                                            
 
-[16](#16).          Functions of Director                                                                          9
+16           Functions of Director                                                                          
 
-[17](#17).          Tenure of office of Director                                                                 9
+17           Tenure of office of Director                                                                
 
-[18](#18).          Remuneration and allowances of Director                                           9
+18           Remuneration and allowances of Director                                           
 
-[19](#19).          Leave of absence of Director                                                             10
+19           Leave of absence of Director                                                             
 
-[20](#20).          Termination of appointment of Director                                           10
+20           Termination of appointment of Director                                          
 
-[21](#21).          Vacation of office of Director                                                            10
+21           Vacation of office of Director                                                            
 
-[22](#22).          Acting Director                                                                                  10
+22           Acting Director                                                                                  
 
-[23](#23).          Appointment of staff of Institute                                                     11
+23           Appointment of staff of Institute                                                     
 
-    **Division 4—Finances of Institute**
+    **Division 4—Finances of Institute** 
 
-[28](#28).          Moneys payable to Institute, and estimates of expenditure             12
+28           Moneys payable to Institute, and estimates of expenditure             
 
-[29](#29).          Limit on contracts                                                                              12
+29           Limit on contracts                                                                             
 
-[31](#31).          Application of moneys                                                                      12
+31           Application of moneys                                                                     
 
-[32A](#32A).       Trust moneys                                                                                    12
+32A        Trust moneys                                                                                    
 
 **Part III—The Criminology Research Council** 
 
-    **Division 1—Establishment and constitution of Council**
+    **Division 1—Establishment and constitution of Council** 
 
-[34](#34).          Establishment of Council                                                                   14
+34           Establishment of Council                                                                  
 
-[35](#35).          Constitution of Council                                                                     14
+35           Constitution of Council                                                                     
 
-[36](#36).          Deputies of members of Council                                                       15
+36           Deputies of members of Council                                                       
 
-[37](#37).          Chair of Council                                                                                 16
+37           Chair of Council                                                                                
 
-[38](#38).          Resignation of members of Council and deputies of members          16
+38           Resignation of members of Council and deputies of members          
 
-[39](#39).          Meetings of Council                                                                          16
+39           Meetings of Council                                                                          
 
-    **Division 2—Functions and powers of Council**
+    **Division 2—Functions and powers of Council** 
 
-[40](#40).          Functions of Council                                                                         18
+40           Functions of Council                                                                         
 
-[41](#41).          Powers of Council                                                                             18
+41           Powers of Council                                                                             
 
-[43](#43).          Copy of annual report also to be given to State and Northern Territory Ministers and Auditors-General   18
+43           Copy of annual report also to be given to State and Northern Territory Ministers and Auditors-General   
 
-**Part IV—The Criminology Research Fund**
+**Part IV—The Criminology Research Fund** 
 
-[44](#44).          Establishment of Fund                                                                       19
+44           Establishment of Fund                                                                      
 
-[46](#46).          Moneys payable to Fund                                                                  19
+46           Moneys payable to Fund                                                                  
 
-[47](#47).          Application of moneys in Fund                                                        19
+47           Application of moneys in Fund                                                        
 
 **Part V—Miscellaneous**
 
-[50](#50).          Exemption from taxation: Institute, Council and Fund                     21
+50           Exemption from taxation: Institute, Council and Fund                     
 
-[51](#51).          Regulations                                                                                        21
+51           Regulations                                                                                        
 
-**Notes** 
+#  
+
+#  
+
+#  
 
 ## An Act to make provision for and in relation to the Promotion of Research in connexion with Criminology
 
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+
 ## Part I—Preliminary
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1] 
 
@@ -353,7 +361,7 @@ appoint a person, other than a member, to be the deputy of the member.
 
 ##### <a id="19"></a>19  Leave of absence of Director
 
-             (1)  The Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  Subject to section 87E of the _Public Service Act 1922_, the Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
              (2)  The Attorney-General may grant the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
@@ -597,6 +605,8 @@ appoint a person, other than a member, to be the deputy of the member.
 
 ## Part V—Miscellaneous
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="50"></a>50  Exemption from taxation: Institute, Council and Fund
 
                    The transactions of the Institute and of the Council and the income and transactions of the Fund are not subject to taxation under any law of the Commonwealth, of a State or of a Territory.
@@ -607,43 +617,58 @@ appoint a person, other than a member, to be the deputy of the member.
 
  
 
-# Notes to the _Criminology Research Act 1971_
+# NOTE
 
-### Note 1
+1\.   The _Criminology Research Act 1971_  as shown in this consolidation comprises Act No. 15, 1971 amended as indicated in the Tables below.
 
-The _Criminology Research Act 1971_ as shown in this consolidation comprises Act No. 15, 1971 amended as indicated in the Tables below.
+Table of Acts
 
-### Table of Acts
+* * *
 
 <table>
 <colgroup>
   <col width="30%">
   <col width="16%">
-  <col width="17%">
+  <col width="18%">
   <col width="22%">
-  <col width="0%">
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-  </td>
-  <td>
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td colspan="2">
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead></table>
+
+<div style="border:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0cm 0cm 0cm">
+
+</div>
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
 <tr>
   <td>
     <div>Criminology Research Act 1971</div>
@@ -654,7 +679,7 @@ of Assent</div>
   <td>
     <div>6 Apr 1971</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>6 Nov 1972 ( <i>see Gazette</i>1972, No. 108)</div>
   </td>
   <td>
@@ -671,7 +696,7 @@ of Assent</div>
   <td>
     <div>16 Dec 1971</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>16 Dec 1971</div>
   </td>
   <td>
@@ -688,7 +713,7 @@ of Assent</div>
   <td>
     <div>19 Dec 1973</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>31 Dec 1973</div>
   </td>
   <td>
@@ -705,7 +730,7 @@ of Assent</div>
   <td>
     <div>12 June 1978</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>12 June 1978</div>
   </td>
   <td>
@@ -722,7 +747,7 @@ of Assent</div>
   <td>
     <div>5 June 1985</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>S. 3: 3 July 1985 <i>(a)</i></div>
   </td>
   <td>
@@ -739,7 +764,7 @@ of Assent</div>
   <td>
     <div>2 Dec 1986</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>30 Dec 1986</div>
   </td>
   <td>
@@ -756,7 +781,7 @@ of Assent</div>
   <td>
     <div>27 June 1991</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Ss. 4(1), 10(b) and 15-20: 1 Dec 1988 
 Ss. 28(b)-(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
 Remainder: Royal Assent</div>
@@ -775,7 +800,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>25 Oct 1996</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Schedule 4 (items 54, 55): Royal Assent <i>(b)</i></div>
   </td>
   <td>
@@ -792,58 +817,27 @@ Remainder: Royal Assent</div>
   <td>
     <div>24 Oct 1997</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Schedule 2 (items 639-656): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (item 352): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr></table>
 
  
 
 _(a)_     The _Criminology Research Act 1971_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.”.
 
 _(b)_    The _Criminology Research Act 1971_ was amended by Schedule 4 (items 54, 55) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 “(1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.”.
 
 _(c)_     The _Criminology Research Act 1971_ was amended by Schedule 2 (items 639-656) only of the _Audit (Transitional  and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
-
-_(d)_     The _Criminology Research Act 1971_ was amended by Schedule 1 (item 352) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
-
-                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                  (2)   Subject to this section, this Act commences at the commencing time.
+                 “(2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.”.
 
  
 
@@ -1004,14 +998,6 @@ _(d)_     The _Criminology Research Act 1971_ was amended by Schedule 1 
   </td>
   <td>
     <div>rs. No. 122, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
