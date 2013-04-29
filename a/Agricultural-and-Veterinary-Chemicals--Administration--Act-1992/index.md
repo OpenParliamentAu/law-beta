@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00036/Html/0f432d2d-4525-45ef-9c07-febdc5520cdf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00761/Html/AgVetChemAdmin1992_WD02_image001.gif)
 
 # Agricultural and Veterinary Chemicals (Administration) Act 1992
 
 **Act No. 262 of 1992 as amended**
 
-This compilation was prepared on 1 January 2011
+This compilation was prepared on 23 November 2010
  taking into account amendments up to Act No. 121 of 2010
 
 The text of any of those amendments not in force 
@@ -246,7 +246,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [69ER](#69ER).     Copying of documents
 
-[69ES](#69ES).     Evidential certificates
+[69ES](#69ES).      Evidential certificates
 
 [69ET](#69ET).     Forfeiture
 
@@ -266,7 +266,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [69EZA](#69EZA).  Power of APVMA to grant multiple approvals to be subject to section 69EY
 
-[69EZB](#69EZB).   Power of APVMA to use information obtained by it for other purposes not to be affected
+[69EZB](#69EZB).  Power of APVMA to use information obtained by it for other purposes not to be affected
 
 **Part 8—Miscellaneous**
 
@@ -362,7 +362,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="state"></a>**_State_** includes the Northern Territory.
 
-                    <a name="territori"></a>**_Territory_** does not include the Northern Territory.
+                    <a name="territori"></a>**_Territory_** does not include the Northern   Territory.
 
 ##### <a id="5"></a>5  Extension to external Territories
 
@@ -424,7 +424,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (d)  appoint agents and attorneys, and act as agent for other persons; and
 
-                   (da)  make available to the public, either without charge or upon payment of a fee to the APVMA, manuals, reports, lists of requirements and other documents; and
+                    (da)  make available to the public, either without charge or upon payment of a fee to the APVMA, manuals, reports, lists of requirements and other documents; and
 
                      (e)  do anything incidental to any of its powers.
 
@@ -702,9 +702,9 @@ the person must not be paid remuneration or allowances under this Act, but is to
 
                     <a name="parliam-state"></a>**_Parliament of a State_**:
 
-                     (a)  in relation to the Australian Capital Territory—means the Legislative Assembly for the Australian Capital   Territory; or
+                     (a)  in relation to the Australian   Capital Territory—means the Legislative Assembly for the Australian Capital   Territory; or
 
-                     (b)  in relation to the Northern Territory—means the Legislative Assembly of the Northern Territory.
+                     (b)  in relation to the Northern   Territory—means the Legislative Assembly of the Northern Territory.
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
@@ -870,9 +870,9 @@ the person must not be paid remuneration or allowances under this Act, but is to
 
                     <a name="parliam-state"></a>**_Parliament of a State_**:
 
-                     (a)  in relation to the Australian Capital Territory—means the Legislative Assembly for the Australian Capital   Territory; or
+                     (a)  in relation to the Australian   Capital Territory—means the Legislative Assembly for the Australian Capital   Territory; or
 
-                     (b)  in relation to the Northern Territory—means the Legislative Assembly of the Northern Territory.
+                     (b)  in relation to the Northern   Territory—means the Legislative Assembly of the Northern Territory.
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
@@ -886,7 +886,7 @@ the person must not be paid remuneration or allowances under this Act, but is to
 
                    There is to be a Chief Executive Officer of the APVMA.
 
-##### <a id="32"></a>32  Duties
+##### <a id="32"></a>32  Duties
 
              (1)  The Chief Executive Officer is to manage the affairs of the APVMA and in doing so, may exercise any of the powers and perform any of the functions of the APVMA.
 
@@ -2122,7 +2122,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (b)  a registered chemical product; or
 
-                   (ba)  a registered listed chemical product; or
+                    (ba)  a registered listed chemical product; or
 
                      (c)  an active constituent for a proposed or existing chemical product, or a chemical product, in respect of which the APVMA has issued a permit or given an exemption; or
 
@@ -2130,7 +2130,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 in relation to any loss or injury directly or indirectly suffered because of the importation, manufacture, supply or handling of the constituent or product, it is not a defence to that action, suit or other proceeding that the APVMA had approved the constituent, registered the product, granted listed registration to the product, issued a permit or given an exemption in relation to the constituent or the product, or issued a licence in relation to a step in the manufacture of the product.
 
-             (3)  This section does not affect section 148 of Schedule 2 to the _Competition and Consumer Act 2010_, as that section applies as a law of the Commonwealth.
+             (3)  This section does not affect section 75AL of the _Trade Practices Act 1974_.
 
              (4)  Expressions used in this section have the same meanings as in the Code set out in the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_.
 
@@ -2728,7 +2728,7 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (item 152): 1 Jan 2011</div>
+    <div>Schedule 6 (item 152): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2745,7 +2745,7 @@ Remainder: Royal Assent</div>
     <div>17 Nov 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1): \[ <i>see</i>Note 2]</div>
+    <div>Schedule 1 (item 1): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -2758,7 +2758,7 @@ _(a)_     The _Agricultural and Veterinary Chemicals (Administration) Ac
 
          The _Agricultural and Veterinary Chemicals (Consequential Amendments) Act 199_ 4 came into operation on 15 March 1995.
 
-_(b)_     The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by section 12 only of the _Customs, Excise and Bounty Legislation Amendment Act 1995_, subsection 2(5) of which provides as follows:
+_(b)_    The _Agricultural and Veterinary Chemicals (Administration) Act 1992_ was amended by section 12 only of the _Customs, Excise and Bounty Legislation Amendment Act 1995_, subsection 2(5) of which provides as follows:
 
                  (5)   Schedules 2 and 3, items 1, 26 to 45, 49 to 53 and 56 and 67 of Schedule 4, Schedule 6, items 6 to 11 of Schedule 7 and Schedules 8 and 10 commence on 1 July 1995.
 
@@ -4645,7 +4645,7 @@ _(g)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides a
     <div></div>
   </td>
   <td>
-    <div>am. No. 13, 2003; No. 79, 2004; No. 103, 2010</div>
+    <div>am. No. 13, 2003; No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4763,6 +4763,21 @@ _(g)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2008_ provides a
 
 ### Note 2
 
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010 
+ (No. 103, 2010)_
+
+The following amendment commences on the start of 1 January 2011:
+
+## Schedule 6
+
+## 152  Subsection 69H(3)
+
+Omit “section 75AL of the _Trade Practices Act 1974_”, substitute “section 148 of Schedule 2 to the _Competition and Consumer Act 2010_, as that section applies as a law of the Commonwealth”.
+
+As at 23 November 2010 the amendment is not incorporated in this compilation.
+
+### Note 3
+
 _Food Standards Australia New Zealand Amendment Act 2010 
  (No. 121, 2010)_
 
@@ -4776,7 +4791,7 @@ Insert:
 
           (1C)  The APVMA has any functions and powers that are conferred on it by Division 2A of Part 3 of the _Food Standards Australia New Zealand Act 1991_.
 
-As at 1 January 2011 the amendment is not incorporated in this compilation.
+As at 23 November 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -4788,7 +4803,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -4798,7 +4813,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
 ## 419  Transitional—pre-commencement notices
 
@@ -4865,7 +4880,7 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -4873,7 +4888,7 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
@@ -4937,29 +4952,29 @@ In this Schedule:
 
 ## 2  Existing property, money and financial liabilities
 
-(1)       Any real or personal property or any money that is held by the APVMA immediately before the commencement time is taken, at the commencement time, to be held by the APVMA for and on behalf of the Commonwealth.
+(1)        Any real or personal property or any money that is held by the APVMA immediately before the commencement time is taken, at the commencement time, to be held by the APVMA for and on behalf of the Commonwealth.
 
-(2)       Any financial liabilities of the APVMA that exist immediately before the commencement time are taken, at the commencement time, to be liabilities of the Commonwealth.
+(2)        Any financial liabilities of the APVMA that exist immediately before the commencement time are taken, at the commencement time, to be liabilities of the Commonwealth.
 
-(3)       Subitems (1) and (2) have effect subject to items 3 and 4 of this Schedule.
+(3)        Subitems (1) and (2) have effect subject to items 3 and 4 of this Schedule.
 
-(4)       If an amount of money (the **_original amount_**) is covered by subitem (1), an amount equal to the original amount may be paid out of the Consolidated Revenue Fund, which is appropriated accordingly, for the purpose of the performance of the functions of the APVMA.
+(4)        If an amount of money (the **_original amount_**) is covered by subitem (1), an amount equal to the original amount may be paid out of the Consolidated Revenue Fund, which is appropriated accordingly, for the purpose of the performance of the functions of the APVMA.
 
 ## 3  Vesting of assets held on trust by the APVMA
 
-(1)       This item applies to any assets held on trust by the APVMA immediately before the commencement time.
+(1)        This item applies to any assets held on trust by the APVMA immediately before the commencement time.
 
-(2)       At the commencement time, the assets cease to be assets held on trust by the APVMA and become assets held on trust by the Commonwealth, without any conveyance, transfer or assignment. The Commonwealth becomes the APVMA’s successor in law in relation to those assets.
+(2)        At the commencement time, the assets cease to be assets held on trust by the APVMA and become assets held on trust by the Commonwealth, without any conveyance, transfer or assignment. The Commonwealth becomes the APVMA’s successor in law in relation to those assets.
 
 ## 4  Vesting of liabilities relating to assets held on trust
 
-(1)       This item applies to the liabilities of the APVMA relating to assets to which item 3 of this Schedule applies.
+(1)        This item applies to the liabilities of the APVMA relating to assets to which item 3 of this Schedule applies.
 
-(2)       At the commencement time, the liabilities cease to be liabilities of the APVMA relating to the assets and become liabilities of the Commonwealth relating to the assets, without any conveyance, transfer or assignment. The Commonwealth becomes the APVMA’s successor in law in relation to these liabilities.
+(2)        At the commencement time, the liabilities cease to be liabilities of the APVMA relating to the assets and become liabilities of the Commonwealth relating to the assets, without any conveyance, transfer or assignment. The Commonwealth becomes the APVMA’s successor in law in relation to these liabilities.
 
 ## 5  Certificates relating to vesting of land
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  any land vests in the Commonwealth under this Schedule; and
 
@@ -4973,7 +4988,7 @@ In this Schedule:
 
 _Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 19 of this Schedule._
 
-(2)       The land registration official may:
+(2)        The land registration official may:
 
                      (a)  register the matter in a way that is the same as, or similar to, the way in which dealings in land of that kind are registered; and
 
@@ -4981,7 +4996,7 @@ _Note:       Certificates under paragraph (1)(b) are presumed to b
 
 ## 6  Certificates relating to vesting of assets other than land
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  any asset other than land vests in the Commonwealth under this Schedule; and
 
@@ -4995,7 +5010,7 @@ _Note:       Certificates under paragraph (1)(b) are presumed to b
 
 _Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 19 of this Schedule._
 
-(2)       The assets official may:
+(2)        The assets official may:
 
                      (a)  deal with, and give effect to, the certificate as if it were a proper and appropriate instrument for transactions in relation to assets of that kind; and
 
@@ -5011,25 +5026,25 @@ A person who is a director of the APVMA immediately before the commencement time
 
 ## 9  Chief Executive Officer
 
-(1)       The person holding office as the Chief Executive Officer under section 33 of the old law immediately before the commencement time is taken to have been duly appointed as the Chief Executive Officer by the Minister under section 33 of the new law:
+(1)        The person holding office as the Chief Executive Officer under section 33 of the old law immediately before the commencement time is taken to have been duly appointed as the Chief Executive Officer by the Minister under section 33 of the new law:
 
                      (a)  for the balance of the person’s term of appointment that remained immediately before the commencement time; and
 
                      (b)  subject to subitems (2) and (3), on the same terms and conditions as applied to the person immediately before the commencement time.
 
-(2)       Section 36 of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_, as repealed by Schedule 1 to this Act, has effect after the commencement time in relation to the Chief Executive Officer.
+(2)        Section 36 of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_, as repealed by Schedule 1 to this Act, has effect after the commencement time in relation to the Chief Executive Officer.
 
-(3)       Section 41A of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_, as inserted by Schedule 1 to this Act, has effect after the commencement time in relation to the Chief Executive Officer.
+(3)        Section 41A of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_, as inserted by Schedule 1 to this Act, has effect after the commencement time in relation to the Chief Executive Officer.
 
 ## 10  Transfer of staff
 
-(1)       The APVMA’s staffing procedures that were in effect immediately before the commencement time continue to apply after the commencement time in relation to:
+(1)        The APVMA’s staffing procedures that were in effect immediately before the commencement time continue to apply after the commencement time in relation to:
 
                      (a)  processes begun before, but not completed by, the commencement time; and
 
                      (b)  things done by, for or in relation to the APVMA or an employee of the APVMA before the commencement time.
 
-(2)       The regulations may prescribe:
+(2)        The regulations may prescribe:
 
                      (a)  details relating to how the APVMA’s staffing procedures will continue to apply under subitem (1); and
 
@@ -5039,15 +5054,15 @@ A person who is a director of the APVMA immediately before the commencement time
 
                              (ii)  who will be employed under the _Public Service Act 1999_ after the commencement time.
 
-(3)       Subitem (1) and any regulations made under subitem (2) have effect despite the _Public Service Act 1999_.
+(3)        Subitem (1) and any regulations made under subitem (2) have effect despite the _Public Service Act 1999_.
 
 ## 11  Operation of laws—things done by, or in relation to, directors of the APVMA
 
-(1)       If, before the commencement time, a thing was done by, or in relation to, the directors of the APVMA, then, for the purposes of the operation of any law after the commencement time, the thing is taken to have been done by, or in relation to, the Chief Executive Officer.
+(1)        If, before the commencement time, a thing was done by, or in relation to, the directors of the APVMA, then, for the purposes of the operation of any law after the commencement time, the thing is taken to have been done by, or in relation to, the Chief Executive Officer.
 
-(2)       For the purposes of subitem (1), a thing done before the commencement time under a provision amended by Schedule 1 to this Act has effect from that time as if it were done under that provision as amended. However, this is not taken to change the time at which the thing was actually done.
+(2)        For the purposes of subitem (1), a thing done before the commencement time under a provision amended by Schedule 1 to this Act has effect from that time as if it were done under that provision as amended. However, this is not taken to change the time at which the thing was actually done.
 
-(3)       The Minister may, by writing, determine that subitem (1):
+(3)        The Minister may, by writing, determine that subitem (1):
 
                      (a)  does not apply in relation to a specified thing done by, or in relation to, the directors of the APVMA; or
 
@@ -5055,15 +5070,15 @@ A person who is a director of the APVMA immediately before the commencement time
 
 A determination under this subitem has effect accordingly.
 
-(4)       The regulations may provide for a thing specified in a determination under paragraph (3)(a) to be taken to have been done by, or in relation to, a person or body other than the Chief Executive Officer or the Commonwealth.
+(4)        The regulations may provide for a thing specified in a determination under paragraph (3)(a) to be taken to have been done by, or in relation to, a person or body other than the Chief Executive Officer or the Commonwealth.
 
-(5)       To avoid doubt, for the purposes of this item, doing a thing includes making an instrument.
+(5)        To avoid doubt, for the purposes of this item, doing a thing includes making an instrument.
 
-(6)       A determination made under subitem (3) is not a legislative instrument.
+(6)        A determination made under subitem (3) is not a legislative instrument.
 
 ## 12  References in instruments
 
-(1)       If:
+(1)        If:
 
                      (a)  an instrument is in force immediately before the commencement time; and
 
@@ -5071,7 +5086,7 @@ A determination under this subitem has effect accordingly.
 
 the instrument has effect from the commencement time as if the reference to the directors of the APVMA were a reference to the Chief Executive Officer.
 
-(2)       The Minister may, by writing, determine that subitem (1):
+(2)        The Minister may, by writing, determine that subitem (1):
 
                      (a)  does not apply in relation to a specified reference; or
 
@@ -5079,15 +5094,15 @@ the instrument has effect from the commencement time as if the reference to the 
 
 A determination under this subitem has effect accordingly.
 
-(3)       The regulations may provide that an instrument containing a reference specified in a determination under paragraph (2)(a) has effect from the commencement time as if the reference were a reference to a person or body other than the Chief Executive Officer or the Commonwealth.
+(3)        The regulations may provide that an instrument containing a reference specified in a determination under paragraph (2)(a) has effect from the commencement time as if the reference were a reference to a person or body other than the Chief Executive Officer or the Commonwealth.
 
-(4)       A determination made under subitem (2) is not a legislative instrument.
+(4)        A determination made under subitem (2) is not a legislative instrument.
 
 ## 13  Reporting requirements
 
 Reports for periods ending after the commencement time
 
-(1)       If:
+(1)        If:
 
                      (a)  immediately before the commencement time, a law required the APVMA or the directors of the APVMA to provide a report (whether financial statements or otherwise) for a period; and
 
@@ -5095,7 +5110,7 @@ Reports for periods ending after the commencement time
 
 the Chief Executive Officer must provide the report, as required, for so much of the period as occurs before the commencement time.
 
-(2)       If:
+(2)        If:
 
                      (a)  under subitem (1), the Chief Executive Officer is required to provide a report for a part of a period; and
 
@@ -5105,7 +5120,7 @@ the Chief Executive Officer may meet the requirements in a single report for the
 
 Reports for periods ending before the commencement time
 
-(3)       If:
+(3)        If:
 
                      (a)  a law required the APVMA or the directors of the APVMA to provide a report (whether financial statements or otherwise) for a period that ended before the commencement time; and
 
@@ -5115,7 +5130,7 @@ the Chief Executive Officer must provide the report as required.
 
 Application of law to Chief Executive Officer
 
-(4)       To avoid doubt, if under this item the Chief Executive Officer is required to provide a report under a law, the law applies to the Chief Executive Officer in respect of the report in the same way as the law would have applied to the APVMA or the directors of the APVMA in respect of the report.
+(4)        To avoid doubt, if under this item the Chief Executive Officer is required to provide a report under a law, the law applies to the Chief Executive Officer in respect of the report in the same way as the law would have applied to the APVMA or the directors of the APVMA in respect of the report.
 
 ## 14  New annual report requirements to apply from 2007-2008 and later financial years
 
@@ -5139,9 +5154,9 @@ No stamp duty or other tax is payable under a law of a State or Territory in res
 
 ## 18  Constitutional safety net—acquisition of property
 
-(1)       If the operation of this Schedule would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+(1)        If the operation of this Schedule would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
 
-(2)       If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+(2)        If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
 
 ## 19  Certificates taken to be authentic
 
@@ -5155,18 +5170,18 @@ unless the contrary is established.
 
 ## 20  Delegation by Minister
 
-(1)       The Minister may, by writing, delegate all or any of his or her powers and functions under this Schedule to the Chief Executive Officer.
+(1)        The Minister may, by writing, delegate all or any of his or her powers and functions under this Schedule to the Chief Executive Officer.
 
-(2)       In exercising or performing powers or functions under a delegation, the Chief Executive Officer must comply with any directions of the Minister.
+(2)        In exercising or performing powers or functions under a delegation, the Chief Executive Officer must comply with any directions of the Minister.
 
 ## 21  Regulations
 
-(1)       The Governor-General may make regulations prescribing matters:
+(1)        The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Schedule to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
 
-(2)       The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by Schedule 1 to this Act.
+(2)        The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by Schedule 1 to this Act.
 
  
