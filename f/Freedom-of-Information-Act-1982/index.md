@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00231/Html/e1a81235-2c9e-4252-814a-cd0245aeb1ce_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00185/Html/178eedfe-06fe-4a78-9a8a-ce82b4a1f135_files/image001.gif)
 
 # Freedom of Information Act 1982
 
 **Act No. 3 of 1982 as amended**
 
-This compilation was prepared on 15 February 2012
+This compilation was prepared on 31 January 2012
  taking into account amendments up to Act No. 170 of 2011
 
 The text of any of those amendments not in force
@@ -176,8 +176,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [47B](#47B).       Public interest conditional exemptions—Commonwealth‑State relations etc 
 
-[47C](#47C).       Public interest conditional exemptions—deliberative 
- processes
+[47C](#47C).       Public interest conditional exemptions—deliberative processes
 
 [47D](#47D).       Public interest conditional exemptions—financial or property interests of the Commonwealth or Norfolk Island
 
@@ -401,7 +400,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61](#61).          Onus
 
-[61A](#61A).       Modification of the _Administrative Appeals Tribunal Act  1975_
+[61A](#61A).       Modification of the _Administrative Appeals Tribunal Act 1975_
 
 [62](#62).          Application of section 28 of Administrative Appeals Tribunal Act etc 
 
@@ -854,10 +853,6 @@ and includes a Norfolk Island enactment as amended by another Norfolk Island ena
                     <a name="oper-inform"></a>**_operational information_** has the meaning given by section 8A.
 
                     <a name="ordin"></a>**_Ordinance_**, in relation to the Australian Capital Territory, includes a law of a State that applies, or the provisions of a law of a State that apply, in the Territory by virtue of an enactment (other than a law that is, or provisions that are an ACT enactment).
-
-                    <a name="parliamentari-budget-offic"></a>**_Parliamentary Budget Office_** has the same meaning as in the _Parliamentary Service Act 1999_.
-
-                    <a name="parliamentari-budget-offic"></a>**_Parliamentary Budget Officer_** has the same meaning as in the _Parliamentary Service Act 1999_.
 
                     <a name="person-inform"></a>**_personal information_** means information or an opinion (including information forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion.
 
@@ -1469,7 +1464,7 @@ No prejudice from lack of awareness of unpublished information
 
 ## Part III—Access to documents
 
-##### <a id="11"></a>11  Right of access
+##### <a id="11"></a>11  Right of access
 
              (1)  Subject to this Act, every person has a legally enforceable right to obtain access in accordance with this Act to:
 
@@ -6205,16 +6200,6 @@ _Section 7_
   <td>
     <div>Office of National Assessments</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Budget Office</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Budget Officer</div>
-  </td>
 </tr></table>
 
 ### Division 2  
@@ -8279,7 +8264,7 @@ Schedule 1 (items 176–182): <i>(l)</i></div>
     <div>4 Dec 2011</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1–3): 15 Feb 2012 ( <i>see</i>F2012L00277)</div>
+    <div>Schedule 3 (items 1–3): \[ <i>see</i>Note 4]</div>
   </td>
   <td>
     <div>—</div>
@@ -8800,7 +8785,7 @@ _(l)_      Subsection 2(1) (item 7) of the _Territories Law Reform A
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 81, 1983; No. 63, 1984; No. 111, 1986; No. 109, 1988; No. 137, 1991; No. 196, 1992; Nos. 33, 84 and 177, 1994; No. 43, 1996; No. 1, 2000; Nos. 114 and 135, 2003; No. 62, 2004; No. 128, 2005; Nos. 124 and 158, 2007; No. 113, 2008; Nos. 99 and 102, 2009; Nos. 8, 51 and 139, 2010; Nos. 23, 32 and 170, 2011</div>
+    <div>am. No. 81, 1983; No. 63, 1984; No. 111, 1986; No. 109, 1988; No. 137, 1991; No. 196, 1992; Nos. 33, 84 and 177, 1994; No. 43, 1996; No. 1, 2000; Nos. 114 and 135, 2003; No. 62, 2004; No. 128, 2005; Nos. 124 and 158, 2007; No. 113, 2008; Nos. 99 and 102, 2009; Nos. 8, 51 and 139, 2010; Nos. 23 and 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11610,7 +11595,7 @@ Part VIII</div>
     <div>Schedule 2</div>
   </td>
   <td>
-    <div>am. No. 7, 1983; No. 187, 1985; Nos. 102 and 111, 1986; Nos. 6, 121, 126, 127 and 129, 1988; Nos. 66 and 150, 1989; Nos. 26, 75 and 118, 1990; Nos. 99, 137, 149 and 180, 1991; No. 165, 1992; Nos. 64 and 84, 1994; No. 161, 1995; Nos. 67 and 96, 1997; Nos. 7, 146 and 161, 1999; Nos. 108 and 163, 2000; No. 30, 2001; No. 127, 2002; No. 114, 2003; No. 62, 2004; Nos. 45, 111, 118, 128 and 129, 2005; Nos. 50 and 170, 2006; Nos. 27 and 124, 2007; No. 66, 2008; Nos. 8, 51 and 148, 2010; Nos. 23, 32 and 170, 2011</div>
+    <div>am. No. 7, 1983; No. 187, 1985; Nos. 102 and 111, 1986; Nos. 6, 121, 126, 127 and 129, 1988; Nos. 66 and 150, 1989; Nos. 26, 75 and 118, 1990; Nos. 99, 137, 149 and 180, 1991; No. 165, 1992; Nos. 64 and 84, 1994; No. 161, 1995; Nos. 67 and 96, 1997; Nos. 7, 146 and 161, 1999; Nos. 108 and 163, 2000; No. 30, 2001; No. 127, 2002; No. 114, 2003; No. 62, 2004; Nos. 45, 111, 118, 128 and 129, 2005; Nos. 50 and 170, 2006; Nos. 27 and 124, 2007; No. 66, 2008; Nos. 8, 51 and 148, 2010; Nos. 23 and 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11685,6 +11670,48 @@ Section 53B (table item 1)—Schedule 1 (item 210) of the _Territories Law
 After “relations”, insert “etc.”.
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
+
+### Note 4
+
+_Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011 (No. 170, 2011)_
+
+The following amendments commence on 4 June 2012 unless proclaimed earlier:
+
+## Schedule 3
+
+## 1  Subsection 4(1)
+
+Insert:
+
+                    <a name="parliamentari-budget-offic"></a>**_Parliamentary Budget Office_** has the same meaning as in the _Parliamentary Service Act 1999_.
+
+## 2  Subsection 4(1)
+
+Insert:
+
+                    <a name="parliamentari-budget-offic"></a>**_Parliamentary Budget Officer_** has the same meaning as in the _Parliamentary Service Act 1999_.
+
+## 3  At the end of Division 1 of Part I of Schedule 2
+
+Add:
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>Parliamentary Budget Office</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Parliamentary Budget Officer</div>
+  </td>
+</tr></table>
+
+As at 31 January 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
