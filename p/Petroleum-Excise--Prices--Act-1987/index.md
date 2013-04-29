@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00565/Html/PetroleumExcisePrices1987_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00186/Html/PetroleumExcisePrices1987_image001.gif)
 
 # Petroleum Excise (Prices) Act 1987
 
 **Act No. 149 of 1987 as amended**
 
-This compilation was prepared on 27 October 2008
- taking into account amendments up to Act No. 108 of 2008
+This compilation was prepared on 1 July 2008
+ taking into account amendments up to Act No. 74 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -29,12 +29,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [4](#4).            Interpretation
 
 [4A](#4A).         Application of the _Criminal Code_
-
-**Part IA—Determination of prices for condensate**
-
-[5](#5).            Purpose of Part
-
-[5A](#5A).         Additional operation of Act
 
 **Part II—Determination of prices**
 
@@ -60,7 +54,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to establish prices in relation to which Duties of Excise are to be imposed on certain crude petroleum oil and condensate, and for related purposes
+## An Act to establish prices in relation to which Duties of Excise are to be imposed on certain crude petroleum oil, and for related purposes
 
 ## Part I—Preliminary
 
@@ -79,8 +73,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 ##### <a id="4"></a>4  Interpretation
 
              (1)  In this Act, unless the contrary intention appears:
-
-                    <a name="excis-condens"></a>**_excisable condensate_** means condensate in respect of which subitem 21.3 of the Schedule to the _Excise Tariff Act 1921_ applies, or will, upon the entry of the condensate for home consumption, apply.
 
                     <a name="excis-crude-petroleum-oil"></a>**_excisable crude petroleum oil_** means stabilised crude petroleum oil in respect of which subitem 20.5, 20.6 or 20.7 of the Schedule to the _Excise Tariff Act 1921_ applies, or will, upon the entry of the oil for home consumption, apply.
 
@@ -134,17 +126,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="volwar-price"></a>**_VOLWARE price_** means an interim VOLWARE price or a final VOLWARE price.
 
-Effect of regulations
-
           (1A)  Regulations prescribing a production area or production areas as an oil producing region may be expressed to have had effect from 1 January 1988 or from any later day, including a day occurring before the making of the regulations, that is specified in the regulations.
 
           (1B)  Where a production area or production areas are prescribed as an oil producing region with effect from 1 January 1988 or any later day and, after that day, another production area is discovered, the regulations may provide that, with effect from the date of that discovery, the oil producing region is taken to include the production area so discovered.
-
-          (1C)  Despite subsection 12(2) of the _Legislative Instruments Act 2003_, regulations made for the purposes of this Act in relation to condensate may be expressed to take effect from a date before the regulations are registered under the _Legislative Instruments Act 2003_.
-
-          (1D)  Subsection (1C) does not apply to regulations that create, modify or otherwise affect a provision that makes a person liable to an offence or civil penalty.
-
-Transaction price where no sale
 
              (2)  Where an oil producer of a quantity of excisable crude petroleum oil does not sell the oil but enters into a transaction under which another person takes, or is intended to take, possession of the oil (whether or not ownership in the oil passes, or is intended to pass, to another person) the Minister, or a person appointed or engaged under the _Public Service Act 1999_ authorised by the Minister to exercise the Minister’s powers under this subsection, may, by instrument in writing, fix a transaction price in respect of that oil (being a transaction price that he or she considers to be fair and reasonable having regard to the terms of the transaction).
 
@@ -155,44 +139,6 @@ Transaction price where no sale
                    Chapter 2 (except Part 2.5) of the _Criminal Code_ applies to all offences created by this Act.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
-
-## Part IA—Determination of prices for condensate
-
-##### <a id="5"></a>5  Purpose of Part
-
-             (1)  The purpose of this Part is to allow the Minister to establish prices of condensate which are used in imposing duties of excise on condensate.
-
-             (2)  It does so by providing that the Act, in addition to its general operation, operates as if:
-
-                     (a)  references to excisable crude petroleum oil were references to excisable condensate; and
-
-                     (b)  references to stabilised crude petroleum oil, crude petroleum oil and oil were references to condensate.
-
-##### <a id="5A"></a>5A  Additional operation of Act
-
-             (1)  In addition to the operation of this Act apart from this Part, this Act applies as if the modifications set out in subsections (2) and (3) were made.
-
-             (2)  The first modification is that each reference in this Act (other than the definition of **_excisable crude petroleum oil_** in subsection 4(1)) to excisable crude petroleum oil is taken to be a reference to excisable condensate.
-
-             (3)  The second modification is that each reference to:
-
-                     (a)  stabilised crude petroleum oil; or
-
-                     (b)  crude petroleum oil; or
-
-                     (c)  oil;
-
-in this Act (other than the title of this Act) is taken to be a reference to condensate.
-
-             (4)  Nothing in this section affects the operation of references to the following in the regulations, or in the _Excise Act 1901_ or the _Excise Tariff Act 1921_:
-
-                     (a)  excisable crude petroleum oil;
-
-                     (b)  stabilised crude petroleum oil;
-
-                     (c)  crude petroleum oil;
-
-                     (d)  oil.
 
 ## Part II—Determination of prices
 
@@ -242,11 +188,9 @@ then:
 
                      (b)  within a time or times specified by the Minister in that notice.
 
-          (1G)  For the purposes of this section, the free volume of excisable crude petroleum oil that is entered for home consumption before the end of a month is the maximum volume of such oil that, if entered for home consumption before the end of that month would, under section 6B, 6C, 6CA or 6D of the _Excise Tariff Act 1921_, be a volume of oil to which no notional duty was applicable.
+          (1G)  For the purposes of this section, the free volume of excisable crude petroleum oil that is entered for home consumption before the end of a month is the maximum volume of such oil that, if entered for home consumption before the end of that month would, under section 6B, 6C or 6D of the _Excise Tariff Act 1921_, be a volume of oil to which no notional duty was applicable.
 
-Note 1:       Subsection (4) of section 6B, 6C or 6D of the _Excise Tariff Act 1921_ specifies, among other things, the minimum volume of oil to which notional duty becomes applicable. The effect of that subsection is modified by subsection (9) of each of those sections.
-
-Note 2:       Subsection 6CA(5) of the _Excise Tariff Act 1921_ specifies, among other things, the minimum volume of condensate to which notional duty becomes applicable. The effect of that subsection is modified by subsection 6CA(12) of that Act.
+Note:          Subsection (4) of section 6B, 6C or 6D of the _Excise Tariff Act 1921_ specifies, among other things, the minimum volume of oil to which notional duty becomes applicable. The effect of that subsection is modified by subsection (9) of each of those sections.
 
              (2)  The Minister shall, by notice published in the _Gazette_, specify:
 
@@ -625,23 +569,6 @@ Remainder: 24 May 2001</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Excise Legislation Amendment (Condensate) Act 2008</div>
-  </td>
-  <td>
-    <div>108, 2008</div>
-  </td>
-  <td>
-    <div>18 Oct 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 4–10, 13, 14): 18 Oct 2008</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 13, 14) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Petroleum Excise (Prices) Act 1987_ was amended by Schedule 1 (Item 731) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
@@ -675,42 +602,10 @@ _(a)_     The _Petroleum Excise (Prices) Act 1987_ was amended by Schedu
 </thead>
 <tr>
   <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 4(1A)</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 4(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 115, 1988; No. 114, 1990; No. 79, 1997; No. 146, 1999; Nos. 17 and 74, 2006; No. 108, 2008</div>
+    <div>am. No. 115, 1988; No. 114, 1990; No. 79, 1997; No. 146, 1999; Nos. 17 and 74, 2006</div>
   </td>
 </tr>
 <tr>
@@ -719,22 +614,6 @@ _(a)_     The _Petroleum Excise (Prices) Act 1987_ was amended by Schedu
   </td>
   <td>
     <div>ad. No. 140, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part</b> <b>IA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IA</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2008</div>
   </td>
 </tr>
 <tr>
@@ -755,52 +634,10 @@ _(a)_     The _Petroleum Excise (Prices) Act 1987_ was amended by Schedu
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 79, 1997; No. 137, 2000; No. 108, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 6(1G) 
-Renumbered Note 1</div>
-  </td>
-  <td>
-    <div>
-No. 108, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 6(1G)</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2008</div>
+    <div>am. No. 79, 1997; No. 137, 2000</div>
   </td>
 </tr>
 <tr>
@@ -817,14 +654,6 @@ No. 108, 2008</div>
   </td>
   <td>
     <div>am. No. 79, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -895,79 +724,5 @@ _Industry, Science and Resources Legislation Amendment (Application of Criminal 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Excise Legislation Amendment (Condensate) Act 2008 (No. 108, 2008)_
-
-## Schedule 1
-
-## 13  Application
-
-Application of Schedule
-
-(1)        The amendments made by this Schedule apply in relation to condensate produced after midnight (by legal time in the Australian   Capital Territory) on 13 May 2008.
-
-Limited production areas
-
-(2)        Subsections 6(1A) to 6(1G) and 7(3A) of the _Petroleum Excise (Prices) Act 1987_ (as amended by this Act) do not apply in relation to condensate produced during the period:
-
-                     (a)  beginning on the day on which this item commences; and
-
-                     (b)  ending at the end of the third month that begins on or after the day on which this item commences.
-
-Determination of interim VOLWARE prices
-
-(2A)     Subsections 7(2), (3) and (4) of the _Petroleum Excise (Prices) Act 1987_ apply, in relation to a prescribed condensate production area and the pre-commencement period, as if those subsections were replaced with the following:
-
-“           (2)  The Minister, or a person authorised by the Minister to exercise the Minister’s powers under this section, must, not later than 2 months, or such longer period as the Minister allows, after the day on which Schedule 1 to the _Excise Tariff Amendment (Condensate) Act 2008_ commences, determine a price in relation to each month in the pre-commencement period and an oil producing region, to be known as the interim VOLWARE price for that month and that region, being an estimate by the Minister or authorised person, on the basis of the information available to him or her at the time (being information obtained under section 6 or otherwise), of the amount that will finally be determined to be the volume weighted average of realised prices for that month and that region.”
-
-“           (3)  The Minister, or a person authorised by the Minister to exercise the Minister’s powers under this section, must, not later than 6 months after the day on which an interim VOLWARE price is determined for a month in relation to an oil producing region, determine a price in relation to that month and that region, to be known as the final VOLWARE price for that month and that region, being the final determination by the Minister or authorised person of the volume weighted average of realised prices for that month and that region.”
-
-“           (4)  A determination of the final VOLWARE price for a month and an oil producing region must not be made unless:
-
-                     (a)  the Minister or authorised person is satisfied that accurate and complete information concerning all of the transactions relevant to determining the price has become available to the Minister or authorised person; or
-
-                     (b)  5 months and 20 days have passed since the day on which an interim VOLWARE price was determined for that month and information that the Minister or authorised person is satisfied is accurate and complete concerning all of those transactions has not yet become available to the Minister or authorised person.”
-
-Definitions
-
-(3)        In this item:
-
-**_month_** means one of the 12 months of a calendar year.
-
-**_pre-commencement period_** means the period:
-
-                     (a)  beginning at midnight (by legal time in the Australian Capital Territory) on 30 April 2008; and
-
-                     (b)  ending at midnight on the last day of the last month that ends before the day on which Schedule 1 to the _Excise Tariff Amendment (Condensate) Act 2008_ commences.
-
-## 14  Deemed entry for home consumption
-
-(1)        This item applies if:
-
-                     (a)  a person produces condensate after  midnight (by legal time in the Australian Capital Territory) on 13 May 2008; and
-
-                     (b)  the person does not have a manufacturer’s licence (within the meaning of the _Excise Act 1901_) to manufacture condensate; and
-
-                     (c)  the person’s grace period has not ended (see subitem (4)).
-
-(2)        For the purposes of the _Excise Act 1901_ and the _Petroleum Excise (Prices) Act 1987_ (as amended by this Act), the person is taken to have been given a permission under section 61C of the _Excise Act 1901_ to deliver the condensate for home consumption from the prescribed condensate production area from which the condensate is produced.
-
-(3)        The permission is taken to be revoked at the end of the person’s grace period.
-
-(4)        In this item:
-
-**_grace period_**, in relation to a person, means the period:
-
-                     (a)  beginning immediately after midnight (by legal time in the Australian Capital Territory) on 13 May 2008; and
-
-                     (b)  ending at the earlier of the following times:
-
-                              (i)  the time when the CEO grants, or refuses to grant, the person a manufacturer’s licence to manufacture condensate under section 39A of the _Excise Act 1901_;
-
-                             (ii)  the end of the transition period.
-
-**_transition period_** means the period that would be the **_transition period_** within the meaning of subsection 15(3) of the _Excise Act 1901_ if the references to “the first day” in paragraph (a) and subparagraph (b)(iii) of the definition of **_transition period_**, and in subparagraph 15(4)(a)(ii) and paragraph 15(4)(b) of the _Excise Act 1901_, were references to “the day on which Schedule 1 to the _Excise Tariff Amendment (Condensate) Act 2008_ commences”.
 
  
