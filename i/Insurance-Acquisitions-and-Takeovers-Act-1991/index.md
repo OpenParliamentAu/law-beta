@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00340/Html/799CF5B26E5A5CC5CA257000000B241C/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00286/Html/2A47378656EA073BCA256FE300807939/$FILE/image001.gif)
 
 # Insurance Acquisitions and Takeovers Act 1991
 
 **Act No. 6 of 1992 as amended**
 
-This compilation was prepared on 16 May 2005
+This compilation was prepared on 13 April 2005
 taking into account amendments up to Act No. 38 of 2005
 
 The text of any of those amendments not in force
@@ -182,8 +182,6 @@ Attorney-General’s Department, Canberra
 **Schedule—Consequential amendments** 
 
 **Notes** 
-
- 
 
 
 ## An Act relating to the control of Australian-registered insurance companies, and for other purposes
@@ -622,7 +620,7 @@ this section has effect as if the members or policy holders of the company were 
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage calculated using the formula: 
 
-First level percentage ![](http://www.comlaw.gov.au/Details/C2005C00340/Html/799CF5B26E5A5CC5CA257000000B241C/$FILE/image002.gif) Second level percentage
+First level percentage ![](http://www.comlaw.gov.au/Details/C2005C00286/Html/2A47378656EA073BCA256FE300807939/$FILE/image002.gif) Second level percentage
 
 where:
 
@@ -1174,6 +1172,8 @@ request the Minister to reconsider the decision.
 
              (3)  If a request is made under subsection 66(1) in respect of a reviewable decision, section 41 of the _Administrative Appeals Tribunal Act 1975_ applies as if the making of the request were the making of an application to the Administrative Appeals Tribunal for a review of that decision.
 
+             (4)  In giving any direction as to the persons who are to constitute the Administrative Appeals Tribunal for the purposes of a review of a reviewable decision, or for the purposes of a request under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_ in respect of such a decision, the President must ensure that each non-presidential member of the Administrative Appeals Tribunal as so constituted is a person who, in the opinion of the President, has special knowledge or skill in relation to life insurance business or insurance business.
+
              (5)  A non-presidential member of the Administrative Appeals Tribunal must not sit as a member of the Administrative Appeals Tribunal for the purposes of a review of a reviewable decision, or for the purposes of a request under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_ in respect of such a decision, if he or she is a director or employee of a company or body carrying on (whether in Australia or elsewhere) life insurance business or insurance business.
 
              (6)  An order must not be made under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_ in respect of a reviewable decision except by the Administrative Appeals Tribunal.
@@ -1403,7 +1403,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
 _Section 83_
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 1pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
@@ -1411,7 +1411,7 @@ The amendments made by this Schedule are incorporated in the compilations on SCA
 
 _Insurance Act 1973_
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 6, 1992.</div>
+For access to the wording of the amendments made by this Schedule, see the [_Insurance Acquisitions and Takeovers Act 1991_ No. 6, 1992]</div>
 
 
 # Notes to the _Insurance Acquisitions and Takeovers Act 1991_
@@ -1541,7 +1541,7 @@ Remainder: 24 May 2001
 </div>
     </td>
     <td>
-      <div>Sch. 2 (items 418, 419)</div>
+      <div>Sch. 2 (items 418, 419)</div>
     </td>
   </tr>
   <tr>
@@ -1646,7 +1646,7 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)
       <div>1 Apr 2005</div>
     </td>
     <td>
-      <div>Schedule 1 (item 218): 16 May 2005</div>
+      <div>Schedule 1 (item 218): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -1757,6 +1757,8 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
     </td>
   </tr>
 </tbody></table>
+
+ 
 
 
 ## Table of Amendments
@@ -2401,22 +2403,6 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
   </tr>
   <tr>
     <td>
-      <div><b>Part 8</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 67</div>
-    </td>
-    <td>
-      <div>am. No. 38, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div><b>Part 9</b></div>
     </td>
     <td>
@@ -2592,6 +2578,21 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Administrative Appeals Tribunal Amendment Act 2005 (No. 38, 2005)_
+
+The following amendment commences on 1 October 2005 unless proclaimed earlier:
+
+## Schedule 1
+
+## 218  Subsection 67(4)
+
+Repeal the subsection.
+
+As at 13 April 2005 the amendment is not incorporated in this compilation.
 
 
 ## Table A
