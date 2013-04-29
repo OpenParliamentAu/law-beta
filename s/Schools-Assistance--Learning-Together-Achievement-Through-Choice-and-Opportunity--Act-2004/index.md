@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image001.gif)
 
 # Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Act 2004
 
 **Act No. 135 of 2004 as amended**
 
-This compilation was prepared on 5 May 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 January 2009
+ taking into account amendments up to Act No. 142 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -28,7 +28,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4](#4).            Definitions
 
-[5](#5).            Students receiving education at non‑government schools
+[5](#5).            Students receiving education at non-government schools
 
 [6](#6).            Funding level
 
@@ -64,7 +64,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19](#19).          Specific condition—educational accountability
 
-[20](#20).          Specific condition—non‑fulfilment of conditions
+[20](#20).          Specific condition—non-fulfilment of conditions
 
 [21](#21).          Specific condition—overpayment of financial assistance
 
@@ -80,7 +80,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Specific condition—other accountability requirements
 
-[26](#26).          Specific condition—non‑fulfilment of conditions
+[26](#26).          Specific condition—non-fulfilment of conditions
 
 [27](#27).          Specific condition—overpayment of financial assistance
 
@@ -88,13 +88,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [28](#28).          General conditions of grant to State of financial assistance
 
-[29](#29).          Specific condition—non‑fulfilment of conditions
+[29](#29).          Specific condition—non-fulfilment of conditions
 
-    **Division 4—Grants for non‑government bodies** 
+    **Division 4—Grants for non-government bodies** 
 
         **Subdivision A—Requirements for relevant authorities etc.**
 
-[30](#30).          Minister not to authorise payment to a State for a non‑government body in certain circumstances
+[30](#30).          Minister not to authorise payment to a State for a non-government body in certain circumstances
 
 [31](#31).          Provisions that must be included in agreements
 
@@ -112,11 +112,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38](#38).          Specific requirement—failure to comply with other requirements
 
-        **Subdivision B—Conditions of grants to States for non‑government bodies**
+        **Subdivision B—Conditions of grants to States for non-government bodies**
 
 [39](#39).          General conditions of grant to State of financial assistance
 
-[40](#40).          Specific condition—non‑fulfilment of conditions
+[40](#40).          Specific condition—non-fulfilment of conditions
 
     **Division 5—Miscellaneous**
 
@@ -130,15 +130,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [45](#45).          Determinations requiring repayments
 
-**Part 3—Lists of non‑government schools and approved school systems** 
+**Part 3—Lists of non-government schools and approved school systems** 
 
-    **Division 1—Funding of non‑government schools**
+    **Division 1—Funding of non-government schools**
 
-[46](#46).          Funding of non‑government schools
+[46](#46).          Funding of non-government schools
 
-    **Division 2—List of non‑government schools**
+    **Division 2—List of non-government schools**
 
-[47](#47).          List of non‑government schools
+[47](#47).          List of non-government schools
 
     **Division 3—List of approved school systems**
 
@@ -150,17 +150,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [49](#49).          Simplified outline
 
-    **Division 2—Varying lists of non‑government schools and approved school systems**
+    **Division 2—Varying lists of non-government schools and approved school systems**
 
-[50](#50).          Varying list of non‑government schools
+[50](#50).          Varying list of non-government schools
 
 [51](#51).          Varying list of approved school systems
 
     **Division 3—Change of funding level**
 
-[52](#52).          Application to change funding level of non‑government school due to incorrect SES score etc 
+[52](#52).          Application to change funding level of non-government school due to incorrect SES score etc 
 
-[53](#53).          Change of funding level of non‑government school due to incorrect SES score etc 
+[53](#53).          Change of funding level of non-government school due to incorrect SES score etc 
 
     **Division 4—Change of approved authority**
 
@@ -170,17 +170,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [56](#56).          Decision by Minister on application
 
-[57](#57).          Varying list of non‑government schools
+[57](#57).          Varying list of non-government schools
 
     **Division 5—Change in systemic status**
 
-[58](#58).          Proposal for a non‑systemic school to become a member of an approved school system
+[58](#58).          Proposal for a non-systemic school to become a member of an approved school system
 
 [59](#59).          Proposal for a school to cease to be a member of an approved school system
 
     **Division 6—Changes to schools or education provided**
 
-[60](#60).          Application to vary list of non‑government schools
+[60](#60).          Application to vary list of non-government schools
 
 [61](#61).          Decision by Minister on application
 
@@ -208,7 +208,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [69](#69).          Authorising payments of capital grants
 
-**Part 6—Grants for non‑government schools** 
+**Part 6—Grants for non-government schools** 
 
     **Division 1—Simplified outline of Part**
 
@@ -238,7 +238,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision C—Current SES funding**
 
-[78](#78).          Authorising payments for non‑systemic schools
+[78](#78).          Authorising payments for non-systemic schools
 
 [79](#79).          Authorising payments for approved school systems
 
@@ -248,7 +248,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision D—Maintained year 2000 funding**
 
-[82](#82).          Authorising payments for non‑systemic schools
+[82](#82).          Authorising payments for non-systemic schools
 
 [83](#83).          Authorising payments for approved school systems
 
@@ -266,7 +266,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision F—Guaranteed year 2004 SES funding**
 
-[89](#89).          Authorising payments for non‑systemic schools
+[89](#89).          Authorising payments for non-systemic schools
 
 [90](#90).          Authorising payments for approved school systems
 
@@ -276,7 +276,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision G—Special schools and special assistance schools**
 
-[93](#93).          Authorising payments for non‑systemic schools
+[93](#93).          Authorising payments for non-systemic schools
 
 [94](#94).          Authorising payments for approved school systems
 
@@ -302,9 +302,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [99](#99).          Authorisation of payment of capital grants
 
-    **Division 4—Other grants for non‑government rural student hostels**
+    **Division 4—Other grants for non-government rural student hostels**
 
-[100](#100).        Authorisation of payment of other grants for non‑government rural student hostels
+[100](#100).        Authorisation of payment of other grants for non-government rural student hostels
 
     **Division 5—Grants of short term emergency assistance**
 
@@ -320,7 +320,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [104](#104).        Grants for government schools in country areas
 
-[105](#105).        Grants for non‑government schools in country areas
+[105](#105).        Grants for non-government schools in country areas
 
 [106](#106).        Ceiling for grants under this Part
 
@@ -330,7 +330,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [108](#108).        Grants for government schools etc 
 
-[109](#109).        Grants for non‑government schools
+[109](#109).        Grants for non-government schools
 
 [110](#110).        Grants for national projects to foster languages education
 
@@ -342,7 +342,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [113](#113).        Grants for teaching English as a second language in government schools
 
-[114](#114).        Grants for teaching English as a second language in non‑government schools
+[114](#114).        Grants for teaching English as a second language in non-government schools
 
 **Part 10—Literacy, numeracy and special learning needs** 
 
@@ -354,13 +354,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [116](#116).        Grants for government schools and centres
 
-[117](#117).        Grants for non‑government schools
+[117](#117).        Grants for non-government schools
 
-[118](#118).        Grants for both government schools and centres and non‑government schools
+[118](#118).        Grants for both government schools and centres and non-government schools
 
-    **Division 3—Grants for non‑government centres**
+    **Division 3—Grants for non-government centres**
 
-[119](#119).        Grants for non‑government centres
+[119](#119).        Grants for non-government centres
 
     **Division 4—Grants for national projects**
 
@@ -384,9 +384,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [124](#124).        Recurrent grants—general
 
-[126](#126).        Capital grants for government schools and non‑government schools
+[126](#126).        Capital grants for government schools and non-government schools
 
-[127](#127).        Other grants for non‑government rural student hostels
+[127](#127).        Other grants for non-government rural student hostels
 
     **Division 3—Timing of payments etc.**
 
@@ -434,11 +434,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [143](#143).        Levels of education
 
-[144](#144).        Previous list of non‑government schools
+[144](#144).        Previous list of non-government schools
 
 [145](#145).        Previous list of approved school systems
 
-[146](#146).        SES scores and funding levels of existing non‑systemic schools
+[146](#146).        SES scores and funding levels of existing non-systemic schools
 
 [147](#147).        SES scores and funding levels of existing systemic schools
 
@@ -456,7 +456,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 3—Capital grants for government schools** 
 
-**Schedule 4—General recurrent grants for non‑government schools** 
+**Schedule 4—General recurrent grants for non-government schools** 
 
 **Part 1—Current SES funding for primary education** 
 
@@ -466,11 +466,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 4—Year 2000 funding for secondary education** 
 
-**Schedule 5—Capital grants for non‑government schools** 
+**Schedule 5—Capital grants for non-government schools** 
 
-**Schedule 6—Other grants for non‑government rural student hostels** 
+**Schedule 6—Other grants for non-government rural student hostels** 
 
-**Schedule 7—Grants of short term emergency assistance for non‑government schools** 
+**Schedule 7—Grants of short term emergency assistance for non-government schools** 
 
 **Schedule 8—Grants for targeted assistance** 
 
@@ -504,7 +504,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  This section is a simplified outline of this Act.
 
-             (2)  Financial assistance may be paid to the States for both government and non‑government schools in the States for the 2005 to 2008 calendar years for grants for the following:
+             (2)  Financial assistance may be paid to the States for both government and non-government schools in the States for the 2005 to 2008 calendar years for grants for the following:
 
                      (a)  general recurrent expenditure;
 
@@ -516,11 +516,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (4)  Financial assistance to a State for government schools must not be paid unless there is an agreement with the State. The agreement must set out the conditions on financial assistance, including conditions that this Act requires the agreement to include.
 
-             (5)  Financial assistance to a State for a non‑government school or system of schools must not be paid unless:
+             (5)  Financial assistance to a State for a non-government school or system of schools must not be paid unless:
 
                      (a)  there is an agreement with the relevant authority of the school or system that sets out the requirements that this Act requires the agreement to include; and
 
-                     (b)  the list of non‑government schools includes the school, or the schools in the system.
+                     (b)  the list of non-government schools includes the school, or the schools in the system.
 
              (6)  If there is a breach of a condition, the Minister may require an amount to be repaid to the Commonwealth. Alternatively, the Minister may reduce or delay the amount of other payments under this Act.
 
@@ -554,7 +554,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="authorised-person"></a>**_authorised person_** has the meaning given by subsection 18(4).
 
-                    <a name="block-grant-author"></a>**_block grant authority_** means a body corporate that the Minister determines to be a block grant authority for the purposes of Division 3 of Part 6 in connection with non‑government schools or non‑government rural student hostels.
+                    <a name="block-grant-author"></a>**_block grant authority_** means a body corporate that the Minister determines to be a block grant authority for the purposes of Division 3 of Part 6 in connection with non-government schools or non-government rural student hostels.
 
                     <a name="bodi"></a>**_body_** means any organisation or body, whether incorporated or not, or an individual.
 
@@ -562,9 +562,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  investigating the need for:
 
-                              (i)  schools, government rural student hostels or non‑government rural student hostels in particular areas; or
+                              (i)  schools, government rural student hostels or non-government rural student hostels in particular areas; or
 
-                             (ii)  schools, government rural student hostels or non‑government rural student hostels of particular kinds in particular areas; or
+                             (ii)  schools, government rural student hostels or non-government rural student hostels of particular kinds in particular areas; or
 
                             (iii)  buildings, parts of buildings, other facilities or equipment;
 
@@ -598,7 +598,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  who is of school age; and
 
-                             (ii)  who does not attend a government school, a government centre, a non‑government school or a non‑government centre; and
+                             (ii)  who does not attend a government school, a government centre, a non-government school or a non-government centre; and
 
                             (iii)  in respect of whom a disability assessment has been made.
 
@@ -666,11 +666,11 @@ provided by the Government of the State in which the child or student resides.
 
                     <a name="list-approved-school-system"></a>**_list of approved school systems_** means the list of approved school systems kept under section 48.
 
-                    <a name="list-non-govern-school"></a>**_list of non‑government schools_** means the list of non‑government schools kept under section 47.
+                    <a name="list-non-govern-school"></a>**_list of non-government schools_** means the list of non-government schools kept under section 47.
 
                     <a name="locat-propos"></a>**_location proposal_** has the meaning given by subsection 60(2).
 
-                    <a name="moder-access-school-campu"></a>**_moderately accessible school campus_**: a school campus of a non‑government school is a moderately accessible school campus of a non‑government school in a State for a program year if the school campus, on either or both of the following days:
+                    <a name="moder-access-school-campu"></a>**_moderately accessible school campus_**: a school campus of a non-government school is a moderately accessible school campus of a non-government school in a State for a program year if the school campus, on either or both of the following days:
 
                      (a)  the school campus census day for the school campus in the previous program year;
 
@@ -682,41 +682,41 @@ was, or is, in a location that is categorised under the Remoteness Structure as 
 
                     <a name="nomin-author"></a>**_nominated authority_** means a body nominated under section 10.
 
-                    <a name="non-govern-bodi"></a>**_non‑government body_** means a body that is not managed or controlled by or on behalf of the Government of a State and:
+                    <a name="non-govern-bodi"></a>**_non-government body_** means a body that is not managed or controlled by or on behalf of the Government of a State and:
 
-                     (a)  includes an approved school system, a systemic school, a non‑systemic school, a non‑government centre and a non‑government rural student hostel; and
+                     (a)  includes an approved school system, a systemic school, a non-systemic school, a non-government centre and a non-government rural student hostel; and
 
-                     (b)  for the purposes of grants under section 99 or 100 for projects in connection with non‑government rural student hostels—includes a local government body;
+                     (b)  for the purposes of grants under section 99 or 100 for projects in connection with non-government rural student hostels—includes a local government body;
 
 but does not include an approved government school community organisation.
 
-                    <a name="non-govern-centr"></a>**_non‑government centre_** has the meaning given by subsection 119(3).
+                    <a name="non-govern-centr"></a>**_non-government centre_** has the meaning given by subsection 119(3).
 
-                    <a name="non-govern-rural-student-hostel"></a>**_non‑government rural student hostel_** means a hostel:
+                    <a name="non-govern-rural-student-hostel"></a>**_non-government rural student hostel_** means a hostel:
 
                      (a)  that is in a State; and
 
-                     (b)  that is conducted by a non‑government body; and
+                     (b)  that is conducted by a non-government body; and
 
                      (c)  whose primary purpose is to provide accommodation for students from rural areas who are undertaking education at schools in the State (whether or not it also provides accommodation for other students);
 
 but does not include a government rural student hostel or a hostel that is conducted for profit.
 
-                    <a name="non-govern-school"></a>**_non‑government school_** means a school in a State that is not conducted by or on behalf of the Government of a State, but does not include a school conducted for profit.
+                    <a name="non-govern-school"></a>**_non-government school_** means a school in a State that is not conducted by or on behalf of the Government of a State, but does not include a school conducted for profit.
 
-                    <a name="non-systemic-school"></a>**_non‑systemic school_** means a non‑government school that:
+                    <a name="non-systemic-school"></a>**_non-systemic school_** means a non-government school that:
 
                      (a)  is not included in an approved school system; and
 
-                     (b)  is in the list of non‑government schools as not being included in an approved school system.
+                     (b)  is in the list of non-government schools as not being included in an approved school system.
 
-                    <a name="number-primari-distanc-educ-student"></a>**_number of primary distance education students_**, for a non‑government school in a State for a program year, means the number of students (including the full‑time equivalent of part‑time students) receiving primary distance education at the school on the schools census day for the school for the program year.
+                    <a name="number-primari-distanc-educ-student"></a>**_number of primary distance education students_**, for a non-government school in a State for a program year, means the number of students (including the full-time equivalent of part-time students) receiving primary distance education at the school on the schools census day for the school for the program year.
 
-                    <a name="number-primari-student"></a>**_number of primary students_**, for a non‑government school in a State for a program year, means the number of students (including the full‑time equivalent of part‑time students) receiving primary education at the school on the schools census day for the school for the program year, but not including students receiving primary distance education.
+                    <a name="number-primari-student"></a>**_number of primary students_**, for a non-government school in a State for a program year, means the number of students (including the full-time equivalent of part-time students) receiving primary education at the school on the schools census day for the school for the program year, but not including students receiving primary distance education.
 
-                    <a name="number-secondari-distanc-educ-student"></a>**_number of secondary distance education students_**, for a non‑government school in a State for a program year, means the number of students (including the full‑time equivalent of part‑time students) receiving secondary distance education at the school on the schools census day for the school for the program year.
+                    <a name="number-secondari-distanc-educ-student"></a>**_number of secondary distance education students_**, for a non-government school in a State for a program year, means the number of students (including the full-time equivalent of part-time students) receiving secondary distance education at the school on the schools census day for the school for the program year.
 
-                    <a name="number-secondari-student"></a>**_number of secondary students_**, for a non‑government school in a State for a program year, means the number of students (including the full‑time equivalent of part‑time students) receiving secondary education at the school on the schools census day for the school for the program year, but not including students receiving secondary distance education.
+                    <a name="number-secondari-student"></a>**_number of secondary students_**, for a non-government school in a State for a program year, means the number of students (including the full-time equivalent of part-time students) receiving secondary education at the school on the schools census day for the school for the program year, but not including students receiving secondary distance education.
 
                     <a name="oversea-student"></a>**_overseas student_** has the meaning given by subsection 67(2).
 
@@ -736,7 +736,7 @@ Note:          **_APS employee_** is defined in the _Acts Inte
 
                     <a name="recurr-expenditur"></a>**_recurrent expenditure_** means expenditure relating to the ongoing operating costs of schools.
 
-                    <a name="relev-author"></a>**_relevant authority_**, for a non‑government body, means:
+                    <a name="relev-author"></a>**_relevant authority_**, for a non-government body, means:
 
                      (a)  the approved authority or nominated authority for the body; or
 
@@ -746,7 +746,7 @@ Note:          **_APS employee_** is defined in the _Acts Inte
 
                     <a name="remot-structur"></a>**_Remoteness Structure_** means the Remoteness Structure described in the document entitled “Statistical Geography Volume 1 Australian Standard Geographical Classification (ASGC) 2001”, published by the Australian Statistician in September 2001, that was effective 1 July 2001.
 
-                    <a name="remot-school-campu"></a>**_remote school campus_**: a school campus of a non‑government school is a remote school campus of a non‑government school in a State for a program year if the school campus, on either or both of the following days:
+                    <a name="remot-school-campu"></a>**_remote school campus_**: a school campus of a non-government school is a remote school campus of a non-government school in a State for a program year if the school campus, on either or both of the following days:
 
                      (a)  the school campus census day for the school campus in the previous program year;
 
@@ -754,25 +754,25 @@ Note:          **_APS employee_** is defined in the _Acts Inte
 
 was, or is, in a location that is categorised under the Remoteness Structure as Remote Australia.
 
-                    <a name="school"></a>**_school_** includes a proposed school, but does not include a school at which education is provided at a standard (however described) that is pre‑school standard only.
+                    <a name="school"></a>**_school_** includes a proposed school, but does not include a school at which education is provided at a standard (however described) that is pre-school standard only.
 
-                    <a name="school-campu"></a>**_school campus_**: a location is a school campus of a non‑government school if the location is one at which students receive primary education or secondary education at the school.
+                    <a name="school-campu"></a>**_school campus_**: a location is a school campus of a non-government school if the location is one at which students receive primary education or secondary education at the school.
 
                     <a name="school-campu-censu-dai"></a>**_school campus census day_** means:
 
-                     (a)  for a school campus of a non‑government school for a program year—the schools census day for the school for that program year; or
+                     (a)  for a school campus of a non-government school for a program year—the schools census day for the school for that program year; or
 
-                     (b)  for a school campus of a non‑government school for a program year and in relation to which the Minister has, because of special circumstances, declared a particular day in that program year to be the school campus census day for the school campus for that program year—the day so declared.
+                     (b)  for a school campus of a non-government school for a program year and in relation to which the Minister has, because of special circumstances, declared a particular day in that program year to be the school campus census day for the school campus for that program year—the day so declared.
 
                     <a name="school-censu-dai"></a>**_schools census day_**, for a State for a program year, means the day in that year (being a day as close as possible to 1 August in that year) that the State Minister notifies the Minister is the schools census day for the State for that year.
 
                     <a name="school-censu-dai"></a>**_schools census day_** means:
 
-                     (a)  for a non‑systemic school, or an approved school system, in a State for a program year—the schools census day for the State for that program year; or
+                     (a)  for a non-systemic school, or an approved school system, in a State for a program year—the schools census day for the State for that program year; or
 
-                     (b)  for a non‑systemic school, or an approved school system, for a program year and in relation to which the Minister has, because of special circumstances, declared a particular day in that program year to be the schools census day for the school or system for that program year—the day so declared; or
+                     (b)  for a non-systemic school, or an approved school system, for a program year and in relation to which the Minister has, because of special circumstances, declared a particular day in that program year to be the schools census day for the school or system for that program year—the day so declared; or
 
-                     (c)  for a non‑systemic school, or an approved school system, in a State for a program year if:
+                     (c)  for a non-systemic school, or an approved school system, in a State for a program year if:
 
                               (i)  paragraphs (a) and (b) do not apply; and
 
@@ -786,7 +786,7 @@ was, or is, in a location that is categorised under the Remoteness Structure as 
 
                     <a name="se-score"></a>**_SES score_** has the meaning given by section 8.
 
-                    <a name="special-assist-school"></a>**_special assistance school_** means a non‑government school in a State that:
+                    <a name="special-assist-school"></a>**_special assistance school_** means a non-government school in a State that:
 
                      (a)  has been, or is likely to be, recognised by the State Minister as a special assistance school; and
 
@@ -806,21 +806,21 @@ was, or is, in a location that is categorised under the Remoteness Structure as 
 
                     <a name="student-disabl"></a>**_student with disabilities_** means a student:
 
-                     (a)  who attends a government school, a government centre, a non‑government school (whether or not as a distance education student) or a non‑government centre; and
+                     (a)  who attends a government school, a government centre, a non-government school (whether or not as a distance education student) or a non-government centre; and
 
                      (b)  in respect of whom a disability assessment has been made.
 
-                    <a name="systemic-school"></a>**_systemic school_** means a non‑government school that:
+                    <a name="systemic-school"></a>**_systemic school_** means a non-government school that:
 
                      (a)  is included in an approved school system; and
 
-                     (b)  is in the list of non‑government schools as being included in an approved school system.
+                     (b)  is in the list of non-government schools as being included in an approved school system.
 
                     <a name="1992-act"></a>**_the 1992 Act_** means the _States Grants (Primary and Secondary Education Assistance) Act 1992_.
 
                     <a name="1996-act"></a>**_the 1996 Act_** means the _States Grants (Primary and Secondary Education Assistance) Act 1996_.
 
-                    <a name="remot-school-campu"></a>**_very remote school campus_**: a school campus of a non‑government school is a very remote school campus of a non‑government school in a State for a program year if the school campus, on either or both of the following days:
+                    <a name="remot-school-campu"></a>**_very remote school campus_**: a school campus of a non-government school is a very remote school campus of a non-government school in a State for a program year if the school campus, on either or both of the following days:
 
                      (a)  the school campus census day for the school campus in the previous program year;
 
@@ -836,15 +836,15 @@ was, or is, in a location that is categorised under the Remoteness Structure as 
 
                     <a name="year-2004-secondari-amount"></a>**_year 2004 secondary amount_**, for a school, means the amount in column 6 of the table in Part 2 of Schedule 4 to the former Act that was used to determine amounts payable in respect of the school for the 2004 program year.
 
-##### <a id="5"></a>5  Students receiving education at non‑government schools
+##### <a id="5"></a>5  Students receiving education at non-government schools
 
-             (1)  For the purposes of this Act, a student is taken not to be receiving primary education or not to be receiving secondary education (as appropriate) at a non‑government school unless:
+             (1)  For the purposes of this Act, a student is taken not to be receiving primary education or not to be receiving secondary education (as appropriate) at a non-government school unless:
 
-                     (a)  the student attends, on a daily basis, the school at a location specified in the list of non‑government schools in respect of the school; or
+                     (a)  the student attends, on a daily basis, the school at a location specified in the list of non-government schools in respect of the school; or
 
                      (b)  the Minister has determined that the student is to be treated (because of special circumstances) as so attending the school.
 
-             (2)  For the purposes of this Act, a student is taken not to be receiving primary distance education or not to be receiving secondary distance education (as appropriate) at a non‑government school in a State if:
+             (2)  For the purposes of this Act, a student is taken not to be receiving primary distance education or not to be receiving secondary distance education (as appropriate) at a non-government school in a State if:
 
                      (a)  the student does not reside in the State; or
 
@@ -890,19 +890,19 @@ was, or is, in a location that is categorised under the Remoteness Structure as 
 
                      (a)  an approved school system; or
 
-                     (b)  a non‑systemic school; or
+                     (b)  a non-systemic school; or
 
-                     (c)  a non‑government school; or
+                     (c)  a non-government school; or
 
-                     (d)  a non‑government rural student hostel; or
+                     (d)  a non-government rural student hostel; or
 
-                     (e)  another non‑government body;
+                     (e)  another non-government body;
 
 for the purposes of the provision of this Act in which the expression appears.
 
 ##### <a id="10"></a>10  Nominated authority
 
-                   A group of non‑government schools may make a written nomination to the Secretary of the Department of a body to be the **_nominated authority_** of the group for the purposes of this Act or of a particular provision or particular provisions of this Act.
+                   A group of non-government schools may make a written nomination to the Secretary of the Department of a body to be the **_nominated authority_** of the group for the purposes of this Act or of a particular provision or particular provisions of this Act.
 
 ##### <a id="11"></a>11  Approved government school community organisation
 
@@ -938,13 +938,13 @@ Approved government school community organisations—section 69
 
              (7)  If there is a breach of a condition, the Minister may require an amount to be repaid to the Commonwealth. Alternatively, the Minister may reduce or delay the amount of other payments under section 69.
 
-Non‑government schools
+Non-government schools
 
-             (8)  Financial assistance to a State for a non‑government school or system must not be paid unless there is an agreement between the Commonwealth and the relevant authority of the school or system that sets out the requirements mentioned in Division 4\. The agreement may also set out other requirements.
+             (8)  Financial assistance to a State for a non-government school or system must not be paid unless there is an agreement between the Commonwealth and the relevant authority of the school or system that sets out the requirements mentioned in Division 4\. The agreement may also set out other requirements.
 
-             (9)  If there is a breach of a requirement, the Minister may require an amount to be repaid to the Commonwealth. Alternatively, the Minister may reduce or delay the amount of other payments for the non‑government school under this Act.
+             (9)  If there is a breach of a requirement, the Minister may require an amount to be repaid to the Commonwealth. Alternatively, the Minister may reduce or delay the amount of other payments for the non-government school under this Act.
 
-           (10)  The grant to a State of financial assistance for a non‑government school for a program year is subject to conditions.
+           (10)  The grant to a State of financial assistance for a non-government school for a program year is subject to conditions.
 
 ### Division 2—Grants for government schools
 
@@ -1020,7 +1020,7 @@ Note:          This kind of financial assistance is covered by
 
                              (ii)  relative to the performance of the child’s peer group at the school; and
 
-                     (d)  are confidential and deal with the child’s academic and non‑academic learning; and
+                     (d)  are confidential and deal with the child’s academic and non-academic learning; and
 
                      (e)  are followed by an opportunity for the child and the parents, guardians or other persons who have care and control of the child to meet with the child’s teachers to discuss all aspects of the report and for the school to give constructive advice about supporting the child’s further progress at school; and
 
@@ -1064,7 +1064,7 @@ Note:          The purposes that may be set out in the conditi
 
                     <a name="authorised-person"></a>**_authorised person_**, for a State, means:
 
-                     (a)  the Auditor‑General of the State; or
+                     (a)  the Auditor-General of the State; or
 
                      (b)  another person acting with the authority of the State Minister of the State.
 
@@ -1108,7 +1108,7 @@ Note:          The purposes that may be set out in the conditi
 
              (4)  A further condition is that the State will implement, before 1 January 2008, in accordance with the regulations, the common testing standards, including common national tests, specified in the regulations, in English, mathematics, science, civics and citizenship education, and information and communications technology.
 
-##### <a id="20"></a>20  Specific condition—non‑fulfilment of conditions
+##### <a id="20"></a>20  Specific condition—non-fulfilment of conditions
 
              (1)  A further condition is that if the State does not fulfil a condition mentioned in section 16, within the period stated in the agreement or does not fulfil a condition mentioned in section 18 or 19 by the date specified in the section or the date determined by the Minister for the purposes of the section:
 
@@ -1186,7 +1186,7 @@ Note:          The grant is also subject to the conditions set
 
                      (b)  participate in evaluating the outcomes of programs of financial assistance provided under this Act.
 
-##### <a id="26"></a>26  Specific condition—non‑fulfilment of conditions
+##### <a id="26"></a>26  Specific condition—non-fulfilment of conditions
 
              (1)  A further condition is that if the approved government school community organisation does not fulfil a condition mentioned in section 23, 24 or 25 by the time required by or under the condition:
 
@@ -1220,7 +1220,7 @@ Note:          A determination mentioned in paragraph (b) is
 
                      (b)  the condition in section 29.
 
-##### <a id="29"></a>29  Specific condition—non‑fulfilment of conditions
+##### <a id="29"></a>29  Specific condition—non-fulfilment of conditions
 
              (1)  The grant to a State under section 69 of financial assistance for an approved government school community organisation for a program year is subject to the condition that, if the State does not fulfil the condition mentioned in paragraph 28(a) in relation to the grant at the time stated in that paragraph or within such further period as the Minister allows:
 
@@ -1230,15 +1230,15 @@ Note:          A determination mentioned in paragraph (b) is
 
              (2)  The amount stated in the determination under paragraph (1)(a) must not be more than the sum of the amounts of financial assistance paid to the State under section 69 for the organisation for the program year concerned.
 
-### Division 4—Grants for non‑government bodies
+### Division 4—Grants for non-government bodies
 
 #### Subdivision A—Requirements for relevant authorities etc.
 
-##### <a id="30"></a>30  Minister not to authorise payment to a State for a non‑government body in certain circumstances
+##### <a id="30"></a>30  Minister not to authorise payment to a State for a non-government body in certain circumstances
 
-             (1)  The Minister must not authorise a payment to a State under this Act for a non‑government body unless the relevant authority of the non‑government body has made an agreement with the Commonwealth that:
+             (1)  The Minister must not authorise a payment to a State under this Act for a non-government body unless the relevant authority of the non-government body has made an agreement with the Commonwealth that:
 
-                     (a)  complies with all the requirements of section 31, if the agreement is with the relevant authority for a non‑government school or for an approved school system; or
+                     (a)  complies with all the requirements of section 31, if the agreement is with the relevant authority for a non-government school or for an approved school system; or
 
                      (b)  in any other case—includes the matters required by sections 34, 35, 37 and 38.
 
@@ -1248,13 +1248,13 @@ Note 2:       An agreement may also include other provisions (see se
 
              (2)  The agreement mentioned in subsection (1) may have been made before the commencement of this Act.
 
-             (3)  The Minister may refuse to authorise a payment to a State under this Act for a non‑government school, or for a non‑government school for a particular level of education, during any period when the State Minister does not recognise:
+             (3)  The Minister may refuse to authorise a payment to a State under this Act for a non-government school, or for a non-government school for a particular level of education, during any period when the State Minister does not recognise:
 
                      (a)  the school; or
 
                      (b)  the school for that level of education.
 
-             (4)  The Minister may refuse to authorise, or may delay, a payment to a State under this Act for a non‑government body if the relevant authority of the non‑government body is a body corporate:
+             (4)  The Minister may refuse to authorise, or may delay, a payment to a State under this Act for a non-government body if the relevant authority of the non-government body is a body corporate:
 
                      (a)  that is being wound up; or
 
@@ -1262,9 +1262,9 @@ Note 2:       An agreement may also include other provisions (see se
 
                      (c)  whose affairs are under the control of a manager.
 
-             (5)  The Minister may refuse to authorise, or may delay, a payment to a State under this Act for a non‑government body if:
+             (5)  The Minister may refuse to authorise, or may delay, a payment to a State under this Act for a non-government body if:
 
-                     (a)  the relevant authority of the non‑government body is not a body corporate; and
+                     (a)  the relevant authority of the non-government body is not a body corporate; and
 
                      (b)  the Minister considers that:
 
@@ -1274,7 +1274,7 @@ Note 2:       An agreement may also include other provisions (see se
 
 ##### <a id="31"></a>31  Provisions that must be included in agreements
 
-                   A section 30 agreement with the relevant authority for a non‑government school, or approved school system, must include the following:
+                   A section 30 agreement with the relevant authority for a non-government school, or approved school system, must include the following:
 
                      (a)  a commitment by the relevant authority to the National Goals for Schooling prepared by the Ministerial Council on Education, Employment, Training and Youth Affairs;
 
@@ -1332,7 +1332,7 @@ Note 2:       An agreement may also include other provisions (see se
 
 ##### <a id="32"></a>32  Further commitment—student reports
 
-                   For the purposes of paragraph 31(1)(p), a section 30 agreement must include a commitment by the relevant authority for a non‑government school, or approved school system, to ensure that the school, or each school in the approved school system, gives the parents, guardians or other persons who have care and control of each child attending the school student reports, relating to the child, that:
+                   For the purposes of paragraph 31(1)(p), a section 30 agreement must include a commitment by the relevant authority for a non-government school, or approved school system, to ensure that the school, or each school in the approved school system, gives the parents, guardians or other persons who have care and control of each child attending the school student reports, relating to the child, that:
 
                      (a)  use plain language and are able to be readily understood by the parents, guardians or other persons who have care and control of the child; and
 
@@ -1344,7 +1344,7 @@ Note 2:       An agreement may also include other provisions (see se
 
                              (ii)  relative to the performance of the child’s peer group at the school; and
 
-                     (d)  are confidential and deal with the child’s academic and non‑academic learning; and
+                     (d)  are confidential and deal with the child’s academic and non-academic learning; and
 
                      (e)  are followed by an opportunity for the child and the parents, guardians or other persons who have care and control of the child to meet with the child’s teachers to discuss all aspects of the report and for the school to give constructive advice about supporting the child’s further progress at school; and
 
@@ -1356,7 +1356,7 @@ Note 2:       An agreement may also include other provisions (see se
 
 ##### <a id="34"></a>34  General requirements
 
-             (1)  A section 30 agreement must require amounts received by the relevant authority from the State, as a result of the payment to the State for the non‑government body, to be spent for purposes determined by the Minister and set out in the agreement (which may include the purpose of paying administrative expenses incurred by the authority).
+             (1)  A section 30 agreement must require amounts received by the relevant authority from the State, as a result of the payment to the State for the non-government body, to be spent for purposes determined by the Minister and set out in the agreement (which may include the purpose of paying administrative expenses incurred by the authority).
 
 Note:          The purposes that may be determined by the Minister and set out in the agreement are those in Parts 5 to 10.
 
@@ -1376,7 +1376,7 @@ Note:          The purposes that may be determined by the Mini
 
 ##### <a id="36"></a>36  Specific requirement—educational accountability
 
-             (1)  A section 30 agreement must require the relevant authority for a non‑government school, or approved school system, to do each of the following:
+             (1)  A section 30 agreement must require the relevant authority for a non-government school, or approved school system, to do each of the following:
 
                      (a)  participate in preparing a national report on the outcomes of schooling;
 
@@ -1392,7 +1392,7 @@ Note:          The purposes that may be determined by the Mini
 
                      (b)  in any other case—a date or dates that will allow publication of the report mentioned in paragraph (1)(a) to happen within one year after the end of each program year.
 
-             (3)  A section 30 agreement must require the relevant authority for a non‑government school, or approved school system, to do each of the following not later than a date or dates determined by the Minister for the purposes of each paragraph:
+             (3)  A section 30 agreement must require the relevant authority for a non-government school, or approved school system, to do each of the following not later than a date or dates determined by the Minister for the purposes of each paragraph:
 
                      (a)  give the Minister a report or reports, of a kind or kinds required by the Minister, in relation to programs of financial assistance provided under this Act so far as they relate to the authority;
 
@@ -1420,45 +1420,45 @@ Note:          The purposes that may be determined by the Mini
 
                      (a)  the relevant authority will, if the Minister so determines, pay to the Commonwealth an amount (not more than the sum of the amounts mentioned in subsection 34(1)) stated in the determination; and
 
-                     (b)  if the relevant authority does not do so, the Minister may make a determination reducing any other amount or amounts of financial assistance for the State under this Act for the non‑government body by an amount or amounts totalling not more than the amount stated in the determination under paragraph (a); and
+                     (b)  if the relevant authority does not do so, the Minister may make a determination reducing any other amount or amounts of financial assistance for the State under this Act for the non-government body by an amount or amounts totalling not more than the amount stated in the determination under paragraph (a); and
 
-                     (c)  the Minister may delay the making of any further payment to the State under this Act for the non‑government body until the relevant authority complies with the requirement.
+                     (c)  the Minister may delay the making of any further payment to the State under this Act for the non-government body until the relevant authority complies with the requirement.
 
 Note:          A determination mentioned in paragraph (b) is made under section 44.
 
 ##### <a id="38"></a>38  Specific requirement—failure to comply with other requirements
 
-                   A section 30 agreement must contain a provision that, if the sum of the amounts mentioned in subsection 34(1) exceeds the total amount that was properly authorised to be paid to the State for the non‑government body:
+                   A section 30 agreement must contain a provision that, if the sum of the amounts mentioned in subsection 34(1) exceeds the total amount that was properly authorised to be paid to the State for the non-government body:
 
                      (a)  the relevant authority will, if the Minister so determines, pay to the Commonwealth an amount equal to the excess; and
 
-                     (b)  if the authority does not do so, the Minister may make a determination reducing any other amount or amounts of financial assistance for the State under this Act for the non‑government body by an amount or amounts not more than the excess.
+                     (b)  if the authority does not do so, the Minister may make a determination reducing any other amount or amounts of financial assistance for the State under this Act for the non-government body by an amount or amounts not more than the excess.
 
 Note:          A determination mentioned in paragraph (b) is made under section 44.
 
-#### Subdivision B—Conditions of grants to States for non‑government bodies
+#### Subdivision B—Conditions of grants to States for non-government bodies
 
 ##### <a id="39"></a>39  General conditions of grant to State of financial assistance
 
-                   The grant to a State because of a provision of this Act of financial assistance for a non‑government body for a program year is subject to the following conditions:
+                   The grant to a State because of a provision of this Act of financial assistance for a non-government body for a program year is subject to the following conditions:
 
                      (a)  a condition that the State will:
 
-                              (i)  as soon as practicable, pay to the relevant authority of the non‑government body each amount paid to the State for the body because of the provision; and
+                              (i)  as soon as practicable, pay to the relevant authority of the non-government body each amount paid to the State for the body because of the provision; and
 
                              (ii)  when making such a payment, describe the amount paid to the relevant authority as a payment made out of money paid to the State by the Commonwealth because of the provision;
 
                      (b)  the condition in section 40.
 
-##### <a id="40"></a>40  Specific condition—non‑fulfilment of conditions
+##### <a id="40"></a>40  Specific condition—non-fulfilment of conditions
 
-             (1)  The grant to a State because of a provision of this Act of financial assistance for a non‑government body for a program year is subject to the condition that, if the State does not fulfil the condition mentioned in paragraph 39(a) in relation to the grant at the time stated in that paragraph or within such further period as the Minister allows:
+             (1)  The grant to a State because of a provision of this Act of financial assistance for a non-government body for a program year is subject to the condition that, if the State does not fulfil the condition mentioned in paragraph 39(a) in relation to the grant at the time stated in that paragraph or within such further period as the Minister allows:
 
                      (a)  the State will, if the Minister so determines, repay to the Commonwealth the amount stated in the determination; and
 
-                     (b)  the Minister may delay making any future payment to the State under this Act for government schools if the State fails to comply with the condition mentioned in paragraph 39(a) because it delays paying an amount to the relevant authority of the non‑government body.
+                     (b)  the Minister may delay making any future payment to the State under this Act for government schools if the State fails to comply with the condition mentioned in paragraph 39(a) because it delays paying an amount to the relevant authority of the non-government body.
 
-             (2)  The amount stated in the determination under paragraph (1)(a) must not be more than the sum of the amounts of financial assistance paid to the State under the provision for the non‑government body for the program year concerned.
+             (2)  The amount stated in the determination under paragraph (1)(a) must not be more than the sum of the amounts of financial assistance paid to the State under the provision for the non-government body for the program year concerned.
 
 ### Division 5—Miscellaneous
 
@@ -1502,11 +1502,11 @@ Note:          A determination mentioned in paragraph (b) is
 
              (1)  This section applies if:
 
-                     (a)  under a provision of an agreement made as mentioned in Division 4 (or a provision of the former Act that corresponds to that Division) between the Commonwealth and the relevant authority of a non‑government body, the Minister or the relevant Minister (as appropriate) has determined that the authority is to pay an amount to the Commonwealth; and
+                     (a)  under a provision of an agreement made as mentioned in Division 4 (or a provision of the former Act that corresponds to that Division) between the Commonwealth and the relevant authority of a non-government body, the Minister or the relevant Minister (as appropriate) has determined that the authority is to pay an amount to the Commonwealth; and
 
                      (b)  an amount (the **_amount repayable_**) that is all or a part of the amount mentioned in paragraph (a) remains unpaid.
 
-             (2)  The Minister may make a determination reducing an amount that is authorised to be paid to a State for the non‑government body under any provision of this Act in any program year by an amount not more than the amount repayable.
+             (2)  The Minister may make a determination reducing an amount that is authorised to be paid to a State for the non-government body under any provision of this Act in any program year by an amount not more than the amount repayable.
 
              (3)  The Minister may make a determination under a provision of this Act increasing the maximum amount that may be paid to the States for any purpose under that provision in any program year by an amount or amounts totalling not more than the amount of any reduction under subsection (2).
 
@@ -1520,23 +1520,23 @@ Note:          A determination mentioned in paragraph (b) is
 
                      (b)  a determination under subsection 24(2) or paragraph 26(1)(a) or 27(a) that an approved government school community organisation is to pay an amount to the Commonwealth; or
 
-                     (c)  a determination under a provision of an agreement mentioned in paragraph 37(a) or 38(a) that the relevant authority of a non‑government body is to pay an amount to the Commonwealth;
+                     (c)  a determination under a provision of an agreement mentioned in paragraph 37(a) or 38(a) that the relevant authority of a non-government body is to pay an amount to the Commonwealth;
 
 the Minister must take into account all relevant matters, including whether the State, approved government school community organisation or relevant authority gave all relevant information to the Commonwealth before the grant of financial assistance was made.
 
-## Part 3—Lists of non‑government schools and approved school systems
+## Part 3—Lists of non-government schools and approved school systems
 
-### Division 1—Funding of non‑government schools
+### Division 1—Funding of non-government schools
 
-##### <a id="46"></a>46  Funding of non‑government schools
+##### <a id="46"></a>46  Funding of non-government schools
 
-                   Financial assistance under this Act is not to be provided to a State for education at a particular level at a particular location at a non‑government school unless the school is included in the list of non‑government schools for the level and location.
+                   Financial assistance under this Act is not to be provided to a State for education at a particular level at a particular location at a non-government school unless the school is included in the list of non-government schools for the level and location.
 
-### Division 2—List of non‑government schools
+### Division 2—List of non-government schools
 
-##### <a id="47"></a>47  List of non‑government schools
+##### <a id="47"></a>47  List of non-government schools
 
-             (1)  The Minister must keep a list of non‑government schools for which financial assistance may be provided under this Act.
+             (1)  The Minister must keep a list of non-government schools for which financial assistance may be provided under this Act.
 
              (2)  The list may be kept in any manner that the Minister determines, which may be wholly or partly by means of a computer or any other electronic or other device.
 
@@ -1562,7 +1562,7 @@ the Minister must take into account all relevant matters, including whether the 
 
                      (h)  whether or not the school is a special school;
 
-                   (ha)  whether or not the school is a special assistance school;
+                    (ha)  whether or not the school is a special assistance school;
 
                       (i)  the funding level of the school;
 
@@ -1604,7 +1604,7 @@ If Subdivision F of Division 2 of Part 6 is used to work out the funding for
 
              (1)  This section is a simplified outline of this Part.
 
-             (2)  The list of non‑government schools and the list of approved school systems may be varied only for a reason specified in this Act. The reasons include the following:
+             (2)  The list of non-government schools and the list of approved school systems may be varied only for a reason specified in this Act. The reasons include the following:
 
                      (a)  to change SES scores:
 
@@ -1630,15 +1630,15 @@ If Subdivision F of Division 2 of Part 6 is used to work out the funding for
 
              (3)  A variation is to be made by determination by the Minister.
 
-### Division 2—Varying lists of non‑government schools and approved school systems
+### Division 2—Varying lists of non-government schools and approved school systems
 
-##### <a id="50"></a>50  Varying list of non‑government schools
+##### <a id="50"></a>50  Varying list of non-government schools
 
-             (1)  Any variation of the list of non‑government schools is to be made by determination by the Minister.
+             (1)  Any variation of the list of non-government schools is to be made by determination by the Minister.
 
 Note 1:       Section 65 requires the Minister to give notice of the determination to the approved authority.
 
-Note 2:       For the circumstances in which a variation of the list of non‑government schools may be made, see subsections (2), (3), (4), (4A), (5), (5A), (6) and (7) and sections 53, 57, 58, 59, 61, 64 and 132.
+Note 2:       For the circumstances in which a variation of the list of non-government schools may be made, see subsections (2), (3), (4), (4A), (5), (5A), (6) and (7) and sections 53, 57, 58, 59, 61, 64 and 132.
 
              (2)  If a school, in a State, that is included in the list ceases to be recognised by the State for a particular level of education, the Minister may vary the list to remove the reference to that level of education for the school.
 
@@ -1718,9 +1718,9 @@ Note:          Section 65 requires the Minister to give noti
 
 ### Division 3—Change of funding level
 
-##### <a id="52"></a>52  Application to change funding level of non‑government school due to incorrect SES score etc.
+##### <a id="52"></a>52  Application to change funding level of non-government school due to incorrect SES score etc.
 
-             (1)  The approved authority of a school that is included in the list of non‑government schools with an SES score may apply to the Minister to vary the list to change the SES score if the approved authority considers that the SES score:
+             (1)  The approved authority of a school that is included in the list of non-government schools with an SES score may apply to the Minister to vary the list to change the SES score if the approved authority considers that the SES score:
 
                      (a)  has not been determined correctly; or
 
@@ -1738,7 +1738,7 @@ Note:          Section 65 requires the Minister to give noti
 
                      (d)  set out the reasons why the approved authority considers the SES score should be changed.
 
-##### <a id="53"></a>53  Change of funding level of non‑government school due to incorrect SES score etc.
+##### <a id="53"></a>53  Change of funding level of non-government school due to incorrect SES score etc.
 
              (1)  If the Minister is satisfied that the school’s SES score (the **_old SES score_**):
 
@@ -1760,7 +1760,7 @@ the Minister must:
 
                     (ga)  determine a different current SES funding level for the school if, immediately before the Minister determined the new SES score, Subdivision G of Division 2 of Part 6 applied to the school; and
 
-                     (h)  make appropriate variations to the list of non‑government schools.
+                     (h)  make appropriate variations to the list of non-government schools.
 
              (2)  A determination under paragraph (1)(g) is taken to apply in relation to:
 
@@ -1780,7 +1780,7 @@ Note:          Section 65 requires the Minister to give noti
 
              (1)  This Division applies in relation to:
 
-                     (a)  a proposal for a new body to be approved as the approved authority of a non‑systemic school; or
+                     (a)  a proposal for a new body to be approved as the approved authority of a non-systemic school; or
 
                      (b)  a proposal for a new body to be approved as the approved authority of an approved school system.
 
@@ -1788,7 +1788,7 @@ Note:          Section 65 requires the Minister to give noti
 
 ##### <a id="55"></a>55  How to obtain Ministerial approval of proposal
 
-             (1)  The approved authority (the **_existing authority_**) of a non‑systemic school or of an approved school system may apply in writing to the Minister for approval of a proposal.
+             (1)  The approved authority (the **_existing authority_**) of a non-systemic school or of an approved school system may apply in writing to the Minister for approval of a proposal.
 
              (2)  The application must:
 
@@ -1808,29 +1808,29 @@ Note:          Section 65 requires the Minister to give noti
 
              (2)  The Minister must not approve the proposal unless:
 
-                     (a)  the new body is recognised by the State Minister under the law of the State in which the non‑systemic school or the schools in the approved school system are situated (if that law requires the new body to be recognised); and
+                     (a)  the new body is recognised by the State Minister under the law of the State in which the non-systemic school or the schools in the approved school system are situated (if that law requires the new body to be recognised); and
 
                      (b)  the school, or the schools in the system, are not conducted for profit; and
 
-                     (c)  if the application relates to a non‑systemic school—the new body is a body corporate; and
+                     (c)  if the application relates to a non-systemic school—the new body is a body corporate; and
 
                      (d)  the agreement made by the new body with the Commonwealth as mentioned in subsection 30(1) provides that the new body agrees to fulfil the obligations (if any) of the existing authority under this Act or the former Act that have not been fulfilled in respect of the school or of the schools in the system.
 
-##### <a id="57"></a>57  Varying list of non‑government schools
+##### <a id="57"></a>57  Varying list of non-government schools
 
                    If the Minister approves the proposal, the Minister must:
 
-                     (a)  determine that the new body is the approved authority of the non‑systemic school or of the approved school system (as appropriate); and
+                     (a)  determine that the new body is the approved authority of the non-systemic school or of the approved school system (as appropriate); and
 
-                     (b)  make the appropriate variations to the list of non‑government schools.
+                     (b)  make the appropriate variations to the list of non-government schools.
 
 Note:          Section 65 requires the Minister to give notice of the determination to the approved authority.
 
 ### Division 5—Change in systemic status
 
-##### <a id="58"></a>58  Proposal for a non‑systemic school to become a member of an approved school system
+##### <a id="58"></a>58  Proposal for a non-systemic school to become a member of an approved school system
 
-             (1)  The approved authority of a non‑systemic school may apply in writing to the Minister for approval of a proposal for the school to become a member of an approved school system.
+             (1)  The approved authority of a non-systemic school may apply in writing to the Minister for approval of a proposal for the school to become a member of an approved school system.
 
              (2)  The application must:
 
@@ -1856,7 +1856,7 @@ Note:          Section 65 requires the Minister to give noti
 
                      (b)  the agreement has been varied to provide that the approved authority of the approved school system has agreed to fulfil the obligations (if any) of the approved authority of the school under this Act or the former Act that have not been fulfilled.
 
-             (5)  If the Minister approves the proposal, the Minister must make the appropriate variations to the list of non‑government schools.
+             (5)  If the Minister approves the proposal, the Minister must make the appropriate variations to the list of non-government schools.
 
 Note:          Section 65 requires the Minister to give notice of the determination to the approved authority.
 
@@ -1902,7 +1902,7 @@ Note:          Section 65 requires the Minister to give noti
 
              (5)  If the Minister approves the proposal, the Minister must:
 
-                     (a)  make the appropriate variations to the list of non‑government schools; and
+                     (a)  make the appropriate variations to the list of non-government schools; and
 
                      (b)  determine that the responsible body is the approved authority of the school.
 
@@ -1910,15 +1910,15 @@ Note:          Section 65 requires the Minister to give noti
 
 ### Division 6—Changes to schools or education provided
 
-##### <a id="60"></a>60  Application to vary list of non‑government schools
+##### <a id="60"></a>60  Application to vary list of non-government schools
 
 Location proposal
 
-             (1)  The approved authority of a school may apply to the Minister to have the list of non‑government schools varied to take account of a location proposal.
+             (1)  The approved authority of a school may apply to the Minister to have the list of non-government schools varied to take account of a location proposal.
 
              (2)  In this Act:
 
-                    <a name="locat-propos"></a>**_location proposal_** means a proposal to vary the list of non‑government schools to take account of a change as a result of which a systemic school or a non‑systemic school will provide:
+                    <a name="locat-propos"></a>**_location proposal_** means a proposal to vary the list of non-government schools to take account of a change as a result of which a systemic school or a non-systemic school will provide:
 
                      (a)  a new level of education at a location for which the school is already included in the list for the provision of another level of education; or
 
@@ -1928,7 +1928,7 @@ Location proposal
 
 New school proposal
 
-             (3)  An application to the Minister to have the list of non‑government schools varied to take account of a new school proposal in respect of a school may be made by:
+             (3)  An application to the Minister to have the list of non-government schools varied to take account of a new school proposal in respect of a school may be made by:
 
                      (a)  if the school is to be included in an approved school system—the approved authority of the system; or
 
@@ -1936,11 +1936,11 @@ New school proposal
 
              (4)  In this Act:
 
-                    <a name="new-school-propos"></a>**_new school proposal_** means a proposal to include in the list of non‑government schools:
+                    <a name="new-school-propos"></a>**_new school proposal_** means a proposal to include in the list of non-government schools:
 
-                     (a)  a school formed as a result of the amalgamation of a systemic or non‑systemic school with another school, whether or not the other school is included in the list; or
+                     (a)  a school formed as a result of the amalgamation of a systemic or non-systemic school with another school, whether or not the other school is included in the list; or
 
-                     (b)  a school formed as a result of the separation of a systemic school or a non‑systemic school into 2 or more schools; or
+                     (b)  a school formed as a result of the separation of a systemic school or a non-systemic school into 2 or more schools; or
 
                      (c)  a new school; or
 
@@ -1972,7 +1972,7 @@ Application to vary list
 
              (1)  The Minister may:
 
-                     (a)  make a determination varying the list of non‑government schools to take account of the proposal; or
+                     (a)  make a determination varying the list of non-government schools to take account of the proposal; or
 
                      (b)  refuse the application.
 
@@ -1986,7 +1986,7 @@ Note:          Section 65 requires the Minister to give noti
 
 ##### <a id="62"></a>62  Prerequisites for variation of list
 
-             (1)  The Minister must not make a determination varying the list of non‑government schools to take account of the proposal unless the applicable requirements of this section have been satisfied.
+             (1)  The Minister must not make a determination varying the list of non-government schools to take account of the proposal unless the applicable requirements of this section have been satisfied.
 
              (2)  The requirements for a location proposal are:
 
@@ -2012,13 +2012,13 @@ Note:          Section 65 requires the Minister to give noti
 
 ##### <a id="63"></a>63  Application relating to previous program year
 
-                   The Minister must not vary the list of non‑government schools with effect from a date in the program year preceding the program year in which the application is made unless the Minister is satisfied that there are exceptional circumstances that justify the variation taking effect in that preceding program year.
+                   The Minister must not vary the list of non-government schools with effect from a date in the program year preceding the program year in which the application is made unless the Minister is satisfied that there are exceptional circumstances that justify the variation taking effect in that preceding program year.
 
 ### Division 7—Miscellaneous
 
 ##### <a id="64"></a>64  Variation to include funding level in certain circumstances
 
-             (1)  If the Minister varies the list of non‑government schools under this Part in relation to a school in any of the circumstances set out in subsection (2), the Minister must:
+             (1)  If the Minister varies the list of non-government schools under this Part in relation to a school in any of the circumstances set out in subsection (2), the Minister must:
 
                      (a)  determine the school’s SES score if the school is neither a special school nor a special assistance school; and
 
@@ -2032,9 +2032,9 @@ Note:          Section 65 requires the Minister to give noti
 
              (2)  The circumstances are the inclusion in the list of:
 
-                     (a)  a school formed as a result of the amalgamation of a non‑systemic school or a systemic school with another school, whether or not the other school is included in the list; or
+                     (a)  a school formed as a result of the amalgamation of a non-systemic school or a systemic school with another school, whether or not the other school is included in the list; or
 
-                     (b)  a school formed as a result of the separation of a non‑systemic school or a systemic school into 2 or more schools; or
+                     (b)  a school formed as a result of the separation of a non-systemic school or a systemic school into 2 or more schools; or
 
                      (c)  a new school; or
 
@@ -2076,13 +2076,13 @@ but does not include a person, or a person included in a class of persons, deter
 
                    The Minister may make a determination authorising payment of financial assistance to a State for recurrent expenditure of government schools in the State for a program year of an amount that is not more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image002.gif)
 
 where:
 
-                    <a name="number-govern-school-primari-student"></a>**_number of government school primary students_** means the number of students (including the full‑time equivalent of part‑time students) receiving primary education at government schools in the State on the schools census day for the State for the program year.
+                    <a name="number-govern-school-primari-student"></a>**_number of government school primary students_** means the number of students (including the full-time equivalent of part-time students) receiving primary education at government schools in the State on the schools census day for the State for the program year.
 
-                    <a name="number-govern-school-secondari-student"></a>**_number of government school secondary students_** means the number of students (including the full‑time equivalent of part‑time students) receiving secondary education at government schools in the State on the schools census day for the State for the program year.
+                    <a name="number-govern-school-secondari-student"></a>**_number of government school secondary students_** means the number of students (including the full-time equivalent of part-time students) receiving secondary education at government schools in the State on the schools census day for the State for the program year.
 
                     <a name="primari-educ-amount"></a>**_primary education amount_** means the amount for primary education in column 3, 4, 5 or 6 of the table in Schedule 2 for the program year.
 
@@ -2102,7 +2102,7 @@ Note:          The operation of sections 121, 122 and 123 
 
              (2)  Without limiting subsection (1), financial assistance for capital expenditure for a program year in connection with a government school in a State may be provided by paying the assistance to the State for the approved government school community organisation for the school.
 
-## Part 6—Grants for non‑government schools
+## Part 6—Grants for non-government schools
 
 ### Division 1—Simplified outline of Part
 
@@ -2112,13 +2112,13 @@ Note:          The operation of sections 121, 122 and 123 
 
              (2)  This Part allows the Minister to make determinations authorising the payment of financial assistance to the States for:
 
-                     (a)  recurrent expenditure of non‑government schools; and
+                     (a)  recurrent expenditure of non-government schools; and
 
-                     (b)  capital expenditure of non‑government schools; and
+                     (b)  capital expenditure of non-government schools; and
 
-                     (c)  capital and other expenditure of non‑government rural student hostels; and
+                     (c)  capital and other expenditure of non-government rural student hostels; and
 
-                     (d)  short term emergency assistance for non‑government schools; and
+                     (d)  short term emergency assistance for non-government schools; and
 
                      (e)  establishment assistance.
 
@@ -2132,7 +2132,7 @@ Note:          The operation of sections 121, 122 and 123 
 
              (1)  This section is a simplified outline of this Division.
 
-             (2)  Funding for general recurrent expenditure of non‑government schools is worked out on a school by school basis (whether the school is in an approved school system or not).
+             (2)  Funding for general recurrent expenditure of non-government schools is worked out on a school by school basis (whether the school is in an approved school system or not).
 
              (3)  Schools that will receive current SES funding are dealt with under Subdivision C.
 
@@ -2152,7 +2152,7 @@ Note:          The operation of sections 121, 122 and 123 
 
 ##### <a id="72"></a>72  Application of Division
 
-                   This Division is applied to work out the funding for the general recurrent expenditure of non‑government schools.
+                   This Division is applied to work out the funding for the general recurrent expenditure of non-government schools.
 
 ##### <a id="73"></a>73  Application of Subdivision C—current SES funding
 
@@ -2192,11 +2192,11 @@ School provides both primary and secondary education
 
              (4)  This subsection applies to a school if the school provides both primary and secondary education and the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image003.gif)
 
 exceeds the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image004.gif)
 
 where:
 
@@ -2345,13 +2345,13 @@ Note:          Assistance under Subdivision I is in addition t
 
 #### Subdivision C—Current SES funding
 
-##### <a id="78"></a>78  Authorising payments for non‑systemic schools
+##### <a id="78"></a>78  Authorising payments for non-systemic schools
 
              (1)  This section applies to a school in a State for a particular program year and for a particular level of education provided at the school if:
 
                      (a)  this Subdivision applies to the school for that program year and for that level of education in accordance with section 73; and
 
-                     (b)  the school is a non‑systemic school.
+                     (b)  the school is a non-systemic school.
 
              (2)  If this section applies to the school for the program year and for primary education, the Minister may make a determination under this subsection authorising payment of financial assistance to the State for recurrent expenditure of the school for the program year of an amount not more than the amount worked out for the school by adding up:
 
@@ -2373,7 +2373,7 @@ Note:          Assistance under Subdivision I is in addition t
 
                      (b)  the school is in an approved school system; and
 
-                     (c)  the school is in the list of non‑government schools as being included in that system.
+                     (c)  the school is in the list of non-government schools as being included in that system.
 
              (2)  If this section applies to the school for the program year and for primary education, the Minister may make a determination under this subsection authorising payment of financial assistance to the State for recurrent expenditure of the approved school system for the program year of an amount for the school not more than the amount worked out for the school by adding up:
 
@@ -2391,7 +2391,7 @@ Note:          Assistance under Subdivision I is in addition t
 
                    For the purposes of paragraphs 78(2)(a) and 79(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image005.gif)
 
 where:
 
@@ -2401,7 +2401,7 @@ where:
 
                    For the purposes of paragraphs 78(3)(a) and 79(3)(a), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image006.gif)
 
 where:
 
@@ -2409,13 +2409,13 @@ where:
 
 #### Subdivision D—Maintained year 2000 funding
 
-##### <a id="82"></a>82  Authorising payments for non‑systemic schools
+##### <a id="82"></a>82  Authorising payments for non-systemic schools
 
              (1)  This section applies to a school in a State for a particular program year if:
 
                      (a)  this Subdivision applies to the school for that program year in accordance with section 74; and
 
-                     (b)  the school is a non‑systemic school.
+                     (b)  the school is a non-systemic school.
 
              (2)  The Minister may make a determination authorising payment of financial assistance to the State for recurrent expenditure of the school for the program year of an amount not more than the amount worked out for the school by adding up:
 
@@ -2435,7 +2435,7 @@ where:
 
                      (b)  the school is in an approved school system; and
 
-                     (c)  the school is in the list of non‑government schools as being included in that system.
+                     (c)  the school is in the list of non-government schools as being included in that system.
 
              (2)  The Minister may make a determination authorising payment of financial assistance to the State for recurrent expenditure of the approved school system for the program year of an amount for the school not more than the amount worked out for the school by adding up:
 
@@ -2451,7 +2451,7 @@ where:
 
                    For the purposes of paragraphs 82(2)(a) and 83(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image007.gif)
 
 where:
 
@@ -2461,7 +2461,7 @@ where:
 
                    For the purposes of paragraphs 82(2)(b) and 83(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image008.gif)
 
 where:
 
@@ -2477,7 +2477,7 @@ where:
 
                      (b)  the school is in the approved Catholic school system; and
 
-                     (c)  the school is in the list of non‑government schools.
+                     (c)  the school is in the list of non-government schools.
 
              (2)  The Minister may make a determination authorising payment of financial assistance to the State for recurrent expenditure of the system for the program year of an amount for the school not more than the amount worked out for the school by adding up:
 
@@ -2493,7 +2493,7 @@ where:
 
                    For the purposes of paragraph 86(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image009.gif)
 
 where:
 
@@ -2503,7 +2503,7 @@ where:
 
                    For the purposes of paragraphs 86(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image010.gif)
 
 where:
 
@@ -2511,13 +2511,13 @@ where:
 
 #### Subdivision F—Guaranteed year 2004 SES funding
 
-##### <a id="89"></a>89  Authorising payments for non‑systemic schools
+##### <a id="89"></a>89  Authorising payments for non-systemic schools
 
              (1)  This section applies to a school in a State for a particular program year and for a particular level of education provided at the school if:
 
                      (a)  this Subdivision applies to the school for that program year and for that level of education in accordance with section 76; and
 
-                     (b)  the school is a non‑systemic school.
+                     (b)  the school is a non-systemic school.
 
              (2)  If this section applies to the school for the program year and for primary education, the Minister may make a determination under this subsection authorising payment of financial assistance to the State for recurrent expenditure of the school for the program year of an amount not more than the amount worked out for the school by adding up:
 
@@ -2539,7 +2539,7 @@ where:
 
                      (b)  the school is in an approved school system; and
 
-                     (c)  the school is in the list of non‑government schools as being included in that system.
+                     (c)  the school is in the list of non-government schools as being included in that system.
 
              (2)  If this section applies to the school for the program year and for primary education, the Minister may make a determination under this subsection authorising payment of financial assistance to the State for recurrent expenditure of the approved school system for the program year of an amount for the school not more than the amount worked out for the school by adding up:
 
@@ -2557,23 +2557,23 @@ where:
 
                    For the purposes of paragraphs 89(2)(a) and 90(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image011.gif)
 
 ##### <a id="92"></a>92  Secondary student amount
 
                    For the purposes of paragraphs 89(3)(a) and 90(3)(a), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image012.gif)
 
 #### Subdivision G—Special schools and special assistance schools
 
-##### <a id="93"></a>93  Authorising payments for non‑systemic schools
+##### <a id="93"></a>93  Authorising payments for non-systemic schools
 
              (1)  This section applies to a school in a State for a particular program year if:
 
                      (a)  this Subdivision applies to the school for that program year in accordance with section 77; and
 
-                     (b)  the school is a non‑systemic school.
+                     (b)  the school is a non-systemic school.
 
              (2)  The Minister may make a determination authorising payment of financial assistance to the State for recurrent expenditure of the school for the program year of an amount not more than the amount worked out for the school by adding up:
 
@@ -2593,7 +2593,7 @@ where:
 
                      (b)  the school is in an approved school system; and
 
-                     (c)  the school is in the list of non‑government schools as being included in that system.
+                     (c)  the school is in the list of non-government schools as being included in that system.
 
              (2)  The Minister may make a determination authorising payment of financial assistance to the State for recurrent expenditure of the approved school system for the program year of an amount for the school not more than the amount worked out for the school by adding up:
 
@@ -2609,7 +2609,7 @@ where:
 
                    For the purposes of paragraphs 93(2)(a) and 94(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image013.gif)
 
 where:
 
@@ -2619,7 +2619,7 @@ where:
 
                    For the purposes of paragraphs 93(2)(b) and 94(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image014.gif)
 
 where:
 
@@ -2631,7 +2631,7 @@ where:
 
                    For the purposes of paragraphs 78(2)(b), 79(2)(b), 82(2)(c), 83(2)(c), 86(2)(c), 89(2)(b), 90(2)(b), 93(2)(c) and 94(2)(c), work out the amount for the school’s primary distance education students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image015.gif)
 
 where:
 
@@ -2641,7 +2641,7 @@ where:
 
                    For the purposes of paragraphs 78(3)(b), 79(3)(b), 82(2)(d), 83(2)(d), 86(2)(d), 89(3)(b), 90(3)(b), 93(2)(d) and 94(2)(d), work out the amount for the school’s secondary distance education students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image016.gif)
 
 where:
 
@@ -2675,33 +2675,33 @@ Note:          Assistance under this Subdivision is in additio
 
              (1)  For the purposes of paragraph 98A(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image017.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image017.gif)
 
                    where:
 
                     <a name="current-se-fund-level-primari-amount"></a>**_current SES funding level primary amount_**, for the school for the program year, means the amount in the table in Part 1 of Schedule 4 for the program year and the school’s current SES funding level.
 
-                    <a name="number-relev-primari-student"></a>**_number of relevant primary students_**, for the school for the program year, means the total number of students (including the full‑time equivalent of part‑time students) receiving primary education at a moderately accessible school campus of the school on the school campus census day for the school campus in the program year.
+                    <a name="number-relev-primari-student"></a>**_number of relevant primary students_**, for the school for the program year, means the total number of students (including the full-time equivalent of part-time students) receiving primary education at a moderately accessible school campus of the school on the school campus census day for the school campus in the program year.
 
              (2)  For the purposes of paragraph 98A(2)(b), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image018.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image018.gif)
 
                    where:
 
                     <a name="current-se-fund-level-primari-amount"></a>**_current SES funding level primary amount_**, for the school for the program year, means the amount in the table in Part 1 of Schedule 4 for the program year and the school’s current SES funding level.
 
-                    <a name="number-relev-primari-student"></a>**_number of relevant primary students_**, for the school for the program year, means the total number of students (including the full‑time equivalent of part‑time students) receiving primary education at a remote school campus of the school on the school campus census day for the school campus in the program year.
+                    <a name="number-relev-primari-student"></a>**_number of relevant primary students_**, for the school for the program year, means the total number of students (including the full-time equivalent of part-time students) receiving primary education at a remote school campus of the school on the school campus census day for the school campus in the program year.
 
              (3)  For the purposes of paragraph 98A(2)(c), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image019.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image019.gif)
 
                    where:
 
                     <a name="current-se-fund-level-primari-amount"></a>**_current SES funding level primary amount_**, for the school for the program year, means the amount in the table in Part 1 of Schedule 4 for the program year and the school’s current SES funding level.
 
-                    <a name="number-relev-primari-student"></a>**_number of relevant primary students_**, for the school for the program year, means the total number of students (including the full‑time equivalent of part‑time students) receiving primary education at a very remote school campus of the school on the school campus census day for the school campus in the program year.
+                    <a name="number-relev-primari-student"></a>**_number of relevant primary students_**, for the school for the program year, means the total number of students (including the full-time equivalent of part-time students) receiving primary education at a very remote school campus of the school on the school campus census day for the school campus in the program year.
 
              (4)  If an amount worked out under subsection (1), (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
 
@@ -2709,33 +2709,33 @@ Note:          Assistance under this Subdivision is in additio
 
              (1)  For the purposes of paragraph 98A(3)(a), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image020.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image020.gif)
 
                    where:
 
                     <a name="current-se-fund-level-secondari-amount"></a>**_current SES funding level secondary amount_**, for the school for the program year, means the amount in the table in Part 2 of Schedule 4 for the program year and the school’s current SES funding level.
 
-                    <a name="number-relev-secondari-student"></a>**_number of relevant secondary students_**, for the school for the program year, means the total number of students (including the full‑time equivalent of part‑time students) receiving secondary education at a moderately accessible school campus of the school on the school campus census day for the school campus in the program year.
+                    <a name="number-relev-secondari-student"></a>**_number of relevant secondary students_**, for the school for the program year, means the total number of students (including the full-time equivalent of part-time students) receiving secondary education at a moderately accessible school campus of the school on the school campus census day for the school campus in the program year.
 
              (2)  For the purposes of paragraph 98A(3)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image021.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image021.gif)
 
                    where:
 
                     <a name="current-se-fund-level-secondari-amount"></a>**_current SES funding level secondary amount_**, for the school for the program year, means the amount in the table in Part 2 of Schedule 4 for the program year and the school’s current SES funding level.
 
-                    <a name="number-relev-secondari-student"></a>**_number of relevant secondary students_**, for the school for the program year, means the total number of students (including the full‑time equivalent of part‑time students) receiving secondary education at a remote school campus of the school on the school campus census day for the school campus in the program year.
+                    <a name="number-relev-secondari-student"></a>**_number of relevant secondary students_**, for the school for the program year, means the total number of students (including the full-time equivalent of part-time students) receiving secondary education at a remote school campus of the school on the school campus census day for the school campus in the program year.
 
              (3)  For the purposes of paragraph 98A(3)(c), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image022.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image022.gif)
 
                    where:
 
                     <a name="current-se-fund-level-secondari-amount"></a>**_current SES funding level secondary amount_**, for the school for the program year, means the amount in the table in Part 2 of Schedule 4 for the program year and the school’s current SES funding level.
 
-                    <a name="number-relev-secondari-student"></a>**_number of relevant secondary students_**, for the school for the program year, means the total number of students (including the full‑time equivalent of part‑time students) receiving secondary education at a very remote school campus of the school on the school campus census day for the school campus in the program year.
+                    <a name="number-relev-secondari-student"></a>**_number of relevant secondary students_**, for the school for the program year, means the total number of students (including the full-time equivalent of part-time students) receiving secondary education at a very remote school campus of the school on the school campus census day for the school campus in the program year.
 
              (4)  If an amount worked out under subsection (1), (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
 
@@ -2747,11 +2747,11 @@ Note:          Assistance under this Subdivision is in additio
 
                      (a)  capital expenditure for a program year in connection with:
 
-                              (i)  non‑government schools or non‑government rural student hostels in the States; or
+                              (i)  non-government schools or non-government rural student hostels in the States; or
 
-                             (ii)  groups of non‑government schools or non‑government rural student hostels (or both) in the States; or
+                             (ii)  groups of non-government schools or non-government rural student hostels (or both) in the States; or
 
-                     (b)  capital expenditure for a program year in connection with block grant authorities and non‑government schools or non‑government rural student hostels in the States.
+                     (b)  capital expenditure for a program year in connection with block grant authorities and non-government schools or non-government rural student hostels in the States.
 
              (2)  The sum of the amounts determined under subsection (1) for a program year must not be more than the amount worked out by adding up:
 
@@ -2759,17 +2759,17 @@ Note:          Assistance under this Subdivision is in additio
 
                      (b)  the amount (if any) in column 3 of the table in Schedule 5 for the program year.
 
-### Division 4—Other grants for non‑government rural student hostels
+### Division 4—Other grants for non-government rural student hostels
 
-##### <a id="100"></a>100  Authorisation of payment of other grants for non‑government rural student hostels
+##### <a id="100"></a>100  Authorisation of payment of other grants for non-government rural student hostels
 
-             (1)  The Minister may make a determination authorising payment of financial assistance to a State for expenditure for a program year in connection with a non‑government rural student hostel (the **_funded hostel_**) in the State.
+             (1)  The Minister may make a determination authorising payment of financial assistance to a State for expenditure for a program year in connection with a non-government rural student hostel (the **_funded hostel_**) in the State.
 
-Note:          Assistance under this section is in addition to the financial assistance for non‑government rural student hostels that is available under section 99.
+Note:          Assistance under this section is in addition to the financial assistance for non-government rural student hostels that is available under section 99.
 
              (2)  The amount determined under subsection (1) for the funded hostel and the program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image023.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image023.gif)
 
 where:
 
@@ -2783,7 +2783,7 @@ where:
 
 ##### <a id="101"></a>101  Grants of short term emergency assistance
 
-             (1)  The Minister may make a determination authorising payment of financial assistance to a State to provide short term emergency assistance for a non‑government school in the State for one or more program years if the Minister is satisfied that, because of any unexpected circumstance, the school:
+             (1)  The Minister may make a determination authorising payment of financial assistance to a State to provide short term emergency assistance for a non-government school in the State for one or more program years if the Minister is satisfied that, because of any unexpected circumstance, the school:
 
                      (a)  is in severe financial difficulty; and
 
@@ -2795,9 +2795,9 @@ where:
 
 ##### <a id="102"></a>102  Grants to provide establishment assistance
 
-Non‑systemic school
+Non-systemic school
 
-             (1)  The Minister may make a determination authorising payment of financial assistance to a State to provide establishment assistance for a non‑systemic school in the State for one or 2 program years if the circumstance in subsection (3) applies to the school.
+             (1)  The Minister may make a determination authorising payment of financial assistance to a State to provide establishment assistance for a non-systemic school in the State for one or 2 program years if the circumstance in subsection (3) applies to the school.
 
 Note:          The amount must not exceed the maximum amount worked out under subsection (4).
 
@@ -2809,19 +2809,19 @@ Note:          The amount must not exceed the maximum amount w
 
 Subsection (3) circumstance
 
-             (3)  The circumstance in this subsection is that the Minister varies the list of non‑government schools in relation to the school because the school is covered by paragraph (c) of the definition of **_new school proposal_**.
+             (3)  The circumstance in this subsection is that the Minister varies the list of non-government schools in relation to the school because the school is covered by paragraph (c) of the definition of **_new school proposal_**.
 
 Maximum amount
 
              (4)  The amount under subsection (1) or (2) for a program year in relation to a school must not exceed the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image024.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image024.gif)
 
 where:
 
                     <a name="establish-amount"></a>**_establishment amount_** for the program year is:
 
-                     (a)  if the program year is the year in which the Minister varies the list of non‑government schools in relation to the school—$500; and
+                     (a)  if the program year is the year in which the Minister varies the list of non-government schools in relation to the school—$500; and
 
                      (b)  if the program year is the year after the year referred to in paragraph (a)—$250.
 
@@ -2837,9 +2837,9 @@ where:
 
 Note:          Section 106 sets a ceiling on grants to the States under this Part for a program year.
 
-##### <a id="105"></a>105  Grants for non‑government schools in country areas
+##### <a id="105"></a>105  Grants for non-government schools in country areas
 
-                   The Minister may make a determination authorising payment of financial assistance to a State for expenditure approved by the Minister for a program year connected with the education of students at non‑government schools in country areas of the State.
+                   The Minister may make a determination authorising payment of financial assistance to a State for expenditure approved by the Minister for a program year connected with the education of students at non-government schools in country areas of the State.
 
 Note:          Section 106 sets a ceiling on grants to the States under this Part for a program year.
 
@@ -2869,9 +2869,9 @@ Note:          Section 111 sets a ceiling on grants to the S
 
                      (b)  that is conducted by or on behalf of the Government of the State.
 
-##### <a id="109"></a>109  Grants for non‑government schools
+##### <a id="109"></a>109  Grants for non-government schools
 
-                   The Minister may make a determination authorising payment of financial assistance to a State for expenditure for a program year connected with non‑government schools in the State to improve the learning outcomes of students who are learning languages other than English.
+                   The Minister may make a determination authorising payment of financial assistance to a State for expenditure for a program year connected with non-government schools in the State to improve the learning outcomes of students who are learning languages other than English.
 
 Note:          Section 111 sets a ceiling on grants to the States under this Part for a program year.
 
@@ -2915,7 +2915,7 @@ Note:          Section 111 sets a ceiling on grants to the S
 
              (2)  However, the total amount authorised to be paid to a State under subsection (1) for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image025.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image025.gif)
 
 where:
 
@@ -2923,23 +2923,23 @@ where:
 
                     <a name="number-elig-new-arriv-govern-school"></a>**_number of eligible new arrivals in government schools_** means the number of eligible new arrivals, other than eligible humanitarian new arrivals, enrolled in ESL courses, in the State, described in subsection (1).
 
-##### <a id="114"></a>114  Grants for teaching English as a second language in non‑government schools
+##### <a id="114"></a>114  Grants for teaching English as a second language in non-government schools
 
              (1)  The Minister may make a determination authorising payment of financial assistance to a State for recurrent expenditure for a program year connected with providing education in English as a second language for eligible new arrivals enrolled in ESL courses:
 
                      (a)  beginning or continuing in the program year; and
 
-                     (b)  provided at or in connection with non‑government schools in the State.
+                     (b)  provided at or in connection with non-government schools in the State.
 
              (2)  However, the total amount paid to a State under subsection (1) for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image026.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image026.gif)
 
 where:
 
-                    <a name="number-elig-humanitarian-new-arriv-non-govern-school"></a>**_number of eligible humanitarian new arrivals in non‑government schools_** means the number of eligible humanitarian new arrivals enrolled in ESL courses, in the State, described in subsection (1).
+                    <a name="number-elig-humanitarian-new-arriv-non-govern-school"></a>**_number of eligible humanitarian new arrivals in non-government schools_** means the number of eligible humanitarian new arrivals enrolled in ESL courses, in the State, described in subsection (1).
 
-                    <a name="number-elig-new-arriv-non-govern-school"></a>**_number of eligible new arrivals in non‑government schools_** means the number of eligible new arrivals, other than eligible humanitarian new arrivals, enrolled in ESL courses, in the State, described in subsection (1).
+                    <a name="number-elig-new-arriv-non-govern-school"></a>**_number of eligible new arrivals in non-government schools_** means the number of eligible new arrivals, other than eligible humanitarian new arrivals, enrolled in ESL courses, in the State, described in subsection (1).
 
 ## Part 10—Literacy, numeracy and special learning needs
 
@@ -2951,7 +2951,7 @@ where:
 
                      (a)  to help improve the literacy, numeracy and other learning outcomes of students who are educationally disadvantaged (including because they are students with disabilities, Indigenous, of a low socioeconomic background, of a language background other than English or geographically isolated) through grants for schools and grants for national projects; and
 
-                     (b)  to help improve the educational participation and learning outcomes of children, and students, with disabilities through grants for non‑government centres.
+                     (b)  to help improve the educational participation and learning outcomes of children, and students, with disabilities through grants for non-government centres.
 
              (2)  In this Act:
 
@@ -2975,29 +2975,29 @@ in the State to improve the learning outcomes of students who are educationally 
 
              (2)  The total amount authorised to be paid to the States under this section for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image027.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image027.gif)
 
 where:
 
-                    <a name="number-student-disabl"></a>**_number of students with disabilities_**, for a program year, means the number of students with disabilities (including the full‑time equivalent of part‑time students with disabilities) receiving primary education or secondary education at government schools in the State on the schools census day for the State for the program year immediately before that program year.
+                    <a name="number-student-disabl"></a>**_number of students with disabilities_**, for a program year, means the number of students with disabilities (including the full-time equivalent of part-time students with disabilities) receiving primary education or secondary education at government schools in the State on the schools census day for the State for the program year immediately before that program year.
 
                     <a name="strateg-assist-amount"></a>**_strategic assistance amount_** means the amount in column 2 of the table in Part 2 of Schedule 9 for the program year.
 
-##### <a id="117"></a>117  Grants for non‑government schools
+##### <a id="117"></a>117  Grants for non-government schools
 
-             (1)  The Minister may make a determination authorising payment of financial assistance to a State for expenditure for a program year connected with non‑government schools (including schools providing special education) in the State to improve the learning outcomes of students who are educationally disadvantaged.
+             (1)  The Minister may make a determination authorising payment of financial assistance to a State for expenditure for a program year connected with non-government schools (including schools providing special education) in the State to improve the learning outcomes of students who are educationally disadvantaged.
 
              (2)  The total amount authorised to be paid to the States under this section for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image028.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image028.gif)
 
 where:
 
-                    <a name="number-student-disabl"></a>**_number of students with disabilities_**, for a program year, means the number of students with disabilities (including the full‑time equivalent of part‑time students with disabilities) receiving primary education, secondary education or distance education at non‑government schools in the State on the schools census day for the State for the program year immediately before that program year.
+                    <a name="number-student-disabl"></a>**_number of students with disabilities_**, for a program year, means the number of students with disabilities (including the full-time equivalent of part-time students with disabilities) receiving primary education, secondary education or distance education at non-government schools in the State on the schools census day for the State for the program year immediately before that program year.
 
                     <a name="strateg-assist-amount"></a>**_strategic assistance amount_** means the amount in column 3 of the table in Part 2 of Schedule 9 for the program year.
 
-##### <a id="118"></a>118  Grants for both government schools and centres and non‑government schools
+##### <a id="118"></a>118  Grants for both government schools and centres and non-government schools
 
              (1)  The Minister may make a determination authorising payment of financial assistance to a State for expenditure for a program year connected with:
 
@@ -3005,7 +3005,7 @@ where:
 
                      (b)  government centres; or
 
-                     (c)  non‑government schools (including schools providing special education);
+                     (c)  non-government schools (including schools providing special education);
 
 in the State to improve the learning outcomes of students who are educationally disadvantaged.
 
@@ -3015,11 +3015,11 @@ in the State to improve the learning outcomes of students who are educationally 
 
                      (b)  the amount in column 3 of the table in Part 1 of Schedule 9 for the program year.
 
-### Division 3—Grants for non‑government centres
+### Division 3—Grants for non-government centres
 
-##### <a id="119"></a>119  Grants for non‑government centres
+##### <a id="119"></a>119  Grants for non-government centres
 
-             (1)  The Minister may make a determination authorising payment of financial assistance to a State for a program year for expenditure connected with special education provided at or in connection with non‑government centres in the State.
+             (1)  The Minister may make a determination authorising payment of financial assistance to a State for a program year for expenditure connected with special education provided at or in connection with non-government centres in the State.
 
              (2)  The total amount authorised to be paid to the States under this section for a program year must not be more than the amount worked out by adding up:
 
@@ -3029,7 +3029,7 @@ in the State to improve the learning outcomes of students who are educationally 
 
              (3)  In this Act:
 
-                    <a name="non-govern-centr"></a>**_non‑government centre_** means a place in a State at which special education is provided by a non‑government body (except a non‑government body that is conducted for profit) and that is not a school.
+                    <a name="non-govern-centr"></a>**_non-government centre_** means a place in a State at which special education is provided by a non-government body (except a non-government body that is conducted for profit) and that is not a school.
 
 ### Division 4—Grants for national projects
 
@@ -3047,7 +3047,7 @@ in the State to improve the learning outcomes of students who are educationally 
 
              (4)  It does not matter whether:
 
-                     (a)  the project is conducted by a State or by a non‑government body established in a State; or
+                     (a)  the project is conducted by a State or by a non-government body established in a State; or
 
                      (b)  the project is conducted within, or outside, or within and outside, a State.
 
@@ -3069,7 +3069,7 @@ in the State to improve the learning outcomes of students who are educationally 
 
              (2)  The regulations have effect according to their terms.
 
-             (3)  Before the Governor‑General makes regulations for the purposes of subsection (1), the Minister must consider changes in the relevant figures known as Average Government School Costs published by:
+             (3)  Before the Governor-General makes regulations for the purposes of subsection (1), the Minister must consider changes in the relevant figures known as Average Government School Costs published by:
 
                      (a)  the Ministerial Council on Education, Employment, Training and Youth Affairs; or
 
@@ -3081,7 +3081,7 @@ in the State to improve the learning outcomes of students who are educationally 
 
              (2)  The amount in Schedule 2 for primary education for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image029.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image029.gif)
 
 where:
 
@@ -3089,9 +3089,9 @@ where:
 
              (3)  Each amount opposite a percentage of AGSRC in Parts 1 and 3 of Schedule 4 for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image030.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image030.gif)
 
-             (4)  If an amount worked out under subsection (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image031.gif)          (4)  If an amount worked out under subsection (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
 
 ##### <a id="123"></a>123  Changes to amounts for secondary education
 
@@ -3099,7 +3099,7 @@ where:
 
              (2)  The amount in Schedule 2 for secondary education for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image031.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image032.gif)
 
 where:
 
@@ -3107,7 +3107,7 @@ where:
 
              (3)  Each amount opposite a percentage of AGSRC in Parts 2 and 4 of Schedule 4 for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image032.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image033.gif)
 
              (4)  If an amount worked out under subsection (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
 
@@ -3155,7 +3155,7 @@ where:
 
 is replaced for the program year by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image033.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image034.gif)
 
 where:
 
@@ -3169,13 +3169,13 @@ where:
 
              (3)  If an amount worked out under paragraph (1)(c) or (e) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
 
-             (4)  Before the Governor‑General makes regulations for the purposes of subsection (1), the Minister must consider changes in the relevant figures known as Average Government School Costs published by:
+             (4)  Before the Governor-General makes regulations for the purposes of subsection (1), the Minister must consider changes in the relevant figures known as Average Government School Costs published by:
 
                      (a)  the Ministerial Council on Education, Employment, Training and Youth Affairs; or
 
                      (b)  a prescribed body that has a corresponding function.
 
-##### <a id="126"></a>126  Capital grants for government schools and non‑government schools
+##### <a id="126"></a>126  Capital grants for government schools and non-government schools
 
              (1)  Each amount (the **_capital amount_**) in:
 
@@ -3185,7 +3185,7 @@ where:
 
 for a program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00334/Html/23d5319c-f63b-4d57-88d5-5d010c9e91b8_files/image034.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00013/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image035.gif)
 
 where:
 
@@ -3197,9 +3197,9 @@ where:
 
              (2)  If an amount worked out under subsection (1) is not a multiple of $1,000, the amount is to be rounded to the nearest $1,000 (rounding $500 upwards).
 
-             (3)  Before the Governor‑General makes regulations for the purposes of subsection (1), the Minister must consider changes in an index of building prices, and an index of wage costs, published by the Australian Statistician.
+             (3)  Before the Governor-General makes regulations for the purposes of subsection (1), the Minister must consider changes in an index of building prices, and an index of wage costs, published by the Australian Statistician.
 
-##### <a id="127"></a>127  Other grants for non‑government rural student hostels
+##### <a id="127"></a>127  Other grants for non-government rural student hostels
 
              (1)  The regulations may provide for an amount (the **_specified amount_**) in the table in Schedule 6 to be increased by reference to changes in an index determined in writing by the Finance Minister for the purposes of this section.
 
@@ -3255,11 +3255,11 @@ where:
 
                      (b)  the statement was made to:
 
-                              (i)  the Minister (the **_Education Assistance Minister_**) administering that Act; or
+                              (i)  the Minister administering that Act; or
 
-                             (ii)  the Secretary of the Department administered by the Education Assistance Minister; or
+                             (ii)  the Secretary of the Department administering that Act; or
 
-                            (iii)  a public service employee in the Department administered by the Education Assistance Minister; or
+                            (iii)  a public service employee in the Department administering that Act; or
 
                             (iv)  a block grant authority for the purposes of that Act; or
 
@@ -3267,9 +3267,9 @@ where:
 
                      (c)  the statement was false or misleading in a material particular; and
 
-                     (d)  relying on the statement, a payment has been made under this Act to a State, for the State, for an approved government school community organisation or for a non‑government body (including a block grant authority and a nominated authority), of an amount that, in the Minister’s opinion, exceeds the amount that would have been authorised to be paid if the statement had not been false or misleading in a material particular.
+                     (d)  relying on the statement, a payment has been made under this Act to a State, for the State, for an approved government school community organisation or for a non-government body (including a block grant authority and a nominated authority), of an amount that, in the Minister’s opinion, exceeds the amount that would have been authorised to be paid if the statement had not been false or misleading in a material particular.
 
-             (2)  The Minister may make a determination reducing any amount payable to the State under this Act for the State, the approved government school community organisation or the non‑government body (as appropriate), in one or more program years, by the amount of the excess.
+             (2)  The Minister may make a determination reducing any amount payable to the State under this Act for the State, the approved government school community organisation or the non-government body (as appropriate), in one or more program years, by the amount of the excess.
 
              (3)  A determination under this section may take effect from a day before the day on which the determination was made.
 
@@ -3277,7 +3277,7 @@ where:
 
              (1)  This section applies if:
 
-                     (a)  the approved authority of a non‑systemic school, or of an approved school system, made a statement for the purposes of:
+                     (a)  the approved authority of a non-systemic school, or of an approved school system, made a statement for the purposes of:
 
                               (i)  an Education Assistance Act; or
 
@@ -3287,11 +3287,11 @@ where:
 
                      (b)  the statement was made to:
 
-                              (i)  the Minister (the **_Education Assistance Minister_**) administering that Act; or
+                              (i)  the Minister administering that Act; or
 
-                             (ii)  the Secretary of the Department administered by the Education Assistance Minister; or
+                             (ii)  the Secretary of the Department administering that Act; or
 
-                            (iii)  a public service employee in the Department administered by the Education Assistance Minister; and
+                            (iii)  a public service employee in the Department administering that Act; and
 
                      (c)  the statement was false or misleading in a material particular; and
 
@@ -3307,7 +3307,7 @@ where:
 
                             (iv)  obtains a larger amount under Subdivision I of Division 2 of Part 6 than, in the Minister’s opinion, the school may have obtained if the statement had not been made.
 
-             (2)  The Minister may make a determination varying the list of non‑government schools by setting out:
+             (2)  The Minister may make a determination varying the list of non-government schools by setting out:
 
                      (a)  a different SES score for the school; and
 
@@ -3399,7 +3399,7 @@ Note:          **_SES employee_** is defined in the _Acts Inte
 
 ##### <a id="140"></a>140  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing all matters:
+             (1)  The Governor-General may make regulations prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -3433,9 +3433,9 @@ is taken to be a determination made by the Minister for the purposes of section�
 
                    A determination made by the relevant Minister under section 6 of the former Act and in force immediately before 1 January 2005 is taken to be a determination made by the Minister under section 7 of this Act.
 
-##### <a id="144"></a>144  Previous list of non‑government schools
+##### <a id="144"></a>144  Previous list of non-government schools
 
-             (1)  The list (the **_old list_**) that was kept by the relevant Minister immediately before 1 January 2005 under subsection 33(1) of the former Act is taken to be the list of non‑government schools kept by the Minister under subsection 47(1) of this Act.
+             (1)  The list (the **_old list_**) that was kept by the relevant Minister immediately before 1 January 2005 under subsection 33(1) of the former Act is taken to be the list of non-government schools kept by the Minister under subsection 47(1) of this Act.
 
              (2)  Subsection (1) does not apply to the old list to the extent to which the old list specified an SES score or a funding level.
 
@@ -3447,7 +3447,7 @@ Manner in which list is kept
 
 Approved authorities
 
-             (4)  An approved authority that is taken (because of section 142) to have been determined by the Minister under section 9 of this Act to be the approved authority of an approved school system, or of a non‑systemic school, is taken to be included in the list of non‑government schools as a matter mentioned in paragraph 47(3)(c) or (d) for the appropriate system or school.
+             (4)  An approved authority that is taken (because of section 142) to have been determined by the Minister under section 9 of this Act to be the approved authority of an approved school system, or of a non-systemic school, is taken to be included in the list of non-government schools as a matter mentioned in paragraph 47(3)(c) or (d) for the appropriate system or school.
 
 ##### <a id="145"></a>145  Previous list of approved school systems
 
@@ -3457,9 +3457,9 @@ Manner in which list is kept
 
              (2)  A determination made by the Minister for the purposes of subsection 34(2) of the former Act and in force immediately before 1 January 2005 is taken to be a determination made by the Minister for the purposes of subsection 48(2) of this Act.
 
-##### <a id="146"></a>146  SES scores and funding levels of existing non‑systemic schools
+##### <a id="146"></a>146  SES scores and funding levels of existing non-systemic schools
 
-             (1)  This section applies to a non‑systemic school included in the list of non‑government schools because of subsection 144(1).
+             (1)  This section applies to a non-systemic school included in the list of non-government schools because of subsection 144(1).
 
              (2)  The Minister must vary the list by setting out the school’s:
 
@@ -3473,13 +3473,13 @@ Once only operation
 
              (4)  Subsection (2) requires the Minister to vary the list only once in relation to each school.
 
-             (5)  This section does not prevent the Minister varying the list of non‑government schools for the purposes of section 132.
+             (5)  This section does not prevent the Minister varying the list of non-government schools for the purposes of section 132.
 
 ##### <a id="147"></a>147  SES scores and funding levels of existing systemic schools
 
              (1)  This section applies to each systemic school in an approved school system that is included in the list of approved school systems because of subsection 145(1).
 
-             (2)  The Minister must vary the list of non‑government schools by setting out the school’s:
+             (2)  The Minister must vary the list of non-government schools by setting out the school’s:
 
                      (a)  SES score if the school is not a special school; and
 
@@ -3491,7 +3491,7 @@ Once only operation
 
              (4)  Subsection (2) requires the Minister to vary the list only once in relation to each school.
 
-             (5)  This section does not prevent the Minister varying the list of non‑government schools for the purposes of section 132.
+             (5)  This section does not prevent the Minister varying the list of non-government schools for the purposes of section 132.
 
 ##### <a id="148"></a>148  Overseas students
 
@@ -3649,13 +3649,13 @@ Educational accountability—performance targets
     <div>7</div>
   </td>
   <td>
-    <div>the document entitled Funding Arrangements for Non‑Government Schools
-      2001‑2004: SES Dimension Scores for Census Collection Districts (CDs) based
+    <div>the document entitled Funding Arrangements for Non-Government Schools
+      2001-2004: SES Dimension Scores for Census Collection Districts (CDs) based
       on the SES Index for General Recurrent Grants Funding</div>
   </td>
   <td>
     <div>the document entitled SES Dimension Scores for the Census Collection Districts
-      (CDs) based on the SES Index for General Recurrent Grants Funding 2005‑2008</div>
+      (CDs) based on the SES Index for General Recurrent Grants Funding 2005-2008</div>
   </td>
 </tr></table>
 
@@ -3791,7 +3791,7 @@ _Note:       See section 68._
   <col width="8%">
   <col width="15%">
   <col width="0%">
-  <col width="16%">
+  <col width="15%">
   <col width="15%">
   <col width="0%">
   <col width="15%">
@@ -4023,7 +4023,7 @@ _Note:       See section 69._
 
 Note:          The operation of sections 123A and 126 may affect the amount of the grants.
 
-# Schedule 4—General recurrent grants for non‑government schools
+# Schedule 4—General recurrent grants for non-government schools
 
 _Note:       See sections 4, 78 to 88, 93 to 96, 98A to 98C and 144 to 147._
 
@@ -7007,7 +7007,7 @@ Note:          The operation of sections 121 and 122 may a
 
 Note:          The operation of sections 121 and 123 may affect the amounts in columns 2, 3, 4 and 5.
 
-# Schedule 5—Capital grants for non‑government schools
+# Schedule 5—Capital grants for non-government schools
 
 _Note:       See section 99._
 
@@ -7023,7 +7023,7 @@ _Note:       See section 99._
   <tr>
     <td colspan="4">
       <div>
-        <b>Capital grants for non‑government schools</b>
+        <b>Capital grants for non-government schools</b>
       </div>
     </td>
   </tr>
@@ -7112,7 +7112,7 @@ _Note:       See section 99._
 
 Note:          The operation of sections 123A and 126 may affect the amount of the grants.
 
-# Schedule 6—Other grants for non‑government rural student hostels
+# Schedule 6—Other grants for non-government rural student hostels
 
 _Note:       See section 100._
 
@@ -7197,7 +7197,7 @@ _Note:       See section 100._
 
 Note:          The operation of section 127 may affect the amount of the grants.
 
-# Schedule 7—Grants of short term emergency assistance for non‑government schools
+# Schedule 7—Grants of short term emergency assistance for non-government schools
 
 _Note:       See section 101._
 
@@ -7603,14 +7603,14 @@ _Note:       See sections 115 to 120._
       <div>
         <b>Column 4</b>
       </div>
-      <div>Grants for non‑gov’t centres</div>
+      <div>Grants for non-gov’t centres</div>
       <div>($’000)</div>
     </td>
     <td>
       <div>
         <b>Column 5</b>
       </div>
-      <div>Grants for non‑gov’t centres:</div>
+      <div>Grants for non-gov’t centres:</div>
       <div>guarantee amount</div>
       <div>($’000)</div>
     </td>
@@ -7758,7 +7758,7 @@ Note:          The operation of sections 123A and 124 may 
       <div>
         <b>Column 3</b>
       </div>
-      <div>Non‑government schools</div>
+      <div>Non-government schools</div>
       <div>($)</div>
     </td>
   </tr>
@@ -7963,23 +7963,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 2 (items 10–18): 1 Jan 2009 ( <i>see</i>s. 2(1)) 
 Schedule 4: 9 Dec 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 8 (items 10–13): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -8501,18 +8484,10 @@ Div. 2 of Part 6</div>
 </tr>
 <tr>
   <td>
-    <div>S. 131</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 132</div>
   </td>
   <td>
-    <div>am. No. 120, 2007; No. 5, 2011</div>
+    <div>am. No. 120, 2007</div>
   </td>
 </tr>
 <tr>
