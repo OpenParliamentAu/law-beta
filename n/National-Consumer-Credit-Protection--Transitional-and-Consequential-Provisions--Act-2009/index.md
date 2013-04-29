@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00588/Html/1f28c052-cd56-4cab-9bd9-a522e6da68ee_files/image001.png)
+![](http://www.comlaw.gov.au/Details/C2011C00644/Html/1e21aa88-4044-4bbc-8d4c-dad5884a5258_files/image001.png)
 
 # National Consumer Credit Protection (Transitional and Consequential Provisions) Act 2009
 
 **Act No. 135 of 2009 as amended**
 
-This compilation was prepared on 7 August 2012
+This compilation was prepared on 9 August 2011
  taking into account amendments up to Act No. 84 of 2011
 
 The text of any of those amendments not in force
@@ -84,23 +84,19 @@ Division 2—The conditions on the registration          �
 
 Division 3—Obligations of registered persons                                                      43
 
-Division 4—When registrations can be suspended, cancelled or varied          48
+Division 4—When registrations can be suspended, cancelled or varied          47
 
-Part 4—Application of other provisions of the National Credit Act in relation to registered persons and this Schedule                                                                                                 55
+Part 4—Application of other provisions of the National Credit Act in relation to registered persons and this Schedule                                                                                                 54
 
-Part 5—Exemptions and modifications relating to this Schedule        61
+Part 5—Exemptions and modifications relating to this Schedule        60
 
-Part 6—Regulations relating to infringement notices                                 64
+Part 6—Regulations relating to infringement notices                                 63
 
 **Schedule 3—Consequential amendments** 
 
-Australian Securities and Investments Commission Act 2001                          65
+Australian Securities and Investments Commission Act 2001                          64
 
-Corporations Act 2001                                                                                             65
-
-**Schedule 4—Other application and transitional provisions** 
-
-Part 1—Application and Transitional provisions for the National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011                                   66
+Corporations Act 2001                                                                                             64
 
 **Notes** 
 
@@ -941,7 +937,7 @@ The regulations may provide for the approach ASIC must take in the administratio
 
                      (b)  ends on 30 June 2011, or a later day prescribed by the regulations.
 
-## 22  Regulations about transfer of information etc. to ASIC
+## 22  Regulations about transfer of information etc. to ASIC
 
 The regulations may provide for the transfer of information, documents, assets or liabilities to ASIC from:
 
@@ -1979,42 +1975,6 @@ Add:
 
 the licence number that ASIC gives to the Australian financial services licence held by that person must be the same number as the person’s Australian credit licence number (within the meaning of that Act).
 
-###### Schedule 4—Other application and transitional provisions
-
-<h7 class="ActHead7">Part 1—Application and Transitional provisions for the National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011</h7>
-
-1  Definitions
-
-In this Part:
-
-**_amended Act_** means the _National Consumer Credit Protection Act 2009_ as amended by Part 2 of Schedule 1 to the _National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011_.
-
-**_commencement_** means the commencement of Part 2 of Schedule 1 to the _National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011_.
-
-2  Application of Divisions of Part 3‑2B of the amended Act
-
-(1)       Division 4 of Part 3‑2B of the amended Act applies to credit card contracts whether entered into before, on or after commencement.
-
-(2)       Divisions 5 and 6 of Part 3‑2B of the amended Act apply to credit card contracts entered into after commencement.
-
-3  Pre‑commencement consents for credit limit increase invitations
-
-(1)       Subject to subitem (2), if:
-
-                     (a)  before commencement, a licensee who is the credit provider under a credit card contract obtained express consent, from the consumer who is the debtor under the contract, to the licensee making credit limit increase invitations; and
-
-                     (b)  the consent is expressed to relate to any credit limit increase invitations that the licensee may, from time to time, make to the consumer; and
-
-                     (c)  before obtaining the consumer’s consent, the licensee informed the consumer of the matters mentioned in paragraphs 133BF(4)(a), (b) and (c) of the amended Act; and
-
-                     (d)  the consumer did not withdraw the consent before commencement;
-
-then, for the purposes of Division 4 of Part 3‑2B of the amended Act, the licensee is taken to have obtained the consent under, and in accordance with, section 133BF of the amended Act.
-
-_Note:       The consumer may, after commencement, withdraw the consent in accordance with section 133BF of the amended Act._
-
-(2)       Section 133BG of the amended Act does not apply in relation to the consent, so far as that section would otherwise require a record of the consent to be kept. However that section does apply in relation to a withdrawal of the consent after commencement.
-
 # Notes to the _National Consumer Credit Protection (Transitional and Consequential Provisions) Act 2009_
 
 ### Note 1
@@ -2081,51 +2041,61 @@ of Assent</div>
     <div>25 July 2011</div>
   </td>
   <td>
-    <div>Schedule 2: 1 July 2012</div>
+    <div>Schedule 2: \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+_National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011 (No. 84, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Schedule 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 4</div>
-  </td>
-  <td>
-    <div>ad. No. 84, 2011</div>
-  </td>
-</tr></table>
+The following amendment commences on 1 July 2012:
+
+## Schedule 2
+
+## 1  At the end of the Act
+
+Add:
+
+Schedule 4—Other application and transitional provisions
+
+Part 1—Application and Transitional provisions for the National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011
+
+1  Definitions
+
+In this Part:
+
+**_amended Act_** means the _National Consumer Credit Protection Act 2009_ as amended by Part 2 of Schedule 1 to the _National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011_.
+
+**_commencement_** means the commencement of Part 2 of Schedule 1 to the _National Consumer Credit Protection Amendment (Home Loans and Credit Cards) Act 2011_.
+
+2  Application of Divisions of Part 3‑2B of the amended Act
+
+(1)       Division 4 of Part 3‑2B of the amended Act applies to credit card contracts whether entered into before, on or after commencement.
+
+(2)       Divisions 5 and 6 of Part 3‑2B of the amended Act apply to credit card contracts entered into after commencement.
+
+3  Pre‑commencement consents for credit limit increase invitations
+
+(1)       Subject to subitem (2), if:
+
+                     (a)  before commencement, a licensee who is the credit provider under a credit card contract obtained express consent, from the consumer who is the debtor under the contract, to the licensee making credit limit increase invitations; and
+
+                     (b)  the consent is expressed to relate to any credit limit increase invitations that the licensee may, from time to time, make to the consumer; and
+
+                     (c)  before obtaining the consumer’s consent, the licensee informed the consumer of the matters mentioned in paragraphs 133BF(4)(a), (b) and (c) of the amended Act; and
+
+                     (d)  the consumer did not withdraw the consent before commencement;
+
+then, for the purposes of Division 4 of Part 3‑2B of the amended Act, the licensee is taken to have obtained the consent under, and in accordance with, section 133BF of the amended Act.
+
+_Note:       The consumer may, after commencement, withdraw the consent in accordance with section 133BF of the amended Act._
+
+(2)       Section 133BG of the amended Act does not apply in relation to the consent, so far as that section would otherwise require a record of the consent to be kept. However that section does apply in relation to a withdrawal of the consent after commencement.
+
+As at 9 August 2011 the amendment is not incorporated in this compilation.
 
  
