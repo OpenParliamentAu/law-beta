@@ -1,139 +1,139 @@
-![](http://www.comlaw.gov.au/Details/C2005C00564/Html/E441961BB4AFE2F5CA25707A00022742/$FILE/image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 107.25pt; HEIGHT: 78pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="D0BEBEAE7ED05E9FCA256FD3001C52E4/$FILE/image001.wmz"></v:imagedata></v:shape>
 
 # Medical Indemnity (Prudential Supervision and Product Standards) Act 2003
 
-**Act No. 37 of 2003 as amended**
+**Act No. 37 of 2003 as amended<o:p></o:p>**
 
-This compilation was prepared on 9 September 2005
-taking into account amendments up to Act No. 111 of 2005
+This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="29" month="3">29 March 2005</st1:date>
+taking into account amendments up to Act No. 25 of 2005<o:p></o:p>
 
 The text of any of those amendments not in force
-on that date is appended in the Notes section
+on that date is appended in the Notes section<o:p></o:p>
 
 The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
+Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
 
 
 # Contents
 
-**Part 1—Introductory** 
+**Part 1—Introductory<span style="mso-tab-count: 1">                                                                                                             </span>** 
 
-    **Division 1—Preliminary**
+    **Division 1—Preliminary<span style="mso-tab-count: 1">                                                                                              </span>**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement                                                                                   1
+[2](#2).            Commencement<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[3](#3).            Objects                                                                                                 1
+[3](#3).            Objects<span style="mso-tab-count: 1 dotted">                                                                                                 </span>
 
-    **Division 2—Interpretation**
+    **Division 2—Interpretation<span style="mso-tab-count: 1">                                                                                         </span>**
 
-[4](#4).            Definitions                                                                                           2
+[4](#4).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[5](#5).            Providing medical indemnity cover                                                      7
+[5](#5).            Providing medical indemnity cover<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[6](#6).            Claims-made based cover and incident-occurring based cover             8
+[6](#6).            Claims-made based cover and incident-occurring based cover<span style="mso-tab-count: 1 dotted">             </span>
 
-[7](#7).            When certain DDR arrangements are taken to be entered into            9
+[7](#7).            When certain DDR arrangements are taken to be entered into<span style="mso-tab-count: 1 dotted">            </span>
 
-[7A](#7A).         Reasonableness of premiums                                                             10
+[7A](#7A).         Reasonableness of premiums<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-    **Division 3—Application of Act**
+    **Division 3—Application of Act<span style="mso-tab-count: 1">                                                                              </span>**
 
-[8](#8).            Application of Act                                                                            11
+[8](#8).            Application of Act<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[9](#9).            Act extends to external Territories                                                    11
+[9](#9).            Act extends to external Territories<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-**Part 2—Prudential requirements for provision of medical indemnity cover** 
+**Part 2—Prudential requirements for provision of medical indemnity cover<span style="mso-tab-count: 1">              </span>** 
 
-    **Division 1—Provision of medical indemnity cover**
+    **Division 1—Provision of medical indemnity cover<span style="mso-tab-count: 1">                                     </span>**
 
-[10](#10).          Medical indemnity cover to be provided only by general insurers and only under contracts of insurance             12
+[10](#10).          Medical indemnity cover to be provided only by general insurers and only under contracts of insurance<span style="mso-tab-count: 1">             </span>
 
-[11](#11).          Intermediary’s responsibilities                                                          13
+[11](#11).          Intermediary’s responsibilities<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-    **Division 2—Transitional arrangements**
+    **Division 2—Transitional arrangements<span style="mso-tab-count: 1">                                                            </span>**
 
-[12](#12).          Effect of determination under subsection 13(3)                                15
+[12](#12).          Effect of determination under subsection 13(3)<span style="mso-tab-count: 1 dotted">                                </span>
 
-[13](#13).          APRA determination that minimum capital requirements do not apply 15
+[13](#13).          APRA determination that minimum capital requirements do not apply<span style="mso-tab-count: 1"> </span>
 
-[14](#14).          Administrative review                                                                       18
+[14](#14).          Administrative review<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[15](#15).          Application of section 115A of the _Insurance Act 1973_                   18
+[15](#15).          Application of section 115A of the _Insurance Act 1973_<span style="mso-tab-count: 1 dotted">                   </span>
 
-**Part 3—Product standards for medical indemnity insurance contracts** 
+**Part 3—Product standards for medical indemnity insurance contracts<span style="mso-tab-count: 1">  </span>** 
 
-    **Division 1—Minimum cover**
+    **Division 1—Minimum cover<span style="mso-tab-count: 1">                                                                                   </span>**
 
-[16](#16).          Minimum cover amount                                                                    19
+[16](#16).          Minimum cover amount<span style="mso-tab-count: 1 dotted">                                                                    </span>
 
-[17](#17).          Minimum cover for single claim                                                        19
+[17](#17).          Minimum cover for single claim<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[18](#18).          Minimum annual cover—incident-occurring based cover                  20
+[18](#18).          Minimum annual cover—incident-occurring based cover<span style="mso-tab-count: 1 dotted">                  </span>
 
-[19](#19).          Minimum annual cover—other cover                                                22
+[19](#19).          Minimum annual cover—other cover<span style="mso-tab-count: 1 dotted">                                                </span>
 
-[20](#20).          Amount payable by insurer                                                               25
+[20](#20).          Amount payable by insurer<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-    **Division 2—Offers to provide retroactive and run-off cover for otherwise uncovered prior incidents** 
+    **Division 2—Offers to provide retroactive and run-off cover for otherwise uncovered prior incidents<span style="mso-tab-count: 1">                                                                                                                      </span>** 
 
-        **Subdivision A—Regulated insurance contracts**
+        **Subdivision A—Regulated insurance contracts<span style="mso-tab-count: 1">                                                  </span>**
 
-[21](#21).          Regulated insurance contracts                                                            26
+[21](#21).          Regulated insurance contracts<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-        **Subdivision B—Insurer’s responsibilities**
+        **Subdivision B—Insurer’s responsibilities<span style="mso-tab-count: 1">                                                           </span>**
 
-[22](#22).          Additional offer of retroactive cover when regulated insurance contract entered into, comes into effect or is renewed                                                                                                           27
+[22](#22).          Additional offer of retroactive cover when regulated insurance contract entered into, comes into effect or is renewed<span style="mso-tab-count: 1 dotted">                                                                                                           </span>
 
-[23](#23).          Additional offer of run-off cover when particular events happen during claims period for regulated insurance contract                                                                                                           31
+[23](#23).          Additional offer of run-off cover when particular events happen during claims period for regulated insurance contract<span style="mso-tab-count: 1 dotted">                                                                                                           </span>
 
-[24](#24).          Complying offer                                                                                35
+[24](#24).          Complying offer<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[26](#26).          Federal Court may order insurer to make offer                                 37
+[26](#26).          Federal Court may order insurer to make offer<span style="mso-tab-count: 1 dotted">                                 </span>
 
-    **Division 2A—Provision of run-off cover to certain medical practitioners**
+    **Division 2A—Provision of run-off cover to certain medical practitioners<span style="mso-tab-count: 1">            </span>**
 
-[26A](#26A).       Provision of run-off cover to certain medical practitioners               38
+[26A](#26A).       Provision of run-off cover to certain medical practitioners<span style="mso-tab-count: 1 dotted">               </span>
 
-[26B](#26B).       Medical practitioners provided with medical indemnity cover by MDOs, but not adequate run-off cover           41
+[26B](#26B).       Medical practitioners provided with medical indemnity cover by MDOs, but not adequate run-off cover<span style="mso-tab-count: 1">           </span>
 
-[26C](#26C).       Provision of run-off in accordance with arrangements with MDOs 43
+[26C](#26C).       Provision of run-off in accordance with arrangements with MDOs<span style="mso-tab-count: 1 dotted"> </span>
 
-[26D](#26D).       Notification and record-keeping                                                        44
+[26D](#26D).       Notification and record-keeping<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[26E](#26E).        Run-off cover taken to be provided under contract of insurance      45
+[26E](#26E).        Run-off cover taken to be provided under contract of insurance<span style="mso-tab-count: 1 dotted">      </span>
 
-[26F](#26F).        Federal Court may order insurer to provide run-off cover or MDO to enter into arrangement              45
+[26F](#26F).        Federal Court may order insurer to provide run-off cover or MDO to enter into arrangement<span style="mso-tab-count: 1">              </span>
 
-[26G](#26G).       Pecuniary penalties for offences against this Division                      46
+[26G](#26G).       Pecuniary penalties for offences against this Division<span style="mso-tab-count: 1 dotted">                      </span>
 
-    **Division 3—Intermediary’s responsibilities**
+    **Division 3—Intermediary’s responsibilities<span style="mso-tab-count: 1">                                                  </span>**
 
-[27](#27).          Intermediary’s responsibilities                                                          47
+[27](#27).          Intermediary’s responsibilities<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-**Part 4—Administration**
+**Part 4—Administration<span style="mso-tab-count: 1">                                                                                                      </span>**
 
-[28](#28).          APRA to have general administration of Part 2                                48
+[28](#28).          APRA to have general administration of Part 2<span style="mso-tab-count: 1 dotted">                                </span>
 
-[29](#29).          APRA Act secrecy provisions apply                                               48
+[29](#29).          APRA Act secrecy provisions apply<span style="mso-tab-count: 1 dotted">                                               </span>
 
-[30](#30).          ASIC to have general administration of Part 3                                  48
+[30](#30).          ASIC to have general administration of Part 3<span style="mso-tab-count: 1 dotted">                                  </span>
 
-**Part 5—Miscellaneous**
+**Part 5—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[31](#31).          Anti-avoidance measures                                                                   49
+[31](#31).          Anti-avoidance measures<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[32](#32).          Act not to affect State and Territory laws                                        50
+[32](#32).          Act not to affect State and Territory laws<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[33](#33).          Regulations                                                                                        50
+[33](#33).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>**
 
- 
+<o:p> </o:p>
 
 
 ## An Act to make provision in relation to medical indemnity cover for health care professionals, and for related purposes
@@ -142,13 +142,13 @@ Attorney-General’s Department, Canberra
 
 ### Division 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Medical Indemnity (Prudential Supervision and Product Standards) Act 2003_.
 
 ##### <a id="2"></a>2  Commencement
 
-                   This Act commences, or is taken to have commenced, on 1 July 2003.
+                   This Act commences, or is taken to have commenced, on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>.
 
 ##### <a id="3"></a>3  Objects
 
@@ -157,6 +157,8 @@ Attorney-General’s Department, Canberra
                      (a)  to ensure that health care professionals have access to medical indemnity cover that is provided by properly regulated insurers; and
 
                      (b)  to specify minimum standards for medical indemnity cover that is provided to health care professionals.
+
+<o:p> </o:p>
 
 ### Division 2—Interpretation
 
@@ -204,7 +206,7 @@ and **_claim_** against a person includes an inquiry into, or an investigation o
 
                     <a name="compulsori-offer-period"></a>**_compulsory offer period_**, in relation to an offer made under section 23, means the period referred to in paragraph 24(2)(b) in relation to the offer.
 
-                    <a name="constitut-corpor"></a>**_constitutional corporation_** means a corporation to which paragraph 51(xx) of the Constitution applies.
+                    <a name=""></a><a name="constitut-corpor"></a>**_constitutional corporation_** means a corporation to which paragraph 51(xx) of the Constitution applies.
 
                     <a name="enter"></a>**_enter into_**, in relation to certain arrangements, has a meaning affected by section 7.
 
@@ -220,7 +222,7 @@ and **_claim_** against a person includes an inquiry into, or an investigation o
 
                     <a name="gener-insur"></a>**_general insurer_** has the same meaning as in the _Insurance Act 1973_.
 
-                    <a name="health-care"></a>**_health care_** means any care, treatment, advice, service or goods provided in respect of the physical or mental health of a person.
+                    <a name=""></a><a name="health-care"></a>**_health care_** means any care, treatment, advice, service or goods provided in respect of the physical or mental health of a person.
 
                     <a name="health-care-incid"></a>**_health care incident_**, in relation to a health care professional, means an incident that occurs in the course of, or in connection with, the provision of health care by the health care professional.
 
@@ -250,7 +252,7 @@ and **_claim_** against a person includes an inquiry into, or an investigation o
 
                     <a name="mical-indemn-insur"></a>**_medical indemnity insurer_** has the same meaning as in the _Medical Indemnity Act 2002_.
 
-                    <a name="mical-practition"></a>**_medical practitioner_** means an individual registered or licensed as a medical practitioner under a State or Territory law that provides for the registration or licensing of medical practitioners.
+                    <a name=""></a><a name="mical-practition"></a>**_medical practitioner_** means an individual registered or licensed as a medical practitioner under a State or Territory law that provides for the registration or licensing of medical practitioners.
 
                     <a name="minimum-cover-amount"></a>**_minimum cover amount_** has the meaning given by section 16.
 
@@ -264,7 +266,7 @@ and **_claim_** against a person includes an inquiry into, or an investigation o
 
                     <a name="provid-mical-indemn-cover"></a>**_provide medical indemnity cover_** has the meaning given by section 5.
 
-                    <a name="prudenti-standard"></a>**_prudential standard_** means a standard determined by APRA under section 32 of the _Insurance Act 1973_.
+                    <a name=""></a><a name="prudenti-standard"></a>**_prudential standard_** means a standard determined by APRA under section 32 of the _Insurance Act 1973_.
 
                     <a name="regist-health-profession"></a><a name="regist-health-profession"></a>**_registered health professional_**: an individual is a **_registered health professional_** if:
 
@@ -296,7 +298,7 @@ Without medical indemnity cover for a health care incident
 
                      (a)  the health care incident occurs during a particular period; and
 
-                     (b)  there is no arrangement under which the health care professional will, or may, be indemnified for compensation claims made against the health care professional in relation to health care incidents occurring during that period.
+                     (b)  there is no arrangement under which the health care professional will, or may, be indemnified for compensation claims made against the health care professional in relation to health care incidents occurring during that period.<o:p></o:p>
 
 When arrangement comes into effect
 
@@ -480,6 +482,8 @@ the cover provider is taken to **_enter into_** the arrangement, to the extent t
 
                       (j)  such other matters as are specified in regulations made for the purposes of this paragraph.
 
+<o:p> </o:p>
+
 ### Division 3—Application of Act
 
 ##### <a id="8"></a>8  Application of Act
@@ -512,13 +516,15 @@ the cover provider is taken to **_enter into_** the arrangement, to the extent t
 
                    This Act extends to every external Territory.
 
+<o:p> </o:p>
+
 ## Part 2—Prudential requirements for provision of medical indemnity cover
 
 ### Division 1—Provision of medical indemnity cover
 
 ##### <a id="10"></a>10  Medical indemnity cover to be provided only by general insurers and only under contracts of insurance
 
-             (1)  This subsection applies to a person if, on or after 1 July 2003:
+             (1)  This subsection applies to a person if, on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>:
 
                      (a)  the person:
 
@@ -558,13 +564,13 @@ The **_relevant medical indemnity cover_** is the cover referred to in paragraph
 
              (3)  To avoid doubt:
 
-                     (a)  paragraph (1)(a) applies to offers or invitations that are received in Australia or the external Territories:
+                     (a)  paragraph (1)(a) applies to offers or invitations that are received in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or the external Territories:
 
                               (i)  regardless of where any resulting arrangement is entered into; and
 
                              (ii)  whether or not any resulting arrangement is governed by the laws of a State or Territory; and
 
-                     (b)  paragraph (1)(d) applies to offers that are received in Australia or the external Territories:
+                     (b)  paragraph (1)(d) applies to offers that are received in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or the external Territories:
 
                               (i)  regardless of where any resulting renewal takes place; and
 
@@ -574,7 +580,7 @@ The **_relevant medical indemnity cover_** is the cover referred to in paragraph
 
              (1)  A person (the **_intermediary_**) commits an offence if:
 
-                     (a)  the intermediary provides a financial service on or after 1 July 2003; and
+                     (a)  the intermediary provides a financial service on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
 
                      (b)  in the course of providing that service, the intermediary:
 
@@ -602,6 +608,8 @@ The **_relevant medical indemnity cover_** is the cover referred to in paragraph
 
              (3)  To avoid doubt, the intermediary commits the offence whether or not the cover provider commits, or would commit, an offence against subsection 10(2).
 
+<o:p> </o:p>
+
 ### Division 2—Transitional arrangements
 
 ##### <a id="12"></a>12  Effect of determination under subsection 13(3)
@@ -610,11 +618,11 @@ Section applies to body corporate while determination under subsection 13(3) is 
 
              (1)  This section applies to a body corporate while a determination under subsection 13(3) is in force in relation to the body corporate.
 
-Authorisation to carry on insurance business in Australia
+Authorisation to carry on insurance business in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>
 
              (2)  APRA must not refuse an application by the body corporate under section 12 of the _Insurance Act 1973_ on the basis that the body corporate does not, or would not, meet the requirements of a prudential standard to the extent to which the standard imposes a minimum capital requirement.
 
-Note:          This subsection is not relevant for a body corporate if at the time the body corporate applied for a determination under section 13 the body corporate was already a general insurer.
+Note:<span style="mso-tab-count: 1">          </span>This subsection is not relevant for a body corporate if at the time the body corporate applied for a determination under section 13 the body corporate was already a general insurer.<o:p></o:p>
 
 Grounds for revoking authorisation
 
@@ -636,7 +644,7 @@ Application for determination
 
                      (c)  is related (within the meaning of the _Corporations Act 2001_) to a body corporate to which paragraph (a) or (b) applies;
 
-may apply to APRA for a determination under subsection (3) that the minimum capital requirements do not apply to the body corporate during the period (the **_transition period_**) that starts on 1 July 2003 and ends on 30 June 2008.
+may apply to APRA for a determination under subsection (3) that the minimum capital requirements do not apply to the body corporate during the period (the **_transition period_**) that starts on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date> and ends on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2008" day="30" month="6">30 June 2008</st1:date>.
 
              (2)  The application must be in the form prescribed by the regulations.
 
@@ -644,11 +652,11 @@ Determination that minimum capital requirements do not apply
 
              (3)  APRA must determine that the minimum capital requirements do not apply to the body corporate during the transition period if:
 
-                     (a)  when it applies, the body corporate:
+                     (a)<span style="mso-tab-count: 1">  </span>when it applies, the body corporate:<o:p></o:p>
 
-                              (i)  is not a general insurer; or
+<span style="mso-tab-count: 1">                              </span>(i)<span style="mso-tab-count: 1">  </span>is not a general insurer; or<o:p></o:p>
 
-                             (ii)  is a general insurer and is prescribed by the regulations for the purposes of this subparagraph; and
+<span style="mso-tab-count: 1">                             </span>(ii)<span style="mso-tab-count: 1">  </span>is a general insurer and is prescribed by the regulations for the purposes of this subparagraph; and<o:p></o:p>
 
                      (b)  when it applies, the body corporate does not, or would not, satisfy the prudential standards, to the extent to which they impose minimum capital requirements; and
 
@@ -672,9 +680,9 @@ When determination ceases to have effect
 
              (4)  The determination ceases to have effect:
 
-                     (a)  on 30 June 2008; or
+                     (a)  on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2008" day="30" month="6">30 June 2008</st1:date>; or
 
-                     (b)  if APRA revokes the determination before 30 June 2008—on the day specified in the revocation as the day on which the revocation takes effect.
+                     (b)  if APRA revokes the determination before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2008" day="30" month="6">30 June 2008</st1:date>—on the day specified in the revocation as the day on which the revocation takes effect.
 
 Revocation of determination
 
@@ -702,9 +710,9 @@ The day specified under paragraph (b) must be at least 28 days after the day o
 
              (7)  APRA must give a copy of the revocation to the body corporate within 7 days after the day on which the revocation is made.
 
-No determinations to be made after 1 July 2005
+No determinations to be made after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>
 
-             (8)  No determinations under subsection (3) are to be made on or after 1 July 2005.
+             (8)  No determinations under subsection (3) are to be made on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>.
 
 APRA guidelines
 
@@ -735,6 +743,8 @@ Note:          Section 27A of the _Administrative Appeals Tr
 ##### <a id="15"></a>15  Application of section 115A of the _Insurance Act 1973_
 
                    Section 115A of the _Insurance Act 1973_ applies as if a reference to this Part in the definition of **_relevant legislation_** in subsection (5) of that section included a reference to a funding plan lodged with an application made under section 13 of this Act.
+
+<o:p> </o:p>
 
 ## Part 3—Product standards for medical indemnity insurance contracts
 
@@ -768,13 +778,13 @@ Offence
 
                      (a)  subsection (1) applies to the insurer; and
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1 July 2003; and
+                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
 
                      (c)  the maximum amount payable by the insurer under the relevant contract in relation to a single compensation claim made against the health care professional would, but for subsection (4), be less than the minimum cover amount applicable at that time.
 
                     Penalty:  Imprisonment for 12 months.
 
-             (3)  Subsection (2) does not apply if it would be reasonable to assume, at the time the relevant contract is entered into, comes into effect or is renewed, that every health care incident to which the compensation claim would relate would be one occurring outside Australia and the external Territories.
+             (3)  Subsection (2) does not apply if it would be reasonable to assume, at the time the relevant contract is entered into, comes into effect or is renewed, that every health care incident to which the compensation claim would relate would be one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
 
 Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code_).
 
@@ -784,7 +794,7 @@ Maximum amount payable for single claim
 
                      (a)  subsection (1) applies to a person (the **_insurer_**); and
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1 July 2003; and
+                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
 
                      (c)  a compensation claim is made against the health care professional; and
 
@@ -794,7 +804,7 @@ Maximum amount payable for single claim
 
 the maximum amount payable by the insurer under the relevant contract in relation to the compensation claim is the minimum cover amount applicable at that time (instead of the maximum amount provided for in the relevant contract).
 
-             (5)  Subsection (4) does not apply if every health care incident to which the compensation claim relates is one occurring outside Australia and the external Territories.
+             (5)  Subsection (4) does not apply if every health care incident to which the compensation claim relates is one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
 
              (6)  To avoid doubt, subsection (4) applies whether or not the insurer is convicted of an offence against subsection (2).
 
@@ -830,13 +840,13 @@ Offence
 
                      (a)  subsection (1) applies to the insurer; and
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1 July 2003; and
+                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
 
                      (c)  the maximum amount payable, in aggregate, by the insurer under the relevant contract in relation to all the compensation claims that are made against the health care professional in relation to health care incidents that occur during a particular relevant period would, but for subsection (5), be less than the minimum cover amount applicable at that time.
 
                     Penalty:  Imprisonment for 12 months.
 
-             (4)  Subsection (3) does not apply if it would be reasonable to assume, at the time the relevant contract is entered into, comes into effect or is renewed, that every health care incident to which the compensation claims would relate would be one occurring outside Australia and the external Territories.
+             (4)  Subsection (3) does not apply if it would be reasonable to assume, at the time the relevant contract is entered into, comes into effect or is renewed, that every health care incident to which the compensation claims would relate would be one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
 
 Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code_).
 
@@ -846,7 +856,7 @@ Maximum amount payable for multiple claims
 
                      (a)  subsection (1) applies to a person (the **_insurer_**); and
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1 July 2003; and
+                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
 
                      (c)  amounts are payable by the insurer under the relevant contract in relation to 2 or more compensation claims (the **_multiple claims_**) that are made against the health care professional in relation to health care incidents that occur in a particular relevant period; and
 
@@ -854,7 +864,7 @@ Maximum amount payable for multiple claims
 
 the maximum amount payable, in aggregate, by the insurer under the relevant contract in relation to the multiple claims is the minimum cover amount applicable at that time (instead of the maximum amount provided for in the relevant contract).
 
-             (6)  Subsection (5) does not apply if every health care incident to which the multiple claims relate is one occurring outside Australia and the external Territories.
+             (6)  Subsection (5) does not apply if every health care incident to which the multiple claims relate is one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
 
              (7)  To avoid doubt, subsection (5) applies whether or not the insurer is convicted of an offence against subsection (3).
 
@@ -892,7 +902,7 @@ Offence
 
                      (a)  subsection (1) applies to the insurer; and
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1 July 2003; and
+                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
 
                      (c)  the maximum amount payable, in aggregate, by the insurer under the relevant contract in relation to all the compensation claims that are made against the health care professional during a particular relevant period would, but for subsection (5), be less than the minimum cover amount applicable at that time.
 
@@ -900,7 +910,7 @@ Note:          Paragraph (c)—subsection 4(9) operates on t
 
                     Penalty:  Imprisonment for 12 months.
 
-             (4)  Subsection (3) does not apply if it would be reasonable to assume, at the time the relevant contract is entered into, comes into effect or is renewed, that every health care incident to which the compensation claims would relate would be one occurring outside Australia and the external Territories.
+             (4)  Subsection (3) does not apply if it would be reasonable to assume, at the time the relevant contract is entered into, comes into effect or is renewed, that every health care incident to which the compensation claims would relate would be one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
 
 Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code_).
 
@@ -910,7 +920,7 @@ Maximum amount payable for multiple claims
 
                      (a)  subsection (1) applies to a person (the **_insurer_**); and
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1 July 2003; and
+                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
 
                      (c)  amounts are payable by the insurer under the relevant contract in relation to 2 or more compensation claims (the **_multiple claims_**) that are made against the health care professional during a particular relevant period; and
 
@@ -920,7 +930,7 @@ the maximum amount payable, in aggregate, by the insurer under the relevant cont
 
 Note:          Paragraph (c)—subsection 4(9) operates on the reference in this paragraph to the claim having to be made during a period.
 
-             (6)  Subsection (5) does not apply if every health care incident to which the multiple claims relate is one occurring outside Australia and the external Territories.
+             (6)  Subsection (5) does not apply if every health care incident to which the multiple claims relate is one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
 
              (7)  To avoid doubt, subsection (5) applies whether or not the insurer is convicted of an offence against subsection (3).
 
@@ -935,6 +945,8 @@ Note:          Paragraph (c)—subsection 4(9) operates on t
                      (b)  any right the insurer may have to contribution from another insurer;
 
                      (c)  any right to which the insurer is subrogated under the contract of insurance.
+
+<o:p> </o:p>
 
 ### Division 2—Offers to provide retroactive and run-off cover for otherwise uncovered prior incidents
 
@@ -956,7 +968,7 @@ Regulated insurance contract
 
                      (c)  the cover provided for by the contract is claims-made based cover; and
 
-                     (d)  the contract is entered into, comes into effect or is renewed on or after 1 July 2003.
+                     (d)  the contract is entered into, comes into effect or is renewed on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>.
 
 Note:          Paragraph (c)—for **_claims-made based cover_**, see subsections 6(2) and (3). For the purposes of this section, ERB and DDR cover are not claims-made based cover.
 
@@ -1072,7 +1084,7 @@ Defences for offences against subsections (1), (2) and (3)
 
                      (b)  the health care professional has no otherwise uncovered prior incidents; or
 
-                     (c)  every health care incident covered by the regulated insurance contract is, or would be, one occurring outside Australia and the external Territories.
+                     (c)  every health care incident covered by the regulated insurance contract is, or would be, one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
 
 Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code)_.
 
@@ -1158,7 +1170,7 @@ if it is reasonable and appropriate for the insurer to exclude the incident or c
 
                      (d)  the kinds of exclusions that are usually provided for in contracts of insurance that provide similar cover to the cover being offered; and
 
-                     (e)  any other relevant consideration.
+                     (e)  any other relevant consideration.<o:p></o:p>
 
              (3)  A person (the **_insurer_**) commits an offence if:
 
@@ -1222,13 +1234,13 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code)_.
 
-Compulsory offer has no effect in certain circumstances
+Compulsory offer has no effect in certain circumstances<o:p></o:p>
 
              (7)  A compulsory offer made by an insurer for the purposes of subsection (1) ceases to have effect if the winding up of the insurer starts before the offer is accepted.
 
 Note:          An insurer must not carry on insurance business after the winding up of the insurer has started: see section 116 of the _Insurance Act 1973_.
 
-Effect of subsection (1)
+Effect of subsection (1)<o:p></o:p>
 
              (8)  Subsection (1) has effect subject to section 116 of the _Insurance Act 1973_.
 
@@ -1242,7 +1254,7 @@ Complying offer test—general
 
                      (a)  the offer is to provide medical indemnity cover for the health care professional under a contract of insurance; and
 
-                     (b)  the offer complies with subsection (2).
+                     (b)<span style="mso-tab-count: 1">  </span>the offer complies with subsection (2).<o:p></o:p>
 
 The offer must be made to the health care professional’s legal personal representative if the health care professional has died.
 
@@ -1258,7 +1270,7 @@ The offer must be made to the health care professional’s legal personal repres
 
                              (ii)  the current regulated contract (if the offer is made for the purposes of section 23); and
 
-                     (d)  the claims and incidents covered, and the exclusions from the claims and incidents covered, by the contract being offered are reasonable and appropriate having regard to:
+                     (d)<span style="mso-tab-count: 1">  </span>the claims and incidents covered, and the exclusions from the claims and incidents covered, by the contract being offered are reasonable and appropriate having regard to:<o:p></o:p>
 
                               (i)  the nature of the health care provided by the health care professional during the period or periods during which the incidents covered by the contract occurred; and
 
@@ -1315,6 +1327,8 @@ Definitions
                      (c)  the period for which the offer must be open for acceptance by the health care professional; and
 
                      (d)  the time from which the contract that results from the offer is to have effect if the offer is accepted.
+
+<o:p> </o:p>
 
 ### Division 2A—Provision of run-off cover to certain medical practitioners
 
@@ -1384,7 +1398,7 @@ Practitioner etc. need not apply for medical indemnity cover
 
              (7)  The obligation under subsection (1) to provide medical indemnity cover applies whether or not the practitioner, or any other person, has applied to the insurer for the medical indemnity cover.
 
-Effect of subsection (1)
+Effect of subsection (1)<o:p></o:p>
 
              (8)  Subsection (1) has effect subject to section 116 of the _Insurance Act 1973_.
 
@@ -1498,7 +1512,7 @@ Practitioner etc. need not apply for medical indemnity cover
 
              (3)  The obligation under subsection (1) to provide medical indemnity cover applies whether or not the practitioner, or any other person, has applied to the insurer for the medical indemnity cover.
 
-Effect of subsection (1)
+Effect of subsection (1)<o:p></o:p>
 
              (4)  Subsection (1) has effect subject to section 116 of the _Insurance Act 1973_.
 
@@ -1586,13 +1600,15 @@ under which the medical indemnity cover is provided.
 
              (2)  This section does not affect the meaning of any other offence against this Act.
 
+<o:p> </o:p>
+
 ### Division 3—Intermediary’s responsibilities
 
 ##### <a id="27"></a>27  Intermediary’s responsibilities
 
              (1)  A person (the **_intermediary_**) commits an offence if:
 
-                     (a)  the intermediary provides a financial service on or after 1 July 2003; and
+                     (a)  the intermediary provides a financial service on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
 
                      (b)  in the course of providing that service, the intermediary:
 
@@ -1616,6 +1632,8 @@ Note:          A defendant bears an evidential burden in relat
 
              (4)  To avoid doubt, the intermediary commits the offence whether or not the insurer commits, or would commit, an offence against subsection 17(2), 18(3), 19(3) or 22(1).
 
+<o:p> </o:p>
+
 ## Part 4—Administration
 
 ##### <a id="28"></a>28  APRA to have general administration of Part 2
@@ -1634,17 +1652,19 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  The Minister may give ASIC directions about the performance or exercise of its functions or powers under Part 3.
 
+<o:p> </o:p>
+
 ## Part 5—Miscellaneous
 
 ##### <a id="31"></a>31  Anti-avoidance measures
 
              (1)  If:
 
-                     (a)  before 1 July 2003, a person entered into an arrangement under which the person provides medical indemnity cover for a health care professional; and
+                     (a)  before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>, a person entered into an arrangement under which the person provides medical indemnity cover for a health care professional; and
 
                      (b)  the sole or dominant purpose, or a substantial purpose, of the person in entering into the arrangement at that time was to avoid having a provision or provisions of this Act apply to the arrangement;
 
-the arrangement is to be treated, for the purposes of this Act, as if it had been entered into on or after 1 July 2003.
+the arrangement is to be treated, for the purposes of this Act, as if it had been entered into on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>.
 
              (2)  If:
 
@@ -1652,15 +1672,15 @@ the arrangement is to be treated, for the purposes of this Act, as if it had bee
 
                      (b)  the sole or dominant purpose, or a substantial purpose, of the person in having the arrangement come into effect at that time was to avoid having a provision or provisions of this Act apply to the arrangement;
 
-the arrangement is to be treated, for the purposes of this Act, as if it had come into effect on or after 1 July 2003.
+the arrangement is to be treated, for the purposes of this Act, as if it had come into effect on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>.
 
              (3)  If:
 
-                     (a)  an arrangement under which a person provides medical indemnity cover for a health care professional was renewed before 1 July 2003; and
+                     (a)  an arrangement under which a person provides medical indemnity cover for a health care professional was renewed before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
 
                      (b)  the sole or dominant purpose, or a substantial purpose, of the person in having the arrangement renewed at that time was to avoid having a provision or provisions of this Act apply to the arrangement;
 
-the arrangement is to be treated, for the purposes of this Act, as if it had been renewed on or after 1 July 2003.
+the arrangement is to be treated, for the purposes of this Act, as if it had been renewed on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>.
 
 ##### <a id="32"></a>32  Act not to affect State and Territory laws
 
@@ -1677,7 +1697,7 @@ the arrangement is to be treated, for the purposes of this Act, as if it had bee
              (2)  The regulations may prescribe penalties not exceeding a fine of 10 penalty units for offences against the regulations.
 
 
-# Notes to the _Medical Indemnity (Prudential Supervision and Product Standards) Act 2003_
+# Notes to the _<span style="mso-no-proof: yes">Medical Indemnity (Prudential Supervision and Product Standards) Act 2003</span>_
 
 ### Note 1
 
@@ -1697,42 +1717,42 @@ The _Medical Indemnity (Prudential Supervision and Product Standards) Act 2003_ 
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year 
+and year <o:p></o:p> 
  </div>
     </td>
     <td>
       <div>Date 
-of Assent 
+of Assent <o:p></o:p> 
  </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>
-      <div>Medical Indemnity (Prudential Supervision and Product Standards) Act 2003</div>
+      <div>Medical Indemnity (Prudential Supervision and Product Standards) Act 2003 <o:p></o:p></div>
     </td>
     <td>
       <div>37, 2003</div>
     </td>
     <td>
-      <div>2 May 2003</div>
+      <div>2 May 2003</div>
     </td>
     <td>
-      <div>1 July 2003</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
@@ -1743,13 +1763,13 @@ of Assent
       <div>77, 2004</div>
     </td>
     <td>
-      <div>23 June 2004</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="23" month="6">23 June 2004</st1:date></div>
     </td>
     <td>
-      <div>Schedule 1 (item 36): 1 July 2004 
-Schedule 3: <i>(a)</i> 
-Schedule 6 (items 7–9): <i>(a)</i> 
-Schedule 6 (items 10–13): Royal Assent 
+      <div>Schedule 1 (item 36): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="1" month="7">1 July 2004</st1:date> 
+Schedule 3: <i style="mso-bidi-font-style: normal">(a)</i> 
+Schedule 6 (items 7–9): <i style="mso-bidi-font-style: normal">(a)</i> 
+Schedule 6 (items 10–13): Royal Assent 
 
 </div>
     </td>
@@ -1765,27 +1785,10 @@ Schedule 6 (items 10–13): Royal Assent
       <div>25, 2005</div>
     </td>
     <td>
-      <div>21 Mar 2005</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="21" month="3">21 Mar 2005</st1:date></div>
     </td>
     <td>
-      <div>Schedule 1 (items 15, 16): 22 Mar 2005</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Human Services Legislation Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>111, 2005</div>
-    </td>
-    <td>
-      <div>6 Sept 2005</div>
-    </td>
-    <td>
-      <div>Schedule 2 (item 550): \[ <i>see</i>Note 2]</div>
+      <div>Schedule 1 (items 15, 16): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="3">22 Mar 2005</st1:date></div>
     </td>
     <td>
       <div>—</div>
@@ -1794,9 +1797,11 @@ Schedule 6 (items 10–13): Royal Assent
 </tbody></table>
 
 
-_(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004_ provides as follows:
+_(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004_ provides as follows:<o:p></o:p>
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<o:p> </o:p>
 
 <table>
 <colgroup>
@@ -1812,6 +1817,9 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
         <b>
           Commencement information
         </b>
+
+          <o:p></o:p>
+
       </div>
     </td>
   </tr>
@@ -1821,6 +1829,9 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
         <b>
           Column 1
         </b>
+
+          <o:p></o:p>
+
       </div>
     </td>
     <td>
@@ -1828,6 +1839,9 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
         <b>
           Column 2
         </b>
+
+          <o:p></o:p>
+
       </div>
     </td>
     <td>
@@ -1835,6 +1849,9 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
         <b>
           Column 3
         </b>
+
+          <o:p></o:p>
+
       </div>
     </td>
   </tr>
@@ -1844,6 +1861,9 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
         <b>
           Provision(s)
         </b>
+
+          <o:p></o:p>
+
       </div>
     </td>
     <td>
@@ -1851,6 +1871,9 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
         <b>
           Commencement
         </b>
+
+          <o:p></o:p>
+
       </div>
     </td>
     <td>
@@ -1858,6 +1881,9 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
         <b>
           Date/Details
         </b>
+
+          <o:p></o:p>
+
       </div>
     </td>
   </tr>
@@ -1866,28 +1892,42 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
   <tr>
     <td>
       <div>
-        8\. Schedule 3
+        8.
+          <span style="mso-spacerun: yes"></span>Schedule 3
+          <o:p></o:p>
+
       </div>
     </td>
     <td>
       <div>
         The later of:
+          <o:p></o:p>
+
       </div>
       <div>
         (a) the day after the day on which this Act receives the Royal Assent;
           and
+          <o:p></o:p>
+
       </div>
       <div>
         (b)
-        1 July 2004
+        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="1" month="7">
+          1 July 2004
+        </st1:date>
         .
+          <o:p></o:p>
+
       </div>
     </td>
     <td>
       <div>
-        1 July 2004
+        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="1" month="7">
+          1 July 2004
+        </st1:date>
 
-(paragraph (b) applies)
+(paragraph (b) applies)
+          <o:p></o:p>
 
       </div>
     </td>
@@ -1895,18 +1935,28 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
   <tr>
     <td>
       <div>
-        16\. Schedule 6, items 7 to 9
+        16.
+          <span style="mso-spacerun: yes"></span>Schedule 6, items 7 to 9
+          <o:p></o:p>
+
       </div>
     </td>
     <td>
       <div>
         Immediately after the commencement of the
-          <i>Medical Indemnity (Prudential Supervision and Product Standards) Act 2003</i>.
+          <i style="mso-bidi-font-style: normal">Medical Indemnity (Prudential Supervision and Product Standards) Act 2003</i>.
+          <o:p></o:p>
+
       </div>
     </td>
     <td>
       <div>
-        1 July 2003
+        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">
+          1 July 2003
+        </st1:date>
+
+          <o:p></o:p>
+
       </div>
     </td>
   </tr>
@@ -1921,232 +1971,213 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
   <col width="68%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
 <tbody>
   <tr>
-    <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div></div>
+    <td colspan="2">
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted <o:p></o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Division 2</b></div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4</div>
-    </td>
-    <td>
-      <div>am. No. 77, 2004</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 7A</div>
+      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>ad. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Division 1</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 10, 11</div>
-    </td>
-    <td>
-      <div>am. No. 77, 2004</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 3</b></div>
+      <div>S. 4 </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>am. No. 77, 2004</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 20</div>
+      <div>S. 7A </div>
     </td>
     <td>
-      <div>am. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>ad. No. 77, 2004</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Subdivision B</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 2 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22</div>
-    </td>
-    <td>
-      <div>am. No. 77, 2004</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 24</div>
+      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>am. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 25</div>
-    </td>
-    <td>
-      <div>rep. No. 77, 2004</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 26</div>
+      <div>Ss. 10, 11 </div>
     </td>
     <td>
-      <div>am. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2A</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>am. No. 77, 2004</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Div. 2A of Part 3</div>
+      <div><b style="mso-bidi-font-weight: normal">Part 3 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>ad. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 26A</div>
-    </td>
-    <td>
-      <div>ad. No. 77, 2004</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div></div>
+      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>am. No. 25, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 26B, 26C</div>
-    </td>
-    <td>
-      <div>ad. No. 77, 2004</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 26D</div>
+      <div>S. 20 </div>
     </td>
     <td>
-      <div>ad. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 25, 2005</div>
+      <div>am. No. 77, 2004</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Ss. 26E–26G</div>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>ad. No. 77, 2004</div>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subdivision B <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22 </div>
+    </td>
+    <td>
+      <div>am. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24 </div>
+    </td>
+    <td>
+      <div>am. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25 </div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26 </div>
+    </td>
+    <td>
+      <div>am. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 2A <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 2A of Part 3 </div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26A </div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 25, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 26B, 26C </div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26D </div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 25, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 26E–26G </div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2004</div>
     </td>
   </tr>
 </tbody></table>
 
 
-### Note 2
-
-_Human Services Legislation Amendment Act 2005 (No. 111, 2005)_
-
-The following amendment commences on 6 March 2006 unless proclaimed earlier:
-
-## Schedule 2
-
-## 550  Paragraph 26D(2)(b)
-
-Omit “Health Insurance Commission”, substitute “Chief Executive Officer of Medicare Australia”.
-
-As at 9 September 2005 the amendment is not incorporated in this compilation.
-
-
- 
-
- 
+<o:p> </o:p>
