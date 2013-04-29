@@ -1,311 +1,396 @@
-![](http://www.comlaw.gov.au/Details/C2007C00054/Html/EnvirProtNTSupCrt78_image001.gif)
+**
 
-# Environment Protection (Northern Territory Supreme Court) Act 1978
+###  ENVIRONMENT PROTECTION (NORTHERN TERRITORY SUPREME COURT) ACT 1978 
+**
 
-**Act No. 30 of 1978 as amended**
 
-This compilation was prepared on 8 January 2007
- taking into account amendments up to Act No. 165 of 2006
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation                                                                                       1
+**
 
-[4](#4).            Jurisdiction of Supreme Court                                                             3
+###  Long Title 
+**
+###  ENVIRONMENT PROTECTION (NORTHERN TERRITORY SUPREME COURT) ACT 1978- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-[5](#5).            Exercise of jurisdiction                                                                         3
+		This Act may be cited as the _Environment Protection (Northern Territory Supreme Court) Act 1978_.
 
-[6](#6).            Saving                                                                                                   4
+ </dl>
+###  ENVIRONMENT PROTECTION (NORTHERN TERRITORY SUPREME COURT) ACT 1978- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-**Notes** 
+		This Act shall come into operation on the day on which it receives the Royal
 
-## An Act relating to the enforcement by the Supreme Court of the Northern Territory of Australia of certain provisions for the protection of the environment in the Alligator Rivers Region
+Assent.
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+ </dl>
+###  ENVIRONMENT PROTECTION (NORTHERN TERRITORY SUPREME COURT) ACT 1978- SECT 3  Interpretation 
+<dl compact="">
 
-                   This Act may be cited as the _Environment Protection (__Northern Territory__Supreme Court) Act 1978_.
+		In this Act, unless the contrary intention appears:
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+ </dl>
+<dl compact=""><dl compact="">
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+_Alligator Rivers Region_ has the same meaning as in the
 
-##### <a id="3"></a>3  Interpretation
+_Environment Protection (Alligator Rivers Region) Act 1978_. _Commission_ means the Conservation Commission of the Northern Territory, being the body corporate established under that name by the _Conservation Commission Act 1980_ of the Northern Territory. _Director_ has the meaning given by the _Environment Protection and Biodiversity Conservation Act 1999_. _ecosystem_ means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit. _environment_ includes:  </dl></dl>
 
-                   In this Act, unless the contrary intention appears:
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="allig-river-region"></a>**_Alligator Rivers Region_** has the same meaning as in the _Environment Protection (Alligator Rivers Region) Act 1978_.
+<dt>(a)</dt><dd>ecosystems and their constituent parts, including people and communities;
 
-                    <a name="commiss"></a>**_Commission_** means the Conservation Commission of the Northern Territory, being the body corporate established under that name by the _Conservation Commission Act 1980_ of the Northern Territory.
+and</dd>
 
-                    <a name="director"></a>**_Director_** has the meaning given by the _Environment Protection and Biodiversity Conservation Act 1999_.
+<dt>(b)</dt><dd>natural and physical resources; and</dd>
 
-                    <a name="ecosystem"></a>**_ecosystem_** means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit.
+<dt>(c)</dt><dd>the qualities and characteristics of locations, places and areas; and</dd>
 
-                    <a name="environ"></a>**_environment_** includes:
+<dt>(d)</dt><dd>the social, economic and cultural aspects of a thing mentioned in
 
-                     (a)  ecosystems and their constituent parts, including people and communities; and
+paragraph (a), (b) or (c).
 
-                     (b)  natural and physical resources; and
+</dd>
 
-                     (c)  the qualities and characteristics of locations, places and areas; and
+</dl></dl></dl>
 
-                     (d)  the social, economic and cultural aspects of a thing mentioned in paragraph (a), (b) or (c).
+<def><dl compact=""><dl compact="">
 
-                    <a name="land-council"></a>**_Land Council_** means an Aboriginal Land Council established under the _Aboriginal Land Rights (Northern Territory) Act 1976_ for an area that is, in whole or in part, within the Alligator Rivers Region.
+_Land Council_ means an Aboriginal Land Council established under
 
-                    <a name="person"></a>**_person_** includes the Commonwealth, the Director or any other authority or body appointed or created by or under a law of the Commonwealth or the Northern Territory and also includes a Land Council.
+the _Aboriginal Land Rights (Northern Territory) Act 1976_ for an area
 
-                    <a name="prescrib-instrum"></a>**_prescribed instrument_** means any of the following, whether in force at the commencement of this Act or coming into force after that commencement:
+that is, in whole or in part, within the Alligator Rivers Region. _person_ includes the Commonwealth, the Director or any other authority or body appointed or created by or under a law of the Commonwealth or the Northern Territory and also includes a Land Council. _prescribed instrument_ means any of the following, whether in force at the commencement of this Act or coming into force after that commencement:  </dl></dl>
 
-                     (a)  a law of the Commonwealth or of the Northern Territory;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  an instrument made, granted or issued under or for the purposes of any  such law, including:
+<dt>(a)</dt><dd>a law of the Commonwealth or of the Northern Territory;</dd>
 
-                              (i)  a permit, licence or lease under any such law; and
+<dt>(b)</dt><dd>an instrument made, granted or issued under or for the purposes of any
 
-                             (ii)  an authority under section 41 of the _Atomic Energy Act 1953_; and
+such law, including:
 
-                            (iii)  an agreement under Part IV of the _Aboriginal__Land__Rights (__Northern   Territory__) Act 1976_; and
+</dd>
 
-                            (iv)  an instrument giving the approval of the Governor-General under paragraph 355(1)(a) of the _Environment Protection and Biodiversity Conservation Act 1999_.
+</dl></dl></dl>
 
-                    <a name="requir"></a>**_requirement_** means an obligation, condition, restriction or prohibition.
+<center>Back to Top</center>
 
-                    <a name="uranium-mine-oper"></a>**_uranium mining operations_** means any operations or activities for or in connexion with, or incidental to, the mining (whether by underground or surface working) or recovery of uranium-bearing ore or the production of material from that ore and, in particular, without limiting the generality of the foregoing, includes:
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  prospecting and exploration for uranium-bearing ore, the milling, refining, treatment and processing of uranium-bearing ore and the handling, transportation, storage and disposal of uranium-bearing ore and of material produced from uranium-bearing ore; and
+<dt>(i)</dt><dd>a permit, licence or lease under any such law; and</dd>
 
-                     (b)  the construction and use of towns, camps, dams, pipelines, power lines or other structures, and the performance of any other work, for the purposes of any such operations or activities. 
+<dt>(ii)</dt><dd>an authority under section 41 of the _Atomic Energy Act 1953_; and</dd>
 
-##### <a id="4"></a>4  Jurisdiction of Supreme Court
+<dt>(iii)</dt><dd>an agreement under Part IV of the _Aboriginal Land Rights (Northern Territory) Act 1976_; and</dd>
 
-             (1)  The Supreme Court of the Northern Territory of Australia has jurisdiction, at the suit of the Director, the Commission or a Land Council, to make orders for or in relation to the enforcement, in relation to uranium mining operations in the Alligator Rivers Region, of any requirement of or having effect under a prescribed instrument, so far as the requirement relates to any matter affecting the environment in that region.
+<dt>(iv)</dt><dd>an instrument giving the approval of the Governor-General under paragraph
 
-             (2)  A Land Council is not entitled to maintain a suit by virtue of this section unless the matter in relation to which the requirement is sought to be enforced is a matter affecting the environment in a part of the Alligator Rivers Region that is included in the area for which that Land Council is established and is Aboriginal land within the meaning of the _Aboriginal Land Rights (Northern Territory) Act 1976_.
+355(1)(a) of the _Environment Protection and Biodiversity Conservation Act 1999_.
 
-             (3)  The Director or the Commission is not entitled to maintain a suit by virtue of this section unless the matter in relation to which the requirement is sought to be enforced is a matter affecting the environment in a part of the Alligator Rivers Region that is included in a Commonwealth reserve or conservation zone under Part 15 of the _Environment Protection and Biodiversity Conservation Act 1999._ 
+</dd>
 
-##### <a id="5"></a>5  Exercise of jurisdiction
+</dl></dl></dl></dl>
 
-                   In the exercise of its jurisdiction under this Act, the Supreme Court may, in its discretion and having regard to all the circumstances, make such orders of such kinds as it thinks appropriate and, in particular, may:
+<def><dl compact=""><dl compact="">
 
-                     (a)  make an order in the nature of an injunction (including a mandatory injunction);
+_requirement_ means an obligation, condition, restriction or
 
-                     (b)  where detriment to the environment in the Alligator Rivers Region has been, is being or is likely to be caused by a contravention by a person of, or failure by a person to comply with, a requirement referred to in subsection 4(1) that has occurred, make an order of one or more of the following kinds:
+prohibition. _uranium mining operations_ means any operations or activities for or in connexion with, or incidental to, the mining (whether by underground or surface working) or recovery of uranium-bearing ore or the production of material from that ore and, in particular, without limiting the generality of the foregoing, includes:  </dl></dl>
 
-                              (i)  an order requiring that person to carry out work or take other action for the purpose of remedying the contravention or failure, or preventing, remedying or ameliorating the detriment;
+<dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  an order authorizing or approving the carrying out or doing of work or any other thing by another person for a purpose referred to in subparagraph (i);
+<dt>(a)</dt><dd>prospecting and exploration for uranium-bearing ore, the milling,
 
-                            (iii)  an order requiring the first-mentioned person to pay or reimburse the whole or any part of the cost of the carrying out or doing of work or any other thing in accordance with such an authorization or approval;
+refining, treatment and processing of uranium-bearing ore and the handling,
 
-                     (c)  include in an order any provisions that it considers necessary for the purposes of the order;
+transportation, storage and disposal of uranium-bearing ore and of material
 
-                     (d)  make an interim order;
+produced from uranium-bearing ore; and</dd>
 
-                     (e)  make an order notwithstanding the existence of any other civil or criminal remedy; and
+<dt>(b)</dt><dd>the construction and use of towns, camps, dams, pipelines, power lines or
 
-                      (f)  suspend, vary or revoke an order.
+other structures, and the performance of any other work, for the purposes of
 
-##### <a id="6"></a>6  Saving
+any such operations or activities.
 
-                   This Act does not prejudice any jurisdiction of the Supreme Court, any right of action of the Director, the Commission, a Land Council or any other person, or any civil or criminal liability of a person, apart from this Act.
+</dd>
 
-# Notes to the _Environment Protection (Northern Territory Supreme Court) Act 1978_
+</dl></dl></dl>
 
-### Note 1
+**
 
-The _Environment Protection (__Northern Territory__Supreme Court) Act 1978_ as shown in this compilation comprises Act No. 30, 1978 amended as indicated in the Tables below.
+###  ENVIRONMENT PROTECTION (NORTHERN TERRITORY SUPREME COURT) ACT 1978- SECT 4  Jurisdiction of Supreme Court 
+**
 
-### Table of Acts
+ <dl compact=""><dl compact="">
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+<dt>(1)</dt><dd>The Supreme Court of the Northern Territory of Australia has jurisdiction,
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+at the suit of the Director, the Commission or a Land Council, to make orders
+
+for or in relation to the enforcement, in relation to uranium mining operations
+
+in the Alligator Rivers Region, of any requirement of or having effect under a
+
+prescribed instrument, so far as the requirement relates to any matter
+
+affecting the environment in that region.</dd> <dt>(2)</dt><dd>A Land Council is not entitled to maintain a suit by virtue of this section unless the matter in relation to which the requirement is sought to be enforced is a matter affecting the environment in a part of the Alligator Rivers Region that is included in the area for which that Land Council is established and is Aboriginal land within the meaning of the _Aboriginal Land Rights (Northern Territory) Act 1976_.</dd> <dt>(3)</dt><dd>The Director or the Commission is not entitled to maintain a suit by virtue of this section unless the matter in relation to which the requirement is sought to be enforced is a matter affecting the environment in a part of the Alligator Rivers Region that is included in a Commonwealth reserve or conservation zone under Part 15 of the _Environment Protection and Biodiversity Conservation Act 1999._ </dd> </dl></dl>
+
+**
+
+###  ENVIRONMENT PROTECTION (NORTHERN TERRITORY SUPREME COURT) ACT 1978- SECT 5  Exercise of jurisdiction 
+**
+
+ <dl compact=""><dl compact="">
+
+		In the exercise of its jurisdiction under this Act, the Supreme Court may, in
+
+its discretion and having regard to all the circumstances, make such orders of
+
+such kinds as it thinks appropriate and, in particular, may:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>make an order in the nature of an injunction (including a mandatory
+
+injunction);</dd>
+
+<dt>(b)</dt><dd>where detriment to the environment in the Alligator Rivers Region has
+
+been, is being or is likely to be caused by a contravention by a person of, or
+
+failure by a person to comply with, a requirement referred to in subsection
+
+4(1) that has occurred, make an order of one or more of the following kinds:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>an order requiring that person to carry out work or take other action for
+
+the purpose of remedying the contravention or failure, or preventing, remedying
+
+or ameliorating the detriment;</dd>
+
+<dt>(ii)</dt><dd>an order authorizing or approving the carrying out or doing of work or
+
+any other thing by another person for a purpose referred to in subparagraph
+
+(i);</dd>
+
+<dt>(iii)</dt><dd>an order requiring the first-mentioned person to pay or reimburse the
+
+whole or any part of the cost of the carrying out or doing of work or any other
+
+thing in accordance with such an authorization or approval;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>include in an order any provisions that it considers necessary for the
+
+purposes of the order;</dd>
+
+<dt>(d)</dt><dd>make an interim order;</dd>
+
+<dt>(e)</dt><dd>make an order notwithstanding the existence of any other civil or criminal
+
+remedy; and</dd>
+
+<dt>(f)</dt><dd>suspend, vary or revoke an order.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  ENVIRONMENT PROTECTION (NORTHERN TERRITORY SUPREME COURT) ACT 1978- SECT 6  Saving 
+**
+
+ <dl compact=""><dl compact="">
+
+		This Act does not prejudice any jurisdiction of the Supreme Court, any right
+
+of action of the Director, the Commission, a Land Council or any other person,
+
+or any civil or criminal liability of a person, apart from this Act.
+
+ </dl></dl>
+
+<center>**
+
+###  ENVIRONMENT PROTECTION (NORTHERN TERRITORY SUPREME COURT) ACT 1978<centreit>Notes to the _Environment Protection (Northern Territory Supreme Court) Act 1978_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Environment Protection (Northern Territory Supreme Court) Act 1978_ as shown in this compilation comprises Act No. 30, 1978 amended as indicated in the Tables below.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Environment Protection (Northern Territory Supreme Court) Act 1978</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Environment Protection (Northern Territory Supreme Court) Act 1978</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>30, 1978</div>
+
   </td>
-  <td>
-    <div>9 June 1978</div>
+  <td colspan="1" align="left">
+    <div>9 June 1978</div>
+
   </td>
-  <td>
-    <div>9 June 1978</div>
+  <td colspan="1" align="left">
+    <div>9 June 1978</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1983</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law (Miscellaneous Provisions) Act (No. 2) 1983</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>91, 1983</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>22 Nov 1983</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 3: 20 Dec 1983 <i>(a) 
-
  </i></div>
+
   </td>
-  <td>
-    <div>Ss. 2(14) and 6(1)</div>
+  <td colspan="1" align="left">
+    <div>Ss. 2(14) and&#160;6(1)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Environmental Reform (Consequential Provisions) Act 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Environmental Reform (Consequential Provisions) Act 1999</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>92, 1999</div>
+
   </td>
-  <td>
-    <div>16 July 1999</div>
+  <td colspan="1" align="left">
+    <div>16 July 1999</div>
+
   </td>
-  <td>
-    <div>Schedule 4 (items 55–59) and Schedule 7 (items 9, 10): 16 July 2000 <i>(b)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 4 (items 55-59) and Schedule 7 (items&#160;9, 10): 16 July 2000 <i>(b)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr></table>_(a)_ The _Environment Protection (Northern Territory Supreme Court) Act 1978_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_,  subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act shall come into operation on the twenty-eighth day after the day which it receives the Royal Assent.
+
+_(b)_ The _Environment Protection (Northern Territory Supreme Court) Act 1978_ was amended by Schedule 4 (items 55-59) and Schedule 7 (items 9 and 10) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
+
+	(1)	Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences.
+
+**Table of Amendments**
+
+<table><tr align="center">
+  <td colspan="1" align="center">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Environment and Heritage Legislation Amendment Act (No. 1) 2006</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
   </td>
-  <td>
-    <div>165, 2006</div>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
   </td>
-  <td>
-    <div>12 Dec 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 850, 851): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_ The _Environment Protection (__Northern   Territory__Supreme Court) Act 1978_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_,  subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day which it receives the Royal Assent.
-
-_(b)_ The _Environment Protection (__Northern   Territory__Supreme Court) Act 1978_ was amended by Schedule 4 (items 55–59) and Schedule 7 (items 9 and 10) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences.
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
-  <td>
-    <div>am. No. 91, 1983; No. 92, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No. 91, 1983; No. 92, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
   </td>
-  <td>
-    <div>am. No. 92, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No. 92, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> </div>
+  <td colspan="1" align="left">
+
   </td>
 </tr></table>
 
-### Note 2
+</def>
 
-_Environment and Heritage Legislation Amendment Act (No. 1) 2006
- (No. 165, 2006)_
+</def>
 
-The following amendments commence on 12 June 2007 unless proclaimed earlier:
 
-## Schedule 1
-
-## 850  Section 3 (subparagraph (b)(iii) of the definition of _prescribed instrument_)
-
-Omit “_1976_; and”, substitute “_1976_.”.
-
-## 851  Section 3 (subparagraph (b)(iv) of the definition of _prescribed instrument_)
-
-Repeal the subparagraph.
-
-As at 8 January 2007 the amendments are not incorporated in this compilation.
-
- 
