@@ -1,19 +1,16 @@
 
 High Court of Australia Act 1979
 Act No. 137 of 1979 as amended
-This compilation was prepared on 7 March 2000 taking into account amendments up to Act No. 146 of 1999
-The text of any of those amendments not in force  on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-  
-  
-  
+Consolidated as in force on 29 October 1999
+(includes amendments up to Act No. 125 of 1999)
+Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
 Contents
 Part I—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Repeal	1
 4	Interpretation	1
-Part II—Constitution and seat of the High Court	4
+Part II—Constitution and Seat of the High Court	4
 Division 1—Justices of the High Court	4
 5	The High Court	4
 6	Consultation with State Attorneys‑General on appointment of Justices	4
@@ -23,9 +20,9 @@ Division 1—Justices of the High Court	4
 10	Justices not to hold other office	5
 11	Oath or affirmation of allegiance and of office	5
 12	Salary and allowances	5
-13	 Appropriation	5
+13	 Appropriation	6
 Division 2—Seat of the High Court	6
-14	Seat [see Note 2]	6
+14	Seat	6
 15	Places of sittings	6
 16	Judgment may be pronounced at any sitting	6
 Part III—Administration of the High Court	7
@@ -40,36 +37,37 @@ Part III—Administration of the High Court	7
 25	Acting Chief Executive and Principal Registrar	11
 26	Officers and employees	12
 27	Marshal and Deputy Marshals	13
-28	Certain officers may administer oaths and affirmations	13
-Part IV—Registry and procedure	14
-30	Registry	14
-31	Transfer of proceedings	15
-32	Seals	15
-33	Writs etc.	15
-34	Date of process	16
-Part V—Finance	17
-35	Moneys appropriated for the Court	17
-36	Estimates	17
-37	Application of moneys appropriated for the Court	17
-38	Trust moneys	17
-39	Other moneys	18
-40	Limitation on contracts	18
-41	Accounts with ADIs	18
-42	Proper accounts to be kept	18
-43	Audit	19
-44	Exemption from taxation	20
-Part VI—Miscellaneous	21
-45	Proceedings in respect of administration of the Court	21
-46	Exercise of powers of the Court in administrative matters	21
-47	Annual reports and financial statements	21
-48	Rules of Court	22
-49	Regulations	22
-Schedule	23
+28	Certain officers may administer oaths and affirmations	14
+Part IV—Registry and Procedure	15
+30	Registry	15
+31	Transfer of proceedings	16
+32	Seals	16
+33	Writs etc.	16
+34	Date of process	17
+Part V—Finance	18
+35	Moneys appropriated for the Court	18
+36	Estimates	18
+37	Application of moneys appropriated for the Court	18
+38	Trust moneys	18
+39	Other moneys	19
+40	Limitation on contracts	19
+41	Accounts with ADIs	19
+42	Proper accounts to be kept	19
+43	Audit	20
+44	Exemption from taxation	21
+Part VI—Miscellaneous	22
+45	Proceedings in respect of administration of the Court	22
+46	Exercise of powers of the Court in administrative matters	22
+47	Annual reports and financial statements	22
+48	Rules of Court	23
+49	Regulations	23
+Schedule	24
 Notes		25
 
 To make provision with respect to the High Court of Australia
+Do not delete : Chapter placeholder
 Part I—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the High Court of Australia Act 1979.
 2  Commencement [see Note 1]
@@ -107,7 +105,7 @@ proceeding means any proceeding in the Court whether civil or criminal and wheth
 Rules of Court means Rules of Court under section 86 of the Judiciary Act 1903.
 Senior Registrar means the Senior Registrar of the Court appointed under subsection 26(1).
 	(2)	Any reference in this Act to moneys or property does not include a reference to moneys or property received by the High Court in connection with a proceeding.
-
+
 Part II—Constitution and seat of the High Court
 Division 1—Justices of the High Court
 5  The High Court
@@ -135,7 +133,7 @@ the next senior Justice who is in Australia and is able and willing to do so sha
 	(3)	The Chief Justice and the other Justices shall receive such respective allowances in respect of travelling expenses as are provided by the Parliament.
 13   Appropriation
 		The salaries, annual allowances and other allowances referred to in section 12 are payable out of the Consolidated Revenue Fund, which, to the necessary extent, is appropriated accordingly.
-
+
 Division 2—Seat of the High Court
 14  Seat [see Note 2]
 		On and after a date to be fixed by Proclamation, the seat of the High Court shall be at the seat of Government in the Australian Capital Territory.
@@ -143,9 +141,9 @@ Division 2—Seat of the High Court
 		Sittings of the High Court shall be held from time to time as required at the seat of the Court but the Court may sit at other places within Australia and the external Territories.
 16  Judgment may be pronounced at any sitting
 		The High Court may pronounce judgment at a sitting of the Court held at a place other than the place at which the relevant proceeding was held by the Court.
-
+
 Part III—Administration of the High Court
-  
+Do not delete : Division placeholder
 17  Administration of the Court
 	(1)	The High Court shall administer its own affairs subject to, and in accordance with, this Act.
 	(2)	The Court has power for the purposes of the Court to do all things that are necessary or convenient to be done for or in connection with the administration of its affairs and, without limiting the generality of the foregoing, has power:
@@ -184,7 +182,7 @@ Penalty:	$100.
 	(3)	This section has effect subject to the Remuneration Tribunal Act 1973.
 	(4)	Subsection 7(9) of the Remuneration Tribunal Act 1973 has effect in relation to the remuneration and allowances payable to the Chief Executive and Principal Registrar, as if the High Court were a public statutory corporation and the Chief Executive and Principal Registrar held an office in the service of that corporation.
 22  Leave of absence
-	(1)	The Chief Executive and Principal Registrar has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+	(1)	Subject to section 87E of the Public Service Act 1922, the Chief Executive and Principal Registrar has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 	(2)	The High Court may grant the Chief Executive and Principal Registrar leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Court determines.
 23  Resignation
 		The Chief Executive and Principal Registrar may resign his or her office by writing signed by him or her and delivered to the Governor‑General.
@@ -203,7 +201,7 @@ the Governor‑General shall terminate the appointment of the Chief Executive an
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 	(2)	An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of his or her appointment.
 	(3)	The Court may:
-	(a)	determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as Chief Executive and Principal Registrar; and
+	(a)	with the concurrence of the Public Service Board, determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as Chief Executive and Principal Registrar; and
 	(b)	terminate such an appointment at any time.
 	(4)	Where a person is acting as Chief Executive and Principal Registrar in accordance with paragraph (1)(b) and the office of Chief Executive and Principal Registrar becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Court otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 	(5)	The appointment of a person to act as Chief Executive and Principal Registrar ceases to have effect if he or she resigns his or her office by writing signed by him or her and delivered to the Chief Justice.
@@ -214,7 +212,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 	(3)	The Chief Executive and Principal Registrar may engage such employees as the Court considers necessary for the purposes of the Court.
 	(4)	The terms and conditions of employment (including terms and conditions as to remuneration and allowances) of officers or employees appointed or engaged in accordance with this section are such as are determined by the Court.
 	(5)	An appointment under subsection (1) is not a public office for the purposes of the Remuneration Tribunal Act 1973.
-	(6)	The Chief Executive and Principal Registrar may, on behalf of the Court, arrange with an Agency Head within the meaning of the Public Service Act 1999, or with an authority of the Commonwealth, for the services of officers or employees of the Agency or of the authority, as the case may be, to be made available for the purposes of the Court.
+	(6)	The Chief Executive and Principal Registrar may, on behalf of the Court, arrange with the Secretary of a Department of the Australian Public Service, or with an authority of the Commonwealth, for the services of officers or employees of the Department or of the authority, as the case may be, to be made available for the purposes of the Court.
 	(7)	The Senior Registrar and Deputy Registrars are to perform such duties in respect of proceedings in the Court as are assigned to them by Rules of Court, by an order of the Court or by the Chief Executive and Principal Registrar.
 27  Marshal and Deputy Marshals
 	(1)	The Marshal:
@@ -227,9 +225,9 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 	(6)	A copy of an arrangement made under subsection (5) shall be published in the Gazette.
 28  Certain officers may administer oaths and affirmations
 		The Chief Executive and Principal Registrar, the Senior Registrar, the Deputy Registrars and any other persons authorized by Rules of Court may administer oaths and affirmations for the purposes of any proceedings in the Court.
-
+
 Part IV—Registry and procedure
-  
+Do not delete : Division placeholder
 30  Registry
 	(1)	There shall be a Registry of the High Court, which shall be at the seat of the Court.
 	(2)	The Registry shall be under the control of the Chief Executive and Principal Registrar.
@@ -261,9 +259,9 @@ Part IV—Registry and procedure
 	(ii)	an officer authorized by an arrangement in force under subsection 30(4) or (5) or a person acting with the authority of such an officer.
 34  Date of process
 		All writs, commissions and process issued from the High Court shall be dated as of the day on which they are issued.
-
+
 Part V—Finance
-  
+Do not delete : Division placeholder
 35  Moneys appropriated for the Court
 	(1)	There are payable to the High Court such moneys as are appropriated by the Parliament for the purposes of the Court.
 	(2)	The Minister for Finance may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the Court.
@@ -303,9 +301,9 @@ may be expended for the purposes of the Court.
 	(7)	A person who contravenes subsection (6) is guilty of an offence and is punishable, upon conviction, by a fine not exceeding $200.
 44  Exemption from taxation
 		The High Court is not subject to taxation under any law of the Commonwealth or of a State or Territory.
-
+
 Part VI—Miscellaneous
-  
+Do not delete : Division placeholder
 45  Proceedings in respect of administration of the Court
 		Any judicial or other proceedings relating to matters arising out of the administration of the affairs of the High Court under section 17, including any proceedings relating to matters arising out of the performance of the functions or the exercise of the powers of the Chief Executive and Principal Registrar under this Act, may be instituted by or against the Commonwealth, as the case requires.
 46  Exercise of powers of the Court in administrative matters
@@ -329,15 +327,13 @@ Part VI—Miscellaneous
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 Schedule
-Section 11	
-  
-  
-I,				, do swear that I will bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law, that I will well and truly serve Her in the Office of Chief Justice [or Justice] of the High Court of Australia and that I will do right to all manner of people according to law without fear or favour, affection or ill‑will. So Help me God!
+Section 11
+I,                             , do swear that I will bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law, that I will well and truly serve Her in the Office of Chief Justice [or Justice] of the High Court of Australia and that I will do right to all manner of people according to law without fear or favour, affection or ill‑will. So Help me God!
 or
-I,				, do solemnly and sincerely promise and declare that [as above, omitting the words “So help me God!”].
+I,                     , do solemnly and sincerely promise and declare that [as above, omitting the words “So help me God!”].
 Notes to the High Court of Australia Act 1979
 Note 1
-The High Court of Australia Act 1979 as shown in this compilation comprises Act No. 137, 1979 amended as indicated in the Tables below.
+The High Court of Australia Act 1979 as shown in this consolidation comprises Act No. 137, 1979 amended as indicated in the Tables below.
 Table of Acts
 Act
 Number  and year
@@ -352,8 +348,8 @@ High Court of Australia Act 1979
 Public Service Reform Act 1984
 63, 1984
 25 June 1984
-S. 151(1): 1 July 1984 (see Gazette 1984, No. S245) (a)
-S. 151(9) 
+S.151(1): 1 July 1984 (see Gazette 1984, No. S245) (a)
+S.151(9) 
 Statute Law (Miscellaneous Provisions) Act (No. 1) 1985
 65, 1985
 5 June 1985
@@ -372,7 +368,7 @@ Lands Acquisition (Repeal and Consequential Provisions) Act 1989
 Courts and Tribunals Administration Amendment Act 1989
 157, 1989
 5 Dec 1989
-Parts 1 and 6 (ss.1, 2, 17, 18): Royal Assent Ss. 3‑16 and 19‑25: 1 Jan 1990 (see Gazette 1989, No. S398)
+Parts 1 and 6 (ss.1, 2, 17 and 18): Royal Assent Ss. 3‑16 and 19‑25: 1 Jan 1990 (see Gazette 1989, No. S398)
 —
 Industrial Relations Legislation Amendment Act 1991
 122, 1991
@@ -409,16 +405,11 @@ Law and Justice Legislation Amendment Act 1999
 13 Oct 1999
 Schedule 8: Royal Assent (f)
 —
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (items 511‑514): 5 Dec 1999 (see Gazette 1999, No. S584) (g) 
-—
 
 (a)	The High Court of Australia Act 1979 was amended by section 151(1) only of the Public Service Reform Act 1984, subsection 2(4) of which provides as follows:
-	(4)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
+	(4) 	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 (b)	The High Court of Australia Act 1979 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No.1) 1985, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+	(1) 	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
 (c)	The High Court of Australia Act 1979 was amended by Schedule 4 (items 87, 88) and Schedule 5 (items 72‑74) only of the Statute Law Revision Act 1996, subsection 2(1) provides as follows:
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 (d)	The High Court of Australia Act 1979 was amended by Schedule 16 (item 29) only of the Workplace Relations and Other Legislation Amendment Act 1996, subsections 2(2) and (3) provide as follows:
@@ -428,9 +419,6 @@ Schedule 1 (items 511‑514): 5 Dec 1999 (see Gazette 1999, No. S584) (g)
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (f)	The High Court of Australia Act 1979 was amended by Schedule 8 only of the Law and Justice Legislation Amendment Act 1999, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-(g)	The High Court of Australia Act 1979 was amended by Schedule 1 (items 511‑514) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -456,15 +444,15 @@ am. No. 13, 1994; No. 43, 1996
 S. 22	
 rs. No. 122, 1991
 
-am. No. 13, 1994; No. 146, 1999
+am. No. 13, 1994
 S. 23	
 am. No. 13, 1994; No. 43, 1996
 S. 24	
 am. No. 122, 1991; No. 13, 1994; No. 43, 1996
 S. 25	
-am. No. 13, 1994; No. 43, 1996; No. 146, 1999
+am. No. 13, 1994; No. 43, 1996
 S. 26	
-am. No. 63, 1984; No. 199, 1991; No. 13, 1994; No. 146, 1999
+am. No. 63, 1984; No. 199, 1991; No. 13, 1994
 S. 27	
 am. No. 43, 1996
 S. 28	
@@ -491,6 +479,7 @@ S. 47
 am. No. 43, 1996 
 S. 49	
 ad. No. 125, 1999 
+
 Note 2
-S. 14—The date fixed was 1 September 1980 (see Gazette 1980, No. S193).
+S. 14—Date fixed was 1 September 1980 (see Gazette  1980, No. S193)
 
