@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00383/Html/f961db10-ea5b-44d4-a239-628e3c9f7cf8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00330/Html/3ef4ffcd-4b07-48e9-96c0-41c35cc50193_files/image001.gif)
 
 # Education Services for Overseas Students (Registration Charges) Act 1997
 
 **Act No. 18 of 1997 as amended**
 
-This compilation was prepared on 29 March 2012
+This compilation was prepared on 23 March 2012
  taking into account amendments up to Act No. 10 of 2012
 
 The text of any of those amendments not in force
@@ -234,7 +234,7 @@ Indexation formula
 
              (2)  The dollar amounts specified in subsection 5(2), in regulations made under paragraph 5(7)(a), or in column 1 of the table in subsection 6(2), are to be adjusted for the current year by multiplying the amounts that applied to the year before the current year by the indexation factor worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00383/Html/f961db10-ea5b-44d4-a239-628e3c9f7cf8_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00330/Html/3ef4ffcd-4b07-48e9-96c0-41c35cc50193_files/image002.gif)
 
 where:
 
@@ -283,11 +283,11 @@ For all relevant information pertaining to application, saving or transitional p
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
+  <col width="20%">
   <col width="19%">
-  <col width="19%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -424,45 +424,11 @@ of Assent</div>
     <div>26 Sept 2011</div>
   </td>
   <td>
-    <div>Schedule 1: 31 Oct 2011 ( <i>see</i>F2011L02107) 
+    <div>Schedule 1: 31 Oct 2011 ( <i>see</i>F2011L02107) 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 14) (am. by 9, 2012, Sch. 2 \[item 88])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>9, 2012</div>
-  </td>
-  <td>
-    <div>20 Mar 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 88): \[ <i>see</i> <i>(b)</i>and Table A]</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 1 (item 14)</div>
   </td>
 </tr>
 <tr>
@@ -476,7 +442,7 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 1: \[ <i>see (c)</i>andNote 2] 
+    <div>Schedule 1: \[ <i>see (b)</i>andNote 2] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -488,7 +454,7 @@ _(a)_     The _Education Services for Overseas Students (Registration Ch
 
                  (4)   The remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
 
-_(b)_     Subsection 2(1) (items 6 and 8) of the _Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012_ provides as follows:
+_(b)_ Subsection 2(1) (item 2) of the _Education Services for Overseas Students (Registration Charges) Amendment (Tuition Protection Service)_ _Act 2012_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -559,94 +525,6 @@ _(b)_     Subsection 2(1) (items 6 and 8) of the _Education Services f
 <tr>
   <td>
     <div>
-      6\. Schedule 2, Parts 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      The first 1 July that occurs on or after the day this Act receives the
-        Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      8\. Schedule 2, Part 3, Division 2
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a) immediately after the commencement of the provision(s) covered by
-        table item 6; and
-    </div>
-    <div>
-      (b) immediately after the commencement of Schedule 1 to the
-        <i>Education Services for Overseas Students (Registration Charges) Amendment
-          Act 2011</i>.
-    </div>
-    <div>
-      However, the provision(s) do not commence at all if the event mentioned
-        in paragraph (b) does not occur.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Table A]
-
-(paragraph (a) applies)
-    </div>
-  </td>
-</tr></table>
-
-_(c)_     Subsection 2(1) (item 2) of the _Education Services for Overseas Students (Registration Charges) Amendment (Tuition Protection Service)_ _Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
       2\. Schedule 1
     </div>
   </td>
@@ -673,7 +551,8 @@ _(c)_     Subsection 2(1) (item 2) of the _Education Services for Over
     <div>
       \[
         <i>see</i>Note 2]
-
+    </div>
+    <div>
       (paragraph (a) applies)
     </div>
   </td>
@@ -923,7 +802,7 @@ Omit “for the State under section 9” (wherever occurring), substitute “a
 
 Omit “for the State”, substitute “at the location”.
 
-As at 29 March 2012 the amendments are not incorporated in this compilation.
+As at 23 March 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1037,21 +916,10 @@ _Education Services for Overseas Students (Registration Charges) Amendment Act 2
 
 ## Schedule 1
 
-## \[NOTE]  14  Application
+## 14  Application
 
 (1)       The amendments made by this Schedule (other than the amendments made by items 6 and 13 of this Schedule) apply on and after the first 1 January that occurs after this Schedule commences.
 
 (2)       The amendment made by item 6 of this Schedule applies in relation to any recommendation made by a designated authority for a State under section 9 of the _Education Services for Overseas Students Act 2000_ on or after the first 1 January that occurs after this Schedule commences.
-
-_\[NOTE]:  Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012 
- (No. 9, 2012)_
-
-The following amendment commences immediately after 1 July 2012 and amends the _Education Services for Overseas Students (Registration Charges) Amendment Act 2011_ (No. 105, 2011) as follows:
-
-## Schedule 2
-
-## 88  Subitem 14(2) of Schedule 1
-
-Omit “for a State under section 9”, substitute “under section 9AA”.
 
  
