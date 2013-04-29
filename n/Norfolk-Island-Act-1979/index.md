@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00433/Html/f820ebbc-93d1-4c8a-b6f2-f126bccb776d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00819/Html/NorfolkIsland79WD02_image001.gif)
 
 # Norfolk Island Act 1979
 
 **Act No. 25 of 1979 as amended**
 
-This compilation was prepared on 10 June 2011
+This compilation was prepared on 15 December 2010
  taking into account amendments up to Act No. 139 of 2010
 
 The text of any of those amendments not in force
@@ -14,299 +14,297 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        5
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               5
 
-[3](#3).            Repeals
+[3](#3).            Repeals                                                                                                5
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       5
 
-[4A](#4A).         Application of the _Criminal Code_
+[4A](#4A).         Application of the _Criminal Code_                                                       9
 
 **Part II—Administration**
 
-[5](#5).            Administrator and Administration
+[5](#5).            Administrator and Administration                                                    10
 
-[6](#6).            Appointment of Administrator
+[6](#6).            Appointment of Administrator                                                         10
 
-[7](#7).            Exercise of Administrator’s powers etc 
+[7](#7).            Exercise of Administrator’s powers etc                                            10
 
-[8](#8).            Acting Administrator
+[8](#8).            Acting Administrator                                                                         11
 
-[9](#9).            Deputies of Administrator
+[9](#9).            Deputies of Administrator                                                                12
 
-[10](#10).          Oath or affirmation of Administrator etc 
+[10](#10).          Oath or affirmation of Administrator etc                                          12
 
 **Part III—The Executive Council**
 
-[11](#11).          The Executive Council
+[11](#11).          The Executive Council                                                                       13
 
-[12](#12).          Ministers
+[12](#12).          Ministers                                                                                           13
 
-[12A](#12A).       Nomination of Chief Minister
+[12A](#12A).       Nomination of Chief Minister                                                           14
 
-[13](#13).          Appointment of Ministers
+[13](#13).          Appointment of Ministers                                                                15
 
-[14](#14).          Termination
+[14](#14).          Termination                                                                                       15
 
-[14A](#14A).       Dismissal of Ministers
+[14A](#14A).       Dismissal of Ministers                                                                      16
 
-[15](#15).          Oath or affirmation of member of Executive Council and Minister etc 
+[15](#15).          Oath or affirmation of member of Executive Council and Minister etc   16
 
-[15A](#15A).       Ministerial portfolios
+[15A](#15A).       Ministerial portfolios                                                                        17
 
 **Part IV—Legislation** 
 
     **Division 1—Laws**
 
-[16](#16).          Continuance of existing laws
+[16](#16).          Continuance of existing laws                                                             18
 
-[17](#17).          Amendment and repeal of existing laws
+[17](#17).          Amendment and repeal of existing laws                                            18
 
-[18](#18).          Application of Commonwealth Acts
+[18](#18).          Application of Commonwealth Acts                                                18
 
     **Division 2—Legislative power of Legislative Assembly**
 
-[19](#19).          Legislative power of Legislative Assembly
+[19](#19).          Legislative power of Legislative Assembly                                       19
 
-[20](#20).          Powers, privileges and immunities of Legislative Assembly
+[20](#20).          Powers, privileges and immunities of Legislative Assembly             20
 
-[21](#21).          Presentation of proposed laws
+[21](#21).          Presentation of proposed laws                                                          20
 
-[22](#22).          Signification of pleasure on proposed law reserved
+[22](#22).          Signification of pleasure on proposed law reserved                          21
 
-[23](#23).          Disallowance of laws by Governor‑General
+[23](#23).          Disallowance of laws by Governor-General                                      22
 
-[24](#24).          Reason for withholding assent etc  to be tabled in Legislative Assembly
+[24](#24).          Reason for withholding assent etc  to be tabled in Legislative Assembly               22
 
-[25](#25).          Proposal of money Bills
+[25](#25).          Proposal of money Bills                                                                    23
 
-[26](#26).          Governor‑General may introduce proposed law
+[26](#26).          Governor-General may introduce proposed law                               23
 
-[26A](#26A).       Responsible Commonwealth Minister may introduce proposed law
+[26A](#26A).       Responsible Commonwealth Minister may introduce proposed law 23
 
-    **Division 3—Legislative powers of the Governor‑General**
+    **Division 3—Legislative powers of the Governor-General**
 
-[27](#27).          Legislative powers of the Governor‑General
+[27](#27).          Legislative powers of the Governor-General                                     24
 
-[28](#28).          Laying of certain Ordinances before the Parliament
+[28](#28).          Laying of certain Ordinances before the Parliament                          25
 
-[28AA](#28AA).    Ordinance not to be re‑made while required to be tabled
+[28AA](#28AA).    Ordinance not to be re-made while required to be tabled                  27
 
-[28AB](#28AB).    Ordinance not to be re‑made while subject to disallowance
+[28AB](#28AB).    Ordinance not to be re-made while subject to disallowance              27
 
-[28AC](#28AC).    Disallowed Ordinance not to be re‑made unless resolution rescinded or House approves
+[28AC](#28AC).    Disallowed Ordinance not to be re-made unless resolution rescinded or House approves     28
 
-[28AD](#28AD).    Application of sections 28AA, 28AB and 28AC
+[28AD](#28AD).    Application of sections 28AA, 28AB and 28AC                             29
 
-[28A](#28A).       Laying of certain regulations before the Parliament
+[28A](#28A).       Laying of certain regulations before the Parliament                           29
 
     **Division 4—Miscellaneous**
 
-[29](#29).          Inconsistency of laws
+[29](#29).          Inconsistency of laws                                                                        30
 
-[30](#30).          Commencement of enactments
+[30](#30).          Commencement of enactments                                                          30
 
 **Part V—The Legislative Assembly** 
 
     **Division 1—Constitution and membership of Legislative Assembly**
 
-[31](#31).          Legislative Assembly
+[31](#31).          Legislative Assembly                                                                         31
 
-[32](#32).          Oath or affirmation
+[32](#32).          Oath or affirmation                                                                            31
 
-[33](#33).          Writs for elections
+[33](#33).          Writs for elections                                                                             31
 
-[34](#34).          Term of office of member
+[34](#34).          Term of office of member                                                                  31
 
-[35](#35).          Dates of elections
+[35](#35).          Dates of elections                                                                              32
 
-[36](#36).          Resignation of members of Legislative Assembly
+[36](#36).          Resignation of members of Legislative Assembly                             32
 
-[37](#37).          Filling of casual vacancy
+[37](#37).          Filling of casual vacancy                                                                    32
 
-[38](#38).          Qualifications for election
+[38](#38).          Qualifications for election                                                                  32
 
-[39](#39).          Disqualifications for membership of Legislative Assembly
+[39](#39).          Disqualifications for membership of Legislative Assembly              33
 
-[39AA](#39AA).    Dismissal of members of the Legislative Assembly
+[39AA](#39AA).    Dismissal of members of the Legislative Assembly                          34
 
-[39AB](#39AB).    Resolution of no confidence in the Chief Minister
+[39AB](#39AB).    Resolution of no confidence in the Chief Minister                            34
 
-[39AC](#39AC).    Dissolution of Legislative Assembly by the Governor‑General
+[39AC](#39AC).    Dissolution of Legislative Assembly by the Governor-General       35
 
     **Division 1A—Qualifications of electors**
 
-[39A](#39A).       Entitlement to enrolment on the electoral roll
+[39A](#39A).       Entitlement to enrolment on the electoral roll                                   37
 
-[39B](#39B).       Entitlement to vote
+[39B](#39B).       Entitlement to vote                                                                            37
 
-[39C](#39C).       Alteration of the electoral roll
+[39C](#39C).       Alteration of the electoral roll                                                            38
 
-[39D](#39D).       Definitions
+[39D](#39D).       Definitions                                                                                         38
 
     **Division 2—Procedure of Legislative Assembly**
 
-[40](#40).          Meetings of Legislative Assembly
+[40](#40).          Meetings of Legislative Assembly                                                    39
 
-[41](#41).          Speaker and Deputy Speaker of Legislative Assembly
+[41](#41).          Speaker and Deputy Speaker of Legislative Assembly                     39
 
-[42](#42).          Procedure at meetings
+[42](#42).          Procedure at meetings                                                                        40
 
-[42A](#42A).       Resolution of no confidence in the Chief Minister
+[42A](#42A).       Resolution of no confidence in the Chief Minister                            41
 
-[43](#43).          Validation of acts of Legislative Assembly
+[43](#43).          Validation of acts of Legislative Assembly                                       41
 
-[44](#44).          Minutes of proceedings
+[44](#44).          Minutes of proceedings                                                                     41
 
-[45](#45).          Standing rules and orders
+[45](#45).          Standing rules and orders                                                                   42
 
 **Part VI—Finance** 
 
     **Division 1—Public Account of Norfolk Island**
 
-[47](#47).          Public Account of Norfolk Island
+[47](#47).          Public Account of Norfolk Island                                                      43
 
-[48](#48).          Withdrawals from Public Account of Norfolk Island
+[48](#48).          Withdrawals from Public Account of Norfolk Island                        44
 
     **Division 2—Financial management and accountability**
 
-[48A](#48A).       Preparation of annual budgets by the Minister for Finance
+[48A](#48A).       Preparation of annual budgets by the Minister for Finance              45
 
-[48B](#48B).       Preparation of annual financial statements by the Minister for Finance
+[48B](#48B).       Preparation of annual financial statements by the Minister for Finance 45
 
-[48C](#48C).       Audit of annual financial statements
+[48C](#48C).       Audit of annual financial statements                                                 46
 
-[48D](#48D).       Audit fees for statement audits
+[48D](#48D).       Audit fees for statement audits                                                         47
 
-[48E](#48E).        Performance audits
+[48E](#48E).        Performance audits                                                                            47
 
-[48F](#48F).        Comments on proposed performance audit report
+[48F](#48F).        Comments on proposed performance audit report                           48
 
-[48G](#48G).       Audits—application of the _Auditor‑General Act 1997_
+[48G](#48G).       Audits—application of the _Auditor-General Act 1997_                     49
 
-[48H](#48H).       Preparation of periodic financial statements by the Minister for Finance
+[48H](#48H).       Preparation of periodic financial statements by the Minister for Finance              50
 
-[48J](#48J).        Preparation of annual report by Chief Executive Officer
+[48J](#48J).        Preparation of annual report by Chief Executive Officer                  51
 
-[48K](#48K).       Minister for Finance may obtain information from the responsible manager or managers of a Territory authority
+[48K](#48K).       Minister for Finance may obtain information from the responsible manager or managers of a Territory authority                                                                                                           51
 
-[48L](#48L).        Chief Executive Officer may obtain information from the responsible manager or managers of a Territory authority
+[48L](#48L).        Chief Executive Officer may obtain information from the responsible manager or managers of a Territory authority                                                                                                           52
 
-[48M](#48M).      Promoting efficient, effective and ethical use etc  of Administration resources
+[48M](#48M).      Promoting efficient, effective and ethical use etc  of Administration resources      53
 
-[48N](#48N).       Promoting efficient, effective and ethical use etc  of the resources of Territory authorities
+[48N](#48N).       Promoting efficient, effective and ethical use etc  of the resources of Territory authorities   53
 
-[48P](#48P).        Accounts and records of the Administration
+[48P](#48P).        Accounts and records of the Administration                                     54
 
-[48Q](#48Q).       Accounts and records of Territory authorities
+[48Q](#48Q).       Accounts and records of Territory authorities                                  54
 
-[48R](#48R).       Regulations about financial management and accountability—Administration
+[48R](#48R).       Regulations about financial management and accountability—Administration       55
 
-[48S](#48S).        Regulations about financial management and accountability—Territory authorities
+[48S](#48S).        Regulations about financial management and accountability—Territory authorities              56
 
-[48T](#48T).        Commonwealth Finance Minister’s Orders
+[48T](#48T).       Commonwealth Finance Minister’s Orders                                      57
 
     **Division 3—Borrowing etc.**
 
-[49](#49).          Borrowing from Commonwealth
+[49](#49).          Borrowing from Commonwealth                                                       58
 
-[50](#50).          Borrowings otherwise than from Commonwealth
+[50](#50).          Borrowings otherwise than from Commonwealth                             58
 
-[50A](#50A).       Guarantee of borrowings
+[50A](#50A).       Guarantee of borrowings                                                                   59
 
-[50B](#50B).       Administration may give security
+[50B](#50B).       Administration may give security                                                     60
 
-[50C](#50C).       Borrowings not otherwise permitted
+[50C](#50C).       Borrowings not otherwise permitted                                                 61
 
-[50D](#50D).       Delegation by Commonwealth Finance Minister
+[50D](#50D).       Delegation by Commonwealth Finance Minister                              61
 
     **Division 4—Commonwealth Ministers to be kept informed**
 
-[51](#51).          Minister for Finance must keep responsible Commonwealth Minister informed
+[51](#51).          Minister for Finance must keep responsible Commonwealth Minister informed   62
 
-[51A](#51A).       Minister for Finance must keep Commonwealth Finance Minister informed
+[51A](#51A).       Minister for Finance must keep Commonwealth Finance Minister informed         62
 
-[51B](#51B).       Responsible manager or managers of Territory authority must keep responsible Commonwealth Minister informed
+[51B](#51B).       Responsible manager or managers of Territory authority must keep responsible Commonwealth Minister informed                                                                                                           63
 
-[51C](#51C).       Responsible manager or managers of Territory authority must keep Commonwealth Finance Minister informed
+[51C](#51C).       Responsible manager or managers of Territory authority must keep Commonwealth Finance Minister informed                                                                                                           63
 
     **Division 5—Commonwealth Financial Officer for Norfolk Island**
 
-[51D](#51D).       Commonwealth Financial Officer for Norfolk Island
+[51D](#51D).       Commonwealth Financial Officer for Norfolk Island                        64
 
     **Division 6—Injunctions**
 
-[51E](#51E).        Injunctions—enforcement of financial management and accountability provisions
+[51E](#51E).        Injunctions—enforcement of financial management and accountability provisions                65
 
 **Part VII—The Judicial System**
 
-[52](#52).          Constitution of Supreme Court
+[52](#52).          Constitution of Supreme Court                                                         67
 
-[53](#53).          Appointment of Judges
+[53](#53).          Appointment of Judges                                                                     67
 
-[53A](#53A).       Acting Chief Justice
+[53A](#53A).       Acting Chief Justice                                                                           68
 
-[54](#54).          Seniority of Judges
+[54](#54).          Seniority of Judges                                                                            68
 
-[55](#55).          Holding of other judicial offices
+[55](#55).          Holding of other judicial offices                                                         68
 
-[56](#56).          Salaries and travelling allowances
+[56](#56).          Salaries and travelling allowances                                                      68
 
-[57](#57).          Oath or affirmation of Judge
+[57](#57).          Oath or affirmation of Judge                                                              69
 
-[58](#58).          Exercise of jurisdiction
+[58](#58).          Exercise of jurisdiction                                                                       69
 
-[59](#59).          Jurisdiction of Supreme Court
+[59](#59).          Jurisdiction of Supreme Court                                                           69
 
-[60](#60).          Establishment of courts and tribunals
+[60](#60).          Establishment of courts and tribunals                                               69
 
 **Part VIII—Miscellaneous**
 
-[61](#61).          Officers
+[61](#61).          Officers                                                                                              70
 
-[61A](#61A).       Norfolk Island Public Service Values
+[61A](#61A).       Norfolk Island Public Service Values                                                 70
 
-[62](#62).          Grants of land
+[62](#62).          Grants of land                                                                                    70
 
-[64](#64).          Customs duty on certain goods
+[64](#64).          Customs duty on certain goods                                                         70
 
-[65](#65).          Remuneration and allowances
+[65](#65).          Remuneration and allowances                                                            70
 
-[66](#66).          Grant of pardon, remission etc 
+[66](#66).          Grant of pardon, remission etc                                                          71
 
-[66A](#66A).       Reports by Ombudsman
-
-[67](#67).          Regulations
+[67](#67).          Regulations                                                                                        71
 
 **Part IX—Transitional**
 
-[68](#68).          Interpretation
+[68](#68).          Interpretation                                                                                     73
 
-[69](#69).          Election of Legislative Assembly
+[69](#69).          Election of Legislative Assembly                                                      73
 
-[70](#70).          Administrator etc  to continue in office
+[70](#70).          Administrator etc  to continue in office                                             73
 
-[71](#71).          Proposed Ordinances and regulations
+[71](#71).          Proposed Ordinances and regulations                                                74
 
-[72](#72).          Laying of Ordinances before the Parliament
+[72](#72).          Laying of Ordinances before the Parliament                                      74
 
-[73](#73).          Validity of Ordinances and enactments
+[73](#73).          Validity of Ordinances and enactments                                             74
 
-[74](#74).          Contracts and agreements
+[74](#74).          Contracts and agreements                                                                  74
 
-[75](#75).          Public Account of Norfolk Island
+[75](#75).          Public Account of Norfolk Island                                                      75
 
-[76](#76).          Audit
+[76](#76).          Audit                                                                                                  75
 
-[77](#77).          Regulations
+[77](#77).          Regulations                                                                                        75
 
 **Schedules** 
 
@@ -334,37 +332,37 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    WHEREAS by an Act of the Parliament of the United Kingdom, made and passed in the sixth and seventh years of the reign of Her Majesty Queen Victoria intituled “An Act to amend so much of an Act of the last Session, for the Government of New South Wales and Van Diemen’s Land, as relates to Norfolk Island,” it was, amongst other things, enacted that it should be lawful for Her Majesty, by Letters Patent under the Great Seal of the United Kingdom, to sever Norfolk Island from the Government of New South Wales and to annex it to the Government and Colony of Van Diemen’s Land:
 
-                   AND WHEREAS Her Majesty Queen Victoria, in exercise of the powers vested in Her by the said Act, by a Commission under the Great Seal of the United Kingdom bearing date the twenty‑fourth day of October, 1843, appointed that from and after the twenty‑ninth day of September, 1844, Norfolk Island should be severed from the Government of New South Wales and annexed to the Government and Colony of Van Diemen’s Land:
+                   AND WHEREAS Her Majesty Queen Victoria, in exercise of the powers vested in Her by the said Act, by a Commission under the Great Seal of the United Kingdom bearing date the twenty-fourth day of October, 1843, appointed that from and after the twenty-ninth day of September, 1844, Norfolk Island should be severed from the Government of New South Wales and annexed to the Government and Colony of Van Diemen’s Land:
 
                    AND WHEREAS by an Act of the Parliament of the United Kingdom, called the Australian Waste Lands Act 1855, it was, amongst other things, provided that it should be lawful for Her Majesty at any time, by Order in Council, to separate Norfolk Island from the Colony of Van Diemen’s Land and to make such provision for the Government of Norfolk Island as might seem expedient:
 
                    AND WHEREAS on 8 June 1856 persons who had previously inhabited Pitcairn Island settled on Norfolk Island:
 
-                   AND WHEREAS by an Order in Council dated the twenty‑fourth day of June, 1856, made by Her Majesty in pursuance of the last‑mentioned Act, it was ordered and declared, amongst other things, that from and after the date of the proclamation of the Order in New South Wales Norfolk Island should be thereby separated from the said Colony of Van Diemen’s Land (now called Tasmania) and that from that date all power, authority, and jurisdiction of the Governor, Legislature, Courts of Justice, and Magistrates of Tasmania over Norfolk Island should cease and determine, and that from the said date Norfolk Island should be a distinct and separate Settlement, the affairs of which should until further Order in that behalf by Her Majesty be administered by a Governor to be for that purpose appointed by Her Majesty with the advice and consent of Her Privy Council: and it was thereby further ordered that the Governor and Commander‑in‑Chief for the time being of the Colony of New South Wales should be, and he thereby was, constituted Governor of Norfolk Island, with the powers and authorities in the said Order mentioned:
+                   AND WHEREAS by an Order in Council dated the twenty-fourth day of June, 1856, made by Her Majesty in pursuance of the last-mentioned Act, it was ordered and declared, amongst other things, that from and after the date of the proclamation of the Order in New South Wales Norfolk Island should be thereby separated from the said Colony of Van Diemen’s Land (now called Tasmania) and that from that date all power, authority, and jurisdiction of the Governor, Legislature, Courts of Justice, and Magistrates of Tasmania over Norfolk Island should cease and determine, and that from the said date Norfolk Island should be a distinct and separate Settlement, the affairs of which should until further Order in that behalf by Her Majesty be administered by a Governor to be for that purpose appointed by Her Majesty with the advice and consent of Her Privy Council: and it was thereby further ordered that the Governor and Commander-in-Chief for the time being of the Colony of New South Wales should be, and he thereby was, constituted Governor of Norfolk Island, with the powers and authorities in the said Order mentioned:
 
                    AND WHEREAS the said Order in Council was proclaimed in New South Wales on 1 November 1856:
 
-                   AND WHEREAS by an Order in Council dated the fifteenth day of January, 1897, made in pursuance of the said last‑mentioned Act, Her Majesty, after reciting that it was expedient that other provision should be made for the government of Norfolk Island, and that, in prospect of the future annexation of Norfolk Island to the Colony of New South Wales or to any Federal body of which that Colony might thereafter form part, in the meantime the affairs of Norfolk Island should be administered by the Governor of New South Wales as therein provided, was pleased to revoke the said Order in Council of the twenty‑fourth day of June, One thousand eight hundred and fifty‑six, and to order that the affairs of Norfolk Island should thenceforth, and until further Order should be made in that behalf by Her Majesty, be administered by the Governor and Commander‑in‑Chief for the time being of the Colony of New South Wales and its Dependencies:
+                   AND WHEREAS by an Order in Council dated the fifteenth day of January, 1897, made in pursuance of the said last-mentioned Act, Her Majesty, after reciting that it was expedient that other provision should be made for the government of Norfolk Island, and that, in prospect of the future annexation of Norfolk Island to the Colony of New South Wales or to any Federal body of which that Colony might thereafter form part, in the meantime the affairs of Norfolk Island should be administered by the Governor of New South Wales as therein provided, was pleased to revoke the said Order in Council of the twenty-fourth day of June, One thousand eight hundred and fifty-six, and to order that the affairs of Norfolk Island should thenceforth, and until further Order should be made in that behalf by Her Majesty, be administered by the Governor and Commander-in-Chief for the time being of the Colony of New South Wales and its Dependencies:
 
                    AND WHEREAS the said Order in Council was published in the New South Wales _Government Gazette_ on 19 March 1897, and took effect at that date:
 
-                   AND WHEREAS by an Order in Council dated the eighteenth day of October, One thousand nine hundred, made in pursuance of the said last mentioned Act, Her Majesty was pleased to revoke the said Order in Council of the fifteenth day of January, One thousand eight hundred and ninety‑seven, and to order that the affairs of Norfolk Island should thenceforth, and until further Order should be made in that behalf by Her Majesty, be administered by the Governor for the time being of the State of New South Wales and its Dependencies:
+                   AND WHEREAS by an Order in Council dated the eighteenth day of October, One thousand nine hundred, made in pursuance of the said last mentioned Act, Her Majesty was pleased to revoke the said Order in Council of the fifteenth day of January, One thousand eight hundred and ninety-seven, and to order that the affairs of Norfolk Island should thenceforth, and until further Order should be made in that behalf by Her Majesty, be administered by the Governor for the time being of the State of New South Wales and its Dependencies:
 
                    AND WHEREAS the said Order in Council was published in the New South Wales _Government Gazette_ on 1 January 1901, and took effect at that date:
 
-                   AND WHEREAS by an Order in Council dated the 30th day of March, 1914, His Majesty King George V, by virtue and in exercise of the power in that behalf by the said last‑mentioned Act or otherwise in His Majesty vested, after reciting that the Parliament had passed an Act No. 15 of 1913, entitled “An Act to provide for the acceptance of Norfolk Island as a territory under the authority of the Commonwealth, and for the government thereof” and that it was expedient that the said Order in Council of 18th of October, 1900, should be revoked and that Norfolk Island should be placed under the authority of the Commonwealth of Australia, was pleased to revoke the said Order in Council of 18th of October, 1900, and to order that Norfolk Island be placed under the authority of the Commonwealth of Australia:
+                   AND WHEREAS by an Order in Council dated the 30th day of March, 1914, His Majesty King George V, by virtue and in exercise of the power in that behalf by the said last-mentioned Act or otherwise in His Majesty vested, after reciting that the Parliament had passed an Act No. 15 of 1913, entitled “An Act to provide for the acceptance of Norfolk Island as a territory under the authority of the Commonwealth, and for the government thereof” and that it was expedient that the said Order in Council of 18th of October, 1900, should be revoked and that Norfolk Island should be placed under the authority of the Commonwealth of Australia, was pleased to revoke the said Order in Council of 18th of October, 1900, and to order that Norfolk Island be placed under the authority of the Commonwealth of Australia:
 
                    AND WHEREAS the said Order in Council was published in the _Gazette_ on 17 June 1914, and took effect from 1 July 1914, being the date of commencement of the _Norfolk Island__Act 1913_:
 
-                   AND WHEREAS Norfolk Island was, by the _Norfolk Island__Act 1913_, declared to be accepted by the Commonwealth as a Territory under the authority of the Commonwealth:
+                   AND WHEREAS Norfolk Island was, by the _Norfolk  Island__Act 1913_, declared to be accepted by the Commonwealth as a Territory under the authority of the Commonwealth:
 
-                   AND WHEREAS Norfolk Island has been governed by the Commonwealth initially under the provisions of the _Norfolk Island__Act 1913_, and subsequently under the provisions of the _Norfolk Island__Act 1957_:
+                   AND WHEREAS Norfolk Island has been governed by the Commonwealth initially under the provisions of the _Norfolk  Island__Act 1913_, and subsequently under the provisions of the _Norfolk  Island__Act 1957_:
 
-                   AND WHEREAS the residents of Norfolk Island include descendants of the settlers from Pitcairn Island:
+                   AND WHEREAS the residents of Norfolk  Island include descendants of the settlers from Pitcairn Island:
 
                    AND WHEREAS the Parliament recognises the special relationship of the said descendants with Norfolk Island and their desire to preserve their traditions and culture:
 
-                   AND WHEREAS the Parliament considers it to be desirable and to be the wish of the people of Norfolk Island that Norfolk Island achieve, over a period of time, internal self‑government as a Territory under the authority of the Commonwealth and, to that end, to provide, among other things, for the establishment of a representative Legislative Assembly and of other separate political and administrative institutions on Norfolk Island:
+                   AND WHEREAS the Parliament considers it to be desirable and to be the wish of the people of Norfolk Island that Norfolk Island achieve, over a period of time, internal self-government as a Territory under the authority of the Commonwealth and, to that end, to provide, among other things, for the establishment of a representative Legislative Assembly and of other separate political and administrative institutions on Norfolk Island:
 
                    AND WHEREAS the Parliament intends that within a period of 5 years after the coming into operation of this Act consideration will be given to extending the powers conferred by or under this Act on the Legislative Assembly and the other political and administrative institutions of Norfolk Island, and that provision be made in this Act to enable the results of such consideration to be implemented:
 
@@ -374,7 +372,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Norfolk Island__Act 1979_.
+                   This Act may be cited as the _Norfolk  Island__Act 1979_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -384,7 +382,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Repeals
 
-                   The _Norfolk Island__Act 1957_ and the _Norfolk Island__Act 1963_ are repealed.
+                   The _Norfolk Island__Act 1957_ and the _Norfolk Island__Act 1963_ are repealed.
 
 ##### <a id="4"></a>4  Interpretation
 
@@ -418,7 +416,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  a law (however described or entitled) passed by the Legislative Assembly and assented to under this Act;
 
-                     (b)  an Ordinance made by the Governor‑General under section 27 or in pursuance of section 69; or
+                     (b)  an Ordinance made by the Governor-General under section 27 or in pursuance of section 69; or
 
                      (c)  an Ordinance continued in force by this Act.
 
@@ -456,7 +454,7 @@ and includes such money that is held on trust for, or otherwise for the benefit 
 
                     <a name="norfolk-island-public-servic-valu"></a>**_Norfolk Island Public Service Values_** means the rules prescribed by regulations made for the purposes of subsection 61A(1).
 
-                    <a name="perform-audit"></a>**_performance audit_**has the same meaning as in the _Auditor‑General Act 1997_.
+                    <a name="perform-audit"></a>**_performance audit_**has the same meaning as in the _Auditor-General Act 1997_.
 
                     <a name="territori-author"></a><a name="properti"></a>**_property_** **_of a Territory authority_** means:
 
@@ -542,7 +540,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="6"></a>6  Appointment of Administrator
 
-                   The Administrator shall be appointed by the Governor‑General by Commission and shall hold office during the pleasure of the Governor‑General.
+                   The Administrator shall be appointed by the Governor-General by Commission and shall hold office during the pleasure of the Governor-General.
 
 ##### <a id="7"></a>7  Exercise of Administrator’s powers etc.
 
@@ -564,7 +562,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="8"></a>8  Acting Administrator
 
-             (1)  The Governor‑General may, by Commission, appoint a person to act in the office of Administrator, and to administer the government of the Territory:
+             (1)  The Governor-General may, by Commission, appoint a person to act in the office of Administrator, and to administer the government of the Territory:
 
                      (a)  during a vacancy in the office of the Administrator; or
 
@@ -592,7 +590,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  A deputy of the Administrator shall, before exercising a power or performing a function by virtue of his or her office, make and subscribe an oath or affirmation in accordance with the form in Schedule 4.
 
-             (3)  An oath or affirmation made by a person under this section shall be made before the Governor‑General, a Judge of the Supreme Court or of another court created by the Parliament, or a person authorized by the Governor‑General for the purpose, and may be made before the day on which the person’s appointment takes effect.
+             (3)  An oath or affirmation made by a person under this section shall be made before the Governor-General, a Judge of the Supreme Court or of another court created by the Parliament, or a person authorized by the Governor-General for the purpose, and may be made before the day on which the person’s appointment takes effect.
 
 ## Part III—The Executive Council
 
@@ -740,7 +738,7 @@ whichever first happens.
 
 ##### <a id="16"></a>16  Continuance of existing laws
 
-             (1)  Notwithstanding the repeal of the _Norfolk Island__Act 1957_ and the _Norfolk Island__Act 1963_, but subject to this Act, all other laws in force immediately before the date of commencement of this section in or in relation to the Territory continue in force.
+             (1)  Notwithstanding the repeal of the _Norfolk  Island__Act 1957_ and the _Norfolk Island__Act 1963_, but subject to this Act, all other laws in force immediately before the date of commencement of this section in or in relation to the Territory continue in force.
 
              (2)  In this section, **_laws_** means Ordinances made under, and laws continued in force by, the _Norfolk Island__Act 1957_ and laws made under such an Ordinance or law.
 
@@ -760,7 +758,7 @@ whichever first happens.
 
 ##### <a id="19"></a>19  Legislative power of Legislative Assembly
 
-             (1)  Subject to this Act, the Legislative Assembly has power, with the assent of the Administrator or the Governor‑General, as the case may be, to make laws for the peace, order and good government of the Territory.
+             (1)  Subject to this Act, the Legislative Assembly has power, with the assent of the Administrator or the Governor-General, as the case may be, to make laws for the peace, order and good government of the Territory.
 
              (2)  The power of the Legislative Assembly in relation to the making of laws does not extend to the making of laws:
 
@@ -796,7 +794,7 @@ whichever first happens.
 
              (1)  Every proposed law passed by the Legislative Assembly shall be presented to the Administrator for assent.
 
-          (1A)  If the proposed law was introduced into the Legislative Assembly by the Governor‑General, the Administrator must reserve the proposed law for the Governor‑General’s pleasure.
+          (1A)  If the proposed law was introduced into the Legislative Assembly by the Governor-General, the Administrator must reserve the proposed law for the Governor-General’s pleasure.
 
              (2)  Upon the presentation of a proposed law to the Administrator for assent, the Administrator shall, subject to this section, declare:
 
@@ -806,9 +804,9 @@ whichever first happens.
 
                              (ii)  that he or she withholds assent to the proposed law; or
 
-                            (iii)  that he or she reserves the proposed law for the Governor‑General’s pleasure; or
+                            (iii)  that he or she reserves the proposed law for the Governor-General’s pleasure; or
 
-                     (b)  in any other case, that he or she reserves the proposed law for the Governor‑General’s pleasure.
+                     (b)  in any other case, that he or she reserves the proposed law for the Governor-General’s pleasure.
 
              (3)  The Administrator may return the proposed law to the Legislative Assembly with amendments that he or she recommends.
 
@@ -820,7 +818,7 @@ whichever first happens.
 
 ##### <a id="22"></a>22  Signification of pleasure on proposed law reserved
 
-             (1)  Where the Administrator reserves a proposed law for the Governor‑General’s pleasure, the Governor‑General shall, subject to this section, declare:
+             (1)  Where the Administrator reserves a proposed law for the Governor-General’s pleasure, the Governor-General shall, subject to this section, declare:
 
                      (a)  that he or she assents to the proposed law;
 
@@ -828,21 +826,21 @@ whichever first happens.
 
                      (c)  that he or she withholds assent to part of the proposed law and assents to the remainder of the proposed law.
 
-             (2)  The Governor‑General may return the proposed law to the Administrator with amendments that he or she recommends.
+             (2)  The Governor-General may return the proposed law to the Administrator with amendments that he or she recommends.
 
-             (3)  The Legislative Assembly shall consider the amendments recommended by the Governor‑General and the proposed law, with or without amendments, shall be again presented to the Administrator for assent, and subsection 21(1A) or (2) applies accordingly.
+             (3)  The Legislative Assembly shall consider the amendments recommended by the Governor-General and the proposed law, with or without amendments, shall be again presented to the Administrator for assent, and subsection 21(1A) or (2) applies accordingly.
 
-             (4)  As soon as practicable after the Governor‑General has made a declaration in respect of a proposed law in accordance with subsection (1), the Administrator shall cause to be published in the _Norfolk Island Government Gazette_ a notice of the declaration.
+             (4)  As soon as practicable after the Governor-General has made a declaration in respect of a proposed law in accordance with subsection (1), the Administrator shall cause to be published in the _Norfolk Island Government Gazette_ a notice of the declaration.
 
-             (5)  The assent of the Governor‑General to a proposed law or part of a proposed law is of no effect until notification of the Governor‑General’s declaration in respect of the proposed law is published in the _Norfolk Island Government Gazette_.
+             (5)  The assent of the Governor-General to a proposed law or part of a proposed law is of no effect until notification of the Governor-General’s declaration in respect of the proposed law is published in the _Norfolk Island Government Gazette_.
 
-##### <a id="23"></a>23  Disallowance of laws by Governor‑General
+##### <a id="23"></a>23  Disallowance of laws by Governor-General
 
-             (1)  Subject to this section, the Governor‑General may, within 6 months after the Administrator’s assent to a proposed law, disallow the law or part of the law.
+             (1)  Subject to this section, the Governor-General may, within 6 months after the Administrator’s assent to a proposed law, disallow the law or part of the law.
 
-             (2)  The Governor‑General may, within 6 months after the Administrator’s assent to a proposed law, recommend to the Administrator any amendments of the laws of the Territory that the Governor‑General considers to be desirable as a result of his or her consideration of the law.
+             (2)  The Governor-General may, within 6 months after the Administrator’s assent to a proposed law, recommend to the Administrator any amendments of the laws of the Territory that the Governor-General considers to be desirable as a result of his or her consideration of the law.
 
-             (3)  Where, as a result of his or her consideration of a law, the Governor‑General so recommends any amendments of the laws of the Territory, the time within which the Governor‑General may disallow the law, or a part of the law, is extended until the expiration of 6 months after the date of the Governor‑General’s recommendation.
+             (3)  Where, as a result of his or her consideration of a law, the Governor-General so recommends any amendments of the laws of the Territory, the time within which the Governor-General may disallow the law, or a part of the law, is extended until the expiration of 6 months after the date of the Governor-General’s recommendation.
 
              (4)  Upon publication of notice of the disallowance of a law, or part of a law, in the _Norfolk Island Government Gazette_, the disallowance has, subject to subsection (5), the same effect as a repeal of the law or part of the law, as the case may be.
 
@@ -850,7 +848,7 @@ whichever first happens.
 
 ##### <a id="24"></a>24  Reason for withholding assent etc. to be tabled in Legislative Assembly
 
-             (1)  Where the Administrator withholds assent to a proposed law, or the Governor‑General withholds assent to a proposed law or part of a proposed law or disallows a law or part of a law, a message of the Administrator stating the reasons for the withholding of assent, or for the disallowance, as the case may be:
+             (1)  Where the Administrator withholds assent to a proposed law, or the Governor-General withholds assent to a proposed law or part of a proposed law or disallows a law or part of a law, a message of the Administrator stating the reasons for the withholding of assent, or for the disallowance, as the case may be:
 
                      (a)  shall, within 21 days after the date on which the assent was withheld or the date of the disallowance, as the case may be, be furnished to the Speaker or, if there is no Speaker or the Speaker is absent from the Territory, the Deputy Speaker; or
 
@@ -864,51 +862,51 @@ whichever first happens.
 
 Note:          See also section 48 (withdrawals from the Public Account of Norfolk Island).
 
-##### <a id="26"></a>26  Governor‑General may introduce proposed law
+##### <a id="26"></a>26  Governor-General may introduce proposed law
 
-                   The Governor‑General may, by message of the Administrator, introduce into the Legislative Assembly a proposed law for the peace, order and good government of the Territory.
+                   The Governor-General may, by message of the Administrator, introduce into the Legislative Assembly a proposed law for the peace, order and good government of the Territory.
 
 ##### <a id="26A"></a>26A  Responsible Commonwealth Minister may introduce proposed law
 
                    The responsible Commonwealth Minister may, by message of the Administrator, introduce into the Legislative Assembly a proposed law for the peace, order and good government of the Territory.
 
-### Division 3—Legislative powers of the Governor‑General
+### Division 3—Legislative powers of the Governor-General
 
-##### <a id="27"></a>27  Legislative powers of the Governor‑General
+##### <a id="27"></a>27  Legislative powers of the Governor-General
 
              (1)  Where:
 
-                     (a)  the Governor‑General introduces a proposed law into the Legislative Assembly under section 26; and
+                     (a)  the Governor-General introduces a proposed law into the Legislative Assembly under section 26; and
 
-                     (b)  within 60 days thereafter, the Legislative Assembly has not passed the proposed law or has passed it with amendments that, in the opinion of the Governor‑General, are unacceptable;
+                     (b)  within 60 days thereafter, the Legislative Assembly has not passed the proposed law or has passed it with amendments that, in the opinion of the Governor-General, are unacceptable;
 
-the Governor‑General may make an Ordinance in the same terms as those of the proposed law as so introduced.
+the Governor-General may make an Ordinance in the same terms as those of the proposed law as so introduced.
 
-             (2)  Where it appears to the Governor‑General that, on account of urgency or for any other special reason, a law for the peace, order and good government of the Territory, other than a law making provision for or in relation to a matter specified in Schedule 2 or 3, should be made without being introduced into the Legislative Assembly, the Governor‑General may make an Ordinance accordingly.
+             (2)  Where it appears to the Governor-General that, on account of urgency or for any other special reason, a law for the peace, order and good government of the Territory, other than a law making provision for or in relation to a matter specified in Schedule 2 or 3, should be made without being introduced into the Legislative Assembly, the Governor-General may make an Ordinance accordingly.
 
-             (3)  Where it appears to the Governor‑General that:
+             (3)  Where it appears to the Governor-General that:
 
                      (a)  no provision, or insufficent provision, has been made for the expenditure of money out of the Public Account of Norfolk Island for the purposes of the government of the Territory during a financial year of the Territory; and
 
                      (b)  on account of urgency or for any other special reason, a law should be made, without being introduced into the Legislative Assembly, for the purpose of authorizing such expenditure;
 
-the Governor‑General may make an Ordinance accordingly.
+the Governor-General may make an Ordinance accordingly.
 
              (4)  An Ordinance made under subsection (3) may empower the Administrator, subject to such instructions as are given to him or her by the responsible Commonwealth Minister, to do such things, and give such directions, as may be necessary or convenient for purposes of ensuring that expenditure authorized by the Ordinance is duly made.
 
-             (5)  The Governor‑General may:
+             (5)  The Governor-General may:
 
                      (a)  in accordance with the preceding provisions of this section, make an Ordinance amending an Ordinance made by him or her under this section; and
 
                      (b)  at any time, make an Ordinance repealing an Ordinance made by him or her under this section.
 
-             (6)  Where the Governor‑General makes an Ordinance under this section, a copy of the Ordinance shall be transmitted to the Legislative Assembly by message of the Administrator.
+             (6)  Where the Governor-General makes an Ordinance under this section, a copy of the Ordinance shall be transmitted to the Legislative Assembly by message of the Administrator.
 
              (7)  An Ordinance made under this section providing for the raising of revenues shall provide that revenues raised by virtue of the Ordinance are to be used for a purpose or purposes specified in the Ordinance.
 
 ##### <a id="28"></a>28  Laying of certain Ordinances before the Parliament
 
-             (1)  This section applies to Ordinances made by the Governor‑General under section 27.
+             (1)  This section applies to Ordinances made by the Governor-General under section 27.
 
              (2)  An Ordinance shall be laid before each House of the Parliament within 15 sitting days of that House after the making of that Ordinance, and, if it is not so laid before each House of the Parliament, ceases to have effect.
 
@@ -932,7 +930,7 @@ the Ordinance or part, as the case may be, specified in the motion shall thereup
 
                              (ii)  the motion has been called on, moved and seconded and has not been withdrawn or otherwise disposed of;
 
-the Ordinance shall, for the purposes of subsections (3) and (4), be deemed to have been laid before that first‑mentioned House on the first sitting day of that first‑mentioned House after the dissolution, expiry or prorogation, as the case may be.
+the Ordinance shall, for the purposes of subsections (3) and (4), be deemed to have been laid before that first-mentioned House on the first sitting day of that first-mentioned House after the dissolution, expiry or prorogation, as the case may be.
 
              (6)  Where an Ordinance is disallowed, or is deemed to have been disallowed, under this section or ceases to have effect by virtue of the operation of subsection (2), the disallowance of the Ordinance or the operation of subsection (2) in relation to the Ordinance, as the case may be, has the same effect as a repeal of the Ordinance.
 
@@ -946,7 +944,7 @@ the disallowance of the relevant Ordinance or the operation of subsection (2) 
 
           (7A)  A reference in subsection (6) or (7) to an Ordinance shall be read as including a reference to a part of an Ordinance, and a reference in subsection (7) to a law has a corresponding meaning.
 
-##### <a id="28AA"></a>28AA  Ordinance not to be re‑made while required to be tabled
+##### <a id="28AA"></a>28AA  Ordinance not to be re-made while required to be tabled
 
              (1)  Where an Ordinance (in this section called the **_original Ordinance_**) has been made, no Ordinance containing a provision being the same in substance as a provision of the original Ordinance shall be made during the period defined by subsection (2) unless both Houses of the Parliament by resolution approve the making of an Ordinance containing a provision the same in substance as that provision of the original Ordinance.
 
@@ -960,9 +958,9 @@ the disallowance of the relevant Ordinance or the operation of subsection (2) 
 
              (3)  If a provision of an Ordinance is made in contravention of this section, the provision has no effect.
 
-##### <a id="28AB"></a>28AB  Ordinance not to be re‑made while subject to disallowance
+##### <a id="28AB"></a>28AB  Ordinance not to be re-made while subject to disallowance
 
-             (1)  Where notice of a motion to disallow an Ordinance has been given in a House of the Parliament within 15 sitting days after the ordinance has been laid before that House, no Ordinance containing a provision being the same in substance as a provision of the first‑mentioned Ordinance shall be made unless:
+             (1)  Where notice of a motion to disallow an Ordinance has been given in a House of the Parliament within 15 sitting days after the ordinance has been laid before that House, no Ordinance containing a provision being the same in substance as a provision of the first-mentioned Ordinance shall be made unless:
 
                      (a)  the notice has been withdrawn;
 
@@ -978,7 +976,7 @@ the disallowance of the relevant Ordinance or the operation of subsection (2) 
 
                      (b)  notice of a motion to disallow the Ordinance has been given in that House within 15 sitting days after that day;
 
-no Ordinance containing a provision being the same in substance as a provision of the first‑mentioned Ordinance shall be made unless:
+no Ordinance containing a provision being the same in substance as a provision of the first-mentioned Ordinance shall be made unless:
 
                      (c)  the notice has been withdrawn;
 
@@ -996,7 +994,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
                     <a name="ordin"></a>**_Ordinance_** includes a part of an Ordinance.
 
-##### <a id="28AC"></a>28AC  Disallowed Ordinance not to be re‑made unless resolution rescinded or House approves
+##### <a id="28AC"></a>28AC  Disallowed Ordinance not to be re-made unless resolution rescinded or House approves
 
                    If an Ordinance or a part of an Ordinance is disallowed, or is deemed to have been disallowed, under section 28, and an Ordinance containing a provision being the same in substance as a provision so disallowed, or deemed to have been disallowed, is made within 6 months after the date of the disallowance, that provision has no effect, unless:
 
@@ -1006,11 +1004,11 @@ no Ordinance containing a provision being the same in substance as a provision o
 
 ##### <a id="28AD"></a>28AD  Application of sections 28AA, 28AB and 28AC
 
-                   Sections 28AA, 28AB and 28AC apply to Ordinances made by the Governor‑General under section 27.
+                   Sections 28AA, 28AB and 28AC apply to Ordinances made by the Governor-General under section 27.
 
 ##### <a id="28A"></a>28A  Laying of certain regulations before the Parliament
 
-             (1)  In this section, **_regulations_** means regulations made by the responsible Commonwealth Minister under an enactment and includes rules and by‑laws so made.
+             (1)  In this section, **_regulations_** means regulations made by the responsible Commonwealth Minister under an enactment and includes rules and by-laws so made.
 
              (2)  All regulations shall be laid before each House of the Parliament within 15 sitting days of that House after the day on which the regulations are made and, if they are not so laid before each House of the Parliament, shall be void and of no effect.
 
@@ -1020,7 +1018,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
 ##### <a id="29"></a>29  Inconsistency of laws
 
-             (1)  Where an enactment made under Division 2 is inconsistent with an Ordinance made by the Governor‑General under section 27, the latter shall prevail, and the former shall, to the extent of the inconsistency, be invalid, but an enactment and an Ordinance shall not be taken for the purposes of this subsection to be inconsistent to the extent that they are capable of operating concurrently.
+             (1)  Where an enactment made under Division 2 is inconsistent with an Ordinance made by the Governor-General under section 27, the latter shall prevail, and the former shall, to the extent of the inconsistency, be invalid, but an enactment and an Ordinance shall not be taken for the purposes of this subsection to be inconsistent to the extent that they are capable of operating concurrently.
 
              (2)  A reference in this section to an enactment or to an Ordinance shall be read as including a reference to a law made under an enactment or under an Ordinance, as the case may be.
 
@@ -1066,7 +1064,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
                    A member of the Legislative Assembly may resign his or her office by writing signed by him or her and delivered to the Speaker or, if there is no Speaker or the Speaker is absent from the Territory, to the Administrator.
 
-##### <a id="37"></a>37  Filling of casual vacancy
+##### <a id="37"></a>37  Filling of casual vacancy
 
                    Where a casual vacancy occurs in the office of a member of the Legislative Assembly less than 2 years and 9 months after the first meeting of that Assembly following the last preceding general election, an election shall be held for the purpose of filling the vacant office for the remainder of the term of office of the member who last held that office.
 
@@ -1076,7 +1074,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
                      (b)  he or she has attained the age of 18 years; and
 
-                   (ba)  he or she is an Australian citizen; and
+                    (ba)  he or she is an Australian citizen; and
 
                      (c)  he or she is entitled, or qualified to become entitled, to vote at elections of members of the Legislative Assembly; and
 
@@ -1102,7 +1100,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
                      (d)  he or she ceases to be entitled, or qualified to become entitled, to vote at elections of members of the Legislative Assembly; or
 
-                   (da)  he or she ceases to be an Australian citizen; or
+                    (da)  he or she ceases to be an Australian citizen; or
 
                      (e)  he or she takes or agrees to take, directly or indirectly, any remuneration, allowance, honorarium or reward for services rendered in the Legislative Assembly, otherwise than in accordance with section 65.
 
@@ -1126,7 +1124,7 @@ no Ordinance containing a provision being the same in substance as a provision o
 
                      (b)  the Legislative Assembly does not, within the period of 10 days after that day, nominate a member of the Legislative Assembly to be the Chief Minister; and
 
-                     (c)  the Governor‑General does not, within that period of 10 days, dissolve the Legislative Assembly under section 39AC;
+                     (c)  the Governor-General does not, within that period of 10 days, dissolve the Legislative Assembly under section 39AC;
 
 a general election of members of the Legislative Assembly is to be held on a day specified by the responsible Commonwealth Minister by notice published in the _Commonwealth Gazette_.
 
@@ -1148,11 +1146,11 @@ a general election of members of the Legislative Assembly is to be held on a day
 
 the Administrator:
 
-                     (c)  is to exercise all the powers of the Administration, the Executive Council and Ministers in accordance with any directions given by the Governor‑General; and
+                     (c)  is to exercise all the powers of the Administration, the Executive Council and Ministers in accordance with any directions given by the Governor-General; and
 
-                     (d)  if it is necessary to issue or spend public money of the Territory when not authorised to do so by or under enactment—may do so with the authority of the Governor‑General.
+                     (d)  if it is necessary to issue or spend public money of the Territory when not authorised to do so by or under enactment—may do so with the authority of the Governor-General.
 
-             (6)  The powers of the Governor‑General under subsection (5) are to be exercised by Proclamation.
+             (6)  The powers of the Governor-General under subsection (5) are to be exercised by Proclamation.
 
              (7)  For the purposes of this Act, if a notice is published under subsection (1) on a particular day, the notice is taken to have been published at the last moment of that day.
 
@@ -1160,15 +1158,15 @@ the Administrator:
 
              (9)  A Proclamation under subsection (5) is a legislative instrument, but section 42 (disallowance) of the _Legislative Instruments Act 2003_ does not apply to the Proclamation.
 
-##### <a id="39AC"></a>39AC  Dissolution of Legislative Assembly by the Governor‑General
+##### <a id="39AC"></a>39AC  Dissolution of Legislative Assembly by the Governor-General
 
-             (1)  If, in the opinion of the Governor‑General, the Legislative Assembly:
+             (1)  If, in the opinion of the Governor-General, the Legislative Assembly:
 
                      (a)  is incapable of effectively performing its functions; or
 
                      (b)  is conducting its affairs in a grossly improper manner;
 
-the Governor‑General may dissolve the Legislative Assembly.
+the Governor-General may dissolve the Legislative Assembly.
 
              (2)  If the Legislative Assembly is dissolved, a general election of members of the Legislative Assembly is to be held on a day specified by the responsible Commonwealth Minister by notice published in the _Commonwealth Gazette_.
 
@@ -1190,11 +1188,11 @@ the Governor‑General may dissolve the Legislative Assembly.
 
 the Administrator:
 
-                     (c)  is to exercise all the powers of the Administration, the Executive Council and Ministers in accordance with any directions given by the Governor‑General; and
+                     (c)  is to exercise all the powers of the Administration, the Executive Council and Ministers in accordance with any directions given by the Governor-General; and
 
-                     (d)  if it is necessary to issue or spend public money of the Territory when not authorised to do so by or under enactment—may do so with the authority of the Governor‑General.
+                     (d)  if it is necessary to issue or spend public money of the Territory when not authorised to do so by or under enactment—may do so with the authority of the Governor-General.
 
-             (7)  The powers of the Governor‑General under this section are to be exercised by Proclamation.
+             (7)  The powers of the Governor-General under this section are to be exercised by Proclamation.
 
              (8)  The responsible Commonwealth Minister must cause a statement of the reasons for the dissolution to be:
 
@@ -1234,7 +1232,7 @@ the Administrator:
 
 the person is not entitled to enrolment under this section during the period of imprisonment.
 
-             (5)  This section has effect despite subsections 6(1) and (2) of the _Legislative Assembly Act 1979_ (Norfolk Island).
+             (5)  This section has effect despite subsections 6(1) and (2) of the _Legislative Assembly Act 1979_ (Norfolk  Island).
 
 ##### <a id="39B"></a>39B  Entitlement to vote
 
@@ -1250,11 +1248,11 @@ the person is not entitled to enrolment under this section during the period of 
 
                    In this Division:
 
-                    <a name="elector-roll"></a>**_electoral roll_** means the electoral roll referred to in section 5 of the _Legislative Assembly Act 1979_ (Norfolk Island).
+                    <a name="elector-roll"></a>**_electoral roll_** means the electoral roll referred to in section 5 of the _Legislative Assembly Act 1979_ (Norfolk  Island).
 
                     <a name="enrol"></a>**_enrolment_** means enrolment on the electoral roll.
 
-                    <a name="return-offic"></a>**_Returning Officer_** means a person appointed under section 11 of the _Legislative Assembly Act 1979_ (Norfolk Island).
+                    <a name="return-offic"></a>**_Returning Officer_** means a person appointed under section 11 of the _Legislative Assembly Act 1979_ (Norfolk  Island).
 
 ### Division 2—Procedure of Legislative Assembly
 
@@ -1286,7 +1284,7 @@ the person is not entitled to enrolment under this section during the period of 
 
 whichever first happens.
 
-             (4)  A person who ceases to hold office as Speaker or Deputy Speaker is eligible for re‑election to that office.
+             (4)  A person who ceases to hold office as Speaker or Deputy Speaker is eligible for re-election to that office.
 
 ##### <a id="42"></a>42  Procedure at meetings
 
@@ -1404,17 +1402,17 @@ Note:          See also section 25 (proposal of money Bills)
 
                      (b)  the Commonwealth Finance Minister’s Orders.
 
-             (3)  The Minister for Finance must give the statements to the Auditor‑General as soon as practicable after they are prepared.
+             (3)  The Minister for Finance must give the statements to the Auditor-General as soon as practicable after they are prepared.
 
-             (4)  If the Minister for Finance has not given the statements to the Auditor‑General within 5 months after the end of the financial year, the Minister for Finance must cause to be tabled in the Legislative Assembly a statement of the reasons why the statements were not given to the Auditor‑General within that period.
+             (4)  If the Minister for Finance has not given the statements to the Auditor-General within 5 months after the end of the financial year, the Minister for Finance must cause to be tabled in the Legislative Assembly a statement of the reasons why the statements were not given to the Auditor-General within that period.
 
 ##### <a id="48C"></a>48C  Audit of annual financial statements
 
-             (1)  As soon as practicable after receiving financial statements under section 48B, the Auditor‑General must examine the statements and prepare an audit report.
+             (1)  As soon as practicable after receiving financial statements under section 48B, the Auditor-General must examine the statements and prepare an audit report.
 
-             (2)  Instead of preparing a single report, the Auditor‑General may prepare an initial report and one or more supplementary reports.
+             (2)  Instead of preparing a single report, the Auditor-General may prepare an initial report and one or more supplementary reports.
 
-             (3)  The Auditor‑General must give a copy of each report to:
+             (3)  The Auditor-General must give a copy of each report to:
 
                      (a)  the Minister for Finance; and
 
@@ -1432,29 +1430,29 @@ Note:          See also section 25 (proposal of money Bills)
 
 to be tabled in each House of the Parliament.
 
-##### <a id="48D"></a>48D  Audit fees for statement audits
+##### <a id="48D"></a>48D  Audit fees for statement audits
 
-             (1)  If financial statements relating to the Administration are audited as mentioned in section 48C, the Administration is liable to pay audit fees for the audit, based on a scale of fees determined by the Auditor‑General.
+             (1)  If financial statements relating to the Administration are audited as mentioned in section 48C, the Administration is liable to pay audit fees for the audit, based on a scale of fees determined by the Auditor-General.
 
-             (2)  If financial statements relating to a Territory authority are audited as mentioned in section 48C, the authority is liable to pay audit fees for the audit, based on a scale of fees determined by the Auditor‑General.
+             (2)  If financial statements relating to a Territory authority are audited as mentioned in section 48C, the authority is liable to pay audit fees for the audit, based on a scale of fees determined by the Auditor-General.
 
              (3)  Fees are payable within 30 days after issue of a payment claim. Payment claims for instalments may be issued before the audit is completed.
 
-             (4)  The Auditor‑General, on behalf of the Commonwealth, may recover unpaid fees as a debt in a court of competent jurisdiction.
+             (4)  The Auditor-General, on behalf of the Commonwealth, may recover unpaid fees as a debt in a court of competent jurisdiction.
 
-             (5)  In the annual report under section 28 of the _Auditor‑General Act 1997_, the Auditor‑General must include details of the basis on which the Auditor‑General determined the audit fees that applied during the financial year concerned.
+             (5)  In the annual report under section 28 of the _Auditor-General Act 1997_, the Auditor-General must include details of the basis on which the Auditor-General determined the audit fees that applied during the financial year concerned.
 
              (6)  This section does not authorise the imposition of taxation within the meaning of section 55 of the Constitution.
 
 ##### <a id="48E"></a>48E  Performance audits
 
-             (1)  The Auditor‑General may at any time conduct a performance audit of:
+             (1)  The Auditor-General may at any time conduct a performance audit of:
 
                      (a)  the Administration; or
 
                      (b)  a Territory authority.
 
-             (2)  As soon as practicable after completing the report of an audit under this section, the Auditor‑General must:
+             (2)  As soon as practicable after completing the report of an audit under this section, the Auditor-General must:
 
                      (a)  cause a copy of the report to be tabled in each House of the Parliament; and
 
@@ -1470,27 +1468,27 @@ to be tabled in each House of the Parliament.
 
                      (d)  if the report relates to a Territory authority—give a copy of the report to the responsible manager or managers of the authority.
 
-             (3)  The Auditor‑General may give a copy of, or an extract from, the report to any person (including a Norfolk Island Minister or a Commonwealth Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
+             (3)  The Auditor-General may give a copy of, or an extract from, the report to any person (including a Norfolk Island Minister or a Commonwealth Minister) who, or any body that, in the Auditor-General’s opinion, has a special interest in the report or the content of the extract.
 
              (4)  As soon as practicable after receiving a copy of the report, the Minister for Finance must cause a copy of the report to be tabled in the Legislative Assembly.
 
 ##### <a id="48F"></a>48F  Comments on proposed performance audit report
 
-             (1)  After preparing a proposed report on an audit of the Administration under section 48E, the Auditor‑General must give a copy of the proposed report to the Chief Executive Officer.
+             (1)  After preparing a proposed report on an audit of the Administration under section 48E, the Auditor-General must give a copy of the proposed report to the Chief Executive Officer.
 
-             (2)  After preparing a proposed report on an audit of a Territory authority under section 48E, the Auditor‑General must give a copy of the proposed report to the responsible manager or managers of the authority.
+             (2)  After preparing a proposed report on an audit of a Territory authority under section 48E, the Auditor-General must give a copy of the proposed report to the responsible manager or managers of the authority.
 
-             (3)  After preparing a proposed report on an audit under section 48E, the Auditor‑General may give a copy of, or an extract from, the proposed report to any person (including a Norfolk Island Minister or a Commonwealth Minister) who, or any body that, in the Auditor‑General’s opinion, has a special interest in the report or the content of the extract.
+             (3)  After preparing a proposed report on an audit under section 48E, the Auditor-General may give a copy of, or an extract from, the proposed report to any person (including a Norfolk Island Minister or a Commonwealth Minister) who, or any body that, in the Auditor-General’s opinion, has a special interest in the report or the content of the extract.
 
-             (4)  If the recipient of the proposed report, or the extract from the proposed report, gives written comments to the Auditor‑General within 28 days after receiving the proposed report, or the extract from the proposed report, the Auditor‑General must consider those comments before preparing a final report.
+             (4)  If the recipient of the proposed report, or the extract from the proposed report, gives written comments to the Auditor-General within 28 days after receiving the proposed report, or the extract from the proposed report, the Auditor-General must consider those comments before preparing a final report.
 
-             (5)  The Auditor‑General must, in the final report, include all written comments received under subsection (4).
+             (5)  The Auditor-General must, in the final report, include all written comments received under subsection (4).
 
-##### <a id="48G"></a>48G  Audits—application of the _Auditor‑General Act 1997_
+##### <a id="48G"></a>48G  Audits—application of the _Auditor-General Act 1997_
 
-             (1)  The _Auditor‑General Act 1997_ extends to Norfolk Island.
+             (1)  The _Auditor-General Act 1997_ extends to Norfolk Island.
 
-             (2)  The _Auditor‑General Act 1997_ has effect as if:
+             (2)  The _Auditor-General Act 1997_ has effect as if:
 
                      (a)  a reference in section 24 or 26 of that Act to Division 1 of Part 4 of that Act included a reference to section 48C of this Act; and
 
@@ -1504,7 +1502,7 @@ to be tabled in each House of the Parliament.
 
                       (f)  a reference in section 33 of that Act to a Commonwealth authority included a reference to a Territory authority.
 
-             (3)  Section 37 of the _Auditor‑General Act 1997_ has effect, in relation to a report that relates to:
+             (3)  Section 37 of the _Auditor-General Act 1997_ has effect, in relation to a report that relates to:
 
                      (a)  the Administration; or
 
@@ -1512,7 +1510,7 @@ to be tabled in each House of the Parliament.
 
 as if:
 
-                     (c)  a reference in that section to the Attorney‑General were a reference to the Minister who is responsible, or principally responsible, for the administration of the _Interpretation Act 1979_ of Norfolk Island; and
+                     (c)  a reference in that section to the Attorney-General were a reference to the Minister who is responsible, or principally responsible, for the administration of the _Interpretation Act 1979_ of Norfolk Island; and
 
                      (d)  a reference in that section to the Cabinet included a reference to a body that:
 
@@ -1684,7 +1682,7 @@ Compliance
 
                      (b)  if no regulations are in force for the purposes of paragraph (a)—the Commonwealth Finance Minister’s Orders.
 
-##### <a id="48R"></a>48R  Regulations about financial management and accountability—Administration
+##### <a id="48R"></a>48R  Regulations about financial management and accountability—Administration
 
              (1)  The regulations may make provision in relation to the following matters:
 
@@ -1736,7 +1734,7 @@ Compliance
 
              (4)  Regulations made for the purposes of subsection (1) may confer functions or powers on:
 
-                     (a)  the Auditor‑General; or
+                     (a)  the Auditor-General; or
 
                      (b)  the Minister for Finance; or
 
@@ -1800,7 +1798,7 @@ Compliance
 
              (4)  Regulations made for the purposes of subsection (1) may confer functions or powers on:
 
-                     (a)  the Auditor‑General; or
+                     (a)  the Auditor-General; or
 
                      (b)  the Minister for Finance; or
 
@@ -1856,9 +1854,9 @@ on terms and conditions that are specified in, or consistent with, the approval.
 
              (7)  A reference in this section to dealing with securities includes a reference to:
 
-                     (a)  creating, executing, entering into, drawing, making, accepting, endorsing, issuing, discounting, selling, purchasing or re‑selling securities;
+                     (a)  creating, executing, entering into, drawing, making, accepting, endorsing, issuing, discounting, selling, purchasing or re-selling securities;
 
-                     (b)  creating, selling, purchasing or re‑selling rights or options in respect of securities; and
+                     (b)  creating, selling, purchasing or re-selling rights or options in respect of securities; and
 
                      (c)  entering into agreements or other arrangements relating to securities.
 
@@ -1870,9 +1868,9 @@ on terms and conditions that are specified in, or consistent with, the approval.
 
                              (ii)  the provision of credit;
 
-                            otherwise than in relation to a transaction that is in the ordinary course of the day‑to‑day operations of the Administration or the Territory authority shall be deemed to be a raising by the Administration or the Territory authority, otherwise than by borrowing, or an amount of money equal to the amount of the money paid or deposited or the value of the credit provided, as the case may be; and
+                            otherwise than in relation to a transaction that is in the ordinary course of the day-to-day operations of the Administration or the Territory authority shall be deemed to be a raising by the Administration or the Territory authority, otherwise than by borrowing, or an amount of money equal to the amount of the money paid or deposited or the value of the credit provided, as the case may be; and
 
-                     (b)  the obtaining of credit by the Administration or a Territory authority otherwise than in relation to a transaction that is in the ordinary course of the day‑to‑day operations of the Administration or the Territory authority shall be deemed to be a raising by the Administration or the Territory authority, otherwise than by borrowing, of an amount of money equal to the value of the credit so obtained.
+                     (b)  the obtaining of credit by the Administration or a Territory authority otherwise than in relation to a transaction that is in the ordinary course of the day-to-day operations of the Administration or the Territory authority shall be deemed to be a raising by the Administration or the Territory authority, otherwise than by borrowing, of an amount of money equal to the value of the credit so obtained.
 
 ##### <a id="50A"></a>50A  Guarantee of borrowings
 
@@ -1984,9 +1982,9 @@ and, where the Commonwealth Finance Minister makes such a determination, the rep
 
              (2)  If the regulations do so, the regulations must provide that the Commonwealth Financial Officer for Norfolk Island is to:
 
-                     (a)  be appointed by the Governor‑General; and
+                     (a)  be appointed by the Governor-General; and
 
-                     (b)  hold office during the pleasure of the Governor‑General.
+                     (b)  hold office during the pleasure of the Governor-General.
 
              (3)  The regulations may:
 
@@ -2064,11 +2062,11 @@ Other powers of the Federal Court unaffected
 
 ##### <a id="53"></a>53  Appointment of Judges
 
-             (1)  The Governor‑General may, by Commission, appoint a person who, or persons each of whom, is a Judge of another court created by the Parliament to be a Judge or Judges of the Supreme Court.
+             (1)  The Governor-General may, by Commission, appoint a person who, or persons each of whom, is a Judge of another court created by the Parliament to be a Judge or Judges of the Supreme Court.
 
-          (1A)  The Governor‑General may, by Commission, appoint a person who is a Judge of another court created by the Parliament to be the Chief Justice of the Supreme Court.
+          (1A)  The Governor-General may, by Commission, appoint a person who is a Judge of another court created by the Parliament to be the Chief Justice of the Supreme Court.
 
-             (2)  Before tendering advice to the Governor‑General for the purposes of subsection (1) or (1A), the responsible Commonwealth Minister shall give the Executive Council the opportunity of furnishing comments to him or her and shall consider any comments so furnished.
+             (2)  Before tendering advice to the Governor-General for the purposes of subsection (1) or (1A), the responsible Commonwealth Minister shall give the Executive Council the opportunity of furnishing comments to him or her and shall consider any comments so furnished.
 
              (3)  A person shall not be appointed:
 
@@ -2082,7 +2080,7 @@ if he or she has attained the age of 70 years.
 
              (5)  A Judge ceases to hold office as a Judge if he or she no longer holds office as a Judge of another court created by the Parliament.
 
-             (6)  A Judge may resign his or her office by writing under his or her hand delivered to the Governor‑General.
+             (6)  A Judge may resign his or her office by writing under his or her hand delivered to the Governor-General.
 
 ##### <a id="53A"></a>53A  Acting Chief Justice
 
@@ -2092,7 +2090,7 @@ if he or she has attained the age of 70 years.
 
                      (b)  there is a vacancy in the office of Chief Justice;
 
-the next senior Judge who is in Australia or Norfolk Island and is able and willing to do so shall perform the duties, and may exercise the powers, of the Chief Justice.
+the next senior Judge who is in Australia or Norfolk  Island and is able and willing to do so shall perform the duties, and may exercise the powers, of the Chief Justice.
 
 ##### <a id="54"></a>54  Seniority of Judges
 
@@ -2106,11 +2104,11 @@ the next senior Judge who is in Australia or Norfolk Island and is able and will
 
              (1)  A Judge shall be remunerated with the salary and annual allowance that he or she receives as a Judge of the other court, or other courts of which he or she is a Judge.
 
-             (2)  A Judge shall be paid such travelling allowances as the Governor‑General approves.
+             (2)  A Judge shall be paid such travelling allowances as the Governor-General approves.
 
 ##### <a id="57"></a>57  Oath or affirmation of Judge
 
-                   A Judge appointed after the commencement of this section shall, before proceeding to discharge the duties of his or her office, take before the Governor‑General, a Judge of the Supreme Court or of another court created by the Parliament, or a person authorized by the Governor‑General for the purpose, an oath or affirmation in accordance with the form in Schedule 4.
+                   A Judge appointed after the commencement of this section shall, before proceeding to discharge the duties of his or her office, take before the Governor-General, a Judge of the Supreme Court or of another court created by the Parliament, or a person authorized by the Governor-General for the purpose, an oath or affirmation in accordance with the form in Schedule 4.
 
 ##### <a id="58"></a>58  Exercise of jurisdiction
 
@@ -2144,7 +2142,7 @@ the next senior Judge who is in Australia or Norfolk Island and is able and will
 
 ##### <a id="62"></a>62  Grants of land
 
-                   The responsible Commonwealth Minister may, in accordance with law, make grants or other dispositions of Crown land in the Territory.
+                   The responsible Commonwealth Minister may, in accordance with law, make grants or other dispositions of Crown land in the Territory.
 
 ##### <a id="64"></a>64  Customs duty on certain goods
 
@@ -2172,33 +2170,15 @@ until the remuneration or allowance (if any) is so provided for.
 
 ##### <a id="66"></a>66  Grant of pardon, remission etc.
 
-             (1)  The Governor‑General, acting with the advice of the Attorney‑General, may, by warrant under his or her hand, grant to a person convicted by a court of the Territory exercising criminal jurisdiction a pardon, either free or conditional, or a remission or commutation of sentence, or a respite, for such period as he or she thinks fit, of the execution of sentence, and may remit any fines, penalties and forfeitures imposed or incurred under a law in force in the Territory.
+             (1)  The Governor-General, acting with the advice of the Attorney-General, may, by warrant under his or her hand, grant to a person convicted by a court of the Territory exercising criminal jurisdiction a pardon, either free or conditional, or a remission or commutation of sentence, or a respite, for such period as he or she thinks fit, of the execution of sentence, and may remit any fines, penalties and forfeitures imposed or incurred under a law in force in the Territory.
 
-             (2)  Without limiting the powers of the Governor‑General under subsection (1), provision may be made by enactment for the remission, for good conduct, of part of the sentence of a person serving a sentence of imprisonment in the Territory.
+             (2)  Without limiting the powers of the Governor-General under subsection (1), provision may be made by enactment for the remission, for good conduct, of part of the sentence of a person serving a sentence of imprisonment in the Territory.
 
-             (3)  Where an offence has been committed in the Territory, or where an offence has been committed outside the Territory for which the offender may be tried in the Territory, the Governor‑General, acting with the advice of the Attorney‑General, may, by warrant under his or her hand, grant a pardon to an accomplice who gives evidence that leads to the conviction of the principal offender, or of any of the principal offenders.
-
-##### <a id="66A"></a>66A  Reports by Ombudsman
-
-Scope
-
-             (1)  This section applies if an enactment:
-
-                     (a)  requires that the Commonwealth Ombudsman must give a report to a Minister; and
-
-                     (b)  requires that the Minister must cause the report to be tabled in the Legislative Assembly.
-
-Requirement
-
-             (2)  The Minister must give a copy of the report to the responsible Commonwealth Minister.
-
-             (3)  The responsible Commonwealth Minister must cause a copy of the report to be tabled in each House of the Parliament within 15 sitting days of that House after the responsible CommonwealthMinister receives the report.
-
-Note:          See also section 4 of the _Ombudsman Act 1976_.
+             (3)  Where an offence has been committed in the Territory, or where an offence has been committed outside the Territory for which the offender may be tried in the Territory, the Governor-General, acting with the advice of the Attorney-General, may, by warrant under his or her hand, grant a pardon to an accomplice who gives evidence that leads to the conviction of the principal offender, or of any of the principal offenders.
 
 ##### <a id="67"></a>67  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular:
 
                      (a)  making provision for and in relation to sittings of the Supreme Court in a State or in a Territory other than Norfolk Island for the purpose of hearing and determining a matter, otherwise than in the exercise of its criminal jurisdiction, if a Judge is satisfied that the hearing of the matter outside the Territory is not contrary to the interests of justice; and
 
@@ -2224,7 +2204,7 @@ Note:          See also section 4 of the _Ombudsman Act 1976
 
 ##### <a id="69"></a>69  Election of Legislative Assembly
 
-             (1)  The powers of the Governor‑General under the previous Act to make Ordinances extend to the making of an Ordinance before the commencing date for the purposes of subsection 31(3) and with respect to matters relating to the Legislative Assembly.
+             (1)  The powers of the Governor-General under the previous Act to make Ordinances extend to the making of an Ordinance before the commencing date for the purposes of subsection 31(3) and with respect to matters relating to the Legislative Assembly.
 
              (2)  An election for the purposes of subsection 31(3) shall not be held before 1 July 1979.
 
@@ -2683,7 +2663,7 @@ _Sections 4, 7, 12, 21, 27, 47 and 67_
     <div>49.</div>
   </td>
   <td>
-    <div>Branding and marking of live‑stock.</div>
+    <div>Branding and marking of live-stock.</div>
   </td>
 </tr>
 <tr>
@@ -2723,7 +2703,7 @@ _Sections 4, 7, 12, 21, 27, 47 and 67_
     <div>54.</div>
   </td>
   <td>
-    <div>Live‑stock diseases (other than quarantine).</div>
+    <div>Live-stock diseases (other than quarantine).</div>
   </td>
 </tr>
 <tr>
@@ -2787,8 +2767,8 @@ _Sections 4, 7, 12, 21, 27, 47 and 67_
     <div>62.</div>
   </td>
   <td>
-    <div>Fund‑raising from the public for non‑commercial purposes, and associations
-      registered for fund‑raising of that type.</div>
+    <div>Fund-raising from the public for non-commercial purposes, and associations
+      registered for fund-raising of that type.</div>
   </td>
 </tr>
 <tr>
@@ -2964,7 +2944,7 @@ _Sections 4, 7, 12, 21, 27, 47 and 67_
     <div>Mining and minerals, (excluding uranium or other prescribed substances
       within the meaning of the
       <i>Atomic Energy Act 1953</i>and regulations under that Act as in force from
-      time to time), within all the land of the Territory above the low‑water
+      time to time), within all the land of the Territory above the low-water
       mark.</div>
   </td>
 </tr>
@@ -3155,12 +3135,12 @@ _Sections 10 and 57_
 
 OATH
 
-     I, _A.B._, do swear that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth, Her heirs and successors according to law, that I will well and truly serve Her in the office of                                        and that I will do right to all manner of people according to law, without fear or favour, affection or ill‑will: So help me God!
+     I, _A.B._, do swear that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth, Her heirs and successors according to law, that I will well and truly serve Her in the office of                                             and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will: So help me God!
 
 AFFIRMATION
 
-     I, _A.B._, do solemnly and sincerely promise and declare that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth, Her heirs and successors according to law, that I will well and truly serve Her in the office of                                   
- and that I will do right to all manner of people according to law, without fear or favour, affection or ill‑will.
+     I, _A.B._, do solemnly and sincerely promise and declare that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth, Her heirs and successors according to law, that I will well and truly serve Her in the office of                             
+ and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will.
 
 ## Schedule 5  
 
@@ -3228,7 +3208,7 @@ AFFIRMATION
 
 The _Norfolk Island__Act 1979_ as shown in this compilation comprises Act No. 25, 1979 amended as indicated in the Tables below. 
 
-The _Norfolk Island__Act 1979_ was amended by the Norfolk Island (Exercise of Powers) Regulations (Statutory Rules 1981 No. 153 as amended). The amendments are incorporated in this compilation. 
+The _Norfolk Island__Act 1979_ was amended by the Norfolk  Island (Exercise of Powers) Regulations (Statutory Rules 1981 No. 153 as amended). The amendments are incorporated in this compilation. 
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -3731,7 +3711,7 @@ Remainder: Royal Assent</div>
       <div>Schedule 1 (items 1–60, 
 85–125): 11 Dec 2010 
 Schedule 1 (items 78–84): \[ <i>see</i>Note 2 and Table A] 
-Schedule 1 (item 240): 10 June 2011</div>
+Schedule 1 (item 240): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>Sch. 1 (items 
@@ -3742,9 +3722,9 @@ Schedule 1 (item 240): 10 June 2011</div>
 
 _(a)_     The _Norfolk Island Act 1979_ was amended by Part XXVIII (sections 164 and 165) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
 
-               (12)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
+               (12)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
-_(b)_     The _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_ was amended by Part LXXI (sections 262 and 263) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(11) of which provides as follows:
+_(b)_    The _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_ was amended by Part LXXI (sections 262 and 263) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(11) of which provides as follows:
 
                (11)   Parts XLIX and LXXI shall be deemed to have come into operation on 4 June 1982.
 
@@ -3754,7 +3734,7 @@ _(c)_     The _Norfolk Island Act 1979_ was amended by Part XLIX (sect
 
 _(d)_     The _Norfolk Island__Act 1979_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(e)_     The _Norfolk Island__Act 1979_ was amended by subsection 152(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
@@ -3762,7 +3742,7 @@ _(e)_     The _Norfolk Island__Act 1979_ was amended by subsection 152(1
 
 _(f)_      The _Norfolk Island__Act 1979_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(g)_     The _Norfolk Island__Act 1979_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(1) of which provides as follows:
 
@@ -3784,7 +3764,7 @@ _(k)_     The _Norfolk Island__Act 1979_ was amended by Schedule 2 (it
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(l)_      The _Norfolk Island__Act 1979_ was amended by Schedule 1 (item 692) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(l)_      The _Norfolk  Island__Act 1979_ was amended by Schedule 1 (item 692) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -4267,7 +4247,7 @@ _(m)_ The _Norfolk Island__Act 1979_ was amended by Schedule 3 (item 399) on
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part VI</div>
+    <div>Heading to Div. 1 of Part VI.</div>
   </td>
   <td>
     <div>ad. No. 139, 2010</div>
@@ -4347,7 +4327,7 @@ _(m)_ The _Norfolk Island__Act 1979_ was amended by Schedule 3 (item 399) on
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of Part VI</div>
+    <div>Heading to Div. 3 of Part VI.</div>
   </td>
   <td>
     <div>ad. No. 139, 2010</div>
@@ -4787,14 +4767,6 @@ _(m)_ The _Norfolk Island__Act 1979_ was amended by Schedule 3 (item 399) on
 </tr>
 <tr>
   <td>
-    <div>S. 66A</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 67</div>
   </td>
   <td>
@@ -4924,7 +4896,33 @@ Insert:
 
                      (b)  the filling of casual vacancies in the offices of members of the Legislative Assembly.
 
-As at 10 June 2011 the amendments are not incorporated in this compilation.
+The following amendment commences on 10 June 2011 unless proclaimed earlier:
+
+## Schedule 1
+
+## 240  After section 66
+
+Insert:
+
+##### <a id="66A"></a>66A  Reports by Ombudsman
+
+Scope
+
+             (1)  This section applies if an enactment:
+
+                     (a)  requires that the Commonwealth Ombudsman must give a report to a Minister; and
+
+                     (b)  requires that the Minister must cause the report to be tabled in the Legislative Assembly.
+
+Requirement
+
+             (2)  The Minister must give a copy of the report to the responsible Commonwealth Minister.
+
+             (3)  The responsible Commonwealth Minister must cause a copy of the report to be tabled in each House of the Parliament within 15 sitting days of that House after the responsible CommonwealthMinister receives the report.
+
+Note:          See also section 4 of the _Ombudsman Act 1976_.
+
+As at 15 December 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4960,7 +4958,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -4968,7 +4966,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
@@ -4984,33 +4982,33 @@ _Territories Law Reform Act 2010 (No. 139, 2010)_
 
 ## 56  Transitional—Chief Minister
 
-(1)       This item applies to a person if:
+(1)        This item applies to a person if:
 
                      (a)  immediately before the commencement of this item, the person held an executive office under section 13 of the _Norfolk Island Act 1979_; and
 
                      (b)  the person was designated as the Chief Minister.
 
-(2)       The _Norfolk Island Act 1979_ as amended by this Division has effect as if, immediately after the commencement of this item, the Administrator had, on the advice of the Legislative Assembly, appointed the person as the Chief Minister under subsection 13(1) of that Act.
+(2)        The _Norfolk Island Act 1979_ as amended by this Division has effect as if, immediately after the commencement of this item, the Administrator had, on the advice of the Legislative Assembly, appointed the person as the Chief Minister under subsection 13(1) of that Act.
 
-(3)       The _Norfolk Island Act 1979_ as amended by this Division has effect as if the person had complied with section 15 of that Act in relation to the appointment covered by subitem (2).
+(3)        The _Norfolk Island Act 1979_ as amended by this Division has effect as if the person had complied with section 15 of that Act in relation to the appointment covered by subitem (2).
 
 ## 57  Transitional—other Ministers
 
-(1)       This item applies to a person if:
+(1)        This item applies to a person if:
 
                      (a)  immediately before the commencement of this item, the person held an executive office under section 13 of the _Norfolk Island Act 1979_; and
 
                      (b)  the person was not designated as the Chief Minister.
 
-(2)       The _Norfolk Island Act 1979_ as amended by this Division has effect as if the Administrator had, immediately after the commencement of this item, on the advice of the Chief Minister, appointed the person as a Minister under subsection 13(2) of that Act.
+(2)        The _Norfolk Island Act 1979_ as amended by this Division has effect as if the Administrator had, immediately after the commencement of this item, on the advice of the Chief Minister, appointed the person as a Minister under subsection 13(2) of that Act.
 
-(3)       The _Norfolk Island Act 1979_ as amended by this Division has effect as if the person had complied with section 15 of that Act in relation to the appointment covered by subitem (2).
+(3)        The _Norfolk Island Act 1979_ as amended by this Division has effect as if the person had complied with section 15 of that Act in relation to the appointment covered by subitem (2).
 
 ## 58  Transitional—maximum number of Ministers
 
-(1)       This item applies if, immediately before the commencement of this item, the number (the **_transitional number_**) of persons holding executive office under section 13 of the _Norfolk Island Act 1979_ (other than the person who was designated as the Chief Minister) exceeded 3.
+(1)        This item applies if, immediately before the commencement of this item, the number (the **_transitional number_**) of persons holding executive office under section 13 of the _Norfolk Island Act 1979_ (other than the person who was designated as the Chief Minister) exceeded 3.
 
-(2)       During the period:
+(2)        During the period:
 
                      (a)  beginning at the commencement of this item; and
 
@@ -5082,7 +5080,7 @@ the _Norfolk Island Act 1979_ continues to apply, after the commencement of this
 
 as if those repeals had not been effected.
 
-## 125  Transitional—pre‑commencement appropriation
+## 125  Transitional—pre-commencement appropriation
 
 If any issue or expenditure of money was authorised by an enactment that commenced before the commencement of this item, subsection 48(1) of the _Norfolk Island Act 1979_ as amended by this Part has effect as if the issue or expenditure had been authorised by an appropriation made by an enactment.
 
@@ -5092,8 +5090,8 @@ The following provision commences on the start of the first meeting of the Legis
 
 ## 84  Application of amendments
 
-(1)       The amendments made by this Division, in so far as they relate to a general election of members of the Legislative Assembly, apply to a general election, where writs for the general election are issued after the commencement of this item.
+(1)        The amendments made by this Division, in so far as they relate to a general election of members of the Legislative Assembly, apply to a general election, where writs for the general election are issued after the commencement of this item.
 
-(2)       The amendments made by this Division, in so far as they relate to a casual vacancy in the office of a member of the Legislative Assembly, apply in relation to a casual vacancy that occurs after the commencement of this item.
+(2)        The amendments made by this Division, in so far as they relate to a casual vacancy in the office of a member of the Legislative Assembly, apply in relation to a casual vacancy that occurs after the commencement of this item.
 
  
