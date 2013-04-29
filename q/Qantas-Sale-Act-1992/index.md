@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00904/Html/fb9fc3ed-2ede-4dff-9173-68c686f50fdb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00835/Html/a8e04be7-caff-4403-abcb-7a625f3d9b93_files/image001.gif)
 
 # Qantas Sale Act 1992
 
 **Act No. 196 of 1992 as amended**
 
-This compilation was prepared on 11 November 2011
- taking into account amendments up to Act No. 127 of 2011
+This compilation was prepared on 18 October 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -658,7 +658,7 @@ enter into an agreement to take over an obligation to which this section applies
 
 by the Commonwealth.
 
-##### <a id="21"></a>21  This Part to have effect despite Corporations Act
+##### <a id="21"></a>21  This Part to have effect despite Corporations Act
 
                    This Part has effect despite any provision of the _Corporations Act 2001_ of a State or an internal Territory.
 
@@ -1018,7 +1018,7 @@ cease to apply to the employee on the day on which this section commences.
 
 Australian Airlines is entitled to be paid an amount equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00904/Html/fb9fc3ed-2ede-4dff-9173-68c686f50fdb_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00835/Html/a8e04be7-caff-4403-abcb-7a625f3d9b93_files/image002.gif)
 
 where:
 
@@ -1040,7 +1040,7 @@ where:
 
 then Qantas or the subsidiary, as the case may be, is entitled to be paid the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00904/Html/fb9fc3ed-2ede-4dff-9173-68c686f50fdb_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00835/Html/a8e04be7-caff-4403-abcb-7a625f3d9b93_files/image003.gif)
 
 where:
 
@@ -1508,23 +1508,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Business Names Registration (Transitional and Consequential Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>127, 2011</div>
-  </td>
-  <td>
-    <div>3 Nov 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 25): \[ <i>see</i>s. 2(1) and Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsections 2(2) and (6) of the _Qantas Sale Act 1992_ provide as follows:
@@ -1935,21 +1918,7 @@ The following amendment commences on 27 December 2011 unless proclaimed earlier:
 
 Repeal the definition.
 
-As at 11 November 2011 the amendment is not incorporated in this compilation.
-
-### Note 3
-
-_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
-
-The following amendment commences at the same time as section 3 of the _Business Names Registration Act 2011_:
-
-## Schedule 2
-
-## 25  Subsection 7(7) (definition of _registered business name_)
-
-After “under a law of a State or Territory that relates to the registration of business names”, substitute “on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_”.
-
-As at 11 November 2011 the amendment is not incorporated in this compilation.
+As at 18 October 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
