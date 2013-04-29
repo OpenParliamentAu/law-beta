@@ -1,168 +1,170 @@
-![](http://www.comlaw.gov.au/Details/C2009C00363/Html/HorticultureMarkResDevServRepConseqProvis2000HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00086/Html/D0AD4B706F1A8DB8CA25713F0082713D/$FILE/image001.gif)
 
 # Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000
 
 **Act No. 163 of 2000 as amended**
 
-This compilation was prepared on 22 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 115 of 2001
+and SLI 2006 No. 50
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Simplified outline
+[3](#3).            Simplified outline                                                                                 2
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           2
 
-[5](#5).            Crown to be bound
+[5](#5).            Crown to be bound                                                                              5
 
-[6](#6).            Extra-territorial operation
+[6](#6).            Extra-territorial operation                                                                    5
 
-[7](#7).            Schedule(s)
+[7](#7).            Schedule(s)                                                                                           5
 
 **Part 2—Transitional provisions** 
 
     **Division 1—Statutory authorities’ role in transition**
 
-[8](#8).            Simplified outline
+[8](#8).            Simplified outline                                                                                 6
 
-[9](#9).            Functions of statutory authorities
+[9](#9).            Functions of statutory authorities                                                       6
 
-[10](#10).          Repeal of Division
+[10](#10).          Repeal of Division                                                                               6
 
     **Division 2—Transfer day**
 
-[11](#11).          Simplified outline
+[11](#11).          Simplified outline                                                                                 7
 
-[12](#12).          Minister must determine transfer day
+[12](#12).          Minister must determine transfer day                                                 7
 
-[13](#13).          Time of transfers
+[13](#13).          Time of transfers                                                                                 8
 
     **Division 3—Transfer of assets and liabilities etc.**
 
-[14](#14).          Simplified outline
+[14](#14).          Simplified outline                                                                                 9
 
-[15](#15).          Transfers subject to conditions
+[15](#15).          Transfers subject to conditions                                                           9
 
-[16](#16).          Transfer of assets and liabilities
+[16](#16).          Transfer of assets and liabilities                                                          9
 
-[17](#17).          ADF Trust Amount
+[17](#17).          ADF Trust Amount                                                                          10
 
-[18](#18).          Transfer of pending proceedings
+[18](#18).          Transfer of pending proceedings                                                       10
 
-[19](#19).          Exemption from taxation
+[19](#19).          Exemption from taxation                                                                   11
 
-[19A](#19A).       Operation of GST Law
+[19A](#19A).       Operation of GST Law                                                                      11
 
-[20](#20).          References in certain instruments
+[20](#20).          References in certain instruments                                                      11
 
-[21](#21).          Certificates in relation to assets
+[21](#21).          Certificates in relation to assets                                                         12
 
-[22](#22).          Saving: levies and charges
+[22](#22).          Saving: levies and charges                                                                  12
 
     **Division 4—Transfer of staff** 
 
         **Subdivision A—Preliminary**
 
-[23](#23).          Simplified outline
+[23](#23).          Simplified outline                                                                               15
 
-[24](#24).          Transfer of staff
+[24](#24).          Transfer of staff                                                                                 15
 
-[25](#25).          Terms and conditions of transferred employees
+[25](#25).          Terms and conditions of transferred employees                               15
 
-[26](#26).          Variation of terms and conditions of employment
+[26](#26).          Variation of terms and conditions of employment                            16
 
         **Subdivision B—Application of the Safety, Rehabilitation and Compensation Act**
 
-[27](#27).          Continued application of SRC Act
+[27](#27).          Continued application of SRC Act                                                    16
 
-[28](#28).          Commonwealth liability to meet certain SRC Act liabilities
+[28](#28).          Commonwealth liability to meet certain SRC Act liabilities             17
 
-[29](#29).          SRC Act: rehabilitation provisions
+[29](#29).          SRC Act: rehabilitation provisions                                                    17
 
-[30](#30).          Premiums under the SRC Act
+[30](#30).          Premiums under the SRC Act                                                            17
 
         **Subdivision C—Deferred Defence Force Retirement and Death Benefits Act benefits**
 
-[31](#31).          Saving: deferred benefits under the DFRDB Act
+[31](#31).          Saving: deferred benefits under the DFRDB Act                              19
 
         **Subdivision D—Maternity leave provisions**
 
-[32](#32).          Maternity leave starting before transfer day
+[32](#32).          Maternity leave starting before transfer day                                     19
 
-[33](#33).          Maternity leave starting after transfer day
+[33](#33).          Maternity leave starting after transfer day                                        20
 
         **Subdivision E—Provisions relating to superannuation**
 
-[34](#34).          Application of the _Superannuation Act 1922_
+[34](#34).          Application of the _Superannuation Act 1922_                                    20
 
-[35](#35).          Application of other Superannuation Acts
+[35](#35).          Application of other Superannuation Acts                                       20
 
-[36](#36).          Application of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
+[36](#36).          Application of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_ 20
 
         **Subdivision F—Provisions relating to long service leave**
 
-[37](#37).          Long service leave for employees with less than 10 years service
+[37](#37).          Long service leave for employees with less than 10 years service    21
 
-[38](#38).          Payments in lieu of long service leave for employees with less than 10 years service
+[38](#38).          Payments in lieu of long service leave for employees with less than 10 years service            22
 
-[39](#39).          Payments on the death of an employee
+[39](#39).          Payments on the death of an employee                                             23
 
-[40](#40).          Employee’s long service leave credit for the purposes of sections 37 and 38
+[40](#40).          Employee’s long service leave credit for the purposes of sections 37 and 38         24
 
-[41](#41).          Employees with at least 10 years service
+[41](#41).          Employees with at least 10 years service                                          24
 
-[42](#42).          Division not to affect post-commencement long service leave rights
+[42](#42).          Division not to affect post-commencement long service leave rights 25
 
         **Subdivision G—Staff with mobility rights**
 
-[43](#43).          Cessation of mobility rights
+[43](#43).          Cessation of mobility rights                                                              25
 
     **Division 5—Transitional period for export controls**
 
-[44](#44).          Simplified outline
+[44](#44).          Simplified outline                                                                               26
 
-[45](#45).          Continuation of export controls despite repeal of AHC Act
+[45](#45).          Continuation of export controls despite repeal of AHC Act            26
 
-[46](#46).          References to AHC and Product Board
+[46](#46).          References to AHC and Product Board                                             27
 
-[47](#47).          Phasing out of export controls under Part V of AHC Act
+[47](#47).          Phasing out of export controls under Part V of AHC Act                27
 
     **Division 6—Final annual reports**
 
-[48](#48).          Simplified outline
+[48](#48).          Simplified outline                                                                               29
 
-[49](#49).          Final annual report: Australian Horticultural Corporation
+[49](#49).          Final annual report: Australian Horticultural Corporation                29
 
-[50](#50).          Final annual report: Australian Dried Fruits Board
+[50](#50).          Final annual report: Australian Dried Fruits Board                           29
 
-[51](#51).          Final annual report: Horticultural Research and Development Corporation
+[51](#51).          Final annual report: Horticultural Research and Development Corporation           30
 
     **Division 7—Miscellaneous**
 
-[52](#52).          Delegation of Secretary’s powers
+[52](#52).          Delegation of Secretary’s powers                                                      32
 
-[53](#53).          Compensation for acquisition of property
+[53](#53).          Compensation for acquisition of property                                        32
 
-[54](#54).          Regulations
+[54](#54).          Regulations                                                                                        32
 
 **Schedule 1—Repeal of Acts**
 
-[1](#1).            Repeal of Acts
+[1](#1).            Repeal of Acts                                                                                   34
 
 **Schedule 2—Consequential amendments** 
 
@@ -173,6 +175,7 @@ Horticulture Marketing and Research and Development Services Act 2000 36
 **Schedule 4—Operation of the Privacy Act** 
 
 **Notes** 
+
 
 ## An Act to deal with matters consequential on the enactment of the _Horticulture Marketing and Research and Development Services Act 2000_, and for related purposes
 
@@ -208,7 +211,7 @@ Note:          The short title of the Act that establishes the
 
                    The following is a simplified outline of this Act:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 This Act deals with the transition from the Australian Horticultural Corporation, Horticultural Research and Development Corporation and the Australian Dried Fruits Board to new bodies. The new bodies are those declared under the _Horticulture Marketing and Research and Development Services Act 2000_.
 
@@ -218,9 +221,7 @@ On the transfer day assets, liabilities and staff of the Corporations and the Bo
 
 The system of export controls in place under the _Australian Horticultural Corporation Act 1987_ is kept in place for a maximum period of 2 years after the transfer day. Export controls on particular products can be phased out during the 2 year period, as controls on those products are brought in under the _Horticulture Marketing and Research and Development Services Act 2000_ (see Division 5 of Part 2 of this Act).
 
-The _Australian Horticultural Corporation Act 1987_ and the _Horticultural Research and Development Corporation Act 1987_ are repealed once the assets, liabilities and staff of the bodies established by those Acts have been transferred to the new industry services body (see Schedule 1 to this Act).
-
-* * *
+The _Australian Horticultural Corporation Act 1987_ and the _Horticultural Research and Development Corporation Act 1987_ are repealed once the assets, liabilities and staff of the bodies established by those Acts have been transferred to the new industry services body (see Schedule 1 to this Act).</div>
 
 ##### <a id="4"></a>4  Definitions
 
@@ -233,6 +234,8 @@ The _Australian Horticultural Corporation Act 1987_ and the _Horticultural Resea
                     <a name="asset"></a>**_assets_** means any legal or equitable estate or interest of the authority in real or personal property (whether actual, contingent or prospective) and includes all rights, powers, privileges and immunities (whether actual, contingent or prospective).
 
                     <a name="asset-offici"></a>**_assets official_** means a person or authority who, under a law, has responsibility for keeping a register in relation to assets of the kind concerned.
+
+                    <a name="award"></a>**_award_** has the same meaning as in the _Workplace Relations Act 1996_.
 
                     <a name="combin-servic-period"></a>**_combined service period_**, in relation to an employee, means the total of:
 
@@ -292,7 +295,7 @@ The _Australian Horticultural Corporation Act 1987_ and the _Horticultural Resea
 
 ##### <a id="6"></a>6  Extra-territorial operation
 
-                   This Act applies both within and outside   Australia.
+                   This Act applies both within and outside Australia.
 
 ##### <a id="7"></a>7  Schedule(s)
 
@@ -306,11 +309,9 @@ The _Australian Horticultural Corporation Act 1987_ and the _Horticultural Resea
 
                    The following is a simplified outline of this Division:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-This Division sets out the role of the Australian Horticultural Corporation, the Horticultural Research and Development Corporation and the Australian Dried Fruits Board in the transition to the new industry bodies.
-
-* * *
+This Division sets out the role of the Australian Horticultural Corporation, the Horticultural Research and Development Corporation and the Australian Dried Fruits Board in the transition to the new industry bodies.</div>
 
 ##### <a id="9"></a>9  Functions of statutory authorities
 
@@ -336,11 +337,9 @@ This Division sets out the role of the Australian Horticultural Corporation, the
 
                    The following is a simplified outline of this Division:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-This Division provides for the Minister to determine the transfer day.
-
-* * *
+This Division provides for the Minister to determine the transfer day.</div>
 
 ##### <a id="12"></a>12  Minister must determine transfer day
 
@@ -374,7 +373,7 @@ This Division provides for the Minister to determine the transfer day.
 
                    The following is a simplified outline of this Division:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 On the transfer day, the assets and liabilities of the 3 statutory authorities vest in the new industry services body.
 
@@ -382,9 +381,7 @@ Special provision is made for the transfer of certain money of the Australian Dr
 
 Transfers are not subject to taxation (see section 19).
 
-Other transitional matters (such as the transfer of records, outstanding money and legal proceedings) are also dealt with.
-
-* * *
+Other transitional matters (such as the transfer of records, outstanding money and legal proceedings) are also dealt with.</div>
 
 ##### <a id="15"></a>15  Transfers subject to conditions
 
@@ -542,15 +539,13 @@ Note:          For the meaning of **_assets official_**, see s
 
                    The following is a simplified outline of this Division:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 On the transfer day, the staff of the 3 statutory authorities are transferred to the new industry services body on the same terms and conditions, and with the same accrued entitlements, that they had before the transfer (see section 25).
 
 The terms and conditions on which the staff are transferred can be varied after the transfer (see section 26).
 
-Other provisions deal with the application of certain Commonwealth Acts (such as superannuation Acts and the Maternity Leave Act).
-
-* * *
+Other provisions deal with the application of certain Commonwealth Acts (such as superannuation Acts and the Maternity Leave Act).</div>
 
 ##### <a id="24"></a>24  Transfer of staff
 
@@ -738,7 +733,7 @@ the industry services body may grant the employee long service leave on full sal
 
                      (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 37 of the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_”.
 
-##### <a id="38"></a>38  Payments in lieu of long service leave for employees with less than 10 years service
+##### <a id="38"></a>38  Payments in lieu of long service leave for employees with less than 10 years service
 
              (1)  This section applies to a person:
 
@@ -840,13 +835,11 @@ Note:          For the meaning of **_APS employee_**, see sect
 
                    The following is a simplified outline of this Division:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 The system of export controls in place under the _Australian Horticultural Corporation Act 1987_ is continued after the transfer day for a transitional period (a maximum of 2 years).
 
-During the transitional period most of the export control powers that the Australian Horticultural Corporation had can be exercised by the new industry export control body.
-
-* * *
+During the transitional period most of the export control powers that the Australian Horticultural Corporation had can be exercised by the new industry export control body.</div>
 
 ##### <a id="45"></a>45  Continuation of export controls despite repeal of AHC Act
 
@@ -904,11 +897,9 @@ Part V (and any instrument made under, or for the purposes of, Part V) cease
 
                    The following is a simplified outline of this Division:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-Each of the 3 statutory authorities must produce a final annual report covering the authority’s operations and financial status up to the transfer day.
-
-* * *
+Each of the 3 statutory authorities must produce a final annual report covering the authority’s operations and financial status up to the transfer day.</div>
 
 ##### <a id="49"></a>49  Final annual report: Australian Horticultural Corporation
 
@@ -990,6 +981,7 @@ the Commonwealth is liable to pay the person a reasonable amount of compensation
 
              (2)  In particular, regulations may be made dealing with other transitional matters arising out of the repeal of the _Australian Horticultural Corporation Act 1987_ and the _Horticultural Research and Development Corporation Act 1987_ and the enactment of this Act and the _Horticulture Marketing and Research and Development Services Act 2000_.
 
+
 # Schedule 1—Repeal of Acts
 
 ##### <a id="1"></a>1  Repeal of Acts
@@ -1002,7 +994,7 @@ the Commonwealth is liable to pay the person a reasonable amount of compensation
 
 # Schedule 2—Consequential amendments
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
@@ -1018,9 +1010,7 @@ _Primary Industries (Excise) Levies Act 1999_
 
 _Safety, Rehabilitation and Compensation Act 1988_
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. No. 163, 2000.
-
-* * *
+For access to the wording of the amendments made by this Schedule, _see_ Act No. No. 163, 2000.</div>
 
 # Schedule 3—References to Administrative Appeals Tribunal
 
@@ -1036,7 +1026,7 @@ Repeal the subsection.
 
 # Schedule 4—Operation of the Privacy Act
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
@@ -1044,9 +1034,10 @@ The amendments made by this Schedule are incorporated in the compilations on Com
 
 _Horticulture Marketing and Research and Development Services Act 2000_
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. No. 163, 2000.
+For access to the wording of the amendments made by this Schedule, _see_ Act No. No. 163, 2000.</div>
 
-* * *
+ 
+
 
 # Notes to the _Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000_
 
@@ -1076,11 +1067,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1090,120 +1083,71 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000</div>
-  </td>
-  <td>
-    <div>163, 2000</div>
-  </td>
-  <td>
-    <div>21 Dec 2000</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 2: 1 Feb 2001 ( <i>see</i> <i>Gazette</i>2001, No. GN6) 
+<tbody>
+  <tr>
+    <td>
+      <div>Horticulture Marketing and Research and Development Services (Repeals and Consequential Provisions) Act 2000</div>
+    </td>
+    <td>
+      <div>163, 2000</div>
+    </td>
+    <td>
+      <div>21 Dec 2000</div>
+    </td>
+    <td>
+      <div>Schedules 1 and 2: 1 Feb 2001 ( <i>see</i> <i>Gazette</i>2001, No. GN6) 
 Schedule 3: <i>(a)</i> 
 ( <i>see</i>s 2(3)) 
-Schedule 4: 21 Dec 2001 ( <i>see</i>s. 2(4)) 
-Remainder: 21 Dec 2000 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<thead>
-  <tr>
-    <td>
-      <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
+Schedule 4: 21 Dec 2001 ( <i>see</i>s. 2(4)) 
+Remainder: 21 Dec 2000 ( <i>see</i>s. 2(1)) 
+
+</div>
     </td>
     <td>
-      <div>115, 2001</div>
-    </td>
-    <td>
-      <div>18 Sept 2001</div>
-    </td>
-    <td>
-      <div>16 Oct 2001</div>
-    </td>
-    <td>
-      <div>S. 4</div>
+      <div></div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-    </td>
-    <td>
-      <div>54, 2009</div>
-    </td>
-    <td>
-      <div>25 June 2009</div>
-    </td>
-    <td>
-      <div>Schedule 4 (item 3): <i>(b)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</thead></table>
+  <thead>
+    <tr>
+      <td>
+        <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      </td>
+      <td>
+        <div>115, 2001</div>
+      </td>
+      <td>
+        <div>18 Sept 2001</div>
+      </td>
+      <td>
+        <div>16 Oct 2001</div>
+      </td>
+      <td>
+        <div>S. 4</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div></div>
+      </td>
+      <td>
+        <div></div>
+      </td>
+      <td>
+        <div></div>
+      </td>
+      <td>
+        <div></div>
+      </td>
+      <td>
+        <div></div>
+      </td>
+    </tr>
+  </thead>
+</tbody></table>
+
 
 _(a)_ The Administrative Review Tribunal Bill has not been enacted. Therefore these amendments do not commence.
 
-_(b)_    Subsection 2(1) (item 10) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      10\. Schedule 4
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -1228,38 +1172,33 @@ _(b)_    Subsection 2(1) (item 10) of the _Fair Work (State Referral and C
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 115, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 115, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1272,5 +1211,6 @@ _Agriculture, Fisheries and Forestry Legislation Amendment (Application of Crimi
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
 
  
