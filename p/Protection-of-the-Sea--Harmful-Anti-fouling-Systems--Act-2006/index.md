@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00146/Html/ProtectionSeaHarmfulAntifoulingSystems2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00041/Html/ProtectionSeaHarmfulAntifoulingSystems2006_image001.gif)
 
 # Protection of the Sea (Harmful Anti-fouling Systems) Act 2006
 
 **Act No. 107 of 2006 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 2 February 2010
+ taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -207,7 +207,7 @@ Note:          This table relates only to the provisions of th
 
                     <a name="convent"></a>**_Convention_** means the International Convention on the Control of Harmful Anti-fouling Systems on Ships, done at London on 5 October 2001.
 
-Note:          In 2006, the text of the Convention was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+Note:          In 2006, the text of the Convention was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
 
                     <a name="hull-extern-part-surfac"></a><a name="design-extern-surfac"></a>**_designated external surface_** means any part of the hull or external parts or surfaces. For this purpose, **_hull or external parts or surfaces_** has the same meaning as in the Convention.
 
@@ -875,7 +875,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                     <a name="law-sea-convent"></a>**_Law of the Sea Convention_** means the United Nations Convention on the Law of the Sea, done at Montego Bay on 10 December 1982.
 
-Note:          The text of the Convention is set out in Australian Treaty Series 1994 No. 31\. In 2006, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+Note:          The text of the Convention is set out in Australian Treaty Series 1994 No. 31\. In 2006, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
 
 ##### <a id="22"></a>22  Evidence of terms of the Convention
 
@@ -1037,79 +1037,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 80, 81): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
 </tr></table>
 
 ### Note 2
@@ -1127,6 +1054,6 @@ Add:
 
              (6)  While a ship is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
 
-As at 3 March 2010 the amendment is not incorporated in this compilation.
+As at 2 February 2010 the amendment is not incorporated in this compilation.
 
  
