@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00026/Html/2accd781-c4ba-44de-a72e-46d3975e1caf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00769/Html/d71f5ddd-13aa-41db-acb9-6fc18b16d321_files/image001.gif)
 
 # Classification (Publications, Films and Computer Games) Act 1995
 
 **Act No. 7 of 1995 as amended**
 
-This compilation was prepared on 31 December 2010
+This compilation was prepared on 26 November 2010
  taking into account amendments up to Act No. 127 of 2010
 
 [**Note**: Part 10 ceases to have effect on 18 August 2012, _see_ section 115]
@@ -3561,7 +3561,7 @@ Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1])</div>
     <div>29 June 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 4): 31 Dec 2010</div>
+    <div>Schedule 1 (items 1, 4): \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 4)</div>
@@ -5577,6 +5577,55 @@ _Families, Community Services and Indigenous Affairs and Other Legislation Amend
 
                    Section 49 of the _Northern   Territory__(Self-Government) Act 1978_ does not apply in relation to the provisions of this Act.
 
+##### \[NOTE]  <a id="4"></a>4  Racial Discrimination Act
+
+             (1)  Subject to subsection (3), the provisions of this Act, and any acts done under or for the purposes of those provisions, are, for the purposes of the _Racial Discrimination Act 1975_, special measures.
+
+             (2)  Subject to subsection (3), the provisions of this Act, and any acts done under or for the purposes of those provisions, are excluded from the operation of Part II of the _Racial Discrimination Act 1975_.
+
+             (3)  Subsections (1) and (2) do not apply to amendments or repeals made by Division 2 or 3 of Part 1 of Schedule 2 (law enforcement) to this Act.
+
+             (4)  In this section, a reference to:
+
+                     (a)  any acts done includes a reference to any failure to do an act; and
+
+                     (b)  provisions of this Act includes a reference to provisions of other Acts that are inserted, amended or repealed by the provisions of this Act.
+
+##### \[NOTE]  <a id="5"></a>5  Some Northern Territory laws excluded
+
+             (1)  Subject to subsections (3) and (4), the provisions of this Act are intended to apply to the exclusion of a law of the Northern Territory that deals with discrimination so far as it would otherwise apply.
+
+             (2)  Subject to subsections (3) and (4), any acts done under or for the purposes of the provisions of this Act have effect despite any law of the Northern Territory that deals with discrimination.
+
+Northern Territory laws that are not excluded
+
+             (3)  Subsections (1) and (2) do not apply to a law of the Northern Territory so far as the Minister determines, by legislative instrument, that the law is a law to which subsections (1) and (2) do not apply.
+
+Provisions of this Act that are not excluded
+
+             (4)  Subsections (1) and (2) do not apply to amendments or repeals made by Division 2 or 3 of Part 1 of Schedule 2 (law enforcement) to this Act.
+
+Interpretation
+
+             (5)  In this section, a reference to:
+
+                     (a)  any acts done includes a reference to any failure to do an act; and
+
+                     (b)  provisions of this Act includes a reference to provisions of other Acts that are inserted, amended or repealed by the provisions of this Act.
+
+_\[NOTE]:  Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010
+ (No. 93, 2010)_
+
+The following amendment commences at the end of 31 December 2010 and amends the _Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern Territory National Emergency Response and Other Measures) Act 2007_ (No. 128, 2007) as follows:
+
+## Schedule 1
+
+## 1  Sections 4 and 5
+
+Repeal the sections.
+
+As at 26 November 2010 the amendment is not incorporated in this compilation.
+
 * * *
 
 _Classification (Publications, Films and Computer Games) Amendment (Terrorist Material) Act 2007 (No. 179, 2007)_
@@ -5610,6 +5659,8 @@ _Classification (Publications, Films and Computer Games) Amendment (Assessments 
 * * *
 
 _Social Security and Other Legislation Amendment (Welfare Reform and Reinstatement of Racial Discrimination Act) Act 2010 (No. 93, 2010)_
+
+The following provision commences at the end of 31 December 2010:
 
 ## Schedule 1
 
