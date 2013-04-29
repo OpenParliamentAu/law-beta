@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00901/Html/53ecee46-33be-493b-a542-45cd2fbf1e26_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00558/Html/BankIntegration91_image001.gif)
 
 # Bank Integration Act 1991
 
 **Act No. 210 of 1991 as amended**
 
-This compilation was prepared on 11 November 2011
- taking into account amendments up to Act No. 127 of 2011
+This compilation was prepared on 27 September 2007
+ taking into account amendments up to Act No. 143 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -30,7 +30,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Interpretation
 
-[6](#6).            Extra‑territorial operation of Act
+[6](#6).            Extra-territorial operation of Act
 
 **Part 2—Steps leading to bank reorganisations**
 
@@ -120,7 +120,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Crown to be bound
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory, of the Australian Capital Territory and of Norfolk Island.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory, of the Australian   Capital Territory and of Norfolk Island.
 
 ##### <a id="5"></a>5  Interpretation
 
@@ -178,7 +178,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="liabil"></a>**_liability_** includes a duty or obligation of any kind (whether arising under an instrument or otherwise, and whether actual, contingent or prospective).
 
-                    <a name="parallel-new-zealand-legisl"></a>**_parallel New Zealand legislation_**, in relation to the operation of this Act in respect of BNZ and BNZ Savings, means a law of New Zealand to vest the undertaking of BNZ Savings in BNZ and to enable the subsequent dissolution of BNZ Savings.
+                    <a name="parallel-new-zealand-legisl"></a>**_parallel New Zealand legislation_**, in relation to the operation of this Act in respect of BNZ and BNZ Savings, means a law of New   Zealand to vest the undertaking of BNZ Savings in BNZ and to enable the subsequent dissolution of BNZ Savings.
 
                     <a name="proceing-act-appli"></a>**_proceeding to which this Act applies_**, in relation to a receiving bank, means a legal proceeding (including a proceeding before an administrative tribunal or an arbitration) that relates to business that becomes transferred business in relation to that bank.
 
@@ -220,7 +220,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  Where reference is made in this Act to anything done for a purpose connected with, or arising out of, the operation or effect of this Act or of any complementary legislation or any parallel New Zealand legislation, that reference is taken to include any transaction entered into, or any instrument or document made, executed, lodged or given, for that purpose.
 
-##### <a id="6"></a>6  Extra‑territorial operation of Act
+##### <a id="6"></a>6  Extra-territorial operation of Act
 
              (1)  It is the intention of the Parliament that this Act should apply, as far as possible, in relation to the following:
 
@@ -392,7 +392,7 @@ by notice published in the _Gazette_, fix a day on which the business of the rel
 
              (3)  In subsection (1):
 
-                    <a name="complementari-legisl"></a>**_complementary legislation_** includes parallel New Zealand legislation.
+                    <a name="complementari-legisl"></a>**_complementary legislation_** includes parallel New   Zealand legislation.
 
                     <a name="tax"></a>**_tax_** does not include:
 
@@ -424,7 +424,7 @@ by notice published in the _Gazette_, fix a day on which the business of the rel
 
 are taken to have been derived or incurred by, or to have occurred in relation to, the receiving bank and not the transferring bank.
 
-             (5)  Where a succession day is fixed for a receiving bank and the relevant transferring bank, then, for the purposes of Part 3‑6 of the _Income Tax Assessment Act 1997_ (about the imputation system):
+             (5)  Where a succession day is fixed for a receiving bank and the relevant transferring bank, then, for the purposes of Part 3-6 of the _Income Tax Assessment Act 1997_ (about the imputation system):
 
                      (a)  if the transferring bank has a franking surplus at the end of the day before the succession day, then, at the beginning of the succession day:
 
@@ -540,7 +540,7 @@ that person or authority may:
 
 ##### <a id="29"></a>29  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -994,30 +994,13 @@ of Assent</div>
   <td>
     <div>Sch. 1 (items 222, 225, 226)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Business Names Registration (Transitional and Consequential Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>127, 2011</div>
-  </td>
-  <td>
-    <div>3 Nov 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 8, 9): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Bank Integration Act 1991_ was amended by Schedule 3 (item 6) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
-_(b)_     The _Bank Integration Act 1991_ was amended by Schedule 2 (item 527) only of the _Tax Law Improvement Act (No. 2) 1998_, subsections 2(1) and (2) of which provide as follows:
+_(b)_    The _Bank Integration Act 1991_ was amended by Schedule 2 (item 527) only of the _Tax Law Improvement Act (No. 2) 1998_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1105,24 +1088,6 @@ _(d)_ The _Bank Integration Act 1991_ was amended by Schedule 3 (item 79) on
   </td>
 </tr></table>
 
-### Note 2
-
-_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
-
-The following amendments commence at the same time as section 3 of the _Business Names Registration Act 2011_:
-
-## Schedule 2
-
-## 8  Paragraph 18(2)(b)
-
-Omit “under a law or a State or Territory”, substitute “on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_”.
-
-## 9  Subsection 18(3)
-
-Repeal the subsection.
-
-As at 11 November 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1131,7 +1096,7 @@ _Tax Law Improvement Act (No. 1) 1998 (No. 46, 1998)_
 
 ## <a id="4"></a>4  Application of amendments
 
-An amendment made by an item in a Schedule (except an item in Schedule 1 or in Part 1 of any of Schedules 2 to 8) applies to assessments for the 1998‑99 income year and later income years, unless otherwise indicated in the Schedule in which the item appears.
+An amendment made by an item in a Schedule (except an item in Schedule 1 or in Part 1 of any of Schedules 2 to 8) applies to assessments for the 1998-99 income year and later income years, unless otherwise indicated in the Schedule in which the item appears.
 
 * * *
 
@@ -1144,7 +1109,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -1174,17 +1139,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -1248,10 +1213,10 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example:    For the 2006‑07 income year, Smart Investor Pty Ltd, an Australian resident private investment company, has assessable foreign income in the passive income class on which it has paid foreign tax for which it wishes to claim a foreign tax credit. The company also has a tax loss for the year from its Australian investments. When it lodges its tax return for the year it does not elect to claim a deduction for any of the tax loss under section 79DA of the ITAA 1936, because the Australian tax payable on its passive foreign income equals the foreign tax it has paid.
+Example:    For the 2006-07 income year, Smart Investor Pty Ltd, an Australian resident private investment company, has assessable foreign income in the passive income class on which it has paid foreign tax for which it wishes to claim a foreign tax credit. The company also has a tax loss for the year from its Australian investments. When it lodges its tax return for the year it does not elect to claim a deduction for any of the tax loss under section 79DA of the ITAA 1936, because the Australian tax payable on its passive foreign income equals the foreign tax it has paid.
 
-                   In 2009 the amount of foreign tax payable in respect of some foreign rental income it had included in its return for the 2006‑07 year is reduced and Smart Investor receives a refund of the difference in foreign tax. Smart Investor Pty Ltd then applies to be able to make an election under section 79DA, that is, after the _Tax Laws Amendment (2007 Measures No. 4) Act 2007_ (which repeals section 79DA) receives Royal Assent. The Commissioner allows Smart Investor to submit an election to claim a deduction for so much of its 2006‑07 tax loss as to reduce the amount of Australian tax payable on its 2006‑07 assessable foreign income to the revised foreign tax paid, by the end of 2009.
+                   In 2009 the amount of foreign tax payable in respect of some foreign rental income it had included in its return for the 2006-07 year is reduced and Smart Investor receives a refund of the difference in foreign tax. Smart Investor Pty Ltd then applies to be able to make an election under section 79DA, that is, after the _Tax Laws Amendment (2007 Measures No. 4) Act 2007_ (which repeals section 79DA) receives Royal Assent. The Commissioner allows Smart Investor to submit an election to claim a deduction for so much of its 2006-07 tax loss as to reduce the amount of Australian tax payable on its 2006-07 assessable foreign income to the revised foreign tax paid, by the end of 2009.
 
-                   Despite the repeal of section 79DA, item 226 allows the Commissioner to permit an election to be lodged after the return for 2006‑07 has been lodged, and to amend Smart Investor’s assessment for that year, because these actions relate to a thing done, and periods ending, before the repeal of section 79DA applies.
+                   Despite the repeal of section 79DA, item 226 allows the Commissioner to permit an election to be lodged after the return for 2006-07 has been lodged, and to amend Smart Investor’s assessment for that year, because these actions relate to a thing done, and periods ending, before the repeal of section 79DA applies.
 
  
