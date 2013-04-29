@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00377/Html/fd53e9b5-1b08-47b8-b901-6b2934ad0ae6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00753/Html/OffshorePetrGreenGasStorageSaftLevies2003_image001.gif)
 
 # Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003
 
 **Act No. 117 of 2003 as amended**
 
-This compilation was prepared on 27 May 2011
- taking into account amendments up to Act No. 27 of 2011
+This compilation was prepared on 22 November 2010
+ taking into account amendments up to Act No. 119 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -166,7 +166,7 @@ Note:          This table relates only to the provisions of th
 
                     <a name="territori-safeti-law"></a>**_Territory safety law_**means the provisions of the Territory PSLA that substantially correspond to Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
-                    <a name="year"></a>**_year_** means a 12‑month period beginning on 1 January.
+                    <a name="year"></a>**_year_** means a 12-month period beginning on 1 January.
 
 ##### <a id="4"></a>4  Extension to external Territories
 
@@ -254,7 +254,7 @@ Amount of safety investigation levy
 
 Definitions
 
-             (8)  For the purposes of the application of this section in relation to the designated coastal waters of a State or of the Northern Territory:
+             (8)  For the purposes of the application of this section in relation to the designated coastal waters of a State or of the Northern   Territory:
 
                     <a name="accid"></a>**_accident_** has the same meaning as in the applicable State or Territory safety law.
 
@@ -344,7 +344,7 @@ Definitions
 
                              (ii)  a safety case is in force in relation to a facility during a part of a year, but is not in force at the start of that year; and
 
-                     (b)  the facility is located, or proposed to be located, in the designated coastal waters of a State or of the Northern Territory;
+                     (b)  the facility is located, or proposed to be located, in the designated coastal waters of a State or of the Northern   Territory;
 
 levy is imposed on the safety case in respect of:
 
@@ -388,11 +388,11 @@ a pipeline safety management plan is in force in relation to a pipeline that is 
 
                      (b)  ending at the end of 31 December 2012;
 
-a safety case is in force in relation to the facility (within the meaning of regulations of that State or Territory that substantially correspond to the _Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) Regulations 1996_, as those last‑mentioned regulations were in force immediately before the end of 31 December 2009), this section has effect as if, at that time, a safety case was in force in relation to the facility.
+a safety case is in force in relation to the facility (within the meaning of regulations of that State or Territory that substantially correspond to the _Petroleum (Submerged Lands) (Management of Safety on Offshore Facilities) Regulations 1996_, as those last-mentioned regulations were in force immediately before the end of 31 December 2009), this section has effect as if, at that time, a safety case was in force in relation to the facility.
 
 Definitions
 
-             (8)  For the purposes of the application of this section in relation to the designated coastal waters of a State or of the Northern Territory:
+             (8)  For the purposes of the application of this section in relation to the designated coastal waters of a State or of the Northern   Territory:
 
                     <a name="facil"></a>**_facility_** has the same meaning as in the applicable State or Territory safety law, and includes a proposed facility.
 
@@ -406,7 +406,7 @@ Definitions
 
                     <a name="pipelin-licenc"></a>**_pipeline licence_** has the same meaning as in the applicable State or Territory safety law.
 
-                    <a name="forc-relat-pipelin"></a><a name="pipelin-safeti-manag-plan"></a>**_pipeline safety management plan_** **_in force in relation to a pipeline_** has the same meaning as in regulations of that State or Territory that substantially correspond to the _Petroleum (Submerged Lands) (Pipelines) Regulations 2001_, as those last‑mentioned regulations were in force immediately before the end of 31 December 2009.
+                    <a name="forc-relat-pipelin"></a><a name="pipelin-safeti-manag-plan"></a>**_pipeline safety management plan_** **_in force in relation to a pipeline_** has the same meaning as in regulations of that State or Territory that substantially correspond to the _Petroleum (Submerged Lands) (Pipelines) Regulations 2001_, as those last-mentioned regulations were in force immediately before the end of 31 December 2009.
 
                     <a name="propos-facil"></a>**_proposed facility_** has the same meaning as in the applicable State or Territory safety law.
 
@@ -418,7 +418,7 @@ Definitions
 
 ##### <a id="11"></a>11  Regulations
 
-                   The Governor‑General may make regulations for the purposes of sections 5, 6, 7 and 8.
+                   The Governor-General may make regulations for the purposes of sections 5, 6, 7 and 8.
 
 # Notes to the _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003_
 
@@ -551,24 +551,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 5, 6)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No. 1) Act 2011</div>
-  </td>
-  <td>
-    <div>27, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 2] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -933,502 +915,6 @@ _(a)_ Subsection 2(1) (items 2 and 3) of the _Offshore Petroleum (Safety Levie
   </td>
 </tr></table>
 
-### Note 2
-
-_Offshore Petroleum and Greenhouse Gas Storage Regulatory Levies Legislation Amendment (2011 Measures No. 1) Act 2011 (No. 27, 2011)_
-
-The following amendments commence on 25 November 2011 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  Title
-
-Omit “**safety investigation levy and safety case levy, in relation to offshore petroleum and greenhouse gas facilities**”, substitute “**levies relating to the regulation of offshore petroleum activities and greenhouse gas storage activities**”.
-
-## 2  Section 1
-
-Omit “_Safety_”, substitute “_Regulatory_”.
-
-_Note:       This item amends the short title of the Act. If another amendment of the Act is described by reference to the Act’s previous short title, that other amendment has effect after the commencement of this item as an amendment of the Act under its amended short title (see section 10 of the Acts Interpretation Act 1901)._
-
-## 3  Section 3
-
-Insert:
-
-                    <a name="annual-levi"></a>**_annual well levy_** means levy imposed by section 10A or 10B.
-
-## 4  Section 3
-
-Insert:
-
-                    <a name="coastal-water"></a>**_coastal waters_**, in relation to a State or Territory, has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-## 5  Section 3
-
-Insert:
-
-                    <a name="construct"></a>**_construct_**, in relation to a well, includes:
-
-                     (a)  drill the well; and
-
-                     (b)  install any well‑related equipment associated with the well.
-
-## 6  Section 3
-
-Insert:
-
-                    <a name="cost"></a>**_cost_** includes part of a cost.
-
-## 7  Section 3
-
-Insert:
-
-                    <a name="expens"></a>**_expense_** includes part of an expense.
-
-## 8  Section 3
-
-Insert:
-
-                    <a name="offshor-area"></a>**_offshore area_**, in relation to a State or Territory, has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-## 9  Section 3
-
-Insert:
-
-                    <a name="petroleum-explor-permit"></a>**_petroleum exploration permit_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-## 10  Section 3
-
-Insert:
-
-                    <a name="petroleum-product-licenc"></a>**_petroleum production licence_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-## 11  Section 3
-
-Insert:
-
-                    <a name="petroleum-retent-leas"></a>**_petroleum retention lease_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-## 12  Section 3
-
-Insert:
-
-                    <a name="prepar"></a>**_prepare_**, in relation to a well, includes construct.
-
-## 13  Section 3
-
-Insert:
-
-                    <a name=""></a>**_well_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-## 14  Section 3
-
-Insert:
-
-                    <a name="activ-levi"></a>**_well activity levy_** means levy imposed by section 10C or 10D.
-
-## 15  Section 3
-
-Insert:
-
-                    <a name="investig-levi"></a>**_well investigation levy_** means levy imposed by section 9 or 10.
-
-## 16  Section 3
-
-Insert:
-
-                    <a name="relat-equip"></a>**_well‑related equipment_** has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-## 17  After Part 3
-
-Insert:
-
-## Part 4—Well investigation levy
-
-##### <a id="9"></a>9  Imposition of well investigation levy—Commonwealth petroleum titles
-
-             (1)  If:
-
-                     (a)  either:
-
-                              (i)  a well has been used, is being used, has been prepared for use, or is being prepared for use, in connection with operations authorised by a petroleum title (the **_current title_**); or
-
-                             (ii)  a well has been used in connection with operations authorised by a petroleum title from which the current title is derived, and the wellhead is situated in the title area of the current title; and
-
-                     (b)  an OHS inspector has begun to conduct an inspection concerning a contravention or possible contravention of subclause 13A(1) or (2) of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_; and
-
-                     (c)  the contravention or possible contravention relates to the well; and
-
-                     (d)  a particular time (the **_threshold time_**) is the first time when the amount of the costs and expenses reasonably incurred by the Safety Authority in relation to the conduct of the inspection exceeds $30,000; and
-
-                     (e)  the Safety Authority has given the registered holder of the current title a written notice stating that the amount of the costs and expenses reasonably incurred by the Safety Authority in relation to the conduct of the inspection has exceeded $30,000;
-
-levy is imposed on the inspection in respect of:
-
-                      (f)  the period of 3 months beginning at the threshold time; and
-
-                     (g)  each successive 3‑month period at any time during which an OHS inspector continues to conduct the inspection.
-
-Note:          Clause 13A of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ deals with the duties of petroleum titleholders in relation to wells.
-
-             (2)  Levy imposed by subsection (1) is to be known as **_well investigation levy_**.
-
-             (3)  Well investigation levy imposed by subsection (1) is payable by the registered holder of the current title.
-
-Amount of well investigation levy
-
-             (4)  The amount of well investigation levy imposed by subsection (1) on an inspection is the amount that is specified in, or worked out in accordance with, the regulations.
-
-Definitions
-
-             (5)  In this section:
-
-                    <a name="conduct"></a>**_conduct_** an inspection includes prepare a written report relating to the inspection.
-
-                    <a name="deriv"></a>**_derived_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="inspect"></a>**_inspection_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="petroleum-titl"></a>**_petroleum title_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="regist-holder"></a>**_registered holder_**, in relation to a petroleum title, has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="titl-area"></a>**_title area_** has the same meaning as in clause 13A of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name=""></a>**_well_** includes well‑related equipment associated with a well.
-
-##### <a id="10"></a>10  Imposition of well investigation levy—State/Territory petroleum titles
-
-             (1)  If:
-
-                     (a)  either:
-
-                              (i)  a well has been used, is being used, has been prepared for use, or is being prepared for use, in connection with operations authorised by a State/Territory petroleum title (the **_current title_**) granted under a State PSLA or Territory PSLA; or
-
-                             (ii)  a well has been used in connection with operations authorised by a petroleum title from which the current title is derived, and the wellhead is situated in the title area of the current title; and
-
-                     (b)  an OHS inspector has begun to conduct an inspection concerning a contravention or possible contravention of a provision of the State PSLA or Territory PSLA that substantially corresponds to subclause 13A(1) or (2) of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_; and
-
-                     (c)  the contravention or possible contravention relates to the well; and
-
-                     (d)  a particular time (the **_threshold time_**) is the first time when the amount of the costs and expenses reasonably incurred by the Safety Authority in relation to the conduct of the inspection exceeds $30,000; and
-
-                     (e)  the Safety Authority has given the registered holder of the current title a written notice stating that the amount of the costs and expenses reasonably incurred by the Safety Authority in relation to the conduct of the inspection has exceeded $30,000;
-
-levy is imposed on the inspection in respect of:
-
-                      (f)  the period of 3 months beginning at the threshold time; and
-
-                     (g)  each successive 3‑month period at any time during which an OHS inspector continues to conduct the inspection.
-
-Note:          Clause 13A of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ deals with the duties of petroleum titleholders in relation to wells.
-
-             (2)  Levy imposed by subsection (1) is to be known as **_well investigation levy_**.
-
-             (3)  Well investigation levy imposed by subsection (1) is payable by the registered holder of the current title.
-
-Amount of well investigation levy
-
-             (4)  The amount of well investigation levy imposed by subsection (1) on an inspection is the amount that is specified in, or worked out in accordance with, the regulations.
-
-Definitions
-
-             (5)  In this section:
-
-                    <a name="commonwealth-petroleum-titl"></a>**_Commonwealth petroleum title_** means a petroleum title within the meaning of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="conduct"></a>**_conduct_** an inspection includes prepare a written report relating to the inspection.
-
-                    <a name="deriv"></a>**_derived_** has the same meaning as in the provisions of the relevant State PSLA or Territory PSLA that substantially correspond to Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="inspect"></a>**_inspection_** has the same meaning as in the provisions of the relevant State PSLA or Territory PSLA that substantially correspond to Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="regist-holder"></a>**_registered holder_**, in relation to a State/Territory petroleum title, means the person whose name is shown in the Register kept under the relevant State PSLA or Territory PSLA as the holder of the title.
-
-                    <a name="state-territori-petroleum-titl"></a>**_State/Territory petroleum title_** means an instrument under a State PSLA or Territory PSLA that confers, in relation to the coastal waters of a State or Territory, some or all of the rights that a Commonwealth petroleum title confers in relation to the offshore area of the State or Territory.
-
-                    <a name="titl-area"></a>**_title area_** has the same meaning as in the provisions of the relevant State PSLA or Territory PSLA that substantially correspond to clause 13A of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name=""></a>**_well_** includes well‑related equipment associated with a well.
-
-## Part 4A—Annual well levy
-
-##### <a id="10A"></a>10A  Imposition of annual well levy—Commonwealth petroleum titles
-
-             (1)  If there are one or more eligible wells in relation to a petroleum title for a year, levy is imposed on those wells.
-
-Note:          For **_eligible well_**, see subsections (5) and (6).
-
-             (2)  Levy imposed by subsection (1) is to be known as **_annual well levy_**.
-
-             (3)  Annual well levy imposed by subsection (1) is payable by the registered holder of the petroleum title.
-
-Amount of annual well levy
-
-             (4)  The amount of annual well levy imposed by subsection (1) in respect of one or more wells is the amount that is specified in, or worked out in accordance with, the regulations.
-
-Eligible well
-
-             (5)  For the purposes of this section, if:
-
-                     (a)  immediately before the start of a year, a well is wholly or partly situated in the title area of a petroleum title (the **_current title_**); and
-
-                     (b)  the well is or was drilled under the authority of:
-
-                              (i)  the current title; or
-
-                             (ii)  a petroleum title from which the current title is derived; and
-
-                     (c)  the well is not abandoned;
-
-the well is an **_eligible well_** in relation to the current title for that year.
-
-             (6)  For the purposes of this section, if:
-
-                     (a)  during a year, a well began to be drilled in the title area of a petroleum title (the **_current title_**); and
-
-                     (b)  the well was drilled under the authority of:
-
-                              (i)  the current title; or
-
-                             (ii)  a petroleum title from which the current title is derived; and
-
-                     (c)  the well was abandoned during that year;
-
-the well is an **_eligible well_** in relation to the current title for the subsequent year.
-
-Abandoned wells
-
-             (7)  For the purposes of this section, if the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_ requires the commencement of the abandonment of a well to be approved by the Safety Authority under those regulations, disregard the abandonment unless:
-
-                     (a)  the commencement of the abandonment was approved by the Safety Authority under those regulations; and
-
-                     (b)  if the approval was subject to conditions—the abandonment was in accordance with those conditions.
-
-Definitions
-
-             (8)  In this section:
-
-                    <a name="deriv"></a>**_derived_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="petroleum-titl"></a>**_petroleum title_** has the same meaning as in Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="regist-holder"></a>**_registered holder_**, in relation to a petroleum title, has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="titl-area"></a>**_title area_** has the same meaning as in clause 13A of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-Transitional
-
-             (9)  For the purposes of this section, if this section does not commence on a 1 January, the period:
-
-                     (a)  beginning at the commencement of this section; and
-
-                     (b)  ending at the end of 31 December next following that commencement;
-
-is taken to be a year.
-
-           (10)  Subsection (6) does not apply to a well that began to be drilled before the commencement of this section.
-
-##### <a id="10B"></a>10B  Imposition of annual well levy—State/Territory petroleum titles
-
-             (1)  If:
-
-                     (a)  there are one or more eligible wells in relation to a State/Territory petroleum title for a year; and
-
-                     (b)  the State/Territory petroleum title was granted under a law of a particular State or Territory; and
-
-                     (c)  at the start of the year, the Safety Authority has functions or powers under regulations of the State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_;
-
-levy is imposed on those wells.
-
-Note:          For **_eligible well_**, see subsections (5) and (6).
-
-             (2)  Levy imposed by subsection (1) is to be known as **_annual well levy_**.
-
-             (3)  Annual well levy imposed by subsection (1) is payable by the registered holder of the State/Territory petroleum title.
-
-Amount of annual well levy
-
-             (4)  The amount of annual well levy imposed by subsection (1) in respect of one or more wells is the amount that is specified in, or worked out in accordance with, the regulations.
-
-Eligible well
-
-             (5)  For the purposes of this section, if:
-
-                     (a)  immediately before the start of a year, the well is wholly or partly situated in the title area of a State/Territory petroleum title (the **_current title_**); and
-
-                     (b)  the well is or was drilled under the authority of:
-
-                              (i)  the current title; or
-
-                             (ii)  a State/Territory petroleum title from which the current title is derived; and
-
-                     (c)  the well is not abandoned;
-
-the well is an **_eligible well_** in relation to the current title for that year.
-
-             (6)  For the purposes of this section, if:
-
-                     (a)  during a year, a well began to be drilled in the title area of a State/Territory petroleum title (the **_current title_**); and
-
-                     (b)  the well was drilled under the authority of:
-
-                              (i)  the current title; or
-
-                             (ii)  a State/Territory petroleum title from which the current title is derived; and
-
-                     (c)  the well was abandoned during that year;
-
-the well is an **_eligible well_** in relation to the current title for the subsequent year.
-
-Abandoned wells
-
-             (7)  For the purposes of this section, if regulations of a State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_ require the commencement of the abandonment of a well to be approved by the Safety Authority under those regulations of the State or Territory, disregard the abandonment unless:
-
-                     (a)  the commencement of the abandonment was approved by the Safety Authority under those regulations of the State or Territory; and
-
-                     (b)  if the approval was subject to conditions—the abandonment was in accordance with those conditions.
-
-Definitions
-
-             (8)  In this section:
-
-                    <a name="commonwealth-petroleum-titl"></a>**_Commonwealth petroleum title_** means a petroleum title within the meaning of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="deriv"></a>**_derived_** has the same meaning as in the provisions of the relevant State PSLA or Territory PSLA that substantially correspond to Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-                    <a name="regist-holder"></a>**_registered holder_**, in relation to a State/Territory petroleum title, means the person whose name is shown in the Register kept under the relevant State PSLA or Territory PSLA as the holder of the title.
-
-                    <a name="state-territori-petroleum-titl"></a>**_State/Territory petroleum title_** means an instrument under a State PSLA or Territory PSLA that confers, in relation to the coastal waters of a State or Territory, some or all of the rights that a Commonwealth petroleum title confers in relation to the offshore area of the State or Territory.
-
-                    <a name="titl-area"></a>**_title area_** has the same meaning as in the provisions of the relevant State PSLA or Territory PSLA that substantially correspond to clause 13A of Schedule 3 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-Transitional
-
-             (9)  For the purposes of this section, if this section does not commence on a 1 January, the period:
-
-                     (a)  beginning at the commencement of this section; and
-
-                     (b)  ending at the end of 31 December next following that commencement;
-
-is taken to be a year.
-
-           (10)  Subsection (6) does not apply to a well that began to be drilled before the commencement of this section.
-
-## Part 4B—Well activity levy
-
-##### <a id="10C"></a>10C  Imposition of well activity levy—Commonwealth petroleum titles
-
-             (1)  If:
-
-                     (a)  either:
-
-                              (i)  a person makes an application to the Safety Authority, under Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for acceptance of a well operations management plan; or
-
-                             (ii)  a person makes an application to the Safety Authority, under Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for approval to commence an activity relating to a well; and
-
-                     (b)  the person is the registered holder of a petroleum title;
-
-levy is imposed on the application.
-
-             (2)  Levy imposed by subsection (1) is to be known as **_well activity levy_**.
-
-             (3)  Well activity levy imposed by subsection (1) is payable by the person.
-
-Amount of well activity levy
-
-             (4)  The amount of well activity levy imposed by subsection (1) on an application is the amount that is specified in, or worked out in accordance with, the regulations.
-
-Exemption
-
-             (5)  If:
-
-                     (a)  at a particular time, a person makes an application to the Safety Authority, under Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for approval to commence an activity relating to a well; and
-
-                     (b)  well activity levy is imposed by subsection (1) on the application; and
-
-                     (c)  during the 6‑month period beginning at that time:
-
-                              (i)  the person makes another application under that Part for approval to commence an activity relating to the well; or
-
-                             (ii)  another person who has become the registered holder of a petroleum title makes an application under that Part for approval to commence an activity relating to the well;
-
-well activity levy is not imposed by subsection (1) on the application referred to in subparagraph (c)(i) or (ii), as the case may be.
-
-Definitions
-
-             (6)  In this section:
-
-                    <a name="petroleum-titl"></a>**_petroleum title_** means:
-
-                     (a)  a petroleum exploration permit; or
-
-                     (b)  a petroleum retention lease; or
-
-                     (c)  a petroleum production licence.
-
-                    <a name="regist-holder"></a>**_registered holder_**, in relation to a petroleum title, has the same meaning as in the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
-
-##### <a id="10D"></a>10D  Imposition of well activity levy—State/Territory petroleum titles
-
-             (1)  If:
-
-                     (a)  either:
-
-                              (i)  a person makes an application to the Safety Authority, under the regulations of a State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for acceptance of a well operations management plan; or
-
-                             (ii)  a person makes an application to the Safety Authority, under regulations of a State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for approval to commence an activity relating to a well; and
-
-                     (b)  the person is the registered holder of a State/Territory petroleum title;
-
-levy is imposed on the application.
-
-             (2)  Levy imposed by subsection (1) is to be known as **_well activity levy_**.
-
-             (3)  Well activity levy imposed by subsection (1) is payable by the person.
-
-Amount of well activity levy
-
-             (4)  The amount of well activity levy imposed by subsection (1) on an application is the amount that is specified in, or worked out in accordance with, the regulations.
-
-Exemption
-
-             (5)  If:
-
-                     (a)  at a particular time, a person makes an application to the Safety Authority, under the regulations of a State or Territory that substantially correspond to Part 5 of the _Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011_, for approval to commence an activity relating to a well; and
-
-                     (b)  well activity levy is imposed by subsection (1) on the application; and
-
-                     (c)  during the 6‑month period beginning at that time:
-
-                              (i)  the person makes another application under those regulations for approval to commence an activity relating to the well; or
-
-                             (ii)  another person who has become the registered holder of a State/Territory petroleum title makes an application under those regulations for approval to commence an activity relating to the well;
-
-well activity levy is not imposed by subsection (1) on the application referred to in subparagraph (c)(i) or (ii), as the case may be.
-
-Definitions
-
-             (6)  In this section:
-
-                    <a name="commonwealth-petroleum-titl"></a>**_Commonwealth petroleum title_** means:
-
-                     (a)  a petroleum exploration permit; or
-
-                     (b)  a petroleum retention lease; or
-
-                     (c)  a petroleum production licence.
-
-                    <a name="regist-holder"></a>**_registered holder_**, in relation to a State/Territory petroleum title, means the person whose name is shown in the Register kept under the relevant State PSLA or Territory PSLA as the holder of the title.
-
-                    <a name="state-territori-petroleum-titl"></a>**_State/Territory petroleum title_** means an instrument under a State PSLA or Territory PSLA that confers, in relation to the coastal waters of a State or Territory, some or all of the rights that a Commonwealth petroleum title confers in relation to the offshore area of the State or Territory.
-
-## 18  Section 11
-
-Omit “7 and 8”, substitute “7, 8, 9, 10, 10A, 10B, 10C and 10D”.
-
-As at 27 May 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1449,7 +935,7 @@ apply in relation to a notifiable accident or occurrence that happens after the 
 
 ## 34  Application—safety case levy
 
-(1)       The following amendments made by this Schedule:
+(1)        The following amendments made by this Schedule:
 
                      (a)  the amendments of sections 7 and 8 of the _Offshore Petroleum (Safety Levies) Act 2003_;
 
@@ -1457,7 +943,7 @@ apply in relation to a notifiable accident or occurrence that happens after the 
 
 apply in relation to a safety case in force at the start of a year if that year starts after the commencement of this item.
 
-(2)       The following amendments made by this Schedule:
+(2)        The following amendments made by this Schedule:
 
                      (a)  the amendments of sections 7 and 8 of the _Offshore Petroleum (Safety Levies) Act 2003_;
 
@@ -1467,7 +953,7 @@ apply in relation to a safety case in force during a part of a year (but not in 
 
 ## 35  Application—pipeline safety management plan levy
 
-(1)       The following amendments made by this Schedule:
+(1)        The following amendments made by this Schedule:
 
                      (a)  the amendments of sections 9 and 10 of the _Offshore Petroleum (Safety Levies) Act 2003_;
 
@@ -1475,7 +961,7 @@ apply in relation to a safety case in force during a part of a year (but not in 
 
 apply in relation to a pipeline safety management plan in force at the start of a year if that year starts after the commencement of this item.
 
-(2)       The following amendments made by this Schedule:
+(2)        The following amendments made by this Schedule:
 
                      (a)  the amendments of sections 9 and 10 of the _Offshore Petroleum (Safety Levies) Act 2003_;
 
@@ -1503,7 +989,7 @@ The amendments made by this Part apply in relation to a pipeline safety manageme
 
 ## 13  Transitional—references to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_
 
-(1)       During the period:
+(1)        During the period:
 
                      (a)  beginning at the start of 1 July 2008; and
 
@@ -1511,7 +997,7 @@ The amendments made by this Part apply in relation to a pipeline safety manageme
 
 the _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003_ is taken to have had effect as if each reference in that Act to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ were a reference to the _Offshore Petroleum Act 2006_.
 
-(2)       Subitem (1) is enacted for the avoidance of doubt.
+(2)        Subitem (1) is enacted for the avoidance of doubt.
 
 * * *
 
@@ -1521,14 +1007,14 @@ _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Amendment Act 201
 
 ## 5  Application of amendment—subsection 7(8) of the _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003_
 
-(1)       The amendment made by item 1 applies in relation to a safety case in force at the start of a year if that year starts on or after 1 January 2010.
+(1)        The amendment made by item 1 applies in relation to a safety case in force at the start of a year if that year starts on or after 1 January 2010.
 
-(2)       The amendment made by item 1 applies in relation to a safety case in force during a part of a year (but not in force at the start of that year) if that part of the year starts on or after 1 January 2010.
+(2)        The amendment made by item 1 applies in relation to a safety case in force during a part of a year (but not in force at the start of that year) if that part of the year starts on or after 1 January 2010.
 
 ## 6  Application of amendment—subsection 8(8) of the _Offshore Petroleum and Greenhouse Gas Storage (Safety Levies) Act 2003_
 
-(1)       The amendment made by item 4 applies in relation to a safety case in force at the start of a year if that year starts on or after 1 January 2010.
+(1)        The amendment made by item 4 applies in relation to a safety case in force at the start of a year if that year starts on or after 1 January 2010.
 
-(2)       The amendment made by item 4 applies in relation to a safety case in force during a part of a year (but not in force at the start of that year) if that part of the year starts on or after 1 January 2010.
+(2)        The amendment made by item 4 applies in relation to a safety case in force during a part of a year (but not in force at the start of that year) if that part of the year starts on or after 1 January 2010.
 
  
