@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00430/Html/LoansSecurities1919_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00340/Html/LoansSecurities1919_image001.gif)
 
 # Loans Securities Act 1919
 
 **Act No. 25 of 1919 as amended**
 
-This compilation was prepared on 24 July 2008
- taking into account amendments up to Act No. 78 of 2008
+This compilation was prepared on 10 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -32,13 +32,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5B](#5B).         Power of Treasurer to enter into swaps or other financial arrangements
 
-[5BA](#5BA).      Power to enter into securities lending arrangements
-
 [5C](#5C).         Jurisdiction of foreign courts
 
-[5D](#5D).         Delegation under sections 3, 5A, 5B and 5C
-
-[5E](#5E).          Delegation of powers and functions under section 5BA
+[5D](#5D).         Delegation
 
 [6](#6).            Provisions for payment of judgments in United Kingdom
 
@@ -118,7 +114,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  for any purpose relating to the borrowing.
 
-##### <a id="5B"></a>5B  Power of Treasurer to enter into swaps or other financial arrangements
+##### <a id="5B"></a>5B  Power of Treasurer to enter into swaps or other financial arrangements
 
              (1)  The Treasurer may, on behalf of the Commonwealth, enter into an agreement with any person or organisation or the government of any country, either within or outside Australia, under which:
 
@@ -127,32 +123,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (b)  the other party undertakes to make payments to, or to the account of, the Commonwealth, in the same or any other currency.
 
              (2)  Any money payable by the Commonwealth under an agreement under subsection (1) and any expenditure incurred in connection with the negotiation, management or service of, or a repayment under, any such agreement, shall be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
-
-##### <a id="5BA"></a>5BA  Power to enter into securities lending arrangements
-
-             (1)  The Treasurer may, from time to time, enter into securities lending arrangements, on behalf of the Commonwealth, by lending stock and securities issued under the _Commonwealth Inscribed Stock Act 1911_, and denominated in Australian currency.
-
-             (2)  The total face value of stock and securities on loan by the Treasurer at any time under securities lending arrangements entered into under subsection (1) must not exceed $5 billion.
-
-             (3)  The Treasurer must not lend stock or securities under securities lending arrangements entered into under subsection (1) unless the Treasurer receives collateral of one or more of the following kinds:
-
-                     (a)  cash;
-
-                     (b)  debt instruments denominated in Australian currency with an investment grade credit rating;
-
-                     (c)  collateral of the kind mentioned in paragraph (b), where the instrument is in electronic form;
-
-                     (d)  a deposit with a bank, including a deposit evidenced by a certificate of deposit;
-
-                     (e)  any other collateral prescribed by the regulations.
-
-             (4)  The Treasurer must take sufficient collateral of one or more of the kinds mentioned in subsection (3) to cover the market value of the security on loan at all times.
-
-             (5)  **_Lending_** stock or a security is taken to include an arrangement under which it is sold and repurchased.
-
-             (6)  The Consolidated Revenue Fund is appropriated as necessary for the purposes of this section.
-
-             (7)  Nothing in this section affects the power to make investments under section 39 of the _Financial Management and Accountability Act 1997_.
 
 ##### <a id="5C"></a>5C  Jurisdiction of foreign courts
 
@@ -174,7 +144,7 @@ waive, and enter into a written agreement or undertaking under which the Commonw
 
                      (d)  any property or asset of, or in the custody of, or administered by, the Commonwealth (other than any property or asset used or intended to be used for any diplomatic, consular or military purpose).
 
-##### <a id="5D"></a>5D  Delegation under sections 3, 5A, 5B and 5C
+##### <a id="5D"></a>5D  Delegation
 
              (1)  The Treasurer may, by signed instrument, delegate to:
 
@@ -206,26 +176,6 @@ all or any of the following powers:
 
                              (ii)  the issue by the Treasurer of any stock or security in relation to the borrowing of money outside Australia.
 
-##### <a id="5E"></a>5E  Delegation of powers and functions under section 5BA
-
-             (1)  The Treasurer may, by signed instrument, delegate all or any of the Treasurer’s powers and functions under section 5BA to:
-
-                     (a)  an SES employee in the Department; or
-
-                     (b)  an APS employee who holds or performs the duties of an Executive Level 2, or equivalent, position in the Department; or
-
-                     (c)  a person appointed as a staff member of the Reserve Bank Service under section 67 of the _Reserve Bank Act 1959_ who occupies an office or position at an equivalent level to that of an SES employee, or an Executive Level 2, in the Department.
-
-             (2)  The Treasurer must, by signed instrument, give a direction as to the kinds of collateral that must be received in relation to securities lending arrangements entered into under subsection 5BA(1).
-
-             (3)  In exercising the Treasurer’s powers and functions under section 5BA, a delegate must comply with:
-
-                     (a)  a direction in force under subsection (2); and
-
-                     (b)  any other direction given, by signed instrument, to the delegate by the Treasurer.
-
-             (4)  The Treasurer must table a direction given under subsection (2) or paragraph (3)(b) in each House of the Parliament no later than 15 sitting days of that House after it is given.
-
 ##### <a id="6"></a>6  Provisions for payment of judgments in United Kingdom
 
              (1)  Whenever, by the final judgment decree rule or order of any court of competent jurisdiction in the United Kingdom, any sum of money is adjudged to be payable by the Commonwealth in respect of any stock or securities, the Minister for Finance shall forthwith pay the sum out of the Consolidated Revenue Fund, which is hereby appropriated accordingly.
@@ -256,7 +206,7 @@ all or any of the following powers:
 
                             (iii)  gifts or other dispositions of property.
 
-##### <a id="7"></a>7  Regulations
+##### <a id="7"></a>7  Regulations
 
              (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters and forms which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, or for the conduct of any business relating to the issue, sale, transfer and dealing with securities to which this Act applies.
 
@@ -267,8 +217,6 @@ all or any of the following powers:
 ### Note 1
 
 The _Loans Securities Act 1919_ as shown in this compilation comprises Act No. 25, 1919 amended as indicated in the Tables below.
-
-All relevant information pertaining to application, saving or transitional provisions prior to 12 July 2008 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -437,24 +385,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Securities and Investment Legislation Amendment Act 2008</div>
-  </td>
-  <td>
-    <div>78, 2008</div>
-  </td>
-  <td>
-    <div>12 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 10, 11, 16): 13 July 2008</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 16) 
-\[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -498,50 +428,10 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 5A, 5B</div>
+    <div>Ss. 5A–5D</div>
   </td>
   <td>
     <div>ad. No. 131, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5BA</div>
-  </td>
-  <td>
-    <div>ad. No. 78, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5C</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 5D</div>
-  </td>
-  <td>
-    <div>am. No. 78, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5D</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5E</div>
-  </td>
-  <td>
-    <div>ad. No. 78, 2008</div>
   </td>
 </tr>
 <tr>
@@ -584,17 +474,5 @@ of Assent</div>
     <div>am. No. 28, 1968</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Commonwealth Securities and Investment Legislation Amendment Act 2008 (No. 78, 2008)_
-
-## Schedule 1
-
-## 16  Application of items 10 and 11
-
-The amendments made by items 10 and 11 of this Schedule apply to securities lending arrangements entered into on or after the commencement of those items.
 
  
