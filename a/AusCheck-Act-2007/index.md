@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00024/Html/00fab4a1-c750-4929-8f49-ff7eb3080760_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00523/Html/0e8b1c82-0e01-49bc-a235-6dddfa872b5d_files/image001.gif)
 
 # AusCheck Act 2007
 
 **Act No. 53 of 2007 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 12 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -106,7 +106,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  a person engaged as a consultant or contractor to perform functions relating to, or for the purposes of, the AusCheck scheme.
 
-Note:          For the definition of **_APS employee_**, see section 2B of the _Acts Interpretation Act 1901_.
+Note:          For the definition of **_APS employee_**, see section 17AA of the _Acts Interpretation Act 1901_.
 
                     <a name="aviat-secur-identif-card"></a>**_aviation security identification card_** means an identification card issued under the _Aviation Transport Security Act 2004_ or regulations under that Act.
 
@@ -256,7 +256,7 @@ Note:          For the definition of **_APS employee_**, see s
 
                      (b)  to an APS employee who holds, or is acting in, an Executive Level 2, or equivalent, position in the Department.
 
-Note:          The expressions **_APS employee_**, **_SES employee_** and **_acting SES employee_** are defined in section 2B of the _Acts Interpretation Act 1901_.
+Note:          The expressions **_APS employee_**, **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the _Acts Interpretation Act 1901_.
 
              (2)  In exercising powers or functions under a delegation, the delegate must comply with any directions of the Secretary.
 
@@ -535,7 +535,7 @@ of Assent</div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 3, 4): Royal Assent</div>
+    <div>Schedule 1 (items 3, 4): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -552,7 +552,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 84, 85) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 84, 85) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -592,15 +592,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 123, 2009; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
+    <div>Ss. 4, 5</div>
   </td>
   <td>
     <div>am. No. 123, 2009</div>
@@ -628,14 +620,6 @@ of Assent</div>
   </td>
   <td>
     <div>am. No. 123, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 12(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -688,15 +672,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 14(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 123, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 14(2)</div>
+    <div>Subheads. to s. 14(1), (2).</div>
   </td>
   <td>
     <div>ad. No. 123, 2009</div>
@@ -753,6 +729,24 @@ No. 8, 2010</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 84  Subsection 4(1) (note at the end of the definition of _AusCheck staff member_)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+## 85  Subsection 12(1) (note)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+As at 12 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -768,6 +762,8 @@ Despite the amendment made by item 6, regulations in force for the purposes of
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
