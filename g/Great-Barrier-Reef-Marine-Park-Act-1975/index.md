@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00128/Html/GrtBarrierRfMarPk1975WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00539/Html/GrtBarrierRfMarPk1975WD02_image001.gif)
 
 # Great Barrier Reef Marine Park Act 1975
 
 **Act No. 85 of 1975 as amended**
 
-This compilation was prepared on 25 February 2010
- taking into account amendments up to Act No. 4 of 2010
+This compilation was prepared on 25 November 2009
+ taking into account amendments up to Act No. 125 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1064,7 +1064,7 @@ the first provision prevails over the second provision.
 
           (1A)  Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of the Northern Territory or of Norfolk  Island liable to be prosecuted for an offence or to be subject to civil proceedings for a contravention of a civil penalty provision.
 
-##### <a id="4A"></a>4A  Application of the _Criminal Code_
+##### <a id="4A"></a>4A  Application of the _Criminal Code_
 
  Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
@@ -2518,7 +2518,7 @@ Note:          The defendant bears an evidential burden in rel
 
 ### Division 5—Conduct contravening conditions
 
-##### <a id="38EA"></a>38EA  Conduct contravening condition of permission or authority: offence
+##### <a id="38EA"></a>38EA  Conduct contravening condition of permission or authority: offence
 
 Contravening condition of permission or authority
 
@@ -3452,7 +3452,7 @@ any documents that are relevant to ascertaining a person’s liability to charge
 
 ## Part VB—Plans of management
 
-##### <a id="39V"></a>39V  Interpretation
+##### <a id="39V"></a>39V  Interpretation
 
                    A reference in this Act to a community group having a special interest in an area of the Marine Park includes a reference to the people in the group who have some form of native title to the area or its resources or have some other special identification with the area or its resources.
 
@@ -3540,7 +3540,7 @@ whichever first occurs.
 
              (2)  A direction given under subsection (1) has effect according to its terms.
 
-##### <a id="39ZD"></a>39ZD  Preparation of plan of management
+##### <a id="39ZD"></a>39ZD  Preparation of plan of management
 
              (1)  After taking into account all comments made to it in accordance with section 39ZB, the Authority may prepare the plan of management.
 
@@ -5298,7 +5298,7 @@ the officer contravenes this subsection.
 
                    The powers conferred on the Federal Court by this Part are in addition to (and do not limit) any other powers of the Court.
 
-##### <a id="61A"></a>61A  Restoration of environment etc.
+##### <a id="61A"></a>61A  Restoration of environment etc.
 
              (1)  Where the Minister believes on reasonable grounds that an act or omission constitutes an offence against this Act or a contravention of a civil penalty provision, the Minister may cause to be taken such steps as the Minister thinks proper:
 
@@ -5383,12 +5383,6 @@ the following provisions have effect:
                      (a)  the person shall be taken to have been convicted of an ancillary offence; and
 
                      (b)  the offence the commission of which the person aided, abetted, counselled or procured shall be taken to be the primary offence to which the ancillary offence relates.
-
-          (8A)  For the purposes of this section, if a person is convicted of an offence against this Act because of section 11.2A of the _Criminal Code_:
-
-                     (a)  the person is taken to have been convicted of an ancillary offence; and
-
-                     (b)  the offence that was committed because of that section is taken to be the primary offence to which the ancillary offence relates.
 
              (9)  A reference in this section to rectifying an act or omission constituting an offence against this Act or a contravention of a civil penalty provision is a reference:
 
@@ -6248,23 +6242,6 @@ Schedule 4 (items 38–44), Schedule 5 (items 88–157) and Schedule 6: 
 147–157) and Sch. 6 (items 
 35–42) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 20): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Great Barrier Reef__Marine__Park__Act 1975_ was amended by Part XXXVI (sections 109 and 110) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(1) of which provides as follows:
@@ -6315,7 +6292,7 @@ _(k)_     The _Great   Barrier Reef__Marine__Park__Act 1975_ was amended
 
                               (c)   the items in Schedules 10, 11 and 12.
 
-_(l)_      The _Great   Barrier Reef__Marine__Park__Act 1975_ was amended by Schedule 1 (items 46–72) only of the _Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(c) of which provides as follows:
+_(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amended by Schedule 1 (items 46–72) only of the _Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(c) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the latest of the following days:
 
@@ -9381,7 +9358,7 @@ _(l)_      The _Great   Barrier Reef__Marine__Park__Act 1975_ was amen
     <div></div>
   </td>
   <td>
-    <div>am. No. 25, 1995; No. 15, 2001; No. 125, 2008; No. 4, 2010</div>
+    <div>am. No. 25, 1995; No. 15, 2001; No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -9689,7 +9666,7 @@ _Great Barrier Reef Marine Park and Other Legislation Amendment Act 2008 (No. 
 
 ## 50  Plans of management in force under Part VB of the _Great   Barrier Reef__Marine__Park__Act 1975_
 
-(1)        This item applies if, immediately before the commencement of this Schedule, a plan of management was in force under Part VB of the _Great Barrier Reef__Marine__Park__Act 1975_.
+(1)        This item applies if, immediately before the commencement of this Schedule, a plan of management was in force under Part VB of the _Great   Barrier Reef__Marine__Park__Act 1975_.
 
 (2)        Despite the amendments made by this Schedule, the plan of management continues in force after the commencement of this Schedule as if the plan had been prepared in accordance with Part VB of the _Great   Barrier Reef__Marine__Park__Act 1975_, as that Part is in force immediately after the commencement of this Schedule.
 
@@ -9943,7 +9920,7 @@ A reference in section 38DD of the _Great Barrier Reef__Marine__Park__Act 1975
 
                              (ii)  if, at the time this Schedule commenced, the permission was suspended—the suspension has been removed under Marine Park regulations;
 
-                     (d)  the permission is not suspended under   Marine Park regulations;
+                     (d)  the permission is not suspended under Marine Park regulations;
 
                      (e)  the permission has not expired or been revoked under Marine Park regulations.
 
