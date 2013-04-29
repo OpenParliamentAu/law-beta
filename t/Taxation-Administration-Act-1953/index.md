@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00700/Html/54ddfef4-e5bd-4017-b7e4-8ebb137e3732_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00512/Html/acd450e9-efdf-4a5d-a2e1-2dad507a3739_files/image001.gif)
 
 # Taxation Administration Act 1953
 
 **Act No. 1 of 1953 as amended**
 
-This compilation was prepared on 12 September 2012
- taking into account amendments up to Act No. 115 of 2012
+This compilation was prepared on 15 June 2012
+ taking into account amendments up to Act No. 39 of 2012
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1–18
@@ -25,7 +25,8 @@ The operation of amendments that have been incorporated may be
                                      Notes 2–10
                                      Tables A and B
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -119,36 +120,31 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [8AAZL](#8AAZL). Amounts covered by this Division
 
-8AAZLAMethod 1—allocating the amount first to an RBA
+8AAZLA  Method 1—allocating the amount first to an RBA
 
-8AAZLBMethod 2—applying the amount first against a non‑RBA tax 
- debt
+8AAZLB  Method 2—applying the amount first against a non‑RBA tax debt
 
-8AAZLCRBA surplus and related credits must remain equivalent if one 
- or the other is applied
+8AAZLC  RBA surplus and related credits must remain equivalent if one or the other is applied
 
-8AAZLDSpecial priority credits: FS assessment debts and compulsory 
- repayment amounts
+8AAZLD  Special priority credits: FS assessment debts and compulsory repayment amounts
 
-8AAZLEInstructions to Commissioner not binding
+8AAZLE  Instructions to Commissioner not binding
 
     **Division 3A—Refunds of RBA surpluses and credits** 
 
-8AAZLFCommissioner must refund RBA surpluses and credits
+8AAZLF  Commissioner must refund RBA surpluses and credits
 
-8AAZLGRetaining refunds until information or notification given
+8AAZLG  Retaining refunds until information or notification given
 
-8AAZLGARetaining refunds while Commissioner verifies information
-
-8AAZLHHow refunds are made
+8AAZLH  How refunds are made
 
     **Division 4—Miscellaneous provisions about tax debts**
 
 8AAZM When payments are treated as received
 
-8AAZMAElectronic payment of tax debts
+8AAZMA  Electronic payment of tax debts
 
-8AAZMBSaturdays, Sundays and public holidays
+8AAZMB  Saturdays, Sundays and public holidays
 
 [8AAZN](#8AAZN). Overpayments made by the Commissioner under taxation laws
 
@@ -168,7 +164,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [8B](#8B).         Interpretation
 
-[8C](#8C).         Failure to comply with requirements under taxation law [_see_ Note 6]
+[8C](#8C).         Failure to comply with requirements under taxation law 
+ [_see_ Note 7]
 
 [8D](#8D).         Failure to answer questions when attending before the Commissioner etc 
 
@@ -214,7 +211,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [8WB](#8WB).      Unauthorised recording etc  of tax file number
 
-[8WC](#8WC).      Conducting affairs so as to avoid tax file number requirements
+[8WC](#8WC).      Conducting affairs so as to avoid tax file number 
+ requirements
 
         **Subdivision C—Miscellaneous**
 
@@ -416,12 +414,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [15A](#15A).       Certification by Commissioner of copies of, and extracts from, documents
 
-[15B](#15B).       Recoverable advances
-
-[15C](#15C).       Recoverable payments
-
-[15D](#15D).       Reports about recoverable advances and recoverable payments
-
 [16](#16).          Payments out of Consolidated Revenue Fund
 
 [16A](#16A).       Regulations may provide for methods of payment of tax liabilities etc 
@@ -489,8 +481,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
                      (a)  the Immigration Secretary; or
 
                      (b)  an employee of the Immigration Department.
-
-                    <a name="object-decision"></a>**_objection decision_** has the meaning given by subsection 14ZY(2).
 
                     <a name="offic"></a>**_officer_** means a person appointed or engaged under the _Public Service Act 1999_.
 
@@ -1074,22 +1064,6 @@ A person is only liable to pay the charge if a provision of an Act makes the per
 </tr>
 <tr>
   <td>
-    <div>18A</div>
-  </td>
-  <td>
-    <div>840‑910</div>
-  </td>
-  <td>
-    <div>
-      <i>Income Tax Assessment Act 1997</i>
-    </div>
-  </td>
-  <td>
-    <div>payment of Seasonal Labour Mobility Program withholding tax</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>19</div>
   </td>
   <td>
@@ -1102,22 +1076,6 @@ A person is only liable to pay the charge if a provision of an Act makes the per
   </td>
   <td>
     <div>payment of franking deficit tax</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>19A</div>
-  </td>
-  <td>
-    <div>50‑15</div>
-  </td>
-  <td>
-    <div>
-      <i>Minerals Resource Rent Tax Act 2012</i>
-    </div>
-  </td>
-  <td>
-    <div>payment of MRRT</div>
   </td>
 </tr>
 <tr>
@@ -1135,22 +1093,6 @@ A person is only liable to pay the charge if a provision of an Act makes the per
   <td>
     <div>payment of petroleum resource rent tax, shortfall interest charge or instalment
       transfer interest charge</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20A</div>
-  </td>
-  <td>
-    <div>282‑19</div>
-  </td>
-  <td>
-    <div>
-      <i>Private Health Insurance Act 2007</i>
-    </div>
-  </td>
-  <td>
-    <div>repayment of private health insurance premium reduction or refund</div>
   </td>
 </tr>
 <tr>
@@ -1453,22 +1395,6 @@ A person is only liable to pay the charge if a provision of an Act makes the per
 </tr>
 <tr>
   <td>
-    <div>38A</div>
-  </td>
-  <td>
-    <div>18‑150 in Schedule 1</div>
-  </td>
-  <td>
-    <div>
-      <i>Taxation Administration Act 1953</i>
-    </div>
-  </td>
-  <td>
-    <div>PAYG withholding non‑compliance tax</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>39</div>
   </td>
   <td>
@@ -1579,38 +1505,6 @@ A person is only liable to pay the charge if a provision of an Act makes the per
   </td>
   <td>
     <div>payment of a net fuel amount or an amount of indirect tax</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>45A</div>
-  </td>
-  <td>
-    <div>115‑30 in Schedule 1</div>
-  </td>
-  <td>
-    <div>
-      <i>Taxation Administration Act 1953</i>
-    </div>
-  </td>
-  <td>
-    <div>payment of MRRT instalments</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>45B</div>
-  </td>
-  <td>
-    <div>115‑65 in Schedule 1</div>
-  </td>
-  <td>
-    <div>
-      <i>Taxation Administration Act 1953</i>
-    </div>
-  </td>
-  <td>
-    <div>shortfall in MRRT instalments worked out on the basis of a varied rate</div>
   </td>
 </tr>
 <tr>
@@ -1880,7 +1774,7 @@ Note:          For provisions about collection and recovery of
 
                              (ii)  in a case to which paragraph (1)(b) applies—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00700/Html/54ddfef4-e5bd-4017-b7e4-8ebb137e3732_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00512/Html/acd450e9-efdf-4a5d-a2e1-2dad507a3739_files/image002.gif)
 
 ## Part IIB—Running balance accounts, application of payments and credits, and related matters
 
@@ -2082,12 +1976,6 @@ Note:          In either case, section 8AAZLC has some addit
 
                      (c)  in respect of which the Commissioner has agreed to defer recovery under section 255‑5.
 
-             (4)  Furthermore, the Commissioner does not have to treat an amount using either of those methods if:
-
-                     (a)  doing so would require the Commissioner to apply the amount against a tax debt; and
-
-                     (b)  the tax debt is a penalty that is due and payable under section 269‑20 in Schedule 1 (penalties for directors of non‑complying companies).
-
 ##### <a id="8AAZLA"></a>8AAZLA  Method 1—allocating the amount first to an RBA
 
              (1)  The Commissioner may, in the manner he or she determines, allocate the amount to an RBA of the entity or, if the entity is a member of an RBA group, to an RBA of another member of the group.
@@ -2190,91 +2078,9 @@ Effect of refunding credit that relates to an RBA
 
                      (b)  that the entity is required to give the Commissioner under any of the BAS provisions (as defined in subsection 995‑1(1) of the _Income Tax Assessment Act 1997_).
 
-             (2)  The Commissioner may retain the amount until the entity has given the Commissioner that notification or the Commissioner makes or amends an assessment of the amount, whichever happens first.
+             (2)  The Commissioner may retain the amount until the entity has given the Commissioner that notification or the Commissioner makes an assessment of the amount, whichever happens first.
 
 Note:          Interest is payable under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_ if the Commissioner is late in making the payment under subsection (2).
-
-##### <a id="8AAZLGA"></a>8AAZLGA  Retaining refunds while Commissioner verifies information
-
-Commissioner may retain an amount
-
-             (1)  The Commissioner may retain an amount that he or she otherwise would have to refund to an entity under section 8AAZLF, if the entity has given the Commissioner a notification that affects or may affect the amount that the Commissioner refunds to the entity, and:
-
-                     (a)  it would be reasonable to require verification of information (the **_notified information_**) that:
-
-                              (i)  is contained in the notification; and
-
-                             (ii)  relates to the amount that the Commissioner would have to refund; or
-
-                     (b)  the entity has requested the Commissioner to retain the amount for verification of the notified information, and the request has not been withdrawn.
-
-             (2)  In deciding whether to retain the amount under this section, the Commissioner must, as far as the information available to the Commissioner at the time of making the decision reasonably allows, have regard to the following:
-
-                     (a)  the likely accuracy of the notified information;
-
-                     (b)  the likelihood that the notified information was affected by:
-
-                              (i)  fraud or evasion; or
-
-                             (ii)  intentional disregard of a taxation law; or
-
-                            (iii)  recklessness as to the operation of a taxation law;
-
-                     (c)  the impact of retaining the amount on the entity’s financial position;
-
-                     (d)  whether retaining the amount is necessary for the protection of the revenue, including the likelihood that the Commissioner could recover any of the amount if the notified information were found to be incorrect after the amount had been refunded;
-
-                     (e)  any complexity that would be involved in verifying the notified information;
-
-                      (f)  the time for which the Commissioner has already retained the amount;
-
-                     (g)  what the Commissioner has already done to verify the notified information;
-
-                     (h)  whether the Commissioner has enough information to make an assessment relating to the amount (including information obtained from making further requests for information);
-
-                      (i)  the extent to which the notified information is consistent with information that the entity previously provided;
-
-                      (j)  any other relevant matter.
-
-Informing the entity of the retention of the amount
-
-             (3)  The Commissioner must inform the entity (by serving a document on the entity or by other means) that he or she has retained the amount under this section. He or she must do so by the end of:
-
-                     (a)  in a case to which paragraph 8AAZLF(1)(a) applies—the RBA interest day (within the meaning of section 12AF of the _Taxation (Interest on Overpayments and Early Payments) Act 1983_) for the RBA surplus of the entity; or
-
-                     (b)  in any other case—the 30th day after the entity gives to the Commissioner the notification mentioned in subsection (1) of this section.
-
-Note:          Under Part 2A of the regulations, documents may be served on a person using the person’s preferred address for service.
-
-             (4)  In informing the entity that the amount is retained, the Commissioner may request information that he or she is aware will be required for the purposes of verifying the notified information.
-
-How long the amount may be retained
-
-             (5)  The Commissioner may retain the amount under this section only until:
-
-                     (a)  if paragraph (1)(a) applies—it would no longer be reasonable to require verification of the information; or
-
-                     (b)  if the Commissioner fails to inform the entity, in accordance with subsection (3), that he or she has retained the amount under this section—the end of the day after the time by which, under that subsection, the Commissioner is required to inform the entity; or
-
-                     (c)  in any case—there is a change to how much the Commissioner is required to refund, as a result of:
-
-                              (i)  the Commissioner amending an assessment relating to the amount; or
-
-                             (ii)  the Commissioner making or amending an assessment, under Division 105 in Schedule 1, relating to the amount;
-
-whichever happens first.
-
-Objecting to the decision to retain the amount
-
-             (6)  The entity may object to a decision of the Commissioner to retain the amount under this section in the manner set out in Part IVC, if the entity is dissatisfied with the decision.
-
-Note:          Interest on the amount may be payable under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_.
-
-             (7)  Before the end of the 7 days after the start of the period during which, under section 14ZW, the entity may object to the decision, the Commissioner must notify the entity, in writing, that the entity may object to the decision.
-
-Note:          For the start of the period for objecting to the decision, see paragraph 14ZW(1)(aac) and subsection 14ZW(4).
-
-             (8)  A failure to comply with subsection (7) does not affect the validity of the decision.
 
 ##### <a id="8AAZLH"></a>8AAZLH  How refunds are made
 
@@ -2308,7 +2114,7 @@ Note:          For the start of the period for objecting to th
 
 ##### <a id="8AAZMA"></a>8AAZMA  Electronic payment of tax debts
 
-             (1)  An entity that, under subsection 33‑10(2) of the _A New Tax System (Goods and Services Tax) Act 1999_, is required to pay an assessed net amount for a tax period electronically must also electronically pay the Commissioner all of its other tax debts that are due to be paid during that period.
+             (1)  An entity that, under subsection 33‑10(2) of the _A New Tax System (Goods and Services Tax) Act 1999_, is required to pay a net amount for a tax period electronically must also electronically pay the Commissioner all of its other tax debts that are due to be paid during that period.
 
              (2)  A large withholder that, under subsection 16‑85(1) in Schedule 1, is required to pay an amount electronically in a particular month must also electronically pay the Commissioner all of its other tax debts that are due to be paid during that month.
 
@@ -2459,7 +2265,7 @@ Note:          Subsection 2(2) specifies laws that are not tax
              (4)  Unless the contrary intention appears, a reference in paragraph (2)(a) or (b) to a conviction of a person of an offence includes a reference to the making of an order under section 19B of the _Crimes Act 1914_ in relation to the person in respect of the offence.
 
 ##### <a id="8C"></a>8C  Failure to comply with requirements under taxation law
- <span style="font-size:9.0pt;font-weight: normal">[_see_ Note 6]</span>
+ <span style="font-size:9.0pt;font-weight: normal">[_see_ Note 7]</span>
 
              (1)  A person who refuses or fails, when and as required under or pursuant to a taxation law to do so:
 
@@ -2993,7 +2799,7 @@ the court may, in addition to imposing a penalty on the convicted person, order 
 
           (1C)  If the conditions in section 705‑315 of the _Income Tax Assessment Act 1997_ are satisfied, then for the purposes of any application of subsection (1) of this section in relation to the errors mentioned in that section that were made in a statement that was made before the Commissioner became aware of the errors, the references in paragraphs (1)(c) and (d) of this section to the excess are taken instead to be references to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00700/Html/54ddfef4-e5bd-4017-b7e4-8ebb137e3732_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00512/Html/acd450e9-efdf-4a5d-a2e1-2dad507a3739_files/image003.gif)
 
 where:
 
@@ -3085,7 +2891,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (4)  Nothing in this section shall be read as imposing on a person an obligation to require another person to quote a tax file number.
 
-##### <a id="8WB"></a>8WB  Unauthorised recording etc. of tax file number
+##### <a id="8WB"></a>8WB  Unauthorised recording etc. of tax file number
 
              (1)  A person must not:
 
@@ -4091,6 +3897,8 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     <a name="frank-assess"></a>**_franking assessment_** has the same meaning as in the _Income Tax Assessment Act 1997_.
 
+                    <a name="object-decision"></a>**_objection decision_** has the meaning given by subsection 14ZY(2).
+
                     <a name="review-object-decision"></a>**_reviewable objection decision_** means an objection decision that is not an ineligible income tax remission decision.
 
                     <a name="taxat-decision"></a>**_taxation decision_** means the assessment, determination, notice or decision against which a taxation objection may be, or has been, made.
@@ -4169,20 +3977,6 @@ Note:          A person who objects against the Commissioner�
 
                   (aab)  if the taxation objection is made under section 292‑245 of the _Income Tax Assessment Act 1997_—4 years after notice of the assessment concerned is given to the person; or
 
-                  (aac)  if the taxation objection is made under section 292‑469 of the _Income Tax Assessment Act 1997_:
-
-                              (i)  in relation to a determination—60 days after the Commissioner issues the determination or, if that determination is varied, 60 days after the varied determination is issued; or
-
-                             (ii)  in relation to a decision to revoke a determination—60 days after the making of the decision to revoke the determination; or
-
-                            (iii)  in relation to a decision not to vary or revoke a determination—60 days after the making of the decision not to vary or revoke the determination; or
-
-                  (aad)  if the taxation objection is made under subsection 8AAZLGA(6) of this Act (retaining refunds while Commissioner verifies information)—the period:
-
-                              (i)  starting at the end of the 60 day period after the end of the day before which, under subsection 8AAZLGA(3), the Commissioner is required to inform the entity mentioned in section 8AAZLGA that the Commissioner has retained an amount under that section; and
-
-                             (ii)  ending on the day (if any) on which there is a change, of a kind mentioned in paragraph 8AAZLGA(5)(c), to how much the Commissioner is required to refund in relation to the amount; or
-
                    (ab)  if the taxation objection is a delayed administration (beneficiary) objection made under subsection 260‑145(5) in Schedule 1 (because of paragraph (a) of that subsection) or subsection 220(3) of the _Income Tax Assessment Act 1936_(not including that subsection as applied by any other Act)—4 years after notice of the taxation decision to which it relates has been first published; or
 
                     (ac)  if the taxation objection is a delayed administration (trustee) objection made under subsection 260‑145(5) in Schedule 1 (because of paragraph (b) of that subsection) or subsection 220(7) of the _Income Tax Assessment Act 1936_(not including that subsection as applied by any other Act)—4 years after probate of the will, or letters of administration of the estate, of the deceased person concerned has been granted; or
@@ -4199,10 +3993,6 @@ Note:          A person who objects against the Commissioner�
 
                    (be)  if the taxation objection is made under section 20P of the _Superannuation (Unclaimed Money and Lost Members) Act 1999_ against a decision under Division 4 or 5 of Part 3A of that Act and the person is not a superannuation provider (as defined in that Act)—2 years after the person was given notice of the decision; or
 
-                    (bf)  if the taxation objection is made under subsection 155‑30(2) in Schedule 1 to this Act—60 days after the end of the period of 30 days mentioned in that subsection; or
-
-                   (bg)  if the taxation objection is made under Subdivision 155‑C in Schedule 1 to this Act—the period mentioned in paragraph 155‑35(2)(a) in that Schedule in relation to the assessment concerned; or
-
                      (c)  in any other case—60 days after notice of the taxation decision to which it relates has been served on the person.
 
     (1AAA)  The person must lodge the taxation objection against a reviewable indirect tax decision (within the meaning of section 105‑40 in Schedule 1) before the end of whichever of the following ends last:
@@ -4211,33 +4001,11 @@ Note:          A person who objects against the Commissioner�
 
                      (b)  the 4 years after the end of the tax period, or after the importation of goods, to which the decision relates.
 
-Note 1:       Section 105‑40 in Schedule 1 to the _Taxation Administration Act 1953_ only applies in relation to tax periods and fuel tax return periods starting before 1 July 2012.
-
-Note 2:       This subsection will be repealed on 1 January 2017: see Part 2 of Schedule 1 to the _Indirect Tax Laws Amendment (Assessment) Act 2012_.
-
      (1AAB)  The person cannot lodge a taxation objection against a private indirect tax ruling after the end of whichever of the following ends last:
 
                      (a)  60 days after the ruling was made;
 
                      (b)  4 years after the end of the tax period, or after the importation of goods, to which the ruling relates.
-
-  (1AABA)  Subsection (1AAB) applies in relation to:
-
-                     (a)  a tax period starting before 1 July 2012; or
-
-                     (b)  a payments or refund that:
-
-                              (i)  does not relate to any tax period; and
-
-                             (ii)  relates to a liability or entitlement that arose before 1 July 2012.
-
-Note:          Subsection (1AAB) and this subsection will be repealed on 1 January 2017: see Part 2 of Schedule 1 to the _Indirect Tax Laws Amendment (Assessment) Act 2012_.
-
-     (1AAC)  The person cannot lodge a taxation objection against a private indirect tax ruling (to which subsection (1AAB) does not apply) after the end of whichever of the following ends last:
-
-                     (a)  60 days after the ruling was made;
-
-                     (b)  the period mentioned in paragraph 155‑35(2)(a) in Schedule 1 in relation to the assessment of the assessable amount to which the ruling relates.
 
           (1A)  The person cannot lodge a taxation objection against a private ruling (other than a private indirect tax ruling, or a ruling that relates to an excise law) that relates to a year of income after the end of whichever of the following ends last:
 
@@ -4249,14 +4017,6 @@ Note:          Subsection (1AAB) and this subsection will be
 
                              (ii)  otherwise—4 years after that day.
 
-       (1AB)  The person cannot lodge a taxation objection against a private tax ruling that relates to an MRRT year and to a mining project interest or pre‑mining project interest after the end of whichever of the following ends last:
-
-                     (a)  60 days after the ruling was made;
-
-                     (b)  4 years after the last day allowed to the person for lodging an MRRT return in relation to the MRRT year and the interest.
-
-       (1AC)  Expressions used in subsection (1AB) have the same meaning as in the _Income Tax Assessment Act 1997_.
-
        (1AA)  The person cannot lodge a taxation objection against a private ruling that relates to a year of tax and a petroleum project under the _Petroleum Resource Rent Tax Assessment Act 1987_ after the end of whichever of the following ends last:
 
                      (a)  the 60 days after the ruling was made;
@@ -4267,7 +4027,7 @@ Note:          Subsection (1AAB) and this subsection will be
 
                      (a)  section 14ZV applies to a taxation objection; and
 
-                     (b)  apart from this subsection, subparagraph (1)(aa)(ii) or paragraph (1)(aaa), (aab), (ab), (ac), (bb), (bf) or (bg) would apply to the taxation objection; 
+                     (b)  apart from this subsection, subparagraph (1)(aa)(ii) or paragraph (1)(aaa), (aab), (ab), (ac) or (bb) would apply to the taxation objection; 
 
 the person must lodge the taxation objection before the end of whichever of the following ends last:
 
@@ -4303,12 +4063,6 @@ the person must lodge the taxation objection within that longer period.
 
              (3)  The request must state fully and in detail the circumstances concerning, and the reasons for, the person’s failure to lodge the objection with the Commissioner within the required period.
 
-             (4)  The 60 day period mentioned in subparagraph (1)(aad)(i) (including the period as extended by a previous application of this subsection) is extended by the number of days during that period in relation to which the following paragraphs apply:
-
-                     (a)  on or before the day, but during the period, the Commissioner requests information from the entity for the purposes of verifying the notified information mentioned in section 8AAZLGA;
-
-                     (b)  the Commissioner does not receive the requested information before the day.
-
 ##### <a id="14ZX"></a>14ZX  Commissioner to consider applications for extension of time 
 
              (1)  After considering the request, the Commissioner must decide whether to agree to it or refuse it.
@@ -4333,15 +4087,13 @@ the person must lodge the taxation objection within that longer period.
 
                      (b)  make a different private ruling.
 
-          (1B)  If the taxation objection is an objection under subsection 155‑30(2) in Schedule 1 against the Commissioner’s failure to make an assessment of an assessable amount, the Commissioner must decide to make an assessment of the assessable amount.
-
-             (2)  A decision of the Commissioner mentioned in subsection (1), (1A) or (1B) is an **_objection decision_**.
+             (2)  Such a decision is in this Part called an **_objection decision_**.
 
              (3)  The Commissioner must cause to be served on the person written notice of the Commissioner’s objection decision.
 
 ##### <a id="14ZYA"></a>14ZYA  Person may require Commissioner to make an objection decision
 
-             (1)  This section applies if the taxation objection (other than one under subsection 155‑30(2) or 359‑50(3) in Schedule 1) has been lodged with the Commissioner within the required period and the Commissioner has not made an objection decision by whichever is the later of the following times:
+             (1)  This section applies if the taxation objection (other than one under subsection 359‑50(3) in Schedule 1) has been lodged with the Commissioner within the required period and the Commissioner has not made an objection decision by whichever is the later of the following times:
 
                      (a)  the end of the period (in this section called the **_original 60‑day period_**) of 60 days after whichever is the later of the following days:
 
@@ -4357,15 +4109,11 @@ the person must lodge the taxation objection within that longer period.
 
 ##### <a id="14ZYB"></a>14ZYB  Requiring Commissioner to make a private ruling
 
-             (1)  This section applies if the taxation objection is an objection under subsection 155‑30(2) or 359‑50(3) in Schedule 1 and the Commissioner has not made an objection decision by the end of 60 days after the later of these days:
+             (1)  This section applies if the taxation objection is an objection under subsection 359‑50(3) in Schedule 1 against the Commissioner’s failure to make a private ruling and the Commissioner has not made an objection decision by the end of 60 days after the later of these days:
 
                      (a)  the day on which the taxation objection was lodged with the Commissioner;
 
                      (b)  if the Commissioner decides under section 14ZX to agree to a request in relation to the taxation objection—the day on which the decision was made.
-
-Note 1:       Subsection 155‑30(2) provides for objections against the Commissioner’s failure to make an assessment of an assessable amount.
-
-Note 2:       Subsection 359‑50(3) provides for objections against the Commissioner’s failure to make a private ruling.
 
              (2)  The Commissioner is taken, at the end of that 60 day period, to have disallowed the objection.
 
@@ -4501,7 +4249,7 @@ the Tribunal must ensure, as far as practicable, that its reasons for the decisi
 
                     <a name="reason-decision"></a>**_reasons for decision_** includes findings on material questions of fact and references to the evidence or other material on which those findings were based.”.
 
-##### <a id="14ZZK"></a>14ZZK  Grounds of objection and burden of proof 
+##### <a id="14ZZK"></a>14ZZK  Grounds of objection and burden of proof 
 
                    On an application for review of a reviewable objection decision:
 
@@ -4698,204 +4446,6 @@ shall be received in all courts and tribunals in proceedings arising out of a ta
                      (b)  references in this section to the Commissioner were references to the Development Allowance Authority.
 
            (12)  This section applies in relation to the _Tax Agent Services Act 2009_ as if references in this section to the Commissioner were references to the Chair of the Tax Practitioners Board (within the meaning of that Act).
-
-##### <a id="15B"></a>15B  Recoverable advances
-
-             (1)  The Commissioner may make an advance to a person (the **_recipient_**) on account of an amount to which the recipient may become entitled under a taxation law.
-
-             (2)  The Commissioner must not make an advance under subsection (1) unless:
-
-                     (a)  if the advance is made in conjunction with other advances under that subsection—the Commissioner is satisfied that the total of the costs that would be likely to be incurred by:
-
-                              (i)  the Commonwealth; and
-
-                             (ii)  the recipients; and
-
-                            (iii)  persons other than the Commonwealth or the recipients;
-
-                            if the advance and the other advances were not made is likely to exceed the total of the advance and the other advances; or
-
-                     (b)  otherwise—the Commissioner is satisfied that the total of the costs that would be likely to be incurred by:
-
-                              (i)  the Commonwealth; and
-
-                             (ii)  the recipient; and
-
-                            (iii)  persons other than the Commonwealth or the recipient;
-
-                            if the advance were not made is likely to exceed the amount of the advance.
-
-             (3)  An advance under subsection (1) may:
-
-                     (a)  be recovered under subsection (4); or
-
-                     (b)  be the subject of a determination under subsection (5).
-
-             (4)  If an advance is made under subsection (1) to a person (the **_recipient_**), the advance:
-
-                     (a)  is a debt due to the Commonwealth by the recipient; and
-
-                     (b)  is payable to the Commissioner; and
-
-                     (c)  may be recovered in a court of competent jurisdiction by the Commissioner, or by a Deputy Commissioner, suing in his or her official name;
-
-whether or not the recipient has become entitled to an amount under a taxation law.
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-Advance may discharge Commonwealth liability
-
-             (5)  If:
-
-                     (a)  an advance is made to a person (the **_recipient_**) under subsection (1); and
-
-                     (b)  the advance has not been fully recovered under subsection (4); and
-
-                     (c)  an amount is payable to the recipient by the Commonwealth under a taxation law (the **_Commonwealth liability_**);
-
-the Commissioner may, by written notice given to the recipient, determine that the making of the advance is taken to have discharged so much of the Commonwealth liability as equals the whole, or a specified part, of the amount of the advance.
-
-             (6)  A part of an advance must not be specified in a determination under subsection (5) if it has already been specified in a previous determination under subsection (5).
-
-             (7)  If the whole, or a part, of an advance is the subject of a determination under subsection (5), the whole, or the part, as the case may be, of the advance is not recoverable under subsection (4).
-
-             (8)  Subsection (5) does not limit Part IIB.
-
-             (9)  For the purposes of section 47 of the _Financial Management and Accountability Act 1997_, a determination under subsection (5) of this section is taken to be a method of debt recovery.
-
-##### <a id="15C"></a>15C  Recoverable payments
-
-             (1)  If, apart from this subsection, the Commissioner does not have power under a taxation law to pay an amount (the **_relevant amount_**) to a person (the **_recipient_**) purportedly as an amount to which the recipient is entitled to under a taxation law, then the Commissioner may pay the relevant amount to the recipient.
-
-Recovery
-
-             (2)  If a payment is made under subsection (1) to the recipient, the relevant amount:
-
-                     (a)  is a debt due to the Commonwealth by the recipient; and
-
-                     (b)  is payable to the Commissioner; and
-
-                     (c)  may be recovered in a court of competent jurisdiction by the Commissioner, or by a Deputy Commissioner, suing in his or her official name.
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-             (3)  If:
-
-                     (a)  a payment is made under subsection (1) to the recipient; and
-
-                     (b)  an amount is payable to the recipient by the Commonwealth under a taxation law (the **_Commonwealth liability_**);
-
-then:
-
-                     (c)  the relevant amount; or
-
-                     (d)  such part of the relevant amount as the Commissioner determines;
-
-may, if the Commissioner so directs, be recovered by deduction from the Commonwealth liability.
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-             (4)  For the purposes of a designated recovery provision, in determining whether an amount is payable, disregard subsection (1) of this section.
-
-             (5)  If the relevant amount is recovered under a designated recovery provision, the relevant amount cannot be recovered under subsection (2) or (3) of this section.
-
-             (6)  If the relevant amount is recovered under subsection (2) or (3) of this section, the relevant amount cannot be recovered under a designated recovery provision.
-
-             (7)  Except as provided by subsection (6), subsection (3) does not limit Part IIB.
-
-Designated recovery provisions
-
-             (8)  For the purposes of this section, each of the following provisions is a **_designated recovery provision_**:
-
-                     (a)  section 8AAZN of this Act;
-
-                     (b)  section 70 of the _Superannuation Guarantee (Administration) Act 1992_;
-
-                     (c)  section 50 of the _First Home Saver Accounts Act 2008_;
-
-                     (d)  section 24 of the _Superannuation (Government Co‑contribution for Low Income Earners) Act 2003_;
-
-                     (e)  a similar provision of a taxation law.
-
-             (9)  For the purposes of a designated recovery provision, in determining:
-
-                     (a)  whether a person is entitled to an amount; or
-
-                     (b)  whether an amount is payable;
-
-disregard subsection (1).
-
-##### <a id="15D"></a>15D  Reports about recoverable advances and recoverable payments
-
-             (1)  During the applicable publication period for a reporting period, the Commissioner must publish, in such manner as the Commissioner thinks fit, a report that sets out:
-
-                     (a)  both:
-
-                              (i)  the number of advances made under subsection 15B(1) during the reporting period; and
-
-                             (ii)  the total amount of those advances; and
-
-                     (b)  both:
-
-                              (i)  the number of payments made under subsection 15C(1) during the reporting period; and
-
-                             (ii)  the total amount of those payments.
-
-             (2)  However, a report is not required if:
-
-                     (a)  the number mentioned in subparagraph (1)(a)(i) is zero; and
-
-                     (b)  the number mentioned in subparagraph (1)(b)(i) is zero.
-
-Deferred reporting
-
-             (3)  Paragraph (1)(b) of this section does not require a report to deal with a payment unless, before the preparation of the report, an Australian Taxation Office official was aware the payment was made under subsection 15C(1).
-
-             (4)  For the purposes of this section, if:
-
-                     (a)  a payment was made under subsection 15C(1) in a reporting period; and
-
-                     (b)  because of subsection (3) of this section, paragraph (1)(b) of this section did not require a report to deal with the payment; and
-
-                     (c)  during a later reporting period, an Australian Taxation Office official becomes aware that the payment was made under subsection 15C(1);
-
-the payment is subject to a **_deferred reporting obligation_** in relation to the later reporting period.
-
-             (5)  If one or more payments made under subsection 15C(1) during a reporting period are subject to a deferred reporting obligation in relation to a later reporting period, the Commissioner must, during the applicable publication period for the later reporting period:
-
-                     (a)  prepare a report that sets out:
-
-                              (i)  the number of those payments; and
-
-                             (ii)  the total amount of those payments; and
-
-                            (iii)  the reporting period during which the payments were made; and
-
-                     (b)  if a report is required under subsection (1) in relation to the later reporting period—include the paragraph (a) report in the subsection (1) report; and
-
-                     (c)  if paragraph (b) does not apply—publish, in such manner as the Commissioner thinks fit, the paragraph (a) report.
-
-Reporting period
-
-             (6)  For the purposes of this section, a **_reporting period_** is:
-
-                     (a)  a financial year; or
-
-                     (b)  if a shorter recurring period is specified in a legislative instrument made by the Minister—that period.
-
-Applicable publication period
-
-             (7)  For the purposes of this section, the **_applicable publication period_** for a reporting period is the period of:
-
-                     (a)  4 months; or
-
-                     (b)  if a lesser number of months is specified, in relation to the reporting period, in a legislative instrument made by the Minister—that number of months;
-
-beginning immediately after the end of the reporting period.
-
-Australian Taxation Office official
-
-             (8)  For the purposes of this section, **_Australian Taxation Office official_** means an official (within the meaning of the _Financial Management and Accountability Act 1997_) who is in the Australian Taxation Office or is part of the Australian Taxation Office.
 
 ##### <a id="16"></a>16  Payments out of Consolidated Revenue Fund
 
