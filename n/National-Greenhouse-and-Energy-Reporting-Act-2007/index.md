@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00037/Html/f37da999-62a3-42bb-b57d-4dc9422e8cce_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00535/Html/2ee98a04-8c49-4664-9c55-4a1fb494ef67_files/image001.gif)
 
 # National Greenhouse and Energy Reporting Act 2007
 
 **Act No. 175 of 2007 as amended**
 
-This compilation was prepared on 16 January 2013
- taking into account amendments up to Act No. 204 of 2012
+This compilation was prepared on 12 July 2012
+ taking into account amendments up to Act No. 84 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -1490,7 +1491,7 @@ then:
 
            (19)  The formula is:
 
-![](http://www.comlaw.gov.au/Details/C2013C00037/Html/f37da999-62a3-42bb-b57d-4dc9422e8cce_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00535/Html/2ee98a04-8c49-4664-9c55-4a1fb494ef67_files/image002.gif)
 
 where:
 
@@ -1660,7 +1661,7 @@ then:
 
            (17)  The formula is:
 
-![](http://www.comlaw.gov.au/Details/C2013C00037/Html/f37da999-62a3-42bb-b57d-4dc9422e8cce_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00535/Html/2ee98a04-8c49-4664-9c55-4a1fb494ef67_files/image003.gif)
 
 where:
 
@@ -1782,7 +1783,7 @@ During that year, the corporation applies under subsection (1) to be registere
 
 On 30 June 2010 the corporation is still registered under Division 3\. The corporation is not required to make an application under subsection (1) in relation to the financial year ending on 30 June 2010.
 
-             (3)  A controlling corporation may apply, in accordance with this section, to be registered under Division 3 if an executive officer of the corporation is satisfied that the corporation’s group is likely to meet one or more of the thresholds under section 13 for a financial year (the **_trigger year_**) ending on or after 30 June 2009.
+             (3)  A controlling corporation may apply, in accordance with this section, to be registered under Division 3 if the chief executive officer of the corporation is satisfied that the corporation’s group is likely to meet one or more of the thresholds under section 13 for a financial year (the **_trigger year_**) ending on or after 30 June 2009.
 
              (4)  An application under subsection (1) or (3) must be made by 31 August in the financial year after the trigger year.
 
@@ -1838,7 +1839,7 @@ unless the Minister has, under subsection 10(3), determined:
 
              (2)  If a member of a controlling corporation’s group has operational control of a facility for a number of, but not all, days in a financial year (the **_control days_**), subparagraphs (1)(d)(i) to (iii) have effect as though each threshold were replaced by the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00037/Html/f37da999-62a3-42bb-b57d-4dc9422e8cce_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00535/Html/2ee98a04-8c49-4664-9c55-4a1fb494ef67_files/image004.gif)
 
 Reporting transfer certificate
 
@@ -2644,7 +2645,7 @@ Form of application
 
                              (ii)  if subsection (4) applies—the consent of the controlling corporation mentioned in that subsection to the making of the application; and
 
-                            (iii)  a written statement, signed by an executive officer of the transferor corporation mentioned in section 22J, to the effect that the transferor corporation has agreed to give the applicant such information as is necessary for the applicant to comply with obligations that will be imposed on the applicant by this Act in relation to the facility if the certificate is issued; and
+                            (iii)  a written statement, signed by the chief executive officer of the transferor corporation mentioned in section 22J, to the effect that the transferor corporation has agreed to give the applicant such information as is necessary for the applicant to comply with obligations that will be imposed on the applicant by this Act in relation to the facility if the certificate is issued; and
 
                             (iv)  such information (if any) as is specified in the regulations; and
 
@@ -3082,7 +3083,7 @@ Limitations
 
            (1J)  If the person was the holder of the relevant reporting transfer certificate or financial control liability transfer certificate in relation to the facility for a number of, but not all, days in the financial year (the **_control days_**), paragraphs (1H)(a), (b) and (c) have effect as though each amount mentioned in the relevant paragraph were replaced by the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00037/Html/f37da999-62a3-42bb-b57d-4dc9422e8cce_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00535/Html/2ee98a04-8c49-4664-9c55-4a1fb494ef67_files/image005.gif)
 
           (1K)  Subsection (1H) does not apply to:
 
@@ -3516,7 +3517,7 @@ that the conduct merits the imposition of a pecuniary penalty.
 
              (3)  Under section 31, a Court may order a person contravening subsection (1) to pay a pecuniary penalty not more than the pecuniary penalty the Court could order a body corporate to pay for contravening the civil penalty provision mentioned in paragraph (1)(a).
 
-##### <a id="48"></a>48  Did an executive officer take reasonable steps to prevent contravention?
+##### <a id="48"></a>48  Did an executive officer take reasonable steps to prevent contravention?
 
              (1)  For the purposes of section 47, in determining whether an executive officer of a body corporate failed to take all reasonable steps to prevent a contravention, a Court is to have regard to:
 
@@ -4685,25 +4686,7 @@ Schedule 1 (items 261A–278,
     <div>Schedule 1 (items 24–59): <i>(b)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (item 59)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Clean Energy Amendment (International Emissions Trading and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>204, 2012</div>
-  </td>
-  <td>
-    <div>13 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 94, 95): 14 Dec 2012 
-Schedule 1 (items 97–106): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 106)</div>
+    <div>Sch. 1 (item 59)</div>
   </td>
 </tr></table>
 
@@ -5188,7 +5171,7 @@ Div. 1 of Part 2</div>
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 84, 2008; No. 204, 2012</div>
+    <div>am. No. 84, 2008</div>
   </td>
 </tr>
 <tr>
@@ -5684,7 +5667,7 @@ Div. 1 of Part 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 132, 2011; No. 204, 2012</div>
+    <div>am. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6377,150 +6360,6 @@ Div. 4 of Part 6</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Clean Energy Amendment (International Emissions Trading and Other Measures) Act 2012 (No. 204, 2012)_
-
-The following amendments commence on 1 July 2013:
-
-## Schedule 1
-
-## 97  Section 7
-
-Insert:
-
-                    <a name="liquefi-natur-ga"></a>**_liquefied natural gas_** has the meaning given by the regulations.
-
-## 98  Section 7
-
-Insert:
-
-                    <a name="liquefi-petroleum-ga"></a>**_liquefied petroleum gas_** has the meaning given by the regulations.
-
-## 99  Section 7
-
-Insert:
-
-                    <a name="natur-ga-supplier"></a>**_natural gas supplier_** has the same meaning as in the _Clean Energy Act 2011_.
-
-## 100  Section 7
-
-Insert:
-
-                    <a name="opt-scheme"></a>**_Opt‑in Scheme_** has the same meaning as in the _Clean Energy Act 2011._
-
-## 101  Section 7
-
-Insert:
-
-                    <a name="otn"></a>**_OTN_** has the same meaning as in the _Clean Energy Act 2011_.
-
-## 102  Section 7
-
-Insert:
-
-                    <a name="suppli"></a>**_supply_** has the same meaning as in the _Clean Energy Act 2011_.
-
-## 103  Section 7
-
-Insert:
-
-                    <a name="taxabl-fuel"></a>**_taxable fuel_** has the same meaning as in the _Clean Energy Act 2011_.
-
-## 104  Section 10 (heading)
-
-Repeal the heading, substitute:
-
-##### <a id="10"></a>10  Emissions, energy production, energy consumption, fuel supplied etc.
-
-## 105  At the end of section 10
-
-Add:
-
-Measuring and adjusting fuel supplied etc.
-
-             (5)  The Minister may determine, by legislative instrument, methods, or criteria for methods, by which the following:
-
-                     (a)  the amounts of natural gas supplied by a natural gas supplier;
-
-                     (b)  the amounts of a particular kind of taxable fuel acquired, manufactured or imported by a person;
-
-                     (c)  the amounts of liquefied petroleum gas imported, manufactured, produced or supplied by a person;
-
-                     (d)  the amounts of liquefied natural gas imported, manufactured, produced or supplied by a person;
-
-are to be measured for the purposes of this Act and the _Clean Energy Act 2011_, and may specify:
-
-                     (e)  different methods or criteria for different circumstances; and
-
-                      (f)  conditions relating to the use of methods determined by the Minister or of methods which meet criteria determined by the Minister; and
-
-                     (g)  rating systems for those methods (including different rating systems for different circumstances); and
-
-                     (h)  the particular rating given to each of those methods.
-
-             (6)  The Minister may determine, by legislative instrument, that, if:
-
-                     (a)  under a specified provision of:
-
-                              (i)  Division 3 or 3A of Part 3 of the _Clean Energy Act 2011_; or
-
-                             (ii)  the Opt‑in Scheme;
-
-                            there is a provisional emissions number of a person for an eligible financial year; and
-
-                     (b)  under the same provision of:
-
-                              (i)  Division 3 or 3A of Part 3 of the _Clean Energy Act 2011_; or
-
-                             (ii)  the Opt‑in Scheme;
-
-                            as the case may be, there is a provisional emissions number of the person for the previous eligible financial year; and
-
-                     (c)  the provisional emissions number mentioned in paragraph (b):
-
-                              (i)  was calculated using a determination under subsection (5) of this section; and
-
-                             (ii)  exceeds the number that would have been the provisional emissions number mentioned in paragraph (b) if that number had not been calculated using the determination; and
-
-                     (d)  the conditions specified in the determination are satisfied;
-
-the provisional emissions number mentioned in paragraph (a) is taken, for the purposes of this Act and the _Clean Energy Act 2011_, to be reduced by a number ascertained in accordance with the determination.
-
-             (7)  The number ascertained in accordance with a determination under subsection (6) must not exceed the excess mentioned in paragraph (6)(c).
-
-             (8)  The Minister may determine, by legislative instrument, that, if:
-
-                     (a)  under a specified provision of:
-
-                              (i)  Division 3 or 3A of Part 3 of the _Clean Energy Act 2011_; or
-
-                             (ii)  the Opt‑in Scheme;
-
-                            there is a provisional emissions number of a person for an eligible financial year; and
-
-                     (b)  under the same provision of:
-
-                              (i)  Division 3 or 3A of Part 3 of the _Clean Energy Act 2011_; or
-
-                             (ii)  the Opt‑in Scheme;
-
-                            as the case may be, there is a provisional emissions number of the person for the previous eligible financial year; and
-
-                     (c)  the provisional emissions number mentioned in paragraph (b):
-
-                              (i)  was calculated using a determination under subsection (5) of this section; and
-
-                             (ii)  falls short of the number that would have been the provisional emissions number mentioned in paragraph (b) if that number had not been calculated using the determination; and
-
-                     (d)  the conditions specified in the determination are satisfied;
-
-the provisional emissions number mentioned in paragraph (a) is taken, for the purposes of this Act and the _Clean Energy Act 2011_, to be increased by a number ascertained in accordance with the determination.
-
-             (9)  The number ascertained in accordance with a determination under subsection (8) must not exceed the shortfall mentioned in paragraph (8)(c).
-
-As at 16 January 2013 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -6558,7 +6397,7 @@ The Governor‑General may make regulations prescribing matters of a transitiona
 
 * * *
 
-_Carbon Credits (Consequential Amendments) Act 2011 (No. 102, 2011)_
+_Carbon Credits (Consequential Amendments) Act 2011 (No. 102, 2011)_
 
 ## Schedule 1
 
@@ -6574,7 +6413,7 @@ _Carbon Credits (Consequential Amendments) Act 2011 (No. 102, 2011)_
 
 * * *
 
-_Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
+_Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
 
 ## Schedule 1
 
@@ -6626,7 +6465,7 @@ The National Greenhouse and Energy Register maintained under section 16 of the
 
 * * *
 
-_Clean Energy Legislation Amendment Act 2012 (No. 84, 2012)_
+_Clean Energy Legislation Amendment Act 2012 (No. 84, 2012)_
 
 ## Schedule 1
 
@@ -6647,43 +6486,5 @@ Determination
                      (a)  had been made under the corresponding provision of section 7B of the _National Greenhouse and Energy Reporting Act 2007_ as amended by this Act; and
 
                      (b)  related to a specified kind of designated fuel, namely, natural gas.
-
-* * *
-
-_Clean Energy Amendment (International Emissions Trading and Other Measures) Act 2012 (No. 204, 2012)_
-
-The following provision commences on 1 July 2013:
-
-## Schedule 1
-
-## 106  Application of amendments
-
-(1)       The amendments of the _National Greenhouse and Energy Reporting Act 2007_ made by this Part, in so far as they are relevant to reports under that Act, apply in relation to reports for:
-
-                     (a)  the financial year beginning on 1 July 2013; or
-
-                     (b)  a later financial year.
-
-(2)       The amendments of the _National Greenhouse and Energy Reporting Act 2007_ made by this Part, in so far as they are relevant to the calculation of:
-
-                     (a)  an interim emissions number; or
-
-                     (b)  a preliminary emissions number; or
-
-                     (c)  a provisional emissions number;
-
-apply in relation to the calculation of an interim emissions number, a preliminary emissions number or a provisional emissions number, as the case may be, of a person for:
-
-                     (d)  the financial year beginning on 1 July 2013; or
-
-                     (e)  a later financial year.
-
-(3)       In this item:
-
-**_interim_** **_emissions number_** has the same meaning as in the _Clean Energy Act 2011_.
-
-**_preliminary emissions number_** has the same meaning as in the _Clean Energy Act 2011_.
-
-**_provisional_** **_emissions number_** has the same meaning as in the _Clean Energy Act 2011_.
 
  
