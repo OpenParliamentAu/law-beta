@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00444/Html/DefForDisAppAct55_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00108/Html/DefForDisAppAct55_image001.gif)
 
 # Defence Force Discipline Appeals Act 1955
 
 **Act No. 16 of 1955 as amended**
 
-This compilation was prepared on 16 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 31 March 2008
+ taking into account amendments up to Act No. 6 of 2008
 
 The text of any of those amendments not in force on that date is appended in the Notes section
 
@@ -103,7 +103,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [35](#35).          Warrants
 
-[36](#36).          Tribunal may obtain reports to assist in determination of references or appeals
+[36](#36).          Tribunal may obtain reports to assist in determination of references or appeals [_see_ Note 2]
 
 [37](#37).          Costs
 
@@ -487,7 +487,7 @@ the Tribunal may order that any punishment of imprisonment or detention imposed 
 
                      (b)  that, as a result of a wrong decision on a question of law, or of mixed law and fact, the conviction or the prescribed acquittal was wrong in law and that a substantial miscarriage of justice has occurred;
 
-                     (c)  that there was a material irregularity in the course of the proceedings before the Australian Military   Court and that a substantial miscarriage of justice has occurred; or
+                     (c)  that there was a material irregularity in the course of the proceedings before the Australian Military Court and that a substantial miscarriage of justice has occurred; or
 
                      (d)  that, in all the circumstances of the case, the conviction or the prescribed acquittal is unsafe or unsatisfactory;
 
@@ -615,9 +615,9 @@ the Tribunal may substitute for the conviction of the original offence a convict
 
              (2)  Section 170 of the _Defence Force Discipline Act 1982_ applies in relation to a warrant issued under subsection (1) of this section as if it were issued under subsection 170(1) of that Act.
 
-##### <a id="36"></a>36  Tribunal may obtain reports to assist in determination of references or appeals
+##### <a id="36"></a>36  Tribunal may obtain reports to assist in determination of references or appeals<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 2]</span>
 
-                   Where, upon the hearing of a question of law referred to the Tribunal under section 19A, or an appeal, the Tribunal thinks it necessary or expedient in the interests of justice to do so, the Tribunal may direct such steps to be taken as are necessary to obtain from the Military Judge of the Australian Military Court who heard the case to which the reference or appeal relates, a report giving his or her opinion upon the case, or upon a point arising in the case, or containing a statement as to any facts the ascertainment of which appears to the Tribunal to be material for the purpose of the determination of the question of law or the appeal.
+                   Where, upon the hearing of a question of law referred to the Tribunal under section 19A, or an appeal against a conviction or a prescribed acquittal by a court martial or a Defence Force magistrate, the Tribunal thinks it necessary or expedient in the interests of justice to do so, the Tribunal may direct such steps to be taken as are necessary to obtain from the Military Judge of the Australian Military Court who heard the case to which the reference or appeal relates, a report giving his or her opinion upon the case, or upon a point arising in the case, or containing a statement as to any facts the ascertainment of which appears to the Tribunal to be material for the purpose of the determination of the question of law or the appeal.
 
 ##### <a id="37"></a>37  Costs
 
@@ -699,7 +699,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="44"></a>44  Duty of witness to continue in attendance
 
-             (1)  A person who has been summoned under this Act to attend the Tribunal, or to attend a person appointed to receive evidence on behalf of the Tribunal, as a witness shall appear and report himself or herself from day to day unless excused, or until released from further attendance, by a member of the Tribunal or the person so appointed.
+             (1)  A person who has been summoned under this Act to attend the Tribunal, or to attend a person appointed to receive evidence on behalf of the Tribunal, as a witness shall appear and report himself from day to day unless excused, or until released from further attendance, by a member of the Tribunal or the person so appointed.
 
                     Penalty:  $1,000 or imprisonment for 6 months.
 
@@ -839,7 +839,7 @@ the contempt is punishable by the court to which the application was made as if 
 
              (1)  Nothing in this Act affects the Royal prerogative of mercy.
 
-##### <a id="60"></a>60  Regulations
+##### <a id="60"></a>60  Regulations
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular:
 
@@ -1222,40 +1222,6 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 5): <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Defence Legislation Amendment Act 2008</div>
   </td>
   <td>
@@ -1271,23 +1237,6 @@ Schedule 7 (item 45): <i>(g)</i></div>
   </td>
   <td>
     <div>Sch. 8 (items 1, 2, 4, 8) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 247): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -1405,62 +1354,6 @@ _(g)_ Subsection 2(1) (item 12) of the _Defence Legislation Amendment Act 2008_ 
     <div>
       Immediately after the commencement of item 230 of Schedule 1 to the
         <i>Defence Legislation Amendment Act 2006</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 October 2007
-    </div>
-  </td>
-</tr></table>
-
-_(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      48\. Schedule 2, item 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Defence Legislation Amendment Act 2006</i>for the commencement of item 235
-        of Schedule 1 to that Act.
     </div>
   </td>
   <td>
@@ -2010,7 +1903,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provides 
     <div></div>
   </td>
   <td>
-    <div>am. No. 159, 2006 (as am. by 73, 2008); No. 6, 2008</div>
+    <div>am. No. 159, 2006; No. 6, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2130,7 +2023,7 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provides 
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 153, 1982; No. 24, 2001; No. 73, 2008</div>
+    <div>am. No. 93, 1966; No. 153, 1982; No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2368,6 +2261,18 @@ _(h)_ Subsection 2(1) (item 48) of the _Statute Law Revision Act 2008_ provides 
 
 ### Note 2
 
+Section 36—Schedule 1 (item 235) of the _Defence Legislation Amendment Act 2006_ (No. 159, 2006) provides as follows:
+
+## Schedule 1
+
+## 235  Section 36
+
+Omit “against a conviction or prescribed acquittal by a court martial or a Defence Force magistrate”.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
+
+### Note 3
+
 _Defence Legislation Amendment Act 2008 (No. 6, 2008)_
 
 The following amendments commence on 20 September 2008:
@@ -2400,7 +2305,7 @@ After “Court”, insert “(other than under Part IX of the _Defence Force D
 
 Add “(other than under Part IX of that Act)”.
 
-As at 16 July 2008 the amendments are not incorporated in this compilation.
+As at 31 March 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
