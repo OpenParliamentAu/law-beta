@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00134/Html/52abf04c-b47f-4065-aa62-926d63289547_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00296/Html/CrimesAviation91WD02_image001.gif)
 
 # Crimes (Aviation) Act 1991
 
 **Act No. 139 of 1991 as amended**
 
-This compilation was prepared on 4 March 2011
- taking into account amendments up to Act No. 1 of 2011
+This compilation was prepared on 10 July 2008
+ taking into account amendments up to Act No. 70 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,149 +14,149 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Introductory** 
+**Part 1—Introductory** 
 
     **Division 1—Short title and commencement**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
     **Division 2—Definitions and interpretation**
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           2
 
-[4](#4).            Meaning of _threaten_
+[4](#4).            Meaning of _threaten_                                                                             7
 
-[5](#5).            Aircraft flights: when do they start?
+[5](#5).            Aircraft flights: when do they start?                                                   7
 
-[6](#6).            Aircraft flights: when do they end?
+[6](#6).            Aircraft flights: when do they end?                                                     7
 
-[7](#7).            Aircraft flights between 2 parts of Australia
+[7](#7).            Aircraft flights between 2 parts of Australia                                       7
 
-[8](#8).            Aircraft flights within a Territory
+[8](#8).            Aircraft flights within a Territory                                                       8
 
-[8A](#8A).         Aircraft flights within a State
+[8A](#8A).         Aircraft flights within a State                                                              8
 
-[9](#9).            What is hijacking?
+[9](#9).            What is hijacking?                                                                                8
 
-[10](#10).          What is an unlawful act?
+[10](#10).          What is an unlawful act?                                                                      8
 
     **Division 3—Extension of Act to external Territories etc.**
 
-[11](#11).          Extension of Act to external Territories
+[11](#11).          Extension of Act to external Territories                                            10
 
-[12](#12).          Extra‑territorial operation
+[12](#12).          Extra-territorial operation                                                                  10
 
     **Division 4—Application of Criminal Code**
 
-[12A](#12A).       Application of the _Criminal Code_
+[12A](#12A).       Application of the _Criminal Code_                                                     11
 
 **Part 2—Offences** 
 
     **Division 1—Hijacking and other acts of violence on board aircraft**
 
-[13](#13).          Hijacking an offence
+[13](#13).          Hijacking an offence                                                                           12
 
-[14](#14).          Other acts of violence
+[14](#14).          Other acts of violence                                                                        12
 
     **Division 2—Other offences on board aircraft engaged in certain flights**
 
-[15](#15).          Certain offences committed on aircraft
+[15](#15).          Certain offences committed on aircraft                                              14
 
     **Division 3—Offences affecting aircraft and the safe operation of aircraft**
 
-[16](#16).          Taking control of aircraft
+[16](#16).          Taking control of aircraft                                                                   15
 
-[17](#17).          Destruction of aircraft
+[17](#17).          Destruction of aircraft                                                                       15
 
-[18](#18).          Destruction of aircraft with intent to kill
+[18](#18).          Destruction of aircraft with intent to kill                                          16
 
-[19](#19).          Prejudicing safe operation of aircraft
+[19](#19).          Prejudicing safe operation of aircraft                                                 16
 
-[20](#20).          Prejudicing safe operation of aircraft with intent to kill etc 
+[20](#20).          Prejudicing safe operation of aircraft with intent to kill etc              16
 
-[21](#21).          Assaulting crew
+[21](#21).          Assaulting crew                                                                                 17
 
-[22](#22).          Endangering safety of aircraft
+[22](#22).          Endangering safety of aircraft                                                            17
 
-[23](#23).          Dangerous goods
+[23](#23).          Dangerous goods                                                                                17
 
-[24](#24).          Threats and false statements
+[24](#24).          Threats and false statements                                                             18
 
     **Division 4—Offences relating to the safety of civil aviation and acts of violence at certain airports**
 
-[25](#25).          Endangering the safety of aircraft in flight
+[25](#25).          Endangering the safety of aircraft in flight                                         20
 
-[26](#26).          Acts of violence at certain airports
+[26](#26).          Acts of violence at certain airports                                                    21
 
     **Division 5—Offences relating to Commonwealth aerodromes and air navigation facilities**
 
-[27](#27).          Endangering safety of aerodromes etc 
+[27](#27).          Endangering safety of aerodromes etc                                               23
 
-[28](#28).          Threats and false statements
+[28](#28).          Threats and false statements                                                             23
 
 **Part 3—Provisions giving effect to the Tokyo Convention**
 
-[29](#29).          Certain provisions of Tokyo Convention to have force of law
+[29](#29).          Certain provisions of Tokyo Convention to have force of law         25
 
-[30](#30).          Authorised person may accept delivery of persons
+[30](#30).          Authorised person may accept delivery of persons                          25
 
-[31](#31).          Application of Migration Act etc 
+[31](#31).          Application of Migration Act etc                                                      25
 
 **Part 4—Restoring control of aircraft and dealing with offenders**
 
-[32](#32).          Restoring control of aircraft
+[32](#32).          Restoring control of aircraft                                                               27
 
-[33](#33).          Taking offenders into custody
+[33](#33).          Taking offenders into custody                                                           27
 
-[34](#34).          Arrest of offenders
+[34](#34).          Arrest of offenders                                                                            28
 
-[35](#35).          Restraining persons from committing offences
+[35](#35).          Restraining persons from committing offences                                 28
 
-[36](#36).          Arrest of persons who escape from custody
+[36](#36).          Arrest of persons who escape from custody                                    29
 
-[37](#37).          Preliminary inquiries
+[37](#37).          Preliminary inquiries                                                                          29
 
-[38](#38).          Proceedings before magistrate on warrant for arrest
+[38](#38).          Proceedings before magistrate on warrant for arrest                          30
 
-[39](#39).          Proceedings before magistrate where warrant not produced
+[39](#39).          Proceedings before magistrate where warrant not produced             30
 
-[40](#40).          Release of person remanded in custody
+[40](#40).          Release of person remanded in custody                                            31
 
 **Part 5—Miscellaneous**
 
-[41](#41).          Evidence: record of evidence taken at preliminary inquiries
+[41](#41).          Evidence: record of evidence taken at preliminary inquiries              32
 
-[42](#42).          Evidence: entry into force of Conventions
+[42](#42).          Evidence: entry into force of Conventions                                        32
 
-[43](#43).          Evidence of matters relating to Conventions
+[43](#43).          Evidence of matters relating to Conventions                                     32
 
-[44](#44).          Evidence relating to notices to ICAO
+[44](#44).          Evidence relating to notices to ICAO                                                33
 
-[45](#45).          Offences under subsections 14(1) and 15(1): are they indictable?
+[45](#45).          Offences under subsections 14(1) and 15(1): are they indictable?    33
 
-[46](#46).          Alternative verdicts
+[46](#46).          Alternative verdicts                                                                           34
 
-[47](#47).          Venue
+[47](#47).          Venue                                                                                                 34
 
-[48](#48).          Change of venue
+[48](#48).          Change of venue                                                                                 34
 
-[49](#49).          Search powers
+[49](#49).          Search powers                                                                                    36
 
-[50](#50).          Operation of other laws
+[50](#50).          Operation of other laws                                                                     37
 
-[51](#51).          Arrangements about magistrates
+[51](#51).          Arrangements about magistrates                                                        37
 
-[52](#52).          Regulations
+[52](#52).          Regulations                                                                                        38
 
-[53](#53).          Repeals
+[53](#53).          Repeals                                                                                              38
 
-[54](#54).          Transitional and savings
+[54](#54).          Transitional and savings                                                                    39
 
 **Schedule 1—Convention for the Suppression of Unlawful Seizure of Aircraft** 
 
@@ -220,7 +220,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  an officer of the police force (however described) of a State or Territory of or above the rank of sergeant; or
 
-                     (c)  in section 37—an SES employee or acting SES employee  in the Attorney‑General’s Department who is appointed in writing by the Minister to be an authorised person for the purposes of that section; or
+                     (c)  in section 37—an SES employee or acting SES employee  in the Attorney-General’s Department who is appointed in writing by the Minister to be an authorised person for the purposes of that section; or
 
                      (d)  in section 49—a person engaged under the _Public Service Act 1999_ who is appointed in writing by the Minister administering the _Air Navigation Act 1920_ to be an authorised person for the purposes of that section;
 
@@ -296,11 +296,11 @@ and includes any building, structure, installation or equipment in that area, or
 
                     <a name="flight"></a>**_in flight_**, in relation to an aircraft, has, for the purposes of section 10 and Division 4 of Part 2, the same meaning as in the Montreal Convention.
 
-(Note: see Article 2 of the Montreal Convention)          
+(Note: see Article 2 of the Montreal Convention)        
 
                     <a name="servic"></a>**_in service_**, in relation to an aircraft, has, for the purposes of section 10 and Division 4 of Part 2, the same meaning as in the Montreal Convention.
 
-(Note: see Article 2 of the Montreal Convention)          
+(Note: see Article 2 of the Montreal Convention)        
 
                     <a name="land"></a>**_landing_** includes alighting on water.
 
@@ -314,7 +314,7 @@ and includes any building, structure, installation or equipment in that area, or
 
                     <a name="montreal-convent"></a>**_Montreal Convention_** means the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, ratified by Australia on 12 July 1973, and whose English text is set out in Schedule 2.
 
-                    <a name="part-australia"></a>**_part of Australia_** means a State or Territory.
+                    <a name="australia"></a><a name="part"></a>**_part of_****_Australia_** means a State or Territory.
 
                     <a name="prescrib-aircraft"></a>**_prescribed aircraft_** means:
 
@@ -422,7 +422,7 @@ whether or not the aircraft goes, or will or may go, outside the State during th
 
                    This Act extends to the external Territories.
 
-##### <a id="12"></a>12  Extra‑territorial operation
+##### <a id="12"></a>12  Extra-territorial operation
 
                    This Act, and the provisions of the Tokyo Convention given the force of law by this Act, extend, unless the contrary intention appears:
 
@@ -510,11 +510,11 @@ Note:          For **_absolute liability_**, see section 6.2
 
                               (i)  a law of the Commonwealth in force in that Territory; or
 
-                             (ii)  the Crimes Act 1900 of the Australian Capital Territory in its application to the Jervis Bay Territory; or
+                             (ii)  the Crimes Act 1900 of the Australian Capital Territory in its application to the Jervis  Bay Territory; or
 
-                           (iia)  the _Criminal Code 2002_ of the Australian Capital Territory in its application to the Jervis Bay Territory; or
+                           (iia)  the _Criminal Code 2002_ of the Australian Capital Territory in its application to the Jervis Bay  Territory; or
 
-                            (iii)  the _Prostitution Act 1992_ of the Australian Capital Territory in its application to the Jervis Bay Territory; or
+                            (iii)  the _Prostitution Act 1992_ of the Australian Capital Territory in its application to the Jervis  Bay Territory; or
 
                             (iv)  any other law of the  Australian Capital Territory prescribed by the regulations, in its application to the Jervis Bay Territory;
 
@@ -976,7 +976,7 @@ the Minister or authorised person may, by written notice, authorise a magistrate
 
                      (b)  certify at the end of the record that the evidence was taken by the magistrate, indicating whether, and to what extent, the evidence was so taken in the presence or absence of the person taken into custody or charged; and
 
-                     (c)  cause the certified record to be sent to the Attorney‑General.
+                     (c)  cause the certified record to be sent to the Attorney-General.
 
 ##### <a id="38"></a>38  Proceedings before magistrate on warrant for arrest
 
@@ -1014,7 +1014,7 @@ the magistrate must:
 
 ##### <a id="41"></a>41  Evidence: record of evidence taken at preliminary inquiries
 
-             (1)  A document certified by the Attorney‑General to be a record of evidence sent to the Attorney‑General under section 37 is admissible in evidence in any of the following:
+             (1)  A document certified by the Attorney-General to be a record of evidence sent to the Attorney-General under section 37 is admissible in evidence in any of the following:
 
                      (a)  proceedings under section 38 or 39;
 
@@ -1074,13 +1074,13 @@ and, when so admitted, the evidence recorded in it is evidence in the proceeding
 
              (1)  A person charged before a court, other than a prescribed court, with an offence against subsection 14(1) or 15(1) may be found guilty of any other offence against that subsection of which the person could have been found guilty if:
 
-                     (a)  the act or omission alleged to constitute the first‑mentioned offence had occurred in the Jervis Bay Territory; and
+                     (a)  the act or omission alleged to constitute the first-mentioned offence had occurred in the Jervis Bay Territory; and
 
-                     (b)  the person had been charged with the first‑mentioned offence before a prescribed court.
+                     (b)  the person had been charged with the first-mentioned offence before a prescribed court.
 
              (2)  In this section:
 
-                    <a name="prescrib-court"></a>**_prescribed court_** means a court of the Australian Capital Territory exercising jurisdiction in or in relation to the Jervis Bay Territory.
+                    <a name="prescrib-court"></a>**_prescribed court_** means a court of the Australian   Capital Territory exercising jurisdiction in or in relation to the Jervis Bay  Territory.
 
 ##### <a id="47"></a>47  Venue
 
@@ -1108,7 +1108,7 @@ the court must immediately make the following orders:
 
                      (d)  if a jury is empanelled—that the jury be discharged;
 
-                     (e)  that the defendant appear before a specified court of the first‑mentioned State or Territory at a specified time to be dealt with in accordance with this section.
+                     (e)  that the defendant appear before a specified court of the first-mentioned State or Territory at a specified time to be dealt with in accordance with this section.
 
              (2)  The court must not specify a time, for the purposes of paragraph (1)(e), that is later than 28 days after the day on which the order is made.
 
@@ -1118,7 +1118,7 @@ the court must immediately make the following orders:
 
                      (b)  admit the defendant to bail on such recognizances as it thinks fit.
 
-             (4)  If, before the time when the defendant is to appear before a court, the Attorney‑General or the Director of Public Prosecutions notifies that court that an indictment will not be filed against the defendant in a court of another part of Australia, the notified court must, as soon as practicable after it is notified, make an order:
+             (4)  If, before the time when the defendant is to appear before a court, the Attorney-General or the Director of Public Prosecutions notifies that court that an indictment will not be filed against the defendant in a court of another part of Australia, the notified court must, as soon as practicable after it is notified, make an order:
 
                      (a)  discharging the defendant from the obligation to appear before that court at that time; and
 
@@ -1126,7 +1126,7 @@ the court must immediately make the following orders:
 
                      (c)  if the defendant has been admitted to bail—directing that the relevant recognizances be discharged.
 
-             (5)  If, at or before the time when the defendant is to appear before a court, the Attorney‑General or the Director of Public Prosecutions notifies that court that an indictment has been filed against the defendant in a court of another part of Australia, the notified court must make an order directing:
+             (5)  If, at or before the time when the defendant is to appear before a court, the Attorney-General or the Director of Public Prosecutions notifies that court that an indictment has been filed against the defendant in a court of another part of Australia, the notified court must make an order directing:
 
                      (a)  that the defendant be taken, as soon as practicable and in the custody of such person as it directs, to the part of Australia where the indictment was filed; and
 
@@ -1142,7 +1142,7 @@ and may make such other orders as it thinks necessary for carrying out that orde
 
              (7)  If:
 
-                     (a)  the court before which the defendant is to appear is not notified by the Attorney‑General or the Director of Public Prosecutions under subsection (4) or (5); and
+                     (a)  the court before which the defendant is to appear is not notified by the Attorney-General or the Director of Public Prosecutions under subsection (4) or (5); and
 
                      (b)  the defendant is held in custody;
 
@@ -1186,11 +1186,11 @@ the person cannot also be convicted of the other offence.
 
 ##### <a id="51"></a>51  Arrangements about magistrates
 
-             (1)  The Governor‑General may:
+             (1)  The Governor-General may:
 
                      (a)  arrange with the Governor of a State for the performance of the functions of a magistrate under this Act by all or any of the persons who from time to time hold office as magistrates of that State; or
 
-                     (b)  arrange with the Administrator of the Northern Territory or of Norfolk Island for the performance of the functions of a magistrate under this Act by all or any of the persons who from time to time hold office as magistrates of the Northern Territory or of Norfolk Island, as the case may be.
+                     (b)  arrange with the Administrator of the Northern Territory or of Norfolk Island for the performance of the functions of a magistrate under this Act by all or any of the persons who from time to time hold office as magistrates of the Northern Territory or of Norfolk  Island, as the case may be.
 
              (2)  The Minister may arrange with the Chief Minister for the Australian Capital Territory for the performance of the functions of a magistrate under this Act by all or any of the persons who from time to time hold office as magistrates of that Territory.
 
@@ -1198,7 +1198,7 @@ the person cannot also be convicted of the other offence.
 
 ##### <a id="52"></a>52  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1270,7 +1270,7 @@ commits an offence (hereinafter referred to as “the offence”).
 
 ARTICLE 2
 
-Each Contracting   State undertakes to make the offence punishable by severe penalties.
+Each Contracting  State undertakes to make the offence punishable by severe penalties.
 
 ARTICLE 3
 
@@ -1278,11 +1278,11 @@ ARTICLE 3
 
 2.    This Convention shall not apply to aircraft used in military, customs or police services.
 
-3.    This Convention shall apply only if the place of take‑off or the place of actual landing of the aircraft on board which the offence is committed is situated outside the territory of the State of registration of that aircraft; it shall be immaterial whether the aircraft is engaged in an international or domestic flight.
+3.    This Convention shall apply only if the place of take-off or the place of actual landing of the aircraft on board which the offence is committed is situated outside the territory of the State of registration of that aircraft; it shall be immaterial whether the aircraft is engaged in an international or domestic flight.
 
-4.    In the cases mentioned in Article 5, this Convention shall not apply if the place of take‑off and the place of actual landing of the aircraft on board which the offence is committed are situated within the territory of the same State where that State is one of those referred to in that Article.
+4.    In the cases mentioned in Article 5, this Convention shall not apply if the place of take-off and the place of actual landing of the aircraft on board which the offence is committed are situated within the territory of the same State where that State is one of those referred to in that Article.
 
-5.    Notwithstanding paragraphs 3 and 4 of this Article, Articles 6, 7, 8 and 10 shall apply whatever the place of take‑off or the place of actual landing of the aircraft, if the offender or the alleged offender is found in the territory of a State other than the State of registration of that aircraft.
+5.    Notwithstanding paragraphs 3 and 4 of this Article, Articles 6, 7, 8 and 10 shall apply whatever the place of take-off or the place of actual landing of the aircraft, if the offender or the alleged offender is found in the territory of a State other than the State of registration of that aircraft.
 
 ARTICLE 4
 
@@ -1314,13 +1314,13 @@ ARTICLE 6
 
 ARTICLE 7
 
-The Contracting   State in the territory of which the alleged offender is found shall, if it does not extradite him, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case to its competent authorities for the purpose of prosecution. Those authorities shall take their decision in the same manner as in the case of any ordinary offence of a serious nature under the law of that State.
+The Contracting State in the territory of which the alleged offender is found shall, if it does not extradite him, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case to its competent authorities for the purpose of prosecution. Those authorities shall take their decision in the same manner as in the case of any ordinary offence of a serious nature under the law of that State.
 
 ARTICLE 8
 
 1.    The offence shall be deemed to be included as an extraditable offence in any extradition treaty existing between Contracting States. Contracting States undertake to include the offence as an extraditable offence in every extradition treaty to be concluded between them.
 
-2.    If a Contracting   State which makes extradition conditional on the existence of a treaty receives a request for extradition from another Contracting State with which it has no extradition treaty, it may at its option consider this Convention as the legal basis for extradition in respect of the offence. Extradition shall be subject to the other conditions provided by the law of the requested State.
+2.    If a Contracting  State which makes extradition conditional on the existence of a treaty receives a request for extradition from another Contracting State with which it has no extradition treaty, it may at its option consider this Convention as the legal basis for extradition in respect of the offence. Extradition shall be subject to the other conditions provided by the law of the requested State.
 
 3.    Contracting States which do not make extradition conditional on the existence of a treaty shall recognize the offence as an extraditable offence between themselves subject to the conditions provided by the law of the requested State.
 
@@ -1358,7 +1358,7 @@ ARTICLE 12
 
 ARTICLE 13
 
-1.    This Convention shall be open for signature at The Hague on 16 December 1970, by States participating in the International Conference on Air Law held at The Hague from 1 to 16 December 1970 (hereinafter referred to as The Hague Conference). After 31 December 1970, the Convention shall be open to all States for signature in Moscow, London and Washington. Any State which does not sign this Convention before its entry into force in accordance with paragraph 3 of this Article may accede to it at any time.
+1.    This Convention shall be open for signature at The Hague on 16 December 1970, by States participating in the International Conference on Air Law held at The   Hague from 1 to 16 December 1970 (hereinafter referred to as The Hague Conference). After 31 December 1970, the Convention shall be open to all States for signature in Moscow, London and Washington. Any State which does not sign this Convention before its entry into force in accordance with paragraph 3 of this Article may accede to it at any time.
 
 2.    This Convention shall be subject to ratification by the signatory States. Instruments of ratification and instruments of accession shall be deposited with the Governments of the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, which are hereby designated the Depositary Governments.
 
@@ -1378,7 +1378,7 @@ ARTICLE 14
 
        IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorised thereto by their Governments, have signed this Convention.
 
-       DONE at The Hague, this sixteenth day of December, one thousand nine hundred and seventy, in three originals, each being drawn up in four authentic texts in the English, French, Russian and Spanish languages.
+       DONE at The   Hague, this sixteenth day of December, one thousand nine hundred and seventy, in three originals, each being drawn up in four authentic texts in the English, French, Russian and Spanish languages.
 
  
 
@@ -1422,11 +1422,11 @@ ARTICLE 2
 
           (a)  an aircraft is considered to be in flight at any time from the moment when all its external doors are closed following embarkation until the moment when any such door is opened for disembarkation; in the case of a forced landing, the flight shall be deemed to continue until the competent authorities take over the responsibility for the aircraft and for persons and property on board;
 
-          (b)  an aircraft is considered to be in service from the beginning of the preflight preparation of the aircraft by ground personnel or by the crew for a specific flight until twenty‑four hours after any landing; the period of service shall, in any event, extend for the entire period during which the aircraft is in flight as defined in paragraph (a) of this Article.
+          (b)  an aircraft is considered to be in service from the beginning of the preflight preparation of the aircraft by ground personnel or by the crew for a specific flight until twenty-four hours after any landing; the period of service shall, in any event, extend for the entire period during which the aircraft is in flight as defined in paragraph (a) of this Article.
 
 ARTICLE 3
 
-       Each Contracting   State undertakes to make the offences mentioned in Article 1 punishable by severe penalties.
+       Each Contracting  State undertakes to make the offences mentioned in Article 1 punishable by severe penalties.
 
 ARTICLE 4
 
@@ -1434,7 +1434,7 @@ ARTICLE 4
 
        2.  In the cases contemplated in subparagraphs (a), (b), (c) and (e) of paragraph 1 of Article 1, this Convention shall apply, irrespective of whether the aircraft is engaged in an international or domestic flight, only if:
 
-          (a)  the place of take‑off or landing, actual or intended, of the aircraft is situated outside the territory of the State of registration of that aircraft; or
+          (a)  the place of take-off or landing, actual or intended, of the aircraft is situated outside the territory of the State of registration of that aircraft; or
 
           (b)  the offence is committed in the territory of a State other than the State of registration of the aircraft.
 
@@ -1474,13 +1474,13 @@ ARTICLE 6
 
 ARTICLE 7
 
-       The Contracting   State in the territory of which the alleged offender is found shall, if it does not extradite him, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case to its competent authorities for the purpose of prosecution. Those authorities shall take their decision in the same manner as in the case of any ordinary offence of a serious nature under the law of that State.
+       The Contracting  State in the territory of which the alleged offender is found shall, if it does not extradite him, be obliged, without exception whatsoever and whether or not the offence was committed in its territory, to submit the case to its competent authorities for the purpose of prosecution. Those authorities shall take their decision in the same manner as in the case of any ordinary offence of a serious nature under the law of that State.
 
 ARTICLE 8
 
        1.  The offences shall be deemed to be included as extraditable offences in any extradition treaty existing between Contracting States. Contracting States undertake to include the offences as extraditable offences in every extradition treaty to be concluded between them.
 
-       2.  If a Contracting   State which makes extradition conditional on the existence of a treaty receives a request for extradition from another Contracting State with which it has no extradition treaty, it may at its option consider this Convention as the legal basis for extradition in respect of the offences. Extradition shall be subject to the other conditions provided by the law of the requested State.
+       2.  If a Contracting  State which makes extradition conditional on the existence of a treaty receives a request for extradition from another Contracting State with which it has no extradition treaty, it may at its option consider this Convention as the legal basis for extradition in respect of the offences. Extradition shall be subject to the other conditions provided by the law of the requested State.
 
        3.  Contracting States which do not make extradition conditional on the existence of a treaty shall recognize the offences as extraditable offences between themselves subject to the conditions provided by the law of the requested State.
 
@@ -1504,7 +1504,7 @@ ARTICLE 11
 
 ARTICLE 12
 
-       Any Contracting   State having reason to believe that one of the offences mentioned in Article 1 will be committed shall, in accordance with its national law, furnish any relevant information in its possession to those States which it believes would be the States mentioned in Article 5, paragraph 1.
+       Any Contracting  State having reason to believe that one of the offences mentioned in Article 1 will be committed shall, in accordance with its national law, furnish any relevant information in its possession to those States which it believes would be the States mentioned in Article 5, paragraph 1.
 
 ARTICLE 13
 
@@ -1546,7 +1546,7 @@ ARTICLE 16
 
        IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized thereto by their Governments, have signed this Convention.
 
-       DONE at Montreal, this twenty‑third day of September, one thousand nine hundred and seventy‑one, in three originals, each being drawn up in four authentic texts in the English, French, Russian and Spanish languages.
+       DONE at Montreal, this twenty-third day of September, one thousand nine hundred and seventy-one, in three originals, each being drawn up in four authentic texts in the English, French, Russian and Spanish languages.
 
 # Schedule 3—Protocol
 
@@ -1580,7 +1580,7 @@ Article II
 
         (a)   performs an act of violence against a person at an airport serving international civil aviation which causes or is likely to cause serious injury or death; or
 
-       (b)   destroys or seriously damages the facilities of an airport serving international civil aviation or aircraft not in service located thereon or disrupts the services of the airport,
+        (b)   destroys or seriously damages the facilities of an airport serving international civil aviation or aircraft not in service located thereon or disrupts the services of the airport,
 
 if such an act endangers or is likely to endanger safety at that airport.”
 
@@ -1614,7 +1614,7 @@ Article VI
 
 Article VII
 
-       1.  This Protocol shall, after it has entered into force, be open for accession by any non‑signatory State.
+       1.  This Protocol shall, after it has entered into force, be open for accession by any non-signatory  State.
 
        2.  Any State which is not a Contracting State to the Convention may accede to this Protocol if at the same time it ratifies or accedes to the Convention in accordance with Article 15 thereof.
 
@@ -1642,7 +1642,7 @@ Article IX
 
             IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized thereto by their Governments, have signed this Protocol.
 
-            DONE at Montreal on the twenty‑fourth day of February of the year One Thousand Nine Hundred and Eighty‑eight, in four originals, each being drawn up in four authentic texts in the English, French, Russian and Spanish languages.
+            DONE at Montreal on the twenty-fourth day of February of the year One Thousand Nine Hundred and Eighty-eight, in four originals, each being drawn up in four authentic texts in the English, French, Russian and Spanish languages.
 
 # Schedule 4—Convention on Offences and Certain other Acts committed on Board Aircraft
 
@@ -1660,11 +1660,11 @@ Article 1
 
         (a)   offences against penal law;
 
-       (b)   acts which, whether or not they are offences, may or do jeopardize the safety of the aircraft or of persons or property therein or which jeopardize good order and discipline on board.
+        (b)   acts which, whether or not they are offences, may or do jeopardize the safety of the aircraft or of persons or property therein or which jeopardize good order and discipline on board.
 
-       2.  Except as provided in Chapter III, this Convention shall apply in respect of offences committed or acts done by a person on board any aircraft registered in a Contracting   State, while that aircraft is in flight or on the surface of the high seas or of any other area outside the territory of any State.
+       2.  Except as provided in Chapter III, this Convention shall apply in respect of offences committed or acts done by a person on board any aircraft registered in a Contracting  State, while that aircraft is in flight or on the surface of the high seas or of any other area outside the territory of any State.
 
-       3.  For the purposes of this Convention, an aircraft is considered to be in flight from the moment when power is applied for the purpose of take‑off until the moment when the landing run ends.
+       3.  For the purposes of this Convention, an aircraft is considered to be in flight from the moment when power is applied for the purpose of take-off until the moment when the landing run ends.
 
        4.  This Convention shall not apply to aircraft used in military, customs or police services.
 
@@ -1684,15 +1684,15 @@ Article 3
 
 Article 4
 
-       A Contracting   State which is not the State of registration may not interfere with an aircraft in flight in order to exercise its criminal jurisdiction over an offence committed on board except in the following cases:
+       A Contracting  State which is not the State of registration may not interfere with an aircraft in flight in order to exercise its criminal jurisdiction over an offence committed on board except in the following cases:
 
         (a)   the offence has effect on the territory of such State;
 
-       (b)   the offence has been committed by or against a national or permanent resident of such State;
+        (b)   the offence has been committed by or against a national or permanent resident of such State;
 
         (c)   the offence is against the security of such State;
 
-       (d)   the offence consists of a breach of any rules or regulations relating to the flight or manoeuvre of aircraft in force in such State;
+        (d)   the offence consists of a breach of any rules or regulations relating to the flight or manoeuvre of aircraft in force in such State;
 
         (e)   the exercise of jurisdiction is necessary to ensure the observance of any obligation of such State under a multilateral international agreement.
 
@@ -1700,7 +1700,7 @@ CHAPTER III—POWERS OF THE AIRCRAFT COMMANDER
 
 Article 5
 
-       1.  The provisions of this Chapter shall not apply to offences and acts committed or about to be committed by a person on board an aircraft in flight in the airspace of the State of registration or over the high seas or any other area outside the territory of any State unless the last point of take‑off or the next point of intended landing is situated in a State other than that of registration, or the aircraft subsequently flies in the airspace of a State other than that of registration with such person still on board.
+       1.  The provisions of this Chapter shall not apply to offences and acts committed or about to be committed by a person on board an aircraft in flight in the airspace of the State of registration or over the high seas or any other area outside the territory of any State unless the last point of take-off or the next point of intended landing is situated in a State other than that of registration, or the aircraft subsequently flies in the airspace of a State other than that of registration with such person still on board.
 
        2.  Notwithstanding the provisions of Article 1, paragraph 3, an aircraft shall for the purposes of this Chapter, be considered to be in flight at any time from the moment when all its external doors are closed following embarkation until the moment when any such door is opened for disembarkation. In the case of a forced landing, the provisions of this Chapter shall continue to apply with respect to offences and acts committed on board until competent authorities of a State take over the responsibility for the aircraft and for the persons and property on board.
 
@@ -1710,7 +1710,7 @@ Article 6
 
         (a)   to protect the safety of the aircraft, or of persons or property therein; or
 
-       (b)   to maintain good order and discipline on board; or
+        (b)   to maintain good order and discipline on board; or
 
         (c)   to enable him to deliver such person to competent authorities or to disembark him in accordance with the provisions of this Chapter.
 
@@ -1720,9 +1720,9 @@ Article 7
 
        1.  Measures of restraint imposed upon a person in accordance with Article 6 shall not be continued beyond any point at which the aircraft lands unless:
 
-        (a)   such point is in the territory of a non‑Contracting State and its authorities refuse to permit disembarkation of that person or those measures have been imposed in accordance with Article 6, paragraph 1(c) in order to enable his delivery to competent authorities;
+        (a)   such point is in the territory of a non-Contracting State and its authorities refuse to permit disembarkation of that person or those measures have been imposed in accordance with Article 6, paragraph 1(c) in order to enable his delivery to competent authorities;
 
-       (b)   the aircraft makes a forced landing and the aircraft commander is unable to deliver that person to competent authorities; or
+        (b)   the aircraft makes a forced landing and the aircraft commander is unable to deliver that person to competent authorities; or
 
         (c)   that person agrees to onward carriage under restraint.
 
@@ -1736,7 +1736,7 @@ Article 8
 
 Article 9
 
-       1.  The aircraft commander may deliver to the competent authorities of any Contracting   State in the territory of which the aircraft lands any person who he has reasonable grounds to believe has committed on board the aircraft an act which, in his opinion, is a serious offence according to the penal law of the State of registration of the aircraft.
+       1.  The aircraft commander may deliver to the competent authorities of any Contracting State in the territory of which the aircraft lands any person who he has reasonable grounds to believe has committed on board the aircraft an act which, in his opinion, is a serious offence according to the penal law of the State of registration of the aircraft.
 
        2.  The aircraft commander shall as soon as practicable and if possible before landing in the territory of a Contracting State with a person on board whom the aircraft commander intends to deliver in accordance with the preceding paragraph, notify the authorities of such State of his intention to deliver such person and the reasons therefor.
 
@@ -1758,7 +1758,7 @@ CHAPTER V—POWERS AND DUTIES OF STATES
 
 Article 12
 
-       Any Contracting   State shall allow the commander of an aircraft registered in another Contracting   State to disembark any person pursuant to Article 8, paragraph 1.
+       Any Contracting  State shall allow the commander of an aircraft registered in another Contracting  State to disembark any person pursuant to Article 8, paragraph 1.
 
 Article 13
 
@@ -1816,7 +1816,7 @@ Article 21
 
        1.  As soon as twelve of the signatory States have deposited their instruments of ratification of this Convention, it shall come into force between them on the ninetieth day after the date of the deposit of the twelfth instrument of ratification. It shall come into force for each State ratifying thereafter on the ninetieth day after the deposit of its instrument of ratification.
 
-       2.  As soon as this convention comes into force, it shall be registered with the Secretary‑General of the United Nations by the International Civil Aviation Organization.
+       2.  As soon as this convention comes into force, it shall be registered with the Secretary-General of the United Nations by the International Civil Aviation Organization.
 
 Article 22
 
@@ -1848,17 +1848,17 @@ Article 26
 
         (a)   of any signature of this Convention and the date thereof;
 
-       (b)   of the deposit of any instrument of ratification or accession and the date thereof;
+        (b)   of the deposit of any instrument of ratification or accession and the date thereof;
 
         (c)   of the date on which this Convention comes into force in accordance with Article 21, paragraph 1;
 
-       (d)   of the receipt of any notification of denunciation and the date thereof; and
+        (d)   of the receipt of any notification of denunciation and the date thereof; and
 
         (e)   of the receipt of any declaration or notification made under Article 24 and the date thereof.
 
        IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorized, have signed this Convention.
 
-       DONE at Tokyo on the fourteenth day of September One thousand Nine Hundred and Sixty‑three in three authentic texts drawn up in the English, French and Spanish languages.
+       DONE at Tokyo on the fourteenth day of September One thousand Nine Hundred and Sixty-three in three authentic texts drawn up in the English, French and Spanish languages.
 
        This Convention shall be deposited with the International Civil Aviation Organization with which, in accordance with Article 19, it shall remain open for signature and the said Organization shall send certified copies thereof to all States Members of the United Nations or of any Specialized Agency.
 
@@ -2250,23 +2250,6 @@ Schedule 2 (item 3): Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Aviation Crimes and Policing Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>1, 2011</div>
-  </td>
-  <td>
-    <div>2 Mar 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 23) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -2286,7 +2269,7 @@ _(a)_     The _Crimes (Aviation) Act 1991_ was amended by the Schedule (
 
                               (c)   in the case of sections 25, 36, 38, 44 and 51 and Parts 5, 6 and 7 of the Schedule—the day is not earlier than the 100% sale day.
 
-_(b)_     The _Qantas Sale Act 1992_ was amended by section 3 (item 17) only of the _Qantas Sale Amendment Act 1994_, subsection 2(1) of which provides as follows:
+_(b)_    The _Qantas Sale Act 1992_ was amended by section 3 (item 17) only of the _Qantas Sale Amendment Act 1994_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -2462,7 +2445,7 @@ _(h)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>
       10 March 2005
 
-      (paragraph (b) applies)
+(paragraph (b) applies)
     </div>
   </td>
 </tr></table>
@@ -2731,203 +2714,6 @@ _(h)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
   </td>
 </tr></table>
 
-### Note 2
-
-_Aviation Crimes and Policing Legislation Amendment Act 2011 
- (No. 1, 2011)_
-
-The following amendments commence on 30 March 2011:
-
-## Schedule 1
-
-## 1  Subsection 3(1)
-
-Omit “(1) In this Act”, substitute “In this Act”.
-
-## 2  Subsection 3(1) (definition of _Commonwealth aerodrome)_
-
-Omit all the words after paragraph (a), substitute:
-
-                     (b)  a core regulated airport within the meaning of the _Airports Act 1996_;
-
-and includes any building, structure, installation or equipment in that area, or on the land that forms the core regulated airport, that is provided for use in connection with the operation of that area or land as an aerodrome or airport.
-
-## 3  Subsection 3(1) (definition of _Federal airport_)
-
-Repeal the definition.
-
-## 4  Subsection 3(1)
-
-Insert:
-
-                    <a name="seriou-harm"></a>**_serious harm_** has the same meaning as in the _Criminal Code_.
-
-## 5  Subsection 16(1)
-
-Omit “7 years”, substitute “10 years”.
-
-## 6  Subsection 19(1) (penalty)
-
-Omit “14 years”, substitute “20 years”.
-
-## 7  After section 20
-
-Insert:
-
-##### <a id="20A"></a>20A  Assaulting crew—general
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is on board an aircraft; and
-
-                     (b)  the aircraft is a Division 3 aircraft; and
-
-                     (c)  the person assaults, threatens with violence or intimidates another person; and
-
-                     (d)  the other person is a member of the crew of the aircraft.
-
-                    Penalty:  Imprisonment for 10 years.
-
-             (2)  Absolute liability applies to paragraph (1)(b).
-
-Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
-
-## 8  Subsection 21(1) (penalty)
-
-Omit “14 years”, substitute “20 years”.
-
-_Note:       The heading to section 21 is altered by adding at the end “—affecting performance of duty”._
-
-## 9  At the end of section 21 (after the note)
-
-Add:
-
-Alternative verdicts
-
-             (3)  On a trial for an offence against subsection (1), the trier of fact may find the defendant not guilty of that offence but guilty of an offence against subsection 20A(1) if:
-
-                     (a)  the trier of fact is not satisfied that the defendant is guilty of the offence against subsection (1) of this section; and
-
-                     (b)  the trier of fact is satisfied that the defendant is guilty of the offence against subsection 20A(1); and
-
-                     (c)  the defendant has been accorded procedural fairness in relation to that finding of guilt.
-
-## 10  Subsection 22(1) (penalty)
-
-Omit “7 years”, substitute “10 years”.
-
-_Note:       The heading to section 22 is altered by adding at the end “—general”._
-
-## 11  After section 22
-
-Insert:
-
-##### <a id="22A"></a>22A  Endangering safety of aircraft—acts also likely to endanger life or cause serious harm
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person commits an offence against subsection 22(1); and
-
-                     (b)  the act constituting the offence is likely to endanger a person’s life or cause serious harm to a person.
-
-                    Penalty:  Imprisonment for 14 years.
-
-Note:          Subsection 22(1) provides for an offence of endangering the safety of a Division 3 aircraft.
-
-             (2)  There is no fault element for the physical element described in paragraph (1)(a) other than the fault elements (however applying), if any, for the physical elements of the offence against subsection 22(1).
-
-             (3)  To avoid doubt, a person does not commit an offence against subsection 22(1) for the purposes of paragraph (1)(a) of this section if the person has a defence to the offence against subsection 22(1).
-
-             (4)  For the purposes of paragraph (1)(b), an act is taken to be likely to cause serious harm to a person if it is likely to substantially contribute to serious harm to a person.
-
-Alternative verdicts
-
-             (5)  On a trial for an offence against subsection (1), the trier of fact may find the defendant not guilty of that offence but guilty of an offence against subsection 22(1) if:
-
-                     (a)  the trier of fact is not satisfied that the defendant is guilty of the offence against subsection (1) of this section; and
-
-                     (b)  the trier of fact is satisfied that the defendant is guilty of the offence against subsection 22(1); and
-
-                     (c)  the defendant has been accorded procedural fairness in relation to that finding of guilt.
-
-## 12  Subsection 23(1) (penalty)
-
-Repeal the penalty, substitute:
-
-                    Penalty:  Imprisonment for 10 years.
-
-_Note:       The heading to section 23 is altered by adding at the end “—general”._
-
-## 13  After section 23
-
-Insert:
-
-##### <a id="23A"></a>23A  Dangerous goods—acts likely to endanger life or cause serious harm
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person commits an offence against subsection 23(1); and
-
-                     (b)  the act constituting the offence is likely to endanger a person’s life or cause serious harm to a person.
-
-                    Penalty:  Imprisonment for 14 years.
-
-Note:          Subsection 23(1) provides for offences relating to dangerous goods and Division 3 aircraft.
-
-             (2)  There is no fault element for the physical element described in paragraph (1)(a) other than the fault elements (however applying), if any, for the physical elements of the offence against subsection 23(1).
-
-             (3)  To avoid doubt, a person does not commit an offence against subsection 23(1) for the purposes of paragraph (1)(a) if the person has a defence to the offence against subsection 23(1).
-
-             (4)  For the purposes of paragraph (1)(b), an act is taken to be likely to cause serious harm to a person if it is likely to substantially contribute to serious harm to a person.
-
-Alternative verdicts
-
-             (5)  On a trial for an offence against subsection (1), the trier of fact may find the defendant not guilty of that offence but guilty of an offence against subsection 23(1) if:
-
-                     (a)  the trier of fact is not satisfied that the defendant is guilty of the offence against subsection (1) of this section; and
-
-                     (b)  the trier of fact is satisfied that the defendant is guilty of the offence against subsection 23(1); and
-
-                     (c)  the defendant has been accorded procedural fairness in relation to that finding of guilt.
-
-## 14  Subsection 24(1) (penalty)
-
-Omit “2 years”, substitute “10 years”.
-
-## 15  Subsection 24(2) (penalty)
-
-Omit “2 years”, substitute “10 years”.
-
-## 16  Subsection 25(1) (penalty)
-
-Omit “14 years”, substitute “20 years”.
-
-## 17  Subsection 25(2) (penalty)
-
-Omit “7 years”, substitute “20 years”.
-
-## 18  Subsection 26(1) (penalty)
-
-Omit “15 years”, substitute “20 years”.
-
-## 19  Subsection 26(2) (penalty)
-
-Omit “10 years”, substitute “14 years”.
-
-## 20  Subsection 27(1) (penalty)
-
-Omit “7 years”, substitute “14 years”.
-
-## 21  Subsection 28(1) (penalty)
-
-Omit “2 years”, substitute “10 years”.
-
-## 22  Subsection 28(2) (penalty)
-
-Omit “2 years”, substitute “10 years”.
-
-As at 4 March 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2960,9 +2746,9 @@ Note:          A person who is a member or staff member of the
 
 ## 35  Regulations dealing with matters of a transitional or saving nature
 
-(1)       The Governor‑General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
+(1)        The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
 
-(2)       Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(2)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 * * *
 
@@ -2982,25 +2768,25 @@ _Aviation Transport Security (Consequential Amendments and Transitional Provisio
 
 ## 1  Regulations
 
-(1)       The Governor‑General may make regulations prescribing matters:
+(1)        The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-(2)       In particular, regulations may be made:
+(2)        In particular, regulations may be made:
 
                      (a)  providing for regulations made for the purposes of particular provisions of the old Act to continue to have effect (with any prescribed alterations) for the purposes of the new Act; and
 
                      (b)  providing for aviation security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
 
-                   (ba)  providing for airport security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
+                    (ba)  providing for airport security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
 
-                   (bb)  providing for ASIC programs and international cargo security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act, or as such other programs under the new Act as are prescribed by the regulations; and
+                    (bb)  providing for ASIC programs and international cargo security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act, or as such other programs under the new Act as are prescribed by the regulations; and
 
                      (c)  for other transitional measures in relation to the transition from the old Act to the new Act.
 
-(3)       In this item:
+(3)        In this item:
 
 **_new Act_** means the _Aviation Transport Security Act 2004_.
 
@@ -3013,18 +2799,5 @@ Subsection 15(2) (which deals with the obligation for aviation industry particip
 ## 3  Transitional provision
 
 The exercise or purported exercise (whether before, at or after the commencement of this item) of the power under regulation 5 of the _Air Navigation (Aviation Security Status Checking) Regulations 2004_ to determine that a person has an adverse aviation security status is taken for all purposes to be, and is taken for all purposes always to have been, prescribed administrative action in respect of the person for the purposes of Part IV of the _Australian Security Intelligence Organisation Act 1979_.
-
-* * *
-
-_Aviation Crimes and Policing Legislation Amendment Act 2011 
- (No. 1, 2011)_
-
-The following provision commences on 30 March 2011:
-
-## Schedule 1
-
-## 23  Application
-
-The amendments made by items 7, 9, 11 and 13 of this Schedule apply in relation to acts and omissions that take place at or after the commencement of this item.
 
  
