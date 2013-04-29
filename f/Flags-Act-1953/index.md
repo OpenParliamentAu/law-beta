@@ -1,37 +1,35 @@
-![](http://www.comlaw.gov.au/Details/C2008C00376/Html/73459064-6dc2-4103-84b8-afd99309f1b9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00485/Html/image001.gif)
 
 # Flags Act 1953
 
 **Act No. 1 of 1954 as amended**
 
-This compilation was prepared on 11 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 20 February 2001
+ taking into account amendments up to Act No. 2 of 1998
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
-
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Extension to Territories
+[2](#2).            Extension to Territories                                                                       1
 
-[3](#3).            The Australian National Flag
+[3](#3).            The Australian National Flag                                                               1
 
-[4](#4).            The Australian Red Ensign
+[4](#4).            The Australian Red Ensign                                                                  2
 
-[5](#5).            Other flags
+[5](#5).            Other flags                                                                                           2
 
-[6](#6).            Warrants to use flags
+[6](#6).            Warrants to use flags                                                                           2
 
-[7](#7).            Rules as to use of flags
+[7](#7).            Rules as to use of flags                                                                        2
 
-[8](#8).            Flying of Union Jack
+[8](#8).            Flying of Union Jack                                                                           2
 
 **Schedule 1—The Australian National Flag and the Australian Red Ensign** 
 
@@ -71,17 +69,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  Other flags
 
-                   The Governor‑General may, by Proclamation, appoint such other flags and ensigns of Australia as he or she thinks fit.
+                   The Governor-General may, by Proclamation, appoint such other flags and ensigns of Australia as he thinks fit.
 
 ##### <a id="6"></a>6  Warrants to use flags
 
-                   The Governor‑General may, by warrant, authorize a person, body or authority to use a flag or ensign referred to in, or appointed under, this Act, either without defacement or defaced in the manner specified in the warrant.
+                   The Governor-General may, by warrant, authorize a person, body or authority to use a flag or ensign referred to in, or appointed under, this Act, either without defacement or defaced in the manner specified in the warrant.
 
 ##### <a id="7"></a>7  Rules as to use of flags
 
-                   The Governor‑General may make, and cause to be published, rules for the guidance of persons in connexion with the flying or use of flags or ensigns referred to in, or appointed under, this Act.
+                   The Governor-General may make, and cause to be published, rules for the guidance of persons in connexion with the flying or use of flags or ensigns referred to in, or appointed under, this Act.
 
-##### <a id="8"></a>8  Flying of Union Jack
+##### <a id="8"></a>8  Flying of Union Jack
 
                    This Act does not affect the right or privilege of a person to fly the Union Jack.
 
@@ -91,7 +89,7 @@ _Sections 3 and 4_
 
               1.  The Australian National Flag is a blue flag, and the Australian Red Ensign is a red flag, the design of each of which is specified in clause 1A.
 
-           1A.  Each of the flags referred to in clause 1 has:
+            1A.  Each of the flags referred to in clause 1 has:
 
                      (a)  the Union Jack occupying the upper quarter next the staff; 
 
@@ -111,37 +109,28 @@ _Sections 3 and 4_
 
 <tr>
   <td>
-    <div>
-      <b>Position of Centre</b>
-    </div>
+    <div><b>Position of Centre</b></div>
   </td>
   <td>
-    <div>
-      <b>Outer Diameter</b>
-    </div>
+    <div><b>Outer Diameter</b></div>
   </td>
   <td>
-    <div>
-      <b>Inner Diameter</b>
-    </div>
+    <div><b>Inner Diameter</b></div>
   </td>
   <td>
-    <div>
-      <b>Number of Points</b>
-    </div>
+    <div><b>Number of Points</b></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>On middle line (parallel with the hoist edge of flag) of Union Jack (produced),
-      one‑quarter width of flag from bottom edge of flag</div>
-    <div> </div>
+    <div>On middle line (parallel with the hoist edge of flag) of Union Jack (produced), one-quarter width of flag from bottom edge of flag</div>
+    <div></div>
   </td>
   <td>
-    <div>Three‑tenths of width of flag</div>
+    <div>Three-tenths of width of flag</div>
   </td>
   <td>
-    <div>Four‑ninths of outer diameter</div>
+    <div>Four-ninths of outer diameter</div>
   </td>
   <td>
     <div>Seven</div>
@@ -165,83 +154,45 @@ _Sections 3 and 4_
       <div></div>
     </td>
     <td>
-      <div>
-        <b>Position of Centre</b>
-      </div>
+      <div><b>Position of Centre</b></div>
     </td>
     <td>
-      <div>
-        <b>Outer Diameter</b>
-      </div>
+      <div><b>Outer Diameter</b></div>
     </td>
     <td>
-      <div>
-        <b>Inner Diameter</b>
-      </div>
+      <div><b>Inner Diameter</b></div>
     </td>
     <td>
-      <div>
-        <b>Number</b>
-      </div>
+      <div><b>Number</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Name</b>
-      </div>
+      <div><b>Name</b></div>
     </td>
     <td colspan="2">
-      <div>
-        <b>The fractions are fractions of width of flag</b>
-      </div>
+      <div><b>The fractions are fractions of width of flag</b></div>
     </td>
     <td>
-      <div>
-        <b>In fractions of outer diameter</b>
-      </div>
+      <div><b>In fractions of outer diameter</b></div>
     </td>
     <td>
-      <div>
-        <b>of Points</b>
-      </div>
+      <div><b>of Points</b></div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div>
-      <i>Alpha Crucis</i>
-    </div>
+    <div><i>Alpha Crucis</i></div>
   </td>
   <td>
-    <div>On middle line, one‑sixth from bottom edge</div>
+    <div>On middle line, one-sixth from bottom edge</div>
   </td>
   <td>
-    <div>One‑seventh</div>
+    <div>One-seventh</div>
   </td>
   <td>
-    <div>Four‑ninths</div>
-  </td>
-  <td>
-    <div>Seven</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <i>Beta Crucis</i>
-    </div>
-  </td>
-  <td>
-    <div>One‑quarter from middle line, at right angles on left to a point on middle
-      line one‑sixteenth above centre of fly</div>
-  </td>
-  <td>
-    <div>One‑seventh</div>
-  </td>
-  <td>
-    <div>Four‑ninths</div>
+    <div>Four-ninths</div>
   </td>
   <td>
     <div>Seven</div>
@@ -249,38 +200,16 @@ _Sections 3 and 4_
 </tr>
 <tr>
   <td>
-    <div>
-      <i>Gamma Crucis</i>
-    </div>
+    <div><i>Beta Crucis</i></div>
   </td>
   <td>
-    <div>On middle line one‑sixth from top edge</div>
+    <div>One-quarter from middle line, at right angles on left to a point on middle line one-sixteenth above centre of fly</div>
   </td>
   <td>
-    <div>One‑seventh</div>
+    <div>One-seventh</div>
   </td>
   <td>
-    <div>Four‑ninths</div>
-  </td>
-  <td>
-    <div>Seven</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      <i>Delta Crucis</i>
-    </div>
-  </td>
-  <td>
-    <div>Two‑ninths from middle line at right angles on right to a point one‑fifteenth
-      above a point on middle line one‑sixteenth above centre of fly</div>
-  </td>
-  <td>
-    <div>One‑seventh</div>
-  </td>
-  <td>
-    <div>Four‑ninths</div>
+    <div>Four-ninths</div>
   </td>
   <td>
     <div>Seven</div>
@@ -288,19 +217,50 @@ _Sections 3 and 4_
 </tr>
 <tr>
   <td>
-    <div>
-      <i>Epsilon Crucis</i>
-    </div>
+    <div><i>Gamma Crucis</i></div>
   </td>
   <td>
-    <div>One‑tenth from middle line at right angles on right to a point on middle
-      line one twenty‑fourth below centre of fly</div>
+    <div>On middle line one-sixth from top edge</div>
   </td>
   <td>
-    <div>One‑twelfth</div>
+    <div>One-seventh</div>
   </td>
   <td>
-    <div>Four‑ninths</div>
+    <div>Four-ninths</div>
+  </td>
+  <td>
+    <div>Seven</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Delta Crucis</i></div>
+  </td>
+  <td>
+    <div>Two-ninths from middle line at right angles on right to a point one-fifteenth above a point on middle line one-sixteenth above centre of fly</div>
+  </td>
+  <td>
+    <div>One-seventh</div>
+  </td>
+  <td>
+    <div>Four-ninths</div>
+  </td>
+  <td>
+    <div>Seven</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><i>Epsilon Crucis</i></div>
+  </td>
+  <td>
+    <div>One-tenth from middle line at right angles on right to a point on middle line one twenty-fourth below centre of fly</div>
+  </td>
+  <td>
+    <div>One-twelfth</div>
+  </td>
+  <td>
+    <div>Four-ninths</div>
   </td>
   <td>
     <div>Five</div>
@@ -319,7 +279,7 @@ Part I
 
 ###  
 
-![](http://www.comlaw.gov.au/Details/C2008C00376/Html/73459064-6dc2-4103-84b8-afd99309f1b9_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00485/Html/image002.gif)
 
 AUSTRALIAN NATIONAL FLAG
 
@@ -327,7 +287,7 @@ Part II
 
 ###  
 
-![](http://www.comlaw.gov.au/Details/C2008C00376/Html/73459064-6dc2-4103-84b8-afd99309f1b9_files/image003.jpg)
+![](http://www.comlaw.gov.au/Details/C2004C00485/Html/image003.jpg)
 
 AUSTRALIAN RED ENSIGN
 
@@ -350,27 +310,25 @@ The _Flags Act 1953_ as shown in this compilation comprises Act No. 1, 1954 am
   <col width="14%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<tr>
+  <td>
+    <div>Act</div>
+  </td>
+  <td>
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+  </td>
+  <td>
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
+  </td>
+  <td>
+    <div>Date of commencement</div>
+  </td>
+  <td>
+    <div>Application, saving or transitional provisions</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Flags Act 1953</div>
@@ -456,50 +414,31 @@ p. 2)</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 294): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     This Act was reserved for Her Majesty’s pleasure on 12 December 1953, the Queen’s Assent was given on 14 February 1954 and was made known to each House of the Parliament on 15 February 1954\. By a Proclamation dated 8 April 1954, the Queen’s Assent was proclaimed in the _Gazette_ on  14 April 1954 (_see Gazette_ 1954, p. 1179).
+_(a)_     This Act was reserved for Her Majesty’s pleasure on 12 December 1953, the Queen’s Assent was given on 14 February 1954 and was made known to each House of the Parliament on 15 February 1954\. By a Proclamation dated 8 April 1954, the Queen’s Assent was proclaimed in the _Gazette_ on 14 April 1954 (_see Gazette_ 1954, p. 1179).
 
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
+<tr>
+  <td colspan="2">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Provision affected</div>
+  </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>S. 2</div>
@@ -530,14 +469,6 @@ _(a)_     This Act was reserved for Her Majesty’s pleasure on 12 Dec
   </td>
   <td>
     <div>rs. No. 9, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
