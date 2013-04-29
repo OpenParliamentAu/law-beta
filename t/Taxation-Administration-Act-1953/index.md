@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00921/Html/beb83c08-9c8c-4c44-bed9-a07f95dd2961_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00744/Html/43a312c2-4c32-49ee-9046-bf3db0031468_files/image001.gif)
 
 # Taxation Administration Act 1953
 
 **Act No. 1 of 1953 as amended**
 
-This compilation was prepared on 1 December 2011
- taking into account amendments up to Act No. 132 of 2011
+This compilation was prepared on 9 September 2011
+ taking into account amendments up to Act No. 93 of 2011
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1–18
@@ -120,31 +120,33 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8AAZL](#8AAZL). Amounts covered by this Division
 
-8AAZLA  Method 1—allocating the amount first to an RBA
+8AAZLAMethod 1—allocating the amount first to an RBA
 
-8AAZLB  Method 2—applying the amount first against a non‑RBA tax debt
+8AAZLBMethod 2—applying the amount first against a non‑RBA 
+ tax debt
 
-8AAZLC  RBA surplus and related credits must remain equivalent if one or the other is applied
+8AAZLCRBA surplus and related credits must remain equivalent if 
+ one or the other is applied
 
-8AAZLD  Special priority credits: FS assessment debts and compulsory repayment amounts
+8AAZLDSpecial priority credits: FS assessment debts and compulsory repayment amounts
 
-8AAZLE  Instructions to Commissioner not binding
+8AAZLEInstructions to Commissioner not binding
 
     **Division 3A—Refunds of RBA surpluses and credits** 
 
-8AAZLF  Commissioner must refund RBA surpluses and credits
+8AAZLFCommissioner must refund RBA surpluses and credits
 
-8AAZLG  Retaining refunds until information or notification given
+8AAZLGRetaining refunds until information or notification given
 
-8AAZLH  How refunds are made
+8AAZLHHow refunds are made
 
     **Division 4—Miscellaneous provisions about tax debts**
 
 8AAZM When payments are treated as received
 
-8AAZMA  Electronic payment of tax debts
+8AAZMAElectronic payment of tax debts
 
-8AAZMB  Saturdays, Sundays and public holidays
+8AAZMBSaturdays, Sundays and public holidays
 
 [8AAZN](#8AAZN). Overpayments made by the Commissioner under taxation laws
 
@@ -210,8 +212,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8WB](#8WB).      Unauthorised recording etc  of tax file number
 
-[8WC](#8WC).      Conducting affairs so as to avoid tax file number 
- requirements
+[8WC](#8WC).      Conducting affairs so as to avoid tax file number requirements
 
         **Subdivision C—Miscellaneous**
 
@@ -691,7 +692,7 @@ the Governor‑General shall remove the Commissioner or Second Commissioner, as 
 
              (4)  The exercise of a power, or the performance of a function, of the Commissioner under a taxation law by a Second Commissioner does not prevent the exercise of the power, or the performance of the function, by the Commissioner.
 
-##### <a id="7"></a>7  Deputy Commissioners of Taxation
+##### <a id="7"></a>7  Deputy Commissioners of Taxation
 
                    There shall be such Deputy Commissioners of Taxation as are required.
 
@@ -1781,7 +1782,7 @@ Note:          For provisions about collection and recovery of
 
                              (ii)  in a case to which paragraph (1)(b) applies—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00921/Html/beb83c08-9c8c-4c44-bed9-a07f95dd2961_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00744/Html/43a312c2-4c32-49ee-9046-bf3db0031468_files/image002.gif)
 
 ## Part IIB—Running balance accounts, application of payments and credits, and related matters
 
@@ -2805,7 +2806,7 @@ the court may, in addition to imposing a penalty on the convicted person, order 
 
           (1C)  If the conditions in section 705‑315 of the _Income Tax Assessment Act 1997_ are satisfied, then for the purposes of any application of subsection (1) of this section in relation to the errors mentioned in that section that were made in a statement that was made before the Commissioner became aware of the errors, the references in paragraphs (1)(c) and (d) of this section to the excess are taken instead to be references to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00921/Html/beb83c08-9c8c-4c44-bed9-a07f95dd2961_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00744/Html/43a312c2-4c32-49ee-9046-bf3db0031468_files/image003.gif)
 
 where:
 
@@ -3087,7 +3088,7 @@ and the person may be charged with, and convicted of, the taxation offence as if
 
 Note:          This section does not apply as an averment. For averments, see section 8ZL of this Act and section 13.6 of the _Criminal Code_.
 
-##### <a id="8ZD"></a>8ZD  Conduct by servants or agents of corporations
+##### <a id="8ZD"></a>8ZD  Conduct by servants or agents of corporations
 
              (1)  Where, in a prosecution for a taxation offence constituted by an act done, or omitted to be done, by a corporation, it is necessary to establish the intention of the corporation, it is sufficient to show that a servant or agent of the corporation by whom the act was done or omitted to be done, as the case may be, had the intention.
 
