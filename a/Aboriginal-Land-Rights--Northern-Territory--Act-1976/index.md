@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00768/Html/e696d03a-0a7e-4967-ac9a-630271038147_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00498/Html/e8588c0e-3d77-40cf-861b-15e4443b7de0_files/image001.gif)
 
 # Aboriginal Land Rights (Northern Territory) Act 1976
 
 **Act No. 191 of 1976 as amended**
 
-This compilation was prepared on 22 September 2011
- taking into account amendments up to Act No. 97 of 2011
+This compilation was prepared on 4 July 2011
+ taking into account amendments up to Act No. 52 of 2011
 
 [**Note**: Subsections 70(2BA), (2BB), (2BC) cease to have effect on 
   18 August 2012, _see_ section 70]
@@ -1101,7 +1101,7 @@ the Minister shall:
 
                              (ii)  make a determination in writing specifying the one or more existing Land Trusts;
 
-                            that are to hold the divisible land or parts of the divisible land for the benefit of Aboriginals who are the relevant Aboriginals in relation to the divisible land or the parts of the divisible land; and
+                            that are to hold the divisible land or parts of the divisible land for the benefit of Aboriginals who are the relevant Aboriginals in relation to the divisible land or the parts of the divisible land; and
 
                      (d)  if the divisible land or a part of the divisible land proposed to be held by a Land Trust referred to in paragraph (c) is not, and does not include, alienated Crown land—recommend to the Governor‑General that a grant of an estate in fee simple in that land or part be made to that Land Trust; and
 
@@ -5057,7 +5057,7 @@ the Attorney‑General or the public servant may authorize, either unconditional
 
 ##### <a id="55"></a>55  Interests of Commissioner in any business
 
-                   A Commissioner shall, as soon as practicable, give written notice to the Minister of all direct and indirect pecuniary interests that he or she has or acquires in any business carried on in Australia or in any body corporate carrying on any such business or in any land in the Northern Territory.
+                   A Commissioner shall, as soon as practicable, give written notice to the Minister of all direct and indirect pecuniary interests that he or she has or acquires in any business carried on in Australia or in any body corporate carrying on any such business or in any land in the Northern Territory.
 
 ##### <a id="56"></a>56  Leave of absence
 
@@ -6475,7 +6475,7 @@ All those parcels of land in the Northern Territory containing an area of 5,333�
 
 Firstly:
 
-All that parcel of land containing an area of 1,340 hectares more or less, being all of Northern Ter  ritory portion 3807 and being more particularly delineated on Survey Plans S.89/90A and S.89/90B lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 1,340 hectares more or less, being all of Northern Territory portion 3807 and being more particularly delineated on Survey Plans S.89/90A and S.89/90B lodged with the Surveyor‑General, Darwin.
 
 Secondly:
 
@@ -6490,22 +6490,6 @@ All that parcel of land containing an area of 2,499 hectares more or less, being
 BAUHINIA DOWNS
 
 All that piece of land being Northern Territory Portion 1203 containing an area of approximately 1449 square kilometres and being more particularly registered as Volume 365 Folio 123 with the Northern Territory Registrar‑General, but excluding all of the land within 50 metres from either side of the centre line of the road known as the Borroloola to Roper Bar Road.
-
-BORROLOOLA
-
-All that land near Borroloola in the Northern Territory comprising:
-
-   (a)   the whole of Northern Territory Portion 2177 delineated on Survey Plan S2000/169 lodged with the Surveyor‑General, Darwin, known as Rarranggilawunyara and in the locality of Pellew Islands in the Northern Territory and containing an area of approximately 5.62 hectares; and
-
-   (b)   the whole of Northern Territory Portion 2178 delineated on Survey Plan S2000/169 lodged with the Surveyor‑General, Darwin, known as Niwawunala and in the locality of Pellew Islands in the Northern Territory and containing an area of approximately 2.66 hectares; and
-
-   (c)   the whole of Northern Territory Portion 2179 delineated on Survey Plan S2000/169 lodged with the Surveyor‑General, Darwin, known as Wanadjurara and in the locality of Pellew Islands in the Northern Territory and containing an area of approximately 6,840 square metres; and
-
-   (d)   the whole of Northern Territory Portion 2180 delineated on Survey Plan S2000/169 lodged with the Surveyor‑General, Darwin, known as Alolo and in the locality of Pellew Islands in the Northern Territory and containing an area of approximately 7.51 hectares; and
-
-   (e)   the whole of Northern Territory Portion 3900 delineated on Survey Plan S90/252D lodged with the Surveyor‑General, Darwin, known as Batten Point and in the locality of McArthur in the Northern Territory and containing an area of approximately 201.8 hectares; and
-
-   (f)   the whole of Northern Territory Portions 3997 and 3940 delineated on Survey Plan S90/316B lodged with the Surveyor‑General, Darwin, known as North Island and in the locality of Pellew Islands in the Northern Territory and containing an area of approximately 6,607 hectares.
 
 BRUMBY PLAINS
 
@@ -6552,10 +6536,6 @@ All that land near Tennant Creek in the Northern Territory comprising:
    (d)   the whole of Northern Territory Portion 4096 delineated on Survey Plan S92/85 lodged with the Surveyor‑General, Darwin, and containing an area of approximately 80.19 hectares; and
 
    (e)   the whole of Northern Territory Portion 4428 delineated on Survey Plan S93/36 lodged with the Surveyor‑General, Darwin, and containing an area of approximately 334.9 hectares.
-
-PORT PATTERSON ISLANDS
-
-All that land being the whole of Northern Territory Portion 2621 delineated on Survey Plan S83/282 lodged with the Surveyor‑General, Darwin, known as Port Patterson Islands and in the locality of Bynoe Harbour in the Northern Territory and containing an area of approximately 591.4 hectares.
 
 ROCKHAMPTON DOWNS
 
@@ -14868,7 +14848,7 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-##### <a id="22"></a>22  Maningrida
+##### <a id="22"></a>22  Maningrida
 
                    All that area of land contained within the 5 separate areas of land outlined below having a total area of approximately 10.456 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being:
 
@@ -16458,7 +16438,7 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-##### <a id="26"></a>26  Milyakburra
+##### <a id="26"></a>26  Milyakburra
 
                    All that area of land contained within the area of land outlined below having a total area of approximately 3.482 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being all of that area contained within and bounded by a line commencing on the low water mark of the coastline of the Northern Territory at Point 1 listed immediately below, thence initially in a north easterly direction successively along a straight line (loxodrome) between each of the following points in the sequence to the intersection with the low water mark of the coastline of the Northern Territory at Point 10, thence generally in a northerly direction following the low water mark of that coastline to the point of commencement.
 
@@ -27274,23 +27254,6 @@ Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1]) \[ <i>see</i>Table A]</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Indigenous Affairs Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>97, 2011</div>
-  </td>
-  <td>
-    <div>15 Sept 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: 16 Sept 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Public Service Reform Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, paragraph 2(21)(b) of which provides as follows:
@@ -30191,7 +30154,7 @@ No. 93, 2006</div>
     <div>Schedule 1</div>
   </td>
   <td>
-    <div>am. No. 21, 1978; No. 16, 1982; No. 93, 1985; No. 2, 1990; Statutory Rules 1990 No. 282; Statutory Rules 1991 Nos. 26, 38, 62, 115, 282, 340 and 396; Statutory Rules 1992 Nos. 107, 133 and 369; No. 6, 1993; No. 66, 1994; Nos. 37 and 63, 1995; No. 117, 1997; No. 1, 1999; No. 27, 2000; No. 99, 2002; No. 67, 2008; No. 38, 2010; No. 97, 2011</div>
+    <div>am. No. 21, 1978; No. 16, 1982; No. 93, 1985; No. 2, 1990; Statutory Rules 1990 No. 282; Statutory Rules 1991 Nos. 26, 38, 62, 115, 282, 340 and 396; Statutory Rules 1992 Nos. 107, 133 and 369; No. 6, 1993; No. 66, 1994; Nos. 37 and 63, 1995; No. 117, 1997; No. 1, 1999; No. 27, 2000; No. 99, 2002; No. 67, 2008; No. 38, 2010</div>
   </td>
 </tr>
 <tr>
@@ -30333,7 +30296,7 @@ Repeal the subsection.
 
 Omit “paragraph 34AB(d)”, substitute “paragraph 34AB(1)(d)”.
 
-As at 22 September 2011 the amendments are not incorporated in this compilation.
+As at 4 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
