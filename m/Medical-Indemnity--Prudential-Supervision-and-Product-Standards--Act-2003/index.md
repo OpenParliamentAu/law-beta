@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2006C00648/Html/MedicalIndemnityPrudSuperProdStand2003WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00586/Html/67A5EF827BE0C788CA25708900184A8C/$FILE/image001.gif)
 
 # Medical Indemnity (Prudential Supervision and Product Standards) Act 2003
 
 **Act No. 37 of 2003 as amended**
 
-This compilation was prepared on 10 November 2006
- taking into account amendments up to Act No. 116 of 2006
+This compilation was prepared on 1 October 2005
+taking into account amendments up to Act No. 111 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -36,7 +37,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Claims-made based cover and incident-occurring based cover
 
-[7](#7).            When certain death, disability and retirement arrangements are taken to be entered into
+[7](#7).            When certain DDR arrangements are taken to be entered into
 
 [7A](#7A).         Reasonableness of premiums
 
@@ -132,13 +133,16 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+ 
+
+
 ## An Act to make provision in relation to medical indemnity cover for health care professionals, and for related purposes
 
 ## Part 1—Introductory
 
 ### Division 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Medical Indemnity (Prudential Supervision and Product Standards) Act 2003_.
 
@@ -388,7 +392,7 @@ References to registered health professional
 
                              (ii)  one under which the health care professional is indemnified indirectly through an entity or entities interposed between the person and the health care professional.
 
-##### <a id="6"></a>6  Claims-made based cover and incident-occurring based cover
+##### <a id="6"></a>6  Claims-made based cover and incident-occurring based cover
 
              (1)  This section tells you what is meant by **_claims-made based cover_** and **_incident-occurring based cover_** when those terms are used in this Act. There are some kinds of medical indemnity cover that fall outside both those terms.
 
@@ -406,7 +410,7 @@ References to registered health professional
 
 Note 1:       Subparagraph (a)(ii)—subsection 4(9) operates on the reference in this subparagraph to the claim being made during a period.
 
-Note 2:       Pure extended reporting benefit cover (which has a defined incidents period that ends before the claims period begins) does not qualify because of paragraph (b). Death, disability and retirement cover (which does not have a fixed claims period) does not qualify because of paragraph (c).
+Note 2:       Pure ERB cover (which has a defined incidents period that ends before the claims period begins) does not qualify because of paragraph (b). DDR cover (which does not have a fixed claims period) does not qualify because of paragraph (c).
 
              (3)  To avoid doubt, the claims period for the contract is taken to be fixed even if the claims period is capable of being extended:
 
@@ -424,9 +428,9 @@ Note 2:       Pure extended reporting benefit cover (which has a def
 
                              (ii)  whether or not the health care professional has died, become permanently disabled or retired.
 
-Note:          Extended reporting benefit cover (which has a fixed claims period) does not qualify because of subparagraph (b)(i) and death, disability and retirement cover does not qualify because of subparagraph (b)(ii).
+Note:          ERB cover (which has a fixed claims period) does not qualify because of subparagraph (b)(i) and DDR cover does not qualify because of subparagraph (b)(ii).
 
-##### <a id="7"></a>7  When certain death, disability and retirement arrangements are taken to be entered into
+##### <a id="7"></a>7  When certain DDR arrangements are taken to be entered into
 
              (1)  For the purposes of this Act, if:
 
@@ -704,7 +708,7 @@ No determinations to be made after 1 July 2005
 
 APRA guidelines
 
-             (9)  APRA may, by legislative instrument, issue guidelines on:
+             (9)  APRA may issue guidelines on:
 
                      (a)  the matters to be included in a funding plan lodged for the purposes of this section (including the nature of the commitments to be given, and the targets to be set, in the plan); and
 
@@ -715,6 +719,8 @@ APRA guidelines
                      (d)  the necessary degree of independence from a body corporate that an auditor or actuary must have to give a certificate in relation to the body corporate’s funding plan.
 
            (10)  Without limiting paragraph (9)(a), the guidelines may provide that the funding plan must include a specified commitment by the body corporate to report to APRA in relation to its compliance with the funding plan.
+
+           (11)  A guideline issued under subsection (9) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="14"></a>14  Administrative review
 
@@ -778,7 +784,7 @@ Maximum amount payable for single claim
 
                      (a)  subsection (1) applies to a person (the **_insurer_**); and
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1 July  2003; and
+                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1 July 2003; and
 
                      (c)  a compensation claim is made against the health care professional; and
 
@@ -808,7 +814,7 @@ Circumstances in which section applies
 
                      (c)  the relevant contract provides for incident-occurring based cover.
 
-Note:          For **_incident-occurring based cover_**, see subsection 6(4). For the purposes of this section, extended reporting benefit cover and death, disability and retirement cover are not incident-occurring based cover.
+Note:          For **_incident-occurring based cover_**, see subsection 6(4). For the purposes of this section, ERB and DDR cover are not incident-occurring based cover.
 
              (2)  For the purposes of this section:
 
@@ -868,7 +874,7 @@ Circumstances in which section applies
 
                      (c)  the contract does not provide for incident-occurring based cover.
 
-Note:          For **_incident-occurring based cover_**, see subsection 6(4). For the purposes of this section, extended reporting benefit cover and death, disability and retirement cover are not incident-occurring based cover.
+Note:          For **_incident-occurring based cover_**, see subsection 6(4). For the purposes of this section, ERB and DDR cover are not incident-occurring based cover.
 
              (2)  For the purposes of this section:
 
@@ -952,7 +958,7 @@ Regulated insurance contract
 
                      (d)  the contract is entered into, comes into effect or is renewed on or after 1 July 2003.
 
-Note:          Paragraph (c)—for **_claims-made based cover_**, see subsections 6(2) and (3). For the purposes of this section, extended reporting benefit cover and death, disability and retirement cover are not claims-made based cover.
+Note:          Paragraph (c)—for **_claims-made based cover_**, see subsections 6(2) and (3). For the purposes of this section, ERB and DDR cover are not claims-made based cover.
 
 Client
 
@@ -1032,9 +1038,7 @@ Offence—entering into regulated insurance contract etc. before response to com
 
                      (b)  the insurer provides medical indemnity cover for a health care professional under the regulated insurance contract; and
 
-                     (c)  the regulated insurance contract is entered into, comes into effect or is renewed before the client has given the insurer a written response to the compulsory offer; and
-
-                     (d)  the medical indemnity cover does not relate to all compensation claims that are made against the health care professional, during a period that includes the whole of the claims period for the regulated insurance contract, in relation to the health care professional’s otherwise uncovered prior incidents.
+                     (c)  the regulated insurance contract is entered into, comes into effect or is renewed before the client has given the insurer a written response to the compulsory offer.
 
                     Penalty:  Imprisonment for 12 months.
 
@@ -1050,7 +1054,7 @@ Offence—record keeping
 
                               (i)  the compulsory offer;
 
-                             (ii)  if the client gives the insurer a written response to the compulsory offer—that response;
+                             (ii)  the client’s written response to the compulsory offer;
 
                             (iii)  any other offer that the insurer makes to the client, while the compulsory offer is open for acceptance by the client, to provide medical indemnity cover for the health care professional in relation to an otherwise uncovered prior incident of the health care professional;
 
@@ -1354,7 +1358,11 @@ Requirements for medical indemnity cover
 
              (4)  Medical indemnity cover meets the requirements of this subsection if:
 
-                     (a)  it covers incidents that occurred while the practitioner was registered or licensed as a medical practitioner under a State or Territory law that provides for the registration or licensing of medical practitioners; and
+                     (a)  it covers incidents that occurred while the practitioner:
+
+                              (i)  had medical indemnity cover provided by the insurer or any other medical indemnity insurer, or (subject to subsection (6)) by an MDO; and
+
+                             (ii)  was registered or licensed as a medical practitioner under a State or Territory law that provides for the registration or licensing of medical practitioners; and
 
                      (b)  the nature and range of incidents it covers is at least the same as the nature and range of incidents covered by the last medical indemnity cover provided for the practitioner; and
 
@@ -1362,11 +1370,15 @@ Requirements for medical indemnity cover
 
 Note:       Subparagraph 34E(1)(e)(ii) of the _Medical Indemnity Act 2002_ requires that the practitioner’s contract limit (see section 34B of that Act) equals or exceeds the relevant threshold under section 34F of that Act.
 
-                     (d)  it is provided on such terms and conditions (if any) determined, by legislative instrument, by the Minister administering the _Medical Indemnity Act 2002_; and
+                     (d)  it is provided on such terms and conditions (if any) determined in writing by the Minister administering the _Medical Indemnity Act 2002_; and
 
                      (e)  it provides cover until the practitioner ceases to be an eligible practitioner; and
 
                       (f)  no premium or other consideration is payable for the medical indemnity cover by the person to whom it is provided.
+
+             (5)  A determination under paragraph (4)(d) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
+             (6)  Subparagraph (4)(a)(i) applies to medical indemnity cover provided by an MDO only if that cover would have been claims-made cover within the meaning of subsections 6(2) and (3) of this Act if it had been provided for by a contract of insurance.
 
 Practitioner etc. need not apply for medical indemnity cover
 
@@ -1512,21 +1524,17 @@ Offences—giving notice
 
                      (a)  the insurer provides medical indemnity cover under subsection 26A(1) or 26C(1); and
 
-                     (b)  the insurer does not, within the notification period, give to the Chief Executive Officer of Medicare Australia a written notice stating:
+                     (b)  the insurer does not, within 28 days after providing the medical indemnity cover, give to the Chief Executive Officer of Medicare Australia a written notice stating:
 
                               (i)  the name of the practitioner for whom the medical indemnity cover is provided; and
 
                              (ii)  the date from which the medical indemnity cover took effect; and
 
-                            (iii)  such other matters as are determined, by legislative instrument, by the Minister administering the _Medical Indemnity Act 2002_.
+                            (iii)  such other matters as are determined in writing by the Minister administering the _Medical Indemnity Act 2002_.
 
                     Penalty:  Imprisonment for 6 months.
 
-          (2A)  The notification period for the purposes of paragraph (2)(b) is a period, starting on the day after the day on which the insurer provides the medical indemnity cover in question, of:
-
-                     (a)  61 days; or
-
-                     (b)  such greater number of days as the Minister administering the _Medical Indemnity Act 2002_ determines by legislative instrument.
+             (3)  A determination under subparagraph (2)(b)(iii) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 Offence—record-keeping
 
@@ -1668,6 +1676,7 @@ the arrangement is to be treated, for the purposes of this Act, as if it had bee
 
              (2)  The regulations may prescribe penalties not exceeding a fine of 10 penalty units for offences against the regulations.
 
+
 # Notes to the _Medical Indemnity (Prudential Supervision and Product Standards) Act 2003_
 
 ### Note 1
@@ -1692,11 +1701,13 @@ The _Medical Indemnity (Prudential Supervision and Product Standards) Act 2003_ 
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1706,95 +1717,84 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Medical Indemnity (Prudential Supervision and Product Standards) Act 2003</div>
-  </td>
-  <td>
-    <div>37, 2003</div>
-  </td>
-  <td>
-    <div>2 May 2003</div>
-  </td>
-  <td>
-    <div>1 July 2003</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004</div>
-  </td>
-  <td>
-    <div>77, 2004</div>
-  </td>
-  <td>
-    <div>23 June 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 36): 1 July 2004 
+<tbody>
+  <tr>
+    <td>
+      <div>Medical Indemnity (Prudential Supervision and Product Standards) Act 2003</div>
+    </td>
+    <td>
+      <div>37, 2003</div>
+    </td>
+    <td>
+      <div>2 May 2003</div>
+    </td>
+    <td>
+      <div>1 July 2003</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004</div>
+    </td>
+    <td>
+      <div>77, 2004</div>
+    </td>
+    <td>
+      <div>23 June 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 36): 1 July 2004 
 Schedule 3: <i>(a)</i> 
 Schedule 6 (items 7–9): <i>(a)</i> 
-Schedule 6 (items 10–13): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Medical Indemnity Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>25, 2005</div>
-  </td>
-  <td>
-    <div>21 Mar 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 15, 16): 22 Mar 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>111, 2005</div>
-  </td>
-  <td>
-    <div>6 Sept 2005</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 550): 1 Oct 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Medical Indemnity Legislation Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>116, 2006</div>
-  </td>
-  <td>
-    <div>4 Nov 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 20, 21): 1 July 2004 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Schedule 6 (items 10–13): Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Medical Indemnity Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>25, 2005</div>
+    </td>
+    <td>
+      <div>21 Mar 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 15, 16): 22 Mar 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Human Services Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>111, 2005</div>
+    </td>
+    <td>
+      <div>6 Sept 2005</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 550): 
+1 Oct 2005 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004_ provides as follows:
 
@@ -1864,52 +1864,56 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      8\. Schedule 3
-    </div>
-  </td>
-  <td>
-    <div>
-      The later of:
-    </div>
-    <div>
-      (a)
-      the day after the day on which this Act receives the Royal Assent; and
-    </div>
-    <div>
-      (b)
-      1 July 2004
-      .
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2004
+<tbody>
+  <tr>
+    <td>
+      <div>
+        8\. Schedule 3
+      </div>
+    </td>
+    <td>
+      <div>
+        The later of:
+      </div>
+      <div>
+        (a) the day after the day on which this Act receives the Royal Assent;
+          and
+      </div>
+      <div>
+        (b)
+        1 July 2004
+        .
+      </div>
+    </td>
+    <td>
+      <div>
+        1 July 2004
 
 (paragraph (b) applies)
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      16\. Schedule 6, items 7 to 9
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of the
-        <i>Medical Indemnity (Prudential Supervision and Product Standards) Act 2003</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2003
-    </div>
-  </td>
-</tr></table>
+
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        16\. Schedule 6, items 7 to 9
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of the
+          <i>Medical Indemnity (Prudential Supervision and Product Standards) Act 2003</i>.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 July 2003
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -1934,269 +1938,202 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 6(2)</div>
-  </td>
-  <td>
-    <div>am. No. 116, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 6(4)</div>
-  </td>
-  <td>
-    <div>am. No. 116, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 7</div>
-  </td>
-  <td>
-    <div>am. No. 116, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10, 11</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 116, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 18(1)</div>
-  </td>
-  <td>
-    <div>am. No. 116, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 19(1)</div>
-  </td>
-  <td>
-    <div>am. No. 116, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 21(1)</div>
-  </td>
-  <td>
-    <div>am. No. 116, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2004; No. 116, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rep. No. 77, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 77, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2A of Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26A</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 2005; No. 116, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 26B, 26C</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26D</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 25 and 111, 2005; No. 116, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 26E–26G</div>
-  </td>
-  <td>
-    <div>ad. No. 77, 2004</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7A</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 10, 11</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subdivision B</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>rep. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 2A of Part 3</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26A</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 25, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 26B, 26C</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26D</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 25 and 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 26E–26G</div>
+    </td>
+    <td>
+      <div>ad. No. 77, 2004</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+ 
 
  
