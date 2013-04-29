@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00613/Html/7d5f8815-5789-4ef2-a0de-f620140ac48d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00391/Html/RemAndAllowAct90_WD02_image001.gif)
 
 # Remuneration and Allowances Act 1990
 
 **Act No. 71 of 1990 as amended**
 
-This compilation was prepared on 5 August 2011
- taking into account amendments up to Act No. 75 of 2011
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -34,7 +34,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Remuneration and allowances of Secretaries of Departments and holders of public offices
 
-[6](#6).            Senators and Members of the House of Representatives
+[6](#6).            Remuneration and allowances of Senators and Members of the House of Representatives
 
 [7](#7).            Ministers and office holders of the Parliament
 
@@ -62,11 +62,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 2—Secretaries of Parliamentary Departments** 
 
-**Part 3—Full‑time holders of public offices** 
+**Part 3—Full-time holders of public offices** 
 
 **Schedule 3—Senators and Members of the House of Representatives** 
 
-**Part 1—Salary sacrifice**
+**Part 1—Annual salary** 
+
+    **Division 1—Amount of annual salary**
+
+[1](#1).            Salaries
+
+    **Division 2—Salary sacrifice**
 
 [1A](#1A).         Definitions
 
@@ -122,7 +128,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  any provision in the _Judicial and Statutory Officers (Remuneration and Allowances) Act 1984_ that is inconsistent with this Part.
 
-             (2)  Where, after 1 June 1990, the Remuneration Tribunal has made, or makes, a Determination that is inconsistent with a provision of this Act:
+             (2)  Where, after 1 June 1990, the Remuneration Tribunal has made, or makes, a Determination that is inconsistent with a provision of this Act (other than clause 1 of Schedule 3):
 
                      (a)  subject to subsection (3), the Determination operates according to its terms in spite of the provision of this Act; and
 
@@ -138,7 +144,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  Determinations Nos. 15, 16 and 22 of 1989 of the Remuneration Tribunal dated 16 November 1989.
 
-##### <a id="3A"></a>3A  Operation of Remuneration Tribunal Determination
+##### <a id="3A"></a>3A  Operation of Remuneration Tribunal Determination
 
                    Determination No. 12 of 1994 of the Remuneration Tribunal, dated 30 June 1994, does not operate on or after the date of commencement of this section.
 
@@ -150,9 +156,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The holders of the offices specified in Schedule 2 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
 
-##### <a id="6"></a>6  Senators and Members of the House of Representatives
+##### <a id="6"></a>6  Remuneration and allowances of Senators and Members of the House of Representatives
 
-                   Schedule 3 has effect.
+                   The holders of the offices specified in Schedule 3 are entitled to remuneration and allowances in accordance with the provisions of that Schedule.
 
 ##### <a id="7"></a>7  Ministers and office holders of the Parliament
 
@@ -164,7 +170,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="8A"></a>8A  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -482,7 +488,7 @@ _Section 4_
 </tr>
 <tr>
   <td>
-    <div>Solicitor‑General</div>
+    <div>Solicitor-General</div>
   </td>
   <td colspan="2">
     <div>The salary and allowances payable to a Judge of the Federal Court of Australia</div>
@@ -626,7 +632,7 @@ _Section 4_
 
 A Judge who is also Aboriginal Land Commissioner, Chairperson of the Australian Electoral Commission, Chief Judge of the Supreme Court of Norfolk Island, President of the Administrative Appeals Tribunal, President of the Law Reform Commission or President of the Australian Competition Tribunal is to receive $750 per annum in addition to the rate per annum of salary of the office of Judge.
 
-4.    <u>High Court Canberra Allowance</u>
+4.    <u>High Court </u><u>Canberra</u><u> Allowance</u>
 
 An allowance at the rate of $16,524 per annum is payable from 5 December 1989 to the Chief Justice and Justices of the High Court of Australia who do not establish their places of residence in Canberra.
 
@@ -654,7 +660,7 @@ _Section 5_
 
 1.    Subject to clause 2, in respect of the period starting on 1 January 1990 and ending on 30 June 1990, the holders of the offices specified in this Schedule are taken to have been, and to be, entitled to remuneration and allowances at the rates, and subject to the conditions, that would have been applicable to them from 1 January 1990 if Determination No. 12 of the Remuneration Tribunal dated 23 May 1990 had not been made.
 
-2.   (1) In respect of the period:
+2.    (1)  In respect of the period:
 
 (a)  starting when a holder of an office specified in this clause was appointed to that office; and
 
@@ -717,9 +723,9 @@ _Section 5_
   </td>
 </tr></table>
 
-      (2) The rates and conditions of payment of travelling allowance for the Chairperson and Executive Commissioner of the Industry Commission are as determined in Clause 4.1 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
+      (2)  The rates and conditions of payment of travelling allowance for the Chairperson and Executive Commissioner of the Industry Commission are as determined in Clause 4.1 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
 
-      (3) The rates and conditions of payment of travelling allowance for a Commissioner or Associate Commissioner of the Industry Commission are as determined in Clause 4.2 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
+      (3)  The rates and conditions of payment of travelling allowance for a Commissioner or Associate Commissioner of the Industry Commission are as determined in Clause 4.2 of Part 4 of Determination No. 2 of 1990 of the Remuneration Tribunal.
 
 3.    With effect from 1 July 1990, the holders of the offices specified in this Schedule are entitled to salary at the rates set out below.
 
@@ -788,7 +794,7 @@ _Section 5_
 </tr>
 <tr>
   <td>
-    <div>The Secretary to the Attorney‑General’s Department</div>
+    <div>The Secretary to the Attorney-General’s Department</div>
   </td>
   <td>
     <div>117,258</div>
@@ -931,7 +937,7 @@ _Section 5_
   </td>
 </tr></table>
 
-## Part 3—Full‑time holders of public offices
+## Part 3—Full-time holders of public offices
 
 <table>
 <colgroup>
@@ -994,7 +1000,7 @@ _Section 5_
 </tr>
 <tr>
   <td>
-    <div>Auditor‑General for Australia</div>
+    <div>Auditor-General for Australia</div>
   </td>
   <td>
     <div>117,258</div>
@@ -1074,7 +1080,7 @@ _Section 5_
 </tr>
 <tr>
   <td>
-    <div>Comptroller‑General of Customs</div>
+    <div>Comptroller-General of Customs</div>
   </td>
   <td>
     <div>117,258</div>
@@ -1178,7 +1184,7 @@ _Section 5_
 </tr>
 <tr>
   <td>
-    <div>Deputy President (non‑judicial), Administrative Appeals Tribunal</div>
+    <div>Deputy President (non-judicial), Administrative Appeals Tribunal</div>
   </td>
   <td>
     <div>111,004</div>
@@ -1194,7 +1200,7 @@ _Section 5_
 </tr>
 <tr>
   <td>
-    <div>Director‑General, Australian Security Intelligence Organisation</div>
+    <div>Director-General, Australian Security Intelligence Organisation</div>
   </td>
   <td>
     <div>111,004</div>
@@ -1202,7 +1208,7 @@ _Section 5_
 </tr>
 <tr>
   <td>
-    <div>Director‑General, Office of National Assessments</div>
+    <div>Director-General, Office of National Assessments</div>
   </td>
   <td>
     <div>111,004</div>
@@ -1218,7 +1224,7 @@ _Section 5_
 </tr>
 <tr>
   <td>
-    <div>Inspector‑General of Intelligence and Security</div>
+    <div>Inspector-General of Intelligence and Security</div>
   </td>
   <td>
     <div>111,004</div>
@@ -1250,7 +1256,7 @@ _Section 5_
 </tr>
 <tr>
   <td>
-    <div>Chair, Albury‑Wodonga Development Corporation</div>
+    <div>Chair, Albury-Wodonga Development Corporation</div>
   </td>
   <td>
     <div>99,949</div>
@@ -1339,13 +1345,13 @@ _Section 5_
 
 4.    The rates of salary specified in clause 3 as applicable from 1 July 1990 are to be adjusted in accordance with:
 
-(a)  wage‑setting decisions of the Australian Fair Pay Commission; or
+(a)  wage-setting decisions of the Australian Fair Pay Commission; or
 
-(b)  if the Australian Fair Pay Commission has not yet made its first wage‑setting decision—the Statement of Principles enunciated by the Australian Industrial Relations Commission in its 2005 Safety Net Review Decision.
+(b)  if the Australian Fair Pay Commission has not yet made its first wage-setting decision—the Statement of Principles enunciated by the Australian Industrial Relations Commission in its 2005 Safety Net Review Decision.
 
-5.    An annual leave loading is payable to Secretaries of Departments and holders of full‑time Public Offices on the same terms and conditions applying to persons engaged under the _Public Service Act 1999_.
+5.    An annual leave loading is payable to Secretaries of Departments and holders of full-time Public Offices on the same terms and conditions applying to persons engaged under the _Public Service Act 1999_.
 
-6.    Where a Secretary of a Department or a holder of a full‑time Public Office holds an office located in a region or district which is classified for the purposes of District Allowance, the holder of the office is to be paid a District Allowance at the rates and on the conditions prescribed for officers of the Australian Public Service.
+6.    Where a Secretary of a Department or a holder of a full-time Public Office holds an office located in a region or district which is classified for the purposes of District Allowance, the holder of the office is to be paid a District Allowance at the rates and on the conditions prescribed for officers of the Australian Public Service.
 
 7.    The rates and conditions of payment of travelling allowance for the holders of offices specified in clause 3 are as determined in Part 4 of Determination No. 2 of 1990 and in Part 1 of Determination No. 18 of 1989 of the Remuneration Tribunal.
 
@@ -1353,13 +1359,37 @@ _Section 5_
 
 _Section 6_
 
-## Part 1—Salary sacrifice
+## Part 1—Annual salary
 
-##### <span style="font-size:8.0pt"> </span><span style="font-size:8.0pt"> </span>
+### Division 1—Amount of annual salary
+
+##### <a id="1"></a>1  Salaries
+
+             (1)  For the purposes of section 48 of the Constitution, the annual allowance payable to Senators and Members of the House of Representatives (in this Schedule called **_salary_**) is as set out in this clause.
+
+             (2)  The Members of Parliament annual salary is equal to:
+
+                     (a)  the minimum annual rate of salary payable to an SES employee with a classification of SES Band 2; or
+
+                     (b)  if the regulations prescribe a percentage (not more than 100%) of a reference salary—that percentage of the reference salary.
+
+             (3)  Before the Governor-General makes a regulation for the purposes of paragraph (2)(b), the Minister must consider advice from the Remuneration Tribunal about the proposed regulation.
+
+             (4)  In this clause:
+
+                    <a name="princip-execut-classif"></a>**_principal executive classification_** means a classification determined by the Remuneration Tribunal under subsection 5(2A) of the _Remuneration Tribunal Act 1973_.
+
+                    <a name="refer-salari"></a>**_reference salary_** means:
+
+                     (a)  the annual salary applicable to an office under a determination of the Remuneration Tribunal; or
+
+                     (b)  the annual salary identified (for the purposes of this clause) as the reference salary for a principal executive classification, in a determination of the Remuneration Tribunal under subsection 5(2A) of the _Remuneration Tribunal Act 1973_.
+
+### Division 2—Salary sacrifice
 
 ##### <a id="1A"></a>1A  Definitions
 
-                   In this Part:
+                   In this Division:
 
                     <a name="administering-author"></a>**_administering authority_** means:
 
@@ -1381,7 +1411,7 @@ _Section 6_
 
                     <a name="offic-holder"></a>**_office holder_** has the same meaning as in the _Parliamentary Superannuation Act 2004_.
 
-                    <a name="parliamentari-allow"></a>**_parliamentary allowance_** means parliamentary base salary (within the meaning of the _Remuneration Tribunal Act 1973_).
+                    <a name="parliamentari-allow"></a>**_parliamentary allowance_** means allowance payable under clause 1.
 
                     <a name="rsa"></a>**_RSA_**has the same meaning as in the _Retirement Savings Accounts Act 1997_.
 
@@ -1391,7 +1421,7 @@ _Section 6_
 
 ##### <a id="1B"></a>1B  Meaning of _complying superannuation fund_
 
-             (1)  For the purposes of this Part, a fund or scheme is a **_complying superannuation fund_** at a particular time if, and only if:
+             (1)  For the purposes of this Division, a fund or scheme is a **_complying superannuation fund_** at a particular time if, and only if:
 
                      (a)  the fund or scheme is a complying superannuation fund for the purposes of the _Income Tax Assessment Act 1997_ in relation to the year of income in which the time occurs; and
 
@@ -1469,7 +1499,7 @@ Note:          In deciding what amount or percentage to specif
 
                    An election comes into force on the start date for the election and remains in force until whichever of the following occurs first:
 
-                     (a)  the contribution payable under this Part in respect of the month in which the  member next ceases to be entitled to parliamentary allowance has been paid; or
+                     (a)  the contribution payable under this Division in respect of the month in which the  member next ceases to be entitled to parliamentary allowance has been paid; or
 
                      (b)  a revocation of the election takes effect (see clause 1I).
 
@@ -1703,7 +1733,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>Leader of a recognised non‑Government party of at least 5 members not
+    <div>Leader of a recognised non-Government party of at least 5 members not
       otherwise specified herein</div>
   </td>
   <td>
@@ -1792,7 +1822,7 @@ _Section 7_
 </tr>
 <tr>
   <td>
-    <div>Whip in the Senate of a recognised non‑Government party of at least 5
+    <div>Whip in the Senate of a recognised non-Government party of at least 5
       members not otherwise specified herein</div>
   </td>
   <td>
@@ -2444,30 +2474,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Remuneration and Other Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>75, 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 8–16, 21): 5 Aug 2011 ( <i>see</i>F2011L01603)</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 21) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Remuneration and Allowances Act 1990_ was amended by Schedule 2 only of the _Industrial Relations Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Remuneration and Allowances Act 1990_ was amended by section 77 only of the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows: 
+_(b)_    The _Remuneration and Allowances Act 1990_ was amended by section 77 only of the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows: 
 
                  (2)   Part 3 commences on a day to be fixed by Proclamation. However, if Part 3 does not commence by Proclamation within the period of 6 months beginning on the day on which this Act receives the Royal Assent, then it commences on the first day after the end of that period.
 
@@ -2622,7 +2635,7 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 72, 1990; No. 52, 1992; No. 60, 1996; No. 75, 2011</div>
+    <div>am. No. 72, 1990; No. 52, 1992; No. 60, 1996</div>
   </td>
 </tr>
 <tr>
@@ -2631,14 +2644,6 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>ad. No. 158, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rs. No. 75, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2678,7 +2683,7 @@ _(h)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>Schedule 3</div>
   </td>
   <td>
-    <div>am. No. 72, 1990; No. 158, 1994; No. 146, 1999; No. 87, 2004; No. 15, 2007; No. 75, 2011</div>
+    <div>am. No. 72, 1990; No. 158, 1994; No. 146, 1999; No. 87, 2004; No. 15, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2698,7 +2703,7 @@ _Intelligence Services (Consequential Provisions) Act 2001 (No. 153, 2001)_
 
 ##### <a id="4"></a>4  Regulations
 
-                   The Governor‑General may make regulations providing for matters of a transitional nature (including any saving or application provision) arising out of the enactment of the _Intelligence Services Act 2001_, or the amendments made by this Act.
+                   The Governor-General may make regulations providing for matters of a transitional nature (including any saving or application provision) arising out of the enactment of the _Intelligence Services Act 2001_, or the amendments made by this Act.
 
 ## Schedule 1
 
@@ -2737,38 +2742,14 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
 
 ## 406  Application
 
-(1)       The amendments made by this Schedule apply to the 2007‑2008 income year and later years.
+(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
 
-(2)       Despite subitem (1), those amendments apply to the 2007‑2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
+(2)        Despite subitem (1), those amendments apply to the 2007-2008 financial year and later years, to the extent that they relate to Division 292 of the _Income Tax Assessment Act 1997_.
 
-(3)       Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
+(3)        Despite subitem (1), those amendments apply on and after 1 July 2007, to the extent that they relate to any of the following:
 
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
                      (b)  Divisions 301 to 307 of that Act.
-
-* * *
-
-_Remuneration and Other Legislation Amendment Act 2011 (No. 75, 2011)_
-
-## Schedule 2
-
-## 21  Transitional—temporary saving of old law allowances
-
-(1)       This item applies to the following provisions as in force immediately before the commencement of this Schedule:
-
-                     (a)  clause 1 of Schedule 3 to the _Remuneration and Allowances Act 1990_;
-
-                     (b)  regulations made for the purposes of paragraph 1(2)(b) of that Schedule;
-
-                     (c)  the definition of **_parliamentary allowance_** in clause 1A of that Schedule;
-
-                     (d)  subsection 5(2C) of the _Remuneration Tribunal Act 1973_.
-
-(2)       Despite the repeals and amendments made by this Schedule, those provisions continue in force until the coming into force of the first determination:
-
-                     (a)  that is made under subsection 7(1) of the _Remuneration Tribunal Act 1973_ at or after the commencement of this Schedule; and
-
-                     (b)  that determines the annual allowance payable for the purposes of section 48 of the Constitution.
 
  
