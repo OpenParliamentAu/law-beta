@@ -1,7 +1,7 @@
 
 Passports Act 1938
 Act No. 15 of 1938 as amended
-This compilation was prepared on 7 February 2001 taking into account amendments up to Act No. 137 of 2000
+This compilation was prepared on 9 October 2000 taking into account amendments up to Act No. 150 of 1997
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -21,9 +21,9 @@ Contents
 7	Issue of passports	4
 7A	Passport not to be issued to unmarried minors except in special circumstances	5
 7B	Passports not to be issued to certain persons	7
-7C	Passport not to be issued if moneys owing to Commonwealth	7
+7C	Passport not to be issued if moneys owing to Commonwealth	8
 7D	Issue of concurrently valid passports	8
-7E	Passports not to be issued in certain circumstances	8
+7E	Passports not to be issued in certain circumstances	9
 8	Cancellation of passports etc.	9
 8A	Notification of loss or theft of passports	11
 9	Power to order passport to be delivered up	11
@@ -37,7 +37,6 @@ Contents
 11C	Delegation	19
 12	Regulations	19
 Notes		21
-
 
 An Act relating to Passports
 1  Short title [see Note 1]
@@ -320,13 +319,14 @@ reviewable decision means:
 Notes to the Passports Act 1938
 Note 1
 The Passports Act 1938 as shown in this compilation comprises Act No. 15, 1938 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
 Passports Act 1938
 15, 1938
 5 July 1938
@@ -407,11 +407,6 @@ Foreign Affairs and Trade Legislation Amendment Act 1997
 17 Oct 1997
 Schedule 1 (item 30): 14 Nov 1997 (f)
 —
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
-137, 2000
-24 Nov 2000
-Schedule 2 (items 311‑313, 418, 419): [see (g), Note 2 and Table A]
-Sch. 2 (items 418, 419) [see Table A]
 (a)	The Passports Act 1938 was amended by section 3 only of the Administrative Changes (Consequential Provisions) Act 1976, subsection 2(7) of which provides as follows:
 	(7)	The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.
 (b)	The Passports Amendment Act 1984 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(34) of which provides as follows:
@@ -424,9 +419,6 @@ Sch. 2 (items 418, 419) [see Table A]
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 (f)	The Passports Act 1938 was amended by Schedule 1 (item 30) only of the Foreign Affairs and Trade Legislation Amendment Act 1997, subsection 2(3) of which provides as follows:
 	(3)	The amendment of section 10 of the Passports Act 1938 made by this Act commences on the 28th day after the day on which this Act receives the Royal Assent.
-(g)	The Passports Act 1938 was amended by Schedule 2 (items 311‑313) only of the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000, subsections 2(2) and (3) of which provide as follows:
-	(2)	Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [see Note 2]
-	(3)	If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -499,38 +491,4 @@ Ss. 11A‑11C
 ad. No. 168, 1984; No. 43, 1996
 S. 12	
 am. No. 93, 1966; No. 103, 1979; No. 168, 1984
-Note 2
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-The following amendments commence on 24 May 2001 unless proclaimed earlier:
-Schedule 2
-311  Subsection 5(3)
-Omit “9B (other than paragraph (f)),”, substitute “9B (other than paragraph (b)),”.
-312  Subsection 5(4)
-Omit “or 9B(f)”, substitute “or 9B(b)”.
-313  Section 9B
-Repeal the section, substitute:
-9B  Falsifying foreign passports etc.
-		A person is guilty of an offence if the person:
-	(a)	within Australia, falsifies a passport issued by or on behalf of the government of a foreign country; or
-	(b)	within Australia, makes a document that is false within intent that the false document may be used, acted on or accepted as if it were a passport issued by or on behalf of the government of a foreign country.
-Penalty:	Imprisonment for 7 years.
-As at 7 February 2001 the amendments are not incorporated in this compilation.
-Table A
-Application, saving or transitional provisions
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-The following provisions commence on 24 May 2001 unless proclaimed earlier:
-Schedule 2
-418  Transitional—pre‑commencement offences
-(1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-	(a)	an offence committed before the commencement of this item; or
-	(b)	proceedings for an offence alleged to have been committed before the commencement of this item; or
-	(c)	any matter connected with, or arising out of, such proceedings;
-as if the amendment or repeal had not been made.
-(2)	Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-419  Transitional—pre‑commencement notices
-If:
-	(a)	a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-	(b)	any or all of those other provisions are repealed by this Schedule; and
-	(c)	the first‑mentioned provision is amended by this Schedule;
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
