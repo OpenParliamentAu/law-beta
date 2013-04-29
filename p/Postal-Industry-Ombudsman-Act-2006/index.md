@@ -1,22 +1,25 @@
-![](http://www.comlaw.gov.au/Details/C2006C00618/Html/PostalIndusOmbuds2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00228/Html/5E87772913016BFBCA257162001C474F/$FILE/image001.gif)
 
 # Postal Industry Ombudsman Act 2006
 
 **Act No. 25 of 2006 as amended**
 
-This compilation was prepared on 19 October 2006
+This compilation was prepared on 28 April 2006
+
+**\[Note: Some provisions of this Act are not in force, _see_ section 2]**
 
 **\[This Act was amended by Act No. 141 of 2005]**
 
 **Amendment from Act No. 141 of 2005**
 
 \[Schedule 2 (item 32) repealed and substituted item 15 of Schedule 1 
- and repealed item 16 of Schedule 1
+and repealed item 16 of Schedule 1
 
-Schedule 2 (item 32) commenced immediately before 6 October 2006]
+Schedule 2 (item 32) commences immediately before the commencement of item 16 of Schedule 1 to the _Postal Industry Ombudsman Act 2006_]
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -43,6 +46,7 @@ Part 3—Application and transitional provisions          
 **Schedule 2—Other amendments of the Ombudsman Act 1976** 
 
 Ombudsman Act 1976                                                                                               24
+
 
 ## An Act to amend the _Ombudsman Act 1976_, and for related purposes
 
@@ -108,94 +112,96 @@ The Parliament of Australia enacts:
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
-      table</div>
-  </td>
-  <td>
-    <div>The day on which this Act receives the Royal Assent.</div>
-  </td>
-  <td>
-    <div>6 April 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2\. Schedule 1</div>
-  </td>
-  <td>
-    <div>A single day to be fixed by Proclamation.</div>
-    <div>However, if any of the provision(s) do not commence within the period
-      of 6 months beginning on the day on which this Act receives the Royal Assent,
-      they commence on the first day after the end of that period.</div>
-  </td>
-  <td>
-    <div>6 October 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3\. Schedule 2, item 1</div>
-  </td>
-  <td>
-    <div>Immediately after the commencement of item 2 of Schedule 2 to the
-      <i>Prime Minister and Cabinet Legislation Amendment (Application of Criminal
-        Code) Act 2001</i>.</div>
-  </td>
-  <td>
-    <div>26 July 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4\. Schedule 2, item 2</div>
-  </td>
-  <td>
-    <div>Immediately after the commencement of item 1 of Schedule 2 to the
-      <i>Prime Minister and Cabinet Legislation Amendment (Application of Criminal
-        Code) Act 2001</i>.</div>
-  </td>
-  <td>
-    <div>26 July 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5\. Schedule 2, item 3</div>
-  </td>
-  <td>
-    <div>Immediately after the commencement of item 717 of Schedule 1 to the
-      <i>Public Employment (Consequential and Transitional) Amendment Act 1999</i>.</div>
-  </td>
-  <td>
-    <div>5 December 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6\. Schedule 2, item 4</div>
-  </td>
-  <td>
-    <div>Immediately after the commencement of Schedule 5 to the
-      <i>A.C.T. Self-Government (Consequential Provisions) Act 1988</i>.</div>
-  </td>
-  <td>
-    <div>11 May 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7\. Schedule 2, item 5</div>
-  </td>
-  <td>
-    <div>Immediately after the commencement of item 11 of Schedule 3 to the
-      <i>National Crime Authority Legislation Amendment Act 2001</i>.</div>
-  </td>
-  <td>
-    <div>12 October 2001</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
+        table</div>
+    </td>
+    <td>
+      <div>The day on which this Act receives the Royal Assent.</div>
+    </td>
+    <td>
+      <div>6 April 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2\. Schedule 1</div>
+    </td>
+    <td>
+      <div>A single day to be fixed by Proclamation.</div>
+      <div>However, if any of the provision(s) do not commence within the period
+        of 6 months beginning on the day on which this Act receives the Royal Assent,
+        they commence on the first day after the end of that period.</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3\. Schedule 2, item 1</div>
+    </td>
+    <td>
+      <div>Immediately after the commencement of item 2 of Schedule 2 to the
+        <i>Prime Minister and Cabinet Legislation Amendment (Application of Criminal
+          Code) Act 2001</i>.</div>
+    </td>
+    <td>
+      <div>26 July 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4\. Schedule 2, item 2</div>
+    </td>
+    <td>
+      <div>Immediately after the commencement of item 1 of Schedule 2 to the
+        <i>Prime Minister and Cabinet Legislation Amendment (Application of Criminal
+          Code) Act 2001</i>.</div>
+    </td>
+    <td>
+      <div>26 July 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5\. Schedule 2, item 3</div>
+    </td>
+    <td>
+      <div>Immediately after the commencement of item 717 of Schedule 1 to the
+        <i>Public Employment (Consequential and Transitional) Amendment Act 1999</i>.</div>
+    </td>
+    <td>
+      <div>5 December 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6\. Schedule 2, item 4</div>
+    </td>
+    <td>
+      <div>Immediately after the commencement of Schedule 5 to the
+        <i>A.C.T. Self-Government (Consequential Provisions) Act 1988</i>.</div>
+    </td>
+    <td>
+      <div>11 May 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7\. Schedule 2, item 5</div>
+    </td>
+    <td>
+      <div>Immediately after the commencement of item 11 of Schedule 3 to the
+        <i>National Crime Authority Legislation Amendment Act 2001</i>.</div>
+    </td>
+    <td>
+      <div>12 October 2001</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
 
@@ -204,6 +210,7 @@ Note:          This table relates only to the provisions of th
 ##### <a id="3"></a>3  Schedule(s)
 
                    Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+
 
  
 
@@ -651,98 +658,100 @@ Notice of transferral to be given to complainant
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>subsection 7A(1)</div>
-  </td>
-  <td>
-    <div>paragraph 5(1)(b)</div>
-  </td>
-  <td>
-    <div>paragraph 19M(2)(b)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>subsection 11A(4)</div>
-  </td>
-  <td>
-    <div>the Minister</div>
-  </td>
-  <td>
-    <div>the Minister and the Minister administering the
-      <i>Australian Postal Corporation Act 1989</i>
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>subsections 12(4) and (5)</div>
-  </td>
-  <td>
-    <div>section 15</div>
-  </td>
-  <td>
-    <div>section 19V</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>subsection 35(6A)</div>
-  </td>
-  <td>
-    <div>paragraph 6(4A)(e) or (4D)(e)</div>
-  </td>
-  <td>
-    <div>paragraph 19P(3)(b)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>subsection 35B(2) (paragraph (a) of the definition of
-      <b>
-        <i>listed disclosure method</i>
-      </b>)</div>
-  </td>
-  <td>
-    <div>Division 2 of Part II</div>
-  </td>
-  <td>
-    <div>section 19V, 19W or 19X</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>subsection 35B(2) (paragraph (b) of the definition of
-      <b>
-        <i>listed disclosure method</i>
-      </b>)</div>
-  </td>
-  <td>
-    <div>section 6 or 6A</div>
-  </td>
-  <td>
-    <div>section 19N or 19P</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>subsection 7A(1)</div>
+    </td>
+    <td>
+      <div>paragraph 5(1)(b)</div>
+    </td>
+    <td>
+      <div>paragraph 19M(2)(b)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>subsection 11A(4)</div>
+    </td>
+    <td>
+      <div>the Minister</div>
+    </td>
+    <td>
+      <div>the Minister and the Minister administering the
+        <i>Australian Postal Corporation Act 1989</i>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>subsections 12(4) and (5)</div>
+    </td>
+    <td>
+      <div>section 15</div>
+    </td>
+    <td>
+      <div>section 19V</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>subsection 35(6A)</div>
+    </td>
+    <td>
+      <div>paragraph 6(4A)(e) or (4D)(e)</div>
+    </td>
+    <td>
+      <div>paragraph 19P(3)(b)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>subsection 35B(2) (paragraph (a) of the definition of
+        <b>
+          <i>listed disclosure method</i>
+        </b>)</div>
+    </td>
+    <td>
+      <div>Division 2 of Part II</div>
+    </td>
+    <td>
+      <div>section 19V, 19W or 19X</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>subsection 35B(2) (paragraph (b) of the definition of
+        <b>
+          <i>listed disclosure method</i>
+        </b>)</div>
+    </td>
+    <td>
+      <div>section 6 or 6A</div>
+    </td>
+    <td>
+      <div>section 19N or 19P</div>
+    </td>
+  </tr>
+</tbody></table>
 
              (5)  For the purposes of this Part, subsection 3(6) applies in relation to the Postal Industry Ombudsman as if a reference in that subsection to a prescribed authority were a reference to Australia Post.
 
@@ -1070,9 +1079,9 @@ Repeal the subsection.
 
 Omit “Part 2”, substitute “Part II”.
 
-<div style="border:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0cm 0cm 0cm">
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; BORDER-LEFT: medium none; PADDING-TOP: 1pt; BORDER-BOTTOM: medium none">
 
-</div>
+ </div>
 
 [_Minister’s second reading speech made in—_
 
@@ -1082,17 +1091,17 @@ _House of Representatives on 8 September 2005_]
 
 <div>
 
-<table hspace="0" vspace="0" align="left">
+<table align="left" vspace="0" hspace="0">
 <colgroup>
   <col width="NaN%">
 </colgroup>
 
-<tr>
-  <td align="left">
-    <div>(190/04)</div>
-  </td>
-</tr></table>
-
-</div>
+<tbody>
+  <tr>
+    <td align="left">
+      <div>(190/04)</div>
+    </td>
+  </tr>
+</tbody></table></div>
 
  
