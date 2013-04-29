@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00454/Html/ReferMachProv1984WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00403/Html/ReferMachProv1984WD02_image001.gif)
 
 # Referendum (Machinery Provisions) Act 1984
 
 **Act No. 44 of 1984 as amended**
 
-This compilation was prepared on 17 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 1 July 2007
+ taking into account amendments up to Act No. 22 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -112,7 +112,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [37](#37).          Provisional votes
 
-[38](#38).          Provisional enrolment by applicant for citizenship
+[38](#38).          Provisional enrolment by applicant for citizenship [_see_ Note 2]
 
 [40](#40).          Election and referendum on the same day
 
@@ -418,7 +418,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 3—Grounds of application for postal or pre-poll vote** 
 
-**Schedule 4—Rules for the conduct of a preliminary scrutiny of declaration votes** 
+**Schedule 4—Rules for the conduct of a preliminary scrutiny of declaration votes [_see_ Note 2]** 
 
 **Notes** 
 
@@ -1288,7 +1288,7 @@ Regulations
 
            (10)  The regulations may impose additional requirements in relation to identification for provisional voting.
 
-##### <a id="38"></a>38  Provisional enrolment by applicant for citizenship
+##### <a id="38"></a>38  Provisional enrolment by applicant for citizenship [_see_ Note 2]
 
 Application by those about to become Australian citizens
 
@@ -1302,7 +1302,7 @@ Application by those about to become Australian citizens
 
                      (b)  the voting day for the referendum is not the same as that fixed for the polling at an election; and
 
-                     (c)  the person has been notified by the Immigration Department that the person will become an Australian citizen under the _Australian Citizenship Act 2007_ between:
+                     (c)  the person has been notified by the Immigration Department that the person will be granted a certificate of Australian citizenship under section 13 of the _Australian Citizenship Act 1948_ between:
 
                               (i)  the day of the issue of writ; and
 
@@ -1366,7 +1366,7 @@ Divisional Returning Officer to keep records
 
 Confirmation of citizenship
 
-             (6)  If, by the first Friday following the voting day for the referendum, the person provides an officer with evidence that the person has become an Australian citizen, then:
+             (6)  If, by the first Friday following the voting day for the referendum, the person provides an officer with the original certificate of Australian citizenship granted to the person, or a copy of  the certificate that has been attested to by an elector in a prescribed class of electors, then:
 
                      (a)  the provisional enrolment ceases; and
 
@@ -3033,7 +3033,7 @@ whichever last occurs.
 
           (3A)  The Chief Minister for the Australian   Capital Territory, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the scrutiny at each counting centre in the Territory.
 
-             (4)  The Administrator of the Northern   Territory, or a person authorized by the Administrator to act under this section, may appoint one person to act as a scrutineer during the scrutiny at each counting centre in the Northern Territory.
+             (4)  The Administrator of the Northern Territory, or a person authorized by the Administrator to act under this section, may appoint one person to act as a scrutineer during the scrutiny at each counting centre in the Northern Territory.
 
           (4A)  The registered officer of a registered political party may appoint persons to act as scrutineers during the scrutiny at each counting centre, but the number of scrutineers for each party shall not exceed the number of officers who are engaged in the scrutiny at each counting centre.
 
@@ -3549,7 +3549,7 @@ Note:          A defendant bears a legal burden in relation to
 
              (7)  In this section, **_publish_** includes publish by radio or television.
 
-##### <a id="123"></a>123  False statements in relation to Rolls
+##### <a id="123"></a>123  False statements in relation to Rolls
 
                    A person who, on the voting day for a referendum, makes a statement to an elector, either orally or in writing, with respect to the enrolment of the elector that, to the knowledge of the first-mentioned person, is false or misleading in a material respect, is guilty of an offence punishable on conviction by a fine not exceeding $1,000 or imprisonment for a period not exceeding 6 months, or both.
 
@@ -4044,7 +4044,7 @@ FORM B
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2008C00454/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2008C00454/Html/ReferMachProv1984WD02_image003.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2007C00403/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2007C00403/Html/ReferMachProv1984WD02_image003.gif"> Commonwealth of Australia</div>
     <div>BALLOT-PAPER</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendum on proposed Constitution alteration</div>
@@ -4065,7 +4065,7 @@ FORM C
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2008C00454/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2008C00454/Html/ReferMachProv1984WD02_image004.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2007C00403/Html/ReferMachProv1984WD02_image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2007C00403/Html/ReferMachProv1984WD02_image004.gif"> Commonwealth of Australia</div>
     <div>BALLOT-PAPERS</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendums on proposed Constitution alterations</div>
@@ -4153,7 +4153,7 @@ _Sections 54 and 72_
 
                      (b)  in any other case, the absence of the elector for the purpose of attending at a polling booth to vote would be likely to cause loss to the elector in his or her occupation.
 
-# Schedule 4—Rules for the conduct of a preliminary scrutiny of declaration votes
+# Schedule 4—Rules for the conduct of a preliminary scrutiny of declaration votes [_see_ Note 2]
 
 _Subsection 89A(3)_
 
@@ -4197,7 +4197,11 @@ _Subsection 89A(3)_
 
                     (ca)  in the case of an envelope purporting to contain a provisional vote ballot-paper—if the elector (other than an elector to whom subsection 104(4) of the _Commonwealth Electoral Act 1918_ applies) did not provide evidence of his or her identity in accordance with section 37 at the time of casting the vote, the elector has provided that evidence by the first Friday following the voting day for that referendum; and
 
-                    (cb)  in the case of an envelope purporting to contain a postal ballot-paper, a pre-poll vote ballot-paper, an absent vote ballot-paper or a provisional vote ballot-paper, cast by an elector who is provisionally enrolled—that, by the first Friday following the polling day for that election, the elector has provided an officer with evidence that the elector has become an Australian citizen under the _Australian Citizenship Act 2007_
+                    (cb)  in the case of an envelope purporting to contain a postal ballot-paper, a pre-poll vote ballot-paper, an absent vote ballot-paper or a provisional vote ballot-paper, cast by an elector who is provisionally enrolled—that, by the first Friday following the polling day for that election, the elector has provided an officer  with:
+
+                              (i)  an original certificate of Australian citizenship granted to the elector under section 13 of the _Australian Citizenship Act 1948_; or
+
+                             (ii)  a copy of the certificate of Australian citizenship granted to the elector under section 13 of the _Australian Citizenship Act 1948_ that has been attested to by an elector in a prescribed class of electors; and
 
                      (d)  in the case of an envelope purporting to contain a ballot-paper recording a vote cast at a station in Antarctica, the envelope is signed in accordance with subsection 85(1); and
 
@@ -4852,41 +4856,7 @@ S. 2(1) (item 30) (rep. by 65, 2006, Sch. 1 \[item 100])</div>
   <td>
     <div>Schedule 1 (items 102–114, 117–132, 
 134–139): Royal Assent 
-Schedule 1 (items 115, 116, 133): 1 July 2007 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>S. 2(1) (am. by 73, 2008, Sch. 2 \[items 8, 9])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 8, 9, 12, 13): 15 Mar 2007 ( <i>see</i>s. 2(1))</div>
+Schedule 1 (items 115, 116, 133): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -5544,14 +5514,6 @@ _(h)_ Subsection 2(1) (item 7) of the _Electoral and Referendum Amendment (Pri
   </td>
   <td>
     <div>ad. No. 65, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 65, 2006 (as am. by No. 73, 2008)</div>
   </td>
 </tr>
 <tr>
@@ -6985,9 +6947,102 @@ No. 219, 1992</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; Nos. 78 and 115, 2004; No. 65, 2006 (as am. by No. 73, 2008)</div>
+    <div>am. No. 167, 1991; No. 166, 1995; No. 94, 1998; No. 134, 1999; No. 34, 2001; Nos. 78 and 115, 2004; No. 65, 2006</div>
   </td>
 </tr></table>
+
+### Note 2
+
+Paragraph 38(1)(c), subsection 38(6) and Schedule 4 (subparagraph 6(cb))—Schedule 1 (items 115, 116 and 133) of the _Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006_ (No. 65, 2006) provide as follows:
+
+## Schedule 1
+
+## 115  Paragraph 38(1)(c)
+
+Omit “be granted a certificate of Australian citizenship under section 13 of the _Australian Citizenship Act 1948_”, substitute “become an Australian citizen under the _Australian Citizenship Act 2005_”.
+
+## 116  Subsection 38(6)
+
+Omit “with the original certificate of Australian citizenship granted to the person, or a copy of  the certificate that has been attested to by an elector in a prescribed class of electors”, substitute “with evidence that the person has become an Australian citizen”.
+
+## 133  Subparagraph 6(cb) of Schedule 4
+
+Omit all the words from and including “an officer”, substitute “an officer with evidence that the elector has become an Australian citizen under the _Australian Citizenship Act 2006_”.
+
+Subsection 2(1) (items 15 and 17) of the _Electoral and Referendum Amendment (Electoral Integrity and Other Measures) Act 2006_ provides as follows:
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>15\. Schedule 1, items 115 and 116</div>
+  </td>
+  <td>
+    <div>The later of:</div>
+    <div>(a) immediately after the commencement of item 114 of Schedule 1 to this
+      Act; and</div>
+    <div>(b) the commencement of section 3 of the
+      <i>Australian Citizenship Act 2006</i>.</div>
+    <div>However, the provision(s) do not commence at all if the event mentioned
+      in paragraph (b) does not occur.</div>
+  </td>
+  <td>
+    <div>
+
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>17\. Schedule 1, item 133</div>
+  </td>
+  <td>
+    <div>The later of:</div>
+    <div>(a) immediately after the commencement of item 132 of Schedule 1 to this
+      Act; and</div>
+    <div>(b) the commencement of section 3 of the
+      <i>Australian Citizenship Act 2006</i>.</div>
+    <div>However, the provision(s) do not commence at all if the event mentioned
+      in paragraph (b) does not occur.</div>
+  </td>
+  <td>
+    <div>
+
+    </div>
+  </td>
+</tr></table>
+
+The _Australian Citizenship Act 2006_ was incorrectly cited and the amendments are not incorporated in this compilation.
 
 ## Table A
 
