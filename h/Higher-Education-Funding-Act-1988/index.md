@@ -1,12 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image001.gif)
 
 # Higher Education Funding Act 1988
 
 **Act No. 2 of 1989 as amended**
 
-This compilation was prepared on 4 May 2010
+This compilation was prepared on 4 March 2010
  taking into account amendments up to Act No. 8 of 2010
- and Declaration under subsection 4(2) of the _Higher Education Funding  Act 1988_ (_see_ F2010L00709)
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -29,7 +28,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Definitions
 
-[4](#4).            Institutions
+[4](#4).            Institutions [_see_ Note 2]
 
 [5](#5).            References to payments and Acts
 
@@ -213,17 +212,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 4.5—Abolition of Higher Education Administration Charge** 
 
-    **Divisions 1–3**
+    **Divisions 1–3** 
 
-[90–95](#90–95).    
+90–95
 
     **Division 4—Canberra Institute of the Arts**
 
 [96](#96).          Charges not to be imposed
 
-    **Division 5—Amount of charge not fixed beyond year 1988**
+    **Division 5—Amount of charge not fixed beyond year 1988** 
 
-[97, 98](#97, 98).    
+97, 98
 
 **Chapter 4A—Post-graduate education loan scheme** 
 
@@ -693,7 +692,7 @@ but does not include:
 
                      (b)  otherwise—the year 1989 or any subsequent year up to and including the year 2004.
 
-##### <a id="4"></a>4  Institutions
+##### <a id="4"></a>4  Institutions <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 2]</span>
 
              (1)  Subject to this section, in this Act, unless the contrary intention appears:
 
@@ -931,193 +930,6 @@ but does not include:
 <tr>
   <td>
     <div>Avondale College</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Carnegie Mellon University, a non-profit organisation established under
-      Pennsylvania law</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian College of Theology Council Incorporated</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Lutheran College</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Christian Heritage College</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Harvest Bible College Inc</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Moore Theological College Council</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Perth Bible College</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tabor College Incorporated (trading as Tabor Adelaide)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tabor College (NSW) Incorporated</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Wesley Institute</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Adelaide College of Divinity Incorporated</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Campion Institute Limited</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian College of Physical Education</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Brisbane College of Theology</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sydney College of Divinity Ltd</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tabor College Tasmania</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tabor College Victoria</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian College of Applied Psychology Pty Ltd</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Guild of Music Education Incorporated</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Institute of Public Safety Pty Ltd</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Blue Mountains International Hotel Management School Pty Ltd</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Box Hill Institute of Technical and Further Education</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>East Coast Gestalt Training Incorporated</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Institute of Counselling Incorporated</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>International College of Management Sydney Pty Ltd</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>JMC Pty Ltd</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>North Melbourne Institute of TAFE</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Harvest West Bible College Inc</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Adelaide Central School of Art Incorporated</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Cairnmillar Institute School of Counselling and Psychotherapy Pty
-      Ltd</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>William Angliss Institute of TAFE</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Holmes Commercial Colleges (Melbourne) Ltd</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Melbourne Institute of Technology Pty Ltd</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Think: Colleges Pty Ltd</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Gordon Institute of TAFE</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Melbourne Institute for Experiential and Creative Arts Therapy</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Alphacrucis College Limited</div>
   </td>
 </tr></table>
 
@@ -1941,11 +1753,11 @@ the Minister may, for the purposes of this Chapter, give directions to the insti
 
              (3)  If the actual enrolment number in relation to a relevant higher education institution in a State in respect of the year 1988 is less than the estimated enrolment number in relation to the institution in respect of that year, there is payable to the State in relation to the institution the amount ascertained in accordance with the formula 
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image002.gif)
 
              (4)  Payment of an amount to a State under Part 2.2 in relation to a relevant higher education institution in respect of the year 1989 is subject to the additional condition that, if the estimated enrolment number in relation to the institution in respect of the year 1988 is less than the actual enrolment number in relation to the institution in respect of that year, the State will pay to the Commonwealth the amount ascertained in accordance with the formula 
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image002.gif)
 
              (5)  For the purposes of the formulae in subsections (3) and (4):
 
@@ -2155,7 +1967,7 @@ Amount of contribution for pre-1997 student
 
              (3)  The contribution for a pre-1997 student is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image003.gif)
 
 where:
 
@@ -2175,7 +1987,7 @@ Amount of contribution for other students
 
              (6)  The amount for a Band is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image004.gif)
 
 where:
 
@@ -2283,7 +2095,7 @@ For this purpose, **_relevant unit of study_** means any unit of study that may 
 
                                         (A)  to lend to the student an amount (the **_formula amount_**) worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image005.gif)
 
                                         (B)  to apply the money lent in paying to the institution, in discharge of the student’s liability to pay the remainder of the assessed contribution (see subsection (1B)), the amount of that assessed contribution outstanding after deducting from that assessed contribution the amount of the student payment; and
 
@@ -2297,17 +2109,17 @@ For this purpose, **_relevant unit of study_** means any unit of study that may 
 
 Example:    If the student’s assessed contribution for the course of study is $2,350 and the student makes a payment of $1,000, the amount that the Commonwealth will lend to the student is $1,017, ie:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image006.gif)
 
                    This amount is the **_formula amount_**(see sub-subparagraph (1A)(c)(i)(A)).
 
                    The amount that the Commonwealth will pay to the institution to discharge the student’s liability is $1350, ie:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image007.gif)
 
                    The value to the student of the discount for making the student payment of $1,000 is $333 (this amount forms part of the amount the Commonwealth pays to the institution to discharge the student’s liability), ie:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image008.gif)
 
           (1B)  For the purposes of subsection (1A):
 
@@ -2343,7 +2155,7 @@ Example:    If the student’s assessed contribution for the course of stu
 
                             (iii)  first satisfied the prescribed residency requirements on a day more than one year before enrolment day; or
 
-                     (c)  a student (other than a New   Zealand citizen) who:
+                     (c)  a student (other than a New Zealand citizen) who:
 
                               (i)  is a permanent resident; and
 
@@ -2773,23 +2585,23 @@ the Commonwealth must, as a benefit to the student:
 
                       (f)  pay to the institution, in discharge of the remainder of the student’s liability, an amount (the **_discount amount_**) worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image009.gif)
 
 Example: If the student’s contribution for the course of study is $2,350 and the student makes a payment of $1,000, the amount that the Commonwealth will lend to the student is $1,017, ie:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image010.gif)
 
                 This amount is the**_formula amount_**(seeparagraph (3A)(e)).
 
                 The amount that the Commonwealth will pay to the institution to discharge the student’s liability is $1,350, ie:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image007.gif)
 
                 The amount that the Commonwealth will pay to the institution comprises the sum of the amount the Commonwealth will lend to the student, ie $1,017 (the formula amount) and the student discount that the student receives for making the student payment ($333).
 
                 The value of the discount to the student for making the student payment is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image008.gif)
 
                 This amount is the **_discount amount_** (see paragraph (3A)(f)).
 
@@ -3964,7 +3776,7 @@ to lend to the applicant the amount of those fees outstanding and to use the amo
 
                      (b)  if the institution has not complied with such a requirement in respect of that year—setting out particulars of the non-compliance.
 
-##### <a id="98ZF"></a>98ZF  Electronic communications between students and institutions
+##### <a id="98ZF"></a>98ZF  Electronic communications between students and institutions
 
              (1)  Sections 56C, 56D and 56E apply for the purposes of this Chapter as if a reference in those sections to a person, thing or provision mentioned in the second column of an item of the table were a reference to the person, thing or provision mentioned in the third column of the item.
 
@@ -4451,7 +4263,7 @@ the Agency must not permit the client, as an eligible client, to continue to be 
 
 ## Part 5A.1—Preliminary
 
-##### <a id="106H"></a>106H  Interpretation
+##### <a id="106H"></a>106H  Interpretation
 
              (1)  In this Chapter, unless the contrary intention appears:
 
@@ -4797,7 +4609,7 @@ Note:          A person’s accumulated HELP debt, worked out 
 
              (3)  For the purposes of paragraph (2)(c), the **adjusted accumulated HEC debt of the person at the earlier date** is the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image011.gif)
 
 where:
 
@@ -4857,7 +4669,7 @@ by the sum of:
 
 ### Division 1—Voluntary discharge of indebtedness
 
-##### <a id="106P"></a>106P  Voluntary payments in respect of debts
+##### <a id="106P"></a>106P  Voluntary payments in respect of debts
 
              (1)  Subject to this Division, if a person owes a debt to the Commonwealth under this Chapter, the person may at any time make a payment in respect of that debt.
 
@@ -4869,11 +4681,11 @@ by the sum of:
 
              (3)  The debtor is taken to pay off the total debt if he or she pays in respect of the debt an amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image012.gif)
 
              (4)  Subject to subsection (5), if a person pays an amount of $500 or more in part settlement of a debt, the outstanding amount of the debt is to be reduced by the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image013.gif)
 
 Example:    If a person owes a semester debt of $1,700, and the person makes a payment of $600, the debt is to be reduced by an amount of $660 (i.e. $600 x 1.1), leaving a balance of $1,040 ($1,700 – $660) to be paid.
 
@@ -4929,7 +4741,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                      (b)  in the case of a subsequent year of income—the number of whole dollars of the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image014.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image014.gif)
 
                             where:
 
@@ -5104,7 +4916,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income (other than the 2004-05 year of income)—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image015.gif); or
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image015.gif); or
 
                             (iii)  for the 2004-05 year of income—$35,000;
 
@@ -5114,7 +4926,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image016.gif)
 
                      (c)  the **_second intermediate prescribed amount_** for a year of income is:
 
@@ -5122,7 +4934,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image017.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image017.gif)
 
                      (d)  the **_third intermediate prescribed amount_** for a year of income is:
 
@@ -5130,7 +4942,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image018.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image018.gif)
 
                      (e)  the **_fourth intermediate prescribed amount_** for a year of income is:
 
@@ -5138,7 +4950,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image019.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image019.gif)
 
                       (f)  the **_fifth intermediate prescribed amount_** for a year of income is:
 
@@ -5146,7 +4958,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image020.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image020.gif)
 
                      (g)  the **_maximum prescribed amount_** for a year of income is:
 
@@ -5154,7 +4966,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00342/Html/HighEdFund1988_WD02HYP_image021.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00196/Html/HighEdFund1988_WD02HYP_image021.gif)
 
 (4A)  For the purposes of paragraph (4)(a), **_AWE_** for a year of income is the number of dollars in the sum of:
 
@@ -7546,156 +7358,6 @@ Remainder: Royal Assent</div>
   </td>
 </tr></table>
 
-### Table of Instruments
-
-<table>
-<colgroup>
-  <col width="29%">
-  <col width="18%">
-  <col width="17%">
-  <col width="20%">
-  <col width="16%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Title</div>
-    </td>
-    <td>
-      <div>FRLI number</div>
-    </td>
-    <td>
-      <div>Date of FRLI registration</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Declaration under subsection 4(2) of the Act</div>
-  </td>
-  <td>
-    <div>F2006L00192</div>
-  </td>
-  <td>
-    <div>18 Jan 2006</div>
-  </td>
-  <td>
-    <div>19 Jan 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Declaration under subsection 4(2) of the Act</div>
-  </td>
-  <td>
-    <div>F2006L00628</div>
-  </td>
-  <td>
-    <div>1 Mar 2006</div>
-  </td>
-  <td>
-    <div>2 Mar 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Declaration under subsection 4(2) of the Higher Education Funding Act 1988</div>
-  </td>
-  <td>
-    <div>F2006L03457</div>
-  </td>
-  <td>
-    <div>19 Oct 2006</div>
-  </td>
-  <td>
-    <div>20 Oct 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Declaration under subsection 4(2) of the Higher Education Funding Act 1988</div>
-  </td>
-  <td>
-    <div>F2007L00840</div>
-  </td>
-  <td>
-    <div>28 Mar 2007</div>
-  </td>
-  <td>
-    <div>29 Mar 2007</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Declaration under subsection 4(2) of the Higher Education Funding Act 1988</div>
-  </td>
-  <td>
-    <div>F2007L03921</div>
-  </td>
-  <td>
-    <div>3 Oct 2007</div>
-  </td>
-  <td>
-    <div>4 Oct 2007</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Declaration under subsection 4(2) of the Higher Education Funding Act 1988</div>
-  </td>
-  <td>
-    <div>F2008L04384</div>
-  </td>
-  <td>
-    <div>25 Nov 2008</div>
-  </td>
-  <td>
-    <div>26 Nov 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Declaration under subsection 4(2) of the Higher Education Funding Act 1988</div>
-  </td>
-  <td>
-    <div>F2010L00709</div>
-  </td>
-  <td>
-    <div>18 Mar 2010</div>
-  </td>
-  <td>
-    <div>19 Mar 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
 _(a)_     Chapter 5 (sections 99–106) of the _Higher Education Funding Act 1988_ was repealed by section 67 of the _Higher Education Funding Amendment Act (No. 2) 1992_ before a date was fixed for the commencement.
 
 _(b)_    The _Higher Education Funding Act 1988_ was amended by section 113 only of the _Taxation Laws Amendment Act (No. 3) 1991_, subsection 2(10) of which provides as follows:
@@ -8400,7 +8062,7 @@ _(t)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 80 and 168, 1989; No. 122, 1990; No. 158, 1992; No. 72, 1996; No. 112, 1998; No. 158, 1999; No. 130, 2000; No. 150, 2003; F2006L00192; F2006L00628; F2006L03457; F2007L00840; F2007L03921; F2008L04384; F2010L00709</div>
+    <div>am. Nos. 80 and 168, 1989; No. 122, 1990; No. 158, 1992; No. 72, 1996; No. 112, 1998; No. 158, 1999; No. 130, 2000; No. 150, 2003</div>
   </td>
 </tr>
 <tr>
@@ -11411,6 +11073,90 @@ _(t)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>am. No. 78, 2002</div>
   </td>
 </tr></table>
+
+### Note 2
+
+S. 4(1)—The _Higher Education Funding Act 1988_ was amended by Declarations made under subsection 4(2) by adding to Table B in subsection 4(1) the following names of institutions of higher education. The provisions of the Declarations quoted below are not incorporated in this compilation.
+
+##### Declaration under subsection 4(2) of the Act (_see_ F2006L00192)
+
+Carnegie Mellon University, a non-profit organisation established under Pennsylvania law.
+
+##### Declaration under subsection 4(2) of the Act (_see_ F2006L00628)
+
+Australian College of Theology Council Incorporated
+
+Australian Lutheran College 
+
+Christian Heritage College 
+
+Harvest Bible College Inc 
+
+Moore Theological College Council 
+
+Perth Bible College 
+
+Tabor College Incorporated (trading as Tabor Adelaide)
+
+Tabor College (NSW) Incorporated
+
+Wesley Institute.
+
+##### Declaration under subsection 4(2) of the Act (_see_ F2006L03457)
+
+Adelaide College of Divinity Incorporated
+
+Campion Institute Limited
+
+##### Declaration under subsection 4(2) of the Act (_see_ F2007L00840)
+
+Australian College of Physical Education;
+
+Brisbane College of Theology;
+
+Sydney College of Divinity Ltd;
+
+Tabor College Tasmania;
+
+Tabor College Victoria.
+
+##### Declaration under subsection 4(2) of the Act (_see_ F2007L03921)
+
+Australian  College of Applied Psychology Pty Ltd
+
+Australian Guild of Music Education Incorporated
+
+Australian Institute of Public Safety Pty Ltd
+
+Blue Mountains International Hotel Management School Pty Ltd
+
+Box Hill Institute of Technical and Further Education 
+
+East Coast Gestalt Training Incorporated
+
+Institute of Counselling Incorporated
+
+International College of Management Sydney Pty Ltd 
+
+JMC Pty Ltd
+
+North Melbourne Institute of TAFE
+
+##### Declaration under subsection 4(2) of the Act (_see_ F2008L04384)
+
+Harvest West Bible College Inc
+
+Adelaide Central School of Art Incorporated
+
+The Cairnmillar Institute School of Counselling and Psychotherapy Pty Ltd
+
+William Angliss Institute of TAFE
+
+Holmes Commercial Colleges (Melbourne) Ltd
+
+Melbourne Institute of Technology Pty Ltd
+
+Think: Colleges Pty Ltd
 
 ## Table A
 
