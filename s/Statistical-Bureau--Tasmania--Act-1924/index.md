@@ -1,419 +1,51 @@
-**
+**<b>
 
-###  STATISTICAL BUREAU (TASMANIA) ACT 1924 
-**
+### <center><name>STATISTICAL BUREAU (TASMANIA) ACT 1924 - Reprinted as at 31 July 1983 (HISTACT CHAP 169 #DATE 31:07:1983) </name></center>
+</b>** *1* Act No. 48, 1924; assented to and commenced 20 October 1924.<lf> </lf>
+**<b>
 
+### <name>STATISTICAL BUREAU (TASMANIA) ACT 1924 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                             TABLE  OF  PROVISIONS<lf> 
 
-###  Long Title 
-**
-###  STATISTICAL BUREAU (TASMANIA) ACT 1924- SECT 1  Short title [_see_ Note 1] 
-<dl compact="">
+Section<lf> <p>  1\.       Short title<lf> <p>  2\.       Approval of Agreement<lf> <p>                                 THE  SCHEDULE<lf> <p>                                   Agreement<lf> <p>                                ----------------<lf> </lf></p></lf></p></lf></p></lf></p></lf></p></lf>
+</lf></tt></tables>
+**<b>
 
-		This Act may be cited as the _Statistical Bureau (Tasmania) Act 1924_.
+### <name>STATISTICAL BUREAU (TASMANIA) ACT 1924 - LONG TITLE </name>
+</b>** 
 
- </dl>
-###  STATISTICAL BUREAU (TASMANIA) ACT 1924- SECT 2  Approval of Agreement 
-<dl compact="">
+## SECT
+<sect> An Act to approve an Agreement made between the Commonwealth of Australia and the State of Tasmania<lf> </lf></sect>
+**<b>
 
-		The Agreement made between the Commonwealth of Australia and the State of
+### <name>STATISTICAL BUREAU (TASMANIA) ACT 1924 - SECT 1 Short title </name>
+</b>** 
 
-Tasmania (a copy of which Agreement is set forth in the Schedule to this Act)
+## SECT
+<sect>   1\. This Act may be cited as the Statistical Bureau (Tasmania) Act 1924 .*1* 
 
-is approved.
+SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . 
+</sect>
+**<b>
 
- </dl>
-**
+### <name>STATISTICAL BUREAU (TASMANIA) ACT 1924 - SECT 2 Approval of Agreement </name>
+</b>** 
 
-###  STATISTICAL BUREAU (TASMANIA) ACT 1924The Schedule 
-**
+## SECT
+<sect>   2\. The Agreement made between the Commonwealth of Australia and the State of Tasmania (a copy of which Agreement is set forth in the Schedule to this Act) is approved. 
 
+                                ----------------<lf> </lf>
+</sect>
+**<b>
 
+### <name>STATISTICAL BUREAU (TASMANIA) ACT 1924 - SCHEDULE 1 </name>
+</b>** 
 
+## SCH
+<sch>                                  THE  SCHEDULE<lf>   THIS AGREEMENT made the twenty-fourth day of September One thousand nine<lf> hundred and twenty-four BETWEEN THE COMMONWEALTH OF AUSTRALIA (hereinafter<lf> called the "Commonwealth") of the one part and THE STATE OF TASMANIA<lf> (hereinafter called the "State") of the other part<lf>   WHEREAS the Commonwealth has agreed with the State that the Commonwealth<lf> Statistician shall compile and issue the Statistics hereinafter mentioned now<lf> being compiled and issued by the Statistical Bureau of the State<lf>   NOW IT IS HEREBY AGREED as follows:-<lf>   1\. (a) THE Commonwealth Statistician shall at the expense of the Commonwealth<lf> compile and issue in the form specified hereunder the following Statistics<lf> relating specially to Tasmania:-<lf> ------------------------------------------------------------------------------ -- <lf> Description of Statistics        Size                              How issued<lf> ------------------------------------------------------------------------------ -- <lf>        Trade, Interstate and<lf> Oversea  . . . . . . . . . .     Monthly summary Mimeographed<lf>        Trade, Interstate and<lf> Oversea  . . . . . . . . . .     Yearly review, about 20<lf>                                  pages foolscap                    Printed<lf> Stock and Crops  . . . . . .     Yearly review, about 30<lf>                                  pages foolscap                    Printed<lf> Crop Forecast  . . . . . . .     Twice yearly, about 4 pages<lf>                                  octavo                            Printed<lf> Vital Statistics . . . . . .     Monthly summary Mimeographed<lf> Demography . . . . . . . . .     Yearly, about 25 pages<lf>                                  foolscap                          Printed<lf> Pocket Year Book . . . . . .     Annual, about size of<lf>                                  Australian "Pocket<lf>                                  Compendium"                       Printed<lf> Milk Supply Towns  . . . . .     Annual Mimeographed<lf> ------------------------------------------------------------------------------ -- <lf>   (b)  The Commonwealth Statistician shall compile the statistics specified<lf> hereunder but such statistics shall not be printed unless the State has<lf> previously borne or agreed to bear the expense of such printing-<lf>   Friendly Society Statistics;<lf>   Local Government Statistics;<lf>   Social Statistics;<lf>   State Financial Statistics.<lf> 
 
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Description of Statistics</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Size</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>How issued</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Trade, Interstate and Oversea</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Monthly summary</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Mimeographed</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Trade, Interstate and Oversea</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Yearly review, about 20 pages foolscap</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Printed</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Stock and Crops</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Yearly review, about 30 pages foolscap</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Printed</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Crop Forecast</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Twice yearly, about 4 pages octavo</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Printed</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Vital Statistics</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Monthly summary</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Mimeographed</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Demography</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Yearly, about 25 pages foolscap</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Printed</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Pocket Year Book</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Annual, about size of Australian "Pocket Compendium"</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Printed</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Milk Supply Towns</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Annual</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Mimeographed</div>
-
-  </td>
-</tr>
-
-Back to Top
-
-
-
-
-
-
-
-Commonwealth Public Service Act 1922
-
-
-
-
-
-
-Commonwealth Public Service Act 1922
- 
-
-
-
-
-
-
-
-
-
-Back to Top
-
-
-
-Friendly Societies Act
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**
-
-###  STATISTICAL BUREAU (TASMANIA) ACT 1924Schedule&#151;Inventory of Furniture and Equipment referred to in Clause&#160;6 (a) (ii) 
-**
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Desks</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>5</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Mats</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>5</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Pigeon holes for desks</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>5</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Burroughs Adding Machine</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Chairs&#151;revolving</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>3</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Arithmometer</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Chairs&#151;other</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>7</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Duplicator, Cyclostyle</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Stools</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>2</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Typewriter</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Cupboards&#151;large</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>3</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Clocks</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>2</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Cupboards&#151;small (for Vital Cards)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Slide rules (Fuller)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>3</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Shelving&#151;movable</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>3 sets</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Tables&#151;ordinary</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>2</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Shelving&#151;pigeon hole small</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1 set</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Tables&#151;trestle</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Cabinet file&#151;4 drawer large</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>2</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Tables&#151;typewriter</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Cabinet file&#151;4 drawer small</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Baskets&#151;waste paper</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>1</div>
-
-  </td>
-</tr>
-**
-
-###  STATISTICAL BUREAU (TASMANIA) ACT 1924<centreit>Notes to the _Statistical Bureau (Tasmania) Act 1924_ </centreit>
-**
-Note 1
-
-
-
-
-
+  2\. THE Commonwealth undertakes that the Commonwealth Statistician shall supply <lf> information and make estimates and computations to meet the requirements of the<lf> Government of the State in the same way as the Statistician of the State has<lf> done in the past subject however to the approval of the Minister for Home and<lf> Territories of the Commonwealth in any particular case where the satisfaction of <lf> any such requirements would add substantially to the normal work of the<lf> Commonwealth Statistician or his staff.<lf> <p>  3\. (a) THE Commonwealth shall accept the transfer to the Public Service of the <lf> Commonwealth of each officer of the State who on the first day of October One<lf> thousand nine hundred and twenty-four was and at the date when this agreement<lf> comes into force is engaged in the Statistical Bureau of the State and is an<lf> officer of the permanent service of the State Provided that any officer who was<lf> at the establishment of the Commonwealth in the Public Service of the State<lf> shall not be so transferred unless he has previously agreed in writing with the<lf> Commonwealth that he may be retired from the Public Service of the Commonwealth<lf> under the provisions of the Commonwealth Public Service Act 1922*2*<lf> or any Statutory modification thereof:<lf>   (b)  Each officer so transferred-<lf>    (i)  shall be subject in all respects to the laws for the time being of the<lf>        Commonwealth regulating the Public Service; and<lf>          (ii)  shall on transfer receive salary at a rate equal to the rate of the<lf>        salary which he received in the service of the State immediately prior to his<lf>        transfer. Such salary shall not be reduced except in accordance with the laws<lf>        for the time being of the Commonwealth regulating the Public Service;<lf>          (c)  Each Junior Officer so transferred who is undergoing a course of<lf> technical training at an University in Tasmania under the present direction of<lf> the Statistician of the State shall after transfer (if he shall have agreed with <lf> the Commonwealth in writing to serve in the Public Service of the Commonwealth<lf> if required by the Commonwealth so to do for a period of not less than five<lf> years after graduation) receive from the Commonwealth from time to time a refund <lf> of the amount of University fees paid by him while completing his course under<lf> the direction of the Commonwealth Statistician or an equivalent of such fees in<lf> salary Provided that any such refund shall be made or equivalent salary paid<lf> only so long as the officer is making progress satisfactory to the Commonwealth<lf> Statistician;<lf>   (d)  Each officer so transferred shall be treated by the Commonwealth in all<lf> respects with regard to payment of gratuities in the same way as other officers<lf> transferred from the State to the Commonwealth are treated.<lf> <p>  4\. EACH officer temporarily employed in the Statistical Bureau of the State at <lf> the date when this agreement comes into force whom the Commonwealth shall be<lf> willing to employ shall be employed during good behaviour by the Commonwealth<lf> under exemption from the Commonwealth Public Service Act in the Tasmanian Office <lf> of the Commonwealth Statistician at a rate of salary approved by the Board of<lf> Commissioners appointed pursuant to the Commonwealth Public Service Act 1922<lf> .*2* Notwithstanding anything in this clause contained the<lf> employment of any officer employed by the Commonwealth under this clause may be<lf> determined by the Commonwealth at any time. No such temporary officer shall upon <lf> the termination of his employment have any right against the Commonwealth for<lf> compensation superannuation allowance or pension or in any other respect.<lf> <p>  5\. THE State undertakes to provide rent free for the Commonwealth Statistician <lf> the accommodation now provided for the Statistical Bureau of the State or an<lf> equivalent thereof in some convenient situation in Hobart until such time as the <lf> Commonwealth shall otherwise provide.<lf> <p>  6\. (a) THE State hereby transfers and assigns free of charge to the<lf> Commonwealth-<lf>    (i)  All books papers and Statistical Records in the charge of the<lf>        Statistician of the State and used by the Statistical Bureau of the State other<lf>        than the records of the registration of births, deaths and marriages;<lf>          (ii)  The furniture and equipment now used by the Statistician of the State as<lf>        set forth in the Schedule annexed hereto<lf>        to hold to the Commonwealth absolutely.<lf>  <p>         (b)  The State shall not be required to provide for renewals of or additions<lf> to such furniture or equipment.<lf> <p>  7\. THE State undertakes to make available to the Commonwealth Statistician the <lf> services of the Police of the State in connexion with the collection of<lf> Statistics in the same way as they have hitherto been available to the<lf> Statistician of the State.<lf> <p>  8\. THE Commonwealth agrees to pay all postage and freight in connexion with<lf> Statistics collected by the Police of the State under this Agreement and to<lf> refund out-of-pocket expenses incurred by Police Officers in the collection of<lf> these Statistics. The Commonwealth Statistician will communicate directly with<lf> the Commissioner of Police of the State in reference to this matter.<lf> <p>  9\. THE State may at its discretion appoint the Deputy Statistician of the<lf> Commonwealth for Tasmania to be Statistician of the State and as such to<lf> exercise the powers and to perform the duties hereinafter set forth of the<lf> Statistician of the State under the laws of the State namely-<lf>   (a)  To act as a member of the Board of the Police Provident Fund and of the<lf>        Troop-horse Fund;<lf>          (b)  To carry out duties in connexion with Friendly Societies under the<lf>        Friendly Societies Act 1888;<lf>          (c)  To give certificates of fact in accordance with the terms of various<lf>        other Statutes<lf>        but no additional duty shall be placed by Statute of the State upon the<lf> Statistician of the State without the consent of the Commonwealth.<lf> <p>  10\. THIS agreement shall have no force or effect and shall not be binding on<lf> either party unless and until it is approved by the Parliament of the<lf> Commonwealth and also by the Parliament of the State.<lf> <p>  11\. THIS Agreement shall commence and come into full force and effect upon the <lf> date upon which it shall have been approved by both the Parliament of the<lf> Commonwealth and the Parliament of the State.<lf> <p>  12\. IN this Agreement the term "Commonwealth Statistician" means the<lf> Commonwealth Statistician or the person for the time being performing the duties <lf> of the Commonwealth Statistician.<lf> <p>  AS WITNESS the hand and seal of the Minister for Home and Territories of the<lf> Commonwealth of Australia for and on behalf of the said Commonwealth and the<lf> hand and seal of the Premier of the State of Tasmania for and on behalf of the<lf> said State the day and year first above written.<lf> <p>SIGNED SEALED AND DELIVERED by the Minister of State for<lf> Home and Territoriesof the Commonwealth of Australia for<lf> and on behalf of the said Commonwealth in the presence<lf> of-                                                           G.  F. PEARCE(L.<lf> S.)<lf>    J.  G.  McLAREN<lf> SIGNED SEALED AND DELIVERED by the Premier of the State<lf> of Tasmania for and on behalf of the said State in the<lf> presence of-                                                   J.  A. LYONS(L.<lf> S.)<lf>    P.  J.  STRUTT<lf>                                     SCHEDULE<lf>    INVENTORY  OF  FURNITURE  AND  EQUIPMENT  REFERRED  TO  IN  CLAUSE  6 (a) (ii)<lf>   Desks  . . . . . . . . . . . .     5         Mats . . . . . . . . . . . . . 5<lf>   Pigeon holes for desks . . . .     5         Burroughs Adding Machine . . . 1<lf>   Chairs-revolving . . . . . . .     3         Arithmometer . . . . . . . . . 1<lf>   Chairs-other . . . . . . . . .     7         Duplicator, Cyclostyle . . . . 1<lf>   Stools . . . . . . . . . . . .     2         Typewriter . . . . . . . . . . 1<lf>   Cupboards-large  . . . . . . .     3         Clocks . . . . . . . . . . . . 2<lf>       Cupboards-small (for Vital<lf>   Cards) . . . . . . . . . . . .     1         Slide rules (Fuller) . . . . . 3<lf>   Shelving-movable . . . . . . .     3 sets    Tables-ordinary  . . . . . . . 2<lf>   Shelving-pigeon hole small . .     1 set     Tables-trestle . . . . . . . . 1<lf>   Cabinet file-4 drawer large  .     2         Tables-typewriter  . . . . . . 1<lf>   Cabinet file-4 drawer small  .     1         Baskets-waste paper  . . . . . 1<lf> ------------------------------------------------------------------------------ --<lf>    *2* The Schedule-Clauses 3 (a) and 4-Now cited as the Public Service Act 1922\. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
