@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00193/Html/EnvProtSeaDumping81_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00018/Html/EnvProtSeaDumping81_image001.gif)
 
 # Environment Protection (Sea Dumping) Act 1981
 
 **Act No. 101 of 1981 as amended**
 
-This compilation was prepared on 26 May 2009
- taking into account amendments up to Act No. 33 of 2009
+This compilation was prepared on 1 January 2007
+ taking into account amendments up to Act No. 165 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -18,97 +18,97 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Repeal
+[3](#3).            Repeal                                                                                                  1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       1
 
-[4A](#4A).         Application of Act in relation to certain waters that are subject to the Torres Strait Treaty
+[4A](#4A).         Application of Act in relation to certain waters that are subject to the Torres Strait Treaty 6
 
-[4B](#4B).         Application of Act in relation to certain waters that are subject to the Australia-Indonesia Delimitation Treaty
+[4B](#4B).         Application of Act in relation to certain waters that are subject to the Australia-Indonesia Delimitation Treaty 6
 
-[5](#5).            Exemption
+[5](#5).            Exemption                                                                                            8
 
-[6](#6).            Operation of Act
+[6](#6).            Operation of Act                                                                                 8
 
-[7](#7).            Exemption for defence force vessels etc 
+[7](#7).            Exemption for defence force vessels etc                                              8
 
-[8](#8).            Act to bind the Crown
+[8](#8).            Act to bind the Crown                                                                         8
 
-[8A](#8A).         _Criminal Code_ applies
+[8A](#8A).         _Criminal Code_ applies                                                                         9
 
-[9](#9).            Declaration by Minister in relation to coastal waters of State etc 
+[9](#9).            Declaration by Minister in relation to coastal waters of State etc      9
 
-[10A](#10A).       Dumping of controlled material
+[10A](#10A).       Dumping of controlled material                                                           9
 
-[10B](#10B).       Incineration of controlled material
+[10B](#10B).       Incineration of controlled material                                                     10
 
-[10C](#10C).       Loading for the purpose of dumping or incineration
+[10C](#10C).       Loading for the purpose of dumping or incineration                         10
 
-[10D](#10D).       Export for the purpose of dumping or incineration
+[10D](#10D).       Export for the purpose of dumping or incineration                           11
 
-[10E](#10E).        Placement of artificial reef
+[10E](#10E).        Placement of artificial reef                                                                 12
 
-[10F](#10F).        Offence by person responsible for offending craft or material
+[10F](#10F).        Offence by person responsible for offending craft or material          12
 
-[15](#15).          Exceptions to certain offences
+[15](#15).          Exceptions to certain offences                                                           13
 
-[16](#16).          Restoration of environment
+[16](#16).          Restoration of environment                                                               14
 
-[17](#17).          Liability for expenses incurred by the Commonwealth
+[17](#17).          Liability for expenses incurred by the Commonwealth                     14
 
-[18](#18).          Application for permit
+[18](#18).          Application for permit                                                                      17
 
-[19](#19).          Grant of permit
+[19](#19).          Grant of permit                                                                                  18
 
-[20](#20).          Suspension and revocation of permits
+[20](#20).          Suspension and revocation of permits                                               21
 
-[21](#21).          Conditions in respect of permits
+[21](#21).          Conditions in respect of permits                                                       21
 
-[23](#23).          Applications to Minister to vary operation of permits
+[23](#23).          Applications to Minister to vary operation of permits                    22
 
-[24](#24).          Applications for review
+[24](#24).          Applications for review                                                                     22
 
-[25](#25).          Matters to be published in _Gazette_
+[25](#25).          Matters to be published in _Gazette_                                                   23
 
-[26](#26).          Appointment of inspectors
+[26](#26).          Appointment of inspectors                                                               23
 
-[27](#27).          Inspectors ex officio
+[27](#27).          Inspectors ex officio                                                                          23
 
-[28](#28).          Identity cards
+[28](#28).          Identity cards                                                                                     23
 
-[29](#29).          Boarding of vessels etc  by inspectors
+[29](#29).          Boarding of vessels etc  by inspectors                                              24
 
-[30](#30).          Access to premises
+[30](#30).          Access to premises                                                                            26
 
-[30A](#30A).       Warrants may be granted by telephone or other electronic means
+[30A](#30A).       Warrants may be granted by telephone or other electronic means    27
 
-[31](#31).          Functions of inspector
+[31](#31).          Functions of inspector                                                                       28
 
-[32](#32).          Powers of arrest of inspectors
+[32](#32).          Powers of arrest of inspectors                                                           29
 
-[33](#33).          Injunction
+[33](#33).          Injunction                                                                                           30
 
-[34](#34).          Delegation
+[34](#34).          Delegation                                                                                          31
 
-[35](#35).          False statements
+[35](#35).          False statements                                                                                31
 
-[36](#36).          Compliance with conditions of permit
+[36](#36).          Compliance with conditions of permit                                              32
 
-[37](#37).          Indictable offences
+[37](#37).          Indictable offences                                                                             32
 
-[37A](#37A).       No time limit for prosecution
+[37A](#37A).       No time limit for prosecution                                                            33
 
-[38](#38).          Evidence
+[38](#38).          Evidence                                                                                             33
 
-[39](#39).          Evidence of analyst
+[39](#39).          Evidence of analyst                                                                            34
 
-[40](#40).          Fees
+[40](#40).          Fees                                                                                                    35
 
-[41](#41).           Regulations
+[41](#41).           Regulations                                                                                       36
 
 **Notes** 
 
@@ -210,7 +210,7 @@ Note:          Section 4A can affect the scope of the defini
 
                      (a)  a person appointed as an inspector under section 26; or
 
-                     (b)  a member of a police force, or an officer of Customs, who is an inspector by force of section 27.
+                     (b)  a member of a police force, or an officer of the Australian Customs Service, who is an inspector by force of section 27.
 
                     <a name="offending-craft"></a>**_offending craft_**, in relation to an offence against section 10F, means:
 
@@ -798,11 +798,11 @@ Note:          Under Subdivision A of Division 4 of Part 1
 
                      (a)  members of the Australian Federal Police or of the police force of a Territory; 
 
-                     (b)  officers of Customs.
+                     (b)  officers of the Australian Customs Service.
 
 ##### <a id="28"></a>28  Identity cards
 
-             (1)  The Minister may cause to be issued to an inspector, other than a member of a police force or an officer of Customs, an identity card in a form approved by the Minister.
+             (1)  The Minister may cause to be issued to an inspector, other than a member of a police force or an officer of the Australian Customs Service, an identity card in a form approved by the Minister.
 
              (2)  Where a person in possession of an identity card issued to him or her under subsection (1) ceases to be an inspector, he or she shall forthwith return the identity card to the Minister.
 
@@ -836,21 +836,21 @@ and, in the case of a vessel or aircraft, may, for that purpose, stop and detain
 
              (5)  An inspector may, for the purposes of this Act, require the person in charge of a vessel, aircraft or platform to which this section applies to give information concerning the vessel, aircraft or platform and her crew and any other person on board the vessel, aircraft or platform.
 
-             (6)  Where an inspector (other than a member of a police force, or officer of Customs, who is in uniform) boards a vessel, aircraft or platform to which this section applies, he or she shall:
+             (6)  Where an inspector (other than a member of a police force, or officer of the Australian Customs Service, who is in uniform) boards a vessel, aircraft or platform to which this section applies, he or she shall:
 
                      (a)  in the case of a member of a police force—produce, for inspection by the person in charge of that vessel, aircraft or platform, written evidence of the fact that he or she is a member of that police force; or
 
-                    (aa)  in the case of an officer of Customs—produce, for inspection by the person in charge of that vessel, aircraft or platform, written evidence of the fact that the officer is an officer of Customs; or
+                    (aa)  in the case of an officer of the Australian Customs Service—produce, for inspection by the person in charge of that vessel, aircraft or platform, written evidence of the fact that the officer is an officer of the Australian Customs Service; or
 
                      (b)  in any other case—produce his or her identity card for inspection by that person;
 
 and, if he or she fails to do so, he or she is not authorized to remain, or to require any person assisting him or her to remain, on board that vessel, aircraft or platform or to detain that vessel or aircraft.
 
-             (7)  Where an inspector (other than a member of a police force, or officer of Customs, who is in uniform) makes a requirement of a person under this section, the inspector shall:
+             (7)  Where an inspector (other than a member of a police force, or officer of the Australian Customs Service, who is in uniform) makes a requirement of a person under this section, the inspector shall:
 
                      (a)  in the case of a member of a police force—produce, for inspection by that person, written evidence of the fact that he or she is a member of that police force; or
 
-                    (aa)  in the case of an officer of Customs—produce, for inspection by that person, written evidence of the fact that the officer is an officer of Customs; or
+                    (aa)  in the case of an officer of the Australian Customs Service—produce, for inspection by that person, written evidence of the fact that the officer is an officer of the Australian Customs Service; or
 
                      (b)  in any other case—produce his or her identity card for inspection by that person;
 
@@ -966,11 +966,11 @@ the court must assume, unless the contrary is proved, that the exercise of power
 
                      (b)  proceedings against the person by summons would not be effective.
 
-             (2)  Where an inspector (other than a member of a police force, or officer of Customs, who is in uniform) arrests a person under subsection (1), the inspector shall:
+             (2)  Where an inspector (other than a member of a police force, or officer of the Australian Customs Service, who is in uniform) arrests a person under subsection (1), the inspector shall:
 
                      (a)  in the case of a member of a police force—produce, for inspection by that person, written evidence of the fact that he or she is a member of that police force; or
 
-                    (aa)  in the case of an officer of Customs—produce, for inspection by that person, written evidence of the fact that the officer is an officer of Customs; or
+                    (aa)  in the case of an officer of the Australian Customs Service—produce, for inspection by that person, written evidence of the fact that the officer is an officer of the Australian Customs Service; or
 
                      (b)  in any other case—produce his or her identity card for inspection by that person.
 
@@ -1213,7 +1213,7 @@ of Assent</div>
     <div>24 June 1981</div>
   </td>
   <td>
-    <div>6 Mar 1984 ( <i>see Gazette</i>1984, No. S85)</div>
+    <div>6 Mar 1984 ( <i>see Gazette</i>1984, No. S85)</div>
   </td>
   <td>
     <div></div>
@@ -1249,7 +1249,7 @@ of Assent</div>
   <td>
     <div>Ss. 11 and 13: 
 7 Dec 1988 
-Part 5 (ss. 14, 15): 11 May 1989 ( <i>see</i>s. 2(3) and <i>Gazette</i>1989, No. S164) 
+Part 5 (ss. 14, 15): 11 May 1989 ( <i>see</i> s. 2(3) and <i>Gazette</i>1989, No. S164) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1321,7 +1321,7 @@ Remainder: Royal Assent</div>
     <div>19 Jan 1995</div>
   </td>
   <td>
-    <div>S. 4(2)-(5)</div>
+    <div>Ss. 4(2)-(5)</div>
   </td>
 </tr>
 <tr>
@@ -1335,7 +1335,7 @@ Remainder: Royal Assent</div>
     <div>7 July 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 27-35): Royal Assent <i>(b)</i></div>
+    <div>Schedule 1 (items 27-35): Royal Assent <i>(b)</i></div>
   </td>
   <td>
     <div>Sch. 1 (item 30)</div>
@@ -1352,7 +1352,8 @@ Remainder: Royal Assent</div>
     <div>16 July 1999</div>
   </td>
   <td>
-    <div>Schedule 3 (items 38-40): 16 July 2000 <i>(c)</i></div>
+    <div>Schedule 3 (items 38-40): 16 July 2000 <i>(c)</i></div>
+    <div></div>
   </td>
   <td>
     <div>Sch. 3 (item 40)</div>
@@ -1372,7 +1373,7 @@ Remainder: Royal Assent</div>
     <div>16 Aug 2000</div>
   </td>
   <td>
-    <div>Ss. 4 and 5</div>
+    <div>Ss. 4, 5</div>
   </td>
 </tr>
 <tr>
@@ -1403,31 +1404,14 @@ Remainder: Royal Assent</div>
     <div>12 Dec 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 852, 853): 1 Jan 2007 ( <i>see</i>F2006L04046)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Customs Legislation Amendment (Name Change) Act 2009</div>
-  </td>
-  <td>
-    <div>33, 2009</div>
-  </td>
-  <td>
-    <div>22 May 2009</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 25–29): 23 May 2009</div>
+    <div>Schedule 1 (items 852, 853): 1 Jan 2007 ( <i>see</i>F2006L04046)</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_    The _Arts, Territories and Environment Legislation Amendment Act 1989_ was amended by Schedule 3 (item 3) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+_(a)_     The _Arts, Territories and Environment Legislation Amendment Act 1989_ was amended by Schedule 3 (item 3) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
@@ -1487,7 +1471,7 @@ _(d)_     The _Environment Protection (Sea Dumping) Act 1981_ was amende
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 141, 1986; No. 16, 1994; No. 118, 1997; No. 107, 2000; No. 165, 2006; No. 33, 2009</div>
+    <div>am. No. 141, 1986; No. 16, 1994; No. 118, 1997; No. 107, 2000; No. 165, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1772,18 +1756,10 @@ _(d)_     The _Environment Protection (Sea Dumping) Act 1981_ was amende
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 33, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 28, 29</div>
   </td>
   <td>
-    <div>am. No. 16, 1994; No. 118, 1997; No. 107, 2000; No. 33, 2009</div>
+    <div>am. No. 16, 1994; No. 118, 1997; No. 107, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1804,18 +1780,10 @@ _(d)_     The _Environment Protection (Sea Dumping) Act 1981_ was amende
 </tr>
 <tr>
   <td>
-    <div>S. 31</div>
+    <div>Ss. 31, 32</div>
   </td>
   <td>
     <div>am. No. 118, 1997; No. 107, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 118, 1997; No. 107, 2000; No. 33, 2009</div>
   </td>
 </tr>
 <tr>
