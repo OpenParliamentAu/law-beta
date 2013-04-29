@@ -1,1294 +1,241 @@
-![](http://www.comlaw.gov.au/Details/C2004C00306/Html/24DA580F3871247CCA25717D001CFD00/$FILE/Seas&amp;SubmergedLands_files/image001.gif)
+**<b>
 
-# Seas and Submerged Lands Act 1973
+### <center><name>SEAS AND SUBMERGED LANDS ACT 1973 - Updated as at 16 August 1994 (HISTACT CHAP 3426 #DATE 16:08:1994) </name></center>
+</b>** *1* The Seas and Submerged Lands Act 1973 as shown in this reprint comprises Act No. 161, 1973 amended as indicated in the Tables below.<lf>                                  Table of Act<lf>     Act             Date          Date of           Application<lf>     Number and      of assent     commencement      saving or<lf>     year                                            transitional<lf>                                                     provisions<lf>     Seas and Submerged Lands Act 1973<lf>     161, 1973       4 Dec 1973   4 Dec 1973<lf>     Seas and Submerged Lands Amendment Act 1980<lf>     79, 1980        29 May 1980  1 Jan 1982 (see Gazette<lf>                                  1981, No. G51)              -<lf>     Maritime Legislation Amendment Act 1994<lf>     20, 1994        15 Feb 1994  1 Aug 1994: (see Gazette<lf>                                  1994, No. S289)         S. 14<lf>                         Table of Amendments<lf>     ad=added or inserted am=amended rep=repealed rs=repealed and substituted<lf>     Provision affected                How affected<lf>     Title                             am. No. 20, 1994<lf>     Preamble                          am. No. 20, 1994<lf>     Ss. 3, 4                          am. No. 20, 1994<lf>     Heading to Part II                rs. No. 20, 1994<lf>     S. 7                              am. No. 20, 1994<lf>     Div. 1A of Part 2  (ss. 10A-10C)  ad. No. 20, 1994<lf>     Ss. 10A-10C                       ad. No. 20, 1994<lf>     S. 12                             am. No. 20, 1994<lf>     Div. 2A of Part 2 (ss. 13A-134C)  ad. No. 20, 1994<lf>     Ss. 13A-13C                       ad. No. 20, 1994<lf>     S.16                              am. No. 79, 1980<lf>     Schedules 1 and 2                 rep. No. 20, 1994<lf>     Schedule                          ad. No. 20, 1994<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
-**Act No. 161 of 1973 as amended**
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - TABLE OF PROVISIONS </name>
+</b>** 
 
-Consolidated as in force on 8 November 1999
+## TABLE
+<tables> <tt>                         TABLE OF PROVISIONS<lf> Section<lf>                       PART I - PRELIMINARY<lf>     1\.    Short title<lf>     2\.    Commencement<lf>     3\.    Interpretation<lf>     4\.    Extension to Territories<lf>     PART II - SOVEREIGNITY, SOVEREIGN RIGHTS AND RIGHTS OF CONTROL<lf>                Division 1 - The Territorial Sea<lf>     5\.    Interpretation<lf>     6\.    Sovereignty in respect of territorial sea<lf>     7\.    Limits of territorial sea<lf>     8\.    Declaration of historic bays and historic waters<lf>     9\.    Charts of limits of territorial sea<lf>    10\.    Sovereignty in respect of internal waters<lf>               Division 1A  - The Exclusive Economic Zone<lf>   10A.    Sovereign rights in respect of exclusive economic zone<lf>   10B.    Limits of exclusive economic zone<lf>   10C.    Charts of limits of exclusive economic zone<lf>               Division 2 - The Continental Shelf<lf>    11\.    Sovereign rights in respect of continental shelf<lf>    12\.    Limits of continental shelf<lf>    13\.    Charts of limits of continental shelf<lf>               Division 2A - The Contiguous Zone<lf>   13A.    Rights of control in respect of contiguous zone<lf>   13B.    Limits of contiguous zone<lf>   13C.    Charts of limits of contiguous zone<lf>               Division 3 - Savings<lf>    14\.    Part II does not affect waters etc. within State limits<lf>    15\.    Certain property not vested in Commonwealth<lf>    16\.    Saving of other laws<lf>                                SCHEDULE<lf>         PARTS II, V AND VI OF THE UNITED NATIONS CONVENTION<lf>                          ON THE LAW OF THE SEA<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-(includes amendments up to Act No. 20 of 1994)
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - LONG TITLE </name>
+</b>** 
 
-Prepared by the Office of Legislative Drafting,
-Attorney-General’s Department, 
-Canberra
+## SECT
+<sect>    An Act relating to Sovereignty in respect of certain Waters<lf>     of the Sea and in respect of the Airspace over, and the<lf>      Sea-bed and Subsoil beneath, those Waters and to Sovereign<lf>        Rights in respect of the Continental Shelf and the<lf>          Exclusive Economic Zone and to certain rights of<lf>             control in respect of the Contiguous Zone<lf> </lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - PREAMBLE </name>
+</b>** 
 
-# Contents
+## SECT
+<sect>   WHEREAS a belt of sea adjacent to the coast of Australia, known as the territorial sea, and the airspace over the territorial sea and the bed and subsoil of the territorial sea, are within the sovereignty of Australia: 
 
-**Part I—Preliminary**
+<lf>   AND WHEREAS Australia as a coastal state has:<lf>   (a) sovereign rights in respect of the waters, the sea-bed and the subsoil that constitute the exclusive economic zone of Australia for the purposes of:<lf>     (i) exploring the zone; and<lf>     (ii) exploiting, conserving and managing the natural resources of<lf> the zone; and<lf>   (b) sovereign rights with regard to other activities for the economic exploitation and exploration of the exclusive economic zone of Australia, such as the production of energy from water, currents and winds; and<lf>   (c) jurisdiction in accordance with international law in relation to:<lf>     (i) the establishment and use of artificial islands, installations<lf> and structures in the exclusive economic zone; and<lf>     (ii) marine scientific research in the exclusive economic zone; and<lf>     (iii) the protection and preservation of the marine environment in<lf> the exclusive economic zone; and<lf>   (d) other rights and duties in relation to the exclusive economic zone provided for in the United Nations Convention on the Law of the Sea: <p><lf>   AND WHEREAS Australia as a coastal state has sovereign rights in respect of the continental shelf (that is to say, the sea-bed and subsoil of certain submarine areas adjacent to its coast but outside the area of the territorial sea) for the purpose of exploring it and exploiting its natural resources: <p><lf>   AND WHEREAS Australia as a coastal state has the right under international law to exercise control within a contiguous zone to:<lf>   (a) prevent infringements of customs, fiscal, immigration or sanitary laws within Australia or the territorial sea of Australia;<lf>   (b) to punish infringements of those laws:<lf> BE IT THEREFORE ENACTED by the Queen, the Senate and the House of Representatives of Australia, as follows:<lf> </lf></lf></lf></lf></lf></p></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</sect>
+**<b>
 
-[1](#1).            Short title [_see_ Note 1]                                                                        2
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - PART I  PART I PRELIMINARY </name>
+</b>** 
+**<b>
 
-[2](#2).            Commencement [_see_ Note 1]                                                               2
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 1 Short title </name>
+</b>** 
 
-[3](#3).            Interpretation                                                                                       2
+## SECT
+<sect>   1\. This Act may be cited as the Seas and Submerged Lands Act 1973.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
-[4](#4).            Extension to Territories                                                                       3
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 2 Commencement </name>
+</b>** 
 
-**Part II—Sovereignty, sovereign rights and rights of control** 
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
-    **Division 1—The territorial sea**
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 3 Interpretation </name>
+</b>** 
 
-[5](#5).            Interpretation                                                                                       4
+## SECT
+<sect>   3\. (1) In this Act, unless the contrary intention appears:<lf>   "Australia" includes the Territories to which this Act extends;<lf>   "contiguous zone" has the same meaning as in Article 33 of the Convention;<lf>   "continental shelf" has the same meaning as in paragraph 1 of Article 76 of the Convention;<lf>   "exclusive economic zone" has the same meaning as in Articles 55 and 57 of the Convention;<lf>   "territorial sea" has the same meaning as in Articles 3 and 4 of the Convention;<lf>   "the Convention" means the United Nations Convention on the Law of the Sea done at Montego Bay on 10 December 1982 (Parts II, V and VI of which are set out in the Schedule). 
 
-[6](#6).            Sovereignty in respect of territorial sea                                               4
+<lf>   (2) In this Act, including section 6, a reference to the territorial sea of Australia is a reference to that territorial sea so far as it extends from time to time. <p><lf>   (2A) In this Act, including section 10A, a reference to the exclusive economic zone of Australia is a reference to that zone so far as it extends from time to time. <p><lf>   (3) In this Act, including section 11, a reference to the continental shelf of Australia is a reference to that continental shelf so far as it extends from time to time. <p><lf>   (3A) In this Act, including section 13A, a reference to the contiguous zone of Australia is a reference to that zone so far as it extends from time to time. <p><lf>   (4) Where a Proclamation is in force under section 7, the territorial sea of Australia shall, for all purposes of this Act, be taken to extend to the limits declared by that Proclamation. <p><lf>   (4A) If a Proclamation is in force under section 10B, the exclusive economic zone of Australia is taken, for all purposes of this Act, to extend to the limits declared by that Proclamation. <p><lf>   (5) Where a Proclamation is in force under section 12, the continental shelf of Australia shall, for all purposes of this Act, be taken to extend to the limits declared by that Proclamation. <p><lf>   (5A) If a Proclamation is in force under section 13B, the contiguous zone of Australia is taken, for all purposes of this Act, to extend to the limits declared by that Proclamation. </lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf>
+</lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-[7](#7).            Limits of territorial sea [_see_ Note 2]                                                    4
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 4 Extension to Territories </name>
+</b>** 
 
-[8](#8).            Declaration of historic bays and historic waters                                 4
+## SECT
+<sect>   4\. This Act extends to all the Territories. </sect>
+**<b>
 
-[9](#9).            Charts of limits of territorial sea                                                          5
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - PART II  PART II - SOVEREIGNTY, SOVEREIGN RIGHTS AND RIGHTS OF CONTROL </name>
+</b>** 
+**<b>
 
-[10](#10).          Sovereignty in respect of internal waters                                            5
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - DIVISION 1  Division 1 - The Territorial Sea </name>
+</b>** 
+**<b>
 
-    **Division 1A—The exclusive economic zone**
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 5 Interpretation </name>
+</b>** 
 
-[10A](#10A).       Sovereign rights in respect of exclusive economic zone                       6
+## SECT
+<sect>   5\. In this Division, "the territorial sea" means the territorial sea of Australia. </sect>
+**<b>
 
-[10B](#10B).       Limits of exclusive economic zone                                                      6
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 6 Sovereignty in respect of territorial sea </name>
+</b>** 
 
-[10C](#10C).       Charts of limits of exclusive economic zone                                        6
+## SECT
+<sect>   6\. It is by this Act declared and enacted that the sovereignty in respect of the territorial sea, and in respect of the airspace over it and in respect of its bed and subsoil, is vested in and exercisable by the Crown in right of the Commonwealth. </sect>
+**<b>
 
-    **Division 2—The continental shelf**
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 7 Limits of territorial sea </name>
+</b>** 
 
-[11](#11).          Sovereign rights in respect of continental shelf                                   7
+## SECT
+<sect>   7\. *2* (1) The Governor-General may, from time to time, by Proclamation, declare, not inconsistently with Section 2 of Part II of the Convention, the limits of the whole or of any part of the territorial sea. 
 
-[12](#12).          Limits of continental shelf                                                                   7
+<lf>   (2) For the purposes of such a Proclamation, the Governor-General may, in particular, determine either or both of the following:<lf>   (a) the breadth of the territorial sea;<lf>   (b) the baseline from which the breadth of the territorial sea, or of any part of the territorial sea, is to be measured. *2* Proclamations made under section 7 of the Seas and Submerged Lands Act 1973 provide as follows:<lf>   "The territorial sea of Australia is measured from baselines established by Proclamations under section 7 of the Seas and Submerged Lands Act 1973\.  These Proclamations are found in Gazette No. S 29, Wednesday, 9 February 1983 and Gazette No. S 57, Tuesday, 31 March 1987\.  The outer limit of the territorial sea is 12 nautical miles seaward of that baseline (see Proclamation in Gazette No. S 297, Tuesday, 13 November 1990)." </lf></lf></lf></lf>
+</sect>
+**<b>
 
-[13](#13).          Charts of limits of continental shelf                                                    7
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 8 Declaration of historic bays and historic waters </name>
+</b>** 
 
-    **Division 2A—The contiguous zone**
+## SECT
+<sect>   8\. Where the Governor-General is satisfied:<lf>   (a) that a bay is an historic bay, he may, by Proclamation, declare that bay to be an historic bay and shall, by the same or another Proclamation, define the sea-ward limits of that bay; or<lf>   (b) that waters are historic waters, he may, by Proclamation, declare those waters to be historic waters and shall, by the same or another Proclamation, define the limits of those waters. </lf></lf></sect>
+**<b>
 
-[13A](#13A).       Rights of control in respect of contiguous zone                                  8
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 9 Charts of limits of territorial sea </name>
+</b>** 
 
-[13B](#13B).       Limits of contiguous zone                                                                   8
+## SECT
+<sect>   9\. (1) The Minister may cause to be prepared and issued such charts as he thinks fit showing any matter relating to the limits of the territorial sea. 
 
-[13C](#13C).       Charts of limits of contiguous zone                                                     8
+<lf>   (2) In particular, the Minister may cause to be prepared and issued large-scale charts showing the low-water line along the coast and may cause to be shown on such a chart any other matter referred to in subsection (1). <p><lf>   (3) The mere production of a copy of a paper purporting to be certified by the Minister to be a true copy of a chart prepared under this section is prima facie evidence of any matter shown on the chart relating to the limits of the territorial sea. </lf></p></lf>
+</sect>
+**<b>
 
-    **Division 3—Savings**
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 10 Sovereignty in respect of internal waters </name>
+</b>** 
 
-[14](#14).          Part II does not affect waters etc  within State limits                         9
+## SECT
+<sect>   10\. It is by this Act declared and enacted that the sovereignty in respect of the internal waters of Australia (that is to say, any waters of the sea on the landward side of the baseline of the territorial sea) so far as they extend from time to time, and in respect of the airspace over those waters and in respect of the sea-bed and subsoil beneath those waters, is vested in and exercisable by the Crown in right of the Commonwealth. </sect>
+**<b>
 
-[15](#15).          Certain property not vested in Commonwealth                                  9
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - DIVISION 1A  Division 1A - The Exclusive Economic Zone </name>
+</b>** 
+**<b>
 
-[16](#16).          Saving of other laws                                                                             9
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 10A Sovereign rights in respect of exclusive economic zone </name>
+</b>** 
 
-**Schedule—Parts II, V and VI of the United Nations Convention on the Law of the Sea** 
+## SECT
+<sect>   10A. It is declared and enacted that the rights and jurisdiction of Australia in its exclusive economic zone are vested in and exercisable by the Crown in right of the Commonwealth. </sect>
+**<b>
 
-**Notes** 
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 10B Limits of exclusive economic zone </name>
+</b>** 
 
+## SECT
+<sect>   10B. The Governor-General may, from time to time, by Proclamation declare, not inconsistently with:<lf>   (a) Article 55 or 57 of the Convention; or<lf>   (b) any relevant international agreement to which Australia is a party;<lf> the limits of the whole or of any part of the exclusive economic zone of Australia. </lf></lf></lf></sect>
+**<b>
 
-## An Act relating to Sovereignty in respect of certain Waters of the Sea and in respect of the Airspace over, and the Sea-bed and Subsoil beneath, those Waters and to Sovereign Rights in respect of the Continental Shelf and the Exclusive Economic Zone and to certain rights of control in respect of the Contiguous Zone
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 10C Charts of limits of exclusive economic zone </name>
+</b>** 
 
-Preamble
+## SECT
+<sect>   10C. (1) The Minister may cause to be prepared such charts as he or she thinks fit showing any matter relating to the limits of the exclusive economic zone of Australia. 
 
-WHEREAS a belt of sea adjacent to the coast of Australia, known as the territorial sea, and the airspace over the territorial sea and the bed and subsoil of the territorial sea, are within the sovereignty of Australia:
+<lf>   (2) The mere production of a copy of a paper purporting to be certified by the Minister to be a true copy of such a chart is prima facie evidence of any matter shown on the chart relating to the limits of the exclusive economic zone of Australia. </lf>
+</sect>
+**<b>
 
-AND WHEREAS Australia as a coastal state has:
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - DIVISION 2  Division 2 - The Continental Shelf </name>
+</b>** 
+**<b>
 
-        (a)   sovereign rights in respect of the waters, the sea-bed and the subsoil that constitute the exclusive economic zone of Australia for the purposes of:
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 11 Sovereign rights in respect of continental shelf </name>
+</b>** 
 
-           (i)  exploring the zone; and
+## SECT
+<sect>   11\. It is by this Act declared and enacted that the sovereign rights of Australia as a coastal State in respect of the continental shelf of Australia, for the purpose of exploring it and exploiting its natural resources, are vested in and exercisable by the Crown in right of the Commonwealth. </sect>
+**<b>
 
-          (ii)  exploiting, conserving and managing the natural resources of the zone; and
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 12 Limits of continental shelf </name>
+</b>** 
 
-        (b)   sovereign rights with regard to other activities for the economic exploitation and exploration of the exclusive economic zone of Australia, such as the production of energy from water, currents and winds; and
+## SECT
+<sect>   12\. The Governor-General may, from time to time by Proclamation, declare, not inconsistently with Article 76 of the Convention or any relevant international agreement to which Australia is a party, the limits of the whole or any part of the continental shelf of Australia. </sect>
+**<b>
 
-        (c)   jurisdiction in accordance with international law in relation to:
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 13 Charts of limits of continental shelf </name>
+</b>** 
 
-                (i)  the establishment and use of artificial islands, installations and structures in the exclusive economic zone; and
+## SECT
+<sect>   13\. (1) The Minister may cause to be prepared and issued such charts as he thinks fit showing any matter relating to the limits of the continental shelf of Australia. 
 
-               (ii)  marine scientific research in the exclusive economic zone; and
+<lf>   (2) The mere production of a copy of a paper purporting to be certified by the Minister to be a true copy of a chart prepared under this section is prima facie evidence of any matter shown on the chart relating to the limits of the continental shelf of Australia. </lf>
+</sect>
+**<b>
 
-              (iii)  the protection and preservation of the marine environment in the exclusive economic zone; and
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - DIVISION 2A  Division 2A - The Contiguous Zone </name>
+</b>** 
+**<b>
 
-        (d)   other rights and duties in relation to the exclusive economic zone provided for in the United Nations Convention on the Law of the Sea:
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 13A Rights of control in respect of contiguous zone </name>
+</b>** 
 
-AND WHEREAS Australia as a coastal state has sovereign rights in respect of the continental shelf (that is to say, the sea-bed and subsoil of certain submarine areas adjacent to its coast but outside the area of the territorial sea) for the purpose of exploring it and exploiting its natural resources:
+## SECT
+<sect>   13A. It is declared and enacted that Australia has a contiguous zone. Note:The rights of control that Australia, as a coastal state, has in respect of the contiguous zone of Australia are exercisable in accordance with applicable Commonwealth, State and Territory laws. </sect>
+**<b>
 
-AND WHEREAS Australia as a coastal state has the right under international law to exercise control within a contiguous zone to:
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 13B Limits of contiguous zone </name>
+</b>** 
 
-        (a)   prevent infringements of customs, fiscal, immigration or sanitary laws within Australia or the territorial sea of Australia;
+## SECT
+<sect>   13B. The Governor-General may, from time to time, by Proclamation declare, not inconsistently with:<lf>   (a) Section 4 of Part II of the Convention; or<lf>   (b) any relevant international agreement to which Australia is a party;<lf> the limits of the whole or of any part of the contiguous zone of Australia. </lf></lf></lf></sect>
+**<b>
 
-        (b)   to punish infringements of those laws:
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 13C Charts of limits of contiguous zone </name>
+</b>** 
 
-BE IT THEREFORE ENACTED by the Queen, the Senate and the House of Representatives of Australia, as follows:
+## SECT
+<sect>   13C. (1) The Minister may cause to be prepared such charts as he or she thinks fit showing any matter relating to the limits of the contiguous zone of Australia. 
 
-## Part I—Preliminary
+<lf>   (2) The mere production of a copy of a paper purporting to be certified by the Minister to be a true copy of such a chart is prima facie evidence of any matter shown on the chart relating to the limits of the contiguous zone of Australia. </lf>
+</sect>
+**<b>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - DIVISION 3  Division 3 - Savings </name>
+</b>** 
+**<b>
 
-                   This Act may be cited as the _Seas and Submerged Lands Act 197_ 3.
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 14 Part II does not affect waters etc. within State limits </name>
+</b>** 
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+## SECT
+<sect>   14\. Nothing in this Part affects sovereignty or sovereign rights in respect of any waters of the sea that are waters of or within any bay, gulf, estuary, river, creek, inlet, port or harbour and:<lf>   (a) were, on 1st January, 1901, within the limits of a State; and<lf>   (b) remain within the limits of the State;<lf> or in respect of the airspace over, or in respect of the sea-bed or subsoil beneath, any such waters. </lf></lf></lf></sect>
+**<b>
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 15 Certain property not vested in Commonwealth </name>
+</b>** 
 
-##### <a id="3"></a>3  Interpretation
+## SECT
+<sect>   15\. Nothing in this Part shall be taken to vest in the Crown in right of the Commonwealth any wharf, jetty, pier, breakwater, building, platform, pipeline, lighthouse, beacon, navigational aid, buoy, cable or other structure or works. </sect>
+**<b>
 
-             (1)  In this Act, unless the contrary intention appears:
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SECT 16 Saving of other laws </name>
+</b>** 
 
-                    <a name="australia"></a>**_Australia_** includes the Territories to which this Act extends.
+## SECT
+<sect>   16\. (1) The preceding provisions of this Part:<lf>   (a) do not limit or exclude the operation of any law of the Commonwealth or of a Territory, other than the Northern Territory, in force at the date of commencement of this Act or coming into force after that date; and<lf>   (b) do not limit or exclude the operation of any law of a State or of the Northern Territory in force at the date of commencement of this Act or coming into force after that date, except in so far as the law is expressed to vest or make exercisable any sovereignty or sovereign rights otherwise than as provided by the preceding provisions of this Part. 
 
-                    <a name="contigu-zone"></a>**_contiguous zone_** has the same meaning as in Article 33 of the Convention.
+<lf>   (2) A law of a State or of the Northern Territory shall not be taken to be within the words of exception in paragraph (b) of subsection (1):<lf>   (a) by reason that the law makes provision with respect to, or touching or concerning, any sea-bed or subsoil that is declared by Division 1 to be within the sovereign of the Crown in right of the Commonwealth, or the living or non-living resources of any such sea-bed or subsoil, if proprietary rights in respect of that sea-bed or subsoil have become vested in the Crown in right of the State or of the Northern Territory, as the case may be, by or under a law of the Commonwealth; or<lf>   (b) by reason that the law makes provision with respect to, or touching or concerning, any sea-bed or subsoil referred to in Division 1 or Division 2 but in respect of which paragraph (a) does not apply, or the living or non-living resources of any such sea-bed or subsoil, if the law is otherwise within powers with respect to particular matters that are conferred on the legislature of the State or of the Northern Territory, as the case may be, by the Coastal Waters (State Powers) Act 1980 or the Coastal Waters (Northern Territory Powers) Act 1980\. </lf></lf></lf>
+</lf></lf></sect>
+**<b>
 
-                    <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in paragraph 1 of Article 76 of the Convention.
+### <name>SEAS AND SUBMERGED LANDS ACT 1973 - SCHEDULE 1 </name>
+</b>** 
 
-                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_** has the same meaning as in Articles 55 and 57 of the Convention.
+## SCH
+<sch>                                 SCHEDULE            Subsection 3 (1)<lf>                                     (definition of "the Convention")<lf>        PARTS II, V AND VI OF THE UNITED NATIONS CONVENTION<lf>                       ON THE LAW OF THE SEA<lf>            PART II TERRITORIAL SEA AND CONTIGUOUS ZONE<lf>                   SECTION 1\. GENERAL PROVISIONS<lf>                            Article 2<lf>     Legal status of the territorial sea, of the air space over the<lf>               territorial sea and of its bed and subsoil<lf> 1\. The sovereignty of a coastal State extends, beyond its land<lf> territory and internal waters and, in the case of an archipelagic<lf> State, its archipelagic waters, to an adjacent belt of sea, described<lf> as the territorial sea.<lf> 2\. This sovereignty extends to the air space over the territorial sea<lf> as well as to its bed and subsoil.<lf> 3\. The sovereignty over the territorial sea is exercised subject to<lf> this Convention and to other rules of international law.<lf>               SECTION 2\. LIMITS OF THE TERRITORIAL SEA<lf>                            Article 3<lf>                    Breadth of the territorial sea<lf> Every State has the right to establish the breadth of its territorial<lf> sea up to a limit not exceeding 12 nautical miles, measured from<lf> baselines determined in accordance with this Convention.<lf>                              Article 4<lf>                   Outer limit of the territorial sea<lf> The outer limit of the territorial sea is the line every point of which<lf> is at a distance from the nearest point of the baseline equal to the<lf> breadth of the territorial sea.<lf>                              Article 5<lf>                           Normal baseline<lf> Except where otherwise provided in this Convention, the normal baseline<lf> for measuring the breadth of the territorial sea is the low-water line<lf> along the coast as marked on large-scale charts officially recognized<lf> by the coastal State.<lf>                              Article 6<lf>                                Reefs<lf> In the case of islands situated on atolls or of islands having fringing<lf> reefs, the baseline for measuring the breadth of the territorial sea is<lf> the seaward low-water line of the reef, as shown by the appropriate<lf> symbol on charts officially recognized by the coastal State.<lf>                              Article 7<lf>                          Straight baselines<lf> 1\. In localities where the coastline is deeply indented and cut into,<lf> or if there is a fringe of islands along the coast in its immediate<lf> vicinity, the method of straight baselines joining appropriate points<lf> may be employed in drawing the baseline from which the breadth of the<lf> territorial sea is measured.<lf> 2\. Where because of the presence of a delta and other natural<lf> conditions the coastline is highly unstable, the appropriate points may<lf> be selected along the furthest seaward extent of the low-water line<lf> and, notwithstanding subsequent regression of the low-water line, the<lf> straight baselines shall remain effective until changed by the coastal<lf> State in accordance with this Convention.<lf> 3\. The drawing of straight baselines must not depart to any appreciable<lf> extent from the general direction of the coast, and the sea areas lying<lf> within the lines must be sufficiently closely linked to the land domain<lf> to be subject to the regime of internal waters.<lf> 4\. Straight baselines shall not be drawn to and from low-tide<lf> elevations, unless lighthouses or similar installations which are<lf> permanently above sea level have been built on them or except in<lf> instances where the drawing of baselines to and from such elevations<lf> has received general international recognition.<lf> 5\. Where the method of straight baselines is applicable under paragraph<lf> 1, account may be taken, in determining particular baselines, of<lf> economic interests peculiar to the region concerned, the reality and<lf> the importance of which are clearly evidenced by long usage.<lf> 6\. The system of straight baselines may not be applied by a State in<lf> such a manner as to cut off the territorial sea of another State from<lf> the high seas or an exclusive economic zone.<lf>                              Article 8<lf>                           Internal waters<lf> 1\. Except as provided in Part IV, waters on the landward side of the<lf> baseline of the territorial sea form part of the internal waters of the<lf> State.<lf> 2\. Where the establishment of a straight baseline in accordance with<lf> the method set forth in article 7 has the effect of enclosing as<lf> internal water areas which had not previously been considered as such,<lf> a right of innocent passage as provided in this Convention shall exist<lf> in those waters.<lf>                              Article 9<lf>                           Mouths of rivers<lf> If a river flows directly into the sea, the baseline shall be a<lf> straight line across the mouth of the river between points on the<lf> low-water line of its banks.<lf>                              Article 10<lf>                                 Bays<lf> 1\. This article relates only to bays the coasts of which belong to a<lf> single State.<lf> 2\. For the purposes of this Convention, a bay is a well-marked<lf> indentation whose penetration is in such proportion to the width of its<lf> mouth as to contain land-locked waters and constitute more than a mere<lf> curvature of the coast. An indentation shall not, however, be regarded<lf> as a bay unless its area is as large as, or larger than, that of the<lf> semi-circle whose diameter is a line drawn across the mouth of that<lf> indentation.<lf> 3\. For the purpose of measurement, the area of an indentation is that<lf> lying between the low-water mark around the shore of the indentation<lf> and a line joining the low-water mark of its natural entrance points.<lf> Where, because of the presence of islands, an indentation has more than<lf> one mouth, the semi-circle shall be drawn on a line as long as the sum<lf> total of the lengths of the lines across the different mouths. Islands<lf> within an indentation shall be included as if they were part of the<lf> water area of the indentation.<lf> 4\. If the distance between the low-water marks of the natural entrance<lf> points of a bay does not exceed 24 nautical miles, a closing line may<lf> be drawn between these two low-water marks, and the waters enclosed<lf> thereby shall be considered as internal waters.<lf> 5\. Where the distance between the low-water marks of the natural<lf> entrance points of a bay exceeds 24 nautical miles, a straight baseline<lf> of 24 nautical miles shall be drawn within the bay in such a manner as<lf> to enclose the maximum area of water that is possible with a line of<lf> that length.<lf> 6\. The foregoing provisions do not apply to so-called "historic" bays,<lf> or in any case where the system of straight baselines provided for in<lf> article 7 is applied.<lf>                              Article 11<lf>                                 Ports<lf> For the purpose of delimiting the territorial sea, the outermost<lf> permanent harbour works which form an integral part of the harbour<lf> system are regarded as forming part of the coast. Off-shore<lf> installations and artificial islands shall not be considered as<lf> permanent harbour works.<lf>                              Article 12<lf>                              Roadsteads<lf> Roadsteads which are normally used for the loading, unloading and<lf> anchoring of ships, and which would otherwise be situated wholly or<lf> partly outside the outer limit of the territorial sea, are included in<lf> the territorial sea.<lf>                              Article 13<lf>                          Low-tide elevations<lf> 1\. A low-tide elevation is a naturally formed area of land which is<lf> surrounded by and above water at low tide but submerged at high tide.<lf> Where a low-tide elevation is situated wholly or partly at a distance<lf> not exceeding the breadth of the territorial sea from the mainland or<lf> an island, the low-water line on that elevation may be used as the<lf> baseline for measuring the breadth of the territorial sea.<lf> 2\. Where a low-tide elevation is wholly situated at a distance<lf> exceeding the breadth of the territorial sea from the mainland or an<lf> island, it has no territorial sea of its own.<lf>                              Article 14<lf>           Combination of methods for determining baselines<lf> The coastal State may determine baselines in turn by any of the methods<lf> provided for in the foregoing articles to suit different conditions.<lf>                              Article 15<lf>        Delimitation of the territorial sea between States with<lf>                     opposite or adjacent coasts<lf> Where the coasts of two States are opposite or adjacent to each other,<lf> neither of the two States is entitled, failing agreement between them<lf> to the contrary, to extend its territorial sea beyond the median line<lf> every point of which is equidistant from the nearest points on the<lf> baselines from which the breadth of the territorial seas of each of the<lf> two States is measured. The above provision does not apply, however,<lf> where it is necessary by reason of historic title or other special<lf> circumstances to delimit the territorial seas of the two States in a<lf> way in which is at variance therewith.<lf>                              Article 16<lf>            Charts and lists of geographical co-ordinates<lf> 1\. The baselines for measuring the breadth of the territorial sea<lf> determined in accordance with articles 7, 9 and 10, or the limits<lf> derived therefrom, and the lires of delimitation drawn in accordance<lf> with articles 12 and 15 shall be shown on charts of a scale or scales<lf> adequate for ascertaining their position. Alternatively, a list of<lf> geographical co-ordinates of points, specifying the geodetic datum, may<lf> be substituted.<lf> 2\. The coastal State shall give due publicity to such charts or lists<lf> of geographical co-ordinates and shall deposit a copy of each such<lf> chart or list with the Secretary-General of the United Nations.<lf>                               SECTION 3.<lf>             INNOCENT PASSAGE IN THE TERRITORIAL SEA<lf>           SUBSECTION A. RULES APPLICABLE TO ALL SHIPS<lf>                              Article 17<lf>                      Right of innocent passage<lf> Subject to this Convention, ships of all States, whether coastal or<lf> land-locked, enjoy the right of innocent passage through the<lf> territorial sea.<lf>                              Article 18<lf>                          Meaning of passage<lf> 1\. Passage means navigation through the territorial sea for the purpose<lf> of:<lf> (a) traversing that sea without entering internal waters or calling at<lf> a roadstead or port facility outside internal waters; or<lf> (b) proceeding to or from internal waters or a call at such roadstead<lf> or port facility.<lf> 2\. Passage shall be continuous and expeditious. However, passage<lf> includes stopping and anchoring, but only in so far as the same are<lf> incidental to ordinary navigation or are rendered necessary by force<lf> majeure or distress or for the purpose of rendering assistance to<lf> persons, ships or aircraft in danger or distress.<lf>                              Article 19<lf>                      Meaning of innocent passage<lf> 1\. Passage is innocent so long as it is not prejudicial to the peace,<lf> good order or security of the coastal State. Such passage shall take<lf> place in conformity with this Convention and with other rules of<lf> international law.<lf> 2\. Passage of a foreign ship shall be considered to be prejudicial to<lf> the peace, good order or security of the coastal State if in the<lf> territorial sea it engages in any of the following activities:<lf> (a) any threat or use of force against the sovereignty, territorial<lf> integrity or political independence of the coastal State, or in any<lf> other manner in violation of the principles of international law<lf> embodied in the Charter of the United Nations;<lf> (b) any exercise or practice with weapons of any kind;<lf> (c) any act aimed at collecting information to the prejudice of the<lf> defence or security of the coastal State;<lf> (d) any act or propaganda aimed at affecting the defence or security of<lf> the coastal State;<lf> (e) the launching, landing or taking on board of any aircraft;<lf> (f) the launching, landing or taking on board of any military device;<lf> (g) the loading or unloading of any commodity, currency or person<lf> contrary to the customs, fiscal, immigration or sanitary laws and<lf> regulations of the coastal State;<lf> (h) any act of wilful and serious pollution contrary to this<lf> Convention;<lf> (i) any fishing activities;<lf> (j) the carrying out of research or survey activities;<lf> (k) any act aimed at interfering with any systems of communication or<lf> any other facilities or installations of the coastal State;<lf> (l) any other activity not having a direct bearing on passage.<lf>                              Article 20<lf>               Submarines and other underwater vehicles<lf> In the territorial sea, submarines and other underwater vehicles are<lf> required to navigate on the surface and to show their flag.<lf>                              Article 21<lf>               Laws and regulations of the coastal State<lf>                      relating to innocent passage<lf> 1\. The coastal State may adopt laws and regulations, in conformity with<lf> the provisions of this Convention and other rules of international law,<lf> relating to innocent passage through the territorial sea, in respect of<lf> all or any of the following:<lf> (a) the safety of navigation and the regulation of maritime traffic;<lf> (b) the protection of navigational aids and facilities and other<lf> facilities or installations;<lf> (c) the protection of cables and pipelines;<lf> (d) the conservation of the living resources of the sea;<lf> (e) the prevention of infringement of the fisheries laws and<lf> regulations of the coastal State;<lf> (f) the preservation of the environment of the coastal State and the<lf> prevention, reduction and control of pollution thereof;<lf> (g) marine scientific research and hydrographic surveys;<lf> (h) the prevention of infringement of the customs, fiscal, immigration<lf> or sanitary laws and regulations of the coastal State.<lf> 2\. Such laws and regulations shall not apply to the design,<lf> construction, manning or equipment of foreign ships unless they are<lf> giving effect to generally accepted international rules or standards.<lf> 3\. The coastal State shall give due publicity to all such laws and<lf> regulations.<lf> 4\. Foreign ships exercising the right of innocent passage through the<lf> territorial sea shall comply with all such laws and regulations and all<lf> generally accepted international regulations relating to the<lf> prevention of collisions at sea.<lf>                              Article 22<lf>             Sea lanes and traffic separation schemes in<lf>                         the territorial sea<lf> 1\. The coastal State may, where necessary having regard to the safety<lf> of navigation, require foreign ships exercising the right of innocent<lf> passage through its territorial sea to use such sea lanes and traffic<lf> separation schemes as it may designate or prescribe for the regulation<lf> of the passage of ships.<lf> 2\. In particular, tankers, nuclear-powered ships and ships carrying<lf> nuclear or other inherently dangerous or noxious substances or<lf> materials may be required to confine their passage to such sea lanes.<lf> 3\. In the designation of sea lanes and the prescription of traffic<lf> separation schemes under this article, the coastal State shall take<lf> into account:<lf> (a) the recommendations of the competent international organization;<lf> (b) any channels customarily used for international navigation;<lf> (c) the special characteristics of particular ships and channels; and<lf> (d) the density of traffic.<lf> 4\. The coastal State shall clearly indicate such sea lanes and traffic<lf> separation schemes on charts to which due publicity shall be given.<lf>                              Article 23<lf>         Foreign nuclear-powered ships and ships carrying<lf>         nuclear or other inherently dangerous or noxious<lf>                              substances<lf> Foreign nuclear-powered ships and ships carrying nuclear or other<lf> inherently dangerous or noxious substances shall, when exercising the<lf> right of innocent passage through the territorial sea, carry documents<lf> and observe special precautionary measures established for such ships<lf> by international agreements.<lf>                              Article 24<lf>                      Duties of the coastal State<lf> 1\. The coastal State shall not hamper the innocent passage of foreign<lf> ships through the territorial sea except in accordance with this<lf> Convention. In particular, in the application of this Convention or of<lf> any laws or regulations adopted in conformity with this Convention, the<lf> coastal State shall not:<lf> (a) impose requirements on foreign ships which have the practical<lf> effect of denying or impairing the right of innocent passage; or<lf> (b) discriminate in form or in fact against the ships of any State or<lf> against ships carrying cargoes to, from or on behalf of any State.<lf> 2\. The coastal State shall give appropriate publicity to any danger to<lf> navigation, of which it has knowledge, within its territorial sea.<lf>                              Article 25<lf>               Rights of protection of the coastal State<lf> 1\. The coastal State may take the necessary steps in its territorial<lf> sea to prevent passage which is not innocent.<lf> 2\. In the case of ships proceeding to internal waters or a call at a<lf> port facility outside internal waters, the coastal State also has the<lf> right to take the necessary steps to prevent any breach of the<lf> conditions to which admission of those ships to internal waters or such<lf> a call is subject.<lf> 3\. The coastal State may, without discrimination in form or in fact<lf> among foreign ships, suspend temporarily in specified areas of its<lf> territorial sea the innocent passage of foreign ships if such<lf> suspension is essential for the protection of its security, including<lf> weapons exercises. Such suspension shall take effect only after having<lf> been duly published.<lf>                              Article 26<lf>            Charges which may be levied upon foreign ships<lf> 1\. No charge may be levied upon foreign ships by reason only of their<lf> passage through the territorial sea.<lf> 2\. Charges may be levied upon a foreign ship passing through the<lf> territorial sea as payment only for specific services rendered to the<lf> ship. These charges shall be levied without discrimination.<lf>                            SUBSECTION B.<lf>              RULES APPLICABLE TO MERCHANT SHIPS AND<lf>         GOVERNMENT SHIPS OPERATED FOR COMMERCIAL PURPOSES<lf>                              Article 27<lf>               Criminal jurisdiction on board a foreign ship<lf> 1\. The criminal jurisdiction of the coastal State should not be<lf> exercised on board a foreign ship passing through the territorial sea<lf> to arrest any person or to conduct any investigation in connection with<lf> any crime committed on board the ship during its passage, save only in<lf> the following cases:<lf> (a) if the consequences of the crime extend to the coastal State;<lf> (b) if the crime is of a kind to disturb the peace of the country or<lf> the good order of the territorial sea;<lf> (c) if the assistance of the local authorities has been requested by<lf> the master of the ship or by a diplomatic agent or consular officer of<lf> the flag State; or<lf> (d) if such measures are necessary for the suppression of illicit<lf> traffic in narcotic drugs or psychotropic substances.<lf> 2\. The above provisions do not affect the right of the coastal State to<lf> take any steps authorized by its laws for the purpose of an arrest or<lf> investigation on board a foreign ship passing through the territorial<lf> sea after leaving internal waters.<lf> 3\. In the cases provided for in paragraphs 1 and 2, the coastal State<lf> shall, if the master so requests, notify a diplomatic agent or consular<lf> officer of the flag State before taking any steps, and shall facilitate<lf> contact between such agent or officer and the ship's crew. In cases of<lf> emergency this notification may be communicated while the measures are<lf> being taken.<lf> 4\. In considering whether or in what manner an arrest should be made,<lf> the local authorities shall have due regard to the interests of<lf> navigation.<lf> 5\. Except as provided in Part XII or with respect to violations of laws<lf> and regulations adopted in accordance with Part V, the coastal State<lf> may not take any steps on board a foreign ship passing through the<lf> territorial sea to arrest any person or to conduct any investigation in<lf> connection with any crime committed before the ship entered the<lf> territorial sea, if the ship, proceeding from a foreign port, is only<lf> passing through the territorial sea without entering internal waters.<lf>                              Article 28<lf>           Civil jurisdiction in relation to foreign ships<lf> 1\. The coastal State should not stop or divert a foreign ship passing<lf> through the territorial sea for the purpose of exercising civil<lf> jurisdiction in relation to a person on board the ship.<lf> 2\. The coastal State may not levy execution against or arrest the ship<lf> for the purpose of any civil proceedings, save only in respect of<lf> obligations or liabilities assumed or incurred by the ship itself in<lf> the course or for the purpose of its voyage through the waters of the<lf> coastal State.<lf> 3\. Paragraph 2 is without prejudice to the right of the coastal State,<lf> in accordance with its laws, to levy execution against or to arrest,<lf> for the purpose of any civil proceedings, a foreign ship lying in the<lf> territorial sea, or passing through the territorial sea after leaving<lf> internal waters.<lf>                             SUBSECTION C.<lf>             RULES APPLICABLE TO WARSHIPS AND OTHER<lf>       GOVERNMENT SHIPS OPERATED FOR NON-COMMERCIAL PURPOSES<lf>                              Article 29<lf>                        Definition of warships<lf> For the purpose of this Convention, "warship" means a ship belonging to<lf> the armed forces of a State bearing the external marks distinguishing<lf> such ships of its nationality, under the command of an officer duly<lf> commissioned by the government of the State and whose name appears in<lf> the appropriate service list or its equivalent, and manned by a crew<lf> which is under regular armed forces discipline.<lf>                              Article 30<lf>              Non-compliance by warships with the laws and<lf>                   regulations of the coastal State<lf> If any warship does not comply with the laws and regulations of the<lf> coastal State concerning passage through the territorial sea and<lf> disregards any request for compliance therewith which is made to it,<lf> the coastal State may require it to leave the territorial sea<lf> immediately.<lf>                              Article 31<lf>              Responsibility of the flag State for damage<lf>             caused by a warship or other government ship<lf>                 operated for non-commercial purposes<lf> The flag State shall bear international responsibility for any loss or<lf> damage to the coastal State resulting from the non-compliance by a<lf> warship or other government ship operated for non-commercial purposes<lf> with the laws and regulations of the coastal State concerning passages<lf> through the territorial sea or with the provisions of this Convention<lf> or other rules of international law.<lf>                              Article 32<lf>             Immunities of warships and other government<lf>              ships operated for non-commercial purposes<lf> With such exceptions as are contained in subsection A and in articles<lf> 30 and 31, nothing in this Convention affects the immunities of<lf> warships and other government ships operated for non-commercial<lf> purposes.<lf>                     SECTION 4\. CONTIGUOUS ZONE<lf>                              Article 33<lf>                            Contiguous Zone<lf> 1\. In a zone contiguous to its territorial sea, described as the<lf> contiguous zone, the coastal State may exercise the control necessary<lf> to:<lf> (a) prevent infringement of its customs, fiscal, immigration or<lf> sanitary laws and regulations within its territory or territorial sea;<lf> (b) punish infringement of the above laws and regulations committed<lf> within its territory or territorial sea.<lf> 2\. The contiguous zone may not extend beyond 24 nautical miles from the<lf> baselines from which the breadth of the territorial sea is measured.<lf>                                 PART V<lf>                         EXCLUSIVE ECONOMIC ZONE<lf>                              Article 55<lf>            Specific legal regime of the exclusive economic zone<lf> The exclusive economic zone is an area beyond and adjacent to the<lf> territorial sea, subject to the specific legal regime established in<lf> this Part, under which the rights and jurisdiction of the coastal State<lf> and the rights and freedoms of other States are governed by the<lf> relevant provisions of this Convention.<lf>                              Article 56<lf>              Rights, jurisdiction and duties of the coastal<lf>                   State in the exclusive economic zone<lf> 1\. In the exclusive economic zone, the coastal State has:<lf> (a) sovereign rights for the purpose of exploring and exploiting,<lf> conserving and managing the natural resources, whether living or<lf> non-living, of the waters superjacent to the sea-bed and of the sea-bed<lf> and its subsoil, and with regard to other activities for the economic<lf> exploitation and exploration of the zone, such as the production of<lf> energy from the water, currents and winds;<lf> (b) jurisdiction as provided for in the relevant provisions of this<lf> Convention with regard to:<lf> (i) the establishment and use of artificial islands, installations and<lf> structures;<lf> (ii) marine scientific research;<lf> (iii) the protection and preservation of the marine environment;<lf> (c) other rights and duties provided for in this Convention.<lf> 2\. In exercising its rights and performing its duties under this<lf> Convention in the exclusive economic zone, the coastal State shall have<lf> due regard to the rights and duties of other States and shall act in a<lf> manner compatible with the provisions of this Convention.<lf> 3\. The rights set out in this article with respect to the sea-bed and<lf> subsoil shall be exercised in accordance with Part VI.<lf>                              Article 57<lf>                Breadth of the exclusive economic zone<lf> The exclusive economic zone shall not extend beyond 200 nautical miles<lf> from the baselines from which the breadth of the territorial sea is<lf> measured.<lf>                              Article 58<lf>                  Rights and duties of other States in<lf>                     the exclusive economic zone<lf> 1\. In the exclusive economic zone, all States, whether coastal or<lf> land-locked, enjoy, subject to the relevant provisions of this Convention,<lf> the freedoms referred to in article 87 of navigation and overflight and<lf> of the laying of submarine cables and pipelines, and other<lf> internationally lawful uses of the sea related to these freedoms, such<lf> as those associated with the operation of ships, aircraft and submarine<lf> cables and pipelines, and compatible with the other provisions of this<lf> Convention.<lf> 2\. Articles 88 to 115 and other pertinent rules of international law<lf> apply to the exclusive economic zone in so far as they are not<lf> incompatible with this Part.<lf> 3\. In exercising their rights and performing their duties under this<lf> Convention in the exclusive economic zone, States shall have due regard<lf> to the rights and duties of the coastal State and shall comply with the<lf> laws and regulations adopted by the coastal State in accordance with<lf> the provisions of this Convention and other rules of international law<lf> in so far as they are not incompatible with this Part.<lf>                              Article 59<lf>             Basis for the resolution of conflicts regarding<lf>              the attribution of rights and jurisdiction in<lf>                      the exclusive economic zone<lf> In cases where this Convention does not attribute rights or<lf> jurisdiction to the coastal State or to other States within the<lf> exclusive economic zone, and a conflict arises between the interests of<lf> the coastal State and any other State or States, the conflict should be<lf> resolved on the basis of equity and in the light of all the relevant<lf> circumstances, taking into account the respective importance of the<lf> interests involved to the parties as well as to the international<lf> community as a whole.<lf>                              Article 60<lf>         Artificial islands, installations and structures<lf>                   in the exclusive economic zone<lf> 1\. In the exclusive economic zone, the coastal State shall have the<lf> exclusive right to construct and to authorize and regulate the<lf> construction, operation and use of:<lf> (a) artificial islands;<lf> (b) installations and structures for the purposes provided for in<lf> article 56 and other economic purposes;<lf> (c) installations and structures which may interfere with the exercise<lf> of the rights of the coastal State in the zone.<lf> 2\. The coastal State shall have exclusive jurisdiction over such<lf> artificial islands, installations and structures, including<lf> jurisdiction with regard to customs, fiscal, health, safety and<lf> immigration laws and regulations.<lf> 
 
-                    <a name="territori-sea"></a>**_territorial sea_** has the same meaning as in Articles 3 and 4 of the Convention.
-
-                    <a name="convent"></a>**_the Convention_** means the United Nations Convention on the Law of the Sea done at Montego Bay on 10 December 1982 (Parts II, V and VI of which are set out in the Schedule).
-
-             (2)  In this Act, including section 6, a reference to the territorial sea of Australia is a reference to that territorial sea so far as it extends from time to time.
-
-          (2A)  In this Act, including section 10A, a reference to the exclusive economic zone of Australia is a reference to that zone so far as it extends from time to time.
-
-             (3)  In this Act, including section 11, a reference to the continental shelf of Australia is a reference to that continental shelf so far as it extends from time to time.
-
-          (3A)  In this Act, including section 13A, a reference to the contiguous zone of Australia is a reference to that zone so far as it extends from time to time.
-
-             (4)  Where a Proclamation is in force under section 7, the territorial sea of Australia shall, for all purposes of this Act, be taken to extend to the limits declared by that Proclamation.
-
-          (4A)  If a Proclamation is in force under section 10B, the exclusive economic zone of Australia is taken, for all purposes of this Act, to extend to the limits declared by that Proclamation.
-
-             (5)  Where a Proclamation is in force under section 12, the continental shelf of Australia shall, for all purposes of this Act, be taken to extend to the limits declared by that Proclamation.
-
-          (5A)  If a Proclamation is in force under section 13B, the contiguous zone of Australia is taken, for all purposes of this Act, to extend to the limits declared by that Proclamation.
-
-##### <a id="4"></a>4  Extension to Territories
-
-This Act extends to all the Territories.
-
-## Part II—Sovereignty, sovereign rights and rights of control
-
-### Division 1—The territorial sea
-
-##### <a id="5"></a>5  Interpretation
-
-In this Division, **_the territorial sea_** means the territorial sea of Australia.
-
-##### <a id="6"></a>6  Sovereignty in respect of territorial sea
-
-It is by this Act declared and enacted that the sovereignty in respect of the territorial sea, and in respect of the airspace over it and in respect of its bed and subsoil, is vested in and exercisable by the Crown in right of the Commonwealth.
-
-##### <a id="7"></a>7  Limits of territorial sea [_see_ Note 2]
-
-             (1)  The Governor-General may, from time to time, by Proclamation, declare, not inconsistently with Section 2 of Part II of the Convention, the limits of the whole or of any part of the territorial sea.
-
-             (2)  For the purposes of such a Proclamation, the Governor-General may, in particular, determine either or both of the following:
-
-                     (a)  the breadth of the territorial sea;
-
-                     (b)  the baseline from which the breadth of the territorial sea, or of any part of the territorial sea, is to be measured.
-
-##### <a id="8"></a>8  Declaration of historic bays and historic waters
-
-Where the Governor-General is satisfied:
-
-                     (a)  that a bay is an historic bay, he may, by Proclamation, declare that bay to be an historic bay and shall, by the same or another Proclamation, define the sea-ward limits of that bay; or
-
-                     (b)  that waters are historic waters, he may, by Proclamation, declare those waters to be historic waters and shall, by the same or another Proclamation, define the limits of those waters.
-
-##### <a id="9"></a>9  Charts of limits of territorial sea
-
-             (1)  The Minister may cause to be prepared and issued such charts as he thinks fit showing any matter relating to the limits of the territorial sea.
-
-             (2)  In particular, the Minister may cause to be prepared and issued large-scale charts showing the low-water line along the coast and may cause to be shown on such a chart any other matter referred to in subsection (1).
-
-             (3)  The mere production of a copy of a paper purporting to be certified by the Minister to be a true copy of a chart prepared under this section is _prima facie_ evidence of any matter shown on the chart relating to the limits of the territorial sea.
-
-##### <a id="10"></a>10  Sovereignty in respect of internal waters
-
-It is by this Act declared and enacted that the sovereignty in respect of the internal waters of Australia (that is to say, any waters of the sea on the landward side of the baseline of the territorial sea) so far as they extend from time to time, and in respect of the airspace over those waters and in respect of the sea-bed and subsoil beneath those waters, is vested in and exercisable by the Crown in right of the Commonwealth.
-
-### Division 1A—The exclusive economic zone
-
-##### <a id="10A"></a>10A  Sovereign rights in respect of exclusive economic zone
-
-It is declared and enacted that the rights and jurisdiction of Australia in its exclusive economic zone are vested in and exercisable by the Crown in right of the Commonwealth.
-
-##### <a id="10B"></a>10B  Limits of exclusive economic zone
-
-The Governor-General may, from time to time, by Proclamation declare, not inconsistently with:
-
-                     (a)  Article 55 or 57 of the Convention; or
-
-                     (b)  any relevant international agreement to which Australia is a party;
-
-the limits of the whole or of any part of the exclusive economic zone of Australia.
-
-##### <a id="10C"></a>10C  Charts of limits of exclusive economic zone
-
-             (1)  The Minister may cause to be prepared such charts as he or she thinks fit showing any matter relating to the limits of the exclusive economic zone of Australia.
-
-             (2)  The mere production of a copy of a paper purporting to be certified by the Minister to be a true copy of such a chart is _prima facie_ evidence of any matter shown on the chart relating to the limits of the exclusive economic zone of Australia.
-
-### Division 2—The continental shelf
-
-##### <a id="11"></a>11  Sovereign rights in respect of continental shelf
-
-It is by this Act declared and enacted that the sovereign rights of Australia as a coastal State in respect of the continental shelf of Australia, for the purpose of exploring it and exploiting its natural resources, are vested in and exercisable by the Crown in right of the Commonwealth.
-
-##### <a id="12"></a>12  Limits of continental shelf
-
-The Governor-General may, from time to time by Proclamation, declare, not inconsistently with Article 76 of the Convention or any relevant international agreement to which Australia is a party, the limits of the whole or any part of the continental shelf of Australia.
-
-##### <a id="13"></a>13  Charts of limits of continental shelf
-
-             (1)  The Minister may cause to be prepared and issued such charts as he thinks fit showing any matter relating to the limits of the continental shelf of Australia.
-
-             (2)  The mere production of a copy of a paper purporting to be certified by the Minister to be a true copy of a chart prepared under this section is _prima facie_ evidence of any matter shown on the chart relating to the limits of the continental shelf of Australia.
-
-### Division 2A—The contiguous zone
-
-##### <a id="13A"></a>13A  Rights of control in respect of contiguous zone
-
-It is declared and enacted that Australia has a contiguous zone.
-
-Note:   The rights of control that Australia, as a coastal state, has in respect of the contiguous zone of Australia are exercisable in accordance with applicable Commonwealth, State and Territory laws.
-
-##### <a id="13B"></a>13B  Limits of contiguous zone
-
-The Governor-General may, from time to time, by Proclamation declare, not inconsistently with:
-
-                     (a)  Section 4 of Part II of the Convention; or
-
-                     (b)  any relevant international agreement to which Australia is a party;
-
-the limits of the whole or of any part of the contiguous zone of Australia.
-
-##### <a id="13C"></a>13C  Charts of limits of contiguous zone
-
-             (1)  The Minister may cause to be prepared such charts as he or she thinks fit showing any matter relating to the limits of the contiguous zone of Australia.
-
-             (2)  The mere production of a copy of a paper purporting to be certified by the Minister to be a true copy of such a chart is _prima facie_ evidence of any matter shown on the chart relating to the limits of the contiguous zone of Australia.
-
-### Division 3—Savings
-
-##### <a id="14"></a>14  Part II does not affect waters etc. within State limits
-
-Nothing in this Part affects sovereignty or sovereign rights in respect of any waters of the sea that are waters of or within any bay, gulf, estuary, river, creek, inlet, port or harbour and:
-
-                     (a)  were, on 1st January, 1901, within the limits of a State; and
-
-                     (b)  remain within the limits of the State;
-
-or in respect of the airspace over, or in respect of the sea-bed or subsoil beneath, any such waters.
-
-##### <a id="15"></a>15  Certain property not vested in Commonwealth
-
-Nothing in this Part shall be taken to vest in the Crown in right of the Commonwealth any wharf, jetty, pier, breakwater, building, platform, pipeline, lighthouse, beacon, navigational aid, buoy, cable or other structure or works.
-
-##### <a id="16"></a>16  Saving of other laws
-
-             (1)  The preceding provisions of this Part:
-
-                     (a)  do not limit or exclude the operation of any law of the Commonwealth or of a Territory, other than the Northern Territory, in force at the date of commencement of this Act or coming into force after that date; and
-
-                     (b)  do not limit or exclude the operation of any law of a State or of the Northern Territory in force at the date of commencement of this Act or coming into force after that date, except in so far as the law is expressed to vest or make exercisable any sovereignty or sovereign rights otherwise than as provided by the preceding provisions of this Part.
-
-             (2)  A law of a State or of the Northern Territory shall not be taken to be within the words of exception in paragraph (b) of subsection (1):
-
-                     (a)  by reason that the law makes provision with respect to, or touching or concerning, any sea-bed or subsoil that is declared by Division 1 to be within the sovereign of the Crown in right of the Commonwealth, or the living or non-living resources of any such sea-bed or subsoil, if proprietary rights in respect of that sea-bed or subsoil have become vested in the Crown in right of the State or of the Northern Territory, as the case may be, by or under a law of the Commonwealth; or
-
-                     (b)  by reason that the law makes provision with respect to, or touching or concerning, any sea-bed or subsoil referred to in Division 1 or Division 2 but in respect of which paragraph (a) does not apply, or the living or non-living resources of any such sea-bed or subsoil, if the law is otherwise within powers with respect to particular matters that are conferred on the legislature of the State or of the Northern Territory, as the case may be, by the _Coastal Waters (State Powers) Act 1980_ or the _Coastal Waters (Northern Territory Powers) Act 1980_. 
-
- 
-
-
-# Schedule—Parts II, V and VI of the United Nations Convention on the Law of the Sea
-
-_Subsection 3(1)_
-
-_(definition of “the convention”)_
-
-**PART II**
-
-**TERRITORIAL****SEA****AND CONTIGUOUS ZONE**
-
-_SECTION 1\. GENERAL PROVISIONS_ 
-
-**Article 2**
-
-_Legal status of the territorial sea, of the air space over the territorial sea and of its bed and subsoil_
-
-       1.  The sovereignty of a coastal State extends, beyond its land territory and internal waters and, in the case of an archipelagic State, its archipelagic waters, to an adjacent belt of sea, described as the territorial sea.
-
-       2.  This sovereignty extends to the air space over the territorial sea as well as to its bed and subsoil.
-
-       3.  The sovereignty over the territorial sea is exercised subject to this Convention and to other rules of international law.
-
-_SECTION 2\. LIMITS OF THE__TERRITORIAL__SEA_
-
-**Article 3**
-
-_Breadth of the territorial sea_
-
-       Every State has the right to establish the breadth of its territorial sea up to a limit not exceeding 12 nautical miles, measured from baselines determined in accordance with this Convention.
-
-**Article 4**
-
-_Outer limit of the territorial sea_
-
-       The outer limit of the territorial sea is the line every point of which is at a distance from the nearest point of the baseline equal to the breadth of the territorial sea. 
-
-**Article 5**
-
-_Normal baseline_
-
-       Except where otherwise provided in this Convention, the normal baseline for measuring the breadth of the territorial sea is the low-water line along the coast as marked on large-scale charts officially recognized by the coastal State.
-
-**Article 6**
-
-_Reefs_
-
-       In the case of islands situated on atolls or of islands having fringing reefs, the baseline for measuring the breadth of the territorial sea is the seaward low-water line of the reef, as shown by the appropriate symbol on charts officially recognized by the coastal State. 
-
-**Article 7**
-
-_Straight baselines_
-
-       1.  In localities where the coastline is deeply indented and cut into, or if there is a fringe of islands along the coast in its immediate vicinity, the method of straight baselines joining appropriate points may be employed in drawing the baseline from which the breadth of the territorial sea is measured. 
-
-       2.  Where because of the presence of a delta and other natural conditions the coastline is highly unstable, the appropriate points may be selected along the furthest seaward extent of the low-water line and, notwithstanding subsequent regression of the low-water line, the straight baselines shall remain effective until changed by the coastal State in accordance with this Convention. 
-
-       3.  The drawing of straight baselines must not depart to any appreciable extent from the general direction of the coast, and the sea areas lying within the lines must be sufficiently closely linked to the land domain to be subject to the regime of internal waters. 
-
-       4.  Straight baselines shall not be drawn to and from low-tide elevations, unless lighthouses or similar installations which are permanently above sea level have been built on them or except in instances where the drawing of baselines to and from such elevations has received general international recognition. 
-
-       5.  Where the method of straight baselines is applicable under paragraph 1, account may be taken, in determining particular baselines, of economic interests peculiar to the region concerned, the reality and the importance of which are clearly evidenced by long usage. 
-
-       6.  The system of straight baselines may not be applied by a State in such a manner as to cut off the territorial sea of another State from the high seas or an exclusive economic zone. 
-
-**Article 8**
-
-_Internal waters_
-
-       1.  Except as provided in Part IV, waters on the landward side of the baseline of the territorial sea form part of the internal waters of the State. 
-
-       2.  Where the establishment of a straight baseline in accordance with the method set forth in article 7 has the effect of enclosing as internal water areas which had not previously been considered as such, a right of innocent passage as provided in this Convention shall exist in those waters. 
-
-**Article 9**
-
-_Mouths of rivers_
-
-       If a river flows directly into the sea, the baseline shall be a straight line across the mouth of the river between points on the low-water line of its banks. 
-
-**Article 10**
-
-_Bays_
-
-       1.  This article relates only to bays the coasts of which belong to a single State. 
-
-       2.  For the purposes of this Convention, a bay is a well-marked indentation whose penetration is in such proportion to the width of its mouth as to contain land-locked waters and constitute more than a mere curvature of the coast. An indentation shall not, however, be regarded as a bay unless its area is as large as, or larger than, that of the semi-circle whose diameter is a line drawn across the mouth of that indentation. 
-
-       3.  For the purpose of measurement, the area of an indentation is that lying between the low-water mark around the shore of the indentation and a line joining the low-water mark of its natural entrance points. Where, because of the presence of islands, an indentation has more than one mouth, the semi-circle shall be drawn on a line as long as the sum total of the lengths of the lines across the different mouths. Islands within an indentation shall be included as if they were part of the water area of the indentation. 
-
-       4.  If the distance between the low-water marks of the natural entrance points of a bay does not exceed 24 nautical miles, a closing line may be drawn between these two low-water marks, and the waters enclosed thereby shall be considered as internal waters. 
-
-       5.  Where the distance between the low-water marks of the natural entrance points of a bay exceeds 24 nautical miles, a straight baseline of 24 nautical miles shall be drawn within the bay in such a manner as to enclose the maximum area of water that is possible with a line of that length. 
-
-       6.  The foregoing provisions do not apply to so-called “historic” bays, or in any case where the system of straight baselines provided for in article 7 is applied. 
-
-**Article 11**
-
-_Ports_
-
-       For the purpose of delimiting the territorial sea, the outermost permanent harbour works which form an integral part of the harbour system are regarded as forming part of the coast. Off-shore installations and artificial islands shall not be considered as permanent harbour works. 
-
-**Article 12**
-
-_Roadsteads_
-
-       Roadsteads which are normally used for the loading, unloading and anchoring of ships, and which would otherwise be situated wholly or partly outside the outer limit of the territorial sea, are included in the territorial sea. 
-
-**Article 13**
-
-_Low-tide elevations_ 
-
-       1.  A low-tide elevation is a naturally formed area of land which is surrounded by and above water at low tide but submerged at high tide. Where a low-tide elevation is situated wholly or partly at a distance not exceeding the breadth of the territorial sea from the mainland or an island, the low-water line on that elevation may be used as the baseline for measuring the breadth of the territorial sea. 
-
-       2.  Where a low-tide elevation is wholly situated at a distance exceeding the breadth of the territorial sea from the mainland or an island, it has no territorial sea of its own. 
-
-**Article 14**
-
-_Combination of methods for determining baselines_
-
-       The coastal State may determine baselines in turn by any of the methods provided for in the foregoing articles to suit different conditions. 
-
-**Article 15**
-
-_Delimitation of the territorial sea between States with opposite or adjacent coasts_
-
-       Where the coasts of two States are opposite or adjacent to each other, neither of the two States is entitled, failing agreement between them to the contrary, to extend its territorial sea beyond the median line every point of which is equidistant from the nearest points on the baselines from which the breadth of the territorial seas of each of the two States is measured. The above provision does not apply, however, where it is necessary by reason of historic title or other special circumstances to delimit the territorial seas of the two States in a way in which is at variance therewith. 
-
-**Article 16**
-
-_Charts and lists of geographical co-ordinates_
-
-       1.  The baselines for measuring the breadth of the territorial sea determined in accordance with articles 7, 9 and 10, or the limits derived therefrom, and the lires of delimitation drawn in accordance with articles 12 and 15 shall be shown on charts of a scale or scales adequate for ascertaining their position. Alternatively, a list of geographical co-ordinates of points, specifying the geodetic datum, may be substituted. 
-
-       2.  The coastal State shall give due publicity to such charts or lists of geographical co-ordinates and shall deposit a copy of each such chart or list with the Secretary-General of the United Nations. 
-
-_SECTION 3\. INNOCENT PASSAGE IN THE__TERRITORIAL__SEA_
-
-_SUBSECTION A. RULES APPLICABLE TO ALL SHIPS_
-
-**Article 17**
-
-_Right of innocent passage_
-
-       Subject to this Convention, ships of all States, whether coastal or land-locked, enjoy the right of innocent passage through the territorial sea. 
-
-**Article 18**
-
-_Meaning of passage_
-
-       1.  Passage means navigation through the territorial sea for the purpose of:
-
-(a)   traversing that sea without entering internal waters or calling at a roadstead or port facility outside internal waters; or 
-
-(b)   proceeding to or from internal waters or a call at such roadstead or port facility. 
-
-       2.  Passage shall be continuous and expeditious. However, passage includes stopping and anchoring, but only in so far as the same are incidental to ordinary navigation or are rendered necessary by force majeure or distress or for the purpose of rendering assistance to persons, ships or aircraft in danger or distress. 
-
-**Article 19**
-
-_Meaning of innocent passage_
-
-       1.  Passage is innocent so long as it is not prejudicial to the peace, good order or security of the coastal State. Such passage shall take place in conformity with this Convention and with other rules of international law. 
-
-       2.  Passage of a foreign ship shall be considered to be prejudicial to the peace, good order or security of the coastal State if in the territorial sea it engages in any of the following activities:
-
-(a)   any threat or use of force against the sovereignty, territorial integrity or political independence of the coastal State, or in any other manner in violation of the principles of international law embodied in the Charter of the United Nations;
-
-(b)   any exercise or practice with weapons of any kind; 
-
-(c)   any act aimed at collecting information to the prejudice of the defence or security of the coastal State; 
-
-(d)   any act or propaganda aimed at affecting the defence or security of the coastal State; 
-
-(e)   the launching, landing or taking on board of any aircraft; 
-
-(f)   the launching, landing or taking on board of any military device; 
-
-(g)   the loading or unloading of any commodity, currency or person contrary to the customs, fiscal, immigration or sanitary laws and regulations of the coastal State; 
-
-(h)   any act of wilful and serious pollution contrary to this Convention;
-
-(i)    any fishing activities; 
-
-(j)    the carrying out of research or survey activities; 
-
-(k)   any act aimed at interfering with any systems of communication or any other facilities or installations of the coastal State; 
-
-(l)    any other activity not having a direct bearing on passage. 
-
-**Article 20**
-
-_Submarines and other underwater vehicles_
-
-       In the territorial sea, submarines and other underwater vehicles are required to navigate on the surface and to show their flag. 
-
-**Article 21**
-
-_Laws and regulations of the coastal State relating to innocent passage_
-
-       1.  The coastal State may adopt laws and regulations, in conformity with the provisions of this Convention and other rules of international law, relating to innocent passage through the territorial sea, in respect of all or any of the following: 
-
-(a)   the safety of navigation and the regulation of maritime traffic; 
-
-(b)   the protection of navigational aids and facilities and other facilities or installations; 
-
-(c)   the protection of cables and pipelines; 
-
-(d)   the conservation of the living resources of the sea; 
-
-(e)   the prevention of infringement of the fisheries laws and regulations of the coastal State; 
-
-(f)   the preservation of the environment of the coastal State and the prevention, reduction and control of pollution thereof; 
-
-(g)   marine scientific research and hydrographic surveys; 
-
-(h)   the prevention of infringement of the customs, fiscal, immigration or sanitary laws and regulations of the coastal State. 
-
-       2.  Such laws and regulations shall not apply to the design, construction, manning or equipment of foreign ships unless they are giving effect to generally accepted international rules or standards. 
-
-       3.  The coastal State shall give due publicity to all such laws and regulations. 
-
-       4.  Foreign ships exercising the right of innocent passage through the territorial sea shall comply with all such laws and regulations and all generally accepted international regulations relating to the prevention of collisions at sea. 
-
-**Article 22**
-
-_Sea lanes and traffic separation schemes in the territorial sea_
-
-       1.  The coastal State may, where necessary having regard to the safety of navigation, require foreign ships exercising the right of innocent passage through its territorial sea to use such sea lanes and traffic separation schemes as it may designate or prescribe for the regulation of the passage of ships. 
-
-       2.  In particular, tankers, nuclear-powered ships and ships carrying nuclear or other inherently dangerous or noxious substances or materials may be required to confine their passage to such sea lanes. 
-
-       3.  In the designation of sea lanes and the prescription of traffic separation schemes under this article, the coastal State shall take into account: 
-
-(a)   the recommendations of the competent international organization; 
-
-(b)   any channels customarily used for international navigation; 
-
-(c)   the special characteristics of particular ships and channels; and 
-
-(d)   the density of traffic. 
-
-       4.  The coastal State shall clearly indicate such sea lanes and traffic separation schemes on charts to which due publicity shall be given. 
-
-**Article 23**
-
-_Foreign nuclear-powered ships and ships carrying nuclear or other inherently dangerous or noxious substances_
-
-       Foreign nuclear-powered ships and ships carrying nuclear or other inherently dangerous or noxious substances shall, when exercising the right of innocent passage through the territorial sea, carry documents and observe special precautionary measures established for such ships by international agreements. 
-
-**Article 24**
-
-_Duties of the coastal State_
-
-       1.  The coastal State shall not hamper the innocent passage of foreign ships through the territorial sea except in accordance with this Convention. In particular, in the application of this Convention or of any laws or regulations adopted in conformity with this Convention, the coastal State shall not: 
-
-(a)   impose requirements on foreign ships which have the practical effect of denying or impairing the right of innocent passage; or 
-
-(b)   discriminate in form or in fact against the ships of any State or against ships carrying cargoes to, from or on behalf of any State. 
-
-       2.  The coastal State shall give appropriate publicity to any danger to navigation, of which it has knowledge, within its territorial sea. 
-
-**Article 25**
-
-_Rights of protection of the coastal State_
-
-       1.  The coastal State may take the necessary steps in its territorial sea to prevent passage which is not innocent. 
-
-       2.  In the case of ships proceeding to internal waters or a call at a port facility outside internal waters, the coastal State also has the right to take the necessary steps to prevent any breach of the conditions to which admission of those ships to internal waters or such a call is subject. 
-
-       3.  The coastal State may, without discrimination in form or in fact among foreign ships, suspend temporarily in specified areas of its territorial sea the innocent passage of foreign ships if such suspension is essential for the protection of its security, including weapons exercises. Such suspension shall take effect only after having been duly published. 
-
-**Article 26**
-
-_Charges which may be levied upon foreign ships_
-
-       1.  No charge may be levied upon foreign ships by reason only of their passage through the territorial sea. 
-
-       2.  Charges may be levied upon a foreign ship passing through the territorial sea as payment only for specific services rendered to the ship. These charges shall be levied without discrimination. 
-
-_SUBSECTION B. RULES APPLICABLE TO MERCHANT SHIPS AND GOVERNMENT SHIPS OPERATED FOR COMMERCIAL PURPOSES_
-
-**Article 27**
-
-_Criminal jurisdiction on board a foreign ship_
-
-       1.  The criminal jurisdiction of the coastal State should not be exercised on board a foreign ship passing through the territorial sea to arrest any person or to conduct any investigation in connection with any crime committed on board the ship during its passage, save only in the following cases: 
-
-(a)   if the consequences of the crime extend to the coastal State; 
-
-(b)   if the crime is of a kind to disturb the peace of the country or the good order of the territorial sea; 
-
-(c)   if the assistance of the local authorities has been requested by the master of the ship or by a diplomatic agent or consular officer of the flag State; or 
-
-(d)   if such measures are necessary for the suppression of illicit traffic in narcotic drugs or psychotropic substances. 
-
-       2.  The above provisions do not affect the right of the coastal State to take any steps authorized by its laws for the purpose of an arrest or investigation on board a foreign ship passing through the territorial sea after leaving internal waters. 
-
-       3.  In the cases provided for in paragraphs 1 and 2, the coastal State shall, if the master so requests, notify a diplomatic agent or consular officer of the flag State before taking any steps, and shall facilitate contact between such agent or officer and the ship’s crew. In cases of emergency this notification may be communicated while the measures are being taken. 
-
-       4.  In considering whether or in what manner an arrest should be made, the local authorities shall have due regard to the interests of navigation. 
-
-       5.  Except as provided in Part XII or with respect to violations of laws and regulations adopted in accordance with Part V, the coastal State may not take any steps on board a foreign ship passing through the territorial sea to arrest any person or to conduct any investigation in connection with any crime committed before the ship entered the territorial sea, if the ship, proceeding from a foreign port, is only passing through the territorial sea without entering internal waters. 
-
-**Article 28**
-
-_Civil jurisdiction in relation to foreign ships_
-
-       1.  The coastal State should not stop or divert a foreign ship passing through the territorial sea for the purpose of exercising civil jurisdiction in relation to a person on board the ship.
-
-       2.  The coastal State may not levy execution against or arrest the ship for the purpose of any civil proceedings, save only in respect of obligations or liabilities assumed or incurred by the ship itself in the course or for the purpose of its voyage through the waters of the coastal State. 
-
-       3.  Paragraph 2 is without prejudice to the right of the coastal State, in accordance with its laws, to levy execution against or to arrest, for the purpose of any civil proceedings, a foreign ship lying in the territorial sea, or passing through the territorial sea after leaving internal waters. 
-
-_SUBSECTION C. RULES APPLICABLE TO WARSHIPS AND OTHER GOVERNMENT SHIPS OPERATED FOR NON-COMMERCIAL_ _PURPOSES_
-
-**Article 29**
-
-_Definition of warships_
-
-       For the purpose of this Convention, “warship” means a ship belonging to the armed forces of a State bearing the external marks distinguishing such ships of its nationality, under the command of an officer duly commissioned by the government of the State and whose name appears in the appropriate service list or its equivalent, and manned by a crew which is under regular armed forces discipline. 
-
-**Article 30**
-
-_Non-compliance by warships with the laws and regulations of the coastal State_
-
-       If any warship does not comply with the laws and regulations of the coastal State concerning passage through the territorial sea and disregards any request for compliance therewith which is made to it, the coastal State may require it to leave the territorial sea immediately. 
-
-**Article 31**
-
-_Responsibility of the flag State for damage caused by a warship or other government ship operated for non-commercial purposes_
-
-       The flag State shall bear international responsibility for any loss or damage to the coastal State resulting from the non-compliance by a warship or other government ship operated for non-commercial purposes with the laws and regulations of the coastal State concerning passages through the territorial sea or with the provisions of this Convention or other rules of international law. 
-
-**Article 32**
-
-_Immunities of warships and other government ships operated for non-commercial purposes_
-
-       With such exceptions as are contained in subsection A and in articles 30 and 31, nothing in this Convention affects the immunities of warships and other government ships operated for non-commercial purposes. 
-
-_SECTION 4\. CONTIGUOUS ZONE_
-
-**Article 33**
-
-_Contiguous Zone_
-
-       1.  In a zone contiguous to its territorial sea, described as the contiguous zone, the coastal State may exercise the control necessary to: 
-
-(a)   prevent infringement of its customs, fiscal, immigration or sanitary laws and regulations within its territory or territorial sea; 
-
-(b)   punish infringement of the above laws and regulations committed within its territory or territorial sea. 
-
-       2.  The contiguous zone may not extend beyond 24 nautical miles from the baselines from which the breadth of the territorial sea is measured. 
-
-**PART V**
-
-**EXCLUSIVE ECONOMIC ZONE**
-
-**Article 55**
-
-_Specific legal regime of the exclusive economic zone_
-
-       The exclusive economic zone is an area beyond and adjacent to the territorial sea, subject to the specific legal regime established in this Part, under which the rights and jurisdiction of the coastal State and the rights and freedoms of other States are governed by the relevant provisions of this Convention. 
-
-**Article 56**
-
-_Rights, jurisdiction and duties of the coastal State in theexclusive economic zone_
-
-       1.  In the exclusive economic zone, the coastal State has: 
-
-(a)   sovereign rights for the purpose of exploring and exploiting, conserving and managing the natural resources, whether living or non-living, of the waters superjacent to the sea-bed and of the sea-bed and its subsoil, and with regard to other activities for the economic exploitation and exploration of the zone, such as the production of energy from the water, currents and winds; 
-
-(b)   jurisdiction as provided for in the relevant provisions of this Convention with regard to: 
-
-                     (i)  the establishment and use of artificial islands, installations and structures; 
-
-                    (ii)  marine scientific research; 
-
-                   (iii)  the protection and preservation of the marine environment; 
-
-(c)   other rights and duties provided for in this Convention. 
-
-       2.  In exercising its rights and performing its duties under this Convention in the exclusive economic zone, the coastal State shall have due regard to the rights and duties of other States and shall act in a manner compatible with the provisions of this Convention. 
-
-       3.  The rights set out in this article with respect to the sea-bed and subsoil shall be exercised in accordance with Part VI.
-
-**Article 57**
-
-_Breadth of the exclusive economic zone_
-
-       The exclusive economic zone shall not extend beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured. 
-
-**Article 58**
-
-_Rights and duties of other States in the exclusive economic zone_
-
-       1.  In the exclusive economic zone, all States, whether coastal or land-locked, enjoy, subject to the relevant provisions of this Convention, the freedoms referred to in article 87 of navigation and overflight and of the laying of submarine cables and pipelines, and other internationally lawful uses of the sea related to these freedoms, such as those associated with the operation of ships, aircraft and submarine cables and pipelines, and compatible with the other provisions of this Convention. 
-
-       2.  Articles 88 to 115 and other pertinent rules of international law apply to the exclusive economic zone in so far as they are not incompatible with this Part. 
-
-       3.  In exercising their rights and performing their duties under this Convention in the exclusive economic zone, States shall have due regard to the rights and duties of the coastal State and shall comply with the laws and regulations adopted by the coastal State in accordance with the provisions of this Convention and other rules of international law in so far as they are not incompatible with this Part. 
-
-**Article 59**
-
-_Basis for the resolution of conflicts regarding the attribution of rights and jurisdiction in the exclusive economic zone_
-
-       In cases where this Convention does not attribute rights or jurisdiction to the coastal State or to other States within the exclusive economic zone, and a conflict arises between the interests of the coastal State and any other State or States, the conflict should be resolved on the basis of equity and in the light of all the relevant circumstances, taking into account the respective importance of the interests involved to the parties as well as to the international community as a whole. 
-
-**Article 60**
-
-_Artificial islands, installations and structures in the exclusive economic zone_
-
-       1.  In the exclusive economic zone, the coastal State shall have the exclusive right to construct and to authorize and regulate the construction, operation and use of: 
-
-(a)   artificial islands; 
-
-(b)   installations and structures for the purposes provided for in article 56 and other economic purposes; 
-
-(c)   installations and structures which may interfere with the exercise of the rights of the coastal State in the zone. 
-
-       2.  The coastal State shall have exclusive jurisdiction over such artificial islands, installations and structures, including jurisdiction with regard to customs, fiscal, health, safety and immigration laws and regulations. 
-
-       3.  Due notice must be given of the construction of such artificial islands, installations or structures, and permanent means for giving warning of their presence must be maintained. Any installations or structures which are abandoned or disused shall be removed to ensure safety of navigation, taking into account any generally accepted international standards established in this regard by the competent international organization. Such removal shall also have due regard to fishing, the protection of the marine environment and the rights and duties of other States. Appropriate publicity shall be given to the depth, position and dimensions of any installations or structures not entirely removed. 
-
-       4.  The coastal State may, where necessary, establish reasonable safety zones around such artificial islands, installations and structures in which it may take appropriate measures to ensure the safety both of navigation and of the artificial islands, installations and structures. 
-
-       5.  The breadth of the safety zones shall be determined by the coastal State, taking into account applicable international standards. Such zones shall be designed to ensure that they are reasonably related to the nature and function of the artificial islands, installations or structures, and shall not exceed a distance of 500 metres around them, measured from each point of their outer edge, except as authorized by generally accepted international standards or as recommended by the competent international organization. Due notice shall be given of the extent of safety zones. 
-
-       6.  All ships must respect these safety zones and shall comply with generally accepted international standards regarding navigation in the vicinity of artificial islands, installations, structures and safety zones. 
-
-       7.  Artificial islands, installations and structures and the safety zones around them may not be established where interference may be caused to the use of recognized sea lanes essential to international navigation. 
-
-       8.  Artificial islands, installations and structures do not possess the status of islands. They have no territorial sea of their own, and their presence does not affect the delimitation of the territorial sea, the exclusive economic zone or the continental shelf. 
-
-**Article 61**
-
-_Conservation of the living resources_
-
-       1.  The coastal State shall determine the allowable catch of the living resources in its exclusive economic zone. 
-
-       2.  The coastal State, taking into account the best scientific evidence available to it, shall ensure through proper conservation and management measures that the maintenance of the living resources in the exclusive economic zone is not endangered by over-exploitation. As appropriate, the coastal State and competent international organizations, whether subregional, regional or global, shall co-operate to this end. 
-
-       3.  Such measures shall also be designed to maintain or restore populations of harvested species at levels which can produce the maximum sustainable yield, as qualified by relevant environmental and economic factors, including the economic needs of coastal fishing communities and the special requirements of developing States, and taking into account fishing patterns, the interdependence of stocks and any generally recommended international minimum standards, whether subregional, regional or global. 
-
-       4.  In taking such measures the coastal State shall take into consideration the effects on species associated with or dependent upon harvested species with a view to maintaining or restoring populations of such associated or dependent species above levels at which their reproduction may become seriously threatened. 
-
-       5.  Available scientific information, catch and fishing effort statistics, and other data relevant to the conservation of fish stocks shall be contributed and exchanged on a regular basis through competent international organizations, whether subregional, regional or global, where appropriate and with participation by all States concerned, including States whose nationals are allowed to fish in the exclusive economic zone. 
-
-**Article 62**
-
-_Utilization of the living resources_
-
-       1.  The coastal State shall promote the objective of optimum utilization of the living resources in the exclusive economic zone without prejudice to article 61\. 
-
-       2.  The coastal State shall determine its capacity to harvest the living resources of the exclusive economic zone. Where the coastal State does not have the capacity to harvest the entire allowable catch, it shall, through agreements or other arrangements and pursuant to the terms, conditions, laws and regulations referred to in paragraph 4, give other States access to the surplus of the allowable catch, having particular regard to the provisions of articles 69 and 70, especially in relation to the developing States mentioned therein. 
-
-       3.  In giving access to other States to its exclusive economic zone under this article, the coastal State shall take into account all relevant factors, including, _inter alia_, the significance of the living resources of the area to the economy of the coastal State concerned and its other national interests, the provisions of articles 69 and 70, the requirements of developing States in the subregion or region in harvesting part of the surplus and the need to minimize economic dislocation in States whose nationals have habitually fished in the zone or which have made substantial efforts in research and identification of stocks. 
-
-       4.  Nationals of other States fishing in the exclusive economic zone shall comply with the conservation measures and with the other terms and conditions established in the laws and regulations of the coastal State. These laws and regulations shall be consistent with this Convention and may relate, _inter alia_, to the following: 
-
-(a)   licensing of fishermen, fishing vessels and equipment, including payment of fees and other forms of remuneration, which, in the case of developing coastal States, may consist of adequate compensation in the field of financing, equipment and technology relating to the fishing industry; 
-
-(b)   determining the species which may be caught, and fixing quotas of catch, whether in relation to particular stocks or groups of stocks or catch per vessel over a period of time or to the catch by nationals of any State during a specified period; 
-
-(c)   regulating seasons and areas of fishing, the types, sizes and amount of gear, and the types, sizes and number of fishing vessels that may be used; 
-
-(d)   fixing the age and size of fish and other species that may be caught; 
-
-(e)   specifying information required of fishing vessels, including catch and effort statistics and vessel position reports; 
-
-(f)   requiring, under the authorization and control of the coastal State, the conduct of specified fisheries research programmes and regulating the conduct of such research, including the sampling of catches, disposition of samples and reporting of associated scientific data; 
-
-(g)   the placing of observers or trainees on board such vessels by the coastal State; 
-
-(h)   the landing of all or any part of the catch by such vessels in the ports of the coastal State; 
-
-(i)    terms and conditions relating to joint ventures or other co-operative arrangements; 
-
-(j)    requirements for the training of personnel and the transfer of fisheries technology, including enhancement of the coastal State’s capability of undertaking fisheries research;
-
-(k)   enforcement procedures. 
-
-       5.  Coastal States shall give due notice of conservation and management laws and regulations. 
-
-**Article 63**
-
-_Stocks occurring within the exclusive economic zones of two ormore coastal States or both within the exclusive economic zone and inan area beyond and adjacent to it_
-
-       1.  Where the same stock or stocks of associated species occur within the exclusive economic zones of two or more coastal States, these States shall seek, either directly or through appropriate subregional or regional organizations, to agree upon the measures necessary to co-ordinate and ensure the conservation and development of such stocks without prejudice to the other provisions of this Part. 
-
-       2.  Where the same stock or stock of associated species occur both within the exclusive economic zone and in an area beyond and adjacent to the zone, the coastal State and the States fishing for such stocks in the adjacent area shall seek, either directly or through appropriate subregional or regional organizations, to agree upon the measures necessary for the conservation of these stocks in the adjacent area. 
-
-**Article 64**
-
-_Highly migratory species_
-
-       1.  The coastal State and other States whose nationals fish in the region for the highly migratory species listed in Annex I shall co-operate directly or through appropriate international organizations with a view to ensuring conservation and promoting the objective of optimum utilization of such species throughout the region, both within and beyond the exclusive economic zone. In regions for which no appropriate international organization exists, the coastal State and other States whose nationals harvest these species in the region shall co-operate to establish such an organization and participate in its work. 
-
-       2.  The provisions of paragraph 1 apply in addition to the other provisions of this Part. 
-
-**Article 65**
-
-_Marine mammals_
-
-       Nothing in this Part restricts the right of a coastal State or the competence of an international organization, as appropriate, to prohibit, limit or regulate the exploitation of marine mammals more strictly than provided for in this Part. States shall co-operate with a view to the conservation of marine mammals and in the case of cetaceans shall in particular work through the appropriate international organizations for their conservation, management and study. 
-
-**Article 66**
-
-_Anadromous stocks_
-
-       1.  States in whose rivers anadromous stocks originate shall have the primary interest in and responsibility for such stocks. 
-
-       2.  The State of origin of anadromous stocks shall ensure their conservation by the establishment of appropriate regulatory measures for fishing in all waters landward of the outer limits of its exclusive economic zone and for fishing provided for in paragraph 3(b). The State of origin may, after consultations with the other States referred to in paragraphs 3 and 4 fishing these stocks, establish total allowable catches for stocks originating in its rivers. 
-
-3\. (a)  Fisheries for anadromous stocks shall be conducted only in waters landward of the outer limits of exclusive economic zones, except in cases where this provision would result in economic dislocation for a State other than the State of origin. With respect to such fishing beyond the outer limits of the exclusive economic zone, States concerned shall maintain consultations with a view to achieving agreement on terms and conditions of such fishing giving due regard to the conservation requirements and the needs of the State of origin in respect of these stocks. 
-
-   (b)  The State of origin shall co-operate in minimizing economic dislocation in such other States fishing these stocks, taking into account the normal catch and the mode of operations of such States, and all the areas in which such fishing has occurred. 
-
-   (c)  States referred to in subparagraph (b), participating by agreement with the State of origin in measures to renew anadromous stocks, particularly by expenditures for that purpose, shall be given special consideration by the State of origin in the harvesting of stocks originating in its rivers. 
-
-   (d)  Enforcement of regulations regarding anadromous stocks beyond the exclusive economic zone shall be by agreement between the State of origin and the other States concerned. 
-
-       4.  In cases where anadromous stocks migrate into or through the waters landward of the outer limits of the exclusive economic zone of a State other than the State of origin, such State shall co-operate with the State of origin with regard to the conservation and management of such stocks. 
-
-       5.  The State of origin of anadromous stocks and other States fishing these stocks shall make arrangements for the implementation of the provisions of this article, where appropriate, through regional organizations. 
-
-**Article 67**
-
-_Catadromous species_
-
-       1.  A coastal State in whose waters catadromous species spend the greater part of their life cycle shall have responsibility for the management of these species and shall ensure the ingress and egress of migrating fish. 
-
-       2.  Harvesting of catadromous species shall be conducted only in waters landward of the outer limits of exclusive economic zones. When conducted in exclusive economic zones, harvesting shall be subject to this article and the other provisions of this Convention concerning fishing in these zones. 
-
-       3.  In cases where catadromous fish migrate through the exclusive economic zone of another State, whether as juvenile or maturing fish, the management, including harvesting, of such fish shall be regulated by agreement between the State mentioned in paragraph 1 and the other State concerned. Such agreement shall ensure the rational management of the species and take into account the responsibilities of the State mentioned in paragraph 1 for the maintenance of these species. 
-
-**Article 68**
-
-_Sedentary species_
-
-       This Part does not apply to sedentary species as defined in article 77, paragraph 4\. 
-
-**Article 69**
-
-_Right of land-locked States_
-
-       1.  Land-locked States shall have the right to participate, on an equitable basis, in the exploitation of an appropriate part of the surplus of the living resources of the exclusive economic zones of coastal States of the same subregion or region, taking into account the relevant economic and geographical circumstances of all the States concerned in conformity with the provisions of this article and of articles 61 and 62\. 
-
-       2.  The terms and modalities of such participation shall be established by the States concerned through bilateral, subregional or regional agreements taking into account, _inter alia_: 
-
-(a)   the need to avoid effects detrimental to fishing communities or fishing industries of the coastal State; 
-
-(b)   the extent to which the land-locked State, in accordance with the provisions of this article, is participating or is entitled to participate under existing bilateral, subregional or regional agreements in the exploitation of living resources of the exclusive economic zones of other coastal States; 
-
-(c)   the extent to which other land-locked States and geographically disadvantaged States are participating in the exploitation of the living resources of the exclusive economic zone of the coastal State and the consequent need to avoid a particular burden for any single coastal State or a part of it; 
-
-(d)   the nutritional needs of the populations of the respective States. 
-
-       3.  When the harvesting capacity of a coastal State approaches a point which would enable it to harvest the entire allowable catch of the living resources in its exclusive economic zone, the coastal State and other States concerned shall co-operate in the establishment of equitable arrangements on a bilateral, subregional or regional basis to allow for participation of developing land-locked States of the same subregion or region in the exploitation of the living resources of the exclusive economic zones of coastal States of the subregion or region, as may be appropriate in the cirumstances and on terms satisfactory to all parties. In the implementation of this provision the factors mentioned in paragraph 2 shall also be taken into account. 
-
-       4.  Developed land-locked States shall, under the provisions of this article, be entitled to participate in the exploitation of living resources only in the exclusive economic zones of developed coastal States of the same subregion or region having regard to the extent to which the coastal State, in giving access to other States to the living resources of its exclusive economic zone, has taken into account the need to minimize detrimental effects on fishing communities and economic dislocation in States whose nationals have habitually fished in the zone. 
-
-       5.  The above provisions are without prejudice to arrangements agreed upon in subregions or regions where the coastal States may grant to land-locked States of the same subregion or region equal or preferential rights for the exploitation of the living resources in the exclusive economic zones. 
-
-**Article 70**
-
-_Right of geographically disadvantaged States_
-
-       1.  Geographically disadvantaged States shall have the right to participate, on an equitable basis, in the exploitation of an appropriate part of the surplus of the living resources of the exclusive economic zones of coastal States of the same subregion or region, taking into account the relevant economic and geographical circumstances of all the States concerned and in conformity with the provisions of this article and of articles 61 and 62\. 
-
-       2.  For the purposes of this Part, “geographically disadvantaged States” means coastal States, including States bordering enclosed or semi-enclosed seas, whose geographical situation makes them dependent upon the exploitation of the living resources of the exclusive economic zones of other States in the subregion or region for adequate supplies of fish for the nutritional purposes of their populations or parts thereof, and coastal States which can claim no exclusive economic zones of their own. 
-
-       3.  The terms and modalities of such participation shall be established by the States concerned through bilateral, subregional or regional agreements taking into account, _inter alia_: 
-
-(a)   the need to avoid effects detrimental to fishing communities or fishing industries of the coastal State; 
-
-(b)   the extent to which the geographically disadvantaged State, in accordance with the provisions of this article, is participating or is entitled to participate under existing bilateral, subregional or regional agreements in the exploitation of living resources of the exclusive economic zones of other coastal States; 
-
-(c)   the extent to which other geographically disadvantaged States and land-locked States are participating in the exploitation of the living resources of the exclusive economic zone of the coastal State and the consequent need to avoid a particular burden for any single coastal State or a part of it; 
-
-(d)   the nutritional needs of the populations of the respective States. 
-
-       4.  When the harvesting capacity of a coastal State approaches a point which would enable it to harvest the entire allowable catch of the living resources in its exclusive economic zone, the coastal State and other States concerned shall co-operate in the establishment of equitable arrangements on a bilateral, subregional or regional basis to allow for participation of developing geographically disadvantaged States of the same subregion or region in the exploitation of the living resources of the exclusive economic zones of coastal States of the subregion or region, as may be appropriate in the circumstances and on terms satisfactory to all parties. In the implementation of this provision the factors mentioned in paragraph 3 shall also be taken into account. 
-
-       5.  Developed geographically disadvantaged States shall, under the provisions of this article, be entitled to participate in the exploitation of living resources only in the exclusive economic zones of developed coastal States of the same subregion or region having regard to the extent to which the coastal State, in giving access to other States to the living resources of its exclusive economic zone, has taken into account the need to minimize detrimental effects on fishing communities and economic dislocation in States whose nationals have habitually fished in the zone. 
-
-       6.  The above provisions are without prejudice to arrangements agreed upon in subregions or regions where the coastal States may grant to geographically disadvantaged States of the same subregion or region equal or preferential rights for the exploitation of the living resources in the exclusive economic zones. 
-
-**Article 71**
-
-_Non-applicability of articles 69 and 70_
-
-       The provisions of articles 69 and 70 do not apply in the case of a coastal State whose economy is overwhelmingly dependent on the exploitation of the living resources of its exclusive economic zone. 
-
-**Article 72**
-
-_Restrictions on transfer of rights_
-
-       1.  Rights provided under articles 69 and 70 to exploit living resources shall not be directly or indirectly transferred to third States or their nationals by lease or licence, by establishing joint ventures or in any other manner which has the effect of such transfer unless otherwise agreed by the States concerned. 
-
-       2.  The foregoing provision does not preclude the States concerned from obtaining technical or financial assistance from third States or international organizations in order to facilitate the exercise of the rights pursuant to articles 69 and 70, provided that it does not have the effect referred to in paragraph 1\. 
-
-**Article 73**
-
-_Enforcement of laws and regulations of the coastal State_
-
-       1.  The coastal State may, in the exercise of its sovereign rights to explore, exploit, conserve and manage the living resources in the exclusive economic zone, take such measures, including boarding, inspection, arrest and judicial proceedings, as may be necessary to ensure compliance with the laws and regulations adopted by it in conformity with this Convention. 
-
-       2.  Arrested vessels and their crews shall be promptly released upon the posting of reasonable bond or other security. 
-
-       3.  Coastal State penalties for violations of fisheries laws and regulations in the exclusive economic zone may not include imprisonment, in the absence of agreements to the contrary by the States concerned, or any other form of corporal punishment. 
-
-       4.  In cases of arrest or detention of foreign vessels the coastal State shall promptly notify the flag State, through appropriate channels, of the action taken and of any penalties subsequently imposed. 
-
-**Article 74**
-
-_Delimitation of the exclusive economic zone between States with opposite or adjacent coasts_
-
-       1.  The delimitation of the exclusive economic zone between States with opposite or adjacent coasts shall be effected by agreement on the basis of international law, as referred to in Article 38 of the Statute of the International Court of Justice, in order to achieve an equitable solution. 
-
-       2.  If no agreement can be reached within a reasonable period of time, the States concerned shall report to the procedures provided for in Part XV. 
-
-       3.  Pending agreement as provided for in paragraph 1, the States concerned, in a spirit of understanding and co-operation, shall make every effort to enter into provisional arrangements of a practical nature and, during this transitional period, not to jeopardise or hamper the reaching of the final agreement. Such arrangements shall be without prejudice to the final delimitation. 
-
-       4.  Where there is an agreement in force between the States concerned, questions relating to the delimitation of the exclusive economic zone shall be determined in accordance with the provisions of that agreement. 
-
-**Article 75**
-
-_Charts and lists of geographical co-ordinates_
-
-       1.  Subject to this Part, the outer limit lines of the exclusive economic zone and the lines of delimitation drawn in accordance with article 74 shall be shown on charts of a scale or scales adequate for ascertaining their position. Where appropriate, lists of geographical co-ordinates of points, specifying the geodetic datum, may be substituted for such outer limit lines or lines of delimitation. 
-
-       2.  The coastal State shall give due publicity to such charts or lists of geographical co-ordinates and shall deposit a copy of each such chart or list with the Secretary-General of the United Nations. 
-
-**PART VI**
-
-**CONTINENTAL SHELF**
-
-**Article 76**
-
-_Definition of the continental shelf_
-
-       1.  The continental shelf of a coastal State comprises the sea-bed and subsoil of the submarine areas that extend beyond its territorial sea throughout the natural prolongation of its land territory to the outer edge of the continental margin, or to a distance of 200 nautical miles from the baselines from which the breadth of the territorial sea is measured where the outer edge of the continental margin does not extend up to that distance. 
-
-       2.  The continental shelf of a coastal State shall not extend beyond the limits provided for in paragraphs 4 to 6\. 
-
-       3.  The continental margin comprises the submerged prolongation of the land mass of the coastal State, and consists of the sea-bed and subsoil of the shelf, the slope and the rise. It does not include the deep ocean floor with its oceanic ridges or the subsoil thereof. 
-
-4\. (a)  For the purposes of this Convention, the coastal State shall establish the outer edge of the continental margin wherever the margin extends beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured, by either: 
-
-  (i)  a line delineated in accordance with paragraph 7 by reference to the outermost fixed points at each of which the thickness of sedimentary rocks is at least 1 per cent of the shortest distance from such point to the foot of the continental slope; or 
-
-(ii)  a line delineated in accordance with paragraph 7 by reference to fixed points not more than 60 nautical miles from the foot of the continental slope. 
-
-(b)   In the absence of evidence to the contrary, the foot of the continental slope shall be determined as the point of maximum change in the gradient at its base. 
-
-       5.  The fixed points comprising the line of the outer limits of the continental shelf on the sea-bed, drawn in accordance with paragraph 4(a)(i) and (ii), either shall not exceed 350 nautical miles from the baselines from which the breadth of the territorial sea is measured or shall not exceed 100 nautical miles from the 2,500 metre isobath, which is a line connecting the depth of 2,500 metres. 
-
-       6.  Notwithstanding the provisions of paragraph 5, on submarine ridges, the outer limit of the continental shelf shall not exceed 350 nautical miles from the baselines from which the breadth of the territorial sea is measured. This paragraph does not apply to submarine elevations that are natural components of the continental margin, such as its plateaux, rises, caps, banks and spurs. 
-
-       7.  The coastal State shall delineate the outer limits of its continental shelf, where that shelf extends beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured, by straight lines not exceeding 60 nautical miles in length, connecting fixed points, defined by co-ordinates of latitude and longitude. 
-
-       8.  Information on the limits of the continental shelf beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured shall be submitted by the coastal State to the Commission on the Limits of the Continental Shelf set up under Annex II on the basis of equitable geographical representation. The Commission shall make recommendations to coastal States on matters related to the establishment of the outer limits of their continental shelf. The limits of the shelf established by a coastal State on the basis of these recommendations shall be final and binding. 
-
-       9.  The coastal State shall deposit with the Secretary-General of the United Nations charts and relevant information, including geodetic data, permanently describing the outer limits of its continental shelf. The Secretary-General shall give due publicity thereto. 
-
-       10\. The provisions of this article are without prejudice to the question of delimitation of the continental shelf between States with opposite or adjacent coasts. 
-
-**Article 77**
-
-_Rights of the coastal State over the continental shelf_
-
-       1.  The coastal State exercises over the continental shelf sovereign rights for the purpose of exploring it and exploiting its natural resources. 
-
-       2.  The rights referred to in paragraph 1 are exclusive in the sense that if the coastal State does not explore the continental shelf or exploit its natural resources, no one may undertake these activities without the express consent of the coastal State. 
-
-       3.  The rights of the coastal State over the continental shelf do not depend on occupation, effective or notional, or on any express proclamation. 
-
-       4.  The natural resources referred to in this Part consist of the mineral and other non-living resources of the sea-bed and subsoil together with living organisms belonging to sedentary species, that is to say, organisms which, at the harvestable stage, either are immobile on or under the sea-bed or are unable to move except in constant physical contact with the sea-bed or the subsoil. 
-
-**Article 78**
-
-_Legal status of the superjacent waters and air space and the rights and freedoms of other States_
-
-       1.  The rights of the coastal State over the continental shelf do not affect the legal status of the superjacent waters or of the air space above those waters. 
-
-       2.  The exercise of the rights of the coastal State over the continental shelf must not infringe or result in any unjustifiable interference with navigation and other rights and freedoms of other States as provided for in this Convention. 
-
-**Article 79**
-
-_Submarine cables and pipelines on the continental shelf_
-
-       1.  All States are entitled to lay submarine cables and pipelines on the continental shelf, in accordance with the provisions of this article. 
-
-       2.  Subject to its right to take reasonable measures for the exploration of the continental shelf, the exploitation of its natural resources and the prevention, reduction and control of pollution from pipelines, the coastal State may not impede the laying or maintenance of such cables or pipelines. 
-
-       3.  The delineation of the course for the laying of such pipelines on the continental shelf is subject to the consent of the coastal State. 
-
-       4.  Nothing in this Part affects the right of the coastal State to establish conditions for cables or pipelines entering its territory or territorial sea, or its jurisdiction over cables and pipelines constructed or used in connection with the exploration of its continental shelf or exploitation of its resources or the operations of artificial islands, installations and structures under its jurisdiction. 
-
-       5.     When laying submarine cables or pipelines, States shall have due regard to cables or pipelines already in position. In particular, possibilities of repairing existing cables or pipelines shall not be prejudiced. 
-
-**Article 80**
-
-_Artificial islands, installations and structures on the continental shelf_
-
-       Article 60 applies _mutatis mutandis_ to artificial islands, installations and structures on the continental shelf. 
-
-**Article 81**
-
-_Drilling on the continental shelf_
-
-       The coastal State shall have the exclusive right to authorize and regulate drilling on the continental shelf for all purposes. 
-
-**Article 82**
-
-_Payments and contributions with respect to the exploitation of the continental shelf beyond 200 nautical miles_
-
-       1.  The coastal State shall make payments or contributions in kind in respect of the exploitation of the non-living resources of the continental shelf beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured. 
-
-       2.  The payments and contributions shall be made annually with respect to all production at a site after the first five years of production at that site. For the sixth year, the rate of payment or contribution shall be 1 per cent of the value or volume of production at the site. The rate shall increase by 1 per cent for each subsequent year until the twelfth year and shall remain at 7 per cent thereafter. Production does not include resources used in connection with exploitation. 
-
-       3.  A developing State which is a net importer of a mineral resource produced from its continental shelf is exempt from making such payments or contributions in respect of that mineral resource. 
-
-       4.  The payments or contributions shall be made through the Authority, which shall distribute them to States Parties to this Convention, on the basis of equitable sharing criteria, taking into account the interests and needs of developing States, particularly the least developed and the land-locked among them. 
-
-**Article 83**
-
-_Delimitation of the continental shelf between States with oppositeor adjacent coasts_
-
-       1.  The delimitation of the continental shelf between States with opposite or adjacent coasts shall be effected by agreement on the basis of international law, as referred to in Article 38 of the Statute of the International Court of Justice, in order to achieve an equitable solution. 
-
-       2.  If no agreement can be reached within a reasonable period of time, the States concerned shall resort to the procedures provided for in Part XV. 
-
-       3.  Pending agreement as provided for in paragraph 1, the States concerned, in a spirit of understanding and co-operation, shall make every effort to enter into provisional arrangements of a practical nature and, during this transitional period, not to jeopardise or hamper the reaching of the final agreement. Such arrangements shall be without prejudice to the final delimitation. 
-
-       4.  Where there is an agreement in force between the States concerned, questions relating to the delimitation of the continental shelf shall be determined in accordance with the provisions of that agreement. 
-
-**Article 84**
-
-_Charts and lists of geographical co-ordinates_
-
-       1.  Subject to this Part, the outer limit lines of the continental shelf and the lines of delimitation drawn in accordance with article 83 shall be shown on charts of a scale or scales adequate for ascertaining their position. Where appropriate, lists of geographical co-ordinates of points, specifying the geodetic datum, may be substituted for such outer limit lines or lines of delimitation. 
-
-       2.  The coastal State shall give due publicity to such charts or lists of geographical co-ordinates and shall deposit a copy of each such chart or list with the Secretary-General of the United Nations and, in the case of those showing the outer limit lines of the continental shelf, with the Secretary-General of the Authority. 
-
-**Article 85**
-
-_Tunnelling_
-
-       This Part does not prejudice the right of the coastal State to exploit the subsoil by means of tunnelling, irrespective of the depth of water above the subsoil.
-
- 
-
-
-# Notes to the _Seas and Submerged Lands Act 1973_
-
-### Note 1
-
-The _Seas and Submerged Lands Act 1973_ as shown in this consolidation comprises Act No. 161, 1973 amended as indicated in the tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<tbody>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Seas and Submerged Lands Act 1973</div>
-    </td>
-    <td>
-      <div>161, 1973</div>
-    </td>
-    <td>
-      <div>4 Dec 1973</div>
-    </td>
-    <td>
-      <div>4 Dec 1973</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Seas and Submerged Lands Amendment Act 1980</div>
-    </td>
-    <td>
-      <div>79, 1980</div>
-    </td>
-    <td>
-      <div>29 May 1980</div>
-    </td>
-    <td>
-      <div>1 Jan 1982 ( <i>see Gazette</i>1981, No. G51)</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Maritime Legislation Amendment Act 1994</div>
-    </td>
-    <td>
-      <div>20, 1994</div>
-    </td>
-    <td>
-      <div>15 Feb 1994</div>
-    </td>
-    <td>
-      <div>1 Aug 1994 ( <i>see Gazette</i>1994, No. S289)</div>
-    </td>
-    <td>
-      <div>S. 14</div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<tbody>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Title</div>
-    </td>
-    <td>
-      <div>am. No. 20, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Preamble</div>
-    </td>
-    <td>
-      <div>am. No. 20, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 3, 4</div>
-    </td>
-    <td>
-      <div>am. No. 20, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Part II</div>
-    </td>
-    <td>
-      <div>rs. No. 20, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>am. No. 20, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 1A of Part 2 
-(ss. 10A-10C) 
-</div>
-    </td>
-    <td>
-      <div>ad. No. 20, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 10A-10C</div>
-    </td>
-    <td>
-      <div>ad. No. 20, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 12</div>
-    </td>
-    <td>
-      <div>am. No. 20, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 2A of Part 2 
-(ss. 13A-13C) 
-</div>
-    </td>
-    <td>
-      <div>ad. No. 20, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 13A-13C</div>
-    </td>
-    <td>
-      <div>ad. No. 20, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S.16</div>
-    </td>
-    <td>
-      <div>am. No. 79, 1980</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Schedules 1, 2</div>
-    </td>
-    <td>
-      <div>rep. No. 20, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Schedule</div>
-    </td>
-    <td>
-      <div>ad. No. 20, 1994</div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-### Note 2
-
-Proclamations made under section 7 of the _Seas and Submerged Lands Act 1973_ provide as follows:
-
-The territorial sea of Australia is measured from baselines established by Proclamations under section 7 of the _Seas and Submerged Lands Act 1973_. These Proclamations are found in _Gazette_ No. S 29, Wednesday, 9 February 1983 and _Gazette_ No. S 57, Tuesday, 31 March 1987\. 
-
-The outer limit of the territorial sea is 12 nautical miles seaward of that baseline (see Proclamation in _Gazette_ No. S 297, Tuesday 13 November 1990).
-
-The outer limit of the exclusive economic zone is 200 nautical miles seaward of that baseline (see Proclamation in _Gazette_ No. S 290, Friday, 29 July 1994).
-
-The outer limit of the contiguous zone is 24 nautical miles seaward of that baseline (see Proclamation in _Gazette_ No. S 148, Wednesday 14 April 1999).
-
- 
-
-
- 
+3\. Due notice must be given of the construction of such artificial<lf> islands, installations or structures, and permanent means for giving<lf> warning of their presence must be maintained. Any installations or<lf> structures which are abandoned or disused shall be removed to ensure<lf> safety of navigation, taking into account any generally accepted<lf> international standards established in this regard by the competent<lf> international organization. Such removal shall also have due regard to<lf> fishing, the protection of the marine environment and the rights and<lf> duties of other States. Appropriate publicity shall be given to the<lf> depth, position and dimensions of any installations or structures not<lf> entirely removed.<lf> 4\. The coastal State may, where necessary, establish reasonable safety<lf> zones around such artificial islands, installations and structures in<lf> which it may take appropriate measures to ensure the safety both of<lf> navigation and of the artificial islands, installations and structures.<lf> 5\. The breadth of the safety zones shall be determined by the coastal<lf> State, taking into account applicable international standards. Such<lf> zones shall be designed to ensure that they are reasonably related to<lf> the nature and function of the artificial islands, installations or<lf> structures, and shall not exceed a distance of 500 metres around them,<lf> measured from each point of their outer edge, except as authorized by<lf> generally accepted international standards or as recommended by the<lf> competent international organization. Due notice shall be given of the<lf> extent of safety zones.<lf> 6\. All ships must respect these safety zones and shall comply with<lf> generally accepted international standards regarding navigation in the<lf> vicinity of artificial islands, installations, structures and safety<lf> zones.<lf> 7\. Artificial islands, installations and structures and the safety<lf> zones around them may not be established where interference may be<lf> caused to the use of recognized sea lanes essential to international<lf> navigation.<lf> 8\. Artificial islands, installations and structures do not possess the<lf> status of islands. They have no territorial sea of their own, and their<lf> presence does not affect the delimitation of the territorial sea, the<lf> exclusive economic zone or the continental shelf.<lf>                              Article 61<lf>                 Conservation of the living resources<lf> 1\. The coastal State shall determine the allowable catch of the living<lf> resources in its exclusive economic zone.<lf> 2\. The coastal State, taking into account the best scientific evidence<lf> available to it, shall ensure through proper conservation and<lf> management measures that the maintenance of the living resources in the<lf> exclusive economic zone is not endangered by over-exploitation. As<lf> appropriate, the coastal State and competent international<lf> organizations, whether subregional, regional or global, shall<lf> co-operate to this end.<lf> 3\. Such measures shall also be designed to maintain or restore<lf> populations of harvested species at levels which can produce the<lf> maximum sustainable yield, as qualified by relevant environmental and<lf> economic factors, including the economic needs of coastal fishing<lf> communities and the special requirements of developing States, and<lf> taking into account fishing patterns, the interdependence of stocks and<lf> any generally recommended international minimum standards, whether<lf> subregional, regional or global.<lf> 4\. In taking such measures the coastal State shall take into<lf> consideration the effects on species associated with or dependent upon<lf> harvested species with a view to maintaining or restoring populations<lf> of such associated or dependent species above levels at which their<lf> reproduction may become seriously threatened.<lf> 5\. Available scientific information, catch and fishing effort<lf> statistics, and other data relevant to the conservation of fish stocks<lf> shall be contributed and exchanged on a regular basis through competent<lf> international organizations, whether subregional, regional or global,<lf> where appropriate and with participation by all States concerned,<lf> including States whose nationals are allowed to fish in the exclusive<lf> economic zone.<lf>                              Article 62<lf>                 Utilization of the living resources<lf> 1\. The coastal State shall promote the objective of optimum utilization<lf> of the living resources in the exclusive economic zone without<lf> prejudice to article 61.<lf> 2\. The coastal State shall determine its capacity to harvest the living<lf> resources of the exclusive economic zone. Where the coastal State does<lf> not have the capacity to harvest the entire allowable catch, it shall,<lf> through agreements or other arrangements and pursuant to the terms,<lf> conditions, laws and regulations referred to in paragraph 4, give other<lf> States access to the surplus of the allowable catch, having particular<lf> regard to the provisions of articles 69 and 70, especially in relation<lf> to the developing States mentioned therein.<lf> 3\. In giving access to other States to its exclusive economic zone<lf> under this article, the coastal State shall take into account all<lf> relevant factors, including, inter alia, the significance of the living<lf> resources of the area to the economy of the coastal State concerned and<lf> its other national interests, the provisions of articles 69 and 70, the<lf> requirements of developing States in the subregion or region in<lf> harvesting part of the surplus and the need to minimize economic<lf> dislocation in States whose nationals have habitually fished in the<lf> zone or which have made substantial efforts in research and<lf> identification of stocks.<lf> 4\. Nationals of other States fishing in the exclusive economic zone<lf> shall comply with the conservation measures and with the other terms<lf> and conditions established in the laws and regulations of the coastal<lf> State. These laws and regulations shall be consistent with this<lf> Convention and may relate, inter alia, to the following:<lf> (a) licensing of fishermen, fishing vessels and equipment, including<lf> payment of fees and other forms of remuneration, which, in the case of<lf> developing coastal States, may consist of adequate compensation in the<lf> field of financing, equipment and technology relating to the fishing<lf> industry;<lf> (b) determining the species which may be caught, and fixing quotas of<lf> catch, whether in relation to particular stocks or groups of stocks or<lf> catch per vessel over a period of time or to the catch by nationals of<lf> any State during a specified period;<lf> (c) regulating seasons and areas of fishing, the types, sizes and<lf> amount of gear, and the types, sizes and number of fishing vessels that<lf> may be used;<lf> (d) fixing the age and size of fish and other species that may be<lf> caught;<lf> (e) specifying information required of fishing vessels, including catch<lf> and effort statistics and vessel position reports;<lf> (f) requiring, under the authorization and control of the coastal<lf> State, the conduct of specified fisheries research programmes and<lf> regulating the conduct of such research, including the sampling of<lf> catches, disposition of samples and reporting of associated scientific<lf> data;<lf> (g) the placing of observers or trainees on board such vessels by the<lf> coastal State;<lf> (h) the landing of all or any part of the catch by such vessels in the<lf> ports of the coastal State;<lf> (i) terms and conditions relating to joint ventures or other<lf> co-operative arrangements;<lf> (j) requirements for the training of personnel and the transfer of<lf> fisheries technology, including enhancement of the coastal State's<lf> capability of undertaking fisheries research;<lf> (k) enforcement procedures.<lf> 5\. Coastal States shall give due notice of conservation and management<lf> laws and regulations.<lf>                              Article 63<lf>        Stocks occurring within the exclusive economic zones of<lf>         two or more coastal States or both within the exclusive<lf>          economic zone and in an area beyond and adjacent to it<lf> 1\. Where the same stock or stocks of associated species occur within<lf> the exclusive economic zones of two or more coastal States, these<lf> States shall seek, either directly or through appropriate subregional<lf> or regional organizations, to agree upon the measures necessary to<lf> co-ordinate and ensure the conservation and development of such stocks<lf> without prejudice to the other provisions of this Part.<lf> 2\. Where the same stock or stock of associated species occur both<lf> within the exclusive economic zone and in an area beyond and adjacent<lf> to the zone, the coastal State and the States fishing for such stocks<lf> in the adjacent area shall seek, either directly or through appropriate<lf> subregional or regional organizations, to agree upon the measures<lf> necessary for the conservation of these stocks in the adjacent area.<lf>                              Article 64<lf>                        Highly migratory species<lf> 1\. The coastal State and other States whose nationals fish in the<lf> region for the highly migratory species listed in Annex I shall<lf> co-operate directly or through appropriate international organizations<lf> with a view to ensuring conservation and promoting the objective of<lf> optimum utilization of such species throughout the region, both within<lf> and beyond the exclusive economic zone. In regions for which no<lf> appropriate international organization exists, the coastal State and<lf> other States whose nationals harvest these species in the region shall<lf> co-operate to establish such an organization and participate in its<lf> work.<lf> 2\. The provisions of paragraph 1 apply in addition to the other<lf> provisions of this Part.<lf>                              Article 65<lf>                            Marine mammals<lf> Nothing in this Part restricts the right of a coastal State or the<lf> competence of an international organization, as appropriate, to<lf> prohibit, limit or regulate the exploitation of marine mammals more<lf> strictly than provided for in this Part. States shall co-operate with a<lf> view to the conservation of marine mammals and in the case of cetaceans<lf> shall in particular work through the appropriate international<lf> organizations for their conservation, management and study.<lf>                              Article 66<lf>                          Anadromous stocks<lf> 1\. States in whose rivers anadromous stocks originate shall have the<lf> primary interest in and responsibility for such stocks.<lf> 2\. The State of origin of anadromous stocks shall ensure their<lf> conservation by the establishment of appropriate regulatory measures<lf> for fishing in all waters landward of the outer limits of its exclusive<lf> economic zone and for fishing provided for in paragraph 3 (b). The<lf> State of origin may, after consultations with the other States referred<lf> to in paragraphs 3 and 4 fishing these stocks, establish total<lf> allowable catches for stocks originating in its rivers.<lf> 3.(a) Fisheries for anadromous stocks shall be conducted only in waters<lf> landward of the outer limits of exclusive economic zones, except in<lf> cases where this provision would result in economic dislocation for a<lf> State other than the State of origin. With respect to such fishing<lf> beyond the outer limits of the exclusive economic zone, States<lf> concerned shall maintain consultations with a view to achieving<lf> agreement on terms and conditions of such fishing giving due regard to<lf> the conservation requirements and the needs of the State of origin in<lf> respect of these stocks.<lf> (b) The State of origin shall co-operate in minimizing economic<lf> dislocation in such other States fishing these stocks, taking into<lf> account the normal catch and the mode of operations of such States, and<lf> all the areas in which such fishing has occurred.<lf> (c) States referred to in subparagraph (b),participating by agreement<lf> with the State of origin in measures to renew anadromous stocks,<lf> particularly by expenditures for that purpose, shall be given special<lf> consideration by the State of origin in the harvesting of stocks<lf> originating in its rivers.<lf> (d) Enforcement of regulations regarding anadromous stocks beyond the<lf> exclusive economic zone shall be by agreement between the State of<lf> origin and the other States concerned.<lf> 4\. In cases where anadromous stocks migrate into or through the waters<lf> landward of the outer limits of the exclusive economic zone of a State<lf> other than the State of origin, such State shall co-operate with the<lf> State of origin with regard to the conservation and management of such<lf> stocks.<lf> 5\. The State of origin of anadromous stocks and other States fishing<lf> these stocks shall make arrangements for the implementation of the<lf> provisions of this article, where appropriate, through regional<lf> organizations.<lf>                              Article 67<lf>                          Catadromous species<lf> 1\. A coastal State in whose waters catadromous species spend the<lf> greater part of their life cycle shall have responsibility for the<lf> management of these species and shall ensure the ingress and egress of<lf> migrating fish.<lf> 2\. Harvesting of catadromous species shall be conducted only in waters<lf> landward of the outer limits of exclusive economic zones. When<lf> conducted in exclusive economic zones, harvesting shall be subject to<lf> this article and the other provisions of this Convention concerning<lf> fishing in these zones.<lf> 3\. In cases where catadromous fish migrate through the exclusive<lf> economic zone of another State, whether as juvenile or maturing fish,<lf> the management, including harvesting, of such fish shall be regulated<lf> by agreement between the State mentioned in paragraph 1 and the other<lf> State concerned. Such agreement shall ensure the rational management of<lf> the species and take into account the responsibilities of the State<lf> mentioned in paragraph 1 for the maintenance of these species.<lf>                              Article 68<lf>                           Sedentary species<lf> This Part does not apply to sedentary species as defined in article 77,<lf> paragraph 4.<lf>                              Article 69<lf>                      Right of land-locked States<lf> 1\. Land-locked States shall have the right to participate, on an<lf> equitable basis, in the exploitation of an appropriate part of the<lf> surplus of the living resources of the exclusive economic zones of<lf> coastal States of the same subregion or region, taking into account the<lf> relevant economic and geographical circumstances of all the States<lf> concerned in conformity with the provisions of this article and of<lf> articles 61 and 62.<lf> 2\. The terms and modalities of such participation shall be established<lf> by the States concerned through bilateral, subregional or regional<lf> agreements taking into account, inter alia:<lf> (a) the need to avoid effects detrimental to fishing communities or<lf> fishing industries of the coastal State;<lf> (b) the extent to which the land-locked State, in accordance with the<lf> provisions of this article, is participating or is entitled to<lf> participate under existing bilateral, subregional or regional<lf> agreements in the exploitation of living resources of the exclusive<lf> economic zones of other coastal States;<lf> (c) the extent to which other land-locked States and geographically<lf> disadvantaged States are participating in the exploitation of the<lf> living resources of the exclusive economic zone of the coastal State<lf> and the consequent need to avoid a particular burden for any single<lf> coastal State or a part of it;<lf> (d) the nutritional needs of the populations of the respective States.<lf> 3\. When the harvesting capacity of a coastal State approaches a point<lf> which would enable it to harvest the entire allowable catch of the<lf> living resources in its exclusive economic zone, the coastal State and<lf> other States concerned shall co-operate in the establishment of<lf> equitable arrangements on a bilateral, subregional or regional basis to<lf> allow for participation of developing land-locked States of the same<lf> subregion or region in the exploitation of the living resources of the<lf> exclusive economic zones of coastal States of the subregion or region,<lf> as may be appropriate in the cirumstances and on terms satisfactory to<lf> all parties. In the implementation of this provision the factors<lf> mentioned in paragraph 2 shall also be taken into account.<lf> 4\. Developed land-locked States shall, under the provisions of this<lf> article, be entitled to participate in the exploitation of living<lf> resources only in the exclusive economic zones of developed coastal<lf> States of the same subregion or region having regard to the extent to<lf> which the coastal State, in giving access to other States to the living<lf> resources of its exclusive economic zone, has taken into account the<lf> need to minimize detrimental effects on fishing communities and<lf> economic dislocation in States whose nationals have habitually fished<lf> in the zone.<lf> 5\. The above provisions are without prejudice to arrangements agreed<lf> upon in subregions or regions where the coastal States may grant to<lf> land-locked States of the same subregion or region equal or<lf> preferential rights for the exploitation of the living resources in the<lf> exclusive economic zones.<lf>                              Article 70<lf>               Right of geographically disadvantaged States<lf> 1\. Geographically disadvantaged States shall have the right to<lf> participate, on an equitable basis, in the exploitation of an<lf> appropriate part of the surplus of the living resources of the<lf> exclusive economic zones of coastal States of the same subregion or<lf> region, taking into account the relevant economic and geographical<lf> circumstances of all the States concerned and in conformity with the<lf> provisions of this article and of articles 61 and 62.<lf> 2\. For the purposes of this Part, "geographically disadvantaged States"<lf> means coastal States, including States bordering enclosed or<lf> semi-enclosed seas, whose geographical situation makes them dependent upon<lf> the exploitation of the living resources of the exclusive economic<lf> zones of other States in the subregion or region for adequate supplies<lf> of fish for the nutritional purposes of their populations or parts<lf> thereof, and coastal States which can claim no exclusive economic zones<lf> of their own.<lf> 3\. The terms and modalities of such participation shall be established<lf> by the States concerned through bilateral, subregional or regional<lf> agreements taking into account, inter alia:<lf> (a) the need to avoid effects detrimental to fishing communities or<lf> fishing industries of the coastal State;<lf> (b) the extent to which the geographically disadvantaged State, in<lf> accordance with the provisions of this article, is participating or is<lf> entitled to participate under existing bilateral, subregional or<lf> regional agreements in the exploitation of living resources of the<lf> exclusive economic zones of other coastal States;<lf> (c) the extent to which other geographically disadvantaged States and<lf> land-locked States are participating in the exploitation of the living<lf> resources of the exclusive economic zone of the coastal State and the<lf> consequent need to avoid a particular burden for any single coastal<lf> State or a part of it;<lf> (d) the nutritional needs of the populations of the respective States.<lf> 4\. When the harvesting capacity of a coastal State approaches a point<lf> which would enable it to harvest the entire allowable catch of the<lf> living resources in its exclusive economic zone, the coastal State and<lf> other States concerned shall co-operate in the establishment of<lf> equitable arrangements on a bilateral, subregional or regional basis to<lf> allow for participation of developing geographically disadvantaged<lf> States of the same subregion or region in the exploitation of the<lf> living resources of the exclusive economic zones of coastal States of<lf> the subregion or region, as may be appropriate in the circumstances and<lf> on terms satisfactory to all parties. In the implementation of this<lf> provision the factors mentioned in paragraph 3 shall also be taken into<lf> account.<lf> 5\. Developed geographically disadvantaged States shall, under the<lf> provisions of this article, be entitled to participate in the<lf> exploitation of living resources only in the exclusive economic zones<lf> of developed coastal States of the same subregion or region having<lf> regard to the extent to which the coastal State, in giving access to<lf> other States to the living resources of its exclusive economic zone,<lf> has taken into account the need to minimize detrimental effects on<lf> fishing communities and economic dislocation in States whose nationals<lf> have habitually fished in the zone.<lf> 6\. The above provisions are without prejudice to arrangements agreed<lf> upon in subregions or regions where the coastal States may grant to<lf> geographically disadvantaged States of the same subregion or region<lf> equal or preferential rights for the exploitation of the living<lf> resources in the exclusive economic zones.<lf>                              Article 71<lf>                  Non-applicability of articles 69 and 70<lf> The provisions of articles 69 and 70 do not apply in the case of a<lf> coastal State whose economy is overwhelmingly dependent on the<lf> exploitation of the living resources of its exclusive economic zone.<lf>                              Article 72<lf>                    Restrictions on transfer of rights<lf> 1\. Rights provided under articles 69 and 70 to exploit living resources<lf> shall not be directly or indirectly transferred to third States or<lf> their nationals by lease or licence, by establishing joint ventures or<lf> in any other manner which has the effect of such transfer unless<lf> otherwise agreed by the States concerned.<lf> 2\. The foregoing provision does not preclude the States concerned from<lf> obtaining technical or financial assistance from third States or<lf> international organizations in order to facilitate the exercise of the<lf> rights pursuant to articles 69 and 70, provided that it does not have<lf> the effect referred to in paragraph 1.<lf>                              Article 73<lf>              Enforcement of laws and regulations of the<lf>                             coastal State<lf> 1\. The coastal State may, in the exercise of its sovereign rights to<lf> explore, exploit, conserve and manage the living resources in the<lf> exclusive economic zone, take such measures, including boarding,<lf> inspection, arrest and judicial proceedings, as may be necessary to<lf> ensure compliance with the laws and regulations adopted by it in<lf> conformity with this Convention.<lf> 2\. Arrested vessels and their crews shall be promptly released upon the<lf> posting of reasonable bond or other security.<lf> 3\. Coastal State penalties for violations of fisheries laws and<lf> regulations in the exclusive economic zone may not include<lf> imprisonment, in the absence of agreements to the contrary by the<lf> States concerned, or any other form of corporal punishment.<lf> 4\. In cases of arrest or detention of foreign vessels the coastal State<lf> shall promptly notify the flag State, through appropriate channels, of<lf> the action taken and of any penalties subsequently imposed.<lf>                              Article 74<lf>               Delimitation of the exclusive economic zone<lf>             between States with opposite or adjacent coasts<lf> 1\. The delimitation of the exclusive economic zone between States with<lf> opposite or adjacent coasts shall be effected by agreement on the basis<lf> of international law, as referred to in Article 38 of the Statute of<lf> the International Court of Justice, in order to achieve an equitable<lf> solution.<lf> 2\. If no agreement can be reached within a reasonable period of time,<lf> the States concerned shall report to the procedures provided for in<lf> Part XV.<lf> 3\. Pending agreement as provided for in paragraph 1, the States<lf> concerned, in a spirit of understanding and co-operation, shall make<lf> every effort to enter into provisional arrangements of a practical<lf> nature and, during this transitional period, not to jeopardise or<lf> hamper the reaching of the final agreement. Such arrangements shall be<lf> without prejudice to the final delimitation.<lf> 4\. Where there is an agreement in force between the States concerned,<lf> questions relating to the delimitation of the exclusive economic zone<lf> shall be determined in accordance with the provisions of that<lf> agreement.<lf>                              Article 75<lf>               Charts and lists of geographical co-ordinates<lf> 1\. Subject to this Part, the outer limit lines of the exclusive<lf> economic zone and the lines of delimitation drawn in accordance with<lf> article 74 shall be shown on charts of a scale or scales adequate for<lf> ascertaining their position. Where appropriate, lists of geographical<lf> co-ordinates of points, specifying the geodetic datum, may be<lf> substituted for such outer limit lines or lines of delimitation.<lf> 2\. The coastal State shall give due publicity to such charts or lists<lf> of geographical co-ordinates and shall deposit a copy of each such<lf> chart or list with the Secretary-General of the United Nations.<lf>                               PART VI<lf>                          CONTINENTAL SHELF<lf>                              Article 76<lf>                   Definition of the continental shelf<lf> 1\. The continental shelf of a coastal State comprises the sea-bed and<lf> subsoil of the submarine areas that extend beyond its territorial sea<lf> throughout the natural prolongation of its land territory to the outer<lf> edge of the continental margin, or to a distance of 200 nautical miles<lf> from the baselines from which the breadth of the territorial sea is<lf> measured where the outer edge of the continental margin does not extend<lf> up to that distance.<lf> 2\. The continental shelf of a coastal State shall not extend beyond the<lf> limits provided for in paragraphs 4 to 6.<lf> 3\. The continental margin comprises the submerged prolongation of the<lf> land mass of the coastal State, and consists of the sea-bed and subsoil<lf> of the shelf, the slope and the rise. It does not include the deep<lf> ocean floor with its oceanic ridges or the subsoil thereof.<lf> 4.(a) For the purposes of this Convention, the coastal State shall<lf> establish the outer edge of the continental margin wherever the margin<lf> extends beyond 200 nautical miles from the baselines from which the<lf> breadth of the territorial sea is measured, by either:<lf> (i) a line delineated in accordance with paragraph 7 by reference to<lf> the outermost fixed points at each of which the thickness of<lf> sedimentary rocks is at least 1 per cent of the shortest distance from<lf> such point to the foot of the continental slope; or<lf> (ii) a line delineated in accordance with paragraph 7 by reference to<lf> fixed points not more than 60 nautical miles from the foot of the<lf> continental slope.<lf> (b) In the absence of evidence to the contrary, the foot of the<lf> continental slope shall be determined as the point of maximum change in<lf> the gradient at its base.<lf> 5\. The fixed points comprising the line of the outer limits of the<lf> continental shelf on the sea-bed, drawn in accordance with paragraph 4<lf> (a) (i) and (ii),either shall not exceed 350 nautical miles from the<lf> baselines from which the breadth of the territorial sea is measured or<lf> shall not exceed 100 nautical miles from the 2,500 metre isobath, which<lf> is a line connecting the depth of 2,500 metres.<lf> 6\. Notwithstanding the provisions of paragraph 5, on submarine ridges,<lf> the outer limit of the continental shelf shall not exceed 350 nautical<lf> miles from the baselines from which the breadth of the territorial sea<lf> is measured. This paragraph does not apply to submarine elevations that<lf> are natural components of the continental margin, such as its plateaux,<lf> rises, caps, banks and spurs.<lf> 7\. The coastal State shall delineate the outer limits of its<lf> continental shelf, where that shelf extends beyond 200 nautical miles<lf> from the baselines from which the breadth of the territorial sea is<lf> measured, by straight lines not exceeding 60 nautical miles in length,<lf> connecting fixed points, defined by co-ordinates of latitude and<lf> longitude.<lf> 8\. Information on the limits of the continental shelf beyond 200<lf> nautical miles from the baselines from which the breadth of the<lf> territorial sea is measured shall be submitted by the coastal State to<lf> the Commission on the Limits of the Continental Shelf set up under<lf> Annex II on the basis of equitable geographical representation. The<lf> Commission shall make recommendations to coastal States on matters<lf> related to the establishment of the outer limits of their continental<lf> shelf. The limits of the shelf established by a coastal State on the<lf> basis of these recommendations shall be final and binding.<lf> 9\. The coastal State shall deposit with the Secretary-General of the<lf> United Nations charts and relevant information, including geodetic<lf> data, permanently describing the outer limits of its continental shelf.<lf> The Secretary-General shall give due publicity thereto.<lf> 10\. The provisions of this article are without prejudice to the<lf> question of delimitation of the continental shelf between States with<lf> opposite or adjacent coasts.<lf>                              Article 77<lf>                 Rights of the coastal State over the<lf>                          continental shelf<lf> 1\. The coastal State exercises over the continental shelf sovereign<lf> rights for the purpose of exploring it and exploiting its natural<lf> resources.<lf> 2\. The rights referred to in paragraph 1 are exclusive in the sense<lf> that if the coastal State does not explore the continental shelf or<lf> exploit its natural resources, no one may undertake these activities<lf> without the express consent of the coastal State.<lf> 3\. The rights of the coastal State over the continental shelf do not<lf> depend on occupation, effective or notional, or on any express<lf> proclamation.<lf> 4\. The natural resources referred to in this Part consist of the<lf> mineral and other non-living resources of the sea-bed and subsoil<lf> together with living organisms belonging to sedentary species, that is<lf> to say, organisms which, at the harvestable stage, either are immobile<lf> on or under the sea-bed or are unable to move except in constant<lf> physical contact with the sea-bed or the subsoil.<lf>                              Article 78<lf>                Legal status of the superjacent waters<lf>               and air space and the rights and freedoms<lf>                            of other States<lf> 1\. The rights of the coastal State over the continental shelf do not<lf> affect the legal status of the superjacent waters or of the air space<lf> above those waters.<lf> <p>2\. The exercise of the rights of the coastal State over the continental<lf> shelf must not infringe or result in any unjustifiable interference<lf> with navigation and other rights and freedoms of other States as<lf> provided for in this Convention.<lf>                              Article 79<lf>                 Submarine cables and pipelines on the<lf>                          continental shelf<lf> 1\. All States are entitled to lay submarine cables and pipelines on the<lf> continental shelf, in accordance with the provisions of this article.<lf> 2\. Subject to its right to take reasonable measures for the exploration<lf> of the continental shelf, the exploitation of its natural resources and<lf> the prevention, reduction and control of pollution from pipelines, the<lf> coastal State may not impede the laying or maintenance of such cables<lf> or pipelines.<lf> 3\. The delineation of the course for the laying of such pipelines on<lf> the continental shelf is subject to the consent of the coastal State.<lf> 4\. Nothing in this Part affects the right of the coastal State to<lf> establish conditions for cables or pipelines entering its territory or<lf> territorial sea, or its jurisdiction over cables and pipelines<lf> constructed or used in connection with the exploration of its<lf> continental shelf or exploitation of its resources or the operations of<lf> artificial islands, installations and structures under its<lf> jurisdiction.<lf> 5\. When laying submarine cables or pipelines, States shall have due<lf> regard to cables or pipelines already in position. In particular,<lf> possibilities of repairing existing cables or pipelines shall not be<lf> prejudiced.<lf>                              Article 80<lf>                 Artificial islands, installations<lf>              and structures on the continental shelf<lf> Article 60 applies mutatis mutandis to artificial islands,<lf> installations and structures on the continental shelf.<lf>                              Article 81<lf>                    Drilling on the continental shelf<lf> The coastal State shall have the exclusive right to authorize and<lf> regulate drilling on the continental shelf for all purposes.<lf>                              Article 82<lf>               Payments and contributions with respect<lf>                 to the exploitation of the continental<lf>                    shelf beyond 200 nautical miles<lf> 1\. The coastal State shall make payments or contributions in kind in<lf> respect of the exploitation of the non-living resources of the<lf> continental shelf beyond 200 nautical miles from the baselines from<lf> which the breadth of the territorial sea is measured.<lf> 2\. The payments and contributions shall be made annually with respect<lf> to all production at a site after the first five years of production at<lf> that site. For the sixth year, the rate of payment or contribution<lf> shall be 1 per cent of the value or volume of production at the site.<lf> The rate shall increase by 1 per cent for each subsequent year until<lf> the twelfth year and shall remain at 7 per cent thereafter. Production<lf> does not include resources used in connection with exploitation.<lf> 3\. A developing State which is a net importer of a mineral resource<lf> produced from its continental shelf is exempt from making such payments<lf> or contributions in respect of that mineral resource.<lf> 4\. The payments or contributions shall be made through the Authority,<lf> which shall distribute them to States Parties to this Convention, on<lf> the basis of equitable sharing criteria, taking into account the<lf> interests and needs of developing States, particularly the least<lf> developed and the land-locked among them.<lf>                              Article 83<lf>                 Delimitation of the continental shelf<lf>            between States with opposite or adjacent coasts<lf> 1\. The delimitation of the continental shelf between States with<lf> opposite or adjacent coasts shall be effected by agreement on the basis<lf> of international law, as referred to in Article 38 of the Statute of<lf> the International Court of Justice, in order to achieve an equitable<lf> solution.<lf> 2\. If no agreement can be reached within a reasonable period of time,<lf> the States concerned shall resort to the procedures provided for in<lf> Part XV.<lf> 3\. Pending agreement as provided for in paragraph 1, the States<lf> concerned, in a spirit of understanding and co-operation, shall make<lf> every effort to enter into provisional arrangements of a practical<lf> nature and, during this transitional period, not to jeopardise or<lf> hamper the reaching of the final agreement. Such arrangements shall be<lf> without prejudice to the final delimitation.<lf> 4\. Where there is an agreement in force between the States concerned,<lf> questions relating to the delimitation of the continental shelf shall<lf> be determined in accordance with the provisions of that agreement.<lf>                              Article 84<lf>               Charts and lists of geographical co-ordinates<lf> 1\. Subject to this Part, the outer limit lines of the continental shelf<lf> and the lines of delimitation drawn in accordance with article 83 shall<lf> be shown on charts of a scale or scales adequate for ascertaining their<lf> position. Where appropriate, lists of geographical co-ordinates of<lf> points, specifying the geodetic datum, may be substituted for such<lf> outer limit lines or lines of delimitation.<lf> 2\. The coastal State shall give due publicity to such charts or lists<lf> of geographical co-ordinates and shall deposit a copy of each such<lf> chart or list with the Secretary-General of the United Nations and, in<lf> the case of those showing the outer limit lines of the continental<lf> shelf, with the Secretary-General of the Authority.<lf>                              Article 85<lf>                              Tunnelling<lf> This Part does not prejudice the right of the coastal State to exploit<lf> the subsoil by means of tunnelling, irrespective of the depth of water<lf> above the subsoil.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
