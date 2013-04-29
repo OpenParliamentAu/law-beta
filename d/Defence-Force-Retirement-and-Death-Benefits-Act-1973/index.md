@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image001.gif)
 
 # Defence Force Retirement and Death Benefits Act 1973
 
 **Act No. 81 of 1973 as amended**
 
-This compilation was prepared on 11 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -43,6 +43,28 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [6C](#6C).         Surcharge deduction amount
 
 [6D](#6D).         Application of the _Criminal Code_
+
+**Part II—Defence Force Retirement and Death Benefits Authority**
+
+[7](#7).            Interpretation
+
+[8](#8).            Constitution of Authority
+
+[9](#9).            Deputies of members
+
+[10](#10).          Irregularities in nomination of members and deputy members
+
+[11](#11).          Termination of appointment
+
+[12](#12).          Resignation of members
+
+[13](#13).          Allowances
+
+[14](#14).          Meetings of Authority
+
+[15](#15).          Delegation by Authority
+
+[16](#16).          Reports
 
 **Part III—Contributions**
 
@@ -90,11 +112,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [34](#34).          Reclassification in respect of incapacity
 
-[35](#35).          Power of CSC to require persons to be medically examined etc 
+[35](#35).          Power of Authority to require persons to be medically examined etc 
 
 [36](#36).          Invalidity benefits payable to certain contributors under Superannuation Act or the _Superannuation Act 1990_
 
-[37](#37).          Service Chief may inform CSC of grounds of retirement
+[37](#37).          Service Chief may inform authority of grounds of retirement
 
 **Part VI—Benefits on death of member of scheme** 
 
@@ -184,9 +206,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [60](#60).          Prescribed basic annual rate of pay
 
-[61](#61).          Payment of refund of contributions or of lump sum payment to CSC in discharge of liability under Superannuation Act
+[61](#61).          Payment of refund of contributions or of lump sum payment to Commissioner for Superannuation in discharge of liability under Superannuation Act
 
-[61A](#61A).       Payment of refund of contributions or of lump sum payment to CSC in discharge of liability under the _Superannuation Act 1990_
+[61A](#61A).       Payment of refund of contributions or of lump sum payment to Board in discharge of liability under the _Superannuation Act 1990_
 
 [61B](#61B).       Election by recipient member intending to resume full‑time service
 
@@ -208,7 +230,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [66](#66).          Interpretation
 
-[67](#67).          Variation of determinations by CSC
+[67](#67).          Variation of determinations by Authority
 
     **Division 2—Contributing members who have preserved rights from previous employment**
 
@@ -308,31 +330,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [98L](#98L).        Commutation of retirement pay and invalidity pay
 
-**Part XI—Review of decisions by CSC** 
+**Part XI—Review of decisions of Authority**
 
-    **Division 1—Review of decisions by CSC**
-
-[99](#99).          Review of decisions of CSC
-
-    **Division 2—Defence Force Case Assessment Panel**
-
-[100](#100).        Establishment
-
-[101](#101).        Members
-
-[102](#102).        Functions
-
-[103](#103).        Proceedings
-
-[104](#104).        Indemnification
-
-[105](#105).        Remuneration and allowances
-
-[106](#106).        Recommendations by Panel to CSC
-
-    **Division 3—Review of decisions by the Administrative Appeals Tribunal**
-
-[107](#107).        Review by the Administrative Appeals Tribunal
+[99](#99).          Review of decisions of Authority
 
 **Part XII—Miscellaneous**
 
@@ -344,7 +344,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [126](#126).        Recovery of amounts payable to Commonwealth
 
-[127](#127).        Recipient member etc  to inform CSC if he becomes eligible member
+[127](#127).        Recipient member etc  to inform Authority if he becomes eligible member
 
 [128](#128).        Extension of periods of elections
 
@@ -406,9 +406,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="annual-rate-pai"></a>**_annual rate of pay_**, in relation to a member of the Defence Force on a particular day, means the amount, that, under the regulations, is the annual pay applicable to the member on that day.
 
-                    <a name="author"></a>**_Authority_** means the Defence Force Retirement and Death Benefits Authority established by section 8, as in force before its repeal by item 44 of Schedule 1 to the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_.
+                    <a name="author"></a>**_Authority_** means the Defence Force Retirement and Death Benefits Authority established by section 8.
 
                     <a name="benefit"></a>**_benefit_** means pension benefit, and includes a lump sum payment under subsection 32(2) or section 48 and a refund of contributions under section 56.
+
+                    <a name="board"></a>**_Board_** has the same meaning as in the _Superannuation Act 1990_.
 
                     <a name="child"></a>**_child_**, in relation to a deceased member of the scheme, includes:
 
@@ -436,29 +438,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="child-pension"></a>**_child’s pension_** means pension payable under Division 2 of Part VI.
 
-                    <a name="commission-superannu"></a>**_Commissioner for Superannuation_** has the same meaning as Commissioner has in the Superannuation Act.
+                    <a name="commission-superannu"></a>**_Commissioner for Superannuation_** means the Commissioner for Superannuation under the Superannuation Act, and includes an acting Commissioner for Superannuation under that Act.
 
                     <a name="contribut-member"></a>**_contributing member_** means a member of the Defence Force who is making, or is required to make, or, but for section 18 or 18A, would be required to make, contributions under section 17.
 
                     <a name="contribut"></a>**_contributions_** means contributions payable under section 17, and includes any additional contributions or previous contributions.
 
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
-
                     <a name="date-commenc-scheme"></a>**_date of commencement of the scheme_** means 1 October 1972.
-
-                    <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
-
-                    <a name="decision-csc"></a>**_decision of CSC_** means a decision of CSC or a delegate of CSC under:
-
-                     (a)  this Act; or
-
-                     (b)  the _Defence Forces Retirement Benefits Act 1948_; or
-
-                     (c)  any other Act that relates to retirement benefits for members of the Defence Force and modifies or affects the provisions of the _Defence Forces Retirement Benefits Act 1948_.
-
-                    <a name="defenc-forc-case-assess-panel"></a>**_Defence Force Case Assessment Panel_** means the Panel established under section 100.
-
-                    <a name="board"></a><a name="defenc-forc-retir-benefit-board"></a>**_Defence Forces Retirement Benefits Board_** or **_Board_** means the Defence Forces Retirement Benefits Board as in existence before being abolished by section 91 of the _Defence Legislation Amendment Act 1984_.
 
                     <a name="defenc-parliamentari-candid-act"></a>**_Defence (Parliamentary Candidates) Act_** means the _Defence (Parliamentary Candidates) Act 1969_ or the _Defence (Parliamentary Candidates) Act 1969‑1973_.
 
@@ -510,7 +496,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="fortnightli-rate-pai"></a>**_fortnightly rate of pay_**, in relation to a member of the Defence Force on a particular day, means an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image002.gif)
 
 where **_A_** is the annual rate of pay applicable to him on that day.
 
@@ -594,9 +580,9 @@ where **_A_** is the annual rate of pay applicable to him on that day.
 
                     <a name="superannu-1990-scheme"></a>**_Superannuation (1990) Scheme_** means the Superannuation Scheme established by deed under the _Superannuation Act 1990_.
 
-                    <a name="surcharg-debt-account"></a>**_surcharge debt account_**, in relation to a member of the scheme, means the surcharge debt account kept for the member by CSC under section 16 of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_.
+                    <a name="surcharg-debt-account"></a>**_surcharge debt account_**, in relation to a member of the scheme, means the surcharge debt account kept for the member by the Authority under section 16 of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_.
 
-                    <a name="surcharg-duction-amount"></a>**_surcharge deduction amount_**, in relation to a member of the scheme to or in respect of whom benefits become payable under this Act, means the surcharge deduction amount that is specified in the determination made by CSC, under section 6C, in relation to the member.
+                    <a name="surcharg-duction-amount"></a>**_surcharge deduction amount_**, in relation to a member of the scheme to or in respect of whom benefits become payable under this Act, means the surcharge deduction amount that is specified in the determination made by the Authority, under section 6C, in relation to the member.
 
                     <a name="total-period-effect-servic"></a>**_total period of effective service_**, in relation to a member of the scheme, means, subject to subsections 62(4) and (5):
 
@@ -622,7 +608,7 @@ that person shall, for the purposes of sections 25, 33, 86, 87, 87A, 92 and 95
 
                      (a)  in the case of a member who is a member of the Permanent Forces—the age for compulsory retirement of the member ascertained in accordance with, or in accordance with regulations under, the _Naval Defence Act 1910‑1971_, the _Defence Act 1903‑1970_ or the _Air Force Act 1923‑1965_; or
 
-                     (b)  in the case of a member who is not a member of the Permanent Forces—the age for compulsory retirement, as ascertained in accordance with paragraph (a), of a member of the same rank and branch who is a member of the Permanent Forces.
+                     (b)  in the case of a member who is not a member of the Permanent Forces—the age for compulsory retirement, as ascertained in accordance with paragraph (a), of a member of the same rank and branch who is a member of the Permanent Forces.
 
 ##### <a id="5"></a>5  Continuity of service
 
@@ -755,7 +741,7 @@ the period shall be deemed to be a period of non‑effective service in relation
 
                      (a)  the person had been living with that other person as that other person’s husband or wife or partner for a continuous period of at least 3 years up to that time; or
 
-                     (b)  the person had been living with that other person as that other person’s husband or wife or partner for a continuous period of less than 3 years up to that time and CSC, having regard to any relevant evidence, is of the opinion that the person ordinarily lived with that other person as that other person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at that time;
+                     (b)  the person had been living with that other person as that other person’s husband or wife or partner for a continuous period of less than 3 years up to that time and the Authority, having regard to any relevant evidence, is of the opinion that the person ordinarily lived with that other person as that other person’s husband or wife or partner on a permanent and _bona fide_ domestic basis at that time;
 
 whether or not the person was legally married to that other person.
 
@@ -779,7 +765,7 @@ whether or not the person was legally married to that other person.
 
                      (d)  the persons jointly owned a home which was their usual residence.
 
-             (5)  For the purposes of this section, a person is taken to be living with another person if CSC is satisfied that the person would have been living with that other person except for a period of:
+             (5)  For the purposes of this section, a person is taken to be living with another person if the Authority is satisfied that the person would have been living with that other person except for a period of:
 
                      (a)  temporary absence; or
 
@@ -799,7 +785,7 @@ whether or not the person was legally married to that other person.
 
                      (b)  the person did not, at the time of the death, have a marital or couple relationship with the deceased person but was legally married to the deceased person; and
 
-                     (d)  in CSC’s opinion, the person was wholly or substantially dependent upon the deceased person at the time of the death.
+                     (d)  in the Authority’s opinion, the person was wholly or substantially dependent upon the deceased person at the time of the death.
 
 ##### <a id="6BA"></a>6BA  Benefits for certain spouses in post‑retirement marital or couple relationships
 
@@ -817,11 +803,11 @@ whether or not the person was legally married to that other person.
 
              (2)  The rate of the spouse pension to which the spouse is entitled is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image003.gif)
 
              (3)  If the rate worked out under subsection (2) is less than or equal to  the rate prescribed by the regulations for the purposes of this section, the spouse is instead entitled to a lump sum payment worked out in accordance with the regulations.
 
-##### <a id="6C"></a>6C  Surcharge deduction amount
+##### <a id="6C"></a>6C  Surcharge deduction amount
 
              (1)  If:
 
@@ -829,9 +815,9 @@ whether or not the person was legally married to that other person.
 
                      (b)  the member’s surcharge debt account is in debit when those benefits become so payable;
 
-CSC must determine in writing the surcharge deduction amount that, in its opinion, it would be fair and reasonable to take into account in working out the amount of those benefits.
+the Authority must determine in writing the surcharge deduction amount that, in its opinion, it would be fair and reasonable to take into account in working out the amount of those benefits.
 
-             (2)  In making the determination, CSC must have regard to the following:
+             (2)  In making the determination, the Authority must have regard to the following:
 
                      (a)  the amount by which the member’s surcharge debt account is in debit when those benefits become payable;
 
@@ -841,9 +827,9 @@ CSC must determine in writing the surcharge deduction amount that, in its opinio
 
                      (d)  whether the member has or had qualified for his or her maximum benefit entitlement under this Act;
 
-                     (e)  any other matter that CSC considers relevant.
+                     (e)  any other matter that the Authority considers relevant.
 
-             (3)  The amount determined by CSC may not be more than the total of the following amounts:
+             (3)  The amount determined by the Authority may not be more than the total of the following amounts:
 
                      (a)  15% of the employer‑financed component of any part of the benefits payable to the member that accrued between 20 August 1996 and 1 July 2003;
 
@@ -858,6 +844,110 @@ CSC must determine in writing the surcharge deduction amount that, in its opinio
                    Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+## Part II—Defence Force Retirement and Death Benefits Authority
+
+##### <a id="7"></a>7  Interpretation
+
+                   In this Part, unless the contrary intention appears:
+
+                    <a name="chairman"></a>**_Chairman_** means the Chairman of the Authority.
+
+                    <a name="deputi-chairman"></a>**_Deputy Chairman_** means the member who is the Deputy Chairman of the Authority, but does not include the deputy member who is the deputy of that member.
+
+                    <a name="deputi-member"></a>**_deputy member_** means a deputy of a member who is appointed under section 9.
+
+                    <a name="member"></a>**_member_** means the Chairman or other member of the Authority.
+
+##### <a id="8"></a>8  Constitution of Authority
+
+             (1)  There shall be a Defence Force Retirement and Death Benefits Authority, which, subject to the directions of the Minister, shall have the general administration of this Act.
+
+             (2)  The Authority shall consist of:
+
+                     (a)  the Commissioner for Superannuation, who shall be the Chairman of the Authority; and
+
+                   (ab)  the Deputy Chairman of the Authority who is to be appointed by the Minister; and
+
+                     (b)  3 other members, who shall be appointed in accordance with this section.
+
+             (3)  The members referred to in paragraph (2)(b) shall be appointed by the Minister and:
+
+                     (b)  one shall be appointed on the nomination of the Chief of Navy;
+
+                     (c)  one shall be appointed on the nomination of the Chief of Army; and
+
+                     (d)  one shall be appointed on the nomination of the Chief of Air Force.
+
+             (5)  Subject to this Act, a member referred to in paragraph (2)(ab) or (b) holds office until the expiration of such period, not exceeding 2 years, as is specified in the instrument of appointment, but is eligible for re‑appointment.
+
+             (6)  An act or decision of the Authority is not invalid by reason only of a vacancy or vacancies in the membership of the Authority.
+
+##### <a id="9"></a>9  Deputies of members
+
+             (1)  Subject to this section, the Minister may appoint a person to be the deputy of a member.
+
+             (3)  The deputy of the member nominated by the Chief of Navy shall be appointed on the nomination of the Chief of Navy.
+
+             (4)  The deputy of the member nominated by the Chief of Army shall be appointed on the nomination of the Chief of Army.
+
+             (5)  The deputy of the member nominated by the Chief of Air Force shall be appointed on the nomination of the Chief of Air Force.
+
+             (7)  Subject to this Act, a deputy member holds office until the expiration of such period, not exceeding 2 years, as is specified in the instrument of his appointment or until the member of whom he is the deputy ceases to hold office, whichever first occurs, but is eligible for re‑appointment.
+
+             (8)  In the absence of an ordinary member, that is to say, a member other than the Chairman or the Deputy Chairman, from a meeting of the Authority, the deputy of that ordinary member may attend the meeting and is to be taken, while so attending, to have all the powers and functions of an ordinary member.
+
+##### <a id="10"></a>10  Irregularities in nomination of members and deputy members
+
+                   The validity of the appointment of a member referred to in paragraph 8(2)(b), or of a deputy of a member, shall not be called in question by reason only of a defect or irregularity in connexion with the nomination of the member or deputy member.
+
+##### <a id="11"></a>11  Termination of appointment
+
+                   Where, in the opinion of the Minister, it is desirable or necessary to terminate the appointment of a member or of a deputy member, the Minister may terminate the appointment accordingly.
+
+##### <a id="12"></a>12  Resignation of members
+
+                   A member (other than the Chairman), or a deputy member, may resign office by writing signed by him or her addressed to the Minister, but the resignation does not have effect until it is accepted by the Minister.
+
+##### <a id="13"></a>13  Allowances
+
+                   A member, or a deputy member, shall be paid such allowances, if any, as are payable to him under the regulations.
+
+##### <a id="14"></a>14  Meetings of Authority
+
+             (1)  The Authority shall hold such meetings as are necessary for the performance of its functions.
+
+             (2)  The Chairman may, at any time, convene a meeting of the Authority.
+
+             (3)  At a meeting of the Authority, a quorum is constituted by the Chairman or his or her deputy and not less than 2 other members, or by the Deputy Chairman and not less than 2 other members.
+
+             (4)  The Chairman shall preside at all meetings of the Authority at which he is present.
+
+             (5)  In the absence of the Chairman from a meeting of the Authority:
+
+                     (a)  if the deputy of the Chairman is present—he or she is to preside at the meeting; and
+
+                     (b)  if the deputy of the Chairman is not present—the Deputy Chairman is to preside at the meeting.
+
+             (6)  Questions arising at a meeting of the Authority shall be determined by a majority of the votes of the members present.
+
+             (7)  The member presiding at a meeting of the Authority has a deliberative vote, and, in the event of an equality of votes, also has a casting vote.
+
+##### <a id="15"></a>15  Delegation by Authority
+
+             (1)  The Authority may, by resolution, delegate to a member or to a deputy member, or to any other person, either generally or otherwise as provided in the instrument of delegation, all or any of its powers or functions under this Act, except this power of delegation.
+
+             (2)  The power or function so delegated shall be exercised and performed by the delegate in accordance with the instrument of delegation.
+
+             (3)  A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Authority.
+
+             (4)  A delegation under this section continues in force notwithstanding a change in the membership of the Authority.
+
+##### <a id="16"></a>16  Reports
+
+             (1)  The Authority shall, at such time and in respect of such periods as the Minister directs, furnish to the Minister reports dealing with the general administration and working of this Act and (except in respect of any period commencing before 1 October 1972) of the previous Act (other than Part III of that Act).
+
+             (2)  The Minister shall, as soon as practicable after receiving a report, cause a copy of the report to be laid before each House of the Parliament.
 
 ## Part III—Contributions
 
@@ -899,7 +989,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="20"></a>20  Amount of contributions on reduction in pay
 
-             (1)  Where the annual rate of pay applicable to a contributing member changes, otherwise than by reason of the member ceasing to hold an acting or temporary rank, or of the amendment of the Defence Force Retirement and Death Benefits (Annual Rates of Pay) Regulations made by section 9 of the _Defence Force Retirement and Death Benefits Amendment Act 1981_ and, as a result of the change, the amount of each fortnightly contribution to be paid by him would, if he did not make an election under this subsection, become less, he may, by notice in writing given to CSC within a period of 90 days after the change, or within such further period as CSC, in special circumstances, allows, elect to have that change in his annual rate of pay disregarded, and, if he so elects, the change shall be disregarded for the purposes of this Act.
+             (1)  Where the annual rate of pay applicable to a contributing member changes, otherwise than by reason of the member ceasing to hold an acting or temporary rank, or of the amendment of the Defence Force Retirement and Death Benefits (Annual Rates of Pay) Regulations made by section 9 of the _Defence Force Retirement and Death Benefits Amendment Act 1981_ and, as a result of the change, the amount of each fortnightly contribution to be paid by him would, if he did not make an election under this subsection, become less, he may, by notice in writing given to the Authority within a period of 90 days after the change, or within such further period as the Authority, in special circumstances, allows, elect to have that change in his annual rate of pay disregarded, and, if he so elects, the change shall be disregarded for the purposes of this Act.
 
              (2)  Where a contributing member who is entitled to make an election under subsection (1) does not make that election, he is entitled to a refund, payable by the Commonwealth, of so much of the contributions paid by him under section 17 as is equal to the difference between the amount of the contributions payable by him under that section before the change referred to in subsection (1) and the amount of the contributions that would have been so payable by him if the amount of each fortnightly contribution so payable by him had not exceeded the amount that is the amount of each fortnightly contribution payable by him after the change, and the amount of any contributions in respect of which he becomes so entitled to a refund shall, for the purposes of this Act, be deemed not to have been paid by him.
 
@@ -911,7 +1001,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  served as a member of the Defence Force on continuous full‑time service for a period of less than one year, being a period during which he was not an eligible member of the Defence Force but which is continuous with a subsequent period during which he is such a member;
 
-he may, by notice in writing given to CSC within a period of 90 days after the date on which he became an eligible member of the Defence Force, or within such further period as CSC, in special circumstances allows, elect to have the period during which he served as a member of the Defence Force but during which he was not an eligible member of the Defence Force, or such part of that period as he specifies in the election, taken into account as a period of effective service in relation to him under this Act.
+he may, by notice in writing given to the Authority within a period of 90 days after the date on which he became an eligible member of the Defence Force, or within such further period as the Authority, in special circumstances allows, elect to have the period during which he served as a member of the Defence Force but during which he was not an eligible member of the Defence Force, or such part of that period as he specifies in the election, taken into account as a period of effective service in relation to him under this Act.
 
              (2)  An eligible member of the Defence Force is not entitled to make an election under subsection (1) in respect of any period which, if he had been a contributing member during the period, would have been a period of non‑effective service in relation to him.
 
@@ -921,7 +1011,7 @@ he may, by notice in writing given to CSC within a period of 90 days after the d
 
                      (b)  in any other case—an amount equal to 5.5% of the amount of pay that would have been payable to him in respect of the period to which the election relates if, at all times during that period, his rate of pay had been the annual rate of pay applicable to him under this Act at the time he became an eligible member of the Defence Force.
 
-             (4)  An election under subsection (1) is of no effect unless, at the time when the election is made, or, within such period after that time as CSC, in special circumstances, allows, there is refunded to the Commonwealth, or arrangements satisfactory to CSC are made for there to be refunded to the Commonwealth, any payment of a prescribed kind (being a payment of, or in the nature of, a gratuity or bounty or deferred pay) paid to the person under the previous legislation, or under legislation relating to conditions of service of members of the Defence Force, in respect of the period to which the election relates.
+             (4)  An election under subsection (1) is of no effect unless, at the time when the election is made, or, within such period after that time as the Authority, in special circumstances, allows, there is refunded to the Commonwealth, or arrangements satisfactory to the Authority are made for there to be refunded to the Commonwealth, any payment of a prescribed kind (being a payment of, or in the nature of, a gratuity or bounty or deferred pay) paid to the person under the previous legislation, or under legislation relating to conditions of service of members of the Defence Force, in respect of the period to which the election relates.
 
              (5)  Where a person who makes an election under this section had credited to him, in respect of the period to which the election relates, under the previous legislation or under legislation relating to the conditions of service of members of the Defence Force, any deferred pay or interest thereon, that credit shall, by force of this section, be deemed to have been cancelled.
 
@@ -961,22 +1051,22 @@ the rate at which retirement pay is payable to him is the amount per annum that,
 
              (6)  If the member of the scheme makes an election under subsection 124(1), the rate at which retirement pay is payable to the member is the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image004.gif)
 
 where:
 
                     <a name="basic-rate"></a>**_basic rate_** means the annual rate at which retirement pay would be payable to the member under this section if the member did not make the election.
 
-                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by CSC under section 124A.
+                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by the Authority under section 124A.
 
                     <a name="surcharg-duction-amount"></a>**_surcharge deduction amount_** means the member’s surcharge deduction amount.
 
 ##### <a id="24"></a>24  Commutation of retirement pay
 
-             (1)  A person who is, or is about to become, entitled to retirement pay may, by notice in writing given to CSC, elect to commute a portion of his or her retirement pay in accordance with this section.
+             (1)  A person who is, or is about to become, entitled to retirement pay may, by notice in writing given to the Authority, elect to commute a portion of his or her retirement pay in accordance with this section.
 
        (1AA)  A notice under subsection (1) shall be given not earlier than
- 3 months before becoming entitled to retirement pay and not later than one year after becoming so entitled or such further period as CSC, in special circumstances, allows.
+ 3 months before becoming entitled to retirement pay and not later than one year after becoming so entitled or such further period as the Authority, in special circumstances, allows.
 
           (1A)  Subsection (1) does not apply to a person who, after the commencement of this subsection, became a person to whom subsection 62(1) or (2) applied and is not excluded, under subsection (1B), from the operation of this subsection.
 
@@ -998,13 +1088,13 @@ where:
 
                              (ii)  any amount or amounts required, under subsection 69(1B) or 69(3A) of the previous Act, to be paid by the person to the Defence Forces Retirement Benefits Fund established under the previous Act;
 
-                            in respect of that commutation;
+                             in respect of that commutation;
 
 exceeds the amount per annum of the retirement pay to which the person was or will be entitled on retirement multiplied by the maximum commutation factor.
 
           (2B)  For the purposes of subsection (2A), the maximum commutation factor is the number calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image005.gif)
 
 where **_A_** is:
 
@@ -1018,7 +1108,7 @@ where **_A_** is:
 
                      (b)  the amount per annum of the retirement pay payable to him, on and after the day on which the election takes effect, is the amount per annum that, but for this paragraph and subsection 98K(1), would be payable reduced by an amount calculated by dividing the amount referred to in paragraph (a) by the expectation of life factor that, having regard to the age and sex of the person on the day on which the election takes effect, is applicable to him under Schedule 3.
 
-             (4)  For the purposes of this section, an election shall be deemed to have been made, and shall take effect, on the day on which the notice of election is received by CSC or the day following the day on which the person retires, whichever is the later.
+             (4)  For the purposes of this section, an election shall be deemed to have been made, and shall take effect, on the day on which the notice of election is received by the Authority or the day following the day on which the person retires, whichever is the later.
 
              (5)  Where:
 
@@ -1046,7 +1136,7 @@ then, subject to subsection (7), subsection (3) applies to the person as if:
 
                      (b)  if the previous election made by the person had specified a lesser amount than the previous maximum amount—an amount calculated by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image006.gif)
 
              (7)  Where, because of subsection (5), subsection (3) applies to a person (in this subsection called the **_recipient member_**), there must be deducted from the amount that, apart from this subsection, would be payable to the recipient member under paragraph (3)(a) an amount equal to the sum of:
 
@@ -1076,13 +1166,13 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the specified amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image007.gif)
 
 where:
 
                     <a name="basic-rate"></a>**_basic rate_** means the amount per annum referred to in paragraph (3)(b).
 
-                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by CSC under section 124A.
+                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by the Authority under section 124A.
 
                     <a name="excess"></a>**_excess_** means the amount by which the member’s surcharge deduction amount exceeds the specified amount.
 
@@ -1102,13 +1192,13 @@ the following provisions apply:
 
                       (f)  the amount per annum of the retirement pay payable to the member, on and after the day on which the election takes effect, is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image007.gif)
 
                             where:
 
                     <a name="basic-rate"></a>**_basic rate_** means the amount per annum referred to in paragraph (3)(b).
 
-                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by CSC under section 124A.
+                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by the Authority sunder section 124A.
 
 **_excess_** means the amount by which the member’s surcharge deduction amount exceeds the amount of the member’s productivity superannuation benefit.
 
@@ -1144,13 +1234,13 @@ the following provisions apply:
 
                      (b)  retires and, on his retirement, is entitled to retirement pay;
 
-                     (c)  was, on 30 September 1972 and, immediately before his retirement, an officer; and
+                     (c)  was, on 30 September 1972 and, immediately before his retirement, an officer; and
 
                      (d)  is a person:
 
                               (i)  who, on his retirement, had attained the retiring age for the rank held by him on 30 September 1972 and had completed not less than 15 years’ service for pension; or
 
-                             (ii)  who, on his retirement, had not attained the retiring age for the rank held by him on 30 September 1972 but in respect of whom CSC is satisfied that, but for the enactment of this Act and the _Defence Forces Retirement Benefits Act 1973_, paragraph 39(2)(b) or (c) of the previous Act would, on his retirement, have applied.
+                             (ii)  who, on his retirement, had not attained the retiring age for the rank held by him on 30 September 1972 but in respect of whom the Authority is satisfied that, but for the enactment of this Act and the _Defence Forces Retirement Benefits Act 1973_, paragraph 39(2)(b) or (c) of the previous Act would, on his retirement, have applied.
 
        (2AA)  For the purposes of subparagraph (2)(d)(ii):
 
@@ -1164,9 +1254,9 @@ the following provisions apply:
 
           (2A)  Where a person to whom this section applies has made an election under section 44 of the _Defence Forces Retirement Benefits Act 1959_, section 28 of the _Defence Forces Retirement Benefits Act 1962_ or section 38, 61A or 61B of the _Defence Forces Retirement Benefits Act 1963_, this section has effect as if the previous pension percentage of pay in relation to that person were a percentage that would have been the previous pension percentage of pay in relation to him if he had not made that election and had paid all the contributions which he would, but for that election, have been required to pay under the previous legislation.
 
-             (3)  Where the previous pension percentage of pay applicable to a person to whom this section applies is greater than the new pension percentage of pay applicable to him, he may, by notice in writing given to CSC within a period of 90 days after the date of his retirement, or within such further period as CSC, in special circumstances, allows, elect that the rate at which retirement pay shall be payable to him shall be an amount per annum that is such percentage of his annual rate of pay for the purposes of this Act immediately before his retirement as is the same as the previous pension percentage of pay applicable to him, and, subject to subsection (4), the election has effect accordingly.
+             (3)  Where the previous pension percentage of pay applicable to a person to whom this section applies is greater than the new pension percentage of pay applicable to him, he may, by notice in writing given to the Authority within a period of 90 days after the date of his retirement, or within such further period as the Authority, in special circumstances, allows, elect that the rate at which retirement pay shall be payable to him shall be an amount per annum that is such percentage of his annual rate of pay for the purposes of this Act immediately before his retirement as is the same as the previous pension percentage of pay applicable to him, and, subject to subsection (4), the election has effect accordingly.
 
-             (4)  Where CSC so determines, an election under subsection (3) is of no effect unless the person making the election pays to the Commonwealth a contribution under this section of such amount as CSC determines as being appropriate in the circumstances or arrangements satisfactory to CSC are made for the payment of that contribution to the Commonwealth.
+             (4)  Where the Authority so determines, an election under subsection (3) is of no effect unless the person making the election pays to the Commonwealth a contribution under this section of such amount as the Authority determines as being appropriate in the circumstances or arrangements satisfactory to the Authority are made for the payment of that contribution to the Commonwealth.
 
              (5)  In the application of this section to a person who was, on 30 September 1972, a non‑Permanent Forces officer as defined by section 54A of the previous Act, the retiring age for the rank held shall be the age that would be deemed, for the purposes referred to in subsection 54A(2) of that Act, to be the retiring age for the rank held by the person on his retirement if he had retired on 30 September 1972.
 
@@ -1182,7 +1272,7 @@ the following provisions apply:
 
                      (a)  a contributing member is retired on the ground of invalidity or of physical or mental incapacity to perform his duties; and
 
-                     (b)  the invalidity or incapacity is, in the opinion of CSC, due to wilful action on his part for the purpose of obtaining invalidity benefit;
+                     (b)  the invalidity or incapacity is, in the opinion of the Authority, due to wilful action on his part for the purpose of obtaining invalidity benefit;
 
 he is not entitled to invalidity benefit.
 
@@ -1192,7 +1282,7 @@ he is not entitled to invalidity benefit.
 
                      (a)  a contributing member (not being a contributing member who has become an eligible member of the Defence Force by virtue of an election under section 90) is, within a period of one year after becoming a contributing member, retired on the ground of invalidity or of physical or mental incapacity to perform his duties; and
 
-                     (b)  CSC is satisfied that:
+                     (b)  the Authority is satisfied that:
 
                               (i)  the invalidity or incapacity was caused, or was substantially contributed to, by a physical or mental condition that existed at the time when he became a contributing member; and
 
@@ -1216,7 +1306,7 @@ he shall, for the purposes of subsection (1), be treated as if he had first be
 
                      (a)  a contributing member has been retired on the ground of invalidity or of physical or mental incapacity to perform his duties;
 
-                     (b)  CSC is satisfied that the invalidity or incapacity was caused, or was substantially contributed to, by an occurrence that happened at a time when he was absent without leave and had been so absent for a period exceeding 60 consecutive days;
+                     (b)  the Authority is satisfied that the invalidity or incapacity was caused, or was substantially contributed to, by an occurrence that happened at a time when he was absent without leave and had been so absent for a period exceeding 60 consecutive days;
 
                      (c)  in a case where the period when the contributing member was absent without leave commenced on or after 3 July 1985 or commenced before that day and ended on or after that day—both of the following subparagraphs apply:
 
@@ -1228,7 +1318,7 @@ he is not entitled to invalidity benefit.
 
 ##### <a id="30"></a>30  Classification in respect of incapacity
 
-             (1)  Where a member of the scheme, not being a member of the scheme to whom section 36 applies, is, or is about to become, entitled to invalidity benefit, CSC shall determine his percentage of incapacity in relation to civil employment and shall classify him according to the percentage of incapacity as follows:
+             (1)  Where a member of the scheme, not being a member of the scheme to whom section 36 applies, is, or is about to become, entitled to invalidity benefit, the Authority shall determine his percentage of incapacity in relation to civil employment and shall classify him according to the percentage of incapacity as follows:
 
 <table>
 <colgroup>
@@ -1277,9 +1367,9 @@ he is not entitled to invalidity benefit.
 
                      (a)  a member of the scheme (other than a member to whom section 36 applies) who is entitled to invalidity benefit dies; and
 
-                     (b)  at the time of his or her death, CSC has not made a determination in respect of the member under subsection (1);
+                     (b)  at the time of his or her death, the Authority has not made a determination in respect of the member under subsection (1);
 
-CSC must:
+the Authority must:
 
                      (c)  determine what was, immediately before the member’s death, his or her percentage of incapacity in relation to civil employment; and
 
@@ -1287,7 +1377,7 @@ CSC must:
 
           (1B)  Where a deceased member of the scheme is classified under this section, the classification is taken to have had effect at all times on and after his or her retirement.
 
-             (2)  In determining, for the purposes of subsection (1), the percentage of incapacity in relation to civil employment of a member of the scheme, CSC shall have regard to the following matters only:
+             (2)  In determining, for the purposes of subsection (1), the percentage of incapacity in relation to civil employment of a member of the scheme, the Authority shall have regard to the following matters only:
 
                      (a)  the vocational, trade and professional skills, qualifications and experience of the member;
 
@@ -1309,13 +1399,13 @@ CSC must:
 
              (4)  If the member of the scheme makes an election under subsection 124(1), the rate at which invalidity pay is payable to the member is the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image004.gif)
 
 where:
 
                     <a name="basic-rate"></a>**_basic rate_** means the annual rate at which invalidity pay would be payable to the member under this section if the member did not make the election.
 
-                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by CSC under section 124A.
+                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by the Authority under section 124A.
 
                     <a name="surcharg-duction-amount"></a>**_surcharge deduction amount_** means the member’s surcharge deduction amount.
 
@@ -1349,9 +1439,9 @@ where:
 
           (1A)  Subsection (1) does not apply to a member of the scheme who, after the commencement of this subsection, became a person to whom subsection 62(1) or (2) applied.
 
-             (2)  A member of the scheme to whom this section applies may, by notice in writing given to CSC, elect to commute a portion of his or her invalidity pay in accordance with this section.
+             (2)  A member of the scheme to whom this section applies may, by notice in writing given to the Authority, elect to commute a portion of his or her invalidity pay in accordance with this section.
 
-          (2A)  A notice under subsection (2) shall be given not earlier than 3 months before becoming entitled to invalidity pay and not later than one year after becoming so entitled or such further period as CSC, in special circumstances, allows.
+          (2A)  A notice under subsection (2) shall be given not earlier than 3 months before becoming entitled to invalidity pay and not later than one year after becoming so entitled or such further period as the Authority, in special circumstances, allows.
 
              (3)  An election under subsection (2) by a member of the scheme to whom this section applies shall specify the amount that is to be payable to him by virtue of the commutation.
 
@@ -1373,7 +1463,7 @@ exceeds the amount per annum of the invalidity pay to which the member of the sc
 
           (4A)  For the purposes of subsection (4), the maximum commutation factor is the number calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image005.gif)
 
 where **_A_** is:
 
@@ -1395,7 +1485,7 @@ where **_A_** is:
 
 the election has no effect.
 
-             (6)  For the purposes of this section, an election shall be deemed to have been made, and shall take effect, on the day on which the notice of election is received by CSC or the day following the day on which the member of the scheme retires, whichever is the later.
+             (6)  For the purposes of this section, an election shall be deemed to have been made, and shall take effect, on the day on which the notice of election is received by the Authority or the day following the day on which the member of the scheme retires, whichever is the later.
 
              (7)  If:
 
@@ -1419,13 +1509,13 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the specified amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image007.gif)
 
 where:
 
                     <a name="basic-rate"></a>**_basic rate_** means the amount per annum referred to in paragraph (5)(b).
 
-                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by CSC under section 124A.
+                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by the Authority under section 124A.
 
                     <a name="excess"></a>**_excess_** means the amount by which the member’s surcharge deduction amount exceeds the specified amount.
 
@@ -1445,13 +1535,13 @@ the following provisions apply:
 
                       (f)  the amount per annum of the invalidity pay payable to the member, on and after the day on which the election takes effect, is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image007.gif)
 
 where:
 
                     <a name="basic-rate"></a>**_basic rate_** means the amount per annum referred to in paragraph (5)(b).
 
-                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by CSC under section 124A.
+                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by the Authority under section 124A.
 
 **_excess_** means the amount by which the member’s surcharge deduction amount exceeds the amount of the member’s productivity superannuation benefit.
 
@@ -1497,23 +1587,23 @@ and had, on 30 September 1972, completed a number of years of service for pens
 
           (2A)  Where a person to whom this section applies has made an election under section 44 of the _Defence Forces Retirement Benefits Act 1959_, section 28 of the _Defence Forces Retirement Benefits Act 1962_ or section 38, 61A or 61B of the _Defence Forces Retirement Benefits Act 1963_, this section has effect as if the previous pension percentage of pay in relation to the person were a percentage that would have been the previous pension percentage of pay in relation to him if he had not made the election and had paid all the contributions which he would, but for that election, have been required to pay under the previous legislation.
 
-             (3)  Where the previous pension percentage of pay applicable to a person to whom this section applies, being a person who on his retirement, is classified as Class B or Class C under section 30, is greater than the new pension percentage of pay applicable to him, he may, by notice in writing given to CSC within a period of 90 days after the date of his retirement, or within such further period as CSC, in special circumstances, allows, elect that the rate at which invalidity pay shall be payable to him shall be an amount per annum that is such percentage of his annual rate of pay for the purposes of this Act immediately before his retirement as is the same as the previous pension percentage of pay applicable to him, and, subject to subsection (5), the election has effect accordingly.
+             (3)  Where the previous pension percentage of pay applicable to a person to whom this section applies, being a person who on his retirement, is classified as Class B or Class C under section 30, is greater than the new pension percentage of pay applicable to him, he may, by notice in writing given to the Authority within a period of 90 days after the date of his retirement, or within such further period as the Authority, in special circumstances, allows, elect that the rate at which invalidity pay shall be payable to him shall be an amount per annum that is such percentage of his annual rate of pay for the purposes of this Act immediately before his retirement as is the same as the previous pension percentage of pay applicable to him, and, subject to subsection (5), the election has effect accordingly.
 
-             (4)  Where the previous pension percentage of pay applicable to a person to whom this section applies, being a person who, on his retirement is classified as Class A under section 30 but is subsequently reclassified as Class B, is greater than the new pension percentage of pay applicable to him, he may, by notice in writing given to CSC within a period of 90 days after the date from which the re‑classification has effect, or within such further period as CSC, in special circumstances, allows, elect that the rate at which invalidity pay shall be payable to him shall be an amount per annum that is such percentage of his annual rate of pay for the purposes of this Act immediately before his retirement as is the same as the previous pension percentage of pay applicable to him, and, subject to subsection (5), the election has effect accordingly.
+             (4)  Where the previous pension percentage of pay applicable to a person to whom this section applies, being a person who, on his retirement is classified as Class A under section 30 but is subsequently reclassified as Class B, is greater than the new pension percentage of pay applicable to him, he may, by notice in writing given to the Authority within a period of 90 days after the date from which the re‑classification has effect, or within such further period as the Authority, in special circumstances, allows, elect that the rate at which invalidity pay shall be payable to him shall be an amount per annum that is such percentage of his annual rate of pay for the purposes of this Act immediately before his retirement as is the same as the previous pension percentage of pay applicable to him, and, subject to subsection (5), the election has effect accordingly.
 
-             (5)  Where CSC so determines, an election under subsection (3) or (4) is of no effect unless the person making the election pays to the Commonwealth a contribution under this section of such amount as CSC determines as being appropriate in the circumstances or arrangements satisfactory to CSC are made for the payment of that contribution to the Commonwealth.
+             (5)  Where the Authority so determines, an election under subsection (3) or (4) is of no effect unless the person making the election pays to the Commonwealth a contribution under this section of such amount as the Authority determines as being appropriate in the circumstances or arrangements satisfactory to the Authority are made for the payment of that contribution to the Commonwealth.
 
              (6)  In the application of this section to a person who was, on 30 September 1972, a non‑Permanent Forces officer as defined by section 54A of the previous Act, the retiring age for the rank held shall be the age that would be deemed, for the purposes referred to in subsection 54A(2) of that Act, to be the retiring age for the rank held by the person on his retirement if he had retired on 30 September 1972.
 
 ##### <a id="34"></a>34  Reclassification in respect of incapacity
 
-             (1)  CSC may, from time to time, if it is satisfied that the percentage of incapacity in relation to civil employment of a recipient member in receipt of invalidity pay is such that the classification of the member should be altered, reclassify him in the appropriate classification set out in section 30 according to the percentage of his incapacity in relation to civil employment.
+             (1)  The Authority may, from time to time, if it is satisfied that the percentage of incapacity in relation to civil employment of a recipient member in receipt of invalidity pay is such that the classification of the member should be altered, reclassify him in the appropriate classification set out in section 30 according to the percentage of his incapacity in relation to civil employment.
 
-       (1AA)  If, at a time when CSC is reviewing, but has not yet determined, for the purposes of subsection (1), the percentage of incapacity in relation to civil employment of a recipient member, the recipient member dies:
+       (1AA)  If, at a time when the Authority is reviewing, but has not yet determined, for the purposes of subsection (1), the percentage of incapacity in relation to civil employment of a recipient member, the recipient member dies:
 
-                     (a)  CSC must determine what was, immediately before the member’s death, his or her percentage of incapacity in relation to civil employment; and
+                     (a)  the Authority must determine what was, immediately before the member’s death, his or her percentage of incapacity in relation to civil employment; and
 
-                     (b)  where CSC is satisfied, having regard to that percentage of incapacity, that, if the member had not died, the member would be reclassified and given a classification higher than that of the member at the time of his or her death, CSC must reclassify the member under subsection (1) according to that percentage of incapacity, as if the member had not died.
+                     (b)  where the Authority is satisfied, having regard to that percentage of incapacity, that, if the member had not died, the member would be reclassified and given a classification higher than that of the member at the time of his or her death, the Authority must reclassify the member under subsection (1) according to that percentage of incapacity, as if the member had not died.
 
           (1A)  In determining:
 
@@ -1521,7 +1611,7 @@ and had, on 30 September 1972, completed a number of years of service for pens
 
                   (aab)  what was, immediately before his or her death, the percentage of incapacity in relation to civil employment of a recipient member who has died;
 
-CSC shall have regard to the following matters only:
+the Authority shall have regard to the following matters only:
 
                      (a)  the vocational, trade and professional skills, qualifications and experience of the recipient member;
 
@@ -1537,19 +1627,19 @@ CSC shall have regard to the following matters only:
 
                      (b)  any other physical or mental impairment of the member causally connected with a physical or mental impairment referred to in paragraph (a).
 
-             (2)  Where a recipient member is reclassified under this section, CSC shall specify the date from which the reclassification has effect, and, on and after that date, the recipient member shall, for the purposes of this Part, be deemed to be classified under section 30 accordingly.
+             (2)  Where a recipient member is reclassified under this section, the Authority shall specify the date from which the reclassification has effect, and, on and after that date, the recipient member shall, for the purposes of this Part, be deemed to be classified under section 30 accordingly.
 
           (2A)  Where a deceased member is reclassified under this section:
 
-                     (a)  CSC must specify the day from which the reclassification has effect; and
+                     (a)  the Authority must specify the day from which the reclassification has effect; and
 
                      (b)  the member is taken, for the purposes of this Part, to have been classified under section 30 accordingly on and after that day.
 
-             (3)  Where CSC reclassifies a recipient member (other than a member to whom section 37 applies) under this section, the date specified by CSC as the date from which the reclassification has effect shall not be a date earlier than the date on which CSC reclassifies the member unless:
+             (3)  Where the Authority reclassifies a recipient member (other than a member to whom section 37 applies) under this section, the date specified by the Authority as the date from which the reclassification has effect shall not be a date earlier than the date on which the Authority reclassifies the member unless:
 
                      (a)  the member is reclassified as Class A or, having been classified as Class C, is reclassified as Class B; and
 
-                     (b)  CSC is satisfied that special circumstances exist that justify an earlier date being so specified.
+                     (b)  the Authority is satisfied that special circumstances exist that justify an earlier date being so specified.
 
              (4)  If, upon the reclassification of a recipient member as Class C, he would, but for this subsection, be entitled to benefit in accordance with subsection 32(2), he is entitled to that benefit only to the extent that the amount of that benefit exceeds the sum of the payments of invalidity pay received by him.
 
@@ -1561,17 +1651,17 @@ CSC shall have regard to the following matters only:
 
 but does not include a member of the scheme who is retired after the commencement of this subsection and, on his retirement, is classified as Class C under section 30.
 
-##### <a id="35"></a>35  Power of CSC to require persons to be medically examined etc.
+##### <a id="35"></a>35  Power of Authority to require persons to be medically examined etc.
 
-             (1)  CSC may, by notice in writing given to a recipient member in receipt of invalidity pay require him:
+             (1)  The Authority may, by notice in writing given to a recipient member in receipt of invalidity pay require him:
 
                      (a)  to submit himself for medical examination by a legally qualified medical practitioner at a time and place specified in the notice; or
 
-                     (b)  to furnish in writing to CSC, within such period as is specified in the notice, such information as is required by the notice with respect to any employment (whether as an employee or on his own account) in which he has been engaged during such period as is specified in the notice.
+                     (b)  to furnish in writing to the Authority, within such period as is specified in the notice, such information as is required by the notice with respect to any employment (whether as an employee or on his own account) in which he has been engaged during such period as is specified in the notice.
 
              (2)  A notice under subsection (1) shall set out the effect of subsection (3).
 
-             (3)  Where a recipient member fails to comply with a notice given under subsection (1) and CSC is not satisfied that there was a reasonable excuse for the failure, CSC may, by notice in writing given to the member, suspend the member’s invalidity pay with effect from such day as CSC determines, being a day not earlier than:
+             (3)  Where a recipient member fails to comply with a notice given under subsection (1) and the Authority is not satisfied that there was a reasonable excuse for the failure, the Authority may, by notice in writing given to the member, suspend the member’s invalidity pay with effect from such day as the Authority determines, being a day not earlier than:
 
                      (a)  in a case where the first‑mentioned notice required the member to submit to a medical examination on a day specified in the notice—the day next following that day; or
 
@@ -1585,17 +1675,17 @@ but does not include a member of the scheme who is retired after the commencemen
 
                      (a)  the invalidity pay of a recipient member is suspended under subsection (3); and
 
-                     (b)  CSC, having regard to such matters as it considers relevant, is of the opinion that the suspension should be revoked;
+                     (b)  the Authority, having regard to such matters as it considers relevant, is of the opinion that the suspension should be revoked;
 
-CSC may, by notice in writing given to the member or to the member and a person acting on the member’s behalf, as the case may be, revoke the suspension with effect from such day as CSC determines, being a day not later than the day on which the notice is given.
+the Authority may, by notice in writing given to the member or to the member and a person acting on the member’s behalf, as the case may be, revoke the suspension with effect from such day as the Authority determines, being a day not later than the day on which the notice is given.
 
-          (5B)  Without limiting subsection (5A), where the invalidity pay of a recipient member is suspended under subsection (3), the member, or another person acting on the member’s behalf, may, by notice in writing given to CSC, request CSC to revoke the suspension, and where such a request is made, CSC shall, by notice in writing given to the member or to the member and the other person, as the case may be:
+          (5B)  Without limiting subsection (5A), where the invalidity pay of a recipient member is suspended under subsection (3), the member, or another person acting on the member’s behalf, may, by notice in writing given to the Authority, request the Authority to revoke the suspension, and where such a request is made, the Authority shall, by notice in writing given to the member or to the member and the other person, as the case may be:
 
                      (a)  if the invalidity pay has been suspended by virtue of the relevant member’s having failed to comply with a notice requiring the member to submit to a medical examination—require the member to submit to a medical examination by a medical practitioner at a time and place specified in the second‑mentioned notice; or
 
-                     (b)  if the invalidity pay has been suspended by virtue of the member’s having failed to comply with a notice requiring the member to give information to CSC (in this paragraph called **_the original notice_**)—require the member to give in writing to CSC, within such period as is specified in the second‑mentioned notice, such information as was required by the original notice to be given.
+                     (b)  if the invalidity pay has been suspended by virtue of the member’s having failed to comply with a notice requiring the member to give information to the Authority (in this paragraph called **_the original notice_**)—require the member to give in writing to the Authority, within such period as is specified in the second‑mentioned notice, such information as was required by the original notice to be given.
 
-          (5C)  A notice given by CSC under subsection (5B) shall set out the effects of subsections (5D) and (5E).
+          (5C)  A notice given by the Authority under subsection (5B) shall set out the effects of subsections (5D) and (5E).
 
           (5D)  Where:
 
@@ -1605,35 +1695,35 @@ CSC may, by notice in writing given to the member or to the member and a person 
 
                               (i)  the member complies with the notice; or
 
-                             (ii)  the member fails to comply with the notice but CSC is satisfied that there was a reasonable excuse for the failure;
+                             (ii)  the member fails to comply with the notice but the Authority is satisfied that there was a reasonable excuse for the failure;
 
-CSC shall, by notice in writing given to the member or to the member and the other person, as the case may be, revoke the suspension with effect from such day as CSC determines, being a day not later than:
+the Authority shall, by notice in writing given to the member or to the member and the other person, as the case may be, revoke the suspension with effect from such day as the Authority determines, being a day not later than:
 
                      (c)  in a case to which subparagraph (b)(i) applies—the day on which the member so complied with the notice; or
 
-                     (d)  in a case to which subparagraph (b)(ii) applies—the day on which CSC became so satisfied.
+                     (d)  in a case to which subparagraph (b)(ii) applies—the day on which the Authority became so satisfied.
 
           (5E)  Where:
 
                      (a)  because of a request having been made to revoke the suspension of the invalidity pay of a recipient member, a notice under subsection (5B) is given to the member or to the member and another person; and
 
-                     (b)  the member fails to comply with the notice and CSC is not satisfied that there was a reasonable excuse for the failure;
+                     (b)  the member fails to comply with the notice and the Authority is not satisfied that there was a reasonable excuse for the failure;
 
-CSC shall, by notice in writing given to the member or to the member and the other person, as the case may be, refuse to revoke the suspension.
+the Authority shall, by notice in writing given to the member or to the member and the other person, as the case may be, refuse to revoke the suspension.
 
              (6)  Where a person whose invalidity pay has been suspended under this section dies before the invalidity pay again becomes payable, he shall, for the purposes of sections 39, 42, 43 and 47, be deemed to have been entitled to invalidity pay immediately before his death and, for the purposes of sections 39, 42 and 43, the invalidity pay shall be deemed to have been payable at the rate at which it would have been payable to him if it had not been suspended.
 
-          (6A)  Where CSC is required by this section to give a recipient member a notice, the notice shall be taken to have been given to the member if:
+          (6A)  Where the Authority is required by this section to give a recipient member a notice, the notice shall be taken to have been given to the member if:
 
                      (a)  the notice is served on the member personally;
 
                      (b)  the notice is sent to the member by pre‑paid post as a letter and the member acknowledges receipt of the letter; or
 
-                     (c)  where CSC has caused all reasonable steps to be taken to ascertain a reliable address of the member, the notice is sent to the member by pre‑paid post to:
+                     (c)  where the Authority has caused all reasonable steps to be taken to ascertain a reliable address of the member, the notice is sent to the member by pre‑paid post to:
 
-                              (i)  in a case where CSC is satisfied that at least one reliable address of the member has been ascertained—that address or one of those addresses; or
+                              (i)  in a case where the Authority is satisfied that at least one reliable address of the member has been ascertained—that address or one of those addresses; or
 
-                             (ii)  in any other case—the last address of the member known to CSC.
+                             (ii)  in any other case—the last address of the member known to the Authority.
 
           (6B)  A reference in subsection (6A) to a reliable address of a member shall be read as a reference to an address where, if a letter were sent to the member by pre‑paid post to the address, the member would probably receive the letter.
 
@@ -1641,7 +1731,7 @@ CSC shall, by notice in writing given to the member or to the member and the oth
 
                      (a)  is retired after the commencement of this subsection; and
 
-                     (b)  on his retirement, is classified as Class C under section 30 and is entitled to invalidity pay.
+                     (b)  on his retirement, is classified as Class C under section 30 and is entitled to invalidity pay.
 
 ##### <a id="36"></a>36  Invalidity benefits payable to certain contributors under Superannuation Act or the _Superannuation Act 1990_
 
@@ -1651,7 +1741,7 @@ CSC shall, by notice in writing given to the member or to the member and the oth
 
                      (b)  who, at the time he becomes so entitled:
 
-                              (i)  is an eligible employee for the purposes of the Superannuation Act whose liability to make contributions to CSC is deferred by virtue of section 54 of the Superannuation Act; or
+                              (i)  is an eligible employee for the purposes of the Superannuation Act whose liability to make contributions to the Commissioner for Superannuation is deferred by virtue of section 54 of the Superannuation Act; or
 
                              (ii)  is a person whose entitlement to pension under that Act is suspended by force of subsection 117(1) of that Act; or
 
@@ -1659,9 +1749,9 @@ CSC shall, by notice in writing given to the member or to the member and the oth
 
              (2)  The invalidity benefit to which a member of the scheme to whom this section applies is entitled is benefit under subsection 32(2) as if he were a member of the scheme classified as Class C under section 30.
 
-##### <a id="37"></a>37  Service Chief may inform CSC of grounds of retirement
+##### <a id="37"></a>37  Service Chief may inform authority of grounds of retirement
 
-                   Where a contributing member has been retired otherwise than on the ground of invalidity or of physical or mental incapacity to perform his duties but, after his retirement, the Chief of Navy, the Chief of Army or the Chief of Air Force or a person authorized in writing by the Chief of Navy, the Chief of Army or the Chief of Air Force, as the case requires, informs CSC that, at the time the member was retired, grounds existed on which he could have been retired on the ground of invalidity or of physical or mental incapacity to perform his duties, he may, for the purposes of this Act, be treated as if he had been retired on that ground.
+                   Where a contributing member has been retired otherwise than on the ground of invalidity or of physical or mental incapacity to perform his duties but, after his retirement, the Chief of Navy, the Chief of Army or the Chief of Air Force or a person authorized in writing by the Chief of Navy, the Chief of Army or the Chief of Air Force, as the case requires, informs the Authority that, at the time the member was retired, grounds existed on which he could have been retired on the ground of invalidity or of physical or mental incapacity to perform his duties, he may, for the purposes of this Act, be treated as if he had been retired on that ground.
 
 ## Part VI—Benefits on death of member of scheme
 
@@ -1699,9 +1789,9 @@ then, in spite of any other law:
 
 ##### <a id="41"></a>41  Rate of pension payable on death of member of scheme leaving more than one spouse
 
-             (1)  If a member of the scheme (**_deceased person_**) is survived by more than one spouse, CSC must allocate any pension payable to a spouse in respect of the deceased person under this Act among the spouses.
+             (1)  If a member of the scheme (**_deceased person_**) is survived by more than one spouse, the Authority must allocate any pension payable to a spouse in respect of the deceased person under this Act among the spouses.
 
-             (2)  CSC must have regard to the respective needs of the spouses when making the allocation.
+             (2)  The Authority must have regard to the respective needs of the spouses when making the allocation.
 
              (3)  Subject to subsections (4) and (5), a pension is only payable to each spouse in accordance with the allocation.
 
@@ -1739,7 +1829,7 @@ then, in spite of any other law:
 
                      (b)  in the case of a contributing member referred to in subparagraph (a)(iii)—that member is a member of a prescribed class of deceased spouses;
 
-the person (in this section called the **_elector_**) may, by notice in writing given to CSC, elect to commute a portion of his or her pension in accordance with this section.
+the person (in this section called the **_elector_**) may, by notice in writing given to the Authority, elect to commute a portion of his or her pension in accordance with this section.
 
           (1A)  In subsection (1), **_widow_** and **_widower_** have their respective meanings given by this Act as in force immediately before the commencement of the _Commonwealth Superannuation Schemes Amendment Act 1992_.
 
@@ -1751,7 +1841,7 @@ the person (in this section called the **_elector_**) may, by notice in writing 
 
              (3)  The amount referred to in subsection (2) must not exceed an amount calculated in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image008.gif)
 
 where:
 
@@ -1783,17 +1873,17 @@ the following provisions apply:
 
                              (ii)  if the member’s surcharge deduction amount exceeds the commuted amount—the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image007.gif)
 
 where:
 
                     <a name="basic-rate"></a>**_basic rate_** means the amount per annum referred to in paragraph (4)(b).
 
-                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by CSC under section 124A.
+                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by the Authority under section 124A.
 
 **_excess_** means the amount by which the member’s surcharge deduction amount exceeds the commuted amount.
 
-             (5)  For the purposes of this section, an election is taken to have been made, and takes effect, on the day on which the notice of election is received by CSC.
+             (5)  For the purposes of this section, an election is taken to have been made, and takes effect, on the day on which the notice of election is received by the Authority.
 
 ### Division 2—Children’s pensions
 
@@ -1819,13 +1909,13 @@ where:
 
 then, subject to subsection (2A), there is payable to the orphan or each of the orphans, instead of the pensions described in subsection (2), a pension at the rate worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image004.gif)
 
 where:
 
                     <a name="basic-rate"></a>**_basic rate_** means the amount per annum equal to the sum of the rates of the pensions described in subsection (2).
 
-                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by CSC under section 124A.
+                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the member under the determination made by the Authority under section 124A.
 
                     <a name="surcharg-duction-amount"></a>**_surcharge deduction amount_** means the member’s surcharge deduction amount.
 
@@ -1839,37 +1929,37 @@ where:
 
 ##### <a id="43A"></a>43A  Special pensions
 
-             (1)  If, at any time after the date of commencement of this section (in this section referred to as the **_commencing date_**), pension is not payable under section 39 to a person to whom pension would be payable at that time under that section were this Act, as amended and in force on the commencing date, to have been in force before the date of death of a member of the scheme who died before the commencing date, CSC may grant, from such date as it specifies, a pension to the person at such rate and on such conditions as CSC, having regard to such matters (if any) as are prescribed and such other matters as it considers relevant, determines.
+             (1)  If, at any time after the date of commencement of this section (in this section referred to as the **_commencing date_**), pension is not payable under section 39 to a person to whom pension would be payable at that time under that section were this Act, as amended and in force on the commencing date, to have been in force before the date of death of a member of the scheme who died before the commencing date, the Authority may grant, from such date as it specifies, a pension to the person at such rate and on such conditions as the Authority, having regard to such matters (if any) as are prescribed and such other matters as it considers relevant, determines.
 
-             (2)  If, at any time after the commencing date, pension is not payable under section 42 or 43 to a person to whom pension would be payable under that section were this Act, as amended and in force on the commencing date, to have been in force before the date of death for a member of the scheme who died before the commencing date, CSC may grant, from such date as it specifies, a pension to the person at such rate and on such conditions as CSC, having regard to such matters (if any) as are prescribed and such other matters as it considers relevant, determines.
+             (2)  If, at any time after the commencing date, pension is not payable under section 42 or 43 to a person to whom pension would be payable under that section were this Act, as amended and in force on the commencing date, to have been in force before the date of death for a member of the scheme who died before the commencing date, the Authority may grant, from such date as it specifies, a pension to the person at such rate and on such conditions as the Authority, having regard to such matters (if any) as are prescribed and such other matters as it considers relevant, determines.
 
-             (3)  A date specified by CSC under subsection (1) or (2) in relation to the granting of an entitlement to pension benefit shall not, unless CSC is satisfied that special circumstances exist that justify an earlier date being so specified, be a date earlier than the date upon which the grant is made, and shall not, in any event, be a date earlier than the commencing date.
+             (3)  A date specified by the Authority under subsection (1) or (2) in relation to the granting of an entitlement to pension benefit shall not, unless the Authority is satisfied that special circumstances exist that justify an earlier date being so specified, be a date earlier than the date upon which the grant is made, and shall not, in any event, be a date earlier than the commencing date.
 
-             (4)  A determination by CSC for the purpose of subsection (1) or (2) shall be in writing.
+             (4)  A determination by the Authority for the purpose of subsection (1) or (2) shall be in writing.
 
-             (5)  Where, at any time before the commencing date, pension has been paid to a person under section 39 as the widow (within the meaning of this Act as in force at that time) of a deceased recipient member, CSC shall not under subsection (1) of this section, grant a pension to any other person in respect of that deceased recipient member.
+             (5)  Where, at any time before the commencing date, pension has been paid to a person under section 39 as the widow (within the meaning of this Act as in force at that time) of a deceased recipient member, the Authority shall not under subsection (1) of this section, grant a pension to any other person in respect of that deceased recipient member.
 
-             (6)  CSC shall not, under subsection (1), grant a pension to a person unless CSC, having regard to such matters (if any) as are prescribed and such other matters as it considers relevant, is satisfied that the person is in necessitous circumstances or that the grant of the pension is otherwise warranted.
+             (6)  The Authority shall not, under subsection (1), grant a pension to a person unless the Authority, having regard to such matters (if any) as are prescribed and such other matters as it considers relevant, is satisfied that the person is in necessitous circumstances or that the grant of the pension is otherwise warranted.
 
-             (7)  CSC shall not, under subsection (1), grant a pension to a person in relation to a deceased member of the scheme from a specified date at a rate that exceeds the rate at which pension would have been payable from that specified date to the person under this Act had the person been, for the purpose of this Act as amended and in force at the date of death of the deceased member of the scheme, the widow or widower of the deceased member of the scheme.
+             (7)  The Authority shall not, under subsection (1), grant a pension to a person in relation to a deceased member of the scheme from a specified date at a rate that exceeds the rate at which pension would have been payable from that specified date to the person under this Act had the person been, for the purpose of this Act as amended and in force at the date of death of the deceased member of the scheme, the widow or widower of the deceased member of the scheme.
 
-             (8)  CSC shall not, under subsection (2), grant a pension to a person in relation to a deceased member of the scheme from a specified date at a rate that exceeds the rate at which pension would have been payable from that specified date to the person under this Act had the person been, for the purposes of this Act as amended and in force at the date of death of the deceased member of the scheme, the child of the deceased member of the scheme and an eligible child.
+             (8)  The Authority shall not, under subsection (2), grant a pension to a person in relation to a deceased member of the scheme from a specified date at a rate that exceeds the rate at which pension would have been payable from that specified date to the person under this Act had the person been, for the purposes of this Act as amended and in force at the date of death of the deceased member of the scheme, the child of the deceased member of the scheme and an eligible child.
 
-             (9)  The grant by CSC, under this section, of a pension to a person does not effect the entitlement of any other person under this Act to a pension benefit that is payable otherwise than by virtue of a grant of pension under this section, or the rate of such a pension benefit.
+             (9)  The grant by the Authority, under this section, of a pension to a person does not effect the entitlement of any other person under this Act to a pension benefit that is payable otherwise than by virtue of a grant of pension under this section, or the rate of such a pension benefit.
 
 ##### <a id="44"></a>44  Restoration of pensions for remarried widows and widowers
 
-             (1)  A widow or widower whose entitlement to a pension under section 39 has ceased on his or her remarriage may apply to CSC for:
+             (1)  A widow or widower whose entitlement to a pension under section 39 has ceased on his or her remarriage may apply to the Authority for:
 
                      (a)  restoration of the pension; or
 
                      (b)  restoration of the full rate of the pension.
 
-             (2)  If CSC is satisfied that the widow or widower’s entitlement to a pension ceased on his or her remarriage, CSC must, in writing, grant the pension at the rate at which the pension would have been payable to the widow or widower if the pension had not ceased.
+             (2)  If the Authority is satisfied that the widow or widower’s entitlement to a pension ceased on his or her remarriage, the Authority must, in writing, grant the pension at the rate at which the pension would have been payable to the widow or widower if the pension had not ceased.
 
-             (3)  The pension is payable to the widow or widower at that rate from the day on which CSC receives the application.
+             (3)  The pension is payable to the widow or widower at that rate from the day on which the Authority receives the application.
 
-             (4)  If CSC grants a person a pension under this section at a particular rate, the grant at that rate does not effect:
+             (4)  If the Authority grants a person a pension under this section at a particular rate, the grant at that rate does not effect:
 
                      (a)  any other person’s entitlement under this Act to any other pension benefit; or
 
@@ -1879,7 +1969,7 @@ where:
 
 ##### <a id="45"></a>45  Payment of benefits otherwise than to person entitled
 
-             (1)  Where, in the opinion of CSC, payment of an instalment, or part of an instalment, of pension benefit, or of an amount of any other benefit, should, by reason of the person who, but for this section, would be entitled to the payment, being a child, or being a person who is insane or undergoing imprisonment or otherwise being under a disability, or for any other reason which CSC thinks proper, be made to a person other than the person who would be so entitled to the payment, CSC may authorize the payment to be made to the other person, and payment shall be made to the other person accordingly.
+             (1)  Where, in the opinion of the Authority, payment of an instalment, or part of an instalment, of pension benefit, or of an amount of any other benefit, should, by reason of the person who, but for this section, would be entitled to the payment, being a child, or being a person who is insane or undergoing imprisonment or otherwise being under a disability, or for any other reason which the Authority thinks proper, be made to a person other than the person who would be so entitled to the payment, the Authority may authorize the payment to be made to the other person, and payment shall be made to the other person accordingly.
 
              (2)  A payment of an instalment of pension benefit payable to a child that, by virtue of subsection (1), is paid to a person other than the child, shall be applied for the maintenance, education or other benefit of the child.
 
@@ -1905,7 +1995,7 @@ where:
                              (ii)  was entitled to invalidity benefit and classified as
  Class C (under section 30) because of a reclassification under subsection 34(1) but was not entitled to invalidity pay; and
 
-                     (b)  CSC is satisfied that the death of the member was due to:
+                     (b)  the Authority is satisfied that the death of the member was due to:
 
                               (i)  a physical or mental impairment that was the cause, or one of the causes, of the invalidity or physical or mental incapacity by reason of which the member was retired; or
 
@@ -1928,7 +2018,7 @@ then, for the purposes of section 39, subsection 42(3) and subsection 43(3), t
 
                      (b)  there is only one period of effective service in relation to the member.
 
-             (1)  Where a member of the scheme dies before retirement and, on his death, no pension benefit is payable under this Part, a lump sum payment of an amount worked out under subsection (1AA) shall be paid to the personal representatives of the member, or failing them, to such persons, if any, as CSC determines, and no other benefit under this Act is payable in respect of the member.
+             (1)  Where a member of the scheme dies before retirement and, on his death, no pension benefit is payable under this Part, a lump sum payment of an amount worked out under subsection (1AA) shall be paid to the personal representatives of the member, or failing them, to such persons, if any, as the Authority determines, and no other benefit under this Act is payable in respect of the member.
 
        (1AA)  The amount of the lump sum payment referred to in subsection (1) is:
 
@@ -1948,7 +2038,7 @@ an amount equal to the difference between the amount referred to in paragraph 
 
                      (b)  the aggregate amount of retirement pay or invalidity pay paid or payable to him before his death is less than an amount equal to one and one‑half times the amount of his contributions;
 
-a lump sum payment equal to the difference shall be paid to the personal representatives of the member, or failing them, to such persons, if any, as CSC determines, and no other benefit under this Act is payable in respect of the member.
+a lump sum payment equal to the difference shall be paid to the personal representatives of the member, or failing them, to such persons, if any, as the Authority determines, and no other benefit under this Act is payable in respect of the member.
 
              (3)  Where:
 
@@ -1956,7 +2046,7 @@ a lump sum payment equal to the difference shall be paid to the personal represe
 
                      (b)  the aggregate amount of that pension benefit paid or payable in respect of him under this Part is less than an amount equal to one and one‑half times the amount of his contributions;
 
-a lump sum payment equal to the difference shall be paid to the personal representatives of the member, or failing them, to such persons, if any, as CSC determines.
+a lump sum payment equal to the difference shall be paid to the personal representatives of the member, or failing them, to such persons, if any, as the Authority determines.
 
              (4)  Where:
 
@@ -1964,7 +2054,7 @@ a lump sum payment equal to the difference shall be paid to the personal represe
 
                      (b)  the aggregate amount of retirement pay or invalidity pay paid or payable to the member before his death and of pension benefit paid or payable in respect of him under this Part is less than an amount equal to one and one‑half times the amount of his contributions;
 
-a lump sum payment equal to the difference shall be paid to the personal representatives of the member, or failing them, to such persons, if any, as CSC determines.
+a lump sum payment equal to the difference shall be paid to the personal representatives of the member, or failing them, to such persons, if any, as the Authority determines.
 
              (5)  In this section, a reference to the amount of retirement pay or invalidity pay paid or payable to a member of the scheme before his death shall be read as including, where an election has been made, by or on behalf of the member, under section 24 or 32A, to commute a portion of the retirement pay or invalidity pay, as the case may be, payable to the member, the amount paid or payable to or in respect of the member under paragraph 24(3)(a) or 32A(5)(a), as the case may be, by virtue of that election.
 
@@ -2042,7 +2132,7 @@ a lump sum payment equal to the difference is payable in respect of a member.
 
 a lump sum payment equal to the difference is payable in respect of the member in addition to the amount payable under subsection (2), (3), (5) or (6) (as the case may be) in respect of the member.
 
-             (8)  A lump sum payable in respect of a member of the scheme under this section is to be paid to the personal representatives of the member or to such person or persons (if any) as CSC determines.
+             (8)  A lump sum payable in respect of a member of the scheme under this section is to be paid to the personal representatives of the member or to such person or persons (if any) as the Authority determines.
 
 ##### <a id="49"></a>49  Death of contributing member after 60 days absence without leave
 
@@ -2060,7 +2150,7 @@ a lump sum payment equal to the difference is payable in respect of the member i
 
 benefit is not payable in respect of him under this Part.
 
-             (2)  CSC may direct that subsection (1) does not apply in relation to a deceased member of the scheme if CSC is satisfied, within a period of 6 months after his death, that by reason that a person who, immediately before his death, was wholly or substantially dependent upon him is in necessitous circumstances, such a direction should be given.
+             (2)  The Authority may direct that subsection (1) does not apply in relation to a deceased member of the scheme if the Authority is satisfied, within a period of 6 months after his death, that by reason that a person who, immediately before his death, was wholly or substantially dependent upon him is in necessitous circumstances, such a direction should be given.
 
 ## Part VIA—Family law superannuation splitting
 
@@ -2138,7 +2228,7 @@ Note:          This amount is determined by applying those reg
 
                      (c)  if a base amount applies and the scheme value is more than the family law value—the amount calculated using the formula:
 
-                            ![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image009.gif)
+                            ![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image009.gif)
 
 ### Division 2—Benefits for non‑member spouse
 
@@ -2146,7 +2236,7 @@ Note:          This amount is determined by applying those reg
 
              (1)  This section applies to a superannuation interest (the **_original interest_)**if:
 
-                     (a)  CSC receives a splitting agreement or splitting order in respect of the original interest; and
+                     (a)  the Authority receives a splitting agreement or splitting order in respect of the original interest; and
 
                      (b)  the original interest is not an entitlement to pension under section 42 or 43; and
 
@@ -2162,7 +2252,7 @@ Note:          If standard pension is not payable at the opera
 
              (1)  If the annual rate of associate pension to which the non‑member spouse becomes entitled is less than the amount determined under the Orders, then the non‑member spouse may elect to commute the pension.
 
-             (2)  The election must be made in writing to CSC not later than 3 months after the non‑member spouse becomes entitled to the pension.
+             (2)  The election must be made in writing to the Chairman not later than 3 months after the non‑member spouse becomes entitled to the pension.
 
              (3)  If the non‑member spouse makes the election, then the non‑member spouse is entitled instead to a lump sum equal to the transfer amount.
 
@@ -2242,9 +2332,9 @@ Note:          For example, the reduction will be disregarded 
 
                     <a name="re-instated-candid-whom-part-appli"></a>**_re‑instated candidate to whom this Part applies_** means a re‑instated candidate who has made an election under section 51.
 
-##### <a id="51"></a>51  Election by re‑instated candidate
+##### <a id="51"></a>51  Election by re‑instated candidate
 
-                   A re‑instated candidate may, by notice in writing given to CSC within a period of 30 days after again becoming an eligible member of the Defence Force or within such further period as CSC, in special circumstances, allows, elect to be treated as an eligible member of the Defence Force in respect of the period commencing when he ceased to be such an eligible member and ending when he again became such an eligible member.
+                   A re‑instated candidate may, by notice in writing given to the Authority within a period of 30 days after again becoming an eligible member of the Defence Force or within such further period as the Authority, in special circumstances, allows, elect to be treated as an eligible member of the Defence Force in respect of the period commencing when he ceased to be such an eligible member and ending when he again became such an eligible member.
 
 ##### <a id="52"></a>52  Effect of election under section 51
 
@@ -2264,7 +2354,7 @@ Note:          For example, the reduction will be disregarded 
 
 he shall pay to the Commonwealth an amount equal to that refund of contributions or to that payment, as the case requires.
 
-             (3)  An election made under section 51 is of no effect unless within a period of 7 days after the date on which the election was made, or within such further period as CSC, in special circumstances, allows, any amount required to be paid to the Commonwealth under subsection (1) or (2) is so paid or arrangements satisfactory to CSC are made for the payment to the Commonwealth of that amount.
+             (3)  An election made under section 51 is of no effect unless within a period of 7 days after the date on which the election was made, or within such further period as the Authority, in special circumstances, allows, any amount required to be paid to the Commonwealth under subsection (1) or (2) is so paid or arrangements satisfactory to the Authority are made for the payment to the Commonwealth of that amount.
 
              (4)  Where:
 
@@ -2300,7 +2390,7 @@ there shall be deducted from any payment of benefit payable to or in respect of 
 
 then, for the purposes of this Act, he shall be deemed to have continued to have been an eligible member of the Defence Force during the period that commenced upon his ceasing to be an eligible member of the Defence Force and ended on the day on which he dies and his annual rate of pay on the day on which he dies shall be deemed to be the annual rate of pay that would have been applicable to him on that day if he had not ceased to be an eligible member of the Defence Force.
 
-             (3)  Where CSC is satisfied:
+             (3)  Where the Authority is satisfied:
 
                      (a)  that, if a person to whom this section applies had not ceased to be an eligible member of the Defence Force, he would, at a time (in this subsection referred to as **_the relevant time_**) within:
 
@@ -2314,9 +2404,9 @@ then, for the purposes of this Act, he shall be deemed to have continued to have
 
 then, for the purposes of this Act, he shall be deemed to have continued to have been an eligible member of the Defence Force during the period that commenced upon his ceasing to be an eligible member of the Defence Force and ended at the relevant time and his annual rate of pay at the relevant time shall be deemed to be the annual rate of pay that would have been applicable to him at the relevant time if he had not ceased to be an eligible member of the Defence Force, and this Act shall apply to and in relation to him as if he had been retired at the relevant time on the ground referred to in paragraph (a).
 
-             (4)  Subsections (2) and (3) do not apply in relation to a person to whom this section applies who dies, or would have been retired, within the period of 90 days after the date that is the declared date in relation to the election if CSC is of the opinion that, if he had not died or had not suffered the invalidity or incapacity, as the case may be, he would not have been re‑instated in the part of the Defence Force in which he was serving immediately before he ceased to be an eligible member of the Defence Force.
+             (4)  Subsections (2) and (3) do not apply in relation to a person to whom this section applies who dies, or would have been retired, within the period of 90 days after the date that is the declared date in relation to the election if the Authority is of the opinion that, if he had not died or had not suffered the invalidity or incapacity, as the case may be, he would not have been re‑instated in the part of the Defence Force in which he was serving immediately before he ceased to be an eligible member of the Defence Force.
 
-             (5)  This section does not apply in relation to a person unless, within the period of 90 days after the date that is the declared date in relation to the election or within such further period as CSC allows:
+             (5)  This section does not apply in relation to a person unless, within the period of 90 days after the date that is the declared date in relation to the election or within such further period as the Authority allows:
 
                      (a)  there is paid to the Commonwealth an amount equal to the amount, or to the sum of the amounts, of any benefit paid to or in respect of the person by reason of his having ceased to be an eligible member of the Defence Force;
 
@@ -2330,7 +2420,7 @@ then, for the purposes of this Act, he shall be deemed to have continued to have
 
              (1)  Where a contributing member retires and, on his retirement, benefit is not payable to him under any other provision of this Act, he is entitled to a refund of the amount of the contributions paid by him.
 
-             (2)  Where a contributing member dies before retirement and, by virtue of section 49, benefit is not payable in respect of him under Part VI, a refund of the amount of the contributions paid by him shall be paid to his personal representatives or, failing them, to such persons, if any, as CSC determines.
+             (2)  Where a contributing member dies before retirement and, by virtue of section 49, benefit is not payable in respect of him under Part VI, a refund of the amount of the contributions paid by him shall be paid to his personal representatives or, failing them, to such persons, if any, as the Authority determines.
 
 ##### <a id="57"></a>57  Election by officer on short service commission who continues to serve in respect of period of service under short service commission
 
@@ -2342,7 +2432,7 @@ then, for the purposes of this Act, he shall be deemed to have continued to have
 
                      (c)  is to be appointed to a permanent commission or to a further short service commission;
 
-he may elect, by notice in writing given to CSC before the date of his appointment to the permanent commission or to the further short service commission, or within such period after that date as CSC, in special circumstances, allows, not to be paid the gratuity and, if he so elects, the gratuity shall not be so paid.
+he may elect, by notice in writing given to the Authority before the date of his appointment to the permanent commission or to the further short service commission, or within such period after that date as the Authority, in special circumstances, allows, not to be paid the gratuity and, if he so elects, the gratuity shall not be so paid.
 
              (2)  If an officer referred to in subsection (1) does not make an election under that subsection:
 
@@ -2368,7 +2458,7 @@ then, subject to sections 62, 63 and 64, upon his again becoming such an eligi
 
              (2)  The amount of a fortnightly instalment of pension benefit shall be an amount calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image010.gif)
 
 where **_P_** is the amount per annum of the pension benefit.
 
@@ -2390,7 +2480,7 @@ where **_P_** is the amount per annum of the pension benefit.
 
 then, for the purposes of Parts IV, V and VI, the annual rate of pay applicable to him immediately before his death or retirement shall be deemed to be that prescribed basic annual rate of pay.
 
-##### <a id="61"></a>61  Payment of refund of contributions or of lump sum payment to CSC in discharge of liability under Superannuation Act
+##### <a id="61"></a>61  Payment of refund of contributions or of lump sum payment to Commissioner for Superannuation in discharge of liability under Superannuation Act
 
                    Where:
 
@@ -2403,9 +2493,9 @@ then, for the purposes of Parts IV, V and VI, the annual rate of pay applicable 
 
                      (d)  benefit has become payable to or in respect of the person under subsection 32(2) or section 48 or 56 of this Act;
 
-the amount of the benefit so payable shall, to the extent that it does not exceed the amount of the deferred contributions payable, be paid to CSC and, upon being so paid, the amount of the deferred contributions payable shall, to the extent of that payment, be deemed to have been paid to CSC under section 54 of the Superannuation Act.
+the amount of the benefit so payable shall, to the extent that it does not exceed the amount of the deferred contributions payable, be paid to the Commissioner for Superannuation and, upon being so paid, the amount of the deferred contributions payable shall, to the extent of that payment, be deemed to have been paid to the Commissioner under section 54 of the Superannuation Act.
 
-##### <a id="61A"></a>61A  Payment of refund of contributions or of lump sum payment to CSC in discharge of liability under the _Superannuation Act 1990_
+##### <a id="61A"></a>61A  Payment of refund of contributions or of lump sum payment to Board in discharge of liability under the _Superannuation Act 1990_
 
                    Where:
 
@@ -2417,7 +2507,7 @@ the amount of the benefit so payable shall, to the extent that it does not excee
 
                      (d)  benefit has become payable to or in respect of the person under subsection 32(2) or section 48 or 56 of this Act;
 
-the amount of the benefit so payable must, to the extent that it does not exceed the amount of the deferred contributions payable, be paid to CSC and, upon being so paid, the amount of the deferred contributions payable is, to the extent of that payment, taken to have been paid to CSC under Rule 3.1.17 of the Rules for the administration of the Superannuation (1990) Scheme.
+the amount of the benefit so payable must, to the extent that it does not exceed the amount of the deferred contributions payable, be paid to the Board and, upon being so paid, the amount of the deferred contributions payable is, to the extent of that payment, taken to have been paid to the Board under Rule 3.1.17 of the Rules for the administration of the Superannuation (1990) Scheme.
 
 ##### <a id="61B"></a>61B  Election by recipient member intending to resume full‑time service
 
@@ -2433,7 +2523,7 @@ intends to resume full‑time service:
 
                      (d)  as a member of a Reserve for a continuous period of not less than 12 months;
 
-the person must, before resuming service, in writing addressed to CSC, elect:
+the person must, before resuming service, in writing addressed to the Authority, elect:
 
                      (e)  to become a contributing member; or
 
@@ -2451,7 +2541,7 @@ the person must, before resuming service, in writing addressed to CSC, elect:
 
                      (b)  has not previously made, under this section, an election to become a member of the MSB scheme;
 
-must, before resuming service, in writing addressed to CSC, elect whether or not to become a member of that scheme.
+must, before resuming service, in writing addressed to the Authority, elect whether or not to become a member of that scheme.
 
 ##### <a id="61C"></a>61C  Recipient member in receipt of retirement pay who becomes member of MSB scheme
 
@@ -2501,7 +2591,7 @@ the person’s invalidity pay is not cancelled but is, subject to subsection (
 
              (3)  Upon the death or retirement of a person to whom subsection (1) or (2) applies or of a member of the scheme who was in receipt of a pension under the previous legislation that was cancelled under subsection 69(3) of the previous Act before he became a member of the scheme, any period that was a period of service for pension in relation to him under the previous Act and any period that, under regulations made for the purposes of this section, is to be treated as a notional period of service under the previous Act in relation to him, shall, for the purposes of this Act, be deemed to be a period of effective service in relation to him.
 
-             (4)  Where a person to whom subsection (1) applies commuted a portion of his invalidity pay in accordance with section 32A of this Act or a person to whom subsection (2) applies commuted a portion of a pension payable to him under the previous legislation in accordance with section 74 of the previous Act, the period that, but for this subsection, would be the total period of effective service applicable to him shall be reduced by such period as CSC considers appropriate in the circumstances.
+             (4)  Where a person to whom subsection (1) applies commuted a portion of his invalidity pay in accordance with section 32A of this Act or a person to whom subsection (2) applies commuted a portion of a pension payable to him under the previous legislation in accordance with section 74 of the previous Act, the period that, but for this subsection, would be the total period of effective service applicable to him shall be reduced by such period as the Authority considers appropriate in the circumstances.
 
              (5)  Where a person to whom subsection (2) applies is a person:
 
@@ -2519,7 +2609,7 @@ the person’s invalidity pay is not cancelled but is, subject to subsection (
 
                      (g)  who is a person to whom the _Defence Forces Special Retirement Benefits Act 1960_ applies;
 
-the period that, but for this subsection, would be his total period of effective service shall be reduced, or, if paragraph (4)(b) applies in relation to him, further reduced, by such period as CSC considers appropriate in the circumstances.
+the period that, but for this subsection, would be his total period of effective service shall be reduced, or, if paragraph (4)(b) applies in relation to him, further reduced, by such period as the Authority considers appropriate in the circumstances.
 
              (6)  For the purposes of this Act, upon the death or retirement of a person to whom subsection (1) or (2) applies, his annual rate of pay immediately before his death or retirement shall be deemed to be whichever is the greater of the annual rate of pay applicable to him immediately before his death or retirement or the annual rate of pay that was applicable to him when he first became a recipient member or became a pensioner under the previous legislation.
 
@@ -2531,7 +2621,7 @@ the period that, but for this subsection, would be his total period of effective
 
 he shall be deemed to have first become a recipient member, or to have become a pensioner under the previous legislation, as the case may be, at the time when, before he made the election, he had ceased to be an eligible member of the Defence Force or ceased to be a member for the purposes of the previous Act.
 
-             (8)  Where, by reason of the failure of a person to whom subsection (1) or (2) applies to notify CSC that he has become an eligible member of the Defence Force, or for any other reason, an amount of retirement pay or invalidity pay, or of pension under the previous legislation, has been paid after it has been cancelled under this section, the amount shall be repaid to the Commonwealth.
+             (8)  Where, by reason of the failure of a person to whom subsection (1) or (2) applies to notify the Authority that he has become an eligible member of the Defence Force, or for any other reason, an amount of retirement pay or invalidity pay, or of pension under the previous legislation, has been paid after it has been cancelled under this section, the amount shall be repaid to the Commonwealth.
 
 ##### <a id="63"></a>63  Non‑recipient retired member who again becomes an eligible member within 90 days
 
@@ -2543,11 +2633,11 @@ he shall be deemed to have first become a recipient member, or to have become a 
 
                      (c)  he again becomes an eligible member of the Defence Force within a period of 90 days after his retirement; and
 
-                     (d)  he elects, by notice in writing given to CSC, within a period of 90 days after he again becomes an eligible member of the Defence Force, or within such further period as CSC, in special circumstances, allows, to have his retirement disregarded;
+                     (d)  he elects, by notice in writing given to the Authority, within a period of 90 days after he again becomes an eligible member of the Defence Force, or within such further period as the Authority, in special circumstances, allows, to have his retirement disregarded;
 
 this Act applies to and in relation to him as if he had not retired and as if he had, during the period during which he was not a member, been on leave of absence without pay.
 
-             (2)  An election by a person under subsection (1) is of no effect unless, within a period of 7 days after the date on which the election was made, or, within such further period as CSC, in special circumstances, allows, the contributions refunded to him are repaid by him to the Commonwealth or arrangements satisfactory to CSC are made for them to be repaid to the Commonwealth.
+             (2)  An election by a person under subsection (1) is of no effect unless, within a period of 7 days after the date on which the election was made, or, within such further period as the Authority, in special circumstances, allows, the contributions refunded to him are repaid by him to the Commonwealth or arrangements satisfactory to the Authority are made for them to be repaid to the Commonwealth.
 
 ##### <a id="64"></a>64  Non‑recipient retired member who again becomes an eligible member after 90 days
 
@@ -2559,7 +2649,7 @@ this Act applies to and in relation to him as if he had not retired and as if he
 
                      (c)  he again becomes an eligible member of the Defence Force but does not so become an eligible member within a period of 90 days after his retirement;
 
-he may, by notice in writing given to CSC within a period of 90 days after he again becomes an eligible member, or within such further period as CSC, in special circumstances, allows, elect to have the whole or a specified part of any period which, before he again became an eligible member of the Defence Force, was a period of effective service taken into account as a period of qualifying service under this Act.
+he may, by notice in writing given to the Authority within a period of 90 days after he again becomes an eligible member, or within such further period as the Authority, in special circumstances, allows, elect to have the whole or a specified part of any period which, before he again became an eligible member of the Defence Force, was a period of effective service taken into account as a period of qualifying service under this Act.
 
              (2)  Where a member of the scheme makes an election under subsection (1):
 
@@ -2599,9 +2689,9 @@ he may, by notice in writing given to CSC within a period of 90 days after he ag
 
              (5)  A person in respect of whom benefits are applicable under a superannuation scheme by reason of his being employed in any employment, whether or not he has made contributions under the scheme, shall be deemed to be a member of the superannuation scheme.
 
-##### <a id="67"></a>67  Variation of determinations by CSC
+##### <a id="67"></a>67  Variation of determinations by Authority
 
-                   Where, in pursuance of this Part, CSC has power to make a determination in relation to a matter, the power shall be construed as including a power, exercisable in the like manner and subject to the like conditions (if any), to vary a determination so made.
+                   Where, in pursuance of this Part, the Authority has power to make a determination in relation to a matter, the power shall be construed as including a power, exercisable in the like manner and subject to the like conditions (if any), to vary a determination so made.
 
 ### Division 2—Contributing members who have preserved rights from previous employment
 
@@ -2628,7 +2718,7 @@ he may, by notice in writing given to CSC within a period of 90 days after he ag
              (1)  Where a person who becomes a contributing member has, at
  any time before becoming a member, been in employment within or outside Australia upon the termination of which a transfer value became payable to or in respect of him on or after 25 May 1971 under a superannuation scheme applicable in relation to that employment, and:
 
-                     (a)  the member, by notice in writing given to CSC within a period of 90 days after the date on which he becomes a contributing member, or within such further period as CSC, in special circumstances, allows, elects to pay to the Commonwealth an amount equal to the amount of that transfer value or, if 2 or more transfer values became payable, the sum of the amounts of those transfer values; and
+                     (a)  the member, by notice in writing given to the Authority within a period of 90 days after the date on which he becomes a contributing member, or within such further period as the Authority, in special circumstances, allows, elects to pay to the Commonwealth an amount equal to the amount of that transfer value or, if 2 or more transfer values became payable, the sum of the amounts of those transfer values; and
 
                      (b)  that amount is, before the expiration of that period of
  90 days or that further period, as the case may be, paid to the Commonwealth;
@@ -2637,7 +2727,7 @@ the succeeding provisions of this section have effect.
 
              (2)  So much of the amount paid to the Commonwealth as is equal to the employee component of the transfer value, or to the sum of the employee components of the transfer values, as the case may be, shall, to the extent to which it was payable to the member upon the termination of the employment in respect of which the transfer value or any of the transfer values became payable irrespective of whether he engaged in further employment, be deemed, for the purposes of this Act, to be contributions paid to the Commonwealth by the member under section 17.
 
-             (3)  The total period of effective service of a contributing member referred to in subsection (1) of this section, or of a contributing member in respect of whom a transfer value was paid to the Board under section 82R of the previous Act, shall be deemed to be increased by such period as is determined by CSC, having regard to such matters as are prescribed for the purposes of this section, as being appropriate.
+             (3)  The total period of effective service of a contributing member referred to in subsection (1) of this section, or of a contributing member in respect of whom a transfer value was paid to the Board under section 82R of the previous Act, shall be deemed to be increased by such period as is determined by the Authority, having regard to such matters as are prescribed for the purposes of this section, as being appropriate.
 
              (4)  If:
 
@@ -2769,7 +2859,7 @@ so much of the amount paid to the Commonwealth under subsection (1) as is equa
 
 ##### <a id="74"></a>74  Transfer value
 
-             (1)  Subject to subsections (2) and (3), a reference in this Division to a transfer value payable in accordance with this Division to or in respect of a person who has ceased to be an eligible member of the Defence Force is a reference to such amount as is determined by CSC, having regard to such matters as are prescribed for the purposes of this section, to be the value of the rights of the person under this Act as at the time immediately before he ceased to be such a member.
+             (1)  Subject to subsections (2) and (3), a reference in this Division to a transfer value payable in accordance with this Division to or in respect of a person who has ceased to be an eligible member of the Defence Force is a reference to such amount as is determined by the Authority, having regard to such matters as are prescribed for the purposes of this section, to be the value of the rights of the person under this Act as at the time immediately before he ceased to be such a member.
 
              (2)  If:
 
@@ -2779,7 +2869,7 @@ so much of the amount paid to the Commonwealth under subsection (1) as is equa
 
 the amount of the transfer value is the difference between:
 
-                     (c)  the amount determined by CSC as provided in subsection (1); and
+                     (c)  the amount determined by the Authority as provided in subsection (1); and
 
                      (d)  the person’s surcharge deduction amount.
 
@@ -2793,7 +2883,7 @@ the amount of the transfer value is the difference between:
 
 the amount of the transfer value is the difference between:
 
-                     (d)  the amount determined by CSC as provided in subsection (1); and
+                     (d)  the amount determined by the Authority as provided in subsection (1); and
 
                      (e)  the amount by which the person’s surcharge deduction amount exceeds the amount of the person’s productivity superannuation benefit.
 
@@ -2829,13 +2919,13 @@ the amount of the transfer value is the difference between:
 
 the rate at which retirement pay is payable to the person is (instead of the rate provided for in section 23) an amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image007.gif)
 
 where:
 
                     <a name="basic-rate"></a>**_basic rate_** means the amount per annum referred to in subsection (3).
 
-                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the person under the determination made by CSC under section 124A.
+                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the person under the determination made by the Authority under section 124A.
 
                     <a name="excess"></a>**_excess_** means the amount by which the person’s surcharge deduction amount exceeds the amount of the person’s productivity superannuation benefit.
 
@@ -2863,13 +2953,13 @@ then, subject to subsection (4A), the rate at which retirement pay is payable 
 
 the rate at which retirement pay is payable to the person is the amount per annum worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image007.gif)
 
 where:
 
                     <a name="basic-rate"></a>**_basic rate_** means the amount per annum referred to in subsection (4).
 
-                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the person under the determination made by CSC under section 124A.
+                    <a name="convers-factor"></a>**_conversion factor_** is the factor that is applicable to the person under the determination made by the Authority under section 124A.
 
                     <a name="excess"></a>**_excess_** means the amount by which the person’s surcharge deduction amount exceeds the amount of the person’s productivity superannuation benefit.
 
@@ -2879,13 +2969,13 @@ where:
 
 ##### <a id="76"></a>76  Election that Division apply
 
-             (1)  Subject to this section, where, a person, being a contributing member, ceases to be an eligible member of the Defence Force and is not entitled to a pension benefit, or is not a person to whom section 36 applies, he may by notice in writing given to CSC within a period of 21 days after the date on which he ceases to be such a member, elect that this Division shall apply in relation to him.
+             (1)  Subject to this section, where, a person, being a contributing member, ceases to be an eligible member of the Defence Force and is not entitled to a pension benefit, or is not a person to whom section 36 applies, he may by notice in writing given to the Authority within a period of 21 days after the date on which he ceases to be such a member, elect that this Division shall apply in relation to him.
 
-             (2)  CSC may, if it is satisfied that there are special circumstances that justify it in so doing, extend the period for the making of an election under subsection (1).
+             (2)  The Authority may, if it is satisfied that there are special circumstances that justify it in so doing, extend the period for the making of an election under subsection (1).
 
              (3)  If a person makes an election for the purposes of this section within a period of 30 days before he ceases to be an eligible member of the Defence Force, the election has effect as if it had been made on the day after he ceased to be a member.
 
-             (4)  Subject to subsection (5), an election under this section (except where the election is made by virtue of subsection 128(2)) is of no effect unless the person who made the election gives notice in writing to CSC within a period of 21 days, or within such further period as CSC, in special circumstances, allows, after the expiration of the period that is the prescribed period in relation to him:
+             (4)  Subject to subsection (5), an election under this section (except where the election is made by virtue of subsection 128(2)) is of no effect unless the person who made the election gives notice in writing to the Authority within a period of 21 days, or within such further period as the Authority, in special circumstances, allows, after the expiration of the period that is the prescribed period in relation to him:
 
                      (a)  stating whether he was employed at the expiration of that prescribed period and, if so, the name and address of his employer; and
 
@@ -2929,9 +3019,9 @@ deferred benefits are, subject to this Division, applicable in respect of the pe
 
              (2)  Deferred benefits that are applicable in respect of a person are payable as from the day immediately following the earliest of the following dates:
 
-                     (a)  where CSC is satisfied that the person has, by reason of invalidity or of physical or mental incapacity, become incapable (otherwise than temporarily), at a time when he was employed in public employment or after he had completed 20 years’ eligible employment, of performing duties of a kind suitable to be performed by him having regard to the duties performed by him in the employment in which he was employed immediately before he ceased to be an eligible member of the Defence Force and the duties performed by him in employment (if any) in which he was employed after he ceased to be such a member:
+                     (a)  where the Authority is satisfied that the person has, by reason of invalidity or of physical or mental incapacity, become incapable (otherwise than temporarily), at a time when he was employed in public employment or after he had completed 20 years’ eligible employment, of performing duties of a kind suitable to be performed by him having regard to the duties performed by him in the employment in which he was employed immediately before he ceased to be an eligible member of the Defence Force and the duties performed by him in employment (if any) in which he was employed after he ceased to be such a member:
 
-                              (i)  if, at the date that CSC is satisfied was the date on which he became so incapable, he was not employed in public employment—that date; or
+                              (i)  if, at the date that the Authority is satisfied was the date on which he became so incapable, he was not employed in public employment—that date; or
 
                              (ii)  if, at that date, he was employed in public employment—the date on which that public employment terminates;
 
@@ -2956,9 +3046,9 @@ deferred benefits are, subject to this Division, applicable in respect of the pe
 
              (5)  Deferred benefits are not payable unless:
 
-                     (a)  an application in writing has been made to CSC requesting payment of the benefits; and
+                     (a)  an application in writing has been made to the Authority requesting payment of the benefits; and
 
-                     (b)  the applicant has furnished to CSC any information that is necessary to enable CSC to determine whether the benefits are payable.
+                     (b)  the applicant has furnished to the Authority any information that is necessary to enable the Authority to determine whether the benefits are payable.
 
              (6)  Subject to subsections (7) and (8), where a person in relation to whom paragraph (1)(a) applies and who, at the time when he ceased to be an eligible member of the Defence Force, had not completed 20 years’ eligible employment ceases to be employed in public employment and the deferred benefits applicable in respect of him have not become payable under subsection (2), then, those deferred benefits cease to be applicable in respect of him but this Act has effect in relation to him as if the election by him under section 76 had not been made.
 
@@ -2977,7 +3067,7 @@ deferred benefits are, subject to this Division, applicable in respect of the pe
 
                      (b)  after the payment was made, the person makes an election under section 76;
 
-the election does not have any effect unless an amount equal to the amount of the payment is paid to the Commonwealth within 7 days after the date of the election or within such further period as CSC, in special circumstances, allows.
+the election does not have any effect unless an amount equal to the amount of the payment is paid to the Commonwealth within 7 days after the date of the election or within such further period as the Authority, in special circumstances, allows.
 
 ##### <a id="80"></a>80  Certain former contributing members not entitled to benefits under this Division
 
@@ -2991,7 +3081,7 @@ the election does not have any effect unless an amount equal to the amount of th
 
                      (d)  he attained the age of 60 years before he ceased to be an eligible member of the Defence Force; or
 
-                     (e)  CSC is satisfied that:
+                     (e)  the Authority is satisfied that:
 
                               (i)  he ceased within that prescribed period, by reason of invalidity or of physical or mental incapacity, to be employed in public employment; and
 
@@ -3006,7 +3096,7 @@ this Act has effect as if the election had not been made.
                      (b)  the person has made an election under section 76; and
 
                      (c)  if a payment of benefit were made to him under
- subsection 32(2) or section 56, he would, under the rules of the superannuation scheme applicable in respect of that employment, be entitled to pay the amount of the payment of benefit or a part of that amount to the person administering that scheme in exchange for benefits under that scheme, being benefits that CSC is satisfied are appropriate in the circumstances;
+ subsection 32(2) or section 56, he would, under the rules of the superannuation scheme applicable in respect of that employment, be entitled to pay the amount of the payment of benefit or a part of that amount to the person administering that scheme in exchange for benefits under that scheme, being benefits that the Authority is satisfied are appropriate in the circumstances;
 
 this Act has effect as if the election had not been made.
 
@@ -3016,7 +3106,7 @@ this Act has effect as if the election had not been made.
 
 ##### <a id="82"></a>82  Provisions applicable to certain recipient members restored to health
 
-             (1)  Where deferred benefit is payable to a person by reason that CSC is satisfied as to the matters referred to in
+             (1)  Where deferred benefit is payable to a person by reason that the Authority is satisfied as to the matters referred to in
  paragraph 78(2)(a):
 
                      (a)  section 34 does not apply in relation to him but
@@ -3030,7 +3120,7 @@ this Act has effect as if the election had not been made.
 
                              (ii)  the suspension ceases to have effect if the deferred benefit becomes payable under paragraph 78(2)(b), (c) or (d).
 
-             (2)  If CSC is satisfied that the health of the person has become so restored as to enable him to perform duties of a kind suitable to be performed by him, having regard to the duties performed by him immediately before he ceased to be an eligible member of the Defence Force and the duties performed by him in employment (if any) in which he was employed after he ceased to be such a member, CSC may cancel his retirement pay but the deferred benefit does not cease to be applicable in relation to him by reason only of the cancellation.
+             (2)  If the Authority is satisfied that the health of the person has become so restored as to enable him to perform duties of a kind suitable to be performed by him, having regard to the duties performed by him immediately before he ceased to be an eligible member of the Defence Force and the duties performed by him in employment (if any) in which he was employed after he ceased to be such a member, the Authority may cancel his retirement pay but the deferred benefit does not cease to be applicable in relation to him by reason only of the cancellation.
 
              (3)  The retirement pay payable to a person shall not be cancelled under subsection (2) at a time when the retirement pay would have become payable, apart from the operation of paragraph 78(2)(a).
 
@@ -3066,7 +3156,7 @@ the succeeding provisions of this section have effect.
 
                      (b)  after the person became such a member his annual rate of pay is increased;
 
-CSC, on behalf of the Commonwealth shall, so far as is practicable, arrange for the amount or amounts of any life policy or life policies assigned to the Commonwealth by the person to be increased by the amount or amounts by which the life policy or life policies would have been increased under that scheme, or for the issue of such additional life policy or life policies in relation to the person as would have been issued under that scheme, if he had remained a member of that scheme and had been in receipt of an annual remuneration equal to that annual rate of pay or that increased annual rate of pay, as the case may be.
+the Authority, on behalf of the Commonwealth shall, so far as is practicable, arrange for the amount or amounts of any life policy or life policies assigned to the Commonwealth by the person to be increased by the amount or amounts by which the life policy or life policies would have been increased under that scheme, or for the issue of such additional life policy or life policies in relation to the person as would have been issued under that scheme, if he had remained a member of that scheme and had been in receipt of an annual remuneration equal to that annual rate of pay or that increased annual rate of pay, as the case may be.
 
              (5)  So much of any premium payable in respect of any life
  policy assigned to the Commonwealth in accordance with subsection (3) or issued in accordance with subsection (4) as relates to a period during which the person is an eligible member of the Defence Force shall be paid by the Commonwealth out of the Consolidated Revenue Fund, which is appropriated accordingly.
@@ -3091,7 +3181,7 @@ CSC, on behalf of the Commonwealth shall, so far as is practicable, arrange for 
 
              (9)  Where the person ceases to be a contributing member and neither subsection (7) or subsection (8) applies in relation to him, then, if the election made by him under subsection (2) has not been revoked in accordance with subsection (10):
 
-                     (a)  CSC on behalf of the Commonwealth shall arrange for the surrender of the life policy or life policies assigned by him to the Commonwealth in accordance with subsection (3) or issued in relation to him in accordance with subsection (4); and
+                     (a)  the Authority on behalf of the Commonwealth shall arrange for the surrender of the life policy or life policies assigned by him to the Commonwealth in accordance with subsection (3) or issued in relation to him in accordance with subsection (4); and
 
                      (b)  the Commonwealth shall pay to the person:
 
@@ -3105,7 +3195,7 @@ CSC, on behalf of the Commonwealth shall, so far as is practicable, arrange for 
 
                      (b)  the life policy or life policies assigned by him to the Commonwealth in accordance with subsection (3) or issued in relation to him in accordance with subsection (4) has not or have not become payable;
 
-by notice in writing to CSC revoke the election and, in that case, paragraphs (9)(a) and (b) have effect in relation to him.
+by notice in writing to the Authority revoke the election and, in that case, paragraphs (9)(a) and (b) have effect in relation to him.
 
            (11)  The Finance Minister may, by instrument under his hand published in the _Gazette_, declare a superannuation scheme, being a scheme under which benefits are provided for by means of life policies, to be an approved superannuation scheme for the purposes of this section.
 
@@ -3113,7 +3203,7 @@ by notice in writing to CSC revoke the election and, in that case, paragraphs 
 
            (13)  A superannuation scheme shall be taken, for the purposes of this section, to have been an approved superannuation scheme at a particular time if a declaration by the Finance Minister under subsection (11) in respect of that scheme was, or is to be deemed to have been, in force at that time.
 
-           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image011.gif), where:
+           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image011.gif), where:
 
 **_a_** is the amount of the annual premium, or the sum of the amounts of the annual premiums, applicable at that time under the life policy or life policies assigned by him to the Commonwealth in accordance with subsection (3) or issued in relation to him in accordance with subsection (4).
 
@@ -3126,6 +3216,8 @@ by notice in writing to CSC revoke the election and, in that case, paragraphs 
 ##### <a id="85"></a>85  Interpretation
 
              (1)  In this Part, unless the contrary intention appears:
+
+                    <a name="board"></a>**_Board_** means the Defence Forces Retirement Benefits Board.
 
                     <a name="fund"></a>**_Fund_** means the Defence Forces Retirement Benefits Fund.
 
@@ -3149,7 +3241,7 @@ by notice in writing to CSC revoke the election and, in that case, paragraphs 
 
                     <a name="transition-period"></a>**_transitional period_** means the period commencing on the date of commencement of the scheme, and ending immediately before the day on which this Act receives the Royal Assent.
 
-             (2)  For the purposes of this Part, the aggregate pay of an existing contributor, in respect of, or in respect of a part of, his period of previous contributory qualifying service, is such amount as is ascertained by CSC, in accordance with the regulations, as the amount that, for the purposes of this Part, is to be treated as the amount of aggregate pay received by him in respect of that period or of that part of that period, as the case may be.
+             (2)  For the purposes of this Part, the aggregate pay of an existing contributor, in respect of, or in respect of a part of, his period of previous contributory qualifying service, is such amount as is ascertained by the Authority, in accordance with the regulations, as the amount that, for the purposes of this Part, is to be treated as the amount of aggregate pay received by him in respect of that period or of that part of that period, as the case may be.
 
 ##### <a id="86"></a>86  Refund of previous contributions
 
@@ -3177,7 +3269,7 @@ by notice in writing to CSC revoke the election and, in that case, paragraphs 
 
              (2)  In subsection (3), a reference to the period of reduced contributions of a contributor to whom this section applies shall be read as a reference to that part of his period of previous contributory qualifying service as occurred after the time that is the time from which, by reason of his being an existing contributor of the kind referred to in paragraph (1)(c), he commenced to make contributions to the Fund at a rate less than the rate that would otherwise have applied to him.
 
-             (3)  Where an amount equal to 5.5% of the amount of aggregate pay of an existing contributor to whom this section applies in respect of his period of reduced contributions exceeds the amount of his previous contributions made in respect of that period, he shall pay an additional contribution to the Commonwealth under this section of such amount, not exceeding the amount of the excess, as CSC determines as being appropriate in the circumstances.
+             (3)  Where an amount equal to 5.5% of the amount of aggregate pay of an existing contributor to whom this section applies in respect of his period of reduced contributions exceeds the amount of his previous contributions made in respect of that period, he shall pay an additional contribution to the Commonwealth under this section of such amount, not exceeding the amount of the excess, as the Authority determines as being appropriate in the circumstances.
 
 ##### <a id="87A"></a>87A  Additional contributions by certain persons purchasing service under section 27 of the previous Act
 
@@ -3191,7 +3283,7 @@ by notice in writing to CSC revoke the election and, in that case, paragraphs 
 
              (2)  An existing contributor to whom this section applies:
 
-                     (a)  shall pay an additional contribution to the Commonwealth under this section of such an amount, not exceeding the difference between the amount (if any) paid by him under section 27 of the previous Act and the amount first mentioned in paragraph (1)(b), as CSC determines as being appropriate in the circumstances; and
+                     (a)  shall pay an additional contribution to the Commonwealth under this section of such an amount, not exceeding the difference between the amount (if any) paid by him under section 27 of the previous Act and the amount first mentioned in paragraph (1)(b), as the Authority determines as being appropriate in the circumstances; and
 
                      (b)  shall not be required to make any further payments under section 27 of the previous Act in relation to the period to which the election under that section relates.
 
@@ -3209,7 +3301,7 @@ payment of any contributions or contribution, or of part thereof, payable by a p
 
 ##### <a id="89"></a>89  Purchase of previous non‑contributory service
 
-             (1)  Subject to this section, where an eligible member of the Defence Force, not being an existing contributor, had, before 1 October 1972, served as a member of the Defence Force on continuous full‑time service for a period of not less than one year, he may, by notice in writing given to CSC within a period of 90 days after the date upon which this Act receives the Royal Assent or of the date on which he first became an eligible member of the Defence Force, whichever last occurs, or within such further period as CSC, in special circumstances, allows, elect to have that period of service, or such part of that period as he specifies in the election, taken into account as qualifying service under this Act.
+             (1)  Subject to this section, where an eligible member of the Defence Force, not being an existing contributor, had, before 1 October 1972, served as a member of the Defence Force on continuous full‑time service for a period of not less than one year, he may, by notice in writing given to the Authority within a period of 90 days after the date upon which this Act receives the Royal Assent or of the date on which he first became an eligible member of the Defence Force, whichever last occurs, or within such further period as the Authority, in special circumstances, allows, elect to have that period of service, or such part of that period as he specifies in the election, taken into account as qualifying service under this Act.
 
              (2)  Subject to this section, where an eligible member of the Defence Force, being an existing contributor, had, before 1 October 1972:
 
@@ -3217,19 +3309,19 @@ payment of any contributions or contribution, or of part thereof, payable by a p
 
                      (b)  served as a member of the Defence Force on continuous full‑time service for a period of less than one year, being a period that is not, or is not included in, a period of previous contributory qualifying service of the member but which is continuous with such a period;
 
-he may, by notice in writing given to CSC, within a period of 90 days after the day on which this Act receives the Royal Assent, or within such further period as CSC, in special circumstances, allows, elect to have the period during which he so served, or such part of that period as he specifies in the election, taken into account as qualifying service under this Act.
+he may, by notice in writing given to the Authority, within a period of 90 days after the day on which this Act receives the Royal Assent, or within such further period as the Authority, in special circumstances, allows, elect to have the period during which he so served, or such part of that period as he specifies in the election, taken into account as qualifying service under this Act.
 
              (3)  An eligible member of the Defence Force is not entitled to make an election under subsection (1) or (2) in respect of any period which, if this Act had come into operation on the day on which he first became a member of the Defence Force, would have been a period of non‑effective service in relation to him.
 
              (4)  Where, under subsection (1) or subsection (2), an eligible member of the Defence Force has elected to have a period of service before 1 October 1972 taken into account as qualifying service under this Act, he shall pay an additional contribution to the Commonwealth under this section, which shall be:
 
-                     (a)  if he is an existing contributor and he has served continuously as a member of the Defence Force from the commencement of the period to which the election relates until 1 October 1972 and became a contributor under the previous Act upon the termination of the period to which the election relates—an amount equal to 5.5% of the amount of pay that CSC determines would have been the pay received by him in respect of the period to which the election relates if, from time to time during that period, his rate of pay had been the maximum rate of pay payable to persons of the rank, branch and group that was from time to time applicable to him during that period, or such other rate of pay as CSC determines as being appropriate in the circumstances; and
+                     (a)  if he is an existing contributor and he has served continuously as a member of the Defence Force from the commencement of the period to which the election relates until 1 October 1972 and became a contributor under the previous Act upon the termination of the period to which the election relates—an amount equal to 5.5% of the amount of pay that the Authority determines would have been the pay received by him in respect of the period to which the election relates if, from time to time during that period, his rate of pay had been the maximum rate of pay payable to persons of the rank, branch and group that was from time to time applicable to him during that period, or such other rate of pay as the Authority determines as being appropriate in the circumstances; and
 
-                     (b)  in any other case—an amount equal to 5.5% of the amount of pay that would have been payable to him in respect of the period to which the election relates if, at all times during that period, his annual rate of pay had been the annual rate of pay applicable to him at the time when he became an eligible member of the Defence Force or such other annual rate of pay as CSC approves in the circumstances.
+                     (b)  in any other case—an amount equal to 5.5% of the amount of pay that would have been payable to him in respect of the period to which the election relates if, at all times during that period, his annual rate of pay had been the annual rate of pay applicable to him at the time when he became an eligible member of the Defence Force or such other annual rate of pay as the Authority approves in the circumstances.
 
              (5)  A person is not entitled to make an election under this section in respect of any period in respect of which he is entitled to make an election under section 93.
 
-             (6)  An election under subsection (1) or (2) is of no effect unless, at the time when the election is made, or, within such period after that time as CSC, in special circumstances, allows, there is refunded to the Commonwealth, or arrangements satisfactory to CSC are made for there to be refunded to the Commonwealth, any payment of a prescribed kind (being a payment of, or in the nature of, a gratuity or bounty, deferred pay or a part of a pension) paid to the person under the previous legislation, or under legislation relating to conditions of service of members of the Defence Force, in respect of the period to which the election relates.
+             (6)  An election under subsection (1) or (2) is of no effect unless, at the time when the election is made, or, within such period after that time as the Authority, in special circumstances, allows, there is refunded to the Commonwealth, or arrangements satisfactory to the Authority are made for there to be refunded to the Commonwealth, any payment of a prescribed kind (being a payment of, or in the nature of, a gratuity or bounty, deferred pay or a part of a pension) paid to the person under the previous legislation, or under legislation relating to conditions of service of members of the Defence Force, in respect of the period to which the election relates.
 
           (6A)  Where a person who makes an election under this section had credited to him, in respect of the period to which the election relates, under the previous legislation or under legislation relating to the conditions of service of members of the Defence Force, any deferred pay or interest thereon, that credit shall, by force of this section, be deemed to have been cancelled.
 
@@ -3247,7 +3339,7 @@ he may, by notice in writing given to CSC, within a period of 90 days after the 
 
                      (d)  to a person who, under subsection 83(6) of the _Defence Forces Retirement Benefits Act 1959_, or of that Act as amended and in force from time to time, elected not to be a contributor under the _Defence Forces Retirement Benefits Act 1948‑1959_ and who, immediately before 1 October 1972, was a member of the Defence Force on continuous full‑time service (being service that is continuous with her service at the time she became entitled to make the election) but was not a contributor under the previous Act.
 
-             (2)  A person to whom this section applies and who, but for this subsection, would, on 1 October 1972, be an eligible member of the Defence Force, shall be deemed not to be an eligible member of the Defence Force in respect of any period commencing on that date unless, by notice in writing given to CSC within a period of 90 days after the day on which this Act receives the Royal Assent, or within such further period as CSC, in special circumstances, allows, the person elects to be treated as an eligible member of the Defence Force.
+             (2)  A person to whom this section applies and who, but for this subsection, would, on 1 October 1972, be an eligible member of the Defence Force, shall be deemed not to be an eligible member of the Defence Force in respect of any period commencing on that date unless, by notice in writing given to the Authority within a period of 90 days after the day on which this Act receives the Royal Assent, or within such further period as the Authority, in special circumstances, allows, the person elects to be treated as an eligible member of the Defence Force.
 
              (3)  Where a person referred to in paragraph (1)(a) makes an election under subsection (2):
 
@@ -3263,7 +3355,7 @@ he may, by notice in writing given to CSC, within a period of 90 days after the 
 
           (1A)  Where a period would be a period of effective service in relation to a person by virtue of section 63 or 64 if the person were to make an election under subsection 63(1) or 64(1), as the case requires, and comply with subsection 63(2) or 64(2), as the case requires, subsection (1) of this section does not apply in relation to the period unless the period is also a period of effective service in relation to the person by virtue of section 63 or 64.
 
-             (2)  Where deferred benefits are applicable in respect of a person under section 82ZB of the previous Act but, before those benefits become payable, he became or becomes an eligible member of the Defence Force and those benefits cease to be applicable to him by virtue of section 82ZG of the previous Act, such period as CSC determines in relation to his service before 1 October 1972 shall be deemed to be a period of effective service in relation to him.
+             (2)  Where deferred benefits are applicable in respect of a person under section 82ZB of the previous Act but, before those benefits become payable, he became or becomes an eligible member of the Defence Force and those benefits cease to be applicable to him by virtue of section 82ZG of the previous Act, such period as the Authority determines in relation to his service before 1 October 1972 shall be deemed to be a period of effective service in relation to him.
 
 ##### <a id="92"></a>92  Application of Act in respect of elections under subsection 4A(3B) of previous Act
 
@@ -3283,7 +3375,7 @@ his annual rate of pay on 1 October 1972 shall, for the purposes of this Act, 
 
                      (b)  his category number for the purposes of the previous Act immediately before 1 October 1972 was a number greater than the number that would have been his category number at the time of the change in his annual rate of pay if the provisions of the previous Act relating to contributions had continued to apply to him;
 
-he is entitled, in addition to a refund of contributions under subsection 20(2) of this Act to a refund, payable by the Commonwealth, of such part of his previous contributions as CSC, having regard to the provisions of subsection 4A(3B) and section 35 of the previous Act, determines as being appropriate in the circumstances, and the amount of any previous contributions in respect of which he becomes so entitled to a refund shall, for the purposes of this Act, be deemed not to have been paid by him.
+he is entitled, in addition to a refund of contributions under subsection 20(2) of this Act to a refund, payable by the Commonwealth, of such part of his previous contributions as the Authority, having regard to the provisions of subsection 4A(3B) and section 35 of the previous Act, determines as being appropriate in the circumstances, and the amount of any previous contributions in respect of which he becomes so entitled to a refund shall, for the purposes of this Act, be deemed not to have been paid by him.
 
 ##### <a id="93"></a>93  Election by member of scheme to whom subsection 69(1A) of previous Act applies
 
@@ -3293,13 +3385,13 @@ he is entitled, in addition to a refund of contributions under subsection 20(2) 
 
                      (b)  on 1 October 1972, without having ceased to be on continuous full‑time service, became an eligible member of the Defence Force for the purposes of this Act.
 
-             (2)  A member of the scheme to whom this section applies may, by notice in writing given to CSC within a period of 90 days after the day on which this Act receives the Royal Assent, or within such further period as CSC, in special circumstances, allows, elect to have the period, or a specified part of the period, during which a part of his pension under the previous legislation was cancelled by force of subsection 69(1A) of the previous Act taken into account as qualifying service under this Act.
+             (2)  A member of the scheme to whom this section applies may, by notice in writing given to the Authority within a period of 90 days after the day on which this Act receives the Royal Assent, or within such further period as the Authority, in special circumstances, allows, elect to have the period, or a specified part of the period, during which a part of his pension under the previous legislation was cancelled by force of subsection 69(1A) of the previous Act taken into account as qualifying service under this Act.
 
-             (3)  Where a member of the scheme has elected under subsection (2) to have a period taken into account as qualifying service under this Act, he shall pay an additional contribution to the Commonwealth under this section of an amount equal to 5.5% of the amount of pay that CSC determines would have been the pay received by him in respect of that period if, from time to time during that period, his rate of pay had been the maximum rate of pay payable to persons of the rank, branch and group that was from time to time applicable to him during that period.
+             (3)  Where a member of the scheme has elected under subsection (2) to have a period taken into account as qualifying service under this Act, he shall pay an additional contribution to the Commonwealth under this section of an amount equal to 5.5% of the amount of pay that the Authority determines would have been the pay received by him in respect of that period if, from time to time during that period, his rate of pay had been the maximum rate of pay payable to persons of the rank, branch and group that was from time to time applicable to him during that period.
 
              (4)  A member of the scheme who is required to pay an additional contribution to the Commonwealth under subsection (3) shall also pay to the Commonwealth an amount equal to the amount of pension paid to him under the previous Act in respect of the period to which the election made by him under subsection (2) relates.
 
-##### <a id="94"></a>94  Death of contributing member after 60 days absence without leave
+##### <a id="94"></a>94  Death of contributing member after 60 days absence without leave
 
                    In the application of section 49 in relation to a member of the scheme who died during the transitional period, the reference in subsection (2) of that section to the period of 6 months after the death of a person shall be read as a reference to that period or the period of 90 days after this Act receives the Royal Assent, whichever last expires.
 
@@ -3363,7 +3455,7 @@ he is not entitled, and shall be deemed not to have become entitled, to invalidi
 
              (2)  The increase provided for by subsection (1) in the rate at which a pension benefit was payable to a pensioner immediately before the commencement of a prescribed half‑year (in this section referred to as the **_relevant prescribed half‑year_**) is the prescribed percentage, ascertained in accordance with subsection (3), of the rate of pension benefit that, under subsection (4), is the relevant rate of pension in relation to the pensioner.
 
-             (3)  For the purposes of subsection (2) and subsection (5A), the prescribed percentage, in relation to a prescribed half‑year, is the percentage that represents ![](http://www.comlaw.gov.au/Details/C2011C00525/Html/2e4cd829-f666-4c0c-a2b5-89874444d30a_files/image012.gif) expressed as a percentage of **_B_**, where:
+             (3)  For the purposes of subsection (2) and subsection (5A), the prescribed percentage, in relation to a prescribed half‑year, is the percentage that represents ![](http://www.comlaw.gov.au/Details/C2011C00296/Html/6b4f1f47-0e34-4b83-b66d-e4aa5605b732_files/image012.gif) expressed as a percentage of **_B_**, where:
 
                     <a name=""></a>**_A_** is the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half‑year immediately preceding the prescribed half‑year; and
 
@@ -3385,7 +3477,7 @@ he is not entitled, and shall be deemed not to have become entitled, to invalidi
 
                      (e)  in relation to a pensioner to whom subsection 42(3) or 43(3) applies and who is the child of a deceased recipient member—a rate equal to such proportion as, under subsection (6), is the appropriate proportion of the rate at which retirement pay or invalidity pay, as the case may be, would, immediately before the commencement of the relevant prescribed half‑year, have been payable to the deceased recipient member if he had not died or, if a notional rate of retirement pay or invalidity pay, as the case may be, is applicable to the deceased recipient member in accordance with subsection (5) and the notional rate of retirement pay or invalidity pay, as the case may be, so applicable immediately before the commencement of that half‑year is lower than the rate at which retirement pay or invalidity pay, as the case may be, would have been payable to the deceased recipient member immediately before the commencement of that half‑year if he had not died, a rate equal to such proportion as, under subsection (6), is the appropriate proportion of the notional rate of retirement pay or invalidity pay, as the case may be, so applicable immediately before the commencement of that half‑year; or
 
-                      (f)  in relation to a pensioner to whom a pension benefit is payable under section 43A or 44—a rate determined by CSC, being the rate which, in the opinion of CSC, is the appropriate rate to be regarded as the relevant rate of pension in relation to the pensioner for the relevant prescribed half‑year.
+                      (f)  in relation to a pensioner to whom a pension benefit is payable under section 43A or 44—a rate determined by the Authority, being the rate which, in the opinion of the Authority, is the appropriate rate to be regarded as the relevant rate of pension in relation to the pensioner for the relevant prescribed half‑year.
 
              (5)  For the purposes of subsection (4):
 
@@ -3641,125 +3733,25 @@ as the case may be, before 1 September 1982.
 
 makes a further election under section 24 or 32A, as the case may be, that he would not have been entitled to make but for subsection (1), that further election shall, notwithstanding subsections 24(4) and 32A(6), as the case may be, be deemed to have taken effect on the day on which that first‑mentioned election or the earliest of those first‑mentioned elections took effect.
 
-## Part XI—Review of decisions by CSC
+## Part XI—Review of decisions of Authority
 
-### Division 1—Review of decisions by CSC
+##### <a id="99"></a>99  Review of decisions of Authority
 
-##### <a id="99"></a>99  Review of decisions of CSC
+             (1)  In this section:
 
-             (2)  A person who is affected by a decision of CSC and is dissatisfied with the decision may, by notice in writing given to CSC, within a period of 30 days after the date on which the decision first comes to the notice of the person, or within such further period as CSC allows, request CSC to reconsider the decision.
+                    <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
+
+                    <a name="decision-author"></a>**_decision of the Authority_** means a decision of the Authority, or a delegate of the Authority, under this Act, under the _Defence Forces Retirement Benefits Act 1948_ or that Act as amended and in force from time to time, or under any other Act that relates to retirement benefits for members of the Defence Force and modifies or affects the provisions of the _Defence Forces Retirement Benefits Act 1948_ or that Act as amended and in force from time to time.
+
+             (2)  A person who is affected by a decision of the Authority and is dissatisfied with the decision may, by notice in writing given to the Authority, within a period of 30 days after the date on which the decision first comes to the notice of the person, or within such further period as the Authority allows, request the Authority to reconsider the decision.
 
              (3)  There shall be set out in the request the ground on which the request is made.
 
-             (4)  After receiving a request for reconsideration of a decision, CSC must:
+             (4)  Upon the receipt of the request the Authority shall reconsider the decision and may either confirm the decision or vary the decision in such manner as it thinks fit.
 
-                     (a)  refer the decision to the Defence Force Case Assessment Panel for the Panel to make recommendations to CSC in relation to the decision; or
+             (5)  The Authority shall, by notice in writing to the person who made the request, inform the person of the result of its reconsideration of the decision.
 
-                     (b)  refer the decision to the Defence Force Case Assessment Panel for the Panel to reconsider the decision; or
-
-                     (c)  reconsider the decision itself.
-
-          (4A)  If CSC reconsiders a decision, it may:
-
-                     (a)  confirm the decision; or
-
-                     (b)  vary the decision; or
-
-                     (c)  set aside the decision and substitute a new decision.
-
-             (5)  CSC shall, by notice in writing to the person who made the request, inform the person of the result of its reconsideration of the decision.
-
-### Division 2—Defence Force Case Assessment Panel
-
-##### <a id="100"></a>100  Establishment
-
-                   CSC must establish the Defence Force Case Assessment Panel.
-
-##### <a id="101"></a>101  Members
-
-             (1)  The Panel comprises:
-
-                     (a)  a director of CSC nominated by the Chief of the Defence Force under the _Governance of Australian Government Superannuation Schemes Act 2011_, as determined by CSC; and
-
-                     (b)  a person nominated, in writing, by the Chief of the Air Force; and
-
-                     (c)  a person nominated, in writing, by the Chief of the Army; and
-
-                     (d)  a person nominated, in writing, by the Chief of the Navy; and
-
-                     (e)  up to 2 other persons, as determined by CSC.
-
-             (2)  The director of CSC determined by CSC under paragraph (1)(a) is to be the Chair of the Panel.
-
-##### <a id="102"></a>102  Functions
-
-             (1)  The functions of the Panel are to review any decision referred to it under this Part and:
-
-                     (a)  if CSC has delegated its powers to reconsider the decision to the Panel—to confirm, vary, substitute or set aside the decision; or
-
-                     (b)  if CSC has delegated to the Panel any of CSC’s powers in relation to the decision (other than the power to reconsider the decision)—to exercise those powers; or
-
-                     (c)  in any other case—to make recommendations to CSC in relation to the decision.
-
-Note:          Paragraph (c)—see section 106.
-
-             (2)  When reviewing a decision, the Panel:
-
-                     (a)  must take into account any evidence relevant to the decision that is submitted to it; and
-
-                     (b)  may also take steps to obtain any other evidence that it considers necessary for a proper review of the decision.
-
-##### <a id="103"></a>103  Proceedings
-
-             (1)  Subject to any directions given by CSC, the Panel may regulate its proceedings as the Panel thinks fit.
-
-             (2)  If a direction is given in writing, the direction is not a legislative instrument.
-
-##### <a id="104"></a>104  Indemnification
-
-                   Any matter or thing done, or omitted to be done, in good faith by a member of the Panel in the performance of functions under this Division does not subject him or her to any action, liability, claim or demand.
-
-Note:          See also section 35 of the _Governance of Australian Government Superannuation Schemes Act 2011._
-
-##### <a id="105"></a>105  Remuneration and allowances
-
-             (1)  A member of the Panel is to be paid such remuneration as is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the member is to be paid such remuneration as is prescribed.
-
-             (2)  A member of the Panel is to be paid such allowances (if any) as are prescribed.
-
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
-
-##### <a id="106"></a>106  Recommendations by Panel to CSC
-
-             (1)  If the Panel makes recommendations to CSC in relation to a decision referred to it, then, after CSC takes into account:
-
-                     (a)  the recommendations of the Panel; and
-
-                     (b)  any other matter that CSC considers relevant;
-
-CSC must make a decision in writing:
-
-                     (c)  confirming the decision under review; or
-
-                     (d)  varying the decision under review; or
-
-                     (e)  setting aside the decision under review and substituting a new decision.
-
-             (2)  CSC’s written decision must include the reasons for its decision.
-
-             (3)  CSC must make a copy of its written decision available to the applicant.
-
-### Division 3—Review of decisions by the Administrative Appeals Tribunal
-
-##### <a id="107"></a>107  Review by the Administrative Appeals Tribunal
-
-                   Applications may be made to the Administrative Appeals Tribunal for:
-
-                     (a)  review of a decision of CSC that has been confirmed or varied by CSC under paragraph 99(4A)(a) or (b); and
-
-                     (b)  review of a decision of CSC that has been confirmed or varied by the Panel under paragraph 102(1)(a); and
-
-                     (c)  review of a decision of CSC that has been confirmed or varied by CSC under paragraph 106(1)(c) or (d).
+             (6)  Applications may be made to the Administrative Appeals Tribunal for review of decisions of the Authority, being decisions that have been confirmed or varied under subsection (4).
 
 ## Part XII—Miscellaneous
 
@@ -3771,13 +3763,13 @@ CSC must make a decision in writing:
 
                      (a)  the personal representative or a personal representative of the member; or
 
-                     (b)  if there are no personal representatives of the member—a person determined by CSC for the purposes of that subsection;
+                     (b)  if there are no personal representatives of the member—a person determined by the Authority for the purposes of that subsection;
 
 may, not earlier than 3 months before, and not later than one year after, that benefit becomes payable, elect in writing that that benefit (instead of any productivity superannuation benefit payable to the member) be adjusted to take the member’s surcharge deduction amount into account.
 
 ##### <a id="124A"></a>124A  Determinations with respect to surcharge deduction amount
 
-             (1)  CSC must, in accordance with advice received from the Australian Government Actuary, determine in writing the conversion factor that, having regard to:
+             (1)  The Authority must, in accordance with advice received from the Australian Government Actuary, determine in writing the conversion factor that, having regard to:
 
                      (a)  the age of a member of the scheme when a benefit becomes payable to the member; and
 
@@ -3797,25 +3789,25 @@ is applicable for the purpose of working out, in relation to the member, the yea
 
 ##### <a id="126"></a>126  Recovery of amounts payable to Commonwealth
 
-             (1)  An amount payable to the Commonwealth under this Act, including an amount of unpaid contributions, may be paid to the Commonwealth in a lump sum or in such instalments and at such times as CSC approves.
+             (1)  An amount payable to the Commonwealth under this Act, including an amount of unpaid contributions, may be paid to the Commonwealth in a lump sum or in such instalments and at such times as the Authority approves.
 
              (2)  Where the amount of any contributions payable by a person to the Commonwealth has not been paid and benefit is payable to or in respect of the person, the amount of the unpaid contributions may be deducted from any payment or payments of that benefit.
 
-             (3)  An amount payable to the Commonwealth under this Act, including an amount of unpaid contributions, may be recovered by CSC, on behalf of the Commonwealth in a court of competent jurisdiction as a debt due and payable to the Commonwealth.
+             (3)  An amount payable to the Commonwealth under this Act, including an amount of unpaid contributions, may be recovered by the Authority, on behalf of the Commonwealth in a court of competent jurisdiction as a debt due and payable to the Commonwealth.
 
-             (4)  Where, for any reason (including the making of, or cancellation of, an election under this Act), an amount of benefit has been paid that is not payable, or has become not payable, the amount so paid may be recovered by CSC, on behalf of the Commonwealth, in a court of competent jurisdiction as a debt due and payable to the Commonwealth.
+             (4)  Where, for any reason (including the making of, or cancellation of, an election under this Act), an amount of benefit has been paid that is not payable, or has become not payable, the amount so paid may be recovered by the Authority, on behalf of the Commonwealth, in a court of competent jurisdiction as a debt due and payable to the Commonwealth.
 
-             (5)  Where, for any reason (including the making of, or cancellation of, an election under this Act), an amount of benefit has been paid that is not payable, or has become not payable, and the person to whom that amount was paid is receiving, or is entitled to receive, a benefit, that amount, or such part of that amount as CSC determines, may, if CSC in its discretion so directs, be recovered by deduction from that benefit.
+             (5)  Where, for any reason (including the making of, or cancellation of, an election under this Act), an amount of benefit has been paid that is not payable, or has become not payable, and the person to whom that amount was paid is receiving, or is entitled to receive, a benefit, that amount, or such part of that amount as the Authority determines, may, if the Authority in its discretion so directs, be recovered by deduction from that benefit.
 
              (6)  In subsections (4) and (5), **_benefit_** includes pension or other money payable under the previous legislation.
 
-##### <a id="127"></a>127  Recipient member etc. to inform CSC if he becomes eligible member
+##### <a id="127"></a>127  Recipient member etc. to inform Authority if he becomes eligible member
 
              (1)  A person who is a recipient member, a person in receipt of a pension under the previous legislation (other than section 55 or 57 of the previous Act) or a person to whom deferred benefit is applicable under section 78 of this Act or section 82ZB of the previous Act, is guilty of an offence if:
 
                      (a)  the person becomes an eligible member of the Defence Force; and
 
-                     (b)  the person does not, within 14 days after becoming such a member, inform CSC in writing that the person has become such a member.
+                     (b)  the person does not, within 14 days after becoming such a member, inform the Authority in writing that the person has become such a member.
 
                     Maximum penalty: $100.
 
@@ -3827,7 +3819,7 @@ is applicable for the purpose of working out, in relation to the member, the yea
 
 ##### <a id="128"></a>128  Extension of periods of elections
 
-             (1)  Where any period within which a person is entitled to make an election under this Act has expired before the day on which this Act receives the Royal Assent, the election may be made within such further period after that day as CSC allows.
+             (1)  Where any period within which a person is entitled to make an election under this Act has expired before the day on which this Act receives the Royal Assent, the election may be made within such further period after that day as the Authority allows.
 
              (2)  Subject to subsection (3), where a person who is entitled to make an election under a provision of this Act:
 
@@ -3835,9 +3827,9 @@ is applicable for the purpose of working out, in relation to the member, the yea
 
                      (b)  dies before the expiration of the period within which the election may be made or, if a further period has been allowed, before the expiration of that further period, without his having made the election;
 
-CSC may, if it thinks it proper to do so, allow such other person as CSC thinks appropriate to make the election within such period as CSC allows, and, where the election is made by that other person, the election shall, for the purposes of this Act, be deemed to have been made by the first‑mentioned person, and has effect accordingly.
+the Authority may, if it thinks it proper to do so, allow such other person as the Authority thinks appropriate to make the election within such period as the Authority allows, and, where the election is made by that other person, the election shall, for the purposes of this Act, be deemed to have been made by the first‑mentioned person, and has effect accordingly.
 
-             (3)  Notwithstanding subsection (2), CSC shall not, after the death of a recipient member, allow another person to make an election under section 24 to commute a portion of the member’s retirement pay or to make an election under section 32A to commute a portion of the member’s invalidity pay.
+             (3)  Notwithstanding subsection (2), the Authority shall not, after the death of a recipient member, allow another person to make an election under section 24 to commute a portion of the member’s retirement pay or to make an election under section 32A to commute a portion of the member’s invalidity pay.
 
 ##### <a id="128A"></a>128A  Cancellation of elections
 
@@ -3845,11 +3837,11 @@ CSC may, if it thinks it proper to do so, allow such other person as CSC thinks 
 
                      (a)  a person makes an election (whether before or after the commencement of this section) under section 24, 32A, 69 or 76 or is deemed by subsection 128(2) to have made such an election;
 
-                     (b)  that person, or another person whom CSC has, under subsection 128(2), allowed to make an election under a provision of this Act on behalf of the first‑mentioned person, makes an application to CSC not later than 3 months after the day on which the election is made or is deemed to have been made, or within such further period as CSC, in special circumstances, allows, requesting that CSC cancel the election; and
+                     (b)  that person, or another person whom the Authority has, under subsection 128(2), allowed to make an election under a provision of this Act on behalf of the first‑mentioned person, makes an application to the Authority not later than 3 months after the day on which the election is made or is deemed to have been made, or within such further period as the Authority, in special circumstances, allows, requesting that the Authority cancel the election; and
 
-                     (c)  CSC, having regard to such matters (if any) as it considers relevant, is satisfied that the election should be cancelled;
+                     (c)  the Authority, having regard to such matters (if any) as it considers relevant, is satisfied that the election should be cancelled;
 
-CSC may direct that the election shall be cancelled and, if it so directs, this Act has effect as if the election had not been made.
+the Authority may direct that the election shall be cancelled and, if it so directs, this Act has effect as if the election had not been made.
 
 ##### <a id="129"></a>129  Assignment of pensions
 
@@ -3857,9 +3849,9 @@ CSC may direct that the election shall be cancelled and, if it so directs, this 
 
 ##### <a id="130"></a>130  Attachment of benefits
 
-             (1)  Where a judgment given by a court for the payment of a sum of money has not been fully satisfied by the judgment debtor and the judgment debtor is entitled to a benefit under this Act, the judgment creditor may serve on CSC a copy of the judgment, certified under the hand of the Registrar or other proper officer of the court by which the judgment was given, and a statutory declaration by the judgment creditor stating that the judgment has not been fully satisfied by the judgment debtor and specifying the amount due by the judgment debtor under the judgment.
+             (1)  Where a judgment given by a court for the payment of a sum of money has not been fully satisfied by the judgment debtor and the judgment debtor is entitled to a benefit under this Act, the judgment creditor may serve on the Authority a copy of the judgment, certified under the hand of the Registrar or other proper officer of the court by which the judgment was given, and a statutory declaration by the judgment creditor stating that the judgment has not been fully satisfied by the judgment debtor and specifying the amount due by the judgment debtor under the judgment.
 
-             (2)  Where a copy of a judgment and a statutory declaration are served on CSC in accordance with subsection (1), CSC shall, as soon as practicable, by notice in writing given to the judgment debtor, inform him of the service of those documents and require him, within such period as is specified in the notice and in such manner as is so specified, to notify CSC whether the amount specified in the declaration is still due under the judgment and, if no amount or a lesser amount is due under the judgment, to furnish to CSC, in such manner as is specified in the notice, evidence in support of that fact.
+             (2)  Where a copy of a judgment and a statutory declaration are served on the Authority in accordance with subsection (1), the Authority shall, as soon as practicable, by notice in writing given to the judgment debtor, inform him of the service of those documents and require him, within such period as is specified in the notice and in such manner as is so specified, to notify the Authority whether the amount specified in the declaration is still due under the judgment and, if no amount or a lesser amount is due under the judgment, to furnish to the Authority, in such manner as is specified in the notice, evidence in support of that fact.
 
              (3)  A person is guilty of an offence if:
 
@@ -3869,7 +3861,7 @@ CSC may direct that the election shall be cancelled and, if it so directs, this 
 
                     Maximum penalty: $40.
 
-             (4)  If, at the expiration of the period specified in the notice, CSC is satisfied that an amount is due under the judgment, CSC may, in its discretion, authorize the deduction from the benefit, and the payment to the judgment creditor, of such sums as do not exceed that amount, and those deductions and those payments shall be made accordingly.
+             (4)  If, at the expiration of the period specified in the notice, the Authority is satisfied that an amount is due under the judgment, the Authority may, in its discretion, authorize the deduction from the benefit, and the payment to the judgment creditor, of such sums as do not exceed that amount, and those deductions and those payments shall be made accordingly.
 
              (5)  A deduction shall not be authorized from:
 
@@ -3877,15 +3869,15 @@ CSC may direct that the election shall be cancelled and, if it so directs, this 
 
                      (b)  an instalment of any other pension benefit if the deduction will reduce the amount of the instalment payable to less than one‑half of the amount that would, but for this section, be payable.
 
-             (6)  If, after a copy of a judgment given against any person entitled to a benefit under this Act, being a judgment in respect of which CSC is satisfied that an amount is due, has been served in accordance with subsection (1), a copy of another judgment given (whether before or after the first‑mentioned judgment) against the same person in favour of the person in whose favour the first‑mentioned judgment was given, or in favour of another person, is served in accordance with that subsection, a payment shall not be made in pursuance of this section to the judgment creditor under the other judgment in respect of the amount due under that judgment until the amount due under the first‑mentioned judgment has been paid.
+             (6)  If, after a copy of a judgment given against any person entitled to a benefit under this Act, being a judgment in respect of which the Authority is satisfied that an amount is due, has been served in accordance with subsection (1), a copy of another judgment given (whether before or after the first‑mentioned judgment) against the same person in favour of the person in whose favour the first‑mentioned judgment was given, or in favour of another person, is served in accordance with that subsection, a payment shall not be made in pursuance of this section to the judgment creditor under the other judgment in respect of the amount due under that judgment until the amount due under the first‑mentioned judgment has been paid.
 
              (7)  A payment made to a judgment creditor in pursuance of this section shall, as between the Commonwealth and the person entitled to benefit under this Act, be deemed to be a payment by the Commonwealth to the person entitled to benefit.
 
              (8)  A judgment creditor is guilty of an offence if:
 
-                     (a)  the judgment creditor serves a copy of a judgment on CSC under subsection (1); and
+                     (a)  the judgment creditor serves a copy of a judgment on the Authority under subsection (1); and
 
-                     (b)  the judgment creditor does not notify CSC immediately the judgment debt is satisfied.
+                     (b)  the judgment creditor does not notify the Authority immediately the judgment debt is satisfied.
 
                     Maximum penalty: 
 
@@ -3897,7 +3889,7 @@ CSC may direct that the election shall be cancelled and, if it so directs, this 
 
 ##### <a id="130A"></a>130A  Repayment of amounts that have been refunded to the Commonwealth
 
-                   Where a person:
+                   Where a person:
 
                      (a)  made an election under section 21, 53, 55, 64 or 89;
 
@@ -3909,11 +3901,11 @@ the Commonwealth shall repay to the person any amounts so paid by him.
 
 ##### <a id="130B"></a>130B  Trustee of Scheme for purposes of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_
 
-             (1)  For the purposes of the definition of **_trustee_** in section 43 of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_, CSC is taken to be the person who manages the superannuation scheme constituted by this Act (the **_Scheme_**).
+             (1)  For the purposes of the definition of **_trustee_** in section 43 of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_, the Authority is taken to be the person who manages the superannuation scheme constituted by this Act (the **_Scheme_**).
 
 Note:          The definitions of **_public sector superannuation scheme_**, **_superannuation fund_** and **_trustee_** in section 43 of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_ are relevant to this section.
 
-             (2)  Section 4 of the _Superannuation Contributions Tax (Application to the Commonwealth—Reduction of Benefits) Act 1997_ does not apply to CSC in its capacity (because of subsection (1)) of trustee of the Scheme for the purposes of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_.
+             (2)  Section 4 of the _Superannuation Contributions Tax (Application to the Commonwealth—Reduction of Benefits) Act 1997_ does not apply to the Authority in its capacity (because of subsection (1)) of trustee of the Scheme for the purposes of the _Superannuation Contributions Tax (Assessment and Collection) Act 1997_.
 
 ##### <a id="131"></a>131  Regulations
 
@@ -6039,41 +6031,7 @@ Schedule 6: 1 Jan 2008 ( <i>see</i>F2007L04119)</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 94, 95): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 519) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 36–58, 246): <i>(o)</i></div>
+    <div>Schedule 5 (items 94, 95): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -6344,62 +6302,6 @@ _(n)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
   </td>
 </tr></table>
 
-_(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011.</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -6444,7 +6346,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 33, 1976; No. 161, 1977; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 104, 1988; Nos. 126 and 135, 1991; No. 185, 1992; No. 187, 1997; No. 10, 2001; Nos. 26 and 134, 2008; Nos. 5 and 58, 2011</div>
+    <div>am. No. 96, 1975; No. 33, 1976; No. 161, 1977; No. 61, 1981; No. 164, 1984; No. 65, 1987; No. 104, 1988; Nos. 126 and 135, 1991; No. 185, 1992; No. 187, 1997; No. 10, 2001; Nos. 26 and 134, 2008; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6500,7 +6402,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 134, 2008; No. 58, 2011</div>
+    <div>am. No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6516,7 +6418,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 165, 2007; No. 134, 2008; No. 58, 2011</div>
+    <div>am. No. 165, 2007; No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6556,7 +6458,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 112, 2003; Nos. 58 and 106, 2004; No. 102, 2005; No. 58, 2011</div>
+    <div>am. No. 112, 2003; Nos. 58 and 106, 2004; No. 102, 2005</div>
   </td>
 </tr>
 <tr>
@@ -6569,10 +6471,10 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>Part II</div>
+    <div><b>Part II</b></div>
   </td>
   <td>
-    <div>rep. No. 58, 2011</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -6585,14 +6487,6 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 8</div>
   </td>
   <td>
@@ -6601,26 +6495,10 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 9</div>
   </td>
   <td>
     <div>am. No. 96, 1975; No. 161, 1977; No. 164, 1984; No. 126, 1991; No. 91, 1992; No. 1, 1997; No. 159, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6641,26 +6519,10 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 11</div>
   </td>
   <td>
     <div>am. No. 126, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6673,22 +6535,6 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 14</div>
   </td>
   <td>
@@ -6697,34 +6543,10 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 16</div>
   </td>
   <td>
     <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6764,7 +6586,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. No. 144, 1981; No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 144, 1981; No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -6772,7 +6594,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 161, 1977; No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 161, 1977; No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -6788,7 +6610,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 161, 1977; No. 164, 1984; Nos. 1 and 187, 1997; No. 58, 2011</div>
+    <div>am. No. 96, 1975; No. 161, 1977; No. 164, 1984; Nos. 1 and 187, 1997</div>
   </td>
 </tr>
 <tr>
@@ -6796,7 +6618,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 161, 1977; No. 135, 1979; No. 144, 1981; No. 164, 1984; No. 100, 1988; Nos. 126 and 135, 1991; No. 187, 1997; No. 58, 2011</div>
+    <div>am. No. 161, 1977; No. 135, 1979; No. 144, 1981; No. 164, 1984; No. 100, 1988; Nos. 126 and 135, 1991; No. 187, 1997</div>
   </td>
 </tr>
 <tr>
@@ -6804,7 +6626,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 25</div>
   </td>
   <td>
-    <div>am. No. 161, 1977; No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 161, 1977; No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -6817,18 +6639,10 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>Ss. 27, 28</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 29</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 65, 1987; No. 58, 2011</div>
+    <div>am. No. 164, 1984; No. 65, 1987</div>
   </td>
 </tr>
 <tr>
@@ -6836,7 +6650,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 30</div>
   </td>
   <td>
-    <div>am. No. 15, 1979; No. 164, 1984; Nos. 126 and 135, 1991; No. 58, 2011</div>
+    <div>am. No. 15, 1979; No. 164, 1984; Nos. 126 and 135, 1991</div>
   </td>
 </tr>
 <tr>
@@ -6844,7 +6658,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 31</div>
   </td>
   <td>
-    <div>am. No. 135, 1979; No. 164, 1984; No. 187, 1997; No. 58, 2011</div>
+    <div>am. No. 135, 1979; No. 164, 1984; No. 187, 1997</div>
   </td>
 </tr>
 <tr>
@@ -6868,7 +6682,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 144, 1981; No. 164, 1984; No. 100, 1988; No. 187, 1997; No. 58, 2011</div>
+    <div>am. No. 144, 1981; No. 164, 1984; No. 100, 1988; No. 187, 1997</div>
   </td>
 </tr>
 <tr>
@@ -6876,7 +6690,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 161, 1977; No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 161, 1977; No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -6884,15 +6698,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 34</div>
   </td>
   <td>
-    <div>am. Nos. 15 and 135, 1979; No. 126, 1991; No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 35</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
+    <div>am. Nos. 15 and 135, 1979; No. 126, 1991</div>
   </td>
 </tr>
 <tr>
@@ -6900,7 +6706,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 161, 1977; No. 135, 1979; No. 104, 1988; No. 58, 2011</div>
+    <div>am. No. 161, 1977; No. 135, 1979; No. 104, 1988</div>
   </td>
 </tr>
 <tr>
@@ -6908,15 +6714,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 33, 1976; No. 126, 1991; No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 37</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
+    <div>am. No. 33, 1976; No. 126, 1991</div>
   </td>
 </tr>
 <tr>
@@ -6924,7 +6722,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 37</div>
   </td>
   <td>
-    <div>am. No. 96, 1975; No. 1, 1997; No. 58, 2011</div>
+    <div>am. No. 96, 1975; No. 1, 1997</div>
   </td>
 </tr>
 <tr>
@@ -7004,7 +6802,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 187, 1997; No. 58, 2011</div>
+    <div>am. No. 187, 1997</div>
   </td>
 </tr>
 <tr>
@@ -7020,7 +6818,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 185, 1992; No. 187, 1997; No. 58, 2011</div>
+    <div>am. No. 185, 1992; No. 187, 1997</div>
   </td>
 </tr>
 <tr>
@@ -7044,7 +6842,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 135, 1979; No. 164, 1984; No. 75, 1990; No. 21, 1991; No. 187, 1997; No. 58, 2011</div>
+    <div>am. No. 135, 1979; No. 164, 1984; No. 75, 1990; No. 21, 1991; No. 187, 1997</div>
   </td>
 </tr>
 <tr>
@@ -7076,7 +6874,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 185, 1992; No. 58, 2011</div>
+    <div>am. No. 185, 1992</div>
   </td>
 </tr>
 <tr>
@@ -7105,26 +6903,10 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7148,7 +6930,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 135, 1979; No. 126, 1991; No. 58, 2011</div>
+    <div>am. No. 135, 1979; No. 126, 1991</div>
   </td>
 </tr>
 <tr>
@@ -7156,7 +6938,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 48</div>
   </td>
   <td>
-    <div>am. No. 161, 1977; No. 133, 1979; No. 126, 1991; No. 187, 1997; No. 58, 2011</div>
+    <div>am. No. 161, 1977; No. 133, 1979; No. 126, 1991; No. 187, 1997</div>
   </td>
 </tr>
 <tr>
@@ -7172,7 +6954,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 187, 1997; No. 58, 2011</div>
+    <div>am. No. 187, 1997</div>
   </td>
 </tr>
 <tr>
@@ -7180,7 +6962,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 49</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 65, 1987; No. 58, 2011</div>
+    <div>am. No. 164, 1984; No. 65, 1987</div>
   </td>
 </tr>
 <tr>
@@ -7237,14 +7019,6 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>ad. No. 58, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7340,7 +7114,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 51</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -7356,7 +7130,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 53</div>
   </td>
   <td>
-    <div>am. No. 161, 1977; No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 161, 1977; No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -7372,7 +7146,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 55</div>
   </td>
   <td>
-    <div>am. No. 161, 1977; No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 161, 1977; No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -7385,26 +7159,10 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>Ss. 56, 57</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 59</div>
   </td>
   <td>
     <div>am. No. 161, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 61</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7417,34 +7175,10 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 61A</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 61A</div>
   </td>
   <td>
     <div>ad. No. 126, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7460,7 +7194,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 92, 1992; No. 10, 2001; No. 58, 2011</div>
+    <div>am. No. 92, 1992; No. 10, 2001</div>
   </td>
 </tr>
 <tr>
@@ -7476,7 +7210,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 62</div>
   </td>
   <td>
-    <div>am. No. 33, 1976; No. 135, 1979; No. 144, 1981; No. 104, 1988; No. 126, 1991; No. 58, 2011</div>
+    <div>am. No. 33, 1976; No. 135, 1979; No. 144, 1981; No. 104, 1988; No. 126, 1991</div>
   </td>
 </tr>
 <tr>
@@ -7484,7 +7218,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 63</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -7492,7 +7226,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 64</div>
   </td>
   <td>
-    <div>am. No. 161, 1977; No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 161, 1977; No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -7521,22 +7255,6 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 67</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -7556,7 +7274,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 69</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -7596,7 +7314,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 74</div>
   </td>
   <td>
-    <div>am. No. 187, 1997; No. 58, 2011</div>
+    <div>am. No. 187, 1997</div>
   </td>
 </tr>
 <tr>
@@ -7604,7 +7322,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 75</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 187, 1997; No. 134, 2008; No. 58, 2011</div>
+    <div>am. No. 164, 1984; No. 187, 1997; No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7612,7 +7330,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 76</div>
   </td>
   <td>
-    <div>am. No. 33, 1976; No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 33, 1976; No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -7620,7 +7338,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 78</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 65, 1987; No. 58, 2011</div>
+    <div>am. No. 164, 1984; No. 65, 1987</div>
   </td>
 </tr>
 <tr>
@@ -7628,15 +7346,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>Ss. 79, 80</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
+    <div>am. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -7660,7 +7370,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 84</div>
   </td>
   <td>
-    <div>am. No. 36, 1978; No. 164, 1984; No. 5, 1995; Nos. 5 and 58, 2011</div>
+    <div>am. No. 36, 1978; No. 164, 1984; No. 5, 1995; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7676,23 +7386,15 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 85</div>
   </td>
   <td>
-    <div>am. No. 161, 1977; No. 164, 1984; No. 65, 1987; No. 58, 2011</div>
+    <div>am. No. 161, 1977; No. 164, 1984; No. 65, 1987</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 86</div>
+    <div>Ss. 86, 87</div>
   </td>
   <td>
     <div>am. No. 164, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 87</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7708,7 +7410,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -7724,7 +7426,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>Ss. 89, 90</div>
   </td>
   <td>
-    <div>am. No. 161, 1977; No. 164, 1984; No. 58, 2011</div>
+    <div>am. No. 161, 1977; No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -7732,7 +7434,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 91</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 65, 1987; No. 58, 2011</div>
+    <div>am. No. 164, 1984; No. 65, 1987</div>
   </td>
 </tr>
 <tr>
@@ -7740,20 +7442,12 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 92</div>
   </td>
   <td>
-    <div>am. No. 164, 1984 (as am. by No. 65, 1985); No. 58, 2011</div>
+    <div>am. No. 164, 1984 (as am. by No. 65, 1985)</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 93</div>
-  </td>
-  <td>
-    <div>am. No. 164, 1984; No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 94, 95</div>
+    <div>Ss. 93–95</div>
   </td>
   <td>
     <div>am. No. 164, 1984</div>
@@ -7804,7 +7498,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. No. 161, 1977; No. 135, 1979; No. 164, 1984; No. 65, 1987; No. 21, 1991; No. 148, 2001; No. 165, 2007; No. 134, 2008; No. 58, 2011</div>
+    <div>am. No. 161, 1977; No. 135, 1979; No. 164, 1984; No. 65, 1987; No. 21, 1991; No. 148, 2001; No. 165, 2007; No. 134, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8001,42 +7695,10 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>Heading to Part XI</div>
-  </td>
-  <td>
-    <div>rs. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Part XI</div>
   </td>
   <td>
     <div>rs. No. 33, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part XI</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 99</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8049,79 +7711,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part XI</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 100–106</div>
-  </td>
-  <td>
-    <div>rep. No. 33, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part XI</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 107</div>
-  </td>
-  <td>
-    <div>rep. No. 33, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 108–123</div>
+    <div>Ss. 100–123</div>
   </td>
   <td>
     <div>rep. No. 33, 1976</div>
@@ -8153,14 +7743,6 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 124A</div>
   </td>
   <td>
@@ -8169,26 +7751,10 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 126</div>
   </td>
   <td>
-    <div>am. No. 104, 1988; No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 127</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
+    <div>am. No. 104, 1988</div>
   </td>
 </tr>
 <tr>
@@ -8196,7 +7762,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 127</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 104, 1988; No. 141, 2001; No. 58, 2011</div>
+    <div>am. No. 164, 1984; No. 104, 1988; No. 141, 2001</div>
   </td>
 </tr>
 <tr>
@@ -8204,7 +7770,7 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 128</div>
   </td>
   <td>
-    <div>am. No. 135, 1979; No. 58, 2011</div>
+    <div>am. No. 135, 1979</div>
   </td>
 </tr>
 <tr>
@@ -8217,18 +7783,10 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 130</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 104, 1988; No. 141, 2001; No. 58, 2011</div>
+    <div>am. No. 164, 1984; No. 104, 1988; No. 141, 2001</div>
   </td>
 </tr>
 <tr>
@@ -8245,14 +7803,6 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
   </td>
   <td>
     <div>ad. No. 187, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8319,20 +7869,6 @@ _(o)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>am. No. 161, 1977; No. 135, 1979</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 519  Paragraph 6A(4)(ba)
-
-Omit “section 22B”, substitute “section 2E”.
-
-As at 11 July 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -8482,21 +8018,5 @@ The amendments of the _Defence Force Retirement and Death Benefits Act 1973_ mad
                      (b)  a recipient member (within the meaning of that Act); or
 
                      (c)  a person in respect of whom deferred benefits were applicable under section 78 of that Act.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
