@@ -1,467 +1,113 @@
-![](http://www.comlaw.gov.au/Details/C2004C00193/Html/481B636DA0F63797CA25713200069A12/$FILE/image001.gif)
+**<b>
 
-# Loans Securities Act 1919
+### <center><name>LOANS SECURITIES ACT 1919 - Reprinted as at 31 July 1983 (HISTACT CHAP 156 #DATE 31:07:1983) </name></center>
+</b>** *1* The Loans Securities Act 1919 as shown in this reprint comprises Act No. 25, 1919 amended as indicated in the Tables below.<lf>    (The citation "Loans Securities Act 1919" is provided for by the Amendments Incorporation Act 1905 and the Acts Citation Act 1976.)<lf>                                  Table of Acts<lf> ----------------------------------------------------------------------------- <lf> Application, <lf>                                                                     saving<lf>                            Number     Date      Date of             or<lf> transitional <lf>     Act                    and year   of Assent commencement provisions<lf> ----------------------------------------------------------------------------- <lf>     Loans Securities<lf>     Act 1919               25, 1919   28 Oct<lf>                                       1919      28 Oct 1919<lf>     Loans Securities<lf>     Act 1956               82, 1956   7 Nov<lf>                                       1956      7 Nov 1956          -<lf>     Loans Securities<lf>     Act 1959               55, 1959   9 Sept<lf>                                       1959      9 Sept 1959         -<lf>     Loans Securities<lf>     Act 1968               28, 1968   7 June<lf>                                       1968      7 June 1968         -<lf>     Statute Law<lf>     Revision Act 1973      216, 1973  19 Dec<lf>                                       1973      31 Dec 1973         Ss. 9 (1)<lf>                                                                     and 10<lf>     Administrative<lf>     Changes<lf>     (Consequential<lf>     Provisions) Act<lf>     1978                   36, 1978   12 June<lf>                                       1978      12 June 1978        S. 8<lf> ----------------------------------------------------------------------------- <lf>                               Table of Amendments<lf> ad. = added or inserted am. = amended rep. =<lf>                    repealed rs. = repealed and substituted<lf> ----------------------------------------------------------------------------- <lf>     Provision affected       How affected<lf> ----------------------------------------------------------------------------- <lf>     S. 3  . . . . . . . .    rs. No. 82, 1956<lf>     S. 6  . . . . . . . .    am. No. 36, 1978<lf>     S. 6A . . . . . . . .    ad. No. 82, 1956<lf>     S. 6B . . . . . . . .    ad. No. 55, 1959<lf>                              am. No. 28, 1968; No. 216, 1973<lf>     S. 7  . . . . . . . .    am. No. 28, 1968<lf> ----------------------------------------------------------------------------- <lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
-**Act No. 25 of 1919 as amended**
+### <name>LOANS SECURITIES ACT 1919 - TABLE OF PROVISIONS </name>
+</b>** 
 
-This compilation was prepared on 4 October 2000
-taking into account amendments up to Act No. 131 of 1988
+## TABLE
+<tables> <tt>                             TABLE  OF  PROVISIONS<lf> 
 
-The text of any of those amendments not in force 
-on that date is appended in the Notes section
+Section<lf> <p>  1\.         Short title<lf> <p>  2\.         Interpretation<lf> <p>  3\.         Conditions of loans<lf> <p>  4\.         Payment of principal and interest<lf> <p>  5\.         Establishment of Registries and appointment of Registrars<lf> <p>  6\.         Provisions for payment of judgments in United Kingdom<lf> <p>  6A.        Currency in which moneys may be borrowed<lf> <p>  6B.        Exemption of certain securities issued abroad from taxation<lf> <p>  7\.         Regulations<lf> <p>                                ----------------<lf> <p></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf></p></lf>
+</lf></tt></tables>
+**<b>
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
+### <name>LOANS SECURITIES ACT 1919 - LONG TITLE </name>
+</b>** 
 
-Prepared by the Office of Legislative Drafting,
-Attorney-General’s Department, 
-Canberra
+## SECT
+<sect> An Act to authorize the issue of Securities in relation to Loans and for other purposes in connexion therewith<lf> </lf></sect>
+**<b>
 
+### <name>LOANS SECURITIES ACT 1919 - SECT 1 Short title </name>
+</b>** 
 
-# Contents
+## SECT
+<sect>   1\. This Act may be cited as the Loans Securities Act 1919.*1*<lf> 
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . 
+</lf></sect>
+**<b>
 
-[2](#2).            Interpretation                                                                                       1
+### <name>LOANS SECURITIES ACT 1919 - SECT 2 Interpretation </name>
+</b>** 
 
-[3](#3).            Conditions of loans                                                                              1
+## SECT
+<sect>   2\. In this Act, unless the contrary intention appears-<lf>   "Registrar" means the Registrar or a Deputy Registrar of Stock or the Registrar or a Deputy Registrar of securities or other documents issued under this Act. 
 
-[4](#4).            Payment of principal and interest                                                       2
+  "Registry" means a Registry for the inscription of Stock and for the issue and registration of securities or other documents in relation to loans. 
 
-[5](#5).            Establishment of Registries and appointment of Registrars                2
+  "Stock" means Stock issued under this Act and a reference to Stock includes a reference to Stock included in a Stock Certificate to bearer and a reference to registered Stock. 
 
-[5A](#5A).         Powers of Treasurer in relation to borrowings outside Australia        2
+  "Security" means any document made out and issued under this Act for defining or registering the indebtedness of the Commonwealth to lenders, and includes a Debenture to bearer, Bond to Bearer, and Treasury Bill, and any coupon in connexion therewith. 
+</lf></sect>
+**<b>
 
-[5B](#5B).         Power of Treasurer to enter into swaps or other financial arrangements                3
+### <name>LOANS SECURITIES ACT 1919 - SECT 3 Conditions of loans </name>
+</b>** 
 
-[5C](#5C).         Jurisdiction of foreign courts                                                               3
+## SECT
+<sect>   3\. (1) Where under an Act the Treasurer has authority to borrow moneys in accordance with the provisions of the Commonwealth Inscribed Stock Act 1911-1946, or in accordance with the provisions of an Act authorizing the issue of Treasury Bills, the Governor-General may, notwithstanding the provisions of those Acts, authorize the Treasurer-<lf>   (a)  to borrow the moneys in such amounts as the Governor-General determines;<lf>          (b)  to borrow the moneys in such manner, at such prices, and on such terms and conditions, as the Governor-General determines; and<lf>          (c)  to issue such securities, and in such form, as the Governor-General determines. 
 
-[5D](#5D).         Delegation                                                                                            4
+  (2) An authority under the last preceding sub-section may, instead of determining any matter referred to in paragraph (b) or (c) of that sub-section, authorize the Treasurer to determine that matter, and, in that case, the Treasurer is empowered to determine that matter. 
+</lf></lf></lf></sect>
+**<b>
 
-[6](#6).            Provisions for payment of judgments in United Kingdom                  5
+### <name>LOANS SECURITIES ACT 1919 - SECT 4 Payment of principal and interest </name>
+</b>** 
 
-[6A](#6A).         Currency in which moneys may be borrowed                                     6
+## SECT
+<sect>   4\. The principal money secured by any Stock or security issued under this Act and the interest thereon shall be payable out of the Consolidated Revenue Fund, which is hereby appropriated for the purpose. </sect>
+**<b>
 
-[6B](#6B).         Exemption of certain securities issued abroad from taxation               6
+### <name>LOANS SECURITIES ACT 1919 - SECT 5 Establishment of Registries and appointment of Registrars </name>
+</b>** 
 
-[7](#7).            Regulations                                                                                          7
+## SECT
+<sect>   5\. The Governor-General may-<lf>   (a)  establish Registries at any places outside the Commonwealth for the inscription of Stock and for the issue and registration of securities or any other documents required in connexion with the issue of any loan or for defining or registering the indebtedness of the Commonwealth to lenders. 
 
-**Notes** 
+  (b)  appoint such Registrars or Deputy Registrars as he thinks necessary. 
+</lf></sect>
+**<b>
 
- 
+### <name>LOANS SECURITIES ACT 1919 - SECT 6 Provisions for payment of judgments in United Kingdom </name>
+</b>** 
 
+## SECT
+<sect>   6\. (1) Whenever, by the final judgment decree rule or order of any court of competent jurisdiction in the United Kingdom, any sum of money is adjudged to be payable by the Commonwealth in respect of any stock or securities, the Minister for Finance shall forthwith pay the sum out of the Consolidated Revenue Fund, which is hereby appropriated accordingly. 
 
-## An Act to authorize the issue of Securities in relation to Loans and for other purposes in connexion therewith
+  (2) In this section "final judgment decree rule or order" means, in case of appeal, the final judgment decree rule or order of the ultimate court hearing the appeal. 
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+  (3) Without in any way limiting the foregoing provisions of this section, it is hereby declared that, in the case of any Stock or securities being colonial Stock to which the Imperial Acts known as the Colonial Stock Acts 1877 to 1900 apply, the Minister for Finance shall forthwith pay out of the Consolidated Revenue Fund, which is hereby appropriated accordingly, whatever sums of money are from time to time required to enable the Registrar to comply forthwith with any judgment decree rule or order with which under the Imperial Acts the Registrar is required to comply. 
+</sect>
+**<b>
 
-                   This Act may be cited as the _Loans Securities Act 1919_.
+### <name>LOANS SECURITIES ACT 1919 - SECT 6A Currency in which moneys may be borrowed </name>
+</b>** 
 
-##### <a id="2"></a>2  Interpretation
+## SECT
+<sect>   6A. Where under an Act the Treasurer has authority to borrow moneys, the Governor-General may authorize the Treasurer to borrow the moneys in whole or in part in currency other than Australian currency, and, in that case, the Treasurer is empowered to borrow the moneys accordingly. </sect>
+**<b>
 
-                   In this Act, unless the contrary intention appears:
+### <name>LOANS SECURITIES ACT 1919 - SECT 6B Exemption of certain securities issued abroad from taxation </name>
+</b>** 
 
-                    <a name="registrar"></a>**_Registrar_** means the Registrar or a Deputy Registrar of Stock or the Registrar or a Deputy Registrar of securities or other documents issued under this Act.
+## SECT
+<sect>   6B. (1) Where, by the terms or conditions upon which any stock or security has been issued by or on behalf of the Commonwealth outside Australia (whether before or after the commencement of this section and whether under this Act or otherwise), the Commonwealth has given an undertaking, howsoever expressed, to the effect that the stock or security, or the principal or interest moneys payable under the stock or security, will be exempt from, free of, or not subject to, taxes imposed in the Commonwealth except where the stock or security is the property of a person included in a particular class of persons consisting of or including all residents of Australia, then, notwithstanding anything contained in any law of the Commonwealth or of a State or Territory, the stock or security, its amount or value, and any principal or interest moneys payable under the stock or security, are not subject to any tax or duty under any such law and shall be disregarded for all purposes in determining the liability of any person to pay tax or duty under any such law or in determining the amount of any such liability, except where the stock or security was, at the time of the act, transaction or event that, according to the provisions of the law imposing the tax or duty, gave rise to liability to the tax or duty, the property of a person included in that particular class of persons. 
 
-                    <a name="registri"></a>**_Registry_** means a Registry for the inscription of Stock and for the issue and registration of securities or other documents in relation to loans.
+  (1A) Where, by the terms or conditions upon which any stock or security has been issued by or on behalf of the Commonwealth outside Australia (whether under this Act or otherwise), the Commonwealth has given an undertaking, howsoever expressed, to the effect that any amount, including the amount of any commitment fee, payable in respect of the stock or security, in addition to the principal or interest moneys payable under the stock or security, will be exempt from, free of, or not subject to, taxes imposed in the Commonwealth except where the amount is payable to or in respect of a person included in a particular class of persons consisting of or including all residents of Australia, then, notwithstanding anything contained in any law of the Commonwealth or of a State or Territory, the amount so payable is not subject to any tax or duty under any such law and shall be disregarded for all purposes in determining the liability of any person to pay tax or duty under any such law or in determining the amount of any such liability, except where the amount was, at the time of the act, transaction or event that, according to the provisions of the law imposing the tax or duty, gave rise to liability to the tax or duty, payable to or in respect of a person included in that particular class of persons. 
 
-                    <a name="secur"></a>**_Security_** means any document made out and issued under this Act for defining or registering the indebtedness of the Commonwealth to lenders, and includes a Debenture to bearer, Bond to Bearer, and Treasury Bill, and any coupon in connexion therewith.
+  (2) In this section-<lf>   (a)  a reference to stock or to a security shall be read as including a reference to an interest in stock or in a security; and<lf>          (b)  a reference to tax or duty shall be read as including a reference to withholding tax within the meaning of the Income Tax Assessment Act 1936-1968 and to tax or duty in respect of-<lf>              (i)  the estates of deceased persons;<lf>             (ii)  property derived from deceased persons; and<lf>             (iii)  gifts or other dispositions of property. <p></p></lf></lf></lf></lf></lf>
+</sect>
+**<b>
 
-                    <a name="stock"></a>**_Stock_** means Stock issued under this Act and a reference to Stock includes a reference to Stock included in a Stock Certificate to bearer and a reference to registered Stock.
+### <name>LOANS SECURITIES ACT 1919 - SECT 7 Regulations </name>
+</b>** 
 
-##### <a id="3"></a>3  Conditions of loans
+## SECT
+<sect>   7\. (1) The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters and forms which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, or for the conduct of any business relating to the issue, sale, transfer and dealing with securities to which this Act applies. 
 
-             (1)  Where under an Act the Treasurer has the authority to borrow money in accordance with the _Commonwealth Inscribed Stock Act 1911_ or any Act authorising the issue of Treasury bills, the Governor-General may, in spite of anything in those Acts, in writing, authorise the Treasurer:
-
-                     (a)  to borrow the money in amounts not exceeding, in the aggregate, such amount as the Governor-General determines;
-
-                     (b)  to borrow the money:
-
-                              (i)  either by way of a single borrowing or by way of a program of borrowings, as the Governor-General determines;
-
-                             (ii)  in such manner as the Governor-General determines; and
-
-                            (iii)  at prices, and on terms and conditions, that are not less favourable to the Commonwealth than the prices, and the terms and conditions, determined by the Governor-General; and
-
-                     (c)  to issue, in such form as the Governor-General determines, such stock and securities as the Governor-General determines.
-
-             (2)  An authority under subsection (1) may, instead of determining any matter referred to in paragraph (1)(b) or (c), authorise the Treasurer to determine that matter and, in that case, the Treasurer is empowered to determine, in writing, that matter.
-
-##### <a id="4"></a>4  Payment of principal and interest
-
-                   The principal money secured by any Stock or security issued under this Act and the interest thereon shall be payable out of the Consolidated Revenue Fund, which is hereby appropriated for the purpose.
-
-##### <a id="5"></a>5  Establishment of Registries and appointment of Registrars
-
-                   The Governor-General may:
-
-                     (a)  establish Registries at any places outside the Commonwealth for the inscription of Stock and for the issue and registration of securities or any other documents required in connexion with the issue of any loan or for defining or registering the indebtedness of the Commonwealth to lenders;
-
-                     (b)  appoint such Registrars or Deputy Registrars as he thinks necessary.
-
-##### <a id="5A"></a>5A  Powers of Treasurer in relation to borrowings outside Australia
-
-                   Where the Treasurer is authorised to borrow money outside Australia, the Treasurer may, for the purposes of the borrowing:
-
-                     (a)  enter into agreements with banks or other financial institutions;
-
-                     (b)  enter into fiscal agency agreements;
-
-                     (c)  in relation to the issue of any stock or security:
-
-                              (i)  issue information memoranda in relation to the stock or security; and
-
-                             (ii)  issue any document necessary for the listing of the stock or security on any stock exchange or security market; and
-
-                     (d)  take any action (including the signing of any document) required or permitted to be taken by or on behalf of the Commonwealth:
-
-                              (i)  under any agreement referred to in paragraph (a) or (b) or following the issue of a document under paragraph (c); or
-
-                             (ii)  for any purpose relating to the borrowing.
-
-##### <a id="5B"></a>5B  Power of Treasurer to enter into swaps or other financial arrangements
-
-             (1)  The Treasurer may, on behalf of the Commonwealth, enter into an agreement with any person or organisation or the government of any country, either within or outside Australia, under which:
-
-                     (a)  the Commonwealth undertakes to make payments in any currency to, or to the account of, the other party to the agreement; and
-
-                     (b)  the other party undertakes to make payments to, or to the account of, the Commonwealth, in the same or any other currency.
-
-             (2)  Any money payable by the Commonwealth under an agreement under subsection (1) and any expenditure incurred in connection with the negotiation, management or service of, or a repayment under, any such agreement, shall be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
-
-##### <a id="5C"></a>5C  Jurisdiction of foreign courts
-
-             (1)  The Treasurer may, on behalf of the Commonwealth, enter into a written agreement or undertaking under which the Commonwealth agrees or undertakes to submit to the jurisdiction of a foreign court for the purposes of any action or proceeding before that court relating to:
-
-                     (a)  an agreement referred to in section 5A or subsection 5B(1); or
-
-                     (b)  the issue by the Treasurer of any stock or security in relation to the borrowing of money outside Australia.
-
-             (2)  Subject to any other Act, the Treasurer may, on behalf of the Commonwealth, in connection with:
-
-                     (a)  any action or proceeding referred to in subsection (1); or
-
-                     (b)  the execution of any order made or judgment given in such an action or proceeding;
-
-waive, and enter into a written agreement or undertaking under which the Commonwealth agrees or undertakes to waive, any immunity from suit or other legal process of:
-
-                     (c)  the Commonwealth; or
-
-                     (d)  any property or asset of, or in the custody of, or administered by, the Commonwealth (other than any property or asset used or intended to be used for any diplomatic, consular or military purpose).
-
-##### <a id="5D"></a>5D  Delegation
-
-             (1)  The Treasurer may, by signed instrument, delegate to:
-
-                     (a)  a specified officer of the Department; or
-
-                     (b)  any person who from time to time holds, or performs the duties of, a specified office in the Department;
-
-all or any of the following powers:
-
-                     (c)  the powers (if any) of the Treasurer under subsection 3(2) to determine matters for the purposes of paragraph 3(1)(b) or (c);
-
-                     (d)  the powers of the Treasurer under sections 5A, 5B and 5C.
-
-             (2)  The Treasurer may, by signed instrument, delegate to:
-
-                     (a)  a specified member of the diplomatic mission of Australia in a foreign country; or
-
-                     (b)  any person who from time to time holds, or performs the duties of, a specified post in the diplomatic mission of Australia in a specified foreign country;
-
-all or any of the following powers:
-
-                     (c)  the powers (if any) of the Treasurer under subsection 3(2) to determine matters for the purposes of paragraph 3(1)(b) or (c);
-
-                     (d)  the powers of the Treasurer under section 5A;
-
-                     (e)  the powers of the Treasurer under section 5C in so far as they are exercisable for the purposes of an action or proceeding relating to:
-
-                              (i)  an agreement referred to in section 5A; or
-
-                             (ii)  the issue by the Treasurer of any stock or security in relation to the borrowing of money outside Australia.
-
-##### <a id="6"></a>6  Provisions for payment of judgments in United Kingdom
-
-             (1)  Whenever, by the final judgment decree rule or order of any court of competent jurisdiction in the United Kingdom, any sum of money is adjudged to be payable by the Commonwealth in respect of any stock or securities, the Minister for Finance shall forthwith pay the sum out of the Consolidated Revenue Fund, which is hereby appropriated accordingly.
-
-             (2)  In this section **_final judgment decree rule or order_** means, in case of appeal, the final judgment decree rule or order of the ultimate court hearing the appeal.
-
-             (3)  Without in any way limiting the foregoing provisions of this section, it is hereby declared that, in the case of any Stock or securities being colonial Stock to which the Imperial Acts known as the Colonial Stock Acts 1877 to 1900 apply, the Minister for Finance shall forthwith pay out of the Consolidated Revenue Fund, which is hereby appropriated accordingly, whatever sums of money are from time to time required to enable the Registrar to comply forthwith with any judgment decree rule or order with which under the Imperial Acts the Registrar is required to comply.
-
-##### <a id="6A"></a>6A  Currency in which moneys may be borrowed
-
-                   Where under an Act the Treasurer has authority to borrow moneys, the Governor-General may authorize the Treasurer to borrow the moneys in whole or in part in currency other than Australian currency, and, in that case, the Treasurer is empowered to borrow the moneys accordingly.
-
-##### <a id="6B"></a>6B  Exemption of certain securities issued abroad from taxation
-
-             (1)  Where, by the terms or conditions upon which any stock or security has been issued by or on behalf of the Commonwealth outside Australia (whether before or after the commencement of this section and whether under this Act or otherwise), the Commonwealth has given an undertaking, howsoever expressed, to the effect that the stock or security, or the principal or interest moneys payable under the stock or security, will be exempt from, free of, or not subject to, taxes imposed in the Commonwealth except where the stock or security is the property of a person included in a particular class of persons consisting of or including all residents of Australia, then, notwithstanding anything contained in any law of the Commonwealth or of a State or Territory, the stock or security, its amount or value, and any principal or interest moneys payable under the stock or security, are not subject to any tax or duty under any such law and shall be disregarded for all purposes in determining the liability of any person to pay tax or duty under any such law or in determining the amount of any such liability, except where the stock or security was, at the time of the act, transaction or event that, according to the provisions of the law imposing the tax or duty, gave rise to liability to the tax or duty, the property of a person included in that particular class of persons.
-
-          (1A)  Where, by the terms or conditions upon which any stock or security has been issued by or on behalf of the Commonwealth outside Australia (whether under this Act or otherwise), the Commonwealth has given an undertaking, howsoever expressed, to the effect that any amount, including the amount of any commitment fee, payable in respect of the stock or security, in addition to the principal or interest moneys payable under the stock or security, will be exempt from, free of, or not subject to, taxes imposed in the Commonwealth except where the amount is payable to or in respect of a person included in a particular class of persons consisting of or including all residents of Australia, then, notwithstanding anything contained in any law of the Commonwealth or of a State or Territory, the amount so payable is not subject to any tax or duty under any such law and shall be disregarded for all purposes in determining the liability of any person to pay tax or duty under any such law or in determining the amount of any such liability, except where the amount was, at the time of the act, transaction or event that, according to the provisions of the law imposing the tax or duty, gave rise to liability to the tax or duty, payable to or in respect of a person included in that particular class of persons.
-
-             (2)  In this section:
-
-                     (a)  a reference to stock or to a security shall be read as including a reference to an interest in stock or in a security; and
-
-                     (b)  a reference to tax or duty shall be read as including a reference to withholding tax within the meaning of the _Income Tax Assessment Act 1936-1968_ and to tax or duty in respect of:
-
-                              (i)  the estates of deceased persons;
-
-                             (ii)  property derived from deceased persons; and
-
-                            (iii)  gifts or other dispositions of property.
-
-##### <a id="7"></a>7  Regulations
-
-             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters and forms which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, or for the conduct of any business relating to the issue, sale, transfer and dealing with securities to which this Act applies.
-
-             (2)  Authority is given for the making by the Registrar of the Registry situated at London in the United Kingdom of regulations under section 16 of the Imperial Act known as the Colonial Stock Act 1877 for the purpose specified in subsection (1) of section 1 of the Imperial Act known as the Colonial Stock Act 1948 in relation to stock issued in the United Kingdom before the date of commencement of this section.
-
-
-# Notes to the _Loans Securities Act 1919_
-
-### Note 1
-
-The _Loans Securities Act 1919_ as shown in this compilation comprises Act No. 25, 1919 amended as indicated in the Tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Loans Securities Act 1919</div>
-    </td>
-    <td>
-      <div>25, 1919</div>
-    </td>
-    <td>
-      <div>28 Oct 1919</div>
-    </td>
-    <td>
-      <div>28 Oct 1919</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Loans Securities Act 1956</div>
-    </td>
-    <td>
-      <div>82, 1956</div>
-    </td>
-    <td>
-      <div>7 Nov 1956</div>
-    </td>
-    <td>
-      <div>7 Nov 1956</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Loans Securities Act 1959</div>
-    </td>
-    <td>
-      <div>55, 1959</div>
-    </td>
-    <td>
-      <div>9 Sept 1959</div>
-    </td>
-    <td>
-      <div>9 Sept 1959</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Loans Securities Act 1968</div>
-    </td>
-    <td>
-      <div>28, 1968</div>
-    </td>
-    <td>
-      <div>7 June 1968</div>
-    </td>
-    <td>
-      <div>7 June 1968</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 1973</div>
-    </td>
-    <td>
-      <div>216, 1973</div>
-    </td>
-    <td>
-      <div>19 Dec 1973</div>
-    </td>
-    <td>
-      <div>31 Dec 1973</div>
-    </td>
-    <td>
-      <div>Ss. 9(1) and 10</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Administrative Changes (Consequential Provisions) Act 1978</div>
-    </td>
-    <td>
-      <div>36, 1978</div>
-    </td>
-    <td>
-      <div>12 June 1978</div>
-    </td>
-    <td>
-      <div>12 June 1978</div>
-    </td>
-    <td>
-      <div>S. 8</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Loans Securities Amendment Act 1988</div>
-    </td>
-    <td>
-      <div>131, 1988</div>
-    </td>
-    <td>
-      <div>22 Dec 1988</div>
-    </td>
-    <td>
-      <div>22 Dec 1988</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>S. 3</div>
-    </td>
-    <td>
-      <div>rs. No. 82, 1956; No. 131, 1988</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 5A-5D</div>
-    </td>
-    <td>
-      <div>ad. No. 131, 1988</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6</div>
-    </td>
-    <td>
-      <div>am. No. 36, 1978</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6A</div>
-    </td>
-    <td>
-      <div>ad. No. 82, 1956</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6B</div>
-    </td>
-    <td>
-      <div>ad. No. 55, 1959</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 28, 1968; No. 216, 1973</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>am. No. 28, 1968</div>
-    </td>
-  </tr>
-</tbody></table>
-
-
- 
+  (2) Authority is given for the making by the Registrar of the Registry situated at London in the United Kingdom of regulations under section 16 of the Imperial Act known as the Colonial Stock Act 1877 for the purpose specified in sub-section (1) of section 1 of the Imperial Act known as the Colonial Stock Act 1948 in relation to stock issued in the United Kingdom before the date of commencement of this section. 
+</sect>
