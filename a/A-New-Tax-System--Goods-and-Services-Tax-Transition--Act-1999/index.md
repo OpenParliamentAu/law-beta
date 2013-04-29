@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00381/Html/5A2178F0C7E8E0CACA2571A0007CE2E5/$FILE/image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="3953E99C1CC0DBC3CA256FB60026A03A/$FILE/image001.png"></v:imagedata></v:shape>
 
-# A New Tax System (Goods and Services Tax Transition) Act 1999
+# A New Tax System (Goods and Services Tax Transition) Act 1999<o:p></o:p>
 
-**Act No. 57 of 1999 as amended**
+**Act No. 57 of 1999 as amended<o:p></o:p>**
 
-This compilation was prepared on 30 June 2006
-taking into account amendments up to Act No. 58 of 2006
+This compilation was prepared on 28 February 2005
+taking into account amendments up to Act No. 10 of 2005
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -14,149 +14,151 @@ The operation of amendments that have been incorporated may be
 affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
+Attorney-General’s Department, <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
 
 
 # Contents
 
-**Part 1—Introduction**
+**Part 1—Introduction<span style="mso-tab-count: 1">                                                                                                              </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Schedule(s)
+[3](#3).            Schedule(s)<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[4](#4).            Overview
+[4](#4).            Overview<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-[5](#5).            Definitions
+[5](#5).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[6](#6).            Time of supply or acquisition
+[6](#6).            Time of supply or acquisition<span style="mso-tab-count: 1 dotted">                                                             </span>
 
-[6A](#6A).         Trading periods spanning midnight on 30 June 2000
+[6A](#6A).         Trading periods spanning midnight on 30 June 2000<span style="mso-tab-count: 1 dotted">                          </span>
 
-**Part 2—Start of GST**
+**Part 2—Start of GST<span style="mso-tab-count: 1">                                                                                                             </span>**
 
-[7](#7).            Start of GST
+[7](#7).            Start of GST<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[8](#8).            Effect on sales tax
+[8](#8).            Effect on sales tax<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[9](#9).            GST registration before 1 July 2000
+[9](#9).            GST registration before 1 July 2000<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[10](#10).          Invoice or consideration before 1 July 2000
+[10](#10).          Invoice or consideration before 1 July 2000<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[11](#11).          Supply of rights exercisable on or after 1 July 2000
+[11](#11).          Supply of rights exercisable on or after 1 July 2000<span style="mso-tab-count: 1 dotted">                           </span>
 
-**Part 3—Agreements spanning 1 July 2000** 
+**Part 3—Agreements spanning 1 July 2000<span style="mso-tab-count: 1">                                                              </span>** 
 
-    **Division 1—General**
+    **Division 1—General<span style="mso-tab-count: 1">                                                                                                      </span>**
 
-[12](#12).          Progressive or periodic supplies
+[12](#12).          Progressive or periodic supplies<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[13](#13).          Existing agreements: no opportunity to review
+[13](#13).          Existing agreements: no opportunity to review<span style="mso-tab-count: 1 dotted">                                 </span>
 
-[14](#14).          Rights granted for life
+[14](#14).          Rights granted for life<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[15](#15).          Funeral agreements
+[15](#15).          Funeral agreements<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-    **Division 2—Agreements also spanning 1 July 2005** 
+    **Division 2—Agreements also spanning 1 July 2005<span style="mso-tab-count: 1">                                 </span>** 
 
-        **Subdivision A—Introduction**
+        **Subdivision A—Introduction<span style="mso-tab-count: 1">                                                                                   </span>**
 
-[15A](#15A).       Explanation of this Division
+[15A](#15A).       Explanation of this Division<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[15B](#15B).       Definitions
+[15B](#15B).       Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-        **Subdivision B—Payment of GST payable by recipients of supplies**
+        **Subdivision B—Payment of GST payable by recipients of supplies<span style="mso-tab-count: 1">                 </span>**
 
-[15C](#15C).       GST payable by recipients of supplies
+[15C](#15C).       GST payable by recipients of supplies<span style="mso-tab-count: 1 dotted">                                             </span>
 
-[15D](#15D).       Amounts of GST
+[15D](#15D).       Amounts of GST<span style="mso-tab-count: 1 dotted">                                                                               </span>
 
-[15E](#15E).        Rules for recipients who are not registered or required to be registered
+[15E](#15E).        Rules for recipients who are not registered or required to be registered<span style="mso-tab-count: 1">  </span>
 
-[15F](#15F).        Rule for recipients whose registration is cancelled
+[15F](#15F).        Rule for recipients whose registration is cancelled<span style="mso-tab-count: 1 dotted">                            </span>
 
-[15G](#15G).       Bad debts
+[15G](#15G).       Bad debts<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[15H](#15H).       Tax invoices and adjustment notes
+[15H](#15H).       Tax invoices and adjustment notes<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-[15I](#15I).         Attributing the GST
+[15I](#15I).         Attributing the GST<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[15IA](#15IA).      Application of section 36 of the _Taxation Administration Act 1953_
+[15IA](#15IA).      Application of section 36 of the _Taxation Administration Act 1953_<span style="mso-tab-count: 1 dotted"> </span>
 
-        **Subdivision C—Arbitrated offers**
+        **Subdivision C—Arbitrated offers<span style="mso-tab-count: 1">                                                                           </span>**
 
-[15J](#15J).        Arbitrated offers
+[15J](#15J).        Arbitrated offers<span style="mso-tab-count: 1 dotted">                                                                                </span>
 
-[15K](#15K).       Initial offer
+[15K](#15K).       Initial offer<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[15L](#15L).        Arbitration
+[15L](#15L).        Arbitration<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[15M](#15M).      Final offer
+[15M](#15M).      Final offer<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-**Part 4—Stock on hand on 1 July 2000**
+**Part 4—Stock on hand on 1 July 2000<span style="mso-tab-count: 1">                                                                      </span>**
 
-[16](#16).          Special GST credit for sales tax paid on stock
+[16](#16).          Special GST credit for sales tax paid on stock<span style="mso-tab-count: 1 dotted">                                  </span>
 
-[16A](#16A).       Special GST credit for certain alcoholic beverages on which duty has increased
+[16A](#16A).       Special GST credit for certain alcoholic beverages on which duty has increased<span style="mso-tab-count: 1">    </span>
 
-[16AB](#16AB).    Special GST credit for certain alcoholic beverages on which duty has decreased
+[16AB](#16AB).    Special GST credit for certain alcoholic beverages on which duty has decreased<span style="mso-tab-count: 1">    </span>
 
-[16B](#16B).       Special GST credit for certain alcoholic beverages on which duty would not previously have been paid
+[16B](#16B).       Special GST credit for certain alcoholic beverages on which duty would not previously have been paid<span style="mso-tab-count: 1">              </span>
 
-[16C](#16C).       Special petroleum credits
+[16C](#16C).       Special petroleum credits<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-[17](#17).          Stock later applied for private or domestic purpose
+[17](#17).          Stock later applied for private or domestic purpose<span style="mso-tab-count: 1 dotted">                         </span>
 
-[18](#18).          Second-hand goods
+[18](#18).          Second-hand goods<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-**Part 5—Special transitional rules**
+**Part 5—Special transitional rules<span style="mso-tab-count: 1">                                                                                </span>**
 
-[19](#19).          Construction agreements made before 1 July 2000
+[19](#19).          Construction agreements made before 1 July 2000<span style="mso-tab-count: 1 dotted">                           </span>
 
-[19A](#19A).       Sales of motor vehicles held under operating leases since 2 December 1998
+[19A](#19A).       Sales of motor vehicles held under operating leases since 2 December 1998<span style="mso-tab-count: 1">           </span>
 
-[19B](#19B).       Sales etc  of cars held on 1 July 2000 for the purpose of rental
+[19B](#19B).       Sales etc  of cars held on 1 July 2000 for the purpose of rental<span style="mso-tab-count: 1 dotted">        </span>
 
-[20](#20).          Phasing in input tax credits for motor vehicles etc 
+[20](#20).          Phasing in input tax credits for motor vehicles etc <span style="mso-tab-count: 1 dotted">                           </span>
 
-[21](#21).          Acupuncture, naturopathy and herbal medicine
+[21](#21).          Acupuncture, naturopathy and herbal medicine<span style="mso-tab-count: 1 dotted">                                </span>
 
-[22](#22).          Event before 1 July 2000 giving rise to claim
+[22](#22).          Event before 1 July 2000 giving rise to claim<span style="mso-tab-count: 1 dotted">                                    </span>
 
-[23](#23).          Input tax credits relating to compulsory third party schemes
+[23](#23).          Input tax credits relating to compulsory third party schemes<span style="mso-tab-count: 1 dotted">          </span>
 
-[24](#24).          Gambling
+[24](#24).          Gambling<span style="mso-tab-count: 1 dotted">                                                                                            </span>
 
-[24A](#24A).       Unredeemed vouchers
+[24A](#24A).       Unredeemed vouchers<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[24B](#24B).       Commissioner may make determinations relating to rounding
+[24B](#24B).       Commissioner may make determinations relating to rounding<span style="mso-tab-count: 1 dotted">          </span>
 
-[24C](#24C).       Supplies from certain coin-operated devices may be input taxed
+[24C](#24C).       Supplies from certain coin-operated devices may be input taxed<span style="mso-tab-count: 1 dotted">     </span>
 
-**Part 6—Regulations**
+**Part 6—Regulations<span style="mso-tab-count: 1">                                                                                                            </span>**
 
-[25](#25).          Regulations
+[25](#25).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Schedule 1—Amendment of the sales tax law** 
+**Schedule 1—Amendment of the sales tax law<span style="mso-tab-count: 1">                                                      </span>** 
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>**
+
+<o:p> </o:p>
 
 
 ## An Act to implement A New Tax System by making transitional provisions for the start of the goods and services tax, and for related purposes
 
-## Part 1—Introduction
+## Part 1—Introduction
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span><o:p></o:p>
 
                    This Act may be cited as the _A New Tax System (Goods and Services Tax Transition) Act 1999_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
 
              (1)  This Act commences, or is taken to have commenced:
 
-                     (a)  after all the Acts listed in subsection (2) have received the Royal Assent; and
+                     (a)  after all the Acts listed in subsection (2) have received the Royal Assent; and
 
                      (b)  on the day after the last day on which any of those Acts received the Royal Assent.
 
@@ -174,11 +176,11 @@ Attorney-General’s Department, Canberra
 
 ##### <a id="3"></a>3  Schedule(s)
 
-                   Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+                   Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
 ##### <a id="4"></a>4  Overview
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 0cm; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0cm; PADDING-BOTTOM: 0cm; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
 
 The following provisions deal with the transition from sales tax to GST, as well as other matters relating to the start of the GST.
 
@@ -194,6 +196,8 @@ This Act should be read in conjunction with the GST law and the sales tax law.</
 
              (3)  However, the table lists expressions that have the same meaning as in another Act.
 
+<o:p> </o:p>
+
 <table>
 <colgroup>
   <col width="12%">
@@ -204,26 +208,18 @@ This Act should be read in conjunction with the GST law and the sales tax law.</
 <thead>
   <tr>
     <td colspan="3">
-      <div>
-        <b>Expressions with same meaning</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">Expressions with same meaning <o:p></o:p> </b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Item</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">Item <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>
-        <b>This expression...</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">This expression... <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>
-        <b>has the same meaning as in...</b>
-      </div>
+      <div><b style="mso-bidi-font-weight: normal">has the same meaning as in... <o:p></o:p> </b></div>
     </td>
   </tr>
 </thead>
@@ -236,9 +232,7 @@ This Act should be read in conjunction with the GST law and the sales tax law.</
       <div>assessable dealing</div>
     </td>
     <td>
-      <div>
-        <i>Sales Tax Assessment Act 1992</i>
-      </div>
+      <div><i style="mso-bidi-font-style: normal">Sales Tax Assessment Act 1992 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
@@ -249,9 +243,7 @@ This Act should be read in conjunction with the GST law and the sales tax law.</
       <div>assessable goods</div>
     </td>
     <td>
-      <div>
-        <i>Sales Tax Assessment Act 1992</i>
-      </div>
+      <div><i style="mso-bidi-font-style: normal">Sales Tax Assessment Act 1992 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
@@ -262,9 +254,7 @@ This Act should be read in conjunction with the GST law and the sales tax law.</
       <div>borne tax</div>
     </td>
     <td>
-      <div>
-        <i>Sales Tax Assessment Act 1992</i>
-      </div>
+      <div><i style="mso-bidi-font-style: normal">Sales Tax Assessment Act 1992 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
@@ -275,9 +265,7 @@ This Act should be read in conjunction with the GST law and the sales tax law.</
       <div>eligible short-term lease</div>
     </td>
     <td>
-      <div>
-        <i>Sales Tax Assessment Act 1992</i>
-      </div>
+      <div><i style="mso-bidi-font-style: normal">Sales Tax Assessment Act 1992</i></div>
     </td>
   </tr>
   <tr>
@@ -288,9 +276,7 @@ This Act should be read in conjunction with the GST law and the sales tax law.</
       <div>hire purchase agreement</div>
     </td>
     <td>
-      <div>
-        <i>Income Tax Assessment Act 1997</i>
-      </div>
+      <div><i style="mso-bidi-font-style: normal">Income Tax Assessment Act 1997</i></div>
     </td>
   </tr>
   <tr>
@@ -301,9 +287,7 @@ This Act should be read in conjunction with the GST law and the sales tax law.</
       <div>motor vehicle</div>
     </td>
     <td>
-      <div>
-        <i>Income Tax Assessment Act 1997</i>
-      </div>
+      <div><i style="mso-bidi-font-style: normal">Income Tax Assessment Act 1997</i></div>
     </td>
   </tr>
   <tr>
@@ -314,9 +298,7 @@ This Act should be read in conjunction with the GST law and the sales tax law.</
       <div>passed on</div>
     </td>
     <td>
-      <div>
-        <i>Sales Tax Assessment Act 1992</i>
-      </div>
+      <div><i style="mso-bidi-font-style: normal">Sales Tax Assessment Act 1992 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
@@ -327,9 +309,7 @@ This Act should be read in conjunction with the GST law and the sales tax law.</
       <div>sales tax</div>
     </td>
     <td>
-      <div>
-        <i>Sales Tax Assessment Act 1992</i>
-      </div>
+      <div><i style="mso-bidi-font-style: normal">Sales Tax Assessment Act 1992 <o:p></o:p> </i></div>
     </td>
   </tr>
   <tr>
@@ -340,9 +320,7 @@ This Act should be read in conjunction with the GST law and the sales tax law.</
       <div>sales tax law</div>
     </td>
     <td>
-      <div>
-        <i>Sales Tax Assessment Act 1992</i>
-      </div>
+      <div><i style="mso-bidi-font-style: normal">Sales Tax Assessment Act 1992</i></div>
     </td>
   </tr>
   <tr>
@@ -353,9 +331,7 @@ This Act should be read in conjunction with the GST law and the sales tax law.</
       <div>trading stock</div>
     </td>
     <td>
-      <div>
-        <i>Income Tax Assessment Act 1997</i>
-      </div>
+      <div><i style="mso-bidi-font-style: normal">Income Tax Assessment Act 1997</i></div>
     </td>
   </tr>
 </tbody></table>
@@ -380,51 +356,51 @@ Note:          Subsection 20(8) provides a rule stating when m
 
              (4)  A supply or acquisition of services is made when the services are performed.
 
-Note:          However, section 12 provides a different rule for progressive and periodic contracts.
+Note:          However, section 12 provides a different rule for progressive and periodic contracts.
 
              (5)  A supply or acquisition of any other thing is made when the thing is performed or done.
 
-Note:          However, section 12 provides a different rule for progressive and periodic contracts.
+Note:          However, section 12 provides a different rule for progressive and periodic contracts.
 
-##### 6A  Trading periods spanning midnight on 30 June 2000
+##### 6A  Trading periods spanning <st1:time minute="0" hour="0">midnight</st1:time> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="30" month="6">30 June 2000</st1:date>
 
-             (1)  Despite section 6, if:
+             (1)  Despite section 6, if:
 
                      (a)  an entity has chosen to apply this section; and
 
-                     (b)  the entity makes a supply that, under section 6, would be taken to be made on 1 July 2000 but before:
+                     (b)  the entity makes a supply that, under section 6, would be taken to be made on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> but before:
 
                               (i)  6 am on that day; or
 
                              (ii)  if the entity has chosen to stop the application of this section at an earlier time on that day—the time so chosen; and
 
-                     (c)  the part of the entity’s enterprise through which the supply is made was open for business both immediately before 1 July 2000 and immediately after 30 June 2000; and
+                     (c)  the part of the entity’s enterprise through which the supply is made was open for business both immediately before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> and immediately after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="30" month="6">30 June 2000</st1:date>; and
 
-                     (d)  that part of the entity’s enterprise remains open for business during 1 July 2000 until at least the time at which, under section 6, the supply would be taken to be made;
+                     (d)  that part of the entity’s enterprise remains open for business during 1 July 2000 until at least the time at which, under section 6, the supply would be taken to be made;
 
-the supply, and the acquisition made by the recipient of the supply, is taken, for the purposes of this Act, to be made immediately before 1 July 2000.
+the supply, and the acquisition made by the recipient of the supply, is taken, for the purposes of this Act, to be made immediately before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
-             (2)  If an entity makes a supply to which subsection (1) applies, then, in relation to that supply:
+             (2)  If an entity makes a supply to which subsection (1) applies, then, in relation to that supply:
 
-                     (a)  section 12 has effect as if the reference in paragraph 12(1)(b) to a period that begins before 1 July 2000 and ends on or after 1 July 2000 were a reference to a period that begins before the end of the transition trading period and ends on or after the end of the transition trading period; and
+                     (a)  section 12 has effect as if the reference in paragraph 12(1)(b) to a period that begins before 1 July 2000 and ends on or after 1 July 2000 were a reference to a period that begins before the end of the transition trading period and ends on or after the end of the transition trading period; and
 
-                     (b)  Part 4 has effect as if references to having goods on hand at the start of 1 July 2000 were references to having goods on hand immediately after the end of the transition trading period; and
+                     (b)  Part 4 has effect as if references to having goods on hand at the start of 1 July 2000 were references to having goods on hand immediately after the end of the transition trading period; and
 
-                     (c)  subsection 16(3A) has effect as if the reference to the amount of sales tax borne changing after 1 July 2000 were a reference to that amount changing after the end of the transition trading period; and
+                     (c)  subsection 16(3A) has effect as if the reference to the amount of sales tax borne changing after 1 July 2000 were a reference to that amount changing after the end of the transition trading period; and
 
-                     (d)  paragraph 17(1)(b) has effect as if the reference to applying the goods on or after 1 July 2000 were a reference to applying the goods after the end of the transition trading period; and
+                     (d)  paragraph 17(1)(b) has effect as if the reference to applying the goods on or after 1 July 2000 were a reference to applying the goods after the end of the transition trading period; and
 
-                     (e)  paragraph 17(3)(b) has effect as if the reference to ceasing to be registered on or after 1 July 2000 were a reference to ceasing to be registered after the end of the transition trading period; and
+                     (e)  paragraph 17(3)(b) has effect as if the reference to ceasing to be registered on or after 1 July 2000 were a reference to ceasing to be registered after the end of the transition trading period; and
 
-                      (f)  section 24 has effect as if:
+                      (f)  section 24 has effect as if:
 
-                              (i)  the reference to making gambling supplies before 1 July 2000 were a reference to making gambling supplies before the end of the transition trading period; and
+                              (i)  the reference to making gambling supplies before 1 July 2000 were a reference to making gambling supplies before the end of the transition trading period; and
 
-                             (ii)  the reference to a gambling event happening on or after 1 July 2000 were a reference to a gambling event happening on or after the end of the transition trading period; and
+                             (ii)  the reference to a gambling event happening on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> were a reference to a gambling event happening on or after the end of the transition trading period; and
 
-                            (iii)  the references to gambling events that happened before 1 July 2000 were references to gambling events that happened before the end of the transition trading period; and
+                            (iii)  the references to gambling events that happened before 1 July 2000 were references to gambling events that happened before the end of the transition trading period; and
 
-                     (g)  section 24A has effect as if the references to vouchers supplied before, not redeemed before, or supplied after, 1 July 2000 were references to vouchers supplied before, not redeemed before, or supplied after, the end of the transition trading period (as the case requires).
+                     (g)  section 24A has effect as if the references to vouchers supplied before, not redeemed before, or supplied after, 1 July 2000 were references to vouchers supplied before, not redeemed before, or supplied after, the end of the transition trading period (as the case requires).
 
              (3)  This section does not apply if, but for this section, the supply would be input taxed.
 
@@ -432,59 +408,61 @@ the supply, and the acquisition made by the recipient of the supply, is taken, f
 
                     <a name="transition-trade-period"></a>**_transition trading period_** means the period ending:
 
-                     (a)  at the first time after 30 June 2000 that the part of the entity’s enterprise through which the supply in question was made was not open for business; or
+                     (a)  at the first time after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="30" month="6">30 June 2000</st1:date> that the part of the entity’s enterprise through which the supply in question was made was not open for business; or
 
                      (b)  at:
 
-                              (i)  6 am on 1 July 2000; or
+                              (i)  6 am on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>; or
 
                              (ii)  if the entity has chosen to stop the application of this section at an earlier time on that day—the time so chosen;
 
 whichever occurs sooner.
 
-## Part 2—Start of GST
+<o:p> </o:p>
 
-##### <a id="7"></a>7  Start of GST
+## Part 2—Start of GST
 
-             (1)  GST is only payable on a supply or importation to the extent that it is made on or after 1 July 2000.
+##### <a id="7"></a>7  Start of GST
 
-Note:          GST may not apply to supplies during trading periods spanning midnight on 30 June 2000: see section 6A.
+             (1)  GST is only payable on a supply or importation to the extent that it is made on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
-             (2)  An entitlement to an input tax credit only arises on an acquisition or importation to the extent that it is made on or after 1 July 2000.
+Note:          GST may not apply to supplies during trading periods spanning <st1:time minute="0" hour="0">midnight</st1:time> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="30" month="6">30 June 2000</st1:date>: see section 6A.
 
-Note:          There are special rules about input tax credits for motor vehicles etc.: see section 20.
+             (2)  An entitlement to an input tax credit only arises on an acquisition or importation to the extent that it is made on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
+
+Note:          There are special rules about input tax credits for motor vehicles etc.: see section 20.
 
 ##### <a id="8"></a>8  Effect on sales tax
 
-             (1)  No sales tax is payable on an assessable dealing to the extent that a supply or importation in respect of the dealing is made on or after 1 July 2000.
+             (1)  No sales tax is payable on an assessable dealing to the extent that a supply or importation in respect of the dealing is made on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
-Note 1:       If sales tax has been paid, a credit will arise for the amount overpaid, to the extent that the claimant has not passed it on: see CR1 in Table 3 in Schedule 1 to the _Sales Tax Assessment Act 1992_.
+Note 1:       If sales tax has been paid, a credit will arise for the amount overpaid, to the extent that the claimant has not passed it on: see CR1 in Table 3 in Schedule 1 to the _Sales Tax Assessment Act 1992_.
 
 Note 2:       For the end of sales tax generally, see the _A New Tax System (End of Sales Tax) Act 1999_.
 
-Note 3:       Sales tax may still apply to supplies during trading periods spanning midnight on 30 June 2000: see section 6A.
+Note 3:       Sales tax may still apply to supplies during trading periods spanning <st1:time minute="0" hour="0">midnight</st1:time> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="30" month="6">30 June 2000</st1:date>: see section 6A.
 
              (2)  Despite the _A New Tax System (End of Sales Tax) Act 1999_, if:
 
                      (a)  all or part of a supply or importation in respect of an assessable dealing is made before that Act commences (even if it is also made before this Act commences); and
 
-                     (b)  the time of the dealing is on or after 1 July 2000;
+                     (b)  the time of the dealing is on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>;
 
 for the purpose of determining the extent (if any) to which sales tax is payable on the dealing, the time of the dealing is taken to be immediately before that Act commences.
 
-##### <a id="9"></a>9  GST registration before 1 July 2000
+##### <a id="9"></a>9  GST registration before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>
 
-             (1)  Parts 2-5 and 4-5 of the GST Act, and any other provisions of the GST law so far as they relate to registration, apply on and after the day determined by the Commissioner (even if that day is before the commencement of the GST Act).
+             (1)  Parts 2-5 and 4-5 of the GST Act, and any other provisions of the GST law so far as they relate to registration, apply on and after the day determined by the Commissioner (even if that day is before the commencement of the GST Act).
 
-Note:          From that day, you may apply to be registered if you are entitled to do so under section 23-10 of the GST Act.
+Note:          From that day, you may apply to be registered if you are entitled to do so under section 23-10 of the GST Act.
 
-             (2)  However, you are not required to be registered before 1 June 2000.
+             (2)  However, you are not required to be registered before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="6">1 June 2000</st1:date>.
 
-Example:    On 1 May 2000, you start carrying on a business whose annual turnover meets the registration turnover threshold. Although you would normally be required to apply within 21 days, you can apply anytime before 1 June 2000\. But if instead you start carrying on a business on 20 May, you have until 10 June (21 days later) to apply to be registered.
+Example:    On <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="5">1 May 2000</st1:date>, you start carrying on a business whose annual turnover meets the registration turnover threshold. Although you would normally be required to apply within 21 days, you can apply anytime before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="6">1 June 2000</st1:date>. But if instead you start carrying on a business on 20 May, you have until 10 June (21 days later) to apply to be registered.
 
-##### <a id="10"></a>10  Invoice or consideration before 1 July 2000
+##### <a id="10"></a>10  Invoice or consideration before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>
 
-                   If, before 1 July 2000:
+                   If, before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>:
 
                      (a)  any consideration is received in connection with a supply, or provided in connection with an acquisition, that you will make on or after that day; or
 
@@ -492,11 +470,11 @@ Example:    On 1 May 2000, you start carrying on a business whose annual
 
 for the purposes of determining the tax period to which GST or input tax credits are attributable, the consideration is taken to have been received or provided, or invoice taken to have been issued, during your first tax period after that day.
 
-Note:          Division 29 of the GST Act contains rules about attributing GST and input tax credits to tax periods.
+Note:          Division 29 of the GST Act contains rules about attributing GST and input tax credits to tax periods.
 
-##### <a id="11"></a>11  Supply of rights exercisable on or after 1 July 2000
+##### <a id="11"></a>11  Supply of rights exercisable on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>
 
-             (1)  A supply of a right that has been or is granted on or after 2 December 1998 (other than a supply of a right granted on or after 1 July 2000) is taken to be a supply made on or after 1 July 2000 if, and to the extent that, the right could reasonably be expected to be exercised on or after 1 July 2000.
+             (1)  A supply of a right that has been or is granted on or after 2 December 1998 (other than a supply of a right granted on or after 1 July 2000) is taken to be a supply made on or after 1 July 2000 if, and to the extent that, the right could reasonably be expected to be exercised on or after 1 July 2000.
 
           (1A)  However, this section does not apply to:
 
@@ -512,17 +490,19 @@ Note:          Division 29 of the GST Act contains rules abo
 
           (1B)  This section does not apply to:
 
-                     (a)  a supply of a long-term lease made before 1 July 2000; or
+                     (a)  a supply of a long-term lease made before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>; or
 
-                     (b)  a supply of a voucher made before 1 July 2000 if, on redemption of the voucher, the holder of the voucher is entitled to supplies up to a monetary value stated on the voucher.
+                     (b)  a supply of a voucher made before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> if, on redemption of the voucher, the holder of the voucher is entitled to supplies up to a monetary value stated on the voucher.
 
-             (2)  The Commissioner may make a written ruling determining methods for working out the extent to which a right could reasonably be expected to be exercised on or after 1 July 2000 where that extent is not readily ascertainable.
+             (2)  The Commissioner may make a written ruling determining methods for working out the extent to which a right could reasonably be expected to be exercised on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> where that extent is not readily ascertainable.
 
-             (3)  This section does not affect the operation of section 13.
+             (3)  This section does not affect the operation of section 13.
 
              (4)  If this section has an effect in relation to a supply, it has a corresponding effect in relation to the acquisition to which the supply relates.
 
-## Part 3—Agreements spanning 1 July 2000
+<o:p> </o:p>
+
+## Part 3—Agreements spanning <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7"><span class="CharPartText">1 July 2000</span></st1:date>
 
 ### Division 1—General
 
@@ -538,7 +518,7 @@ Note:          Division 29 of the GST Act contains rules abo
 
                             whether or not at regular intervals; and
 
-                     (b)  that period begins before 1 July 2000 and ends on or after 1 July 2000.
+                     (b)  that period begins before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> and ends on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
 Note:          Section 11 does not apply to supplies covered by this section: see paragraph 11(1A)(a).
 
@@ -548,7 +528,7 @@ Note:          Section 11 does not apply to supplies covered
 
              (3)  For the purposes of this section, a supply by way of lease, hire or similar arrangement is taken to be a supply for the period of the lease, hire or arrangement.
 
-             (4)  This section does not apply to a supply of a long-term lease made before 1 July 2000.
+             (4)  This section does not apply to a supply of a long-term lease made before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
              (5)  In this section:
 
@@ -574,15 +554,15 @@ given or made in connection with the supply of the goods or service.
 
              (2)  The supply is GST-free to the extent that it is made before the earlier of the following:
 
-                     (a)  1 July 2005;
+                     (a)  <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>;
 
                      (b)  if a review opportunity arises on or after the day of Royal Assent—when that opportunity arises.
 
-             (3)  If all of the consideration was paid before 2 December 1998, the supply is also GST-free to the extent it is made on or after 1 July 2005 but before a review opportunity has arisen as mentioned in paragraph (2)(b).
+             (3)  If all of the consideration was paid before 2 December 1998, the supply is also GST-free to the extent it is made on or after 1 July 2005 but before a review opportunity has arisen as mentioned in paragraph (2)(b).
 
-             (4)  However, if the recipient of the supply would not be entitled to a full input tax credit for it, treat the references in paragraphs (1)(b) and (2)(b) to the day of Royal Assent as references instead to 2 December 1998.
+             (4)  However, if the recipient of the supply would not be entitled to a full input tax credit for it, treat the references in paragraphs (1)(b) and (2)(b) to the day of Royal Assent as references instead to <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="2" month="12">2 December 1998</st1:date>.
 
-          (4A)  For the purposes of this section, an untaxable Commonwealth entity is to be treated as if it were entitled or not entitled to a full input tax credit (whichever is relevant) if it would be so entitled or not entitled if it were an entity other than an untaxable Commonwealth entity.
+          (4A)  For the purposes of this section, a Commonwealth entity is to be treated as if it were entitled or not entitled to a full input tax credit (whichever is relevant) if it would be so entitled or not entitled if it were an entity other than a Commonwealth entity.
 
           (4B)  If:
 
@@ -610,9 +590,9 @@ supplies that are specifically identified by the agreement are not GST-free unde
 
                      (a)  for the supplier under the agreement (acting either alone or with the agreement of one or more of the other parties to the agreement) to change the consideration directly or indirectly because of the imposition of GST; or
 
-                     (b)  for the supplier under the agreement (acting either alone or with the agreement of one or more of the other parties to the agreement) to conduct, on or after 1 July 2000, a general review, renegotiation or alteration of the consideration; or
+                     (b)  for the supplier under the agreement (acting either alone or with the agreement of one or more of the other parties to the agreement) to conduct, on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, a general review, renegotiation or alteration of the consideration; or
 
-                     (c)  for the supplier under the agreement (acting either alone or with the agreement of one or more of the other parties to the agreement) to conduct, before 1 July 2000, a general review, renegotiation or alteration of the consideration that takes account of the imposition of the GST.
+                     (c)  for the supplier under the agreement (acting either alone or with the agreement of one or more of the other parties to the agreement) to conduct, before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, a general review, renegotiation or alteration of the consideration that takes account of the imposition of the GST.
 
 ##### <a id="14"></a>14  Rights granted for life
 
@@ -622,17 +602,17 @@ supplies that are specifically identified by the agreement are not GST-free unde
 
                      (b)  the agreement or enactment provides (expressly or impliedly) that a right is to be granted or exercisable for the rest of an individual’s life; and
 
-                     (c)  the right is granted or first exercisable before 1 July 2000.
+                     (c)  the right is granted or first exercisable before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
-             (2)  To the extent that the supply is constituted by the supply of the right, so much of the supply as is made before 1 July 2000 is instead taken, for the purposes of this Act, to be made on 1 July 2000.
+             (2)  To the extent that the supply is constituted by the supply of the right, so much of the supply as is made before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> is instead taken, for the purposes of this Act, to be made on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
-             (3)  However, in the case of an agreement entered into before 2 December 1998 that is also covered by section 13:
+             (3)  However, in the case of an agreement entered into before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="2" month="12">2 December 1998</st1:date> that is also covered by section 13:
 
                      (a)  subsections 13(2) and (3) do not apply; and
 
                      (b)  instead, the supply is GST-free to the extent that the consideration for the supply is paid before the earlier of the following:
 
-                              (i)  1 July 2005;
+                              (i)  <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>;
 
                              (ii)  if a review opportunity as mentioned in paragraph 13(2)(b) arises—when that opportunity arises.
 
@@ -642,21 +622,23 @@ supplies that are specifically identified by the agreement are not GST-free unde
 
                      (b)  the entity to which the supply is made would be entitled to a full input tax credit for it;
 
-subsection (3) has effect as if the reference to 2 December 1998 were a reference to 8 July 1999.
+subsection (3) has effect as if the reference to <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="2" month="12">2 December 1998</st1:date> were a reference to <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="8" month="7">8 July 1999</st1:date>.
 
-             (5)  For the purposes of this section, an untaxable Commonwealth entity is to be treated as if it were entitled or not entitled to a full input tax credit (whichever is relevant) if it would be so entitled or not entitled if it were an entity other than an untaxable Commonwealth entity.
+             (5)  For the purposes of this section, a Commonwealth entity is to be treated as if it were entitled or not entitled to a full input tax credit (whichever is relevant) if it would be so entitled or not entitled if it were an entity other than a Commonwealth entity.
 
              (6)  If this section has an effect in relation to a supply, it has a corresponding effect in relation to the acquisition to which the supply relates.
 
 ##### <a id="15"></a>15  Funeral agreements
 
-             (1)  If, before 1 July 2000, you enter, or have entered, into an agreement for a supply consisting of the provision of a funeral (or a right to the provision of a funeral):
+             (1)  If, before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, you enter, or have entered, into an agreement for a supply consisting of the provision of a funeral (or a right to the provision of a funeral):
 
-                     (a)  section 11 and this Part (apart from this section) do not apply; and
+                     (a)  section 11 and this Part (apart from this section) do not apply; and
 
-                     (b)  the supply of any right under the agreement relating to the provision of a funeral is taken to be a supply made on or after 1 July 2000 only if the funeral is provided on or after that day.
+                     (b)  the supply of any right under the agreement relating to the provision of a funeral is taken to be a supply made on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> only if the funeral is provided on or after that day.
 
-             (2)  If you entered into the agreement before 1 December 1999 and the funeral is provided on or after 1 July 2000, the supply is GST-free to the extent that the consideration for the supply is paid before 1 July 2005.
+             (2)  If you entered into the agreement before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="12">1 December 1999</st1:date> and the funeral is provided on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, the supply is GST-free to the extent that the consideration for the supply is paid before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>.
+
+<o:p> </o:p>
 
 ### Division 2—Agreements also spanning 1 July 2005
 
@@ -668,7 +650,9 @@ subsection (3) has effect as if the reference to 2 December 1998 were a refe
 
              (2)  The following diagram shows how, as a result of this Division and the GST law in general, each of the 3 possible ways to treat the GST on such a taxable supply will apply in particular cases.
 
-![](http://www.comlaw.gov.au/Details/C2006C00381/Html/5A2178F0C7E8E0CACA2571A0007CE2E5/$FILE/image002.gif)
+<o:p> </o:p>
+
+<v:shape id="_x0000_i1026" style="WIDTH: 354pt; HEIGHT: 470.25pt" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="3953E99C1CC0DBC3CA256FB60026A03A/$FILE/image003.wmz"></v:imagedata></v:shape>
 
 ##### <a id="15B"></a>15B  Definitions
 
@@ -900,7 +884,7 @@ whichever happens earlier.
 
              (3)  In this section:
 
-                    <a name="new-tax-system-chang"></a>**_New Tax System changes_** has the same meaning as in Part VB of the _Trade Practices Act 1974_.
+                    <a name="new-tax-system-chang"></a>**_New Tax System changes_** has the same meaning as in Part VB of the _Trade Practices Act 1974_.
 
 ##### <a id="15M"></a>15M  Final offer
 
@@ -914,15 +898,17 @@ whichever happens earlier.
 
              (2)  The final offer period must be a period of at least 21 days after the supplier gives the final offer to the recipient.
 
-## Part 4—Stock on hand on 1 July 2000
+<o:p> </o:p>
+
+## Part 4—Stock on hand on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7"><span class="CharPartText">1 July 2000</span></st1:date>
 
 ##### <a id="16"></a>16  Special GST credit for sales tax paid on stock
 
              (1)  You are entitled to a special credit for GST purposes if:
 
-                     (a)  you are registered as at 1 July 2000; and
+                     (a)  you are registered as at <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>; and
 
-                     (b)  you have on hand, at the start of 1 July 2000, goods you acquired or imported that are held for the purposes of sale or exchange (but not for manufacture) in the ordinary course of business.
+                     (b)  you have on hand, at the start of <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, goods you acquired or imported that are held for the purposes of sale or exchange (but not for manufacture) in the ordinary course of business.
 
 Note:          In some cases relating to alcoholic beverages, subsections 16A(3) and 16B(3) prevent special credits arising.
 
@@ -934,7 +920,7 @@ Note:          In some cases relating to alcoholic beverages, 
 
                              (ii)  nobody was entitled to quote under the _Sales Tax Assessment Act 1992_ for the importation; and
 
-                            (iii)  you did not hold the goods, at any time prior to 1 July 2000, for a purpose other than for sale or exchange in the ordinary course of business.
+                            (iii)  you did not hold the goods, at any time prior to <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, for a purpose other than for sale or exchange in the ordinary course of business.
 
                      (b)  goods mentioned in subsection 15A(1) (alcoholic beverages) of the _Sales Tax (Exemptions and Classifications) Act 1992_, if those goods are opened stock;
 
@@ -944,11 +930,11 @@ Note:          In some cases relating to alcoholic beverages, 
 
 Note:          In some cases relating to alcoholic beverages, subsections 16A(2) and 16B(2) reduce the amounts of special credits.
 
-          (3A)  However, if the amount of sales tax you have borne in respect of the goods changes after 1 July 2000, the amount of the special credit changes accordingly.
+          (3A)  However, if the amount of sales tax you have borne in respect of the goods changes after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, the amount of the special credit changes accordingly.
 
-             (4)  The special credit is treated as though it were an input tax credit attributable to any one tax period of your choice. However, you are not entitled to it unless you separately identify it in a GST return that you lodge for a tax period that ends before 7 January 2001.
+             (4)  The special credit is treated as though it were an input tax credit attributable to any one tax period of your choice. However, you are not entitled to it unless you separately identify it in a GST return that you lodge for a tax period that ends before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="7" month="1">7 January 2001</st1:date>.
 
-          (4A)  If the amount of the special credit changes under subsection (3A) after you lodged that return, you must lodge with the Commissioner an amended GST return for that tax period. You must lodge it on or before the 21st day of the month following the end of the tax period in which the change happens.
+          (4A)  If the amount of the special credit changes under subsection (3A) after you lodged that return, you must lodge with the Commissioner an amended GST return for that tax period. You must lodge it on or before the 21st day of the month following the end of the tax period in which the change happens.
 
              (5)  The Commissioner may make a written ruling determining methods for working out the amount of sales tax that you have borne in respect of specified goods in cases where that amount is not readily ascertainable.
 
@@ -958,17 +944,17 @@ Note:          Goods may be specified by name, by inclusion in
 
              (1)  This section applies to goods if:
 
-                     (a)  you are entitled to a special credit under section 16 in respect of the goods (or would be so entitled apart from subsection (3) of this section); and
+                     (a)  you are entitled to a special credit under section 16 in respect of the goods (or would be so entitled apart from subsection (3) of this section); and
 
                      (b)  they are goods mentioned in subsection 15A(1) (alcoholic beverages) of the _Sales Tax (Exemptions and Classifications) Act 1992_; and
 
                      (c)  either:
 
-                              (i)  an amount of excise duty or customs duty (the **_old duty amount_**) in respect of the goods was paid before 1 July 2000; or
+                              (i)  an amount of excise duty or customs duty (the **_old duty amount_**) in respect of the goods was paid before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>; or
 
-                             (ii)  the goods were delivered into home consumption before 1 July 2000 under a permission given under subsection 61C(1) of the _Excise Act 1901_ or granted under subsection 69(3) of the _Customs Act 1901_, and an amount of excise duty or customs duty (the **_old duty amount_**) was or is payable in respect of the goods; and
+                             (ii)  the goods were delivered into home consumption before 1 July 2000 under a permission given under subsection 61C(1) of the _Excise Act 1901_ or granted under subsection 69(3) of the _Customs Act 1901_, and an amount of excise duty or customs duty (the **_old duty amount_**) was or is payable in respect of the goods; and
 
-                     (d)  were excise duty or customs duty (whichever is applicable) instead to become payable on the goods immediately after 1 July 2000, the amount of that duty (the **_new duty amount_**) would be greater than the old duty amount.
+                     (d)  were excise duty or customs duty (whichever is applicable) instead to become payable on the goods immediately after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, the amount of that duty (the **_new duty amount_**) would be greater than the old duty amount.
 
              (2)  The amount of the special credit in respect of the goods is reduced by an amount equal to the difference between the new duty amount and the old duty amount.
 
@@ -984,11 +970,11 @@ Note:          Goods may be specified by name, by inclusion in
 
                      (c)  either:
 
-                              (i)  an amount of excise duty or customs duty (the **_old duty amount_**) in respect of the goods was paid before 1 July 2000; or
+                              (i)  an amount of excise duty or customs duty (the **_old duty amount_**) in respect of the goods was paid before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>; or
 
                              (ii)  the goods were delivered into home consumption before 1 July 2000 under a permission given under subsection 61C(1) of the _Excise Act 1901_ or granted under subsection 69(3) of the _Customs Act 1901_, and an amount of excise duty or customs duty (the **_old duty amount_**) was or is payable in respect of the goods; and
 
-                     (d)  were excise duty or customs duty (whichever is applicable) instead to become payable on the goods immediately after 1 July 2000, the amount of that duty (the **_new duty amount_**) would be less than the old duty amount.
+                     (d)  were excise duty or customs duty (whichever is applicable) instead to become payable on the goods immediately after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, the amount of that duty (the **_new duty amount_**) would be less than the old duty amount.
 
              (2)  The amount of the special credit in respect of the goods is increased by an amount equal to the difference between the old duty amount and the new duty amount.
 
@@ -996,41 +982,41 @@ Note:          Goods may be specified by name, by inclusion in
 
              (1)  This section applies to goods if:
 
-                     (a)  you are entitled to a special credit under section 16 in respect of the goods (or would be so entitled apart from subsection (3) of this section); and
+                     (a)  you are entitled to a special credit under section 16 in respect of the goods (or would be so entitled apart from subsection (3) of this section); and
 
                      (b)  they are goods mentioned in subsection 15A(1) (alcoholic beverages) of the _Sales Tax (Exemptions and Classifications) Act 1992_; and
 
-                     (c)  immediately before 1 July 2000, the goods were not:
+                     (c)  immediately before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, the goods were not:
 
                               (i)  excisable goods (within the meaning of the _Excise Act 1901_); or
 
                              (ii)  goods of a kind in respect of which customs duty was imposed by the Parliament, or goods the subject of a Customs Tariff or Customs Tariff proposed in the Parliament; and
 
-                     (d)  at the start of 1 July 2000, the goods became goods of a kind referred to in subparagraph (c)(i) or (ii).
+                     (d)  at the start of <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, the goods became goods of a kind referred to in subparagraph (c)(i) or (ii).
 
-             (2)  The amount of the special credit in respect of the goods is reduced by an amount (the **_new duty amount_**) equal to what would be the excise duty or customs duty (whichever is applicable) in respect of the goods if that duty were to become payable immediately after 1 July 2000.
+             (2)  The amount of the special credit in respect of the goods is reduced by an amount (the **_new duty amount_**) equal to what would be the excise duty or customs duty (whichever is applicable) in respect of the goods if that duty were to become payable immediately after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
              (3)  However, there is no special credit in respect of the goods if the new duty amount equals or exceeds what would (apart from this section) be the amount of the special credit.
 
-             (4)  To avoid doubt, goods that are subject to a “free” rate of duty, or which, under a Customs Tariff proposed in the Parliament, would be subject to a “free” rate of duty, are not goods of a kind referred to in subparagraph (1)(c)(ii).
+             (4)  To avoid doubt, goods that are subject to a “free” rate of duty, or which, under a Customs Tariff proposed in the Parliament, would be subject to a “free” rate of duty, are not goods of a kind referred to in subparagraph (1)(c)(ii).
 
 ##### <a id="16C"></a>16C  Special petroleum credits
 
              (1)  You are entitled to a special petroleum credit if:
 
-                     (a)  you are registered as at 1 July 2000; and
+                     (a)  you are registered as at <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>; and
 
-                     (b)  you have on hand, at the start of 1 July 2000, goods you acquired or imported that are held for the purposes of sale or exchange (but not for manufacture) in the ordinary course of business; and
+                     (b)  you have on hand, at the start of 1 July 2000, goods you acquired or imported that are held for the purposes of sale or exchange (but not for manufacture) in the ordinary course of business; and
 
                      (c)  the goods are petroleum products of a kind specified in the regulations; and
 
                      (d)  either:
 
-                              (i)  an amount of excise duty or customs duty (the **_old duty amount_**) in respect of the goods was paid before 1 July 2000; or
+                              (i)  an amount of excise duty or customs duty (the **_old duty amount_**) in respect of the goods was paid before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>; or
 
-                             (ii)  the goods were delivered into home consumption before 1 July 2000 under a permission given under subsection 61C(1) of the _Excise Act 1901_ or granted under subsection 69(3) of the _Customs Act 1901_, and an amount of excise duty or customs duty (the **_old duty amount_**) was or is payable in respect of the goods; and
+                             (ii)  the goods were delivered into home consumption before 1 July 2000 under a permission given under subsection 61C(1) of the _Excise Act 1901_ or granted under subsection 69(3) of the _Customs Act 1901_, and an amount of excise duty or customs duty (the **_old duty amount_**) was or is payable in respect of the goods; and
 
-                     (e)  were excise duty or customs duty (whichever is applicable) instead to become payable on the goods after 1 July 2000, the amount of that duty (the **_new duty amount_**) would be less than the old duty amount.
+                     (e)  were excise duty or customs duty (whichever is applicable) instead to become payable on the goods after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, the amount of that duty (the **_new duty amount_**) would be less than the old duty amount.
 
              (2)  The amount of the special petroleum credit in respect of the goods is an amount equal to the difference between the old duty amount and the new duty amount.
 
@@ -1040,9 +1026,9 @@ Note:          Goods may be specified by name, by inclusion in
 
              (1)  If:
 
-                     (a)  you have on hand, at the start of 1 July 2000, assessable goods that are held for the purposes of sale or exchange (but not for manufacture) in the ordinary course of business; and
+                     (a)  you have on hand, at the start of <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, assessable goods that are held for the purposes of sale or exchange (but not for manufacture) in the ordinary course of business; and
 
-                     (b)  on or after 1 July 2000, you apply the goods to any extent for a private or domestic purpose; and
+                     (b)  on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, you apply the goods to any extent for a private or domestic purpose; and
 
                      (c)  you are registered, or required to be registered, when you apply the goods;
 
@@ -1052,9 +1038,9 @@ you are taken, for the purposes of the GST law, to have made a taxable supply th
 
              (3)  If:
 
-                     (a)  you have on hand, at the start of 1 July 2000, assessable goods that are held for the purposes of sale or exchange (but not for manufacture) in the ordinary course of business; and
+                     (a)  you have on hand, at the start of <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, assessable goods that are held for the purposes of sale or exchange (but not for manufacture) in the ordinary course of business; and
 
-                     (b)  on or after 1 July 2000, you cease to be registered; and
+                     (b)  on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, you cease to be registered; and
 
                      (c)  you still hold the goods at the time of the cessation;
 
@@ -1064,7 +1050,7 @@ you are taken, for the purposes of the GST law, to have made a taxable supply th
 
 ##### <a id="18"></a>18  Second-hand goods
 
-             (1)  Division 66 of the GST Act applies to second-hand goods you acquired before 1 July 2000 only if:
+             (1)  Division 66 of the GST Act applies to second-hand goods you acquired before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> only if:
 
                      (a)  you held them at the start of that day for the purposes of sale or exchange (but not for manufacture) in the ordinary course of business; and
 
@@ -1078,45 +1064,47 @@ you are taken, for the purposes of the GST law, to have made a taxable supply th
 
 the input tax credit is treated as though it were an input tax credit attributable to any one tax period of your choice.
 
-             (2)  This section does not apply to second-hand goods in respect of which you are entitled to a special credit under section 16.
+             (2)  This section does not apply to second-hand goods in respect of which you are entitled to a special credit under section 16.
 
-## Part 5—Special transitional rules
+<o:p> </o:p>
 
-##### <a id="19"></a>19  Construction agreements made before 1 July 2000
+## Part 5—Special transitional rules
+
+##### <a id="19"></a>19  Construction agreements made before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>
 
              (1)  This section applies to the extent that a supply of goods or real property is the construction, major reconstruction, manufacture or extension of a building or of a civil engineering work by the supplier, and the goods or real property are:
 
-                     (a)  supplied in accordance with a written agreement made before 1 July 2000; and
+                     (a)  supplied in accordance with a written agreement made before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>; and
 
-                     (b)  made available to the recipient on or after 1 July 2000.
+                     (b)  made available to the recipient on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
-             (2)  The value of all work and materials permanently incorporated in or affixed on the site of the building or civil engineering work in accordance with the agreement must be determined, as at the start of 1 July 2000.
+             (2)  The value of all work and materials permanently incorporated in or affixed on the site of the building or civil engineering work in accordance with the agreement must be determined, as at the start of <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
-             (3)  GST is only payable on the supply to the extent that the price of the supply (less the amount of any GST payable on the supply) exceeds the value determined under subsection (2).
+             (3)  GST is only payable on the supply to the extent that the price of the supply (less the amount of any GST payable on the supply) exceeds the value determined under subsection (2).
 
-Note:          Division 29 of the GST Act and section 10 of this Act contain rules about attributing the GST to tax periods.
+Note:          Division 29 of the GST Act and section 10 of this Act contain rules about attributing the GST to tax periods.
 
-             (4)  This section only applies to the extent that the value mentioned in subsection (2) is determined:
+             (4)  This section only applies to the extent that the value mentioned in subsection (2) is determined:
 
                      (a)  in a manner specified by the Commissioner; and
 
-                     (b)  on or before the end of the supplier’s first tax period after 1 July 2000, or a later day allowed by the Commissioner.
+                     (b)  on or before the end of the supplier’s first tax period after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, or a later day allowed by the Commissioner.
 
-             (5)  If section 13 applies to the agreement, treat the references to 1 July 2000 in subsections (2) and (4) of this section and in section 10 as references instead to the earlier of the following:
+             (5)  If section 13 applies to the agreement, treat the references to <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> in subsections (2) and (4) of this section and in section 10 as references instead to the earlier of the following:
 
-                     (a)  1 July 2005;
+                     (a)  <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>;
 
                      (b)  the time when a review opportunity as mentioned in paragraph 13(2)(b) first arises.
 
-##### <a id="19A"></a>19A  Sales of motor vehicles held under operating leases since 2 December 1998
+##### <a id="19A"></a>19A  Sales of motor vehicles held under operating leases since <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="2" month="12">2 December 1998</st1:date>
 
              (1)  If, in relation to a supply of a motor vehicle, all of the following conditions are met, the supplier of the vehicle is entitled to a special credit equal to <sup>1</sup>/11 of the price of the supply:
 
-                     (a)  the supply is the first sale of the motor vehicle to take place on or after 1 July 2000;
+                     (a)  the supply is the first sale of the motor vehicle to take place on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>;
 
                      (b)  the supplier was, immediately before the sale, the lessor of the motor vehicle under an operating lease;
 
-                     (c)  the supplier bought the motor vehicle before 2 December 1998 for the purpose of leasing it under an operating lease;
+                     (c)  the supplier bought the motor vehicle before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="2" month="12">2 December 1998</st1:date> for the purpose of leasing it under an operating lease;
 
                      (d)  the motor vehicle has been the subject of sales tax.
 
@@ -1126,7 +1114,7 @@ Note:          Division 29 of the GST Act and section 10 o
 
                     <a name="operating-leas"></a>**_operating lease_** means a lease under which the lessor effectively retains substantially all risks and benefits incidental to the ownership of the motor vehicle.
 
-##### <a id="19B"></a>19B  Sales etc. of cars held on 1 July 2000 for the purpose of rental
+##### <a id="19B"></a>19B  Sales etc. of cars held on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> for the purpose of rental
 
 Entitlement to special credit
 
@@ -1134,13 +1122,13 @@ Entitlement to special credit
 
                      (a)  the supply takes place, or took place:
 
-                              (i)  on or after 1 July 2000; and
+                              (i)  on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>; and
 
-                             (ii)  before 1 July 2002;
+                             (ii)  before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="1" month="7">1 July 2002</st1:date>;
 
-                     (b)  the entity held the car at the start of 1 July 2000;
+                     (b)  the entity held the car at the start of <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>;
 
-                     (c)  the supply is, or was, the first sale of the car on or after 1 July 2000;
+                     (c)  the supply is, or was, the first sale of the car on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>;
 
                      (d)  during the entire period at the start of 1 July 2000 until the entity ceases to hold the car:
 
@@ -1178,7 +1166,7 @@ Amount of the special credit
 
              (8)  However, if the car was covered by an eligible short-term lease, the amount of the special credit is an amount equal to:
 
-![](http://www.comlaw.gov.au/Details/C2006C00381/Html/5A2178F0C7E8E0CACA2571A0007CE2E5/$FILE/image003.gif)
+<sub><v:shape id="_x0000_i1027" style="WIDTH: 209.25pt; HEIGHT: 21pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="3953E99C1CC0DBC3CA256FB60026A03A/$FILE/image005.wmz"></v:imagedata></v:shape></sub>
 
 where:
 
@@ -1210,7 +1198,7 @@ When the special credit can be claimed
 
                      (a)  on or after the day on which the _Taxation Laws Amendment Act (No. 3) 2002_ received the Royal Assent; and
 
-                     (b)  on or before 7 January 2003, or such later day as the Commissioner determines in writing.
+                     (b)  on or before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="7" month="1">7 January 2003</st1:date>, or such later day as the Commissioner determines in writing.
 
 Definitions etc.
 
@@ -1238,7 +1226,7 @@ Definitions etc.
 
                      (c)  a body for a motor vehicle, including an insulated body, tank-body, or other body designed for transporting goods of particular kinds.
 
-             (2)  You are not entitled to an input tax credit on the acquisition or importation if the acquisition or importation is made before 23 May 2001.
+             (2)  You are not entitled to an input tax credit on the acquisition or importation if the acquisition or importation is made before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="23" month="5">23 May 2001</st1:date>.
 
           (3A)  If:
 
@@ -1258,15 +1246,15 @@ Note:          Paragraph 48-40(2)(a) of the GST Act prevents s
 
                      (b)  the motor vehicle, trailer or body is second-hand;
 
-                     (c)  no dealing in respect of the acquisition or importation would be taxable under the sales tax law (assuming sales tax had not been ended by the _A New Tax System (End of Sales Tax) Act 1999_ and by section 8 of this Act);
+                     (c)  no dealing in respect of the acquisition or importation would be taxable under the sales tax law (assuming sales tax had not been ended by the _A New Tax System (End of Sales Tax) Act 1999_ and by section 8 of this Act);
 
                      (d)  you are an insurer and, in settling a claim, you acquire the motor vehicle, trailer or body to replace an insured motor vehicle, trailer or body.
 
           (4A)  Paragraph (4)(c) does not apply to a dealing in respect of the acquisition or importation if the acquisition or importation is made with the intention of granting an eligible short-term lease in respect of the motor vehicle, trailer or body.
 
-          (4B)  Subsection (2) does not apply if you make the acquisition or importation before 23 May 2001 with the intention of granting an eligible short-term lease. However, the amount of any input tax credit you are entitled to on the acquisition or importation is reduced by an amount equal to:
+          (4B)  Subsection (2) does not apply if you make the acquisition or importation before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="23" month="5">23 May 2001</st1:date> with the intention of granting an eligible short-term lease. However, the amount of any input tax credit you are entitled to on the acquisition or importation is reduced by an amount equal to:
 
-![](http://www.comlaw.gov.au/Details/C2006C00381/Html/5A2178F0C7E8E0CACA2571A0007CE2E5/$FILE/image004.gif)
+<sub><v:shape id="_x0000_i1028" style="WIDTH: 237pt; HEIGHT: 21pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="3953E99C1CC0DBC3CA256FB60026A03A/$FILE/image007.wmz"></v:imagedata></v:shape></sub>
 
 where:
 
@@ -1274,13 +1262,13 @@ where:
 
                     <a name="origin-input-tax-crite"></a>**_original input tax credit_** is the amount that would (but for this section) be the amount of the input tax credit on the acquisition or importation.
 
-          (4C)  Agreements may be made under subsection 15A(2) of the _Sales Tax Assessment Act 1992_, on or after 1 July 2000 but before 23 May 2001, as if:
+          (4C)  Agreements may be made under subsection 15A(2) of the _Sales Tax Assessment Act 1992_, on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> but before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="23" month="5">23 May 2001</st1:date>, as if:
 
                      (a)  sales tax had not been ended by the _A New Tax System (End of Sales Tax) Act 1999_ and by section 8 of this Act; and
 
                      (b)  the reference in subsection 15A(2) of the _Sales Tax Assessment Act 1992_ to a use of goods to satisfy one or more exemption Items were a reference to a use of goods that would have satisfied one or more exemption Items.
 
-             (5)  If you are not entitled to an input tax credit on an acquisition because of this section, sections 21-15 and 21-20 of the GST Act do not apply to you in relation to that acquisition.
+             (5)  If you are not entitled to an input tax credit on an acquisition because of this section, sections 21-15 and 21-20 of the GST Act do not apply to you in relation to that acquisition.
 
              (7)  If an input tax credit to which you are entitled is reduced under subsection (4B), then, for the purposes of applying section 21-15 or 21-20 of the GST Act (where relevant), the amount of any adjustment under that section is reduced by the same proportion (before any application of Division 136 of that Act).
 
@@ -1304,9 +1292,9 @@ where:
 
                      (c)  herbal medicine (including traditional Chinese herbal medicine);
 
-if the service is performed before 1 July 2003.
+if the service is performed before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>.
 
-             (2)  However, such a service of acupuncture, naturopathy or herbal medicine performed before 1 July 2003 is not GST-free if the supplier of the service does not meet the requirements (if any) in regulations made for the purposes of this subsection in relation to a supplier of an acupuncture, naturopathy or herbal medicine service, as the case requires.
+             (2)  However, such a service of acupuncture, naturopathy or herbal medicine performed before 1 July 2003 is not GST-free if the supplier of the service does not meet the requirements (if any) in regulations made for the purposes of this subsection in relation to a supplier of an acupuncture, naturopathy or herbal medicine service, as the case requires.
 
              (3)  The requirements may relate to one or more of the following:
 
@@ -1318,15 +1306,15 @@ if the service is performed before 1 July 2003.
 
 ##### <a id="22"></a>22  Event before 1 July 2000 giving rise to claim
 
-             (1)  The settlement of an insurance claim does not give rise to any adjustment, and is not a taxable supply, under Division 78 of the GST Act to the extent that the event giving rise to the claim happened before 1 July 2000.
+             (1)  The settlement of an insurance claim does not give rise to any adjustment, and is not a taxable supply, under Division 78 of the GST Act to the extent that the event giving rise to the claim happened before 1 July 2000.
 
              (2)  However, if:
 
-                     (a)  the claim relates to an insurance policy covering a period that started before 1 July 2000 and ends after that day; and
+                     (a)  the claim relates to an insurance policy covering a period that started before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> and ends after that day; and
 
-                     (b)  it cannot be ascertained whether the event giving rise to the claim happened before 1 July 2000;
+                     (b)  it cannot be ascertained whether the event giving rise to the claim happened before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>;
 
-subsection (1) does not apply, and the settlement does not give rise to any adjustment, and is not a taxable supply, under Division 78 of the GST Act if the claim was made before 1 July 2000.
+subsection (1) does not apply, and the settlement does not give rise to any adjustment, and is not a taxable supply, under Division 78 of the GST Act if the claim was made before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
              (3)  The settlement of a claim for compensation does not give rise to any adjustment, and is not a taxable supply, under Division 79 or 80 of the GST Act to the extent that the event giving rise to the claim happened before 1 July 2000.
 
@@ -1342,11 +1330,11 @@ subsection (3) does not apply and the settlement does not give rise to any adj
 
              (1)  You are not entitled to an input tax credit for:
 
-                     (a)  a premium, contribution or similar payment made under, or a levy paid in connection with, a compulsory third party scheme, if the premium, contribution or similar payment relates to a period commencing before 1 July 2003; or
+                     (a)  a premium, contribution or similar payment made under, or a levy paid in connection with, a compulsory third party scheme, if the premium, contribution or similar payment relates to a period commencing before 1 July 2003; or
 
-                     (b)  a premium paid, in respect of a period of cover commencing before 1 July 2003, on an insurance policy issued under a compulsory third party scheme.
+                     (b)  a premium paid, in respect of a period of cover commencing before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>, on an insurance policy issued under a compulsory third party scheme.
 
-       (1AA)  It does not matter, for the purposes of subsection (1), whether the payment occurred before, on or after 1 July 2003.
+       (1AA)  It does not matter, for the purposes of subsection (1), whether the payment occurred before, on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>.
 
           (1A)  If, because of subsection (1), you are not entitled to an input tax credit for an acquisition you make, section 29-70 of the GST Act (which is about tax invoices) does not apply in relation to the supply to which the acquisition relates.
 
@@ -1360,17 +1348,17 @@ that is specified in the regulations, or that is of a kind specified in the regu
 
 ##### <a id="24"></a>24  Gambling
 
-             (1)  If you make a gambling supply before 1 July 2000 relating to a gambling event that happens on or after 1 July 2000, the gambling supply is instead taken to have been made on 1 July 2000 and is attributable to your first tax period after that day.
+             (1)  If you make a gambling supply before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> relating to a gambling event that happens on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, the gambling supply is instead taken to have been made on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> and is attributable to your first tax period after that day.
 
-             (2)  In applying section 126-10 of the GST Act to work out your global GST amount, disregard:
+             (2)  In applying section 126-10 of the GST Act to work out your global GST amount, disregard:
 
-                     (a)  all monetary prizes you are liable to pay at any time on the outcome of gambling events that happened before 1 July 2000; and
+                     (a)  all monetary prizes you are liable to pay at any time on the outcome of gambling events that happened before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>; and
 
-                     (b)  all amounts of money you are liable to pay, of a kind referred to in paragraph (b) of the definition of **_total monetary prizes_** in subsection 126-10(1), to the extent that they relate to gambling events that happened before 1 July 2000.
+                     (b)  all amounts of money you are liable to pay, of a kind referred to in paragraph (b) of the definition of **_total monetary prizes_** in subsection 126-10(1), to the extent that they relate to gambling events that happened before 1 July 2000.
 
 ##### 24A  Unredeemed vouchers
 
-                   Section 100-15 of the GST Act applies to vouchers supplied before 1 July 2000, and not redeemed before that day, in the same way that it applies to vouchers supplied after that day.
+                   Section 100-15 of the GST Act applies to vouchers supplied before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>, and not redeemed before that day, in the same way that it applies to vouchers supplied after that day.
 
 ##### <a id="24B"></a>24B  Commissioner may make determinations relating to rounding
 
@@ -1394,11 +1382,11 @@ that is specified in the regulations, or that is of a kind specified in the regu
 
                      (b)  in the way specified in the provisions referred to in those paragraphs.
 
-             (4)  The day specified under paragraph (2)(b) must not be later than 30 June 2002.
+             (4)  The day specified under paragraph (2)(b) must not be later than <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="30" month="6">30 June 2002</st1:date>.
 
              (5)  An entity may apply to the Commissioner in writing for a determination under this section.
 
-Note:          Refusing an application for a determination under this section, and making determinations under this section, are reviewable GST transitional decisions (see Division 7 of Part VI of the _Taxation Administration Act 1953_).
+Note:          Refusing an application for a determination under this section, and making determinations under this section, are reviewable GST transitional decisions (see Division 7 of Part VI of the _Taxation Administration Act 1953_).
 
              (6)  If one or more taxable supplies, none of which are recorded on an invoice, are recorded on a document that is not an invoice, this section applies as if the document were an invoice.
 
@@ -1410,19 +1398,21 @@ Note:          Refusing an application for a determination und
 
                      (b)  the device accepts only one denomination of coin and does not give change; and
 
-                     (c)  the device was operating on 1 July 2000; and
+                     (c)  the device was operating on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>; and
 
-                     (d)  the supply is made before 1 July 2005; and
+                     (d)  the supply is made before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>; and
 
                      (e)  the supply is not a gambling supply; and
 
-                      (f)  you choose to have all of your supplies made from the device on or after 1 July 2000 treated as input taxed.
+                      (f)  you choose to have all of your supplies made from the device on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> treated as input taxed.
 
 Note:          If a supply is input taxed, there is no entitlement to an input tax credit for the things that are acquired or imported to make the supply (see sections 11-15 and 15-10 of the GST Act).
 
              (2)  However, if you revoke the choice, you can no longer choose to have all of your supplies from the device treated as input taxed.
 
-## Part 6—Regulations
+<o:p> </o:p>
+
+## Part 6—Regulations
 
 ##### <a id="25"></a>25  Regulations
 
@@ -1435,28 +1425,28 @@ Note:          If a supply is input taxed, there is no entitle
              (2)  In particular, regulations may be made for other transitional measures relating to the end of sales tax, the start of GST, or the transition from sales tax to GST.
 
 
-# Schedule 1—Amendment of the sales tax law
+# Schedule 1—Amendment of the sales tax law
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 4pt; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-**Note:**
+**Note:<o:p></o:p>**
 
-The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
 
 _Sales Tax Assessment Act 1992_ 
 
 _Sales Tax (Exemptions and Classifications) Act 1992._
 
-For access to the wording of the amendments made by this Schedule _see_ Act  No. 77, 1999.</div>
+For access to the wording of the amendments made by this Schedule click here [_A New Tax System (Goods and Services Tax Transition) Act 1999_ No. 77, 1999].</div>
 
 
-# Notes to the _A New Tax System (Goods and Services Tax Transition) Act 1999_
+# Notes to the _<span style="mso-no-proof: yes">A New Tax System (Goods and Services Tax Transition) Act 1999</span>_
 
 ### Note 1
 
-The _A New Tax System (Goods and Services Tax Transition) Act 1999_ as shown in this compilation comprises Act No. 57, 1999 amended as indicated in the Tables below.
+The _A New Tax System (Goods and Services Tax Transition) Act 1999_ as shown in this compilation comprises Act No. 57, 1999 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -1472,23 +1462,23 @@ For all relevant information pertaining to application, saving or transitional p
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year 
+and year <o:p></o:p> 
  </div>
     </td>
     <td>
       <div>Date 
-of Assent 
+of Assent <o:p></o:p> 
  </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
@@ -1501,13 +1491,13 @@ of Assent
       <div>57, 1999</div>
     </td>
     <td>
-      <div>8 July 1999</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="8" month="7">8 July 1999</st1:date></div>
     </td>
     <td>
-      <div>9 July 1999</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="9" month="7">9 July 1999</st1:date></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
@@ -1518,10 +1508,10 @@ of Assent
       <div>176, 1999</div>
     </td>
     <td>
-      <div>22 Dec 1999</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="22" month="12">22 Dec 1999</st1:date></div>
     </td>
     <td>
-      <div>Schedule 6 (items 1–12): <i>(a)</i></div>
+      <div>Schedule 6 (items 1–12): <i style="mso-bidi-font-style: normal">(a) <o:p></o:p> </i></div>
     </td>
     <td>
       <div>—</div>
@@ -1529,16 +1519,16 @@ of Assent
   </tr>
   <tr>
     <td>
-      <div>A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999</div>
+      <div>A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999</div>
     </td>
     <td>
       <div>177, 1999</div>
     </td>
     <td>
-      <div>22 Dec 1999</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="22" month="12">22 Dec 1999</st1:date></div>
     </td>
     <td>
-      <div>Schedule 2: <i>(b)</i></div>
+      <div>Schedule 2: <i style="mso-bidi-font-style: normal">(b)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1552,18 +1542,18 @@ of Assent
       <div>92, 2000</div>
     </td>
     <td>
-      <div>30 June 2000</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="30" month="6">30 June 2000</st1:date></div>
     </td>
     <td>
-      <div>Schedule 6 (item 7), 
-Schedule 8 (items 6, 7) and Schedule 11 (items 13A, 14–16, 16A–16E): <i>(c)</i> 
-Schedule 10 (items 1A, 1B): <i>(c)</i> 
-Schedule 10A (items 2–4): Royal Assent <i>(c)</i> 
+      <div>Schedule 6 (item 7), 
+Schedule 8 (items 6, 7) and Schedule 11 (items 13A, 14–16, 16A–16E): <i style="mso-bidi-font-style: normal">(c)</i> 
+Schedule 10 (items 1A, 1B): <i style="mso-bidi-font-style: normal">(c)</i> 
+Schedule 10A (items 2–4): Royal Assent <i style="mso-bidi-font-style: normal">(c)</i> 
 
 </div>
     </td>
     <td>
-      <div>Ss. 2(2), (4) (am. by 156, 2000, Sch. 7 (items 16, 17))</div>
+      <div>Ss. 2(2), (4) (am. by 156, 2000, Sch. 7 (items 16, 17))</div>
     </td>
   </tr>
   <tr>
@@ -1571,16 +1561,16 @@ Schedule 10A (items 2–4): Royal Assent <i>(c)</i>
       <div>as amended by</div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
@@ -1591,10 +1581,10 @@ Schedule 10A (items 2–4): Royal Assent <i>(c)</i>
       <div>156, 2000</div>
     </td>
     <td>
-      <div>21 Dec 2000</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="21" month="12">21 Dec 2000</st1:date></div>
     </td>
     <td>
-      <div>Schedule 7 (items 16, 17): <i>(ca)</i></div>
+      <div>Schedule 7 (items 16, 17): <i style="mso-bidi-font-style: normal">(ca)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1608,15 +1598,15 @@ Schedule 10A (items 2–4): Royal Assent <i>(c)</i>
       <div>156, 2000</div>
     </td>
     <td>
-      <div>21 Dec 2000</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="21" month="12">21 Dec 2000</st1:date></div>
     </td>
     <td>
-      <div>Schedule 1 (items 17, 18): Royal Assent <i>(d)</i> 
-Schedule 6 (item 41): 1 July 2000 <i>(d)</i> 
+      <div>Schedule 1 (items 17, 18): Royal Assent <i style="mso-bidi-font-style: normal">(d)</i> 
+Schedule 6 (item 41): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> <i style="mso-bidi-font-style: normal">(d)</i> 
 </div>
     </td>
     <td>
-      <div>Sch. 1 (item 18)</div>
+      <div>Sch. 1 (item 18)</div>
     </td>
   </tr>
   <tr>
@@ -1627,18 +1617,18 @@ Schedule 6 (item 41): 1 July 2000 <i>(d)</i>
       <div>73, 2001</div>
     </td>
     <td>
-      <div>30 June 2001</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="30" month="6">30 June 2001</st1:date></div>
     </td>
     <td>
-      <div>Schedule 1 (items 69–78): 23 May 2001 
-Schedule 2 (items 48–52): 1 Jan 2001 
-Schedule 3 (items 34–36): 1 Apr 2001 
+      <div>Schedule 1 (items 69–78): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="23" month="5">23 May 2001</st1:date> 
+Schedule 2 (items 48–52): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="1">1 Jan 2001</st1:date> 
+Schedule 3 (items 34–36): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="4">1 Apr 2001</st1:date> 
 Remainder: Royal Assent 
 
 </div>
     </td>
     <td>
-      <div>Sch. 1 (item 78)</div>
+      <div>Sch. 1 (item 78)</div>
     </td>
   </tr>
   <tr>
@@ -1652,7 +1642,7 @@ Remainder: Royal Assent
       <div>10 Nov 2002</div>
     </td>
     <td>
-      <div>Schedule 1 (item 7): Royal Assent</div>
+      <div>Schedule 1 (item 7): Royal Assent</div>
     </td>
     <td>
       <div>—</div>
@@ -1666,15 +1656,15 @@ Remainder: Royal Assent
       <div>12, 2003</div>
     </td>
     <td>
-      <div>2 Apr 2003</div>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="2" month="4">2 Apr 2003</st1:date></div>
     </td>
     <td>
-      <div>Schedule 1: 29 Aug 2001 
+      <div>Schedule 1: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="29" month="8">29 Aug 2001</st1:date> 
 Remainder: Royal Assent 
 </div>
     </td>
     <td>
-      <div>Sch. 4 (item 4)</div>
+      <div>Sch. 4 (item 4)</div>
     </td>
   </tr>
   <tr>
@@ -1685,13 +1675,13 @@ Remainder: Royal Assent
       <div>67, 2003</div>
     </td>
     <td>
-      <div>30 June 2003</div>
+      <div>30 June 2003</div>
     </td>
     <td>
-      <div>Schedule 11 (items 42, 43): Royal Assent</div>
+      <div>Schedule 11 (items 42, 43): Royal Assent</div>
     </td>
     <td>
-      <div>Sch. 11 (item 43)</div>
+      <div>Sch. 11 (item 43)</div>
     </td>
   </tr>
   <tr>
@@ -1705,65 +1695,50 @@ Remainder: Royal Assent
       <div>22 Feb 2005</div>
     </td>
     <td>
-      <div>Schedule 1 (items 12–14, 19): Royal Assent 
-Schedule 1 (item 15): <i>(e)</i> 
+      <div>Schedule 1 (items 12–14, 19): Royal Assent 
+Schedule 1 (item 15): <i style="mso-bidi-font-style: normal">(e)</i> 
 </div>
     </td>
     <td>
-      <div>Sch. 1 (item 19)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Tax Laws Amendment (2006 Measures No. 2) Act 2006</div>
-    </td>
-    <td>
-      <div>58, 2006</div>
-    </td>
-    <td>
-      <div>22 June 2006</div>
-    </td>
-    <td>
-      <div>Schedule 7 (items 16, 17): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
+      <div>Sch. 1 (item 19)</div>
     </td>
   </tr>
 </tbody></table>
 
 
-_(a)_     The _A New Tax System (Goods and Services Tax Transition) Act 1999_ was amended by Schedule 6 (items 1–12) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_, subsection 2(12) of which provides as follows:
+_(a)_     The _A New Tax System (Goods and Services Tax Transition) Act 1999_ was amended by Schedule 6 (items 1–12) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_, subsection 2(12) of which provides as follows:
 
-               (12)   Schedule 6 (other than items 13 and 14) commences, or is taken to have commenced, immediately after the commencement of the _A New Tax System (Goods and Services Tax Transition) Act 1999_.
+               (12)   Schedule 6 (other than items 13 and 14) commences, or is taken to have commenced, immediately after the commencement of the _A New Tax System (Goods and Services Tax Transition) Act 1999_.
 
-         The _A New Tax System (Goods and Services Tax Transition) Act 1999_ commenced on 9 July 1999.
+         The _A New Tax System (Goods and Services Tax Transition) Act 1999_ commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="9" month="7">9 July 1999</st1:date>.
 
-_(b)_    The _A New Tax System (Goods and Services Tax Transition) Act 1999_ was amended by Schedule 2 only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_, subsection 2(5) of which provides as follows:
+_(b)_    The _A New Tax System (Goods and Services Tax Transition) Act 1999_ was amended by Schedule 2 only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_, subsection 2(5) of which provides as follows:
 
-                 (5)   Schedule 2 is taken to have commenced immediately after the commencement of Schedule 6 (other than the items for which specific commencement has been provided) to the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_.
+                 (5)   Schedule 2 is taken to have commenced immediately after the commencement of Schedule 6 (other than the items for which specific commencement has been provided) to the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_.
 
 _(c)_     The _A New Tax System (Goods and Services Tax Transition) Act 1999_ was amended by the _Indirect Tax Legislation Amendment Act 2000_ , subsections 2(2) and (4) of which provide as follows:
 
-                 (2)   Section 1 and this section, and Schedules 10 and 10A (other than items 1A and 1B of Schedule 10 and item 5 of Schedule 10A), commence on the day on which this Act receives the Royal Assent.
+                 (2)   Section 1 and this section, and Schedules 10 and 10A (other than items 1A and 1B of Schedule 10 and item 5 of Schedule 10A), commence on the day on which this Act receives the Royal Assent.
 
                  (4)   Item 7 of Schedule 6, items 6 and 7 of Schedule 8, items 1A and 1B of Schedule 10 and items 13A to 16E of Schedule 11 commence immediately after the commencement of Schedule 2 to the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_.
 
-         Schedule 2 to the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_ commenced on 9 July 1999.
+         Schedule 2 to the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_ commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="9" month="7">9 July 1999</st1:date>.
 
-_(ca)_   The _Indirect Tax Legislation Amendment Act 2000_ was amended by Schedule 7 (items 16 and 17) only of the _Taxation Laws Amendment Act (No. 8) 2000_, subsection 2(7) of which provides as follows:
+_(ca)_   The _Indirect Tax Legislation Amendment Act 2000_ was amended by Schedule 7 (items 16 and 17) only of the _Taxation Laws Amendment Act (No. 8) 2000_, subsection 2(7) of which provides as follows:
 
                  (7)   Items 16 to 18 of Schedule 7 are taken to have commenced immediately after the _Indirect Tax Legislation Amendment Act 2000_ received the Royal Assent.
 
-_(d)_     The _A New Tax System (Goods and Services Tax Transition) Act 1999_ was amended by Schedule 1 (item 17) and Schedule 6 (item 41) only of the _Taxation Laws Amendment Act (No. 8) 2000_, subsections 2(1) and (2) of which provide as follows:
+_(d)_     The _A New Tax System (Goods and Services Tax Transition) Act 1999_ was amended by Schedule 1 (item 17) and Schedule 6 (item 41) only of the _Taxation Laws Amendment Act (No. 8) 2000_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                 (2)   Items 41 and 44 to 46 of Schedule 6 are taken to have commenced on 1 July 2000.
+                 (2)   Items 41 and 44 to 46 of Schedule 6 are taken to have commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
-_(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-term Non-reviewable Contracts) Act 2005_, provides as follows:
+_(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-term Non-reviewable Contracts) Act 2005_, provides as follows:<o:p></o:p>
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.<o:p></o:p>
+
+<o:p> </o:p>
 
 <table>
 <colgroup>
@@ -1778,6 +1753,8 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
       <div>
         <b>
           Commencement information
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1787,6 +1764,8 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
       <div>
         <b>
           Column 1
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1794,6 +1773,8 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
       <div>
         <b>
           Column 2
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1801,6 +1782,8 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
       <div>
         <b>
           Column 3
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1810,6 +1793,8 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
       <div>
         <b>
           Provision(s)
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1817,6 +1802,8 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
       <div>
         <b>
           Commencement
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1824,6 +1811,8 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
       <div>
         <b>
           Date/Details
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -1833,18 +1822,25 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
   <tr>
     <td>
       <div>
-        4\. Schedule 1, item 15
+        4.
+          <span style="mso-spacerun: yes"></span>Schedule 1, item 15
+          <o:p></o:p>
+
       </div>
     </td>
     <td>
       <div>
         Immediately after the start of the day on which this Act receives the
           Royal Assent.
+          <o:p></o:p>
+
       </div>
     </td>
     <td>
       <div>
-        22 February 2005
+        22 February 2005
+          <o:p></o:p>
+
       </div>
     </td>
   </tr>
@@ -1853,375 +1849,370 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
 
 ## Table of Amendments
 
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
+
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td>
-      <div>S. 5</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>am. No. 176, 1999; No. 92, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Note to s. 6(2)</div>
-    </td>
-    <td>
-      <div>ad. No. 73, 2001</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 6A</div>
+      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>ad. No. 92, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Note to s. 7(1)</div>
+      <div>S. 5 </div>
     </td>
     <td>
-      <div>ad. No. 92, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Note 3 to s. 8(1)</div>
-    </td>
-    <td>
-      <div>ad. No. 92, 2000</div>
+      <div>am. No. 176, 1999; No. 92, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 11</div>
+      <div>Note to s. 6(2) </div>
     </td>
     <td>
-      <div>am. Nos. 176 and 177, 1999; No. 92, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 3</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>ad. No. 73, 2001</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Division 1</b></div>
+      <div>S. 6A </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Div. 1 of Part 3.</div>
-    </td>
-    <td>
-      <div>ad. No. 10, 2005</div>
+      <div>ad. No. 92, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 12</div>
+      <div><b style="mso-bidi-font-weight: normal">Part 2 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>am. No. 177, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Note to s. 12(1)</div>
-    </td>
-    <td>
-      <div>ad. No. 92, 2000</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 13</div>
+      <div>Note to s. 7(1) </div>
     </td>
     <td>
-      <div>am. No. 176, 1999; No. 10, 2005; No. 58, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14</div>
-    </td>
-    <td>
-      <div>am. Nos. 176 and 177, 1999; No. 58, 2006</div>
+      <div>ad. No. 92, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 15</div>
+      <div>Note 3 to s. 8(1) </div>
     </td>
     <td>
-      <div>rs. No. 177, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 92, 2000</div>
+      <div>ad. No. 92, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Division 2</b></div>
+      <div>S. 11 </div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 2 of Part 3</div>
-    </td>
-    <td>
-      <div>ad. No. 10, 2005</div>
+      <div>am. Nos. 176 and 177, 1999; No. 92, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Subdivision A</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Part 3 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 15A, 15B</div>
-    </td>
-    <td>
-      <div>ad. No. 10, 2005</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Subdivision B</b></div>
+      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 15C–15I</div>
-    </td>
-    <td>
-      <div>ad. No. 10, 2005</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 15IA</div>
+      <div>Heading to Div. 1 of Part 3 </div>
     </td>
     <td>
-      <div>ad. No. 10, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Subdivision C</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>ad. No. 10, 2005</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Ss. 15J–15M</div>
+      <div>S. 12 </div>
     </td>
     <td>
-      <div>ad. No. 10, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 4</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>am. No. 177, 1999</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 16</div>
+      <div>Note to s. 12(1) </div>
     </td>
     <td>
-      <div>am. No. 176 and 177, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Note to s. 16(1)</div>
-    </td>
-    <td>
-      <div>ad. No. 177, 1999</div>
+      <div>ad. No. 92, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Note to s. 16(3)</div>
+      <div>S. 13 </div>
     </td>
     <td>
-      <div>ad. No. 177, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 16A</div>
-    </td>
-    <td>
-      <div>ad. No. 177, 1999</div>
+      <div>am. No. 176, 1999; No. 10, 2005</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 16AB</div>
+      <div>S. 14 </div>
     </td>
     <td>
-      <div>ad. No. 92, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 16B</div>
-    </td>
-    <td>
-      <div>ad. No. 177, 1999</div>
+      <div>am. Nos. 176 and 177, 1999</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div></div>
+      <div>S. 15 </div>
     </td>
     <td>
-      <div>am. No. 92, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 16C</div>
-    </td>
-    <td>
-      <div>ad. No. 177, 1999</div>
+      <div>rs. No. 177, 1999</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 18</div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
-      <div>am. No. 177, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 5</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>am. No. 92, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 19</div>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>am. No. 156, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19A</div>
-    </td>
-    <td>
-      <div>ad. No. 176, 1999</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 19B</div>
+      <div>Div. 2 of Part 3 </div>
     </td>
     <td>
-      <div>ad. No. 97, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 20</div>
-    </td>
-    <td>
-      <div>am. Nos. 176 and 177, 1999; No. 92, 2000; No. 73, 2001</div>
+      <div>ad. No. 10, 2005</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Heading to s. 22</div>
+      <div><b style="mso-bidi-font-weight: normal">Subdivision A <o:p></o:p> </b></div>
     </td>
     <td>
-      <div>rs. No. 67, 2003</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22</div>
-    </td>
-    <td>
-      <div>am. No. 177, 1999; No. 67, 2003</div>
+      <div><o:p> </o:p></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 23</div>
+      <div>Ss. 15A, 15B </div>
+    </td>
+    <td>
+      <div>ad. No. 10, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subdivision B <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15C–15I </div>
+    </td>
+    <td>
+      <div>ad. No. 10, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15IA </div>
+    </td>
+    <td>
+      <div>ad. No. 10, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Subdivision C <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15J–15M </div>
+    </td>
+    <td>
+      <div>ad. No. 10, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 4 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16 </div>
+    </td>
+    <td>
+      <div>am. No. 176 and 177, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 16(1) </div>
+    </td>
+    <td>
+      <div>ad. No. 177, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 16(3) </div>
+    </td>
+    <td>
+      <div>ad. No. 177, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16A </div>
+    </td>
+    <td>
+      <div>ad. No. 177, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16AB </div>
+    </td>
+    <td>
+      <div>ad. No. 92, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16B </div>
+    </td>
+    <td>
+      <div>ad. No. 177, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 92, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16C </div>
+    </td>
+    <td>
+      <div>ad. No. 177, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18 </div>
+    </td>
+    <td>
+      <div>am. No. 177, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 5 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19 </div>
+    </td>
+    <td>
+      <div>am. No. 156, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19A </div>
+    </td>
+    <td>
+      <div>ad. No. 176, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19B </div>
+    </td>
+    <td>
+      <div>ad. No. 97, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20 </div>
+    </td>
+    <td>
+      <div>am. Nos. 176 and 177, 1999; No. 92, 2000; No. 73, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 22 </div>
+    </td>
+    <td>
+      <div>rs. No. 67, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22 </div>
+    </td>
+    <td>
+      <div>am. No. 177, 1999; No. 67, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23 </div>
     </td>
     <td>
       <div>rs. Nos. 176 and 177, 1999</div>
@@ -2229,50 +2220,50 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
   </tr>
   <tr>
     <td>
-      <div></div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
-      <div>am. No. 92, 2000; No. 12, 2003</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 23A</div>
-    </td>
-    <td>
-      <div>ad. No. 177, 1999</div>
+      <div>am. No. 92, 2000; No. 12, 2003</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div></div>
+      <div>S. 23A </div>
     </td>
     <td>
-      <div>rep. No. 92, 2000</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 24A</div>
-    </td>
-    <td>
-      <div>ad. No. 177, 1999</div>
+      <div>ad. No. 177, 1999</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 24B</div>
+      <div><o:p> </o:p></div>
     </td>
     <td>
-      <div>ad. No. 92, 2000</div>
+      <div>rep. No. 92, 2000</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 24C</div>
+      <div>S. 24A </div>
     </td>
     <td>
-      <div>ad. No. 156, 2000</div>
+      <div>ad. No. 177, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24B </div>
+    </td>
+    <td>
+      <div>ad. No. 92, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24C </div>
+    </td>
+    <td>
+      <div>ad. No. 156, 2000</div>
     </td>
   </tr>
 </tbody></table>
@@ -2282,65 +2273,55 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
 
 ### Application, saving or transitional provisions
 
-_Taxation Laws Amendment Act (No. 8) 2000 (No. 156, 2000)_
+_Taxation Laws Amendment Act (No. 8) 2000 (No. 156, 2000)<o:p></o:p>_
 
-## Schedule 1
+## Schedule 1
 
 ## 18  Application
 
-The amendments made by this Schedule apply, and are taken to have applied, in relation to net amounts for tax periods starting on or after 1 July 2000.
+The amendments made by this Schedule apply, and are taken to have applied, in relation to net amounts for tax periods starting on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+* * *
 
- </div>
+_Taxation Laws Amendment Act (No. 3) 2001 (No. 73, 2001)<o:p></o:p>_
 
-_Taxation Laws Amendment Act (No. 3) 2001 (No. 73, 2001)_
-
-## Schedule 1
+## Schedule 1
 
 ## 78  Application
 
-The amendments made by this Part of this Schedule apply in relation to acquisitions and importations made on or after 23 May 2001.
+The amendments made by this Part of this Schedule apply in relation to acquisitions and importations made on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="23" month="5">23 May 2001</st1:date>.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+* * *
 
- </div>
+_Taxation Laws Amendment Act (No. 1) 2003 (No. 12, 2003)<o:p></o:p>_
 
-_Taxation Laws Amendment Act (No. 1) 2003 (No. 12, 2003)_
-
-## Schedule 4
+## Schedule 4
 
 ## 4  Application
 
-The amendments made by this Schedule apply, and are taken to have applied, in relation to net amounts for tax periods starting, or that started, on or after 1 July 2000.
+The amendments made by this Schedule apply, and are taken to have applied, in relation to net amounts for tax periods starting, or that started, on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+* * *
 
- </div>
+_Taxation Laws Amendment Act (No. 6) 2003 (No. 67, 2003)<o:p></o:p>_
 
-_Taxation Laws Amendment Act (No. 6) 2003 (No. 67, 2003)_
-
-## Schedule 11
+## Schedule 11
 
 ## 43  Application
 
 The amendments made by this Schedule apply, and are taken to have applied, in relation to net amounts for tax periods starting on or after 1 July 2000.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
-
- </div>
+* * *
 
 _Tax Laws Amendment (Long-term Non-reviewable Contracts) Act 2005 
 
-(No. 10, 2005)_
+(No. 10, 2005)<o:p></o:p>_
 
-## Schedule 1
+## Schedule 1<o:p></o:p>
 
 ## 19  Application
 
 The amendment made by item 15 of this Schedule applies to tax periods starting on or after 1 July 2000.
 
 
- 
-
- 
+<o:p> </o:p>
