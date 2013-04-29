@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2006C00522/Html/AustInstHlthWelfA1987_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00343/Html/17B382FDE1591511CA25719C002CDDB0/$FILE/image001.gif)
 
 # Australian Institute of Health and Welfare Act 1987
 
 **Act No. 41 of 1987 as amended**
 
-This compilation was prepared on 22 September 2006
- taking into account amendments up to Act No. 101 of 2006
+This compilation was prepared on 1 July 2006
+taking into account amendments up to Act No. 50 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -100,6 +102,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to establish an Australian Institute of Health and Welfare, and for related purposes
 
 ## Part I—Preliminary
@@ -136,11 +139,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  the Minister of the Crown for a State;
 
-                     (b)  the Minister of the Australian   Capital Territory; or
+                     (b)  the Minister of the Australian Capital Territory; or
 
-                     (c)  the Minister of the Northern   Territory;
+                     (c)  the Minister of the Northern Territory;
 
-who is responsible, or principally responsible, for the administration of matters relating to health in the State, the Australian   Capital Territory or the Northern Territory, as the case may be.
+who is responsible, or principally responsible, for the administration of matters relating to health in the State, the Australian Capital Territory or the Northern Territory, as the case may be.
 
                     <a name="state-hous-depart"></a>**_State Housing Department_** means the Department of State of a State or Territory that deals with matters relating to housing in the State or Territory.
 
@@ -148,9 +151,9 @@ who is responsible, or principally responsible, for the administration of matter
 
                      (a)  the Minister of the Crown for a State; or
 
-                     (b)  the Minister of the Australian   Capital Territory; or
+                     (b)  the Minister of the Australian Capital Territory; or
 
-                     (c)  the Minister of the Northern   Territory;
+                     (c)  the Minister of the Northern Territory;
 
 who is responsible, or principally responsible, for the administration of matters relating to housing in the State or Territory, as the case may be.
 
@@ -158,9 +161,9 @@ who is responsible, or principally responsible, for the administration of matter
 
                      (a)  the Minister of the Crown for a State; or
 
-                     (b)  the Minister of the Australian   Capital Territory; or
+                     (b)  the Minister of the Australian Capital Territory; or
 
-                     (c)  the Minister of the Northern   Territory;
+                     (c)  the Minister of the Northern Territory;
 
 who is responsible, or principally responsible, for the administration of matters relating to welfare in the State or Territory, as the case may be.
 
@@ -656,7 +659,7 @@ The member must make the disclosure as soon as practicable after he or she knows
 
 ##### <a id="26"></a>26  Exemption from taxation
 
-                   The income, property and transactions of the Institute are not subject to taxation under any law of the Commonwealth or of a State or Territory.
+                   The income, property and transactions of the Institute are not subject to taxation (including taxation under the _Bank Account Debits Tax Act 1982_) under any law of the Commonwealth or of a State or Territory.
 
 ## Part IV—Miscellaneous
 
@@ -790,7 +793,7 @@ shall not, except for the purposes of this Act, either directly or indirectly:
 
                      (a)  as soon as practicable after (and in any event within 6 months of) 30 June 1993, a welfare report prepared by the Institute for the period:
 
-                              (i)  beginning on the day on which the _Australian__Institute__of__Health Amendment   Act__1992_ commences; and
+                              (i)  beginning on the day on which the _Australian__Institute__of__Health Amendment Act__1992_ commences; and
 
                              (ii)  ending on 30 June 1993; and
 
@@ -826,6 +829,7 @@ during the period to which the report relates.
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed 
 
+
 # Notes to the _Australian Institute of Health and Welfare Act 1987_
 
 ### Note 1
@@ -853,11 +857,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td colspan="2">
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -867,249 +873,239 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Australian Institute of Health Act 1987</div>
-  </td>
-  <td colspan="2">
-    <div>41, 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987</div>
-  </td>
-  <td>
-    <div>1 July 1987 ( <i>see Gazette</i>1987, No. S144)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Community Services and Health Legislation Amendment Act 1988</div>
-  </td>
-  <td colspan="2">
-    <div>79, 1988</div>
-  </td>
-  <td>
-    <div>24 June 1988</div>
-  </td>
-  <td>
-    <div>Part III (ss. 7–9): Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Community Services and Health Legislation Amendment Act 1989</div>
-  </td>
-  <td colspan="2">
-    <div>95, 1989</div>
-  </td>
-  <td>
-    <div>28 June 1989</div>
-  </td>
-  <td>
-    <div>Part 2 (ss. 3–6): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations Legislation Amendment Act 1991</div>
-  </td>
-  <td colspan="2">
-    <div>122, 1991</div>
-  </td>
-  <td>
-    <div>27 June 1991</div>
-  </td>
-  <td>
-    <div>Ss. 4(1), 10(b) and 15-20: 1 Dec 1988 
+<tbody>
+  <tr>
+    <td>
+      <div>Australian Institute of Health Act 1987</div>
+    </td>
+    <td colspan="2">
+      <div>41, 1987</div>
+    </td>
+    <td>
+      <div>5 June 1987</div>
+    </td>
+    <td>
+      <div>1 July 1987 ( <i>see Gazette</i>1987, No. S144)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Community Services and Health Legislation Amendment Act 1988</div>
+    </td>
+    <td colspan="2">
+      <div>79, 1988</div>
+    </td>
+    <td>
+      <div>24 June 1988</div>
+    </td>
+    <td>
+      <div>Part III (ss. 7–9): Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Community Services and Health Legislation Amendment Act 1989</div>
+    </td>
+    <td colspan="2">
+      <div>95, 1989</div>
+    </td>
+    <td>
+      <div>28 June 1989</div>
+    </td>
+    <td>
+      <div>Part 2 (ss. 3–6): Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations Legislation Amendment Act 1991</div>
+    </td>
+    <td colspan="2">
+      <div>122, 1991</div>
+    </td>
+    <td>
+      <div>27 June 1991</div>
+    </td>
+    <td>
+      <div>Ss. 4(1), 10(b) and 15-20: 1 Dec 1988 
 Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 31(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
-  </td>
-  <td colspan="2">
-    <div>199, 1991</div>
-  </td>
-  <td>
-    <div>18 Dec 1991</div>
-  </td>
-  <td>
-    <div>18 Dec 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Institute of Health Amendment Act 1992</div>
-  </td>
-  <td colspan="2">
-    <div>16, 1992</div>
-  </td>
-  <td>
-    <div>6 Apr 1992</div>
-  </td>
-  <td>
-    <div>4 May 1992</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td colspan="2">
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 324–337): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td colspan="2">
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 195–197) 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td colspan="2">
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (items 35–37): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health Legislation Amendment Act (No. 2) 2001</div>
-  </td>
-  <td colspan="2">
-    <div>59, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 7–10): 15 Dec 1998 ( <i>see</i>s. 2(2)) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>S. 31(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Prime Minister and Cabinet Legislation Amendment Act 1991</div>
+    </td>
+    <td colspan="2">
+      <div>199, 1991</div>
+    </td>
+    <td>
+      <div>18 Dec 1991</div>
+    </td>
+    <td>
+      <div>18 Dec 1991</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Institute of Health Amendment Act 1992</div>
+    </td>
+    <td colspan="2">
+      <div>16, 1992</div>
+    </td>
+    <td>
+      <div>6 Apr 1992</div>
+    </td>
+    <td>
+      <div>4 May 1992</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td colspan="2">
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 324–337): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td colspan="2">
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 195–197) 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporate Law Economic Reform Program Act 1999</div>
+    </td>
+    <td colspan="2">
+      <div>156, 1999</div>
+    </td>
+    <td>
+      <div>24 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 10 (items 35–37): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health Legislation Amendment Act (No. 2) 2001</div>
+    </td>
+    <td colspan="2">
+      <div>59, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>Schedule 3 (items 7–10): 15 Dec 1998 ( <i>see</i>s. 2(2)) 
 Schedule 3 (item 12): 1 Jan 1999 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 4, 9) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td colspan="2">
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Health and Medical Research Council Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>50, 2006</div>
-  </td>
-  <td colspan="2">
-    <div>9 June 2006</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 July 2006 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td colspan="2">
-    <div>14 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 22) and Schedule 6 (items 5–11): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 
-5–11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 4, 9) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+    </td>
+    <td>
+      <div>159, 2001</div>
+    </td>
+    <td colspan="2">
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>29 Oct 2001</div>
+    </td>
+    <td>
+      <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Health and Medical Research Council Amendment Act 2006</div>
+    </td>
+    <td>
+      <div>50, 2006</div>
+    </td>
+    <td colspan="2">
+      <div>9 June 2006</div>
+    </td>
+    <td>
+      <div>Schedule 1: 1 July 2006 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Australian Institute of Health and Welfare Act 1987_ was amended by Part III (sections 
- 7–9) only of the _Community Services and Health Legislation Amendment Act 1988_, subsection 2(1) of which provides as follows:
+7–9) only of the _Community Services and Health Legislation Amendment Act 1988_, subsection 2(1) of which provides as follows:
 
                  (1)   Sections 1, 2, 7, 8, 9, 10, 13, 15 and 17 and paragraph 20(b) commence on the day on which this Act receives the Royal Assent.
 
 _(b)_    The _Australian Institute of Health and Welfare Act 1987_ was amended by Part 2 (sections 
- 3–6) only of the _Community Services and Health Legislation Amendment Act 1989_, subsection 2(1) of which provides as follows:
+3–6) only of the _Community Services and Health Legislation Amendment Act 1989_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2), (3), (4), (5), (6), (7), (8), (9) and (10), this Act commences on the day on which it receives the Royal Assent.
 
@@ -1128,6 +1124,7 @@ _(e)_     The _Australian Institute of Health and Welfare Act 1987_ was 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
                               (c)   the items in Schedules 10, 11 and 12.
+
 
 ## Table of Amendments
 
@@ -1152,294 +1149,289 @@ _(e)_     The _Australian Institute of Health and Welfare Act 1987_ was 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 95, 1989; No. 16, 1992; No. 152, 1997; No. 59, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 3</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1992; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 95, 1989; No. 16, 1992; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1992; Nos. 59 and 159, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>rs. No. 122, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 122, 1991; No. 16, 1992; No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 79, 1988; No. 16, 1992; No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1992; No. 152, 1997; No. 59, 2001; No. 50, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 199, 1991; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 24</div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 79, 1988; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 95, 1989; No. 16, 1992; No. 59, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 16, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 59, 2001</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 95, 1989; No. 16, 1992; No. 152, 1997; No. 59, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 3</div>
+    </td>
+    <td>
+      <div>ad. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part II</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1992; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 95, 1989; No. 16, 1992; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1992; Nos. 59 and 159, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>rs. No. 122, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 122, 1991; No. 16, 1992; No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 79, 1988; No. 16, 1992; No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1992; No. 152, 1997; No. 59, 2001; No. 50, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 199, 1991; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 24</div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 79, 1988; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>am. No. 95, 1989; No. 16, 1992; No. 59, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 16, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule</div>
+    </td>
+    <td>
+      <div>ad. No. 16, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 59, 2001</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1463,7 +1455,9 @@ The amendments made by this Part apply to appointments made after the commenceme
 
 **_former Ethics Committee_** means the Health Ethics Committee of the Australian Institute of Health and Welfare, within the meaning of the _Australian Institute of Health and Welfare Act 1987_ as in force immediately before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)_
 
@@ -1473,79 +1467,5 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (N
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
-* * *
-
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
-
-## Schedule 6
-
-## 5  Application of Schedule 5 amendments
-
-The repeals and amendments made by Schedule 5 apply to acts done or omitted to be done, or states of affairs existing, after the commencement of the amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
  
