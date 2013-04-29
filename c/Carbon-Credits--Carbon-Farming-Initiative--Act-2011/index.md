@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image001.gif)
 
 # Carbon Credits (Carbon Farming Initiative) Act 2011
 
 **Act No. 101 of 2011 as amended**
 
-This compilation was prepared on 17 August 2012
+This compilation was prepared on 30 June 2012
  taking into account amendments up to Act No. 84 of 2012
 
 The text of any of those amendments not in force
@@ -476,7 +476,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [162](#162).        Publication of concise description of the characteristics of Australian carbon credit units
 
-    **Division 3—Information about voluntary cancellation of units** 
+    **Division 3—Information about voluntary cancellation of units**
+
+[163](#163).        Information about number of voluntarily cancelled Australian carbon credit units
 
     **Division 4—Information about relinquishment requirements**
 
@@ -499,6 +501,12 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [170](#170).        Simplified outline
 
 [171](#171).        Units issued as a result of fraudulent conduct—court may order relinquishment
+
+**Part 14—Voluntary cancellation of Australian carbon credit units**
+
+[172](#172).        Simplified outline
+
+[173](#173).        Voluntary cancellation of Australian carbon credit units
 
 **Part 15—Relinquishment of Australian carbon credit units** 
 
@@ -696,7 +704,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [242](#242).        Reconsideration by the Regulator
 
-[243](#243).        Deadline for reconsideration [_see_ Note 2]
+[243](#243).        Deadline for reconsideration [_see_ Note 3]
 
 [244](#244).        Review by the Administrative Appeals Tribunal
 
@@ -816,7 +824,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [305](#305).        Administrative decisions under the regulations
 
-[306](#306).        Periodic reviews of operation of this Act etc 
+[306](#306).        Reviews of operation of this Act etc 
 
 [307](#307).        Regulations
 
@@ -1689,7 +1697,7 @@ Note:          See section 76.
 
 ##### <a id="6"></a>6  Vacancy in the office of a Domestic Offsets Integrity Committee member
 
-                   For the purposes of a reference in:
+                   For the purposes of a reference in:
 
                      (a)  this Act to a **_vacancy_** in the office of a Domestic Offsets Integrity Committee member; or
 
@@ -1741,15 +1749,15 @@ there are taken to be 4 offices of member of the Domestic Offsets Integrity Comm
 
 ### Division 1—Introduction
 
-##### <a id="10"></a>10  Simplified outline
+##### <a id="10"></a>10  Simplified outline
 
                    The following is a simplified outline of this Part:
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      Australian carbon credit units
+<li class="BoxList" style="margin-left:21.25pt">•      Australian carbon credit
 
-may be issued in relation to an eligible offsets project.</li>
+units may be issued in relation to an eligible offsets project.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The number of Australian
 
@@ -1809,7 +1817,7 @@ Note 2:       See also section 141 (issue of Australian carbon cre
 
 ### Division 3—Certificate of entitlement
 
-##### <a id="12"></a>12  Application for certificate of entitlement
+##### <a id="12"></a>12  Application for certificate of entitlement
 
                    After the end of a reporting period for an eligible offsets project, a person may apply to the Regulator for the issue to the person of a certificate of entitlement in respect of the project for the reporting period.
 
@@ -1929,7 +1937,7 @@ Unit entitlement
 
              (2)  The number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image002.gif)
 
 where:
 
@@ -1971,7 +1979,7 @@ Unit entitlement—prescribed native forest protection projects
 
              (2)  If the project is a prescribed native forest protection project, the number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image003.gif)
 
 where:
 
@@ -1997,7 +2005,7 @@ Unit entitlement—other native forest protection projects
 
              (3)  If the project is not a prescribed native forest protection project, the number to be specified in a certificate of entitlement in respect of the project for a reporting period as the unit entitlement in respect of the certificate is the number worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image004.gif)
 
 where:
 
@@ -2867,7 +2875,7 @@ this Act has effect, and is taken always to have had effect, as if the Minister 
 
                    For the purposes of this Act, the **_net total number_** of Australian carbon credit units issued in relation to an eligible offsets project in accordance with Part 2 is the number worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image005.gif)
 
 ### Division 8—Applicable carbon sequestration right
 
@@ -3977,11 +3985,11 @@ Determination is not a legislative instrument
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      The project proponent for
+<li class="BoxList" style="margin-left:21.25pt">•      The project proponent for an
 
-an eligible offsets project must give the Regulator an offsets report for a
+eligible offsets project must give the Regulator an offsets report for a period
 
-period that is expressed to be a reporting period for the project.</li>
+that is expressed to be a reporting period for the project.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The first reporting period
 
@@ -6693,6 +6701,14 @@ certain information about the operation of this Act.</li>
 
 ### Division 3—Information about voluntary cancellation of units
 
+##### <a id="163"></a>163  Information about number of voluntarily cancelled Australian carbon credit units
+
+                   As soon as practicable after one or more Australian carbon credit units held by a person are cancelled under section 173, the Regulator must publish on the Regulator’s website:
+
+                     (a)  the name of the person; and
+
+                     (b)  the total number of Australian carbon credit units cancelled.
+
 ### Division 4—Information about relinquishment requirements
 
 ##### <a id="164"></a>164  Information about relinquishment requirements
@@ -6993,6 +7009,46 @@ Spent convictions
 
              (9)  Nothing in this section affects the operation of Part VIIC of the _Crimes Act 1914_ (which includes provisions that, in certain circumstances, relieve persons from the requirement to disclose spent convictions and require persons aware of such convictions to disregard them).
 
+## Part 14—Voluntary cancellation of Australian carbon credit units
+
+##### <a id="172"></a>172  Simplified outline
+
+                   The following is a simplified outline of this Part:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt">•      If a person is the
+
+registered holder of one or more Australian carbon credit units, the person may
+
+request the Regulator to cancel any or all of those units.</li>
+
+* * *
+
+##### <a id="173"></a>173  Voluntary cancellation of Australian carbon credit units
+
+             (1)  If a person is the registered holder of one or more Australian carbon credit units, the person may, by electronic notice transmitted to the Regulator, request the Regulator to cancel any or all of those units.
+
+             (2)  A notice under subsection (1) must:
+
+                     (a)  specify the Australian carbon credit unit or units that are to be cancelled; and
+
+                     (b)  specify the account number or account numbers of the person’s Registry account, or the person’s Registry accounts, in which there is an entry or entries for the Australian carbon credit unit or units that are to be cancelled.
+
+             (3)  If the Regulator receives a notice under subsection (1) in relation to an Australian carbon credit unit:
+
+                     (a)  the unit is cancelled; and
+
+                     (b)  the Regulator must remove the entry for the unit from the person’s Registry account in which there is an entry for the unit; and
+
+                     (c)  if the unit is a Kyoto Australian carbon credit unit:
+
+                              (i)  the Minister must, by written notice given to the Regulator, direct the Regulator to transfer a Kyoto unit from a Commonwealth holding account to a voluntary cancellation account before the end of the true‑up period for the relevant commitment period; and
+
+                             (ii)  the Regulator must comply with a direction under subparagraph (i).
+
+             (4)  The Registry must set out a record of each notice under subsection (1).
+
 ## Part 15—Relinquishment of Australian carbon credit units
 
 ### Division 1—Introduction
@@ -7255,7 +7311,7 @@ No units relinquished
 
              (2)  If, by the compliance deadline, the person has not relinquished any Australian carbon credit units in order to comply with the requirement, the person is liable to pay to the Commonwealth, by way of penalty, an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image006.gif)
 
 where:
 
@@ -7277,7 +7333,7 @@ Relinquishment of insufficient units
 
 the person is liable to pay to the Commonwealth, by way of penalty, an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00608/Html/6edaab38-a5d8-4318-af54-7d06b9e814c6_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00599/Html/c9dd63b1-e3ae-4fa9-a6e1-ed9b6c12719e_files/image007.gif)
 
 where:
 
@@ -7521,11 +7577,9 @@ a person to:</li>
 
               (b)     retain the record.
 
-<li class="BoxList" style="margin-left:21.25pt">•      A person is subject to
+<li class="BoxList" style="margin-left:21.25pt">•      A person is subject to record‑keeping
 
-record‑keeping requirements in relation to the preparation of an offsets
-
-report.</li>
+requirements in relation to the preparation of an offsets report.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      A project proponent must
 
@@ -7537,7 +7591,7 @@ methodology determination.</li>
 
 ### Division 2—Record‑keeping requirements
 
-##### <a id="191"></a>191  Record‑keeping requirements—general
+##### <a id="191"></a>191  Record‑keeping requirements—general
 
              (1)  The regulations may require a person to:
 
@@ -8825,11 +8879,11 @@ Objective purpose
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      A person may give the Regulator
+<li class="BoxList" style="margin-left:21.25pt">•      A person may give the
 
-an enforceable undertaking about compliance with this Act or the associated
+Regulator an enforceable undertaking about compliance with this Act or the
 
-provisions.</li>
+associated provisions.</li>
 
 * * *
 
@@ -8883,11 +8937,11 @@ the Regulator may apply to the Federal Court for an order under subsection (2)
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      Certain decisions of delegates
+<li class="BoxList" style="margin-left:21.25pt">•      Certain decisions of
 
-of the Regulator may be reviewed by the Administrative Appeals Tribunal
+delegates of the Regulator may be reviewed by the Administrative Appeals
 
-following a process of internal reconsideration by the Regulator.</li>
+Tribunal following a process of internal reconsideration by the Regulator.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Certain decisions of the
 
@@ -9183,7 +9237,7 @@ Application
 
              (4)  Within 28 days after making the decision on the reconsideration, the Regulator must give the applicant a written statement of the Regulator’s reasons for the decision.
 
-##### <a id="243"></a>243  Deadline for reconsideration [_see_ Note 2]
+##### <a id="243"></a>243  Deadline for reconsideration [_see_ Note 3]
 
              (1)  The Regulator must make its decision on reconsideration of a decision within 90 days after receiving an application for reconsideration.
 
@@ -9905,7 +9959,7 @@ Conditions
 
              (8)  An instrument under subsection (6) is not a legislative instrument.
 
-##### <a id="283"></a>283  Disclosure for purposes of law enforcement—protected DOIC information
+##### <a id="283"></a>283  Disclosure for purposes of law enforcement—protected DOIC information
 
 Scope
 
@@ -10299,9 +10353,9 @@ to the fulfilment of Australia’s obligations under paragraph (h) of Article 
 
                    The regulations may make provision in relation to a matter by conferring a power to make a decision of an administrative character on the Regulator.
 
-##### <a id="306"></a>306  Periodic reviews of operation of this Act etc.
+##### <a id="306"></a>306  Reviews of operation of this Act etc.
 
-             (1)  The Climate Change Authority must conduct reviews of the operation of:
+             (1)  The Minister must cause to be conducted reviews of the operation of:
 
                      (a)  this Act; and
 
@@ -10315,49 +10369,17 @@ Public consultation
 
 Report
 
-             (3)  The Climate Change Authority must:
+             (3)  The Minister must cause to be prepared a report of a review under subsection (1).
 
-                     (a)  give the Minister a report of the review; and
-
-                     (b)  as soon as practicable after giving the report to the Minister, publish the report on the Climate Change Authority’s website.
-
-             (4)  The Minister must cause copies of a report under subsection (3) to be tabled in each House of the Parliament within 15 sitting days of that House after the review is completed.
+             (4)  The Minister must cause copies of a report under subsection (3) to be tabled in each House of the Parliament within 15 sitting days of that House after the completion of the preparation of the report.
 
 First review
 
-             (5)  The first review under subsection (1) must be completed before the end of 31 December 2014.
+             (5)  The report of the first review under subsection (1) must be tabled under subsection (4) before the end of 31 December 2014.
 
 Subsequent reviews
 
-             (6)  Each subsequent review under subsection (1) must be completed within 3 years after the deadline for completion of the previous review.
-
-             (7)  For the purposes of subsections (4), (5) and (6), a review is completed when the report of the review is given to the Minister under subsection (3).
-
-Recommendations
-
-             (8)  A report of a review under subsection (1) may set out recommendations to the Commonwealth Government.
-
-             (9)  In formulating a recommendation that the Commonwealth Government should take particular action, the Climate Change Authority must analyse the costs and benefits of that action.
-
-           (10)  Subsection (9) does not prevent the Climate Change Authority from taking other matters into account in formulating a recommendation.
-
-           (11)  If a report of a review under subsection (1) sets out one or more recommendations to the Commonwealth Government, the report must set out the Climate Change Authority’s reasons for those recommendations.
-
-Government response to recommendations
-
-           (12)  If a report of a review under subsection (1) sets out one or more recommendations to the Commonwealth Government:
-
-                     (a)  as soon as practicable after receiving the report, the Minister must cause to be prepared a statement setting out the Commonwealth Government’s response to each of the recommendations; and
-
-                     (b)  within 6 months after receiving the report, the Minister must cause copies of the statement to be tabled in each House of the Parliament.
-
-           (13)  The Commonwealth Government’s response to the recommendations may have regard to the views of the following:
-
-                     (a)  the Climate Change Authority;
-
-                     (b)  the Clean Energy Regulator;
-
-                     (c)  such other persons as the Minister considers relevant.
+             (6)  The report of each subsequent review under subsection (1) must be tabled under subsection (4) within 3 years after the report of the previous review was tabled under subsection (4).
 
 ##### <a id="307"></a>307  Regulations
 
@@ -10438,7 +10460,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 1 (items 51–59, 
 61–97, 99, 215A, 220A): 2 Apr 2012 ( <i>see</i>s. 2(1)) 
-Schedule 1 (items 257–258A): 1 July 2012 
+Schedule 1 (items 257–258A): \[ <i>see</i>Note 2] 
 Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
@@ -11440,14 +11462,6 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 4</b></div>
   </td>
   <td>
@@ -11512,42 +11526,18 @@ Schedule 5: 8 Dec 2011 ( <i>see</i>s. 2(1))</div>
 </tr>
 <tr>
   <td>
-    <div>Part 14</div>
+    <div><b>Part 14</b></div>
   </td>
-  <td>
-    <div>rep. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 172</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
   <td>
     <div></div>
   </td>
-  <td>
-    <div>rep. No. 132, 2011</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>S. 173</div>
+    <div>Ss. 172, 173</div>
   </td>
   <td>
     <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 132, 2011</div>
   </td>
 </tr>
 <tr>
@@ -12030,17 +12020,91 @@ Part 24</div>
   <td>
     <div>am. No. 132, 2011</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 306</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
 </tr></table>
 
 ### Note 2
+
+_Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
+
+The following amendments commence on 1 July 2012:
+
+## Schedule 1
+
+## 257  Section 163
+
+Repeal the section.
+
+## 258  Part 14
+
+Repeal the Part.
+
+## 258A  Section 306
+
+Repeal the section, substitute:
+
+##### <a id="306"></a>306  Periodic reviews of operation of this Act etc.
+
+             (1)  The Climate Change Authority must conduct reviews of the operation of:
+
+                     (a)  this Act; and
+
+                     (b)  the regulations; and
+
+                     (c)  other instruments made under this Act.
+
+Public consultation
+
+             (2)  A review under subsection (1) must make provision for public consultation.
+
+Report
+
+             (3)  The Climate Change Authority must:
+
+                     (a)  give the Minister a report of the review; and
+
+                     (b)  as soon as practicable after giving the report to the Minister, publish the report on the Climate Change Authority’s website.
+
+             (4)  The Minister must cause copies of a report under subsection (3) to be tabled in each House of the Parliament within 15 sitting days of that House after the review is completed.
+
+First review
+
+             (5)  The first review under subsection (1) must be completed before the end of 31 December 2014.
+
+Subsequent reviews
+
+             (6)  Each subsequent review under subsection (1) must be completed within 3 years after the deadline for completion of the previous review.
+
+             (7)  For the purposes of subsections (4), (5) and (6), a review is completed when the report of the review is given to the Minister under subsection (3).
+
+Recommendations
+
+             (8)  A report of a review under subsection (1) may set out recommendations to the Commonwealth Government.
+
+             (9)  In formulating a recommendation that the Commonwealth Government should take particular action, the Climate Change Authority must analyse the costs and benefits of that action.
+
+           (10)  Subsection (9) does not prevent the Climate Change Authority from taking other matters into account in formulating a recommendation.
+
+           (11)  If a report of a review under subsection (1) sets out one or more recommendations to the Commonwealth Government, the report must set out the Climate Change Authority’s reasons for those recommendations.
+
+Government response to recommendations
+
+           (12)  If a report of a review under subsection (1) sets out one or more recommendations to the Commonwealth Government:
+
+                     (a)  as soon as practicable after receiving the report, the Minister must cause to be prepared a statement setting out the Commonwealth Government’s response to each of the recommendations; and
+
+                     (b)  within 6 months after receiving the report, the Minister must cause copies of the statement to be tabled in each House of the Parliament.
+
+           (13)  The Commonwealth Government’s response to the recommendations may have regard to the views of the following:
+
+                     (a)  the Climate Change Authority;
+
+                     (b)  the Clean Energy Regulator;
+
+                     (c)  such other persons as the Minister considers relevant.
+
+As at 30 June 2012 the amendments are not incorporated in this compilation.
+
+### Note 3
 
 Subsection 243(2)—Schedule 1 (item 62) of the _Clean Energy (Consequential Amendments) Act 2011_ (No. 132, 2011) provides as follows:
 
