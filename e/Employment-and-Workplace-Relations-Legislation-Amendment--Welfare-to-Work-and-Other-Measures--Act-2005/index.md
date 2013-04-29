@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00128/Html/44DFB2761E86C366CA25714E0000883B/$FILE/image001.gif)
 
 # Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) Act 2005
 
 **Act No. 154 of 2005 as amended**
 
-This compilation was prepared on 1 July 2006
+This compilation was prepared on 27 March 2006
 
-**\[This Act was amended by SLI 2006 No. 50; Act No. 64 of 2006]**
+**\[This Act was amended by SLI 2006 No. 50]**
 
 **Amendments from SLI 2006 No. 50**
 
@@ -15,36 +15,18 @@ Schedule 13 (item 2) amended Schedule 2 (item 10);
 Schedule 13 (items 3–5) amended Schedule 4 (item 7);
 Schedule 13 (items 6 and 7) amended Schedule 5 (item 15);
 Schedule 13 (items 8 and 9) amended Schedule 7 (item 28);
-Schedule 13 (items 10 and 11) amended Schedule 8 (item 2);
+Schedule 13 (item
+
+s 10 and 11) amended Schedule 8 (item 2);
 Schedule 13 (item 12) amended Schedule 8 (item 3);
-Schedule 13 (items 13 and 14) amended Schedule 10 (item 11);
-Schedule 13 (items 15–22) amended Schedule 11 (item 2);
+Schedule 13 (item
+
+s 13 and 14) amended Schedule 10 (item 11);
+Schedule 13 (item
+s 15–22) amended Schedule 11 (item 2);
 Schedule 13 (item 23) amended Schedule 11 (item 8);
 
 Schedule 3 (items 1 to 23) commenced on 27 March 2006]
-
-**Amendments from Act No. 64 of 2006**
-
-\[Schedule 14 (item 4) amended Schedule 7 (item 74);
-Schedule 14 (item 5) amended Schedule 7 (item 77);
-Schedule 14 (item 11) amended Schedule 22 (item 31);
-Schedule 14 (item 12) repealed and substituted Schedule 22 (item 36);
-Schedule 14 (items 4, 5, 11, 12) commenced on 
-
-1 July 2006;
-
-(These amendments are incorporated into this compilation.)
-
-Schedule 14 (item 6) amends Schedule 16 (item 8);
-Schedule 14 (item 7) amends Schedule 17 (item 33);
-Schedule 14 (item 8) amends Schedule 18 (item 21);
-Schedule 14 (item 9) amends Schedule 19 (item 27);
-Schedule 14 (item 10) amends Schedule 20 (item 35);
-Schedule 14 (items 6–10) commences on 
-
-20 September 2006;
-
-(These amendments are not incorporated into this compilation.)]
 
 Prepared by the Office of Legislative Drafting and Publishing,
 Attorney-General’s Department, 
@@ -1669,7 +1651,7 @@ the rate of the person’s disability support pension is increased by an amount 
 
 merely by participating in an approved program of work for income support payment in accordance with the terms of an agreement with the Secretary for the purposes of this Part.
 
-## 17  Subparagraph 1223(7)(b)(iv)
+## 17  Subparagraph 1223(7)(b)(iv)
 
 Before “parenting payment” (wherever occurring), insert “disability support pension,”.
 
@@ -2645,7 +2627,7 @@ To avoid doubt, any participation agreement breach non-payment period that, imme
 
 Repeal the Subdivision.
 
-## 12  Termination of participation agreement breach rate reduction periods
+## 12  Termination of participation agreement breach rate reduction periods
 
 To avoid doubt, any participation agreement breach rate reduction period that, immediately before the commencement of this item, is in force comes to an end on that commencement.
 
@@ -2957,7 +2939,7 @@ Repeal the subsection.
 
 Insert:
 
-##### <a id="542BA"></a>542BA  Time limit for temporary incapacity exemptions—capacity to undertake activity
+##### <a id="542BA"></a>542BA  Time limit for temporary incapacity exemptions—capacity to undertake activity
 
 General
 
@@ -3257,7 +3239,7 @@ Revocation of requirement to participate in an approved program of work
 
 Repeal the sections, substitute:
 
-##### <a id="544C"></a>544C  Youth Allowance Activity Agreements—principal carers
+##### <a id="544C"></a>544C  Youth Allowance Activity Agreements—principal carers
 
              (1)  A Youth Allowance Activity Agreement that:
 
@@ -4051,7 +4033,7 @@ Omit “is taking reasonable steps to comply with”, substitute “is complying
 
 Repeal the note.
 
-## 7  Subsection 593(1) (note 3)
+## 7  Subsection 593(1) (note 3)
 
 Omit “604 to 607”, substitute “605 and 606”.
 
@@ -4557,7 +4539,7 @@ Insert:
 
           (2C)  Subsections (1) and (2) do not apply to a person at a time during which, under section 602B or 602C, the person is not required to satisfy the activity test.
 
-## 62  At the end of section 605
+## 62  At the end of section 605
 
 Add:
 
@@ -4927,7 +4909,7 @@ the period for which newstart allowance is not payable to the person starts at t
 
                      (b)  on that commencement, the activity test penalty period had not ended;
 
-the activity test penalty period continues to apply to the person after that commencement as if that Subdivision, sections 631A and 631B of that Act and Subdivision GB of Division 1 of Part 2.12 of that Act had not been repealed by this Act.
+the activity test penalty period continues to apply to the person after that commencement as if that Subdivision had not been repealed by this Act.
 
 (2)        In this item:
 
@@ -4961,7 +4943,7 @@ Repeal the section, substitute:
 
                      (b)  on that commencement, the administrative breach rate reduction period had not ended;
 
-the administrative breach rate reduction period continues to apply to the person after that commencement as if that section, sections 631A and 631B of that Act and Subdivision GB of Division 1 of Part 2.12 of that Act had not been repealed by this Act.
+the administrative breach rate reduction period continues to apply to the person after that commencement as if that section had not been repealed by this Act.
 
 (2)        In this item:
 
@@ -5043,7 +5025,7 @@ Repeal the item.
 
 <h9 class="ActHead9">Social Security Act 1991</h9>
 
-## 1  At the end of subsection 661(1)
+## 1  At the end of subsection 661(1)
 
 Add:
 
@@ -5297,7 +5279,7 @@ Omit “661, 664A,”, substitute “661, 663, 663B, 663D, 663F, 664A, 664BA,”
 
 After “661”, insert “, 663”.
 
-## 6  Subsection 665(3)
+## 6  Subsection 665(3)
 
 After “section”, insert “663D,”.
 
@@ -7406,11 +7388,11 @@ Facts:            Alice’s partner Martin has an ordinary
 
 Result:           Martin’s ordinary income exceeds the partner income free area. Alice therefore has a partner income excess under point 1067G-H27 of:
 
-![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00128/Html/44DFB2761E86C366CA25714E0000883B/$FILE/image002.gif)
 
                       Alice’s partner income reduction under point 1067G-H28 is therefore:
 
-![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00128/Html/44DFB2761E86C366CA25714E0000883B/$FILE/image003.gif)
 
 ## 3  Points 1067G-H32 and 1067G-H33
 
@@ -7458,7 +7440,7 @@ Insert:
 
 the person’s maximum basic rate is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00128/Html/44DFB2761E86C366CA25714E0000883B/$FILE/image004.gif)
 
 where:
 
@@ -7772,11 +7754,11 @@ Facts:            Alice’s partner Martin has an ordinary
 
 Result:           Martin’s ordinary income exceeds the partner income free area. Alice therefore has a partner income excess under point 1067L-D26 of:
 
-![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00128/Html/44DFB2761E86C366CA25714E0000883B/$FILE/image002.gif)
 
                       Alice’s partner income reduction under point 1067L-D27 is therefore:
 
-![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00128/Html/44DFB2761E86C366CA25714E0000883B/$FILE/image003.gif)
 
 ## 3  Point 1067L-D32
 
@@ -7914,11 +7896,11 @@ _Facts:_ Susan’s partner Colin has an ordinary income of $800\. Assume that th
 
 _Application:_ Colin’s ordinary income exceeds the partner income free area. He therefore has a partner income excess under point 1068-G10 of:
 
-![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00128/Html/44DFB2761E86C366CA25714E0000883B/$FILE/image002.gif)
 
                      Susan’s partner income reduction under point 1068-G11 is therefore:
 
-![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00128/Html/44DFB2761E86C366CA25714E0000883B/$FILE/image003.gif)
 
 ## 3  Point 1068-G15
 
@@ -7958,7 +7940,7 @@ Maximum basic rate for certain newstart allowance recipients
 
 the person’s maximum basic rate is the amount worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2006C00387/Html/1AADA84793752FCCCA2571A1000D8E53/$FILE/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00128/Html/44DFB2761E86C366CA25714E0000883B/$FILE/image004.gif)
 
 where:
 
@@ -8264,7 +8246,7 @@ _Note:       The heading to point 1068B-D11 is altered by omitting �
 
 Omit “leave” (last occurring).
 
-## 25  Point 1068B-D13
+## 25  Point 1068B-D13
 
 Omit “leave”, substitute “termination”.
 
@@ -8764,7 +8746,7 @@ Omit “give a person notice”, substitute “notify a person”.
 
 ## 31  Paragraph 64(4)(a)
 
-Omit “gives a person a notice”, substitute “”.
+Omit “gives a person notice”, substitute “notifies a person”.
 
 ## 32  Subsection 64(4)
 
@@ -8808,15 +8790,25 @@ Note:          Failure by a recipient of, or claimant for, one
 
 Omit “notice”, substitute “notification”.
 
-36  After subsection 80(3)
+## 36  At the end of section 80
 
-Insert:
+Add:
 
-          (3A)  Subsection (1) does not authorise the Secretary to make a determination that cancels the payment of a parenting payment, youth allowance, austudy payment, newstart allowance or special benefit to a person if:
+             (4)  Subsection (1) does not authorise the Secretary to make a determination that cancels the payment of a parenting payment, youth allowance, austudy payment, newstart allowance or special benefit to a person if:
 
                      (a)  paragraph (1)(a) does not apply to the person; and
 
-                     (b)  paragraph (1)(b) applies only because of the application of a compliance penalty period.
+                     (b)  paragraph (1)(b) would not apply to the person but for the fact that the payment is not, or was not, payable because of:
+
+                              (i)  section 500ZB or 500ZE of the 1991 Act (if the payment is a parenting payment); or
+
+                             (ii)  section 550B or 551 of that Act (if the payment is a youth allowance); or
+
+                            (iii)  section 576A or 577 of that Act (if the payment is an austudy payment); or
+
+                            (iv)  section 626 or 629 of that Act (if the payment is a newstart allowance); or
+
+                             (v)  section 742 or 745 of that Act (if the payment is a special benefit).
 
 ## 37  At the end of section 109
 
@@ -9066,9 +9058,9 @@ Repeal the subsection.
 
 [_Minister’s second reading speech made in—_
 
-_House of Representatives on__9 November 2005_
+_House of Representatives on 9 November 2005_
 
-_Senate on__1 December 2005_]
+_Senate on 1 December 2005_]
 
 <div>
 
