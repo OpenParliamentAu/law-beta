@@ -1,7 +1,7 @@
 
 Immigration (Guardianship of Children) Act 1946
 Act No. 45 of 1946 as amended
-This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 137 of 2000
+This compilation was prepared on 17 October 2000 taking into account amendments up to Act No. 45 of 1994
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -21,12 +21,13 @@ Contents
 7	Custody of non‑citizen children	4
 8	Saving of application of State laws	5
 9	Offences in respect of non‑citizen child	5
-10	False statements in applications	5
+10	False statements in application	5
 11	Exemption of children from Act	5
 11A	Reconsideration and review of certain decisions	6
 11B	Statements to accompany notification of certain decisions	7
 12	Regulations	7
 Notes		9
+
 An Act to make provision for and in connexion with the Guardianship of certain alien children
 1  Short title [see Note 1]
 		This Act may be cited as the Immigration (Guardianship of Children) Act 1946.
@@ -96,8 +97,9 @@ and that person shall thereupon become the custodian of that child.
 	(a)	remove any non‑citizen child, or counsel or cause any non‑citizen child to be withdrawn or to abscond, from the custody of his custodian; or
 	(b)	knowing any non‑citizen child to have been so removed or withdrawn or to have so absconded, harbour or conceal the child or prevent him from returning to his custodian.
 Penalty:	Two hundred dollars or imprisonment for six months.
-10  False statements in applications
-		For the purposes of section 136.1 of the Criminal Code, an application made for the purposes of this Act is taken to be an application for a benefit.
+10  False statements in application
+		A person shall not, in any application made for the purposes of this Act, make any statement which is false in any material particular.
+Penalty:	Two hundred dollars or imprisonment for six months.
 11  Exemption of children from Act
 		The Minister may, by order in writing under his hand, direct that the provisions of this Act shall not apply in respect of a child specified in the order, or a child included in a class of children so specified, and, while the order is in force, the provisions of this Act do not apply to or in relation to that child or to a child included in that class of children.
 11A  Reconsideration and review of certain decisions
@@ -139,17 +141,19 @@ reviewable decision means:
 Notes to the Immigration (Guardianship of Children) Act 1946
 Note 1
 The Immigration (Guardianship of Children) Act 1946 as shown in this compilation comprises Act No. 45, 1946 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
+
 Immigration (Guardianship of Children) Act 1946
 45, 1946
 15 Aug 1946
-30 Dec 1946 (see Gazette 1946, p. 3598)
+30 Dec 1946 (see Gazette 1946, p. 3598)
 
 Immigration (Guardianship of Children) Act 1948
 62, 1948
@@ -174,7 +178,7 @@ Ss. 9(1) and 10
 Migration (Miscellaneous Amendments) Act 1983
 84, 1983
 14 Nov 1983
-Part V (ss. 9‑20): 2 Apr 1984 (see s. 2(1) and Gazette 1984, No. S119) (a)
+Part V (ss. 9‑20): 2 Apr 1984 (see s. 2(1) and Gazette 1984, No. S119) (a)
 S. 20
 Statute Law (Miscellaneous Provisions) Act (No. 1) 1985
 65, 1985
@@ -186,11 +190,6 @@ Immigration (Guardianship of Children) Amendment Act 1994
 15 Mar 1994
 12 Apr 1994
 — 
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
-137, 2000
-24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
-Sch. 2 (items 418, 419) [see Table A]
 (a)	The Immigration (Guardianship of Children) Act 1946 was amended by Part V (sections 9‑20) only of the Migration (Miscellaneous Amendments) Act 1983, subsection 2(1) of which provides as follows:
 	(1)	Subject to subsection (2), this Act shall come into operation on the day on which the Migration Amendment Act 1983 comes into operation.
 (b)	The Immigration (Guardianship of Children) Act 1946 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(24) of which provides as follows:
@@ -199,6 +198,7 @@ Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
+
 Title	
 am. No. 84, 1983
 S. 3	
@@ -229,29 +229,10 @@ S. 9
 am. No. 93, 1966; No. 84, 1983
 S. 10	
 am. No. 93, 1966
-
-rs. No. 137, 2000
 S. 11	
 rs. No. 29, 1952
 Ss. 11A, 11B	
 ad. No. 65, 1985
 S. 12	
 am. No. 62, 1948; No. 93, 1966; No. 216, 1973; No. 84, 1983; No. 65, 1985 
-Table A
-Application, saving or transitional provisions
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-Schedule 2
-418  Transitional—pre‑commencement offences
-(1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-	(a)	an offence committed before the commencement of this item; or
-	(b)	proceedings for an offence alleged to have been committed before the commencement of this item; or
-	(c)	any matter connected with, or arising out of, such proceedings;
-as if the amendment or repeal had not been made.
-(2)	Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-419  Transitional—pre‑commencement notices
-If:
-	(a)	a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-	(b)	any or all of those other provisions are repealed by this Schedule; and
-	(c)	the first‑mentioned provision is amended by this Schedule;
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
