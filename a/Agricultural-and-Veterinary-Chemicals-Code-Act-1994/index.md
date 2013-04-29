@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00119/Html/027352b4-8ee0-499f-9c06-3240368c5a3c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00054/Html/AgrVetChemCode1994_WD02_image001.gif)
 
 # Agricultural and Veterinary Chemicals Code Act 1994
 
 **Act No. 47 of 1994 as amended**
 
-This compilation was prepared on 1 March 2011
+This compilation was prepared on 1 January 2011
  taking into account amendments up to Act No. 121 of 2010
 
 The text of any of those amendments not in force
@@ -276,7 +276,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [56S](#56S).        Who may apply
 
-[56T](#56T).        How application is to be made
+[56T](#56T).       How application is to be made
 
 [56U](#56U).       Grant or refusal of application
 
@@ -290,25 +290,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [56Y](#56Y).       APVMA may require trials or laboratory experiments to be conducted
 
-[56Z](#56Z).        Reconsideration by APVMA of continued listed registration
+[56Z](#56Z).       Reconsideration by APVMA of continued listed registration
 
     **Division 7—Suspension or cancellation of listed registration**
 
-[56ZA](#56ZA).     Notice of proposed suspension or cancellation to be given to co-ordinators
+[56ZA](#56ZA).    Notice of proposed suspension or cancellation to be given to co-ordinators
 
 [56ZB](#56ZB).     Suspension or cancellation of listed registration for breach of condition
 
 [56ZC](#56ZC).     Suspension of listed registration for failing to give information, or results of trials or experiments, to APVMA
 
-[56ZD](#56ZD).     Suspension of listed registration for failing to give information, report or sample to APVMA
+[56ZD](#56ZD).    Suspension of listed registration for failing to give information, report or sample to APVMA
 
 [56ZE](#56ZE).     Suspension or cancellation of listed registration following reconsideration
 
 [56ZF](#56ZF).     Suspension or cancellation of listed registration for non-compliance with criteria
 
-[56ZG](#56ZG).     Cancellation of listed registration on request
+[56ZG](#56ZG).    Cancellation of listed registration on request
 
-[56ZH](#56ZH).     Effect of suspension of listed registration
+[56ZH](#56ZH).    Effect of suspension of listed registration
 
 [56ZI](#56ZI).      How listed registration is suspended or cancelled
 
@@ -316,21 +316,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 8—Duration and renewal of listed registration**
 
-[56ZK](#56ZK).     Period of listed registration
+[56ZK](#56ZK).    Period of listed registration
 
 [56ZL](#56ZL).     Application for renewal of listed registration of chemical product
 
-[56ZM](#56ZM).    How application for renewal of listed registration is to be made
+[56ZM](#56ZM).   How application for renewal of listed registration is to be made
 
-[56ZN](#56ZN).     Renewal of listed registration of chemical product
+[56ZN](#56ZN).    Renewal of listed registration of chemical product
 
     **Division 9—Publication of notices and certain other instruments by APVMA**
 
-[56ZO](#56ZO).     Publication of notice of listed registration of chemical product
+[56ZO](#56ZO).    Publication of notice of listed registration of chemical product
 
 [56ZP](#56ZP).     Publication of notice of variations of listed registration of chemical product
 
-[56ZQ](#56ZQ).     Publication of notice of end of listed registration of chemical product
+[56ZQ](#56ZQ).    Publication of notice of end of listed registration of chemical product
 
 [56ZR](#56ZR).     Publication of notice of suspension or cancellation of listed registration
 
@@ -340,7 +340,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 2B—Reserved chemical products**
 
-[56ZU](#56ZU).     Regulations may contain schedule of reserved chemical products
+[56ZU](#56ZU).    Regulations may contain schedule of reserved chemical products
 
 **Part 3—Compensation for provider of certain information in respect of continued registration of certain chemical products** 
 
@@ -1050,7 +1050,7 @@ _Section_
 
 56S      Who may apply
 
-56T      How application is to be made
+56T     How application is to be made
 
 56U     Grant or refusal of application
 
@@ -1064,25 +1064,25 @@ _Section_
 
 56Y     APVMA may require trials or laboratory experiments to be conducted
 
-56Z      Reconsideration by APVMA of continued listed registration
+56Z     Reconsideration by APVMA of continued listed registration
 
 **Division 7—Suspension or cancellation of listed registration**
 
-56ZA   Notice of proposed suspension or cancellation to be given to co-ordinators
+56ZA  Notice of proposed suspension or cancellation to be given to co-ordinators
 
 56ZB   Suspension or cancellation of listed registration for breach of condition
 
 56ZC   Suspension of listed registration for failing to give information, or results of trials or experiments, to APVMA
 
-56ZD   Suspension of listed registration for failing to give information, report or sample to APVMA
+56ZD  Suspension of listed registration for failing to give information, report or sample to APVMA
 
 56ZE   Suspension or cancellation of listed registration following reconsideration
 
 56ZF   Suspension or cancellation of listed registration for non-compliance with criteria
 
-56ZG   Cancellation of listed registration on request
+56ZG  Cancellation of listed registration on request
 
-56ZH   Effect of suspension of listed registration
+56ZH  Effect of suspension of listed registration
 
 56ZI    How listed registration is suspended or cancelled
 
@@ -1090,21 +1090,21 @@ _Section_
 
 **Division 8—Duration and renewal of listed registration**
 
-56ZK   Period of listed registration
+56ZK  Period of listed registration
 
 56ZL   Application for renewal of listed registration of chemical product
 
-56ZM  How application for renewal of listed registration is to be made
+56ZM How application for renewal of listed registration is to be made
 
-56ZN   Renewal of listed registration of chemical product
+56ZN  Renewal of listed registration of chemical product
 
 **Division 9—Publication of notices and certain other instruments by APVMA**
 
-56ZO   Publication of notice of listed registration of chemical product
+56ZO  Publication of notice of listed registration of chemical product
 
 56ZP   Publication of notice of variations of listed registration of chemical product
 
-56ZQ   Publication of notice of end of listed registration of chemical product
+56ZQ  Publication of notice of end of listed registration of chemical product
 
 56ZR   Publication of notice of suspension or cancellation of listed registration
 
@@ -1114,7 +1114,7 @@ _Section_
 
 **Part 2B—Reserved chemical products**
 
-56ZU   Regulations may contain schedule of reserved chemical products
+56ZU  Regulations may contain schedule of reserved chemical products
 
 **Part 3—Compensation for provider of certain information in respect of continued registration of certain chemical products**
 
@@ -2174,7 +2174,7 @@ but does not include:
 
                      (b)  if the jurisdiction is the participating Territories:
 
-                              (i)  if the Australian Capital Territory is the only participating Territory—by a Minister of the Australian Capital Territory; or
+                              (i)  if the Australian   Capital Territory is the only participating Territory—by a Minister of the Australian   Capital Territory; or
 
                              (ii)  if there is more than one participating Territory—jointly by a Minister of the Commonwealth and a Minister of the Australian Capital Territory;
 
@@ -2290,7 +2290,7 @@ to perform the functions of a co-ordinator under this Code.
 
                      (b)  which, if there is a note known as a Guidance Note for Completion of a Material Safety Data Sheet published by the National Occupational Health and Safety Commission, is prepared in accordance with that note.
 
-                    <a name="maximum-residu-limit-standard"></a>**_Maximum Residue Limits Standard_** means the Maximum Residue Limits Standard, made under the _Food Standards Australia New Zealand Act 1991_, as in force from time to time, or any standard in force in substitution for that standard.
+                    <a name="maximum-residu-limit-standard"></a>**_Maximum Residue Limits Standard_** means the Maximum Residue Limits Standard, made under the _Food Standards__Australia__New Zealand__Act 1991_, as in force from time to time, or any standard in force in substitution for that standard.
 
                     <a name="member-staff"></a>**_member of the staff_**, in relation to the APVMA, has the same meaning as in the _Agricultural and Veterinary Chemicals (Administration) Act 1992_.
 
@@ -2514,7 +2514,7 @@ but does not include an excluded organism or part of an excluded organism, or ma
 
 and, for example, includes supply under a contract for work or labour that also involves the supply of any thing.
 
-                    <a name="territori"></a>**_Territory_** does not include the Northern Territory;
+                    <a name="territori"></a>**_Territory_** does not include the Northern   Territory;
 
                     <a name="thing"></a>**_thing_**, except where used as an object of the verb “to do”, includes:
 
@@ -2682,7 +2682,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  contain, or be accompanied by, any information that the APVMA requires; and
 
-                   (ba)  if the application is covered by paragraph 10(a) or (b)—contain proposed instructions for the use of or other dealing with the constituent or product; and
+                    (ba)  if the application is covered by paragraph 10(a) or (b)—contain proposed instructions for the use of or other dealing with the constituent or product; and
 
                      (c)  be signed by an approved person; and
 
@@ -2790,37 +2790,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="13A"></a>13A  Notifying Food Standards Australia New Zealand
 
-             (1)  If:
+             (1)  If it is likely that a chemical product in relation to which an application for registration is made would, if used, be present in foods (as defined for the purposes of the _Food Standards Australia New Zealand Act 1991_) at a level that is not already permitted under the Maximum Residue Limits Standard, the APVMA must notify Food Standards Australia New Zealand of the application.
 
-                     (a)  an application under section 10 or 27 is made in relation to a chemical product; and
-
-                     (b)  the application is acknowledged; and
-
-                     (c)  it is likely that, if the application were granted, a variation would be required to the Maximum Residue Limits Standard;
-
-the APVMA must notify Food Standards Australia New Zealand of the application.
-
-          (1A)  If:
-
-                     (a)  either:
-
-                              (i)  a variation under subsection 34(5) relates to the registration of a chemical product; or
-
-                             (ii)  a variation under subsection 34(5) or 34A(3) relates to the approval of a label for containers for a chemical product; and
-
-                     (b)  it is likely that, as a result of the variation, a variation will be required to the Maximum Residue Limits Standard;
-
-the APVMA must notify Food Standards Australia New Zealand of the variation mentioned in paragraph (a).
-
-          (1B)  If:
-
-                     (a)  an application under section 110 is made for a permit in respect of a chemical product and the application is in accordance with subsection 110(2); and
-
-                     (b)  it is likely that, if the application were granted, a variation would be required to the Maximum Residue Limits Standard;
-
-the APVMA must notify Food Standards Australia New Zealand of the application.
-
-             (2)  A notice under this section must:
+             (2)  The notice must:
 
                      (a)  be in writing; and
 
@@ -2830,13 +2802,7 @@ the APVMA must notify Food Standards Australia New Zealand of the application.
 
                              (ii)  any other matters that the APVMA thinks appropriate; and
 
-                     (c)  be given to Food Standards Australia New Zealand:
-
-                              (i)  if subsection (1) applies—as soon as practicable after the application is acknowledged; or
-
-                             (ii)  if subsection (1A) applies—as soon as practicable after the variation is made; or
-
-                            (iii)  if subsection (1B) applies—as soon as practicable after the application is made.
+                     (c)  be given to Food Standards Australia New Zealand at least 30 working days before notice of the application and public invitation for submissions is published in the _Gazette_ under section 13 or otherwise.
 
 ##### <a id="14"></a>14  Grant or refusal of application
 
@@ -2884,7 +2850,7 @@ the APVMA must notify Food Standards Australia New Zealand of the application.
 
                            (vii)  the disposal of the product when it is no longer required;
 
-                          (viii)  the disposal of containers of the product;
+                           (viii)  the disposal of containers of the product;
 
                             (ix)  the safe handling of the product and first aid in the event of an accident caused by the handling of the product;
 
@@ -2915,8 +2881,6 @@ the APVMA must notify Food Standards Australia New Zealand of the application.
                      (d)  the composition and form of the constituents of the product;
 
                      (e)  the acceptable daily intake of each active constituent contained in the product;
-
-                    (ea)  any dietary exposure assessment prepared under subsection 82(4) of the _Food Standards Australia New Zealand Act 1991_ as a result of any proposed variation notified under subsection 82(3) of that Act in relation to the product, and any comments on the assessment given to the APVMA under subsection 82(4) of that Act;
 
                       (f)  whether any trials or laboratory experiments have been carried out to determine the residues of the product and, if so, the results of those trials or experiments and whether those results show that the residues of the product will not be greater than limits that the APVMA has approved or approves;
 
@@ -3436,7 +3400,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (d)  any other prescribed requirements for continued approval or registration would be complied with; and
 
-                   (da)  that, if necessary, paragraph 8A(2)(c) of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_ has been complied with;
+                    (da)  that, if necessary, paragraph 8A(2)(c) of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_ has been complied with;
 
 the APVMA must as soon as practicable:
 
@@ -4269,11 +4233,11 @@ and must give written notice to an approved person of the renewal and the period
 
                      (b)  setting out the date on which the registration ended; and
 
-                   (ba)  containing instructions for possessing, having custody of, using or otherwise dealing with the product; and
+                    (ba)  containing instructions for possessing, having custody of, using or otherwise dealing with the product; and
 
-                   (bb)  containing a warning of the consequences if a person fails to comply with the instructions, including a statement of any period after which it will be an offence against this Code to possess or have custody of the product with the intention of supply, or to supply the product; and
+                    (bb)  containing a warning of the consequences if a person fails to comply with the instructions, including a statement of any period after which it will be an offence against this Code to possess or have custody of the product with the intention of supply, or to supply the product; and
 
-                   (bc)  containing any other warnings or explanations in relation to the product that the APVMA thinks desirable; and
+                    (bc)  containing any other warnings or explanations in relation to the product that the APVMA thinks desirable; and
 
                      (c)  containing any other information that the APVMA thinks appropriate;
 
@@ -4481,7 +4445,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                            (vii)  a monograph referred to in subparagraph (v) or (vi) as modified in a manner specified in the standard;
 
-                          (viii)  a standard published by Standards Australia International Limited;
+                           (viii)  a standard published by Standards Australia International Limited;
 
                             (ix)  such other matters as the APVMA thinks fit; and
 
@@ -4531,7 +4495,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                            (vii)  the disposal of the product when it is no longer required;
 
-                          (viii)  the disposal of containers of the product;
+                           (viii)  the disposal of containers of the product;
 
                             (ix)  the safe handling of the product and first aid in the event of an accident caused by the handling of the product;
 
@@ -4671,7 +4635,7 @@ as it thinks appropriate.
 
 are varied pursuant to an application or request made under this Part, then, the date of the listed registration of the product, as varied, or as subject to the varied conditions, is the date on which particulars of the variations are entered in the Register of Chemical Products.
 
-##### <a id="56O"></a>56O  Conditions of listed registration
+##### <a id="56O"></a>56O  Conditions of listed registration
 
              (1)  The conditions of the listed registration of a chemical product are the conditions that the APVMA thinks appropriate.
 
@@ -6437,7 +6401,7 @@ the APVMA may give written notice to any person (the **_notified person_**) who 
 
                      (b)  the constituents of stocks of a registered chemical product or of a particular batch of a registered chemical product differ by more than the prescribed extent from the constituents stated in relation to the product in the Register of Chemical Products; or
 
-                   (ba)  the constituents of stocks of a registered listed chemical product or of a particular batch of such a product differ by more than the prescribed extent from the constituents stated in relation to the product in the Register of Chemical Products; or
+                    (ba)  the constituents of stocks of a registered listed chemical product or of a particular batch of such a product differ by more than the prescribed extent from the constituents stated in relation to the product in the Register of Chemical Products; or
 
                      (c)  the concentration of the constituents of stocks of a registered chemical product or of a particular batch of a registered chemical product differs by more than the prescribed extent from the concentration of the constituents stated in relation to the product in the Register of Chemical Products; or
 
@@ -6519,7 +6483,7 @@ Note:          For strict liability, see section 6.1 of the 
 
 ##### <a id="107"></a>107  Inconsistent requirements
 
-                   If a requirement made under section 101, 102 or 103 is inconsistent with an earlier requirement made under any of those sections, the earlier requirement is, to the extent of the inconsistency, of no effect.
+                   If a requirement made under section 101, 102 or 103 is inconsistent with an earlier requirement made under any of those sections, the earlier requirement is, to the extent of the inconsistency, of no effect.
 
 ## Part 7—Permits
 
@@ -6859,7 +6823,7 @@ the APVMA must, as soon as practicable, tell the co-ordinator of the cancellatio
 
              (5)  A person who is the holder of a licence must not contravene a condition of the licence.
 
-                    Penalty for a contravention of this subsection:     120 penalty units.
+                    Penalty for a contravention of this subsection:  120 penalty units.
 
              (6)  Subsections (3), (4) and (5) do not apply if the person has a reasonable excuse.
 
@@ -7973,11 +7937,11 @@ the disclosing person:
 
                     (aa)  a decision under section 11A that the application does not comply with subsection 11(1);
 
-                   (ab)  a decision under section 11A to defer consideration of an application for approval of an active constituent for a proposed or existing chemical product, for registration of a chemical product or for approval of a label for containers for a chemical product, or to treat such an application as having been withdrawn;
+                    (ab)  a decision under section 11A to defer consideration of an application for approval of an active constituent for a proposed or existing chemical product, for registration of a chemical product or for approval of a label for containers for a chemical product, or to treat such an application as having been withdrawn;
 
                     (ac)  a decision under section 11A to reject an application for approval of an active constituent for a proposed or existing chemical product, for registration of a chemical product or for approval of a label for containers for a chemical product;
 
-                   (ad)  a decision under subparagraph 11A(3)(a)(iii) refusing to extend a period;
+                    (ad)  a decision under subparagraph 11A(3)(a)(iii) refusing to extend a period;
 
                      (a)  a decision under Division 2 of Part 2 to refuse an application for approval of an active constituent for a proposed or existing chemical product, for registration of a chemical product or for approval of a label for containers for a chemical product;
 
@@ -7991,9 +7955,9 @@ the disclosing person:
 
                             (iii)  relevant particulars of the approval of a label for containers for a chemical product;
 
-                   (ba)  a decision under section 28A that the application does not comply with subsection 28(1);
+                    (ba)  a decision under section 28A that the application does not comply with subsection 28(1);
 
-                   (bb)  a decision under section 28A:
+                    (bb)  a decision under section 28A:
 
                               (i)  to defer consideration of an application to vary the relevant particulars, or the conditions, of an approval or registration; or
 
@@ -8001,7 +7965,7 @@ the disclosing person:
 
                             (iii)  to reject such an application;
 
-                   (bc)  a decision under section 28A refusing to extend a period;
+                    (bc)  a decision under section 28A refusing to extend a period;
 
                      (c)  a decision under Division 3 of Part 2 to refuse an application to vary the relevant particulars of the approval of an active constituent for a proposed or existing chemical product, the relevant particulars of the registration of a chemical product or the relevant particulars of the approval of a label for containers for a chemical product;
 
@@ -8027,7 +7991,7 @@ the disclosing person:
 
                     (fe)  a decision under Division 5 of Part 2A to vary the conditions of the listed registration of a chemical product;
 
-                    (ff)  a decision under Division 7 of Part 2A to suspend or cancel the listed registration of a chemical product;
+                     (ff)  a decision under Division 7 of Part 2A to suspend or cancel the listed registration of a chemical product;
 
                      (g)  a decision under subsection 48(3) or 56ZL(3) refusing to accept a late application;
 
@@ -8035,7 +7999,7 @@ the disclosing person:
 
                       (i)  a decision under subsection 74(2), 75(2), 76(2) or 78(2) extending, or refusing to extend, a period;
 
-                    (ia)  a decision under subsection 81(3) shortening, or extending or refusing to extend, a period;
+                     (ia)  a decision under subsection 81(3) shortening, or extending or refusing to extend, a period;
 
                       (j)  a decision under section 99 to require the analysis of a substance or mixture of substances;
 
@@ -8101,7 +8065,7 @@ the disclosing person:
 
              (4)  If an individual is convicted of an indictable offence against this Code, the court may, if the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a monetary penalty not greater than the number of penalty units worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00119/Html/027352b4-8ee0-499f-9c06-3240368c5a3c_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00054/Html/AgrVetChemCode1994_WD02_image002.gif)
 
 where:
 
@@ -8121,9 +8085,9 @@ where:
 
                             (d)   use in relation to:
 
-                                       (i)   goods or services; or
+                                        (i)   goods or services; or
 
-                                      (ii)   the promotion, by any means, of the supply or use of goods or services;
+                                       (ii)   the promotion, by any means, of the supply or use of goods or services;
 
 either:
 
@@ -8131,7 +8095,7 @@ either:
 
                              (f)   a protected symbol, or a symbol so closely resembling a protected symbol as to be likely to be mistaken for it.
 
-                    Penalty:  30 penalty units.
+                    Penalty:   30 penalty units.
 
                  (2)   Subsection (1) does not apply if the APVMA consents in writing to the use or application of the name or symbol.
 
@@ -8798,7 +8762,7 @@ Schedule 1 (item 5): Royal Assent</div>
     <div>17 Nov 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 2–6): 1 Mar 2011 ( <i>see</i>F2011L00312)</div>
+    <div>Schedule 1 (items 2–6): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 6)</div>
@@ -8809,7 +8773,7 @@ _(a)_     The _Agricultural and Veterinary Chemicals Code Act 1994_ was 
 
                  (2)   The amendments made by this Act to the _Agricultural and Veterinary Chemicals Code Act 1994_ commence, or are taken to have commenced, on the same day as that Act, immediately after the commencement of that Act.
 
-_(b)_     The _Agricultural and Veterinary Chemicals Code Act 1994_ was amended by the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows:
+_(b)_    The _Agricultural and Veterinary Chemicals Code Act 1994_ was amended by the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows:
 
                  (2)   Part 3 commences on a day to be fixed by Proclamation. However, if Part 3 does not commence by Proclamation within the period of 6 months beginning on the day on which this Act receives the Royal Assent, then it commences on the first day after the end of that period.
 
@@ -8977,7 +8941,7 @@ _(g)_ Subsection 2(1) (item 4) of the _US__Free Trade Agreement Implementation
     <div>
       1 January 2005
 
-      (paragraph (a) applies)
+(paragraph (a) applies)
     </div>
   </td>
 </tr></table>
@@ -9037,7 +9001,7 @@ _(h)_ Subsection 2(1) (item 5) of the _Statute Law Revision Act 2005_ provides
   </td>
 </tr></table>
 
-_(i)_ Subsection 2(1) (item 6) of the _Food Standards Australia New Zealand Amendment Act 2007_ provides as follows:
+_(i)_ Subsection 2(1) (item 6) of the _Food Standards__Australia__New__Zealand__Amendment Act 2007_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -9366,18 +9330,10 @@ of Part 2</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 121, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 14</div>
   </td>
   <td>
-    <div>am. No. 170, 2000; No. 13, 2003; No. 79, 2004; No. 121, 2010</div>
+    <div>am. No. 170, 2000; No. 13, 2003; No. 79, 2004</div>
   </td>
 </tr>
 <tr>
@@ -11944,6 +11900,73 @@ Part 2A</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Food Standards Australia New Zealand Amendment Act 2010 
+ (No. 121, 2010)_
+
+The following amendments commence on 17 May 2011 unless proclaimed earlier:
+
+## Schedule 1
+
+## 2  Subsection 13A(1) of the Code set out in the Schedule
+
+Repeal the subsection, substitute:
+
+             (1)  If:
+
+                     (a)  an application under section 10 or 27 is made in relation to a chemical product; and
+
+                     (b)  the application is acknowledged; and
+
+                     (c)  it is likely that, if the application were granted, a variation would be required to the Maximum Residue Limits Standard;
+
+the APVMA must notify Food Standards Australia New Zealand of the application.
+
+          (1A)  If:
+
+                     (a)  either:
+
+                              (i)  a variation under subsection 34(5) relates to the registration of a chemical product; or
+
+                             (ii)  a variation under subsection 34(5) or 34A(3) relates to the approval of a label for containers for a chemical product; and
+
+                     (b)  it is likely that, as a result of the variation, a variation will be required to the Maximum Residue Limits Standard;
+
+the APVMA must notify Food Standards Australia New Zealand of the variation mentioned in paragraph (a).
+
+          (1B)  If:
+
+                     (a)  an application under section 110 is made for a permit in respect of a chemical product and the application is in accordance with subsection 110(2); and
+
+                     (b)  it is likely that, if the application were granted, a variation would be required to the Maximum Residue Limits Standard;
+
+the APVMA must notify Food Standards Australia New Zealand of the application.
+
+## 3  Subsection 13A(2) of the Code set out in the Schedule
+
+Omit “The notice”, substitute “A notice under this section”.
+
+## 4  Paragraph 13A(2)(c) of the Code set out in the Schedule
+
+Repeal the paragraph, substitute:
+
+                     (c)  be given to Food Standards Australia New Zealand:
+
+                              (i)  if subsection (1) applies—as soon as practicable after the application is acknowledged; or
+
+                             (ii)  if subsection (1A) applies—as soon as practicable after the variation is made; or
+
+                            (iii)  if subsection (1B) applies—as soon as practicable after the application is made.
+
+## 5  After paragraph 14(5)(e) of the Code set out in the Schedule
+
+Insert:
+
+                    (ea)  any dietary exposure assessment prepared under subsection 82(4) of the _Food Standards Australia New Zealand Act 1991_ as a result of any proposed variation notified under subsection 82(3) of that Act in relation to the product, and any comments on the assessment given to the APVMA under subsection 82(4) of that Act;
+
+As at 1 January 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -11983,7 +12006,7 @@ A fee that was purported to have been paid under the regulations before the comm
 
 * * *
 
-_Food Standards Australia New Zealand Amendment Act 2007 (No. 98, 2007)_
+_Food Standards Australia   New Zealand Amendment Act 2007 (No. 98, 2007)_
 
 ## Schedule 1
 
@@ -12018,7 +12041,7 @@ _Agricultural and Veterinary Chemicals Code Amendment Act 2010
 
 ## 7B  Labels approved under existing law
 
-(1)       If a label was, immediately before commencement, an approved label within the meaning of the old law, then:
+(1)        If a label was, immediately before commencement, an approved label within the meaning of the old law, then:
 
                      (a)  the label is taken, from commencement, to be an approved label within the meaning of the new law; and
 
@@ -12028,7 +12051,7 @@ _Agricultural and Veterinary Chemicals Code Amendment Act 2010
 
                      (d)  any condition prescribed by regulations made under paragraph 23A(1)(a) of the new law is taken to be a condition imposed on the approval of the label.
 
-(2)       In this item:
+(2)        In this item:
 
 **_commencement_** means the day this item commences.
 
@@ -12038,7 +12061,7 @@ _Agricultural and Veterinary Chemicals Code Amendment Act 2010
 
 ## 8  Application
 
-(1)       The amendment made by item 2 of this Schedule applies in relation to:
+(1)        The amendment made by item 2 of this Schedule applies in relation to:
 
                      (a)  an application for approval of a label for containers for a chemical product under section 10 of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_ that is made on or after the day this item commences; and
 
@@ -12058,7 +12081,7 @@ _Agricultural and Veterinary Chemicals Code Amendment Act 2010
 
                      (e)  a standard for a chemical product that is submitted to the Minister for approval under section 56D of the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_ on or after the day this item commences.
 
-(2)       The amendments made by items 3, 4, 5, 6 and 7 of this Schedule apply in respect of an application for a permit that is made on or after the day this item commences.
+(2)        The amendments made by items 3, 4, 5, 6 and 7 of this Schedule apply in respect of an application for a permit that is made on or after the day this item commences.
 
 (2A)     The amendments made by items 4A, 5A, 6B, 6C, 6D, 6E, 6F, 6H, 6K, 6L, 6M, 6N, 6P, 6Q, 6R, 6S, 6T, 6U, 6V, 6W, 6X, 6Y, 6Z and 7B of this Schedule apply in relation to:
 
@@ -12082,7 +12105,7 @@ _Agricultural and Veterinary Chemicals Code Amendment Act 2010
 
 (2B)     The amendments made by items 5B, 6A, 6G, 6J and 7A of this Schedule apply in respect of an application for a variation that is made on or after the day this item commences.
 
-(3)       In this item:
+(3)        In this item:
 
 **_approval_** has the same meaning as in the _Agricultural and Veterinary Chemicals Code Act 1994_.
 
@@ -12106,6 +12129,8 @@ _Agricultural and Veterinary Chemicals Code Amendment Act 2010
 
 _Food Standards Australia New Zealand Amendment Act 2010
  (No. 121, 2010)_
+
+The following provision commences on 17 May 2011 unless proclaimed earlier:
 
 ## Schedule 1
 
