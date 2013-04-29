@@ -1,11 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2011C00948/Html/34890a8b-564b-473c-ae2e-8ec1dc3c095a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00922/Html/b324152a-556a-4f4c-a8be-72793edff4b6_files/image001.gif)
 
 # Australian National Registry of Emissions Units Act 2011
 
 **Act No. 99 of 2011 as amended**
 
-This compilation was prepared on 9 December 2011
+This compilation was prepared on 30 November 2011
  taking into account amendments up to Act No. 132 of 2011
+
+[**Note**: Sections 3–97 of this Act are not in force, _see_ s. 2(1) and Note 1]
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -74,7 +76,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20](#20).          General power of correction of Registry—Kyoto units
 
-[21](#21).          General power of correction of Registry—prescribed international units
+[21](#21).          General power of correction of Registry—non‑Kyoto international emissions units
 
 [22](#22).          Rectification of Registry
 
@@ -92,14 +94,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [28](#28).          Suspension of operation of the Registry
 
-[28A](#28A).       Administrator may defer giving effect to a transfer instruction
-
-[28B](#28B).       Administrator may refuse to give effect to a transfer instruction
-
-[28C](#28C).       Conditions restricting or limiting the operation of Registry accounts
-
-[28D](#28D).       Suspension of Registry accounts
-
 **Part 3—Kyoto units**
 
 [29](#29).          Simplified outline
@@ -109,8 +103,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [31](#31).          Issue of Australia’s assigned amount units
 
 [32](#32).          Issue of removal units
-
-[32A](#32A).       Ownership of Kyoto unit
 
 [33](#33).          Transfer of Kyoto units
 
@@ -138,37 +130,31 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [45](#45).          A registered Kyoto unit is personal property for certain purposes
 
-[45A](#45A).       Registration of equitable interests in relation to Kyoto units
-
 [46](#46).          Equitable interests in relation to a Kyoto unit
 
 [47](#47).          Transmission of registered Kyoto units by operation of law etc 
 
-**Part 4—Prescribed international units**
+**Part 4—Non‑Kyoto international emissions units**
 
 [48](#48).          Simplified outline
 
-[49](#49).          Entries for prescribed international units
+[49](#49).          Entries for non‑Kyoto international emissions units
 
-[49A](#49A).       Ownership of prescribed international unit
+[50](#50).          Transfer of non‑Kyoto international emissions units
 
-[50](#50).          Transfer of prescribed international units
+[51](#51).          Domestic transfers of non‑Kyoto international emissions units
 
-[51](#51).          Domestic transfers of prescribed international units
+[52](#52).          Outgoing international transfers of non‑Kyoto international emissions units
 
-[52](#52).          Outgoing international transfers of prescribed international units
+[53](#53).          Incoming international transfers of non‑Kyoto international emissions units
 
-[53](#53).          Incoming international transfers of prescribed international units
+[54](#54).          A registered non‑Kyoto international emissions unit is personal property for certain purposes
 
-[54](#54).          A registered prescribed international unit is personal property for certain purposes
+[55](#55).          Equitable interests in relation to a non‑Kyoto international emissions unit
 
-[54A](#54A).       Registration of equitable interests in relation to prescribed international units
+[56](#56).          Transmission of registered non‑Kyoto international emissions units by operation of law etc 
 
-[55](#55).          Equitable interests in relation to a prescribed international unit
-
-[56](#56).          Transmission of registered prescribed international units by operation of law etc 
-
-[57](#57).          Regulations about prescribed international units
+[57](#57).          Regulations about non‑Kyoto international emissions units
 
 **Part 5—Publication of information**
 
@@ -182,7 +168,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [62](#62).          Information about number of voluntarily cancelled Kyoto units
 
-[63](#63).          Information about number of voluntarily cancelled prescribed international units
+[63](#63).          Information about number of voluntarily cancelled non‑Kyoto international emissions units
 
 **Part 6—Voluntary cancellation of emissions units**
 
@@ -190,7 +176,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [65](#65).          Voluntary cancellation of Kyoto units
 
-[66](#66).          Voluntary cancellation of prescribed international units
+[66](#66).          Voluntary cancellation of non‑Kyoto international emissions units
 
 **Part 7—Civil penalty orders**
 
@@ -345,7 +331,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
       <i>Carbon Credits (Carbon Farming Initiative) Act 2011</i>commences.</div>
   </td>
   <td>
-    <div>8 December 2011</div>
+    <div> </div>
   </td>
 </tr></table>
 
@@ -363,11 +349,9 @@ Note:          This table relates only to the provisions of this
 
 Registry of Emissions Units is continued in existence.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      The Administrator may, in
+<li class="BoxList" style="margin-left:21.25pt">•      The Administrator may, in accordance
 
-accordance with the regulations, open a Registry account in the name of a
-
-person.</li>
+with the regulations, open a Registry account in the name of a person.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Entries may be made in
 
@@ -377,7 +361,7 @@ Registry accounts for:</li>
 
               (b)     Kyoto units; and
 
-               (c)     prescribed international units.
+               (c)     non‑Kyoto international emissions units.
 
 <li class="BoxList" style="margin-left:21.25pt">•      This Act sets out rules
 
@@ -385,7 +369,7 @@ about dealings with:</li>
 
                (a)     Kyoto units; and
 
-              (b)     prescribed international units.
+              (b)     non‑Kyoto international emissions units.
 
 * * *
 
@@ -449,7 +433,7 @@ Note:          The first commitment period begins on 1 Janua
 
                      (d)  a prescribed unit issued in accordance with the Kyoto rules; or
 
-                     (e)  a prescribed international unit.
+                     (e)  a non‑Kyoto international emissions unit.
 
 It is immaterial whether a unit covered by paragraph (d) was issued in or outside Australia.
 
@@ -469,7 +453,7 @@ It is immaterial whether a unit covered by paragraph (d) was issued in or outs
 
                      (a)  when used in relation to a Kyoto unit—means an account kept within a foreign Kyoto registry; or
 
-                     (b)  when used in relation to a prescribed international unit—means an account kept within a foreign registry.
+                     (b)  when used in relation to a non‑Kyoto international emissions unit—means an account kept within a foreign non‑Kyoto registry.
 
                     <a name="foreign-countri"></a>**_foreign country_** includes a region where:
 
@@ -489,11 +473,13 @@ It is immaterial whether a unit covered by paragraph (d) was issued in or outs
 
                      (b)  the CDM registry established in accordance with paragraph 1 of Appendix D to the Annex to Decision 3/CMP.1 of the Meeting of the Kyoto Parties.
 
-                    <a name="foreign-registri"></a>**_foreign registry_** means a registry that:
+                    <a name="foreign-non-kyoto-registri"></a>**_foreign non‑Kyoto registry_** means a registry that:
 
                      (a)  is located in a foreign country; and
 
-                     (b)  is specified in the regulations.
+                     (b)  is specified in the regulations; and
+
+                     (c)  is not a foreign Kyoto registry.
 
                     <a name="hold"></a><a name="hold"></a>**_hold_** an Australian carbon credit unit: a person **_holds_** an Australian carbon credit unit if the person is the registered holder of the unit.
 
@@ -571,6 +557,14 @@ It is immaterial whether a unit covered by paragraph (e) was issued in or outs
 
                     <a name="meet-kyoto-parti"></a>**_Meeting of the Kyoto Parties_** means the Meeting of the Parties to the Climate Change Convention serving as the meeting of the Parties to the Kyoto Protocol.
 
+                    <a name="non-kyoto-intern-emiss-unit"></a>**_non‑Kyoto international emissions unit_** means:
+
+                     (a)  a prescribed unit issued in accordance with an international agreement (other than the Kyoto Protocol); or
+
+                     (b)  a prescribed unit issued outside Australia under a law of a foreign country.
+
+It is immaterial whether a unit covered by paragraph (a) was issued in or outside Australia.
+
                     <a name="open"></a>**_open_**, in relation to a Registry account, means open under regulations made for the purposes of subsection 10(1).
 
                     <a name="penalti-unit"></a>**_penalty unit_** has the meaning given by section 4AA of the _Crimes Act 1914_.
@@ -589,21 +583,13 @@ It is immaterial whether a unit covered by paragraph (e) was issued in or outs
 
                       (f)  a local governing body.
 
-                    <a name="prescrib-intern-unit"></a>**_prescribed international unit_** means:
-
-                     (a)  a prescribed unit issued in accordance with an international agreement (other than the Kyoto Protocol); or
-
-                     (b)  a prescribed unit issued outside Australia under a law of a foreign country.
-
-It is immaterial whether a unit covered by paragraph (a) was issued in or outside Australia.
-
                     <a name="regist-holder"></a>**_registered holder_**, in relation to:
 
                      (a)  an Australian carbon credit unit; or
 
                      (b)  a Kyoto unit; or
 
-                     (c)  a prescribed international unit;
+                     (c)  a non‑Kyoto international emissions unit;
 
 means the person in whose Registry account there is an entry for the unit.
 
@@ -623,7 +609,7 @@ means the person in whose Registry account there is an entry for the unit.
 
                      (a)  in relation to a Kyoto unit—has the meaning given by section 33; or
 
-                     (b)  in relation to a prescribed international unit—has the meaning given by section 50.
+                     (b)  in relation to a non‑Kyoto international emissions unit—has the meaning given by section 50.
 
                     <a name="trust"></a>**_trust_** means a person in the capacity of trustee or, as the case requires, a trust estate.
 
@@ -655,7 +641,7 @@ means the person in whose Registry account there is an entry for the unit.
 
              (5)  For the purposes of this Act, if a notice is transmitted to the Administrator by means of an electronic communication, the notice is taken to have been transmitted on the day on which the electronic communication is dispatched.
 
-             (6)  Subsection (5) of this section has effect despite section 14A of the _Electronic Transactions Act 1999_.
+             (6)  Subsection (5) of this section has effect despite subsections 14(3) and (4) of the _Electronic Transactions Act 1999_.
 
              (7)  This section does not, by implication, limit the regulations that may be made under the _Electronic Transactions Act 1999_.
 
@@ -823,7 +809,7 @@ if doing so would result in the account having entries for a number of units tha
 
                      (c)  there are no entries for any Kyoto units in the account; and
 
-                     (d)  there are no entries for any prescribed international units in the account.
+                     (d)  there are no entries for any non‑Kyoto international emissions units in the account.
 
 ##### <a id="16"></a>16  Unilateral closure of Registry accounts etc.
 
@@ -845,7 +831,7 @@ Cancellation or transfer of units
 
              (4)  The regulations may provide that, if immediately before the Administrator closes a Registry account under regulations made for the purposes of subsection (1), there is an entry for a Kyoto unit in the account, the Administrator must transfer the unit to a voluntary cancellation account.
 
-             (5)  The regulations may provide that, if immediately before the Administrator closes a Registry account under regulations made for the purposes of subsection (1), there is an entry for a prescribed international unit in the account, the unit is cancelled.
+             (5)  The regulations may provide that, if immediately before the Administrator closes a Registry account under regulations made for the purposes of subsection (1), there is an entry for a non‑Kyoto international emissions unit in the account, the unit is cancelled.
 
 Refusal of request to open new Registry account
 
@@ -877,9 +863,9 @@ Kyoto units
 
              (2)  An entry for a Kyoto unit in a Registry account may be made in accordance with this Act.
 
-Prescribed international units
+Non‑Kyoto international emissions units
 
-             (3)  An entry for a prescribed international unit in a Registry account may be made in accordance with this Act.
+             (3)  An entry for a non‑Kyoto international emissions unit in a Registry account may be made in accordance with this Act.
 
 ### Division 5—Change in name of account holder
 
@@ -918,12 +904,6 @@ Power of correction
                      (b)  on the Administrator’s own initiative.
 
              (3)  The Administrator must not exercise the power conferred by subsection (1) of this section in a manner contrary to a decision of the Federal Court in proceedings under section 22.
-
-          (3A)  The Administrator must not exercise the power conferred by subsection (1) of this section in a manner contrary to:
-
-                     (a)  regulations made for the purposes of section 32A or 49A of this Act; or
-
-                     (b)  section 150A of the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
 
 Publication of alteration
 
@@ -965,11 +945,11 @@ Refusal
 
 the Administrator must give written notice of the decision to the applicant.
 
-##### <a id="21"></a>21  General power of correction of Registry—prescribed international units
+##### <a id="21"></a>21  General power of correction of Registry—non‑Kyoto international emissions units
 
 Power of correction
 
-             (1)  The Administrator may make such alterations to the Registry as the Administrator considers appropriate for the purposes of ensuring that the relevant provisions of an international agreement, to the extent to which it relates to a prescribed international unit, are complied with.
+             (1)  The Administrator may make such alterations to the Registry as the Administrator considers appropriate for the purposes of ensuring that the relevant provisions of an international agreement, to the extent to which it relates to a non‑Kyoto international emissions unit, are complied with.
 
              (2)  The Administrator may exercise the power conferred by subsection (1):
 
@@ -1031,12 +1011,6 @@ Court orders
 
              (4)  An order made by the court must not be expressed to take effect before the order is made.
 
-          (4A)  The court must not make an order that is contrary to:
-
-                     (a)  regulations made for the purposes of section 32A or 49A of this Act; or
-
-                     (b)  section 150A of the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
-
              (5)  In proceedings under this section, the court may decide any question that it is necessary or expedient to decide in connection with the rectification of the Registry.
 
 Appearance of Administrator
@@ -1091,7 +1065,7 @@ Note:          The same conduct may be an offence against both
 
              (1)  The Administrator may supply a copy of or extract from the Registry certified by the Administrator to be a true copy or true extract, as the case may be.
 
-Note:          See also section 155 of the _Evidence Act 1995_.
+             (2)  The certified copy or extract is admissible in evidence in all courts and proceedings without further proof or production of the original.
 
              (3)  The Administrator may charge a fee specified in the regulations for supplying a certified copy or extract under subsection (1).
 
@@ -1127,7 +1101,7 @@ Exception
 
                              (ii)  Kyoto units; or
 
-                            (iii)  prescribed international units;
+                            (iii)  non‑Kyoto international emissions units;
 
                             recorded in the Registry; or
 
@@ -1203,338 +1177,6 @@ Note:          Part 7 provides for pecuniary penalties for b
 
              (3)  If the Administrator suspends the operation of the Registry, the Administrator may defer taking action in relation to the Registry until the suspension ends.
 
-##### <a id="28A"></a>28A  Administrator may defer giving effect to a transfer instruction
-
-Scope
-
-             (1)  This section applies if the Administrator receives an instruction to transfer one or more:
-
-                     (a)  Australian carbon credit units; or
-
-                     (b)  Kyoto units; or
-
-                     (c)  prescribed international units;
-
-to or from a Registry account kept in the name of a person.
-
-Administrator may defer giving effect to the instruction
-
-             (2)  The Administrator may defer giving effect to the instruction, for a period not exceeding 48 hours, if the Administrator is satisfied that it is prudent to do so in order to:
-
-                     (a)  ensure the integrity of the Registry; or
-
-                     (b)  prevent, mitigate or minimise abuse of the Registry; or
-
-                     (c)  prevent, mitigate or minimise criminal activity involving the Registry.
-
-Prior notice not required
-
-             (3)  The Administrator is not required to give any prior notice of a deferral under subsection (2).
-
-Other provisions
-
-             (4)  This section has effect despite:
-
-                     (a)  any other provision of this Act; or
-
-                     (b)  anything in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
-
-##### <a id="28B"></a>28B  Administrator may refuse to give effect to a transfer instruction
-
-Scope
-
-             (1)  This section applies if the Administrator receives an instruction to transfer one or more:
-
-                     (a)  Australian carbon credit units; or
-
-                     (b)  Kyoto units; or
-
-                     (c)  prescribed international units;
-
-to or from a Registry account kept in the name of a person.
-
-Administrator may refuse to give effect to instruction
-
-             (2)  The Administrator may refuse to give effect to the instruction if the Administrator is satisfied that it is prudent to do so in order to:
-
-                     (a)  ensure the integrity of the Registry; or
-
-                     (b)  prevent, mitigate or minimise abuse of the Registry; or
-
-                     (c)  prevent, mitigate or minimise criminal activity involving the Registry.
-
-Notification
-
-             (3)  As soon as practicable after the Administrator refuses, under subsection (2), to give effect to the instruction, the Administrator must give written notice of the refusal to:
-
-                     (a)  in any case—the person; or
-
-                     (b)  if the instruction was given by another person—that other person.
-
-             (4)  A notice given to a person under subsection (3) must invite the person to request the Administrator to cease to refuse to give effect to the instruction.
-
-             (5)  A request under subsection (4) must:
-
-                     (a)  be in writing; and
-
-                     (b)  be in a form approved, in writing, by the Administrator; and
-
-                     (c)  set out the reason for the request.
-
-             (6)  If the person makes a request under subsection (4), the Administrator may, by written notice given to the person, require the person to give the Administrator, within the period specified in the notice, further information in connection with the request.
-
-Prior notice not required
-
-             (7)  The Administrator is not required to give any prior notice of a refusal under subsection (2).
-
-Decision on request
-
-             (8)  If the Administrator receives a request under subsection (4), the Administrator must:
-
-                     (a)  cease to refuse to give effect to the instruction; or
-
-                     (b)  decide to continue to refuse to give effect to the instruction.
-
-             (9)  The Administrator must take all reasonable steps to ensure that a decision is made under subsection (8):
-
-                     (a)  if the Administrator requires the person to give further information under subsection (6) in relation to the request—within 7 days after the person gave the Administrator the information; or
-
-                     (b)  otherwise—within 7 days after the request was made.
-
-           (10)  As soon as practicable after the Administrator makes a decision under subsection (8), the Administrator must notify the person, in writing, of the decision.
-
-Other provisions
-
-           (11)  This section has effect despite:
-
-                     (a)  any other provision of this Act; or
-
-                     (b)  anything in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
-
-Note:          For additional powers of refusal, see:
-
-(a)    paragraph 34(3)(a) of this Act; and
-
-(b)    paragraph 35(3)(a) of this Act; and
-
-(c)    subsection 36(2) of this Act; and
-
-(d)    subsection 53(2) of this Act.
-
-##### <a id="28C"></a>28C  Conditions restricting or limiting the operation of Registry accounts
-
-Scope
-
-             (1)  This section applies to a Registry account kept in the name of a person.
-
-Imposition of conditions
-
-             (2)  The Administrator may, by written instrument, impose conditions restricting or limiting the operation of the Registry account for a specified period.
-
-             (3)  The Administrator may exercise the power conferred by subsection (2):
-
-                     (a)  on the Administrator’s own initiative; or
-
-                     (b)  on written request made to the Administrator by the person.
-
-             (4)  The Administrator must not make an instrument under subsection (2) unless the Administrator is satisfied that it is prudent to do so in order to:
-
-                     (a)  ensure the integrity of the Registry; or
-
-                     (b)  prevent, mitigate or minimise abuse of the Registry; or
-
-                     (c)  prevent, mitigate or minimise criminal activity involving the Registry.
-
-             (5)  A condition under subsection (2) may:
-
-                     (a)  prohibit, restrict or limit the transfer of units from the Registry account; or
-
-                     (b)  prohibit, restrict or limit the transfer of units to the Registry account.
-
-             (6)  Subsection (5) does not limit subsection (2).
-
-Notification
-
-             (7)  As soon as practicable after making an instrument under subsection (2), the Administrator must give the person a copy of the instrument.
-
-             (8)  If an instrument under subsection (2) is made on the Administrator’s own initiative, the copy of the instrument must be accompanied by a notice inviting the person to request the Administrator to:
-
-                     (a)  revoke the instrument; or
-
-                     (b)  vary the instrument in the manner specified in the request.
-
-Request
-
-             (9)  A request under paragraph (3)(b) or subsection (8) must:
-
-                     (a)  be in writing; and
-
-                     (b)  be in a form approved, in writing, by the Administrator; and
-
-                     (c)  set out the reason for the request.
-
-Further information
-
-           (10)  If the person makes a request under subsection (8), the Administrator may, by written notice given to the person, require the person to give the Administrator, within the period specified in the notice, further information in connection with the request.
-
-Prior notice not required
-
-           (11)  The Administrator is not required to give any prior notice of a decision to make an instrument under subsection (2).
-
-Decision in relation to instrument made on own initiative
-
-           (12)  If the Administrator receives a request under subsection (8), the Administrator must:
-
-                     (a)  if the request is to revoke the instrument:
-
-                              (i)  revoke the instrument; or
-
-                             (ii)  decide not to revoke the instrument; or
-
-                     (b)  if the request is to vary the instrument:
-
-                              (i)  vary the instrument as requested; or
-
-                             (ii)  decide not to vary the instrument.
-
-           (13)  The Administrator must take all reasonable steps to ensure that a decision is made under subsection (12):
-
-                     (a)  if the Administrator requires the person to give further information under subsection (10) in relation to the request—within 7 days after the person gave the Administrator the information; or
-
-                     (b)  otherwise—within 7 days after the request was made.
-
-           (14)  As soon as practicable after the Administrator makes a decision under subsection (12), the Administrator must notify the person, in writing, of the decision.
-
-Revocation of instrument made in response to a request
-
-           (15)  If:
-
-                     (a)  an instrument is in force under subsection (2); and
-
-                     (b)  the instrument was made in response to a request under paragraph (3)(b);
-
-the Administrator must, at the written request of the person, revoke the instrument.
-
-Acts Interpretation Act
-
-           (16)  Subsections (12) and (15) do not, by implication, limit subsection 33(3) of the _Acts Interpretation Act 1901_.
-
-Other provisions
-
-           (17)  This section has effect despite:
-
-                     (a)  any other provision of this Act; or
-
-                     (b)  anything in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
-
-##### <a id="28D"></a>28D  Suspension of Registry accounts
-
-Scope
-
-             (1)  This section applies to a Registry account kept in the name of a person.
-
-Suspension
-
-             (2)  The Administrator may, by written instrument, suspend the Registry account for a specified period.
-
-             (3)  The Administrator may exercise the power conferred by subsection (2):
-
-                     (a)  on the Administrator’s own initiative; or
-
-                     (b)  on written request made to the Administrator by the person.
-
-             (4)  The Administrator must not make an instrument under subsection (2) unless the Administrator is satisfied that it is prudent to do so in order to:
-
-                     (a)  ensure the integrity of the Registry; or
-
-                     (b)  prevent, mitigate or minimise abuse of the Registry; or
-
-                     (c)  prevent, mitigate or minimise criminal activity involving the Registry.
-
-             (5)  If an account is suspended under subsection (2):
-
-                     (a)  the Administrator must not:
-
-                              (i)  give effect to any instruction to transfer units to or from the Registry account; or
-
-                             (ii)  issue any Australian carbon credit units to the Registry account; and
-
-                     (b)  a notice to relinquish Australian carbon credit units under section 175 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_ does not have effect.
-
-Notification
-
-             (6)  As soon as practicable after making an instrument under subsection (2), the Administrator must give the person a copy of the instrument.
-
-             (7)  If an instrument under subsection (2) is made on the Administrator’s own initiative, the copy of the instrument must be accompanied by a notice inviting the person to request the Administrator to:
-
-                     (a)  revoke the instrument; or
-
-                     (b)  vary the instrument in the manner specified in the request.
-
-Request
-
-             (8)  A request under paragraph (3)(b) or subsection (7) must:
-
-                     (a)  be in writing; and
-
-                     (b)  be in a form approved, in writing, by the Administrator; and
-
-                     (c)  set out the reason for the request.
-
-Further information
-
-             (9)  If the person makes a request under subsection (7), the Administrator may, by written notice given to the person, require the person to give the Administrator, within the period specified in the notice, further information in connection with the request.
-
-Prior notice not required
-
-           (10)  The Administrator is not required to give any prior notice in relation to the decision to make an instrument under subsection (2).
-
-Decision in relation to instrument made on own initiative
-
-           (11)  If the Administrator receives a request under subsection (7), the Administrator must:
-
-                     (a)  if the request is to revoke the instrument:
-
-                              (i)  revoke the instrument; or
-
-                             (ii)  decide not to revoke the instrument; or
-
-                     (b)  if the request is to vary the instrument:
-
-                              (i)  vary the instrument as requested; or
-
-                             (ii)  decide not to vary the instrument.
-
-           (12)  The Administrator must take all reasonable steps to ensure that a decision is made under subsection (11):
-
-                     (a)  if the Administrator requires the person to give further information under subsection (9) in relation to the request—within 7 days after the person gave the Administrator the information; or
-
-                     (b)  otherwise—within 7 days after the request was made.
-
-           (13)  As soon as practicable after the Administrator makes a decision under subsection (11), the Administrator must notify the person, in writing, of the decision.
-
-Revocation of instrument made in response to a request
-
-           (14)  If:
-
-                     (a)  an instrument is in force under subsection (2); and
-
-                     (b)  the instrument was made in response to a request under paragraph (3)(b);
-
-the Administrator must, at the written request of the person, revoke the instrument.
-
-Acts Interpretation Act
-
-           (15)  Subsections (11) and (14) do not, by implication, limit subsection 33(3) of the _Acts Interpretation Act 1901_.
-
-Other provisions
-
-           (16)  This section has effect despite:
-
-                     (a)  any other provision of this Act; or
-
-                     (b)  anything in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
-
 ## Part 3—Kyoto units
 
 ##### <a id="29"></a>29  Simplified outline
@@ -1584,20 +1226,6 @@ Issue
              (4)  The Administrator is to issue a removal unit by making an entry for the unit in a Commonwealth holding account.
 
              (5)  This section does not, by implication, affect the validity of the issue of removal units, where the units were issued before the commencement of this section under the executive power of the Commonwealth.
-
-##### <a id="32A"></a>32A  Ownership of Kyoto unit
-
-             (1)  The regulations may provide that the registered holder of a Kyoto unit:
-
-                     (a)  is the legal owner of the unit; and
-
-                     (b)  may, subject to this Act, deal with the unit as its legal owner and give good discharges for any consideration for any such dealing.
-
-             (2)  Regulations made for the purposes of subsection (1) only protect a person who deals with the registered holder of the unit as a purchaser:
-
-                     (a)  in good faith for value; and
-
-                     (b)  without notice of any defect in the title of the registered holder.
 
 ##### <a id="33"></a>33  Transfer of Kyoto units
 
@@ -1809,7 +1437,7 @@ Compliance with instruction
 
              (3)  Subsection (2) does not limit subsection (1).
 
-##### <a id="40"></a>40  Carry‑over restrictions
+##### <a id="40"></a>40  Carry‑over restrictions
 
 Kyoto units for which carry‑over is permitted
 
@@ -1951,12 +1579,6 @@ Personal property
 
 the unit is personal property and, subject to section 47, is transmissible by will and by devolution by operation of law.
 
-##### <a id="45A"></a>45A  Registration of equitable interests in relation to Kyoto units
-
-             (1)  The regulations may make provision for or in relation to the registration in the Registry of equitable interests in relation to Kyoto units.
-
-             (2)  Subsection (1) does not apply to an equitable interest that is a security interest within the meaning of the _Personal Property Securities Act 2009_, and to which that Act applies.
-
 ##### <a id="46"></a>46  Equitable interests in relation to a Kyoto unit
 
              (1)  This Act does not affect:
@@ -1980,10 +1602,6 @@ Scope
                      (a)  under section 45, a Kyoto unit is personal property for a particular purpose; and
 
                      (b)  the unit is transmitted from a person (the **_transferor_**) to another person (the **_transferee_**) by any lawful means for that purpose.
-
-Effect of transmission
-
-          (1A)  The transmission is of no force until the Administrator transfers the unit under subsection (7) or (8).
 
 Declaration of transmission
 
@@ -2047,7 +1665,7 @@ Notification
 
 the Administrator must give written notice of the decision to the applicant.
 
-## Part 4—Prescribed international units
+## Part 4—Non‑Kyoto international emissions units
 
 ##### <a id="48"></a>48  Simplified outline
 
@@ -2057,31 +1675,17 @@ the Administrator must give written notice of the decision to the applicant.
 
 <li class="BoxList" style="margin-left:21.25pt">•      This Part sets out rules
 
-about dealings with prescribed international units.</li>
+about dealings with non‑Kyoto international emissions units.</li>
 
 * * *
 
-##### <a id="49"></a>49  Entries for prescribed international units
+##### <a id="49"></a>49  Entries for non‑Kyoto international emissions units
 
-                   An entry for a prescribed international unit in a Registry account is to consist of the serial number (however described) of the unit.
+                   An entry for a non‑Kyoto international emissions unit in a Registry account is to consist of the serial number (however described) of the unit.
 
-##### <a id="49A"></a>49A  Ownership of prescribed international unit
+##### <a id="50"></a>50  Transfer of non‑Kyoto international emissions units
 
-             (1)  The regulations may provide that the registered holder of a prescribed international unit:
-
-                     (a)  is the legal owner of the unit; and
-
-                     (b)  may, subject to this Act, deal with the unit as its legal owner and give good discharges for any consideration for any such dealing.
-
-             (2)  Regulations made for the purposes of subsection (1) only protect a person who deals with the registered holder of the unit as a purchaser:
-
-                     (a)  in good faith for value; and
-
-                     (b)  without notice of any defect in the title of the registered holder.
-
-##### <a id="50"></a>50  Transfer of prescribed international units
-
-             (1)  For the purposes of this Act, if there is an entry for a prescribed international unit in a Registry account (the **_first Registry account_**) kept by a person (the **_first person_**):
+             (1)  For the purposes of this Act, if there is an entry for a non‑Kyoto international emissions unit in a Registry account (the **_first Registry account_**) kept by a person (the **_first person_**):
 
                      (a)  a **_transfer_** of the unit from the first Registry account to a Registry account kept by another person consists of:
 
@@ -2107,15 +1711,15 @@ about dealings with prescribed international units.</li>
 
                              (ii)  the making of an entry for the unit in the foreign account kept by the first person.
 
-             (2)  For the purposes of this Act, if there is an entry for a prescribed international unit in a foreign account, a **_transfer_** of the unit from the foreign account to a Registry account consists of:
+             (2)  For the purposes of this Act, if there is an entry for a non‑Kyoto international emissions unit in a foreign account, a **_transfer_** of the unit from the foreign account to a Registry account consists of:
 
                      (a)  the removal of the entry for the unit from the foreign account; and
 
                      (b)  the making of an entry for the unit in the Registry account.
 
-##### <a id="51"></a>51  Domestic transfers of prescribed international units
+##### <a id="51"></a>51  Domestic transfers of non‑Kyoto international emissions units
 
-             (1)  If a person (the **_first person_**) is the registered holder of one or more prescribed international units, the person may, by electronic notice transmitted to the Administrator, instruct the Administrator to transfer the units from the relevant Registry account kept by the person (the **_first Registry account_**) to:
+             (1)  If a person (the **_first person_**) is the registered holder of one or more non‑Kyoto international emissions units, the person may, by electronic notice transmitted to the Administrator, instruct the Administrator to transfer the units from the relevant Registry account kept by the person (the **_first Registry account_**) to:
 
                      (a)  a Registry account kept by another person; or
 
@@ -2143,9 +1747,9 @@ the Administrator must give effect to the instruction as soon as practicable aft
 
              (5)  If the first person is the Commonwealth, the Minister may give an instruction under subsection (1) on behalf of the first person.
 
-##### <a id="52"></a>52  Outgoing international transfers of prescribed international units
+##### <a id="52"></a>52  Outgoing international transfers of non‑Kyoto international emissions units
 
-             (1)  If a person (the **_first person_**) is the registered holder of one or more prescribed international units, the person may, by electronic notice transmitted to the Administrator, instruct the Administrator to transfer the units from the relevant Registry account kept by the person (the **_first Registry account_**) to:
+             (1)  If a person (the **_first person_**) is the registered holder of one or more non‑Kyoto international emissions units, the person may, by electronic notice transmitted to the Administrator, instruct the Administrator to transfer the units from the relevant Registry account kept by the person (the **_first Registry account_**) to:
 
                      (a)  a foreign account kept by another person; or
 
@@ -2175,25 +1779,25 @@ the Administrator must take such steps as are required by the regulations.
 
              (7)  If the first person is the Commonwealth, the Minister may give an instruction under subsection (1) on behalf of the first person.
 
-##### <a id="53"></a>53  Incoming international transfers of prescribed international units
+##### <a id="53"></a>53  Incoming international transfers of non‑Kyoto international emissions units
 
              (1)  If:
 
-                     (a)  the Administrator receives an instruction for the transfer of a prescribed international unit from a foreign account; and
+                     (a)  the Administrator receives an instruction for the transfer of a non‑Kyoto international emissions unit from a foreign account; and
 
                      (b)  the conditions (if any) specified in the regulations are satisfied;
 
-the Administrator must make an entry for the prescribed international unit in the relevant Registry account.
+the Administrator must make an entry for the non‑Kyoto international emissions unit in the relevant Registry account.
 
-             (2)  However, the Administrator may refuse to make an entry for the prescribed international unit in the relevant Registry account if the Administrator has reasonable grounds to suspect that the instruction is fraudulent.
+             (2)  However, the Administrator may refuse to make an entry for the non‑Kyoto international emissions unit in the relevant Registry account if the Administrator has reasonable grounds to suspect that the instruction is fraudulent.
 
-             (3)  If the Administrator decides to refuse to make an entry for the prescribed international unit in the relevant Registry account, the Administrator must give written notice of the decision to the person who gave the instruction.
+             (3)  If the Administrator decides to refuse to make an entry for the non‑Kyoto international emissions unit in the relevant Registry account, the Administrator must give written notice of the decision to the person who gave the instruction.
 
-##### <a id="54"></a>54  A registered prescribed international unit is personal property for certain purposes
+##### <a id="54"></a>54  A registered non‑Kyoto international emissions unit is personal property for certain purposes
 
 Scope
 
-             (1)  This section applies if there is an entry for a prescribed international unit in a Registry account.
+             (1)  This section applies if there is an entry for a non‑Kyoto international emissions unit in a Registry account.
 
 Personal property
 
@@ -2209,13 +1813,7 @@ Personal property
 
 the unit is personal property and, subject to section 56 of this Act, is transmissible by will and by devolution by operation of law.
 
-##### <a id="54A"></a>54A  Registration of equitable interests in relation to prescribed international units
-
-             (1)  The regulations may make provision for or in relation to the registration in the Registry of equitable interests in relation to prescribed international units.
-
-             (2)  Subsection (1) does not apply to an equitable interest that is a security interest within the meaning of the _Personal Property Securities Act 2009_, and to which that Act applies.
-
-##### <a id="55"></a>55  Equitable interests in relation to a prescribed international unit
+##### <a id="55"></a>55  Equitable interests in relation to a non‑Kyoto international emissions unit
 
              (1)  This Act does not affect:
 
@@ -2225,23 +1823,19 @@ the unit is personal property and, subject to section 56 of this Act, is trans
 
                      (c)  the enforcement of;
 
-equitable interests in relation to a prescribed international unit.
+equitable interests in relation to a non‑Kyoto international emissions unit.
 
              (2)  Subsection (1) is enacted for the avoidance of doubt.
 
-##### <a id="56"></a>56  Transmission of registered prescribed international units by operation of law etc.
+##### <a id="56"></a>56  Transmission of registered non‑Kyoto international emissions units by operation of law etc.
 
 Scope
 
              (1)  This section applies if:
 
-                     (a)  under section 54, a prescribed international unit is personal property for a particular purpose; and
+                     (a)  under section 54, a non‑Kyoto international emissions unit is personal property for a particular purpose; and
 
                      (b)  the unit is transmitted from a person (the **_transferor_**) to another person (the **_transferee_**) by any lawful means for that purpose.
-
-Effect of transmission
-
-          (1A)  The transmission is of no force until the Administrator transfers the prescribed international unit under subsection (7) or (8).
 
 Declaration of transmission
 
@@ -2305,9 +1899,9 @@ Notification
 
 the Administrator must give written notice of the decision to the applicant.
 
-##### <a id="57"></a>57  Regulations about prescribed international units
+##### <a id="57"></a>57  Regulations about non‑Kyoto international emissions units
 
-                   The regulations may make further provision in relation to prescribed international units.
+                   The regulations may make further provision in relation to non‑Kyoto international emissions units.
 
 ## Part 5—Publication of information
 
@@ -2325,7 +1919,7 @@ publish certain information about:</li>
 
               (b)     Kyoto units; and
 
-               (c)     prescribed international units.
+               (c)     non‑Kyoto international emissions units.
 
 * * *
 
@@ -2373,35 +1967,35 @@ Kyoto units
 
                      (b)  keep that statement up‑to‑date.
 
-Prescribed international units
+Non‑Kyoto units
 
              (3)  The Administrator must:
 
-                     (a)  within 30 days after the commencement of regulations made for the purposes of paragraph (a) of the definition of **_prescribed international unit_** in section 4, publish on the Administrator’s website a statement setting out a concise description of the characteristics of units prescribed by those regulations; and
+                     (a)  within 30 days after the commencement of regulations made for the purposes of paragraph (a) of the definition of **_non‑Kyoto international emissions_** **_unit_** in section 4, publish on the Administrator’s website a statement setting out a concise description of the characteristics of units prescribed by those regulations; and
 
                      (b)  keep that statement up‑to‑date.
 
              (4)  The Administrator must:
 
-                     (a)  within 30 days after the commencement of regulations made for the purposes of paragraph (b) of the definition of **_prescribed international unit_** in section 4, publish on the Administrator’s website a statement setting out a concise description of the characteristics of units prescribed by those regulations; and
+                     (a)  within 30 days after the commencement of regulations made for the purposes of paragraph (b) of the definition of **_non‑Kyoto international emissions_** **_unit_** in section 4, publish on the Administrator’s website a statement setting out a concise description of the characteristics of units prescribed by those regulations; and
 
                      (b)  keep that statement up‑to‑date.
 
 ##### <a id="62"></a>62  Information about number of voluntarily cancelled Kyoto units
 
-                   As soon as practicable after one or more Kyoto units held by a person are transferred under section 65 to a voluntary cancellation account, the Administrator must publish on the Administrator’s website:
+                   As soon as practicable after one or more Kyoto units held by a person are transferred under section 65 to a voluntary cancellation account, the Administrator must publish on the Administrator’s website:
 
                      (a)  the name of the person; and
 
                      (b)  the total number of Kyoto units transferred.
 
-##### <a id="63"></a>63  Information about number of voluntarily cancelled prescribed international units
+##### <a id="63"></a>63  Information about number of voluntarily cancelled non‑Kyoto international emissions units
 
-                   As soon as practicable after one or more prescribed international units held by a person are cancelled under section 66, the Administrator must publish on the Administrator’s website:
+                   As soon as practicable after one or more non‑Kyoto international emissions units held by a person are cancelled under section 66, the Administrator must publish on the Administrator’s website:
 
                      (a)  the name of the person; and
 
-                     (b)  the total number of prescribed international units cancelled.
+                     (b)  the total number of non‑Kyoto international emissions units cancelled.
 
 ## Part 6—Voluntary cancellation of emissions units
 
@@ -2421,9 +2015,9 @@ those units.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      If a person is the
 
-registered holder of one or more prescribed international units, the person may
+registered holder of one or more non‑Kyoto international emissions units, the
 
-request the Administrator to cancel any or all of those units.</li>
+person may request the Administrator to cancel any or all of those units.</li>
 
 * * *
 
@@ -2449,17 +2043,17 @@ the Administrator must comply with the request as soon as practicable after rece
 
              (4)  The Registry must set out a record of each notice under subsection (1).
 
-##### <a id="66"></a>66  Voluntary cancellation of prescribed international units
+##### <a id="66"></a>66  Voluntary cancellation of non‑Kyoto international emissions units
 
-             (1)  If a person is the registered holder of one or more prescribed international units, the person may, by electronic notice transmitted to the Administrator, request the Administrator to cancel any or all of those units.
+             (1)  If a person is the registered holder of one or more non‑Kyoto international emissions units, the person may, by electronic notice transmitted to the Administrator, request the Administrator to cancel any or all of those units.
 
              (2)  A notice under subsection (1) must:
 
-                     (a)  specify the prescribed international unit or units that are to be cancelled; and
+                     (a)  specify the non‑Kyoto international emissions unit or units that are to be cancelled; and
 
-                     (b)  specify the account number or account numbers of the person’s Registry account, or the person’s Registry accounts, in which there is an entry or entries for the prescribed international unit or units that are to be cancelled.
+                     (b)  specify the account number or account numbers of the person’s Registry account, or the person’s Registry accounts, in which there is an entry or entries for the non‑Kyoto international emissions unit or units that are to be cancelled.
 
-             (3)  If the Administrator receives a notice under subsection (1) in relation to a prescribed international unit:
+             (3)  If the Administrator receives a notice under subsection (1) in relation to a non‑Kyoto international emissions unit:
 
                      (a)  if the regulations require the Administrator to cancel the unit—the Administrator must cancel the unit; and
 
@@ -2765,51 +2359,6 @@ Administrator may be reviewed by the Administrative Appeals Tribunal.</li>
     <div>A decision to refuse to make an alteration to the Registry under section 20
       or 21.</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>A decision under subsection 28B(8) to continue to refuse to give effect
-      to a transfer instruction.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>A decision under subsection 28C(12) not to revoke an instrument imposing
-      conditions restricting or limiting the operation of a Registry account.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>A decision under subsection 28C(12) not to vary an instrument imposing
-      conditions restricting or limiting the operation of a Registry account.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>A decision under subsection 28D(11) not to revoke an instrument suspending
-      a Registry account.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>A decision under subsection 28D(11) not to vary an instrument suspending
-      a Registry account.</div>
-  </td>
 </tr></table>
 
 ##### <a id="83"></a>83  Applications for reconsideration of decisions made by delegates of the Administrator
@@ -3002,6 +2551,8 @@ conferred by this Act or the regulations.
 
 The _Australian National Registry of Emissions Units Act 2011_ as shown in this compilation comprises Act No. 99, 2011 amended as indicated in the Tables below.
 
+Sections 3–97 of this Act are not in force, _see_ s. 2(1).
+
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
@@ -3047,7 +2598,7 @@ of Assent</div>
     <div>15 Sept 2011</div>
   </td>
   <td>
-    <div>Ss. 3–97: 8 Dec 2011 ( <i>see</i>s. 2(1)) 
+    <div>Ss. 3–97: ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3065,484 +2616,13 @@ Remainder: Royal Assent</div>
     <div>18 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 5–7, 13, 15, 43–46, 215A): \[ <i>see</i>s. 2(1), Note 2 and Table A] 
+    <div>Schedule 1 (items 5–7, 13, 
+15, 43–46, 215A): \[ <i>see</i>s. 2(1), Note 2 and Table A] 
 Schedule 1 (items 229–256): \[ <i>see</i>Note 2] 
-Schedule 4: 8 Dec 2011</div>
+Schedule 4: \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>Sch. 1 (item 215A)</div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3–5</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15, 16</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 17(3)</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 21</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 21, 22</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 25(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28A–28D</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32A</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45A</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 4</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 49</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49A</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 50</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 51</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 52</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 53</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 54</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54A</div>
-  </td>
-  <td>
-    <div>ad. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 55</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 56</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 57</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 61(3)</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 63</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 66</div>
-  </td>
-  <td>
-    <div>rs. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>am. No. 132, 2011</div>
   </td>
 </tr></table>
 
@@ -3550,7 +2630,7 @@ Schedule 4: 8 Dec 2011</div>
 
 _Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
 
-The following amendments commence on 2 April 2012:
+The following amendments commence at the same time as section 3 of the _Clean Energy Act 2011_:
 
 ## Schedule 1
 
@@ -3586,7 +2666,7 @@ Omit “his or her”, substitute “its”.
 
 Omit “he or she”, substitute “the Regulator”.
 
-## 45  Subsection 85(2)
+## 45  Subsection 85(2)
 
 Omit “his or her”, substitute “its”.
 
@@ -3974,7 +3054,751 @@ request the Regulator to cancel any or all of those units.</li>
 
              (4)  The Registry must set out a record of each notice under subsection (1).
 
-As at 9 December 2011 the amendments are not incorporated in this compilation.
+The following amendments commence on the day section 3 of the _Australian National Registry of Emissions Units Act 2011_ commences:
+
+## Schedule 4
+
+## 1  Section 3
+
+Omit “non‑Kyoto international emissions units” (wherever occurring), substitute “prescribed international units”.
+
+## 2  Section 4 (paragraph (e) of the definition of _eligible international emissions unit_)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 3  Section 4 (paragraph (b) of the definition of _foreign account_)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 4  Section 4 (paragraph (b) of the definition of _foreign account_)
+
+Omit “foreign non‑Kyoto registry”, substitute “foreign registry”.
+
+## 5  Section 4 (definition of _foreign non‑Kyoto registry_)
+
+Repeal the definition.
+
+## 6  Section 4
+
+Insert:
+
+                    <a name="foreign-registri"></a>**_foreign registry_** means a registry that:
+
+                     (a)  is located in a foreign country; and
+
+                     (b)  is specified in the regulations.
+
+## 7  Section 4 (definition of _non‑Kyoto international emissions unit_)
+
+Repeal the definition.
+
+## 8  Section 4
+
+Insert:
+
+                    <a name="prescrib-intern-unit"></a>**_prescribed international unit_** means:
+
+                     (a)  a prescribed unit issued in accordance with an international agreement (other than the Kyoto Protocol); or
+
+                     (b)  a prescribed unit issued outside Australia under a law of a foreign country.
+
+It is immaterial whether a unit covered by paragraph (a) was issued in or outside Australia.
+
+## 9  Section 4 (paragraph (c) of the definition of _registered holder_)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 10  Section 4 (paragraph (b) of the definition of _transfer_)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 11  Subsection 5(6)
+
+Omit “subsections 14(3) and (4)”, substitute “section 14A”.
+
+## 12  Paragraph 15(2)(d)
+
+Omit “non‑Kyoto international emissions units”, substitute “prescribed international units”.
+
+## 13  Subsection 16(5)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 14  Subsection 17(3) (heading)
+
+Repeal the heading, substitute:
+
+Prescribed international units
+
+## 15  Subsection 17(3)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 16  After subsection 19(3)
+
+Insert:
+
+          (3A)  The Administrator must not exercise the power conferred by subsection (1) of this section in a manner contrary to:
+
+                     (a)  regulations made for the purposes of section 32A or 49A of this Act; or
+
+                     (b)  section 150A of the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
+
+## 17  Section 21 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="21"></a>21  General power of correction of Registry—prescribed international units
+
+## 18  Subsection 21(1)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 19  After subsection 22(4)
+
+Insert:
+
+          (4A)  The court must not make an order that is contrary to:
+
+                     (a)  regulations made for the purposes of section 32A or 49A of this Act; or
+
+                     (b)  section 150A of the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
+
+## 20  At the end of subsection 25(1)
+
+Add:
+
+Note:          See also section 155 of the _Evidence Act 1995_.
+
+## 21  Subsection 25(2)
+
+Repeal the subsection.
+
+## 22  Subparagraph 26(3)(a)(iii)
+
+Repeal the subparagraph, substitute:
+
+                            (iii)  prescribed international units;
+
+## 23  At the end of Division 7 of Part 2
+
+Add:
+
+##### <a id="28A"></a>28A  Administrator may defer giving effect to a transfer instruction
+
+Scope
+
+             (1)  This section applies if the Administrator receives an instruction to transfer one or more:
+
+                     (a)  Australian carbon credit units; or
+
+                     (b)  Kyoto units; or
+
+                     (c)  prescribed international units;
+
+to or from a Registry account kept in the name of a person.
+
+Administrator may defer giving effect to the instruction
+
+             (2)  The Administrator may defer giving effect to the instruction, for a period not exceeding 48 hours, if the Administrator is satisfied that it is prudent to do so in order to:
+
+                     (a)  ensure the integrity of the Registry; or
+
+                     (b)  prevent, mitigate or minimise abuse of the Registry; or
+
+                     (c)  prevent, mitigate or minimise criminal activity involving the Registry.
+
+Prior notice not required
+
+             (3)  The Administrator is not required to give any prior notice of a deferral under subsection (2).
+
+Other provisions
+
+             (4)  This section has effect despite:
+
+                     (a)  any other provision of this Act; or
+
+                     (b)  anything in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
+
+##### <a id="28B"></a>28B  Administrator may refuse to give effect to a transfer instruction
+
+Scope
+
+             (1)  This section applies if the Administrator receives an instruction to transfer one or more:
+
+                     (a)  Australian carbon credit units; or
+
+                     (b)  Kyoto units; or
+
+                     (c)  prescribed international units;
+
+to or from a Registry account kept in the name of a person.
+
+Administrator may refuse to give effect to instruction
+
+             (2)  The Administrator may refuse to give effect to the instruction if the Administrator is satisfied that it is prudent to do so in order to:
+
+                     (a)  ensure the integrity of the Registry; or
+
+                     (b)  prevent, mitigate or minimise abuse of the Registry; or
+
+                     (c)  prevent, mitigate or minimise criminal activity involving the Registry.
+
+Notification
+
+             (3)  As soon as practicable after the Administrator refuses, under subsection (2), to give effect to the instruction, the Administrator must give written notice of the refusal to:
+
+                     (a)  in any case—the person; or
+
+                     (b)  if the instruction was given by another person—that other person.
+
+             (4)  A notice given to a person under subsection (3) must invite the person to request the Administrator to cease to refuse to give effect to the instruction.
+
+             (5)  A request under subsection (4) must:
+
+                     (a)  be in writing; and
+
+                     (b)  be in a form approved, in writing, by the Administrator; and
+
+                     (c)  set out the reason for the request.
+
+             (6)  If the person makes a request under subsection (4), the Administrator may, by written notice given to the person, require the person to give the Administrator, within the period specified in the notice, further information in connection with the request.
+
+Prior notice not required
+
+             (7)  The Administrator is not required to give any prior notice of a refusal under subsection (2).
+
+Decision on request
+
+             (8)  If the Administrator receives a request under subsection (4), the Administrator must:
+
+                     (a)  cease to refuse to give effect to the instruction; or
+
+                     (b)  decide to continue to refuse to give effect to the instruction.
+
+             (9)  The Administrator must take all reasonable steps to ensure that a decision is made under subsection (8):
+
+                     (a)  if the Administrator requires the person to give further information under subsection (6) in relation to the request—within 7 days after the person gave the Administrator the information; or
+
+                     (b)  otherwise—within 7 days after the request was made.
+
+           (10)  As soon as practicable after the Administrator makes a decision under subsection (8), the Administrator must notify the person, in writing, of the decision.
+
+Other provisions
+
+           (11)  This section has effect despite:
+
+                     (a)  any other provision of this Act; or
+
+                     (b)  anything in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
+
+Note:          For additional powers of refusal, see:
+
+(a)    paragraph 34(3)(a) of this Act; and
+
+(b)    paragraph 35(3)(a) of this Act; and
+
+(c)    subsection 36(2) of this Act; and
+
+(d)    subsection 53(2) of this Act.
+
+##### <a id="28C"></a>28C  Conditions restricting or limiting the operation of Registry accounts
+
+Scope
+
+             (1)  This section applies to a Registry account kept in the name of a person.
+
+Imposition of conditions
+
+             (2)  The Administrator may, by written instrument, impose conditions restricting or limiting the operation of the Registry account for a specified period.
+
+             (3)  The Administrator may exercise the power conferred by subsection (2):
+
+                     (a)  on the Administrator’s own initiative; or
+
+                     (b)  on written request made to the Administrator by the person.
+
+             (4)  The Administrator must not make an instrument under subsection (2) unless the Administrator is satisfied that it is prudent to do so in order to:
+
+                     (a)  ensure the integrity of the Registry; or
+
+                     (b)  prevent, mitigate or minimise abuse of the Registry; or
+
+                     (c)  prevent, mitigate or minimise criminal activity involving the Registry.
+
+             (5)  A condition under subsection (2) may:
+
+                     (a)  prohibit, restrict or limit the transfer of units from the Registry account; or
+
+                     (b)  prohibit, restrict or limit the transfer of units to the Registry account.
+
+             (6)  Subsection (5) does not limit subsection (2).
+
+Notification
+
+             (7)  As soon as practicable after making an instrument under subsection (2), the Administrator must give the person a copy of the instrument.
+
+             (8)  If an instrument under subsection (2) is made on the Administrator’s own initiative, the copy of the instrument must be accompanied by a notice inviting the person to request the Administrator to:
+
+                     (a)  revoke the instrument; or
+
+                     (b)  vary the instrument in the manner specified in the request.
+
+Request
+
+             (9)  A request under paragraph (3)(b) or subsection (8) must:
+
+                     (a)  be in writing; and
+
+                     (b)  be in a form approved, in writing, by the Administrator; and
+
+                     (c)  set out the reason for the request.
+
+Further information
+
+           (10)  If the person makes a request under subsection (8), the Administrator may, by written notice given to the person, require the person to give the Administrator, within the period specified in the notice, further information in connection with the request.
+
+Prior notice not required
+
+           (11)  The Administrator is not required to give any prior notice of a decision to make an instrument under subsection (2).
+
+Decision in relation to instrument made on own initiative
+
+           (12)  If the Administrator receives a request under subsection (8), the Administrator must:
+
+                     (a)  if the request is to revoke the instrument:
+
+                              (i)  revoke the instrument; or
+
+                             (ii)  decide not to revoke the instrument; or
+
+                     (b)  if the request is to vary the instrument:
+
+                              (i)  vary the instrument as requested; or
+
+                             (ii)  decide not to vary the instrument.
+
+           (13)  The Administrator must take all reasonable steps to ensure that a decision is made under subsection (12):
+
+                     (a)  if the Administrator requires the person to give further information under subsection (10) in relation to the request—within 7 days after the person gave the Administrator the information; or
+
+                     (b)  otherwise—within 7 days after the request was made.
+
+           (14)  As soon as practicable after the Administrator makes a decision under subsection (12), the Administrator must notify the person, in writing, of the decision.
+
+Revocation of instrument made in response to a request
+
+           (15)  If:
+
+                     (a)  an instrument is in force under subsection (2); and
+
+                     (b)  the instrument was made in response to a request under paragraph (3)(b);
+
+the Administrator must, at the written request of the person, revoke the instrument.
+
+Acts Interpretation Act
+
+           (16)  Subsections (12) and (15) do not, by implication, limit subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+Other provisions
+
+           (17)  This section has effect despite:
+
+                     (a)  any other provision of this Act; or
+
+                     (b)  anything in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
+
+##### <a id="28D"></a>28D  Suspension of Registry accounts
+
+Scope
+
+             (1)  This section applies to a Registry account kept in the name of a person.
+
+Suspension
+
+             (2)  The Administrator may, by written instrument, suspend the Registry account for a specified period.
+
+             (3)  The Administrator may exercise the power conferred by subsection (2):
+
+                     (a)  on the Administrator’s own initiative; or
+
+                     (b)  on written request made to the Administrator by the person.
+
+             (4)  The Administrator must not make an instrument under subsection (2) unless the Administrator is satisfied that it is prudent to do so in order to:
+
+                     (a)  ensure the integrity of the Registry; or
+
+                     (b)  prevent, mitigate or minimise abuse of the Registry; or
+
+                     (c)  prevent, mitigate or minimise criminal activity involving the Registry.
+
+             (5)  If an account is suspended under subsection (2):
+
+                     (a)  the Administrator must not:
+
+                              (i)  give effect to any instruction to transfer units to or from the Registry account; or
+
+                             (ii)  issue any Australian carbon credit units to the Registry account; and
+
+                     (b)  a notice to relinquish Australian carbon credit units under section 175 of the _Carbon Credits (Carbon Farming Initiative) Act 2011_ does not have effect.
+
+Notification
+
+             (6)  As soon as practicable after making an instrument under subsection (2), the Administrator must give the person a copy of the instrument.
+
+             (7)  If an instrument under subsection (2) is made on the Administrator’s own initiative, the copy of the instrument must be accompanied by a notice inviting the person to request the Administrator to:
+
+                     (a)  revoke the instrument; or
+
+                     (b)  vary the instrument in the manner specified in the request.
+
+Request
+
+             (8)  A request under paragraph (3)(b) or subsection (7) must:
+
+                     (a)  be in writing; and
+
+                     (b)  be in a form approved, in writing, by the Administrator; and
+
+                     (c)  set out the reason for the request.
+
+Further information
+
+             (9)  If the person makes a request under subsection (7), the Administrator may, by written notice given to the person, require the person to give the Administrator, within the period specified in the notice, further information in connection with the request.
+
+Prior notice not required
+
+           (10)  The Administrator is not required to give any prior notice in relation to the decision to make an instrument under subsection (2).
+
+Decision in relation to instrument made on own initiative
+
+           (11)  If the Administrator receives a request under subsection (7), the Administrator must:
+
+                     (a)  if the request is to revoke the instrument:
+
+                              (i)  revoke the instrument; or
+
+                             (ii)  decide not to revoke the instrument; or
+
+                     (b)  if the request is to vary the instrument:
+
+                              (i)  vary the instrument as requested; or
+
+                             (ii)  decide not to vary the instrument.
+
+           (12)  The Administrator must take all reasonable steps to ensure that a decision is made under subsection (11):
+
+                     (a)  if the Administrator requires the person to give further information under subsection (9) in relation to the request—within 7 days after the person gave the Administrator the information; or
+
+                     (b)  otherwise—within 7 days after the request was made.
+
+           (13)  As soon as practicable after the Administrator makes a decision under subsection (11), the Administrator must notify the person, in writing, of the decision.
+
+Revocation of instrument made in response to a request
+
+           (14)  If:
+
+                     (a)  an instrument is in force under subsection (2); and
+
+                     (b)  the instrument was made in response to a request under paragraph (3)(b);
+
+the Administrator must, at the written request of the person, revoke the instrument.
+
+Acts Interpretation Act
+
+           (15)  Subsections (11) and (14) do not, by implication, limit subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+Other provisions
+
+           (16)  This section has effect despite:
+
+                     (a)  any other provision of this Act; or
+
+                     (b)  anything in the _Carbon Credits (Carbon Farming Initiative) Act 2011_.
+
+## 24  After section 32
+
+Insert:
+
+##### <a id="32A"></a>32A  Ownership of Kyoto unit
+
+             (1)  The regulations may provide that the registered holder of a Kyoto unit:
+
+                     (a)  is the legal owner of the unit; and
+
+                     (b)  may, subject to this Act, deal with the unit as its legal owner and give good discharges for any consideration for any such dealing.
+
+             (2)  Regulations made for the purposes of subsection (1) only protect a person who deals with the registered holder of the unit as a purchaser:
+
+                     (a)  in good faith for value; and
+
+                     (b)  without notice of any defect in the title of the registered holder.
+
+## 25  After section 45
+
+Insert:
+
+##### <a id="45A"></a>45A  Registration of equitable interests in relation to Kyoto units
+
+             (1)  The regulations may make provision for or in relation to the registration in the Registry of equitable interests in relation to Kyoto units.
+
+             (2)  Subsection (1) does not apply to an equitable interest that is a security interest within the meaning of the _Personal Property Securities Act 2009_, and to which that Act applies.
+
+## 25A  After subsection 47(1)
+
+Insert:
+
+Effect of transmission
+
+          (1A)  The transmission is of no force until the Administrator transfers the unit under subsection (7) or (8).
+
+## 26  Part 4 (heading)
+
+Repeal the heading, substitute:
+
+## Part 4—Prescribed international units
+
+## 27  Section 48
+
+Omit “non‑Kyoto international emissions units”, substitute “prescribed international units”.
+
+## 28  Section 49 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="49"></a>49  Entries for prescribed international units
+
+## 29  Section 49
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 30  After section 49
+
+Insert:
+
+##### <a id="49A"></a>49A  Ownership of prescribed international unit
+
+             (1)  The regulations may provide that the registered holder of a prescribed international unit:
+
+                     (a)  is the legal owner of the unit; and
+
+                     (b)  may, subject to this Act, deal with the unit as its legal owner and give good discharges for any consideration for any such dealing.
+
+             (2)  Regulations made for the purposes of subsection (1) only protect a person who deals with the registered holder of the unit as a purchaser:
+
+                     (a)  in good faith for value; and
+
+                     (b)  without notice of any defect in the title of the registered holder.
+
+## 31  Section 50 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="50"></a>50  Transfer of prescribed international units
+
+## 32  Subsections 50(1) and (2)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 33  Section 51 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="51"></a>51  Domestic transfers of prescribed international units
+
+## 34  Subsection 51(1)
+
+Omit “non‑Kyoto international emissions units”, substitute “prescribed international units”.
+
+## 35  Section 52 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="52"></a>52  Outgoing international transfers of prescribed international units
+
+## 36  Subsection 52(1)
+
+Omit “non‑Kyoto international emissions units”, substitute “prescribed international units”.
+
+## 37  Section 53 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="53"></a>53  Incoming international transfers of prescribed international units
+
+## 38  Subsection 53(1)
+
+Omit “non‑Kyoto international emissions unit” (wherever occurring), substitute “prescribed international unit”.
+
+## 39  Subsections 53(2) and (3)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 40  Section 54 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="54"></a>54  A registered prescribed international unit is personal property for certain purposes
+
+## 41  Subsection 54(1)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 42  After section 54
+
+Insert:
+
+##### <a id="54A"></a>54A  Registration of equitable interests in relation to prescribed international units
+
+             (1)  The regulations may make provision for or in relation to the registration in the Registry of equitable interests in relation to prescribed international units.
+
+             (2)  Subsection (1) does not apply to an equitable interest that is a security interest within the meaning of the _Personal Property Securities Act 2009_, and to which that Act applies.
+
+## 43  Section 55 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="55"></a>55  Equitable interests in relation to a prescribed international unit
+
+## 44  Subsection 55(1)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 45  Section 56 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="56"></a>56  Transmission of registered prescribed international units by operation of law etc.
+
+## 46  Paragraph 56(1)(a)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 47  After subsection 56(1)
+
+Insert:
+
+Effect of transmission
+
+          (1A)  The transmission is of no force until the Administrator transfers the prescribed international unit under subsection (7) or (8).
+
+## 48  Section 57 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="57"></a>57  Regulations about prescribed international units
+
+## 49  Section 57
+
+Omit “non‑Kyoto international emissions units”, substitute “prescribed international units”.
+
+## 50  Section 58
+
+Omit “non‑Kyoto international emissions units”, substitute “prescribed international units”.
+
+## 51  Subsection 61(3) (heading)
+
+Repeal the heading, substitute:
+
+Prescribed international units
+
+## 52  Paragraphs 61(3)(a) and (4)(a)
+
+Omit “**_non‑Kyoto international emissions unit_**”, substitute “**_prescribed international unit_**”.
+
+## 53  Section 63 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="63"></a>63  Information about number of voluntarily cancelled prescribed international units
+
+## 54  Section 63
+
+Omit “non‑Kyoto international emissions units” (wherever occurring), substitute “prescribed international units”.
+
+## 55  Section 64
+
+Omit “non‑Kyoto international emissions units”, substitute “prescribed international units”.
+
+## 56  Section 66 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="66"></a>66  Voluntary cancellation of prescribed international units
+
+## 57  Subsection 66(1)
+
+Omit “non‑Kyoto international emissions units”, substitute “prescribed international units”.
+
+## 58  Paragraph 66(2)(a)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 59  Paragraph 66(2)(b)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 60  Subsection 66(3)
+
+Omit “non‑Kyoto international emissions unit”, substitute “prescribed international unit”.
+
+## 61  Section 82 (at the end of the table)
+
+Add:
+
+<table>
+<colgroup>
+  <col width="10%">
+  <col width="90%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>10</div>
+  </td>
+  <td>
+    <div>A decision under subsection 28B(8) to continue to refuse to give effect
+      to a transfer instruction.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>11</div>
+  </td>
+  <td>
+    <div>A decision under subsection 28C(12) not to revoke an instrument imposing
+      conditions restricting or limiting the operation of a Registry account.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>A decision under subsection 28C(12) not to vary an instrument imposing
+      conditions restricting or limiting the operation of a Registry account.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>13</div>
+  </td>
+  <td>
+    <div>A decision under subsection 28D(11) not to revoke an instrument suspending
+      a Registry account.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>14</div>
+  </td>
+  <td>
+    <div>A decision under subsection 28D(11) not to vary an instrument suspending
+      a Registry account.</div>
+  </td>
+</tr></table>
+
+As at 30 November 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3982,7 +3806,7 @@ As at 9 December 2011 the amendments are not incorporated in this compilation.
 
 _Clean Energy (Consequential Amendments) Act 2011 (No. 132, 2011)_
 
-The following provision commences on 2 April 2012:
+The following provision commences at the same time as section 3 of the _Clean Energy Act 2011_:
 
 ## Schedule 1
 
