@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00550/Html/Navigationvol1_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00278/Html/Navigationvol1_WD02_image001.gif)
 
 # Navigation Act 1912
 
 **Act No. 4 of 1913 as amended**
 
-This compilation was prepared on 5 August 2010
- taking into account amendments up to Act No. 96 of 2010
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 **Volume 1** includes:        Table of Contents
  Sections 1–427
@@ -26,7 +26,7 @@ The operation of amendments that have been incorporated may be
  Table of Acts
  Act Notes
  Table of Amendments
- Notes 2 and 3
+ Note 2
  Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -2234,7 +2234,7 @@ there shall be implied, notwithstanding any agreement to the contrary, an obliga
 
 ##### <a id="78"></a>78  Wages to run on in certain cases
 
-                   If a seaman’s wages are not paid in accordance with section 75 before or at the time the seaman is given his or her discharge from a ship, the seaman’s wages shall continue to run until the time of the final settlement of his or her wages (and shall be payable at double rates for any period after the time the seaman is given his or her discharge from the ship) unless the delay is due to the seaman’s act or default, to a reasonable dispute as to liability for the wages or to any other cause not attributable to the wrongful act or default of the owner or master of the ship.
+                   If a seaman’s wages are not paid in accordance with section 75 before or at the time the seaman is given his or her discharge from a ship, the seaman’s wages shall continue to run until the time of the final settlement of his or her wages (and shall be payable at double rates for any period after the time the seaman is given his or her discharge from the ship) unless the delay is due to the seaman’s act or default, to a reasonable dispute as to liability for the wages or to any other cause not attributable to the wrongful act or default of the owner or master of the ship.
 
 ##### <a id="81"></a>81  Reference of differences to superintendent
 
@@ -5825,7 +5825,7 @@ the master and the owner each commit an offence punishable on conviction by a fi
 
 ##### <a id="267ZF"></a>267ZF  Regulations to give effect to Regulations 4, 9 and 10 of Annex IV
 
-                   The regulations may make provision for, and in relation to, giving effect to Regulations 4, 9 and 10 of Annex IV.
+                   The regulations may make provision for, and in relation to, giving effect to Regulations 4, 9 and 10 of Annex IV.
 
 ##### <a id="267ZG"></a>267ZG  International Sewage Pollution Prevention Certificates for Australian ships
 
@@ -6107,7 +6107,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (6)  A notice under paragraph (5)(a) is not a legislative instrument.
 
-##### <a id="267ZZA"></a>267ZZA  Ships to be surveyed periodically
+##### <a id="267ZZA"></a>267ZZA  Ships to be surveyed periodically
 
              (1)  A person commits an offence if:
 
@@ -7129,7 +7129,7 @@ that person shall give notice to the receiver, stating that he or she has found 
 
                    Every person who takes into any place out of Australia any ship stranded, derelict, or otherwise in distress, or any wreck found on or near the coasts of Australia, and there sells it, shall be guilty of an offence punishable on conviction by a fine not exceeding $5,000 or imprisonment for a period not exceeding 2 years, or both.
 
-##### <a id="313"></a>313  Boarding ship in distress without authority
+##### <a id="313"></a>313  Boarding ship in distress without authority
 
              (1)  No person shall board any ship which is wrecked, stranded, or in distress.
 
@@ -7223,7 +7223,7 @@ that are on location engaged in the exploration for, or the exploitation or prod
 
 ##### <a id="317"></a>317  Application of section 2 to this Division
 
-                   Unless otherwise specified, section 2 does not apply to this Division.
+                   Unless otherwise specified, section 2 does not apply to this Division.
 
 ##### <a id="317A"></a>317A  Assistance to persons in danger at sea
 
