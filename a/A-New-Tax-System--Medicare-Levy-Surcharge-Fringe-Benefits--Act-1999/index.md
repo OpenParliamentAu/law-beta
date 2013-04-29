@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00280/Html/ANTSMLSFB1999_WD02_image001.gif)
 
 # A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999
 
 **Act No. 18 of 1999 as amended**
 
-This compilation was prepared on 5 July 2010
- taking into account amendments up to Act No. 78 of 2010
+This compilation was prepared on 30 June 2009
+ taking into account amendments up to Act No. 41 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -157,7 +157,7 @@ Indexation of singles surcharge threshold
 
              (4)  The **_indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00280/Html/ANTSMLSFB1999_WD02_image002.gif)
 
              (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
@@ -173,11 +173,11 @@ Indexation of singles surcharge threshold
 
                      (b)  the result of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00280/Html/ANTSMLSFB1999_WD02_image003.gif)
 
 Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008-09 year of income is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00280/Html/ANTSMLSFB1999_WD02_image004.gif)
 
 ##### <a id="7"></a>7  When are people _married_?
 
@@ -263,7 +263,7 @@ General rule
 
              (3)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00280/Html/ANTSMLSFB1999_WD02_image005.gif)
 
 ### Division 3—Amount of surcharge for single person with dependants
 
@@ -315,7 +315,7 @@ Amount of surcharge payable for part of year
 
              (4)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00280/Html/ANTSMLSFB1999_WD02_image006.gif)
 
 ### Division 4—Amount of surcharge for married person
 
@@ -363,7 +363,7 @@ When this section applies
 
                      (b)  the sum of the person’s income for surcharge purposes, and the person’s spouse’s income for surcharge purposes, for the year of income exceeds the person’s family surcharge threshold for the year of income; and
 
-                     (c)  the person’s income for surcharge purposes for the year of income exceeds $18,488.
+                     (c)  the person’s income for surcharge purposes for the year of income exceeds $17,794.
 
 Special rule if person’s spouse is a presently entitled beneficiary in a trust estate
 
@@ -391,7 +391,7 @@ Person married for whole year of income
 
                      (b)  the sum of the person’s income for surcharge purposes, and the person’s spouse’s income for surcharge purposes, for the year of income exceeds the person’s family surcharge threshold for the year of income; and
 
-                     (c)  the person’s income for surcharge purposes for the year of income exceeds $18,488.
+                     (c)  the person’s income for surcharge purposes for the year of income exceeds $17,794.
 
 Person married for part of the year of income
 
@@ -405,7 +405,7 @@ Amount of surcharge
 
              (4)  The amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00451/Html/ANTSMLSFB1999_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00280/Html/ANTSMLSFB1999_WD02_image007.gif)
 
 where:
 
@@ -799,23 +799,6 @@ of Assent</div>
   <td>
     <div>Sch. 1 (item 13)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2010</div>
-  </td>
-  <td>
-    <div>78, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1, 13): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 13)</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation Amendment (Simplification) Act 2007_ provides as follows:
@@ -1109,7 +1092,7 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>Ss. 15, 16</div>
   </td>
   <td>
-    <div>am. Nos. 53 and 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010</div>
+    <div>am. Nos. 53 and 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009</div>
   </td>
 </tr></table>
 
@@ -1319,15 +1302,4 @@ _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2009 (No. 
 ## 13  Application of amendments
 
 The amendments made by this Schedule apply to assessments for the 2008-09 year of income and later years of income.
-
-* * *
-
-_Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2010 (No. 78, 2010)_
-
-## Schedule 1
-
-## 13  Application of amendments
-
-The amendments made by this Schedule apply to assessments for the 2009-10 year of income and later years of income.
-
  
