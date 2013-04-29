@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00071/Html/A2D20C77F31D8D10CA25713E001FE961/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00261/Html/7C7DF018DE57EC63CA257132000811A1/$FILE/image001.gif)
 
 # Long Service Leave (Commonwealth Employees) Act 1976
 
 **Act No. 192 of 1976 as amended**
 
-This compilation was prepared on 27 March 2006
-taking into account amendments up to Act No. 39 of 2005 and SLI 2006 No. 50
+This compilation was prepared on 6 April 2005
+taking into account amendments up to Act No. 39 of 2005
 
 The text of any of those amendments not in force 
 on that date is appended in the Notes section
@@ -613,7 +613,7 @@ after the expiration of the period of his or her relevant employment and before 
 
                      (b)  shall not be deemed to prevent the making of an award (including an award having effect from a date before the commencement of this Act) or an order, or the certification of an agreement, under that Act in relation to long service leave for seamen included in a prescribed class of seamen, or to affect the operation of such an award, order or agreement; and
 
-                     (c)  does not prevent the making of an award or workplace agreement, or the certification of an agreement, under the _Workplace Relations Act 1996_ in relation to long service leave for maritime employees included in a prescribed class of maritime employees, or affect the operation of such an award or workplace agreement or agreement.
+                     (c)  does not prevent the making of an award, or the certification of an agreement, under the _Workplace Relations Act 1996_ in relation to long service leave for maritime employees included in a prescribed class of maritime employees, or affect the operation of such an award or agreement.
 
              (2)  Where an employee has, in accordance with an award, order or agreement referred to in subsection (1), been granted long service leave, or been paid in lieu of long service leave, in respect of a period of employment, no part of that period of employment shall be included in the period of service of the employee for the purposes of this Act.
 
@@ -697,7 +697,7 @@ the approving authority shall authorize payment to him or her:
 
                      (a)  the long service leave credit of a category A employee on a day is the period equal to the number of months ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00071/Html/A2D20C77F31D8D10CA25713E001FE961/$FILE/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00261/Html/7C7DF018DE57EC63CA257132000811A1/$FILE/image002.gif)
 
                             where:
 
@@ -707,7 +707,7 @@ the approving authority shall authorize payment to him or her:
 
                      (b)  the long service leave credit related to the full-time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2006C00071/Html/A2D20C77F31D8D10CA25713E001FE961/$FILE/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00261/Html/7C7DF018DE57EC63CA257132000811A1/$FILE/image003.gif)
 
                             where:
 
@@ -717,7 +717,7 @@ the approving authority shall authorize payment to him or her:
 
                      (c)  the long service leave credit related to the part-time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2006C00071/Html/A2D20C77F31D8D10CA25713E001FE961/$FILE/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00261/Html/7C7DF018DE57EC63CA257132000811A1/$FILE/image004.gif)
 
                             where:
 
@@ -771,7 +771,7 @@ the approving authority shall authorize payment to him or her:
 
                              (ii)  the rate per week ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2006C00071/Html/A2D20C77F31D8D10CA25713E001FE961/$FILE/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00261/Html/7C7DF018DE57EC63CA257132000811A1/$FILE/image005.gif)
 
                                    where:
 
@@ -931,9 +931,7 @@ immediately before he or she ceases to be an employee is the rate at which full 
 
 **Note:**
 
-The amendment made by this section is incorporated in the compilation on ComLaw.
-
-_Meat Inspection Arrangements Act 1964_
+The amendment made by this section is incorporated in the compilation on SCALEplus and ComLaw.
 
 For access to the wording of the amendment made by this section, _see_ Act No. 192, 1976.</div>
 
@@ -947,8 +945,6 @@ For access to the wording of the amendment made by this section, _see_ Act No. 1
 ### Note 1
 
 The _Long Service Leave (Commonwealth Employees) Act 1976_ as shown in this compilation comprises Act No. 192, 1976 amended as indicated in the Tables below.
-
-The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendment is incorporated in this compilation.
 
 The _Long Service Leave (Commonwealth Employees) Act 1976_ is affected by sections 26 and 32 of the _Qantas Sale Act 1992_ (No. 196, 1992), section 15 of the _Snowy Mountains Engineering Corporation Limited__Sale__Act 1993_ (No. 54, 1993) and sections 15-21 of the _CSL__Sale__Act 1993_ (No. 88, 1993). 
 
@@ -1704,7 +1700,7 @@ No. 43, 1996
       <div>S. 15</div>
     </td>
     <td>
-      <div>am. No. 87, 1988; No. 60, 1996; SLI 2006 No. 50</div>
+      <div>am. No. 87, 1988; No. 60, 1996</div>
     </td>
   </tr>
   <tr>
@@ -1742,7 +1738,7 @@ No. 43, 1996
 </tbody></table>
 
 
-Table A
+## Table A
 
 ### Application, saving or transitional provisions
 
