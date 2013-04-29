@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00490/Html/image001.gif)
 
 # Geneva Conventions Act 1957
 
-**Act No. 103 of 1957 as amended**
+**Act No. 103 of 1957 as amended**
 
-This compilation was prepared on 7 April 2009
- taking into account amendments up to Act No. 18 of 2009
+This compilation was prepared on 26 September 2002 
+ taking into account amendments up to Act No. 42 of 2002
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,55 +18,57 @@ Prepared by the Office of Legislative Drafting,
 
 # Contents
 
-**Part I—Preliminary**
+**Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[5](#5).            Interpretation
+[5](#5).            Interpretation                                                                                       1
 
-[6](#6).            Application of Act
+[6](#6).            Application of Act                                                                              3
 
-[6A](#6A).         Application of the _Criminal Code_
+[6A](#6A).         Application of the _Criminal Code_                                                       3
 
-**Part III—Legal proceedings in respect of protected persons**
+**Part III—Legal proceedings in respect of protected persons**
 
-[10A](#10A).       Court may determine whether person is a protected prisoner of war
+[10A](#10A).       Court may determine whether person is a protected prisoner of war 4
 
-[11](#11).          Notice of trial of protected prisoners of war and internees to be served on protecting power etc 
+[11](#11).          Notice of trial of protected prisoners of war and internees to be served on protecting power etc         4
 
-[12](#12).          Legal representation of prisoners of war
+[12](#12).          Legal representation of prisoners of war                                             5
 
-[13](#13).          Appeals by protected prisoners of war and internees
+[13](#13).          Appeals by protected prisoners of war and internees                        7
 
-[14](#14).          Reduction of sentence and custody of protected prisoners of war and internees
+[14](#14).          Reduction of sentence and custody of protected prisoners of war and internees   8
 
-**Part IV—Abuse of the Red Cross and other emblems, signs, signals, identity cards, insignia and uniforms**
+**Part IV—Abuse of the Red Cross and other emblems, signs, signals, identity cards, insignia and uniforms**
 
-[15](#15).          Use of Red Cross and other emblems, signs, signals, identity cards, insignia and uniforms
+[15](#15).          Use of Red Cross and other emblems, signs, signals, identity cards, insignia and uniforms   9
 
-**Part V—Regulations**
+**Part V—Regulations**
 
-[16](#16).          Regulations
+[16](#16).          Regulations                                                                                        12
 
 **The Schedules** 
 
-**Schedule 1—Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of August 12, 1949** 
+**Schedule 1—Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of August 12, 1949** 
 
-**Schedule 2—Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea of August 12, 1949** 
+**Schedule 2—Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea of August 12, 1949** 
 
-**Schedule 3—Geneva Convention Relative to the Treatment of Prisoners of War of August 12, 1949** 
+**Schedule 3—Geneva Convention Relative to the Treatment of Prisoners of War of August 12, 1949** 
 
-**Schedule 4—Geneva Convention Relative to the Protection of Civilian Persons in Time of War of August 12, 1949** 
+**Schedule 4—Geneva Convention Relative to the Protection of Civilian Persons in Time of War of August 12, 1949** 
 
-**Schedule 5—Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I)** 
+**Schedule 5—Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I)** 
 
 **Notes** 
 
-## An Act to enable effect to be given to certain Conventions done at Geneva on 12 August 1949 and to a Protocol additional to those Conventions done at Geneva on 10 June 1977, and for related purposes
+ 
 
-## Part I—Preliminary
+## An Act to enable effect to be given to certain Conventions done at Geneva on 12 August 1949 and to a Protocol additional to those Conventions done at Geneva on 10 June 1977, and for related purposes
+
+## Part I—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -80,19 +82,19 @@ Prepared by the Office of Legislative Drafting,
 
              (1)  In this Act:
 
-                    <a name="first-convent"></a>**_the First Convention_** means the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annexes to that Convention) is set out in Schedule 1.
+                    <a name="first-convent"></a>**_the First Convention_** means the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annexes to that Convention) is set out in Schedule 1.
 
-                    <a name="second-convent"></a>**_the Second Convention_** means the Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annex to that Convention) is set out in Schedule 2.
+                    <a name="second-convent"></a>**_the Second Convention_** means the Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annex to that Convention) is set out in Schedule 2.
 
-                    <a name="third-convent"></a>**_the Third Convention_** means the Geneva Convention relative to the Treatment of Prisoners of War, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annexes to that Convention) is set out in Schedule 3.
+                    <a name="third-convent"></a>**_the Third Convention_** means the Geneva Convention relative to the Treatment of Prisoners of War, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annexes to that Convention) is set out in Schedule 3.
 
-                    <a name="fourth-convent"></a>**_the Fourth Convention_** means the Geneva Convention relative to the Protection of Civilian Persons in Time of War, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annexes to that Convention) is set out in Schedule 4.
+                    <a name="fourth-convent"></a>**_the Fourth Convention_** means the Geneva Convention relative to the Protection of Civilian Persons in Time of War, adopted at Geneva on 12 August 1949, a copy of which Convention (not including the annexes to that Convention) is set out in Schedule 4.
 
                     <a name="convent"></a>**_the Conventions_** means the First Convention, the Second Convention, the Third Convention and the Fourth Convention.
 
           (1A)  In this Act:
 
-                    <a name="protocol"></a>**_Protocol I_** means the Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I), done at Geneva on 10 June 1977, a copy of the English text of which is set out in Schedule 5.
+                    <a name="protocol"></a>**_Protocol I_** means the Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I), done at Geneva on 10 June 1977, a copy of the English text of which is set out in Schedule 5.
 
              (2)  In this Act, unless the contrary intention appears:
 
@@ -124,7 +126,7 @@ Prepared by the Office of Legislative Drafting,
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-## Part III—Legal proceedings in respect of protected persons
+## Part III—Legal proceedings in respect of protected persons
 
 ##### <a id="10A"></a>10A  Court may determine whether person is a protected prisoner of war
 
@@ -132,7 +134,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  The jurisdiction of a Court for the purposes of this section is constituted by a single Judge.
 
-             (3)  Subject to subsection (4), the jurisdiction of the Court is to be exercised in open court.
+             (3)  Subject to subsection (4), the jurisdiction of the Court is to be exercised in open court.
 
              (4)  The Court may order the exclusion of the public or persons specified by the Court from a sitting of the Court where the Court is satisfied that the presence of the public or those persons, as the case may be, would be contrary to the interests of justice or would not be in the public interest.
 
@@ -144,9 +146,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  a protected internee is brought up for trial for an offence for which that court has power to sentence him or her to imprisonment for a term of 2 years or more;
 
-shall not proceed with the trial until it is proved to the satisfaction of the court that a notice containing the particulars mentioned in subsection (2), so far as they are known to the prosecutor, has been served not less than 3 weeks previously on the protecting power (if there is a protecting power) and, if the accused is a protected prisoner of war, on the accused and the prisoners’ representative.
+shall not proceed with the trial until it is proved to the satisfaction of the court that a notice containing the particulars mentioned in subsection (2), so far as they are known to the prosecutor, has been served not less than 3 weeks previously on the protecting power (if there is a protecting power) and, if the accused is a protected prisoner of war, on the accused and the prisoners’ representative.
 
-             (2)  The particulars referred to in subsection (1) are:
+             (2)  The particulars referred to in subsection (1) are:
 
                      (a)  the full name, date of birth and description of the accused, including his or her profession or trade;
 
@@ -164,7 +166,7 @@ shall not proceed with the trial until it is proved to the satisfaction of the c
 
                      (b)  to be an acknowledgment of the receipt by that power, representative or person on a specified day of a notice described in the document as a notice under this section;
 
-shall, unless the contrary is shown, be sufficient evidence that the notice required by subsection (1) was served on that power, representative or person on that day.
+shall, unless the contrary is shown, be sufficient evidence that the notice required by subsection (1) was served on that power, representative or person on that day.
 
              (4)  In this section, the expression **_prisoners’ representative_**, in relation to a particular protected prisoner of war at a particular time, means the person by whom the functions of prisoners’ representative within the meaning of Article 79 of the Third Convention were exercisable in relation to that prisoner at the camp or place at which that prisoner was, at or last before that time, detained as a protected prisoner of war.
 
@@ -180,11 +182,11 @@ shall, unless the contrary is shown, be sufficient evidence that the notice requ
 
 and if the court adjourns the trial for the purpose of enabling the requirements of this subsection to be complied with, then, notwithstanding anything in any other law, the court may remand the accused for the period of the adjournment.
 
-             (2)  In the absence of counsel accepted by the accused as representing him or her, counsel instructed for the purpose on behalf of the protecting power shall, without prejudice to the requirements of paragraph (1)(b), be regarded for the purposes of that subsection as representing the accused.
+             (2)  In the absence of counsel accepted by the accused as representing him or her, counsel instructed for the purpose on behalf of the protecting power shall, without prejudice to the requirements of paragraph (1)(b), be regarded for the purposes of that subsection as representing the accused.
 
-             (3)  If the court adjourns the trial in pursuance of subsection (1) by reason that the accused is not represented by counsel, the court shall direct that a solicitor and counsel be assigned to watch over the interests of the accused at any further proceedings in connection with the offence, and at any such further proceedings, in the absence of counsel either accepted by the accused as representing him or her or instructed as mentioned in subsection (2), counsel assigned in pursuance of this subsection shall, without prejudice to the requirements of paragraph (1)(b), be regarded for the purposes of subsection (1) as representing the accused.
+             (3)  If the court adjourns the trial in pursuance of subsection (1) by reason that the accused is not represented by counsel, the court shall direct that a solicitor and counsel be assigned to watch over the interests of the accused at any further proceedings in connection with the offence, and at any such further proceedings, in the absence of counsel either accepted by the accused as representing him or her or instructed as mentioned in subsection (2), counsel assigned in pursuance of this subsection shall, without prejudice to the requirements of paragraph (1)(b), be regarded for the purposes of subsection (1) as representing the accused.
 
-             (4)  In relation to any proceedings before a court before which the accused may be represented by a solicitor, subsections (1), (2) and (3) shall be construed, with any necessary modifications, as if references in those provisions to counsel were references to counsel or a solicitor; and for the purposes of any such proceedings the court, in giving a direction under subsection (3), may, if the court is satisfied that the nature of the charge and the interests of justice do not require that the interests of the accused should be watched over by counsel, direct that a solicitor only shall be assigned as mentioned in that subsection.
+             (4)  In relation to any proceedings before a court before which the accused may be represented by a solicitor, subsections (1), (2) and (3) shall be construed, with any necessary modifications, as if references in those provisions to counsel were references to counsel or a solicitor; and for the purposes of any such proceedings the court, in giving a direction under subsection (3), may, if the court is satisfied that the nature of the charge and the interests of justice do not require that the interests of the accused should be watched over by counsel, direct that a solicitor only shall be assigned as mentioned in that subsection.
 
              (5)  A solicitor or counsel shall be assigned in pursuance of subsection (3) in such manner as is provided by the regulations or, in the absence of provision in the regulations, as the court directs, and the fees and costs of any solicitor or counsel so assigned shall be paid by the Commonwealth.
 
@@ -198,11 +200,11 @@ and if the court adjourns the trial for the purpose of enabling the requirements
 
 that the protecting power has been notified of his or her conviction and sentence, and for such further time as would have been within the time allowed if the conviction or sentence had taken place or been pronounced on that day.
 
-             (2)  Where, after an appeal against the conviction or sentence by a court of a protected prisoner of war or a protected internee has been determined, the sentence remains or has become a sentence of imprisonment for a term of 2 years or more, any time allowed in relation to a further appeal in respect of the conviction or sentence as confirmed or varied upon the previous appeal shall be deemed to continue to run until the day on which the convicted person receives a notice given by a person referred to in paragraph (1)(a) or (b), as the case may require, that the protecting power has been notified of the decision of the court upon the previous appeal, and for such further time as would have been within the time allowed if that decision had been pronounced on that day.
+             (2)  Where, after an appeal against the conviction or sentence by a court of a protected prisoner of war or a protected internee has been determined, the sentence remains or has become a sentence of imprisonment for a term of 2 years or more, any time allowed in relation to a further appeal in respect of the conviction or sentence as confirmed or varied upon the previous appeal shall be deemed to continue to run until the day on which the convicted person receives a notice given by a person referred to in paragraph (1)(a) or (b), as the case may require, that the protecting power has been notified of the decision of the court upon the previous appeal, and for such further time as would have been within the time allowed if that decision had been pronounced on that day.
 
-             (3)  Where subsection (1) applies in relation to a convicted person, then, unless the court otherwise orders, an order of the court relating to the restitution of property or the payment of compensation to an aggrieved person shall not take effect, and a provision of a law relating to the revesting of property on conviction shall not take effect in relation to the conviction, while an appeal by the convicted person against his or her conviction or sentence is possible without an extension of time other than the extension provided by subsection (2).
+             (3)  Where subsection (1) applies in relation to a convicted person, then, unless the court otherwise orders, an order of the court relating to the restitution of property or the payment of compensation to an aggrieved person shall not take effect, and a provision of a law relating to the revesting of property on conviction shall not take effect in relation to the conviction, while an appeal by the convicted person against his or her conviction or sentence is possible without an extension of time other than the extension provided by subsection (2).
 
-             (5)  Subsections (1), (2) and (3) do not apply in relation to an appeal against a conviction or sentence, or against the decision of a court upon a previous appeal, if, at the time of the conviction or sentence, or of the decision of the court upon the previous appeal, as the case may be, there is no protecting power.
+             (5)  Subsections (1), (2) and (3) do not apply in relation to an appeal against a conviction or sentence, or against the decision of a court upon a previous appeal, if, at the time of the conviction or sentence, or of the decision of the court upon the previous appeal, as the case may be, there is no protecting power.
 
 ##### <a id="14"></a>14  Reduction of sentence and custody of protected prisoners of war and internees
 
@@ -214,7 +216,7 @@ that the protecting power has been notified of his or her conviction and sentenc
 
              (2)  Where the Attorney-General is satisfied that a protected prisoner of war accused of an offence has been in custody in connection with that offence, while awaiting trial, in a place other than a camp or place in which protected prisoners of war are detained, for an aggregate period of not less than 3 months, the Attorney-General may direct that the prisoner shall be transferred from that custody to the custody of an officer of the Defence Force and thereafter remain in military custody at a camp or place in which protected prisoners of war are detained, and be brought before the court at the time appointed for his or her trial.
 
-## Part IV—Abuse of the Red Cross and other emblems, signs, signals, identity cards, insignia and uniforms
+## Part IV—Abuse of the Red Cross and other emblems, signs, signals, identity cards, insignia and uniforms
 
 ##### <a id="15"></a>15  Use of Red Cross and other emblems, signs, signals, identity cards, insignia and uniforms
 
@@ -228,7 +230,7 @@ that the protecting power has been notified of his or her conviction and sentenc
 
                      (d)  the emblem of a white or silver cross with vertical and horizontal arms of the same length on, and completely surrounded by, a red ground, being the heraldic emblem of the Swiss Confederation;
 
-                     (e)  a design or wording so nearly resembling any of the emblems or designations specified in paragraph (a), (b), (c) or (d) as to be capable of being mistaken for, or, as the case may be, understood as referring to, one of those emblems;
+                     (e)  a design or wording so nearly resembling any of the emblems or designations specified in paragraph (a), (b), (c) or (d) as to be capable of being mistaken for, or, as the case may be, understood as referring to, one of those emblems;
 
                       (f)  such other emblems, identity cards, signs, signals, insignia or uniforms as are prescribed for the purpose of giving effect to Protocol I.
 
@@ -240,7 +242,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  The Minister or a person authorized by the Minister to give consents under this section shall not refuse to give such a consent, and shall not withdraw such a consent, except for the purpose of giving effect to the provisions of the Conventions or of Protocol I.
 
-             (3)  An authority given under section 4 of the _Geneva Convention Act 1938_ and in force immediately before the commencement of this section shall be deemed to be a consent to the like effect given by the Minister under this section.
+             (3)  An authority given under section 4 of the _Geneva Convention Act 1938_ and in force immediately before the commencement of this section shall be deemed to be a consent to the like effect given by the Minister under this section.
 
              (4)  Where a court convicts a person of an offence against subsection (1), the court may order the forfeiture to the Commonwealth of:
 
@@ -248,7 +250,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  any identity cards, insignia or uniforms used in the commission of the offence.
 
-             (5)  In the case of a trade mark registered before the day on which this Act received the Royal Assent, subsections (1), (2), (3) and (4) do not apply by reason only of its consisting of or containing an emblem or designation specified in paragraph (1)(b) or (c) or a design or wording resembling such an emblem or designation; and where a person is charged with using such an emblem, designation, design or wording for any purpose and it is proved that the person used it otherwise than as, or as part of, a trade mark so registered, it is a defence for the person to prove:
+             (5)  In the case of a trade mark registered before the day on which this Act received the Royal Assent, subsections (1), (2), (3) and (4) do not apply by reason only of its consisting of or containing an emblem or designation specified in paragraph (1)(b) or (c) or a design or wording resembling such an emblem or designation; and where a person is charged with using such an emblem, designation, design or wording for any purpose and it is proved that the person used it otherwise than as, or as part of, a trade mark so registered, it is a defence for the person to prove:
 
                      (a)  that the person lawfully used that emblem, designation, design or wording for that purpose before the day on which this Act received the Royal Assent; or
 
@@ -256,11 +258,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (6)  Where an offence against this section committed by a body corporate is proved to have been committed with the consent or connivance of a director, manager, secretary or other officer of the body corporate, or a person purporting to act in any such capacity, he or she, as well as the body corporate, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
-             (7)  This section extends to the use in or outside Australia of an emblem, designation, design, wording, sign, signal, identity card, insignia or uniform referred to in subsection (1) on any ship or aircraft registered in Australia.
+             (7)  This section extends to the use in or outside Australia of an emblem, designation, design, wording, sign, signal, identity card, insignia or uniform referred to in subsection (1) on any ship or aircraft registered in Australia.
 
              (8)  Proceedings under this section shall not be instituted without the consent in writing of the Attorney-General.
 
-## Part V—Regulations
+## Part V—Regulations
 
 ##### <a id="16"></a>16  Regulations
 
@@ -272,9 +274,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 # The Schedules
 
-# Schedule 1—Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of August 12, 1949
+# Schedule 1—Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of August 12, 1949
 
-_Section 5_
+_Section 5_
 
             The undersigned Plenipotentiaries of the Governments represented at the Diplomatic Conference held at Geneva from April 21 to August 12, 1949, for the purpose of revising the Geneva Convention for the Relief of the Wounded and Sick in Armies in the Field of July 27, 1929, have agreed as follows:
 
@@ -758,7 +760,7 @@ Article 58
 
 Article 59
 
-       The present Convention replaces the Conventions of August 22, 1864, July 6, 1906, and July 27, 1929, in relations between the High Contracting Parties.
+       The present Convention replaces the Conventions of August 22, 1864, July 6, 1906, and July 27, 1929, in relations between the High Contracting Parties.
 
 Article 60
 
@@ -794,9 +796,9 @@ Article 64
 
 \[Here follow the signatures and Annexes.]
 
-# Schedule 2—Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea of August 12, 1949
+# Schedule 2—Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea of August 12, 1949
 
-_Section 5_
+_Section 5_
 
        The undersigned Plenipotentiaries of the Governments represented at the Diplomatic Conference held at Geneva from April 21 to August 12, 1949, for the purpose of revising the Xth Hague Convention of October 18, 1907, for the Adaptation to Maritime Warfare of the Principles of the Geneva Convention of 1906, have agreed as follows:
 
@@ -1276,9 +1278,9 @@ Article 63
 
 * * *
 
-# Schedule 3—Geneva Convention Relative to the Treatment of Prisoners of War of August 12, 1949
+# Schedule 3—Geneva Convention Relative to the Treatment of Prisoners of War of August 12, 1949
 
-_Section 5_
+_Section 5_
 
        The undersigned Plenipotentiaries of the Governments represented at the Diplomatic Conference held at Geneva from April 21 to August 12, 1949, for the purpose of revising the Convention concluded at Geneva on July 27, 1929, relative to the Treatment of Prisoners of War, have agreed as follows:
 
@@ -2542,13 +2544,11 @@ Article 143
 
        DONE at Geneva this twelfth day of August 1949, in the English and French languages. The original shall be deposited in the Archives of the Swiss Confederation. The Swiss Federal Council shall transmit certified copies thereof to each of the signatory and acceding States.
 
-\[Here follow the signatures and Annexes.]
-
 * * *
 
-# Schedule 4—Geneva Convention Relative to the Protection of Civilian Persons in Time of War of August 12, 1949
+# Schedule 4—Geneva Convention Relative to the Protection of Civilian Persons in Time of War of August 12, 1949
 
-_Section 5_
+_Section 5_
 
        The undersigned Plenipotentiaries of the Governments represented at the Diplomatic Conference held at Geneva from April 21 to August 12, 1949, for the purpose of establishing a Convention for the Protection of Civilian Persons in Time of War, have agreed as follows:
 
@@ -2596,7 +2596,7 @@ Article 4
 
        Nationals of a State which is not bound by the Convention are not protected by it. Nationals of a neutral State who find themselves in the territory of a belligerent State, and nationals of a co-belligerent State, shall not be regarded as protected persons while the State of which they are nationals has normal diplomatic representation in the State in whose hands they are.
 
-       The provisions of Part II are, however, wider in application, as defined in Article 13.
+       The provisions of Part II are, however, wider in application, as defined in Article 13.
 
        Persons protected by the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of August 12, 1949, or by the Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea of August 12, 1949, or by the Geneva Convention relative to the Treatment of Prisoners of War of August 12, 1949, shall not be considered as protected persons within the meaning of the present Convention.
 
@@ -2666,7 +2666,7 @@ PART II.—GENERAL PROTECTION OF POPULATIONS AGAINST CERTAIN CONSEQUENCES OF WAR
 
 Article 13
 
-       The provisions of Part II cover the whole of the populations of the countries in conflict, without any adverse distinction based, in particular, on race, nationality, religion or political opinion, and are intended to alleviate the sufferings caused by war.
+       The provisions of Part II cover the whole of the populations of the countries in conflict, without any adverse distinction based, in particular, on race, nationality, religion or political opinion, and are intended to alleviate the sufferings caused by war.
 
 Article 14
 
@@ -2882,7 +2882,7 @@ Article 41
 
        Should the Power in whose hands protected persons may be consider the measures of control mentioned in the present Convention to be inadequate, it may not have recourse to any other measure of control more severe than that of assigned residence or internment, in accordance with the provisions of Articles 42 and 43.
 
-       In applying the provisions of Article 39, second paragraph, to the cases of persons required to leave their usual places of residence by virtue of a decision placing them in assigned residence elsewhere, the Detaining Power shall be guided as closely as possible by the standards of welfare set forth in Part III, Section IV of this Convention.
+       In applying the provisions of Article 39, second paragraph, to the cases of persons required to leave their usual places of residence by virtue of a decision placing them in assigned residence elsewhere, the Detaining Power shall be guided as closely as possible by the standards of welfare set forth in Part III, Section IV of this Convention.
 
 Article 42
 
@@ -3066,7 +3066,7 @@ Article 68
 
        Protected persons who commit an offence which is solely intended to harm the Occupying Power, but which does not constitute an attempt on the life or limb of members of the occupying forces or administration, nor a grave collective danger, nor seriously damage the property of the occupying forces or administration or the installations used by them, shall be liable to internment or simple imprisonment, provided the duration of such internment or imprisonment is proportionate to the offence committed. Furthermore, internment or imprisonment shall, for such offences, be the only measure adopted for depriving protected persons of liberty. The courts provided for under Article 66 of the present Convention may at their discretion convert a sentence of imprisonment to one of internment for the same period.
 
-       The penal provisions promulgated by the Occupying Power in accordance with Articles 64 and 65 may impose the death penalty on a protected person only in cases where the person is guilty of espionage, of serious acts of sabotage against the military installations of the Occupying Power or of intentional offences which have caused the death of one or more persons, provided that such offences were punishable by death under the law of the occupied territory in force before the occupation began.
+       The penal provisions promulgated by the Occupying Power in accordance with Articles 64 and 65 may impose the death penalty on a protected person only in cases where the person is guilty of espionage, of serious acts of sabotage against the military installations of the Occupying Power or of intentional offences which have caused the death of one or more persons, provided that such offences were punishable by death under the law of the occupied territory in force before the occupation began.
 
        The death penalty may not be pronounced against a protected person unless the attention of the court has been particularly called to the fact that since the accused is not a national of the Occupying Power, he is not bound to it by any duty of allegiance.
 
@@ -3800,9 +3800,9 @@ Article 159
 
 * * *
 
-# Schedule 5—Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I)
+# Schedule 5—Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I)
 
-_Section 5_
+_Section 5_
 
 **PREAMBLE**
 
@@ -3814,9 +3814,9 @@ _The High Contracting Parties,_
 
        _Believing_ it necessary nevertheless to reaffirm and develop the provisions protecting the victims of armed conflicts and to supplement measures intended to reinforce their application,
 
-       _Expressing_ their conviction that nothing in this Protocol or in the Geneva Conventions of 12 August 1949 can be construed as legitimizing or authorizing any act of aggression or any other use of force inconsistent with the Charter of the United Nations,
+       _Expressing_ their conviction that nothing in this Protocol or in the Geneva Conventions of 12 August 1949 can be construed as legitimizing or authorizing any act of aggression or any other use of force inconsistent with the Charter of the United Nations,
 
-       _Reaffirming_ further that the provisions of the Geneva Conventions of 12 August 1949 and of this Protocol must be fully applied in all circumstances to all persons who are protected by those instruments, without any adverse distinction based on the nature or origin of the armed conflict or on the causes espoused by or attributed to the Parties to the conflict,
+       _Reaffirming_ further that the provisions of the Geneva Conventions of 12 August 1949 and of this Protocol must be fully applied in all circumstances to all persons who are protected by those instruments, without any adverse distinction based on the nature or origin of the armed conflict or on the causes espoused by or attributed to the Parties to the conflict,
 
        _Have agreed_ on the following:
 
@@ -3830,7 +3830,7 @@ _Article 1—General principles and scope of application_
 
      2.     In cases not covered by this Protocol or by other international agreements, civilians and combatants remain under the protection and authority of the principles of international law derived from established custom, from the principles of humanity and from the dictates of public conscience.
 
-     3.     This Protocol, which supplements the Geneva Conventions of 12 August 1949 for the protection of war victims, shall apply in the situations referred to in Article 2 common to those Conventions.
+     3.     This Protocol, which supplements the Geneva Conventions of 12 August 1949 for the protection of war victims, shall apply in the situations referred to in Article 2 common to those Conventions.
 
      4.     The situations referred to in the preceding paragraph include armed conflicts in which peoples are fighting against colonial domination and alien occupation and against racist régimes in the exercise of their right of self-determination, as enshrined in the Charter of the United Nations and the Declaration on Principles of International Law concerning Friendly Relations and Co-operation among States in accordance with the Charter of the United Nations.
 
@@ -3838,7 +3838,7 @@ _Article 2—Definitions_
 
      For the purposes of this Protocol:
 
-     (_a_)   “First Convention”, “Second Convention”, “Third Convention” and “Fourth Convention” mean, respectively, the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949; the Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea of 12 August 1949; the Geneva Convention relative to the Treatment of Prisoners of War of 12 August 1949; the Geneva Convention relative to the Protection of Civilian Persons in Time of War of 12 August 1949; “the Conventions” means the four Geneva Conventions of 12 August 1949 for the protection of war victims;
+     (_a_)   “First Convention”, “Second Convention”, “Third Convention” and “Fourth Convention” mean, respectively, the Geneva Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field of 12 August 1949; the Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea of 12 August 1949; the Geneva Convention relative to the Treatment of Prisoners of War of 12 August 1949; the Geneva Convention relative to the Protection of Civilian Persons in Time of War of 12 August 1949; “the Conventions” means the four Geneva Conventions of 12 August 1949 for the protection of war victims;
 
      (_b_)   “rules of international law applicable in armed conflict” means the rules applicable in armed conflict set forth in international agreements to which the Parties to the conflict are Parties and the generally recognized principles and rules of international law which are applicable to armed conflict;
 
@@ -3904,7 +3904,7 @@ _Article 8—Terminology_
 
      (_b_)   “shipwrecked” means persons, whether military or civilian, who are in peril at sea or in other waters as a result of misfortune affecting them or the vessel or aircraft carrying them and who refrain from any act of hostility. These persons, provided that they continue to refrain from any act of hostility, shall continue to be considered shipwrecked during their rescue until they acquire another status under the Conventions or this Protocol;
 
-     (_c_)   “medical personnel” means those persons assigned, by a Party to the conflict, exclusively to the medical purposes enumerated under sub-paragraph (_e_) or to the administration of medical units or to the operation or administration of medical transports. Such assignments may be either permanent or temporary. The term includes:
+     (_c_)   “medical personnel” means those persons assigned, by a Party to the conflict, exclusively to the medical purposes enumerated under sub-paragraph (_e_) or to the administration of medical units or to the operation or administration of medical transports. Such assignments may be either permanent or temporary. The term includes:
 
              (i)     medical personnel of a Party to the conflict, whether military or civilian, including those described in the First and Second Conventions, and those assigned to civil defence organizations;
 
@@ -3922,7 +3922,7 @@ _Article 8—Terminology_
 
             (iv)     to civil defence organizations of a Party to the conflict.
 
-The attachment of religious personnel may be either permanent or temporary, and the relevant provisions mentioned under sub-paragraph (_k_) apply to them;
+The attachment of religious personnel may be either permanent or temporary, and the relevant provisions mentioned under sub-paragraph (_k_) apply to them;
 
      (_e_)   “medical units” means establishments and other units, whether military or civilian, organized for medical purposes, namely the search for, collection, transportation, diagnosis or treatment—including first aid treatment—of the wounded, sick and shipwrecked, or for the prevention of disease. The term includes, for example, hospitals and other similar units, blood transfusion centres, preventive medicine centres and institutes, medical depots and the medical and pharmaceutical stores of such units. Medical units may be fixed or mobile, permanent or temporary;
 
@@ -4148,7 +4148,7 @@ _Article 28—Restrictions on operations of medical aircraft_
 
      1.     The Parties to the conflict are prohibited from using their medical aircraft to attempt to acquire any military advantage over an adverse Party. The presence of medical aircraft shall not be used in an attempt to render military objectives immune from attack.
 
-     2.     Medical aircraft shall not be used to collect or transmit intelligence data and shall not carry any equipment intended for such purposes. They are prohibited from carrying any persons or cargo not included within the definition in Article 8, sub-paragraph (_f_). The carrying on board of the personal effects of the occupants or of equipment intended solely to facilitate navigation, communication or identification shall not be considered as prohibited.
+     2.     Medical aircraft shall not be used to collect or transmit intelligence data and shall not carry any equipment intended for such purposes. They are prohibited from carrying any persons or cargo not included within the definition in Article 8, sub-paragraph (_f_). The carrying on board of the personal effects of the occupants or of equipment intended solely to facilitate navigation, communication or identification shall not be considered as prohibited.
 
      3.     Medical aircraft shall not carry any armament except small-arms and ammunition taken from the wounded, sick and shipwrecked on board and not yet handed to the proper service, and such light individual weapons as may be necessary to enable the medical personnel on board to defend themselves and the wounded, sick and shipwrecked in their charge.
 
@@ -4180,7 +4180,7 @@ _Article 30—Landing and inspection of medical aircraft_
 
      3.     If the inspection discloses that the aircraft:
 
-     (_a_)   is a medical aircraft within the meaning of Article 8, sub-paragraph (_j_),
+     (_a_)   is a medical aircraft within the meaning of Article 8, sub-paragraph (_j_),
 
      (_b_)   is not in violation of the conditions prescribed in Article 28, and
 
@@ -4318,7 +4318,7 @@ _Article 41—Safeguard of an enemy hors de combat_
 
 provided that in any of these cases he abstains from any hostile act and does not attempt to escape.
 
-     3.     When persons entitled to protection as prisoners of war have fallen into the power of an adverse Party under unusual conditions of combat which prevent their evacuation as provided for in Part III, Section I, of the Third Convention, they shall be released and all feasible precautions shall be taken to ensure their safety.
+     3.     When persons entitled to protection as prisoners of war have fallen into the power of an adverse Party under unusual conditions of combat which prevent their evacuation as provided for in Part III, Section I, of the Third Convention, they shall be released and all feasible precautions shall be taken to ensure their safety.
 
 _Article 42—Occupants of aircraft_
 
@@ -4424,7 +4424,7 @@ _Article 49—Definition of attacks and scope of application_
 
      3.     The provisions of this Section apply to any land, air or sea warfare which may affect the civilian population, individual civilians or civilian objects on land. They further apply to all attacks from the sea or from the air against objectives on land but do not otherwise affect the rules of international law applicable in armed conflict at sea or in the air.
 
-     4.     The provisions of this Section are additional to the rules concerning humanitarian protection contained in the Fourth Convention, particularly in Part II thereof, and in other international agreements binding upon the High Contracting Parties, as well as to other rules of international law relating to the protection of civilians and civilian objects on land, at sea or in the air against the effects of hostilities.
+     4.     The provisions of this Section are additional to the rules concerning humanitarian protection contained in the Fourth Convention, particularly in Part II thereof, and in other international agreements binding upon the High Contracting Parties, as well as to other rules of international law relating to the protection of civilians and civilian objects on land, at sea or in the air against the effects of hostilities.
 
 _Chapter II_
 
@@ -4482,7 +4482,7 @@ _Article 52—General protection of civilian objects_
 
 _Article 53—Protection of cultural objects and of places of worship_
 
-     Without prejudice to the provisions of the Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict of 14 May 1954, and of other relevant international instruments, it is prohibited:
+     Without prejudice to the provisions of the Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict of 14 May 1954, and of other relevant international instruments, it is prohibited:
 
      (_a_)   to commit any acts of hostility directed against the historic monuments, works of art or places of worship which constitute the cultural or spiritual heritage of peoples;
 
@@ -4504,7 +4504,7 @@ _Article 54—Protection of objects indispensable to the survival of the civilia
 
      4.     These objects shall not be made the object of reprisals.
 
-     5.     In recognition of the vital requirements of any Party to the conflict in the defence of its national territory against invasion, derogation from the prohibitions contained in paragraph 2 may be made by a Party to the conflict within such territory under its own control where required by imperative military necessity.
+     5.     In recognition of the vital requirements of any Party to the conflict in the defence of its national territory against invasion, derogation from the prohibitions contained in paragraph 2 may be made by a Party to the conflict within such territory under its own control where required by imperative military necessity.
 
 _Article 55—Protection of the natural environment_
 
@@ -4616,7 +4616,7 @@ _Article 60—Demilitarized zones_
 
      (_d_)   any activity linked to the military effort must have ceased.
 
-The Parties to the conflict shall agree upon the interpretation to be given to the condition laid down in sub-paragraph (_d_) and upon persons to be admitted to the demilitarized zone other than those mentioned in paragraph 4.
+The Parties to the conflict shall agree upon the interpretation to be given to the condition laid down in sub-paragraph (_d_) and upon persons to be admitted to the demilitarized zone other than those mentioned in paragraph 4.
 
      4.     The presence, in this zone, of persons specially protected under the Conventions and this Protocol, and of police forces retained for the sole purpose of maintaining law and order, is not contrary to the conditions laid down in paragraph 3.
 
@@ -4666,11 +4666,11 @@ _Article 61—Definitions and scope_
 
            (xv)     complementary activities necessary to carry out any of the tasks mentioned above, including, but not limited to, planning and organization;
 
-     (_b_)   “civil defence organizations” means those establishments and other units which are organized or authorized by the competent authorities of a Party to the conflict to perform any of the tasks mentioned under sub-paragraph (_a_), and which are assigned and devoted exclusively to such tasks;
+     (_b_)   “civil defence organizations” means those establishments and other units which are organized or authorized by the competent authorities of a Party to the conflict to perform any of the tasks mentioned under sub-paragraph (_a_), and which are assigned and devoted exclusively to such tasks;
 
-     (_c_)   “personnel” of civil defence organizations means those persons assigned by a Party to the conflict exclusively to the performance of the tasks mentioned under sub-paragraph (_a_), including personnel assigned by the competent authority of that Party exclusively to the administration of these organizations;
+     (_c_)   “personnel” of civil defence organizations means those persons assigned by a Party to the conflict exclusively to the performance of the tasks mentioned under sub-paragraph (_a_), including personnel assigned by the competent authority of that Party exclusively to the administration of these organizations;
 
-     (_d_)   “_mat&#233;riel_” of civil defence organizations means equipment, supplies and transports used by these organizations for the performance of the tasks mentioned under sub-paragraph (_a_).
+     (_d_)   “_mat&#233;riel_” of civil defence organizations means equipment, supplies and transports used by these organizations for the performance of the tasks mentioned under sub-paragraph (_a_).
 
 _Article 62—General protection_
 
@@ -4736,7 +4736,7 @@ _Article 66—Identification_
 
      6.     The application of the provisions of paragraphs 1 to 4 is governed by Chapter V of Annex I to this Protocol.
 
-     7.     In time of peace, the sign described in paragraph 4 may, with the consent of the competent national authorities, be used for civil defence identification purposes.
+     7.     In time of peace, the sign described in paragraph 4 may, with the consent of the competent national authorities, be used for civil defence identification purposes.
 
      8.     The High Contracting Parties and the Parties to the conflict shall take the measures necessary to supervise the display of the international distinctive sign of civil defence and to prevent and repress any misuse thereof.
 
@@ -5040,7 +5040,7 @@ _Article 85—Repression of breaches of this Protocol_
 
      (_c_)   practices of _apartheid_ and other inhuman and degrading practices involving outrages upon personal dignity, based on racial discrimination;
 
-     (_d_)   making the clearly recognized historic monuments, works of art or places of worship which constitute the cultural or spiritual heritage of peoples and to which special protection has been given by special arrangement, for example, within the framework of a competent international organization, the object of attack, causing as a result extensive destruction thereof, where there is no evidence of the violation by the adverse Party of Article 53, sub-paragraph (_b_), and when such historic monuments, works of art and places of worship are not located in the immediate proximity of military objectives;
+     (_d_)   making the clearly recognized historic monuments, works of art or places of worship which constitute the cultural or spiritual heritage of peoples and to which special protection has been given by special arrangement, for example, within the framework of a competent international organization, the object of attack, causing as a result extensive destruction thereof, where there is no evidence of the violation by the adverse Party of Article 53, sub-paragraph (_b_), and when such historic monuments, works of art and places of worship are not located in the immediate proximity of military objectives;
 
      (_e_)   depriving a person protected by the Conventions or referred to in paragraph 2 of this Article of the rights of fair and regular trial.
 
@@ -5270,7 +5270,7 @@ _Article 3—Shape and nature_
 
      2.     At night or when visibility is reduced, the distinctive emblem may be lighted or illuminated; it may also be made of materials rendering it recognizable by technical means of detection.
 
-![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image003.jpg)
+![](http://www.comlaw.gov.au/Details/C2004C00490/Html/image003.jpg)
 
 _Fig. 2: Distinctive emblems in red on a white ground_
 
@@ -5353,7 +5353,7 @@ _Article 7—Radio signal_
 
 _Article 8—Electronic identification_
 
-     1.     The Secondary Surveillance Radar (SSR) system, as specified in Annex 10 to the Chicago Convention on International Civil Aviation of 7 December 1944, as amended from time to time, may be used to identify and to follow the course of medical aircraft. The SSR mode and code to be reserved for the exclusive use of medical aircraft shall be established by the High Contracting Parties, the Parties to a conflict, or one of the Parties to a conflict, acting in agreement or alone, in accordance with procedures to be recommended by the International Civil Aviation Organization.
+     1.     The Secondary Surveillance Radar (SSR) system, as specified in Annex 10 to the Chicago Convention on International Civil Aviation of 7 December 1944, as amended from time to time, may be used to identify and to follow the course of medical aircraft. The SSR mode and code to be reserved for the exclusive use of medical aircraft shall be established by the High Contracting Parties, the Parties to a conflict, or one of the Parties to a conflict, acting in agreement or alone, in accordance with procedures to be recommended by the International Civil Aviation Organization.
 
      2.     Parties to a conflict may, by special agreement between them, establish for their use a similar electronic system for the identification of medical vehicles, and medical ships and craft.
 
@@ -5371,7 +5371,7 @@ _Article 10—Use of international codes_
 
 _Article 11—Other means of communication_
 
-     When two-way radiocommunication is not possible, the signals provided for in the International Code of Signals adopted by the Inter-Governmental Maritime Consultative Organization or in the appropriate Annex to the Chicago Convention on International Civil Aviation of 7 December 1944, as amended from time to time, may be used.
+     When two-way radiocommunication is not possible, the signals provided for in the International Code of Signals adopted by the Inter-Governmental Maritime Consultative Organization or in the appropriate Annex to the Chicago Convention on International Civil Aviation of 7 December 1944, as amended from time to time, may be used.
 
 _Article 12—Flight plans_
 
@@ -5379,7 +5379,7 @@ _Article 12—Flight plans_
 
 _Article 13—Signals and procedures for the interception of medical aircraft_
 
-     If an intercepting aircraft is used to verify the identity of a medical aircraft in flight or to require it to land in accordance with Articles 30 and 31 of the Protocol, the standard visual and radio interception procedures prescribed by Annex 2 to the Chicago Convention on International Civil Aviation of 7 December 1944, as amended from time to time, should be used by the intercepting and the medical aircraft.
+     If an intercepting aircraft is used to verify the identity of a medical aircraft in flight or to require it to land in accordance with Articles 30 and 31 of the Protocol, the standard visual and radio interception procedures prescribed by Annex 2 to the Chicago Convention on International Civil Aviation of 7 December 1944, as amended from time to time, should be used by the intercepting and the medical aircraft.
 
 _Chapter V_
 
@@ -5397,8 +5397,8 @@ FRONT
 
 * * *
 
-![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image004.gif)![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image004.gif)(space reserved for the name
- ![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image005.gif)of the country and authority
+![](http://www.comlaw.gov.au/Details/C2004C00490/Html/image004.gif)![](http://www.comlaw.gov.au/Details/C2004C00490/Html/image004.gif)(space reserved for the name
+ ![](http://www.comlaw.gov.au/Details/C2004C00490/Html/image005.gif)of the country and authority
  issuing this card)
 
 IDENTITY CARD
@@ -5413,7 +5413,7 @@ Date of birth (or age) .........................................................
 
 Identity No. (if any) ..................................................................................... 
 
-The holder of this card is protected by the Geneva Conventions of 12 August 1949 and by the Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I) in his capacity as ......................................................................................... 
+The holder of this card is protected by the Geneva Conventions of 12 August 1949 and by the Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I) in his capacity as ......................................................................................... 
 
 ................................................................................................................. 
 
@@ -5502,7 +5502,7 @@ _Article 15—International distinctive sign_
 <tr>
   <td></td>
   <td>
-    <img width="152" height="134" src="http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image006.gif">
+    <img width="152" height="134" src="http://www.comlaw.gov.au/Details/C2004C00490/Html/image006.gif">
   </td>
 </tr></table>  
       1.     The international distinctive sign of civil defence provided for in Article 66, paragraph 4, of the Protocol is an equilateral blue triangle on an orange ground. A model is shown in Figure 4:
@@ -5543,7 +5543,7 @@ _Article 16—International special sign_
 <tr>
   <td></td>
   <td>
-    <img width="357" height="93" src="http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image007.gif">
+    <img width="357" height="93" src="http://www.comlaw.gov.au/Details/C2004C00490/Html/image007.gif">
   </td>
 </tr></table>    
 
@@ -5553,17 +5553,17 @@ _Fig. 5: International special sign for works and installations containing dange
 
  IDENTITY CARD FOR JOURNALISTS ON DANGEROUS PROFESSIONAL MISSIONS
 
-![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00490/Html/image008.gif)
 
-![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00490/Html/image009.gif)
 
 # Notes to the _Geneva Conventions Act 1957_
 
 ### Note 1
 
-The _Geneva__Conventions Act 1957_ as shown in this compilation comprises Act No. 103, 1957 amended as indicated in the Tables below.
+The _Geneva Conventions Act 1957_ as shown in this compilation comprises Act No. 103, 1957 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 6 April 2001 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 6 April 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -5577,27 +5577,25 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="14%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<tr>
+  <td>
+    <div>Act</div>
+  </td>
+  <td>
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+  </td>
+  <td>
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td colspan="2">
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
+  </td>
+  <td>
+    <div>Date of commencement</div>
+  </td>
+  <td colspan="2">
+    <div>Application, saving or transitional provisions</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Geneva Conventions Act 1957</div>
@@ -5609,7 +5607,7 @@ of Assent</div>
     <div>18 Dec 1957</div>
   </td>
   <td colspan="2">
-    <div>1 Sept 1959 ( <i>see Gazette</i>1959, p. 3001)</div>
+    <div>1 Sept 1959 ( <i>see Gazette</i>1959, p. 3001)</div>
   </td>
   <td>
     <div></div>
@@ -5660,7 +5658,7 @@ of Assent</div>
     <div>31 Dec 1982</div>
   </td>
   <td colspan="2">
-    <div>3 July 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S255)</div>
+    <div>3 July 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S255)</div>
   </td>
   <td>
     <div>—</div>
@@ -5677,7 +5675,7 @@ of Assent</div>
     <div>14 Dec 1983</div>
   </td>
   <td colspan="2">
-    <div>Part IX (ss. 18, 19): 5 Mar 1984 ( <i>see Gazette</i>1984, No. S55) <i>(a)</i></div>
+    <div>Part IX (ss. 18, 19): 5 Mar 1984 ( <i>see Gazette</i>1984, No. S55) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5694,7 +5692,7 @@ of Assent</div>
     <div>4 Mar 1991</div>
   </td>
   <td colspan="2">
-    <div>28 Mar 1991 ( <i>see Gazette</i>1991, No. S81)</div>
+    <div>28 Mar 1991 ( <i>see Gazette</i>1991, No. S81)</div>
   </td>
   <td>
     <div>—</div>
@@ -5728,7 +5726,7 @@ of Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td colspan="2">
-    <div>Schedule 3 (item 27): 4 Mar 1991 <i>(b)</i></div>
+    <div>Schedule 3 (item 27): 4 Mar 1991 <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -5745,7 +5743,7 @@ of Assent</div>
     <div>6 Apr 2001</div>
   </td>
   <td colspan="2">
-    <div>S. 4(1), (2) and Schedule 30: <i>(c)</i></div>
+    <div>S. 4(1), (2) and Schedule 30: <i>(c)</i></div>
   </td>
   <td>
     <div>S. 4(1), (2) \[ <i>see</i>Table A]</div>
@@ -5759,28 +5757,11 @@ of Assent</div>
     <div>42, 2002</div>
   </td>
   <td>
-    <div>27 June 2002</div>
+    <div>27 June 2002</div>
   </td>
   <td colspan="2">
-    <div>Schedules 1–7: 26 Sept 2002 ( <i>see</i>s. 2(1) (item 2) and <i>Gazette</i>2002, No. GN38) 
-Remainder: 28 June 2002</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation (Miscellaneous Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>18, 2009</div>
-  </td>
-  <td>
-    <div>26 Mar 2009</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 3–12): \[ <i>see</i>Note 2]</div>
+    <div>Schedules 1-7: 26 Sept 2002 ( <i>see</i>s. 2(1) (item 2) and <i>Gazette</i>2002, No. GN38) 
+Remainder: 28 June 2002</div>
   </td>
   <td>
     <div>—</div>
@@ -5795,21 +5776,23 @@ Remainder: 28 June 2002</div>
   <td></td>
 </tr></table>
 
-_(a)_     The _Geneva__Conventions Act 1957_ was amended by Part IX (sections 18 and 19) only of the _Director of Public Prosecutions (Consequential Amendments) Act 1983_, subsection 2(1) of which provides as follows:
+ 
+
+_(a)_     The _Geneva__Conventions Act 1957_ was amended by Part IX (sections 18 and 19) only of the _Director of Public Prosecutions (Consequential Amendments) Act 1983_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day on which the _Director of Public Prosecutions Act 1983_ comes into operation.
 
-_(b)_    The _Geneva__Conventions Amendment Act 1991_ was amended by Schedule 3 (item 27) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+_(b)_    The _Geneva__Conventions Amendment Act 1991_ was amended by Schedule 3 (item 27) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
-                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
-_(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
+_(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences at the later of the following times:
 
                               (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
 
-         Item 15 commenced on 24 May 2001.
+         Item 15 commenced on 24 May 2001.
 
 ## Table of Amendments
 
@@ -5819,32 +5802,30 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
   <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
+<tr>
+  <td colspan="2">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Provision affected</div>
+  </td>
+  <td>
+    <div>How affected</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Title</div>
   </td>
   <td>
-    <div>am. No. 27, 1991</div>
+    <div>am. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part I</b></div>
+    <div><b>Part I</b></div>
   </td>
   <td>
     <div></div>
@@ -5855,7 +5836,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 2</div>
   </td>
   <td>
-    <div>am. No. 27, 1991</div>
+    <div>am. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -5863,7 +5844,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>Ss. 3, 4</div>
   </td>
   <td>
-    <div>rep. No. 216, 1973</div>
+    <div>rep. No. 216, 1973</div>
   </td>
 </tr>
 <tr>
@@ -5871,7 +5852,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 153, 1982; No. 27, 1991</div>
+    <div>am. No. 216, 1973; No. 153, 1982; No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -5879,7 +5860,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 216, 1973</div>
+    <div>am. No. 216, 1973</div>
   </td>
 </tr>
 <tr>
@@ -5887,15 +5868,15 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 6A</div>
   </td>
   <td>
-    <div>ad. No. 24, 2001</div>
+    <div>ad. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to Part II</div>
+    <div>Heading to Part II</div>
   </td>
   <td>
-    <div>am. No. 27, 1991</div>
+    <div>am. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -5903,15 +5884,15 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div></div>
   </td>
   <td>
-    <div>rep. No. 42, 2002</div>
+    <div>rep. No. 42, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Part II</div>
+    <div>Part II</div>
   </td>
   <td>
-    <div>rep. No. 42, 2002</div>
+    <div>rep. No. 42, 2002</div>
   </td>
 </tr>
 <tr>
@@ -5919,7 +5900,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 153, 1982; No. 114, 1983; No. 27, 1991; No. 24, 2001</div>
+    <div>am. No. 216, 1973; No. 153, 1982; No. 114, 1983; No. 27, 1991; No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -5927,7 +5908,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div></div>
   </td>
   <td>
-    <div>rep. No. 42, 2002</div>
+    <div>rep. No. 42, 2002</div>
   </td>
 </tr>
 <tr>
@@ -5935,7 +5916,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 216, 1973</div>
+    <div>am. No. 216, 1973</div>
   </td>
 </tr>
 <tr>
@@ -5943,7 +5924,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div></div>
   </td>
   <td>
-    <div>rs. No. 27, 1991</div>
+    <div>rs. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -5951,7 +5932,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div></div>
   </td>
   <td>
-    <div>rep. No. 42, 2002</div>
+    <div>rep. No. 42, 2002</div>
   </td>
 </tr>
 <tr>
@@ -5959,7 +5940,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 9</div>
   </td>
   <td>
-    <div>rep. No. 153, 1982</div>
+    <div>rep. No. 153, 1982</div>
   </td>
 </tr>
 <tr>
@@ -5967,7 +5948,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 27, 1991</div>
+    <div>am. No. 216, 1973; No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -5975,12 +5956,12 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div></div>
   </td>
   <td>
-    <div>rep. No. 42, 2002</div>
+    <div>rep. No. 42, 2002</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part III</b></div>
+    <div><b>Part III</b></div>
   </td>
   <td>
     <div></div>
@@ -5991,7 +5972,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 10A</div>
   </td>
   <td>
-    <div>ad. No. 27, 1991</div>
+    <div>ad. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -5999,7 +5980,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 27, 1991 (as am. by No. 43, 1996)</div>
+    <div>am. No. 27, 1991 (as am. by No. 43, 1996)</div>
   </td>
 </tr>
 <tr>
@@ -6007,7 +5988,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 27, 1991</div>
+    <div>am. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -6015,7 +5996,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 153, 1982; No. 27, 1991</div>
+    <div>am. No. 153, 1982; No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -6023,12 +6004,12 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 14</div>
   </td>
   <td>
-    <div>am. No. 27, 1991</div>
+    <div>am. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part IV</b></div>
+    <div><b>Part IV</b></div>
   </td>
   <td>
     <div></div>
@@ -6036,10 +6017,10 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
 </tr>
 <tr>
   <td>
-    <div>Heading to Part IV</div>
+    <div>Heading to Part IV</div>
   </td>
   <td>
-    <div>am. No. 27, 1991</div>
+    <div>am. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -6047,12 +6028,12 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. No. 93, 1966; No. 27, 1991; No. 24, 2001</div>
+    <div>am. No. 93, 1966; No. 27, 1991; No. 24, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part V</b></div>
+    <div><b>Part V</b></div>
   </td>
   <td>
     <div></div>
@@ -6063,7 +6044,7 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>S. 16</div>
   </td>
   <td>
-    <div>rs. No. 27, 1991</div>
+    <div>rs. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -6079,15 +6060,15 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>Heading to First Schedule</div>
   </td>
   <td>
-    <div>rep. No. 27, 1991</div>
+    <div>rep. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to Schedule 1</div>
+    <div>Heading to Schedule 1</div>
   </td>
   <td>
-    <div>ad. No. 27, 1991</div>
+    <div>ad. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -6095,15 +6076,15 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>Heading to Second Schedule</div>
   </td>
   <td>
-    <div>rep. No. 27, 1991</div>
+    <div>rep. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to Schedule 2</div>
+    <div>Heading to Schedule 2</div>
   </td>
   <td>
-    <div>ad. No. 27, 1991</div>
+    <div>ad. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -6111,15 +6092,15 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>Heading to Third Schedule</div>
   </td>
   <td>
-    <div>rep. No. 27, 1991</div>
+    <div>rep. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to Schedule 3</div>
+    <div>Heading to Schedule 3</div>
   </td>
   <td>
-    <div>ad. No. 27, 1991</div>
+    <div>ad. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
@@ -6127,258 +6108,38 @@ _(c)_     The _Geneva Conventions Act 1957_ was amended by Schedule 30
     <div>Heading to Fourth Schedule</div>
   </td>
   <td>
-    <div>rep. No. 27, 1991</div>
+    <div>rep. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to Schedule 4</div>
+    <div>Heading to Schedule 4</div>
   </td>
   <td>
-    <div>ad. No. 27, 1991</div>
+    <div>ad. No. 27, 1991</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Schedule 5</div>
+    <div>Schedule 5</div>
   </td>
   <td>
-    <div>ad. No. 27, 1991</div>
+    <div>ad. No. 27, 1991</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Defence Legislation (Miscellaneous Amendments) Act 2009 (No. 18, 2009)_
-
-The following amendments commence on Proclamation or one month after the day on which Protocol III to the Geneva Conventions enters into force for Australia, _see_ subsection 2(1) (item 2):
-
-## Schedule 1
-
-## 3  Subsection 5(1A)
-
-Insert:
-
-                    <a name="protocol-iii"></a>**_Protocol III_** means the Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Adoption of an Additional Distinctive Emblem (Protocol III), done at Geneva on 8 December 2005, a copy of the English text of which is set out in Schedule 6.
-
-## 4  Subsection 5(3)
-
-After “Protocol I”, insert “or Protocol III”.
-
-## 5  After paragraph 15(1)(c)
-
-Insert:
-
-                    (ca)  the emblem of a red frame in the shape of a square on edge on a white ground, or the designation “Red Crystal”;
-
-## 6  Paragraph 15(1)(e)
-
-After “(c)”, insert “, (ca)”.
-
-## 7  At the end of paragraph 15(1)(f)
-
-Add “or Protocol III”.
-
-## 8  Subsection 15(5)
-
-Omit “the day on which this Act received the Royal Assent” (first occurring), substitute “the day to which subsection (5A) applies”.
-
-## 9  Subsection 15(5)
-
-Omit “paragraph (1)(b) or (c)”, substitute “paragraph (1)(b), (c) or (ca)”.
-
-## 10  Paragraphs 15(5)(a) and (b)
-
-Omit “the day on which this Act received the Royal Assent”, substitute “the day to which subsection (5A) applies”.
-
-## 11  After subsection 15(5)
-
-Insert:
-
-          (5A)  For the purposes of subsection (5), this subsection applies to the following day:
-
-                     (a)  to the extent that subsection (5) applies in relation to a trade mark consisting of or containing an emblem or designation specified in paragraph (1)(b) or (c) or a design or wording resembling such an emblem or designation—the day on which this Act received the Royal Assent;
-
-                     (b)  to the extent that subsection (5) applies in relation to a trade mark consisting of or containing an emblem or designation specified in paragraph (1)(ca) or a design or wording resembling such an emblem or designation—the day on which Schedule 1 to the _Defence Legislation (Miscellaneous Amendments) Act 2009_ commenced.
-
-## 12  At the end of the Act
-
-Add:
-
-# Schedule 6—Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Adoption of an Additional Distinctive Emblem (Protocol III)
-
-_Section 5_
-
-**_Preamble_**
-
-_The High Contracting Parties,_
-
-(PP1) _Reaffirming_ the provisions of the Geneva Conventions of 12 August 1949 (in particular Articles 26, 38, 42 and 44 of the First Geneva Convention) and, where applicable, their Additional Protocols of 8 June 1977 (in particular Articles 18 and 38 of Additional Protocol I and Article 12 of Additional Protocol II), concerning the use of distinctive emblems,
-
-(PP2) _Desiring_ to supplement the aforementioned provisions so as to enhance their protective value and universal character,
-
-(PP3) _Noting_ that this Protocol is without prejudice to the recognized right of High Contracting Parties to continue to use the emblems they are using in conformity with their obligations under the Geneva Conventions and, where applicable, the Protocols additional thereto,
-
-(PP4) _Recalling_ that the obligation to respect persons and objects protected by the Geneva Conventions and the Protocols additional thereto derives from their protected status under international law and is not dependent on use of the distinctive emblems, signs or signals,
-
-(PP5) _Stressing_ that the distinctive emblems are not intended to have any religious, ethnic, racial, regional or political significance,
-
-(PP6) _Emphasizing_ the importance of ensuring full respect for the obligations relating to the distinctive emblems recognized in the Geneva Conventions, and, where applicable, the Protocols additional thereto,
-
-(PP7) _Recalling_ that Article 44 of the First Geneva Convention makes the distinction between the protective use and the indicative use of the distinctive emblems,
-
-(PP8) _Recalling further_ that National Societies undertaking activities on the territory of another State must ensure that the emblems they intend to use within the framework of such activities may be used in the country where the activity takes place and in the country or countries of transit,
-
-(PP9) _Recognizing_ the difficulties that certain States and National Societies may have with the use of the existing distinctive emblems,
-
-(PP10) _Noting_ the determination of the International Committee of the Red Cross, the International Federation of Red Cross and Red Crescent Societies and the International Red Cross and Red Crescent Movement to retain their current names and emblems,
-
-_Have agreed on the following:_
-
-**_Article 1 - Respect for and scope of application of this Protocol_**
-
-1.   The High Contracting Parties undertake to respect and to ensure respect for this Protocol in all circumstances.
-
-2.   This Protocol reaffirms and supplements the provisions of the four Geneva Conventions of 12 August 1949 (“the Geneva Conventions”) and, where applicable, of their two Additional Protocols of 8 June 1977 (“the 1977 Additional Protocols”) relating to the distinctive emblems, namely the red cross, the red crescent and the red lion and sun, and shall apply in the same situations as those referred to in these provisions.
-
-**_Article 2 - Distinctive emblems_**
-
-1.   This Protocol recognizes an additional distinctive emblem in addition to, and for the same purposes as, the distinctive emblems of the Geneva Conventions. The distinctive emblems shall enjoy equal status.
-
-2.   This additional distinctive emblem, composed of a red frame in the shape of a square on edge on a white ground, shall conform to the illustration in the Annex to this Protocol. This distinctive emblem is referred to in this Protocol as the “third Protocol emblem”.
-
-3.   The conditions for use of and respect for the third Protocol emblem are identical to those for the distinctive emblems established by the Geneva Conventions and, where applicable, the 1977 Additional Protocols.
-
-4.   The medical services and religious personnel of armed forces of High Contracting Parties may, without prejudice to their current emblems, make temporary use of any distinctive emblem referred to in paragraph 1 of this Article where this may enhance protection.
-
-**_Article 3 - Indicative use of the third Protocol emblem_**
-
-1.   National Societies of those High Contracting Parties which decide to use the third Protocol emblem may, in using the emblem in conformity with relevant national legislation, choose to incorporate within it, for indicative purposes:
-
-a)   a distinctive emblem recognized by the Geneva Conventions or a combination of these emblems; or
-
-b)   another emblem which has been in effective use by a High Contracting Party and was the subject of a communication to the other High Contracting Parties and the International Committee of the Red Cross through the depositary prior to the adoption of this Protocol.
-
-Incorporation shall conform to the illustration in the Annex to this Protocol.
-
-2.   A National Society which chooses to incorporate within the third Protocol emblem another emblem in accordance with paragraph 1 above, may, in conformity with national legislation, use the designation of that emblem and display it within its national territory.
-
-3.   National Societies may, in accordance with national legislation and in exceptional circumstances and to facilitate their work, make temporary use of the distinctive emblem referred to in Article 2 of this Protocol.
-
-4.   This Article does not affect the legal status of the distinctive emblems recognized in the Geneva Conventions and in this Protocol, nor does it affect the legal status of any particular emblem when incorporated for indicative purposes in accordance with paragraph 1 of this Article.
-
-**_Article 4 - International Committee of the Red Cross and_**
-
-**_International_**
-
-**_Federation of Red Cross and Red Crescent Societies_**
-
-The International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies, and their duly authorized personnel, may use, in exceptional circumstances and to facilitate their work, the distinctive emblem referred to in Article 2 of this Protocol.
-
-**_Article 5 - Missions under United Nations auspices_**
-
-The medical services and religious personnel participating in operations under the auspices of the United Nations may, with the agreement of participating States, use one of the distinctive emblems mentioned in Articles 1 and 2.
-
-**_Article 6 - Prevention and repression of misuse_**
-
-1.   The provisions of the Geneva Conventions and, where applicable, the 1977 Additional Protocols, governing prevention and repression of misuse of the distinctive emblems shall apply equally to the third Protocol emblem. In particular, the High Contracting Parties shall take measures necessary for the prevention and repression, at all times, of any misuse of the distinctive emblems mentioned in Articles 1 and 2 and their designations, including the perfidious use and the use of any sign or designation constituting an imitation thereof.
-
-2.   Notwithstanding paragraph 1 above, High Contracting Parties may permit prior users of the third Protocol emblem, or of any sign constituting an imitation thereof, to continue such use, provided that the said use shall not be such as would appear, in time of armed conflict, to confer the protection of the Geneva Conventions and, where applicable, the 1977 Additional Protocols, and provided that the rights to such use were acquired before the adoption of this Protocol.
-
-**_Article 7 - Dissemination_**
-
-The High Contracting Parties undertake, in time of peace as in time of armed conflict, to disseminate this Protocol as widely as possible in their respective countries and, in particular, to include the study thereof in their programmes of military instruction and to encourage the study thereof by the civilian population, so that this instrument may become known to the armed forces and to the civilian population.
-
-**_Article 8 - Signature_**
-
-This Protocol shall be open for signature by the Parties to the Geneva Conventions on the day of its adoption and will remain open for a period of twelve months.
-
-**_Article 9 - Ratification_**
-
-This Protocol shall be ratified as soon as possible. The instruments of ratification shall be deposited with the Swiss Federal Council, depositary of the Geneva Conventions and the 1977 Additional Protocols.
-
-**_Article 10 - Accession_**
-
-This Protocol shall be open for accession by any Party to the Geneva Conventions which has not signed it. The instruments of accession shall be deposited with the depositary.
-
-**_Article 11 - Entry into force_**
-
-1.   This Protocol shall enter into force six months after two instruments of ratification or accession have been deposited.
-
-2.   For each Party to the Geneva Conventions thereafter ratifying or acceding to this Protocol, it shall enter into force six months after the deposit by such Party of its instrument of ratification or accession.
-
-**_Article 12 - Treaty relations upon entry into force of this Protocol_**
-
-1.   When the Parties to the Geneva Conventions are also Parties to this Protocol, the Conventions shall apply as supplemented by this Protocol.
-
-2.   When one of the Parties to the conflict is not bound by this Protocol, the Parties to the Protocol shall remain bound by it in their mutual relations. They shall furthermore be bound by this Protocol in relation to each of the Parties which are not bound by it, if the latter accepts and applies the provisions thereof.
-
-**_Article 13 - Amendment_**
-
-1.   Any High Contracting Party may propose amendments to this Protocol. The text of any proposed amendment shall be communicated to the depositary, which shall decide, after consultation with all the High Contracting Parties, the International Committee of the Red Cross and the International Federation of Red Cross and Red Crescent Societies, whether a conference should be convened to consider the proposed amendment.
-
-2.   The depositary shall invite to that conference all the High Contracting Parties as well as the Parties to the Geneva Conventions, whether or not they are signatories of this Protocol.
-
-**_Article 14 - Denunciation_**
-
-1.   In case a High Contracting Party should denounce this Protocol, the denunciation shall only take effect one year after receipt of the instrument of denunciation. If, however, on the expiry of that year the denouncing Party is engaged in a situation of armed conflict or occupation, the denunciation shall not take effect before the end of the armed conflict or occupation.
-
-2.   The denunciation shall be notified in writing to the depositary, which shall transmit it to all the High Contracting Parties.
-
-3.   The denunciation shall have effect only in respect of the denouncing Party.
-
-4.   Any denunciation under paragraph 1 shall not affect the obligations already incurred, by reason of the armed conflict or occupation, under this Protocol by such denouncing Party in respect of any act committed before this denunciation becomes effective.
-
-**_Article 15 - Notifications_**
-
-The depositary shall inform the High Contracting Parties as well as the Parties to the Geneva Conventions, whether or not they are signatories of this Protocol, of:
-
-a)   signatures affixed to this Protocol and the deposit of instruments of ratification and accession under Articles 8, 9 and 10;
-
-b)   the date of entry into force of this Protocol under Article 11 within ten days of said entry into force;
-
-c)   communications received under Article 13;
-
-d)   denunciations under Article 14.
-
-**_Article 16 - Registration_**
-
-1.   After its entry into force, this Protocol shall be transmitted by the depositary to the Secretariat of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.
-
-2.   The depositary shall also inform the Secretariat of the United Nations of all ratifications, accessions and denunciations received by it with respect to this Protocol.
-
-**_Article 17 - Authentic texts_**
-
-The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the depositary, which shall transmit certified true copies thereof to all the Parties to the Geneva Conventions.
-
-**<u>ANNEX</u>**
-
-**THIRD PROTOCOL EMBLEM**
-
-(Article 2, paragraph 2 and Article 3, paragraph 1 of the Protocol)
-
-_Article 1 - Distinctive emblem_
-
-![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image010.gif)
-
-_Article 2 - Indicative use of the third Protocol emblem_
-
-![](http://www.comlaw.gov.au/Details/C2009C00183/Html/GenevaConventions57_image011.gif)
-
-_Note:       The emblems in the Annex to the Protocol are in red on a white ground._
-
-As at 7 April 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
 
 ##### <a id="4"></a>4  Application of amendments
 
              (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
+ 
 
  
