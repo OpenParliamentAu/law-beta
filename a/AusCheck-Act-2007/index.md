@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00137/Html/AusCheck2007_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00567/Html/AusCheck2007_image001.gif)
 
 # AusCheck Act 2007
 
 **Act No. 53 of 2007 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 15 December 2009
+ taking into account amendments up to Act No. 123 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -78,7 +78,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _AusCheck Act 2007_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
                    This Act commences on the day after it receives the Royal Assent.
 
@@ -386,7 +386,9 @@ Use and disclosure of AusCheck scheme personal information that is identity veri
 
                      (d)  a disclosure to the Australian Federal Police for the purposes of the AusCheck scheme.
 
-Note:          A defendant bears an evidential burden in relation to a matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+Note 1:       A defendant bears an evidential burden in relation to a matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+
+Note 2:       For prescribing by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
 
              (3)  If a disclosure of information is covered by subsection (2), the disclosure is authorised by this section.
 
@@ -522,23 +524,6 @@ of Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 7)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 3, 4): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -691,24 +676,6 @@ of Assent</div>
   </td>
   <td>
     <div>am. No. 123, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 15(2) 
-Renumbered Note</div>
-  </td>
-  <td>
-    <div>
-No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 15(2)</div>
-  </td>
-  <td>
-    <div>rep. No. 8, 2010</div>
   </td>
 </tr></table>
 
