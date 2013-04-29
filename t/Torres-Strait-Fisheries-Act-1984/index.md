@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00261/Html/TorresStraitFish1984_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00170/Html/TorresStraitFish1984_WD02_image001.gif)
 
 # Torres Strait Fisheries Act 1984
 
 **Act No. 23 of 1984 as amended**
 
-This compilation was prepared on 3 July 2008
- taking into account amendments up to Act No. 36 of 2008
+This compilation was prepared on 28 June 2008
+ taking into account amendments up to Act No. 104 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -488,8 +488,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="afma"></a>**_AFMA_** means the Australian Fisheries Management Authority.
 
-                    <a name="afma-staff-member"></a>**_AFMA staff member_** has the same meaning as in the _Fisheries Administration Act 1991_.
-
                     <a name="area-australian-jurisdict"></a>**_area of Australian jurisdiction_** means:
 
                      (a)  any area of waters in the Protected Zone (other than an area within the Protected Zone coastal waters of Queensland) to the south of the line described in Annex 8 to the Torres Strait Treaty;
@@ -525,8 +523,6 @@ but does not, except to the extent necessary for the purposes of giving effect t
                      (b)  an air-cushion vehicle, or other similar craft, used wholly or primarily in navigation by water.
 
                     <a name="carri"></a>**_carrying_**, in relation to fish, includes preserving for the purpose of carriage or storing for that purpose.
-
-                    <a name="ceo"></a>**_CEO_** has the same meaning as in the _Fisheries Administration Act 1991_.
 
                     <a name="commerci-fish"></a>**_commercial fishing_** means fishing for commercial purposes, but does not include traditional fishing.
 
@@ -732,7 +728,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  an APS employee in the Department; or
 
-                     (b)  an AFMA staff member; or
+                     (b)  a person employed by AFMA; or
 
                      (c)  a person from time to time holding, or performing the duties of, a specified office in the service of Queensland or an authority of Queensland or under the law of Queensland; or
 
@@ -1558,7 +1554,7 @@ the Protected Zone Joint Authority shall not make the entry unless the holder of
 
                      (a)  an APS employee in the Department; or
 
-                     (b)  an AFMA staff member; or
+                     (b)  a person employed by AFMA; or
 
                      (c)  a person from time to time holding, or performing the duties of, a specified office in the service of Queensland or an authority of Queensland or under the law of Queensland; or
 
@@ -2360,4 +2356,10937 @@ the court may, in addition to imposing a penalty on the person, order the person
 
                     (aa)  engage in commercial fishing (other than community fishing) without the use of a boat in an area of Australian jurisdiction unless the person does so under a licence in force under subsection 19(4A); or
 
-                     (b)  being a traditional inhabitant, engage in 
+                     (b)  being a traditional inhabitant, engage in activities by way of community fishing on a boat in an area of Australian jurisdiction, being activities in respect of which there is in force a declaration under subsection 17(1), unless there is in force in respect of the boat a licence under subsection 19(2); or
+
+                    (ba)  being a traditional inhabitant, engage in activities by way of community fishing without the use of a boat in an area of Australian jurisdiction, being activities in respect of which there is in force a declaration under subsection 17(1A), unless the person does so under a licence in force under subsection 19(4A); or
+
+                     (c)  be in charge of a boat (other than a boat in respect of which a Treaty endorsement is in force) that is being used for commercial fishing (other than community fishing) in an area of Australian jurisdiction unless the person is the holder of a master fisherman’s licence that is in force; or
+
+                    (ca)  be in charge of a boat (other than a boat in respect of which a Treaty endorsement is in force) that is being used for community fishing:
+
+                              (i)  in an area of Australian jurisdiction; and
+
+                             (ii)  in respect of which there is in force a declaration under subsection 17(1AA);
+
+                            unless the person is the holder of a master fisherman’s licence that is in force; or
+
+                     (d)  being the holder of a licence in force under section 19, in an area of Australian jurisdiction contravene or fail to comply with a condition of the licence; or
+
+                     (e)  being the holder of a licence (other than a master fisherman’s licence) in force under section 19, cause or permit a person acting on his or her behalf in an area of Australian jurisdiction to contravene or fail to comply with a condition of the licence; or
+
+                      (f)  being a person acting on behalf of the holder of a licence (other than a master fisherman’s licence) in force under section 19, in an area of Australian jurisdiction contravene or fail to comply with a condition of the licence; or
+
+                     (g)  being the holder of a Treaty endorsement in force in respect of a boat, in an area of Australian jurisdiction contravene or fail to comply with a condition of the endorsement; or
+
+                     (h)  being the holder of a Treaty endorsement in force in respect of a boat, in an area of Australian jurisdiction cause or permit a person acting on his or her behalf to contravene or fail to comply with a condition of the endorsement; or
+
+                      (j)  being a person acting on behalf of the holder of a Treaty endorsement in force in respect of a boat, in an area of Australian jurisdiction contravene or fail to comply with a condition of the endorsement; or
+
+                     (k)  use a boat in an area of Australian jurisdiction for processing or carrying, in the course of commercial fishing, fish taken with the use of another boat unless there is in force in respect of the first-mentioned boat a licence under subsection 19(3) or a Treaty endorsement that authorises that processing or carrying; or
+
+                    (m)  in an area of Australian jurisdiction, trans-ship fish to a boat other than:
+
+                              (i)  a boat in respect of which there is in force a licence under subsection 19(3); or
+
+                             (ii)  a boat in respect of which there is in force a Treaty endorsement that authorises the carrying, or the processing and carrying, of fish taken with the use of another boat.
+
+             (2)  A person who contravenes paragraph (1)(a) with the use of a foreign boat is guilty of an offence punishable:
+
+                     (a)  where the person was, at the time when the offence was committed, the master of the boat:
+
+                              (i)  on summary conviction—by a fine not exceeding 50 penalty units; and
+
+                             (ii)  on conviction on indictment—by a fine not exceeding 2,500 penalty units; and
+
+                     (b)  in any other case:
+
+                              (i)  on summary conviction—by a fine not exceeding 50 penalty units; and
+
+                             (ii)  on conviction on indictment—by a fine not exceeding 500 penalty units.
+
+             (3)  A person who contravenes paragraph (1)(c), (d), (e) or (f) with the use of, or in relation to, a foreign boat or who contravenes paragraph (1)(k) or (m) with the use of a foreign boat is guilty of an offence punishable:
+
+                     (a)  on summary conviction—by a fine not exceeding:
+
+                              (i)  if the person is a natural person—50 penalty units; or
+
+                             (ii)  if the person is a body corporate—250 penalty units; and
+
+                     (b)  on conviction on indictment—by a fine not exceeding:
+
+                              (i)  if the person is a natural person—500 penalty units; or
+
+                             (ii)  if the person is a body corporate—2,500 penalty units.
+
+             (4)  A person who contravenes subsection (1) in circumstances in which he or she is not guilty of an offence by virtue of subsection (2) or (3) is guilty of an offence punishable, on conviction, by a fine not exceeding:
+
+                     (a)  if the person is a natural person—50 penalty units; or
+
+                     (b)  if the person is a body corporate—250 penalty units.
+
+       (4AA)  An offence under subsection (2), (3) or (4) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+          (4A)  Where:
+
+                     (a)  a person is convicted of an offence against subsection (2) or (4) arising out of a contravention of paragraph (1)(a), (b) or (k);
+
+                     (b)  the court before which the person is convicted is satisfied that:
+
+                              (i)  the person contravened paragraph (1)(a), (b) or (k), as the case may be, in an area of Australian jurisdiction at a particular time by using a boat (other than a Papua New Guinea boat) for a particular purpose; and
+
+                             (ii)  either of the following sub-subparagraphs apply:
+
+                                        (A)  a licence under this Act was not in force in respect of the boat at that time;
+
+                                        (B)  a licence under this Act was in force in respect of the boat at that time, but the licence did not authorise the use of the boat in that area for that purpose; and
+
+                     (c)  the court is also satisfied that:
+
+                              (i)  in a case to which sub-subparagraph (b)(ii)(A) applies—if a licence under this Act had been in force at that time authorising the use of the boat in that area for that purpose, the licence would have been a leviable licence; or
+
+                             (ii)  in a case to which sub-subparagraph (b)(ii)(B) applies—if the licence under this Act in force in respect of the boat had not been in force at that time, but another licence under this Act had been in force authorising the use of the boat in that area for that purpose, the other licence would have been a leviable licence;
+
+the court may, in addition to imposing a penalty on the person, order the person to pay to the Commonwealth an amount not exceeding the amount that is the relevant levy amount in relation to the licence referred to in subparagraph (c)(i) or the other licence referred to in subparagraph (c)(ii), as the case may be.
+
+          (4B)  Where:
+
+                     (a)  a person is convicted of an offence against subsection (4) because the person engaged in activities in contravention of paragraph (1)(aa) or (ba) at a particular time; and
+
+                     (b)  the court before which the person is convicted is satisfied that if a licence under subsection 19(4A) authorising the activities had been in force at that time, the licence would have been a leviable licence;
+
+the court may, in addition to imposing a penalty on the person, order the person to pay to the Commonwealth an amount not exceeding the amount that is the relevant levy amount in relation to the licence.
+
+             (5)  Where levy is payable under the _Fisheries Levy Act 1984_ on the grant of, the renewal of, the variation of or the making under this Act of an entry in a licence under this Act:
+
+                     (a)  the licence shall be taken, for the purposes of this section, to be a leviable licence; and
+
+                     (b)  the amount of the levy or the sum of the amounts of the levy, as the case requires, payable with respect to the licence shall be taken, for the purposes of this section;
+
+to be the relevant levy amount in relation to the licence.
+
+##### <a id="46"></a>46  Court may make certain orders
+
+             (1)  Where a court convicts a person of an offence:
+
+                     (a)  arising out of a contravention of paragraph 45(1)(d), (e) or (f); or
+
+                     (b)  arising out of a contravention of paragraph 44(1)(a) (not being an offence to which section 56 applies);
+
+the court may, in addition to imposing a penalty in respect of the offence, order that the person shall not, during such period as the court determines, be on a boat in an area of Australian jurisdiction with the intention of engaging in commercial fishing.
+
+             (2)  A person who contravenes an order of a court made pursuant to subsection (1) is guilty of an offence punishable, on conviction, by a fine not exceeding 20 penalty units or imprisonment for a period not exceeding 12 months, or both.
+
+             (3)  In subsection (2), strict liability applies to the physical element of circumstance, that the relevant boat is in an area of Australian jurisdiction.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="46AA"></a>46AA  Receiving fish without a licence
+
+                   A person (the **_fish receiver_**) commits an offence if:
+
+                     (a)  the fish receiver has possession or control of fish which were taken by another person; and
+
+                     (b)  the possession or control is not authorised by a licence under subsection 19(3); and
+
+                     (c)  the taking of the fish by the other person required a licence under subsection 19(2) or (4A) or a Treaty endorsement; and
+
+                     (d)  the fish are to be sold; and
+
+                     (e)  the fish receiver does not have a licence under subsection 19(4B).
+
+                    Penalty:  50 penalty units.
+
+##### <a id="46A"></a>46A  Commercial fishing by foreign boat in territorial sea within an area of Australian jurisdiction—general
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person engages in taking fish on a boat; and
+
+                     (b)  the boat is a foreign boat; and
+
+                     (c)  the fish are taken in the course of commercial fishing; and
+
+                     (d)  the boat is at a place that is, at the time the person engages in taking the fish, in a part of the territorial sea of Australia that is in an area of Australian jurisdiction.
+
+                    Penalty:
+
+                     (a)  if the offender was the master of the boat at the time the offence was committed—2,500 penalty units or 3 years imprisonment, or both; or
+
+                     (b)  in any other case—500 penalty units or 2 years imprisonment, or both.
+
+          (1A)  Strict liability applies to paragraph (1)(d).
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (2)  The reference to an area of Australian jurisdiction in paragraph (1)(d) does not include a reference to Protected Zone coastal waters of Queensland.
+
+Note:          For what are Protected Zone coastal waters of Queensland, see
+ section 4.
+
+             (3)  Subsection (1) does not apply if:
+
+                     (a)  the fishing is community fishing; or
+
+                     (b)  a licence under subsection 19(2) is in force authorising the use of the boat; or
+
+                     (c)  a Treaty endorsement is in force authorising the use of the boat for taking fish.
+
+Note:          The defendant bears an evidential burden in relation to the matters in subsection (3). See subsection 13.3(3) of the _Criminal Code_.
+
+##### <a id="46B"></a>46B  Commercial fishing by foreign boat in territorial sea within an area of Australian jurisdiction—unlicensed master
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is in charge of a boat; and
+
+                     (b)  the boat is a foreign boat; and
+
+                     (c)  the boat is a boat that is being used for commercial fishing; and
+
+                     (d)  the boat is at a place that is, at the time of the use, in a part of the territorial sea of Australia that is in an area of Australian jurisdiction.
+
+                    Penalty:  2,500 penalty units or 3 years imprisonment, or both.
+
+          (1A)  Strict liability applies to paragraph (1)(d).
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (2)  The reference to an area of Australian jurisdiction in paragraph (1)(d) does not include a reference to Protected Zone coastal waters of Queensland.
+
+Note:          For what are Protected Zone coastal waters of Queensland, see
+ section 4.
+
+             (3)  Subsection (1) does not apply if:
+
+                     (a)  a master fisherman’s licence is in force authorising the person to be in charge of the boat; or
+
+                     (b)  a Treaty endorsement is in force authorising the use of the boat; or
+
+                     (c)  the use of the boat is for community fishing.
+
+Note:          The defendant bears an evidential burden in relation to the matters in subsection (3). See subsection 13.3(3) of the _Criminal Code_.
+
+##### <a id="46C"></a>46C  Commercial fishing by foreign boat in territorial sea within an area of Australian jurisdiction—processing or carrying fish
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person uses a boat; and
+
+                     (b)  the boat is a foreign boat; and
+
+                     (c)  the use of the boat is for processing or carrying fish that are taken with the use of another boat; and
+
+                     (d)  the fish are processed or carried in the course of commercial fishing; and
+
+                     (e)  the boat used for processing or carrying fish is at a place that is, at the time of the use, in a part of the territorial sea of Australia that is in an area of Australian jurisdiction.
+
+                    Penalty:
+
+                     (a)  if the offender was the master of the boat at the time the offence was committed—2,500 penalty units or 3 years imprisonment, or both; or
+
+                     (b)  in any other case—500 penalty units or 2 years imprisonment, or both.
+
+          (1A)  Strict liability applies to paragraph (1)(e).
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (2)  The reference to an area of Australian jurisdiction in paragraph (1)(e) does not include a reference to Protected Zone coastal waters of Queensland.
+
+Note:          For what are Protected Zone coastal waters of Queensland, see
+ section 4.
+
+             (3)  Subsection (1) does not apply if:
+
+                     (a)  a licence under subsection 19(3) is in force authorising the use of the boat for processing or carrying fish (as the case may be) that are taken with the use of another boat; or
+
+                     (b)  a Treaty endorsement is in force authorising the use of the boat for processing or carrying fish (as the case may be) that are taken with the use of another boat.
+
+Note:          The defendant bears an evidential burden in relation to the matters in subsection (3). See subsection 13.3(3) of the _Criminal Code_.
+
+##### <a id="46D"></a>46D  Commercial fishing by foreign boat in territorial sea within an area of Australian jurisdiction—trans-shipping fish
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person uses a boat; and
+
+                     (b)  the boat is a foreign boat; and
+
+                     (c)  the use of the boat is for trans-shipping fish to another boat; and
+
+                     (d)  the boat used for trans-shipping fish is at a place that is, at the time of the use, in a part of the territorial sea of Australia that is in an area of Australian jurisdiction.
+
+                    Penalty:
+
+                     (a)  if the offender was the master of the boat at the time the offence was committed—2,500 penalty units or 3 years imprisonment, or both; or
+
+                     (b)  in any other case—500 penalty units or 2 years imprisonment, or both.
+
+          (1A)  Strict liability applies to paragraph (1)(d).
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (2)  The reference to an area of Australian jurisdiction in paragraph (1)(d) does not include a reference to Protected Zone coastal waters of Queensland.
+
+Note:          For what are Protected Zone coastal waters of Queensland, see
+ section 4.
+
+             (3)  Subsection (1) does not apply if:
+
+                     (a)  a licence under subsection 19(3) is in force authorising the use of the other boat; or
+
+                     (b)  a Treaty endorsement is in force authorising the use of the other boat for carrying, or for processing or carrying, fish that are taken with the use of another boat.
+
+Note:          The defendant bears an evidential burden in relation to the matters in subsection (3). See subsection 13.3(3) of the _Criminal Code_.
+
+##### <a id="47"></a>47  Removing fish from traps etc.
+
+             (1)  A person shall not, in an area of Australian jurisdiction, remove fish from a net, trap or other equipment for the taking of fish.
+
+                    Penalty:  50 penalty units or imprisonment for 2 years, or both.
+
+             (2)  Subsection (1) does not apply if the person is the owner of the net, trap or other equipment or is acting with the authority of the owner.
+
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (2). See subsection 13.3(3) of the _Criminal Code_.
+
+             (3)  In subsection (1), strict liability applies to the physical element of circumstance, that the removal occurs in an area of Australian jurisdiction.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="48"></a>48  Using foreign boat for fishing for private purposes
+
+             (1)  A person shall not, in an area of Australian jurisdiction:
+
+                     (a)  use a foreign boat for taking, catching or capturing, fish for private purposes; or
+
+                     (b)  use a foreign boat for processing or carrying fish that have been taken, caught or captured for private purposes with the use of that boat or another boat.
+
+                    Penalty:  50 penalty units.
+
+             (2)  An offence under subsection (1) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="49"></a>49  Bringing foreign boats and Papua New Guinea boats into the Australian part of the Protected Zone
+
+             (1)  The master of a foreign fishing boat, not being a boat that is being used in the course of traditional fishing, who, otherwise than in accordance with an entry made in a licence or in a Treaty endorsement under paragraph 21(2)(a) or (b), causes the boat to be brought into a place in Australia that is within the Protected Zone, is guilty of an offence punishable:
+
+                     (a)  on summary conviction—by a fine not exceeding 50 penalty units; and
+
+                     (b)  on conviction on indictment—by a fine not exceeding 500 penalty units.
+
+             (2)  It is a defence to a prosecution for an offence against subsection (1) if the person charged proves that an unforseen emergency rendered it necessary to bring the boat into that place in order to secure the safety of human life or of the boat.
+
+Note:          The defendant bears a legal burden in relation to the matter in subsection (2). See section 13.4 of the _Criminal Code_.
+
+          (2A)  An offence under subsection (1) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (3)  In subsection (1), **_foreign fishing boat_** means a foreign boat or a Papua New Guinea boat that is designed and equipped for:
+
+                     (a)  catching or capturing fish;
+
+                     (b)  processing fish;
+
+                     (c)  carrying fish;
+
+                     (d)  2 or more of the purposes mentioned in paragraphs (a), (b) and (c); or
+
+                     (e)  supporting the operations of a boat that is, or boats that are, designed and equipped for any one or more of the purposes mentioned in paragraphs (a), (b) and (c).
+
+##### <a id="49A"></a>49A  Bringing foreign boats into territorial sea within an area of Australian jurisdiction
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is the master of a boat; and
+
+                     (b)  the boat is a foreign boat; and
+
+                     (c)  the boat is a fishing boat; and
+
+                     (d)  the person causes the boat to be brought into a place; and
+
+                     (e)  the place is, at the time boat is brought into it, in a part of the territorial sea of Australia that is in an area of Australian jurisdiction.
+
+                    Penalty:  500 penalty units or 2 years imprisonment, or both.
+
+          (1A)  Strict liability applies to paragraph (1)(e).
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (2)  The reference to an area of Australian jurisdiction in paragraph (1)(e) does not include a reference to Protected Zone coastal waters of Queensland.
+
+Note:          For what are Protected Zone coastal waters of Queensland, see
+ section 4.
+
+             (3)  It is a defence to a prosecution for an offence against subsection (1) if the person charged proves that an unforeseen emergency rendered it necessary to bring the boat into that place in order to secure the safety of human life or of the boat.
+
+Note:          The defendant bears a legal burden in relation to the matter in subsection (3). See section 13.4 of the _Criminal Code_.
+
+             (4)  Subsection (1) does not apply if:
+
+                     (a)  an entry under subsection 21(2) in a licence granted under subsection 19(2) or (3) is in force authorising the boat to be brought into the place; or
+
+                     (b)  an entry under subsection 21(2) in a Treaty endorsement is in force authorising the boat to be brought into the place; or
+
+                     (c)  at the time the boat is brought into the place, the boat is being used for traditional fishing.
+
+Note:          The defendant bears an evidential burden in relation to the matters in subsection (4). See subsection 13.3(3) of the _Criminal Code_.
+
+             (5)  In this section:
+
+                    <a name="fish-boat"></a>**_fishing boat_** means a boat that is designed and equipped for:
+
+                     (a)  catching or capturing fish; or
+
+                     (b)  processing fish; or
+
+                     (c)  carrying fish; or
+
+                     (d)  2 or more of the purposes mentioned in paragraphs (a), (b) and (c); or
+
+                     (e)  supporting the operations of a boat that is, or boats that are, designed and equipped for any one or more of the purposes mentioned in paragraphs (a), (b) and (c).
+
+##### <a id="50"></a>50  Certain boats not to land fish at certain places
+
+             (1)  The master of a foreign boat or of a Papua New Guinea boat who, otherwise than in accordance with an entry made in a licence or in a Treaty endorsement under paragraph 21(2)(b) or in accordance with an endorsement under subsection 9(3A) of the _Fisheries Act 1952_ or a foreign fishing licence granted under the _Fisheries Management Act 1991_, causes to be landed at a place in Australia any fish, not being fish that were taken in the course of traditional fishing and landed at that place for the purpose of the performance of traditional activities, that were brought to the place by the boat is guilty of an offence punishable:
+
+                     (a)  on summary conviction—by a fine not exceeding 50 penalty units; and
+
+                     (b)  on conviction on indictment—by a fine not exceeding 500 penalty units.
+
+             (2)  It is a defence to a prosecution for an offence against subsection (1) if the person charged satisfies the court that:
+
+                     (a)  the fish were imported into Australia and were so imported in accordance with permission in writing granted for the purposes of regulations made under the _Customs Act 1901_;
+
+                     (b)  by reason of the operation of section 131A of that Act, the fish were not subject to the control of the Customs;
+
+                     (c)  the fish had previously been landed in another place in Australia, in an external Territory or in a country other than Australia; or
+
+                     (d)  the fish were landed in pursuance of an order of a court.
+
+             (3)  An offence under subsection (1) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="51"></a>51  Having boat equipped for fishing—general
+
+             (1)  A person shall not, in an area of Australian jurisdiction, have in his or her possession or under his or her control, an unlicensed boat equipped with nets, traps or other equipment for taking fish.
+
+             (2)  A person who contravenes subsection (1) with the use of an unlicensed boat that is a foreign boat is guilty of an offence punishable:
+
+                     (a)  on summary conviction—by a fine not exceeding:
+
+                              (i)  if the person is a natural person—50 penalty units; or
+
+                             (ii)  if the person is a body corporate—250 penalty units; and
+
+                     (b)  on conviction on indictment—by a fine not exceeding 2,500 penalty units.
+
+             (3)  A person who contravenes subsection (1) with the use of an unlicensed boat that is an Australian boat or a Papua New   Guinea boat is guilty of an offence punishable, on conviction, by a fine not exceeding:
+
+                     (a)  if the person is a natural person—50 penalty units; or
+
+                     (b)  if the person is a body corporate—250 penalty units.
+
+             (4)  It is a defence to a prosecution for an offence against subsection (2) or (3) if the person charged proves that, at the time of the alleged offence:
+
+                     (a)  the nets, traps or other equipment for taking fish were stowed and secured; and
+
+                     (b)  the boat was travelling through an area of Australian jurisdiction from a point outside an area of Australian jurisdiction to another point outside an area of Australian jurisdiction by the shortest practicable route.
+
+Note:          The defendant bears a legal burden in relation to the matter in subsection (4). See section 13.4 of the _Criminal Code_.
+
+          (4A)  An offence under subsection (2) or (3) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (5)  In this section, **_unlicensed boat_** means a boat:
+
+                     (a)  that is being used otherwise than in the course of traditional fishing or community fishing; and
+
+                     (b)  in respect of which there is not in force a licence under section 19 or a Treaty endorsement.
+
+##### <a id="51A"></a>51A  Having foreign boat equipped for fishing in territorial sea within an area of Australian jurisdiction
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person has a boat in his or her possession, or under his or her control; and
+
+                     (b)  the boat is a foreign boat; and
+
+                     (c)  the boat is equipped with nets, traps or other equipment for taking fish; and
+
+                     (d)  the boat is at a place that is in a part of the territorial sea of Australia that is in an area of Australian jurisdiction.
+
+                    Penalty:
+
+                     (a)  if the offender was the master of the boat at the time the offence was committed—2,500 penalty units or 3 years imprisonment, or both; or
+
+                     (b)  in any other case—500 penalty units or 2 years imprisonment, or both.
+
+          (1A)  Strict liability applies to paragraph (1)(d).
+
+Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+
+             (2)  It is a defence to a prosecution for an offence against subsection (1) if the person charged proves that, at the time of the alleged offence:
+
+                     (a)  the boat’s nets, traps and other equipment for taking fish were stowed and secured; and
+
+                     (b)  the boat was travelling through an area of Australian jurisdiction from a point outside an area of Australian jurisdiction to another point outside an area of Australian jurisdiction by the shortest practicable route.
+
+Note:          The defendant bears a legal burden in relation to the matters in subsection (2). See section 13.4 of the _Criminal Code_.
+
+             (3)  Subsection (1) does not apply if:
+
+                     (a)  a licence under section 19 is in force in respect of the boat; or
+
+                     (b)  a Treaty endorsement is in force in respect of the boat; or
+
+                     (c)  the boat is being used for traditional fishing or community fishing.
+
+Note:          The defendant bears an evidential burden in relation to the matters in subsection (3). See subsection 13.3(3) of the _Criminal Code_.
+
+             (4)  A reference to an area of Australian jurisdiction in this section does not include a reference to Protected Zone coastal waters of Queensland.
+
+Note:          For what are Protected Zone coastal waters of Queensland, see
+ section 4.
+
+### Division 3—Forfeiture for offences
+
+#### Subdivision A—Forfeiture by court order
+
+##### <a id="52"></a>52  Forfeiture of things used in certain offences
+
+             (1)  Subject to subsection (2), where a court convicts a person of an offence against subsection 14(14) or against section 44, 45, 46A, 46B, 46C, 46D, 48, 49, 49A, 50, 51 or 51A, the court may, in addition to imposing a penalty in respect of the offence, order the forfeiture of:
+
+                     (a)  if a boat was used in the commission of the offence—that boat;
+
+                     (b)  a net, trap or equipment that was on board that boat at the time of the commission of the offence, or that was used in the commission of the offence;
+
+                     (c)  fish on board that boat at that time, or in relation to which the offence was committed; or
+
+                     (d)  the proceeds of the sale of fish of the kind referred to in paragraph (c).
+
+             (2)  Where a court convicts a person of an offence referred to in subsection (1), the court shall not order the forfeiture of:
+
+                     (a)  a boat in respect of which a licence under section 19 or a Treaty endorsement was, at the time of the commission of the offence, in force; or
+
+                     (b)  a boat that was, at the time of the commission of the offence, being used in the course of traditional fishing or community fishing.
+
+##### <a id="52AAA"></a>52AAA  Forfeiture of additional things on forfeited boats
+
+             (1)  This section applies if:
+
+                     (a)  a court orders a boat to be forfeited under section 52 because it was used in the commission of an offence (the **_relevant offence_**); and
+
+                     (b)  at the time the court makes the order, there are nets, traps, equipment or fish (the **_additional things_**) on the boat that the court cannot order to be forfeited under section 52.
+
+Forfeiture within 2 years
+
+             (2)  If the order for the boat to be forfeited is made within 2 years after the commission of the relevant offence, the court may order the forfeiture of the additional things.
+
+Things owned by the person who owned the boat
+
+             (3)  If the additional things are owned by the person who owned the boat immediately before the relevant offence was committed, the court may order the forfeiture of the additional things.
+
+             (4)  For the purposes of subsection (3), the additional things are taken, unless the contrary is proved, to be owned by the person who owned the boat immediately before the relevant offence was committed.
+
+Things owned by persons who commit offences
+
+             (5)  If the additional things are owned:
+
+                     (a)  by the person who committed the relevant offence; or
+
+                     (b)  by a person who committed an offence against:
+
+                              (i)  section 6 of the _Crimes Act 1914_; or
+
+                             (ii)  an ancillary offence (within the meaning of the _Criminal Code_);
+
+                            that relates to the relevant offence;
+
+the court may order the forfeiture of the additional things.
+
+             (6)  For the purposes of subsection (5), the additional things are taken, unless the contrary is proved, to be owned:
+
+                     (a)  for the purposes of paragraph (5)(a)—by the person who committed the relevant offence; and
+
+                     (b)  for the purposes of paragraph (5)(b)—by a person who committed an offence against:
+
+                              (i)  section 6 of the _Crimes Act 1914_; or
+
+                             (ii)  an ancillary offence (within the meaning of the _Criminal_ _Code_);
+
+                            that relates to the relevant offence.
+
+             (7)  To avoid doubt, nothing in subsection (2), (3) or (5) limits the operation of another subsection of this section.
+
+##### <a id="52AAB"></a>52AAB  Forfeited things become the property of the Commonwealth
+
+                   Any boat or other property (including fish) ordered by a court to be forfeited under this Subdivision becomes the property of the Commonwealth and must be dealt with or disposed of in accordance with the directions of the Minister.
+
+##### <a id="52AAC"></a>52AAC  Rights and interests of the Commonwealth not limited
+
+                   To avoid doubt, a provision of this Subdivision giving the Commonwealth rights or interests in relation to property does not limit any other right or interest the Commonwealth has or acquires otherwise than under this Subdivision.
+
+#### Subdivision B—Automatic forfeiture of things
+
+##### <a id="52A"></a>52A  Forfeiture of things used in certain offences
+
+             (1)  The following things are forfeited to the Commonwealth:
+
+                     (a)  a foreign boat used in an offence against:
+
+                              (i)  subsection 45(2); or
+
+                             (ii)  section 46A; or
+
+                            (iii)  section 48; or
+
+                            (iv)  section 49; or
+
+                             (v)  section 49A; or
+
+                            (vi)  section 51; or
+
+                           (vii)  section 51A;
+
+                     (b)  a net or trap, or equipment, that:
+
+                              (i)  was on a boat described in paragraph (a) at the time of the offence mentioned in that paragraph; or
+
+                             (ii)  was used in the commission of an offence against subsection 45(2) or section 46A, 48, 49, 49A, 51 or 51A;
+
+                     (c)  fish:
+
+                              (i)  on a boat described in paragraph (a) at the time of the offence mentioned in that paragraph; or
+
+                             (ii)  involved in the commission of an offence against subsection 45(2) or section 46A, 48, 49, 49A, 51 or 51A.
+
+Note:          Paragraph 42(1)(ea) allows an officer to seize a thing that is forfeited under this section or that the officer has reasonable grounds to believe is forfeited.
+
+             (2)  If:
+
+                     (a)  a boat is forfeited to the Commonwealth under subsection (1) because it was used in the commission of an offence; and
+
+                     (b)  the boat is seized under paragraph 42(1)(ea);
+
+any nets, traps or equipment on the boat at the time it is seized are taken, unless the contrary is proved:
+
+                     (c)  for the purposes of subparagraph (1)(b)(i)—to have been on the boat at the time of the offence; and
+
+                     (d)  for the purposes of subparagraph (1)(b)(ii)—to have been used in the commission of an offence against subsection 45(2) or section 46A, 48, 49, 49A, 51 or 51A.
+
+             (3)  If:
+
+                     (a)  a boat is forfeited to the Commonwealth under subsection (1) because it was used in the commission of an offence; and
+
+                     (b)  the boat is seized under paragraph 42(1)(ea);
+
+any fish on the boat at the time it is seized are taken, unless the contrary is proved:
+
+                     (c)  for the purposes of subparagraph (1)(c)(i)—to have been on the boat at the time of the offence; and
+
+                     (d)  for the purposes of subparagraph (1)(c)(ii)—to have been involved in the commission of an offence against subsection 45(2) or section 46A, 48, 49, 49A, 51 or 51A.
+
+##### <a id="52AA"></a>52AA  Forfeiture of additional things on seized boats
+
+             (1)  This section applies if:
+
+                     (a)  a boat is forfeited to the Commonwealth under section 52A because it was used in the commission of an offence (the **_relevant offence_**); and
+
+                     (b)  the boat is seized under paragraph 42(1)(ea); and
+
+                     (c)  at the time the boat is seized, there are nets, traps, equipment or fish (the **_additional things_**) on the boat that have not been forfeited under section 52A.
+
+Seizure within 2 years
+
+             (2)  If the boat is seized within 2 years after it is forfeited, the additional things are forfeited to the Commonwealth at the time the boat is seized.
+
+Things owned by the person who owned the boat
+
+             (3)  If the additional things are owned by the person who owned the boat immediately before the relevant offence was committed, the additional things are forfeited to the Commonwealth at the time the boat is seized.
+
+             (4)  For the purposes of subsection (3), the additional things are taken, unless the contrary is proved, to be owned by the person who owned the boat immediately before the relevant offence was committed.
+
+Things owned by persons who commit offences
+
+             (5)  If the additional things are owned:
+
+                     (a)  by the person who committed the relevant offence; or
+
+                     (b)  by a person who committed an offence against:
+
+                              (i)  section 6 of the _Crimes Act 1914_; or
+
+                             (ii)  an ancillary offence (within the meaning of the _Criminal Code_);
+
+                            that relates to the relevant offence;
+
+the additional things are forfeited to the Commonwealth at the time the boat is seized.
+
+             (6)  For the purposes of subsection (5), the additional things are taken, unless the contrary is proved, to be owned:
+
+                     (a)  for the purposes of paragraph (5)(a)—by the person who committed the relevant offence; and
+
+                     (b)  for the purposes of paragraph (5)(b)—by a person who committed an offence against:
+
+                              (i)  section 6 of the _Crimes Act 1914_; or
+
+                             (ii)  an ancillary offence (within the meaning of the _Criminal_ _Code_);
+
+                            that relates to the relevant offence.
+
+             (7)  To avoid doubt, nothing in subsection (2), (3) or (5) limits the operation of another subsection of this section.
+
+##### <a id="52AB"></a>52AB  Rights and interests of the Commonwealth not limited
+
+                   To avoid doubt, a provision of this Subdivision giving the Commonwealth rights or interests in relation to property does not limit any other right or interest the Commonwealth has or acquires otherwise than under this Subdivision.
+
+#### Subdivision BA [_see_ Note 2]
+
+#### Subdivision C—Dealing with things seized
+
+##### <a id="52B"></a>52B  Application of this Subdivision
+
+                   This Subdivision sets out rules about the following:
+
+                     (a)  a thing that an officer seizes under paragraph 42(1)(ea) or (eb):
+
+                              (i)  because the thing is forfeited under Subdivision B; or
+
+                             (ii)  because the officer has reasonable grounds to believe the thing is forfeited under Subdivision B;
+
+                     (b)  a thing that an officer seizes under paragraph 42(1)(ec) or (ed):
+
+                              (i)  because the thing is the property of the Commonwealth because of the operation of Subdivision BA; or
+
+                             (ii)  because the officer has reasonable grounds to believe the thing is the property of the Commonwealth because of the operation of Subdivision BA.
+
+##### <a id="52C"></a>52C  Notice of seizure
+
+Giving notice
+
+             (1)  The officer must give written notice of the seizure of the thing:
+
+                     (a)  if the thing is, or was on, a boat, or was used in connection with a boat:
+
+                              (i)  to the person who was the master of the boat immediately before the seizure; or
+
+                             (ii)  to the person whom the officer has reasonable grounds to believe was the master of the boat immediately before the seizure; or
+
+                     (b)  in a case not covered by paragraph (a):
+
+                              (i)  to the owner of the thing; or
+
+                             (ii)  to the person who had possession, custody or control of the thing immediately before it was seized.
+
+          (1A)  However, if the officer cannot conveniently give the notice to the person in person, the officer may give written notice of the seizure of the thing by fixing the notice to a prominent part of the thing, unless the thing is a fish.
+
+Content of notice
+
+             (2)  The notice must:
+
+                     (a)  identify the thing; and
+
+                     (b)  state that the thing has been seized; and
+
+                     (c)  state that the thing will be condemned as forfeited unless the owner of the thing or the person who had possession, custody or control of the thing immediately before it was seized gives the Managing Director of AFMA within 30 days a written claim in English for the thing; and
+
+                     (d)  specify the address of the Managing Director of AFMA.
+
+Note:          Section 52E condemns the thing if it is not claimed within 30 days. Section 52G condemns the thing if it is claimed but the claimant does not get a court order supporting the claim.
+
+Status of notice
+
+             (3)  A notice under subsection (1) is not a legislative instrument.
+
+##### <a id="52D"></a>52D  Dealing with thing before it is condemned
+
+             (1)  On behalf of the Commonwealth, AFMA may cause the thing to be disposed of or destroyed if it is a boat and AFMA is satisfied that:
+
+                     (a)  the boat is unseaworthy; or
+
+                     (b)  the boat poses a serious risk to safety, public health or quarantine; or
+
+                     (c)  the boat poses a serious risk of damage to other property or the environment; or
+
+                     (d)  the expenses of custody and maintenance of the boat between its seizure and condemnation are likely to be greater than its value.
+
+             (2)  If AFMA causes the boat to be disposed of, it may cause the disposal to be made subject to specified conditions.
+
+             (3)  The table lists some other provisions relevant to dealing with things before they are condemned as forfeited to the Commonwealth:
+
+<table>
+<colgroup>
+  <col width="11%">
+  <col width="31%">
+  <col width="58%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Provisions about dealing with things before they are condemned</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Provision</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Subject of provision</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Paragraph 42(1)(q)</div>
+  </td>
+  <td>
+    <div>Officer’s power to dispose of seized fish</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Section 52I</div>
+  </td>
+  <td>
+    <div>Release of seized property</div>
+  </td>
+</tr></table>
+
+##### <a id="52E"></a>52E  Thing condemned if not claimed in time
+
+             (1)  By force of this subsection, the thing is condemned as forfeited to the Commonwealth 30 days after notice of seizure of the thing has been given under section 52C, unless:
+
+                     (a)  within the 30 days the owner of the thing or the person who had possession, custody or control of it immediately before it was seized gives the Managing Director of AFMA a written claim for the thing; and
+
+                     (b)  the claim is in English; and
+
+                     (c)  the claim sets out an address for service on the person making the claim.
+
+Note:          Section 52H requires things condemned as forfeited to be dealt with in accordance with the Minister’s directions.
+
+             (2)  A person may claim the thing even if it is disposed of or destroyed before or after the claim.
+
+##### <a id="52F"></a>52F  Dealing with claim for thing
+
+             (1)  If the thing is claimed as described in section 52E:
+
+                     (a)  an officer may retain possession of the thing without starting any proceedings for the condemnation of the goods; and
+
+                     (b)  the Managing Director of AFMA may give the claimant a written notice stating that the thing will be condemned if the claimant does not institute proceedings against the Commonwealth within 2 months:
+
+                              (i)  to recover the thing; or
+
+                             (ii)  for a declaration that the thing is not forfeited.
+
+Note 1:       An officer may retain possession even if the Managing Director of AFMA does not give notice. If so, the claimant will be able to recover the thing only if it is released under section 52I or a court orders its release to the claimant.
+
+Note 2:       If the Managing Director does give the notice and the claimant institutes proceedings, whether the claimant recovers the thing will depend on the outcome of the proceedings.
+
+             (2)  The Managing Director of AFMA may give the notice to the claimant by posting it prepaid as a letter to the last address of the claimant that is known to the Managing Director. If the Managing Director does so, the letter is taken to be properly addressed for the purposes of section 29 of the _Acts Interpretation Act 1901_.
+
+             (3)  Subsection (2) does not limit the ways in which the notice may be given.
+
+Note:          Sections 28A and 29 of the _Acts Interpretation Act 1901_ explain how a notice can be given, and when it is taken to be given.
+
+             (4)  To avoid doubt, the Managing Director of AFMA may give the notice even if the thing has been released under section 52I.
+
+             (5)  A notice under paragraph (1)(b) is not a legislative instrument.
+
+##### <a id="52G"></a>52G  Condemnation of thing if it is claimed
+
+Application
+
+             (1)  This section applies if the Managing Director of AFMA gives the claimant a notice under section 52F about instituting proceedings:
+
+                     (a)  to recover the thing; or
+
+                     (b)  for a declaration that the thing is not forfeited.
+
+Condemnation if proceedings not started within 2 months
+
+             (2)  By force of this subsection, the thing is condemned as forfeited to the Commonwealth 2 months after the notice is given if the claimant does not institute the proceedings within that period.
+
+Condemnation at end of proceedings started within 2 months
+
+             (3)  By force of this subsection, the thing is condemned as forfeited to the Commonwealth at the end of the proceedings that are instituted by the claimant against the Commonwealth within 2 months of the claimant being given the notice if, at the end of the proceedings, there is not:
+
+                     (a)  an order for the claimant to recover the thing; or
+
+                     (b)  an order for the Commonwealth to pay the claimant the proceeds of the sale of the thing if it has been sold before the end of the proceedings; or
+
+                     (c)  an order for the Commonwealth to pay the claimant the market value of the thing at the time it was disposed of (except by sale) or destroyed, if it has been disposed of (except by sale) or destroyed before the end of the proceedings; or
+
+                     (d)  a declaration that the thing is not forfeited.
+
+End of proceedings that go to judgment
+
+             (4)  For the purposes of subsection (3), if the proceedings go to judgment, they end:
+
+                     (a)  at the end of the period for lodging an appeal against the judgment, if no appeal is lodged within that period; or
+
+                     (b)  when the appeal lapses or is finally determined, if an appeal is lodged against the judgment within that period.
+
+Proceedings relating to thing that has been disposed of
+
+             (5)  Proceedings relating to the thing may be instituted or continued even if it is disposed of or destroyed.
+
+Order for payment if thing has been disposed of or destroyed
+
+             (6)  If the court hearing the proceedings decides that it would have ordered that the thing be delivered to a person apart from the fact that the thing had been disposed of or destroyed, the court must order the Commonwealth to pay the person an amount equal to:
+
+                     (a)  the proceeds of the sale of the thing, if it has been sold before the end of the proceedings; or
+
+                     (b)  the market value of the thing at the time it was disposed of (except by sale) or destroyed, if it has been disposed of (except by sale) or destroyed before the end of the proceedings.
+
+##### <a id="52H"></a>52H  Dealing with thing after it is condemned
+
+                   If the thing is condemned as forfeited to the Commonwealth, the thing must be dealt with or disposed of in accordance with the directions of the Minister.
+
+##### <a id="52HA"></a>52HA  Evidence
+
+             (1)  For the purposes of proceedings taken:
+
+                     (a)  to recover a thing forfeited under Subdivision B; or
+
+                     (b)  for a declaration that a thing seized under paragraph 42(1)(ea) or (eb) is not forfeited under Subdivision B;
+
+if a person has been convicted of an offence mentioned in paragraph 52A(1)(a), the person is taken, unless the contrary is proved, to have committed the offence.
+
+             (2)  Subsection (1) does not apply in relation to a conviction:
+
+                     (a)  in respect of which a review or appeal (however described) has been instituted but not finally determined; or
+
+                     (b)  that has been quashed or set aside; or
+
+                     (c)  in respect of which a pardon has been given.
+
+### Division 4—Dealing with property that has been seized etc.
+
+##### <a id="52I"></a>52I  Release of property that has been seized etc.
+
+             (1)  If any property is under the control of an officer because of the exercise by an officer of powers under section 42, AFMA may direct that the property be released:
+
+                     (a)  in the case of a boat—to the owner or the master of the boat; and
+
+                     (b)  in any other case—to the owner of the property or to the person from whose possession the property was seized, or from whose control the property was removed;
+
+on such conditions (if any) as AFMA thinks fit, including conditions as to the giving of security:
+
+                     (c)  for payment of the value of the property if it is forfeited; and
+
+                     (d)  for the payment of any fines that may be imposed under this Act in respect of offences that AFMA has reason to believe have been committed with the use of, or in relation to, that property.
+
+             (2)  If:
+
+                     (a)  any property referred to in subsection (1):
+
+                              (i)  is also property referred to in section 52; and
+
+                             (ii)  was under the control of an officer because an offence referred to in that section is alleged to have been committed in respect of the property; and
+
+                     (b)  were the person to be convicted of the offence an order could be made by the court directing the person to pay the costs of the prosecution;
+
+the conditions on which the property may be released under subsection (1) include a condition as to the giving of security for payment of those costs if the person is convicted of the offence.
+
+             (3)  For the purposes of this section:
+
+                     (a)  a reference to property includes a reference to fish; and
+
+                     (b)  property is taken to be under the control of an officer if any person is, in relation to that property, subject to the directions of the officer.
+
+##### <a id="52J"></a>52J  Seizure or forfeiture has effect despite admiralty proceedings
+
+             (1)  The seizure, detention or forfeiture of a boat under this Act has effect despite any or all of the following events:
+
+                     (a)  the arrest of the boat under the _Admiralty Act 1988_;
+
+                     (b)  the making of an order for the sale of the boat by a court in proceedings brought under the _Admiralty Act 1988_;
+
+                     (c)  the sale of the boat under an order made by a court in proceedings brought under the _Admiralty Act 1988_.
+
+             (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the arrest, making of the order or sale (as appropriate).
+
+### Division 5—Ancillary offences and provisions
+
+##### <a id="53"></a>53  Liability of master of boat
+
+             (1)  The master of a boat on which, or by the use of which, an offence against this Act (in this section referred to as the **_primary offence_**) is committed is guilty of an offence against this section and is punishable, on conviction, as if it were the primary offence.
+
+             (2)  A person may be convicted of an offence against this section whether or not the identity of the person who committed the primary offence appears, or has appeared, from the evidence in the proceedings in respect of the offence against this section or in any other proceedings, but a person shall not be convicted both of an offence against this section and of the primary offence.
+
+             (3)  The provisions of section 52 apply where a person is convicted of an offence against this section in like manner as they would apply if that person had been convicted of the primary offence.
+
+##### <a id="53A"></a>53A  Conduct by directors, servants or agents of bodies corporate
+
+             (1)  Where, in proceedings for an offence against this Act or the regulations in respect of conduct engaged in by a body corporate, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, servant or agent of the body corporate, being a director, servant or agent by whom the conduct was engaged in within the scope of his or her actual or apparent authority, had that state of mind.
+
+             (2)  Any conduct engaged in on behalf of a body corporate:
+
+                     (a)  by a director, servant or agent of the body corporate within the scope of his or her actual or apparent authority; or
+
+                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a director, servant or agent of the body corporate, where the giving of such direction, consent or agreement is within the scope of the actual or apparent authority of the director, servant or agent;
+
+shall be deemed, for the purposes of this Act and the regulations, to have been engaged in also by the body corporate.
+
+             (3)  A reference in subsection (1) to the state of mind of a person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the person’s reasons for the intention, opinion, belief or purpose.
+
+             (4)  Part 2.5 of the _Criminal Code_ does not apply to an offence against this Act or the regulations.
+
+Note:          Part 2.5 of the _Criminal Code_ deals with corporate criminal responsibility.
+
+### Division 6—Offence of contravening Papua   New Guinea law
+
+##### <a id="54"></a>54  Offences against Papua New Guinea law
+
+             (1)  In this section **_Papua New Guinea_****_law_** means any written law relating to fishing in force in Papua New   Guinea and having effect in any part of the Protected Zone.
+
+             (2)  A person, being:
+
+                     (a)  an Australian citizen;
+
+                     (b)  a person (other than an Australian citizen) on an Australian boat; or
+
+                     (c)  a person on a foreign boat in respect of which a licence is in force under section 19;
+
+who, in an area of Papua New Guinea jurisdiction, contravenes any Papua New Guinea law is guilty of an offence punishable, on conviction, by a fine not exceeding 50 penalty units.
+
+             (3)  It is a defence to a prosecution for an offence against subsection (2) in relation to a contravention of a Papua New Guinea law if the person charged satisfies the court that he or she has, in Papua New Guinea, been prosecuted for an offence against Papua New Guinea law in relation to that contravention.
+
+             (4)  In determining whether or not a person is guilty of an offence against subsection (2), the court shall have regard to so much of the laws of Papua New Guinea, whether written or unwritten, as, in the opinion of the court, is necessary to give effect to Article 28 of the Torres Strait Treaty.
+
+             (5)  An offence under subsection (2) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+### Division 7—Provisions relating to detention of suspected illegal foreign fishers
+
+##### <a id="54A"></a>54A  Provisions relating to detention of suspected illegal foreign fishers
+
+                   Schedule 2 has effect.
+
+### Division 8—Alternative enforcement processes
+
+##### <a id="54B"></a>54B  Infringement notices
+
+             (1)  The regulations may make provision enabling a person who is alleged to have committed an offence against section 14 or Division 2 of Part VI to pay a penalty to the Commonwealth as an alternative to prosecution.
+
+             (2)  The penalty must not exceed one-fifth of the maximum fine that a court could impose on the person as a penalty for that offence.
+
+##### <a id="54C"></a>54C  Demerit points system
+
+             (1)  The regulations may establish a demerit points  system under which a licence granted under section 19 may be suspended or revoked if the licensee accrues a prescribed number of demerit points.
+
+             (2)  Demerit points may be accrued only if the licensee:
+
+                     (a)  is convicted or found guilty of an offence against section 14 or Division 2 of Part VI; or
+
+                     (b)  under a scheme established under regulations made under section 54B, pays a penalty to the Commonwealth as an alternative to prosecution.
+
+             (3)  Without limiting subsection (1), the scheme may provide that different provisions apply to different kinds of licensees or to different classes of licensees within a kind of licensee.
+
+## Part VII—Miscellaneous
+
+##### <a id="55"></a>55  Certain offences to be indictable offences
+
+             (1)  An offence against section 44, 45 or 51 committed with the use of a foreign boat or an offence against section 47, 49 or 50 is an indictable offence.
+
+             (2)  Notwithstanding that an offence referred to in subsection (1) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of such an offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
+
+             (3)  An offence against this Act, other than an offence referred to in subsection (1) or an offence against section 46A, 46B, 46C, 46D, 49A or 51A, is punishable summarily.
+
+Note:          Offences against the sections 46A, 46B, 46C, 46D, 49A and 51A are indictable offences because they are punishable by imprisonment for a period exceeding 12 months: see section 4G of the _Crimes Act 1914_.
+
+##### <a id="55A"></a>55A  Enforcement of orders for payment
+
+             (1)  Where:
+
+                     (a)  upon the conviction of a person for an offence against subsection 44(2) or (3) or 45(2) or (4), the court before which the person is convicted, in addition to imposing a penalty on the person, orders the person to pay an amount to the Commonwealth; and
+
+                     (b)  the court has civil jurisdiction to the extent of the amount;
+
+the order is enforceable in all respects as a final judgment of the court in favour of the Commonwealth.
+
+             (2)  Where:
+
+                     (a)  upon conviction of a person for an offence against subsection 44(2) or (3) or 45(2) or (4), the court before which the person is convicted, in addition to imposing a penalty on the person, orders the person to pay an amount to the Commonwealth; and
+
+                     (b)  the court:
+
+                              (i)  does not have civil jurisdiction; or
+
+                             (ii)  has civil jurisdiction, but:
+
+                                        (A)  does not have civil jurisdiction to the extent of the amount; or
+
+                                        (B)  it is more appropriate for the order to be enforceable as a final judgment of another court;
+
+the proper officer of the court shall issue a certificate in the prescribed form containing the prescribed particulars.
+
+             (3)  The certificate may, in the prescribed manner and subject to the prescribed conditions (if any), be registered in a court having civil jurisdiction to the extent of the amount ordered to be paid to the Commonwealth.
+
+             (4)  Upon registration under subsection (3), the certificate is enforceable in all respects as a final judgment of the court in favour of the Commonwealth.
+
+             (5)  The costs of registration of the certificate and other proceedings under this section shall, subject to the prescribed conditions (if any), be deemed to be payable under the certificate.
+
+##### <a id="56"></a>56  Certain prosecutions to require consent of Minister
+
+             (1)  This section applies to an offence against this Act (other than an offence against section 43):
+
+                     (a)  that is alleged to have been committed with the use of, or in relation to, a boat in respect of which a Papua   New Guinea licence is in force;
+
+                     (b)  that is alleged to have been committed by a person who is licensed under the laws of Papua New Guinea to engage in commercial fishing in areas of Papua New Guinea jurisdiction; or
+
+                     (c)  that is alleged to have been committed by a person who is a traditional inhabitant and a citizen of Papua   New Guinea and that, in the opinion of the Minister, was committed in the course of traditional fishing.
+
+             (2)  Proceedings for an offence to which this section applies shall not be heard or determined except with the consent in writing of:
+
+                     (a)  in a case to which paragraph (b) does not apply—the Minister; and
+
+                     (b)  in the case of an offence relating to a Protected Zone Joint Authority fishery—the Protected Zone Joint Authority.
+
+             (3)  A person shall not be charged with an offence to which this section applies later than 14 days after the act or omission alleged to constitute the offence occurred.
+
+             (4)  Notwithstanding that a decision under subsection (2) has not been made in relation to an offence to which this section applies:
+
+                     (a)  a person may be arrested for the offence, and a warrant for the arrest of a person for the offence may be issued and executed;
+
+                     (b)  a person may, subject to subsection (3), be charged with the offence; and
+
+                     (c)  a person so charged may be remanded in custody or on bail.
+
+             (5)  In determining whether or not to consent to the hearing or determination of proceedings for an offence to which this section applies, the Minister or the Protected Zone Joint Authority, as the case requires, shall have regard to the provisions of Article 28 of the Torres Strait Treaty.
+
+             (6)  In this section, **_Protected Zone Joint Authority fishery_** has the same meaning as in Part V.
+
+##### <a id="56A"></a>56A  Taking etc. of fish not an offence in certain circumstances
+
+                   Where:
+
+                     (a)  but for this section, a person would, by reason of the taking, capturing or catching of fish (whether or not by reason also of any other act or any failure to act), be guilty of an offence against this Act; and
+
+                     (b)  the fish was or were returned to the water as soon as was reasonably practicable after being taken, captured or caught;
+
+the person is not guilty of the offence.
+
+##### <a id="57"></a>57  Evidence
+
+             (1)  Where, in proceedings for an offence against this Act or the regulations:
+
+                     (a)  an officer gives evidence that he or she suspects that:
+
+                              (i)  fish to which the charge relates were taken in a particular part of the Protected Zone or in an area in respect of which a Proclamation is in force under subsection 15(1) or (2);
+
+                             (ii)  fish to which the charge relates were taken for private purposes; or
+
+                            (iii)  fish to which the charge relates were taken in the course of traditional fishing, community fishing or commercial fishing (other than community fishing);
+
+                            together with evidence of the grounds on which he or she so suspects; and
+
+                     (b)  the court considers that, having regard to that evidence, the suspicion is reasonable;
+
+the fish shall, in the absence of evidence to the contrary, be deemed to have been taken in that area, for those purposes or in the course of traditional fishing, community fishing or commercial fishing (other than community fishing), as the case may be.
+
+             (2)  The Minister or a person authorised in writing by him or her to give certificates under this section may give a certificate, for the purposes of proceedings for an offence against this Act or the regulations stating:
+
+                     (a)  that, at a time or during a period specified in the certificate, a boat identified in the certificate was, or was not, an Australian boat, a Papua New Guinea boat or a foreign boat; or
+
+                     (b)  that, at a time or during a period specified in the certificate, a person specified in the certificate was, or was not, the holder of a licence in force under subsection 19(1); or
+
+                     (c)  that, at a time or during a period specified in the certificate, there was, or was not, in force in respect of a boat identified in the certificate, a licence under section 19 or a Treaty endorsement; or
+
+                    (ca)  that, at a time or during a period specified in the certificate, a person specified in the certificate was, or was not, the holder of a licence in force under subsection 19(4A) or (4B) that authorised activities specified in the certificate; or
+
+                     (d)  that, at a time or during a period specified in the certificate, there was in force in respect of a boat identified in the certificate a licence under section 19 or a Treaty endorsement, being a licence or endorsement, as the case may be, specified in the certificate to be one:
+
+                              (i)  that authorised or that did not authorise the use of the boat for activities specified in the certificate in an area specified in the certificate; or
+
+                             (ii)  in respect of which an entry under section 21 was or was not in force that authorised or that did not authorise the use of the boat for activities specified in the certificate; or
+
+                     (e)  that, at a time or during a period specified in the certificate, a person specified in the certificate was a person in relation to whom an authorisation under subsection 3(4) was in force; or
+
+                      (f)  that, at a time or during a period specified in the certificate, a person specified in the certificate was or was not the holder of a permit under section 12 authorising the person to engage in activities specified in the certificate; or
+
+                     (g)  that, at a time or during a period specified in the certificate, an area of waters specified in the certificate:
+
+                              (i)  was a part of the territorial sea of Australia that was, at the time or during the period, in an area of Australian jurisdiction; and
+
+                             (ii)  was not part of the Protected Zone coastal waters of Queensland.
+
+Note:          For what are Protected Zone coastal waters of Queensland, see
+ section 4.
+
+             (3)  Without limiting the operation of subsection (2), the Minister or a person authorised in writing by him or her to give certificates under this section may give a certificate certifying as to any matter relating to the making of decisions by the Protected Zone Joint Authority established under Part V relating to instruments executed by the Protected Zone Joint Authority.
+
+             (4)  A person giving a certificate under subsection (2) in relation to a licence under section 19 or in relation to a Treaty endorsement may, in the certificate, certify that conditions specified in the certificate were the conditions to which the licence or endorsement, as the case may be, was, at a time or during a period specified in the certificate, subject.
+
+             (5)  In proceedings for an offence against this Act or the regulations, a certificate given under subsection (2) is _prima facie_ evidence of the matters specified in the certificate.
+
+             (6)  In proceedings for an offence against this Act or the regulations, a document purporting to be a certificate given under this section shall, unless the contrary is proved, be deemed to be such a certificate and to have been duly given.
+
+##### <a id="58"></a>58  Evidence in proceedings for an offence against section 54
+
+             (1)  In proceedings for an offence against section 54, evidence of any statute, code, regulation, proclamation or other written law of Papua New Guinea may be given by the production of:
+
+                     (a)  a book or pamphlet purporting to be published by the authority of the government of Papua New Guinea containing the statute, code, regulation, proclamation or other written law, as the case may be; or
+
+                     (b)  a photographic reproduction of such a book or pamphlet.
+
+             (2)  In proceedings for an offence against section 54, evidence of the unwritten or common law of Papua New Guinea may be given by the production of a book of reports of cases adjudged in the courts of Papua New Guinea or of a photographic reproduction of such a book or reports of cases purporting, or proved to the satisfaction of the court, to be authorised reports.
+
+             (3)  In proceedings for an offence against section 54, evidence of:
+
+                     (a)  a judgment, decree, rule, conviction, acquittal, sentence or other order, process, act or decision of any court of Papua New Guinea; or
+
+                     (b)  an affidavit, indictment or other legal document filed, deposited or presented in such a court;
+
+may be given by the production of a document purporting to be a copy thereof and purporting:
+
+                     (c)  to be sealed with the seal of that court; or
+
+                     (d)  to be signed by a judge of that court with a statement in writing attached by the judge to his or her signature that that court has no seal.
+
+             (4)  In proceedings for an offence against section 54, an averment of the prosecutor, contained in the information or complaint, that:
+
+                     (a)  the conduct alleged to constitute the offence took place in an area of waters specified in the averment;
+
+                     (b)  at a time or during a period specified in the averment, a person specified in the averment was, or was not, the holder of a licence granted under this Act in respect of a boat, being a licence in respect of which an endorsement granted under the law of Papua New Guinea pursuant to Article 26 of the Torres Strait Treaty was in force; or
+
+                     (c)  at a time or during a period specified in the averment, conditions specified in the averment were the conditions to which an endorsement of a kind referred to in paragraph (b) was subject under the law of Papua New Guinea;
+
+is _prima facie_ evidence of the matter averred.
+
+             (5)  Subject to subsection (6), a court may, at any time in proceedings for an offence against section 54, order that facts:
+
+                     (a)  that are within the knowledge of a person who is a resident of Papua New Guinea; and
+
+                     (b)  direct oral evidence of which would be admissible in the proceedings;
+
+may be proved by affidavit, including an affidavit sworn before a person authorised under the law of Papua New Guinea to administer affidavits.
+
+             (6)  A court shall not, in proceedings for an offence against section 54, make an order under subsection (5) if a party to the proceedings desires in good faith that the maker of an affidavit that is proposed to be used in the proceedings be cross-examined with respect to the matters contained in the affidavit.
+
+##### <a id="59"></a>59  Service of notices
+
+                   A notice that is required by this Act to be given to a person may be given to the person:
+
+                     (a)  in the case of a natural person—by delivering it to the person personally, or by leaving it at, or by sending it by post to, the last known address of the place of residence or business of the person; and
+
+                     (b)  in the case of a body corporate—by leaving it at, or by sending it by post to, the registered office of the body corporate.
+
+##### <a id="60"></a>60  Regulations
+
+             (1)  The Governor-General may make regulations, not inconsistent with this Act:
+
+                     (a)  prescribing matters required or permitted by this Act to be prescribed; or
+
+                     (b)  prescribing matters necessary or convenient to be prescribed for carrying out or giving effect to this Act;
+
+and in particular:
+
+                     (c)  prescribing penalties, not exceeding 20 penalty units in the case of a natural person and 100 penalty units in the case of a body corporate, for offences against the regulations; and
+
+                    (ca)  providing for the remission or refund of levy under the _Fisheries Levy Act 1984_, or fees under this Act, in specified circumstances; and
+
+                     (d)  prescribing conditions or classes of conditions to which licences or Treaty endorsements may be subject; and
+
+                    (da)  providing for the replacement of licences and other instruments granted or executed under this Act or the regulations and prescribing fees for such replacement; and
+
+                     (e)  prescribing signals and rules of navigation to be observed by fishermen in areas of Australian jurisdiction; and
+
+                      (f)  for providing for the marking of boats licensed under this Act and of nets, traps, containers and other equipment used for taking or storing fish; and
+
+                     (g)  for regulating the rights of priority as between fishermen or boats in areas of Australian jurisdiction and prescribing the rules of fishing in those areas; and
+
+                     (h)  prescribing rules to be observed in trans-shipping fish in areas of Australian jurisdiction; and
+
+                      (j)  for facilitating the exercise by officers of their powers under section 42; and
+
+                     (k)  for providing for the reporting of the positions of foreign boats licensed under this Act at times when those boats are in areas of Australian jurisdiction; and
+
+                    (m)  for requiring the master of a boat that is being used for commercial fishing in an area of Australian jurisdiction to permit a prescribed person or a person included in a prescribed class of persons to go on board the boat and for requiring the master to provide accommodation and facilities for that person while the person remains on board the boat; and
+
+                     (n)  for providing for the furnishing of returns containing information in relation to:
+
+                              (i)  the taking of fish in areas of Australian jurisdiction and the sale or disposal of those fish;
+
+                             (ii)  the processing of fish taken in areas of Australian jurisdiction and the sale or disposal of fish so processed;
+
+                           (iia)  the carrying and transhipping of fish taken in areas of Australian jurisdiction;
+
+                            (iii)  the taking of fish with the use of Australian boats in areas of Papua New Guinea jurisdiction and the sale or disposal of those fish;
+
+                            (iv)  the processing of fish taken with the use of Australian boats in areas of Papua New Guinea jurisdiction and the sale or disposal of fish so processed; or
+
+                             (v)  the carrying and transhipping of fish taken with the use of Australian boats in areas of Papua New Guinea jurisdiction; and
+
+                     (o)  prescribing short methods of reference to areas of Australian jurisdiction specified in the regulations or to classes of activities by way of fishing specified in the regulations and the purposes for which those methods of reference may be used; and
+
+                     (p)  for providing for the furnishing of information relating to the persons on board a boat licensed under this Act that is in the Protected Zone; and
+
+                     (q)  providing (in addition to the collection of information in the exercise or performance of other powers and functions under this Act) for the collection, by a person exercising powers or performing functions under this Act, of information relating to:
+
+                              (i)  possible breaches of the laws of Australia or of a foreign country; or
+
+                             (ii)  the control and protection of Australia’s borders; or
+
+                            (iii)  the administration and management of fisheries or marine environments; or
+
+                            (iv)  research or monitoring conducted, or proposed to be conducted, into fisheries or marine environments; and
+
+                      (r)  providing for the disclosure, by a person exercising powers or performing functions under this Act, of information, including personal information, relating to:
+
+                              (i)  possible breaches of the laws of Australia or of a foreign country; or
+
+                             (ii)  the control and protection of Australia’s borders; or
+
+                            (iii)  the administration and management of fisheries or marine environments; or
+
+                            (iv)  research or monitoring conducted, or proposed to be conducted, into fisheries or marine environments.
+
+             (2)  The Minister shall cause to be compiled from the returns furnished under regulations made under subsection (1) and from any other source, statistics in relation to matters referred to in paragraph (1)(n) and shall publish or make available, in such manner as he or she thinks fit, so many of those statistics as he or she thinks fit.
+
+             (3)  Subject to subsection (4), information derived from returns furnished under regulations made under paragraph (1)(n) is not to be used for purposes other than statistical purposes and purposes set out in subparagraphs (1)(q)(i) to (iv).
+
+             (4)  A person is not excused from furnishing a return required by regulations made under this section, or including information in such a return, on the ground that the return or information might tend to incriminate him or her, but his or her return is not admissible in evidence against him or her in any proceedings, other than proceedings in respect of false information contained in the return or in respect of a refusal or failure to include information in the return.
+
+ 
+
+# Schedule 1—Torres Strait Treaty
+
+_Section 3_
+
+AUSTRALIA and PAPUA NEW GUINEA,
+
+DESIRING to set down their agreed position as to their respective sovereignty over certain islands, to establish maritime boundaries and to provide for certain other related matters, in the area between the two countries including the area known as Torres Strait; 
+
+RECOGNISING the importance of protecting the traditional way of life and livelihood of Australians who are Torres Strait Islanders and of Papua New Guineans who live in the coastal area of Papua New Guinea in and adjacent to the Torres Strait; 
+
+RECOGNISING ALSO the importance of protecting the marine environment and ensuring freedom of navigation and overflight for each other’s vessels and aircraft in the Torres  Strait area; 
+
+DESIRING ALSO to cooperate with one another in that area in the conservation, management and sharing of fisheries resources and in regulating the exploration and exploitation of seabed mineral resources; 
+
+AS good neighbours and in a spirit of cooperation, friendship and goodwill; 
+
+HAVE AGREED as follows:
+
+<u>PART 1</u>
+
+<u>DEFINITIONS</u>
+
+<u>ARTICLE 1</u>
+
+<u>Definitions</u>
+
+     1.    In this Treaty—
+
+     (a)     “adjacent coastal area” means, in relation to Australia, the coastal area of the Australian mainland, and the Australian islands, near the Protected Zone; and, in relation to Papua New Guinea, the coastal area of the Papua New Guinea mainland, and the Papua New Guinea islands, near the Protected Zone; 
+
+     (b)     “fisheries jurisdiction” means sovereign rights for the purpose of exploring and exploiting, conserving and managing fisheries resources other than sedentary species; 
+
+     (c)     “fisheries resources” means all living natural resources of the sea and seabed, including all swimming and sedentary species; 
+
+     (d)     “free movement” means movement by the traditional inhabitants for or in the course of traditional activities; 
+
+     (e)     “indigenous fauna and flora” includes migratory fauna; 
+
+      (f)     “mile” means an international nautical mile being 1,852 metres in length; 
+
+     (g)     “Protected Zone” means the zone established under Article 10;
+
+     (h)     “Protected Zone commercial fisheries” means the fisheries resources of present or potential commercial significance within the Protected Zone and, where a stock of such resources belongs substantially to the Protected Zone but extends into an area outside but near it, the part of that stock found in that area within such limits as are agreed from time to time by the responsible authorities of the Parties; 
+
+      (i)     “seabed jurisdiction” means sovereign rights over the continental shelf in accordance with international law, and includes jurisdiction over low-tide elevations, and the right to exercise such jurisdiction in respect of those elevations, in accordance with international law; 
+
+      (j)     “sedentary species” means living organisms which, at the harvestable stage, either are immobile on or under the seabed or are unable to move except in constant physical contact with the seabed or the subsoil; 
+
+     (k)     “traditional activities” means activities performed by the traditional inhabitants in accordance with local tradition, and includes, when so performed—
+
+                      (i)  activities on land, including gardening, collection of food and hunting;
+
+                      (ii)  activities on water, including traditional fishing;
+
+                     (iii)  religious and secular ceremonies or gatherings for social purposes, for example, marriage celebrations and settlement of disputes; and
+
+                     (iv)  barter and market trade.
+
+              In the application of this definition, except in relation to activities of a commercial nature, “traditional” shall be interpreted liberally and in the light of prevailing custom;
+
+      (l)     “traditional fishing” means the taking, by traditional inhabitants for their own or their dependants’ consumption or for use in the course of other traditional activities, of the living natural resources of the sea, seabed, estuaries and coastal tidal areas, including dugong and turtle;
+
+    (m)     “traditional inhabitants” means, in relation to Australia, persons who—
+
+                      (i)   are Torres Strait Islanders who live in the Protected Zone or the adjacent coastal area of Australia, 
+
+                     (ii)   are citizens of Australia, and 
+
+                    (iii)   maintain traditional customary associations with areas or features in or in the vicinity of the Protected Zone in relation to their subsistence or livelihood or social, cultural or religious activities; and
+
+              in relation to Papua New Guinea, persons who— 
+
+                      (i)   live in the Protected Zone or the adjacent coastal area of Papua New Guinea, 
+
+                     (ii)   are citizens of Papua New Guinea, and 
+
+                    (iii)  maintain traditional customary associations with areas or features in or in the vicinity of the Protected Zone in relation to their subsistence or livelihood or social, cultural or religious activities.
+
+     2.    Where for the purposes of this Treaty it is necessary to determine the position on the surface of the Earth of a point, line or area, that position shall be determined by reference to the Australian Geodetic Datum, that is to say, by reference to a spheroid having its centre at the centre of the Earth and a major (equatorial) radius of 6,378,160 metres and a flattening of    ![](http://www.comlaw.gov.au/Details/C2008C00170/Html/TorresStraitFish1984_WD02_image002.gif)    and by reference to the position of the Johnston Geodetic Station in the Northern Territory of Australia. That station shall be taken to be situated at Latitude 25° 56¢ 54.5515² South and at Longitude 133° 12¢ 30.0771² East and to have a ground level of 571.2 metres above the spheroid referred to above.
+
+     3.    In this Treaty, the expression “in and in the vicinity of the Protected Zone” describes an area the outer limits of which might vary according to the context in which the expression is used. 
+
+<u>PART 2</u>
+
+<u>SOVEREIGNTY AND JURISDICTION</u>
+
+<u>ARTICLE 2</u>
+
+<u>Sovereignty</u><u> </u><u>Over</u><u> </u><u>Islands</u>
+
+     1.    Papua   New Guinea recognises the sovereignty of Australia over—
+
+     (a)     the islands known as Anchor Cay, Aubusi Island, Black Rocks, Boigu Island, Bramble Cay, Dauan Island, Deliverance Island, East Cay, Kaumag Island, Kerr Islet, Moimi Island, Pearce Cay, Saibai Island, Turnagain Island and Turu Cay; and 
+
+     (b)     all islands that lie between the mainlands of the two countries and south of the line referred to in paragraph 1 of Article 4 of this Treaty. 
+
+     2.    No island over which Australia has sovereignty, other than those specified in sub-paragraph 1 (a) of this Article, lies north of the line referred to in paragraph 1 of Article 4 of this Treaty. 
+
+     3.    Australia recognises the sovereignty of Papua   New Guinea over— 
+
+     (a)     the islands known as Kawa Island, Mata Kawa Island and Kussa  Island; and 
+
+     (b)     all the other islands that lie between the mainlands of the two countries and north of the line referred to in paragraph 1 of Article 4 of this Treaty, other than the islands specified in sub-paragraph 1 (a) of this Article. 
+
+     4.    In this Treaty, sovereignty over an island shall include sovereignty over—
+
+     (a)     its territorial sea; 
+
+     (b)     the airspace above the island and its territorial sea; 
+
+     (c)     the seabed beneath its territorial sea and the subsoil thereof; and 
+
+     (d)     any island, rock or low-tide elevation that may lie within its territorial sea.
+
+<u>ARTICLE 3</u>
+
+<u>Territorial</u><u> </u><u>Seas</u>
+
+     1.    The territorial sea boundaries between the islands of Aubusi, Boigu and Moimi and Papua New Guinea and the islands of Dauan, Kaumag and Saibai and Papua New Guinea shall be the lines described in Annex 1 to this Treaty, which are shown on the map annexed to this Treaty as Annex 2, together with such other portion of the outer limit of the territorial sea of Saibai described in Annex 3 to this Treaty that may abut the territorial sea of Papua New Guinea. 
+
+     2.    The territorial seas of the islands specified in sub-paragraph 1 (a) of Article 2 of this Treaty shall not extend beyond three miles from the baselines from which the breadth of the territorial sea around each island is measured. Those territorial seas shall not be enlarged or reduced, even if there were to be any change in the configuration of a coastline or a different result from any further survey. 
+
+     3.    The provisions of paragraph 2 of this Article shall not apply to that part of the territorial sea of Pearce Cay which lies south of the line referred to in paragraph 1 of Article 4 of this Treaty. 
+
+     4.    The outer limits of the territorial seas of the islands specified in sub-paragraph 1 (a) of Article 2 of this Treaty, except in respect of that part of the territorial sea of Pearce Cay which lies south of the line referred to in paragraph 1 of Article 4 of this Treaty, shall be as described in Annex 3 to this Treaty. The limits so described are shown on the maps annexed to this Treaty as Annexes 2 and 4\. 
+
+     5.    Australia shall not extend its territorial sea northwards across the line referred to in paragraph 1 of Article 4 of this Treaty.
+
+     6.    Papua   New Guinea shall not—
+
+     (a)     extend its territorial sea off its southern coastline between the meridians of Longitude 142° 03¢ 30² East and of Longitude 142° 51¢ 00² East, beyond three miles from the baselines from which the breadth of the territorial sea is measured;
+
+     (b)     extend its territorial sea or archipelagic waters into the area bounded by that portion of the line referred to in paragraph 2 of Article 4 of this Treaty running from the point of Latitude 9° 45¢ 24² South, Longitude 142° 03¢ 30² East to the point of Latitude 9° 40¢ 30² South, Longitude 142° 51¢ 00² East and that portion of the line referred to in paragraph 1 of Article 4 of this Treaty which runs between those two points; 
+
+     (c)     establish an archipelagic baseline running in or through the area referred to in sub-paragraph (b) of this paragraph; or 
+
+     (d)     extend its territorial sea southwards across the line referred to in paragraph 1 of Article 4 of this Treaty. 
+
+<u>ARTICLE 4</u>
+
+<u>Maritime Jurisdiction</u>
+
+     1.    Subject to the provisions of Article 2 of this Treaty, the boundary between the area of seabed and subsoil that is adjacent to and appertains to Australia and the area of seabed and subsoil that is adjacent to and appertains to Papua New Guinea, and over which Australia and Papua New Guinea respectively shall have seabed jurisdiction, shall be the line described in Annex 5 to this Treaty. The line so described is shown on the map annexed to this Treaty as Annex 6 and, in part, on the map annexed to this Treaty as Annex 7\. 
+
+     2.    Subject to the provisions of Article 2 of this Treaty, the boundary between the area of sea that is adjacent to and appertains to Australia and the area of sea that is adjacent to and appertains to Papua New Guinea, and in which Australia and Papua New Guinea respectively shall have fisheries jurisdiction, shall be the line described in Annex 8 to this Treaty. The line so described is shown on the map annexed to this Treaty as Annex 6 and, in part, on the maps annexed to this Treaty as Annexes 2 and 7\. 
+
+     3.    In relation to the area bounded by the portion of the line referred to in paragraph 2 of this Article running from the point of Latitude 9° 45¢ 24² South, Longitude 142° 03¢ 30² East to the point of Latitude 9° 40¢ 30² South, Longitude 142° 51¢ 00² East and that portion of the line referred to in paragraph 1 of this Article which runs between those two points, exclusive of the territorial seas of the islands of Aubusi, Boigu, Dauan, Kaumag, Moimi, Saibai and Turnagain—
+
+     (a)     neither party shall exercise residual jurisdiction without the concurrence of the other Party; and
+
+     (b)     the Parties shall consult with a view to reaching agreement on the most effective method of application of measures involving the exercise of residual jurisdiction.
+
+     4.    In paragraph 3 of this Article, “residual jurisdiction” means—
+
+     (a)     jurisdiction over the area other than seabed jurisdiction or fisheries jurisdiction, including jurisdiction other than seabed jurisdiction or fisheries jurisdiction insofar as it relates to inter alia:
+
+                      (i)   the preservation of the marine environment; 
+
+                     (ii)   marine scientific research; and 
+
+                    (iii)   the production of energy from the water, currents and winds; and 
+
+     (b)     seabed and fisheries jurisdiction to the extent that the exercise of such jurisdiction is not directly related to the exploration or exploitation of resources or to the prohibition of, or refusal to authorise, activities subject to that jurisdiction. 
+
+<u>PART 3</u>
+
+<u>SOVEREIGNTY AND JURISDICTION—RELATED MATTERS</u>
+
+<u>ARTICLE 5</u>
+
+<u>Existing Petroleum Permit</u>
+
+     1.    Where prior to 16 September 1975 Australia has granted an exploration permit for petroleum under Australian law in respect of a part of the seabed over which it ceases by virtue of this Treaty to exercise sovereign rights, and a permittee retains rights in respect of that permit immediately prior to the entry into force of this Treaty, Papua New Guinea, upon application by that permittee, shall offer to that permittee a petroleum prospecting licence or licences under Papua New Guinea law in respect of the same part of the seabed on terms that are not less favourable than those provided under Papua New Guinea law to any other holder of a seabed petroleum prospecting licence.
+
+     2.    An application for a licence under paragraph 1 of this Article shall be made—
+
+     (a)     in respect of a part of the seabed lying outside the Protected Zone, within six months after the date of entry into force of this Treaty; 
+
+     (b)     in respect of a part of the seabed lying within the Protected Zone, during the period referred to in Article 15 and any extension of that period to which the Parties may agree.
+
+<u>ARTICLE 6</u>
+
+<u>Exploitation of Certain Seabed Deposits</u>
+
+     If any single accumulation of liquid hydrocarbons or natural gas, or if any other mineral deposit beneath the seabed, extends across any line defining the limits of seabed jurisdiction of the Parties, and if the part of such accumulation or deposit that is situated on one side of such a line is recoverable in fluid form wholly or in part from the other side, the Parties shall consult with a view to reaching agreement on the manner in which the accumulation or deposit may be most effectively exploited and on the equitable sharing of the benefits from such exploitation.
+
+<u>ARTICLE 7</u>
+
+<u>Freedoms of Navigation and Overflight</u>
+
+     1.    On and over the waters of the Protected Zone that lie—
+
+     (a)     north of the line referred to in paragraph 1 of Article 4 of this Treaty and seaward of the low water lines of the land territory of either Party, and 
+
+     (b)     south of that line and beyond the outer limits of the territorial sea;
+
+each Party shall accord to the vessels and aircraft of the other Party, subject to paragraphs 2 and 3 of this Article, the freedoms of navigation and overflight associated with the operation of vessels and aircraft on or over the high seas. 
+
+     2.    Each Party shall take all necessary measures to ensure that, in the exercise of the freedoms of navigation and overflight accorded to its vessels and aircraft under paragraph 1 of this Article— 
+
+     (a)     those vessels observe generally accepted international regulations, procedures and practices for safety at sea and for the prevention, reduction and control of pollution from ships; 
+
+     (b)     those civil aircraft observe the Rules of the Air established by the International Civil Aviation Organization as they apply to civil aircraft, and State aircraft normally comply with such of those rules as relate to safety and at all times operate with due regard for the safety of navigation; 
+
+     (c)     those vessels and aircraft north of the line referred to in paragraph 1 of Article 4 of this Treaty do not engage in the embarking or disembarking of any commodity, currency or person contrary to the customs, fiscal, immigration or sanitary laws and regulations of the other Party, provided that the relevant laws and regulations of that Party do not have the practical effect of denying, hampering or impairing the freedoms of navigation and overflight accorded under paragraph 1 of this Article; and 
+
+     (d)     those vessels and aircraft, north of the line referred to in paragraph 1 of Article 4 of this Treaty, do not act in a manner prejudicial to the peace, good order or security of the other Party. 
+
+     3.    Vessels of a Party engaged in the exploration or exploitation of resources in an area of jurisdiction of the other Party shall remain subject to the laws and regulations of the other Party made in the exercise of its resources jurisdiction consistently with this Treaty and with international law, including the provisions of those laws and regulations concerning the boarding, inspection and apprehension of vessels. 
+
+     4.    In those areas of the Protected Zone north of the line referred to in paragraph 1 of Article 4 of this Treaty to which paragraph 1 of this Article does not apply, civil aircraft of a Party engaged in scheduled or non-scheduled air services shall have the right of overflight, and the right to make stops for non-traffic purposes, without the need to obtain prior permission from the other Party, subject to compliance with any applicable laws or regulations made for the safety of air navigation. 
+
+     5.    In areas of the Protected Zone to which paragraph 1 of this Article does not apply, the vessels of a Party shall enjoy the right of innocent passage. There shall be no suspension of that right, and neither Party shall adopt laws or regulations applying to those areas that might impede or hamper the normal passage of vessels between two points both of which are in the territory of one Party. 
+
+     6.    In cases where the provisions of neither paragraph 1 nor paragraph 5 of this Article apply, a regime of passage over routes used for international navigation in the area between the two countries, including the area known as Torres Strait, shall apply in respect of vessels that is no more restrictive of passage than the regime of transit passage through straits used for international navigation described in Articles 34 to 44 inclusive of Document A/Conf. 62/WP.10 of the Third United Nations Conference on the Law of the Sea, provided that, before a Party adopts a law or regulation that might impede or hamper the passage over those routes of vessels proceeding to or from the territory of the other Party, it shall consult with the other Party. If the provisions of those Articles are revised, are not included in any Law of the Sea Convention or fail to become generally accepted principles of international law, the Parties shall consult with a view to agreeing upon another regime of passage that is in accordance with international practice to replace the regime of passage applying under this paragraph. 
+
+     7.    The rights of navigation and overflight provided for in this Article are in addition to, and not in derogation of, rights of navigation and overflight in the area concerned under other treaties or general principles of international law. 
+
+<u>ARTICLE 8</u>
+
+<u>Navigational Aids</u>
+
+     With a view to maintaining and improving the safety of navigation through the waters in the area between the two countries, the Parties shall co-operate and, with due regard to the technical and other means available to each of them, shall, where appropriate and as may be agreed between them, provide mutual assistance in the provision and maintenance of navigational aids and in the preparation of charts and maps.
+
+<u>ARTICLE 9</u>
+
+<u>Wrecks</u>
+
+     1.    Wrecks of vessels and aircraft which lie on, in or under the seabed in an area of seabed jurisdiction of a Party shall be subject to the jurisdiction of that Party. 
+
+     2.    If a wreck of historical or special significance to a Party is located or found in an area between the two countries under the jurisdiction of the other Party, the Parties shall consult with a view to reaching agreement on the action, if any, to be taken with respect to that wreck. 
+
+     3.    The provisions of this Article shall be without prejudice to the competence of the courts of a Party, for the purposes of the laws of that Party, in relation to maritime causes of action in respect of wrecks coming within the provisions of this Article. 
+
+     4.    This Article shall not apply to any military vessel or aircraft of either Party wrecked after the date of entry into force of this Treaty. 
+
+<u>PART 4</u>
+
+<u>THE PROTECTED ZONE</u>
+
+<u>ARTICLE 10</u>
+
+<u>Establishment and Purposes of the Protected Zone</u>
+
+     1.    A Protected Zone in the Torres Strait is hereby established comprising all the land, sea, airspace, seabed and subsoil within the area bounded by the line described in Annex 9 to this Treaty. The line so described is shown on the maps annexed to this Treaty as Annexes 6 and 7 and, in part, on the map annexed to this Treaty as Annex 2.
+
+     2.    The Parties shall adopt and apply measures in relation to the Protected Zone in accordance with the provisions of this Treaty.
+
+     3.    The principal purpose of the Parties in establishing the Protected Zone, and in determining its northern, southern, eastern and western boundaries, is to acknowledge and protect the traditional way of life and livelihood of the traditional inhabitants including their traditional fishing and free movement.
+
+     4.    A further purpose of the Parties in establishing the Protected Zone is to protect and preserve the marine environment and indigenous fauna and flora in and in the vicinity of the Protected Zone.
+
+<u>ARTICLE 11</u>
+
+<u>Free Movement and Traditional Activities Including Traditional Fishing</u>
+
+     1.    Subject to the other provisions of this Treaty, each Party shall continue to permit free movement and the performance of lawful traditional activities in and in the vicinity of the Protected Zone by the traditional inhabitants of the other Party. 
+
+     2.    Paragraph 1 of this Article shall not be interpreted as sanctioning the expansion of traditional fishing by the traditional inhabitants of one Party into areas outside the Protected Zone under the jurisdiction of the other Party not traditionally fished by them prior to the date of entry into force of this Treaty. 
+
+     3.    The provisions of this Article and the other provisions of this Treaty concerning traditional fishing are subject to Article 14 and paragraph 2 of Article 20 of this Treaty. 
+
+<u>ARTICLE 12</u>
+
+<u>Traditional Customary Rights</u>
+
+     Where the traditional inhabitants of one Party enjoy traditional customary rights of access to and usage of areas of land, seabed, seas, estuaries and coastal tidal areas that are in or in the vicinity of the Protected Zone and that are under the jurisdiction of the other Party, and those rights are acknowledged by the traditional inhabitants living in or in proximity to those areas to be in accordance with local tradition, the other Party shall permit the continued exercise of those rights on conditions not less favourable than those applying to like rights of its own traditional inhabitants. 
+
+<u>ARTICLE 13</u>
+
+<u>Protection of the Marine Environment </u>
+
+     1.    Each Party shall take legislative and other measures necessary to protect and preserve the marine environment in and in the vicinity of the Protected Zone. In formulating those measures each Party shall take into account internationally agreed rules, standards and recommended practices which have been adopted by diplomatic conferences or by relevant international organisations. 
+
+     2.    The measures that each Party shall take in accordance with paragraph 1 of this Article shall include measures for the prevention and control of pollution or other damage to the marine environment from all sources and activities under its jurisdiction or control and shall include, in particular, measures to minimise to the fullest practicable extent— 
+
+     (a)     the release of toxic, harmful or noxious substances from land-based sources, from rivers, from or through the atmosphere, or by dumping at sea; 
+
+     (b)     pollution or other damage from vessels; and 
+
+     (c)     pollution or other damage from installations and devices used in the exploration and exploitation of the natural resources of the seabed and subsoil thereof. 
+
+     3.    The measures taken by each Party in accordance with paragraph 1 of this Article shall be consistent with its obligations under international law, including obligations not to prejudice the rights of foreign ships and aircraft, and shall be subject to the provisions of Article 7 of this Treaty. 
+
+     4.    The Parties shall consult, at the request of either, for the purpose of— 
+
+     (a)     harmonising their policies with respect to the measures that each shall take pursuant to this Article; and 
+
+     (b)     ensuring the effective and coordinated implementation of those measures. 
+
+     5.    If either Party has reasonable grounds for believing that any planned activity under its jurisdiction or control may cause pollution or other damage to the marine environment in or in the vicinity of the Protected Zone, that Party shall, after due investigation, communicate to the other Party its assessment of the potential impact of that activity on the marine environment. 
+
+     6.    If either Party has reasonable grounds for believing that any existing or planned activity under the jurisdiction or control of the other Party is causing or may cause pollution or other damage to the marine environment in or in the vicinity of the Protected Zone, it may request consultations with the other Party, and the Parties shall then consult as soon as possible with a view to adopting measures to prevent or control any pollution or other damage to that environment from that activity. 
+
+<u>ARTICLE 14</u>
+
+<u>Protection of Fauna and Flora</u>
+
+     1.    Each Party shall, in and in the vicinity of the Protected Zone, use its best endeavours to—
+
+     (a)     identify and protect species of indigenous fauna and flora that are or may become threatened with extinction; 
+
+     (b)     prevent the introduction of species of fauna and flora that may be harmful to indigenous fauna and flora; and 
+
+     (c)     control noxious species of fauna and flora. 
+
+     2.    Notwithstanding any other provision of this Treaty except paragraph 4 of this Article, a Party may implement within its area of jurisdiction measures to protect species of indigenous fauna and flora which are or may become threatened with extinction or which either Party has an obligation to protect under international law. 
+
+     3.    The Parties shall as appropriate and necessary exchange information concerning species of indigenous fauna and flora that are or may become threatened with extinction and shall consult, at the request of either of them, for the purpose of— 
+
+     (a)     harmonising their policies with respect to the measures that each may take to give effect to paragraphs 1 and 2 of this Article; and 
+
+     (b)     ensuring the effective and coordinated implementation of those measures. 
+
+     4.    In giving effect to the provisions of this Article, each Party shall use its best endeavours to minimise any restrictive effects on the traditional activities of the traditional inhabitants. 
+
+<u>ARTICLE 15</u>
+
+<u>Prohibition of Mining and Drilling of the Seabed</u>
+
+     Neither Party shall undertake or permit within the Protected Zone mining or drilling of the seabed or the subsoil thereof for the purpose of exploration for or exploitation of liquid hydrocarbons, natural gas or other mineral resources during a period of ten years from the date of entry into force of this Treaty. The Parties may agree to extend that period. 
+
+<u>ARTICLE 16</u>
+
+<u>Immigration, Customs, Quarantine and Health</u>
+
+     1.    Except as otherwise provided in this Treaty, each Party shall apply immigration, customs, quarantine and health procedures in such a way as not to prevent or hinder free movement or the performance of traditional activities in and in the vicinity of the Protected Zone by the traditional inhabitants of the other Party.
+
+     2.    Each Party, in administering its laws and policies relating to the entry and departure of persons and the importation and exportation of goods into and from areas under its jurisdiction in and in the vicinity of the Protected Zone, shall act in a spirit of mutual friendship and good neighbourliness, bearing in mind relevant principles of international law and established international practices and the importance of discouraging the occurrence, under the guise of free movement or performance of traditional activities, of illegal entry, evasion of justice and practices prejudicial to effective immigration, customs, health and quarantine protection and control. 
+
+     3.    Notwithstanding the provisions of paragraph 1 of this Article—
+
+     (a)     traditional inhabitants of one Party who wish to enter the other country, except for temporary stay for the performance of traditional activities, shall be subject to the same immigration, customs, health and quarantine requirements and procedures as citizens of that Party who are not traditional inhabitants; 
+
+     (b)     each Party reserves its right to limit free movement to the extent necessary to control abuses involving illegal entry or evasion of justice; and 
+
+     (c)     each Party reserves its right to apply such immigration, customs, health and quarantine measures, temporary or otherwise, as it considers necessary to meet problems which may arise. In particular each Party may apply measures to limit or prevent free movement, or the carriage of goods, plants or animals in the course thereof, in the case of an outbreak or spread of an epidemic, epizootic or epiphytotic in or in the vicinity of the Protected Zone. 
+
+<u>ARTICLE 17</u>
+
+<u>Implementation and Coordination</u>
+
+     In order to facilitate the implementation of the provisions of this Treaty relating to the Protected Zone, the authorities of each Party shall, at the request of the authorities of the other Party, as may be appropriate and necessary— 
+
+     (a)     make available to the authorities of the other Party information on the relevant provisions of its laws, regulations and procedures relating to immigration, citizenship, customs, health, quarantine, fisheries, the protection of the environment and other matters; and 
+
+     (b)     consult with the authorities of the other Party with a view to making appropriate administrative or other arrangements to resolve any problems arising in the implementation of those provisions. 
+
+<u>ARTICLE 18</u>
+
+<u>Liaison Arrangements</u>
+
+     1.    Each Party shall designate a representative who shall facilitate the implementation at the local level of the provisions of this Treaty.
+
+     2.    The two designated representatives shall—
+
+     (a)     exchange information on relevant developments in and in the vicinity of the Protected Zone; 
+
+     (b)     consult together and take such action as is appropriate to their respective functions to facilitate the practical operation at the local level of the provisions of this Treaty and to resolve any problems arising therefrom; 
+
+     (c)     keep under review free movement by the traditional inhabitants of one Party into areas under the jurisdiction of the other Party and the local arrangements applying in respect of such free movement; and 
+
+     (d)     draw to the attention of their Governments, and make recommendations as appropriate on, any matters affecting the implementation of the provisions of this Treaty or arising therefrom which are not capable of resolution at the local level or which may otherwise require consideration by both Parties. 
+
+     3.    In the exercise of his functions, each representative shall— 
+
+     (a)     consult closely with representatives of the traditional inhabitants of his country, particularly in relation to any problems which may arise in respect of free movement, traditional activities and the exercise of traditional customary rights as provided for in this Treaty, and convey their views to his Government; and 
+
+     (b)     maintain close liaison with national, State, Provincial and local authorities of his country on all matters falling within their respective responsibilities. 
+
+     4.    Unless a different location is required by the circumstances, the representative of Australia shall be based at Thursday Island and the representative of Papua New Guinea shall be based at Daru. 
+
+<u>ARTICLE 19</u>
+
+<u>Torres Strait</u><u> Joint Advisory Council</u>
+
+     1.    The Parties shall jointly establish and maintain an advisory and consultative body which shall be known as the Torres Strait Joint Advisory Council (called in this Article “the Advisory Council”). 
+
+     2.    The functions of the Advisory Council shall be— 
+
+     (a)     to seek solutions to problems arising at the local level and not resolved pursuant to Article 18 of this Treaty; 
+
+     (b)     to consider and to make recommendations to the Parties on any developments or proposals which might affect the protection of the traditional way of life and livelihood of the traditional inhabitants, their free movement, performance of traditional activities and exercise of traditional customary rights as provided for in this Treaty; and 
+
+     (c)     to review from time to time as necessary, and to report and to make recommendations to the Parties on, any matters relevant to the effective implementation of this Treaty, including the provisions relating to the protection and preservation of the marine environment, and fauna and flora, in and in the vicinity of the Protected Zone. 
+
+     3.    The Advisory Council shall not have or assume responsibilities for management or administration. These responsibilities shall, within the respective areas of jurisdiction of each Party, continue to lie with the relevant national, State, Provincial and local authorities. 
+
+     4.    In the exercise of its functions, the Advisory Council shall ensure that the traditional inhabitants are consulted, that they are given full and timely opportunity to comment on matters of concern to them and that their views are conveyed to the Parties in any reports and recommendations made by the Advisory Council to the Parties. 
+
+     5.    The Advisory Council shall transmit its reports and recommendations to the Foreign Ministers of the Parties. After consideration by appropriate authorities of the Parties, consultations may be arranged with a view to the resolution of matters to which the Advisory Council has invited attention. 
+
+     6.    Unless otherwise agreed by the Parties, the Advisory Council shall consist of eighteen members, that is nine members from each Party who shall include— 
+
+     (a)     at least two national representatives; 
+
+     (b)     at least one member representing the Government of Queensland in the case of Australia and one representing the Fly River Provincial Government in the case of Papua New Guinea; and 
+
+     (c)     at least three members representing the traditional inhabitants,
+
+with each Party being free to decide from time to time from which of the aforementioned categories any other of its members will be drawn. 
+
+     7.    The Advisory Council shall meet when necessary at the request of either Party. Consecutive meetings of the Advisory Council shall be chaired alternately by a representative of Australia and a representative of Papua New Guinea. Meetings shall be held alternately in Australia and Papua New Guinea or as may from time to time be otherwise arranged. 
+
+<u>PART 5</u>
+
+<u>PROTECTED ZONE COMMERCIAL FISHERIES</u>
+
+<u>ARTICLE 20</u>
+
+<u>Priority of Traditional Fishing and Application of Measures to Traditional Fishing</u>
+
+     1.    The provisions of this Part shall be administered so as not to prejudice the achievement of the purposes of Part 4 of this Treaty in regard to traditional fishing. 
+
+     2.    A Party may adopt a conservation measure consistent with the provision of this Part which, if necessary for the conservation of a species, may be applied to traditional fishing, provided that that Party shall use its best endeavours to minimise any restrictive effects of that measure on traditional fishing. 
+
+<u>ARTICLE 21</u>
+
+<u>Conservation, Management and Optimum Utilisation</u>
+
+     The Parties shall co-operate in the conservation management and optimum utilisation of Protected Zone commercial fisheries. To this end, the Parties shall consult at the request of either and shall enter into arrangements for the effective implementation of the provisions of this Part. 
+
+<u>ARTICLE 22</u>
+
+<u>Conservation and Management of Individual Fisheries</u>
+
+     1.    The Parties shall, where appropriate, negotiate subsidiary conservation and management arrangements in respect of any individual Protected Zone commercial fishery. 
+
+     2.    If either Party notifies the other in writing that it regards one of the Protected Zone commercial fisheries as one to which common conservation and management arrangements should apply, the Parties shall within ninety days from the date of the notification enter into consultations with a view to concluding arrangements specifying the measures to be applied by them with respect to that fishery. 
+
+     3.    The Parties shall, where appropriate, also negotiate supplementary conservation and management arrangements in respect of resources directly related to a fishery referred to in paragraph 1 of this Article, including resources involving stocks occurring in the Protected Zone where such stocks are not otherwise subject to the provisions of this Treaty. 
+
+<u>ARTICLE 23</u>
+
+<u>Sharing of the Catch of the Protected Zone Commercial Fisheries</u>
+
+     1.    The Parties shall share the allowable catch of the Protected Zone commercial fisheries in accordance with the provisions of this Article and of Articles 24 and 25 of this Treaty. 
+
+     2.    The allowable catch, that is to say the optimum sustainable yield, of a Protected Zone commercial fishery shall be determined jointly by the Parties as part of the subsidiary conservation and management arrangements referred to in paragraph 1 of Article 22 of this Treaty. 
+
+     3.    If either Party has reasonable grounds for believing that the commercial exploitation of a species of Protected Zone commercial fisheries would, or has the potential to, cause serious damage to the marine environment, or might endanger another species, that Party may request consultations with the other Party and the Parties shall then consult as soon as possible with a view to reaching agreement on whether such commercial exploitation could be undertaken in a manner which would not result in such damage or endanger another species. 
+
+     4.    In respect of any relevant period where the full allowable catch of a particular Protected Zone commercial fishery might be taken, each Party shall be entitled to a share of the allowable catch apportioned, subject to paragraphs 5, 6 and 8 of this Article and to Articles 24 and 25 of this Treaty, as follows: 
+
+     (a)     in areas under Australian jurisdiction, except as provided in (b) below:
+
+                            Australia—75% 
+
+                            Papua   New Guinea—25% 
+
+     (b)     within the territorial seas of Anchor Cay, Black Rocks, Bramble Cay, Deliverance Island, East Cay, Kerr Islet, Pearce Cay and Turu Cay: 
+
+                            Australia—50% 
+
+                            Papua   New Guinea—50% 
+
+     (c)     in areas under Papua New Guinea jurisdiction: 
+
+                            Australia—25% 
+
+                            Papua   New Guinea—75% 
+
+     5.    Papua New Guinea shall have the sole entitlement to the allowable catch of the commercial barramundi fishery near the Papua New Guinea coast, except within the territorial seas of the islands of Aubusi, Boigu, Dauan, Kaumag, Moimi and Saibai where, in respect of that fishery, the provisions of paragraph 4 (a) of this Article shall not apply. 
+
+     6.    In apportioning the allowable catch in relation to an individual fishery, the Parties shall normally consider the allowable catch expressed in terms of weight or volume. In calculating the apportionment of the total allowable catch of the Protected Zone commercial fisheries, the Parties shall have regard to the relative value of individual fisheries and shall, for this purpose, agree on a common value for production from each individual fishery for the period in question, such value being based on the value of the raw product at the processing facility or such other point as may be agreed, but prior to any enhancement of value through processing, including processing at a pearl culture farm, or further transportation or marketing. 
+
+     7.    The Parties may agree to vary the apportionment of the allowable catch determined for individual fisheries as part of the subsidiary conservation and management arrangements referred to in paragraph 1 of Article 22 of this Treaty but so as to maintain in respect of the total allowable catch of the Protected Zone commercial fisheries the apportionment specified in paragraph 4 of this Article for each Party. 
+
+     8.    In calculating the total allowable catch of the Protected Zone commercial fisheries, the allowable catch of the commercial barramundi fishery referred to in paragraph 5 of this Article shall be disregarded. 
+
+<u>ARTICLE 24</u>
+
+<u>Transitional Entitlement</u>
+
+     1.    As part of the subsidiary conservation and management arrangements referred to in paragraph 1 of Article 22 of this Treaty, the level of the catch of each Protected Zone commercial fishery to which each Party is entitled, provided it remains within the allowable catch— 
+
+     (a)     shall not, during the period of five years immediately after the entry into force of this Treaty, be reduced below the level of catch of that Party before the entry into force of this Treaty; but 
+
+     (b)     may, during the second period of five years after the entry into force of this Treaty, be adjusted progressively so that at the end of that second five-year period it reaches the level of catch apportioned in each case in Article 23 of this Treaty. 
+
+     2.    The entitlement of a Party under this Article shall, where the limitation of the allowable catch makes it necessary, take priority over the entitlement of the other Party under Article 23 of this Treaty, but shall be taken into account in calculating the entitlement of the first Party. 
+
+<u>ARTICLE 25</u>
+
+<u>Preferential Entitlement</u>
+
+     If, in any relevant period, a Party does not itself propose to take all the allowable catch of a Protected Zone commercial fishery to which it is entitled, either in its own area of jurisdiction or that of the other Party, the other Party shall have a preferential entitlement to any of the allowable catch of that fishery not taken by the first Party. 
+
+<u>ARTICLE 26 </u>
+
+<u>Licensing Arrangements</u>
+
+     1.    In the negotiation and implementation of the conservation and management arrangements referred to in paragraph 1 of Article 22 of this Treaty—
+
+     (a)     the Parties shall consult and co-operate in the issue and endorsement of licences to permit commercial fishing in Protected Zone commercial fisheries;
+
+     (b)     the responsible authorities of the Parties may issue licences to fish in any Protected Zone commercial fishery; and 
+
+     (c)     persons or vessels which are licensed by the responsible authorities of one Party to fish in any relevant period in a Protected Zone commercial fishery shall, if nominated by the responsible authorities of that Party, be authorised by the responsible authorities of the other Party, wherever necessary, by the endorsement of licences or otherwise, to fish in those areas under the jurisdiction of the other Party in which the fishery concerned is located. 
+
+     2.    The persons or vessels licensed by one Party which have been authorised, or are to be authorised, under the provisions of paragraph 1 of this Article to fish in waters under the jurisdiction of the other Party shall comply with the relevant fisheries laws and regulations of the other Party except that they shall be exempt from licensing fees, levies and other charges imposed by the other Party in respect of such fishing activities. 
+
+     3.    In issuing licences in accordance with paragraph 1 of this Article, the responsible authorities of both Parties shall have regard to the desirability of promoting economic development in the Torres Strait area and employment opportunities for the traditional inhabitants. 
+
+     4.    The responsible authorities of both parties shall ensure that the traditional inhabitants are consulted from time to time on the licensing arrangements in respect of Protected Zone commercial fisheries. 
+
+<u>ARTICLE 27</u>
+
+<u>Third</u><u> </u><u>State</u><u> Fishing in Protected Zone Commercial Fisheries</u>
+
+     1.    The responsible authorities of the Parties shall inform one another and shall consult, at the request of either of them, concerning the proposed exploitation of the Protected Zone commercial fisheries—
+
+     (a)     by a joint venture in which there is third-State equity participation; or 
+
+     (b)     by a vessel of third-State registration or with a crew substantially of the nationality of a third State. 
+
+     2.    Vessels the operations of which are under the control of nationals of a third State shall not be licensed to exploit the Protected Zone commercial fisheries without the concurrence of the responsible authorities of both Parties in the particular case or class of cases. 
+
+<u>ARTICLE 28</u>
+
+<u>Inspection and Enforcement</u>
+
+     1.    The Parties shall co-operate, including by exchange of personnel, in inspection and enforcement to prevent violations of the Protected Zone commercial fisheries arrangements and in taking appropriate enforcement measures in the event of such violations. 
+
+     2.    The Parties shall consult from time to time, as necessary, so as to ensure that legislation and regulations adopted by each Party pursuant to paragraph 1 of this Article are, as far as practicable, consistent with the legislation and regulations of the other Party. 
+
+     3.    Each Party shall make it an offence under its fisheries laws or regulations for a person to use a vessel of its nationality to fish in Protected Zone commercial fisheries for species of fisheries resources in areas over which the other Party has jurisdiction in respect of those species— 
+
+     (a)     without being duly licensed or authorised by that other Party; or 
+
+     (b)     in the case of a licensed or authorised vessel, in breach of the fisheries laws or regulations of the other Party applying within those areas. 
+
+     4.    Each Party will, in relation to species of fisheries resources in areas where it has jurisdiction in respect of those species— 
+
+     (a)     investigate suspected offences against its fisheries laws and regulations; and 
+
+     (b)     except as provided in or under this article, take corrective action when necessary against offenders against those laws or regulations.
+
+     5.    In this article, corrective action means the action normally taken in respect of a suspected offence, after due investigation, and includes, where appropriate, the apprehension of a suspected offender, the prosecution of an alleged offender, or the execution of a penalty imposed by a court or the cancellation or suspension of the licence of an offender. 
+
+     6.    In accordance with the provisions of this Article, and in other appropriate cases as may be agreed between the Parties, corrective action in respect of offences or suspected offences against the fisheries laws or regulations of the Parties shall be taken by the authorities of the Party whose nationality is borne by the vessel or person concerned (called in this Article “the first Party”) and not by the Party in whose area of jurisdiction the offence or suspected offence occurs (called in this Article “the second Party”). 
+
+     7.    The Parties acknowledge that the principle stated in paragraph 6 of this Article should not be applied so as to frustrate the enforcement of fisheries laws or regulations or to enable offenders against those laws or regulations to go unpunished. 
+
+     8.    Where, in the case of a suspected offence alleged to have been committed in or in the vicinity of the Protected Zone, it appears that the offence was, or might reasonably be considered to have been, committed in the course of traditional fishing, corrective action or other measures shall be taken by the authorities of the first Party and not by the authorities of the second Party and, if being detained by the authorities of the second Party, the alleged offenders and their vessel shall be either released or handed over to the authorities of the first Party, in accordance with arrangements that will avoid undue expense or inconvenience to the authorities of the second Party. 
+
+     9.    Where paragraph 8 of this Article applies, the authorities of the second Party may require assurance in a particular case that corrective action or other measures will be taken by the authorities of the first Party that will adequately ensure that the activity complained of will not be repeated. 
+
+     10.   Where the provisions of paragraph 8 of this Article do not apply, and the person or vessel alleged to have been involved or used in the commission of a suspected offence in the Protected Zone is licensed to fish in the Protected Zone by the authorities of the first Party, corrective action shall be taken by the authorities of the first Party and not by the authorities of the second Party and, if being detained by the authorities of the second Party, the alleged offenders and their vessel shall be either released or handed over to the authorities of the first Party, in accordance with arrangements that will avoid undue expense or inconvenience to the authorities of the second Party, and the provisions of paragraphs 13 and 14 of this article shall apply. 
+
+     11.   The provisions of paragraph 10 of this Article shall also apply in respect of a suspected offence by a person or vessel of the first Party in an area of jurisdiction of the second Party outside the Protected Zone where— 
+
+     (a)     that person or vessel was authorised by the authorities of the second Party to fish in the area where the suspected offence was committed under the arrangements referred to in paragraph 1 of Article 22 of this Treaty; and 
+
+     (b)     the suspected offence was committed in relation to the fishery the subject of that authorisation and did not involve the taking of other species or potential injury to another fishery. 
+
+     12.   Persons or vessels of the first Party detained by the authorities of the Second Party in the circumstances described in paragraphs 8 and 10 of this Article may be detained for as long as necessary to enable those authorities to conduct an expeditious investigation into the offence and to obtain evidence. Thereafter, they shall not be detained other than for the purpose of the handing over of the persons or vessels in accordance with the provisions of those paragraphs unless they are lawfully detained on some other ground. 
+
+     13.   If an alleged offender referred to in paragraph 10 of this Article is, in respect of conduct in waters under the jurisdiction of the second party— 
+
+     (a)     convicted of an offence against the fisheries laws or regulations of the first Party; or 
+
+     (b)     found by the authorities of the first Party, on the basis of sufficient available evidence, to have contravened or failed to comply with a condition of his licence or authorisation or that of his vessel; 
+
+the authorities of the first Party shall, where appropriate and having regard to paragraph 7 of this Article, cancel or suspend the licence or authorisation of the person or his vessel so far as it relates to the Protected Zone commercial fisheries. 
+
+     14.   Where a person or vessel involved or used in the commission of the alleged offence referred to in paragraph 10 of this Article is also currently licensed or authorised to fish in the area of the Protected Zone by the second Party, the authorities of the second Party may, after receiving a report and representations, if any, from the authorities of the first Party, cancel or suspend that licence or authorisation in accordance with its laws for such period as is warranted by the circumstances of the case. 
+
+     15.   Each Party shall provide the other Party with any evidence obtained during investigations carried out in accordance with this Article into a suspected offence involving a person or vessel of the other Party. Each Party shall take appropriate measures to facilitate the admission of such evidence in proceedings taken in respect of the suspected offence. 
+
+     16.   In this Article references to persons and vessels of, or of the nationality of, a Party include references to persons or vessels licensed by that Party under sub-paragraph 1 (b) of Article 26 of this Treaty, and the crews of vessels so licensed, except where such persons or vessels have a prior current licence from the other Party under that sub-paragraph. 
+
+<u>PART 6</u>
+
+<u>FINAL ARTICLES</u>
+
+<u>ARTICLE 29</u>
+
+<u>Settlement of Disputes</u>
+
+     Any dispute between the Parties arising out of the interpretation or implementation of this Treaty shall be settled by consultation or negotiation. 
+
+<u>ARTICLE 30</u>
+
+<u>Consultations</u>
+
+     The Parties shall consult, at the request of either, on any matters relating to this Treaty. 
+
+<u>ARTICLE 31 </u>
+
+<u>Annexes</u>
+
+     The Annexes to this Treaty shall have force and effect as integral parts of this Treaty. 
+
+<u>ARTICLE 32 </u>
+
+<u>Ratification </u>
+
+     This Treaty shall be subject to ratification and shall enter into force on the exchange of the instruments of ratification. 
+
+     IN WITNESS WHEREOF the undersigned being duly authorised have signed the present Treaty and have affixed thereto their seals. 
+
+     DONE in duplicate at Sydney on this eighteenth day of December, One thousand nine hundred and seventy-eight.
+
+<table>
+<colgroup>
+  <col width="44%">
+  <col width="56%">
+</colgroup>
+
+<tr>
+  <td>
+    <div>FOR AUSTRALIA</div>
+  </td>
+  <td>
+    <div>FOR PAPUA NEW GUINEA</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Signed
+      <u>MALCOLM FRASER</u>
+    </div>
+  </td>
+  <td>
+    <div>Signed
+      <u>MICHAEL SOMARE</u>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Prime Minister</div>
+  </td>
+  <td>
+    <div>Prime Minister</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Signed
+      <u>ANDREW PEACOCK</u>
+    </div>
+  </td>
+  <td>
+    <div>Signed
+      <u>N. EBIA OLEWALE</u>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Minister for Foreign Affairs</div>
+  </td>
+  <td>
+    <div>Deputy Prime Minister and Minister for Foreign Affairs and Trade</div>
+  </td>
+</tr></table>
+
+**ANNEX 1 TO THE TREATY BETWEEN****AUSTRALIA****AND THE****INDEPENDENT****STATE****OF PAPUA NEW****GUINEA****CONCERNING SOVEREIGNTY AND MARITIME BOUNDARIES IN THE AREA BETWEEN THE TWO COUNTRIES, INCLUDING THE AREA KNOWN AS****TORRES STRAIT****, AND RELATED MATTERS**
+
+<u>TERRITORIAL SEA BOUNDARIES BETWEEN THE </u><u>ISLANDS</u><u> OF AUBUSI, BOIGU AND MOIMI AND PAPUA NEW </u><u>GUINEA</u><u> AND BETWEEN THE </u><u>ISLANDS</u><u> OF DAUAN, KAUMAG AND SAIBAI AND PAPUA NEW </u><u>GUINEA</u>
+
+<u>BETWEEN THE </u><u>ISLANDS</u><u> OF AUBUSI, BOIGU AND MOIMI AND PAPUA NEW </u><u>GUINEA</u>
+
+A line— 
+
+commencing at the point of Latitude 9° 15´ 43² South, Longitude 142° 03´ 30´´ East (“Point 1”); 
+
+running thence north-easterly along the geodesic to the point of Latitude 9° 12´ 50² South, Longitude 142° 06´ 25² East (“Point 2”); 
+
+thence north-easterly along the geodesic to the point of Latitude 9° 11´ 51² South, Longitude 142° 08´ 33² East (“Point 3”); 
+
+thence south-easterly along the geodesic to the point of Latitude 9° 11´ 58² South, Longitude 142° 10´ 18² East (“Point 4”); 
+
+thence north-easterly along the geodesic to the point of Latitude 9° 11´ 22² South, Longitude 142° 12´ 54² East (“Point 5”); 
+
+thence south-easterly along the geodesic to the point of Latitude 9° 11´ 34² South, Longitude 142° 14´ 08² East (“Point 6”); 
+
+thence south-easterly along the geodesic to the point of Latitude 9° 13´ 53² South, Longitude 142° 16´ 26² East (“Point 7”); and 
+
+thence south-easterly along the geodesic to the point of Latitude 9° 16´ 04² South, Longitude 142° 20´ 41² East (“Point 8”) where it terminates. 
+
+<u>BETWEEN THE </u><u>ISLANDS</u><u> OF DAUAN, KAUMAG AND SAIBAI AND PAPUA NEW </u><u>GUINEA</u>
+
+A line—
+
+commencing at the point of Latitude 9° 22´ 04² South, Longitude 142° 29´ 41² East (“Point 9”); 
+
+running thence north-easterly along the geodesic to the point of Latitude 9° 21´ 48² South, Longitude 142° 31´ 29² East (“Point 10”); 
+
+thence south-easterly along the geodesic to the point of Latitude 9° 22´ 33² South, Longitude 142° 33´ 28² East (“Point 11”); 
+
+thence north-easterly along the geodesic to the point of Latitude 9° 21´ 25² South, Longitude 142° 35´ 29² East (“Point 12”); 
+
+thence north-easterly along the geodesic to the point of Latitude 9° 20´ 21² South, Longitude 142° 41´ 43² East (“Point 13”); 
+
+thence north-easterly along the geodesic to the point of Latitude 9° 20´ 16² South, Longitude 142° 43´ 53² East (“Point 14”); and 
+
+thence north-easterly along the geodesic to the point of Latitude 9° 19´ 26² South, Longitude 142° 48´ 18² East (“Point 15”) where it terminates.
+
+**ANNEX 3 TO THE TREATY BETWEEN****AUSTRALIA****AND THE****INDEPENDENT****STATE****OF PAPUA NEW****GUINEA****CONCERNING SOVEREIGNTY AND MARITIME BOUNDARIES IN THE AREA BETWEEN THE TWO COUNTRIES, INCLUDING THE AREA KNOWN AS****TORRES  STRAIT****, AND RELATED MATTERS**
+
+<u>OUTER LIMITS OF </u><u>TERRITORIAL</u><u> </u><u>SEAS</u>
+
+<u>TERRITORIAL</u><u> </u><u>SEA</u><u> OF THE </u><u>ISLANDS</u><u> OF AUBUSI, BOIGU AND MOIMI</u>
+
+     The outer limit of the territorial sea of the islands of Aubusi, Boigu and Moimi shall be a continuous line—
+
+     (a)     commencing at the point specified as Point 1 in Annex 1 to this Treaty;
+
+     (b)     running thence along the geodesics successively joining the points specified as Points 1 to 8 in Annex 1 to this Treaty; and
+
+     (c)     thence along a series of intersecting arcs of circles having a radius of three miles and drawn successively from the following points—
+
+<table>
+<colgroup>
+  <col width="32%">
+  <col width="30%">
+  <col width="38%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>
+        <u>Latitude</u>
+
+(South)</div>
+    </td>
+    <td>
+      <div>
+        <u>Longitude</u>
+
+(East)</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>(i)</div>
+  </td>
+  <td>
+    <div>9° 15´ 53
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 39
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ii)</div>
+  </td>
+  <td>
+    <div>9° 16´ 26
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 36
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iii)</div>
+  </td>
+  <td>
+    <div>9° 16´ 28
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 36
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iv)</div>
+  </td>
+  <td>
+    <div>9° 16´ 31
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 30
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(v)</div>
+  </td>
+  <td>
+    <div>9° 17´ 06
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 30
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vi)</div>
+  </td>
+  <td>
+    <div>9° 17´ 15
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 30
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vii)</div>
+  </td>
+  <td>
+    <div>9° 17´ 26
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 15
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(viii)</div>
+  </td>
+  <td>
+    <div>9° 17´ 50
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 46
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ix)</div>
+  </td>
+  <td>
+    <div>9° 17´ 55
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 39
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(x)</div>
+  </td>
+  <td>
+    <div>9° 17´ 56
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 30
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xi)</div>
+  </td>
+  <td>
+    <div>9° 17´ 53
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 11
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xii)</div>
+  </td>
+  <td>
+    <div>9° 17´ 52
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 07
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiii)</div>
+  </td>
+  <td>
+    <div>9° 17´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 14´ 52
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiv)</div>
+  </td>
+  <td>
+    <div>9° 17´ 45
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 14´ 49
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xv)</div>
+  </td>
+  <td>
+    <div>9° 17´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 14´ 38
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xvi)</div>
+  </td>
+  <td>
+    <div>9° 17´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 14´ 30
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xvii)</div>
+  </td>
+  <td>
+    <div>9° 17´ 38
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 14´ 06
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xviii)</div>
+  </td>
+  <td>
+    <div>9° 17´ 38
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 13´ 59
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xix)</div>
+  </td>
+  <td>
+    <div>9° 17´ 36
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 13´ 47
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xx)</div>
+  </td>
+  <td>
+    <div>9° 17´ 34
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 13´ 31
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxi)</div>
+  </td>
+  <td>
+    <div>9° 17´ 33
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 13´ 20
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxii)</div>
+  </td>
+  <td>
+    <div>9° 17´ 32
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 12´ 56
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxiii)</div>
+  </td>
+  <td>
+    <div>9° 17´ 32
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 12´ 46
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxiv)</div>
+  </td>
+  <td>
+    <div>9° 17´ 33
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 12´ 26
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxv)</div>
+  </td>
+  <td>
+    <div>9° 17´ 38
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 11´ 56
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxvi)</div>
+  </td>
+  <td>
+    <div>9° 17´ 39
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 11´ 51
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxvii)</div>
+  </td>
+  <td>
+    <div>9° 17´ 38
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 11´ 34
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxviii)</div>
+  </td>
+  <td>
+    <div>9° 17´ 37
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 11´ 30
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxix)</div>
+  </td>
+  <td>
+    <div>9° 17´ 33
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 10´ 20
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxx)</div>
+  </td>
+  <td>
+    <div>9° 17´ 30
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 10´ 13
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxi)</div>
+  </td>
+  <td>
+    <div>9° 17´ 15
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 09´ 08
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxii)</div>
+  </td>
+  <td>
+    <div>9° 17´ 13
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 09´ 00
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxiii)</div>
+  </td>
+  <td>
+    <div>9° 17´ 02
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 08´ 35
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxiv)</div>
+  </td>
+  <td>
+    <div>9° 16´ 56
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 08´ 23
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxv)</div>
+  </td>
+  <td>
+    <div>9° 16´ 52
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 08´ 15
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxvi)</div>
+  </td>
+  <td>
+    <div>9° 16´ 47
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 08´ 01
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxvii)</div>
+  </td>
+  <td>
+    <div>9° 16´ 46
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 07´ 58
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxviii)</div>
+  </td>
+  <td>
+    <div>9° 16´ 21
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 06´ 52
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxix)</div>
+  </td>
+  <td>
+    <div>9° 16´ 19
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 06´ 51
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xl)</div>
+  </td>
+  <td>
+    <div>9° 15´ 08
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 06´ 28
+      ²
+    </div>
+  </td>
+</tr></table>
+
+to the point of commencement.
+
+<u>TERRITORIAL</u><u> </u><u>SEA</u><u> OF THE </u><u>ISLANDS</u><u> OF DAUAN, KAUMAG AND SAIBAI</u>
+
+     The outer limit of the territorial sea of the islands of Dauan, Kaumag and Saibai shall be a continuous line—
+
+     (a)     commencing at the point specified as Point 9 in Annex 1 to this Treaty; 
+
+     (b)     running thence along the geodesics successively joining the points specified as Points 9 to 15 in Annex 1 to this Treaty; and 
+
+     (c)     thence along a series of intersecting arcs of circles having a radius of three miles and drawn successively from the following points—
+
+<table>
+<colgroup>
+  <col width="32%">
+  <col width="30%">
+  <col width="38%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>
+        <u>Latitude</u>
+
+(South)</div>
+    </td>
+    <td>
+      <div>
+        <u>Longitude</u>
+
+(East)</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>(i)</div>
+  </td>
+  <td>
+    <div>9° 22´ 24
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 47´ 49
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ii)</div>
+  </td>
+  <td>
+    <div>9° 22´ 28
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 47´ 53
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iii)</div>
+  </td>
+  <td>
+    <div>9° 22´ 39
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 47´ 57
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iv)</div>
+  </td>
+  <td>
+    <div>9° 22´ 48
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 48´ 00
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(v)</div>
+  </td>
+  <td>
+    <div>9° 22´ 58
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 48´ 01
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vi)</div>
+  </td>
+  <td>
+    <div>9° 23´ 02
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 48´ 01
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vii)</div>
+  </td>
+  <td>
+    <div>9° 23´ 06
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 47´ 59
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(viii)</div>
+  </td>
+  <td>
+    <div>9° 23´ 12
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 47´ 55
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ix)</div>
+  </td>
+  <td>
+    <div>9° 23´ 28
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 47´ 46
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(x)</div>
+  </td>
+  <td>
+    <div>9° 23´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 47´ 41
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xi)</div>
+  </td>
+  <td>
+    <div>9° 25´ 46
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 46´ 36
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xii)</div>
+  </td>
+  <td>
+    <div>9° 25´ 48
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 46´ 36
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiii)</div>
+  </td>
+  <td>
+    <div>9° 25´ 53
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 46´ 29
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiv)</div>
+  </td>
+  <td>
+    <div>9° 26´ 05
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 46´ 12
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> (xv)</div>
+  </td>
+  <td>
+    <div>9° 26´ 10
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 46´ 03
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xvi)</div>
+  </td>
+  <td>
+    <div>9° 26´ 15
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 45´ 47
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xvii)</div>
+  </td>
+  <td>
+    <div>9° 26´ 15
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 45´ 34
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xviii)</div>
+  </td>
+  <td>
+    <div>9° 26´ 12
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 45´ 25
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xix)</div>
+  </td>
+  <td>
+    <div>9° 26´ 09
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 45´ 12
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xx)</div>
+  </td>
+  <td>
+    <div>9° 26´ 06
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 45´ 07
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxi)</div>
+  </td>
+  <td>
+    <div>9° 25´ 57
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 44´ 39
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxii)</div>
+  </td>
+  <td>
+    <div>9° 25´ 48
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 43´ 07
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxiii)</div>
+  </td>
+  <td>
+    <div>9° 25´ 54
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 42´ 42
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxiv)</div>
+  </td>
+  <td>
+    <div>9° 25´ 53
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 42´ 13
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxv)</div>
+  </td>
+  <td>
+    <div>9° 25´ 52
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 41´ 59
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxvi)</div>
+  </td>
+  <td>
+    <div>9° 25´ 51
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 41´ 51
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxvii)</div>
+  </td>
+  <td>
+    <div>9° 25´ 48
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 41´ 15
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxviii)</div>
+  </td>
+  <td>
+    <div>9° 25´ 47
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 41´ 04
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxix)</div>
+  </td>
+  <td>
+    <div>9° 25´ 46
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 40´ 55
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxx)</div>
+  </td>
+  <td>
+    <div>9° 25´ 43
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 40´ 20
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxi)</div>
+  </td>
+  <td>
+    <div>9° 25´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 40´ 04
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxii)</div>
+  </td>
+  <td>
+    <div>9° 25´ 50
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 39´ 30
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxiii)</div>
+  </td>
+  <td>
+    <div>9° 25´ 51
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 39´ 22
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxiv)</div>
+  </td>
+  <td>
+    <div>9° 25´ 50
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 39´ 13
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxv)</div>
+  </td>
+  <td>
+    <div>9° 25´ 48
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 39´ 03
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxvi)</div>
+  </td>
+  <td>
+    <div>9° 25´ 35
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 38´ 05
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxvii)</div>
+  </td>
+  <td>
+    <div>9° 25´ 31
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 37´ 46
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxviii)</div>
+  </td>
+  <td>
+    <div>9° 25´ 28
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 37´ 36
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxix)</div>
+  </td>
+  <td>
+    <div>9° 25´ 23
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 37´ 22
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xl)</div>
+  </td>
+  <td>
+    <div>9° 25´ 22
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 37´ 19
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xli)</div>
+  </td>
+  <td>
+    <div>9° 25´ 04
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 36´ 35
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xlii)</div>
+  </td>
+  <td>
+    <div>9° 24´ 50
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 36´ 03
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xliii)</div>
+  </td>
+  <td>
+    <div>9° 25´ 25
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 33´ 03
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xliv)</div>
+  </td>
+  <td>
+    <div>9° 25´ 27
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 32´ 58
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xlv)</div>
+  </td>
+  <td>
+    <div>9° 25´ 54
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 32´ 17
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xlvi)</div>
+  </td>
+  <td>
+    <div>9° 26´ 11
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 33´ 00
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xlvii)</div>
+  </td>
+  <td>
+    <div>9° 26´ 15
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 31´ 55
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xlviii)</div>
+  </td>
+  <td>
+    <div>9° 26´ 17
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 31´ 52
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xlix)</div>
+  </td>
+  <td>
+    <div>9° 26´ 17
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 31´ 48
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(l)</div>
+  </td>
+  <td>
+    <div>9° 26´ 15
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 31´ 46
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(li)</div>
+  </td>
+  <td>
+    <div>9° 26´ 06
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 31´ 47
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lii)</div>
+  </td>
+  <td>
+    <div>9° 25´ 38
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 31´ 35
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(liii)</div>
+  </td>
+  <td>
+    <div>9° 25´ 28
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 31´ 34
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(liv)</div>
+  </td>
+  <td>
+    <div>9° 25´ 24
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 31´ 33
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lv)</div>
+  </td>
+  <td>
+    <div>9° 25´ 05
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 31´ 27
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lvi)</div>
+  </td>
+  <td>
+    <div>9° 24´ 39
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 31´ 18
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lvii)</div>
+  </td>
+  <td>
+    <div>9° 24´ 37
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 31´ 17
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lviii)</div>
+  </td>
+  <td>
+    <div>9° 24´ 32
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 31´ 24
+      ²
+    </div>
+  </td>
+</tr></table>
+
+to the point of commencement.
+
+<u>TERRITORIAL </u><u>SEA</u><u> OF </u><u>ANCHOR</u><u> CAY AND EAST CAY </u>
+
+     The outer limit of the territorial sea of Anchor Cay and East Cay shall be a continuous line formed by a series of intersecting arcs of circles having a radius of three miles and drawn successively, so as to enclose the islands, from the following points—
+
+<table>
+<colgroup>
+  <col width="31%">
+  <col width="29%">
+  <col width="40%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>
+        <u>Latitude</u>
+
+(South)</div>
+    </td>
+    <td>
+      <div>
+        <u>Longitude</u>
+
+(East)</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>(i)</div>
+  </td>
+  <td>
+    <div>9° 21´ 27
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 07´ 30
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ii)</div>
+  </td>
+  <td>
+    <div>9° 21´ 25
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 07´ 28
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iii)</div>
+  </td>
+  <td>
+    <div>9° 21´ 25
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 07´ 38
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iv)</div>
+  </td>
+  <td>
+    <div>9° 21´ 26
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 07´ 44
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(v)</div>
+  </td>
+  <td>
+    <div>9° 21´ 29
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 07´ 50
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vi)</div>
+  </td>
+  <td>
+    <div>9° 21´ 31
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 07´ 55
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vii)</div>
+  </td>
+  <td>
+    <div>9° 21´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 08´ 24
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(viii)</div>
+  </td>
+  <td>
+    <div>9° 21´ 45
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 08´ 27
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ix)</div>
+  </td>
+  <td>
+    <div>9° 21´ 49
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 08´ 33
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(x)</div>
+  </td>
+  <td>
+    <div>9° 21´ 54
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 08´ 37
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> (xi)</div>
+  </td>
+  <td>
+    <div>9° 23´ 09
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 12´ 43
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xii)</div>
+  </td>
+  <td>
+    <div>9° 23´ 02
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 12´ 55
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiii)</div>
+  </td>
+  <td>
+    <div>9° 23´ 02
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 13´ 23
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiv)</div>
+  </td>
+  <td>
+    <div>9° 23´ 04
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 13´ 29
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xv)</div>
+  </td>
+  <td>
+    <div>9° 23´ 06
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 13´ 33
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xvi)</div>
+  </td>
+  <td>
+    <div>9° 23´ 09
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 13´ 40
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xvii)</div>
+  </td>
+  <td>
+    <div>9° 23´ 13
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 13´ 44
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xviii)</div>
+  </td>
+  <td>
+    <div>9° 23´ 30
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 13´ 59
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xix)</div>
+  </td>
+  <td>
+    <div>9° 23´ 40
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 11
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xx)</div>
+  </td>
+  <td>
+    <div>9° 23´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 18
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxi)</div>
+  </td>
+  <td>
+    <div>9° 23´ 50
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 25
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxii)</div>
+  </td>
+  <td>
+    <div>9° 23´ 59
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 30
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxiii)</div>
+  </td>
+  <td>
+    <div>9° 24´ 05
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 31
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxiv)</div>
+  </td>
+  <td>
+    <div>9° 24´ 19
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 33
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxv)</div>
+  </td>
+  <td>
+    <div>9° 24´ 29
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 37
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxvi)</div>
+  </td>
+  <td>
+    <div>9° 24´ 40
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 40
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxvii)</div>
+  </td>
+  <td>
+    <div>9° 24´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 40
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxviii)</div>
+  </td>
+  <td>
+    <div>9° 24´ 49
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 35
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxix)</div>
+  </td>
+  <td>
+    <div>9° 24´ 53
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 33
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxx)</div>
+  </td>
+  <td>
+    <div>9° 24´ 57
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 27
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxi)</div>
+  </td>
+  <td>
+    <div>9° 24´ 57
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 20
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxii)</div>
+  </td>
+  <td>
+    <div>9° 24´ 56
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 14´ 14
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxiii)</div>
+  </td>
+  <td>
+    <div>9° 24´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 13´ 19
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxiv)</div>
+  </td>
+  <td>
+    <div>9° 24´ 40
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 13´ 02
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxv)</div>
+  </td>
+  <td>
+    <div>9° 24´ 36
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 12´ 58
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxvi)</div>
+  </td>
+  <td>
+    <div>9° 24´ 31
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 12´ 56
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxvii)</div>
+  </td>
+  <td>
+    <div>9° 23´ 47
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 12´ 34
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxviii)</div>
+  </td>
+  <td>
+    <div>9° 22´ 06
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 08´ 38
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxix)</div>
+  </td>
+  <td>
+    <div>9° 22´ 07
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 08´ 31
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xl)</div>
+  </td>
+  <td>
+    <div>9° 21´ 59
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 07´ 57
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xli)</div>
+  </td>
+  <td>
+    <div>9° 21´ 47
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 07´ 32
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xlii)</div>
+  </td>
+  <td>
+    <div>9° 21´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 07´ 29
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xliii)</div>
+  </td>
+  <td>
+    <div>9° 21´ 40
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 07´ 26
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xliv)</div>
+  </td>
+  <td>
+    <div>9° 21´ 35
+      ²
+    </div>
+  </td>
+  <td>
+    <div>144° 07´ 24
+      ²
+    </div>
+  </td>
+</tr></table>
+
+<u>TERRITORIAL </u><u>SEA</u><u>  OF </u><u>BLACK</u><u> ROCKS AND BRAMBLE CtorrAY </u>
+
+     The outer limit of the territorial sea of Black Rocks and Bramble Cay shall be a continuous line formed by a series of intersecting arcs of circles having a radius of three miles and drawn successively, so as to enclose the islands, from the following points—
+
+<table>
+<colgroup>
+  <col width="32%">
+  <col width="30%">
+  <col width="38%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>
+        <u>Latitude</u>
+
+(South)</div>
+    </td>
+    <td>
+      <div>
+        <u>Longitude</u>
+
+(East)</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>(i)</div>
+  </td>
+  <td>
+    <div>9° 10´ 28
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 49´ 59
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ii)</div>
+  </td>
+  <td>
+    <div>9° 08´ 40
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 52´ 19
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iii)</div>
+  </td>
+  <td>
+    <div>9° 08´ 33
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 52´ 22
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iv)</div>
+  </td>
+  <td>
+    <div>9° 08´ 26
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 52´ 32
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(v)</div>
+  </td>
+  <td>
+    <div>9° 08´ 24
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 52´ 41
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vi)</div>
+  </td>
+  <td>
+    <div>9° 08´ 23
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 52´ 48
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vii)</div>
+  </td>
+  <td>
+    <div>9° 08´ 24
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 53´ 54
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(viii)</div>
+  </td>
+  <td>
+    <div>9° 08´ 27
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 53´ 06
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ix)</div>
+  </td>
+  <td>
+    <div>9° 08´ 32
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 53´ 12
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(x)</div>
+  </td>
+  <td>
+    <div>9° 08´ 43
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 53´ 19
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xi)</div>
+  </td>
+  <td>
+    <div>9° 08´ 48
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 53´ 19
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xii)</div>
+  </td>
+  <td>
+    <div>9° 08´ 52
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 53´ 17
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiii)</div>
+  </td>
+  <td>
+    <div>9° 09´ 00
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 53´ 13
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiv)</div>
+  </td>
+  <td>
+    <div>9° 09´ 04
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 53´ 07
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xv)</div>
+  </td>
+  <td>
+    <div>9° 09´ 08
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 53´ 00
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xvi)</div>
+  </td>
+  <td>
+    <div>9° 09´ 07
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 52´ 49
+      ²
+    </div>
+  </td>
+</tr></table>
+
+<u>TERRITORIAL</u><u> </u><u>SEA</u><u> OF </u><u>DELIVERANCE</u><u> </u><u>ISLAND</u><u> AND KERR ISLET</u>
+
+     The outer limit of the territorial sea of Deliverance  Island and Kerr Islet shall be a continuous line formed by a series of intersecting arcs of circles having a radius of three miles and drawn successively, so as to enclose the islands, from the following points—
+
+<table>
+<colgroup>
+  <col width="32%">
+  <col width="30%">
+  <col width="38%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>
+        <u>Latitude</u>
+
+(South)</div>
+    </td>
+    <td>
+      <div>
+        <u>Longitude</u>
+
+(East)</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>(i)</div>
+  </td>
+  <td>
+    <div>9° 32´ 39
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 32´ 15
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ii)</div>
+  </td>
+  <td>
+    <div>9° 32´ 35
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 32´ 11
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iii)</div>
+  </td>
+  <td>
+    <div>9° 32´ 07
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 31´ 50
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iv)</div>
+  </td>
+  <td>
+    <div>9° 32´ 02
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 31´ 54
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(v)</div>
+  </td>
+  <td>
+    <div>9° 31´ 56
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 31´ 58
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vi)</div>
+  </td>
+  <td>
+    <div>9° 31´ 51
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 32´ 02
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vii)</div>
+  </td>
+  <td>
+    <div>9° 31´ 29
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 32´ 17
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(viii)</div>
+  </td>
+  <td>
+    <div>9° 31´ 27
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 32´ 19
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ix)</div>
+  </td>
+  <td>
+    <div>9° 31´ 24
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 32´ 21
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(x)</div>
+  </td>
+  <td>
+    <div>9° 30´ 40
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 33´ 32
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xi)</div>
+  </td>
+  <td>
+    <div>9° 30´ 08
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 34´ 01
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xii)</div>
+  </td>
+  <td>
+    <div>9° 30´ 01
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 34´ 05
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiii)</div>
+  </td>
+  <td>
+    <div>9° 29´ 57
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 34´ 08
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiv)</div>
+  </td>
+  <td>
+    <div>9° 29´ 51
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 34´ 14
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xv)</div>
+  </td>
+  <td>
+    <div>9° 29´ 51
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 34´ 19
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xvi)</div>
+  </td>
+  <td>
+    <div>9° 29´ 58
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 36´ 13
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xvii)</div>
+  </td>
+  <td>
+    <div>9° 30´ 04
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 36´ 16
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xviii)</div>
+  </td>
+  <td>
+    <div>9° 30´ 12
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 36´ 16
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xix)</div>
+  </td>
+  <td>
+    <div>9° 30´ 28
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 36´ 18
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xx)</div>
+  </td>
+  <td>
+    <div>9° 30´ 47
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 36´ 18
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxi)</div>
+  </td>
+  <td>
+    <div>9° 31´ 00
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 36´ 15
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxii)</div>
+  </td>
+  <td>
+    <div>9° 31´ 11
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 36´ 10
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxiii)</div>
+  </td>
+  <td>
+    <div>9° 31´ 29
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 36´ 02
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxiv)</div>
+  </td>
+  <td>
+    <div>9° 31´ 38
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 35´ 55
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxv)</div>
+  </td>
+  <td>
+    <div>9° 31´ 47
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 35´ 46
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxvi)</div>
+  </td>
+  <td>
+    <div>9° 31´ 50
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 35´ 42
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxvii)</div>
+  </td>
+  <td>
+    <div>9° 32´ 02
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 35´ 21
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxviii)</div>
+  </td>
+  <td>
+    <div>9° 36´ 21
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 34´ 33
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxix)</div>
+  </td>
+  <td>
+    <div>9° 36´ 24
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 34´ 34
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxx)</div>
+  </td>
+  <td>
+    <div>9° 36´ 35
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 34´ 33
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxi)</div>
+  </td>
+  <td>
+    <div>9° 36´ 49
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 34´ 26
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxii)</div>
+  </td>
+  <td>
+    <div>9° 36´ 56
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 34´ 21
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxiii)</div>
+  </td>
+  <td>
+    <div>9° 37´ 05
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 34´ 02
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxiv)</div>
+  </td>
+  <td>
+    <div>9° 37´ 14
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 33´ 47
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxv)</div>
+  </td>
+  <td>
+    <div>9° 37´ 15
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 33´ 28
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxvi)</div>
+  </td>
+  <td>
+    <div>9° 37´ 13
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 33´ 25
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxvii)</div>
+  </td>
+  <td>
+    <div>9° 37´ 09
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 33´ 22
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxviii)</div>
+  </td>
+  <td>
+    <div>9° 37´ 03
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 33´ 21
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxix)</div>
+  </td>
+  <td>
+    <div>9° 36´ 58
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 33´ 22
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xl)</div>
+  </td>
+  <td>
+    <div>9° 36´ 52
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 33´ 27
+      ²
+    </div>
+  </td>
+</tr></table>
+
+<u>TERRITORIAL</u><u> </u><u>SEA</u><u> OF PEARCE CAY</u>
+
+     The outer limit of that part of the territorial sea  of Pearce Cay which lies north of the line referred to in paragraph 1 of Article 4 of this Treaty shall be a continuous line— 
+
+     (a)     commencing at the point of Latitude 9° 33´ 00² South, Longitude 143° 14´ 51² East; 
+
+     (b)     thence along a series of intersecting arcs of circles having a radius of three miles and drawn successively from the following points—
+
+<table>
+<colgroup>
+  <col width="32%">
+  <col width="30%">
+  <col width="38%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>
+        <u>Latitude</u>
+
+(South)</div>
+    </td>
+    <td>
+      <div>
+        <u>Longitude</u>
+
+(East)</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>(i)</div>
+  </td>
+  <td>
+    <div>9° 30´ 56
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 17´ 03
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ii)</div>
+  </td>
+  <td>
+    <div>9° 30´ 53
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 17´ 03
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iii)</div>
+  </td>
+  <td>
+    <div>9° 30´ 50
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 17´ 08
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iv)</div>
+  </td>
+  <td>
+    <div>9° 30´ 46
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 17´ 19
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(v)</div>
+  </td>
+  <td>
+    <div>9° 30´ 43
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 17´ 26
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vi)</div>
+  </td>
+  <td>
+    <div>9° 30´ 42
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 17´ 34
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vii)</div>
+  </td>
+  <td>
+    <div>9° 30´ 41
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 17´ 43
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(viii)</div>
+  </td>
+  <td>
+    <div>9° 30´ 48
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 17´ 42
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ix)</div>
+  </td>
+  <td>
+    <div>9° 30´ 50
+      ²
+    </div>
+  </td>
+  <td>
+    <div>143° 17´ 40
+      ²
+    </div>
+  </td>
+</tr></table>
+
+              to the point of Latitude 9° 33´ 00² South, Longitude 143° 19´ 46² East; and 
+
+     (c)     thence along the parallel of Latitude 9° 33´ 00² South to the point of commencement. 
+
+<u>TERRITORIAL</u><u> </u><u>SEA</u><u> OF </u><u>TURNAGAIN</u><u>  </u><u>ISLAND</u>
+
+     The outer limit of the territorial sea of Turnagain Island shall be a continuous line formed by a series of intersecting arcs of circles having a radius of three miles, and drawn successively, so as to enclose the island, from the following points—
+
+<table>
+<colgroup>
+  <col width="32%">
+  <col width="30%">
+  <col width="38%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>
+        <u>Latitude</u>
+
+(South)</div>
+    </td>
+    <td>
+      <div>
+        <u>Longitude</u>
+
+(East)</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>(i)</div>
+  </td>
+  <td>
+    <div>9° 32´ 54
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 10´ 47
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ii)</div>
+  </td>
+  <td>
+    <div>9° 32´ 54
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 10´ 44
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iii)</div>
+  </td>
+  <td>
+    <div>9° 32´ 54
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 10´ 40
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iv)</div>
+  </td>
+  <td>
+    <div>9° 32´ 52
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 10´ 36
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(v)</div>
+  </td>
+  <td>
+    <div>9° 32´ 49
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 10´ 35
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vi)</div>
+  </td>
+  <td>
+    <div>9° 32´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 10´ 36
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vii)</div>
+  </td>
+  <td>
+    <div>9° 32´ 23
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 10´ 54
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(viii)</div>
+  </td>
+  <td>
+    <div>9° 32´ 11
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 11´ 39
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ix)</div>
+  </td>
+  <td>
+    <div>9° 32´ 10
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 11´ 45
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(x)</div>
+  </td>
+  <td>
+    <div>9° 32´ 15
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 11´ 54
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xi)</div>
+  </td>
+  <td>
+    <div>9° 32´ 37
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 14´ 59
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xii)</div>
+  </td>
+  <td>
+    <div>9° 32´ 36
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 15´ 08
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiii)</div>
+  </td>
+  <td>
+    <div>9° 32´ 37
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 15´ 14
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiv)</div>
+  </td>
+  <td>
+    <div>9° 32´ 40
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 15´ 24
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xv)</div>
+  </td>
+  <td>
+    <div>9° 32´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 15´ 40
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xvi)</div>
+  </td>
+  <td>
+    <div>9° 32´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 15´ 47
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xvii)</div>
+  </td>
+  <td>
+    <div>9° 32´ 45
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 15´ 53
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xviii)</div>
+  </td>
+  <td>
+    <div>9° 32´ 48
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 04
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xix)</div>
+  </td>
+  <td>
+    <div>9° 32´ 51
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 16
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xx)</div>
+  </td>
+  <td>
+    <div>9° 32´ 53
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 28
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxi)</div>
+  </td>
+  <td>
+    <div>9° 32´ 54
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 34
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxii)</div>
+  </td>
+  <td>
+    <div>9° 32´ 56
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 39
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxiii)</div>
+  </td>
+  <td>
+    <div>9° 32´ 58
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 49
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxiv)</div>
+  </td>
+  <td>
+    <div>9° 33´ 02
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 01
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxv)</div>
+  </td>
+  <td>
+    <div>9° 33´ 03
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 12
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxvi)</div>
+  </td>
+  <td>
+    <div>9° 33´ 05
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 18
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxvii)</div>
+  </td>
+  <td>
+    <div>9° 33´ 11
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 30
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxviii)</div>
+  </td>
+  <td>
+    <div>9° 33´ 14
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 40
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxix)</div>
+  </td>
+  <td>
+    <div>9° 33´ 16
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 50
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxx)</div>
+  </td>
+  <td>
+    <div>9° 33´ 18
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 18´ 00
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxi)</div>
+  </td>
+  <td>
+    <div>9° 33´ 21
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 18´ 09
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxii)</div>
+  </td>
+  <td>
+    <div>9° 33´ 23
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 18´ 16
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxiii)</div>
+  </td>
+  <td>
+    <div>9° 33´ 28
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 18´ 27
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxiv)</div>
+  </td>
+  <td>
+    <div>9° 33´ 33
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 18´ 42
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxv)</div>
+  </td>
+  <td>
+    <div>9° 33´ 35
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 18´ 51
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxvi)</div>
+  </td>
+  <td>
+    <div>9° 33´ 38
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 19´ 03
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxvii)</div>
+  </td>
+  <td>
+    <div>9° 33´ 41
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 19´ 12
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxviii)</div>
+  </td>
+  <td>
+    <div>9° 33´ 42
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 19´ 19
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xxxix)</div>
+  </td>
+  <td>
+    <div>9° 33´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 19´ 25
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xl)</div>
+  </td>
+  <td>
+    <div>9° 33´ 47
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 19´ 38
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xli)</div>
+  </td>
+  <td>
+    <div>9° 33´ 49
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 19´ 40
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xlii)</div>
+  </td>
+  <td>
+    <div>9° 34´ 15
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 20´ 11
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xliii)</div>
+  </td>
+  <td>
+    <div>9° 34´ 19
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 20´ 16
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xliv)</div>
+  </td>
+  <td>
+    <div>9° 34´ 23
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 20´ 17
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xlv)</div>
+  </td>
+  <td>
+    <div>9° 34´ 29
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 20´ 14
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xlvi)</div>
+  </td>
+  <td>
+    <div>9° 34´ 34
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 20´ 10
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xlvii)</div>
+  </td>
+  <td>
+    <div>9° 34´ 42
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 20´ 03
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xlviii)</div>
+  </td>
+  <td>
+    <div>9° 34´ 46
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 19´ 58
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xlix)</div>
+  </td>
+  <td>
+    <div>9° 34´ 49
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 19´ 52
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(l)</div>
+  </td>
+  <td>
+    <div>9° 34´ 52
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 19´ 32
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(li)</div>
+  </td>
+  <td>
+    <div>9° 34´ 52
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 19´ 24
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lii)</div>
+  </td>
+  <td>
+    <div>9° 34´ 52
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 19´ 15
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(liii)</div>
+  </td>
+  <td>
+    <div>9° 34´ 50
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 19´ 05
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(liv)</div>
+  </td>
+  <td>
+    <div>9° 34´ 48
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 18´ 54
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lv)</div>
+  </td>
+  <td>
+    <div>9° 34´ 46
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 18´ 39
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lvi)</div>
+  </td>
+  <td>
+    <div>9° 34´ 43
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 18´ 28
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lvii)</div>
+  </td>
+  <td>
+    <div>9° 34´ 40
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 18´ 11
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lviii)</div>
+  </td>
+  <td>
+    <div>9° 34´ 38
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 18´ 05
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lix)</div>
+  </td>
+  <td>
+    <div>9° 34´ 35
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 56
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lx)</div>
+  </td>
+  <td>
+    <div>9° 34´ 30
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 39
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxi)</div>
+  </td>
+  <td>
+    <div>9° 34´ 23
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 17´ 09
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxii)</div>
+  </td>
+  <td>
+    <div>9° 34´ 21
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 55
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxiii)</div>
+  </td>
+  <td>
+    <div>9° 34´ 19
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 39
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxiv)</div>
+  </td>
+  <td>
+    <div>9° 34´ 16
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 16´ 29
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxv)</div>
+  </td>
+  <td>
+    <div>9° 34´ 07
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 15´ 58
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxvi)</div>
+  </td>
+  <td>
+    <div>9° 34´ 05
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 15´ 49
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxvii)</div>
+  </td>
+  <td>
+    <div>9° 34´ 01
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 15´ 41
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxviii)</div>
+  </td>
+  <td>
+    <div>9° 33´ 50
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 15´ 17
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxix)</div>
+  </td>
+  <td>
+    <div>9° 33´ 48
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 15´ 10
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxx)</div>
+  </td>
+  <td>
+    <div>9° 33´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 15´ 00
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxxi)</div>
+  </td>
+  <td>
+    <div>9° 33´ 35
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 14´ 48
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxxii)</div>
+  </td>
+  <td>
+    <div>9° 33´ 24
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 14´ 31
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxxiii)</div>
+  </td>
+  <td>
+    <div>9° 33´ 09
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 13´ 59
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(lxxiv)</div>
+  </td>
+  <td>
+    <div>9° 33´ 08
+      ²
+    </div>
+  </td>
+  <td>
+    <div>142° 13´ 53
+      ²
+    </div>
+  </td>
+</tr></table>
+
+<u>TERRITORIAL</u><u> </u><u>SEA</u><u> OF TURU CAY</u>
+
+     The outer limit of the territorial sea of Turu Cay shall be a continuous line formed by a series of intersecting arcs of circles having a radius of three miles and drawn successively, so as to enclose the island, from the following points—
+
+<table>
+<colgroup>
+  <col width="32%">
+  <col width="30%">
+  <col width="38%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>
+        <u>Latitude</u>
+
+(South)</div>
+    </td>
+    <td>
+      <div>
+        <u>Longitude</u>
+
+(East)</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>(i)</div>
+  </td>
+  <td>
+    <div>9° 49´ 53
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 24´ 42
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ii)</div>
+  </td>
+  <td>
+    <div>9° 49´ 39
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 24´ 44
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iii)</div>
+  </td>
+  <td>
+    <div>9° 49´ 31
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 24´ 52
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(iv)</div>
+  </td>
+  <td>
+    <div>9° 49´ 25
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 25´ 02
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(v)</div>
+  </td>
+  <td>
+    <div>9° 49´ 23
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 25´ 13
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vi)</div>
+  </td>
+  <td>
+    <div>9° 49´ 20
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 25´ 25
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(vii)</div>
+  </td>
+  <td>
+    <div>9° 49´ 19
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 25´ 36
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(viii)</div>
+  </td>
+  <td>
+    <div>9° 49´ 18
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 25´ 43
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(ix)</div>
+  </td>
+  <td>
+    <div>9° 49´ 18
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 25´ 53
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(x)</div>
+  </td>
+  <td>
+    <div>9° 49´ 17
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 26´ 07
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xi)</div>
+  </td>
+  <td>
+    <div>9° 49´ 23
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 26´ 09
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xii)</div>
+  </td>
+  <td>
+    <div>9° 49´ 26
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 26´ 06
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiii)</div>
+  </td>
+  <td>
+    <div>9° 49´ 32
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 25´ 58
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xiv)</div>
+  </td>
+  <td>
+    <div>9° 49´ 38
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 25´ 49
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xv)</div>
+  </td>
+  <td>
+    <div>9° 49´ 44
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 25´ 38
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xvi)</div>
+  </td>
+  <td>
+    <div>9° 49´ 47
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 25´ 31
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xvii)</div>
+  </td>
+  <td>
+    <div>9° 49´ 53
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 25´ 19
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xviii)</div>
+  </td>
+  <td>
+    <div>9° 49´ 56
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 25´ 09
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xix)</div>
+  </td>
+  <td>
+    <div>9° 49´ 57
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 24´ 54
+      ²
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>(xx)</div>
+  </td>
+  <td>
+    <div>9° 49´ 56
+      ²
+    </div>
+  </td>
+  <td>
+    <div>141° 24´ 45
+      ²
+    </div>
+  </td>
+</tr></table>
+
+**ANNEX 5 TO THE TREATY BETWEEN****AUSTRALIA****AND THE****INDEPENDENT****STATE****OF PAPUA NEW****GUINEA****CONCERNING SOVEREIGNTY AND MARITIME BOUNDARIES IN THE AREA BETWEEN THE TWO COUNTRIES INCLUDING THE AREA KNOWN AS****TORRES STRAIT****, AND RELATED MATTERS**
+
+<u>SEABED JURISDICTION LINE</u>
+
+A line— 
+
+     (a)     commencing at the point of Latitude 10° 50´ 00² South, Longitude 139° 12´ 00² East; 
+
+     (b)     running thence south-easterly along the geodesic to the point of Latitude 11° 09´ 00² South, Longitude 139° 23´ 00² East; 
+
+     (c)     thence north-easterly along the geodesic to the point of Latitude 10° 59´ 00² South, Longitude 140° 00´ 00² East; 
+
+     (d)     thence north-easterly along the geodesic to the point of Latitude 9° 46´ 00² South, Longitude 142° 00´ 00² East; 
+
+     (e)     thence north-easterly along the geodesic to the point of Latitude 9° 45´ 24² South, Longitude 142° 03´ 30² East; 
+
+      (f)     thence north-easterly along the geodesic to the point of Latitude 9° 42´ 00² South, Longitude 142° 23´ 00² East; 
+
+     (g)     thence north-easterly along the geodesic to the point of Latitude 9° 40´ 30² South, Longitude 142° 51´ 00² East; 
+
+     (h)     thence north-easterly along the geodesic to the point of Latitude 9° 40´ 00² South, Longitude 143° 00´ 00² East; 
+
+      (i)     thence north-easterly along the geodesic to the point of Latitude 9° 33´ 00² South, Longitude 143° 05´ 00² East;
+
+      (j)     thence east along the parallel of Latitude 9° 33´ 00² South to its intersection by the meridian of Longitude 143° 20´ 00² East; 
+
+     (k)     thence north-easterly along the geodesic to the point of Latitude 9° 24´ 00² South, Longitude 143° 30´ 00² East; 
+
+      (l)     thence north-easterly along the geodesic to the point of Latitude 9° 22´ 00² South, Longitude 143° 48´ 00² East; 
+
+    (m)     thence south-easterly along the geodesic to the point of Latitude 9° 30´ 00² South, Longitude 144° 15´ 00² East; 
+
+     (n)     thence south-easterly along the geodesic to the point of Latitude 9° 51´ 00² South, Longitude 144° 44´ 00² East; 
+
+     (o)     thence south-easterly along the geodesic to the point of Latitude 12° 20´ 00² South, Longitude 146° 30´ 00² East; 
+
+     (p)     thence south-easterly along the geodesic to the point of Latitude 12° 38´ 30² South, Longitude 147° 08´ 30² East; 
+
+     (q)     thence south-easterly along the geodesic to the point of Latitude 13° 10´ 30² South, Longitude 148° 05´ 00² East; 
+
+      (r)     thence south-easterly along the geodesic to the point of Latitude 14° 38´ 00² South, Longitude 152° 07´ 00² East; 
+
+      (s)     thence south-easterly along the geodesic to the point of Latitude 14° 45´ 00² South, Longitude 154° 15´ 00² East; 
+
+      (t)     thence north-easterly along the geodesic to the point of Latitude 14° 05´ 00² South, Longitude 156° 37´ 00² East; and 
+
+     (u)     thence north-easterly along the geodesic to the point of Latitude 14° 04´ 00² South, Longitude 157° 00´ 00² East where it terminates. 
+
+**ANNEX 8 TO THE TREATY BETWEEN****AUSTRALIA****AND THE****INDEPENDENT****STATE****OF PAPUA NEW****GUINEA****CONCERNING SOVEREIGNTY AND MARITIME BOUNDARIES IN THE AREA BETWEEN THE TWO COUNTRIES INCLUDING THE AREA KNOWN AS****TORRES  STRAIT****, AND RELATED MATTERS**
+
+<u>FISHERIES JURISDICTION LINE</u>
+
+A line— 
+
+     (a)     commencing at the point of Latitude 10° 50´ 00² South, Longitude 139° 12´ 00² East; 
+
+     (b)     running thence south-easterly along the geodesic to the point of Latitude 11° 09´ 00² South, Longitude 139° 23´ 00² East; 
+
+     (c)     thence north-easterly along the geodesic to the point of Latitude 10° 59´ 00² South, Longitude 140° 00´ 00² East; 
+
+     (d)     thence north-easterly along the geodesic to the point of Latitude 9° 46´ 00² South, Longitude 142° 00´ 00² East; 
+
+     (e)     thence north-easterly along the geodesic to the point of Latitude 9° 45´ 24² South, Longitude 142° 03´ 30² East; 
+
+      (f)     thence north along the meridian of Longitude 142° 03´ 30² East to its intersection by the parallel of Latitude 9° 15´ 43² South; 
+
+     (g)     thence north-easterly along the geodesic to the point of Latitude 9° 12´ 50² South, Longitude 142° 06´ 25² East; 
+
+     (h)     thence north-easterly along the geodesic to the point of Latitude 9° 11´ 51² South, Longitude 142° 08´ 33² East; 
+
+      (i)     thence south-easterly along the geodesic to the point of Latitude 9° 11´ 58² South, Longitude 142° 10´ 18² East; 
+
+      (j)     thence north-easterly along the geodesic to the point of Latitude 9° 11´ 22² South, Longitude 142° 12´ 54² East; 
+
+     (k)     thence south-easterly along the geodesic to the point of Latitude 9° 11´ 34² South, Longitude 142° 14´ 08² East; 
+
+      (l)     thence south-easterly along the geodesic to the point of Latitude 9° 13´ 53² South, Longitude 142° 16´ 26² East; 
+
+    (m)     thence south-easterly along the geodesic to the point of Latitude 9° 16´ 04² South, Longitude 142° 20´ 41² East; 
+
+     (n)     thence south-easterly along the geodesic to the point of Latitude 9° 22´ 04² South, Longitude 142° 29´ 41² East; 
+
+     (o)     thence north-easterly along the geodesic to the point of Latitude 9° 21´ 48² South, Longitude 142° 31´ 29² East; 
+
+     (p)     thence south-easterly along the geodesic to the point of Latitude 9° 22´ 33² South, Longitude 142° 33´ 28² East; 
+
+     (q)     thence north-easterly along the geodesic to the point of Latitude 9° 21´ 25² South, Longitude 142° 35´ 29² East; 
+
+      (r)     thence north-easterly along the geodesic to the point of Latitude 9° 20´ 21² South, Longitude 142° 41´ 43² East; 
+
+      (s)     thence north-easterly along the geodesic to the point of Latitude 9° 20´ 16² South, Longitude 142° 43´ 53² East; 
+
+      (t)     thence north-easterly along the geodesic to the point of Latitude 9° 19´ 26² South, Longitude 142° 48´ 18² East where it joins the outer limit of the three mile territorial sea of Saibai Island; 
+
+     (u)     thence along that outer limit so as to pass to the east of Saibai Island to the point of Latitude 9° 23´ 40² South, Longitude 142° 51´ 00² East; 
+
+     (v)     thence south along the meridian of Longitude 142° 51´ 00² East to its intersection by the parallel of Latitude 9° 40´ 30² South; 
+
+    (w)     thence north-easterly along the geodesic to the point of Latitude 9° 40´ 00² South, Longitude 143° 00´ 00² East; 
+
+     (x)     thence north-easterly along the geodesic to the point of Latitude 9° 33´ 00² South, Longitude 143° 05´ 00² East; 
+
+     (y)     thence east along the parallel of Latitude 9° 33´ 00² South to its intersection by the meridian of Longitude 143° 20´ 00² East; 
+
+      (z)     thence north-easterly along the geodesic to the point of Latitude 9° 24´ 00² South, Longitude 143° 30´ 00² East; 
+
+    (za)     thence north-easterly along the geodesic to the point of Latitude 9° 22´ 00² South, Longitude 143° 48´ 00² East; 
+
+    (zb)     thence south-easterly along the geodesic to the point of Latitude 9° 30´ 00² South, Longitude 144° 15´ 00² East; 
+
+    (zc)     thence south-easterly along the geodesic to the point of Latitude 9° 51´ 00² South, Longitude 144° 44´ 00² East; 
+
+    (zd)     thence south-easterly along the geodesic to the point of Latitude 12° 20´ 00² South, Longitude 146° 30´ 00² East; 
+
+    (ze)     thence south-easterly along the geodesic to the point of Latitude 12° 38´ 30² South, Longitude 147° 08´ 30² East; 
+
+    (zf)     thence south-easterly along the geodesic to the point of Latitude 13° 10´ 30² South, Longitude 148° 05´ 00² East; 
+
+    (zg)     thence south-easterly along the geodesic to the point of Latitude 14° 38´ 00² South, Longitude 152° 07´ 00² East; 
+
+    (zh)     thence south-easterly along the geodesic to the point of Latitude 14° 45´ 00² South, Longitude 154° 15´ 00² East; and 
+
+     (zi)     thence north-easterly along the geodesic to the point of Latitude 14° 05´ 00² South, Longitude 156° 37´ 00² East where it terminates. 
+
+**ANNEX 9 TO THE TREATY BETWEEN****AUSTRALIA****AND THE****INDEPENDENT****STATE****OF PAPUA NEW****GUINEA****CONCERNING SOVEREIGNTY AND MARITIME BOUNDARIES IN THE AREA BETWEEN THE TWO COUNTRIES, INCLUDING THE AREA KNOWN AS****TORRES  STRAIT****, AND RELATED MATTERS**
+
+<u>PROTECTED ZONE</u>
+
+A line— 
+
+     (a)     commencing at the point of Latitude 10° 28´ 00² South, Longitude 144° 10´ 00² East; 
+
+     (b)     running thence west along the parallel of Latitude 10° 28´ 00² South to its intersection by the meridian of Longitude 141° 20´ 00² East; 
+
+     (c)     thence north along that meridian to its intersection by the parallel of Latitude 9° 33´ 00² South; 
+
+     (d)     thence north-easterly along the geodesic to the point of Latitude 9° 13´ 00² South, Longitude 141° 57´ 00² East; 
+
+     (e)     thence north along the meridian of Longitude 141° 57´ 00² East to its intersection by the southern coastline of the island of New Guinea at low water; 
+
+      (f)     thence generally easterly along the southern coastline of the island of New Guinea, that is along the low water line on that coast and across any river mouth and in the case of the mouth of the Mai Kussa River along the parallel of Latitude 9° 09´ 00² South, thence along the southern coastline of the island of New Guinea, that is along the low water line on that coast and across any river mouth to its intersection by the meridian of Longitude 142° 36´ 00² East; 
+
+     (g)     thence south along that meridian to its intersection by the parallel of Latitude 9° 21´ 00² South; 
+
+     (h)     thence north-easterly along the geodesic between that point of intersection and the point of Latitude 9° 09´ 00² South, Longitude 143° 47´ 20² East; 
+
+      (i)     thence along the outer limit of the three-mile territorial sea of Black Rocks, so as to pass to the north-west of Black Rocks, to the point of intersection of that limit by the outer limit of the three-mile territorial sea of Bramble Cay; 
+
+      (j)     thence along that outer limit, so as to pass successively to the north and east of Bramble Cay, to the point of Latitude 9° 10´ 50² South, Longitude 143° 55´ 40² East; 
+
+     (k)     thence south-easterly along the geodesic to the point of Latitude 9° 18´ 40² South, Longitude 144° 06´ 10² East; 
+
+      (l)     thence along the outer limit of the three-mile territorial sea of Anchor Cay, so as to pass to the north of Anchor Cay, to the point of intersection of that limit by the outer limit of the three-mile territorial sea of East Cay; 
+
+    (m)     thence along that outer limit, so as to pass successively to the north and east of East Cay, to the point of Latitude 9° 26´ 50² South, Longitude 144° 16´ 50² East; 
+
+     (n)     thence south-easterly along the geodesic to the point of Latitude 9° 35´ 15² South, Longitude 144° 28´ 00² East; 
+
+     (o)     thence south along the meridian of Longitude 144° 28´ 00² East to its intersection by the parallel of Latitude 9° 54´ 00² South; 
+
+     (p)     thence south-westerly along the geodesic to the point of Latitude 10° 15´ 00² South, Longitude 144° 12´ 00² East; and 
+
+     (q)     thence south-westerly along the geodesic to the point of commencement.
+
+# Schedule 2—Provisions relating to detention of suspected illegal foreign fishers
+
+_Note:       See section 54A._
+
+## Part 1—Preliminary
+
+### Division 1—Objects of this Schedule
+
+##### <a id="1"></a>1  Main objects of this Schedule
+
+             (1)  This Schedule has 3 main objects.
+
+             (2)  The first main object is to provide for the detention (**_fisheries detention_**) in Australia or a Territory of persons who:
+
+                     (a)  are reasonably suspected by an officer of having committed an offence involving the use of a foreign boat or a   Papua New Guinea boat; and
+
+                     (b)  are not Australian citizens or Australian residents;
+
+for a limited period for the purposes of determining whether to charge them with the offence.
+
+             (3)  The second main object is to provide for persons in fisheries detention to be searched, screened, given access to facilities for obtaining legal advice, and identified.
+
+             (4)  The third main object is to facilitate the transition of persons from fisheries detention to immigration detention under the _Migration Act 1958_:
+
+                     (a)  by providing for the things mentioned in subclause (3) to be done in a way corresponding to the way that Act provides for those things to be done to persons in immigration detention; and
+
+                     (b)  by authorising the disclosure of personal information about individuals who are or have been in fisheries detention to persons, agencies and organisations responsible for holding the individuals in immigration detention, for the purpose of the immigration detention and welfare of the individuals.
+
+Note:          The enforcement visa of a person who is neither an Australian citizen nor an Australian resident ceases to have effect under the _Migration Act 1958_ when the person ceases to be in fisheries detention, so that Act requires the person to be taken into immigration detention.
+
+### Division 2—Definitions
+
+##### <a id="2"></a>2  Definitions
+
+                   In this Schedule, unless the contrary intention appears:
+
+                    <a name="authorised-offic"></a>**_authorised officer_** means an officer, or detention officer, who is authorised under Division 4 for the purposes of the provision in which the expression occurs.
+
+                    <a name="detaine"></a>**_detainee_** means a person detained under Part 2.
+
+                    <a name="detent"></a>**_detention_** means detention under Part 2.
+
+                    <a name="detent-offic"></a>**_detention officer_** means a person appointed under clause 3 to be a detention officer.
+
+### Division 3—Appointment etc. of detention officers
+
+##### <a id="3"></a>3  Minister may appoint persons to be detention officers
+
+             (1)  The Minister may, by instrument, appoint one or more persons (except persons who are officers) to be detention officers.
+
+Note:          Officers have the same powers as detention officers, as well as other powers, so there is no reason for officers to be appointed as detention officers.
+
+             (2)  An instrument appointing persons to be detention officers:
+
+                     (a)  may identify the persons by reference to a class; and
+
+                     (b)  may provide for persons to be appointed when they become members of the class at or after a time specified in the instrument.
+
+##### <a id="4"></a>4  Detention officers subject to directions
+
+                   A detention officer is, in the exercise of his or her powers, and the performance of his or her duties, under this Schedule, subject to the directions given by the Minister or AFMA.
+
+##### <a id="5"></a>5  Detention officer etc. not liable to certain actions
+
+             (1)  A detention officer, or a person assisting a detention officer in the exercise of powers under this Act or the regulations, is not liable to an action, suit or proceeding for or in respect of anything done in good faith or omitted to be done in good faith in the exercise or purported exercise of any power conferred by this Act or the regulations.
+
+Note:          Subsection 42(6AA) makes similar provision for officers and their assistants.
+
+             (2)  However, subsection (1) does not affect a contractual liability of a detention officer or person assisting a detention officer.
+
+### Division 4—Authorisation of officers and detention officers
+
+##### <a id="6"></a>6  AFMA may authorise officers and detention officers
+
+             (1)  AFMA may, by instrument, authorise one or more officers and/or detention officers for the purposes of a specified provision of this Schedule, from among officers and/or detention officers who have successfully completed minimum training prescribed by a legislative instrument.
+
+             (2)  An instrument authorising officers and/or detention officers:
+
+                     (a)  may identify them by reference to a class; and
+
+                     (b)  may provide for them to be authorised when they become members of the class at or after a time specified in the instrument.
+
+##### <a id="7"></a>7  Persons who are authorised officers for purposes of _Migration Act 1958_ are taken to be authorised for this Schedule
+
+             (1)  A person who:
+
+                     (a)  is an officer or detention officer; and
+
+                     (b)  is an authorised officer (as defined in the _Migration Act 1958_) for a provision of that Act listed in column 2 of an item of the table;
+
+is, while he or she meets the conditions in paragraphs (a) and (b), taken to be authorised under clause 6 for the purposes of the provision of this Schedule listed in column 3 of the item.
+
+<table>
+<colgroup>
+  <col width="15%">
+  <col width="42%">
+  <col width="42%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Corresponding provisions of the
+          <i>Migration Act 1958</i>and this Schedule</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Column 1 Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 2 Provision of
+          <i>Migration Act 1958</i>
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Column 3 Provision of this Schedule</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Subsection 252(4)</div>
+  </td>
+  <td>
+    <div>Subclause 15(3)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Paragraph 252(6)(a)</div>
+  </td>
+  <td>
+    <div>Paragraph 15(5)(a)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>Subparagraph 252(6)(b)(i)</div>
+  </td>
+  <td>
+    <div>Subparagraph 15(5)(b)(i)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>Subsection 252AA(1)</div>
+  </td>
+  <td>
+    <div>Subclause 16(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>Subsection 252A(1)</div>
+  </td>
+  <td>
+    <div>Subclause 17(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>Subsection 252C(1)</div>
+  </td>
+  <td>
+    <div>Subclause 19(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7</div>
+  </td>
+  <td>
+    <div>Subsection 252D(2)</div>
+  </td>
+  <td>
+    <div>Subclause 20(2)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8</div>
+  </td>
+  <td>
+    <div>Subsection 252G(3)</div>
+  </td>
+  <td>
+    <div>Subclause 23(3)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div>Section 261AA</div>
+  </td>
+  <td>
+    <div>Clause 28</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>10</div>
+  </td>
+  <td>
+    <div>Subsection 261AE(1)</div>
+  </td>
+  <td>
+    <div>Subclause 32(1)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>11</div>
+  </td>
+  <td>
+    <div>Subsection 261AE(3)</div>
+  </td>
+  <td>
+    <div>Subclause 32(3)</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>Section 261AG</div>
+  </td>
+  <td>
+    <div>Clause 34</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>13</div>
+  </td>
+  <td>
+    <div>Section 261AJ</div>
+  </td>
+  <td>
+    <div>Clause 37</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>14</div>
+  </td>
+  <td>
+    <div>Subsection 261AK(1) (except paragraph (a))</div>
+  </td>
+  <td>
+    <div>Subclause 38(1) (except paragraph (a))</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>15</div>
+  </td>
+  <td>
+    <div>Subsection 261AK(3)</div>
+  </td>
+  <td>
+    <div>Subclause 38(3)</div>
+  </td>
+</tr></table>
+
+Limits on authorisation
+
+             (2)  However, the person is not taken to be authorised to carry out an identification test in relation to which section 5D of the _Migration Act 1958_ provides that the person is not an authorised officer (for the purposes of that Act).
+
+Note:          This is relevant to items 9 to 15 of the table in subclause (1).
+
+Persons specified by AFMA not authorised
+
+             (3)  AFMA may, by instrument, specify that the person is not taken to be authorised:
+
+                     (a)  for the purposes of the provision of this Schedule; or
+
+                     (b)  for the purposes of carrying out under this Schedule identification tests of a type specified under section 5D of the _Migration Act 1958_ in relation to the person.
+
+The instrument has effect according to its terms, despite subclause (1).
+
+             (4)  An instrument under subclause (3) may specify one or more persons by reference to their being members of a specified class at or after a time specified in the instrument.
+
+             (5)  An instrument made under subclause (3) is not a legislative instrument.
+
+## Part 2—Detaining suspected illegal foreign fishers
+
+### Division 1—Initial detention by an officer
+
+##### <a id="8"></a>8  Power to detain
+
+             (1)  An officer may detain a person in Australia or a Territory for the purposes of investigating and determining, during the period of detention, whether or not the person committed an offence against section 45, 46A, 46B, 46C, 46D, 48, 49, 49A, 51 or 51A or an offence against section 6 of the _Crimes Act 1914_ relating to such an offence, if the officer has reasonable grounds to believe that the person:
+
+                     (a)  is not an Australian citizen or an Australian resident; and
+
+                     (b)  was on a foreign boat, or a Papua   New Guinea boat, when it was used in the commission of such an offence.
+
+             (2)  Subclause (1) does not authorise an officer to use more force in detaining a person than is reasonably necessary.
+
+##### <a id="9"></a>9  Relationship with Part IC of the _Crimes Act 1914_
+
+             (1)  Part IC of the _Crimes Act 1914_ applies in relation to the detainee while detained under this Part as if:
+
+                     (a)  he or she were a protected suspect for a Commonwealth offence for the purposes of that Part; and
+
+                     (b)  an officer were an investigating official for the purposes of that Part.
+
+             (2)  Subclause (1) does not affect the operation of Division 2 of Part IC of the _Crimes Act 1914_ as it applies of its own force in relation to a person who is lawfully arrested.
+
+### Division 2—Continued detention by a detention officer
+
+##### <a id="10"></a>10  Detention officer may detain person already detained by officer
+
+             (1)  For the purposes of facilitating an officer investigating and determining whether or not a person committed an offence against section 45, 46A, 46B, 46C, 46D, 48, 49, 49A, 51 or 51A or an offence against section 6 of the _Crimes Act 1914_ relating to such an offence, a detention officer may detain the person in Australia or a Territory if the detention officer has reasonable grounds to believe that the person:
+
+                     (a)  has been detained by an officer under Division 1; and
+
+                     (b)  has been presented, while detained by that officer, to a detention officer for detention by a detention officer.
+
+             (2)  However, the detention officer may not detain the person if the detention officer has reasonable grounds to believe that the person has ceased to be in detention since the last time the person was detained by an officer under Division 1.
+
+### Division 3—Detention on behalf of an officer or detention officer
+
+##### <a id="11"></a>11  Detention on behalf of an officer or detention officer
+
+             (1)  A person is taken to be detained by an officer or detention officer under this Part while the person is held, on behalf of the officer or detention officer, in any of the following:
+
+                     (a)  a prison or remand centre of the Commonwealth, a State or a Territory;
+
+                     (b)  a police station or watch house;
+
+                     (c)  a hospital or other place where the person is receiving medical treatment;
+
+                     (d)  another place approved by the Minister in writing;
+
+                     (e)  a boat.
+
+             (2)  This clause has effect even while the officer or detention officer is not present where the person is held on behalf of the officer or detention officer.
+
+             (3)  An approval of a place by the Minister is not a legislative instrument.
+
+### Division 4—Moving detainees
+
+##### <a id="12"></a>12  Power to move detainees
+
+             (1)  An officer or a detention officer may:
+
+                     (a)  take a detainee in Australia to another place in Australia or to a place in an external Territory; and
+
+                     (b)  take a detainee in an external Territory to another place in the Territory or to a place in Australia or another Territory.
+
+             (2)  Subclause (1) does not authorise an officer or detention officer to use more force than is reasonably necessary to take the detainee to the place.
+
+             (3)  In exercising the power under subclause (1), the officer or detention officer must have regard to all matters that he or she considers relevant, including:
+
+                     (a)  the administration of justice; and
+
+                     (b)  the welfare of the detainee.
+
+### Division 5—End of detention
+
+##### <a id="13"></a>13  End of detention
+
+Detainee who was on a foreign boat
+
+             (1)  A detainee who was detained under subclause 8(1) because the officer mentioned in that subclause had reasonable grounds to believe that the detainee was on a foreign boat must be released from detention:
+
+                     (a)  as soon as an officer or detention officer knows or reasonably believes that the detainee is an Australian citizen or an Australian resident; or
+
+                     (b)  at the time the detainee is brought before a magistrate following a decision to charge the detainee with an offence referred to in subclause 8(1); or
+
+                     (c)  at the time a decision is made not to charge the detainee with an offence referred to in that subclause; or
+
+                     (d)  at the end of 168 hours after the detention began;
+
+whichever occurs first.
+
+Detainee who was on a Papua New Guinea boat
+
+             (2)  A detainee who was detained under subclause 8(1) because the officer mentioned in that subclause had reasonable grounds to believe that the detainee was on a Papua New Guinea boat must be released from detention:
+
+                     (a)  as soon as an officer or detention officer knows or reasonably believes that the detainee is an Australian citizen or an Australian resident; or
+
+                     (b)  as soon as an officer believes that the detainee did not commit an offence described in that subclause; or
+
+                     (c)  as soon as an officer finishes investigating whether the detainee committed an offence described in that subclause; or
+
+                     (d)  at the end of 72 hours after the detention began;
+
+whichever occurs first.
+
+Papua New Guineans on foreign boats
+
+             (3)  Subclause (1) ceases to apply to a detainee, and subclause (2) applies instead to the detainee (as if the officer mentioned in subclause 8(1) had reasonable grounds to believe that the detainee had been on a Papua New Guinea boat), if an officer or detention officer knows or reasonably believes that the detainee is:
+
+                     (a)  a citizen of Papua New Guinea; or
+
+                     (b)  a person who is usually resident in Papua New Guinea and whose continued presence there is not subject to a limitation as to time imposed by law.
+
+Note:          The fact that subclause (2) applies as if the officer mentioned in subclause 8(1) had reasonable grounds to believe that the detainee had been on a Papua New Guinea boat does not affect whether the detainee was using a foreign boat in an offence against section 45, 46A, 46B, 46C, 46D or 48.
+
+             (4)  To avoid doubt, subclause (3) does not affect the validity of the detention of a detainee before the first time (the **_recognition time_**) an officer or detention officer knew or reasonably believed that the detainee was:
+
+                     (a)  a citizen of Papua New Guinea; or
+
+                     (b)  a person who is usually resident in Papua New Guinea and whose continued presence there is not subject to a limitation as to time imposed by law.
+
+This has effect even if the recognition time is more than 72 hours after the detention began.
+
+Note:          If the recognition time was more than 72 hours after the detention began, the effect of subclause (3) applying subclause (2) is to require the release of the detainee at the recognition time. However, subclause (3) does not affect the validity of detention in the period starting 72 hours after the detention began and ending at the recognition time.
+
+### Division 6—Offence of escaping from detention
+
+##### <a id="14"></a>14  Escape from detention
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is in detention; and
+
+                     (b)  the person escapes from that detention.
+
+             (2)  The offence is punishable on conviction by imprisonment for up to 2 years.
+
+## Part 3—Searching and screening detainees and screening their visitors
+
+### Division 1—Searches of detainees
+
+##### <a id="15"></a>15  Searches of detainees
+
+             (1)  For the purposes set out in subclause (2), a detainee, and the detainee’s clothing and any property under the immediate control of the detainee, may, without warrant, be searched.
+
+             (2)  The purposes for which a detainee, and the detainee’s clothing and any property under the immediate control of the detainee, may be searched under this clause are as follows:
+
+                     (a)  to find out whether there is hidden on the detainee’s person, in the clothing or in the property, a weapon or other thing capable of being used to inflict bodily injury or to help the detainee to escape from detention;
+
+                     (b)  to find out whether there is hidden on the detainee’s person, in the clothing or in the property, a document or other thing that is, or may be, evidence of:
+
+                              (i)  an offence against section 45, 46A, 46B, 46C, 46D, 48, 49, 49A, 51 or 51A; or
+
+                             (ii)  an offence against section 6 of the _Crimes Act 1914_ relating to an offence described in subparagraph (i).
+
+             (3)  If, in the course of a search under this clause, a weapon or other thing referred to in paragraph (2)(a), or a document or other thing referred to in paragraph (2)(b), is found, an authorised officer:
+
+                     (a)  may take possession of the weapon, document or other thing; and
+
+                     (b)  may retain the weapon, document or other thing for such time as he or she thinks necessary for the purposes of this Act or the _Migration Act 1958_.
+
+             (4)  This clause does not authorise an authorised officer, or another person conducting a search under subclause (5), to remove any of the detainee’s clothing, or to require a detainee to remove any of his or her clothing.
+
+             (5)  A search under this clause of a detainee, and the detainee’s clothing, must be conducted by:
+
+                     (a)  an authorised officer of the same sex as the detainee; or
+
+                     (b)  in a case where an authorised officer of the same sex as the detainee is not available to conduct the search—any other person who is of the same sex and:
+
+                              (i)  is requested by an authorised officer; and
+
+                             (ii)  agrees;
+
+                            to conduct the search.
+
+             (6)  An action or proceeding, whether civil or criminal, does not lie against a person who, at the request of an authorised officer, conducts a search under this clause if the person acts in good faith and does not contravene subclause (7).
+
+             (7)  An authorised officer or other person who conducts a search under this clause must not use more force, or subject a detainee to greater indignity, than is reasonably necessary in order to conduct the search.
+
+             (8)  To avoid doubt, a search of a detainee may be conducted under this clause irrespective of whether a screening procedure is conducted in relation to the detainee under clause 16 or a strip search of the detainee is conducted under clause 17.
+
+Note:          This clause corresponds closely to section 252 of the _Migration Act 1958_.
+
+### Division 2—Screening of detainees
+
+##### <a id="16"></a>16  Power to conduct a screening procedure
+
+             (1)  A screening procedure in relation to a detainee, other than a detainee to whom clause 22 applies, may be conducted by an authorised officer, without warrant, to find out whether there is hidden on the detainee, in his or her clothing or in a thing in his or her possession, a weapon, or other thing, capable of being used:
+
+                     (a)  to inflict bodily injury; or
+
+                     (b)  to help the detainee, or any other detainee, to escape from detention.
+
+             (2)  An authorised officer who conducts a screening procedure under this clause must not use greater force, or subject the detainee to greater indignity, than is reasonably necessary in order to conduct the screening procedure.
+
+             (3)  This clause does not authorise an authorised officer to remove any of the detainee’s clothing, or to require a detainee to remove any of his or her clothing.
+
+             (4)  To avoid doubt, a screening procedure may be conducted in relation to a detainee under this clause irrespective of whether a search of the detainee is conducted under clause 15 or 17.
+
+             (5)  In this clause:
+
+                    <a name="conduct-screen-procur"></a>**_conducting a screening procedure_**, in relation to a detainee, means:
+
+                     (a)  causing the detainee to walk, or to be moved, through screening equipment; or
+
+                     (b)  passing hand-held screening equipment over or around the detainee or around things in the detainee’s possession; or
+
+                     (c)  passing things in the detainee’s possession through screening equipment or examining such things by X-ray.
+
+                    <a name="screen-equip"></a>**_screening equipment_** means a metal detector or similar device for detecting objects or particular substances.
+
+Note:          This clause corresponds closely to section 252AA of the _Migration Act 1958_.
+
+### Division 3—Strip searches of detainees
+
+##### <a id="17"></a>17  Power to conduct a strip search
+
+             (1)  A strip search of a detainee, other than a detainee to whom clause 22 applies, may be conducted by an authorised officer, without warrant, to find out whether there is hidden on the detainee, in his or her clothing or in a thing in his or her possession a weapon, or other thing, capable of being used:
+
+                     (a)  to inflict bodily injury; or
+
+                     (b)  to help the detainee, or any other detainee, to escape from detention.
+
+Note:          Clause 18 sets out rules for conducting a strip search under this clause.
+
+             (2)  A **_strip search_** of a detainee means a search of the detainee, of his or her clothing or of a thing in his or her possession. It may include:
+
+                     (a)  requiring the detainee to remove some or all of his or her clothing; and
+
+                     (b)  an examination of that clothing and of the detainee’s body (but not of the detainee’s body cavities).
+
+             (3)  A strip search of a detainee may be conducted by an authorised officer only if:
+
+                     (a)  an officer or detention officer suspects on reasonable grounds that there is hidden on the detainee, in his or her clothing or in a thing in his or her possession a weapon or other thing described in subclause (1); and
+
+                     (b)  the officer, or detention officer, referred to in paragraph (a) suspects on reasonable grounds that it is necessary to conduct a strip search of the detainee to recover that weapon or other thing; and
+
+                     (c)  the strip search is authorised as follows:
+
+                              (i)  if the detainee is at least 18—the Managing Director of AFMA, the Secretary of the Department, or an SES Band 3 employee in the Department (who is not the officer referred to in paragraphs (a) and (b) nor the authorised officer conducting the strip search), authorises the strip search because he or she is satisfied that there are reasonable grounds for those suspicions;
+
+                             (ii)  if the detainee is at least 10 but under 18—a magistrate orders the strip search because he or she is satisfied that there are reasonable grounds for those suspicions.
+
+             (4)  An officer or detention officer may form a suspicion on reasonable grounds for the purposes of paragraph (3)(a) on the basis of:
+
+                     (a)  a search conducted under clause 15 (whether by that officer or detention officer or by another officer or detention officer); or
+
+                     (b)  a screening procedure conducted under clause 16 (whether by that officer or detention officer or by another officer or detention officer); or
+
+                     (c)  any other information that is available to the officer or detention officer.
+
+             (5)  An authorisation of a strip search given for the purposes of paragraph (3)(c):
+
+                     (a)  may be given by telephone, fax or other electronic means; and
+
+                     (b)  must be recorded in writing, and signed by the person giving the authorisation, within one business day after it is given.
+
+             (6)  A record made under paragraph (5)(b) is not a legislative instrument.
+
+             (7)  A failure to comply with paragraph (5)(b) does not affect the validity of a strip search conducted on the basis of that authorisation.
+
+             (8)  The power to authorise a strip search under paragraph (3)(c) cannot be delegated to any other person.
+
+             (9)  A power conferred on a magistrate by this clause is conferred on the magistrate in a personal capacity and not as a court or a member of a court.
+
+           (10)  The magistrate need not accept the power conferred.
+
+           (11)  A magistrate exercising a power under this clause has the same protection and immunity as if he or she were exercising that power as, or as a member of, the court of which the magistrate is a member.
+
+           (12)  To avoid doubt, a strip search of a detainee may be conducted under this clause irrespective of whether a search of the detainee is conducted under clause 15 or a screening procedure is conducted in relation to the detainee under clause 16.
+
+           (13)  In this clause:
+
+                    <a name="busi-dai"></a>**_business day_** means a day that is not a Saturday, Sunday or public holiday in the place where the authorisation is given.
+
+                    <a name="se-band-employe"></a>**_SES Band 3 employee_** means an SES employee with a classification of Senior Executive Band 3, and includes an SES employee who has been temporarily assigned duties that have been allocated a classification of Senior Executive Band 3.
+
+Note:          This clause corresponds closely to section 252A of the _Migration Act 1958_.
+
+##### <a id="18"></a>18  Rules for conducting a strip search
+
+             (1)  A strip search of a detainee under clause 17:
+
+                     (a)  must not subject the detainee to greater indignity than is reasonably necessary to conduct the strip search; and
+
+                     (b)  must be conducted in a private area; and
+
+                     (c)  must be conducted by an authorised officer of the same sex as the detainee; and
+
+                     (d)  subject to subclauses (2), (3) and (5), must not be conducted in the presence or view of a person who is of the opposite sex to the detainee; and
+
+                     (e)  subject to subclauses (2), (3) and (5), must not be conducted in the presence or view of a person whose presence is not necessary for the purposes of the strip search; and
+
+                      (f)  must not be conducted on a detainee who is under 10; and
+
+                     (g)  if the detainee is at least 10 but under 18, or is incapable of managing his or her affairs—must be conducted in the presence of:
+
+                              (i)  the detainee’s parent or guardian if that person is in detention with the detainee and is readily available at the same place; or
+
+                             (ii)  if that is not acceptable to the detainee or subparagraph (i) does not apply—another person (other than an authorised officer) who is capable of representing the detainee’s interests and who, as far as is practicable in the circumstances, is acceptable to the detainee; and
+
+                     (h)  subject to subclause (4), if the detainee is at least 18, and is not incapable of managing his or her affairs—must be conducted in the presence of another person (if any) nominated by the detainee, if that other person is readily available at the same place as the detainee, and willing to attend the strip search within a reasonable time; and
+
+                      (i)  must not involve a search of the detainee’s body cavities; and
+
+                      (j)  must not involve the removal of more items of clothing, or more visual inspection, than the authorised officer conducting the search believes on reasonable grounds to be necessary to determine whether there is hidden on the detainee, in his or her clothing or in a thing in his or her possession a weapon or other thing described in subclause 17(1); and
+
+                     (k)  must not be conducted with greater force than is reasonably necessary to conduct the strip search.
+
+             (2)  Paragraphs (1)(d) and (e) do not apply to a parent or guardian, or a person present because of subparagraph (1)(g)(ii), if the detainee has no objection to that person being present.
+
+             (3)  Paragraphs (1)(d) and (e) do not apply to a person nominated by the detainee under paragraph (1)(h) to attend the strip search.
+
+             (4)  Neither:
+
+                     (a)  a detainee’s refusal or failure to nominate a person under paragraph (1)(h) within a reasonable time; nor
+
+                     (b)  a detainee’s inability to nominate a person under that paragraph who is readily available at the same place as the detainee and willing to attend the strip search within a reasonable time;
+
+prevents a strip search being conducted.
+
+             (5)  A strip search of a detainee may be conducted with the assistance of another person if the authorised officer conducting the strip search considers that to be necessary for the purposes of conducting it. That person must not be of the opposite sex to the detainee unless:
+
+                     (a)  the person is a medical practitioner; and
+
+                     (b)  a medical practitioner of the same sex as the detainee is not available within a reasonable time.
+
+             (6)  An action or proceeding, whether civil or criminal, does not lie against a person who, at the request of an authorised officer, assists in conducting a strip search if the person acts in good faith and does not contravene this clause.
+
+             (7)  A detainee must be provided with adequate clothing if during or as a result of a strip search any of his or her clothing is:
+
+                     (a)  damaged or destroyed; or
+
+                     (b)  retained under clause 19.
+
+Note:          This clause corresponds closely to section 252B of the _Migration Act 1958_.
+
+### Division 4—Keeping of things found by screening or strip search of detainees
+
+##### <a id="19"></a>19  Possession and retention of certain things obtained during a screening procedure or strip search
+
+             (1)  An authorised officer may take possession of and retain a thing found in the course of conducting a screening procedure under clause 16 or conducting a strip search under clause 17 if the thing:
+
+                     (a)  might provide evidence of the commission of an offence against this Act; or
+
+                     (b)  is forfeited or forfeitable to the Commonwealth.
+
+             (2)  A weapon or other thing described in subclause 16(1) or 17(1) that is found in the course of conducting a screening procedure under clause 16 or a strip search under clause 17 is forfeited to the Commonwealth.
+
+             (3)  An authorised officer must not return a thing that is forfeited or forfeitable to the Commonwealth. Instead, the authorised officer must, as soon as practicable, give a thing that is forfeited under subclause (2) to a constable (within the meaning of the _Crimes Act 1914_).
+
+Note:          Subdivision C of Division 6 of Part 6 of this Act sets out the procedure for dealing with things seized as being forfeited under section 106A.
+
+             (4)  An authorised officer must take reasonable steps to return anything that is not forfeited or forfeitable but is retained under subclause (1) to the person from whom it was taken, or to the owner if that person is not entitled to possess it, if one of the following happens:
+
+                     (a)  it is decided that the thing is not to be used in evidence;
+
+                     (b)  the period of 60 days after the authorised officer takes possession of the thing ends.
+
+             (5)  However, the authorised officer does not have to take those steps if:
+
+                     (a)  in a paragraph (4)(b) case:
+
+                              (i)  proceedings in respect of which the thing might provide evidence have been instituted before the end of the 60 day period and have not been completed (including an appeal to a court in relation to those proceedings); or
+
+                             (ii)  the authorised officer may retain the thing because of an order under clause 21; or
+
+                     (b)  in any case—the authorised officer is otherwise authorised (by a law, or an order of a court or a tribunal, of the Commonwealth or a State or Territory) to retain, destroy or dispose of the thing.
+
+Note:          This clause corresponds closely to section 252C of the _Migration Act 1958_.
+
+##### <a id="20"></a>20  Authorised officer may apply for a thing to be retained for a further period
+
+             (1)  This clause applies if an authorised officer has taken possession of a thing referred to in subclause 19(4) and proceedings in respect of which the thing might provide evidence have not commenced before the end of:
+
+                     (a)  60 days after the authorised officer takes possession of the thing; or
+
+                     (b)  a period previously specified in an order of a magistrate under clause 21.
+
+             (2)  The authorised officer may apply to a magistrate for an order that the officer may retain the thing for a further period.
+
+             (3)  Before making the application, the authorised officer must:
+
+                     (a)  take reasonable steps to discover which persons’ interests would be affected by the retention of the thing; and
+
+                     (b)  if it is practicable to do so, notify each person who the authorised officer believes to be such a person of the proposed application.
+
+Note:          This clause corresponds closely to section 252D of the _Migration Act 1958_.
+
+             (4)  A notice under paragraph (3)(b) is not a legislative instrument.
+
+##### <a id="21"></a>21  Magistrate may order that thing be retained
+
+             (1)  The magistrate may order that the authorised officer who made an application under clause 20 may retain the thing if the magistrate is satisfied that it is necessary for the authorised officer to do so:
+
+                     (a)  for the purposes of an investigation as to whether an offence has been committed; or
+
+                     (b)  to enable evidence of an offence to be secured for the purposes of a prosecution.
+
+             (2)  The order must specify the period for which the authorised officer may retain the thing.
+
+             (3)  A power conferred on a magistrate by this clause is conferred on the magistrate in a personal capacity and not as a court or a member of a court.
+
+             (4)  The magistrate need not accept the power conferred.
+
+             (5)  A magistrate exercising a power under this clause has the same protection and immunity as if he or she were exercising that power as, or as a member of, the court of which the magistrate is a member.
+
+Note:          This clause corresponds closely to section 252E of the _Migration Act 1958_.
+
+### Division 5—Law applying to detainee in State or Territory prison etc.
+
+##### <a id="22"></a>22  Detainees held in State or Territory prisons or remand centres
+
+             (1)  This clause applies to a detainee if:
+
+                     (a)  he or she is held in detention in a prison or remand centre of a State or Territory; and
+
+                     (b)  a law of that State or Territory confers a power to search persons, or things in the possession of persons, serving sentences or being held in the prison or remand centre.
+
+             (2)  To the extent that the State or Territory law confers that power, or affects the exercise of that power, it applies to the detainee as though it were a law of the Commonwealth.
+
+             (3)  Clauses 16 and 17 do not apply to a detainee to whom this clause applies.
+
+Note:          This clause corresponds closely to section 252F of the _Migration Act 1958_.
+
+### Division 6—Screening detainees’ visitors
+
+##### <a id="23"></a>23  Powers concerning entry to premises where detainee is detained
+
+             (1)  An officer or detention officer may request that a person about to enter premises where a detainee is in detention do one or more of the following:
+
+                     (a)  walk through screening equipment;
+
+                     (b)  allow an officer or detention officer to pass hand-held screening equipment over or around the person or around things in the person’s possession;
+
+                     (c)  allow things in the person’s possession to pass through screening equipment or to be examined by X-ray.
+
+             (2)  **_Screening equipment_** means a metal detector or similar device for detecting objects or particular substances.
+
+             (3)  If an authorised officer suspects on reasonable grounds that a person about to enter premises where a detainee is in detention has in the person’s possession a thing that might:
+
+                     (a)  endanger the safety of the detainees, staff or other persons on the premises; or
+
+                     (b)  disrupt the order or security arrangements on the premises;
+
+the authorised officer may request that the person do some or all of the things in subclause (4) for the purpose of finding out whether the person has such a thing. A request may be made whether or not a request is also made to the person under subclause (1).
+
+             (4)  An authorised officer may request that the person do one or more of the following:
+
+                     (a)  allow the authorised officer to inspect the things in the person’s possession;
+
+                     (b)  remove some or all of the person’s outer clothing such as a coat, jacket or similar item;
+
+                     (c)  remove items from the pockets of the person’s clothing;
+
+                     (d)  open a thing in the person’s possession, or remove the thing’s contents, to allow the authorised officer to inspect the thing or its contents;
+
+                     (e)  leave a thing in the person’s possession, or some or all of its contents, in a place specified by the authorised officer if he or she suspects on reasonable grounds that the thing or its contents are capable of concealing something that might:
+
+                              (i)  endanger the safety of the detainees, staff or other persons on the premises; or
+
+                             (ii)  disrupt the order or security arrangements on the premises.
+
+             (5)  A person who leaves a thing (including any of its contents) in a place specified by an authorised officer is entitled to its return when the person leaves the premises.
+
+             (6)  However, if possession of the thing, or any of those contents, by the person is unlawful under a Commonwealth, State or Territory law applying to the premises:
+
+                     (a)  the thing or the contents must not be returned to the person; and
+
+                     (b)  an authorised officer must, as soon as practicable, give the thing or the contents to a constable (within the meaning of the _Crimes Act 1914_).
+
+             (7)  A person who is about to enter premises where a detainee is detained may be refused entry if the person does not comply with a request under this clause.
+
+Note:          This clause corresponds closely to section 252G of the _Migration Act 1958_.
+
+             (8)  In this clause:
+
+                    <a name="premis"></a>**_premises_** includes a place, a vessel, a vehicle and an aircraft.
+
+## Part 4—Detainees’ rights to facilities for obtaining legal advice etc.
+
+##### <a id="24"></a>24  Detainee may have access to certain advice, facilities etc.
+
+                   The person responsible for detention of a detainee must, at the detainee’s request, afford to him or her all reasonable facilities for obtaining legal advice or taking legal proceedings in relation to his or her detention.
+
+Note:          This clause corresponds to section 256 of the _Migration Act 1958_.
+
+## Part 5—Identifying detainees
+
+### Division 1—Preliminary
+
+##### <a id="25"></a>25  Definitions
+
+                   In this Part, unless the contrary intention appears:
+
+                    <a name="identif-test"></a>**_identification test_** means a test carried out in order to obtain a personal identifier.
+
+                    <a name="incap-person"></a>**_incapable person_** means a person who is incapable of understanding the general nature and effect of, and purposes of, a requirement to provide a personal identifier.
+
+                    <a name="independ-person"></a>**_independent person_** means a person (other than an officer, detention officer or authorised officer) who:
+
+                     (a)  is capable of representing the interests of a non-citizen who is providing, or is to provide, a personal identifier; and
+
+                     (b)  as far as practicable, is acceptable to the non-citizen who is providing, or is to provide, the personal identifier; and
+
+                     (c)  if the non-citizen is a minor—is capable of representing the minor’s best interests.
+
+                    <a name="minor"></a>**_minor_** means a person who is less than 18 years old.
+
+                    <a name="non-citizen"></a>**_non-citizen_** means a person who is not an Australian citizen.
+
+                    <a name="person-identifi"></a>**_personal identifier_** has the meaning given by clause 26.
+
+Note:          The definitions of expressions in this clause correspond closely to definitions of those expressions in section 5 of the _Migration Act 1958_.
+
+##### <a id="26"></a>26  Meaning of _personal identifier_
+
+             (1)  In this Part:
+
+                    <a name="person-identifi"></a>**_personal identifier_** means any of the following (including any of the following in digital form):
+
+                     (a)  fingerprints or handprints of a person (including those taken using paper and ink or digital livescanning technologies);
+
+                     (b)  a measurement of a person’s height and weight;
+
+                     (c)  a photograph or other image of a person’s face and shoulders;
+
+                     (d)  an audio or a video recording of a person (other than a video recording under clause 37);
+
+                     (e)  an iris scan;
+
+                      (f)  a person’s signature;
+
+                     (g)  any other identifier prescribed by the regulations, other than an identifier the obtaining of which would involve the carrying out of an intimate forensic procedure within the meaning of section 23WA of the _Crimes Act 1914_.
+
+             (2)  Before the Governor-General makes regulations for the purposes of paragraph (1)(g) prescribing an identifier, the Minister must be satisfied that:
+
+                     (a)  obtaining the identifier would not involve the carrying out of an intimate forensic procedure within the meaning of section 23WA of the _Crimes Act 1914_; and
+
+                     (b)  the identifier is an image of, or a measurement or recording of, an external part of the body; and
+
+                     (c)  obtaining the identifier will promote one or more of the purposes referred to in subclause (3).
+
+             (3)  The purposes are:
+
+                     (a)  to assist in the identification of, and to authenticate the identity of, any person who can be required under this Act to provide a personal identifier; and
+
+                     (b)  to assist in identifying, in the future, any such person; and
+
+                     (c)  to enhance AFMA’s ability to identify non-citizens who have a criminal history relating to fisheries; and
+
+                     (d)  to combat document and identity fraud in fisheries matters; and
+
+                     (e)  to complement anti-people smuggling measures; and
+
+                      (f)  to inform the governments of foreign countries of the identity of non-citizens who have been detained under, or charged with offences against, this Act; and
+
+                     (g)  to facilitate international cooperation to combat fishing activities that involve a breach of the laws of Australia or of a foreign country.
+
+Note:          This clause corresponds closely to section 5A of the _Migration Act 1958_.
+
+##### <a id="27"></a>27  Limiting the types of identification tests that authorised officers may carry out
+
+             (1)  AFMA may, in an instrument authorising an officer or detention officer as an authorised officer for the purposes of carrying out identification tests under this Part, specify the types of identification tests that the authorised officer may carry out.
+
+             (2)  Such an authorised officer is not an authorised officer in relation to carrying out an identification test that is not of a type so specified.
+
+Note:          This clause corresponds closely to section 5D of the _Migration Act 1958_.
+
+### Division 2—Identification of detainees
+
+#### Subdivision A—Provision of personal identifiers
+
+##### <a id="28"></a>28  Detainees must provide personal identifiers
+
+             (1)  A non-citizen in detention must (other than in the prescribed circumstances) provide to an authorised officer one or more personal identifiers.
+
+Note:          A person who is an Australian citizen, or is a non-citizen but an Australian resident, may be in detention but must be released as soon as an officer or detention officer knows or reasonably believes the person is an Australian citizen or resident.
+
+             (2)  An authorised officer must not require, for the purposes of subclause (1), a detainee to provide a personal identifier other than any of the following (including any of the following in digital form):
+
+                     (a)  fingerprints or handprints of the detainee (including those taken using paper and ink or digital livescanning technologies);
+
+                     (b)  a measurement of the detainee’s height and weight;
+
+                     (c)  a photograph or other image of the detainee’s face and shoulders;
+
+                     (d)  the detainee’s signature;
+
+                     (e)  any other personal identifier of a type prescribed for the purposes of this paragraph.
+
+Note:          Division 3 sets out further restrictions on the personal identifiers that minors and incapable persons can be required to provide.
+
+             (3)  The one or more personal identifiers are to be provided by way of one or more identification tests carried out by the authorised officer in accordance with this Division.
+
+Note 1:       Subject to certain restrictions, clause 32 allows reasonable force to be used to carry out identification tests under this Division.
+
+Note 2:       This clause corresponds closely to section 261AA of the _Migration Act 1958_.
+
+##### <a id="29"></a>29  Authorised officers must require and carry out identification tests
+
+             (1)  The authorised officer must, other than in the circumstances prescribed for the purposes of subclause 28(1):
+
+                     (a)  require the non-citizen to provide one or more personal identifiers, of the type or types prescribed, by way of one or more identification tests carried out by the authorised officer; and
+
+                     (b)  carry out the one or more identification tests on the non-citizen.
+
+             (2)  However:
+
+                     (a)  if the types of identification tests that the authorised officer may carry out is specified under clause 27—each identification test must be of a type so specified; and
+
+                     (b)  each identification test must be carried out in accordance with Subdivision B; and
+
+                     (c)  unless the authorised officer has reasonable grounds to believe that the non-citizen is not a minor or an incapable person—each identification test must be carried out in accordance with the additional requirements of Division 3.
+
+Note:          Subclauses (1) and (2) correspond closely to section 261AB of the _Migration Act 1958_.
+
+             (3)  If:
+
+                     (a)  the authorised officer is authorised because of clause 7 (which effectively treats as authorised officers for the purposes of certain provisions of this Schedule certain persons who are authorised officers for the purposes of certain provisions of the _Migration Act 1958_); and
+
+                     (b)  an instrument under section 5D of that Act specifies the types of identification test the authorised officer may carry out;
+
+paragraph (2)(a) of this clause has effect as if the specified types (except any specified under subclause 7(3) in relation to the authorised officer) had been specified under clause 27.
+
+##### <a id="30"></a>30  Information to be provided before carrying out identification tests
+
+             (1)  Before carrying out an identification test, the authorised officer must:
+
+                     (a)  inform the non-citizen that the non-citizen may ask that an independent person be present while the identification test is carried out and that the test be carried out by a person of the same sex as the non-citizen; and
+
+                     (b)  inform the non-citizen of such other matters as are specified in the regulations.
+
+             (2)  For the purposes of subclause (1), the authorised officer **_informs_** the non-citizen of a matter if the authorised officer informs the non-citizen of the matter, through an interpreter if necessary, in a language (including sign language or braille) in which the non-citizen is able to communicate with reasonable fluency.
+
+             (3)  The authorised officer may comply with this clause by giving to the non-citizen, in accordance with the regulations, a form setting out the information specified in the regulations. However, the information must be in a language (including braille) in which the non-citizen is able to communicate with reasonable fluency.
+
+Note:          This clause corresponds closely to section 261AC of the _Migration Act 1958_.
+
+             (4)  A form mentioned in subclause (3) is not a legislative instrument.
+
+#### Subdivision B—How identification tests are carried out
+
+##### <a id="31"></a>31  General rules for carrying out identification tests
+
+                   An identification test under this Division:
+
+                     (a)  must be carried out in circumstances affording reasonable privacy to the non-citizen; and
+
+                     (b)  if the non-citizen so requests and it is practicable to comply with the request—must not be carried out in the presence or view of a person who is of the opposite sex to the non-citizen; and
+
+                     (c)  must not be carried out in the presence or view of a person whose presence is not necessary for the purposes of the identification test or is not required or permitted by another provision of this Act; and
+
+                     (d)  must not involve the removal of more clothing than is necessary for carrying out the test; and
+
+                     (e)  must not involve more visual inspection than is necessary for carrying out the test; and
+
+                      (f)  if the test is one of 2 or more identification tests to be carried out on the non-citizen—must be carried out at the same time as the other identification tests, if it is practicable to do so.
+
+Note:          This clause corresponds closely to section 261AD of the _Migration Act 1958_.
+
+##### <a id="32"></a>32  Use of force in carrying out identification tests
+
+When use of force is permitted
+
+             (1)  Subject to subclause (2) and clause 33, an authorised officer, or a person authorised under clause 34 to help the authorised officer, may use reasonable force:
+
+                     (a)  to enable the identification test to be carried out; or
+
+                     (b)  to prevent the loss, destruction or contamination of any personal identifier or any meaningful identifier derived from the personal identifier.
+
+However, this clause does not authorise the use of force against a minor or an incapable person, or if the personal identifier in question is a person’s signature.
+
+             (2)  The authorised officer or person must not use force unless:
+
+                     (a)  the non-citizen required to provide the personal identifier in question has refused to allow the identification test to be carried out; and
+
+                     (b)  all reasonable measures to carry out the identification test without the use of force have been exhausted; and
+
+                     (c)  use of force in carrying out the identification test is authorised under subclause (4).
+
+Applications for authorisation to use force
+
+             (3)  An authorised officer may apply to a senior authorising officer (who is not an authorised officer referred to in subclause (1)) for an authorisation to use force in carrying out the identification test.
+
+Authorisation to use force
+
+             (4)  The senior authorising officer may authorise the use of force in carrying out the identification test if he or she is reasonably satisfied that:
+
+                     (a)  the non-citizen required to provide the personal identifier in question has refused to allow the identification test to be carried out; and
+
+                     (b)  all reasonable measures to carry out the identification test without the use of force have been exhausted.
+
+             (5)  An authorisation under subclause (4):
+
+                     (a)  may be given by telephone, fax or other electronic means; and
+
+                     (b)  must be recorded in writing, and signed by the person giving the authorisation, within one business day after it is given.
+
+             (6)  A record made under paragraph (5)(b) is not a legislative instrument.
+
+             (7)  A failure to comply with paragraph (5)(b) does not affect the validity of an identification test carried out on the basis of that authorisation.
+
+             (8)  The power to give an authorisation under subclause (4) cannot be delegated to any other person.
+
+Definition
+
+             (9)  In this clause:
+
+                    <a name="senior-authorising-offic"></a>**_senior authorising officer_** means an officer, or detention officer, whom AFMA has authorised, or who is included in a class of officers or detention officers whom AFMA has authorised, to perform the functions of a senior authorising officer under this clause.
+
+Note:          This clause corresponds closely to section 261AE of the _Migration Act 1958_.
+
+##### <a id="33"></a>33  Identification tests not to be carried out in cruel, inhuman or degrading manner etc.
+
+                   For the purposes of this Act, the carrying out of the identification test is not of itself taken:
+
+                     (a)  to be cruel, inhuman or degrading; or
+
+                     (b)  to be a failure to treat a person with humanity and with respect for human dignity.
+
+However, nothing in this Act authorises the carrying out of the identification test in a cruel, inhuman or degrading manner, or in a manner that fails to treat a person with humanity and with respect for human dignity.
+
+Note:          This clause corresponds closely to section 261AF of the _Migration Act 1958_.
+
+##### <a id="34"></a>34  Authorised officer may get help to carry out identification tests
+
+                   An authorised officer may ask another authorised officer or an officer or detention officer to help him or her to carry out the identification test, and the other person may give that help.
+
+Note:          This clause corresponds closely to section 261AG of the _Migration Act 1958_.
+
+##### <a id="35"></a>35  Identification tests to be carried out by authorised officer of same sex as non-citizen
+
+                   If the non-citizen requests that the identification test be carried out by an authorised officer of the same sex as the non-citizen, the test must only be carried out by an authorised officer of the same sex as the non-citizen.
+
+Note:          This clause corresponds closely to section 261AH of the _Migration Act 1958_.
+
+##### <a id="36"></a>36  Independent person to be present
+
+                   The identification test must be carried out in the presence of an independent person if:
+
+                     (a)  force is used in carrying out the identification test; or
+
+                     (b)  both of the following apply:
+
+                              (i)  the non-citizen requests that an independent person be present while the identification test is being carried out;
+
+                             (ii)  an independent person is readily available at the same place as the non-citizen and is willing to attend the test within a reasonable time.
+
+Note:          This clause corresponds closely to section 261AI of the _Migration Act 1958_.
+
+##### <a id="37"></a>37  Recording of identification tests
+
+             (1)  An authorised officer may video record the carrying out of the identification test.
+
+             (2)  If the carrying out of the identification test is not video recorded, the authorised officer may decide that the identification test must be carried out in the presence of an independent person.
+
+Note:          This clause corresponds closely to section 261AJ of the _Migration Act 1958_.
+
+##### <a id="38"></a>38  Retesting
+
+When retesting is permitted
+
+             (1)  If:
+
+                     (a)  an authorised officer has carried out an identification test (the **_earlier test_**) on a non-citizen in accordance with this Division (including a test authorised under subclause (4)); and
+
+                     (b)  either:
+
+                              (i)  a personal identifier that is provided as a result of the earlier test being carried out is unusable; or
+
+                             (ii)  an authorised officer, officer or detention officer is not satisfied about the integrity of that personal identifier;
+
+the authorised officer who carried out the earlier test or another authorised officer may require the non-citizen to provide the personal identifier again, and may carry out the test again in accordance with this Division, if:
+
+                     (c)  the requirement is made while the earlier test is being carried out or immediately after it was carried out; or
+
+                     (d)  carrying out the test again is authorised under subclause (4).
+
+             (2)  If the non-citizen is required under subclause (1) to provide the personal identifier again, the non-citizen is taken, for the purposes of this Division, not to have provided the personal identifier as a result of the earlier test being carried out.
+
+Applications for authorisation to retest
+
+             (3)  An authorised officer may apply for an authorisation to carry out the test again. The application is to be made to:
+
+                     (a)  if the earlier test was not a test authorised under subclause (4)—a senior authorising officer (who is not an authorised officer, officer or detention officer referred to in subclause (1)); or
+
+                     (b)  if the earlier test was a test authorised under subclause (4) by a senior authorising officer—the Managing Director of AFMA, the Secretary of the Department or an SES Band 3 employee in the Department (who is not an authorised officer, officer or detention officer referred to in subclause (1)).
+
+Authorisation to retest
+
+             (4)  The senior authorising officer, Managing Director, Secretary or SES Band 3 employee (as the case requires) may authorise the test to be carried out again if:
+
+                     (a)  he or she is reasonably satisfied that the personal identifier that is provided as a result of the earlier test being carried out is unusable; or
+
+                     (b)  he or she is not reasonably satisfied about the integrity of that personal identifier.
+
+             (5)  An authorisation under subclause (4):
+
+                     (a)  may be given by telephone, fax or other electronic means; and
+
+                     (b)  must be recorded in writing, and signed by the person giving the authorisation, within one business day after it is given.
+
+             (6)  A record made under paragraph (5)(b) is not a legislative instrument.
+
+             (7)  A failure to comply with paragraph (5)(b) does not affect the validity of an identification test carried out on the basis of that authorisation.
+
+             (8)  The power to give an authorisation under subclause (4) cannot be delegated to any other person.
+
+Use of force
+
+             (9)  An authorisation under subclause (4) does not authorise the use of force in carrying out an identification test.
+
+Note:          See clause 32 on the use of force in carrying out identification tests.
+
+Effect of refusing to authorise retesting
+
+           (10)  If an application for an authorisation to carry out an identification test again on a non-citizen is refused, the non-citizen is taken, for the purposes of this Act, to have complied with any requirement under this Act to provide the personal identifier in question.
+
+Definitions
+
+           (11)  In this clause:
+
+                    <a name="senior-authorising-offic"></a>**_senior authorising officer_** means an officer, or detention officer, who:
+
+                     (a)  has been authorised, or is included in a class of officers or detention officers who have been authorised, by AFMA to perform the functions of a senior authorising officer under this clause; and
+
+                     (b)  is not the Managing Director of AFMA, the Secretary of the Department or an SES Band 3 employee in the Department.
+
+                    <a name="se-band-employe"></a>**_SES Band 3 employee_** means an SES employee with a classification of Senior Executive Band 3, and includes an SES employee who has been temporarily assigned duties that have been allocated a classification of Senior Executive Band 3.
+
+Note:          This clause corresponds closely to section 261AK of the _Migration Act 1958_.
+
+#### Subdivision C—Obligations relating to video recordings of identification tests
+
+##### <a id="39"></a>39  Definitions
+
+                   In this Subdivision, unless the contrary intention appears:
+
+                    <a name="permit-provision"></a>**_permitted provision_**, of a video recording, has the meaning given by subclause 42(2).
+
+                    <a name="provid"></a>**_provide_**, in relation to a video recording, includes provide access to the recording.
+
+                    <a name="relat-docum"></a>**_related document_** means a document that contains information, derived from a video recording made under clause 37 or from a copy of such a recording, from which the identity of the individual on whom the identification test in question was carried out is apparent or can reasonably be ascertained.
+
+                    <a name="video-record"></a>**_video recording_** means a video recording made under clause 37 or a copy of such a recording, and includes a related document.
+
+Note:          This clause corresponds closely to section 261AKA of the _Migration Act 1958_.
+
+##### <a id="40"></a>40  Accessing video recordings
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person accesses a video recording; and
+
+                     (b)  the person is not authorised under clause 41 to access the video recording for the purpose for which the person accessed it.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (2)  This clause does not apply if the access is through the provision of a video recording that is a permitted provision.
+
+Note 1:       A defendant bears an evidential burden in relation to the matter in subclause (2) (see subsection 13.3(3) of the _Criminal Code_).
+
+Note 2:       This clause corresponds closely to section 261AKB of the _Migration Act 1958_.
+
+##### <a id="41"></a>41  Authorising access to video recordings
+
+             (1)  AFMA may, in writing, authorise a specified person, or any person included in a specified class of persons, to access:
+
+                     (a)  all video recordings; or
+
+                     (b)  a specified video recording, or video recordings of a specified kind.
+
+             (2)  AFMA must specify in an authorisation under this clause, as the purpose or purposes for which access is authorised, one or more of the following purposes:
+
+                     (a)  providing a video recording to another person in accordance with this Subdivision;
+
+                     (b)  administering or managing the storage of video recordings;
+
+                     (c)  making a video recording available to the person to whom it relates;
+
+                     (d)  modifying related documents in order to correct errors or ensure compliance with appropriate standards;
+
+                     (e)  any purpose connected with determining whether a civil or criminal liability has arisen from a person carrying out or helping to carry out an identification test under this Act;
+
+                      (f)  complying with laws of the Commonwealth or the States or Territories;
+
+                     (g)  disclosing personal information under clause 59 (about disclosure of information about a person who has been in detention, for the purposes of the immigration detention or removal of the person).
+
+             (3)  However, AFMA must not specify as a purpose for which access is authorised a purpose that will include or involve the purpose of:
+
+                     (a)  investigating an offence against a law of the Commonwealth or a State or Territory (other than an offence involving whether an identification test was carried out lawfully); or
+
+                     (b)  prosecuting a person for such an offence;
+
+if the identifying information in question relates to a personal identifier of a prescribed type.
+
+Note:          This clause corresponds closely to section 261AKC of the _Migration Act 1958_.
+
+##### <a id="42"></a>42  Providing video recordings
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person’s conduct causes a video recording to be provided to another person; and
+
+                     (b)  the provision of the recording is not a permitted provision of the recording.
+
+                    Penalty:  Imprisonment for 2 years.
+
+             (2)  A **_permitted provision_** of a video recording is a provision of the recording that:
+
+                     (a)  is for the purpose of administering or managing the storage of video recordings; or
+
+                     (b)  is for the purpose of making the video recording in question available to the non-citizen to whom it relates; or
+
+                     (c)  is for the purpose of a proceeding, before a court or tribunal, relating to the non-citizen to whom the video recording in question relates; or
+
+                     (d)  is for any purpose connected with determining whether a civil or criminal liability has arisen from a person carrying out or helping to carry out an identification test under this Act; or
+
+                     (e)  is for the purpose of an investigation by the Privacy Commissioner or the Ombudsman relating to carrying out an identification test; or
+
+                      (f)  is made to a prescribed body or agency for the purpose of the body or agency inquiring into the operation of provisions of this Act relating to carrying out an identification test; or
+
+                     (g)  takes place with the written consent of the non-citizen to whom the video recording in question relates; or
+
+                     (h)  is a disclosure authorised by clause 59 (about disclosure of information about a person who has been in detention, for the purposes of the immigration detention or removal of the person).
+
+             (3)  However, a provision of a video recording is not a permitted provision of the recording if:
+
+                     (a)  it constitutes a disclosure of identifying information relating to a personal identifier of a prescribed type; and
+
+                     (b)  it is for the purpose of:
+
+                              (i)  investigating an offence against a law of the Commonwealth or a State or Territory (other than an offence involving whether an identification test was carried out lawfully); or
+
+                             (ii)  prosecuting a person for such an offence.
+
+Note:          This clause corresponds closely to section 261AKD of the _Migration Act 1958_.
+
+##### <a id="43"></a>43  Unauthorised modification of video recordings
+
+                   A person commits an offence if:
+
+                     (a)  the person causes any unauthorised modification of a video recording; and
+
+                     (b)  the person intends to cause the modification; and
+
+                     (c)  the person knows that the modification is unauthorised.
+
+                    Penalty:  Imprisonment for 2 years.
+
+##### <a id="44"></a>44  Unauthorised impairment of video recordings
+
+                   A person commits an offence if:
+
+                     (a)  the person causes any unauthorised impairment of:
+
+                              (i)  the reliability of a video recording; or
+
+                             (ii)  the security of the storage of a video recording; or
+
+                            (iii)  the operation of a system by which a video recording is stored; and
+
+                     (b)  the person intends to cause the impairment; and
+
+                     (c)  the person knows that the impairment is unauthorised.
+
+                    Penalty:  Imprisonment for 2 years.
+
+##### <a id="45"></a>45  Meanings of _unauthorised modification_ and _unauthorised impairment_ etc.
+
+             (1)  In this Subdivision:
+
+                     (a)  modification of a video recording; or
+
+                     (b)  impairment of the reliability of a video recording; or
+
+                     (c)  impairment of the security of the storage of a video recording; or
+
+                     (d)  impairment of the operation of a system by which a video recording is stored;
+
+by a person is unauthorised if the person is not entitled to cause that modification or impairment.
+
+             (2)  Any such modification or impairment caused by the person is not unauthorised merely because he or she has an ulterior purpose for causing it.
+
+             (3)  For the purposes of an offence under this Subdivision, a person causes any such unauthorised modification or impairment if the person’s conduct substantially contributes to it.
+
+             (4)  For the purposes of subclause (1), if:
+
+                     (a)  a person causes any modification or impairment of a kind mentioned in that subclause; and
+
+                     (b)  the person does so under a warrant issued under the law of the Commonwealth, a State or a Territory;
+
+the person is entitled to cause that modification or impairment.
+
+Note:          This clause corresponds closely to section 261AKG of the _Migration Act 1958_.
+
+##### <a id="46"></a>46  Destroying video recordings
+
+                   A person commits an offence if:
+
+                     (a)  the person is the person who has day-to-day responsibility for the system under which a video recording is stored; and
+
+                     (b)  the person fails physically to destroy the recording, and all copies of the recording, within 10 years after it was made.
+
+                    Penalty:  Imprisonment for 2 years.
+
+### Division 3—Identification of minors and incapable persons
+
+##### <a id="47"></a>47  Minors
+
+Minors less than 15 years old
+
+             (1)  A non-citizen who is less than 15 years old must not be required under this Act to provide a personal identifier other than a personal identifier consisting of:
+
+                     (a)  a measurement of the non-citizen’s height and weight; or
+
+                     (b)  the non-citizen’s photograph or other image of the non-citizen’s face and shoulders.
+
+Persons present while identification test is carried out
+
+             (2)  If a non-citizen who is a minor provides a personal identifier, in accordance with a requirement under this Act, by way of an identification test carried out by an authorised officer, the test must be carried out in the presence of:
+
+                     (a)  a parent or guardian of the minor; or
+
+                     (b)  an independent person.
+
+             (3)  However, if the Minister administering the _Immigration (Guardianship of Children) Act 1946_ is the guardian of the minor, the test must be carried out in the presence of an independent person other than that Minister.
+
+Note:          This clause corresponds closely to subsections 261AL(1), (5) and (6) of the _Migration Act 1958_.
+
+##### <a id="48"></a>48  Incapable persons
+
+Incapable persons
+
+             (1)  A non-citizen who is an incapable person must not be required under this Act to provide a personal identifier other than a personal identifier consisting of:
+
+                     (a)  a measurement of the non-citizen’s height and weight; or
+
+                     (b)  the non-citizen’s photograph or other image of the non-citizen’s face and shoulders.
+
+Persons present while identification test is carried out
+
+             (2)  If a non-citizen who is an incapable person provides a personal identifier, in accordance with a requirement under this Act, by way of an identification test carried out by an authorised officer, the test must be carried out in the presence of:
+
+                     (a)  a parent or guardian of the incapable person; or
+
+                     (b)  an independent person.
+
+Note:          This clause corresponds closely to subsections 261AM(1) and (4) of the _Migration Act 1958_.
+
+### Division 4—Obligations relating to detainees’ identifying information
+
+#### Subdivision A—Preliminary
+
+##### <a id="49"></a>49  Definitions
+
+                   In this Division:
+
+                    <a name="disclos"></a>**_disclose_**, in relation to identifying information that is a personal identifier provided under clause 28, includes provide unauthorised access to the personal identifier.
+
+Note:          Clause 52 deals with authorised access to identifying information.
+
+                    <a name="identifying-inform"></a>**_identifying information_** means the following:
+
+                     (a)  any personal identifier provided under clause 28;
+
+                     (b)  any meaningful identifier derived from any such personal identifier;
+
+                     (c)  any record of a result of analysing any such personal identifier or any meaningful identifier derived from any such personal identifier;
+
+                     (d)  any other information, derived from any such personal identifier, from any meaningful identifier derived from any such personal identifier or from any record of a kind referred to in paragraph (c), that could be used to discover a particular person’s identity or to get information about a particular person.
+
+                    <a name="permit-disclosur"></a>**_permitted disclosure_** has the meaning given by subclauses 53(2) and (3).
+
+                    <a name="unauthorised-impair"></a>**_unauthorised impairment_** has the meaning given by clause 57.
+
+                    <a name="unauthorised-modif"></a>**_unauthorised modification_** has the meaning given by clause 57.
+
+Note:          This clause corresponds closely to section 336A of the _Migration Act 1958_.
+
+##### <a id="50"></a>50  Application
+
+                   Section 15.4 of the _Criminal Code_ (extended geographical jurisdiction—category D) applies to all offences against this Division.
+
+Note:          This clause corresponds closely to section 336B of the _Migration Act 1958_.
+
+#### Subdivision B—Accessing identifying information
+
+##### <a id="51"></a>51  Accessing identifying information
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person accesses identifying information; and
+
+                     (b)  the person is not authorised under clause 52 to access the identifying information for the purpose for which the person accessed it.
+
+                    Penalty:  Imprisonment for 2 years.
+
+          (1A)  This clause does not apply if the person believes on reasonable grounds that the access is necessary to prevent or lessen a serious and imminent threat to the life or health of the person or of any other person.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subclause (1A) (see subsection 13.3(3) of the _Criminal Code_).
+
+             (2)  This clause does not apply if the access is through a disclosure that is a permitted disclosure.
+
+Note 1:       A defendant bears an evidential burden in relation to the matter in subclause (2) (see subsection 13.3(3) of the _Criminal Code_).
+
+Note 2:       This clause corresponds closely to section 336C of the _Migration Act 1958_.
+
+##### <a id="52"></a>52  Authorising access to identifying information
+
+             (1)  AFMA may, in writing, authorise a specified person, or any person included in a specified class of persons, to access identifying information of the kind specified in the authorisation.
+
+             (2)  AFMA must specify in an authorisation under this clause, as the purpose or purposes for which access is authorised, one or more of the following purposes:
+
+                     (a)  one or more of the purposes set out in subclause 26(3);
+
+                     (b)  disclosing identifying information in accordance with this Division;
+
+                     (c)  administering or managing the storage of identifying information;
+
+                     (d)  making identifying information available to the person to whom it relates;
+
+                     (e)  modifying identifying information to enable it to be matched with other identifying information;
+
+                      (f)  modifying identifying information in order to correct errors or ensure compliance with appropriate standards;
+
+                     (g)  the purposes of this Act;
+
+                     (h)  complying with laws of the Commonwealth or the States or Territories;
+
+                      (i)  disclosing personal information under clause 59 (about disclosure of information about a person who has been in detention, for the purposes of the immigration detention or removal of the person).
+
+             (3)  However, AFMA must not specify as a purpose for which access is authorised a purpose that will include or involve the purpose of:
+
+                     (a)  investigating an offence against a law of the Commonwealth or a State or Territory; or
+
+                     (b)  prosecuting a person for such an offence;
+
+if the identifying information in question relates to a personal identifier of a prescribed type.
+
+Note:          This clause corresponds closely to section 336D of the _Migration Act 1958_.
+
+#### Subdivision C—Disclosing identifying information
+
+##### <a id="53"></a>53  Disclosing identifying information
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person’s conduct causes disclosure of identifying information; and
+
+                     (b)  the disclosure is not a permitted disclosure.
+
+                    Penalty:  Imprisonment for 2 years.
+
+          (1A)  This clause does not apply if the person believes on reasonable grounds that the disclosure is necessary to prevent or lessen a serious and imminent threat to the life or health of the person or of any other person.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subclause (1A) (see subsection 13.3(3) of the _Criminal Code_).
+
+             (2)  A **_permitted disclosure_** is a disclosure that:
+
+                     (a)  is for the purpose of data-matching in order to:
+
+                              (i)  identify, or authenticate the identity of, a person; or
+
+                             (ii)  facilitate the processing of persons entering or departing from Australia; or
+
+                            (iii)  identify non-citizens who have a criminal history, who are of character concern (as defined in the _Migration Act 1958_) or who are of national security concern; or
+
+                            (iv)  combat document and identity fraud in immigration matters; or
+
+                             (v)  ascertain whether an applicant for a protection visa had sufficient opportunity to avail himself or herself of protection before arriving in Australia; or
+
+                            (vi)  inform the governments of foreign countries of the identity of non-citizens who are, or are to be, removed from Australia; or
+
+                     (b)  is for the purpose of administering or managing the storage of identifying information; or
+
+                     (c)  is authorised under clause 54 and is for the purpose, or one or more of the purposes, for which the disclosure is authorised; or
+
+                     (d)  is for the purpose of making the identifying information in question available to the person to whom it relates; or
+
+                    (da)  is to an agency of the Commonwealth or of a State or Territory in order to verify that a person is an Australian citizen or holds a visa of a particular class; or
+
+                     (e)  takes place under an arrangement entered into with an agency of the Commonwealth, or with a State or Territory or an agency of a State or Territory, for the exchange of identifying information; or
+
+                    (ea)  is reasonably necessary for the enforcement of the criminal law of the Commonwealth or of a State or Territory; or
+
+                    (eb)  is required by or under a law of the Commonwealth or of a State or Territory; or
+
+                      (f)  is for the purpose of a proceeding, before a court or tribunal, relating to the person to whom the identifying information in question relates; or
+
+                     (g)  is for the purpose of an investigation by the Privacy Commissioner or the Ombudsman relating to action taken by the Department; or
+
+                     (h)  is made to a prescribed body or agency for the purpose of the body or agency inquiring into the operation of provisions of this Act relating to:
+
+                              (i)  carrying out an identification test; or
+
+                             (ii)  requiring the provision of a personal identifier; or
+
+                    (ha)  is a disclosure of an audio or a video recording for the purposes of:
+
+                              (i)  this Act or the regulations; and
+
+                             (ii)  transcribing or translating the recording, or conducting language analysis or accent analysis of the recording; or
+
+                      (i)  takes place with the written consent of the person to whom the identifying information in question relates; or
+
+                      (j)  is a disclosure authorised by clause 59 (about disclosure of information about a person who has been in detention, for the purposes of the immigration detention or removal of the person).
+
+             (3)  However, a disclosure is not a permitted disclosure if:
+
+                     (a)  it is a disclosure of identifying information relating to a personal identifier of a prescribed type; and
+
+                     (b)  it is for the purpose of:
+
+                              (i)  investigating an offence against a law of the Commonwealth or a State or Territory; or
+
+                             (ii)  prosecuting a person for such an offence.
+
+Note:          This clause corresponds closely to section 336E of the _Migration Act 1958_.
+
+##### <a id="54"></a>54  Authorising disclosure of identifying information to foreign countries etc.
+
+             (1)  AFMA may, in writing, authorise a specified officer or detention officer, any officer or detention officer included in a specified class of officers or detention officers, or an Agency (as defined in the _Public Service Act 1999_) prescribed by the regulations, to disclose identifying information of the kind specified in the authorisation to one or more of the following:
+
+                     (a)  one or more specified foreign countries;
+
+                     (b)  one or more specified bodies each of which is:
+
+                              (i)  a police force or police service of a foreign country; or
+
+                             (ii)  a law enforcement body of a foreign country; or
+
+                            (iii)  a border control body of a foreign country;
+
+                     (c)  one or more specified international organisations, or specified organisations of foreign countries, that are responsible for fisheries matters;
+
+                     (d)  one or more prescribed bodies of a foreign country, of the Commonwealth or of a State or Territory;
+
+                     (e)  one or more prescribed international organisations.
+
+             (2)  AFMA must specify in the authorisation, as the purpose or purposes for which disclosure is authorised, one or more of the purposes set out in subclause 26(3).
+
+Note:          This clause corresponds closely to subsections 336F(1) and (2) of the _Migration Act 1958_.
+
+#### Subdivision D—Modifying and impairing identifying information
+
+##### <a id="55"></a>55  Unauthorised modification of identifying information
+
+                   A person commits an offence if:
+
+                     (a)  the person causes any unauthorised modification of identifying information; and
+
+                     (b)  the person intends to cause the modification; and
+
+                     (c)  the person knows that the modification is unauthorised.
+
+                    Penalty:  Imprisonment for 2 years.
+
+##### <a id="56"></a>56  Unauthorised impairment of identifying information
+
+                   A person commits an offence if:
+
+                     (a)  the person causes any unauthorised impairment of:
+
+                              (i)  the reliability of identifying information; or
+
+                             (ii)  the security of the storage of identifying information; or
+
+                            (iii)  the operation of a system by which identifying information is stored; and
+
+                     (b)  the person intends to cause the impairment; and
+
+                     (c)  the person knows that the impairment is unauthorised.
+
+                    Penalty:  Imprisonment for 2 years.
+
+##### <a id="57"></a>57  Meanings of _unauthorised modification_ and _unauthorised impairment_ etc.
+
+             (1)  In this Division:
+
+                     (a)  modification of identifying information; or
+
+                     (b)  impairment of the reliability of identifying information; or
+
+                     (c)  impairment of the security of the storage of identifying information; or
+
+                     (d)  impairment of the operation of a system by which identifying information is stored;
+
+by a person is unauthorised if the person is not entitled to cause that modification or impairment.
+
+             (2)  Any such modification or impairment caused by the person is not unauthorised merely because he or she has an ulterior purpose for causing it.
+
+             (3)  For the purposes of an offence under this Division, a person causes any such unauthorised modification or impairment if the person’s conduct substantially contributes to it.
+
+             (4)  For the purposes of subclause (1), if:
+
+                     (a)  a person causes any modification or impairment of a kind mentioned in that subclause; and
+
+                     (b)  the person does so under a warrant issued under the law of the Commonwealth, a State or a Territory;
+
+the person is entitled to cause that modification or impairment.
+
+Note:          This clause corresponds closely to section 336J of the _Migration Act 1958_.
+
+#### Subdivision E—Retaining identifying information
+
+##### <a id="58"></a>58  Identifying information may be indefinitely retained
+
+                   Identifying information may be indefinitely retained.
+
+Note:          This clause corresponds closely to paragraph 336L(1)(a) of the _Migration Act 1958_, because under this Schedule identifying information will always be about someone who is or has been in detention.
+
+## Part 6—Disclosure of detainees’ personal information
+
+##### <a id="59"></a>59  Disclosure of detainees’ personal information
+
+             (1)  For the purposes described in subclause (2), an agency or organisation that is or has been responsible for the detention of an individual may disclose personal information about the individual to an agency, or organisation, that is or will be responsible for:
+
+                     (a)  taking the individual into immigration detention; or
+
+                     (b)  keeping the individual in immigration detention; or
+
+                     (c)  causing the individual to be kept in immigration detention; or
+
+                     (d)  the removal of the individual.
+
+             (2)  The purposes are:
+
+                     (a)  the immigration detention of the individual; and
+
+                     (b)  the removal of the individual; and
+
+                     (c)  the welfare of the individual while in immigration detention or while being removed.
+
+             (3)  In this clause:
+
+                    <a name="agenc"></a>**_agency_** has the same meaning as in the _Privacy Act 1988_.
+
+                    <a name="immigr-detent"></a>**_immigration detention_** has the same meaning as in the _Migration Act 1958_.
+
+                    <a name="organis"></a>**_organisation_** has the same meaning as in the _Privacy Act 1988_.
+
+                    <a name="person-inform"></a>**_personal information_** has the same meaning as in the _Privacy Act 1988_.
+
+                    <a name="remov"></a>**_removal_** has the same meaning as in the _Migration Act 1958_.
+
+# Notes to the _Torres Strait Fisheries Act 1984_
+
+### Note 1
+
+The _Torres Strait__Fisheries Act 1984_ as shown in this compilation comprises Act No. 23, 1984 amended as indicated in the Tables below. 
+
+All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="31%">
+  <col width="16%">
+  <col width="0%">
+  <col width="18%">
+  <col width="0%">
+  <col width="22%">
+  <col width="0%">
+  <col width="14%">
+  <col width="0%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year</div>
+    </td>
+    <td colspan="3">
+      <div>Date 
+of Assent</div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td colspan="3">
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>Torres Strait Fisheries Act 1984</div>
+  </td>
+  <td colspan="2">
+    <div>23, 1984</div>
+  </td>
+  <td>
+    <div>26 Apr 1984</div>
+  </td>
+  <td colspan="3">
+    <div>15 Feb 1985 ( <i>see Gazette</i>1985, No. S38)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Fishing Legislation Amendment Act (No. 2) 1984</div>
+  </td>
+  <td colspan="2">
+    <div>152, 1984</div>
+  </td>
+  <td>
+    <div>25 Oct 1984</div>
+  </td>
+  <td colspan="3">
+    <div>31 Aug 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S347)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Fishing Legislation Amendment Act 1985</div>
+  </td>
+  <td colspan="2">
+    <div>29, 1985</div>
+  </td>
+  <td>
+    <div>22 May 1985</div>
+  </td>
+  <td colspan="3">
+    <div>31 Aug 1985 ( <i>see Gazette</i>1985, No. S347)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Fishing Legislation Amendment Act 1987</div>
+  </td>
+  <td colspan="2">
+    <div>176, 1987</div>
+  </td>
+  <td>
+    <div>26 Dec 1987</div>
+  </td>
+  <td colspan="3">
+    <div>Ss. 26, 27(1), 
+28–31, 32(1), 33, 34, 35(1), 36 
+and 37: 23 Jan 1988 <i>(a)</i> 
+Ss. 27(2), (3), 32(2) and 35(2): 24 Feb 1988 <i>(a)</i></div>
+  </td>
+  <td>
+    <div>Ss. 27(3), 28(2) and 36(2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Fisheries Legislation (Consequential Provisions) Act 1991</div>
+  </td>
+  <td colspan="2">
+    <div>163, 1991</div>
+  </td>
+  <td>
+    <div>10 Nov 1991</div>
+  </td>
+  <td colspan="3">
+    <div>Ss. 1 and 2: Royal Assent 
+Remainder: 3 Feb 1992 ( <i>see Gazette</i>1992, No. GN1)</div>
+  </td>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>as amended by</div>
+  </td>
+  <td colspan="2">
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td colspan="3">
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1996</div>
+  </td>
+  <td colspan="2">
+    <div>43, 1996</div>
+  </td>
+  <td>
+    <div>25 Oct 1996</div>
+  </td>
+  <td colspan="3">
+    <div>Schedule 3 (item 26): 10 Nov 1991 <i>(b)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Evidence (Transitional Provisions and Consequential Amendments) Act 1995</div>
+  </td>
+  <td colspan="2">
+    <div>3, 1995</div>
+  </td>
+  <td>
+    <div>23 Feb 1995</div>
+  </td>
+  <td colspan="3">
+    <div>S. 14: Royal Assent <i>(c)</i> 
+Schedule: 18 Apr 1995 <i>(c)</i></div>
+  </td>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1996</div>
+  </td>
+  <td colspan="2">
+    <div>43, 1996</div>
+  </td>
+  <td>
+    <div>25 Oct 1996</div>
+  </td>
+  <td colspan="3">
+    <div>Schedule 5 (items 150–152): Royal Assent <i>(d)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Fisheries Legislation Amendment Act 1997</div>
+  </td>
+  <td colspan="2">
+    <div>120, 1997</div>
+  </td>
+  <td>
+    <div>7 July 1997</div>
+  </td>
+  <td colspan="3">
+    <div>7 July 1997</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+  </td>
+  <td colspan="2">
+    <div>137, 2000</div>
+  </td>
+  <td>
+    <div>24 Nov 2000</div>
+  </td>
+  <td colspan="3">
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 
+9–11, 32): Royal Assent 
+Remainder: 24 May 2001</div>
+  </td>
+  <td>
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001</div>
+  </td>
+  <td colspan="2">
+    <div>115, 2001</div>
+  </td>
+  <td>
+    <div>18 Sept 2001</div>
+  </td>
+  <td colspan="3">
+    <div>16 Oct 2001</div>
+  </td>
+  <td>
+    <div>S. 4 \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Torres Strait Fisheries Amendment Act 2002</div>
+  </td>
+  <td colspan="2">
+    <div>103, 2002</div>
+  </td>
+  <td>
+    <div>10 Nov 2002</div>
+  </td>
+  <td colspan="3">
+    <div>11 Nov 2002</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Border Protection Legislation Amendment (Deterrence of Illegal Foreign Fishing) Act 2005</div>
+  </td>
+  <td colspan="2">
+    <div>103, 2005</div>
+  </td>
+  <td>
+    <div>23 Aug 2005</div>
+  </td>
+  <td colspan="3">
+    <div>Schedule 1 (items 1, 2, 35–45) and Schedule 2 (items 1–9): 24 Aug 2005 
+Schedule 1 (items 3–33) and Schedule 2 (items 10–12): 30 Nov 2005 ( <i>see</i>F2005L03632) 
+Schedule 1 (item 34): <i>(e) 
+ </i>Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Fisheries Legislation Amendment (Foreign Fishing Offences) Act 2006</div>
+  </td>
+  <td colspan="2">
+    <div>61, 2006</div>
+  </td>
+  <td>
+    <div>22 June 2006</div>
+  </td>
+  <td colspan="3">
+    <div>Schedules 1 and 2: 23 June 2006 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Migration Legislation Amendment (Information and Other Measures) Act 2007</div>
+  </td>
+  <td colspan="2">
+    <div>63, 2007</div>
+  </td>
+  <td>
+    <div>15 Apr 2007</div>
+  </td>
+  <td colspan="3">
+    <div>Schedule 1 (items 45–61): 1 May 2007 ( <i>see</i>F2007L01135)</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 60, 61) \[ <i>see</i>Table A]</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Fisheries Legislation Amendment Act 2007</div>
+  </td>
+  <td colspan="2">
+    <div>104, 2007</div>
+  </td>
+  <td>
+    <div>28 June 2007</div>
+  </td>
+  <td colspan="3">
+    <div>Schedule 3 (items 1–284): 26 July 2007 
+Schedule 3 (items 285–320): 28 June 2008</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr></table>
+
+_(a)_     The _Torres Strait__Fisheries Act 1984_ was amended by sections 26–37 only of the _Fishing Legislation Amendment Act 1987_, subsections 2(1) and (3) of which provide as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+
+                 (3)   Subsections 27(2) and (3), 32(2) and 35(2) shall come into operation on the sixtieth day after the day on which this Act receives the Royal Assent.
+
+_(b)_    The _Fisheries Legislation (Consequential Provisions) Act 1991_ was amended by Schedule 3 (item 26) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+
+                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+
+_(c)_     The _Torres Strait__Fisheries Act 1984_ was amended by the Schedule only of the _Evidence (Transitional Provisions and Consequential Amendments) Act 1995_, subsections 2(1) and (13) of which provide as follows:
+
+                 (1)   This Part and Parts 2 and 3 commence on the day on which this Act receives the Royal Assent.
+
+               (13)   Section 27 of this Act and the Schedule to this Act commence:
+
+                              (a)   on the day on which sections 153 and 155 of the _Evidence Act 1995_ commence; or
+
+                              (b)   if those sections commence on different days—the first day on which both of those sections are in force.
+
+_(d)_     The _Torres Strait__Fisheries Act 1984_ was amended by Schedule 5 (items 150–152) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(e)_ Subsection 2(1) (item 5) of the _Border Protection Legislation Amendment (Deterrence of Illegal Foreign Fishing) Act 2005_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>5\. Schedule 1, Part 3, Division 2</div>
+  </td>
+  <td>
+    <div>The later of:</div>
+    <div>(a) immediately after the commencement of Part 2 of Schedule 1 to this Act; and</div>
+    <div>(b) immediately after the commencement of Division 1 of Part 3 of Schedule 1 to this Act.</div>
+  </td>
+  <td>
+    <div>30 November 2005  (paragraph (b) applies)</div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Part I</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. No. 163, 1991; No. 43, 1996; No. 137, 2000; No. 103, 2005; No. 61, 2006; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4A</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part II</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>am. No. 163, 1991 (as am. by No. 43, 1996); No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 12</div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part III</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>am. No. 29, 1985; No. 176, 1987; No. 3, 1995; No. 43, 1996; No. 115, 2001; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15A</div>
+  </td>
+  <td>
+    <div>ad. No. 120, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16</div>
+  </td>
+  <td>
+    <div>am. No. 176, 1987; No. 3, 1995; No. 43, 1996; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17</div>
+  </td>
+  <td>
+    <div>am. No. 3, 1995; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 19</div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1984; No. 29, 1985; No. 176, 1987; No. 43, 1996; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1984; No. 29, 1985; No. 176, 1987; No. 43, 1996; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23</div>
+  </td>
+  <td>
+    <div>am. No. 29, 1985; No. 176, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1984; No. 29, 1985; No. 43, 1996; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1984; No. 43, 1996; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25A</div>
+  </td>
+  <td>
+    <div>ad. No. 29, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26</div>
+  </td>
+  <td>
+    <div>am. No. 176, 1987; No. 43, 1996; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27</div>
+  </td>
+  <td>
+    <div>am. No. 29, 1985; No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27A</div>
+  </td>
+  <td>
+    <div>ad. No. 176, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part V</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part V</div>
+  </td>
+  <td>
+    <div>rs. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28</div>
+  </td>
+  <td>
+    <div>am. No. 103, 2002; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 103, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32</div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34</div>
+  </td>
+  <td>
+    <div>am. No. 163, 1991</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35</div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1984; No. 29, 1985; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 37</div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38</div>
+  </td>
+  <td>
+    <div>am. No. 163, 1991; No. 43, 1996; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 103, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 1</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of Part VI.</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1984; No. 29, 1985; No. 176, 1987; No. 163, 1991; No. 43, 1996; No. 115, 2001; No. 103, 2005; No. 61, 2006; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 42(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 42AA, 42AB</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42A</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1984; No. 29, 1985; No. 176, 1987; No. 43, 1996; No. 137, 2000; No. 115, 2001; No. 103, 2005; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 43A, 43B</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 1A of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 43C–43H</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 43J–43N</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43P</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 2</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 2 of Part VI.</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 44</div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 44, 45</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1984; No. 29, 1985; No. 43, 1996; No. 115, 2001; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1984; No. 29, 1985; No. 115, 2001; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46AA</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 46A–46D</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47</div>
+  </td>
+  <td>
+    <div>am. No. 29, 1985; No. 43, 1996; No. 115, 2001; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48</div>
+  </td>
+  <td>
+    <div>am. No. 29, 1985; No. 115, 2001; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 49</div>
+  </td>
+  <td>
+    <div>rs. No. 61, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49</div>
+  </td>
+  <td>
+    <div>am. No. 29, 1985; No. 115, 2001; No. 61, 2006; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 49(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49A</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50</div>
+  </td>
+  <td>
+    <div>am. No. 29, 1985; No. 163, 1991; No. 115, 2001; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 51</div>
+  </td>
+  <td>
+    <div>rs. No. 61, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1984; No. 29, 1985; No. 43, 1996; No. 115, 2001; No. 61, 2006; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 51(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51A</div>
+  </td>
+  <td>
+    <div>ad. No. 61, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 3</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3 of Part VI.</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Subdivision A</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. A of 
+Div. 3 of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 52</div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52</div>
+  </td>
+  <td>
+    <div>am. No. 61, 2006; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 52AAA–52AAC</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Subdivision B</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. B of 
+Div. 3 of Part VI</div>
+  </td>
+  <td>
+    <div>rs. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. B of Div. 3 of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52A</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>am. No. 61, 2006; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 52AA, 52AB</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Subdivision C</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. C 
+of Div. 3 of Part VI</div>
+  </td>
+  <td>
+    <div>rs. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. C of Div. 3 of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52B</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>rs. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52C</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>am. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 52D–52H</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52HA</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 4</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 52I, 52J</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 5</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 5 of Part VI.</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53A</div>
+  </td>
+  <td>
+    <div>ad. No. 176, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 6</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 6 of Part VI.</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54</div>
+  </td>
+  <td>
+    <div>am. No. 29, 1985; No. 43, 1996; No. 115, 2001; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 7</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 7 of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54A</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 8</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 8 of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 54B, 54C</div>
+  </td>
+  <td>
+    <div>ad. No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55</div>
+  </td>
+  <td>
+    <div>am. No. 29, 1985; No. 137, 2000; No. 61, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55A</div>
+  </td>
+  <td>
+    <div>ad. No. 152, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 29, 1985; No. 163, 1991; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56A</div>
+  </td>
+  <td>
+    <div>ad. No. 176, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 61, 2006; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 58</div>
+  </td>
+  <td>
+    <div>am. No. 43, 1996; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1984; No. 29, 1985; No. 163, 1991; No. 43, 1996; No. 104, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedules</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule</div>
+  </td>
+  <td>
+    <div>rep. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 1</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 2</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Part 1</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 1</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 1</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 2</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 2</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 3</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cc. 3–5</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 4</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cc. 6, 7</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Part 2</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 1</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 8</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>am. No. 61, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 9</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 2</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 10</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>am. No. 61, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 3</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 11</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 4</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 12</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 5</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 13</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to c. 13(3)</div>
+  </td>
+  <td>
+    <div>am. No. 61, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 6</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 14</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Part 3</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 1</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 15</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>am. No. 61, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 2</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 16</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 3</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cc. 17, 18</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 4</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cc. 19–21</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 5</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 22</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 6</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 23</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Part 4</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 24</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Part 5</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 1</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 25</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 26</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>am. No. 63, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 27</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 2</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Subdivision A</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cc. 28–30</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Subdivision B</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cc. 31–38</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Subdivision C</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cc. 39–46</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 3</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cc. 47, 48</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Division 4</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Subdivision A</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 49</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>am. No. 63, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 50</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Subdivision B</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cc. 51, 52</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>am. No. 63, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Subdivision C</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 53</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> </div>
+  </td>
+  <td>
+    <div>am. No. 63, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 54</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Subdivision D</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Cc. 55–57</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Subdivision E</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 58</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div> <b>Part 6</b> </div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>C. 59</div>
+  </td>
+  <td>
+    <div>ad. No. 103, 2005</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+Subdivision BA of Division 6 of Part VI—Schedule 3 (item 260) of the _Fisheries Legislation Amendment Act 2007_ (No. 104, 2007) provides as follows:
+
+## Schedule 3
+
+## 260  After Subdivision B of Division 6 of Part VI
+
+Insert:
+
+#### Subdivision BA—Automatic ownership of things
+
+##### <a id="52AC"></a>52AC  Fish taken with Commonwealth property
+
+                   If:
+
+                     (a)  a thing is forfeited to the Commonwealth under section 52 or 52A; and
+
+                     (b)  the thing is used for, or in the taking of, fish:
+
+                              (i)  after it is forfeited; and
+
+                             (ii)  without the written permission of the Minister for such use;
+
+the fish are the property of the Commonwealth.
+
+##### <a id="52AD"></a>52AD  Things on, in or attached to boats
+
+                   At any time during which a boat is the property of the Commonwealth because:
+
+                     (a)  the court has ordered the forfeiture of the boat under section 52; or
+
+                     (b)  the boat is forfeited under section 52A;
+
+anything on, in or attached to the boat that forms part of the boat is also the property of the Commonwealth.
+
+##### <a id="52AE"></a>52AE  Rights and interests of the Commonwealth not limited
+
+                   To avoid doubt, a provision of this Subdivision giving the Commonwealth rights or interests in relation to property does not limit any other right or interest the Commonwealth has or acquires otherwise than under this Subdivision.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+
+## Schedule 2
+
+## 418  Transitional—pre-commencement offences
+
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+
+                     (a)  an offence committed before the commencement of this item; or
+
+                     (b)  proceedings for an offence alleged to have been committed before the commencement of this item; or
+
+                     (c)  any matter connected with, or arising out of, such proceedings;
+
+as if the amendment or repeal had not been made.
+
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+
+## 419  Transitional—pre-commencement notices
+
+If:
+
+                     (a)  a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
+
+                     (b)  any or all of those other provisions are repealed by this Schedule; and
+
+                     (c)  the first-mentioned provision is amended by this Schedule;
+
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+
+* * *
+
+_Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001 (No. 115, 2001)_
+
+##### <a id="4"></a>4  Application of amendments
+
+             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+
+             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
+* * *
+
+_Migration Legislation Amendment (Information and Other Measures) Act 2007 
+ (No. 63, 2007)_
+
+## Schedule 1
+
+## 60  Transitional—Authorisations
+
+(1)        This item applies to an authorisation that:
+
+                     (a)  is in force under any of the following provisions immediately before this item commences:
+
+                              (i)  clause 52 of Schedule 1 to the _Environment Protection and Biodiversity Conservation Act 1999_;
+
+                             (ii)  clause 52 of Schedule 1A to the _Fisheries Management Act 1991_;
+
+                            (iii)  clause 52 of Schedule 2 to the _Torres Strait__Fisheries Act 1984_; and
+
+                     (b)  specifies that access to identifying information is authorised for the purpose of making decisions under that Act.
+
+(2)        The authorisation has effect on and after that commencement as if it were an authorisation in force under that clause that specified that access to identifying information is authorised for the purposes of that Act.
+
+## 61  Application
+
+The amendments made by items 1 to 59 of this Schedule apply to access to, or disclosure of, identifying information that occurs after those items commence.
+
+ 
+
+ 
