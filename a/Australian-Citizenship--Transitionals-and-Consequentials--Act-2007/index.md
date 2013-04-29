@@ -1,19 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2007C00384/Html/AusCitizenshipTransCons2007_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00309/Html/AusCitizenshipTransCons2007_image001.gif)
 
 # Australian Citizenship (Transitionals and Consequentials) Act 2007
 
 **Act No. 21 of 2007 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 20 April 2007
 
-**\[This Act was amended by Act No. 63 of 2007]**
+**\[This Act is to be amended by Act No. 63 of 2007]**
 
 **Amendments from Act No. 63 of 2007**
 
-\[Schedule 1 (item 66) repealed item 39 of Schedule 1
- Schedule 1 (item 67) repealed item 22 of Schedule 3
+\[Schedule 1 (item 66) repeals item 39 of Schedule 1
+ Schedule 1 (item 67) repeals item 22 of Schedule 3
 
-Schedule 1 (items 66 and 67) commenced immediately before 1 July 2007]
+Schedule 1 (items 66 and 67) commence immediately before the commencement of Schedules 1 and 3 to the _Australian Citizenship (Transitionals and Consequentials) Act 2007_.  However, the amendments may not commence at all, _see_ s. 2(1) (item 4). The amendments have not been incorporated]
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -62,9 +62,11 @@ Electronic Transactions Act 1999                
 
 Financial Transaction Reports Act 1988                                                               7
 
-Higher Education Funding Act 1988                                                                      8
+Higher Education Funding Act 1988                                                                      7
 
 Legislative Instruments Act 2003                                                                             9
+
+Migration Act 1958                                                                                                     9
 
 Qantas Sale Act 1992                                                                                                 9
 
@@ -157,7 +159,7 @@ The Parliament of Australia enacts:
     <div>The day on which this Act receives the Royal Assent.</div>
   </td>
   <td>
-    <div>15 March 2007</div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -169,8 +171,7 @@ The Parliament of Australia enacts:
       <i>Australian Citizenship Act 2007</i>commence.</div>
   </td>
   <td>
-    <div>1 July 2007 (
-      <i>see</i>F2007L01653)</div>
+    <div> </div>
   </td>
 </tr></table>
 
@@ -396,7 +397,7 @@ Repeal the paragraphs.
 
 Omit “under any”, substitute “under either”.
 
-<h9 class="ActHead9" style="page-break-after:avoid">Higher Education Funding Act 1988</h9>
+<h9 class="ActHead9">Higher Education Funding Act 1988</h9>
 
 ## 32  Section 3 (definition of _permanent resident_)
 
@@ -448,6 +449,12 @@ Repeal the item, substitute:
     </div>
   </td>
 </tr></table>
+
+<h9 class="ActHead9">Migration Act 1958</h9>
+
+## 39  Paragraph 336D(2)(g)
+
+Omit “_Australian Citizenship Act 1948_”, substitute “_Australian Citizenship Act 2007_”.
 
 <h9 class="ActHead9">Qantas Sale Act 1992</h9>
 
@@ -852,5 +859,15 @@ The amendment made by item 1 of Schedule 2 applies in relation to:
                      (a)  a person in respect of which an obligation under section 4C of the _Immigration (Education) Act 1971_ begins on or after the commencement day; or
 
                      (b)  a person in respect of which an obligation under that section began before the commencement day, but only if that obligation has not ceased before the commencement day.
+
+## 22  Transitional—_Migration Act 1958_
+
+(1)        This item applies to an authorisation that:
+
+                     (a)  is in force under section 336D of the _Migration Act 1958_ immediately before the commencement day; and
+
+                     (b)  specifies the purpose of making decisions under the _Australian Citizenship Act 1948_ or the regulations made under that Act.
+
+(2)        The authorisation has effect on and after that day as if it were an authorisation in force under that section that specified the purpose of making decisions under the _Australian Citizenship Act 2007_ or the regulations made under that Act.
 
  
