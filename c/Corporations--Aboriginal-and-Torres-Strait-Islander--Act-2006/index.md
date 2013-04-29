@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00236/Html/CorpAbTorStrIs2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00046/Html/CorpAbTorStrIs2006_image001.gif)
 
 # Corporations (Aboriginal and Torres Strait Islander) Act 2006
 
 **Act No. 124 of 2006 as amended**
 
-This compilation was prepared on 5 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 3 February 2010
+ taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -2121,9 +2121,9 @@ This Chapter provides for Aboriginal and Torres Strait Islander corporations and
 
 In particular, it deals with:
 
-<li class="BoxList" style="margin-left:21.25pt">•      what an Aboriginal and Torres
+<li class="BoxList" style="margin-left:21.25pt">•      what an Aboriginal and
 
-Strait Islander corporation is (see section 16-5); and</li>
+Torres Strait Islander corporation is (see section 16-5); and</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      the application for
 
@@ -2555,7 +2555,7 @@ Registrar not to register body in certain circumstances
 
 ### Division 29—What are the basic requirements for registration?
 
-##### <a id="29-1"></a>29-1  Minimum number of members requirement
+##### <a id="29-1"></a>29-1  Minimum number of members requirement
 
                    An Aboriginal and Torres Strait Islander corporation meets the **_minimum number of members requirement_** if the corporation complies with the requirement in subsection 77-5(1).
 
@@ -5451,7 +5451,7 @@ This Part deals with:
 
 ### Division 112—Registered office
 
-##### <a id="112-1"></a>112-1  General
+##### <a id="112-1"></a>112-1  General
 
 Application of Division
 
@@ -8877,7 +8877,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          A defendant bears a legal burden in relation to a matter mentioned in subsection (3) (see section 13.4 of the _Criminal Code_).
 
-##### <a id="265-45"></a>265-45  Meaning of reasonable reliance on information or advice provided by others
+##### <a id="265-45"></a>265-45  Meaning of reasonable reliance on information or advice provided by others
 
              (1)  If:
 
@@ -10685,7 +10685,7 @@ Note:          An Aboriginal and Torres Strait Islander corpor
 
 ##### <a id="333-20"></a>333-20  Aboriginal and Torres Strait Islander corporation to obtain audit report if audit required
 
-                   If:
+                   If:
 
                      (a)  a section 333-5 report in relation to an Aboriginal and Torres Strait Islander corporation is a financial report; and
 
@@ -10893,7 +10893,7 @@ Auditors are required to be independent of the corporations that they are auditi
 
              (2)  If only a part of the report is required to be audited, this Division applies as if references to the financial report were references to that part of the financial report.
 
-##### <a id="339-10"></a>339-10  When financial report required to comply with accounting standards
+##### <a id="339-10"></a>339-10  When financial report required to comply with accounting standards
 
                    A financial report is **_required to comply with the accounting standards_** if one of the following requires the report to comply with the accounting standards:
 
@@ -11383,7 +11383,7 @@ Note:          A defendant bears an evidential burden in relat
 
 #### Subdivision 339-D—Auditor independence
 
-##### <a id="339-75"></a>339-75  Independence of auditors: application of Corporations Act auditor independence provisions
+##### <a id="339-75"></a>339-75  Independence of auditors: application of Corporations Act auditor independence provisions
 
 Application of section
 
@@ -12245,7 +12245,7 @@ Note:          In certain circumstances, a person may bring pr
 
 ##### <a id="386-25"></a>386-25  Time limit for application for a declaration or order
 
-                   Proceedings for a declaration of contravention, a pecuniary penalty order or a compensation order, may be started no later than 6 years after the contravention.
+                   Proceedings for a declaration of contravention, a pecuniary penalty order or a compensation order, may be started no later than 6 years after the contravention.
 
 ##### <a id="386-30"></a>386-30  Civil evidence and procedure rules for declarations of contravention and civil penalty orders
 
@@ -12559,7 +12559,7 @@ as the Registrar thinks necessary in order to form an opinion whether he or she 
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="407-10"></a>407-10  Registrar may require information from persons on a register
+##### <a id="407-10"></a>407-10  Registrar may require information from persons on a register
 
              (1)  If information about a person is included on a register kept by the Registrar, the Registrar may at any time, in writing, require that person to give the Registrar specified information about the person if information of that kind is included on that register in relation to the person.
 
@@ -12581,9 +12581,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                               (i)  the change relates to a misspelling or other minor typographical error; or
 
-                             (ii)  the change is to a detail included on a list published by the Registrar on the internet for the purposes of this section; and
+                             (ii)  the change is to a detail included on a list published by the Registrar on the Internet for the purposes of this section; and
 
-                     (b)  the notice satisfies the authentication requirements published by the Registrar on the internet for the purposes of this section.
+                     (b)  the notice satisfies the authentication requirements published by the Registrar on the Internet for the purposes of this section.
 
              (2)  If the Registrar accepts telephone or email notice of a change to a detail, any obligation elsewhere in this Act to lodge an approved form in relation to the change is satisfied by the telephone or email notice, as the case may be. However, this does not affect the corporation’s liability for late lodgment fees incurred before the notice is given or that corporation’s continuing offences committed before that time.
 
@@ -12813,7 +12813,7 @@ then:
 
                    A copy or an extract derived from a document lodged with the Registrar, and certified by the Registrar, is, in any proceeding, admissible in evidence as of equal validity with the original document.
 
-##### <a id="424-5"></a>424-5  Use in court proceedings etc. of documents issued by Registrar
+##### <a id="424-5"></a>424-5  Use in court proceedings etc. of documents issued by Registrar
 
              (1)  If:
 
@@ -14193,7 +14193,7 @@ does after the special administration begins and on or before the day on which t
 
              (1)  If:
 
-                     (a)  a court finds that a person committed an offence constituted by a contravention of subsection 496-15(5) (including such an offence that is taken to have been committed because of section 11.2 or 11.2A of the _Criminal Code_); and
+                     (a)  a court finds that a person committed an offence constituted by a contravention of subsection 496-15(5) (including such an offence that is taken to have been committed because of section 11.2 of the _Criminal Code_); and
 
                      (b)  the court is satisfied that the Aboriginal and Torres Strait Islander corporation or another person has suffered loss or damage because of the act or omission constituting the offence;
 
@@ -14588,7 +14588,7 @@ Note:          There are a number of different ways in which t
 
 ### Division 521—Administration of an Aboriginal and Torres Strait Islander corporation’s affairs with a view to executing a deed of corporation arrangement
 
-##### <a id="521-1"></a>521-1  Applying Corporations Act administration provisions to Aboriginal and Torres Strait Islander corporations
+##### <a id="521-1"></a>521-1  Applying Corporations Act administration provisions to Aboriginal and Torres Strait Islander corporations
 
              (1)  The Corporations Act administration provisions apply to an Aboriginal and Torres Strait Islander corporation as if the following substitutions were made:
 
@@ -15770,7 +15770,7 @@ Effect of reinstatement
 
                    Property is **_unclaimed property_** if it is property that subsection 546-25(2) provides for the Registrar to deal with under this Part.
 
-##### <a id="551-5"></a>551-5  Registrar to deal with unclaimed property
+##### <a id="551-5"></a>551-5  Registrar to deal with unclaimed property
 
              (1)  The Registrar, on behalf of the Commonwealth, holds unclaimed property that is money at the time when it becomes unclaimed property on trust in accordance with, and for the purposes of, this Part.
 
@@ -16460,7 +16460,7 @@ grant an injunction, on such terms as the Court thinks appropriate, requiring th
 
                    Nothing in either of sections 576-20 or 576-25 limits the generality of anything else in either of those sections.
 
-##### <a id="576-35"></a>576-35  Power of Court to punish for contempt of Court
+##### <a id="576-35"></a>576-35  Power of Court to punish for contempt of Court
 
                    Nothing in a provision of this Act that provides:
 
@@ -19917,7 +19917,7 @@ of Assent</div>
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 6 (items 5–10): 10 Dec 2008</div>
+    <div>Schedule 6 (items 5–10): 10 Dec 2008</div>
   </td>
   <td>
     <div>—</div>
@@ -19938,143 +19938,6 @@ of Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 5): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 137(a)): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      31\. Schedule 5, items 1 to 51
-    </div>
-  </td>
-  <td>
-    <div>
-      The day this Act receives the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      38\. Schedule 5, Parts 2 and 3
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the provision(s) covered by table item 31.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 March 2010
-    </div>
   </td>
 </tr></table>
 
@@ -20131,70 +19994,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div>am. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9-2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 407</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 407-15</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 11-2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 496</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 496-20</div>
-  </td>
-  <td>
-    <div>am. No.4, 2010</div>
   </td>
 </tr>
 <tr>
@@ -20283,6 +20082,6 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges that arise after the commencement of subsection (5A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-As at 5 March 2010 the amendments are not incorporated in this compilation.
+As at 3 February 2010 the amendments are not incorporated in this compilation.
 
  
