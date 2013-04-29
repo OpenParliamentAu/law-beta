@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00832/Html/7c6405b5-3ffd-4a68-a9a0-1d23ce369c64_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00322/Html/fd464eda-0eba-4b3a-abe8-f35486168a6a_files/image001.gif)
 
 # National Gallery Act 1975
 
 **Act No. 61 of 1975 as amended**
 
-This compilation was prepared on 17 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -981,23 +981,6 @@ Schedule 4 (items 100, 101) and Schedule 5 (items 90–92): Royal Assent
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Acts Interpretation Amendment Act 2011</div>
-    </td>
-    <td>
-      <div>46, 2011</div>
-    </td>
-    <td>
-      <div>27 June 2011</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 792–796) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-    </td>
-    <td>
-      <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_     The _National Gallery Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(29) of which provides as follows:
@@ -1540,38 +1523,6 @@ _(h)_     The _National Gallery Act 1975_ was amended by Schedule 10 (
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 792  Subsection 31(1)
-
-Omit “(1)”.
-
-## 793  Paragraph 31(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 794  Subsection 31(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 795  At the end of subsection 31(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 796  Subsections 31(2) to (7)
-
-Repeal the subsections.
-
-As at 17 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1584,21 +1535,5 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
 ## 97  Application of amendments
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
