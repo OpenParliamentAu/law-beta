@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00742/Html/EnvProtBioDivCons99Vol1WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00505/Html/EnvProtBioDivCons99Vol1WD02_image001.gif)
 
 # Environment Protection and Biodiversity Conservation Act 1999
 
 **Act No. 91 of 1999 as amended**
 
-This compilation was prepared on 1 November 2010
+This compilation was prepared on 19 July 2010
  taking into account amendments up to Act No. 107 of 2010
 
 **Volume 1** includes:       Table of Contents
@@ -23,7 +23,7 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2 – 4
+                                     Notes 2 – 5
                                      Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -4292,7 +4292,7 @@ Note 2:       Section 37K provides for revocation of a declaration
 
 ##### <a id="37E"></a>37E  Declarations relating to National Heritage places
 
-                   The Minister may make a declaration under section 37A relating to a National Heritage place only if:
+                   The Minister may make a declaration under section 37A relating to a National Heritage place only if:
 
                      (a)  the Minister is satisfied that the declaration will promote the management of the place in accordance with the National Heritage management principles; and
 
@@ -6466,11 +6466,7 @@ Note 2:       Subparagraph (1)(a)(ii) also applies to actions to b
 
           (3A)  The Secretary may refuse to publish on the internet, under subsection (3), so much of the draft recommendation report as:
 
-                     (a)  is:
-
-                              (i)  an exempt document under subparagraph 33(a)(i) of the _Freedom of Information Act 1982_(documents affecting national security, defence or international relations); or
-
-                             (ii)  a conditionally exempt document under section 47C of that Act (deliberative processes) to which access would, on balance, be contrary to the public interest for the purposes of subsection 11A(5) of that Act; or
+                     (a)  is an exempt document under the _Freedom of Information Act 1982_ on the grounds of the security of the Commonwealth or its providing advice to the Minister; or
 
                      (b)  the Secretary is satisfied is commercial-in-confidence.
 
@@ -7496,9 +7492,7 @@ This does not limit the comments such a Minister may give.
 
                      (a)  a copy of so much of a document as:
 
-                              (i)  is an exempt document under subparagraph 33(a)(i) of the _Freedom of Information Act 1982_(documents affecting national security, defence or international relations); or
-
-                            (ia)  is a conditionally exempt document under section 47C of that Act (deliberative processes) to which access would, on balance, be contrary to the public interest for the purposes of subsection 11A(5) of that Act; or
+                              (i)  is an exempt document under the _Freedom of Information Act 1982_ on the grounds of the security of the Commonwealth or its providing advice to the Minister; or
 
                              (ii)  the Minister is satisfied contains information that is commercial-in-confidence; or
 
@@ -7638,11 +7632,7 @@ Limit on publication of approval
 
              (4)  However, the Minister must not provide under subsection (3) a copy of so much of the approval as:
 
-                     (a)  is:
-
-                              (i)  an exempt document under section 47 of the _Freedom of Information Act 1982_(trade secrets etc.); or
-
-                             (ii)  a conditionally exempt document under section 47G of that Act (business documents) to which access would, on balance, be contrary to the public interest for the purposes of subsection 11A(5) of that Act; or
+                     (a)  is an exempt document under the _Freedom of Information Act 1982_ on the grounds of commercial confidence; or
 
                      (b)  the Minister believes it is in the national interest not to provide.
 
@@ -7832,11 +7822,7 @@ Validity of decision
 
              (4)  The Secretary may refuse to provide, under subsection (2), a copy of so much of the report as:
 
-                     (a)  is:
-
-                              (i)  an exempt document under subparagraph 33(a)(i) of the _Freedom of Information Act 1982_(documents affecting national security, defence or international relations); or
-
-                             (ii)  a conditionally exempt document under section 47C of that Act (deliberative processes) to which access would, on balance, be contrary to the public interest for the purposes of subsection 11A(5) of that Act; or
+                     (a)  is an exempt document under the _Freedom of Information Act 1982_ on the grounds of the security of the Commonwealth or its providing advice to the Minister; or
 
                      (b)  the Secretary is satisfied is commercial-in-confidence.
 
@@ -8120,11 +8106,7 @@ Note:          If the holder is not satisfied with changed con
 
              (6)  However, the Minister must not publish so much of the instrument as:
 
-                     (a)  is:
-
-                              (i)  an exempt document under section 47 of the _Freedom of Information Act 1982_(trade secrets etc.); or
-
-                             (ii)  a conditionally exempt document under section 47G of that Act (business documents) to which access would, on balance, be contrary to the public interest for the purposes of subsection 11A(5) of that Act; or
+                     (a)  is an exempt document under the _Freedom of Information Act 1982_ on the grounds of commercial confidence; or
 
                      (b)  the Minister believes it is in the national interest not to publish.
 
@@ -8464,11 +8446,7 @@ Note:          Subdivision C sets out matters that the Ministe
 
              (4)  However, the Minister must not provide under subsection (3) a copy of so much of the approval as:
 
-                     (a)  is:
-
-                              (i)  an exempt document under section 47 of the _Freedom of Information Act 1982_(trade secrets); or
-
-                             (ii)  a conditionally exempt document under section 47G of that Act (business documents) to which access would, on balance, be contrary to the public interest for the purposes of subsection 11A(5) of that Act; or
+                     (a)  is an exempt document under the _Freedom of Information Act 1982_ on the grounds of commercial confidence; or
 
                      (b)  the Minister believes it is in the national interest not to provide.
 
