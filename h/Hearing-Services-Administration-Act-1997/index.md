@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00595/Html/C665B38BF8D6B707CA257089002590E0/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00559/Html/0210A0FF5DD32188CA2570770012987F/$FILE/image001.gif)
 
 # Hearing Services Administration Act 1997
 
 **Act No. 81 of 1997 as amended**
 
-This compilation was prepared on 1 October 2005
+This compilation was prepared on 9 September 2005
 taking into account amendments up to Act No. 111 of 2005
 
 The text of any of those amendments not in force
@@ -19,133 +19,133 @@ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        4
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               4
 
-[3](#3).            Simplified outline
+[3](#3).            Simplified outline                                                                                 4
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           4
 
-[5](#5).            Eligible persons
+[5](#5).            Eligible persons                                                                                    4
 
-[6](#6).            Crown to be bound
+[6](#6).            Crown to be bound                                                                              4
 
-[6A](#6A).         Application of the _Criminal Code_
+[6A](#6A).         Application of the _Criminal Code_                                                       4
 
-[7](#7).            Continuity of partnerships
+[7](#7).            Continuity of partnerships                                                                  4
 
-[8](#8).            General criteria for administration of this Act
+[8](#8).            General criteria for administration of this Act                                     4
 
 **Part 2—Issue of vouchers to participants in the voucher system** 
 
     **Division 1—Simplified outline**
 
-[9](#9).            Simplified outline
+[9](#9).            Simplified outline                                                                                 4
 
     **Division 2—Issue of vouchers by the Minister**
 
-[10](#10).          Issue of vouchers by the Minister
+[10](#10).          Issue of vouchers by the Minister                                                       4
 
-[11](#11).          Voucher rules
+[11](#11).          Voucher rules                                                                                       4
 
-[12](#12).          Vouchers do not have effect before 1 July 1997
+[12](#12).          Vouchers do not have effect before 1 July 1997                                 4
 
     **Division 3—Participants in the voucher system**
 
-[13](#13).          Participants in the voucher system
+[13](#13).          Participants in the voucher system                                                     4
 
 **Part 3—Service providers** 
 
     **Division 1—Simplified outline**
 
-[14](#14).          Simplified outline
+[14](#14).          Simplified outline                                                                                 4
 
     **Division 2—Accreditation**
 
-[15](#15).          Accreditation of service providers
+[15](#15).          Accreditation of service providers                                                       4
 
-[16](#16).          Conditions of accreditation
+[16](#16).          Conditions of accreditation                                                                  4
 
-[17](#17).          Rules of conduct
+[17](#17).          Rules of conduct                                                                                  4
 
-[18](#18).          Compliance with rules of conduct
+[18](#18).          Compliance with rules of conduct                                                       4
 
-[19](#19).          Disqualification for fraud, dishonesty etc 
+[19](#19).          Disqualification for fraud, dishonesty etc                                           4
 
     **Division 3—Contracted service providers**
 
-[20](#20).          Contracted service providers
+[20](#20).          Contracted service providers                                                               4
 
-[21](#21).          Payments to contracted service providers
+[21](#21).          Payments to contracted service providers                                           4
 
-[23](#23).          Repayments by contracted service providers
+[23](#23).          Repayments by contracted service providers                                     4
 
-[24](#24).          Recovery of overpayments etc 
+[24](#24).          Recovery of overpayments etc                                                            4
 
 **Part 4—Administration**
 
-[25](#25).          Simplified outline
+[25](#25).          Simplified outline                                                                                 4
 
-[26](#26).          Arrangements for dealing with complaints
+[26](#26).          Arrangements for dealing with complaints                                          4
 
-[27](#27).          Delegation
+[27](#27).          Delegation                                                                                            4
 
 **Part 5—Review of decisions**
 
-[28](#28).          Simplified outline
+[28](#28).          Simplified outline                                                                                 4
 
-[29](#29).          Decisions that may be subject to reconsideration by the Minister
+[29](#29).          Decisions that may be subject to reconsideration by the Minister     4
 
-[30](#30).          Statements to accompany notification of decisions
+[30](#30).          Statements to accompany notification of decisions                            4
 
-[31](#31).          Applications for reconsideration of decisions
+[31](#31).          Applications for reconsideration of decisions                                     4
 
-[32](#32).          Reconsideration by the Minister
+[32](#32).          Reconsideration by the Minister                                                         4
 
-[33](#33).          Deadlines for reconsiderations
+[33](#33).          Deadlines for reconsiderations                                                             4
 
-[34](#34).          Statements to accompany notification of decisions on reconsideration
+[34](#34).          Statements to accompany notification of decisions on reconsideration  4
 
-[35](#35).          Review by the Administrative Appeals Tribunal
+[35](#35).          Review by the Administrative Appeals Tribunal                               4
 
 **Part 6—Injunctions**
 
-[36](#36).          Simplified outline
+[36](#36).          Simplified outline                                                                                 4
 
-[37](#37).          Injunctions
+[37](#37).          Injunctions                                                                                           4
 
-[38](#38).          Interim injunctions
+[38](#38).          Interim injunctions                                                                               4
 
-[39](#39).          Discharge etc  of injunctions
+[39](#39).          Discharge etc  of injunctions                                                                4
 
-[40](#40).          Certain limits on granting injunctions not to apply
+[40](#40).          Certain limits on granting injunctions not to apply                             4
 
-[41](#41).          Other powers of the court unaffected
+[41](#41).          Other powers of the court unaffected                                                 4
 
 **Part 7—Vicarious liability**
 
-[42](#42).          Simplified outline
+[42](#42).          Simplified outline                                                                                 4
 
-[43](#43).          Liability of corporations
+[43](#43).          Liability of corporations                                                                      4
 
-[44](#44).          Liability of persons other than corporations
+[44](#44).          Liability of persons other than corporations                                       4
 
 **Part 8—Miscellaneous**
 
-[45](#45).          Simplified outline
+[45](#45).          Simplified outline                                                                                 4
 
-[46](#46).          Application of _Criminal Code_
+[46](#46).          Application of _Criminal Code_                                                             4
 
-[47](#47).          Treatment of partnerships
+[47](#47).          Treatment of partnerships                                                                   4
 
-[48](#48).          Giving of documents to partnerships
+[48](#48).          Giving of documents to partnerships                                                  4
 
-[49](#49).          Nomination of address for service of documents
+[49](#49).          Nomination of address for service of documents                                4
 
-[50](#50).          Regulations
+[50](#50).          Regulations                                                                                          4
 
 **Notes** 
 
@@ -316,7 +316,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="9"></a>9  Simplified outline
 
-                   The following is a simplified outline of this Part:
+                   The following is a simplified outline of this Part:
 
 <div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
@@ -582,7 +582,11 @@ Note:          Section 19B of the _Crimes Act 1914_ empowers
 
              (6)  The Minister may, by writing, declare that a specified body is the **_claims acceptance body_** for the purposes of this section. The declaration has effect accordingly.
 
+Note:          The claims acceptance body may be the Health Insurance Commission.
+
              (7)  The Minister may, by writing, declare that a specified body is the **_claims payment body_** for the purposes of this section. The declaration has effect accordingly.
+
+Note:          The claims payment body may be the Health Insurance Commission.
 
              (8)  This section does not prevent the claims acceptance body from being the same body as the claims payment body.
 
@@ -596,9 +600,7 @@ Note:          Section 19B of the _Crimes Act 1914_ empowers
 
                      (b)  an authority of the Commonwealth; or
 
-                     (c)  an incorporated company; or
-
-                     (d)  the Chief Executive Officer of Medicare Australia.
+                     (c)  an incorporated company.
 
 ##### <a id="23"></a>23  Repayments by contracted service providers
 
@@ -1100,9 +1102,7 @@ of Assent
       <div>6 Sept 2005</div>
     </td>
     <td>
-      <div>Schedule 2 (items 396, 397): 
-1 Oct 2005 
-</div>
+      <div>Schedule 2 (items 396, 397): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -1193,7 +1193,7 @@ _(a)_     The _Hearing Services Administration Act 1997_ was amended by 
       <div>S. 21</div>
     </td>
     <td>
-      <div>am. No. 159, 1997; No. 111, 2005</div>
+      <div>am. No. 159, 1997</div>
     </td>
   </tr>
   <tr>
@@ -1206,26 +1206,10 @@ _(a)_     The _Hearing Services Administration Act 1997_ was amended by 
   </tr>
   <tr>
     <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 111, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>Note to s. 21(7)</div>
     </td>
     <td>
       <div>ad. No. 159, 1997</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 111, 2005</div>
     </td>
   </tr>
   <tr>
@@ -1253,6 +1237,27 @@ _(a)_     The _Hearing Services Administration Act 1997_ was amended by 
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Human Services Legislation Amendment Act 2005 (No. 111, 2005)_
+
+The following amendments commence on 6 March 2006 unless proclaimed earlier:
+
+## Schedule 2
+
+## 396  Subsections 21(6) and (7) (notes)
+
+Repeal the notes.
+
+## 397  Subsection 21(10) (at the end of the definition of _body_)
+
+Add:
+
+               ; or (d)  the Chief Executive Officer of Medicare Australia.
+
+As at 9 September 2005 the amendments are not incorporated in this compilation.
 
 
 ## Table A
