@@ -1,218 +1,221 @@
-![](http://www.comlaw.gov.au/Details/C2006C00349/Html/PublicService1999WD02_Version1_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00200/Html/78AEF559A3EF1DC6CA25715700137AF7/$FILE/image001.gif)
 
 # Public Service Act 1999
 
 **Act No. 147 of 1999 as amended**
 
-This compilation was prepared on 1 July 2006
- taking into account amendments up to Act No. 56 of 2006
+This compilation was prepared on 12 April 2006
+taking into account amendments up to Act No. 30 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Objects of this Act
+[3](#3).            Objects of this Act                                                                              1
 
-[4](#4).            This Act binds the Crown
+[4](#4).            This Act binds the Crown                                                                   2
 
-[5](#5).            This Act extends to things outside Australia
+[5](#5).            This Act extends to things outside Australia                                      2
 
-[6](#6).            Engagement of employees in Department or Executive Agency
+[6](#6).            Engagement of employees in Department or Executive Agency         2
 
 **Part 2—Interpretation**
 
-[7](#7).            Interpretation
+[7](#7).            Interpretation                                                                                       3
 
-[8](#8).            Workplace Relations Act
+[8](#8).            Workplace Relations Act                                                                     6
 
 **Part 3—The Australian Public Service**
 
-[9](#9).            Constitution of the APS
+[9](#9).            Constitution of the APS                                                                      7
 
-[10](#10).          APS Values
+[10](#10).          APS Values                                                                                          7
 
-[11](#11).          Commissioner’s Directions about APS Values
+[11](#11).          Commissioner’s Directions about APS Values                                   8
 
-[12](#12).          Agency Heads must promote APS Values
+[12](#12).          Agency Heads must promote APS Values                                          8
 
-[13](#13).          The APS Code of Conduct
+[13](#13).          The APS Code of Conduct                                                                  8
 
-[14](#14).          Agency Heads bound by Code of Conduct
+[14](#14).          Agency Heads bound by Code of Conduct                                       10
 
-[15](#15).          Breaches of the Code of Conduct
+[15](#15).          Breaches of the Code of Conduct                                                      10
 
-[16](#16).          Protection for whistleblowers
+[16](#16).          Protection for whistleblowers                                                           11
 
-[17](#17).          Prohibition on patronage and favouritism
+[17](#17).          Prohibition on patronage and favouritism                                         11
 
-[18](#18).          Promotion of employment equity
+[18](#18).          Promotion of employment equity                                                     11
 
-[19](#19).          Limitation on Ministerial directions to Agency Head
+[19](#19).          Limitation on Ministerial directions to Agency Head                       12
 
 **Part 4—APS employees** 
 
     **Division 1—APS employees generally**
 
-[20](#20).          Employer powers etc  of Agency Head
+[20](#20).          Employer powers etc  of Agency Head                                            13
 
-[21](#21).          Prime Minister’s directions to Agency Heads
+[21](#21).          Prime Minister’s directions to Agency Heads                                  13
 
-[22](#22).          Engagement of APS employees
+[22](#22).          Engagement of APS employees                                                         13
 
-[23](#23).          Classification Rules
+[23](#23).          Classification Rules                                                                           14
 
-[24](#24).          Remuneration and other conditions
+[24](#24).          Remuneration and other conditions                                                   15
 
-[25](#25).          Assignment of duties
+[25](#25).          Assignment of duties                                                                         15
 
-[26](#26).          Voluntary moves between Agencies
+[26](#26).          Voluntary moves between Agencies                                                  16
 
-[27](#27).          Compulsory moves between Agencies
+[27](#27).          Compulsory moves between Agencies                                              16
 
-[28](#28).          Suspension
+[28](#28).          Suspension                                                                                         16
 
-[29](#29).          Termination of employment
+[29](#29).          Termination of employment                                                              16
 
-[30](#30).          Retirement
+[30](#30).          Retirement                                                                                         17
 
-[31](#31).          Forfeiture of additional remuneration
+[31](#31).          Forfeiture of additional remuneration                                                17
 
-[32](#32).          Right of return for election candidates
+[32](#32).          Right of return for election candidates                                               18
 
-[33](#33).          Review of actions
+[33](#33).          Review of actions                                                                              18
 
     **Division 2—The Senior Executive Service**
 
-[34](#34).          SES employees
+[34](#34).          SES employees                                                                                  20
 
-[35](#35).          Constitution and role of SES
+[35](#35).          Constitution and role of SES                                                             20
 
-[36](#36).          Commissioner’s Directions on SES matters
+[36](#36).          Commissioner’s Directions on SES matters                                      20
 
-[37](#37).          Incentive to retire
+[37](#37).          Incentive to retire                                                                               20
 
-[38](#38).          Commissioner’s certificate required for termination of SES employment
+[38](#38).          Commissioner’s certificate required for termination of SES employment               21
 
     **Division 3—Heads of Mission**
 
-[39](#39).          Heads of Mission
+[39](#39).          Heads of Mission                                                                              22
 
 **Part 5—The Public Service Commissioner** 
 
     **Division 1—Commissioner’s functions etc.**
 
-[40](#40).          Public Service Commissioner
+[40](#40).          Public Service Commissioner                                                             23
 
-[41](#41).          Commissioner’s functions
+[41](#41).          Commissioner’s functions                                                                 23
 
-[42](#42).          Commissioner’s Directions
+[42](#42).          Commissioner’s Directions                                                               24
 
-[43](#43).          Commissioner’s inquiry powers
+[43](#43).          Commissioner’s inquiry powers                                                       25
 
-[44](#44).          Annual report
+[44](#44).          Annual report                                                                                    25
 
     **Division 2—Commissioner’s appointment, conditions etc.**
 
-[45](#45).          Appointment of Commissioner
+[45](#45).          Appointment of Commissioner                                                         26
 
-[46](#46).          Remuneration etc 
+[46](#46).          Remuneration etc                                                                               26
 
-[47](#47).          Removal from office
+[47](#47).          Removal from office                                                                          26
 
-[48](#48).          Acting Commissioner
+[48](#48).          Acting Commissioner                                                                        27
 
 **Part 6—The Merit Protection Commissioner** 
 
     **Division 1—Merit Protection Commissioner’s functions etc.**
 
-[49](#49).          Merit Protection Commissioner
+[49](#49).          Merit Protection Commissioner                                                        28
 
-[50](#50).          Merit Protection Commissioner’s functions
+[50](#50).          Merit Protection Commissioner’s functions                                     28
 
-[51](#51).          Annual report
+[51](#51).          Annual report                                                                                    29
 
     **Division 2—Merit Protection Commissioner’s appointment, conditions etc.**
 
-[52](#52).          Appointment of Merit Protection Commissioner
+[52](#52).          Appointment of Merit Protection Commissioner                             30
 
-[53](#53).          Remuneration etc 
+[53](#53).          Remuneration etc                                                                               30
 
-[54](#54).          Removal from office
+[54](#54).          Removal from office                                                                          30
 
-[55](#55).          Acting Merit Protection Commissioner
+[55](#55).          Acting Merit Protection Commissioner                                            31
 
 **Part 7—Secretaries of Departments**
 
-[56](#56).          Creation of offices of Secretary
+[56](#56).          Creation of offices of Secretary                                                         32
 
-[57](#57).          Responsibilities of Secretaries
+[57](#57).          Responsibilities of Secretaries                                                           32
 
-[58](#58).          Appointment etc  of Secretary
+[58](#58).          Appointment etc  of Secretary                                                          32
 
-[59](#59).          Termination of appointment
+[59](#59).          Termination of appointment                                                             33
 
-[60](#60).          Engagement of former Secretaries
+[60](#60).          Engagement of former Secretaries                                                      33
 
-[61](#61).          Remuneration and other conditions
+[61](#61).          Remuneration and other conditions                                                   33
 
-[62](#62).          Acting Secretary
+[62](#62).          Acting Secretary                                                                                34
 
-[63](#63).          Annual report
+[63](#63).          Annual report                                                                                    34
 
 **Part 8—Management Advisory Committee**
 
-[64](#64).          Management Advisory Committee
+[64](#64).          Management Advisory Committee                                                   35
 
 **Part 9—Executive Agencies**
 
-[65](#65).          Establishment etc  of Executive Agencies
+[65](#65).          Establishment etc  of Executive Agencies                                          36
 
-[66](#66).          Responsibilities of Heads of Executive Agencies
+[66](#66).          Responsibilities of Heads of Executive Agencies                              36
 
-[67](#67).          Appointment etc  of Head
+[67](#67).          Appointment etc  of Head                                                                 37
 
-[68](#68).          Remuneration and other conditions
+[68](#68).          Remuneration and other conditions                                                   37
 
-[69](#69).          Acting Head
+[69](#69).          Acting Head                                                                                       37
 
-[70](#70).          Annual report
+[70](#70).          Annual report                                                                                    38
 
 **Part 10—Administrative arrangements and re-organisations**
 
-[71](#71).          Arrangements with States and Territories
+[71](#71).          Arrangements with States and Territories                                         39
 
-[72](#72).          Machinery of government changes
+[72](#72).          Machinery of government changes                                                    39
 
 **Part 11—Miscellaneous**
 
-[73](#73).          Payments in special circumstances
+[73](#73).          Payments in special circumstances                                                    41
 
-[74](#74).          Locally engaged employees
+[74](#74).          Locally engaged employees                                                               42
 
-[75](#75).          Attachment of salaries to satisfy judgment debts
+[75](#75).          Attachment of salaries to satisfy judgment debts                             42
 
-[76](#76).          Release of personal information
+[76](#76).          Release of personal information                                                        42
 
-[77](#77).          Positions
+[77](#77).          Positions                                                                                            43
 
-[78](#78).          Delegations
+[78](#78).          Delegations                                                                                        43
 
-[79](#79).          Regulations
+[79](#79).          Regulations                                                                                        44
 
 **Notes** 
+
 
 ## An Act to provide for the establishment and management of the Australian Public Service, and for other purposes
 
@@ -268,7 +271,7 @@ Note:          See also the _Public Employment (Consequential 
 
 ##### <a id="7"></a>7  Interpretation
 
-                   In this Act, unless the contrary intention appears:
+                   In this Act, unless the contrary intention appears:
 
                     <a name="acting-se-employe"></a>**_acting SES employee_** means a non-SES employee who is acting in a position usually occupied by an SES employee.
 
@@ -438,7 +441,7 @@ Note:          See also the _Public Employment (Consequential 
 
 ##### <a id="11"></a>11  Commissioner’s Directions about APS Values
 
-             (1)  The Commissioner must issue directions in writing in relation to each of the APS Values for the purpose of:
+             (1) The Commissioner must issue directions in writing in relation to each of the APS Values for the purpose of:
 
                      (a)  ensuring that the APS incorporates and upholds the APS Values; and
 
@@ -490,7 +493,7 @@ in order to gain, or seek to gain, a benefit or advantage for the employee or fo
 
 ##### <a id="14"></a>14  Agency Heads bound by Code of Conduct
 
-             (1)  Agency Heads are bound by the Code of Conduct in the same way as APS employees.
+             (1) Agency Heads are bound by the Code of Conduct in the same way as APS employees.
 
              (2)  Statutory office holders are bound by the Code of Conduct in the same way as APS employees.
 
@@ -822,7 +825,7 @@ Note:          For example, the regulations might provide that
 
 ##### <a id="39"></a>39  Heads of Mission
 
-             (1)  The appointment of a Head of Mission by the Governor-General cannot take effect unless the person is an APS employee.
+             (1)  The appointment of a Head of Mission by the Governor-General cannot take effect unless the person is an APS employee or a person employed under the _Australian Trade Commission Act 1985_.
 
              (2)  An Agency Head must comply with any direction in writing by the Agency Minister:
 
@@ -1262,7 +1265,7 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
                      (b)  a determination under this Act.
 
-             (4)  Subsection (3) ceases to have effect on the next occasion when there is a relevant change in remuneration and conditions in the Commonwealth authority. For this purpose, **_relevant change_** means a change that:
+             (4)  Subsection (3) ceases to have effect on the next occasion when there is a relevant change in remuneration and conditions in the Commonwealth authority. For this purpose, **_relevant variation_** means a change that:
 
                      (a)  results from:
 
@@ -1404,6 +1407,7 @@ Note:          The _Freedom of Information Act 1982_ and the _
 
                      (c)  prescribing penalties for offences against the regulations by way of fines of up to 10 penalty units.
 
+
 # Notes to the _Public Service Act 1999_
 
 ### Note 1
@@ -1434,11 +1438,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1451,122 +1457,110 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Public Service Act 1999</div>
-  </td>
-  <td>
-    <div>147, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>5 Dec 1999 ( <i>see Gazette</i>1999, No. S584)</div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 
+<tbody>
+  <tr>
+    <td>
+      <div>Public Service Act 1999</div>
+    </td>
+    <td>
+      <div>147, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>5 Dec 1999 ( <i>see Gazette</i>1999, No. S584)</div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td>
+      <div>137, 2000</div>
+    </td>
+    <td>
+      <div>24 Nov 2000</div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 
 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 2 (items 418, 419)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2002</div>
-  </td>
-  <td>
-    <div>63, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 26, 27): <i>(a)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003</div>
-  </td>
-  <td>
-    <div>140, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td colspan="2">
-    <div>S. 4 and Schedule 1 (item 32): <i>(b)</i></div>
-  </td>
-  <td colspan="2">
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
-  </td>
-  <td>
-    <div>30, 2006</div>
-  </td>
-  <td>
-    <div>6 Apr 2006</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 3 (items 35, 36): 7 Apr 2006</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Trade Commission Legislation Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>56, 2006</div>
-  </td>
-  <td>
-    <div>21 June 2006</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 3 (item 6): 1 July 2006</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+Remainder: 24 May 2001 
+
+</div>
+    </td>
+    <td colspan="2">
+      <div>Sch. 2 (items 418, 419)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2002</div>
+    </td>
+    <td>
+      <div>63, 2002</div>
+    </td>
+    <td>
+      <div>3 July 2002</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 1 (items 26, 27): <i>(a)</i></div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003</div>
+    </td>
+    <td>
+      <div>140, 2003</div>
+    </td>
+    <td>
+      <div>17 Dec 2003</div>
+    </td>
+    <td colspan="2">
+      <div>S. 4 and Schedule 1 (item 32): <i>(b)</i></div>
+    </td>
+    <td colspan="2">
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act (No. 1) 2006</div>
+    </td>
+    <td>
+      <div>30, 2006</div>
+    </td>
+    <td>
+      <div>6 Apr 2006</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 3 (items 35, 36): 7 Apr 2006</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     Subsection 2(1) (item 21) of the _Statue Law Revision Act 2002_, which provides as follows:
 
@@ -1636,24 +1630,26 @@ _(a)_     Subsection 2(1) (item 21) of the _Statue Law Revision Act 20
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      21\. Schedule 1, items 26 and 27
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after item 1 of Schedule 2 to the
-        <i>Ministers of State and Other Legislation Amendment Act 2000</i>commenced
-    </div>
-  </td>
-  <td>
-    <div>
-      10 March 2000
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        21\. Schedule 1, items 26 and 27
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after item 1 of Schedule 2 to the
+          <i>Ministers of State and Other Legislation Amendment Act 2000</i>commenced
+      </div>
+    </td>
+    <td>
+      <div>
+        10 March 2000
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:
 
@@ -1691,44 +1687,47 @@ _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      2\. Sections 4 and 5
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of sections 3 to 62 of the
-        <i>Legislative Instruments Act 2003</i>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2\. Sections 4 and 5
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of sections 3 to 62 of the
+          <i>Legislative Instruments Act 2003</i>
 
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      3\. Schedule 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of sections 3 to 62 of the
-        <i>Legislative Instruments Act 2003</i>
+      </div>
+    </td>
+    <td>
+      <div>
+        1 January 2005
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        3\. Schedule 1
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the commencement of sections 3 to 62 of the
+          <i>Legislative Instruments Act 2003</i>
 
-    </div>
-  </td>
-  <td>
-    <div>
-      1 January 2005
-    </div>
-  </td>
-</tr></table>
+      </div>
+    </td>
+    <td>
+      <div>
+        1 January 2005
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -1753,166 +1752,153 @@ _(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23, 24</div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 56, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 140, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73</div>
-  </td>
-  <td>
-    <div>am. No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 73</div>
-  </td>
-  <td>
-    <div>ad. No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>am. No. 63, 2002</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 23, 24</div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>am. No. 140, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>am. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 10</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 72</div>
+    </td>
+    <td>
+      <div>am. SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 11</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 73</div>
+    </td>
+    <td>
+      <div>am. No. 30, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 73</div>
+    </td>
+    <td>
+      <div>ad. No. 30, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 78</div>
+    </td>
+    <td>
+      <div>am. No. 63, 2002</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1948,7 +1934,9 @@ If:
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003 (No. 140, 2003)_
 
@@ -1999,6 +1987,7 @@ the enabling legislation has effect, on and after the commencing day, as if:
              (5)  In this section:
 
                     <a name="commenc-dai"></a>**_commencing day_** means the commencing day within the meaning of the _Legislative Instruments Act 2003._
+
 
  
 
