@@ -1,14 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2004C01727/Html/AgriVetsChem94_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01726/Html/AgVetChemicals94_image001.gif)
 
-# Agricultural and Veterinary Chemicals Act 1994
+# Agricultural And Veterinary Chemicals Act 1994
 
-**Act No. 36 of 1994 as amended**
+Act No. 36 of 1994 as amended 
 
-This compilation was prepared on 5 July 2000 
- taking into account amendments up to Act No. 57 of 2000
+Consolidated as in force on 9 June 1999
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+(includes amendments up to Act No. 152 of 1995)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -17,75 +15,79 @@ Prepared by the Office of Legislative Drafting,
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        2
+1             Short title [_see_ Note 1]                                                                        2
 
-[2](#2).            Commencement \[s _ee_ Note 1]                                                               2
+2             Commencement [_see_ Note 1]                                                               2
 
-[3](#3).            Object                                                                                                  2
+3             Object                                                                                                  2
 
-[4](#4).            Definitions                                                                                           3
+4             Definitions                                                                                           3
 
-[5](#5).            Jervis Bay Territory                                                                            5
+5             Jervis Bay Territory                                                                            5
 
-[6](#6).            Extension to external Territories                                                          5
+6             Extension to external Territories                                                          5
 
-**Part 2—The Agvet Code, and the Agvet Regulations, of the participating Territories**
+**Part 2—The Agvet Code, and the Agvet Regulations, of the participating Territories** 
 
-[7](#7).            Application of Agvet Code in the participating Territories                6
+7             Application of Agvet Code in the participating Territories                6
 
-[8](#8).            Application of Agvet Regulations in the participating Territories      6
+8             Application of Agvet Regulations in the participating Territories      6
 
-[9](#9).            Agvet Code of the participating Territories taken to be an Act          7
+9             Agvet Code of the participating Territories taken to be an Act          7
 
-[10](#10).          Relationship between the Agvet Code and Agvet Regulations of the participating Territories and the laws of a participating Territory                                                                         7
+10           Relationship between the Agvet Code and Agvet Regulations of the participating Territories and the laws of a participating Territory                                                                         7
 
-**Part 3—Citing the Agvet Code and the Agvet Regulations**
+**Part 3—Citing the Agvet Code and the Agvet Regulations** 
 
-[11](#11).          References to Agvet Code and Agvet Regulations of other jurisdictions     8
+11           References to Agvet Code and Agvet Regulations of other jurisdictions     8
 
-[12](#12).          References to Agvet Codes and Agvet Regulations                             8
+12           References to Agvet Codes and Agvet Regulations                             8
 
-**Part 4—Application of Agvet Codes to the Crown**
+**Part 4—Application of Agvet Codes to the Crown** 
 
-[13](#13).          Agvet Code of the participating Territories                                      10
+13           Agvet Code of the participating Territories                                      10
 
-[14](#14).          Agvet Code of other jurisdictions                                                      10
+14           Agvet Code of other jurisdictions                                                      10
 
-[15](#15).          Crown not liable to prosecution                                                        10
+15           Crown not liable to prosecution                                                        10
 
-[16](#16).          This Part overrides the prerogative                                                   10
+16           This Part overrides the prerogative                                                   10
 
-**Part 5—Performance of functions that corresponding laws of States confer on Commonwealth authorities and officers**
+**Part 5—Performance of functions that corresponding laws of States confer on Commonwealth authorities and officers** 
 
-[17](#17).          Ministers                                                                                           11
+17           Ministers                                                                                           11
 
-[18](#18).          Commonwealth authorities and officers                                            11
+18           Commonwealth authorities and officers                                            11
 
-[19](#19).          _Gazette_ notices under corresponding laws                                         11
+19           Gazette notices under corresponding laws                                        11
 
-**Part 6—Jurisdiction of courts**
+**Part 6—Jurisdiction of courts** 
 
-[20](#20).          Jurisdiction of Federal Court and courts of Territories                     12
+20           Jurisdiction of Federal Court and courts of Territories                     12
 
-[21](#21).          Exercise of jurisdiction under cross-vesting provisions                     12
+21           Exercise of jurisdiction under cross-vesting provisions                     12
 
-**Part 7—Miscellaneous**
+**Part 7—Miscellaneous** 
 
-[22](#22).          Orders                                                                                                13
+22           Orders                                                                                                13
 
-[23](#23).          Manufacturing principles                                                                  13
+23           Manufacturing principles                                                                  13
 
-[24](#24).          Repeal and transitional provisions                                                    13
+24           Repeal and transitional provisions                                                    14
 
-[25](#25).          Regulations                                                                                        14
+25           Regulations                                                                                        14
 
-**Part 8—Imposition of fees and taxes**
+**Part 8—Imposition of fees and taxes** 
 
-[26](#26).          Fees (including taxes)                                                                         18
+26           Fees (including taxes)                                                                         15
 
 **Notes** 
 
-An Act to make a law for the government of certain Territories in relation to the evaluation, registration and control of agricultural and veterinary chemical products, and for related purposes
+ 
+
+## An Act to make a law for the government of certain Territories in relation to the evaluation, registration and control of agricultural and veterinary chemical products, and for related purposes
+
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
 
 Recognising:
 
@@ -104,6 +106,8 @@ Recognising:
                    The Parliament of Australia enacts:
 
 ## Part 1—Preliminary
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -149,7 +153,7 @@ Recognising:
 
                      (a)  a body corporate, or an unincorporated body, established for a public purpose by or under an Act; and
 
-                     (b)  a tribunal or authority established by or in accordance with an Act.
+                     (b)  a court, tribunal or authority established by or in accordance with an Act.
 
                     <a name="chemic-product"></a>**_chemical product_** has the same meaning as in the Agvet Code of the participating Territories.
 
@@ -227,11 +231,13 @@ Recognising:
 
                    For the purposes of this Act, the Jervis Bay Territory is taken to be part of the Australian Capital Territory.
 
-##### <a id="6"></a>6  Extension to external Territories
+##### <a id="6"></a>6  Extension to external Territories
 
                    This Act extends to every external Territory that is a participating Territory.
 
 ## Part 2—The Agvet Code, and the Agvet Regulations, of the participating Territories
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="7"></a>7  Application of Agvet Code in the participating Territories
 
@@ -271,6 +277,8 @@ Recognising:
 
 ## Part 3—Citing the Agvet Code and the Agvet Regulations
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="11"></a>11  References to Agvet Code and Agvet Regulations of other jurisdictions
 
              (1)  This section has effect for the purposes of an Act, a law of a participating Territory, or an instrument made under an Act or such a law.
@@ -293,6 +301,8 @@ Recognising:
 
 ## Part 4—Application of Agvet Codes to the Crown
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="13"></a>13  Agvet Code of the participating Territories
 
                    The Agvet Code of the participating Territories binds the Crown in all its capacities.
@@ -311,6 +321,8 @@ Recognising:
 
 ## Part 5—Performance of functions that corresponding laws of States confer on Commonwealth authorities and officers
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="17"></a>17  Ministers
 
                    A corresponding law may confer prescribed functions and powers on a Minister.
@@ -325,6 +337,8 @@ Recognising:
 
 ## Part 6—Jurisdiction of courts
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="20"></a>20  Jurisdiction of Federal Court and courts of Territories
 
              (1)  Jurisdiction is conferred on the Federal Court of Australia with respect to all civil matters arising under the Agvet Code of the participating Territories or the Agvet Regulations of the participating Territories.
@@ -333,13 +347,15 @@ Recognising:
 
              (3)  Jurisdiction is conferred on the courts of the participating Territories with respect to all criminal matters arising under the Agvet Code of the participating Territories or the Agvet Regulations of the participating Territories.
 
-             (4)  The Federal Court of Australia may exercise jurisdiction (whether original or appellate) conferred on that Court by a law of the Northern Territory corresponding to this Part with respect to matters arising under the Agvet Code or the Agvet Regulations of the Northern Territory.
+             (4)  The Federal Court of Australia may exercise jurisdiction (whether original or appellate) conferred on that Court by a law of a State corresponding to this Part with respect to matters arising under the Agvet Code or the Agvet Regulations of that State.
 
 ##### <a id="21"></a>21  Exercise of jurisdiction under cross-vesting provisions
 
                    This Act does not affect the operation of a provision of any other law of the Commonwealth, or any law of a State or of a participating Territory, relating to cross-vesting of jurisdiction.
 
 ## Part 7—Miscellaneous
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="22"></a>22  Orders
 
@@ -381,47 +397,64 @@ and may include codes of good manufacturing practice.
 
 ## Part 8—Imposition of fees and taxes
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="26"></a>26  Fees (including taxes)
 
                    This section imposes the fees (including fees that are taxes) that the Agvet Regulations of the participating Territories prescribe.
 
-# Notes to the _Agricultural and Veterinary Chemicals Act 1994_
+# Notes to the _Agricultural And Veterinary Chemicals Act 1994_
 
 ### Note 1
 
-The _Agricultural and Veterinary Chemicals Act 1994_ as shown in this compilation comprises Act No. 36, 1994 amended as indicated in the Tables below. 
+The _Agricultural and Veterinary Chemicals Act 1994_ as shown in this reprint comprises Act No. 36, 1994 amended as indicated in the Tables below. 
 
-### Table of Acts
+Table of Acts
+
+* * *
 
 <table>
 <colgroup>
-  <col width="31%">
+  <col width="30%">
   <col width="16%">
   <col width="18%">
-  <col width="21%">
-  <col width="0%">
+  <col width="22%">
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-  </td>
-  <td>
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td colspan="2">
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead></table>
+
+* * *
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
 <tr>
   <td>
     <div>Agricultural and Veterinary Chemicals Act 1994</div>
@@ -432,7 +465,7 @@ of Assent</div>
   <td>
     <div>15 Mar 1994</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>15 Mar 1995</div>
   </td>
   <td>
@@ -449,45 +482,16 @@ of Assent</div>
   <td>
     <div>16 Dec 1995</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Ss. 1 and 2: Royal Assent 
 Remainder: 1 July 1996 ( <i>see Gazette</i>1996, No. S230)</div>
   </td>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Jurisdiction of Courts Legislation Amendment Act 2000</div>
-  </td>
-  <td>
-    <div>57, 2000</div>
-  </td>
-  <td>
-    <div>30 May 2000</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 28-30): 1 July 2000 ( <i>see Gazette</i>2000, No. GN25) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr></table>
 
-_(a)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amended by Schedule 1 (items 28-30) only of the _Jurisdiction of Courts Legislation Amendment Act 2000_, subsection 2(2) of which provides as follows:
-
-                 (2)   The items in Schedule 1, other than items 77 to 90, commence on a day or days to be fixed by Proclamation. 
-
-## Table of Amendments
+ 
 
 <table>
 <colgroup>
@@ -512,27 +516,13 @@ _(a)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amend
 </thead>
 <tr>
   <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 57, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 7</div>
   </td>
   <td>
     <div>am. No. 152, 1995</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 57, 2000</div>
-  </td>
 </tr></table>
+
+ 
 
  
