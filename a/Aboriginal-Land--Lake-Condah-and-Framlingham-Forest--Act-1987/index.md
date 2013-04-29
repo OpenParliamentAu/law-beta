@@ -1,11 +1,11 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="64A976664A0A3447CA256FD5000D8BAE/$FILE/image001.png"></v:imagedata></v:shape>
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="C16C5472FF448092CA256FB8001AF99E/$FILE/image001.png"></v:imagedata></v:shape>
 
 # <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Aboriginal</st1:placename> <st1:placetype>Land</st1:placetype></st1:place> (<st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placetype>Lake</st1:placetype> <st1:placename>Condah</st1:placename></st1:place> and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Framlingham</st1:placename> <st1:placetype>Forest</st1:placetype></st1:place>) Act 1987
 
 **Act No. 34 of 1987 as amended**
 
-This compilation was prepared on 31 March 2005
-taking into account amendments up to Act No. 32 of 2005
+This compilation was prepared on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="3">1 March 2005</st1:date>
+taking into account amendments up to Act No. 8 of 2005
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -119,6 +119,10 @@ Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bott
 
 **Schedule 1—Land in the Parish of Condah to be vested in the Kerrup-Jmara Elders Aboriginal Corporation<span style="mso-tab-count: 1">                                                                                                                                      </span>** 
 
+**Part A<span style="mso-tab-count: 1">     </span>** 
+
+**Part B<span style="mso-tab-count: 1">     </span>** 
+
 **Schedule 2—Land in the Parish of Purnim to be vested in the Kirrae Whurrong Aboriginal Corporation<span style="mso-tab-count: 1">                                                                                                                                      </span>** 
 
 **Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
@@ -185,7 +189,7 @@ Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bott
 
              (1)  In this Act:
 
-                    <a name="aborigin"></a>**_Aboriginal_** means a member of the Aboriginal race of <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
+                    <a name="aborigin"></a>**_Aboriginal_** means a member of the Aboriginal race of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
                     <a name="commun-council"></a>**_Community Council_** means the governing committee of the Kirrae Whurrong Aboriginal Corporation.
 
@@ -277,9 +281,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (1)  The Minister may, either generally or as otherwise provided by the instrument of delegation, by writing signed by the Minister, delegate all or any powers that are conferred on the Minister by or under this Act to:
 
-                     (a)  a Minister of the Crown of <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Victoria</st1:place></st1:state>; or
+                     (a)  a Minister of the Crown of <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Victoria</st1:place></st1:state>;
 
-                     (b)  an officer of the Department.<o:p></o:p>
+                     (b)  an officer of the Department; or
+
+                     (c)  the Chief Executive Officer of, or a member of the staff of, the Aboriginal and Torres Strait Islander Commission.
 
              (2)  A Minister of the Crown of the State of <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Victoria</st1:place></st1:state> to whom a power has been delegated under subsection (1) may, by writing signed by that Minister, authorise another person to exercise the power so delegated.
 
@@ -926,11 +932,11 @@ _Section 6_
 
 ## Part A
 
-<v:shape id="_x0000_i1026" style="WIDTH: 354pt; HEIGHT: 395.25pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="64A976664A0A3447CA256FD5000D8BAE/$FILE/image003.png"></v:imagedata></v:shape>
+<v:shape id="_x0000_i1026" style="WIDTH: 354pt; HEIGHT: 395.25pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="C16C5472FF448092CA256FB8001AF99E/$FILE/image003.png"></v:imagedata></v:shape>
 
 ## Part B 
 
-<v:shape id="_x0000_i1027" style="WIDTH: 4in; HEIGHT: 471pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="64A976664A0A3447CA256FD5000D8BAE/$FILE/image005.wmz"></v:imagedata></v:shape>
+<v:shape id="_x0000_i1027" style="WIDTH: 4in; HEIGHT: 471pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="C16C5472FF448092CA256FB8001AF99E/$FILE/image005.wmz"></v:imagedata></v:shape>
 
 <o:p> </o:p>
 
@@ -940,7 +946,7 @@ _Section 6_
 
 _Section 7_
 
-<v:shape id="_x0000_i1028" style="WIDTH: 354pt; HEIGHT: 414pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="64A976664A0A3447CA256FD5000D8BAE/$FILE/image007.png"></v:imagedata></v:shape>
+<v:shape id="_x0000_i1028" style="WIDTH: 354pt; HEIGHT: 414pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="C16C5472FF448092CA256FB8001AF99E/$FILE/image007.png"></v:imagedata></v:shape>
 
 
 # Notes to the _<span style="mso-no-proof: yes">Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987</span>_
@@ -1143,23 +1149,6 @@ Remainder: Royal Assent
       <div>S. 4 and Sch. 1 (item 496)</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Aboriginal and Torres Strait Islander Commission Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>32, 2005</div>
-    </td>
-    <td>
-      <div>22 Mar 2005</div>
-    </td>
-    <td>
-      <div>Schedule 4 (items 5, 6): 24 Mar 2005</div>
-    </td>
-    <td>
-      <div>Sch. 4 (item 6)</div>
-    </td>
-  </tr>
 </tbody></table>
 
 
@@ -1221,7 +1210,7 @@ _(a)_     The <st1:place style="BACKGROUND-POSITION: left bottom; BACKGR
       <div>S. 5 </div>
     </td>
     <td>
-      <div>am. No. 150, 1989; No. 32, 2005</div>
+      <div>am. No. 150, 1989</div>
     </td>
   </tr>
   <tr>
@@ -1390,18 +1379,6 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 ## 496  Saving provision—Finance Minister’s determinations
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
-
-* * *
-
-_Aboriginal and Torres Strait Islander Commission Amendment Act 2005 
-(No. 32, 2005)<o:p></o:p>
-_
-
-## Schedule 4<o:p></o:p>
-
-## 6  Saving provision<o:p></o:p>
-
-Despite the amendment of section 5 of the _Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_, any delegation by the Minister to an officer of the Department that was in force under that section immediately before the day Schedules 1 and 2 to this Act commence continues in force on and after that day as if it were a delegation made by the Minister under that section as amended by this Act.<o:p></o:p>
 
 
 <o:p> </o:p>
