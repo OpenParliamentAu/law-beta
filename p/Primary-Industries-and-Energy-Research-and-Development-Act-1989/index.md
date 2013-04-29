@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00289/Html/PrimIndEnResDvptA1989_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00540/Html/PrimIndEnResDvptA1989_WD02_image001.gif)
 
 # Primary Industries and Energy Research and Development Act 1989
 
 **Act No. 17 of 1990 as amended**
 
-This compilation was prepared on 10 July 2008
- taking into account amendments up to Act No. 66 of 2008
+This compilation was prepared on 3 September 2007
+ taking into account amendments up to Act No. 123 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -400,7 +400,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Primary Industries and Energy Research and Development Act 1989_.
 
@@ -570,7 +570,7 @@ in respect of the levy.
 
                     (aa)  in relation to the levy imposed by Schedule 25 to the _Primary Industries (Excise) Levies Act 1999_—the whole of the levy; and
 
-                     (a)  in relation to the levy imposed by the repealed _Wheat Levy Act 1989_ during a season (within the meaning of the repealed _Wheat Marketing Act 1989_) that began before 1 July 1999—the proportion of the levy referred to in subsection 5(5); and
+                     (a)  in relation to the levy imposed by the repealed _Wheat Levy Act 1989_ during a season (within the meaning of the _Wheat Marketing Act 1989_) that began before 1 July 1999—the proportion of the levy referred to in subsection 5(5); and
 
                      (b)  in relation to any other levy—so much of the levy as the regulations declare to be the research component of the levy under paragraph 5(3)(a).
 
@@ -622,9 +622,9 @@ in respect of the levy.
 
              (4)  Paragraph (3)(a) does not apply to the levy imposed by the repealed _Wheat Levy Act 1989_ during a season that began before 1 July 1999.
 
-             (5)  If the levy imposed by the repealed _Wheat Levy Act 1989_ during a season that began before 1 July 1999  is declared by the regulations to be attached to an R&amp;D Corporation or an R&amp;D Fund, the research component of the levy, in relation to each season, is the proportion of the levy that represents the percentage of the value of leviable wheat on which levy is imposed during that season determined by the Grains Council under subsection 85(3) of the repealed _Wheat Marketing Act 1989_.
+             (5)  If the levy imposed by the repealed _Wheat Levy Act 1989_ during a season that began before 1 July 1999  is declared by the regulations to be attached to an R&amp;D Corporation or an R&amp;D Fund, the research component of the levy, in relation to each season, is the proportion of the levy that represents the percentage of the value of leviable wheat on which levy is imposed during that season determined by the Grains Council under subsection 85(3) of the _Wheat Marketing Act 1989_.
 
-             (6)  In subsection (5), the expressions **_Grains Council_**, **_leviable wheat_** and **_season_** have the same meaning as in Part 7 of the repealed _Wheat Marketing Act 1989_.
+             (6)  In subsection (5), the expressions **_Grains Council_**, **_leviable wheat_** and **_season_** have the same meaning as in Part 7 of the _Wheat Marketing Act 1989_.
 
 ##### <a id="6"></a>6  Redirecting levies
 
@@ -2164,7 +2164,7 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
              (5)  The Minister must cause a copy of an R&amp;D Council’s annual report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the annual report.
 
-##### <a id="106"></a>106  Accountability to representative organisations
+##### <a id="106"></a>106  Accountability to representative organisations
 
                    The Chairperson of an R&amp;D Council must, as soon as practicable after the Council’s annual report has been submitted to the Minister, provide copies of the report to each of the Council’s representative organisations, and make arrangements with each of those organisations to attend the organisation’s annual conference, or a meeting of the organisation’s executive, for the purpose of enabling:
 
@@ -3827,23 +3827,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Wheat Export Marketing (Repeal and Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>66, 2008</div>
-  </td>
-  <td>
-    <div>30 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items (12–14): 1 July 2008 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Part 5 (sections 10–12) only of the _Primary Industries Legislation Amendment Act (No. 2) 1991_, subsection 2(1) of which provides as follows:
@@ -3940,7 +3923,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 134, 1990; Nos. 109 and 163, 1991; No. 59, 1992; Nos. 65 and 94, 1993; No. 194, 1997; No. 32, 1999; No. 8, 2005; No. 101, 2006; No. 71, 2007; No. 66, 2008</div>
+    <div>am. No. 134, 1990; Nos. 109 and 163, 1991; No. 59, 1992; Nos. 65 and 94, 1993; No. 194, 1997; No. 32, 1999; No. 8, 2005; No. 101, 2006; No. 71, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3948,7 +3931,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 134, 1990; No. 194, 1997; No. 32, 1999; No. 66, 2008</div>
+    <div>am. No. 134, 1990; No. 194, 1997; No. 32, 1999</div>
   </td>
 </tr>
 <tr>
