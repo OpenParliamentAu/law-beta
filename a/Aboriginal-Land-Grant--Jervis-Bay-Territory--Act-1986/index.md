@@ -1,169 +1,167 @@
-![](http://www.comlaw.gov.au/Details/C2004C01560/Html/AbLandGrJervisBay86_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01559/Html/AboLanGrJerBay86_image001.gif)
 
-# Aboriginal Land Grant (Jervis Bay Territory) Act 1986
+# Aboriginal Land Grant (Jervis Bay Territory) Act 1986 
 
-Act No. 164 of 1986 as amended
+**Act No. 164 of 1986 as amended**
 
-This compilation was prepared on 17 July 2000
- taking into account amendments up to Act No. 92 of 1999
+Consolidated as in force on 22 January 1999
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+(includes amendments up to Act No. 152 of 1997)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
+
+ 
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+1             Short title [_see_ Note 1]                                                                        
 
-[2](#2).            Interpretation                                                                                       1
+2             Interpretation                                                                                      
 
-[3](#3).            Act to bind Crown                                                                               3
+3             Act to bind Crown                                                                              
 
 **Part II—Establishment, constitution, functions and powers of Council**
 
-[4](#4).            Establishment of Council                                                                     4
+4             Establishment of Council                                                                    
 
-[4A](#4A).         Who are directors for the purposes of the _Commonwealth Authorities and Companies Act 1997_?   4
+4A          Who are directors for the purposes of the _Commonwealth Authorities and Companies Act 1997_?   
 
-[5](#5).            Constitution of Council                                                                       4
+5             Constitution of Council                                                                       
 
-[6](#6).            Functions of Council                                                                           5
+6             Functions of Council                                                                           
 
-[7](#7).            Powers of Council                                                                               5
+7             Powers of Council                                                                               
 
 **Part III—Grant of land to Council**
 
-[8](#8).            Initial grant of land                                                                               7
+8             Initial grant of land                                                                              
 
-[9](#9).            Later grants of land                                                                              7
+9             Later grants of land                                                                              
 
-[9A](#9A).         Grants of land within Jervis Bay National Park etc  to Council         9
+[9A          Grants of land within Jervis Bay National Park etc](#9A          Grants of land within Jervis Bay National Park etc). to Council         
 
-[10](#10).          Vesting of land                                                                                   10
+10           Vesting of land                                                                                     
 
-[11](#11).          Registration of vesting                                                                       10
+11           Registration of vesting                                                                         
 
-[12](#12).          Buildings etc  vest automatically                                                       10
+[12           Buildings etc](#12           Buildings etc). vest automatically                                                         
 
-[13](#13).          Occupation by Commonwealth etc                                                   10
+[13           Occupation by Commonwealth etc](#13           Occupation by Commonwealth etc).                                                    
 
-[14](#14).          Reservation of minerals                                                                     11
+14           Reservation of minerals                                                                     
 
 **Part IV—Administration of Council** 
 
-    **Division 1—Registrar of Council**
+    **Division 1—Registrar of Council** 
 
-[15](#15).          Registrar of Council                                                                           12
+15           Registrar of Council                                                                           
 
-[16](#16).          Delegation by Registrar                                                                     12
+16           Delegation by Registrar                                                                     
 
     **Division 2—Register of members of Council**
 
-[17](#17).          Register                                                                                              13
+17           Register                                                                                              
 
-[18](#18).          Variation of Register                                                                          13
+18           Variation of Register                                                                          
 
-[19](#19).          Particulars on Register etc                                                                 14
+[19           Particulars on Register etc](#19           Particulars on Register etc).                                                                
 
-    **Division 3—Meetings of Council**
+    **Division 3—Meetings of Council** 
 
-[20](#20).          First annual general meeting                                                               15
+20           First annual general meeting                                                              
 
-[21](#21).          Convening of subsequent annual general meetings                            15
+21           Convening of subsequent annual general meetings                            
 
-[22](#22).          Purpose of annual general meetings                                                   15
+22           Purpose of annual general meetings                                                   
 
-[23](#23).          Convening of special general meetings                                               16
+23           Convening of special general meetings                                              
 
-[24](#24).          Purpose of special general meetings                                                  16
+24           Purpose of special general meetings                                                  
 
-[25](#25).          Procedure at general meetings                                                            16
+25           Procedure at general meetings                                                            
 
-[26](#26).          Voting on motions at general meetings                                              17
+26           Voting on motions at general meetings                                              
 
-[26A](#26A).       Quorum at AGM                                                                               17
+26A        Quorum at AGM                                                                              
 
-    **Division 4—Executive committee**
+    **Division 4—Executive committee** 
 
-[27](#27).          Officers                                                                                              18
+27           Officers                                                                                              
 
-[28](#28).          Executive committee                                                                          18
+28           Executive committee                                                                          
 
-[29](#29).          Executive members                                                                            19
+29           Executive members                                                                            
 
-[30](#30).          Election of executive members                                                           20
+30           Election of executive members                                                          
 
-[31](#31).          Deputy Chairperson to act as Chairperson                                       21
+31           Deputy Chairperson to act as Chairperson                                      
 
-[32](#32).          Resignation                                                                                        21
+32           Resignation                                                                                        
 
-[33](#33).          Removal of executive members                                                          21
+33           Removal of executive members                                                         
 
-[34](#34).          Meetings of executive committee                                                      22
+34           Meetings of executive committee                                                      
 
-    **Division 5—Miscellaneous**
+    **Division 5—Miscellaneous** 
 
-[35](#35).          Committees                                                                                        23
+35           Committees                                                                                       
 
-[36](#36).          Delegation                                                                                          23
+36           Delegation                                                                                          
 
 **Part V—Dealings with Aboriginal Land**
 
-[37](#37).          Interpretation                                                                                     24
+37           Interpretation                                                                                    
 
-[38](#38).          Dealings in Aboriginal Land by Council                                            25
+38           Dealings in Aboriginal Land by Council                                            
 
-[38A](#38A).       Agreement to lease land within Jervis Bay National Park etc  to Director  26
+[38A        Agreement to lease land within Jervis Bay National Park etc](#38A        Agreement to lease land within Jervis Bay National Park etc). to Director  
 
-[38B](#38B).       Lease of Jervis Bay National Park etc  to Director                           26
+[38B        Lease of Jervis Bay National Park etc](#38B        Lease of Jervis Bay National Park etc). to Director                           
 
-[38C](#38C).       Minister may grant lease                                                                   27
+38C        Minister may grant lease                                                                   
 
-[39](#39).          Surrender of Aboriginal Land                                                             27
+39           Surrender of Aboriginal Land                                                            
 
-[40](#40).          Rights of existing occupiers                                                               27
+40           Rights of existing occupiers                                                               
 
-[41](#41).          Dealings in land leased from Council                                                 28
+41           Dealings in land leased from Council                                                 
 
-[42](#42).          Devise of interests in Aboriginal Land etc                                         28
+[42           Devise of interests in Aboriginal Land etc](#42           Devise of interests in Aboriginal Land etc).                                       
 
 **Part VI—Miscellaneous**
 
-[43](#43).          Laws relating to mining                                                                      29
+43           Laws relating to mining                                                                     
 
-[44](#44).          Mining operations                                                                             29
+44           Mining operations                                                                             
 
-[45](#45).          Exemption from rates etc                                                                   29
+[45           Exemption from rates etc](#45           Exemption from rates etc).                                                                 
 
-[46](#46).          Application of laws of Territory to Aboriginal Land                        29
+46           Application of laws of Territory to Aboriginal Land                       
 
-[47](#47).          Protection of environment                                                                 29
+47           Protection of environment                                                                 
 
-[48](#48).          Significant sites                                                                                  30
+48           Significant sites                                                                                  
 
-[49](#49).          Public access                                                                                      31
+49           Public access                                                                                      
 
-[50](#50).          Registrar may inquire into grievances                                                31
+50           Registrar may inquire into grievances                                                
 
-[52](#52).          Annual report to be laid before meeting of Council                           32
+52           Annual report to be laid before meeting of Council                          
 
-[52A](#52A).       By-laws                                                                                             32
+52A        By-laws                                                                                             
 
-[53](#53).          Regulations                                                                                        34
+53           Regulations                                                                                        
 
 **Part VII—Amendment of Jervis Bay Territory Acceptance Act 1915**
 
-[54](#54).          Principal Act                                                                                      35
+54           Principal Act                                                                                     
 
-[55](#55).          Amendment of the _Jervis Bay Territory Acceptance Act 1915_          35
+55           Amendment of the _Jervis Bay Territory Acceptance Act 1915_          
 
-**Schedule—Definition of Schedule Land** 
-
-**Notes**
+**Schedule—Definition of Schedule Land**
 
 #  
 
@@ -177,7 +175,7 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_.
+                   This Act may be cited as the _Aboriginal Land Grant (Jervis Bay Territory) Act 1986._
 
 ##### <a id="2"></a>2  Interpretation
 
@@ -193,10 +191,6 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="author"></a>**_Authority_** means an Authority established by or under a law of the Commonwealth or a law in force in the Territory.
 
-                    <a name="boodere-botan-garden"></a>**_Booderee Botanic Gardens_** means the part of the Australian National Botanic Gardens in the Jervis Bay Territory.
-
-                    <a name="boodere-nation-park"></a>**_Booderee National Park_** means the Commonwealth reserve of that name within the Jervis Bay Territory under Division 4 of Part 15 of the _Environment Protection and Biodiversity Conservation Act 1999_.
-
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Council.
 
                     <a name="commun"></a>**_Community_** means the community known as the Wreck Bay Aboriginal Community.
@@ -205,9 +199,9 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="deputi-chairperson"></a>**_Deputy Chairperson_** means the Deputy Chairperson of the Council.
 
-                    <a name="director"></a>**_Director_** has the meaning given by the _Environment Protection and Biodiversity Conservation Act 1999_.
+                    <a name="director"></a>**_Director_** has the same meaning as in the _National Parks and Wildlife Conservation Act 1975_.
 
-Note:          The Director is also an Authority.
+Note:          The Director is an Authority within the meaning of the definition of **_Authority_.**
 
                     <a name="execut-committe"></a>**_executive committee_** means the committee established by section 28.
 
@@ -218,6 +212,10 @@ Note:          The Director is also an Authority.
                      (a)  an annual general meeting; or
 
                      (b)  a special general meeting.
+
+                    <a name="jervi-bai-botan-garden"></a>**_Jervis Bay Botanic Gardens_** means the part of the Australian National Botanic Gardens that is in the Jervis Bay Territory.
+
+                    <a name="jervi-bai-nation-park"></a>**_Jervis Bay National Park_** means the area of the Jervis Bay Territory declared to be a park, and to which that name was assigned, by Proclamation under subsection 7(2) of the _National Parks and Wildlife Conservation Act 1975_.
 
                     <a name="land"></a>**_land_**, unless the contrary intention appears, includes any seabed or any subsoil.
 
@@ -393,9 +391,9 @@ the copy of the instrument shall, for the purposes of this section, be deemed to
 
 (8)  Any failure to comply with the requirements of subsection (7) does not affect the operation of subsection (5).
 
-##### <a id="9A"></a>9A  Grants of land within Booderee National Park etc. to Council
+##### <a id="9A"></a>9A  Grants of land within Jervis Bay National Park etc. to Council
 
-             (1)  The Minister may declare in writing that land within the Booderee National Park is Aboriginal Land if he or she is satisfied that:
+             (1)  The Minister may declare in writing that land within the Jervis Bay National Park or the Jervis Bay Botanic Gardens is Aboriginal Land if he or she is satisfied that:
 
                      (a)  the land is of significance to the Aboriginals who are members of the Community; and
 
@@ -785,7 +783,7 @@ the Secretary shall enter on the Register, next to the name of that person, part
 
              (1)  Except as provided by this Part, the Council shall not deal with or dispose of, or agree to deal with or dispose of, any estate or interest in Aboriginal Land.
 
-             (2)  Subject to this section, the Council may grant a lease of Aboriginal Land (other than land within the Booderee National Park or the Booderee Botanic Gardens):
+             (2)  Subject to this section, the Council may grant a lease of Aboriginal Land (other than land within the Jervis Bay National Park or the Jervis Bay Botanic Gardens):
 
                      (a)  to a registered member or registered members for use for domestic purposes;
 
@@ -807,17 +805,17 @@ the Secretary shall enter on the Register, next to the name of that person, part
 
                      (c)  in any other case—15 years.
 
-             (4)  The Council may grant a person a licence to use Aboriginal Land (other than land within the Booderee National Park or the Booderee Botanic Gardens).
+             (4)  The Council may grant a person a licence to use Aboriginal Land (other than land within the Jervis Bay National Park or the Jervis Bay Botanic Gardens).
 
              (5)  Where the Council grants a lease of, or a licence to use, Aboriginal Land to the Commonwealth or to an Authority under this section, the rent and other amounts payable under the lease or licence shall be determined by the Minister.
 
              (6)  The _Lands Acquisition Act 1989_ does not apply to the grant of a lease under this section.
 
-##### <a id="38A"></a>38A  Agreement to lease land within Booderee National Park etc. to Director
+##### <a id="38A"></a>38A  Agreement to lease land within Jervis Bay National Park etc. to Director
 
-                   If a notice is published in the _Gazette_ under subsection 9A(3), the Council and the Director must, as soon as practicable after the notice is published, enter into an agreement under which the Council agrees to grant to the Director a lease of the land described in the notice so as to enable the Director to hold the land for the purposes of Division 4 of Part 15 of the _Environment Protection and Biodiversity Conservation Act 1999_.
+                   If a notice is published in the _Gazette_ under subsection 9A(3), the Council and the Director must, as soon as practicable after the notice is published, enter into an agreement under which the Council agrees to grant to the Director a lease of the land described in the notice so as to enable the Director to hold the land for the purposes of the _National Parks and Wildlife Conservation Act 1975_.
 
-##### <a id="38B"></a>38B  Lease of Booderee National Park etc. to Director
+##### <a id="38B"></a>38B  Lease of Jervis Bay National Park etc. to Director
 
              (1)  As soon as practicable after a declaration by the Minister under subsection 9A(1) has come into force, the Council must grant to the Director a lease of the land that has become Aboriginal Land under the declaration.
 
@@ -827,7 +825,7 @@ the Secretary shall enter on the Register, next to the name of that person, part
 
 ##### <a id="38C"></a>38C  Minister may grant lease
 
-                   If the Minister is satisfied that the Council has refused, or is unwilling, to grant to the Director a lease of Aboriginal Land within the Booderee National Park as required under the agreement entered into with the Director under section 38A, the Minister may, on behalf of the Council, grant the lease to the Director as set out in the agreement.
+                   If the Minister is satisfied that the Council has refused, or is unwilling, to grant to the Director a lease of Aboriginal Land within the Jervis Bay National Park or the Jervis Bay Botanic Gardens as required under the agreement entered into with the Director under section 38A, the Minister may, on behalf of the Council, grant the lease to the Director as set out in the agreement.
 
 ##### <a id="39"></a>39  Surrender of Aboriginal Land
 
@@ -967,7 +965,7 @@ the Minister may, by notice in writing published in the _Gazette_ specifying tha
 
                      (k)  the appointment of persons to enforce the by-laws, and the powers and duties of those persons.
 
-             (3)  The by-laws may apply any regulation made under the _Environment Protection and Biodiversity Conservation Act 1999_ to Aboriginal Land, with whatever changes are needed for that purpose.
+             (3)  The by-laws may apply any regulation made under the _National Parks and Wildlife Conservation Act 1975_ to Aboriginal Land, with whatever changes are needed for that purpose.
 
              (4)  A by-law, in applying a regulation referred to in subsection (3) relating to an offence, must not change the penalty for that offence.
 
@@ -1011,7 +1009,7 @@ the Minister may, by notice in writing published in the _Gazette_ specifying tha
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-             (2)  Before the Governor-General makes regulations for the purposes of section 49 in relation to a place that forms part of Aboriginal Land, the Minister must consider any representations made to the Minister by the Council or the executive committee in relation to public access to the place.
+             (2)  The power of the Governor-General to make regulations for the purposes of section 49 in relation to a place that forms part of Aboriginal Land shall be exercised only on advice of the Executive Council, being advice that has taken into consideration any representations made to the Minister by the Council or by the executive committee in relation to public access to that place.
 
 ## Part VII—Amendment of Jervis Bay Territory Acceptance Act 1915
 
@@ -1019,7 +1017,7 @@ the Minister may, by notice in writing published in the _Gazette_ specifying tha
 
 ##### <a id="54"></a>54  Principal Act
 
-                   The _Jervis Bay Territory Acceptance Act 1915_ is in this Part referred to as the Principal Act.
+                   The _Jervis Bay Territory Acceptance Act 1915_ is in this Part referred to as the Principal Act.
 
 ##### <a id="55"></a>55  Amendment of the _Jervis Bay Territory Acceptance Act 1915_
 
@@ -1035,15 +1033,13 @@ _Subsection 2(1) (definition of Schedule Land)_
 
  
 
-# Notes to the _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_
+# NOTE
 
-### Note 1
-
-The _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ as shown in this compilation comprises Act No. 164, 1986 amended as indicated in the Tables below. 
-
-For all relevant information pertaining to application, saving or transitional provisions prior to 16 July 1999 is not included in this compilation. For subsequent information _see_ Table A.
+1\.   The _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ as shown in this reprint comprises Act No. 164, 1986 amended as indicated in the Tables below. 
 
 ### Table of Acts
+
+###  
 
 <table>
 <colgroup>
@@ -1054,25 +1050,27 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-  </td>
-  <td>
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div>Aboriginal Land Grant (Jervis Bay Territory) Act 1986</div>
@@ -1157,34 +1155,13 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Environmental Reform (Consequential Provisions) Act 1999</div>
-  </td>
-  <td>
-    <div>92, 1999</div>
-  </td>
-  <td>
-    <div>16 July 1999</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 12-22) and Schedule 7 (items 1-4): 1 July 2000 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>Sch. 4 (items 16, 19, 22) and Sch. 7 (item 4): \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
  
 
 _(a)_     The _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ was amended by Schedule 2 (items 87-93) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
-
-_(a)_     The _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ was amended by Schedule 4 (items 12-15, 17, 18, 20 and 21) and Schedule 7 (items 1-3) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
-
-         (1)           Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences.
+                 “(2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.”.
 
  
 
@@ -1201,20 +1178,22 @@ _(a)_     The _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ wa
     <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Provision affected</div>
-  </td>
-  <td>
-    <div>How affected</div>
-  </td>
-</tr>
+<thead>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div>S. 2</div>
   </td>
   <td>
-    <div>am. No. 103, 1995; No. 152, 1997; No. 92, 1999</div>
+    <div>am. No. 103, 1995; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1251,26 +1230,10 @@ _(a)_     The _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ wa
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 9A</div>
-  </td>
-  <td>
-    <div>am. No. 92, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 9A</div>
   </td>
   <td>
     <div>ad. No. 103, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 92, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1326,63 +1289,15 @@ _(a)_     The _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ wa
     <div>S. 38</div>
   </td>
   <td>
-    <div>am. No. 21, 1989; No. 103, 1995; No. 92, 1999</div>
+    <div>am. No. 21, 1989; No. 103, 1995</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 38A</div>
-  </td>
-  <td>
-    <div>am. No. 92, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38A</div>
+    <div>Ss. 38A-38C</div>
   </td>
   <td>
     <div>ad. No. 103, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 92, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 38B</div>
-  </td>
-  <td>
-    <div>am. No. 92, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38B</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38C</div>
-  </td>
-  <td>
-    <div>ad. No. 103, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 92, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1408,62 +1323,8 @@ _(a)_     The _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ wa
   <td>
     <div>ad. No. 103, 1995</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 92, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>am. No. 92, 1999</div>
-  </td>
 </tr></table>
 
  
-
- 
-
-### Table A
-
-### Application, saving or transitional provisions
-
-_Environmental Reform (Consequential Provision) Act 1999 (No. 92, 2000)_
-
-Schedule 4
-
-## 16  Saving
-
-To avoid doubt, the amendments of section 9A of the _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ by this Schedule do not affect the validity of a declaration made under that section before the amendments.
-
-## 19  Application
-
-The amendments of section 38A of the _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ made by this Schedule do not require the Council and the Director to enter into an agreement relating to land described in a notice published under subsection 9A(3) of that Act if the Council and the Director had made an agreement relating to that land under that section before the commencement of the _Environment Protection and Biodiversity Conservation Act 1999_.
-
-_Note:       Part 2 of this Schedule converts an agreement between the Council and the Director into an agreement between the Council and the Commonwealth._
-
-## 22  Saving of by-laws applying regulations
-
-A by-law that:
-
-                     (a)  was made under section 52A of the _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ before the commencement of the _Environment Protection and Biodiversity Conservation Act 1999_; and
-
-                     (b)  applied a regulation made under the _National Parks and Wildlife Conservation Act 1975_;
-
-continues in force despite the amendment of subsection 52A(3) of the _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ by this Schedule.
-
-Schedule 7
-
-## 4  Transitional—regulations
-
-(1)        Regulations described in subsection 53(2) of the _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ made under that Act and in force immediately before the commencement of this item have effect after that commencement as if they had been made under that section as amended by this Act.
-
-(2)        Subitem (1) does not prevent the amendment of regulations described in that subitem.
 
  
