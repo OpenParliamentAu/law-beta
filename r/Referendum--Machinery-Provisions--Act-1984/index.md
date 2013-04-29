@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00872/Html/0a873821-cb16-48d4-ae50-517b27577efc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00389/Html/66ca606f-3760-490d-97d1-89e52a4274c4_files/image001.gif)
 
 # Referendum (Machinery Provisions) Act 1984
 
 **Act No. 44 of 1984 as amended**
 
-This compilation was prepared on 28 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 31 May 2011
+ taking into account amendments up to Act No. 37 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -988,7 +988,7 @@ the Electoral Commissioner shall, unless the Minister informs the Electoral Comm
 
 ##### <a id="21"></a>21  Use of licensed premises as polling booth
 
-                   Premises licensed for the sale of intoxicating liquor may be used for the purpose of a polling booth if, and only if, the Electoral Commissioner declares, in writing, that he or she is satisfied that, during the hours of voting at a referendum:
+                   Premises licensed for the sale of intoxicating liquor may be used for the purpose of a polling booth if, and only if, the Electoral Commissioner declares, in writing, that he or she is satisfied that, during the hours of voting at a referendum:
 
                      (a)  intoxicating liquor will not be available for sale or consumption on the part of the premises proposed for use for the purpose of a polling booth; and
 
@@ -1738,7 +1738,7 @@ shall forward the envelope, together with the record made under paragraph 67(2)(
 
                    In sections 48 and 50, **_patient_**, in relation to a hospital, does not include a person attending the hospital as an out‑patient.
 
-##### <a id="48"></a>48  Hospitals that are polling places
+##### <a id="48"></a>48  Hospitals that are polling places
 
              (1)  In this section, **_hospital_** means a hospital that is a polling place.
 
@@ -2518,7 +2518,7 @@ Note:          Pre‑poll voting at the office of an Assistant
 
              (2)  The Governor of a State, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre‑poll voting office for the referendum in that State.
 
-             (3)  The Chief Minister for the Australian Capital Territory, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre‑poll voting office for the referendum in the Australian Capital Territory.
+             (3)  The Chief Minister for the Australian Capital Territory, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre‑poll voting office for the referendum in the Australian Capital   Territory.
 
              (4)  The Administrator of the Northern Territory, or a person authorised by him or her to act under this subsection, may appoint one person to act as a scrutineer during the voting at a referendum at each pre‑poll voting office for the referendum in the Northern Territory.
 
@@ -3000,7 +3000,7 @@ a determination under subsection (1) of this section is taken to be in force i
 
 ##### <a id="82"></a>82  List of Antarctic electors to be marked
 
-                   Immediately upon giving a ballot‑paper to the person claiming to vote at a referendum, the Antarctic Returning Officer or the Assistant Antarctic Returning Officer shall record on the statement prepared by the Officer under subsection 76(2) the fact that the ballot‑paper has been given to that person.
+                   Immediately upon giving a ballot‑paper to the person claiming to vote at a referendum, the Antarctic Returning Officer or the Assistant Antarctic Returning Officer shall record on the statement prepared by the Officer under subsection 76(2) the fact that the ballot‑paper has been given to that person.
 
 ##### <a id="83"></a>83  Application of sections 35 and 36
 
@@ -3534,7 +3534,7 @@ is guilty of an offence punishable on conviction by a fine not exceeding $1,000.
 
                     Penalty:  $1,000 or imprisonment for 6 months, or both.
 
-##### <a id="121"></a>121  Printing and publication of advertisements, notices etc.
+##### <a id="121"></a>121  Printing and publication of advertisements, notices etc.
 
              (1)  A person shall not print, publish or distribute or cause, permit or authorize to be printed, published or distributed an advertisement, handbill, pamphlet or notice relating to a referendum and intended or calculated to affect the result of the referendum unless:
 
@@ -4127,7 +4127,7 @@ FORM B
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00872/Html/0a873821-cb16-48d4-ae50-517b27577efc_files/image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00872/Html/0a873821-cb16-48d4-ae50-517b27577efc_files/image003.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00389/Html/66ca606f-3760-490d-97d1-89e52a4274c4_files/image002.gif">   <img width="98" height="31" src="http://www.comlaw.gov.au/Details/C2011C00389/Html/66ca606f-3760-490d-97d1-89e52a4274c4_files/image003.gif"> Commonwealth of Australia</div>
     <div>BALLOT‑PAPER</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendum on proposed Constitution alteration</div>
@@ -4148,7 +4148,7 @@ FORM C
 
 <tr>
   <td>
-    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00872/Html/0a873821-cb16-48d4-ae50-517b27577efc_files/image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2011C00872/Html/0a873821-cb16-48d4-ae50-517b27577efc_files/image004.gif"> Commonwealth of Australia</div>
+    <div> <img width="61" height="52" src="http://www.comlaw.gov.au/Details/C2011C00389/Html/66ca606f-3760-490d-97d1-89e52a4274c4_files/image002.gif">   <img width="98" height="30" src="http://www.comlaw.gov.au/Details/C2011C00389/Html/66ca606f-3760-490d-97d1-89e52a4274c4_files/image004.gif"> Commonwealth of Australia</div>
     <div>BALLOT‑PAPERS</div>
     <div>\[ <i>Here insert name of State or Territory</i>]</div>
     <div>Referendums on proposed Constitution alterations</div>
@@ -5116,23 +5116,6 @@ Schedule 6 (items 11, 13–22): 14 Jan 2011</div>
   <td>
     <div>Sch. 1 (item 7) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 973–975) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Referendum (Machinery Provisions) Act 1984_ was amended by section 116 only of the _Special Broadcasting Service Act 1991_, subsection 2(1) of which provides as follows:
@@ -5237,9 +5220,7 @@ _(e)_ Subsection 2(1) (item 27) of the _Electoral and Referendum Amendment (En
     </div>
   </td>
   <td>
-    <div>
-      5 December 1999
-    </div>
+    <div>5 December 1999</div>
   </td>
 </tr></table>
 
@@ -7777,30 +7758,6 @@ No. 219, 1992</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 973  At the end of subsection 5(2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 974  Subsections 5(3) to (5)
-
-Repeal the subsections.
-
-## 975  Subsection 78(2)
-
-Omit “6 o’clock in the afternoon by standard time”, substitute “6 pm”.
-
-As at 28 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -7929,21 +7886,5 @@ _Electoral and Referendum Amendment (Provisional Voting) Act 2011
 ## 7  Application of amendments
 
 The amendments made by this Schedule apply in relation to elections and referendums the writs for which are issued on or after the commencement of the amendments.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
