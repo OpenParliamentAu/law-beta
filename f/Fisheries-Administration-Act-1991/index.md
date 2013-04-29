@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00763/Html/6aaad336-71b4-487d-9f0b-5d238b6489dc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00046/Html/51c8f0d5-2878-4182-a883-7855ff6a696b_files/image001.gif)
 
 # Fisheries Administration Act 1991
 
 **Act No. 161 of 1991 as amended**
 
-This compilation was prepared on 20 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 4 January 2011
+ taking into account amendments up to Act No. 137 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -154,7 +154,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [87](#87).          Annual report
 
-[88](#88).          Co‑management arrangements
+[88](#88).          Co-management arrangements
 
 [89](#89).          Peak industry body to be given copy of report etc 
 
@@ -266,19 +266,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="associated-law"></a>**_associated law_** means a law conferring powers and functions on the Authority.
 
-                    <a name="australian-flag-boat"></a>**_Australian‑flagged boat_**has the same meaning as in the _Fisheries Management Act 1991_.
+                    <a name="australian-flag-boat"></a>**_Australian-flagged boat_**has the same meaning as in the _Fisheries Management Act 1991_.
 
                     <a name="author"></a>**_Authority_** means the Australian Fisheries Management Authority established by section 5.
 
                     <a name="ceo"></a>**_CEO_** means the Chief Executive Officer (see subsection 10B(1)).
 
-                    <a name="co-manag-arrang"></a>**_co‑management arrangement_** has the meaning given in section 88.
+                    <a name="co-manag-arrang"></a>**_co-management arrangement_** has the meaning given in section 88.
 
                     <a name="commiss"></a>**_Commission_** means the Commission established by subsection 10B(1).
 
                     <a name="commission"></a>**_commissioner_** means:
 
-                     (a)  a part‑time commissioner; or
+                     (a)  a part-time commissioner; or
 
                      (b)  the CEO.
 
@@ -320,7 +320,7 @@ Note:          The functions and powers of the Authority are s
 
                     <a name="industri"></a>**_industry_** means the fishing industry including the catching, processing and marketing sectors of that industry.
 
-                    <a name="part-time-commission"></a>**_part‑time commissioner_** means a person appointed as a part‑time commissioner under subsection 12(1), and includes the Chairperson of the Commission.
+                    <a name="part-time-commission"></a>**_part-time commissioner_** means a person appointed as a part-time commissioner under subsection 12(1), and includes the Chairperson of the Commission.
 
                     <a name="peak-industri-bodi"></a>**_peak industry body_** means such body (whether incorporated or otherwise) representative generally of persons engaged in the industry as is prescribed for the purposes of this definition.
 
@@ -364,9 +364,9 @@ Note:          Definitions relating only to Part 3 are in se
 
                    The Authority, in the performance of its functions, must pursue the objectives of:
 
-                     (a)  implementing efficient and cost‑effective fisheries management on behalf of the Commonwealth; and
+                     (a)  implementing efficient and cost-effective fisheries management on behalf of the Commonwealth; and
 
-                     (b)  ensuring that the exploitation of fisheries resources and the carrying on of any related activities are conducted in a manner consistent with the principles of ecologically sustainable development (which include the exercise of the precautionary principle), in particular the need to have regard to the impact of fishing activities on non‑target species and the long term sustainability of the marine environment; and
+                     (b)  ensuring that the exploitation of fisheries resources and the carrying on of any related activities are conducted in a manner consistent with the principles of ecologically sustainable development (which include the exercise of the precautionary principle), in particular the need to have regard to the impact of fishing activities on non-target species and the long term sustainability of the marine environment; and
 
                    (ba)  ensuring that:
 
@@ -382,7 +382,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                              (ii)  under the Compliance Agreement or any other international agreement;
 
-                            in relation to fishing activities by Australian‑flagged boats on the high seas that are additional to the obligations referred to in paragraph (ba)—ensuring that those activities are carried on consistently with those first‑mentioned obligations; and
+                            in relation to fishing activities by Australian-flagged boats on the high seas that are additional to the obligations referred to in paragraph (ba)—ensuring that those activities are carried on consistently with those first-mentioned obligations; and
 
                      (c)  maximising the net economic returns to the Australian community from the management of Australian fisheries; and
 
@@ -394,13 +394,13 @@ Note:          Definitions relating only to Part 3 are in se
 
                    The following principles are **_principles of ecologically sustainable development_**:
 
-                     (a)  decision‑making processes should effectively integrate both long‑term and short‑term economic, environmental, social and equity considerations;
+                     (a)  decision-making processes should effectively integrate both long-term and short-term economic, environmental, social and equity considerations;
 
                      (b)  if there are threats of serious or irreversible environmental damage, lack of full scientific certainty should not be used as a reason for postponing measures to prevent environmental degradation;
 
-                     (c)  the principle of inter‑generational equity—that the present generation should ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations;
+                     (c)  the principle of inter-generational equity—that the present generation should ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations;
 
-                     (d)  the conservation of biological diversity and ecological integrity should be a fundamental consideration in decision‑making;
+                     (d)  the conservation of biological diversity and ecological integrity should be a fundamental consideration in decision-making;
 
                      (e)  improved valuation, pricing and incentive mechanisms should be promoted.
 
@@ -422,13 +422,13 @@ Note:          Definitions relating only to Part 3 are in se
 
                              (ii)  under the Compliance Agreement or any other international agreement;
 
-                            in relation to fishing activities by Australian‑flagged boats on the high seas that are additional to the obligations referred to in paragraph (aa)—to devise and implement management regimes in relation to those activities that are consistent with those first‑mentioned obligations; and
+                            in relation to fishing activities by Australian-flagged boats on the high seas that are additional to the obligations referred to in paragraph (aa)—to devise and implement management regimes in relation to those activities that are consistent with those first-mentioned obligations; and
 
                     (ac)  to advise and assist in relation to the exercise of powers and the performance of functions under the _Torres Strait__Fisheries Act 1984_;
 
                      (b)  to devise fisheries adjustment programs and fisheries restructuring programs;
 
-                     (c)  to consult, and co‑operate, with the industry and members of the public generally in relation to the activities of the Authority;
+                     (c)  to consult, and co-operate, with the industry and members of the public generally in relation to the activities of the Authority;
 
                      (d)  to devise exploratory and feasibility programs relating to fishing;
 
@@ -452,7 +452,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                              (ii)  another person;
 
-                    (ga)  to liaise and co‑operate with and, where obliged under this Act or any associated law or under international law or international agreements to do so, to give information to, overseas and international bodies on matters relating to global, regional or subregional fisheries management organisations or arrangements;
+                    (ga)  to liaise and co-operate with and, where obliged under this Act or any associated law or under international law or international agreements to do so, to give information to, overseas and international bodies on matters relating to global, regional or subregional fisheries management organisations or arrangements;
 
                   (gaa)  in addition to the collection of information in the exercise or performance of its other powers and functions—to collect, as authorised (within the meaning of subsection (4)), information relating to the following:
 
@@ -620,21 +620,21 @@ is taken to have been done by the Authority.
 
                      (a)  the Chairperson of the Commission; and
 
-                     (b)  the other part‑time commissioners; and
+                     (b)  the other part-time commissioners; and
 
                      (c)  the CEO.
 
-             (2)  There must be no more than 8 part‑time commissioners (including the Chairperson).
+             (2)  There must be no more than 8 part-time commissioners (including the Chairperson).
 
 ### Division 3—Appointment of commissioners
 
 ##### <a id="12"></a>12  Appointment of commissioners
 
-             (1)  The Chairperson of the Commission, the other part‑time commissioners and the CEO are to be appointed by the Minister by written instrument.
+             (1)  The Chairperson of the Commission, the other part-time commissioners and the CEO are to be appointed by the Minister by written instrument.
 
 CEO may also be appointed Chairperson
 
-             (2)  The CEO may also be appointed as the Chairperson of the Commission, but must not otherwise hold office as a part‑time commissioner.
+             (2)  The CEO may also be appointed as the Chairperson of the Commission, but must not otherwise hold office as a part-time commissioner.
 
 Eligibility for appointment
 
@@ -680,9 +680,9 @@ Note:          These eligibility criteria will apply to the CE
 
 Basis of appointments
 
-             (6)  The Chairperson of the Commission and the other part‑time commissioners must be appointed on a part‑time basis.
+             (6)  The Chairperson of the Commission and the other part-time commissioners must be appointed on a part-time basis.
 
-             (7)  The CEO must be appointed on a full‑time basis.
+             (7)  The CEO must be appointed on a full-time basis.
 
 Term of appointment
 
@@ -694,13 +694,13 @@ Validation
 
 ##### <a id="13"></a>13  Deputy Chairperson
 
-             (1)  The Minister is to appoint a part‑time commissioner (other than the Chairperson) to be the Deputy Chairperson of the Commission.
+             (1)  The Minister is to appoint a part-time commissioner (other than the Chairperson) to be the Deputy Chairperson of the Commission.
 
              (2)  The Minister must, before appointing a person to be the Deputy Chairperson, consult with the Chairperson of the Commission.
 
              (3)  The Minister may at any time terminate an appointment made under subsection (1).
 
-             (4)  A person appointed as Deputy Chairperson ceases to hold the office if the person ceases to be a part‑time commissioner.
+             (4)  A person appointed as Deputy Chairperson ceases to hold the office if the person ceases to be a part-time commissioner.
 
              (5)  A person appointed as Deputy Chairperson may resign by giving to the Minister a signed notice of resignation.
 
@@ -744,7 +744,7 @@ Note:          See section 33A of the _Acts Interpretation A
 
 ##### <a id="15"></a>15  Other employment
 
-             (1)  A part‑time commissioner must not engage, without the Minister’s approval, in paid employment that conflicts or may conflict with the proper performance of his or her duties.
+             (1)  A part-time commissioner must not engage, without the Minister’s approval, in paid employment that conflicts or may conflict with the proper performance of his or her duties.
 
              (2)  The CEO must not engage in paid employment outside the duties of the CEO’s office without the Minister’s approval.
 
@@ -756,19 +756,19 @@ Note:          See section 33A of the _Acts Interpretation A
 
              (3)  Where:
 
-                     (a)  a person who is a part‑time commissioner is a member of, or a candidate for election to, the Parliament of a State; and
+                     (a)  a person who is a part-time commissioner is a member of, or a candidate for election to, the Parliament of a State; and
 
                      (b)  under the law of the State, the person would not be eligible to remain, or to be elected as a member of that Parliament if the person were entitled to remuneration or allowances under this Act;
 
 the person must not be paid remuneration or allowances under this Act, but is to be reimbursed the expenses that the person reasonably incurs in performing duties under this Act.
 
-             (4)  Where a part‑time commissioner:
+             (4)  Where a part-time commissioner:
 
                      (a)  is a member of the Parliament of a State, but subsection (3) does not apply in relation to the person; or
 
-                     (b)  is in the service or employment of a State, or an authority of a State, on a full‑time basis; or
+                     (b)  is in the service or employment of a State, or an authority of a State, on a full-time basis; or
 
-                     (c)  holds or performs the duties of an office or position established by or under a law of a State on a full‑time basis;
+                     (c)  holds or performs the duties of an office or position established by or under a law of a State on a full-time basis;
 
 it is a condition of the person’s holding office under this Act that the person pay to the State, within one month of receiving an amount of remuneration under this Act, an amount equal to the amount of remuneration.
 
@@ -788,11 +788,11 @@ it is a condition of the person’s holding office under this Act that the perso
 
 ##### <a id="18"></a>18  Leave of absence
 
-Part‑time commissioners
+Part-time commissioners
 
              (1)  The Minister may grant leave of absence to the Chairperson of the Commission on such terms and conditions as the Minister considers appropriate.
 
-             (2)  The Chairperson may grant leave of absence to another part‑time commissioner on such terms and conditions as the Chairperson considers appropriate.
+             (2)  The Chairperson may grant leave of absence to another part-time commissioner on such terms and conditions as the Chairperson considers appropriate.
 
 CEO
 
@@ -850,13 +850,13 @@ Keeping of register
 
                      (b)  the commissioner is absent, except on leave of absence:
 
-                              (i)  in the case of a part‑time commissioner—from 3 consecutive meetings of the Commission; or
+                              (i)  in the case of a part-time commissioner—from 3 consecutive meetings of the Commission; or
 
                              (ii)  in the case of the CEO—for 14 consecutive days or for 28 days in any 12 months; or
 
 (c)  the commissioner engages:
 
-                              (i)  in the case of a part‑time commissioner—in paid employment, without the approval of the Minister, that conflicts or may conflict with the proper performance of the duties of his or her office (see section 15); or
+                              (i)  in the case of a part-time commissioner—in paid employment, without the approval of the Minister, that conflicts or may conflict with the proper performance of the duties of his or her office (see section 15); or
 
                              (ii)  in the case of the CEO—in paid employment outside the duties of his or her office without the approval of the Minister (see section 15); or
 
@@ -1022,23 +1022,23 @@ the member must, as soon as practicable after the relevant facts have come to th
 
           (1A)  Without limiting subsection (1), a management advisory committee:
 
-                     (a)  may establish sub‑committees, consisting of such persons (whether members of the management advisory committee or not) as the management advisory committee determines, to advise it in the performance of its functions and the exercise of its powers; and 
+                     (a)  may establish sub-committees, consisting of such persons (whether members of the management advisory committee or not) as the management advisory committee determines, to advise it in the performance of its functions and the exercise of its powers; and 
 
-                     (b)  may abolish any such sub‑committee.
+                     (b)  may abolish any such sub-committee.
 
           (1B)  A management advisory committee may determine:
 
-                     (a)  the manner in which a sub‑committee established by the management advisory committee is to perform its functions; and
+                     (a)  the manner in which a sub-committee established by the management advisory committee is to perform its functions; and
 
-                     (b)  the procedure to be followed at or in relation to meetings of the sub‑committee, including matters with respect to:
+                     (b)  the procedure to be followed at or in relation to meetings of the sub-committee, including matters with respect to:
 
-                              (i)  the convening of meetings of the sub‑committee; and
+                              (i)  the convening of meetings of the sub-committee; and
 
-                             (ii)  the number of members of the sub‑committee who are to constitute a quorum; and
+                             (ii)  the number of members of the sub-committee who are to constitute a quorum; and
 
-                            (iii)  the selection of a member of the sub‑committee to preside at meetings of the sub‑committee; and
+                            (iii)  the selection of a member of the sub-committee to preside at meetings of the sub-committee; and
 
-                            (iv)  the manner in which questions arising at a meeting of the sub‑committee are to be decided.
+                            (iv)  the manner in which questions arising at a meeting of the sub-committee are to be decided.
 
              (2)  All acts and things properly done in the name of, or on behalf of, the Authority by a management advisory committee are taken to have been done by the Authority.
 
@@ -1208,15 +1208,15 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
                      (a)  a committee established under section 54; or
 
-                     (b)  a sub‑committee established under subsection 58(1A);
+                     (b)  a sub-committee established under subsection 58(1A);
 
-(other than the Chairperson or other member of a management advisory committee or a member who is a commissioner or AFMA staff member) is to be paid such travelling allowance as is determined by the Remuneration Tribunal in relation to the performance of his or her duties as a member of the committee or sub‑committee.
+(other than the Chairperson or other member of a management advisory committee or a member who is a commissioner or AFMA staff member) is to be paid such travelling allowance as is determined by the Remuneration Tribunal in relation to the performance of his or her duties as a member of the committee or sub-committee.
 
              (5)  The following offices are not public offices within the meaning of the _Remuneration Tribunal Act 1973_:
 
                      (a)  member of any committee established under section 54 other than a management advisory committee.
 
-                     (c)  member of a sub‑committee established under subsection 58(1A).
+                     (c)  member of a sub-committee established under subsection 58(1A).
 
 ### Division 6—Staff and consultants
 
@@ -1378,9 +1378,9 @@ Note:          See also section 34C of the _Acts Interpretat
 
                      (c)  an evaluation of its overall performance against the performance indicators set out in the corporate plan applicable to the period and the annual operational plan that came into force at the beginning of that year.
 
-##### <a id="88"></a>88  Co‑management arrangements
+##### <a id="88"></a>88  Co-management arrangements
 
-                   The Authority may enter into an arrangement (a **_co‑management arrangement_**) with stakeholders in a fishery under which the stakeholders assist the Authority to perform the Authority’s functions and powers for the sustainable management of the fishery.
+                   The Authority may enter into an arrangement (a **_co-management arrangement_**) with stakeholders in a fishery under which the stakeholders assist the Authority to perform the Authority’s functions and powers for the sustainable management of the fishery.
 
 ##### <a id="89"></a>89  Peak industry body to be given copy of report etc.
 
@@ -1448,7 +1448,7 @@ Delegation to the CEO
 
              (2)  The CEO, in performing a function or exercising a power delegated under subsection (1), is subject to the directions of the Commission.
 
-Sub‑delegation by the CEO
+Sub-delegation by the CEO
 
              (3)  The CEO may, by signed writing, delegate to:
 
@@ -1484,7 +1484,7 @@ any of the functions or powers of the Authority that have been delegated to the 
 
                      (e)  an officer within the meaning of the _Fisheries Management Act 1991_ or the _Torres Strait__Fisheries Act 1984_; or
 
-                      (f)  a primary stakeholder under a co‑management arrangement;
+                      (f)  a primary stakeholder under a co-management arrangement;
 
 any of the functions or powers of the Authority for which the CEO is responsible.
 
@@ -1540,7 +1540,7 @@ Note:          An Appropriation Act may contain a provision to
 
              (1)  The **_adjusted levy amounts_** to be credited to the AFMA Special Account under paragraph 94C(a) are the amounts worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00763/Html/6aaad336-71b4-487d-9f0b-5d238b6489dc_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00046/Html/51c8f0d5-2878-4182-a883-7855ff6a696b_files/image002.gif)
 
                    where:
 
@@ -1612,13 +1612,13 @@ other than an amount that is declared by the regulations not to be a levy amount
 
              (1)  The functions of the Council are:
 
-                     (a)  to inquire into, and to report to the Minister on, matters affecting the well‑being of the industry; and
+                     (a)  to inquire into, and to report to the Minister on, matters affecting the well-being of the industry; and
 
                      (b)  to inquire into, and to report to the Minister on, matters referred to it by the Minister in relation to the industry; and
 
                      (c)  to develop, and to submit to the Minister, recommendations, guidelines and plans for measures consistent with the principles of ecologically sustainable development designed to safeguard or further the interests of the industry; and
 
-                     (d)  to consult, and co‑operate, with other persons and organisations in matters affecting the industry; and
+                     (d)  to consult, and co-operate, with other persons and organisations in matters affecting the industry; and
 
                      (e)  such other functions (if any) as are conferred upon the Council by the regulations.
 
@@ -1710,9 +1710,9 @@ other than an amount that is declared by the regulations not to be a levy amount
 
                       (j)  such other persons (if any) as represent such other bodies or organisations connected with the industry as are specified by the Minister in the instrument of appointment.
 
-             (2)  The members hold office on a part‑time basis.
+             (2)  The members hold office on a part-time basis.
 
-             (3)  The members, other than a member referred to in paragraph (1)(b) or (c), are to be appointed by the Minister and hold office for such period, not exceeding 3 years, as is specified in the instrument of appointment but are eligible for re‑appointment in accordance with this Act.
+             (3)  The members, other than a member referred to in paragraph (1)(b) or (c), are to be appointed by the Minister and hold office for such period, not exceeding 3 years, as is specified in the instrument of appointment but are eligible for re-appointment in accordance with this Act.
 
              (4)  The following persons are not eligible for appointment to the Council:
 
@@ -1912,7 +1912,7 @@ the member must, as soon as practicable after the relevant facts have come to th
 
 ##### <a id="114"></a>114  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2022,7 +2022,7 @@ of Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 784–793): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49)</div>
+    <div>Schedule 2 (items 784-793): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49)</div>
   </td>
   <td>
     <div>—</div>
@@ -2236,23 +2236,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 606–618) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -3162,74 +3145,6 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 606  Subsection 14(1)
-
-Omit “(1)”.
-
-## 607  At the end of subsection 14(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 608  Subsection 14(2)
-
-Repeal the subsection.
-
-## 609  Subsection 61(1)
-
-Omit “(1)”.
-
-## 610  Paragraph 61(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 611  Subsection 61(1)
-
-Omit “but a person appointed to act during a vacancy must not continue so to act for more than 12 months.”.
-
-## 612  At the end of subsection 61(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 613  Subsection 61(2)
-
-Repeal the subsection.
-
-## 614  Subsection 103(1)
-
-Omit “(1)”.
-
-## 615  Paragraph 103(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 616  Subsection 103(1)
-
-Omit “but a person appointed to act during a vacancy must not continue so to act for more than 12 months.”.
-
-## 617  At the end of subsection 103(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 618  Subsection 103(2)
-
-Repeal the subsection.
-
-As at 20 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3240,11 +3155,11 @@ _Fisheries Legislation Amendment Act 1997 (No. 120, 1997)_
 
 ## 12  Transitional
 
-(1)       A sub‑committee that a management advisory committee purported to establish before the commencement of this item is taken to have at all times been validly established.
+(1)       A sub-committee that a management advisory committee purported to establish before the commencement of this item is taken to have at all times been validly established.
 
-(2)       Any meetings of such a sub‑committee held before the commencement of this item are taken to have been validly held and any travelling allowances paid to members of such a sub‑committee before that commencement are taken to have been validly paid.
+(2)       Any meetings of such a sub-committee held before the commencement of this item are taken to have been validly held and any travelling allowances paid to members of such a sub-committee before that commencement are taken to have been validly paid.
 
-(3)       If a management advisory committee had not, before the commencement of this item, purported to abolish a sub‑committee that it had purported to establish before that commencement, the sub‑committee continues in existence as if it had been duly established under subsection 58(1A) of the _Fisheries Administration Act 1991_.
+(3)       If a management advisory committee had not, before the commencement of this item, purported to abolish a sub-committee that it had purported to establish before that commencement, the sub-committee continues in existence as if it had been duly established under subsection 58(1A) of the _Fisheries Administration Act 1991_.
 
 * * *
 
@@ -3279,21 +3194,5 @@ continues to have effect after the commencing time as if it had been done by the
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
