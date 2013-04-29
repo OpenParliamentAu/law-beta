@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00340/Html/CwlthAuthCompanies1997_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00255/Html/CwlthAuthCompanies1997_WD02_image001.gif)
 
 # Commonwealth Authorities and Companies Act 1997
 
 **Act No. 153 of 1997 as amended**
 
-This compilation was prepared on 16 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 1 July 2009
+ taking into account amendments up to Act No. 20 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -474,7 +474,7 @@ Related legislation
 
                      (b)  corporations registered under the _Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_;
 
-                     (c)  associations that are organisations (within the meaning of the _Fair Work (Registered Organisations) Act 2009_).
+                     (c)  associations of employees that are organisations within the meaning of Schedule 1B to the _Workplace Relations Act 1996_.
 
              (3)  For the purposes of subsection (1), all money that a body holds is taken to be held by it on its own account, unless the money is public money as defined in section 5 of the _Financial Management and Accountability Act 1997_.
 
@@ -1078,7 +1078,7 @@ Note:          The standing notice may be given to the other d
 
                              (ii)  to the other directors individually in writing.
 
-The standing notice is given under subparagraph (b)(ii) when it has been given to every director.
+The standing notice is given under subparagraph (paragraph (b)(ii) when it has been given to every director.
 
 Standing notice must be tabled at meeting if given to directors individually
 
@@ -2523,30 +2523,13 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (items 1–41, 
-43–50, 53–74): 1 July 2008 
+43–50, 53–74): 1 July 2008 
 Schedule 1 (item 42): 1 July 2009 ( <i>see</i>F2009L01781 and <i>Gazette</i>2009, No. GN19) 
 Schedule 1 (items 51, 52): <i>(f)</i></div>
   </td>
   <td>
     <div>Sch. 1 (items 
 70–74)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 3): <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -2736,61 +2719,6 @@ _(f)_ Subsection 2(1) (item 5) of the _Commonwealth Authorities and Companies Am
   </td>
 </tr></table>
 
-_(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      32\. Schedule 10
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -2875,7 +2803,7 @@ _(g)_     Subsection 2(1) (item 32) of the _Fair Work (State Referral 
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 105, 2002; No. 125, 2006; No. 54, 2009</div>
+    <div>am. No. 55, 2001; No. 105, 2002; No. 125, 2006</div>
   </td>
 </tr>
 <tr>
