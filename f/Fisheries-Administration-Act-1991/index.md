@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00286/Html/FishAdmin1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00486/Html/FishAdmin1991_WD02_image001.gif)
 
 # Fisheries Administration Act 1991
 
 **Act No. 161 of 1991 as amended**
 
-This compilation was prepared on 2 July 2008
- taking into account amendments up to Act No. 36 of 2008
+This compilation was prepared on 26 July 2007
+ taking into account amendments up to Act No. 104 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -44,27 +44,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Consultation
 
-[10](#10).          Authority is a body corporate
+    **Division 2—Constitution and meetings of Authority**
 
-[10A](#10A).       Financial liabilities
+[10](#10).          Authority is body corporate etc 
 
-[10B](#10B).       The Commission and CEO
+[11](#11).          Constitution of Authority
 
-[10C](#10C).       Minister may give directions to CEO about foreign compliance
-
-    **Division 2—Constitution of Commission**
-
-[11](#11).          Constitution of Commission
-
-    **Division 3—Appointment of commissioners**
-
-[12](#12).          Appointment of commissioners
+[12](#12).          Appointment of directors
 
 [13](#13).          Deputy Chairperson
 
-[14](#14).          Acting CEO
+[14](#14).          Certain members of peak industry body not eligible for appointment etc 
 
-[15](#15).          Other employment
+[15](#15).          Term of office
+
+[16](#16).          Directors (other than Managing Director) hold office on part-time basis
 
 [17](#17).          Remuneration and allowances
 
@@ -72,19 +66,75 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19](#19).          Resignation
 
-[20](#20).          Disclosure of interests to Minister
-
 [21](#21).          Termination of appointment
 
 [22](#22).          Terms and conditions of appointment not provided for by Act
 
-    **Division 4—Operation of Commission**
-
 [23](#23).          Meetings
 
-[24](#24).          Disclosure of interests to Commission
+[24](#24).          Resolutions without meetings
 
-[25](#25).          Decisions without meetings
+    **Division 3—Nomination and selection process for directors of Authority**
+
+[25](#25).          Presiding Member
+
+[26](#26).          Acting Presiding Member
+
+[27](#27).          Request for nominations
+
+[28](#28).          Selection Committee
+
+[29](#29).          Membership of Selection Committee
+
+[30](#30).          Selection of nominees
+
+[31](#31).          Nomination
+
+[32](#32).          Rejection of nominations
+
+[33](#33).          Meetings of a Selection Committee
+
+[34](#34).          Remuneration and allowances
+
+[35](#35).          Leave of absence
+
+[36](#36).          Resignation
+
+[37](#37).          Termination of appointment of member of Selection Committee
+
+[38](#38).          Disclosure of interests by members of Selection Committees
+
+[39](#39).          Resolutions without meetings
+
+[40](#40).          Consultants etc 
+
+[41](#41).          Presiding Member to abolish Selection Committee
+
+[42](#42).          Annual reports of Selection Committees
+
+    **Division 4—Managing Director**
+
+[43](#43).          Managing Director
+
+[44](#44).          Duties
+
+[45](#45).          Appointment
+
+[46](#46).          Term of appointment etc 
+
+[47](#47).          Terms and conditions of appointment
+
+[48](#48).          Application of Remuneration Tribunal Act
+
+[49](#49).          Managing Director not to engage in other paid employment
+
+[50](#50).          Leave of absence
+
+[51](#51).          Resignation
+
+[52](#52).          Disclosure of interests
+
+[53](#53).          Acting Managing Director
 
     **Division 5—Committees**
 
@@ -108,29 +158,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [63](#63).          Term of office
 
-[64](#64).          Leave of absence
+[64](#64).          Application of certain provisions to members of management advisory committees
 
-[64A](#64A).       Resignation
-
-[64B](#64B).       Termination of appointment
-
-[64C](#64C).       Disclosure of interests to management advisory committee
-
-[64D](#64D).       Disclosure of interests to Authority
+[64A](#64A).       Disclosure of interests of members of management advisory committees
 
 [65](#65).          Meetings
-
-[65A](#65A).       Decisions without meetings
 
 [66](#66).          Arrangements relating to staff etc 
 
 [67](#67).          Remuneration and allowances
 
-    **Division 6—Staff and consultants**
+    **Division 6—Employees and consultants**
 
-[68](#68).          Staff
+[68](#68).          Employees
 
 [69](#69).          Consultants
+
+[70](#70).          Human resources development program
+
+[71](#71).          Merit principle to apply
 
     **Division 7—Corporate and annual operational plans**
 
@@ -150,9 +196,29 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [79](#79).          Variation of annual operational plan
 
-    **Division 9—Miscellaneous**
+    **Division 8—Finance**
 
-[87](#87).          Annual report
+[80](#80).          Payment of amounts of levy etc 
+
+[81](#81).          Money of the Authority
+
+[82](#82).          Expenditure of money of the Authority
+
+[83](#83).          Borrowing of money
+
+[84](#84).          Guarantee of borrowings
+
+[85](#85).          Borrowing not otherwise permitted
+
+[86](#86).          Authority may give security
+
+[87](#87).          Exemption from tax
+
+[88](#88).          Extra matters to be included in annual report
+
+[88A](#88A).       Delegation by Finance Minister
+
+    **Division 9—Miscellaneous**
 
 [89](#89).          Peak industry body to be given copy of report etc 
 
@@ -160,21 +226,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [91](#91).          Minister may give directions in exceptional circumstances
 
-[92](#92).          Delegation of functions and powers for which Commission is responsible
+[92](#92).          Delegation by the Authority
 
-[93](#93).          Delegation of functions and powers for which CEO is responsible
+[93](#93).          Delegation by the Managing Director
 
-[94](#94).          Fees
+[93A](#93A).       Delegations under the _Torres Strait Fisheries Act 1984_
 
-[94A](#94A).       Exemption from tax
-
-[94B](#94B).       The AFMA Special Account
-
-[94C](#94C).       Credits to the AFMA Special Account
-
-[94D](#94D).       Purposes of the AFMA Special Account
-
-[94E](#94E).        Adjusted levy amounts
+[94](#94).          Limit—fees and charges
 
 **Part 3—The Fishing Industry Policy Council** 
 
@@ -236,7 +294,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]                
+##### <a id="1"></a>1  Short title [_see_ Note 1]                
 
                    This Act may be cited as the _Fisheries Administration Act 1991_.
 
@@ -258,31 +316,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="afma-staff-member"></a>**_AFMA staff member_** means a member of the staff assisting the CEO (see section 68).
-
-                    <a name="afz"></a>**_AFZ_** has the same meaning as in the _Fisheries Management Act 1991_.
-
                     <a name="associated-law"></a>**_associated law_** means a law conferring powers and functions on the Authority.
 
                     <a name="australian-flag-boat"></a>**_Australian-flagged boat_**has the same meaning as in the _Fisheries Management Act 1991_.
 
                     <a name="author"></a>**_Authority_** means the Australian Fisheries Management Authority established by section 5.
 
-                    <a name="ceo"></a>**_CEO_** means the Chief Executive Officer (see subsection 10B(1)).
-
-                    <a name="commiss"></a>**_Commission_** means the Commission established by subsection 10B(1).
-
-                    <a name="commission"></a>**_commissioner_** means:
-
-                     (a)  a part-time commissioner; or
-
-                     (b)  the CEO.
+                    <a name="borrow"></a>**_borrowing_**, includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day-to-day operations of the Authority.
 
                     <a name="complianc-agreem"></a>**_Compliance Agreement_** has the same meaning as in the _Fisheries Management Act 1991_.
 
-                    <a name=""></a><a name=""></a><a name="domest-fisheri-manag-function-power"></a>**_domestic fisheries management functions and powers_** of the Authority  means the functions and powers of the Authority, other than the foreign compliance functions and powers of the Authority **_._**
+                    <a name="director"></a>**_director_** means a director of the Authority and includes the Chairperson of the Authority.
 
-Note:          The functions and powers of the Authority are set out in sections 7 and 8, and include functions and powers under associated laws.
+                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
                     <a name="fisheri"></a>**_fishery_** means a class of activities by way of fishing, including activities identified by reference to all or any of the following:
 
@@ -300,35 +346,29 @@ Note:          The functions and powers of the Authority are s
 
                      (g)  a purpose of activities.
 
-                    <a name="fish-concess"></a>**_fishing concession_** has the same meaning as in the _Fisheries Management Act 1991_.
-
-                    <a name="foreign-boat"></a>**_foreign boat_** has the same meaning as in the _Fisheries Management Act 1991_.
-
-                    <a name="foreign-complianc-function-power"></a>**_foreign compliance functions and powers_** of the Authority means the functions and powers of the Authority as they relate to:
-
-                     (a)  foreign boats in the AFZ where the operation of the boat is not covered by a fishing concession, port permit or scientific permit, and persons or things on such boats; and
-
-                     (b)  boats outside the AFZ, and persons or things on such boats, other than where the boat is operating in an area where it is authorised to operate under a fishing concession.
-
-Note:          The functions and powers of the Authority are set out in sections 7 and 8, and include functions and powers under associated laws.
-
                     <a name="govern-bodi"></a>**_governing body_**, in relation to another body (whether incorporated or otherwise), means the persons having the management of the affairs of that other body.
 
                     <a name="industri"></a>**_industry_** means the fishing industry including the catching, processing and marketing sectors of that industry.
 
-                    <a name="part-time-commission"></a>**_part-time commissioner_** means a person appointed as a part-time commissioner under subsection 12(1), and includes the Chairperson of the Commission.
+                    <a name="ministeri-council"></a>**_Ministerial Council_** means:
+
+                     (a)  subject to paragraph (b), Ministerial Council on Forestry, Fisheries and Aquaculture, whether known by that name or any other name; or
+
+                     (b)  if another body is prescribed by the regulations for the purposes of this definition—that other body.
+
+                    <a name="nomin-director"></a>**_nominated director_** means a person appointed by the Minister under section 12 to be a nominated director of the Authority.
 
                     <a name="peak-industri-bodi"></a>**_peak industry body_** means such body (whether incorporated or otherwise) representative generally of persons engaged in the industry as is prescribed for the purposes of this definition.
 
                     <a name="plan-manag"></a>**_plan of management_** means a plan of management of a fishery determined by the Authority under an associated law.
 
-                    <a name="port-permit"></a>**_port permit_** has the same meaning as in the _Fisheries Management Act 1991_.
-
                     <a name="precautari-principl"></a>**_precautionary principle_** has the same meaning as in clause 3.5.1 of the Intergovernmental Agreement on the Environment, a copy of which is set out in the Schedule to the _National Environment Protection Council Act 1994_.
+
+                    <a name="presid-member"></a>**_Presiding Member_** means the Presiding Member of Australian Fisheries Management Authority Selection Committees appointed under section 25.
 
                     <a name="principl-ecolog-sustain-develop"></a>**_principles of ecologically sustainable development_** has the meaning given by section 6A.
 
-                    <a name="scientif-permit"></a>**_scientific permit_** has the same meaning as in the _Fisheries Management Act 1991_.
+                    <a name="select-committe"></a>**_Selection Committee_** means an Australian Fisheries Management Authority Selection Committee established under section 28\. 
 
 Note:          Definitions relating only to Part 3 are in section 95.
 
@@ -484,6 +524,8 @@ Note:          Definitions relating only to Part 3 are in se
 
                      (n)  such other functions as are conferred on the Authority by or under this Act or an associated law.
 
+Note:          Section 9 of the _Commonwealth Authorities and Companies Act 1997_ requires the members of the Authority to prepare an annual report on the Authority.
+
              (2)  The paragraphs of subsection (1) do not limit one another.
 
              (3)  In disclosing information in the course of an activity referred to in paragraph (1)(g), (ga), (gb) or (ma), the Authority may require that the information:
@@ -502,19 +544,23 @@ Note:          Definitions relating only to Part 3 are in se
 
              (1)  The Authority may do all things that are necessary or convenient to be done for, or in connection with, the performance of its functions.
 
-             (2)  However, the Authority does not have the following powers:
+             (2)  Without limiting the generality of subsection (1), the Authority may:
 
-                     (a)  the power to acquire, hold and dispose of real or personal property;
+                     (a)  enter into agreements and contracts; and
 
-                     (b)  the power to enter into contracts;
+                     (b)  acquire, hold and dispose of real and personal property; and
 
-                     (c)  the power to lease the whole or any part of any land or building for the purposes of the Authority.
+                     (c)  collect information and data relevant to the management of fisheries; and
 
-             (3)  A right to sue is taken not to be personal property for the purposes of paragraph (2)(a).
+                     (d)  charge such fees and impose such charges as are reasonable in respect of work done, services provided or information given by the Authority; and
+
+                     (e)  accept gifts, grants, bequests and devises made to it, and act as trustee of money and other property vested in it on trust; and
+
+                      (f)  do anything incidental to any of its powers.
 
 ##### <a id="9"></a>9  Consultation
 
-                   The Authority, for the purpose of considering any matter, or obtaining information or advice, relating to the performance of its functions, may consult with persons, bodies or Governments, including:
+             (1)  The Authority, for the purpose of considering any matter, or obtaining information or advice, relating to the performance of its functions, may consult with persons, bodies or Governments, including:
 
                      (a)  persons or bodies representative of the whole or a part of the industry or recreational fishing; and
 
@@ -522,179 +568,83 @@ Note:          Definitions relating only to Part 3 are in se
 
                      (c)  persons (including members of the scientific community) having a particular interest in matters associated with the industry.
 
-##### <a id="10"></a>10  Authority is a body corporate
+             (2)  The Authority may:
+
+                     (a)  pay travel expenses reasonably incurred by a person in connection with consultations by the Authority; and
+
+                     (b)  subject to written guidelines given to the Authority by the Minister, pay expenses (other than travel expenses) reasonably incurred by a body or person in connection with consultations by the Authority.
+
+### Division 2—Constitution and meetings of Authority
+
+##### <a id="10"></a>10  Authority is body corporate etc.
 
              (1)  The Authority:
 
-                     (a)  is a body corporate; and
+                     (a)  is a body corporate with perpetual succession; and
 
-                     (b)  must have a seal; and
+                     (b)  is to have a common seal; and
 
                      (c)  may sue and be sued in its corporate name.
 
-             (2)  The seal of the Authority must be kept in such custody as the CEO directs, and must not be used except as authorised:
+Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Authority. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
 
-                     (a)  in relation to the performance and exercise of the domestic fisheries management functions and powers of the Authority—by the Commission; or
+             (2)  The common seal of the Authority must be kept in such custody as the Authority directs and must not be used except as authorised by the Authority.
 
-                     (b)  in relation to the performance and exercise of the foreign compliance functions and powers of the Authority—by the CEO.
+             (3)  All courts, judges and persons acting judicially must take judicial notice of the imprint of the common seal of the Authority appearing on a document and must presume that it was duly affixed.
 
-             (3)  All courts, judges and persons acting judicially must:
+##### <a id="11"></a>11  Constitution of Authority
 
-                     (a)  take judicial notice of the imprint of the seal of the Authority appearing on a document; and
+                   The Authority consists of the following directors:
 
-                     (b)  presume that it was duly sealed.
+                     (a)  the Chairperson;
 
-##### <a id="10A"></a>10A  Financial liabilities
+                     (b)  the Government Director;
 
-             (1)  Any financial liabilities of the Authority are taken to be liabilities of the Commonwealth.
+                     (c)  the Managing Director;
 
-             (2)  For the purposes of this section:
+                     (d)  five nominated directors.
 
-                    <a name="financi-liabil"></a>**_financial liability_** means a liability to pay a person an amount, where the amount, or the method for working out the amount, has been determined.
+##### <a id="12"></a>12  Appointment of directors
 
-##### <a id="10B"></a>10B  The Commission and CEO
+             (1)  The directors (other than the Managing Director) are to be appointed by the Minister.
 
-             (1)  There is to be a Commission and a Chief Executive Officer.
+             (2)  A person may not be appointed as Chairperson of the Authority, or as a nominated director, for 3 or more consecutive terms if the total of the terms is more than 9 years.
 
-Note:          The Chief Executive Officer is also a commissioner: see the definition of **_commissioner_** in subsection 4(1).
+             (3)  The Minister is to appoint a person to be the Government Director only if satisfied that the person has experience in public administration including the formulation of government policy.
 
-             (2)  The Commission is responsible for performing and exercising the domestic fisheries management functions and powers of the Authority.
+             (4)  The nominated directors, other than the first 5 such directors, are to be appointed from persons nominated by a Selection Committee under section 31.
 
-             (3)  The CEO is responsible for:
+          (4A)  However, the requirements of subsection (4) do not have to be met in relation to a director if the Minister appoints the director:
 
-                     (a)  performing and exercising the foreign compliance functions and powers of the Authority; and
+                     (a)  in the period starting on 1 July 2008 and ending on 30 June 2009; and
 
-                     (b)  assisting the Commission, including by giving effect to the decisions of the Commission.
+                     (b)  for a period not exceeding 9 months.
 
-             (4)  The CEO is not subject to direction by the Commission in relation to the CEO’s performance or exercise of:
+             (5)  The appointment of a person as a director is not invalid because of a defect or irregularity in connection with the persons nomination or appointment.
 
-                     (a)  functions and powers under the _Financial Management and Accountability Act 1997_ or the _Public Service Act 1999_; or
-
-                     (b)  the foreign compliance functions and powers of the Authority.
-
-             (5)  Anything done in the name of the Authority, or on the Authority’s behalf, by:
-
-                     (a)  the Commission in performing or exercising the domestic fisheries management functions and powers of the Authority; or
-
-                     (b)  the CEO in performing or exercising the foreign compliance functions and powers of the Authority;
-
-is taken to have been done by the Authority.
-
-##### <a id="10C"></a>10C  Minister may give directions to CEO about foreign compliance
-
-             (1)  The Minister may give written directions to the CEO about the performance and exercise of the foreign compliance functions and powers of the Authority.
-
-             (2)  Directions given by the Minister under subsection (1) may relate to a particular case.
-
-             (3)  The CEO must comply with any direction given by the Minister under subsection (1).
-
-             (4)  The Minister must cause a copy of each direction given under subsection (1) to be tabled in each House of the Parliament within 15 sitting days of that House after giving the direction.
-
-             (5)  Subsection (4) does not apply in relation to a particular direction if the Minister determines, in writing, that compliance with the subsection is undesirable because compliance would, or would be likely to, be prejudicial to the national interest of Australia.
-
-             (6)  Neither a direction made under subsection (1) nor a determination made under subsection (5) is a legislative instrument.
-
-### Division 2—Constitution of Commission
-
-##### <a id="11"></a>11  Constitution of Commission
-
-             (1)  The Commission consists of:
-
-                     (a)  the Chairperson of the Commission; and
-
-                     (b)  the other part-time commissioners; and
-
-                     (c)  the CEO.
-
-             (2)  There must be no more than 8 part-time commissioners (including the Chairperson).
-
-### Division 3—Appointment of commissioners
-
-##### <a id="12"></a>12  Appointment of commissioners
-
-             (1)  The Chairperson of the Commission, the other part-time commissioners and the CEO are to be appointed by the Minister by written instrument.
-
-CEO may also be appointed Chairperson
-
-             (2)  The CEO may also be appointed as the Chairperson of the Commission, but must not otherwise hold office as a part-time commissioner.
-
-Eligibility for appointment
-
-             (3)  To be eligible for appointment as a commissioner, an individual, at the time of appointment:
-
-                     (a)  must have a high level of expertise in one or more of the following fields:
-
-                              (i)  fisheries management;
-
-                             (ii)  fishing industry operations;
-
-                            (iii)  science;
-
-                            (iv)  natural resource management;
-
-                             (v)  economics;
-
-                            (vi)  business or financial management;
-
-                           (vii)  law;
-
-                           (viii)  public sector administration or governance;
-
-                            (ix)  such other fields (if any) as are prescribed by the regulations; but
-
-                     (b)  must not hold:
-
-                              (i)  an executive position in a fishing industry association (however described); or
-
-                             (ii)  a fishing concession granted under the _Fisheries Management Act 1991_; or
-
-                            (iii)  a licence or permit granted under the _Torres Strait__Fisheries Act 1984_; or
-
-                            (iv)  an executive position (however described and whether or not a director of the body) in a body corporate that holds a fishing concession, licence or permit of a kind mentioned in subparagraph (ii) or (iii); or
-
-                             (v)  the majority of the voting shares in a company that holds a fishing concession, licence or permit of a kind mentioned in subparagraph (ii) or (iii).
-
-Note:          These eligibility criteria will apply to the CEO who is also a commissioner: see the definition of **_commissioner_** in subsection 4(1).
-
-             (4)  For the purposes of subparagraph (3)(b)(iv), a person holds an **_executive position_** in a body corporate if the person is concerned in, or takes part in, the management of the body.
-
-             (5)  In appointing commissioners, the Minister must ensure, as far as practicable, that the commissioners collectively possess expertise in all of the fields mentioned in paragraph (3)(a).
-
-Basis of appointments
-
-             (6)  The Chairperson of the Commission and the other part-time commissioners must be appointed on a part-time basis.
-
-             (7)  The CEO must be appointed on a full-time basis.
-
-Term of appointment
-
-             (8)  A commissioner holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
-
-Validation
-
-             (9)  The appointment of an individual as a commissioner is not invalid because of a defect or irregularity in connection with the individual’s appointment.
+             (6)  The Minister must try, so far as the first 5 nominated directors are concerned, to appoint, so far as practicable, such persons as will ensure that the directors of the Authority collectively possess expertise in all the fields of activity referred to in subsection 30(1).
 
 ##### <a id="13"></a>13  Deputy Chairperson
 
-             (1)  The Minister is to appoint a part-time commissioner (other than the Chairperson) to be the Deputy Chairperson of the Commission.
+             (1)  The Minister is to appoint a nominated director to be the Deputy Chairperson of the Authority.
 
-             (2)  The Minister must, before appointing a person to be the Deputy Chairperson, consult with the Chairperson of the Commission.
+             (2)  The Minister must, before appointing a person to be the Deputy Chairperson, consult with the Chairperson of the Authority.
 
              (3)  The Minister may at any time terminate an appointment made under subsection (1).
 
-             (4)  A person appointed as Deputy Chairperson ceases to hold the office if the person ceases to be a part-time commissioner.
+             (4)  A person appointed as Deputy Chairperson ceases to hold the office if the person ceases to be a nominated director.
 
              (5)  A person appointed as Deputy Chairperson may resign by giving to the Minister a signed notice of resignation.
 
              (6)  During any period when:
 
-                     (a)  the office of Chairperson of the Commission is vacant (whether or not an appointment has previously been made to the office); or
+                     (a)  the office of Chairperson of the Authority is vacant (whether or not an appointment has previously been made to the office); or
 
-                     (b)  the Chairperson of the Commission is absent from Australia or is, for any reason, unable to perform the duties of the office;
+                     (b)  the Chairperson of the Authority is absent from Australia or is, for any reason, unable to perform the duties of the office;
 
 the Deputy Chairperson is to act as Chairperson.
 
-             (7)  The Deputy Chairperson has, when acting as Chairperson, all the powers, duties, rights and entitlements of the Chairperson of the Commission.
+             (7)  The Deputy Chairperson has, when acting as Chairperson, all the powers, duties, rights and entitlements of the Chairperson of the Authority.
 
              (8)  Anything done by or in relation to a person purporting to act as Chairperson under subsection (6) is not invalid merely because:
 
@@ -704,47 +654,37 @@ the Deputy Chairperson is to act as Chairperson.
 
                      (c)  the occasion for the person to act as Chairperson had not arisen or had ceased.
 
-##### <a id="14"></a>14  Acting CEO
+##### <a id="14"></a>14  Certain members of peak industry body not eligible for appointment etc.
 
-             (1)  The Minister may appoint a person to act as the CEO:
+                   A person who is a member of the governing body of the peak industry body must not be appointed as a director, and a director who becomes a member of the governing body of the peak industry body ceases to hold office as a director.
 
-                     (a)  during a vacancy in the office of CEO (whether or not an appointment has previously been made to the office); or
+##### <a id="15"></a>15  Term of office
 
-                     (b)  during any period, or during all periods, when the CEO is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
+                   A director (other than the Managing Director) holds office, subject to this Act:
 
-             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+                     (a)  in the case of a director other than the Government Director—for such term (not exceeding 3 years) as is specified in the instrument of appointment, but is eligible for re-appointment in accordance with this Act; and
 
-                     (a)  the occasion for the appointment had not arisen; or
+                     (b)  in the case of the Government Director—during the Minister’s pleasure.
 
-                     (b)  there was a defect or irregularity in connection with the appointment; or
+##### <a id="16"></a>16  Directors (other than Managing Director) hold office on part-time basis
 
-                     (c)  the appointment had ceased to have effect; or
-
-                     (d)  the occasion to act had not arisen or had ceased.
-
-Note:          See section 33A of the _Acts Interpretation Act 1901_.
-
-##### <a id="15"></a>15  Other employment
-
-             (1)  A part-time commissioner must not engage, without the Minister’s approval, in paid employment that conflicts or may conflict with the proper performance of his or her duties.
-
-             (2)  The CEO must not engage in paid employment outside the duties of the CEO’s office without the Minister’s approval.
+                   The directors (other than the Managing Director) hold office on a part-time basis.
 
 ##### <a id="17"></a>17  Remuneration and allowances
 
-             (1)  A commissioner is to be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination is in operation, the commissioner is to be paid such remuneration as is prescribed.
+             (1)  A director is to be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination is in operation, the director is to be paid such remuneration as is prescribed.
 
-             (2)  A commissioner is to be paid such allowances as are prescribed.
+             (2)  A director is to be paid such allowances as are prescribed.
 
              (3)  Where:
 
-                     (a)  a person who is a part-time commissioner is a member of, or a candidate for election to, the Parliament of a State; and
+                     (a)  a person who is a director is a member of, or a candidate for election to, the Parliament of a State; and
 
                      (b)  under the law of the State, the person would not be eligible to remain, or to be elected as a member of that Parliament if the person were entitled to remuneration or allowances under this Act;
 
 the person must not be paid remuneration or allowances under this Act, but is to be reimbursed the expenses that the person reasonably incurs in performing duties under this Act.
 
-             (4)  Where a part-time commissioner:
+             (4)  Where a director:
 
                      (a)  is a member of the Parliament of a State, but subsection (3) does not apply in relation to the person; or
 
@@ -758,6 +698,8 @@ it is a condition of the person’s holding office under this Act that the perso
 
              (6)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
+             (7)  This section does not apply in relation to the Managing Director.
+
              (8)  In this section:
 
                     <a name="parliam"></a>**_Parliament_** means:
@@ -770,179 +712,405 @@ it is a condition of the person’s holding office under this Act that the perso
 
 ##### <a id="18"></a>18  Leave of absence
 
-Part-time commissioners
+             (1)  The Minister may grant leave of absence to the Chairperson of the Authority on such terms and conditions as the Minister considers appropriate.
 
-             (1)  The Minister may grant leave of absence to the Chairperson of the Commission on such terms and conditions as the Minister considers appropriate.
-
-             (2)  The Chairperson may grant leave of absence to another part-time commissioner on such terms and conditions as the Chairperson considers appropriate.
-
-CEO
-
-             (3)  The CEO has the recreation leave entitlements that are determined by the Remuneration Tribunal.
-
-             (4)  The Minister may grant the CEO leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
+             (2)  The Chairperson may grant leave of absence to another director (other than the Managing Director) on such terms and conditions as the Chairperson considers appropriate.
 
 ##### <a id="19"></a>19  Resignation
 
-                   A commissioner may resign by giving to the Minister a signed notice of resignation.
-
-##### <a id="20"></a>20  Disclosure of interests to Minister
-
-Disclosure on appointment
-
-             (1)  Before starting to hold office, a commissioner must give to the Minister a written statement of any interest, pecuniary or otherwise, that the commissioner has that may relate to:
-
-                     (a)  the functions of the commissioner; and
-
-                     (b)  in the case of the CEO—the additional functions of the CEO.
-
-Disclosures during term of appointment
-
-             (2)  The commissioner must give written notice to the Minister of all interests, pecuniary or otherwise, that the commissioner has or acquires and that conflict or may conflict with the proper performance of:
-
-                     (a)  the commissioner’s functions; and
-
-                     (b)  in the case of the CEO—the additional functions of the CEO.
-
-             (3)  The notice must be given as soon as possible after the relevant facts come to the commissioner’s knowledge.
-
-Keeping of register
-
-             (4)  The Commission must keep a register of the interests disclosed under this section.
+                   A director (other than the Managing Director) may resign by giving to the Minister a signed notice of resignation.
 
 ##### <a id="21"></a>21  Termination of appointment
 
-             (1)  The Minister may terminate the appointment of a commissioner for:
+             (1)  The Minister may terminate the appointment of the Chairperson of the Authority or a nominated director for:
 
                      (a)  misbehaviour or physical or mental incapacity; or
 
                      (b)  inefficiency or incompetence.
 
-             (2)  The Minister may terminate the appointment of a commissioner if:
+             (2)  If:
 
-                     (a)  the commissioner:
+                     (a)  the Chairperson or a nominated director becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 
-                              (i)  becomes bankrupt; or
+                     (b)  the Chairperson or a nominated director, without reasonable excuse, contravenes section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_; or
 
-                             (ii)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
+                     (c)  the Chairperson is absent, except with the leave of the Minister, from 3 consecutive meetings of the Authority; or
 
-                            (iii)  compounds with his or her creditors; or
+                     (d)  a nominated director is absent, except with the leave of the Chairperson, from 3 consecutive meetings of the Authority;
 
-                            (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
-
-                     (b)  the commissioner is absent, except on leave of absence:
-
-                              (i)  in the case of a part-time commissioner—from 3 consecutive meetings of the Commission; or
-
-                             (ii)  in the case of the CEO—for 14 consecutive days or for 28 days in any 12 months; or
-
-(c)  the commissioner engages:
-
-                              (i)  in the case of a part-time commissioner—in paid employment, without the approval of the Minister, that conflicts or may conflict with the proper performance of the duties of his or her office (see section 15); or
-
-                             (ii)  in the case of the CEO—in paid employment outside the duties of his or her office without the approval of the Minister (see section 15); or
-
-                     (d)  the commissioner fails, without reasonable excuse, to comply with section 20 or 24.
-
-Termination for holding certain positions or interests
-
-             (3)  The appointment of a commissioner is terminated, by force of this subsection, if the commissioner becomes the holder of:
-
-                     (a)  an executive position in a fishing industry association (however described); or
-
-                     (b)  a fishing concession granted under the _Fisheries Management Act 1991_; or
-
-                     (c)  a licence or permit granted under the _Torres Strait__Fisheries Act 1984_; or
-
-                     (d)  an executive position (however described and whether or not a director of the body) in a body corporate that holds a fishing concession, licence or permit of a kind mentioned in paragraph (b) or (c); or
-
-                     (e)  the majority of the voting shares in a company that holds a fishing concession, licence or permit of a kind mentioned in paragraph (b) or (c).
-
-             (4)  For the purposes of paragraph (3)(d), a person holds an **_executive position_** in a body corporate if the person is concerned in, or takes part in, the management of the body.
-
-Validation
-
-             (5)  Anything done by or in relation to the Commission is not invalid merely because the appointment of a commissioner has been terminated by force of subsection (3).
+the Minister may terminate the appointment of the Chairperson or the nominated director.
 
 ##### <a id="22"></a>22  Terms and conditions of appointment not provided for by Act
 
-                   A commissioner holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined, in writing, by the Minister.
-
-### Division 4—Operation of Commission
+                   A director (other than the Managing Director) holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined, in writing, by the Minister.
 
 ##### <a id="23"></a>23  Meetings
 
-             (1)  Subject to subsection (2), meetings of the Commission are to be held at such times and places as the Commission from time to time determines.
+             (1)  Subject to subsection (2), meetings of the Authority are to be held at such times and places as the Authority from time to time determines.
 
-             (2)  The Chairperson of the Commission may at any time convene a meeting of the Commission.
+             (2)  The Chairperson of the Authority may at any time convene a meeting of the Authority.
 
-Note:          Section 33B of the _Acts Interpretation Act 1901_ provides for participation in meetings by telephone etc.
+             (3)  The Chairperson of the Authority is to preside at all meetings of the Authority at which the Chairperson is present.
 
-             (3)  The Chairperson of the Commission is to preside at all meetings of the Commission at which the Chairperson is present.
+             (4)  If the Chairperson and Deputy Chairperson of the Authority are not present at a meeting of the Authority the directors present are to appoint one of their number to preside at the meeting.
 
-             (4)  If the Chairperson and Deputy Chairperson of the Commission are not present at a meeting of the Commission the commissioners present are to appoint one of their number to preside at the meeting.
+             (5)  At a meeting of the Authority:
 
-             (5)  At a meeting of the Commission:
+                     (a)  5 directors constitute a quorum; and
 
-                     (a)  a majority of the commissioners constitutes a quorum; and
+                     (b)  a question is to be decided by a majority of the votes of the directors present and voting; and
 
-                     (b)  a question is to be decided by a majority of the votes of the commissioners present and voting; and
+                     (c)  the director presiding has a deliberative vote and, in the event of an equality of votes, also has a casting vote.
 
-                     (c)  the commissioner presiding has a deliberative vote and, in the event of an equality of votes, also has a casting vote.
+             (6)  The Authority must keep minutes of its proceedings.
 
-             (6)  If:
+             (7)  The Authority may invite a person to attend a meeting for the purpose of advising or informing it on any matter.
 
-                     (a)  section 24 prevents a commissioner from participating in deliberations or decisions with respect to a particular matter at a meeting of the Commission; and
+##### <a id="24"></a>24  Resolutions without meetings
 
-                     (b)  when the commissioner leaves the meeting concerned there is no longer a quorum present;
+             (1)  Where:
 
-the remaining commissioners at the meeting constitute a quorum for the purpose of any deliberation or decision at that meeting with respect to that matter.
+                     (a)  copies of a document setting out a proposed resolution of the Authority are received by at least 5 directors of the Authority; and
 
-             (7)  The Commission must keep minutes of its proceedings.
+                     (b)  at least 5 such directors, being directors who would constitute a quorum at a meeting of the Authority, sign a copy of the document;
 
-             (8)  The Commission may invite a person to attend a meeting for the purpose of advising or informing it on any matter.
+the Authority is taken to have passed such a resolution in the terms set out in the document at a meeting of the Authority.
 
-##### <a id="24"></a>24  Disclosure of interests to Commission
+             (2)  The resolution is taken to have been passed:
 
-             (1)  A commissioner who has an interest, whether pecuniary or otherwise, in a matter being considered or about to be considered by the Commission must disclose the nature of the interest to a meeting of the Commission.
+                     (a)  on the day on which copies of the document were signed by the directors; or
 
-             (2)  The disclosure must be made as soon as possible after the relevant facts have come to the commissioner’s knowledge.
+                     (b)  if the copies were signed on different days—on the latest of those days.
 
-             (3)  The disclosure must be recorded in the minutes of the meeting of the Commission.
+### Division 3—Nomination and selection process for directors of Authority
 
-             (4)  Unless the Commission otherwise determines, the commissioner:
+##### <a id="25"></a>25  Presiding Member
 
-                     (a)  must not be present during any deliberation by the Commission on the matter; and
+             (1)  The Minister is to appoint a person to be the Presiding Member of Australian Fisheries Management Authority Selection Committees.
 
-                     (b)  must not take part in any decision of the Commission with respect to the matter.
+             (2)  The Presiding Member is to be appointed on a part-time basis.
 
-             (5)  For the purposes of the Commission making a determination under subsection (4), the commissioner:
+             (3)  Subject to this Division, the Presiding Member holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment, but is eligible to be re-appointed once in accordance with this Act.
 
-                     (a)  must not be present during any deliberation of the Commission for the purpose of making the determination; and
+##### <a id="26"></a>26  Acting Presiding Member
 
-                     (b)  must not take part in making the determination.
+             (1)  The Minister may appoint a person to act as Presiding Member:
 
-             (6)  A determination made by the Commission under subsection (4) must be recorded in the minutes of the meeting of the Commission.
+                     (a)  during a vacancy in the office of Presiding Member (whether or not an appointment has previously been made to the office); or
 
-##### <a id="25"></a>25  Decisions without meetings
+                     (b)  during any period, or during all periods, when the Presiding Member is absent from Australia or is, for any other reason, unable to perform the duties of the office;
 
-             (1)  The Commission is taken to have made a decision at a meeting if:
+but a person appointed to act during the vacancy must not continue to act for more than 12 months.
 
-                     (a)  without meeting, a majority of the commissioners entitled to vote on the proposed decision indicate agreement with the decision; and
+             (2)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
 
-                     (b)  that agreement is indicated in accordance with the method determined by the Commission under subsection (2); and
+                     (a)  the occasion for the persons appointment had not arisen; or
 
-                     (c)  all the commissioners were informed of the proposed decision, or reasonable efforts were made to inform all the commissioners of the proposed decision.
+                     (b)  there is a defect or irregularity in connection with the person’s appointment; or
 
-             (2)  Subsection (1) applies if the Commission:
+                     (c)  the person’s appointment had ceased to have effect; or
 
-                     (a)  has determined that it may make decisions of that kind without a meeting; and
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
-                     (b)  has determined the method by which commissioners are to indicate agreement with proposed decisions.
+##### <a id="27"></a>27  Request for nominations
 
-             (3)  For the purposes of paragraph (1)(a), a commissioner is not entitled to vote on a proposed decision if the commissioner would not have been entitled to vote on that proposal if the matter had been considered at a meeting of the Commission.
+             (1)  The Minister may, by written notice given to the Presiding Member, request the Presiding Member to establish a Selection Committee for the purpose of:
 
-             (4)  The Commission must keep a record of decisions made in accordance with this section.
+                     (a)  nominating a person or persons for appointment as a nominated director or nominated directors of the Authority; or
+
+                     (b)  if there is a vacancy caused by the resignation of, or the ending of the appointment of, any nominated director—nominating a person for appointment.
+
+             (2)  The Minister is to specify in the notice a period within which the Selection Committee is to comply with the notice.
+
+##### <a id="28"></a>28  Selection Committee
+
+             (1)  Where the Presiding Member receives a request under section 27, he or she must:
+
+                     (a)  establish an Australian Fisheries Management Authority Selection Committee for the purpose of nominating a person or persons for appointment to the Authority; and
+
+                     (b)  give to the peak industry body a written notice requesting the body to nominate to the Minister persons for appointment to the Selection Committee; and
+
+                     (c)  give to the Ministerial Council a written notice requesting the body to nominate to the Minister a person for appointment to the Selection Committee; and
+
+                     (d)  take reasonable steps to inform members of the public (which may consist of advertising in a newspaper circulating generally throughout the Commonwealth), and members of such groups of persons (if any) as the Presiding Member thinks appropriate, of the following matters:
+
+                              (i)  that nominations are being sought for appointment of a person or persons to the Authority; and
+
+                             (ii)  the qualifications for nomination required by a person under section 30.
+
+             (2)  The function of the Selection Committee is, in accordance with the request of the Minister, to nominate a person or persons for appointment to the Authority.
+
+             (3)  The Selection Committee has power to do all things that are necessary or convenient to be done for, or in connection with, the performance of its function.
+
+##### <a id="29"></a>29  Membership of Selection Committee
+
+             (1)  A Selection Committee is to consist of the following members:
+
+                     (a)  the Presiding Member;
+
+                     (b)  2 members determined by the Minister, one of whom has knowledge of environmental conservation issues;
+
+                     (c)  2 members nominated by the peak industry body;
+
+                     (d)  a member nominated by the Ministerial Council.
+
+             (2)  A Selection Committee member referred to in paragraph (1)(b), (c) or (d) is to be appointed by the Minister in writing and holds office on a part-time basis.
+
+##### <a id="30"></a>30  Selection of nominees
+
+             (1)  A Selection Committee must only nominate for appointment as directors of the Authority persons who have expertise in one or more of the following fields:
+
+                     (a)  commercial fishing;
+
+                     (b)  fishing industry operations other than commercial fishing;
+
+                     (c)  fisheries science;
+
+                     (d)  natural resource management;
+
+                     (e)  marine ecology;
+
+                      (f)  economics;
+
+                     (g)  business management;
+
+                     (h)  such other fields (if any) as are prescribed.
+
+             (2)  In selecting persons for nomination, a Selection Committee must try to choose such persons as will ensure, as far as practicable, that the directors of the Authority collectively possess expertise in all of the fields referred to in subsection (1).
+
+             (3)  A Selection Committee must not nominate a person:
+
+                     (a)  who is a member of the Committee; or
+
+                     (b)  whose appointment would result in the Authority having more than 2 directors currently engaged in a field of activity referred to in paragraph (1)(a) or (b); or
+
+                     (c)  who, under subsection 12(2), would not, in the particular case, be eligible for appointment.
+
+##### <a id="31"></a>31  Nomination
+
+             (1)  Within the period specified in a notice under section 27:
+
+                     (a)  the Selection Committee must select a person or persons for nomination according to the request; and
+
+                     (b)  the Presiding Member must, on behalf of the Committee, nominate the person or persons selected by the Committee.
+
+             (2)  A nomination must:
+
+                     (a)  be in writing; and
+
+                     (b)  be given to the Minister.
+
+             (3)  A Selection Committee must select only one person in respect of each appointment to be made by the Minister.
+
+             (4)  Where a person is nominated for appointment, the Presiding Member must attach to the nomination a statement setting out:
+
+                     (a)  details of the persons qualifications and experience; and
+
+                     (b)  any other information regarding the person that the Committee considers will assist the Minister in deciding whether to appoint the person.
+
+##### <a id="32"></a>32  Rejection of nominations
+
+             (1)  If the Minister is not satisfied that a person nominated by a Selection Committee is suitable for appointment, the Minister may give the Presiding Member written notice that he or she rejects the nomination of the person.
+
+             (2)  The Minister may include in a notice of rejection a further request under section 27 for a nomination of a person for appointment to the position concerned.
+
+##### <a id="33"></a>33  Meetings of a Selection Committee
+
+             (1)  Meetings of a Selection Committee are to be held at such times and places as the Committee determines.
+
+             (2)  The Presiding Member may convene a meeting of a Committee.
+
+             (3)  At a meeting, the following persons constitute a quorum:
+
+                     (a)  the Presiding Member;
+
+                     (b)  a member referred to in paragraph 29(1)(b);
+
+                     (c)  a member referred to in paragraph 29(1)(c);
+
+                     (d)  one other member who may also be a member referred to in one of those paragraphs.
+
+             (4)  The Presiding Member is to preside at all meetings of a Committee.
+
+             (5)  A question arising at a meeting of a Committee is to be decided by a majority of the votes of the members present and voting.
+
+             (6)  At a meeting of a Committee, the Presiding Member has a deliberative vote and, if there is an equality of votes, also has a casting vote.
+
+             (7)  A Committee must keep a record of its proceedings.
+
+             (8)  The procedure of a Committee is to be as determined by the Committee.
+
+##### <a id="34"></a>34  Remuneration and allowances
+
+             (1)  The Presiding Member of a Selection Committee is to be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination is in operation, the Presiding Member is to be paid such remuneration as is prescribed.
+
+             (2)  The Presiding Member is to be paid such allowances as are prescribed.
+
+             (3)  A member (other than the Presiding Member) is to be paid such travelling allowance as is prescribed.
+
+             (4)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+
+##### <a id="35"></a>35  Leave of absence
+
+             (1)  The Minister may grant to the Presiding Member leave of absence from a meeting of a Selection Committee.
+
+             (2)  The Presiding Member may grant to another member of a Committee leave of absence from a meeting of the Committee.
+
+##### <a id="36"></a>36  Resignation
+
+                   A member of a Selection Committee may resign by giving to the Minister a signed notice of resignation.
+
+##### <a id="37"></a>37  Termination of appointment of member of Selection Committee
+
+             (1)  The Minister may terminate the appointment of a member of a Selection Committee for:
+
+                     (a)  misbehaviour or physical or mental incapacity; or
+
+                     (b)  inefficiency or incompetence.
+
+             (2)  If a member of a Committee:
+
+                     (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of remuneration for their benefit; or
+
+                     (b)  fails, without reasonable excuse, to comply with his or her obligations under section 38; or
+
+                     (c)  is absent, without leave of absence, from 3 consecutive meetings of the Committee;
+
+the Minister may terminate the appointment of the member.
+
+##### <a id="38"></a>38  Disclosure of interests by members of Selection Committees
+
+             (1)  Where:
+
+                     (a)  a member of a Selection Committee has a direct or indirect interest in a matter being considered, or about to be considered, by the Committee; and
+
+                     (b)  the interest could conflict with the proper performance of the member’s duties in relation to the consideration of the matter;
+
+the member must, as soon as practicable after the relevant facts have come to the member’s knowledge, disclose the nature of the interest at a meeting of the Committee.
+
+             (2)  A disclosure under subsection (1) must be recorded in the minutes of the meeting.
+
+##### <a id="39"></a>39  Resolutions without meetings
+
+             (1)  Where:
+
+                     (a)  copies of a document setting out a proposed resolution of a Selection Committee are received by at least 4 members of the Committee, of whom one is the Presiding Member; and
+
+                     (b)  at least 4 such members, being members who would constitute a quorum at a meeting of the Committee, sign a copy of the document;
+
+the Committee is taken to have passed a resolution in the terms set out in the document at a meeting of the Committee.
+
+             (2)  The resolution is taken to have been passed:
+
+                     (a)  on the day on which copies of the document were signed by members; or
+
+                     (b)  if the copies were signed on different days—on the latest of those days.
+
+##### <a id="40"></a>40  Consultants etc.
+
+             (1)  The Presiding Member may, on behalf of a Selection Committee, engage persons as consultants to assist the Committee in the performance of its functions.
+
+             (2)  The Presiding Member may only engage persons who have suitable qualifications and experience.
+
+             (3)  The Presiding Member may, on behalf of a Selection Committee, engage persons to perform clerical or administrative services in connection with the performance of the Committee’s functions.
+
+             (4)  The terms and conditions of engagement of persons under subsection (1) or (3) are to be determined by the Committee.
+
+##### <a id="41"></a>41  Presiding Member to abolish Selection Committee
+
+                   Where:
+
+                     (a)  the Minister has appointed to the Authority a person or persons nominated by a Selection Committee; and
+
+                     (b)  the Committee has not made any nominations for appointment that have yet to be accepted or rejected by the Minister; and
+
+                     (c)  there are no matters in a request by the Minister under section 27 or 32 that are still to be dealt with by the Committee;
+
+the Presiding Member must abolish the Committee.
+
+##### <a id="42"></a>42  Annual reports of Selection Committees
+
+             (1)  The Presiding Member must, as soon as practicable after 30 June in each year, prepare and give to the Minister a report on the operations, during the immediately preceding financial year, of Selection Committees (if any) established by the Presiding Member or any other Presiding Member.
+
+             (2)  Where the first appointment of a Presiding Member does not begin on 1 July, subsection (1) has effect in relation to the period beginning on the day the appointment begins and ending on the next 30 June as if:
+
+                     (a)  if the period is less than 3 months—the period were included in the next financial year; or
+
+                     (b)  in any other case—the period were a financial year.
+
+             (3)  A report for a financial year may, subject to agreement between the Presiding Member and the Chairperson of the Authority, be included, as a discrete part, in the annual report of the Authority for that financial year.
+
+             (4)  If subsection (3) does not apply to a report under this section, the Minister must cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the report.
+
+### Division 4—Managing Director
+
+##### <a id="43"></a>43  Managing Director
+
+                   There is to be a Managing Director of the Authority.
+
+##### <a id="44"></a>44  Duties
+
+             (1)  The Managing Director is to conduct the affairs of the Authority.
+
+             (2)  The Managing Director must act in accordance with any policies determined by, and any directions given by, the Authority.
+
+             (3)  All acts and things done in the name of, or on behalf of, the Authority by the Managing Director are taken to have been done by the Authority.
+
+##### <a id="45"></a>45  Appointment
+
+             (1)  The Managing Director is to be appointed by the Authority.
+
+             (2)  The Chairperson, the Government Director or a nominated director of the Authority must not be appointed as the Managing Director.
+
+             (3)  The appointment of a person as Managing Director is not invalid because of a defect or irregularity in connection with the person’s appointment.
+
+##### <a id="46"></a>46  Term of appointment etc.
+
+                   The Managing Director holds office during the Authority’s pleasure.
+
+##### <a id="47"></a>47  Terms and conditions of appointment
+
+                   The Managing Director holds office on such terms and conditions (including terms and conditions relating to remuneration and allowances) in relation to matters not provided for by this Act as are determined by the Authority.
+
+##### <a id="48"></a>48  Application of Remuneration Tribunal Act
+
+                   The office of Managing Director is not a public office within the meaning of the _Remuneration Tribunal Act 1973_.
+
+##### <a id="49"></a>49  Managing Director not to engage in other paid employment
+
+                   The Managing Director must not engage in paid employment outside the duties of the office except with the approval of the Authority.
+
+##### <a id="50"></a>50  Leave of absence
+
+                   The Chairperson of the Authority may grant leave of absence to the Managing Director on such terms and conditions, whether as to remuneration or otherwise, as are determined by the Authority.
+
+##### <a id="51"></a>51  Resignation
+
+                   The Managing Director may resign by giving to the Chairperson of the Authority a signed notice of resignation.
+
+##### <a id="52"></a>52  Disclosure of interests
+
+                   The Managing Director must give written notice to the Chairperson of the Authority of all direct or indirect pecuniary interests that the Managing Director has or acquires in any business or in any body corporate carrying on any business.
+
+##### <a id="53"></a>53  Acting Managing Director
+
+             (1)  The Authority may, by resolution, appoint a person to act as Managing Director:
+
+                     (a)  during a vacancy in the office of Managing Director, whether or not an appointment has previously been made to the office; or
+
+                     (b)  during any period, or during all periods, when the Managing Director is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office of Managing Director;
+
+but a person appointed to act during the vacancy must not continue so to act for more than 12 months.
+
+             (2)  Anything done by or in relation to a person purporting to act under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the person’s appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the person’s appointment; or
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ### Division 5—Committees
 
@@ -952,7 +1120,7 @@ the remaining commissioners at the meeting constitute a quorum for the purpose o
 
 ##### <a id="55"></a>55  Committees other than management advisory committees
 
-             (1)  A committee (other than a management advisory committee) may be constituted wholly by commissioners or partly by commissioners and partly by other persons.
+             (1)  A committee (other than a management advisory committee) may be constituted wholly by members of the Authority or partly by members of the Authority and partly by other persons.
 
              (2)  The Authority may determine:
 
@@ -1034,9 +1202,9 @@ the member must, as soon as practicable after the relevant facts have come to th
 
              (1)  A management advisory committee consists of the following members:
 
-                     (a)  the Chairperson of the committee:
+                     (a)  the Chairperson:
 
-                     (b)  the AFMA staff member who is responsible for the management of the fishery in relation to which the committee has been established;
+                     (b)  the officer of the Authority who is responsible to the Authority for the management of the fishery in relation to which the committee has been established;
 
                      (c)  such number of other members (not exceeding 7) as the Authority determines from time to time after consultation with the industry, the States and Territories and persons engaged in research who, in the opinion of the Authority, have an interest in matters in relation to which the committee is established.
 
@@ -1078,65 +1246,31 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
              (2)  If a member of a management advisory committee (other than the Chairperson) ceases to hold office before the end of the term of appointment, another person may, in accordance with this Act, be appointed in the member’s place until the end of the term.
 
-##### <a id="64"></a>64  Leave of absence
+##### <a id="64"></a>64  Application of certain provisions to members of management advisory committees
 
-             (1)  The Authority may grant leave of absence to the Chairperson of a management advisory committee on such terms and conditions as the Authority considers appropriate.
+                   Sections 18, 19, 21 and 24 apply to a management advisory committee as if:
 
-             (2)  The Chairperson of a management advisory committee may grant leave of absence to another member of the committee on such terms and conditions as the Chairperson considers appropriate.
+                     (a)  a reference to a director of the Authority were a reference to a member of the committee (whether or not the member of the committee is also a director of the Authority); and
 
-##### <a id="64A"></a>64A  Resignation
+                     (b)  a reference to the Minister were a reference to the Authority; and
 
-                   A member of a management advisory committee may resign his or her appointment by giving the Authority a written resignation.
+                     (c)  a reference to the Chairperson of the Authority were a reference to the Chairperson of the committee; and
 
-##### <a id="64B"></a>64B  Termination of appointment
+                     (d)  a reference to a nominated director of the Authority were a reference to a member of the committee referred to in paragraph 60(1)(c); and
 
-             (1)  The Authority may terminate the appointment of a member of a management advisory committee for:
+                     (e)  a reference to the Authority were a reference to the committee.
 
-                     (a)  misbehaviour or physical or mental incapacity; or
+##### <a id="64A"></a>64A  Disclosure of interests of members of management advisory committees
 
-                     (b)  inefficiency or incompetence.
+             (1)  If:
 
-             (2)  The Authority may terminate the appointment of a member of a management advisory committee if:
+                     (a)  a member of a management advisory committee has a direct or indirect pecuniary interest in a matter being considered, or about to be considered, by the committee; and
 
-                     (a)  the member:
+                     (b)  the interest could conflict with the proper performance of the member’s duties in relation to the consideration of the matter;
 
-                              (i)  becomes bankrupt; or
+the member must disclose the nature of the interest at a meeting of the committee, as soon as practicable after the relevant facts have come to the member’s knowledge.
 
-                             (ii)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
-
-                            (iii)  compounds with his or her creditors; or
-
-                            (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
-
-                     (b)  the member is absent, except on leave of absence, from 3 consecutive meetings of the Commission; or
-
-                     (c)  the member fails, without reasonable excuse, to comply with section 64C or 64D.
-
-##### <a id="64C"></a>64C  Disclosure of interests to management advisory committee
-
-             (1)  A member of a management advisory committee who has an interest, whether pecuniary or otherwise, in a matter being considered or about to be considered by the committee must disclose the nature of the interest to a meeting of the committee.
-
-             (2)  The disclosure must be made as soon as possible after the relevant facts have come to the member’s knowledge.
-
-             (3)  The disclosure must be recorded in the minutes of the meeting of the committee.
-
-             (4)  Unless the committee otherwise determines, the member:
-
-                     (a)  must not be present during any deliberation by the committee on the matter; and
-
-                     (b)  must not take part in any decision of the committee with respect to the matter.
-
-             (5)  For the purposes of the committee making a determination under subsection (4), the member:
-
-                     (a)  must not be present during any deliberation of the committee for the purpose of making the determination; and
-
-                     (b)  must not take part in making the determination.
-
-             (6)  A determination made by the committee under subsection (4) must be recorded in the minutes of the meeting of the committee.
-
-##### <a id="64D"></a>64D  Disclosure of interests to Authority
-
-                   A member of a management advisory committee must give written notice to the Authority of all interests, pecuniary or otherwise, that the member has or acquires and that conflict or could conflict with the proper performance of his or her functions.
+             (2)  A disclosure must be recorded in the minutes of the meeting.
 
 ##### <a id="65"></a>65  Meetings
 
@@ -1156,29 +1290,9 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
              (2)  Except in relation to matters determined by the Authority under subsection (1), the committee may determine the procedure to be followed at or in relation to its meetings.
 
-##### <a id="65A"></a>65A  Decisions without meetings
-
-             (1)  A management advisory committee is taken to have made a decision at a meeting if:
-
-                     (a)  without meeting, a majority of the members of the committee entitled to vote on the proposed decision indicate agreement with the decision; and
-
-                     (b)  that agreement is indicated in accordance with the method determined by the committee under subsection (2); and
-
-                     (c)  all the members of the committee were informed of the proposed decision, or reasonable efforts were made to inform all the members of the proposed decision.
-
-             (2)  Subsection (1) applies if the management advisory committee:
-
-                     (a)  has determined that it may make decisions of that kind without a meeting; and
-
-                     (b)  has determined the method by which members of the committee are to indicate agreement with proposed decisions.
-
-             (3)  For the purposes of paragraph (1)(a), a member of a management advisory committee is not entitled to vote on a proposed decision if the member would not have been entitled to vote on that proposal if the matter had been considered at a meeting of the committee.
-
-             (4)  A management advisory committee must keep a record of decisions made in accordance with this section.
-
 ##### <a id="66"></a>66  Arrangements relating to staff etc.
 
-                   The Chairperson of a management advisory committee is to arrange with the CEO for the services of AFMA staff members and consultants to the Authority, and facilities, to be made available to the committee.
+                   The Chairperson of a management advisory committee is to arrange with the Chairperson of the Authority for the services of employees of, and consultants to, the Authority, and for facilities of the Authority, to be made available to the committee.
 
 ##### <a id="67"></a>67  Remuneration and allowances
 
@@ -1194,7 +1308,7 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
                      (b)  a sub-committee established under subsection 58(1A);
 
-(other than the Chairperson or other member of a management advisory committee or a member who is a commissioner or AFMA staff member) is to be paid such travelling allowance as is determined by the Remuneration Tribunal in relation to the performance of his or her duties as a member of the committee or sub-committee.
+(other than the Chairperson or other member of a management advisory committee or a member who is a director or employee of the Authority) is to be paid such travelling allowance as is determined by the Remuneration Tribunal in relation to the performance of his or her duties as a member of the committee or sub-committee.
 
              (5)  The following offices are not public offices within the meaning of the _Remuneration Tribunal Act 1973_:
 
@@ -1202,23 +1316,31 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
                      (c)  member of a sub-committee established under subsection 58(1A).
 
-### Division 6—Staff and consultants
+### Division 6—Employees and consultants
 
-##### <a id="68"></a>68  Staff
+##### <a id="68"></a>68  Employees
 
-             (1)  The staff assisting the CEO must be persons engaged under the _Public Service Act 1999_.
+             (1)  The Authority may engage such employees as it considers necessary for the performance of its functions and the exercise of its powers.
 
-             (2)  For the purposes of the _Public Service Act 1999_:
+             (2)  The terms and conditions of employment are to be determined by the Authority.
 
-                     (a)  the CEO and the staff assisting the CEO together constitute a Statutory Agency; and
-
-                     (b)  the CEO is the Head of that Statutory Agency.
+             (3)  A person must not be employed by the Authority on terms and conditions more favourable than those applying to the Managing Director.
 
 ##### <a id="69"></a>69  Consultants
 
-             (1)  The CEO may, on behalf of the Commonwealth, engage persons having suitable qualifications and experience as consultants to the Authority.
+             (1)  The Authority may engage persons having suitable qualifications and experience as consultants to the Authority.
 
-             (2)  The terms and conditions of engagement are to be determined by the CEO.
+             (2)  The terms and conditions of engagement are to be determined by the Authority.
+
+##### <a id="70"></a>70  Human resources development program
+
+             (1)  The Authority is to develop and implement a human resources development program (including an equal employment opportunity program) for the Authority.
+
+             (2)  The Authority must take whatever action is necessary to give effect to the human resources development program, and any person who exercises powers in relation to employment matters in the Authority must have regard to the program in exercising those powers.
+
+##### <a id="71"></a>71  Merit principle to apply
+
+                   Nothing in this Act requires anyone to do anything incompatible with the principle that employment matters should be dealt with on the basis of merit.
 
 ### Division 7—Corporate and annual operational plans
 
@@ -1240,7 +1362,7 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
                      (d)  include such performance indicators as the Authority considers appropriate against which the performance of the Authority can be assessed during the period of the plan; and
 
-                     (e)  be signed by the Chairperson and the CEO.
+                     (e)  include the human resources development program developed under section 70.
 
 ##### <a id="73"></a>73  Approval of corporate plan
 
@@ -1304,7 +1426,7 @@ the variation takes effect on the day on which the Authority receives notice of 
 
                      (c)  include such performance indicators as the Authority considers appropriate against which the performance of the Authority can be assessed during the period to which the plan relates; and
 
-                     (d)  be signed by the Chairperson and the CEO.
+                     (d)  propose action to implement the human resources development program developed under section 70.
 
 ##### <a id="78"></a>78  Approval of annual operational plan
 
@@ -1332,15 +1454,133 @@ whichever is the later.
 
              (2)  When submitting to the Minister proposals for variation of a corporate plan, the Authority must also submit to the Minister proposals for any consequential variations of a relevant annual operational plan.
 
-### Division 9—Miscellaneous
+### Division 8—Finance
 
-##### <a id="87"></a>87  Annual report
+##### <a id="80"></a>80  Payment of amounts of levy etc.
 
-             (1)  The Authority must, as soon as practicable after the end of each financial year, prepare and give to the Minister, for presentation to the Parliament, a report on its operations during that year.
+             (1)  If a levy amount is received by the Commonwealth after the commencement of this subsection, there is to be paid to the Authority an amount worked out using the formula:
 
-Note:          See also section 34C of the _Acts Interpretation Act 1901_, which contains extra rules about annual reports.
+**Levy amount** _less_**Deductible component.**
 
-             (2)  The Authority must include in the report:
+          (1A)  In subsection (1):
+
+                    <a name="levi-amount"></a>**_Levy amount_** means any of the following amounts:
+
+                     (a)  an amount received by the Commonwealth as levy imposed by the _Foreign Fishing Boats Levy Act 1981_;
+
+                     (b)  an amount received by the Commonwealth as levy imposed by the _Fisheries Levy Act 1984_;
+
+                     (c)  an amount received by the Commonwealth as levy imposed by the _Fishing Levy Act 1991_;
+
+                     (d)  an amount received by the Commonwealth as levy imposed by the _Foreign Fishing Licences Levy Act 1991_;
+
+                     (e)  an amount received by the Commonwealth as charge imposed by the _Statutory Fishing Rights Charge Act 1991_;
+
+                      (f)  an amount received by the Commonwealth as mentioned in the _Fisheries Agreements (Payments) Act 1991_;
+
+                     (g)  an amount received by the Commonwealth in repayment of a loan made under a fisheries adjustment program or a fisheries restructuring program;
+
+                     (h)  an amount received by the Commonwealth as a penalty under section 112 of the _Fisheries Management Act 1991_;
+
+                      (i)  an amount received by the Commonwealth as a fee under regulations made under paragraph 168(2)(e) of the _Fisheries Management Act 1991_;
+
+                      (j)  an amount received by the Commonwealth as a fee under regulations made for the purposes of subsection 9(8) of the _Fisheries Act 1952_;
+
+other than an amount that is declared by the regulations not to be a levy amount for the purposes of this section.
+
+                    <a name="ductibl-compon"></a>**_Deductible component_**, in relation to a levy amount, means:
+
+                     (a)  if, as a result of the receipt by the Commonwealth of the levy amount, an amount (the **_research component_**) is required to be paid under subparagraph 30A(1)(a)(i) or (ii) of the _Primary Industries and Energy Research and Development Act 1989_ to a R &amp; D Corporation (within the meaning of that Act) established in respect of the fishing industry—an amount equal to the research component; or
+
+                     (b)  if the levy amount is an amount referred to in paragraph (f) of the definition of **_Levy amount_**—an amount equal to so much (if any) of the levy amount as is determined by the Minister to be an amount paid to the Commonwealth for the right to engage in fishing in the Australian fishing zone; or
+
+                     (c)  if a part of the levy amount is prescribed for the purposes of this paragraph—an amount equal to the part so prescribed.
+
+             (2)  Amounts payable under subsection (1) are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
+
+##### <a id="81"></a>81  Money of the Authority
+
+                   Money of the Authority consists of:
+
+                     (a)  amounts payable to the Authority under section 80; and
+
+                     (b)  such money as is appropriated by the Parliament for the purposes of the Authority; and
+
+                     (c)  any other amounts payable to, or received by, the Authority under this Act or an associated law, including, to remove any doubt, any amounts payable to, or received by, the Authority for or in respect of publications issued by it.
+
+##### <a id="82"></a>82  Expenditure of money of the Authority
+
+                   Money of the Authority may only be expended:
+
+                     (a)  in payment or discharge of expenses and liabilities incurred by the Authority in the performance of its functions; and
+
+                     (b)  in payment of remuneration and allowances payable under this Act; and
+
+                     (c)  in payment or discharge of expenses or liabilities incurred in connection with the operations of a Selection Committee; and
+
+                     (d)  in making any other payments that the Authority is authorised or required to make by or under this Act or an associated law.
+
+##### <a id="83"></a>83  Borrowing of money
+
+             (1)  Subject to subsection (2), the Authority may borrow money for the performance of its functions.
+
+             (2)  Except with the written approval of the Finance Minister, the Authority must not borrow money so that the total amount borrowed at any time exceeds $500,000.
+
+             (3)  An approval may be given in relation to a particular transaction or a class of transactions.
+
+             (4)  A borrowing of money under an approval must be on such terms and conditions as are specified in, or are consistent with, the approval.
+
+             (5)  Money may be borrowed wholly or partly in foreign currency.
+
+##### <a id="84"></a>84  Guarantee of borrowings
+
+             (1)  The Finance Minister may, on behalf of the Commonwealth, enter into a contract guaranteeing the performance by the Authority of obligations incurred by it under section 83.
+
+             (2)  If the Finance Minister determines in writing that obligations incurred by the Authority under that section are guaranteed by the Commonwealth, the obligations are so guaranteed by force of this subsection.
+
+             (3)  A contract under subsection (1) may include:
+
+                     (a)  a provision agreeing that proceedings under the contract may be taken in courts of a foreign country; or
+
+                     (b)  a provision waiving the immunity of the Commonwealth from suit in courts of a foreign country.
+
+##### <a id="85"></a>85  Borrowing not otherwise permitted
+
+                   The Authority must not borrow money except under this Division.
+
+##### <a id="86"></a>86  Authority may give security
+
+                   The Authority may give security over the whole or part of its assets for:
+
+                     (a)  the performance by the Authority of any obligation incurred under section 83; or
+
+                     (b)  the payment to the Commonwealth of amounts equal to amounts paid by the Commonwealth under a guarantee under section 84.
+
+##### <a id="87"></a>87  Exemption from tax
+
+             (1)  The Authority is not liable to pay tax under any law of the Commonwealth or of a State or Territory.
+
+             (2)  Subsection (1) does not apply to:
+
+                     (a)  customs duties; or
+
+                     (b)  a law of the Commonwealth relating to sales tax; or
+
+                     (c)  a law of a State or Territory relating to payroll tax.
+
+             (3)  Despite subsection (1), the Authority is liable to pay fringe benefits tax in respect of fringe benefits provided by the Authority on or after the date of commencement of this subsection.
+
+             (4)  In subsection (3):
+
+                    <a name="fring-benefit"></a>**_fringe benefit_** means a fringe benefit as defined by subsection 136(1) of the _Fringe Benefits Tax Assessment Act 1986_.
+
+                    <a name="fring-benefit-tax"></a>**_fringe benefits tax_** means tax payable under the _Fringe Benefits Tax Assessment Act 1986_.
+
+                    <a name="provid"></a>**_provide_**, in relation to a fringe benefit, includes allow, confer, give, grant or perform the benefit.
+
+##### <a id="88"></a>88  Extra matters to be included in annual report
+
+             (2)  Each annual report on the Authority prepared by the directors under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include:
 
                      (a)  an assessment of the extent to which the operations of the Authority during the year to which the report relates have contributed:
 
@@ -1354,27 +1594,41 @@ Note:          See also section 34C of the _Acts Interpretat
 
                               (i)  variations (if any) of the corporate plan and the annual operational plan taking effect during that year; and
 
-                             (ii)  significant changes to plans of management and the introduction of new plans of management during that year; and
+                             (ii)  significant purchases and dispositions of real property by the Authority during that year; and
 
-                            (iii)  the effectiveness or otherwise of the operation of plans of management during that year; and
+                            (iii)  borrowings made by the Authority during that year; and
 
-                            (iv)  any directions given to the Authority by the Minister under section 91 during that year; and
+                            (iv)  significant changes to plans of management and the introduction of new plans of management during that year; and
+
+                             (v)  the effectiveness or otherwise of the operation of plans of management during that year; and
+
+                            (vi)  any directions given to the Authority by the Minister during that year; and
+
+                           (vii)  the action taken by the Authority to develop and implement its human resources development program; and
 
                      (c)  an evaluation of its overall performance against the performance indicators set out in the corporate plan applicable to the period and the annual operational plan that came into force at the beginning of that year.
 
+##### <a id="88A"></a>88A  Delegation by Finance Minister
+
+             (1)  The Finance Minister may, by written instrument, delegate any of the Finance Minister’s powers or functions under sections 83 and 84 to an official (within the meaning of the _Financial Management and Accountability Act 1997_).
+
+             (2)  In exercising powers or functions under a delegation, the official must comply with any directions of the Finance Minister.
+
+### Division 9—Miscellaneous
+
 ##### <a id="89"></a>89  Peak industry body to be given copy of report etc.
 
-             (1)  Where a report of the Authority’s operations during a year has been laid before each House of the Parliament, the Chairperson of the Commission is to:
+             (1)  Where a report of the Authority’s operations during a year has been laid before each House of the Parliament, the Chairperson of the Authority is to:
 
                      (a)  give to the peak industry body a copy of the report; and
 
                      (b)  request a meeting with the governing body of the peak industry body.
 
-             (2)  The purpose of meeting with that governing body is to enable the Chairperson and the CEO:
+             (2)  The purpose of meeting with that governing body is to enable the Chairperson:
 
-                     (a)  to address the members of the governing body on the Authority’s activities during the period covered by the report and on any other matters relating to fisheries management that the Chairperson and the CEO regard as relevant; and
+                     (a)  to address the members of the governing body on the Authority’s activities during the period covered by the report and on any other matters relating to fisheries management that the Chairperson regards as relevant; and
 
-                     (b)  to give any additional information to those members in relation to the Authority’s activities as the Chairperson and the CEO believe to be appropriate.
+                     (b)  to give any additional information to those members in relation to the Authority’s activities as the Chairperson believes to be appropriate.
 
 ##### <a id="90"></a>90  Public meetings
 
@@ -1394,7 +1648,7 @@ Note:          See also section 34C of the _Acts Interpretat
 
                      (b)  the Minister has given to the Authority a written notice stating that the Minister is considering giving the direction; and
 
-                     (c)  the Minister has given to the Chairperson of the Commission or the CEO, as the case requires, an adequate opportunity to discuss with the Minister the need for the proposed direction.
+                     (c)  the Minister has given to the Chairperson of the Authority an adequate opportunity to discuss with the Minister the need for the proposed direction.
 
              (3)  Subject to subsection (4), where the Minister gives a direction to the Authority:
 
@@ -1420,137 +1674,33 @@ Note:          See also section 34C of the _Acts Interpretat
 
 references in this section to the Minister are taken, in relation to the fishery or the part of the fishery, to be references to the Joint Authority.
 
-##### <a id="92"></a>92  Delegation of functions and powers for which Commission is responsible
+##### <a id="92"></a>92  Delegation by the Authority
 
-Delegation to the CEO
+             (1)  The Authority may, by writing under its common seal, delegate to:
 
-             (1)  The Commission may, by writing under the seal of the Authority, delegate to the CEO any of the domestic fisheries management functions or powers of the Authority.
-
-             (2)  The CEO, in performing a function or exercising a power delegated under subsection (1), is subject to the directions of the Commission.
-
-Sub-delegation by the CEO
-
-             (3)  The CEO may, by signed writing, delegate to:
-
-                     (a)  an AFMA staff member; or
+                     (a)  a director of the Authority; or
 
                      (b)  a committee established by the Authority under section 54; or
 
-                     (c)  a person engaged as a consultant to the Authority; or
+                     (c)  a person employed by the Authority; or
 
-                     (d)  a person engaged under contract to assist the Authority; or
+                     (d)  a person engaged by the Authority under a contract;
 
-                     (e)  an officer within the meaning of the _Fisheries Management Act 1991_ or the _Torres Strait__Fisheries Act 1984_;
+any of the Authority’s powers and functions, except the Authority’s powers under section 47 or 50.
 
-any of the functions or powers of the Authority that have been delegated to the CEO by the Commission.
+             (2)  A delegate of the Authority is, in the exercise of the delegate’s delegated powers, subject to the directions of the Authority.
 
-             (4)  Subject to subsection (5) of this section, sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply to a delegation under subsection (3) of this section in a corresponding way to the way in which they apply to a delegation under subsection (1) of this section.
+##### <a id="93"></a>93  Delegation by the Managing Director
 
-             (5)  A function or power that is performed or exercised by a person under a delegation under subsection (3) is taken, for the purposes of this Act, to have been exercised or performed by the Authority.
+                   The Managing Director may, by signed instrument, delegate to a person employed by the Authority any of the powers and functions of the Managing Director under this Act.
 
-             (6)  A delegate of the CEO, in performing a function or exercising a power delegated under subsection (3), is subject to the directions of the CEO.
+##### <a id="93A"></a>93A  Delegations under the _Torres Strait__Fisheries Act 1984_
 
-##### <a id="93"></a>93  Delegation of functions and powers for which CEO is responsible
+                   The Managing Director may arrange for a person employed by the Authority to exercise powers and perform functions under a delegation under the _Torres Strait__Fisheries Act 1984_.
 
-             (1)  The CEO may, by signed writing, delegate to:
+##### <a id="94"></a>94  Limit—fees and charges
 
-                     (a)  an AFMA staff member; or
-
-                     (b)  a committee established by the Authority under section 54; or
-
-                     (c)  a person engaged as a consultant to the Authority; or
-
-                     (d)  a person engaged under contract to assist the Authority; or
-
-                     (e)  an officer within the meaning of the _Fisheries Management Act 1991_ or the _Torres Strait__Fisheries Act 1984_;
-
-any of the functions or powers of the Authority for which the CEO is responsible.
-
-             (2)  A delegate of the CEO, in performing a function or exercising a power delegated under subsection (1), is subject to the directions of the CEO.
-
-##### <a id="94"></a>94  Fees
-
-             (1)  The Authority may charge such fees as are reasonable in respect of work done, services provided or information given by the Authority.
-
-             (2)  A fee:
-
-                     (a)  must not be such as to amount to taxation; and
-
-                     (b)  is payable to the Commonwealth.
-
-##### <a id="94A"></a>94A  Exemption from tax
-
-                   The Authority is not liable to pay tax under any law of the Commonwealth or of a State or Territory.
-
-##### <a id="94B"></a>94B  The AFMA Special Account
-
-             (1)  The AFMA Special Account is established by this section.
-
-             (2)  The Account is a Special Account for the purposes of the _Financial Management and Accountability Act 1997_.
-
-##### <a id="94C"></a>94C  Credits to the AFMA Special Account
-
-                   There must be credited to the AFMA Special Account the following:
-
-                     (a)  adjusted levy amounts within the meaning of subsection 94E(1);
-
-                     (b)  amounts of any fee paid to the Commonwealth in respect of work done, services provided or information given by the Authority (see section 94);
-
-                     (c)  amounts equal to money received by the Commonwealth in relation to property paid for with money from the Account;
-
-                     (d)  amounts equal to amounts of any gifts given or bequests made for the purposes of the Account.
-
-Note:          An Appropriation Act may contain a provision to the effect that, if any of the purposes of a Special Account is a purpose that is covered by an item in the Appropriation Act (whether or not the item expressly refers to the Special Account), then amounts may be debited against the appropriation for that item and credited to that Special Account.
-
-##### <a id="94D"></a>94D  Purposes of the AFMA Special Account
-
-             (1)  This section sets out the purposes of the AFMA Special Account.
-
-             (2)  Amounts standing to the credit of the Account may be debited for the following purposes:
-
-                     (a)  in payment or discharge of the costs, expenses or other obligations incurred in the performance or exercise of the functions or powers of the Authority;
-
-                     (b)  in payment of any remuneration and allowances payable to any person under this Act;
-
-                     (c)  meeting the expenses of administering the Account.
-
-##### <a id="94E"></a>94E  Adjusted levy amounts
-
-             (1)  The **_adjusted levy amounts_** to be credited to the AFMA Special Account under paragraph 94C(a) are the amounts worked out using the formula:
-
-![](http://www.comlaw.gov.au/Details/C2008C00286/Html/FishAdmin1991_WD02_image002.gif)
-
-                   where:
-
-                    <a name="ductibl-compon"></a>**_deductible component_**, in relation to a levy amount, means:
-
-                     (a)  if, as a result of the receipt by the Commonwealth of the levy amount, an amount (the **_research component_**) is required to be paid under subparagraph 30A(1)(a)(i) or (ii) of the _Primary Industries and Energy Research and Development Act 1989_ to an R &amp; D Corporation (within the meaning of that Act) established in respect of the fishing industry—an amount equal to the research component; or
-
-                     (b)  if the levy amount is an amount referred to in paragraph (e) of the definition of **_levy amount_**—an amount equal to so much (if any) of the levy amount as is determined by the Minister to be an amount paid to the Commonwealth for the right to engage in fishing in the AFZ; or
-
-                     (c)  if a part of the levy amount is prescribed for the purposes of this paragraph—an amount equal to the part so prescribed.
-
-                    <a name="levi-amount"></a>**_levy amount_** means all of the following amounts received by the Commonwealth after the commencement of this section:
-
-                     (a)  an amount received by the Commonwealth as levy imposed by the _Fisheries Levy Act 1984_;
-
-                     (b)  an amount received by the Commonwealth as levy imposed by the _Fishing Levy Act 1991_;
-
-                     (c)  an amount received by the Commonwealth as levy imposed by the _Foreign Fishing Licences Levy Act 1991_;
-
-                     (d)  an amount received by the Commonwealth as charge imposed by the _Statutory Fishing Rights Charge Act 1991_;
-
-                     (e)  an amount received by the Commonwealth as mentioned in the _Fisheries Agreements (Payments) Act 1991_;
-
-                      (f)  an amount received by the Commonwealth in repayment of a loan made under a fisheries adjustment program or a fisheries restructuring program;
-
-                     (g)  an amount received by the Commonwealth as a penalty under section 112 of the _Fisheries Management Act 1991_;
-
-                     (h)  an amount received by the Commonwealth as a fee under regulations made under paragraph 168(2)(e) of the _Fisheries Management Act 1991_;
-
-other than an amount that is declared by the regulations not to be a levy amount for the purposes of this section.
-
-             (2)  A determination made under paragraph (b) of the definition of **_deductible component_**in subsection (1) is not a legislative instrument.
+                   The amount or rate of a charge or fee imposed or charged under this Act must not be such as to amount to taxation.
 
 ## Part 3—The Fishing Industry Policy Council
 
@@ -1670,7 +1820,7 @@ other than an amount that is declared by the regulations not to be a levy amount
 
                      (a)  the Chairperson;
 
-                     (b)  the Chairperson of the Commission;
+                     (b)  the Chairperson of the Authority;
 
                      (c)  the Chairperson of the Fisheries Research and Development Corporation;
 
@@ -1694,7 +1844,7 @@ other than an amount that is declared by the regulations not to be a levy amount
 
              (4)  The following persons are not eligible for appointment to the Council:
 
-                     (a)  commissioners of the Commission other than the Chairperson of the Commission;
+                     (a)  directors of the Authority other than the Chairperson of the Authority;
 
                      (b)  persons (other than a person referred to in paragraph (1)(b) or (c)) who, if appointed, would hold office for more than 3 consecutive terms.
 
@@ -1862,7 +2012,7 @@ the member must, as soon as practicable after the relevant facts have come to th
 
              (3)  Subsections (1), (2), (4) and (5) have effect subject to the _Remuneration Tribunal Act 1973_.
 
-             (4)  A member (other than the Chairperson of the Council or the Chairperson of the Commission) is to be paid such travelling allowance as is prescribed in relation to the performance of his or her duties as a member.
+             (4)  A member (other than the Chairperson of the Council or the Chairperson of the Authority) is to be paid such travelling allowance as is prescribed in relation to the performance of his or her duties as a member.
 
              (5)  A member of a working group (including the Chairperson of the working group) is to be paid such travelling allowance as is prescribed in relation to the performance of his or her duties as a member of the working group.
 
@@ -1901,8 +2051,6 @@ the member must, as soon as practicable after the relevant facts have come to th
 ### Note 1
 
 The _Fisheries Administration Act 1991_ as shown in this compilation comprises Act No. 161, 1991 amended as indicated in the Tables below.
-
-For application, saving or transitional provisions made by the _Fisheries Legislation Amendment (New Governance Arrangements for the Australian Fisheries Management Authority and Other Matters) Act 2008_, _see_ Act No. 36, 2008.
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -2180,24 +2328,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fisheries Legislation Amendment (New Governance Arrangements for the Australian Fisheries Management Authority and Other Matters) Act 2008</div>
-  </td>
-  <td>
-    <div>36, 2008</div>
-  </td>
-  <td>
-    <div>24 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–82, 135–156): 1 July 2008</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
-135–156) \[ <i>see</i>Note 1]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Fisheries Administration Act 1991_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
@@ -2246,7 +2376,7 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 129, 1994; No. 120, 1997; No. 29, 2004; No. 8, 2005; No. 8, 2006; No. 36, 2008</div>
+    <div>am. No. 129, 1994; No. 120, 1997; No. 29, 2004; No. 8, 2005; No. 8, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2291,7 +2421,7 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>Note to s. 7(1)</div>
+    <div>Note to s. 7</div>
   </td>
   <td>
     <div>ad. No. 152, 1997</div>
@@ -2299,26 +2429,10 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
     <div></div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8, 9</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2331,138 +2445,10 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10A–10C</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 3 of Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part 2</div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 12</div>
   </td>
   <td>
     <div>am. No. 120, 1997; No. 104, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 14, 15</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 18(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2475,82 +2461,18 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 156, 1999; No. 36, 2008</div>
+    <div>am. No. 152, 1997; No. 156, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4 of Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 23(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 26, 27</div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2563,34 +2485,10 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
     <div></div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 30–42</div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part 2</div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 43–46</div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2603,42 +2501,10 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 48, 49</div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 50</div>
   </td>
   <td>
     <div>am. No. 102, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 51–53</div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2651,26 +2517,10 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 58</div>
   </td>
   <td>
     <div>am. No. 120, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2683,14 +2533,6 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 64A</div>
   </td>
   <td>
@@ -2699,106 +2541,18 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 64B–64D</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65A</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 67</div>
   </td>
   <td>
-    <div>am. No. 120, 1997; No. 28, 2004; No. 36, 2008</div>
+    <div>am. No. 120, 1997; No. 28, 2004</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 6</b></div>
+    <div><b>Division 8</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 6 of Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 70, 71</div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 8 of Part 2</div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2811,34 +2565,10 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 81</div>
   </td>
   <td>
     <div>am. No. 129, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2851,42 +2581,10 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 85, 86</div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 87</div>
   </td>
   <td>
     <div>am. No. 50, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2899,26 +2597,10 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 88</div>
   </td>
   <td>
     <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2939,18 +2621,10 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
+    <div><b>Division 9</b></div>
+  </td>
+  <td>
     <div></div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 89</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2963,14 +2637,6 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 92</div>
   </td>
   <td>
@@ -2979,90 +2645,10 @@ _(b)_    The _Fisheries Administration Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 93A</div>
   </td>
   <td>
     <div>ad. No. 104, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 94</div>
-  </td>
-  <td>
-    <div>rs. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 94A–94E</div>
-  </td>
-  <td>
-    <div>ad. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 102</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 111</div>
-  </td>
-  <td>
-    <div>am. No. 36, 2008</div>
   </td>
 </tr></table>
 
