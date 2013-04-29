@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00736/Html/424b1fcf-3723-4792-b0a7-c039e94db58a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00827/Html/CustomsAdmin1985_WD02_image001.gif)
 
 # Customs Administration Act 1985
 
 **Act No. 38 of 1985 as amended**
 
-This compilation was prepared on 12 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 145 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -78,7 +78,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="appoint"></a>**_appoint_** includes re‑appoint.
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
 
                     <a name="ceo"></a>**_CEO_** means the Chief Executive Officer of Customs.
 
@@ -92,7 +92,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  if the CEO has the general administration of an Act, or of a particular provision or provisions of an Act, only in so far as that Act, or that provision or those provisions, relates or relate to a particular matter or matters—that Act, or that provision or those provisions, in so far as that Act, or that provision or those provisions, relates or relate to that matter or those matters; or
 
-                     (e)  any instrument (including rules, regulations, by‑laws or determinations) under this Act, under an Act to which paragraph (b) applies, under a provision to which paragraph (c) applies or under an Act or provision referred to in paragraph (d) in so far as it relates to a matter so referred to.
+                     (e)  any instrument (including rules, regulations, by-laws or determinations) under this Act, under an Act to which paragraph (b) applies, under a provision to which paragraph (c) applies or under an Act or provision referred to in paragraph (d) in so far as it relates to a matter so referred to.
 
 ##### <a id="3A"></a>3A  Application of the _Criminal Code_
 
@@ -126,13 +126,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="5"></a>5  Appointment of CEO
 
-                   The CEO shall be appointed by the Governor‑General.
+                   The CEO shall be appointed by the Governor-General.
 
 ##### <a id="6"></a>6  Tenure of office
 
-             (1)  Subject to this Act, the CEO is to be appointed for a specified period of not more than 5 years but is eligible for re‑appointment.
+             (1)  Subject to this Act, the CEO is to be appointed for a specified period of not more than 5 years but is eligible for re-appointment.
 
-             (3)  The CEO holds office on such terms and conditions not provided for by this Act or any other Act as the Governor‑General determines.
+             (3)  The CEO holds office on such terms and conditions not provided for by this Act or any other Act as the Governor-General determines.
 
 ##### <a id="7"></a>7  Employment outside official duties
 
@@ -154,7 +154,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="10"></a>10  Resignation
 
-                   The CEO may resign from office by writing signed by the CEO and delivered to the Governor‑General.
+                   The CEO may resign from office by writing signed by the CEO and delivered to the Governor-General.
 
 ##### <a id="11"></a>11  Disclosure of financial interests
 
@@ -162,13 +162,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="12"></a>12  Suspension and removal from office of CEO
 
-             (1)  The Governor‑General may remove the CEO from office on an address praying for the removal of the CEO on the ground of proved misbehaviour or physical or mental incapacity being presented to the Governor‑General by each House of the Parliament in the same session of the Parliament.
+             (1)  The Governor-General may remove the CEO from office on an address praying for the removal of the CEO on the ground of proved misbehaviour or physical or mental incapacity being presented to the Governor-General by each House of the Parliament in the same session of the Parliament.
 
-             (2)  The Governor‑General may suspend the CEO from office on the ground of misbehaviour or physical or mental incapacity.
+             (2)  The Governor-General may suspend the CEO from office on the ground of misbehaviour or physical or mental incapacity.
 
-             (3)  Where the Governor‑General suspends the CEO, the Minister shall cause a statement of the grounds of the suspension to be laid before each House of the Parliament within 7 sitting days of that House after the suspension.
+             (3)  Where the Governor-General suspends the CEO, the Minister shall cause a statement of the grounds of the suspension to be laid before each House of the Parliament within 7 sitting days of that House after the suspension.
 
-             (4)  If, at the expiration of 15 sitting days of a House of the Parliament after the day on which the statement was laid before that House, an address under subsection (1) has not been presented to the Governor‑General by each House of the Parliament, the suspension terminates.
+             (4)  If, at the expiration of 15 sitting days of a House of the Parliament after the day on which the statement was laid before that House, an address under subsection (1) has not been presented to the Governor-General by each House of the Parliament, the suspension terminates.
 
              (5)  The suspension of the CEO from office under this section does not affect any entitlement of the CEO to be paid remuneration and allowances.
 
@@ -184,15 +184,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (d)  the CEO is absent from duty, except on leave of absence, for 14 consecutive days or 28 days in any 12 months;
 
-the Governor‑General shall remove the CEO from office.
+the Governor-General shall remove the CEO from office.
 
-             (7)  The Governor‑General may, with the consent of the CEO, retire the CEO from office on the ground of physical or mental incapacity.
+             (7)  The Governor-General may, with the consent of the CEO, retire the CEO from office on the ground of physical or mental incapacity.
 
              (8)  The CEO shall not be suspended, removed or retired from office except as provided by this section.
 
 ##### <a id="13"></a>13  Acting CEO
 
-             (1)  The Governor‑General may appoint a person to act in the office of CEO:
+             (1)  The Governor-General may appoint a person to act in the office of CEO:
 
                      (a)  during a vacancy in that office; or
 
@@ -202,17 +202,17 @@ the Governor‑General shall remove the CEO from office.
 
              (3)  A person appointed under subsection (1) to act during a vacancy shall not continue so to act for more than 12 months.
 
-             (4)  Where a person is acting in the office of CEO in accordance with paragraph (1)(b) and the office becomes vacant while the person is so acting, then, subject to subsection (2), the person may continue so to act until the Governor‑General otherwise directs, the vacancy is filled or a period of 12 months from the day on which the vacancy occurs expires, whichever first happens.
+             (4)  Where a person is acting in the office of CEO in accordance with paragraph (1)(b) and the office becomes vacant while the person is so acting, then, subject to subsection (2), the person may continue so to act until the Governor-General otherwise directs, the vacancy is filled or a period of 12 months from the day on which the vacancy occurs expires, whichever first happens.
 
              (5)  While a person is acting in the office of CEO, the person has and may exercise all the powers, and shall perform all the functions, of the CEO under this Act or any other law.
 
-             (6)  The Governor‑General may:
+             (6)  The Governor-General may:
 
                      (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting in the office of CEO; and
 
                      (b)  terminate such an appointment at any time.
 
-             (7)  A person appointed under subsection (1) may resign the appointment by writing signed by the person and delivered to the Governor‑General.
+             (7)  A person appointed under subsection (1) may resign the appointment by writing signed by the person and delivered to the Governor-General.
 
              (8)  The validity of anything done by or in relation to a person purporting to act in the office of CEO shall not be called in question on the ground that the occasion for the appointment had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
@@ -400,7 +400,7 @@ the CEO may in writing:
 
 Specified purpose in an authorisation by the CEO
 
-          (3E)  The CEO may only specify a purpose for the disclosure of information or a class of information in an authorisation under subsection (3A), (3B), (3C) or (3D) that:
+           (3E)  The CEO may only specify a purpose for the disclosure of information or a class of information in an authorisation under subsection (3A), (3B), (3C) or (3D) that:
 
                      (a)  in the case of subsection (3A)—is related to the performance of the functions of the Commonwealth agency concerned; and
 
@@ -488,9 +488,9 @@ Permissible purposes
 
                       (i)  a purpose relating to immigration, quarantine or border control between Australia and another country;
 
-                    (ia)  a purpose relating to the performance of functions under section 17 of the _Australian Security Intelligence Organisation Act 1979_;
+                     (ia)  a purpose relating to the performance of functions under section 17 of the _Australian Security Intelligence Organisation Act 1979_;
 
-                    (ib)  a purpose relating to the performance of functions under section 6 of the _Intelligence Services Act 2001_;
+                     (ib)  a purpose relating to the performance of functions under section 6 of the _Intelligence Services Act 2001_;
 
                       (j)  the administration or enforcement of laws with respect to commerce:
 
@@ -560,7 +560,7 @@ means the member, or any of the members, constituting the body.
 
 ##### <a id="18"></a>18  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -579,11 +579,11 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
   <col width="1%">
   <col width="22%">
-  <col width="14%">
+  <col width="13%">
   <col width="0%">
 </colgroup>
 
@@ -877,7 +877,7 @@ Remainder: Royal Assent</div>
     <div>S. 4(1), (2) and Schedule 22: <i>(e)</i></div>
   </td>
   <td>
-    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
+    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div></div>
@@ -974,7 +974,7 @@ Remainder: Royal Assent</div>
     <div>29 Oct 2001</div>
   </td>
   <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div></div>
@@ -1014,7 +1014,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (items 39, 40, 226): 1 Jan 2003</div>
   </td>
   <td>
-    <div>Sch. 2 (item 226) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 226) \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div></div>
@@ -1022,7 +1022,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Terrorism Act (No. 2) 2005</div>
+    <div>Anti-Terrorism Act (No. 2) 2005</div>
   </td>
   <td>
     <div>144, 2005</div>
@@ -1100,26 +1100,6 @@ Remainder: Royal Assent</div>
     <div></div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 479–482) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1134,7 +1114,7 @@ _(a)_     The _Customs Administration Act 1985_ was amended by the _Cust
 
                  (1)   Subject to subsections (2), (3), (4), (5) and (6), this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Customs Administration Act 1985_ was amended by Schedule 2 (item 47) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
+_(b)_    The _Customs Administration Act 1985_ was amended by Schedule 2 (item 47) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows:
 
                  (2)   Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
 
@@ -1465,7 +1445,7 @@ _(ga)_ The _Customs Legislation Amendment and Repeal (International Trade Modern
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s.16(4)–(6) .</div>
+    <div>Subheads. to s.16(4)–(6)</div>
   </td>
   <td>
     <div>ad. No. 137, 1999</div>
@@ -1544,34 +1524,6 @@ _(ga)_ The _Customs Legislation Amendment and Repeal (International Trade Modern
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 479  Subsection 13(1)
-
-Omit “(1)”.
-
-## 480  At the end of subsection 13(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 481  Subsections 13(2) to (8)
-
-Repeal the subsections.
-
-## 482  Subsection 14(4)
-
-Omit “Paragraph 34AB(c)”, substitute “Paragraph 34AB(1)(c)”.
-
-As at 12 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1600,24 +1552,8 @@ _Australian Crime Commission Establishment Act 2002 (No. 125, 2002)_
 
 ## 226  Transitional regulations
 
-(1)       The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the amendments made by this Schedule.
+(1)        The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the amendments made by this Schedule.
 
-(2)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations made under this item within 1 year after commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(2)        Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations made under this item within 1 year after commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
  
