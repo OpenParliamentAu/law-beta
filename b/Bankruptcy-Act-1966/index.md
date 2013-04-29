@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00266/Html/7e373821-0a49-4603-a107-0780844d0310_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00789/Html/Bankruptcy1966_WD02_image001.gif)
 
 # Bankruptcy Act 1966
 
 **Act No. 33 of 1966 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 December 2010
+ taking into account amendments up to Act No. 106 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -74,15 +74,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Delegation by Minister or Secretary
 
-[11](#11).          Inspector‑General in Bankruptcy
+[11](#11).          Inspector-General in Bankruptcy
 
-[12](#12).          Functions of Inspector‑General
+[12](#12).          Functions of Inspector-General
 
 [15](#15).          Official Receivers
 
-[16](#16).          Appointment of Inspector‑General and Official Receivers
+[16](#16).          Appointment of Inspector-General and Official Receivers
 
-[17](#17).          Acting Inspector‑General and Acting Official Receivers
+[17](#17).          Acting Inspector-General and Acting Official Receivers
 
 [17B](#17B).       Arrangements for services of State and Northern Territory Magistrates
 
@@ -96,7 +96,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19AA](#19AA).    Power of investigation of bankrupt’s affairs
 
-[19A](#19A).       Liability of Inspector‑General, Official Receivers etc 
+[19A](#19A).       Liability of Inspector-General, Official Receivers etc 
 
     **Division 2—Common Investment Fund**
 
@@ -172,8 +172,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [49](#49).          Change of petitioners [_see_ Table B]
 
-[50](#50).          Taking control of debtor’s property before sequestration 
- [_see_ Table B]
+[50](#50).          Taking control of debtor’s property before sequestration [_see_ Table B]
 
 [51](#51).          Costs of prosecuting creditor’s petition
 
@@ -221,7 +220,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [56E](#56E).        Effects of acceptance of a debtor’s petition against a partnership
 
-[56F](#56F).        Extra duties of non‑petitioning partners who become bankrupts
+[56F](#56F).        Extra duties of non-petitioning partners who become bankrupts
 
 [56G](#56G).       Inspection of statements of affairs of partners and partnerships
 
@@ -261,8 +260,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [64A](#64A).       Persons to whom notice of meeting to be given [_see_ Table B]
 
-[64B](#64B).       Certain matters to be included in notice of meeting 
- [_see_ Table B]
+[64B](#64B).       Certain matters to be included in notice of meeting [_see_ Table B]
 
 [64C](#64C).       If telephone conference facilities are available
 
@@ -298,7 +296,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [64S](#64S).        Statements and questions [_see_ Table B]
 
-[64T](#64T).        Motions [_see_ Table B]
+[64T](#64T).       Motions [_see_ Table B]
 
 [64U](#64U).       Remuneration of registered trustee [_see_ Table B]
 
@@ -312,9 +310,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [64Y](#64Y).       Adjournment of meeting [_see_ Table B]
 
-[64Z](#64Z).        Duties of minutes secretary [_see_ Table B]
+[64Z](#64Z).       Duties of minutes secretary [_see_ Table B]
 
-[64ZA](#64ZA).     Entitlement to vote
+[64ZA](#64ZA).    Entitlement to vote
 
 [64ZB](#64ZB).     Manner of voting [_see_ Table B]
 
@@ -322,7 +320,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [64ZC](#64ZC).     Appointment of proxies [_see_ Table B]
 
-[64ZD](#64ZD).     Provisions relating to motions and amendments of motions
+[64ZD](#64ZD).    Provisions relating to motions and amendments of motions
 
 [64ZE](#64ZE).     Joint bankruptcies [_see_ Table B]
 
@@ -380,7 +378,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [78](#78).          Arrest of debtor or bankrupt
 
-[80](#80).          Notification of change in name, address or day‑time telephone number
+[80](#80).          Notification of change in name, address or day-time telephone number
 
 [81](#81).          Discovery of bankrupt’s property etc  [_see_ Table B]
 
@@ -400,7 +398,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 3—Failure to comply with certain notices**
 
-[81G](#81G).       Effect of non‑compliance with notice
+[81G](#81G).       Effect of non-compliance with notice
 
 **Part VI—Administration of property** 
 
@@ -414,7 +412,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [85](#85).          Proof by employees
 
-[86](#86).          Mutual credit and set‑off
+[86](#86).          Mutual credit and set-off
 
 [87](#87).          Deduction of discounts [_see_ Table B]
 
@@ -448,8 +446,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [103](#103).        Debts to be rounded down to nearest dollar
 
-[104](#104).        Appeal against decision of trustee in respect of proof 
- [_see_ Table B]
+[104](#104).        Appeal against decision of trustee in respect of proof [_see_ Table B]
 
 [105](#105).        Costs of appeal
 
@@ -489,15 +486,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [116](#116).        Property divisible among creditors [_see_ Table B]
 
-[117](#117).        Policies of insurance against liabilities to third parties 
- [_see_ Table B]
+[117](#117).        Policies of insurance against liabilities to third parties [_see_ Table B]
 
 [118](#118).        Execution by creditor against property of debtor who becomes a bankrupt etc  [_see_ Table B]
 
 [119](#119).        Duties of sheriff after receiving notice of presentation of petition etc  [_see_ Table B]
 
-[119A](#119A).     Duties of sheriff after receiving notice of bankruptcy etc  
- [_see_ Table B]
+[119A](#119A).     Duties of sheriff after receiving notice of bankruptcy etc  [_see_ Table B]
 
 [120](#120).        Undervalued transactions
 
@@ -513,10 +508,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [125](#125).        Certain accounts of undischarged bankrupt [_see_ Table B]
 
-[126](#126).        Dealings with undischarged bankrupt in respect of after‑acquired property [_see_ Table B]
+[126](#126).        Dealings with undischarged bankrupt in respect of after-acquired property [_see_ Table B]
 
-[127](#127).        Limitation of time for making claims by trustee etc  
- [_see_ Table B]
+[127](#127).        Limitation of time for making claims by trustee etc  [_see_ Table B]
 
 [128](#128).        Notice to trustee where identity of vendor etc  with bankrupt in doubt
 
@@ -530,17 +524,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [128D](#128D).     Time for making claims by trustee
 
-[128E](#128E).      Superannuation account‑freezing notice
+[128E](#128E).      Superannuation account-freezing notice
 
-[128F](#128F).      Revocation of superannuation account‑freezing notice
+[128F](#128F).      Revocation of superannuation account-freezing notice
 
-[128G](#128G).     Copy of superannuation account‑freezing notice to be given to trustee etc 
+[128G](#128G).     Copy of superannuation account-freezing notice to be given to trustee etc 
 
 [128H](#128H).     Consent of Official Receiver to the cashing etc  of a superannuation interest
 
-[128J](#128J).      Power of Court to set aside superannuation account‑freezing notice
+[128J](#128J).      Power of Court to set aside superannuation account-freezing notice
 
-[128K](#128K).     Judicial enforcement of superannuation account‑freezing notices
+[128K](#128K).     Judicial enforcement of superannuation account-freezing notices
 
 [128L](#128L).      Protection of trustee of eligible superannuation plan
 
@@ -624,8 +618,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [139S](#139S).      Contribution payable by bankrupt
 
-[139T](#139T).      Determination of higher income threshold in cases of 
- hardship
+[139T](#139T).     Determination of higher income threshold in cases of hardship
 
         **Subdivision E—Provision of information to trustee**
 
@@ -643,25 +636,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [139Y](#139Y).     Trustee may regard bankrupt as receiving reasonable remuneration
 
-[139Z](#139Z).      If bankrupt claims not to be in receipt of income
+[139Z](#139Z).     If bankrupt claims not to be in receipt of income
 
         **Subdivision G—Review of assessment**
 
-[139ZA](#139ZA).   Internal review of assessment
+[139ZA](#139ZA).  Internal review of assessment
 
-[139ZC](#139ZC).   Inspector‑General may request further information
+[139ZC](#139ZC).   Inspector-General may request further information
 
-[139ZD](#139ZD).   Decision on review
+[139ZD](#139ZD).  Decision on review
 
-[139ZE](#139ZE).   Inspector‑General to notify bankrupt and trustee of decision
+[139ZE](#139ZE).   Inspector-General to notify bankrupt and trustee of decision
 
 [139ZF](#139ZF).   Review of assessment decisions
 
         **Subdivision H—When contribution payable**
 
-[139ZG](#139ZG).   Payment of contribution
+[139ZG](#139ZG).  Payment of contribution
 
-[139ZH](#139ZH).   If excess contribution paid
+[139ZH](#139ZH).  If excess contribution paid
 
 [139ZI](#139ZI).    Notice of determinations
 
@@ -669,17 +662,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [139ZIA](#139ZIA). Objects
 
-[139ZIB](#139ZIB).  Definitions
+[139ZIB](#139ZIB). Definitions
 
-[139ZIC](#139ZIC).  Trustee may determine that the supervised account regime applies to the bankrupt
+[139ZIC](#139ZIC). Trustee may determine that the supervised account regime applies to the bankrupt
 
 [139ZID](#139ZID). Revocation of determination
 
-139ZIDA  When determination ceases to be in force
+139ZIDAWhen determination ceases to be in force
 
 [139ZIE](#139ZIE).  Bankrupt must open and maintain supervised account
 
-139ZIEA  New supervised account
+139ZIEANew supervised account
 
 [139ZIF](#139ZIF).  Bankrupt’s monetary income to be deposited to supervised account
 
@@ -687,51 +680,51 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [139ZIH](#139ZIH). Constructive income receipt arrangements
 
-139ZIHA  Non‑monetary income receipt arrangements
+139ZIHANon-monetary income receipt arrangements
 
 [139ZII](#139ZII).   Cash income
 
 139ZIIA Keeping of books
 
-[139ZIJ](#139ZIJ).   Injunctions
+[139ZIJ](#139ZIJ).  Injunctions
 
-[139ZIK](#139ZIK).  Interim injunctions
+[139ZIK](#139ZIK). Interim injunctions
 
 [139ZIL](#139ZIL).  Discharge etc  of injunctions
 
-[139ZIM](#139ZIM). Certain limits on granting injunctions not to apply
+139ZIM Certain limits on granting injunctions not to apply
 
 [139ZIN](#139ZIN). Other powers of the Court unaffected
 
-[139ZIO](#139ZIO). Inspector‑General may review trustee’s decision
+[139ZIO](#139ZIO). Inspector-General may review trustee’s decision
 
-[139ZIP](#139ZIP).  Inspector‑General may request further information
+[139ZIP](#139ZIP).  Inspector-General may request further information
 
-[139ZIR](#139ZIR).  Inspector‑General’s decision on review
+[139ZIR](#139ZIR). Inspector-General’s decision on review
 
-[139ZIS](#139ZIS).  Inspector‑General to notify bankrupt and trustee of decision
+[139ZIS](#139ZIS).  Inspector-General to notify bankrupt and trustee of decision
 
-[139ZIT](#139ZIT).  AAT review of decisions
+[139ZIT](#139ZIT). AAT review of decisions
 
         **Subdivision I—Collection of money or property by Official Receiver from person other than the bankrupt**
 
 [139ZJ](#139ZJ).    Definition [_see_ Table B]
 
-[139ZK](#139ZK).   Persons to whom Subdivision applies [_see_ Table B]
+[139ZK](#139ZK).  Persons to whom Subdivision applies [_see_ Table B]
 
 [139ZL](#139ZL).   Official Receiver may require persons to make payments [_see_ Table B]
 
-[139ZM](#139ZM).  Power of Court to set aside notice
+[139ZM](#139ZM). Power of Court to set aside notice
 
-[139ZN](#139ZN).   Charge over property
+[139ZN](#139ZN).  Charge over property
 
-[139ZO](#139ZO).   Failure to comply with notice
+[139ZO](#139ZO).  Failure to comply with notice
 
 [139ZP](#139ZP).   Employer not to dismiss or injure bankrupt because of giving of notice
 
         **Subdivision J—Collection of money or property by Official Receiver from party to transaction that is void against the trustee**
 
-[139ZQ](#139ZQ).   Official Receiver may require payment [_see_ Table B]
+[139ZQ](#139ZQ).  Official Receiver may require payment [_see_ Table B]
 
 [139ZR](#139ZR).   Charge over property [_see_ Table B]
 
@@ -739,9 +732,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [139ZT](#139ZT).   Failure to comply with notice
 
-        **Subdivision K—Rolled‑over superannuation interests etc.**
+        **Subdivision K—Rolled-over superannuation interests etc.**
 
-[139ZU](#139ZU).   Order relating to rolled‑over superannuation interests etc 
+[139ZU](#139ZU).  Order relating to rolled-over superannuation interests etc 
 
 [139ZV](#139ZV).   Enforcement of order
 
@@ -799,11 +792,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [149K](#149K).     Internal review of objection
 
-[149M](#149M).    Inspector‑General may request further information
+[149M](#149M).    Inspector-General may request further information
 
 [149N](#149N).     Decision on review
 
-[149P](#149P).      Inspector‑General to notify bankrupt and trustee of decision
+[149P](#149P).      Inspector-General to notify bankrupt and trustee of decision
 
 [149Q](#149Q).     Review of decisions
 
@@ -863,7 +856,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [161](#161).        Trustee may act in official name [_see_ Table B]
 
-[161A](#161A).     Registered trustee to notify Inspector‑General of certain events
+[161A](#161A).     Registered trustee to notify Inspector-General of certain events
 
     **Division 2—Remuneration and costs**
 
@@ -965,9 +958,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [185LA](#185LA).   Duties of an administrator—general
 
-[185LB](#185LB).   Administrator to notify creditors of a 3‑month arrears default by a debtor
+[185LB](#185LB).   Administrator to notify creditors of a 3-month arrears default by a debtor
 
-[185LC](#185LC).   Administrator to notify Official Receiver of a designated 6‑month arrears default by a debtor
+[185LC](#185LC).   Administrator to notify Official Receiver of a designated 6-month arrears default by a debtor
 
 [185LD](#185LD).   Administrator to maintain separate bank account
 
@@ -985,9 +978,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [185MA](#185MA). Procedures for dealing with proposals to vary debt agreements
 
-[185MB](#185MB).  Inspection of creditor’s statement
+[185MB](#185MB). Inspection of creditor’s statement
 
-[185MC](#185MC).  Acceptance of a proposal to vary a debt agreement
+[185MC](#185MC). Acceptance of a proposal to vary a debt agreement
 
 [185MD](#185MD). Withdrawal of proposal to vary a debt agreement
 
@@ -1009,7 +1002,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [185Q](#185Q).     Terminating a debt agreement by order of the Court
 
-[185QA](#185QA).  Terminating a debt agreement—designated 6‑month arrears default
+[185QA](#185QA).  Terminating a debt agreement—designated 6-month arrears default
 
 [185R](#185R).     Terminating a debt agreement by the bankruptcy of the debtor
 
@@ -1017,7 +1010,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 6—Voiding a debt agreement**
 
-[185T](#185T).      Applying for an order declaring a debt agreement void
+[185T](#185T).     Applying for an order declaring a debt agreement void
 
 [185U](#185U).     Making an order declaring a debt agreement void
 
@@ -1033,9 +1026,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [185Y](#185Y).     Money received by administrator to be held on trust
 
-[185Z](#185Z).      Remuneration of administrator
+[185Z](#185Z).     Remuneration of administrator
 
-[185ZA](#185ZA).   Notification of death of administrator
+[185ZA](#185ZA).  Notification of death of administrator
 
 [185ZB](#185ZB).   Official Trustee to replace an administrator who dies etc 
 
@@ -1045,7 +1038,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 185ZCB Control of administrators by the Court
 
-[185ZD](#185ZD).   Remuneration of administrator
+[185ZD](#185ZD).  Remuneration of administrator
 
     **Division 8—Registration of debt agreement administrators etc.** 
 
@@ -1057,7 +1050,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [186B](#186B).     Application for registration as a debt agreement administrator
 
-[186C](#186C).     Inspector‑General must approve or refuse to approve registration application
+[186C](#186C).     Inspector-General must approve or refuse to approve registration application
 
 [186D](#186D).     Registration as a debt agreement administrator
 
@@ -1077,19 +1070,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [186L](#186L).      Cancellation of a company’s registration as a debt agreement administrator
 
-[186LA](#186LA).   Inspector‑General may obtain information about debt agreement administration trust accounts
+[186LA](#186LA).   Inspector-General may obtain information about debt agreement administration trust accounts
 
-[186LB](#186LB).   Account‑freezing notices—debt agreement administration trust accounts
+[186LB](#186LB).   Account-freezing notices—debt agreement administration trust accounts
 
-[186LC](#186LC).   Power of court to set aside account‑freezing notices
+[186LC](#186LC).   Power of court to set aside account-freezing notices
 
-[186LD](#186LD).   Judicial enforcement of account‑freezing notices
+[186LD](#186LD).   Judicial enforcement of account-freezing notices
 
 [186LE](#186LE).   Protection of bank
 
         **Subdivision D—Ineligibility of a person to act as a debt agreement administrator**
 
-[186M](#186M).    Inspector‑General may declare a person ineligible to act as an administrator
+[186M](#186M).    Inspector-General may declare a person ineligible to act as an administrator
 
         **Subdivision E—Miscellaneous**
 
@@ -1097,7 +1090,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [186P](#186P).      Cessation of registration as a debt agreement administrator—no refund of fees
 
-[186Q](#186Q).     Guidelines relating to Inspector‑General’s powers
+[186Q](#186Q).     Guidelines relating to Inspector-General’s powers
 
 **Part X—Personal insolvency agreements** 
 
@@ -1117,12 +1110,12 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [189](#189).        Control of property of a debtor who has given authority under section 188
 
-189AAA  Stay of proceedings relating to creditor’s petition until meeting of debtor’s creditors
+189AAAStay of proceedings relating to creditor’s petition until meeting 
+ of debtor’s creditors
 
 [189AA](#189AA).  Court orders with effect during period of control of debtor’s property
 
-[189AB](#189AB).  Charge over debtor’s property that is subject to control
- [_see_ Table B]
+[189AB](#189AB).  Charge over debtor’s property that is subject to control [_see_ Table B]
 
 [189AC](#189AC).  Right of indemnity for controlling trustee
 
@@ -1432,7 +1425,7 @@ as if those Acts had not been repealed.
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="adi"></a>**_ADI_**(authorised deposit‑taking institution) means:
+                    <a name="adi"></a>**_ADI_**(authorised deposit-taking institution) means:
 
                      (a)  a body corporate that is an ADI for the purposes of the _Banking Act 1959_; or
 
@@ -1454,7 +1447,7 @@ as if those Acts had not been repealed.
 
                     <a name="affidavit"></a>**_affidavit_** includes affirmation and statutory declaration.
 
-                    <a name="approved-form"></a>**_approved form_** means an electronic or other form approved, in writing, by the Inspector‑General.
+                    <a name="approved-form"></a>**_approved form_** means an electronic or other form approved, in writing, by the Inspector-General.
 
                     <a name="associated-entiti"></a>**_associated entity_**, in relation to a person, means:
 
@@ -1464,7 +1457,7 @@ as if those Acts had not been repealed.
 
                     <a name="authorised-employe"></a>**_authorised employee_** means an APS employee whose duties include either or both of the following:
 
-                     (a)  supporting the Inspector‑General in the performance of his or her functions, or in the exercise of his or her powers, under this Act;
+                     (a)  supporting the Inspector-General in the performance of his or her functions, or in the exercise of his or her powers, under this Act;
 
                      (b)  supporting the Official Receivers in the performance of their functions, or in the exercise of their powers, under this Act.
 
@@ -1488,7 +1481,7 @@ as if those Acts had not been repealed.
 
                      (b)  someone who is a child of the person within the meaning of the _Family Law Act 1975_.
 
-                    <a name="close-rel"></a>**_close relative_**, in relation to a person, means a spouse, de facto partner, parent, child, brother, sister, half‑brother, or half‑sister, of the person.
+                    <a name="close-rel"></a>**_close relative_**, in relation to a person, means a spouse, de facto partner, parent, child, brother, sister, half-brother, or half-sister, of the person.
 
                     <a name="compani"></a>**_company_** means a corporation, other than a corporation that is incorporated within Australia or an external Territory and is:
 
@@ -1502,9 +1495,9 @@ as if those Acts had not been repealed.
 
                      (b)  a receiver and manager of property of the corporation appointed under a power contained in an instrument;
 
-                   (ba)  an administrator, within the meaning of the _Corporations Act 2001_, of the corporation;
+                    (ba)  an administrator, within the meaning of the _Corporations Act 2001_, of the corporation;
 
-                   (bb)  an administrator of a deed of company arrangement executed by the corporation under Part 5.3A of that Act;
+                    (bb)  an administrator of a deed of company arrangement executed by the corporation under Part 5.3A of that Act;
 
                      (d)  a liquidator of the corporation appointed in a voluntary winding up of the corporation; and
 
@@ -1568,7 +1561,7 @@ but does not include:
 
                      (b)  in relation to a composition or scheme of arrangement under Division 6 of Part IV—the time when the composition or scheme, as the case may be, ceases to be in effect; or
 
-                   (ba)  in relation to a personal insolvency agreement—the time when all the obligations that the agreement created have been discharged; or
+                    (ba)  in relation to a personal insolvency agreement—the time when all the obligations that the agreement created have been discharged; or
 
                      (c)  in relation to an administration under Part XI—the end of the administration.
 
@@ -1614,8 +1607,6 @@ but does not include:
 
                     <a name="famili-court-judg"></a>**_Family Court Judge_** means a Judge of the Family Court (including the Chief Judge, the Deputy Chief Judge, a Judge Administrator or a Senior Judge).
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="forfeitur-order"></a>**_forfeiture order_** means a forfeiture order made under a proceeds of crime law.
 
                     <a name="frozen-debt"></a>**_frozen debt_** means a debt that:
@@ -1634,7 +1625,7 @@ but does not include a debt in respect of the debtor’s liability under a maint
 
                      (b)  an award, determination or agreement made under such a law.
 
-                    <a name="inspector-gener"></a>**_Inspector‑General_** means the Inspector‑General in Bankruptcy, and includes a person acting as the Inspector‑General.
+                    <a name="inspector-gener"></a>**_Inspector-General_** means the Inspector-General in Bankruptcy, and includes a person acting as the Inspector-General.
 
                     <a name="interst-confisc-order"></a>**_interstate confiscation order_** means an interstate forfeiture order or an interstate pecuniary penalty order.
 
@@ -1790,7 +1781,7 @@ Note:          Section 188A sets out requirements for person
 
                      (a)  the Registrar, a Deputy Registrar, a District Registrar or a Deputy District Registrar of the Federal Court; or
 
-                     (b)  a Registrar of the Federal Magistrates Court.
+                     (b)  a Registrar of the Federal Magistrates   Court.
 
                     <a name="relat-entiti"></a>**_related entity_**, in relation to a person, means any of the following:
 
@@ -1858,7 +1849,7 @@ Note:          **_Parent_** and **_child_** are defined by thi
 
                     <a name="sheriff"></a>**_sheriff_** includes any person charged with the execution of a writ or other process.
 
-                    <a name="special-resolut"></a>**_special resolution_** means a resolution passed by a majority in number and at least three‑fourths in value of the creditors present personally, by telephone, by attorney or by proxy at a meeting of creditors and voting on the resolution.
+                    <a name="special-resolut"></a>**_special resolution_** means a resolution passed by a majority in number and at least three-fourths in value of the creditors present personally, by telephone, by attorney or by proxy at a meeting of creditors and voting on the resolution.
 
                     <a name="state-affair"></a>**_state of affairs_**, in relation to an entity, means all of the following:
 
@@ -2014,13 +2005,13 @@ whichever happens first.
 
                      (b)  is a trustee of a trust under which the associate is capable of benefiting; or
 
-                   (ba)  can benefit under a trust of which the associate is a trustee; or
+                    (ba)  can benefit under a trust of which the associate is a trustee; or
 
                      (c)  is employed, or is engaged under a contract for services, by the associate; or
 
                      (d)  acts as agent for the associate in any transaction or dealing; or
 
-                   (da)  is a principal for whom the associate acts as an agent; or
+                    (da)  is a principal for whom the associate acts as an agent; or
 
                      (e)  is an attorney of the associate under a power of attorney; or
 
@@ -2314,29 +2305,29 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="power"></a>**_power_** includes a function.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
-##### <a id="11"></a>11  Inspector‑General in Bankruptcy
+##### <a id="11"></a>11  Inspector-General in Bankruptcy
 
-             (1)  For the purposes of this Act, there shall be an Inspector‑General in Bankruptcy.
+             (1)  For the purposes of this Act, there shall be an Inspector-General in Bankruptcy.
 
-             (2)  The Inspector‑General has:
+             (2)  The Inspector-General has:
 
                      (a)  the general administration of this Act; and
 
                      (b)  the other powers and other functions conferred or imposed on him or her by this Act.
 
-             (3)  The Inspector‑General may exercise any of the powers (including the power under section 18), and perform any of the functions, of an Official Receiver, in the same way as the Official Receiver.
+             (3)  The Inspector-General may exercise any of the powers (including the power under section 18), and perform any of the functions, of an Official Receiver, in the same way as the Official Receiver.
 
-             (4)  The Inspector‑General may by signed instrument delegate to an authorised employee all or any of the powers and functions of the Inspector‑General under this Act.
+             (4)  The Inspector-General may by signed instrument delegate to an authorised employee all or any of the powers and functions of the Inspector-General under this Act.
 
-##### <a id="12"></a>12  Functions of Inspector‑General
+##### <a id="12"></a>12  Functions of Inspector-General
 
-             (1)  The Inspector‑General:
+             (1)  The Inspector-General:
 
                      (a)  shall make such inquiries and investigations as the Minister directs; and
 
-                     (b)  may make such inquiries and investigations as the Inspector‑General thinks fit with respect to the administration of, or the conduct of a trustee (including a controlling trustee) in relation to:
+                     (b)  may make such inquiries and investigations as the Inspector-General thinks fit with respect to the administration of, or the conduct of a trustee (including a controlling trustee) in relation to:
 
                               (i)  a bankruptcy; or
 
@@ -2350,7 +2341,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                             (vi)  property in relation to which the trustee is the controlling trustee under an authority given under section 188; and
 
-                   (ba)  may make such inquiries and investigations as the Inspector‑General thinks fit with respect to so much of the conduct and examinable affairs of:
+                    (ba)  may make such inquiries and investigations as the Inspector-General thinks fit with respect to so much of the conduct and examinable affairs of:
 
                               (i)  a bankrupt; or
 
@@ -2364,25 +2355,25 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                             as is relevant to the bankruptcy, composition, scheme or agreement, as the case may be; and
 
-                   (bb)  may make such inquiries and investigations as the Inspector‑General thinks fit with respect to any conduct of an administrator that relates to a debt agreement; and
+                    (bb)  may make such inquiries and investigations as the Inspector-General thinks fit with respect to any conduct of an administrator that relates to a debt agreement; and
 
-                   (bc)  may make such inquiries and investigations as the Inspector‑General thinks fit with respect to whether a person has committed an offence against this Act; and
+                    (bc)  may make such inquiries and investigations as the Inspector-General thinks fit with respect to whether a person has committed an offence against this Act; and
 
                      (c)  shall from time to time obtain from Official Receivers and other officers and from registered trustees reports as to the operation of this Act; and
 
                      (d)  must give the Minister, after the end of each financial year, a report on the operation of this Act during that financial year for presentation by the Minister to the Parliament.
 
-          (1A)  Where the Inspector‑General requests a registered trustee or the administrator of a debt agreement, for the purposes of subsection (1), to provide a report as to the operation of this Act, the registered trustee or administrator, as the case may be, shall forthwith provide the report requested.
+          (1A)  Where the Inspector-General requests a registered trustee or the administrator of a debt agreement, for the purposes of subsection (1), to provide a report as to the operation of this Act, the registered trustee or administrator, as the case may be, shall forthwith provide the report requested.
 
-       (1BA)  The Inspector‑General may make an inquiry or investigation under paragraph (1)(b), (ba), (bb) or (bc) at any time, whether before or after the end of the bankruptcy, composition, scheme or agreement or administration concerned.
+        (1BA)  The Inspector-General may make an inquiry or investigation under paragraph (1)(b), (ba), (bb) or (bc) at any time, whether before or after the end of the bankruptcy, composition, scheme or agreement or administration concerned.
 
-          (1B)  Where the Inspector‑General makes an inquiry or investigation referred to in paragraph (1)(b), (ba), (bb) or (bc), the Inspector‑General may give a copy of the report of the results of the inquiry or investigation to any person the Inspector‑General thinks fit.
+          (1B)  Where the Inspector-General makes an inquiry or investigation referred to in paragraph (1)(b), (ba), (bb) or (bc), the Inspector-General may give a copy of the report of the results of the inquiry or investigation to any person the Inspector-General thinks fit.
 
-          (1C)  Without limiting the generality of paragraphs (1)(a) and (b), the Inspector‑General may make inquiries and investigations under those paragraphs at the request of:
+          (1C)  Without limiting the generality of paragraphs (1)(a) and (b), the Inspector-General may make inquiries and investigations under those paragraphs at the request of:
 
-                     (a)  if the Inspector‑General is satisfied that the request relates to an application, or proposed application, for a confiscation order—the Director of Public Prosecutions; or
+                     (a)  if the Inspector-General is satisfied that the request relates to an application, or proposed application, for a confiscation order—the Director of Public Prosecutions; or
 
-                     (b)  if the Inspector‑General is satisfied that the request relates to an application, or proposed application, for an interstate confiscation order—a person who is entitled, under a corresponding law, to apply for an order of that kind.
+                     (b)  if the Inspector-General is satisfied that the request relates to an application, or proposed application, for an interstate confiscation order—a person who is entitled, under a corresponding law, to apply for an order of that kind.
 
           (1D)  For the purposes of paragraph (1)(bb), any conduct engaged in by the administrator of a debt agreement:
 
@@ -2392,7 +2383,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 is taken to be conduct of the administrator that relates to a debt agreement, even if the conduct does not relate to a particular debt agreement.
 
-          (1E)  For the purposes of paragraph (1)(bb), if a person signs a certificate under subsection 185C(2D) in relation to a debt agreement proposal, the person’s conduct in relation to the certificate is taken to be conduct of an administrator that relates to a debt agreement.
+           (1E)  For the purposes of paragraph (1)(bb), if a person signs a certificate under subsection 185C(2D) in relation to a debt agreement proposal, the person’s conduct in relation to the certificate is taken to be conduct of an administrator that relates to a debt agreement.
 
            (1F)  For the purposes of paragraph (1)(bb), if a person:
 
@@ -2402,7 +2393,7 @@ is taken to be conduct of the administrator that relates to a debt agreement, ev
 
 the giving of the notification, or the breach, as the case may be, is taken to be the conduct of an administrator that relates to a debt agreement.
 
-             (2)  For the purposes of discharging his or her functions under this Act, the Inspector‑General may:
+             (2)  For the purposes of discharging his or her functions under this Act, the Inspector-General may:
 
                      (a)  require the production of any books kept by an Official Receiver or by a trustee; and
 
@@ -2424,7 +2415,7 @@ the giving of the notification, or the breach, as the case may be, is taken to b
 
                       (f)  at any time investigate the books of the administrator, or former administrator, of a debt agreement.
 
-          (2A)  If the Inspector‑General believes on reasonable grounds that a person has information that is relevant to an inquiry or investigation under paragraph (1)(bc), the Inspector‑General may, by written notice given to the person, require the person to give to the Inspector‑General, within the period and in the manner specified in the notice, any such information.
+          (2A)  If the Inspector-General believes on reasonable grounds that a person has information that is relevant to an inquiry or investigation under paragraph (1)(bc), the Inspector-General may, by written notice given to the person, require the person to give to the Inspector-General, within the period and in the manner specified in the notice, any such information.
 
           (2B)  The period specified in a notice given under subsection (2A) must be at least 14 days after the notice is given.
 
@@ -2442,13 +2433,13 @@ the giving of the notification, or the breach, as the case may be, is taken to b
 
                      (b)  section 137.1 of the _Criminal Code_(about giving false or misleading information).
 
-          (2E)  Subsection (2A) does not limit the application of subsection (2) in relation to an inquiry or investigation under paragraph (1)(bc).
+           (2E)  Subsection (2A) does not limit the application of subsection (2) in relation to an inquiry or investigation under paragraph (1)(bc).
 
-             (4)  The Inspector‑General:
+             (4)  The Inspector-General:
 
                      (a)  is entitled to attend any meeting of creditors held under this Act; and
 
-                     (b)  subject to section 64ZA, is entitled to participate in any such meeting as the Inspector‑General thinks fit.
+                     (b)  subject to section 64ZA, is entitled to participate in any such meeting as the Inspector-General thinks fit.
 
 ##### <a id="15"></a>15  Official Receivers
 
@@ -2462,19 +2453,19 @@ the giving of the notification, or the breach, as the case may be, is taken to b
 
 Note:          Section 303 explains who may apply to the Court for review of an Official Receiver’s action.
 
-##### <a id="16"></a>16  Appointment of Inspector‑General and Official Receivers
+##### <a id="16"></a>16  Appointment of Inspector-General and Official Receivers
 
-                   The Inspector‑General and each Official Receiver shall be appointed by the Minister.
+                   The Inspector-General and each Official Receiver shall be appointed by the Minister.
 
-##### <a id="17"></a>17  Acting Inspector‑General and Acting Official Receivers
+##### <a id="17"></a>17  Acting Inspector-General and Acting Official Receivers
 
-             (1)  The Minister may appoint a person to act as Inspector‑General:
+             (1)  The Minister may appoint a person to act as Inspector-General:
 
-                     (a)  during a vacancy in the office of Inspector‑General; or
+                     (a)  during a vacancy in the office of Inspector-General; or
 
-                     (b)  during any period, or during all periods, when the Inspector‑General is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office.
+                     (b)  during any period, or during all periods, when the Inspector-General is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office.
 
-             (2)  The Inspector‑General may appoint a person to act as Official Receiver:
+             (2)  The Inspector-General may appoint a person to act as Official Receiver:
 
                      (a)  during a vacancy in the office of Official Receiver; or
 
@@ -2484,9 +2475,9 @@ Note:          Section 303 explains who may apply to the Cou
 
 ##### <a id="17B"></a>17B  Arrangements for services of State and Northern Territory Magistrates
 
-             (1)  The Governor‑General may arrange with the Governor of a State for the performance of the functions of a magistrate under this Act by all or any of the persons who from time to time hold office as Magistrates of the State.
+             (1)  The Governor-General may arrange with the Governor of a State for the performance of the functions of a magistrate under this Act by all or any of the persons who from time to time hold office as Magistrates of the State.
 
-             (2)  The Governor‑General may arrange with the Administrator of the Northern Territory for the performance of the functions of a magistrate under this Act by all or any of the persons who from time to time hold office as Magistrates of the Territory.
+             (2)  The Governor-General may arrange with the Administrator of the Northern Territory for the performance of the functions of a magistrate under this Act by all or any of the persons who from time to time hold office as Magistrates of the Territory.
 
 ##### <a id="18"></a>18  The Official Trustee in Bankruptcy
 
@@ -2512,7 +2503,7 @@ Note:          Section 303 explains who may apply to the Cou
 
           (8A)  All acts and things done in the name of, or on behalf of, the Official Trustee by any Official Receiver, shall be deemed to have been done by the Official Trustee.
 
-          (8B)  The Inspector‑General may exercise any of the powers, and perform any of the functions, of the Official Trustee that are not related to any of the following matters:
+          (8B)  The Inspector-General may exercise any of the powers, and perform any of the functions, of the Official Trustee that are not related to any of the following matters:
 
                      (a)  a bankruptcy;
 
@@ -2526,11 +2517,11 @@ Note:          Section 303 explains who may apply to the Cou
 
                       (f)  administration under Part XI.
 
-          (8C)  In exercising powers or performing functions under subsection (8B), the Inspector‑General must act in the name of, and on behalf of, the Official Trustee.
+          (8C)  In exercising powers or performing functions under subsection (8B), the Inspector-General must act in the name of, and on behalf of, the Official Trustee.
 
-          (8D)  Anything done by the Inspector‑General in the name of, or on behalf of, the Official Trustee is taken to have been done by the Official Trustee.
+          (8D)  Anything done by the Inspector-General in the name of, or on behalf of, the Official Trustee is taken to have been done by the Official Trustee.
 
-          (8E)  In subsection (8B):
+           (8E)  In subsection (8B):
 
                     <a name="matter-relat-debt-agreem-propos"></a>**_matter relating to a debt agreement proposal_** includes:
 
@@ -2618,7 +2609,7 @@ as an individual would be subject if the individual had done, or omitted to do, 
 
                      (h)  considering whether the bankrupt has committed an offence against this Act;
 
-                      (i)  referring to the Inspector‑General or to relevant law enforcement authorities any evidence of an offence by the bankrupt against this Act;
+                      (i)  referring to the Inspector-General or to relevant law enforcement authorities any evidence of an offence by the bankrupt against this Act;
 
                       (j)  administering the estate as efficiently as possible by avoiding unnecessary expense;
 
@@ -2636,7 +2627,7 @@ as an individual would be subject if the individual had done, or omitted to do, 
 
 so far as they relate to the bankruptcy.
 
-##### <a id="19A"></a>19A  Liability of Inspector‑General, Official Receivers etc.
+##### <a id="19A"></a>19A  Liability of Inspector-General, Official Receivers etc.
 
              (1)  The Commonwealth shall indemnify a person to whom this section applies against any liability incurred by him or her:
 
@@ -2646,7 +2637,7 @@ so far as they relate to the bankruptcy.
 
              (2)  The Commonwealth has the same liability for acts of, or omissions by, a person to whom this section applies in the course of the performance or purported performance of his or her duties under this Act as a master has for acts of, or omissions by, his or her servants.
 
-             (3)  A reference in this section to a person to whom this section applies shall be read as a reference to the Inspector‑General, a Registrar, an Official Receiver, an officer performing any of the functions or duties, or exercising any of the powers, of an Official Receiver or an officer or other person assisting a Registrar or an Official Receiver in the performance of his or her functions or duties or the exercise of his or her powers.
+             (3)  A reference in this section to a person to whom this section applies shall be read as a reference to the Inspector-General, a Registrar, an Official Receiver, an officer performing any of the functions or duties, or exercising any of the powers, of an Official Receiver or an officer or other person assisting a Registrar or an Official Receiver in the performance of his or her functions or duties or the exercise of his or her powers.
 
 ### Division 2—Common Investment Fund
 
@@ -2742,9 +2733,9 @@ but does not include:
 
                      (b)  that it would be undesirable to convert into money investments made under section 20D for the purpose of enabling those payments to be so made;
 
-the Official Trustee may apply to the Finance Minister to borrow from the Commonwealth under this section moneys not exceeding such amount as is specified in the instrument.
+the Official Trustee may apply to the Minister for Finance to borrow from the Commonwealth under this section moneys not exceeding such amount as is specified in the instrument.
 
-             (2)  The Finance Minister may, on behalf of the Commonwealth, lend to the Official Trustee, on such terms and conditions as he or she determines, moneys that the Official Trustee has applied under subsection (1) to borrow.
+             (2)  The Minister for Finance may, on behalf of the Commonwealth, lend to the Official Trustee, on such terms and conditions as he or she determines, moneys that the Official Trustee has applied under subsection (1) to borrow.
 
              (3)  Moneys borrowed by the Official Trustee from the Commonwealth under this section shall be paid into the Common Fund.
 
@@ -2804,7 +2795,7 @@ Note:          The Account was established by subsection 5(3) 
 
 is to be debited from the Equalization Account and paid into the Common Fund.
 
-             (5)  The Inspector‑General must, at such times as the Inspector‑General considers appropriate and, in any event, at least once every 6 months, determine whether any amounts standing to the credit of the Equalization Account are not required for the purposes of subsection (4). If the Inspector‑General determines that any amounts are not so required, the Inspector‑General may direct that the amounts not so required, or any part of those amounts, are to be debited from the Equalization Account.
+             (5)  The Inspector-General must, at such times as the Inspector-General considers appropriate and, in any event, at least once every 6 months, determine whether any amounts standing to the credit of the Equalization Account are not required for the purposes of subsection (4). If the Inspector-General determines that any amounts are not so required, the Inspector-General may direct that the amounts not so required, or any part of those amounts, are to be debited from the Equalization Account.
 
              (6)  Whenever an amount required by subsection (4) to be debited from the Equalization Account exceeds the amount standing to the credit of the Equalization Account, an amount equal to the excess must be credited to the Equalization Account.
 
@@ -2822,7 +2813,7 @@ is to be debited from the Equalization Account and paid into the Common Fund.
 
 the estate or the fund is not entitled, except as provided by subsections (2), (3) and (3A), to interest on moneys held by the Official Trustee as trustee of the estate or fund, as the case may be.
 
-             (2)  Where moneys have been held, or are likely to be held, for a prescribed reason, or for one prescribed reason and then for another prescribed reason, by the Official Trustee as the trustee of the estate of a bankrupt or of a deceased debtor, or as trustee of a fund referred to in paragraph (1)(b), for not less than one year longer than those moneys would have been held, or would be likely to be held, by the Official Trustee but for that reason or those reasons, the Inspector‑General may direct, by writing under his or her hand, that interest on those moneys, at the rate prescribed by the regulations for the purposes of this section and in respect of such period as he or she determines, shall form part of that estate or fund, as the case may be.
+             (2)  Where moneys have been held, or are likely to be held, for a prescribed reason, or for one prescribed reason and then for another prescribed reason, by the Official Trustee as the trustee of the estate of a bankrupt or of a deceased debtor, or as trustee of a fund referred to in paragraph (1)(b), for not less than one year longer than those moneys would have been held, or would be likely to be held, by the Official Trustee but for that reason or those reasons, the Inspector-General may direct, by writing under his or her hand, that interest on those moneys, at the rate prescribed by the regulations for the purposes of this section and in respect of such period as he or she determines, shall form part of that estate or fund, as the case may be.
 
              (3)  Where, on or after the date of commencement of this section (in the subsection referred to as the **_commencing date_**), the Official Trustee receives an amount by way of interest on moneys (other than moneys of the kind referred to in paragraph (1)(b)), or on investments, that form part of the Common Fund by virtue of subsection 20B(3):
 
@@ -2880,7 +2871,7 @@ interest on those moneys is payable to the person to whom those moneys are payab
 
              (5)  In this section, **_prescribed country_** means:
 
-                     (a)  the United Kingdom, Canada and New Zealand;
+                     (a)  the United Kingdom, Canada and New   Zealand;
 
                      (b)  a country prescribed by the regulations for the purposes of this subsection; and
 
@@ -2902,9 +2893,9 @@ interest on those moneys is payable to the person to whom those moneys are payab
 
                      (a)  a bankrupt, a debtor or any other person has failed to comply with an order or direction of a Registrar, or with a direction or requirement of an Official Receiver or trustee, under this Act; or
 
-                     (b)  a trustee has failed to comply with an order, direction or requirement of a Registrar, or with a requirement or request of the Inspector‑General, under this Act;
+                     (b)  a trustee has failed to comply with an order, direction or requirement of a Registrar, or with a requirement or request of the Inspector-General, under this Act;
 
-the Court may, on the application of the Registrar, Official Receiver, trustee or Inspector‑General, as the case requires:
+the Court may, on the application of the Registrar, Official Receiver, trustee or Inspector-General, as the case requires:
 
                      (c)  order the person who has failed to comply with the order, direction, requirement or request, as the case may be, to comply with it; or
 
@@ -2946,7 +2937,7 @@ the Court may, on the application of the Registrar, Official Receiver, trustee o
 
                              (ii)  for a sequestration order against the estate of a debtor;
 
-                    (ja)  applications for an order of annulment of the administration of the estate of a deceased person under Part XI; and
+                     (ja)  applications for an order of annulment of the administration of the estate of a deceased person under Part XI; and
 
                      (k)  summary trials under Part XIV.
 
@@ -3142,7 +3133,7 @@ then, at and after that time, the Family Court has jurisdiction in bankruptcy in
 
                               (i)  he or she departs or remains out of Australia;
 
-                             (ii)  he or she departs from his or her dwelling‑house or usual place of business;
+                             (ii)  he or she departs from his or her dwelling-house or usual place of business;
 
                             (iii)  he or she otherwise absents himself or herself; or
 
@@ -3156,7 +3147,7 @@ then, at and after that time, the Family Court has jurisdiction in bankruptcy in
 
                   (daa)  if the debtor presents a debtor’s petition under this Act;
 
-                   (da)  if the debtor presents to the Official Receiver a declaration under section 54A;
+                    (da)  if the debtor presents to the Official Receiver a declaration under section 54A;
 
                      (e)  if, at a meeting of any of his or her creditors:
 
@@ -3176,17 +3167,17 @@ then, at and after that time, the Family Court has jurisdiction in bankruptcy in
 
                              (ii)  where the notice was served elsewhere—within the time fixed for the purpose by the order giving leave to effect the service;
 
-                            comply with the requirements of the notice or satisfy the Court that he or she has a counter‑claim, set‑off or cross demand equal to or exceeding the amount of the judgment debt or sum payable under the final order, as the case may be, being a counter‑claim, set‑off or cross demand that he or she could not have set up in the action or proceeding in which the judgment or order was obtained;
+                            comply with the requirements of the notice or satisfy the Court that he or she has a counter-claim, set-off or cross demand equal to or exceeding the amount of the judgment debt or sum payable under the final order, as the case may be, being a counter-claim, set-off or cross demand that he or she could not have set up in the action or proceeding in which the judgment or order was obtained;
 
                      (h)  if he or she gives notice to any of his or her creditors that he or she has suspended, or that he or she is about to suspend, payment of his or her debts;
 
-                   (ha)  if the debtor gives the Official Receiver a debt agreement proposal;
+                    (ha)  if the debtor gives the Official Receiver a debt agreement proposal;
 
-                   (hb)  if a debt agreement proposal given by the debtor to the Official Receiver is accepted by the debtor’s creditors;
+                    (hb)  if a debt agreement proposal given by the debtor to the Official Receiver is accepted by the debtor’s creditors;
 
-                   (hc)  if the debtor breaches a debt agreement;
+                    (hc)  if the debtor breaches a debt agreement;
 
-                   (hd)  if a debt agreement to which the debtor was a party (as a debtor) is terminated under section 185P, 185Q or 185QA;
+                    (hd)  if a debt agreement to which the debtor was a party (as a debtor) is terminated under section 185P, 185Q or 185QA;
 
                       (i)  if he or she signs an authority under section 188;
 
@@ -3238,7 +3229,7 @@ then, at and after that time, the Family Court has jurisdiction in bankruptcy in
 
                      (e)  a judgment or order for the payment of money made by the Court in the exercise of jurisdiction conferred on it by this Act shall be deemed to be a judgment or order the execution of which has not been stayed notwithstanding that it may not be enforceable at law by execution; and
 
-                      (f)  an order made after the commencement of this paragraph under the _Family Law Act 1975_ for the payment by a person of arrears of maintenance for another person shall be deemed to be a final order against the first‑mentioned person obtained by the other person.
+                      (f)  an order made after the commencement of this paragraph under the _Family Law Act 1975_ for the payment by a person of arrears of maintenance for another person shall be deemed to be a final order against the first-mentioned person obtained by the other person.
 
              (4)  The act of bankruptcy specified in paragraph (1)(j) shall be deemed to be committed on the day on which the notices calling the meeting are delivered or sent to the creditors or, if they are not all delivered or sent on the one day, on the day on which the last of the notices is so delivered or sent.
 
@@ -3310,13 +3301,13 @@ the Court may, subject to subsection (6C), extend the time for compliance with
 
 the Court shall not extend the time for compliance with the bankruptcy notice.
 
-             (7)  Where, before the expiration of the time fixed for compliance with the requirements of a bankruptcy notice, the debtor has applied to the Court for an order setting aside the bankruptcy notice on the ground that the debtor has such a counter‑claim, set‑off or cross demand as is referred to in paragraph 40(1)(g), and the Court has not, before the expiration of that time, determined whether it is satisfied that the debtor has such a counter‑claim, set‑off or cross demand, that time shall be deemed to have been extended, immediately before its expiration, until and including the day on which the Court determines whether it is so satisfied.
+             (7)  Where, before the expiration of the time fixed for compliance with the requirements of a bankruptcy notice, the debtor has applied to the Court for an order setting aside the bankruptcy notice on the ground that the debtor has such a counter-claim, set-off or cross demand as is referred to in paragraph 40(1)(g), and the Court has not, before the expiration of that time, determined whether it is satisfied that the debtor has such a counter-claim, set-off or cross demand, that time shall be deemed to have been extended, immediately before its expiration, until and including the day on which the Court determines whether it is so satisfied.
 
 ##### <a id="42"></a>42  Payment etc. of debt to Commonwealth or State after service of bankruptcy notice
 
              (1)  Where a bankruptcy notice under this Act is served on a debtor by the Commonwealth or a State, it is a sufficient compliance with the notice if, within the time allowed by the notice, the debtor pays the amount required to be paid by the notice to, or secures it or compounds it to the satisfaction of:
 
-                     (a)  the Secretary of the Attorney‑General’s Department, or the Crown Solicitor of the State, as the case may be; or
+                     (a)  the Secretary to the Attorney-General’s Department, or the Crown Solicitor of the State, as the case may be; or
 
                      (b)  if an agent of the Commonwealth, or of the State, as the case may be, is specified in the notice for the purpose, the agent so specified.
 
@@ -3334,7 +3325,7 @@ the Court shall not extend the time for compliance with the bankruptcy notice.
 
                               (i)  was personally present or ordinarily resident in Australia;
 
-                             (ii)  had a dwelling‑house or place of business in Australia;
+                             (ii)  had a dwelling-house or place of business in Australia;
 
                             (iii)  was carrying on business in Australia, either personally or by means of an agent or manager; or
 
@@ -3372,7 +3363,7 @@ the Court may, on a petition presented by a creditor, make a sequestration order
 
              (6)  A secured creditor to whom subsection (5) applies who fails to surrender his or her security when requested to do so by the trustee in accordance with that subsection is guilty of contempt of court.
 
-##### <a id="45"></a>45  Creditor’s petition against partnership
+##### <a id="45"></a>45  Creditor’s petition against partnership
 
              (1)  A creditor of a partnership may present a petition against the partnership if he or she is entitled to present a petition against any one of the members of the partnership in respect of a partnership debt.
 
@@ -3427,7 +3418,7 @@ to be examined on oath under this section about the debtor and the debtor’s ex
 
              (4)  A summons to a person under subsection (2) may require the person to produce at the examination books (including books of an associated entity of the debtor) that:
 
-                     (a)  are in the possession of the first‑mentioned person; and
+                     (a)  are in the possession of the first-mentioned person; and
 
                      (b)  relate to the debtor or to any of the debtor’s examinable affairs.
 
@@ -3667,7 +3658,7 @@ subsections (2) and (3) apply.
 
                      (a)  was personally present or ordinarily resident in Australia; or
 
-                     (b)  had a dwelling‑house or place of business in Australia; or
+                     (b)  had a dwelling-house or place of business in Australia; or
 
                      (c)  was carrying on business in Australia, either personally or by means of an agent or manager; or
 
@@ -3691,9 +3682,9 @@ subsections (2) and (3) apply.
 
                              (ii)  before the current petition was presented, the debtor previously became a bankrupt on a debtor’s petition at least 3 times, or at least once in the period of 5 years before presentation of the current petition.
 
-       (3AB)  The Official Receiver is not required to consider in each case whether there is a discretion to reject under subsection (3AA).
+        (3AB)  The Official Receiver is not required to consider in each case whether there is a discretion to reject under subsection (3AA).
 
-       (3AC)  The debtor may apply to the Administrative Appeals Tribunal for the review of a decision by the Official Receiver to reject a petition under subsection (3AA).
+        (3AC)  The debtor may apply to the Administrative Appeals Tribunal for the review of a decision by the Official Receiver to reject a petition under subsection (3AA).
 
           (3A)  Before accepting a debtor’s petition the Official Receiver must give the debtor the information prescribed by the regulations.
 
@@ -3805,13 +3796,13 @@ Example 2: When Peter presents a debtor’s petition against himself, there are 
 
                      (a)  the petition was presented against the partnership by some, but not all, members of the partnership;
 
-                     (b)  there is at least one creditor’s petition pending against at least one of the members of the partnership (not counting a creditor’s petition against all the members of the partnership and no‑one else).
+                     (b)  there is at least one creditor’s petition pending against at least one of the members of the partnership (not counting a creditor’s petition against all the members of the partnership and no-one else).
 
 Example 1: Edith, Lindsay and Bertha are the members of a partnership. When Edith and Lindsay present a debtor’s petition against the partnership there is a creditor’s petition pending against Bertha. The Official Receiver must refer the debtor’s petition to the Court.
 
 Example 2: Keith, Leigh and Judith are the members of a partnership. When they all present a debtor’s petition against the partnership, there are 2 creditor’s petitions pending: one against Keith, Leigh and Judith, the other against Judith alone. The Official Receiver must refer the debtor’s petition to the Court.
 
-Example 3: Meredith, Ramsay and Wilson are the members of a partnership. When they all present a debtor’s petition against the partnership, there are 2 creditor’s petitions pending. Both of the creditor’s petitions are against Meredith, Ramsay and Wilson (and no‑one else). There is no requirement for the Official Receiver to refer the debtor’s petition to the Court.
+Example 3: Meredith, Ramsay and Wilson are the members of a partnership. When they all present a debtor’s petition against the partnership, there are 2 creditor’s petitions pending. Both of the creditor’s petitions are against Meredith, Ramsay and Wilson (and no-one else). There is no requirement for the Official Receiver to refer the debtor’s petition to the Court.
 
              (2)  If the Official Receiver refers a petition to the Court because the petition was presented by some, but not all, of the members of the partnership, the Official Receiver must give notice in accordance with the regulations to the members who did not present the petition.
 
@@ -3857,7 +3848,7 @@ the Court must not give a direction in relation to the petition until the person
 
                      (b)  give the trustee a copy of each statement of affairs that accompanied the debtor’s petition.
 
-##### <a id="56F"></a>56F  Extra duties of non‑petitioning partners who become bankrupts
+##### <a id="56F"></a>56F  Extra duties of non-petitioning partners who become bankrupts
 
              (1)  A member of a partnership who did not join in presenting a debtor’s petition against the partnership but became a bankrupt as a result of the acceptance of the petition must give the Official Receiver:
 
@@ -3919,7 +3910,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  was personally present or ordinarily resident in Australia; or
 
-                     (b)  had a dwelling‑house or place of business in Australia; or
+                     (b)  had a dwelling-house or place of business in Australia; or
 
                      (c)  was carrying on business in Australia, either personally or by means of an agent or manager; or
 
@@ -3943,9 +3934,9 @@ Note:          A defendant bears an evidential burden in relat
 
                              (ii)  before the current petition was presented, the debtor previously became a bankrupt on a debtor’s petition at least 3 times, or at least once in the period of 5 years before presentation of the current petition.
 
-       (3AB)  The Official Receiver is not required to consider in each case whether there is a discretion to reject under subsection (3AA).
+        (3AB)  The Official Receiver is not required to consider in each case whether there is a discretion to reject under subsection (3AA).
 
-       (3AC)  An application may be made to the Administrative Appeals Tribunal for the review of a decision by the Official Receiver to reject a petition under subsection (3AA).
+        (3AC)  An application may be made to the Administrative Appeals Tribunal for the review of a decision by the Official Receiver to reject a petition under subsection (3AA).
 
           (3A)  Before accepting a debtor’s petition against joint debtors, the Official Receiver must give each petitioning debtor the information prescribed by the regulations.
 
@@ -3959,7 +3950,7 @@ Example 1: Peta and Abdul are joint debtors. When they present a debtor’s peti
 
 Example 2: Joan and Craig are joint debtors. When they present a debtor’s petition against themselves, there is a creditor’s petition pending against Joan, Craig and Paul. The Official Receiver must refer the debtor’s petition to the Court.
 
-Example 3: Kim, Robin and Jane are joint debtors. When they present a debtor’s petition against themselves, there is a creditor’s petition pending against Kim, Robin and Jane, and no‑one else. The Official Receiver is not required to refer the debtor’s petition to the Court.
+Example 3: Kim, Robin and Jane are joint debtors. When they present a debtor’s petition against themselves, there is a creditor’s petition pending against Kim, Robin and Jane, and no-one else. The Official Receiver is not required to refer the debtor’s petition to the Court.
 
           (3C)  If the Court directs the Official Receiver to accept the debtor’s petition, the Court must specify the time of the commencement of each bankruptcy that results from acceptance of the debtor’s petition.
 
@@ -4021,9 +4012,9 @@ Example 3: Kim, Robin and Jane are joint debtors. When they present a debtor’s
 
              (1)  Subject to this Act, where a debtor becomes a bankrupt:
 
-                     (a)  the property of the bankrupt, not being after‑acquired property, vests forthwith in the Official Trustee or, if, at the time when the debtor becomes a bankrupt, a registered trustee becomes the trustee of the estate of the bankrupt by virtue of section 156A, in that registered trustee; and
+                     (a)  the property of the bankrupt, not being after-acquired property, vests forthwith in the Official Trustee or, if, at the time when the debtor becomes a bankrupt, a registered trustee becomes the trustee of the estate of the bankrupt by virtue of section 156A, in that registered trustee; and
 
-                     (b)  after‑acquired property of the bankrupt vests, as soon as it is acquired by, or devolves on, the bankrupt, in the Official Trustee or, if a registered trustee is the trustee of the estate of the bankrupt, in that registered trustee.
+                     (b)  after-acquired property of the bankrupt vests, as soon as it is acquired by, or devolves on, the bankrupt, in the Official Trustee or, if a registered trustee is the trustee of the estate of the bankrupt, in that registered trustee.
 
 Note 1:       This subsection has a limited application if there are orders in force under the proceeds of crime law: see section 58A.
 
@@ -4057,7 +4048,7 @@ Note 2:       Even if property has vested under this section, it may
 
 whether entered into or made, as the case may be, before or after the commencement of this subsection.
 
-             (6)  In this section, **_after‑acquired property_**, in relation to a bankrupt, means property that is acquired by, or devolves on, the bankrupt on or after the date of the bankruptcy, being property that is divisible amongst the creditors of the bankrupt.
+             (6)  In this section, **_after-acquired property_**, in relation to a bankrupt, means property that is acquired by, or devolves on, the bankrupt on or after the date of the bankruptcy, being property that is divisible amongst the creditors of the bankrupt.
 
 ##### <a id="58A"></a>58A  Vesting of property upon bankruptcy—effect of orders in force under the proceeds of crime law
 
@@ -4115,11 +4106,11 @@ Notifying the trustee of grounds for subsection 58(1) to apply to property
 
                      (e)  a transaction that, by virtue of section 120, 121, 122, 128B or 128C, is void as against the trustee in the earlier bankruptcy continues to be void as against that trustee.
 
-             (2)  Where the trustee of the estate of a bankrupt receives notice of the presentation of a creditor’s petition against the bankrupt, the trustee shall hold the after‑acquired property of the bankrupt that is then in the possession of the trustee, or the proceeds thereof, until the petition has been dealt with by the Court or has lapsed.
+             (2)  Where the trustee of the estate of a bankrupt receives notice of the presentation of a creditor’s petition against the bankrupt, the trustee shall hold the after-acquired property of the bankrupt that is then in the possession of the trustee, or the proceeds thereof, until the petition has been dealt with by the Court or has lapsed.
 
-             (3)  Where the trustee of the estate of a bankrupt receives notice that a debtor’s petition against the bankrupt has been referred to the Court, the trustee shall hold the after‑acquired property of the bankrupt that is then in the possession of the trustee, or the proceeds thereof, until the Court has dealt with the petition.
+             (3)  Where the trustee of the estate of a bankrupt receives notice that a debtor’s petition against the bankrupt has been referred to the Court, the trustee shall hold the after-acquired property of the bankrupt that is then in the possession of the trustee, or the proceeds thereof, until the Court has dealt with the petition.
 
-             (4)  Where the trustee of the estate of a bankrupt is holding after‑acquired property of the bankrupt, or the proceeds of any such property, in pursuance of subsection (2) or (3) and the bankrupt again becomes a bankrupt, the trustee shall:
+             (4)  Where the trustee of the estate of a bankrupt is holding after-acquired property of the bankrupt, or the proceeds of any such property, in pursuance of subsection (2) or (3) and the bankrupt again becomes a bankrupt, the trustee shall:
 
                      (a)  in a case where the trustee is also the trustee in the later bankruptcy—hold all such property, and the proceeds of such property, as the trustee in the later bankruptcy; or
 
@@ -4127,7 +4118,7 @@ Notifying the trustee of grounds for subsection 58(1) to apply to property
 
              (5)  Where a law of the Commonwealth or of a State or Territory of the Commonwealth requires the transmission of property to be registered, and enables the trustee of the estate of a bankrupt to be registered as the owner of any such property that is part of the property of the bankrupt, that property, notwithstanding that it vests in equity in the trustee by virtue of subsection (1), does not vest in the trustee at law until the requirements of that law have been complied with.
 
-             (6)  In subsections (2), (3) and (4), **_after‑acquired property_**, in relation to a bankrupt, means such of the property that was acquired by, or devolved on, the bankrupt on or after the date of the bankruptcy, being property divisible amongst the creditors of the bankrupt, as has not been distributed amongst the creditors in the bankruptcy.
+             (6)  In subsections (2), (3) and (4), **_after-acquired property_**, in relation to a bankrupt, means such of the property that was acquired by, or devolved on, the bankrupt on or after the date of the bankruptcy, being property divisible amongst the creditors of the bankrupt, as has not been distributed amongst the creditors in the bankruptcy.
 
 ##### <a id="59A"></a>59A  Orders under Part VIII or VIIIAB of the _Family Law Act 1975_
 
@@ -4141,11 +4132,11 @@ Notifying the trustee of grounds for subsection 58(1) to apply to property
 
                      (b)  stay any legal process, whether civil or criminal and whether instituted before or after the commencement of this subsection, against the person or property of the debtor:
 
-                              (i)  in respect of the non‑payment of a provable debt or of a pecuniary penalty payable in consequence of the non‑payment of a provable debt; or
+                              (i)  in respect of the non-payment of a provable debt or of a pecuniary penalty payable in consequence of the non-payment of a provable debt; or
 
                              (ii)  in consequence of his or her refusal or failure to comply with an order of a court, whether made in civil or criminal proceedings, for the payment of a provable debt;
 
-                            and, in a case where the debtor is imprisoned or otherwise held in custody in consequence of the non‑payment of a provable debt or of a pecuniary penalty referred to in subparagraph (i) or in consequence of his or her refusal or failure to comply with an order referred to in subparagraph (ii), discharge the debtor out of custody.
+                            and, in a case where the debtor is imprisoned or otherwise held in custody in consequence of the non-payment of a provable debt or of a pecuniary penalty referred to in subparagraph (i) or in consequence of his or her refusal or failure to comply with an order referred to in subparagraph (ii), discharge the debtor out of custody.
 
              (2)  An action commenced by a person who subsequently becomes a bankrupt is, upon his or her becoming a bankrupt, stayed until the trustee makes election, in writing, to prosecute or discontinue the action.
 
@@ -4239,9 +4230,9 @@ Note:          See also subsection 5(6).
 
                      (a)  whenever the creditors so direct by resolution; and
 
-                     (b)  whenever so requested in writing by at least one‑fourth in value of the creditors; and
+                     (b)  whenever so requested in writing by at least one-fourth in value of the creditors; and
 
-                     (c)  whenever so requested in writing by less than one‑fourth in value of the creditors, being a creditor who has, or creditors who together have, lodged with the trustee sufficient security for the cost of holding the meeting.
+                     (c)  whenever so requested in writing by less than one-fourth in value of the creditors, being a creditor who has, or creditors who together have, lodged with the trustee sufficient security for the cost of holding the meeting.
 
              (2)  The trustee may convene at any time a meeting of the creditors of a bankrupt.
 
@@ -4265,7 +4256,7 @@ Note:          See also subsection 5(6).
 
                              (v)  a facsimile transmission number to which notices may be sent to the person;
 
-                            (vi)  an e‑mail address to which notices may be sent to the person;
+                            (vi)  an e-mail address to which notices may be sent to the person;
 
 the trustee must give notice to the person of any meeting of the bankrupt’s creditors.
 
@@ -4289,7 +4280,7 @@ the trustee must give notice to the person of any meeting of the bankrupt’s cr
 
                      (a)  set out the relevant telephone number; and
 
-                     (b)  tell the creditors that a creditor, or the proxy or attorney of a creditor, who wishes to participate in the meeting by telephone must give to the trustee, not later than the second‑last working day before the day on which the meeting is to be held, a written statement setting out:
+                     (b)  tell the creditors that a creditor, or the proxy or attorney of a creditor, who wishes to participate in the meeting by telephone must give to the trustee, not later than the second-last working day before the day on which the meeting is to be held, a written statement setting out:
 
                               (i)  the name of the creditor and of the proxy or attorney (if any); and
 
@@ -4523,7 +4514,7 @@ Note:          A meeting requires at least 2 persons. Therefor
 
              (5)  The trustee must then state the basis on which the trustee wishes to be remunerated. The statement must:
 
-                     (a)  if the trustee proposes to charge on a time‑cost basis:
+                     (a)  if the trustee proposes to charge on a time-cost basis:
 
                               (i)  if there is only one rate at which the remuneration is to be calculated—state that rate; or
 
@@ -4735,7 +4726,7 @@ is to be worked out by taking the value of the assigned debt to be equal to the 
 
           (2A)  If the proposal relates to how the trustee is to be remunerated, the notice must also:
 
-                     (a)  if the trustee proposes to charge on a time‑cost basis:
+                     (a)  if the trustee proposes to charge on a time-cost basis:
 
                               (i)  if there is only one rate at which the remuneration is to be calculated—state that rate; or
 
@@ -5069,11 +5060,11 @@ Variation proposal by trustee
 
                      (b)  attend the trustee whenever the trustee reasonably requires; and
 
-                   (ba)  give such information about any of the bankrupt’s conduct and examinable affairs as the trustee requires; and
+                    (ba)  give such information about any of the bankrupt’s conduct and examinable affairs as the trustee requires; and
 
-                   (bb)  as soon as practicable after becoming a bankrupt, advise the trustee of any material change that occurred between the time the bankrupt lodged his or her statement of affairs and the time the bankrupt became a bankrupt; and
+                    (bb)  as soon as practicable after becoming a bankrupt, advise the trustee of any material change that occurred between the time the bankrupt lodged his or her statement of affairs and the time the bankrupt became a bankrupt; and
 
-                   (bc)  if a material change occurred later, advise the trustee of that change as soon as practicable after the change occurs; and
+                    (bc)  if a material change occurred later, advise the trustee of that change as soon as practicable after the change occurs; and
 
                      (c)  attend a meeting of creditors whenever the trustee requires; and
 
@@ -5125,7 +5116,7 @@ Variation proposal by trustee
 
                      (b)  the books are not relevant to the examinable affairs of any bankrupt, person who is a party (as debtor) to a debt agreement, debtor or deceased debtor.
 
-          (1E)  While the Official Receiver or officer is keeping books, a person whose books they are, or from whose premises the books were taken, may inspect the books at any reasonable time.
+           (1E)  While the Official Receiver or officer is keeping books, a person whose books they are, or from whose premises the books were taken, may inspect the books at any reasonable time.
 
              (2)  An officer is not entitled to enter or remain in or on any premises under this section if, on being requested by the occupier of the premises for proof of authority, the officer does not produce the officer’s authority under subsection (1).
 
@@ -5221,13 +5212,13 @@ Note 2:       A failure to comply with the notice is an offence: see
 
              (1)  If a person who is required by a notice under subsection 77C(1) to attend before the Official Receiver or an authorised officer is entitled under subsection 77D(1) to be paid an allowance and to be reimbursed expenses in respect of the attendance, the Official Receiver must, before the person begins to travel for the purpose of so attending, offer to the person, on account of the allowance and reimbursement of expenses, an advance determined under this section.
 
-             (2)  If the Official Receiver is satisfied that it will be necessary for the person to travel by aircraft from the person’s principal place of residence to the place at which the person is required to attend, the advance is to be an amount equal to the sum of $20 and the ordinary one‑way economy class airfare from the airport nearest to that principal place of residence to the airport nearest to the place at which the person is required to attend.
+             (2)  If the Official Receiver is satisfied that it will be necessary for the person to travel by aircraft from the person’s principal place of residence to the place at which the person is required to attend, the advance is to be an amount equal to the sum of $20 and the ordinary one-way economy class airfare from the airport nearest to that principal place of residence to the airport nearest to the place at which the person is required to attend.
 
              (3)  If the person will be travelling by private motor vehicle, the advance is to be the sum of $20 and whichever is the lesser of the following amounts:
 
                      (a)  an amount prescribed by the regulations;
 
-                     (b)  if there is an airport open to civilian passenger traffic that is within a radius of 100 kilometres from the person’s principal place of residence—the ordinary one‑way economy class airfare from that airport to the airport nearest to the place at which the person is required to attend.
+                     (b)  if there is an airport open to civilian passenger traffic that is within a radius of 100 kilometres from the person’s principal place of residence—the ordinary one-way economy class airfare from that airport to the airport nearest to the place at which the person is required to attend.
 
              (4)  If the person will be travelling otherwise than as mentioned in subsections (2) and (3), the advance is to be:
 
@@ -5242,7 +5233,7 @@ Note 2:       A failure to comply with the notice is an offence: see
 ##### <a id="77F"></a>77F  Allowances and expenses to be paid out of bankrupt’s estate
  [_see_ Table B]
 
-                   If the evidence that a person gives, or the books that a person produces, under section 77C, relate to matters concerning the bankruptcy of a particular person, any amount payable to the first‑mentioned person under section 77D or 77E is to be paid out of the estate of the bankrupt as an expense of the administration of the bankruptcy.
+                   If the evidence that a person gives, or the books that a person produces, under section 77C, relate to matters concerning the bankruptcy of a particular person, any amount payable to the first-mentioned person under section 77D or 77E is to be paid out of the estate of the bankrupt as an expense of the administration of the bankruptcy.
 
 ##### <a id="78"></a>78  Arrest of debtor or bankrupt
 
@@ -5264,7 +5255,7 @@ the Court may issue a warrant for the arrest of the debtor or bankrupt, as the c
 
              (3)  Paragraphs (1)(a), (b) and (c) apply in relation to a debtor whether or not he or she has become a bankrupt and whether, in the case of a debtor against whom a petition has been presented, the petition was a creditor’s petition or a debtor’s petition.
 
-##### <a id="80"></a>80  Notification of change in name, address or day‑time telephone number 
+##### <a id="80"></a>80  Notification of change in name, address or day-time telephone number 
 
              (1)  If during a bankruptcy a change occurs in the bankrupt’s name or in the address of the bankrupt’s principal place of residence, the bankrupt must immediately tell the trustee in writing of the change.
 
@@ -5298,7 +5289,7 @@ to be examined on oath under this section about the relevant person and the rele
 
           (1B)  A summons to a person under subsection (1) may require the person to produce at the examination books (including books of an associated entity of the relevant person) that:
 
-                     (a)  are in the possession of the first‑mentioned person; and
+                     (a)  are in the possession of the first-mentioned person; and
 
                      (b)  relate to the relevant person or to any of the relevant person’s examinable affairs.
 
@@ -5320,7 +5311,7 @@ to be examined on oath under this section about the relevant person and the rele
 
                      (c)  make such other order as it thinks proper in the circumstances.
 
-             (7)  A person summoned to attend before the Court, the Registrar or a magistrate for examination under this section is entitled to be represented, on his or her examination, by counsel or a solicitor, who may re‑examine him or her after his or her examination.
+             (7)  A person summoned to attend before the Court, the Registrar or a magistrate for examination under this section is entitled to be represented, on his or her examination, by counsel or a solicitor, who may re-examine him or her after his or her examination.
 
              (8)  Where a person is summoned for examination under this section, a creditor, the trustee or the Official Receiver may take part in the examination and, for that purpose, may be represented by counsel or a solicitor or by an agent authorized in writing for the purpose.
 
@@ -5332,15 +5323,15 @@ to be examined on oath under this section about the relevant person and the rele
 
            (11)  A person being examined under this section shall answer all questions that the Court, the Registrar or the magistrate puts or allows to be put to him or her.
 
-     (11AA)  Subject to any contrary direction by the Court, the Registrar or the magistrate, the relevant person is not excused from answering a question merely because to do so might tend to incriminate the relevant person.
+      (11AA)  Subject to any contrary direction by the Court, the Registrar or the magistrate, the relevant person is not excused from answering a question merely because to do so might tend to incriminate the relevant person.
 
         (11A)  The Court, the Registrar or the magistrate may direct a person who is being examined under this section to produce at the examination specified books, or specified classes of books, that are in the possession of the person and are relevant to matters about which the person is being, or is to be, examined.
 
-        (11B)  Without limiting the generality of subsection (11A), a direction under that subsection may relate to books of an associated entity of the relevant person.
+         (11B)  Without limiting the generality of subsection (11A), a direction under that subsection may relate to books of an associated entity of the relevant person.
 
            (12)  Where a person admits on examination under this section that he or she is indebted to the relevant person, then, the Court, the Registrar or the magistrate, as the case may be, may, on the application of the trustee or a creditor, order the person to pay to the trustee, at or by such time and in such manner as the Court, the Registrar or the magistrate, as the case may be, thinks fit, the whole or a part of the amount in which the person admits he or she is indebted to the relevant person.
 
-           (13)  Where a person admits on examination under this section that there is in the possession of the person property of the relevant person that is divisible among creditors, the Court, the Registrar or the magistrate, as the case requires, may, on the application of the trustee or a creditor, order the first‑mentioned person to deliver the property to the trustee within a specified period, in a specified manner and on specified terms.
+           (13)  Where a person admits on examination under this section that there is in the possession of the person property of the relevant person that is divisible among creditors, the Court, the Registrar or the magistrate, as the case requires, may, on the application of the trustee or a creditor, order the first-mentioned person to deliver the property to the trustee within a specified period, in a specified manner and on specified terms.
 
            (14)  The Court, the Registrar or the magistrate, as the case may be, may direct that the costs of a person, other than the relevant person, examined under this section shall be paid out of the estate of the relevant person.
 
@@ -5434,7 +5425,7 @@ and, if the Official Receiver does so, a reference in this Division to the offsh
 
 ### Division 3—Failure to comply with certain notices
 
-##### <a id="81G"></a>81G  Effect of non‑compliance with notice
+##### <a id="81G"></a>81G  Effect of non-compliance with notice
 
              (1)  In this section:
 
@@ -5478,7 +5469,7 @@ and, if the Official Receiver does so, a reference in this Division to the offsh
 
        (3AA)  An amount payable under an order made under section 1317G of the _Corporations Act 2001_ is not provable in bankruptcy.
 
-       (3AB)  A debt incurred under Part 4‑1 of the _Higher Education Support Act 2003_ is not provable in bankruptcy.
+        (3AB)  A debt incurred under Part 4-1 of the _Higher Education Support Act 2003_ is not provable in bankruptcy.
 
           (3A)  An amount payable under an order made under a proceeds of crime law is not provable in bankruptcy.
 
@@ -5556,7 +5547,7 @@ and, if the Official Receiver does so, a reference in this Division to the offsh
 
              (3)  A proof of debt lodged in pursuance of this section has the same effect as if separate proofs of debt had been lodged by each of the creditors to whom it relates.
 
-##### <a id="86"></a>86  Mutual credit and set‑off
+##### <a id="86"></a>86  Mutual credit and set-off
 
              (1)  Subject to this section, where there have been mutual credits, mutual debts or other mutual dealings between a person who has become a bankrupt and a person claiming to prove a debt in the bankruptcy:
 
@@ -5566,7 +5557,7 @@ and, if the Official Receiver does so, a reference in this Division to the offsh
 
                      (c)  only the balance of the account may be claimed in the bankruptcy, or is payable to the trustee in the bankruptcy, as the case may be.
 
-             (2)  A person is not entitled under this section to claim the benefit of a set‑off if, at the time of giving credit to the person who has become a bankrupt or at the time of receiving credit from that person, he or she had notice of an available act of bankruptcy committed by that person.
+             (2)  A person is not entitled under this section to claim the benefit of a set-off if, at the time of giving credit to the person who has become a bankrupt or at the time of receiving credit from that person, he or she had notice of an available act of bankruptcy committed by that person.
 
 ##### <a id="87"></a>87  Deduction of discounts [_see_ Table B]
 
@@ -5784,7 +5775,7 @@ Note:       The provisions of the _Income Tax Assessment Act 1936_ r
 
           (1B)  The reference in paragraph (1)(e) to amounts due in respect of an employee of the bankrupt includes a reference to amounts due as contributions to a fund for the purposes of making provision for, or obtaining, superannuation benefits for the employee, or for dependants of the employee.
 
-          (1C)  The reference in paragraph (1)(e) to amounts due to or in respect of any employee of the bankrupt also includes a reference to amounts due as superannuation guarantee charge (within the meaning of the _Superannuation Guarantee (Administration) Act 1992_), or general interest charge in respect of non‑payment of the superannuation guarantee charge.
+          (1C)  The reference in paragraph (1)(e) to amounts due to or in respect of any employee of the bankrupt also includes a reference to amounts due as superannuation guarantee charge (within the meaning of the _Superannuation Guarantee (Administration) Act 1992_), or general interest charge in respect of non-payment of the superannuation guarantee charge.
 
              (2)  Subject to subsection (3), where a payment has been made by the bankrupt of an amount referred to in paragraph (1)(e) or (g) and the payment was made out of moneys advanced by a person for the purpose of enabling the payment, or such a payment, to be made, the person by whom the moneys were advanced has the same right of priority in respect of the moneys so advanced as the person who received the payment would have had if the payment had not been made.
 
@@ -6042,7 +6033,7 @@ is property divisible amongst the creditors of the bankrupt.
 
                              (ii)  identified by a resolution passed by the creditors before the trustee realises the property;
 
-                   (ba)  personal property of the bankrupt that:
+                    (ba)  personal property of the bankrupt that:
 
                               (i)  has sentimental value for the bankrupt; and
 
@@ -6058,7 +6049,7 @@ is property divisible amongst the creditors of the bankrupt.
 
                             (iii)  is identified by an order made by the Court on an application by the bankrupt;
 
-                    (ca)  property used by the bankrupt primarily as a means of transport, being property whose aggregate value does not exceed the amount prescribed by the regulations or, if before the trustee realises the last‑mentioned property the creditors determine by resolution a greater amount in relation to that property, that greater amount;
+                    (ca)  property used by the bankrupt primarily as a means of transport, being property whose aggregate value does not exceed the amount prescribed by the regulations or, if before the trustee realises the last-mentioned property the creditors determine by resolution a greater amount in relation to that property, that greater amount;
 
                      (d)  subject to sections 128B, 128C and 139ZU:
 
@@ -6108,9 +6099,9 @@ Note:       See also subsection 5(6).
 
                     (m)  prescribed amounts paid to the bankrupt under a rural support scheme prescribed for the purposes of this paragraph;
 
-                  (ma)  prescribed amounts paid to the bankrupt under a rural support scheme prescribed for the purposes of this paragraph, where the amounts are paid in circumstances prescribed for the purposes of this paragraph;
+                   (ma)  prescribed amounts paid to the bankrupt under a rural support scheme prescribed for the purposes of this paragraph, where the amounts are paid in circumstances prescribed for the purposes of this paragraph;
 
-                  (mb)  amounts paid to the bankrupt by the Commonwealth as compensation in relation to the loss of:
+                   (mb)  amounts paid to the bankrupt by the Commonwealth as compensation in relation to the loss of:
 
                               (i)  an amount covered by paragraph (k), (l), (m) or (ma); or
 
@@ -6168,7 +6159,7 @@ the trustee shall pay to the bankrupt so much of the proceeds of realising that 
 
                      (b)  exempt loan money in relation to that time.
 
-          (2E)  Nothing in this Act or the _Legislative Instruments Act 2003_ prevents regulations made for the purposes of paragraph (2)(k), (l), (m) or (ma) from applying to amounts paid before the regulations take effect.
+           (2E)  Nothing in this Act or the _Legislative Instruments Act 2003_ prevents regulations made for the purposes of paragraph (2)(k), (l), (m) or (ma) from applying to amounts paid before the regulations take effect.
 
            (2F)  Regulations made for the purposes of paragraph (2)(k), (l), (m) or (ma) may make provision in relation to a matter by applying, adopting or incorporating any matter contained in an instrument or other writing as in force or existing from time to time.
 
@@ -6701,9 +6692,9 @@ if:
 
              (1)  Notwithstanding anything contained in this Act, a payment of money or delivery of property (including a security or a negotiable instrument) to, or in accordance with the order or direction of, a person who becomes, or has become, a bankrupt or a person claiming by assignment from him or her is a good discharge to the person paying the money or delivering the property:
 
-                     (a)  if, in the case of a payment or delivery made before the day on which the first‑mentioned person becomes a bankrupt—it is made in good faith and in the ordinary course of business; or
+                     (a)  if, in the case of a payment or delivery made before the day on which the first-mentioned person becomes a bankrupt—it is made in good faith and in the ordinary course of business; or
 
-                     (b)  if, in the case of a payment or delivery made on or after the day on which the first‑mentioned person became a bankrupt—it is made in good faith, in the ordinary course of business and without negligence.
+                     (b)  if, in the case of a payment or delivery made on or after the day on which the first-mentioned person became a bankrupt—it is made in good faith, in the ordinary course of business and without negligence.
 
              (2)  The burden of proving the matters referred to in subsection (1) lies upon the person who relies on the validity of the payment or delivery of property.
 
@@ -6725,17 +6716,17 @@ if:
 
                     <a name="bank"></a>**_bank_** means an ADI or any other bank.
 
-                    <a name="co-oper-societi"></a>**_co‑operative society_** means:
+                    <a name="co-oper-societi"></a>**_co-operative society_** means:
 
-                     (a)  a society registered or incorporated as a co‑operative housing society under a law of a State or Territory; or
+                     (a)  a society registered or incorporated as a co-operative housing society under a law of a State or Territory; or
 
-                     (b)  any other society whose principal business consists of borrowing moneys from its members and lending those moneys to its members and that is registered or incorporated under a law of a State or Territory relating to co‑operative societies.
+                     (b)  any other society whose principal business consists of borrowing moneys from its members and lending those moneys to its members and that is registered or incorporated under a law of a State or Territory relating to co-operative societies.
 
-                    <a name="prescrib-organ"></a>**_prescribed organization_** means a bank, a co‑operative society or any other financial organization of a kind prescribed by the regulations for the purposes of this definition. 
+                    <a name="prescrib-organ"></a>**_prescribed organization_** means a bank, a co-operative society or any other financial organization of a kind prescribed by the regulations for the purposes of this definition. 
 
                     <a name="supervis-account"></a>**_supervised account_** has the meaning given by section 139ZIB.
 
-##### <a id="126"></a>126  Dealings with undischarged bankrupt in respect of after‑acquired property [_see_ Table B]
+##### <a id="126"></a>126  Dealings with undischarged bankrupt in respect of after-acquired property [_see_ Table B]
 
              (1)  A transaction by a bankrupt with a person dealing with him or her in good faith and for valuable consideration in respect of property acquired by the bankrupt on or after the day on which he or she became a bankrupt is, if completed before any intervention by the trustee, valid against the trustee, and any estate or interest in that property which, by virtue of this Act, is vested in the trustee shall determine and pass in such manner and to such extent as is necessary for giving effect to the transaction.
 
@@ -6763,7 +6754,7 @@ if:
 
              (1)  Where a doubt arises as to the identity with a bankrupt of a person appearing in the title to any property, an intending or actual vendor, mortgagor or lessor of the property or applicant to bring land under the provisions of any law of the Commonwealth or of a State or Territory of the Commonwealth relating to title to land, or a resuming or constructing authority under any law of the Commonwealth or of a State or Territory of the Commonwealth may give to the trustee in the bankruptcy a notice containing particulars of the property in question and of the person whose identity with the bankrupt is in question, and a statement of his or her intention to sell, mortgage or lease, or complete a sale, mortgage or lease of, the property or to bring the property under the provisions of any law of the Commonwealth or of a State or Territory of the Commonwealth relating to title to land, or to pay compensation in respect of the resumption of the property, as the case may be.
 
-             (2)  The trustee may, within 3 months after the notice was given, file with the Registrar of Titles or Registrar‑General or other appropriate officer of the Commonwealth, or of the State or Territory concerned, a memorandum claiming the property in respect of which the notice was given.
+             (2)  The trustee may, within 3 months after the notice was given, file with the Registrar of Titles or Registrar-General or other appropriate officer of the Commonwealth, or of the State or Territory concerned, a memorandum claiming the property in respect of which the notice was given.
 
              (3)  If the trustee does not file a memorandum claiming the property in accordance with subsection (2), he or she is not entitled at a future time to assert his or her title to that property or to make any claim in respect of that property as against the vendor, mortgagor, lessor, applicant or the resuming or constructing authority, as the case may be, or a person claiming under or through the vendor, mortgagor, lessor or applicant.
 
@@ -6789,7 +6780,7 @@ are 2 types of recoverable contributions:</li>
 
                (a)     contributions made by a person who later becomes a bankrupt (see section 128B);
 
-              (b)     contributions made by a third party for the benefit of a person who later becomes a bankrupt (see section 128C).
+               (b)     contributions made by a third party for the benefit of a person who later becomes a bankrupt (see section 128C).
 
 <li class="BoxList" style="margin-left:21.25pt">•      Superannuation accounts may
 
@@ -6961,7 +6952,7 @@ Meaning of **transfer of property** and **market value**
 
              (3)  A section 139ZQ notice in relation to a transaction that, under section 128B or 128C, is void against the trustee of a bankrupt’s estate may be given even if the transaction occurred before the commencement of Part 2 of Schedule 1 to the _Bankruptcy Legislation Amendment (Superannuation Contributions) Act 2007_.
 
-##### <a id="128E"></a>128E  Superannuation account‑freezing notice
+##### <a id="128E"></a>128E  Superannuation account-freezing notice
 
 Scope
 
@@ -6977,11 +6968,11 @@ Scope
 
 Giving of freezing notice
 
-             (2)  The Official Receiver may, by written notice (a **_superannuation account‑freezing notice_**) given to the trustee of the eligible superannuation plan, direct the trustee of the plan not to:
+             (2)  The Official Receiver may, by written notice (a **_superannuation account-freezing notice_**) given to the trustee of the eligible superannuation plan, direct the trustee of the plan not to:
 
                      (a)  cash or debit; or
 
-                     (b)  permit the cashing, debiting, roll‑over, transfer or forfeiture of;
+                     (b)  permit the cashing, debiting, roll-over, transfer or forfeiture of;
 
 the whole or any part of the superannuation interest except:
 
@@ -7001,7 +6992,7 @@ the whole or any part of the superannuation interest except:
 
                       (j)  in such circumstances (if any) as are specified in the regulations.
 
-             (3)  The superannuation account‑freezing notice must set out the facts and circumstances because of which the Official Receiver considers that the Official Receiver has reasonable grounds to believe that:
+             (3)  The superannuation account-freezing notice must set out the facts and circumstances because of which the Official Receiver considers that the Official Receiver has reasonable grounds to believe that:
 
                      (a)  the transaction is void against the trustee of the bankrupt’s estate under section 128B or 128C; and
 
@@ -7013,7 +7004,7 @@ the whole or any part of the superannuation interest except:
 
 When Official Receiver may give freezing notice
 
-             (4)  The Official Receiver may give the superannuation account‑freezing notice:
+             (4)  The Official Receiver may give the superannuation account-freezing notice:
 
                      (a)  if the Official Trustee is the trustee of the bankrupt’s estate—on the initiative of the Official Receiver; or
 
@@ -7021,15 +7012,15 @@ When Official Receiver may give freezing notice
 
 When freezing notice comes into force
 
-             (5)  The superannuation account‑freezing notice comes into force when the notice is given to the trustee of the eligible superannuation plan.
+             (5)  The superannuation account-freezing notice comes into force when the notice is given to the trustee of the eligible superannuation plan.
 
-##### <a id="128F"></a>128F  Revocation of superannuation account‑freezing notice
+##### <a id="128F"></a>128F  Revocation of superannuation account-freezing notice
 
 Revocation of freezing notice by Official Receiver
 
-             (1)  If a superannuation account‑freezing notice is in force in relation to a member of an eligible superannuation plan, the Official Receiver may, by written notice given to the trustee of the plan, revoke the superannuation account‑freezing notice.
+             (1)  If a superannuation account-freezing notice is in force in relation to a member of an eligible superannuation plan, the Official Receiver may, by written notice given to the trustee of the plan, revoke the superannuation account-freezing notice.
 
-             (2)  The Official Receiver may revoke a superannuation account‑freezing notice that relates to a member of an eligible superannuation plan:
+             (2)  The Official Receiver may revoke a superannuation account-freezing notice that relates to a member of an eligible superannuation plan:
 
                      (a)  if the Official Trustee is the trustee of the bankrupt’s estate—on the initiative of the Official Receiver; or
 
@@ -7041,11 +7032,11 @@ Revocation of freezing notice when section 139ZQ notice complied with etc.
 
              (3)  If:
 
-                     (a)  subparagraph 128E(1)(b)(i) applied in relation to a superannuation account‑freezing notice given in relation to a member of an eligible superannuation plan; and
+                     (a)  subparagraph 128E(1)(b)(i) applied in relation to a superannuation account-freezing notice given in relation to a member of an eligible superannuation plan; and
 
-                     (b)  during the 180‑day period after the superannuation account‑freezing notice comes into force, a section 139ZQ notice is given in relation to the transaction referred to in paragraph 128E(1)(a);
+                     (b)  during the 180-day period after the superannuation account-freezing notice comes into force, a section 139ZQ notice is given in relation to the transaction referred to in paragraph 128E(1)(a);
 
-the superannuation account‑freezing notice is revoked:
+the superannuation account-freezing notice is revoked:
 
                      (c)  when the trustee of the plan complies with the section 139ZQ notice; or
 
@@ -7055,7 +7046,7 @@ the superannuation account‑freezing notice is revoked:
 
 Revocation of freezing notice if no section 139ZQ notice given after 180 days
 
-             (4)  If subparagraph 128E(1)(b)(i) applied in relation to a superannuation account‑freezing notice given in relation to a member of an eligible superannuation plan, the superannuation account‑freezing notice is revoked if:
+             (4)  If subparagraph 128E(1)(b)(i) applied in relation to a superannuation account-freezing notice given in relation to a member of an eligible superannuation plan, the superannuation account-freezing notice is revoked if:
 
                      (a)  180 days pass after the notice comes into force; and
 
@@ -7065,11 +7056,11 @@ Revocation of freezing notice when section 139ZU order complied with etc.
 
              (5)  If:
 
-                     (a)  subparagraph 128E(1)(b)(ii) applied in relation to a superannuation account‑freezing notice given in relation to a member of an eligible superannuation plan; and
+                     (a)  subparagraph 128E(1)(b)(ii) applied in relation to a superannuation account-freezing notice given in relation to a member of an eligible superannuation plan; and
 
-                     (b)  during the 180‑day period after the superannuation account‑freezing notice comes into force, a section 139ZU order is made in relation to the transaction referred to in paragraph 128E(1)(a) and in relation to the member’s superannuation interest;
+                     (b)  during the 180-day period after the superannuation account-freezing notice comes into force, a section 139ZU order is made in relation to the transaction referred to in paragraph 128E(1)(a) and in relation to the member’s superannuation interest;
 
-the superannuation account‑freezing notice is revoked:
+the superannuation account-freezing notice is revoked:
 
                      (c)  when the trustee of the plan complies with the section 139ZU order; or
 
@@ -7079,27 +7070,27 @@ Revocation of freezing notice when application for section 139ZU order dismiss
 
              (6)  If:
 
-                     (a)  subparagraph 128E(1)(b)(ii) applied in relation to a superannuation account‑freezing notice given in relation to a member of an eligible superannuation plan; and
+                     (a)  subparagraph 128E(1)(b)(ii) applied in relation to a superannuation account-freezing notice given in relation to a member of an eligible superannuation plan; and
 
-                     (b)  during the 180‑day period after the superannuation account‑freezing notice comes into force:
+                     (b)  during the 180-day period after the superannuation account-freezing notice comes into force:
 
                               (i)  the Court dismisses an application for a section 139ZU order in relation to the transaction referred to in paragraph 128E(1)(a) and in relation to the member’s superannuation interest; or
 
                              (ii)  an application for a section 139ZU order in relation to the transaction referred to in paragraph 128E(1)(a) and in relation to the member’s superannuation interest is withdrawn;
 
-the superannuation account‑freezing notice is revoked.
+the superannuation account-freezing notice is revoked.
 
 Revocation of freezing notice if no section 139ZU order made after 180 days
 
-             (7)  If subparagraph 128E(1)(b)(ii) applied in relation to a superannuation account‑freezing notice given in relation to a member of an eligible superannuation plan, the superannuation account‑freezing notice is revoked if:
+             (7)  If subparagraph 128E(1)(b)(ii) applied in relation to a superannuation account-freezing notice given in relation to a member of an eligible superannuation plan, the superannuation account-freezing notice is revoked if:
 
                      (a)  180 days pass after the notice comes into force; and
 
                      (b)  no section 139ZU order has been made in relation to the transaction referred to in paragraph 128E(1)(a) and in relation to the member’s superannuation interest.
 
-Extension of 180‑day period
+Extension of 180-day period
 
-             (8)  The Court may, on application by the Official Receiver, extend, or further extend, the 180‑day period referred to in subsection (5), (6) or (7).
+             (8)  The Court may, on application by the Official Receiver, extend, or further extend, the 180-day period referred to in subsection (5), (6) or (7).
 
              (9)  The Official Receiver may make an application under subsection (8):
 
@@ -7107,27 +7098,27 @@ Extension of 180‑day period
 
                      (b)  if a registered trustee is the trustee of the bankrupt’s estate—on application by the registered trustee.
 
-##### <a id="128G"></a>128G  Copy of superannuation account‑freezing notice to be given to trustee etc.
+##### <a id="128G"></a>128G  Copy of superannuation account-freezing notice to be given to trustee etc.
 
-             (1)  If the Official Receiver gives or revokes a superannuation account‑freezing notice that relates to a member of an eligible superannuation plan:
+             (1)  If the Official Receiver gives or revokes a superannuation account-freezing notice that relates to a member of an eligible superannuation plan:
 
-                     (a)  the Official Receiver must give 2 copies of the superannuation account‑freezing notice or the revocation notice, as the case may be, to the trustee of the bankrupt’s estate; and
+                     (a)  the Official Receiver must give 2 copies of the superannuation account-freezing notice or the revocation notice, as the case may be, to the trustee of the bankrupt’s estate; and
 
                      (b)  the trustee must give one of those copies to the member.
 
-             (2)  A failure to comply with subsection (1) does not affect the validity of the superannuation account‑freezing notice or the revocation notice, as the case may be.
+             (2)  A failure to comply with subsection (1) does not affect the validity of the superannuation account-freezing notice or the revocation notice, as the case may be.
 
 ##### <a id="128H"></a>128H  Consent of Official Receiver to the cashing etc. of a superannuation interest
 
 Scope
 
-             (1)  This section applies if a superannuation account‑freezing notice is in force in relation to a member’s superannuation interest.
+             (1)  This section applies if a superannuation account-freezing notice is in force in relation to a member’s superannuation interest.
 
 Consent
 
-             (2)  The member may apply in writing to the Official Receiver for the Official Receiver to consent to the cashing, debiting, roll‑over, transfer or forfeiture, in whole or in part, of the member’s superannuation interest.
+             (2)  The member may apply in writing to the Official Receiver for the Official Receiver to consent to the cashing, debiting, roll-over, transfer or forfeiture, in whole or in part, of the member’s superannuation interest.
 
-             (3)  If an application is made under subsection (2), the Official Receiver may, by written notice given to the trustee of the eligible superannuation plan concerned, consent to the cashing, debiting, roll‑over, transfer or forfeiture, in whole or in part, of the member’s superannuation interest.
+             (3)  If an application is made under subsection (2), the Official Receiver may, by written notice given to the trustee of the eligible superannuation plan concerned, consent to the cashing, debiting, roll-over, transfer or forfeiture, in whole or in part, of the member’s superannuation interest.
 
              (4)  A consent under subsection (3) may be:
 
@@ -7147,13 +7138,13 @@ Review of decisions
 
              (8)  The trustee of the bankrupt’s estate may apply to the Administrative Appeals Tribunal for review of a decision of the Official Receiver giving a consent under subsection (3).
 
-##### <a id="128J"></a>128J  Power of Court to set aside superannuation account‑freezing notice
+##### <a id="128J"></a>128J  Power of Court to set aside superannuation account-freezing notice
 
              (1)  If the Court, on application by:
 
-                     (a)  a person to whom a superannuation account‑freezing notice has been given; or
+                     (a)  a person to whom a superannuation account-freezing notice has been given; or
 
-                     (b)  the member whose superannuation interest is affected by a superannuation account‑freezing notice; or
+                     (b)  the member whose superannuation interest is affected by a superannuation account-freezing notice; or
 
                      (c)  any other interested person;
 
@@ -7169,11 +7160,11 @@ is satisfied that the Official Receiver did not have reasonable grounds to belie
 
 the Court may make an order setting aside the notice.
 
-             (2)  A superannuation account‑freezing notice that has been set aside is taken not to have been given.
+             (2)  A superannuation account-freezing notice that has been set aside is taken not to have been given.
 
-##### <a id="128K"></a>128K  Judicial enforcement of superannuation account‑freezing notices
+##### <a id="128K"></a>128K  Judicial enforcement of superannuation account-freezing notices
 
-             (1)  If the Court is satisfied that the trustee of an eligible superannuation plan has breached, or is proposing to breach, a superannuation account‑freezing notice, the Court may, on application of the trustee of the relevant bankrupt’s estate, make any or all of the following orders:
+             (1)  If the Court is satisfied that the trustee of an eligible superannuation plan has breached, or is proposing to breach, a superannuation account-freezing notice, the Court may, on application of the trustee of the relevant bankrupt’s estate, make any or all of the following orders:
 
                      (a)  an order directing the trustee of the plan to comply with that notice;
 
@@ -7189,9 +7180,9 @@ the Court may make an order setting aside the notice.
 
              (1)  No criminal or civil proceedings lie against the trustee of an eligible superannuation plan because of anything done (or not done) by the trustee in good faith:
 
-                     (a)  in compliance with a superannuation account‑freezing notice; or
+                     (a)  in compliance with a superannuation account-freezing notice; or
 
-                     (b)  in connection with, or incidental to, the trustee’s compliance with a superannuation account‑freezing notice; or
+                     (b)  in connection with, or incidental to, the trustee’s compliance with a superannuation account-freezing notice; or
 
                      (c)  in compliance with a section 139ZQ notice; or
 
@@ -7211,9 +7202,9 @@ the Court may make an order setting aside the notice.
 
              (2)  Anything done (or not done) by the trustee of a regulated superannuation fund, or the trustee of an approved deposit fund, in good faith:
 
-                     (a)  in compliance with a superannuation account‑freezing notice; or
+                     (a)  in compliance with a superannuation account-freezing notice; or
 
-                     (b)  in connection with, or incidental to, the trustee’s compliance with a superannuation account‑freezing notice; or
+                     (b)  in connection with, or incidental to, the trustee’s compliance with a superannuation account-freezing notice; or
 
                      (c)  in compliance with a section 139ZQ notice; or
 
@@ -7239,9 +7230,9 @@ is taken not to be in breach of:
 
              (3)  Anything done (or not done) by an RSA provider in good faith:
 
-                     (a)  in compliance with a superannuation account‑freezing notice; or
+                     (a)  in compliance with a superannuation account-freezing notice; or
 
-                     (b)  in connection with, or incidental to, the RSA provider’s compliance with a superannuation account‑freezing notice; or
+                     (b)  in connection with, or incidental to, the RSA provider’s compliance with a superannuation account-freezing notice; or
 
                      (c)  in compliance with a section 139ZQ notice; or
 
@@ -7339,7 +7330,7 @@ do not imply that the bankrupt may not be the member.
 
                      (b)  any scheme, plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise.
 
-                    <a name="superannu-account-freez-notic"></a>**_superannuation account‑freezing notice_** means a notice under section 128E.
+                    <a name="superannu-account-freez-notic"></a>**_superannuation account-freezing notice_** means a notice under section 128E.
 
                     <a name="superannu-interest"></a>**_superannuation interest_** means an interest in an eligible superannuation plan, but does not include a reversionary interest.
 
@@ -7397,7 +7388,7 @@ those moneys shall, upon demand by the trustee, be paid to the trustee notwithst
 
              (5)  A person who does not pay or deliver to the trustee any moneys or security that he or she is required by subsection (4) or (4A) so to pay or deliver is guilty of contempt of court.
 
-             (6)  If the person so failing to pay or deliver any moneys or security is a corporation, both the corporation and each officer of the corporation who is responsible for the non‑compliance are guilty of contempt of court.
+             (6)  If the person so failing to pay or deliver any moneys or security is a corporation, both the corporation and each officer of the corporation who is responsible for the non-compliance are guilty of contempt of court.
 
 ##### <a id="129AA"></a>129AA  Time limit for realising property
 
@@ -7405,7 +7396,7 @@ those moneys shall, upon demand by the trustee, be paid to the trustee notwithst
 
                      (a)  property (other than cash) that was disclosed in the bankrupt’s statement of affairs; and
 
-                     (b)  after‑acquired property (other than cash) that the bankrupt discloses in writing to the trustee within 14 days after the bankrupt becomes aware that the property devolved on, or was acquired by, the bankrupt.
+                     (b)  after-acquired property (other than cash) that the bankrupt discloses in writing to the trustee within 14 days after the bankrupt becomes aware that the property devolved on, or was acquired by, the bankrupt.
 
 In this subsection, **_cash_** includes amounts standing to the credit of a bank account or similar account.
 
@@ -7415,9 +7406,9 @@ In this subsection, **_cash_** includes amounts standing to the credit of a bank
 
                      (a)  for property disclosed in the statement of affairs—the beginning of the day that is the sixth anniversary of the day on which the bankrupt is discharged from the bankruptcy; and
 
-                     (b)  for after‑acquired property that is disclosed before the bankrupt is discharged from the bankruptcy—the beginning of the day that is the sixth anniversary of the day on which the bankrupt is discharged; and
+                     (b)  for after-acquired property that is disclosed before the bankrupt is discharged from the bankruptcy—the beginning of the day that is the sixth anniversary of the day on which the bankrupt is discharged; and
 
-                     (c)  for after‑acquired property that is disclosed after the bankrupt is discharged from the bankruptcy—the beginning of the day that is the sixth anniversary of the day on which the bankrupt disclosed the property to the trustee.
+                     (c)  for after-acquired property that is disclosed after the bankrupt is discharged from the bankruptcy—the beginning of the day that is the sixth anniversary of the day on which the bankrupt disclosed the property to the trustee.
 
              (4)  If the trustee, before the current revesting time, gives the bankrupt a written notice (an **_extension notice_**) stating that a later revesting time applies to particular property, then that later time becomes the **_revesting time_** for that property.
 
@@ -7493,7 +7484,7 @@ he or she has relied to justify the issue of the warrant.
 
                      (c)  may retain possession of the books for such period as is necessary to enable the books to be inspected, and copies of, or extracts from, the books to be made or taken, by or on behalf of the trustee; and
 
-                     (d)  during that period shall permit a person who would be entitled to inspect any one or more of those books if they were not in the possession of the first‑mentioned person or the other person to inspect at all reasonable times such of those books as that person would be so entitled to inspect.
+                     (d)  during that period shall permit a person who would be entitled to inspect any one or more of those books if they were not in the possession of the first-mentioned person or the other person to inspect at all reasonable times such of those books as that person would be so entitled to inspect.
 
              (8)  The powers conferred by this section are in addition to, and not in derogation of, any other powers conferred by law.
 
@@ -7515,7 +7506,7 @@ he or she has relied to justify the issue of the warrant.
 
 subsection (1) applies.
 
-       (1AB)  Where:
+        (1AB)  Where:
 
                      (a)  any part of the property of the bankrupt consists of property, being neither land nor an interest in land; and
 
@@ -7533,7 +7524,7 @@ subsection (1) applies.
 
              (4)  A trustee is not entitled to disclaim a lease without the leave of the Court unless:
 
-                     (a)  the trustee has given to the lessor and, if the bankrupt has sub‑let the whole or any part of the leased property or has mortgaged the lease, to each sub‑lessee or mortgagee, 28 days’ written notice of his or her intention to disclaim the lease; and
+                     (a)  the trustee has given to the lessor and, if the bankrupt has sub-let the whole or any part of the leased property or has mortgaged the lease, to each sub-lessee or mortgagee, 28 days’ written notice of his or her intention to disclaim the lease; and
 
                      (b)  no person to whom the trustee has given such a notice has, within 28 days after it was given to the person, by written notice given to the trustee, required the trustee to apply to the Court for leave to disclaim the lease.
 
@@ -7563,7 +7554,7 @@ as the Court considers just and equitable.
 
 the trustee is not entitled to disclaim the property under this section and, in the case of a contract, he or she shall be deemed to have adopted it.
 
-             (7)  The Court may, on the application of a person who is, as against the trustee, entitled to the benefit or subject to the burden of a contract made with the bankrupt, make an order rescinding the contract on such terms as to payment by or to either party of damages for the non‑performance of the contract, or otherwise, as the Court considers just and equitable.
+             (7)  The Court may, on the application of a person who is, as against the trustee, entitled to the benefit or subject to the burden of a contract made with the bankrupt, make an order rescinding the contract on such terms as to payment by or to either party of damages for the non-performance of the contract, or otherwise, as the Court considers just and equitable.
 
              (8)  Damages so payable may be proved as a debt in the bankruptcy.
 
@@ -7595,17 +7586,17 @@ the property, notwithstanding that it vests in equity in the person named in the
 
                     (aa)  accept, without terms or conditions, or subject to terms and conditions, a sum of money payable at a future time as the consideration or part of the consideration for the sale of any property of the bankrupt;
 
-                   (ab)  lease any property of the bankrupt;
+                    (ab)  lease any property of the bankrupt;
 
                     (ac)  divide among the creditors, in its existing form and according to its estimated value, property that, by reason of its peculiar nature or other special circumstances, cannot readily or advantageously be sold;
 
                      (b)  carry on a business of the bankrupt so far as may be necessary to dispose of it or wind it up for the benefit of creditors;
 
-                     (c)  postpone the winding‑up of the estate;
+                     (c)  postpone the winding-up of the estate;
 
                      (d)  prove in respect of any debt due to the bankrupt;
 
-                   (da)  mortgage or charge any of the property of the bankrupt for the purpose of raising money for the payment of the debts provable in the bankruptcy;
+                    (da)  mortgage or charge any of the property of the bankrupt for the purpose of raising money for the payment of the debts provable in the bankruptcy;
 
                      (e)  compromise any debt claimed to be due to the bankrupt or any claim by the bankrupt;
 
@@ -7617,7 +7608,7 @@ the property, notwithstanding that it vests in equity in the person named in the
 
                       (i)  obtain such advice or assistance as he or she considers desirable relating to the administration of the estate or to the conduct or affairs of the bankrupt;
 
-                    (ia)  refer any dispute to arbitration;
+                     (ia)  refer any dispute to arbitration;
 
                       (j)  bring, institute or defend any action or other legal proceeding relating to the administration of the estate;
 
@@ -7633,7 +7624,7 @@ the property, notwithstanding that it vests in equity in the person named in the
 
                             and, in consideration of the bankrupt’s services, make such allowance to the bankrupt out of the estate as the trustee considers reasonable;
 
-                  (ma)  make such allowance out of the estate as he or she thinks just to the bankrupt, the spouse or de facto partner of the bankrupt or the family of the bankrupt;
+                   (ma)  make such allowance out of the estate as he or she thinks just to the bankrupt, the spouse or de facto partner of the bankrupt or the family of the bankrupt;
 
 Note:       See also subsection 5(6).
 
@@ -7820,7 +7811,7 @@ the Court may make an order of a kind referred to in subsections 139D(2) and (3)
 
                              (ii)  the remuneration in money or other property that the bankrupt received for those services was substantially less in amount or value than a person supplying those services in similar circumstances might reasonably be expected to have received if the person had dealt with the entity at arm’s length in relation to the supply of those services; and
 
-                     (c)  the entity’s net worth at a particular time during the examinable period exceeded by a substantial amount what might reasonably be expected to have been the entity’s net worth at the last‑mentioned time if those services had not been supplied;
+                     (c)  the entity’s net worth at a particular time during the examinable period exceeded by a substantial amount what might reasonably be expected to have been the entity’s net worth at the last-mentioned time if those services had not been supplied;
 
 subsection (2) has effect.
 
@@ -7880,7 +7871,7 @@ the Court may, by order, appoint the Registrar:
 
              (1)  Where, on an application under section 139A, the Court makes an order under section 139D or 139DA vesting in the applicant an estate in property, or an order under section 139E or 139EA directing the payment of a specified amount to the applicant, the respondent entity may claim for dividend in the bankruptcy in respect of the value of that property as at the making of the order, or in respect of the specified amount, as the case may be.
 
-             (2)  A claim under subsection (1) shall be postponed until all claims of the other creditors (including claims for interest on interest‑bearing debts in respect of a period after the date of the bankruptcy but not including claims under subsection 120(4)) have been satisfied.
+             (2)  A claim under subsection (1) shall be postponed until all claims of the other creditors (including claims for interest on interest-bearing debts in respect of a period after the date of the bankruptcy but not including claims under subsection 120(4)) have been satisfied.
 
 ### Division 4B—Contribution by bankrupt and recovery of property
 
@@ -7918,7 +7909,7 @@ the Court may, by order, appoint the Registrar:
 
                     <a name="base-incom-threshold-amount"></a>**_base income threshold amount_**, at the time when an assessment is made in relation to a contribution assessment period, means:
 
-                     (a)  for a contribution assessment period of one year—3.5 times the amount that, at that time, is specified in column 3, item 2, Table B, point 1064‑B1, Pension Rate Calculator A, in the _Social Security Act 1991_; or
+                     (a)  for a contribution assessment period of one year—3.5 times the amount that, at that time, is specified in column 3, item 2, Table B, point 1064-B1, Pension Rate Calculator A, in the _Social Security Act 1991_; or
 
                      (b)  for a contribution assessment period less than one year—a proportionally smaller amount based on the number of whole days in the period.
 
@@ -7986,7 +7977,7 @@ For the purposes of this definition, **_income_** has its ordinary meaning.
 
                                         (B)  a loan that is not enforceable at law or in equity;
 
-                           (vii)  the amount of any money, or the value of any other consideration, received by a person other than the bankrupt from another person as a result of work done or services performed by the bankrupt, less any expenses (other than expenses of a capital nature) necessarily incurred by the first‑mentioned person in connection with the work or services;
+                           (vii)  the amount of any money, or the value of any other consideration, received by a person other than the bankrupt from another person as a result of work done or services performed by the bankrupt, less any expenses (other than expenses of a capital nature) necessarily incurred by the first-mentioned person in connection with the work or services;
 
                      (b)  the following are not income in relation to a bankrupt (even if they come within the ordinary meaning of “income”):
 
@@ -8000,7 +7991,7 @@ For the purposes of this definition, **_income_** has its ordinary meaning.
 
                                         (A)  a legal aid scheme or service established under a law of the Commonwealth or of a State or Territory of the Commonwealth; or
 
-                                        (B)  a legal aid scheme or service approved by the Attorney‑General for the purposes of paragraph 2(4)(a) of the Federal Court of Australia Regulations; or
+                                        (B)  a legal aid scheme or service approved by the Attorney-General for the purposes of paragraph 2(4)(a) of the Federal Court of Australia Regulations; or
 
                                         (C)  any other legal aid scheme or service established to provide assistance to people on low incomes;
 
@@ -8070,7 +8061,7 @@ Note:          Subdivision HA deals with the supervised accoun
 
                    The contribution that a bankrupt is liable to pay in respect of a contribution assessment period is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00266/Html/7e373821-0a49-4603-a107-0780844d0310_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00789/Html/Bankruptcy1966_WD02_image002.gif)
 
                     where:
 
@@ -8090,9 +8081,9 @@ the bankrupt may apply in writing to the trustee for the making of a determinati
 
              (2)  The reasons are as follows:
 
-                     (a)  the bankrupt or a dependant of the bankrupt suffers from an illness or disability that requires on‑going medical attention and the supply of medicines, and the bankrupt is required to meet a substantial proportion of the costs of that medical attention or those medicines from his or her income;
+                     (a)  the bankrupt or a dependant of the bankrupt suffers from an illness or disability that requires on-going medical attention and the supply of medicines, and the bankrupt is required to meet a substantial proportion of the costs of that medical attention or those medicines from his or her income;
 
-                     (b)  the bankrupt is required to make payments from his or her income to meet the cost of child day‑care to enable the bankrupt to continue in employment or other work;
+                     (b)  the bankrupt is required to make payments from his or her income to meet the cost of child day-care to enable the bankrupt to continue in employment or other work;
 
                      (c)  the bankrupt is living in rented accommodation that is not provided by:
 
@@ -8130,7 +8121,7 @@ the bankrupt may apply in writing to the trustee for the making of a determinati
 
                      (c)  giving the reasons for the decision.
 
-           (10)  The notice must include a statement to the effect that the bankrupt may request the Inspector‑General to review the decision.
+           (10)  The notice must include a statement to the effect that the bankrupt may request the Inspector-General to review the decision.
 
            (11)  A contravention of subsection (10) in relation to a decision does not affect the validity of the decision.
 
@@ -8162,7 +8153,7 @@ the bankrupt may apply in writing to the trustee for the making of a determinati
 
                      (a)  if the bankrupt received from his or her employer one or more pay slips or other documents evidencing salary or wages paid to him or her by that employer during that period—that document or each of those documents; and
 
-                     (b)  any copy of a group certificate or payment summary (within the meaning of section 16‑170 in Schedule 1 to the _Taxation Administration Act 1953_) in the possession of the bankrupt that relates in whole or in part to that period; and
+                     (b)  any copy of a group certificate or payment summary (within the meaning of section 16-170 in Schedule 1 to the _Taxation Administration Act 1953_) in the possession of the bankrupt that relates in whole or in part to that period; and
 
                      (c)  any statement provided to the bankrupt by an ADI or other financial institution that shows periodic payments made during that period to an account kept by the bankrupt (either alone or jointly with any other person) with that institution; and
 
@@ -8248,21 +8239,21 @@ then, for the purpose of making an assessment, the trustee may determine that th
 
 but the trustee has reasonable grounds for believing that the bankrupt is likely to derive, or derived, income, or income of that class, during that period, then, for the purpose of making an assessment, the trustee may determine that the bankrupt is likely to derive, or derived, income, or income of that class, during that period and may also determine the amount of that income.
 
-             (2)  Without limiting the matters that a trustee may take into account for the purpose of making an assessment as mentioned in subsection (1) in respect of a contribution assessment period, the trustee may have regard to any employment or other work or other income‑producing activities that were engaged in by the bankrupt before that period and may determine whether the bankrupt is likely to engage, or to have engaged, in similar employment, work or other income‑producing activities during that period. 
+             (2)  Without limiting the matters that a trustee may take into account for the purpose of making an assessment as mentioned in subsection (1) in respect of a contribution assessment period, the trustee may have regard to any employment or other work or other income-producing activities that were engaged in by the bankrupt before that period and may determine whether the bankrupt is likely to engage, or to have engaged, in similar employment, work or other income-producing activities during that period. 
 
 #### Subdivision G—Review of assessment
 
 ##### <a id="139ZA"></a>139ZA  Internal review of assessment
 
-             (1)  The Inspector‑General may review a decision of a trustee to make an assessment:
+             (1)  The Inspector-General may review a decision of a trustee to make an assessment:
 
-                     (a)  on the Inspector‑General’s own initiative; or
+                     (a)  on the Inspector-General’s own initiative; or
 
-                     (b)  if requested to do so by the bankrupt for reasons that appear to the Inspector‑General to be sufficient to justify such a review.
+                     (b)  if requested to do so by the bankrupt for reasons that appear to the Inspector-General to be sufficient to justify such a review.
 
-             (2)  The Inspector‑General must review such a decision if requested to do so by the Ombudsman.
+             (2)  The Inspector-General must review such a decision if requested to do so by the Ombudsman.
 
-             (3)  A request by the bankrupt to the Inspector‑General for the review of such a decision must:
+             (3)  A request by the bankrupt to the Inspector-General for the review of such a decision must:
 
                      (a)  be in writing and lodged with the Official Receiver’s office not later than 60 days after the day on which the bankrupt is notified of the trustee’s assessment; and
 
@@ -8272,41 +8263,41 @@ but the trustee has reasonable grounds for believing that the bankrupt is likely
 
                              (ii)  any documents on which the bankrupt relies in support of the request.
 
-             (4)  The Official Receiver must endorse on the request the date when it was lodged and must send the request and the accompanying documents to the Inspector‑General as soon as practicable after they are received.
+             (4)  The Official Receiver must endorse on the request the date when it was lodged and must send the request and the accompanying documents to the Inspector-General as soon as practicable after they are received.
 
-             (5)  Within 60 days after the request is lodged, the Inspector‑General must:
+             (5)  Within 60 days after the request is lodged, the Inspector-General must:
 
                      (a)  decide whether to review the decision; and
 
-                     (b)  if the Inspector‑General decides to review the decision—make his or her decision on the review.
+                     (b)  if the Inspector-General decides to review the decision—make his or her decision on the review.
 
-##### <a id="139ZC"></a>139ZC  Inspector‑General may request further information
+##### <a id="139ZC"></a>139ZC  Inspector-General may request further information
 
-             (1)  For the purposes of the exercise of powers under this Subdivision, the Inspector‑General may:
+             (1)  For the purposes of the exercise of powers under this Subdivision, the Inspector-General may:
 
-                     (a)  ask the bankrupt to provide such further information, either orally or in writing, in support of the request as the Inspector‑General specifies; and
+                     (a)  ask the bankrupt to provide such further information, either orally or in writing, in support of the request as the Inspector-General specifies; and
 
-                     (b)  ask the trustee to provide such information, either orally or in writing, about the decision to make the assessment and the reasons for the decision as the Inspector‑General specifies.
+                     (b)  ask the trustee to provide such information, either orally or in writing, about the decision to make the assessment and the reasons for the decision as the Inspector-General specifies.
 
-             (2)  If any information is provided orally, the Inspector‑General must record it in writing.
+             (2)  If any information is provided orally, the Inspector-General must record it in writing.
 
 ##### <a id="139ZD"></a>139ZD  Decision on review
 
-                   On a review of a decision, the Inspector‑General has all the powers of the trustee and may either:
+                   On a review of a decision, the Inspector-General has all the powers of the trustee and may either:
 
                      (a)  confirm the decision; or
 
                      (b)  set aside the decision and make a fresh assessment under subsection 139W(2).
 
-##### <a id="139ZE"></a>139ZE  Inspector‑General to notify bankrupt and trustee of decision
+##### <a id="139ZE"></a>139ZE  Inspector-General to notify bankrupt and trustee of decision
 
-             (1)  If the Inspector‑General:
+             (1)  If the Inspector-General:
 
                      (a)  reviews a decision; or
 
                      (b)  refuses a request by a bankrupt for a review of a decision;
 
-the Inspector‑General must give written notice to the bankrupt, to the trustee and to the Official Receiver, of the Inspector‑General’s decision on the review or on the request, as the case may be.
+the Inspector-General must give written notice to the bankrupt, to the trustee and to the Official Receiver, of the Inspector-General’s decision on the review or on the request, as the case may be.
 
              (2)  The notice must:
 
@@ -8316,25 +8307,25 @@ the Inspector‑General must give written notice to the bankrupt, to the trustee
 
                      (c)  give the reasons for the decision.
 
-             (3)  In the case of a decision reviewing the trustee’s decision to make an assessment, the notice must also include a statement to the effect that, if the bankrupt or the trustee, is dissatisfied with the Inspector‑General’s decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Administrative Appeals Tribunal for review of the decision.
+             (3)  In the case of a decision reviewing the trustee’s decision to make an assessment, the notice must also include a statement to the effect that, if the bankrupt or the trustee, is dissatisfied with the Inspector-General’s decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Administrative Appeals Tribunal for review of the decision.
 
-             (4)  In the case of a decision refusing a request to review the trustee’s decision to make an assessment, the notice to the bankrupt must also include a statement to the effect that, if the bankrupt is dissatisfied with the Inspector‑General’s decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Administrative Appeals Tribunal for a review of the decision.
+             (4)  In the case of a decision refusing a request to review the trustee’s decision to make an assessment, the notice to the bankrupt must also include a statement to the effect that, if the bankrupt is dissatisfied with the Inspector-General’s decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Administrative Appeals Tribunal for a review of the decision.
 
              (5)  A contravention of subsection (3) or (4) in relation to a decision does not affect the validity of the decision.
 
-             (6)  If, within 60 days after lodgment of a request by a bankrupt for the review of the trustee’s decision to make an assessment, the Inspector‑General has not given written notice to the bankrupt of his or her decision in accordance with subsection (1), the Inspector‑General is taken to have reviewed the trustee’s decision and confirmed it under paragraph 139ZD(a).
+             (6)  If, within 60 days after lodgment of a request by a bankrupt for the review of the trustee’s decision to make an assessment, the Inspector-General has not given written notice to the bankrupt of his or her decision in accordance with subsection (1), the Inspector-General is taken to have reviewed the trustee’s decision and confirmed it under paragraph 139ZD(a).
 
-             (7)  If the Inspector‑General makes a fresh assessment, the Inspector‑General must, as soon as practicable, give to the bankrupt written notice setting out particulars of the fresh assessment.
+             (7)  If the Inspector-General makes a fresh assessment, the Inspector-General must, as soon as practicable, give to the bankrupt written notice setting out particulars of the fresh assessment.
 
-             (8)  This Division, apart from this Subdivision, applies to an assessment made by the Inspector‑General as if it had been made by the trustee under subsection 139W(2).
+             (8)  This Division, apart from this Subdivision, applies to an assessment made by the Inspector-General as if it had been made by the trustee under subsection 139W(2).
 
 ##### <a id="139ZF"></a>139ZF  Review of assessment decisions
 
                    An application may be made to the Administrative Appeals Tribunal for the review of:
 
-                     (a)  a decision of the Inspector‑General on the review of a decision by a trustee to make an assessment; or
+                     (a)  a decision of the Inspector-General on the review of a decision by a trustee to make an assessment; or
 
-                     (b)  a decision by the Inspector‑General refusing a request to review a decision by a trustee to make an assessment.
+                     (b)  a decision by the Inspector-General refusing a request to review a decision by a trustee to make an assessment.
 
 #### Subdivision H—When contribution payable
 
@@ -8346,9 +8337,9 @@ the Inspector‑General must give written notice to the bankrupt, to the trustee
 
                      (a)  the making of an application by the person to the trustee under subsection 139T(1); or
 
-                     (b)  the making by the person of a request to the Inspector‑General for a review of the decision of the trustee to make the assessment that gave rise to the liability; or
+                     (b)  the making by the person of a request to the Inspector-General for a review of the decision of the trustee to make the assessment that gave rise to the liability; or
 
-                     (c)  the making of an application to the Administrative Appeals Tribunal for review of the decision of the Inspector‑General.
+                     (c)  the making of an application to the Administrative Appeals Tribunal for review of the decision of the Inspector-General.
 
              (3)  The total of any contributions or instalments that are not paid by the bankrupt is recoverable by the trustee as a debt due to the estate of the bankrupt.
 
@@ -8418,7 +8409,7 @@ the person is not entitled to a refund of the amount paid or of the excess, as t
 
                      (b)  omit to perform an act.
 
-                    <a name="non-monetari-incom-receipt-arrang"></a>**_non‑monetary income receipt arrangement_** means an arrangement the effect of which is that income derived by a bankrupt is not actually received by the bankrupt in monetary form because it is derived in a non‑monetary form.
+                    <a name="non-monetari-incom-receipt-arrang"></a>**_non-monetary income receipt arrangement_** means an arrangement the effect of which is that income derived by a bankrupt is not actually received by the bankrupt in monetary form because it is derived in a non-monetary form.
 
                     <a name="review-decision"></a>**_reviewable decision_** means a decision of the trustee of a bankrupt’s estate:
 
@@ -8564,7 +8555,7 @@ Supervised account notice
 
                            (vii)  deposits may be made to, and withdrawals may be made from, the account;
 
-                          (viii)  the account is designed not to have a debit balance;
+                           (viii)  the account is designed not to have a debit balance;
 
                             (ix)  such other requirements (if any) as are specified in the notice; and
 
@@ -8606,7 +8597,7 @@ Offence
 
                      (c)  the person’s conduct breaches the requirement.
 
-                    Penalty for contravention of this subsection:                    Imprisonment for 6 months.
+                    Penalty for contravention of this subsection:             Imprisonment for 6 months.
 
 ##### <a id="139ZIEA"></a>139ZIEA  New supervised account
 
@@ -8646,7 +8637,7 @@ Offence
 
                      (c)  the person’s conduct breaches the requirement.
 
-                    Penalty for contravention of this subsection:                    Imprisonment for 6 months.
+                    Penalty for contravention of this subsection:             Imprisonment for 6 months.
 
 ##### <a id="139ZIF"></a>139ZIF  Bankrupt’s monetary income to be deposited to supervised account
 
@@ -8684,7 +8675,7 @@ Offence
 
                      (c)  the person’s conduct breaches the requirement.
 
-                    Penalty for contravention of this subsection:                    Imprisonment for 12 months.
+                    Penalty for contravention of this subsection:             Imprisonment for 12 months.
 
 ##### <a id="139ZIG"></a>139ZIG  Trustee to supervise withdrawals from supervised account
 
@@ -8756,7 +8747,7 @@ Garnishee powers not affected
 
                      (a)  section 139ZL of this Act; or
 
-                     (b)  section 260‑5 in Schedule 1 to the _Taxation Administration Act 1953_; or
+                     (b)  section 260-5 in Schedule 1 to the _Taxation Administration Act 1953_; or
 
                      (c)  a similar provision in:
 
@@ -8814,21 +8805,21 @@ Offence
 
                      (c)  the person’s conduct breaches the requirement.
 
-                    Penalty for contravention of this subsection:                    Imprisonment for 12 months.
+                    Penalty for contravention of this subsection:             Imprisonment for 12 months.
 
-##### <a id="139ZIHA"></a>139ZIHA  Non‑monetary income receipt arrangements
+##### <a id="139ZIHA"></a>139ZIHA  Non-monetary income receipt arrangements
 
 Bankrupt not to enter into new arrangements
 
-             (1)  A bankrupt to whom the supervised account regime applies must not enter into a non‑monetary income receipt arrangement.
+             (1)  A bankrupt to whom the supervised account regime applies must not enter into a non-monetary income receipt arrangement.
 
-             (2)  Subsection (1) does not apply if the bankrupt enters into the non‑monetary income receipt arrangement in accordance with the consent of the trustee under subsection (5).
+             (2)  Subsection (1) does not apply if the bankrupt enters into the non-monetary income receipt arrangement in accordance with the consent of the trustee under subsection (5).
 
 Bankrupt not to participate in existing arrangements
 
-             (3)  If a bankrupt was participating in a non‑monetary income receipt arrangement immediately before becoming a bankrupt to whom the supervised account regime applies, the bankrupt must, as soon as practicable after becoming such a bankrupt, cease to participate in the arrangement.
+             (3)  If a bankrupt was participating in a non-monetary income receipt arrangement immediately before becoming a bankrupt to whom the supervised account regime applies, the bankrupt must, as soon as practicable after becoming such a bankrupt, cease to participate in the arrangement.
 
-             (4)  Subsection (3) does not apply if the bankrupt continues to participate in the non‑monetary income receipt arrangement in accordance with the consent of the trustee under subsection (5).
+             (4)  Subsection (3) does not apply if the bankrupt continues to participate in the non-monetary income receipt arrangement in accordance with the consent of the trustee under subsection (5).
 
 Consent
 
@@ -8836,15 +8827,15 @@ Consent
 
                      (a)  consent to the bankrupt entering into:
 
-                              (i)  a specified non‑monetary income receipt arrangement; or
+                              (i)  a specified non-monetary income receipt arrangement; or
 
-                             (ii)  non‑monetary income receipt arrangements included in a specified class of non‑monetary income receipt arrangements; or
+                             (ii)  non-monetary income receipt arrangements included in a specified class of non-monetary income receipt arrangements; or
 
                      (b)  consent to the bankrupt continuing to participate in:
 
-                              (i)  a specified non‑monetary income receipt arrangement; or
+                              (i)  a specified non-monetary income receipt arrangement; or
 
-                             (ii)  non‑monetary income receipt arrangements included in a specified class of non‑monetary income receipt arrangements.
+                             (ii)  non-monetary income receipt arrangements included in a specified class of non-monetary income receipt arrangements.
 
              (6)  The trustee may, by written notice given to the bankrupt, vary or revoke a consent.
 
@@ -8866,7 +8857,7 @@ Offence
 
                      (c)  the person’s conduct breaches the requirement.
 
-                    Penalty for contravention of this subsection:                    Imprisonment for 12 months.
+                    Penalty for contravention of this subsection:             Imprisonment for 12 months.
 
 ##### <a id="139ZII"></a>139ZII  Cash income
 
@@ -8902,7 +8893,7 @@ Offence
 
                      (c)  the person’s conduct breaches the requirement.
 
-                    Penalty for contravention of this subsection:                    Imprisonment for 12 months.
+                    Penalty for contravention of this subsection:             Imprisonment for 12 months.
 
 ##### <a id="139ZIIA"></a>139ZIIA  Keeping of books
 
@@ -8974,21 +8965,21 @@ Performance injunctions
 
                    The powers conferred on the Court under this Subdivision are in addition to, and not instead of, any other powers of the Court, whether conferred by this Act or otherwise.
 
-##### <a id="139ZIO"></a>139ZIO  Inspector‑General may review trustee’s decision
+##### <a id="139ZIO"></a>139ZIO  Inspector-General may review trustee’s decision
 
 Reviewable decisions
 
-             (1)  The Inspector‑General may review a reviewable decision:
+             (1)  The Inspector-General may review a reviewable decision:
 
-                     (a)  on the Inspector‑General’s own initiative; or
+                     (a)  on the Inspector-General’s own initiative; or
 
-                     (b)  if requested to do so by the bankrupt for reasons that appear to the Inspector‑General to be sufficient to justify doing so.
+                     (b)  if requested to do so by the bankrupt for reasons that appear to the Inspector-General to be sufficient to justify doing so.
 
-             (2)  The Inspector‑General must review a reviewable decision if requested to do so by the Ombudsman.
+             (2)  The Inspector-General must review a reviewable decision if requested to do so by the Ombudsman.
 
 Request by bankrupt
 
-             (3)  A request by the bankrupt to the Inspector‑General for the review of a reviewable decision must:
+             (3)  A request by the bankrupt to the Inspector-General for the review of a reviewable decision must:
 
                      (a)  be in writing and lodged with the Official Receiver’s office not later than 60 days after the day on which the decision first came to the notice of the bankrupt; and
 
@@ -9002,29 +8993,29 @@ Request by bankrupt
 
                      (a)  endorse on the request the date when it was lodged; and
 
-                     (b)  send the request and the accompanying documents to the Inspector‑General as soon as practicable after they are received.
+                     (b)  send the request and the accompanying documents to the Inspector-General as soon as practicable after they are received.
 
 Time limit for review
 
-             (5)  Within 60 days after the request is lodged, the Inspector‑General must:
+             (5)  Within 60 days after the request is lodged, the Inspector-General must:
 
                      (a)  decide whether to review the decision; and
 
-                     (b)  if the Inspector‑General decides to review the decision—make his or her decision on the review.
+                     (b)  if the Inspector-General decides to review the decision—make his or her decision on the review.
 
-##### <a id="139ZIP"></a>139ZIP  Inspector‑General may request further information
+##### <a id="139ZIP"></a>139ZIP  Inspector-General may request further information
 
-             (1)  For the purposes of the exercise of powers in relation to a review, or a request for a review, of a reviewable decision, the Inspector‑General may:
+             (1)  For the purposes of the exercise of powers in relation to a review, or a request for a review, of a reviewable decision, the Inspector-General may:
 
-                     (a)  ask the bankrupt to provide such further relevant information, either orally or in writing, as the Inspector‑General specifies; and
+                     (a)  ask the bankrupt to provide such further relevant information, either orally or in writing, as the Inspector-General specifies; and
 
-                     (b)  ask the trustee to provide such information, either orally or in writing, about the decision and the reasons for the decision as the Inspector‑General specifies.
+                     (b)  ask the trustee to provide such information, either orally or in writing, about the decision and the reasons for the decision as the Inspector-General specifies.
 
-             (2)  If any information is provided orally, the Inspector‑General must record it in writing.
+             (2)  If any information is provided orally, the Inspector-General must record it in writing.
 
-##### <a id="139ZIR"></a>139ZIR  Inspector‑General’s decision on review
+##### <a id="139ZIR"></a>139ZIR  Inspector-General’s decision on review
 
-             (1)  On a review of a reviewable decision, the Inspector‑General has all the powers of the trustee and may:
+             (1)  On a review of a reviewable decision, the Inspector-General has all the powers of the trustee and may:
 
                      (a)  confirm the decision; or
 
@@ -9034,19 +9025,19 @@ Time limit for review
 
                      (d)  set aside the decision and make a decision in substitution for the decision so set aside.
 
-Application of this Subdivision to Inspector‑General’s decision
+Application of this Subdivision to Inspector-General’s decision
 
-             (2)  This Subdivision (apart from sections 139ZIO to 139ZIT), applies to a decision made by the Inspector‑General as if it had been made by the trustee under this Subdivision.
+             (2)  This Subdivision (apart from sections 139ZIO to 139ZIT), applies to a decision made by the Inspector-General as if it had been made by the trustee under this Subdivision.
 
-##### <a id="139ZIS"></a>139ZIS  Inspector‑General to notify bankrupt and trustee of decision
+##### <a id="139ZIS"></a>139ZIS  Inspector-General to notify bankrupt and trustee of decision
 
-             (1)  If the Inspector‑General:
+             (1)  If the Inspector-General:
 
                      (a)  reviews a reviewable decision; or
 
                      (b)  refuses a request by a bankrupt for a review of a reviewable decision;
 
-the Inspector‑General must give written notice to:
+the Inspector-General must give written notice to:
 
                      (c)  the bankrupt; and
 
@@ -9054,7 +9045,7 @@ the Inspector‑General must give written notice to:
 
                      (e)  the Official Receiver;
 
-of the Inspector‑General’s decision on the review or on the request, as the case may be.
+of the Inspector-General’s decision on the review or on the request, as the case may be.
 
              (2)  The notice must:
 
@@ -9064,23 +9055,23 @@ of the Inspector‑General’s decision on the review or on the request, as the 
 
 Notification of right of review by AAT
 
-             (3)  In the case of a decision on the review of a reviewable decision, the notice must also include a statement to the effect that, if the bankrupt or the trustee is dissatisfied with the Inspector‑General’s decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Administrative Appeals Tribunal for review of the decision.
+             (3)  In the case of a decision on the review of a reviewable decision, the notice must also include a statement to the effect that, if the bankrupt or the trustee is dissatisfied with the Inspector-General’s decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Administrative Appeals Tribunal for review of the decision.
 
-             (4)  In the case of a decision refusing a request to review a reviewable decision, the notice to the bankrupt must also include a statement to the effect that, if the bankrupt is dissatisfied with the Inspector‑General’s decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Administrative Appeals Tribunal for a review of the decision.
+             (4)  In the case of a decision refusing a request to review a reviewable decision, the notice to the bankrupt must also include a statement to the effect that, if the bankrupt is dissatisfied with the Inspector-General’s decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Administrative Appeals Tribunal for a review of the decision.
 
              (5)  A breach of subsection (3) or (4) in relation to a decision does not affect the validity of the decision.
 
-Inspector‑General taken to have reviewed and confirmed decision
+Inspector-General taken to have reviewed and confirmed decision
 
-             (6)  If, within 60 days after lodgment of a request by a bankrupt for the review of a reviewable decision, the Inspector‑General has not given written notice to the bankrupt of his or her decision in accordance with subsection (1), the Inspector‑General is taken to have reviewed the trustee’s decision and confirmed it under paragraph 139ZIR(1)(a).
+             (6)  If, within 60 days after lodgment of a request by a bankrupt for the review of a reviewable decision, the Inspector-General has not given written notice to the bankrupt of his or her decision in accordance with subsection (1), the Inspector-General is taken to have reviewed the trustee’s decision and confirmed it under paragraph 139ZIR(1)(a).
 
 ##### <a id="139ZIT"></a>139ZIT  AAT review of decisions
 
                    An application may be made to the Administrative Appeals Tribunal for the review of:
 
-                     (a)  a decision of the Inspector‑General on the review of a reviewable decision; or
+                     (a)  a decision of the Inspector-General on the review of a reviewable decision; or
 
-                     (b)  a decision by the Inspector‑General refusing a request to review a reviewable decision.
+                     (b)  a decision by the Inspector-General refusing a request to review a reviewable decision.
 
 #### Subdivision I—Collection of money or property by Official Receiver from person other than the bankrupt
 
@@ -9102,9 +9093,9 @@ Inspector‑General taken to have reviewed and confirmed decision
 
                      (d)  who has authority from some other person to pay money to or on behalf of a bankrupt; or
 
-                     (e)  who is liable to pay money or transfer property wholly or principally in consideration of personal services supplied by a bankrupt after the commencement of the bankruptcy, whether the services were supplied to the first‑mentioned person or to some other person; or
+                     (e)  who is liable to pay money or transfer property wholly or principally in consideration of personal services supplied by a bankrupt after the commencement of the bankruptcy, whether the services were supplied to the first-mentioned person or to some other person; or
 
-                      (f)  who has received money or property wholly or principally in consideration of personal services supplied by a bankrupt after the commencement of the bankruptcy, whether the services were supplied to the first‑mentioned person or to some other person.
+                      (f)  who has received money or property wholly or principally in consideration of personal services supplied by a bankrupt after the commencement of the bankruptcy, whether the services were supplied to the first-mentioned person or to some other person.
 
              (2)  In subsection (1):
 
@@ -9137,7 +9128,7 @@ may require a person to whom this Subdivision applies, by written notice given t
 
                      (b)  require a payment to be made at a time or within a period set out in the notice, not being a time that occurs, or a period that commences, before the money becomes due or is held, the authority becomes exercisable, the liability arises or the money or property is received, as the case requires.
 
-             (5)  After the Official Receiver has given a notice to a person under subsection (1), the Official Receiver may at any time, by a further notice given to the person, revoke or amend the first‑mentioned notice.
+             (5)  After the Official Receiver has given a notice to a person under subsection (1), the Official Receiver may at any time, by a further notice given to the person, revoke or amend the first-mentioned notice.
 
              (6)  If the Official Receiver gives a notice under this section, the Official Receiver must send a copy of the notice to the bankrupt and, if a registered trustee is the trustee, to the trustee.
 
@@ -9167,11 +9158,11 @@ may require a person to whom this Subdivision applies, by written notice given t
 
              (3)  A charge under subsection (1) does not have priority over a mortgage, lien, charge or other encumbrance in favour of an associated entity of the bankrupt if that entity satisfies the Court that that mortgage, lien, charge or other encumbrance arose from a transaction that was entered into at arm’s length and for valuable and adequate consideration provided by that entity.
 
-             (4)  If any property being land is subject to a charge under subsection (1), the Official Receiver may certify by signed writing that the land is subject to a charge under that subsection and may lodge the certificate with the Registrar‑General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated.
+             (4)  If any property being land is subject to a charge under subsection (1), the Official Receiver may certify by signed writing that the land is subject to a charge under that subsection and may lodge the certificate with the Registrar-General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated.
 
              (5)  The officer with whom the certificate is lodged may register the charge as nearly as practicable in the way in which mortgages over land are registered under the law in force in the State or Territory in which the land is situated.
 
-             (6)  The trustee has power to sell any property over which a charge exists under subsection (1) and, if the property is so sold, then, subject to any charges that have priority over the first‑mentioned charge, the proceeds of the sale are, to the extent of the charge, to be applied in or towards the discharge of the liability to make a payment or payments to the trustee of the person to whom the notice was given.
+             (6)  The trustee has power to sell any property over which a charge exists under subsection (1) and, if the property is so sold, then, subject to any charges that have priority over the first-mentioned charge, the proceeds of the sale are, to the extent of the charge, to be applied in or towards the discharge of the liability to make a payment or payments to the trustee of the person to whom the notice was given.
 
 ##### <a id="139ZO"></a>139ZO  Failure to comply with notice
 
@@ -9189,7 +9180,7 @@ may require a person to whom this Subdivision applies, by written notice given t
 
              (3)  If an employer is convicted of an offence against subsection (1) constituted by dismissing a bankrupt, the court that convicted the employer may order the employer:
 
-                     (a)  to reinstate the bankrupt to the position that the bankrupt occupied immediately before the dismissal or a position no less favourable than the first‑mentioned position; and
+                     (a)  to reinstate the bankrupt to the position that the bankrupt occupied immediately before the dismissal or a position no less favourable than the first-mentioned position; and
 
                      (b)  to pay to the bankrupt the whole or part of the wages lost by the bankrupt because of the dismissal.
 
@@ -9229,7 +9220,7 @@ may require the person, by written notice given to the person, to pay to the tru
 
                      (b)  require the amount to be paid at such times, and in such instalments, as are set out in the notice.
 
-             (4)  After the Official Receiver has given a notice to a person under subsection (1), the Official Receiver may at any time, by a further notice given to the person, revoke or amend the first‑mentioned notice.
+             (4)  After the Official Receiver has given a notice to a person under subsection (1), the Official Receiver may at any time, by a further notice given to the person, revoke or amend the first-mentioned notice.
 
              (5)  If the Official Receiver gives a notice under this section, the Official Receiver must send a copy of the notice to the bankrupt and, if a registered trustee is the trustee, to the trustee.
 
@@ -9263,11 +9254,11 @@ may require the person, by written notice given to the person, to pay to the tru
 
              (3)  A charge under subsection (1) does not have priority over a mortgage, lien, charge or other encumbrance in favour of an associated entity of the bankrupt if that entity satisfies the Court that that mortgage, lien, charge or other encumbrance arose from a transaction that was entered into at arm’s length and for valuable and adequate consideration provided by that entity and is not void against the trustee under Division 3.
 
-             (4)  If any property being land is subject to a charge under subsection (1), the Official Receiver may certify by signed writing that the land is subject to a charge under that subsection and may lodge the certificate with the Registrar‑General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated.
+             (4)  If any property being land is subject to a charge under subsection (1), the Official Receiver may certify by signed writing that the land is subject to a charge under that subsection and may lodge the certificate with the Registrar-General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated.
 
              (5)  The officer with whom the certificate is lodged may register the charge as nearly as practicable in the way in which mortgages over land are registered under the law in force in the State or Territory in which the land is situated.
 
-             (6)  The trustee has power to sell any property over which a charge exists under subsection (1) and, if the property is so sold, then, subject to any charges that have priority over the first‑mentioned charge, the proceeds of the sale are, to the extent of the charge, to be applied in or towards the discharge of the liability to make a payment or payments to the trustee of the person to whom the notice was given.
+             (6)  The trustee has power to sell any property over which a charge exists under subsection (1) and, if the property is so sold, then, subject to any charges that have priority over the first-mentioned charge, the proceeds of the sale are, to the extent of the charge, to be applied in or towards the discharge of the liability to make a payment or payments to the trustee of the person to whom the notice was given.
 
 ##### <a id="139ZS"></a>139ZS  Power of Court to set aside notice
 
@@ -9281,9 +9272,9 @@ may require the person, by written notice given to the person, to pay to the tru
 
              (2)  If a person is convicted of an offence against subsection (1) in relation to the refusal or failure of the convicted person or another person to comply with a notice under section 139ZQ, the court that convicted the person may, in addition to imposing a penalty on the convicted person, order that person to pay to the trustee an amount not exceeding the amount, or the total of the amounts, that the convicted person or the other person, as the case may be, refused or failed to pay to the trustee in accordance with the notice.
 
-#### Subdivision K—Rolled‑over superannuation interests etc.
+#### Subdivision K—Rolled-over superannuation interests etc.
 
-##### <a id="139ZU"></a>139ZU  Order relating to rolled‑over superannuation interests etc.
+##### <a id="139ZU"></a>139ZU  Order relating to rolled-over superannuation interests etc.
 
              (1)  If, on application by the trustee of a bankrupt’s estate, the Court is satisfied that:
 
@@ -9295,7 +9286,7 @@ may require the person, by written notice given to the person, to pay to the tru
 
                      (d)  the beneficiary has a superannuation interest in another eligible superannuation plan; and
 
-                     (e)  the superannuation interest referred to in paragraph (d) is attributable, in whole or in part, to the roll‑over or transfer, after the transaction referred to in paragraph (a) happened, of the whole or a part of the beneficiary’s superannuation interest in the first plan;
+                     (e)  the superannuation interest referred to in paragraph (d) is attributable, in whole or in part, to the roll-over or transfer, after the transaction referred to in paragraph (a) happened, of the whole or a part of the beneficiary’s superannuation interest in the first plan;
 
 the Court may, by order, direct the trustee of the other eligible superannuation plan to pay to the trustee of the bankrupt’s estate a specified amount not exceeding whichever is the lesser of the following:
 
@@ -9311,7 +9302,7 @@ the Court may, by order, direct the trustee of the other eligible superannuation
 
              (5)  For the purposes of paragraph (1)(c), if the beneficiary does not have a superannuation interest in an eligible superannuation plan, the beneficiary is taken to have a nil withdrawal benefit in relation to the plan.
 
-             (6)  For the purposes of paragraph (1)(e), it is immaterial whether the roll‑over or transfer occurred directly or indirectly through one or more interposed eligible superannuation plans.
+             (6)  For the purposes of paragraph (1)(e), it is immaterial whether the roll-over or transfer occurred directly or indirectly through one or more interposed eligible superannuation plans.
 
              (7)  An applicant under subsection (1) must give a copy of the application to:
 
@@ -9430,27 +9421,27 @@ may appear, adduce evidence and make submissions.
 
                    For the purposes of this Part, a bankrupt is taken to have engaged in misleading conduct in relation to a person in respect of a particular amount (in this section called the **_relevant amount_**) if:
 
-                     (a)  the bankrupt, either alone or jointly with any other person, obtained credit to the extent of the relevant amount from the first‑mentioned person without informing that person that he or she was an undischarged bankrupt; or
+                     (a)  the bankrupt, either alone or jointly with any other person, obtained credit to the extent of the relevant amount from the first-mentioned person without informing that person that he or she was an undischarged bankrupt; or
 
-                     (b)  the bankrupt, either alone or jointly with any other person, obtained goods or services from the first‑mentioned person:
+                     (b)  the bankrupt, either alone or jointly with any other person, obtained goods or services from the first-mentioned person:
 
                               (i)  by giving a bill of exchange or cheque drawn, or a promissory note made, by the bankrupt, either alone or jointly with another person, being a bill, cheque or note under which the relevant amount is payable; or
 
                              (ii)  by giving 2 or more such instruments under which the total of the amounts payable is equal to the relevant amount;
 
-                            without informing the first‑mentioned person that he or she was an undischarged bankrupt; or
+                            without informing the first-mentioned person that he or she was an undischarged bankrupt; or
 
-                     (c)  the bankrupt, either alone or jointly with any other person, entered into a hire‑purchase agreement with the first‑mentioned person, or entered into an agreement for the leasing or hiring of any goods from the first‑mentioned person, being a hire‑purchase agreement or agreement for the leasing or hiring of goods under which the total of the amounts payable is equal to the relevant amount, without informing the first‑mentioned person that he or she was an undischarged bankrupt; or
+                     (c)  the bankrupt, either alone or jointly with any other person, entered into a hire-purchase agreement with the first-mentioned person, or entered into an agreement for the leasing or hiring of any goods from the first-mentioned person, being a hire-purchase agreement or agreement for the leasing or hiring of goods under which the total of the amounts payable is equal to the relevant amount, without informing the first-mentioned person that he or she was an undischarged bankrupt; or
 
-                     (d)  the bankrupt, either alone or jointly with any other person, obtained goods or services from the first‑mentioned person by promising to pay that person or another person the relevant amount, or amounts the total of which is equal to the relevant amount, without informing the first‑mentioned person that he or she was an undischarged bankrupt; or
+                     (d)  the bankrupt, either alone or jointly with any other person, obtained goods or services from the first-mentioned person by promising to pay that person or another person the relevant amount, or amounts the total of which is equal to the relevant amount, without informing the first-mentioned person that he or she was an undischarged bankrupt; or
 
-                     (e)  the bankrupt, either alone or jointly with any other person, obtained the relevant amount, or amounts the total of which is equal to the relevant amount, from the first‑mentioned person by promising to supply goods to, or render services for, that person or another person without informing the first‑mentioned person that he or she was an undischarged bankrupt; or
+                     (e)  the bankrupt, either alone or jointly with any other person, obtained the relevant amount, or amounts the total of which is equal to the relevant amount, from the first-mentioned person by promising to supply goods to, or render services for, that person or another person without informing the first-mentioned person that he or she was an undischarged bankrupt; or
 
                       (f)  the bankrupt carried on business under an assumed name, in the name of another person or, either alone or in partnership, under a firm name and:
 
-                              (i)  in the course of the carrying on of that business the bankrupt, or, if the bankrupt carried on the business in partnership under a firm name, the partnership, dealt with the first‑mentioned person; and
+                              (i)  in the course of the carrying on of that business the bankrupt, or, if the bankrupt carried on the business in partnership under a firm name, the partnership, dealt with the first-mentioned person; and
 
-                             (ii)  the bankrupt did not inform the first‑mentioned person that he or she was an undischarged bankrupt.
+                             (ii)  the bankrupt did not inform the first-mentioned person that he or she was an undischarged bankrupt.
 
 ### Division 2—Discharge by operation of law
 
@@ -9552,11 +9543,11 @@ whichever is the later.
 
                     (aa)  any transfer is void against the trustee in the bankruptcy because of section 120 or 122;
 
-                   (ab)  any transfer is void against the trustee in the bankruptcy because of section 121;
+                    (ab)  any transfer is void against the trustee in the bankruptcy because of section 121;
 
                     (ac)  any transfer is void against the trustee in the bankruptcy because of section 128B;
 
-                   (ad)  any transfer is void against the trustee in the bankruptcy because of section 128C;
+                    (ad)  any transfer is void against the trustee in the bankruptcy because of section 128C;
 
                      (b)  after the date of the bankruptcy, the bankrupt contravened section 206A of the _Corporations Act 2001_ (disqualification from managing corporations);
 
@@ -9564,7 +9555,7 @@ whichever is the later.
 
                      (d)  the bankrupt, when requested in writing by the trustee to provide written information about the bankrupt’s property, income or expected income, failed to comply with the request;
 
-                   (da)  after the date of the bankruptcy, the bankrupt intentionally provided false or misleading information to the trustee;
+                    (da)  after the date of the bankruptcy, the bankrupt intentionally provided false or misleading information to the trustee;
 
                      (e)  the bankrupt failed to disclose any particulars of income or expected income as required by a provision of this Act referred to in subsection 6A(1) or by section 139U;
 
@@ -9578,11 +9569,11 @@ whichever is the later.
 
                      (h)  while the bankrupt was absent from Australia he or she was requested by the trustee to return to Australia by a particular date or within a particular period but the bankrupt failed to return by that date or within that period;
 
-                   (ha)  the bankrupt intentionally failed to disclose to the trustee a liability of the bankrupt that existed at the date of the bankruptcy;
+                    (ha)  the bankrupt intentionally failed to disclose to the trustee a liability of the bankrupt that existed at the date of the bankruptcy;
 
                       (i)  the bankrupt has failed, whether intentionally or not, to disclose to the trustee a liability of the bankrupt that existed at the date of the bankruptcy;
 
-                    (ia)  the bankrupt failed to comply with subparagraph 77(1)(a)(ii);
+                     (ia)  the bankrupt failed to comply with subparagraph 77(1)(a)(ii);
 
                       (j)  the bankrupt failed to comply with paragraph 77(1)(bb) or (bc) or subsection 80(1);
 
@@ -9592,7 +9583,7 @@ whichever is the later.
 
                     (m)  the bankrupt failed to attend an interview or examination for the purposes of this Act without having given a reasonable explanation to the trustee for the failure;
 
-                  (ma)  the bankrupt intentionally failed to disclose to the trustee the bankrupt’s beneficial interest in any property;
+                   (ma)  the bankrupt intentionally failed to disclose to the trustee the bankrupt’s beneficial interest in any property;
 
                      (n)  the bankrupt failed, whether intentionally or not, to disclose to the trustee the bankrupt’s beneficial interest in any property.
 
@@ -9600,7 +9591,7 @@ whichever is the later.
 
 ##### <a id="149F"></a>149F  Copy of notice of objection to be given to bankrupt
 
-             (1)  As soon as practicable after a notice of objection is filed by the trustee, the trustee must give a copy of the notice to the bankrupt together with a notice to the effect that the bankrupt may request the Inspector‑General to review the decision of the trustee to file the notice of objection.
+             (1)  As soon as practicable after a notice of objection is filed by the trustee, the trustee must give a copy of the notice to the bankrupt together with a notice to the effect that the bankrupt may request the Inspector-General to review the decision of the trustee to file the notice of objection.
 
              (2)  A notice given to the bankrupt under subsection (1) must set out the effect of subsection 149K(3).
 
@@ -9628,15 +9619,15 @@ whichever is the later.
 
 ##### <a id="149K"></a>149K  Internal review of objection
 
-             (1)  The Inspector‑General may review a decision of the trustee to file a notice of objection:
+             (1)  The Inspector-General may review a decision of the trustee to file a notice of objection:
 
-                     (a)  on the Inspector‑General’s own initiative; or
+                     (a)  on the Inspector-General’s own initiative; or
 
-                     (b)  if requested to do so by the bankrupt for reasons that appear to the Inspector‑General to be sufficient to justify such a review.
+                     (b)  if requested to do so by the bankrupt for reasons that appear to the Inspector-General to be sufficient to justify such a review.
 
-             (2)  The Inspector‑General must review such a decision if requested to do so by the Ombudsman.
+             (2)  The Inspector-General must review such a decision if requested to do so by the Ombudsman.
 
-             (3)  A request by the bankrupt to the Inspector‑General for the review of such a decision must:
+             (3)  A request by the bankrupt to the Inspector-General for the review of such a decision must:
 
                      (a)  be in writing and lodged with the Official Receiver’s office not later than 60 days after the day on which the bankrupt is notified of the trustee’s objection; and
 
@@ -9646,27 +9637,27 @@ whichever is the later.
 
                              (ii)  any documents on which the bankrupt relies in support of the request.
 
-             (4)  The Official Receiver must endorse on the request the date when it was lodged and must send the request and the accompanying documents to the Inspector‑General as soon as practicable after they are received.
+             (4)  The Official Receiver must endorse on the request the date when it was lodged and must send the request and the accompanying documents to the Inspector-General as soon as practicable after they are received.
 
-             (5)  Within 60 days after the request is lodged, the Inspector‑General must:
+             (5)  Within 60 days after the request is lodged, the Inspector-General must:
 
                      (a)  decide whether to review the decision; and
 
-                     (b)  if the Inspector‑General decides to review the decision—make his or her decision on the review.
+                     (b)  if the Inspector-General decides to review the decision—make his or her decision on the review.
 
-##### <a id="149M"></a>149M  Inspector‑General may request further information
+##### <a id="149M"></a>149M  Inspector-General may request further information
 
-             (1)  For the purposes of the exercise of powers under this Subdivision, the Inspector‑General may:
+             (1)  For the purposes of the exercise of powers under this Subdivision, the Inspector-General may:
 
-                     (a)  ask the bankrupt to provide such further information, either orally or in writing, in support of the request as the Inspector‑General specifies; and
+                     (a)  ask the bankrupt to provide such further information, either orally or in writing, in support of the request as the Inspector-General specifies; and
 
-                     (b)  ask the trustee who filed the notice of objection to provide such information, either orally or in writing, about the decision to file the notice and the reasons for the decision as the Inspector‑General specifies.
+                     (b)  ask the trustee who filed the notice of objection to provide such information, either orally or in writing, about the decision to file the notice and the reasons for the decision as the Inspector-General specifies.
 
-             (2)  If any information is provided orally, the Inspector‑General must record it in writing.
+             (2)  If any information is provided orally, the Inspector-General must record it in writing.
 
 ##### <a id="149N"></a>149N  Decision on review
 
-             (1)  On a review of a decision, if the Inspector‑General is satisfied that:
+             (1)  On a review of a decision, if the Inspector-General is satisfied that:
 
                      (a)  the ground or grounds on which the objection was made was not a ground or were not grounds specified in subsection 149D(1); or
 
@@ -9676,7 +9667,7 @@ whichever is the later.
 
                      (d)  a previous objection that was made on that ground or those grounds, or on grounds that included that ground or those grounds, was cancelled;
 
-the Inspector‑General must cancel the objection.
+the Inspector-General must cancel the objection.
 
           (1A)  An objection must not be cancelled under subsection (1) if:
 
@@ -9692,21 +9683,21 @@ For this purpose, **_special ground_** means a ground specified in paragraph 149
 
              (2)  The cancellation does not take effect until:
 
-                     (a)  the end of the period within which an application may be made to the Administrative Appeals Tribunal for the review of the decision of the Inspector‑General; or
+                     (a)  the end of the period within which an application may be made to the Administrative Appeals Tribunal for the review of the decision of the Inspector-General; or
 
                      (b)  if such an application is made—the decision of the Tribunal is given.
 
-             (3)  If the Inspector‑General is not satisfied as mentioned in subsection (1), the Inspector‑General must confirm the decision.
+             (3)  If the Inspector-General is not satisfied as mentioned in subsection (1), the Inspector-General must confirm the decision.
 
-##### <a id="149P"></a>149P  Inspector‑General to notify bankrupt and trustee of decision
+##### <a id="149P"></a>149P  Inspector-General to notify bankrupt and trustee of decision
 
-             (1)  If the Inspector‑General:
+             (1)  If the Inspector-General:
 
                      (a)  reviews a decision; or
 
                      (b)  refuses a request by a bankrupt for a review of a decision;
 
-the Inspector‑General must give written notice to the bankrupt, to the trustee and to the Official Receiver, of the Inspector‑General’s decision on the review or on the request, as the case may be.
+the Inspector-General must give written notice to the bankrupt, to the trustee and to the Official Receiver, of the Inspector-General’s decision on the review or on the request, as the case may be.
 
              (2)  The notice must:
 
@@ -9716,21 +9707,21 @@ the Inspector‑General must give written notice to the bankrupt, to the trustee
 
                      (c)  give the reasons for the decision.
 
-             (3)  In the case of a decision reviewing the decision to file a notice of objection, the notice must also include a statement to the effect that, if the bankrupt, or the trustee, is dissatisfied with the Inspector‑General’s decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Administrative Appeals Tribunal for review of the decision.
+             (3)  In the case of a decision reviewing the decision to file a notice of objection, the notice must also include a statement to the effect that, if the bankrupt, or the trustee, is dissatisfied with the Inspector-General’s decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Administrative Appeals Tribunal for review of the decision.
 
-             (4)  In the case of a decision refusing a request to review the decision to file a notice of objection, the notice to the bankrupt must also include a statement to the effect that, if the bankrupt is dissatisfied with the Inspector‑General’s decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Administrative Appeals Tribunal for a review of the decision.
+             (4)  In the case of a decision refusing a request to review the decision to file a notice of objection, the notice to the bankrupt must also include a statement to the effect that, if the bankrupt is dissatisfied with the Inspector-General’s decision, application may, subject to the _Administrative Appeals Tribunal Act 1975_, be made to the Administrative Appeals Tribunal for a review of the decision.
 
              (5)  A contravention of subsection (3) or (4) in relation to a decision does not affect the validity of the decision.
 
-             (6)  If, within 60 days after lodgment of a request by a bankrupt for the review of the trustee’s decision to file a notice of objection, the Inspector‑General has not given written notice to the bankrupt of his or her decision in accordance with subsection (1), the Inspector‑General is taken to have reviewed the decision and confirmed it under subsection 149N(3).
+             (6)  If, within 60 days after lodgment of a request by a bankrupt for the review of the trustee’s decision to file a notice of objection, the Inspector-General has not given written notice to the bankrupt of his or her decision in accordance with subsection (1), the Inspector-General is taken to have reviewed the decision and confirmed it under subsection 149N(3).
 
 ##### <a id="149Q"></a>149Q  Review of decisions
 
                    An application may be made to the Administrative Appeals Tribunal for the review of:
 
-                     (a)  a decision of the Inspector‑General on the review of a decision of the trustee to file a notice of objection; or
+                     (a)  a decision of the Inspector-General on the review of a decision of the trustee to file a notice of objection; or
 
-                     (b)  a decision of the Inspector‑General refusing a request to review a decision of the trustee to file a notice of objection.
+                     (b)  a decision of the Inspector-General refusing a request to review a decision of the trustee to file a notice of objection.
 
 ### Division 4—Provisions applicable to all discharges
 
@@ -9774,7 +9765,7 @@ and, for the purposes of enabling the secured creditor or a person claiming thro
 
              (4)  The discharge of a bankrupt from a bankruptcy does not release from any liability a person who, at the date on which the bankrupt became a bankrupt:
 
-                     (a)  was a partner or a co‑trustee with the bankrupt or was jointly bound or had made a joint contract with the bankrupt; or
+                     (a)  was a partner or a co-trustee with the bankrupt or was jointly bound or had made a joint contract with the bankrupt; or
 
                      (b)  was surety or in the nature of a surety for the bankrupt.
 
@@ -9870,7 +9861,7 @@ the property, even though it vests in equity in the person named in the order, d
 
 ##### <a id="154A"></a>154A  Application to become a registered trustee
 
-             (1)  An individual may apply to the Inspector‑General to be registered as a trustee.
+             (1)  An individual may apply to the Inspector-General to be registered as a trustee.
 
              (2)  The application must be in the approved form.
 
@@ -9884,11 +9875,11 @@ the property, even though it vests in equity in the person named in the order, d
 
 ##### <a id="155"></a>155  Processing of an application
 
-             (1)  After receiving a properly made application, the Inspector‑General must convene a committee to consider the application.
+             (1)  After receiving a properly made application, the Inspector-General must convene a committee to consider the application.
 
              (2)  The committee must consist of:
 
-                     (a)  the Inspector‑General; and
+                     (a)  the Inspector-General; and
 
                      (b)  an APS employee; and
 
@@ -9970,7 +9961,7 @@ Conditions on registration
 
 Report of decision
 
-             (6)  The committee must give the applicant and the Inspector‑General a report on all of its decisions relating to the application, and the reasons for them.
+             (6)  The committee must give the applicant and the Inspector-General a report on all of its decisions relating to the application, and the reasons for them.
 
 Review of decision
 
@@ -9978,31 +9969,31 @@ Review of decision
 
 ##### <a id="155B"></a>155B  Effect of committee’s decision
 
-                   The Inspector‑General must give effect to all of the committee’s decisions, subject to paragraph 155C(1)(b).
+                   The Inspector-General must give effect to all of the committee’s decisions, subject to paragraph 155C(1)(b).
 
 ##### <a id="155C"></a>155C  Registration as a trustee 
 
-             (1)  The Inspector‑General must register the applicant as a trustee if:
+             (1)  The Inspector-General must register the applicant as a trustee if:
 
                      (a)  the committee has decided that the applicant should be registered; and
 
                      (b)  the applicant has paid the fee determined by the Minister by legislative instrument.
 
-             (2)  The Inspector‑General registers an applicant by entering in the National Personal Insolvency Index the details relating to the applicant that are prescribed in the regulations.
+             (2)  The Inspector-General registers an applicant by entering in the National Personal Insolvency Index the details relating to the applicant that are prescribed in the regulations.
 
-             (3)  After registering a person as a trustee, the Inspector‑General must give the person a certificate of registration.
+             (3)  After registering a person as a trustee, the Inspector-General must give the person a certificate of registration.
 
              (4)  The registration has effect for 3 years.
 
 ##### <a id="155D"></a>155D  Extension of registration
 
-             (1)  The Inspector‑General must extend the registration of a person as trustee for three years from the expiry of the person’s registration if:
+             (1)  The Inspector-General must extend the registration of a person as trustee for three years from the expiry of the person’s registration if:
 
-                     (a)  the person applies in writing to the Inspector‑General for the extension before the person’s registration expires; and
+                     (a)  the person applies in writing to the Inspector-General for the extension before the person’s registration expires; and
 
                      (b)  the person has paid  the fee determined by the Minister by legislative instrument (and any late payment penalty under subsection (3) of this section).
 
-             (2)  The Inspector‑General must not extend the registration of a person if:
+             (2)  The Inspector-General must not extend the registration of a person if:
 
                      (a)  the person owes a total of more than $50 for the following:
 
@@ -10010,13 +10001,13 @@ Review of decision
 
                              (ii)  penalty under section 281 of this Act in respect of that charge; and
 
-                     (b)  the Inspector‑General notified the person of the unpaid estate charge at least 14 days before the due date for payment of the charge under subsection (3) on the extension of the registration.
+                     (b)  the Inspector-General notified the person of the unpaid estate charge at least 14 days before the due date for payment of the charge under subsection (3) on the extension of the registration.
 
              (3)  The fee for an extension of registration is due for payment one month before the expiry of the registration. If the fee is not paid by then, an additional amount equal to 20% of the fee is payable by the trustee by way of penalty.
 
 ##### <a id="155E"></a>155E  Application for change of conditions on practising as a registered trustee 
 
-             (1)  If a committee has decided under this Division that conditions should apply to a person’s practice as a registered trustee, the person may apply to the Inspector‑General for the conditions to be changed or removed.
+             (1)  If a committee has decided under this Division that conditions should apply to a person’s practice as a registered trustee, the person may apply to the Inspector-General for the conditions to be changed or removed.
 
              (2)  The application must be in the approved form.
 
@@ -10024,11 +10015,11 @@ Review of decision
 
           (3A)  The application is properly made if subsections (2) and (3) are complied with.
 
-             (4)  After receiving a properly made application, the Inspector‑General must convene a committee to consider the application.
+             (4)  After receiving a properly made application, the Inspector-General must convene a committee to consider the application.
 
              (5)  The committee must consist of:
 
-                     (a)  the Inspector‑General; and
+                     (a)  the Inspector-General; and
 
                      (b)  an APS employee; and
 
@@ -10048,21 +10039,21 @@ Note:          The regulations may provide for the way in whic
 
 Note:          See the definition of **_modifications_** in subsection 5(1).
 
-             (2)  The committee must give the applicant and the Inspector‑General a report of its decision relating to the application, and the reasons for the decision.
+             (2)  The committee must give the applicant and the Inspector-General a report of its decision relating to the application, and the reasons for the decision.
 
              (3)  The applicant may apply to the Administrative Appeals Tribunal for review of the committee’s decision.
 
-             (4)  The Inspector‑General must give effect to the committee’s decision.
+             (4)  The Inspector-General must give effect to the committee’s decision.
 
 ##### <a id="155G"></a>155G  Voluntary termination of registration
 
-             (1)  A person who is a registered trustee may give the Inspector‑General a written request that the person cease to be registered as a trustee.
+             (1)  A person who is a registered trustee may give the Inspector-General a written request that the person cease to be registered as a trustee.
 
-             (2)  The person ceases to be registered as a trustee when the Inspector‑General accepts the request.
+             (2)  The person ceases to be registered as a trustee when the Inspector-General accepts the request.
 
 ##### <a id="155H"></a>155H  Consideration of involuntary termination of registration
 
-             (1)  The Inspector‑General may ask a registered trustee to give the Inspector‑General a written explanation why the trustee should continue to be registered, if the Inspector‑General believes that:
+             (1)  The Inspector-General may ask a registered trustee to give the Inspector-General a written explanation why the trustee should continue to be registered, if the Inspector-General believes that:
 
                      (a)  the trustee no longer has a qualification or ability that is prescribed by the regulations made for the purposes of paragraph 155A(2)(a); or
 
@@ -10082,11 +10073,11 @@ Note:          See the definition of **_modifications_** in su
 
                      (g)  the trustee has failed to comply with a standard prescribed for the purposes of subsection (5).
 
-             (2)  If the Inspector‑General does not receive an explanation within a reasonable time, or is not satisfied by the explanation, the Inspector‑General must convene a committee to consider whether the trustee should continue to be registered.
+             (2)  If the Inspector-General does not receive an explanation within a reasonable time, or is not satisfied by the explanation, the Inspector-General must convene a committee to consider whether the trustee should continue to be registered.
 
              (3)  The committee must consist of:
 
-                     (a)  the Inspector‑General; and
+                     (a)  the Inspector-General; and
 
                      (b)  an APS employee; and
 
@@ -10126,17 +10117,17 @@ Note:          See the definition of **_modifications_** in su
 
                      (b)  the trustee should cease to be registered if the trustee fails to meet specified conditions.
 
-             (4)  The committee must give the trustee and the Inspector‑General a report of its decision relating to the application, and the reasons for the decision.
+             (4)  The committee must give the trustee and the Inspector-General a report of its decision relating to the application, and the reasons for the decision.
 
              (5)  The trustee may apply to the Administrative Appeals Tribunal for review of the committee’s decision.
 
-             (6)  The Inspector‑General must give effect to the committee’s decision.
+             (6)  The Inspector-General must give effect to the committee’s decision.
 
 Note:          Sections 176 and 182 specify other circumstances in which a trustee may involuntarily cease to be registered.
 
 ##### <a id="155J"></a>155J  After termination of registration
 
-             (1)  If a person ceases to be registered as a trustee for any reason, the person must give his or her certificate of registration to the Inspector‑General before the end of the period of 7 days beginning on the day the person ceased to be registered.
+             (1)  If a person ceases to be registered as a trustee for any reason, the person must give his or her certificate of registration to the Inspector-General before the end of the period of 7 days beginning on the day the person ceased to be registered.
 
                     Penalty:  5 penalty units.
 
@@ -10254,11 +10245,11 @@ Note:          A defendant bears an evidential burden in relat
 
 the second trustee is, by force of this subsection, substituted for the first trustee as a party to the proceedings.
 
-##### <a id="161A"></a>161A  Registered trustee to notify Inspector‑General of certain events
+##### <a id="161A"></a>161A  Registered trustee to notify Inspector-General of certain events
 
-             (1)  If a registered trustee is convicted of an offence involving fraud or dishonesty, the registered trustee must give the Inspector‑General written notice of the conviction and the nature of the offence as soon as practicable.
+             (1)  If a registered trustee is convicted of an offence involving fraud or dishonesty, the registered trustee must give the Inspector-General written notice of the conviction and the nature of the offence as soon as practicable.
 
-             (2)  If a registered trustee becomes a bankrupt, or enters as debtor into an insolvency administration, under the law of a foreign country, the registered trustee must give the Inspector‑General written notice of the fact as soon as practicable.
+             (2)  If a registered trustee becomes a bankrupt, or enters as debtor into an insolvency administration, under the law of a foreign country, the registered trustee must give the Inspector-General written notice of the fact as soon as practicable.
 
 ### Division 2—Remuneration and costs
 
@@ -10282,11 +10273,11 @@ the trustee is entitled to be paid, from the funds in the bankrupt’s estate, a
 
              (3)  Where the trustee carries on a business of the bankrupt, or a business is carried on by the bankrupt under the supervision of the trustee, the trustee may be paid additional remuneration in the form either of a periodical payment based on, or a commission at the rate prescribed by the regulations for the purposes of this subsection on, the amount by which the estate is increased by reason of the carrying on of that business by him or her or under his or her supervision.
 
-             (4)  If the remuneration of the trustee is not fixed by the creditors or the committee of inspection, the trustee may, in the circumstances prescribed by the regulations, make an application, in accordance with the regulations, to the Inspector‑General for the Inspector‑General to decide the trustee’s remuneration.
+             (4)  If the remuneration of the trustee is not fixed by the creditors or the committee of inspection, the trustee may, in the circumstances prescribed by the regulations, make an application, in accordance with the regulations, to the Inspector-General for the Inspector-General to decide the trustee’s remuneration.
 
-          (4A)  If an application is made to the Inspector‑General under subsection (4), the Inspector‑General must, by writing, decide the trustee’s remuneration, having regard to the matters prescribed by the regulations.
+          (4A)  If an application is made to the Inspector-General under subsection (4), the Inspector-General must, by writing, decide the trustee’s remuneration, having regard to the matters prescribed by the regulations.
 
-          (4B)  The Inspector‑General must give written notice of his or her decision under subsection (4A) to the trustee and to the bankrupt and creditors.
+          (4B)  The Inspector-General must give written notice of his or her decision under subsection (4A) to the trustee and to the bankrupt and creditors.
 
           (5A)  The trustee must not withdraw funds from the bankrupt’s estate in respect of his or her remuneration at intervals of less than one week.
 
@@ -10358,7 +10349,7 @@ Trustee’s remuneration
 
              (1)  The regulations may make provision for and in relation to:
 
-                     (a)  the Inspector‑General reviewing decisions of the trustee of the estate of a bankrupt to withdraw, or to propose to withdraw, funds from the estate for payment of the trustee’s remuneration; and
+                     (a)  the Inspector-General reviewing decisions of the trustee of the estate of a bankrupt to withdraw, or to propose to withdraw, funds from the estate for payment of the trustee’s remuneration; and
 
                      (b)  the bankrupt or a creditor of the bankrupt applying for the review.
 
@@ -10366,7 +10357,7 @@ Payment to third parties
 
              (2)  The regulations may make provision for and in relation to:
 
-                     (a)  the Inspector‑General reviewing a bill of costs for services provided by a person (the **_third party_**) in relation to the administration of a bankrupt’s estate; and
+                     (a)  the Inspector-General reviewing a bill of costs for services provided by a person (the **_third party_**) in relation to the administration of a bankrupt’s estate; and
 
                      (b)  the trustee of the estate applying for the review.
 
@@ -10374,23 +10365,23 @@ Content of regulations
 
              (3)  The regulations may provide for:
 
-                     (a)  the powers available to the Inspector‑General in relation to the review; and
+                     (a)  the powers available to the Inspector-General in relation to the review; and
 
-                     (b)  the trustee or the third party to provide information or documents to the Inspector‑General; and
+                     (b)  the trustee or the third party to provide information or documents to the Inspector-General; and
 
-                     (c)  the decisions that may be made by the Inspector‑General in relation to the review; and
+                     (c)  the decisions that may be made by the Inspector-General in relation to the review; and
 
-                     (d)  the notification of decisions made by the Inspector‑General.
+                     (d)  the notification of decisions made by the Inspector-General.
 
 Repayment—trustee
 
-             (4)  The regulations may provide that, if the Inspector‑General is satisfied that a withdrawal by the trustee of funds from the estate of the bankrupt for payment of the trustee’s remuneration exceeds the amount of remuneration the trustee is entitled to under this Division, the Inspector‑General may require the trustee to repay the excess to that estate.
+             (4)  The regulations may provide that, if the Inspector-General is satisfied that a withdrawal by the trustee of funds from the estate of the bankrupt for payment of the trustee’s remuneration exceeds the amount of remuneration the trustee is entitled to under this Division, the Inspector-General may require the trustee to repay the excess to that estate.
 
-             (5)  The amount of the excess is recoverable by the Inspector‑General, as a debt due to the estate of the bankrupt, by action against the trustee in a court of competent jurisdiction.
+             (5)  The amount of the excess is recoverable by the Inspector-General, as a debt due to the estate of the bankrupt, by action against the trustee in a court of competent jurisdiction.
 
 Appeal to the Court
 
-             (6)  The trustee, the bankrupt or a creditor of the bankrupt may appeal to the Court from a decision of the Inspector‑General in relation to the review. In addition, if the review is of the kind mentioned in subsection (2), the third party may also appeal to the Court from a decision of the Inspector‑General in relation to the review.
+             (6)  The trustee, the bankrupt or a creditor of the bankrupt may appeal to the Court from a decision of the Inspector-General in relation to the review. In addition, if the review is of the kind mentioned in subsection (2), the third party may also appeal to the Court from a decision of the Inspector-General in relation to the review.
 
 Interpretation
 
@@ -10449,7 +10440,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="170A"></a>170A  Annual return
 
-             (1)  If, during a financial year, the trustee of the estate of a bankrupt administered the estate, the trustee must, within the period of 35 days after the end of that year, give the Inspector‑General a return, in the approved form, in relation to the administration of that estate during that year.
+             (1)  If, during a financial year, the trustee of the estate of a bankrupt administered the estate, the trustee must, within the period of 35 days after the end of that year, give the Inspector-General a return, in the approved form, in relation to the administration of that estate during that year.
 
                     Penalty:  5 penalty units.
 
@@ -10485,7 +10476,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="175"></a>175  Audit of trustee’s accounts 
 
-             (1)  The Inspector‑General may, on his or her own initiative or at the request of a creditor or the bankrupt, audit an account referred to in section 173 or cause it to be audited by an appropriate person.
+             (1)  The Inspector-General may, on his or her own initiative or at the request of a creditor or the bankrupt, audit an account referred to in section 173 or cause it to be audited by an appropriate person.
 
              (5)  For the purposes of an audit under this section, the trustee shall produce to the person carrying out the audit as and when required such books and information as that person requires.
 
@@ -10501,13 +10492,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="176"></a>176  Court may order trustee to make good loss caused by breach of duty
 
-             (1)  Where, on application by the Inspector‑General or by a creditor who has or had a debt provable in the bankruptcy, the Court is satisfied that a person who is or has been a trustee of a bankrupt’s estate has been guilty (whether before or after the commencement of this section) of breach of duty in relation to the bankrupt’s estate or affairs, subsection (2) applies.
+             (1)  Where, on application by the Inspector-General or by a creditor who has or had a debt provable in the bankruptcy, the Court is satisfied that a person who is or has been a trustee of a bankrupt’s estate has been guilty (whether before or after the commencement of this section) of breach of duty in relation to the bankrupt’s estate or affairs, subsection (2) applies.
 
              (2)  The Court may make any one or more of the following orders:
 
                      (a)  an order directing the person to make good any loss that the bankrupt’s estate has sustained because of the person’s breach of duty;
 
-                     (b)  if the person is a registered trustee—an order directing the Inspector‑General to cancel the person’s registration as a trustee;
+                     (b)  if the person is a registered trustee—an order directing the Inspector-General to cancel the person’s registration as a trustee;
 
                      (c)  any other order that the Court considers just and equitable in the circumstances.
 
@@ -10525,13 +10516,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="179"></a>179  Control of trustees by the Court
 
-             (1)  The Court may, on the application of the Inspector‑General, a creditor or the bankrupt, inquire into the conduct of a trustee in relation to a bankruptcy and may do one or both of the following:
+             (1)  The Court may, on the application of the Inspector-General, a creditor or the bankrupt, inquire into the conduct of a trustee in relation to a bankruptcy and may do one or both of the following:
 
                      (a)  remove the trustee from office; and
 
                      (b)  make such order as it thinks proper.
 
-             (2)  The Inspector‑General or a creditor may at any time require a trustee to answer an inquiry in relation to the bankrupt’s estate or affairs. 
+             (2)  The Inspector-General or a creditor may at any time require a trustee to answer an inquiry in relation to the bankrupt’s estate or affairs. 
 
 ### Division 5—Vacation of office
 
@@ -10589,7 +10580,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 the Court may make the order sought.
 
-             (3)  In hearing the application, the Court must also consider any objection to the order sought that is made by the Inspector‑General, the Official Receiver, a creditor or any other interested person.
+             (3)  In hearing the application, the Court must also consider any objection to the order sought that is made by the Inspector-General, the Official Receiver, a creditor or any other interested person.
 
              (4)  An order of release under this section:
 
@@ -10629,7 +10620,7 @@ the trustee is released at the end of 7 years from the date on which the Officia
 
                    In this Part, unless the contrary intention appears:
 
-                    <a name="account-freez-notic"></a>**_account‑freezing notice_** means a notice under subsection 186LB(2).
+                    <a name="account-freez-notic"></a>**_account-freezing notice_** means a notice under subsection 186LB(2).
 
                     <a name="affected-critor"></a>**_affected creditor_** means:
 
@@ -10667,9 +10658,9 @@ the trustee is released at the end of 7 years from the date on which the Officia
 
                      (b)  debt agreements for which the company is the administrator.
 
-                    <a name="design-month-arrear-default"></a>**_designated 6‑month arrears default_** has the meaning given by subsection 185LC(3).
+                    <a name="design-month-arrear-default"></a>**_designated 6-month arrears default_** has the meaning given by subsection 185LC(3).
 
-                    <a name="extern-administered-bodi-corpor"></a>**_externally‑administered body corporate_** has the same meaning as in the _Corporations Act 2001_.
+                    <a name="extern-administered-bodi-corpor"></a>**_externally-administered body corporate_** has the same meaning as in the _Corporations Act 2001_.
 
                     <a name="frozen-debt"></a>**_frozen debt_** means a debt that:
 
@@ -10753,7 +10744,7 @@ Requirements for a debt agreement proposal
 
                      (e)  the person has reasonable grounds to believe that all information required to be set out in the debtor’s subsection (2B) statement has been set out in that statement.
 
-          (2E)  A debt agreement proposal must not be given jointly by 2 or more debtors.
+           (2E)  A debt agreement proposal must not be given jointly by 2 or more debtors.
 
            (2F)  If a debt agreement proposal is expressed to be subject to the occurrence of a specified event within a specified period after the debt agreement proposal is accepted, the specified period must not be longer than 7 days.
 
@@ -10797,7 +10788,7 @@ When a debtor cannot give a debt agreement proposal
 
                      (c)  at the proposal time, the value of the debtor’s property that would be divisible among creditors if the debtor were bankrupt is more than the threshold amount; or
 
-                     (d)  the debtor’s after tax income (see subsection (5)) in the year beginning at the proposal time is likely to exceed three‑quarters of the threshold amount.
+                     (d)  the debtor’s after tax income (see subsection (5)) in the year beginning at the proposal time is likely to exceed three-quarters of the threshold amount.
 
           (4A)  Subparagraph (4)(a)(i) does not apply in relation to a bankruptcy that has been annulled under section 153B.
 
@@ -10807,7 +10798,7 @@ When a debtor cannot give a debt agreement proposal
 
 Note:          For the purposes of this definition, **_taxable income_**, **_income tax_** and **_year of income_** have the same meanings as in the _Income Tax Assessment Act 1936_, and **_medicare levy_** means the levy imposed by the _Medicare Levy Act 1986_.
 
-                    <a name="threshold-amount"></a>**_threshold amount_**, in relation to a particular time, means 7 times the amount that, at that time, is specified in column 3, item 2, Table B, point 1064‑B1, Pension Rate Calculator A, in the _Social Security Act 1991_.
+                    <a name="threshold-amount"></a>**_threshold amount_**, in relation to a particular time, means 7 times the amount that, at that time, is specified in column 3, item 2, Table B, point 1064-B1, Pension Rate Calculator A, in the _Social Security Act 1991_.
 
                     <a name="unsecured-debt"></a>**_unsecured debt_** includes the amount by which the value of a debt exceeds the value of a security given for the debt.
 
@@ -10909,7 +10900,7 @@ Writing to creditors to deal with a proposal
 
                      (b)  ask the creditor to give a written statement setting out whether or not the debt agreement proposal should be accepted; and
 
-                     (c)  inform the creditor of the person to whom the statement should be given and of the need to give the statement before the applicable deadline.     
+                     (c)  inform the creditor of the person to whom the statement should be given and of the need to give the statement before the applicable deadline.         
 
              (3)  The paragraph (2)(b) statement must be in the approved form.
 
@@ -11155,37 +11146,37 @@ Note:          Section 185EC explains how a proposal is acce
 
                              (ii)  makes a reasonable request for the information.
 
-##### <a id="185LB"></a>185LB  Administrator to notify creditors of a 3‑month arrears default by a debtor
+##### <a id="185LB"></a>185LB  Administrator to notify creditors of a 3-month arrears default by a debtor
 
-             (1)  If a 3‑month arrears default by a debtor occurs at a particular time in relation to a debt agreement, the administrator of the debt agreement must notify, in writing, each creditor who is a party to the debt agreement of that occurrence within 10 working days of that occurrence.
+             (1)  If a 3-month arrears default by a debtor occurs at a particular time in relation to a debt agreement, the administrator of the debt agreement must notify, in writing, each creditor who is a party to the debt agreement of that occurrence within 10 working days of that occurrence.
 
-             (2)  The administrator of a debt agreement is not required to give a notification under subsection (1) in respect of a 3‑month arrears default (the **_first default_**) if:
+             (2)  The administrator of a debt agreement is not required to give a notification under subsection (1) in respect of a 3-month arrears default (the **_first default_**) if:
 
-                     (a)  one or more other 3‑month arrears defaults by the debtor have occurred in relation to the debt agreement; and
+                     (a)  one or more other 3-month arrears defaults by the debtor have occurred in relation to the debt agreement; and
 
-                     (b)  the 3‑month period to which the first default relates overlaps with the 3‑month period to which any of those other 3‑month arrears defaults relate; and
+                     (b)  the 3-month period to which the first default relates overlaps with the 3-month period to which any of those other 3-month arrears defaults relate; and
 
-                     (c)  a notification under subsection (1) has already been given in respect of any of those other 3‑month arrears defaults.
+                     (c)  a notification under subsection (1) has already been given in respect of any of those other 3-month arrears defaults.
 
-             (3)  For the purposes of this section, a **_3‑month arrears default_** by a debtor occurs at a particular time (the **_test time_**) in relation to a debt agreement if:
+             (3)  For the purposes of this section, a **_3-month arrears default_** by a debtor occurs at a particular time (the **_test time_**) in relation to a debt agreement if:
 
-                     (a)  at the beginning of the 3‑month period ending immediately before the test time, one or more payments in respect of provable debts became due and payable by the debtor under the debt agreement; and
+                     (a)  at the beginning of the 3-month period ending immediately before the test time, one or more payments in respect of provable debts became due and payable by the debtor under the debt agreement; and
 
-                     (b)  throughout that 3‑month period, the debtor was in arrears in respect of any or all of those payments.
+                     (b)  throughout that 3-month period, the debtor was in arrears in respect of any or all of those payments.
 
-##### <a id="185LC"></a>185LC  Administrator to notify Official Receiver of a designated 6‑month arrears default by a debtor
+##### <a id="185LC"></a>185LC  Administrator to notify Official Receiver of a designated 6-month arrears default by a debtor
 
-             (1)  If a designated 6‑month arrears default by a debtor occurs at particular time in relation to a debt agreement, the administrator of the debt agreement must notify, in writing, the Official Receiver of that occurrence within 10 working days of that occurrence.
+             (1)  If a designated 6-month arrears default by a debtor occurs at particular time in relation to a debt agreement, the administrator of the debt agreement must notify, in writing, the Official Receiver of that occurrence within 10 working days of that occurrence.
 
              (2)  The administrator of a debt agreement is not required to give a notification under subsection (1) in relation to the debt agreement if the administrator has already given such a notification in relation to the debt agreement.
 
-             (3)  For the purposes of this Part, a **_designated 6‑month arrears default_** by a debtor occurs at a particular time (the **_test time_**) in relation to a debt agreement if:
+             (3)  For the purposes of this Part, a **_designated 6-month arrears default_** by a debtor occurs at a particular time (the **_test time_**) in relation to a debt agreement if:
 
                      (a)  both of the following apply:
 
                               (i)  before the test time, one or more payments in respect of provable debts became due and payable by the debtor under the debt agreement;
 
-                             (ii)  at no time during the 6‑month period ending immediately before the test time were any obligations in respect of those payments discharged; or
+                             (ii)  at no time during the 6-month period ending immediately before the test time were any obligations in respect of those payments discharged; or
 
                      (b)  both of the following apply:
 
@@ -11205,7 +11196,7 @@ Note:          Section 185EC explains how a proposal is acce
 
                      (b)  the administrator of one or more debt agreements;
 
-must pay all money received by the person from debtors under those debt agreements to the credit of a single interest‑bearing bank account that:
+must pay all money received by the person from debtors under those debt agreements to the credit of a single interest-bearing bank account that:
 
                      (c)  bears:
 
@@ -11227,11 +11218,11 @@ must pay all money received by the person from debtors under those debt agreemen
 
                      (a)  keep such accounts, books and records as are necessary to give a full and correct account of the administration of the debt agreement; and
 
-                     (b)  if required to do so by the Inspector‑General—make those accounts and records available for inspection by the Inspector‑General; and
+                     (b)  if required to do so by the Inspector-General—make those accounts and records available for inspection by the Inspector-General; and
 
-                     (c)  if required to do so by the Inspector‑General—answer any inquiries about the debt agreement; and
+                     (c)  if required to do so by the Inspector-General—answer any inquiries about the debt agreement; and
 
-                     (d)  cooperate with any inquiry or investigation made by the Inspector‑General under paragraph 12(1)(bb).
+                     (d)  cooperate with any inquiry or investigation made by the Inspector-General under paragraph 12(1)(bb).
 
              (2)  If an administrator of one or more debt agreements is to be remunerated under those debt agreements, the administrator must:
 
@@ -11247,7 +11238,7 @@ must pay all money received by the person from debtors under those debt agreemen
 
 ##### <a id="185LEA"></a>185LEA  Annual return
 
-             (1)  If, during a financial year, an administrator of a debt agreement administered the agreement, the administrator must, within the period of 35 days after the end of that year, give the Inspector‑General a return, in the approved form, in relation to the administration of that agreement during that year.
+             (1)  If, during a financial year, an administrator of a debt agreement administered the agreement, the administrator must, within the period of 35 days after the end of that year, give the Inspector-General a return, in the approved form, in relation to the administration of that agreement during that year.
 
                     Penalty:  5 penalty units.
 
@@ -11613,13 +11604,13 @@ Sequestration order
 
              (5)  If the Court makes an order terminating a debt agreement, the Court may also make a sequestration order if a creditor applied for the sequestration order.
 
-##### <a id="185QA"></a>185QA  Terminating a debt agreement—designated 6‑month arrears default
+##### <a id="185QA"></a>185QA  Terminating a debt agreement—designated 6-month arrears default
 
              (1)  If:
 
-                     (a)  the administrator of a debt agreement notifies the Official Receiver that a designated 6‑month arrears default by the debtor has occurred; and
+                     (a)  the administrator of a debt agreement notifies the Official Receiver that a designated 6-month arrears default by the debtor has occurred; and
 
-                     (b)  the Official Receiver is satisfied that the designated 6‑month arrears default has occurred;
+                     (b)  the Official Receiver is satisfied that the designated 6-month arrears default has occurred;
 
 the Official Receiver must:
 
@@ -11677,7 +11668,7 @@ Power to make order
 
              (1)  On an application under section 185T, the Court may make an order declaring a debt agreement void.
 
-Limit on declaring debt agreement void on grounds of non‑compliance with this Part
+Limit on declaring debt agreement void on grounds of non-compliance with this Part
 
              (2)  The Court must not declare all or part of a debt agreement void on the ground that it does not comply with this Part if the agreement or part of the agreement complies substantially with this Part.
 
@@ -11815,7 +11806,7 @@ then:
 
              (1)  This section applies if, on application by:
 
-                     (a)  the Inspector‑General; or
+                     (a)  the Inspector-General; or
 
                      (b)  a creditor who is or has been a party to a debt agreement;
 
@@ -11825,7 +11816,7 @@ the Court is satisfied that a person who is or has been an administrator of the 
 
                      (a)  an order directing the person to make good any loss that a creditor has sustained because of the person’s breach of duty;
 
-                     (b)  if the person is a registered debt agreement administrator—an order directing the Inspector‑General to cancel the person’s registration as a debt agreement administrator;
+                     (b)  if the person is a registered debt agreement administrator—an order directing the Inspector-General to cancel the person’s registration as a debt agreement administrator;
 
                      (c)  any other order that the Court considers just and equitable in the circumstances.
 
@@ -11833,7 +11824,7 @@ the Court is satisfied that a person who is or has been an administrator of the 
 
                    If a debt agreement is in force, the Court may, on the application of:
 
-                     (a)  the Inspector‑General; or
+                     (a)  the Inspector-General; or
 
                      (b)  the debtor; or
 
@@ -11859,31 +11850,31 @@ Individuals
 
              (1)  For the purposes of this Division, an individual **_passes the basic eligibility test_** at a particular time (the **_test time_**) unless:
 
-                     (a)  at any time during the 10‑year period ending at the test time, the individual was:
+                     (a)  at any time during the 10-year period ending at the test time, the individual was:
 
                               (i)  an insolvent under administration; or
 
                              (ii)  a party (as a debtor) to a debt agreement; or
 
-                     (b)  at any time during the 10‑year period ending at the test time, the individual was convicted of an offence involving fraud or dishonesty; or
+                     (b)  at any time during the 10-year period ending at the test time, the individual was convicted of an offence involving fraud or dishonesty; or
 
                      (c)  at the test time, the individual is disqualified from managing corporations under Part 2D.6 of the _Corporations Act 2001_; or
 
-                     (d)  at any time during the 10‑year period ending at the test time, the individual’s registration as a liquidator was cancelled under subsection 1292(2) or (3) of the _Corporations Act 2001_; or
+                     (d)  at any time during the 10-year period ending at the test time, the individual’s registration as a liquidator was cancelled under subsection 1292(2) or (3) of the _Corporations Act 2001_; or
 
-                     (e)  at any time during the 10‑year period ending at the test time, the individual’s registration as a trustee ceased under section 155I for a reason specified in paragraph 155H(1)(a), (aa), (b), (e), (f), (fa) or (g); or
+                     (e)  at any time during the 10-year period ending at the test time, the individual’s registration as a trustee ceased under section 155I for a reason specified in paragraph 155H(1)(a), (aa), (b), (e), (f), (fa) or (g); or
 
-                      (f)  at any time during the 10‑year period ending at the test time, the individual’s registration as a debt agreement administrator was cancelled under section 186K on the ground that:
+                      (f)  at any time during the 10-year period ending at the test time, the individual’s registration as a debt agreement administrator was cancelled under section 186K on the ground that:
 
                               (i)  the individual contravened a condition that applied in relation to that registration; or
 
                              (ii)  the individual failed to properly carry out the duties of an administrator in relation to a debt agreement; or
 
-                     (g)  at any time during the 10‑year period ending at the test time, the individual’s registration as a debt agreement administrator was cancelled as a result of an order under section 185ZCA; or
+                     (g)  at any time during the 10-year period ending at the test time, the individual’s registration as a debt agreement administrator was cancelled as a result of an order under section 185ZCA; or
 
-                     (h)  at any time during the 10‑year period ending at the test time, a declaration was made under section 186M in relation to the individual; or
+                     (h)  at any time during the 10-year period ending at the test time, a declaration was made under section 186M in relation to the individual; or
 
-                      (i)  at any time during the 10‑year period ending at the test time, a determination in relation to the individual was made under subregulation 9.06(3) of the _Bankruptcy Regulations 1996_ as in force before the commencement of this section.
+                      (i)  at any time during the 10-year period ending at the test time, a determination in relation to the individual was made under subregulation 9.06(3) of the _Bankruptcy Regulations 1996_ as in force before the commencement of this section.
 
              (2)  Subparagraph (1)(a)(i) does not apply in relation to a bankruptcy that has been annulled under section 153B.
 
@@ -11891,29 +11882,29 @@ Companies
 
              (3)  For the purposes of this Division, a company **_passes the basic eligibility test_** at a particular time (the **_test time_**) unless:
 
-                     (a)  at any time during the 10‑year period ending at the test time, the company was an externally‑administered body corporate; or
+                     (a)  at any time during the 10-year period ending at the test time, the company was an externally-administered body corporate; or
 
-                     (b)  at any time during the 10‑year period ending at the test time, the company was convicted of an offence involving fraud or dishonesty; or
+                     (b)  at any time during the 10-year period ending at the test time, the company was convicted of an offence involving fraud or dishonesty; or
 
-                     (c)  at any time during the 10‑year period ending at the test time, the company’s registration as a debt agreement administrator was cancelled under section 186L on the ground that:
+                     (c)  at any time during the 10-year period ending at the test time, the company’s registration as a debt agreement administrator was cancelled under section 186L on the ground that:
 
                               (i)  the company contravened a condition that applied in relation to that registration; or
 
                              (ii)  the company failed to properly carry out the duties of an administrator in relation to a debt agreement; or
 
-                     (d)  at any time during the 10‑year period ending at the test time, the company’s registration as a debt agreement administrator was cancelled as a result of an order under section 185ZCA; or
+                     (d)  at any time during the 10-year period ending at the test time, the company’s registration as a debt agreement administrator was cancelled as a result of an order under section 185ZCA; or
 
-                     (e)  at any time during the 10‑year period ending at the test time, a declaration was made under section 186M in relation to the company; or
+                     (e)  at any time during the 10-year period ending at the test time, a declaration was made under section 186M in relation to the company; or
 
                       (f)  at the test time, a director of the company does not pass the basic eligibility test; or
 
-                     (g)  at any time during the 10‑year period ending at the test time, a determination in relation to the company was made under subregulation 9.06(3) of the _Bankruptcy Regulations 1996_ as in force before the commencement of this section.
+                     (g)  at any time during the 10-year period ending at the test time, a determination in relation to the company was made under subregulation 9.06(3) of the _Bankruptcy Regulations 1996_ as in force before the commencement of this section.
 
 #### Subdivision B—Registration of debt agreement administrators
 
 ##### <a id="186B"></a>186B  Application for registration as a debt agreement administrator
 
-             (1)  An individual or company may apply to the Inspector‑General to be registered as a debt agreement administrator.
+             (1)  An individual or company may apply to the Inspector-General to be registered as a debt agreement administrator.
 
              (2)  The application must:
 
@@ -11925,9 +11916,9 @@ Companies
 
                      (d)  if the application is by way of renewal—be made before the expiry of the applicant’s existing registration as a debt agreement administrator.
 
-##### <a id="186C"></a>186C  Inspector‑General must approve or refuse to approve registration application
+##### <a id="186C"></a>186C  Inspector-General must approve or refuse to approve registration application
 
-             (1)  After considering an application made under section 186B, the Inspector‑General must, within 60 days of receiving the application:
+             (1)  After considering an application made under section 186B, the Inspector-General must, within 60 days of receiving the application:
 
                      (a)  approve the application; or
 
@@ -11941,7 +11932,7 @@ Approval of application made by an individual
 
                      (b)  the application is not by way of renewal;
 
-the Inspector‑General must approve the application if the Inspector‑General is satisfied that the applicant:
+the Inspector-General must approve the application if the Inspector-General is satisfied that the applicant:
 
                      (c)  passes the basic eligibility test; and
 
@@ -11949,7 +11940,7 @@ the Inspector‑General must approve the application if the Inspector‑General 
 
                      (e)  has such qualifications and experience (if any) as are prescribed by the regulations.
 
-Otherwise the Inspector‑General must refuse to approve the application.
+Otherwise the Inspector-General must refuse to approve the application.
 
              (3)  If:
 
@@ -11957,7 +11948,7 @@ Otherwise the Inspector‑General must refuse to approve the application.
 
                      (b)  the application is by way of renewal;
 
-the Inspector‑General must approve the application.
+the Inspector-General must approve the application.
 
 Approval of application made by a company
 
@@ -11967,13 +11958,13 @@ Approval of application made by a company
 
                      (b)  the application is not by way of renewal;
 
-the Inspector‑General must approve the application if the Inspector‑General is satisfied that the applicant:
+the Inspector-General must approve the application if the Inspector-General is satisfied that the applicant:
 
                      (c)  passes the basic eligibility test; and
 
-                     (d)  has the ability to satisfactorily perform the duties of an administrator in relation to debt agreements.         
+                     (d)  has the ability to satisfactorily perform the duties of an administrator in relation to debt agreements.        
 
-Otherwise the Inspector‑General must refuse to approve the application.
+Otherwise the Inspector-General must refuse to approve the application.
 
              (5)  If:
 
@@ -11981,27 +11972,27 @@ Otherwise the Inspector‑General must refuse to approve the application.
 
                      (b)  the application is by way of renewal;
 
-the Inspector‑General must approve the application.
+the Inspector-General must approve the application.
 
 Guidelines
 
-             (6)  In deciding whether to approve an application made under section 186B, the Inspector‑General must have regard to any relevant guidelines in force under section 186Q.
+             (6)  In deciding whether to approve an application made under section 186B, the Inspector-General must have regard to any relevant guidelines in force under section 186Q.
 
 Notice of decision
 
-             (7)  If the Inspector‑General refuses to approve an application made under section 186B, the Inspector‑General must give the applicant a written notice of the refusal, and the reasons for it.
+             (7)  If the Inspector-General refuses to approve an application made under section 186B, the Inspector-General must give the applicant a written notice of the refusal, and the reasons for it.
 
 Review
 
-             (8)  If the Inspector‑General decides to refuse to approve an application made under section 186B, the applicant may apply to the Administrative Appeals Tribunal for review of the decision.
+             (8)  If the Inspector-General decides to refuse to approve an application made under section 186B, the applicant may apply to the Administrative Appeals Tribunal for review of the decision.
 
 Conditions of registration
 
-             (9)  If the Inspector‑General approves an application under section 186B, the Inspector‑General may decide that, if the applicant is registered as a debt agreement administrator under section 186D, the applicant’s registration as a debt agreement administrator is subject to specified conditions.
+             (9)  If the Inspector-General approves an application under section 186B, the Inspector-General may decide that, if the applicant is registered as a debt agreement administrator under section 186D, the applicant’s registration as a debt agreement administrator is subject to specified conditions.
 
-           (10)  If the Inspector‑General makes a decision under subsection (9), the Inspector‑General must give the applicant a written notice of the decision and the reasons for it.
+           (10)  If the Inspector-General makes a decision under subsection (9), the Inspector-General must give the applicant a written notice of the decision and the reasons for it.
 
-           (11)  If the Inspector‑General makes a decision under subsection (9), the applicant may apply to the Administrative Appeals Tribunal for review of the decision.
+           (11)  If the Inspector-General makes a decision under subsection (9), the applicant may apply to the Administrative Appeals Tribunal for review of the decision.
 
            (12)  In subsection (11):
 
@@ -12011,13 +12002,13 @@ Conditions of registration
 
              (1)  This section applies if:
 
-                     (a)  the Inspector‑General approves an application under section 186C; and
+                     (a)  the Inspector-General approves an application under section 186C; and
 
                      (b)  the applicant has paid the fee determined by the Minister by legislative instrument.
 
-             (2)  The Inspector‑General must register the applicant as a debt agreement administrator by entering on the National Personal Insolvency Index the details relating to the applicant that are prescribed by the regulations.
+             (2)  The Inspector-General must register the applicant as a debt agreement administrator by entering on the National Personal Insolvency Index the details relating to the applicant that are prescribed by the regulations.
 
-             (3)  After registering the applicant as a debt agreement administrator, the Inspector‑General must give the applicant a certificate of registration.
+             (3)  After registering the applicant as a debt agreement administrator, the Inspector-General must give the applicant a certificate of registration.
 
 ##### <a id="186E"></a>186E  Duration of registration as a debt agreement administrator
 
@@ -12031,7 +12022,7 @@ Conditions of registration
 
              (1)  This section applies to a person if the person is a registered debt agreement administrator.
 
-             (2)  The Inspector‑General may, by written notice given to the person, impose specified conditions on the person’s registration as a debt agreement administrator.
+             (2)  The Inspector-General may, by written notice given to the person, impose specified conditions on the person’s registration as a debt agreement administrator.
 
 ##### <a id="186G"></a>186G  Condition of registration—companies
 
@@ -12047,7 +12038,7 @@ Conditions of registration
 
 ##### <a id="186H"></a>186H  Application to change or remove registration conditions
 
-             (1)  If there are conditions on a person’s registration as a debt agreement administrator, the person may apply to the Inspector‑General for the conditions to be changed or removed.
+             (1)  If there are conditions on a person’s registration as a debt agreement administrator, the person may apply to the Inspector-General for the conditions to be changed or removed.
 
              (2)  The application must:
 
@@ -12055,7 +12046,7 @@ Conditions of registration
 
                      (b)  be accompanied by such information and documents (if any) as are specified in the regulations.
 
-             (3)  After considering an application made under subsection (1), the Inspector‑General must:
+             (3)  After considering an application made under subsection (1), the Inspector-General must:
 
                      (a)  decide that the conditions on the applicant’s registration as a debt agreement administrator should not be changed or removed; or
 
@@ -12065,13 +12056,13 @@ Note:          See the definition of **_modifications_** in su
 
 Notice of decision
 
-             (4)  If the Inspector‑General decides that the conditions on the applicant’s registration as a debt agreement administrator should not be changed or removed, the Inspector‑General must give the applicant a written notice of the decision, and the reasons for it.
+             (4)  If the Inspector-General decides that the conditions on the applicant’s registration as a debt agreement administrator should not be changed or removed, the Inspector-General must give the applicant a written notice of the decision, and the reasons for it.
 
-             (5)  If the Inspector‑General decides that specified modifications should be made to the conditions imposed on the applicant’s registration as a debt agreement administrator, the Inspector‑General must give the applicant a written notice of the decision, and the reasons for it.
+             (5)  If the Inspector-General decides that specified modifications should be made to the conditions imposed on the applicant’s registration as a debt agreement administrator, the Inspector-General must give the applicant a written notice of the decision, and the reasons for it.
 
 Review
 
-             (6)  The applicant may apply to the Administrative Appeals Tribunal for review of a decision of the Inspector‑General made under this section.
+             (6)  The applicant may apply to the Administrative Appeals Tribunal for review of a decision of the Inspector-General made under this section.
 
              (7)  In subsection (6):
 
@@ -12083,13 +12074,13 @@ Review
 
              (1)  This section applies to a person if the person is a registered debt agreement administrator.
 
-             (2)  The person may, by written notice given to the Inspector‑General, request the Inspector‑General to accept the surrender of the person’s registration as a debt agreement administrator.
+             (2)  The person may, by written notice given to the Inspector-General, request the Inspector-General to accept the surrender of the person’s registration as a debt agreement administrator.
 
              (3)  A request under subsection (2) must be in the approved form.
 
-             (4)  The person ceases to be registered as a debt agreement administrator when the Inspector‑General accepts the request.
+             (4)  The person ceases to be registered as a debt agreement administrator when the Inspector-General accepts the request.
 
-             (5)  If the Inspector‑General accepts a request given under subsection (2), the Inspector‑General must remove the person’s registration details from the National Personal Insolvency Index.
+             (5)  If the Inspector-General accepts a request given under subsection (2), the Inspector-General must remove the person’s registration details from the National Personal Insolvency Index.
 
 ##### <a id="186K"></a>186K  Cancellation of an individual’s registration as a debt agreement administrator
 
@@ -12099,11 +12090,11 @@ Scope
 
 Individual no longer passes the basic eligibility test
 
-             (2)  The Inspector‑General must cancel the individual’s registration as a debt agreement administrator if the Inspector‑General is satisfied that the individual no longer passes the basic eligibility test.
+             (2)  The Inspector-General must cancel the individual’s registration as a debt agreement administrator if the Inspector-General is satisfied that the individual no longer passes the basic eligibility test.
 
 Other grounds for cancellation of registration
 
-             (3)  The Inspector‑General may ask the individual to give the Inspector‑General a written explanation why the individual should continue to be registered as a debt agreement administrator, if the Inspector‑General has reasonable grounds to believe that:
+             (3)  The Inspector-General may ask the individual to give the Inspector-General a written explanation why the individual should continue to be registered as a debt agreement administrator, if the Inspector-General has reasonable grounds to believe that:
 
                      (a)  the individual no longer has the ability (including the knowledge) to satisfactorily perform the duties of an administrator in relation to a debt agreement; or
 
@@ -12115,27 +12106,27 @@ Other grounds for cancellation of registration
 
              (4)  If:
 
-                     (a)  the Inspector‑General does not receive an explanation within 28 days of requesting it; or
+                     (a)  the Inspector-General does not receive an explanation within 28 days of requesting it; or
 
                      (b)  receives an explanation, but is not satisfied with it;
 
-the Inspector‑General may cancel the individual’s registration as a debt agreement administrator.
+the Inspector-General may cancel the individual’s registration as a debt agreement administrator.
 
 Notice of cancellation
 
-             (5)  If the Inspector‑General cancels, under subsection (2) or (4), an individual’s registration as a debt agreement administrator, the Inspector‑General must give the individual written notice of the cancellation, and the reasons for it.
+             (5)  If the Inspector-General cancels, under subsection (2) or (4), an individual’s registration as a debt agreement administrator, the Inspector-General must give the individual written notice of the cancellation, and the reasons for it.
 
 Removal of registration details
 
-             (6)  If the Inspector‑General cancels, under subsection (2) or (4), an individual’s registration as a debt agreement administrator, the Inspector‑General must remove the individual’s registration details from the National Personal Insolvency Index.
+             (6)  If the Inspector-General cancels, under subsection (2) or (4), an individual’s registration as a debt agreement administrator, the Inspector-General must remove the individual’s registration details from the National Personal Insolvency Index.
 
 Guidelines
 
-             (7)  In deciding whether to cancel, under subsection (2) or (4), an individual’s registration as a debt agreement administrator, the Inspector‑General must have regard to any relevant guidelines in force under section 186Q.
+             (7)  In deciding whether to cancel, under subsection (2) or (4), an individual’s registration as a debt agreement administrator, the Inspector-General must have regard to any relevant guidelines in force under section 186Q.
 
 Review
 
-             (8)  If the Inspector‑General decides to cancel, under subsection (2) or (4), an individual’s registration as a debt agreement administrator, the individual may apply to the Administrative Appeals Tribunal for review of the decision.
+             (8)  If the Inspector-General decides to cancel, under subsection (2) or (4), an individual’s registration as a debt agreement administrator, the individual may apply to the Administrative Appeals Tribunal for review of the decision.
 
 ##### <a id="186L"></a>186L  Cancellation of a company’s registration as a debt agreement administrator
 
@@ -12145,11 +12136,11 @@ Scope
 
 Company no longer passes the basic eligibility test
 
-             (2)  The Inspector‑General must cancel the company’s registration as a debt agreement administrator if the Inspector‑General is satisfied that the company no longer passes the basic eligibility test.
+             (2)  The Inspector-General must cancel the company’s registration as a debt agreement administrator if the Inspector-General is satisfied that the company no longer passes the basic eligibility test.
 
 Other grounds for cancellation of registration
 
-             (3)  The Inspector‑General may ask the company to give the Inspector‑General a written explanation why the company should continue to be registered as a debt agreement administrator, if the Inspector‑General has reasonable grounds to believe that:
+             (3)  The Inspector-General may ask the company to give the Inspector-General a written explanation why the company should continue to be registered as a debt agreement administrator, if the Inspector-General has reasonable grounds to believe that:
 
                      (a)  the company no longer has the ability to satisfactorily perform the duties of an administrator in relation to a debt agreement; or
 
@@ -12159,51 +12150,51 @@ Other grounds for cancellation of registration
 
              (4)  If:
 
-                     (a)  the Inspector‑General does not receive an explanation within 28 days of requesting it; or
+                     (a)  the Inspector-General does not receive an explanation within 28 days of requesting it; or
 
                      (b)  receives an explanation, but is not satisfied with it;
 
-the Inspector‑General may cancel the company’s registration as a debt agreement administrator.
+the Inspector-General may cancel the company’s registration as a debt agreement administrator.
 
 Notice of cancellation
 
-             (5)  If the Inspector‑General cancels, under subsection (2) or (4), a company’s registration as a debt agreement administrator, the Inspector‑General must give the company written notice of the cancellation, and the reasons for it.
+             (5)  If the Inspector-General cancels, under subsection (2) or (4), a company’s registration as a debt agreement administrator, the Inspector-General must give the company written notice of the cancellation, and the reasons for it.
 
 Removal of registration details
 
-             (6)  If the Inspector‑General cancels, under subsection (2) or (4), a company’s registration as a debt agreement administrator, the Inspector‑General must remove the company’s registration details from the National Personal Insolvency Index.
+             (6)  If the Inspector-General cancels, under subsection (2) or (4), a company’s registration as a debt agreement administrator, the Inspector-General must remove the company’s registration details from the National Personal Insolvency Index.
 
 Guidelines
 
-             (7)  In deciding whether to cancel, under subsection (2) or (4), a company’s registration as a debt agreement administrator, the Inspector‑General must have regard to any relevant guidelines in force under section 186Q.
+             (7)  In deciding whether to cancel, under subsection (2) or (4), a company’s registration as a debt agreement administrator, the Inspector-General must have regard to any relevant guidelines in force under section 186Q.
 
 Review
 
-             (8)  If the Inspector‑General decides to cancel, under subsection (2) or (4), a company’s registration as a debt agreement administrator, the company may apply to the Administrative Appeals Tribunal for review of the decision.
+             (8)  If the Inspector-General decides to cancel, under subsection (2) or (4), a company’s registration as a debt agreement administrator, the company may apply to the Administrative Appeals Tribunal for review of the decision.
 
-##### <a id="186LA"></a>186LA  Inspector‑General may obtain information about debt agreement administration trust accounts
+##### <a id="186LA"></a>186LA  Inspector-General may obtain information about debt agreement administration trust accounts
 
 Scope
 
              (1)  This section applies to a bank if:
 
-                     (a)  the Inspector‑General believes on reasonable grounds that:
+                     (a)  the Inspector-General believes on reasonable grounds that:
 
                               (i)  a person who is or was an administrator of a debt agreement holds or held an account with the bank; and
 
                              (ii)  the account was kept, or purportedly kept, in compliance with subsection 185LD(1); and
 
-                     (b)  the Inspector‑General has asked the person:
+                     (b)  the Inspector-General has asked the person:
 
-                              (i)  under subsection 186K(3) or 186L(3), to give the Inspector‑General a written explanation why the person should continue to be registered as a debt agreement administrator; or
+                              (i)  under subsection 186K(3) or 186L(3), to give the Inspector-General a written explanation why the person should continue to be registered as a debt agreement administrator; or
 
-                             (ii)  under subsection 155H(1), to give the Inspector‑General a written explanation why the person should continue to be registered as a trustee; and
+                             (ii)  under subsection 155H(1), to give the Inspector-General a written explanation why the person should continue to be registered as a trustee; and
 
-                     (c)  if subparagraph (b)(ii) applies—the Inspector‑General asked for the explanation on the basis of paragraph 155H(1)(fa).
+                     (c)  if subparagraph (b)(ii) applies—the Inspector-General asked for the explanation on the basis of paragraph 155H(1)(fa).
 
 Requirement
 
-             (2)  The Inspector‑General may, by written notice given to the bank, require the bank to give to the Inspector‑General, within the period and in the manner specified in the notice, such information about the account as is specified in the notice.
+             (2)  The Inspector-General may, by written notice given to the bank, require the bank to give to the Inspector-General, within the period and in the manner specified in the notice, such information about the account as is specified in the notice.
 
 Offence
 
@@ -12215,31 +12206,31 @@ Offence
 
                      (c)  the omission contravenes a requirement in the notice.
 
-                    Penalty for contravention of this subsection:        60 penalty units.
+                    Penalty for contravention of this subsection: 60 penalty units.
 
-##### <a id="186LB"></a>186LB  Account‑freezing notices—debt agreement administration trust accounts
+##### <a id="186LB"></a>186LB  Account-freezing notices—debt agreement administration trust accounts
 
 Scope
 
              (1)  This section applies to a bank if:
 
-                     (a)  the Inspector‑General believes on reasonable grounds that:
+                     (a)  the Inspector-General believes on reasonable grounds that:
 
                               (i)  a person who is or was an administrator of a debt agreement holds or held an account with the bank; and
 
                              (ii)  the account was kept, or purportedly kept, in compliance with subsection 185LD(1); and
 
-                     (b)  at a particular time (the **_show cause time_**), the Inspector‑General asked the person:
+                     (b)  at a particular time (the **_show cause time_**), the Inspector-General asked the person:
 
-                              (i)  under subsection 186K(3) or 186L(3), to give the Inspector‑General a written explanation why the person should continue to be registered as a debt agreement administrator; or
+                              (i)  under subsection 186K(3) or 186L(3), to give the Inspector-General a written explanation why the person should continue to be registered as a debt agreement administrator; or
 
-                             (ii)  under subsection 155H(1), to give the Inspector‑General a written explanation why the person should continue to be registered as a trustee; and
+                             (ii)  under subsection 155H(1), to give the Inspector-General a written explanation why the person should continue to be registered as a trustee; and
 
-                     (c)  if subparagraph (b)(ii) applies—the Inspector‑General asked for the explanation on the basis of paragraph 155H(1)(fa).
+                     (c)  if subparagraph (b)(ii) applies—the Inspector-General asked for the explanation on the basis of paragraph 155H(1)(fa).
 
 Giving of freezing notice
 
-             (2)  The Inspector‑General may, by written notice (an **_account‑freezing_** **_notice_**) given to the bank within 42 days after the show cause time, direct the bank not to:
+             (2)  The Inspector-General may, by written notice (an **_account-freezing_** **_notice_**) given to the bank within 42 days after the show cause time, direct the bank not to:
 
                      (a)  make a withdrawal from the account; or
 
@@ -12247,17 +12238,17 @@ Giving of freezing notice
 
 except:
 
-                     (c)  in accordance with the written consent of the Inspector‑General; or
+                     (c)  in accordance with the written consent of the Inspector-General; or
 
-                     (d)  to recover from the account‑holder an amount equal to an amount of tax (however described) that the bank has paid or is liable to pay in connection to the operation of the account; or
+                     (d)  to recover from the account-holder an amount equal to an amount of tax (however described) that the bank has paid or is liable to pay in connection to the operation of the account; or
 
-                     (e)  to discharge a liability of the account‑holder to pay a fee or charge in relation to the operation of the account; or
+                     (e)  to discharge a liability of the account-holder to pay a fee or charge in relation to the operation of the account; or
 
                       (f)  in such circumstances (if any) as are specified in the regulations.
 
 Duration of freezing notice
 
-             (3)  An account‑freezing notice given to a bank:
+             (3)  An account-freezing notice given to a bank:
 
                      (a)  comes into force when the notice is given to the bank; and
 
@@ -12267,21 +12258,21 @@ Duration of freezing notice
 
                              (ii)  if a shorter period is specified in the notice—that shorter period.
 
-Extension of 42‑day period
+Extension of 42-day period
 
-             (4)  The Court may, on application by the Inspector‑General, extend, or further extend, the 42‑day period referred to in subsection (2) or subparagraph (3)(b)(i).
+             (4)  The Court may, on application by the Inspector-General, extend, or further extend, the 42-day period referred to in subsection (2) or subparagraph (3)(b)(i).
 
 Revocation of freezing notice
 
-             (5)  If an account‑freezing notice is in force in relation to a bank, the Inspector‑General may, by written notice given to the bank, revoke the account‑freezing notice.
+             (5)  If an account-freezing notice is in force in relation to a bank, the Inspector-General may, by written notice given to the bank, revoke the account-freezing notice.
 
-Copy of account‑freezing notice to be given to account‑holder etc.
+Copy of account-freezing notice to be given to account-holder etc.
 
-             (6)  If the Inspector‑General gives or revokes an account‑freezing notice that relates to an account, the Inspector‑General must give a copy of the account‑freezing notice or the revocation notice, as the case may be, to the holder of the account.
+             (6)  If the Inspector-General gives or revokes an account-freezing notice that relates to an account, the Inspector-General must give a copy of the account-freezing notice or the revocation notice, as the case may be, to the holder of the account.
 
-             (7)  A failure to comply with subsection (6) does not affect the validity of the account‑freezing notice or the revocation notice, as the case may be.
+             (7)  A failure to comply with subsection (6) does not affect the validity of the account-freezing notice or the revocation notice, as the case may be.
 
-Consent of Inspector‑General
+Consent of Inspector-General
 
              (8)  A consent under paragraph (2)(c) may be:
 
@@ -12289,25 +12280,25 @@ Consent of Inspector‑General
 
                      (b)  subject to such conditions (if any) as are specified in the notice of consent.
 
-             (9)  If the Inspector‑General decides to refuse to give a consent under paragraph (2)(c), an application may be made to the Administrative Appeals Tribunal for review of the decision.
+             (9)  If the Inspector-General decides to refuse to give a consent under paragraph (2)(c), an application may be made to the Administrative Appeals Tribunal for review of the decision.
 
-##### <a id="186LC"></a>186LC  Power of court to set aside account‑freezing notices
+##### <a id="186LC"></a>186LC  Power of court to set aside account-freezing notices
 
              (1)  If the Court, on application by:
 
-                     (a)  a bank to whom an account‑freezing notice has been given; or
+                     (a)  a bank to whom an account-freezing notice has been given; or
 
-                     (b)  the account‑holder whose account is affected by an account‑freezing notice; or
+                     (b)  the account-holder whose account is affected by an account-freezing notice; or
 
                      (c)  any other interested person;
 
-is satisfied that the Inspector‑General was not authorised to give the notice, the Court may make an order setting aside the notice.
+is satisfied that the Inspector-General was not authorised to give the notice, the Court may make an order setting aside the notice.
 
-             (2)  An account‑freezing notice that is set aside is taken not to have been given.
+             (2)  An account-freezing notice that is set aside is taken not to have been given.
 
-##### <a id="186LD"></a>186LD  Judicial enforcement of account‑freezing notices
+##### <a id="186LD"></a>186LD  Judicial enforcement of account-freezing notices
 
-             (1)  If the Court is satisfied that a bank has breached, or is proposing to breach, an account‑freezing notice, the Court may, on application of the Inspector‑General, make any or all of the following orders:
+             (1)  If the Court is satisfied that a bank has breached, or is proposing to breach, an account-freezing notice, the Court may, on application of the Inspector-General, make any or all of the following orders:
 
                      (a)  an order directing the bank to comply with that notice;
 
@@ -12319,13 +12310,13 @@ is satisfied that the Inspector‑General was not authorised to give the notice,
 
                    No criminal or civil proceedings lie against a bank because of anything done (or not done) by the bank in good faith:
 
-                     (a)  in compliance with an account‑freezing notice; or
+                     (a)  in compliance with an account-freezing notice; or
 
-                     (b)  in connection with, or incidental to, the bank’s compliance with an account‑freezing notice.
+                     (b)  in connection with, or incidental to, the bank’s compliance with an account-freezing notice.
 
 #### Subdivision D—Ineligibility of a person to act as a debt agreement administrator
 
-##### <a id="186M"></a>186M  Inspector‑General may declare a person ineligible to act as an administrator
+##### <a id="186M"></a>186M  Inspector-General may declare a person ineligible to act as an administrator
 
              (1)  This section applies to a person if:
 
@@ -12337,25 +12328,25 @@ is satisfied that the Inspector‑General was not authorised to give the notice,
 
                              (ii)  a registered trustee.
 
-             (2)  The Inspector‑General may ask the person to give the Inspector‑General a written explanation why the person should continue to be eligible to act as an administrator of debt agreements, if the Inspector‑General has reasonable grounds to believe that the person has failed to properly carry out the duties of an administrator in relation to the debt agreement.
+             (2)  The Inspector-General may ask the person to give the Inspector-General a written explanation why the person should continue to be eligible to act as an administrator of debt agreements, if the Inspector-General has reasonable grounds to believe that the person has failed to properly carry out the duties of an administrator in relation to the debt agreement.
 
              (3)  If:
 
-                     (a)  the Inspector‑General does not receive an explanation within 28 days of requesting it; or
+                     (a)  the Inspector-General does not receive an explanation within 28 days of requesting it; or
 
                      (b)  receives an explanation, but is not satisfied with it;
 
-the Inspector‑General may declare that the person is ineligible, for a period of 3 years, to act as an administrator of debt agreements.
+the Inspector-General may declare that the person is ineligible, for a period of 3 years, to act as an administrator of debt agreements.
 
-             (4)  If the Inspector‑General makes a declaration under subsection (3), the Inspector‑General must give the person written notice of the declaration, and the reasons for it.
+             (4)  If the Inspector-General makes a declaration under subsection (3), the Inspector-General must give the person written notice of the declaration, and the reasons for it.
 
 Guidelines
 
-             (5)  In deciding whether to make a declaration under subsection (3), the Inspector‑General must have regard to any relevant guidelines in force under section 186Q.
+             (5)  In deciding whether to make a declaration under subsection (3), the Inspector-General must have regard to any relevant guidelines in force under section 186Q.
 
 Review
 
-             (6)  If the Inspector‑General decides to make a declaration under subsection (3) in relation to a person, the person may apply to the Administrative Appeals Tribunal for review of the decision.
+             (6)  If the Inspector-General decides to make a declaration under subsection (3) in relation to a person, the person may apply to the Administrative Appeals Tribunal for review of the decision.
 
 #### Subdivision E—Miscellaneous
 
@@ -12369,7 +12360,7 @@ Surrender of registration as a debt agreement administrator
 
                      (b)  the person gives a notice under subsection 186J(2) surrendering the person’s registration as a debt agreement administrator; and
 
-                     (c)  the person does not return the certificate of registration to the Inspector‑General before the end of the period of 7 days beginning on the day the Inspector‑General accepts the notice.
+                     (c)  the person does not return the certificate of registration to the Inspector-General before the end of the period of 7 days beginning on the day the Inspector-General accepts the notice.
 
                     Penalty:  5 penalty units.
 
@@ -12387,7 +12378,7 @@ Cancellation of an individual’s registration as a debt agreement administrator
 
                      (b)  the individual’s registration as a debt agreement administrator is cancelled under section 186K; and
 
-                     (c)  the individual does not return the certificate of registration to the Inspector‑General before the end of the period of 7 days beginning on the day the individual is given a notice under subsection 186K(5) in relation to the cancellation.
+                     (c)  the individual does not return the certificate of registration to the Inspector-General before the end of the period of 7 days beginning on the day the individual is given a notice under subsection 186K(5) in relation to the cancellation.
 
                     Penalty:  5 penalty units.
 
@@ -12405,7 +12396,7 @@ Cancellation of a company’s registration as a debt agreement administrator
 
                      (b)  the company’s registration as a debt agreement administrator is cancelled under section 186L; and
 
-                     (c)  the company does not return the certificate of registration to the Inspector‑General before the end of the period of 7 days beginning on the day the company is given a notice under subsection 186L(5) in relation to the cancellation.
+                     (c)  the company does not return the certificate of registration to the Inspector-General before the end of the period of 7 days beginning on the day the company is given a notice under subsection 186L(5) in relation to the cancellation.
 
                     Penalty:  5 penalty units.
 
@@ -12423,7 +12414,7 @@ Cancellation by court order of registration as a debt agreement administrator
 
                      (b)  the person’s registration as a debt agreement administrator is cancelled as a result of an order under section 185ZCA; and
 
-                     (c)  the person does not return the certificate of registration to the Inspector‑General before the end of the period of 7 days beginning on the day of the cancellation.
+                     (c)  the person does not return the certificate of registration to the Inspector-General before the end of the period of 7 days beginning on the day of the cancellation.
 
                     Penalty:  5 penalty units.
 
@@ -12445,9 +12436,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  The person is not entitled to a refund of all or part of a fee paid by the person in relation to the person’s registration as a debt agreement administrator.
 
-##### <a id="186Q"></a>186Q  Guidelines relating to Inspector‑General’s powers
+##### <a id="186Q"></a>186Q  Guidelines relating to Inspector-General’s powers
 
-                   The Inspector‑General may, by legislative instrument, formulate guidelines for the purposes of the following provisions:
+                   The Inspector-General may, by legislative instrument, formulate guidelines for the purposes of the following provisions:
 
                      (a)  subsection 186C(6);
 
@@ -12489,7 +12480,7 @@ Note:          For consultation requirements, see Part 3 of 
 
                      (a)  is personally present or ordinarily resident in Australia;
 
-                     (b)  has a dwelling‑house or place of business in Australia;
+                     (b)  has a dwelling-house or place of business in Australia;
 
                      (c)  is carrying on business in Australia, either personally or by means of an agent or manager; or
 
@@ -12505,7 +12496,7 @@ may sign an authority in accordance with the approved form naming and authorisin
 
        (2AA)  If the person authorised is a registered trustee or a solicitor, then, before the person consents to exercise the powers given by the authority, the person must give the debtor the information prescribed by the regulations.
 
-       (2AB)  If the person authorised is the Official Trustee, then, before the Official Receiver gives approval to name the Official Trustee in the authority, the Official Receiver must give the debtor the information prescribed by the regulations.
+        (2AB)  If the person authorised is the Official Trustee, then, before the Official Receiver gives approval to name the Official Trustee in the authority, the Official Receiver must give the debtor the information prescribed by the regulations.
 
           (2A)  The regulations may prescribe the circumstances in which a person (other than the Official Trustee or a registered trustee) is ineligible to act as a controlling trustee under this Part.
 
@@ -12531,7 +12522,7 @@ Note:          Section 6A sets out requirements for statemen
 
 Note:          Section 6A sets out requirements for statements of affairs.
 
-          (2E)  A proposal for dealing with the debtor’s affairs under this Part must include a draft personal insolvency agreement.
+           (2E)  A proposal for dealing with the debtor’s affairs under this Part must include a draft personal insolvency agreement.
 
 Note:          Section 188A sets out requirements for personal insolvency agreements.
 
@@ -12870,7 +12861,7 @@ Declaration of relationships
 
                      (d)  considering whether the debtor has committed an offence against this Act;
 
-                     (e)  referring to the Inspector‑General or to relevant law enforcement authorities any evidence of an offence by the debtor against this Act;
+                     (e)  referring to the Inspector-General or to relevant law enforcement authorities any evidence of an offence by the debtor against this Act;
 
                       (f)  making appropriate inquiries and investigations in connection with the debtor’s property and examinable affairs;
 
@@ -12882,7 +12873,7 @@ Declaration of relationships
 
 ##### <a id="191"></a>191  Payments to protect property etc.
 
-                   Without prejudice to the powers conferred on a controlling trustee by section 190, the trustee may, at any time while the property of the debtor is subject to his or her control, make any payments from the debtor’s money that, in the opinion of the trustee, it is necessary to pay for the purpose of safe‑guarding the value of his or her property or any of it or of avoiding forfeiture or determination of any interest or rights of the debtor in or to property.
+                   Without prejudice to the powers conferred on a controlling trustee by section 190, the trustee may, at any time while the property of the debtor is subject to his or her control, make any payments from the debtor’s money that, in the opinion of the trustee, it is necessary to pay for the purpose of safe-guarding the value of his or her property or any of it or of avoiding forfeiture or determination of any interest or rights of the debtor in or to property.
 
 ##### <a id="192"></a>192  Changing the controlling trustee
 
@@ -13368,7 +13359,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (c)  a meeting of creditors called in pursuance of such an authority has not, within 4 months from the date for which the meeting was called, passed one of the special resolutions referred to in subsection 204(1);
 
-the Court may, if it thinks fit, on the application of the Inspector‑General, a creditor or the controlling trustee, forthwith make a sequestration order against the estate of the debtor.
+the Court may, if it thinks fit, on the application of the Inspector-General, a creditor or the controlling trustee, forthwith make a sequestration order against the estate of the debtor.
 
              (2)  The Court may, if it thinks fit, dispense with service on the debtor of notice of an application under this section, either unconditionally or subject to conditions.
 
@@ -13406,7 +13397,7 @@ Setting aside on grounds of unreasonableness etc.
 
              (1)  If a personal insolvency agreement is in force, the Court may, on application by:
 
-                     (a)  the Inspector‑General; or
+                     (a)  the Inspector-General; or
 
                      (b)  the trustee; or
 
@@ -13418,11 +13409,11 @@ make an order setting the agreement aside if the Court is satisfied that:
 
                      (e)  for any other reason, the agreement ought to be set aside.
 
-Setting aside on grounds of non‑compliance with this Part etc.
+Setting aside on grounds of non-compliance with this Part etc.
 
              (2)  If a personal insolvency agreement is in force, the Court may, on application by:
 
-                     (a)  the Inspector‑General; or
+                     (a)  the Inspector-General; or
 
                      (b)  the trustee; or
 
@@ -13444,7 +13435,7 @@ Setting aside on grounds of false or misleading information etc.
 
              (5)  If a personal insolvency agreement is in force, the Court may, on application by:
 
-                     (a)  the Inspector‑General; or
+                     (a)  the Inspector-General; or
 
                      (b)  the trustee; or
 
@@ -13496,13 +13487,13 @@ Ancillary orders
 
 Application for sequestration order
 
-           (10)  The trustee or a creditor may include in an application under subsection (1), (2) or (5) an application for a sequestration order against the estate of the debtor. If the Court, on the first‑mentioned application, makes an order under this section setting the personal insolvency agreement aside, it may, if it thinks fit, immediately make the sequestration order sought.
+           (10)  The trustee or a creditor may include in an application under subsection (1), (2) or (5) an application for a sequestration order against the estate of the debtor. If the Court, on the first-mentioned application, makes an order under this section setting the personal insolvency agreement aside, it may, if it thinks fit, immediately make the sequestration order sought.
 
            (11)  The making of an application by the trustee or a creditor for a sequestration order under this section is taken, for the purposes of this Act, to be equivalent to the presentation of a creditor’s petition against the debtor, but the provisions of subsection 43(1), sections 44 and 47, subsections 52(1) and (2) and Part XIA do not apply in relation to such an application.
 
 Court may dispense with service on debtor of notice of application
 
-           (12)  The Court may, if it thinks fit, dispense with service on the debtor of notice of an application by the Inspector‑General, the trustee or a creditor under this section, either unconditionally or subject to conditions.
+           (12)  The Court may, if it thinks fit, dispense with service on the debtor of notice of an application by the Inspector-General, the trustee or a creditor under this section, either unconditionally or subject to conditions.
 
 ##### <a id="222A"></a>222A  Termination of personal insolvency agreement by trustee
 
@@ -13602,7 +13593,7 @@ Ancillary orders
 
 Application for sequestration order
 
-             (5)  The trustee or a creditor may include in an application under subsection (1) an application for a sequestration order against the estate of the debtor. If the Court, on the first‑mentioned application, makes an order under this section terminating the personal insolvency agreement, it may, if it thinks fit, immediately make the sequestration order sought.
+             (5)  The trustee or a creditor may include in an application under subsection (1) an application for a sequestration order against the estate of the debtor. If the Court, on the first-mentioned application, makes an order under this section terminating the personal insolvency agreement, it may, if it thinks fit, immediately make the sequestration order sought.
 
              (6)  The making of an application by the trustee or a creditor for a sequestration order under this section is taken, for the purposes of this Act, to be equivalent to the presentation of a creditor’s petition against the debtor, but the provisions of subsection 43(1), sections 44 and 47, subsections 52(1) and (2) and Part XIA do not apply in relation to such an application.
 
@@ -13620,7 +13611,7 @@ Court may dispense with service on debtor of notice of application
 
                      (a)  may call such meetings of the creditors as he or she considers necessary or desirable for the purposes of this Part; and
 
-                     (b)  shall call meetings of the creditors at such times as the creditors, by resolution, direct and whenever requested in writing to call such a meeting by not less than one‑fourth in value of the creditors.
+                     (b)  shall call meetings of the creditors at such times as the creditors, by resolution, direct and whenever requested in writing to call such a meeting by not less than one-fourth in value of the creditors.
 
              (3)  If, at any time, there is no trustee of a personal insolvency agreement, any creditor or the debtor may call a meeting of creditors (other than the meeting referred to in section 194) for the purposes of appointing a trustee of the agreement.
 
@@ -13790,7 +13781,7 @@ and, for the purposes of enabling the secured creditor, or a person claiming thr
 
              (5)  A personal insolvency agreement does not release from any liability a person who, at the date on which the debtor executed the agreement, was:
 
-                     (a)  a partner or a co‑trustee with the debtor; or
+                     (a)  a partner or a co-trustee with the debtor; or
 
                      (b)  jointly bound or had made a joint contract with the debtor; or
 
@@ -13840,7 +13831,7 @@ and, for the purposes of enabling the secured creditor, or a person claiming thr
 
                      (b)  all provable debts; and
 
-                     (c)  interest on interest‑bearing provable debts.
+                     (c)  interest on interest-bearing provable debts.
 
              (2)  The Court may make an order directing the trustee not to pay or transfer the property, or a specified part of the property, referred to in subsection (1), to the debtor if:
 
@@ -13896,7 +13887,7 @@ the creditor or creditors to whom the debt or debts is or are owing may present 
 
                               (i)  was personally present or ordinarily resident in Australia;
 
-                             (ii)  had a dwelling‑house or place of business in Australia;
+                             (ii)  had a dwelling-house or place of business in Australia;
 
                             (iii)  was carrying on business in Australia, either personally or by means of an agent or manager; or
 
@@ -14024,7 +14015,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (d)  a reference to the date of the bankruptcy or to the date on which a person became a bankrupt shall be read as a reference to the date on which the order for administration under this Part was made;
 
-                   (da)  a reference to the commencement of the bankruptcy shall be read as a reference to the time at which administration of the estate under this Part is, by virtue of section 247A, to be deemed to have commenced;
+                    (da)  a reference to the commencement of the bankruptcy shall be read as a reference to the time at which administration of the estate under this Part is, by virtue of section 247A, to be deemed to have commenced;
 
                      (e)  a reference to a bankrupt shall be read as a reference to a deceased person in respect of whose estate an order for administration under this Part has been made and as including a reference to the estate of that deceased person; and
 
@@ -14068,9 +14059,9 @@ and, if the Court does so, those estates shall be administered accordingly.
 
              (1)  Subject to this Act, where an order is made for the administration of the estate of a deceased person under this Part:
 
-                     (a)  the divisible property of the estate, not being after‑acquired property, vests forthwith in the Official Trustee or, if when the order is made, a registered trustee is trustee of the estate of the deceased person under this Act, in that registered trustee; and
+                     (a)  the divisible property of the estate, not being after-acquired property, vests forthwith in the Official Trustee or, if when the order is made, a registered trustee is trustee of the estate of the deceased person under this Act, in that registered trustee; and
 
-                     (b)  after‑acquired property of the estate vests, as soon as it is acquired by, or devolves on, the estate, in the Official Trustee or, if a registered trustee is trustee of the estate of the deceased person under this Act, in that registered trustee;
+                     (b)  after-acquired property of the estate vests, as soon as it is acquired by, or devolves on, the estate, in the Official Trustee or, if a registered trustee is trustee of the estate of the deceased person under this Act, in that registered trustee;
 
 and is divisible amongst the creditors of the deceased person and of his or her estate in accordance with this Act.
 
@@ -14190,7 +14181,7 @@ and is divisible amongst the creditors of the deceased person and of his or her 
 
            (10)  In this section:
 
-                    <a name="acquired-properti"></a>**_after‑acquired property_**, in relation to an estate, means property that is acquired by, or devolves on, the estate of the deceased person on or after the day on which the order for the administration of the estate under this Part is made, being property that is part of the divisible property of the estate.
+                    <a name="acquired-properti"></a>**_after-acquired property_**, in relation to an estate, means property that is acquired by, or devolves on, the estate of the deceased person on or after the day on which the order for the administration of the estate under this Part is made, being property that is part of the divisible property of the estate.
 
                     <a name="commenc-administr"></a>**_commencement of administration_**, in relation to the administration of the estate of a deceased person under this Part, means the time at which the administration of the estate under this Part is, by virtue of section 247A, to be deemed to have commenced.
 
@@ -14216,7 +14207,7 @@ there is created, by force of this subsection, a charge on that property to secu
 
                      (a)  ceases to have effect in respect of the property upon the sale of the property to a _bona fide_ purchaser for value who, at the time of the purchase, has no notice of the charge; and
 
-                     (b)  is postponed in favour of a further charge, or an encumbrance, on the property acquired _bona fide_ and for value by a person who, at the time of the acquisition, had no notice of the first‑mentioned charge.
+                     (b)  is postponed in favour of a further charge, or an encumbrance, on the property acquired _bona fide_ and for value by a person who, at the time of the acquisition, had no notice of the first-mentioned charge.
 
              (4)  Where a charge is created by subsection (1) on property of a particular kind and the provisions of any law of the Commonwealth or of a State or Territory provide for the registration of charges over property of that kind, the trustee of the estate may cause the charge to be registered under the provisions of that law and, if he or she does so, a person who purchases or otherwise acquires the property, or an interest in the property, after registration of the charge shall, for the purposes of subsection (3), be deemed to have notice of the charge.
 
@@ -14266,11 +14257,11 @@ there is created, by force of this subsection, a charge on that property to secu
 
                      (b)  the trustee of the estate of a bankrupt who has died receives notice of the presentation of a petition for the administration of the estate of the deceased bankrupt under this Part;
 
-the trustee shall hold the after‑acquired property of the deceased bankrupt that is then in the possession of the trustee, or the proceeds thereof, until the petition has been dealt with by the Court or has lapsed.
+the trustee shall hold the after-acquired property of the deceased bankrupt that is then in the possession of the trustee, or the proceeds thereof, until the petition has been dealt with by the Court or has lapsed.
 
-             (3)  Where the trustee of the estate of a bankrupt who has died receives, after the death of the bankrupt, notice of the reference to the Court of a debtor’s petition against the deceased bankrupt, being a petition that was presented before he or she died, the trustee shall hold the after‑acquired property of the deceased bankrupt that is then in the possession of the trustee, or the proceeds thereof, until the Court has dealt with the petition.
+             (3)  Where the trustee of the estate of a bankrupt who has died receives, after the death of the bankrupt, notice of the reference to the Court of a debtor’s petition against the deceased bankrupt, being a petition that was presented before he or she died, the trustee shall hold the after-acquired property of the deceased bankrupt that is then in the possession of the trustee, or the proceeds thereof, until the Court has dealt with the petition.
 
-             (4)  Where the trustee of the estate of a bankrupt who has died is holding after‑acquired property of the deceased bankrupt, or the proceeds of any such property, in pursuance of subsection 59(2) or (3) or subsection (2) or (3) of this section and an order is made for the administration of the estate of the deceased bankrupt under this Part, the trustee shall:
+             (4)  Where the trustee of the estate of a bankrupt who has died is holding after-acquired property of the deceased bankrupt, or the proceeds of any such property, in pursuance of subsection 59(2) or (3) or subsection (2) or (3) of this section and an order is made for the administration of the estate of the deceased bankrupt under this Part, the trustee shall:
 
                      (a)  in a case where the trustee is also the trustee in relation to the administration of the estate of the deceased bankrupt under this Part—hold all such property, and the proceeds of such property, as trustee in relation to the administration of the estate of the deceased bankrupt under this Part; or
 
@@ -14278,7 +14269,7 @@ the trustee shall hold the after‑acquired property of the deceased bankrupt th
 
              (5)  Where a law of the Commonwealth or of a State or Territory of the Commonwealth requires the transmission of property to be registered, and enables the trustee in relation to the administration of the estate of a deceased person under this Part to be registered as the owner of any such property that is part of the property of the estate, that property, notwithstanding that it vests in equity in the trustee by virtue of subsection (1), does not vest in the trustee at law until the requirements of that law have been complied with.
 
-             (6)  In subsections (2), (3) and (4),**_after‑acquired property_**, in relation to a deceased bankrupt, means such of the property that was acquired by, or devolved on, the bankrupt on or after the date of the bankruptcy and before he or she died or that was acquired by, or devolved on, the estate of the bankrupt after his or her death, being property divisible among the creditors of the deceased bankrupt, as has not been distributed amongst the creditors in the bankruptcy.
+             (6)  In subsections (2), (3) and (4),**_after-acquired property_**, in relation to a deceased bankrupt, means such of the property that was acquired by, or devolved on, the bankrupt on or after the date of the bankruptcy and before he or she died or that was acquired by, or devolved on, the estate of the bankrupt after his or her death, being property divisible among the creditors of the deceased bankrupt, as has not been distributed amongst the creditors in the bankruptcy.
 
 ##### <a id="251"></a>251  Real property devised by will that vests directly in devisee to form part of estate in certain cases
 
@@ -14362,13 +14353,13 @@ the property, even though it vests in equity in the person named in the order, d
 
                      (a)  provides for the giving of financial assistance for the purpose of discharging debts of persons who are farmers within the meaning of the _Loan (Farmers’ Debt Adjustment) Act 1935_; or
 
-                     (c)  gives effect to the agreement between the Commonwealth and the States the execution of which, on behalf of the Commonwealth, was approved by the _States Grants (Rural Adjustment) Act 1976_ or that agreement as subsequently amended (including that agreement as amended by the agreement between the Commonwealth, the States and the Northern Territory the execution of which, on behalf of the Commonwealth, was approved by the _States and Northern Territory Grants (Rural Adjustment) Act 1979_ or that last‑mentioned agreement as subsequently amended); or 
+                     (c)  gives effect to the agreement between the Commonwealth and the States the execution of which, on behalf of the Commonwealth, was approved by the _States Grants (Rural Adjustment) Act 1976_ or that agreement as subsequently amended (including that agreement as amended by the agreement between the Commonwealth, the States and the Northern Territory the execution of which, on behalf of the Commonwealth, was approved by the _States and Northern Territory Grants (Rural Adjustment) Act 1979_ or that last-mentioned agreement as subsequently amended); or 
 
                      (d)  gives effect to the agreement between the Commonwealth and the States and the Northern Territory the execution of which, on behalf of the Commonwealth, was approved by the _States and Northern Territory Grants (Rural Adjustment) Act 1985_ or that agreement as subsequently amended; or
 
-                     (e)  gives effect to an agreement between the Commonwealth and a State or the Northern Territory whose execution, on behalf of the Commonwealth, was approved by the _States and Northern Territory Grants (Rural Adjustment) Act 1988_, or that agreement as subsequently amended;
+                     (e)  gives effect to an agreement between the Commonwealth and a State or the Northern Territory whose execution, on behalf of the Commonwealth, was approved by the _States and__Northern   Territory__Grants (Rural Adjustment) Act 1988_, or that agreement as subsequently amended;
 
-the Governor‑General may, by Proclamation, specify the law as a law in relation to which this Part applies.
+the Governor-General may, by Proclamation, specify the law as a law in relation to which this Part applies.
 
 ##### <a id="253C"></a>253C  Notice about stay under proclaimed law
 
@@ -14480,13 +14471,13 @@ the Official Trustee, Official Receiver or registered trustee, as the case may b
 
                      (b)  an Australian Diplomatic Officer or an Australian Consular Officer, as defined by the _Consular Fees Act 1955_, exercising his or her function in that place;
 
-                   (ba)  an employee of the Commonwealth who is:
+                    (ba)  an employee of the Commonwealth who is:
 
                               (i)  authorised under paragraph 3(c) of the _Consular Fees Act 1955_; and
 
                              (ii)  exercising his or her function in that place;
 
-                   (bb)  an employee of the Australian Trade Commission who is:
+                    (bb)  an employee of the Australian Trade Commission who is:
 
                               (i)  authorised under paragraph 3(d) of the _Consular Fees Act 1955_; and
 
@@ -14546,7 +14537,7 @@ the Official Trustee, Official Receiver or registered trustee, as the case may b
 
                             (iii)  under a personal insolvency agreement, a deed of assignment; and
 
-                     (b)  the first‑mentioned person knows that the property has been so seized.
+                     (b)  the first-mentioned person knows that the property has been so seized.
 
                     Penalty:  Imprisonment for 1 year _._
 
@@ -14788,7 +14779,7 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (3A) (see subsection 13.3(3) of the _Criminal Code_).
 
-             (4)  The occupier, or person in charge, of premises that a person enters under a warrant issued under section 130 shall provide to the last‑mentioned person all reasonable facilities and assistance for the effective exercise of his or her powers under the warrant.
+             (4)  The occupier, or person in charge, of premises that a person enters under a warrant issued under section 130 shall provide to the last-mentioned person all reasonable facilities and assistance for the effective exercise of his or her powers under the warrant.
 
                     Penalty:  Imprisonment for 12 months.
 
@@ -14814,7 +14805,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (d)  accompanies a petition presented under subsection 57(1); or
 
-                   (da)  is given to the Official Receiver under section 77CA; or
+                    (da)  is given to the Official Receiver under section 77CA; or
 
                      (e)  is given to the Official Receiver under:
 
@@ -14916,7 +14907,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  shall not refuse or fail to comply with a direction of the trustee of the agreement to deliver up to the trustee property subject to the agreement that is in the possession of the debtor;
 
-                   (ba)  shall fully and truly disclose to the trustee of the agreement such information about any of the debtor’s conduct and examinable affairs as the trustee requires;
+                    (ba)  shall fully and truly disclose to the trustee of the agreement such information about any of the debtor’s conduct and examinable affairs as the trustee requires;
 
                      (c)  shall not refuse or fail to comply with a direction by the trustee of the agreement:
 
@@ -14986,11 +14977,11 @@ is guilty of an offence and is punishable, upon conviction, if the offence relat
 
                             without informing that person that he or she is an undischarged bankrupt or a party to a debt agreement (as the case requires);
 
-                   (ab)  either alone or jointly with another person, enter into a hire‑purchase agreement with a person, or enter into a contract or agreement for the leasing or hiring of any goods from a person, being a hire‑purchase agreement, contract or agreement under which the amounts payable to that person amount in the aggregate to $3,000 or more, without informing that person that he or she is an undischarged bankrupt or a party to a debt agreement (as the case requires);
+                    (ab)  either alone or jointly with another person, enter into a hire-purchase agreement with a person, or enter into a contract or agreement for the leasing or hiring of any goods from a person, being a hire-purchase agreement, contract or agreement under which the amounts payable to that person amount in the aggregate to $3,000 or more, without informing that person that he or she is an undischarged bankrupt or a party to a debt agreement (as the case requires);
 
                     (ac)  either alone or jointly with another person, obtain goods or services from a person by promising to pay that person or another person an amount of, or amounts aggregating, $3,000 or more without informing that person that he or she is an undischarged bankrupt or a party to a debt agreement (as the case requires);
 
-                   (ad)  either alone or jointly with another person, obtain an amount of, or amounts aggregating, $3,000 or more from a person by promising to supply goods to, or render services for, that person or another person without informing that person that he or she is an undischarged bankrupt or a party to a debt agreement (as the case requires); or
+                    (ad)  either alone or jointly with another person, obtain an amount of, or amounts aggregating, $3,000 or more from a person by promising to supply goods to, or render services for, that person or another person without informing that person that he or she is an undischarged bankrupt or a party to a debt agreement (as the case requires); or
 
                      (b)  carry on business under an assumed name, in the name of another person or, either alone or in partnership, under a firm name without disclosing to every person with whom he or she or, if he or she is carrying on business in partnership under a firm name, the partnership deals, his or her true name and the fact that he or she is an undischarged bankrupt or a party to a debt agreement (as the case requires).
 
@@ -15461,7 +15452,7 @@ Note:          State and Territory courts are conferred jurisd
 
 ##### <a id="279"></a>279  Administration of, and powers and functions in relation to, the Charges Acts
 
-             (1)  The Inspector‑General has the general administration of the Estate Charges Act.
+             (1)  The Inspector-General has the general administration of the Estate Charges Act.
 
              (2)  A reference to “this Act” in section 12 or 77AA of this Act is taken to include a reference to the Estate Charges Act.
 
@@ -15473,7 +15464,7 @@ Note:          State and Territory courts are conferred jurisd
 
                      (b)  the account has not been closed; and
 
-                     (c)  the person has notified the Inspector‑General as provided for in subsection (3).
+                     (c)  the person has notified the Inspector-General as provided for in subsection (3).
 
              (2)  A person may defer the payment of an amount of realisations charge relating to a particular bankrupt’s estate, deceased person’s estate or debtor’s property, as the case may be, if:
 
@@ -15481,9 +15472,9 @@ Note:          State and Territory courts are conferred jurisd
 
                      (b)  the trustee account in relation to the estate or property has not been closed; and
 
-                     (c)  the person has notified the Inspector‑General as provided for in subsection (3).
+                     (c)  the person has notified the Inspector-General as provided for in subsection (3).
 
-             (3)  If a person intends to defer paying an amount of interest charge or realisations charge, he or she must notify the Inspector‑General in writing of that fact before the time by which the amount is otherwise required to be paid.
+             (3)  If a person intends to defer paying an amount of interest charge or realisations charge, he or she must notify the Inspector-General in writing of that fact before the time by which the amount is otherwise required to be paid.
 
              (4)  If a person defers payment of an amount of interest charge or realisations charge in accordance with this section, the amount is still payable to the Commonwealth, but the person does not have to pay it until 21 days after whichever of the following happens first:
 
@@ -15515,15 +15506,15 @@ Note:          As a deferred amount is still payable to the Co
 
 ##### <a id="282"></a>282  Extension of time for payment—interest charge and realisations charge
 
-             (1)  The Inspector‑General may, in a particular case, extend the time for payment of interest charge or realisations charge.
+             (1)  The Inspector-General may, in a particular case, extend the time for payment of interest charge or realisations charge.
 
              (2)  The following provisions apply in relation to extensions of time under subsection (1):
 
                      (a)  the person liable to pay the charge may apply for an extension;
 
-                     (b)  an application is to be in writing, setting out the reasons for  the application, and is to be made to the Inspector‑General before the original time for payment;
+                     (b)  an application is to be in writing, setting out the reasons for  the application, and is to be made to the Inspector-General before the original time for payment;
 
-                     (c)  the Inspector‑General’s decision on an application is to be in writing;
+                     (c)  the Inspector-General’s decision on an application is to be in writing;
 
                      (d)  application may be made to the Administrative Appeals Tribunal for review of a decision to refuse an application, or to grant a lesser extension than was applied for.
 
@@ -15531,7 +15522,7 @@ Note:          Section 27A of the _Administrative Appeals Tr
 
 ##### <a id="283"></a>283  Remission of interest charge, realisations charge and late payment penalty
 
-             (1)  The Inspector‑General may remit an amount of interest charge, realisations charge or late payment penalty that is payable but has not been paid if the Inspector‑General thinks that:
+             (1)  The Inspector-General may remit an amount of interest charge, realisations charge or late payment penalty that is payable but has not been paid if the Inspector-General thinks that:
 
                      (a)  failure to remit the amount would cause a person undue hardship; and
 
@@ -15541,9 +15532,9 @@ Note:          Section 27A of the _Administrative Appeals Tr
 
                      (a)  the person liable to pay the charge or penalty may apply for a remission;
 
-                     (b)  an application is to be in writing, setting out the reasons for  the application, and is to be made to the Inspector‑General;
+                     (b)  an application is to be in writing, setting out the reasons for  the application, and is to be made to the Inspector-General;
 
-                     (c)  the Inspector‑General’s decision on an application is to be in writing;
+                     (c)  the Inspector-General’s decision on an application is to be in writing;
 
                      (d)  application may be made to the Administrative Appeals Tribunal for review of a decision to refuse an application, or to remit a lesser amount than was applied for.
 
@@ -15591,17 +15582,17 @@ then, for the purposes of working out if there is a liability to late payment pe
 
 ##### <a id="301"></a>301  Certain provisions in contracts etc. to be void
 
-             (1)  A provision in a contract or agreement for the sale of property, in a lease of property, in a hire‑purchase agreement or in a licence to the effect that:
+             (1)  A provision in a contract or agreement for the sale of property, in a lease of property, in a hire-purchase agreement or in a licence to the effect that:
 
-                     (a)  the contract, agreement, lease, hire‑purchase agreement or licence is to terminate, or may be terminated by the vendor, lessor, owner or licensor;
+                     (a)  the contract, agreement, lease, hire-purchase agreement or licence is to terminate, or may be terminated by the vendor, lessor, owner or licensor;
 
-                     (b)  the operation of the contract, agreement, lease, hire‑purchase agreement or licence is to be modified; or
+                     (b)  the operation of the contract, agreement, lease, hire-purchase agreement or licence is to be modified; or
 
-                     (c)  property to which the contract, agreement, lease, hire‑purchase agreement or licence relates may be repossessed by or on behalf of the vendor, lessor, owner or licensor;
+                     (c)  property to which the contract, agreement, lease, hire-purchase agreement or licence relates may be repossessed by or on behalf of the vendor, lessor, owner or licensor;
 
 if the purchaser, lessee, hirer or licensee becomes a bankrupt or commits an act of bankruptcy or executes a personal insolvency agreement under this Act is void.
 
-             (2)  This section extends to contracts, agreements, leases, hire‑purchase agreements and licences entered into or granted before the commencement of this Act.
+             (2)  This section extends to contracts, agreements, leases, hire-purchase agreements and licences entered into or granted before the commencement of this Act.
 
              (3)  In this section:
 
@@ -15771,7 +15762,7 @@ or, if any such amount has previously been altered under this section, the amoun
 
              (6)  The formula for the purposes of subsections (2), (3) and (5) is: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00266/Html/7e373821-0a49-4603-a107-0780844d0310_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00789/Html/Bankruptcy1966_WD02_image003.gif)
 
 where:
 
@@ -15801,7 +15792,7 @@ where:
 
                             should be instituted, continued or defended; or
 
-                    (aa)  that the trustee should appear and participate in proceedings before the Administrative Appeals Tribunal reviewing a decision or determination by the trustee, or reviewing a decision of the Inspector‑General on a review of such a decision or determination; or
+                    (aa)  that the trustee should appear and participate in proceedings before the Administrative Appeals Tribunal reviewing a decision or determination by the trustee, or reviewing a decision of the Inspector-General on a review of such a decision or determination; or
 
                      (b)  that inquiries should be made concerning:
 
@@ -15835,7 +15826,7 @@ and is also satisfied that the moneys in the estate of the bankrupt, the debtor 
 
 ##### <a id="306B"></a>306B  Protection in respect of reports
 
-             (1)  An action, suit or proceeding does not lie against the Inspector‑General, an Official Receiver, the trustee of the estate of a bankrupt or any other person in respect of a statement made in good faith in a report prepared or given to a person under subsection 12(1A) or (1B), 155A(6), 155F(2) or 155I(4) or section 189A.
+             (1)  An action, suit or proceeding does not lie against the Inspector-General, an Official Receiver, the trustee of the estate of a bankrupt or any other person in respect of a statement made in good faith in a report prepared or given to a person under subsection 12(1A) or (1B), 155A(6), 155F(2) or 155I(4) or section 189A.
 
              (2)  Subsection (1) shall not be taken to limit or affect any other right, privilege, immunity or defence existing apart from that subsection.
 
@@ -15927,23 +15918,23 @@ and is also satisfied that the moneys in the estate of the bankrupt, the debtor 
 
 ##### <a id="313"></a>313  Audit of accounts and records of the Official Trustee and the Official Receivers
 
-             (1)  The Auditor‑General shall inspect and audit the accounts and records of the Official Trustee and the Official Receivers, and shall forthwith draw the attention of the Minister to any irregularity disclosed by the inspection and audit that, in the opinion of the Auditor‑General, is of sufficient importance to justify his or her so doing.
+             (1)  The Auditor-General shall inspect and audit the accounts and records of the Official Trustee and the Official Receivers, and shall forthwith draw the attention of the Minister to any irregularity disclosed by the inspection and audit that, in the opinion of the Auditor-General, is of sufficient importance to justify his or her so doing.
 
-             (2)  The Auditor‑General may, at his or her discretion, dispense with all or any part of the detailed inspection and audit of any accounts or records of the Official Trustee and the Official Receivers.
+             (2)  The Auditor-General may, at his or her discretion, dispense with all or any part of the detailed inspection and audit of any accounts or records of the Official Trustee and the Official Receivers.
 
-             (3)  The Auditor‑General shall, at least once in each financial year, report to the Minister the results of the inspection and audit carried out under subsection (1).
+             (3)  The Auditor-General shall, at least once in each financial year, report to the Minister the results of the inspection and audit carried out under subsection (1).
 
-             (4)  The Auditor‑General or a person authorized by him or her is entitled at all reasonable times to full and free access to all books of the Official Trustee and the Official Receivers.
+             (4)  The Auditor-General or a person authorized by him or her is entitled at all reasonable times to full and free access to all books of the Official Trustee and the Official Receivers.
 
-             (5)  The Auditor‑General or a person authorized by him or her may make copies of, or take extracts from, any books of the Official Trustee or an Official Receiver.
+             (5)  The Auditor-General or a person authorized by him or her may make copies of, or take extracts from, any books of the Official Trustee or an Official Receiver.
 
-             (6)  The Auditor‑General or a person authorized by him or her may require any person to furnish him or her with such information in the possession of the person or to which the person has access as the Auditor‑General or authorized person considers necessary for the purposes of the functions of the Auditor‑General under this Act, and the person shall comply with the requirement.
+             (6)  The Auditor-General or a person authorized by him or her may require any person to furnish him or her with such information in the possession of the person or to which the person has access as the Auditor-General or authorized person considers necessary for the purposes of the functions of the Auditor-General under this Act, and the person shall comply with the requirement.
 
              (7)  A person who contravenes subsection (6) is guilty of an offence punishable, upon conviction, by a fine not exceeding $200.
 
 ##### <a id="315"></a>315  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -15991,7 +15982,7 @@ and is also satisfied that the moneys in the estate of the bankrupt, the debtor 
 
                      (k)  prescribe penalties not exceeding 10 penalty units for offences against the regulations; and
 
-                      (l)  provide for a person who is alleged to have committed an offence against the regulations to pay a penalty to the Commonwealth as an alternative to prosecution (being a penalty not exceeding one‑fifth of the maximum fine that a court could impose on the person for that offence).
+                      (l)  provide for a person who is alleged to have committed an offence against the regulations to pay a penalty to the Commonwealth as an alternative to prosecution (being a penalty not exceeding one-fifth of the maximum fine that a court could impose on the person for that offence).
 
 ##### <a id="316"></a>316  Legislative instruments determining fees
 
@@ -16057,7 +16048,7 @@ For application, saving or transitional provisions made by the _Corporations (Re
 
 All relevant information pertaining to application, saving or transitional provisions prior to 25 October 1996 is not included in this compilation. For subsequent information _see_ Table A _._
 
-The _Bankruptcy Act 1966_ was modified by the _Bankruptcy Regulations 1996_ (1996 No. 263 as amended 2003 No.76; 2004 No. 256; 2006 Nos. 4 and 137; 2010 No. 287) _see_ Table B.
+The _Bankruptcy Act 1966_ was modified by the _Bankruptcy Regulation__s 1__996_ (1996 No. 263 as amended 2003 No.76; 2004 No. 256; 2006 Nos. 4 and 137; 2010 No. 287) _see_ Table B.
 
 ### Table of Acts
 
@@ -16277,7 +16268,7 @@ Remainder: 1 June 1977</div>
   <td>
     <div>Ss. 1, 2, 3(1), 4–6, 8, 13, 14, 18–20, 23–25, 29, 30, 
 36–41, 45, 46, 47(1), (3), 48, 
-52–54, 56, 63, 66‑68, 71, 73(1), 79, 89, 91, 93–95, 97, 99, 105, 115, 117, 120–123, 126, 128, 129, 131, 133, 135, 143, 149, 150, 153, 155‑162, 165–170, 174 and 176: Royal Assent 
+52–54, 56, 63, 66-68, 71, 73(1), 79, 89, 91, 93–95, 97, 99, 105, 115, 117, 120–123, 126, 128, 129, 131, 133, 135, 143, 149, 150, 153, 155-162, 165–170, 174 and 176: Royal Assent 
 Remainder: 1 Feb 1981 ( <i>see Gazette</i>1980, No. S282)</div>
   </td>
   <td>
@@ -16564,7 +16555,7 @@ Ss. 4(1)(f), 9–11, 19, 24–29, 31, 32, 34–37, 46, 47,
 Ss. 6, 16–18, 
 20–22, 30, 38, 41, 59, 60, 62–65, 
 68–79, 82, 86, 87, 90, 99 and 100: 31 July 1989 ( <i>see Gazette</i>1989, No. S245) 
-Ss. 14, 42‑44 and 51: 1 Mar 1988 ( <i>see Gazette</i>1988, No. S49) 
+Ss. 14, 42-44 and 51: 1 Mar 1988 ( <i>see Gazette</i>1988, No. S49) 
 Remainder: 13 Jan 1988</div>
   </td>
   <td>
@@ -17660,7 +17651,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Bankruptcy Legislation Amendment (Anti‑avoidance) Act 2006</div>
+    <div>Bankruptcy Legislation Amendment (Anti-avoidance) Act 2006</div>
   </td>
   <td>
     <div>33, 2006</div>
@@ -17823,7 +17814,7 @@ Schedule 2 (items 8–10): <i>(zo)
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -17926,23 +17917,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 17), Sch. 2 (item 84), Sch. 3 (item 17) and Sch. 4 (items 4, 13) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 44, 45) and Schedule 7 (items 30, 31): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Judges’ Remuneration Act 1969_ was repealed by section 7 of the _Statute Law Revision Act 1973_, subsection 7(2) of that Act provides as follows:
@@ -17953,7 +17927,7 @@ _(a)_     The _Judges’ Remuneration Act 1969_ was repealed by section�
 
                               (b)   any provision for the citation of that other Act as amended by the repealed Act.
 
-_(b)_     The _Bankruptcy Act 1966_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
+_(b)_    The _Bankruptcy Act 1966_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
 
                  (7)   The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.
 
@@ -17977,7 +17951,7 @@ _(g)_     The _Bankruptcy Act 1966_ was amended by section 151(1) only
 
                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by proclamation.
 
-         Section 151(6) of the _Public Service Reform Act 1984_ provided for the amendment of section 16 of the _Bankruptcy Act 1966._ The last‑mentioned section was repealed by the _Prime Minister and Cabinet Legislation Amendment Act 1991_ before a date was fixed for the commencement of section 16.
+         Section 151(6) of the _Public Service Reform Act 1984_ provided for the amendment of section 16 of the _Bankruptcy Act 1966._ The last-mentioned section was repealed by the _Prime Minister and Cabinet Legislation Amendment Act 1991_ before a date was fixed for the commencement of section 16.
 
 _(h)_     The _Bankruptcy Act 1966_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsections 2(1) and (2) of which provide as follows:
 
@@ -18079,7 +18053,7 @@ _(z)_     The _Bankruptcy Act 1966_ was amended by Schedule 7 (items�
 
                               (e)   subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 
-               (16)   The Governor‑General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
+               (16)   The Governor-General may, by Proclamation published in the _Gazette_, specify the date that is to be the transfer date for the purposes of this Act.
 
 _(za)_   The _Bankruptcy Act 1966_ was amended by Schedule 11 (item 3) only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsection 2(2) of which provides as follows:
 
@@ -18087,7 +18061,7 @@ _(za)_   The _Bankruptcy Act 1966_ was amended by Schedule 11 (item 3) o
 
          Schedule 1 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_ commenced immediately after 1 July 2000.
 
-_(zb)_   The _Bankruptcy Act 1966_ was amended by Schedule 1 (item 280) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(zb)_  The _Bankruptcy Act 1966_ was amended by Schedule 1 (item 280) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -18334,7 +18308,7 @@ _(zl)_ Subsection 2(1) (item 8) of the _Higher Education Support (Transitional
       (a) 1 January 2004; and
     </div>
     <div>
-      (b) immediately after the commencement of sections 1‑10 to 238‑15 of the
+      (b) immediately after the commencement of sections 1-10 to 238-15 of the
         <i>Higher Education Support Act 2003</i>.
     </div>
   </td>
@@ -18455,7 +18429,7 @@ _(zn)_ Subsection 2(1) (item 3) of the _Bankruptcy Legislation Amendment (Fees
     </div>
     <div>
       (b) immediately after the commencement of Schedule 1 to the
-        <i>Bankruptcy Legislation Amendment (Anti‑avoidance) Act 2006</i>.
+        <i>Bankruptcy Legislation Amendment (Anti-avoidance) Act 2006</i>.
     </div>
     <div>
       However, the provision(s) do not commence at all if the event mentioned
@@ -18516,7 +18490,7 @@ _(zo)_ Subsection 2(1) (items 7–9) of the _Bankruptcy Legislation Amendment 
   <td>
     <div>
       Immediately after the commencement of item 12 of Schedule 1 to the
-        <i>Bankruptcy Legislation Amendment (Anti‑avoidance) Act 2006</i>.
+        <i>Bankruptcy Legislation Amendment (Anti-avoidance) Act 2006</i>.
     </div>
   </td>
   <td>
@@ -18562,7 +18536,7 @@ _(zo)_ Subsection 2(1) (items 7–9) of the _Bankruptcy Legislation Amendment 
   </td>
 </tr></table>
 
-_(zp)_ Subsection 2(1) (items 6, 8 and 10) of the _Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008_ provides as follows:
+_(zp)_ Subsection 2(1) (items 6, 8 and 10) of the _Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -18739,7 +18713,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -18827,7 +18801,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 121, 1968; No. 122, 1970; No. 155, 1979; Nos. 12 and 70, 1980; No. 21, 1985; Nos. 73 and 119, 1987; No. 8, 1988; No. 129, 1989; No. 115, 1990; Nos. 9 and 210, 1992; No. 82, 1993; No. 44, 1996; No. 62, 1997; No. 48, 1998; No. 194, 1999; No. 143, 2000; Nos. 55 and 123, 2001; Nos. 86 and 131, 2002; No. 80, 2004; No. 20, 2005; Nos. 33 and 34, 2006; Nos. 8, 44 and 57, 2007; Nos. 115 and 144, 2008; Nos. 3 and 106, 2010; No. 5, 2011</div>
+    <div>am. No. 121, 1968; No. 122, 1970; No. 155, 1979; Nos. 12 and 70, 1980; No. 21, 1985; Nos. 73 and 119, 1987; No. 8, 1988; No. 129, 1989; No. 115, 1990; Nos. 9 and 210, 1992; No. 82, 1993; No. 44, 1996; No. 62, 1997; No. 48, 1998; No. 194, 1999; No. 143, 2000; Nos. 55 and 123, 2001; Nos. 86 and 131, 2002; No. 80, 2004; No. 20, 2005; Nos. 33 and 34, 2006; Nos. 8, 44 and 57, 2007; Nos. 115 and 144, 2008; Nos. 3 and 106, 2010</div>
   </td>
 </tr>
 <tr>
@@ -19083,7 +19057,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
     <div></div>
   </td>
   <td>
-    <div>am. No. 115, 1990; No. 5, 2011</div>
+    <div>am. No. 115, 1990</div>
   </td>
 </tr>
 <tr>
@@ -19491,7 +19465,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
     <div></div>
   </td>
   <td>
-    <div>am. No. 168, 1986; No. 44, 1996; No. 48, 1998; No. 5, 2011</div>
+    <div>am. No. 168, 1986; No. 44, 1996; No. 48, 1998</div>
   </td>
 </tr>
 <tr>
@@ -19971,7 +19945,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. No. 12, 1980; No. 10, 1984; No. 5, 2011</div>
+    <div>am. No. 12, 1980; No. 10, 1984</div>
   </td>
 </tr>
 <tr>
@@ -20352,7 +20326,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
 </tr>
 <tr>
   <td>
-    <div>Renumbered Note 1......</div>
+    <div>Renumbered Note 1........</div>
   </td>
   <td>
     <div>No. 34, 2006</div>
@@ -20723,7 +20697,7 @@ of Div. 5 of Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 64V‑64X</div>
+    <div>Ss. 64V-64X</div>
   </td>
   <td>
     <div>ad. No. 9, 1992</div>
@@ -21068,7 +21042,7 @@ of Part IV</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part V</div>
+    <div>Heading to Div. 1 of Part V .</div>
   </td>
   <td>
     <div>ad. No. 9, 1992</div>
@@ -24478,2990 +24452,4 @@ of Part IX</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 131, 2002; No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 185EA–185ED</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185F</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185G</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 131, 2002; No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185H</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185I</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185J</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185K</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 86, 2002; No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185L</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3A of Part IX</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 185LA–185LE</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185LEA</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 185LF, 185LG</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part IX</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185M</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 131, 2002; No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 185M(2)</div>
-  </td>
-  <td>
-    <div>rep. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 185M(3)</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 185MA–185MD</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185N</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 86 and 131, 2002; No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185NA</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185P</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 131, 2002; No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 185P(2)</div>
-  </td>
-  <td>
-    <div>rep. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 185P(3)</div>
-  </td>
-  <td>
-    <div>am. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 185PA–185PD</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185Q</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185QA</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185R</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185S</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 86, 2002; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 185S</div>
-  </td>
-  <td>
-    <div>rep. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185T</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185U</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185V</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 185V</div>
-  </td>
-  <td>
-    <div>rep. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 7 of Part IX</div>
-  </td>
-  <td>
-    <div>rs. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 185W</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185W</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 185W(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185X</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185XA</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185Y</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 185Y</div>
-  </td>
-  <td>
-    <div>rep. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185Z</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185ZA</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185ZB</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185ZC</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 185ZCA, 185ZCB</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 185ZD</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 186</div>
-  </td>
-  <td>
-    <div>rep. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 8 of Part IX</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 186A</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 186B–186D</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 186E</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 186F–186H</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 186J–186L</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 186LA–186LE</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 186M</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 186N</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 2007; No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 186P, 186Q</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part X</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part X</div>
-  </td>
-  <td>
-    <div>rs. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 187</div>
-  </td>
-  <td>
-    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 187A</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 188</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 34, 2006; No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188A</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188B</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 34, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 189</div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 189</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 21, 1985; No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 189AAA</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 189AA</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 189AB</div>
-  </td>
-  <td>
-    <div>ad. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 189AC</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 189A</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 189A</div>
-  </td>
-  <td>
-    <div>ad. No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 189B</div>
-  </td>
-  <td>
-    <div>ad. No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 190</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 190</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 74, 1981; No. 119, 1987; No. 44, 1996; No. 86, 2002; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 190A</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 191</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 192</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 193</div>
-  </td>
-  <td>
-    <div>rs. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 194</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 194A</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 195</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 196</div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 197</div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 198</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 199</div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 200</div>
-  </td>
-  <td>
-    <div>am. No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 201–203</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 204</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 204</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 205</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 205A</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 205A</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 206</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 206</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 207</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 208</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 209</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 209</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 210</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 211</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 21, 1985; No. 115, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 212</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 12, 1980; No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 115, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 212A</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 212B</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 119, 1987; No. 115, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 212C–212F</div>
-  </td>
-  <td>
-    <div>ad. No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 213</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 214</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 215</div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 215A</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 215A</div>
-  </td>
-  <td>
-    <div>ad. No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 215B</div>
-  </td>
-  <td>
-    <div>ad. No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 216</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 216</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 217</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 217</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 218</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 218</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004; No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 219</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 220</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 220</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 221</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 221</div>
-  </td>
-  <td>
-    <div>am. No. 122, 1970; No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 221A</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 222</div>
-  </td>
-  <td>
-    <div>am. No. 122, 1970; No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 222A–222D</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 223</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 223A</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 224</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996; No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 224A</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 225</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 225</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 226</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 226</div>
-  </td>
-  <td>
-    <div>rs. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 34, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 227</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 227</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part X</div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 228</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 229</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 230</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 231</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 193, 1985; No. 119, 1987; No. 9, 1992; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 231A</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 232</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 5 of Part X</div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 233</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 234</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 234A, 234B</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 235</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 236</div>
-  </td>
-  <td>
-    <div>am. No. 122, 1970; No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 237</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 193, 1985; No. 119, 1987; No. 9, 1992; No. 44, 1996; No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 237AA</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 237A</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 6 
-of Part X</div>
-  </td>
-  <td>
-    <div>rs. No. 122, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 6 of Part X</div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 238</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 239</div>
-  </td>
-  <td>
-    <div>am. No. 122, 1970; No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 240</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 240A, 240B</div>
-  </td>
-  <td>
-    <div>ad. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 241</div>
-  </td>
-  <td>
-    <div>am. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 242</div>
-  </td>
-  <td>
-    <div>am. No. 122, 1970; No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 243</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 193, 1985; No. 119, 1987; No. 9, 1992; No. 44, 1996; No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 243AA</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 243A</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 80, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 244</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 21, 1985; No. 44, 1996; No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 245</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996; No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 246</div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 246</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 24, 2001; No. 34, 2006; No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 247</div>
-  </td>
-  <td>
-    <div>am. No. 122, 1970; No. 119, 1987; No. 44, 1996; No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 247A</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 248</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 119, 1987; No. 9, 1992; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 248A</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 249</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 9, 1992; No. 82, 1993; No. 44, 1996; No. 62, 1997; No. 38, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 249A</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 250</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 119, 1987; No. 44, 1996; No. 57, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 251, 252</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 252A</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996; No. 8, 2005; No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 252B, 252C</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 253</div>
-  </td>
-  <td>
-    <div>rep. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XIA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part XIA</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 253A</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 253B</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 168, 1986; No. 115, 1990; No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 253C</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 253D</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 253E</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 253F</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 254</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 254</div>
-  </td>
-  <td>
-    <div>am. No. 91, 1976; No. 12, 1980; No. 74, 1981; No. 44, 1996; No. 80, 2004; No. 8, 2005; No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 255</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 115, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 256</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 257</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 258</div>
-  </td>
-  <td>
-    <div>am. No. 119, 1987; No. 44, 1996; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 259</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 260</div>
-  </td>
-  <td>
-    <div>rs. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 261</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 262</div>
-  </td>
-  <td>
-    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 62, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XIV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 263</div>
-  </td>
-  <td>
-    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 137, 2000; No. 80, 2004; No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 263A</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 1970</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 263B</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 263C</div>
-  </td>
-  <td>
-    <div>ad. No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 80, 2004; No. 44, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 264</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 264A</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 119, 1987; No. 115, 1990; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 264B</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 119, 1987; No. 115, 1990; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 264C</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 119, 1987; No. 44, 1996; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 264D</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 264E</div>
-  </td>
-  <td>
-    <div>ad. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 119, 1987; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 265</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 24, 2001; No. 131, 2002; No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 265(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 265A</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 265A</div>
-  </td>
-  <td>
-    <div>ad. No. 119, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 9, 1992; No. 24, 2001; No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 266</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980; No. 44, 1996; No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 267</div>
-  </td>
-  <td>
-    <div>am. No. 12, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 44, 1996; No. 80, 2004; No. 44, 2007; No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 267A</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 267B</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001; No. 34, 2006; No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 267C</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 267D</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </
+    <div><
