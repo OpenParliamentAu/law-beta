@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00531/Html/dbd31b64-c3c9-41c9-9831-073b85818d52_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00474/Html/327e2d2d-c5bc-4498-9fbc-4cfbc6ac786c_files/image001.gif)
 
 # Crimes (Taxation Offences) Act 1980
 
 **Act No. 156 of 1980 as amended**
 
-This compilation was prepared on 1 July 2012
+This compilation was prepared on 23 May 2012
  taking into account amendments up to Act No. 18 of 2012
 
 The text of any of those amendments not in force
@@ -71,10 +71,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Part X—Offences Relating to Luxury Car Tax**
 
 [20](#20).          Application of Parts I and II in relation to luxury car tax
-
-**Part XI—Offences relating to minerals resource rent tax**
-
-[21](#21).          Application of Part I and Part II in relation to minerals resource rent tax
 
 **Notes** 
 
@@ -152,27 +148,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="law"></a><a name="luxuri-car-tax"></a>**_luxury car tax_** **_law_** has the meaning given by section 27‑1 of the Luxury Car Tax Act.
 
-                    <a name="mrrt"></a>**_MRRT_** means:
-
-                     (a)  MRRT within the meaning of the _Minerals Resource Rent Tax Act 2012_; and
-
-                     (b)  shortfall interest charge (within the meaning of subsection 995‑1(1) of the _Income Tax Assessment Act 1997_) under section 280‑101 in Schedule 1 to the _Taxation Administration Act 1953_; and
-
-                     (c)  an instalment under Division 115 in that Schedule.
-
-                    <a name="mrrt-law"></a>**_MRRT law_** has the meaning given by section 300‑1 of the _Minerals Resource Rent Tax Act 2012_.
-
                     <a name="petroleum-resourc-rent-tax"></a>**_petroleum resource rent tax_** means:
 
-                     (a)  tax imposed by any of the following:
-
-                              (i)  the _Petroleum Resource Rent Tax (Imposition—General) Act 2012_;
-
-                             (ii)  the _Petroleum Resource Rent Tax (Imposition—Customs) Act 2012_;
-
-                            (iii)  the _Petroleum Resource Rent Tax (Imposition—Excise) Act 2012_;
-
-                            as assessed under the _Petroleum Resource Rent Tax Assessment Act 1987_; and
+                     (a)  tax imposed by the _Petroleum Resource Rent Tax Act 1987_, as assessed under the Petroleum Resource Rent Tax Assessment Act;
 
                      (b)  additional tax payable under section 85 or Part IX of the Petroleum Resource Rent Tax Assessment Act; and
 
@@ -194,9 +172,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  every person (including a company) having or taking upon himself or herself the administration or control of income or property affected by any express or implied trust, or acting in any fiduciary capacity, or having the possession, control or management of the income or property of a person under any legal or other disability.
 
-                    <a name="act"></a><a name="wine-equalis-tax"></a>**_Wine Equalisation Tax_** **_Act_** means the _A New Tax System (Wine Equalisation Tax) Act 1999_.
-
                     <a name="wine-tax"></a>**_wine tax_** has the meaning given by section 33‑1 of the Wine Equalisation Tax Act.
+
+                    <a name="act"></a><a name="wine-equalis-tax"></a>**_Wine Equalisation Tax_** **_Act_** means the _A New Tax System (Wine Equalisation Tax) Act 1999_.
 
                     <a name="law"></a><a name="wine-tax"></a>**_wine tax_** **_law_** has the meaning given by section 33‑1 of the Wine Equalisation Tax Act.
 
@@ -270,9 +248,7 @@ _Note:       The offences in this Part are applied to other taxes by
 
 (h)              wine equalisation tax (see Part IX);
 
-(i)               luxury car tax (see Part X);
-
-(j)               minerals resource rent tax (see Part XI).
+(i)               luxury car tax (see Part X).
 
 ##### <a id="5"></a>5  Arrangements to avoid payment of income tax
 
@@ -622,36 +598,6 @@ whichever first occurs.
 
              (3)  In applying subsection 10(2) and sections 11 and 12 in accordance with subsections (1) and (2), the liability of a company or trustee in respect of luxury car tax moneys that have been assessed is not to be taken not to be finally determined merely because of the possibility of the Commissioner’s amending the assessment (otherwise than as a result of allowing an objection or to give effect to a decision of the Administrative Appeals Tribunal or a court).
 
-## Part XI—Offences relating to minerals resource rent tax
-
-##### <a id="21"></a>21  Application of Part I and Part II in relation to minerals resource rent tax
-
-             (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
-
-                     (a)  a reference in any of those provisions to income tax were a reference to MRRT; and
-
-                     (b)  a reference in any of those provisions to future income tax were a reference to future MRRT; and
-
-                     (c)  a reference in any of those provisions to the Income Tax Assessment Act were a reference to the MRRT law; and
-
-                     (d)  a reference in any of those provisions, in relation to a company or trustee, to income tax moneys were a reference to MRRT moneys.
-
-             (2)  In applying the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1) of this section:
-
-                     (a)  a reference in any of those provisions to the MRRT payable by a company or trustee, in relation to the intention of a person entering into, or the knowledge or belief of a person concerning, an arrangement or transaction is to be read as a reference to some or all of the MRRT due and payable by the company or the trustee at the time when the arrangement or transaction was entered into; and
-
-                     (b)  a reference in any of those provisions to future MRRT payable by a company or trustee, in relation to the intention of a person entering into, or the knowledge or belief of a person concerning, an arrangement or transaction is to be read as a reference to some or all of the MRRT that may reasonably be expected by that person to become payable by the company or trustee after the arrangement or transaction is entered into; and
-
-                     (c)  a reference in any of those provisions, other than subsections 10(1) and (2), in relation to a company or trustee, to MRRT moneys is to be read as a reference to:
-
-                              (i)  MRRT payable by the company or trustee; and
-
-                             (ii)  costs ordered by a court against a company or trustee in a proceeding for the recovery of MRRT; and
-
-                     (d)  a reference in subsections 10(1) and (2) to MRRT moneys shall be read as a reference to MRRT that has been assessed under Schedule 1 to the _Taxation Administration Act 1953_.
-
-             (3)  In applying subsection 10(2), and sections 11 and 12, in accordance with subsections (1) and (2) of this section, the liability of a company or trustee in respect of MRRT moneys that have been assessed is not to be taken not to be finally determined merely because of the possibility of the Commissioner amending the assessment (otherwise than as a result of an objection being allowed or to give effect to a decision of the Administrative Appeals Tribunal or a court).
-
 # Notes to the _Crimes (Taxation Offences) Act 1980_
 
 ### Note 1
@@ -739,7 +685,8 @@ Remainder: 14 Dec 1984</div>
     <div>30 May 1985</div>
   </td>
   <td>
-    <div>Ss. 3, 4(2), 11, 12 and Part XI (ss. 54–56): 21 Aug 1981 
+    <div>Ss. 3, 4(2), 11, 12 and Part XI 
+(ss. 54–56): 21 Aug 1981 
 Ss. 5, 18, 20, 22, 24, 28(2), 39, 40, 45, 48, 50, 51 and 53: 10 May 1985 ( <i>see</i>s. 2(3)) 
 Remainder: Royal Assent</div>
   </td>
@@ -794,7 +741,7 @@ Remainder: 1 July 1986</div>
     <div>24 June 1986</div>
   </td>
   <td>
-    <div>S. 3: Royal Assent</div>
+    <div>S. 3: Royal Assent <i>(a)</i></div>
   </td>
   <td>
     <div>S. 9</div>
@@ -811,8 +758,9 @@ Remainder: 1 July 1986</div>
     <div>18 Dec 1986</div>
   </td>
   <td>
-    <div>Ss. 3–6, 8(a) and 9–11: 1 Jan 1987 S. 8(c): 10 June 1986 
-Ss. 26(b), (c), 28, 40, 49(3) and (7): 1 Jan 1987 ( <i>see</i>s. 2(4) and <i>Gazette</i>1986, No. S650) 
+    <div>Ss. 3–6, 8(a) and 9–11: 1 Jan 1987 
+S. 8(c): 10 June 1986 
+Ss. 26(b), (c), 28, 40, 49(3) and (7): 1 Jan 1987 ( <i>see</i>s. 2(4) and <i>Gazette</i>1986, No. S650) 
 S. 55: 1 Mar 1987 ( <i>see Gazette</i>1987, No. S32) 
 Remainder: Royal Assent</div>
   </td>
@@ -831,7 +779,7 @@ Remainder: Royal Assent</div>
     <div>5 June 1987</div>
   </td>
   <td>
-    <div>5 June 1987 ( <i>see </i>s. 2)</div>
+    <div>5 June 1987 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -884,7 +832,7 @@ Remainder: Royal Assent</div>
     <div>18 Dec 1987</div>
   </td>
   <td>
-    <div>15 Jan 1988 ( <i>see </i>s. 2)</div>
+    <div>15 Jan 1988 ( <i>see</i>s. 2)</div>
   </td>
   <td>
     <div>S. 4</div>
@@ -901,7 +849,7 @@ Remainder: Royal Assent</div>
     <div>25 Nov 1988</div>
   </td>
   <td>
-    <div>Part II (ss. 3, 4): 1 Jan 1989 ( <i>see</i>s. 2(1) and <i>Gazette</i>1988, No. S399)</div>
+    <div>Part II (ss. 3, 4): 1 Jan 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1988, No. S399) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -918,7 +866,7 @@ Remainder: Royal Assent</div>
     <div>17 Jan 1990</div>
   </td>
   <td>
-    <div>S. 9 (in part): 10 Nov 1989 ( <i>see</i>s. 2(2)) 
+    <div>S. 9 (in part): 10 Nov 1989 ( <i>see</i>s. 2(2)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -938,8 +886,8 @@ Remainder: Royal Assent</div>
   <td>
     <div>S. 11: 16 June 1990 ( <i>see</i>s. 2(2)) 
 S. 23: 4 Dec 1989 
-Part 5 
-(ss. 36–38): 11 May 1989 
+Part 5 (ss. 
+36–38): 11 May 1989 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -957,7 +905,7 @@ Remainder: Royal Assent</div>
     <div>16 June 1990</div>
   </td>
   <td>
-    <div>S. 43 and Part 10 (ss. 88–95): 31 Oct 1990 ( <i>see Gazette</i>1990, No. S272) 
+    <div>S. 43 and Part 10 (ss. 88–95): 31 Oct 1990 ( <i>see Gazette</i>1990, No. S272) 
 Remainder: 1 July 1990</div>
   </td>
   <td>
@@ -1026,7 +974,7 @@ Remainder: 1 July 1990</div>
     <div>9 June 1993</div>
   </td>
   <td>
-    <div>S. 61(2): <i>(a)</i></div>
+    <div>S. 61(2): <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1043,7 +991,7 @@ Remainder: 1 July 1990</div>
     <div>9 June 1993</div>
   </td>
   <td>
-    <div>S. 58: Royal Assent</div>
+    <div>S. 58: Royal Assent <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1060,9 +1008,9 @@ Remainder: 1 July 1990</div>
     <div>16 June 1993</div>
   </td>
   <td>
-    <div>Ss. 6, 7, 9, 11, 13, 15 and Part 5 (ss. 29, 30): 1 June 1993 
-Part 4 
-(ss. 20–28): 1 July 1993 
+    <div>Ss. 6, 7, 9, 11, 13, 15 and Part 5 (ss. 29, 30): 1 June 1993 
+Part 4 (ss. 
+20–28): 1 July 1993 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1080,7 +1028,7 @@ Remainder: Royal Assent</div>
     <div>24 Dec 1993</div>
   </td>
   <td>
-    <div>Part 2 (ss. 3–6): Royal Assent</div>
+    <div>Part 2 (ss. 3–6): Royal Assent <i>(e)</i></div>
   </td>
   <td>
     <div>Ss. 4 and 6</div>
@@ -1097,7 +1045,7 @@ Remainder: Royal Assent</div>
     <div>28 Nov 1994</div>
   </td>
   <td>
-    <div>S. 7(1): Royal Assent</div>
+    <div>S. 7(1): Royal Assent <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1114,7 +1062,7 @@ Remainder: Royal Assent</div>
     <div>16 Dec 1995</div>
   </td>
   <td>
-    <div>Schedule 2 (items 59, 60, 64): Royal Assent</div>
+    <div>Schedule 2 (items 59, 60, 64): Royal Assent <i>(g)</i></div>
   </td>
   <td>
     <div>Sch. 2 (item 64)</div>
@@ -1131,7 +1079,7 @@ Remainder: Royal Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 5 (items 44–46): Royal Assent</div>
+    <div>Schedule 5 (items 44–46): Royal Assent <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1148,7 +1096,7 @@ Remainder: Royal Assent</div>
     <div>7 Apr 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (item 3): Royal Assent</div>
+    <div>Schedule 2 (item 3): Royal Assent <i>(I)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1182,7 +1130,7 @@ Remainder: Royal Assent</div>
     <div>23 Jun 1998</div>
   </td>
   <td>
-    <div>Schedule 4 (items 4, 5): Royal Assent</div>
+    <div>Schedule 4 (items 4 and 5): Royal Assent <i>(j)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1199,7 +1147,7 @@ Remainder: Royal Assent</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 8 (items 3–14): <i>(b)</i></div>
+    <div>Schedule 8 (items 3–14): <i>(k)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1216,11 +1164,12 @@ Remainder: Royal Assent</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 6, 8, 70–78): 1 July 2000 
+    <div>Schedule 1 (items 6, 8, 
+70–78): 1 July 2000 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>S. 2(1A) (ad. by 179, 1999, Sch. 10 \[item 19])</div>
+    <div>S. 2(1A) (ad. by 179, 1999, Sch. 10 (item 19))</div>
   </td>
 </tr>
 <tr>
@@ -1251,7 +1200,7 @@ Remainder: Royal Assent</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (item 19): 22 Dec 1999 <i>(c)</i></div>
+    <div>Schedule 10 (item 19): 22 Dec 1999 <i>(l)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1268,8 +1217,8 @@ Remainder: Royal Assent</div>
     <div>22 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 11 (item 10): 1 July 2000 <i>(d)</i> 
-Schedule 16 (item 1): <i>(d)</i></div>
+    <div>Schedule 11 (item 10): 1 July 2000 <i>(m)</i> 
+Schedule 16 (item 1): <i>(m)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1286,7 +1235,7 @@ Schedule 16 (item 1): <i>(d)</i></div>
     <div>3 July 2002</div>
   </td>
   <td>
-    <div>Schedule 12 (item 1): <i>(e)</i></div>
+    <div>Schedule 12 (item 1): <i>(n)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1306,7 +1255,7 @@ Schedule 16 (item 1): <i>(d)</i></div>
     <div>Schedule 4: 1 July 2004</div>
   </td>
   <td>
-    <div>Sch. 4 (items 10, 23) \[ <i>see</i>Table A]</div>
+    <div>Sch. 4 (items 10, 23) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1337,10 +1286,10 @@ Schedule 16 (item 1): <i>(d)</i></div>
     <div>14 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (items 36–43), Schedule 5 (items 45–111) and Schedule 6 (items 1, 5–11): Royal Assent</div>
+    <div>Schedule 2 (items 36–43), Schedule 5 (items 45–111) and Schedule 6 (items 1, 5–11): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 6 (items 1, 
+    <div>Sch. 6 (items 1, 
 5–11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
@@ -1389,7 +1338,7 @@ Schedule 16 (item 1): <i>(d)</i></div>
     <div>29 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 3 (items 3–6): 1 July 2012 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 3 (items 3–6): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1406,20 +1355,56 @@ Schedule 16 (item 1): <i>(d)</i></div>
     <div>29 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 6 (item 6): 1 July 2012</div>
+    <div>Schedule 6 (item 6): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_     The _Sales Tax Amendment (Transitional) Act 1992_ was amended by subsection 61(2) only of the _Taxation Laws Amendment Act 1993_, subsection 2(2) of which provides as follows:
+_(a)_     The _Crimes (Taxation Offences) Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No.1) 1986_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+
+_(b)_     The _Crimes (Taxation Offences) Act 1980_ was amended by Part II (sections 3 and 4) only of the _Taxation Laws Amendment (Tax File Numbers) Act 1988_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsection (2), this Act commences on the day on which the _Privacy Act 1988_ commences.
+
+_(c)_     The _Sales Tax Amendment (Transitional) Act 1992_ was amended by subsection 61(2) only of the _Taxation Laws Amendment Act 1993_, subsection 2(2) of which provides as follows:
 
                  (2)   Part 4 is taken to have commenced immediately after the commencement of the _Sales Tax Amendment (Transitional) Act 1992_.
 
          The _Sales Tax Amendment (Transitional) Act 1992_ came into operation on 28 October 1992.
 
-_(b)_     The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 8 (items 3–14) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_, subsection 2(17) of which provides as follows:
+_(d)_     The _Crimes (Taxation Offences) Act 1980_ was amended by section 58 only of the _Taxation Laws Amendment Act (No. 2) 1993_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(e)_     The _Crimes (Taxation Offences) Act 1980_ was amended by Part 2 (sections 3–6) only of the _Taxation Laws Amendment Act (No. 3) 1993_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+_(f)_      The _Crimes (Taxation Offences) Act 1980_ was amended by subsection 7(1) only of the _Taxation Laws Amendment Act (No. 3) 1994_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
+(_g_)     The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 2 (items 59, 60 and 64) only of the _Taxation Laws Amendment Act (No. 3) 1995_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+
+_(h)_     The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 5 (items 44–46) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+
+_(i)_      The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 2 (item 3) only of the _Crimes and Other Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+
+_(j)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 4 (items 4 and 5) only of the _Taxation Laws Amendment Act (No. 3) 1998_, subsection 2(1) of which provides as follows:
+
+                 (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
+
+_(k)_     The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 8 (items 3–14) only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_, subsection 2(17) of which provides as follows:
 
 Schedule 8—Other Acts
 
@@ -1427,11 +1412,11 @@ Schedule 8—Other Acts
 
          The _A New Tax System (Goods and Services Tax) Act 1999_ came into operation on 1 July 2000.
 
-_(c)_ The _A New Tax System (Pay As You Go) Act 1999_ was amended by Schedule 10 (item 19) only of the _A New Tax System (Tax Administration) Act 1999_, subsection 2(11) of which provides as follows:
+_(l)_ The _A New Tax System (Pay As You Go) Act 1999_ was amended by Schedule 10 (item 19) only of the _A New Tax System (Tax Administration) Act 1999_, subsection 2(11) of which provides as follows:
 
                (11)   Subsection 2(1A) of the _A New Tax System (Pay As You Go) Act 1999_ (inserted by item 19 of Schedule 10 to this Act) commences, or is taken to have commenced, at the commencement of section 1 of that Act.
 
-_(d)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 11 (item 10) and Schedule 16 (item 1) only of the _A New Tax System (Tax Administration) Act 1999_, subsections 2(1) and (9)(b) of which provide as follows:
+_(m)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 11 (item 10) and Schedule 16 (item 1) only of the _A New Tax System (Tax Administration) Act 1999_, subsections 2(1) and (9)(b) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the _A New Tax System (Pay As You Go) Act 1999_.
 
@@ -1441,7 +1426,7 @@ _(d)_ The _Crimes (Taxation Offences) Act 1980_ was amended by Schedule 11 (it
 
          Section 1 commenced on 22 December 1999.
 
-_(e)_ Subsection 2(1) (item 19) of the _Taxation Laws Amendment Act (No. 2) 2002_ provides as follows:
+_(n)_ Subsection 2(1) (item 19) of the _Taxation Laws Amendment Act (No. 2) 2002_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -1565,7 +1550,7 @@ _(e)_ Subsection 2(1) (item 19) of the _Taxation Laws Amendment Act (No. 2) 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 123, 1984; No. 47, 1985; Nos. 41 and 154, 1986; Nos. 58, 61, 140 and 145, 1987; No. 97, 1988; Nos. 20, 58 and 60, 1990; No. 92, 1992; No. 118, 1992 (as am. by No. 17, 1993); Nos. 18, 32 and 118, 1993; No. 138, 1994; No. 170, 1995; No. 43, 1996; No. 39, 1997; No. 47, 1998; Nos. 176, 178 and 179, 1999; No. 101, 2004; No. 101, 2006; Nos. 14 and 18, 2012</div>
+    <div>am. No. 123, 1984; No. 47, 1985; Nos. 41 and 154, 1986; Nos. 58, 61, 140 and 145, 1987; No. 97, 1988; Nos. 20, 58 and 60, 1990; No. 92, 1992; No. 118, 1992 (as am. by No. 17, 1993); Nos. 18, 32 and 118, 1993; No. 138, 1994; No. 170, 1995; No. 43, 1996; No. 39, 1997; No. 47, 1998; Nos. 176, 178 and 179, 1999; No. 101, 2004; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1618,7 +1603,7 @@ _(e)_ Subsection 2(1) (item 19) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div>Note to heading to Part II.</div>
+    <div>Note to Heading to Part II.</div>
   </td>
   <td>
     <div>ad. No. 176, 1999</div>
@@ -1629,7 +1614,7 @@ _(e)_ Subsection 2(1) (item 19) of the _Taxation Laws Amendment Act (No. 2) 
     <div></div>
   </td>
   <td>
-    <div>am. No. 101, 2006; No. 14, 2012</div>
+    <div>am. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1642,15 +1627,7 @@ _(e)_ Subsection 2(1) (item 19) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 118, 1992; No. 101, 2004; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
+    <div>Ss. 5, 6</div>
   </td>
   <td>
     <div>am. No. 118, 1992; No. 101, 2004; No. 101, 2006</div>
@@ -1698,23 +1675,7 @@ _(e)_ Subsection 2(1) (item 19) of the _Taxation Laws Amendment Act (No. 2) 
 </tr>
 <tr>
   <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 118, 1992; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 118, 1992; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
+    <div>Ss. 10–12</div>
   </td>
   <td>
     <div>am. No. 118, 1992; No. 101, 2006</div>
@@ -2007,31 +1968,100 @@ _(e)_ Subsection 2(1) (item 19) of the _Taxation Laws Amendment Act (No. 2) 
   <td>
     <div>am. No. 101, 2004; No. 101, 2006</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part XI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part XI</div>
-  </td>
-  <td>
-    <div>ad. No. 14, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>ad. No. 14, 2012</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Minerals Resource Rent Tax (Consequential Amendments and Transitional Provisions) Act 2012 (No. 14, 2012)_
+
+The following amendments commence on 1 July 2012:
+
+## Schedule 3
+
+## 3  Subsection 3(1)
+
+Insert:
+
+                    <a name="mrrt"></a>**_MRRT_** means:
+
+                     (a)  MRRT within the meaning of the _Minerals Resource Rent Tax Act 2012_; and
+
+                     (b)  shortfall interest charge (within the meaning of subsection 995‑1(1) of the _Income Tax Assessment Act 1997_) under section 280‑101 in Schedule 1 to the _Taxation Administration Act 1953_; and
+
+                     (c)  an instalment under Division 115 in that Schedule.
+
+## 4  Subsection 3(1)
+
+Insert:
+
+                    <a name="mrrt-law"></a>**_MRRT law_** has the meaning given by section 300‑1 of the _Minerals Resource Rent Tax Act 2012_.
+
+## 5  Part II (at the end of note to heading)
+
+Add:
+
+; (j)             minerals resource rent tax (see Part XI).
+
+## 6  At the end of the Act
+
+Add:
+
+## Part XI—Offences relating to minerals resource rent tax
+
+##### <a id="21"></a>21  Application of Part I and Part II in relation to minerals resource rent tax
+
+             (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
+
+                     (a)  a reference in any of those provisions to income tax were a reference to MRRT; and
+
+                     (b)  a reference in any of those provisions to future income tax were a reference to future MRRT; and
+
+                     (c)  a reference in any of those provisions to the Income Tax Assessment Act were a reference to the MRRT law; and
+
+                     (d)  a reference in any of those provisions, in relation to a company or trustee, to income tax moneys were a reference to MRRT moneys.
+
+             (2)  In applying the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1) of this section:
+
+                     (a)  a reference in any of those provisions to the MRRT payable by a company or trustee, in relation to the intention of a person entering into, or the knowledge or belief of a person concerning, an arrangement or transaction is to be read as a reference to some or all of the MRRT due and payable by the company or the trustee at the time when the arrangement or transaction was entered into; and
+
+                     (b)  a reference in any of those provisions to future MRRT payable by a company or trustee, in relation to the intention of a person entering into, or the knowledge or belief of a person concerning, an arrangement or transaction is to be read as a reference to some or all of the MRRT that may reasonably be expected by that person to become payable by the company or trustee after the arrangement or transaction is entered into; and
+
+                     (c)  a reference in any of those provisions, other than subsections 10(1) and (2), in relation to a company or trustee, to MRRT moneys is to be read as a reference to:
+
+                              (i)  MRRT payable by the company or trustee; and
+
+                             (ii)  costs ordered by a court against a company or trustee in a proceeding for the recovery of MRRT; and
+
+                     (d)  a reference in subsections 10(1) and (2) to MRRT moneys shall be read as a reference to MRRT that has been assessed under Schedule 1 to the _Taxation Administration Act 1953_.
+
+             (3)  In applying subsection 10(2), and sections 11 and 12, in accordance with subsections (1) and (2) of this section, the liability of a company or trustee in respect of MRRT moneys that have been assessed is not to be taken not to be finally determined merely because of the possibility of the Commissioner amending the assessment (otherwise than as a result of an objection being allowed or to give effect to a decision of the Administrative Appeals Tribunal or a court).
+
+As at 23 May 2012 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Petroleum Resource Rent Tax Assessment Amendment Act 2012 
+ (No. 18, 2012)_
+
+The following amendment commences on 1 July 2012:
+
+## Schedule 6
+
+## 6  Subsection 3(1) (paragraph (a) of the definition of _petroleum resource rent tax_)
+
+Repeal the paragraph, substitute:
+
+                     (a)  tax imposed by any of the following:
+
+                              (i)  the _Petroleum Resource Rent Tax (Imposition—General) Act 2012_;
+
+                             (ii)  the _Petroleum Resource Rent Tax (Imposition—Customs) Act 2012_;
+
+                            (iii)  the _Petroleum Resource Rent Tax (Imposition—Excise) Act 2012_;
+
+                            as assessed under the _Petroleum Resource Rent Tax Assessment Act 1987_; and
+
+As at 23 May 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
