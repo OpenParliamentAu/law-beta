@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00419/Html/86495d56-27fe-499c-8c66-50c652076d05_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00413/Html/5710409f-37cd-4526-9ea7-28fcef4ac09b_files/image001.gif)
 
 # Law Enforcement Integrity Commissioner Act 2006
 
 **Act No. 85 of 2006 as amended**
 
-This compilation was prepared on 27 April 2012
+This compilation was prepared on 4 April 2012
  taking into account amendments up to Act No. 24 of 2012
 
 The text of any of those amendments not in force
@@ -68,7 +68,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20](#20).          Notification of corruption issue identified as significant corruption issue
 
-[21](#21).          Law enforcement agency head to pass on new information in relation to corruption issue already notified
+[21](#21).          Law enforcement agency head to pass on new information in relation to corruption issue already referred
 
 [22](#22).          Notification of corruption issue not identified as significant corruption issue
 
@@ -210,7 +210,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [70](#70).          Integrity Commissioner to pass on information relevant to agency investigation
 
-**Part 8—Public inquiries by Integrity Commissioner** 
+**Part 8—Public inquiries into corruption issues** 
 
     **Division 1—Conducting a public inquiry**
 
@@ -228,23 +228,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 1—Requiring people to give information and produce documents or things** 
 
-        **Subdivision A—Notices to give information or to produce documents or things**
+        **Subdivision A—Requests by Integrity Commissioner**
 
-[75](#75).          Notice to give information or to produce document or thing
+[75](#75).          Request to staff member of law enforcement agency
 
-[76](#76).          Compliance with notice
+[76](#76).          Request to person other than staff member of law enforcement agency
 
 [77](#77).          Integrity Commissioner may retain documents and things
 
-        **Subdivision AA—Prohibitions against disclosing information about notices**
-
-[77A](#77A).       Disclosure of notice may be prohibited
-
-[77B](#77B).       Offences of disclosure
-
         **Subdivision B—Offence and related provisions**
 
-[78](#78).          Failure to comply with notice
+[78](#78).          Failure to comply with Integrity Commissioner’s request
 
 [79](#79).          Legal practitioner not required to disclose privileged communications
 
@@ -286,27 +280,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision E—Offences in relation to hearings**
 
-[93](#93).          Offences—attendance at hearings etc 
+[93](#93).          Offences
 
-[94](#94).          Offences—disturbing or interrupting hearings
+[94](#94).          Contempt
 
 [95](#95).          Legal practitioner not required to disclose privileged communications
 
 [96](#96).          Self‑incrimination etc 
-
-        **Subdivision EA—Contempt of ACLEI**
-
-[96A](#96A).       Contempt of ACLEI
-
-[96B](#96B).       Federal Court or Supreme Court to deal with contempt
-
-[96C](#96C).       Conduct of contempt proceedings
-
-[96D](#96D).       Person in contempt may be detained
-
-[96E](#96E).        Integrity Commissioner may withdraw contempt application
-
-[96F](#96F).        Double jeopardy
 
         **Subdivision F—Court orders for delivery of witness’s passport and witness’s arrest**
 
@@ -488,7 +468,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 4—Special investigations**
 
-[166](#166).        Application of Division
+[166](#166).        Application of Part
 
 [167](#167).        Investigation and investigative powers
 
@@ -805,12 +785,6 @@ Note:          This table relates only to the provisions of th
 
 but does not include a criminal prosecution for an offence under either of those Acts or a corresponding law.
 
-                    <a name="constabl"></a>**_constable_** means:
-
-                     (a)  a member or special member of the AFP; or
-
-                     (b)  a member of the police force or police service of a State or Territory.
-
                     <a name="contraven"></a>**_contravene_** a certificate issued under section 149 has the meaning given by subsection (4).
 
                     <a name="engag-corrupt-conduct"></a><a name="corrupt-conduct"></a>**_corrupt conduct_**: see **_engages in corrupt conduct_**.
@@ -867,8 +841,6 @@ but does not include a criminal prosecution for an offence under either of those
 
                      (b)  in relation to an offence warrant—a thing relevant to an offence against a law of the Commonwealth.
 
-                    <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
-
                     <a name="former-nca"></a>**_former NCA_** means the National Crime Authority established under section 7 of the former NCA Act.
 
                     <a name="former-nca-act"></a>**_former NCA Act_** means the _National Crime Authority Act 1984_ (as in force at any time before the commencement of Schedule 1 to the _Australian Crime Commission Establishment Act 2002_).
@@ -898,8 +870,6 @@ but does not include a criminal prosecution for an offence under either of those
                              (ii)  in the case of a body established for a public purpose—the person holding, or performing the duties of, the principal office in respect of the body; or
 
                      (e)  if the agency is a State or Territory government agency—the person holding, or performing the duties of, the principal office in respect of the agency.
-
-                    <a name="contempt-aclei"></a>**_in contempt of ACLEI_** has the meaning given by section 96A.
 
                     <a name="integr-agenc"></a>**_integrity agency_** for a State or Territory means an agency that:
 
@@ -1535,7 +1505,7 @@ by entering the required details on a database.
 
 This subsection has effect subject to subsection 150(1) but despite any secrecy provision (other than a law enforcement secrecy provision or a taxation secrecy provision).
 
-Note:          Paragraph (a)—section 21 requires the head of the agency to pass on new information that relates to a significant corruption issue that has already been notified to the Integrity Commissioner.
+Note:          Paragraph (a)—section 21 requires the head of the agency to pass on new information that relates to a significant corruption issue that has already been referred to the Integrity Commissioner.
 
              (2)  The law enforcement agency may resume an investigation of a corruption issue stopped under paragraph (1)(b), or commence an investigation of a corruption issue to which subsection (1) applies, only if the Integrity Commissioner:
 
@@ -1545,7 +1515,7 @@ Note:          Paragraph (a)—section 21 requires the hea
 
                      (c)  decides under subsection 31(1) to take no further action in relation to the corruption issue.
 
-##### <a id="21"></a>21  Law enforcement agency head to pass on new information in relation to corruption issue already notified
+##### <a id="21"></a>21  Law enforcement agency head to pass on new information in relation to corruption issue already referred
 
              (1)  If the head of a law enforcement agency:
 
@@ -2449,7 +2419,7 @@ Representation
 
 #### Subdivision A—Reporting during investigation
 
-##### <a id="52"></a>52  Integrity Commissioner to keep person who referred corruption issue informed of progress of investigation
+##### <a id="52"></a>52  Integrity Commissioner to keep person who referred corruption issue informed of progress of investigation
 
 Minister
 
@@ -3033,7 +3003,7 @@ the Integrity Commissioner must give the information to the head of the agency.
 
              (2)  Subsection (1) has effect subject to section 152 (which deals with section 149 certified information).
 
-## Part 8—Public inquiries by Integrity Commissioner
+## Part 8—Public inquiries into corruption issues
 
 ### Division 1—Conducting a public inquiry
 
@@ -3115,73 +3085,67 @@ Note:          Section 203 provides that the Minister must l
 
 ### Division 1—Requiring people to give information and produce documents or things
 
-#### Subdivision A—Notices to give information or to produce documents or things
+#### Subdivision A—Requests by Integrity Commissioner
 
-##### <a id="75"></a>75  Notice to give information or to produce document or thing
+##### <a id="75"></a>75  Request to staff member of law enforcement agency
 
-Giving notice
+             (1)  For the purposes of investigating a corruption issue, the Integrity Commissioner may request a staff member of a law enforcement agency:
 
-             (1)  For the purpose of investigating a corruption issue, the Integrity Commissioner may, by notice in writing, require a person to do either or both of the following:
+                     (a)  to give the Integrity Commissioner the information specified in the request; or
 
-                     (a)  give the information specified in the notice;
+                     (b)  to produce to the Integrity Commissioner the documents or things specified in the request.
 
-                     (b)  produce the documents or things specified in the notice;
+The Integrity Commissioner may require that information to be provided under paragraph (a) is to be provided in writing.
 
-if the Integrity Commissioner has reasonable grounds to suspect that the information, documents or things will be relevant to the investigation.
+             (2)  The Integrity Commissioner’s request must be:
 
-Note:          In certain cases, disclosing the existence of a notice, or any information about it, is an offence: see section 77B.
+                     (a)  served on the staff member of the law enforcement agency; and
 
-             (2)  The Integrity Commissioner may require that information specified under paragraph (1)(a) is to be given in writing.
+                     (b)  in writing and signed by the Integrity Commissioner.
 
-             (3)  The notice must:
+             (3)  The Integrity Commissioner may make the request without holding a hearing.
 
-                     (a)  be served on the person; and
+             (4)  The staff member must comply with the request as soon as is reasonably practicable.
 
-                     (b)  be signed by the Integrity Commissioner; and
-
-                     (c)  specify the period within which, and the manner in which, the person must comply with the notice.
-
-             (4)  The period specified under paragraph (3)(c) must be at least 14 days after the day the notice is served on the person, unless the Integrity Commissioner considers that allowing a 14‑day period would significantly prejudice a corruption investigation, in which case a shorter period may be specified.
-
-             (5)  If a shorter period is specified under paragraph (3)(c), the Integrity Commissioner must record, in writing:
-
-                     (a)  the name of the corruption investigation that would be prejudiced; and
-
-                     (b)  why a 14‑day period would significantly prejudice the investigation.
-
-             (6)  The Integrity Commissioner may serve a notice on a person without holding a hearing.
-
-##### <a id="76"></a>76  Compliance with notice
-
-Compliance with notice
-
-             (1)  A person served with a notice under section 75 must comply with the notice:
-
-                     (a)  within the period specified in the notice; or
-
-                     (b)  within such further time as the Integrity Commissioner allows under subsection (3).
-
-Note 1:       Failure to comply with a notice is an offence: see section 78.
+Note 1:       Failure to comply with a request is an offence: see section 78.
 
 Note 2:       See also subsection 150(2) in relation to section 149 certified information.
 
-Extension of time
+##### <a id="76"></a>76  Request to person other than staff member of law enforcement agency
 
-             (2)  A person served with a notice under section 75 may apply to the Integrity Commissioner, in writing, for further time to comply with the notice:
+             (1)  For the purposes of investigating a corruption issue, the Integrity Commissioner may request a person (other than a staff member of a law enforcement agency):
 
-                     (a)  before the period expires; or
+                     (a)  to give the Integrity Commissioner the information specified in the request; or
 
-                     (b)  as soon as possible after the period expires.
+                     (b)  to produce to the Integrity Commissioner the documents or things specified in the request.
 
-             (3)  The Integrity Commissioner may allow a person served with a notice further time to comply with the notice whether or not an application has been made.
+             (2)  The Integrity Commissioner’s request must:
 
-Acknowledgement
+                     (a)  be served on the person; and
 
-             (4)  If a person served with a notice has given the information and/or produced the documents or things specified in the notice, the Integrity Commissioner must give the person a written acknowledgement of that fact.
+                     (b)  be in writing and signed by the Integrity Commissioner; and
+
+                     (c)  specify the period within which the person must comply with the request.
+
+The period specified under paragraph (c) must be at least 14 days starting on the day on which the request is served on the person.
+
+             (3)  The Integrity Commissioner may make the request without holding a hearing.
+
+             (4)  The person must:
+
+                     (a)  give the information in writing; or
+
+                     (b)  produce the documents or things;
+
+within the time specified in the request, or within such further time as the Integrity Commissioner allows.
+
+Note 1:       Failure to comply with a request is an offence: see section 78.
+
+Note 2:       See also subsection 150(2) in relation to section 149 certified information.
 
 ##### <a id="77"></a>77  Integrity Commissioner may retain documents and things
 
-             (1)  If a document or thing is produced in accordance with a notice under section 75, the Integrity Commissioner:
+             (1)  If a document or thing is produced to the Integrity Commissioner in accordance with a request under section 75 or 76, the Integrity Commissioner:
 
                      (a)  may take possession of, and may make copies of, the document or thing, or take extracts from the document; and
 
@@ -3189,217 +3153,31 @@ Acknowledgement
 
              (2)  While the Integrity Commissioner retains the document or thing, he or she must allow a person who would otherwise be entitled to inspect the document or view the thing to do so at the times that the person would ordinarily be able to do so.
 
-#### Subdivision AA—Prohibitions against disclosing information about notices
-
-##### <a id="77A"></a>77A  Disclosure of notice may be prohibited
-
-Application
-
-             (1)  This section applies in respect of a notice served on a person under section 75.
-
-Notation prohibiting disclosure of information about notice
-
-             (2)  The Integrity Commissioner may include a notation in the notice to the effect that disclosure of information about:
-
-                     (a)  the notice; or
-
-                     (b)  any official matter connected with the notice;
-
-is prohibited except in the circumstances (if any) specified in the notation.
-
-             (3)  The Integrity Commissioner must include a notation in the notice if the Integrity Commissioner is satisfied that failure to do so would reasonably be expected to prejudice:
-
-                     (a)  a person’s safety or reputation; or
-
-                     (b)  the fair trial of a person who has been, or may be, charged with an offence; or
-
-                     (c)  the investigation to which the notice relates or another corruption investigation; or
-
-                     (d)  any action taken as a result of an investigation referred to in paragraph (c).
-
-             (4)  The Integrity Commissioner may include a notation in the notice if the Integrity Commissioner is satisfied that:
-
-                     (a)  failure to do so might prejudice:
-
-                              (i)  a person’s safety or reputation; or
-
-                             (ii)  the fair trial of a person who has been, or may be, charged with an offence; or
-
-                            (iii)  the investigation to which the notice relates or another corruption investigation; or
-
-                            (iv)  any action taken as a result of an investigation referred to in subparagraph (iii); or
-
-                     (b)  failure to do so might otherwise be contrary to the public interest.
-
-             (5)  The Integrity Commissioner must not include a notation in the notice in any other case.
-
-Written statement to accompany notation
-
-             (6)  If a notation is included in the notice, it must be accompanied by a written statement setting out the rights and obligations conferred or imposed by section 77B on the person on whom the notice is served.
-
-Cancellation of notation
-
-             (7)  A notation included in the notice is cancelled by this subsection if:
-
-                     (a)  the Integrity Commissioner concludes the investigation to which the notice relates; and
-
-                     (b)  any criminal proceedings or civil penalty proceedings resulting from the investigation are commenced.
-
-             (8)  If a notation is cancelled by subsection (7), the Integrity Commissioner must advise the person who was served with the notated notice, in writing, of the cancellation.
-
-Relationship of notation with the Privacy Act 1988
-
-             (9)  If:
-
-                     (a)  a notation has been included in the notice in relation to the disclosure of information about the notice or any official matter connected with the notice; and
-
-                     (b)  the notation has not been cancelled; and
-
-                     (c)  apart from this subsection, a credit reporting agency (within the meaning of section 11A of the _Privacy Act 1988_) would be required, under subsection 18K(5) of that Act, to make a note about the disclosure of the information;
-
-such a note must not be made until the notation is cancelled.
-
-##### <a id="77B"></a>77B  Offences of disclosure
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is served with a notice under section 75; and
-
-                     (b)  the notice includes a notation under section 77A; and
-
-                     (c)  the person discloses the existence of, or any information about:
-
-                              (i)  the notice; or
-
-                             (ii)  any official matter connected with the notice; and
-
-                     (d)  when the disclosure is made:
-
-                              (i)  the notation has not been cancelled by subsection 77A(7); and
-
-                             (ii)  the period of 5 years after the notice is served under section 75 has not ended.
-
-                    Penalty:  Imprisonment for 12 months.
-
-             (2)  In proceedings for an offence against subsection (1), it is a defence if the person makes the disclosure:
-
-                     (a)  in the circumstances, if any, permitted by the terms of the notation; or
-
-                     (b)  to a legal practitioner for the purpose of obtaining legal advice or representation in relation to the notice; or
-
-                     (c)  to a legal aid officer for the purpose of seeking assistance under section 221 in relation to the notice; or
-
-                     (d)  if the person is a body corporate—to an officer or agent of the body corporate for the purpose of ensuring compliance with the notice; or
-
-                     (e)  if the person is a legal practitioner—for the purpose of obtaining the agreement of another person under subsection 79(3) to the legal practitioner answering a question or producing a document or thing.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (2): see subsection 13.3(3) of the _Criminal Code_.
-
-             (3)  A person commits an offence if:
-
-                     (a)  a disclosure is made to a person about:
-
-                              (i)  a notice under section 75 that includes a notation under section 77A; or
-
-                             (ii)  any official matter connected with a notice under section 75 that includes a notation under section 77A; and
-
-                     (b)  the disclosure is permitted under subsection (2) or (4) because the person is a person of a particular kind; and
-
-                     (c)  while the person is a person of that kind, the person discloses the existence of, or any information about:
-
-                              (i)  the notice; or
-
-                             (ii)  any official matter connected with the notice; and
-
-                     (d)  when the disclosure by the person is made:
-
-                              (i)  the notation has not been cancelled by subsection 77A(7); and
-
-                             (ii)  the period of 5 years after the notice is served under section 75 has not ended.
-
-                    Penalty:  Imprisonment for 12 months.
-
-             (4)  In proceedings for an offence against subsection (3), it is a defence if the person discloses the information:
-
-                     (a)  if the person is an officer or agent of a body corporate referred to in paragraph (2)(d):
-
-                              (i)  to another officer or agent of the body corporate for the purpose of ensuring compliance with the notice; or
-
-                             (ii)  to a legal practitioner for the purpose of obtaining legal advice or representation in relation to the notice; or
-
-                            (iii)  to a legal aid officer for the purpose of seeking assistance under section 221 in relation to the notice; or
-
-                     (b)  if the person is a legal practitioner—for the purpose of giving legal advice, making representations, or seeking assistance under section 221, in relation to the notice; or
-
-                     (c)  if the person is a legal aid officer—for the purpose of obtaining legal advice or representation in relation to the notice.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (4): see subsection 13.3(3) of the _Criminal Code_.
-
-             (5)  A person commits an offence if:
-
-                     (a)  a disclosure is made to a person about:
-
-                              (i)  a notice under section 75 that includes a notation under section 77A; or
-
-                             (ii)  any official matter connected with a notice under section 75 that includes a notation under section 77A; and
-
-                     (b)  the disclosure is permitted under subsection (2) or (4) because the person is a person of a particular kind; and
-
-                     (c)  when the person is no longer a person of that kind, the person:
-
-                              (i)  makes a record of the notice; or
-
-                             (ii)  discloses the existence of the notice; or
-
-                            (iii)  discloses any information about the notice or the existence of it; and
-
-                     (d)  when the record, or disclosure, is made by the person:
-
-                              (i)  the notation has not been cancelled by subsection 77A(7); and
-
-                             (ii)  the period of 5 years after the notice is served under section 75 has not ended.
-
-                    Penalty:  Imprisonment for 12 months.
-
-             (6)  A reference in this section to disclosing something’s existence includes disclosing information from which a person could reasonably be expected to infer its existence.
-
 #### Subdivision B—Offence and related provisions
 
-##### <a id="78"></a>78  Failure to comply with notice
+##### <a id="78"></a>78  Failure to comply with Integrity Commissioner’s request
 
-             (1)  A person commits an offence if:
+                   A person commits an offence if:
 
-                     (a)  the person is served with a notice under section 75; and
+                     (a)  the person is given a request under section 75 or 76; and
 
-                     (b)  the person fails to comply with the notice:
-
-                              (i)  within the period specified in the notice; or
-
-                             (ii)  if the Integrity Commissioner has allowed the person further time under subsection 76(3)—within such further time.
+                     (b)  the person fails to comply with the request.
 
                     Penalty:  Imprisonment for 2 years.
 
-Note 1:       If a notice requires a document or thing to be produced, a legal practitioner may refuse to produce the document or thing in certain circumstances: see section 79.
+Note 1:       A legal practitioner may refuse to produce a document or thing in certain circumstances: see section 79.
 
 Note 2:       This section is not subject to the privilege against self‑incrimination but there are limits on the uses to which the evidence the person gives may be put: see section 80.
-
-             (2)  In proceedings for an offence against subsection (1), it is a defence if it is not reasonably practicable for the person to comply with the notice:
-
-                     (a)  within the period specified in the notice; or
-
-                     (b)  within such further time as allowed by the Integrity Commissioner under subsection 76(3).
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (2): see subsection 13.3(3) of the _Criminal Code_.
 
 ##### <a id="79"></a>79  Legal practitioner not required to disclose privileged communications
 
              (1)  A legal practitioner may refuse:
 
-                     (a)  to give information; or
+                     (a)  to give information to the Integrity Commissioner; or
 
-                     (b)  to produce a document or thing;
+                     (b)  to produce a document or thing to the Integrity Commissioner;
 
-when served with a notice to do so under section 75 if the information would disclose, or the document contains, a privileged communication made by the legal practitioner (or to the legal practitioner) in his or her capacity as a legal practitioner.
+when requested to do so under section 76 if the information would disclose, or the document contains, a privileged communication made by the legal practitioner (or to the legal practitioner) in his or her capacity as a legal practitioner.
 
              (2)  Subsection (1) has effect subject to paragraph 80(5)(c).
 
@@ -3417,17 +3195,7 @@ when served with a notice to do so under section 75 if the information would d
 
 he or she must, if required by the Integrity Commissioner, give the Integrity Commissioner the name and address of the person to whom the communication was made (or by whom the communication was made).
 
-             (5)  If a legal practitioner gets agreement, as mentioned in subsection (3):
-
-                     (a)  the fact that he or she:
-
-                              (i)  gives information; or
-
-                             (ii)  produces a document or thing;
-
-                            does not otherwise affect a claim of legal professional privilege that anyone may make in relation to that information, document or thing; and
-
-                     (b)  the information or document does not cease to be the subject of legal professional privilege merely because it is given, produced or referred to.
+             (5)  This section does not affect the law relating to legal professional privilege.
 
 ##### <a id="80"></a>80  Self‑incrimination etc.
 
@@ -3439,7 +3207,23 @@ Self‑incrimination
 
                      (b)  producing a document or thing;
 
-when served with a notice to do so under section 75 on the ground that doing so would tend to incriminate the person or expose the person to a penalty.
+when requested to do so under section 75 or 76 on the ground that doing so would tend to incriminate the person or expose the person to a penalty.
+
+Use indemnity
+
+             (2)  Subsection (4) applies if:
+
+                     (a)  the person:
+
+                              (i)  gives the information (whether orally or in writing); or
+
+                             (ii)  produces the document or thing;
+
+                            and, before doing so, claims that giving the information or producing the document or thing, might tend to incriminate the person or expose the person to a penalty; or
+
+                     (b)  the person gives the information in writing and claims, in a written statement accompanying the information, that giving the information might tend to incriminate the person or expose the person to a penalty; or
+
+                     (c)  the person produces the document or thing and claims, in a written statement accompanying the document or thing, that producing the document or thing might tend to incriminate the person or expose the person to a penalty.
 
              (3)  Subsection (4) does not apply to the production of a document that is, or forms part of, a record of an existing or past business.
 
@@ -3469,7 +3253,7 @@ Public interest grounds
 
                      (b)  producing a document or thing;
 
-when served with a notice to do so under section 75 on the ground that doing so:
+when requested to do so under section 75 or 76 on the ground that doing so:
 
                      (c)  would disclose one of the following:
 
@@ -3495,11 +3279,11 @@ Note:          See also subsection 150(2) in relation to secti
 
 does not otherwise affect a claim of legal professional privilege that anyone may make in relation to that information, document or thing.
 
-             (7)  A person does not commit an offence, and is not liable to any penalty, under the provisions of any other enactment (other than a taxation secrecy provision or a law enforcement secrecy provision) because the person gives information, or produces a document or thing, when required to do so under section 75.
+             (7)  A person does not commit an offence, and is not liable to any penalty, under the provisions of any other enactment (other than a taxation secrecy provision or a law enforcement secrecy provision) because the person gives information, or produces a document or thing, when required to do so under section 75 or 76.
 
 ##### <a id="81"></a>81  Protection of person required to give information and produce documents
 
-             (1) A person who gives information, or produces a document or thing, in response to a notice served on the person under section 75 has the same protection as a witness in proceedings in the High Court.
+             (1) A person who gives information, or produces a document or thing, to the Integrity Commissioner in response to a request under section 75 or 76 has the same protection as a witness in proceedings in the High Court.
 
              (2)  Subsection (3) applies if it appears to the Integrity Commissioner that, because a person:
 
@@ -3507,7 +3291,7 @@ does not otherwise affect a claim of legal professional privilege that anyone ma
 
                      (b)  has given information, or produced a document or thing;
 
-in response to a notice served on the person under section 75, either:
+to the Integrity Commissioner in response to a request under section 75 or 76, either:
 
                      (c)  the safety of the person or any other person may be prejudiced; or
 
@@ -3547,7 +3331,7 @@ Commissioner may hold hearings for investigations or public inquiries
 
 Hearing in relation to an investigation of a corruption issue
 
-             (3)  The Integrity Commissioner may decide to hold the whole (or a part) of a hearing in relation to an investigation of a corruption issue either in public or in private.
+             (3)  The Integrity Commissioner may decide to hold the whole (or a part) of a hearing in relation to an investigation of corruption issue either in public or in private.
 
              (4)  In deciding under subsection (3) whether a hearing (or a part of a hearing) is to be held in public or in private, the Integrity Commissioner must have regard to the following:
 
@@ -3585,13 +3369,11 @@ Direction is not a legislative instrument
 
 ##### <a id="83"></a>83  Integrity Commissioner may summon person
 
-             (1)  The Integrity Commissioner may summon a person to attend a hearing at a time and place specified in the summons to do either or both of the following:
+             (1)  The Integrity Commissioner may summon a person to attend a hearing at a time and place specified in the summons:
 
-                     (a)  to give evidence;
+                     (a)  to give evidence; or
 
-                     (b)  to produce documents or things specified in the summons;
-
-if the Integrity Commissioner has reasonable grounds to suspect that the evidence, documents or things will be relevant to the investigation of a corruption issue or the conduct of a public inquiry.
+                     (b)  to produce documents or things specified in the summons.
 
 Note 1:       In certain cases, disclosing the existence of a summons, or any information about it, is an offence: see section 92.
 
@@ -3789,7 +3571,7 @@ must not be published, or must not be published except in such manner, and to su
 
 Note:          Failure to comply with a direction is an offence: see subsection (6).
 
-             (2)  If the hearing is held in private, the Integrity Commissioner must give a direction under subsection (1) if the Commissioner is satisfied that the failure to give such a direction:
+             (2)  If the hearing is held in private, the Integrity Commissioner must give a direction under subsection (1) if the Commissioner is satisfied that the failure to give a such a direction:
 
                      (a)  might prejudice:
 
@@ -3947,7 +3729,7 @@ such a note must not be made until the notation is cancelled.
 
                      (d)  if the person is a body corporate—to an officer or agent of the body corporate for the purpose of ensuring compliance with the summons; or
 
-                     (e)  if the person is a legal practitioner—for the purpose of obtaining the agreement of another person under subsection 95(3) to the legal practitioner answering a question or producing a document or thing at the hearing.
+                     (e)  if the person is a legal practitioner—for the purpose of obtaining the agreement of another person under subsection 95(2) to the legal practitioner answering a question or producing a document or thing at the hearing.
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (2): see subsection 13.3(3) of the _Criminal Code_.
 
@@ -4021,7 +3803,7 @@ Note:          A defendant bears an evidential burden in relat
 
 #### Subdivision E—Offences in relation to hearings
 
-##### <a id="93"></a>93  Offences—attendance at hearings etc.
+##### <a id="93"></a>93  Offences
 
 Failure to attend hearing
 
@@ -4075,7 +3857,7 @@ Note 2:       This subsection is not subject to the privilege agains
 
              (5)  Subsection (4) has effect subject to section 150 (which deals with section 149 certified information).
 
-##### <a id="94"></a>94  Offences—disturbing or interrupting hearings
+##### <a id="94"></a>94  Contempt
 
              (1)  A person commits an offence if:
 
@@ -4139,17 +3921,7 @@ if the answer to the question would disclose, or the document or thing contains,
 
 he or she must, if required by the Integrity Commissioner, give the Integrity Commissioner the name and address of the person to whom or by whom the communication was made.
 
-             (5)  If a legal practitioner gets agreement, as mentioned in subsection (3):
-
-                     (a)  the fact that he or she:
-
-                              (i)  answers the question; or
-
-                             (ii)  produces a document or thing;
-
-                            does not otherwise affect a claim of legal professional privilege that anyone may make in relation to the answer, document or thing; and
-
-                     (b)  the answer or document does not cease to be the subject of legal professional privilege merely because it is given, produced or referred to.
+             (5)  This section does not affect the law relating to legal professional privilege.
 
 ##### <a id="96"></a>96  Self‑incrimination etc.
 
@@ -4163,6 +3935,22 @@ Self‑incrimination
 
 when summoned, under section 83, to attend a hearing to do so on the ground that doing so would tend to incriminate the person or expose the person to a penalty.
 
+Use indemnity
+
+             (2)  Subsection (4) applies if:
+
+                     (a)  the person:
+
+                              (i)  answers the question (whether orally or in writing); or
+
+                             (ii)  produces the document or thing;
+
+                            and, before doing so, claims that answering the question, or producing the document or thing, might tend to incriminate the person or expose the person to a penalty; or
+
+                     (b)  the person answers the question in writing and claims, in a written statement accompanying the answer, that answering the question might tend to incriminate the person or expose the person to a penalty; or
+
+                     (c)  the person produces the document or thing and claims, in a written statement accompanying the document or thing, that producing the document or thing might tend to incriminate the person or expose the person to a penalty.
+
              (3)  Subsection (4) does not apply to the production of a document that is, or forms part of, a record of an existing or past business.
 
              (4)  Neither of the following:
@@ -4173,7 +3961,7 @@ when summoned, under section 83, to attend a hearing to do so on the ground th
 
 is admissible in evidence against the person in criminal proceedings, or any other proceedings for the imposition or recovery of a penalty, other than:
 
-                     (c)  proceedings for an offence against section 77B, 92 or 93; or
+                     (c)  proceedings for an offence against section 93; or
 
                      (d)  confiscation proceedings; or
 
@@ -4222,168 +4010,6 @@ does not otherwise affect a claim of legal professional privilege that anyone ma
                      (a)  answers a question at a hearing that the Integrity Commissioner requires the person to answer; or
 
                      (b)  produces a document or thing that the person is required to produce in accordance with the summons.
-
-#### Subdivision EA—Contempt of ACLEI
-
-##### <a id="96A"></a>96A  Contempt of ACLEI
-
-             (1)  A person is **_in contempt of ACLEI_** if he or she:
-
-                     (a)  when served with a summons to attend a hearing:
-
-                              (i)  fails to attend as required by the summons; or
-
-                             (ii)  fails to appear and report from day to day unless excused or released from further attendance by the Integrity Commissioner; or
-
-                            (iii)  refuses or fails to be sworn or make an affirmation at the hearing; or
-
-                            (iv)  subject to subsection (2), refuses or fails to answer a question at the hearing that the Integrity Commissioner requires the person to answer; or
-
-                             (v)  subject to subsection (3), refuses or fails to produce a document or thing that the person was required to produce by a summons or notice under this Act that was served on him or her as prescribed; or
-
-                     (b)  is a legal practitioner who is required to answer a question or produce a document or thing at a hearing and both of the following apply:
-
-                              (i)  the answer to the question would disclose, or the document or thing contains, a privileged communication made by or to the legal practitioner in his or her capacity as a legal practitioner;
-
-                             (ii)  he or she refuses to comply with the requirement and does not, when required by the Integrity Commissioner, give the Integrity Commissioner the name and address of the person to whom or by whom the communication was made; or
-
-                     (c)  gives evidence at a hearing that he or she knows is false or misleading in a material particular; or
-
-                     (d)  insults, disturbs or uses insulting language towards someone who the person knows:
-
-                              (i)  is the Integrity Commissioner; and
-
-                             (ii)  is holding a hearing in the performance of his or her functions, or the exercise of his or her powers, as Integrity Commissioner; or
-
-                     (e)  creates a disturbance, or takes part in creating or continuing a disturbance, in or near a place that the person knows is being used to hold a hearing for the purpose of:
-
-                              (i)  investigating a corruption issue; or
-
-                             (ii)  conducting a public inquiry; or
-
-                      (f)  obstructs or hinders the Integrity Commissioner in the performance of his or her functions; or
-
-                     (g)  interrupts a hearing that is being held for the purpose of:
-
-                              (i)  investigating a corruption issue; or
-
-                             (ii)  conducting a public inquiry; or
-
-                     (h)  threatens a person present at a hearing that is being held for the purpose of:
-
-                              (i)  investigating a corruption issue; or
-
-                             (ii)  conducting a public inquiry.
-
-             (2)  Subparagraph (1)(a)(iv) does not apply in the case of a legal practitioner who refuses or fails to answer a question at a hearing on the ground that the answer to the question would disclose a privileged communication made by or to the legal practitioner in his or her capacity as a legal practitioner.
-
-             (3)  Subparagraph (1)(a)(v) does not apply in the case of a legal practitioner who refuses or fails to produce a document or thing at a hearing on the ground that the document or thing contains a privileged communication made by or to the legal practitioner in his or her capacity as a legal practitioner.
-
-##### <a id="96B"></a>96B  Federal Court or Supreme Court to deal with contempt
-
-Application
-
-             (1)  If, in respect of a hearing, the Integrity Commissioner is of the opinion that a person is in contempt of ACLEI, the Integrity Commissioner may apply to either of the following courts for the person to be dealt with in relation to the contempt:
-
-                     (a)  the Federal Court;
-
-                     (b)  the Supreme Court of the State or Territory in which the hearing is held.
-
-             (2)  Before making the application, the Integrity Commissioner must inform the person that the Integrity Commissioner proposes to make the application.
-
-             (3)  The application must be accompanied by a certificate that states:
-
-                     (a)  the grounds for making the application; and
-
-                     (b)  evidence in support of the application.
-
-             (4)  A copy of the certificate must be given to the person before, or at the same time as, the application is made.
-
-             (5)  To avoid doubt, if the Integrity Commissioner makes an application under this section, the Integrity Commissioner need not give the evidence to the relevant person or authority under section 142.
-
-How court may deal with application
-
-             (6)  If, after:
-
-                     (a)  considering the matters specified in the certificate; and
-
-                     (b)  hearing or receiving any evidence or statements by or in support of ACLEI; and
-
-                     (c)  hearing or receiving any evidence or statements by or in support of the person;
-
-the court to which the application was made finds that the person was in contempt of ACLEI, the court may deal with the person as if the acts or omissions involved constituted a contempt of that court.
-
-             (7)  For the purposes of determining whether a person is in contempt of ACLEI under subsection (1), Chapter 2 of the _Criminal Code_ applies as if:
-
-                     (a)  being in contempt of ACLEI were an offence; and
-
-                     (b)  references to a person being criminally responsible for an offence were references to a person being responsible for being in contempt of ACLEI.
-
-##### <a id="96C"></a>96C  Conduct of contempt proceedings
-
-             (1)  This section applies if an application is made to the Federal Court or to the Supreme Court of a State or Territory under section 96B.
-
-             (2)  Proceedings in relation to the application are, subject to this Act, to be instituted, carried on, heard and determined in accordance with the laws (including any Rules of Court) that apply in relation to the punishment of a contempt of the court to which the application was made.
-
-             (3)  In proceedings relating to the application, a certificate under subsection 96B(3) is prima facie evidence of the matters specified in the certificate.
-
-##### <a id="96D"></a>96D  Person in contempt may be detained
-
-             (1)  If the Integrity Commissioner proposes to make an application under subsection 96B(1) in respect of a person, the Integrity Commissioner may, during the hearing concerned, direct a constable or an authorised officer to detain the person for the purpose of bringing the person before the relevant court for the hearing of the application.
-
-             (2)  If the person is so detained:
-
-                     (a)  the Integrity Commissioner must apply to the court as soon as practicable under subsection 96B(1) in respect of the person; and
-
-                     (b)  the person must, subject to subsection (3) of this section, be brought before the court as soon as practicable.
-
-             (3)  The court may:
-
-                     (a)  direct that the person be released from detention on condition that he or she will appear before the court in relation to the application; or
-
-                     (b)  order that the person continue to be detained until the application is determined.
-
-             (4)  The court may also impose any other condition on the release, for example:
-
-                     (a)  that the person surrender his or her passport; or
-
-                     (b)  that the person give an undertaking as to his or her living arrangements; or
-
-                     (c)  that the person report as required to:
-
-                              (i)  the AFP; or
-
-                             (ii)  a police force or police service of a State; or
-
-                            (iii)  any other authority or person responsible for the enforcement of the laws of the Commonwealth or of the States.
-
-             (5)  The court may at any time vary or revoke a condition imposed under subsection (4).
-
-##### <a id="96E"></a>96E  Integrity Commissioner may withdraw contempt application
-
-             (1)  The Integrity Commissioner may, at any time, withdraw an application under subsection 96B(1).
-
-             (2)  If:
-
-                     (a)  the Integrity Commissioner does so; and
-
-                     (b)  the person to whom the application relates is in detention under section 96D;
-
-the person must be released from detention immediately.
-
-##### <a id="96F"></a>96F  Double jeopardy
-
-             (1)  If an act or omission by a person is an offence against this Act and is also an offence against a law of a State, the person may be prosecuted and convicted under this Act or under that law of that State in respect of the act or omission, but nothing in this Act renders a person liable to be punished twice in respect of the same act or omission.
-
-             (2)  If:
-
-                     (a)  an application is made to the Federal Court or a Supreme Court under subsection 96B(1) in respect of an act or omission by a person; and
-
-                     (b)  the person is dealt with by the court under that section in respect of the act or omission;
-
-the person is not liable to be prosecuted for an offence in respect of that act or omission.
-
-             (3)  If a person is prosecuted for an offence in respect of an act or omission referred to in subsection 96A(1) without an application being made to the Federal Court or a Supreme Court under subsection 96B(1) in respect of the act or omission, an application must not be made under subsection 96B(1) in respect of the act or omission.
 
 #### Subdivision F—Court orders for delivery of witness’s passport and witness’s arrest
 
@@ -4473,21 +4099,21 @@ Definition
 
 ##### <a id="99"></a>99  Applying for a warrant to arrest witness
 
-             (1)  An authorised officer may apply to a Judge of the Federal Court or of the Supreme Court of a State or Territory for a warrant to arrest a person if:
+             (1)  An authorised officer may apply to a Judge of the Federal Court of Australia, or of the Supreme Court of a State or Territory, for a warrant to arrest a person if the authorised officer has reasonable grounds to believe that:
 
-                     (a)  both of the following apply:
+                     (a)  the person:
 
-                              (i)  the person has been ordered to deliver his or her passport to the Integrity Commissioner (whether or not the person has complied with the order);
+                              (i)  has been ordered to deliver his or her passport to the Integrity Commissioner (whether or not the person has complied with the order); and
 
-                             (ii)  the authorised officer has reasonable grounds to believe that the person is likely to leave Australia for the purpose of avoiding giving evidence at a hearing before the Integrity Commissioner; or
+                             (ii)  is likely to leave Australia for the purpose of avoiding giving evidence at a hearing before the Integrity Commissioner; or
 
-                     (b)  the person is to be served with a summons under section 83 and the authorised officer has reasonable grounds to believe that the person:
+                     (b)  the person has been served with a summons under section 83 and:
 
                               (i)  has absconded or is likely to abscond; or
 
                              (ii)  is otherwise attempting, or likely to attempt, to evade service of the summons; or
 
-                     (c)  the authorised officer has reasonable grounds to believe that the person has committed an offence under subsection 93(1) or is likely to do so.
+                     (c)  the person has committed an offence under subsection 93(1) or is likely to do so.
 
              (2)  An authorised officer must give the Judge information on oath, or by affirmation, in support of the grounds for the application.
 
@@ -4495,7 +4121,7 @@ Definition
 
 Issue of warrant
 
-             (1)  If a Judge, sitting in Chambers, is satisfied, on the evidence, that there are reasonable grounds for believing that paragraph 99(1)(a), (b) or (c) is met, the Judge may issue a warrant authorising the arrest of the person.
+             (1)  If a Judge, sitting in Chambers, is satisfied, on the evidence, that there are reasonable grounds for believing that paragraph 99(1)(a), (b) or (c) is met, the Judge may issue a warrant authorising the authorised officer to arrest the person.
 
 Execution of warrant
 
@@ -4522,8 +4148,6 @@ Execution of warrant
                      (b)  the person’s actions make it impracticable for the authorised officer executing the warrant (or an assisting officer making the arrest) to inform the person of the reason for which he or she is being arrested.
 
              (9)  Nothing in this section prevents the arrest of a person in accordance with any other law.
-
-          (9A)  To avoid doubt, the authorised officer executing the warrant need not be the authorised officer who applied for the warrant.
 
 Definitions
 
@@ -4629,7 +4253,7 @@ authorise the Commonwealth to provide the person with legal or financial assista
 
              (2)  A legal practitioner assisting the Integrity Commissioner, or representing a person at a hearing, has the same protection and immunity as a barrister appearing for a party in proceedings in the High Court.
 
-             (4)  To avoid doubt, this section does not limit the powers of the Ombudsman under the _Ombudsman Act 1976_ to investigate issues of administrative practice in relation to a hearing that has been held under this Division.
+             (4)  To avoid doubt, this section does not limit the powers of the Ombudsman under the _Ombudsman Act 1976_ to investigate issues of administrative practice in relation to a hearing that been held under this Division.
 
              (5)  A reference in this section to the Integrity Commissioner includes a reference to an Assistant Integrity Commissioner who exercises the power to hold a hearing under an authorisation under section 219.
 
@@ -4935,17 +4559,15 @@ Additional matters for warrant in relation to person
 
                             (iii)  in any case—evidential material (within the meaning of the _Proceeds of Crime Act 2002_) or tainted property (within the meaning of that Act); or
 
-                            (iv)  in any case—a thing relevant to an indictable offence; or
+                            (iv)  in any case—a thing relevant to an indictable offence;
 
                             if the authorised officer or the assisting officer believes on reasonable grounds that seizure of the thing is necessary to prevent its concealment, loss or destruction or its use in committing an offence.
-
-                             (v)  in any case—any eligible seizable item;
 
 Successive warrants
 
              (5)  Paragraph (1)(e) does not prevent the issue of successive warrants in relation to the same premises or person.
 
-##### <a id="111"></a>111  Application by telephone etc. and issue of warrant
+##### <a id="111"></a>111  Application by telephone etc. and issue of warrant
 
              (1)  An authorised officer may apply to an issuing officer for a search warrant by telephone, fax, email or other electronic means:
 
@@ -5109,11 +4731,11 @@ the court is to assume, unless the contrary is proved, that the exercise of the 
 
              (2)  In executing a search warrant:
 
-                     (a)  if an assisting officer is also an authorised officer or a constable—the assisting officer may use the force against persons and things that is necessary and reasonable in the circumstances; and
+                     (a)  if an assisting officer is also an authorised officer—the assisting officer may use the force against persons and things that is necessary and reasonable in the circumstances; and
 
-                     (b)  if an assisting officer is not an authorised officer or a constable—the assisting officer may use the force against things that is necessary and reasonable in the circumstances.
+                     (b)  if an assisting officer is not an authorised officer—the assisting officer may use the force against things that is necessary and reasonable in the circumstances.
 
-             (3)  Only an authorised officer or a constable may take part in searching a person.
+             (3)  A person who is not an authorised officer must not take part in searching a person.
 
 #### Subdivision E—Specific provisions about executing a warrant in relation to premises
 
@@ -5591,8 +5213,6 @@ the Integrity Commissioner must:
 
                              (ii)  another person or authority who is authorised by or under a law of the State or Territory to prosecute the offence or bring the civil penalty proceedings.
 
-Note:          See also subsection 96B(5).
-
 ##### <a id="143"></a>143  Evidence that could be used in confiscation proceedings
 
 Commonwealth proceedings
@@ -5743,7 +5363,7 @@ the Integrity Commissioner must:
 
                      (c)  bring the evidence to the notice of the Minister; and
 
-                     (d)  advise the person that the Integrity Commissioner has brought the evidence to the notice of the Minister.
+                     (d)  advise the person that the Integrity Commissioner has must brought the evidence to the notice of the Minister.
 
 State or Territory offence
 
@@ -5853,15 +5473,15 @@ the head of the agency must not give the Integrity Commissioner the information 
 
              (2)  If:
 
-                     (a)  a person is served with a notice under Division 1 of Part 9:
+                     (a)  a person is requested under Division 1 of Part 9:
 
-                              (i)  to give information; or
+                              (i)  to give Integrity Commissioner information; or
 
-                             (ii)  to produce a document or thing; and
+                             (ii)  to produce a document to the Integrity Commissioner; and
 
                      (b)  the information is, or the document contains, section 149 certified information;
 
-the person must not comply with the notice if doing so would contravene the certificate issued under section 149.
+the person must not comply with the request if doing so would contravene the certificate issued under section 149.
 
              (3)  If:
 
@@ -5979,7 +5599,7 @@ How Minister may deal with ACLEI corruption issue
 
              (5)  If the Minister decides:
 
-                     (a)  to authorise a person under paragraph (2)(b) to conduct a special investigation of the ACLEI corruption issue under Division 4; or
+                     (a)  to authorises a person under paragraph (2)(b) to conduct a special investigation of the ACLEI corruption issue under Division 4; or
 
                      (b)  to take no further action in relation to the ACLEI corruption issue;
 
@@ -6277,9 +5897,9 @@ the Integrity Commissioner must advise the person who referred the allegation or
 
 ### Division 4—Special investigations
 
-##### <a id="166"></a>166  Application of Division
+##### <a id="166"></a>166  Application of Part
 
-                   This Division applies if the Minister authorises a person (the **_special investigator_**) to conduct a special investigation of an ACLEI corruption issue under this Division.
+                   This Part applies if the Minister authorises a person (the **_special investigator_**) to conduct a special investigation of an ACLEI corruption issue under this Division.
 
 ##### <a id="167"></a>167  Investigation and investigative powers
 
@@ -6380,7 +6000,7 @@ the Integrity Commissioner must advise the person who referred the allegation or
 
              (4)  Subsections 144(2), (5) and (6) and 145(2), (5) and (6) do not apply to the investigation of the ACLEI corruption issue by the special investigator.
 
-             (5)  If the special investigator proposes to take action, or takes action, under section 142 or 143 in relation to the investigation of the ACLEI corruption issue, the special investigator need not consult a person under subsection 144(3) or (4), or inform a person under subsection 145(3) or (4), if doing so would be likely to prejudice:
+             (5)  If the special investigator proposes to take action under section 142 or 143 in relation to the investigation of the ACLEI corruption issue, the special investigator need not consult a person under subsection 142(3) or (4), or inform a person under subsection 145(3) or (4), if doing so would be likely to prejudice:
 
                      (a)  the investigation of the ACLEI corruption issue or another corruption investigation; or
 
@@ -6390,7 +6010,7 @@ the Integrity Commissioner must advise the person who referred the allegation or
 
                      (a)  inform the Minister that the person has not been consulted or informed; and
 
-                     (b)  give the Minister the special investigator’s reasons for not consulting or informing the person.
+                     (b)  give the Minister the Integrity Commissioner’s reasons for not consulting or informing the person.
 
 ##### <a id="168"></a>168  Keeping Minister, and person who referred ACLEI corruption issue, informed of progress of the investigation
 
@@ -6830,7 +6450,7 @@ Definition of **Judge**
 
 Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
 
-             (2)  A person may only be appointed as the acting Assistant Integrity Commissioner if he or she:
+             (2)  A person may only be appointed as the acting Integrity Commissioner if he or she:
 
                      (a)  is enrolled as a legal practitioner; and
 
@@ -7786,7 +7406,7 @@ Remainder: 30 Dec 2006</div>
   </td>
   <td>
     <div>Schedule 4 (items 1–51, 
-54–59): 5 Apr 2012 
+54–59): \[ <i>see</i>Note 2 and Table A] 
 Schedule 9: Royal Assent</div>
   </td>
   <td>
@@ -7897,8 +7517,8 @@ _(a)_ Subsection 2(1) (item 23) of the _Anti‑Money Laundering and Counter‑
 
 <table>
 <colgroup>
-  <col width="33%">
-  <col width="67%">
+  <col width="32%">
+  <col width="68%">
 </colgroup>
 
 <thead>
@@ -7929,7 +7549,7 @@ _(a)_ Subsection 2(1) (item 23) of the _Anti‑Money Laundering and Counter‑
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 170, 2006; No. 174, 2011; No. 24, 2012</div>
+    <div>am. No. 170, 2006; No. 174, 2011</div>
   </td>
 </tr>
 <tr>
@@ -7942,293 +7562,10 @@ _(a)_ Subsection 2(1) (item 23) of the _Anti‑Money Laundering and Counter‑
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 20(1)</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 21</div>
-  </td>
-  <td>
-    <div>rs. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 8</div>
-  </td>
-  <td>
-    <div>rs. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 9</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Subdiv. A of 
-Div. 1 of Part 9</div>
-  </td>
-  <td>
-    <div>rs. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 75, 76</div>
-  </td>
-  <td>
-    <div>rs. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision AA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. AA of Div. 1 of 
-Part 9</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 77A, 77B</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>rs. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 79–81</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 82, 83</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 90</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 92</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 93</div>
-  </td>
-  <td>
-    <div>rs. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 94</div>
-  </td>
-  <td>
-    <div>rs. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 95, 96</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision EA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. EA of Div. 2 of 
-Part 9</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 96A–96F</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision F</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 99, 100</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision G</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 104</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
   </td>
 </tr>
 <tr>
@@ -8245,134 +7582,6 @@ Part 9</div>
   </td>
   <td>
     <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 110</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 117</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 142</div>
-  </td>
-  <td>
-    <div>ad. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 147</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 150</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 12</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 156</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 166</div>
-  </td>
-  <td>
-    <div>rs. No. 24, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 166, 167</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2012</div>
   </td>
 </tr>
 <tr>
@@ -8436,7 +7645,7 @@ Part 9</div>
     <div>S. 187</div>
   </td>
   <td>
-    <div>am. No. 46, 2011; No. 24, 2012</div>
+    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8447,6 +7656,725 @@ Part 9</div>
     <div>rs. No. 46, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Crimes Legislation Amendment (Powers and Offences) Act 2012 
+ (No. 24, 2012)_
+
+The following amendments commence on 5 April 2012:
+
+## Schedule 4
+
+## 1  Subsection 5(1)
+
+Insert:
+
+                    <a name="constabl"></a>**_constable_** means:
+
+                     (a)  a member or special member of the AFP; or
+
+                     (b)  a member of the police force or police service of a State or Territory.
+
+## 2  Subsection 5(1)
+
+Insert:
+
+                    <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
+
+## 3  Subsection 5(1)
+
+Insert:
+
+                    <a name="contempt-aclei"></a>**_in contempt of ACLEI_** has the meaning given by section 96A.
+
+## 4  Subsection 20(1) (note)
+
+Omit “referred”, substitute “notified”.
+
+## 5  Section 21 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="21"></a>21  Law enforcement agency head to pass on new information in relation to corruption issue already notified
+
+## 6  Part 8 (heading)
+
+Repeal the heading, substitute:
+
+## Part 8—Public inquiries by Integrity Commissioner
+
+## 7  Subdivision A of Division 1 of Part 9 (heading)
+
+Repeal the heading, substitute:
+
+#### Subdivision A—Notices to give information or to produce documents or things
+
+## 8  Sections 75 and 76
+
+Repeal the sections, substitute:
+
+##### <a id="75"></a>75  Notice to give information or to produce document or thing
+
+Giving notice
+
+             (1)  For the purpose of investigating a corruption issue, the Integrity Commissioner may, by notice in writing, require a person to do either or both of the following:
+
+                     (a)  give the information specified in the notice;
+
+                     (b)  produce the documents or things specified in the notice;
+
+if the Integrity Commissioner has reasonable grounds to suspect that the information, documents or things will be relevant to the investigation.
+
+Note:          In certain cases, disclosing the existence of a notice, or any information about it, is an offence: see section 77B.
+
+             (2)  The Integrity Commissioner may require that information specified under paragraph (1)(a) is to be given in writing.
+
+             (3)  The notice must:
+
+                     (a)  be served on the person; and
+
+                     (b)  be signed by the Integrity Commissioner; and
+
+                     (c)  specify the period within which, and the manner in which, the person must comply with the notice.
+
+             (4)  The period specified under paragraph (3)(c) must be at least 14 days after the day the notice is served on the person, unless the Integrity Commissioner considers that allowing a 14‑day period would significantly prejudice a corruption investigation, in which case a shorter period may be specified.
+
+             (5)  If a shorter period is specified under paragraph (3)(c), the Integrity Commissioner must record, in writing:
+
+                     (a)  the name of the corruption investigation that would be prejudiced; and
+
+                     (b)  why a 14‑day period would significantly prejudice the investigation.
+
+             (6)  The Integrity Commissioner may serve a notice on a person without holding a hearing.
+
+##### <a id="76"></a>76  Compliance with notice
+
+Compliance with notice
+
+             (1)  A person served with a notice under section 75 must comply with the notice:
+
+                     (a)  within the period specified in the notice; or
+
+                     (b)  within such further time as the Integrity Commissioner allows under subsection (3).
+
+Note 1:       Failure to comply with a notice is an offence: see section 78.
+
+Note 2:       See also subsection 150(2) in relation to section 149 certified information.
+
+Extension of time
+
+             (2)  A person served with a notice under section 75 may apply to the Integrity Commissioner, in writing, for further time to comply with the notice:
+
+                     (a)  before the period expires; or
+
+                     (b)  as soon as possible after the period expires.
+
+             (3)  The Integrity Commissioner may allow a person served with a notice further time to comply with the notice whether or not an application has been made.
+
+Acknowledgement
+
+             (4)  If a person served with a notice has given the information and/or produced the documents or things specified in the notice, the Integrity Commissioner must give the person a written acknowledgement of that fact.
+
+## 9  Subsection 77(1)
+
+Omit “to the Integrity Commissioner in accordance with a request under section 75 or 76”, substitute “in accordance with a notice under section 75”.
+
+## 10  After Subdivision A of Division 1 of Part 9
+
+Insert:
+
+#### Subdivision AA—Prohibitions against disclosing information about notices
+
+##### <a id="77A"></a>77A  Disclosure of notice may be prohibited
+
+Application
+
+             (1)  This section applies in respect of a notice served on a person under section 75.
+
+Notation prohibiting disclosure of information about notice
+
+             (2)  The Integrity Commissioner may include a notation in the notice to the effect that disclosure of information about:
+
+                     (a)  the notice; or
+
+                     (b)  any official matter connected with the notice;
+
+is prohibited except in the circumstances (if any) specified in the notation.
+
+             (3)  The Integrity Commissioner must include a notation in the notice if the Integrity Commissioner is satisfied that failure to do so would reasonably be expected to prejudice:
+
+                     (a)  a person’s safety or reputation; or
+
+                     (b)  the fair trial of a person who has been, or may be, charged with an offence; or
+
+                     (c)  the investigation to which the notice relates or another corruption investigation; or
+
+                     (d)  any action taken as a result of an investigation referred to in paragraph (c).
+
+             (4)  The Integrity Commissioner may include a notation in the notice if the Integrity Commissioner is satisfied that:
+
+                     (a)  failure to do so might prejudice:
+
+                              (i)  a person’s safety or reputation; or
+
+                             (ii)  the fair trial of a person who has been, or may be, charged with an offence; or
+
+                            (iii)  the investigation to which the notice relates or another corruption investigation; or
+
+                            (iv)  any action taken as a result of an investigation referred to in subparagraph (iii); or
+
+                     (b)  failure to do so might otherwise be contrary to the public interest.
+
+             (5)  The Integrity Commissioner must not include a notation in the notice in any other case.
+
+Written statement to accompany notation
+
+             (6)  If a notation is included in the notice, it must be accompanied by a written statement setting out the rights and obligations conferred or imposed by section 77B on the person on whom the notice is served.
+
+Cancellation of notation
+
+             (7)  A notation included in the notice is cancelled by this subsection if:
+
+                     (a)  the Integrity Commissioner concludes the investigation to which the notice relates; and
+
+                     (b)  any criminal proceedings or civil penalty proceedings resulting from the investigation are commenced.
+
+             (8)  If a notation is cancelled by subsection (7), the Integrity Commissioner must advise the person who was served with the notated notice, in writing, of the cancellation.
+
+Relationship of notation with the Privacy Act 1988
+
+             (9)  If:
+
+                     (a)  a notation has been included in the notice in relation to the disclosure of information about the notice or any official matter connected with the notice; and
+
+                     (b)  the notation has not been cancelled; and
+
+                     (c)  apart from this subsection, a credit reporting agency (within the meaning of section 11A of the _Privacy Act 1988_) would be required, under subsection 18K(5) of that Act, to make a note about the disclosure of the information;
+
+such a note must not be made until the notation is cancelled.
+
+##### <a id="77B"></a>77B  Offences of disclosure
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is served with a notice under section 75; and
+
+                     (b)  the notice includes a notation under section 77A; and
+
+                     (c)  the person discloses the existence of, or any information about:
+
+                              (i)  the notice; or
+
+                             (ii)  any official matter connected with the notice; and
+
+                     (d)  when the disclosure is made:
+
+                              (i)  the notation has not been cancelled by subsection 77A(7); and
+
+                             (ii)  the period of 5 years after the notice is served under section 75 has not ended.
+
+                    Penalty:  Imprisonment for 12 months.
+
+             (2)  In proceedings for an offence against subsection (1), it is a defence if the person makes the disclosure:
+
+                     (a)  in the circumstances, if any, permitted by the terms of the notation; or
+
+                     (b)  to a legal practitioner for the purpose of obtaining legal advice or representation in relation to the notice; or
+
+                     (c)  to a legal aid officer for the purpose of seeking assistance under section 221 in relation to the notice; or
+
+                     (d)  if the person is a body corporate—to an officer or agent of the body corporate for the purpose of ensuring compliance with the notice; or
+
+                     (e)  if the person is a legal practitioner—for the purpose of obtaining the agreement of another person under subsection 79(3) to the legal practitioner answering a question or producing a document or thing.
+
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (2): see subsection 13.3(3) of the _Criminal Code_.
+
+             (3)  A person commits an offence if:
+
+                     (a)  a disclosure is made to a person about:
+
+                              (i)  a notice under section 75 that includes a notation under section 77A; or
+
+                             (ii)  any official matter connected with a notice under section 75 that includes a notation under section 77A; and
+
+                     (b)  the disclosure is permitted under subsection (2) or (4) because the person is a person of a particular kind; and
+
+                     (c)  while the person is a person of that kind, the person discloses the existence of, or any information about:
+
+                              (i)  the notice; or
+
+                             (ii)  any official matter connected with the notice; and
+
+                     (d)  when the disclosure by the person is made:
+
+                              (i)  the notation has not been cancelled by subsection 77A(7); and
+
+                             (ii)  the period of 5 years after the notice is served under section 75 has not ended.
+
+                    Penalty:  Imprisonment for 12 months.
+
+             (4)  In proceedings for an offence against subsection (3), it is a defence if the person discloses the information:
+
+                     (a)  if the person is an officer or agent of a body corporate referred to in paragraph (2)(d):
+
+                              (i)  to another officer or agent of the body corporate for the purpose of ensuring compliance with the notice; or
+
+                             (ii)  to a legal practitioner for the purpose of obtaining legal advice or representation in relation to the notice; or
+
+                            (iii)  to a legal aid officer for the purpose of seeking assistance under section 221 in relation to the notice; or
+
+                     (b)  if the person is a legal practitioner—for the purpose of giving legal advice, making representations, or seeking assistance under section 221, in relation to the notice; or
+
+                     (c)  if the person is a legal aid officer—for the purpose of obtaining legal advice or representation in relation to the notice.
+
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (4): see subsection 13.3(3) of the _Criminal Code_.
+
+             (5)  A person commits an offence if:
+
+                     (a)  a disclosure is made to a person about:
+
+                              (i)  a notice under section 75 that includes a notation under section 77A; or
+
+                             (ii)  any official matter connected with a notice under section 75 that includes a notation under section 77A; and
+
+                     (b)  the disclosure is permitted under subsection (2) or (4) because the person is a person of a particular kind; and
+
+                     (c)  when the person is no longer a person of that kind, the person:
+
+                              (i)  makes a record of the notice; or
+
+                             (ii)  discloses the existence of the notice; or
+
+                            (iii)  discloses any information about the notice or the existence of it; and
+
+                     (d)  when the record, or disclosure, is made by the person:
+
+                              (i)  the notation has not been cancelled by subsection 77A(7); and
+
+                             (ii)  the period of 5 years after the notice is served under section 75 has not ended.
+
+                    Penalty:  Imprisonment for 12 months.
+
+             (6)  A reference in this section to disclosing something’s existence includes disclosing information from which a person could reasonably be expected to infer its existence.
+
+## 11  Section 78
+
+Repeal the section, substitute:
+
+##### <a id="78"></a>78  Failure to comply with notice
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is served with a notice under section 75; and
+
+                     (b)  the person fails to comply with the notice:
+
+                              (i)  within the period specified in the notice; or
+
+                             (ii)  if the Integrity Commissioner has allowed the person further time under subsection 76(3)—within such further time.
+
+                    Penalty:  Imprisonment for 2 years.
+
+Note 1:       If a notice requires a document or thing to be produced, a legal practitioner may refuse to produce the document or thing in certain circumstances: see section 79.
+
+Note 2:       This section is not subject to the privilege against self‑incrimination but there are limits on the uses to which the evidence the person gives may be put: see section 80.
+
+             (2)  In proceedings for an offence against subsection (1), it is a defence if it is not reasonably practicable for the person to comply with the notice:
+
+                     (a)  within the period specified in the notice; or
+
+                     (b)  within such further time as allowed by the Integrity Commissioner under subsection 76(3).
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (2): see subsection 13.3(3) of the _Criminal Code_.
+
+## 12  Paragraphs 79(1)(a) and (b)
+
+Omit “to the Integrity Commissioner”.
+
+## 13  Subsection 79(1)
+
+Omit “requested to do so under section 76”, substitute “served with a notice to do so under section 75”.
+
+## 14  Subsection 79(5)
+
+Repeal the subsection, substitute:
+
+             (5)  If a legal practitioner gets agreement, as mentioned in subsection (3):
+
+                     (a)  the fact that he or she:
+
+                              (i)  gives information; or
+
+                             (ii)  produces a document or thing;
+
+                            does not otherwise affect a claim of legal professional privilege that anyone may make in relation to that information, document or thing; and
+
+                     (b)  the information or document does not cease to be the subject of legal professional privilege merely because it is given, produced or referred to.
+
+## 15  Subsection 80(1)
+
+Omit “requested to do so under section 75 or 76”, substitute “served with a notice to do so under section 75”.
+
+## 16  Subsection 80(2)
+
+Repeal the subsection.
+
+## 17  Subsection 80(5)
+
+Omit “requested to do so under section 75 or 76”, substitute “served with a notice to do so under section 75”.
+
+## 18  Subsection 80(7)
+
+Omit “or 76”.
+
+## 19  Subsections 81(1) and (2)
+
+Omit “to the Integrity Commissioner in response to a request under section 75 or 76”, substitute “in response to a notice served on the person under section 75”.
+
+## 20  Subsection 82(3)
+
+Omit “corruption issue”, substitute “a corruption issue”.
+
+## 21  Subsection 83(1)
+
+After “the summons” (first occurring), insert “to do either or both of the following”.
+
+## 22  Paragraph 83(1)(a)
+
+Omit “or”.
+
+## 23  Paragraph 83(1)(b)
+
+Repeal the paragraph, substitute:
+
+                     (b)  to produce documents or things specified in the summons;
+
+if the Integrity Commissioner has reasonable grounds to suspect that the evidence, documents or things will be relevant to the investigation of a corruption issue or the conduct of a public inquiry.
+
+## 24  Subsection 90(2)
+
+Omit “give a such a direction”, substitute “give such a direction”.
+
+## 25  Paragraph 92(2)(e)
+
+Omit “95(2)”, substitute “95(3)”.
+
+## 26  Subsection 95(5)
+
+Repeal the subsection, substitute:
+
+             (5)  If a legal practitioner gets agreement, as mentioned in subsection (3):
+
+                     (a)  the fact that he or she:
+
+                              (i)  answers the question; or
+
+                             (ii)  produces a document or thing;
+
+                            does not otherwise affect a claim of legal professional privilege that anyone may make in relation to the answer, document or thing; and
+
+                     (b)  the answer or document does not cease to be the subject of legal professional privilege merely because it is given, produced or referred to.
+
+## 27  Subsection 96(2)
+
+Repeal the subsection.
+
+## 28  Paragraph 96(4)(c)
+
+After “section”, insert “77B, 92 or”.
+
+## 29  After Subdivision E of Division 2 of Part 9
+
+Insert:
+
+#### Subdivision EA—Contempt of ACLEI
+
+##### <a id="96A"></a>96A  Contempt of ACLEI
+
+             (1)  A person is **_in contempt of ACLEI_** if he or she:
+
+                     (a)  when served with a summons to attend a hearing:
+
+                              (i)  fails to attend as required by the summons; or
+
+                             (ii)  fails to appear and report from day to day unless excused or released from further attendance by the Integrity Commissioner; or
+
+                            (iii)  refuses or fails to be sworn or make an affirmation at the hearing; or
+
+                            (iv)  subject to subsection (2), refuses or fails to answer a question at the hearing that the Integrity Commissioner requires the person to answer; or
+
+                             (v)  subject to subsection (3), refuses or fails to produce a document or thing that the person was required to produce by a summons or notice under this Act that was served on him or her as prescribed; or
+
+                     (b)  is a legal practitioner who is required to answer a question or produce a document or thing at a hearing and both of the following apply:
+
+                              (i)  the answer to the question would disclose, or the document or thing contains, a privileged communication made by or to the legal practitioner in his or her capacity as a legal practitioner;
+
+                             (ii)  he or she refuses to comply with the requirement and does not, when required by the Integrity Commissioner, give the Integrity Commissioner the name and address of the person to whom or by whom the communication was made; or
+
+                     (c)  gives evidence at a hearing that he or she knows is false or misleading in a material particular; or
+
+                     (d)  insults, disturbs or uses insulting language towards someone who the person knows:
+
+                              (i)  is the Integrity Commissioner; and
+
+                             (ii)  is holding a hearing in the performance of his or her functions, or the exercise of his or her powers, as Integrity Commissioner; or
+
+                     (e)  creates a disturbance, or takes part in creating or continuing a disturbance, in or near a place that the person knows is being used to hold a hearing for the purpose of:
+
+                              (i)  investigating a corruption issue; or
+
+                             (ii)  conducting a public inquiry; or
+
+                      (f)  obstructs or hinders the Integrity Commissioner in the performance of his or her functions; or
+
+                     (g)  interrupts a hearing that is being held for the purpose of:
+
+                              (i)  investigating a corruption issue; or
+
+                             (ii)  conducting a public inquiry; or
+
+                     (h)  threatens a person present at a hearing that is being held for the purpose of:
+
+                              (i)  investigating a corruption issue; or
+
+                             (ii)  conducting a public inquiry.
+
+             (2)  Subparagraph (1)(a)(iv) does not apply in the case of a legal practitioner who refuses or fails to answer a question at a hearing on the ground that the answer to the question would disclose a privileged communication made by or to the legal practitioner in his or her capacity as a legal practitioner.
+
+             (3)  Subparagraph (1)(a)(v) does not apply in the case of a legal practitioner who refuses or fails to produce a document or thing at a hearing on the ground that the document or thing contains a privileged communication made by or to the legal practitioner in his or her capacity as a legal practitioner.
+
+##### <a id="96B"></a>96B  Federal Court or Supreme Court to deal with contempt
+
+Application
+
+             (1)  If, in respect of a hearing, the Integrity Commissioner is of the opinion that a person is in contempt of ACLEI, the Integrity Commissioner may apply to either of the following courts for the person to be dealt with in relation to the contempt:
+
+                     (a)  the Federal Court;
+
+                     (b)  the Supreme Court of the State or Territory in which the hearing is held.
+
+             (2)  Before making the application, the Integrity Commissioner must inform the person that the Integrity Commissioner proposes to make the application.
+
+             (3)  The application must be accompanied by a certificate that states:
+
+                     (a)  the grounds for making the application; and
+
+                     (b)  evidence in support of the application.
+
+             (4)  A copy of the certificate must be given to the person before, or at the same time as, the application is made.
+
+             (5)  To avoid doubt, if the Integrity Commissioner makes an application under this section, the Integrity Commissioner need not give the evidence to the relevant person or authority under section 142.
+
+How court may deal with application
+
+             (6)  If, after:
+
+                     (a)  considering the matters specified in the certificate; and
+
+                     (b)  hearing or receiving any evidence or statements by or in support of ACLEI; and
+
+                     (c)  hearing or receiving any evidence or statements by or in support of the person;
+
+the court to which the application was made finds that the person was in contempt of ACLEI, the court may deal with the person as if the acts or omissions involved constituted a contempt of that court.
+
+             (7)  For the purposes of determining whether a person is in contempt of ACLEI under subsection (1), Chapter 2 of the _Criminal Code_ applies as if:
+
+                     (a)  being in contempt of ACLEI were an offence; and
+
+                     (b)  references to a person being criminally responsible for an offence were references to a person being responsible for being in contempt of ACLEI.
+
+##### <a id="96C"></a>96C  Conduct of contempt proceedings
+
+             (1)  This section applies if an application is made to the Federal Court or to the Supreme Court of a State or Territory under section 96B.
+
+             (2)  Proceedings in relation to the application are, subject to this Act, to be instituted, carried on, heard and determined in accordance with the laws (including any Rules of Court) that apply in relation to the punishment of a contempt of the court to which the application was made.
+
+             (3)  In proceedings relating to the application, a certificate under subsection 96B(3) is prima facie evidence of the matters specified in the certificate.
+
+##### <a id="96D"></a>96D  Person in contempt may be detained
+
+             (1)  If the Integrity Commissioner proposes to make an application under subsection 96B(1) in respect of a person, the Integrity Commissioner may, during the hearing concerned, direct a constable or an authorised officer to detain the person for the purpose of bringing the person before the relevant court for the hearing of the application.
+
+             (2)  If the person is so detained:
+
+                     (a)  the Integrity Commissioner must apply to the court as soon as practicable under subsection 96B(1) in respect of the person; and
+
+                     (b)  the person must, subject to subsection (3) of this section, be brought before the court as soon as practicable.
+
+             (3)  The court may:
+
+                     (a)  direct that the person be released from detention on condition that he or she will appear before the court in relation to the application; or
+
+                     (b)  order that the person continue to be detained until the application is determined.
+
+             (4)  The court may also impose any other condition on the release, for example:
+
+                     (a)  that the person surrender his or her passport; or
+
+                     (b)  that the person give an undertaking as to his or her living arrangements; or
+
+                     (c)  that the person report as required to:
+
+                              (i)  the AFP; or
+
+                             (ii)  a police force or police service of a State; or
+
+                            (iii)  any other authority or person responsible for the enforcement of the laws of the Commonwealth or of the States.
+
+             (5)  The court may at any time vary or revoke a condition imposed under subsection (4).
+
+##### <a id="96E"></a>96E  Integrity Commissioner may withdraw contempt application
+
+             (1)  The Integrity Commissioner may, at any time, withdraw an application under subsection 96B(1).
+
+             (2)  If:
+
+                     (a)  the Integrity Commissioner does so; and
+
+                     (b)  the person to whom the application relates is in detention under section 96D;
+
+the person must be released from detention immediately.
+
+##### <a id="96F"></a>96F  Double jeopardy
+
+             (1)  If an act or omission by a person is an offence against this Act and is also an offence against a law of a State, the person may be prosecuted and convicted under this Act or under that law of that State in respect of the act or omission, but nothing in this Act renders a person liable to be punished twice in respect of the same act or omission.
+
+             (2)  If:
+
+                     (a)  an application is made to the Federal Court or a Supreme Court under subsection 96B(1) in respect of an act or omission by a person; and
+
+                     (b)  the person is dealt with by the court under that section in respect of the act or omission;
+
+the person is not liable to be prosecuted for an offence in respect of that act or omission.
+
+             (3)  If a person is prosecuted for an offence in respect of an act or omission referred to in subsection 96A(1) without an application being made to the Federal Court or a Supreme Court under subsection 96B(1) in respect of the act or omission, an application must not be made under subsection 96B(1) in respect of the act or omission.
+
+## 30  Section 93 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="93"></a>93  Offences—attendance at hearings etc.
+
+## 31  Section 94 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="94"></a>94  Offences—disturbing or interrupting hearings
+
+## 32  Subsection 99(1)
+
+Repeal the subsection, substitute:
+
+             (1)  An authorised officer may apply to a Judge of the Federal Court or of the Supreme Court of a State or Territory for a warrant to arrest a person if:
+
+                     (a)  both of the following apply:
+
+                              (i)  the person has been ordered to deliver his or her passport to the Integrity Commissioner (whether or not the person has complied with the order);
+
+                             (ii)  the authorised officer has reasonable grounds to believe that the person is likely to leave Australia for the purpose of avoiding giving evidence at a hearing before the Integrity Commissioner; or
+
+                     (b)  the person is to be served with a summons under section 83 and the authorised officer has reasonable grounds to believe that the person:
+
+                              (i)  has absconded or is likely to abscond; or
+
+                             (ii)  is otherwise attempting, or likely to attempt, to evade service of the summons; or
+
+                     (c)  the authorised officer has reasonable grounds to believe that the person has committed an offence under subsection 93(1) or is likely to do so.
+
+## 33  Subsection 100(1)
+
+Omit all the words after “authorising”, substitute “the arrest of the person”.
+
+## 34  After subsection 100(9)
+
+Insert:
+
+          (9A)  To avoid doubt, the authorised officer executing the warrant need not be the authorised officer who applied for the warrant.
+
+## 35  Subsection 104(4)
+
+Omit “a hearing that been held”, substitute “a hearing that has been held”.
+
+## 36  At the end of subparagraph 110(4)(b)(iv)
+
+Add “or”.
+
+## 37  At the end of paragraph 110(4)(b)
+
+Add:
+
+                             (v)  in any case—any eligible seizable item;
+
+## 38  Paragraph 117(2)(a)
+
+After “authorised officer”, insert “or a constable”.
+
+## 39  Paragraph 117(2)(b)
+
+After “not an authorised officer”, insert “or a constable”.
+
+## 40  Subsection 117(3)
+
+Repeal the subsection, substitute:
+
+             (3)  Only an authorised officer or a constable may take part in searching a person.
+
+## 41  At the end of section 142
+
+Add:
+
+Note:          See also subsection 96B(5).
+
+## 42  Paragraph 147(1)(d)
+
+Omit “must”.
+
+## 43  Paragraph 150(2)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  a person is served with a notice under Division 1 of Part 9:
+
+                              (i)  to give information; or
+
+                             (ii)  to produce a document or thing; and
+
+## 44  Subsection 150(2)
+
+Omit “request”, substitute “notice”.
+
+## 45  Paragraph 156(5)(a)
+
+Omit “authorises”, substitute “authorise”.
+
+## 46  Section 166 (heading)
+
+Repeal the heading, substitute:
+
+##### <a id="166"></a>166  Application of Division
+
+## 47  Section 166
+
+Omit “Part”, substitute “Division”.
+
+## 48  Subsection 167(5)
+
+After “proposes to take action”, insert “, or takes action,”.
+
+## 49  Subsection 167(5)
+
+Omit “subsection 142(3) or (4)”, substitute “subsection 144(3) or (4)”.
+
+## 50  Paragraph 167(6)(b)
+
+Omit “Integrity Commissioner’s”, substitute “special investigator’s”.
+
+## 51  Subsection 187(2)
+
+Omit “Integrity Commissioner”, substitute “Assistant Integrity Commissioner”.
+
+As at 4 April 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -8489,6 +8417,14 @@ _Crimes Legislation Amendment Act (No. 2) 2011 (No. 174, 2011)_
 _Crimes Legislation Amendment (Powers and Offences) Act 2012 
  (No. 24, 2012)_
 
+## Schedule 9
+
+## 2  Application
+
+The amendment made by item 1 of this Schedule applies in relation to a person appointed or re‑appointed as the Law Enforcement Integrity Commissioner before, on or after the commencement of this item.
+
+The following provisions commence on 5 April 2012:
+
 ## Schedule 4
 
 ## 54  Application—items 7 to 19
@@ -8514,11 +8450,5 @@ The amendment made by item 37 of this Schedule applies in relation to a warran
 ## 59  Application—section 117 of the _Law Enforcement Integrity Commissioner Act 2006_
 
 Section 117 of the _Law Enforcement Integrity Commissioner Act 2006_, as amended by this Schedule, applies in relation to a warrant that is executed on or after this Schedule commences.
-
-## Schedule 9
-
-## 2  Application
-
-The amendment made by item 1 of this Schedule applies in relation to a person appointed or re‑appointed as the Law Enforcement Integrity Commissioner before, on or after the commencement of this item.
 
  
