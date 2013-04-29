@@ -1,73 +1,72 @@
 
+
 Motor Vehicle Standards Act 1989
 Act No. 65 of 1989 as amended
-Consolidated as in force on 15 December 1999
-(incudes amendments up to Act No. 146 of 1999)
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
-  
-  
-  
+Consolidated as in force on 20 April 1999
+(incudes amendments up to Act No. 8 of 1999)
+Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
-Part 1—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-3	Object of Act	1
-4	Operation of Act	1
-5	Interpretation	2
-5A	Meaning of vehicle	5
-5B	Determinations with respect to road vehicles	5
-6	Act to bind Crown	5
-Part 2—National standards	6
-7	Minister may determine vehicle standards	6
-7A	Incorporation of documents setting out standards	6
-8	Consultations before determinations	6
-9	Procedures for testing vehicles	7
-Part 3—Certification and approval	8
-10	Type identification plates	8
-10A	Approval for the placement of identification plates	8
-10B	Notification that approval has been given	9
-11	Withdrawal of identification plate authority	10
-12	Offences in relation to identification plates	11
-13	Vehicles taken to have identification plates	12
-13A	Vehicles not to be made nonstandard	12
-Part 4—Supply and importation of vehicles	13
-14	Nonstandard vehicles not to be supplied to market	13
-14A	Supply of nonstandard vehicles	13
-14B	No requirement to comply with certain standards	13
-15	Nonstandard vehicles not to be used by manufacturers	13
-17	Importation of road vehicles subject to conditions	14
-17A	Authority to take delivery of imported vehicles	14
-18	Prohibition of importation of nonstandard vehicles etc.	15
-19	Importation of vehicles requiring modification	15
-20	Approval to import certain nonstandard vehicles	15
-Part 5—Administration	17
-22	Administrator	17
-23	Delegation by Minister	17
-24	Fees	18
-25	Appointment of inspectors	18
-26	Identity cards	19
-27	Powers of inspectors	19
-28	Monitoring warrants	20
-29	Power to require information	20
-30	Offence‑related searches and seizures	21
-31	Obstruction of inspectors	23
-32	Failure to answer questions etc.	23
-33	Agents	23
-Part 6—Court proceedings	24
-34	Evidence	24
-35	Injunctions	24
-36	Conduct by directors, servants and agents	26
-37	Legal proceedings not to lie	27
-Part 7—Miscellaneous	28
-38	Law to apply in certain circumstances	28
-39	Application for review	28
-40	Statement to accompany notice of decisions	29
-41	Application of Trade Practices Act	29
-42	Regulations	29
-Notes		31
+Part 1—Preliminary	
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+3	Object of Act	
+4	Operation of Act	
+5	Interpretation	
+5A	Meaning of vehicle	
+5B	Determinations with respect to road vehicles	
+6	Act to bind Crown	
+Part 2—National standards	
+7	Minister may determine vehicle standards	
+7A	Incorporation of documents setting out standards	
+8	Consultations before determinations	
+9	Procedures for testing vehicles	
+Part 3—Certification and approval	
+10	Type identification plates	
+10A	Approval for the placement of identification plates	
+10B	Notification that approval has been given	
+11	Withdrawal of identification plate authority	
+12	Offences in relation to identification plates	
+13	Vehicles taken to have identification plates	
+13A	Vehicles not to be made nonstandard	
+Part 4—Supply and importation of vehicles	
+14	Nonstandard vehicles not to be supplied to market	
+14A	Supply of nonstandard vehicles	
+14B	No requirement to comply with certain standards	
+15	Nonstandard vehicles not to be used by manufacturers	
+17	Importation of road vehicles subject to conditions	
+17A	Authority to take delivery of imported vehicles	
+18	Prohibition of importation of nonstandard vehicles etc.	
+19	Importation of vehicles requiring modification	
+20	Approval to import certain nonstandard vehicles	
+Part 5—Administration	
+22	Administrator	
+23	Delegation by Minister	
+24	Fees	
+25	Appointment of inspectors	
+26	Identity cards	
+27	Powers of inspectors	
+28	Monitoring warrants	
+29	Power to require information	
+30	Offence-related searches and seizures	
+31	Obstruction of inspectors	
+32	Failure to answer questions etc.	
+33	Agents	
+Part 6—Court proceedings	
+34	Evidence	
+35	Injunctions	
+36	Conduct by directors, servants and agents	
+37	Legal proceedings not to lie	
+Part 7—Miscellaneous	
+38	Law to apply in certain circumstances	
+39	Application for review	
+40	Statement to accompany notice of decisions	
+41	Application of Trade Practices Act	
+42	Regulations	
+
 An Act to provide for national motor vehicle standards, and for related purposes
+Do not delete : Chapter placeholder
 Part 1—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the Motor Vehicle Standards Act 1989.
 2  Commencement [see Note 1]
@@ -148,9 +147,8 @@ vehicle standard means a standard for road vehicles or vehicle components that i
 	(4)	Declarations under subsection (2) are notifiable by publication in the Gazette.
 6  Act to bind Crown
 		This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
-
 Part 2—National standards
-  
+Do not delete : Division placeholder
 7  Minister may determine vehicle standards
 	(1)	The Minister may determine, in writing, vehicle standards for road vehicles or vehicle components.
 	(2)	Determinations under subsection (1) are disallowable instruments for the purposes of section 46A of the Acts Interpretation Act 1901.
@@ -172,9 +170,8 @@ Part 2—National standards
 	(c)	the operation of facilities used in the carrying out of any testing and inspection referred to in paragraph (a) or (ba) and the assessment of those facilities by inspectors appointed under section 25; or
 	(d)	the keeping of records relating to the manufacture or testing of road vehicles or vehicle components and the examination of those records by inspectors appointed under section 25.
 	(2)	Determinations under subsection (1) are disallowable instruments for the purposes of section 46A of the Acts Interpretation Act 1901.
-
 Part 3—Certification and approval
-  
+Do not delete : Division placeholder
 10  Type identification plates
 	(1)	The Minister may determine, in writing, from time to time, procedures and arrangements for the placement of plates on road vehicles or vehicle components if approval has been given under subsection 10A(1), (2) or (3) for plates to be placed on the vehicles or vehicle components.
 	(2)	Without limiting the generality of subsection (1), the Minister may determine, in writing, procedures and arrangements in relation to identification plates, including procedures and arrangements with respect to:
@@ -247,9 +244,8 @@ Penalty:	120 penalty units.
 	(a)	in prescribed circumstances; or
 	(b)	with the written approval of the Minister.
 	(4)	An approval given under subsection (3) may be subject to written conditions determined by the Minister.
-
 Part 4—Supply and importation of vehicles
-  
+Do not delete : Division placeholder
 14  Nonstandard vehicles not to be supplied to market
 	(1)	Subject to section 14A, a person must not knowingly or recklessly supply to the market a new vehicle that:
 	(a)	is nonstandard; or
@@ -313,14 +309,13 @@ Penalty:	60 penalty units.
 	(b)	with such approval subject to written conditions determined by the Minister.
 	(4)	A person must not knowingly or recklessly contravene a condition referred to in paragraph (3)(b).
 Penalty:	60 penalty units.
-
 Part 5—Administration
-  
+Do not delete : Division placeholder
 22  Administrator
 	(1)	There are to be an Administrator of Vehicle Standards and such Associate Administrators of Vehicle Standards as are required.
 	(2)	The Administrator:
 	(a)	is to be appointed by the Secretary to the Department; and
-	(b)	is to be an SES employee, or acting SES employee, in the Department.
+	(b)	is to be a person holding, or performing the duties of, a Senior Executive Service office within the meaning of the Public Service Act 1922, being an office in the Department.
 	(3)	An Associate Administrator:
 	(a)	is to be appointed by the Secretary to the Department; and
 	(b)	is to be a person holding an office in the Department.
@@ -343,14 +338,14 @@ Part 5—Administration
 	(3)	Where a fee that is required to be paid at the time of making an application or request is not so paid, the application or request is not to be taken to have been duly made.
 	(4)	A prescribed fee is not to be such as to amount to taxation.
 25  Appointment of inspectors
-	(1)	The Minister may, in writing, engaged under the Public Service Act 1999 appoint a person  to be an inspector.
-	(2)	Arrangements may be made under section 71 of the Public Service Act 1999 for officers of the Public Service of a State or Territory or of an authority of a State or Territory to perform the functions or exercise the powers of inspectors.
+	(1)	The Minister may, in writing, appoint a person appointed or employed under the Public Service Act 1922 to be an inspector.
+	(2)	Arrangements may be made under section 78 of the Public Service Act 1922 for officers of the Public Service of a State or Territory or of an authority of a State or Territory to perform the functions or exercise the powers of inspectors.
 	(3)	The Minister may, by notice published in the Gazette, give directions specifying the manner in which, and any conditions and qualifications subject to which, functions or powers given to inspectors are to be performed or exercised.
 	(4)	An inspector must comply with directions given under subsection (3).
 26  Identity cards
 	(1)	The Minister may cause to be issued to an inspector an identity card in a form approved by the Minister and bearing a photograph of the inspector.
 	(2)	A person who ceases to be an inspector must, as soon as practicable, return his or her identity card to the Minister.
-Penalty:	1 penalty unit.
+Penalty: 1 penalty unit.
 27  Powers of inspectors
 	(1)	Subject to subsection (4), an inspector may, for the purpose of finding out whether the requirements of this Act, the regulations, procedures determined under section 9, or determinations under section 7 or 10, are being, or have been, met, enter any premises at any time during ordinary working hours or at any other time at which it is necessary to do so for that purpose, and exercise the powers of an inspector under this section.
 	(2)	The powers of an inspector under this section in relation to premises are:
@@ -376,7 +371,7 @@ manufacture includes importation.
 29  Power to require information
 	(1)	Subject to subsection (2), an inspector who has entered premises under section 27 may, to the extent that it is reasonably necessary for the purpose of finding out whether this Act, the regulations, or determinations under section 7 or 10 have, been complied with, require a person to answer any question put by the inspector and to produce any books, records or documents requested by the inspector.
 	(2)	An inspector is not entitled to make a requirement of a person under subsection (1) unless the inspector produces his or her identity card for inspection by the person.
-30  Offence‑related searches and seizures
+30  Offence-related searches and seizures
 	(1)	Where an inspector has reasonable grounds for suspecting that there is, or may be within the next 72 hours, on any premises a particular thing that may afford evidence as to the commission of an offence against this Act, the inspector may:
 	(a)	with the consent of the occupier of the land or premises; or
 	(b)	under a warrant issued under subsection (2);
@@ -406,9 +401,8 @@ Penalty:	30 penalty units.
 Penalty:	30 penalty units.
 33  Agents
 		The Minister may appoint such agents as he or she thinks necessary to perform functions, whether inside or outside Australia, for the purposes of this Act.
-
 Part 6—Court proceedings
-  
+Do not delete : Division placeholder
 34  Evidence
 	(1)	The Minister or a person authorised in writing by the Minister to give certificates under this section may, for the purposes of proceedings for an offence against section 14, 15, 16 or 19, give a certificate stating that conditions specified in the certificate were the conditions to which the Minister’s written approval under section 14, 15, 16 or 19, as the case may be, was subject.
 	(2)	A certificate given under subsection (1) is prima facie evidence of the matter stated in the certificate.
@@ -418,15 +412,15 @@ Part 6—Court proceedings
 	(2)	Where:
 	(a)	a person has refused or failed, or is refusing or failing, or is proposing to refuse or fail, to do an act or thing; and
 	(b)	the refusal or failure was, is, or would be a contravention of this Act or the regulations;
-the Federal Court may, on the application of the Minister or any other person, grant an injunction requiring the first‑mentioned person to do that act or thing.
+the Federal Court may, on the application of the Minister or any other person, grant an injunction requiring the first-mentioned person to do that act or thing.
 	(3)	Where an application is made to the court for an injunction under this section, the court may, if in the court’s opinion it is desirable to do so, before considering the application, grant an interim injunction restraining a person from engaging in conduct of the kind referred to in that subsection pending the determination of the application.
 	(4)	The court may discharge or vary an injunction granted under this section.
 	(5)	The power of the court to grant an injunction restraining a person from engaging in conduct of a particular kind may be exercised:
 	(a)	if the court is satisfied that the person has engaged in conduct of that kind—whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind; or
-	(b)	if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind—whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first‑mentioned person engages in conduct of that kind.
+	(b)	if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind—whether or not the person has previously engaged in conduct of that kind and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person engages in conduct of that kind.
 	(6)	The power of the court to grant an injunction requiring a person to do a particular act or thing may be exercised:
 	(a)	if the court is satisfied that the person has refused or failed to do that act or thing—whether or not it appears to the court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing; or
-	(b)	if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing—whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first‑mentioned person refuses or fails to do that act or thing.
+	(b)	if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing—whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person refuses or fails to do that act or thing.
 	(7)	Where the Minister makes an application to the court for the grant of an injunction under this section, the court is not to require the Minister or any other person, as a condition of the granting of an interim injunction, to give any undertakings as to damages.
 	(8)	The powers conferred on the court under this section are in addition to, and not in derogation of, any powers of the court, whether conferred by this Act or otherwise.
 36  Conduct by directors, servants and agents
@@ -437,7 +431,7 @@ the Federal Court may, on the application of the Minister or any other person, g
 	(3)	Where, in proceedings for an offence against this Act, it is necessary to establish the state of mind of a person other than a body corporate in relation to particular conduct, it is sufficient to show:
 	(a)	that the conduct was engaged in by a servant or agent of the person within the scope of his or her actual or apparent authority; and
 	(b)	that the servant or agent had the state of mind.
-	(4)	Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+	(4)	Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 	(5)	A reference in subsection (1) or (3) to the state of mind of a person includes a reference to:
 	(a)	the knowledge, intention, opinion, belief or purpose of the person; and
 	(b)	the person’s reasons for the intention, opinion, belief or purpose.
@@ -451,9 +445,8 @@ the Federal Court may, on the application of the Minister or any other person, g
 	(a)	an identification plate; or
 	(b)	any test carried out under this Act or the regulations or a determination under this Act; or
 	(c)	any express statement, or any statement or action implying, that a road vehicle or a vehicle component complied with a national standard.
-
 Part 7—Miscellaneous
-  
+Do not delete : Division placeholder
 38  Law to apply in certain circumstances
 	(1)	Where a law of a State purports to require new vehicles to comply with vehicle standards other than the national standards, the regulations may provide that that law is not to apply to:
 	(a)	road vehicles to be used exclusively in trade, commerce and intercourse among the States or between a State and a Territory; or
@@ -480,35 +473,37 @@ decision has the same meaning as in the Administrative Appeals Tribunal Act 1975
 41  Application of Trade Practices Act
 		For the purpose of sections 65C (other than subsection 65C(8)) and 65F of the Trade Practices Act 1974, a national standard (including a standard designed for a purpose referred to in paragraph (b) or (c) of the definition of vehicle standard in section 5 of this Act) is to be taken to be a prescribed consumer product safety standard.
 42  Regulations
-		The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+		The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act;
 and, in particular:
 	(c)	prescribing fines, not exceeding 10 penalty units, for offences against the regulations; and
 	(d)	providing that approvals given before the commencement of section 10 to place compliance plates on vehicles may be taken to have been given in accordance with the arrangements under section 10. 
-Notes to the Motor Vehicle Standards Act 1989
-Note 1
-The Motor Vehicle Standards Act 1989 as shown in this consolidation comprises Act No. 65, 1989 amended as indicated in the Tables below.
+NOTE
+1. 	The Motor Vehicle Standards Act 1989 as shown in this consolidation comprises Act No. 65, 1989 amended as indicated in the Tables below.
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
 Date of commencement
 Application, saving or transitional provisions
+
+
 Motor Vehicle Standards Act 1989
 65, 1989
 19 June 1989
-Ss. 3‑42: 1 Aug 1989 (see Gazette 1989, No. S259) Remainder: Royal Assent
+Ss. 3-42: 1 Aug 1989 (see Gazette 1989, No. S259) Remainder: Royal Assent
 
 Transport and Communications Legislation Amendment Act (No. 2) 1989
 23, 1990
 17 Jan 1990
-Part 10 (ss. 27‑37): Royal Assent (a)
+Part 10 (ss. 27-37): Royal Assent (a)
 —
 Transport and Communications Legislation Amendment Act 1990
 11, 1991
 21 Jan 1991
-Part 7 (ss. 25‑30): Royal Assent (b)
+Part 7 (ss. 25-30): Royal Assent (b)
 —
 as amended by
 
@@ -533,7 +528,7 @@ S. 2(2)
 Transport Legislation Amendment Act 1995
 95, 1995
 27 July 1995
-S. 3 (Part G [items 2, 3, 6‑13 and 16‑41]): Royal Assent (e) S. 3 (Part G [items 1, 4, 5, 14 and 15]): 27 Jan 1996 (e)
+S. 3 (Part G [items 2, 3, 6-13 and 16-41]): Royal Assent (e) S. 3 (Part G [items 1, 4, 5, 14 and 15]): 27 Jan 1996 (e)
 S. 8
 as amended by
 
@@ -555,38 +550,32 @@ Motor Vehicle Standards Amendment Act 1999
 31 Mar 1999
 31 Mar 1999
 —
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (items 617‑619): 5 Dec 1999 (see Gazette 1999, No. S584) (h)
-—
 
-(a)	The Motor Vehicle Standards Act 1989 was amended by Part 10 (sections 27‑37) only of the Transport and Communications Legislation Amendment Act (No. 2) 1989, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-(b)	The Motor Vehicle Standards Act 1989 was amended by Part 7 (sections 25‑30) only of the Transport and Communications Legislation Amendment Act 1990, subsection 2(1) of which provides as follows: 
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+(a)	The Motor Vehicle Standards Act 1989 was amended by Part 10 (sections 27-37) only of the  Transport and Communications Legislation Amendment Act (No. 2) 1989, subsection 2(1) of which provides as follows:
+“(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.” 
+(b)	The Motor Vehicle Standards Act 1989 was amended by Part 7 (sections 25-30) only of the  Transport and Communications Legislation Amendment Act 1990, subsection 2(1) of which provides as follows: 
+“(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.” 
 (c)	The Transport and Communications Legislation Amendment Act 1990 was amended by Part 11 (sections 54 and 55) only of the Transport and Communications Legislation Amendment Act (No. 2) 1992, subsection 2(9) of which provides as follows:
-	(9)	Part 11 is taken to have commenced immediately after the commencement of section 26 of the Transport and Communications Legislation Amendment Act 1990.
-	Section 26 of the Transport and Communications Legislation Amendment Act 1990 commenced on 21 January 1991.
+“(9)	Part 11 is taken to have commenced immediately after the commencement of section 26 of the Transport and Communications Legislation Amendment Act 1990.” 
+	Section 26 of the Transport and Communications Legislation Amendment Act 1990 commenced on  21 January 1991.
 (d)	The Motor Vehicle Standards Act 1989 was amended by section 24 only of the Territories Law Reform Act 1992, subsection 2(3) of which provides as follows:
-	(3)	The remaining provisions of this Act commence on 1 July 1992
+“(3)	The remaining provisions of this Act commence on 1 July 1992”.
 (e)	The Motor Vehicle Standards Act 1989 was amended by the Transport Legislation Amendment Act 1995, subsections 2(1), (5) and (9) of which provide as follows:
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-	(5)	Subject to subsection (9), items 1, 4, 5, 14 and 15 of Part G of Schedule 1 commence on a day or days to be fixed by Proclamation.
-	(9)	If items 1, 4, 5, 14 and 15 of Part G of Schedule 1, or any of them, do not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.
+“(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+“(5)	Subject to subsection (9), items 1, 4, 5, 14 and 15 of Part G of Schedule 1 commence on a day or days to be fixed by Proclamation.
+“(9)	If items 1, 4, 5, 14 and 15 of Part G of Schedule 1, or any of them, do not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period.”
 (f)	The Transport Legislation Amendment Act 1995 was amended by Schedule 3 (item 125) only of the Statute Law Revision Act 1996, subsection 2(3) of which provides as follows:
-	(3)	Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+“(3)	Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.”
 (g)	The Motor Vehicle Standards Act 1989 was amended by Schedule 2 (item 74) only of the Statute Law Revision Act 1996, subsection 2(2) of which provides as follows:
-	(2)	Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
+“(2)	Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.”
 	Item 74 is taken to have commenced immediately after the commencement of item 21 of Part G of Schedule 1 to the Transport Legislation Amendment Act 1995.
-	Item 21 of Part G of Schedule 1 to the Transport Legislation Amendment Act 1995 commenced on 27 July 1995.
-(h)	The Motor Vehicle Standards Act 1989 was amended by Schedule 1 (items 617‑619) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
+	Item 21 of Part G of Schedule 1 to the Transport Legislation Amendment Act 1995  commenced on 27 July 1995.
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
+
 S. 5	
 am. No. 23, 1990; No. 11, 1991 (as am. by No. 71, 1992); No. 104, 1992; No. 95, 1995; No. 8, 1999
 Ss. 5A, 5B	
@@ -650,13 +639,13 @@ am. No. 4, 1994; No. 95, 1995
 S. 21	
 rep. No. 95, 1995
 S. 22	
-am. Nos. 8 and 146, 1999
+am. No. 8, 1999
 S. 23	
 am. No. 23, 1990; No. 95, 1995; No. 8, 1999
 S. 24	
 am. No. 95, 1995; No. 43, 1996
 S. 25	
-am. No. 23, 1990; No. 146, 1999
+am. No. 23, 1990
 S. 26	
 am. No. 4, 1994
 S. 27	
