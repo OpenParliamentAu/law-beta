@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00107/Html/b07a1f07-15a1-4b47-8e76-b03d3c8fb15a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00740/Html/e440a14b-003c-4e75-8ae6-df2746985535_files/image001.gif)
 
 # Designs Act 2003
 
 **Act No. 147 of 2003 as amended**
 
-This compilation was prepared on 13 January 2012
+This compilation was prepared on 13 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -894,7 +894,7 @@ Note:          Section 114 deals with amendments to the Regi
 
                             (iii)  the first time documents disclosing the design are made available for public inspection under section 60 is on or after the priority date of the designated design.
 
-Note:          For **_document_**, see section 2B of the _Acts Interpretation Act 1901_.
+Note:          For **_document_**, see section 25 of the _Acts Interpretation Act 1901_.
 
 ##### <a id="16"></a>16  Designs that are identical or substantially similar in overall impression
 
@@ -904,7 +904,7 @@ Note:          For **_document_**, see section 2B of the _Ac
 
              (3)  Subject to paragraph 15(2)(c), the newness or distinctiveness of a design is not affected by the mere publication or public use of the design in Australia on or after the priority date of the design, or by the registration of another design with the same or a later priority date.
 
-##### <a id="17"></a>17  Certain things to be disregarded in deciding whether a design is new and distinctive
+##### <a id="17"></a>17  Certain things to be disregarded in deciding whether a design is new and distinctive
 
              (1)  For the purpose of deciding whether a design is new and distinctive, the person making the decision must disregard:
 
@@ -1550,7 +1550,7 @@ the Registrar may make a written declaration specifying that a person whom the R
 
                             and as a result of the amendment or response, the Registrar is satisfied as mentioned in subsection (2).
 
-##### <a id="58"></a>58  What happens after Registrar gives notice under section 57
+##### <a id="58"></a>58  What happens after Registrar gives notice under section 57
 
              (1)  This section applies if the Registrar has given a written notice to an applicant under subsection 57(3).
 
@@ -2188,7 +2188,7 @@ and may direct that the licence is to be granted on any other terms specified in
 
 ##### <a id="94"></a>94  Simplified outline
 
-                   The following is a simplified outline of this Chapter:
+                   The following is a simplified outline of this Chapter:
 
 * * *
 
@@ -3250,7 +3250,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 12 (items 1, 2): 27 Mar 2007 
-Schedule 15 (item 1): 28 Sept 2006</div>
+Schedule 15 (item 1): 28 Sept 2006</div>
   </td>
   <td>
     <div>—</div>
@@ -3301,10 +3301,10 @@ Schedule 15 (item 1): 28 Sept 2006</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 532) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 532) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 4 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -3418,38 +3418,6 @@ _(a)_ Subsection 2(1) (item 8) of the _Personal Property Securities (Corporati
       <div>How affected</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div><b>Chapter 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 4</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Note to s. 15(2)</div>
-    </td>
-    <td>
-      <div>am. No. 46, 2011</div>
-    </td>
-  </tr>
 </thead>
 <tr>
   <td>
@@ -3521,7 +3489,7 @@ _(a)_ Subsection 2(1) (item 8) of the _Personal Property Securities (Corporati
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 2
 
@@ -3585,13 +3553,13 @@ Add:
 
 Note:          Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
 
-As at 13 January 2012 the amendments are not incorporated in this compilation.
+As at 13 September 2011 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
 _Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
 
-The following amendment commences immediately after 30 January 2012:
+The following amendment commences immediately after the commencement of item 1 of Schedule 2 to the _Personal Property Securities (Consequential Amendments) Act 2009_:
 
 ## Schedule 3
 
@@ -3613,7 +3581,21 @@ Note 2:       For the meaning of **_transitional security interest_*
 
 _Note:       This amendment replaces the definition inserted by item 1 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
 
-As at 13 January 2012 the amendment is not incorporated in this compilation.
+As at 13 September 2011 the amendment is not incorporated in this compilation.
+
+### Note 4
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 532  Subsection 15(2) (note)
+
+Omit “section 25”, substitute “section 2B”.
+
+As at 13 September 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -3622,7 +3604,7 @@ As at 13 January 2012 the amendment is not incorporated in this compilation.
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
 
-The following provision commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+The following provision commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
 
 ## Schedule 2
 
@@ -3639,6 +3621,8 @@ _Note:       Items 2 to 6 commence at the registration commencemen
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
