@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00591/Html/CarOfGooBySeaAct1991_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00555/Html/CarOfGooBySeaAct1991_image001.gif)
 
 # Carriage of Goods by Sea Act 1991
 
 **Act No. 160 of 1991 as amended**
 
-This compilation was prepared on 16 August 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 4 December 2009
+ taking into account amendments up to Act No. 135 of 2008
 
 \[Note: Section 2A, Part 3 (sections 12 to 16) and Schedule 2 are taken to have been repealed on 31 October 2001, _see_ section 2]
 
@@ -1441,23 +1441,6 @@ S. 2(4)–(6) (rep. by 123, 1997, Sch. 1 \[item 1])</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 160): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1595,22 +1578,5 @@ S. 2(4)–(6) (rep. by 123, 1997, Sch. 1 \[item 1])</div>
     <div>am. Statutory Rules 1998 No. 324</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
-
-The following amendment commences on the start of 1 January 2011:
-
-## Schedule 6
-
-## 160  Section 18
-
-Omit “Division 2 of Part V of the _Trade Practices Act 1974_”, substitute “Division 1 of Part 3-2 of Schedule 2 to the _Competition and Consumer Act 2010_, as that Division applies as a law of the Commonwealth,”.
-
-_Note:       The heading to section 18 is altered by omitting “Trade Practices Act 1974” and substituting “Competition and Consumer Act 2010”._
-
-As at 16 August 2010 the amendment is not incorporated in this compilation.
 
  
