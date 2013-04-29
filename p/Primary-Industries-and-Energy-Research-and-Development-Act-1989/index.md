@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00834/Html/19f942c9-def1-4dde-87fa-9cf3d9e67417_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00289/Html/PrimIndEnResDvptA1989_WD02_image001.gif)
 
 # Primary Industries and Energy Research and Development Act 1989
 
 **Act No. 17 of 1990 as amended**
 
-This compilation was prepared on 18 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 10 July 2008
+ taking into account amendments up to Act No. 66 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -102,8 +102,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [34](#34).          Commonwealth to be paid levy expenses from R&amp;D Corporations
 
-[35](#35).          Commonwealth to be reimbursed for refunds of levy 
- [_see_ Note 2]
+[35](#35).          Commonwealth to be reimbursed for refunds of levy [_see_ Note 2]
 
 [36](#36).          Transfers of money where levies redirected
 
@@ -173,7 +172,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [66](#66).          Term of office
 
-[67](#67).          Directors hold office on part‑time basis
+[67](#67).          Directors hold office on part-time basis
 
 [68](#68).          Remuneration and allowances of directors
 
@@ -199,7 +198,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [78](#78).          Term of appointment etc 
 
-[79](#79).          Executive Director holds office on full‑time or part‑time basis
+[79](#79).          Executive Director holds office on full-time or part-time basis
 
 [80](#80).          Executive Director not to engage in other paid employment
 
@@ -353,7 +352,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 5—Miscellaneous**
 
-[142](#142).        Co‑ordination meetings
+[142](#142).        Co-ordination meetings
 
 [143](#143).        Minister may give directions
 
@@ -401,7 +400,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Primary Industries and Energy Research and Development Act 1989_.
 
@@ -435,7 +434,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  an annual operational plan of an R&amp;D Council in force under Division 3 of Part 3.
 
-                    <a name="borrow"></a>**_borrowing_** includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day‑to‑day operations of an R&amp;D Corporation.
+                    <a name="borrow"></a>**_borrowing_** includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day-to-day operations of an R&amp;D Corporation.
 
                     <a name="chairperson"></a>**_Chairperson_** means:
 
@@ -637,7 +636,7 @@ in respect of the levy.
 
 then, for the purposes of this Act, the levy or class:
 
-                     (c)  is redirected at that time to the first‑mentioned R&amp;D Corporation from the other R&amp;D Corporation or from the R&amp;D Fund, as the case may be; and
+                     (c)  is redirected at that time to the first-mentioned R&amp;D Corporation from the other R&amp;D Corporation or from the R&amp;D Fund, as the case may be; and
 
                      (d)  ceases at that time to be attached to the other R&amp;D Corporation or to the R&amp;D Fund, as the case may be.
 
@@ -649,7 +648,7 @@ then, for the purposes of this Act, the levy or class:
 
 then, for the purposes of this Act, the levy or class:
 
-                     (c)  is redirected at that time to the first‑mentioned R&amp;D Fund from the other R&amp;D Fund or from the R&amp;D Corporation, as the case may be; and
+                     (c)  is redirected at that time to the first-mentioned R&amp;D Fund from the other R&amp;D Fund or from the R&amp;D Corporation, as the case may be; and
 
                      (d)  ceases at that time to be attached to the other R&amp;D Fund or to the R&amp;D Corporation, as the case may be.
 
@@ -713,7 +712,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (b)  to prepare an annual operational plan under section 25 for each financial year; and
 
-                     (c)  to co‑ordinate or fund the carrying out of R&amp;D activities that are consistent with the annual operational plan prepared by the Corporation and in force at the time; and
+                     (c)  to co-ordinate or fund the carrying out of R&amp;D activities that are consistent with the annual operational plan prepared by the Corporation and in force at the time; and
 
                      (d)  to:
 
@@ -723,15 +722,15 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                             (iii)  report to the Parliament, the Minister and its representative organisations on;
 
-                            R&amp;D activities that are co‑ordinated or funded, wholly or partly, by the Corporation; and
+                            R&amp;D activities that are co-ordinated or funded, wholly or partly, by the Corporation; and
 
-                   (da)  to:
+                    (da)  to:
 
                               (i)  assess; and
 
                              (ii)  report to the Parliament, the Minister and its representative organisations on;
 
-                            the impact, on the primary industry or class of primary industries in respect of which the Corporation was established, of R&amp;D activities that are co‑ordinated or funded, wholly or partly, by the Corporation; and
+                            the impact, on the primary industry or class of primary industries in respect of which the Corporation was established, of R&amp;D activities that are co-ordinated or funded, wholly or partly, by the Corporation; and
 
                      (e)  to facilitate the dissemination, adoption and commercialisation of the results of research and development in relation to the primary industry or class of primary industries in respect of which the Corporation was established; and
 
@@ -1075,7 +1074,7 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                      (a)  particulars of:
 
-                              (i)  the R&amp;D activities that it co‑ordinated or funded, wholly or partly, during the period; and
+                              (i)  the R&amp;D activities that it co-ordinated or funded, wholly or partly, during the period; and
 
                              (ii)  the amount that it spent during the period in relation to each of those activities; and
 
@@ -1093,7 +1092,7 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                            (vii)  any activities relating to the formation of a company; and
 
-                          (viii)  significant acquisitions and dispositions of real property by it during the period; and
+                           (viii)  significant acquisitions and dispositions of real property by it during the period; and
 
                      (b)  an assessment of the extent to which its operations during the period have:
 
@@ -1147,11 +1146,11 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                              (ii)  amounts (if any) paid, on behalf of a person liable to pay that levy, by another person, in respect of the research component of that levy; and
 
-                            (iii)  amounts of penalty for non‑payment of that levy, to the extent that the penalty is attributable to the non‑payment of the research component of that levy; and
+                            (iii)  amounts of penalty for non-payment of that levy, to the extent that the penalty is attributable to the non-payment of the research component of that levy; and
 
-                     (b)  subject to subsection (2) and sections 31 and 32, amounts equal to one‑half of the amounts required to be spent by the Corporation under section 33 (other than paragraph 33 (1)(d)).
+                     (b)  subject to subsection (2) and sections 31 and 32, amounts equal to one-half of the amounts required to be spent by the Corporation under section 33 (other than paragraph 33 (1)(d)).
 
-Note:          See also subsection 7(3) of the _Plant Health Australia (Plant Industries) Funding Act 2002_, which provides that this Act applies to certain amounts of levy or charge (and related late payment penalty) to which that Act applies.
+Note:          See also subsection 7(3) of the _Plant Health__Australia__(Plant Industries) Funding Act 2002_, which provides that this Act applies to certain amounts of levy or charge (and related late payment penalty) to which that Act applies.
 
              (2)  No amounts are payable under paragraph (1)(b) to an R&amp;D Corporation established in respect of the coal industry.
 
@@ -1171,7 +1170,7 @@ Note:          See also subsection 7(3) of the _Plant Health A
 
                              (ii)  amounts (if any) paid, on behalf of a person liable to pay that levy, by another person, in respect of the research component of that levy; and
 
-                            (iii)  amounts of penalty for non‑payment of that levy, to the extent that the penalty is attributable to the non‑payment of the research component of that levy; and
+                            (iii)  amounts of penalty for non-payment of that levy, to the extent that the penalty is attributable to the non-payment of the research component of that levy; and
 
                      (b)  amounts worked out under subsection (2).
 
@@ -1195,7 +1194,7 @@ Note:          See also subsection 7(3) of the _Plant Health A
 
                             reduced by the amount (if any) by which the amount worked out under subparagraph (i) or (ii) (as the case may be) exceeds the amount of the payment made by the State or Territory to the Corporation or to the Commonwealth in respect of research and development in respect of the fishing industry.
 
-          (2A)  The amounts to be paid to the Corporation under paragraph (1)(b) during the 1997‑98 financial year are the amounts worked out under subsection (2) reduced by $3,612,000.
+          (2A)  The amounts to be paid to the Corporation under paragraph (1)(b) during the 1997-98 financial year are the amounts worked out under subsection (2) reduced by $3,612,000.
 
              (3)  Amounts payable under subsection (1) are to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
@@ -1223,7 +1222,7 @@ the sum of the amounts paid to the Corporation under paragraph 30(1)(b) is not t
 
                      (d)  amounts in relation to which subsection (2) applies.
 
-             (2)  Where an R&amp;D Corporation is established in respect of the dairy industry, and that Corporation accepts an amount paid to it by way of gift or grant from a co‑operative company (as defined by sections 117 and 118 of the _Income Tax Assessment Act 1936_) in the dairy industry, for the purposes of research and development, the Corporation may, subject to the regulations, determine that this subsection applies in relation to the amount.
+             (2)  Where an R&amp;D Corporation is established in respect of the dairy industry, and that Corporation accepts an amount paid to it by way of gift or grant from a co-operative company (as defined by sections 117 and 118 of the _Income Tax Assessment Act 1936_) in the dairy industry, for the purposes of research and development, the Corporation may, subject to the regulations, determine that this subsection applies in relation to the amount.
 
              (3)  This section does not apply in relation to the RIR&amp;D Corporation.
 
@@ -1249,7 +1248,7 @@ the sum of the amounts paid to the Corporation under paragraph 30(1)(b) is not t
 
                      (d)  in payment to the Commonwealth of amounts payable under section 34; and
 
-                   (da)  in payment to the Commonwealth of amounts payable under subsection 18(3) of the _Primary Industries Levies and Charges Collection Act 1991_; and
+                    (da)  in payment to the Commonwealth of amounts payable under subsection 18(3) of the _Primary Industries Levies and Charges Collection Act 1991_; and
 
                      (e)  in payment of amounts in respect of expenses (including the payment of remuneration and allowances) incurred by a Selection Committee in performing its function, and exercising its powers, in relation to the selection of directors for appointment to the Corporation; and
 
@@ -1277,7 +1276,7 @@ the sum of the amounts paid to the Corporation under paragraph 30(1)(b) is not t
 
                      (b)  immediately before becoming so attached, the levy was attached to another R&amp;D Corporation (in this subsection called the **_other Corporation_**);
 
-the other Corporation must pay to the first‑mentioned Corporation an amount equal to so much of the other Corporation’s money as is attributable to money paid to the other Corporation:
+the other Corporation must pay to the first-mentioned Corporation an amount equal to so much of the other Corporation’s money as is attributable to money paid to the other Corporation:
 
                      (c)  as a result of the levy being attached to the other Corporation; or
 
@@ -1289,7 +1288,7 @@ the other Corporation must pay to the first‑mentioned Corporation an amount eq
 
                      (b)  immediately before becoming so attached, the levy was attached to an R&amp;D Fund;
 
-the RIR&amp;D Corporation must pay to the first‑mentioned R&amp;D Corporation the amount equal to so much of the money standing to the credit of the Fund as is attributable to money paid into the Fund:
+the RIR&amp;D Corporation must pay to the first-mentioned R&amp;D Corporation the amount equal to so much of the money standing to the credit of the Fund as is attributable to money paid into the Fund:
 
                      (c)  as a result of the levy being attached to the Fund; or
 
@@ -1313,7 +1312,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (c)  while the levy was attached to the other Corporation, or to the R&amp;D Fund, the Commonwealth was obliged to pay money to the other Corporation under paragraph 30(1)(a) or 30A(1)(a) or into the Fund under paragraph 108(1)(a); and
 
-                     (d)  the Commonwealth had not so paid the money before the levy became attached to the first‑mentioned Corporation;
+                     (d)  the Commonwealth had not so paid the money before the levy became attached to the first-mentioned Corporation;
 
 then:
 
@@ -1337,11 +1336,11 @@ then:
 
                      (d)  as a result of the expenditure, the Commonwealth was obliged to pay money to the other Corporation under paragraph 30(1)(b) or 30A(1)(b) or into the Fund under paragraph 108(1)(b); and
 
-                     (e)  the Commonwealth had not so paid the money before the levy became attached to the first‑mentioned Corporation;
+                     (e)  the Commonwealth had not so paid the money before the levy became attached to the first-mentioned Corporation;
 
 then:
 
-                      (f)  the Commonwealth must pay the money to the first‑mentioned Corporation; and
+                      (f)  the Commonwealth must pay the money to the first-mentioned Corporation; and
 
                      (g)  notwithstanding paragraph 30(1)(b), 30A(1)(b) or 108(1)(b), as the case may be, the Commonwealth ceases, from the time the levy becomes so attached, to be obliged to pay the money to the other Corporation, or into the Fund, as the case may be.
 
@@ -1363,7 +1362,7 @@ then:
 
                             by the spending of money under section 33 in connection with research and development relating to the primary industry or class of primary industries to which the levy relates;
 
-the other Corporation must pay the amount to the first‑mentioned Corporation.
+the other Corporation must pay the amount to the first-mentioned Corporation.
 
              (2)  Where:
 
@@ -1381,7 +1380,7 @@ the other Corporation must pay the amount to the first‑mentioned Corporation.
 
                             by the spending of money under section 112 in connection with research and development relating to the primary industry or class of primary industries to which the levy relates;
 
-the RIR&amp;D Corporation must pay the amount to the first‑mentioned R&amp;D Corporation.
+the RIR&amp;D Corporation must pay the amount to the first-mentioned R&amp;D Corporation.
 
              (3)  Where 2 R&amp;D Corporations are unable to agree on:
 
@@ -1643,7 +1642,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                             (iii)  under section 17, appoint persons, in accordance with Part 4, in the place of the nominated directors whose appointments have been so terminated.
 
-             (3)  The fact that a person’s appointment as a director has been terminated under subparagraph (2)(b)(i) does not prevent the person being re‑appointed under subparagraph (2)(b)(iii).
+             (3)  The fact that a person’s appointment as a director has been terminated under subparagraph (2)(b)(i) does not prevent the person being re-appointed under subparagraph (2)(b)(iii).
 
              (4)  Where a motion of no confidence in the Chairperson is passed at the meeting, the Minister must:
 
@@ -1669,13 +1668,13 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (a)  is to be appointed with effect from the day specified in the instrument of appointment; and
 
-                     (b)  holds office, subject to this Act, for such term (not exceeding 3 years) as is specified in the instrument of appointment, but is eligible for re‑appointment in accordance with this Act.
+                     (b)  holds office, subject to this Act, for such term (not exceeding 3 years) as is specified in the instrument of appointment, but is eligible for re-appointment in accordance with this Act.
 
              (2)  If a director ceases to hold office before the end of the term of appointment, another person may, in accordance with this Act, be appointed in the director’s place until the end of the term.
 
-##### <a id="67"></a>67  Directors hold office on part‑time basis
+##### <a id="67"></a>67  Directors hold office on part-time basis
 
-                   Directors hold office on a part‑time basis.
+                   Directors hold office on a part-time basis.
 
 ##### <a id="68"></a>68  Remuneration and allowances of directors
 
@@ -1793,17 +1792,17 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (b)  holds office during the Corporation’s pleasure.
 
-##### <a id="79"></a>79  Executive Director holds office on full‑time or part‑time basis
+##### <a id="79"></a>79  Executive Director holds office on full-time or part-time basis
 
-                   The Executive Director holds office on a full‑time basis or on a part‑time basis, as specified in the instrument of appointment.
+                   The Executive Director holds office on a full-time basis or on a part-time basis, as specified in the instrument of appointment.
 
 ##### <a id="80"></a>80  Executive Director not to engage in other paid employment
 
                    The Executive Director must not:
 
-                     (a)  if the Executive Director holds office on a full‑time basis—engage in paid employment outside the duties of the office without the Corporation’s approval; or
+                     (a)  if the Executive Director holds office on a full-time basis—engage in paid employment outside the duties of the office without the Corporation’s approval; or
 
-                     (b)  if the Executive Director holds office on a part‑time basis—engage in paid employment that, in the Corporation’s opinion, conflicts or may conflict with the proper performance of the Executive Director’s duties.
+                     (b)  if the Executive Director holds office on a part-time basis—engage in paid employment that, in the Corporation’s opinion, conflicts or may conflict with the proper performance of the Executive Director’s duties.
 
 ##### <a id="81"></a>81  Terms and conditions of appointment
 
@@ -1877,9 +1876,9 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (3)  A person must not be employed by the Corporation on terms and conditions as to remuneration that:
 
-                     (a)  in the case of a person employed on a full‑time basis—are more favourable than the terms and conditions as to remuneration on which the Executive Director has been appointed; or
+                     (a)  in the case of a person employed on a full-time basis—are more favourable than the terms and conditions as to remuneration on which the Executive Director has been appointed; or
 
-                     (b)  in the case of a person employed on a part‑time basis—are more favourable, when considered on a pro rata basis, than the terms and conditions as to remuneration on which the Executive Director has been appointed.
+                     (b)  in the case of a person employed on a part-time basis—are more favourable, when considered on a pro rata basis, than the terms and conditions as to remuneration on which the Executive Director has been appointed.
 
 ##### <a id="88"></a>88  Consultants
 
@@ -1961,7 +1960,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                             R&amp;D activities that are funded, wholly or partly, by money from the Council’s R&amp;D Fund; and
 
-                   (da)  to:
+                    (da)  to:
 
                               (i)  assess; and
 
@@ -2165,7 +2164,7 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
              (5)  The Minister must cause a copy of an R&amp;D Council’s annual report to be laid before each House of the Parliament within 15 sitting days of that House after the Minister receives the annual report.
 
-##### <a id="106"></a>106  Accountability to representative organisations
+##### <a id="106"></a>106  Accountability to representative organisations
 
                    The Chairperson of an R&amp;D Council must, as soon as practicable after the Council’s annual report has been submitted to the Minister, provide copies of the report to each of the Council’s representative organisations, and make arrangements with each of those organisations to attend the organisation’s annual conference, or a meeting of the organisation’s executive, for the purpose of enabling:
 
@@ -2201,11 +2200,11 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
 
                              (ii)  amounts (if any) paid on behalf of a person liable to pay that levy, by another person, in respect of the research component of that levy; and
 
-                            (iii)  amounts of penalty for non‑payment of that levy, to the extent that the penalty is attributable to the non‑payment of the research component of that levy; and
+                            (iii)  amounts of penalty for non-payment of that levy, to the extent that the penalty is attributable to the non-payment of the research component of that levy; and
 
-                     (b)  subject to sections 109 and 110, amounts equal to one‑half of the amounts required to be paid out of the fund under section 112 (other than paragraph 112(1)(d)).
+                     (b)  subject to sections 109 and 110, amounts equal to one-half of the amounts required to be paid out of the fund under section 112 (other than paragraph 112(1)(d)).
 
-Note:          See also subsection 7(3) of the _Plant Health Australia (Plant Industries) Funding Act 2002_, which provides that this Act applies to certain amounts of levy or charge (and related late payment penalty) to which that Act applies.
+Note:          See also subsection 7(3) of the _Plant Health__Australia__(Plant Industries) Funding Act 2002_, which provides that this Act applies to certain amounts of levy or charge (and related late payment penalty) to which that Act applies.
 
              (2)  Amounts paid into an R&amp;D Fund under subsection (1), or under section 116 or 117, are payable out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
@@ -2261,7 +2260,7 @@ the sum of the amounts paid into the Fund under paragraph 108(1)(b) is not to ex
 
                       (f)  in making payments, in accordance with arrangements made between the Council and the RIR&amp;D Corporation, for services provided by the RIR&amp;D Corporation for the Council at the Council’s request.
 
-             (2)  The RIR&amp;D Corporation must pay out of an R&amp;D Fund amounts (if any) that the Corporation is obliged to pay to an R&amp;D Corporation under subsection 36(2) or to pay into another R&amp;D Fund under section 115 in relation to a levy that, having previously been attached to the first‑mentioned Fund, has now become attached to the R&amp;D Corporation or the other R&amp;D Fund.
+             (2)  The RIR&amp;D Corporation must pay out of an R&amp;D Fund amounts (if any) that the Corporation is obliged to pay to an R&amp;D Corporation under subsection 36(2) or to pay into another R&amp;D Fund under section 115 in relation to a levy that, having previously been attached to the first-mentioned Fund, has now become attached to the R&amp;D Corporation or the other R&amp;D Fund.
 
              (3)  The RIR&amp;D Corporation is liable to pay, from an R&amp;D Fund, amounts necessary to meet the expenses, and discharge the liabilities, incurred by a Selection Committee in connection with the performance of its function, and the exercise of its powers, in relation to the selection of members for appointment to the R&amp;D Council in respect of which the Fund was established.
 
@@ -2295,7 +2294,7 @@ the sum of the amounts paid into the Fund under paragraph 108(1)(b) is not to ex
 
                      (b)  immediately before becoming so attached, the levy was attached to another R&amp;D Fund (in this subsection called the **_other Fund_**);
 
-the RIR&amp;D Corporation must pay into the first‑mentioned Fund an amount equal to so much of the money standing to the credit of the other Fund as is attributable to money paid into the other Fund:
+the RIR&amp;D Corporation must pay into the first-mentioned Fund an amount equal to so much of the money standing to the credit of the other Fund as is attributable to money paid into the other Fund:
 
                      (c)  as a result of the levy being attached to the other Fund; or
 
@@ -2307,11 +2306,11 @@ the RIR&amp;D Corporation must pay into the first‑mentioned Fund an amount equ
 
                      (b)  immediately before becoming so attached, the levy was attached to an R&amp;D Corporation;
 
-the R&amp;D Corporation must pay to the RIR&amp;D Corporation, for the purposes of the Fund, an amount equal to so much of the first‑mentioned Corporation’s money as is attributable to money paid to the first‑mentioned Corporation:
+the R&amp;D Corporation must pay to the RIR&amp;D Corporation, for the purposes of the Fund, an amount equal to so much of the first-mentioned Corporation’s money as is attributable to money paid to the first-mentioned Corporation:
 
-                     (c)  as a result of the levy being attached to the first‑mentioned Corporation; or
+                     (c)  as a result of the levy being attached to the first-mentioned Corporation; or
 
-                     (d)  as a result of the first‑mentioned Corporation being established in respect of the primary industry or class of primary industries to which the levy relates.
+                     (d)  as a result of the first-mentioned Corporation being established in respect of the primary industry or class of primary industries to which the levy relates.
 
              (3)  Where the RIR&amp;D Corporation and another R&amp;D Corporation are unable to agree on:
 
@@ -2331,11 +2330,11 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (c)  while the levy was attached to the R&amp;D Corporation, or to the other Fund, the Commonwealth was obliged to pay money to the Corporation under paragraph 30(1)(a), 30A(1)(a) or into the other Fund under paragraph 108(1)(a); and
 
-                     (d)  the Commonwealth had not so paid the money before the levy became attached to the first‑mentioned Fund;
+                     (d)  the Commonwealth had not so paid the money before the levy became attached to the first-mentioned Fund;
 
 then:
 
-                     (e)  the Commonwealth must pay the money to the first‑mentioned Fund; and
+                     (e)  the Commonwealth must pay the money to the first-mentioned Fund; and
 
                       (f)  notwithstanding paragraph 30(1)(a), 30A(1)(a) or 108(1)(a), as the case may be, the Commonwealth ceases, from the time the levy becomes so attached, to be obliged to pay the money to the R&amp;D Corporation, or into the other Fund, as the case may be.
 
@@ -2355,11 +2354,11 @@ then:
 
                      (d)  as a result of the expenditure, the Commonwealth was obliged to pay money to the Corporation under paragraph 30(1)(b) or into the other Fund under paragraph 108(1)(b); and
 
-                     (e)  the Commonwealth had not so paid the money before the levy became attached to the first‑mentioned Fund;
+                     (e)  the Commonwealth had not so paid the money before the levy became attached to the first-mentioned Fund;
 
 then:
 
-                      (f)  the Commonwealth must pay the money into the first‑mentioned Fund; and
+                      (f)  the Commonwealth must pay the money into the first-mentioned Fund; and
 
                      (g)  notwithstanding paragraph 30(1)(b) or paragraph 108(1)(b), as the case may be, the Commonwealth ceases, from the time the levy becomes so attached, to be obliged to pay the money to the R&amp;D Corporation, or into the other Fund, as the case may be.
 
@@ -2381,7 +2380,7 @@ then:
 
                             by the spending of money under section 112 in connection with research and development relating to the primary industry or class of primary industries to which the levy relates;
 
-the RIR&amp;D Corporation must pay the amount into the first‑mentioned R&amp;D Fund.
+the RIR&amp;D Corporation must pay the amount into the first-mentioned R&amp;D Fund.
 
              (2)  Where:
 
@@ -2439,9 +2438,9 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (1)  The Minister must appoint a person as the Presiding Member of Selection Committees for each R&amp;D Corporation.
 
-             (2)  A Presiding Member is to be appointed on a part‑time basis.
+             (2)  A Presiding Member is to be appointed on a part-time basis.
 
-             (3)  A Presiding Member holds office for the period, not exceeding 3 years, specified in the instrument of appointment but is eligible for re‑appointment.
+             (3)  A Presiding Member holds office for the period, not exceeding 3 years, specified in the instrument of appointment but is eligible for re-appointment.
 
 ##### <a id="123"></a>123  Minister may request the establishment of a Selection Committee
 
@@ -2471,7 +2470,7 @@ give a written notice to the Presiding Member of the Selection Committee for the
 
                      (d)  specifying the R&amp;D Council in respect of which the Selection Committee is to be established; and
 
-                   (da)  requesting the Presiding Member to ask each of the Council’s representative organisations to have regard to the desirability of reflecting a diversity of expertise, experience and gender among the persons nominated for appointment to the Selection Committee; and
+                    (da)  requesting the Presiding Member to ask each of the Council’s representative organisations to have regard to the desirability of reflecting a diversity of expertise, experience and gender among the persons nominated for appointment to the Selection Committee; and
 
                      (e)  specifying the period within which the Selection Committee must nominate persons, or a person, for appointment.
 
@@ -2585,9 +2584,9 @@ give a written notice to the Presiding Member of the Selection Committee for the
 
              (4)  A person appointed for the purpose of paragraph (2)(b):
 
-                     (a)  is to be appointed on a part‑time basis; and
+                     (a)  is to be appointed on a part-time basis; and
 
-                     (b)  holds office for the period, not exceeding 3 years, specified in the instrument of appointment, but is eligible for re‑appointment.
+                     (b)  holds office for the period, not exceeding 3 years, specified in the instrument of appointment, but is eligible for re-appointment.
 
              (5)  Subject to subsections (6) and (7), the Minister must appoint the person or persons nominated by the representative organisation or representative organisations.
 
@@ -2879,25 +2878,25 @@ the member must disclose the nature of the interest at a meeting of the Committe
 
 ## Part 5—Miscellaneous
 
-##### <a id="142"></a>142  Co‑ordination meetings
+##### <a id="142"></a>142  Co-ordination meetings
 
              (1)  The Minister must, at least once in each financial year:
 
-                     (a)  cause a co‑ordination meeting to be held at the time and place determined by the Minister; and
+                     (a)  cause a co-ordination meeting to be held at the time and place determined by the Minister; and
 
                      (b)  nominate the Chairperson of an R&amp;D Corporation to preside at the meeting.
 
-             (2)  Co‑ordination meetings are held for the purposes of considering, and, as far as practicable, co‑ordinating, R&amp;D activities pursued, or proposed to be pursued, by the R&amp;D Corporations and R&amp;D Councils.
+             (2)  Co-ordination meetings are held for the purposes of considering, and, as far as practicable, co-ordinating, R&amp;D activities pursued, or proposed to be pursued, by the R&amp;D Corporations and R&amp;D Councils.
 
-             (3)  Each co‑ordination meeting is to be attended by the Chairperson of each R&amp;D Corporation and each R&amp;D Council.
+             (3)  Each co-ordination meeting is to be attended by the Chairperson of each R&amp;D Corporation and each R&amp;D Council.
 
              (4)  If a Chairperson of an R&amp;D Corporation is unable to attend, a person who is nominated by that Corporation is to attend instead.
 
-             (7)  Where the Chairperson nominated by the Minister to preside at a co‑ordination meeting is unable to attend that meeting, the persons attending the meeting are to elect one of their number to preside.
+             (7)  Where the Chairperson nominated by the Minister to preside at a co-ordination meeting is unable to attend that meeting, the persons attending the meeting are to elect one of their number to preside.
 
-             (8)  The person presiding at a co‑ordination meeting may give directions regarding the procedure to be followed at or in connection with the meeting.
+             (8)  The person presiding at a co-ordination meeting may give directions regarding the procedure to be followed at or in connection with the meeting.
 
-             (9)  At a co‑ordination meeting:
+             (9)  At a co-ordination meeting:
 
                      (a)  all questions are to be decided by a majority of votes of the persons present and voting; and
 
@@ -2991,15 +2990,15 @@ and, where the Minister makes such a declaration, the agreements or instruments 
 
 ##### <a id="149"></a>149  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-             (2)  Before making a regulation for the purposes of section 8 or section 92 establishing an R&amp;D Corporation or R&amp;D Council in respect of a primary industry or class of primary industries, the Governor‑General is to take into consideration any relevant recommendation made to the Minister by any of the organisations that, in the Minister’s opinion, represent that primary industry or class of primary industries.
+             (2)  Before making a regulation for the purposes of section 8 or section 92 establishing an R&amp;D Corporation or R&amp;D Council in respect of a primary industry or class of primary industries, the Governor-General is to take into consideration any relevant recommendation made to the Minister by any of the organisations that, in the Minister’s opinion, represent that primary industry or class of primary industries.
 
-             (3)  Before making a regulation for the purposes of section 56 declaring that Division 7 of Part 2 applies to an R&amp;D Corporation, the Governor‑General is to take into consideration any relevant recommendation made to the Minister by any of the Corporation’s representative organisations.
+             (3)  Before making a regulation for the purposes of section 56 declaring that Division 7 of Part 2 applies to an R&amp;D Corporation, the Governor-General is to take into consideration any relevant recommendation made to the Minister by any of the Corporation’s representative organisations.
 
 ##### <a id="150"></a>150  Orders
 
@@ -3845,30 +3844,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 912, 913) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Part 5 (sections 10–12) only of the _Primary Industries Legislation Amendment Act (No. 2) 1991_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Fisheries Legislation (Consequential Provisions) Act 1991_ was amended by Schedule 3 (item 25) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+_(b)_    The _Fisheries Legislation (Consequential Provisions) Act 1991_ was amended by Schedule 3 (item 25) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
@@ -4750,28 +4732,6 @@ Repeal the section.
 
 The _Primary Industries and Energy Research and Development Act 1989_ was cited incorrectly and the proposed amendment is not incorporated in this compilation.
 
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 912  At the end of subsection 85(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 913  Subsections 85(2) and (3)
-
-Repeal the subsections, substitute:
-
-             (2)  The appointment of a person under subsection (1) ceases to have effect if the person resigns the appointment by writing delivered to the Chairperson.
-
-As at 18 October 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4823,7 +4783,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -4831,7 +4791,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
@@ -4872,17 +4832,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -4927,21 +4887,5 @@ Despite the amendments of Part 4 of the _Primary Industries and Energy Researc
 ## 35  Application—item 34
 
 The amendment made by item 34 applies in relation to financial years starting on or after the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
