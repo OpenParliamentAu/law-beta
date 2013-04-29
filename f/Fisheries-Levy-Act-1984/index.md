@@ -1,349 +1,94 @@
-**
+**<b>
 
-###  FISHERIES LEVY ACT 1984 
-**
+### <center><name>FISHERIES LEVY ACT 1984 - Reprinted as at 31 January 1993 (HISTACT CHAP 1025 #DATE 31:01:1993) </name></center>
+</b>** *1* The Fisheries Levy Act 1984 as shown in this reprint comprises Act No. 151, 1984 amended as indicated in the Tables below.<lf>                              Table of Acts<lf>     Act                Date          Date of          Application,<lf>     Number and         of Assent     commencement     saving or<lf>     year                                              transitional<lf>                                                       provisions<lf>     Fisheries Licences Levy Act 1984<lf>     151, 1984          25 Oct 1984   31 Aug 1985 (Gazette<lf>                                      1985, No. S347)<lf>     Fisheries Levy Amendment Act 1985<lf>     30, 1985           22 May 1985   31 Aug 1985 (see<lf>                                      s. 2 and Gazette<lf>                                      1985, No. S347)             -<lf>                            Table of Amendments<lf>     ad=added or inserted am=amended rep=repealed rs=repealed and substituted<lf>     Provision affected              How affected<lf>     Title                           am. No. 30, 1985<lf>     S. 1                            am. No. 30, 1985<lf>     S. 3                            rs. No. 30, 1985<lf>     Ss. 5-8                         am. No. 30, 1985<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
+### <name>FISHERIES LEVY ACT 1984 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                                TABLE OF PROVISIONS<lf> Section<lf>     1\.    Short title<lf>     2\.    Commencement<lf>     3\.    Interpretation<lf>     4\.    Application of Act<lf>     5\.    Imposition of levy<lf>     6\.    Amount of levy<lf>     7\.    Payment of levy<lf>     8\.    Regulations<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-###  Compilation Information 
-**
+### <name>FISHERIES LEVY ACT 1984 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect>             An Act to impose a levy with respect to certain fisheries<lf>                    licences and certain units of fishing capacity<lf> </lf></lf></sect>
+**<b>
 
+### <name>FISHERIES LEVY ACT 1984 - SECT 1 Short title </name>
+</b>** 
 
+## SECT
+<sect>   1\. This Act may be cited as the Fisheries Levy Act 1984.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
+### <name>FISHERIES LEVY ACT 1984 - SECT 2 Commencement </name>
+</b>** 
 
+## SECT
+<sect>   2\. This Act shall come into operation on a day to be fixed by Proclamation.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
+### <name>FISHERIES LEVY ACT 1984 - SECT 4 Interpretation </name>
+</b>** 
 
-**
+## SECT
+<sect>   3\. (1) In this Act, unless the contrary intention appears:<lf>   "fisheries licence" means a licence under the Fisheries Act 1952 or the Torres Strait Fisheries Act 1984;<lf>   "fishery" means a class of activities by way of fishing, being a class of such activities that is identified in a plan of management as a fishery to which the plan of management applies;<lf>   "plan of management" means a plan of management determined under subsection 7B (1) of the Fisheries Act 1952\. 
 
-###  Long Title 
-**
-###  FISHERIES LEVY ACT 1984- SECT 1  Short title [_see_ Note 1] 
-This Act may be cited as the _Fisheries Levy Act 1984_.
+  (2) A reference in this Act to units of fishing capacity is a reference to the units into which, under a plan of management for a fishery, the fishing capacity permitted for the fishery is divided. 
+</lf></lf></lf></sect>
+**<b>
 
- 
-###  FISHERIES LEVY ACT 1984- SECT 2  Commencement [_see_ Note 1] 
-This Act shall come into operation on a day to be fixed by Proclamation.
+### <name>FISHERIES LEVY ACT 1984 - SECT 4 Application of Act </name>
+</b>** 
 
- 
-###  FISHERIES LEVY ACT 1984- SECT 3  Interpretation 
-<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
+## SECT
+<sect>   4\. This Act extends to every external Territory and applies both within and outside Australia. </sect>
+**<b>
 
-</dd> 
-<dl compact=""><dl compact="">
+### <name>FISHERIES LEVY ACT 1984 - SECT 5 Imposition of levy </name>
+</b>** 
 
-_fisheries licence_ means a licence under the _Fisheries Act 1952_ or the _Torres Strait Fisheries Act 1984._  _fishery_ means a class of activities by way of fishing, being a class of such activities that is identified in a plan of management as a fishery to which the plan of management applies. _plan of management_ means a plan of management determined under subsection 7B(1) of the _Fisheries Act 1952_.  </dl></dl>
+## SECT
+<sect>   5\. Levy is imposed on:<lf>   (a) the grant of a licence under subsection 9 (2) or (3) of the Fisheries Act 1952, being a licence included in a class of licences prescribed for the purposes of this paragraph;<lf>   (b) the endorsement under subsection 9 (4) of the Fisheries Act 1952 of a licence granted under subsection 9 (2) or (3) of that Act, being an endorsement included in a class of endorsements prescribed for the purposes of this paragraph;<lf>   (ba) the renewal under subsection 9 (6B) of the Fisheries Act 1952 of a licence granted under subsection 9 (2) or (3) of that Act, being a licence included in a class of licences prescribed for the purposes of this paragraph;<lf>   (bb) the variation under subsection 9 (7A) of the Fisheries Act 1952 of a licence granted under subsection 9 (2) or (3) of that Act, being a licence included in a class of licences prescribed for the purposes of this paragraph;<lf>   (bc) the allocation of units of fishing capacity, being units of fishing capacity prescribed for the purposes of this paragraph;<lf>   (bd) the renewal of the allocation of units of fishing capacity, being units of fishing capacity prescribed for the purposes of this paragraph;<lf>   (c) the endorsement under subsection 12P (4) of the Fisheries Act 1952 of a licence granted under subsection 9 (2) or (3) of that Act, being an endorsement included in a class of endorsements prescribed for the purposes of this paragraph;<lf>   (d) the grant of a licence under subsection 19 (2) or (3) of the Torres Strait Fisheries Act 1984, being a licence included in a class of licences prescribed for the purposes of this paragraph;<lf>   (e) the making under subsection 21 (1) of the Torres Strait Fisheries Act 1984 of an entry in a licence granted under subsection 19 (2) or (3) of that Act, being an entry included in a class of entries prescribed for the purposes of this paragraph;<lf>   (f) the renewal under subsection 24 (1) of the Torres Strait Fisheries Act 1984 of a licence granted under subsection 19 (2) or (3) of that Act, being a licence included in a class of licences prescribed for the purposes of this paragraph;<lf>   (fa) the variation under subsection 25A (1) of the Torres Strait Fisheries Act 1984 of a licence granted under subsection 19 (2) or (3) of that Act, being a licence included in a class of licences prescribed for the purposes of this paragraph; and<lf>   (g) the making under subsection 36 (4) of the Torres Strait Fisheries Act 1984 of an entry in a licence granted under subsection 19 (2) or (3) of that Act, being an entry included in a class of entries prescribed for the purposes of this paragraph. </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-<dl compact="">
+### <name>FISHERIES LEVY ACT 1984 - SECT 6 Amount of levy </name>
+</b>** 
 
-<dt>(2)</dt><dd>A reference in this Act to units of fishing capacity is a reference to the
+## SECT
+<sect>   6\. (1) The amount of the levy imposed by this Act on the grant of a fisheries licence, the renewal of a fisheries licence, the endorsement of a fisheries licence, the variation of a fisheries licence, the allocation of a unit of fishing capacity, the renewal of the allocation of a unit of fishing capacity or the making of an entry in a fisheries licence is such amount as is specified in, or calculated in accordance with, the regulations. 
 
-units into which, under a plan of management for a fishery, the fishing
+  (2) Regulations made for the purposes of subsection (1) may specify different amounts of, or prescribe different methods of calculating amounts of, levy in respect of:<lf>   (a) fisheries licences included in different classes of fisheries licences;<lf>   (b) endorsements of fisheries licences included in different classes of endorsements of fisheries licences;<lf>   (ba) units of fishing capacity included in different classes of units of fishing capacity; and<lf>   (c) entries in fisheries licences included in different classes of entries in fisheries licences. </lf></lf></lf></lf>
+</sect>
+**<b>
 
-capacity permitted for the fishery is divided.
+### <name>FISHERIES LEVY ACT 1984 - SECT 7 Payment of levy </name>
+</b>** 
 
-</dd> </dl>
+## SECT
+<sect>   7\. (1) The amount of the levy imposed by this Act on the grant of a fisheries licence is payable by the person to whom the fisheries licence is granted at the time of the grant of the licence. 
 
-**
+  (2) The amount of the levy imposed by this Act on the renewal of a fisheries licence is payable by the holder of the licence at the time of the renewal of the licence. 
 
-###  FISHERIES LEVY ACT 1984- SECT 4  Application of Act 
-**
+  (3) The amount of the levy imposed by this Act on the endorsement of a fisheries licence, or the making of an entry in a fisheries licence, is payable by the holder of the licence at the time of the endorsement or the making of the entry, as the case may be. 
 
- <dl compact="">
+  (4) The amount of the levy imposed by this Act on the variation of a fisheries licence is payable by the holder of the licence at the time of the variation of the licence. 
 
-		This Act extends to every external Territory and applies both within and
+  (5) The amount of the levy imposed by this Act on the allocation of a unit of fishing capacity is payable by the person to whom the unit of fishing capacity is allocated at the time of the allocation of the unit of fishing capacity. 
 
-outside Australia.
+  (6) The amount of the levy imposed by this Act on the renewal of the allocation of a unit of fishing capacity is payable by the holder of the unit of fishing capacity at the time of the renewal of the allocation of the unit of fishing capacity. 
+</sect>
+**<b>
 
- </dl>
+### <name>FISHERIES LEVY ACT 1984 - SECT 8 Regulations </name>
+</b>** 
 
-**
+## SECT
+<sect>   8\. (1) The Governor-General may make regulations for the purposes of sections 5 and 6\. 
 
-###  FISHERIES LEVY ACT 1984- SECT 5  Imposition of levy 
-**
-
- <dl compact="">
-
-		Levy is imposed on:
-
- </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the grant of a licence under subsection 9(2) or (3) of the _Fisheries Act 1952_, being a licence included in a class of licences prescribed for
-
-the purposes of this paragraph;</dd>
-
-<dt>(b)</dt><dd>the endorsement under subsection 9(4) of the _Fisheries Act 1952_ of
-
-a licence granted under subsection 9(2) or (3) of that Act, being an
-
-endorsement included in a class of endorsements prescribed for the purposes of
-
-this paragraph;</dd>
-
-<dt>(ba)</dt><dd>the renewal under subsection 9(6B) of the _Fisheries Act 1952_ of a
-
-licence granted under subsection 9(2) or (3) of that Act, being a licence
-
-included in a class of licences prescribed for the purposes of this
-
-paragraph;</dd>
-
-<dt>(bb)</dt><dd>the variation under subsection 9(7A) of the _Fisheries Act 1952_ of
-
-a licence granted under subsection 9(2) or (3) of that Act, being a licence
-
-included in a class of licences prescribed for the purposes of this
-
-paragraph;</dd>
-
-<dt>(bc)</dt><dd>the allocation of units of fishing capacity, being units of fishing
-
-capacity prescribed for the purposes of this paragraph;</dd>
-
-<dt>(bd)</dt><dd>the renewal of the allocation of units of fishing capacity, being units
-
-of fishing capacity prescribed for the purposes of this paragraph;</dd>
-
-<dt>(c)</dt><dd>the endorsement under subsection 12P(4) of the _Fisheries Act 1952_ of a licence granted under subsection 9(2) or (3) of that Act, being an
-
-endorsement included in a class of endorsements prescribed for the purposes of
-
-this paragraph;</dd>
-
-<dt>(d)</dt><dd>the grant of a licence under subsection 19(2) or (3) of the _Torres Strait Fisheries Act 1984_, being a licence included in a class of licences
-
-prescribed for the purposes of this paragraph;</dd>
-
-<dt>(e)</dt><dd>the making under subsection 21(1) of the _Torres Strait Fisheries Act 1984_ of an entry in a licence granted under subsection 19(2) or (3) of that
-
-Act, being an entry included in a class of entries prescribed for the purposes
-
-of this paragraph;</dd>
-
-<dt>(f)</dt><dd>the renewal under subsection 24(1) of the _Torres Strait Fisheries Act 1984_ of a licence granted under subsection 19(2) or (3) of that Act, being
-
-a licence included in a class of licences prescribed for the purposes of this
-
-paragraph;</dd>
-
-<dt>(fa)</dt><dd>the variation under subsection 25A(1) of the _Torres Strait Fisheries Act 1984_ of a licence granted under subsection 19(2) or (3) of that Act,
-
-being a licence included in a class of licences prescribed for the purposes of
-
-this paragraph; and</dd>
-
-<dt>(g)</dt><dd>the making under subsection 36(4) of the _Torres Strait Fisheries Act 1984_ of an entry in a licence granted under subsection 19(2) or (3) of that
-
-Act, being an entry included in a class of entries prescribed for the purposes
-
-of this paragraph.
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
-
-**
-
-###  FISHERIES LEVY ACT 1984- SECT 6  Amount of levy 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The amount of the levy imposed by this Act on the grant of a fisheries
-
-licence, the renewal of a fisheries licence, the endorsement of a fisheries
-
-licence, the variation of a fisheries licence, the allocation of a unit of
-
-fishing capacity, the renewal of the allocation of a unit of fishing capacity
-
-or the making of an entry in a fisheries licence is such amount as is specified
-
-in, or calculated in accordance with, the regulations.</dd> <dt>(2)</dt><dd>Regulations made for the purposes of subsection (1) may specify different amounts of, or prescribe different methods of calculating amounts of, levy in respect of: </dd> </dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>fisheries licences included in different classes of fisheries licences;</dd>
-
-<dt>(b)</dt><dd>endorsements of fisheries licences included in different classes of
-
-endorsements of fisheries licences;</dd>
-
-<dt>(ba)</dt><dd>units of fishing capacity included in different classes of units of
-
-fishing capacity; and</dd>
-
-<dt>(c)</dt><dd>entries in fisheries licences included in different classes of entries in
-
-fisheries licences.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  FISHERIES LEVY ACT 1984- SECT 7  Payment of levy 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The amount of the levy imposed by this Act on the grant of a fisheries
-
-licence is payable by the person to whom the fisheries licence is granted at
-
-the time of the grant of the licence.</dd> <dt>(2)</dt><dd>The amount of the levy imposed by this Act on the renewal of a fisheries licence is payable by the holder of the licence at the time of the renewal of the licence.</dd> <dt>(3)</dt><dd>The amount of the levy imposed by this Act on the endorsement of a fisheries licence, or the making of an entry in a fisheries licence, is payable by the holder of the licence at the time of the endorsement or the making of the entry, as the case may be.</dd> <dt>(4)</dt><dd>The amount of the levy imposed by this Act on the variation of a fisheries licence is payable by the holder of the licence at the time of the variation of the licence.</dd> <dt>(5)</dt><dd>The amount of the levy imposed by this Act on the allocation of a unit of fishing capacity is payable by the person to whom the unit of fishing capacity is allocated at the time of the allocation of the unit of fishing capacity.</dd> <dt>(6)</dt><dd>The amount of the levy imposed by this Act on the renewal of the allocation of a unit of fishing capacity is payable by the holder of the unit of fishing capacity at the time of the renewal of the allocation of the unit of fishing capacity. </dd> </dl>
-
-**
-
-###  FISHERIES LEVY ACT 1984- SECT 8  Regulations 
-**
-
- <dl compact="">
-
-<dt>(1)</dt><dd>The Governor-General may make regulations for the purposes of sections 5
-
-and 6.</dd> <dt>(2)</dt><dd>Notwithstanding section 49A of the _Acts Interpretation Act 1901_, the regulations may make provision for or in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in a plan of management, being a plan of management as in force at a particular time or as in force from time to time. </dd> </dl>
-
-<center>**
-
-###  FISHERIES LEVY ACT 1984<centreit>Notes to the _Fisheries Levy Act 1984_ </centreit>
-**</center>
-
-**Note 1**
-
-The _Fisheries Levy Act 1984_ as shown in this compilation comprises Act No.&#160;151, 1984 amended as indicated in the Tables below.
-
-**Table of Acts**
-
-<table><tr align="left">
-  <td colspan="1" align="left">
-    <div>Act</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Number 
-and year</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Fisheries Licences Levy Act 1984</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>151, 1984</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>25 Oct 1984</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>31 Aug 1985 ( <i>see Gazette</i>1985, No.&#160;S347)</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Fisheries Levy Amendment Act 1985</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>30, 1985</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>22 May 1985</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>31 Aug 1985 ( <i>see</i>s. 2 and <i>Gazette</i>1985, No. S347)</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr></table>**Table of Amendments**
-
-<table><tr align="left">
-  <th colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <th colspan="1" align="left">
-    <div>Provision affected</div>
-
-  </th>
-  <th colspan="1" align="left">
-    <div>How affected</div>
-
-  </th>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Title</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 30, 1985</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 1</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 30, 1985</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 3</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 30, 1985</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 5-8</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 30, 1985</div>
-
-  </td>
-</tr></table>
-
-
+  (2) Notwithstanding section 49A of the Acts Interpretation Act 1901, the regulations may make provision for or in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in a plan of management, being a plan of management as in force at a particular time or as in force from time to time. 
+</sect>
