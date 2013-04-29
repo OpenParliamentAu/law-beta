@@ -1,12 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2011C00260/Html/d5bb8d3c-83d9-48d1-95f5-d7c6217437c4_files/image001.gif)
+ 
+
+![](http://www.comlaw.gov.au/Details/C2009C00132/Html/AdelaideAirportCurfew2000_image001.gif)
 
 # Adelaide Airport Curfew Act 2000
 
 **Act No. 29 of 2000 as amended**
 
-This compilation was prepared on 19 April 2011
+This compilation was prepared on 20 March 2009
 
-taking into account amendments up to Act No. 5 of 2011
+taking into account amendments up to Act No. 87 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -15,7 +17,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -55,11 +57,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 3—Other aircraft movements during curfew periods**
 
-[12](#12).          Propeller‑driven aircraft under 34,000 kilograms that comply with noise standards
+[12](#12).          Propeller-driven aircraft under 34,000 kilograms that comply with noise standards
 
 [13](#13).          Jet aircraft under 34,000 kilograms that comply with noise standards
 
-[14](#14).          Take‑off when taxi clearance received before start of curfew period
+[14](#14).          Take-off when taxi clearance received before start of curfew period
 
     **Division 4—Landing on runways other than runway 05**
 
@@ -113,7 +115,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears, the following terms have the meanings set out below:
 
-                    <a name="90-95-nois-level-rule"></a>**_90‑95 noise level rule_** has the meaning given by subsection (3).
+                    <a name="90-95-nois-level-rule"></a>**_90-95 noise level rule_** has the meaning given by subsection (3).
 
                     <a name="aircraft"></a>**_aircraft_** means any machine or craft that can derive support in the atmosphere from the reactions of the air.
 
@@ -123,7 +125,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="authorised-person"></a>**_authorised person_** means:
 
-                     (a)  the Secretary of the Department; or
+                     (a)  the Secretary to the Department; or
 
                      (b)  a person appointed under subsection 22(1); or
 
@@ -143,15 +145,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="low-nois-heavi-freight-aircraft"></a>**_low noise heavy freight aircraft_** means a jet aircraft that:
 
-                     (a)  has a maximum take‑off weight that is 34,000 kilograms or more; and
+                     (a)  has a maximum take-off weight that is 34,000 kilograms or more; and
 
                      (b)  is being used solely for the purpose of carrying freight; and
 
-                     (c)  complies with the maximum noise levels specified in Chapter 3 of the Annex that are applicable to the maximum take‑off weight of the aircraft (whether or not the Chapter is expressed to apply to the aircraft); and
+                     (c)  complies with the maximum noise levels specified in Chapter 3 of the Annex that are applicable to the maximum take-off weight of the aircraft (whether or not the Chapter is expressed to apply to the aircraft); and
 
-                     (d)  complies with the 90‑95 noise level rule.
+                     (d)  complies with the 90-95 noise level rule.
 
-                    <a name="maximum-off-weight"></a>**_maximum take‑off weight_** of an aircraft means the weight set out in the aircraft’s flight manual as the aircraft’s maximum take‑off weight.
+                    <a name="maximum-off-weight"></a>**_maximum take-off weight_** of an aircraft means the weight set out in the aircraft’s flight manual as the aircraft’s maximum take-off weight.
 
                     <a name="oper"></a>**_operator_** of an aircraft means a person who conducts an aircraft operation using the aircraft.
 
@@ -167,7 +169,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="week"></a>**_week_** means a period of 7 days starting at 11 pm on a Sunday.
 
-             (2)  For the purposes of this Act, an aircraft is an **_international aircraft_** on take‑off from, or landing at, Adelaide Airport if:
+             (2)  For the purposes of this Act, an aircraft is an **_international aircraft_** on take-off from, or landing at, Adelaide Airport if:
 
                      (a)  the aircraft is being used for an international air service to carry passengers or freight (or both) for hire or reward, to or from the airport; and
 
@@ -181,17 +183,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             (iv)  the flight in question is covered by a determination under subsection 17(1B) of that Act; and
 
-                     (c)  the aircraft complies with the maximum noise levels specified in Chapter 3 of the Annex that are applicable to the maximum take‑off weight of the aircraft (whether or not the Chapter is expressed to apply to the aircraft); and
+                     (c)  the aircraft complies with the maximum noise levels specified in Chapter 3 of the Annex that are applicable to the maximum take-off weight of the aircraft (whether or not the Chapter is expressed to apply to the aircraft); and
 
                      (d)  if the aircraft is being used solely for the purpose of carrying freight—the aircraft is not a low noise heavy freight aircraft; and
 
-                     (e)  for a take‑off from Adelaide Airport—the first or second port of call of the aircraft after taking off from Adelaide Airport is outside Australia; and
+                     (e)  for a take-off from Adelaide Airport—the first or second port of call of the aircraft after taking off from Adelaide Airport is outside Australia; and
 
                       (f)  for a landing at Adelaide Airport—the last or second last port of call of the aircraft before landing at Adelaide Airport was outside Australia.
 
-             (3)  For the purposes of this Act, a type of aircraft complies with the **_90‑95 noise level rule_** if aircraft of that type have a noise level that:
+             (3)  For the purposes of this Act, a type of aircraft complies with the **_90-95 noise level rule_** if aircraft of that type have a noise level that:
 
-                     (a)  on take‑off:
+                     (a)  on take-off:
 
                               (i)  does not exceed 90 EPNdB; or
 
@@ -201,23 +203,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  does not exceed 95 EPNdB; or
 
-                             (ii)  if the amount in excess of 95 EPNdB is offset by a maximum noise level on take‑off that is correspondingly lower than the amount specified in subparagraph (a)(i)—does not exceed 97 EPNdB.
+                             (ii)  if the amount in excess of 95 EPNdB is offset by a maximum noise level on take-off that is correspondingly lower than the amount specified in subparagraph (a)(i)—does not exceed 97 EPNdB.
 
 ##### <a id="4"></a>4  Explanation of runway names
 
-             (1)  The diagram below shows the runways at Adelaide Airport.
+             (1)  The diagram below shows the runways at Adelaide  Airport.
 
-![](http://www.comlaw.gov.au/Details/C2011C00260/Html/d5bb8d3c-83d9-48d1-95f5-d7c6217437c4_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00132/Html/AdelaideAirportCurfew2000_image002.gif)
 
              (2)  The following runway names have the meanings indicated where they are used in this Act:
 
-                     (a)  **_runway 12_**—this is the name for the runway marked A when used for a take‑off to the south‑east or a landing from the north‑west;
+                     (a)  **_runway 12_**—this is the name for the runway marked A when used for a take-off to the south-east or a landing from the north-west;
 
-                     (b)  **_runway 30_**—this is the name for the runway marked A when used for a take‑off to the north‑west or a landing from the south‑east;
+                     (b)  **_runway 30_**—this is the name for the runway marked A when used for a take-off to the north-west or a landing from the south-east;
 
-                     (c)  **_runway 23_**— this is the name for the runway marked B when used for a take‑off to the south‑west or a landing from the north‑east;
+                     (c)  **_runway 23_**— this is the name for the runway marked B when used for a take-off to the south-west or a landing from the north-east;
 
-                     (d)  **_runway 05_**— this is the name for the runway marked B when used for a take‑off to the north‑east or a landing from the south‑west.
+                     (d)  **_runway 05_**— this is the name for the runway marked B when used for a take-off to the north-east or a landing from the south-west.
 
 ##### <a id="5"></a>5  Time is legal time in South Australia
 
@@ -265,29 +267,29 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="8"></a>8  Quota on movements by international aircraft during curfew shoulder periods
 
-                   The regulations may prescribe the maximum number of take‑offs and the maximum number of landings by international aircraft that are permitted during the curfew shoulder periods in a week.
+                   The regulations may prescribe the maximum number of take-offs and the maximum number of landings by international aircraft that are permitted during the curfew shoulder periods in a week.
 
 ##### <a id="9"></a>9  Applications to operate international aircraft during curfew shoulder periods
 
-             (1)  The operator of an international aircraft may apply to the Minister for permission to take‑off from, or land at, Adelaide Airport during a curfew shoulder period.
+             (1)  The operator of an international aircraft may apply to the Minister for permission to take-off from, or land at, Adelaide  Airport during a curfew shoulder period.
 
              (2)  An application:
 
                      (a)  must be in writing; and
 
-                     (b)  must specify the day and time of the proposed take‑off or landing; and
+                     (b)  must specify the day and time of the proposed take-off or landing; and
 
                      (c)  must set out the reasons why the applicant thinks the permission should be granted.
 
              (3)  The Minister may request further information from the applicant that is, in the Minister’s opinion, relevant to making a decision whether or not to grant a permission.
 
-             (4)  The Minister may, in writing, grant or refuse to grant permission. However, the Minister must not grant permission where to do so would result in more take‑offs or landings occurring during a curfew shoulder period than is permitted by regulations made for the purposes of section 8.
+             (4)  The Minister may, in writing, grant or refuse to grant permission. However, the Minister must not grant permission where to do so would result in more take-offs or landings occurring during a curfew shoulder period than is permitted by regulations made for the purposes of section 8.
 
              (5)  The Minister may impose conditions on a permission.
 
              (6)  Without limiting subsection (5), a permission is subject to the following conditions:
 
-                     (a)  if the permission relates to a take‑off—the take‑off is from runway 23; and
+                     (a)  if the permission relates to a take-off—the take-off is from runway 23; and
 
                      (b)  if the permission relates to a landing:
 
@@ -301,9 +303,9 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  to grant a permission subject to conditions.
 
-Note:          Under section 27A of the _Administrative Appeals Tribunal Act 1975_, the decision‑maker must notify persons whose interests are affected by the making of the decision of their right to have the decision reviewed. In notifying such persons, the decision‑maker must have regard to the Code of Practice determined under section 27B of that Act.
+Note:          Under section 27A of the _Administrative Appeals Tribunal Act 1975_, the decision-maker must notify persons whose interests are affected by the making of the decision of their right to have the decision reviewed. In notifying such persons, the decision-maker must have regard to the Code of Practice determined under section 27B of that Act.
 
-             (8)  Aircraft taking off or landing as permitted by section 14 or 16 are not to be counted towards the maximum number of take‑offs and landings under regulations made for the purposes of section 8.
+             (8)  Aircraft taking off or landing as permitted by section 14 or 16 are not to be counted towards the maximum number of take-offs and landings under regulations made for the purposes of section 8.
 
 ### Division 2—Low noise heavy freight aircraft movements during curfew periods
 
@@ -311,9 +313,9 @@ Note:          Under section 27A of the _Administrative Appe
 
                    The regulations:
 
-                     (a)  may prescribe the maximum number of take‑offs and the maximum number of landings by low noise heavy freight aircraft that are permitted during the curfew periods in a week; and
+                     (a)  may prescribe the maximum number of take-offs and the maximum number of landings by low noise heavy freight aircraft that are permitted during the curfew periods in a week; and
 
-                     (b)  may prescribe those maximum numbers of take‑offs and landings by reference to the types of low noise heavy freight aircraft that may take off and land.
+                     (b)  may prescribe those maximum numbers of take-offs and landings by reference to the types of low noise heavy freight aircraft that may take off and land.
 
 ##### <a id="11"></a>11  Applications to operate low noise heavy freight aircraft during curfew periods
 
@@ -325,21 +327,21 @@ Note:          Under section 27A of the _Administrative Appe
 
                      (b)  must:
 
-                              (i)  specify the day and time of the proposed take‑off or landing; or
+                              (i)  specify the day and time of the proposed take-off or landing; or
 
-                             (ii)  if the applicant does not know the day and time of the proposed take‑off or landing—specify the maximum number of take‑offs and landings for which the applicant seeks permission during the curfew periods in a week; and
+                             (ii)  if the applicant does not know the day and time of the proposed take-off or landing—specify the maximum number of take-offs and landings for which the applicant seeks permission during the curfew periods in a week; and
 
                      (c)  must set out the reasons why the applicant thinks the permission should be granted.
 
              (3)  The Minister may request further information from the applicant that is, in the Minister’s opinion, relevant to making a decision whether or not to grant a permission.
 
-             (4)  The Minister may, in writing, grant or refuse to grant permission. However, the Minister must not grant permission where to do so would result in more take‑offs or landings occurring during the curfew periods in a week than is permitted by regulations made for the purposes of section 10.
+             (4)  The Minister may, in writing, grant or refuse to grant permission. However, the Minister must not grant permission where to do so would result in more take-offs or landings occurring during the curfew periods in a week than is permitted by regulations made for the purposes of section 10.
 
              (5)  The Minister may impose conditions on a permission.
 
              (6)  Without limiting subsection (5), a permission is subject to the following conditions:
 
-                     (a)  if the permission relates to a take‑off—the take‑off is from runway 23; and
+                     (a)  if the permission relates to a take-off—the take-off is from runway 23; and
 
                      (b)  if the permission relates to a landing:
 
@@ -353,17 +355,17 @@ Note:          Under section 27A of the _Administrative Appe
 
                      (b)  to grant a permission subject to conditions.
 
-Note:          Under section 27A of the _Administrative Appeals Tribunal Act 1975_, the decision‑maker must notify persons whose interests are affected by the making of the decision of their right to have the decision reviewed. In notifying such persons, the decision‑maker must have regard to the Code of Practice determined under section 27B of that Act.
+Note:          Under section 27A of the _Administrative Appeals Tribunal Act 1975_, the decision-maker must notify persons whose interests are affected by the making of the decision of their right to have the decision reviewed. In notifying such persons, the decision-maker must have regard to the Code of Practice determined under section 27B of that Act.
 
-             (8)  Aircraft taking off or landing as permitted by section 14 or 16 are not to be counted towards the maximum number of take‑offs and landings under regulations made for the purposes of section 10.
+             (8)  Aircraft taking off or landing as permitted by section 14 or 16 are not to be counted towards the maximum number of take-offs and landings under regulations made for the purposes of section 10.
 
 ### Division 3—Other aircraft movements during curfew periods
 
-##### <a id="12"></a>12  Propeller‑driven aircraft under 34,000 kilograms that comply with noise standards
+##### <a id="12"></a>12  Propeller-driven aircraft under 34,000 kilograms that comply with noise standards
 
-                   A propeller‑driven aircraft that:
+                   A propeller-driven aircraft that:
 
-                     (a)  has a maximum take‑off weight of 34,000 kilograms or less; and
+                     (a)  has a maximum take-off weight of 34,000 kilograms or less; and
 
                      (b)  complies with the maximum noise levels specified in Chapter 3, 5 (other than paragraph 5.1.3), 6 or 10 of the Annex that are applicable to aircraft of the class to which the aircraft belongs;
 
@@ -375,15 +377,15 @@ may take off or land at Adelaide Airport during a curfew period.
 
              (2)  The regulations may specify a type of jet aircraft that:
 
-                     (a)  has a maximum take‑off weight of 34,000 kilograms or less; and
+                     (a)  has a maximum take-off weight of 34,000 kilograms or less; and
 
-                     (b)  complies with the maximum noise levels specified in Chapter 3 of the Annex that are applicable to the maximum take‑off weight of the aircraft (whether or not the Chapter is expressed to apply to the aircraft); and
+                     (b)  complies with the maximum noise levels specified in Chapter 3 of the Annex that are applicable to the maximum take-off weight of the aircraft (whether or not the Chapter is expressed to apply to the aircraft); and
 
-                     (c)  complies with the 90‑95 noise level rule.
+                     (c)  complies with the 90-95 noise level rule.
 
-##### <a id="14"></a>14  Take‑off when taxi clearance received before start of curfew period
+##### <a id="14"></a>14  Take-off when taxi clearance received before start of curfew period
 
-                   An aircraft may take off during a curfew period if it received taxi clearance for the take‑off before the start of the curfew period.
+                   An aircraft may take off during a curfew period if it received taxi clearance for the take-off before the start of the curfew period.
 
 ### Division 4—Landing on runways other than runway 05
 
@@ -421,9 +423,9 @@ may take off or land at Adelaide Airport during a curfew period.
 
                      (a)  the aircraft is involved in an emergency as described in section 17; or
 
-                     (b)  the aircraft is taking off from Adelaide Airport in order to resume the flight interrupted by such an emergency; or
+                     (b)  the aircraft is taking off from Adelaide  Airport in order to resume the flight interrupted by such an emergency; or
 
-                     (c)  a dispensation granted by the Minister under section 18 authorises the take‑off or landing, and the take‑off or landing is in accordance with any conditions of the dispensation.
+                     (c)  a dispensation granted by the Minister under section 18 authorises the take-off or landing, and the take-off or landing is in accordance with any conditions of the dispensation.
 
 ##### <a id="17"></a>17  Emergencies
 
@@ -437,7 +439,7 @@ may take off or land at Adelaide Airport during a curfew period.
 
                             (iii)  a natural disaster; or
 
-                     (b)  the pilot of the aircraft has declared an in‑flight emergency; or
+                     (b)  the pilot of the aircraft has declared an in-flight emergency; or
 
                      (c)  the aircraft has insufficient fuel to be diverted to another airport; or
 
@@ -449,19 +451,19 @@ may take off or land at Adelaide Airport during a curfew period.
 
 ##### <a id="18"></a>18  Minister may grant dispensations
 
-             (1)  The Minister may grant a dispensation authorising an aircraft to take off from, or land at, Adelaide Airport in circumstances that would otherwise contravene section 6 if the Minister is satisfied that there are circumstances justifying the take‑off or landing.
+             (1)  The Minister may grant a dispensation authorising an aircraft to take off from, or land at, Adelaide Airport in circumstances that would otherwise contravene section 6 if the Minister is satisfied that there are circumstances justifying the take-off or landing.
 
-             (2)  A dispensation may be granted subject to conditions including, for example, conditions relating to when the take‑off or landing must occur and the runway to be used.
+             (2)  A dispensation may be granted subject to conditions including, for example, conditions relating to when the take-off or landing must occur and the runway to be used.
 
              (3)  In granting dispensations, the Minister must have regard to any matters specified in the regulations.
 
              (4)  Without limiting what regulations made for the purposes of subsection (3) may specify, they may specify:
 
-                     (a)  what constitutes circumstances justifying take‑offs and landings for the purposes of subsection (1); and
+                     (a)  what constitutes circumstances justifying take-offs and landings for the purposes of subsection (1); and
 
                      (b)  the conditions to which dispensations should be subject.
 
-             (5)  Subject to subsection (6) and despite paragraph 23(b), and subsection 33(3A), of the _Acts Interpretation Act 1901_, each dispensation must relate only to one take‑off of an aircraft or one landing of an aircraft.
+             (5)  Subject to subsection (6) and despite paragraph 23(b), and subsection 33(3A), of the _Acts Interpretation Act 1901_, each dispensation must relate only to one take-off of an aircraft or one landing of an aircraft.
 
              (6)  Subsection (5) does not apply during the period spanning the Sydney 2000 Olympic Games and the Sydney 2000 Paralympic Games, from 27 August 2000 to and including 1 November 2000.
 
@@ -473,7 +475,7 @@ may take off or land at Adelaide Airport during a curfew period.
 
                      (a)  information relating to the noise level of the aircraft; or
 
-                     (b)  information relevant to determining whether a take‑off or landing of the aircraft was permitted by paragraph 16(a) (emergencies).
+                     (b)  information relevant to determining whether a take-off or landing of the aircraft was permitted by paragraph 16(a) (emergencies).
 
              (2)  An operator commits an offence if:
 
@@ -519,7 +521,7 @@ Note 2:       For the value of a penalty unit, see subsection 4AA(1)
 
                    The Minister may, in writing, delegate the Minister’s powers under section 9, 11 or 18 to:
 
-                     (a)  the Secretary of the Department; or
+                     (a)  the Secretary to the Department; or
 
                      (b)  an APS employee in the Department.
 
@@ -575,7 +577,7 @@ means the member, or any of the members, constituting the body.
 
 ##### <a id="24"></a>24  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -671,23 +673,6 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (items 3, 4): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -725,7 +710,7 @@ of Assent</div>
       <div>S. 3</div>
     </td>
     <td>
-      <div>am. No. 87, 2008; No. 5, 2011</div>
+      <div>am. No. 87, 2008</div>
     </td>
   </tr>
   <tr>
@@ -786,14 +771,6 @@ of Assent</div>
     </td>
     <td>
       <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 21</div>
-    </td>
-    <td>
-      <div>am. No. 5, 2011</div>
     </td>
   </tr>
 </thead>
