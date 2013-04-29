@@ -1,8 +1,9 @@
 
 Northern Territory (Self-Government) Act 1978 
 Act No. 58 of 1978 as amended
-Consolidated as in force on 1 September 1999
+Consolidated as in force on 22 June 1999
 (includes amendments up to Act No. 7 of 1999)
+This Act has uncommenced provisions and amendments For uncommenced provisions and amendments see the endnotes
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, CanberraContents
 Part I—Preliminary	2
 1	Short title [see Note 1]	2
@@ -30,70 +31,70 @@ Division 2—Constitution and Membership of Legislative Assembly	9
 19	Filling of casual vacancy	11
 20	Qualifications for election	11
 21	Disqualifications for membership of Legislative Assembly	11
-Division 3—Procedure of Legislative Assembly	14
-22	Sessions of Legislative Assembly	14
-23	Quorum	14
-24	Election of Speaker	14
-25	Acting Speaker—appointment by Legislative Assembly	15
-26	Acting Speaker—appointment by Administrator	15
-27	Voting in Legislative Assembly	17
-28	Validation of acts of Legislative Assembly	17
-29	Minutes of proceedings	17
-30	Standing rules and orders	17
-Part IV—The Administration	18
-31	Extent of executive power	18
-32	Office of Administrator	18
-33	The Executive Council	18
-34	Ministerial offices	19
-35	Transfer of functions to Executive	19
-36	Appointment of Ministers	19
-37	Tenure of office	19
-38	Oath to be taken by Member of Council and Minister	20
-40	Acting Administrator	20
-41	Deputies of Administrator	21
-42	Oath to be taken by Administrator etc.	21
-Part V—Finance	22
-43	Interpretation	22
-44	Public moneys	22
-45	Withdrawals of public moneys	22
-46	Borrowing from Commonwealth	22
-48	Commonwealth Auditor-General may audit Territory accounts	23
-Part VI—Miscellaneous	24
-49	Trade and commerce with States to be free	24
-50	Acquisition of property to be on just terms	24
-50A	Laws concerning euthanasia	24
-51	Acts that bind States to bind Northern Territory	25
-52	Application of Secret Commissions Act	25
-53	Application of Workplace Relations Act 1996	25
-54	Power to confer jurisdiction on Remuneration Tribunal in relation to members etc.	27
-55	Regulations	27
-Part VII—Transitional Provisions	28
-56	Interpretation	28
-57	Continuance of laws	28
-58	Administrator etc. to continue in office	29
-59	Legislative Assembly etc. to continue	29
-60	Functions performed by Legislative Assembly and Executive Council	30
-61	Functions performed by specified persons	30
-63	Sessions of Legislative Assembly	30
-64	Quorum	31
-65	Remuneration and allowances	31
-66	Ordinances made but not assented to before commencing date	31
-67	References in other laws	31
-68	Certain provisions of previous Act to continue to operate	32
-69	Transfers of property etc.	32
-70	Acquisition of certain land etc.	33
-71	Contracts	35
-72	Commonwealth to indemnify Territory	36
-73	Validity of Ordinances	36
-74	Agency arrangements	36
-75	Regulations	36
-Schedule 1—Acts Repealed	38
-Schedule 2	39
-Schedule 3	40
-Schedule 4	41
-Schedule 5	42
-Schedule 6	43
-Notes 		45
+Division 3—Procedure of Legislative Assembly	13
+22	Sessions of Legislative Assembly	13
+23	Quorum	13
+24	Election of Speaker	13
+25	Acting Speaker—appointment by Legislative Assembly	14
+26	Acting Speaker—appointment by Administrator	14
+27	Voting in Legislative Assembly	15
+28	 Validation of acts of Legislative Assembly	16
+29	Minutes of proceedings	16
+30	Standing rules and orders	16
+Part IV—The Administration	17
+31	Extent of executive power	17
+32	Office of Administrator	17
+33	The Executive Council	17
+34	Ministerial offices	18
+35	Transfer of functions to Executive	18
+36	Appointment of Ministers	18
+37	Tenure of office	18
+38	Oath to be taken by Member of Council and Minister	19
+40	Acting Administrator	19
+41	Deputies of Administrator	20
+42	Oath to be taken by Administrator etc.	20
+Part V—Finance	21
+43	Interpretation	21
+44	Public moneys	21
+45	Withdrawals of public moneys	21
+46	Borrowing from Commonwealth	21
+48	Commonwealth Auditor-General may audit Territory accounts	21
+Part VI—Miscellaneous	23
+49	Trade and commerce with States to be free	23
+50	Acquisition of property to be on just terms	23
+50A	Laws concerning euthanasia	23
+51	Acts that bind States to bind Northern Territory	24
+52	Application of Secret Commissions Act	24
+53	Application of Workplace Relations Act 1996	24
+54	Power to confer jurisdiction on Remuneration Tribunal in relation to members etc.	26
+55	Regulations	26
+Part VII—Transitional Provisions	27
+56	Interpretation	27
+57	Continuance of laws	27
+58	Administrator etc. to continue in office	28
+59	Legislative Assembly etc. to continue	28
+60	Functions performed by Legislative Assembly and Executive Council	29
+61	Functions performed by specified persons	29
+63	Sessions of Legislative Assembly	29
+64	Quorum	30
+65	Remuneration and allowances	30
+66	Ordinances made but not assented to before commencing date	30
+67	References in other laws	30
+68	Certain provisions of previous Act to continue to operate	31
+69	Transfers of property etc.	31
+70	Acquisition of certain land etc. [see Note 2]	32
+71	Contracts	34
+72	Commonwealth to indemnify Territory	35
+73	 Validity of Ordinances	35
+74	Agency arrangements	35
+75	Regulations	35
+Schedule 1—Acts Repealed	36
+Schedule 2	37
+Schedule 3	38
+Schedule 4	39
+Schedule 5	40
+Schedule 6	41
+Notes 		43
 An Act to provide for the Government of the Northern Territory of Australia, and for related purposes
 	WHEREAS the Northern Territory Acceptance Act 1910 provided for the ratifying of an Agreement between the Commonwealth and the State of South Australia for the surrender to and acceptance by the Commonwealth of the Northern Territory and provided for the acceptance by the Commonwealth of the Northern Territory:
 	AND WHEREAS by the Constitution it is provided that the Parliament may make laws for the government of any Territory surrendered by any State to and accepted by the Commonwealth:
@@ -259,7 +260,7 @@ whichever first happens.
 27  Voting in Legislative Assembly
 	(1)	Questions arising in the Legislative Assembly shall be determined by a majority of votes.
 	(2)	Subject to subsection 21(3), the Speaker or other member presiding at any meeting of the Legislative Assembly shall in all cases be entitled to vote and shall also, where there is an equality of votes on any question, have a casting vote.
-28  Validation of acts of Legislative Assembly
+28   Validation of acts of Legislative Assembly
 		Where a person who has, whether before or after the commencement of this section, purported to sit or vote as a member of the Legislative Assembly at a meeting of the Legislative Assembly or of a Committee of the Legislative Assembly:
 	(a)	was not a duly elected member by reason of his not having been qualified for election or of any other defect in his election; or
 	(b)	had vacated his office as a member;
@@ -434,7 +435,7 @@ personal property does not include:
 being interests and property that, in the opinion of the Minister, were so held for the purposes of the Commonwealth in connexion with that matter.
 	(6)	Where an interest is transferred to the Territory under paragraph (5)(a), being an interest derived from a contract, the Territory is, by force of this section, substituted for the Commonwealth as a party to the contract.
 	(7)	The Commonwealth is not liable to pay to the Territory any duties, fees or other charges in respect of anything done under subsection (5).
-70  Acquisition of certain land etc. 
+70  Acquisition of certain land etc. [see Note 2]
 	(1)	The Minister may, from time to time, recommend to the Governor‑General that any interest in land vested or to be vested in the Territory by subsection 69(2) (including an interest less than, or subsidiary to, such an interest) be acquired from the Territory by the Commonwealth under this section.
 	(2)	The Governor-General may, on the recommendation of the Minister under subsection (1), authorize the acquisition of the interest for a public purpose approved by the Governor-General.
 	(3)	The Minister may cause to be published in the Gazette notice of the authorization by the Governor-General and, in the notice, declare that the interest is acquired under this section for the public purpose approved by the Governor-General.
@@ -444,7 +445,7 @@ being interests and property that, in the opinion of the Minister, were so held 
 to the intent that the legal estate in the interest, and all rights and powers incident to that estate or conferred by the Lands Acquisition Act 1989 in relation to that estate, are vested in the Commonwealth.
 	(5)	An interest that may be acquired under this section may be an interest that did not previously exist as such.
 	(6)	Upon the acquisition of an interest by the Commonwealth under this section, all interests that were held from the Territory immediately before the acquisition, being interests derived from the first-mentioned interest, are, by force of this section, held from the Commonwealth on the same terms and conditions as those on which they were held from the Territory.
-	(7)	The Secretary to the Department shall lodge with the registrar of titles of the Territory a copy of a notice published under this section, certified by writing signed by the Secretary.
+	(7)	The Secretary to the Attorney-General’s Department or a person authorized under subsection 55E(4) of the Judiciary Act 1903 shall lodge with the registrar of titles of the Territory a copy of a notice published under this section, certified by writing signed by the Secretary or by a person so authorized.
 	(8)	Upon the lodgment of a copy of a notice in accordance with subsection (7), the registrar of titles shall register the acquisition to which the notice relates in the manner as nearly as may be in which dealings with land are registered, and shall deal with and give effect to the copy of the notice as if it were a grant, conveyance, memorandum or instrument of transfer of the land or interest, as the case may be, to the Commonwealth duly executed under the laws in force in the Territory.
 	(9)	The Commonwealth is not liable to pay to the Territory:
 	(a)	any compensation in respect of an acquisition made under this section; or
@@ -464,7 +465,7 @@ other than a contract referred to in subsection 69(6).
 72  Commonwealth to indemnify Territory
 	(1)	The Commonwealth shall indemnify the Territory, and keep the Territory indemnified, against any action, claim or demand brought or made against the Territory in respect of any act done or omitted to be done by or on behalf of the Commonwealth, being an action, claim or demand that, but for the operation of this Act, could be brought or made against the Commonwealth.
 	(2)	The indemnification under subsection (1) extends to damages, expenses and costs arising from, connected with or consequential upon an action, claim or demand referred to in that subsection.
-73  Validity of Ordinances
+73   Validity of Ordinances
 		For the avoidance of doubt, it is hereby declared that an Ordinance made by the existing Legislative Assembly under the previous Act (including an Ordinance that was not assented to before the commencing date) is as valid as if it had been passed by the Legislative Assembly under this Act.
 74  Agency arrangements
 		The Minister may arrange with the Administrator for the Territory to perform functions on behalf of the Commonwealth or for the Commonwealth to perform functions on behalf of the Territory.
@@ -474,7 +475,7 @@ other than a contract referred to in subsection 69(6).
 	(3)	Regulations shall not be made under this section after 30 June 1979. 
 Schedule 1—Acts Repealed 
 Section 3
-Do not delete : Part placeholder
+
 Northern Territory (Administration) Act 1910 
 Northern Territory (Administration) Act 1926 
 Northern Territory (Administration) Act 1931 
@@ -503,44 +504,38 @@ Northern Territory (Administration) Act 1974
 Northern Territory (Administration) Amendment Act 1976 
 Schedule 2 
 Subsections 13(6) and 42(1)
-Do not delete : Part placeholder
 OATH 
 		I, A.B., do swear that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth, Her heirs and successors according to law: So help me God! 
 AFFIRMATION 
 		I, A.B., do solemnly and sincerely affirm and declare that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth, Her heirs and successors according to law. 
 Schedule 3
 Subsection 13(6) 
-Do not delete : Part placeholder
 OATH 
 		I, A.B., do swear that I will render true and faithful service as a member of the Legislative Assembly for the Northern Territory of Australia: So help me God! 
 AFFIRMATION 
 		I, A.B., do solemnly and sincerely promise and declare that I will render true and faithful service as a member of the Legislative Assembly for the Northern Territory of Australia. 
-Schedule 4
+Schedule 4 
 Subsection 38(1) 
-Do not delete : Part placeholder
 OATH 
 		I, A.B., do swear that, except as may be required by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my membership of the Executive Council of the Northern Territory of Australia: So help me God! 
 AFFIRMATION 
 		I, A.B., do solemnly and sincerely promise and declare that, except as may be required by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my membership of the Executive Council of the Northern Territory of Australia. 
-Schedule 5
+Schedule 5 
 Subsection 38(2) 
-Do not delete : Part placeholder
 OATH 
 		I, A.B., do swear that, except in the course of my duties or as may be required by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my holding Ministerial office: So help me God! 
 AFFIRMATION 
 		I, A.B., do solemnly and sincerely promise and declare that, except in the course of my duties or as may be required by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my holding Ministerial office. 
 Schedule 6
 Subsection 42(1) 
-Do not delete : Part placeholder
 OATH 
-		I, A.B., do swear that I will well and truly serve our Sovereign Lady the Queen in the office of Administrator (or Acting Administrator, or  Deputy Administrator) of the Northern Territory of Australia, and that I will do right to all manner of people according to law, without fear or favour, affection or ill‑will: So help me God! 
+		I, A.B., do swear that I will well and truly serve our Sovereign Lady the Queen in the office of Administrator (or Acting Administrator, or  Deputy Administrator) of the Northern Territory of Australia, and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will: So help me God! 
 AFFIRMATION 
 		I, A.B., do solemnly and sincerely promise and declare that I will well and truly serve our Sovereign Lady the Queen in the office of Administrator (or Acting Administrator, or Deputy Administrator) of the Northern Territory of Australia, and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will.
 Notes to the Northern Territory (Self-Government) Act 1978
-Note 1
 Preamble—The Northern Territory Supreme Court Act 1961 was repealed by the Northern Territory Supreme Court (Repeal) Act 1979 (No. 85, 1979).
 The Northern Territory (Self-Government) Act 1978 as shown in this consolidation comprises Act No. 58, 1978 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 27 March 1997 is not included in this consolidation. For subsequent information see Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 27 March 1997 is not included in this consolidation. For subsequent information see Table A.
 Table of Acts
 Act
 Number  and year
@@ -625,7 +620,7 @@ Sch. 1 (item 2) [see Table A]
 Judiciary Amendment Act 1999
 7, 1999
 31 March 1999
-Schedules 1-3 (items 28, 29): 1 Sept 1999 (see Gazette 1999, No. S395) Remainder: Royal Assent
+Schedule 3 (items 28, 29): (see (h) and Note 3)
 —
 (a)	The Northern Territory (Self-Government) Act 1978 was amended by section 3 only of the Australian Government Solicitor (Consequential Amendments) Act 1984, subsection 2(1) of which provides as follows:
 	(1)	Subject to subsection (2), this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day on which section 7 of the Judiciary Amendment Act (No. 2) 1984 comes into operation.
@@ -642,7 +637,9 @@ Schedules 1-3 (items 28, 29): 1 Sept 1999 (see Gazette 1999, No. S395) Rema
 (g)	The Workplace Relations and Other Legislation Amendment Act 1996 was amended by Schedule 3 (items 1, 2) only of the Workplace Relations and Other Legislation Amendment Act (No. 2) 1996, subsection 2(4) of which provides as follows:
 	(4)	The items of Schedule 3 are taken to have commenced immediately after the Workplace Relations and Other Legislation Amendment Act 1996 received the Royal Assent.
 	The Workplace Relations and Other Legislation Amendment Act 1996 received the Royal Assent on 25 November 1996.
-
+(h)	The Northern Territory (Self-Government) Act 1978 was amended by Schedule 3  (items 28 and, 29) only of the Judiciary Amendment Act 1999, subsections 2(2) and (3) of which provide as follows:
+	(2)	Subject to subsection (3), the items of Schedules 1, 2 and 3 commence on a day or days to be fixed by Proclamation.
+	(3)	If an item to which subsection (2) applies does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period. [see Note 3]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -688,13 +685,21 @@ am. No. 43, 1996
 S. 62	
 rep. No. 130, 1982
 S. 70	
-am. No. 130, 1982; No. 10, 1984; No. 21, 1989; No. 7, 1999
+am. No. 130, 1982; No. 10, 1984; No. 21, 1989
 S. 71	
 am. No. 130, 1982 
-Table A
+Note 2
+The Northern Territory (Self-Government) Act 1978 was amended by Schedule 3 (items 28 and, 29) only of the Judiciary Amendment Act 1999. The applicable provisions provide as follows: 
+28  Subsection 70(7)
+Omit all the words from and including “Secretary” to and including “Judiciary Act 1903”, substitute “Secretary to the Department”.
+29  Subsection 70(7)
+Omit “or by a person so authorized”.
+Subsections 2(2) and (3) of the Judiciary Amendment Act 1999 provide as follows:
+	“(2)	Subject to subsection (3), the items of Schedules 1, 2 and 3 commence on a day or days to be fixed by Proclamation.
+	(3)	If an item to which subsection (2) applies does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.”.
+As at 22 June 1999 no date had been fixed and the amendments are not incorporated in this consolidation.Table A
 Application, saving or transitional provisions
 Euthanasia Laws Act 1997 (No. 17, 1997)
-Schedule 1
 2  Application
 For the avoidance of doubt, the enactment of the Legislative Assembly called the Rights of the Terminally Ill Act 1995 has no force or effect as a law of the Territory, except as regards the lawfulness or validity of anything done in accordance therewith prior to the commencement of this Act.
 
