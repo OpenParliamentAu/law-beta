@@ -1,8 +1,7 @@
 
 Petroleum Excise (Prices) Act 1987
 Act No. 149 of 1987 as amended
-This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 137 of 2000
-The text of any of those amendments not in force on that date is appended in the Notes section
+This compilation was prepared on 10 February 2000  taking into account amendments up to Act No. 146, 1999
 Prepared by the Office of Legislative Drafting Attorney‑General’s Department, Canberra
   
   
@@ -13,7 +12,7 @@ Part I—Preliminary	1
 2	Commencement [see Note 1]	1
 3	Incorporation	1
 4	Interpretation	1
-Part II—Determination of prices	5
+Part II—Determination of Prices	5
 6	Oil producers to give certain information	5
 7	Minister etc. to determine VOLWARE prices	7
 8	Notification of prices	11
@@ -23,8 +22,9 @@ Part III—Miscellaneous	12
 11	Conduct by directors, servants or agents	14
 12	Review of certain decisions	15
 13	Statements to accompany notification of reviewable decisions	16
-14	Regulations	16
-Notes		17
+14	Regulations	17
+Notes		19
+
 An Act to establish prices in relation to which Duties of Excise are to be imposed on certain crude petroleum oil, and for related purposes
 Part I—Preliminary
   
@@ -67,7 +67,7 @@ VOLWARE price means an interim VOLWARE price or a final VOLWARE price.
 	(2)	Where an oil producer of a quantity of excisable crude petroleum oil does not sell the oil but enters into a transaction under which another person takes, or is intended to take, possession of the oil (whether or not ownership in the oil passes, or is intended to pass, to another person) the Minister, or a person appointed or engaged under the Public Service Act 1999 authorised by the Minister to exercise the Minister’s powers under this subsection, may, by instrument in writing, fix a transaction price in respect of that oil (being a transaction price that he or she considers to be fair and reasonable having regard to the terms of the transaction).
 	(3)	Where the Minister or authorised person fixes a price for a transaction under subsection (2), he or she shall notify the oil producer in writing of the fixing of the price, giving reasons for it.
 
-Part II—Determination of prices
+Part II—Determination of Prices
   
 6  Oil producers to give certain information
 	(1)	An oil producer of excisable crude petroleum oil entered for home consumption during a particular month shall, in respect of each transaction entered into by the producer concerning that oil, give to the Minister such information as is prescribed.
@@ -98,6 +98,7 @@ Note:	Subsection (4) of section 6B, 6C or 6D of the Excise Tariff Act 1921 speci
 	(a)	the form in which the information is to be given; and
 	(b)	the times within which the information is, or parts of the information are, to be given;
 and the oil producer shall give the information accordingly.
+	(3)	A person shall not, in purported compliance with this section, knowingly or recklessly give information that is false or misleading in a material particular.
 Penalty:	
 	(a)	in the case of a natural person—$2,000 or imprisonment for 12 months, or both; or
 	(b)	in the case of a body corporate—$10,000.
@@ -150,11 +151,15 @@ Penalty:	$1,000.
 	(3)	The oath to be taken or affirmation to be made by a person for the purposes of this section is an oath or affirmation that the information or answers that the person will give will be true.
 	(4)	A person is not excused from furnishing information or producing a document, when required to do so under this section, on the grounds that furnishing the information or producing the document might tend to incriminate the person or make the person liable to a penalty.
 	(5)	A person is not excused from answering a question, when required to do so under this section, on the grounds that the answer to the question might tend to incriminate the person or make the person liable to a penalty.
-	(6)	A statement or disclosure made in information furnished, an answer given, or a document produced by a person, in accordance with a requirement made of the person under this section, and any information, document or thing obtained as a direct or indirect consequence of that statement or disclosure, is not admissible against a person in any criminal proceedings except a proceeding for an offence against section 137.1 of the Criminal Code that relates to this section.
+	(6)	A statement or disclosure made in information furnished, an answer given, or a document produced by a person, in accordance with a requirement made of the person under this section, and any information, document or thing obtained as a direct or indirect consequence of that statement or disclosure, is not admissible against a person in any criminal proceedings except a proceeding for an offence against subsection (8).
 	(7)	A person shall not fail to comply with a requirement made of the person under this section.
 Penalty:	
 	(a)	in the case of a natural person—$1,000 or imprisonment for 6 months, or both; or
 	(b)	in the case of a body corporate—$5,000.
+	(8)	A person shall not, in purported compliance with a requirement made of the person under this section, knowingly or recklessly give information that is false or misleading in a material particular.
+Penalty:	
+	(a)	in the case of a natural person—$2,000 or imprisonment for 12 months, or both; or
+	(b)	in the case of a body corporate—$10,000.
 11  Conduct by directors, servants or agents
 	(1)	Where it is necessary, for the purposes of this Act, to establish the state of mind of a body corporate in respect of conduct engaged in, or deemed by subsection (2) to have been engaged in, by the body corporate, it is sufficient to show that a director, servant or agent of the body corporate, being a director, servant or agent by whom the conduct was engaged in within the scope of his or her actual or apparent authority, had that state of mind.
 	(2)	Any conduct engaged in on behalf of a body corporate:
@@ -219,13 +224,8 @@ Sch. 1 (item 11) [see Table A]
 Public Employment (Consequential and Transitional) Amendment Act 1999
 146, 1999
 11 Nov 1999
-Schedule 1 (item 731): 5 Dec 1999 (see Gazette 1999, No. S584) (a)
+Schedule 1(item 731): 5 Dec 1999 (see Gazette 1999, No. S584) (a)
 —
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
-137, 2000
-24 Nov 2000
-Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
-Sch. 2 (items 418, 419) [see Table A]
 
 (a)	The Petroleum Excise (Prices) Act 1987 was amended by Schedule 1 (Item 731) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
@@ -241,13 +241,13 @@ am. No. 114, 1990
 
 rep. No. 79, 1997
 S. 6	
-am. No. 79, 1997; No. 137, 2000
+am. No. 79, 1997
 S. 7	
 am. No. 114, 1990; No. 79, 1997
 S. 8	
 am. No. 79, 1997
 S. 10	
-am. No. 115, 1988; No. 137, 2000
+am. No. 115, 1988
 
 Table A
 Application, saving or transitional provisions
@@ -258,20 +258,4 @@ Schedule 1
 (2)	In this item:
 commencement day means the day on which this Act commences.
 excisable crude petroleum oil, oil producing region and month have the same meanings as in subsection 4(1) of the Petroleum Excise (Prices) Act 1987 as in force immediately before the commencement day.
-
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-Schedule 2
-418  Transitional—pre‑commencement offences
-(1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-	(a)	an offence committed before the commencement of this item; or
-	(b)	proceedings for an offence alleged to have been committed before the commencement of this item; or
-	(c)	any matter connected with, or arising out of, such proceedings;
-as if the amendment or repeal had not been made.
-(2)	Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-419  Transitional—pre‑commencement notices
-If:
-	(a)	a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-	(b)	any or all of those other provisions are repealed by this Schedule; and
-	(c)	the first‑mentioned provision is amended by this Schedule;
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
