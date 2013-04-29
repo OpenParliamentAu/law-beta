@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image001.gif)
 
 # Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Act 2004
 
 **Act No. 135 of 2004 as amended**
 
-This compilation was prepared on 9 July 2007
- taking into account amendments up to Act No. 120 of 2007
+This compilation was prepared on 12 April 2007
+ taking into account amendments up to Act No. 46 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -234,8 +234,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [77](#77).          Application of Subdivision G—special schools and special assistance schools
 
-[77A](#77A).       Application of Subdivision I—remoteness per capita loading
-
         **Subdivision C—Current SES funding**
 
 [78](#78).          Authorising payments for non-systemic schools
@@ -289,14 +287,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [97](#97).          Primary distance education student amount
 
 [98](#98).          Secondary distance education student amount
-
-        **Subdivision I—Remoteness per capita loading**
-
-[98A](#98A).       Authorising payments
-
-[98B](#98B).       Primary student amount
-
-[98C](#98C).       Secondary student amount
 
     **Division 3—Capital grants**
 
@@ -478,8 +468,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 2—ESL new arrivals amount** 
 
-**Part 3—ESL new arrivals humanitarian amount** 
-
 **Schedule 9—Grants for literacy, numeracy and special learning needs** 
 
 **Part 1—Grants for literacy, numeracy and special learning needs** 
@@ -614,12 +602,6 @@ provided by the Government of the State in which the child or student resides.
 
                     <a name="educ-english-second-languag-elig-new-arriv"></a>**_education in English as a second language for eligible new arrivals_** means education that is provided for the purpose of teaching the English language to eligible new arrivals by means of intensive instruction.
 
-                    <a name="elig-humanitarian-new-arriv"></a>**_eligible humanitarian new arrival_** means a person:
-
-                     (a)  who is an eligible new arrival; and
-
-                     (b)  who holds a visa that is specified in a determination made by the Minister for the purposes of this paragraph.
-
                     <a name="elig-new-arriv"></a>**_eligible new arrival_** means a person:
 
                      (a)  whose first language is not English; and
@@ -644,8 +626,6 @@ provided by the Government of the State in which the child or student resides.
 
                     <a name="esl-new-arriv-amount"></a>**_ESL new arrivals amount_**, for a program year, means the amount in Part 2 of Schedule 8 for the program year.
 
-                    <a name="esl-new-arriv-humanitarian-amount"></a>**_ESL new arrivals humanitarian amount_**, for a program year, means the amount in Part 3 of Schedule 8 for the program year.
-
                     <a name="former-act"></a>**_former Act_** means the _States Grants (Primary and Secondary Education Assistance) Act 2000_.
 
                     <a name="fund-level"></a>**_funding level_** has the meaning given by section 6.
@@ -667,14 +647,6 @@ provided by the Government of the State in which the child or student resides.
                     <a name="list-non-govern-school"></a>**_list of non-government schools_** means the list of non-government schools kept under section 47.
 
                     <a name="locat-propos"></a>**_location proposal_** has the meaning given by subsection 60(2).
-
-                    <a name="moder-access-school-campu"></a>**_moderately accessible school campus_**: a school campus of a non-government school is a moderately accessible school campus of a non-government school in a State for a program year if the school campus, on either or both of the following days:
-
-                     (a)  the school campus census day for the school campus in the previous program year;
-
-                     (b)  the school campus census day for the school campus in the program year;
-
-was, or is, in a location that is categorised under the Remoteness Structure as Outer Regional Australia.
 
                     <a name="new-school-propos"></a>**_new school proposal_** has the meaning given by subsection 60(4).
 
@@ -746,25 +718,7 @@ Note:          **_APS employee_** is defined in the _Acts Inte
 
                     <a name="relev-minist"></a>**_relevant Minister_**, in relation to a provision of the former Act, means (except in a reference to a State Minister) the Minister who administered that provision.
 
-                    <a name="remot-structur"></a>**_Remoteness Structure_** means the Remoteness Structure described in the document entitled “Statistical Geography Volume 1 Australian Standard Geographical Classification (ASGC) 2001”, published by the Australian Statistician in September 2001, that was effective 1 July 2001.
-
-                    <a name="remot-school-campu"></a>**_remote school campus_**: a school campus of a non-government school is a remote school campus of a non-government school in a State for a program year if the school campus, on either or both of the following days:
-
-                     (a)  the school campus census day for the school campus in the previous program year;
-
-                     (b)  the school campus census day for the school campus in the program year;
-
-was, or is, in a location that is categorised under the Remoteness Structure as Remote Australia.
-
                     <a name="school"></a>**_school_** includes a proposed school, but does not include a school at which education is provided at a standard (however described) that is pre-school standard only.
-
-                    <a name="school-campu"></a>**_school campus_**: a location is a school campus of a non-government school if the location is one at which students receive primary education or secondary education at the school.
-
-                    <a name="school-campu-censu-dai"></a>**_school campus census day_** means:
-
-                     (a)  for a school campus of a non-government school for a program year—the schools census day for the school for that program year; or
-
-                     (b)  for a school campus of a non-government school for a program year and in relation to which the Minister has, because of special circumstances, declared a particular day in that program year to be the school campus census day for the school campus for that program year—the day so declared.
 
                     <a name="school-censu-dai"></a>**_schools census day_**, for a State for a program year, means the day in that year (being a day as close as possible to 1 August in that year) that the State Minister notifies the Minister is the schools census day for the State for that year.
 
@@ -821,14 +775,6 @@ was, or is, in a location that is categorised under the Remoteness Structure as 
                     <a name="1992-act"></a>**_the 1992 Act_** means the _States Grants (Primary and Secondary Education Assistance) Act 1992_.
 
                     <a name="1996-act"></a>**_the 1996 Act_** means the _States Grants (Primary and Secondary Education Assistance) Act 1996_.
-
-                    <a name="remot-school-campu"></a>**_very remote school campus_**: a school campus of a non-government school is a very remote school campus of a non-government school in a State for a program year if the school campus, on either or both of the following days:
-
-                     (a)  the school campus census day for the school campus in the previous program year;
-
-                     (b)  the school campus census day for the school campus in the program year;
-
-was, or is, in a location that is categorised under the Remoteness Structure as Very Remote Australia.
 
                     <a name="year-2000-fund-level"></a>**_year 2000 funding level_**, for a school, means the percentage of AGSRC in column 1 of the table in each of Parts 3 and 4 of Schedule 4 to the former Act that was used to determine amounts payable in respect of the school for the 2004 program year.
 
@@ -902,7 +848,7 @@ was, or is, in a location that is categorised under the Remoteness Structure as 
 
 for the purposes of the provision of this Act in which the expression appears.
 
-##### <a id="10"></a>10  Nominated authority
+##### <a id="10"></a>10  Nominated authority
 
                    A group of non-government schools may make a written nomination to the Secretary of the Department of a body to be the **_nominated authority_** of the group for the purposes of this Act or of a particular provision or particular provisions of this Act.
 
@@ -1756,11 +1702,9 @@ the Minister must:
 
                      (e)  determine a different current SES funding level for the school if, immediately before the Minister determined the new SES score, Subdivision C of Division 2 of Part 6 applied to the school; and
 
-                      (f)  determine a different current SES funding level for the school if, immediately before the Minister determined the new SES score, Subdivision D or E of Division 2 of Part 6 applied to the school; and
+                      (f)  determine a current SES funding level for the school if, immediately before the Minister determined the new SES score, Subdivision D or E of Division 2 of Part 6 applied to the school; and
 
-                     (g)  determine a different current SES funding level for the school if, immediately before the Minister determined the new SES score, Subdivision F of Division 2 of Part 6 applied to the school; and
-
-                    (ga)  determine a different current SES funding level for the school if, immediately before the Minister determined the new SES score, Subdivision G of Division 2 of Part 6 applied to the school; and
+                     (g)  determine a current SES funding level for the school if, immediately before the Minister determined the new SES score, Subdivision F of Division 2 of Part 6 applied to the school; and
 
                      (h)  make appropriate variations to the list of non-government schools.
 
@@ -1830,7 +1774,7 @@ Note:          Section 65 requires the Minister to give noti
 
 ### Division 5—Change in systemic status
 
-##### <a id="58"></a>58  Proposal for a non-systemic school to become a member of an approved school system
+##### <a id="58"></a>58  Proposal for a non-systemic school to become a member of an approved school system
 
              (1)  The approved authority of a non-systemic school may apply in writing to the Minister for approval of a proposal for the school to become a member of an approved school system.
 
@@ -2078,7 +2022,7 @@ but does not include a person, or a person included in a class of persons, deter
 
                    The Minister may make a determination authorising payment of financial assistance to a State for recurrent expenditure of government schools in the State for a program year of an amount that is not more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image002.gif)
 
 where:
 
@@ -2146,8 +2090,6 @@ Note:          The operation of sections 121, 122 and 123 
 
              (7)  Special schools and special assistance schools are dealt with under Subdivision G.
 
-          (7A)  Schools that will receive the remoteness per capita loading are dealt with under Subdivision I.
-
              (8)  The ceiling on funding is worked out using a series of per student amounts for different kinds of students at the school.
 
 #### Subdivision B—Application
@@ -2194,11 +2136,11 @@ School provides both primary and secondary education
 
              (4)  This subsection applies to a school if the school provides both primary and secondary education and the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image003.gif)
 
 exceeds the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image004.gif)
 
 where:
 
@@ -2333,18 +2275,6 @@ if:
 
              (2)  Subdivision G applies to the school whether or not the school is in an approved school system.
 
-##### <a id="77A"></a>77A  Application of Subdivision I—remoteness per capita loading
-
-                   Subdivision I applies to a school for a particular program year if:
-
-                     (a)  there are one or more school campuses of the school during the program year; and
-
-                     (b)  at least one of the school campuses is a moderately accessible school campus, a remote school campus, or a very remote school campus, for that program year; and
-
-                     (c)  Subdivision C, D, E, F or G applies to the school for that program year.
-
-Note:          Assistance under Subdivision I is in addition to the financial assistance that is available under Subdivision C, D, E, F or G.
-
 #### Subdivision C—Current SES funding
 
 ##### <a id="78"></a>78  Authorising payments for non-systemic schools
@@ -2393,7 +2323,7 @@ Note:          Assistance under Subdivision I is in addition t
 
                    For the purposes of paragraphs 78(2)(a) and 79(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image005.gif)
 
 where:
 
@@ -2403,7 +2333,7 @@ where:
 
                    For the purposes of paragraphs 78(3)(a) and 79(3)(a), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image006.gif)
 
 where:
 
@@ -2453,7 +2383,7 @@ where:
 
                    For the purposes of paragraphs 82(2)(a) and 83(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image007.gif)
 
 where:
 
@@ -2463,7 +2393,7 @@ where:
 
                    For the purposes of paragraphs 82(2)(b) and 83(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image008.gif)
 
 where:
 
@@ -2495,7 +2425,7 @@ where:
 
                    For the purposes of paragraph 86(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image009.gif)
 
 where:
 
@@ -2505,7 +2435,7 @@ where:
 
                    For the purposes of paragraphs 86(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image010.gif)
 
 where:
 
@@ -2559,13 +2489,13 @@ where:
 
                    For the purposes of paragraphs 89(2)(a) and 90(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image011.gif)
 
 ##### <a id="92"></a>92  Secondary student amount
 
                    For the purposes of paragraphs 89(3)(a) and 90(3)(a), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image012.gif)
 
 #### Subdivision G—Special schools and special assistance schools
 
@@ -2611,7 +2541,7 @@ where:
 
                    For the purposes of paragraphs 93(2)(a) and 94(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image013.gif)
 
 where:
 
@@ -2621,7 +2551,7 @@ where:
 
                    For the purposes of paragraphs 93(2)(b) and 94(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image014.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image014.gif)
 
 where:
 
@@ -2633,7 +2563,7 @@ where:
 
                    For the purposes of paragraphs 78(2)(b), 79(2)(b), 82(2)(c), 83(2)(c), 86(2)(c), 89(2)(b), 90(2)(b), 93(2)(c) and 94(2)(c), work out the amount for the school’s primary distance education students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image015.gif)
 
 where:
 
@@ -2643,103 +2573,11 @@ where:
 
                    For the purposes of paragraphs 78(3)(b), 79(3)(b), 82(2)(d), 83(2)(d), 86(2)(d), 89(3)(b), 90(3)(b), 93(2)(d) and 94(2)(d), work out the amount for the school’s secondary distance education students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image016.gif)
 
 where:
 
                     <a name="secondari-distanc-educ-amount"></a>**_secondary distance education amount_**, for the school for the program year, means the amount in the table in Part 2 of Schedule 4 for the program year and the funding level of 13.7% of AGSRC.
-
-#### Subdivision I—Remoteness per capita loading
-
-##### <a id="98A"></a>98A  Authorising payments
-
-             (1)  This section applies to a school in a State for a particular program year if this Subdivision applies to the school for that program year in accordance with section 77A.
-
-Note:          Assistance under this Subdivision is in addition to the financial assistance that is available under this Act.
-
-             (2)  The Minister may make a determination under this subsection authorising payment of financial assistance to the State for recurrent expenditure of the school for the program year of an amount not more than the amount worked out for the school by adding up:
-
-                     (a)  the amount worked out under subsection 98B(1) for the school’s primary students (if any) for the program year; and
-
-                     (b)  the amount worked out under subsection 98B(2) for the school’s primary students (if any) for the program year; and
-
-                     (c)  the amount worked out under subsection 98B(3) for the school’s primary students (if any) for the program year.
-
-             (3)  The Minister may make a determination under this subsection authorising payment of financial assistance to the State for recurrent expenditure of the school for the program year of an amount not more than the amount worked out for the school by adding up:
-
-                     (a)  the amount worked out under subsection 98C(1) for the school’s secondary students (if any) for the program year; and
-
-                     (b)  the amount worked out under subsection 98C(2) for the school’s secondary students (if any) for the program year; and
-
-                     (c)  the amount worked out under subsection 98C(3) for the school’s secondary students (if any) for the program year.
-
-##### <a id="98B"></a>98B  Primary student amount
-
-             (1)  For the purposes of paragraph 98A(2)(a), work out the amount for the school’s primary students for the program year using the formula:
-
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image017.gif)
-
-                   where:
-
-                    <a name="current-se-fund-level-primari-amount"></a>**_current SES funding level primary amount_**, for the school for the program year, means the amount in the table in Part 1 of Schedule 4 for the program year and the school’s current SES funding level.
-
-                    <a name="number-relev-primari-student"></a>**_number of relevant primary students_**, for the school for the program year, means the total number of students (including the full-time equivalent of part-time students) receiving primary education at a moderately accessible school campus of the school on the school campus census day for the school campus in the program year.
-
-             (2)  For the purposes of paragraph 98A(2)(b), work out the amount for the school’s primary students for the program year using the formula:
-
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image018.gif)
-
-                   where:
-
-                    <a name="current-se-fund-level-primari-amount"></a>**_current SES funding level primary amount_**, for the school for the program year, means the amount in the table in Part 1 of Schedule 4 for the program year and the school’s current SES funding level.
-
-                    <a name="number-relev-primari-student"></a>**_number of relevant primary students_**, for the school for the program year, means the total number of students (including the full-time equivalent of part-time students) receiving primary education at a remote school campus of the school on the school campus census day for the school campus in the program year.
-
-             (3)  For the purposes of paragraph 98A(2)(c), work out the amount for the school’s primary students for the program year using the formula:
-
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image019.gif)
-
-                   where:
-
-                    <a name="current-se-fund-level-primari-amount"></a>**_current SES funding level primary amount_**, for the school for the program year, means the amount in the table in Part 1 of Schedule 4 for the program year and the school’s current SES funding level.
-
-                    <a name="number-relev-primari-student"></a>**_number of relevant primary students_**, for the school for the program year, means the total number of students (including the full-time equivalent of part-time students) receiving primary education at a very remote school campus of the school on the school campus census day for the school campus in the program year.
-
-             (4)  If an amount worked out under subsection (1), (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
-
-##### <a id="98C"></a>98C  Secondary student amount
-
-             (1)  For the purposes of paragraph 98A(3)(a), work out the amount for the school’s secondary students for the program year using the formula:
-
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image020.gif)
-
-                   where:
-
-                    <a name="current-se-fund-level-secondari-amount"></a>**_current SES funding level secondary amount_**, for the school for the program year, means the amount in the table in Part 2 of Schedule 4 for the program year and the school’s current SES funding level.
-
-                    <a name="number-relev-secondari-student"></a>**_number of relevant secondary students_**, for the school for the program year, means the total number of students (including the full-time equivalent of part-time students) receiving secondary education at a moderately accessible school campus of the school on the school campus census day for the school campus in the program year.
-
-             (2)  For the purposes of paragraph 98A(3)(b), work out the amount for the school’s secondary students for the program year using the formula:
-
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image021.gif)
-
-                   where:
-
-                    <a name="current-se-fund-level-secondari-amount"></a>**_current SES funding level secondary amount_**, for the school for the program year, means the amount in the table in Part 2 of Schedule 4 for the program year and the school’s current SES funding level.
-
-                    <a name="number-relev-secondari-student"></a>**_number of relevant secondary students_**, for the school for the program year, means the total number of students (including the full-time equivalent of part-time students) receiving secondary education at a remote school campus of the school on the school campus census day for the school campus in the program year.
-
-             (3)  For the purposes of paragraph 98A(3)(c), work out the amount for the school’s secondary students for the program year using the formula:
-
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image022.gif)
-
-                   where:
-
-                    <a name="current-se-fund-level-secondari-amount"></a>**_current SES funding level secondary amount_**, for the school for the program year, means the amount in the table in Part 2 of Schedule 4 for the program year and the school’s current SES funding level.
-
-                    <a name="number-relev-secondari-student"></a>**_number of relevant secondary students_**, for the school for the program year, means the total number of students (including the full-time equivalent of part-time students) receiving secondary education at a very remote school campus of the school on the school campus census day for the school campus in the program year.
-
-             (4)  If an amount worked out under subsection (1), (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
 
 ### Division 3—Capital grants
 
@@ -2771,7 +2609,7 @@ Note:          Assistance under this section is in addition to
 
              (2)  The amount determined under subsection (1) for the funded hostel and the program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image023.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image017.gif)
 
 where:
 
@@ -2817,7 +2655,7 @@ Maximum amount
 
              (4)  The amount under subsection (1) or (2) for a program year in relation to a school must not exceed the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image024.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image018.gif)
 
 where:
 
@@ -2917,13 +2755,11 @@ Note:          Section 111 sets a ceiling on grants to the S
 
              (2)  However, the total amount authorised to be paid to a State under subsection (1) for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image025.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image019.gif)
 
 where:
 
-                    <a name="number-elig-humanitarian-new-arriv-govern-school"></a>**_number of eligible humanitarian new arrivals in government schools_** means the number of eligible humanitarian new arrivals enrolled in ESL courses, in the State, described in subsection (1).
-
-                    <a name="number-elig-new-arriv-govern-school"></a>**_number of eligible new arrivals in government schools_** means the number of eligible new arrivals, other than eligible humanitarian new arrivals, enrolled in ESL courses, in the State, described in subsection (1).
+                    <a name="number-elig-new-arriv-govern-school"></a>**_number of eligible new arrivals in government schools_** means the number of eligible new arrivals enrolled in ESL courses, in the State, described in subsection (1).
 
 ##### <a id="114"></a>114  Grants for teaching English as a second language in non-government schools
 
@@ -2935,13 +2771,11 @@ where:
 
              (2)  However, the total amount paid to a State under subsection (1) for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image026.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image020.gif)
 
 where:
 
-                    <a name="number-elig-humanitarian-new-arriv-non-govern-school"></a>**_number of eligible humanitarian new arrivals in non-government schools_** means the number of eligible humanitarian new arrivals enrolled in ESL courses, in the State, described in subsection (1).
-
-                    <a name="number-elig-new-arriv-non-govern-school"></a>**_number of eligible new arrivals in non-government schools_** means the number of eligible new arrivals, other than eligible humanitarian new arrivals, enrolled in ESL courses, in the State, described in subsection (1).
+                    <a name="number-elig-new-arriv-non-govern-school"></a>**_number of eligible new arrivals in non-government schools_** means the number of eligible new arrivals enrolled in ESL courses, in the State, described in subsection (1).
 
 ## Part 10—Literacy, numeracy and special learning needs
 
@@ -2977,7 +2811,7 @@ in the State to improve the learning outcomes of students who are educationally 
 
              (2)  The total amount authorised to be paid to the States under this section for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image027.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image021.gif)
 
 where:
 
@@ -2991,7 +2825,7 @@ where:
 
              (2)  The total amount authorised to be paid to the States under this section for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image028.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image022.gif)
 
 where:
 
@@ -3065,7 +2899,7 @@ in the State to improve the learning outcomes of students who are educationally 
 
 ### Division 1—Average Government School Recurrent Costs
 
-##### <a id="121"></a>121  Changes to Average Government School Recurrent Costs
+##### <a id="121"></a>121  Changes to Average Government School Recurrent Costs
 
              (1)  The regulations may provide that an amount specified in the regulations for a program year replaces an amount in Schedule 1 for the program year.
 
@@ -3083,7 +2917,7 @@ in the State to improve the learning outcomes of students who are educationally 
 
              (2)  The amount in Schedule 2 for primary education for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image029.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image023.gif)
 
 where:
 
@@ -3091,9 +2925,9 @@ where:
 
              (3)  Each amount opposite a percentage of AGSRC in Parts 1 and 3 of Schedule 4 for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image030.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image024.gif)
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image031.gif)          (4)  If an amount worked out under subsection (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image025.gif)          (4)  If an amount worked out under subsection (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
 
 ##### <a id="123"></a>123  Changes to amounts for secondary education
 
@@ -3101,7 +2935,7 @@ where:
 
              (2)  The amount in Schedule 2 for secondary education for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image032.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image026.gif)
 
 where:
 
@@ -3109,7 +2943,7 @@ where:
 
              (3)  Each amount opposite a percentage of AGSRC in Parts 2 and 4 of Schedule 4 for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image033.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image027.gif)
 
              (4)  If an amount worked out under subsection (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
 
@@ -3149,15 +2983,13 @@ where:
 
                      (c)  an amount in the table in Part 2 of Schedule 8 for a program year;
 
-                    (ca)  an amount in the table in Part 3 of Schedule 8 for a program year;
-
                      (d)  an amount in column 2, 4 or 6 of the table in Part 1 of Schedule 9 for a program year;
 
                      (e)  an amount in the table in Part 2 of Schedule 9 for a program year;
 
 is replaced for the program year by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image034.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image028.gif)
 
 where:
 
@@ -3187,7 +3019,7 @@ where:
 
 for a program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00446/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image035.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image029.gif)
 
 where:
 
@@ -3303,11 +3135,7 @@ where:
 
                              (ii)  a school in the approved school system;
 
-                            either:
-
-                            (iii)  obtains a higher funding level for the purposes of meeting recurrent expenditure than, in the Minister’s opinion, the school may have obtained if the statement had not been made; or
-
-                            (iv)  obtains a larger amount under Subdivision I of Division 2 of Part 6 than, in the Minister’s opinion, the school may have obtained if the statement had not been made.
+                            obtains a higher funding level for the purposes of meeting recurrent expenditure than, in the Minister’s opinion, the school may have obtained if the statement had not been made.
 
              (2)  The Minister may make a determination varying the list of non-government schools by setting out:
 
@@ -4071,7 +3899,7 @@ Note 2:       Amounts for program years 2009, 2010 and 2011 will be 
 
 # Schedule 4—General recurrent grants for non-government schools
 
-_Note:       See sections 4, 78 to 88, 93 to 96, 98A to 98C and 144 to 147._
+_Note:       See sections 4, 78 to 88, 93 to 96 and 144 to 147._
 
 ## Part 1—Current SES funding for primary education
 
@@ -7558,87 +7386,6 @@ Note:          The operation of sections 123A and 124 may 
 
 Note:          The operation of section 124 may affect the amount of the grants.
 
-## Part 3—ESL new arrivals humanitarian amount
-
-<table>
-<colgroup>
-  <col width="14%">
-  <col width="43%">
-  <col width="43%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div><b>ESL new arrivals humanitarian amount</b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>
-        <b>Column 1</b>
-      </div>
-      <div>Program year</div>
-    </td>
-    <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-      <div>Amount</div>
-      <div>($)</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>2005</div>
-  </td>
-  <td>
-    <div>0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>2006</div>
-  </td>
-  <td>
-    <div>0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>2007</div>
-  </td>
-  <td>
-    <div>0</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>2008</div>
-  </td>
-  <td>
-    <div>9,708</div>
-  </td>
-</tr></table>
-
-Note:          The operation of section 124 may affect the amount of the grants.
-
 # Schedule 9—Grants for literacy, numeracy and special learning needs
 
 _Note:       See sections 115 to 120._
@@ -7918,8 +7665,6 @@ Note:          The operation of section 124 may affect the
 
 The _Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Act 2004_ as shown in this compilation comprises Act No. 135, 2004 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
@@ -8021,23 +7766,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment (2007 Budget Measures) Act 2007</div>
-  </td>
-  <td>
-    <div>120, 2007</div>
-  </td>
-  <td>
-    <div>28 June 2007</div>
-  </td>
-  <td>
-    <div>28 June 2007</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 15)</div>
   </td>
 </tr></table>
 
@@ -8165,7 +7893,7 @@ _(a)_     Subsection 2(1) (item 3) of the _Schools Assistance (Learnin
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 29, 2006; No. 120, 2007</div>
+    <div>am. No. 29, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8282,22 +8010,6 @@ _(a)_     Subsection 2(1) (item 3) of the _Schools Assistance (Learnin
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 7</b></div>
   </td>
   <td>
@@ -8365,7 +8077,7 @@ _(a)_     Subsection 2(1) (item 3) of the _Schools Assistance (Learnin
     <div>S. 71</div>
   </td>
   <td>
-    <div>am. No. 29, 2006; No. 120, 2007</div>
+    <div>am. No. 29, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8402,14 +8114,6 @@ _(a)_     Subsection 2(1) (item 3) of the _Schools Assistance (Learnin
 </tr>
 <tr>
   <td>
-    <div>S. 77A</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Subdivision G</b></div>
   </td>
   <td>
@@ -8427,31 +8131,6 @@ Div. 2 of Part 6</div>
 </tr>
 <tr>
   <td>
-    <div><b>Subdivision I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subdiv. I of 
-Div. 2 of Part 6</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 98A–98C</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 3</b></div>
   </td>
   <td>
@@ -8464,22 +8143,6 @@ Div. 2 of Part 6</div>
   </td>
   <td>
     <div>am. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 113, 114</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2007</div>
   </td>
 </tr>
 <tr>
@@ -8524,34 +8187,10 @@ Div. 2 of Part 6</div>
 </tr>
 <tr>
   <td>
-    <div>S. 124</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 125</div>
   </td>
   <td>
     <div>rep. No. 29, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 132</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2007</div>
   </td>
 </tr>
 <tr>
@@ -8568,22 +8207,6 @@ Div. 2 of Part 6</div>
   </td>
   <td>
     <div>am. Nos. 29 and 117, 2006; No. 46, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to Schedule 4</div>
-  </td>
-  <td>
-    <div>am. No. 120, 2007</div>
   </td>
 </tr>
 <tr>
@@ -8631,7 +8254,7 @@ Div. 2 of Part 6</div>
     <div>Schedule 8</div>
   </td>
   <td>
-    <div>am. No. 29, 2006; No. 120, 2007</div>
+    <div>am. No. 29, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8650,18 +8273,5 @@ Div. 2 of Part 6</div>
     <div>am. No. 29, 2006; No. 46, 2007</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment (2007 Budget Measures) Act 2007
- (No. 120, 2007)_
-
-## Schedule 2
-
-## 15  Application
-
-The amendments made by this Schedule apply to a school for the 2008 program year and later program years.
 
  
