@@ -1,174 +1,172 @@
-![](http://www.comlaw.gov.au/Details/C2006C00318/Html/15E0D40F20F6D9F5CA25719900831B79/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00008/Html/image001.gif)
 
 # Disability Services Act 1986
 
 **Act No. 129 of 1986 as amended**
 
-This compilation was prepared on 1 July 2006
-taking into account amendments up to Act No. 154 of 2005
+This compilation was prepared on 21 December 2005
+ taking into account amendments up to Act No. 154 of 2005
 
 The text of any of those amendments not in force
-on that date is appended in the Notes section
+ on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
+ affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
-
+ Attorney-General’s Department, Canberra
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Objects
+[3](#3).            Objects                                                                                                 1
 
-[3A](#3A).         Application of the _Criminal Code_
+[3A](#3A).         Application of the _Criminal Code_                                                       2
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       2
 
-[5](#5).            Principles, objectives and guidelines
+[5](#5).            Principles, objectives and guidelines                                                    3
 
-[5A](#5A).         Standards for the provision of certain services and programs
+[5A](#5A).         Standards for the provision of certain services and programs             3
 
-[6](#6).            Extension of Act to certain external Territories
+[6](#6).            Extension of Act to certain external Territories                                   4
 
 **Part IA—Accreditation and certification for the purposes of certain services and programs**
 
-[6A](#6A).         Definitions
+[6A](#6A).         Definitions                                                                                           5
 
-[6B](#6B).         Secretary may approve accrediting authorities
+[6B](#6B).         Secretary may approve accrediting authorities                                    6
 
-[6C](#6C).         Accrediting authority may grant accreditation to certification bodies
+[6C](#6C).         Accrediting authority may grant accreditation to certification bodies 6
 
-[6D](#6D).         Accredited certification body may give certificates of compliance to States or eligible organisations
+[6D](#6D).         Accredited certification body may give certificates of compliance to States or eligible organisations    7
 
-[6E](#6E).          Accredited certification body may give certificates of compliance to providers of rehabilitation programs
+[6E](#6E).          Accredited certification body may give certificates of compliance to providers of rehabilitation programs           8
 
 **Part II—Funding of services for persons with disabilities** 
 
     **Division 1—General**
 
-[7](#7).            Interpretation
+[7](#7).            Interpretation                                                                                     10
 
-[8](#8).            Target group etc 
+[8](#8).            Target group etc                                                                                 14
 
-[9](#9).            Approval of additional eligible services
+[9](#9).            Approval of additional eligible services                                             15
 
-[9A](#9A).         Approval of additional employment services
+[9A](#9A).         Approval of additional employment services                                   15
 
     **Division 2—Grants for eligible services and research and development activities**
 
-[10](#10).          Financial assistance for eligible services
+[10](#10).          Financial assistance for eligible services                                            16
 
-[12](#12).          Financial assistance for research and development activities
+[12](#12).          Financial assistance for research and development activities            18
 
     **Division 2A—Grants for employment services** 
 
         **Subdivision A—Transitional grants**
 
-[12AA](#12AA).    Application of Subdivision
+[12AA](#12AA).    Application of Subdivision                                                                21
 
-[12AB](#12AB).    Transitional financial assistance for employment services
+[12AB](#12AB).    Transitional financial assistance for employment services                22
 
         **Subdivision B—Grants (other than transitional grants)**
 
-[12AC](#12AC).    Application of Subdivision
+[12AC](#12AC).    Application of Subdivision                                                                23
 
-[12AD](#12AD).    Financial assistance for employment services
+[12AD](#12AD).    Financial assistance for employment services                                   23
 
         **Subdivision C—Provisions applicable in respect of all grants under this Division**
 
-[12AE](#12AE).     Ancillary provisions relating to grants in respect of employment services
+[12AE](#12AE).     Ancillary provisions relating to grants in respect of employment services             25
 
     **Division 3A—Disability Standards Review Panels**
 
-[14B](#14B).       Establishment
+[14B](#14B).       Establishment                                                                                    27
 
-[14C](#14C).       Functions
+[14C](#14C).       Functions                                                                                           27
 
-[14D](#14D).       Powers
+[14D](#14D).       Powers                                                                                               28
 
-[14E](#14E).        Performance of a Disability Standards Review Panel’s functions
+[14E](#14E).        Performance of a Disability Standards Review Panel’s functions     28
 
-[14F](#14F).        Minister may make orders
+[14F](#14F).        Minister may make orders                                                                 28
 
     **Division 3B—Failure to meet applicable standards or hold certificate of compliance**
 
-[14G](#14G).       Declaration of failure to meet standards
+[14G](#14G).       Declaration of failure to meet standards                                            30
 
-[14GA](#14GA).    Declaration of failure to hold certificate
+[14GA](#14GA).    Declaration of failure to hold certificate                                            31
 
-[14H](#14H).       Certain matters to occur before Minister makes a declaration or takes action
+[14H](#14H).       Certain matters to occur before Minister makes a declaration or takes action        32
 
-[14J](#14J).        Information about Minister’s declaration may be made available to the public
+[14J](#14J).        Information about Minister’s declaration may be made available to the public      32
 
     **Division 4—Miscellaneous**
 
-[14K](#14K).       Review of services funded under Division 2, or Subdivision A of Division 2A, of Part II
+[14K](#14K).       Review of services funded under Division 2, or Subdivision A of Division 2A, of Part II     34
 
-[15](#15).          Agreements in respect of terms and conditions of grants
+[15](#15).          Agreements in respect of terms and conditions of grants                  34
 
-[16](#16).          Agreements may be entered into with transferees of land etc 
+[16](#16).          Agreements may be entered into with transferees of land etc           35
 
 **Part III—Provision of rehabilitation services by the Commonwealth** 
 
     **Division 1—General**
 
-[17](#17).          Interpretation
+[17](#17).          Interpretation                                                                                     37
 
-[18](#18).          Target group
+[18](#18).          Target group                                                                                      37
 
-[19](#19).          Exercise of powers
+[19](#19).          Exercise of powers                                                                             38
 
     **Division 2—Rehabilitation services**
 
-[20](#20).          Provision of rehabilitation programs
+[20](#20).          Provision of rehabilitation programs                                                 39
 
-[21](#21).          Restriction of rehabilitation programs to Australian citizens etc 
+[21](#21).          Restriction of rehabilitation programs to Australian citizens etc      40
 
-[21A](#21A).       How are rehabilitation programs ended?
+[21A](#21A).       How are rehabilitation programs ended?                                           41
 
-[22](#22).          Cost of rehabilitation programs
+[22](#22).          Cost of rehabilitation programs                                                         41
 
     **Division 3—Miscellaneous**
 
-[23](#23).          Recovery of costs of rehabilitation programs borne by the Commonwealth
+[23](#23).          Recovery of costs of rehabilitation programs borne by the Commonwealth          44
 
-[24](#24).          Training allowance and living-away-from-home allowance
+[24](#24).          Training allowance and living-away-from-home allowance               47
 
-[25](#25).          Arrangements for provision of rehabilitation programs
+[25](#25).          Arrangements for provision of rehabilitation programs                    48
 
-[26](#26).          Review of decisions under Part III
+[26](#26).          Review of decisions under Part III                                                    49
 
-[27](#27).          Power to obtain information etc 
+[27](#27).          Power to obtain information etc                                                        49
 
-[28](#28).          Secrecy
+[28](#28).          Secrecy                                                                                               51
 
-[29](#29).          Offences against secrecy provision indictable offences
+[29](#29).          Offences against secrecy provision indictable offences                     53
 
-[30](#30).          Time limit for institution of prosecutions
+[30](#30).          Time limit for institution of prosecutions                                         53
 
 **Part IV—Miscellaneous**
 
-[31](#31).          Principles etc  to be tabled in the Parliament and disallowable
+[31](#31).          Principles etc  to be tabled in the Parliament and disallowable         54
 
-[32](#32).          Principles etc  to be in writing
+[32](#32).          Principles etc  to be in writing                                                           55
 
-[33](#33).          Delegation by Minister
+[33](#33).          Delegation by Minister                                                                      55
 
-[34](#34).          Delegation by Secretary
+[34](#34).          Delegation by Secretary                                                                     55
 
-[35](#35).          Payments to be made out of appropriated money
+[35](#35).          Payments to be made out of appropriated money                            56
 
-[36](#36).          Regulations
+[36](#36).          Regulations                                                                                        56
 
 **Notes** 
-
 
 ## An Act relating to the provision of services for persons with disabilities
 
@@ -458,7 +456,7 @@ and, without limiting the generality of the above, includes a service of any of 
 
                      (e)  services that, immediately before 1 July 2002, were transitional services within the meaning of this Act as in force at that time;
 
-                      (f)  services that, immediately before 1 July 2002, were prescribed services within the meaning of this Act as in force at that time;
+                      (f)  services that, immediately before  1 July 2002, were prescribed services within the meaning of this Act as in force at that time;
 
                      (g)  services included in a class of services approved by the Minister under section 9A.
 
@@ -1136,11 +1134,15 @@ the Minister may, on the Commonwealth’s behalf, enter into an agreement with t
 
 ##### <a id="20"></a>20  Provision of rehabilitation programs
 
-             (1)  Subject to section 21, if:
+             (1)  Subject to section 21, if the Secretary is satisfied that the provision of a rehabilitation program for a person in the target group would:
 
-                     (a)  there are guidelines formulated under section 5 that relate to this section; and
+                     (a)  result in the person having a substantially increased capacity to:
 
-                     (b)  the Secretary is satisfied that the provision of a rehabilitation program for a person in the target group would comply with the guidelines;
+                              (i)  obtain or retain paid employment (whether or not the employment would be unsupported); or
+
+                             (ii)  live independently; and
+
+                     (b)  comply with guidelines (if any) formulated under section 5 that relate to this section;
 
 the Secretary may, on the Commonwealth’s behalf, approve the provision of the rehabilitation program for the person, together with any follow-up program that the Secretary considers necessary or desirable.
 
@@ -1190,11 +1192,19 @@ the Secretary may, on the Commonwealth’s behalf, approve the provision of the 
 
                      (a)  after that person requests the Secretary, in writing, to stop the provision of the program; or
 
-                     (b)  after the time determined by the Secretary under subsection (1A).
+                     (b)  after the Secretary determines that the continued provision of a rehabilitation program to the person would not further increase the person’s capacity to:
 
-          (1A)  The Secretary may determine that provision of a rehabilitation program must end after a specified time.
+                              (i)  obtain or retain paid employment (whether or not the employment would be unsupported); or
 
-             (2)  In making a determination under subsection (1A) the Secretary must comply with guidelines (if any) formulated under section 5 that relate to this section.
+                             (ii)  live independently; or
+
+                     (c)  after the Secretary determines that the person receiving the rehabilitation program is not making reasonable progress towards having a substantially increased capacity to:
+
+                              (i)  obtain or retain paid employment (whether or not the employment would be unsupported); or
+
+                             (ii)  live independently.
+
+             (2)  In making a determination the Secretary must comply with guidelines (if any) formulated under section 5 that relate to this section.
 
              (3)  The Secretary must cause a copy of the determination to be provided to the person within 14 days of the Secretary making the determination.
 
@@ -1314,7 +1324,7 @@ whichever is the lesser amount.
 
              (9)  Where the Secretary is satisfied that special circumstances exist by reason of which the whole or a part of an amount paid to, or recovered by, the Commonwealth by or from the person liable to pay compensation should be paid to the person entitled to receive compensation, the Secretary may make a payment accordingly.
 
-           (10)  This section binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
+           (10)  This section binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island.
 
            (11)  This section has effect, in relation to the Commonwealth or an authority of the Commonwealth, notwithstanding the provisions of any other Act.
 
@@ -1408,7 +1418,7 @@ the Secretary may, by notice served on the person, require the person:
 
              (4)  A person is not excused from furnishing information, producing a document or giving evidence pursuant to a notice under subsection (1) on the ground that the information or evidence, or the production of the document, may tend to incriminate the person, but any information furnished, document produced or evidence given pursuant to a notice under subsection (1), and any information or thing (including any document) obtained as a direct or indirect consequence of the furnishing of the information, production of the document or giving of the evidence, as the case may be, is not admissible in evidence against the person in any criminal proceedings, other than proceedings for an offence against subsection (3).
 
-             (5)  This section binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
+             (5)  This section binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island.
 
              (6)  This section does not require a person to furnish information, produce a document or give evidence to the extent that in doing so the person would contravene a law of the Commonwealth.
 
@@ -1526,7 +1536,7 @@ a person may be required:
 
              (3)  A delegation of a power by the Minister under subsection (1) does not prevent the exercise of the power by the Minister.
 
-##### <a id="34"></a>34  Delegation by Secretary
+##### <a id="34"></a>34  Delegation by Secretary
 
              (1)  The Secretary may, either generally or as otherwise provided in the instrument of delegation, by writing signed by the Secretary, delegate to an officer all or any of the powers of the Secretary under this Act, other than the power to give approvals under subsection 6B(1) and this power of delegation.
 
@@ -1547,7 +1557,6 @@ a person may be required:
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act;
 
 and, in particular, may make regulations prescribing fines not exceeding $1,000 for offences against the regulations.
-
 
 # Notes to the _Disability Services Act 1986_
 
@@ -1577,13 +1586,11 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year 
- </div>
+and year</div>
     </td>
     <td>
       <div>Date 
-of Assent 
- </div>
+of Assent</div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1593,376 +1600,368 @@ of Assent
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Disability Services Act 1986</div>
-    </td>
-    <td>
-      <div>129, 1986</div>
-    </td>
-    <td>
-      <div>9 Dec 1986</div>
-    </td>
-    <td>
-      <div>5 June 1987 ( <i>see Gazette</i>1986, 
-No. S110) 
-</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Employment, Education and Training Act 1988</div>
-    </td>
-    <td>
-      <div>80, 1988</div>
-    </td>
-    <td>
-      <div>24 June 1988</div>
-    </td>
-    <td>
-      <div>1 July 1988 ( <i>see Gazette</i>1988, 
-No. S190) 
-</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
-    </td>
-    <td>
-      <div>99, 1988</div>
-    </td>
-    <td>
-      <div>2 Dec 1988</div>
-    </td>
-    <td>
-      <div>2 Dec 1988</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Community Services and Health Legislation Amendment Act (No. 2) 1990</div>
-    </td>
-    <td>
-      <div>141, 1990</div>
-    </td>
-    <td>
-      <div>28 Dec 1990</div>
-    </td>
-    <td>
-      <div>Part 3 (ss. 11, 12): Royal Assent <i>(a)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Social Security (Rewrite) Transition Act 1991</div>
-    </td>
-    <td>
-      <div>70, 1991</div>
-    </td>
-    <td>
-      <div>25 June 1991</div>
-    </td>
-    <td>
-      <div><i>(b)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Veterans’ Entitlements (Rewrite) Transition Act 1991</div>
-    </td>
-    <td>
-      <div>73, 1991</div>
-    </td>
-    <td>
-      <div>25 June 1991</div>
-    </td>
-    <td>
-      <div>S. 21: 1 July 1991 <i>(c)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Health, Housing and Community Services Legislation Amendment Act 1992</div>
-    </td>
-    <td>
-      <div>88, 1992</div>
-    </td>
-    <td>
-      <div>30 June 1992</div>
-    </td>
-    <td>
-      <div>Part 2 (ss. 4–28): Royal Assent <i>(d)</i></div>
-    </td>
-    <td>
-      <div>Ss. 6(2) and 28</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Health and Community Services Legislation Amendment Act (No.2) 1993</div>
-    </td>
-    <td>
-      <div>76, 1993</div>
-    </td>
-    <td>
-      <div>25 Nov 1993</div>
-    </td>
-    <td>
-      <div>Part 2 (ss. 3–5): Royal Assent <i>(e)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Human Services and Health Legislation Amendment Act 1994</div>
-    </td>
-    <td>
-      <div>80, 1994</div>
-    </td>
-    <td>
-      <div>23 June 1994</div>
-    </td>
-    <td>
-      <div>Ss. 4 and 5: Royal Assent <i>(f)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
-    </td>
-    <td>
-      <div>164, 1994</div>
-    </td>
-    <td>
-      <div>16 Dec 1994</div>
-    </td>
-    <td>
-      <div>S. 26: <i>(g)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Student Assistance (Youth Training Allowance—Transitional Provisions and Consequential Amendments) Act 1994</div>
-    </td>
-    <td>
-      <div>184, 1994</div>
-    </td>
-    <td>
-      <div>23 Dec 1994</div>
-    </td>
-    <td>
-      <div><i>(h)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Evidence (Transitional Provisions and Consequential Amendments) Act 1995</div>
-    </td>
-    <td>
-      <div>3, 1995</div>
-    </td>
-    <td>
-      <div>23 Feb 1995</div>
-    </td>
-    <td>
-      <div>S. 14: Royal Assent <i>(i)</i> 
-S. 27: 18 Apr 1995 <i>(i)</i> 
-</div>
-    </td>
-    <td>
-      <div>S. 14</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Human Services and Health Legislation Amendment Act (No. 3) 1995</div>
-    </td>
-    <td>
-      <div>149, 1995</div>
-    </td>
-    <td>
-      <div>16 Dec 1995</div>
-    </td>
-    <td>
-      <div>Schedule 2 
-(items 2, 3): Royal Assent <i>(j)</i> 
-</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Social Security and Veterans’ Affairs Legislation Amendment Act 1995</div>
-    </td>
-    <td>
-      <div>1, 1996</div>
-    </td>
-    <td>
-      <div>9 Jan 1996</div>
-    </td>
-    <td>
-      <div>Schedule 15: 20 Sept 1996 <i>(k)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998</div>
-    </td>
-    <td>
-      <div>45, 1998</div>
-    </td>
-    <td>
-      <div>17 June 1998</div>
-    </td>
-    <td>
-      <div>Schedule 13 (items 10, 11): 1 July 1998 <i>(l)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-    </td>
-    <td>
-      <div>146, 1999</div>
-    </td>
-    <td>
-      <div>11 Nov 1999</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 397, 398): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(m)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
-    </td>
-    <td>
-      <div>10, 2001</div>
-    </td>
-    <td>
-      <div>22 Mar 2001</div>
-    </td>
-    <td>
-      <div>Schedule 3 (item 6): 19 Apr 2001 <i>(n)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-    </td>
-    <td>
-      <div>137, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>2 Oct 2001</div>
-    </td>
-    <td>
-      <div>S. 4 \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Disability Services Amendment (Improved Quality Assurance) Act 2002</div>
-    </td>
-    <td>
-      <div>28, 2002</div>
-    </td>
-    <td>
-      <div>5 Apr 2002</div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 2–52): 1 July 2002 
-Remainder: Royal Assent 
-</div>
-    </td>
-    <td>
-      <div>Sch. 1 (items 3, 52) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003</div>
-    </td>
-    <td>
-      <div>150, 2003</div>
-    </td>
-    <td>
-      <div>19 Dec 2003</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 98–101): <i>(o)</i></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) Act 2005</div>
-    </td>
-    <td>
-      <div>154, 2005</div>
-    </td>
-    <td>
-      <div>14 Dec 2005</div>
-    </td>
-    <td>
-      <div>Schedule 23 (items 1–5): 1 July 2006</div>
-    </td>
-    <td>
-      <div>Sch. 23 (item 5) \[ <i>see</i>Table A]</div>
-    </td>
-  </tr>
-</tbody></table>
-
+<tr>
+  <td>
+    <div>Disability Services Act 1986</div>
+  </td>
+  <td>
+    <div>129, 1986</div>
+  </td>
+  <td>
+    <div>9 Dec 1986</div>
+  </td>
+  <td>
+    <div>5 June 1987 ( <i>see Gazette</i>1986, 
+No. S110)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Employment, Education and Training Act 1988</div>
+  </td>
+  <td>
+    <div>80, 1988</div>
+  </td>
+  <td>
+    <div>24 June 1988</div>
+  </td>
+  <td>
+    <div>1 July 1988 ( <i>see Gazette</i>1988, 
+No. S190)</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statutory Instruments (Tabling and Disallowance) Legislation Amendment Act 1988</div>
+  </td>
+  <td>
+    <div>99, 1988</div>
+  </td>
+  <td>
+    <div>2 Dec 1988</div>
+  </td>
+  <td>
+    <div>2 Dec 1988</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Community Services and Health Legislation Amendment Act (No. 2) 1990</div>
+  </td>
+  <td>
+    <div>141, 1990</div>
+  </td>
+  <td>
+    <div>28 Dec 1990</div>
+  </td>
+  <td>
+    <div>Part 3 (ss. 11, 12): Royal Assent <i>(a)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security (Rewrite) Transition Act 1991</div>
+  </td>
+  <td>
+    <div>70, 1991</div>
+  </td>
+  <td>
+    <div>25 June 1991</div>
+  </td>
+  <td>
+    <div><i>(b)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Veterans’ Entitlements (Rewrite) Transition Act 1991</div>
+  </td>
+  <td>
+    <div>73, 1991</div>
+  </td>
+  <td>
+    <div>25 June 1991</div>
+  </td>
+  <td>
+    <div>S. 21: 1 July 1991 <i>(c)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Health, Housing and Community Services Legislation Amendment Act 1992</div>
+  </td>
+  <td>
+    <div>88, 1992</div>
+  </td>
+  <td>
+    <div>30 June 1992</div>
+  </td>
+  <td>
+    <div>Part 2 (ss. 4–28): Royal Assent <i>(d)</i></div>
+  </td>
+  <td>
+    <div>Ss. 6(2) and 28</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Health and Community Services Legislation Amendment Act (No.2) 1993</div>
+  </td>
+  <td>
+    <div>76, 1993</div>
+  </td>
+  <td>
+    <div>25 Nov 1993</div>
+  </td>
+  <td>
+    <div>Part 2 (ss. 3–5): Royal Assent <i>(e)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Human Services and Health Legislation Amendment Act 1994</div>
+  </td>
+  <td>
+    <div>80, 1994</div>
+  </td>
+  <td>
+    <div>23 June 1994</div>
+  </td>
+  <td>
+    <div>Ss. 4 and 5: Royal Assent <i>(f)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
+  </td>
+  <td>
+    <div>164, 1994</div>
+  </td>
+  <td>
+    <div>16 Dec 1994</div>
+  </td>
+  <td>
+    <div>S. 26: <i>(g)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Student Assistance (Youth Training Allowance—Transitional Provisions and Consequential Amendments) Act 1994</div>
+  </td>
+  <td>
+    <div>184, 1994</div>
+  </td>
+  <td>
+    <div>23 Dec 1994</div>
+  </td>
+  <td>
+    <div><i>(h)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Evidence (Transitional Provisions and Consequential Amendments) Act 1995</div>
+  </td>
+  <td>
+    <div>3, 1995</div>
+  </td>
+  <td>
+    <div>23 Feb 1995</div>
+  </td>
+  <td>
+    <div>S. 14: Royal Assent <i>(i)</i> 
+S. 27: 18 Apr 1995 <i>(i)</i></div>
+  </td>
+  <td>
+    <div>S. 14</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Human Services and Health Legislation Amendment Act (No. 3) 1995</div>
+  </td>
+  <td>
+    <div>149, 1995</div>
+  </td>
+  <td>
+    <div>16 Dec 1995</div>
+  </td>
+  <td>
+    <div>Schedule 2 
+(items 2, 3): Royal Assent <i>(j)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security and Veterans’ Affairs Legislation Amendment Act 1995</div>
+  </td>
+  <td>
+    <div>1, 1996</div>
+  </td>
+  <td>
+    <div>9 Jan 1996</div>
+  </td>
+  <td>
+    <div>Schedule 15: 20 Sept 1996 <i>(k)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Social Security Legislation Amendment (Youth Allowance Consequential and Related Measures) Act 1998</div>
+  </td>
+  <td>
+    <div>45, 1998</div>
+  </td>
+  <td>
+    <div>17 June 1998</div>
+  </td>
+  <td>
+    <div>Schedule 13 (items 10, 11): 1 July 1998 <i>(l)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+  </td>
+  <td>
+    <div>146, 1999</div>
+  </td>
+  <td>
+    <div>11 Nov 1999</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 397, 398): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(m)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
+  </td>
+  <td>
+    <div>10, 2001</div>
+  </td>
+  <td>
+    <div>22 Mar 2001</div>
+  </td>
+  <td>
+    <div>Schedule 3 (item 6): 19 Apr 2001 <i>(n)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Family and Community Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+  </td>
+  <td>
+    <div>137, 2001</div>
+  </td>
+  <td>
+    <div>1 Oct 2001</div>
+  </td>
+  <td>
+    <div>2 Oct 2001</div>
+  </td>
+  <td>
+    <div>S. 4 \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Disability Services Amendment (Improved Quality Assurance) Act 2002</div>
+  </td>
+  <td>
+    <div>28, 2002</div>
+  </td>
+  <td>
+    <div>5 Apr 2002</div>
+  </td>
+  <td>
+    <div>Schedule 1 (items 2–52): 1 July 2002 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>Sch. 1 (items 3, 52) \[ <i>see</i>Table A]</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Higher Education Support (Transitional Provisions and Consequential Amendments) Act 2003</div>
+  </td>
+  <td>
+    <div>150, 2003</div>
+  </td>
+  <td>
+    <div>19 Dec 2003</div>
+  </td>
+  <td>
+    <div>Schedule 2 (items 98–101): <i>(o)</i></div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) Act 2005</div>
+  </td>
+  <td>
+    <div>154, 2005</div>
+  </td>
+  <td>
+    <div>14 Dec 2005</div>
+  </td>
+  <td>
+    <div>Schedule 23 (items 1–5): \[ <i>see</i>Note 2 and Table A]</div>
+  </td>
+  <td>
+    <div>Sch. 23 (item 5) \[ <i>see</i>Table A]</div>
+  </td>
+</tr></table>
 
 _(a)_     The _Disability Services Act 1986_ was amended by Part 3 (sections 11 and 12) only of the _Community Services and Health Legislation Amendment Act (No. 2) 1990_, subsection 2(1) of which provides as follows:
 
@@ -2108,35 +2107,32 @@ _(o)_     Subsection 2(1) (item 8) of the _Higher Education Support (T
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        8\. Schedule 2, items 95 to 103
-      </div>
-    </td>
-    <td>
-      <div>
-        The later of:
-      </div>
-      <div>
-        (a)
-        1 January 2004
-        ; and
-      </div>
-      <div>
-        (b) immediately after the commencement of sections 1-10 to 238-15 of the
-          <i>Higher Education Support Act 2003</i>.
-      </div>
-    </td>
-    <td>
-      <div>
-        1 January 2004
-      </div>
-    </td>
-  </tr>
-</tbody></table>
-
+<tr>
+  <td>
+    <div>
+      8\. Schedule 2, items 95 to 103
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a)
+      1 January 2004
+      ; and
+    </div>
+    <div>
+      (b) immediately after the commencement of sections 1-10 to 238-15 of the
+        <i>Higher Education Support Act 2003</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 January 2004
+    </div>
+  </td>
+</tr></table>
 
 ## Table of Amendments
 
@@ -2161,681 +2157,708 @@ _(o)_     Subsection 2(1) (item 8) of the _Higher Education Support (T
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div><b>Part I</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3</div>
-    </td>
-    <td>
-      <div>am. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3A</div>
-    </td>
-    <td>
-      <div>ad. No. 137, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4</div>
-    </td>
-    <td>
-      <div>am. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>rs. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5A</div>
-    </td>
-    <td>
-      <div>ad. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part</b> <b>IA</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part IA</div>
-    </td>
-    <td>
-      <div>ad. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 6A–6E</div>
-    </td>
-    <td>
-      <div>ad. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part II</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>am. No. 80, 1988; No. 141, 1990; No. 88, 1992; No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 9</div>
-    </td>
-    <td>
-      <div>rs. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 9A</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rs. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 9B, 9C</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 10</div>
-    </td>
-    <td>
-      <div>am. No. 88, 1992; No. 149, 1995</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 11</div>
-    </td>
-    <td>
-      <div>rep. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 12</div>
-    </td>
-    <td>
-      <div>am. No. 88, 1992; No. 149, 1995</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2A</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 2A of Part II</div>
-    </td>
-    <td>
-      <div>ad. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Subdivision A</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 12AA, 12AB</div>
-    </td>
-    <td>
-      <div>ad. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Subdivision B</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 12AC, 12AD</div>
-    </td>
-    <td>
-      <div>ad. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Subdivision C</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 12AE</div>
-    </td>
-    <td>
-      <div>ad. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Div. 3 of Part II</div>
-    </td>
-    <td>
-      <div>rs. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 3 of Part II</div>
-    </td>
-    <td>
-      <div>rep. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 12A</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 13</div>
-    </td>
-    <td>
-      <div>am. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14</div>
-    </td>
-    <td>
-      <div>rs. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14A</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 3A</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 3A of Part II</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14B</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14C</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 14D–14F</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 3B</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Div. 3B of Part II.</div>
-    </td>
-    <td>
-      <div>rs. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 3B of Part II</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14G</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14GA</div>
-    </td>
-    <td>
-      <div>ad. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14H</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14J</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 76, 1993; No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 4</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 14K</div>
-    </td>
-    <td>
-      <div>rs. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14K</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 15</div>
-    </td>
-    <td>
-      <div>rs. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 16</div>
-    </td>
-    <td>
-      <div>am. No. 88, 1992; No. 76, 1993</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part III</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 17</div>
-    </td>
-    <td>
-      <div>am. No. 70, 1991; No. 88, 1992; No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19</div>
-    </td>
-    <td>
-      <div>am. No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 20</div>
-    </td>
-    <td>
-      <div>am. No. 88, 1992; No. 154, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 21A</div>
-    </td>
-    <td>
-      <div>ad. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 154, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22</div>
-    </td>
-    <td>
-      <div>am. Nos. 70 and 73, 1991; No. 88, 1992; Nos. 164 and 184,1994; No. 1, 1996; No. 45, 1998; No. 28, 2002; No. 150, 2003</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 3</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 23</div>
-    </td>
-    <td>
-      <div>am. No. 80, 1994; No. 10, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 24</div>
-    </td>
-    <td>
-      <div>am. No. 70, 1991; No. 88, 1992; No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 25</div>
-    </td>
-    <td>
-      <div>am. No. 88, 1992; No. 146, 1999</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 26</div>
-    </td>
-    <td>
-      <div>am. No. 80, 1994</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 27</div>
-    </td>
-    <td>
-      <div>am. No. 137, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 28</div>
-    </td>
-    <td>
-      <div>am. No. 70, 1991; No. 137, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part IV</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 31</div>
-    </td>
-    <td>
-      <div>am. No. 99, 1988; No. 88, 1992; No. 3, 1995; No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 32</div>
-    </td>
-    <td>
-      <div>am. No. 88, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 33</div>
-    </td>
-    <td>
-      <div>am. No. 88, 1992; No. 28, 2002</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 34</div>
-    </td>
-    <td>
-      <div>am. No. 28, 2002</div>
-    </td>
-  </tr>
-</tbody></table>
+<tr>
+  <td>
+    <div><b>Part I</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3A</div>
+  </td>
+  <td>
+    <div>ad. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div>rs. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5A</div>
+  </td>
+  <td>
+    <div>ad. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part</b> <b>IA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part IA</div>
+  </td>
+  <td>
+    <div>ad. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 6A–6E</div>
+  </td>
+  <td>
+    <div>ad. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part II</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div>am. No. 80, 1988; No. 141, 1990; No. 88, 1992; No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>rs. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9A</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 9B, 9C</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>am. No. 88, 1992; No. 149, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11</div>
+  </td>
+  <td>
+    <div>rep. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12</div>
+  </td>
+  <td>
+    <div>am. No. 88, 1992; No. 149, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2A of Part II</div>
+  </td>
+  <td>
+    <div>ad. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12AA, 12AB</div>
+  </td>
+  <td>
+    <div>ad. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 12AC, 12AD</div>
+  </td>
+  <td>
+    <div>ad. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12AE</div>
+  </td>
+  <td>
+    <div>ad. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3 of Part II</div>
+  </td>
+  <td>
+    <div>rs. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3 of Part II</div>
+  </td>
+  <td>
+    <div>rep. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12A</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>am. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>rs. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14A</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3A of Part II</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14B</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14C</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 14D–14F</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 3B of Part II.</div>
+  </td>
+  <td>
+    <div>rs. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3B of Part II</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14G</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14GA</div>
+  </td>
+  <td>
+    <div>ad. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14H</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14J</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 76, 1993; No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 14K</div>
+  </td>
+  <td>
+    <div>rs. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14K</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15</div>
+  </td>
+  <td>
+    <div>rs. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16</div>
+  </td>
+  <td>
+    <div>am. No. 88, 1992; No. 76, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part III</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17</div>
+  </td>
+  <td>
+    <div>am. No. 70, 1991; No. 88, 1992; No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19</div>
+  </td>
+  <td>
+    <div>am. No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20</div>
+  </td>
+  <td>
+    <div>am. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21A</div>
+  </td>
+  <td>
+    <div>ad. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>am. Nos. 70 and 73, 1991; No. 88, 1992; Nos. 164 and 184,1994; No. 1, 1996; No. 45, 1998; No. 28, 2002; No. 150, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 23</div>
+  </td>
+  <td>
+    <div>am. No. 80, 1994; No. 10, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 24</div>
+  </td>
+  <td>
+    <div>am. No. 70, 1991; No. 88, 1992; No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25</div>
+  </td>
+  <td>
+    <div>am. No. 88, 1992; No. 146, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26</div>
+  </td>
+  <td>
+    <div>am. No. 80, 1994</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27</div>
+  </td>
+  <td>
+    <div>am. No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28</div>
+  </td>
+  <td>
+    <div>am. No. 70, 1991; No. 137, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31</div>
+  </td>
+  <td>
+    <div>am. No. 99, 1988; No. 88, 1992; No. 3, 1995; No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 32</div>
+  </td>
+  <td>
+    <div>am. No. 88, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33</div>
+  </td>
+  <td>
+    <div>am. No. 88, 1992; No. 28, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34</div>
+  </td>
+  <td>
+    <div>am. No. 28, 2002</div>
+  </td>
+</tr></table>
 
+### Note 2
+
+_Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) Act 2005 (No. 154, 2005)_
+
+The following amendments commence on 1 July 2006:
+
+## Schedule 23
+
+## 1  Subsection 20(1)
+
+Repeal the subsection, substitute:
+
+             (1)  Subject to section 21, if:
+
+                     (a)  there are guidelines formulated under section 5 that relate to this section; and
+
+                     (b)  the Secretary is satisfied that the provision of a rehabilitation program for a person in the target group would comply with the guidelines;
+
+the Secretary may, on the Commonwealth’s behalf, approve the provision of the rehabilitation program for the person, together with any follow-up program that the Secretary considers necessary or desirable.
+
+## 2  Paragraphs 21A(1)(b) and (c)
+
+Repeal the paragraphs, substitute:
+
+                     (b)  after the time determined by the Secretary under subsection (1A).
+
+## 3  After subsection 21A(1)
+
+Insert:
+
+          (1A)  The Secretary may determine that provision of a rehabilitation program must end after a specified time.
+
+## 4  Subsection 21A(2)
+
+After “In making a determination”, insert “under subsection (1A)”.
+
+As at 21 December 2005 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2849,13 +2872,10 @@ _Family and Community Services Legislation Amendment (Application of Criminal Co
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
-
- </div>
+* * *
 
 _Disability Services Amendment (Improved Quality Assurance) Act 2002 
-(No. 28, 2002)
-_
+ (No. 28, 2002)_
 
 ## Schedule 1
 
@@ -2867,11 +2887,11 @@ A determination made by the Minister that was in force under paragraph 9C(a) of 
 
 Despite the amendments made by this Schedule, the _Disability Services Act 1986_ as in force immediately before the commencement of this item continues to apply in respect of grants of financial assistance in respect of employment services approved before 1 July 2002 as if those amendments had not been made.
 
-<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
-
- </div>
+* * *
 
 _Employment and Workplace Relations Legislation Amendment (Welfare to Work and Other Measures) Act 2005 (No. 154, 2005)_
+
+The following provision commences on 1 July 2006:
 
 ## Schedule 23
 
@@ -2879,5 +2899,6 @@ _Employment and Workplace Relations Legislation Amendment (Welfare to Work and O
 
 The amendments of the _Disability Services Act 1986_ made by this Schedule apply to all rehabilitation programs being considered for approval on or after the commencement of this Schedule.
 
+ 
 
  
